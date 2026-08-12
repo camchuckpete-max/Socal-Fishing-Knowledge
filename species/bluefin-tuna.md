@@ -18,25 +18,26 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
 ## Where & when
 
 - **Season / geography (the annual slide):**
-  - **April** — bluefin still far south, a sonar-school + night-jig fishery
+  - **[Warming transition regime](../conditions/water-regimes.md) (typically April)** — bluefin still far south, a sonar-school + night-jig fishery
     mostly out of skiff range; the sportboat edge is being in the zone before
     gray light ([April priors](../seasonal/april.md)).
-  - **May** — fish creep into US waters ahead of the volume; first paddy yellows
+  - **Warming transition, back half (typically May)** — fish creep into US waters ahead of the volume; first paddy yellows
     appear with them; night bite plus daytime flying-fish imitations for grade
     ([May priors](../seasonal/may.md)).
-  - **June–July** — full moons drive the night bite; July geography = the
+  - **Early warm-stable regime (typically June–July)** — full moons drive the night bite; July geography = the
     **below-Clemente complex (the 43, 181, 182, 289, Clemente Ridge up to
     Mackerel Bank)** reading as **one ~50–60 sq mi search box** — plan hours of
     looking, not a spot-check ([June–July priors](../seasonal/june-july.md)).
-  - **August** — peak dispersal: **Cat to San Nicolas to Ventura, "showing up in
+  - **Peak warm-stable (typically August)** — peak dispersal: **Cat to San Nicolas to Ventura, "showing up in
     weird places, gone the next day"**; the whole fleet shifts offshore
     ([August priors](../seasonal/august.md)).
-  - **September** — the **volume square SBI–Nick–Clemente–Cat** holds the bigger
+  - **Late warm-stable (typically September)** — the **volume square SBI–Nick–Clemente–Cat** holds the bigger
     fish ([September priors](../seasonal/september.md)).
-  - **October** — regime change, conditions become critical (see temp rule
+  - **Fall fragmentation regime (typically October)** — the regime change, conditions become critical (see temp rule
     below); as the coast cools the fish condense outward toward Tanner/Cortez
     ([October priors](../seasonal/october.md)).
-  - **Nov–Dec** — **Tanner/Cortez, night-dominant, 300 lb fish through November**,
+  - **Fall fragmentation into winter/upwelling (typically Nov–Dec)** —
+    **Tanner/Cortez, night-dominant, 300 lb fish through November**,
     then reverting to the **sub-30 lb winter grade by mid-December**
     ([Nov–Dec priors](../seasonal/november-december.md)).
 - **Where:** offshore banks and island fathom curves across the
@@ -205,6 +206,7 @@ and cedar plugs for mixed grade. The full table by wind/grade/water lives in
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)

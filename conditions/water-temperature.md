@@ -74,6 +74,7 @@ zone out. Do not skip otherwise-good bluefin sign because the SST reads high.
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Color](water-color.md)
+- [Water Regimes](water-regimes.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

@@ -18,7 +18,10 @@ must be re-checked against **current CDFW rules** before every trip — they cha
 ## Where & when
 
 - **Season:** the recreational spiny lobster season runs roughly **early October
-  through mid-March** (**Oct–Mar**). Confirm the exact opener/closer with CDFW for
+  through mid-March** (**Oct–Mar**) — spanning the
+  [fall fragmentation and winter/upwelling regimes](../conditions/water-regimes.md),
+  though the dates are set by regulation, not water state. Confirm the exact
+  opener/closer with CDFW for
   the year — the source video was shot in early November, mid-season.
 - **Where — rocky structure and kelp edges:** hoop net **rock, riprap, boulder
   fields, reef and the edges of kelp** where lobster crawl and forage. Productive
@@ -90,4 +93,5 @@ targeting by chart and depth**, done in the dark.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Island Structure](../locations/island-structure.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

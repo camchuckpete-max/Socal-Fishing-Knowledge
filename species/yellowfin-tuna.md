@@ -15,12 +15,15 @@ the bluefin nearby become more cooperative too.**
 
 ## Where & when
 
-- **Season:** they **arrive in August** with the warm water and stay through
-  fall, the **volume near the border sliding north** as the warm band pushes up
-  the coast ([August](../seasonal/august.md), [September](../seasonal/september.md),
-  [October](../seasonal/october.md)). By October the biggest concentrations track
-  the **warmest water on the coast** — the West End of Clemente down through
-  Mackerel Bank to the 181/182 Ridge (10/20/22).
+- **Season — keyed to the [water regime](../conditions/water-regimes.md):**
+  they arrive with the **late warm-stable regime (typically August)** and stay
+  through **fall fragmentation (Sep–Oct)**, the **volume near the border
+  sliding north** as the warm band pushes up the coast
+  ([August](../seasonal/august.md), [September](../seasonal/september.md),
+  [October](../seasonal/october.md)). Once fragmentation sets in (typically
+  October) the biggest concentrations track the **warmest water on the coast** —
+  the West End of Clemente down through Mackerel Bank to the 181/182 Ridge
+  (10/20/22).
 - **Water — warmest × cleanest:** to find yellowfin, **find the warmest water you
   can, then cross it with your chlorophyll chart to find the cleanest water** —
   that SST-max × chlorophyll-min combination is where they are most likely
@@ -50,7 +53,8 @@ the bluefin nearby become more cooperative too.**
 | **Marked / chummed-up school, eager** | [Flyline](../techniques/flyline.md) a live sardine on a circle hook; chum a few freebies first to fire them | **30 lb class**, size 2/0 circle ([gear classes](../tackle/gear-classes.md)) | Match hook to bait size; **go to strike and wind tight** — no swing needed on circles |
 | **School reacting to chum but not eating the hook bait (picky)** | Scale down (drop to **15–20 lb leader, size 1 thin-wire circle**); then the **bait-net trick** — pitch 3–4 freebies with your hook bait mixed in to fool them | Light **flyline class** | Try to work back up to 25–30 lb once they commit |
 | **Surface feeders / foamers** | [Foamer casting](../techniques/foamer-casting.md) — poppers (Chug Norris 150 class), stickbaits, small lead baits | **Jig-stick class** | Matches sardine/anchovy; **a surface yellowfin bite fires the bluefin** |
-| **Locating over a spread of paddies / scattered fish** | Slow-troll a nose-hooked live bait to both locate and entice picky fish; or troll skirts/cedar | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but doesn't pull line |
+| **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt** to find fish; on the jig strike, stop and convert the school with [flylined bait](../techniques/flyline.md) or casted lures | Light **troll class** | Trolling here is a *search* tool as much as a catch method — cover the zone, let the strike mark the school, then fish the stop. **⚠ Thin area — spread geometry:** the corpus gives yellowfin troll *speeds*, not spread design (setback distances, lure positions in the pattern); flagged pending new sources |
+| **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but doesn't pull line |
 | **Mixed under paddies with yellowtail/dorado** | [Flyline](../techniques/flyline.md) or dropper into the paddy | **30–40 lb class** | Grade the paddy fast — fish restock paddies only at night |
 
 ## Gear summary (class terms)
@@ -103,9 +107,11 @@ the bluefin nearby become more cooperative too.**
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
+- [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

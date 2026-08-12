@@ -7,6 +7,9 @@ confidence: high
 
 # October
 
+**Regime: [fall fragmentation](../conditions/water-regimes.md)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They weight zones
 before you pull live [BightSST](../planning/day-plan-protocol.md) conditions.
 A stale report is not today's water.
@@ -80,6 +83,7 @@ the fleet behavior correctly before you run to it. See
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

@@ -7,6 +7,9 @@ confidence: high
 
 # June–July
 
+**Regime: [warm stable](../conditions/water-regimes.md) (early)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They weight zones
 before you pull live [BightSST](../planning/day-plan-protocol.md) conditions.
 A stale report is not today's water.
@@ -73,6 +76,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

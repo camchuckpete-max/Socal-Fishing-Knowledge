@@ -11,6 +11,15 @@ confidence: high
 where to *start looking*, to be refined the moment you pull live
 [BightSST](../planning/day-plan-protocol.md) conditions.
 
+**Framed within the regime layer (cameron):** this is a **location prior WITHIN
+a regime**, not a calendar rule. The
+[fall fragmentation regime](../conditions/water-regimes.md) recurs every year on
+roughly the same schedule, and the bluefin route through it repeats — so "where
+were they this week last year" works as a *where-within-the-regime* starting
+box. It is only as good as the regime match: if this year's water is running
+early or late, shift the prior with the regime, don't read the calendar date
+literally.
+
 ## The prior — the bluefin route repeats year over year
 
 **"Go back to this date last year and the year before — pretty close to where
@@ -70,6 +79,7 @@ open framing is attributed doctrine, not a gate.
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

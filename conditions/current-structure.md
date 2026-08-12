@@ -138,6 +138,7 @@ become primary).
 - [Tide and Slack](tide-and-slack.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Color](water-color.md)
+- [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

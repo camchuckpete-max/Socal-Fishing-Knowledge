@@ -17,14 +17,15 @@ question (see **Doctrine & conflicts**).
 
 ## Where & when
 
-- **Season:** **fall** — marlin lead the "everything season" (marlin, first
-  swords, bluefin, yellowfin, dorado, all scattered) from ~September through
-  October (10/12/22 corpus; 5to3Q5P7w90). Tournament marlin fleets are out by
+- **Season:** **fall** — the late warm-stable into the
+  [fall fragmentation regime](../conditions/water-regimes.md): marlin lead the
+  "everything season" (marlin, first swords, bluefin, yellowfin, dorado, all
+  scattered) from ~September through October (10/12/22 corpus; 5to3Q5P7w90). Tournament marlin fleets are out by
   mid-September ("Masters" marlin tournament weekend, 5to3Q5P7w90). See
   [September](../seasonal/september.md), [October](../seasonal/october.md).
 - **Where:** outer banks, ridges, and the island volume zone — the
-  **SBI–Nick–Clemente–Catalina "square"** holds the bigger pelagics in fall
-  (5to3Q5P7w90); worked examples on the 152 Ridge and Avalon Bank put marlin in
+  **SBI–Nick–Clemente–Catalina "square"** holds the bigger pelagics in the fall
+  fragmentation window (5to3Q5P7w90); worked examples on the 152 Ridge and Avalon Bank put marlin in
   the **clean/clear water off the bait edge** (HzE4FHHcvTk). See
   [island structure](../locations/island-structure.md),
   [zone lexicon](../locations/zone-lexicon.md).
@@ -96,6 +97,7 @@ question (see **Doctrine & conflicts**).
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

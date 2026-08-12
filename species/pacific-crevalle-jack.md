@@ -25,8 +25,10 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
   is warm. See [water temperature](../conditions/water-temperature.md).
 - **SoCal (rare):** a **warm-water stray** — expect them only when a strong
   warm-water push (warm-year / El Niño-type conditions) carries tropical fish
-  north into range. Peak warm-water window is late summer into fall
-  ([August](../seasonal/august.md), [September](../seasonal/september.md)).
+  north into range. Peak warm-water window is the peak-to-late
+  [warm-stable regime into fall fragmentation](../conditions/water-regimes.md)
+  (late summer into fall —
+  [August](../seasonal/august.md), [September](../seasonal/september.md)).
 
 ## Finding them (sign & sonar)
 
@@ -83,6 +85,7 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 - [September](../seasonal/september.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

@@ -37,8 +37,9 @@ Nate Winnicki's rigging.
     Coronado Island in **60–100+ ft** — halibut sit on the structure *beside* the
     squid nests, and stay on that structure even after the squid leaves.
   See [island structure](../locations/island-structure.md).
-- **When:** an inshore fish that moves around looking for feed year-round; **spring
-  and the squid-bed months** stack big island halibut on the structure next to the
+- **When:** an inshore fish that moves around looking for feed year-round; **the
+  [warming transition regime](../conditions/water-regimes.md) (typically spring)
+  and its squid-bed months** stack big island halibut on the structure next to the
   nests. Tie the timing to **current and tide** (below), not the calendar.
 
 ## Finding them (sign & sonar)
@@ -77,6 +78,7 @@ conditions that put one there.**
 | Bay / harbor channel edge, 8–15 ft, live bait | Same **trap rig / three-way**, downsized | 15 lb fluoro, inshore 200-class reel | Maintain **bottom contact, rig straight up and down** — the bite is subtle, often just a "dragging through kelp" feel; lift and wind, never swing |
 | Squid available, islands | **[Sliding-sinker](../techniques/sliding-sinker.md)** or dropped squid on a **single 4/0–5/0 J** (no stinger) | 30 lb bait class | Squid needs solid purchase in the nose, no trap |
 | Artificial / covering water, short drifts | **[Drop-shot](../techniques/drop-shot.md)** a plastic near the bottom | Bay-bass / light bottom class | Keeps the bait right in the strike zone on the edge; pick apart bubbler zones and rockpiles instead of long straight drifts |
+| **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head
@@ -122,5 +124,6 @@ breaking the surface is when they go zero-to-100 and throw the hook.
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](white-seabass.md)
 <!-- backlinks:end -->

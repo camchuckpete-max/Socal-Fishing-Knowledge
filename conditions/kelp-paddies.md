@@ -100,6 +100,7 @@ a numbers game across many quick checks.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Water Regimes](water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

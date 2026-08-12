@@ -87,6 +87,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
+- [Water Regimes](water-regimes.md)
 - [White Seabass](../species/white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

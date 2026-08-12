@@ -25,8 +25,9 @@ dedicated program.
   ([bass structure](../locations/bass-structure.md),
   [break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md)).
 - **When:** a warm-season nearshore fishery. Barracuda appear in the reports from
-  **late spring into fall** — mixed into the bass and bonito counts from May
-  ([May](../seasonal/may.md)) through the summer
+  the late [warming transition regime into fall fragmentation](../conditions/water-regimes.md)
+  (**late spring into fall**) — mixed into the bass and bonito counts from the
+  warming transition ([May](../seasonal/may.md)) through the warm-stable summer
   ([June–July](../seasonal/june-july.md), [August](../seasonal/august.md)). The
   "three B's" show together at the Channel Islands on a variety day.
 
@@ -88,4 +89,5 @@ dedicated program.
 - [Pacific Bonito](bonito.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

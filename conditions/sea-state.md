@@ -112,4 +112,5 @@ direction will make the launch/return through the channel rough or protected.
 - [November–December](../seasonal/november-december.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Water Regimes](water-regimes.md)
 <!-- backlinks:end -->

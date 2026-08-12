@@ -25,7 +25,9 @@ every structure spot when the tide turns.
   mooring cans, dock/piling fields, riprap, and channel drop-offs** — and the
   **edges where two of those meet** ([bays and harbors](../locations/bays-and-harbors.md),
   [break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md)).
-- **When:** a year-round bay fishery; fishable in winter and marginal weather
+- **When:** a year-round bay fishery; fishable through the
+  [winter/upwelling regime](../conditions/water-regimes.md) (winter) and marginal
+  weather
   when the outside coast is blown out — post-rain, the harbor riprap is a fallback
   when island bass zones wash out ([February–March](../seasonal/february-march.md)).
 - **Tide is the engine:** a bay is a **tidal system first** — water pours in on
@@ -106,4 +108,5 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

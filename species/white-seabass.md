@@ -29,7 +29,9 @@ lead-head-and-squid is the signature rig.
   Weight **full/new ± a week** as elevated-probability windows. See
   [moon](../conditions/moon.md), [June–July](../seasonal/june-july.md),
   [October](../seasonal/october.md), [February–March](../seasonal/february-march.md).
-- **Squid is the driver.** Early-spring-through-summer WSB tracks the **squid** —
+- **Squid is the driver.** From the
+  [warming transition through the warm-stable regime](../conditions/water-regimes.md)
+  (typically early spring through summer), WSB tracks the **squid** —
   where the squid spawns (island nests, gray-light and night mating), the seabass
   follow. The lead-head-and-squid rig **mimics squid mating**, which is why it's
   deadliest in the **gray-light and night hours** (Xr4nURK-Z48).
@@ -120,4 +122,5 @@ and further still if a break-off fish (a big yellow) shares the spot (2/20/25).
 - [Surface Iron](../techniques/surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

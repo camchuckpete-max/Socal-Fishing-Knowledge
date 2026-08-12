@@ -82,6 +82,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [June–July](../seasonal/june-july.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Water Color](water-color.md)
+- [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

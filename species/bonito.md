@@ -23,11 +23,12 @@ rather than a dedicated technique study.
   the kelp** where you can pull off a structure spot and cast into the foam
   ([bass structure](../locations/bass-structure.md), [kelp paddies](../conditions/kelp-paddies.md)).
 - **When:** a broad warm-season presence — bonito turn up across the reports from
-  **spring through fall** ([May](../seasonal/may.md),
+  the [warming transition through the fall fragmentation regime](../conditions/water-regimes.md)
+  (**spring through fall** — [May](../seasonal/may.md),
   [August](../seasonal/august.md), [October](../seasonal/october.md),
   [November–December](../seasonal/november-december.md)). Sportboats "doing good
-  on the bonito" is a common line in the fall island reports; they persist later
-  into the season than many nearshore species.
+  on the bonito" is a common line in the fall fragmentation (Oct–Nov) island
+  reports; they persist later into the season than many nearshore species.
 
 ## Finding them (sign & sonar)
 
@@ -87,4 +88,5 @@ rather than a dedicated technique study.
 - [October](../seasonal/october.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

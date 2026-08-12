@@ -7,6 +7,9 @@ confidence: high
 
 # April
 
+**Regime: [warming transition](../conditions/water-regimes.md)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They tell you what
 the Bight usually does in April so you can weight zones before pulling live
 [BightSST](../planning/day-plan-protocol.md) conditions. Do not treat a stale
@@ -65,5 +68,6 @@ squid on the meter before you write the spot off.
 - [Sea State](../conditions/sea-state.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -17,10 +17,13 @@ describes are **2019 and 2020**).
 
 ## Where & when
 
-- **Season:** late **September – December**; peak **October – mid-November**
+- **Season:** the [fall fragmentation regime](../conditions/water-regimes.md),
+  entered from late warm-stable — late **September – December**; peak
+  **October – mid-November**
   (interannual — some years hot late Sept/Oct, others mid-Nov; last fish ~a week
   before Christmas). Holdover fish are around year-round but generally **not
-  worth the fuel Jan–Aug**. See [Nov–Dec priors](../seasonal/november-december.md).
+  worth the fuel Jan–Aug** (the winter/upwelling, warming transition, and
+  early-to-peak warm-stable regimes). See [Nov–Dec priors](../seasonal/november-december.md).
 - **Where:** **150–350 fathoms** on contour lines, thumbs, notches, humps.
   Named working spots: the Ridge, the 9, the 43, the 178, the 302, the 138/182
   area on break days. West-coast model — **set up and let the fish come along
@@ -102,6 +105,7 @@ the *layer and its bait*, not the fish. Requirements before you stop:
 - [October](../seasonal/october.md)
 - [Sea State](../conditions/sea-state.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

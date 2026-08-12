@@ -7,6 +7,9 @@ confidence: high
 
 # August
 
+**Regime: [warm stable](../conditions/water-regimes.md) (peak)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They weight zones
 before you pull live [BightSST](../planning/day-plan-protocol.md) conditions.
 A stale report is not today's water.
@@ -81,5 +84,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

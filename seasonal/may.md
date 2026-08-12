@@ -7,6 +7,9 @@ confidence: high
 
 # May
 
+**Regime: [warming transition](../conditions/water-regimes.md)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They weight zones
 before you pull live [BightSST](../planning/day-plan-protocol.md) conditions.
 A stale report is not today's water.
@@ -61,6 +64,7 @@ Read the water with [water temperature](../conditions/water-temperature.md),
 - [Pacific Bonito](../species/bonito.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

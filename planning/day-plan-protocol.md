@@ -76,6 +76,7 @@ navigate the whole KB.
 - [September](../seasonal/september.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

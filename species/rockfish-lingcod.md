@@ -22,12 +22,14 @@ is a short menu. Primary source is Erik Landesfeind's rockfish tackle Academy
   **closes year-end** (roughly Jan–Feb depending on the CDFW annual regs and
   depth constraints — verify current-year dates and depth limits before you go).
   See [Nov–Dec priors](../seasonal/november-december.md).
-- **The lings-shallow window (Nov–Dec):** **Santa Ana events flatten the NW
+- **The lings-shallow window — the
+  [fall fragmentation regime](../conditions/water-regimes.md) handing off to
+  winter/upwelling (typically Nov–Dec):** **Santa Ana events flatten the NW
   outer islands** (Rosa/Miguel) and that is the trigger to run them for
   **shallow rockfish and lingcod** — the lings pull up onto shallow high spots
   in late fall (11/23/22). This is a weather-gated target: you need 2+ calm/Santa
   Ana days before a Rosa/Miguel crossing. See [February–March](../seasonal/february-march.md)
-  for the winter deep-structure default.
+  for the winter/upwelling-regime deep-structure default.
 - **Where:** hard-bottom **pinnacles, humps, ridges and high spots**. Two depth
   regimes:
   - **Shallow (100–250 ft):** the **Channel Islands** (Santa Cruz, Santa Rosa,
@@ -125,5 +127,6 @@ the *bottom*, not the fish.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

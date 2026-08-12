@@ -7,6 +7,9 @@ confidence: high
 
 # September
 
+**Regime: [warm stable](../conditions/water-regimes.md) (late)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They weight zones
 before you pull live [BightSST](../planning/day-plan-protocol.md) conditions.
 A stale report is not today's water.
@@ -68,6 +71,7 @@ the same structure.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

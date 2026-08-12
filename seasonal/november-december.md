@@ -7,6 +7,10 @@ confidence: high
 
 # November–December
 
+**Regime: [fall fragmentation](../conditions/water-regimes.md) → winter /
+upwelling onset** — typical-year mapping; in an anomalous year trust the live
+water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They weight zones
 before you pull live [BightSST](../planning/day-plan-protocol.md) conditions.
 A stale report is not today's water.
@@ -77,5 +81,6 @@ then work it on the meter — the fish won't be on the surface. See
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](../conditions/sea-state.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 <!-- backlinks:end -->

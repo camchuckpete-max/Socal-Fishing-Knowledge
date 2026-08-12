@@ -27,11 +27,13 @@ rocks.
   Pipes and man-made structure on the flats hold winter fish
   ([break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md)).
 - **When — summer spawn is the event:** they **ball up and spawn** through the
-  early summer (peaking around late June–July), congregating on the flats where a
+  early [warm-stable regime](../conditions/water-regimes.md) (early summer,
+  peaking around late June–July), congregating on the flats where a
   half-day or twilight boat finds them eating every cast. See
   [June–July](../seasonal/june-july.md). Loading the tanks with nice
   **anchovy** is a good sign for the day.
-- **Winter:** less active, **locked to the bottom** on deep structure, more of a
+- **Winter — the winter/upwelling regime (typically mid-Dec through March):**
+  less active, **locked to the bottom** on deep structure, more of a
   reaction bite. The winter deep-structure program — including **crankbait over
   suspended bait balls above pipes** — fishes all season and stays productive
   even when rain washes out the shallow island zones. See
@@ -105,4 +107,5 @@ rocks.
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

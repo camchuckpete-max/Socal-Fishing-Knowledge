@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, coronados, bola, paddies]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, cameron]
+tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, cameron]
 confidence: high
 ---
 
@@ -17,25 +17,64 @@ they are* moves week to week even when the calendar says otherwise.
 
 ## Where & when
 
-- **Coronado Islands** — the springtime classic (~13 mi from San Diego, off
-  Mexico; the western coast is exposed to colder Pacific currents and tidal
-  swings, so the water stays bait-rich). "The Coronados are synonymous with
-  yellowtail" (D5DR7Kx42_A). See [April](../seasonal/april.md),
-  [May](../seasonal/may.md), [island structure](../locations/island-structure.md).
-- **La Jolla and the SD offshore banks**, plus the islands (SCI/Catalina) —
-  structure yellows on hard bottom and pinnacles.
+The fishery runs the full range, north to south — presented evenly here; how
+any one angler weights it is profile data, not fishery fact. Timing is keyed to
+the [water regime](../conditions/water-regimes.md), months in parentheses as the
+typical-year mapping.
+
+- **Channel Islands — Santa Barbara Island / Sutil (the squid→yellowtail
+  zone).** SBI and Sutil fish as a squid-driven zone: when squid are in, take
+  squid and the yellowtail bite — "Nick/SBI … you definitely still have a
+  chance at yellowtail and there's squid around … you take a squid to any of
+  these islands you'll probably have a good chance of catching the yellowtail"
+  (10/26/22, 5p6gu14ZC4w). Squid-zone dynamics govern: when the squid drops
+  deep or moves, **the bite dies but the fish did not leave** — relocate the
+  forage on the meter before writing the zone off (4/21/22, YZtX1MiT0y8;
+  observed at the SCI squid zone, same mechanics). A **squid-colored jig with
+  glow** is the change-up when they're feeding on squid (4/21/22).
+  Squid-dependent more than calendar-dependent; shows in both the warming
+  transition (spring) and fall fragmentation (Oct–Nov) regimes.
+- **Catalina** — structure yellows on hard bottom, plus fall fish when the
+  water holds: ~40 yellows in a day at Catalina in late October, and "no reason
+  you couldn't catch a yellowtail" while temps stay good even outside prime
+  time (10/26/22, 5p6gu14ZC4w). **Farnsworth Bank** (caption-garbled as
+  "foreign First Bank"; identified by the described closure rule) gives good
+  **fall yo-yo fishing** — note it sits in a marine closure where **only
+  yellowtail and bonito may be kept** (10/26/22). See
+  [island structure](../locations/island-structure.md).
+- **San Clemente Island** — a squid fishery on the back side / east end: nice
+  20–25 lb average fish, high teens to high 30s, biting squid (4/21/22,
+  YZtX1MiT0y8). Classic squid-zone behavior — the bite dried up after the first
+  hits, read as the squid moving deeper, not the fish leaving
+  ([April](../seasonal/april.md)). Warming transition (spring), squid-driven.
+- **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
+  from LA to San Diego in the warm-stable regime (summer); squid on the coast
+  pulls them in as well (10/26/22). Surface iron along the kelp edge is the
+  classic approach (cameron; corpus coverage thin).
+- **La Jolla and the SD offshore banks** — structure yellows on hard bottom and
+  pinnacles, strongest warming-transition into warm-stable (spring–summer).
+- **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
+  San Diego, off Mexico; the western coast is exposed to colder Pacific
+  currents and tidal swings, so the water stays bait-rich). "The Coronados are
+  synonymous with yellowtail" (D5DR7Kx42_A). **Seeing-not-biting cycles:**
+  Coronado yellows run "seeing-not-biting" cycles with **narrow daily windows**
+  — you'll mark and even see fish that won't eat until a short window opens
+  (4/21/22, YZtX1MiT0y8). Anchor those days to tide and current, not to the
+  clock. See [April](../seasonal/april.md), [May](../seasonal/may.md).
+- **Offshore paddies** — traveling fish under
+  [kelp paddies](../conditions/kelp-paddies.md); the **first paddy yellows
+  appear with the incoming bluefin** in the warming transition
+  ([May](../seasonal/may.md)), and the paddy program peaks in warm-stable
+  ([August](../seasonal/august.md)).
+- **Baja coast** — the coastal structure, islands, and ridges between the
+  border and BOLA carry yellowtail more or less year-round, grade improving
+  south (cameron; thin in the current corpus — expect this entry to grow with
+  the next batch).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
-  **September program (cameron):** the fish are **on the bottom** that time of
-  year — worked with **dropper loops and yo-yo iron**. See
-  [September](../seasonal/september.md).
-- **Paddy yellows** — traveling fish under offshore [kelp paddies](../conditions/kelp-paddies.md);
-  the **first paddy yellows appear in May** with the incoming bluefin
-  ([May](../seasonal/may.md)).
-- **Seeing-not-biting cycles** — Coronado yellows run "seeing-not-biting" cycles
-  with **narrow daily windows**: you'll mark and even see fish that won't eat
-  until a short window opens (4/21/22, YZtX1MiT0y8). Anchor those days to tide
-  and current, not to the clock.
+  **Late warm-stable (September) program (cameron):** the fish are **on the
+  bottom** that time of year — worked with **dropper loops and yo-yo iron**.
+  See [September](../seasonal/september.md).
 
 **Modeling stance (cameron):** the calendar date/month doesn't matter for
 yellowtail — **they follow water temperature and bait, and the bait follows
@@ -74,6 +113,7 @@ of water state. Kept side by side with the corpus
 | **Tight balls hugging structure** / marks on hard bottom or pinnacles (~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-ratio reel | Heavy full-size iron (Salas 6X class); hit bottom, **a couple cranks off the bottom = reaction bite**; dropper loop for live-bait presentation to the same marks |
 | **Deep marks on a high spot** (BOLA/Baja), fast drift | [Slow-pitch / vertical jigging](../techniques/slow-pitch-jigging.md) | Slow-pitch / knife-jig class, **130–250 g** | 150–300 ft zone (bit best 150–180 ft); vertical/knife jigs punch down fast in current, wing-falls flutter — **they bump it on the fall, then wind tight**; match jig weight to rod rating |
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
+| **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers trolling *for yellowtail* yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method" |
 
 ## Gear summary (class terms)
 
@@ -112,6 +152,7 @@ of water state. Kept side by side with the corpus
 ## Linked from
 
 - [April](../seasonal/april.md)
+- [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
@@ -134,6 +175,8 @@ of water state. Kept side by side with the corpus
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Trolling](../techniques/trolling.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

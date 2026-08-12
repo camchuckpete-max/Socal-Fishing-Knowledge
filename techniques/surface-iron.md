@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, cameron]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, cameron]
 confidence: high
 ---
 
@@ -50,6 +50,32 @@ the blank.
 - Reel speed matters. A high-gear jig-stick reel (~**42 in per crank** on a
   Tranx-500-class HG) covers the range from a slow grind up to the fast yellow
   speed just by changing crank cadence.
+
+## Size / weight selection
+
+- **Wind up → heavier iron.** When it's windy, step up to a heavier surface
+  iron (Salas 7X class) — the extra weight "makes casting out a lot easier …
+  giving me a little boost in my cast" to punch through the wind (D5DR7Kx42_A).
+- **Anchovy / "rice" bait → downsize and match the hatch.** The big irons —
+  Tady 45, Salas 7X — have been the standard since the sardine cycle started in
+  the early 1990s (~1993). But when the forage shrinks to small anchovy
+  ("rice"), drop to a light iron (Tady AA-light / A1-light class — roughly a
+  **third the weight** of a Tady 45): on small bait the small jig out-bites the
+  big one **two or three to one** (2/27/25, pcwcRdmWmLc).
+- **The lighter iron drags the tackle down with it.** You can't throw an
+  AA-light on the 80 lb jig stick — the downsized setup is a medium-action 9 ft
+  graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
+  fluorocarbon leader (2/27/25).
+
+## Color
+
+**Thin area — no color doctrine in the current sources.** The corpus contains
+no systematic surface-iron color doctrine, and none is invented here. The lone
+color datum on record comes from an adjacent technique: a **squid-colored jig
+with glow** (charged on the deck lights) making the difference when fish are
+feeding on squid — said of slow-pitch/knife jigs, not surface iron (4/21/22,
+YZtX1MiT0y8). Awaiting the ~400-video batch; until then choose size, weight,
+and swim first — color last.
 
 ## Gear-class detail
 

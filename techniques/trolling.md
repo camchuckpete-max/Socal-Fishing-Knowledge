@@ -113,4 +113,6 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

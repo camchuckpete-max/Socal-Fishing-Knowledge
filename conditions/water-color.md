@@ -88,6 +88,7 @@ water. (Consistent with the corpus "warmest × cleanest" read for
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
+- [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)

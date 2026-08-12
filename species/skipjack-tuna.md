@@ -15,8 +15,9 @@ but hard-charging, they'll eat almost anything moving.
 
 ## Where & when
 
-- **Season / where:** wherever the water is warm and the tuna are — **August into
-  fall**, mixed into [yellowfin](../species/yellowfin-tuna.md) schools, over the
+- **Season / where:** wherever the water is warm and the tuna are — from the peak
+  [warm-stable regime into fall fragmentation](../conditions/water-regimes.md)
+  (**August into fall**), mixed into [yellowfin](../species/yellowfin-tuna.md) schools, over the
   offshore banks and around [kelp paddies](../conditions/kelp-paddies.md). They
   track the same **warm water** as the yellowfin they run with
   ([August](../seasonal/august.md), [September](../seasonal/september.md),
@@ -82,6 +83,7 @@ but hard-charging, they'll eat almost anything moving.
 - [September](../seasonal/september.md)
 - [Striped Marlin](striped-marlin.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)

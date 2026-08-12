@@ -59,10 +59,10 @@ _Filled incrementally per step. Format: `video_id — note(s) | skipped: reason`
 | yLpDI8jnizU | conditions/deep-scattering-layer, bird-reading; planning/electronics-and-sounder |
 | 0KQ--N5TjqE | conditions/current-structure; locations/island-structure, bass-structure |
 | Kf5wk_TFgTc | seasonal/february-march |
-| pcwcRdmWmLc | seasonal/february-march |
+| pcwcRdmWmLc | seasonal/february-march; techniques/surface-iron (P2 size/weight doctrine — added at GATE B punch list) |
 | CMQkHQMxbXM | seasonal/august |
-| 5p6gu14ZC4w | planning/report-reading-and-forecasting |
-| YZtX1MiT0y8 | seasonal/april |
+| 5p6gu14ZC4w | planning/report-reading-and-forecasting; species/yellowtail (P1 SBI/Catalina fall entries — added at GATE B punch list) |
+| YZtX1MiT0y8 | seasonal/april; species/yellowtail; techniques/surface-iron (P1/P2 squid-zone + lone color datum — added at GATE B punch list) |
 | YgqXf9iICyg | locations/bays-and-harbors |
 | kwMIgkCtFUE | locations/bass-structure |
 | bydQzE3F9yM | locations/breakwalls-jetties-riprap; conditions/bird-reading |
@@ -291,7 +291,8 @@ now accounted** — a destination, `covered`, or an explicit `skipped: <reason>`
 ## Coverage summary
 
 - **128** transcripts, **all** accounted (destinations, `covered`, or `skipped`).
-- **~110 knowledge notes** across conditions (11), seasonal (9), species (18
+- **~110 knowledge notes** across conditions (11 at the main build; **12 after
+  the GATE B punch list** — adds `water-regimes`), seasonal (9), species (18
   routers + 1 decision spin-out), techniques (18 incl. deep-drop-swordfishing +
   hoop-netting), lures (12), rigging (12), tackle (5), bait (3), fish-care (3),
   locations (7), planning (4). Plus Cameron's profile (5 + README), the
@@ -354,6 +355,53 @@ now accounted** — a destination, `covered`, or an explicit `skipped: <reason>`
 **Caption-garble corrections (flagged)**
 - `leadhead-mods` (F-vOTerdulU): caption "8 oz → 1 oz" rendered as the plausible
   1/8–1 oz; `rubber-band-deep-rig` (sYrsPGXiYhI): concept only, no shaky numbers.
+
+**GATE B review corrections (punch list P1–P6, approved & executed 2026-08-12)**
+
+Cameron's expert pre-merge read, executed under a fresh `PLAN APPROVED` for the
+punch-list revision (which also committed the governing plan as
+`sources/plan.md`). Corrections and the judgment calls made executing them:
+
+- **P1 — `species/yellowtail.md` Where & when rebuilt range-wide N→S** (Channel
+  Islands/SBI–Sutil squid zone · Catalina · SCI · coastal kelps · La Jolla/SD
+  banks · Coronados · paddies · Baja coast · BOLA); `5p6gu14ZC4w` added to
+  sources. Judgment calls: (a) **caption-garble correction** — 10/26/22's
+  "foreign First Bank" (Catalina, fall yo-yo, closure where only yellowtail and
+  bonito may be kept) identified as **Farnsworth Bank** from the described
+  closure rule; flagged in-note. (b) **Coastal kelps** and **Baja coast**
+  entries carry thin corpus support — attributed `cameron` and marked thin
+  in-note rather than padded.
+- **P2 — `techniques/surface-iron.md`**: new **Size / weight selection**
+  (wind → heavier iron, `D5DR7Kx42_A`; anchovy/"rice" → downsize ~⅓ weight,
+  2–3:1 bite advantage, `pcwcRdmWmLc`) and **Color** sections. Color is an
+  **honest thin area — no doctrine invented**; the lone color datum (squid
+  color + glow, 4/21/22 `YZtX1MiT0y8`) is explicitly labeled as coming from the
+  slow-pitch/knife-jig context, not surface iron. `D5DR7Kx42_A`, `pcwcRdmWmLc`,
+  `YZtX1MiT0y8` added to the note's sources.
+- **P3 — `species/yellowfin-tuna.md`**: trolling expanded to a full
+  troll-to-locate situation entry (cedar/feathers ~6–6.5 kt, convert the stop);
+  **spread-design geometry (setbacks/positions) flagged as a thin area** —
+  corpus gives speeds, not spread design.
+- **P4 — router-stub rule** added to CLAUDE.md (flagged stub, never silence).
+  **Stubs added by the sanctioned audit** (each `⚠ Flagged stub — no corpus
+  source yet`):
+  - `species/yellowtail.md` — **trolling to locate** (esp. Baja) — the P4 stub.
+  - `species/california-halibut.md` — **bounce-ball trolling** (standard SoCal
+    coastal-flats halibut method; absent from corpus).
+  - Audit found **no other clearly-warranted stubs** — the remaining routers'
+    tables (bluefin, dorado, marlin, WSB, calico, sand bass, barracuda, bonito,
+    rockfish-lingcod) already carry their standard real-fishery methods.
+- **P5 — regime layer** (cameron house doctrine, high):
+  `conditions/water-regimes.md` created (four regimes + anomaly guidance);
+  `seasonal/README.md` routes regime-first; all **8 month notes** headed with
+  their regime (punch-list "(9)" corrected — seasonal/ = 8 month notes +
+  year-anniversary-prior); `year-anniversary-prior.md` reframed as a **location
+  prior WITHIN the fall-fragmentation regime** with the
+  water-state-vs-anniversary conflict kept visible; species Where & when keyed
+  to regime with months in parentheses across all routers with seasonal
+  content; governing plan committed as `sources/plan.md` with the Context
+  correction and tree counts synced (conditions 12, techniques 18).
+- **P6 — this entry.**
 
 **Cameron open items preserved (attributed, not doctrine)**
 - SPJ/speed-jig setup shopping; 10 ft jig-stick yellowtail reps; kite (no helium/

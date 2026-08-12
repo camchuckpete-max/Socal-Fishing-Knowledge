@@ -16,14 +16,16 @@ you see a handful (E4vKwRaRueA).
 
 ## Where & when
 
-- **Season:** first fish usually show **July–August**, building through
-  **late summer into fall**. "You always want to be prepared, especially in
+- **Season:** first fish usually show with the early-to-peak
+  [warm-stable regime](../conditions/water-regimes.md) (typically
+  **July–August**), building through late warm-stable into the fall
+  fragmentation regime (**late summer into fall**). "You always want to be prepared, especially in
   those July and August months — that's when the fish first show up" (E4vKwRaRueA).
   See [August](../seasonal/august.md), [September](../seasonal/september.md),
   [October](../seasonal/october.md).
 - **Where:** **~15 mi off San Diego** is the typical big-concentration zone
-  (E4vKwRaRueA); by September they're in **open-water schools below/backside
-  Catalina** (5to3Q5P7w90). The primary structure is
+  (E4vKwRaRueA); by the late warm-stable phase (typically September) they're in
+  **open-water schools below/backside Catalina** (5to3Q5P7w90). The primary structure is
   **[kelp paddies](../conditions/kelp-paddies.md)** — broken-off kelp that loads
   with bait (baby rockfish, anchovy, mackerel, sardine, baby flying fish) and
   holds patrolling dorado.
@@ -107,5 +109,6 @@ you see a handful (E4vKwRaRueA).
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 <!-- backlinks:end -->

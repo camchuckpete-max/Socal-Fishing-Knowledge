@@ -29,11 +29,14 @@ you read the *current across the kelp*, not the tide clock.
   [break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md),
   [island structure](../locations/island-structure.md)).
 - **When:** a year-round coastal fishery that peaks in the warm months.
-  Springtime warming fires the shallow bite; summer is the core kelp season;
-  the transitional fall months can pull another degree of warmth out of stable
-  water. See [June–July](../seasonal/june-july.md),
+  The [warming transition regime](../conditions/water-regimes.md) (typically
+  spring, April–May) fires the shallow bite; the warm-stable regime (summer) is
+  the core kelp season; the fall fragmentation regime's transitional months
+  (typically October into December) can pull another degree of warmth out of
+  stable water. See [June–July](../seasonal/june-july.md),
   [August](../seasonal/august.md), [October](../seasonal/october.md), and the
-  winter-bass logic in [February–March](../seasonal/february-march.md).
+  winter/upwelling-regime bass logic in
+  [February–March](../seasonal/february-march.md).
 - **Moon:** on clear full-moon nights calico gorge after dark and **shut down by
   mid-morning** — bite early, then dead until late day; the winter version is a
   reaction-bite-only day. Plan coastal bass segments for first light or late
@@ -143,5 +146,6 @@ present the outside stringers.
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 <!-- backlinks:end -->

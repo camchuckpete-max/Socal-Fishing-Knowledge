@@ -157,6 +157,13 @@ The flaw this fixes: species notes and technique notes can each exist while the
    (including on the meter), which technique per situation, and what gear class —
    with everything deeper exactly one link away. Applied in the finish-step
    review; failures noted in the judgment-calls list.
+5. **Flagged stubs, never silence.** A method that is popular in the real
+   SoCal/Baja fishery but **absent from the source corpus** gets a **flagged
+   stub row** in the router's Situations → techniques table — never silence
+   (silence reads as "not a method"). The stub names the method, marks it
+   `⚠ Flagged stub — no corpus source yet`, links the technique note if one
+   exists, and is filled in when sources arrive. **Every stub added is logged
+   in the judgment-calls list.**
 
 ## Note conventions
 

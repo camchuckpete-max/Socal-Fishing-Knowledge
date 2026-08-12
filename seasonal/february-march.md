@@ -7,6 +7,9 @@ confidence: high
 
 # February–March
 
+**Regime: [winter / upwelling](../conditions/water-regimes.md)** — typical-year
+mapping; in an anomalous year trust the live water, not the calendar.
+
 **These are priors — the pattern layer, not current intel.** They tell you what
 the winter Bight usually does so you can weight zones before you pull live
 [BightSST](../planning/day-plan-protocol.md) conditions. Never fish a stale
@@ -83,6 +86,7 @@ See [water color](../conditions/water-color.md) and
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Water Color](../conditions/water-color.md)
+- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->
