@@ -20,14 +20,19 @@ python scripts/build-skill-resources.py --profile profiles/_template
 python scripts/build-skill-resources.py --no-profile    # generic, class-term only
 ```
 
-This writes (both git-ignored — regenerable artifacts, never committed):
+This writes (git-ignored — a regenerable artifact, never committed):
 
-- `SKILL.md` — the skill entry point (the 4-step protocol, profile-aware).
 - `resources/knowledge/` — the bundled **decision layer**: `planning/`,
   `conditions/`, `seasonal/`, `locations/`, `species/` (the situation→technique
   routers), and `tackle/gear-classes.md`. Execution detail (techniques, lures,
-  rigging) is fetched from the repo on demand.
+  rigging) is fetched from the repo on demand at the raw-GitHub fetch base
+  stated in `SKILL.md`.
 - `resources/profile/` — the chosen profile (omitted for `--no-profile`).
+
+`SKILL.md` itself is **hand-authored and committed** — the skill entry point
+(the 4-step protocol, the profile rule, and the fetch base for execution-layer
+links). The script never overwrites it; it creates a starter version only if
+the file is absent.
 
 A generic build with no profile still produces a working skill.
 

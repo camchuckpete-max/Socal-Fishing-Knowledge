@@ -15,6 +15,11 @@ Usage:
 
 A generic build (no profile) still produces a working skill: the day-plan
 protocol degrades to class-term recommendations.
+
+Ownership: this script owns `resources/` and `resources/INDEX.md` (regenerated
+every run). `skills/boat-day/SKILL.md` is HAND-AUTHORED and committed — the
+script never overwrites it, creating a starter version only if the file is
+absent.
 """
 from __future__ import annotations
 
@@ -83,7 +88,10 @@ def build(profile: Path | None) -> int:
         "rigging) is fetched from the repo on demand.\n",
         encoding="utf-8",
     )
-    write_skill_md(profile is not None)
+    # SKILL.md is hand-authored and committed; the script owns resources/ +
+    # INDEX.md only, and creates a starter SKILL.md solely when none exists.
+    if not (SKILL_DIR / "SKILL.md").exists():
+        write_skill_md(profile is not None)
     print(
         f"OK: bundled {count} knowledge notes; profile = {profile_status}\n"
         f"  -> {RES.relative_to(ROOT)}"
@@ -129,7 +137,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description="Build the boat-day skill bundle.")
     ap.add_argument(
         "--profile",
-        default="profiles/cameron",
+        default=None,
         help="profile dir to bundle (default: profiles/cameron)",
     )
     ap.add_argument(
@@ -138,7 +146,9 @@ def main() -> int:
         help="build a generic skill with no profile (class-term recommendations)",
     )
     args = ap.parse_args()
-    profile = None if args.no_profile else (ROOT / args.profile)
+    if args.no_profile and args.profile is not None:
+        ap.error("--profile and --no-profile are mutually exclusive")
+    profile = None if args.no_profile else (ROOT / (args.profile or "profiles/cameron"))
     return build(profile)
 
 
