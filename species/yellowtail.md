@@ -116,6 +116,7 @@ of water state. Kept side by side with the corpus
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

@@ -109,7 +109,7 @@ and further still if a break-off fish (a big yellow) shares the spot (2/20/25).
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
-- [Leadhead Mods](../rigging/leadhead-mods.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

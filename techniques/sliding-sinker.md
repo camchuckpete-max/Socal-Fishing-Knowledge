@@ -77,9 +77,11 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Barred Sand Bass](../species/sand-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Dropper Loop](dropper-loop.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Gear Classes](../tackle/gear-classes.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
+- [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

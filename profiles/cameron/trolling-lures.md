@@ -76,11 +76,11 @@ to pull is in [bluefin trolling](../../species/bluefin-trolling.md) and
 - [Bluefin Trolling](../../species/bluefin-trolling.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Cedar Plug](../../lures/cedar-plug.md)
-- [Dtx Minnow](../../lures/dtx-minnow.md)
+- [DTX Minnow](../../lures/dtx-minnow.md)
 - [Halco Laser Pro](../../lures/halco-laser-pro.md)
 - [Mad Mac](../../lures/mad-mac.md)
 - [Rapala Husky Magnum](../../lures/rapala-husky-magnum.md)
 - [Spreader Bar](../../lures/spreader-bar.md)
 - [Trolling](../../techniques/trolling.md)
-- [Tuna Feathers And Skirts](../../lures/tuna-feathers-and-skirts.md)
+- [Tuna Feathers and Skirts](../../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

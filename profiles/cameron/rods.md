@@ -91,6 +91,7 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - [Gear Classes](../../tackle/gear-classes.md)
 - [Kite Fishing](../../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../../techniques/knife-jigging.md)
+- [Knife Jigs](../../lures/knife-jigs.md)
 - [Rod And Reel Selection](../../tackle/rod-and-reel-selection.md)
 - [Slow-Pitch Jigging (SPJ)](../../techniques/slow-pitch-jigging.md)
 - [Spreader Bar](../../lures/spreader-bar.md)

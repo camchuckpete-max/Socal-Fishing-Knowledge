@@ -96,11 +96,12 @@ rocks.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
 - [Gear Classes](../tackle/gear-classes.md)
+- [Iron Jigs](../lures/iron-jigs.md)
 - [June–July](../seasonal/june-july.md)
 - [Moon](../conditions/moon.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Soft Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

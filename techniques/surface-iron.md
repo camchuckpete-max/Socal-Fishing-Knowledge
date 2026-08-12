@@ -87,6 +87,7 @@ the blank.
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Foamer Casting](foamer-casting.md)
 - [Gear Classes](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

@@ -135,8 +135,32 @@ execution).
 | k4mD2d6C81k, 1enjjFVcDG0 | drop-shot |
 | O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU | rockfish-deep-dropping |
 
-All other `_manifest.csv` video_ids are **pending steps 4–7** (lures, rigging,
-tackle, bait, fish-care). The finish step verifies every id is accounted for.
+**Step 4 (lures + rigging) — consumed:**
+
+| video_id | note(s) |
+| --- | --- |
+| VgpgJ8IAyJo | lures/mad-mac, dtx-minnow, tuna-feathers-and-skirts |
+| AJMjWDKsdRg, j1YZ_9IMUVY | lures/tuna-poppers-and-stickbaits |
+| _KE9InIHx8M, zkSKgP2bq10 | rigging/wind-on-leader |
+| CIMTyepgonk, NXtvXkqpT9w | rigging/fg-and-albright |
+| SwXh9Cwi4e0, hF4dFlSB12s | rigging/essential-knots (Palomar, San Diego jam, RP, uni-to-uni) |
+| _w8KNSgGPVE, yr6z3DmWY4s | rigging/hollow-splice-and-serving |
+| kO_BqzUYayc | rigging/bite-leaders |
+| GqcVaTIlyg0 | rigging/flying-fish-harness |
+| UrEymGvZx00 | rigging/double-trouble-rig |
+| sYrsPGXiYhI | rigging/rubber-band-deep-rig (concept; captions garbled) |
+| qIKGJSEE2aY | rigging/trap-rig |
+| RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU | rigging/leadhead-mods |
+| lm7D9Tlc7Po | rigging/haywire-twist |
+| CWVPLM6NheY | rigging/tuna-feather-rig; lures/tuna-feathers-and-skirts |
+
+Lure class notes (iron-jigs, knife-jigs, soft-plastic-swimbaits, bay-bass-plastics)
+draw specs from cameron §8/§9 + technique-note sources already logged (XLVUhV8DW64,
+HnqiE05vdXs, OHxbPovgvgc, YIABTTYXeqc, n6PTy8g3pb0, um5MAeCjNDg, k4mD2d6C81k).
+
+All other `_manifest.csv` video_ids are **pending steps 5–6** (tackle: line/leader
++ reel maintenance + hooks; bait; fish-care). The finish step verifies every id
+is accounted for.
 <!-- log:transcripts:end -->
 
 ## memory-export.md section → destinations

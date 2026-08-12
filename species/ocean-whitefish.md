@@ -90,6 +90,6 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Soft Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

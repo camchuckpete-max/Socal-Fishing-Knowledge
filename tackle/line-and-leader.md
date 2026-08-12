@@ -13,5 +13,9 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
+- [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
+- [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
+- [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

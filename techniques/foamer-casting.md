@@ -101,9 +101,10 @@ tank is a platform choice for that program, not general doctrine — see his
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Gear Classes](../tackle/gear-classes.md)
+- [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
 - [Surface Iron](surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
-- [Tuna Poppers And Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

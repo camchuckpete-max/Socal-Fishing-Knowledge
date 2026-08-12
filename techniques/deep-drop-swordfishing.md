@@ -65,7 +65,7 @@ for the Bight.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

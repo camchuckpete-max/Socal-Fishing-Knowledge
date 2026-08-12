@@ -100,11 +100,11 @@ school-grade play.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
-- [Dtx Minnow](../lures/dtx-minnow.md)
+- [DTX Minnow](../lures/dtx-minnow.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes](../tackle/gear-classes.md)
@@ -116,4 +116,5 @@ school-grade play.
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

@@ -80,7 +80,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Striped Marlin](striped-marlin.md)
-- [Tuna Feathers And Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)

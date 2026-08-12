@@ -94,7 +94,7 @@ question (see **Doctrine & conflicts**).
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
-- [Tuna Feathers And Skirts](../lures/tuna-feathers-and-skirts.md)
-- [Wind On Leader](../rigging/wind-on-leader.md)
+- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

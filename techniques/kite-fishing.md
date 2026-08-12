@@ -77,4 +77,5 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes](../tackle/gear-classes.md)
 - [Speed Trolling](speed-trolling.md)
+- [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

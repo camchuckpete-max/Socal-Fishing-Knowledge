@@ -90,7 +90,7 @@ the *layer and its bait*, not the fish. Requirements before you stop:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)

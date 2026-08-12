@@ -103,7 +103,7 @@ you see a handful (E4vKwRaRueA).
 - [September](../seasonal/september.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Tuna Poppers And Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
 <!-- backlinks:end -->

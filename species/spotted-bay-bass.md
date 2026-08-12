@@ -99,6 +99,7 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - [Drop Shot](../techniques/drop-shot.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
+- [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)
