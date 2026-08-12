@@ -101,5 +101,6 @@ rocks.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

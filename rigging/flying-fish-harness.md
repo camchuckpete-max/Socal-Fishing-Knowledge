@@ -15,4 +15,5 @@ confidence: medium
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 <!-- backlinks:end -->

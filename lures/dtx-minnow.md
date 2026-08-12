@@ -15,4 +15,5 @@ confidence: medium
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
+- [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

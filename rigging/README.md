@@ -6,7 +6,7 @@
 
 - [Bite Leaders](bite-leaders.md)
 - [Double Trouble Rig](double-trouble-rig.md) — _Nothing links here yet._
-- [Essential Knots](essential-knots.md) — _Nothing links here yet._
+- [Essential Knots](essential-knots.md)
 - [Fg And Albright](fg-and-albright.md) — _Nothing links here yet._
 - [Flying Fish Harness](flying-fish-harness.md)
 - [Haywire Twist](haywire-twist.md)

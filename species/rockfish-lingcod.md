@@ -120,8 +120,9 @@ the *bottom*, not the fish.
 - [Knife Jigs](../lures/knife-jigs.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
-- [Rockfish Deep Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

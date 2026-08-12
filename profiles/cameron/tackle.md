@@ -66,5 +66,5 @@ subset he owns. Class terms: [gear classes](../../tackle/gear-classes.md).
 - [Iron Jigs](../../lures/iron-jigs.md)
 - [Surface Iron](../../techniques/surface-iron.md)
 - [Tuna Poppers And Stickbaits](../../lures/tuna-poppers-and-stickbaits.md)
-- [Yo Yo Iron](../../techniques/yo-yo-iron.md)
+- [Yo-Yo Iron](../../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

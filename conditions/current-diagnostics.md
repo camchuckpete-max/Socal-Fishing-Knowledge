@@ -68,8 +68,10 @@ treadmill back on (see [tide and slack](tide-and-slack.md)).
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Island Structure](../locations/island-structure.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Water Color](water-color.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

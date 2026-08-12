@@ -100,6 +100,7 @@ Owned trolling lures + running specs: [trolling lures](trolling-lures.md).
 - [Cameron's Spots](spots.md)
 - [Cameron's Trolling Lures (owned)](trolling-lures.md)
 - [Electronics and Sounder](../../planning/electronics-and-sounder.md)
+- [Foamer Casting](../../techniques/foamer-casting.md)
 - [Spreader Bar](../../lures/spreader-bar.md)
 - [Trolling](../../techniques/trolling.md)
 <!-- backlinks:end -->

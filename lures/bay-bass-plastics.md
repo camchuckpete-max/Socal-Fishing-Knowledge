@@ -13,5 +13,7 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
+- [Drop Shot](../techniques/drop-shot.md)
+- [Ned Rig](../techniques/ned-rig.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

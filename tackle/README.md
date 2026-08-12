@@ -5,7 +5,7 @@
 ## Index
 
 - [Gear Classes](gear-classes.md)
-- [Hooks](hooks.md) — _Nothing links here yet._
+- [Hooks](hooks.md)
 - [Line And Leader](line-and-leader.md) — _Nothing links here yet._
 - [Reel Maintenance](reel-maintenance.md) — _Nothing links here yet._
 - [Rod And Reel Selection](rod-and-reel-selection.md)

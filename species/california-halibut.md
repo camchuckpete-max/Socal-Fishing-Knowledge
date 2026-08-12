@@ -111,6 +111,7 @@ breaking the surface is when they go zero-to-100 and throw the hook.
 
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Drop Shot](../techniques/drop-shot.md)
+- [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Gear Classes](../tackle/gear-classes.md)
 - [Island Structure](../locations/island-structure.md)

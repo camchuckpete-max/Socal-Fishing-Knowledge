@@ -99,6 +99,7 @@ a numbers game across many quick checks.
 - [Pacific Bonito](../species/bonito.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Surface Iron](../techniques/surface-iron.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

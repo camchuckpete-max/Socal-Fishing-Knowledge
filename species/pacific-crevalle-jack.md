@@ -85,5 +85,5 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 - [Tuna Poppers And Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Yo Yo Iron](../techniques/yo-yo-iron.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

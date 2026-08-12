@@ -134,6 +134,7 @@ become primary).
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Color](water-color.md)

@@ -115,9 +115,28 @@ white-seabass, barracuda, bonito, striped-marlin as applicable.
 `techniques/hoop-netting.md` (created per rule C2 — router never absorbs
 execution).
 
-All other `_manifest.csv` video_ids are **pending steps 3–7** (techniques,
-lures, rigging, tackle, bait, fish-care). The finish step verifies every id is
-accounted for.
+**Step 3 (techniques) — consumed:**
+
+| video_id | technique note(s) |
+| --- | --- |
+| HTssdpnUGMo | surface-iron |
+| PRNMGpLj7Pw, dLj0sW_l-_A, OHxbPovgvgc | slow-pitch-jigging |
+| j37zxs33gws | knife-jigging (also nRFFM8DT-og, reused) |
+| YsiHziY_PWw | kite-fishing |
+| z1CmWHqe9uk | speed-trolling |
+| HtuLTv1NlL0 | foamer-casting (+ HzE4FHHcvTk, HnqiE05vdXs reused, cameron) |
+| T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0 | flyline |
+| mUrihh0V59M | dropper-loop |
+| apyGy3XKlss | sliding-sinker |
+| E4vKwRaRueA | chunking (dorado-on-paddy application; chunking mechanics from proposal §4.5/§6.7 — medium confidence, flagged) |
+| — (cameron §6 + HzE4FHHcvTk) | trolling (rod-tip elevation rule + 4-factor framework, attributed cameron) |
+| YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI | swimbaits |
+| um5MAeCjNDg | ned-rig |
+| k4mD2d6C81k, 1enjjFVcDG0 | drop-shot |
+| O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU | rockfish-deep-dropping |
+
+All other `_manifest.csv` video_ids are **pending steps 4–7** (lures, rigging,
+tackle, bait, fish-care). The finish step verifies every id is accounted for.
 <!-- log:transcripts:end -->
 
 ## memory-export.md section → destinations
