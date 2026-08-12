@@ -403,6 +403,75 @@ punch-list revision (which also committed the governing plan as
   correction and tree counts synced (conditions 12, techniques 18).
 - **P6 — this entry.**
 
+**2026-08-12 review fix pass (32 verified findings + A1–A5 + X1–X5; approved
+manifest; one commit per tier).** Corrections and judgment calls:
+
+- **Factual (F1–F5):** speed-troll trigger corrected to **too-LIGHT-to-kite**
+  in both bluefin routers (the "too rough" direction was a build error — every
+  source encodes no-wind; kite band 8–15 kt kept); "first sword flags
+  mid-December" demoted to an **Observed** (5D1vx29LVpI, 12/15/22); the
+  zero-width "900 ft – 150 fm" DSL band restored to the seminar's **≥600 ft,
+  preferred ~950/150 fm and deeper**; Mad Mac speed doctrine reconciled as
+  conditional (9–12-to-14 cameron normal-spread band vs 13–15 Winnicki
+  speed-troll band, 15-vs-14 tension flagged); knife-jig leader conflict
+  restored side-by-side (crimp school nRFFM8DT-og vs direct-tie school
+  j37zxs33gws) in knife-jigging + bite-leaders.
+- **Completeness (C1–C4):** sword seminar terminal rig / lights / drag pair /
+  endgame extracted into deep-drop-swordfishing; kite flyer numbers
+  (3–3.5 ft max leader, 45° wings, 5/0 5X Mustad) into flying-fish-harness
+  (kite note's pointer now true); speed-troll leader cap + crimp-buffer rules
+  into speed-trolling (+ mad-mac cross-ref); the **Eddie bomb** captured in
+  knife-jigging.
+- **Provenance (P1–P2, R1):** log rows corrected for 4xzK7YaXK5s (content was
+  merged into kelp-paddies + bait-tanks all along — attribution added),
+  -JZpyWLdKlk (june-july + white-seabass, not august), bydQzE3F9yM
+  (breakwalls, not bird-reading), sYrsPGXiYhI (id added to the bluefin
+  router); unlogged destinations added (yo-yo-iron, pacific-crevalle-jack,
+  june-july); the false VgpgJ8IAyJo citation removed from mad-mac /
+  dtx-minnow / tuna-feathers **and from bluefin-trolling** (log row 84
+  corrected — no promo content traces to any of them).
+- **Rubric (R2–R5):** Nomad/Yo-Zuri promo claims flagged low per the
+  sponsored-claims rule (dorado, tuna-poppers); april/may priors downgraded
+  to medium (single-report sources); nov–dec "He" threshold attributed to the
+  Z3rZqy2Pi8E report speaker and the 11/23/22 temp edge recast as Observed.
+- **Routing (G1–G7):** inshore/bay gear classes added to the lexicon (specs
+  drawn only from the notes that use the terms; **Light troll class kept as a
+  stub** — no corpus source defines it); `techniques/inshore-crankbaits.md`
+  created (GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0) and the three bass routers
+  trimmed to link it; `techniques/bait-and-switch.md` created as a **flagged
+  stub whose skeleton is explicitly marked UNSOURCED** (judgment call: no
+  transcript covers tailing/pitch and the export lists marlin only as an open
+  item — the build-era router prose was retained but provenance-flagged, not
+  asserted); bonito small-jig row stub-flagged; search-and-glassing links
+  added (sword/halibut/spotted-bay; lobster gets a does-not-apply note);
+  sword router gained seminar-sourced surface-sign (rips/highway rip) + a
+  finning-fish stub; halibut squid-bed months resolve via April priors;
+  day-plan protocol step 4 links the gear-class lexicon.
+- **Duplication (D1–D4, per A2):** single-home established for the foamer
+  program (foamer-casting; slack-tide timing merged there), post-moon
+  discipline (moon.md; the two diverged copies merged — coverage-bias AND
+  relocation-not-bite-death both kept), lure running params (lure notes;
+  Half Fish spec → spreader-bar only), DSL sounder settings
+  (electronics-and-sounder). Every trimmed router re-checked against the
+  species acceptance test — where/when, finding, situation decisions, and
+  gear classes all remain in-router with execution one link away.
+- **Conventions + A4/A5:** relative time anchored ("2026 is his first
+  season", "as of 2026-08"); "(memory, …)" Observed attribution corrected to
+  cameron; two near-verbatim tuna-feather clauses paraphrased; **new
+  regulatory-claims rule** added to CLAUDE.md and retro-applied
+  (spiny-lobster, rockfish-lingcod, hoop-netting — California/CDFW, as of
+  2026-08); `decision` added to the type enum and bluefin-trolling re-typed.
+- **Tooling (X1–X5, T2):** link-maintenance now strips code before link
+  parsing (fixture: `tests/link-fixture.md`), validates before writing
+  (zero writes on dead links), and raises on reversed markers;
+  `profiles/` + `skills/` get generated index READMEs; **SKILL.md is now
+  hand-authored and committed** (un-gitignored) with the raw-GitHub fetch
+  base for execution-layer links — judgment call on X4: rather than full
+  note-treatment, link-maintenance validates SKILL.md's links without
+  adding backlinks/indexing (VALIDATE_ONLY), since a skill definition is
+  not a KB note; build script never overwrites SKILL.md and rejects
+  `--profile` + `--no-profile` together.
+
 **Cameron open items preserved (attributed, not doctrine)**
 - SPJ/speed-jig setup shopping; 10 ft jig-stick yellowtail reps; kite (no helium/
   no tank room) + foamer (no-bait run-and-gun) constraints; dedicated sabiki-rod
