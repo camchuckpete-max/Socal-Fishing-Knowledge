@@ -57,6 +57,8 @@ navigate the whole KB.
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your Boat>](../profiles/_template/boat.md)
+- [<Your> Spots](../profiles/_template/spots.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)

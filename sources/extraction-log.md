@@ -241,3 +241,20 @@ dedicated note — candidate destination planning/search-and-glassing or a futur
 - **C4 No relative time:** swordfish seminar pinned to Feb 2021 / seasons
   2019–2020; relative time banned KB-wide (CLAUDE.md). Enforced in the step-2
   review of all species notes.
+
+### Step 7 (skills + template + build script)
+
+- No `*.skill` package was provided → `skills/boat-day/` is a scaffold + build
+  plan; `scripts/build-skill-resources.py` generates the deployable skill FROM
+  the KB decision layer (planning + conditions + seasonal + locations + species
+  routers + gear-classes) plus a named profile. Verified working with
+  `profiles/cameron`, `--no-profile` (generic), and `profiles/_template`
+  (56 notes bundled each).
+- Generated skill artifacts (`skills/boat-day/resources/`, `SKILL.md`) are
+  git-ignored and excluded from `link-maintenance.py` — regenerable, never
+  committed.
+- `profiles/_template/` completed (boat, rods, tackle, trolling-lures, spots +
+  README): blank/generalized with fill-in prompts and a public-repo coordinate
+  caution.
+- Fixed a stale exclusion in `link-maintenance.py` (`spot-lists-PRIVATE-ONLY.md`
+  → `spot-lists.md`) so the renamed raw spot file is treated as a raw input.

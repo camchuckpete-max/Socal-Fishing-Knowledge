@@ -66,6 +66,8 @@ does the lookup.
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Rods](../profiles/_template/rods.md)
+- [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)

@@ -138,6 +138,7 @@ a bluefin).
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Rods](../profiles/_template/rods.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

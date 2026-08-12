@@ -21,7 +21,6 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 ## Index
 
 - [Source Registry](source-registry.md) — Registered sources qualify their doctrine for high confidence (see the confidence rubric in CLAUDE.md).
-- [GPS Spot Lists — Cameron's spot library](spot-lists.md) — Cameron's curated spot library (raw source for profiles/cameron/spots.md).
 <!-- index:end -->
 
 <!-- mermaid:start -->

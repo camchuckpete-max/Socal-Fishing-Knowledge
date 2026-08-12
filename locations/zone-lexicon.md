@@ -80,6 +80,7 @@ many *drops*.
 <!-- backlinks:start -->
 ## Linked from
 
+- [<Your> Spots](../profiles/_template/spots.md)
 - [Bass Structure](bass-structure.md)
 - [Bight Geography](bight-geography.md)
 - [BightSST Eval Targets](bightsst-eval-targets.md)
