@@ -37,11 +37,18 @@ year-end**, so this is the last of the bottom season.
 - **Then the fishery reverts to the sub-30 lb winter grade by mid-December.**
   The jumbos give way to small winter-grade fish as the month turns.
 
-## First swordfish flags mid-December
+## Late-window swordfish — flags into mid-December
 
-**The first [swordfish](../species/swordfish.md) flags show up mid-December.** The
-daytime sword season is winding into its late window; see the
-[deep scattering layer](../conditions/deep-scattering-layer.md) for the mechanism.
+The daytime [swordfish](../species/swordfish.md) season is winding into its
+**late window** — the season prior is late September – December, peak October –
+mid-November, last fish ~a week before Christmas (see the router); the
+[deep scattering layer](../conditions/deep-scattering-layer.md) carries the
+mechanism.
+
+- **Observed** (5D1vx29LVpI report, 12/15/22, Newport): the Balboa Angling Club
+  took its **first swordfish flag of the season the previous day** — a
+  one-club, one-year data point that flags can come very late in a given year,
+  not a prior that the season starts in December.
 
 ## Late-fall SCI bass — the current-into-the-kelp conflict
 

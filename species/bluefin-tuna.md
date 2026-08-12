@@ -95,12 +95,13 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
 | **Fish sounded deep** (30–50 fm), wind up, no surface sign | [Knife-jigging](../techniques/knife-jigging.md) to graded marks; heavier jig for depth/current | 100–130 lb-braid **jig class** (PE6–8); [knife jigs](../lures/knife-jigs.md) | Day 150–300 g; more current / deeper fish → 300–400 g to punch down and still stay horizontal in the strike zone |
 | **Night bite**, fish rising on the DSL | [Knife-jigging](../techniques/knife-jigging.md) vertical — throw up-current at the bow and walk back to stay vertical; [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) to sink live bait to sounded fish | Night **jig class**; [knife jigs](../lures/knife-jigs.md) 150–400 g | **80 lb braid** sinks faster than 100; **single bottom hook pair, no top hook**; mark line every 100 ft (or color-metered braid); 200 lb bite leader |
 | **Big fish 100–300 lb**, wind ~8–15 kt | [Kite fishing](../techniques/kite-fishing.md) — a flying fish under a kite is *the* most effective method for 100–300 lb | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md) | See [bluefin trolling](../species/bluefin-trolling.md) for the troll alternative when you can't kite |
-| **Locating / wind up, no kite conditions** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](../species/bluefin-trolling.md) |
+| **Locating / wind too light to fly the kite** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](../species/bluefin-trolling.md) |
 | **Chummed up / picky on bait** | [Flyline](../techniques/flyline.md) a sardine on a circle hook; scale leader down | **40–60 lb class** | Corner-of-mouth circle-hook bite; a small anchovy-matching lure (Riptide-105 class) can convert picky fish |
 
 **Trolling in one line:** kite when the wind gives you 8–15 kt and the fish are
-big; **speed-troll a Mad Mac at 13–15 kt** to cover water and locate when it's
-too rough to kite; spreader bars and skirts on calmer school-grade days; divers
+big; **speed-troll a Mad Mac at 13–15 kt** to cover water and locate when the
+wind is **too light to fly the kite** (speed-trolling needs no wind); spreader
+bars and skirts on calmer school-grade days; divers
 and cedar plugs for mixed grade. The full table by wind/grade/water lives in
 [bluefin trolling](../species/bluefin-trolling.md).
 

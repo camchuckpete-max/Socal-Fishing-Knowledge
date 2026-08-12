@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, bite-leader, crimping, knife-jig, fluorocarbon, leader]
-sources: [kO_BqzUYayc]
+sources: [kO_BqzUYayc, j37zxs33gws]
 confidence: medium
 ---
 
@@ -54,6 +54,11 @@ system between the braid main line and the lure.
 - **Failure modes:** leader too long to wind (swivel jams at the tip); crimp
   mismatched to leader diameter; over-crimped fluoro; too little tag through the
   crimp; connecting through a weak split ring on a big-fish jig.
+- **Attributed alternative — the direct-tie school (West Coast Jiggerz,
+  j37zxs33gws):** skips the crimped bite leader entirely: 80–100 lb braid, FG
+  knot to a **15–20 ft mono/fluoro top shot tied direct to the jig, no crimp**.
+  Both schools fish in the SoCal fleet; kept side by side, not reconciled. See
+  [knife jigging](../techniques/knife-jigging.md).
 
 ## Tie it
 

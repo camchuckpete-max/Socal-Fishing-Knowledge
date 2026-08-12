@@ -60,9 +60,14 @@ in **Linked from**.
 - **Terminal — single bottom assist pair, no top hook.** Reasons: the fish suck
   the jig in, so a top hook adds little; and a top hook fouls the fish in the cheek
   or pec on the swinging jig, which moves the fight off the mouth and gets a hook
-  on the rail or a deckhand at gaff. Finish with a **~2 ft bite leader of 200 lb**
-  fluoro/mono **crimped directly to the jig** so a big fish can't bite you off and
-  you can pull hard.
+  on the rail or a deckhand at gaff.
+- **Leader-to-jig connection — two attributed schools, kept side by side:**
+  - **Crimp school (nRFFM8DT-og):** finish with a **~2 ft bite leader of 200 lb**
+    fluoro/mono **crimped directly to the jig** so a big fish can't bite you off
+    and you can pull hard; [bite leaders](../rigging/bite-leaders.md).
+  - **Direct-tie school (West Coast Jiggerz, j37zxs33gws):** **no crimp** — fish
+    the 80–100 lb braid → FG → **15–20 ft mono/fluoro top shot tied direct to
+    the jig**.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender profiles.
 
 ## Common failures

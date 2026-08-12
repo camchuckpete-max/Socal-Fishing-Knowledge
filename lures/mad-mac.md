@@ -10,7 +10,7 @@ confidence: high
 The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical
 SoCal bluefin **speed-troll** lure. Its defining trait is that it holds its swim
 at trolling speeds where most swimmers blow out, so it doubles as a search tool
-when the wind is up. It runs in the heavy **troll class** (high tow/drag load —
+on days too calm to fly the kite. It runs in the heavy **troll class** (high tow/drag load —
 the full-size 200 wants a heavy rod and rides a low holder to hold depth). Two
 sizes are covered here: the full-size **Madmacs 200** and the smaller, also-
 castable **Madmacs 130**.
@@ -18,7 +18,15 @@ castable **Madmacs 130**.
 ## Running specs
 
 **Madmacs 200**
-- **Troll speed:** 5–20 kt; **bluefin sweet spot 9–12, to 14**.
+- **Troll speed:** 5–20 kt design range, with **two attributed bands for two
+  jobs**, kept side by side:
+  - **Normal spread (cameron, researched specs July 2026):** bluefin sweet spot
+    **9–12 kt, to 14 max**.
+  - **Speed-trolling to locate (Nate Winnicki / BD, z1CmWHqe9uk):** run
+    **13–15 kt**.
+  - The bands conflict at the top — **15 kt exceeds the researched 14 kt max**;
+    13–14 kt is the overlap that satisfies both. Which job applies is decided in
+    [bluefin trolling](../species/bluefin-trolling.md).
 - **Running depth:** 8–15 ft slow, 4 ft fast.
 - **Setback:** 100–150 yd for bluefin.
 - **Leader / top-shot:** 100 lb wind-on, **crimped, no swivel** (low-profile
@@ -35,9 +43,10 @@ castable **Madmacs 130**.
 
 ## How to run it
 
-The Madmacs 200 is the **13–15 kt** speed-troll answer — it tracks when it's too
-rough to fly a kite but you still need to cover water and locate fish, and it
-scales up to cow-grade bluefin. Keep the bite-leader connection low-profile
+The Madmacs 200 is the **13–15 kt** speed-troll answer — the tool for covering
+water and locating fish when the wind is **too light to fly a kite**
+(speed-trolling needs no wind; the kite wants 8–15 kt), and it scales up to
+cow-grade bluefin. Keep the bite-leader connection low-profile
 (crimped 100 lb, no big swivel) so the lure keeps its action. Because of the tow
 load it rides a heavy rod in a **low gunnel holder** (every ~3 ft of tip
 elevation costs ~1 ft of running depth). The 130 fishes lighter line for a

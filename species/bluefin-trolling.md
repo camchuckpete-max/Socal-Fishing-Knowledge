@@ -19,8 +19,9 @@ bluefin-specific selection logic.
 Same water as the parent note — pull trolled lures over the offshore banks and
 island fathom curves where bluefin aggregate. Trolling is chosen by **conditions
 and grade**, not location: it is the answer when you need to **cover water and
-locate**, or when it's **too rough to kite**, and it scales from schoolies to
-cows by lure size. Route in from [bluefin tuna](../species/bluefin-tuna.md).
+locate**, or when the wind is **too light to fly a kite**, and it scales from
+schoolies to cows by lure size. Route in from
+[bluefin tuna](../species/bluefin-tuna.md).
 
 ## Finding them (sign & sonar)
 
@@ -37,16 +38,17 @@ chasing a fleeing school), and **do not troll through the fleet's prop wash**
 | Wind / sea | Fish grade & water | Pull this | Gear class | Why / running notes |
 | --- | --- | --- | --- | --- |
 | **8–15 kt**, fishable swell, big fish present | **100–300 lb**, any water | [Kite](../techniques/kite-fishing.md) — flying fish under a kite | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md), 300–400 lb fluoro | *The* most effective big-fish method when the wind will fly a kite; lay the leader flat on the surface to gaff |
-| **Too rough to kite / 13–15 kt**, need to locate | Any grade, locating | [Speed-troll](../techniques/speed-trolling.md) a full-size [Mad Mac](../lures/mad-mac.md) 200 | Heavy **troll class** (high tow load) | Mad Mac tracks at **13–15 kt** (bluefin sweet spot 9–12, to 14); **100 lb wind-on, crimped, low-profile — no big snap swivel**; 200 lb bite leader to 130 lb braid; swap the back J for a treble |
+| **Too light to fly a kite (wind under ~8 kt)**, need to locate | Any grade, locating | [Speed-troll](../techniques/speed-trolling.md) a full-size [Mad Mac](../lures/mad-mac.md) 200 | Heavy **troll class** (high tow load) | Speed-troll band **13–15 kt** (Winnicki); researched bluefin sweet spot **9–12, to 14 kt** for a normal spread — two different jobs, reconciled in the [Mad Mac](../lures/mad-mac.md) note; **100 lb wind-on, crimped, low-profile — no big snap swivel**; 200 lb bite leader to 130 lb braid; swap the back J for a treble |
 | **Light-moderate, calm-ish** | **School grade**, mixed | [Spreader bar](../lures/spreader-bar.md) (out of the elevated shotgun) | **80–100 lb topshot**, drag well under the internal line | Bars run **4–14 kt, match the rest of the spread**; the **bar rides out of the water**, so it wants the highest holder |
 | **Calm, school grade**, want a swimmer | Schoolies–mid, clean-ish | [DTX Minnow](../lures/dtx-minnow.md) 165 or [Husky Magnum](../lures/rapala-husky-magnum.md) diver | **60–100 lb** (swimmer action dies on heavy line) | DTX **3–12 kt, runs ~30 ft, 80–120 yd back for tuna**; Husky model # = depth at ~33 yd (HM25 = 25 ft), best 6–8 kt — **divers want the low gunnel holders** |
 | **Calm, mixed / picky** | Mixed grade over bait | [Cedar plug](../lures/cedar-plug.md) or [Halco](../lures/halco-laser-pro.md) LP190 XDD deep diver | **40–60 lb** | Cedar **5–5.5 kt for bluefin**, run either **15–40 ft in the wash or 50–100+ yd back, nothing between**; Halco 3–11 kt (opt 6.5), 20+ ft, is the lightest lure in the box |
 
-**Reach for trolling when:** you have fish in a zone but no castable surface sign
-and the wind is up; you need to **cover a 50–60 sq mi search box** efficiently;
-or the seas are too rough to fly a kite but a Mad Mac will still track. If you
-can kite, kite; trolling is the locate-and-cover fallback and the calm-day
-school-grade play.
+**Reach for trolling when:** you have fish in a zone but no castable surface
+sign; you need to **cover a 50–60 sq mi search box** efficiently; or the wind is
+**too light to fly a kite** and you still need a big-fish presentation in the
+water. If the wind gives you 8–15 kt and big fish are present, kite; trolling is
+the locate-and-cover play for days the kite won't fly, and the calm-day
+school-grade spread does the rest.
 
 ## Gear summary (class terms)
 

@@ -46,7 +46,7 @@ describes are **2019 and 2020**).
 The fish **ride the DSL by day** (sat-tag work, PIER / Sepúlveda), so you hunt
 the *layer and its bait*, not the fish. Requirements before you stop:
 
-- **DSL present at ≥ 600 ft** — prefer the **900 ft – 150 fathom** band.
+- **DSL present at ≥ 600 ft** — preferred **~950 ft / 150 fathoms, or deeper**.
 - **DSL *plus* chunky bait balls** (anchovy / hake / squid) at **100–150+
   fathoms ≈ bites near-assured.** A bare layer with no bait is not a stop.
 - **Sounder for the DSL:** TVG / gain pushed up (**Furuno ~55–57**; mid-high on

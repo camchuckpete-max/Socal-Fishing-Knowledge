@@ -27,8 +27,11 @@ worth vocabulary alongside SST, chlorophyll, and current: it is the reason the
 
 Requirements before committing to a drift (sword seminar):
 
-1. **DSL present at ≥ 600 ft** — and *prefer the 900 ft – 150 fm band* (≈
-   900–900+ ft). That deeper, well-formed band is the good water.
+1. **DSL present at 600 ft at the very least** — preferred **down to ~950 ft
+   (150 fathoms), and deeper is even better** (seminar: "preferred down to 950,
+   150 fathoms, even into deeper than that"). The deeper, well-formed layer is
+   the good water — a DSL painting at 1,000–1,100 ft is a sign to stop, not to
+   pass.
 2. **DSL plus chunky bait balls** — anchovy / hake / squid marks at
    **100–150+ fm**. DSL **and** chunky bait balls together ≈ **bites near
    assured.**
