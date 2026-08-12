@@ -362,3 +362,43 @@ now accounted** — a destination, `covered`, or an explicit `skipped: <reason>`
   target; drill-powered retrieve; Fathom 80 respool-to-bulk-spool; Yo-Zuri Hydro
   Minnow "LC 205" size to verify; dad's unidentified skirt bag; Tranx braid
   pending respool.
+
+## Batch 2 landing — 2026-08-12 (raw transcripts only; NOT yet extracted)
+
+Landed on branch `claude/raw-transcripts-private-e2zn7m` per Cameron's request
+(2026-08-12) to hold the raw corpus in its own branch. **Pipeline stages 1–2
+only (land + dedup). No triage, no extraction — those wait on a GATE A plan.**
+
+Seven zip exports received from Cameron; landed into
+`sources/transcripts/<batch>/` with rows appended to
+`sources/transcripts/_manifest.csv` (7-column format; `channel` and
+`upload_date` filled from each transcript's header, blank for failed rows):
+
+| batch folder | landed .md | manifest rows | notes |
+| --- | --- | --- | --- |
+| `dh-tackle-talks/` | 22 | 22 | channel: Dirty Hookers |
+| `roman-castro-saltwater-tips/` | 13 | 14 | 1 failed row; 1 stray (JoeWo, gaming) pending triage |
+| `stoked-on-fishing/` | 30 | 30 | channel: StokedOnFishing |
+| `stoked-on-fishing-inshore/` | 114 | 121 | 6 dupes skipped, 1 failed + others; 1 stray (Kevin Is Cooking) pending triage |
+| `stoked-on-fishing-offshore/` | 112 | 133 | 71 dupes skipped (see below) |
+| `your-saltwater-guide-tutorials/` | 109 | 109 | incl. 1 Okuma Fishing Tackle USA video |
+| **total** | **400** | **429** | 29 rows are `failed` (caption download failed; no transcript file) |
+
+**Dedup (stage 2):**
+- `transcripts__BDOutdoors.zip` — every `.md` byte-identical to the 128 files
+  already landed flat in `sources/transcripts/` (batch 1). Logged
+  `duplicate-of: batch 1`; nothing copied. Zero video_id overlap between batch 1
+  and the six new batches otherwise.
+- Cross-playlist duplicates within the Stoked On Fishing exports (same
+  video_id, kept first-landed copy, batches processed alphabetically):
+  - 6 in inshore → kept in `stoked-on-fishing/`
+  - 5 in offshore → kept in `stoked-on-fishing/`
+  - 61 in offshore → kept in `stoked-on-fishing-inshore/`
+  - 5 offshore manifest-only `failed` rows also already present via inshore
+- Master manifest verified after landing: 557 rows, all video_ids unique,
+  528 `ok` rows ↔ 528 transcript files on disk.
+
+**Triage/extraction status:** every batch-2 video is `pending triage`. Known
+strays for triage to skip: `YGKgQp5HTLM` (JoeWo, gaming), `mwrFx2DdmO0`
+(Kevin Is Cooking, recipe); Alaska/Puerto Rico/freshwater content in the Stoked
+exports will classify `out-of-region` at triage.
