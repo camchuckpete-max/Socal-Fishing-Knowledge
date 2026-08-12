@@ -44,7 +44,17 @@ describes are **2019 and 2020**).
 ## Finding them (sign & sonar)
 
 The fish **ride the DSL by day** (sat-tag work, PIER / Sepúlveda), so you hunt
-the *layer and its bait*, not the fish. Requirements before you stop:
+the *layer and its bait*, not the fish.
+
+- **Surface sign first:** hunt **rips, scum lines, converging water masses** —
+  they suck in bait and food; once in the zone, find the **biggest "highway
+  rip"** you can and work it (Duane, sword seminar). General search method:
+  [search & glassing](../planning/search-and-glassing.md).
+- **⚠ Finning / sunning fish** — the classic SoCal surface sword encounter has
+  **no corpus source yet** (sight-fishing a finner: approach, bait, cast are
+  all uncovered). Flagged stub pending new sources.
+
+Requirements before you stop:
 
 - **DSL present at ≥ 600 ft** — preferred **~950 ft / 150 fathoms, or deeper**.
 - **DSL *plus* chunky bait balls** (anchovy / hake / squid) at **100–150+

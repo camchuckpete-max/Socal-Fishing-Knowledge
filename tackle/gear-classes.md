@@ -26,6 +26,13 @@ is the [4-factor framework](../techniques/trolling.md).
 | **Trolling / spreader-bar class** | 7–7.5 ft, XXXX-H, 150–200 lb, 2-speed, ~1000 yd capacity | [spreader-bar](../lures/spreader-bar.md) / heavy [trolling](../techniques/trolling.md), future [kite](../techniques/kite-fishing.md) | Cameron's Fathom 80 |
 | **Diver-troll / American-series class** | ~6 ft, H, E-glass, 30–80 lb, single-speed lever | diver plugs, cedar/skirt on school grade | Cameron's TLD 20 (Seeker 660H) |
 | **Utility inshore / baitcast class** | ~8 ft, H, extra-fast, 20–45 lb | flyline or lures, inshore | Cameron's Tranx |
+| **Bass class** (inshore bass; a.k.a. **bass casting / swimbait class**) | 7–9 ft graphite or graphite-composite, low-profile 200–300 reel, 30–65 lb braid; the **heavier bass class** variant runs 65 lb braid / 40 lb fluoro for the double rig / A-rig | [swimbaits](../techniques/swimbaits.md), slugs, weedless, and hard baits for calico / sand / spotted bay bass | — |
+| **Crank class** (crankbait class) | 8–10 ft limber big-bend rod, slow-retrieve 200-size reel | [inshore crankbaits](../techniques/inshore-crankbaits.md) | — |
+| **Finesse fly-line class** | 8–8.5 ft, 12–30 lb, small star-drag, big handle for vertical leverage | small live anchovy inshore — [flyline](../techniques/flyline.md), [sliding sinker](../techniques/sliding-sinker.md) (sand bass) | — |
+| **Light spinning class** (a.k.a. **light bay finesse / spinning class**) | light spinning, 10–20 lb | [drop shot](../techniques/drop-shot.md), [Ned rig](../techniques/ned-rig.md), bay finesse | — |
+| **30 lb bait class** | ~30 lb-line live-bait / squid setup | island and coastal bait fishing — [sliding sinker](../techniques/sliding-sinker.md), dropped squid (halibut, white seabass, ocean whitefish) | — |
+| **Light casting class** | light inshore casting setup that keeps a small jig / spinnerbait-style flash moving; the light end of the jig-stick spectrum | barracuda / bonito small-jig work, downsized [surface iron](../techniques/surface-iron.md) | — |
+| **Light troll class** | **⚠ stub** — named by the yellowtail locate-troll and halibut bounce-ball stub rows; no corpus source defines it yet (pending ~400-video batch) | light coastal trolling / bounce-ball (stub rows) | — |
 | **Workhorse / all-around class** | ~9 ft, H, fast, ~20–60 lb | biggest do-everything cast rod (not trolling) | Cameron's Lexa 400 |
 | **SPJ / slow-pitch class** | specialized parabolic rod, thin braid (PE1.5–2 class), small narrow high-speed reel | [slow-pitch jigging](../techniques/slow-pitch-jigging.md) | Cameron shopping (open item) |
 | **Knife / speed-jig class** | rod that vertically rips a 150–400 g jig; thin braid; assist hooks | [knife jigging](../techniques/knife-jigging.md) | Cameron shopping (open item) |
@@ -80,6 +87,7 @@ does the lookup.
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
@@ -88,6 +96,7 @@ does the lookup.
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)

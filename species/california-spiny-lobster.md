@@ -38,8 +38,9 @@ must be re-checked against **current CDFW rules** before every trip — they cha
 
 ## Finding them (sign & structure)
 
-There is no meter signature and no bird/surface sign — this is **structure
-targeting by chart and depth**, done in the dark.
+There is no meter signature and no bird/surface sign (so the
+[search & glassing](../planning/search-and-glassing.md) layer mostly does not
+apply) — this is **structure targeting by chart and depth**, done in the dark.
 
 - **Read the structure, not the fish:** put nets **on hard structure and kelp-edge
   transitions** — the same rock and riprap that hold bait and finfish. Chart the

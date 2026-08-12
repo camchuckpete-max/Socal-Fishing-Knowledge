@@ -57,7 +57,7 @@ question (see **Doctrine & conflicts**).
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
 | **Fall, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Put the marlin jigs **on the edge where bait meets clear water**; arrive an hour before the tide change |
-| **Tailing / finning fish sighted** | **Bait-and-switch** — tease with the trolled spread, then **pitch a live bait** to the raised fish (or cast a bait ahead of a tailer) | Flyline / live-bait class | The fish is committed to the teaser; the pitched bait is what it eats |
+| **Tailing / finning fish sighted** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live bait to the raised fish | Flyline / live-bait class | **⚠ Execution note is a flagged stub** (no corpus source yet); the pitch rod sits rigged and ready the whole troll |
 | **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (5to3Q5P7w90) |
 
 ## Gear summary (class terms)
@@ -66,7 +66,8 @@ question (see **Doctrine & conflicts**).
   [tuna/marlin skirts and feathers](../lures/tuna-feathers-and-skirts.md); a
   Mad-Scad-class lure has taken striped marlin (VgpgJ8IAyJo).
 - **Bait-and-switch:** a flyline/live-bait class rod ready to pitch the instant a
-  fish lights up on the teaser.
+  fish lights up on the teaser — [bait-and-switch](../techniques/bait-and-switch.md)
+  (flagged stub).
 - **Terminal:** heavy leader / [wind-on leader](../rigging/wind-on-leader.md) for
   the bill and the abrasion; class terms in [gear classes](../tackle/gear-classes.md).
 
@@ -86,6 +87,7 @@ question (see **Doctrine & conflicts**).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

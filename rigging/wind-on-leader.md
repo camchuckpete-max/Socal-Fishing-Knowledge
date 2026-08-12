@@ -62,6 +62,7 @@ and [the strongest braid-to-fluoro wind-on](https://www.youtube.com/watch?v=zkSK
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Flyline](../techniques/flyline.md)
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md)
 - [Kite Fishing](../techniques/kite-fishing.md)

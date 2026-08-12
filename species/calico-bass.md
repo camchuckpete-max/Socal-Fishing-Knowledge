@@ -80,7 +80,7 @@ you read the *current across the kelp*, not the tide clock.
 | Kelp bed, parallel current, biting fish tight to individual stringers | **Weedless swimbait** ([swimbaits](../techniques/swimbaits.md)) — short targeted casts to the stringers, fast steady wind, pause on the eat | 7–8 ft graphite-composite bass class, 40–60 lb, [gear classes](../tackle/gear-classes.md) | 7" weedless slug on a 3/8–3/4 oz keel-weighted spring hook; soft glass tip so you don't pull it out of the fish's mouth; heavy fluoro leader for kelp abrasion |
 | Kelp/beach edge, need to draw fish from a distance, picky | **Open (un-weedless) slug / surface presentation** ([swimbaits](../techniques/swimbaits.md)) — bomb cast, skitter with a 1-2-3 pause | 8–9 ft bass class | The slug calls fish off the stringers; pause after the eat, then set |
 | Bigger cruising fish, current up, want to cover the edge on top | **Surface iron** ([surface iron](../techniques/surface-iron.md)) — steady grind along the kelp line | jig-stick class, [iron jigs](../lures/iron-jigs.md) | Change kick/speed to the bite; a slow drawn-out profile for slack/picky current |
-| Sparse kelp lanes, fish not committing to weedless | **Hard bait / crankbait / Wax Wing** through the lanes | 7–10 ft graphite bass/crank class | Crank calico off 80–100 ft; DD-class divers and crankbaits run 10–15 ft down and get bit on the rise |
+| Sparse kelp lanes, fish not committing to weedless | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** / hard bait / Wax Wing (⚠ stub) through the lanes | 7–10 ft graphite bass/**crank class** | Crank the 80–100 ft lanes; execution, rigging upgrades, and depth doctrine in the technique note |
 | Live bait around, fish deeper on the edge or in wind | **Flyline** a sardine/mackerel ([flyline](../techniques/flyline.md)) | flyline class, 25–40 lb | Sweeps the up-current edge naturally |
 | Raging current, kelp pulled under | Slow down / switch to **subsurface** (sunk iron, leadhead) or wait for the slack | jig / leadhead class | Surface presentations die; resurfacing kelp = go back on top |
 | **Grunion-in-kelp / bait blitz** (even ugly stagnant water) | Match the bait — 7" split-tail slug on a sled/leadhead, every cast | bass class | Overrides water quality entirely; birds stay on top of the moving bait (10/20/22) |
@@ -132,6 +132,7 @@ present the outside stringers.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)

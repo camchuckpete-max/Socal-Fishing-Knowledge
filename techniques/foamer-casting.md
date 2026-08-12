@@ -103,6 +103,7 @@ tank is a platform choice for that program, not general doctrine — see his
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Surface Iron](surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

@@ -33,7 +33,8 @@ navigate the whole KB.
 3. **Resolve species + technique.** Enter through the [species routers](../species/):
    each maps the day's situation → ranked technique(s) → gear class.
 4. **Resolve gear + spread** against the active [profile](../profiles/). No
-   profile → class terms; with one → owned gear within the boat envelope.
+   profile → class terms per the [gear-class lexicon](../tackle/gear-classes.md);
+   with one → owned gear within the boat envelope.
 
 ## Conditions sources (BightSST)
 

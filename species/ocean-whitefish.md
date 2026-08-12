@@ -23,7 +23,9 @@ share a spot (see Doctrine & conflicts).
   over **hard bottom and along the hard-to-sand seams**, often the same shallow
   island high spots (100–250 ft) that produce the rockfish/lingcod variety bag.
   See [island structure](../locations/island-structure.md), [zone lexicon](../locations/zone-lexicon.md).
-- **When:** an all-season island bottomfish; best fished on a **variety day**
+- **When:** an all-season island bottomfish (no month prior applies — the
+  [seasonal calendar](../seasonal/README.md) matters only for the island trip
+  that gets you there); best fished on a **variety day**
   when you're already parked on a good island rock. They school, so once you find
   one you're usually into a pile.
 - **Conditions:** like everything at the islands, **current is as important as

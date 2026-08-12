@@ -40,6 +40,8 @@ every structure spot when the tide turns.
 
 ## Finding them (sign & sonar)
 
+General method: [search & glassing](../planning/search-and-glassing.md).
+
 - **Structure edges are the spot:** fish the **edge of the grass** (grass to sand
   or channel drop), the piling shade, the riprap deviations, and the **channel
   drop-offs** where the flat rolls into deeper water. On the meter you're reading
@@ -58,7 +60,7 @@ every structure spot when the tide turns.
 
 | Situation (conditions) | Do this | Gear class | Notes |
 | --- | --- | --- | --- |
-| Eelgrass flats, mooring cans, channel edges — moving tide (power fishing) | **Crankbait** ([swimbaits](../techniques/swimbaits.md) style cast-and-wind; crank subclass) — long cast, wind down ~3/4, then vary the cadence; total pause draws bites | 8–10 ft crank class, slow-retrieve 200 reel, [gear classes](../tackle/gear-classes.md) | Salt runs a crank shallower than rated (a "16 ft" crank runs ~13–14); control depth with rod-tip height; upgrade to 3X hooks + 50–60 lb split rings; **sweep, don't swing** — trebles pull |
+| Eelgrass flats, mooring cans, channel edges — moving tide (power fishing) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** — the power-fishing pass | 8–10 ft **crank class**, slow-retrieve 200 reel, [gear classes](../tackle/gear-classes.md) | Cadence changes and the total pause draw the bites; execution, depth control, and the hardware upgrades live in the technique note |
 | Docks, pilings, riprap — pitch to cover (finesse) | **Small plastics** — Zoom fluke on a 1/4–3/8 oz ballhead flipped into the pilings, watch the line, swing on the take ([bay bass plastics](../lures/bay-bass-plastics.md)) | light spinning / low-profile, 10–20 lb | Deadly-effective — 60 fish in an afternoon; fish run around pilings/into grass, so swing hard |
 | Back-bay, smaller aggressive fish, finesse | **Ned rig** ([ned rig](../techniques/ned-rig.md)) — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap/speed-up; one durable bait catches 50 fish |
 | Fish suspended off structure / need a slow horizontal fall | **Drop shot** ([drop shot](../techniques/drop-shot.md)) | light spinning class | Holds the bait at their level over a channel edge |
@@ -104,6 +106,7 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Swimbaits](../techniques/swimbaits.md)

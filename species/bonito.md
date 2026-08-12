@@ -48,7 +48,7 @@ rather than a dedicated technique study.
 | --- | --- | --- | --- |
 | Bonito boiling on the surface outside the kelp | **Surface iron / small chrome jigs** ([surface iron](../techniques/surface-iron.md)) — cast into the foam, steady-to-fast retrieve | jig-stick / light casting class, [iron jigs](../lures/iron-jigs.md), [gear classes](../tackle/gear-classes.md) | Documented catches came on small chrome jigs and small diving hard baits (DD-class); downsize to the bait |
 | Bonito mixed with bass on a structure edge | **Flyline** a small live bait ([flyline](../techniques/flyline.md)) | flyline class | The same drift that produces calico turns up bonito |
-| Small bait, picky surface fish | **Small jigs / spinnerbait-style flash** matched to the bait | light casting class | Match the small anchovy; keep it moving through the school |
+| Small bait, picky surface fish | **Small jigs / spinnerbait-style flash** matched to the bait — **⚠ downsized-jig presentation is a flagged stub** (no corpus source; nearest doctrine is the downsize rule in [foamer casting](../techniques/foamer-casting.md)) | light casting class ([gear classes](../tackle/gear-classes.md)) | Match the small anchovy; keep it moving through the school |
 | Bonito as a life indicator while targeting gamefish | Note the boil, keep it in the plan — a bonito bite marks living water | — | Their presence can precede or signal a better bite in the zone |
 
 ## Gear summary (class terms)

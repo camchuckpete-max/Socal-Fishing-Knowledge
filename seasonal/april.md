@@ -64,6 +64,7 @@ squid on the meter before you write the spot off.
 
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [California Halibut](../species/california-halibut.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Sea State](../conditions/sea-state.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)

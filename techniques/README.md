@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait.
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
@@ -11,6 +12,7 @@
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
 - [Hoop Netting](hoop-netting.md) — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
+- [Inshore Crankbaits](inshore-crankbaits.md) — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
 - [Knife / Speed Jigging](knife-jigging.md) — baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
 - [Ned Rig](ned-rig.md) — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
@@ -30,45 +32,47 @@
 
 ```mermaid
 graph LR
-  n0["Chunking"]
-  n1["Deep-Drop Swordfishing (daytime)"]
-  n2["Drop Shot"]
-  n3["Dropper Loop"]
-  n4["Flyline"]
-  n5["Foamer Casting"]
-  n6["Hoop Netting"]
-  n7["Kite Fishing"]
-  n8["Knife / Speed Jigging"]
-  n9["Ned Rig"]
-  n10["Rockfish Deep-Dropping"]
-  n11["Sliding Sinker"]
-  n12["Slow-Pitch Jigging (SPJ)"]
-  n13["Speed Trolling"]
-  n14["Surface Iron"]
-  n15["Swimbaits"]
-  n16["Trolling"]
-  n17["Yo-Yo Iron"]
-  n10 --> n11
-  n10 --> n12
-  n10 --> n3
-  n11 --> n10
-  n11 --> n3
-  n12 --> n10
-  n12 --> n3
-  n12 --> n8
-  n13 --> n16
-  n13 --> n7
-  n14 --> n17
-  n14 --> n5
-  n16 --> n13
-  n17 --> n14
-  n17 --> n3
-  n3 --> n10
-  n3 --> n11
-  n3 --> n12
-  n3 --> n17
-  n5 --> n14
-  n7 --> n13
-  n8 --> n12
+  n0["Bait-and-Switch (Striped Marlin)"]
+  n1["Chunking"]
+  n2["Deep-Drop Swordfishing (daytime)"]
+  n3["Drop Shot"]
+  n4["Dropper Loop"]
+  n5["Flyline"]
+  n6["Foamer Casting"]
+  n7["Hoop Netting"]
+  n8["Inshore Crankbaits"]
+  n9["Kite Fishing"]
+  n10["Knife / Speed Jigging"]
+  n11["Ned Rig"]
+  n12["Rockfish Deep-Dropping"]
+  n13["Sliding Sinker"]
+  n14["Slow-Pitch Jigging (SPJ)"]
+  n15["Speed Trolling"]
+  n16["Surface Iron"]
+  n17["Swimbaits"]
+  n18["Trolling"]
+  n19["Yo-Yo Iron"]
+  n10 --> n14
+  n12 --> n13
+  n12 --> n14
+  n12 --> n4
+  n13 --> n12
+  n13 --> n4
+  n14 --> n10
+  n14 --> n12
+  n14 --> n4
+  n15 --> n18
+  n15 --> n9
+  n16 --> n19
+  n16 --> n6
+  n18 --> n15
+  n19 --> n16
+  n19 --> n4
+  n4 --> n12
+  n4 --> n13
+  n4 --> n14
+  n4 --> n19
+  n6 --> n16
+  n9 --> n15
 ```
 <!-- mermaid:end -->

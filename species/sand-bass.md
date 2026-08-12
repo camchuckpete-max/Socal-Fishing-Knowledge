@@ -63,7 +63,7 @@ rocks.
 | Followers behind a hooked fish, warm water, fish chasing high in kelp | **Double rig** — two swimbaits (5" + 7") on a three-way swivel, smaller bait up ahead on a short (~12") leader, bigger on a longer (~24") leader ([swimbaits](../techniques/swimbaits.md)) | heavier bass class, 65 lb braid / 40 lb fluoro | Picks up the followers alongside the hooked fish; also the Alabama/A-rig chain reaction — one bite fires the next |
 | Live anchovy aboard, fish hovering above structure | **Sliding (egg) sinker** live bait — 1/2 oz egg sinker + size-2 J hook, slow-sink through the column ([sliding sinker](../techniques/sliding-sinker.md)) | 8–8.5 ft, 12–30 lb finesse fly-line class, small star-drag | Downsize to match small anchovy; covers the whole column |
 | Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down |
-| Suspended bait balls over pipes / deep structure (winter) | **Crankbait** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | The all-winter deep-structure staple |
+| Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | The all-winter deep-structure staple; crank execution in the technique note |
 | Weedy/kelpy structure | **Weedless plastic** (e.g. War Baits neck-breaker) | bass class | Hides the hook, better penetration around the grass |
 
 ## Gear summary (class terms)
@@ -98,6 +98,7 @@ rocks.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [June–July](../seasonal/june-july.md)
 - [Moon](../conditions/moon.md)

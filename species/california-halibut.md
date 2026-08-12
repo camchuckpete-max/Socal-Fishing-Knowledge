@@ -39,13 +39,15 @@ Nate Winnicki's rigging.
   See [island structure](../locations/island-structure.md).
 - **When:** an inshore fish that moves around looking for feed year-round; **the
   [warming transition regime](../conditions/water-regimes.md) (typically spring)
-  and its squid-bed months** stack big island halibut on the structure next to the
-  nests. Tie the timing to **current and tide** (below), not the calendar.
+  and its squid-bed months** ([April priors](../seasonal/april.md) carry the
+  squid cycle) stack big island halibut on the structure next to the nests. Tie
+  the timing to **current and tide** (below), not the calendar.
 
 ## Finding them (sign & sonar)
 
 **You cannot mark the halibut** — they lie flat and buried. You mark **the
-conditions that put one there.**
+conditions that put one there.** (General search method:
+[search & glassing](../planning/search-and-glassing.md).)
 
 - **The water triad (off-color + current + bait — all three).** "Seabass/halibut
   color" **milky water alone is not a spot.** It only tells you current or surge
