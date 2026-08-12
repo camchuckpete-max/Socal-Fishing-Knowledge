@@ -179,6 +179,23 @@ The flaw this fixes: species notes and technique notes can each exist while the
 - **Preserve specifics exactly** — weights, depths, degrees, line classes, dates.
   Never smooth numbers into generalities.
 
+## Content rules (generalized review corrections)
+
+- **No relative time anywhere.** Use absolute years/dates — never "last year",
+  "this season", "next month". A 2021 seminar describing "last year" means 2020;
+  write 2020.
+- **Region separation.** Every parameter carries its coast/region context.
+  Out-of-region technique detail (e.g. East-coast/Gulf Stream numbers) is either
+  a **labeled contrast block** or excluded — never sits unlabeled beside SoCal
+  doctrine.
+- **The router never absorbs execution.** If a species has execution content and
+  no technique note to hold it, **create the technique note**; the species note
+  keeps routing only (e.g. `techniques/deep-drop-swordfishing.md` holds sword
+  execution, `species/swordfish.md` routes to it).
+- **Angler self-imposed constraints are profile data,** even when stated with
+  conviction (e.g. "manual reels only"). The general note states what the fishery
+  does; the constraint lives in `profiles/<user>/`.
+
 ## Curation bar
 
 - **Decision knowledge**: when, why, conditions, selection logic.

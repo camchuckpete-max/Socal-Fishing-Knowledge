@@ -13,5 +13,5 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

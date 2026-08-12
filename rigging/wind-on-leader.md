@@ -13,5 +13,5 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Striped Marlin](../species/striped-marlin.md)
 <!-- backlinks:end -->

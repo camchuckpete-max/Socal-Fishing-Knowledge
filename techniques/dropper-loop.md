@@ -13,5 +13,10 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barred Sand Bass](../species/sand-bass.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [September](../seasonal/september.md)
+- [White Seabass](../species/white-seabass.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -13,5 +13,7 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Barred Sand Bass](../species/sand-bass.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

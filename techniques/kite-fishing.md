@@ -13,5 +13,7 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 <!-- backlinks:end -->

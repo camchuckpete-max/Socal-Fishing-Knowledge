@@ -13,5 +13,6 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [California Halibut](../species/california-halibut.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

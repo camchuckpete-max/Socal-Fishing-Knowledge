@@ -80,12 +80,14 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 
 - [April](../seasonal/april.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Moon](moon.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Water Color](water-color.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

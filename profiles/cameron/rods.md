@@ -96,5 +96,6 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - [Spreader Bar](../../lures/spreader-bar.md)
 - [Surface Iron](../../techniques/surface-iron.md)
 - [Swordfish (Broadbill)](../../species/swordfish.md)
+- [Yellowtail](../../species/yellowtail.md)
 - [Yo Yo Iron](../../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

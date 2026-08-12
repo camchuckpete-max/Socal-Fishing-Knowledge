@@ -13,5 +13,5 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

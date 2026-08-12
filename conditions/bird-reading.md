@@ -110,8 +110,19 @@ shearwater doctrine (7/21/22) — merge it in as the missing piece:
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Barracuda](../species/barracuda.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [October](../seasonal/october.md)
+- [Pacific Bonito](../species/bonito.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Striped Marlin](../species/striped-marlin.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

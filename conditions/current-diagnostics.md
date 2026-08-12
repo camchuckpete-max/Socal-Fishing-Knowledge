@@ -63,6 +63,7 @@ treadmill back on (see [tide and slack](tide-and-slack.md)).
 ## Linked from
 
 - [Bass Structure](../locations/bass-structure.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

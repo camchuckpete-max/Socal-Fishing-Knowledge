@@ -74,9 +74,13 @@ water. (Consistent with the corpus "warmest × cleanest" read for
 ## Linked from
 
 - [Bight Geography](../locations/bight-geography.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Halibut](../species/california-halibut.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)

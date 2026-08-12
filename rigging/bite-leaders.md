@@ -13,5 +13,8 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

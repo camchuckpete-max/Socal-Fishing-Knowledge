@@ -13,5 +13,6 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 <!-- backlinks:end -->

@@ -14,8 +14,10 @@ confidence: medium
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [May](../seasonal/may.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

@@ -13,5 +13,7 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Barred Sand Bass](../species/sand-bass.md)
+- [California Halibut](../species/california-halibut.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 <!-- backlinks:end -->

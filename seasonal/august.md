@@ -68,12 +68,18 @@ and [bird reading](../conditions/bird-reading.md).
 
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Barracuda](../species/barracuda.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Pacific Bonito](../species/bonito.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

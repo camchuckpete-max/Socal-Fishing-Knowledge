@@ -13,5 +13,7 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 <!-- backlinks:end -->

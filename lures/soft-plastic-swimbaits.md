@@ -13,5 +13,8 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Barred Sand Bass](../species/sand-bass.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 <!-- backlinks:end -->

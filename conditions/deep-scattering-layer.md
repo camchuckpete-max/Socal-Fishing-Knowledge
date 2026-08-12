@@ -67,6 +67,7 @@ and structure concentrate this water is in
 - [BightSST Eval Targets](../locations/bightsst-eval-targets.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Current Structure](current-structure.md)
+- [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [November–December](../seasonal/november-december.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

@@ -15,4 +15,5 @@ confidence: medium
 
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [September](../seasonal/september.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

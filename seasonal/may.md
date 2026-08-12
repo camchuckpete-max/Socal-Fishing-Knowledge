@@ -53,10 +53,12 @@ Read the water with [water temperature](../conditions/water-temperature.md),
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [California Barracuda](../species/barracuda.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)

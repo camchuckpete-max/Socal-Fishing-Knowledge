@@ -13,5 +13,5 @@ confidence: medium
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [California Barracuda](../species/barracuda.md)
 <!-- backlinks:end -->

@@ -71,9 +71,53 @@ _Filled incrementally per step. Format: `video_id — note(s) | skipped: reason`
 | 4xzK7YaXK5s | conditions/kelp-paddies |
 | 11npFUPOJKU | planning/electronics-and-sounder |
 
-All other `_manifest.csv` video_ids are **pending steps 2–7** (species reports
-re-mined in step 2; techniques/lures/rigging/tackle/bait/fish-care in steps 3–6).
-The finish step verifies every id is accounted for.
+**Step 2 (species routers) — consumed (species videos; dated reports re-mined
+for species behavior, adding species destinations to the step-1 report rows):**
+
+| video_id | note(s) fed |
+| --- | --- |
+| HWx1jDTGsng | species/bluefin-tuna |
+| HtuLTv1NlL0 | species/bluefin-tuna |
+| EyB98RuKfeQ | species/bluefin-tuna |
+| z1CmWHqe9uk | species/bluefin-trolling |
+| YsiHziY_PWw | species/bluefin-trolling |
+| VgpgJ8IAyJo | species/bluefin-trolling, yellowfin-tuna, dorado, striped-marlin |
+| 8M4QhL-Qb7E | species/yellowfin-tuna |
+| lxFNVdDhMy4 | species/yellowfin-tuna, skipjack-tuna |
+| sYrsPGXiYhI | species/bluefin-tuna (concept; full rig → rigging/rubber-band-deep-rig, step 4) |
+| D5DR7Kx42_A | species/yellowtail |
+| Jtf-bU4aM-c | species/yellowtail |
+| vqsD0qpwcJA | species/yellowtail |
+| E4vKwRaRueA | species/dorado (also planning/search-and-glassing, step 1) |
+| YIABTTYXeqc | species/calico-bass |
+| n6PTy8g3pb0 | species/calico-bass |
+| Rwy4MqeXCIU | species/calico-bass |
+| P2OzCf2CwXI | species/sand-bass |
+| 9br4Z4sfcNI | species/sand-bass (double swimbait rig; also techniques/swimbaits, step 3) |
+| GVP3IChsmRQ | species/spotted-bay-bass |
+| um5MAeCjNDg | species/spotted-bay-bass (also techniques/ned-rig, step 3) |
+| lm7D9Tlc7Po | species/barracuda (also rigging/haywire-twist, step 4) |
+| O5aQkex0qGg | species/rockfish-lingcod, ocean-whitefish |
+| 6-8KfjEg0x8 | species/rockfish-lingcod, ocean-whitefish |
+| AqW_Z9pFcHU | species/rockfish-lingcod |
+| OpcKQPA3vAI | species/california-halibut, white-seabass |
+| a5u8BaYzw8c | species/california-halibut |
+| Xr4nURK-Z48 | species/white-seabass (also rigging/leadhead-mods, step 4) |
+| b19_AJjYCok | species/california-spiny-lobster; techniques/hoop-netting |
+
+Dated reports (YZtX1MiT0y8, S2L3KLSQ6Is, DnSqw4r7A1s, Blh2BA-7Ono, CMQkHQMxbXM,
+-JZpyWLdKlk, HzE4FHHcvTk, HnqiE05vdXs, 5to3Q5P7w90, XLVUhV8DW64, OYOda6T3f-8,
+Z3rZqy2Pi8E, 5D1vx29LVpI) were re-mined for species behavior — destinations
+added to bluefin-tuna, yellowfin-tuna, yellowtail, calico-bass, sand-bass,
+white-seabass, barracuda, bonito, striped-marlin as applicable.
+
+**New technique note this step:** `techniques/deep-drop-swordfishing.md` and
+`techniques/hoop-netting.md` (created per rule C2 — router never absorbs
+execution).
+
+All other `_manifest.csv` video_ids are **pending steps 3–7** (techniques,
+lures, rigging, tackle, bait, fish-care). The finish step verifies every id is
+accounted for.
 <!-- log:transcripts:end -->
 
 ## memory-export.md section → destinations
@@ -112,3 +156,21 @@ dedicated note — candidate destination planning/search-and-glassing or a futur
 - `sources/source-registry.md` seeded per amendment V3-1.
 - Ocean whitefish → its own note `species/ocean-whitefish.md` (tilefish
   relative, not a rockfish); rationale per amendment V3/A3.
+
+### Review corrections (swordfish, C1–C4) — generalized to all species notes
+
+- **C1 Region separation:** `species/swordfish.md` parameters labeled SoCal;
+  East-coast/Gulf Stream detail moved to a labeled "East-coast contrast" block in
+  the technique note. General rule added to CLAUDE.md.
+- **C2 Router never absorbs execution:** created
+  `techniques/deep-drop-swordfishing.md` and moved sword execution (deployment
+  sequence/timing, drift-setup up-current, bite handling incl. don't-touch-the-rod
+  with attribution, lead/leader rigging) there; `species/swordfish.md` keeps
+  routing. General rule added to CLAUDE.md (create a technique note rather than let
+  a router hold execution).
+- **C3 Angler constraint → profile:** "manual reels only" reframed as Cameron's
+  profile constraint (already in `profiles/cameron/rods.md`); the species note
+  states the fishery uses both electric-assist and manual. General rule added.
+- **C4 No relative time:** swordfish seminar pinned to Feb 2021 / seasons
+  2019–2020; relative time banned KB-wide (CLAUDE.md). Enforced in the step-2
+  review of all species notes.

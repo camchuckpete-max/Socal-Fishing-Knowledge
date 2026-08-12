@@ -78,13 +78,13 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Calico Bass](../species/calico-bass.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
-- [Sand Bass](../species/sand-bass.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
 - [White Seabass](../species/white-seabass.md)
