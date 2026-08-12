@@ -59,10 +59,10 @@ Requirements before you stop:
 - **DSL present at ≥ 600 ft** — preferred **~950 ft / 150 fathoms, or deeper**.
 - **DSL *plus* chunky bait balls** (anchovy / hake / squid) at **100–150+
   fathoms ≈ bites near-assured.** A bare layer with no bait is not a stop.
-- **Sounder for the DSL:** TVG / gain pushed up (**Furuno ~55–57**; mid-high on
-  other brands), ping speed slowed (**~15 of 20**) to paint the layer. On
-  Cameron's **Garmin GPSMAP 840xs**: gain up, slower ping, watch for the band.
-  Full method: [electronics & sounder](../planning/electronics-and-sounder.md).
+- **Sounder for the DSL:** the layer is faint — gain up, ping slowed, let it
+  build on screen. The exact settings (Furuno numbers, Garmin 840xs
+  translation) live in
+  [electronics & sounder](../planning/electronics-and-sounder.md).
 - **Diet corroboration:** stomachs full of hake, small rockfish, squid
   (bottom-adjacent feeders); one Catalina fish full of mullet (they range
   inshore at night).
@@ -114,6 +114,7 @@ Requirements before you stop:
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
 - [Sea State](../conditions/sea-state.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

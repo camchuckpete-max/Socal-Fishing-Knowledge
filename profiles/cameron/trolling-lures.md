@@ -56,10 +56,9 @@ to pull is in [bluefin trolling](../../species/bluefin-trolling.md) and
 ## Spreader bars → [spreader bar](../../lures/spreader-bar.md)
 - **Three Half Fish Bait Co spreader bars** — purple/black · green/orange ·
   blue/chartreuse/silver. Bought at Fred Hall; the March 2026 one has a slight
-  bend = Half Fish's newer model. **Newer-model line spec (per Half Fish):
-  100 lb stinger line down the middle, 80 lb sides, all Izorline XXX copolymer
-  mono (not fluoro).** First season using bars; went to Half Fish for guidance
-  because little is published.
+  bend = Half Fish's newer model. Internal-line spec and drag rule:
+  [spreader bar](../../lures/spreader-bar.md). First season using bars; went to
+  Half Fish for guidance because little is published.
 
 ## Spread rules (attributed cameron; universal doctrine → [trolling](../../techniques/trolling.md))
 - No outriggers; normally runs **2–3 lures**; furthest-back lure runs out of the

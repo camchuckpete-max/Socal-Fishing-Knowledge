@@ -109,6 +109,7 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Regimes](../conditions/water-regimes.md)

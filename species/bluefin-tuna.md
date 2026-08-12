@@ -93,7 +93,7 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
 | --- | --- | --- | --- |
 | **Surface foamers**, terns working, castable seas | [Foamer casting](../techniques/foamer-casting.md) — poppers first (hold the zone longest), then surface iron, then a small lead bait; run ahead of the school, stop hard, cast to the middle | Beefed **jig-stick class** for 200 lb fish ([gear classes](../tackle/gear-classes.md)) | Match tiny anchovy → downsize to a lead bait (Colt-Sniper/zakana class); bite comes on the **pause / fall**, not the pop |
 | **Fish sounded deep** (30–50 fm), wind up, no surface sign | [Knife-jigging](../techniques/knife-jigging.md) to graded marks; heavier jig for depth/current | 100–130 lb-braid **jig class** (PE6–8); [knife jigs](../lures/knife-jigs.md) | Day 150–300 g; more current / deeper fish → 300–400 g to punch down and still stay horizontal in the strike zone |
-| **Night bite**, fish rising on the DSL | [Knife-jigging](../techniques/knife-jigging.md) vertical — throw up-current at the bow and walk back to stay vertical; [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) to sink live bait to sounded fish | Night **jig class**; [knife jigs](../lures/knife-jigs.md) 150–400 g | **80 lb braid** sinks faster than 100; **single bottom hook pair, no top hook**; mark line every 100 ft (or color-metered braid); 200 lb bite leader |
+| **Night bite**, fish rising on the DSL | [Knife-jigging](../techniques/knife-jigging.md) vertical — throw up-current at the bow and walk back to stay vertical; [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) to sink live bait to sounded fish | Night **jig class**; [knife jigs](../lures/knife-jigs.md) 150–400 g | Rig detail — braid choice, single-bottom-assist doctrine, line marking, bite leader — lives in [knife jigging](../techniques/knife-jigging.md) |
 | **Big fish 100–300 lb**, wind ~8–15 kt | [Kite fishing](../techniques/kite-fishing.md) — a flying fish under a kite is *the* most effective method for 100–300 lb | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md) | See [bluefin trolling](../species/bluefin-trolling.md) for the troll alternative when you can't kite |
 | **Locating / wind too light to fly the kite** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](../species/bluefin-trolling.md) |
 | **Chummed up / picky on bait** | [Flyline](../techniques/flyline.md) a sardine on a circle hook; scale leader down | **40–60 lb class** | Corner-of-mouth circle-hook bite; a small anchovy-matching lure (Riptide-105 class) can convert picky fish |
@@ -135,20 +135,12 @@ and cedar plugs for mixed grade. The full table by wind/grade/water lives in
   **sound to 30–50 fathoms** and you need power on the meter to reach them; bird
   radar at 4–5 mi.
 - **Cameron (attributed — on-water observation, not doctrine):**
-  - **Observed** (Cameron, fall 2025, panga range): epic late-season foamer
-    finish. Ran **NO bait** — couldn't hold enough of the only available bait
-    (big sardines) to chum, and skipping the 30-gal tank cut water weight on
-    high-mileage run-and-gun days. **~2–3 casts per school** before moving. Most
-    fish on **Colt Snipers, many snagged** — smaller presentation was better.
-    Landed **25–40 lb**; saw **80–140 lb** foamer schools but never hooked one.
-  - **Foamer technique (Cameron):** run at working terns fast, set up **ahead of
-    the school's direction of travel**, stop hard (**25 kt straight to neutral**),
-    cast immediately as close to the middle of the foam as possible; long casting
-    distance is very helpful; **a backlash on the arrival cast kills your shot at
-    that school**.
-  - **Slack-tide model (Cameron):** plans foamers around **slack tide** — slack
-    lets bait rise in the column, which is when foamers are most likely to start
-    ([tide & slack](../conditions/tide-and-slack.md)).
+  - **Foamer program summary:** run-and-gun at working terns, **~2–3 casts per
+    school**, smaller presentation (Colt-Sniper class) has out-fished bigger,
+    timed around **slack tide**
+    ([tide & slack](../conditions/tide-and-slack.md)). The approach mechanics,
+    common failures, and the full fall-2025 observed record live in
+    [foamer casting](../techniques/foamer-casting.md).
   - Started **kite fishing July 2026**; ruled out a helium-balloon assist (too
     expensive, no room for a tank on the panga). Would cast his heaviest
     jig-stick/rail-class setup at a jumbo **80–140 lb** foamer school.

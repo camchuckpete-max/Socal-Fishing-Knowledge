@@ -37,6 +37,7 @@ overnight** (7/21/22). After the October full moon, "the tuna are gone" was a
 (10/12/22). Post-moon discipline:
 - **Heavily discount report persistence** (a 3-day-old fish position is now stale).
 - Treat **absence of reports** as coverage bias, not absence of fish.
+- Treat the **moon peak itself as a relocation event, not a bite-death**.
 - **Widen the search prior** toward same-date prior-year locations
   ([year-anniversary prior](../seasonal/year-anniversary-prior.md)).
 

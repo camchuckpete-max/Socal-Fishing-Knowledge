@@ -94,5 +94,6 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Island Structure](../locations/island-structure.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

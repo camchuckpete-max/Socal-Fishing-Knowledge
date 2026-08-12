@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, VgpgJ8IAyJo]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk]
 confidence: high
 ---
 
@@ -38,10 +38,10 @@ chasing a fleeing school), and **do not troll through the fleet's prop wash**
 | Wind / sea | Fish grade & water | Pull this | Gear class | Why / running notes |
 | --- | --- | --- | --- | --- |
 | **8–15 kt**, fishable swell, big fish present | **100–300 lb**, any water | [Kite](../techniques/kite-fishing.md) — flying fish under a kite | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md), 300–400 lb fluoro | *The* most effective big-fish method when the wind will fly a kite; lay the leader flat on the surface to gaff |
-| **Too light to fly a kite (wind under ~8 kt)**, need to locate | Any grade, locating | [Speed-troll](../techniques/speed-trolling.md) a full-size [Mad Mac](../lures/mad-mac.md) 200 | Heavy **troll class** (high tow load) | Speed-troll band **13–15 kt** (Winnicki); researched bluefin sweet spot **9–12, to 14 kt** for a normal spread — two different jobs, reconciled in the [Mad Mac](../lures/mad-mac.md) note; **100 lb wind-on, crimped, low-profile — no big snap swivel**; 200 lb bite leader to 130 lb braid; swap the back J for a treble |
-| **Light-moderate, calm-ish** | **School grade**, mixed | [Spreader bar](../lures/spreader-bar.md) (out of the elevated shotgun) | **80–100 lb topshot**, drag well under the internal line | Bars run **4–14 kt, match the rest of the spread**; the **bar rides out of the water**, so it wants the highest holder |
-| **Calm, school grade**, want a swimmer | Schoolies–mid, clean-ish | [DTX Minnow](../lures/dtx-minnow.md) 165 or [Husky Magnum](../lures/rapala-husky-magnum.md) diver | **60–100 lb** (swimmer action dies on heavy line) | DTX **3–12 kt, runs ~30 ft, 80–120 yd back for tuna**; Husky model # = depth at ~33 yd (HM25 = 25 ft), best 6–8 kt — **divers want the low gunnel holders** |
-| **Calm, mixed / picky** | Mixed grade over bait | [Cedar plug](../lures/cedar-plug.md) or [Halco](../lures/halco-laser-pro.md) LP190 XDD deep diver | **40–60 lb** | Cedar **5–5.5 kt for bluefin**, run either **15–40 ft in the wash or 50–100+ yd back, nothing between**; Halco 3–11 kt (opt 6.5), 20+ ft, is the lightest lure in the box |
+| **Too light to fly a kite (wind under ~8 kt)**, need to locate | Any grade, locating | [Speed-troll](../techniques/speed-trolling.md) a full-size [Mad Mac](../lures/mad-mac.md) 200 | Heavy **troll class** (high tow load) | Speed-troll band **13–15 kt** (Winnicki); researched bluefin sweet spot **9–12, to 14 kt** for a normal spread — two different jobs, reconciled in the [Mad Mac](../lures/mad-mac.md) note; the low-profile crimped connection and J-to-treble swap live in [speed trolling](../techniques/speed-trolling.md) + the lure note |
+| **Light-moderate, calm-ish** | **School grade**, mixed | [Spreader bar](../lures/spreader-bar.md) (out of the elevated shotgun) | **80–100 lb topshot**, drag well under the internal line | The **bar rides out of the water**, so it wants the highest holder; running specs in the [spreader bar](../lures/spreader-bar.md) note |
+| **Calm, school grade**, want a swimmer | Schoolies–mid, clean-ish | [DTX Minnow](../lures/dtx-minnow.md) 165 or [Husky Magnum](../lures/rapala-husky-magnum.md) diver | **60–100 lb** (swimmer action dies on heavy line) | **Divers want the low gunnel holders**; speeds, depths, and setbacks live in the [DTX](../lures/dtx-minnow.md) and [Husky](../lures/rapala-husky-magnum.md) notes |
+| **Calm, mixed / picky** | Mixed grade over bait | [Cedar plug](../lures/cedar-plug.md) or [Halco](../lures/halco-laser-pro.md) LP190 XDD deep diver | **40–60 lb** | The Halco is the **lightest lure in the box**; cedar speed and the wash-or-way-back positioning rule live in the [cedar plug](../lures/cedar-plug.md) and [Halco](../lures/halco-laser-pro.md) notes |
 
 **Reach for trolling when:** you have fish in a zone but no castable surface
 sign; you need to **cover a 50–60 sq mi search box** efficiently; or the wind is
@@ -87,9 +87,8 @@ school-grade spread does the rest.
     strike, **(4)** line-agnostic lures where the rod just matches the target.
   - Chose **spreader bars over conventional bars** because there isn't room on the
     panga for conventional bars; first season using them, went to **Half Fish**
-    for guidance. Half Fish's newer-model bar spec: **100 lb stinger line down the
-    middle, 80 lb sides, all Izorline XXX copolymer mono** (not fluoro), drag set
-    well under the 100 lb internal line.
+    for guidance. The Half Fish internal-line spec and the drag rule live in
+    [spreader bar](../lures/spreader-bar.md).
   - **Observed** (Cameron, July 2026): trolls on the Talica 25 and Fathom 80
     setups plus sometimes the Trinidad 40; the TLD 20 is entering rotation for
     **diver duty (Halcos, Husky Magnums) plus skirt/cedar-plug work on

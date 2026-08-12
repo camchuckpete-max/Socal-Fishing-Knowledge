@@ -80,6 +80,7 @@ rather than a dedicated technique study.
 - [California Barracuda](barracuda.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flyline](../techniques/flyline.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)

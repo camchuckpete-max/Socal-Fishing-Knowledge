@@ -51,4 +51,5 @@ knowledge — log new sources against this note when the batch lands.
 ## Linked from
 
 - [Striped Marlin](../species/striped-marlin.md)
+- [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

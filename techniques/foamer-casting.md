@@ -77,6 +77,12 @@ presentation fished better. Landed fish were **25 to 40 lb**; he saw **80 to
 tank is a platform choice for that program, not general doctrine — see his
 [boat](../profiles/cameron/boat.md).)
 
+## Timing (Cameron, attributed)
+
+Cameron plans foamer looking around **slack tide** — slack lets bait rise in
+the column, which is when foamers are most likely to start
+([tide & slack](../conditions/tide-and-slack.md)).
+
 ## Gear class
 
 - A **jig-stick class** outfit, beefed up from the yellowtail version — these can
@@ -104,6 +110,7 @@ tank is a platform choice for that program, not general doctrine — see his
 - [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

@@ -81,7 +81,7 @@ for species behavior, adding species destinations to the step-1 report rows):**
 | EyB98RuKfeQ | species/bluefin-tuna |
 | z1CmWHqe9uk | species/bluefin-trolling |
 | YsiHziY_PWw | species/bluefin-trolling |
-| VgpgJ8IAyJo | species/bluefin-trolling, yellowfin-tuna, dorado, striped-marlin |
+| VgpgJ8IAyJo | species/yellowfin-tuna, dorado, striped-marlin (Mad Scad mentions; promo-flagged; bluefin-trolling removed — no content traces to it) |
 | 8M4QhL-Qb7E | species/yellowfin-tuna |
 | lxFNVdDhMy4 | species/yellowfin-tuna, skipjack-tuna |
 | sYrsPGXiYhI | species/bluefin-tuna (concept; full rig → rigging/rubber-band-deep-rig, step 4) |

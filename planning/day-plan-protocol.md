@@ -66,6 +66,7 @@ navigate the whole KB.
 - [Current Structure](../conditions/current-structure.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [Moon](../conditions/moon.md)

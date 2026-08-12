@@ -44,16 +44,10 @@ feeders (one Catalina fish full of mullet, which range inshore at night).
 
 ## Painting the DSL on the sounder
 
-The layer is faint; you have to turn the machine up to see it (sword seminar;
-Duane's fish-finder walkthrough):
-
-- **TVG / gain up** — Furuno ~55–57; mid-to-high on other brands.
-- **Slow the ping speed** — ~15 of 20 — to let the layer build on screen.
-- On a Garmin 840xs this translates to: **gain up, slower ping, watch for the
-  band.**
-
-Full sounder method and settings in
-[electronics and sounder](../planning/electronics-and-sounder.md).
+The layer is faint; you have to turn the machine up to see it — gain up, ping
+slowed, let the band build on screen (sword seminar; Duane's fish-finder
+walkthrough). The exact settings (Furuno numbers, Garmin 840xs translation)
+live in [electronics and sounder](../planning/electronics-and-sounder.md).
 
 ## Where the DSL matters
 

@@ -31,16 +31,11 @@ travel line.
 
 ## Post-moon relocation ≠ disappearance
 
-On and just after the moon, fish travel at night and schools scatter and
-relocate (bright-night confidence) — open-water bluefin can move 10–15 nm
-overnight (7/21/22). After the October full moon, "the tuna are gone" was a
-**coverage illusion**: the fleet lost them and stopped reporting (10/12/22). See
-[moon](../conditions/moon.md) for the full lunar layer. Rules for the days after
-a moon:
-
-- **Heavily discount report persistence.**
-- **Widen the search prior** toward same-date prior-year locations.
-- Treat the moon peak itself as a **relocation event**, not a bite-death.
+For report aging, the moon rule is: **on and just after a moon, heavily
+discount report persistence** — schools relocate at night (open-water bluefin
+move 10–15 nm overnight), so a 3-day-old position is stale. The full post-moon
+discipline (coverage bias, relocation-not-bite-death, widening the prior) is
+the [moon layer](../conditions/moon.md)'s.
 
 ## Persistence-null — absence of reports is not absence of fish
 

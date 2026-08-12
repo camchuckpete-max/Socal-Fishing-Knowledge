@@ -43,8 +43,8 @@ From 7/14/22 and the dorado video (Landesfeind):
 **Cameron's practice (merge):** terns are his best bird — offshore he will
 **follow working terns around to find fish even with no other birds working**, and
 almost always stops and casts on them (memory §3). His foamer search is the same
-loop at speed: run hard at working terns, set up **ahead of the school's
-direction of travel**, then stop hard and cast (memory §2). The tern-follow read
+loop at speed — the run-stop-cast approach mechanics live in
+[foamer casting](../techniques/foamer-casting.md) (memory §2). The tern-follow read
 and the shearwater doctrine he is still building are in
 [bird reading](../conditions/bird-reading.md).
 
