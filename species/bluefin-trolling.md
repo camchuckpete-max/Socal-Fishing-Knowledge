@@ -107,7 +107,7 @@ school-grade play.
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)

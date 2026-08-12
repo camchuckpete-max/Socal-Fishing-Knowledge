@@ -158,9 +158,20 @@ Lure class notes (iron-jigs, knife-jigs, soft-plastic-swimbaits, bay-bass-plasti
 draw specs from cameron §8/§9 + technique-note sources already logged (XLVUhV8DW64,
 HnqiE05vdXs, OHxbPovgvgc, YIABTTYXeqc, n6PTy8g3pb0, um5MAeCjNDg, k4mD2d6C81k).
 
-All other `_manifest.csv` video_ids are **pending steps 5–6** (tackle: line/leader
-+ reel maintenance + hooks; bait; fish-care). The finish step verifies every id
-is accounted for.
+**Step 5 (tackle) — consumed:**
+
+| video_id | note(s) |
+| --- | --- |
+| aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE | tackle/line-and-leader (sponsored superiority claims kept low-confidence) |
+| xPFm_ZV2PZU | tackle/rod-and-reel-selection, gear-classes, line-and-leader |
+| ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw | tackle/rod-and-reel-selection |
+| sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM | tackle/hooks |
+| EyB98RuKfeQ | tackle/line-and-leader, hooks (also species/bluefin-tuna, step 2) |
+| 5yfA5XAaLLY | tackle/reel-maintenance |
+| dMJJbowNb40 | topic covered by rigging/essential-knots (uni-to-uni knot demo); Gold Label preference covered from stronger sources |
+
+All other `_manifest.csv` video_ids are **pending step 6** (bait; fish-care).
+The finish step verifies every id is accounted for.
 <!-- log:transcripts:end -->
 
 ## memory-export.md section → destinations

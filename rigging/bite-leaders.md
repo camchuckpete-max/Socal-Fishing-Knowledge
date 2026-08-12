@@ -65,7 +65,8 @@ How-to video: [making bluefin bite leaders](https://www.youtube.com/watch?v=kO_B
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
-- [Line And Leader](../tackle/line-and-leader.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

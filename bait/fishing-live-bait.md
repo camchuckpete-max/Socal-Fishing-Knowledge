@@ -14,4 +14,6 @@ confidence: medium
 ## Linked from
 
 - [Flyline](../techniques/flyline.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 <!-- backlinks:end -->

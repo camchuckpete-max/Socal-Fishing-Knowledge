@@ -90,6 +90,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

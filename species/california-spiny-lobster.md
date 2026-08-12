@@ -87,7 +87,7 @@ targeting by chart and depth**, done in the dark.
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Island Structure](../locations/island-structure.md)
 <!-- backlinks:end -->

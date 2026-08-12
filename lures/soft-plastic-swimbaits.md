@@ -66,6 +66,7 @@ baits and heads from the class terms above; see
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Swimbaits](../techniques/swimbaits.md)

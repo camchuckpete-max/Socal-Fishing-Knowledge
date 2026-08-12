@@ -71,7 +71,7 @@ live in the router: [bluefin trolling](../species/bluefin-trolling.md).
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Kite Fishing](kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Trolling](trolling.md)

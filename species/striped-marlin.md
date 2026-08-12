@@ -87,7 +87,8 @@ question (see **Doctrine & conflicts**).
 
 - [Bird Reading](../conditions/bird-reading.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
 - [October](../seasonal/october.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

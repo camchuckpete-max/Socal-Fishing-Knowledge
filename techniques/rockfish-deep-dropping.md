@@ -93,6 +93,7 @@ weight, and reading the meter; the reverse map of species is in **Linked from**.
 - [Dropper Loop](dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 <!-- backlinks:end -->

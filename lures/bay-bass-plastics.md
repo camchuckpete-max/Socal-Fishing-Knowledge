@@ -65,6 +65,7 @@ terms above; see [Cameron's tackle](../profiles/cameron/tackle.md).
 
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Drop Shot](../techniques/drop-shot.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

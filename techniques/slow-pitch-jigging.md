@@ -92,11 +92,12 @@ terms until it lands.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dropper Loop](dropper-loop.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

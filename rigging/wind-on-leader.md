@@ -66,6 +66,7 @@ and [the strongest braid-to-fluoro wind-on](https://www.youtube.com/watch?v=zkSK
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
-- [Line And Leader](../tackle/line-and-leader.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Striped Marlin](../species/striped-marlin.md)
 <!-- backlinks:end -->

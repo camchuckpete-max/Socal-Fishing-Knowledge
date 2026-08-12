@@ -101,8 +101,9 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - [February–March](../seasonal/february-march.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](../techniques/flyline.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 <!-- backlinks:end -->

@@ -64,6 +64,6 @@ and [three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtu
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
-- [Line And Leader](../tackle/line-and-leader.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 <!-- backlinks:end -->

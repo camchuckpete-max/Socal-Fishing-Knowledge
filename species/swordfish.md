@@ -95,7 +95,7 @@ the *layer and its bait*, not the fish. Requirements before you stop:
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Island Structure](../locations/island-structure.md)
 - [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)

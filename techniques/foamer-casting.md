@@ -100,7 +100,7 @@ tank is a platform choice for that program, not general doctrine — see his
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
 - [Surface Iron](surface-iron.md)

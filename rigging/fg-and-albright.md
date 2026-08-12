@@ -64,7 +64,7 @@ and [the Albright knot](https://www.youtube.com/watch?v=NXtvXkqpT9w).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [Flyline](../techniques/flyline.md)
-- [Line And Leader](../tackle/line-and-leader.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)

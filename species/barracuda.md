@@ -80,7 +80,7 @@ dedicated program.
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flyline](../techniques/flyline.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [June–July](../seasonal/june-july.md)

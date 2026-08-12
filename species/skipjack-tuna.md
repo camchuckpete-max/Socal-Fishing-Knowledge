@@ -75,7 +75,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Cedar Plug](../lures/cedar-plug.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flyline](../techniques/flyline.md)
-- [Gear Classes](../tackle/gear-classes.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
