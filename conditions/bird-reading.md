@@ -32,7 +32,7 @@ underneath?"** Read *behavior*, not just presence.
 
 ## Shearwaters — the gap Cameron's model wants filled
 
-Cameron **doesn't currently factor shearwaters in.** The corpus carries a full
+Cameron **doesn't factor shearwaters in (as of 2026-08).** The corpus carries a full
 shearwater doctrine (7/21/22) — merge it in as the missing piece:
 
 - **Rafted (sitting in a group)** = sitting over deep bait, waiting for the tide.
@@ -91,7 +91,7 @@ shearwater doctrine (7/21/22) — merge it in as the missing piece:
 
 ## Cameron's field notes
 
-- **Observed** (memory, Aug 2026, east of the 9 Mile Bank SD): probable
+- **Observed** (cameron, Aug 2026, east of the 9 Mile Bank SD): probable
   **black-footed albatross** — unusually close to shore.
 
 ## Quick reference

@@ -12,8 +12,9 @@ and kelp edges **at night** during the fall–winter season. Unlike the finfish 
 this KB there is no rod-and-reel technique to route to; the whole game is
 **putting baited hoop nets on the right structure, at night, and being legal** on
 license, gear count, and size. Primary (and single) source is the BD spiny-lobster
-tips video, so this note is **medium confidence** and the regulatory numbers below
-must be re-checked against **current CDFW rules** before every trip — they change.
+tips video, so this note is **medium confidence** and the regulatory numbers
+below (California / CDFW jurisdiction, last checked **as of 2026-08**) must be
+re-checked against **current CDFW rules** before every trip — they change.
 
 ## Where & when
 
@@ -69,7 +70,8 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 
 ## Doctrine & conflicts
 
-- **Regs-awareness is the whole discipline (verify current CDFW rules):**
+- **Regs-awareness is the whole discipline (California / CDFW, as of 2026-08 —
+  verify current rules):**
   - **Two licenses:** a California **fishing license** *plus* a **lobster report
     card** — and the card must be **filled out before you fish** (month, date,
     location code, gear code; gear code **1** for hoop netting), leaving "retained"

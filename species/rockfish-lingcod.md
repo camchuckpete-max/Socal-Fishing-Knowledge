@@ -19,7 +19,8 @@ is a short menu. Primary source is Erik Landesfeind's rockfish tackle Academy
 ## Where & when
 
 - **Season:** open most of the year but the recreational rockfish season
-  **closes year-end** (roughly Jan–Feb depending on the CDFW annual regs and
+  **closes year-end** (roughly Jan–Feb depending on the CDFW annual regs —
+  California jurisdiction, as of 2026-08, verify current — and
   depth constraints — verify current-year dates and depth limits before you go).
   See [Nov–Dec priors](../seasonal/november-december.md).
 - **The lings-shallow window — the

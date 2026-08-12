@@ -1,5 +1,5 @@
 ---
-type: species
+type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
 sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk]
 confidence: high
@@ -86,7 +86,7 @@ school-grade spread does the rest.
     action dies on heavy line, **(3)** lures needing a softer rod to absorb the
     strike, **(4)** line-agnostic lures where the rod just matches the target.
   - Chose **spreader bars over conventional bars** because there isn't room on the
-    panga for conventional bars; first season using them, went to **Half Fish**
+    panga for conventional bars; 2026 is his first season using them, went to **Half Fish**
     for guidance. The Half Fish internal-line spec and the drag rule live in
     [spreader bar](../lures/spreader-bar.md).
   - **Observed** (Cameron, July 2026): trolls on the Talica 25 and Fathom 80
@@ -95,7 +95,7 @@ school-grade spread does the rest.
     school-grade days**; never plans to troll the Lexa 400.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
-  being new (first season), so bar-specific tuning is attributed-experimental
+  being new (2026 is his first season), so bar-specific tuning is attributed-experimental
   rather than settled doctrine.
 
 <!-- backlinks:start -->

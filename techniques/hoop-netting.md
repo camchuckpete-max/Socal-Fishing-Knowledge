@@ -10,7 +10,8 @@ confidence: medium
 The method for [California spiny lobster](../species/california-spiny-lobster.md):
 baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled
 and reset to cover ground. Single-source (BD spiny-lobster tips), so **medium
-confidence** — verify gear counts and legality against current CDFW rules (the
+confidence** — California / CDFW jurisdiction, as of 2026-08: verify gear
+counts and legality against current CDFW rules (the
 species note carries the regulatory detail).
 
 ## Reach for this when

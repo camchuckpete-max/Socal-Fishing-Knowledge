@@ -46,8 +46,8 @@ conventional bars **because there isn't room on the panga for conventional
 bars** — his platform constraint, attributed in
 [Cameron's trolling lures](../profiles/cameron/trolling-lures.md) (three Half
 Fish bars; the March 2026 unit is the newer bent-bar model). He went straight to
-Half Fish for guidance since little is published, and it is his first season on
-bars — so the bar-specific tuning above is attributed-experimental.
+Half Fish for guidance since little is published, and **2026 is his first
+season on bars** — so the bar-specific tuning above is attributed-experimental.
 
 <!-- backlinks:start -->
 ## Linked from

@@ -34,12 +34,12 @@ small bait. It is a great all-around lure for most everything that swims offshor
   will pass through the round end of the swivel. Secure the hook to the swivel
   with a zip tie (a smaller zip tie is better so it does not affect the action),
   then trim it.
-- **Swivel does double duty:** it lets the hook swing in any direction and spin
-  back into position if the lure gets knocked or fouled, and it spaces the hook
-  off the head.
-- **Hook position:** slide the lure down onto the swivel so the bend of the hook
-  sits about even with the end of the skirt — it can ride up inside an inch or so,
-  but keep it close to the back. Too far forward and the skirt fouls the hook
+- **Swivel does double duty:** the hook can pivot freely on every axis — so a
+  knocked or fouled lure swings itself back into position — and the swivel
+  spaces the hook off the head.
+- **Hook position:** slide the lure down onto the swivel until the hook's bend
+  lines up with the skirt's end — riding up to an inch inside the skirt is
+  fine, but keep it near the back. Too far forward and the skirt fouls the hook
   points; kept back in the lighter skirt material, the point comes through cleanly
   and finds the jaw.
 

@@ -83,7 +83,9 @@ auto-generated index.
   ```yaml
   ---
   type: species            # species|technique|lure|rig|tackle|bait|fish-care|
-                           # conditions|seasonal|location|planning|profile
+                           # conditions|seasonal|location|planning|profile|
+                           # decision (species-level decision spin-outs,
+                           # e.g. species/bluefin-trolling.md)
   tags: [bluefin, trolling, offshore]
   sources: [cameron, XLVUhV8DW64]   # NAMED: cameron | <youtube video_id>
   confidence: high         # high|medium|low
@@ -191,6 +193,14 @@ The flaw this fixes: species notes and technique notes can each exist while the
 - **No relative time anywhere.** Use absolute years/dates — never "last year",
   "this season", "next month". A 2021 seminar describing "last year" means 2020;
   write 2020.
+- **Regulatory claims carry jurisdiction + as-of date + a verify-current
+  flag.** Seasons set by law, bag/gear limits, licenses, and size gauges are
+  regulations, not fishery knowledge: name the jurisdiction (e.g. California /
+  CDFW), stamp when the claim was last checked ("as of 2026-08"), and tell the
+  reader to verify current rules before fishing. **Cross-jurisdiction
+  regulation differences are region labels, never doctrine conflicts** — a
+  Baja limit differing from a CDFW limit is two jurisdictions, not a conflict
+  to reconcile.
 - **Region separation.** Every parameter carries its coast/region context.
   Out-of-region technique detail (e.g. East-coast/Gulf Stream numbers) is either
   a **labeled contrast block** or excluded — never sits unlabeled beside SoCal
