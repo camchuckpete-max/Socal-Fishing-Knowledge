@@ -461,5 +461,5 @@ BightSST eval targets: 14 Mile Bank, North + South 9 Mile Bank, Cortes Bank, 302
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Cameron's Spots](../profiles/cameron/spots.md)
 <!-- backlinks:end -->

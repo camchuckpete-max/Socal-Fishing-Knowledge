@@ -14,10 +14,6 @@ respects the boat envelope (range, sea-state, holder geometry). A session that
 fetches only this note plus the folder [README](../README.md) indexes can
 navigate the whole KB.
 
-> **Build status:** this is the navigation spine (step 0). Step 1 enriches each
-> step with direct links to the specific `conditions/`, `seasonal/`, and
-> species router notes as they land.
-
 ## The four steps
 
 1. **Pull conditions.** From [BightSST](https://bightai-api.onrender.com), per
@@ -26,8 +22,14 @@ navigate the whole KB.
    no-auth; expect Render free-tier cold starts of 30–60 s.)
 2. **Apply priors + interpretation layers.** Weight zones and set timing (moon,
    tide windows) using the [seasonal priors](../seasonal/) calendar and the
-   [conditions layers](../conditions/). Age the intel with report-reading &
-   forecasting (advection, coverage bias — added in step 1).
+   [conditions layers](../conditions/) — especially
+   [sea-state](../conditions/sea-state.md), [moon](../conditions/moon.md),
+   [tide & slack](../conditions/tide-and-slack.md),
+   [current-structure](../conditions/current-structure.md), and
+   [water color](../conditions/water-color.md) /
+   [temperature](../conditions/water-temperature.md). Age the intel with
+   [report reading & forecasting](report-reading-and-forecasting.md) (report
+   aging, advection, coverage bias).
 3. **Resolve species + technique.** Enter through the [species routers](../species/):
    each maps the day's situation → ranked technique(s) → gear class.
 4. **Resolve gear + spread** against the active [profile](../profiles/). No
@@ -45,12 +47,33 @@ navigate the whole KB.
 
 ## Supporting notes
 
-Added in step 1: search & glassing, electronics & sounder, and report reading &
-forecasting (all under [planning/](../planning/)).
+- [Search & glassing](search-and-glassing.md) — how to run the day and read sign.
+- [Electronics & sounder](electronics-and-sounder.md) — finding fish on the meter.
+- [Report reading & forecasting](report-reading-and-forecasting.md) — aging
+  reports, advection, coverage bias.
+- [Species routers](../species/) — enter here to map situation → technique → gear.
 
 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [April](../seasonal/april.md)
+- [August](../seasonal/august.md)
+- [Current Diagnostics](../conditions/current-diagnostics.md)
+- [Current Structure](../conditions/current-structure.md)
+- [Electronics and Sounder](electronics-and-sounder.md)
+- [February–March](../seasonal/february-march.md)
+- [June–July](../seasonal/june-july.md)
+- [May](../seasonal/may.md)
+- [Moon](../conditions/moon.md)
+- [November–December](../seasonal/november-december.md)
+- [October](../seasonal/october.md)
+- [Report Reading and Forecasting](report-reading-and-forecasting.md)
+- [Sea State](../conditions/sea-state.md)
+- [Search and Glassing](search-and-glassing.md)
+- [September](../seasonal/september.md)
+- [Tide and Slack](../conditions/tide-and-slack.md)
+- [Water Color](../conditions/water-color.md)
+- [Water Temperature](../conditions/water-temperature.md)
+- [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->
