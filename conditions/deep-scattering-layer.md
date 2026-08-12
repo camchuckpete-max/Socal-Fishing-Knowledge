@@ -21,7 +21,12 @@ worth vocabulary alongside SST, chlorophyll, and current: it is the reason the
   [swordfish](../species/swordfish.md).
 - **Night bluefin** work because the layer (and the bait riding it) lifts into
   reach after dark — the deep sonar-school fish that were unreachable by day come
-  up the column at night. See [bluefin tuna](../species/bluefin-tuna.md).
+  up the column at night. **Mechanism — two reads, kept side by side:** the
+  corpus read is **food-following** (the fish eat because the risen layer is
+  food); Cameron's read is that the night jig bite is **likely a reaction
+  bite** — flagged *likely, not measured*, a working model beside the
+  food-following read, not a replacement. See
+  [bluefin tuna](../species/bluefin-tuna.md).
 
 ## What to look for before you stop
 

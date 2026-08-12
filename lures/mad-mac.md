@@ -47,8 +47,10 @@ castable **Madmacs 130**.
 ## How to run it
 
 The Madmacs 200 is the **13–15 kt** speed-troll answer — the tool for covering
-water and locating fish when the wind is **too light to fly a kite**
-(speed-trolling needs no wind; the kite wants 8–15 kt), and it scales up to
+water and locating fish when the wind is **too light to fly a kite** or the
+fish are **too spread out to sit and kite over** (speed-trolling needs no
+wind; the kite wants 8–15 kt and a concentration worth sitting on), and it
+scales up to
 cow-grade bluefin. Keep the bite-leader connection low-profile
 (crimped 100 lb, no big swivel) so the lure keeps its action. Because of the tow
 load it rides a heavy rod in a **low gunnel holder** (every ~3 ft of tip

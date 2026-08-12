@@ -9,10 +9,13 @@ confidence: high
 
 SoCal/Baja **yellowtail** are a structure-and-bait fish that show three faces:
 **boiling/breezing surface fish**, **paddy yellows** traveling under offshore
-kelp, and **bottom/structure yellows** stacked on pinnacles and high spots. The
-technique follows the face — surface iron up top, yo-yo iron and dropper loops
-on the bottom, slow-pitch on deep high spots, flylined bait when they turn
-picky. Read the water first: yellowtail chase temperature and bait, so *where
+kelp, and **bottom/structure yellows** stacked on pinnacles and high spots.
+**The three faces are outputs of water temperature and bait depth acting on
+one population — states, not fish types** (cameron): the same fish roam the
+column and **feed looking up**. The technique follows the face — surface iron
+up top, yo-yo iron and dropper loops on the bottom, slow-pitch on deep high
+spots, flylined bait when they turn picky — but hold the mapping loosely.
+Read the water first: yellowtail chase temperature and bait, so *where
 they are* moves week to week even when the calendar says otherwise.
 
 ## Where & when
@@ -115,6 +118,11 @@ of water state. Kept side by side with the corpus
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
 | **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers trolling *for yellowtail* yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method" |
 
+**The faces are states, not types (cameron):** because the fish roam the
+column and feed looking up, **no situation above locks you to a single
+presentation** — the rows are starting ranks, not exclusive routes; re-read
+water temp and bait depth before committing the day to one face.
+
 ## Gear summary (class terms)
 
 - **Surface iron:** jig-stick class — a 9–10 ft jig stick throwing
@@ -135,6 +143,10 @@ of water state. Kept side by side with the corpus
   **100–180 g depending on current** are the change-up (D5DR7Kx42_A). Slow-pitch
   is a proven BOLA/Baja high-spot method in the **150–300 ft** band
   (vqsD0qpwcJA / Jtf-bU4aM-c).
+- **Three-outfits switching doctrine (cameron):** rig the surface-iron
+  outfit, the heavy yo-yo/dropper outfit, and the flyline outfit
+  **simultaneously**, and switch as the read (temp + bait depth) changes —
+  the day moves between faces of one population, not between fish types.
 - **Cameron (attributed) vs the corpus year-anniversary prior — kept side by
   side:** Cameron holds that **calendar date doesn't matter for yellowtail —
   water state (temp + bait) does**; the corpus keeps a

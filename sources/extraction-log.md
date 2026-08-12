@@ -461,6 +461,20 @@ manifest; one commit per tier).** Corrections and judgment calls:
   regulatory-claims rule** added to CLAUDE.md and retro-applied
   (spiny-lobster, rockfish-lingcod, hoop-netting — California/CDFW, as of
   2026-08); `decision` added to the type enum and bluefin-trolling re-typed.
+- **A6–A9 amendments (Cameron, 2026-08-12, approved separately after the fix
+  pass merged):** speed-troll trigger widened to **wind OR coverage** (too
+  light to kite, or fish too spread out to sit and kite over) across both
+  bluefin routers + mad-mac, with Cameron's reading of Winnicki's "the
+  conditions" made explicit; **presentation-size axis** added to the
+  bluefin-trolling table (bar = small, Mad Mac = large; forage size can
+  override the sea-state row); **yellowtail router reframed** — the three
+  faces are outputs of water temp + bait depth on one population (states,
+  not fish types; fish roam the column and feed looking up), rows marked
+  starting-ranks-not-exclusive-routes, three-outfits switching doctrine
+  added; **night-bite mechanism** recorded as two reads kept side by side —
+  corpus food-following vs Cameron's reaction-bite read, the latter
+  explicitly flagged *likely, not measured* (bluefin router + DSL layer).
+  All cameron-attributed.
 - **Tooling (X1–X5, T2):** link-maintenance now strips code before link
   parsing (fixture: `tests/link-fixture.md`), validates before writing
   (zero writes on dead links), and raises on reversed markers;

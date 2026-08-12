@@ -38,17 +38,23 @@ chasing a fleeing school), and **do not troll through the fleet's prop wash**
 | Wind / sea | Fish grade & water | Pull this | Gear class | Why / running notes |
 | --- | --- | --- | --- | --- |
 | **8–15 kt**, fishable swell, big fish present | **100–300 lb**, any water | [Kite](../techniques/kite-fishing.md) — flying fish under a kite | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md), 300–400 lb fluoro | *The* most effective big-fish method when the wind will fly a kite; lay the leader flat on the surface to gaff |
-| **Too light to fly a kite (wind under ~8 kt)**, need to locate | Any grade, locating | [Speed-troll](../techniques/speed-trolling.md) a full-size [Mad Mac](../lures/mad-mac.md) 200 | Heavy **troll class** (high tow load) | Speed-troll band **13–15 kt** (Winnicki); researched bluefin sweet spot **9–12, to 14 kt** for a normal spread — two different jobs, reconciled in the [Mad Mac](../lures/mad-mac.md) note; the low-profile crimped connection and J-to-treble swap live in [speed trolling](../techniques/speed-trolling.md) + the lure note |
-| **Light-moderate, calm-ish** | **School grade**, mixed | [Spreader bar](../lures/spreader-bar.md) (out of the elevated shotgun) | **80–100 lb topshot**, drag well under the internal line | The **bar rides out of the water**, so it wants the highest holder; running specs in the [spreader bar](../lures/spreader-bar.md) note |
+| **Too light to kite (under ~8 kt), OR fish too spread out to sit and kite over** — a coverage need, not sea state (cameron) | Any grade, locating | [Speed-troll](../techniques/speed-trolling.md) a full-size [Mad Mac](../lures/mad-mac.md) 200 — **large presentation** | Heavy **troll class** (high tow load) | Speed-troll band **13–15 kt** (Winnicki); researched bluefin sweet spot **9–12, to 14 kt** for a normal spread — two different jobs, reconciled in the [Mad Mac](../lures/mad-mac.md) note; the low-profile crimped connection and J-to-treble swap live in [speed trolling](../techniques/speed-trolling.md) + the lure note |
+| **Light-moderate, calm-ish** | **School grade**, mixed | [Spreader bar](../lures/spreader-bar.md) — **small presentation** (out of the elevated shotgun) | **80–100 lb topshot**, drag well under the internal line | The **bar rides out of the water**, so it wants the highest holder; running specs in the [spreader bar](../lures/spreader-bar.md) note |
 | **Calm, school grade**, want a swimmer | Schoolies–mid, clean-ish | [DTX Minnow](../lures/dtx-minnow.md) 165 or [Husky Magnum](../lures/rapala-husky-magnum.md) diver | **60–100 lb** (swimmer action dies on heavy line) | **Divers want the low gunnel holders**; speeds, depths, and setbacks live in the [DTX](../lures/dtx-minnow.md) and [Husky](../lures/rapala-husky-magnum.md) notes |
 | **Calm, mixed / picky** | Mixed grade over bait | [Cedar plug](../lures/cedar-plug.md) or [Halco](../lures/halco-laser-pro.md) LP190 XDD deep diver | **40–60 lb** | The Halco is the **lightest lure in the box**; cedar speed and the wash-or-way-back positioning rule live in the [cedar plug](../lures/cedar-plug.md) and [Halco](../lures/halco-laser-pro.md) notes |
 
+**Presentation-size axis (cameron):** the spreader bar is the **small**
+presentation, the Mad Mac the **large** — match what the fish are eating, and
+let **forage size override the sea-state row** when they disagree (small
+forage → bar, large forage → Mad Mac).
+
 **Reach for trolling when:** you have fish in a zone but no castable surface
-sign; you need to **cover a 50–60 sq mi search box** efficiently; or the wind is
-**too light to fly a kite** and you still need a big-fish presentation in the
-water. If the wind gives you 8–15 kt and big fish are present, kite; trolling is
-the locate-and-cover play for days the kite won't fly, and the calm-day
-school-grade spread does the rest.
+sign; you need to **cover a 50–60 sq mi search box** efficiently; or the wind
+is **too light to fly a kite — or the fish are too spread out to sit and kite
+over** — and you still need a big-fish presentation in the water. If the wind
+gives you 8–15 kt and the fish are concentrated enough to sit over, kite;
+trolling is the locate-and-cover play for days the kite won't fly (or won't
+stay over fish), and the calm-day school-grade spread does the rest.
 
 ## Gear summary (class terms)
 
@@ -71,8 +77,10 @@ school-grade spread does the rest.
 
 - **Doctrine (high — Nate Winnicki / BD, speed-trolling):** speed-troll a Mad Mac
   (or Rapala X-Rap Magnum Extreme) in the **13–15 kt** band — "great for locating
-  fish and finding bites when you don't have the conditions to put that kite up";
-  keep the bite-leader connection low-profile so it doesn't kill the swim.
+  fish and finding bites when you don't have the conditions to put that kite up"
+  — Cameron reads "the conditions" as **wind AND coverage**: too little wind,
+  or fish too scattered to sit over. Keep the bite-leader connection
+  low-profile so it doesn't kill the swim.
 - **Doctrine (high — kite is king for cows):** anyone who fishes big SoCal
   bluefin will tell you the most effective way to catch **100–300 lb** fish is a
   **flying fish under a kite**; speed-trolling is the tool to find them or to get
