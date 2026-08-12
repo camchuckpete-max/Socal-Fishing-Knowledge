@@ -93,7 +93,7 @@ you see a handful (E4vKwRaRueA).
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Chunking](../techniques/chunking.md)
-- [Dorado And General](../fish-care/dorado-and-general.md)
+- [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

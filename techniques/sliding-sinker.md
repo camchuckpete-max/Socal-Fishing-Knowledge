@@ -78,6 +78,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [California Halibut](../species/california-halibut.md)
 - [Dropper Loop](dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

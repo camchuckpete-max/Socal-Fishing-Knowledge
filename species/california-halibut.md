@@ -114,6 +114,7 @@ breaking the surface is when they go zero-to-100 and throw the hook.
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Island Structure](../locations/island-structure.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

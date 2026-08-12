@@ -170,8 +170,21 @@ HnqiE05vdXs, OHxbPovgvgc, YIABTTYXeqc, n6PTy8g3pb0, um5MAeCjNDg, k4mD2d6C81k).
 | 5yfA5XAaLLY | tackle/reel-maintenance |
 | dMJJbowNb40 | topic covered by rigging/essential-knots (uni-to-uni knot demo); Gold Label preference covered from stronger sources |
 
-All other `_manifest.csv` video_ids are **pending step 6** (bait; fish-care).
-The finish step verifies every id is accounted for.
+**Step 6 (bait + fish-care) — consumed:**
+
+| video_id | note(s) |
+| --- | --- |
+| 1QWstxUibDA | bait/bait-tanks (East vs West tank design) |
+| T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0 | bait/fishing-live-bait (live-bait tip videos; also techniques/flyline, step 3) |
+| lxFNVdDhMy4 | bait/fishing-live-bait (also species/yellowfin-tuna, skipjack-tuna, step 2) |
+| JeexIvtUkZc, w6DDCSLu8vM | fish-care/tuna-care (gill-gut + gaffing) |
+| WzT0RSHpaQc | fish-care/ikejime |
+| E4vKwRaRueA | fish-care/dorado-and-general (also step 1 search-and-glassing, step 3 chunking) |
+
+Content notes are complete after step 6. **Remaining unmapped video_ids** (weekly
+sportboat roundups, gear roundups, and pure filler) are reconciled at the finish
+step (mostly `skipped: thin sportboat roundup — superseded by the dated Bight
+reports` or `skipped: generic filler / out-of-region`).
 <!-- log:transcripts:end -->
 
 ## memory-export.md section → destinations

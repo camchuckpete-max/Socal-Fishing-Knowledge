@@ -91,6 +91,7 @@ the bluefin nearby become more cooperative too.**
 - [Bird Reading](../conditions/bird-reading.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

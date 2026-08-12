@@ -74,6 +74,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
