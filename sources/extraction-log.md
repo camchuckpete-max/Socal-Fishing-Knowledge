@@ -258,3 +258,107 @@ dedicated note — candidate destination planning/search-and-glassing or a futur
   caution.
 - Fixed a stale exclusion in `link-maintenance.py` (`spot-lists-PRIVATE-ONLY.md`
   → `spot-lists.md`) so the renamed raw spot file is treated as a raw input.
+
+## Finish reconciliation — full 128 accounting
+
+The 17 video_ids not consumed as a primary source in steps 1–6, accounted for
+here (no silent drops):
+
+| video_id | title | disposition |
+| --- | --- | --- |
+| aBnpfNKAN_g | Tackle & gear storage bags | `skipped: generic filler` (not SoCal-specific) |
+| VK2By1vTKBc | Clothing options for sportboats | `skipped: generic filler` |
+| Dixn41OzeSE | What to bring offshore | `skipped: generic filler` |
+| gC7dxSmiip8 | SD sportboat roundup 1/27/22 | `skipped: thin weekly roundup` — current intel superseded by the 17 dated Bight reports; pattern layer lives in `seasonal/` |
+| 9emFjXt89N4 | SD sportboat roundup 2/3/22 | `skipped: thin weekly roundup` |
+| NeYxQT-w42o | SD sportboat roundup 2/10/22 | `skipped: thin weekly roundup` |
+| UDkKa2PU_4c | SD sportboat roundup 3/3/22 | `skipped: thin weekly roundup` |
+| _a1e7-7Mbjw | SD fishing tips roundup 5/19/22 | `skipped: thin weekly roundup` |
+| F1omCfmMsCU | SD report & tackle tips 5/26/22 | `skipped: thin weekly roundup` |
+| nTLweGNuHKw | SD report & tips 6/17/22 | `skipped: thin weekly roundup` |
+| _9um-TZOUgE | Tackle tips roundup 11/10/22 | `covered`: uni-knot/tackle content captured in `rigging/essential-knots` + `tackle/` |
+| tyG2wBr0m8Q | Bluefin gear roundup 12/02/22 | `covered`: captured in `species/bluefin-tuna`, `bluefin-trolling`, `tackle/line-and-leader` |
+| KVdnRJYq4jU | SoCal bays fall tips | `covered`: captured in `species/spotted-bay-bass` + `locations/bays-and-harbors` |
+| 3tur7-VCM2g | Academy Ep8 — structure setup | `covered`: structure-setup doctrine captured via Ep5/Ep14 in `locations/bass-structure`, `species/calico-bass`, `sand-bass` |
+| -eaaWPN5Fxk | Academy Ep7 — calico/sand tackle | `covered`: bass tackle captured in `species/calico-bass`, `sand-bass`, `tackle/gear-classes`, `lures/soft-plastic-swimbaits` |
+| gH8JWhlqYqw | Academy Ep4 — spotty tackle | `covered`: captured via Ep3 in `species/spotted-bay-bass` + `lures/bay-bass-plastics` |
+| 3txdqaQdBd4 | How Do You Gulp — Lenny Rudow | `covered`: gulp/plastic doctrine captured via `AqW_Z9pFcHU` in `species/rockfish-lingcod` |
+
+Plus the two out-of-region skips logged at the top (`j2NhAD2An4s` FL king
+mackerel, `gBAu56Uw8Fk` East Florida). **All 128 `_manifest.csv` video_ids are
+now accounted** — a destination, `covered`, or an explicit `skipped: <reason>`.
+
+## Coverage summary
+
+- **128** transcripts, **all** accounted (destinations, `covered`, or `skipped`).
+- **~110 knowledge notes** across conditions (11), seasonal (9), species (18
+  routers + 1 decision spin-out), techniques (18 incl. deep-drop-swordfishing +
+  hoop-netting), lures (12), rigging (12), tackle (5), bait (3), fish-care (3),
+  locations (7), planning (4). Plus Cameron's profile (5 + README), the
+  `_template` profile, and the boat-day skill scaffold + generator.
+- **All 11 memory-export sections** mapped (multi-destination — see the memory
+  table).
+- `link-maintenance.py`: **0 dead links**, idempotent, Mermaid cap 30.
+- `build-skill-resources.py`: works with `profiles/cameron`, `--no-profile`, and
+  `profiles/_template` (56 notes bundled each).
+- **Species acceptance test: 18/18 pass** (each router answers where / when /
+  how-to-find incl. a sonar-depth signature / technique-per-situation / gear class).
+
+## Judgment calls (for Cameron's review)
+
+**Structure / scoping**
+- `profiles/cameron/spots.md` curates home-water anchors + BightSST eval targets
+  with coords and **links the full 391-waypoint library** in
+  `sources/spot-lists.md` rather than duplicating 391 lines across two files.
+- Ocean whitefish gets **its own note** (tilefish relative), not folded into
+  rockfish-lingcod (per amendment A3).
+- **Two technique notes created per rule C2** (router never absorbs execution):
+  `deep-drop-swordfishing`, `hoop-netting`.
+- Weekly SD sportboat roundups **skipped as thin** (7-day-cutoff current intel;
+  the pattern layer is the 17 dated Bight reports in `seasonal/`).
+
+**Correction to an amendment's premise**
+- The "byte-identical duplicate" claim for `vqsD0qpwcJA` / `Jtf-bU4aM-c` **does
+  not hold** — verified distinct (titles, upload dates 2022-04-06 vs 2022-06-27,
+  md5s, bodies). Both extracted separately; topic overlap noted. (One step-3/step-4
+  subagent repeated the "identical" claim in its report — not carried into any
+  note.)
+
+**Conflicts kept side by side, attributed (never reconciled)**
+- Yellowtail **water-state-over-calendar** (cameron) vs the **year-anniversary
+  prior** (corpus, bluefin) — in `species/yellowtail.md` + `seasonal/year-anniversary-prior.md`.
+- **Parallel current** prior vs the **into-the-island late-fall/off-color**
+  exception (both Landesfeind) — in `conditions/current-structure.md`, `seasonal/november-december.md`.
+- Moon **leading-days-strongest** vs **7-days-before-and-after** — in `conditions/moon.md`.
+
+**Thin / low-confidence areas**
+- **Mako, thresher:** absent from both inputs — recorded as a thin area, not
+  skipped (no source to skip).
+- **Pacific crevalle jack (toro):** zero corpus mentions — built from general
+  SoCal/Baja knowledge + Cameron's interest; `confidence: low`, sonar read marked
+  inferred.
+- **Barracuda, bonito:** report-bycatch mentions only — `confidence: medium`,
+  technique tables inferred.
+- **Chunking mechanics:** the mapped dorado video doesn't detail chunking; note
+  kept lean at `confidence: medium`, mechanics from proposal §4.5/§6.7.
+- **Fish-care §9 numbers** (slurry/chill) have no video_id in the corpus —
+  attributed in prose to the seminar/report context, not in front matter.
+
+**Deferred (flagged, not dropped)**
+- Memory §2 **fleet-intelligence practices** (AIS sportboat tracking, Everingham
+  bait boats, VHF ch72) have no dedicated note yet — candidate:
+  `planning/fleet-intelligence.md` or a section in `planning/search-and-glassing.md`.
+- **Lobster regs** stated from a 2019 source — flagged in-note to verify with
+  current CDFW rules.
+
+**Caption-garble corrections (flagged)**
+- `leadhead-mods` (F-vOTerdulU): caption "8 oz → 1 oz" rendered as the plausible
+  1/8–1 oz; `rubber-band-deep-rig` (sYrsPGXiYhI): concept only, no shaky numbers.
+
+**Cameron open items preserved (attributed, not doctrine)**
+- SPJ/speed-jig setup shopping; 10 ft jig-stick yellowtail reps; kite (no helium/
+  no tank room) + foamer (no-bait run-and-gun) constraints; dedicated sabiki-rod
+  build; cast net for Mexico; striped-marlin deployment-trigger learning; toro
+  target; drill-powered retrieve; Fathom 80 respool-to-bulk-spool; Yo-Zuri Hydro
+  Minnow "LC 205" size to verify; dad's unidentified skirt bag; Tranx braid
+  pending respool.
