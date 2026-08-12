@@ -2,7 +2,7 @@
 type: seasonal
 tags: [spring, bluefin, yellowtail, paddies, flying-fish, size-class, run-and-gun]
 sources: [S2L3KLSQ6Is]
-confidence: high
+confidence: medium
 ---
 
 # May

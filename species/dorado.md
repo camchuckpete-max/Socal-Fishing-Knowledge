@@ -58,7 +58,7 @@ you see a handful (E4vKwRaRueA).
 | --- | --- | --- | --- |
 | Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** — dorado charge the boat feeding straight ahead and won't set on a circle; **match hook to bait** (1/0 live-bait, up to 2/0–3/0 on donkey sardines) |
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; throw a Mad Scad from the tower to confirm fish before committing |
-| **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (E4vKwRaRueA); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo) |
+| **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (E4vKwRaRueA); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
 | **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | They can be as finicky as any fish; smaller hook so the bait swims right; don't drop below ~15 lb or you get bit off |
 
 ## Gear summary (class terms)
@@ -80,9 +80,11 @@ you see a handful (E4vKwRaRueA).
   dorado because of the charge-and-feed-straight behavior; match hook to bait and
   step the leader down for a picky bite. The green/blue temperature boundary
   (~71–72 °F) is the concentration edge.
-- **Doctrine (high — VgpgJ8IAyJo):** a pink-accented Mad Scad class troll/cast
-  lure is the universal dorado tester and producer; "if there's open-water fish
-  around, more often than not they'll eat it."
+- **Promo claim (low — VgpgJ8IAyJo, a Nomad brand feature; sponsored claims cap
+  at low):** a pink-accented Mad Scad class troll/cast lure is the universal
+  dorado tester and producer; "if there's open-water fish around, more often
+  than not they'll eat it." Pink/silver troll doctrine itself is corroborated
+  by E4vKwRaRueA above.
 - **Cameron (attributed) — the boundary, not the interior:** in warm-water years
   Cameron weights **chlorophyll / water color at least as heavily as SST** and
   **won't fish dirty green water for gamefish**. Consistent with the dorado read:

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [mad-mac, nomad, bluefin, trolling, speed-trolling, offshore]
-sources: [cameron, VgpgJ8IAyJo]
+sources: [cameron]
 confidence: high
 ---
 

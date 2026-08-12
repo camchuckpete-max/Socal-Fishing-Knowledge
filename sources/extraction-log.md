@@ -45,8 +45,8 @@ _Filled incrementally per step. Format: `video_id — note(s) | skipped: reason`
 | Z3rZqy2Pi8E | conditions/sea-state; seasonal/november-december |
 | HzE4FHHcvTk | conditions/sea-state, tide-and-slack, kelp-paddies, bird-reading; seasonal/august; locations/bight-geography; planning/report-reading-and-forecasting |
 | XLVUhV8DW64 | conditions/moon, water-temperature; seasonal/october, year-anniversary-prior; planning/report-reading-and-forecasting |
-| -JZpyWLdKlk | conditions/moon, kelp-paddies; seasonal/august |
-| HnqiE05vdXs | conditions/moon, current-diagnostics, current-structure; seasonal/august; locations/island-structure |
+| -JZpyWLdKlk | conditions/moon, kelp-paddies; seasonal/june-july; species/white-seabass |
+| HnqiE05vdXs | conditions/moon, current-diagnostics, current-structure; seasonal/august; locations/island-structure; techniques/yo-yo-iron |
 | 5D1vx29LVpI | conditions/moon; seasonal/november-december |
 | LEiyB9QNzHY | conditions/moon |
 | 6TBxHnkYXI0 | conditions/tide-and-slack, current-diagnostics, water-color; locations/island-structure; planning/search-and-glassing |
@@ -65,10 +65,10 @@ _Filled incrementally per step. Format: `video_id — note(s) | skipped: reason`
 | YZtX1MiT0y8 | seasonal/april; species/yellowtail; techniques/surface-iron (P1/P2 squid-zone + lone color datum — added at GATE B punch list) |
 | YgqXf9iICyg | locations/bays-and-harbors |
 | kwMIgkCtFUE | locations/bass-structure |
-| bydQzE3F9yM | locations/breakwalls-jetties-riprap; conditions/bird-reading |
+| bydQzE3F9yM | locations/breakwalls-jetties-riprap (incl. birds-at-structure; bird doctrine stays linked, not duplicated) |
 | jTXIr9O6zYk | locations/breakwalls-jetties-riprap |
 | E4vKwRaRueA | planning/search-and-glassing (glassing); (dorado species pending step 2) |
-| 4xzK7YaXK5s | conditions/kelp-paddies |
+| 4xzK7YaXK5s | conditions/kelp-paddies (paddy freshness / night restock); bait/bait-tanks (round-vs-square doctrine) |
 | 11npFUPOJKU | planning/electronics-and-sounder |
 
 **Step 2 (species routers) — consumed (species videos; dated reports re-mined
@@ -139,7 +139,7 @@ execution).
 
 | video_id | note(s) |
 | --- | --- |
-| VgpgJ8IAyJo | lures/mad-mac, dtx-minnow, tuna-feathers-and-skirts |
+| VgpgJ8IAyJo | lures/tuna-poppers-and-stickbaits (Riptide 105 / Mad Scad, promo-flagged); species/dorado (promo-flagged) |
 | AJMjWDKsdRg, j1YZ_9IMUVY | lures/tuna-poppers-and-stickbaits |
 | _KE9InIHx8M, zkSKgP2bq10 | rigging/wind-on-leader |
 | CIMTyepgonk, NXtvXkqpT9w | rigging/fg-and-albright |
@@ -197,7 +197,7 @@ that lands in a later step.
 
 | § | destinations (step 1 landed unless marked) |
 | --- | --- |
-| §1 Angler profile & programs | profiles/cameron/README, boat, rods, spots (context); seeds species interests — species/swordfish (open item), yellowtail BOLA (→ step 2) |
+| §1 Angler profile & programs | profiles/cameron/README, boat, rods, spots (context); seeds species interests — species/swordfish (open item), yellowtail BOLA (→ step 2), species/pacific-crevalle-jack (toro open item), techniques/yo-yo-iron (BOLA yo-yo program) |
 | §2 Personal doctrine & observations | conditions/tide-and-slack (slack/bait-rise), water-color (chlorophyll≥SST doctrine), sea-state (SD Bay swell 160–186°), upwelling-and-turnover (turnover model); profiles/cameron/boat (Garmin 840xs, data capture). **Deferred:** fleet-intelligence practices (AIS sportboat tracking, Everingham bait boats, VHF ch72) — see thin-areas below |
 | §3 Bird-reading model | conditions/bird-reading (merged, attributed) |
 | §4 Bait operation | profiles/cameron/boat (30-gal tank); bait/making-bait, bait-tanks (→ step 6); sabiki setup (→ step 6) |

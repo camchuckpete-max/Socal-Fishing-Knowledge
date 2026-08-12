@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [tuna-feather, skirt, williamson, jaw-lures, tuna, trolling, offshore]
-sources: [cameron, CWVPLM6NheY, VgpgJ8IAyJo]
+sources: [cameron, CWVPLM6NheY]
 confidence: medium
 ---
 

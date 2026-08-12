@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [dtx-minnow, nomad, tuna, trolling, swimmer, offshore]
-sources: [cameron, VgpgJ8IAyJo]
+sources: [cameron]
 confidence: medium
 ---
 

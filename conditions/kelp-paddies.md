@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, cameron]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, cameron]
 confidence: high
 ---
 
@@ -46,8 +46,8 @@ Weight your paddy program toward that southern water when you have the range.
 ## Paddy freshness — check fast, then move
 
 Fish move paddy-to-paddy **only at night**; during the day the population on a
-given paddy is fixed. Therefore **a dry paddy stays dry all day** ("5 Tips"
-short). Do not sit on a barren paddy hoping it turns on — it won't until dark.
+given paddy is fixed. Therefore **a dry paddy stays dry all day** ("5 Tips",
+4xzK7YaXK5s). Do not sit on a barren paddy hoping it turns on — it won't until dark.
 
 The discipline:
 

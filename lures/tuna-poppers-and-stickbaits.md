@@ -19,6 +19,8 @@ how the plugs are fished is [foamer casting](../techniques/foamer-casting.md).
 ## The class / models
 
 ### Yo-Zuri Mag Popper
+**Marketing flag:** this model writeup is from a Yo-Zuri promo feature
+(AJMjWDKsdRg) — treat model claims as **low** until proven in the fleet.
 Chugging popper for tuna and other surface pelagics; cupped face throws a big
 spit-and-splash on a hard sweep, then pauses. Cast into the foam, pop it to make
 noise/splash, and expect the eat on the pause. Wire-through-body construction;
@@ -27,8 +29,9 @@ run heavy split rings and strong trebles or convert to singles for big fish.
 ### Yo-Zuri Mag Darter
 Sinking/slow-sinking **stickbait-darter**: a minnow body that swims with a tight
 wobble on a steady wind and darts on twitches — a subtler, bait-matching profile
-than a chugging popper when fish are keyed on smaller bait. Casts a mile for its
-size. Wire-through; upgrade rings/hooks for tuna grade.
+than a chugging popper when fish are keyed on smaller bait. "Casts a mile for
+its size" is the ad copy (**marketing flag** — promo source j1YZ_9IMUVY, low).
+Wire-through; upgrade rings/hooks for tuna grade.
 
 ### Clear Choice Ghost Popper 150
 **150 mm / 2.1 oz** clear **wire-through** popper — a SoCal bluefin standard.

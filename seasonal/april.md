@@ -2,7 +2,7 @@
 type: seasonal
 tags: [spring, bluefin, yellowtail, wind-rollover, squid, coronados]
 sources: [YZtX1MiT0y8]
-confidence: high
+confidence: medium
 ---
 
 # April

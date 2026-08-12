@@ -19,9 +19,10 @@ A stale report is not today's water.
 
 **Santa Ana events flatten the NW outer islands and open Rosa / Miguel**
 (10/20, 11/23/22). A Santa Ana is the trigger to run Santa Rosa / San Miguel for
-shallow rockfish and lings — the one wind that lays that water down. He wants
-2+ consecutive days of no-wind or Santa Anas before committing to a
-Rosa/Miguel crossing. See [sea state](../conditions/sea-state.md) and
+shallow rockfish and lings — the one wind that lays that water down. The
+report speaker's go/no-go rule (11/23/22 Bight report, Z3rZqy2Pi8E): **2+
+consecutive days of no-wind or Santa Anas** before committing to a Rosa/Miguel
+crossing. See [sea state](../conditions/sea-state.md) and
 [island structure](../locations/island-structure.md).
 
 ## Lings shallow — the target window
@@ -68,11 +69,15 @@ into-the-island current at SCI.
 
 ## Sharp offshore edges — deep, sonar-dependent fish
 
-**Sharp offshore edges reappear: 63 → 61.5 °F in ~1 mi, 8 mi off San Clemente
-Island**, with sign on the edge but the **fish deep and sonar-dependent**
-(11/23/22). Find the hard edge on the [temp chart](../conditions/water-temperature.md),
-then work it on the meter — the fish won't be on the surface. See
+Late fall can rebuild **sharp offshore temperature edges** with the fish deep
+on them. Find the hard edge on the
+[temp chart](../conditions/water-temperature.md), then work it on the meter —
+the fish won't be on the surface. See
 [electronics](../planning/electronics-and-sounder.md).
+
+- **Observed** (Z3rZqy2Pi8E report, 11/23/22, 8 mi off San Clemente Island):
+  a **63 → 61.5 °F edge in ~1 mi**, sign on the edge but the fish **deep and
+  sonar-dependent**.
 
 
 <!-- backlinks:start -->
