@@ -30,7 +30,10 @@ castable **Madmacs 130**.
 - **Running depth:** 8–15 ft slow, 4 ft fast.
 - **Setback:** 100–150 yd for bluefin.
 - **Leader / top-shot:** 100 lb wind-on, **crimped, no swivel** (low-profile
-  connection — a bulky snap swivel kills the swim).
+  connection — a bulky snap swivel kills the swim). **Buffer the crimp at the
+  lure ring** — split ring, or a crimp sleeve / chafe protector in the loop —
+  vibration at speed breaks bare crimps; see
+  [speed trolling](../techniques/speed-trolling.md).
 - **Hooks:** running trebles (owned examples vary — one rigged single belly +
   treble tail).
 

@@ -47,6 +47,11 @@ in **Linked from**.
   hold the zone; a jig that sinks fast but stays horizontal in current keeps you
   in the strike zone. A lighter (~220 g) fluttery jig works the upper column when
   fish are 150–200 ft down.
+- **The "Eddie bomb" (nRFFM8DT-og):** the bluntest tool in the same night
+  lineup — a **wire-through 16 oz sinker with a treble hook on the bottom** and
+  a bite leader. Multiple **200 lb night bluefin** have come on a straight-up
+  sinker; it is the heaviest, cheapest, fastest-sinking option for deep marks
+  in hard current.
 
 ## Gear-class detail
 

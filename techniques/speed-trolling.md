@@ -33,9 +33,19 @@ live in the router: [bluefin trolling](../species/bluefin-trolling.md).
 
 ## Rigging that survives the speed
 
-- Run a **heavy bite leader** (200 lb) to a **low-profile connection** — a plain
-  low-profile swivel, no bulky snap — so nothing kills the lure's action at
+- Run a **heavy bite leader** (200 lb) **no more than about 3–4 ft long** — any
+  longer and the swivel stops at the rod tip before the fish is in gaff range.
+  Keep the connection **low-profile** — a plain low-profile swivel, no bulky
+  snap (Winnicki; Cameron's Mad Mac spec runs crimped with **no** swivel — an
+  attributed variant, both low-profile) — so nothing kills the lure's action at
   speed. Terminal detail is in the [Mad Mac](../lures/mad-mac.md) note.
+- **Buffer the crimp at the lure ring.** These lures rattle so hard at 13–15 kt
+  that bare crimps are known to **break from the vibration**: connect through
+  the lure's **split ring**, or on a lure without one add a **crimp sleeve /
+  chafe protector** in the loop before crimping.
+- **Crimp discipline:** **three crimps** per connection, seated **snug but not
+  crushed** (over-crimping weakens the leader); use **stainless crimps on
+  mono/fluoro** — brass is for wire.
 - Tie the leader to straight **braid** (130 lb) for the main line: the thin braid
   cuts the water, telegraphs the strike and any snag in the rod tip, and keeps
   slack out of the system when you come tight.

@@ -35,9 +35,19 @@ here are **SoCal**; see the East-coast contrast at the end.
 - **Lead:** breakaway **7–10.5 lb matched to the drift** — heavier when the
   drift is faster — on a light stick / rubber-band breakaway so it drops on the
   bite.
-- **Leader:** heavy [bite-leader class](../rigging/bite-leaders.md) (200 lb+),
-  run a **short leader** (swivel close to the rod tip so the fish is in gaff
-  range at the swivel).
+- **Hook:** a **14/0 offset circle hook, very heavy-duty forged**, with a big
+  barb. Rig it **sewn so the hook exits the top of the squid's mantle** — the
+  fish swims up against the weight and the circle finds the corner of the mouth
+  (Duane Diego Mellor, sword seminar).
+- **Line & leader build (Duane):** **80 lb braid** main line to a **25 ft
+  200 lb wind-on**, then a **10–15 ft leader of 200 lb at the least, 300 at the
+  most** — still a **short-leader system** overall (swivel close in so the fish
+  is in gaff range at the swivel); heavy
+  [bite-leader class](../rigging/bite-leaders.md).
+- **Light:** a single **LP-class clip-on light 10–15 ft from the bait** —
+  green/blue is the SoCal standard, switching to **white early and late in the
+  day** ("the brighter the better" runs through the SoCal fleet). Fishing with
+  no light is a rigging failure, not a variant.
 - **Bait:** dead squid, mackerel, or mullet-class, rigged to swim/track on the
   drop.
 
@@ -47,6 +57,22 @@ here are **SoCal**; see the East-coast contrast at the end.
   (buoy-gear logic; Duane Diego Mellor / Rush Maltz). Resist grabbing the rod on
   the first taps.
 - The breakaway lead drops on the hookset so you fight the fish clean.
+
+## Drag & the endgame (SoCal)
+
+- **Drag — two attributed doctrines, kept side by side** (same seminar):
+  - **Duane Diego Mellor:** fight at **~10 lb of pulling drag at the most** —
+    sword mouths are **very soft and rip easily**. Start a touch heavier so the
+    circle buries on the hookup, then **back off two or three clicks** right
+    away.
+  - **Rush Maltz:** runs **18–20 lb at strike**.
+- **Boat stays in gear** through the endgame — a slowly moving boat keeps the
+  fish tracking ("they almost go into a trance"); at a standstill nearly every
+  fish darts under the boat and the motors.
+- **Leadering: no-wrap, finger-pull only** — never wrap and pull hard against a
+  soft mouth ("once you take that weight off at 30 ft, stuff gets weird").
+- **Finish with the harpoon/flyer to the gill plate** — the kill shot goes in
+  the gill plate, not the body.
 
 ## Common failures
 
