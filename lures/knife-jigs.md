@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY]
 confidence: high
 ---
 
@@ -57,6 +57,16 @@ behavior**:
     same rod as the yo-yo setup works for this, though slow-pitch-specific
     rods are called out as an increasingly common alternative on the West
     Coast.
+- **Additional weight/brand data points (Ray Sharifi, Dirty Hookers,
+  jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence):** a
+  favorite **Shimano flat-fall/butterfly jig at 200 g** (comes pre-rigged
+  with assist hooks), sized down to **120–160 g** when fish want something
+  smaller, or up to **300 g+** to punch down faster or size up. Also fishes
+  a **Nomad** jig of the same flutter-down profile, and knife jigs from
+  **Mustad (240 g)** and a second, unnamed maker (asr-uncertain — the brand
+  name was spoken but not confidently reconstructable; ~200 g, run with the
+  assist configuration below). General rigging guidance given alongside
+  these: don't over-hook a jig — too many assists kills its action.
 - **Assist-hook rigging class — US waters cap you at two hooks.** Slow-pitch:
   single assist on the nose **and** a single on the tail (an assist *pair* on the
   front alone already puts you at the limit). Night knife/speed for bluefin: a
@@ -74,6 +84,19 @@ behavior**:
   built for slow-pitch — don't grab a slow-pitch assist off the rack for a speed
   jig. Not reconciled with the single-bottom-pair-no-top-hook doctrine above —
   both are fished in the fleet; see [knife jigging](../techniques/knife-jigging.md).
+  - **Fourth attributed configuration, kept side by side (Ray Sharifi,
+    Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
+    confidence):** the **second, unnamed ~200 g knife jig** logged above
+    (asr-uncertain maker) — not the 240 g Mustad, which the source describes
+    and moves past before giving this rigging detail — run with **assist
+    hooks up top (plural in the source; exact count not confirmable) plus
+    one assist hook on the bottom** on a **130 lb** fluorocarbon option
+    leader — a top+bottom pairing again in tension with the
+    single-bottom-pair-no-top-hook
+    doctrine above, distinct from the double-top/single-bottom and
+    double-top/single-bottom-plus-extra configurations already logged. Not
+    reconciled with any of the above — flagged as a live conflict on hook
+    count/placement, not a region difference (this trip fished US waters).
   - **Third attributed configuration, kept side by side (Ray Sharifi,
     -MP2RqJC7B0, 2023-05-23, SoCal 1.5-day trip; unregistered channel — medium
     confidence):** a **double 6/0 assist pair on top** + a **single 6/0 assist

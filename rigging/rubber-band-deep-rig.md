@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, live-bait, deep, breakaway-sinker]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY]
 confidence: medium
 ---
 
@@ -70,6 +70,33 @@ on a clean flyline connection.
   to bring a big fish up. Only 2 of the day's bites came on the sinker rig
   that trip, vs. ~90% on flyline — a minority presentation, not the primary
   one.
+
+## Earliest instance — rod/reel pairing and season line-class note
+
+**Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel —
+medium confidence; predates the two sinker-rig citations above.** Names the
+technique the **"rubber band rig,"** for the same reason given above — the
+rubber band, not a knot, joins the sinker to the line above the leader
+connection knot, so the sinker rides free above the knot and can't slide
+past it onto the leader.
+
+- **Line:** **50 lb minimum**. Some 2021-season bites came on **80 lb** but
+  weren't connected; every 2021-season sinker-rig fish he landed that year
+  was caught on 50 lb.
+- **Sinker:** a **torpedo weight**, most-effective size **5 oz**, with
+  **4 oz** doing a little better some days and up to **6 oz** when fish are
+  deeper or there's more current — in range with the 4–6 oz / 5 oz-sweet-spot
+  figures logged above.
+- **Fish range on the rig:** 40–150 lb.
+- **Hook:** circle hook, 1/0 or 2/0.
+- **Rod/reel pairing (new detail, not in the sources above):** a **Daiwa
+  Saltist 50 lever-drag** reel (captions render "Soltus" — corrected here)
+  on a **Phoenix Axis rod, 7'8", rated
+  40–100 lb** — a heavy, stout, not-too-long rod for the extra leverage
+  needed if a bigger fish (up to the 150 lb top of the range) is hooked.
+  Reasoning given for reaching for this rig: it gets a live bait down into a
+  deep zone when the fish are marking deep with little surface boiling, but
+  the captain is still calling fish on the sounder.
 
 ## Leader, knots, and the tie-on sequence (a fourth source, full build)
 

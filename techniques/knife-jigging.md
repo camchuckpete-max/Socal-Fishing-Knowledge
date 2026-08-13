@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY]
 confidence: high
 ---
 
@@ -193,6 +193,16 @@ in **Linked from**.
       (6–8 ft here vs 10 ft in September) and the source frames the mono/crimp
       combination as the preferred build when the mono is available, with
       straight fluoro as the substitute, not the primary plan.
+- **Night 100 lb setup, earliest documented instance of the Talica 25 /
+  Black Diamond Hybrid combo (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY,
+  2022-05-02; unregistered channel — medium confidence; predates the 2023
+  citations elsewhere in this note that reuse the same combo):** a **Shimano
+  Talica 25** (captions render "Italica" — corrected here) paired with a
+  **Phoenix Black Diamond Hybrid, 7 ft, rated 60–120 lb**, spooled with
+  **100 lb braid**. Run either a top shot, or straight to pre-rigged jigs on
+  **100 lb or 200 lb fluorocarbon**, tied to a swivel with the jig clipped
+  on. Framed for the **night bite specifically on a two-day trip**, 100 lb
+  fish-class tackle.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender profiles.
 - **Yellowtail speed/vertical-jigging starter setup, explicitly secondhand
   and self-described as untested (Ray Sharifi, Dirty Hookers, LTCFjqtSI8g,

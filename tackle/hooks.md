@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY]
 confidence: medium
 ---
 
@@ -101,6 +101,19 @@ m2q22sPPkEM):
 For a first bluefin trip: **1/0 or 2/0 circle hooks, not J hooks** — you want the
 hook set in the corner of the mouth (EyB98RuKfeQ), paired with a short fluoro
 leader (see [line & leader](line-and-leader.md)).
+
+### Owner Mutu circle hooks, sized by grade (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence)
+
+Names the brand behind a circle-hook-by-grade rule for flylined tuna: **Owner
+Mutu circle hooks**, sized to the line/grade pairing rather than one fixed
+size — **size 4** on the lighter (20–50 lb grade) flyline outfit, stepping up
+to **size 1/0, or up to 2/0**, on the heavier outfit for bigger fish. The
+source states that all of his tuna (yellowfin, bluefin, skipjack) over the
+prior year (2021) were caught on Owner Mutu circle hooks. This size-4 /
+1/0–2/0 split sits in range with the size-4 (gevNj2Y1Ep8) and 1/0–2/0
+(EyB98RuKfeQ) circle-hook figures already logged above from other sources —
+kept as a separate attributed data point rather than merged, since neither of
+those sources names a brand.
 
 ### Live squid for white seabass (m2q22sPPkEM)
 

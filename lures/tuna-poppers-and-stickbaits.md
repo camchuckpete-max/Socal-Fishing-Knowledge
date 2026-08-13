@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY]
 confidence: high
 ---
 
@@ -35,6 +35,17 @@ wobble on a steady wind and darts on twitches — a subtler, bait-matching profi
 than a chugging popper when fish are keyed on smaller bait. "Casts a mile for
 its size" is the ad copy (**marketing flag** — promo source j1YZ_9IMUVY, low).
 Wire-through; upgrade rings/hooks for tuna grade.
+
+### Feed Popper
+Chugging popper family in **120 mm** and **150 mm** sizes (Ray Sharifi, Dirty
+Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence).
+Popular enough that the bigger clear/near-clear 150 has repeatedly sold out.
+**Color read:** an **all-clear** finish noticeably out-fishes a
+pearl-white/near-clear finish in the same size — for reasons the source
+can't explain, with multiple reports of days where nothing else got bit but
+an all-clear Feed Popper did. Produced yellowfin (not yet bluefin, as of
+this video) for the source. Cast on a spinning ("open-face") reel — see
+casting gear below.
 
 ### Clear Choice Ghost Popper 150
 **150 mm / 2.1 oz** clear **wire-through** popper — a SoCal bluefin standard.
@@ -105,6 +116,46 @@ conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
 2022-02-17; unregistered channel — medium confidence). No retrieve mechanics
 beyond "cast at the boil" are given in this source; treat as a visual,
 high-action alternative to iron, not a documented distinct cadence.
+
+**Also fished as a "burn bait" for tuna, not just yellowtail (Ray Sharifi,
+Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
+confidence):** the same no-bill Colt Sniper stickbait and lipped Colt Sniper
+jerkbait, plus **Yo-Zuri jerkbaits**, cross over to yellowfin/bluefin — cast
+and burn it straight in, or cast and skip it across the surface, whichever
+the fish key on that trip; both floating plugs fish the same way. The stock
+trebles on these are described as thin and prone to bending out on a bigger
+fish; a **Yo-Zuri Hydro Minnow** (a lipped jerkbait) is named as an
+alternative with noticeably beefier stock hooks that held up without
+bending, at the cost of the angler having to decide whether the split rings
+are worth upgrading too.
+
+### Daiwa Zakana and other sinking metal burn baits
+**Daiwa Zakana as a sinking metal jig, casting comparison (Ray Sharifi,
+Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
+confidence):** similar profile to a Shimano Colt Sniper metal, but with
+noticeably better stock hooks — fished hard, paint worn off from use, with
+no hook upgrade needed. Sinking metal jigs in this class (Zakana, Colt
+Sniper metal) run **60 g up to 80–100 g**, sized to what the bait wants
+(smaller bait → 60 g, bigger bait tolerated → up to 100 g). Fished two ways:
+**cast and burn straight back**, same as the floating stickbaits above; or
+**cast, let sink for a minute or two, then burn it back up at an angle** when
+a deeper presentation is wanted — a distinct technique from the straight
+burn-it-in retrieve. Stock trebles can be upgraded to single hooks if
+preferred.
+
+## Casting gear for poppers and burn baits
+
+**One angler's setup (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02;
+unregistered channel — medium confidence):** a large spinning ("open-face")
+reel — no brand/model reliably carried from this source (asr-uncertain) —
+spooled with **65 lb braid to the top of the spool** and a short leader, used
+for casting poppers, smaller Colt Snipers, and jerkbaits. Rod: fishes a
+**9 ft Phoenix Abyss, rated 20–50 lb**, but judges it short on backbone for
+this heavy-line popper work; the stated preference instead would be a
+**9 ft Phoenix Axis, rated 30–80 lb**, for the extra pulling power expected
+when a bigger fish is finally hooked. For sinking metal jigs specifically, a
+conventional reel is also fished and casts them fine — the source reaches
+for a baitcaster mainly to cut backlash on the smaller floating plastics.
 
 ## How to fish it
 

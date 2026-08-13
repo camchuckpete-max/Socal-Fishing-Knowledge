@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY]
 confidence: medium
 ---
 
@@ -94,6 +94,24 @@ Pick the hook position for the swimming behavior you want:
   because fishing light (25 lb) leader means cutting and re-tying the hook
   after every fish to clear nicks — the extra length is buffer so a full
   leader replacement isn't needed mid-trip.
+
+- **Bluefin flyline setup — two-rod light/heavy system (Ray Sharifi, Dirty
+  Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
+  confidence):** runs two dedicated flyline rods rather than one, sized to
+  cover a **25–80 lb** line-test range across the trip. **Light stick:** an
+  8 ft **Black Diamond** rod (also likes the 8'6" version) rated **20–50 lb**,
+  paired with a **Shimano Torium 16** (a Torium 20 also works), spooled with
+  a **30 lb** monofilament top shot — **50+ yards, more if possible** — to a
+  short fluorocarbon leader matched to the top shot; for **20–50 lb grade**
+  fish. **Heavy stick:** a shorter **7 ft**, also **Black Diamond**, rod
+  rated **30–80 lb**, paired with a **Shimano Trinidad 20A**, running
+  **40 lb (sometimes 50 lb)** fly line
+  directly; for bigger fish. **Why mono, not straight braid-to-fluoro, for
+  flylining specifically:** mono comes off the reel more easily and doesn't
+  stick to itself the way braid does, which helps the bait swim naturally;
+  running straight braid to fluoro maximizes line capacity and is "totally
+  fine," just less efficient specifically for flylining. Hook sizing (Owner
+  Mutu circle hooks, by grade) is logged in [hooks](../tackle/hooks.md).
 
 ## Common failures
 
