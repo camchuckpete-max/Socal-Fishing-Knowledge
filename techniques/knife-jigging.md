@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g]
 confidence: high
 ---
 
@@ -194,6 +194,22 @@ in **Linked from**.
       combination as the preferred build when the mono is available, with
       straight fluoro as the substitute, not the primary plan.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender profiles.
+- **Yellowtail speed/vertical-jigging starter setup, explicitly secondhand
+  and self-described as untested (Ray Sharifi, Dirty Hookers, LTCFjqtSI8g,
+  2023-03-29; unregistered channel — medium confidence; the source states
+  plainly that speed/vertical jigging is new to him this year and he is
+  relaying what he's been told by others rather than his own tested
+  doctrine — kept here as a tentative starting point, not established
+  practice):** a **Phoenix Megalodon 607**, rated — like other slow-pitch/
+  speed-jig blanks — **by jig weight rather than line class: 200–300 g**,
+  paired with a **Shimano Trinidad 20A**, running a shorter **25–40 yards of
+  40–60 lb monofilament** top shot straight to the jig, no fluoro leader. Jig
+  on the rod at filming: a **Daiwa SK jig, 200 g**. Demonstrated for
+  [yellowtail](../species/yellowtail.md) — the source frames speed/vertical/
+  slow-pitch jigging generally as an effective SoCal tool for "tuna or
+  yellowtail," but does not tie this specific 200–300 g build to tuna, so
+  that isn't carried here; a narrower, lighter-weight slice of this note's existing 150–400 g
+  knife-jig range.
 
 ## Common failures
 

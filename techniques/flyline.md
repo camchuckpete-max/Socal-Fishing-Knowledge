@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g]
 confidence: medium
 ---
 
@@ -80,6 +80,20 @@ Pick the hook position for the swimming behavior you want:
   lb gives the extra leverage to turn a yellowtail away from rocks or kelp.
   Hook size follows bait size: **2/0** for jumbo-sized bait and smaller
   mackerel, **1/0** for smaller sardines and anchovies.
+- **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
+  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** the
+  same flyline role, restated with the **Shimano Torium 16** now named as the
+  standard pairing (rather than one of two options) on a **Black Diamond 8'6"
+  heavy rod, rated 20–50 lb** (mid ≈30–35 lb). Braid backing to **80–100
+  yards of 30 lb monofilament** top shot, then **4–6 ft** of fluorocarbon
+  leader in **25 lb or 30 lb** (matched within 5 lb of the main line), tied to
+  what the captions render as a **1/0 or 2/0 live-bait hook** (asr-uncertain:
+  heard as "one knot"/"two Watt," read as 1/0/2/0 aught sizing — no brand
+  carried). **Leader-length reasoning, new in this build:** although only
+  about 3 ft of fluorocarbon is needed after landing a fish, he runs 4–6 ft
+  because fishing light (25 lb) leader means cutting and re-tying the hook
+  after every fish to clear nicks — the extra length is buffer so a full
+  leader replacement isn't needed mid-trip.
 
 ## Common failures
 

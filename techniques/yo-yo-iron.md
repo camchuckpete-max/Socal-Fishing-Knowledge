@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, cameron]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron]
 confidence: high
 ---
 
@@ -66,6 +66,18 @@ the reverse map in **Linked from** below.
   Salas-class 7X-weight iron, not confirmed; not carried as a named product).
   **Traditional yo-yo colors** for yellowtail: **scrambled egg** and **blue
   and white**.
+- **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
+  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
+  **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here
+  paired with a **Shimano Torium 16HG** (he notes his usual pick is still the
+  Trinidad 20A above), running **50–80 yards of monofilament** top shot
+  straight to the jig — **no fluorocarbon leader** on this setup. Full-size
+  jig pick this year, read with the ASR-hazard caveat (captions render "taddy
+  4 rows stylus 7x heavies" — read as **Tady 45s and Salas 7X Heavy**, not
+  confirmed by name but consistent with this note's already-documented Salas
+  6X/7X-class heavy-iron doctrine): kept side by side with the prior year's
+  **Tady 4/0** pick above rather than reconciled — the channel's stated go-to
+  iron differs between the two builds.
 
 ## Common failures
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, cameron]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron]
 confidence: high
 ---
 
@@ -120,6 +120,36 @@ confidence-color report, not a repeated pattern.
   mono top shot straight to the iron rather than the short-leader-and-clip
   system above; not reconciled with it — both are attributed rigging
   philosophies for the same technique.
+- **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
+  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** the
+  same **Phoenix Axis 1009 HJ, 10 ft, rated 30–60 lb**, now paired
+  specifically with a **Daiwa Saltist Black Gold**, running **80–100 yards**
+  of top shot — his fun stick for schoolie-grade fish, roughly **7–25 lb**.
+  Top-shot sizing is now **location-based**: **40 lb monofilament** (captions
+  render "isoline XXX" — asr-uncertain, read as **Izorline XXX**, color not
+  stated as mattering) for local, full-day-accessible islands (Coronado
+  Islands, Channel Islands, Catalina Island); **50 lb** for overnight-range
+  destinations (San Clemente Island, Santa Barbara Island) and anywhere in
+  Baja — the stated reasoning is that those spots carry a true shot at a
+  trophy yellowtail at any moment in the day, so he runs 50 lb strictly there
+  rather than risk being under-gunned. Currently rigged with a steel-finish
+  jig (same "steel-finish iron" terminology as the yo-yo note); casting
+  weight on this rod runs **roughly 1.8 to 2+ oz**, including a **Salas
+  7X**-class iron among the heavier picks aimed at bigger bites — one further
+  jig name in the captions did not decode confidently enough to carry (see
+  extraction log).
+- **New heavy jig-stick tier, added for the 2023 season (Ray Sharifi, Dirty
+  Hookers, LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence;
+  rod was still being hand-wrapped at filming, guides taped on as a
+  mock-up):** a **Phoenix Axis 909 HJ, 9 ft, rated 30–80 lb** (mid ≈50–60
+  lb) — shorter and stouter than the 1009 HJ above — paired with a **Daiwa
+  Saltiga 35HA**, running **80–100 yards of 50 lb monofilament** straight to
+  the jig, no leader. Two stated jobs: (1) **schoolie fish (7–15 lb) fired
+  up** — the shorter, more powerful rod lets him fight, bounce, unhook, and
+  recast faster than lighter tackle during a short hot-bite window, banking
+  more fish in the same window than lighter gear allows; (2) **Baja, fishing
+  around structure or kelp with bigger fish** — the extra backbone muscles a
+  fish away from structure before it can get down into the reef.
 - **Stow-the-iron tip** (Jimmy Decker, via 10/12/22 report): crimp a small loop
   of **100 lb mono** onto a reel post and hang the iron's hook there under
   tension — it won't rattle loose, and it pulls free clean when you want to cast,
