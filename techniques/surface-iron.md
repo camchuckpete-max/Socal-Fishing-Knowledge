@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8]
 confidence: high
 ---
 
@@ -99,6 +99,26 @@ whatever color you have full confidence in matters as much as the color itself
 unregistered channel). Not generalized into doctrine — a single angler's
 confidence-color report, not a repeated pattern.
 
+**Color-by-light framework, tuna lead jigs (Cesar, Eric's Tackle, via Dirty
+Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry
+mechanism/parameter caveat applies — first commit of this claim, medium
+confidence pending repetition):** the folklore that "color doesn't matter"
+is framed here as a yellowtail saying — asked whether it holds for tuna,
+Cesar's answer is that tuna color plays a bigger role. First choice is
+**chrome, or chrome and blue**; second choice is **anything with white in
+it** — blue and white, black and white, mint and white — as long as there's
+a contrasting color against the blank. **Bright, clear, sunny, middle-of-the-
+day conditions favor chrome.** **Overcast days, early morning, late evening,
+or rough/dirty water favor anything with white**, on the stated mechanism
+that in low light a chrome finish has no light left to reflect and just
+mirrors the water (loses definition), while a white-accented finish holds
+contrast regardless of light. This is jig-color doctrine for the tuna
+lead-jig class specifically (see [tuna poppers and
+stickbaits](../lures/tuna-poppers-and-stickbaits.md) and [iron
+jigs](../lures/iron-jigs.md)) — kept alongside, not merged into, this note's
+"no systematic color doctrine" framing above, since it answers the question
+for that lure class rather than for the classic surface-iron blank.
+
 ## Gear-class detail
 
 - **Rod:** [jig-stick class](../tackle/gear-classes.md) — 9–10 ft, medium-heavy,
@@ -109,6 +129,14 @@ confidence-color report, not a repeated pattern.
 - **Line:** ~**80 lb** braid main. Short mono/fluoro leader — **50 lb, ~18 in** —
   to a **100 lb clip** tied straight to the iron (the clip lets you swap irons
   without re-tying).
+- **Top-shot thickness affects the kick (Cesar, Eric's Tackle, via Dirty
+  Hookers, F7jLrt2j2X8, 2023-10-09; first commit, medium confidence):** a
+  thick top shot dampens an iron's swimming action, so on irons specifically
+  run the **lighter/thinner end** of your top-shot range; a heavier top shot
+  costs you swim action on an iron the way it doesn't on a stickbait or
+  popper, which tolerate a heavier top shot without the same penalty (see the
+  reel/top-shot data point in [rod & reel
+  selection](../tackle/rod-and-reel-selection.md)).
 - **Iron:** [surface-iron class](../lures/iron-jigs.md); carry a spread of
   profiles/kicks (wide-slow through fast-tight) so you can match the bite.
 - **A longer-top-shot alternate build, kept side by side (Ray Sharifi, Dirty

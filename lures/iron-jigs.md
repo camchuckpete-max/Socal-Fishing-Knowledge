@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q]
+tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8]
 confidence: high
 ---
 
@@ -53,6 +53,37 @@ seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
 2022-09; medium confidence, unregistered channel).
 
+**Tuna-specific "old-school" heavy jig lineup (Cesar, Eric's Tackle, via Dirty
+Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry
+mechanism/parameter caveat applies — first commit of these specific claims,
+medium confidence pending repetition):** for yellowfin/bluefin up to
+**50–60 lb**, a **Tady AA** is a hard jig to beat — smaller profile, heavy,
+swims well even on a reel that isn't super high-speed, cast on boilers the
+same as a [Daiwa Zakana](tuna-poppers-and-stickbaits.md) or Colt Sniper (three
+count, engage, wind fast) — and has a **distinct kicking motion** on the burn
+that draws more bites than the newer flat lead-jig style. **Reel speed sets
+whether it kicks or just rolls:** on a slower reel the AA's action degrades
+from a kick to more of a rolling motion, which is sometimes not enough to draw
+a bite — the fix is to step down to a jig built for a slower retrieve: a
+**Tady 9 heavy** (same jig type, swims a little slower, the pick when your
+reel's retrieve is on the slower side — "step away from the AA, go to the
+number nine"), or a **Salas 7X Jr heavy**. A traditional heavy jig read as
+**Tady 4/0** ("doua" in the captions — asr-uncertain, not fully confirmed by
+name) rounds out the same traditional-heavy-jig option set. Unlike the flatter
+small-lead-bait style, these older-style heavy jigs are **versatile across the
+whole column** — fishable on top burning across the surface, at a 45° angle,
+a 90° angle, or straight up and down like a yo-yo (drop and full-speed crank)
+— despite being a "heavy" jig.
+
+**Lighter surface-iron sub-class, line-class-limited (same source):** an
+**A1-light** class jig is a tight-swimming jig good for both yellowfin and
+bluefin, smaller profile than the AA — but it's **capped at 30 lb test**;
+heavier line kills casting distance and (with the added line thickness) the
+jig tends to plane up to the surface too fast to swim right. A **40-light**
+jig in the same lineup is a bigger, heavier profile than the A1-light, stays
+in the water better, and handles heavier line fine (**40–50 lb**) — it's
+built to be fished as a straight burn jig.
+
 ## How to fish it
 
 - **Light surface iron** — long-cast on a jig-stick and swum back near the top:
@@ -100,6 +131,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

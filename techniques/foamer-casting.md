@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8]
 confidence: high
 ---
 
@@ -51,6 +51,28 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   jig stick, sweeping the rod sideways is awkward, so keep the **rod tip high and
   burn 2 to 3 reel turns** to jump the lure — same action, easier on the long
   rod.
+- **Popper cadence detail — cast to the edge, not the middle (Cesar, Eric's
+  Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; first commit, medium
+  confidence pending repetition):** cast a popper (a small-profile,
+  big-face popper such as a [Nomad Chug
+  Norris](../lures/tuna-poppers-and-stickbaits.md) is the example given) to
+  the **edge of the boil**, not into the middle of it. Let it sit for a
+  **three count**, then give **one good hard rip**, and wait — the bait
+  should sit there "standing like a wounded bait." The common failure is
+  popping it continuously, like bass fishing: the fish key on **where the
+  bait was**, not where it currently is, so working it too fast pulls it out
+  of the strike zone before a following fish commits. Popper sizing (a
+  yellowfin-specific length cap) is a lure spec, not a retrieve mechanic —
+  see [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+  for that number.
+- **Trip-to-trip variability extends to popper vs. fast-mover, not just
+  retrieve speed within one lure (same source):** some trips the fish want
+  the popper's long-pause presentation above; other trips they want a
+  **fast-moving bait** instead — switch to a stickbait or diving pencil (see
+  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)) when
+  a long-paused popper isn't getting bit. Consistent with the existing
+  trip-dependent retrieve-speed note for the RW Peanut in that same note —
+  read the bite each trip rather than assuming a cadence.
 - **Surface iron or stickbait** when the fish are keyed on sardine or smaller
   mackerel: cast into the thick of the foam, give it a **one- or two-second
   count**, then burn it back. Pick irons that stay pinned under a fast wind-in

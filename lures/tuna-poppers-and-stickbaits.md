@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8]
 confidence: high
 ---
 
@@ -80,6 +80,18 @@ presentation, matching bluefin keyed on smaller bait that week), **100 g**
 called a personal maximum, with other anglers on the boat getting bit up to
 **120 g**.
 
+**Stock-treble-vs-assist-hook mechanism (Cesar, Eric's Tackle, via Dirty
+Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry
+mechanism caveat applies — first commit, medium confidence pending
+repetition):** the Colt Sniper is designed in Japan to be fished with a
+**single assist hook on top and no trailing treble**, burned across the
+surface — the trailing treble on the US-market version is a US-only addition
+and has a tendency to **slow the kick down**. If a treble-rigged Colt Sniper
+isn't drawing bites and you want more kick, the fix is to move to a
+traditional heavy lead jig instead — see [iron jigs](iron-jigs.md) (Tady AA /
+Tady 9 / Salas 7X Jr heavy) — rather than assume color or retrieve speed is
+the problem.
+
 ### RW Peanut (sniper-style casting bait)
 Sniper-style lead casting bait in the same "small lead bait" foamer family as
 the Shimano Colt Sniper (see below). **Sizes 80 g up to 120–150 g** have
@@ -92,6 +104,12 @@ this 2023-09-02 video (Ray Sharifi, Dirty Hookers, gevNj2Y1Ep8; unregistered
 channel — medium confidence). **Retrieve speed/pause is
 trip-dependent** — some trips the fish want it burned fast, others want a big
 dead-stick with long pauses; read the bite each trip rather than assuming.
+
+**Shape data point, about five weeks later (Cesar, Eric's Tackle, via Dirty
+Hookers, F7jLrt2j2X8, 2023-10-09; product endorsement — low confidence per
+Cesar's registry caveat):** described as a small-profile, heavy jig with a
+**rounder, denser** build than the flatter Colt Sniper — good for breezing
+fish keying on small bait.
 
 ### Nomad
 Nomad's offshore surface line (popper and stickbait profiles) rounds out the
@@ -143,6 +161,69 @@ a deeper presentation is wanted — a distinct technique from the straight
 burn-it-in retrieve. Stock trebles can be upgraded to single hooks if
 preferred.
 
+### Rapala X-Rap (long-cast stickbait)
+**Read from the captions as "Rapala X-Rap" — asr-uncertain, not fully
+confirmed by name (Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8,
+2023-10-09; product mention — low confidence per Cesar's registry caveat).**
+A long-casting stickbait with a lot of built-in erratic action — it does
+**not** need to be burned as hard as a Colt Sniper-class jig, which makes it
+a good pick for a **slower reel or spinning gear**, or for anglers who aren't
+yet dialed in on casting a heavy surface iron. **Convert stock trebles to
+singles**: a fish stays pinned better, and — very important on a crowded
+boat — it's a lot safer for the anglers around you than two sets of treble
+hooks flying around on a hookset.
+
+### Nomad Riptide (true stickbait — cast-and-sweep, not cast-and-wind)
+**Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
+mention — low confidence per Cesar's registry caveat.** A common failure
+point: anglers fish this bait cast-and-wind and it "doesn't work" for them —
+it's designed to be fished **cast and sweep**. Cast it out, do a long sweep
+of the rod, then wind down to the lure and sweep again. The sweep gives it a
+real erratic kicking action; stopping to wind down lets it flutter and
+shimmer on the fall, mimicking a fleeing baitfish that hesitates and then
+takes off again — that hesitate-then-flee pattern is what triggers the
+strike. Framed as "a true stick bait, like what they use in Australia,"
+distinct from the walk-the-dog/wind-in plugs above.
+
+### Shimano Current Sniper (cast-and-forget stickbait)
+**Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
+mention — low confidence per Cesar's registry caveat.** A cast-and-forget
+bait — cast it out, turn the handle, no need to think about retrieve cadence
+or worry about it sinking. Very effective on **both yellowfin and bluefin**.
+**Not recommended on party/sportboats** — it's rigged with two sets of
+treble hooks, and that's a safety issue with 20 people casting around each
+other; better suited to a private boat, where it also has the advantage of
+keeping the bait in the water longer (closer to the water than a sportboat
+rail). **Hook upgrade:** do not replace the stock trebles with inline
+singles — inline singles are too heavy and kill the swimming action. Instead
+go **one size bigger on the stock trebles** (exact size-to-size figure given
+in the captions is asr-uncertain and not carried). Stock hooks are fine on
+smaller-grade yellowfin up to **30 lb**; on a **40–50 lb** fish fought over a
+long fight, the stock wire can be too light and give out — the one-size-up
+treble adds weight (tightens the swim track slightly) and solves it.
+
+### Nomad Chug Norris (small-profile, big-face popper)
+**Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
+mention — low confidence per Cesar's registry caveat.** A small-profile
+popper with an extremely large face, built to throw a lot of commotion while
+still presenting a small bait — matches **yellowfin's preference for a
+capped-size popper** (see the yellowfin-specific note in "How to fish it"
+below). Retrieve cadence (cast to the edge of the boil, not the middle;
+three-count, one hard rip, then wait) is the general foamer popper cadence —
+see [foamer casting](../techniques/foamer-casting.md) for the full retrieve
+detail and the common-failure framing.
+
+### Mustang diving pencil
+**New for the 2023 season as of this video (Cesar, Eric's Tackle, via Dirty
+Hookers, F7jLrt2j2X8, 2023-10-09; product mention — low confidence per
+Cesar's registry caveat).** A diving pencil with a flash insert for extra
+attraction — Shimano's equivalent feature on its own baits is branded **Flash
+Boost** (a reflective insert). Part of a broader 2023 trend toward flash-
+finish stickbaits in this market. Reach for a pencil/stickbait like this one
+over a popper on trips when the fish want a **fast-moving bait** rather than
+the popper's long-pause presentation (see [foamer
+casting](../techniques/foamer-casting.md) for the trip-to-trip variability).
+
 ## Casting gear for poppers and burn baits
 
 **One angler's setup (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02;
@@ -163,7 +244,24 @@ All fished [foamer casting](../techniques/foamer-casting.md): run at working
 terns, set up ahead of the school's travel, stop hard, and cast into the middle
 of the foam. **Poppers first** (they hold the zone; bite on the pause); switch to
 a **stickbait/darter** when fish are keyed on smaller bait, and to a **small lead
-bait** (Colt Sniper class) when the bait is finger-size. Routers:
+bait** (Colt Sniper class) when the bait is finger-size.
+
+**Popper size cap for yellowfin (Cesar, Eric's Tackle, via Dirty Hookers,
+F7jLrt2j2X8, 2023-10-09; first commit, medium confidence pending repetition):**
+bluefin will eat a big popper fine, but yellowfin **don't key on big surface
+baits** — cap popper length around **4–4.5 in** for yellowfin. Smaller poppers
+out-fish bigger ones consistently for yellowfin even when bigger fish are
+mixed into the school.
+
+**A five-lure starter kit (Cesar, Eric's Tackle, via Dirty Hookers,
+F7jLrt2j2X8, 2023-10-09; product endorsement — low confidence per Cesar's
+registry caveat):** asked to narrow everything shown down to five or six
+lures to bring, Cesar's picks were a **Tady AA**, an **A1-light** (see [iron
+jigs](iron-jigs.md)), a jerkbait (name not confidently decoded from the
+captions — asr-uncertain, not carried), a popper, and a pencil bait or
+stickbait.
+
+Routers:
 [bluefin tuna](../species/bluefin-tuna.md),
 [yellowfin tuna](../species/yellowfin-tuna.md). The Colt Sniper stickbait/
 jerkbait above is cast at boiling/breezing [yellowtail](../species/yellowtail.md)
@@ -190,6 +288,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Surface Iron](../techniques/surface-iron.md)

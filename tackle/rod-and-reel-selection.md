@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8]
 confidence: medium
 ---
 
@@ -151,6 +151,39 @@ most boats not yet connecting on them. Kept side by side, not merged in:
   [barracuda](../species/barracuda.md) rather than carrying a separate rod for
   each. Explicitly a courtesy-to-passengers choice on a bigger boat, trading a
   dedicated light and heavy bass rod for one universal stick.
+
+## Casting rod/reel/top-shot general parameters (Cesar, Eric's Tackle)
+
+**Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a
+registered voice, source-registry mechanism/parameter caveat applies — first
+commit of these specific claims, medium confidence pending repetition.** A
+general framework for casting tuna lures (irons, stickbaits, poppers), kept
+side by side with the dated builds above rather than merged in:
+
+- **Rod length caps around 9 ft for casting safety.** 8 ft rods are fine;
+  he wouldn't fish anything longer than 9 ft — beyond that it becomes
+  dangerous to cast, especially for anglers **not** on the bow (fishing from
+  the back or middle of the boat makes a longer rod harder to cast safely).
+- **Spinning gear is fine for this grade of fish.** Modern spinning reels
+  with braid have solved the old line-twist and line-flying-off-the-spool
+  problems of mono-era spinning gear. Yellowfin up to **50 lb** on spinning
+  gear is no problem; **100 lb-class bluefin** is where spinning gear starts
+  to struggle.
+- **Star drag over lever drag — it's not flylined bait.** A decent star drag
+  reel is all this application needs; no lever drag and no two-speed
+  required. **20–25 size, up to a 30 max** — don't go bigger/taller, since a
+  bigger reel (and a lever drag's heavier spool) is harder to cast.
+  Cross-brand size equivalents given: **Daiwa ~35T class**, **Penn ~25 or
+  40T class** (a Shimano equivalent was also named in the source but not
+  confidently decoded from the captions — omitted).
+- **Top shot doesn't need to be long for this application** (contrast with
+  flylined bait, where it does) — you can run mostly braid without it
+  costing you bites. Still run a **heavy-enough top shot** that you won't
+  blow off on the initial strike — **40–50 lb** is the stated benchmark.
+  **On irons specifically, go lighter/thinner** within that range — a
+  thicker top shot dampens an iron's swimming action (see [surface
+  iron](../techniques/surface-iron.md)); **stickbaits and poppers tolerate a
+  heavier top shot** without that penalty.
 
 ## Sportboat: bring a range, day and night
 
