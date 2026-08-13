@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [Assist Hooks — Sizing, Cord, and Tying](assist-hooks.md) — How to build and resize an assist hook trackside or on the water: matching hook size to a jig, choosing cord stiffness for the jig style, and tying a single (to
 - [Bluefin Bite Leaders](bite-leaders.md) — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — described as the most critical part of a bluefin knife-jig setu
 - [Double Trouble Rig](double-trouble-rig.md) — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
 - [Essential SoCal Knots](essential-knots.md) — The short list of knots that cover a SoCal sport-boat or private-boat day:
@@ -24,21 +25,22 @@
 
 ```mermaid
 graph LR
-  n0["Bluefin Bite Leaders"]
-  n1["Double Trouble Rig"]
-  n2["Essential SoCal Knots"]
-  n3["FG Knot & Albright Knot"]
-  n4["Flying Fish Harness"]
-  n5["Haywire Twist"]
-  n6["Hollow-Core Splice & Serving"]
-  n7["Leadhead Mods & Rigging"]
-  n8["Rubber-Band Deep Rig"]
-  n9["Trap Rig"]
-  n10["Tuna Feather Rig"]
-  n11["Wind-On Leader"]
-  n11 --> n6
-  n2 --> n8
-  n6 --> n11
-  n8 --> n2
+  n0["Assist Hooks — Sizing, Cord, and Tying"]
+  n1["Bluefin Bite Leaders"]
+  n2["Double Trouble Rig"]
+  n3["Essential SoCal Knots"]
+  n4["FG Knot & Albright Knot"]
+  n5["Flying Fish Harness"]
+  n6["Haywire Twist"]
+  n7["Hollow-Core Splice & Serving"]
+  n8["Leadhead Mods & Rigging"]
+  n9["Rubber-Band Deep Rig"]
+  n10["Trap Rig"]
+  n11["Tuna Feather Rig"]
+  n12["Wind-On Leader"]
+  n12 --> n7
+  n3 --> n9
+  n7 --> n12
+  n9 --> n3
 ```
 <!-- mermaid:end -->

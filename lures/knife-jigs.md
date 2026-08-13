@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes]
 confidence: high
 ---
 
@@ -67,7 +67,10 @@ behavior**:
   name was spoken but not confidently reconstructable; ~200 g, run with the
   assist configuration below). General rigging guidance given alongside
   these: don't over-hook a jig — too many assists kills its action.
-- **Assist-hook rigging class — US waters cap you at two hooks.** Slow-pitch:
+- **Assist-hook rigging class — US waters cap you at two hooks.** For how to
+  size a hook to a jig, choose cord stiffness, and tie a single or double
+  assist by hand, see [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
+  Slow-pitch:
   single assist on the nose **and** a single on the tail (an assist *pair* on the
   front alone already puts you at the limit). Night knife/speed for bluefin: a
   **single bottom assist pair, no top hook** — the fish suck the jig in, so a top
@@ -108,6 +111,17 @@ behavior**:
     reconciled with either doctrine above — flagged as a live conflict on
     hook count/placement, not a region difference (this trip fished US
     waters).
+  - **Fifth attributed configuration, kept side by side (Cesar, Phoenix Rods,
+    via Dirty Hookers, U4zifdssSes, 2024-02-23; registered voice, single
+    mention — medium confidence):** a tying demonstration builds a **single
+    assist at the head/top** of a slender speed jig and, separately in the
+    same series, a **double assist on the tail/bottom** of a short, heavy
+    flat-fall-style jig — a top-plus-bottom, potentially three-hook
+    combination when both are run on the same lure. Another top+bottom
+    variant in tension with the single-bottom-pair-no-top-hook doctrine
+    above; not reconciled. Full sizing/cord/tying detail (hook-to-jig
+    pass-through test, cord stiffness by jig style, tying steps) is in
+    [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
 - **Thin braid is part of the jig system**, not a separate choice: no stretch for
   action and thin diameter so the jig **falls straight down** — even a jump from
   ~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways. Deeper water
@@ -186,6 +200,7 @@ rigging from class terms above until it lands; see
 ## Linked from
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
+- [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)

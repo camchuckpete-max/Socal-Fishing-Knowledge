@@ -241,6 +241,7 @@ in **Linked from**.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
