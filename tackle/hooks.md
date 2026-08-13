@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8]
 confidence: medium
 ---
 
@@ -47,6 +47,22 @@ Same style, different wire, does different jobs (sWRSYCmt4Tw, m2q22sPPkEM):
 - **Heavy-duty (thick) wire** where strength beats swim — islands yellowtail,
   Guadalupe, dropper loop, and big-fish rigs. Thick wire on a small bait weighs it
   down and swims poorly, so save it for larger baits and heavier targets.
+
+### Picking by what's biting, mid-trip (gevNj2Y1Ep8, 2023-09-02)
+
+On a mixed-species offshore trip the practical call is **whatever's actually
+biting that day**, decided on the water (Ray Sharifi, Dirty Hookers;
+unregistered channel — medium confidence):
+
+- **Strictly tuna:** **size 4 circle hooks** (asr-uncertain: a hook-model name
+  was spoken but garbled beyond confident reconstruction; not carried into
+  this note).
+- **Kelp paddy with dorado or yellowtail:** **size 2 live-bait J hooks**
+  (asr-uncertain: brand name garbled, not carried into this note) —
+  consistent with the [dorado](../species/dorado.md) J-over-circle doctrine.
+  Full-speed dorado **swallow the bait and break off often** on their sharp
+  teeth; carry a **50-count pack**, you burn through hooks fast when the bite
+  is hot.
 
 ## Size — bait first, fish second
 

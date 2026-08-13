@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8]
 confidence: high
 ---
 
@@ -98,6 +98,14 @@ Which species and situation calls for each is routed from the species notes —
 - **Baseline daytime rule of thumb:** off-color / darker water → whites and
   yellows (more reflective in low light); bright, sunny, clear water → more
   chrome / flash.
+- **Match glow level to what's actually producing (Ray Sharifi, gevNj2Y1Ep8,
+  2023-09-02; unregistered channel — medium confidence):** keep a spread
+  across the glow range and read the bite rather than fishing one jig all
+  trip — a heavier-glow pattern (e.g. an all-glow "cotton candy" color) when
+  fish are keying on glow; a low-glow, high-flash silvery pattern when they
+  want less glow and more reflection; a minimal-glow pattern with just small
+  polka-dot glow accents (his Sriracha-color jig) when they want the least UV
+  signature.
 
 ## Owned examples
 

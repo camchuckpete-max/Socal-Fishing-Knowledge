@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8]
 confidence: medium
 ---
 
@@ -61,6 +61,43 @@ covering every scenario. Build yours around these roles:
 The lesson isn't the exact rods — it's the **ladder of line classes** and having a
 dedicated tool at each rung so you're not under- or over-gunned when the grade
 shows up.
+
+## A second data point — a 1.5–2 day trip bag (gevNj2Y1Ep8)
+
+A second attributed five-setup breakdown, from a deckhand aboard the
+*Highliner* out of Seaforth Landing on a 1.5-day trip working kelp paddies and
+open water for tuna, dorado, and yellowtail, with nighttime knife-jigging for
+bluefin (Ray Sharifi, Dirty Hookers, 2023-09-02; unregistered channel —
+medium confidence). Different specifics than the framework above; kept side
+by side rather than merged in:
+
+- **40 lb fly line** (the full-speed go-to): 8 ft, 20–50 lb Phoenix Black
+  Diamond rod + Talica 20; 65 lb braid backing to a 100 yd top shot of 40 lb
+  monofilament to a 6 ft leader of 40 lb fluorocarbon.
+- **25–30 lb fly line** (what he starts the day on, stepping up to the 40 lb
+  stick once the bite goes full speed): 8'6", 20–50 lb Phoenix Black Diamond
+  rod + Talica 16, same mono-top-shot-to-fluoro scheme scaled down. Rule of
+  thumb: fish 40 lb when it's full speed (worth it for mixed-in 20–30 lb
+  yellowfin); fish 25–30 lb when the bite is more finicky.
+- **50–60 lb sinker rig** (daytime bait fishing): Phoenix Axis 7'8" heavy,
+  rated 40–100 lb + Daiwa Saltist 50 lever drag; 80 lb braid backing to a
+  60 lb monofilament top shot to 60 lb fluorocarbon. 50 lb is the more
+  universal sinker-rig weight and better for smaller-grade fish; 60 lb is his
+  pick once a possible 100 lb bluefin is in play down deep — this application
+  spans roughly **30–100 lb bluefin**.
+- **40–50 lb sniper / casting setup**: Phoenix Axis 909HJ rated 30–80 lb (his
+  heavy yellowtail jig stick doing double duty) + Trinidad 20A; 65 lb braid
+  backing to a 50 lb monofilament top shot. Casts poppers, surface iron, and
+  sniper-style baits at tuna, yellowfin, and bluefin foamers.
+- **100 lb setup** (overnight-to-multiday nighttime knife-jigging): Phoenix
+  Black Diamond Hybrid rated 60–130 lb + Talica 25; 100 lb braid marked every
+  50 ft, with a 10 ft leader tied straight from braid to 130 lb fluorocarbon —
+  no crimp, no swivel (see [knife jigging](../techniques/knife-jigging.md) for
+  why). Jigs **250–400 g**.
+
+Full kit for anything overnight to 2+ days: all five outfits above. On a
+full-day trip the 100 lb jigging setup is optional — "doesn't hurt to bring"
+but isn't required.
 
 ## Sportboat: bring a range, day and night
 

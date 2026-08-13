@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8]
 confidence: high
 ---
 
@@ -155,6 +155,14 @@ in **Linked from**.
   - **Direct-tie school (West Coast Jiggerz, j37zxs33gws):** **no crimp** — fish
     the 80–100 lb braid → FG → **15–20 ft mono/fluoro top shot tied direct to
     the jig**.
+  - **No-crimp depth-indicator variant (Ray Sharifi, gevNj2Y1Ep8, 2023-09-02;
+    unregistered channel — medium confidence):** on a 100 lb night setup, run
+    **100 lb braid straight to a 10 ft leader of 130 lb fluorocarbon** with no
+    crimp and no swivel between them. The reasoning is functional, not
+    cosmetic: the knot is bulky enough that when it stops running smoothly
+    through the guides on the retrieve, that's the physical warning to slow
+    down — so you don't wind the connection (or the jig) straight into the
+    rod tip and crack the ceramic insert.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender profiles.
 
 ## Common failures

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8]
 confidence: high
 ---
 
@@ -57,6 +57,19 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+### RW Peanut (sniper-style casting bait)
+Sniper-style lead casting bait in the same "small lead bait" foamer family as
+the Shimano Colt Sniper (see below). **Sizes 80 g up to 120–150 g** have
+worked well casting and retrieving to boiling tuna/yellowfin, or fished
+vertically. Two color reads: a realistic **Sardine** pattern (lime-green
+back) for a traditional look, or — when something less realistic is wanted —
+a pink-accented pattern locally nicknamed **"Katy Perry"** (blue back, silver
+middle, pink belly, or all-pink); both have produced well on yellowfin as of
+this 2023-09-02 video (Ray Sharifi, Dirty Hookers, gevNj2Y1Ep8; unregistered
+channel — medium confidence). **Retrieve speed/pause is
+trip-dependent** — some trips the fish want it burned fast, others want a big
+dead-stick with long pauses; read the bite each trip rather than assuming.
 
 ### Nomad
 Nomad's offshore surface line (popper and stickbait profiles) rounds out the

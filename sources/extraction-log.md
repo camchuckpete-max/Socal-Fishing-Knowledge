@@ -769,7 +769,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | video_id | channel | class | depth | status | result |
 | --- | --- | --- | --- | --- | --- |
 | Ul5FLB2dFgQ | Dirty Hookers | seminar | deep | done | lures/knife-jigs.md; tackle/gear-classes.md; techniques/knife-jigging.md / Merged speed-jig stroke mechanics, depth-call/marking-interval variant, hookset doctrine, drag-conflict note, gear-class deta |
-| gevNj2Y1Ep8 | Dirty Hookers | tutorial | parameter-skim | pending | Trip tackle picks: line class by species, hook type by bite behavior, kelp-paddy vs open-water gear |
+| gevNj2Y1Ep8 | Dirty Hookers | tutorial | parameter-skim | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/knife-jigging.md / Amended 5 existing notes with parameter-skim content (line c |
 | RfiC8sfIWTk | Dirty Hookers | tutorial | parameter-skim | pending | Bluefin tackle update: night-bite jig-color pattern, line-class by fish size, circle vs J hook by species |
 | -MP2RqJC7B0 | Dirty Hookers | tutorial | parameter-skim | pending | 1.5-day bluefin breakdown: rod-stiffness feedback, line-class reasoning, mono vs fluoro bite-guard logic |
 | 149px8WQ2Ng | Dirty Hookers | tutorial | parameter-skim | pending | Highliner deckhand POV; line-marking-by-color depth system, day/night jig weight/color/hook logic |
