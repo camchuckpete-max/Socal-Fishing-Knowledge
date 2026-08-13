@@ -787,7 +787,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | F7jLrt2j2X8 | Dirty Hookers | seminar | deep | done | lures/iron-jigs.md; lures/tuna-poppers-and-stickbaits.md; tackle/rod-and-reel-selection.md; techniques/foamer-casting.md; techniques/surface-iron.md / Eric's Tackle seminar w/ Cesar: color-by-light fr |
 | 48ZFXnCTTQE | Dirty Hookers | seminar | deep | done | bait/fishing-live-bait.md; rigging/essential-knots.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/flyline.md / Eric's Tackle seminar w/ Cesar: Seaguar knot, flyline sizing/bite-guar |
 | U4zifdssSes | Dirty Hookers | tutorial | deep | done | rigging/assist-hooks.md; lures/knife-jigs.md / new rigging note on assist-hook sizing/cord-stiffness/tying (single top, double tail) from Cesar; cross-linked as 5th attributed hook-count/placement var |
-| unARAuTgF_A | Dirty Hookers | tutorial | deep | pending | Cesar hollow-core assist hooks: solid-ring vs swivel tradeoffs, PE-line strength logic; series: Assist Hooks pt2 |
+| unARAuTgF_A | Dirty Hookers | tutorial | deep | escalated | escalated: guard: deleted 38 lines from curated note: rigging/assist-hooks.md |
 | EmZO8QiOfik | Dirty Hookers | tutorial | deep | pending | Baja (Sea of Cortez) Cabrilla w/ Cesar: bait size/color by time of day, structure ID, seasonal micro-bait |
 | M8hOYQ_6rSg | Dirty Hookers | tutorial | deep | pending | Baja (Sea of Cortez) tackle talk w/ Cesar: trolling lure/spreader-bar picks, sabiki quality, grouper leader |
 | mWxyjDrcdXM | Roman Castro | tutorial | deep | pending | Bluefin popper doctrine: foamer ID/approach, pop cadence, drag mgmt, avoid braid-scissoring, patience fighting 100lb+ fish |
