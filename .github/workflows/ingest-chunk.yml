@@ -7,16 +7,6 @@ name: batch2-ingest-chunk
 # the root of the ingestion branch (preflight exits silently).
 
 on:
-  # TEMPORARY canary trigger (approved by Cameron 2026-08-13): dispatch-by-
-  # filename 404s until GitHub registers this workflow via a first run, and
-  # no available token can dispatch an unregistered branch-only workflow.
-  # Pushing .github/CANARY-KICK fires the N=1 canary; push-triggered runs
-  # have no inputs, so they default to canary semantics (chunk 1, no
-  # re-dispatch). This block + the CANARY-KICK file are REMOVED right after
-  # the canary is verified.
-  push:
-    branches: [claude/batch2-ingestion-rb0v4i]
-    paths: [".github/CANARY-KICK"]
   workflow_dispatch:
     inputs:
       chunk_size:
@@ -94,7 +84,7 @@ jobs:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: |
             Read prompts/orchestrate-chunk.md and follow it exactly.
-            CHUNK_SIZE=${{ inputs.chunk_size || '1' }}.
+            CHUNK_SIZE=${{ inputs.chunk_size }}.
           claude_args: >-
             --model claude-sonnet-5
             --max-turns 400

@@ -1,11 +1,13 @@
-Temporary canary trigger file (Cameron-approved 2026-08-13).
+Temporary canary trigger file (Cameron-approved 2026-08-13) — attempt 2.
 
-Pushing this file fires the N=1 batch-2 ingestion canary via the temporary
-push trigger in .github/workflows/ingest-chunk.yml (push-triggered runs have
-no inputs and therefore default to chunk_size 1 / no re-dispatch). The first
-run registers the workflow with GitHub, which unblocks dispatch-by-filename
-for the trampoline, the chain's self-re-dispatch, and the Actions-tab
-Run-workflow button.
+Attempt 1 (push trigger inside ingest-chunk.yml) registered the workflow with
+GitHub but the agent step refused the push event ("Unsupported event type:
+push" — claude-code-action only runs on workflow_dispatch and entity events).
 
-This file and the push trigger are deleted immediately after the canary is
+This push fires .github/workflows/canary-dispatch.yml, which dispatches the
+N=1 canary as a workflow_dispatch run (chunk_size=1, redispatch=false) using
+the same gh + GITHUB_TOKEN + --ref mechanism as the trampoline and the
+chain's self-re-dispatch.
+
+This file and canary-dispatch.yml are deleted as soon as the canary is
 verified.
