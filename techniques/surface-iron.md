@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw]
 confidence: high
 ---
 
@@ -138,6 +138,14 @@ confidence-color report, not a repeated pattern.
   7X**-class iron among the heavier picks aimed at bigger bites — one further
   jig name in the captions did not decode confidently enough to carry (see
   extraction log).
+- **Same rod, different reel pairing, about four months later (Ray Sharifi,
+  Dirty Hookers, 42A8Owhc8fw, 2023-08-02; unregistered channel — medium
+  confidence):** the same **Phoenix Axis 1009 HJ, 10 ft, rated 30–60 lb**, here
+  paired with a **Trinidad 16A** rather than the Saltist Black Gold documented
+  above — his stated go-to for yellowtail, barracuda, and bonito, with calico
+  bass biting well and yellowtail hit-or-miss the week of filming (early
+  August 2023). Kept side by side with the Saltist Black Gold pairing, not
+  reconciled — he appears to run more than one reel on this rod over time.
 - **New heavy jig-stick tier, added for the 2023 season (Ray Sharifi, Dirty
   Hookers, LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence;
   rod was still being hand-wrapped at filming, guides taped on as a

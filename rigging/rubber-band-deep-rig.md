@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, live-bait, deep, breakaway-sinker]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw]
 confidence: medium
 ---
 
@@ -19,6 +19,14 @@ on a clean flyline connection.
   [bluefin tuna](../species/bluefin-tuna.md) and other tuna, used when the fish
   are marking deep rather than feeding at the surface and a naked flylined bait
   will not reach them.
+- **Decision trigger, corroborating (Ray Sharifi, Dirty Hookers, 42A8Owhc8fw,
+  2023-08-02; unregistered channel — medium confidence):** on the same trip
+  he'd otherwise be [casting metal at a foamer](../techniques/foamer-casting.md),
+  he'll instead tie on an **80 lb fluorocarbon leader** and build this rig
+  specifically when the boat comes onto a **metered school that isn't showing
+  on the surface** — a metered-but-not-foaming mark is the trigger for the
+  rubber-band rig, a visible foamer is the trigger for casting metal. The
+  80 lb leader is in range with the 50–80 lb leader already logged below.
 
 ## Parameters & judgment
 
@@ -110,4 +118,6 @@ Video (leader/knot/rubber-band build, start to finish): https://www.youtube.com/
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Flyline](../techniques/flyline.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 <!-- backlinks:end -->

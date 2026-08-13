@@ -94,6 +94,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)

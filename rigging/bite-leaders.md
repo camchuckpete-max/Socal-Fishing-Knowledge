@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, bite-leader, crimping, knife-jig, fluorocarbon, leader]
-sources: [kO_BqzUYayc, j37zxs33gws]
+sources: [kO_BqzUYayc, j37zxs33gws, 42A8Owhc8fw]
 confidence: medium
 ---
 
@@ -27,6 +27,12 @@ system between the braid main line and the lure.
   [bluefin tuna](../species/bluefin-tuna.md) and
   [bluefin trolling](../species/bluefin-trolling.md) — the bite leader is the
   jig-fishing terminal, not a troll rig.
+- **Casting-metal variant, corroborating (Ray Sharifi, Dirty Hookers,
+  42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence):** when
+  [casting small heavy metal at a bluefin foamer](../techniques/foamer-casting.md),
+  a short **~2 ft, 150–200 lb** bite leader is an optional confidence add over
+  a bare top-shot-to-lure connection, not a requirement — length in range with
+  the ≤2–2.5 ft rule above, weight heavier than the 130 lb knife-jig example.
 
 ## Parameters & judgment
 
@@ -70,8 +76,10 @@ How-to video: [making bluefin bite leaders](https://www.youtube.com/watch?v=kO_B
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

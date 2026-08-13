@@ -782,7 +782,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | PrdPJy26H8c | Dirty Hookers | tutorial | parameter-skim | done | species/bluefin-tuna.md; species/skipjack-tuna.md; tackle/hooks.md / tuna-species downsizing logic (bluefin exempt vs skipjack/schoolie yellowfin), SoCal yellowtail/offshore baseline hook rotation (2/ |
 | CW02kca8fh4 | Dirty Hookers | tutorial | skip:thin-generic | skipped | Apparel/gear unboxing + subscriber-count pitch; anecdotal rod tour, minimal decision logic |
 | LTCFjqtSI8g | Dirty Hookers | tutorial | deep | done | techniques/flyline.md; techniques/knife-jigging.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / merged updated 2023 rod/reel/line/leader builds (flyline, yo-yo, new speed-jigging starter ki |
-| 42A8Owhc8fw | Dirty Hookers | tutorial | parameter-skim | pending | Pre-trip update: bluefin-foamer metal-bait logic, rubber-band rig setup; back half is catch footage |
+| 42A8Owhc8fw | Dirty Hookers | tutorial | parameter-skim | done | rigging/bite-leaders.md; rigging/rubber-band-deep-rig.md; tackle/rod-and-reel-selection.md; techniques/foamer-casting.md; techniques/surface-iron.md / pre-trip tackle update: foamer metal-bait picks,  |
 | jQW2HLkMsmY | Dirty Hookers | tutorial | deep | pending | Top-5 bluefin techniques: flyline light/heavy setups, sinker-rig, circle-hook sizing by fish grade |
 | F7jLrt2j2X8 | Dirty Hookers | seminar | deep | pending | Erics Tackle seminar w/ Cesar: tuna lure selection by conditions, color logic by light, retrieve speed |
 | 48ZFXnCTTQE | Dirty Hookers | seminar | deep | pending | Erics Tackle seminar w/ Cesar: flyline sizing logic, Seaguar knot mechanism, mono top-shot vs braid |

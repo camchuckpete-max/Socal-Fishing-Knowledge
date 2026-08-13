@@ -87,6 +87,7 @@ dedicated program.
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Regimes](../conditions/water-regimes.md)

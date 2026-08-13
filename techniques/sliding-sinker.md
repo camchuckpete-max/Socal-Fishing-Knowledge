@@ -83,6 +83,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)

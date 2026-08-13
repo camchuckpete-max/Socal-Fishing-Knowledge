@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw]
 confidence: medium
 ---
 
@@ -108,6 +108,50 @@ Full kit for anything overnight to 2+ days: all five outfits above. On a
 full-day trip the 100 lb jigging setup is optional — "doesn't hurt to bring"
 but isn't required.
 
+## A pre-trip tackle-bag update — foamer/rubber-band, surface iron, bass (42A8Owhc8fw)
+
+A third attributed setup breakdown from the same presenter (Ray Sharifi, Dirty
+Hookers, 42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence),
+about a month before the 1.5-day bag above, packed light for a full-day trip
+out of the Channel Islands sport-fishing fleet with foamer bluefin around and
+most boats not yet connecting on them. Kept side by side, not merged in:
+
+- **60–80 lb bluefin setup, dual purpose (cast metal or build the rubber-band
+  rig):** Phoenix Axis 7'8" rated 40–100 lb; 350 yd of 80 lb braid to a 50 yd,
+  80 lb monofilament top shot. Two jobs off the same stick: (1) cast smaller,
+  heavy metal at a foamer — his picks that day were a **Daiwa SK jig**,
+  **Shimano Colt Sniper**, and the newer **RW Peanuts** (carrying both 80 g
+  and 100 g) — small, heavy profile is the point, not the exact model,
+  consistent with the small-lead-bait class in
+  [foamer casting](../techniques/foamer-casting.md); (2) tie on an 80 lb
+  fluorocarbon leader and turn the same outfit into the
+  [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) if the boat comes
+  onto a metered school that isn't showing on the surface. For extra
+  confidence on the casting rig over a bare top-shot connection, he'll add a
+  short ~2 ft, 150–200 lb bite leader (see
+  [bluefin bite leaders](../rigging/bite-leaders.md)) — framed as a confidence
+  add, not a requirement.
+- **Surface-iron setup:** the same **Phoenix Axis 1009 HJ, 10 ft, rated
+  30–60 lb** documented across several builds in
+  [surface iron](../techniques/surface-iron.md); this trip it's paired with a
+  **Trinidad 16A** (see that note for the dated build history and an
+  alternate reel pairing). His go-to for yellowtail, barracuda, and bonito;
+  calico bass was biting well and yellowtail hit-or-miss the week of filming
+  (early August 2023).
+- **One do-everything bass rod, chosen to cut rod count aboard a crowded
+  boat:** a **Phoenix M1 "Inshore" 711, medium-heavy, rated 15–35 lb test**
+  (captions render "insured" — read as **Inshore**, the specific product-line
+  name not independently confirmed). Fishes plastics/jerkbait as the primary
+  job, and doubles as a sliding-sinker or flyline rod, or a dropper-loop /
+  "reverse dropper loop" rig — one rod covering [swimbaits](../techniques/swimbaits.md),
+  [sliding sinker](../techniques/sliding-sinker.md),
+  [flyline](../techniques/flyline.md), and
+  [dropper loop](../techniques/dropper-loop.md) work for
+  [calico bass](../species/calico-bass.md) and
+  [barracuda](../species/barracuda.md) rather than carrying a separate rod for
+  each. Explicitly a courtesy-to-passengers choice on a bigger boat, trading a
+  dedicated light and heavy bass rod for one universal stick.
+
 ## Sportboat: bring a range, day and night
 
 On a charter you can't pick the grade in advance, so carry a spread
@@ -186,17 +230,23 @@ a bluefin).
 
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)

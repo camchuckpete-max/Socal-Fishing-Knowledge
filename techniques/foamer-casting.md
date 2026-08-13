@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw]
 confidence: high
 ---
 
@@ -64,6 +64,19 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
 
 Poppers and stickbaits: [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md).
 
+**Additional small-lead-bait names, corroborating (Ray Sharifi, Dirty Hookers,
+42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence):** on a
+Channel Islands fleet trip where full-day boats weren't yet connecting on the
+bluefin foamers, his casting picks were a **Daiwa SK jig**, **Shimano Colt
+Sniper**, and the newer **RW Peanuts** (carrying both 80 g and 100 g) — small,
+heavy profile is the point, not the exact model, matching the small-lead-bait
+class above. Full rod/reel spec (a 60–80 lb outfit) is in
+[rod & reel selection](../tackle/rod-and-reel-selection.md). For extra
+confidence over a bare top-shot connection to the lure, he'll add a short
+~2 ft, 150–200 lb bite leader (see
+[bluefin bite leaders](../rigging/bite-leaders.md)) — his framing: a
+confidence add, not a requirement.
+
 ## Cameron's run-and-gun foamer program (attributed)
 
 **Observed** (Cameron, fall 2025, late-season bluefin within panga range): an
@@ -102,6 +115,7 @@ the column, which is when foamers are most likely to start
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
@@ -110,6 +124,8 @@ the column, which is when foamers are most likely to start
 - [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
