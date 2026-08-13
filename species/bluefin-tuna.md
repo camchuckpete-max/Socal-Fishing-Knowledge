@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c]
 confidence: high
 ---
 
@@ -135,6 +135,11 @@ and cedar plugs for mixed grade. The full table by wind/grade/water lives in
     day — see [knife jigging](../techniques/knife-jigging.md).)
 - **Terminal on everything deep:** a **200 lb bite leader class** — the most
   critical part of a bluefin setup ([bite leaders](../rigging/bite-leaders.md)).
+- **Not part of the tuna downsizing rule (Ray Sharifi, Dirty Hookers,
+  PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence):** unlike
+  [skipjack and schoolie yellowfin](skipjack-tuna.md), bluefin gear doesn't
+  get scaled down on a mixed tuna trip — grade is unpredictable trip to trip,
+  so tackle stays sized for the biggest fish that could show up.
 - Class lexicon: [gear classes](../tackle/gear-classes.md).
 
 ## Doctrine & conflicts

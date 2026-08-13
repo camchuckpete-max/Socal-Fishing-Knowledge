@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [skipjack, tuna, offshore, bait, bycatch, trolling, flyline]
-sources: [lxFNVdDhMy4, cameron]
+sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c]
 confidence: medium
 ---
 
@@ -54,6 +54,13 @@ but hard-charging, they'll eat almost anything moving.
   bait; a casting jig or small lead bait for the burning retrieve.
 - **Troll:** light **troll class**; small [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md)
   and [cedar plugs](../lures/cedar-plug.md) at ~6–8 kt.
+- **Downsizing logic (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05;
+  unregistered channel — medium confidence):** on a mixed tuna trip, treat
+  skipjack (and schoolie-grade [yellowfin](yellowfin-tuna.md)) as
+  **Bonito-sized targets and downsize tackle/lures accordingly** — the
+  exception is bluefin, which don't get this treatment because grade is
+  unpredictable trip to trip ("you never know what size bluefin you're going
+  to run into"); see [bluefin tuna](bluefin-tuna.md) gear summary.
 - Class lexicon: [gear classes](../tackle/gear-classes.md).
 
 ## Doctrine & conflicts

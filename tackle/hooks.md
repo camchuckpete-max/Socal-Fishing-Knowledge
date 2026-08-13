@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c]
 confidence: medium
 ---
 
@@ -112,6 +112,15 @@ weight** that works — start light and drop to 1/8 or 1/4 oz — so the bait si
 the bottom; a bait lying on the bottom catches rays and shovelnose sharks instead.
 A bullet weight slid down over the hook knot (point the bullet at the rod tip so
 the hook eye seats up inside it) makes the hook nearly invisible.
+
+### SoCal yellowtail/offshore baseline rotation (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence)
+
+The channel's earliest hook data point in this corpus, read as a general
+baseline rather than a per-trip call: **2/0 and size 1 are described as "the
+only two hooks you're going to be needing"** for most SoCal live-bait
+yellowtail/offshore fishing — plain **2/0 sufficient up to 30 lb fish**, and
+**size 1** for small **3–4 in sardines or anchovies**. A **3/0** is also
+carried as the step-up, reached for only when targeting **40+ lb fish**.
 
 ### Baja, Sea of Cortez sizing
 
