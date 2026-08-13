@@ -592,3 +592,75 @@ captions can be sourced another way, they can land in a later batch.
 `batch-2-progress.md` (mechanical pipeline files). Made in this human-gated
 setup session; the unattended pipeline's guard treats `scripts/` as
 protected.
+
+## Batch 2 dedup — 2026-08-13 (precedes triage; findings only, files kept)
+
+Method: exact video_id collision check (none — 576 unique ids), body-md5
+(no byte-identical files), then content word-trigram Jaccard similarity on
+caption text over duration-matched pairs (±2s) across all 546 transcripts,
+plus a YSG-internal pass with no duration gate. Duplicated/re-cut footage
+never counts as independent confirmation of doctrine. Files and manifest
+rows are all KEPT (provenance); duplicates enter the triage worklist as
+`skipped: duplicate-of <primary>`.
+
+### YSG intra-channel re-uploads (doc predicted 11 pairs; sweep found 11 candidates)
+
+Keep earlier/longer as primary; the later re-upload is the duplicate.
+Pairs at sim < 0.80 carry a `confirm-at-triage` flag (triage reads every
+video anyway); the two mismatched-duration pairs are NOT re-uploads — both
+sides stay in the worklist with a re-cut-footage cross-reference.
+
+| duplicate (skipped) | primary (kept) | sim | durations | note |
+| --- | --- | --- | --- | --- |
+| 9xHgdtNek1U (2022) | gKrYKvqHUjk (2020) | 1.000 | 408s = 408s | text-identical; headers differ, so not byte-identical — closest match to the doc's "one byte-identical" claim (recorded as a doc-vs-sweep discrepancy, not reconciled) |
+| Pv5JMTTY4nI (2021-12) | 9qnQjPPT5yg (2021-05) | 0.946 | 354s = 354s | |
+| YVHdDbkQrKk (2022) | w5_x6kkN-xE (2021-04) | 0.922 | 502s = 502s | |
+| bsbL7JeKxMo (2021) | 8jC61LzQoxU (2018) | 0.771 | 353s = 353s | confirm-at-triage |
+| YvWHJ0Dgupc (2022-02) | ftEvyfwjZFU (2021-06) | 0.728 | 383s = 383s | confirm-at-triage |
+| 44pjBUn0nP8 (2021) | wYeKJLoKo4g (2018) | 0.723 | 104s = 104s | confirm-at-triage |
+| 67qLBEtd3EU (2022) | KTsXdQXAnkU (2019) | 0.694 | 427s = 427s | confirm-at-triage |
+| q4NBPuH3gCA (2022) | 5FzBwvMtRP8 (2019) | 0.463 | 205s = 205s | confirm-at-triage (same duration + same rag-bait topic; heavy ASR divergence) |
+| 89DmEDR-1sI (2020-01) | 6zYRI1ZQU3c (2019-12) | 0.430 | 197s = 197s | confirm-at-triage (same duration + same chumming topic) |
+| — not a re-upload — | YPhc0zr7oBs ↔ aFb221LUoD0 | 0.514 | 515s ≠ 994s | overlapping Catalina footage; BOTH stay in worklist, cross-referenced |
+| — not a re-upload — | qv0QbLgp72o ↔ zwNEhWtnBCE | 0.512 | 502s ≠ 284s | overlapping footage; BOTH stay, cross-referenced |
+
+**Doc-vs-sweep discrepancy (reported, not reconciled):** the analysis doc
+says 11 re-upload pairs, "one byte-identical, most ≥0.83 trigram overlap,
+identical durations." The sweep finds 11 candidate pairs but only 3 at
+≥0.83, none byte-identical at file level, and 2 with non-identical
+durations. Similarities here are depressed by independent ASR fetches of
+the same recording; the count matches exactly.
+
+### YSG ↔ BD same-recording pairs (doc's known set of 3 — all located)
+
+| YSG id | BD id (primary; already extracted in batch 1) | evidence | disposition |
+| --- | --- | --- | --- |
+| kr-DZP7OVmg | 4xzK7YaXK5s | sim 0.814, both 263s — found independently by the sweep | `skipped: duplicate-of 4xzK7YaXK5s` |
+| 8Asmd2H56Qk | sYrsPGXiYhI | both 202s; sim only 0.518 (ASR variance; doc asserts same recording) | `skipped: duplicate-of sYrsPGXiYhI` |
+| IMnoZVEYpm4 | m2q22sPPkEM | YSG cut 442s vs BD 328s (+114s), sim 0.560 — YSG is the longer cut, per the doc | worklist row, depth `single-pull`: extract ONLY tail content beyond the BD cut |
+
+### Stoked working-title duplicates (new findings)
+
+| duplicate (skipped) | primary (kept) | sim | durations | note |
+| --- | --- | --- | --- | --- |
+| ZBRSB4iwtbU ("cedros Jose calicoreleaseVid") | ldVj0BoB-kE (Cedros regulation-change episode) | 0.641 | 117s ≈ 117s | raw/working upload of the same footage; confirm-at-triage |
+| qBZxnRuXtGo ("TMP -----------OliveCrest 25") | SdwwpQMJEOI (published Olive Crest episode) | 0.630 | 1367s ≈ 1368s | uncleaned working title the doc flagged; confirm-at-triage |
+
+### Batch-1 internal duplicate (NEW finding — outside batch-2 scope, flagged for Gate B)
+
+`Jtf-bU4aM-c` ("Does SLOW PITCH JIGGING work for YELLOWTAIL?!", 2022-06-27)
+and `vqsD0qpwcJA` ("Slow Pitch Jigging // Yellowtail LA Bay Baja",
+2022-04-06) are the same recording (sim 1.000, both 338s) — a re-upload
+inside the original 128-video BD corpus that batch 1 treated as two
+independent sources (both appear in `species/yellowtail.md` front-matter
+sources). Per the re-cut rule they are ONE source; any doctrine counted as
+independently confirmed by both should be demoted to a single mention.
+Not fixed here (batch-1 accounting is canonical on main) — judgment call
+for Cameron at Gate B.
+
+### Sweep coverage note
+
+The 6 known Stoked cross-zip ids exist as single copies on disk (land-time
+dedup) — nothing to pair. No new-vs-BD duplicates surfaced beyond the known
+YSG↔BD set and the batch-1 internal pair above. Near-dup flags below 0.60
+were not recorded (noise floor); triage reads every video regardless.
