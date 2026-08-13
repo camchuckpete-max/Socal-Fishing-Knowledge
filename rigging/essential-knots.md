@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, connection-knot, terminal-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0]
 confidence: medium
 ---
 
@@ -44,7 +44,20 @@ fluoro leader, braid main line — and feed the terminal rigs in
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
   to ~80 lb by the book, but it holds well beyond — tied clean to 100 lb and even
-  ~130 lb. Small profile passes the guides.
+  ~130 lb. Small profile passes the guides. Wrap count is personal preference —
+  some tiers go 8 or 10 wraps instead of 6 (YGLFn8lPMu0). For extra security
+  before cinching, pass the braid tag back through the exit loop one more time
+  first. Wet the knot (water is fine), then massage/work the coils down snug
+  before the final hard cinch — watch for the braid to darken and the fluoro to
+  go translucent as the tell that it's seated; use a line-gripping puller (wood
+  dowel + tape) rather than bare hands on heavier tests to avoid line cuts.
+  Optionally finish by tying the fluoro tag off around the main braid with a
+  3-wrap uni knot, which cones the connection for a smoother pass through the
+  guides — skippable when re-tying in a hot bite (YGLFn8lPMu0).
+  **Observed** (Dirty Hookers, date unstated — recalled from an earlier,
+  unlinked video): presenter recounts landing an estimated triple-digit
+  (100 lb+) bluefin on 65 lb braid to 80 lb fluoro tied with this knot,
+  locked drag, no knot failure (YGLFn8lPMu0).
 - **Uni-to-uni:** lay the two lines parallel, tie a uni on each — a loop with
   **6 wraps** around both strands — cinch each into a neat stack of coils, then
   draw the two knots together until they jam. Works braid-to-braid and
@@ -55,8 +68,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
 
 ## Tie it
 
-How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0)
-and [three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s).
+How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0),
+[three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
+and [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0).
 
 <!-- backlinks:start -->
 ## Linked from
