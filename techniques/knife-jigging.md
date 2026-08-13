@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ]
 confidence: high
 ---
 
@@ -35,13 +35,43 @@ in **Linked from**.
   boat drifts and where it bites best — some drift bow-first, some stern-first.
 - The short parabolic jigging rod lets the jig **dart** and gives leverage to fight
   a big fish off a light rod with less fatigue than a rail rod.
+- **The coordinated speed-jig stroke (Ul5FLB2dFgQ):** on the down-stroke, drop the
+  jig; on the wind-up, lift the rod tip **while simultaneously winding a full turn
+  of the handle** — it's a timing/coordination skill and upper-body endurance, not
+  just a fast wind.
+- **Slack it, don't tightline it, on the drop.** Whip the rod tip up quickly, then
+  **slack the line down quickly** rather than holding it tight — a tight line on
+  the drop puts resistance on the jig's nose and kills the action (it can't
+  camber, rock, flutter, or dart); slack lets the jig do what it's built to do.
+  At night, work **slower** — most guys aren't pumping and winding fast after
+  dark; a slow, worked drop (**"blinking,"** Ul5FLB2dFgQ) out-produces speed at
+  night. Pair the slower night pace with a center-weighted **flip-slider** jig
+  rather than a tail-weighted speed jig for more fall action worked slowly — see
+  [knife jigs](../lures/knife-jigs.md).
 
 ## Depth control & jig calling
 
 - **Mark your line every 100 ft** (Sharpie or a wrap of contrasting braid down to
   ~400 ft), or run **color-metered braid** that changes color every 100 ft (some
   change every 25) — the captain calls fish by depth ("fish at 180," "fish at
-  230") and you must know where your jig is.
+  230") and you must know where your jig is. **Interval varies by angler, not a
+  single right number:** Ray marks every **50 ft**; commercially pre-marked braid
+  can come marked every **25 ft** (Ul5FLB2dFgQ; Ray Sharifi is not a registered
+  voice — medium confidence). Pick an interval and know it cold.
+- **Ears for the skipper, tracked continuously.** "Eyes in your mind, ears for the
+  skipper" — the captain's called depth **changes fast** (e.g. "fish at 200 ft,"
+  then "fish at 300 ft" two minutes later); update where you think your jig is off
+  your line marks in real time rather than dropping once and assuming
+  (Ul5FLB2dFgQ).
+- **Working a depth call in 100 ft increments (a rockfish-style pattern,
+  Ul5FLB2dFgQ):** drop to the skipper's called depth. Instead of winding up right
+  away, put the reel in gear, **pop the rod tip up high, then drop it and let the
+  slack line the jig flutter all the way down** — repeat that flutter-drop
+  **2–3 times** without a bite. Then **wind 10 full turns** (≈30–40 ft) and repeat
+  the flutter-drop sequence for another **3–4 up-down sweeps.** Ten turns at a
+  time works you through roughly **100 ft of water column** while keeping the jig
+  fluttering in the strike zone the whole way — more time in the zone than a
+  straight yo-yo wind.
 - **Jig weight is called by the captain, 150–400 g**, by how deep the fish are and
   how hard the current runs: more current / deeper fish → heavier (200–300 g+) to
   hold the zone; a jig that sinks fast but stays horizontal in current keeps you
@@ -53,23 +83,75 @@ in **Linked from**.
   sinker; it is the heaviest, cheapest, fastest-sinking option for deep marks
   in hard current.
 
+## Hookset — do not wind on it like bait fishing (Ul5FLB2dFgQ)
+
+- Traditional bait-fishing habit ("don't set the hook, let the fish load up and
+  wind on him") is **the worst thing you can do on a jig.** A jig-hooked fish
+  typically gets stuck just above the barb on a hard point of the jaw; if you
+  don't drive the point past the barb, the hook can bend open under load no
+  matter how heavy the wire.
+- On the bite: **grab the spool** (claw or palm it) and give **three or four hard
+  sideways swings** to drive the hook home. Don't strike on the first thump — the
+  fish may not have the jig fully in its mouth yet. **Wait until drag is actually
+  coming off the reel** (meaning the hooks are already partially buried) before
+  you swing hard.
+- **Drag: set strike at 19–20 lb.** ⚠ **Conflict, kept side by side:** advice
+  circulating online to run **35 lb strike drag** is called out as dangerous — a
+  hookup at the get-go on 35 lb can rip a jigging outfit out of an angler's hands
+  entirely (a witnessed loss of "five jigging outfits" to that advice on one
+  trip). The lighter 19–20 lb strike setting is the deliberately conservative
+  documented number here.
+
 ## Gear-class detail
 
 - **Rod:** short, parabolic, high-power [knife/speed-jig rod class](../tackle/gear-classes.md)
   — often **spiral/acid-wrapped guides** to kill rod twist and stop the line
   wrapping the tip during the jigging motion. A budget broomstick (130–150 class)
   works for schoolie grade; a stiffer composite (fiberglass-tipped) for cow fish.
+  Power is deceptive for the rod's small size: a speed-jig rod demoed in a
+  tackle-shop seminar is rated **55 kg (≈110 lb) of pulling power at a 60° rod
+  angle** despite a slow action — but that power only exists because the blank
+  **loads and bends all the way through to the butt**; fishing it flat on the
+  rail throws away roughly half the rod's power, so fish it in hand, not racked
+  (Ul5FLB2dFgQ).
+- **Reel:** any **narrow two-speed**. A premium two-speed (Talica, Daiwa, or a
+  comparable big-name reel) if budget allows; a **Fathom** is called out as
+  strong value — big, high capacity, two-speed — with one caveat: its stock
+  handle is thin enough to snap, so budget for an **aftermarket handle**
+  (thicker and a bit longer, which also speeds up the low-gear retrieve).
+  Expect some pushback fishing a two-speed from speed-jig purists, but the
+  broader trend (including Japan, where dedicated speed-jig reel makers are
+  now building two-speeds) is toward two-speeds being simply easier to fish
+  (Ul5FLB2dFgQ; medium confidence, unregistered channel).
 - **Line:** **80–100 lb braid**; **80 lb sinks faster than 100** and matters on
   smaller jigs. Braid straight to an FG connection, then **15–20 ft of 80–100 lb**
-  mono/fluoro top shot at night for the bigger grade.
+  mono/fluoro top shot at night for the bigger grade. **Attributed variant, by
+  rod (Ul5FLB2dFgQ):** a **light/day** outfit (200 g and under jigs) — **65 lb
+  braid to a 25 ft, 80 lb top shot**; a **heavy/night** outfit — **100 lb braid
+  to a 130 lb top shot**, and specifically **mono, not fluoro**, for the
+  stretch. **Thinner braid means less line angle** in the water and a jig that
+  hangs straighter under the boat; don't over-gun the braid class chasing a
+  big-fish story — 65–100 lb covers it, and much heavier than 100 lb braid is
+  only worth it on the biggest jigs.
 - **Terminal — single bottom assist pair, no top hook.** Reasons: the fish suck
   the jig in, so a top hook adds little; and a top hook fouls the fish in the cheek
   or pec on the swinging jig, which moves the fight off the mouth and gets a hook
   on the rail or a deckhand at gaff.
+  - **Attributed variant, kept side by side (Ul5FLB2dFgQ, Eric's Tackle):**
+    single top assist + short double on the bottom, tied with deliberately
+    **light-wire** hooks — reported landing fish consistently on the bottom
+    hook, sometimes pinned through the mouth on both hooks; framed as an
+    increasingly common San Diego rig (standard in Japan). Full rigging detail
+    (hooks-must-not-cross rule; speed-jig assists run shorter than slow-pitch
+    assists) is in [knife jigs](../lures/knife-jigs.md). Not reconciled with
+    the single-bottom-pair doctrine above — both are fished in the fleet.
 - **Leader-to-jig connection — two attributed schools, kept side by side:**
   - **Crimp school (nRFFM8DT-og):** finish with a **~2 ft bite leader of 200 lb**
     fluoro/mono **crimped directly to the jig** so a big fish can't bite you off
-    and you can pull hard; [bite leaders](../rigging/bite-leaders.md).
+    and you can pull hard; [bite leaders](../rigging/bite-leaders.md). A
+    separate tackle-shop seminar corroborates the length — a **heavy
+    fluorocarbon bite guard about 2–3 ft** (not 5–6 ft) in case a fish swallows
+    the jig and gets it against its teeth (Ul5FLB2dFgQ).
   - **Direct-tie school (West Coast Jiggerz, j37zxs33gws):** **no crimp** — fish
     the 80–100 lb braid → FG → **15–20 ft mono/fluoro top shot tied direct to
     the jig**.
@@ -83,6 +165,14 @@ in **Linked from**.
   the captain's number.
 - **Blinged-out hooks (multiple assists top and bottom)** — foul-hooks fish, moves
   the fight, and is a danger at the rail. Single bottom pair, watch your line.
+- **Tightlining the drop** — resistance on the nose kills the flutter/dart; slack
+  it down instead (Ul5FLB2dFgQ).
+- **Winding on the bite like bait fishing, or striking before the fish has it** —
+  opens the hook on the barb; wait for drag to run, then drive it home with hard
+  swings off the spool (Ul5FLB2dFgQ).
+- **Strike drag set too heavy (35 lb+)** — can rip the outfit out of your hands on
+  the first hookup; 19–20 lb strike is the safer, documented setting
+  (Ul5FLB2dFgQ).
 
 <!-- backlinks:start -->
 ## Linked from

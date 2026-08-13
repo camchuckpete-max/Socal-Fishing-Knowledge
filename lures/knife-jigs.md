@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ]
 confidence: high
 ---
 
@@ -28,7 +28,15 @@ behavior**:
 - **Fall behavior — flutter vs dart:** wing-fall / butterfly profiles give the
   wide, rocking, side-to-side **flutter** on a slack-line drop (the bite comes on
   the fall); knife/speed profiles **dart** and fall fast and straight, fished on
-  a fast vertical rip (the bite is a reaction to the fleeing jig).
+  a fast vertical rip (the bite is a reaction to the fleeing jig). Night bluefin
+  specifically favors a **center-weighted "flip slider"** profile over a
+  tail-weighted speed jig — bigger sweeping rolls on the fall that read well when
+  the jig is worked slowly after dark, versus the speed jig's design to cover
+  distance fast in daytime current (Ul5FLB2dFgQ).
+- **Field test — speed vs slow-pitch, at the tackle counter:** balance the jig on
+  your fingertip at its midpoint. Heavier toward the tail/back end → it's a
+  **speed jig**. Balances flat without tipping either way → it's a
+  **slow-pitch/wing-fall jig** (Ul5FLB2dFgQ).
 - **Weight ranges by program:**
   - BOLA bottom yellowtail (slow-pitch): **130–250 g wing-fall** jigs eating
     well over high spots at 150–180 ft.
@@ -42,6 +50,16 @@ behavior**:
   hook adds little and fouls fish in the cheek/pec, moving the fight off the
   mouth. Assists are short cord loops with a light-wire assist hook; keep them
   matched to jig length so the hook rides at the head, not tangling the body.
+  **Attributed variant, kept side by side (Ul5FLB2dFgQ, Eric's Tackle):** single
+  assist on **top** + a **short double on the bottom**, both deliberately
+  **light-wire** — reported landing fish consistently on the bottom hook, with
+  both hooks sometimes pinning through the mouth; framed as an increasingly
+  common San Diego rig and the standard in Japan. **If running any double, the
+  two hooks must never cross or lock together.** Speed-jigging assist hooks run
+  noticeably **shorter** than the long assists commonly sold in stores, which are
+  built for slow-pitch — don't grab a slow-pitch assist off the rack for a speed
+  jig. Not reconciled with the single-bottom-pair-no-top-hook doctrine above —
+  both are fished in the fleet; see [knife jigging](../techniques/knife-jigging.md).
 - **Thin braid is part of the jig system**, not a separate choice: no stretch for
   action and thin diameter so the jig **falls straight down** — even a jump from
   ~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways. Deeper water
@@ -64,6 +82,22 @@ Which species and situation calls for each is routed from the species notes —
 [bluefin tuna](../species/bluefin-tuna.md),
 [yellowtail](../species/yellowtail.md),
 [rockfish and lingcod](../species/rockfish-lingcod.md).
+
+## Color — mostly angler confidence, with one real mechanism
+
+- **Attributed take (Ul5FLB2dFgQ, tackle-shop seminar — product/preference
+  commentary on specific colors, low confidence):** color "doesn't really
+  matter" much to the fish; much of the color range on the rack exists because
+  anglers like variety, and glow-pattern fashion (stripes vs. dots) swings with
+  what's currently popular rather than measured performance.
+- **The mechanism worth keeping (medium confidence):** glow paint reflects
+  **UV** more than regular paint, which is why an all-glow jig can be a strong
+  **daytime** choice at real depth (e.g. 300 ft) — there is still light down
+  there, just dim and not visible the way surface light is, and the added UV
+  flash makes the jig stand out. Don't assume glow = night-only.
+- **Baseline daytime rule of thumb:** off-color / darker water → whites and
+  yellows (more reflective in low light); bright, sunny, clear water → more
+  chrome / flash.
 
 ## Owned examples
 

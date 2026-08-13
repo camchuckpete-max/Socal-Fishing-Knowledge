@@ -768,7 +768,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 <!-- batch2:worklist:start -->
 | video_id | channel | class | depth | status | result |
 | --- | --- | --- | --- | --- | --- |
-| Ul5FLB2dFgQ | Dirty Hookers | seminar | deep | pending | Erics Tackle seminar: speed-jig depth technique, skipper depth comms, line marking, day/night jig/braid logic |
+| Ul5FLB2dFgQ | Dirty Hookers | seminar | deep | done | lures/knife-jigs.md; tackle/gear-classes.md; techniques/knife-jigging.md / Merged speed-jig stroke mechanics, depth-call/marking-interval variant, hookset doctrine, drag-conflict note, gear-class deta |
 | gevNj2Y1Ep8 | Dirty Hookers | tutorial | parameter-skim | pending | Trip tackle picks: line class by species, hook type by bite behavior, kelp-paddy vs open-water gear |
 | RfiC8sfIWTk | Dirty Hookers | tutorial | parameter-skim | pending | Bluefin tackle update: night-bite jig-color pattern, line-class by fish size, circle vs J hook by species |
 | -MP2RqJC7B0 | Dirty Hookers | tutorial | parameter-skim | pending | 1.5-day bluefin breakdown: rod-stiffness feedback, line-class reasoning, mono vs fluoro bite-guard logic |
