@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE]
 confidence: medium
 ---
 
@@ -43,6 +43,36 @@ mackerel, sardine, and anchovy alike (SluBXkT3cuw).
 On a butt/belly hook, hold the **two rear fins together and go right under the
 "carnage"** if you set the hook too deep — that keeps a clean, swimming bait
 (8YvmROeVL-0).
+
+### Shoulder hook and a bone-anchored butt hook, for a finicky tensioned bite (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, but this specific mechanism is a single mention; his other logged videos are still pending extraction, so it isn't yet repeated doctrine)
+
+When fishing a finicky bite with any tension on the line (rolling the reel to
+keep a bait swimming), a **nose hook drags the bait's head back toward the
+boat** — exactly the wrong direction. Two positions solve this:
+
+- **Shoulder hook** (bait swims out more on the surface, may swim down a
+  little): cradle the bait in the tank, thumb and index finger gently over its
+  eyes to calm it, and run the hook through at roughly **where your thumb's
+  knuckle sits, about an eighth of an inch down** from there.
+- **Butt hook, anchored on the bone behind the fin** (sends the bait down and
+  away — reach for this when fish are holding in deeper water): don't just
+  hook sideways across the belly fin — that pulls out easily. Instead, cradle
+  the bait from the top with its head in the heel of your hand and your thumb
+  and index finger controlling the tail, start the hook from the tail side
+  behind the fin, run it through the body cavity (there's a bone there you'll
+  often feel/hit), and bring it back out the front side of that same fin —
+  hooking **over the top of a bone** that anchors the hook so it won't pull
+  free even on a hard cast. Orient the hook so its **eye faces the tail**: when
+  you roll the reel and pull the bait backward, the fish feels wrong pointed
+  tail-first and swims **down and away** from the boat — harder rolling
+  pressure makes it want to dive and flee faster, the opposite problem a
+  nose-hooked bait has under the same tension. Contrast: a plain sideways hook
+  through the belly, just above that fin, pulls free if it misses the bone —
+  the anchored version behind the fin holds even on a hard cast.
+
+These positions solve the tension problem the nose hook has for
+[flyline](../techniques/flyline.md) fishing specifically; see that note for
+when to reach for each position by water column.
 
 ## Bait selection is king
 

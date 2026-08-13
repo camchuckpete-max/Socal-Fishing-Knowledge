@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE]
 confidence: medium
 ---
 
@@ -184,6 +184,50 @@ side by side with the dated builds above rather than merged in:
   thicker top shot dampens an iron's swimming action (see [surface
   iron](../techniques/surface-iron.md)); **stickbaits and poppers tolerate a
   heavier top shot** without that penalty.
+
+## Flyline reel & rod selection
+
+Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01. `medium`
+confidence for the mechanism/parameters — Cesar is a registered voice, but
+this is a single mention (his other logged videos are still pending
+extraction, so it isn't yet repeated doctrine; would reach `high` if
+corroborated elsewhere). Specific reel model recommendations below are
+product endorsements and stay `low` per his registry caveat.
+
+Distinct from the casting-application framework above (F7jLrt2j2X8) — this is
+reel/rod selection for **flylining a live bait itself**, not for casting a
+lure:
+
+- **Star drag, not lever drag — the free-spool matters.** On a star drag reel
+  you can disengage the spool completely from the drag system, so the spool
+  itself is light and spins on the barest touch — that's what a fly-lined bait
+  needs to pull line off freely as it swims. A lever drag's drag system is
+  built into the spool, so the spool itself is heavier and starts up stiffer
+  even fully backed off. Test: out of gear, the spool should spin with just a
+  light touch.
+- **Low gear ratio over two-speed for the finicky bite.** Two-speed reels are
+  great once a big fish is on, but getting bit in the first place matters more
+  than cranking speed on a finicky day — a low gear ratio, single-speed star
+  drag reel with plenty of torque is the pick. Stated range: **4.5:1 to 5:1**
+  is the target; **6:1 is a little on the fast side**. On a high-speed reel you
+  get bit fine, but struggle to crank a big fish in once hooked — the
+  low-gear-ratio star drag avoids that trade-off. *(Model recommendations,
+  low confidence — product endorsement:* small star-drag reels, captioned as
+  "pin fathoms" and read as the **Penn Fathom** line (asr-uncertain — brand
+  not independently confirmed), are named as a good light-free-spool fit for
+  flylining; Shimano **Trinidad/Thorium**-class reels also work with a decent
+  (if heavier) free spool, loaded with a bit more mono to compensate.*)*
+- **Rod tip must be soft — mechanism.** A graphite rod tip is too stiff/heavy
+  to load up casting a live bait: the snap-release either gives the bait
+  "whiplash" (it lands stunned, doesn't swim) or throws it clean off the hook.
+  A **glass or composite** rod with a **slow taper and soft tip** loads
+  gradually through the cast instead, so the bait lands lively. Glass casts a
+  bait the best; composite trades a little of that for being easier to fight a
+  big fish on. Getting bit is the bottleneck, not landing speed — a
+  glass/composite rod that gets bit 10 times for every bite a stiff graphite
+  rod gets is worth a few extra minutes fighting the fish once hooked. See
+  [flyline](../techniques/flyline.md) for the line-sizing logic this gear
+  serves.
 
 ## Sportboat: bring a range, day and night
 

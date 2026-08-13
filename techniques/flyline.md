@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [live-bait, flyline, tuna, yellowtail, white-seabass]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY]
+tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE]
 confidence: medium
 ---
 
@@ -28,7 +28,13 @@ Pick the hook position for the swimming behavior you want:
 
 - **Nose hook** — through the clear spot right in front of the eyes. The
   all-purpose flyline hook: the bait swims naturally, stays up, and can also be
-  slow-trolled. Most reactive, most lively.
+  slow-trolled. Most reactive, most lively. **Caution on a tensioned, finicky
+  fly-line specifically (Cesar, Eric's Tackle, 48ZFXnCTTQE, `medium`
+  confidence — registered voice, single mention):** any tension on a nose-hooked bait (e.g. rolling the reel to
+  keep it swimming) drags the bait's head back toward the boat instead of
+  letting it swim away — the opposite of what a finicky bite wants. Shoulder-
+  and butt-hook mechanics that solve this are in
+  [fishing live bait](../bait/fishing-live-bait.md).
 - **Shoulder / dorsal hook** (mackerel especially) — keeps your **line up out of
   the water** and holds the bait **high, skating across the top** for a reaction
   bite.
@@ -55,6 +61,51 @@ Pick the hook position for the swimming behavior you want:
 - **Circle hooks:** hold the hook **high on the arch and press straight down**
   into the bait — holding it from the bottom leaves no gap and mangles the bait.
 
+## Line sizing & bite guard for finicky tuna
+
+Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01. `medium`
+confidence — Cesar is a registered voice, but this mechanism doctrine is a
+single mention (his other logged videos are still pending extraction, so it
+isn't yet repeated doctrine).
+
+- **Why thinner line gets bit:** in warm water, live bait doesn't have time to
+  "cure" and toughen up, so a bait fished on line that's too thick just doesn't
+  swim convincingly and won't draw a finicky bite. The fix is to go **thinner**,
+  not thicker — the opposite instinct of most anglers worried about a big tuna.
+  Cesar cites boat-skipper guidance capping fly line at **20–25 lb test, no more
+  than 30**, as the working range for tough bites.
+- **Why lighter line breaks leaders (the mechanism):** braid has no stretch and
+  fluorocarbon has very little stretch, so on the shock of a bite or a hookset
+  the strain lands entirely on the mono-to-fluoro connection — that's what
+  parts light leaders, not the fluoro being "too light" for the fish.
+- **The fix — a mono top shot + short heavy fluoro bite guard:** run **25 lb
+  monofilament** main/top-shot line to a **50 lb fluorocarbon** section about
+  **2–3 ft long**, joined with the [Seaguar knot](../rigging/essential-knots.md).
+  The 25 lb mono is what's actually pulling through the water (so the bait
+  swims like it's on 25 lb), while the short 50 lb fluoro section rides inside
+  the fish's mouth, along the gill plates and teeth — the "bite guard" that
+  takes the abrasion a straight 25 lb leader couldn't survive. This lets you
+  fish confidently light for the bite while still being able to lean hard on a
+  big fish without getting sawed off. Applied trip example: fishing **20–25 lb
+  main line** against 30+ lb yellowfin and bluefin, stepping the bite-guard
+  fluoro up to **30 lb main → 40 lb leader** and **25 lb main → 40 lb leader**
+  — the heavier-leader step "dramatically helped" land fish (Ray Sharifi,
+  recounting a personal 2.5-day trip, dated ~late-2023 from the upload date;
+  unregistered channel, medium confidence for the personal account).
+- **Don't underestimate what light line can turn:** 25 lb mono, properly
+  drag-set, handles far more pressure than most anglers assume — the
+  presenters recommend testing this yourself (tie 25 lb, set the drag, have
+  someone pull on it) before assuming you need to fish heavier. Ray Sharifi's
+  stated personal best on a 25 lb main / 50 lb bite-guard setup is **~100 lb**.
+  **Observed** (Dirty Hookers, ~2019–2020 from "three years ago, four years
+  ago" stated against the 2023-11-01 upload date; Guadalupe Island, Baja): a
+  tough, finicky bite that produced fish in the morning on 50–60 lb test went
+  dead by mid-morning; the presenter downsized to **30 lb test** (with a
+  nearby skipper doing the same, independently), got bit within two minutes,
+  and landed a **130 lb fish** in 45 minutes — offered as proof that light
+  line, fished with confidence, out-produces staying on heavy gear once a bite
+  goes finicky.
+
 ## Fishing it
 
 - **No weight** — let the bait swim. **Cast well away from the boat**; fish are
@@ -64,11 +115,51 @@ Pick the hook position for the swimming behavior you want:
   pull makes the bait swim away from you like a propeller. Give it slack and it
   turns and swims right back under the boat.
 
+## Mono top shot vs. straight braid — the depth mechanism
+
+Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01. `medium`
+confidence — registered voice, single mention (not yet repeated doctrine).
+
+This is an attributed **addition to**, not a reconciliation of, the
+straight-braid-is-"totally fine" data point already logged below (jQW2HLkMsmY)
+— both stand side by side; the depth math here is the reasoning for reaching
+for the long mono top shot specifically when the bite is finicky or fish are
+holding deep, not a claim that straight braid is wrong.
+
+- **The common assumption is backwards:** anglers often think thin braid has
+  less water resistance than mono, so it should get a bait deeper. Cesar's
+  counter: braid is a **woven/textured** line, and a textured surface drags
+  more in the water than smooth monofilament — mono is the slicker, easier-swimming
+  material for a weak bait, texture aside from diameter.
+- **Flotation is the bigger factor:** braid **floats**; monofilament does
+  **not**. On a long soak with **braid + a short top shot**, the line sits on
+  top of the water for most of its length back to the boat, and the bait rides
+  shallow — only as deep as the short top shot lets it. On **straight mono**,
+  the line sinks and disappears below the surface close to the boat (his
+  example: **~25 ft** back), pulling the bait down with it.
+- **Worked example at 200 ft back:** a Spectra/braid main line with a **10 ft**
+  fluorocarbon top shot holds the bait around **10–12 ft** down. A straight
+  monofilament main line at the same 200 ft back puts the bait **50–60 ft**
+  down. This is a large practical difference for **bluefin that won't come to
+  the surface** — when the bite is wide open and fish are eating on the
+  corner, the depth difference doesn't matter and either works; when it's
+  finicky, at least one rod rigged with **50+ yards of mono** is the
+  recommendation for offshore bait-flylining.
+
 ## Gear class
 
 - A **soft / softer rod class** — a moderate, forgiving tip loads on the run and
   keeps a light bait swimming naturally, and cushions the strike on light leader.
-  See [gear classes](../tackle/gear-classes.md).
+  See [gear classes](../tackle/gear-classes.md). **Why graphite fails here
+  (Cesar, Eric's Tackle, 48ZFXnCTTQE, `medium` confidence — registered voice,
+  single mention):** a graphite tip is
+  too heavy/stiff to load up on the cast of a live bait — the whip-crack
+  release either gives the bait "whiplash" (it lands stunned and won't swim)
+  or throws it clean off the hook. A slow-taper **glass or composite** rod
+  loads gently through the cast instead, so the bait lands lively and swims
+  away — glass casts a bait best, composite is the easier all-rounder for
+  fighting a big fish once hooked. Reel/rod specifics for this application are
+  in [rod & reel selection](../tackle/rod-and-reel-selection.md).
 - **Yellowtail flyline setup, one full build (Ray Sharifi, Dirty Hookers,
   A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** an
   8–8'6" rod, lighter action, rated 20–40 to 20–50 lb — enough backbone to lob
@@ -129,6 +220,7 @@ Pick the hook position for the swimming behavior you want:
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

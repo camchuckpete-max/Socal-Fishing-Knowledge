@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE]
 confidence: medium
 ---
 
@@ -42,6 +42,27 @@ logic behind them.
   the mouth**, which also keeps the leader off the tuna's teeth and away from
   a bite-off — the offset framed as the reason it holds up better there than
   a straight J, on top of the general self-hooking behavior above.
+- **At the smallest hook sizes, J can beat circle (Cesar, Eric's Tackle, via
+  Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered
+  voice, single mention; not yet repeated doctrine):** comparing a small circle hook against a small J hook of
+  similar overall dimension, the J's gap is noticeably bigger and much easier
+  to pin a bait through than the tighter gap a small circle hook leaves —
+  worth the trade when fishing down to the smallest hook sizes for a finicky
+  bite. Faster, easier baiting means less handling time and a livelier bait in
+  the water, which itself draws more bites. The strike timing differs
+  accordingly: on a circle hook, give the fish a **10 count** before engaging
+  the reel — it needs to turn away and swallow-then-eject the bait back into
+  the corner of the mouth for the hook to find purchase there. On a J hook at
+  these small sizes, a **3 count** is enough before putting it in gear; you're
+  setting the hook into the corner of the mouth directly rather than waiting
+  on the circle's self-hooking mechanism.
+- **Ringed vs. non-ringed hook (Cesar, Eric's Tackle, 48ZFXnCTTQE, 2023-11-01;
+  `medium` confidence — registered voice, single mention):** a ringed hook is fine to tie straight to, but a
+  non-ring hook isn't a problem either — tie it with a
+  [loop knot](../rigging/essential-knots.md). The presenter's stated
+  preference is actually the non-ringed hook + loop knot, for two reasons: it
+  adds less hardware weight to an already-stressed live bait, and it's
+  silent — no ring-on-hook clank that can spook a picky, finicky bite.
 
 ### Wire gauge
 
@@ -171,6 +192,7 @@ Baja, Sea of Cortez):
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Knife Jigs](../lures/knife-jigs.md)
