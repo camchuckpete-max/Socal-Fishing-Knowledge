@@ -1,13 +1,12 @@
-Temporary canary trigger file (Cameron-approved 2026-08-13) — attempt 2.
+Temporary canary trigger file (Cameron-approved 2026-08-13) — attempt 3.
 
-Attempt 1 (push trigger inside ingest-chunk.yml) registered the workflow with
-GitHub but the agent step refused the push event ("Unsupported event type:
-push" — claude-code-action only runs on workflow_dispatch and entity events).
+Attempt 1: registered the workflow; claude-code-action rejects push events.
+Attempt 2: workflow_dispatch reached the action, but it attempted an OIDC
+app-token exchange (no github_token input) and failed: "Could not fetch an
+OIDC token". Fix: pass github_token: ${{ github.token }} explicitly, which
+skips the OIDC path. Also fixed the zero-progress backoff (progress
+checkpoints commit every run, so the HEAD==run_base check could never fire;
+now counts non-checkpoint commits).
 
-This push fires .github/workflows/canary-dispatch.yml, which dispatches the
-N=1 canary as a workflow_dispatch run (chunk_size=1, redispatch=false) using
-the same gh + GITHUB_TOKEN + --ref mechanism as the trampoline and the
-chain's self-re-dispatch.
-
-This file and canary-dispatch.yml are deleted as soon as the canary is
-verified.
+This push fires canary-dispatch.yml -> N=1 canary via workflow_dispatch.
+This file and canary-dispatch.yml are deleted once the canary is verified.

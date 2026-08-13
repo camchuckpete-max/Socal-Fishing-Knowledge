@@ -82,6 +82,10 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Explicit token skips the action's OIDC app-token exchange, which
+          # needs id-token:write + the Claude GitHub App (canary attempt 2
+          # failed there). The orchestrator only uses git via Bash.
+          github_token: ${{ github.token }}
           prompt: |
             Read prompts/orchestrate-chunk.md and follow it exactly.
             CHUNK_SIZE=${{ inputs.chunk_size }}.
@@ -125,8 +129,11 @@ jobs:
           if [ "$chain" -ge 40 ]; then
             echo "::warning::chain_count cap (40) reached — not re-dispatching."; exit 0
           fi
-          if [ "$(git rev-parse HEAD)" = "${{ steps.preflight.outputs.run_base }}" ]; then
-            echo "::warning::Zero commits this run (API outage / agent failure)."
+          # Progress checkpoints commit every run (timestamp), so compare
+          # against run_base EXCLUDING them or this backoff never triggers.
+          real=$(git rev-list --count --invert-grep --grep='^batch2: progress checkpoint' "${{ steps.preflight.outputs.run_base }}..HEAD")
+          if [ "$real" = "0" ]; then
+            echo "::warning::Zero non-checkpoint commits this run (API outage / agent failure)."
             echo "Not self-re-dispatching; the hourly trampoline provides backoff."
             exit 0
           fi
