@@ -1,0 +1,11 @@
+Temporary canary trigger file (Cameron-approved 2026-08-13).
+
+Pushing this file fires the N=1 batch-2 ingestion canary via the temporary
+push trigger in .github/workflows/ingest-chunk.yml (push-triggered runs have
+no inputs and therefore default to chunk_size 1 / no re-dispatch). The first
+run registers the workflow with GitHub, which unblocks dispatch-by-filename
+for the trampoline, the chain's self-re-dispatch, and the Actions-tab
+Run-workflow button.
+
+This file and the push trigger are deleted immediately after the canary is
+verified.
