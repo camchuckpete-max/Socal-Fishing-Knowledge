@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [popper, stickbait, plopper, bluefin, yellowfin, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng]
+tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q]
 confidence: high
 ---
 
@@ -15,6 +15,9 @@ prop** (a spinning tail blade that churns a bubble trail on a straight retrieve)
 On foamers the popper keeps a bait in the zone longest and the bite usually comes
 **on the pause**. This note owns each model's size, action, and rigging class;
 how the plugs are fished is [foamer casting](../techniques/foamer-casting.md).
+The same hard-bait-on-top idea also has a [yellowtail](../species/yellowtail.md)
+application — see the Colt Sniper stickbait/jerkbait entry below, a different
+product from the tuna casting jig despite sharing a model name.
 
 ## The class / models
 
@@ -85,6 +88,24 @@ class — heavy, long-casting, wire-through-body plugs built for tuna, run with
 upgraded rings and hooks. Match popper vs stickbait to whether the fish want
 noise or a subtler bait-matching slide.
 
+### Colt Sniper Stickbait / Jerkbait (yellowtail — a different product from the Colt Sniper casting jig above)
+**Not the same lure as the lead "small lead bait" Colt Sniper casting jig
+described above** — this is Shimano's hard-bodied, wire-through-body **Colt
+Sniper stickbait** (a walk-the-dog/gliding profile) and **Colt Sniper
+jerkbait** (a lipless jerk profile), fished on top for boiling/breezing
+**yellowtail**, not tuna foamers. Two sizes: **140 mm** and **170 mm** — 170
+the stated preference generally, sized down to 140 when fish are keyed on a
+smaller/micro bait. Gear: paired with a heavy bass/calico-class casting reel
+(a baitcaster in the Komodo-400 / Daiwa Lexa 400 class — the first reel name
+is ASR-uncertain in the captions, likely an Okuma Komodo SS, not confirmed)
+on an 8'6" rod rated **20–50 lb** (20–45 to 20–50) — enough leverage to turn a
+big yellowtail while still light enough to cast these plugs; a traditional
+9–10 ft [surface-iron](../techniques/surface-iron.md)-class rod with a
+conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
+2022-02-17; unregistered channel — medium confidence). No retrieve mechanics
+beyond "cast at the boil" are given in this source; treat as a visual,
+high-action alternative to iron, not a documented distinct cadence.
+
 ## How to fish it
 
 All fished [foamer casting](../techniques/foamer-casting.md): run at working
@@ -93,7 +114,9 @@ of the foam. **Poppers first** (they hold the zone; bite on the pause); switch t
 a **stickbait/darter** when fish are keyed on smaller bait, and to a **small lead
 bait** (Colt Sniper class) when the bait is finger-size. Routers:
 [bluefin tuna](../species/bluefin-tuna.md),
-[yellowfin tuna](../species/yellowfin-tuna.md).
+[yellowfin tuna](../species/yellowfin-tuna.md). The Colt Sniper stickbait/
+jerkbait above is cast at boiling/breezing [yellowtail](../species/yellowtail.md)
+the same way — into the activity, sized to the bait.
 
 ## Owned examples
 
@@ -118,5 +141,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Surface Iron](../techniques/surface-iron.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

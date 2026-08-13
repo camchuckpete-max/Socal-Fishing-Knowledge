@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q]
 confidence: medium
 ---
 
@@ -69,6 +69,17 @@ Pick the hook position for the swimming behavior you want:
 - A **soft / softer rod class** — a moderate, forgiving tip loads on the run and
   keeps a light bait swimming naturally, and cushions the strike on light leader.
   See [gear classes](../tackle/gear-classes.md).
+- **Yellowtail flyline setup, one full build (Ray Sharifi, Dirty Hookers,
+  A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** an
+  8–8'6" rod, lighter action, rated 20–40 to 20–50 lb — enough backbone to lob
+  a bait a little easier and get extra casting distance. Paired with a reel
+  that free-spools well (a lever drag by preference; a star-drag reel, e.g. a
+  Shimano Torium 16, works too) carrying 50 lb braid backing and a 30 lb
+  monofilament top shot, to a 20–30 lb fluorocarbon leader — **25 lb and 30 lb**
+  are the two stated favorite leader sizes: 25 lb gets bit a little better, 30
+  lb gives the extra leverage to turn a yellowtail away from rocks or kelp.
+  Hook size follows bait size: **2/0** for jumbo-sized bait and smaller
+  mackerel, **1/0** for smaller sardines and anchovies.
 
 ## Common failures
 

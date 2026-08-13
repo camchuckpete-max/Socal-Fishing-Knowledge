@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, cameron]
 confidence: high
 ---
 
@@ -118,7 +118,7 @@ of water state. Kept side by side with the corpus
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Boiling/breezing surface fish, or fish on/around a **kelp paddy** | 1) [Surface iron](../techniques/surface-iron.md) 2) [flylined bait](../techniques/flyline.md) | Jig-stick class; 40–50 lb flyline class | Cast at the activity, watch how the iron swims; go to a heavier iron (e.g. Salas 7X) when it's windy to punch the cast out |
+| Boiling/breezing surface fish, or fish on/around a **kelp paddy** | 1) [Surface iron](../techniques/surface-iron.md) 2) [flylined bait](../techniques/flyline.md) 3) [stickbait/jerkbait](../lures/tuna-poppers-and-stickbaits.md) | Jig-stick class; 40–50 lb flyline class; 20–50 lb heavy bass-stick class for the hard bait | Cast at the activity, watch how the iron swims; go to a heavier iron (e.g. Salas 7X) when it's windy to punch the cast out; the stickbait/jerkbait (Colt Sniper class) is a more visual, high-action alternative, no documented distinct retrieve beyond casting to the boil |
 | **Tight balls hugging structure** / marks on hard bottom or pinnacles (~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-ratio reel | Heavy full-size iron (Salas 6X class); hit bottom, **a couple cranks off the bottom = reaction bite**; dropper loop for live-bait presentation to the same marks |
 | **Deep marks on a high spot** (BOLA/Baja), fast drift | [Slow-pitch / vertical jigging](../techniques/slow-pitch-jigging.md) | Slow-pitch / knife-jig class, **130–250 g** | 150–300 ft zone (bit best 150–180 ft); vertical/knife jigs punch down fast in current, wing-falls flutter — **they bump it on the fall, then wind tight**; match jig weight to rod rating |
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
@@ -141,6 +141,11 @@ water temp and bait depth before committing the day to one face.
   **130–250 g** [knife jigs](../lures/knife-jigs.md).
 - **Flyline:** 20–50 lb class, 8–9 ft, enough backbone to turn a fish off the
   rocks. See [gear classes](../tackle/gear-classes.md).
+- **Stickbait/jerkbait:** a heavy bass/calico-stick casting class, 8'6",
+  20–50 lb, throwing hard-bodied plugs — see
+  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) for
+  the Colt Sniper stickbait/jerkbait entry (a different product from the
+  tuna casting jig of the same family name).
 
 ## Doctrine & conflicts
 
@@ -194,6 +199,7 @@ water temp and bait depth before committing the day to one face.
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

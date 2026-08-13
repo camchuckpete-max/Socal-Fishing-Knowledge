@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, cameron]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, cameron]
 confidence: high
 ---
 
@@ -66,6 +66,19 @@ the blank.
   AA-light on the 80 lb jig stick — the downsized setup is a medium-action 9 ft
   graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
   fluorocarbon leader (2/27/25).
+- **A three-iron box framework (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
+  2022-02-17; unregistered channel — medium confidence):** carry **at least
+  three** surface irons covering three different jobs rather than one
+  do-everything jig — 1) something **small and erratic for a reaction bite**
+  (his pick: a **Tady C** — asr-uncertain model suffix, prefix confident per
+  the known Tady→"Tatty" caption corruption), swum tight and fast to trigger a
+  following fish, or slower for a finesse presentation; 2) something with a
+  **slower retrieve and softer action for a finesse bite** (his pick: **Tady
+  45** — fishable fast or slow, called "pretty universal"); 3) something
+  **heavier that casts through wind/chop and gets extra distance** (his pick:
+  a heavy iron in the Salas 7X class — the product name is ASR-garbled in the
+  captions, not confirmed by name). Consistent with, and a second data point
+  for, this note's existing wind-up-means-heavier-iron rule above.
 
 ## Color
 
@@ -98,6 +111,15 @@ confidence-color report, not a repeated pattern.
   without re-tying).
 - **Iron:** [surface-iron class](../lures/iron-jigs.md); carry a spread of
   profiles/kicks (wide-slow through fast-tight) so you can match the bite.
+- **A longer-top-shot alternate build, kept side by side (Ray Sharifi, Dirty
+  Hookers, A70kK2niu2Q, 2022-02-17; unregistered channel — medium
+  confidence):** a **10 ft rod rated 30–60 lb** (a Phoenix Axis 1009 HJ
+  example), paired with a Daiwa Saltist or Daiwa Saltiga reel, spooled the
+  same way as his flyline setup — **50–60 lb (up to 80 lb) braid backing** to
+  **80–100 yards of 40–50 lb monofilament top shot**. This runs a much longer
+  mono top shot straight to the iron rather than the short-leader-and-clip
+  system above; not reconciled with it — both are attributed rigging
+  philosophies for the same technique.
 - **Stow-the-iron tip** (Jimmy Decker, via 10/12/22 report): crimp a small loop
   of **100 lb mono** onto a reel post and hang the iron's hook there under
   tension — it won't rattle loose, and it pulls free clean when you want to cast,
@@ -133,6 +155,7 @@ confidence-color report, not a repeated pattern.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](yo-yo-iron.md)

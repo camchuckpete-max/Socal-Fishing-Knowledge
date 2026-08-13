@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, cameron]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, cameron]
 confidence: high
 ---
 
@@ -55,6 +55,17 @@ the reverse map in **Linked from** below.
 - **Iron:** heavy [yo-yo iron class](../lures/iron-jigs.md) — a Salas 6X / Salas
   CP 105 type: drop to the mark, full-speed crank. Heavier than a surface iron
   because it must sink fast and hold vertical.
+- **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
+  A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** a
+  stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),
+  general guidance **40–60 lb rated**, with enough tip left to wind through
+  the bite; paired with a nice fast reel (a Shimano Trinidad 20A example) so
+  the angler can settle into a steady cranking rhythm instead of muscling
+  every retrieve. Full-size irons by preference: a **Tady 4/0**, or another
+  full-size iron the captions render unclearly (asr-uncertain — likely a
+  Salas-class 7X-weight iron, not confirmed; not carried as a named product).
+  **Traditional yo-yo colors** for yellowtail: **scrambled egg** and **blue
+  and white**.
 
 ## Common failures
 

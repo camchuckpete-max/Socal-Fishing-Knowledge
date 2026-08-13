@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q]
 confidence: high
 ---
 
@@ -49,6 +49,14 @@ behavior**:
     stay below **400 g unless the current is really ripping** — the goal is
     keeping a **smaller bait-profile presentation**, which was producing on
     this boat that week.
+  - **General SoCal yellowtail butterfly-jig box, not tied to a specific
+    depth/current (Ray Sharifi, Dirty Hookers, A70kK2niu2Q, 2022-02-17;
+    unregistered channel — medium confidence):** a Shimano Flat-Fall-class
+    wing-fall jig in **100–160 g** as the personal-favorite (smaller) range,
+    with **180–200 g** fished by his father, who prefers the heavier sizes —
+    same rod as the yo-yo setup works for this, though slow-pitch-specific
+    rods are called out as an increasingly common alternative on the West
+    Coast.
 - **Assist-hook rigging class — US waters cap you at two hooks.** Slow-pitch:
   single assist on the nose **and** a single on the tail (an assist *pair* on the
   front alone already puts you at the limit). Night knife/speed for bluefin: a
