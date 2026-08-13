@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, live-bait, deep, breakaway-sinker]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI]
 confidence: medium
 ---
 
@@ -63,13 +63,51 @@ on a clean flyline connection.
   that trip, vs. ~90% on flyline — a minority presentation, not the primary
   one.
 
+## Leader, knots, and the tie-on sequence (a fourth source, full build)
+
+**Mason, Dirty Hookers, aboard the *Pride* (LPhnsEamRwI, 2021-06-09;
+unregistered channel — medium confidence)** ties the rig start to finish, on
+top of the parameters above:
+
+- **Leader:** **20–60 lb fluorocarbon**; this demo uses **60 lb fluoro**, in
+  range with the 50–80 lb leader noted above.
+- **Loop knot in the leader (surgeon's-knot-style dropper loop), wraps by
+  leader weight (captions garbled on the exact phrasing — numbers as best
+  parsed):** **4 wraps** for 20–40 lb fluoro, stepping down to **3–4 wraps**
+  on heavier leader. Lubricate the line before cinching, and trim the tag
+  close on both this knot and the hook knot — a long tag catches in the rod
+  guides.
+- **Hook knot — San Diego over Palomar:** Mason ties the hook with a **San
+  Diego knot** rather than a Palomar specifically for bluefin. His stated
+  reasoning: the Palomar "doesn't slip," but it's a smaller knot that
+  doesn't run as far up the line, so a tuna can bite through it more
+  easily; the San Diego knot sits bulkier right at the eye. On the 60 lb
+  fluoro he cautions to cinch it down fully — the heavier, thicker line
+  takes more attention to seat than lighter leader. See also the general
+  Palomar/San Diego tradeoff in [essential knots](essential-knots.md).
+- **Rubber-band attachment sequence:** loop the rubber band onto the
+  fluorocarbon leader **above** the leader knot first, so it can't slide
+  down past it. Pass the band through the sinker's first eyelet, then
+  through the second eyelet, pull the hook through the resulting loop, then
+  pull the leader all the way through the hook and snug it down. Anchoring
+  the band above the leader knot means the sinker can slide on the band
+  under load but is stopped from sliding past the knot — the same
+  breakaway concept described above, walked through start to finish. Mason
+  says there are other ways to tie this rig but prefers this one, crediting
+  a captain he calls "Ray" (not further identified in this video) with the
+  same preference — plausibly the same **Ray Sharifi** cited above, though
+  the transcript doesn't give a surname to confirm it.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=sYrsPGXiYhI
+
+Video (leader/knot/rubber-band build, start to finish): https://www.youtube.com/watch?v=LPhnsEamRwI
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Essential SoCal Knots](essential-knots.md)
 - [Flyline](../techniques/flyline.md)
 <!-- backlinks:end -->

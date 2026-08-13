@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, connection-knot, terminal-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI]
 confidence: medium
 ---
 
@@ -36,6 +36,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
   overhand, then pass the hook/lure back through the loop and seat the knot down
   onto the eye. Fast and easy; **not the strongest** — the guidance is to bump up
   to another knot once you're chasing ~100 lb-plus fish.
+  A bluefin-specific version of that guidance (Mason, Dirty Hookers,
+  LPhnsEamRwI, 2021-06-09; unregistered channel — medium confidence): he
+  ties the hook on his [rubber-band deep rig](rubber-band-deep-rig.md) with
+  a San Diego jam rather than a Palomar for this same bite-through-the-knot
+  reason — full reasoning there.
 - **San Diego jam:** through the eye and back to make a doubled section, wrap
   **6 times** down the standing line, pass through the lower loop and then through
   the upper loop you've held, lubricate, and slide the coils down tight to the
@@ -79,5 +84,6 @@ and [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 <!-- backlinks:end -->

@@ -778,7 +778,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | WE643Fue1_A | Dirty Hookers | tutorial | parameter-skim | done | lures/iron-jigs.md; species/yellowtail.md; tackle/line-and-leader.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / 40lb Cedros line floor, jig picks (JRI Stinger/Starman 112/Kicker 25), mint |
 | lJelQa1o6qk | Dirty Hookers | promo | skip:promo | skipped | Sponsor-announcement video (partnering w/ Opsin Fluorocarbon); product-property pitch, sponsor-heavy |
 | A70kK2niu2Q | Dirty Hookers | tutorial | deep | done | lures/iron-jigs.md; lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md; species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / rod/reel/line/lure p |
-| LPhnsEamRwI | Dirty Hookers | tutorial | deep | pending | Full sinker/rubber-band rig tying: dropper-loop wraps by leader weight, San Diego vs Palomar reasoning |
+| LPhnsEamRwI | Dirty Hookers | tutorial | deep | done | rigging/essential-knots.md; rigging/rubber-band-deep-rig.md / Bluefin sinker/rubber-band rig tie-on (leader wraps, San Diego-over-Palomar reasoning, band attachment sequence) merged; deduped repeated  |
 | PrdPJy26H8c | Dirty Hookers | tutorial | parameter-skim | pending | Older (2019) tackle bag tour; hook size by bait size, tuna-species downsizing logic, mostly listing |
 | CW02kca8fh4 | Dirty Hookers | tutorial | skip:thin-generic | skipped | Apparel/gear unboxing + subscriber-count pitch; anecdotal rod tour, minimal decision logic |
 | LTCFjqtSI8g | Dirty Hookers | tutorial | deep | pending | Updated arsenal: flyline/yoyo/sinker-rig rod-reel-line matchups w/ leader-length and hook-size reasoning |

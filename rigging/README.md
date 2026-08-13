@@ -37,6 +37,8 @@ graph LR
   n10["Tuna Feather Rig"]
   n11["Wind-On Leader"]
   n11 --> n6
+  n2 --> n8
   n6 --> n11
+  n8 --> n2
 ```
 <!-- mermaid:end -->
