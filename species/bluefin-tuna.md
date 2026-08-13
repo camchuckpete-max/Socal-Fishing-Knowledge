@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng]
 confidence: high
 ---
 
@@ -122,6 +122,17 @@ and cedar plugs for mixed grade. The full table by wind/grade/water lives in
 - **Bait / flyline:** **40–60 lb class**, circle hooks size 1–2/0; a first-time
   big-fish setup wants **400+ yd of line, 80 lb backing, 50–60 lb mono top-shot,
   and ~3 ft of fluoro** for abrasion and stretch.
+  - **Daytime working numbers, one boat/trip (Ray Sharifi, Dirty Hookers,
+    149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —
+    medium confidence):** ~90% of daytime bites came on flyline, worked on a
+    dedicated **25–30 lb fluorocarbon flyline stick** (a sponsored
+    fluorocarbon brand is named in-video — treat that product claim as
+    promotional/low, the **25–30 lb** line-test parameter itself as medium),
+    majority on **size 2 circle hooks** (size 1 up to 1/0 also used); the
+    other daytime bites split between a [sinker rig](../rigging/rubber-band-deep-rig.md)
+    (2 bites) and a Colt Sniper (1 bite). (The source's **30–60 lb** grade and
+    **100 lb+ fish swimming under the boat** describe the *night* bite, not
+    day — see [knife jigging](../techniques/knife-jigging.md).)
 - **Terminal on everything deep:** a **200 lb bite leader class** — the most
   critical part of a bluefin setup ([bite leaders](../rigging/bite-leaders.md)).
 - Class lexicon: [gear classes](../tackle/gear-classes.md).

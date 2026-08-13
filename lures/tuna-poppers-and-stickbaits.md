@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng]
 confidence: high
 ---
 
@@ -58,6 +58,14 @@ on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
 
+**Daytime bluefin weight/leader data point (Ray Sharifi, Dirty Hookers,
+149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —
+medium confidence):** **40–50 lb leader** recommended for Colt Sniper on
+daytime bluefin; personal preference for **60–80 g** (smaller bait
+presentation, matching bluefin keyed on smaller bait that week), **100 g**
+called a personal maximum, with other anglers on the boat getting bit up to
+**120 g**.
+
 ### RW Peanut (sniper-style casting bait)
 Sniper-style lead casting bait in the same "small lead bait" foamer family as
 the Shimano Colt Sniper (see below). **Sizes 80 g up to 120–150 g** have
@@ -108,6 +116,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

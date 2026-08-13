@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng]
 confidence: high
 ---
 
@@ -142,6 +142,13 @@ in **Linked from**.
     cows on the same stop, and the source flags this split explicitly because
     anglers on board had confused the daytime 50 lb-for-jigs guidance with the
     night-time recommendation.
+  - **Corroborating, ten days earlier (Ray Sharifi, 149px8WQ2Ng, 2023-04-24;
+    unregistered channel — medium confidence):** night knife-jig **setups in
+    the 80–150 lb class** were recommended, reasoning that **100 lb-class fish
+    were swimming under the boat consistently** even though most fish actually
+    landed in the night bite graded **30–60 lb**. Same channel, same boat
+    (Highliner), same "size for the biggest fish that could show" logic as the
+    entry above.
 - **Terminal — single bottom assist pair, no top hook.** Reasons: the fish suck
   the jig in, so a top hook adds little; and a top hook fouls the fish in the cheek
   or pec on the swinging jig, which moves the fight off the mouth and gets a hook

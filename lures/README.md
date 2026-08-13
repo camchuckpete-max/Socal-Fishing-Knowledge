@@ -38,8 +38,10 @@ graph LR
   n11["Tuna Poppers and Stickbaits"]
   n1 --> n6
   n10 --> n6
+  n11 --> n5
   n2 --> n6
   n3 --> n6
+  n5 --> n11
   n6 --> n1
   n6 --> n10
   n6 --> n2

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng]
 confidence: high
 ---
 
@@ -43,6 +43,12 @@ behavior**:
   - Night bluefin (knife/speed): jig weight called by the captain, **150–400 g**,
     heavier (200–300 g+) for deeper fish or harder current, a lighter ~220 g
     fluttery jig for fish 150–200 ft down in the upper column.
+  - **Deckhand crew guidance, a narrower working range (149px8WQ2Ng, Dirty
+    Hookers, Highliner deckhand POV, 2023-04-24; unregistered channel —
+    medium confidence):** **200 g minimum, up to 300 g, occasionally 350 g**;
+    stay below **400 g unless the current is really ripping** — the goal is
+    keeping a **smaller bait-profile presentation**, which was producing on
+    this boat that week.
 - **Assist-hook rigging class — US waters cap you at two hooks.** Slow-pitch:
   single assist on the nose **and** a single on the tail (an assist *pair* on the
   front alone already puts you at the limit). Night knife/speed for bluefin: a
@@ -117,6 +123,15 @@ Which species and situation calls for each is routed from the species notes —
   want less glow and more reflection; a minimal-glow pattern with just small
   polka-dot glow accents (his Sriracha-color jig) when they want the least UV
   signature.
+- **Two-hot-colors data point, ten days earlier (Ray Sharifi, Dirty Hookers,
+  149px8WQ2Ng, 2023-04-24; unregistered channel — medium confidence):** for
+  "these last two weekends in a row," **red** and **"Katy Perry"** (the same
+  pink-accented nickname documented on the [RW Peanut](../lures/tuna-poppers-and-stickbaits.md)
+  — the name spans lure classes, not one model) were the two most effective
+  night knife-jig colors on the Highliner. Kept as a separate attributed data
+  point rather than merged into the red/orange/yellow entry below — a
+  different, earlier trip on the same boat/channel; whatever the angler's
+  confidence color is matters most, per the source.
 - **Night-bite red/orange/yellow pattern (Ray Sharifi, RfiC8sfIWTk,
   2023-05-04; unregistered channel — medium confidence):** on a night that
   produced a 211 lb bluefin, the jigs drawing bites were on the red end of
@@ -149,5 +164,6 @@ rigging from class terms above until it lands; see
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, live-bait, deep, breakaway-sinker]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng]
 confidence: medium
 ---
 
@@ -49,6 +49,19 @@ on a clean flyline connection.
   (roughly 30–60 lb); step to an **80 lb outfit** for a shot at bigger fish
   holding deep. One field-expedient option: strip the leader off a knife-jig
   outfit and re-rig it as the sinker-rig rod.
+- **Corroborating, ten days earlier, same channel (Ray Sharifi, Dirty
+  Hookers, 149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered
+  channel — medium confidence):** "sinker rig" fish on this trip were caught
+  on **4 oz sinkers**, with **4–6 oz recommended** to carry (5 oz called the
+  sweet spot, up to 6 oz or even 8 oz if the current gets "really really
+  snotty") — matching the 4–6 oz / 5 oz-sweet-spot range above almost
+  exactly. New detail this source adds: a **thicker-wire circle hook**
+  (transcribed "two watt," almost certainly **2/0** — consistent with the
+  1/0–2/0 range above, not independently verifiable from audio alone) "just
+  in case you hook one of these bigger fish," fished on **50–80 lb leader**
+  to bring a big fish up. Only 2 of the day's bites came on the sinker rig
+  that trip, vs. ~90% on flyline — a minority presentation, not the primary
+  one.
 
 ## Rig it
 
