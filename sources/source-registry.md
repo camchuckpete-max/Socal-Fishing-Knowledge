@@ -38,5 +38,6 @@ considered and NOT promoted (Cameron 2026-08-12) — their content caps at
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 <!-- backlinks:end -->

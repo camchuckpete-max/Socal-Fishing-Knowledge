@@ -87,6 +87,7 @@ does the lookup.
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
