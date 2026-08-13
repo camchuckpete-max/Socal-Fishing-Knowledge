@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0]
 confidence: high
 ---
 
@@ -60,6 +60,17 @@ behavior**:
   built for slow-pitch — don't grab a slow-pitch assist off the rack for a speed
   jig. Not reconciled with the single-bottom-pair-no-top-hook doctrine above —
   both are fished in the fleet; see [knife jigging](../techniques/knife-jigging.md).
+  - **Third attributed configuration, kept side by side (Ray Sharifi,
+    -MP2RqJC7B0, 2023-05-23, SoCal 1.5-day trip; unregistered channel — medium
+    confidence):** a **double 6/0 assist pair on top** + a **single 6/0 assist
+    on the bottom** — three hooks total, the inverse pairing from the
+    single-top/double-bottom variant above and in tension with this note's
+    "two hooks max in US waters" framing. This specific jig (a Rich Win 270 g
+    "Sriracha" pattern) landed 5 fish on the trip (50–130 lb) before two of
+    the three hooks bent out on a rail snag and it was retired. Not
+    reconciled with either doctrine above — flagged as a live conflict on
+    hook count/placement, not a region difference (this trip fished US
+    waters).
 - **Thin braid is part of the jig system**, not a separate choice: no stretch for
   action and thin diameter so the jig **falls straight down** — even a jump from
   ~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways. Deeper water

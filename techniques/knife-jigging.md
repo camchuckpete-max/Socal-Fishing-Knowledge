@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0]
 confidence: high
 ---
 
@@ -172,6 +172,20 @@ in **Linked from**.
     through the guides on the retrieve, that's the physical warning to slow
     down — so you don't wind the connection (or the jig) straight into the
     rod tip and crack the ceramic insert.
+    - **Same reasoning, an earlier trip, and the mono-vs-fluoro tradeoff
+      (Ray Sharifi, -MP2RqJC7B0, 2023-05-23; unregistered channel — medium
+      confidence; ~3.5 months before the write-up above, same 100 lb Talica
+      25 / Black Diamond Hybrid setup, same "feel the knot in the guides"
+      logic):** the **stated preference** is a **mono top shot**, not straight
+      fluoro — about **25 ft of 80–100 lb monofilament** run from the braid
+      to a **crimped bite leader**. What was actually fished that night was a
+      fallback: no mono on hand, so **6–8 ft of 130 lb fluorocarbon tied
+      direct to the jig**, no crimp, same depth-warning logic applied to that
+      knot instead. Kept side by side with the Sept setup above (10 ft
+      fluoro) rather than merged — the leader length varies trip to trip
+      (6–8 ft here vs 10 ft in September) and the source frames the mono/crimp
+      combination as the preferred build when the mono is available, with
+      straight fluoro as the substitute, not the primary plan.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender profiles.
 
 ## Common failures

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0]
 confidence: medium
 ---
 
@@ -94,6 +94,15 @@ by side rather than merged in:
   50 ft, with a 10 ft leader tied straight from braid to 130 lb fluorocarbon —
   no crimp, no swivel (see [knife jigging](../techniques/knife-jigging.md) for
   why). Jigs **250–400 g**.
+  - **Rod-stiffness feedback on this same rod (Ray Sharifi, -MP2RqJC7B0,
+    2023-05-23; unregistered channel — medium confidence; earlier trip on the
+    same setup, ~3.5 months before the write-up above):** the Black Diamond
+    Hybrid runs **too stiff** for his liking on **40–50 lb-class bluefin** —
+    it wants to stay straight and is hard to keep a consistent bend in through
+    a whole fight; on **80 lb-and-up fish** the extra stiffness "worked to our
+    benefit." Read as a caution that a 60–130 lb-rated jig stick can be
+    over-gunned for schoolie/mid-grade bluefin even though it's the right tool
+    once the grade goes big.
 
 Full kit for anything overnight to 2+ days: all five outfits above. On a
 full-day trip the 100 lb jigging setup is optional — "doesn't hurt to bring"
