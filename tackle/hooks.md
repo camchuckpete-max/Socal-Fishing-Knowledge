@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM]
 confidence: medium
 ---
 
@@ -112,6 +112,27 @@ weight** that works — start light and drop to 1/8 or 1/4 oz — so the bait si
 the bottom; a bait lying on the bottom catches rays and shovelnose sharks instead.
 A bullet weight slid down over the hook knot (point the bullet at the rod tip so
 the hook eye seats up inside it) makes the hook nearly invisible.
+
+### Baja, Sea of Cortez sizing
+
+From a November 2022 Tony Reyes panga trip (Ray Sharifi, Dirty Hookers,
+dEPuDrhoClM, 2023-03-03; unregistered channel — medium confidence; region:
+Baja, Sea of Cortez):
+
+- **Hardbait/jerkbait replacement trebles for cabrilla (leopard grouper):**
+  size **1/0**, **extra-strong wire** — it's a reaction bite, so the hook's job
+  is to hold and not straighten on a hard strike from a heavy fish, not to
+  disappear like a live-bait hook (asr-uncertain: the specific hook model name
+  was spoken but garbled beyond confident reconstruction; not carried into this
+  note). Paired with **80–100 lb rated split rings** (owner hyper-wire split
+  rings, sized 6–8, with 7 fitting the jerkbaits best).
+- **Live bait / troll hooks for cabrilla when they're not eating the iron:**
+  **3/0–5/0.**
+- **Bigger hooks for sizable yellowtail, barracuda, and bonita** (to get the
+  hook shank buried in a larger bait) **and for grouper fishing: roughly
+  12/0** — the source lost the hooks before confirming and says "I want to say
+  it was 12/0" (uncertain between 12/0 and 14/0; preserved as stated rather
+  than rounded to one number).
 
 ## Related
 

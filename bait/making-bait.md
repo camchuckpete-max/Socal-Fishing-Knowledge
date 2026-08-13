@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola]
-sources: [cameron]
+tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja]
+sources: [cameron, dEPuDrhoClM]
 confidence: high
 ---
 
@@ -36,6 +36,29 @@ program:
 Twelve-inch mackerel are big, hearty baits — heartier than sardine (see
 [fishing live bait](fishing-live-bait.md) for how bait choice plays against the
 gamefish).
+
+## Baja / Sea of Cortez sabiki — heavier-rated rig (region: Baja, Sea of Cortez)
+
+A Sea of Cortez panga trip (Tony Reyes fleet, November 2022; exact departure
+port/area not stated) runs a noticeably heavier-rated sabiki than the SoCal mackerel
+program above, because the bait itself runs bigger and stronger — full-size
+mackerel down to smaller yellowtail (**a hooked string of 2–4 yellowtail will
+snap a light sabiki instantly**):
+
+- **Main line: 25–30 lb rated.** **Hooks/leaders: 20 lb rated.**
+- **Sinker: 4–6 oz for mackerel/sardine-size bait, up to 8 oz when yellowtail
+  are mixed in** — the heavier lead keeps the string straight instead of
+  tangling when several fish hit the same drop at once. One angler ran **6 oz
+  almost the entire trip**.
+- Bait was **whatever stayed alive in the well** — mackerel, small yellowtail,
+  and a mix of local small species (a spotted bay bass, a croaker-family fish
+  locally called "perch," and a sarcastic-fringehead-type fish). Make bait
+  **every night** whether it gets used or not — the leftover bait carries into
+  the next day, including for bottom fishing when the target switches to
+  cabrilla/grouper.
+
+(Ray Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
+medium confidence; region: Baja, Sea of Cortez.)
 
 ## Dedicated sabiki setup (building)
 

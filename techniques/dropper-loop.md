@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail]
-sources: [mUrihh0V59M, cameron]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM]
 confidence: high
 ---
 
@@ -34,6 +34,14 @@ this note owns the rig and the retrieve.
 - Weight and depth track the target: **rock cod → heavier sinker, deeper water;
   seabass → lighter sinker**; if the **current is heavy, up the weight** to hold
   bottom. It is the same rig across species — only the lead changes.
+- **Baja, Sea of Cortez reference weights (region: Baja):** bottom fishing for
+  cabrilla/grouper there runs well past the SoCal 6–10 oz range — **16 oz** held
+  bottom for nearly an entire November 2022 panga trip, stepped up to **24 oz**
+  for bigger baits or a ripping current. The source doesn't confirm the exact
+  rig format (dropper loop vs. straight bait-to-bottom), so treat this as a
+  regional weight reference rather than confirmed dropper-loop parameters (Ray
+  Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
+  medium confidence).
 
 ## Single vs. double dropper (Duane Diego Malloy)
 
