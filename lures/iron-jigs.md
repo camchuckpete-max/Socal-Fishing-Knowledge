@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A]
 confidence: high
 ---
 
@@ -43,7 +43,13 @@ the iron sinks and how it holds in current:
   match the iron to the tip feel, not just the weight.
 
 Model benchmarks beyond any one box: **Tady 45 / 4/0**, **Salas 6X / 7X / 6X Jr.
-/ CP 105**, **JRI** CNC irons, **Strictly Irons** CNC irons, **Nomad Slidekick**.
+/ CP 105**, **JRI** CNC irons (incl. the **JRI Stinger** — a Cedros/Baja
+angler's top-trust surface iron, doubling as both a finesse and a reaction jig),
+**Starman 112** (a Baja/Cedros surface-iron benchmark, fished holographic and
+holographic mint), **Kicker 25** (heavy — fished as a yo-yo iron on the same
+Cedros trips, also seen in a holographic sardine finish as a surface iron),
+**Strictly Irons** CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers,
+WE643Fue1_A, 2022-09; medium confidence, unregistered channel).
 
 ## How to fish it
 

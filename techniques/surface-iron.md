@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, cameron]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, cameron]
 confidence: high
 ---
 
@@ -69,13 +69,22 @@ the blank.
 
 ## Color
 
-**Thin area — no color doctrine in the current sources.** The corpus contains
-no systematic surface-iron color doctrine, and none is invented here. The lone
-color datum on record comes from an adjacent technique: a **squid-colored jig
+**Thin area — no systematic color doctrine in the current sources.** The corpus
+contains no systematic surface-iron color doctrine, and none is invented here.
+The lone color datum on record from an adjacent technique: a **squid-colored jig
 with glow** (charged on the deck lights) making the difference when fish are
 feeding on squid — said of slow-pitch/knife jigs, not surface iron (4/21/22,
 YZtX1MiT0y8). Awaiting the ~400-video batch; until then choose size, weight,
 and swim first — color last.
+
+**Confidence-color data point (Baja/Cedros, attributed):** one Cedros Island
+angler's stated confidence color for surface iron is **mint** — most of his
+easy-to-grab, most-trusted irons (including his top Tady 45s) run mint, and his
+father's easy-grab side runs holographic mint — with the framing that fishing
+whatever color you have full confidence in matters as much as the color itself
+(Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence,
+unregistered channel). Not generalized into doctrine — a single angler's
+confidence-color report, not a repeated pattern.
 
 ## Gear-class detail
 

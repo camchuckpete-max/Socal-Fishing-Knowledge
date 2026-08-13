@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A]
 confidence: medium
 ---
 
@@ -140,6 +140,21 @@ able to break off** (aXF0bxAFtU0):
 - **Leader size climbs with target, not calendar:** on offshore top shots, 15–40 lb
   fluoro covers paddy fish and small-to-mid tuna; 80 lb and up is the workhorse
   for bigger bluefin (xPFm_ZV2PZU).
+- **Regional floor — Cedros Island, Baja (resident yellowtail):** because a
+  home-guard 40+ lb yellowtail can turn up anywhere around the island (even a
+  30-pounder puts you in the rocks), a Cedros trip's **line-class floor is
+  40 lb**; **50 lb** covers most everything fished that trip (short bait
+  leaders and surface iron), with **80 lb** carried as a just-in-case class
+  for black sea bass and bigger white seabass (Ray Sharifi, Dirty Hookers,
+  WE643Fue1_A, 2022-09; medium confidence, unregistered channel). See
+  [yellowtail](../species/yellowtail.md).
+- **Mono over fluoro for surface iron (attributed preference):** one Baja/Cedros
+  angler runs straight monofilament rather than fluorocarbon specifically for
+  surface iron fishing — fluoro for everything else on the trip — with no
+  reason stated in source (Ray Sharifi, WE643Fue1_A, 2022-09; medium
+  confidence, unregistered channel). Kept as a standalone data point on
+  material choice for [surface iron](../techniques/surface-iron.md), not
+  reconciled with the general top-shot guidance above.
 
 ## Connections (parameters — steps are in the rigging notes)
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, jig-stick]
-sources: [HnqiE05vdXs, cameron]
+sources: [HnqiE05vdXs, WE643Fue1_A, cameron]
 confidence: high
 ---
 
@@ -34,6 +34,16 @@ the reverse map in **Linked from** below.
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
 - A heavy iron is mandatory so it **gets to the zone and stays vertical** in
   current; too light and it never reaches the fish or blows out sideways.
+- **Downsize to match small bait (Baja/Cedros, attributed):** when fish are
+  keyed on small forage — **red crabs, small sardines** — one Cedros Island
+  angler drops to smaller/lighter yo-yo jigs (a brass-finish yo-yo iron among
+  them) instead of the standard heavy class; his year-round confidence yo-yo
+  pick otherwise is a **Tady 4/0** ("never fails"), backed by a **Kicker 25
+  (heavy)** and steel-finish irons for the standard heavy-forage case (Ray
+  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence, unregistered
+  channel). Mirrors the anchovy/"rice"-bait downsize logic already documented
+  for [surface iron](surface-iron.md) — match iron size to bait size, not just
+  to current.
 
 ## Gear-class detail
 

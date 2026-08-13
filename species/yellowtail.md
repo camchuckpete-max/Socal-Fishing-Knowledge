@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, cameron]
+tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, cameron]
 confidence: high
 ---
 
@@ -73,6 +73,12 @@ typical-year mapping.
   border and BOLA carry yellowtail more or less year-round, grade improving
   south (cameron; thin in the current corpus — expect this entry to grow with
   the next batch).
+- **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
+  heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
+  30 lb) can turn up anywhere around the island**, which is why local trips
+  spool a **40 lb line-class floor** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
+  2022-09 trip-prep walkthrough; medium confidence, unregistered channel). See
+  [line & leader](../tackle/line-and-leader.md) for the full class breakdown.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the
