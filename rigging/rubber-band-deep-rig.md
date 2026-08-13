@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, live-bait, deep, breakaway-sinker]
-sources: [sYrsPGXiYhI]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk]
 confidence: medium
 ---
 
@@ -37,6 +37,18 @@ on a clean flyline connection.
 > are captured here. Specific sinker weights, band sizes, and leader lengths from
 > that transcript were not reliable and are deliberately omitted — confirm those
 > details against the video before relying on them.
+
+## Sinker and hook parameters (a second, independent source)
+
+- **Sinker (Ray Sharifi, RfiC8sfIWTk, 2023-05-04; unregistered channel —
+  medium confidence):** a **size 4 round sinker**, primarily run at
+  **4–6 oz** — **5 oz** is called the practical do-it-all middle, stepping to
+  **6 oz, even 8 oz, in hard-ripping current**.
+- **Hook:** a **1/0 or 2/0 live-bait circle hook**.
+- **Rod/reel setup:** a **50 lb outfit** covers the majority of daytime fish
+  (roughly 30–60 lb); step to an **80 lb outfit** for a shot at bigger fish
+  holding deep. One field-expedient option: strip the leader off a knife-jig
+  outfit and re-rig it as the sinker-rig rod.
 
 ## Rig it
 

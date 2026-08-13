@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk]
 confidence: high
 ---
 
@@ -106,6 +106,15 @@ Which species and situation calls for each is routed from the species notes —
   want less glow and more reflection; a minimal-glow pattern with just small
   polka-dot glow accents (his Sriracha-color jig) when they want the least UV
   signature.
+- **Night-bite red/orange/yellow pattern (Ray Sharifi, RfiC8sfIWTk,
+  2023-05-04; unregistered channel — medium confidence):** on a night that
+  produced a 211 lb bluefin, the jigs drawing bites were on the red end of
+  the spectrum — a 350 g knife jig in **red with red-and-glow stripes**, a
+  **Sriracha red/orange with glow polka dots**, a straight **red/orange**,
+  and an **orange/yellow** — with the observation that redder-to-yellow tones
+  were triggering more night bites than other colors fished the same night.
+  Kept as a separate attributed data point alongside the glow-level guidance
+  above rather than merged into it.
 
 ## Owned examples
 

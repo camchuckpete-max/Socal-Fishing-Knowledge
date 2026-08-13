@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk]
 confidence: high
 ---
 
@@ -133,6 +133,15 @@ in **Linked from**.
   hangs straighter under the boat; don't over-gun the braid class chasing a
   big-fish story — 65–100 lb covers it, and much heavier than 100 lb braid is
   only worth it on the biggest jigs.
+  - **Day/night split restated in plain line-test (Ray Sharifi, RfiC8sfIWTk,
+    2023-05-04; unregistered channel — medium confidence):** daytime jigging
+    with lighter flat-fall-style jigs (Colt-Sniper class, **80–120 g**) fishes
+    **40–50 lb test**; the night knife-jig bite steps up to a documented
+    **minimum of 80 lb, 80–100 lb recommended**, with leader run up to
+    **200 lb** — night fish can be anywhere from ~20 lb schoolies to 200 lb+
+    cows on the same stop, and the source flags this split explicitly because
+    anglers on board had confused the daytime 50 lb-for-jigs guidance with the
+    night-time recommendation.
 - **Terminal — single bottom assist pair, no top hook.** Reasons: the fish suck
   the jig in, so a top hook adds little; and a top hook fouls the fish in the cheek
   or pec on the swinging jig, which moves the fight off the mouth and gets a hook

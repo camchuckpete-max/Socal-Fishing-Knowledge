@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk]
 confidence: medium
 ---
 
@@ -36,6 +36,12 @@ logic behind them.
   feel the bite and like to set, a **long-shank J** (e.g. 7/0 for marlin) is
   favored on the theory that the long shank keeps the hook from being sawed off
   and lands more fish (m2q22sPPkEM — one captain's belief, single mention).
+- **Why circle for bluefin specifically (Ray Sharifi, RfiC8sfIWTk, 2023-05-04;
+  unregistered channel — medium confidence):** a full-circle, slightly
+  **offset** point is described as seating the hook right in the **corner of
+  the mouth**, which also keeps the leader off the tuna's teeth and away from
+  a bite-off — the offset framed as the reason it holds up better there than
+  a straight J, on top of the general self-hooking behavior above.
 
 ### Wire gauge
 
@@ -63,6 +69,13 @@ unregistered channel — medium confidence):
   Full-speed dorado **swallow the bait and break off often** on their sharp
   teeth; carry a **50-count pack**, you burn through hooks fast when the bite
   is hot.
+- **Earlier same-season trip, same channel (RfiC8sfIWTk, 2023-05-04):** a
+  daytime dual-flyline spread carried a **size 2 circle hook for bluefin**
+  (flylined on **25–30 lb test**) and a **2/0 live-bait J hook for
+  yellowtail/bonito**. The sizes differ from the size-4-circle/size-2-J
+  numbers above from this channel's later (2023-09-02) trip — consistent with
+  the mid-trip, whatever's-actually-biting framing rather than a fixed rule;
+  preserved side by side rather than reconciled to one number.
 
 ## Size — bait first, fish second
 
