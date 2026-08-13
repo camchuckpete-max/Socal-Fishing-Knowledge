@@ -39,6 +39,11 @@ EXCLUDE_FULL = {
     ROOT / "sources" / "memory-export.md",
     ROOT / "sources" / "bd-transcript-knowledge-proposal.md",
     ROOT / "sources" / "spot-lists.md",
+    # Batch-2 ingestion: raw input doc (committed verbatim — must never gain
+    # a backlinks block) and the pipeline's mechanical append-only files.
+    ROOT / "sources" / "batch-2-analysis.md",
+    ROOT / "sources" / "escalations.md",
+    ROOT / "sources" / "batch-2-progress.md",
 }
 # Files whose links ARE validated but which are not notes: no backlinks block,
 # not indexed, not a backlink source (e.g. the hand-authored skill definition).

@@ -493,3 +493,102 @@ manifest; one commit per tier).** Corrections and judgment calls:
   target; drill-powered retrieve; Fathom 80 respool-to-bulk-spool; Yo-Zuri Hydro
   Minnow "LC 205" size to verify; dad's unidentified skirt bag; Tranx braid
   pending respool.
+
+## Batch 2 landing (adopted) — 2026-08-13
+
+Adopted onto `claude/batch2-ingestion-rb0v4i` (recut from `main` @ ef7f7c9)
+from the two landing branches: `claude/raw-transcripts-private-e2zn7m`
+(six playlist dirs, 400 transcripts, +429 manifest rows) and
+`claude/add-zip-transcripts-1xjewx` (Crust to Coast batch, 18 transcripts).
+Phase 0a adopted verbatim; Phase 0b reorganized per-channel and normalized
+the master manifest. The batch-2 analysis doc is committed verbatim at
+`batch-2-analysis.md` (source of the channel rules used in triage).
+
+**Repo visibility:** Cameron CONFIRMED (2026-08-13) that full third-party
+transcripts remain in this PUBLIC repo. (They were already public on the
+landing branches; this records the explicit confirmation.)
+
+### Landed state (verified; every figure recounted from disk/manifest)
+
+| channel dir | .md files | manifest rows | failed rows |
+| --- | --- | --- | --- |
+| (flat) BDOutdoors batch 1 | 128 | 128 | 0 |
+| stoked-on-fishing | 255 | 278 | 23 |
+| your-saltwater-guide | 108 | 113 | 5 |
+| dirty-hookers | 22 | 23 | 1 |
+| roman-castro | 12 | 12 | 0 |
+| crust-to-coast | 18 | 19 | 1 |
+| joewo (stray) | 1 | 1 | 0 |
+| kevin-is-cooking (stray) | 1 | 1 | 0 |
+| okuma-fishing-tackle-usa (stray) | 1 | 1 | 0 |
+| **total** | **546** | **576** | **30** |
+
+546 ok rows map 1:1 onto the 546 transcript files (verified by id-suffix
+match; note some video_ids begin with `-` or contain `--`). caption_type
+normalized to the master vocabulary (223 `(en)`-suffixed rows). All 29
+blank-channel failed rows backfilled by unambiguous block agreement.
+Transcript files themselves are untouched raw sources — the dirty-hookers
+`M:SS` duration format and Crust's YAML-front-matter headers (vs the
+bullet-header format elsewhere) are normalized at parse time, never edited.
+
+### Discrepancies (analysis doc / prior landing log vs what actually landed)
+
+1. **Corpus size:** the analysis doc measured 5 zips / 294 files; 7 zip
+   inputs were actually received and 400 files landed. The delta is exactly
+   the stoked-on-fishing-offshore playlist the doc never saw (112 files +
+   9 failed rows) plus a BDOutdoors zip byte-identical to batch 1 (logged
+   duplicate, nothing copied). Arithmetic closes: 294 − 6 cross-zip dups
+   dropped at land time + 112 = 400; failed rows 20 + 9 = 29.
+2. **Prior landing-log table was wrong:** the "Batch 2 landing — 2026-08-12"
+   section on the raw branch mis-attributed per-batch manifest rows (e.g.
+   offshore 133 claimed vs 121 actual; roman 14 vs 13). The analysis doc's
+   figures and the actual manifest agree; that branch's table does not.
+   This section supersedes it.
+3. **"Keep the more complete fetch" is unverifiable for 5 of the 6 known
+   Stoked cross-zip duplicate ids** (6-mi3Qxn37c, H-vIGWPIPVc, Y2bXn44lfqo,
+   82gEHYel-4U, ldVj0BoB-kE, FE63WNlwkKw): land-time dedup kept the
+   stoked-on-fishing-zip copies and never committed the discarded Inshore
+   fetches. For FE63WNlwkKw — the one pair the doc characterizes — the doc
+   says the Inshore copy was the incomplete one, so the kept copy IS the
+   more complete fetch. The other 5 kept copies stand as-is.
+4. **Stoked "~90s post-2014 boilerplate":** caption-text evidence contradicts
+   the doc — no ~90-second text block exists anywhere in the corpus (0 regex
+   hits); the measurable artifact is a ~16-second giveaway/subscribe read on
+   a 2019-era subset. Both claims recorded side by side, not reconciled
+   (the ~90s open is presumably visual/music, invisible to captions).
+   Operative triage/extraction rule: ignore intro sponsor/giveaway reads
+   wherever present.
+5. **"Backfill status for the 128 BD rows"** was already complete on `main`
+   (all 128 rows `ok`) — no-op.
+6. **Accounting denominator:** the doc's Phase 5 says "~314 new manifest
+   rows"; the actual number is 448 (429 batch-2 + 19 crust).
+7. **Crust to Coast was not in the analysis doc at all** (it arrived as a
+   separate playlist fetch, not one of the zips): 19-part undergraduate
+   "Geology 5" oceanography course, ~10.5 h, all auto captions, channel id
+   UC4lyFLgi-ZqANz1m-zb2zrw, playlist PLOMMpqItRwQna8TRhb8KHjjD3zoZp-a1j,
+   fetched 2026-08-12; 1 failed fetch (DRbl0fVgGIo, "Geology 5 - Climate
+   Change", captions disabled by uploader — permanent). Characterized fresh
+   at triage; proposed registry frame in the batch-2 report.
+
+### Strays (header-vs-directory scan of all 546 files: exactly 3)
+
+| video_id | actual channel | disposition |
+| --- | --- | --- |
+| YGKgQp5HTLM | JoeWo | Call of Duty gaming video — `skipped: not fishing` at triage |
+| mwrFx2DdmO0 | Kevin Is Cooking | tacos recipe; transcript is 3 useless lines — `skipped: not fishing` |
+| 55IthpZZx9k | Okuma Fishing Tackle USA | content is Capt. Dave Hansen (YSG) at the Okuma booth — triaged on merits, feeds the dave-hansen registry row |
+
+### Failed fetches worth flagging to Cameron (in-scope losses)
+
+`Qurgc-HtsuA` (yellowtail fillet local-style), `1CQGXwqmURA` (life of a
+calico bass), `JgknlyfTtgE` / `9O0AnMQkEM4` / `gaa3_aBFL5A` (SD-bay + SWBA
+episodes), plus one orphaned Stoked "part 3" whose parts 1–2 failed. If
+captions can be sourced another way, they can land in a later batch.
+
+### Tooling note
+
+`scripts/link-maintenance.py` `EXCLUDE_FULL` gained `batch-2-analysis.md`
+(must stay byte-verbatim — no backlinks block), `escalations.md`, and
+`batch-2-progress.md` (mechanical pipeline files). Made in this human-gated
+setup session; the unattended pipeline's guard treats `scripts/` as
+protected.
