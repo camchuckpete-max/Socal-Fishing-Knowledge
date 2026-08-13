@@ -1,12 +1,11 @@
-Temporary canary trigger file (Cameron-approved 2026-08-13) — attempt 3.
+Temporary canary trigger file (Cameron-approved 2026-08-13) — attempt 4.
 
 Attempt 1: registered the workflow; claude-code-action rejects push events.
-Attempt 2: workflow_dispatch reached the action, but it attempted an OIDC
-app-token exchange (no github_token input) and failed: "Could not fetch an
-OIDC token". Fix: pass github_token: ${{ github.token }} explicitly, which
-skips the OIDC path. Also fixed the zero-progress backoff (progress
-checkpoints commit every run, so the HEAD==run_base check could never fire;
-now counts non-checkpoint commits).
+Attempt 2: OIDC app-token exchange failed (no github_token input).
+Attempt 3: github_token fix worked, but the action rejects bot-initiated
+runs: "Workflow initiated by non-human actor: github-actions (type: Bot)".
+Every dispatch in this chain is bot-initiated by design, so attempt 4 adds
+allowed_bots: "github-actions,github-actions[bot]" to the action inputs.
 
 This push fires canary-dispatch.yml -> N=1 canary via workflow_dispatch.
 This file and canary-dispatch.yml are deleted once the canary is verified.

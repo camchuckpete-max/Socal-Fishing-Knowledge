@@ -86,6 +86,10 @@ jobs:
           # needs id-token:write + the Claude GitHub App (canary attempt 2
           # failed there). The orchestrator only uses git via Bash.
           github_token: ${{ github.token }}
+          # Every dispatch in this chain is bot-initiated (canary helper,
+          # self-re-dispatch, trampoline on main) — the action rejects bot
+          # actors unless allowlisted (canary attempt 3 failed there).
+          allowed_bots: "github-actions,github-actions[bot]"
           prompt: |
             Read prompts/orchestrate-chunk.md and follow it exactly.
             CHUNK_SIZE=${{ inputs.chunk_size }}.
