@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE]
 confidence: high
 ---
 
@@ -105,6 +105,19 @@ out of the kelp and start biting **the moment the anchor is down** and the
 boat settles back onto the chum line. See
 [calico bass](../species/calico-bass.md) for the kelp-edge species routing
 this serves.
+
+**Observed** (Your Saltwater Guide, 2019-07-31, SoCal kelp stringer —
+`zwNEhWtnBCE`; predates every other clip logged in this kelp-chum series, the
+earliest-dated data point yet found): working an isolated stringer of kelp
+with anchovy as chum/bait, calico bass struck before the bait had even fully
+hit the water — an immediate, aggressive bite right at the stringer. The same
+clip also showed a dead sardine draw a visible boil, with the presenter saying
+he wanted to see if the bass would go for a live one next — the footage cuts
+away without confirming which bait, if either, was actually eaten on that
+pass. (A separate, later stretch of this same video has the presenter
+narrating his general routine — chumming with anchovy, then fly-lining a
+sardine or mackerel — but that's a description of his day-to-day method, not
+a report of this specific dead-sardine moment, so it isn't folded in here.)
 
 ## Prey density / feeding frenzy — artificial reefs (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; dave-hansen registered voice)
 
