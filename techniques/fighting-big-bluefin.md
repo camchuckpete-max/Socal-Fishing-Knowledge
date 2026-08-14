@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60]
 confidence: medium
 ---
 
@@ -77,6 +77,14 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
 - Keep the boat moving **down-swell for the entire fight**, not just at the
   gaff — down-swell travel is far easier to handle than sitting broadside in
   the trough, rocking.
+- **Observed** (StokedOnFishing, `rsCAh-QyK60`, 2017-06-06, ~40 mi off San
+  Diego, SoCal, aboard a 22 ft center console; unregistered channel — medium
+  confidence): fighting a big bluefin doing "giant circles," the crew's
+  on-camera framing was that a **smaller, maneuverable boat** (their 22 ft
+  center console) works a circling fish better than a **yacht or bigger
+  long-range boat**, which they characterized as "racing around" rather than
+  staying with the fish — a boat-class claim, logged beside (not folded
+  into) the down-swell-walk technique above.
 - The down-swell walk also keeps the fish's **head pointed up toward the
   surface** the whole time, rather than nose-down.
 - **Avoid the "death circle"** — letting the fish get its nose down and circle

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60]
 confidence: high
 ---
 
@@ -33,6 +33,27 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   splashing commotion draws the bite.
 - Keep the bite leader **short** so the hooked fish can be gapped at the boat —
   the harness note carries the leader length and wing-angle numbers.
+
+## Observed: kite height, distance, and troll speed (San Diego Bay / 40 mi off San Diego)
+
+**Observed** (StokedOnFishing, `rsCAh-QyK60`, 2017-06-06, launched from Shelter
+Island/San Diego Bay, fished roughly 40 mi off San Diego, SoCal, aboard a 22 ft
+center console (ASR renders this "center council") boat; unregistered channel
+— medium confidence):
+
+- **Kite height:** flown as high as possible while the crew can still see the
+  [flying fish](../rigging/flying-fish-harness.md) skipping on the surface —
+  called out on camera as "as far as you can still see that damn flyer," i.e.
+  bait visibility, not a fixed height figure, sets the ceiling.
+- **Kite distance from the boat:** ran **120–150 yd** out during this session;
+  the crew noted the distance shifts with **wind, drift, and the boat's
+  direction of travel** relative to how high the kite is set.
+- **Troll speed working the kited spread:** called out on the GPS as **8 mph**
+  (~7 kn) while trolling the flyer under the kite — the crew's own follow-up
+  conversion to knots is garbled on the audio ("6 knots... 6 and 12 knots,"
+  asr-uncertain), so read the mph figure as the more reliable number. In the
+  same range as the ~8.5 kt rubber-flyer troll speed logged below (a
+  different lure, same trolled-under-kite technique).
 
 ## Observed: building and running the kite line (Baja tournament)
 
