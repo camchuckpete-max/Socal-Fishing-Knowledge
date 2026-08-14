@@ -893,7 +893,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 8Asmd2H56Qk | Your Saltwater Guide | tutorial | skip:duplicate-of-sYrsPGXiYhI | skipped | same recording as BD rubber-band-rig video per analysis doc (sim 0.518, ASR variance) |
 | TLEhULOWj7g | Your Saltwater Guide | on-the-water | skip:no-usable-content | skipped | Facebook-live hookup chaos/shouting, no location or conditions detail, no doctrine |
 | xI9tPJFXbUM | Your Saltwater Guide | tutorial | deep | done | techniques/chunking.md; planning/search-and-glassing.md; conditions/current-structure.md / chum-bucket bow-not-stern rig (repeated doctrine, high), anchor-in-front-of-rock (repeated doctrine, high), w |
-| 9hEa3sGTh40 | Your Saltwater Guide | tutorial | deep | pending | Offshore prep: round bait tank placement, fathom/manual-mode fishfinder 0-120ft rule, VHF ch72/65 use, radio-misinformation warning |
+| 9hEa3sGTh40 | Your Saltwater Guide | tutorial | deep | done | bait/bait-tanks.md; planning/electronics-and-sounder.md; planning/fleet-intelligence.md (new); planning/day-plan-protocol.md; planning/search-and-glassing.md / new fleet-intelligence.md (VHF ch72/65 d |
 | zwNEhWtnBCE | Your Saltwater Guide | on-the-water | observations-only | pending | Calico-bass-on-bait catch footage; overlaps qv0QbLgp72o; heavy plug for paid website course (sponsor-heavy) |
 | 5FzBwvMtRP8 | Your Saltwater Guide | tutorial | single-pull | pending | Microfiber rag lure catches mackerel for bait tank; dont hand-touch mackerel (strips slime), flick off with butter knife |
 | AZ7N_nRmLnc | Your Saltwater Guide | on-the-water | skip:no-usable-content | skipped | Mislabeled tutorial; just wide-open dorado bite shouting, no fishfinder-reading content despite title |

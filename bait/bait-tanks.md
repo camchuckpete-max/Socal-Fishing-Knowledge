@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, BdRX4b8Fo5w, cameron, L_FD-UzvEio]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio]
 confidence: medium
 ---
 
@@ -40,6 +40,36 @@ it as big as the boat can carry — on a sportboat "the whole back of the boat
 is bait tank." The reason: tank capacity is what lets everyone keep changing
 bait as often as the bite demands (see the bait-changing cadence in
 [fishing live bait](fishing-live-bait.md)) without running out mid-day.
+
+**Same doctrine stated two years earlier, with the placement mechanism spelled
+out (dave-hansen, Your Saltwater Guide, 9hEa3sGTh40, 2019-08-20; registered
+voice — this predates BdRX4b8Fo5w above and is the earliest statement of the
+round/oval + dead-center rule in the corpus):** don't put the tank on the swim
+step or the back of the boat — it stops all flow on the boat, and with the
+tank aft only one angler at a time can reach it while everyone else's movement
+around the boat also stalls. Dead center of the cockpit is the right call on
+**any boat from 17 ft to 80 ft**.
+
+## Offshore bait budget — a floor, not a target
+
+There's no bait once you're offshore, so the tank has to leave the dock loaded
+for the whole trip, not just for the ride out. From the same earlier video
+(dave-hansen, Your Saltwater Guide, 9hEa3sGTh40, 2019-08-20; registered voice,
+single mention — medium confidence; the fixed number below is superseded as a
+day-by-day rule by the judgment call in "Judging load size at the barge"
+below, but the floor and the reasoning still stand as a sanity check):
+
+- **Take at least three scoops of bait every time you run offshore** —
+  whether the run is 40–50 miles or 100 miles off the beach. Asking the bait
+  barge for a half scoop before an offshore run is a mistake: bait gets used
+  to throw, to chum, and to fish with, and there's no topping off once you're
+  out there.
+- **Even a big tank runs dry.** On the captain's own sportboat the bait tank
+  holds 360 gallons and typically carries **~20 scoops of bait** — and the
+  boat still runs out some days. Burning through bait fast isn't a sign of
+  doing it wrong; offshore tuna fishing goes through a large amount of bait
+  between chumming and fishing it, so load for that rather than against a
+  "that should be enough" instinct.
 
 ## Sizing flow to volume (GPH-to-gallons)
 

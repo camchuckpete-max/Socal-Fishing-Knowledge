@@ -10,8 +10,10 @@ confidence: high
 How to actually look for offshore fish, and how to anchor once you find the water.
 Search is the day's main labor — most offshore hours are spent glassing and
 running between glass stops, not fighting fish. This note owns the *method*; what
-the birds mean is in [bird reading](../conditions/bird-reading.md), and how to
-read the meter is in [electronics and sounder](electronics-and-sounder.md).
+the birds mean is in [bird reading](../conditions/bird-reading.md), how to
+read the meter is in [electronics and sounder](electronics-and-sounder.md), and
+how to weigh what the rest of the fleet is doing (VHF, AIS) is in
+[fleet intelligence](fleet-intelligence.md).
 
 ## The glassing protocol
 
@@ -168,6 +170,7 @@ current "should" carry everything astern.
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
+- [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [June–July](../seasonal/june-july.md)

@@ -52,6 +52,8 @@ navigate the whole KB.
 - [Electronics & sounder](electronics-and-sounder.md) — finding fish on the meter.
 - [Report reading & forecasting](report-reading-and-forecasting.md) — aging
   reports, advection, coverage bias.
+- [Fleet intelligence](fleet-intelligence.md) — reading VHF chatter and
+  fleet/AIS activity, and why they carry different trust.
 - [Species routers](../species/) — enter here to map situation → technique → gear.
 
 
@@ -66,6 +68,7 @@ navigate the whole KB.
 - [Current Structure](../conditions/current-structure.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
+- [Fleet Intelligence](fleet-intelligence.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)

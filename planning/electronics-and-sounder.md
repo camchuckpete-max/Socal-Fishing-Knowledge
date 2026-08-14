@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, Rf1HKJG-SDg, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, cameron]
 confidence: high
 ---
 
@@ -26,8 +26,10 @@ and report depth. Early flasher-era units incidentally showed fish on that
 same bottom-return signal, and as they were refined operators learned to tell
 species apart by how a mark flashed on the screen; the name never changed
 because finding depth was always the machine's core job (Capt. Dave Hansen,
-Your Saltwater Guide, Rf1HKJG-SDg, 2020-12-15; registered voice, single
-mention — medium confidence). Practically, this is also why fish don't mark
+Your Saltwater Guide, Rf1HKJG-SDg, 2020-12-15; the same fathometer/fathoms
+etymology is given, in briefer form, over a year earlier — 9hEa3sGTh40,
+2019-08-20 — registered voice, now repeated across two Your Saltwater Guide
+videos: **high** confidence on the core etymology). Practically, this is also why fish don't mark
 uniformly across a passing sounder — they concentrate on the **high spots**
 (banks, rocks, seamounts) described in
 [zone lexicon](../locations/zone-lexicon.md), not open flat bottom.
@@ -64,11 +66,26 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   hunting for a bottom that's far deeper than that and the shallow marks
   never paint (Dave Hansen, Your Saltwater Guide, SgF5hRlEGqU, 2022-02-27).
   See [yellowfin tuna](../species/yellowfin-tuna.md) for the dolphin-pod sign
-  this pairs with. The core "run manual, not auto" rule repeats across two
-  separate Dave Hansen/Your Saltwater Guide videos (SgF5hRlEGqU and
-  FEXgl0eQCa8 below) — registered voice, repeated doctrine, **high**
+  this pairs with. The core "run manual, not auto" rule repeats across three
+  separate Dave Hansen/Your Saltwater Guide videos (9hEa3sGTh40, SgF5hRlEGqU,
+  and FEXgl0eQCa8 below) — registered voice, repeated doctrine, **high**
   confidence on that core rule; the specific 0–150 ft window stays a
   scenario-specific parameter.
+
+- **Why private boats stay shallow-range, and what the payoff looks like.**
+  Hansen's earliest statement of the manual-range rule (9hEa3sGTh40,
+  2019-08-20) gives the reasoning and the default range: a private boat
+  doesn't have the bait budget to hold and chum a school up from depth the
+  way a sportboat can ("they can look at fish at 30 fathoms and set on it
+  long enough... the fish will come up" — private boats can't sustain that),
+  so there's no point reading anything deeper than the top of the water
+  column. Working range on manual: **0–120 ft on older machines, 0–150 ft on
+  newer ones** — the same range regardless of how deep the actual bottom is
+  (e.g. 209 or 181 fathoms at the offshore banks, see
+  [zone lexicon](../locations/zone-lexicon.md)). The payoff is legibility: at
+  that manual range a school of tuna paints as a large, distinct
+  upside-down-U-shaped mark; left on auto with the bottom set to the real
+  (much deeper) depth, the same school shrinks to a barely visible speck.
 
 - **Size manual range so the bottom sits mid-screen, not at the edge.**
   Dave Hansen's baseline method: whatever the actual depth, pick a manual
@@ -145,6 +162,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
+- [Fleet Intelligence](fleet-intelligence.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

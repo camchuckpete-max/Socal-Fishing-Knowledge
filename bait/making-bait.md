@@ -128,4 +128,5 @@ shortages, where the barge isn't an option.
 
 - [Bait Tanks](bait-tanks.md)
 - [Fishing Live Bait](fishing-live-bait.md)
+- [Fleet Intelligence](../planning/fleet-intelligence.md)
 <!-- backlinks:end -->
