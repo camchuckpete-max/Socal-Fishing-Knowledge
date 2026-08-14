@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o]
 confidence: high
 ---
 
@@ -96,6 +96,28 @@ the reverse map in **Linked from** below.
   angler is alerted to a bite rather than actively working the retrieve —
   kept side by side, attributed, not reconciled with the "wind as fast as you
   can" doctrine.
+- **On-camera two-partial-crank-then-full-wind cadence (Observed,
+  StokedOnFishing, aired 2015-01-18, San Benito Island, Baja —
+  `SH7zOA9ZF3o`, "Top Gun 80 Offshore Grand Slam, Part 2," aboard the Top Gun
+  80 out of H&M Landing, San Diego; speaker not unambiguously identified on
+  camera (captain Bobby Tapp/Taft or host Shay McI — both narrate elsewhere
+  in this episode); unregistered channel — medium confidence):** on-camera
+  narration walked guests through yo-yoing a **Salas 6X Jr** (captioned
+  "little Sal 6X Junior," consistent with the Salas 6X Jr already documented
+  in this note) as: free-spool the iron **all the way to the bottom**, crank
+  hard ("reel like the devil") **about halfway up**, throw the reel **out
+  of gear** and let it fall straight back to the bottom, crank hard **about
+  halfway up again**, let it fall straight back to the bottom a second
+  time, then **reel it all the way back up** to finish the cycle — a
+  further cadence variant kept side by side with, not reconciled into, the
+  continuous full-speed-to-the-top doctrine above and Hansen's
+  crank-then-freespool cycles: two partial half-depth cranks off the
+  bottom before a full wind to the surface, rather than a fixed crank
+  count or a tight near-bottom band. No jig weight beyond "little," color,
+  or drop depth given. Same session's bite worked bait, surface iron, and
+  yo-yo jig simultaneously — see
+  [yellowtail](../species/yellowtail.md#where--when) for the location
+  detail.
 - **Downsize to match small bait (Baja/Cedros, attributed):** when fish are
   keyed on small forage — **red crabs, small sardines** — one Cedros Island
   angler drops to smaller/lighter yo-yo jigs (a brass-finish yo-yo iron among

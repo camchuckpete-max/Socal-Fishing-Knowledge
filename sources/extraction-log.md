@@ -1126,7 +1126,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | skRo1z41Dnc | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/dorado.md / Observed blocks added: whale-associated tuna sign, breezer holding bluefin-then-dorado ~2 days apart, four-species day; evaluator hedged an ASR-ambiguous c |
 | AfZoeSu_9hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt1 |
 | 27MMQGRIrpw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt2 |
-| SH7zOA9ZF3o | StokedOnFishing | on-the-water | parameter-skim | pending | San Diego/Bonita Isl yellowtail; yo-yo iron cadence explained step-by-step; fish-dive-to-structure note; series pt2 |
+| SH7zOA9ZF3o | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/yo-yo-iron.md / San Benito Island structure/kelp break-off corroboration and two-partial-crank-then-full-wind yo-yo cadence added; evaluator fixed a bare upload-date- |
 | pk2blktDQ9Y | StokedOnFishing | on-the-water | parameter-skim | pending | San Diego to Baja banks (long range); leader-test ladder by fish size, kite/squid double-hook rig, bait-care; series pt1 |
 | Fq4aRI3YrKE | StokedOnFishing | on-the-water | observations-only | pending | Baja banks long-range tuna; fish-fight footage/personal-best chatter, no rigging detail; series pt2 |
 | UuyqTE21-kc | StokedOnFishing | on-the-water | single-pull | pending | Baja the ridge; balloon-suspended flyer-bait downwind technique for tuna/marlin; series pt3 |

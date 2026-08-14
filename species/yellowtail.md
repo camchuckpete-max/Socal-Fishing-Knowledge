@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o]
 confidence: high
 ---
 
@@ -931,6 +931,28 @@ typical-year mapping.
   above (a hooked yellowtail there ran straight into the rocks and was
   lost; separately, at Rose Island/Dondo Ridge nearby, several anglers on
   lighter line lost fish in the shallow, rocky water).
+- **Observed** (StokedOnFishing, aired 2015-01-18, San Benito Island, Baja —
+  `SH7zOA9ZF3o`, "Top Gun 80 Offshore Grand Slam, Part 2," continuing the
+  multi-day trip logged in the `skRo1z41Dnc` part-1 entry (aired 2015-01-17,
+  see [bluefin tuna](bluefin-tuna.md#finding-them-sign--sonar) and
+  [dorado](dorado.md#where--when)), whose own on-camera opening frames the
+  trip as summertime, not January — air date, not shoot date; aboard the
+  **Top Gun 80** out of H&M Landing, San Diego; captioned on camera as "San
+  Bonitas Island"/"Bonito Island" — ASR variant, read as San Benito Island
+  given the boat's multi-day San Diego route and consistency with the
+  "Yellow Tail triangle" already documented above; unregistered channel —
+  medium confidence): crew narration on a hooked, deep-diving yellowtail
+  generalized the break-off risk beyond kelp specifically — "every once in
+  a while these things go deep and they rock you... they're looking for
+  anything that's structure, a piece of weed, anything to rock you off
+  on" — and a hooked fish did in fact rock off this way on camera.
+  Corroborates, not new beyond, the kelp/rock line-cutoff risk already
+  logged above for this same triangle (the `9D3Oiy0ASzg` and Chester's Rock
+  entries). The same session's yellowtail bit on **bait, surface iron, and
+  the yo-yo jig** through most of the day — corroborating the
+  three-faces/three-outfits stacking doctrine in **Doctrine & conflicts**
+  below; yo-yo cadence detail from this session is logged in
+  [yo-yo iron](../techniques/yo-yo-iron.md).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the
