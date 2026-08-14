@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4]
 confidence: high
 ---
 
@@ -195,6 +195,26 @@ typical-year mapping.
   fish, but it confirms yo-yo iron working alongside surface iron and bait
   on this trip. No landed weights given on camera. Unregistered channel —
   medium confidence.
+  **Observed** (StokedOnFishing, 2017-04-07 upload, Cedros Island, Baja —
+  `RPSRH0jwyw4`, "Cedros Island Goes Off!!!, Part 2"; continuation of the
+  `wdbqTio1SQU` "Part 1" trip above — after rounding the West End for
+  calico bass, see the [calico bass](calico-bass.md) Cedros entry, the crew
+  returned to the front side and rejoined the rest of the group): the group
+  went "bendo" on multiple home-guard yellowtail, including doubles. One
+  angler, mid-fight on a big fish, was coached on camera to "keep that loose
+  drag" — consistent with, not a new mechanism beyond, the loose-vs-
+  tightened-drag theme already logged in the `_C8w6zeVPak` entry above. That
+  fish — called "my biggest ever" on camera by the angler fighting it —
+  required three gaff attempts — the first two missed, with the crew
+  remarking the gaff needed sharpening — before it was
+  gaffed and finished with a tail rope; see [gaffing](../fish-care/gaffing.md)
+  for the landing-mechanics entry this feeds. Separately, a **30-plus lb
+  yellowtail** was landed on [surface iron](../techniques/surface-iron.md)
+  to close out the day, contrasted on camera with an earlier strike "on the
+  iron on the bottom" (a yo-yo iron take) that was lost boatside — the crew
+  speculated on camera, without confirming, that a grouper may have taken
+  the hooked fish in the structure. Unregistered channel — medium
+  confidence.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4]
 confidence: high
 ---
 
@@ -174,6 +174,18 @@ you read the *current across the kelp*, not the tide clock.
   Chester's Rock**; they relocated to the lee of another island near Rose
   Island/Dondo Ridge (place names ASR-uncertain) for the afternoon and
   found more calico there with a light current and working birds.
+  Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2017-04-07 upload, West End of Cedros
+  Island, Baja — `RPSRH0jwyw4`, "Cedros Island Goes Off!!!, Part 2";
+  continuation of the same trip as the `wdbqTio1SQU` "Part 1" entry in the
+  [yellowtail](yellowtail.md) note): the crew worked around the island's
+  West End — nicknamed "Jurassic Park" on camera — a stretch the boat said
+  it had essentially never fished before and gets around only rarely because
+  of the wind; the calico bass there were called untouched, "haven't seen
+  lures in months." The stop produced a fast, high-volume bite with repeated
+  doubles; individual fish called out included a "nice five-pounder" (named
+  the best calico of that stretch) and a separate, bigger fish landed
+  earlier on a swimbait/plastic. No current or water-color detail given.
   Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)

@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [gaffing, boating-the-fish, tackle, safety, bluefin, yellowtail, dorado, halibut, white-seabass]
-sources: [I84uoay_jwQ, 8jC61LzQoxU]
+sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4]
 confidence: low
 ---
 
@@ -78,6 +78,18 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - **Keep your hands off the gaff until the last second.** Grab it only for
   the shot; otherwise stay hands-free to manage the line and leader as the
   hooked fish runs around the boat.
+
+## Observed — missed shots and a backup tail rope
+
+- **Observed** (StokedOnFishing, 2017-04-07 upload, Cedros Island, Baja —
+  `RPSRH0jwyw4`, "Cedros Island Goes Off!!!, Part 2"; unregistered channel —
+  medium confidence): landing a big [yellowtail](../species/yellowtail.md)
+  (see the Cedros Island entry there) took three gaff attempts — the first
+  two shots missed, with the crew remarking on camera that the gaff needed
+  sharpening — before connecting on the third; a **tail rope** was used
+  alongside the gaff to finish securing the fish. No further tail-rope
+  technique detail given. Kept beside, not merged into, this note's
+  Hansen-sourced doctrine above.
 
 ## Related
 
