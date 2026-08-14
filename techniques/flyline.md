@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, ftEvyfwjZFU]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc]
 confidence: medium
 ---
 
@@ -64,15 +64,6 @@ Pick the hook position for the swimming behavior you want:
   wind it in, flick it off, and grab a fresh one.
 - **Circle hooks:** hold the hook **high on the arch and press straight down**
   into the bait — holding it from the bottom leaves no gap and mangles the bait.
-- **Wire gauge by bait, sportboat sardine flyline for bluefin (Capt. Dave
-  Hansen, Your Saltwater Guide, ftEvyfwjZFU, 2021-06-08; dave-hansen
-  registered voice — `high` confidence):** flylining sportboat sardine for
-  bluefin, reach for a **4/0 thin-wire circle hook**, straight-tied — no
-  swivel, no bead — with a [San Diego jam](../rigging/essential-knots.md).
-  Thin wire specifically because a sardine, unlike a heartier mackerel,
-  "has a hard time swimming" a standard/heavier-gauge hook around
-  convincingly; fluorocarbon leader throughout, since bluefin "have so many
-  teeth" and will bite through anything lighter.
 
 ## Line sizing & bite guard for finicky tuna
 

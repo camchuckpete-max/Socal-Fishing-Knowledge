@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, ftEvyfwjZFU]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c]
 confidence: high
 ---
 
@@ -119,12 +119,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 
 - **Foamer:** beefed **jig-stick class** (backbone to lever a deep fish up), 50 lb
   mono top-shot for stretch *or* straight braid; [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md),
-  [surface iron](../lures/iron-jigs.md), small lead baits, and a soft-plastic
-  glide swimbait (Mad Eel class — see [soft-plastic
-  swimbaits](../lures/soft-plastic-swimbaits.md)). Popper/stickbait sizing
-  also tracks bluefin grade — a lighter pencil profile for smaller gray
-  bluefin, a wing/prop-tail stickbait for bigger gray bluefin (same lure
-  note).
+  [surface iron](../lures/iron-jigs.md), and small lead baits.
 - **Jig (day & night):** **100–130 lb-braid jig class / PE6–8**, short parabolic
   jigging rods; [knife jigs](../lures/knife-jigs.md) 150–500 g by depth and current.
 - **Kite / troll:** **150–200 lb class**, ~100 lb braid for capacity and less
@@ -225,7 +220,6 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
-- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Surface Iron](../techniques/surface-iron.md)

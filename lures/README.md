@@ -40,7 +40,6 @@ graph LR
   n10 --> n6
   n11 --> n4
   n11 --> n5
-  n11 --> n8
   n2 --> n6
   n3 --> n6
   n4 --> n11
@@ -54,7 +53,6 @@ graph LR
   n6 --> n7
   n6 --> n9
   n7 --> n6
-  n8 --> n11
   n9 --> n6
 ```
 <!-- mermaid:end -->
