@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4]
 confidence: high
 ---
 
@@ -106,6 +106,33 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [fighting a big bluefin — mola mola interference and a tail-wrapped fish
   broken off at the
   boat](../techniques/fighting-big-bluefin.md#mola-mola-sunfish-interference-and-a-tail-wrapped-fish-broken-off-at-the-boat).
+- **Observed** (StokedOnFishing, trip dated August 2024 — the most recent
+  August before the 2025-04-30 upload date, per on-camera "our annual trip
+  in August" (the intro's "last week" framing reads as recycled part-1
+  narration, not a literal date for this footage); video is part 2 of a
+  multi-part Cortez Bank series, day one of a 2.5-day charter aboard the
+  85 ft **El Dorado**, Captain TJ Will, out of **Long Beach** — `nQvJnfb5jQ4`,
+  "2.5 Days. 25 People. A Boat Full of Bluefin Tuna and Yellowtail";
+  unregistered channel — medium confidence): a different Cortez Bank trip
+  than the Constitution/San Diego trip logged above — this boat ran
+  **~90 mi off Long Beach** (vs. the ~110–115 mi from San Diego cited for
+  the Constitution trip) and anchored at the bank alongside a crowded fleet
+  ("northern boats... southern boats... middle boats," private and
+  commercial sport boats all on the spot). Bluefin and yellowtail bit
+  together on flylined sardines, stated tackle **25 lb test mono or
+  fluorocarbon leader to a #2 circle hook** — consistent with, not new
+  beyond, the flyline/circle-hook doctrine already logged. **Boat
+  positioning on the bank:** mid-trip the crew repositioned for "better
+  positioning," reading the bank's structure by watching where other boats
+  sat relative to a high spot and a drop-off, then working the **50–60
+  fathom edge** of that drop-off as the zone holding fish — moving onto
+  that line produced fish "right out the gate." A bigger-grade evening
+  ("Sundowner") bluefin bite produced a tough hookup-to-landing ratio on
+  light tackle, logged in [fighting a big
+  bluefin](../techniques/fighting-big-bluefin.md#tough-hookup-to-landing-ratio-on-40-lb-tackle-bigger-grade-bluefin-cortez-bank).
+  A kite-fished double-trouble sardine rig on this trip landed a big
+  yellowtail rather than bluefin — see [yellowtail](yellowtail.md) and
+  [double trouble rig](../rigging/double-trouble-rig.md).
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the

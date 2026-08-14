@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, live-bait, crimped-leader]
-sources: [UrEymGvZx00]
+sources: [UrEymGvZx00, nQvJnfb5jQ4]
 confidence: medium
 ---
 
@@ -38,6 +38,19 @@ right at the surface.
   as you would a flyline bait; collar-hook or shoulder-hook instead, so the baits
   plane out flat as they go out rather than tilting nose-up.
 
+**Observed** (StokedOnFishing, trip dated August 2024, Cortez Bank, SoCal —
+`nQvJnfb5jQ4`, "2.5 Days. 25 People. A Boat Full of Bluefin Tuna and
+Yellowtail," 2.5-day charter aboard the El Dorado; unregistered channel —
+medium confidence): the crew ran the double trouble under the kite with
+sardines **hooked in the back** (consistent with the collar/shoulder-hook,
+not nose-hook, doctrine above) and landed a big **yellowtail** on it rather
+than the bluefin this rig is typically aimed at — a crew member noted
+yellowtail "buy double trouble all the time." A line-class comment from the
+same session: **100 lb line was called easier for hooking the bigger fish
+being seen than 30 lb**, consistent with, not new beyond, the grade-based
+line-class table above. See [yellowtail](../species/yellowtail.md) for the
+full trip context.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=UrEymGvZx00
@@ -46,4 +59,5 @@ Video: https://www.youtube.com/watch?v=UrEymGvZx00
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

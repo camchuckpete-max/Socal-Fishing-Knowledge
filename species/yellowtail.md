@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4]
 confidence: high
 ---
 
@@ -133,6 +133,23 @@ typical-year mapping.
   for yellowtail (circle hooks for bluefin), corroborating, not new beyond,
   the circle-for-bluefin/J-for-yellowtail doctrine in
   [hooks](../tackle/hooks.md).
+  **Observed** (StokedOnFishing, trip dated August 2024 — the most recent
+  August before the 2025-04-30 upload date, per on-camera "our annual trip
+  in August"; video is part 2 of a multi-part Cortez Bank series, 2.5-day
+  charter aboard the 85 ft **El Dorado**, Captain TJ Will, out of **Long
+  Beach** (~90 mi run) — `nQvJnfb5jQ4`, "2.5 Days. 25 People. A Boat Full of
+  Bluefin Tuna and Yellowtail"; a different boat/departure port than the
+  Constitution/San Diego trip above, same bank; unregistered channel —
+  medium confidence): yellowtail and bluefin bit together on flylined
+  sardines (**25 lb test mono or fluorocarbon leader, #2 circle hook**),
+  anchored at the bank with boat positioning worked along a **50–60
+  fathom** edge/high-spot — full positioning detail in [bluefin
+  tuna](bluefin-tuna.md#where--when). Separately, a **kite-fished "double
+  trouble"** two-sardine rig — normally a bluefin presentation, see [kite
+  fishing](../techniques/kite-fishing.md) — landed a big yellowtail on this
+  trip rather than bluefin; full rig detail, the crew's "they buy double
+  trouble all the time" call, and the hooking/line-class notes are logged in
+  [double trouble rig](../rigging/double-trouble-rig.md).
 - **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
   San Diego, off Mexico; the western coast is exposed to colder Pacific
   currents and tidal swings, so the water stays bait-rich). "The Coronados are
@@ -779,6 +796,7 @@ water temp and bait depth before committing the day to one face.
 - [California Halibut](california-halibut.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
+- [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
@@ -791,6 +809,7 @@ water temp and bait depth before committing the day to one face.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

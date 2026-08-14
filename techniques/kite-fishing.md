@@ -158,4 +158,5 @@ trigger to speed-troll once the kite won't fly. See
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Speed Trolling](speed-trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

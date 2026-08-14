@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4]
 confidence: medium
 ---
 
@@ -286,6 +286,26 @@ depredation pattern above.
   the angler's "number one jig" from **West Coast Jiggerz**, was lost with
   it. The crew again blamed a mola mola for harassing the fish through the
   fight, calling it out as a factor on "the last two fish" of the session.
+
+## Tough hookup-to-landing ratio on 40 lb tackle, bigger-grade bluefin (Cortez Bank)
+
+**Observed** (StokedOnFishing, trip dated August 2024 — the most recent
+August before the 2025-04-30 upload date, per on-camera "our annual trip in
+August"; video is part 2 of a multi-part Cortez Bank series, day one of a
+2.5-day charter aboard the 85 ft El Dorado, Captain TJ Will, out of Long
+Beach — `nQvJnfb5jQ4`, "2.5 Days. 25 People. A Boat Full of Bluefin Tuna and
+Yellowtail"; unregistered channel — medium confidence): during an evening
+("Sundowner") bite on bigger-grade bluefin, the crew estimated they had
+**hooked about six of those big ones and landed one**, fishing **40 lb line
+class with a tiny circle hook** — called out live as "really tough." One
+specific loss after a long fight was attributed to the hook pulling free;
+looking at the hook afterward, the crew's read on camera was that it "shot
+through" the 40 lb and wasn't seated right, describing the hook area as
+looking like "a firecracker went off" — kept beside, not merged into, the
+small-hook-pulled-from-a-big-fish pattern already logged in the East Cape
+entries above (same failure mode, different region and gear program).
+Fishing method for this session (kite vs. flyline) is not clearly resolved
+on camera.
 
 ## Common failures
 
