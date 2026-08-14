@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM]
+tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw]
 confidence: high
 ---
 
@@ -67,6 +67,19 @@ dirt to ambush against the structure. Same author, both statements: encode
 **parallel as the prior, into-beach as a viable late-fall / off-color state,
 off-beach as dead.** This is a real seasonal nuance, not an error. See also
 [island structure](../locations/island-structure.md).
+
+## Kelp-bed corner selection by current direction (Dave Hansen, Your Saltwater Guide, `kzD0kSnnVPw`, 2019-04-07; registered voice, single mention on this specific framing — medium confidence)
+
+At a named kelp bed (his examples: San Onofre, Point Loma, La Jolla, San
+Clemente Island, Catalina), check which way the current is running at that
+spot before picking where on the bed to fish: **current running downhill →
+work the northwest corner of the kelp; current running uphill → work the
+southeast corner.** He frames this as where the bigger fish in the bed will
+be sitting, and says the same downhill/uphill-corner logic carries over to
+rock structure as well. This is a corner-level refinement of the up-current
+bias already covered above ("bias toward the up-current face under whatever
+current vector is running that day") — same mechanism, a specific compass
+answer at these named SoCal spots.
 
 ## Wind direction as a per-spot selection cue (Dave Hansen inferred, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice, single mention on this specific framing — medium confidence)
 
