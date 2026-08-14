@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM]
 confidence: medium
 ---
 
@@ -118,6 +118,34 @@ isn't yet repeated doctrine).
 - On butt- or belly-hooked baits, **keep tension** the moment it lands: a little
   pull makes the bait swim away from you like a propeller. Give it slack and it
   turns and swims right back under the boat.
+
+## SoCal offshore mackerel flyline rig — straight fluoro, San Diego jam (Dave Hansen)
+
+Capt. Dave Hansen, Your Saltwater Guide (`RbqOKkINSCM`, 2021-05-25). dave-hansen
+is a registered voice — `high` confidence. **Region:** SoCal offshore
+(outside San Clemente Island in to the beach, per this video), bluefin on a
+private boat.
+
+- **The rig, stripped to the minimum:** a **thick-wire Mustad circle hook**
+  (sizing by bait — see [hooks](../tackle/hooks.md)) tied straight to about
+  **3–4 ft of 80 lb fluorocarbon** with a San Diego jam knot — **no weight, no
+  swivel, no beads**, hook-to-fluoro-to-main-line and nothing else in line.
+  Bait is **mackerel**, nose-hooked, thrown right into the foamer.
+- **Why the leader is kept short:** deliberately not "some big long giant
+  piece" — a long leader puts the knot up past the tip guide, where it can
+  hang up on the cast; keeping the San Diego jam close to the rod tip avoids
+  that.
+- **Straighten the fluoro before tying:** fluorocarbon comes off the spool
+  twisted; warm it by rubbing it between your fingers before tying to take
+  the kink out so the knot seats cleanly.
+- **Kept side by side, not reconciled, with the thinner-line finicky-bite
+  philosophy above (Cesar / Ray Sharifi — 20–30 lb mono top shot to a fluoro
+  bite guard):** this is a straight **80 lb** fluorocarbon fly line with no
+  mono top shot at all, fished on **mackerel** rather than sardine — a
+  heavier, simpler big-bait rig for a boat-side foamer bite, not a
+  finicky-bite downsizing rig. Bait and situation differ, so this isn't a
+  contradiction to reconcile, just a second data point on the range of
+  SoCal bluefin flyline rigs.
 
 ## Baja mangrove structure-casting — precision bait placement (Mag Bay)
 

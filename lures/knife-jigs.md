@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg, RbqOKkINSCM]
 confidence: high
 ---
 
@@ -194,6 +194,22 @@ Which species and situation calls for each is routed from the species notes —
   were triggering more night bites than other colors fished the same night.
   Kept as a separate attributed data point alongside the glow-level guidance
   above rather than merged into it.
+- **Natural-color preference, and a lifetime-diving argument against glow
+  (Capt. Dave Hansen, Your Saltwater Guide, RbqOKkINSCM, 2021-05-25;
+  dave-hansen registered voice — `high` confidence):** on a flat-fall rigged
+  for bluefin marked down deep, his stated favorite color imitates **red
+  crabs**; day-to-day he leans toward **reds, silvers, and blues in daylight,
+  reds at night** because he believes that's closer to what the fish are
+  actually eating. He explicitly frames the popular "glow in the dark works
+  best" claim as **angler-confidence marketing, not a proven fish
+  preference** — after a lifetime of diving he says he's "never seen
+  anything glowing in the dark," and reasons glow sells because glow is what
+  most anglers already fish, not the reverse. **Judgment, stated
+  explicitly:** if everyone else on the boat is getting bit on glow, he'll
+  switch to glow — reading the boat's actual bite beats a fixed color
+  theory. This corroborates, from a second registered voice, the
+  "mostly angler confidence" framing above rather than the specific
+  mechanism/color claims.
 
 ## Owned examples
 

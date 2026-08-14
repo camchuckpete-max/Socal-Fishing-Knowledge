@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM]
 confidence: medium
 ---
 
@@ -181,6 +181,17 @@ fluoro leader, braid main line — and feed the terminal rigs in
   video is this single-pass tie, not the doubled-through-the-eye version
   described above — don't assume the name maps to the same mechanic across
   channels.
+  **Second corroboration of the "San Diego jam" naming (Dave Hansen, Your
+  Saltwater Guide, RbqOKkINSCM, 2021-05-25):** ties the identical single-pass
+  mechanic — loop it around the index finger, wrap **7 times**, feed through
+  the bottom hole and back out the top hole made with the index finger, wet
+  it, and slide it down — naming it "San Diego jam" again, on three separate
+  rigs in the same video (a mackerel flyline hook, a flat-fall, and a
+  popper). This is now the naming used in **two** of his videos
+  (`zVIfArUrpDI`, `RbqOKkINSCM`) against **one** using "fisherman's knot" /
+  "improved cinch knot" (`VsUUBICiBzQ`) for the same tie — strengthening,
+  not resolving, the naming split logged above; still kept side by side
+  rather than reconciled to one name.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.

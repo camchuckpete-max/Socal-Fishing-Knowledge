@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM]
 confidence: high
 ---
 
@@ -160,6 +160,19 @@ shot in [gaffing](../fish-care/gaffing.md).
   **transition water holds the bait**; in wind with no surface sign the fish
   **sound to 30–50 fathoms** and you need power on the meter to reach them; bird
   radar at 4–5 mi.
+- **Doctrine (high — Capt. Dave Hansen, Your Saltwater Guide, RbqOKkINSCM,
+  2021-05-25):** rig multiple rods **before** the bite starts, not after —
+  one pre-rigged with a flat-fall ([knife jigs](../lures/knife-jigs.md))
+  ready in the rod rack for when the captain calls fish marked down deep,
+  one with a popper ([tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md))
+  ready for foamers, and be ready to swap hooks over to livebait rigging if
+  the fleet turns to bait. He normally prefers J hooks but switches to
+  **circle hooks specifically for big bluefin** — their teeth saw through
+  the leader, so a circle's corner-of-the-mouth hookset keeps the leader out
+  of their teeth (mechanism and mackerel-bait hook sizing in
+  [hooks](../tackle/hooks.md)); the accompanying mackerel flyline rig — a
+  San Diego jam knot, no weight or swivel, ~3–4 ft of 80 lb straight
+  fluorocarbon — is in [flyline](../techniques/flyline.md).
 - **Cameron (attributed — on-water observation, not doctrine):**
   - **Foamer program summary:** run-and-gun at working terns, **~2–3 casts per
     school**, smaller presentation (Colt-Sniper class) has out-fished bigger,

@@ -850,7 +850,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 8jC61LzQoxU | Your Saltwater Guide | tutorial | deep | done | techniques/fighting-big-bluefin.md (new); fish-care/gaffing.md; fish-care/tuna-care.md; species/bluefin-tuna.md / new technique note: fight mechanics (gear-tap, down-swell walk, death-circle avoidance |
 | bsbL7JeKxMo | Your Saltwater Guide | tutorial | skip:duplicate-of-8jC61LzQoxU | skipped | confirmed: identical script/duration(5:53) to primary fight-giant-bluefin video |
 | ftEvyfwjZFU | Your Saltwater Guide | tutorial | deep | escalated | escalated: guard: protected path touched: sources/source-registry.md |
-| RbqOKkINSCM | Your Saltwater Guide | tutorial | deep | pending | Fly-line rig (San Diego jam, no weight/swivel, short fluoro), flat-fall/popper rig choice by mark depth, circle-hook rationale |
+| RbqOKkINSCM | Your Saltwater Guide | tutorial | deep | done | lures/knife-jigs.md; rigging/essential-knots.md; species/bluefin-tuna.md; tackle/hooks.md; techniques/flyline.md / Fly-line rig (San Diego jam), flat-fall/popper multi-rod pre-rig, circle-hook rationa |
 | 9qnQjPPT5yg | Your Saltwater Guide | promo | skip:promo | skipped | Product demo for patented PTO fighting-grip (22-degree angle mechanics); inventory/sales-pitch dominated |
 | scmPq63lLWM | Your Saltwater Guide | tutorial | parameter-skim | pending | SoCal red-crab-pattern flat-fall color/rig selection logic (Fishlab product-focused), San Diego jam knot repeat |
 | IMnoZVEYpm4 | Your Saltwater Guide | tutorial | single-pull | pending | longer YSG cut (442s) of BD hooks video m2q22sPPkEM (328s): extract ONLY tail content beyond the BD cut |

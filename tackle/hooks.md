@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM]
 confidence: medium
 ---
 
@@ -42,6 +42,21 @@ logic behind them.
   the mouth**, which also keeps the leader off the tuna's teeth and away from
   a bite-off — the offset framed as the reason it holds up better there than
   a straight J, on top of the general self-hooking behavior above.
+  **Corroborating (Capt. Dave Hansen, Your Saltwater Guide, RbqOKkINSCM,
+  2021-05-25; dave-hansen registered voice — `high` confidence, repeated
+  doctrine):** states he normally prefers J hooks ("if you've been to my
+  seminars before... I like to use J-hooks") but switches to circle
+  specifically for big bluefin, because **bluefin have a lot of teeth**
+  (unlike yellowfin) and will **saw through the leader** — the circle hook's
+  corner-of-the-mouth hookset keeps the leader out of the teeth, the same
+  bite-off mechanism Ray Sharifi describes above.
+  **Bait-matched hook sizing for a mackerel flyline bait, same source:**
+  fishing **mackerel** for bait on a private boat, he rigs **thick-wire
+  Mustad circle hooks** in **8/0**, **6/0**, and **4/0** — noticeably larger
+  than the 1/0–2/0 sardine-bait circle-hook sizing logged elsewhere in this
+  note, consistent with the bait-sets-the-size rule (bigger mackerel bait
+  takes a bigger hook) and with thick wire for a bigger, heavier bait per the
+  wire-gauge rule below.
 - **At the smallest hook sizes, J can beat circle (Cesar, Eric's Tackle, via
   Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered
   voice, single mention; not yet repeated doctrine):** comparing a small circle hook against a small J hook of
