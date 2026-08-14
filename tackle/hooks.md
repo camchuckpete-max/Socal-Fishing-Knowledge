@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI]
 confidence: medium
 ---
 
@@ -56,6 +56,19 @@ logic behind them.
   these small sizes, a **3 count** is enough before putting it in gear; you're
   setting the hook into the corner of the mouth directly rather than waiting
   on the circle's self-hooking mechanism.
+- **Why circle for rockfish specifically, on a charter (Dave Hansen, Your
+  Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen registered voice,
+  single mention of this specific rationale — medium confidence):** on a
+  rockfish [dropper-loop
+  gangion](../techniques/dropper-loop.md#rock-cod-quick-gangion-dave-hansen-build)
+  he runs circle hooks specifically because **most of his clients can't feel
+  the bite**, and by the time they do and swing on it, the fish has already
+  come off — the circle hook lets the fish hook itself so the angler only has
+  to wind, matching the self-hooking behavior in the table above. He
+  frames the choice as "goes against everything I stand for," implying a
+  personal J-hook preference elsewhere that he sets aside here to compensate
+  for client skill level rather than for a fish-behavior reason — a
+  judgment call about the angler, not the target.
 - **Ringed vs. non-ringed hook (Cesar, Eric's Tackle, 48ZFXnCTTQE, 2023-11-01;
   `medium` confidence — registered voice, single mention):** a ringed hook is fine to tie straight to, but a
   non-ring hook isn't a problem either — tie it with a

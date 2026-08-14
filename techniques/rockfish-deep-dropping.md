@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI]
 confidence: high
 ---
 
@@ -61,6 +61,32 @@ weight, and reading the meter; the reverse map of species is in **Linked from**.
   ling, drop straight back to the bottom and start hopping again — they'll chase
   it back down and re-eat.
 
+## Line class and spooling (Dave Hansen)
+
+A second, independently attributed line-class figure for the same problem
+(Dave Hansen, Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen
+registered voice, single mention — medium confidence), for a **rock-cod
+quick gangion** built and fished at **400–600 ft**:
+
+- **Fill the reel to the rim with braid.** A reel that isn't spooled full
+  reads as "out of line" once you're fishing — you want every inch of
+  capacity available for the drop and the fight.
+- **Line class by reel size:** **40 lb braid** on a smaller reel, **65 lb
+  braid** on a bigger reel — a different pairing from the **30 lb braid**
+  figure already logged above (a different captain, not the same channel
+  updating its own doctrine); preserved side by side rather than reconciled.
+  He notes 40 lb braid is already hard to break by hand — a break-off on
+  40 lb reads as a genuine snag, not an undersized line problem.
+- **Why braid over mono at this depth (mechanism):** monofilament "has a
+  tendency to want to float," so at 400–600 ft it won't get a bait straight
+  down to the fish fast enough — and the spots fished are often very small, so
+  a slow, scoped drop can miss the zone entirely on the drift. See
+  [line & leader](../tackle/line-and-leader.md#when-braid--and-how-heavy) for
+  the general braid-vs-mono buoyancy breakdown this sits alongside.
+- **No hookset on the bite** — consistent with the slow-steady-wind retrieve
+  already logged above (U-dGRQ0X-Mc): on a self-hooking circle hook, you
+  don't swing, you just turn the handle and wind up the fish.
+
 ## Reading the meter (Furuno bottom discrimination)
 
 - Approach the spot on the chartplotter, flip on the sonar, and idle onto the
@@ -92,6 +118,7 @@ weight, and reading the meter; the reverse map of species is in **Linked from**.
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dropper Loop](dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](sliding-sinker.md)

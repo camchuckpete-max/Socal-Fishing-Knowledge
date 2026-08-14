@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI]
 confidence: medium
 ---
 
@@ -42,6 +42,15 @@ Braid is the main line on essentially every SoCal setup. Choosing the class
   the job allows: mostly **30 or 50 lb**, up to **65** on a jig stick, **65–80**
   for casting at 100 lb-class bluefin. **Below 30 lb** braid gets too thin for a
   baitcaster (fine on a spinning reel).
+- **Braid over mono as the main line for deep bottom fishing (Dave Hansen,
+  Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen registered
+  voice, single mention — medium confidence):** for a rockfish quick gangion fished at
+  **400–600 ft**, spool with braid, not mono — mono "has a tendency to want
+  to float," so it won't get a bait straight down to the fish fast enough,
+  and the small target spots typical of rockfish grounds punish a slow,
+  scoped drop. Fill the reel **all the way to the rim** so there's no
+  capacity shortfall on the drop or the fight. Line-class and rig detail in
+  [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md#line-class-and-spooling-dave-hansen).
 - **Thinner braid sinks faster.** On tuna gear, an 80 lb braid sinks faster than
   100 lb for the same reason it scopes less — less diameter, less drag (Cameron;
   see [gear classes](gear-classes.md) line-class notes). Reach for the thinner
@@ -181,6 +190,7 @@ able to break off** (aXF0bxAFtU0):
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)

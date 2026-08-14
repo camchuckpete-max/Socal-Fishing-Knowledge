@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI]
 confidence: high
 ---
 
@@ -59,6 +59,48 @@ rig format, not a dropper loop (hook above a fixed-position sinker); it does
   hook riding above the knot. The double pin gives holding power because
   **rockfish short-bite**, and it keeps the bait on. Two baited hooks fishing
   vertically often come up **two fish at once**.
+
+## Rock-cod quick gangion (Dave Hansen build)
+
+A fast, hands-on-the-rail build for rockfish when the surface bite is off
+(Dave Hansen, Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen
+registered voice, single mention of this build — medium confidence).
+Captions render the rig name as "quick
+canyon" throughout — an ASR mishearing of the established term
+**gangion** (a leader with dropper-loop hooks), which is what he is
+demonstrably tying; not carried as a separate rig name.
+
+- **Sinker:** tie an **8 oz torpedo sinker** straight to the end of the main
+  line — no separate light-line breakaway is shown in this build, unlike the
+  **24 oz torpedo sinker on a 12–15 lb breakaway** figure already logged above
+  and in [rockfish deep-dropping](rockfish-deep-dropping.md); a different
+  captain, a lighter sinker, and a different depth range — preserved side by
+  side rather than reconciled to one weight.
+- **Loops:** tie **two dropper loops** into the leader above the sinker. His
+  tying method (paraphrased, not step-for-step — see the source video for the
+  visual): wrap the line around two fingers to form a loop, twist a second,
+  smaller loop into it with a half turn, then pass the standing big loop over
+  the top and through that hole to cinch — a fast, two-handed loop knot done
+  at the rail.
+- **Hooks:** tie a **circle hook** onto each loop using the same single-pass,
+  7-wrap tie he calls a "San Diego jam" in this video — see
+  [essential knots](../rigging/essential-knots.md) for the mechanic and the
+  naming flag (the same tie also attaches the sinker to the main line above).
+  One hook fishes low, one up top, matching the double-dropper convention
+  above. **Why circle hooks here specifically** — most of his charter clients
+  can't feel a rockfish bite in time to swing, so the circle hook is chosen to
+  self-hook the fish on the wind-up instead; see
+  [hooks](../tackle/hooks.md#circle-vs-j--the-core-decision-swrsycmt4tw-m2q22sppkem)
+  for the full rationale and his stated personal-preference caveat.
+- **Bait:** sardine, anchovy, or a strip of squid on the circle hook.
+- **Fishing it:** drop to the bottom (index finger on the spool, thumb on the
+  clicker/trigger controlling the fall), click into gear the instant it hits
+  bottom, and on the bite **don't set the hook — just turn the handle and
+  wind**, consistent with the slow-steady-wind retrieve already logged above
+  from this same presenter (U-dGRQ0X-Mc).
+- **Why braid, why filled to the rim:** built for **400–600 ft** rockfish
+  water — see [rockfish deep-dropping](rockfish-deep-dropping.md#line-class-and-spooling-dave-hansen)
+  for the line-class and spooling detail this same video gives.
 
 ## Fishing it — deadstick vs. work it
 

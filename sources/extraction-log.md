@@ -845,7 +845,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | VsUUBICiBzQ | Your Saltwater Guide | tutorial | parameter-skim | done | rigging/essential-knots.md / Improved-clinch (fisherman's knot) tying procedure merged: 7-wrap single-pass mechanic, retie-after-nearly-every-fish cadence (bluefin/calico/barracuda), attributed dave-h |
 | qihSsdqBU2A | Your Saltwater Guide | non-fishing | skip:no-usable-content | skipped | Entire transcript garbled nonsensical ASR, no recoverable content (light-line theory unrecoverable) |
 | 44pjBUn0nP8 | Your Saltwater Guide | on-the-water | skip:duplicate-of-wYeKJLoKo4g | skipped | confirmed: identical dialogue/duration(1:44) to primary yummy-flyer breezer clip |
-| zVIfArUrpDI | Your Saltwater Guide | tutorial | deep | pending | SoCal rockfish quick-canyon rig: San Diego jam knot, dropper loop x2, circle-hook rationale, braid-vs-mono choice |
+| zVIfArUrpDI | Your Saltwater Guide | tutorial | deep | done | rigging/essential-knots.md; tackle/hooks.md; tackle/line-and-leader.md; techniques/dropper-loop.md; techniques/rockfish-deep-dropping.md / San Diego jam update, rockfish circle-hook rationale, braid-v |
 | CrLDC4O8qS8 | Your Saltwater Guide | on-the-water | observations-only | pending | SoCal kelp-paddy catch footage (dorado/yellowtail); minimal doctrine beyond patty-scouting heuristic |
 | 8jC61LzQoxU | Your Saltwater Guide | tutorial | deep | pending | SoCal offshore bluefin fight doctrine: boat gear-tap, downswell drift, avoid death-circle, gaff timing (primary of bsbL7JeKxMo dup) |
 | bsbL7JeKxMo | Your Saltwater Guide | tutorial | skip:duplicate-of-8jC61LzQoxU | skipped | confirmed: identical script/duration(5:53) to primary fight-giant-bluefin video |

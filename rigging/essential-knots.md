@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI]
 confidence: medium
 ---
 
@@ -165,6 +165,22 @@ fluoro leader, braid main line — and feed the terminal rigs in
   "improved cinch knot" interchangeably for the same tie; no other Your
   Saltwater Guide knot video has been extracted yet to confirm whether that
   naming holds consistent across his channel.
+  **Update — the naming question resolves, but not the way expected (Dave
+  Hansen, Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen
+  registered voice, mechanic repeated across two of his videos — `high`
+  confidence on the mechanic):** tying a rockfish [dropper-loop
+  gangion](../techniques/dropper-loop.md#rock-cod-quick-gangion-dave-hansen-build),
+  he ties this identical single-pass, spin-7-times, through-the-bottom-loop
+  (which forms a top loop), back-through-the-top, cinch-and-trim mechanic —
+  used both to tie the sinker to the end of the main line and to tie circle
+  hooks onto the dropper loops — and this time names it explicitly **"San
+  Diego jam."** So the mechanic is consistent across his videos, but **his own
+  naming for it is not**: "fisherman's knot" / "improved cinch knot" in
+  VsUUBICiBzQ, "San Diego jam" here. Kept side by side rather than reconciled
+  to one name. Practical takeaway: a "San Diego jam" in a Your Saltwater Guide
+  video is this single-pass tie, not the doubled-through-the-eye version
+  described above — don't assume the name maps to the same mechanic across
+  channels.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -175,7 +191,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
 [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
-and [improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ).
+[improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ),
+and [rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI).
 
 <!-- backlinks:start -->
 ## Linked from
