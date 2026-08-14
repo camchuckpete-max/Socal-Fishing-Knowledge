@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM]
 confidence: medium
 ---
 
@@ -63,6 +63,14 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   of the water** — explicitly to keep the fish from rushing the stern and
   getting cut off on the props (this boat runs three outboards). From there
   the captain works the fish/boat by eye rather than on a fixed cue.
+- **Observed, second/independent corroboration** (StokedOnFishing,
+  `vCskOx6N-XM`, 2022-03-23 upload, Tanner Bank, SoCal, aboard Captain
+  Andrew's own boat (also triple-outboard rigged), a different trip/boat than
+  the entry above; unregistered channel — medium confidence): the same
+  outboards-up practice — trimming the (triple) outboards up once a
+  kite-hooked fish is being fought up-and-down near the boat, specifically
+  because the line can pass under the boat and the crew doesn't want it
+  caught in the props.
 
 ## Walk it down-swell, avoid the death circle
 
@@ -116,6 +124,21 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   hand-fought stretch once a fish comes straight up and down under the boat.
   Kept side by side, not reconciled: same operation, two different scopes
   for the same term.
+- **Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, trip
+  resolved to late October 2021, Tanner Bank, SoCal, aboard Captain Andrew's
+  own boat, Stoked On Fishing Charters; unregistered channel — medium
+  confidence): a third, independent rail-fight data point for the same
+  beltless, boat-leverage style logged above. Live coaching for anglers brand
+  new to bluefin: **kneel, rod butt under the left armpit, left hand on the
+  reel**, then time the crank to the swell — **hold still as the boat rises
+  on a swell, crank as it drops** — with the explicit rule that **even half a
+  crank on the way down still counts as gained line**. The crew separately
+  noted anglers don't need to lean into the fish to gain line, just crank
+  with the swell, but with a heavier-than-usual swell running that day
+  coached anglers to pace themselves and **save energy** rather than force
+  it. Consistent with, not new beyond, the squat-and-stand/wind-on-the-
+  down-swell mechanic already logged above, this time with a kneeling
+  posture and the explicit half-crank-still-counts framing.
 - **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
   California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
   unregistered channel — medium confidence): a contrasting, hand-fought data

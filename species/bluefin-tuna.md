@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM]
 confidence: high
 ---
 
@@ -350,6 +350,27 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   the several days prior, describing the pattern as fish **coming back from
   the islands and picking off a handful at a time** rather than showing as
   one large body — called "pretty typical" on camera for that stretch.
+- **Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, trip framed
+  on camera as "this past year... late october" (resolved from the upload
+  date to **late October 2021**), Tanner Bank, SoCal — "West Coast Bluefin -
+  Spreader Bar and Kite Fishing with Stoked On Fishing Charters," a day
+  charter aboard Captain Andrew's own boat (Stoked On Fishing Charters,
+  triple-outboard rigged — distinct from the larger 85 ft sportboats in the
+  other Tanner/Cortez entries above); unregistered channel — medium
+  confidence): a group entirely new to bluefin fishing ran **2.5–3 hours**
+  out to Tanner Bank (crew called the return leg alone **over 100 mi**) and
+  landed multiple **100 lb+** bluefin in a day. The captain's stated program: **troll
+  spreader bars to cover ground and search** until the sounder is marking
+  good numbers of fish, **then stop and fish a dead flying fish under the
+  kite in the drift** over those marks — framed on camera as still an
+  extension of the search ("it's almost like you're searching still...
+  surging while we're fishing"). Selection-logic detail (the captain's
+  stated preference for kite over spreader bar once fish are located) is
+  logged in [bluefin trolling](bluefin-trolling.md); rigging and fight
+  detail from the same trip are logged in
+  [kite fishing](../techniques/kite-fishing.md),
+  [flying fish harness](../rigging/flying-fish-harness.md), and
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the

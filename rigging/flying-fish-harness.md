@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM]
 confidence: medium
 ---
 
@@ -95,6 +95,27 @@ inferred attribution; dave-hansen is a registered voice, `high` confidence).
   harnessed flyer above is for the dead-boat, drift-fished presentation over
   fish that are already located. Full wind-based decision logic between the
   two: [kite fishing](../techniques/kite-fishing.md#trolled-rubber-flyer-vs-dead-boat-dead-flyer-a-wind-driven-choice).
+
+## Artificial alternative — reusable slide-up lure ("California Flyer")
+
+**Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, Tanner Bank,
+SoCal, aboard Captain Andrew's own boat, Stoked On Fishing Charters;
+unregistered channel — medium confidence, **product/brand claim low**): a
+third flyer option this crew carried alongside dead ("frozen") flying fish
+and spreader bars — a hard-bodied artificial called the **"California
+Flyer,"** fished dead-boat/drifted under the kite rather than trolled
+(distinct from the trolled rubber "Yummy Flyer" logged above). Design point,
+kept at medium: on a hookup the lure **slides up the leader away from the
+fish's mouth**, so it isn't damaged by the fish and can be **reused** rather
+than replaced outright; the **wings are replaceable** on their own (the crew
+carried a spare pack) instead of needing a whole new lure. Late in the video
+the captain plugs his own new lure business, "Cali Made Lures," specifically
+for **spreader bars** (contact given on camera) — not explicitly reconnected
+on the audio to the California Flyer itself, though the name overlap is
+suggestive; either way, **any such brand/product claim is promotional and
+treated as `low`** per the sponsored-claim rule — only the
+slide-up/reusable/replaceable-wing mechanism above is logged as a knowledge
+point.
 
 ## Rig it
 

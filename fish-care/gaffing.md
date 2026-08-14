@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [gaffing, boating-the-fish, tackle, safety, bluefin, yellowtail, dorado, halibut, white-seabass]
-sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4]
+sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4, vCskOx6N-XM]
 confidence: low
 ---
 
@@ -90,6 +90,17 @@ construction claims are promotional and omitted entirely), 2022-03-14
   alongside the gaff to finish securing the fish. No further tail-rope
   technique detail given. Kept beside, not merged into, this note's
   Hansen-sourced doctrine above.
+- **Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, Tanner
+  Bank, SoCal, aboard Captain Andrew's own boat, Stoked On Fishing Charters;
+  unregistered channel — medium confidence): on the trip's last big bluefin,
+  the gaff shot contacted the fishing line during the stick ("I hit the line
+  with the gaff, it came off"), but the crew got the fish secured before it
+  could get away (audio unclear on the exact save — asr-uncertain). Once
+  boated, the crew checked whether the line had parted — it hadn't; the
+  **hook had simply pulled free of the fish's mouth**, meaning the gaff
+  connection, not the hook, was what had actually kept the fish attached by
+  that point. Logged as a case for why a solid gaff shot matters independent
+  of hook hold — kept beside, not merged into, the missed-shots entry above.
 
 ## Related
 

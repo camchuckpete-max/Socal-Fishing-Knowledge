@@ -1080,7 +1080,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | fDSd9kqwYW0 | StokedOnFishing | on-the-water | parameter-skim | done | species/rockfish-lingcod.md; species/yellowtail.md — Cortez Bank Observed blocks: rockfish stop (150ft ridge, drift-wind mechanics, 10-fish limit anecdote), yellowtail flyline leg (No.2 hook/25lb, 5-h |
 | elBPRrdkugU | StokedOnFishing | on-the-water | observations-only | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
 | nsUdT-zXI8s | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/fighting-big-bluefin.md; techniques/flyline.md — veterans-charity SCI trip: sea-lion depredation counter-move (conflicting technique), flyline sardine hook/line param |
-| vCskOx6N-XM | StokedOnFishing | on-the-water | deep | pending | Tanner Bank SoCal; kite/spreader-bar rigging + selection logic (cover-ground vs marked fish), fight technique |
+| vCskOx6N-XM | StokedOnFishing | on-the-water | deep | done | fish-care/gaffing.md; rigging/flying-fish-harness.md; species/bluefin-trolling.md; species/bluefin-tuna.md; techniques/fighting-big-bluefin.md; techniques/kite-fishing.md — Tanner Bank bluefin trip: k |
 | lxM-AbTn3Sc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Nosara, Costa Rica inshore wahoo/tuna/dorado footage, sponsor-heavy |
 | b8IqxTQ6xr0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Nosara, Costa Rica yellowfin/wahoo footage, sponsor-heavy |
 | c9xWDUyzDDI | StokedOnFishing | on-the-water | skip:thin-generic | skipped | 1min Fishlab Scrum Popper catch clip, no region/conditions stated, product-demo feel |

@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM]
 confidence: high
 ---
 
@@ -170,6 +170,21 @@ stay over fish), and the calm-day school-grade spread does the rest.
   data point on trolling converting direct bites on a quiet day, not only
   serving as a locate-and-cover tool; see [bluefin tuna](bluefin-tuna.md)
   for the same trip's contrasting night-jig grade.
+- **Observed — the search-then-kite sequence, stated as a program**
+  (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, trip resolved to
+  **late October 2021**, Tanner Bank, SoCal, aboard Captain Andrew's own
+  boat, Stoked On Fishing Charters; unregistered channel — medium
+  confidence): the captain's own framing of when to troll vs. kite that
+  day — **run the spreader bars to cover ground while searching**, then once
+  the sounder is marking good numbers of fish, **stop trolling and set a
+  dead flying fish under the kite to fish the drift** over the marks.
+  Trolling functions as the locate step, kiting as the close-and-convert
+  step — matching this note's "reach for trolling when you need to cover a
+  search box" / kite-once-concentrated framing above. The captain added that
+  the spreader bars can still draw strikes from big fish while trolling to
+  search, but stated a personal preference for the kite/balloon method once
+  fish are found — an attributed preference, not a claim that trolling
+  under-performs the kite on hookup rate.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental

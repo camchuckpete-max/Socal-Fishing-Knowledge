@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM]
 confidence: high
 ---
 
@@ -108,6 +108,29 @@ itself:
   tuna](../species/bluefin-tuna.md)), alongside bait rods — no leader,
   harness, or fight detail captured in this scene, but it confirms the kite
   was in use earlier in the trip too, not only at sundown.
+
+## Observed: balloon-to-kite rigging and launch (Tanner Bank)
+
+**Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, trip resolved
+to late October 2021, Tanner Bank, SoCal, aboard Captain Andrew's own boat,
+Stoked On Fishing Charters; unregistered channel — medium confidence): rigging
+and launch detail for the **balloon-to-kite connection**, distinct from the
+Baja tournament's fishing-line-to-kite-line breakaway logged above (a
+different connection point on the same general platform):
+
+- **Balloon-to-clip:** the balloon twists onto a dedicated balloon clip with
+  no knot — it just seats into the clip.
+- **Clip-to-kite:** the clip is then rubber-banded to the kite.
+- **Backup tether:** a length of fishing line wrapped in tape (about **three**
+  per kite, called on camera "a little safety harness" — plain tape, nothing
+  specialized, chosen because it doesn't develop a sharp edge or pop the
+  balloon) backs up the rubber band so that if it breaks, the balloon and
+  kite stay cradled together instead of separating and getting lost — the
+  crew reported this exact rubber-band failure happening on a prior trip,
+  with the taped backup preventing a lost kite/balloon that time.
+- **Launch:** hand the kite up and let it go with the wind — it flies
+  straight up off the stern; once the boat turns onto an angle, the kite
+  carries away from the boat instead of sitting overhead.
 
 ## Live mackerel as a kite bait — alternative to the flying-fish harness
 
