@@ -972,7 +972,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | NQsVlcpNfck | StokedOnFishing | promo | skip:promo | skipped | Shogun Sportfishing skiff-trip promo, Catalina kelp/skiff catch footage but ad for booking charter |
 | pd1VOJbTEEM | StokedOnFishing | report | skip:thin-generic | skipped | Long Beach Yacht Club charity-venue talk for Olive Crest event, zero fishing footage |
 | N1YBY1i600U | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA California Offshore Challenge (Catalina/SCI) tourney hype+catch footage, no conditions detail |
-| mXu8vJ8yr4Q | StokedOnFishing | on-the-water | single-pull | pending | Catalina backside calico: weedless swimbait hook survives many trips w/o losing paint or fish |
+| mXu8vJ8yr4Q | StokedOnFishing | on-the-water | single-pull | done | lures/soft-plastic-swimbaits.md / Observed block added to the weedless-rigged slug bullet: weedless swimbait held up through repeated kelp-boiler passes across a 4th/5th same-week trip on the same lea |
 | xIUKmH9ccgQ | StokedOnFishing | on-the-water | observations-only | pending | Baja Cedros catch montage via small-plane charter, no doctrine, mostly reaction footage |
 | IFhBVRoc4VQ | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA/Sanderson Farms Shelf Bass Special weigh-in/catch footage, no conditions detail |
 | fjMHM1V9iPc | StokedOnFishing | report | skip:thin-generic | skipped | Bass-stravaganza vendor/seminar-day recap interviews on standings/sponsors, no technique captured |

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q]
 confidence: high
 ---
 
@@ -26,6 +26,16 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   large spring** or **Trokar/Eagle Claw XL spring**) and **bury the spring all
   the way so the plastic butts up to the hook** — that keeps it tracking and lets
   a single bait land roughly **10 times as many fish**.
+- **Observed** (StokedOnFishing, 2012-09-15, Catalina Island backside —
+  `mXu8vJ8yr4Q`): a weedless-rigged swimbait fished repeatedly through kelp
+  boilers — the crew's fourth or fifth trip out that same week on the same
+  lead head — was said to "run out of paint on the head before you'll lose
+  it," coming through the kelp clean without popping off. Some anglers were
+  described as wary of how much these weedless hooks flex, but the angler
+  fishing it reported never losing a fish to that flex over repeated trips.
+  Corroborates the durability framing above (the buried-spring rigging
+  landing roughly 10x the fish per bait) with an independent multi-trip data
+  point. Unregistered channel — medium confidence.
 - **Keel-weight selection** — weights come **half oz, 3/4 oz, or nano**; the
   heavier **3/4 oz** is preferred (Landesfeind) because it **keeps the bait in
   the water while you wind fast**. Go lighter (half oz / nano) for a slower,
