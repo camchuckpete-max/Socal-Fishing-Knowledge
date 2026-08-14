@@ -90,6 +90,7 @@ question (see **Doctrine & conflicts**).
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)

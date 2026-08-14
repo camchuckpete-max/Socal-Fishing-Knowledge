@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk]
 confidence: medium
 ---
 
@@ -205,6 +205,18 @@ lure:
   built into the spool, so the spool itself is heavier and starts up stiffer
   even fully backed off. Test: out of gear, the spool should spin with just a
   light touch.
+- **Dial the cast-control brake down as your casting skill improves (Capt.
+  Dave Hansen, Your Saltwater Guide, `gKrYKvqHUjk`, 2020-12-22 — dave-hansen,
+  registered voice, `high` confidence for the mechanism; the specific Okuma
+  reel models named on camera are sponsor-adjacent, `low` confidence):** a
+  conventional casting reel's mechanical/magnetic brake should run tighter
+  while learning to cast, then get progressively backed off as skill grows —
+  the freer the spool spins, the farther the bait casts. West Coast anglers
+  traditionally learn conventional gear for this reason; a spinning reel is
+  the easier interim choice for anglers who haven't yet put in the time to
+  learn a conventional's cast, with no wrong answer between the two. See
+  [flyline](../techniques/flyline.md) for why casting distance itself matters
+  for the bite.
 - **Low gear ratio over two-speed for the finicky bite.** Two-speed reels are
   great once a big fish is on, but getting bit in the first place matters more
   than cranking speed on a finicky day — a low gear ratio, single-speed star

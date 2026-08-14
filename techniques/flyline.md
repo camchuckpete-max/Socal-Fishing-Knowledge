@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk]
 confidence: medium
 ---
 
@@ -62,13 +62,49 @@ Pick the hook position for the swimming behavior you want:
   [hooks](../tackle/hooks.md).
 - **Bait choice:** sardine (the SoCal staple), **mackerel** (heartier, sometimes
   preferred), or anchovy — nose-hook location is the same clear spot on all
-  three.
+  three. **Species-bait pairings (Capt. Dave Hansen, Your Saltwater Guide,
+  `gKrYKvqHUjk`, 2020-12-22 — dave-hansen, registered voice, `high`
+  confidence, stated as personal preference rather than a strict rule):**
+  mackerel for [striped marlin](../species/striped-marlin.md); sardine for
+  tuna, [barracuda](../species/barracuda.md), [bonito](../species/bonito.md),
+  and [yellowtail](../species/yellowtail.md); anchovy for
+  [calico bass](../species/calico-bass.md).
 - **Bait selection is king.** Cull the bloody, scaly, lethargic baits into the
   chum bucket; fish the lively lime-green ones that are hardest to catch in the
   tank. If a bait isn't pulling line off the reel within about **60 seconds**,
   wind it in, flick it off, and grab a fresh one.
 - **Circle hooks:** hold the hook **high on the arch and press straight down**
   into the bait — holding it from the bottom leaves no gap and mangles the bait.
+
+## Match line weight to the bait, not just to the target fish
+
+Capt. Dave Hansen, Your Saltwater Guide, `gKrYKvqHUjk`, 2020-12-22 — dave-hansen
+is a registered voice, `high` confidence for the mechanism (repeated framing
+consistent with the rest of this note); the specific Okuma reel-model mentions
+below are sponsor-adjacent and stay `low` per the sponsored-claim rule.
+
+- **Carry a dedicated rod/reel setup sized to whatever bait you're actually
+  fishing, and swap setups when the bait changes** — don't fly line every bait
+  on the same line just because it's rigged and ready. Stated example: **40 lb**
+  line to fly line a **mackerel**; if the boat's live-bait tank switches to (or
+  only has) **anchovy**, drop to a **15 or 20 lb** setup for it. The mechanism
+  is the same drag principle as the thinner-line-gets-bit doctrine below: line
+  causes drag in the water, and a small anchovy can't swim 40 lb line through
+  the water nearly as well as it swims 15–20 lb — "all these things matter...
+  if you leave out one ingredient you probably have a crappy day."
+- **Distance beats weight for getting bit.** The goal is to get the fly-lined
+  bait out **beyond everybody else's bait**, as far from the boat as possible,
+  into its own zone. Adding a split shot or a sliding weight to help the cast
+  is a workaround for not knowing how to cast, not a technique upgrade — Hansen
+  frames it bluntly as a crutch, not a fix. **No weight, hook tied directly to
+  the line** is the standard: learn to cast the bait itself rather than
+  reaching for a pinch-on split shot or slider to add casting distance.
+- **The reel mechanics that enable this distance are gear-level, not
+  technique-level:** dialing a conventional casting reel's cast-control brake
+  down as skill improves, and the spinning-vs-conventional tradeoff for
+  anglers still learning to cast, are covered in [rod & reel
+  selection](../tackle/rod-and-reel-selection.md) (Capt. Dave Hansen, Your
+  Saltwater Guide, `gKrYKvqHUjk`).
 
 ## Line sizing & bite guard for finicky tuna
 
@@ -416,6 +452,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
