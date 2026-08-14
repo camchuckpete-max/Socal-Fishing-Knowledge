@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A]
 confidence: high
 ---
 
@@ -117,6 +117,15 @@ typical-year mapping.
   [fighting a big bluefin — sea lion depredation at the boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species).
   The crew left the spot afterward even though the yellowtail bite was still
   going, rather than keep fishing through repeated seal pressure.
+  **Observed** (StokedOnFishing, 2014-11-13, Dono, Baja — `L3tkGVu516A`,
+  "MC Swimbaits Skiff Trip part 1"; opening leg of the same trip as the
+  `_r_qKX_7080`/`3SATCeA3KaU` Chester's Rock entries below): during the
+  same Dono skiff session logged in the
+  [calico bass](calico-bass.md) entry for this video, a yellowtail hooked
+  on a plastic/swimbait "basically spooled" a 200-size reel and was lost —
+  called a "big game straight yellowtail" on camera. Angler name
+  ASR-uncertain (heard as "Ryan Macinte"). Unregistered channel — medium
+  confidence.
   **Observed** (StokedOnFishing, 2014-11-13, Geronimo Island / Chester's
   Rock, south end of Cedros Island, Baja — `3SATCeA3KaU`, "MC Swimbaits
   Skiff Trip part 3"; shares the "part 3" numbering with, but is a

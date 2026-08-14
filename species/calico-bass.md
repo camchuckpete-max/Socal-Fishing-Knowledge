@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A]
 confidence: high
 ---
 
@@ -98,6 +98,22 @@ you read the *current across the kelp*, not the tide clock.
   anything." No structure/current/water-color detail beyond the "super
   blue water" call-out. Consistent with, not a new data point on, the
   fast/high-volume Cedros bite pattern in the entries above. Unregistered
+  channel — medium confidence.
+- **Observed** (StokedOnFishing, 2014-11-13, Isla San Martin (checked, not
+  fished) then Dono, Baja — `L3tkGVu516A`, "MC Swimbaits Skiff Trip part 1";
+  opening leg of the same first-annual, 2014-11-13 multi-day trip as the
+  `_r_qKX_7080` "part 2" and `3SATCeA3KaU` "part 3" entries below): the crew
+  checked Isla San Martin first thing but passed on it — conditions "didn't
+  look all that great" — and ran down the coast to Dono and Sacramento Reef
+  instead, explicitly hunting **bigger** calico rather than the smaller
+  fish available at many spots along that stretch of coast. The first
+  3-hour skiff rotation at Dono, worked on slug and weedless swimbait, was
+  summarized on camera as "three personal bests" progressing **7 lb → 8 lb
+  → 9 lb**, and a separate angler weighed a personal-best/biggest-calico-
+  ever fish at **9.5 lb on the scale**; a second, heavily garbled debrief in
+  the same session referenced other anglers' fish in a similar range,
+  including a "biggest" restated as **10.2 lb** (ASR-uncertain). The stop
+  was called "fishing where world records live" on camera. Unregistered
   channel — medium confidence.
 - **Observed** (StokedOnFishing, 2014-11-13, Geronimo Island / Chester's
   Rock, south end of Cedros Island, Baja — `3SATCeA3KaU`, "MC Swimbaits

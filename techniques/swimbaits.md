@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A]
 confidence: high
 ---
 
@@ -78,6 +78,14 @@ confidence.
   keep the retrieve going (StokedOnFishing, Todd Klein, San Clemente Island,
   2015-10-28, `9xNhdu2aBqE`; unregistered channel, single mention — medium
   confidence).
+- **Observed** (StokedOnFishing, 2014-11-13, Dono, Baja — `L3tkGVu516A`,
+  "MC Swimbaits Skiff Trip part 1"): a very slow wind — "as slow as I can
+  turn the handle" — produced a sheephead on the wind-up; later in the same
+  session an angler was coached to "slow roll on the bottom" because "they
+  want it slow right now" — read as the bite's preferred speed that
+  particular day rather than a fixed rule, consistent with the with/against/
+  perpendicular-to-current speed variation above. Unregistered channel —
+  medium confidence.
 - Use a **graphite-composite rod with a soft glass tip** (Landesfeind fishes a
   7-foot Rainshadow Judge live-bait blank; a 7- or 8-foot graphite rod also
   works, a 9-footer for bomb casts at San Clemente). The soft tip **bends and
@@ -112,6 +120,17 @@ Saltwater Guide, `KTsXdQXAnkU`, 2019-06-05). This repeats the same
 grind-don't-pump doctrine Hansen teaches for calico out of shallow rock in
 [chunking](../techniques/chunking.md) — repeated doctrine from a registered
 voice, high confidence.
+
+**Observed** (StokedOnFishing, 2014-11-13, Dono, Baja — `L3tkGVu516A`, "MC
+Swimbaits Skiff Trip part 1"): a fish came unbuttoned boatside, and the crew
+explained why on camera — kelp had slid all the way down the weedless
+hook's shank, and kelp on the shank "pops it right out of the fish's
+mouth." The described counter (ASR-uncertain, and it is not clear on camera
+whether it actually saved this particular fish): slack the line and drop
+the tip fully so the fish's head falls back underwater, let it shake its
+head, then resume winding. Kept side by side with, not a replacement for,
+Hansen's grind-don't-pump doctrine above. Unregistered channel — medium
+confidence.
 
 ## Boat work — covering water (Erik Landesfeind)
 
