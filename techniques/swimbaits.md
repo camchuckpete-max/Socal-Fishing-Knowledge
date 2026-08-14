@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080]
 confidence: high
 ---
 
@@ -47,6 +47,15 @@ retrieve, and the boat work.
   `9xNhdu2aBqE`; unregistered channel, single mention — medium confidence;
   kept side by side with Landesfeind's fluoro leader above rather than
   reconciled).
+
+**Observed** (StokedOnFishing, 2014-11-13, Chester's Rock, south end of
+Cedros Island, Baja — `_r_qKX_7080`, "MC Swimbaits Skiff Trip part 2"): a
+weedless bait rigged on a Trokar keel-weighted hook (captions render "TR
+car") with its **3/8 oz weighted belly keel** screwed into the bait was
+called out on camera as running clean through "the thick of the heel
+[kelp] grass" with no fouling at all — matching the Gamakatsu/Trokar
+3/8 oz keel-weighted-hook spec above. Unregistered channel — medium
+confidence.
 
 ## The retrieve and the hookset
 

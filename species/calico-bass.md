@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080]
 confidence: high
 ---
 
@@ -115,6 +115,37 @@ you read the *current across the kelp*, not the tide clock.
   [yellowtail](yellowtail.md) Cedros Island entry for that trip's
   yellowtail detail. No current or water-color detail given. Unregistered
   channel — medium confidence.
+- **Observed** (StokedOnFishing, 2014-11-13, prior stop referred to on camera
+  as "Dono" — ASR-uncertain place name, earlier in the same multi-day trip
+  and roughly 112 miles short of Chester's Rock by the crew's own transit
+  numbers, Baja — `_r_qKX_7080`, "MC Swimbaits Skiff Trip part 2"): closing
+  out what the narration calls "two days of awesome cal[ico] bass fishing"
+  at this stop — explicitly *before* the group ran the further leg to
+  Chester's Rock ("we just finished up two days... at Dono, we're going to
+  slide down the beach and... start a Chester['s] rock[s]... 188 miles from
+  San Diego and then... another 112 miles") — a roughly 3-hour skiff
+  session produced a fast bite on **weedless swimbaits**, average grade
+  called out on camera as **"four pounders at least,"** with individual
+  fish up to a **7–8 lb** class fish and a **4-pounder** also landed and
+  released. No structure/current/water-color detail given for this stop.
+  Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2014-11-13, Chester's Rock, south end of
+  Cedros Island, Baja — `_r_qKX_7080`, "MC Swimbaits Skiff Trip part 2";
+  distinct footage from the `3SATCeA3KaU` "part 3" entry above, same
+  multi-day Chester's Rock stop): after anchoring at Chester's Rock itself
+  (see the [yellowtail](yellowtail.md) entry for the crew's approach
+  narration on the spot's reputation and distance), the morning skiff
+  session produced calico on **weedless swimbaits**, including a fish the
+  captain called **7 lbs** by eye — he declined to weigh it ("we're not
+  going to weigh him... slow to grow so let him go") before releasing it —
+  and a **3-pounder** landed by Ryan and released. No strong tide was
+  running — "no real condition, there's a slight current going down the
+  rock" — so the group worked it as **fan-casting / circling fishing hard**
+  rather than a defined current edge. Wind later **blew the group out of
+  Chester's Rock**; they relocated to the lee of another island near Rose
+  Island/Dondo Ridge (place names ASR-uncertain) for the afternoon and
+  found more calico there with a light current and working birds.
+  Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)
 

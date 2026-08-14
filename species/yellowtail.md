@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ, 3SATCeA3KaU]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080]
 confidence: high
 ---
 
@@ -138,6 +138,30 @@ typical-year mapping.
   "monster" yellowtail in shallow water — called out on camera as a hard
   pull on heavy line and hard drag pressure. Unregistered channel — medium
   confidence.
+  **Observed** (StokedOnFishing, 2014-11-13, Chester's Rock, south end of
+  Cedros Island, Baja — `_r_qKX_7080`, "MC Swimbaits Skiff Trip part 2";
+  distinct footage from the `3SATCeA3KaU` "part 3" entry above, same
+  multi-day Chester's Rock stop): the crew called Chester's Rock, roughly
+  **300 miles from San Diego** (a 188-mile leg plus a further 112-mile
+  leg), "historically a good big yellowtail spot" for **40–50 lb** fish,
+  and placed it in a "Yellow Tail triangle" with Cedros Island, the
+  Benitos Islands, and Punta Eugenia (captions render the latter two
+  "Bonitas" and "point eugia" — ASR-uncertain). Fishing depth right on the
+  rock was **12 ft**, dropping to **40–60 ft** a short distance out. On a
+  tip from the captain about kelp on the outside edges, one angler hooked
+  a big yellowtail (called **45 lb**, then restated **40–45 lb**) on
+  **surface iron** (a **"7X"**-class iron) on his fifth crank of the
+  retrieve; the fish ran straight into the rocks and was lost. Separately,
+  the **mothership (Shogun)** was hooking yellowtail concurrently while the
+  skiffs worked Chester's Rock, prompting the skiff group to come aboard
+  and fish from her. That afternoon, after wind blew the skiffs off
+  Chester's Rock, the group relocated to the lee of another island near
+  Rose Island/Dondo Ridge (place names ASR-uncertain) and picked up a
+  "puff of current" bite on yellowtail up to **40 lb**, taken on
+  **surface iron**, **dropper loop**, and **flyline** (one fish also taken
+  on plastic); anglers running **40–50 lb line** landed their fish while
+  several using lighter line lost fish in the shallow, rocky water.
+  Unregistered channel — medium confidence.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the
