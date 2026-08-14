@@ -1071,7 +1071,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | r4J5nP5Bkl4 | StokedOnFishing | on-the-water | observations-only | done | bait/fishing-live-bait.md; species/bluefin-tuna.md; species/dorado.md; techniques/fighting-big-bluefin.md — June 2023 El Dorado (Capt. TJ) trip: kelp-paddy dorado + backside-San-Clemente sundown bluef |
 | oB4BpIUTTl4 | StokedOnFishing | on-the-water | parameter-skim | done | techniques/flyline.md; techniques/knife-jigging.md — night-jigging floor (100lb braid/mono min, 200-400lb leader, 350g+ jigs) and daytime flyline tackle (25-40lb, No.2 hook, ~90% corner hookup), same  |
 | mj50D4rNfdI | StokedOnFishing | promo | skip:promo | skipped | 30s El Dorado boat ad, pure vessel-amenities pitch, no fishing content |
-| c3NFkQbdDy0 | StokedOnFishing | on-the-water | observations-only | pending | El Dorado, 90mi off CA coast, bluefin/yellowtail catch footage, sponsor-heavy |
+| c3NFkQbdDy0 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md — mixed bluefin/yellowtail anchor bite ~90mi off CA (El Dorado/Capt. TJ), Home Guard/Tanner Bank yellow naming, 40lb bluefin with pre-existing hook corro |
 | 9qMLztwVx9g | StokedOnFishing | on-the-water | observations-only | pending | Red Rooster, San Diego SoCal, sponsor-heavy (GrundensUSA), night yo-yo bluefin footage |
 | 947solNfiPw | StokedOnFishing | on-the-water | observations-only | pending | El Dorado, Tanner Bank SoCal, sardine-bite bluefin catch footage |
 | Tz5y87zUp_Y | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama dorado catch footage, region confirmed in transcript |

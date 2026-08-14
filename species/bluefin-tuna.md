@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0]
 confidence: high
 ---
 
@@ -65,6 +65,28 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   pattern above — a mid-August data point that Tanner/Cortez can also produce
   well outside the fall/winter condensation window, not a contradiction of it
   (different months, same bank).
+- **Observed** (StokedOnFishing, `c3NFkQbdDy0`, 2023-09-27 upload, trip landed
+  mid-August 2023 (per on-camera "our annual... charter landed in mid-August
+  this year"), **~90 mi off the California coastline**, fished at anchor —
+  "The ElDorado Continues to Produce Quality Fish," a 2.5-day charter aboard
+  the 85 ft **El Dorado**, Captain TJ, docking out of **Long Beach
+  Sportfishing**; unregistered channel — medium confidence): a mixed
+  bluefin-and-yellowtail bite at anchor, with the yellowtail called **"Home
+  Guard"** fish by the crew and one hooked yellowtail identified live on
+  camera as a **"Tanner Bank yellow."** Boat, captain, home port, trip length
+  (2.5 days), and run distance (~90 mi) all match the mid-August 2024 El
+  Dorado/Captain TJ Will charter out of Long Beach already logged as a
+  **Cortez Bank** trip in [yellowtail](yellowtail.md#where--when)
+  (`nQvJnfb5jQ4`) — both videos also independently describe the trip as
+  "annual" — so this is very likely the same annual charter series one year
+  earlier, not just a same-distance coincidence. That match sits in tension
+  with this video's own on-camera "Tanner Bank yellow" call: either the
+  annual trip's bank target varies year to year, or the crews use "Tanner"
+  and "Cortez" loosely for the same bank complex — flagged, not resolved,
+  here. Separately, this is also a same-~90-mi-distance data point beside the
+  mid-August 2024 Tanner Bank anchor bite from a boat/captain not stated on
+  camera (`ntQXxcH5sjI`, already logged above). At least one landed bluefin
+  was called out at **40 lb**.
 - **Observed** (StokedOnFishing, video uploaded 2026-08-11, trip framed on
   camera as a June trip (year not stated) — `UfuiWFVvz2E`, "SoCal Fishing Is
   GOING OFF! | Constitution Sportfishing," introducing the Constitution
@@ -479,6 +501,20 @@ shot in [gaffing](../fish-care/gaffing.md).
   [hooks](../tackle/hooks.md)); the accompanying mackerel flyline rig — a
   San Diego jam knot, no weight or swivel, ~3–4 ft of 80 lb straight
   fluorocarbon — is in [flyline](../techniques/flyline.md).
+  - **Observed, physical evidence for the teeth-cut-the-leader mechanism**
+    (StokedOnFishing, `c3NFkQbdDy0`, 2023-09-27 upload, ~90 mi off the
+    California coastline, on anchor, aboard the El Dorado; unregistered
+    channel — medium confidence): a landed **40 lb** bluefin came aboard
+    still carrying a hook in its mouth from an earlier break-off — the
+    crew's on-camera read was that the fish had bitten/chewed through
+    another angler's line, then torn free of that hook's original hookset,
+    leaving the hook still lodged when this fish was caught — corroborating,
+    not new beyond, the "teeth saw through the leader" mechanism above. The
+    same stretch carried a general crew caution that a hooked bluefin will
+    actively seek out and cut itself off on **any** abrasion point it can
+    find during the fight — **another angler's line, the anchor rode, or the
+    bottom of the boat** — not only its own leader, framed on camera as "these
+    things aren't stupid."
 - **Cameron (attributed — on-water observation, not doctrine):**
   - **Foamer program summary:** run-and-gun at working terns, **~2–3 casts per
     school**, smaller presentation (Colt-Sniper class) has out-fished bigger,

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0]
 confidence: high
 ---
 
@@ -150,6 +150,24 @@ typical-year mapping.
   trip rather than bluefin; full rig detail, the crew's "they buy double
   trouble all the time" call, and the hooking/line-class notes are logged in
   [double trouble rig](../rigging/double-trouble-rig.md).
+  **Observed** (StokedOnFishing, `c3NFkQbdDy0`, 2023-09-27 upload, trip landed
+  mid-August 2023, ~90 mi off the California coastline, fished at anchor —
+  "The ElDorado Continues to Produce Quality Fish," a 2.5-day charter aboard
+  the 85 ft El Dorado, Captain TJ, out of Long Beach Sportfishing;
+  unregistered channel — medium confidence): boat, captain, home port, trip
+  length, and run distance all match the mid-August 2024 El Dorado/Captain TJ
+  Will charter immediately above (`nQvJnfb5jQ4`), and both videos separately
+  call the trip "annual" — very likely the same annual charter series one
+  year earlier. A mixed bluefin-and-yellowtail bite at anchor produced
+  yellowtail the crew called **"Home Guard"** fish, and one hooked yellowtail
+  was identified live on camera as a **"Tanner Bank yellow"** — in tension
+  with this same annual trip being logged as a Cortez Bank trip above; either
+  the bank target varies year to year or the crew uses "Tanner" and "Cortez"
+  loosely for the same bank complex, flagged not resolved. Full bluefin-side
+  detail (a 40 lb bluefin landed with a prior angler's hook already in its
+  mouth, and a general crew caution on bluefin cutting off on any abrasion
+  point during the fight) is logged in
+  [bluefin tuna](bluefin-tuna.md#where--when).
   **Observed** (StokedOnFishing, video uploaded 2025-02-12, trip date not
   stated — `QSvzVHW9UMk`, "Epic Bluefin Fishing Aboard the Ranger 85!," part 2
   of the same 3-day charter aboard the 85 ft **Ranger 85** as the
