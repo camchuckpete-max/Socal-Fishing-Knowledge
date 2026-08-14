@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4]
 confidence: high
 ---
 
@@ -121,6 +121,18 @@ typical-year mapping.
   boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species).
   Two anglers on this trip were called out on camera landing their
   first-ever yellowtail.
+  **Observed** (StokedOnFishing, trip fished summer 2017 (exact month not
+  stated, per on-camera "this past summer"), San Clemente Island, SoCal —
+  `Q-gQuOegAx4`, "Stoked on the El Dorado 2 Day," 2-day charter aboard the
+  85 ft El Dorado, Long Beach Sportfishing; unregistered channel — medium
+  confidence): once the trip's bluefin bite (**100–200 lb class**, logged in
+  [bluefin tuna](bluefin-tuna.md#where--when)) wound down, the boat ran back
+  to the inside of the island, threw a chum line, and anchored, picking up
+  calico bass, bonita, and yellowtail — a further SCI mixed-bite data point
+  alongside the squid/Pyramid Head and dropper-loop entries above. A bait
+  hook-position switch to defeat pinniped depredation (seals, per this
+  transcript) on this chum-line bite is logged in
+  [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation).
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
   pulls them in as well (10/26/22). Surface iron along the kelp edge is the

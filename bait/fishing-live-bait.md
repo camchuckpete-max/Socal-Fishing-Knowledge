@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4]
 confidence: medium
 ---
 
@@ -43,6 +43,24 @@ mackerel, sardine, and anchovy alike (SluBXkT3cuw).
 On a butt/belly hook, hold the **two rear fins together and go right under the
 "carnage"** if you set the hook too deep — that keeps a clean, swimming bait
 (8YvmROeVL-0).
+
+**Observed** (StokedOnFishing, trip fished summer 2017 (exact month not
+stated, per on-camera "this past summer"), San Clemente Island, SoCal —
+`Q-gQuOegAx4`, "Stoked on the El Dorado 2 Day," 2-day charter aboard the
+85 ft El Dorado, Long Beach Sportfishing; unregistered channel — medium
+confidence): fishing a chum line for yellowtail on the inside of the
+island, the crew called switching bait hook position "the key" once seals
+(as stated on camera — "the seals won't come up and try to bu[y] them as
+much"; the row above's doctrine is written for sea lions, the more
+commonly cited SCI bait-thief, so this is recorded as its own pinniped
+rather than folded into that wording) started following the boat —
+hooking so the bait swam down and away from the boat, rather than staying
+up near the surface, kept the seals from grabbing it as much. Captions
+render the position as "button hook" (ASR-uncertain on the exact term),
+but the described mechanism — bait swims down and away, defeats
+pinnipeds picking off baits at the islands — matches the butt hook row
+above exactly, so this reads as a further data point for that doctrine
+rather than a distinct technique.
 
 **Sardine-specific mechanics and trade-off (Capt. Dave Hansen, Your Saltwater
 Guide, ZggReeO1nyU, 2022-01-07; dave-hansen is a registered voice — his

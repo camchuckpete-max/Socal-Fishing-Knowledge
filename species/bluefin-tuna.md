@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4]
 confidence: high
 ---
 
@@ -459,6 +459,22 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   tied for 4th/5th on tournament points, with a stated plan to fly the
   [kite](../techniques/kite-fishing.md) and hold on the best sign for the
   final day.
+- **Observed** (StokedOnFishing, upload 2017-12-13, trip fished summer 2017
+  (exact month not stated, per on-camera "this past summer"), San Clemente
+  Island, SoCal — `Q-gQuOegAx4`, "Stoked on the El Dorado 2 Day," the
+  channel's first two-day trip, aboard the 85 ft **El Dorado**, Long Beach
+  Sportfishing; unregistered channel — medium confidence): San Clemente
+  Island served as home base for the whole trip — no long offshore run
+  described — with bluefin graded **100–200 lb class**. Early in the trip the
+  crew discussed possibly swinging by Catalina for more squid ("we might be
+  heading to... Catalina to actually pick up some more squid") — stated
+  on camera as an in-transit plan, not confirmed on camera as completed.
+  Once the bluefin bite wound
+  down, the boat ran back in close to the island the same trip and picked
+  up calico bass, bonita, and yellowtail — see
+  [yellowtail](yellowtail.md#where--when) for that inshore leg, including a
+  bait-hooking data point from the same footage logged in
+  [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation).
 
 ## Finding them (sign & sonar)
 
