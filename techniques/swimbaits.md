@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c]
 confidence: high
 ---
 
@@ -138,6 +138,43 @@ channel — medium confidence).
   [essential knots](../rigging/essential-knots.md#parameters--judgment) for
   the tie and the reasoning (he suspected the uni knot might slip under a
   hard pull).
+
+**Observed** (StokedOnFishing, 2019-05-04, Mission Bay): a second presenter,
+fishing an Alabama-rig-style A-rig and unattributed by name (multi-speaker, no
+diarization; unregistered channel — medium confidence), described the
+following setup:
+
+- **Rig hardware:** ran a **quarter-ounce VMC** jig head (exact model
+  ASR-uncertain — heard as "boxer heads") on the bottom arm, with lighter
+  swim-bait heads (heard as "SBJ," brand ASR-uncertain — heard as "BMC") on the
+  middle and top arms; the heavier bottom head puts weight low and creates a
+  keel effect so the rig runs straight and doesn't spin. Added small spinner
+  blades (a "Flashmob Jr"-style harness) for extra flash — lighter wire gives
+  more blade action, and he skips the spinners in clearer water. Counted
+  **five hooks total** on his rig (four arms + one center), matching Castro's
+  five-hook count above.
+- **Line:** **60–80 lb braid to a 40 lb fluorocarbon top shot** as his main
+  line on the Alabama rig, fished mainly for abrasion resistance (he says
+  he'd fish straight braid otherwise); ties the terminal connection with a
+  **3–4 turn San Diego jam knot** rather than Castro's Palomar above — a
+  variant tie, not a conflict. Separately, he described stepping down to
+  **20 lb fluorocarbon** on the rig's dropper/leader material, noting some
+  anglers fish as light as **6 lb test** for spotties around pilings; 20 lb is
+  his own staple.
+- **Reel/rod:** an Okuma Komodo 200 ("SS" stainless-steel version — main
+  gear, pinion gear, spool shaft, and drive shaft all stainless), **7.3:1**
+  gear ratio, **20 lb** max drag; he valued the fast ratio for taking up slack
+  fast when a bass hits the bait from behind, and for pitching to dock
+  pilings. Rod named as an **Okuma EBX** ("Akuma EBX" in the ASR — corrected
+  per the known Okuma corruption), marketed to him as a "big plug cranking /
+  A-rig rod."
+- **Presentation:** worked the rig on a straight grind just above the
+  eelgrass canopy to keep it in the strike zone (echoes the crankbait
+  "keep it in the strike zone" doctrine above); also described varying the
+  fall — a straight tug lets the rig sink straight down, while an angled tug
+  (rod tip lifted then dropped) sinks it back down on an angle — as one of
+  several ways to change the strike trigger. Said the rig **also works pitched
+  to docks/pilings on a long cast** (not a flip), not just over open eelgrass.
 
 ## Gear class
 

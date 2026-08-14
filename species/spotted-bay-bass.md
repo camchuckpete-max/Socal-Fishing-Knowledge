@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c]
 confidence: high
 ---
 
@@ -49,6 +49,13 @@ every structure spot when the tide turns.
   moving-water stretch on either side of that window rather than the peak
   itself (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence), consistent
   with the fully-tide-driven doctrine above.
+- **Observed** (StokedOnFishing, 2019-05-04, Mission Bay): presenter called a
+  **4–5 ft tidal swing** the target range — a low of **0.21 ft at 06:41**
+  building to a **3.7 ft high at noon** was called "an excellent tide." He
+  described a much bigger swing (his example: **~7 ft**) as pushing the fish to
+  hunker down, forcing a move to the **back bay** to keep catching; consistent
+  with the fully-tide-driven doctrine above. Unregistered channel,
+  presenter-inferred (multi-speaker, no diarization) — medium confidence.
 
 ## Finding them (sign & sonar)
 
@@ -94,7 +101,7 @@ General method: [search & glassing](../planning/search-and-glassing.md).
 | Back-bay, smaller aggressive fish, finesse | **Ned rig** ([ned rig](../techniques/ned-rig.md)) — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap/speed-up; one durable bait catches 50 fish |
 | Fish suspended off structure / need a slow horizontal fall | **Drop shot** ([drop shot](../techniques/drop-shot.md)) | light spinning class | Holds the bait at their level over a channel edge |
 | Live bait around structure | **Flyline / small live bait** ([flyline](../techniques/flyline.md)) | finesse fly-line class | Sweeps the up-current edge |
-| Covering water, want multiple hookup chances at once | **Umbrella rig / A-rig** — several small swim jigs on a bent-wire harness ([swimbaits](../techniques/swimbaits.md)) | casting, standard bass class | Roman Castro, Mission Bay; medium confidence, single mention |
+| Covering water, want multiple hookup chances at once | **Umbrella rig / A-rig** — several small swim jigs on a bent-wire harness ([swimbaits](../techniques/swimbaits.md)) | casting, standard bass class | Roman Castro, Mission Bay; medium confidence, corroborated by a second (unattributed) StokedOnFishing presenter |
 
 Every technique is either **power fishing** (crankbait, covering water fast) or
 **finesse** (flukes, Ned, drop shot on light spinning) — pick by mood and clarity.
