@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE]
 confidence: medium
 ---
 
@@ -122,6 +122,23 @@ fluoro leader, braid main line — and feed the terminal rigs in
   **6 wraps** around both strands — cinch each into a neat stack of coils, then
   draw the two knots together until they jam. Works braid-to-braid and
   braid-to-fluoro.
+  **Wrap-count variant + mono-to-fluoro application (StokedOnFishing,
+  `NkjjDf6XPcE`, 2020-02-20; unregistered channel — medium confidence):** a
+  second, separate StokedOnFishing clip ties the same connection specifically
+  for **fluorocarbon leader to monofilament main line** (not braid) — another
+  data point that the knot isn't braid-only, kept beside the "works
+  braid-to-braid and braid-to-fluoro" line above. Paraphrased mechanic: lay
+  the two lines parallel with about **12–15 in** of overlap and find the
+  midpoint; on one line, form a loop with the tag end, pinch it, wrap the tag
+  around both lines **3 or 4 times**, then pull down and draw the coils
+  together tight. Repeat on the other line in the opposite direction — loop,
+  wrap the tag around **3 times**, pull down and tighten the coils. Finally
+  pull the two main lines together to cinch the two knots against each other
+  and trim the tag ends. The **3–4 wrap** count here is lower than the 6-wrap
+  figure above — read as the same angler-preference range already noted
+  elsewhere in this note for wrap counts (e.g. the RP knot's 6-vs-8-vs-10 and
+  the San Diego jam's 5-vs-6-vs-7), kept side by side rather than reconciled
+  to one number.
 - **Seaguar knot (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE,
   2023-11-01; `medium` confidence — Cesar is a registered voice for
   mechanism/parameter doctrine, but this is a single mention: this is the only
@@ -317,7 +334,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
 [mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
 [Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
-and [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q).
+[San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
+and [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE).
 
 <!-- backlinks:start -->
 ## Linked from
