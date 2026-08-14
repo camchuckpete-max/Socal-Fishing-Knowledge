@@ -521,6 +521,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Trolling](trolling.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

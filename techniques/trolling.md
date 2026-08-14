@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4]
 confidence: high
 ---
 
@@ -269,6 +269,51 @@ inshore rip-bait/rooster day is logged at the
 [dorado](../species/dorado.md) and
 [jack crevalle](../species/pacific-crevalle-jack.md) East Cape 2020 entries.
 
+## Magdalena Bay, Baja — inshore estuary/mangrove troll-and-cast, wind/chop fallback from offshore marlin
+
+**Observed** (StokedOnFishing, 2020-10-07 upload, Magdalena Bay, Baja
+California Sur — Mag Bay Lodge, presenter Shea — `isXJONlpUP4`,
+"Surprisingly Great Inshore Fishing in Magdalena Bay"; unregistered channel
+— medium confidence; region: Baja, Magdalena Bay estuary/mangroves, a
+different trip and crew from the Lopez Mateos mangrove series logged in the
+Baja mangrove structure-casting section of [flyline](flyline.md)):
+
+- **Wind/chop decision to fall back inshore.** The trip had fished offshore
+  for striped marlin the prior day and "got a little beat up" by wind and
+  chop; rather than run offshore again, the crew and lodge switched the
+  day's plan to the inshore estuary/mangroves instead — a concrete example
+  of routing around rough offshore sea state by falling back to sheltered
+  inshore structure on a Baja panga trip. Guide-named inshore targets going
+  in, none confirmed caught below except where noted: halibut, spotted bass,
+  snook, pargo/snapper, and grouper.
+- **Depth and positioning.** The local panga guide (named "Enrique" on
+  camera) called the estuary channel depth near the mangroves at roughly
+  **25–30 ft**, working the boat close to the mangrove edge — cued by the
+  guide's "already it's so shallow" as the boat closed to within roughly
+  **50–100 meters** of the mangroves.
+- **Trolling small lures tight to the mangrove edge** produced fast,
+  repeated action on a fish the guide and crew identified on camera as
+  **palometa** — described as part of the **pompano/jack family**, a
+  color-variant of pompano that "gets bigger" than a pompano. A larger fish
+  that broke off while running hard toward the mangroves was guessed by the
+  guide as **snook**, "or more bigger than the pampano[m]" — not confirmed
+  to species.
+- **Switch to casting on a visible school.** Later in the session, with a
+  school described on camera as "a school of pargo" showing on top ("looks
+  like peppers"), the crew put the trolling rods down and **cast light
+  spinning tackle** — a **3/4 oz Cast Master** named on camera — at the
+  school rather than continuing to troll past it.
+- **Tide-phase nuance, corroborating and extending the Lopez Mateos
+  ebb/flood doctrine** already logged in the flyline note above: guide
+  Enrique's framing on camera was that the falling/low tide had produced "a
+  lot of fish" earlier in the day, and that once the tide **started
+  flooding (coming in)**, the open-estuary bite would normally slow — but
+  the fish don't stop biting, they **move inside the mangroves**, so the
+  crew's response was to come back to trolling tight along the mangrove
+  edge rather than stop fishing. Different channel and trip from the Lopez
+  Mateos series (no shared crew or guide named), so this stands as an
+  independent corroborating data point, not a repeat of the same footage.
+
 ## Common failures
 
 - **Straight-lining away** from sign you just marked (sweep instead).
@@ -292,6 +337,7 @@ inshore rip-bait/rooster day is logged at the
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)

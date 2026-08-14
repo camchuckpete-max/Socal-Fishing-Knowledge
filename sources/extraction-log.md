@@ -1004,7 +1004,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | APsnsunT4gM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/pacific-crevalle-jack.md; techniques/trolling.md / added inshore beach-dorado, offshore troll (tuna/wahoo/marlin), and jack-crevalle-named-target Observed entries for East C |
 | SImABCBBxAo | StokedOnFishing | on-the-water | parameter-skim | done | species/spotted-bay-bass.md; lures/bay-bass-plastics.md / 4 Observed blocks added (depth, color-to-overcast, bait-profile match, named bait) |
 | LE49ush9zqA | StokedOnFishing | on-the-water | skip:thin-generic | skipped | No location/conditions given; pure catch montage of double yellowtail hookups |
-| isXJONlpUP4 | StokedOnFishing | on-the-water | parameter-skim | pending | Magdalena Bay Baja inshore; wind/chop decision to switch offshore marlin plan to estuary mangroves |
+| isXJONlpUP4 | StokedOnFishing | on-the-water | parameter-skim | done | techniques/trolling.md / Added Mag Bay estuary/mangrove troll-and-cast entry (wind/chop fallback from offshore marlin, 25-30ft channel depth, palometa/pompano-family ID, 3/4oz Cast Master casting swit |
 | OVwqUKim9Pc | StokedOnFishing | on-the-water | parameter-skim | pending | Mag Bay Baja; sea-state based bank routing decision, names bank Modesto Main; series cont. |
 | yjwIGFzWO8I | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja pt3; multi-stop itinerary macro banks to Benitos to mainland Chesters Rock; series pt3 |
 | DGh-iUp63Hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus halibut/black bass/salmon |
