@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw]
 confidence: high
 ---
 
@@ -66,6 +66,17 @@ typical-year mapping.
   hooked yellowtail was lost boatside to a seal working the
   boat — another cross-species depredation instance alongside the sea-lion
   entry already logged in this note (see the situations table below).
+  **Observed** (StokedOnFishing, 2019-06-19, San Clemente Island, SoCal —
+  `ecJPMTCi-gw`; unregistered channel — medium confidence): the only boat at
+  the island that day, working around seals on the drift. With a Simrad
+  sounder showing fish holding down in the water column even while some
+  anglers were getting bit up top, the crew alternated
+  [surface iron](../techniques/surface-iron.md) on top with
+  [yo-yo iron](../techniques/yo-yo-iron.md) below on the same drift, and
+  downsizing to a smaller yo-yo iron drew a bite — see
+  [yo-yo iron](../techniques/yo-yo-iron.md) for the downsize data point. Mixed
+  in with a halibut, calico bass, and an estimated 50-fish bonita school on
+  the same stop.
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
   pulls them in as well (10/26/22). Surface iron along the kelp edge is the

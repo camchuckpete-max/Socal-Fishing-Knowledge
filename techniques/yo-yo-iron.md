@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw]
 confidence: high
 ---
 
@@ -106,6 +106,21 @@ the reverse map in **Linked from** below.
   channel). Mirrors the anchovy/"rice"-bait downsize logic already documented
   for [surface iron](surface-iron.md) — match iron size to bait size, not just
   to current.
+- **SoCal downsize data point, no stated bait-size reason (Observed,
+  StokedOnFishing, 2019-06-19, San Clemente Island, SoCal — `ecJPMTCi-gw`;
+  unregistered channel — medium confidence):** switching from a standard-size
+  yo-yo iron down to a smaller one drew a bite ("I actually downsized, went
+  with a smaller yo-yo, and that was actually really nice — yellowtail bit
+  there... can't hurt to try mixing it up"). No bait-size trigger, jig weight,
+  or color given — kept side by side with, not merged into, the Cedros/Baja
+  small-bait-driven downsize logic above, since this angler names no forage
+  reason for the switch. Same session alternated **surface iron up top with
+  yo-yo iron down** while a Simrad sounder showed fish holding below even as
+  some anglers on the boat were getting bit up top on the surface — see
+  [surface iron](surface-iron.md). One iron named on camera renders as "a
+  little tatty nine" (ASR-uncertain — possibly a Tady 9, not confirmed by
+  name; consistent with the Tady→"Tatty" caption-corruption pattern already
+  logged in this note).
 
 ## Gear-class detail
 
