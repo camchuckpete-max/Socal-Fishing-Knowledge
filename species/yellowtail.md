@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850]
 confidence: high
 ---
 
@@ -380,6 +380,27 @@ typical-year mapping.
   starting point). No weight, gear, or technique detail was captured for
   this fish. Unregistered channel, sponsor-heavy intro — medium
   confidence.
+  **Observed** (StokedOnFishing, 2023-05-17 upload, Cedros Island, Baja —
+  `9tIp4n7q850`, "Could Not Believe the Halibut Fishing in Cedros This
+  Year"; Cedros Outdoor Adventures / Jose charter — same operator as the
+  `xIUKmH9ccgQ`, `wdbqTio1SQU`/`RPSRH0jwyw4`, and `QSmE3mdEL28`-family
+  trips above, a distinct trip/year from any of them; unregistered channel
+  — medium confidence): a morning slow-troll on live mackerel (see
+  [trolling](../techniques/trolling.md) for the speed/setback/leader
+  parameters newly logged from this trip) produced a mixed bite of
+  yellowtail and bonita, with the crew repeatedly unable to call the
+  species until a fish was boatside — one angler's early guess of "a
+  better fish" based on it "taking some drag at the beginning" was hedged
+  on camera against the belief that bonita "don't really take a lot of
+  drag," conceding a bonita "could still" pull hard. A further data point
+  on the unreliable-by-feel species calls already logged in the
+  `yuXr3IJ8ybg` entry above. Separately, a fish that ran into kelp during
+  the fight was remarked afterward to have "seemed bigger than he was"
+  once landed — a kelp-fight-inflates-perceived-size data point not
+  previously logged here. The same trip's afternoon surface-iron session
+  is logged in [surface iron](../techniques/surface-iron.md), and its
+  halibut and an atypical bottom-caught dorado are logged in
+  [California halibut](california-halibut.md) and [dorado](dorado.md).
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —

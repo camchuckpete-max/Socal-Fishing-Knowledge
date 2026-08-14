@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850]
 confidence: high
 ---
 
@@ -97,6 +97,21 @@ top-shot specs live in each lure note.
   beyond the yellowtail entry above — logged as the same technique
   carrying over to a second species at this location. Unregistered
   channel, sponsor-heavy intro — medium confidence.
+- **Observed** (StokedOnFishing, 2023-05-17 upload, Cedros Island, Baja —
+  `9tIp4n7q850`, "Could Not Believe the Halibut Fishing in Cedros This
+  Year"; Cedros Outdoor Adventures / Jose charter; unregistered channel —
+  medium confidence): a further Cedros slow-troll session for
+  [home-guard yellowtail](../species/yellowtail.md), this one giving
+  numeric parameters not captured in the entries above — trolling speed
+  called out on camera as roughly **3 mph** ("putt putt putt"), live
+  mackerel (captioned "cavala," presumed **caballa**/mackerel — ASR-
+  uncertain) flylined **50 to 75 ft** back off the stern, on a **40 lb
+  fluorocarbon top shot**. A lighter leader than the 80–100 lb line class
+  logged for the QSmE3mdEL28/I-QBxuV2p7M trip above — kept side by side,
+  not reconciled (different trip, different year). The bite ran mixed with
+  bonita, with the crew repeatedly unable to call the species until a fish
+  was boatside — see [yellowtail](../species/yellowtail.md) for that
+  session's narrative and the halibut/dorado results of the same trip.
 
 ## Running the spread — sweeps, not straight lines
 

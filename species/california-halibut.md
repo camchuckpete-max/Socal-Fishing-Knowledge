@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850]
 confidence: high
 ---
 
@@ -107,6 +107,27 @@ conditions that put one there.** (General search method:
   agreement above (which in any case covers calico, grouper, and black
   seabass, not halibut). Unregistered channel, reaction-footage-only —
   medium confidence.
+- **Observed** (StokedOnFishing, 2023-05-17 upload, Cedros Island, Baja —
+  `9tIp4n7q850`, "Could Not Believe the Halibut Fishing in Cedros This
+  Year"; same Cedros Outdoor Adventures / Jose charter as the `xIUKmH9ccgQ`
+  entry above; unregistered channel — medium confidence): a wide-open
+  halibut run at a single spot named only as "this spot" on camera produced
+  repeated halibut back to back, including a double hookup and one angler's
+  first-ever halibut, plus a fish called "a good 25" (unit not stated on
+  camera, presumed lb). The video's own framing, and one angler's on-camera
+  recollection of catching his first halibut "right here, this spot"
+  roughly four years earlier (relative-time phrasing resolved against the
+  2023-05-17 upload date to approximately **2019** — exact date not given,
+  asr-uncertain), both mark this as an exceptional halibut year at this
+  spot. No bait, rig, or depth detail was captured beyond the fish coming
+  up off **the bottom**. One good fish hooked during the same session was
+  lost boatside after running toward the boat's motor — the crew's
+  in-the-moment steering calls ("go to your left," "get out here") didn't
+  keep it clear, and the line parted, called a "heartbreaker" on camera;
+  species on that lost fish is unconfirmed (a speculative, unconfirmed
+  on-camera guess floated a sea lion taking it instead). A dorado hooked
+  during this same bottom-fishing stretch is logged as an atypical catch in
+  [dorado](dorado.md).
 
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head
@@ -144,6 +165,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [April](../seasonal/april.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
@@ -161,4 +183,5 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](white-seabass.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

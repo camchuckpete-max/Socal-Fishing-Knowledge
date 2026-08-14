@@ -1028,7 +1028,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 55-Sx8V1Uk8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama Coiba/Hannibal Bank charter |
 | ZBRSB4iwtbU | StokedOnFishing | on-the-water | skip:duplicate-of-ldVj0BoB-kE | skipped | confirmed: identical Jose interview on Cedros C&R reg change, same 1:57 runtime |
 | HEyt8fxoH5w | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama Coiba cubera snapper/roosterfish/yellowfin |
-| 9tIp4n7q850 | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja halibut/yellowtail trip, SOS lodge, slow-troll mackerel bait |
+| 9tIp4n7q850 | StokedOnFishing | on-the-water | observations-only | done | species/california-halibut.md; species/dorado.md; species/yellowtail.md; techniques/surface-iron.md; techniques/trolling.md / Cedros (Baja) halibut/dorado/yellowtail on-the-water observations: wide-op |
 | Zo92MG459gQ | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja halibut+giant yellowtail continuation, calico spot mention |
 | zn4n7k3iaZo | StokedOnFishing | seminar | parameter-skim | pending | SD/Carlsbad hatchery history interview w/Bill Shedd; OREHP program, survival/tag data |
 | xFS3MW4GpDU | StokedOnFishing | on-the-water | parameter-skim | pending | Carlsbad hatchery wrap + Catalina SoCal broodstock WSB catch program, <60ft, May-Jun timing |

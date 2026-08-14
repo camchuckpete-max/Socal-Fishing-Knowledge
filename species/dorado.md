@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850]
 confidence: high
 ---
 
@@ -171,6 +171,20 @@ came mixed into a morning yellowtail bite at a bank named on camera as
 detail. No lure, leader, or hook detail given for the dorado specifically.
 Unregistered channel — medium confidence.
 
+**Observed (Baja, region label)** (StokedOnFishing, 2023-05-17 upload,
+Cedros Island, Baja — `9tIp4n7q850`, "Could Not Believe the Halibut Fishing
+in Cedros This Year"; unregistered channel — medium confidence): during a
+bottom-fishing session that was otherwise producing halibut (see
+[California halibut](california-halibut.md) for that session), the crew
+hooked and landed a dorado that surfaced from **the bottom** — called out
+on camera as unusual ("way out here on the bottom... that's amazing") and
+notable enough that the crew stopped to admire its colors once it
+surfaced. **Conflict, not reconciled:** this sits beside, and does not
+overturn, this note's standing doctrine that dorado hold in the **upper
+water column** around paddies rather than on a deep meter mark (Ali
+Hussainy doctrine above) — logged as a single atypical incidental catch
+during bottom fishing, not a change to the paddy-program doctrine.
+
 **Observed (Baja, region label)** (StokedOnFishing, 2021-10 trip (per
 on-camera reference), 2022-06-22 upload, Cedros Island, Baja —
 `brx6Ie_L2FM`, "Stoked to Be Back in Cedros Island Dorado Fishing"; likely
@@ -249,6 +263,7 @@ gear summary below.
 
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
+- [California Halibut](california-halibut.md)
 - [Chunking](../techniques/chunking.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

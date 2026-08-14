@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850]
 confidence: high
 ---
 
@@ -144,6 +144,16 @@ the blank.
   [yo-yo iron](yo-yo-iron.md) drop, then resume the normal surface retrieve.
   Doing this every once in a while covers different depths in the water column
   instead of only fishing the top.
+- **Earlier occurrence, same doctrine (StokedOnFishing, 2023-05-17 upload,
+  Cedros Island, Baja — `9tIp4n7q850`, "Could Not Believe the Halibut
+  Fishing in Cedros This Year"; unregistered channel — medium confidence):**
+  the same sink-it-out-like-a-yo-yo-jig tip, called out on camera during an
+  afternoon Cedros surface-iron bite, framed on a **Tady 45** (captioned
+  "Tatty 45" — the known Tady→"Tatty" caption corruption in this corpus) as
+  a near-"yellowtail guarantee" on that jig. Predates, and independently
+  corroborates, the `ntQXxcH5sjI` occurrence above rather than being
+  re-cut footage of it — kept as a second, earlier data point for the same
+  tip.
 - **Observed** (StokedOnFishing, 2015-01-20, Cedros/Gono Islands, Baja —
   `NGxyOlPx3ug`, Shogun Skiff Trip part 1): anchored on a kelp bed off the
   mother ship (breakers close by on one side of the boat), anglers bombed
