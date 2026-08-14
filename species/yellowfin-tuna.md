@@ -49,6 +49,17 @@ the bluefin nearby become more cooperative too.**
   than auto for these shallow marks in deep open water; see
   [electronics & sounder](../planning/electronics-and-sounder.md) for the
   setting and why.
+  **Terminology and the underlying pattern, an earlier source, same presenter
+  (Dave Hansen, Your Saltwater Guide, fK2AT460xW4, 2021-04-27; dave-hansen
+  registered voice, single mention of this claim — `medium` confidence):**
+  there is no "porpoise" carrying tuna anywhere in the ocean — anglers who
+  hear a captain call it a "porpoise" are hearing a misnomer; the animals are
+  **dolphin**, and the two SoCal-relevant types are **common dolphin** and
+  **spotted spinner dolphin**. Yellowfin suspend **underneath** these traveling
+  dolphin schools and mostly do not surface-swim with the pod, which is why
+  the school can look empty from above even when it's holding fish — see the
+  [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen)
+  built specifically to get a bait down to them.
 - **Species-specific sonar signature with depth:** yellowfin school marks hold
   **up in the column — commonly ~40–50 ft down** — and **rise to chum**: two
   minutes of chumming a marked school pulls it up toward the surface and into
@@ -65,6 +76,7 @@ the bluefin nearby become more cooperative too.**
 | **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt** to find fish; on the jig strike, stop and convert the school with [flylined bait](../techniques/flyline.md) or casted lures | Light **troll class** | Trolling here is a *search* tool as much as a catch method — cover the zone, let the strike mark the school, then fish the stop. **⚠ Thin area — spread geometry:** the corpus gives yellowfin troll *speeds*, not spread design (setback distances, lure positions in the pattern); flagged pending new sources |
 | **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but doesn't pull line |
 | **Mixed under paddies with yellowtail/dorado** | [Flyline](../techniques/flyline.md) or dropper into the paddy | **30–40 lb class** | Grade the paddy fast — fish restock paddies only at night |
+| **Schooling under a traveling dolphin/porpoise pod, suspended, not showing at the surface** | Nose-hooked live bait on the [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen) — **drop, don't cast**, off the stern as the boat closes on the pod at ~6–7 kt | **Flyline class**, weighted (4 oz inline torpedo sinker, 60 lb braid/leader, 50 lb fluoro) | Common dolphin and spotted spinner dolphin are the two SoCal pod types that hold suspended yellowfin |
 
 ## Gear summary (class terms)
 
@@ -113,6 +125,7 @@ the bluefin nearby become more cooperative too.**
 - [October](../seasonal/october.md)
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)

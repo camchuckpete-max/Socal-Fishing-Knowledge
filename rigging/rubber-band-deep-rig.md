@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [tuna, bluefin, live-bait, deep, breakaway-sinker]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY]
+tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4]
 confidence: medium
 ---
 
@@ -11,7 +11,9 @@ A way to take an otherwise flylined live bait down to tuna that are holding deep
 or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
 band so the weight carries the bait down, then breaks away on the bite. Once the
 fish loads up, the rubber band lets go and you fight the fish free of the sinker,
-on a clean flyline connection.
+on a clean flyline connection. A related but distinct **inline-tied** torpedo-
+sinker rig (no breakaway) is logged at the bottom of this note — see
+[inline-tied alternative](#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen).
 
 ## When to use it
 
@@ -133,11 +135,71 @@ top of the parameters above:
   same preference — plausibly the same **Ray Sharifi** cited above, though
   the transcript doesn't give a surname to confirm it.
 
+## Inline-tied alternative — no breakaway, tuna under dolphin/porpoise pods (Dave Hansen)
+
+**Capt. Dave Hansen, Your Saltwater Guide (`fK2AT460xW4`, 2021-04-27);
+dave-hansen registered voice, single mention of this rig — `medium`
+confidence.** Region: SoCal offshore. Target: yellowfin tuna schooling under
+traveling dolphin pods.
+
+- **A genuine divergence, not a variant of the same idea — kept side by side,
+  not reconciled:** this rig ties the torpedo sinker **inline** with a knot,
+  not on a breakaway rubber band. Hansen's stated reason is different from the
+  breakaway rig's whole premise above (getting the dead weight out of the
+  fight): he ties inline specifically **to stop the rig from tangling** —
+  "why in line, that way it doesn't tangle up, we don't use the rubber band
+  system, I tie it in line." The sinker stays in the system through the fight
+  on this build; nothing here claims it breaks away.
+- **Species ID / terminology (single mention of this specific claim — `medium`
+  confidence; also logged in
+  [yellowfin tuna](../species/yellowfin-tuna.md#finding-them-sign--sonar),
+  alongside his separate, single-mention bird-marker-pod doctrine from
+  `SgF5hRlEGqU` — the two citations are on different claims, not corroborating
+  each other):** there is no "porpoise" holding tuna anywhere in the ocean — what anglers are
+  calling porpoise are **dolphin** (nine-plus species exist); the two SoCal
+  types relevant here are **common dolphin** and **spotted spinner dolphin**.
+  Yellowfin suspend **underneath** the dolphin school and mostly do not show
+  themselves at the surface swimming with the pod.
+- **The rig, built start to finish:**
+  - **Sinker:** a **4 oz inline torpedo sinker**, tied directly into the main
+    line (not banded) with a [San Diego jam knot](essential-knots.md) through
+    the sinker's top and bottom holes.
+  - **Main line to sinker:** **60 lb braid**, with a short **60 lb high-viz**
+    leader piece spliced in between the braid and the sinker (also San Diego
+    jam) — purely so the angler can see where the rig is riding once it's out
+    behind the boat.
+  - **Leader:** **24 in of 50 lb fluorocarbon** from the sinker down to the
+    hook, tied to the sinker connection with a San Diego jam. Deliberately
+    short — see holding technique below.
+  - **Hook:** a **circle hook**, sized for small mackerel or sardine bait,
+    tied on with what Hansen calls an "improved cinch knot" — mechanically the
+    same spin-7-times, through-the-bottom-then-top-hole tie he calls "San
+    Diego jam" earlier in the same build; see the naming-split note in
+    [essential knots](essential-knots.md).
+- **Why the leader is tied short:** short enough that the angler can hold the
+  rig — sinker, leader, and hooked bait — in hand while waiting for the boat to
+  close on the dolphin pod, rather than having the terminal tackle dangling
+  loose or reeled up tight to the rod tip.
+- **Bait and hook position:** small mackerel or sardine, **nose-hooked**
+  (side to side through the nose) to keep it lively without overworking a
+  limited bait supply.
+- **Presentation — drop, don't cast:** thumb on the spool, bait held in hand,
+  rig ready. When the captain calls the boat into the school, walk to the
+  stern and **drop** the rig straight down and back — explicitly **not a
+  cast** — while the boat is still moving at roughly **6–7 knots**, letting it
+  fall back into the pod. The moving boat and the inline weight carry the bait
+  down to the suspended fish under the dolphin.
+- **Judgment — the goal is a bent rod:** Hansen frames the whole method around
+  getting the rod loaded up immediately on the drop rather than fishing with
+  slack line, calling a bent rod the point of the whole exercise on this bite.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=sYrsPGXiYhI
 
 Video (leader/knot/rubber-band build, start to finish): https://www.youtube.com/watch?v=LPhnsEamRwI
+
+Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/watch?v=fK2AT460xW4
 
 <!-- backlinks:start -->
 ## Linked from
@@ -147,4 +209,5 @@ Video (leader/knot/rubber-band build, start to finish): https://www.youtube.com/
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

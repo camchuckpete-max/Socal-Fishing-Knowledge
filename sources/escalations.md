@@ -36,3 +36,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T03:38:24Z — ftEvyfwjZFU — guard-violation
 - run: 31764068183
 - reason: commit ed1860a45250808c003b3e9cb9a6561ac66092cf reverted: protected path touched: sources/source-registry.md
+
+## 2026-08-14T04:29:33Z — fK2AT460xW4 — evaluator-escalate
+- run: 31769154617
+- reason: species/yellowfin-tuna.md's Situations to techniques router table gained a new row (dolphin/porpoise-pod dropper rig) - a router-table change, mandatory escalation per checklist item 5 even though the addition is accurate and additive; Cameron should confirm the new row belongs in the router at GATE B review.

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4]
 confidence: medium
 ---
 
@@ -192,6 +192,23 @@ fluoro leader, braid main line — and feed the terminal rigs in
   "improved cinch knot" (`VsUUBICiBzQ`) for the same tie — strengthening,
   not resolving, the naming split logged above; still kept side by side
   rather than reconciled to one name.
+  **The split now shows up inside a single video, not just across videos
+  (Dave Hansen, Your Saltwater Guide, `fK2AT460xW4`, 2021-04-27; dave-hansen
+  registered voice — `high` confidence on the mechanic):** building a
+  [torpedo-sinker tuna dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen),
+  he ties the identical single-pass, spin-**7**-times, through-the-bottom-
+  hole-then-back-out-the-top mechanic **twice** in the same clip — once to
+  join the main line to the inline torpedo sinker and once to join the
+  fluorocarbon leader to that same sinker connection — and calls it **"San
+  Diego jam"** both times ("it's super important to tie the San Diego jam
+  when you're doing this"). Moments later, tying the circle hook onto the
+  end of the same leader with the **same** spin-7/bottom-hole/top-hole
+  mechanic, he calls it the **"improved cinch knot"** instead. So within one
+  video, by one presenter, the identical tie is named "San Diego jam" for a
+  sinker/leader connection and "improved cinch knot" for the hook — this
+  reads as the presenter using the two names loosely/interchangeably by
+  habit rather than by a fixed rule about what each name refers to; logged
+  as a third data point on the naming split, not a resolution of it.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
