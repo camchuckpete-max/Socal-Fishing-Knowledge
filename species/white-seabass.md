@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U]
 confidence: high
 ---
 
@@ -47,6 +47,22 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
   inside cleaner water where seabass hide in the dirt to ambush bait. Missing any
   one leg → leave. See [water color](../conditions/water-color.md),
   [tide and slack](../conditions/tide-and-slack.md) (OpcKQPA3vAI, 6TBxHnkYXI0).
+- **Spot check-in shorthand: milky water + uphill/downhill + structure**
+  (StokedOnFishing, 82gEHYel-4U; unregistered channel — medium confidence). One of
+  the first checks on pulling up to a spot: is the water milky/off-color, is the
+  current running **uphill or downhill**, and does that current direction
+  **correlate with the reef or kelp line** being fished (swell and wind direction
+  factor into the read too) — when milky water, current direction, and structure
+  line all "go together," it's typically a good spot worth a shot.
+  **Observed** (StokedOnFishing, 2023-09-06, Catalina Island, 82gEHYel-4U): on one
+  stop, current read as "downhill" with swell and wind pushing milky water off the
+  beach — fished it, flagging that the current was about to pick up (a tide change
+  coming) as the cue to move on ("bolt") once it turned. On a separate
+  beach-adjacent stretch, current ran straight off the beach carrying off-color
+  water past the rocks with a **color break on both sides** — called "perfect
+  conditions," and here current *direction* mattered less than on the reef stops:
+  as long as a trackable off-color plume ("that river") ran visibly from the beach
+  all the way in, the fish were holding right in it.
 - **Slack-tide biter.** WSB "can be a very tidal bite" — like marlin and bluefin
   foamers, they pop on the **slack.** The mechanism (Sean Morgan, via 2/20/25): at
   slack the water column "goes quiet," bait rises, and predators hunt better.
@@ -127,9 +143,25 @@ into the spot once the current read right.
   that way, still breathing and calm, as normal so long as it's moved to the
   pen within that window.
   Flagged here as observed program context, not as fishing doctrine any
-  angler can replicate. Program mechanism/history is a later video in this
-  same StokedOnFishing series (per the manifest) and should be reconciled
-  here when extracted.
+  angler can replicate.
+  **Program mechanism/history, reconciled from the wrap-up video in this
+  series** (StokedOnFishing, 2023-09-06, 82gEHYel-4U; unregistered channel —
+  medium confidence): the broodstock/hatchery effort runs through the
+  **Hubbs-SeaWorld Research Institute** (HSWRI, hswri.org), described on
+  camera as started in 1992; a volunteer grow-out net-pen facility in
+  Newport Harbor — one program volunteer's tenure dates to 1993 — was the
+  first of its kind in Orange County and was still operating as of this
+  2023-09-06 upload, having released roughly 3,000 fish in early August 2023
+  (resolved from "three or four weeks ago" relative to the upload date).
+  This particular trip delivered its 40th fish to the net pens across the
+  last three trips (22 from this trip alone) — described by the crew as more
+  fish than the same three-trip stretch the prior year (2022). Program
+  leadership credited new DNA/genetic studies with confirming (their framing:
+  no longer just "experimental") that the hatchery measurably benefits the
+  wild white seabass fishery — a program-status claim from the operators, not
+  a fishing-technique claim. A name given on camera for a program
+  founder/leader was garbled by auto-captions in two different ways and is
+  omitted here rather than guessed (see extraction log for this video).
 - **Hook-style/gut-hook tension, kept side by side (same source).** The crew
   described the popular dropper-loop rig strung with an Ahi twist (J-style)
   hook as prone to gut-hooking fish, and used it as the reason they prefer
