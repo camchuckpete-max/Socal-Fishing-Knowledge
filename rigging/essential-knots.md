@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg]
 confidence: medium
 ---
 
@@ -47,6 +47,12 @@ fluoro leader, braid main line — and feed the terminal rigs in
 - **Surgeon's knot (loop)** — the simplest loop-forming knot in this list;
   used to tie the loop for a **single-hook rockfish [dropper
   loop](../techniques/dropper-loop.md)** rig.
+- **Worm knot (connection)** — ties a monofilament topshot directly onto the
+  loop of an already-tied Bimini twist double line; the specific connection
+  knot for the "topshot on rail-rod big-tuna setups" use case named in the
+  Bimini twist entry above. Its other selling point is speed of field
+  repair: because the Bimini's twisted section stays intact when this knot
+  is cut away, it's the fast fix for a mid-trip break-off.
 
 ## Parameters & judgment
 
@@ -337,6 +343,26 @@ fluoro leader, braid main line — and feed the terminal rigs in
   simplest knot you can tie" for a single-hook rockfish dropper loop, and
   rated by the presenter as more than strong enough to hold. Feeds the
   [dropper loop](../techniques/dropper-loop.md#building-the-rig) rig.
+- **Worm knot (StokedOnFishing, `mpcSgkQvIzg`, 2012-03-29; unregistered
+  channel — medium confidence):** ties a monofilament topshot onto the loop
+  of an already-finished Bimini twist double line — the topshot connection
+  the Bimini twist entry above points to. Paraphrased mechanic: pass a
+  finger through the Bimini's loop to hold it open, then wrap the mono tag
+  around the whole doubled loop section roughly **10 times** (the
+  presenter's on-camera count is uneven — "two three four... maybe 10
+  times... 6 7 8 9 10" — read as approximate rather than exact). Pull the
+  bitter end back through the same loop your finger was holding (so it
+  passes through both the loop and the wraps), pull against the mono main
+  line first and watch the wraps start to draw down, then pull tight to
+  cinch it into a small knot; clip the tag close. **Judgment — field
+  retie:** because the Bimini's twisted section is left intact when this
+  knot is cut away, it's the fast repair for a break-off after landing
+  fish mid-trip — clip the worm knot near the bitter end (a slightly
+  tighter clip than flush, per the presenter), work the remaining knot
+  fragment off the Bimini loop with pliers, twist on a fresh length of
+  topshot with a new worm knot, tie the hook back on, and you're back
+  fishing in seconds without re-tying the Bimini itself. No SoCal-specific
+  parameters (line class, species) are given in this clip.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -354,7 +380,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
 [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
-and [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4).
+[Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
+and [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg).
 
 <!-- backlinks:start -->
 ## Linked from

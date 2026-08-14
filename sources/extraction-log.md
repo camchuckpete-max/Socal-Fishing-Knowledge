@@ -1112,7 +1112,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | tU4jhAkdzNw | StokedOnFishing | on-the-water | observations-only | done | rigging/rubber-band-deep-rig.md; species/bluefin-tuna.md; species/yellowfin-tuna.md; species/yellowtail.md / Top Gun 80 pt3 Observed entries: sliding-sinker trip-tip variant, AM bluefin/PM yellowtail  |
 | 3T4c3Zez_DM | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowfin-tuna.md / Top Gun 80 pt2 Observed blocks added: bluefin bite-window pattern (no on-camera grade), offshore bird/boil yellowfin bite ~30lb, cross-linked to pt |
 | Rb5I2ljAqeE | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md; techniques/flyline.md / Top Gun 80 pt1 day-1 Observed entries: desperation-reef squid-staging reasoning + 40-90lb bluefin, 18-25lb Home Guard yellowtail |
-| mpcSgkQvIzg | StokedOnFishing | tutorial | parameter-skim | pending | Worm knot: mono topshot to Bimini twist, wrap count & fast field-retie method |
+| mpcSgkQvIzg | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md / Worm-knot entry added (mono topshot to Bimini loop, ~10-wrap mechanic, fast field-retie judgment) |
 | 6kpWn2sXokI | StokedOnFishing | on-the-water | observations-only | pending | Intrepid pt3, Alijos Rocks Baja; series: yellowfin/wahoo/yellowtail/dorado on Intrepid part 3; yo-yo tip |
 | ASitOLYzFEA | StokedOnFishing | on-the-water | observations-only | pending | Intrepid dock-day, Baja (lower banks/Alijos Rocks); testimonials, 300lb+ tuna, 4-day anchor |
 | jznQMFoV0Ls | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Pure catch montage, almost no dialogue, no location/conditions detail |
