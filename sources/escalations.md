@@ -48,3 +48,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T05:59:36Z — Rf1HKJG-SDg — evaluator-escalate
 - run: 31774294351
 - reason: mandatory trigger — patch adds regulatory claim (43-bank rockfish closure→bluefin effort shift) correctly formatted with jurisdiction/as-of-date/verify-current flag, needs Cameron's review of current CDFW rockfish-closure status before Gate B
+
+## 2026-08-14T07:53:50Z — lF6jQklDCrY — evaluator-escalate
+- run: 31779586190
+- reason: Regulatory claim (SoCal rockfish season reopen date + historical depth-limit progression 300->350->460 ft) added to species/rockfish-lingcod.md — mandatory escalation trigger per evaluate-unit.md even though the content is well-caveated as a dated, self-admittedly-uncertain historical data point, not current guidance.

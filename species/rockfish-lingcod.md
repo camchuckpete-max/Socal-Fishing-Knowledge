@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY]
 confidence: high
 ---
 
@@ -112,6 +112,15 @@ the *bottom*, not the fish.
   complex) fell inside a closed rockfish area, so effort that used to target it
   for rockfish shifted to [bluefin tuna](bluefin-tuna.md) on the same high spot
   instead (California/CDFW, as-of 2020-12, Rf1HKJG-SDg; verify current regs).
+- **Historical example — reopen date and a depth-limit progression (California/CDFW,
+  as-of 2019-02, self-admitted uncertain reading of the regs — verify current
+  before using any of these numbers):** the presenter describes the SoCal
+  rockfish season reopening **March 1**, and recounts a depth-limit progression
+  he read in the regs then current — **300 ft**, held at **350 ft** for "a couple
+  years," then rising to **460 ft** effective that January (January 2019) — while
+  explicitly saying he "could be totally wrong" about that reading (lF6jQklDCrY,
+  2019-02-06). This is a dated historical data point only, illustrating that
+  depth limits move over time; it is not current guidance.
 
 <!-- backlinks:start -->
 ## Linked from
