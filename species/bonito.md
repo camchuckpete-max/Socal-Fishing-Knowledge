@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk]
 confidence: medium
 ---
 
@@ -69,6 +69,16 @@ rather than a dedicated technique study.
   recurring report component rather than a dedicated program, so the technique
   detail here is inferred from those mentions and held at medium confidence
   pending a dedicated source.
+- **Observed** (Your Saltwater Guide, `poqjnb1r1zk`, 2019-07-02, Dana Point —
+  presenter not named on camera; the channel's registered voice is
+  `dave-hansen`, a SoCal sportboat/charter captain, per
+  `sources/source-registry.md`, so attribution is likely but unconfirmed for
+  this specific clip): a 5:45 am start described as "a pretty slow morning"
+  fishing south of Dana Point Harbor, then working north of the harbor.
+  Small feathers rigged as a small daisy-chain were trolled at roughly
+  **5.5 kt**; a small sardine-profile hard bait (Rapala-class diver) cast and
+  twitched behind the boat also drew bites, either alongside the trolled
+  feathers or on its own.
 
 <!-- backlinks:start -->
 ## Linked from
