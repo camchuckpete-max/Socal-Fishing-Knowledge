@@ -967,7 +967,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | _Ejay_B77DA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Southwest Florida beach shark tournament; series: Giant Shark Florida part 1 |
 | P6Slg6RQiXw | StokedOnFishing | on-the-water | deep | done | species/calico-bass.md; techniques/swimbaits.md; tackle/rod-and-reel-selection.md / SCI on-the-water trip (Aaron Martens/Capt. Benny Florentino) — kelp-canopy flipping technique + situations-table row |
 | vwH9ERf6zPI | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Long Beach Yacht Club SWBA/Olive Crest charity tourney catch footage, no conditions detail |
-| M6U_FVdosr4 | StokedOnFishing | on-the-water | parameter-skim | pending | Dana Pt kelp bed kids trip: squid outfished sardine that AM, anchor vs drift in current decision |
+| M6U_FVdosr4 | StokedOnFishing | on-the-water | parameter-skim | done | species/calico-bass.md / added dated Observed block (unregistered channel, medium confidence): AM squid-vs-sardine tally (5 sand bass + 3 calico, all on squid) + anchor-on-light-current decision in Da |
 | x1Vb7c4Ek-U | StokedOnFishing | promo | skip:promo | skipped | Stoked On Fishing show trailer announcing Fox Sports West premiere, sizzle reel only |
 | NQsVlcpNfck | StokedOnFishing | promo | skip:promo | skipped | Shogun Sportfishing skiff-trip promo, Catalina kelp/skiff catch footage but ad for booking charter |
 | pd1VOJbTEEM | StokedOnFishing | report | skip:thin-generic | skipped | Long Beach Yacht Club charity-venue talk for Olive Crest event, zero fishing footage |

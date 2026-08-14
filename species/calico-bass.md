@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4]
 confidence: high
 ---
 
@@ -245,6 +245,20 @@ present the outside stringers.
 - **Bait events trump water quality:** a grunion blitz in ugly, stagnant,
   no-current kelp produced every-cast bass (10/20/22) — when the bait is there,
   fish it regardless of the water read.
+- **Observed** (StokedOnFishing, 2013-07-04 upload, Dana Point kelp bed, Sun
+  Fun out of Dana Wharf Sportfishing — `M6U_FVdosr4`, "Dana Wharf Kids Club
+  Sunday's," a recurring Sunday second-half-day trip): a same-day bait-choice
+  reversal. Before departure, boat crew called a **strip of squid** over a
+  slab-sardine strip for the trip, backing it with that morning's (same day,
+  first-trip) tally — **5 sand bass and 3 calico bass, every one of them
+  caught on a strip of squid**. The boat anchored (rather than drifted) on a
+  light current running through the kelp bed. By the day's end, though, crew
+  (Shane, role unspecified in the transcript) reported the opposite: bass
+  were "actually biting the smaller sardines today," which he called a
+  surprise — kept side by side with the AM's squid-only result rather than
+  reconciled. Speaker roles are not diarized in the source; attribution to
+  specific crew is inferred from context. Unregistered channel — medium
+  confidence.
 - **Observed** (Your Saltwater Guide, 2019-05-23, outside Cat Harbor, Catalina —
   `_KldpqPPT1c`): anchored just outside Cat Harbor (not inside the harbor itself)
   and found a steady, not-wide-open kelp bite — consistent bites with hooked
