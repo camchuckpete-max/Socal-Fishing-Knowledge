@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE]
+tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs]
 confidence: medium
 ---
 
@@ -21,6 +21,10 @@ position for the situation. Bait keeping and selection depth live in
   [yellowtail](../species/yellowtail.md),
   [white seabass](../species/white-seabass.md), or
   [dorado](../species/dorado.md) working a paddy or the boat.
+- **[Baja] Casting live bait tight to visible structure** — mangrove branch
+  edges, a cove mouth, a specific pocket — where a weighted rig would snag and
+  only a natural, unweighted drift gets the bait into the strike zone. See the
+  Mag Bay mangrove application below.
 
 ## Hook position by situation
 
@@ -114,6 +118,49 @@ isn't yet repeated doctrine).
 - On butt- or belly-hooked baits, **keep tension** the moment it lands: a little
   pull makes the bait swim away from you like a propeller. Give it slack and it
   turns and swims right back under the boat.
+
+## Baja mangrove structure-casting — precision bait placement (Mag Bay)
+
+Capt. Dave Hansen, Your Saltwater Guide (`-5kooyIyavs`, 2022-02-24). Dave
+Hansen is a registered voice (`dave-hansen` in the source registry) but this
+is his first logged Lopez Mateos video extracted in this batch, so it stands
+at `medium` confidence pending corroboration from the rest of the Mag Bay
+series.
+
+**Region:** Lopez Mateos, Magdalena Bay, Baja California Sur — inshore
+mangrove channels/flats, not the SoCal offshore chum-line application the
+rest of this note otherwise describes.
+
+- **The rig is the same no-weight flyline concept, stripped to the minimum:**
+  a thin-wire Mustad hook tied straight to a fluorocarbon leader, tied
+  straight to braided main line — **zero weight, no swivel, nothing else in
+  line.** Stated sizing: **60 lb braid** to **35 lb fluorocarbon** (brand name
+  not carried — asr-uncertain, heard as "option fluorocarbon," no confident
+  read).
+- **Bait placement, not soak time, is what gets bit.** The target is a narrow
+  strike zone right on the edge of the mangrove branches/roots — a specific
+  cove, pocket, or the edge of a named tree — and a bait that lands short,
+  wide, or outside that zone will not get bit no matter how long it sits.
+  Doctrine: if the cast doesn't land in the zone, wind it straight back in and
+  recast immediately rather than let it soak.
+- **Fast current shortens the window further:** on a fast-outgoing tide in
+  the channel, even a well-placed bait is only in the strike zone for roughly
+  a second before the current sweeps it out — reinforcing constant
+  recast-and-reposition over a passive soak.
+- **Bait refresh:** if a livebait stops swimming well on the retrieve, it gets
+  replaced with a fresh one before the next cast rather than fished dead.
+- **Live bait sourced en route** by cast/throw net at known bait spots on the
+  way to the mangrove zone.
+- **Species taken on this method at this spot** (same trip): snook (the
+  stated target/table-fish favorite), corvina, pargo, triggerfish, and baby
+  halibut, all named together as caught by casting baits into the same
+  mangrove cove, plus a juvenile broomtail grouper on a separate cast —
+  illustrating the technique's structure-zone versatility rather than a
+  single-species pattern. Separately, and NOT part of this method's demonstrated
+  results: a hedged, untried aside that working live bait off the boat's
+  opposite side ("where the blue net is") would "probably do pretty good"
+  on corvina — the crew stayed on the snook bite instead, so this is a
+  suggestion, not an observed outcome.
 
 ## Mono top shot vs. straight braid — the depth mechanism
 
