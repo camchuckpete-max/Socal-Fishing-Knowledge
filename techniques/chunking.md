@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o]
+tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM]
 confidence: high
 ---
 
@@ -59,6 +59,39 @@ chum line instead of watching it wash off. Cut squid heads, tentacles, and
 guts (see [hooks](../tackle/hooks.md) for the strip-bait prep) are a common
 cheap chum source for this style of anchored structure fishing — sheephead,
 sargo, and small bass.
+
+## Chum bucket rig — bow, not stern (Dave Hansen, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice — repeated doctrine on stern-avoidance, high; differing stated mechanism, kept side by side)
+
+Dave Hansen (inferred; solo presenter, no diarization, but this is his own
+channel and matches his established voice), Your Saltwater Guide, `xI9tPJFXbUM`,
+2019-08-30 — dave-hansen is a registered voice. This transcript predates the
+anchored-chumming entry above (`yKaHcxX46l4`, 2022-07-29) by about three years
+and reaches the same practical conclusion — **don't chum off the stern** — so
+that core recommendation is now repeated doctrine from the same voice
+(**high**); the two videos state differing mechanisms for *why*, kept side by
+side rather than reconciled (see the flag below).
+
+- **The rig:** a bait-shop **chum bucket** with **4–5 holes cut in it**, tied
+  off the side of the boat rather than tossed loose.
+- **Tie it at the bow, not the stern.** Stated reasoning here: on an anchored
+  or drifting boat the current drifts **off the back (stern)**, so a bucket
+  tied at the stern chums "way back behind you" instead of near your baits —
+  and, a second hazard not mentioned in the 2022 entry above, a hooked fish's
+  running line has "a good chance" of tangling in a stern-mounted bucket. Tied
+  at the bow instead, by the time the chum sinks through the water column it
+  arrives roughly at the stern — "right in the middle" of where this presenter
+  fishes — so it's chumming for his own boat rather than for boats anchored or
+  drifting behind him.
+- **Kept side by side, not reconciled — differing stated current geometry:**
+  this video frames the anchored/drifting boat's current as running
+  **fore-to-aft, off the stern**; the 2022 entry above frames it as running
+  **down the sides, not off the stern**. Both reach the identical practical
+  rule (avoid a stern-mounted/stern-tossed chum source; favor the bow / forward
+  / up-current placement instead), so the recommendation itself is doubly
+  confirmed — but the two stated explanations of how current moves past the
+  hull are not the same claim and are not merged here.
+- Tie-up point scales with comfort — "as far up the side as you feel most
+  comfortable" — with the bow given as this presenter's personal default.
 
 ## Kelp-bed sequencing — chum the spot, then anchor up-current and back down onto it (presenter inferred as Dave Hansen, Your Saltwater Guide, RXNebDr4j7s, 2022-02-13; medium confidence — single mention, on-the-water footage)
 

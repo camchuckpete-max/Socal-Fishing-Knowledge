@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs]
+tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM]
 confidence: high
 ---
 
@@ -67,6 +67,24 @@ dirt to ambush against the structure. Same author, both statements: encode
 **parallel as the prior, into-beach as a viable late-fall / off-color state,
 off-beach as dead.** This is a real seasonal nuance, not an error. See also
 [island structure](../locations/island-structure.md).
+
+## Wind direction as a per-spot selection cue (Dave Hansen inferred, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice, single mention on this specific framing — medium confidence)
+
+Alongside the current-vs-shore doctrine above, this presenter tracks **wind
+direction** as a second, related axis for choosing which spot on a list to
+fish that day: a set of spots is known to fish on a **southeast wind**, a
+different set on a **northwest wind**, layered against the **uphill-current /
+downhill-current / no-current** read covered above. The mechanism isn't
+stated in this transcript — plausibly proxying for which side of an island or
+point ends up sheltered, or for which way the wind is pushing the current the
+parallel rule cares about — but the practice itself is explicit: keep a
+per-spot record of which wind direction and which current direction each spot
+produces on, and match the day's read against that list rather than
+defaulting to the same spot regardless of conditions. Consistent with the
+spot-typology doctrine above ("each one has its own preferred directions")
+and the spatial-coherence principle below — read wind and current once, then
+check the reading against a known spot list rather than re-deriving it from
+scratch.
 
 ## Spatial coherence of current
 

@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM]
 confidence: high
 ---
 
@@ -62,8 +62,15 @@ Once you've found the water, where you drop the hook depends on what you're afte
   [electronics and sounder](electronics-and-sounder.md)). Once it grades out,
   come back on that track and release the anchor into the sand patch beside
   the rock rather than onto the rock itself (Dave Hansen, Your Saltwater
-  Guide, 6DzbsElGE7E, 2021-04-13; registered voice, single mention — medium
-  confidence).
+  Guide, 6DzbsElGE7E, 2021-04-13). **Repeated doctrine, now high confidence:**
+  the same core rule appears in the same presenter's own words nearly three
+  years earlier — "you're not setting right on top of the rock, you're
+  actually in front of it, so your lines go back to the rock" (Dave Hansen,
+  inferred — solo presenter on his own channel, no diarization — Your
+  Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30), framed there as anchoring so
+  your **presented lines drift back onto the structure** rather than sitting
+  directly over it — the same practical effect as the sand-patch framing
+  above, stated in the earlier video's own words.
 - **Midwater / gamefish → anchor up-current of it,** with the **standoff scaled
   to current strength** — more current, more standoff, so your chum and baits
   sweep down onto the fish.

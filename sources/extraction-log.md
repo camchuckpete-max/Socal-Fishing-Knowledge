@@ -892,7 +892,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | mdhoEQPqpng | Your Saltwater Guide | on-the-water | single-pull | done | techniques/fighting-big-bluefin.md; species/yellowtail.md / added observed sea-lion depredation free-spool counter-move as cross-species fight-stage section, linked from yellowtail router situations t |
 | 8Asmd2H56Qk | Your Saltwater Guide | tutorial | skip:duplicate-of-sYrsPGXiYhI | skipped | same recording as BD rubber-band-rig video per analysis doc (sim 0.518, ASR variance) |
 | TLEhULOWj7g | Your Saltwater Guide | on-the-water | skip:no-usable-content | skipped | Facebook-live hookup chaos/shouting, no location or conditions detail, no doctrine |
-| xI9tPJFXbUM | Your Saltwater Guide | tutorial | deep | pending | Inshore 5-tips: chum bucket on bow not stern, anchor in front of rock, wind/current-to-spot matching logic; Catalina/SCI/San Onofre/La Jolla |
+| xI9tPJFXbUM | Your Saltwater Guide | tutorial | deep | done | techniques/chunking.md; planning/search-and-glassing.md; conditions/current-structure.md / chum-bucket bow-not-stern rig (repeated doctrine, high), anchor-in-front-of-rock (repeated doctrine, high), w |
 | 9hEa3sGTh40 | Your Saltwater Guide | tutorial | deep | pending | Offshore prep: round bait tank placement, fathom/manual-mode fishfinder 0-120ft rule, VHF ch72/65 use, radio-misinformation warning |
 | zwNEhWtnBCE | Your Saltwater Guide | on-the-water | observations-only | pending | Calico-bass-on-bait catch footage; overlaps qv0QbLgp72o; heavy plug for paid website course (sponsor-heavy) |
 | 5FzBwvMtRP8 | Your Saltwater Guide | tutorial | single-pull | pending | Microfiber rag lure catches mackerel for bait tank; dont hand-touch mackerel (strips slime), flick off with butter knife |
