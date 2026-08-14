@@ -1107,7 +1107,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | cLYqjT7ddl8 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md / two Observed blocks added (bird-on-school grade/weight data point; shallow-mark meter/jig depths); front-matter sources gap fixed |
 | CKq0Z6ExVs4 | StokedOnFishing | on-the-water | observations-only | done | species/barracuda.md; species/ocean-whitefish.md; species/rockfish-lingcod.md; species/sheephead.md; species/yellowtail.md / Ensenada high-spot (200->25ft, 7-8mi off Hotel Coral) Observed blocks added |
 | YcLMhI5kzBo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga part 3, marlin/yellowfin, local cooking segment |
-| SGbynqaiHdY | StokedOnFishing | on-the-water | observations-only | pending | Save The Brave veterans charity charter, San Clemente Isl. yellowtail target; light fishing content |
+| SGbynqaiHdY | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/rockfish-lingcod.md / Save The Brave charity charter Observed blocks added (rig params/fallback rockfishing, depth/structure, mid-session reposition); triage-mismatch fl |
 | rsCAh-QyK60 | StokedOnFishing | on-the-water | parameter-skim | pending | San Diego Bay/40mi off SD kite-fishing bluefin: kite distance/height/troll speed 6-8kn tips |
 | tU4jhAkdzNw | StokedOnFishing | on-the-water | observations-only | pending | Top Gun 80 5-day pt3, SoCal islands; series: Top Gun 80 Epic 5 Day part 3; bluefin/yellowfin/yellowtail |
 | 3T4c3Zez_DM | StokedOnFishing | on-the-water | observations-only | pending | Top Gun 80 5-day pt2, SoCal (SCI); series: Top Gun 80 Epic 5 Day part 2; bluefin then yellowfin/yellowtail |

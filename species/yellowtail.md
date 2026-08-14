@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY]
 confidence: high
 ---
 
@@ -37,6 +37,38 @@ typical-year mapping.
   glow** is the change-up when they're feeding on squid (4/21/22).
   Squid-dependent more than calendar-dependent; shows in both the warming
   transition (spring) and fall fragmentation (Oct–Nov) regimes.
+  **Observed** (StokedOnFishing, 2017-07-18 upload, Santa Barbara Island,
+  SoCal — `SGbynqaiHdY`, "STOKED On Save The Brave," first annual charity
+  charter for 15 military veterans aboard the 85 ft El Dorado, Long Beach
+  Sport Fishing — a distinct, earlier trip from the similarly-formatted
+  15-veteran charity charter already logged for San Clemente Island below
+  (`nsUdT-zXI8s`, 2022-12-07 upload); unregistered channel — medium
+  confidence): the boat anchored **in the dark** near kelp and a ridge coming
+  off the island (roughly **102 ft**, red crab present on the structure) and
+  fished **live squid** on light sinkers so the bait would sink naturally in
+  the current — yellowtail were said to swim around that corner of structure
+  "every once in a while," with rockfish as the fallback. Mid-session, with
+  the kelp bite not materializing the way it reportedly had the day before,
+  the captain repositioned to the **outer edge in 20 fathoms** on the
+  island's **back side (weather side)**, reasoning that conditions had
+  shifted enough that lines laid into the kelp weren't reaching where the
+  fish were — a same-zone day-to-day-conditions data point. The session was
+  dominated by a heavy mixed rockfish ("red"/vermilion) bite on the live
+  squid (full rockfish detail in [rockfish &
+  lingcod](rockfish-lingcod.md#doctrine--conflicts)); late in the trip a fish
+  the crew reacted to as more exciting than the rockfish ("that's where it's
+  at") was landed on what the captions render as a "squish jig" — read here
+  as a possible **squid-pattern jig**, consistent with this zone's
+  already-logged squid-colored-jig change-up, but the species was never named
+  on camera and is not carried as a confirmed yellowtail catch
+  (asr-uncertain on the jig name). Pre-trip, the boat's go-to combo for the
+  island was shown as a conventional star-drag reel pre-spooled with **20 lb
+  line**, captioned as an "Avenger" combo (giveaway gear for the veterans, not
+  necessarily what the crew fished themselves — brand not otherwise
+  cross-referenced in this note); the same
+  pre-trip segment names the intended destination as "St Clemente Island," at
+  odds with the Santa Barbara Island location named and shown for the rest of
+  the trip (flagged, not reconciled — see log).
 - **Catalina** — structure yellows on hard bottom, plus fall fish when the
   water holds: ~40 yellows in a day at Catalina in late October, and "no reason
   you couldn't catch a yellowtail" while temps stay good even outside prime

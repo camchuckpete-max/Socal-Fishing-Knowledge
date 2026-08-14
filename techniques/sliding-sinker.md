@@ -206,6 +206,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Trap Rig](../rigging/trap-rig.md)

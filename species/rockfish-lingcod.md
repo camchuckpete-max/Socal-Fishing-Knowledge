@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY]
 confidence: high
 ---
 
@@ -191,6 +191,19 @@ the *bottom*, not the fish.
   anchoring on the bank's yellowtail bite — see the
   [yellowtail](yellowtail.md#where--when) Cortez Bank entry for that leg
   and the trip's flyline tackle.
+- **Observed** (StokedOnFishing, 2017-07-18 upload, Santa Barbara Island,
+  SoCal — `SGbynqaiHdY`, "STOKED On Save The Brave," charity charter for 15
+  military veterans aboard the 85 ft El Dorado, Long Beach Sport Fishing;
+  unregistered channel — medium confidence): pre-trip, the captain named
+  rockfishing as the backup plan if the island's yellowtail didn't produce,
+  calling for a **1/2 lb sliding sinker**, **30 lb test line** (25 lb as a
+  lighter option), and **2/0 to 5/0 hooks** — see [sliding
+  sinker](../techniques/sliding-sinker.md) for the rig mechanics this pairs
+  with. On the water the trip produced a heavy **red/vermilion rockfish**
+  bite on live squid fished on light sliding sinkers near kelp and a ridge in
+  roughly **102 ft**, with red crab present on the structure — full trip
+  detail, including a later repositioning to 20 fathoms on the outer edge,
+  logged in [yellowtail](yellowtail.md#where--when).
 - **Historical example — reopen date and a depth-limit progression (California/CDFW,
   as-of 2019-02, self-admitted uncertain reading of the regs — verify current
   before using any of these numbers):** the presenter describes the SoCal
