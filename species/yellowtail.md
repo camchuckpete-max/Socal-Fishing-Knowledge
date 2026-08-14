@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg]
 confidence: high
 ---
 
@@ -50,6 +50,22 @@ typical-year mapping.
   YZtX1MiT0y8). Classic squid-zone behavior — the bite dried up after the first
   hits, read as the squid moving deeper, not the fish leaving
   ([April](../seasonal/april.md)). Warming transition (spring), squid-driven.
+  **Observed** (StokedOnFishing, 2017-06-09, Pyramid Head, San Clemente Island
+  — `yuXr3IJ8ybg`, sponsor-heavy Okuma gear-demo episode presented by Okuma's
+  John Bretza and Dave Brown; unregistered channel — medium confidence): live
+  squid fished at Pyramid Head produced a mixed bite of calico bass, bonita,
+  and a handful of yellowtail, with fish "morphing" species mid-fight on
+  camera — one hookup called as starting on a calico, turning into a bonita,
+  then landing as a yellowtail. On camera the crew called species mid-fight by
+  feel — sustained side-to-side ("right and left") runs as bonita, a "head
+  nod" as yellowtail — but the same footage undercuts it as a clean tell:
+  "head nod" is also used for a calico bass elsewhere in the trip, and one
+  fish called a "yellow" is also described taking "a right and left turn."
+  Recorded as crew chatter, not a reliable species-identification method. No
+  white seabass were landed despite squid bait and a stated seabass target. A
+  hooked yellowtail was lost boatside to a seal working the
+  boat — another cross-species depredation instance alongside the sea-lion
+  entry already logged in this note (see the situations table below).
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
   pulls them in as well (10/26/22). Surface iron along the kelp edge is the
@@ -348,6 +364,7 @@ water temp and bait depth before committing the day to one face.
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [May](../seasonal/may.md)
+- [Pacific Bonito](bonito.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)

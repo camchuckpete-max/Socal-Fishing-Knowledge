@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg]
 confidence: medium
 ---
 
@@ -79,6 +79,19 @@ rather than a dedicated technique study.
   **5.5 kt**; a small sardine-profile hard bait (Rapala-class diver) cast and
   twitched behind the boat also drew bites, either alongside the trolled
   feathers or on its own.
+- **Observed** (StokedOnFishing, 2017-06-09, Pyramid Head, San Clemente Island
+  — `yuXr3IJ8ybg`, sponsor-heavy Okuma gear-demo episode; unregistered
+  channel — medium confidence): on a live-squid trip, a bonita school boiling
+  up around the boat was called on camera as "a good sign," and the crew's
+  read proved out —
+  "yellows will roll in right after that" — with yellowtail joining the mixed
+  bite shortly after the bonita showed. On camera the crew called bonita
+  mid-fight by repeated side-to-side ("right and left") runs, versus a "head
+  nod" for yellowtail — but the same footage undercuts this as a clean tell
+  (see the [yellowtail](yellowtail.md) San Clemente Island entry for the same
+  trip, where "head nod" is also used for a calico bass); recorded as crew
+  chatter, not a reliable species-identification method. Reinforces, rather
+  than adds to, the measure-of-life doctrine above.
 - **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
   Clemente Island — unregistered channel, `medium`): a bonito bled promptly and
   put on ice, then eaten sashimi-style, was judged very close to yellowfin
@@ -109,4 +122,5 @@ rather than a dedicated technique study.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

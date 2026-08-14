@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg]
 confidence: medium
 ---
 
@@ -272,6 +272,13 @@ its tentacles from finding your hand (the beak itself sits between the
 tentacles, not near the eyes/siphon grip point). Held this way, squid can go
 straight from net to hook and back in the water with no ink on the boat, the
 gear, or the angler.
+
+**Observed** (StokedOnFishing, 2017-06-09, San Clemente Island — `yuXr3IJ8ybg`,
+sponsor-heavy Okuma gear-demo episode; unregistered channel — medium
+confidence): a second, thinner description of the same problem — gripping a
+live squid firmly enough that it can't wrap around the fingers and peck with
+its beak, and to avoid getting inked while baiting up. Consistent with, not
+adding mechanism beyond, the grip technique above.
 
 ## Bridling big baits
 
