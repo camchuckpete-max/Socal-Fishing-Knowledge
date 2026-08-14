@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM]
 confidence: medium
 ---
 
@@ -164,6 +164,17 @@ able to break off** (aXF0bxAFtU0):
   confidence, unregistered channel). Kept as a standalone data point on
   material choice for [surface iron](../techniques/surface-iron.md), not
   reconciled with the general top-shot guidance above.
+- **Wire leader over rock structure — Gonzaga Bay, Sea of Cortez (Baja):** for
+  cabrilla and barred pargo/snapper fished tight to rocky structure, one boat
+  rigs a **wire leader on 65 lb spectra mainline** — described by the anglers
+  as "real similar to Calico fishing," i.e. the same close-structure
+  casting/dropping approach as [calico bass](../species/calico-bass.md),
+  stepped up to wire specifically for the rocks and "toothy critters" this
+  structure holds. Stated reason for the heavier build: these reef fish run
+  **bigger than Cal bass**, reportedly to **15+ lb** (StokedOnFishing,
+  `_Wb4z4ammoM`, 2015-10-29; unregistered channel — medium confidence;
+  region: Baja, Sea of Cortez, Gonzaga Bay). No wire gauge or leader length
+  given in source.
 
 ## Connections (parameters — steps are in the rigging notes)
 
