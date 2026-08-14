@@ -12,3 +12,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-13T23:55:19Z — EmZO8QiOfik — guard-violation
 - run: 31753705275
 - reason: commit 0d33e3c763b29df9d9a6e1168d130bebafec52a2 reverted: protected path touched: sources/source-registry.md
+
+## 2026-08-14T00:43:45Z — _ZThckj2TIM — guard-violation
+- run: 31753705275
+- reason: commit 0716a9d20bf407e475398991e942ce92b454ac8e reverted: protected path touched: sources/source-registry.md
