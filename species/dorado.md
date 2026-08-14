@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw]
 confidence: high
 ---
 
@@ -217,6 +217,18 @@ live mackerel** — see the live-mackerel slow-troll entry in
 companion yellowtail episode of this same trip; no independent dorado
 hookup on the troll was captured in this video's footage. Unregistered
 channel, sponsor-heavy intro — medium confidence.
+
+**Observed (Baja, region label)** (StokedOnFishing, 2023-11-03 upload, La
+Paz, Baja California Sur — Baja Rancheros fishing fleet, `qM7iOO7fOBw`, "The
+Ultimate Baja Mexico Fishing Charter: Stoked on La Paz"; unregistered
+channel — medium confidence): with a dorado hooked on a flylined mackerel
+(see the
+[flyline](../techniques/flyline.md#la-paz-baja-california-sur-sea-of-cortez-side--open-water-mackerel-flyline-at-a-shared-high-spot)
+La Paz entry for the session's full gear/catch detail), the crew deliberately
+delayed boating it, stating on camera that leaving a hooked dorado in the
+water "attracts more" dorado — the same school-holding tactic already logged
+for the East Cape (`tcso7Lpm_Xs`) and Cedros (`brx6Ie_L2FM`) trips above, now
+also corroborated at La Paz, Sea of Cortez side.
 
 **Observed** (StokedOnFishing, 2022-10-13, offshore SoCal — `VWClGAn2WEw`):
 after a run of consecutive dorado hookups on the same leader, the crew

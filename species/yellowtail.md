@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw]
 confidence: high
 ---
 
@@ -168,6 +168,19 @@ typical-year mapping.
   rather than repeated here, per the router/execution split. Bait for the day
   (green mackerel plus purchased sardines) is logged in
   [making bait](../bait/making-bait.md#la-paz-baja-california-sur--mackerel-and-sardine-bait).
+  **Observed** (StokedOnFishing, 2023-11-03 upload, La Paz, Baja California
+  Sur — Baja Rancheros fishing fleet, `qM7iOO7fOBw`, "The Ultimate Baja
+  Mexico Fishing Charter: Stoked on La Paz"; day 2 of the same first La Paz
+  trip as the entry above — day 1 was windy with strong current and slow
+  fishing, day 2 moved to a calmer but crowded shared spot; unregistered
+  channel — medium confidence): flylining live mackerel (full technique/gear
+  detail, including two anglers' garbled line-setup exchange, logged in
+  [flyline](../techniques/flyline.md#la-paz-baja-california-sur-sea-of-cortez-side--open-water-mackerel-flyline-at-a-shared-high-spot))
+  produced multiple yellowtail alongside cabrilla, dorado, and pargo in the
+  same mixed bag. A **yellowtail school mixed with jack** was spotted
+  visually by bait "shattering" on the surface, prompting a direct cast — a
+  visual sign data point alongside the sonar/structure sign already
+  documented for this species.
 - **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips

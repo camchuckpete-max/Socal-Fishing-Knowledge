@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw]
 confidence: medium
 ---
 
@@ -426,6 +426,39 @@ rest of this note otherwise describes.
   Dave Hansen) broke off on the roots mid-session and re-tied a fresh hook
   and leader before resuming fishing. The tide was falling from a super-high
   mark through the session, consistent with the ebb-window doctrine above.
+
+## La Paz, Baja California Sur (Sea of Cortez side) — open-water mackerel flyline at a shared "high spot"
+
+**Observed** (StokedOnFishing, 2023-11-03 upload, La Paz, Baja California Sur
+— Baja Rancheros fishing fleet, `qM7iOO7fOBw`, "The Ultimate Baja Mexico
+Fishing Charter: Stoked on La Paz"; day 2 of the same first La Paz trip as
+the `ORC1A68cEeM` shallow-water jurel/yellowtail slow-troll entry above — day
+1 of this trip was windy with strong current and slow fishing, day 2 moved to
+a different spot; unregistered channel — medium confidence): the fleet
+worked one popular spot ("this little high spot") crowded with other boats,
+flylining live **mackerel** with no hook or leader detail captured on camera.
+One angler fished a cast hardbait (a "Colt Sniper" stickbait, brand not
+stated on camera) rather than a flylined bait himself, alongside the boat's
+flyline program. The session produced a mixed bag on the mackerel flyline:
+multiple yellowtail, several **cabrilla** (grouper; heard as "kabria"/"so
+kabria" — ASR-corrupted per the known cabrilla→"Cambria" hazard in this
+corpus, resolved here from context), at least one **dorado** (heard as
+"amahi," read here as "a mahi" rather than a species/brand name —
+asr-uncertain), and at least one large **pargo** (called "a moose" on camera
+by size) — with a follow-on comment that any further pargo landed that day
+would be kept, not released. A **yellowtail school mixed with jack** was
+spotted visually by bait "shattering" on the surface, drawing a direct cast.
+The crew called out **fishing outside/away from the rest of the fleet** at
+this shared spot as a deliberate positioning choice
+rather than anchoring in the pack — the bite reportedly went from nothing to
+an instant hookup once fish moved through. Two anglers compared line setups
+on camera, both figures asr-uncertain due to crosstalk and kept as heard
+rather than resolved to a clean rig diagram: one stated roughly **65 lb
+braid** to about **60 lb** (heard as "monel," read as mono) with about a
+**40 lb top shot**; the other said **40 [lb] to 40 lb on the fluorocarbon**.
+A separate fish was fought on an "extra heavy rod" paired with a reel
+captions render as "Alos 52p Speed" — brand/model not confidently resolved,
+name not carried per the ASR-hazard rule.
 
 ## Mono top shot vs. straight braid — the depth mechanism
 
