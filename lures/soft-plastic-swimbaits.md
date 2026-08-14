@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io]
 confidence: high
 ---
 
@@ -65,6 +65,15 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   the trip's top overall producer. A third, independent red/green/brown data
   point — kept beside, not reconciled with, the "color matters little" /
   green-gold "hot koch" framing above.
+  **Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+  `PKf7G3uL4io`, Santa Barbara Island, event ~early November 2014 per the
+  2014-11-11 upload): an angler fishing a **red "Calico Hunter"**-named
+  bait (model/brand not otherwise identified on camera) cycled through
+  three other colors without a bite, then went back to the original red
+  Calico Hunter and got bit twice on back-to-back casts — floated on camera
+  as maybe a color-pattern day, "you never know." A fourth independent
+  color data point, kept beside rather than reconciled with the "color
+  matters little" framing above. Unregistered channel — medium confidence.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 

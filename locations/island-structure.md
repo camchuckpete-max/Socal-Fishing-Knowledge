@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [islands, structure, current, fathom-curve, catalina-eddy, paddies]
-sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0]
+sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io]
 confidence: high
 ---
 
@@ -104,6 +104,20 @@ claim is about Catalina's) as southeast-wind producers. The general lesson:
 learn each spot's preferred wind before committing, since the same spot can go
 from firing to dead on a wind flip with no change in current.
 
+**Observed** (StokedOnFishing, "California Offshore Challenge, part 2,"
+event ~early November 2014 per the 2014-11-11 upload, Catalina Island, day
+two — `PKf7G3uL4io`): a team (boat/team name heard as "Opportunity" in
+captions, ASR-uncertain, distinct from the "Team Killer Whale" and "Team
+Salty" identities documented in the `IATPg9110CE` entries on
+[calico bass](../species/calico-bass.md) and
+[swimbaits](../techniques/swimbaits.md)) started day two by running around
+Catalina's **West End**, found it "just blowing," and the further back
+along the **backside** they got the worse it was — they turned around and
+retreated to **seek shelter on the front side** rather than push through.
+No swell direction given on camera. Read as a same-event data point for
+west-end wind exposure alongside the swell/wind zone-selection doctrine
+above, not a new rule. Unregistered channel — medium confidence.
+
 ## Reading across the day's spots
 
 Because current direction is coherent across a region (see spatial coherence in
@@ -133,6 +147,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](../conditions/sea-state.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)

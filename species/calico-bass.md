@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io]
 confidence: high
 ---
 
@@ -262,6 +262,22 @@ present the outside stringers.
   once swell drops, not as evidence about Catalina's conditions; no
   current or water-color detail given. Unregistered channel — medium
   confidence.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+  `PKf7G3uL4io`; same 4th-annual tournament and 2014-11-11 upload as the
+  `IATPg9110CE` entry above): in a day-one wrap interview, the
+  Catalina-based team identified above as "Team Salty" (nicknamed "Salty
+  Balls" on camera here) described day one at Catalina as "real tough,
+  small fish in the morning," worked through roughly **30 to 40 spots**,
+  and finished with five nice fish including an angler's **personal-best
+  calico at 8.96 lb**. They called out a deliberate change from past
+  tournaments — **"you got to hold onto the kicker"** fish rather than
+  cull it hoping for a bigger one later, something they said they hadn't
+  done "the past couple years" despite otherwise good bags. Their day-one
+  target was **25 lb**; they weighed **26-plus**, matching the 26 lb
+  day-one total in the `IATPg9110CE` entry above. Framed on camera as the
+  team's fourth year chasing a Catalina win without closing it out
+  (prior second/third-place finishes, no absolute years given).
+  Unregistered channel — medium confidence.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).

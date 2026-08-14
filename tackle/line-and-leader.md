@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io]
 confidence: medium
 ---
 
@@ -94,6 +94,18 @@ Mono's stretch and its habit of staying on the spool are the point:
 - **Internal line on spreader-bar / heavy troll setups** — mono's stretch belongs
   inside those rigs; see [rod & reel selection](rod-and-reel-selection.md) and the
   trolling lure notes.
+
+**Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+`PKf7G3uL4io`, Santa Barbara Island tournament calico fishing, event ~early
+November 2014 per the 2014-11-11 upload): one angler said he fishes
+"nothing but 25 [lb] Ultragreen Max[ima]" — straight **25 lb Maxima
+Ultragreen monofilament**, a brand he said he'd fished for roughly 15
+years — for tournament-grade kelp/rock calico bass fishing. Notably
+lighter than, and without the fluoro-leader-over-braid rigging in, the
+50–65 lb braid / 40–65 lb fluoro kelp doctrine in
+[swimbaits](../techniques/swimbaits.md); kept side by side as a distinct
+personal-preference data point rather than reconciled. Unregistered
+channel — medium confidence.
 
 Note the "you need fluoro so light doesn't travel down the line to the hook"
 argument is a **myth for short top shots**: as long as the mono is below the

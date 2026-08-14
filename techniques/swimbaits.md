@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io]
 confidence: high
 ---
 
@@ -108,6 +108,16 @@ confidence.
   range already logged above (Landesfeind's 7-ft live-bait blank up to a
   9-footer for bomb casts) — a data point on the length trade-off rather
   than a new spec. Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+  `PKf7G3uL4io`, Santa Barbara Island, same 4th-annual tournament and
+  2014-11-11 upload as the `IATPg9110CE` entries above, day two): the same
+  crew's retrieve was called out on camera as "just like yesterday" — a
+  slow crawl, "creeping it across the bottom" while working to stay out of
+  "the stuff" (structure) — continuing the slow-roll-on-the-bottom
+  bite-speed pattern from the `IATPg9110CE` entry above into a second day,
+  fished right up into skinny water (fish holding "in the foam," "inches
+  of water" off the beach) with long casts down the beach. Unregistered
+  channel — medium confidence.
 
 ## Depth and where you throw it
 
@@ -161,6 +171,19 @@ confidence.
 - Color matters little — a **green-top / gold-bottom** ("hot koch") is a
   confidence pattern that works cloudy or sunny, warm or cold. Fish what you
   believe in.
+
+**Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+`PKf7G3uL4io`, event ~early November 2014 per the 2014-11-11 upload,
+Catalina Island): after getting blown off a West End run and retreating to
+a sheltered "plan B" spot (see
+[island structure](../locations/island-structure.md)), the crew worked the
+approach deliberately quiet — they **let the wind drift the boat down
+through the spot** instead of running the trolling motor the whole way,
+**shut off the electronics, the bait pump, and the livewell pump**, and
+**lifted the trolling motor** coming into the spot. Stated on camera to
+matter more over **hard rock bottom**, which "echoes," than over **sand**,
+where "you get away with a little better." Unregistered channel — medium
+confidence.
 
 ## Double swimbait rig (Nick, California Current)
 
@@ -266,6 +289,7 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Island Structure](../locations/island-structure.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
