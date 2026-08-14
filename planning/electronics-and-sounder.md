@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, cameron]
 confidence: high
 ---
 
@@ -33,6 +33,14 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   pays off, and only commit when it grades out. (The bait-shape rule — a solid
   unbroken wall of bait usually has no predators; broken/harried bait does —
   supports the grade; see [bass structure](../locations/bass-structure.md).)
+- **Set range manually for shallow schools in deep open water.** Working
+  tuna schooling under dolphin pods well offshore, set a manual range window
+  (e.g. **0–150 ft**) rather than auto — left on auto, the sounder keeps
+  hunting for a bottom that's far deeper than that and the shallow marks
+  never paint (Dave Hansen, Your Saltwater Guide, SgF5hRlEGqU, 2022-02-27;
+  registered voice, single mention — medium confidence). See
+  [yellowfin tuna](../species/yellowfin-tuna.md) for the dolphin-pod sign
+  this pairs with.
 
 ## Bird radar
 

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, cameron]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, cameron]
 confidence: high
 ---
 
@@ -40,6 +40,15 @@ the bluefin nearby become more cooperative too.**
   water schools push bait to the surface. See
   [bird reading](../conditions/bird-reading.md),
   [search & glassing](../planning/search-and-glassing.md).
+- **Dolphin pods (visual sign):** tuna also school under traveling dolphin
+  pods offshore; when several pods are around, pick the one carrying its own
+  bird marker — even a single bird sitting on a pod is the tell that that
+  particular group is holding the fish, over unmarked pods nearby (Dave
+  Hansen, Your Saltwater Guide, SgF5hRlEGqU, 2022-02-27; registered voice,
+  single mention — medium confidence). Set the sounder range manually rather
+  than auto for these shallow marks in deep open water; see
+  [electronics & sounder](../planning/electronics-and-sounder.md) for the
+  setting and why.
 - **Species-specific sonar signature with depth:** yellowfin school marks hold
   **up in the column — commonly ~40–50 ft down** — and **rise to chum**: two
   minutes of chumming a marked school pulls it up toward the surface and into

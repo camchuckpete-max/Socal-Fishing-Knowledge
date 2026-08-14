@@ -813,7 +813,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 3dVc-2rsYII | Your Saltwater Guide | tutorial | deep | done | techniques/surface-iron.md: amended with cast release point, calico slow-med retrieve, tip-down retrieve, wind-not-swing hookset (flagged conflict vs knife-jigging swing-to-set), Wounded Warrior color |
 | I84uoay_jwQ | Your Saltwater Guide | tutorial | deep | done | fish-care/gaffing.md (new); linked from fish-care/tuna-care.md, fish-care/dorado-and-general.md, species/california-halibut.md — gaff sizing by species/weight, pec-shot+flip-upside-down, no-dig-hole o |
 | 6X97e0AA3c8 | Your Saltwater Guide | out-of-region | skip:out-of-region | skipped | Peacock bass fishing in Florida |
-| SgF5hRlEGqU | Your Saltwater Guide | tutorial | parameter-skim | pending | Tuna-on-dolphins: pick pod w/bird marker, sounder range 0-150ft, SoCal offshore |
+| SgF5hRlEGqU | Your Saltwater Guide | tutorial | parameter-skim | done | planning/electronics-and-sounder.md; species/yellowfin-tuna.md: dolphin-pod bird-marker visual sign, manual sounder range 0-150ft parameter (vs auto-hunting bottom); trimmed duplicated explanation fro |
 | pKWDxwBvTH8 | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Misleading title; mostly rant re: practice casting before trip, no cast mechanics |
 | o8vLdz7OmaE | Your Saltwater Guide | seminar | deep | pending | Drag-setting by feel (pull test), adjust mid-fight, star vs lever drag, left-hand-forward rationale |
 | -5kooyIyavs | Your Saltwater Guide | tutorial | deep | pending | Baja (Lopez Mateos/Magdalena Bay): fly-line rig no-weight, precision bait placement on mangrove zone |
