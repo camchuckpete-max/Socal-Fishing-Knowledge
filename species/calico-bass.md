@@ -137,6 +137,7 @@ present the outside stringers.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)

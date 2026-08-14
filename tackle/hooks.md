@@ -1,16 +1,17 @@
 ---
 type: tackle
-tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM]
+tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4]
 confidence: medium
 ---
 
 # Hooks — Style, Size, and Matching to Bait
 
-A hook is chosen on three axes: **style** (how it sets), **size** (matched to the
-bait, then the fish), and **wire gauge** (how much it burdens a live bait vs. how
-much load it can take). Getting the bait to swim naturally and the hook into the
-corner of the mouth is most of the game. Live-bait hooking mechanics are in
+A hook is chosen on four axes: **style** (how it sets), **size** (matched to the
+bait, then the fish), **wire gauge** (how much it burdens a live bait vs. how
+much load it can take), and **finish** (bare metal color, for stealth). Getting
+the bait to swim naturally and the hook into the corner of the mouth is most of
+the game. Live-bait hooking mechanics are in
 [fishing live bait](../bait/fishing-live-bait.md); this note is the selection
 logic behind them.
 
@@ -102,6 +103,29 @@ Same style, different wire, does different jobs (sWRSYCmt4Tw, m2q22sPPkEM):
 - **Heavy-duty (thick) wire** where strength beats swim — islands yellowtail,
   Guadalupe, dropper loop, and big-fish rigs. Thick wire on a small bait weighs it
   down and swims poorly, so save it for larger baits and heavier targets.
+
+### Finish — bronze/black vs. nickel/chrome (Capt. Dave Hansen, Your Saltwater Guide, IMnoZVEYpm4, 2021-05-11; presenter-inferred — solo tutorial on the Your Saltwater Guide channel, no on-screen name given, attributed by channel identity per the dave-hansen registry entry; single mention of this specific claim — `medium` confidence)
+
+For **bait fishing** (the source's own framing: "that's what I do, I'm a bait
+fisherman"), run **bronze or black hooks, never nickel-plated or chrome**, for
+two stacked reasons:
+
+- **Stealth.** Nickel/chrome reflects light underwater; bronze/black goes
+  effectively invisible the moment it hits the water. Framed as mattering most
+  for pressured SoCal fish that "have been fished for a long time" — [bluefin
+  tuna](../species/bluefin-tuna.md) and kelp [calico
+  bass](../species/calico-bass.md) named as the examples. The claim as stated:
+  swap a buddy onto nickel hooks without telling them and you'll out-fish them
+  on stealth alone.
+- **Disintegration if left in a fish.** Bronze/black hooks start corroding the
+  moment they're wet — left in a fish's mouth after a break-off, one will rust
+  away in about a week or less (the source's test: drop one in a glass of
+  water and stir it after about a week and it falls apart). Nickel-plated
+  hooks resist corrosion and "last pretty much forever," so a lost nickel hook
+  stays in the fish indefinitely.
+
+No jig/hardware-hook finish claim is made in this source — it's stated as
+live-bait-specific doctrine.
 
 ### Picking by what's biting, mid-trip (gevNj2Y1Ep8, 2023-09-02)
 
@@ -269,6 +293,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Chunking](../techniques/chunking.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
