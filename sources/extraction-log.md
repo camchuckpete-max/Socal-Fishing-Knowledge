@@ -864,7 +864,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | w5_x6kkN-xE | Your Saltwater Guide | tutorial | deep | done | bait/fishing-live-bait.md; techniques/flyline.md; techniques/kite-fishing.md: Added mackerel hook-position doctrine (butt/nose/back by weight and kite use), bait-size/species-selectivity note, and fly |
 | _aimmQmzqz0 | Your Saltwater Guide | promo | skip:promo | skipped | PTO Fighting Grip product intro/specs/sizing; sponsor-heavy, same product as HOYJ6TAMrg4 |
 | OIqdmhKfuOc | Your Saltwater Guide | tutorial | deep | done | techniques/dropper-loop.md; tackle/rod-and-reel-selection.md: Added dropper-loop deploy procedure (drop-not-cast, nose-hook, index/thumb grip, bottom detection, bite read, two-crank lift-set, tail-cli |
-| KLoEJInlmZo | Your Saltwater Guide | tutorial | deep | pending | Surface iron mechanics: sideways-reel cast for distance, tip-down retrieve, reading the kick, line guide |
+| KLoEJInlmZo | Your Saltwater Guide | tutorial | deep | done | lures/iron-jigs.md; techniques/surface-iron.md: Added surface-iron cast/retrieve/hookset mechanics (reel-on-side cast, line guiding, dog-boning hookset) and Wounded Warrior (Tady 45) color/model detai |
 | wzI0lpgKT1U | Your Saltwater Guide | tutorial | deep | pending | Yo-yo iron cadence: cast, sink to bottom, 10-crank increments, repeat; SoCal yellowtail |
 | kr-DZP7OVmg | Your Saltwater Guide | tutorial | skip:duplicate-of-4xzK7YaXK5s | skipped | same recording as BD id already extracted in batch 1 (sweep sim 0.814) |
 | e5qGRAzwEWQ | Your Saltwater Guide | promo | skip:promo | skipped | Subscription pitch for yoursaltwaterguide.com throughout; no standalone technique content |

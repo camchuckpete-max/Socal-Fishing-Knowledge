@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo]
 confidence: high
 ---
 
@@ -52,6 +52,16 @@ Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
 seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
 2022-09; medium confidence, unregistered channel).
+
+**"Wounded Warrior" — a named Tady 45 color pattern (Dave Hansen, Your
+Saltwater Guide, KLoEJInlmZo, 2021-03-23; dave-hansen is a registered voice —
+high confidence):** Hansen's stated one-jig pick if he could carry only a
+single surface iron — a **Tady 45** finished avocado-green with a touch of
+red on the tail. He credits it as effective on
+**yellowtail, calico bass, white seabass, and yellowfin tuna**. See
+[surface iron](../techniques/surface-iron.md) for his separate confidence-color
+note naming the same Wounded Warrior pattern as his calico-bass go-to
+(3dVc-2rsYII, 2022-03-25), and the retrieve mechanics this jig is fished with.
 
 **Baja, Sea of Cortez iron/metal-jig kit (Cesar, via Dirty Hookers,
 M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention of these

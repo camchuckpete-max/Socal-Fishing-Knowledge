@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo]
 confidence: high
 ---
 
@@ -58,6 +58,14 @@ the blank.
   **outside part of the swing** as it comes back around, not at the top or
   bottom of the arc — consistent with, and a release-point detail added to,
   the pendulum-swing mechanics above.
+- **Lay the reel on its side through the cast (Dave Hansen, Your Saltwater
+  Guide, KLoEJInlmZo, 2021-03-23; earlier occurrence of Hansen's surface-iron
+  doctrine, dave-hansen is a registered voice — high confidence):** rotate the
+  reel onto its side during the cast so the spool rests against only one
+  bearing instead of sitting upright — the stated payoff is a noticeably
+  farther cast. A separate detail from the pendulum-swing/release-point
+  mechanics above; not reconciled or in conflict with them, just an added
+  reel-orientation step.
 
 ## Retrieve & cadence
 
@@ -114,6 +122,14 @@ the blank.
   you can once you're bit until the line starts peeling out the other way** —
   that's the tell you're actually hooked up; if the line isn't going out, the
   fish likely just missed it and there's a good chance for a repeat bite.
+  **Earlier occurrence of the same wind-through doctrine, with the mechanism
+  spelled out (Dave Hansen, Your Saltwater Guide, KLoEJInlmZo, 2021-03-23;
+  dave-hansen is a registered voice — high confidence):** most strikes (his
+  estimate, roughly 9 of 10) come as the fish grabs the swimming iron amidships
+  and shakes it — Hansen calls this "dog boning" — before turning to swim off;
+  swinging in that instant jerks the jig straight out of the fish's mouth,
+  while continuing to wind drives the hooks from the middle of the jig into
+  the fish's face as it turns, which is what actually seats the hook.
   ⚠ **Conflict, kept side by side, region/technique-class label, not
   reconciled:** this contradicts the swing-to-set doctrine for vertical
   jigging — [knife jigging](knife-jigging.md)'s "grab the spool and give three
@@ -187,7 +203,12 @@ confidence):** a **Wounded Warrior**-pattern surface iron is his go-to for
 calico bass — no brand/model named in this video beyond a light aluminum-alloy
 build. Kept side by side with the Cedros mint data point above, not
 generalized — a second single-angler confidence-color report, this one for a
-different species/region.
+different species/region. **Earlier video, same voice, names the model
+(Dave Hansen, Your Saltwater Guide, KLoEJInlmZo, 2021-03-23; high
+confidence):** here he identifies the Wounded Warrior as a **Tady 45** and
+calls it his one-lure pick across yellowtail, calico bass, white seabass, and
+yellowfin tuna — see [iron jigs](../lures/iron-jigs.md) for the color/finish
+spec and full claim.
 
 **Observed** (Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ,
 2020-01-28, La Jolla): a **red crab**-pattern iron produced 2 of the day's 3
@@ -291,6 +312,14 @@ for that lure class rather than for the classic surface-iron blank.
 
 - **Backlash on the cast** — kills distance and, on a foamer, kills your one shot
   at that school. Thumb the spool through the cast.
+- **Not guiding the line onto the spool while winding (Dave Hansen, Your
+  Saltwater Guide, KLoEJInlmZo, 2021-03-23; dave-hansen is a registered voice
+  — high confidence):** in the excitement of a bite, it's easy to stop
+  guiding the retrieved line across the spool with your fingers, letting it
+  pile up on one side. That pile doesn't cause a problem on the retrieve
+  itself, but it sets up a backlash on the **next** cast once you reach that
+  piled-up line. Guide the line evenly across the spool on every retrieve, not
+  just to avoid an immediate backlash but to keep the next cast clean.
 - **Pushing instead of loading the rod** — short casts, no distance.
 - **Wrong retrieve speed** — grinding too fast for finicky calico, or too slow to
   turn a yellowtail. When bit-but-not-hooking, change speed before you change
