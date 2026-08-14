@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc]
 confidence: high
 ---
 
@@ -208,6 +208,16 @@ This 30 lb fluoro is notably lighter than the 40–65 lb fluoro leader logged
 for kelp-stringer swimbait work in [calico bass](../species/calico-bass.md) —
 kept side by side as a second data point (open rock in 6 ft of water on bait,
 vs. dense kelp on a weedless lure) rather than reconciled.
+
+**Observed** (Your Saltwater Guide, 2019-05-26, Northwest Harbor, San Clemente
+Island): the same rod-tip-high, no-slack, grind-it-out fight technique repeated
+at another shallow rock spot inside Northwest Harbor, named on camera as
+"boiler Rock" (asr-uncertain — possibly the same feature logged as "Coiler
+Rock" above, not independently confirmed). Water here was unusually calm and
+clear for the island, **30–40 ft visibility**, with fish taken very shallow
+and close to the rock. Constant re-tying was needed because break-offs on the
+rock were the recurring problem — consistent with the leader-on-rock failure
+mode described above (`eNcltRh-shc`).
 
 ## Common failures
 
