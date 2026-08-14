@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs]
 confidence: high
 ---
 
@@ -188,6 +188,35 @@ Bocana entry for that result. Closer to shore, the crew finished the day
 back on inshore rock structure, landing yellowtail on surface iron — see the
 [yellowtail](../species/yellowtail.md) Baja coast entry.
 
+## East Cape, Baja — Buena Vista Beach Resort offshore troll for tuna/dorado/wahoo/marlin
+
+**Observed** (StokedOnFishing, 2018-03-09 upload, Buena Vista Beach Resort,
+East Cape, Baja California Sur — `tcso7Lpm_Xs`, "Stoked On Hotel Buena Vista
+Beach Resort"; unregistered channel — medium confidence; region: Baja, East
+Cape, distinct from the Sea of Cortez kit and the La Bocana entry above): the
+resort is framed on camera as offering both offshore trolling (tuna, dorado,
+wahoo, marlin) and inshore/beach fishing (rooster fish) out of the same trip.
+On the first morning, jigs were in the water roughly **15 minutes** before
+the first hookup, and the session produced tuna (species not specified on
+camera), roughly **15–16 dorado** (most released), roughly **15–20
+skipjack**, one large fish the crew called a "snapper" on camera but could
+not confidently identify (not logged as a confirmed species), and a hookup
+the crew called a big marlin — one angler noted on camera that its jumping
+"did not look like a striped marlin," but the species was never confirmed on
+screen, so this is logged as an **unconfirmed marlin catch**, not a
+confirmed striped marlin. A second morning's spread produced multiple wahoo
+through the session — the crew's running count is ASR-garbled on camera
+("free wahoo" heard, most likely **three** wahoo already boated with a
+fourth hooked when the count was given) — with no leader or lure-color
+detail given in the captions for either species. With a dorado hooked, the
+crew deliberately delayed boating it and got a second bait in the water,
+describing the tactic on camera as keeping the hooked fish "in the water" to
+hold the school and draw followers before landing the first fish — see the
+[dorado](../species/dorado.md) East Cape entry. The video promises a
+beach session targeting rooster fish "later on tonight," but the footage
+cuts directly to the next day's offshore troll without showing it — no
+beach/rooster fish technique content is captured from this video.
+
 ## Common failures
 
 - **Straight-lining away** from sign you just marked (sweep instead).
@@ -217,6 +246,7 @@ back on inshore rock structure, landing yellowtail on surface iron — see the
 - [Mad Mac](../lures/mad-mac.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Speed Trolling](speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)

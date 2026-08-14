@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs]
 confidence: high
 ---
 
@@ -109,6 +109,19 @@ an offshore trolling ground, consistent with the birds-mark-the-life sign
 already documented in [bird reading](../conditions/bird-reading.md); no
 lure/bait or leader detail given for this hookup. Unregistered channel —
 medium confidence.
+
+**Observed (Baja, region label)** (StokedOnFishing, 2018-03-09 upload,
+Buena Vista Beach Resort, East Cape, Baja California Sur —
+`tcso7Lpm_Xs`, "Stoked On Hotel Buena Vista Beach Resort"): a full trip's
+offshore troll produced roughly **15–16 dorado** in one session (most
+released), alongside tuna, skipjack, and wahoo — see the
+[trolling East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)
+for the full catch report. With a dorado hooked, the crew deliberately
+delayed boating it and got a second bait in the water, describing the
+tactic on camera as keeping the hooked fish "in the water" to hold the
+school and draw followers before landing the first fish — a school-holding
+tactic distinct from (and not merged into) the picky/circling-dorado
+leader-stepdown row above. Unregistered channel — medium confidence.
 
 ## Gear summary (class terms)
 

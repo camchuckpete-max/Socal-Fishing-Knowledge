@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [skipjack, tuna, offshore, bait, bycatch, trolling, flyline]
-sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84]
+sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84, tcso7Lpm_Xs]
 confidence: medium
 ---
 
@@ -80,6 +80,14 @@ but hard-charging, they'll eat almost anything moving.
   [current break](../conditions/current-diagnostics.md#current-break-visual-id)
   — consistent with the aggressive-on-trolled-lures doctrine above, this time
   in a Baja/Cabo context rather than the SoCal offshore grounds.
+- **Observed** (StokedOnFishing, 2018-03-09 upload, Buena Vista Beach Resort,
+  East Cape, Baja California Sur — `tcso7Lpm_Xs`): roughly **15–20 skipjack**
+  came aboard as bycatch on a single morning's offshore troll targeting
+  tuna/dorado/wahoo/marlin — see the
+  [trolling East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin).
+  Consistent with the everyday-bycatch doctrine above; no lure/leader detail
+  given for the skipjack specifically. Unregistered channel — medium
+  confidence.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -97,6 +105,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Striped Marlin](striped-marlin.md)
+- [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
