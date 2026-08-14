@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU]
 confidence: high
 ---
 
@@ -126,6 +126,20 @@ into the spot once the current read right.
 - **The water triad is shared with [California halibut](../species/california-halibut.md)**
   — identical "seabass/halibut color" requirement (off-color + current + bait, all
   three, leave inside 20–30 min if a leg is missing).
+- **Depth ceiling and season, from the earlier leg of the same trip
+  (StokedOnFishing, 2023-08-23, Catalina Island, xFS3MW4GpDU; unregistered
+  channel — medium confidence).** The crew — volunteers Jock and Charlie
+  Albright, fishing the Hatchery's collection permit — hold this program's
+  fishing to **shallower than 60 ft, most of it in 40 ft or less**: past
+  roughly **70 ft** white seabass are "very sensitive," their air bladders
+  inflate on the way up, and reviving them for the net pen becomes very
+  difficult. This is a **live-transport constraint for the broodstock
+  program, not a general WSB depth/bite rule** — kept here as observed
+  program context, side by side with the islands'/squid-nest depths (60–100+
+  ft) documented above for the general fishery. The trip is timed to
+  **May/June**, described on camera as when the majority of the WSB
+  migration through the area comes through; the Hatchery calls this crew out
+  most years to coincide with that window.
 - **Broodstock/hatchery collection context — not general-public fishing
   (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo; unregistered
   channel — medium confidence).** This crew fished a Catalina MLPA (Marine

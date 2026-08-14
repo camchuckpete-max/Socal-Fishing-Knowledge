@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU]
 confidence: medium
 ---
 
@@ -89,6 +89,13 @@ the oxygen and dies.
   [fishing live bait](fishing-live-bait.md)).
 - **Steady flow** is the whole job — an interruption to the pump is what kills a
   tank of bait.
+- **Squid-specific density note** (StokedOnFishing, Catalina Island trip,
+  2023-08-23, xFS3MW4GpDU; unregistered channel — medium confidence): squid
+  need oxygen the same as finfish bait, so don't overfill the tank on the
+  loading pass — packing squid too densely was described as making them
+  "mate quicker and die quicker," a problem on a multi-day trip that needs
+  the squid to last. Balance the load against how many days the squid has to
+  keep.
 
 ## Judging load size at the barge (dave-hansen, 7WapaxdtjQg, 2022-01-04)
 
