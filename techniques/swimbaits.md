@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE]
 confidence: high
 ---
 
@@ -86,11 +86,28 @@ confidence.
   particular day rather than a fixed rule, consistent with the with/against/
   perpendicular-to-current speed variation above. Unregistered channel —
   medium confidence.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 3" —
+  `IATPg9110CE`, Santa Barbara Island, event ~early November 2014 per the
+  2014-11-11 upload): a plastic worked tight to rock structure was cast in,
+  let sink close to bottom, then wound on a **real slow roll right along the
+  bottom**, with the angler periodically **stopping it to let it fall again**
+  — bites came as the bait fell after the pause. Consistent with, and adds a
+  stop-and-fall detail to, the "slow roll on the bottom" bite-speed
+  observation above. Unregistered channel — medium confidence.
 - Use a **graphite-composite rod with a soft glass tip** (Landesfeind fishes a
   7-foot Rainshadow Judge live-bait blank; a 7- or 8-foot graphite rod also
   works, a 9-footer for bomb casts at San Clemente). The soft tip **bends and
   buys the split second** to drop the rod tip before the set — a stiff XH rod
   just pulls the bait free.
+- **Observed** (StokedOnFishing, `IATPg9110CE`, Santa Barbara Island, event
+  ~early November 2014): anglers discussed rod length as a distance-vs-
+  leverage trade-off — **8 to 8½ ft rods** cast farther for reaching back
+  into structure but "wear you down" fished all day, while a **7 ft rod**
+  was described as having "tons of leverage" for pulling fish out of rock/
+  kelp. Kept side by side with, not a replacement for, the 7- to 9-ft rod
+  range already logged above (Landesfeind's 7-ft live-bait blank up to a
+  9-footer for bomb casts) — a data point on the length trade-off rather
+  than a new spec. Unregistered channel — medium confidence.
 
 ## Depth and where you throw it
 

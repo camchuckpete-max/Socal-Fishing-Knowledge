@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE]
 confidence: high
 ---
 
@@ -241,6 +241,27 @@ present the outside stringers.
   been noticeably more kelp on a prior visit. No current/water-color/tide
   detail given beyond the kelp presence; audio quality on this source is poor
   and no further technique detail could be reliably extracted.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 3" —
+  `IATPg9110CE`; event dated to roughly early November 2014 per the
+  2014-11-11 upload — exact on-camera date not given): day two of the
+  fourth annual California Offshore Challenge tournament (weigh-ins at Two
+  Harbors, Catalina Island) saw one boat (team Killer Whale) fish **Santa
+  Barbara Island's kelp/rock structure** while a second boat (team Salty)
+  stayed at Catalina. Team Killer Whale's day-one run had taken them to San
+  Nicholas Island, then to Santa Barbara Island, where they found only a
+  small beach bite — **Santa Barbara Island itself was "blown out" on day
+  one**; by day two "the swell coming down" had improved it enough that the
+  crew skipped a longer run and worked the island in place. There the crew
+  worked fish tight against the rocks ("all the way up against that rock")
+  and through a **narrow gap between two rocks**, landing a five-fish limit
+  that added **24 lb** to their day-one weight for a **47 lb** two-day total
+  — enough to win the tournament. Team Salty, which stayed at Catalina both
+  days, weighed in a comparatively poor **16 lb** on day two after leading
+  day one with 26 lb (no reason given for Catalina's day-two drop-off). Read
+  as a data point for Santa Barbara Island kelp/rock structure producing
+  once swell drops, not as evidence about Catalina's conditions; no
+  current or water-color detail given. Unregistered channel — medium
+  confidence.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).
