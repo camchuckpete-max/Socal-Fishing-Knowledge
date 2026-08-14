@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I]
 confidence: high
 ---
 
@@ -142,6 +142,15 @@ paddy program), not treated as a contradiction of the paddy-specific
 doctrine. Unregistered channel, sponsor-heavy video (Okuma) — medium
 confidence on the technique/parameters, low on any brand endorsement.
 
+**Observed (Baja, region label)** (StokedOnFishing, October 2020 trip (per
+on-camera reference), 2020-12-18 upload, "macro banks," Cedros Island area,
+Baja — `yjwIGFzWO8I`, "Cedros Island Yellowtail Fishing Part Three"): dorado
+came mixed into a morning yellowtail bite at a bank named on camera as
+"macro banks" (ASR, exact name unverified) — see the
+[yellowtail](yellowtail.md) Cedros entry for that session's yellowtail
+detail. No lure, leader, or hook detail given for the dorado specifically.
+Unregistered channel — medium confidence.
+
 ## Gear summary (class terms)
 
 - **Rod/reel:** a **40–60 lb all-day class** setup (star or lever drag) covers
@@ -195,4 +204,5 @@ confidence on the technique/parameters, low on any brand endorsement.
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

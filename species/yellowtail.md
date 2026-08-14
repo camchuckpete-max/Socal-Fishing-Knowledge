@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I]
 confidence: high
 ---
 
@@ -291,6 +291,26 @@ typical-year mapping.
   depredation at the
   boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species)
   for this and the other depredation instances logged there.
+  **Observed** (StokedOnFishing, October 2020 trip (per on-camera reference),
+  2020-12-18 upload, Cedros Island area, Baja — `yjwIGFzWO8I`, "Cedros Island
+  Yellowtail Fishing Part Three"; Cedros Outdoor Adventures charter, part 3 of
+  a multi-stop trip run macro banks → Benitos Island → mainland/Chester's
+  Rock): a morning session at a bank named on camera as "macro banks" (ASR,
+  exact name unverified) produced a mixed yellowtail-and-dorado bite,
+  including a **40 lb** yellowtail called the angler's personal biggest and a
+  separate on-camera grade call of **"30, 40 pound"** yellowtail before the
+  group moved on to calico bass fishing at Chester's Rock (see the
+  [calico bass](calico-bass.md) Cedros entry for that leg). One yellowtail
+  ran into kelp and was fought on a light **15–30 lb class rod spooled with
+  65 lb spectra**; the angler (Greg) hoped the spectra would cut through the
+  kelp rather than foul in it, and this time it worked — fish landed. This
+  contrasts with the failed outcome of the same braid-vs-kelp gamble already
+  logged in the San Benito Island entry below (`9D3Oiy0ASzg`), where the line
+  instead got cut off in the kelp/rocks. A separate shallow-water stop later
+  in the trip ("you can see the bottom") produced more yellowtail on a
+  two-speed reel (brand/model ASR-garbled — heard as "cavalla"/"cabala,"
+  unverified, not carried as a product name). Unregistered channel — medium
+  confidence.
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —
@@ -423,6 +443,7 @@ water temp and bait depth before committing the day to one face.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

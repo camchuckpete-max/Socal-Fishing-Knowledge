@@ -1006,7 +1006,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | LE49ush9zqA | StokedOnFishing | on-the-water | skip:thin-generic | skipped | No location/conditions given; pure catch montage of double yellowtail hookups |
 | isXJONlpUP4 | StokedOnFishing | on-the-water | parameter-skim | done | techniques/trolling.md / Added Mag Bay estuary/mangrove troll-and-cast entry (wind/chop fallback from offshore marlin, 25-30ft channel depth, palometa/pompano-family ID, 3/4oz Cast Master casting swit |
 | OVwqUKim9Pc | StokedOnFishing | on-the-water | parameter-skim | done | techniques/trolling.md / Added Mag Bay sea-state bank-routing Observed entry (Ridge vs Modesto Main, wahoo->dorado bite, final-day snook estuary) to existing Magdalena Bay section |
-| yjwIGFzWO8I | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja pt3; multi-stop itinerary macro banks to Benitos to mainland Chesters Rock; series pt3 |
+| yjwIGFzWO8I | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/calico-bass.md; species/dorado.md / additive Observed-block entries for Cedros macro-banks to Chester's Rock leg (yellowtail 30-40lb + kelp/spectra fight, mixed dorado,  |
 | DGh-iUp63Hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus halibut/black bass/salmon |
 | j-hRaVWkQw4 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus halibut pt2 |
 | 9pJA2BnCjpc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica private creek machaca, freshwater jungle stream |

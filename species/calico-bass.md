@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I]
 confidence: high
 ---
 
@@ -205,6 +205,19 @@ you read the *current across the kelp*, not the tide clock.
   that time — conditions context only, not a new bite-pattern claim beyond the
   fast/high-volume Cedros pattern already documented above. Unregistered
   channel — medium confidence.
+- **Observed** (StokedOnFishing, October 2020 trip (per on-camera reference),
+  2020-12-18 upload, Chester's Rock, mainland side near Cedros Island, Baja —
+  `yjwIGFzWO8I`, "Cedros Island Yellowtail Fishing Part Three"; Cedros
+  Outdoor Adventures charter, part 3 of a multi-stop trip run macro banks →
+  Benitos Island → mainland/Chester's Rock; continues the morning yellowtail
+  session logged in the [yellowtail](yellowtail.md) Cedros entry above): the
+  group moved from a **30–40 lb** yellowtail morning bite to Chester's Rock
+  and connected on kelp calico in the **5–6 lb** class on the first cast of a
+  weedless plastic — "we know what's going to bite" — with an **MC**-brand
+  jerk bait (see the [MC Swimbaits model
+  benchmark](../lures/soft-plastic-swimbaits.md)) also producing. Consistent
+  with, not a new data point on, the fast/immediate-bite Chester's Rock
+  pattern already documented above. Unregistered channel — medium confidence.
 - **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur — Pacific side, described on camera as "just half way down the Baja
   Peninsula" — `qri15R3caYE`, "Stoked On La Bocana," part 1): a new-to-the-crew
