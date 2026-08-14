@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [tuna, bluefin, yellowfin, fish-care, ikejime, gaffing]
-sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc]
+sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA]
 confidence: medium
 ---
 
@@ -54,6 +54,12 @@ walkthrough for a bluefin:
   doctrine above — cutting/pulling the gill opens the bloodline, which bleeds
   the fish out and also kills it faster — done immediately boat-side with the
   fish going on ice right after.
+- **Observed** (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered
+  channel — medium confidence): this charter operation's stated order is
+  **bleed, kill, then gut, immediately on landing the fish**, followed by
+  **packing the cavity itself with ice and completely covering the fish** —
+  consistent with, not a new step beyond, the bleed/field-dress-then-chill
+  chain above; the explicit cavity-packing detail is the addition.
 
 ## 3. Wet-towel cooldown before icing
 
@@ -87,6 +93,31 @@ mass. Hold it in the cold at least this long before you consider it done:
 
 - A **>100 lb** fish will not core-chill in an afternoon — plan to hold it
   **overnight** and **re-ice** it as the slurry melts down.
+
+## 6. Loin handling after filleting — salt water, not fresh
+
+**Observed** (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel
+— medium confidence): a charter operation's dockside processing routine, once
+loins are cut off the carcass.
+
+- **Rinse cut loins in a cold salt-water bath — never fresh water.** Moisture
+  from fresh water speeds up tuna meat decomposition; the crew mixes
+  **regular table salt (Morton's), about 3/4 cup per batch of ice**, into the
+  ice to chill the rinse water down to **about 32 °F, just under freezing**.
+  Loins get a quick rinse in this salt water right after being cut, then are
+  set aside.
+- **Restaurant practice cited as the reason:** high-end kitchens store tuna
+  loins wrapped in a special paper that wicks moisture off the fish without
+  over-drying it — the same moisture-vs-decomposition logic behind skipping
+  fresh water here.
+- **Named failure mode:** charters that just loin the fish, skin it, bag it in
+  plastic, and hand it over with no salt-water step or attentive chilling are
+  "a great way to waste a lot of the tuna" on a big-yield trip (100+ lb of
+  loins cited).
+- Loins go back into the bag/on ice **while still cold**, straight from the
+  salt-water rinse. This step happens at the dock during processing, after the
+  fish is already off the boat — it follows, and does not replace, the
+  slurry-chilling chain above.
 
 ## Related
 

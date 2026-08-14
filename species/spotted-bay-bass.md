@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA]
 confidence: high
 ---
 
@@ -152,10 +152,18 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - **The bay is the all-weather fallback:** when the outside coast is blown out or
   rained on, spotties in the harbor stay catchable — this fishery keeps the day
   alive when the offshore/island plan dies.
+- **Legal size (California/CDFW, as-of 2024-11, verify current rules):**
+  spotted bay bass carry **no minimum size limit**, unlike
+  [calico bass](calico-bass.md) and [sand bass](sand-bass.md) (both **14 in**)
+  (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel — medium
+  confidence). The same source describes spotties as typically released
+  rather than kept — a fighting fish, not a table fish, in this crew's
+  practice.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barred Sand Bass](sand-bass.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bird Reading](../conditions/bird-reading.md)

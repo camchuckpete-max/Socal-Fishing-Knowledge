@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA]
 confidence: medium
 ---
 
@@ -47,6 +47,23 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   the line clear of the props, with the captain watching the fish and
   turning the boat as needed rather than on a fixed cue.
 
+## Kite hookup — close the slack fast, then kill the props
+
+**Observed** (StokedOnFishing, 2024-11-13, SoCal, NE of Santa Barbara Island —
+`usHl-4SfqDA`; unregistered channel — medium confidence): a hookup-specific
+counter-move for a fish taken off the [kite](kite-fishing.md).
+
+- Because the bait hangs off a long run of line strung from the rod up to the
+  kite and back down to the water, a fresh bite can leave **as much as 30
+  seconds of straight slack** — a real window for the hook to pull. The
+  counter-move: **punch the throttle immediately on the bite** to close that
+  slack and come tight as fast as possible, rather than easing into it.
+- Once the fight settles into an **up-and-down fight straight under the
+  boat**, the crew **kills the engines and trims the outboards/props up out
+  of the water** — explicitly to keep the fish from rushing the stern and
+  getting cut off on the props (this boat runs three outboards). From there
+  the captain works the fish/boat by eye rather than on a fixed cue.
+
 ## Walk it down-swell, avoid the death circle
 
 - Keep the boat moving **down-swell for the entire fight**, not just at the
@@ -72,6 +89,21 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   swell**. Framed on camera as the same "let the boat do the work" logic as
   the gear-tap above, applied to the last stretch of the fight at the rail
   rather than to boat-driving.
+- **Observed** (StokedOnFishing, 2024-11-13, SoCal, NE of Santa Barbara Island
+  — `usHl-4SfqDA`, "Fishing, Cleaning & Cooking Pacific Giants"; unregistered
+  channel — medium confidence): a second, independent trip corroborating the
+  same boat/swell-leverage rail mechanic as the entry directly above. This
+  operation's gear for it is called **"wrap system pipes"** at the rail; the
+  rod's butt goes under the angler's **left armpit**, the reel hand works the
+  handle, and the angler **squats down and stands up, using the boat as
+  leverage** — wind down while standing up on the back of a swell, don't wind
+  while the swell is lifting the boat, the same up-swell-ease / down-swell-pull
+  cue as the entry above. **No fighting belt/harness is used** in this rail
+  style — coached live as "you're off the belt." Two visiting East Coast
+  anglers, used to fighting big tuna in a harness/belt, found the beltless
+  rail style "awkward" on their first fish — one wedged the rod between his
+  legs rather than under the armpit as shown. Reel used on this program's
+  kite/fighting outfits: **Okuma Makaira 50 Wide**.
 - **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
   California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
   unregistered channel — medium confidence): a contrasting, hand-fought data
@@ -221,6 +253,7 @@ gamefish a sea lion is stealing boatside, not just bluefin.
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Kite Fishing](kite-fishing.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

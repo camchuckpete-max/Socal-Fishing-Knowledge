@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA]
 confidence: high
 ---
 
@@ -217,6 +217,10 @@ shot in [gaffing](../fish-care/gaffing.md).
   the current rockfish-closure caveat, and
   [bank naming](../locations/zone-lexicon.md#bank-naming--the-fathom-depth-convention)
   for why 43 is named for its shallowest fathom depth.
+- **Bag limit (California/CDFW, as-of 2024-11, verify current regs):** stated
+  on camera as **two Pacific bluefin tuna per person per day**
+  (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel — medium
+  confidence).
 - **Conflict — calendar vs water state:** the corpus **year-anniversary prior**
   ("go back to this date last year and the year before — pretty close to where
   they'll be," strongest in fall) sits against **Cameron's water-first stance**

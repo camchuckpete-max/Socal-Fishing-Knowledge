@@ -1040,7 +1040,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | A8SuzB5qiKE | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/trolling.md; techniques/yo-yo-iron.md / Cedros Outdoor Adventures Oct-trip observations: yellowtail yo-yo iron rod/reel/leader builds (212ft drop,  |
 | PAZA-PzMcWQ | StokedOnFishing | promo | skip:promo | skipped | Sizzle reel montage, no content, channel promo |
 | Xnq3FIUzvuw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus king salmon charter |
-| usHl-4SfqDA | StokedOnFishing | on-the-water | deep | pending | SoCal (Balboa Island/offshore CA); pre-ID deep Pacific Giants film; kite/flying-fish rig, tuna belt/railroading, bleed-gut process |
+| usHl-4SfqDA | StokedOnFishing | on-the-water | deep | done | fish-care/tuna-care.md; locations/bays-and-harbors.md; rigging/flying-fish-harness.md; species/bluefin-tuna.md; species/calico-bass.md; species/spotted-bay-bass.md; techniques/fighting-big-bluefin.md; |
 | RpfHO-kotc8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus); king/sockeye salmon; sponsor-heavy intro |
 | Sz88huROjtY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) halibut/rockfish; sponsor-heavy intro |
 | SS_ObRfLw2E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska halibut dropper-loop/grub jig; sponsor-heavy intro |

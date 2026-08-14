@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA]
 confidence: medium
 ---
 
@@ -52,6 +52,21 @@ naturally across the surface and holds up through repeated deployments.
   action; too light a leader risks a bite-off on this grade of fish. Rig 10 to
   12 flyers for a four-angler day and store them neatly in the cooler so they are
   ready to deploy.
+
+## Simpler alternative wing-lock: popsicle stick
+
+**Observed** (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13, SoCal, NE of Santa
+Barbara Island; unregistered channel — medium confidence): a simpler field
+method for keeping the flying fish's wings open — **staple a popsicle stick to
+the bait** rather than using the skewer-and-zip-tie harness above. Paired with
+a **tandem rig: a big single hook up front and a treble hook trailing on the
+tail**, consistent with the standard San Diego flyer rig's J-hook-plus-
+trailing-treble construction above, though this source names no leader weight
+or hook size. Kept beside, not merged into, the skewer/zip-tie method above —
+a faster field rig for the same purpose, not shown to be superior or
+inferior. Deployed the same way: main line runs to the kite line, the flyer
+dances/skips near the surface, and the fishing line comes free of the kite
+line on the bite.
 
 ## Artificial alternative — durable rubber flyer for trolling
 

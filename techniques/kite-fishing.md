@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA]
 confidence: high
 ---
 
@@ -118,6 +118,14 @@ trigger to speed-troll once the kite won't fly. See
   to carry a tank on the boat — a platform constraint of his setup, not a rule of
   the fishery; on a bigger boat with room for a balloon the light-wind window
   reopens.
+- **Observed** (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13, SoCal, NE of Santa
+  Barbara Island; unregistered channel — medium confidence): this crew flew a
+  hand-inflated balloon **together with the kite itself** in fishable wind —
+  described on camera as "one rod with a kite with a balloon on top" — not as
+  a light-wind workaround. The video doesn't explain the balloon's purpose
+  relative to the kite's own lift (visual marker vs. extra lift), so this sits
+  beside, not reconciled with, the helium-balloon-assist doctrine above, which
+  is specifically framed as a no-wind fix.
 
 ## Gear class
 
@@ -126,6 +134,9 @@ trigger to speed-troll once the kite won't fly. See
 - A heavy fluorocarbon **bite leader** (200 lb-plus; 300 lb is common) with a big
   J up front and a strong treble on the tail — construction lives in the
   [flying fish harness](../rigging/flying-fish-harness.md) note.
+- **Observed reel example:** an **Okuma Makaira 50 Wide** on the kite/fighting
+  outfit (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel —
+  medium confidence).
 
 ## Common failures
 
@@ -141,6 +152,7 @@ trigger to speed-troll once the kite won't fly. See
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

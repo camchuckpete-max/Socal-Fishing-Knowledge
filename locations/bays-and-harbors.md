@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [bays, harbors, eelgrass, docks, riprap, tide, structure]
-sources: [YgqXf9iICyg, AxLlx2Ug-rs]
+sources: [YgqXf9iICyg, AxLlx2Ug-rs, usHl-4SfqDA]
 confidence: high
 ---
 
@@ -44,6 +44,15 @@ Read a bay by finding these features and the **edges** where two of them meet:
   location unspecified): fish held **tight to the pilings**, using them to ambush
   bait, so the crew's casts stayed **as close to the pilings as possible** rather
   than working the open water around them; species not specified in source.
+  **Observed** (StokedOnFishing, 2024-11-13, Long Beach Harbor, SoCal —
+  `usHl-4SfqDA`; unregistered channel — medium confidence): when working dock
+  pilings for bass (calico, sand bass, spotted bay bass mixed), the crew
+  specifically favored **old, weathered pilings over new ones** — old pilings
+  carry established growth and crustaceans that new pilings haven't grown yet,
+  and that growth is what holds fish; a new piling can still hold a fish, but
+  is judged distinctly worse water. A quick visual tell: old pilings look
+  noticeably different (worn, colonized) from a freshly installed piling
+  nearby.
 - **Riprap edges.** The rock lining channels, jetty bases, and harbor mouths.
   These behave like the outside riprap in miniature — see
   [break walls, jetties and riprap](breakwalls-jetties-riprap.md) for how the

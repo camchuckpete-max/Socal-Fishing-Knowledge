@@ -88,3 +88,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T15:35:15Z — Zo92MG459gQ — evaluator-escalate
 - run: 31811441411
 - reason: calico-bass.md addition reframes the recording date of the Cedros 100%-catch-and-release policy claim as on-or-before 2023-05-24 (not October 2023) - confirm this redating doesn't need to update the claim's as-reported date/verify-current framing per the regulatory-claim escalation trigger
+
+## 2026-08-14T16:47:03Z — usHl-4SfqDA — evaluator-escalate
+- run: 31811441411
+- reason: two CDFW regulatory claims added (bluefin bag limit 2/person/day in species/bluefin-tuna.md; spotted-bay-bass no-minimum-size in species/spotted-bay-bass.md), both jurisdiction/as-of/verify-flagged per convention but need Cameron's verify-current confirmation before Gate B
