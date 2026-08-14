@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM]
 confidence: medium
 ---
 
@@ -48,6 +48,11 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
   little shad pattern"), worked either right on the drop or on a slow
   wind-back near bottom; the crew also noted an anchovy smell in the water.
   Multi-speaker, unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2012-04-19, San Diego Bay/Chula Vista Marina):
+  during the SWBA Border Town Brawl tournament day itself (spotted-bay-bass-only
+  event), the crew reported a **shrimp-pattern** lure working on fish through
+  the session (narration cuts off before naming the bait type or rigging
+  detail). Multi-speaker, unregistered channel — medium confidence.
 
 ## How to fish it
 

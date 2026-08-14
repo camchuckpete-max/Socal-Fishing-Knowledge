@@ -976,7 +976,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | xIUKmH9ccgQ | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/california-halibut.md; species/yellowtail.md / observations-only Cedros catch-montage footage added as three attributed Observed blocks (calico/mixed bite, incidental h |
 | IFhBVRoc4VQ | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA/Sanderson Farms Shelf Bass Special weigh-in/catch footage, no conditions detail |
 | fjMHM1V9iPc | StokedOnFishing | report | skip:thin-generic | skipped | Bass-stravaganza vendor/seminar-day recap interviews on standings/sponsors, no technique captured |
-| FurifnQ27mM | StokedOnFishing | on-the-water | single-pull | pending | San Diego/Chula Vista spotted bay bass tourney (Border Town Brawl): shrimp-pattern lure worked |
+| FurifnQ27mM | StokedOnFishing | on-the-water | single-pull | done | lures/bay-bass-plastics.md / added Observed block (shrimp-pattern lure worked, SWBA Border Town Brawl tournament day) + fixed missing front-matter source id |
 | wdbqTio1SQU | StokedOnFishing | on-the-water | observations-only | pending | Baja Cedros: North Pt spot noted for 30+lb yellows, brief surface-iron/yo-yo mentions, sponsor-heavy |
 | RPSRH0jwyw4 | StokedOnFishing | on-the-water | observations-only | pending | Baja Cedros West End backside spot catch footage; series: Cedros GOES OFF part 2 |
 | yuXr3IJ8ybg | StokedOnFishing | on-the-water | observations-only | pending | SCI Pyramid Head Okuma gear-demo trip (PCH rods/Toro reels), sponsor-heavy, some catch footage |
