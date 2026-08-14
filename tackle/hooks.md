@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg]
 confidence: medium
 ---
 
@@ -199,7 +199,7 @@ the bottom; a bait lying on the bottom catches rays and shovelnose sharks instea
 A bullet weight slid down over the hook knot (point the bullet at the rod tip so
 the hook eye seats up inside it) makes the hook nearly invisible.
 
-### Cut squid strips for structure/bottom bait (Dave Hansen, Your Saltwater Guide, yKaHcxX46l4, 2022-07-29; registered voice, single mention — medium confidence)
+### Cut squid strips for structure/bottom bait (Dave Hansen, Your Saltwater Guide, yKaHcxX46l4, 2022-07-29; registered voice, repeated across two Your Saltwater Guide videos — see EE0P4SvcNFg below — `high` confidence)
 
 For sheephead, sargo, and small bass — especially as a backup when there's no
 live bait — prep and hook **cut squid strips** rather than a chunk:
@@ -218,6 +218,12 @@ live bait — prep and hook **cut squid strips** rather than a chunk:
 - **Any hook works** — his examples run a small hook (size 2, size 4; style
   unspecified) or a small lead head; the strip presentation matters more than
   the specific hook chosen.
+- **Corroborated** (Your Saltwater Guide, EE0P4SvcNFg, 2019-04-07): a short
+  standalone clip states the same core rule independently, and earlier — cut
+  squid into **nice thin strips, not big square chunks**, for more bites
+  ("this is the hot [tip]"). No prep or hook detail beyond the thin-strip
+  claim itself; bumps this rule to repeated-doctrine (`high`) confidence from
+  a registered voice.
 
 ### Sheephead — hook, weight, and bait (Dave Hansen, Your Saltwater Guide, OSbAHdB4uPs, 2021-01-12; registered voice, repeated across two Your Saltwater Guide sheephead/structure videos — corroborates the size-2/size-4 figure above from yKaHcxX46l4 — `high` confidence on the size call)
 
