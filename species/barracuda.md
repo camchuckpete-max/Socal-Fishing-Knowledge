@@ -80,6 +80,7 @@ dedicated program.
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Haywire Twist](../rigging/haywire-twist.md)

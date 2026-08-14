@@ -842,7 +842,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Pv5JMTTY4nI | Your Saltwater Guide | tutorial | skip:duplicate-of-9qnQjPPT5yg | skipped | sweep sim 0.946, re-upload of 2021-05 PTO grip video (primary itself triaged skip:promo) |
 | ur1F8gD1sF4 | Your Saltwater Guide | promo | skip:promo | skipped | Subscription-pitch-dominated; scattered tips (breeze-reading, avoid combat fishing) buried in rant |
 | vJ70gNV72eY | Your Saltwater Guide | promo | skip:promo | skipped | Mostly generic date-day advice + subscription pitch; thin bait-tank-shape/fly-lining nugget |
-| VsUUBICiBzQ | Your Saltwater Guide | tutorial | parameter-skim | pending | Improved-clinch knot tying procedure (7 wraps), retied after every fish due to teeth fraying line |
+| VsUUBICiBzQ | Your Saltwater Guide | tutorial | parameter-skim | done | rigging/essential-knots.md / Improved-clinch (fisherman's knot) tying procedure merged: 7-wrap single-pass mechanic, retie-after-nearly-every-fish cadence (bluefin/calico/barracuda), attributed dave-h |
 | qihSsdqBU2A | Your Saltwater Guide | non-fishing | skip:no-usable-content | skipped | Entire transcript garbled nonsensical ASR, no recoverable content (light-line theory unrecoverable) |
 | 44pjBUn0nP8 | Your Saltwater Guide | on-the-water | skip:duplicate-of-wYeKJLoKo4g | skipped | confirmed: identical dialogue/duration(1:44) to primary yummy-flyer breezer clip |
 | zVIfArUrpDI | Your Saltwater Guide | tutorial | deep | pending | SoCal rockfish quick-canyon rig: San Diego jam knot, dropper loop x2, circle-hook rationale, braid-vs-mono choice |

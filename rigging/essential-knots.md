@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ]
 confidence: medium
 ---
 
@@ -35,6 +35,8 @@ fluoro leader, braid main line — and feed the terminal rigs in
   rig; see the sizing logic there.
 - **Loop knot (terminal)** — ties a hook **without a solid ring** in its eye,
   when you don't have (or don't want) a ringed hook.
+- **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
+  by the dozens through a bite; see the retie cadence below.
 
 ## Parameters & judgment
 
@@ -140,6 +142,29 @@ fluoro leader, braid main line — and feed the terminal rigs in
   when a ring is available: it adds no extra hardware weight to a bait that's
   already not fully healthy, and it's silent — no ring-on-hook clank to spook
   a finicky, picky bite.
+- **Improved clinch (Dave Hansen, Your Saltwater Guide, VsUUBICiBzQ,
+  2021-06-29; dave-hansen registered voice, single mention of this specific
+  knot — `medium` confidence):** the presenter calls it his "fisherman's
+  knot" (what he was taught as a kid) and separately references an "improved
+  cinch knot" name for it; tie as a **single pass through the hook eye**
+  (not doubled), spin the tag **7 times** around the standing line, pass the
+  tag through the lower loop nearest the eye — which forms a second loop
+  above it — then back through that top loop, and pull down tight to cinch
+  (he seats it by gripping the tag in his teeth and pulling). Spin/slide the
+  coils down snug, then clip the tag close. **Judgment — retie cadence:** he
+  re-ties this knot on a fresh hook after nearly every fish, "over a hundred
+  times a day" on a good day, because toothy SoCal species —
+  [bluefin tuna](../species/bluefin-tuna.md),
+  [calico bass](../species/calico-bass.md), and
+  [barracuda](../species/barracuda.md) are the three he names — fray the
+  last few inches of line on the bite; cutting the hook off and re-tying is
+  faster than trying to fish on a compromised end. **Flag:** this single-pass,
+  spin-then-through-bottom-then-top-loop mechanic reads distinct from the
+  San Diego jam above (which doubles the line through the eye before
+  wrapping). Within this video the presenter uses "fisherman's knot" and
+  "improved cinch knot" interchangeably for the same tie; no other Your
+  Saltwater Guide knot video has been extracted yet to confirm whether that
+  naming holds consistent across his channel.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -149,13 +174,15 @@ fluoro leader, braid main line — and feed the terminal rigs in
 How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0),
 [three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
 [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
-and [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE).
+[Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
+and [improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Barracuda](../species/barracuda.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
