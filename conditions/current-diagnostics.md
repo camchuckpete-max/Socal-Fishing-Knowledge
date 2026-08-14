@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84]
 confidence: high
 ---
 
@@ -49,6 +49,19 @@ sounder will not convert (2/20/25). Read this as a **move-or-wait** signal: eith
 reposition to where current is running, or wait for the tide change to turn the
 treadmill back on (see [tide and slack](tide-and-slack.md)).
 
+## Current break: visual ID
+
+**Observed** (Capt. Dave Hansen, Your Saltwater Guide, 2021-01-28, Cabo San
+Lucas, Baja — presenter not named on camera, inferred from channel
+self-references and the registry's Cabo-charter continuity): a current break
+showed up visually as a whitewater/foam line running out against a noticeably
+slicker patch of water that angled offshore. Once the crew located it, they
+worked the break rather than a single side of it — see
+[trolling](../techniques/trolling.md#running-the-spread--sweeps-not-straight-lines)
+for how that was executed. This is a Baja/Cabo observation;
+[current structure](current-structure.md) covers the parallel-current-vs-shore
+framework this SoCal-bight note otherwise focuses on.
+
 ## Related
 
 - [Current structure](current-structure.md) — the mechanism these observables read.
@@ -71,7 +84,9 @@ treadmill back on (see [tide and slack](tide-and-slack.md)).
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Tide and Slack](tide-and-slack.md)
+- [Trolling](../techniques/trolling.md)
 - [Water Color](water-color.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

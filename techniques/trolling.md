@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84]
 confidence: high
 ---
 
@@ -31,6 +31,16 @@ top-shot specs live in each lure note.
 - **Sitting birds still mark the zone** — trolling past birds sitting on the
   water, and past hopscotching rafts, produces bites when nothing is flying
   (8/17/22).
+- **Observed** (Capt. Dave Hansen, Your Saltwater Guide, 2021-01-28, Cabo San
+  Lucas, Baja — presenter not named on camera, inferred from channel
+  self-references and the registry's Cabo-charter continuity): once a current
+  break is located, work it by trolling **back and forth across it** (inshore
+  side, then offshore side) instead of a single straight pass — fish shifted
+  from one side of the break to the other with the bait, and the advice given
+  on camera was to stay locked onto the break rather than leave it to search
+  elsewhere. See
+  [current diagnostics](../conditions/current-diagnostics.md#current-break-visual-id)
+  for the visual ID of the break itself.
 
 ## Spread size and setback
 
@@ -116,6 +126,7 @@ trolling kit, ahead of casting for cabrilla or yo-yoing:
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

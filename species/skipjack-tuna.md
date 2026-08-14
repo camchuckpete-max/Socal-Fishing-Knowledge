@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [skipjack, tuna, offshore, bait, bycatch, trolling, flyline]
-sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c]
+sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84]
 confidence: medium
 ---
 
@@ -73,6 +73,13 @@ but hard-charging, they'll eat almost anything moving.
   bycatch, not just target fish** — skipjack are the routine version of that, and
   a ready live-bait source when he's after bigger bluefin. No conflicts on
   record; skipjack are low-stakes and universally cooperative.
+- **Observed** (Capt. Dave Hansen, Your Saltwater Guide, 2021-01-28, Cabo San
+  Lucas, Baja — presenter not named on camera, inferred from channel
+  self-references and the registry's Cabo-charter continuity): skipjack taken
+  trolling lures worked back and forth across a
+  [current break](../conditions/current-diagnostics.md#current-break-visual-id)
+  — consistent with the aggressive-on-trolled-lures doctrine above, this time
+  in a Baja/Cabo context rather than the SoCal offshore grounds.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -81,6 +88,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
