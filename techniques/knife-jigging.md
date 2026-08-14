@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4]
 confidence: high
 ---
 
@@ -213,6 +213,21 @@ in **Linked from**.
     **130 lb mono or fluorocarbon** for night fishing — sitting within,
     consistent with, the 80–150 lb night-class range already logged above
     from other sources.
+  - **Observed pre-trip briefing, day-and-a-half charter (StokedOnFishing,
+    `oB4BpIUTTl4`, "Bluefin Bite on the ElDorado," part 1 of a two-part
+    series with part 2 released the following week (`r4J5nP5Bkl4`, "Summer
+    Bluefin Bite on the ElDorado," which frames the trip on camera as "this
+    past June" against its 2024-04-26 upload — resolved to **June 2023**);
+    85 ft **El Dorado**, Captain TJ, SoCal, roughly **45 mi** offshore (exact
+    zone not named on camera); unregistered channel — medium confidence): a
+    higher floor than the ranges above — **100 lb braid and 100 lb mono
+    minimum**, to a **200–400 lb leader** tied to the jig (restated a minute
+    later on camera as "2 to 400 lb," almost certainly the same figure with
+    the leading zero dropped in the ASR — kept here as 200–400 lb, flagged
+    asr-uncertain), running **350 g jigs and heavier** "to get down to the
+    fish faster." Captain's specific caution against undergunning: **"try
+    not to drop down [to] 30 lb with a knife jig, the results might not be
+    in your favor."**
 - **Terminal — single bottom assist pair, no top hook.** Reasons: the fish suck
   the jig in, so a top hook adds little; and a top hook fouls the fish in the cheek
   or pec on the swinging jig, which moves the fight off the mouth and gets a hook
@@ -310,6 +325,7 @@ in **Linked from**.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
+- [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

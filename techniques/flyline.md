@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4]
 confidence: medium
 ---
 
@@ -555,6 +555,23 @@ holding deep, not a claim that straight braid is wrong.
   fine," just less efficient specifically for flylining. Hook sizing (Owner
   Mutu circle hooks, by grade) is logged in [hooks](../tackle/hooks.md).
 
+- **Observed, daytime bluefin briefing, same El Dorado trip as the
+  night-jigging tackle logged in [knife jigging](knife-jigging.md)
+  (StokedOnFishing, `oB4BpIUTTl4`/`r4J5nP5Bkl4`, June 2023, 85 ft El Dorado,
+  Captain TJ, SoCal, ~45 mi offshore; unregistered channel — medium
+  confidence):** the day's bluefin bit **strictly on flyline** — the boat
+  tried a sinker rig and the fish would not take it. Stated tackle: **25–40
+  lb test** to a **straight No. 2 hook**, sardine bait, fluorocarbon called
+  optional ("if you want to fish the fluoro, by all means... if you don't
+  have fluoro it's not a detrimental death sentence"). A crew angler's
+  post-catch account credited a **No. 2 (or No. 4) circle hook** with a
+  **~90% corner-of-the-mouth hookup rate** that trip, reasoning a smaller
+  hook lets the bait swim better; he had also **butt-hooked** his bait
+  specifically because the captain called the fish holding **80–100 ft**
+  down and not coming up to the chum line — getting the bait down to them,
+  rather than fishing it up top, was what he credited for the hookup.
+  Corner-of-mouth circle-hook mechanism is consistent with, not new beyond,
+  the doctrine in [hooks](../tackle/hooks.md).
 - **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
   `_C8w6zeVPak`, Shogun Skiff Trip part 3): anglers aboard the mother ship
   got bit fly-lining **sardines** on **30 lb** line to a top shot of **30 lb
@@ -585,6 +602,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Knife / Speed Jigging](knife-jigging.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
