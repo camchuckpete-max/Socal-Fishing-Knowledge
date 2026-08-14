@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [spreader-bar, half-fish, bluefin, trolling, offshore, dorado, baja, sea-of-cortez]
-sources: [cameron, M8hOYQ_6rSg]
+sources: [cameron, M8hOYQ_6rSg, U1AgwmlY5bI]
 confidence: high
 ---
 
@@ -28,6 +28,15 @@ This note covers the **Half Fish Bait Co** bars, the ones Cameron fishes.
   rigging to failure.
 - **Newer-model internal line spec (Half Fish):** **100 lb stinger line down the
   middle, 80 lb sides, all Izorline XXX copolymer mono** (not fluoro).
+- **Setback, 3-bar spread — Observed** (StokedOnFishing, 2024-08-14 upload,
+  Baja Blue Fin Tuna Tournament, offshore Ensenada, Baja — `U1AgwmlY5bI`;
+  unregistered channel — medium confidence): a 3-bar spread run **two
+  shorter bars on the port/starboard corners, roughly 75 yd back**, and
+  **one bar down the center, roughly 250 yd back** — the long center bar
+  well outside the 80–100 lb top-shot spec's implied working range above.
+  Bar brand/model not stated on camera for this boat, so not confirmed as
+  Half Fish; kept here as a setback data point rather than merged into the
+  Half Fish running specs.
 
 ## How to run it
 

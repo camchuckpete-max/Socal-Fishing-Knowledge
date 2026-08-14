@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI]
 confidence: high
 ---
 
@@ -615,6 +615,23 @@ was a drill-powered reel-crank attachment (named on camera as the "Makira
 Rapid Crank") that chucks into a cordless drill and spins the reel handle
 directly, cutting the wind-in time way down. Logged as a tool tip for
 long-setback trolling programs, not as a doctrine-level gear requirement.
+
+**Corroborating, Baja tournament boat — Observed** (StokedOnFishing,
+2024-08-14 upload, Baja Blue Fin Tuna Tournament, offshore Ensenada, Baja —
+`U1AgwmlY5bI`; unregistered channel — medium confidence): a second, different
+boat/crew ran the same drill-powered crank (captioned "MRA rapid crank" —
+read as the same **Makaira Rapid Crank** product above; ASR-uncertain),
+credited on camera to a "pro development guy" (name ASR-garbled, not carried;
+company not stated on camera this time, but this is the same tool credited to
+Okuma product staff in the `xzIaUEDklrE` entry above) as its inventor, who is
+said to have built it around the **50-Wide reel** specifically because "the
+most common reel is the 50 wide." The crew's
+practical advice: always keep the drill's **spare batteries charged**, since
+a long wind-in by hand can otherwise take up to **10 minutes**. Separately on
+the same boat, a trolled line picked up kelp and was dragged for an unknown
+stretch before the crew noticed ("I wonder how long we're dragging that
+around for") — logged as a cautionary data point for running lines far back,
+not a parameter change.
 
 ## Common failures
 

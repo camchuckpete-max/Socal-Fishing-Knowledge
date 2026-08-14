@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI]
 confidence: high
 ---
 
@@ -297,6 +297,41 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   tournament despite kite and spreader-bar effort in a zone with confirmed
   bluefin sign — kept as a region-labeled data point beside the SoCal
   calendar above, not folded into it.
+- **Companion video, same event/series — Observed** (StokedOnFishing,
+  `U1AgwmlY5bI`, 2024-08-14 upload, "Stoked on the Baja Bluefin Tournament Day
+  2," the middle video of a 3-video series on the same Baja Blue Fin Tuna
+  Tournament out of Ensenada — `prQpoN9qWBY` ("Day 1," 2024-08-06 upload) and
+  `Ix0gG0-l3v0` ("Day 3 & 4," 2024-08-21 upload, the entry directly above)
+  bracket it on a weekly release cadence, so this is very likely the same
+  2024 ("2nd annual") event, not a separate tournament; unregistered channel
+  — medium confidence. Despite the video's own title, its footage narrates
+  **tournament day one** (5:00 a.m. shotgun start, weigh-in cutoff **before
+  4:00 p.m.**), with tournament day two only previewed in the video's final
+  minutes — where the crew separately restates a **1:00–4:00 p.m.** weigh-in
+  window for "today" (day two). With **~20 mi still to run** to the
+  start zone, the crew trolled two [Mad Macs](../lures/mad-mac.md) staggered
+  so they wouldn't cross — one at roughly an **80 count**, the shorter one at
+  roughly a **50 count** — off **Makaira 50-Wide reels** (captioned "Makyra
+  50 Wides" — ASR-uncertain) while glassing from a tower/T-top with
+  **gyro-stabilized binoculars** for extra range, consistent with the
+  "glass from the highest stable spot" doctrine in
+  [search and glassing](../planning/search-and-glassing.md). After **~45
+  minutes** trolling one zone with no marks or surface sign, the crew picked
+  up and ran to another zone; an unattributed on-camera comment framed the
+  day's uncertainty as partly **tide-driven** ("sometimes they show up,
+  sometimes they don't... has to do with the tide") — no mechanism given,
+  logged as an attributed framing, not a tested rule. The day's total run was
+  called out on camera as roughly **180 mi with ~40 mi still to get in**.
+  Later, with bait finally marked but scattered (not bunched), the crew
+  deployed a **3-bar spread** for the first time that trip — see
+  [spreader bar](../lures/spreader-bar.md) for the setback data point. A bird
+  spotted from the tower right at the edge of the cutoff window ("this
+  happens sometimes when you're about to call it quits") drew the boat back
+  in for one more look, but the video shows no confirmed hookup that day; the
+  crew reported standing in **4th place among roughly 35 boats** afterward,
+  tied for 4th/5th on tournament points, with a stated plan to fly the
+  [kite](../techniques/kite-fishing.md) and hold on the best sign for the
+  final day.
 
 ## Finding them (sign & sonar)
 
