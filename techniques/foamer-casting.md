@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw]
 confidence: high
 ---
 
@@ -29,6 +29,22 @@ the routers: [bluefin tuna](../species/bluefin-tuna.md) and
   a real advantage; the more foam you can cover, the more shots you get.
 - Budget **about 2 to 3 casts per school**, then move to the next one. Foamers
   are short-lived; do not stake one out.
+
+**Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
+California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
+unregistered channel — medium confidence): while running toward a known
+pack of working boats, the crew spotted a smaller, separate patch of surface
+activity ("a little something something") off to the side and chose to
+**veer off and make a couple of casts at it first**, rather than continuing
+straight to the main pack — a detour the crew estimated cost "only... a
+couple of minutes." That smaller patch turned out to be biting, framed on
+camera as "it never hurts to take a shot, take a quick look." Separately in
+the same episode, a small popper cast at bait breaking the surface
+("puddles") drew an immediate blow-up. Region/species: Baja tuna (species
+not named on camera), not the SoCal bluefin/yellowfin foamer program this
+note otherwise documents — logged as a side-by-side scouting-philosophy data
+point; no retrieve, lure model, or hookup detail is given beyond what's
+noted here.
 
 ## Foamer taxonomy — which foamers to spend casts on
 

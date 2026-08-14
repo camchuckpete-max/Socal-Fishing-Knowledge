@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw]
 confidence: medium
 ---
 
@@ -181,6 +181,27 @@ isn't yet repeated doctrine).
   previous night. A regional/bait data point — squid rather than the
   sardine/mackerel/anchovy baits logged elsewhere in this note — not a
   change to the no-weight/drift-it-back mechanic above.
+
+**Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
+California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`,
+"Non-Stop Tuna Action in Baja Mexico, part 1"; same destination as the
+`mL4Ph7t0WcQ` entry above, a different trip/date): the crew ran **live
+sardine and live mackerel** (mackerel rendered on camera as "macro")
+flylined on **circle hooks**, sized down for the smaller sardines and sized
+up, on fluorocarbon, to what the captions render as a **"4/5"** for the
+mackerel bait (read here as 4/0–5/0, not confidently resolved to one exact
+size). To find the bite, they fished **three rods rigged to different
+line-test classes at once — 30 lb, 40 lb, and 25 lb** — and watched which
+one got bit more often before leaning the rest of the spread that way; the
+crew's own framing was that the answer **changes day to day** ("what worked
+yesterday is completely different today"). The trip's tuna (species not
+named on camera) ran mostly **60s and 70s lb**, with a number of smaller
+"football"-sized tuna worked on **light tackle**. A separate squid element
+was also fished alongside the sardine/mackerel spread — captions render it
+as "jamming squid" (asr-uncertain, mechanism not confidently resolved:
+possibly chumming/chunking squid rather than a hook bait) — with squid and
+sardines both reported schooling up visibly behind the boat during the
+bite. Unregistered channel — medium confidence.
 
 ## SoCal offshore mackerel flyline rig — straight fluoro, San Diego jam (Dave Hansen)
 

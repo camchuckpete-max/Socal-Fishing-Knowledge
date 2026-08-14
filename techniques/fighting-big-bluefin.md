@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw]
 confidence: medium
 ---
 
@@ -50,6 +50,24 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   program runs **~15 min**, with **25 min** the longest recorded; a **218 lb**
   fish landed **2018-08-05** (two days before this video, per its upload date)
   took **17 min**, attributed to the constant down-swell walk.
+- **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
+  California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
+  unregistered channel — medium confidence): a contrasting, hand-fought data
+  point on tuna (species and this specific fish's weight not stated on
+  camera — not confirmed as the 100–300 lb SoCal bluefin grade this note's
+  boat-driven doctrine above targets; elsewhere in the same video the crew
+  describes that day's tuna as running mostly **60s–70s lb**, but that figure
+  is a general recap of the day's catch, not a stated weight for this
+  particular fish). Rather than the boat working to prevent the fish from
+  circling, the coaching given live to the angler treated a fish **circling
+  boatside as the normal end-of-fight pattern** — walking it around ("circle
+  them up... bring them around this way, pull them back and reel") through
+  what was called out as **two more circles**, with the cue that the fish was
+  ready for the leader/gaff being that **no more line was going out**. No
+  boat-driving, drag setting, or line class is given, and no bite-through or
+  break-off outcome is reported either way — kept beside the
+  death-circle-avoidance doctrine above as a lighter-tackle, hand-fought data
+  point, not a reconciliation of it.
 
 ## The end-of-fight head-shake
 

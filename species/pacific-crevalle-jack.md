@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [pacific-crevalle-jack, toro, baja, warm-water, inshore, structure]
-sources: [cameron, mL4Ph7t0WcQ]
+sources: [cameron, mL4Ph7t0WcQ, 84XPJAeH0Rw]
 confidence: low
 ---
 
@@ -80,6 +80,17 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
   not confidently resolved and is not carried here). First data point in this
   corpus placing jack crevalle at a named East Cape structure spot; a
   presence note only, not a technique or behavior claim.
+- **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
+  California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`,
+  "Non-Stop Tuna Action in Baja Mexico, part 1"; same destination as the
+  `mL4Ph7t0WcQ` entry above; unregistered channel — medium confidence): a
+  **jack crevalle** was named among a mixed morning catch alongside multiple
+  tuna (four tuna plus the jack, per the on-camera recap) — a second East
+  Cape data point placing jack crevalle in this same catch mix. A weight of
+  **65** was called out on camera for "the big one," but the audio does not
+  clearly resolve whether that figure refers to the jack or to one of the
+  tuna in the same recap, so it is not carried here as a jack crevalle
+  weight specifically.
 
 <!-- backlinks:start -->
 ## Linked from
