@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [bays, harbors, eelgrass, docks, riprap, tide, structure]
-sources: [YgqXf9iICyg]
+sources: [YgqXf9iICyg, AxLlx2Ug-rs]
 confidence: high
 ---
 
@@ -40,6 +40,10 @@ Read a bay by finding these features and the **edges** where two of them meet:
   bring food to them.
 - **Docks and pilings.** Vertical structure and shade. Dock lines, piling fields,
   and the shaded water under floats give fish overhead cover and current breaks.
+  **Observed** (Capt. Benny Florentino, StokedOnFishing, 2012-03-29, `AxLlx2Ug-rs`,
+  location unspecified): fish held **tight to the pilings**, using them to ambush
+  bait, so the crew's casts stayed **as close to the pilings as possible** rather
+  than working the open water around them; species not specified in source.
 - **Riprap edges.** The rock lining channels, jetty bases, and harbor mouths.
   These behave like the outside riprap in miniature — see
   [break walls, jetties and riprap](breakwalls-jetties-riprap.md) for how the
