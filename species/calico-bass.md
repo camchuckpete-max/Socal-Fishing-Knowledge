@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c]
+tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE]
 confidence: high
 ---
 
@@ -124,6 +124,22 @@ present the outside stringers.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).
+- **Baja regional note — Cedros Island voluntary catch-and-release (as reported
+  2023-10-16, verify current status before fishing):** local fishing
+  companies/operators at Cedros Island, Baja California (not a SoCal spot —
+  region: Baja, Cedros Island) collectively adopted **100% catch-and-release**
+  for calico bass, grouper (cabrilla), and black seabass. This is an
+  **operator-driven agreement among the local companies, not a Mexican
+  federal/state regulation or CDFW rule** — compliance depends on operator
+  adherence, not government enforcement. Stated rationale: catches of these
+  species had dropped from routinely "by the hundred" to "none or very few,"
+  attributed to fishing pressure on **summer spawning aggregations** — calico,
+  black seabass, and grouper gather in summer to spawn, and harvesting them
+  during that critical window was judged to be damaging the population (Jose,
+  via StokedOnFishing, `ldVj0BoB-kE`, 2023-10-16; unregistered channel, single
+  mention — medium confidence). This is a
+  **region label, not a doctrine conflict** with the CDFW 14 in SoCal size
+  limit above — two different jurisdictions.
 
 ## Handling & release
 

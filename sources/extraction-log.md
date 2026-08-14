@@ -932,7 +932,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | _0xZV0PojhE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Lake Cachuma freshwater bass camping trip; series: Lake Cachuma part 1 |
 | Y2bXn44lfqo | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; conditions/tide-and-slack.md; rigging/leadhead-mods.md; species/white-seabass.md; techniques/dropper-loop.md: WSB broodstock-trip parameters merged (squid handling, 4am slac |
 | 82gEHYel-4U | StokedOnFishing | on-the-water | parameter-skim | done | species/white-seabass.md: milky-water uphill/downhill spot-check method + reconciled HSWRI/Newport hatchery program history merged into existing broodstock context, medium confidence |
-| ldVj0BoB-kE | StokedOnFishing | report | deep | pending | Confirmed pre-ID: Baja Cedros Island 100% catch-and-release reg change, calico/grouper/black seabass |
+| ldVj0BoB-kE | StokedOnFishing | report | deep | done | species/calico-bass.md: added Baja regional note on Cedros Island operator-driven 100% catch-and-release for calico/grouper/black seabass (2023-10-16), medium confidence, region-labeled vs CDFW SoCal  |
 | ntQXxcH5sjI | StokedOnFishing | tutorial | deep | pending | Confirmed pre-ID: yo-yo iron doctrine, Tanner/Cortez Bank SoCal, jig/leader/knot specs |
 | FE63WNlwkKw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Legg Lake/Whittier Narrows freshwater tournament; not saltwater despite LA/SoCal location |
 | 3S3Tx-Me2HY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clear Lake NorCal freshwater LiveScope bass fishing; title-trap, not SoCal saltwater |
