@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, cameron]
 confidence: high
 ---
 
@@ -37,10 +37,41 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   tuna schooling under dolphin pods well offshore, set a manual range window
   (e.g. **0–150 ft**) rather than auto — left on auto, the sounder keeps
   hunting for a bottom that's far deeper than that and the shallow marks
-  never paint (Dave Hansen, Your Saltwater Guide, SgF5hRlEGqU, 2022-02-27;
-  registered voice, single mention — medium confidence). See
-  [yellowfin tuna](../species/yellowfin-tuna.md) for the dolphin-pod sign
-  this pairs with.
+  never paint (Dave Hansen, Your Saltwater Guide, SgF5hRlEGqU, 2022-02-27).
+  See [yellowfin tuna](../species/yellowfin-tuna.md) for the dolphin-pod sign
+  this pairs with. The core "run manual, not auto" rule repeats across two
+  separate Dave Hansen/Your Saltwater Guide videos (SgF5hRlEGqU and
+  FEXgl0eQCa8 below) — registered voice, repeated doctrine, **high**
+  confidence on that core rule; the specific 0–150 ft window stays a
+  scenario-specific parameter.
+
+- **Size manual range so the bottom sits mid-screen, not at the edge.**
+  Dave Hansen's baseline method: whatever the actual depth, pick a manual
+  range that lands the bottom roughly in the middle of the screen rather than
+  pinned at the bottom edge — that leaves enough vertical room above the
+  bottom return to read the difference between hard bottom and soft bottom,
+  and to pick fish marks and bait out of the water column above it. Worked
+  examples for shallow water: a **15 ft deep** spot gets the screen range set
+  to **30 ft**; a **25 ft deep** spot (most SoCal harbors run roughly 15–25
+  ft) gets the screen range set to **40 ft**. Offshore, the same mid-screen
+  principle scales up — e.g. a manual **0–300 ft** range to look for tuna
+  suspended around 150 ft down. (Dave Hansen, Your Saltwater Guide,
+  FEXgl0eQCa8, 2021-05-17; registered voice, single mention — medium
+  confidence on the mid-screen sizing method itself, distinct from the
+  higher-confidence core manual-range rule above)
+
+- **Learn hard-bottom/soft-bottom and fish-vs-kelp discrimination in the
+  harbor, not on the fuel-burning offshore trip.** Hansen's doctrine: don't
+  use an offshore run to practice reading the machine — that's an expensive
+  way to fail to catch fish. Instead, drive the harbor (or a spot just
+  outside it) with the range set mid-screen per the rule above, dial the
+  gain in until hard bottom clearly reads differently from soft bottom, and
+  practice telling fish marks apart from kelp. Once bottom-hardness reading
+  and fish/kelp discrimination are solid inshore, leave the settings alone,
+  go offshore, open the manual range up (e.g. 0–300 ft), and apply the same
+  reading skill to find suspended fish like tuna. (Dave Hansen, Your
+  Saltwater Guide, FEXgl0eQCa8, 2021-05-17; registered voice, single
+  mention — medium confidence)
 
 ## Bird radar
 
