@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc]
 confidence: medium
 ---
 
@@ -39,6 +39,12 @@ Pick the hook position for the swimming behavior you want:
   letting it swim away — the opposite of what a finicky bite wants. Shoulder-
   and butt-hook mechanics that solve this are in
   [fishing live bait](../bait/fishing-live-bait.md).
+  **Observed** (StokedOnFishing, 2015-10-28, "the channel," SoCal —
+  exact location not stated, `ROWgdFE9Ehc`): nose-hooked live sardine,
+  slow-trolled **150 to 200 ft** behind the boat, produced yellowtail on a
+  kids' charity trip; hooks run were a mix of circle hooks and wide-gap
+  hooks (ASR-uncertain: transcript says "white gap hooks," read here as
+  wide-gap — not verified against a specific model).
 - **Shoulder / dorsal hook** (mackerel especially) — keeps your **line up out of
   the water** and holds the bait **high, skating across the top** for a reaction
   bite.
