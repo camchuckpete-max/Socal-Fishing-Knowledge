@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, cameron]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, cameron]
 confidence: high
 ---
 
@@ -23,6 +23,10 @@ you see a handful (E4vKwRaRueA).
   those July and August months — that's when the fish first show up" (E4vKwRaRueA).
   See [August](../seasonal/august.md), [September](../seasonal/september.md),
   [October](../seasonal/october.md).
+  **Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
+  stated): an oversized kelp paddy (described as "as big as the boat") held
+  hundreds of dorado plus incidental yellowtail well into October — consistent
+  with the fall paddy program still producing after the July–August peak.
 - **Where:** **~15 mi off San Diego** is the typical big-concentration zone
   (E4vKwRaRueA); by the late warm-stable phase (typically September) they're in
   **open-water schools below/backside Catalina** (5to3Q5P7w90). The primary structure is
@@ -60,6 +64,12 @@ you see a handful (E4vKwRaRueA).
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; throw a Mad Scad from the tower to confirm fish before committing |
 | **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (E4vKwRaRueA); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
 | **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | They can be as finicky as any fish; smaller hook so the bait swims right; don't drop below ~15 lb or you get bit off |
+
+**Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
+stated): on a pre-qualified, obviously loaded paddy (fish already jumping
+before the boat arrived), the crew ran straight to the edge and pitched
+baits immediately — no wake-up step needed. Corroborates the flylined-bait
+row above as the go-to when fish are already active on the paddy.
 
 ## Gear summary (class terms)
 

@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, cameron]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, cameron]
 confidence: high
 ---
 
@@ -61,6 +61,16 @@ The discipline:
 
 This is why the paddy *line* matters more than any single paddy: you are playing
 a numbers game across many quick checks.
+
+**Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
+stated): a paddy spotted from ~4 mi out through gyro-stabilized binoculars
+already had fish visibly jumping around it before the boat closed the
+distance — a pre-qualified, obviously loaded paddy. The crew skipped any
+cautious check and ran straight to the edge, pitching baits immediately;
+the paddy was loaded with hundreds of dorado plus incidental yellowtail.
+Consistent with the check-fast-then-move discipline above, but shows the
+inverse case: when a paddy visibly announces itself from a distance, the
+"check" step collapses to zero and the approach becomes drive-and-cast.
 
 ## Finding paddies
 

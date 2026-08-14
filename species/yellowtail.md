@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, cameron]
 confidence: high
 ---
 
@@ -68,7 +68,11 @@ typical-year mapping.
   [kelp paddies](../conditions/kelp-paddies.md); the **first paddy yellows
   appear with the incoming bluefin** in the warming transition
   ([May](../seasonal/may.md)), and the paddy program peaks in warm-stable
-  ([August](../seasonal/august.md)).
+  ([August](../seasonal/august.md)). **Observed** (Your Saltwater Guide /
+  Dave Hansen, 2022-10-12, location not stated): incidental paddy yellowtail
+  taken alongside a heavy dorado bite on a large kelp paddy in October — paddy
+  yellows can still show as bycatch on a dorado-dominated paddy this late in
+  the season.
 - **Baja coast** — the coastal structure, islands, and ridges between the
   border and BOLA carry yellowtail more or less year-round, grade improving
   south (cameron; thin in the current corpus — expect this entry to grow with
