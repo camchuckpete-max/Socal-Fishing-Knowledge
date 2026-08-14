@@ -16,3 +16,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T00:43:45Z — _ZThckj2TIM — guard-violation
 - run: 31753705275
 - reason: commit 0716a9d20bf407e475398991e942ce92b454ac8e reverted: protected path touched: sources/source-registry.md
+
+## 2026-08-14T00:54:21Z — Qs9oEsh3b_w — evaluator-escalate
+- run: 31753705275
+- reason: species/california-spiny-lobster.md's new Gear limits (two-person minimum to fish full 10-net boat limit) and Buoy marking (marker vs tape by shared-license gear) bullets are new regulatory/compliance guidance — flag for Cameron's Gate B review

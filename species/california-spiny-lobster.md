@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok]
+sources: [b19_AJjYCok, Qs9oEsh3b_w]
 confidence: medium
 ---
 
@@ -78,14 +78,29 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
     blank until after.
   - **Gear limits:** **5 hoop nets per angler** from a boat, **max 10 nets per
     boat** regardless of how many anglers; **2 nets per person** from shore or a
-    public pier. Each buoy must carry your **name and GO ID**.
+    public pier. Fishing the full 10-net boat limit therefore requires a
+    **minimum of two people** aboard (5 nets each) — one angler alone is capped
+    at 5, even on a boat licensed for 10 (Roman Castro/Scotty, Qs9oEsh3b_w,
+    2020-10-17; medium confidence, unregistered channel).
+  - **Buoy marking:** each buoy must carry your **name and GO ID** — a 10-digit
+    number printed on your California fishing license, one line below the
+    barcode. Write it directly on the buoy in permanent marker if every net on
+    the boat is your own gear; if you're running gear that's split across
+    multiple people (e.g. a charter operator providing all the nets, so some
+    buoys must carry a client's or crewmate's GO ID rather than your own), mark
+    the number on a securely-attached piece of tape instead so it can be
+    swapped per net rather than permanently written on gear that isn't always
+    tied to the same license (Qs9oEsh3b_w).
   - **Size:** measure the **carapace** — from between the eye-socket horns,
     parallel down the center of the shell, to the rear edge of the carapace — and
     it must exceed **3.25 inches**. If the gauge fits between (even by a
     millimeter), it's **short — release it immediately.** CDFW enforces strictly.
-- **Confidence: medium** — single source; treat the exact numbers as a starting
-  point and confirm the season, bag limit, size, and gear counts with CDFW each
-  year, since they change and the source predates the current regs.
+- **Confidence: medium** — the core season/gear-count/size doctrine is
+  single-sourced (BD spiny-lobster tips), and the GO ID/two-angler nuance above
+  adds a second, still-unregistered-channel source; treat the exact numbers as
+  a starting point and confirm the season, bag limit, size, and gear counts
+  with CDFW each year, since they change and both sources predate the current
+  regs.
 
 <!-- backlinks:start -->
 ## Linked from

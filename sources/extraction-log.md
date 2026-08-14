@@ -793,7 +793,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | mWxyjDrcdXM | Roman Castro | tutorial | deep | done | techniques/foamer-casting.md / Added Roman Castro's bluefin-popper hookup/drag/fight doctrine (loosen drag on packed foamers, cast to edge to avoid scissoring, patience fighting 100lb+ fish, keep line |
 | VpW91AKOFVQ | Roman Castro | tutorial | deep | done | lures/iron-jigs.md; rigging/essential-knots.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / Scotty/Brothers Sportfishing surface-iron doctrine merged: assi |
 | _ZThckj2TIM | Roman Castro | tutorial | deep | escalated | escalated: guard: protected path touched: sources/source-registry.md |
-| Qs9oEsh3b_w | Roman Castro | tutorial | deep | pending | Scotty's full hoop-net rig: parts list, 8oz torpedo sinker, buoy/rope rigging steps for kayak lobster |
+| Qs9oEsh3b_w | Roman Castro | tutorial | deep | done | species/california-spiny-lobster.md; techniques/hoop-netting.md / Added Scotty's buoy/rope build (torpedo-sinker weighting, light mounting, rope-length splitting), bait-cage-by-sea-lion-pressure guida |
 | sgH7MgaWD1E | Roman Castro | tutorial | skip:thin-generic | skipped | Generic hacks: fish-smell removal, zip-tie hook holder, tide-timing tip; not router-grade |
 | fhv45utuKgQ | Roman Castro | on-the-water | skip:no-usable-content | skipped | Near-silent 300lb+ bluefin catch/fight footage, mostly music/yelling, no technique commentary |
 | OQAZTZq-6-k | Roman Castro | on-the-water | skip:no-usable-content | skipped | Near-silent bluefin catch-fight footage, mostly music/applause, no usable commentary |
