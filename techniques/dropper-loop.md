@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, _ZThckj2TIM]
+tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM]
 confidence: high
 ---
 
@@ -48,41 +48,6 @@ Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a
 swivel, leader below to the hook** — that's the [sliding-sinker](sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar)
 rig format, not a dropper loop (hook above a fixed-position sinker); it does
 **not** confirm which format the reference-weight entry above used.
-
-### Hook orientation on the loop (Scotty)
-
-**Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM, 2020-04-04;
-capt-scotty-brothers registered — high confidence.** Which side of the hook
-eye you feed the loop through changes how the hook sets under load:
-
-- Pass the loop **into the eye from the point side** so the standing line
-  runs off the **back** of the hook. Under load this **digs the point
-  farther into the fish** as you pull — the recommended orientation.
-- Feeding it the other way (loop entering from behind the eye, standing line
-  off the point side) still hooks fish, but the geometry **pulls the point
-  back out** under load — more lost fish, especially costly on a long crank
-  up from 200 ft.
-- Whichever way you tie it, **check both legs of the loop pull evenly
-  taut** on the hook before fishing it — one leg tighter than the other
-  concentrates load on a single strand instead of sharing it.
-
-### Weak link at the bottom dropper loop (Scotty)
-
-**Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM, 2020-04-04;
-capt-scotty-brothers registered — high confidence.** A second way to
-sacrifice minimum gear on a bottom snag, distinct from a light breakaway
-sinker section: fish **30–40 lb mainline** (25–30 lb if you can't break 40 lb
-by hand) straight through a double dropper loop, no separate light dropper to
-the sinker. When the rig hangs up, lock the reel down (not free-spool) and
-let the boat's drift load the line until it parts. It normally **breaks at
-the bottom dropper loop's tag point** — the short tag nearest the sinker —
-rather than up the mainline or at the sinker knot, because the long loaded
-section of mono stretches under the pull while the short tag at the loop
-takes the shock straight. This recovers the gangion and hooks above the
-break; only the sinker is sacrificed. See
-[rockfish deep-dropping](rockfish-deep-dropping.md) for the contrasting
-light-breakaway-sinker method used on the gulp gangion there — the two are
-kept side by side as different mechanisms for the same goal, not merged.
 
 ## Single vs. double dropper (Duane Diego Malloy)
 
