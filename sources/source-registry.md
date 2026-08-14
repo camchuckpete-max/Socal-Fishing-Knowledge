@@ -38,5 +38,5 @@ considered and NOT promoted (Cameron 2026-08-12) — their content caps at
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 <!-- backlinks:end -->
