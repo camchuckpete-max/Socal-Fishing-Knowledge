@@ -1,8 +1,8 @@
 ---
 type: technique
-tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s]
-confidence: medium
+tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk]
+confidence: high
 ---
 
 # Chunking
@@ -73,6 +73,54 @@ boat settles back onto the chum line. See
 [calico bass](../species/calico-bass.md) for the kelp-edge species routing
 this serves.
 
+## Prey density / feeding frenzy — artificial reefs (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; dave-hansen registered voice)
+
+A third Your Saltwater Guide video on the same anchored-chumming pattern
+logged above (alongside yKaHcxX46l4 and RXNebDr4j7s) — the core claim that
+anchored chum around SoCal structure draws sheephead, sargo, and small bass
+is now **repeated doctrine from a registered voice (high)**; the mechanism
+framing and the extended catch list below are this video's own addition
+(single mention).
+
+- **The mechanism:** as you chum, periodically toss another handful of cut
+  squid chunks into the water to raise the **prey density level**. Past a
+  certain density, even fish that weren't actively feeding come over and start
+  eating because they see the others doing it — that's what turns a slow pick
+  into a genuine feeding frenzy rather than a trickle of bites.
+- **Artificial reefs are built, fish-holding structure sitting close to most
+  SoCal harbors**, and most have been fished hard for years — the reason big
+  fish are still there, per Hansen, is that most anglers don't know how to
+  fish them properly (proper anchoring, proper chumming, and proper bait
+  presentation together, not chumming alone). Once a frenzy is going on one
+  of these reefs you don't actually know what's holding on it: he reports
+  catching sargo up to **5–6 lb**, big white seabass, big sheephead, and
+  calico bass this way, and even yellowtail off an artificial reef using this
+  exact chum method.
+
+## Light-line finesse rig — pressured, shallow reef fish (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; registered voice, single mention — medium confidence)
+
+Hansen's stated #1 mistake he sees at artificial reefs: anglers fish **way too
+heavy** — oversized line, oversized hooks, and swivels/beads on the terminal
+end. Because these reefs sit in **shallow water close to harbors** and have
+been fished for years, the fish that are still there are line-shy, so
+scaling everything down is what turns bites on:
+
+- **Hook tied straight to the mono line** — no swivel, no beads, no leader
+  break.
+- **A small split shot 2–3 in above the hook**, sized to current: a tiny
+  **1/16 oz** shot by default, stepping up through **1/8 oz** only if current
+  demands it, **never heavier than 1/4 oz**. The light shot lets the bait
+  flutter and sink at the chum chunks' own rate as it's described in
+  "Drifting the hook bait" above — the failure mode of going heavier is the
+  bait reaching bottom, which draws shovelnose guitarfish or bat rays instead
+  of the target species.
+- **Bait presentation:** a strip of bait — "like a piece of spaghetti" — not a
+  big wad of squid balled onto the hook; a wad doesn't get eaten.
+- **Gear:** light spinning rods or small level-wind (baitcast) outfits —
+  captions render a specific reel-name brand here that does not resolve
+  cleanly (asr-uncertain), so it is omitted — flicking chum/squid strips out
+  behind the anchored boat.
+
 ## Common failures
 
 - **Over-chumming** — feeding so much cut bait the fish fill up on free chunks
@@ -81,6 +129,9 @@ this serves.
   so there's no line for fish to follow.
 - A hook bait that **falls wrong** — too much line drag, so it doesn't match the
   free chunks and the fish refuse it.
+- **Fishing too heavy on pressured reef fish** — big line, big hooks, swivels
+  and beads spook fish that have been caught around for years; go straight-tied
+  and shot-sized-to-current instead (f4qYtHACGyk).
 
 <!-- backlinks:start -->
 ## Linked from
