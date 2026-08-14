@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc]
 confidence: high
 ---
 
@@ -72,6 +72,19 @@ dorado; see [chunking](../techniques/chunking.md) and
 for the search method and the chum-bait-selection data point from the same
 session. Gear on this trip was lighter than the stepped 20–40 lb range below:
 a **#2 hook** on **65 lb braid to a 4 ft top shot of 25 lb fluorocarbon**.
+
+**Observed** (StokedOnFishing, `skRo1z41Dnc`, aired 2015-01-17, "Top Gun 80
+Offshore Grandslam, part 1," offshore San Diego, SoCal, H&M Landing charter
+aboard the Top Gun 80; unregistered channel, sponsor-heavy episode (Simrad)
+— medium confidence): dorado were sighted jumping around/on a **breezer**
+(open-water surface sign, not a discrete kelp paddy); the crew's own
+day-one summary framed a pattern of "Dorado been coming in and then...
+yellowfin or blue fin will show up and... push out the Dorado" and
+speculated the same breezer had held bluefin two days earlier — see
+[bluefin tuna](bluefin-tuna.md#finding-them-sign--sonar) for the full
+entry, including a same-trip whale-associated tuna sighting. The day's
+confirmed catch mix was dorado, bluefin, yellowfin, and yellowtail — a
+four-species day.
 
 ## Finding them (sign & sonar)
 

@@ -1123,7 +1123,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | XH-Hrfet6To | StokedOnFishing | on-the-water | parameter-skim | done | species/striped-marlin.md; techniques/trolling.md / Cabo San Lucas trip: species Observed block (dropback marlin catch, sailfish, water conditions) + Melton Tackle lure-size/tournament and afternoon-c |
 | Mwx5AAXNMvE | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; techniques/bait-and-switch.md; techniques/trolling.md / Cabo pt2 charter continuation: release-practice + fighting-chair Observed block, blue-marlin lost-strike lure data po |
 | 4bbKduPRlHE | StokedOnFishing | on-the-water | skip:no-usable-content | skipped | 1:48 near-wordless b-roll clip (mako hits hooked yellowtail); no location/date/technique content |
-| skRo1z41Dnc | StokedOnFishing | on-the-water | observations-only | pending | San Diego offshore tuna footage; sponsor-heavy (Simrad); Top Gun 80 Offshore Grandslam pt1 |
+| skRo1z41Dnc | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/dorado.md / Observed blocks added: whale-associated tuna sign, breezer holding bluefin-then-dorado ~2 days apart, four-species day; evaluator hedged an ASR-ambiguous c |
 | AfZoeSu_9hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt1 |
 | 27MMQGRIrpw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt2 |
 | SH7zOA9ZF3o | StokedOnFishing | on-the-water | parameter-skim | pending | San Diego/Bonita Isl yellowtail; yo-yo iron cadence explained step-by-step; fish-dive-to-structure note; series pt2 |

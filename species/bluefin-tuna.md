@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc]
 confidence: high
 ---
 
@@ -561,6 +561,33 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   form. Terns are the key bird: a **moving dive-line = bait being pushed by fish
   underneath** ([bird reading](../conditions/bird-reading.md),
   [search & glassing](../planning/search-and-glassing.md)).
+  **Observed** (StokedOnFishing, `skRo1z41Dnc`, aired 2015-01-17, "Top Gun 80
+  Offshore Grandslam, part 1," roughly 30–40 mi off San Diego, SoCal — H&M
+  Landing charter aboard the **Top Gun 80**, captain named on camera as
+  "Bobby Tapp"/"Bobby Taft" (ASR-uncertain spelling — two different renderings
+  of the same name occur in the same episode; distinct boat-and-crew framing
+  from the 2017 "Epic 5 Day" Top Gun 80 series already logged in this note);
+  unregistered channel, sponsor-heavy episode (Simrad)
+  — medium confidence): on day one, the crew spotted a school of dolphin/
+  "porpoise" (see the porpoise-is-a-misnomer note in
+  [yellowfin tuna](yellowfin-tuna.md#finding-them-sign--sonar)) traveling
+  together with a blue whale and called **both** animals as holding tuna
+  underneath — a whale-associated tuna sign alongside the already-documented
+  dolphin-pod sign, not previously logged in this note; species of the
+  resulting bite is not confirmed on camera as tied to this specific sighting.
+  Later the same day, a **breezer** with dorado visibly jumping drew the boat
+  in, and on camera the crew speculated (framed as "might have been," not
+  confirmed) that the same piece of structure was the one "all the blue fin
+  came off of" two days earlier — a breezer holding bluefin one day and
+  dorado a couple of days later. Kept beside, not folded into, the
+  paddy-restocks-overnight doctrine in
+  [kelp paddies](../conditions/kelp-paddies.md): this is a different
+  structure type (an open-water breezer, not a discrete kelp paddy), a
+  longer (~2-day) turnover, and unconfirmed crew speculation rather than a
+  verified re-check of the same spot. The day's confirmed catch mix included
+  dorado, bluefin, yellowfin, and yellowtail — a four-species day (see
+  [dorado](dorado.md#where--when) for that species' entry from the same
+  video).
 - **Bird radar (Duane):** gain near max, range set **4–5 miles**; bird schools
   paint as **red blotches, sometimes boat-sized**.
 - **Species-specific sonar signatures with depths:**
