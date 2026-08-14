@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ, 3SATCeA3KaU]
 confidence: high
 ---
 
@@ -117,6 +117,27 @@ typical-year mapping.
   [fighting a big bluefin — sea lion depredation at the boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species).
   The crew left the spot afterward even though the yellowtail bite was still
   going, rather than keep fishing through repeated seal pressure.
+  **Observed** (StokedOnFishing, 2014-11-13, Geronimo Island / Chester's
+  Rock, south end of Cedros Island, Baja — `3SATCeA3KaU`, "MC Swimbaits
+  Skiff Trip part 3"; shares the "part 3" numbering with, but is a
+  different video/date and a differently-named episode from, the
+  `_C8w6zeVPak` "Shogun Skiff Trip part 3" entry above — evidently a
+  separate year's trip reusing the same numbering): an afternoon calico
+  bite on surface iron and swimbaits turned into a home-guard yellowtail
+  "brawl" in shallow water, with several anglers hooking big yellows
+  working the ground from Geronimo Island to Chester's Rock; one fish
+  boated was called "every bit a 40-pounder" — consistent with the
+  home-guard 40+ lb grade above. The next morning (first light, on a tip
+  that there had "been a little bit of a yellowtail bite first thing in
+  the morning"), the crew worked a push under working birds near the boat,
+  holding off the cast of the metal jig
+  ([surface iron](../techniques/surface-iron.md)) until the yellows
+  actually showed under the birds before committing the shot. Later the
+  same day a swimbait/plug worked tight to shore (about a quarter mile
+  from the mothership, fished around a point) produced several more
+  "monster" yellowtail in shallow water — called out on camera as a hard
+  pull on heavy line and hard drag pressure. Unregistered channel — medium
+  confidence.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the
@@ -232,6 +253,7 @@ water temp and bait depth before committing the day to one face.
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
+- [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
