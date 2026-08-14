@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI]
 confidence: high
 ---
 
@@ -253,6 +253,19 @@ the bluefin nearby become more cooperative too.**
   second presentation worked alongside the trolled live bait in the same
   drift. An on-camera line about a circle-hook requirement was too garbled to
   extract with confidence and is not carried here.
+- **Observed (Baja, region label)** (StokedOnFishing, 2012-05-08 upload,
+  Alijos Rocks, Baja — `6kpWn2sXokI`, "Big Yellowfin Tuna, Wahoo,
+  Yellowtail, and Dorado on the Intrepid | Part 3," aboard the long-range
+  boat **Intrepid**, part 3 of a multi-part trip series; unregistered
+  channel — medium confidence): closing out a couple-day stop at this
+  remote offshore bank, the crew graded the yellowfin tuna catch **anywhere
+  from 70 lb up to a couple around 80 lb** — described as "not wide open,
+  but... good fishing," in a mixed bag with yellowtail (called the trip's
+  standout — see [yellowtail](yellowtail.md#where--when)), a few scattered
+  wahoo, and dorado — the dorado line was called out earlier in the
+  session, on the crew's self-described "second day" at the bank, not part
+  of this closing tally itself (see [dorado](dorado.md#where--when)). No
+  technique, leader, or hook detail given for the tuna specifically.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -285,5 +298,6 @@ the bluefin nearby become more cooperative too.**
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
+- [Yellowtail](yellowtail.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

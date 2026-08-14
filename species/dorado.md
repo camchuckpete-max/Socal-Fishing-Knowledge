@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI]
 confidence: high
 ---
 
@@ -301,6 +301,21 @@ boat's own yo-yo yellowtail session earlier that day (see
 [yellowtail](yellowtail.md)) — a distinct boat and session from this same
 video's separately reported one-day tally of about 12 yellowtail plus a
 dorado (also logged in [yellowtail](yellowtail.md)).
+
+**Observed (Baja, region label)** (StokedOnFishing, 2012-05-08 upload,
+Alijos Rocks, Baja — `6kpWn2sXokI`, "Big Yellowfin Tuna, Wahoo, Yellowtail,
+and Dorado on the Intrepid | Part 3," aboard the long-range boat
+**Intrepid**; unregistered channel — medium confidence): earlier in the
+same session, on what the crew called the **"second day" of the rocks**
+(the stop totaled "a couple of days" per the closing summary, so this is
+not necessarily an earlier day than that summary — timing not fully
+resolved on camera), dorado were described as "starting to pick around" —
+a few coming through amid a yellowtail/yellowfin/wahoo mixed bag (see the
+trip's closing species-grade summary in
+[yellowtail](yellowtail.md#where--when) and
+[yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts), which does not
+itself mention dorado). No count, grade, or technique detail given for the
+dorado specifically.
 
 ## Gear summary (class terms)
 

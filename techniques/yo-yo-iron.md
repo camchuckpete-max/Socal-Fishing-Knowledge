@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI]
 confidence: high
 ---
 
@@ -263,6 +263,17 @@ the reverse map in **Linked from** below.
   names given on camera did not decode confidently enough from the captions
   to carry (heard as "tooro tenas," possibly an Okuma product; not
   confirmed).
+- **Observed (Baja, region label)** (StokedOnFishing, 2012-05-08 upload,
+  Alijos Rocks, Baja — `6kpWn2sXokI`, "Big Yellowfin Tuna, Wahoo,
+  Yellowtail, and Dorado on the Intrepid | Part 3," aboard the long-range
+  boat **Intrepid**; unregistered channel — medium confidence): an angler
+  who'd been yo-yoing "pretty much most of the trip" got bit, framed on
+  camera as a persistence game at this bank — fish enough drops at Alijos
+  Rocks and a bite eventually comes. (A garbled on-camera line around the
+  same hookup — captioned "trying to add 40 50 lb absolute must" — is too
+  uncertain to decode with confidence: it is not clear whether it refers to
+  line/leader class, the fish, or something else, so it is not carried here
+  as a parameter.) No jig weight, color, or depth given.
 
 ## Common failures
 

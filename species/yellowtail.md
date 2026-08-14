@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI]
 confidence: high
 ---
 
@@ -456,6 +456,27 @@ typical-year mapping.
   [calico bass](calico-bass.md) La Bocana entry), but the crew stayed on
   surface iron for the yellows. No weights given. Unregistered channel —
   medium confidence.
+- **Alijos Rocks, Baja** — a remote offshore bank reached on multi-day
+  long-range trips, distinct from the Pacific-coast Ensenada/La Bocana
+  entries above and the Sea-of-Cortez La Paz entries below; treated as
+  in-scope Baja (edge-of-scope, flagged).
+  **Observed** (StokedOnFishing, 2012-05-08 upload, Alijos Rocks, Baja —
+  `6kpWn2sXokI`, "Big Yellowfin Tuna, Wahoo, Yellowtail, and Dorado on the
+  Intrepid | Part 3," aboard the long-range boat **Intrepid**, part 3 of a
+  multi-part trip series; unregistered channel — medium confidence):
+  closing out the trip's last evening at the rocks after a couple of days
+  fished there, the crew called out yellowtail fishing as "really good" —
+  the standout species of the stop, in a mixed bag with yellowfin tuna
+  (graded anywhere from **70 lb up to a couple around 80 lb** — see
+  [yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts)), a few scattered
+  wahoo, and dorado "starting to pick around" — called out earlier in the
+  session, on the crew's self-described "second day" at the bank, and not
+  itself part of this closing tally (see
+  [dorado](dorado.md#where--when)). Described as "not wide open,
+  but... good fishing" overall. No jig weight, color, or depth given for
+  the yellowtail specifically. See the yo-yo persistence/line-class data
+  point from the same session in
+  [yo-yo iron](../techniques/yo-yo-iron.md#gear-class-detail).
 - **La Paz, Baja California Sur (Sea of Cortez side)** — a distinct region
   from the Pacific-side La Bocana/Cedros entries above and below.
   **Observed** (StokedOnFishing, 2023-10-25 upload, La Paz, Baja California
@@ -1053,5 +1074,6 @@ water temp and bait depth before committing the day to one face.
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
