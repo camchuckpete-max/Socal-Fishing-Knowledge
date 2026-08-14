@@ -100,3 +100,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T19:53:26Z — fDSd9kqwYW0 — evaluator-escalate
 - run: 31831183245
 - reason: species/rockfish-lingcod.md's new Observed block reports a 'fulfilled our 10 around on the rockfish' bag-limit figure — a regulatory claim, correctly hedged as an on-camera anecdote not current guidance; Cameron should confirm hedging is sufficient
+
+## 2026-08-14T20:02:00Z — elBPRrdkugU — guard-violation
+- run: 31831183245
+- reason: commit 848d803b666632b235955e120a06c55e75f09e3e reverted: protected path touched: profiles/cameron/rods.md

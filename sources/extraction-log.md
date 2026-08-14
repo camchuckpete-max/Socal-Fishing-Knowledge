@@ -1078,7 +1078,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | rhaie9Tbi8I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Hannibal Bank, spinner dolphins), yellowfin/dorado catch footage |
 | aPkRKI35XV0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Coiba National Park, rooster/snapper/amberjack footage |
 | fDSd9kqwYW0 | StokedOnFishing | on-the-water | parameter-skim | done | species/rockfish-lingcod.md; species/yellowtail.md — Cortez Bank Observed blocks: rockfish stop (150ft ridge, drift-wind mechanics, 10-fish limit anecdote), yellowtail flyline leg (No.2 hook/25lb, 5-h |
-| elBPRrdkugU | StokedOnFishing | on-the-water | observations-only | pending | El Dorado SoCal, San Clemente/Catalina, spreader-bar bluefin fight footage |
+| elBPRrdkugU | StokedOnFishing | on-the-water | observations-only | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
 | nsUdT-zXI8s | StokedOnFishing | on-the-water | observations-only | pending | El Dorado, San Clemente Is SoCal, veterans charity trip; seal depredation, yellowtail catch |
 | vCskOx6N-XM | StokedOnFishing | on-the-water | deep | pending | Tanner Bank SoCal; kite/spreader-bar rigging + selection logic (cover-ground vs marked fish), fight technique |
 | lxM-AbTn3Sc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Nosara, Costa Rica inshore wahoo/tuna/dorado footage, sponsor-heavy |
