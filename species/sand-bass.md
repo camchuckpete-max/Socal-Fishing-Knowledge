@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI]
 confidence: high
 ---
 
@@ -48,6 +48,15 @@ rocks.
   catch, including one angler's first fish ever. Legal size was called out on
   camera as **14 in**, matching the calico-bass legal-size figure. Unregistered
   channel — medium confidence.
+
+- **Observed** (StokedOnFishing, 2025-05-16, Long Beach / Alamitos Bay — Olive
+  Crest ProAm charity bass tournament, `SdwwpQMJEOI`, "Battles for the Biggest
+  Bass — This Is the Olive Crest Bass Fishing Tournament"): one boat's
+  pre-fishing plan named sand bass and calico bass as the day's target
+  species, working a reef spot near Long Beach (name given on camera but
+  ASR-uncertain — omitted) with live bait plus soft-plastic paddle-tail
+  swimbaits and A-rigs. No conditions, depth, or outcome detail given beyond
+  the gear plan. Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)
 

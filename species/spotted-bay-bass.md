@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI]
 confidence: high
 ---
 
@@ -67,6 +67,15 @@ every structure spot when the tide turns.
   claim about the fishery's ceiling grade, not corroborated by any bigger
   fish landed in this footage. No tide, structure, or technique detail given.
   Unregistered channel — medium confidence.
+
+- **Observed** (StokedOnFishing, 2025-05-16, Long Beach / Alamitos Bay — Olive
+  Crest ProAm charity bass tournament, `SdwwpQMJEOI`, "Battles for the Biggest
+  Bass — This Is the Olive Crest Bass Fishing Tournament"): a team fishing
+  spotted bay bass for the first time reported no bites through a slack/
+  no-current stretch, then connecting once current came back on —
+  "current... no current... finally got current, we got bites" — consistent
+  with the fully-tide-driven doctrine above. Multi-speaker, unregistered
+  channel, presenter not identified — medium confidence.
 
 ## Finding them (sign & sonar)
 

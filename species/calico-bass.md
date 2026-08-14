@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI]
 confidence: high
 ---
 
@@ -534,6 +534,16 @@ present the outside stringers.
   are slow to grow, so let them go to fight another day," and describes
   photo-and-release as the encouraged local practice for SoCal calico and
   sand bass. A region-labeled data point, not a new rule.
+- **Observed** (StokedOnFishing, 2025-05-16, Long Beach Yacht Club weigh dock,
+  Alamitos Bay — Olive Crest ProAm charity bass tournament, `SdwwpQMJEOI`,
+  "Battles for the Biggest Bass — This Is the Olive Crest Bass Fishing
+  Tournament"): at the live weigh-in for a mixed calico bass / sand bass /
+  spotted bay bass catch, dock staff instructed anglers releasing fish to
+  **grab them by the middle of the body, not by the tail**, and separately
+  asked whether any fish "need[ed] to be fizzed" (vented for barotrauma)
+  before release — the fizzing question was raised on camera but not
+  demonstrated. A general release-handling data point, not new doctrine.
+  Unregistered channel, multi-speaker — medium confidence.
 
 <!-- backlinks:start -->
 ## Linked from
