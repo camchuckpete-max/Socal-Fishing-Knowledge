@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, 3qSY328fFYo]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw]
 confidence: medium
 ---
 
@@ -57,7 +57,7 @@ question (see **Doctrine & conflicts**).
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
 | **Fall, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Put the marlin jigs **on the edge where bait meets clear water**; arrive an hour before the tide change |
-| **Tailing / finning fish sighted, or a fish shows in/behind the spread without eating a jig** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live mackerel dropback bait to the fish | Flyline / live-bait class | Dropback-bait execution is now sourced (StokedOnFishing, medium confidence); the teaser/pitch skeleton itself is still partly unsourced — see the technique note; the pitch rod sits rigged and ready the whole troll |
+| **Tailing / finning fish sighted** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live bait to the raised fish | Flyline / live-bait class | **⚠ Execution note is a flagged stub** (no corpus source yet); the pitch rod sits rigged and ready the whole troll |
 | **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (5to3Q5P7w90) |
 
 **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
@@ -70,25 +70,6 @@ the water at the moment of the bite is not clearly identifiable on camera
 (the audio is too garbled to confirm lure or bait), so it is not logged as a
 targeted technique; distinct from the dedicated bait-and-switch program in
 the table above.
-
-**Observed** (StokedOnFishing, presenter/angler Jimmy Decker, 2014-11-08
-upload, SoCal — the tanker lanes (~17 mi out) running to the **277 bank** at
-the bottom of the ridge off Catalina's east end — `3qSY328fFYo`; unregistered
-channel — medium confidence): a half-day trolling stop that hooked and
-released a striped marlin estimated on camera at **roughly 160 lb**, hooked
-in the corner of the mouth on a flying-fish-pattern swimming lure, taken on a
-live mackerel dropback bait once the fish showed in the spread. The stop's
-tide timing corroborates and adds numeric specifics to the slack-tide
-doctrine above: a high tide at **7:30**, called on camera as "a pretty
-rolling tide," and a low given on camera at two slightly different times —
-first as roughly **11:30–12:00** (ASR-garbled at that point in the
-transcript, not confidently resolved), later restated as **11:15** — kept
-side by side rather than reconciled to one figure. Jig strikes were said to
-typically land an hour or so before or after the tide change. Full spread
-setup, the troll-downhill sun rule, sounder use, and dropback-bait mechanics
-from this same stop are logged in [trolling — SoCal, Catalina tanker
-lanes/277 bank](../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll)
-and [bait-and-switch](../techniques/bait-and-switch.md).
 
 **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2018-12-17
 upload, offshore of Ensenada, Baja California — `0bcDBGzQnGw`, "Fishing In

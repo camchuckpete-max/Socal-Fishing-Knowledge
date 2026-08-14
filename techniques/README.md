@@ -4,7 +4,7 @@
 <!-- index:start -->
 ## Index
 
-- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live
+- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait.
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
@@ -54,7 +54,6 @@ graph LR
   n18["Swimbaits"]
   n19["Trolling"]
   n20["Yo-Yo Iron"]
-  n0 --> n19
   n1 --> n18
   n1 --> n19
   n10 --> n16
@@ -78,7 +77,6 @@ graph LR
   n17 --> n7
   n18 --> n1
   n18 --> n20
-  n19 --> n0
   n19 --> n1
   n19 --> n16
   n19 --> n17
