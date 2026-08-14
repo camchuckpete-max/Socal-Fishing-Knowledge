@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [ocean-whitefish, tilefish, channel-islands, hard-bottom, bottomfish, variety]
-sources: [6-8KfjEg0x8, O5aQkex0qGg]
+sources: [6-8KfjEg0x8, O5aQkex0qGg, Y1xeieQI3B4]
 confidence: medium
 ---
 
@@ -80,6 +80,17 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - **Confidence: medium** — the standout SoCal-specific source is the single
   Channel Islands variety day; the value ("underrated," "catch a hundred," 30-lb
   class) is a single credible on-water account.
+- **Observed** (StokedOnFishing, `Y1xeieQI3B4`, 2025-05-10, Cortez Bank aboard
+  the 85 ft *El Dorado* — unregistered channel, medium confidence): a large
+  grade of ocean whitefish ("absolutely Jurassic" per the crew) came from a
+  rockfishing stop on Cortez Bank after the boat had already boxed limits of
+  bluefin tuna ("limits of blue fin tuna for 23 passengers" on camera) and a
+  good stack of yellowtail — see the
+  [rockfish & lingcod](../species/rockfish-lingcod.md) Cortez Bank entry for
+  the full stop. This is a new region for this note beyond the Channel
+  Islands source above — an **offshore bank**, not an island — consistent
+  with the doctrine that whitefish share hard-bottom high spots with the
+  rockfish/lingcod complex; no depth or exact grade given on camera.
 
 <!-- backlinks:start -->
 ## Linked from

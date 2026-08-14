@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [tuna, bluefin, yellowfin, fish-care, ikejime, gaffing]
-sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA, mDmbGdQAy-4]
+sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA, mDmbGdQAy-4, Y1xeieQI3B4]
 confidence: medium
 ---
 
@@ -93,6 +93,15 @@ mass. Hold it in the cold at least this long before you consider it done:
 
 - A **>100 lb** fish will not core-chill in an afternoon — plan to hold it
   **overnight** and **re-ice** it as the slurry melts down.
+- **Observed** (StokedOnFishing, `Y1xeieQI3B4`, 2025-05-10, Cortez Bank aboard
+  the 85 ft *El Dorado* — unregistered channel, medium confidence): a
+  multi-day charter alternative to the ice slurry above — an onboard **RSW
+  (refrigerated seawater) fish hold**, running at **about 36°F**, that fish
+  go into and stay in **until they're filleted**, rather than being iced and
+  pulled for processing. Kept side by side with the slurry chain above rather
+  than merged into it — a different chilling mechanism (mechanical
+  refrigeration vs. a salted ice/seawater mix), and no chill-time or
+  fillet-timing detail was given on camera.
 
 ## 6. Loin handling after filleting — salt water, not fresh
 

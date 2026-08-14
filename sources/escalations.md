@@ -92,3 +92,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T16:47:03Z — usHl-4SfqDA — evaluator-escalate
 - run: 31811441411
 - reason: two CDFW regulatory claims added (bluefin bag limit 2/person/day in species/bluefin-tuna.md; spotted-bay-bass no-minimum-size in species/spotted-bay-bass.md), both jurisdiction/as-of/verify-flagged per convention but need Cameron's verify-current confirmation before Gate B
+
+## 2026-08-14T18:06:37Z — Y1xeieQI3B4 — evaluator-escalate
+- run: 31821567808
+- reason: rockfish-lingcod.md Observed block restates an on-camera '20 fish per day' boat allowance figure (bag-limit-shaped claim) without jurisdiction/as-of stamping; verify-current caveat added but should go to Cameron for review since it's adjacent to CDFW/CPFV bag-limit territory

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4]
 confidence: high
 ---
 
@@ -134,6 +134,24 @@ the *bottom*, not the fish.
   season/regs note above — California rockfish regs do not apply in Mexican
   waters in any case; verify current Mexican/Baja regs separately before
   fishing there).
+- **Observed** (StokedOnFishing, `Y1xeieQI3B4`, 2025-05-10, Cortez Bank aboard
+  the 85 ft *El Dorado* — unregistered channel, medium confidence): on day two
+  of a 2.5-day trip, once the crew had boxed limits of bluefin tuna ("limits
+  of blue fin tuna for 23 passengers" on camera) and a good stack of
+  good-grade yellowtail, Captain TJ suggested switching the whole boat over to
+  rockfishing for the rest of the day — explicitly to "fill the bags," since
+  the crew stated the boat's daily allowance as 20 fish per angler and the
+  sacks weren't yet full on bluefin and yellowtail alone (a passenger/CPFV
+  sack-limit figure stated on camera, not stamped here as current regulatory
+  guidance — jurisdiction/as-of not given; verify current CDFW/CPFV bag limits
+  separately). The stop produced lingcod (multiple,
+  one taken "right under the gill") and ocean whitefish — see the
+  [ocean whitefish](../species/ocean-whitefish.md) Cortez Bank entry — fished
+  on jigging gear described on camera as mostly braid (called "90% braid" and
+  "95% braid" by different anglers on camera). Consistent with this note's
+  framing of Cortez Bank/offshore banks as a deep-rock destination, and a
+  concrete example of the mid-trip pelagic-to-bottomfish switch pattern on a
+  multi-day SoCal/Baja-bank charter.
 - **Historical example — reopen date and a depth-limit progression (California/CDFW,
   as-of 2019-02, self-admitted uncertain reading of the regs — verify current
   before using any of these numbers):** the presenter describes the SoCal
