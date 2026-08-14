@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo]
 confidence: high
 ---
 
@@ -89,6 +89,12 @@ General method: [search & glassing](../planning/search-and-glassing.md).
   here" — roughly **18–20 ft**, deeper than the 12–14 ft typical range
   above; the take came bottom-bouncing, right as the bait dropped near
   bottom. Multi-speaker, unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): presenter
+  called fish suspended around **18–20 ft** in **30 ft** of water — another
+  data point deeper than the 12–14 ft typical range above (audio partly
+  garbled on the exact split between the suspension depth and the bottom
+  depth; figures as best transcribed). Multi-speaker, unregistered channel —
+  medium confidence.
 - **Sign:** birds sitting on the riprap mark the current deviations
   ([bird reading](../conditions/bird-reading.md)); watch your line on the sink —
   the twitch/take-off is the bite before the rod feels it.

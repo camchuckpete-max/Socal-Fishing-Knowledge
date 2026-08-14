@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo]
 confidence: medium
 ---
 
@@ -53,6 +53,21 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
   event), the crew reported a **shrimp-pattern** lure working on fish through
   the session (narration cuts off before naming the bait type or rigging
   detail). Multi-speaker, unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): when
+  overcast moved in, two anglers on the same boat both switched to
+  **darker-colored** plastics and each drew a fish shortly after the change —
+  a color-to-light-condition adjustment, not a doctrine claim. Multi-speaker,
+  unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): with smelt
+  or anchovies visibly present in the water, the presenter swapped to a bait
+  described as matching that baitfish's small profile (exact
+  color/model garbled in the audio) — a bait-profile-to-forage matching move,
+  not a doctrine claim. Multi-speaker, unregistered channel — medium
+  confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): a small
+  **Yamamoto grub tail** in **hot orange** was named as the bait in play late
+  in the session and produced a (small) fish. Multi-speaker, unregistered
+  channel — medium confidence.
 
 ## How to fish it
 
