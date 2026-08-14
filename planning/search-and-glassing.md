@@ -198,6 +198,7 @@ current "should" carry everything astern.
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

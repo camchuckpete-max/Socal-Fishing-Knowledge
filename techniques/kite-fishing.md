@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0]
 confidence: high
 ---
 
@@ -33,6 +33,55 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   splashing commotion draws the bite.
 - Keep the bite leader **short** so the hooked fish can be gapped at the boat —
   the harness note carries the leader length and wing-angle numbers.
+
+## Observed: building and running the kite line (Baja tournament)
+
+**Observed** (StokedOnFishing, `Ix0gG0-l3v0`, 2024-08-21, 2nd annual Baja Blue
+Fin Tuna Tournament, Ensenada, Baja California — region: Baja; unregistered
+channel — medium confidence): rigging and boat-handling detail for the
+kite-line side of the setup, distinct from the [flying-fish
+harness](../rigging/flying-fish-harness.md) rigged onto the fishing line
+itself:
+
+- **The breakaway connection:** thread a small ring onto the fishing line
+  *before* tying on the snap swivel, then tie a rubber band from that ring to
+  the kite line's release clip — no knot ties the fishing line directly to
+  the clip. The rubber band is the weak link that lets the fishing line pop
+  free of the kite line on the bite.
+- **The quick release** on the kite line itself is built by making a loop in
+  the line and flipping/hooking that loop onto the release-clip mechanism,
+  rather than tying a knot to it.
+- **Paying the kite line out:** rather than thumbing the spool, **loosen the
+  star drag** on the kite reel to control payout speed — slows the line
+  going out and avoids burning your thumb, the same effect as thumb control
+  without using a thumb.
+- A **knot in the kite line, marking an estimated ~75 ft out**, comes up
+  during payout as a distance reference — exact function (splice vs. marker)
+  not resolved on camera.
+- A **heavy-duty snap swivel** is used in the kite-line rigging, with an
+  on-camera caution against over-cranking/snapping it down hard on the line;
+  the kite line itself runs **straight braid**, with no separate leader
+  section described.
+- Kite line is spooled out roughly **a couple hundred yards** once set.
+- **Boat speed while working a kited spread:** this boat ran on a **single
+  (center) engine of its multi-outboard setup**, moving at roughly **2 kt**,
+  to work the spread slowly while searching rather than run-and-gun.
+- **Gyro-stabilized binoculars** (Fuji brand, on this boat) were called
+  "mandatory" both for spotting bluefin on the surface and for watching the
+  flying fish stay upright/skipping correctly on the kite line — framed as
+  something a normal, non-stabilized pair can't do from a rocking boat. This
+  is the same stabilized-binoculars doctrine as [search and
+  glassing](../planning/search-and-glassing.md#the-glassing-protocol), with a
+  kite-specific second use case (watching the bait, not just spotting fish)
+  and a named brand.
+- **Tagline, described as mandatory:** the crew rigged a tagline during kite
+  prep, called out on camera as **mandatory** at roughly **30 ft** — the
+  exact attachment point and mechanism are not resolved on the audio
+  (asr-uncertain: "mandatory 30 ft above it... back to free"). Read as a
+  tournament boatside-handling requirement, not confirmed as a general CDFW
+  or other jurisdiction regulation. See [fighting a big bluefin — hand-off
+  to the gaff](fighting-big-bluefin.md#hand-off-to-the-gaff) for the general
+  boatside procedure this would feed into.
 
 ## The bite and the gap
 
@@ -175,6 +224,7 @@ trigger to speed-troll once the kite won't fly. See
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Speed Trolling](speed-trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowtail](../species/yellowtail.md)

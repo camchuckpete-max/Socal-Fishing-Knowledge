@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0]
 confidence: medium
 ---
 
@@ -67,6 +67,20 @@ a faster field rig for the same purpose, not shown to be superior or
 inferior. Deployed the same way: main line runs to the kite line, the flyer
 dances/skips near the surface, and the fishing line comes free of the kite
 line on the bite.
+
+## Commercial pre-rigged option and a rubber-band wing-lock variant
+
+**Observed** (StokedOnFishing, `Ix0gG0-l3v0`, 2024-08-21, 2nd annual Baja Blue
+Fin Tuna Tournament, Ensenada, Baja California — region: Baja; unregistered
+channel — medium confidence): a commercially made, pre-rigged flying-fish rig
+(brand name not resolved on the audio — asr-uncertain, name withheld) sold
+ready-to-fish, built with **300 lb** leader material — on camera called
+"wire," which is not confirmed against the 200–400 lb **mono** spec above
+given ASR audio quality; kept side by side, not merged into, that mono spec.
+Same source, separately: the wing harness is sometimes secured with a
+**rubber band** rather than a zip tie — a second field-simplification,
+alongside the popsicle-stick method above, kept beside it rather than
+reconciled.
 
 ## Artificial alternative — durable rubber flyer for trolling
 

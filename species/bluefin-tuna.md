@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0]
 confidence: high
 ---
 
@@ -278,6 +278,25 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   time-of-night within one 24-hour cycle, not a moon-phase pattern.
 - **Advection prior:** open-water bluefin not holding structure move **10–15 nm
   overnight**; intraday they move only low single-digit mph.
+- **Region: Baja (Ensenada) — a separate regional pattern, not part of the
+  SoCal seasonal slide above. Observed** (StokedOnFishing, `Ix0gG0-l3v0`,
+  2024-08-21 upload, 2nd annual Baja Blue Fin Tuna Tournament, Ensenada, Baja
+  California; unregistered channel — medium confidence): a tough two-day
+  tournament bite fishing a bank roughly **42–43 mi** run from the
+  Ensenada-area dock. Day one, across an estimated **~40 boats fishing**, only
+  **3 boats** landed fish, each roughly **30 lb**-class bluefin — the
+  tournament director (Manuel Hernandez) reported **4 fish** caught across the
+  fleet on day one and **7 fish** on day two. On day two this crew spotted a
+  school **breezing/bouncing on the surface** and moved to run a **long
+  spreader bar** across them; as they closed, the fish showed again **roughly
+  200 yd to the left of the trailing spreader bar** — the same school-grade
+  [spreader-bar](../lures/spreader-bar.md) call as [bluefin
+  trolling](bluefin-trolling.md) — but did not connect; later the same day a
+  kited flying fish (see [kite fishing](../techniques/kite-fishing.md)) drew
+  a swirl that would not commit. The boat landed no fish across the
+  tournament despite kite and spreader-bar effort in a zone with confirmed
+  bluefin sign — kept as a region-labeled data point beside the SoCal
+  calendar above, not folded into it.
 
 ## Finding them (sign & sonar)
 
