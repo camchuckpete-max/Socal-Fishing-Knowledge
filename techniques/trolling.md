@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc]
 confidence: high
 ---
 
@@ -313,6 +313,24 @@ Baja mangrove structure-casting section of [flyline](flyline.md)):
   edge rather than stop fishing. Different channel and trip from the Lopez
   Mateos series (no shared crew or guide named), so this stands as an
   independent corroborating data point, not a repeat of the same footage.
+
+**Observed** (StokedOnFishing, 2020-10-14 upload, Magdalena Bay, Baja
+California Sur — Mag Bay Lodge, presenter Shea — `OVwqUKim9Pc`, "Two More
+Days of Insane Inshore and Offshore Fishing in Mag Bay," continuing the same
+Mag Bay Lodge trip/series as the `isXJONlpUP4` entry above; unregistered
+channel — medium confidence): before committing to the day's offshore run,
+the crew idled out past the estuary mouth to look at the wave state and
+picked that day's bank off what they saw. If the waves outside looked
+manageable, the plan was the longer run to a bank called **"the Ridge,"**
+with a depth cited on camera that the auto-captions render as "23 fetus"
+(**asr-uncertain** — most likely **~23 fathoms**, not confidently resolved).
+If the waves looked rough enough to make that long boat ride unattractive,
+the fallback was a closer bank the crew calls **"Modesto Main,"** which had
+also been producing fish. On this trip the crew ran offshore targeting
+wahoo, which turned into a "full speed" dorado bite instead (the specific
+bank fished that day was not named on camera). The trip's final day
+returned to the estuary instead of another offshore run, for a multi-fish
+snook bite (kept for the table).
 
 ## Common failures
 
