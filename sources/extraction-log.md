@@ -828,7 +828,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 9xHgdtNek1U | Your Saltwater Guide | tutorial | skip:duplicate-of-gKrYKvqHUjk | skipped | sweep sim 1.000, text-identical re-upload of 2020 fly-line rig video |
 | pmfJlt2i_fo | Your Saltwater Guide | out-of-region | skip:out-of-region | skipped | Blue runner trolling explicitly Florida Keys/Bahamas |
 | YvWHJ0Dgupc | Your Saltwater Guide | tutorial | skip:duplicate-of-ftEvyfwjZFU | skipped | confirmed: identical SD jam knot/bluefin tackle recording as ftEvyfwjZFU (2021) |
-| L_FD-UzvEio | Your Saltwater Guide | tutorial | parameter-skim | pending | Bait-tank management: lid off, remove dead bait (toxin), tap-scoop technique, never touch bait |
+| L_FD-UzvEio | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md: amended with dave-hansen subsection on lid-off running, dead-bait toxin, tap-scoop culling, never-touch-bait; fixed a smoothed number (2.5 hours) |
 | rwfjUa4zsyY | Your Saltwater Guide | on-the-water | observations-only | pending | Marlin catch footage, minimal handling note; series: Allies first marlin part 2 |
 | frX09YMQxKE | Your Saltwater Guide | on-the-water | observations-only | pending | Baja (Lopez Mateo/Magdalena Bay mangroves); snook/pargo/grouper catch clip, drone scenery, no doctrine |
 | 67qLBEtd3EU | Your Saltwater Guide | on-the-water | skip:duplicate-of-KTsXdQXAnkU | skipped | confirmed: identical dialogue/duration(7:07) to primary calico bass video, same recording |

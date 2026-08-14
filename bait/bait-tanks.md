@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, cameron]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, cameron, L_FD-UzvEio]
 confidence: medium
 ---
 
@@ -50,6 +50,29 @@ the oxygen and dies.
   [fishing live bait](fishing-live-bait.md)).
 - **Steady flow** is the whole job — an interruption to the pump is what kills a
   tank of bait.
+
+## Underway: lid off, tap-scoop culling (dave-hansen, L_FD-UzvEio, 2022-02-04)
+
+- **Run with the lid off**, not sealed shut for the ride. A closed lid hides a
+  dead pump — a boat can run 2.5 hours to Catalina with the lid sealed and only
+  discover at the destination that the pump quit and the whole tank of bait is
+  dead. A little water on the crew underway is the tradeoff for being able to
+  see the tank.
+- **Dead bait leaches a toxin** that kills live bait around it — visible as an
+  oil sheen rising to the surface of the tank when dead bait sits on the
+  bottom. That's what makes prompt culling (above) more than tidiness.
+- **Tap-scoop technique to cull without stressing the tank:** lower the scoop
+  gently to the bottom, tap the bottom of the tank with it (tap-tap-tap) so
+  the live bait scatters clear, then you can see the dead bait sitting on the
+  bottom. Scoop it up **without pulling the net out of the water**, pick the
+  dead baits out at the surface, and release the live bait back into the tank.
+- **Never pull live bait out of the water just to look at it** — it knocks the
+  scales off and turns healthy bait into damaged bait you'll have to cull. The
+  only times bait should leave the water are walking it to the rod to hook it,
+  or to chum.
+- Culled dead bait isn't wasted: unless the boat has an unusually large bait
+  supply, save it in a bucket (a 5-gallon bucket covers most boats) and use it
+  for chum through the day, including chumming on the anchor.
 
 ## Worked example — Cameron's panga tank
 
