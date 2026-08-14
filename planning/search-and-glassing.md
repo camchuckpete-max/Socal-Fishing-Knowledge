@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00]
 confidence: high
 ---
 
@@ -65,6 +65,39 @@ Once you've found the water, where you drop the hook depends on what you're afte
   boat to read the true current before you commit. The mechanism is in
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
+
+## Ground tackle and the pinpoint drop (Dave Hansen, Your Saltwater Guide, OpA0OqRgj00, 2022-02-08; registered voice, single mention on this specific topic — medium confidence)
+
+Below the geometry above sits the physical rode and the drop itself:
+
+- **Run chain-and-rope, never a straight/all-chain rode.** Hansen frames an
+  all-chain rode as a beginner tell — "if you go out on a sport boat and the
+  guy's got straight chain... he probably is new" — and states every boat he's
+  fished runs chain and rope together: "I'll guarantee you all the boats have
+  chain and rope... because it matters and it's important." He separately notes
+  the chain segment itself is "the key" and that "you want the chain to lay
+  flat on the bottom," but doesn't state a mechanism for why all-chain is
+  undesirable — only that seeing it is a tell for an inexperienced boat.
+- **Size the anchor to the boat**, not to a fixed number — his own data points,
+  preserved as given:
+  - 21 ft Wellcraft → 12 lb anchor
+  - 65 ft Viking (his own) → 80 lb anchor
+  - Typical SoCal sport boat → 75–100 lb, "usually 100 lb"
+  - The Royal Polaris (ASR renders this "Real Polaris"; unverified against a
+    named-boat roster but inferred from context as the well-known San Diego
+    long-range boat) → roughly 150 lb
+  The pattern is a ladder that scales with boat size/class, with the chain
+  doing the actual holding work at every size on the ladder.
+- **Free-spool the drop to pinpoint the spot** rather than lowering on the
+  powered winch. Every anchor winch has a free-spool release (worked with a
+  star-shaped wrench/handle); backing it off lets the anchor free-fall instead
+  of paying out under power. Powered payout is described as roughly **a foot
+  per second** — by the time ~100 ft of rope-and-chain has paid out that way in
+  wind or current, the boat has already drifted past the target. Free-spooling
+  lets the anchor fall essentially straight down the moment you're over the
+  mark: pull up to the spot, release the free-spool, let it fall, then cinch
+  the star back down to set once it's on bottom. Hansen states this is
+  standard on every boat he drives.
 
 ## Inshore/kayak zone-and-spot search (bay / back-bay)
 
