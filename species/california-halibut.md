@@ -143,6 +143,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 
 - [April](../seasonal/april.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
+- [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

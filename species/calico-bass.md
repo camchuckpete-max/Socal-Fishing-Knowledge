@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY]
 confidence: high
 ---
 
@@ -187,6 +187,24 @@ you read the *current across the kelp*, not the tide clock.
   the best calico of that stretch) and a separate, bigger fish landed
   earlier on a swimbait/plastic. No current or water-color detail given.
   Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2019-03-12 upload, West End of Cedros
+  Island ("Jurassic Park") backside, Baja — `3yK3JYrKoZY`, "Big Yellowtail,
+  Cedros Island Part 2"; distinct trip/date from, and corroborating, the
+  `RPSRH0jwyw4` West End/"Jurassic Park" entry above — same nickname for the
+  same ground): the crew again worked the backside/West End, noting on
+  camera it was **one of only two or three boats fishing the backside** that
+  day and calling it a rarely-fished "window." Weedless swimbaits produced a
+  fast bite with repeated doubles (one hookup called a "double banger") and
+  multiple solid calico landed and released; the crew is also heard targeting
+  California halibut nearby with a swim bait, though the audio at that point
+  is too garbled to confirm whether a fish was actually landed, or its
+  weight/depth (see [California Halibut](california-halibut.md)). The
+  episode's closing recap describes fishing conditions immediately preceding
+  this trip (exact date not given) as having included a **hurricane swell and
+  wind**, yet the island still produced quality yellowtail and calico around
+  that time — conditions context only, not a new bite-pattern claim beyond the
+  fast/high-volume Cedros pattern already documented above. Unregistered
+  channel — medium confidence.
 - **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur — Pacific side, described on camera as "just half way down the Baja
   Peninsula" — `qri15R3caYE`, "Stoked On La Bocana," part 1): a new-to-the-crew

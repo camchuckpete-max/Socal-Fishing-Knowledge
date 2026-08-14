@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY]
 confidence: high
 ---
 
@@ -85,6 +85,17 @@ the reverse map in **Linked from** below.
   - **Context (same source):** described as the top yellowtail method heading
     into spring (upload 2021-03-16), when fish sit suspended near bottom over
     squid beds and red-crab-holding bottom up and down the SoCal coast.
+- **"Lazy boy style" — clicker on, a third cadence (Observed, StokedOnFishing,
+  2019-03-12, Cedros Island, Baja — `3yK3JYrKoZY`, "Big Yellowtail, Cedros
+  Island Part 2"; unregistered channel — medium confidence):** a 25 lb
+  yellowtail was called out on camera as caught "yo-yo, lazy boy style" —
+  glossed in the same breath as **"put the clicker on."** No rod/reel, drop
+  depth, or further mechanics given. Read as a passive variant that sits
+  beside, not a replacement for, the active crank-and-drop and continuous-
+  wind-to-the-top cadences documented above: reel clicker engaged so the
+  angler is alerted to a bite rather than actively working the retrieve —
+  kept side by side, attributed, not reconciled with the "wind as fast as you
+  can" doctrine.
 - **Downsize to match small bait (Baja/Cedros, attributed):** when fish are
   keyed on small forage — **red crabs, small sardines** — one Cedros Island
   angler drops to smaller/lighter yo-yo jigs (a brass-finish yo-yo iron among
