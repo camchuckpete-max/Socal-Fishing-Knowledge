@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM]
 confidence: high
 ---
 
@@ -256,6 +256,24 @@ you read the *current across the kelp*, not the tide clock.
   mark but weighed **9 lb**. The boat's own group went without grouper that
   day while other boats in the same party reportedly connected. Unregistered
   channel — medium confidence.
+- **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
+  Camp Pendleton — the boat departed Dana Point and worked south down the
+  coast, SoCal — `HMdrP4-i9MM`, "Out Fished by the Kids | Okuma Inspired
+  Fishing"): an annual Okuma-employee kids/family trip aboard a Dana
+  Wharf Sportfishing (Dana Point) charter — captain named on camera as Brian,
+  boat name not stated — found calico bass over
+  **hard bottom with light kelp growth that did not reach the surface** —
+  kelp riding roughly **20 ft off the bottom** in **~40–42 ft** of water. The
+  crew's pre-trip game-plan announcement also flagged barracuda and bigger **25–30 lb
+  "green fish"** (yellowtail) recently seen in the same stretch of coast,
+  though the day's fishing stayed on calico and [sand bass](sand-bass.md).
+  Techniques worked: dropper loop for the kids (see
+  [dropper loop](../techniques/dropper-loop.md)), flylined sardine (see
+  [flyline](../techniques/flyline.md)), a strip of squid or sardine fished
+  dropper-style, and an unspecified soft-plastic ("rubber lure") reported
+  working. Legal size was called out on camera as **14 in** for both kelp
+  bass and sand bass, consistent with the CDFW figure logged below.
+  Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)
 
@@ -480,6 +498,7 @@ present the outside stringers.
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Barred Sand Bass](sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
@@ -488,6 +507,7 @@ present the outside stringers.
 - [Chunking](../techniques/chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Current Structure](../conditions/current-structure.md)
+- [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [February–March](../seasonal/february-march.md)

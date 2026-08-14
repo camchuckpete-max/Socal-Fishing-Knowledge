@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM]
 confidence: high
 ---
 
@@ -84,6 +84,16 @@ Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a
 swivel, leader below to the hook** — that's the [sliding-sinker](sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar)
 rig format, not a dropper loop (hook above a fixed-position sinker); it does
 **not** confirm which format the reference-weight entry above used.
+
+- **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
+  Camp Pendleton, SoCal — `HMdrP4-i9MM`, kids/family Okuma trip aboard a Dana
+  Wharf Sportfishing charter, Dana Point): crew set kids up on a dropper loop
+  specifically to avoid casting — drop straight down and reel — over hard
+  bottom with light kelp not reaching the surface, in **~40–42 ft** of water
+  (see [calico bass](../species/calico-bass.md#where--when) for the full
+  structure detail). Baits included live sardine and a dropper-style strip of
+  squid or sardine, producing calico and [sand bass](../species/sand-bass.md).
+  Unregistered channel — medium confidence.
 
 ## Deploying it — drop, detect bottom, read the bite (Your Saltwater Guide)
 
@@ -221,6 +231,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

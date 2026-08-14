@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM]
 confidence: medium
 ---
 
@@ -45,6 +45,18 @@ Pick the hook position for the swimming behavior you want:
   kids' charity trip; hooks run were a mix of circle hooks and wide-gap
   hooks (ASR-uncertain: transcript says "white gap hooks," read here as
   wide-gap — not verified against a specific model).
+  **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
+  Camp Pendleton, SoCal — `HMdrP4-i9MM`, kids/family Okuma trip aboard a Dana
+  Wharf Sportfishing charter, Dana Point): crew rigged kids with live
+  sardines either nose-hooked / hooked in front of the eyes (the standard
+  nose-hook placement above) or hooked lower, described on camera as a
+  **"buzz hook"** toward the tail, said to make the bait swim down in the
+  column — asr-uncertain whether "buzz hook" is a distinct placement or a
+  mishearing of a hook position already covered above (e.g. belly/butt hook,
+  both of which also send the bait down and away); kept here as reported
+  rather than resolved. A straight (unweighted) flylined sardine was called
+  out on camera as producing a kid's fish that session. Unregistered
+  channel — medium confidence.
 - **Shoulder / dorsal hook** (mackerel especially) — keeps your **line up out of
   the water** and holds the bait **high, skating across the top** for a reaction
   bite.

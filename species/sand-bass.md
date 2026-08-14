@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM]
 confidence: high
 ---
 
@@ -40,6 +40,14 @@ rocks.
   [February–March](../seasonal/february-march.md).
 - **Moon:** clear full-moon nights suppress the daytime bite the same way they do
   calico — bite early, dead mid-day ([moon](../conditions/moon.md)).
+- **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
+  Camp Pendleton, SoCal — `HMdrP4-i9MM`, "Out Fished by the Kids | Okuma
+  Inspired Fishing"): on the same Okuma kids/family trip logged in
+  [calico bass](calico-bass.md#where--when) (hard bottom with kelp not
+  reaching the surface, ~40–42 ft), sand bass were mixed in with the calico
+  catch, including one angler's first fish ever. Legal size was called out on
+  camera as **14 in**, matching the calico-bass legal-size figure. Unregistered
+  channel — medium confidence.
 
 ## Finding them (sign & sonar)
 
@@ -94,6 +102,7 @@ rocks.
 
 - [Bass Structure](../locations/bass-structure.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
+- [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)

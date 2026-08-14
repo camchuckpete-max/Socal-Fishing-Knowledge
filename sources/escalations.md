@@ -76,3 +76,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T14:33:31Z — QSmE3mdEL28 — evaluator-escalate
 - run: 31804278506
 - reason: (1) router-table fix in species/yellowtail.md changes acceptance-test output (live-bait slow-troll now sourced for Cedros resident structure instead of no-source stub) - confirm row split reads correctly; (2) new catch-and-release content is framed as on-camera crew ethic but touches the Cedros 2023 regulatory catch-and-release change - confirm no jurisdiction/as-of-date flag needed
+
+## 2026-08-14T15:12:25Z — HMdrP4-i9MM — evaluator-escalate
+- run: 31811441411
+- reason: sand-bass.md's new Observed block states a numeric legal-size figure (14 in) leaning on calico-bass.md's already-flagged CDFW entry rather than restating its own regulatory citation — confirm cross-referencing is acceptable vs a standalone flagged citation
