@@ -1104,7 +1104,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Jz9KRNEHLkw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska lingcod |
 | 0bcDBGzQnGw | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/trolling.md / Ensenada/Navico dolphin-school-foamer-marlin stop and separate temp-break-search/Cal-Pal yellowtai |
 | Q-gQuOegAx4 | StokedOnFishing | on-the-water | observations-only | done | bait/fishing-live-bait.md; species/bluefin-tuna.md; species/yellowtail.md / SCI bluefin (100-200lb) then inshore calico/bonita/yellowtail chum-line leg + pinniped bait-hooking data point added as Obse |
-| cLYqjT7ddl8 | StokedOnFishing | on-the-water | observations-only | pending | SoCal offshore bluefin, Okuma/PCH rod-reel product test; sponsor-heavy |
+| cLYqjT7ddl8 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md / two Observed blocks added (bird-on-school grade/weight data point; shallow-mark meter/jig depths); front-matter sources gap fixed |
 | CKq0Z6ExVs4 | StokedOnFishing | on-the-water | observations-only | pending | Ensenada Baja high spot (200->25ft): whitefish/yellowtail/rockfish/barracuda |
 | YcLMhI5kzBo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga part 3, marlin/yellowfin, local cooking segment |
 | SGbynqaiHdY | StokedOnFishing | on-the-water | observations-only | pending | Save The Brave veterans charity charter, San Clemente Isl. yellowtail target; light fishing content |

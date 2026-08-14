@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8]
 confidence: high
 ---
 
@@ -459,6 +459,15 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   tied for 4th/5th on tournament points, with a stated plan to fly the
   [kite](../techniques/kite-fishing.md) and hold on the best sign for the
   final day.
+- **Observed** (StokedOnFishing, `cLYqjT7ddl8`, "Bluefin Tuna Okuma Style,"
+  2017-11-25 upload, trip framed on camera as "this past summer" (resolved
+  to summer 2017), roughly **25 mi offshore** SoCal in the San Clemente
+  Island/Catalina Island area (exact zone not further resolved on camera) —
+  an Okuma/PCH Custom Rods product-test trip; unregistered channel — medium
+  confidence, sponsor-heavy source, product/brand claims not carried): birds
+  working over "lots of breezers, lots of blow-ups" put the boat on the
+  school. Grade through the session was called mixed, **10 to 150 lb**,
+  including one fish weighed on camera at **45 lb**.
 - **Observed** (StokedOnFishing, upload 2017-12-13, trip fished summer 2017
   (exact month not stated, per on-camera "this past summer"), San Clemente
   Island, SoCal — `Q-gQuOegAx4`, "Stoked on the El Dorado 2 Day," the
@@ -522,6 +531,16 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     not folded into, the deeper sounded-school and shallow bait-ball rows
     already logged in this section, as another shallow-mark data point off
     Catalina's west end.
+  - **Shallow marks producing a quick jig hookup, another data point (Observed,
+    StokedOnFishing, `cLYqjT7ddl8`, same trip as logged above in **Where &
+    when**; medium confidence, sponsor-heavy source):** the crew called out a
+    mark on the meter at **60–80 ft**, dropped a jig straight down onto it,
+    and hooked up after about **two cranks**; separately, the same session
+    read marks at roughly **100 ft, moving up and down all around the boat**,
+    and at **~150 ft**. Kept beside, not folded into, the 120–150 ft
+    Catalina west-end shallow-mark entry above and the 30–50 fm sounded-school
+    range — another same-region shallow-mark/fast-jig data point (jig
+    model/brand not carried — ASR garbled on this transcript).
   - **Paddy/kelp fish:** hanging under [kelp paddies](../conditions/kelp-paddies.md)
     with yellowtail and dorado — grade the paddy fast and move.
   - **Bait shape:** broken, harried, moving bait holds predators; a solid
