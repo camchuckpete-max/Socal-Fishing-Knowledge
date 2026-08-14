@@ -68,3 +68,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T11:37:27Z — iQLyBzhOSi8 — evaluator-escalate
 - run: 31789364874
 - reason: On-camera slate reads 2012 for the fourth annual COOC, while already-committed parts 2 (PKf7G3uL4io) and 3 (IATPg9110CE) entries assume ~2014 from the shared YouTube upload date only; Cameron should decide whether those two entries need the same on-camera-year caveat since all three parts may document the 2012 tournament, not 2014.
+
+## 2026-08-14T13:20:23Z — GptrotE0x5M — evaluator-escalate
+- run: 31796980727
+- reason: the flyline.md addition states a circle-hook-mandatory claim as a Mexican sportfishing regulation (jurisdiction/as-of-date/verify-current flag are present and compliant with CLAUDE.md's regulatory-claim rule) — per evaluate-unit.md's mandatory escalation trigger, any regulatory claim must be flagged for Cameron's review regardless of how well-labeled it is.

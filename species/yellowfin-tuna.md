@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, cameron]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, cameron]
 confidence: high
 ---
 
@@ -121,6 +121,17 @@ the bluefin nearby become more cooperative too.**
 - No standing conflict — the corpus and Cameron agree on the water read; the only
   nuance is grade (private-boat bait budgets favor the scale-down/lure game over
   the sportboat's bottomless-chum approach).
+- **Observed** (StokedOnFishing, presenter Shay,
+  2019-02-13, East Cape, Sea of Cortez, Baja California Sur — Hotel Buena
+  Vista Beach Resort trip, `GptrotE0x5M`, "Non-Stop Tuna, Dorado, And Rooster
+  Action Part 2"; unregistered channel — medium confidence): a multi-boat
+  tournament ("Fiesta") points-race weigh-in on this day recorded yellowfin
+  of **72 lb, 63 lb, and 63 lb**, with the narration framing it as
+  "bigger-sized yellowfin" starting to show up for multiple boats that trip —
+  a grade data point for East Cape, Baja, distinct from the SoCal grade
+  range in this note's opening summary; not a SoCal claim. See the
+  hand-fought fight technique from the same day in
+  [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -129,6 +140,7 @@ the bluefin nearby become more cooperative too.**
 - [Bird Reading](../conditions/bird-reading.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M]
 confidence: medium
 ---
 
@@ -68,6 +68,36 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   break-off outcome is reported either way — kept beside the
   death-circle-avoidance doctrine above as a lighter-tackle, hand-fought data
   point, not a reconciliation of it.
+- **Observed** (StokedOnFishing, presenter Shay, 2019-02-13, East Cape, Sea of
+  Cortez, Baja California Sur — Hotel Buena Vista Beach Resort trip,
+  `GptrotE0x5M`, "Non-Stop Tuna, Dorado, And Rooster Action Part 2"; same
+  Fiesta trip as the `84XPJAeH0Rw` entry above, days later; unregistered
+  channel — medium confidence): two more hand-fought, thumb-on-spool data
+  points from the same trip, species/exact weight not confirmed on camera
+  (the day's weighed yellowfin ran **72 lb, 63 lb, and 63 lb** per the
+  point-race weigh-ins shown earlier in this video — see
+  [yellowfin tuna](../species/yellowfin-tuna.md)). On a **30 lb mono top shot
+  over spectra**, the angler kept **both thumbs on the spectra**, pulling
+  only when the fish was *not* pulling — never fighting directly against the
+  fish — to slowly turn its head, especially once it was close or the fight
+  needed to change direction; drag was bumped up gradually only toward the
+  end of the fight rather than set hard from the start. On a second, larger
+  fish taken on **squid bait on a circle hook**, the crew again coached
+  "getting it in its circles" and working it up high (consistent with the
+  circle-them-up coaching in the `84XPJAeH0Rw` entry above) — that approach
+  first ended in the **leader parting** boatside (asr-uncertain: on-camera
+  audio renders the word as "GFF," read here as "leader" from context, not a
+  brand/model name) on an estimated **60 lb**-class fish. On the next hookup
+  the angler **pushed the lever drag down and physically thumbed the spool**
+  for extra stopping power, landing the fish after a **40-minute fight** —
+  framed on camera as what a circle hook lets you get away with under heavy
+  hand pressure ("you got a fighting chance with the circle hook"). Drag was
+  run at **30 lb**; the rod was called "a little light" for the **60–80 lb**
+  tuna grade being caught that day (with a possible **90 lb** fish suspected
+  around the fleet) but held up. No boat-driving or down-swell-walk technique
+  is described in either fight — kept beside the boat-driven doctrine above
+  as additional hand-fought, region-labeled data points, not a
+  reconciliation of it.
 
 ## The end-of-fight head-shake
 
@@ -150,5 +180,6 @@ gamefish a sea lion is stealing boatside, not just bluefin.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Tuna Care](../fish-care/tuna-care.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

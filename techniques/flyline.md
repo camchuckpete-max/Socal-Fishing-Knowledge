@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M]
 confidence: medium
 ---
 
@@ -202,6 +202,30 @@ as "jamming squid" (asr-uncertain, mechanism not confidently resolved:
 possibly chumming/chunking squid rather than a hook bait) — with squid and
 sardines both reported schooling up visibly behind the boat during the
 bite. Unregistered channel — medium confidence.
+
+**Observed** (StokedOnFishing, presenter Shay, 2019-02-13, East Cape, Sea of
+Cortez, Baja California Sur — Hotel Buena Vista Beach Resort trip,
+`GptrotE0x5M`, "Non-Stop Tuna, Dorado, And Rooster Action Part 2"; same
+Fiesta trip as the `84XPJAeH0Rw` entry above, days later — unregistered
+channel, medium confidence): with the boat parked over actively feeding tuna,
+the crew **chummed squid pieces continuously** while also **hook-baiting
+squid on one of the smaller hooks in the spread**, describing the fish as
+"very active" and "watching them eat it" — this squid-chum mechanism likely
+resolves the ASR-uncertain "jamming squid" note in the `84XPJAeH0Rw` entry
+above to **chumming squid**, though it is kept flagged rather than silently
+corrected. Hook baits were fished on **circle hooks — 40 lb line class** for
+the tuna hookups landed this way; the crew also called to run "the two [rods]
+with big hooks with circle hooks" alongside continued squid chum. Tuna were
+taking the squid at an estimated **50 ft down** in the water column per the
+crew's on-camera call ("that squid was no more than 50 ft down") — notably
+deeper than the no-weight/near-surface norm for this technique described
+elsewhere in this note; asr-uncertain, "down" not confidently resolved
+between depth and a distance-from-boat reading, kept here as depth since
+that is the plain-language sense of the phrase. A crew member states on
+camera that **a circle hook was "mandatory"** for this fishing — read here as a Mexican sportfishing regulatory requirement (region:
+Mexico/Baja California Sur; **as of the 2019-02-13 video date — verify
+current CONAPESCA/DOF circle-hook rules before fishing**, not independently
+confirmed against the regulation text in this corpus).
 
 ## SoCal offshore mackerel flyline rig — straight fluoro, San Diego jam (Dave Hansen)
 
