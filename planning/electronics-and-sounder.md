@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE]
 confidence: high
 ---
 
@@ -139,6 +139,19 @@ So **4–5 mi is the working detection envelope** to expect from bird radar — 
 extends your glassing reach well past the ~2 mi you get from a hardtop (see
 [search and glassing](search-and-glassing.md)). Radar finds the pile; glassing
 confirms what the birds are doing.
+
+**Close-range zoom and marking dolphin schools without a visual** (StokedOnFishing,
+`SczdZIq3UmE`, 2019-10-02, offshore SoCal; Simrad-sponsored demo of a Halo
+24 radar unit — sponsor-heavy, **low** confidence on the product claim, the
+underlying mechanism/parameter around it **medium**): the presenter described
+being able to zoom the radar picture in to as close as **~200 ft**, versus
+roughly **1/8 mile** as the closest usable range he attributed to "traditional
+magnetron" radar, and said he had used the unit to run up on **dolphin
+schools marking on radar before spotting them visually** — relevant to closing
+on the traveling dolphin/porpoise pods that hold suspended
+[yellowfin tuna](../species/yellowfin-tuna.md). Not verified against other
+sources in this corpus; carried as a single sponsor-context data point, not a
+general radar-shopping recommendation.
 
 ## Radar for fog navigation (Cedros, Baja)
 

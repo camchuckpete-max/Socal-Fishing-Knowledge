@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE]
 confidence: high
 ---
 
@@ -133,6 +133,13 @@ the bluefin nearby become more cooperative too.**
 - No standing conflict — the corpus and Cameron agree on the water read; the only
   nuance is grade (private-boat bait budgets favor the scale-down/lure game over
   the sportboat's bottomless-chum approach).
+- **Observed** (StokedOnFishing, `SczdZIq3UmE`, 2019-10-02, offshore SoCal near
+  the 209 bank; unregistered channel — medium confidence): a private-boat trip
+  found white terns working over **72°F** water and boated yellowfin graded
+  **10–15 lb**, **~25 lb**, and **~20 lb** — a SoCal grade/water-temp data point
+  consistent with the fall-fragmentation window and the warmest-water pattern
+  above, distinct from the higher East Cape/Baja grades logged elsewhere in
+  this section.
 - **Observed** (StokedOnFishing, presenter Shay,
   2019-02-13, East Cape, Sea of Cortez, Baja California Sur — Hotel Buena
   Vista Beach Resort trip, `GptrotE0x5M`, "Non-Stop Tuna, Dorado, And Rooster

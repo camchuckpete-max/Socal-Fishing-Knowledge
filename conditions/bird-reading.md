@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [birds, terns, shearwaters, gulls, pelicans, cormorants, bird-radar, search]
-sources: [Blh2BA-7Ono, OYOda6T3f-8, HzE4FHHcvTk, yLpDI8jnizU, cameron]
+sources: [Blh2BA-7Ono, OYOda6T3f-8, HzE4FHHcvTk, yLpDI8jnizU, cameron, SczdZIq3UmE]
 confidence: high
 ---
 
@@ -29,6 +29,12 @@ underneath?"** Read *behavior*, not just presence.
   terns, and **offshore he'll follow terns around to find fish even with no other
   birds working.** His tern read is strong; he is actively building the same
   read for the other species below — which is where the corpus doctrine slots in.
+- **Observed** (StokedOnFishing, `SczdZIq3UmE`, 2019-10-02, offshore SoCal near
+  the 209 bank; unregistered channel — medium confidence): presenter tip to
+  anglers new to tuna fishing — look for the **white terns**, not pelicans and
+  not seagulls ("they do help but... it's the white terns"); water was **72°F**
+  that day. Matches the corpus/Cameron tern doctrine above; no new mechanism,
+  a corroborating on-the-water mention.
 
 ## Shearwaters — the gap Cameron's model wants filled
 
