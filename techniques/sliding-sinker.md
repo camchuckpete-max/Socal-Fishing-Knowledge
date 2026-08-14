@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4]
 confidence: medium
 ---
 
@@ -148,6 +148,18 @@ dropper loop:
   nose + mid-body hook — for small yellowtail or barracuda live bait, used
   when a sub-100 lb grouper is grabbing the tail rather than swallowing a
   whole bait.
+
+## Cedros yellowtail, egg-sinker weight (StokedOnFishing)
+
+**Observed** (StokedOnFishing, 2019-03-05, Cedros Island, Baja — `d0yGBQDeY_4`,
+"Big Yellowtail Part 1"; Cedros Outdoor Adventures charter, sponsor-heavy
+episode; unregistered channel — medium confidence): a **1/2 oz egg
+sliding-sinker (Carolina rig)** — called out on camera as "something
+different" from the rest of the boat's spread that morning — landed a
+yellowtail; a separate fish earlier in the same session was also taken on an
+unspecified-weight sliding-sinker rig. No leader length or hook size given.
+Single-mention data point, not established doctrine — see
+[yellowtail](../species/yellowtail.md) for the same trip's other detail.
 
 ## Fishing it — feed the bite
 

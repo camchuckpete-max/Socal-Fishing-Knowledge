@@ -441,6 +441,7 @@ present the outside stringers.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [California Barracuda](barracuda.md)
+- [California Halibut](california-halibut.md)
 - [Chunking](../techniques/chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Current Structure](../conditions/current-structure.md)

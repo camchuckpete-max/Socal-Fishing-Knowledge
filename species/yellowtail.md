@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4]
 confidence: high
 ---
 
@@ -255,6 +255,31 @@ typical-year mapping.
   speculated on camera, without confirming, that a grouper may have taken
   the hooked fish in the structure. Unregistered channel — medium
   confidence.
+  **Observed** (StokedOnFishing, 2019-03-05, Cedros Island, Baja —
+  `d0yGBQDeY_4`, "Big Yellowtail Part 1"; Cedros Outdoor Adventures charter,
+  sponsor-heavy episode — Simrad/Okuma/El Dorado Sportfishing spots;
+  unregistered channel — medium confidence): a morning livebait session
+  produced multiple yellowtail, including fish called on camera around
+  **35–40 lb** — consistent with the home-guard grade documented above.
+  (Separate, unrelated dock chatter before the trip also referenced another
+  party's **40-pounder** from a different outing — not part of this fishing
+  session.) Bait was fished on **circle hooks**. With sardines boiling in a
+  bait ball around the boat, one angler let a mackerel-baited line drift to
+  the **outside edge of the bait ball** rather than into the middle of it —
+  yellowtail holding around/under the ball keyed on the larger livebait over
+  the bait fish it was surrounded by. A fish was hooked on a **sliding-sinker
+  (Carolina) rig**; one angler then "tried something different" with a
+  **1/2 oz egg sliding sinker** specifically and landed a yellowtail on it —
+  see [sliding sinker](../techniques/sliding-sinker.md) for the rig detail.
+  That same stretch of garbled narration also describes a yellowtail already
+  boated and being bled out over the rail that was grabbed by a sea lion
+  (called "the Lobo" on camera) and pulled back into the water — "you took
+  it right out of his hand," per the crew's own call on camera. The
+  captioning doesn't clearly establish whether this is the egg-sinker fish
+  just above or a distinct catch — see [fighting a big bluefin — sea lion
+  depredation at the
+  boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species)
+  for this and the other depredation instances logged there.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4]
 confidence: high
 ---
 
@@ -139,6 +139,21 @@ So **4–5 mi is the working detection envelope** to expect from bird radar — 
 extends your glassing reach well past the ~2 mi you get from a hardtop (see
 [search and glassing](search-and-glassing.md)). Radar finds the pile; glassing
 confirms what the birds are doing.
+
+## Radar for fog navigation (Cedros, Baja)
+
+**Observed** (StokedOnFishing, 2019-03-05, Cedros Island, Baja —
+`d0yGBQDeY_4`, "Big Yellowtail Part 1"; unregistered channel, sponsor-heavy
+Simrad-sponsored episode — medium confidence; region: Baja, Cedros Island): a
+Cedros-based captain described running the island's yellowtail grounds in
+fog **5–6 months out of the year**, in **zero-visibility** conditions —
+navigating out to the grounds and back on radar alone, with the sounder/sonar
+doing the separate job of locating fish once there ("I'm gonna live or die by
+my radar, I'm gonna make a living by my sonar," on camera). The specific
+running-distance figure and launch-point name given on camera are
+ASR-uncertain and not carried here — see the extraction log. Logged as a
+Baja-specific operational fact about running in fog, distinct from the bird-
+radar method above; not a general SoCal claim.
 
 ## Sounder settings for the DSL
 

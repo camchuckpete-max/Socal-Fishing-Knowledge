@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4]
 confidence: medium
 ---
 
@@ -101,6 +101,19 @@ gamefish a sea lion is stealing boatside, not just bluefin.
   counter-move is described in this instance. Kept beside, not reconciled
   with, the landed outcome above. The crew moved off the spot afterward
   despite the yellowtail bite still being active, citing the seal.
+- **Observed** (StokedOnFishing, 2019-03-05, Cedros Island, Baja —
+  `d0yGBQDeY_4`, "Big Yellowtail Part 1"; unregistered channel — medium
+  confidence): a distinct-stage variant — depredation risk didn't end when
+  the fish came over the rail. A yellowtail had already been boated and was
+  being bled out over the rail when a sea lion (called "the Lobo" on camera)
+  surfaced, grabbed it, and pulled it back into the water — "you took it
+  right out of his hand," per the crew's own call on camera (00:21:45).
+  No free-spool counter-move applies once a fish is off the line and being
+  bled; logged here as the same predator/boat dynamic extending past the
+  landing, not as a new counter-move. (The garbled narration immediately
+  preceding this — "the Lobo just grabbed the whole entire thing," at
+  00:21:13 — may describe this same fish rather than a distinct instance;
+  see the sliding-sinker cross-reference in the yellowtail entry.)
 
 ## Common failures
 
