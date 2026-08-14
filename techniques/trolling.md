@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM]
 confidence: high
 ---
 
@@ -251,6 +251,24 @@ with no anchor note in this corpus; logged here only as a presence/technique
 data point, not carried to a species destination. No leader, line class, or
 troll-speed parameters given in the captions.
 
+**Observed** (StokedOnFishing, 2020-04-08 upload, Buena Vista Beach Resort,
+East Cape, Baja California Sur — `APsnsunT4gM`, "Hot Bite in Baja | Stoked
+On Fishing Full Episode," 5th annual "Fiesta" trip — same annual event as
+the `tcso7Lpm_Xs` entry above, roughly two years later; unregistered
+channel, sponsor-heavy Okuma promo — medium confidence): the first day's
+offshore troll produced "solid grade A" yellowfin tuna (no weight given)
+plus wahoo, including one angler's personal-best wahoo taken on a **circle
+hook**, described on camera as the first wahoo of the season for the
+resort's fleet (**asr-uncertain** — the surrounding phrase is heavily
+garbled in the auto captions and not confidently resolved beyond this). A
+marlin bite produced one fish boated and a second that **spooled** the
+angler (stripped all the line); species/grade was not given, so this is not
+logged as a confirmed marlin count beyond "one to the boat." No leader,
+lure, or troll-speed detail given in the captions. The trip's separate
+inshore rip-bait/rooster day is logged at the
+[dorado](../species/dorado.md) and
+[jack crevalle](../species/pacific-crevalle-jack.md) East Cape 2020 entries.
+
 ## Common failures
 
 - **Straight-lining away** from sign you just marked (sweep instead).
@@ -278,6 +296,7 @@ troll-speed parameters given in the captions.
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Mad Mac](../lures/mad-mac.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

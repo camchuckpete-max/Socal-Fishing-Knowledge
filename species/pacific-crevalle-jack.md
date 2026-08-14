@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [pacific-crevalle-jack, toro, baja, warm-water, inshore, structure]
-sources: [cameron, mL4Ph7t0WcQ, 84XPJAeH0Rw]
+sources: [cameron, mL4Ph7t0WcQ, 84XPJAeH0Rw, APsnsunT4gM]
 confidence: low
 ---
 
@@ -91,6 +91,19 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
   clearly resolve whether that figure refers to the jack or to one of the
   tuna in the same recap, so it is not carried here as a jack crevalle
   weight specifically.
+- **Observed** (StokedOnFishing, 2020-04-08 upload, East Cape, Baja
+  California Sur — Hotel Buena Vista Beach Resort trip, `APsnsunT4gM`, "Hot
+  Bite in Baja," 5th annual "Fiesta" trip — same resort/event as the
+  `mL4Ph7t0WcQ` and `84XPJAeH0Rw` entries above): ahead of an inshore
+  sardine-gathering session, the crew stated a plan to fish "roosters, some
+  jacks, some snappers, everything, at the lighthouse" — naming jack crevalle
+  as a hoped-for catch at that rocky structure. The video's actual on-camera
+  catch (a beach-caught dorado, then a separate rip-bait rock session
+  targeting "whatever shows up," and the trip's closing recap) names marlin,
+  tuna, snappers/pargo, and roosterfish, but **does not confirm a jack
+  crevalle was ever landed** — so this is logged only as a **named-target,
+  not a confirmed catch**, weaker than the two presence data points above.
+  Unregistered channel, sponsor-heavy video (Okuma) — medium confidence.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -105,6 +118,7 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

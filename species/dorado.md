@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM]
 confidence: high
 ---
 
@@ -122,6 +122,25 @@ tactic on camera as keeping the hooked fish "in the water" to hold the
 school and draw followers before landing the first fish — a school-holding
 tactic distinct from (and not merged into) the picky/circling-dorado
 leader-stepdown row above. Unregistered channel — medium confidence.
+
+**Observed (Baja, region label)** (StokedOnFishing, 2020-04-08 upload,
+Buena Vista Beach Resort, East Cape, Baja California Sur — `APsnsunT4gM`,
+"Hot Bite in Baja | Stoked On Fishing," 5th annual "Fiesta" trip — same
+annual event as the `tcso7Lpm_Xs` entry above, roughly two years later): on
+a day dedicated to gathering bait because the offshore bait supply had "been
+kind of poor lately," a **~20 lb dorado** hit a live sardine fished only
+**~100 yards off the beach in ~30 ft of water** — a shallow, inshore
+beach-caught dorado, distinct from the offshore-paddy program documented
+above. Gear: 50 lb braid/spectra main line, 30 lb fluorocarbon top shot, a
+**#2 circle hook** (sized for the sardine, chosen "in case we get any
+roosters"), an Okuma Tesoro 10-size reel, and a 7'6" PCH heavy rod (brand not
+stated on camera).
+**Conflict, not reconciled:** a circle hook connecting on this dorado sits
+beside the J-hook-only paddy doctrine above (Ali Hussainy, E4vKwRaRueA) —
+logged as a different context (inshore beach sardine soak vs. offshore
+paddy program), not treated as a contradiction of the paddy-specific
+doctrine. Unregistered channel, sponsor-heavy video (Okuma) — medium
+confidence on the technique/parameters, low on any brand endorsement.
 
 ## Gear summary (class terms)
 

@@ -1001,7 +1001,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | wJgoRhZStz0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon/Brazil peacock bass, freshwater |
 | xudAbDj4GYw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Coiba Is. inshore/offshore |
 | CdJ-ISFv8BI | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama offshore tuna/dorado/marlin |
-| APsnsunT4gM | StokedOnFishing | on-the-water | observations-only | pending | East Cape Baja, Buena Vista Resort 5th annual Fiesta; catch montage, sponsor-heavy |
+| APsnsunT4gM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/pacific-crevalle-jack.md; techniques/trolling.md / added inshore beach-dorado, offshore troll (tuna/wahoo/marlin), and jack-crevalle-named-target Observed entries for East C |
 | SImABCBBxAo | StokedOnFishing | on-the-water | parameter-skim | pending | SoCal spotted bay bass; color-to-overcast, depth 18-30ft, bait-profile matching tips |
 | LE49ush9zqA | StokedOnFishing | on-the-water | skip:thin-generic | skipped | No location/conditions given; pure catch montage of double yellowtail hookups |
 | isXJONlpUP4 | StokedOnFishing | on-the-water | parameter-skim | pending | Magdalena Bay Baja inshore; wind/chop decision to switch offshore marlin plan to estuary mangroves |
