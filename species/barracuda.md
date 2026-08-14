@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [barracuda, nearshore, pelagic, kelp-line, mixed-bag, surface-iron, baja]
-sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE]
+sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE, CKq0Z6ExVs4]
 confidence: medium
 ---
 
@@ -40,6 +40,16 @@ dedicated program.
   trip's mixed-bag species alongside calico bass, yellowtail, sand bass, and
   bonito (see the [calico bass](calico-bass.md) La Bocana entry). Unregistered
   channel — medium confidence.
+- **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2017-11-25
+  upload, a high spot roughly **7–8 mi** from the Hotel Coral marina,
+  Ensenada, Baja California — `CKq0Z6ExVs4`, "Navico Weekend Getaway";
+  unregistered channel — medium confidence): barracuda was named on camera,
+  alongside bottomfish and yellowtail, as one of the species the crew
+  expected from this high spot (described as coming up to about **25 ft
+  from roughly 200 ft** — see the [rockfish & lingcod](rockfish-lingcod.md)
+  Ensenada entry for the bottomfish actually landed there); no barracuda was
+  shown caught in this footage, so this is a named-target data point, not a
+  confirmed catch.
 
 ## Finding them (sign & sonar)
 
@@ -98,9 +108,11 @@ dedicated program.
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
+- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

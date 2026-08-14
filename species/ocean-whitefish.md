@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [ocean-whitefish, tilefish, channel-islands, hard-bottom, bottomfish, variety]
-sources: [6-8KfjEg0x8, O5aQkex0qGg, Y1xeieQI3B4]
+tags: [ocean-whitefish, tilefish, channel-islands, hard-bottom, bottomfish, variety, baja, ensenada]
+sources: [6-8KfjEg0x8, O5aQkex0qGg, Y1xeieQI3B4, CKq0Z6ExVs4]
 confidence: medium
 ---
 
@@ -91,6 +91,16 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
   Islands source above — an **offshore bank**, not an island — consistent
   with the doctrine that whitefish share hard-bottom high spots with the
   rockfish/lingcod complex; no depth or exact grade given on camera.
+- **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2017-11-25
+  upload, a high spot roughly **7–8 mi** from the Hotel Coral marina,
+  Ensenada, Baja California — `CKq0Z6ExVs4`, "Navico Weekend Getaway";
+  unregistered channel — medium confidence): a whitefish was the first fish
+  of the day at a high spot the crew described as coming up to about
+  **25 ft from roughly 200 ft** — see the [rockfish &
+  lingcod](../species/rockfish-lingcod.md) Ensenada entry for the rest of
+  the mixed bottomfish bag from the same stop. A further Baja region for
+  this note, beyond the Channel Islands and Cortez Bank sources above; no
+  additional detail given on camera.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -105,5 +115,6 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Yellowtail](yellowtail.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

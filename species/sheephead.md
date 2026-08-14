@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [sheephead, structure, artificial-reef, chum, bottomfish, socal, beginner-friendly]
-sources: [OSbAHdB4uPs, eL1Qm33-Mj0]
+tags: [sheephead, structure, artificial-reef, chum, bottomfish, socal, beginner-friendly, baja, ensenada]
+sources: [OSbAHdB4uPs, eL1Qm33-Mj0, CKq0Z6ExVs4]
 confidence: medium
 ---
 
@@ -42,6 +42,17 @@ Saltwater Guide, OSbAHdB4uPs, 2021-01-12).
   data point that sheephead can show up as bycatch even on an offshore
   high-spot pelagic trip, not only the inshore artificial-reef/chum program
   this note otherwise documents.
+- **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2017-11-25
+  upload, a high spot roughly **7–8 mi** from the Hotel Coral marina,
+  Ensenada, Baja California — `CKq0Z6ExVs4`, "Navico Weekend Getaway";
+  unregistered channel — medium confidence): a sheephead came off the same
+  mixed bottomfish high spot logged in the [rockfish &
+  lingcod](rockfish-lingcod.md) and [ocean whitefish](ocean-whitefish.md)
+  Ensenada entries (spot described on camera as coming up to about **25 ft
+  from roughly 200 ft**); a crew member noted on camera that the fish was a
+  **female**, confirming rather than disputing the species call. A further
+  Baja bycatch data point alongside the Cortez Bank entry above, this time
+  from an inshore-style bottom stop.
 
 ## Finding them (sign & sonar)
 
@@ -107,7 +118,9 @@ glassing](../planning/search-and-glassing.md),
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ocean Whitefish](ocean-whitefish.md)
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
+- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Yellowtail](yellowtail.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

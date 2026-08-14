@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4]
 confidence: high
 ---
 
@@ -134,6 +134,25 @@ the *bottom*, not the fish.
   season/regs note above — California rockfish regs do not apply in Mexican
   waters in any case; verify current Mexican/Baja regs separately before
   fishing there).
+- **Observed** (StokedOnFishing, 2017-11-25 upload, a high spot roughly
+  **7–8 mi** from the Hotel Coral marina, Ensenada, Baja California —
+  `CKq0Z6ExVs4`, "Navico Weekend Getaway," footage from the same annual
+  Navico supplier-conference trip out of Hotel Coral as the `0bcDBGzQnGw`
+  entry above (different year — this video predates that one); unregistered
+  channel — medium confidence; region: Baja, Ensenada): the spot was
+  described on camera as coming up to about **25 ft from roughly 200 ft**.
+  Working it on the drift, the captain repositioned mid-session after the
+  boat's drift direction reversed from what the first pass had shown,
+  resetting up-drift of the structure "to have a good window to... drop
+  down" onto it again — a live example of correcting for a drift reversal on
+  a bottom-structure spot rather than working it blind. The stop produced
+  multiple **lingcod** (handled carefully for their teeth) and a fish the
+  crew called a "**rock bass**," then nicknamed on camera as a "**tree
+  fish**" — a new nickname data point for this note, not previously logged
+  here (compare the bocaccio/"salmon grouper" nickname above). Whitefish,
+  sheephead, and yellowtail catches from the same stop are logged in
+  [ocean whitefish](ocean-whitefish.md), [California
+  sheephead](sheephead.md), and [yellowtail](yellowtail.md#where--when).
 - **Observed** (StokedOnFishing, `Y1xeieQI3B4`, 2025-05-10, Cortez Bank aboard
   the 85 ft *El Dorado* — unregistered channel, medium confidence): on day two
   of a 2.5-day trip, once the crew had boxed limits of bluefin tuna ("limits
@@ -186,6 +205,8 @@ the *bottom*, not the fish.
 ## Linked from
 
 - [Bluefin Tuna](bluefin-tuna.md)
+- [California Barracuda](barracuda.md)
+- [California Sheephead](sheephead.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

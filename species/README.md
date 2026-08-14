@@ -52,9 +52,13 @@ graph LR
   n17["White Seabass"]
   n18["Yellowfin Tuna"]
   n19["Yellowtail"]
+  n0 --> n10
+  n0 --> n19
   n0 --> n3
   n0 --> n4
   n1 --> n2
+  n10 --> n0
+  n10 --> n12
   n10 --> n18
   n10 --> n19
   n10 --> n2
@@ -62,6 +66,8 @@ graph LR
   n10 --> n8
   n11 --> n14
   n11 --> n4
+  n12 --> n10
+  n12 --> n19
   n12 --> n2
   n12 --> n8
   n12 --> n9
@@ -79,13 +85,16 @@ graph LR
   n18 --> n15
   n18 --> n7
   n18 --> n9
+  n19 --> n0
   n19 --> n10
+  n19 --> n12
   n19 --> n17
   n19 --> n2
   n19 --> n3
   n19 --> n4
   n19 --> n5
   n19 --> n7
+  n19 --> n8
   n2 --> n1
   n2 --> n10
   n2 --> n12
@@ -112,6 +121,7 @@ graph LR
   n7 --> n5
   n8 --> n10
   n8 --> n12
+  n8 --> n19
   n9 --> n12
   n9 --> n18
 ```

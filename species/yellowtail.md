@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4]
 confidence: high
 ---
 
@@ -357,6 +357,20 @@ typical-year mapping.
   whether "Fabio style" describes Chris's fish or a different angler's. No
   weights given. See [gear classes](../tackle/gear-classes.md) for the
   bass/calico-class rod this pairs with.
+  **Observed** (StokedOnFishing, 2017-11-25 upload, a high spot roughly
+  **7–8 mi** from the Hotel Coral marina, Ensenada, Baja California —
+  `CKq0Z6ExVs4`, "Navico Weekend Getaway," footage from the same annual
+  Navico supplier-conference trip out of Hotel Coral as the `0bcDBGzQnGw`
+  entry above (different year — this video predates that one); unregistered
+  channel — medium confidence; region: Baja, Ensenada): fishing a high spot
+  described on camera as coming up to about **25 ft from roughly 200 ft**
+  (mixed-bottomfish detail from the same stop logged in the [rockfish &
+  lingcod](rockfish-lingcod.md), [ocean whitefish](ocean-whitefish.md), and
+  [California sheephead](sheephead.md#where--when) Ensenada entries), the
+  crew landed at least one yellowtail — called a "nice yellow" and "a bigger
+  one" on camera — on **20 lb** line; no weight given. Yellowtail and
+  barracuda were also named on camera as expected species for this spot —
+  see the [barracuda](barracuda.md#where--when) Ensenada entry.
   **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur, Pacific side ("half way down the Baja Peninsula") — `qri15R3caYE`,
   "Stoked On La Bocana," part 1): fishing rock structure a few miles from a
@@ -938,7 +952,9 @@ water temp and bait depth before committing the day to one face.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [California Barracuda](barracuda.md)
 - [California Halibut](california-halibut.md)
+- [California Sheephead](sheephead.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
@@ -961,6 +977,7 @@ water temp and bait depth before committing the day to one face.
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Making Bait](../bait/making-bait.md)
 - [May](../seasonal/may.md)
+- [Ocean Whitefish](ocean-whitefish.md)
 - [Pacific Bonito](bonito.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
