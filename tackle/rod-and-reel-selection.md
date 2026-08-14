@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE]
 confidence: medium
 ---
 
@@ -350,6 +350,22 @@ iron in mint color**, worked both near and far around the rocky points/edges
 confidence; region: Baja, Sea of Cortez, Gonzaga Bay). Structure fished this
 way produced wolf-pack grouper as well as cabrilla, described by the crew as
 behaving "just like calicoes."
+
+### Calico bass grub/weedless casting gear, tournament angler (StokedOnFishing, `tJFSV3AcIdE`)
+
+**Rod:** an Okuma Citrix, extra-heavy power (captions render the length/model as
+"7-eleven" — exact model designation ASR-uncertain), described on camera as
+having enough backbone to horse a fish out of cover the instant it bites while
+staying soft enough on the tip to let the fish work on the way to the boat.
+**Reel:** paired with a 350-size reel (captions render the model name
+"Comodo" — plausibly the Okuma Cavado 350 given the rod brand, but
+ASR-uncertain), picked for long casts to reach cover the boat couldn't get
+close to. **Line:** 60 lb braid mainline to a 40 lb fluorocarbon top shot,
+described as run "on almost everything for calico." Fished casting a
+soft-plastic grub at kelp/structure edges, San Clemente Island, 2016 SWBA
+California Offshore Challenge tournament, day two. Consistent with the
+40–65 lb fluoro-leader range already documented for calico kelp fishing
+above. Unregistered channel, single mention — medium confidence.
 
 ## Inshore baitcast — three sizes (Academy Ep15, ONH1K2MOp7Q)
 

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE]
 confidence: high
 ---
 
@@ -259,6 +259,14 @@ you read the *current across the kelp*, not the tide clock.
   breeze/surface-texture observation from the same session. Benny Florentino
   is a registered voice; the canopy-holding mechanism is a single mention on
   this specific point — medium confidence.
+- **Observed** (StokedOnFishing, 2016, San Clemente Island — `tJFSV3AcIdE`,
+  "Throwback to the Superbowl of Calico Bass Fishing Part 2," SWBA California
+  Offshore Challenge tournament, day two): anglers on camera reported most
+  fish caught that day sitting right on the front/leading, up-current edge of
+  the kelp they were working, with bites reportedly falling off once past
+  that edge (ASR-uncertain past that point). Consistent with, not a new data
+  point beyond, the up-current/leading-edge doctrine documented above.
+  Unregistered channel — medium confidence.
 
 ## Situations → techniques
 

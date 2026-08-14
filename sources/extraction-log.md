@@ -995,7 +995,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 6j7V34GYzzw | StokedOnFishing | on-the-water | observations-only | done | techniques/trolling.md / on-the-water observations (East Cape panga rooster session + unconfirmed offshore gamefish fight) merged into trolling.md; speculative striped-marlin identification rejected a |
 | ecJPMTCi-gw | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/yo-yo-iron.md / on-the-water/parameter-skim Observed additions (seal-worked drift, surface-iron/yo-yo alternation, unexplained yo-yo downsize bite, ASR-uncertain 'tat |
 | CuK0_9v1F_o | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) halibut fishing |
-| tJFSV3AcIdE | StokedOnFishing | on-the-water | parameter-skim | pending | Catalina/San Clemente Is. calico tournament pt2 (2016 throwback); gear specs, kelp-paddy edge position, culling |
+| tJFSV3AcIdE | StokedOnFishing | on-the-water | parameter-skim | done | species/calico-bass.md; tackle/rod-and-reel-selection.md; techniques/swimbaits.md / on-the-water/parameter-skim extraction: leading-edge kelp observation, calico grub/casting gear specs, and a followe |
 | 7aF6uWVw76g | StokedOnFishing | on-the-water | single-pull | pending | Region unconfirmed (low confidence); single fact: 40lb leader landed striped marlin on baitcaster |
 | 9D3Oiy0ASzg | StokedOnFishing | on-the-water | single-pull | pending | San Benito Is. Baja; sparse, one note: braid cuts through kelp then rock cutoff risk on yellowtail |
 | wJgoRhZStz0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon/Brazil peacock bass, freshwater |

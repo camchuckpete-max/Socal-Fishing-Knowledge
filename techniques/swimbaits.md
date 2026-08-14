@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE]
 confidence: high
 ---
 
@@ -287,6 +287,17 @@ eaten and lifts the catch rate.
 - Nick runs **40 lb Seaguar Blue Label** leader on a Tranx 300 with **65 lb
   PowerPro** and an 8-ft heavy rod — heavier gear, fished **up high in the kelp**
   in warm summer water when the fish are chasing bait.
+
+**Observed** (StokedOnFishing, 2016, San Clemente Island — `tJFSV3AcIdE`, SWBA
+California Offshore Challenge tournament, day two): a hooked
+three-to-four-pound calico drew followers on the way up, and a second angler
+pitched a bait right next to the still-hooked fish — an immediate bite from a
+follower. The originally hooked
+(bigger) fish then spit the hook and the smaller follower was landed instead,
+narrated on camera as a "50/50 decision": leaving a hooked fish in the water
+longer to draw more followers risks losing it before it's netted. Illustrates
+the followers-as-opportunity logic behind the double-swimbait rig above, and
+its downside. Unregistered channel — medium confidence.
 
 ## Umbrella rig setup, bay bass, Roman Castro
 
