@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s]
 confidence: medium
 ---
 
@@ -123,6 +123,17 @@ important"), and called bait selection the deciding factor: pick a bait with
 **scales intact, good color, and slime** rather than the first one grabbed —
 consistent with, not a new mechanism beyond, the bait-selection doctrine in
 [fishing live bait](../bait/fishing-live-bait.md).
+
+**Observed** (StokedOnFishing, 2022-12-07 upload, front side of San Clemente
+Island, SoCal — `nsUdT-zXI8s`, veterans-charity overnight trip aboard the El
+Dorado; unregistered channel — medium confidence): the day's live sardines
+were called "perfectly the size for" roughly a **2/0–3/0 hook** (captions
+render "two watt three odd hook" — ASR-uncertain, read as 2/0–3/0 per the
+same aught-sizing corruption already logged elsewhere in this note), fished
+on **30 lb test** line as the crew's standard, with some anglers going
+heavier and some lighter "depending on their preference" — consistent
+with, not new beyond, the 30 lb/~3/0 sardine-flyline pairing already logged
+above for this same island (`V_ONnegk95M`).
 
 ## Match line weight to the bait, not just to the target fish
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s]
 confidence: medium
 ---
 
@@ -270,6 +270,17 @@ gamefish a sea lion is stealing boatside, not just bluefin.
   catching fish, too") and grabbed through the gut before it reached the
   boat — fish lost. No free-spool/slack counter-move is described in this
   instance.
+- **Observed** (StokedOnFishing, 2022-12-07 upload, front side of San
+  Clemente Island, SoCal — `nsUdT-zXI8s`, veterans-charity overnight trip
+  aboard the El Dorado; unregistered channel — medium confidence): a
+  **conflicting counter-move**, kept side by side rather than reconciled
+  with the free-spool/slack trick above. With a sea lion working a hooked
+  yellowtail at the boat, the crew's live, mid-fight coaching was the
+  opposite of giving slack: **keep enough pressure on the fish to make the
+  sea lion drop it**, and if it drops the fish, wind fast to get it back
+  before the sea lion returns. Outcome in this instance: the sea lion won —
+  the yellowtail was lost, leaving the boat "in the negative" on
+  catch-to-hook ratio that morning.
 
 ## Mola mola (sunfish) interference and a tail-wrapped fish broken off at the boat
 
