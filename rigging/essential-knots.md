@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4]
 confidence: medium
 ---
 
@@ -118,6 +118,24 @@ fluoro leader, braid main line — and feed the terminal rigs in
   unlinked video): presenter recounts landing an estimated triple-digit
   (100 lb+) bluefin on 65 lb braid to 80 lb fluoro tied with this knot,
   locked drag, no knot failure (YGLFn8lPMu0).
+  **Full-name + tag-length corroboration (StokedOnFishing, `AT6zmDYxjW4`,
+  2020-05-06; unregistered channel — `medium` confidence):** a separate,
+  short StokedOnFishing clip (presenter John, at a tackle shop) names this
+  knot in full as the **"Royal Polaris knot"** — also called the "R-P knot"
+  (the **RP** name used throughout this note) and the **"Roy Rose knot."**
+  Mechanic matches the entry above: form a loop in the fluoro/mono, bring
+  the braid up through it with about **12 in** of tag, wrap the braid **6
+  times** down the standing fluoro, then wrap back **6 times** toward the
+  loop and exit the same direction it entered — a second, independent
+  corroboration of the 6-and-6 wrap count and same-direction exit already
+  logged above. Also corroborates the extra-security pass: at the critical
+  exit point he passes the tag through **twice** ("I go once and then I go
+  another time to give it a lock") before cinching, matching the "pass the
+  braid tag back through the exit loop one more time first" option already
+  noted. To seat: pull the tag end and the fluoro/mono main line together
+  tight first, then release the tag and pull the two main lines to finish
+  the cinch. No SoCal-specific parameters (line class, species) given in
+  this clip.
 - **Uni-to-uni:** lay the two lines parallel, tie a uni on each — a loop with
   **6 wraps** around both strands — cinch each into a neat stack of coils, then
   draw the two knots together until they jam. Works braid-to-braid and
@@ -335,7 +353,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
 [Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
 [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
-and [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE).
+[uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
+and [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4).
 
 <!-- backlinks:start -->
 ## Linked from

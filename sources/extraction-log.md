@@ -927,7 +927,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | tzeXXPAjqUY | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: added third StokedOnFishing mono-to-fluoro tie explicitly named 'Seaguar knot', flagged as mechanically distinct from already-logged Cesar-sourced Seaguar knot (conflict ke |
 | 1BH7nQdIg5Q | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: added second independent San Diego jam corroboration (15in tag length, 6-wrap count); extraction-log row updated to done |
 | NkjjDf6XPcE | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: uni-to-uni wrap-count variant (3-4 turns) + mono-to-fluoro application added, medium confidence |
-| AT6zmDYxjW4 | StokedOnFishing | tutorial | parameter-skim | pending | Royal Polaris (Roy Rose) braid-to-mono knot tie, generic |
+| AT6zmDYxjW4 | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: RP knot corroboration added (naming variants, 12in tag length, 6-up/6-down wrap count, double-pass cinch) |
 | NLDKbLw2q-E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Lake Cachuma freshwater bass camping trip; series: Lake Cachuma part 2 |
 | _0xZV0PojhE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Lake Cachuma freshwater bass camping trip; series: Lake Cachuma part 1 |
 | Y2bXn44lfqo | StokedOnFishing | on-the-water | parameter-skim | pending | Catalina SoCal white seabass MLPA/broodstock, anchoring, dropper-loop rig; series: WSB Conservation part 1 |
