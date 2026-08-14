@@ -190,6 +190,7 @@ and cedar plugs for mixed grade. The full table by wind/grade/water lives in
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ikejime (Iki-Jime)](../fish-care/ikejime.md)

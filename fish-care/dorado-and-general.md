@@ -16,6 +16,8 @@ transcribed.
 
 ## Dorado specifics
 
+- **Gaffing:** dorado fall in the **3-in hook, ~6-ft gaff** class (fish up to
+  40–50 lb) — see [gaffing](gaffing.md) for sizing, the shot, and safety.
 - **No bleed.** Unlike tuna, dorado are not bled. Get them cold instead.
 - **Ice immediately.** Put the fish on ice as soon as it is aboard — dorado
   quality drops fast if it sits warm.
@@ -49,5 +51,6 @@ These apply whether or not the species gets bled:
 ## Linked from
 
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Gaffing — Sizing and the Shot](gaffing.md)
 - [Tuna Care](tuna-care.md)
 <!-- backlinks:end -->

@@ -110,6 +110,7 @@ row above as the go-to when fish are already active on the paddy.
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flyline](../techniques/flyline.md)
+- [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)

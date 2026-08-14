@@ -25,6 +25,11 @@ walkthrough for gaffing a bluefin from a boat:
 - **Control the fish** before and during the shot: gaff on a committed pass with
   the fish's head coming toward you, not on a wild swing, so the gaff sets where
   you intend and the fish comes over the rail under control.
+- **Gaff sizing, the pec/flip-upside-down shot, hook orientation ("don't dig a
+  hole"), and gaff safety** are covered in full in [gaffing](gaffing.md)
+  (I84uoay_jwQ) — a second, more specific attributed source on the shot itself,
+  kept side by side with the head/shoulder guidance above rather than merged
+  into it.
 
 ## 2. Bleed and gill-and-gut on the water
 
@@ -84,5 +89,6 @@ mass. Hold it in the cold at least this long before you consider it done:
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
+- [Gaffing — Sizing and the Shot](gaffing.md)
 - [Ikejime (Iki-Jime)](ikejime.md)
 <!-- backlinks:end -->

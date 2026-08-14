@@ -84,7 +84,9 @@ conditions that put one there.** (General search method:
 
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head
-breaking the surface is when they go zero-to-100 and throw the hook.
+breaking the surface is when they go zero-to-100 and throw the hook. For the
+gaff shot itself — hook size (a **3-in hook on a ~6-ft gaff** covers halibut up
+to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.md).
 
 ## Gear summary (class terms)
 
@@ -120,6 +122,7 @@ breaking the surface is when they go zero-to-100 and throw the hook.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Island Structure](../locations/island-structure.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
