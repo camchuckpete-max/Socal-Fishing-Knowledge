@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts]
 confidence: high
 ---
 
@@ -84,7 +84,7 @@ Once you've found the water, where you drop the hook depends on what you're afte
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
 
-## Ground tackle and the pinpoint drop (Dave Hansen, Your Saltwater Guide, OpA0OqRgj00, 2022-02-08; registered voice, single mention on this specific topic — medium confidence)
+## Ground tackle and the pinpoint drop (Dave Hansen, Your Saltwater Guide, OpA0OqRgj00, 2022-02-08, and HGyL7pXy3Ts, 2019-05-20; registered voice)
 
 Below the geometry above sits the physical rode and the drop itself:
 
@@ -95,7 +95,16 @@ Below the geometry above sits the physical rode and the drop itself:
   chain and rope... because it matters and it's important." He separately notes
   the chain segment itself is "the key" and that "you want the chain to lay
   flat on the bottom," but doesn't state a mechanism for why all-chain is
-  undesirable — only that seeing it is a tell for an inexperienced boat.
+  undesirable — only that seeing it is a tell for an inexperienced boat. **A
+  second, earlier data point confirms the chain-then-rope structure itself**
+  (not the "beginner tell" framing, which is only stated once): on a **65 ft
+  Hatteras** running **120 ft of chain** ahead of the rope, the anchor is
+  payed out to the chain/rope splice and stopped there before any rope goes
+  over (HGyL7pXy3Ts, 2019-05-20 — a different, earlier boat than the 65 ft
+  Viking cited below). Repeated across two dated Your Saltwater Guide videos:
+  **high** confidence on the core chain-and-rope rode structure; the anchor
+  weights, chain length, and "beginner tell" framing below remain
+  single-mention parameters at medium confidence.
 - **Size the anchor to the boat**, not to a fixed number — his own data points,
   preserved as given:
   - 21 ft Wellcraft → 12 lb anchor
@@ -116,6 +125,20 @@ Below the geometry above sits the physical rode and the drop itself:
   mark: pull up to the spot, release the free-spool, let it fall, then cinch
   the star back down to set once it's on bottom. Hansen states this is
   standard on every boat he drives.
+- **On a close-range rock, drop first and read the lay before you commit to a
+  re-set.** When the structure is small and close (a rock cresting a few feet
+  below the surface, spotted directly on the sounder rather than graded from a
+  distance), you may not know which way the boat will lay until the anchor is
+  down. Post a spotter at the bow to confirm the drop, pay the chain out to
+  the chain/rope splice and stop there, then let the boat settle and check the
+  lay against the structure. If it isn't sitting where you want, don't re-lift
+  — feed out **a bit more chain, then a bit more rope** to walk the boat into
+  position instead (Dave Hansen, Your Saltwater Guide, HGyL7pXy3Ts,
+  2019-05-20; registered voice, single mention on this specific procedure —
+  medium confidence). This is the close-range companion to the graded-pass
+  approach in [Anchoring geometry](#anchoring-geometry) above — both put a
+  bottom-fish spread directly over the structure, one by grading the mark
+  first, this one by dropping and correcting after.
 
 ## Inshore/kayak zone-and-spot search (bay / back-bay)
 

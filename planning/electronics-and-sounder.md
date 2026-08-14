@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron]
 confidence: high
 ---
 
@@ -29,7 +29,13 @@ because finding depth was always the machine's core job (Capt. Dave Hansen,
 Your Saltwater Guide, Rf1HKJG-SDg, 2020-12-15; the same fathometer/fathoms
 etymology is given, in briefer form, over a year earlier — 9hEa3sGTh40,
 2019-08-20 — registered voice, now repeated across two Your Saltwater Guide
-videos: **high** confidence on the core etymology). Practically, this is also why fish don't mark
+videos: **high** confidence on the core etymology). A third, earlier video
+adds a live worked example of the underlying fathoms-to-feet conversion
+rather than repeating the etymology story itself: running onto a close-range
+rock at Catalina, the meter reads **9 fathoms**, converted on the fly to
+**54 ft**, and the boat slides in to **48 ft** as it settles over a rock
+whose crest sits **~8 ft below the surface** (Dave Hansen, Your Saltwater
+Guide, HGyL7pXy3Ts, 2019-05-20). Practically, this is also why fish don't mark
 uniformly across a passing sounder — they concentrate on the **high spots**
 (banks, rocks, seamounts) described in
 [zone lexicon](../locations/zone-lexicon.md), not open flat bottom.
@@ -55,6 +61,13 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   registered voice, but a single mention of this specific method, so medium
   confidence on the method itself even though the broader
   hard-bottom/soft-bottom reading doctrine sits at high above.
+- **Backing down blanks the bottom return — that's aerated water, not a
+  machine fault.** Once you're stopped over a spot and back the boat down
+  (e.g. holding position while the anchor pays out), the sounder can lose the
+  bottom entirely — backing up puts air underneath the hull and the machine
+  won't mark the bottom while that's happening (Dave Hansen, Your Saltwater
+  Guide, HGyL7pXy3Ts, 2019-05-20; registered voice, single mention on this
+  specific point — medium confidence).
 - **Stop only on marks you can grade — it's a bait budget.** Every stop on a
   no-name mark burns bait and time. Idle on, grade the mark against what you know
   pays off, and only commit when it grades out. (The bait-shape rule — a solid
