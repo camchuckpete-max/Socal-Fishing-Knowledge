@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0]
 confidence: high
 ---
 
@@ -121,6 +121,20 @@ the reverse map in **Linked from** below.
   little tatty nine" (ASR-uncertain — possibly a Tady 9, not confirmed by
   name; consistent with the Tady→"Tatty" caption-corruption pattern already
   logged in this note).
+- **Bites on the drop AND on the wind-up; top/bottom stacking, a further data
+  point (Observed, StokedOnFishing, October 2024 trip, 2025-03-15 upload,
+  Cedros Island, Baja — `ILBl12Jm7-0`, "Epic Yellowtail Fishing — This
+  Season Is on Another Level"; unregistered channel — medium confidence):**
+  on a session where the boat worked yo-yo iron deep while nearby boats fished
+  surface iron on top, anglers called out hookups both **right on the drop**
+  and **on the wind-up**, not only on the fall — a further data point beside,
+  not a replacement for, this note's "strikes often come on the drop" doctrine
+  above (Hansen). One angler noted "everybody's going to come out and throw
+  those top irons and not know we're down on the bottom," directly
+  corroborating the top-iron/yo-yo-down stacking already logged in the
+  `ecJPMTCi-gw` entry above — a second, independent instance of two crews
+  working the same water column at different depths simultaneously. No jig
+  weight, color, or depth given.
 
 ## Gear-class detail
 

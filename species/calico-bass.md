@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0]
 confidence: high
 ---
 
@@ -240,6 +240,19 @@ you read the *current across the kelp*, not the tide clock.
   release most, "especially the big ones" — consistent with, not a new data
   point beyond, the Baja/Cedros voluntary catch-and-release ethic already
   logged below. Unregistered channel — medium confidence.
+- **Observed, part 2 of the same multi-part trip as the `6EDQtQHEwFE` entry in
+  [yellowtail](yellowtail.md)** (StokedOnFishing, October 2024 trip (per
+  on-camera reference), 2025-03-15 upload, Cedros Island, Baja —
+  `ILBl12Jm7-0`, "Epic Yellowtail Fishing — This Season Is on Another Level";
+  Cedros Outdoor Adventures charter; unregistered channel — medium
+  confidence): after a morning of run-and-gun surface-iron/yo-yo yellowtail
+  (logged in the [yellowtail](yellowtail.md) Cedros entry), midday wind
+  pushed the crew off that ground; they closed day two working a point near
+  the island (place-name in the audio too garbled to confirm — omitted) for
+  calico bass before running back to the mother ship, landing several solid
+  fish including two called out on camera as notably big/"fat," released
+  after photos. Consistent with, not a new data point beyond, the
+  fast/high-volume Cedros bite pattern already documented above.
 - **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur — Pacific side, described on camera as "just half way down the Baja
   Peninsula" — `qri15R3caYE`, "Stoked On La Bocana," part 1): a new-to-the-crew

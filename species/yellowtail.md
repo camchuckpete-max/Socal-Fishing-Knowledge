@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0]
 confidence: high
 ---
 
@@ -523,6 +523,28 @@ typical-year mapping.
   The session closed with a roughly **30-minute** blitz under gulls "going
   bonkers," including a triple hookup, after the crew had already called the
   day done.
+  **Observed, part 2 of the same multi-part trip (StokedOnFishing, October
+  2024 trip (per on-camera reference), 2025-03-15 upload, Cedros Island,
+  Baja — `ILBl12Jm7-0`, "Epic Yellowtail Fishing — This Season Is on
+  Another Level"; Cedros Outdoor Adventures charter; unregistered channel —
+  medium confidence):** framed on camera as the crew's fifth consecutive
+  year making this same mid-October trip. Cooler-than-normal water around
+  the island held yellowfin tuna and dorado back until late in the month —
+  the same water-temperature framing already logged in the `6EDQtQHEwFE`
+  part-1 entry above, not a new mechanism. Day two opened running-and-gunning
+  between fresh boils, boats hooking up within minutes of a stop, with
+  visuals of a "mob of forktails" (a following/feeding pack of yellowtail)
+  called out as some of the most exciting fishing on the trip. Gear/casting
+  detail from this session (straight-braid fatigue vs mono/fluoro top shot,
+  a light "bass rod" alternate build, a casting-past-the-knot safety
+  incident, a new iron color) is logged in [surface
+  iron](../techniques/surface-iron.md); a bites-on-the-drop-and-on-the-wind-up
+  cadence note and a top-iron/bottom-yo-yo stacking data point are logged in
+  [yo-yo iron](../techniques/yo-yo-iron.md). By midday the **wind had picked
+  up significantly**, pushing the crew off the morning grounds; they closed
+  the day working a point near the island for calico bass before running
+  back to the mother ship — see the [calico bass](calico-bass.md) Cedros
+  entry for that leg.
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —

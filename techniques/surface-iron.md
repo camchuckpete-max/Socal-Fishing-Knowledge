@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0]
 confidence: high
 ---
 
@@ -241,6 +241,17 @@ point alongside, not merged into, the mint confidence-color read above (a
 different angler/trip, same mint pattern named, plus blue/white); still not
 generalized into doctrine. Unregistered channel — medium confidence.
 
+**Third Cedros data point — a color switch tried mid-trip (Observed,
+StokedOnFishing, October 2024 trip, 2025-03-15 upload, Cedros Island, Baja —
+`ILBl12Jm7-0`, "Epic Yellowtail Fishing — This Season Is on Another Level";
+unregistered channel — medium confidence):** one angler switched to a new
+**"minty brownish," chartreuse-leaning** color on a **Tady 45** (captioned
+"Tedy 45"/"T 45" — the known Tady→"Tatty"/"teddy" caption corruption in this
+corpus), described only as a change-up he was trying that day; no bite result
+on the new color shown on camera. Kept alongside, not merged into, the mint
+and blue/white Cedros data points above — still not generalized into
+doctrine.
+
 **Confidence-color data point, SoCal calico bass (Dave Hansen, Your Saltwater
 Guide, 3dVc-2rsYII, 2022-03-25; dave-hansen is a registered voice — high
 confidence):** a **Wounded Warrior**-pattern surface iron is his go-to for
@@ -369,6 +380,18 @@ for that lure class rather than for the classic surface-iron blank.
   of **100 lb mono** onto a reel post and hang the iron's hook there under
   tension — it won't rattle loose, and it pulls free clean when you want to cast,
   instead of hooking the spool or nicking your line.
+- **Light "bass rod" alternate build (Observed, StokedOnFishing, October 2024
+  trip, 2025-03-15 upload, Cedros Island, Baja — `ILBl12Jm7-0`, "Epic
+  Yellowtail Fishing — This Season Is on Another Level"; unregistered
+  channel — medium confidence):** one angler ran a light, spinning-style
+  **bass rod** with a fluoro leader on the surface iron for big-grade Cedros
+  yellowtail instead of the standard 9–10 ft jig-stick above, described as
+  "still quite violent" to fight on — a lighter-than-usual alternate build,
+  kept side by side with, not replacing, this note's jig-stick-class gear
+  above. Same session, straight-braid vs mono/fluoro top shot on the same
+  bite is logged in [line & leader](../tackle/line-and-leader.md), including
+  a casting-past-the-knot safety incident (a thumb cut) and a mono-broke-off-
+  in-kelp trade-off on larger-grade fish.
 
 ## Common failures
 

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0]
 confidence: medium
 ---
 
@@ -94,6 +94,32 @@ Mono's stretch and its habit of staying on the spool are the point:
 - **Internal line on spreader-bar / heavy troll setups** — mono's stretch belongs
   inside those rigs; see [rod & reel selection](rod-and-reel-selection.md) and the
   trolling lure notes.
+
+**Observed — physical toll of straight braid, plus a casting-past-the-knot
+safety incident (StokedOnFishing, October 2024 trip, 2025-03-15 upload,
+Cedros Island, Baja — `ILBl12Jm7-0`, "Epic Yellowtail Fishing — This Season
+Is on Another Level"; [surface iron](../techniques/surface-iron.md), Cedros
+big-grade yellowtail; unregistered channel — medium confidence):** in an
+on-camera tackle-tips exchange, one angler (Brian, per the on-camera
+introduction) advised against fishing **straight braid** on Cedros
+yellowtail — zero stretch means "you feel every single ounce" of the fight,
+enough to leave the angler sore the next morning (pack anti-inflammatories) —
+a physical-fatigue argument for a mono/fluoro top shot's stretch, alongside
+this note's hookset-forgiveness framing above. The same exchange covered a
+**mono/fluoro mix** run on a surface iron for the extra stretch and casting
+distance, at a stated cost: **broken off in kelp a couple of times** by
+larger-grade fish on that same trip, plus a **casting-past-the-knot**
+mishap — casting a surface iron with a mono top shot past the mono-to-fluoro
+knot connection and taking "a pretty good slice in the thumb" as the knot
+ran through the caster's hand. (The exchange is multi-person and undiarized
+in the captions; beyond Brian's named tip, whether the mono/fluoro and
+knot-slice testimony belongs to Brian continuing or to another angler in the
+conversation isn't clear from the transcript — not asserted as independent
+corroboration by a separate angler.) Either way, the stated fix is to run a
+single material (all mono, all fluoro, or all braid) within casting range,
+or otherwise make sure the knot never reaches the guides/thumb on a full
+cast — the same knot-clearing-the-spool mechanism as the backlash/snapped-
+leader failure mode above, here producing a cutting injury instead.
 
 **Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
 `PKf7G3uL4io`, Santa Barbara Island tournament calico fishing, event ~early
