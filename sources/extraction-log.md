@@ -870,7 +870,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | e5qGRAzwEWQ | Your Saltwater Guide | promo | skip:promo | skipped | Subscription pitch for yoursaltwaterguide.com throughout; no standalone technique content |
 | BdRX4b8Fo5w | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md; bait/fishing-live-bait.md; techniques/chunking.md: Added bait tank placement/shape, bait-changing cadence claim (medium confidence), and generalized prey-density mechanism beyond a |
 | dgauGbNxP84 | Your Saltwater Guide | on-the-water | parameter-skim | done | conditions/current-diagnostics.md; species/skipjack-tuna.md; techniques/trolling.md: Added Observed current-break visual-ID and troll-it-back-and-forth execution (Cabo San Lucas, Baja), fixed Dave Han |
-| ll7r4A6atno | Your Saltwater Guide | tutorial | parameter-skim | pending | Title says dorado, content is sierra: hoochie+wire rig, AM/sunset bite, dirty-water cue; Cabo |
+| ll7r4A6atno | Your Saltwater Guide | tutorial | parameter-skim | done | techniques/trolling.md; species/dorado.md; rigging/haywire-twist.md: Added Cabo surf-line sierra-trolling section (hoochie, wire leader, 6kt troll, AM/sunset bite, dirty-water cue), Observed cross-lin |
 | OSbAHdB4uPs | Your Saltwater Guide | tutorial | deep | pending | CA sheephead: #2/#4 bronze hook, quarter-half oz slider, suspend bait off bottom, pismo clam/mussel bait |
 | EiItVWqFMYc | Your Saltwater Guide | tutorial | parameter-skim | pending | Hoop net soak/pull timing: soak 1hr before dark, pull 30min after sunset, reset nets on same spot |
 | 2y0VznL2qk8 | Your Saltwater Guide | tutorial | deep | pending | Bluefin bait decision: >8kt wind = rubber flyer trolled 8.5kt; <8kt = dead flyer under kite/balloon |

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno]
 confidence: high
 ---
 
@@ -107,6 +107,42 @@ trolling kit, ahead of casting for cabrilla or yo-yoing:
   — a different class from the bluefin-scale bars covered in that note.
   Feathers are not commonly trolled down there; when they are, they run small.
 
+## Cabo San Lucas — surf-line slow-trolling for sierra
+
+**Capt. Dave Hansen, Your Saltwater Guide (`ll7r4A6atno`, 2021-01-19);
+dave-hansen registered voice, single mention of this rig — `medium`
+confidence; region: Cabo San Lucas, Baja.** A distinct, inshore counterpart to
+the offshore spreads above: small hoochies slow-trolled in the surf line for
+**sierra** (not a dorado technique despite the video's title — a dorado was
+an incidental catch on the same gear, logged in
+[dorado](../species/dorado.md)).
+
+- **Lures:** small hoochies/feathers — sized down because "the sierras are
+  keyed in on the smaller bait." White, orange, and pink all named as working
+  colors; white worked well in the surf on this trip. A small quarter-ounce
+  slider sinker is rigged into the head of each hoochie.
+- **Wire leader, mandatory:** sierra have "razor blade teeth," described as
+  "like little baby wahoos" — a short piece of wire ahead of the hoochie is
+  non-negotiable, the same bite-off logic as
+  [barracuda](../species/barracuda.md#situations--techniques). **Single-strand
+  wire preferred; braided wire is the fallback** when single-strand isn't
+  available locally (the case on this trip) — see
+  [haywire twist](../rigging/haywire-twist.md) for single-strand termination.
+- **Hook config:** a single hook or a double hook rigged right at the back end
+  of the skirt; on this trip the white hoochies ran a single hook, the
+  orange/pink ones a double hook — a per-color choice made by the rigger, not
+  a stated hard rule.
+- **Trolling mechanics:** drag the hoochies along the surf line at roughly
+  **6 knots**; rubber bands looped on the boat's stern cleats keep the
+  hoochies down in the water (rather than skipping on the surface).
+- **Bite window:** sierra bite best **early morning or right at sunset**.
+- **Water-color cue:** dirtier, lime-green surf water improves the sierra
+  bite — sierra have sharp eyesight and get bite-shy in clear, calm water but
+  feed more readily once the water turns off-color. Region-specific to this
+  Cabo surf-line pattern; not the SoCal chlorophyll-edge doctrine in
+  [water color](../conditions/water-color.md), which runs on a different
+  mechanism (bait-holding, not predator eyesight) — kept separate, not merged.
+
 ## Common failures
 
 - **Straight-lining away** from sign you just marked (sweep instead).
@@ -131,6 +167,7 @@ trolling kit, ahead of casting for cabrilla or yo-yoing:
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
+- [Haywire Twist](../rigging/haywire-twist.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

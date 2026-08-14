@@ -91,5 +91,6 @@ dedicated program.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Trolling](../techniques/trolling.md)
 - [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

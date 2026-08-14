@@ -87,6 +87,7 @@ water. (Consistent with the corpus "warmest × cleanest" read for
 - [October](../seasonal/october.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
+- [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno]
 confidence: high
 ---
 
@@ -75,6 +75,15 @@ stated): on a pre-qualified, obviously loaded paddy (fish already jumping
 before the boat arrived), the crew ran straight to the edge and pitched
 baits immediately — no wake-up step needed. Corroborates the flylined-bait
 row above as the go-to when fish are already active on the paddy.
+
+**Observed** (Your Saltwater Guide / Dave Hansen, 2021-01-19, Cabo San
+Lucas, Baja): a dorado was an incidental catch, well inshore in the **surf
+line**, on a small hoochie/feather being slow-trolled at ~6 kt for
+[sierra](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-trolling-for-sierra)
+— gear sized and rigged for a different, toothier species still drew a
+dorado bite. Not a targeted dorado technique; logged here as a region/
+gear-size data point, distinct from the offshore paddy and open-water-school
+program above.
 
 ## Gear summary (class terms)
 
