@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ]
 confidence: medium
 ---
 
@@ -44,6 +44,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
   [rod & reel selection](../tackle/rod-and-reel-selection.md)).
   A dedicated 100%-strength double-line knot, not a terminal or line-to-line
   connection knot like the others above.
+- **Surgeon's knot (loop)** — the simplest loop-forming knot in this list;
+  used to tie the loop for a **single-hook rockfish [dropper
+  loop](../techniques/dropper-loop.md)** rig.
 
 ## Parameters & judgment
 
@@ -231,6 +234,13 @@ fluoro leader, braid main line — and feed the terminal rigs in
   on that final locking pass is ASR-uncertain — the two-half-hitch-then-lock
   mechanic is clear, the count on the last pass is not. No SoCal-specific
   parameters (line class, species, or region) are given in this clip.
+- **Surgeon's knot (StokedOnFishing, eEcRPEoG4DQ, 2018-08-28; unregistered
+  channel — medium confidence):** paraphrased mechanic — double the line into
+  a loop, tie it like a square knot, then pass the loop through **three
+  times** (rather than once) before tightening it down. Presented as "the
+  simplest knot you can tie" for a single-hook rockfish dropper loop, and
+  rated by the presenter as more than strong enough to hold. Feeds the
+  [dropper loop](../techniques/dropper-loop.md#building-the-rig) rig.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -255,7 +265,9 @@ and [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY).
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Wind-On Leader](wind-on-leader.md)
 <!-- backlinks:end -->

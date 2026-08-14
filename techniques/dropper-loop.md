@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ]
 confidence: high
 ---
 
@@ -34,6 +34,18 @@ this note owns the rig and the retrieve.
 - Weight and depth track the target: **rock cod → heavier sinker, deeper water;
   seabass → lighter sinker**; if the **current is heavy, up the weight** to hold
   bottom. It is the same rig across species — only the lead changes.
+- **Single-hook rockfish version, surgeon's knot loop (StokedOnFishing,
+  eEcRPEoG4DQ, 2018-08-28; unregistered channel — medium confidence):** a
+  simple one-hook rockfish dropper, loop tied with a **surgeon's knot**
+  instead of the dropper-loop knot/spider hitch above — see [essential
+  knots](../rigging/essential-knots.md) for the mechanic. Keep the hook
+  **close to the sinker — no more than about 2½ ft** of leader between the
+  loop and the weight ("a nice flowing leader," per the presenter). **Sinker
+  weight tracks drift speed, not just species/depth:** on a day with little
+  drift, the presenter ran a **6 oz** sinker — within the 6–10 oz SoCal range
+  already logged above, light end because the low drift meant less weight was
+  needed to get down and hold bottom; per the current-based principle above,
+  step the weight up as drift/current picks up.
 - **White seabass loop height:** for WSB specifically, Your Saltwater Guide
   ties the hook **12 to 18 inches above the sinker** so the squid rides well
   clear of the bottom over/near a squid nest — the same "seabass → lighter
