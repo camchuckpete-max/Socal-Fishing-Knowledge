@@ -1072,7 +1072,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | oB4BpIUTTl4 | StokedOnFishing | on-the-water | parameter-skim | done | techniques/flyline.md; techniques/knife-jigging.md — night-jigging floor (100lb braid/mono min, 200-400lb leader, 350g+ jigs) and daytime flyline tackle (25-40lb, No.2 hook, ~90% corner hookup), same  |
 | mj50D4rNfdI | StokedOnFishing | promo | skip:promo | skipped | 30s El Dorado boat ad, pure vessel-amenities pitch, no fishing content |
 | c3NFkQbdDy0 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md — mixed bluefin/yellowtail anchor bite ~90mi off CA (El Dorado/Capt. TJ), Home Guard/Tanner Bank yellow naming, 40lb bluefin with pre-existing hook corro |
-| 9qMLztwVx9g | StokedOnFishing | on-the-water | observations-only | pending | Red Rooster, San Diego SoCal, sponsor-heavy (GrundensUSA), night yo-yo bluefin footage |
+| 9qMLztwVx9g | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md — night yo-yo/jig bite 50-200lb vs daytime flyline bite 20-150lb, triples callout, Red Rooster SD trip; boat/landing naming hedged ASR-uncertain |
 | 947solNfiPw | StokedOnFishing | on-the-water | observations-only | pending | El Dorado, Tanner Bank SoCal, sardine-bite bluefin catch footage |
 | Tz5y87zUp_Y | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama dorado catch footage, region confirmed in transcript |
 | rhaie9Tbi8I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Hannibal Bank, spinner dolphins), yellowfin/dorado catch footage |

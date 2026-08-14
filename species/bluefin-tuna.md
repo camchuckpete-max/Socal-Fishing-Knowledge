@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 9qMLztwVx9g]
 confidence: high
 ---
 
@@ -295,6 +295,25 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   daytime on a light "jiggy poppy" (casting jig/popper) outfit is "very
   doable," framed as a heads-up rather than a recommendation to target them
   that way.
+- **Observed** (StokedOnFishing, 2023-09-22 upload, trip date not stated,
+  aboard the **Red Rooster** (captioned "Red Rooster three" on camera
+  repeatedly — ASR-uncertain whether that names the boat "Red Rooster III" or
+  restates the 3-day trip length) out of a landing captioned "lee Palm
+  sportfisher" — ASR-uncertain, not confidently resolved to a named landing;
+  this channel's other San Diego StokedOnFishing trips in this corpus
+  consistently cite **H&M Landing** instead, so that name is flagged rather
+  than asserted — San Diego, SoCal — `9qMLztwVx9g`, "Chasing Bluefin on the
+  Red Rooster with @GrundensUSA," a sponsored (Grundens) 3-day trip;
+  unregistered channel — medium confidence, sponsor-heavy source,
+  product/brand claims not carried):
+  a night yo-yo/jig bite started around midnight and was still going at a
+  crew-stated check-in time of "quarter to four" (roughly 3:45 am), producing
+  bluefin called out on camera as ranging **50 lb to just under 200 lb**, with
+  multiple simultaneous hookups ("triples") among the catches. A separate
+  daytime flyline bite, framed on camera as a "surprise," produced bluefin
+  from **20 lb to 150 lb**. Grade/technique split (heavier night-jig window,
+  wider-range day flyline) sits beside, not new beyond, the existing
+  night-bite and flyline doctrine already logged in this note.
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
