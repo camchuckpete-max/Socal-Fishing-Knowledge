@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, cameron, L_FD-UzvEio]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, cameron, L_FD-UzvEio]
 confidence: medium
 ---
 
@@ -50,6 +50,25 @@ the oxygen and dies.
   [fishing live bait](fishing-live-bait.md)).
 - **Steady flow** is the whole job — an interruption to the pump is what kills a
   tank of bait.
+
+## Judging load size at the barge (dave-hansen, 7WapaxdtjQg, 2022-01-04)
+
+There's no fixed scoop count — load lightly and **watch how the bait swims in
+the tank** before adding more, rather than loading to a preset number. The
+right amount changes **every single day** and **from boat to boat** (even the
+same captain running a different boat each day sees a different answer), so
+treat it as a judgment call made fresh at the barge each trip, weighing:
+
+- **Quality of the bait that day** — lively bait tolerates a fuller tank;
+  sluggish bait doesn't.
+- **Water temperature.**
+- **Distance you're about to run** — a longer run to the grounds calls for a
+  lighter load than a short hop.
+- **Bait type/shape** — smaller-bodied bait (e.g. anchovy) lets you take more
+  scoops before the tank is loaded than a bulkier bait (e.g. big sardines);
+  on one trip three scoops of anchovy filled the tank, which is part of why
+  the captain prefers anchovy over "the big giant sardine" for tank
+  management.
 
 ## Underway: lid off, tap-scoop culling (dave-hansen, L_FD-UzvEio, 2022-02-04)
 

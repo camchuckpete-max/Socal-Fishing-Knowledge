@@ -838,7 +838,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Dq1x__MI8Wk | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Pure marlin filleting/cooking demo, no catch footage or location |
 | BmENEt6gYm8 | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Pure wahoo filleting/cooking demo, no catch footage or location |
 | ZggReeO1nyU | Your Saltwater Guide | tutorial | deep | done | bait/fishing-live-bait.md / Amended sardine nose/butt-hook mechanics and added anchovy nose-vs-gill-hook subsection, attributed to dave-hansen at high confidence |
-| 7WapaxdtjQg | Your Saltwater Guide | tutorial | parameter-skim | pending | Dana Point (SoCal) bait barge etiquette, VHF ch11 protocol, avoid-6am timing, tank-load capacity notes |
+| 7WapaxdtjQg | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md; bait/making-bait.md / Dana Point bait-barge etiquette/VHF-11/timing folded into making-bait.md; tank-load judgment factors folded into bait-tanks.md; one faithfulness fix applied |
 | Pv5JMTTY4nI | Your Saltwater Guide | tutorial | skip:duplicate-of-9qnQjPPT5yg | skipped | sweep sim 0.946, re-upload of 2021-05 PTO grip video (primary itself triaged skip:promo) |
 | ur1F8gD1sF4 | Your Saltwater Guide | promo | skip:promo | skipped | Subscription-pitch-dominated; scattered tips (breeze-reading, avoid combat fishing) buried in rant |
 | vJ70gNV72eY | Your Saltwater Guide | promo | skip:promo | skipped | Mostly generic date-day advice + subscription pitch; thin bait-tank-shape/fly-lining nugget |

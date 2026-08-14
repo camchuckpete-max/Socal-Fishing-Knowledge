@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg]
+tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg]
 confidence: high
 ---
 
@@ -21,6 +21,29 @@ fish it per [fishing live bait](fishing-live-bait.md).
 - **Bait shortages (July 2026)** pushed him onto sabikis more often — both at
   **La Jolla** and the **Coronado Islands** — to make his own when the barge
   couldn't fill him.
+
+## Buying at the bait barge: etiquette, hailing, timing (dave-hansen, 7WapaxdtjQg, 2022-01-04; Dana Point example)
+
+Buying sardines at the barge is a routine part of the buy side of the split
+above; how you handle it affects both your wait and your bait quality:
+
+- **Never board the barge itself.** If you can't get the boat alongside
+  cleanly, ask the attendant for help rather than jumping onto the barge to
+  fend the boat off — approach slow and mellow instead.
+- **Follow the barge's side signal** — barges mark the side they want boats
+  tied to with a cone or an arrow (at Dana Point, a cone on the ocean side).
+- **Hail on VHF channel 11** if no attendant is visible dockside: give the
+  barge's name twice plus your own boat's name, then wait for their response
+  before approaching.
+- **Tell the attendant you want it loaded light** and that you're not in a
+  rush — it sets the pace and keeps the load conservative (see
+  [bait tanks](bait-tanks.md) for judging how much to actually take).
+  Treating the attendant well matters directly: he can make or break the
+  day, and a tip at the end is the expected way to show it.
+- **Avoid the 6:00 a.m. rush.** SoCal 3/4-day and half-day sportboats all
+  load around 6:00 a.m., which is when the barge lines up. Arriving at
+  **5:00 a.m.** or **7:00 a.m.** (or loading mid-day) instead avoids the
+  line entirely.
 
 ## Sabiki work (mackerel)
 
