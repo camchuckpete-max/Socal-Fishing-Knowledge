@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE]
 confidence: high
 ---
 
@@ -35,7 +35,12 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   fish rise to meet it. Not weedless, so fish it off the harder bottom/edges
   rather than in the thick kelp.
 - **Sizes:** a **5-inch** up ahead and a **7-inch** as the main lure is the split
-  used on a double rig; 5"–7" covers most calico/sand-bass work.
+  used on a double rig; 5"–7" covers most calico/sand-bass work. A **9-inch
+  MC-class swimbait ("MC9")** was the pick for a first-time San Clemente
+  Island trip and drew a bite on the very first cast (a ~6.5 lb kelp bass
+  landed), so 9" is a workable upper end for big kelp-bed calicos, not just
+  5"–7" (StokedOnFishing, San Clemente Island, 2015-10-28, `9xNhdu2aBqE`;
+  unregistered channel, single mention — medium confidence).
 - **Colors:** color matters little — a **green-top / gold-bottom ("hot koch")** is
   a confidence pattern that works cloudy or sunny, warm or cold. Carry a natural
   (green/gold, sardine) and a dark. Fish what you believe in.

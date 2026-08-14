@@ -948,7 +948,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | mL4Ph7t0WcQ | StokedOnFishing | on-the-water | observations-only | done | species/pacific-crevalle-jack.md; tackle/hooks.md; techniques/flyline.md: added three Observed blocks (Lighthouse Point mixed-species presence, circle-hook surf-cast roosterfish/tuna 10-count timing,  |
 | _Wb4z4ammoM | StokedOnFishing | on-the-water | parameter-skim | done | tackle/line-and-leader.md: Gonzaga Bay wire-leader/65lb-spectra parameter for cabrilla/barred pargo, medium confidence |
 | A6s-A1NARuA | StokedOnFishing | on-the-water | parameter-skim | done | tackle/line-and-leader.md; tackle/rod-and-reel-selection.md: Gonzaga Bay pt2 grouper deep-drop + casting gear rundown |
-| 9xNhdu2aBqE | StokedOnFishing | on-the-water | parameter-skim | pending | SCI calico w/ Todd Klein: smaller fish trigger bigger follow-up eats, MC9 swimbait, saved GPS marks |
+| 9xNhdu2aBqE | StokedOnFishing | on-the-water | parameter-skim | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; techniques/swimbaits.md: MC9 swimbait, follow-up-eat behavior, line class, water color |
 | ROWgdFE9Ehc | StokedOnFishing | on-the-water | observations-only | pending | OC charity ep: kids fishing for yellowtail in the channel; sponsor-heavy |
 | epWXURDU-oI | StokedOnFishing | on-the-water | skip:duplicate-of-9xNhdu2aBqE | skipped | Same trip/dialogue as 9xNhdu2aBqE (Todd Klein, SCI), short highlight cut - NEW dedup finding at triage |
 | _C8w6zeVPak | StokedOnFishing | on-the-water | observations-only | pending | Cedros/Gono Islands Baja: yellowtail surface iron then calico shore; series: Shogun Skiff Trip part 3 |

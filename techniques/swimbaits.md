@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE]
 confidence: high
 ---
 
@@ -38,6 +38,15 @@ retrieve, and the boat work.
 - Line: heavy leader against kelp and rock. Landesfeind runs **50 to 65 lb
   braid** on a **300-size reel** with **60 lb fluorocarbon leader** — the leader
   gets braided up and chafed just from throwing it in the kelp, so keep it stout.
+  A second data point runs the same idea with **mono** instead of fluoro: **65
+  lb braid to 40 lb mono**, cinched down tight ("button down tight as we can
+  go") for kelp-bed calicos, contrasted by the same angler against a
+  freshwater largemouth setup of 10 lb braid to 5 lb fluoro — the SoCal
+  kelp/structure game calls for markedly heavier line than open-water bass
+  fishing (StokedOnFishing, Todd Klein, San Clemente Island, 2015-10-28,
+  `9xNhdu2aBqE`; unregistered channel, single mention — medium confidence;
+  kept side by side with Landesfeind's fluoro leader above rather than
+  reconciled).
 
 ## The retrieve and the hookset
 
@@ -51,6 +60,15 @@ retrieve, and the boat work.
   it; you **watch it eat, pause to let it turn away from you, then set.** Swing
   the instant you get bit and **nine times out of ten you pull the bait out of
   the fish's mouth.**
+- **A missed strike from a smaller fish can trigger a bigger follow-up eat.**
+  Watching a bait, a smaller bass grabbed just the tail and came off; the
+  strike itself pulled the bait forward, and a larger fish trailing behind
+  the first one saw it move and ate it whole on the next beat. Reading this
+  off swimbait/weedless water is another reason not to yank the bait away on
+  the first bump — a blown strike can still produce the bigger fish if you
+  keep the retrieve going (StokedOnFishing, Todd Klein, San Clemente Island,
+  2015-10-28, `9xNhdu2aBqE`; unregistered channel, single mention — medium
+  confidence).
 - Use a **graphite-composite rod with a soft glass tip** (Landesfeind fishes a
   7-foot Rainshadow Judge live-bait blank; a 7- or 8-foot graphite rod also
   works, a 9-footer for bomb casts at San Clemente). The soft tip **bends and
