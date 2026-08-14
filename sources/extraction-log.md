@@ -817,7 +817,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | pKWDxwBvTH8 | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Misleading title; mostly rant re: practice casting before trip, no cast mechanics |
 | o8vLdz7OmaE | Your Saltwater Guide | seminar | deep | done | tackle/rod-and-reel-selection.md: added Dave Hansen's feel-based pull-test drag method, mid-fight re-check + thumb-as-drag warning, star-vs-lever drag mid-fight adjustability, left-hand-forward ration |
 | -5kooyIyavs | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md: added Baja/Mag Bay mangrove structure-casting section (Lopez Mateos, no-weight fly-line rig, precision bait-placement doctrine, fast-current recast cycle, species landed) + Reac |
-| FxgLol_IHa0 | Your Saltwater Guide | tutorial | deep | pending | Baja (Lopez Mateos/Magdalena Bay): anchor-per-current-lay technique to position bait zone |
+| FxgLol_IHa0 | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md: added anchor-lay-per-current-read bullet to existing Baja/Mag Bay mangrove structure-casting section (same Lopez Mateos trip as -5kooyIyavs), corroborating crew/location; soften |
 | YVHdDbkQrKk | Your Saltwater Guide | tutorial | skip:duplicate-of-w5_x6kkN-xE | skipped | sweep sim 0.922, re-upload of 2021-04 live-bait video |
 | JJClvPhKIdo | Your Saltwater Guide | promo | skip:promo | skipped | Promar sabiki stick-rod product demo, no technique content |
 | F0g5r9Rkrd4 | Your Saltwater Guide | tutorial | parameter-skim | pending | Rod-hold hand position (index on spool/thumb trigger), free-spool-to-bottom, wind-hookset |

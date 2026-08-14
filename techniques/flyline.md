@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0]
 confidence: medium
 ---
 
@@ -131,6 +131,19 @@ series.
 mangrove channels/flats, not the SoCal offshore chum-line application the
 rest of this note otherwise describes.
 
+- **Anchor lay sets up the whole game (FxgLol_IHa0, 2022-02-22 — 2 days before
+  `-5kooyIyavs` in the same Lopez Mateos trip with the same crew; a second
+  data point corroborating this series' Mag Bay location):** before the
+  anchor goes down, read which way the tide is running through the lagoon
+  and predict how the boat will swing on the rode, so the casting side of
+  the boat ends up laid right along the target mangrove edge — not just
+  near it. The boat keeps swinging as the anchor digs in and comes tight;
+  don't judge the lay until it's actually holding. Get it right and the
+  bait-placement discipline below barely needs its "recast if it misses"
+  fallback: on this trip, the first bait cast into the zone the moment the
+  boat settled was eaten instantly, no soak required — a ~5 lb snook, called
+  "perfect eating size" on camera (Monterey sardine bait, cast/net-caught en
+  route, per the bait-sourcing note below).
 - **The rig is the same no-weight flyline concept, stripped to the minimum:**
   a thin-wire Mustad hook tied straight to a fluorocarbon leader, tied
   straight to braided main line — **zero weight, no swivel, nothing else in
