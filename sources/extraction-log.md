@@ -915,7 +915,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | YZT-_SdmQNs | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tube-bait flip/pitch rig near trees/weeds mimicking crawdad - reads as freshwater bass technique |
 | IB3IqZKxEhk | StokedOnFishing | promo | skip:promo | skipped | Simrad rep (Tito Perez) demos chartplotter bridge-control feature; no fishing content, sponsor-heavy |
 | ILoJ_fzV4fY | StokedOnFishing | promo | skip:promo | skipped | Simrad rep demos Go Free WiFi app/box incl. pricing; no fishing content, sponsor-heavy |
-| 06lxuie5cZQ | StokedOnFishing | tutorial | parameter-skim | pending | Mono-to-fluorocarbon knot tie, generic, no region markers |
+| 06lxuie5cZQ | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md / added a second, distinct mono-to-fluoro connection knot + tag-trim/tag-loop judgment to the Seaguar-knot entry, medium confidence, unregistered channel / flags: asr-uncert |
 | Jvv6DMNIHbE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | CA lake threadfin-shad/striper bass fishing, freshwater; series: Bass Fishing Live Shad part 1 |
 | 6-mi3Qxn37c | StokedOnFishing | on-the-water | observations-only | pending | SoCal Mission Bay spotted bay bass; tide pref 4-5ft, Alabama rig, 60-80lb braid/40lb fluoro topshot |
 | 2gHRrR3D8rY | StokedOnFishing | tutorial | parameter-skim | pending | Halibut filleting walkthrough: spine-follow cut, skin removal, ice-saltwater soak trick; region unstated |

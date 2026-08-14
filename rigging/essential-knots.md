@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ]
 confidence: medium
 ---
 
@@ -133,6 +133,25 @@ fluoro leader, braid main line — and feed the terminal rigs in
   [flyline](../techniques/flyline.md) for the line-sizing logic it serves;
   it is not documented here as a general leader-to-main-line knot for braid
   systems (use the RP knot above for that).
+- **A second, separate mono-to-fluoro connection knot (StokedOnFishing,
+  `06lxuie5cZQ`, 2018-11-14; unregistered channel — `medium` confidence):**
+  the on-camera audio for this one is too garbled to confirm a name, so it is
+  **not** assumed to be the Seaguar knot above — treat as a distinct tie
+  until corroborated. Paraphrased mechanic (wrap counts ASR-uncertain, read
+  as approximate rather than exact): form a loop backward in the working
+  end, pass fingers through it to grab the working line, wrap it back
+  several times, draw everything through snug, then finish by working the
+  tag through a figure-eight pass before cinching. **Judgment — trimming the
+  tag, general to any knot:** clip the tag close with a clamp/nail-clipper-
+  type tool rather than biting it off with your teeth — biting can nick and
+  weaken the line. As an alternative to a flush trim, leave a small loop in
+  the tag end instead of cutting it fully off; looped over a line
+  keeper/tackle-organizer clip it has no effect on the main connection's
+  strength. **Flag:** wrap counts throughout this clip are ASR-uncertain
+  ("go one, three... three, pull back" in the transcript), and the product
+  name for the tag-loop keeper is also ASR-garbled and not carried; no
+  SoCal-specific parameters (line class, species, region) are given in this
+  clip.
 - **Loop knot, non-ringed hook (Cesar, Eric's Tackle, via Dirty Hookers,
   48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, single
   mention):** an
@@ -253,7 +272,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
 [improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ),
 [rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI),
-and [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY).
+[Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
+and [mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ).
 
 <!-- backlinks:start -->
 ## Linked from
