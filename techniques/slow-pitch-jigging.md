@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, Jtf-bU4aM-c, vqsD0qpwcJA, cameron, M8hOYQ_6rSg]
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, Jtf-bU4aM-c, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -28,6 +28,22 @@ Execution only; species and situations are the reverse map in **Linked from**.
   more current / more active fish → [speed jig](knife-jigging.md) (Cesar, via
   Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single
   mention — `medium` confidence).
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada,
+  Mexico"; unregistered channel — medium confidence): after the yellowtail
+  stop went quiet, the crew slid out to where the bottom dropped off to
+  about **300 ft**, where the sounder showed rocky bottom, and worked
+  slow-pitch jigs there alongside
+  a second, "classic" dropper-style rig fished by the rest of the group (a
+  couple of hooks on dead bait above a weight, reeled up off the rocks and
+  left to soak) — see the
+  [rockfish & lingcod](../species/rockfish-lingcod.md) Ensenada entry for the
+  catch mix. The mechanics described on camera match this note's standing
+  fall-flutter doctrine: drop to bottom, work it with slow half-turns and
+  gentle lifts so the jig flutters down like a wounded baitfish on the way
+  back — described as drawing bites from fish not actively chasing
+  fast-moving prey, i.e. the same slower/less-active-fish case as the Sea of
+  Cortez entry above, just on the Pacific side.
 
 ## Mechanics — the pitch and the fall
 

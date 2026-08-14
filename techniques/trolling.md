@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -312,6 +312,29 @@ an incidental catch on the same gear, logged in
   Cabo surf-line pattern; not the SoCal chlorophyll-edge doctrine in
   [water color](../conditions/water-color.md), which runs on a different
   mechanism (bait-holding, not predator eyesight) — kept separate, not merged.
+
+## Ensenada, Baja — slow-trolled mackerel plus cast jigs for yellowtail on a reef/point
+
+**Observed** (StokedOnFishing, 2026-02-17 upload, a point/reef a few miles
+down the coast from Ensenada, Baja California — `0dIwWiOc1NY`, "What It's
+Like Fishing in Ensenada, Mexico"; guide Alejandro, a local full-time
+commercial fisherman; unregistered channel — medium confidence; region:
+Baja, Ensenada, Pacific side): after locating a point with reef structure a
+short run down the coast, the crew combined two presentations at once rather
+than choosing between them: **slow-trolling a couple of live mackerel from
+the stern** while **simultaneously casting jigs from the bow** at the same
+structure. The stated logic for running both together: the surface splashes
+from the cast jigs help draw attention and pull fish into the area, working
+alongside the trolled bait rather than competing with it. Yellowtail was the
+stated target, described as constantly moving around the structure rather
+than holding in one spot; the stop ran a couple of hours without a
+yellowtail — the crew instead landed a calico bass and a small bonito (the
+crew called it good ceviche material on camera, though the ceviche eaten
+later that day was made from rockfish) on the same drift. See the
+[yellowtail](../species/yellowtail.md) Baja-coast entry for the crew's own
+gray-light/tide explanation for the miss, and the
+[calico bass](../species/calico-bass.md) and [bonito](../species/bonito.md)
+Ensenada entries for those catches.
 
 ## La Bocana, Baja — 25-mile offshore troll for tuna/marlin/wahoo
 

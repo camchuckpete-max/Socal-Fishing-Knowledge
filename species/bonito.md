@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY]
 confidence: medium
 ---
 
@@ -118,6 +118,21 @@ rather than a dedicated technique study.
   standing gear doctrine above that bonito "lack the barracuda's cutting
   teeth" and need no wire — a crew observation on one fish, not treated as
   overturning the stated no-wire doctrine.
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada,
+  Mexico"; unregistered channel — medium confidence): at least three bonito
+  were caught incidentally on this trip — a small one on the
+  mackerel-slow-troll/cast-jig yellowtail stop (see the
+  [trolling](../techniques/trolling.md#ensenada-baja--slow-trolled-mackerel-plus-cast-jigs-for-yellowtail-on-a-reefpoint)
+  Ensenada entry; the crew called it good ceviche material on camera, though
+  the ceviche eaten later that day was made from rockfish, not this fish),
+  and two more ("that is a big bonito," then "another really nice bonita")
+  taken on slow-pitch jigs at the deeper rockfish/lingcod stop (see the
+  [rockfish & lingcod](rockfish-lingcod.md) Ensenada entry). On camera the
+  crew again pushed back on treating bonito as a "trash fish," repeating the
+  bleed-and-ice-immediately handling already logged above as the difference
+  between poor and good table quality — a second, independent data point for
+  that same doctrine, this time from Baja rather than SoCal.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -136,6 +151,7 @@ rather than a dedicated technique study.
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)

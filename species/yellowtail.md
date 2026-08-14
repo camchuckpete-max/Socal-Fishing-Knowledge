@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -125,6 +125,22 @@ typical-year mapping.
   border and BOLA carry yellowtail more or less year-round, grade improving
   south (cameron; thin in the current corpus — expect this entry to grow with
   the next batch).
+  **Observed** (StokedOnFishing, 2026-02-17 upload, a point/reef a few miles
+  down the coast from Ensenada, Baja California — `0dIwWiOc1NY`, "What It's
+  Like Fishing in Ensenada, Mexico"; guide Alejandro, a local; unregistered
+  channel — medium confidence; region: Baja, Ensenada): yellowtail were named
+  as the crew's main target on a reef/point stop, described as constantly on
+  the move around that structure rather than holding — full slow-troll +
+  cast-jig technique detail is logged in
+  [trolling](../techniques/trolling.md#ensenada-baja--slow-trolled-mackerel-plus-cast-jigs-for-yellowtail-on-a-reefpoint).
+  No yellowtail were actually landed in this session — the stop instead
+  produced a calico bass and a small bonito (see the
+  [calico bass](calico-bass.md) and [bonito](bonito.md) Ensenada entries). On
+  camera the crew attributed the miss to timing: **yellowtail feed hardest
+  during gray light early in the morning**, and this stop was fished after
+  that window, with the tide also described as "off." The crew moved on to
+  bottom fishing (slow-pitch jigging) rather than keep grinding the spot —
+  see the [rockfish & lingcod](rockfish-lingcod.md) Ensenada entry.
   **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur, Pacific side ("half way down the Baja Peninsula") — `qri15R3caYE`,
   "Stoked On La Bocana," part 1): fishing rock structure a few miles from a
@@ -726,6 +742,7 @@ water temp and bait depth before committing the day to one face.
 - [Making Bait](../bait/making-bait.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
+- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)

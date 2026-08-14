@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM]
+tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -96,6 +96,17 @@ rocks.
   winter = deep structure, reaction bite, crankbait over suspended bait balls
   above pipes ([February–March](../seasonal/february-march.md)). No conflicting
   doctrine in the corpus.
+
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, near the marina, Ensenada, Baja California —
+  `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada, Mexico"; unregistered
+  channel — medium confidence): a "regular size" sand bass, called on camera
+  as good eating, was caught incidentally while the crew jigged for mackerel
+  bait just outside the marina — a bait-stop bycatch data point, not a
+  targeted sand bass session. One angler's catch was jokingly nicknamed
+  "Diamond Valley bass" on camera before being confirmed as a sand bass
+  (asr-uncertain / crew banter, not a species name — not carried as
+  terminology).
 
 <!-- backlinks:start -->
 ## Linked from

@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -153,6 +153,24 @@ above; unregistered channel — medium confidence): bait-making that morning
 ran in **15–20 mph wind out of the north** — the crew's only stated
 condition for the session, no gear or count detail beyond the bait-first
 routine already logged above.
+
+## Ensenada, Baja — two local mackerel types (observed)
+
+**Observed** (StokedOnFishing, 2026-02-17 upload, Ensenada, Baja California —
+`0dIwWiOc1NY`, "What It's Like Fishing in Ensenada, Mexico"; guide Alejandro,
+a local full-time commercial fisherman; unregistered channel — medium
+confidence; region: Baja, Ensenada): the crew made mackerel bait just outside
+the marina during what's described on camera as late-spring/early-summer
+mackerel spawning, when the bait runs close to shore and spread out. Two
+distinct local mackerel types were called out and used as bait on this trip:
+
+- **"Spanish jack"** (the SoCal slang name given on camera) — a slower
+  swimmer but tough, staying alive in the tank for hours.
+- **"Greenback"** — smaller, mini-tuna-shaped, flashier and faster, more
+  energetic than the Spanish jack.
+
+No sabiki hook count, line rating, or sinker weight was given for this
+session — logged as a bait-ID/behavior data point, not a rig spec.
 
 ## Dedicated sabiki setup (building)
 

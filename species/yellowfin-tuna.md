@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE]
+tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -159,6 +159,20 @@ the bluefin nearby become more cooperative too.**
   hand-off tip; a small sardine-sized hook pulling from a big fish) from this
   same session in
   [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, Ensenada, Baja California — `0dIwWiOc1NY`, "What It's
+  Like Fishing in Ensenada, Mexico"; guide Alejandro, a local; unregistered
+  channel — medium confidence): a local intel data point rather than a
+  landed-fish report — the guide relayed that yellowfin had been showing
+  roughly **30–40 mi out** from Ensenada that morning, prompting a
+  crew discussion of running out to scout/look versus working known
+  structure closer in. In this session the crew chose the closer-in option
+  (bait-making and reef/point fishing — see the
+  [trolling](../techniques/trolling.md#ensenada-baja--slow-trolled-mackerel-plus-cast-jigs-for-yellowtail-on-a-reefpoint)
+  and [rockfish & lingcod](rockfish-lingcod.md) Ensenada entries) rather than
+  the 30–40 mi run; no yellowfin were landed or sighted directly in this
+  footage. Logged as a distance/scouting-tradeoff data point for the
+  Ensenada offshore grounds, not a confirmed bite report.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -177,6 +191,7 @@ the bluefin nearby become more cooperative too.**
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [October](../seasonal/october.md)
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
+- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

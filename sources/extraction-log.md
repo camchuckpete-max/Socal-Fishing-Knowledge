@@ -1050,7 +1050,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | qBZxnRuXtGo | StokedOnFishing | on-the-water | skip:duplicate-of-SdwwpQMJEOI | skipped | confirmed: identical Olive Crest tournament script/footage as SdwwpQMJEOI |
 | PexiSOiN00o | StokedOnFishing | promo | skip:promo | skipped | Okuma Tesoro reel product demo; rock fishing/salmon/halibut clips, region unclear; sponsor-heavy |
 | wj8IyrcsmF4 | StokedOnFishing | promo | skip:promo | skipped | 30s Okuma Tesoro reel teaser, same clips/lines as PexiSOiN00o; sponsor-heavy, no region |
-| 0dIwWiOc1NY | StokedOnFishing | on-the-water | observations-only | pending | Baja (Ensenada) catch-for-donation trip; mackerel bait, yellowfin scouting 30-40mi out |
+| 0dIwWiOc1NY | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/bonito.md; species/calico-bass.md; species/rockfish-lingcod.md; species/sand-bass.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/slow-pitch-jigging.md; t |
 | DTrhKKBEQyY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) salmon+halibut harpoon; sponsor-heavy intro |
 | V7AfmB9pl_I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba/Chiriqui); Inshore-labeled but out-of-region travel trap; sponsor-heavy |
 | UfuiWFVvz2E | StokedOnFishing | on-the-water | observations-only | pending | SoCal (San Diego, Constitution) Cortez Bank bluefin then Baja kelp-paddy yellows |

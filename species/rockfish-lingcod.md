@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY]
+tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY]
 confidence: high
 ---
 
@@ -112,6 +112,28 @@ the *bottom*, not the fish.
   complex) fell inside a closed rockfish area, so effort that used to target it
   for rockfish shifted to [bluefin tuna](bluefin-tuna.md) on the same high spot
   instead (California/CDFW, as-of 2020-12, Rf1HKJG-SDg; verify current regs).
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada,
+  Mexico"; guide Alejandro, a local; unregistered channel — medium
+  confidence): after a yellowtail stop went quiet, the crew slid out to
+  where "the bottom drops off to about **300 ft**" over rocky bottom (see the
+  [slow-pitch jigging](../techniques/slow-pitch-jigging.md) Ensenada entry
+  for the drop mechanics) and split the boat between two methods worked at
+  once: [slow-pitch jigging](../techniques/slow-pitch-jigging.md) for part of
+  the crew and a "classic" dead-bait dropper rig (a couple of hooks above a
+  weight, reeled up off the rocks and left to soak) for the rest — both
+  producing steadily. The catch was a mixed bottomfish bag consistent with
+  this note's complex: **reds/vermilion** (called "red snapper" on camera as
+  a local nickname, then self-corrected to rockfish), a **bocaccio**
+  ("salmon grouper" — matches this note's existing bocaccio nickname), and
+  multiple **lingcod**, including one angler's remark that lingcod color
+  varies fish-to-fish (blue, brown, and green all called out on different
+  fish). Two bonito were also taken on slow-pitch jigs at the same stop — see
+  the [bonito](bonito.md) Ensenada entry. No depth-limit or season detail
+  given on camera; not treated as current regulatory guidance (see the
+  season/regs note above — California rockfish regs do not apply in Mexican
+  waters in any case; verify current Mexican/Baja regs separately before
+  fishing there).
 - **Historical example — reopen date and a depth-limit progression (California/CDFW,
   as-of 2019-02, self-admitted uncertain reading of the regs — verify current
   before using any of these numbers):** the presenter describes the SoCal
@@ -137,10 +159,13 @@ the *bottom*, not the fish.
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
+- [Pacific Bonito](bonito.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
+- [Yellowtail](yellowtail.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->
