@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c]
 confidence: high
 ---
 
@@ -177,6 +177,26 @@ on the traveling dolphin/porpoise pods that hold suspended
 [yellowfin tuna](../species/yellowfin-tuna.md). Not verified against other
 sources in this corpus; carried as a single sponsor-context data point, not a
 general radar-shopping recommendation.
+
+## Search sonar side-to-side scan range and audio bite cue (Top Gun 80, San Diego)
+
+**Observed** (StokedOnFishing, trip framed on camera as summertime (resolved
+from the 2015-01-18 upload date to summer 2014), roughly 175–180 mi offshore
+San Diego, aboard the **Top Gun 80** out of **H&M Landing** — `nkJNzdNlm_c`,
+"Top Gun 80 5-day Fun, part 1," captains named on camera as **Bobby Tapp** and
+**Scott Hart** (ASR-uncertain spelling); unregistered channel, sponsor-heavy
+episode (Simrad, Okuma, Davis Locker, Softsteel monofilament) — medium
+confidence): asked on camera how far his sonar reaches, the captain described
+running it **400–600 ft side to side** — it can be opened out further than
+that, but the return sweeps too slowly at longer range and "you miss a lot of
+fish" in the meantime, so he keeps it in that working window. He also
+described leaning on the unit's **audio** as much as the screen: the normal
+side-to-side sweep makes one sound, and that sound **changes distinctly when
+it hits fish**, so he doesn't have to watch the screen continuously — he can
+listen for the mark and use his eyes for surface sign (birds, paddies)
+instead. A distinct method from the vertical-fathometer manual-range doctrine
+above — this is a horizontal search sonar's scan envelope and audio cue, not
+the down-looking bottom sounder.
 
 ## Radar for fog navigation (Cedros, Baja)
 
