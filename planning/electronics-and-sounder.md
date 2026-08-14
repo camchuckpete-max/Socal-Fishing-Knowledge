@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k]
 confidence: high
 ---
 
@@ -128,6 +128,31 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   Saltwater Guide, FEXgl0eQCa8, 2021-05-17; registered voice, single
   mention — medium confidence)
 
+## SST and wind overlay for finding the break and calmer water (Simrad NSO Evo2 chartplotter)
+
+**Demonstrated** (StokedOnFishing, Kent Joplin of Simrad presenting, 2014-11-03,
+Mission Bay, SoCal — `uyjTdgIw-1k`, "Stoked On Simrad, part 2"; unregistered
+channel, sponsor-heavy Simrad demo — medium confidence on the underlying
+mechanism, low on the product claim): before running offshore, the crew pulled
+up the chartplotter's weather-overlay screen (NSO Evo 2 → weather options) and
+displayed sea-surface temperature graphically as a color chart (default
+Celsius; switched to Fahrenheit), then planned the run by reading the
+**temperature differential** rather than stopping at the first warm reading:
+**69°F** near the boat leaving Mission Bay, a break into **71°F** at roughly
+**7 nautical miles** out, and **72°F** by roughly **12–13 nautical miles**
+out — a **3–4°F total differential** from harbor to outer water. The stated
+plan was to run out and work the edge of that break, consistent with the
+general break-not-absolute-number doctrine in
+[water temperature](../conditions/water-temperature.md). The same
+weather-overlay screen also carries a **true wind-speed overlay** on the
+chart itself (color-coded barbs; flag tips show direction-from and speed by
+feather count — roughly one feather ≈5 kt, two feathers ≈10–15 kt); reading
+it, the crew found **~11 kt** near the boat easing to calmer conditions
+roughly **7 mi** further out and routed toward that calmer zone for
+passenger comfort as well as toward the fish. Not independently corroborated
+elsewhere in this corpus; carried as a single sponsor-context demo of the
+method, not a general product recommendation.
+
 ## Bird radar
 
 Radar isn't just for boats and weather — run it in **bird mode** (Duane):
@@ -198,6 +223,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
+- [Chunking](../techniques/chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
@@ -216,6 +242,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

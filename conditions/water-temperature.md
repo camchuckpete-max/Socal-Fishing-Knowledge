@@ -63,6 +63,7 @@ zone out. Do not skip otherwise-good bluefin sign because the SST reads high.
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)

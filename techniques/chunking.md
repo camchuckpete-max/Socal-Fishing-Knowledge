@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k]
 confidence: high
 ---
 
@@ -232,6 +232,20 @@ and close to the rock. Constant re-tying was needed because break-offs on the
 rock were the recurring problem — consistent with the leader-on-rock failure
 mode described above (`eNcltRh-shc`).
 
+## Chum bait selection — tougher chunk bait over pristine live bait (StokedOnFishing, 2014-11-03, Mission Bay, SoCal — `uyjTdgIw-1k`; unregistered channel, sponsor-heavy episode — medium confidence)
+
+After a trolling bite came off a current break (see
+[electronics and sounder](../planning/electronics-and-sounder.md) for the
+SST-break method that found the spot), the crew's stated key to keeping the
+school around the boat was chumming with **chunked bonita, mackerel,
+skipjack, and/or squid** rather than their premium live sardines. On this
+trip a dorado in the mix refused the sardine outright but ate the cut chunk
+as soon as it was dropped in — a bait-*class* preference distinct from (but
+compatible with) the picky-dorado leader-stepdown doctrine in
+[dorado](../species/dorado.md): when a fish won't commit to the "good" live
+bait, switching to a chunked/cut offering may draw a bite before stepping the
+leader down. Region: SoCal, Mission Bay/offshore.
+
 ## Common failures
 
 - **Over-chumming** — feeding so much cut bait the fish fill up on free chunks
@@ -252,6 +266,7 @@ mode described above (`eNcltRh-shc`).
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Swimbaits](swimbaits.md)

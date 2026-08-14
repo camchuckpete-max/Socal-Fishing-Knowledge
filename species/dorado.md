@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k]
 confidence: high
 ---
 
@@ -58,6 +58,20 @@ you see a handful (E4vKwRaRueA).
   observed on a productive paddy, E4vKwRaRueA). See
   [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
+
+**Observed** (StokedOnFishing, 2014-11-03, Mission Bay, SoCal — `uyjTdgIw-1k`,
+"Stoked On Simrad, part 2"; unregistered channel, sponsor-heavy Simrad demo —
+medium confidence): running a chartplotter SST overlay out from Mission Bay,
+the crew read a temperature break climbing from **69°F near the harbor to
+71–72°F roughly 7–13 nm offshore** — a second data point consistent with this
+note's ~71–72°F boundary reference above, this time read as a graduated break
+approached from cooler water rather than a single measured value on a
+productive paddy. Working that break produced a mixed-species bite including
+dorado; see [chunking](../techniques/chunking.md) and
+[electronics and sounder](../planning/electronics-and-sounder.md#sst-and-wind-overlay-for-finding-the-break-and-calmer-water-simrad-nso-evo2-chartplotter)
+for the search method and the chum-bait-selection data point from the same
+session. Gear on this trip was lighter than the stepped 20–40 lb range below:
+a **#2 hook** on **65 lb braid to a 4 ft top shot of 25 lb fluorocarbon**.
 
 ## Finding them (sign & sonar)
 
