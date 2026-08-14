@@ -231,4 +231,5 @@ vs. dense kelp on a weedless lure) rather than reconciled.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Swimbaits](swimbaits.md)
 <!-- backlinks:end -->

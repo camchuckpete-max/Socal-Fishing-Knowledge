@@ -54,6 +54,7 @@ graph LR
   n18["Swimbaits"]
   n19["Trolling"]
   n20["Yo-Yo Iron"]
+  n1 --> n18
   n10 --> n16
   n11 --> n15
   n11 --> n17
@@ -70,6 +71,7 @@ graph LR
   n17 --> n11
   n17 --> n20
   n17 --> n7
+  n18 --> n1
   n19 --> n16
   n20 --> n17
   n20 --> n4

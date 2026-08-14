@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU]
 confidence: high
 ---
 
@@ -65,6 +65,26 @@ retrieve, and the boat work.
   weedless is a **short, pinpoint cast** to the stringers you can see.
 - **Lead-head swimbait deeper:** sink the same class of bait **70 to 80 feet down
   for calicos** over structure — fish holding up and feeding will rise to meet it.
+- **Pitch-and-sink at the kelp base:** pitch a **1 oz black/gold jig** (a leadhead
+  the source calls a "hook up bait" — brand name not confirmed) right at the base
+  of the kelp line and **let it sink straight to the bottom**; the bite typically
+  comes on that sink. Run **25 lb fluoro** leader for this pitch presentation —
+  notably lighter than the 60 lb fluoro logged above, kept side by side as a
+  second data point rather than reconciled (Dave Hansen, Your Saltwater Guide,
+  `KTsXdQXAnkU`, 2019-06-05; registered voice, single mention — medium
+  confidence).
+
+## Fighting fish out of the kelp (Dave Hansen, Your Saltwater Guide)
+
+Once bit, **set the hook and then wind — never pump the rod.** A continuous,
+steady grind on the reel keeps constant pressure on the fish; pumping (lift,
+drop, reel down) gives slack on every drop that a hooked calico uses to dive
+back into the kelp. This fighting rule is presented as applying broadly to
+calico on any gear, not just this jig presentation (Dave Hansen, Your
+Saltwater Guide, `KTsXdQXAnkU`, 2019-06-05). This repeats the same
+grind-don't-pump doctrine Hansen teaches for calico out of shallow rock in
+[chunking](../techniques/chunking.md) — repeated doctrine from a registered
+voice, high confidence.
 
 ## Boat work — covering water (Erik Landesfeind)
 
@@ -140,6 +160,7 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Chunking](chunking.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

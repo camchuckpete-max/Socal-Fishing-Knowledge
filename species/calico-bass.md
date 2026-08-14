@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU]
 confidence: high
 ---
 
@@ -119,6 +119,14 @@ present the outside stringers.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).
+
+## Handling & release
+
+- **Grab them by the lower lip** to control the fish for hook removal.
+- Before releasing, **rub your hands together to build a light lather/foam,
+  then rinse the fish off** before it goes back — a slime-coat step ahead of
+  release (Dave Hansen, Your Saltwater Guide, `KTsXdQXAnkU`, 2019-06-05;
+  registered voice, single mention — medium confidence).
 
 <!-- backlinks:start -->
 ## Linked from
