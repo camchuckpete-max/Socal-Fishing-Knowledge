@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g]
 confidence: medium
 ---
 
@@ -70,6 +70,14 @@ question (see **Doctrine & conflicts**).
   (flagged stub).
 - **Terminal:** heavy leader / [wind-on leader](../rigging/wind-on-leader.md) for
   the bill and the abrasion; class terms in [gear classes](../tackle/gear-classes.md).
+  **Observed** (StokedOnFishing, 2019-10-21, region unconfirmed; species and
+  reel type per the video title only, not confirmed in the on-water
+  audio/captions): a marlin was landed after an extended fight ("I'm running
+  out of line," 00:03:03) and the leader is shown on camera with the crew
+  calling **40-pound test** (00:03:39–00:04:35) — lighter than the "heavy
+  leader" default above. The title credits the fight to a baitcasting reel,
+  but no reel/rod detail is audible or captioned, so that detail is not
+  carried as a verified fact here.
 
 ## Doctrine & conflicts
 
