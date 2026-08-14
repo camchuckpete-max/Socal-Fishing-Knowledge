@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0]
 confidence: high
 ---
 
@@ -53,7 +53,10 @@ you see a handful (E4vKwRaRueA).
   **bait ball packed under the kelp** and fish arcs shadowing it. A live paddy
   reads as loaded with life; a dead one is bare. Test fast: throw a **Mad Scad
   from the tower** — if a fish (usually a dorado) chases it out, they're home; if
-  nothing shows, move to the next paddy (VgpgJ8IAyJo). General method:
+  nothing shows, move to the next paddy (VgpgJ8IAyJo). If there's no surface
+  activity to look at, check the fathometer for **boomerang-shaped arcs around
+  90–120 ft**, and give the paddy about a minute or two before ruling it dead
+  (Your Saltwater Guide / Dave Hansen, ZFqe49jRgA0, 2019-05-26). General method:
   [electronics & sounder](../planning/electronics-and-sounder.md).
   **Observed** (Your Saltwater Guide / Dave Hansen, 2018-10-15, location not
   stated): a paddy with fish already boiling and jumping on the surface

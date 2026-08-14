@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, cameron]
 confidence: high
 ---
 
@@ -117,7 +117,11 @@ of water state. Kept side by side with the corpus
     **150–300 ft** band; the fish stack on the up-current face of the high spot
     (vqsD0qpwcJA / Jtf-bU4aM-c).
   - **Paddy yellows** don't meter deep — check the paddy fast (look, one bait,
-    sonar under the kelp) and move if it's dry.
+    sonar under the kelp) and move if it's dry. On the meter, look for
+    **boomerang-shaped arcs around 90–120 ft** below a paddy that shows no
+    surface activity; give it about a minute or two before writing it off
+    (Your Saltwater Guide / Dave Hansen, ZFqe49jRgA0, 2019-05-26; general
+    paddy-check discipline in [kelp paddies](../conditions/kelp-paddies.md)).
   - **Hard bottom only, never mud.** Structure yellows sit exclusively on
     hard/rocky bottom — "they're not going to be [out] in the mud... they're
     always going to be on the hard bottom" — so read the bottom-hardness cue

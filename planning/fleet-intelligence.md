@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [vhf, radio, fleet-intelligence, ais]
-sources: [9hEa3sGTh40, cameron]
+sources: [9hEa3sGTh40, ZFqe49jRgA0, cameron]
 confidence: medium
 ---
 
@@ -46,6 +46,24 @@ there themselves.
 research and your own sign over an unsolicited "hot bite" call from a
 stranger.** A radio report costs the sender nothing to fake and directly
 benefits them if it works.
+
+## Visual boat-chasing costs you your own search (dave-hansen, Your Saltwater Guide, "Top 5 Offshore Fishing Tips", ZFqe49jRgA0, 2019-05-26; registered voice, single mention on this specific facet — medium confidence)
+
+The visual analog of the radio-chatter trap above: once it's grey light and
+you can start to see, the instinct is to climb up top and scan for **sport
+boats** rather than fish, then run at whichever one looks stopped. Hansen's
+worked example: both anglers on a private boat fixate on a named sport boat
+(the Ocean Odyssey), staring at it the whole run to judge whether it has
+stopped — so neither is looking left or right, and the boat drives right past
+an unnoticed kelp paddy and a spot of breezing tuna on the way, only to reach
+the sport boat just as it starts moving off the spot.
+
+**Doctrine: go fishing for fish, not for boats.** A cluster of sport boats
+parked on one spot is usually nothing more than one boat stopping and the
+others following it over — not independent confirmation that the spot beats
+the sign you drove past to get there. Even a boat that's visibly hooked up
+doesn't help you: the fish are keyed on bait falling straight off *that*
+boat's transom, not on your boat sitting 25 yards off its side.
 
 ## Cameron's fleet-tracking practices (cameron; high confidence — merge)
 

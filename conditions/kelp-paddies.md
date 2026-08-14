@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, cameron]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron]
 confidence: high
 ---
 
@@ -51,13 +51,28 @@ given paddy is fixed. Therefore **a dry paddy stays dry all day** ("5 Tips",
 
 The discipline:
 
-1. **Check fast** — a look, a pass with the sounder, one bait. Seconds to a
-   minute, not twenty.
-2. If nothing, **move to the next paddy on the line.**
-3. Paddies **restock overnight**, so a paddy that was dry yesterday can be loaded
+1. **Approach it directly — don't sneak up.** Hansen's explicit correction to
+   the sportboat-envy instinct of shutting the stereo/bait-pump off and
+   drifting in quietly: "drive right up to it like it's the dock, drive right
+   up to the edge of it." A kelp paddy isn't spooky the way structure fish
+   over a reef can be — sportboats run straight at them, drop lines, and work
+   the fish, then move on (Your Saltwater Guide / Dave Hansen, "Top 5
+   Offshore Fishing Tips", ZFqe49jRgA0, 2019-05-26).
+2. **Check fast** — look in the water for visible fish (dorado, yellowtail),
+   then check the fathometer for **boomerang-shaped arcs, typically 90–120
+   ft** down if nothing shows on the surface. Give it **about a minute, maybe
+   two** — a look, a pass with the sounder, one bait; seconds to a minute or
+   two, not twenty (ZFqe49jRgA0, 2019-05-26).
+3. If nothing, **move to the next paddy on the line.**
+4. Paddies **restock overnight**, so a paddy that was dry yesterday can be loaded
    this morning. Moon-bright nights drive **bigger redistribution** — expect more
    reshuffling after a bright night. (Paddy timing ties into the
-   [moon layer](moon.md).)
+   [moon layer](moon.md).) Hansen restates the same restock mechanism in
+   ZFqe49jRgA0 to knock down a folklore explanation: paddy bites are commonly
+   credited to "time of day" (e.g. an "afternoon bite"), but the real driver
+   is simply *when you found* an already-loaded paddy — "if the fish are on
+   it, they're on it," and a paddy sat on for hours without a bite will not
+   turn on just by waiting, because restocking only happens at night.
 
 This is why the paddy *line* matters more than any single paddy: you are playing
 a numbers game across many quick checks.
