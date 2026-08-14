@@ -38,5 +38,5 @@ considered and NOT promoted (Cameron 2026-08-12) — their content caps at
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 <!-- backlinks:end -->

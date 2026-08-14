@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0]
+tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, ftEvyfwjZFU]
 confidence: high
 ---
 
@@ -42,6 +42,33 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 
+### Tuna-foamer glide swimbait ("Mad Eel")
+
+**Capt. Dave Hansen, Your Saltwater Guide (ftEvyfwjZFU, 2021-06-08); dave-hansen
+registered voice — `high` confidence.** A different application of the same
+soft-plastic swimbait class, cast at [bluefin](../species/bluefin-tuna.md)
+foamers rather than fished over bass structure. Named on the captions as "Mad
+Eel" — **asr-uncertain**, not confidently resolved to a specific product; the
+KB separately has an unresolved reference to a Nomad "Riptide 105"/"Mad Scad"
+glide swimbait from a different promo video (see the flyline row in the
+Situations → techniques table of [bluefin tuna](../species/bluefin-tuna.md))
+that this may or may not be the same lure as — noted side by side, not
+reconciled.
+
+- **Rigging:** tied straight to the lure eye with a
+  [San Diego jam](../rigging/essential-knots.md). The video does not state a
+  leader material or weight for this specific bait — the **60 lb
+  fluorocarbon / no-swivel-no-bead / "that's how these are made"** rationale
+  in this video is given for the wing stick bait (below), not repeated for
+  the Mad Eel; kept separate rather than assumed to carry over.
+- **How to fish it:** cast into the foamer and **let it sink while keeping the
+  reel in gear** — the bait swims as it sinks, reading as an anchovy going
+  down through the water column. On the bite, **wind, don't swing** —
+  swinging pulls the bait out of the strike zone before the fish eats it
+  (named as the single biggest failure anglers make with this bait). See
+  [foamer casting](../techniques/foamer-casting.md) for the general
+  run-and-gun approach this fits into.
+
 ## How to fish it
 
 Fished [swimbaits](../techniques/swimbaits.md): rig it weedless, wind it fast and
@@ -64,11 +91,15 @@ baits and heads from the class terms above; see
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->
