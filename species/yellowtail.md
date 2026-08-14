@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ]
 confidence: high
 ---
 
@@ -401,6 +401,31 @@ typical-year mapping.
   is logged in [surface iron](../techniques/surface-iron.md), and its
   halibut and an atypical bottom-caught dorado are logged in
   [California halibut](california-halibut.md) and [dorado](dorado.md).
+  **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
+  `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; Cedros
+  Outdoor Adventures / Jose charter, explicitly picking the story up "from
+  last week" — a continuation of the `9tIp4n7q850` halibut trip above;
+  unregistered channel — medium confidence): two separate home-guard
+  yellowtail were landed this session. The first struck at **"the Calico
+  spot"** — a spot the crew ran intending to fish calico bass, see the
+  [calico bass](calico-bass.md) Cedros entry — on a **Colt Sniper**-class
+  stickbait (captions render "cold sniper," read against the established
+  Colt Sniper stickbait/jerkbait product name — ASR-uncertain; see [tuna
+  poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)) rigged
+  with only **two hooks** (one hook already removed from the stock
+  rigging); the fish struck in the shallows (guessed **5–10 lb** on the
+  strike), then held station in about **30 ft** of water before the
+  captain repositioned the boat to get it moving again, and was ultimately
+  landed in about **10 ft** of water — called a personal best on camera and
+  "never had that happen here at this island that shallow." A mid-fight
+  drag increase ("a couple more clicks") is called out on camera as "always
+  the wrong thing to do." Separately, the crew spent parts of two days
+  working to catch **giant mackerel** specifically for bait, then
+  slow-trolled that mackerel to produce a second, bigger "shallow water"
+  yellowtail fight ("you can see the bottom") landed as a **45 lb personal
+  best** — gear/hook parameters from that catch are logged in [trolling —
+  Cedros Island](../techniques/trolling.md). The same trip's wide-open
+  halibut action is logged in [California halibut](california-halibut.md).
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —
@@ -533,6 +558,7 @@ water temp and bait depth before committing the day to one face.
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [California Halibut](california-halibut.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

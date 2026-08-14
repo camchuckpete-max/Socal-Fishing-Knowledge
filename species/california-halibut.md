@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ]
 confidence: high
 ---
 
@@ -128,6 +128,20 @@ conditions that put one there.** (General search method:
   on-camera guess floated a sea lion taking it instead). A dorado hooked
   during this same bottom-fishing stretch is logged as an atypical catch in
   [dorado](dorado.md).
+- **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
+  `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; same
+  Cedros Outdoor Adventures / Jose charter as the `9tIp4n7q850` entry
+  above, explicitly picking the story up "from last week" — a continuation
+  of that trip/coverage; unregistered channel — medium confidence): a
+  further "ridiculous wide open halibut fight" produced multiple halibut
+  landed back to back, including one called "huge" on camera and another
+  referred to only as possibly "a big elephant" (ASR-uncertain, presumed
+  local slang for a big flatfish — not confidently carried as a term). No
+  weights, depths, bait, or rig detail were captured beyond the fish coming
+  up boatside. Consistent with, not a new data point beyond, the
+  exceptional-halibut-year pattern already logged for this operator/spot
+  above. The same trip's giant yellowtail catches are logged in
+  [yellowtail](yellowtail.md).
 
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head

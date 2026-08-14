@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ]
 confidence: high
 ---
 
@@ -112,6 +112,26 @@ top-shot specs live in each lure note.
   bonita, with the crew repeatedly unable to call the species until a fish
   was boatside — see [yellowtail](../species/yellowtail.md) for that
   session's narrative and the halibut/dorado results of the same trip.
+- **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
+  `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; Cedros
+  Outdoor Adventures / Jose charter, a continuation of the `9tIp4n7q850`
+  trip above; unregistered channel — medium confidence): before the troll
+  itself, the crew spent parts of two days working to catch **giant
+  mackerel** specifically for bait — hooked bait mackerel were repeatedly
+  lost to seals working them at the surface, worked around by fishing the
+  bait **deeper** rather than at the top. Landed bait was called **big,
+  fat, roughly 2 lb mackerel**, fished on a **circle hook** (brand name
+  garbled in the captions — ASR-uncertain, not carried — called a
+  "number 3"). Debriefing the resulting yellowtail catch, the angler
+  credited it to fishing **straight 80 lb line** ("that rig I caught that
+  on straight 80 on 80"), noting some in the group recommend stepping up
+  to **100 lb** for these bigger bites — consistent with, not a change to,
+  the 80–100 lb line class already logged for this location above.
+  Slow-trolling that mackerel produced a shallow-water ("you can see the
+  bottom") yellowtail fight landed as a **45 lb personal best** — see
+  [yellowtail](../species/yellowtail.md) for the full session narrative,
+  including a separate, smaller home-guard yellowtail landed the same day
+  at "the Calico spot" on a Colt Sniper-class stickbait.
 
 ## Running the spread — sweeps, not straight lines
 

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ]
 confidence: high
 ---
 
@@ -134,6 +134,17 @@ conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
 2022-02-17; unregistered channel — medium confidence). No retrieve mechanics
 beyond "cast at the boil" are given in this source; treat as a visual,
 high-action alternative to iron, not a documented distinct cadence.
+
+**Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
+`Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; captions
+render "cold sniper," read against the established Colt Sniper product name
+— ASR-uncertain; unregistered channel — medium confidence): fished at a
+spot the crew normally works for calico bass, rigged with only **two
+hooks** (one hook already removed from the stock rigging), the lure drew a
+home-guard [yellowtail](../species/yellowtail.md) estimated **5–10 lb** on
+the strike in the shallows — landed despite the reduced hook count ("it
+was just so big on two hooks"). No retrieve-cadence detail beyond the
+cast-at-the-activity approach already logged above.
 
 **Also fished as a "burn bait" for tuna, not just yellowtail (Ray Sharifi,
 Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
