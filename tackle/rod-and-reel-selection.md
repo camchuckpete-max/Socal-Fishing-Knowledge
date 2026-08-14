@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE]
 confidence: medium
 ---
 
@@ -394,6 +394,57 @@ live bait.
   on a given reel you learn what that resistance should feel like for a given
   drag number; there's no substitute for testing it by hand before you're
   tight to a fish.
+
+### A second attributed method — pull test by hand, no scale (Dave Hansen, Your Saltwater Guide, o8vLdz7OmaE, 2022-02-25; dave-hansen registered — medium confidence, first commit of these specific claims pending repetition)
+
+A different, purely feel-based way to arrive at the same target — kept side by
+side with Scotty's numeric fraction-of-line-class rule above rather than
+merged in:
+
+- **Grab the line above the reel and pull it by hand.** If it comes off too
+  easily and doesn't bite into your hand, take a couple more clicks and pull
+  again; repeat until the line comes off **steadily but not easily, without
+  cutting into your hand** — that's proper. No scale needed.
+- **Simulate the strike before you fish it:** have a second person pull hard
+  on the line like a hooked fish while you watch/feel the rod tip. If the line
+  still peels off the reel under that hard pull and it feels smooth, the drag
+  is set; if the line barely moves and the rod tip is loading up with heavy
+  torque instead, it's too tight — back off a click or two.
+- **Keep re-testing by hand through the fight**, not just at hookup: drag can
+  heat up and get sticky after a fish's initial hard run, especially
+  depending on how often the reel gets used. Periodically pull the line by
+  hand mid-fight to feel whether it's still giving smoothly; if a hard crank
+  produces no give at all, back it off a hair immediately — **a drag with no
+  give left in it will break the line every time.**
+- **Never use your thumb on the spool as a substitute drag** — called out as
+  the worst habit an angler can have.
+- Demonstrated on his own setup as an example, not a general parameter: 40 lb
+  braid to a fluorocarbon top shot (40 lb, or sometimes 30 lb).
+
+**Star drag vs. lever/two-speed drag — adjustability during the fight
+(mechanism, same source):** a star drag can be fine-tuned a click at a time
+throughout a fight, which is why Hansen prefers star drag reels generally. A
+two-speed lever-drag reel is "almost impossible" to fine-tune mid-battle
+because adjusting it means working the lever back and forth rather than a
+quick click — most anglers fish two-speed lever-drag gear regardless, so the
+workaround on a lever-drag reel is the same hand-pull re-test above rather
+than continuous lever micro-adjustment. This is about drag adjustability
+*during a fight*, not the star-drag-for-casting/free-spool reasoning
+documented elsewhere in this note (Cesar, above) — a related but separate
+argument for the same reel type.
+
+**Left-hand-forward hand position (same source):** fighting a fish on a
+conventional reel, the left hand (line-guiding hand) belongs **in front of
+(above) the reel**, cranking hand on the handle, thumb guiding line back and
+forth — never behind the reel with the thumb on the spool. Two stated
+reasons: (1) **leverage** — a hand positioned in front of the reel has more
+leverage than one braced behind it; (2) **line-guiding reach** — from behind
+the reel, the thumb can't reach over the top of the spool to guide the line
+as it lays on; a forward hand can. Framed as universal practice among
+experienced sportboat captains and professional anglers, not a SoCal-specific
+rule. The forward hand position is also what makes the hand-pull drag re-test
+above practical mid-fight — the line-guiding hand is already positioned to
+grab and pull the line.
 
 ## Resolving a class to a real rod
 
