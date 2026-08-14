@@ -1054,7 +1054,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | DTrhKKBEQyY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) salmon+halibut harpoon; sponsor-heavy intro |
 | V7AfmB9pl_I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba/Chiriqui); Inshore-labeled but out-of-region travel trap; sponsor-heavy |
 | UfuiWFVvz2E | StokedOnFishing | on-the-water | observations-only | done | lures/knife-jigs.md; species/bluefin-tuna.md; species/yellowtail.md; tackle/hooks.md; techniques/knife-jigging.md / on-the-water observations-only extraction of a Constitution/Fisherman's Landing Cort |
-| 7U4N1f0viOU | StokedOnFishing | on-the-water | observations-only | pending | Baja (Cedros) best-of recap reusing earlier Cedros trip footage/dialogue |
+| 7U4N1f0viOU | StokedOnFishing | on-the-water | observations-only | done | none / confirmed duplicate/re-cut recap footage of the already-logged Cedros Oct-trip series (Bonito Island/Chester's Rock/mackerel-bait-circle-hook content all previously captured); no new extractabl |
 | R1F66XIjf3E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba Island) yellowfin tuna; sponsor-heavy intro |
 | sHnqSIOjTdM | StokedOnFishing | on-the-water | observations-only | pending | SoCal (San Clemente Is./offshore Eldorado) yellowtail then night bluefin jig |
 | mDmbGdQAy-4 | StokedOnFishing | on-the-water | deep | pending | SoCal (Huntington Beach/Santa Barbara Is.) kite+flying-fish rig, railroading; overlaps usHl-4SfqDA footage |
