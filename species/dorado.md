@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, cameron]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron]
 confidence: high
 ---
 
@@ -55,6 +55,11 @@ you see a handful (E4vKwRaRueA).
   from the tower** — if a fish (usually a dorado) chases it out, they're home; if
   nothing shows, move to the next paddy (VgpgJ8IAyJo). General method:
   [electronics & sounder](../planning/electronics-and-sounder.md).
+  **Observed** (Your Saltwater Guide / Dave Hansen, 2018-10-15, location not
+  stated): a paddy with fish already boiling and jumping on the surface
+  before the boat closed in produced numerous dorado — a visual confirmation
+  of "loaded" surface activity ahead of working the paddy, consistent with
+  the live-vs-dead-paddy read above.
 
 ## Situations → techniques
 

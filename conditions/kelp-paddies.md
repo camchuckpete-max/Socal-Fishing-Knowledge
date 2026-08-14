@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, cameron]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, cameron]
 confidence: high
 ---
 
@@ -71,6 +71,16 @@ the paddy was loaded with hundreds of dorado plus incidental yellowtail.
 Consistent with the check-fast-then-move discipline above, but shows the
 inverse case: when a paddy visibly announces itself from a distance, the
 "check" step collapses to zero and the approach becomes drive-and-cast.
+
+**Observed** (Your Saltwater Guide / Dave Hansen, 2018-10-15, location not
+stated): an earlier trip on the same channel found a heavily loaded paddy —
+fish already boiling and jumping around it before the boat worked it — and
+Hansen voiced a rule of thumb that a paddy showing no visible surface
+activity likely holds "no fish in the ocean," i.e. a dead-looking paddy gets
+written off rather than worked cautiously. The paddy produced numerous
+dorado plus an incidental big yellowtail. Consistent with the
+check-fast-then-move discipline and the 2022-10-12 loaded-paddy observation
+above.
 
 ## Finding paddies
 
