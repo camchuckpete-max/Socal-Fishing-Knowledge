@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo]
 confidence: high
 ---
 
@@ -162,6 +162,42 @@ into the spot once the current read right.
   a fishing-technique claim. A name given on camera for a program
   founder/leader was garbled by auto-captions in two different ways and is
   omitted here rather than guessed (see extraction log for this video).
+- **Program origin & scale (Bill Shedd — HSWRI chairman, CCA California
+  chairman — StokedOnFishing, 2023-08-09, zn4n7k3iaZo; unregistered channel —
+  medium confidence).** Per Shedd, the hatchery effort traces to the **late
+  1970s**, when Milt Shedd (Bill Shedd's father) funded HSWRI and tasked a
+  then-graduate student, Don Kent, with figuring out how to raise white
+  seabass after the species had become scarce in the sport-fishing catch —
+  earlier than the "started in 1992" note above, which may instead mark when
+  the Carlsbad hatchery facility itself (vs. the research effort) came
+  online; not reconciled. The formal **OREHP — Ocean Resources Enhancement
+  (and Hatchery) Program** — followed via California legislation **in the
+  1980s**; it is a California Department of Fish and Wildlife (formerly Fish
+  and Game) program, run in partnership with HSWRI as the research/hatchery
+  arm and the sport-fishing community — United Anglers of Southern
+  California early on, now **CCA California** — organizing broodstock
+  collection and the volunteer grow-out network; the California Coastal
+  Commission and SONGS (San Onofre Nuclear Generating Station) mitigation
+  funding also factor into the program's funding history. As of this upload
+  (2023-08-09), Shedd put cumulative releases at **over 2 million, "close to
+  two and a half million"** hatchery white seabass, reared through **eight or
+  nine** volunteer grow-out facilities up and down the California coast,
+  representing an estimated **30,000–40,000+ cumulative volunteer hours**.
+- **Tag-return discrepancy — an open, unresolved data conflict (same
+  source).** Program critics (some within CDFW, some outside the program)
+  point to **less than 1% of tested adult wild-caught white seabass carrying
+  a tag** as evidence the hatchery hasn't meaningfully supplemented the wild
+  population. Shedd and program supporters counter that the state's
+  **gillnet survey** of juvenile (sub-legal-size) white seabass repeatedly
+  finds **double-digit percentages** of hatchery-origin fish — hard to square
+  with adult returns falling under 1%. The standing theory offered for the
+  gap is that the tag (described as "as big as a flea") works loose or loses
+  its magnetization with age. New genetic-marker studies, results pending at
+  the time of this video (expected "within the next few months" of
+  2023-08-09), aim to resolve the discrepancy; Shedd's stated expectation on
+  camera is that they will show a materially higher hatchery-fish percentage
+  in the wild population than the sub-1% figure. Not a settled fact as of
+  this video — kept here as attributed program claims, not fishing doctrine.
 - **Hook-style/gut-hook tension, kept side by side (same source).** The crew
   described the popular dropper-loop rig strung with an Ahi twist (J-style)
   hook as prone to gut-hooking fish, and used it as the reason they prefer
