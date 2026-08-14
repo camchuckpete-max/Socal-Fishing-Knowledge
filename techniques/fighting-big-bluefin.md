@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg]
 confidence: medium
 ---
 
@@ -98,6 +98,26 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   is described in either fight — kept beside the boat-driven doctrine above
   as additional hand-fought, region-labeled data points, not a
   reconciliation of it.
+
+- **Observed** (StokedOnFishing, 2019-02-18, East Cape, Sea of Cortez, Baja
+  California Sur, fishing waters near Cabo (exact locality not resolved on
+  camera — asr-uncertain) — Hotel Buena Vista Beach Resort trip, `_c6UI3lGBVg`,
+  "Non-Stop Tuna And Dorado Part 2"; final wrap-up day of the same 2018 Fiesta
+  series as the `84XPJAeH0Rw` and `GptrotE0x5M` entries above; unregistered
+  channel — medium confidence). Fishing **less than 2 mi off shore in 52 ft**
+  of water. Two fight-specific notes from this session: a **teamwork hand-off**
+  tip — live coaching mid-fight framed as a standing lesson: on a big tuna,
+  don't hesitate to hand the rod to a teammate rather than keep fighting
+  fatigued ("if you have to hand off, hand off... don't screw around with
+  that, these fish are big and they beat you down"); no boat-driving or drag
+  spec is given alongside it. Separately, a **small (sardine-bait-sized) hook
+  pulled out of a big tuna mid-fight** — framed on camera as a known risk with
+  small hooks on big fish ("you're not sure where it's at"), given as the
+  reason the crew kept steering anglers back toward a circle hook; a later
+  fish that day was landed successfully **on a circle hook**. That day's
+  grade across the boat ran **50–70 lb class**. Kept beside, not reconciled
+  with, the boat-driven doctrine above — another hand-fought, region-labeled
+  data point from the same East Cape series.
 
 ## The end-of-fight head-shake
 

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, cameron]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron]
 confidence: high
 ---
 
@@ -131,6 +131,22 @@ the bluefin nearby become more cooperative too.**
   a grade data point for East Cape, Baja, distinct from the SoCal grade
   range in this note's opening summary; not a SoCal claim. See the
   hand-fought fight technique from the same day in
+  [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+- **Observed** (StokedOnFishing, 2019-02-18, East Cape, Sea of Cortez, Baja
+  California Sur, waters near Cabo (exact locality not resolved on camera —
+  asr-uncertain) — Hotel Buena Vista Beach Resort trip, `_c6UI3lGBVg`,
+  "Non-Stop Tuna And Dorado Part 2"; final wrap-up day of the same Fiesta trip
+  as the `GptrotE0x5M` entry above; unregistered channel — medium
+  confidence): fishing **less than 2 mi off shore in 52 ft** of water. An
+  on-camera interview voice (not diarized, attribution unresolved) called the
+  tuna bite there **"consistent all year round... along the coast,"** with
+  fish moving between locations through the year — a Baja/East Cape
+  seasonality claim, region-labeled and not merged into the SoCal
+  water-regime calendar above. That day's grade across the boat ran
+  **50–70 lb class**, consistent with the 72/63/63 lb weigh-in from the same
+  Fiesta trip logged above. See the paired fight-technique data (teamwork
+  hand-off tip; a small sardine-sized hook pulling from a big fish) from this
+  same session in
   [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
 
 <!-- backlinks:start -->
