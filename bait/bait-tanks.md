@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, cameron, L_FD-UzvEio]
+tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, BdRX4b8Fo5w, cameron, L_FD-UzvEio]
 confidence: medium
 ---
 
@@ -31,6 +31,15 @@ circular-flow tank is strongly preferred for SoCal live-bait fishing** (1QWstxUi
 The takeaways: **round/oval, not square**; **circular flow, not a center
 standpipe**; keep the **whole column turning**; and set the drain so the bait
 isn't fighting to stay off a screen.
+
+**Placement and sizing (dave-hansen, Your Saltwater Guide, BdRX4b8Fo5w,
+2021-02-04; registered voice — corroborates the round/oval shape above, now
+repeated doctrine):** put the tank **dead center in the middle of the deck**
+so every angler on board has equal access to it, not tucked to one rail. Size
+it as big as the boat can carry — on a sportboat "the whole back of the boat
+is bait tank." The reason: tank capacity is what lets everyone keep changing
+bait as often as the bite demands (see the bait-changing cadence in
+[fishing live bait](fishing-live-bait.md)) without running out mid-day.
 
 ## Sizing flow to volume (GPH-to-gallons)
 
@@ -124,6 +133,7 @@ see [making bait](making-bait.md).
 
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
+- [Chunking](../techniques/chunking.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Making Bait](making-bait.md)
 <!-- backlinks:end -->

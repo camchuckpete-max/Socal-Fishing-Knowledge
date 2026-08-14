@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE]
+tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w]
 confidence: medium
 ---
 
@@ -181,6 +181,18 @@ when to reach for each position by water column.
   it hits the water — swimming away, not sitting by the boat — **wind it in, flick
   it off, and grab a fresh one.** "We're not marrying these baits, we're speed
   dating" (SluBXkT3cuw, 8YvmROeVL-0).
+- **Related cadence claim (dave-hansen, Your Saltwater Guide, BdRX4b8Fo5w,
+  2021-02-04; registered voice, single mention — medium confidence):** stated
+  flatly as "change your bait every minute," on top of chumming, as one of the
+  two most important things when live-bait fishing — offshore for tuna or
+  inshore for calico bass alike. This is a distinct claim from the 60-second
+  rule above (a fixed cadence vs. swap-only-when-unproductive) and hasn't yet
+  repeated elsewhere in the corpus, so it stands beside the 60-second rule
+  rather than corroborating it. Worked example from his own boat: **six
+  anglers plus the captain (seven people fishing)** go through bait fast
+  enough at a one-a-minute cadence that the boat runs out of bait on many
+  days — the reason for running as big a [bait tank](bait-tanks.md) as the
+  boat will carry.
 
 ## Hook size and style
 
@@ -242,6 +254,7 @@ clips above.)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Chunking](../techniques/chunking.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Flyline](../techniques/flyline.md)

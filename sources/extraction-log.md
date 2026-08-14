@@ -868,7 +868,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | wzI0lpgKT1U | Your Saltwater Guide | tutorial | deep | done | techniques/yo-yo-iron.md: Added Dave Hansen's crank-and-drop yo-yo cadence (10-crank cast-and-retrieve; 5-6-crank straight up-and-down with depth bands; bite-on-the-drop) as attributed conflict beside |
 | kr-DZP7OVmg | Your Saltwater Guide | tutorial | skip:duplicate-of-4xzK7YaXK5s | skipped | same recording as BD id already extracted in batch 1 (sweep sim 0.814) |
 | e5qGRAzwEWQ | Your Saltwater Guide | promo | skip:promo | skipped | Subscription pitch for yoursaltwaterguide.com throughout; no standalone technique content |
-| BdRX4b8Fo5w | Your Saltwater Guide | tutorial | parameter-skim | pending | Bait tank: round/oval shape, center of deck, change bait every minute, prey-density concept; SoCal |
+| BdRX4b8Fo5w | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md; bait/fishing-live-bait.md; techniques/chunking.md: Added bait tank placement/shape, bait-changing cadence claim (medium confidence), and generalized prey-density mechanism beyond a |
 | dgauGbNxP84 | Your Saltwater Guide | on-the-water | parameter-skim | pending | Trolling a current break back-and-forth holds fish; Cabo San Lucas region |
 | ll7r4A6atno | Your Saltwater Guide | tutorial | parameter-skim | pending | Title says dorado, content is sierra: hoochie+wire rig, AM/sunset bite, dirty-water cue; Cabo |
 | OSbAHdB4uPs | Your Saltwater Guide | tutorial | deep | pending | CA sheephead: #2/#4 bronze hook, quarter-half oz slider, suspend bait off bottom, pismo clam/mussel bait |

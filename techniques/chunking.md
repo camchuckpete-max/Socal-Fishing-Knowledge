@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w]
 confidence: high
 ---
 
@@ -96,6 +96,17 @@ framing and the extended catch list below are this video's own addition
   catching sargo up to **5–6 lb**, big white seabass, big sheephead, and
   calico bass this way, and even yellowtail off an artificial reef using this
   exact chum method.
+- **Generalized beyond artificial reefs (dave-hansen, Your Saltwater Guide,
+  BdRX4b8Fo5w, 2021-02-04; registered voice — repeated doctrine, high):**
+  the same prey-density mechanism stated as a general SoCal principle, not
+  reef-specific — "increase the prey density level in the water" by feeding
+  the fish what they want, and **fish that don't even want to eat will feed**
+  because they don't know when the next food is coming (framed as the boat
+  itself being a "lunch truck"). Applied to **offshore tuna fishing and
+  inshore calico bass fishing alike**. The mechanism pairs with a big
+  [bait tank](../bait/bait-tanks.md) and a fast bait-changing cadence (see
+  [fishing live bait](../bait/fishing-live-bait.md)) — density comes from
+  chum, changed baits, and hooked fish all going into the water together.
 
 ## Light-line finesse rig — pressured, shallow reef fish (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; registered voice, single mention — medium confidence)
 
@@ -136,8 +147,10 @@ scaling everything down is what turns bites on:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait Tanks](../bait/bait-tanks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 <!-- backlinks:end -->
