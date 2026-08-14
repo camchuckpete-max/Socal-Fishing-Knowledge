@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw]
 confidence: high
 ---
 
@@ -107,6 +107,28 @@ above.
   for locating floating kelp even when they aren't marking gamefish. See
   [bird reading](bird-reading.md) for the full bird model, corpus + Cameron
   side by side.
+
+**Observed** (StokedOnFishing, 2022-10-13, offshore SoCal — ran south out of
+an unproductive overnight bluefin push into warmer water before finding the
+paddy bite, exact location not stated — `VWClGAn2WEw`, "Offshore Kelp Paddy
+Fishing On the ElDorado," a 2.5-day El Dorado charter out of Long Beach
+Sportfishing; presenter-inferred narration, unregistered channel — medium
+confidence): once in the right water, **the school is not sitting directly
+under the paddy** — the drift has to be set up so the boat's current carries
+onto the fish, not just onto the visible kelp. The stated method is
+electronics-first (mark the school on the sounder), then position the boat so
+the drift will carry to it — sometimes the school drifts to the boat, other
+times the boat has to work toward the school; it varies drift to drift.
+Electronics were framed explicitly as "a good aid," not sufficient alone —
+reading conditions/current to predict the drift, plus **eyeballs**, still
+carried the search; more lookouts on deck (any crew member, not only the
+captain) covering the boat's full 360° span was called out as valuable on its
+own. What the crew glassed for: splashes/breaking surface, "**work birds**"
+(birds cycling up and down, picking bait or hovering over fish — a generic
+term, no species specified), and the paddy's own **discoloration spot** on
+the water — normally a visible brown patch, but under overcast skies the
+same paddy shows only as a plain dark spot rather than "bright, brown, and
+pretty."
 
 ## Links
 

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw]
 confidence: high
 ---
 
@@ -115,7 +115,12 @@ typical-year mapping.
   the season. **Observed** (Your Saltwater Guide / Dave Hansen, 2018-10-15,
   location not stated): an earlier example of the same pattern — a big
   yellowtail also boated alongside a heavy dorado bite on a loaded kelp
-  paddy.
+  paddy. **Observed** (StokedOnFishing, 2022-10-13, offshore SoCal —
+  `VWClGAn2WEw`, "Offshore Kelp Paddy Fishing On the ElDorado"; unregistered
+  channel — medium confidence): a further same-fall 2022 example — two
+  offshore paddy yellowtail were landed alongside a heavy dorado bite on this
+  2.5-day trip, one of them on **20 lb** line, with the crew noting they
+  "got to go light on these sometimes" for paddy yellows.
 - **Baja coast** — the coastal structure, islands, and ridges between the
   border and BOLA carry yellowtail more or less year-round, grade improving
   south (cameron; thin in the current corpus — expect this entry to grow with

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw]
 confidence: high
 ---
 
@@ -33,6 +33,20 @@ you see a handful (E4vKwRaRueA).
   invasion of the Southern California coastline"** — a broad, non-location-
   specific corroboration of 2022 as a strong dorado year, sitting alongside
   the loaded-paddy observation above from the same fall.
+  **Observed** (StokedOnFishing, 2022-10-13 upload, offshore SoCal — ran
+  south from an unproductive overnight bluefin push into warmer water before
+  finding the bite, exact location not stated — `VWClGAn2WEw`, "Offshore
+  Kelp Paddy Fishing On the ElDorado," a 2.5-day El Dorado charter out of
+  Long Beach Sportfishing; unregistered channel — medium confidence): after
+  bluefin refused to bite overnight and into the next morning ("stubborn
+  bluefin tuna that did not want to play"), the crew ran south into warmer
+  water and found a loaded kelp-paddy bite instead — day one alone produced
+  on the order of **60-plus dorado** (heard on camera as "66," phrasing
+  garbled — ASR-uncertain count), 2 good-sized yellowtail, and a marlin; day
+  two continued as a "hot and heavy" dorado bite. Another same-fall 2022 data
+  point for the dorado program, and a concrete plan-B pivot: when an overnight
+  bluefin push goes cold, running toward warmer water to find the paddy
+  program is a documented fallback on this trip.
 - **Where:** **~15 mi off San Diego** is the typical big-concentration zone
   (E4vKwRaRueA); by the late warm-stable phase (typically September) they're in
   **open-water schools below/backside Catalina** (5to3Q5P7w90). The primary structure is
@@ -189,6 +203,16 @@ live mackerel** — see the live-mackerel slow-troll entry in
 companion yellowtail episode of this same trip; no independent dorado
 hookup on the troll was captured in this video's footage. Unregistered
 channel, sponsor-heavy intro — medium confidence.
+
+**Observed** (StokedOnFishing, 2022-10-13, offshore SoCal — `VWClGAn2WEw`):
+after a run of consecutive dorado hookups on the same leader, the crew
+described dorado's teeth and gill plates as prone to chafing/fraying the
+leader over repeated fights and passes near the boat — the stated practice
+was to cut back a foot or two of leader and re-tie before the next bait,
+checking for chafe damage each time rather than fishing the same leader
+section through many fish in a row. A leader-maintenance parameter, not a
+rigging change — sits alongside the 20–40 lb stepped-leader doctrine in the
+gear summary below.
 
 ## Gear summary (class terms)
 
