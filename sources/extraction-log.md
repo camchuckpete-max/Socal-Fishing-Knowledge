@@ -918,7 +918,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 06lxuie5cZQ | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md / added a second, distinct mono-to-fluoro connection knot + tag-trim/tag-loop judgment to the Seaguar-knot entry, medium confidence, unregistered channel / flags: asr-uncert |
 | Jvv6DMNIHbE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | CA lake threadfin-shad/striper bass fishing, freshwater; series: Bass Fishing Live Shad part 1 |
 | 6-mi3Qxn37c | StokedOnFishing | on-the-water | observations-only | done | species/spotted-bay-bass.md; techniques/swimbaits.md / Added tide-preference Observed block to spotted-bay-bass.md and a detailed Alabama-rig gear/presentation Observed block to swimbaits.md (unregist |
-| 2gHRrR3D8rY | StokedOnFishing | tutorial | parameter-skim | pending | Halibut filleting walkthrough: spine-follow cut, skin removal, ice-saltwater soak trick; region unstated |
+| 2gHRrR3D8rY | StokedOnFishing | tutorial | parameter-skim | done | fish-care/dorado-and-general.md: halibut filleting storage/icing parameters merged as attributed source; spine-follow/skin-removal mechanics skipped as generic |
 | rJ-Omw4Ob74 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Halibut rig setup explicitly filmed in Alaska |
 | wALN3RpsSxU | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Anchor-retrieval buoy hack explicitly filmed in Alaska |
 | H-vIGWPIPVc | StokedOnFishing | on-the-water | parameter-skim | pending | San Clemente Island SoCal yellowfin/bonita catch-clean-cook; gill-bleed tip; sponsor-heavy intro |

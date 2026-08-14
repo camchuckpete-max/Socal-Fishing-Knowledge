@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [dorado, mahi, fish-care, slurry, icing]
-sources: [E4vKwRaRueA]
+sources: [E4vKwRaRueA, 2gHRrR3D8rY]
 confidence: medium
 ---
 
@@ -41,6 +41,29 @@ These apply whether or not the species gets bled:
 - **Don't drown fish in fresh water.** Do not soak or rinse the catch in fresh
   water — it degrades color and flesh. Keep the fish in cold salt slurry or on
   ice, not swimming in freshwater melt.
+
+## Fillet handling & storage (all species)
+
+Once a fish is filleted, the same cold-chain discipline continues past the cut
+(source: [halibut filleting walkthrough](https://www.youtube.com/watch?v=2gHRrR3D8rY),
+StokedOnFishing, 2019-06-06):
+
+- **Ice-saltwater soak.** Drop fresh fillets straight into a bucket of saltwater
+  with ice added, and let them soak before bagging.
+- **Rinse in salt water only, never fresh** — same rule as the whole-fish
+  handling above; fresh water degrades the meat.
+- **Dry before freezing.** Let the fillets drip, then pat them dry before
+  bagging — less residual water in the bag means the fillet holds up better in
+  the freezer.
+- **Water-displacement bagging (no vacuum sealer needed).** Fill a zip-top bag
+  most of the way, leave a small opening, and slowly submerge it in a bucket of
+  water; the water pressure pushes the air out through the opening, which you
+  seal just before the bag goes fully under — a near-vacuum seal without a
+  machine.
+- **Storage windows:** refrigerated fillets are good for about **3 days**;
+  vacuum-sealed and frozen, **1–3 months** before quality starts to drop;
+  frozen in a plain ziplock bag (not vacuum-sealed), roughly **1 week to 1
+  month**.
 
 ## Related
 
