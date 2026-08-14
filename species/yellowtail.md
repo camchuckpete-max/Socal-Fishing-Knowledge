@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM]
 confidence: high
 ---
 
@@ -149,6 +149,25 @@ typical-year mapping.
   [calico bass](calico-bass.md) La Bocana entry), but the crew stayed on
   surface iron for the yellows. No weights given. Unregistered channel —
   medium confidence.
+- **La Paz, Baja California Sur (Sea of Cortez side)** — a distinct region
+  from the Pacific-side La Bocana/Cedros entries above and below.
+  **Observed** (StokedOnFishing, 2023-10-25 upload, La Paz, Baja California
+  Sur — Baja Rancheros fishing fleet, guides Pedro (fleet captain, day's
+  plan) and Sergio (local, ran the troll) — `ORC1A68cEeM`, "Stoked on La
+  Paz: World-Class Fishing"; StokedOnFishing's first trip to La Paz;
+  unregistered channel — medium confidence): Pedro's morning plan named the
+  target as "Carell" on camera — read here as **jurel**, the local/Spanish
+  name for yellowtail (**asr-uncertain**, not independently confirmed) —
+  fished alongside cabrilla, which was reported running well but not
+  targeted with any captured technique detail in this footage. The crew
+  worked a **shallow-water live-bait slow-troll** (12 ft of water over rock
+  structure, 40 lb line, circle hooks) producing multiple hookups including
+  doubles close to **30 lb** — full mechanics, gear, and the crew's own
+  shallow-water lost-fish assessment are logged in
+  [trolling](../techniques/trolling.md#la-paz-baja-california-sur-sea-of-cortez-side--shallow-water-live-bait-slow-troll-for-jurelyellowtail)
+  rather than repeated here, per the router/execution split. Bait for the day
+  (green mackerel plus purchased sardines) is logged in
+  [making bait](../bait/making-bait.md#la-paz-baja-california-sur--mackerel-and-sardine-bait).
 - **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips
@@ -576,6 +595,7 @@ water temp and bait depth before committing the day to one face.
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Making Bait](../bait/making-bait.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

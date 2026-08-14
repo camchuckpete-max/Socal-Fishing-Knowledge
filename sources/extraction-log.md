@@ -1032,7 +1032,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Zo92MG459gQ | StokedOnFishing | on-the-water | observations-only | done | lures/tuna-poppers-and-stickbaits.md; species/calico-bass.md; species/california-halibut.md; species/yellowtail.md; techniques/trolling.md / on-the-water continuation of 9tIp4n7q850: Cedros home-guard |
 | zn4n7k3iaZo | StokedOnFishing | seminar | parameter-skim | done | species/white-seabass.md / Added Bill Shedd (HSWRI/CCA Cal chairman) interview: OREHP program origin, 2M+ cumulative releases/eight-nine grow-out facilities, and the unresolved tag-return-vs-gillnet-s |
 | xFS3MW4GpDU | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; rigging/leadhead-mods.md; species/white-seabass.md / on-the-water/parameter-skim: broodstock program depth ceiling (<60ft/40ft typical, air-bladder sensitivity), May/June migration |
-| ORC1A68cEeM | StokedOnFishing | on-the-water | observations-only | pending | La Paz Baja first-time trip, yellowtail/cabrilla, bait-making routine noted |
+| ORC1A68cEeM | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/yellowtail.md; techniques/trolling.md / La Paz, BCS observations: guide-led bait-making (mackerel jigging + purchased sardines) and shallow-water (12ft) live-bait slow-tro |
 | qM7iOO7fOBw | StokedOnFishing | on-the-water | observations-only | pending | La Paz Baja charter, dorado/yellowtail/pargo/grouper, fly-lined mackerel |
 | 92y14x33etQ | StokedOnFishing | on-the-water | observations-only | pending | La Paz Baja, Espiritu Santo island snapper/grouper on live bait |
 | haJ3BancQDI | StokedOnFishing | promo | skip:promo | skipped | Short Okuma Alijos lever-drag reel product highlight clip |

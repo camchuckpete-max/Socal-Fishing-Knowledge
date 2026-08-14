@@ -124,6 +124,28 @@ instead:
 Both configurations trade hook count for line/hook durability rather than
 running the lightest possible sabiki.
 
+## La Paz, Baja California Sur — mackerel and sardine bait
+
+**Observed** (StokedOnFishing, 2023-10-25 upload, La Paz, Baja California
+Sur — Baja Rancheros fishing fleet — `ORC1A68cEeM`, "Stoked on La Paz:
+World-Class Fishing"; StokedOnFishing's first trip to La Paz; unregistered
+channel — medium confidence; region: Baja, La Paz/Sea of Cortez side): the
+day's bait-making ran as a two-species program before running to the day's
+[jurel/yellowtail slow-troll spot](../techniques/trolling.md#la-paz-baja-california-sur-sea-of-cortez-side--shallow-water-live-bait-slow-troll-for-jurelyellowtail):
+
+- **Green mackerel, jigged around floating structure** described on
+  camera as "containers" (rig not specified on camera — not confirmed as a
+  sabiki) — the guide's target was **20–40 mackerel per boat**. On this
+  outing the crew fell short of that target, landing roughly a dozen.
+- **Sardines bought from local vendors** ("sardinas from the locals") rather
+  than caught, used both **as chum** and **as light bait** in their own
+  right — a buy-don't-make path for the second bait species, run alongside
+  the self-caught mackerel rather than instead of it.
+
+No sabiki hook count, line rating, or sinker weight was given on camera for
+the mackerel jigging — logged as a location/routine data point, not a rig
+spec.
+
 ## Dedicated sabiki setup (building)
 
 **Open item (attributed to Cameron, not doctrine):** he's building an
@@ -154,4 +176,6 @@ shortages, where the barge isn't an option.
 - [Bait Tanks](bait-tanks.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
+- [Trolling](../techniques/trolling.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

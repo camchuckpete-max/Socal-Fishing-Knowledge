@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM]
 confidence: high
 ---
 
@@ -425,6 +425,61 @@ bank fished that day was not named on camera). The trip's final day
 returned to the estuary instead of another offshore run, for a multi-fish
 snook bite (kept for the table).
 
+## La Paz, Baja California Sur (Sea of Cortez side) — shallow-water live-bait slow-troll for jurel/yellowtail
+
+**Observed** (StokedOnFishing, 2023-10-25 upload, La Paz, Baja California
+Sur — Baja Rancheros fishing fleet, guides Pedro (fleet captain, day's plan)
+and Sergio (local, ran the troll) — `ORC1A68cEeM`, "Stoked on La Paz:
+World-Class Fishing"; StokedOnFishing's first trip to La Paz; unregistered
+channel — medium confidence; region: Baja, La Paz/Sea of Cortez side,
+distinct from the Pacific-side Cedros/La Bocana slow-troll entries above):
+the fleet's guide, Pedro, framed the day's plan as chasing what the
+captions render as "Carell" — read here as **jurel**, the local/Spanish name
+for yellowtail (**asr-uncertain**, not independently confirmed on camera; per
+CLAUDE.md's ASR-hazard rule this is flagged rather than silently assumed) —
+alongside [cabrilla](../tackle/hooks.md#baja-sea-of-cortez-sizing), both
+reported as "running pretty well the last few days." No cabrilla-specific
+technique, hook, or leader detail was captured in this footage — the on-camera
+program that follows is entirely the jurel/yellowtail troll.
+
+- **Bait first.** The morning started with making bait — see the
+  [making bait](../bait/making-bait.md#la-paz-baja-california-sur--mackerel-and-sardine-bait)
+  La Paz entry for the mackerel/sardine routine — before running to the day's
+  spot with a different, local guide (Sergio).
+- **Gear and ritual.** Guide Sergio's crew fished **40 lb** line and, before
+  starting the troll, had every angler **test their drag** at the captain's
+  prompt — called out on camera as a standard first step ("this style of
+  fishing always ask the captain to test your drags, numero uno"). Baits were
+  fished on **circle hooks**.
+  - **Hookset mechanics:** rather than the no-strike/wind-tight circle-hook
+    doctrine already logged for the Cedros slow-troll above, this crew's
+    stated method was to give a biting fish a **3-second count ("1, 2, 3")**
+    before putting the reel in gear — a distinct, explicitly-counted variant
+    of the same circle-hook philosophy (let the fish load the hook before
+    committing), kept side by side rather than merged with the Cedros
+    phrasing since the two crews described the pause differently.
+- **Depth and structure.** The troll started in water called out on camera as
+  just **12 ft** deep, working close to visible rock structure — noticeably
+  shallower than the 28–40 ft resident-structure depths logged for the
+  Cedros slow-troll entries above. Hooked fish repeatedly ran back toward
+  the rocks mid-fight, and one fish's initial run put it "in the grass"
+  (kelp/weed) rather than open water.
+- **Grade and bait match.** Multiple hookups are described on camera as
+  **"doubles" close to 30 lb**, including one fish called **25–30 lb, a
+  "30 pounder"** — bait for that fish is **asr-uncertain**: one angler
+  asks on camera "was that on a sardine?" and the reply is heard as "...a
+  big mac, that was a mac, yeah," which reads more as **mackerel**
+  answering the sardine question than confirming it — logged as an open
+  question rather than asserted either way.
+- **Closing assessment (guide-crew consensus, not a technique parameter):**
+  the trip wrapped with the on-camera line "you win some and you lose more
+  when you're fishing shallow water yellowtail" — a lost-fish/break-off rate
+  observation tied specifically to the shallow, rock-adjacent structure this
+  crew fished, not a claim about shallow-water yellowtail fishing generally.
+
+See the [yellowtail](../species/yellowtail.md) Baja coast entry for the
+species-level cross-reference to this same trip.
+
 ## Resetting a long-set-back line after kelp — a drill-powered crank
 
 **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
@@ -468,6 +523,7 @@ long-setback trolling programs, not as a doctrine-level gear requirement.
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Mad Mac](../lures/mad-mac.md)
+- [Making Bait](../bait/making-bait.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
