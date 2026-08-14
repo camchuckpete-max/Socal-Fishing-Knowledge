@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU]
 confidence: high
 ---
 
@@ -27,6 +27,12 @@ you see a handful (E4vKwRaRueA).
   stated): an oversized kelp paddy (described as "as big as the boat") held
   hundreds of dorado plus incidental yellowtail well into October — consistent
   with the fall paddy program still producing after the July–August peak.
+  **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal coastline, exact
+  location not stated — `e73wPONTOJU`; unregistered channel — medium
+  confidence): closing narration called fall 2022 **"a straight out Dorado
+  invasion of the Southern California coastline"** — a broad, non-location-
+  specific corroboration of 2022 as a strong dorado year, sitting alongside
+  the loaded-paddy observation above from the same fall.
 - **Where:** **~15 mi off San Diego** is the typical big-concentration zone
   (E4vKwRaRueA); by the late warm-stable phase (typically September) they're in
   **open-water schools below/backside Catalina** (5to3Q5P7w90). The primary structure is

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU]
 confidence: medium
 ---
 
@@ -185,6 +185,12 @@ isn't yet repeated doctrine).
   butt-hooked bait swims away from a tail jerk (see the hook-position
   mechanism above), so the jerk sends it swimming straight toward the fish
   instead of sitting still on the surface.
+- **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+  `e73wPONTOJU`; unregistered channel — medium confidence): casting live
+  sardines at surface-feeding bluefin schools drew a handful of bites before
+  the bait balls sank out and scattered the fish — a bluefin-foamer
+  bait-casting data point alongside the mackerel-specific edge-casting
+  mechanic above; bait, hook, and leader detail were not captured on camera.
 - **Observed** (StokedOnFishing, 2016-12-16, East Cape, Baja California Sur —
   Hotel Buena Vista Beach Resort trip, `mL4Ph7t0WcQ`): flylined **squid**
   (no weight, slow-drifted back from the boat, likened on camera to a chunk

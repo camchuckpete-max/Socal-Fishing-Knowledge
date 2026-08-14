@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU]
 confidence: medium
 ---
 
@@ -59,6 +59,17 @@ question (see **Doctrine & conflicts**).
 | **Fall, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Put the marlin jigs **on the edge where bait meets clear water**; arrive an hour before the tide change |
 | **Tailing / finning fish sighted** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live bait to the raised fish | Flyline / live-bait class | **⚠ Execution note is a flagged stub** (no corpus source yet); the pitch rod sits rigged and ready the whole troll |
 | **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (5to3Q5P7w90) |
+
+**Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+`e73wPONTOJU`; unregistered channel — medium confidence): after the crew gave
+up on the morning's bluefin bite and turned to run down toward kelp paddies
+for dorado/yellowtail, they hooked and landed a striped marlin — called on
+camera "first Marlin I've seen yet" / "first one we've got a chance to
+actually put on the boat" — the boat's first marlin of the trip. What was in
+the water at the moment of the bite is not clearly identifiable on camera
+(the audio is too garbled to confirm lure or bait), so it is not logged as a
+targeted technique; distinct from the dedicated bait-and-switch program in
+the table above.
 
 ## Gear summary (class terms)
 

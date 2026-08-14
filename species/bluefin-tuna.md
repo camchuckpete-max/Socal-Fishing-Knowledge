@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU]
 confidence: high
 ---
 
@@ -44,6 +44,17 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [Bight](../locations/bight-geography.md); fish aggregate where uphill current
   compresses along [island structure](../locations/island-structure.md) and the
   named banks in the [zone lexicon](../locations/zone-lexicon.md).
+- **Observed** (StokedOnFishing, 2022-10-06 upload, trip date not stated,
+  SoCal island zone (exact islands not named on camera) — `e73wPONTOJU`;
+  unregistered channel — medium confidence): a charter captain who has fished
+  this run since age 16 called this trip **"the most Bluefin that I've seen
+  up here between the islands... in my lifetime"** for the boat's zone. Grade
+  was mixed through the morning: a group worked over several foamers was
+  estimated **40–60 lb**, with a couple of earlier boils at the first
+  breaking school estimated bigger, **120–140 lb**. A same-fall data point
+  alongside the 76 °F soft-ceiling and break-rule observations already logged
+  below (9/14/22, 10/20/22) — this trip's exact date isn't given, so it isn't
+  pinned to those two dates, just the same fall 2022 SoCal bluefin bonanza.
 - **Observed** (StokedOnFishing, 2024-08-29 upload / trip fished mid-August
   2024, Tanner Bank, SoCal — ntQXxcH5sjI; medium confidence, unregistered
   channel): a multi-day trip out of Long Beach anchored on **Tanner Bank,

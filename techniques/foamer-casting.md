@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU]
 confidence: high
 ---
 
@@ -45,6 +45,17 @@ not named on camera), not the SoCal bluefin/yellowfin foamer program this
 note otherwise documents — logged as a side-by-side scouting-philosophy data
 point; no retrieve, lure model, or hookup detail is given beyond what's
 noted here.
+
+**Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+`e73wPONTOJU`; unregistered channel — medium confidence): working a string
+of individual bluefin foamers rather than one big school — get in front of a
+spot, the school sinks out before or as the boat arrives, move on to the
+next spot that's popped up — described on camera as "like playing Pac-Man
+and asteroids and a little pinball machine." The fish were keyed on **baby
+anchovies about two to three inches in length**. Corroborates the short-lived,
+move-fast-between-schools framing above (budget ~2–3 casts per school) and the
+tiny-anchovy downsizing note in [bluefin tuna](../species/bluefin-tuna.md)
+rather than adding a new mechanism.
 
 ## Foamer taxonomy — which foamers to spend casts on
 

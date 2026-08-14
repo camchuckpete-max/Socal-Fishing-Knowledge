@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU]
 confidence: high
 ---
 
@@ -118,6 +118,19 @@ stay over fish), and the calm-day school-grade spread does the rest.
   trolling *under the kite*; the Mad Mac row's ~8 kt triggers speed-trolling
   *once the kite won't fly*) — kept side by side as a second framework, not a
   correction.
+- **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+  `e73wPONTOJU`; unregistered channel — medium confidence): on a morning the
+  crew called "not happening" for bluefin, the boat threw a full spread —
+  a trolled lure heard on camera as "Mad Max" (asr-uncertain, plausibly
+  [Mad Mac](../lures/mad-mac.md)) and a spreader bar (brand heard as "Cal
+  lures" — asr-uncertain, not resolved), plus jigs and bait — and came up
+  without a bluefin bite. The crew's own framing was that they stuck with
+  the spreader bar and Mad-Mac-class lure specifically **"because that's been
+  the thing"** that season, i.e. the season's known producers, not a random
+  choice, then re-targeted dorado/yellowtail instead of continuing on
+  bluefin. A blanked-morning data point — not a contradiction of the
+  spreader-bar/Mad-Mac doctrine above, just an off morning on the lures the
+  crew judged the season's best bet.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental
