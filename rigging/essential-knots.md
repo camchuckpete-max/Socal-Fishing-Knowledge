@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8]
 confidence: medium
 ---
 
@@ -47,6 +47,18 @@ fluoro leader, braid main line — and feed the terminal rigs in
   ties the hook on his [rubber-band deep rig](rubber-band-deep-rig.md) with
   a San Diego jam rather than a Palomar for this same bite-through-the-knot
   reason — full reasoning there.
+  **Tying a Palomar over a whole rig, not just a hook (Roman Castro,
+  G6YRT4HNxr8, 2018-04-17; unregistered channel — medium confidence):** the
+  same knot also ties directly onto a bulky multi-arm harness — his example
+  is a [swimbait umbrella/A-rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro).
+  He and his fishing partner considered a uni knot for the job but he
+  suspected it might slip under a hard pull, so tied a Palomar instead,
+  confident it wouldn't. Mechanically the same tie, just passing the **entire rig** (not a
+  single hook/lure) through the big doubled loop before cinching: form a
+  large loop, pass the whole harness through it and around, tie the simple
+  overhand, then work the slack back up to the main line before cinching
+  down — a small tag is left to trim and very little line is lost taking up
+  the loop.
 - **San Diego jam:** through the eye and back to make a doubled section, wrap
   **6 times** down the standing line, pass through the lower loop and then through
   the upper loop you've held, lubricate, and slide the coils down tight to the
@@ -150,4 +162,5 @@ and [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

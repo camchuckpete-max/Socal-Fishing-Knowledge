@@ -20,3 +20,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T00:54:21Z — Qs9oEsh3b_w — evaluator-escalate
 - run: 31753705275
 - reason: species/california-spiny-lobster.md's new Gear limits (two-person minimum to fish full 10-net boat limit) and Buoy marking (marker vs tape by shared-license gear) bullets are new regulatory/compliance guidance — flag for Cameron's Gate B review
+
+## 2026-08-14T01:14:43Z — G6YRT4HNxr8 — evaluator-escalate
+- run: 31753705275
+- reason: freshwater three-hook-cap claim is a gear-limit-flavored claim under CDFW's purview; hedged as Castro's personal operating rule (no jurisdiction/as-of stamp by design since unverified) — confirm framing is acceptable

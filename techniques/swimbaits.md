@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI]
+tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8]
 confidence: high
 ---
 
@@ -93,6 +93,32 @@ eaten and lifts the catch rate.
   PowerPro** and an 8-ft heavy rod — heavier gear, fished **up high in the kelp**
   in warm summer water when the fish are chasing bait.
 
+## Umbrella rig setup, bay bass, Roman Castro
+
+Another multi-bait rig, a step up from the two-bait three-way above: a
+wire "spider" harness (a **Recon Baits**-style A-rig) carrying several small
+swim jigs at once. Roman Castro's example ran **five** small anchovy-profile
+swim jigs, fished for [spotted bay bass](../species/spotted-bay-bass.md) in
+Mission Bay, San Diego (Roman Castro, G6YRT4HNxr8, 2018-04-17; unregistered
+channel — medium confidence).
+
+- **Bend the arms for an even spread:** the **short arms bend outward to the
+  sides**, while the **longer arm(s) stay centered**, so the baits fan out
+  evenly instead of bunching together. Bend each arm with a **parabolic
+  (gradual) curve, not a hard/sharp bend** — a hard bend point-loads the wire
+  and weakens it.
+- **Hook count — saltwater vs. freshwater:** Castro's saltwater A-rig carries
+  **five hooks** (one per swim jig), which he says is fine in saltwater. He
+  contrasts this with a **personal three-hook (or three-hook-set) cap he
+  applies in freshwater** ("my three hook limit ... was only for freshwater").
+  No jurisdiction or as-of date is given for that freshwater cap, so treat it
+  as his own stated operating rule rather than verified regulation text —
+  verify current CDFW freshwater/saltwater gear rules before relying on it.
+- **Tie on with a Palomar over the whole rig**, rather than a uni knot — see
+  [essential knots](../rigging/essential-knots.md#parameters--judgment) for
+  the tie and the reasoning (he suspected the uni knot might slip under a
+  hard pull).
+
 ## Gear class
 
 Bass casting / swimbait class — see [gear classes](../tackle/gear-classes.md).
@@ -115,6 +141,7 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Current Structure](../conditions/current-structure.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
