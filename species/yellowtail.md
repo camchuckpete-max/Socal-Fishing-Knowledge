@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA]
 confidence: high
 ---
 
@@ -545,6 +545,34 @@ typical-year mapping.
   the day working a point near the island for calico bass before running
   back to the mother ship — see the [calico bass](calico-bass.md) Cedros
   entry for that leg.
+  **Observed, part 3 of the same multi-part trip (StokedOnFishing, October
+  2024 trip (per on-camera reference), 2025-03-22 upload, Cedros Island,
+  Baja — `u0scEBby7nA`, "They're Biting Non-Stop!"; Cedros Outdoor
+  Adventures charter with Jose's crew; continues the
+  `6EDQtQHEwFE`/`ILBl12Jm7-0` entries above, released one week after part 2;
+  unregistered channel — medium confidence):** the video closes out day two
+  (surface iron and yo-yo iron both working that day, with the crew nearly
+  limiting out on yellowtail in about two hours at one stop) with a
+  personal-best **44 lb** yellowtail landed by an angler named on camera as
+  Leo, on a custom [surface iron](../techniques/surface-iron.md) called "The
+  Lucky Dave" — made by, and attributed on camera to, a friend/mentor named
+  "Dave Ruden" (asr-uncertain surname, not independently confirmed) who
+  taught the angler to fish. It then opens day three at a spot named on
+  camera as **San Augustine** — the same yo-yo spot fished the day before,
+  the only boat there that morning — where a yo-yo iron dropped to **130
+  ft** drew an immediate, sustained bite; full gear/color detail from this
+  session is logged in [yo-yo iron](../techniques/yo-yo-iron.md). One strike
+  came right next to a small, isolated piece of kelp rather than a full
+  paddy — a visual-sign data point on working small kelp patches, not only
+  paddies, for holding fish. By the session's end the crew explicitly called
+  out **surface iron, dropper loop, and yo-yo** all producing simultaneously
+  ("you name it, they're biting") — corroborating, not new beyond, the
+  three-faces/three-outfits framing already logged in this note's Doctrine &
+  conflicts section. Consistent with the catch-and-release ethic already
+  logged for this location, fish were released once the boat's kept-fish
+  allotment was reached, including one yellowtail hooked cleanly in the
+  side of the mouth on a circle hook (bait/technique not specified on
+  camera).
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —

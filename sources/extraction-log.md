@@ -1046,7 +1046,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | SS_ObRfLw2E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska halibut dropper-loop/grub jig; sponsor-heavy intro |
 | 6EDQtQHEwFE | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/surface-iron.md; techniques/sliding-sinker.md; techniques/fighting-big-bluefin.md / on-the-water Observed blocks: surface-iron sight-casting, sliding-sinker second Ce |
 | ILBl12Jm7-0 | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/calico-bass.md; techniques/surface-iron.md; techniques/yo-yo-iron.md; tackle/line-and-leader.md / part-2 Cedros trip observations added (run-and-gun surface iron/yo-yo y |
-| u0scEBby7nA | StokedOnFishing | on-the-water | observations-only | pending | Baja (Cedros Island) wrap-up, yo-yo iron limits; series: Cedros Oct trip part 3 |
+| u0scEBby7nA | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / Part 3 of the Cedros Oct-2024 trip series (StokedOnFishing) - 44 lb personal-best yellowtail on a custom iron, San Augusti |
 | qBZxnRuXtGo | StokedOnFishing | on-the-water | skip:duplicate-of-SdwwpQMJEOI | skipped | confirmed: identical Olive Crest tournament script/footage as SdwwpQMJEOI |
 | PexiSOiN00o | StokedOnFishing | promo | skip:promo | skipped | Okuma Tesoro reel product demo; rock fishing/salmon/halibut clips, region unclear; sponsor-heavy |
 | wj8IyrcsmF4 | StokedOnFishing | promo | skip:promo | skipped | 30s Okuma Tesoro reel teaser, same clips/lines as PexiSOiN00o; sponsor-heavy, no region |

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA]
 confidence: high
 ---
 
@@ -136,6 +136,22 @@ the reverse map in **Linked from** below.
   working the same water column at different depths simultaneously. No jig
   weight, color, or depth given.
 
+- **Observed, part 3 of the same multi-part trip (StokedOnFishing, October
+  2024 trip (per on-camera reference), 2025-03-22 upload, Cedros Island,
+  Baja — `u0scEBby7nA`, "They're Biting Non-Stop!"; continues the
+  `6EDQtQHEwFE`/`ILBl12Jm7-0` entries above; unregistered channel — medium
+  confidence):** opening day three at a spot named on camera as **San
+  Augustine** — the same yo-yo spot worked the day before, the only boat
+  there that morning — a yo-yo iron dropped to **130 ft** drew an
+  immediate, sustained bite, including a hookup on the second drop. Colors
+  called out for this session were **blue and white**, corroborating the
+  traditional colors already logged above; one angler fished a jig
+  described on camera as a well-worn "veteran," its original finish mostly
+  gone, with no color/brand confirmable from the captions. The session
+  closed with the crew calling out surface iron, dropper loop, and yo-yo
+  iron all producing at the same time — see
+  [yellowtail](../species/yellowtail.md) for the full-session summary.
+
 ## Gear-class detail
 
 - **Rod:** heavy [jig-stick class](../tackle/gear-classes.md) with real backbone
@@ -241,6 +257,12 @@ the reverse map in **Linked from** below.
   heavy video — Okuma is a paid sponsor of this channel; product claim
   logged at low confidence, kept separate from the medium-confidence
   technique/parameter observations above).
+
+- **Observed, same `u0scEBby7nA` San Augustine session:** one outfit fishing
+  this bite was spooled with **40 lb line, about 100 yards** — the reel/rod
+  names given on camera did not decode confidently enough from the captions
+  to carry (heard as "tooro tenas," possibly an Okuma product; not
+  confirmed).
 
 ## Common failures
 

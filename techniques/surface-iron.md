@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA]
 confidence: high
 ---
 
@@ -392,6 +392,21 @@ for that lure class rather than for the classic surface-iron blank.
   bite is logged in [line & leader](../tackle/line-and-leader.md), including
   a casting-past-the-knot safety incident (a thumb cut) and a mono-broke-off-
   in-kelp trade-off on larger-grade fish.
+
+- **An 8 ft extra-heavy alternate build, favored for casting distance
+  (Observed, StokedOnFishing, October 2024 trip (per on-camera reference),
+  2025-03-22 upload, Cedros Island, Baja — `u0scEBby7nA`, "They're Biting
+  Non-Stop!"; part 3 of the `6EDQtQHEwFE`/`ILBl12Jm7-0` trip series;
+  unregistered channel — medium confidence):** one angler's stated favorite
+  rod for this technique was an **8 ft, extra-heavy** stick (captions
+  render a model number as "801," not confirmed) **rated 30–80 lb** —
+  shorter than this note's usual 9–10 ft jig-stick class, favored
+  specifically for the casting distance it gives ("you need it to cast").
+  Kept side by side with, not replacing, the 9–10 ft class documented
+  above. Same trip's yo-yo iron and yellowtail catch detail (including a
+  personal-best 44 lb fish on a custom iron) is logged in
+  [yo-yo iron](yo-yo-iron.md) and
+  [yellowtail](../species/yellowtail.md).
 
 ## Common failures
 
