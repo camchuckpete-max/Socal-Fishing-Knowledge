@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E]
 confidence: high
 ---
 
@@ -245,6 +245,17 @@ Which species and situation calls for each is routed from the species notes —
     mainly for arriving pre-rigged (see hook config below); do not read the
     brand pick itself as fishery doctrine, only the red/orange-egg-crab
     reasoning and the depth/visibility context.
+
+- **Observed color pick, jig color in general (StokedOnFishing, `UfuiWFVvz2E`,
+  video uploaded 2026-08-11, Cortez Bank, SoCal; Constitution charter
+  captain's pre-trip briefing; unregistered channel — medium confidence):**
+  during a general tackle briefing (not specifically scoped to night or to
+  bluefin in the transcript), the captain called color as not mattering
+  much to the fish, but if pressed recommended **white with polka dots** —
+  named on camera as a "White Katy Perry" — with some silver. Consistent
+  with, not new beyond, the "color mostly doesn't matter, angler confidence"
+  framing above; the "Katy Perry" name lines up with the pink-accented
+  nickname already documented elsewhere in this note.
 
 ## Owned examples
 

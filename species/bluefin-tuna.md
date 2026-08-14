@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E]
 confidence: high
 ---
 
@@ -65,6 +65,29 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   pattern above — a mid-August data point that Tanner/Cortez can also produce
   well outside the fall/winter condensation window, not a contradiction of it
   (different months, same bank).
+- **Observed** (StokedOnFishing, video uploaded 2026-08-11, trip framed on
+  camera as a June trip (year not stated) — `UfuiWFVvz2E`, "SoCal Fishing Is
+  GOING OFF! | Constitution Sportfishing," introducing the Constitution
+  (80–85 ft) as a new sport-boat partner out of Fisherman's Landing, San
+  Diego; unregistered channel — medium confidence): captain Cameron's plan
+  for a 2.5-day, limited-load charter was to run overnight to **Cortez Bank
+  (~110–115 mi from San Diego)**, anchor in **15–25 fathoms**, and fish
+  yellowtail sunup to ~11:00–noon before moving into deeper water to search
+  for bluefin through the second night; the boat then pointed south into
+  Mexican waters around **3:00 am** on day two for a Baja kelp-paddy program
+  (see [yellowtail](yellowtail.md) for the paddy-yellowtail data point and
+  the Cortez Bank yellowtail entry). The captain's pre-trip tackle briefing
+  called for **circle hooks for bluefin** (J hooks for yellowtail — see
+  [hooks](../tackle/hooks.md)) and a daytime **40 lb flyline** floor for
+  bluefin (same 40 lb floor stated for yellowtail, with a drop to 30 lb if
+  line-shy — that line-shy caveat was tied specifically to yellowtail's
+  rock-diving defense on the bank, see [yellowtail](yellowtail.md), not
+  stated for bluefin) — consistent with, not new beyond, the
+  circle-hook-for-bluefin and flyline doctrine already logged above.
+  Night-jig weight, boat-position, line-class, and color detail from
+  the same briefing are logged in
+  [knife jigging](../techniques/knife-jigging.md) and
+  [knife jigs](../lures/knife-jigs.md).
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
@@ -282,6 +305,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

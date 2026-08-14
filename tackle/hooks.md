@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ logic behind them.
   note, consistent with the bait-sets-the-size rule (bigger mackerel bait
   takes a bigger hook) and with thick wire for a bigger, heavier bait per the
   wire-gauge rule below.
+- **Further corroboration, a sportboat captain's house doctrine (StokedOnFishing,
+  `UfuiWFVvz2E`, video uploaded 2026-08-11, Cortez Bank, SoCal; Constitution
+  charter; unregistered channel — medium confidence):** a pre-trip tackle
+  briefing repeated the same split as trip-wide guidance — **circle hooks
+  always for bluefin, J hooks recommended for yellowtail** — consistent
+  with, not new beyond, the mechanism-based doctrine above.
 - **At the smallest hook sizes, J can beat circle (Cesar, Eric's Tackle, via
   Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered
   voice, single mention; not yet repeated doctrine):** comparing a small circle hook against a small J hook of

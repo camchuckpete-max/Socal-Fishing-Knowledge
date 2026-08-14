@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E]
 confidence: high
 ---
 
@@ -44,6 +44,24 @@ in **Linked from**.
   off the bow, let it sink straight down, and walk back toward the stern** so the
   line stays vertical and you're in the zone faster. Ask the deckhand which way the
   boat drifts and where it bites best — some drift bow-first, some stern-first.
+  - **Attributed alternate method, kept side by side (StokedOnFishing,
+    `UfuiWFVvz2E`, video uploaded 2026-08-11, Cortez Bank, SoCal;
+    Constitution charter captain's pre-trip briefing; unregistered channel —
+    medium confidence):** for anglers who prefer to fish the stern rather
+    than the bow, this captain's instruction was to **cast down-swell** —
+    by the time the boat drifts to where the jig lands, it sits at roughly
+    **200–250 ft** and hangs straight up and down under the boat. Framed on
+    camera as *the* key to night jigging: keep the jig vertical. Not
+    reconciled with the up-current-off-the-bow method above — two attributed
+    routes to the same vertical-jig goal, picked by which rail position an
+    angler is fishing.
+  - **Observed, participation as a mechanism (same source):** the captain
+    stressed angler participation as a key factor at night specifically —
+    with enough anglers working jigs at once on a stopped bluefin school, the
+    spread of jigs going up and down reads to the fish as a moving school of
+    bait; five idle rods on the rail don't produce the same effect as five
+    worked jigs. Called out as mattering for daytime fishing too, but most
+    for the night bite.
 - The short parabolic jigging rod lets the jig **dart** and gives leverage to fight
   a big fish off a light rod with less fatigue than a rail rod.
 - **The coordinated speed-jig stroke (Ul5FLB2dFgQ):** on the down-stroke, drop the
@@ -99,6 +117,12 @@ in **Linked from**.
   hold the zone; a jig that sinks fast but stays horizontal in current keeps you
   in the strike zone. A lighter (~220 g) fluttery jig works the upper column when
   fish are 150–200 ft down.
+  - **Observed floor, night bluefin (StokedOnFishing, `UfuiWFVvz2E`, video
+    uploaded 2026-08-11, Cortez Bank, SoCal; medium confidence):** the same
+    captain's briefing set a hard floor of **300 g** for night jigs, with
+    **250 g** allowed only for anglers "savvy" enough to fish it well — a
+    specific floor/exception pairing sitting within, not new beyond, this
+    note's 150–400 g range above.
 - **The "Eddie bomb" (nRFFM8DT-og):** the bluntest tool in the same night
   lineup — a **wire-through 16 oz sinker with a treble hook on the bottom** and
   a bite leader. Multiple **200 lb night bluefin** have come on a straight-up
@@ -171,6 +195,12 @@ in **Linked from**.
     landed in the night bite graded **30–60 lb**. Same channel, same boat
     (Highliner), same "size for the biggest fish that could show" logic as the
     entry above.
+  - **Observed night-line floor (StokedOnFishing, `UfuiWFVvz2E`, video
+    uploaded 2026-08-11, Cortez Bank, SoCal; medium confidence):** a
+    different captain's briefing set a floor of **80 lb braid** and
+    **130 lb mono or fluorocarbon** for night fishing — sitting within,
+    consistent with, the 80–150 lb night-class range already logged above
+    from other sources.
 - **Terminal — single bottom assist pair, no top hook.** Reasons: the fish suck
   the jig in, so a top hook adds little; and a top hook fouls the fish in the cheek
   or pec on the swinging jig, which moves the fight off the mouth and gets a hook

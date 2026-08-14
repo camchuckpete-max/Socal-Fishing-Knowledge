@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E]
 confidence: high
 ---
 
@@ -96,6 +96,30 @@ typical-year mapping.
   classic approach (cameron; corpus coverage thin).
 - **La Jolla and the SD offshore banks** — structure yellows on hard bottom and
   pinnacles, strongest warming-transition into warm-stable (spring–summer).
+- **Cortez Bank** — a legendary SD-offshore high spot roughly **110–115 mi**
+  from San Diego, a full overnight run for a sportboat.
+  **Observed** (StokedOnFishing, video uploaded 2026-08-11, trip framed on
+  camera as a June trip (year not stated) — `UfuiWFVvz2E`, "SoCal Fishing Is
+  GOING OFF! | Constitution Sportfishing"; 2.5-day charter aboard the
+  Constitution out of Fisherman's Landing; unregistered channel — medium
+  confidence): the captain anchored in **15–25 fathoms** and fished
+  yellowtail sunup to ~11:00–noon on **yo-yo jigs, surface irons, and sinker
+  rigs**, targeting "larger grade Cortez yellowtail" before the boat moved
+  off to search for bluefin (same trip's bluefin/Baja leg logged in
+  [bluefin tuna](bluefin-tuna.md)). Later the same day (the video's closing
+  narration confirms this footage is all day one of the 2.5-day trip),
+  working the bank's high spot as the tide came in, the crew marked
+  yellowtail at **60–80 ft in 120 ft of
+  water** and worked **fly lines, J-hooks, surface irons, and yo-yo irons**,
+  landing fish graded **20–40 lb**. The captain's tackle guidance: **40 lb
+  flyline** for yellowtail, droppable to 30 lb if fish get line-shy, with the
+  caveat that Cortez Bank yellowtail "swim straight down" into the rocks as a
+  defense mechanism once hooked on the lighter line — a rock-cutoff risk
+  consistent with the rock/kelp-cutoff pattern already logged for Cedros and
+  Chester's Rock below. **J hooks** were the captain's stated recommendation
+  for yellowtail (circle hooks for bluefin), corroborating, not new beyond,
+  the circle-for-bluefin/J-for-yellowtail doctrine in
+  [hooks](../tackle/hooks.md).
 - **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
   San Diego, off Mexico; the western coast is exposed to colder Pacific
   currents and tidal swings, so the water stays bait-rich). "The Coronados are
@@ -121,6 +145,23 @@ typical-year mapping.
   offshore paddy yellowtail were landed alongside a heavy dorado bite on this
   2.5-day trip, one of them on **20 lb** line, with the crew noting they
   "got to go light on these sometimes" for paddy yellows.
+  **Observed** (StokedOnFishing, video uploaded 2026-08-11, trip framed on
+  camera as a June trip (year not stated) — `UfuiWFVvz2E`, "SoCal Fishing Is
+  GOING OFF! | Constitution Sportfishing"; same Cortez Bank/Constitution trip
+  as the Cortez Bank entry above; unregistered channel — medium confidence):
+  this video's footage is all day one of the 2.5-day trip (Cortez Bank
+  yellowtail/bluefin) — the paddy leg had not yet been fished on camera.
+  The captain's stated **plan** was a day-two run south into Mexican waters
+  to hit kelp paddies, including several **beaconed kelps**, which he
+  described pre-trip as "loaded with fish anywhere from 10 lb to 35 lb" on
+  yellowtail. Separately, mid-trip, the captain described the season's
+  kelp-paddy bite in general terms (not this trip's results specifically):
+  paddies of very different sizes — from **4 ft to 30 ft wide** — holding
+  fish, with yellowtail graded **5–35 lb** "from what we've caught," framing
+  the return of a strong kelp-paddy/warm-water fishery as an **El Niño**
+  effect the crew had been "longing for since 2018," and naming **yellowfin
+  tuna** as the one species still missing from the paddy mix as of this
+  trip.
 - **Baja coast** — the coastal structure, islands, and ridges between the
   border and BOLA carry yellowtail more or less year-round, grade improving
   south (cameron; thin in the current corpus — expect this entry to grow with
@@ -720,6 +761,7 @@ water temp and bait depth before committing the day to one face.
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
+- [Bluefin Tuna](bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
