@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE]
 confidence: high
 ---
 
@@ -362,6 +362,16 @@ Lucas):
   hook-setup quality as important enough to risking a "money fish" in
   tournament play. No rig diagram or step-by-step given — link the shop
   reference only, no rigging note created from this thin a description.
+- **Observed (bite-but-lost data point)** (StokedOnFishing, 2014-12-03
+  upload, offshore Cabo San Lucas — `Mwx5AAXNMvE`, "Stoked On Cabo San
+  Lucas, Part 2"; same Hurricane Fishing charter as the interview above;
+  unregistered channel — medium confidence): later on the water this trip,
+  two big **blue marlin** struck trolled lures but didn't stay hooked — the
+  crew named the lures as one heard as **"Mean Joe"** in **green/black**
+  (asr-uncertain, not confidently resolved to a known lure model) and a
+  second in **red/black** (model not named). Kept as a raised-but-lost
+  color/lure data point, not a recommended pattern; species is blue marlin,
+  not striped marlin.
 
 ## Ensenada, Baja — slow-trolled mackerel plus cast jigs for yellowtail on a reef/point
 
@@ -802,6 +812,7 @@ not a parameter change.
 - [<Your Boat>](../profiles/_template/boat.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [August](../seasonal/august.md)
+- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)

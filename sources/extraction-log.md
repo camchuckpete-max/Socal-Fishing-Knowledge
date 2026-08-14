@@ -1121,7 +1121,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Ow3an9lSVh4 | StokedOnFishing | on-the-water | parameter-skim | done | conditions/kelp-paddies.md; species/california-spiny-lobster.md; species/yellowfin-tuna.md; techniques/chunking.md; techniques/flyline.md; techniques/hoop-netting.md / Six trip-tip parameters merged ( |
 | 3qSY328fFYo | StokedOnFishing | on-the-water | deep | escalated | escalated: guard: deleted 21 lines from curated note: techniques/bait-and-switch.md |
 | XH-Hrfet6To | StokedOnFishing | on-the-water | parameter-skim | done | species/striped-marlin.md; techniques/trolling.md / Cabo San Lucas trip: species Observed block (dropback marlin catch, sailfish, water conditions) + Melton Tackle lure-size/tournament and afternoon-c |
-| Mwx5AAXNMvE | StokedOnFishing | on-the-water | observations-only | pending | Cabo San Lucas/East Cape (region); marlin catch-and-release footage + poke cook segment; Stoked On Cabo pt2 |
+| Mwx5AAXNMvE | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; techniques/bait-and-switch.md; techniques/trolling.md / Cabo pt2 charter continuation: release-practice + fighting-chair Observed block, blue-marlin lost-strike lure data po |
 | 4bbKduPRlHE | StokedOnFishing | on-the-water | skip:no-usable-content | skipped | 1:48 near-wordless b-roll clip (mako hits hooked yellowtail); no location/date/technique content |
 | skRo1z41Dnc | StokedOnFishing | on-the-water | observations-only | pending | San Diego offshore tuna footage; sponsor-heavy (Simrad); Top Gun 80 Offshore Grandslam pt1 |
 | AfZoeSu_9hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt1 |

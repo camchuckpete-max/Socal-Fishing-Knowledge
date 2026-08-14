@@ -324,6 +324,7 @@ the bluefin nearby become more cooperative too.**
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cedar Plug](../lures/cedar-plug.md)

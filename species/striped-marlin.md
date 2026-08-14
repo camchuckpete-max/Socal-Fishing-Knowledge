@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, XH-Hrfet6To]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE]
 confidence: medium
 ---
 
@@ -144,6 +144,32 @@ hookups by that point in the trip (time of day not stated on camera) without
 further per-species breakdown, and were running toward open water hoping for
 tuna or blue marlin to round out a "five species day" — not confirmed on
 camera, so not logged as additional catches.
+
+**Observed (Baja, Cabo San Lucas / East Cape, region label)**
+(StokedOnFishing, 2014-12-03 upload, offshore Cabo San Lucas, Baja California
+Sur — `Mwx5AAXNMvE`, "Stoked On Cabo San Lucas, Part 2"; continuation of the
+same Hurricane Fishing charter (Capt. Rob Guy, 50 ft Hatteras) logged as
+`XH-Hrfet6To` above; unregistered channel — medium confidence): a striped
+marlin was fought to leader and released on camera, with the presenter
+stating the boat's practice is to **"primarily release all the bill fish"**
+rather than keep them — a catch-and-release doctrine point for this
+operation, not confirmed as a universal SoCal/Baja norm elsewhere in this
+corpus. A separate family group aboard, framed on camera as the "East Cape
+crew" heading on to a tournament-style, 5-day trip up in East Cape, Sea of
+Cortez, fought their striped marlin from a fighting/fish chair; the
+presenter's take was that the chair helps kids and less-experienced anglers,
+who otherwise struggle to stand and fight the fish, especially in rough seas
+("that'll bring anybody to their knees") — no chair spec or brand given, and
+the East Cape leg itself is not fished on camera in this video. Separately,
+the same trip's closing tips segment reported losing two big **blue marlin**
+that struck trolled lures but didn't stay hooked; species/lure detail is
+logged in
+[trolling — Cabo San Lucas lure entry](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging)
+(no dedicated blue-marlin note exists in this corpus, so it is not logged
+here as a striped-marlin catch). The same tips segment named the **drop-back**
+as the trip's best producer of solid hookups, with an 80 lb-line/#9
+circle-hook rig detail logged in
+[bait-and-switch](../techniques/bait-and-switch.md#thin-areas-flagged--no-corpus-source-yet).
 
 ## Gear summary (class terms)
 
