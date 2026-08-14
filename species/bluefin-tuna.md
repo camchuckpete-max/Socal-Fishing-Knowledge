@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ]
 confidence: high
 ---
 
@@ -342,6 +342,14 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   from **20 lb to 150 lb**. Grade/technique split (heavier night-jig window,
   wider-range day flyline) sits beside, not new beyond, the existing
   night-bite and flyline doctrine already logged in this note.
+- **Observed** (StokedOnFishing, `M7BtON4GZgQ`, "Bluefin Fishing on the El
+  Dorado," trip dated August 2020 (limited-load, pandemic-era charter; video
+  uploaded 2021-02-03), west end of Catalina Island, SoCal, aboard the 85 ft
+  El Dorado, Long Beach Sportfishing; unregistered channel — medium
+  confidence): the crew reported seeing bluefin in this zone "every day" for
+  the several days prior, describing the pattern as fish **coming back from
+  the islands and picking off a handful at a time** rather than showing as
+  one large body — called "pretty typical" on camera for that stretch.
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
@@ -458,6 +466,15 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     boat — a deeper and wider-banded read than the "fish at 180, fish at
     230 ft" example above, kept beside it as another same-mechanism data
     point, not a replacement.
+  - **Shallower marks producing a jig bite (Observed, StokedOnFishing,
+    `M7BtON4GZgQ`, west end of Catalina Island, SoCal, trip dated August
+    2020; unregistered channel — medium confidence):** the captain called
+    marks at **120 ft**, then a "really good mark... solid" down at
+    **150 ft** — both well shallower than the 30–50 fathom sounded-school
+    range above — with the crew told to get jigs on right away; kept beside,
+    not folded into, the deeper sounded-school and shallow bait-ball rows
+    already logged in this section, as another shallow-mark data point off
+    Catalina's west end.
   - **Paddy/kelp fish:** hanging under [kelp paddies](../conditions/kelp-paddies.md)
     with yellowtail and dorado — grade the paddy fast and move.
   - **Bait shape:** broken, harried, moving bait holds predators; a solid

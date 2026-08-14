@@ -1086,7 +1086,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | c9xWDUyzDDI | StokedOnFishing | on-the-water | skip:thin-generic | skipped | 1min Fishlab Scrum Popper catch clip, no region/conditions stated, product-demo feel |
 | Kiq4hdJ8Gsk | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska halibut jigging footage, series Alaska part 4 |
 | 6N4zaJdHFck | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska salmon footage, series Alaska part 3 |
-| M7BtON4GZgQ | StokedOnFishing | on-the-water | observations-only | pending | El Dorado, west end Catalina SoCal, 2020 limited-load bluefin footage |
+| M7BtON4GZgQ | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; techniques/flyline.md; techniques/foamer-casting.md — 2020 El Dorado Catalina west-end trip: fish-returning-from-islands pattern, shallow sonar marks (120/150ft), butt-hook fl |
 | 4t_Z75shK_E | StokedOnFishing | on-the-water | observations-only | pending | Mag Bay, Baja Mexico (in-scope); marlin/wahoo/dorado inshore+offshore footage |
 | BQ2U1PqxWi8 | StokedOnFishing | on-the-water | observations-only | pending | East Cape, Baja Mexico (in-scope), Hotel Buena Vista fiesta; tuna/dorado/marlin footage |
 | UCADhIs5Ew0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska rockfish/king salmon footage |

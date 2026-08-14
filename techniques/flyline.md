@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ]
 confidence: medium
 ---
 
@@ -70,6 +70,17 @@ Pick the hook position for the swimming behavior you want:
   2021-04-06, inferred Dave Hansen — registered voice, `high` confidence; full
   mackerel-specific write-up in
   [fishing live bait](../bait/fishing-live-bait.md)).
+  **Observed** (StokedOnFishing, `M7BtON4GZgQ`, "Bluefin Fishing on the El
+  Dorado," trip dated August 2020 (limited-load, pandemic-era charter; video
+  uploaded 2021-02-03), west end of Catalina Island, SoCal, aboard the 85 ft
+  El Dorado, Long Beach Sportfishing; unregistered channel — medium
+  confidence): a butt-hooked flylined sardine was called the "hot ticket"
+  bait that morning, worked on roughly a **2/0–3/0** hook and **25–30 lb
+  test** leader — consistent with, not new beyond, the butt-hook mechanism
+  above. The same pre-dawn briefing stressed checking the drag before
+  fishing so as not to end up fighting a fish with it unset — a general
+  reminder rather than a specific number, kept beside the drag-must-be-set
+  doctrine already logged below (`V_ONnegk95M`).
 
 ## Bait and hook selection
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ]
 confidence: high
 ---
 
@@ -56,6 +56,18 @@ anchovies about two to three inches in length**. Corroborates the short-lived,
 move-fast-between-schools framing above (budget ~2–3 casts per school) and the
 tiny-anchovy downsizing note in [bluefin tuna](../species/bluefin-tuna.md)
 rather than adding a new mechanism.
+
+**Observed** (StokedOnFishing, `M7BtON4GZgQ`, "Bluefin Fishing on the El
+Dorado," trip dated August 2020 (limited-load, pandemic-era charter; video
+uploaded 2021-02-03), west end of Catalina Island, SoCal, aboard the 85 ft
+El Dorado, Long Beach Sportfishing; unregistered channel — medium
+confidence): sliding up on a showing school, the crew's call was to **bomb a
+Colt Sniper into the middle of the fish and drag it through**, with a
+flylined bait rigged as a backup rod ready on the same push, switching over
+to the flyline once the boat started to drift on the fish. That trip ran **a
+lot of run-and-gun, not much drifting**, framed on camera as the pattern for
+the whole day — consistent with, not new beyond, the run-and-gun approach
+already documented above.
 
 ## Foamer taxonomy — which foamers to spend casts on
 
