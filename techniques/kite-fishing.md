@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc]
 confidence: high
 ---
 
@@ -203,6 +203,20 @@ voice, `high` confidence).
   different) and drift them like float/bobber fishing. Never deploy a
   dead flyer speculatively with no fish around; it's fished over confirmed
   sign, not blind water.
+- **Observed** (StokedOnFishing, `UuyqTE21-kc`, 2015-01-18 upload, lower banks
+  near Mag Bay, Baja; unregistered channel — medium confidence): a helium
+  balloon rig — no kite mentioned in this clip's audio (captions-only source;
+  no independent visual confirmation) — used to keep a flyer (flying-fish)
+  bait riding the surface, floated **downwind** of the boat to sit "nice and
+  lifelike," while fishing giant yellowfin tuna (this same trip's grade ran
+  150 to 300-plus lb) on the banks; multiple hookups came on flyers fished
+  this way. The clip gives no detail on how the balloon attaches to the
+  line/leader or how a bite is signaled, so it does not resolve the
+  balloon-vs-kite-lift-assist ambiguity flagged above — it stands as a
+  separate example of a stand-alone, kite-free balloon presentation. The
+  series title references marlin fishing on this same trip, but no marlin
+  catch or balloon-for-marlin scene appears in this segment; logged as a
+  tuna-only observation.
 - **Deploying the dead flyer:** drive the boat forward a little to open
   distance between the boat and the bait, then lower the flyer slowly onto
   the surface. Keep it **dapping** — constantly in contact with the water,
