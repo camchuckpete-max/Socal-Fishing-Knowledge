@@ -803,7 +803,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | xEqFwPJ2zFk | Roman Castro | on-the-water | skip:thin-generic | skipped | Channel recap/best-of-2018 montage; brief Baja B-roll clip, Coronado Is. mention |
 | wysZwsjAkVs | Roman Castro | on-the-water | skip:thin-generic | skipped | Kayak-rental logistics/affiliate promo dominated; sponsor-heavy (Eco Boat Rentals affiliate deal) |
 | HcEh5KOYTH4 | Your Saltwater Guide | on-the-water | observations-only | done | conditions/kelp-paddies.md; species/dorado.md; species/yellowtail.md / 4 Observed blocks added: pre-qualified-paddy approach behavior, October dorado persistence + technique corroboration, incidental  |
-| yKaHcxX46l4 | Your Saltwater Guide | tutorial | parameter-skim | pending | Squid-strip hooking (thread tip, hangs like spaghetti) + chum-placement-vs-current technique |
+| yKaHcxX46l4 | Your Saltwater Guide | tutorial | parameter-skim | done | tackle/hooks.md; techniques/chunking.md / Squid cut-strip prep/hooking added to hooks.md; anchored chum-placement-vs-current added to chunking.md |
 | q4NBPuH3gCA | Your Saltwater Guide | on-the-water | skip:duplicate-of-5FzBwvMtRP8 | skipped | confirmed: same mackerel-on-microfiber-rag recording as 5FzBwvMtRP8 (2019), ASR variance only |
 | ohR9DeBOU9E | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic sand bass filleting demo, no conditions/decision content |
 | r6j5w40fVHI | Your Saltwater Guide | tutorial | single-pull | pending | Calico bass filleting demo; single fact: CA calico bass 14in min legal size |

@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg]
+tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait, squid, cut-bait, sheephead]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4]
 confidence: medium
 ---
 
@@ -147,6 +147,26 @@ the bottom; a bait lying on the bottom catches rays and shovelnose sharks instea
 A bullet weight slid down over the hook knot (point the bullet at the rod tip so
 the hook eye seats up inside it) makes the hook nearly invisible.
 
+### Cut squid strips for structure/bottom bait (Dave Hansen, Your Saltwater Guide, yKaHcxX46l4, 2022-07-29; registered voice, single mention — medium confidence)
+
+For sheephead, sargo, and small bass — especially as a backup when there's no
+live bait — prep and hook **cut squid strips** rather than a chunk:
+
+- **Prep:** cut the head off (save the head and tentacles for
+  [chum](../techniques/chunking.md)); split the body down the middle without
+  cutting all the way through and scrape the guts out (into the chum too);
+  then cut the body into **thin strips, not chunks** — aiming for something
+  close to thin noodles, not a thick wad.
+- **Hook it at the very tip of the strip only**, spin it around, and bring the
+  hook back through so the rest of the strip threads onto the shank and
+  **hangs loose below the hook** rather than being bunched up. A big bunched
+  chunk is too much for a small mouth to take in; a thin hanging strip gets
+  sucked straight in and picks up a bit of swimming action off the tail as it
+  sits in the water.
+- **Any hook works** — his examples run a small hook (size 2, size 4; style
+  unspecified) or a small lead head; the strip presentation matters more than
+  the specific hook chosen.
+
 ### SoCal yellowtail/offshore baseline rotation (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence)
 
 The channel's earliest hook data point in this corpus, read as a general
@@ -221,6 +241,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Chunking](../techniques/chunking.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
