@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo]
 confidence: high
 ---
 
@@ -27,6 +27,18 @@ top-shot specs live in each lure note.
   yellowtail aboard the mother ship — offered as a fallback to carry for a
   picked-at surface bite, not tested head-to-head against the iron options.
   Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
+  BvT560Nblqo, Shogun Skiff Trip part 2; medium confidence, unregistered
+  channel): a separate day/skiff on the same trip repeats the pattern above —
+  after no bites on [surface iron](surface-iron.md), the crew switched to
+  trolling and both anglers got bit on a hardbait captioned "rala"
+  (ASR-uncertain — likely **Rapala**-class). The troll produced multiple
+  large yellowtail for the group; one angler (JT) is told on camera he'd
+  landed "two personal bests in one day," and another (Tom) called his fish
+  the biggest yellowtail — and biggest fish — he'd ever caught. A line class
+  is referenced during one of the fights (captions render "40b" — ASR-
+  uncertain, likely **40 lb**). Same trip, same recurring pattern as the part 3 observation above; kept
+  side by side as distinct footage, not merged.
 
 ## Running the spread — sweeps, not straight lines
 

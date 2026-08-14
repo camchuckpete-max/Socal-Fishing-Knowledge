@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo]
 confidence: high
 ---
 
@@ -126,6 +126,13 @@ the reverse map in **Linked from** below.
   Salas-class 7X-weight iron, not confirmed; not carried as a named product).
   **Traditional yo-yo colors** for yellowtail: **scrambled egg** and **blue
   and white**.
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
+  BvT560Nblqo, Shogun Skiff Trip part 2; medium confidence, unregistered
+  channel): before a skiff group switched over to trolling for yellowtail, a
+  crew member was told to run a yo-yo jig in a color captioned "Scrambled
+  a6x" (ASR-uncertain — likely **scrambled egg**, corroborating the
+  traditional color named above); no bite on that color is shown on camera
+  before the group moved on.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
   LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
   **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here

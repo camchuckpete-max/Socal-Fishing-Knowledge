@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron]
 confidence: high
 ---
 
@@ -96,6 +96,17 @@ typical-year mapping.
   that had been left too loose. Consistent with, not a change to, the
   resident/home-guard doctrine above; unregistered channel — medium
   confidence.
+  **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
+  BvT560Nblqo, Shogun Skiff Trip part 2; medium confidence, unregistered
+  channel): a ridge cresting around **60 ft** and sloping down to roughly
+  **120 ft** held a stack of bass, with a yellowtail hooked as the boat worked
+  off the ridge (captions render "rolling off" — ASR-uncertain, possibly
+  "trolling off"); the group then threw a chum line and anchored on the spot,
+  quickly hooking three yellowtail
+  on the [yo-yo iron](../techniques/yo-yo-iron.md) (captions render "yo-yo sea
+  line" — ASR-uncertain) before the yellowtail bite dropped off and the bite
+  switched to bass on plastics, nearly every cast. Same island as, distinct
+  footage/date from, the part 3 observation above.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the
