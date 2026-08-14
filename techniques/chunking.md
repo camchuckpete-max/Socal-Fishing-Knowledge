@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc]
+tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY]
 confidence: high
 ---
 
@@ -45,6 +45,19 @@ and why they've shut off are the routers:
   around the kelp gets the school fired up and racing for food, at which point a
   drifted bait or a hooked chunk gets crushed. Chunking sits alongside the other
   paddy wake-up tricks in the [dorado](../species/dorado.md) note.
+
+## Drift chumming — throw off the downhill corner (presenter inferred as Dave Hansen, Your Saltwater Guide, `e16i7zKq1FY`, 2019-04-07; registered voice, single mention — medium confidence)
+
+Every boat drifts **stern-first**, regardless of size — from big sportboats down
+to small runabouts, per this clip. Because of that, the wind always ends up
+hitting one side of the boat, and the lines trail off that same side. The rule:
+whichever side the wind/current has set your drift and lines on (say, port),
+throw the chum **as far as you can off that downhill (lee) corner**, feeding it
+there constantly rather than off the stern generically. This is the corner-
+selection call for the moving/drifting scenario described in "Building the
+chum line" above; it's a different geometry from the anchored-boat entries
+below, where the boat isn't drifting and the current runs past a stationary
+hull instead.
 
 ## Anchored chumming — placement vs. current (Dave Hansen, Your Saltwater Guide, yKaHcxX46l4, 2022-07-29; registered voice, single mention — medium confidence)
 
