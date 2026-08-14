@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0]
 confidence: high
 ---
 
@@ -152,6 +152,26 @@ the *bottom*, not the fish.
   framing of Cortez Bank/offshore banks as a deep-rock destination, and a
   concrete example of the mid-trip pelagic-to-bottomfish switch pattern on a
   multi-day SoCal/Baja-bank charter.
+- **Observed** (StokedOnFishing, 2023-02-22 upload, Cortez Bank aboard the
+  85 ft *El Dorado*, day-and-a-half charter out of Long Beach Sportfishing,
+  Captain TJ, `fDSd9kqwYW0`, "Yellowtail and Rockfish Galore! Non-Stop
+  Action on the Cortez Bank"; unregistered channel — medium confidence): a
+  morning stop **up on a ridge, on the edge of the bank, in roughly
+  150 ft**, drifted (crew instructed to keep the wind in their faces —
+  "you want that wind to be in your face so it's pushing the boat and
+  your line's going [away]" — so lines trailed away from the boat rather
+  than under it), produced reds/vermilion
+  rockfish alongside California sheephead and ocean whitefish — plus a
+  further catch the crew called on camera as "sandwich groupers"
+  (ASR-uncertain, species not confidently resolved, not carried as a
+  species ID). The crew reported filling a stated **10-fish** rockfish
+  allowance ("fulfilled our 10 around on the rockfish" — a passenger/CPFV
+  limit figure as called on camera, not stamped here as current
+  regulatory guidance; verify current CDFW/CPFV bag limits separately)
+  before moving into the shallows for more sheephead/whitefish and then
+  anchoring on the bank's yellowtail bite — see the
+  [yellowtail](yellowtail.md#where--when) Cortez Bank entry for that leg
+  and the trip's flyline tackle.
 - **Historical example — reopen date and a depth-limit progression (California/CDFW,
   as-of 2019-02, self-admitted uncertain reading of the regs — verify current
   before using any of these numbers):** the presenter describes the SoCal

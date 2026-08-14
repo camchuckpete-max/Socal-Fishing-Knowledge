@@ -172,4 +172,5 @@ become primary).
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

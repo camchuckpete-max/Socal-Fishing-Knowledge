@@ -96,3 +96,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T18:06:37Z — Y1xeieQI3B4 — evaluator-escalate
 - run: 31821567808
 - reason: rockfish-lingcod.md Observed block restates an on-camera '20 fish per day' boat allowance figure (bag-limit-shaped claim) without jurisdiction/as-of stamping; verify-current caveat added but should go to Cameron for review since it's adjacent to CDFW/CPFV bag-limit territory
+
+## 2026-08-14T19:53:26Z — fDSd9kqwYW0 — evaluator-escalate
+- run: 31831183245
+- reason: species/rockfish-lingcod.md's new Observed block reports a 'fulfilled our 10 around on the rockfish' bag-limit figure — a regulatory claim, correctly hedged as an on-camera anecdote not current guidance; Cameron should confirm hedging is sufficient

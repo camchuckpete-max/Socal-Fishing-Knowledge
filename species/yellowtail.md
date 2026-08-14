@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0]
 confidence: high
 ---
 
@@ -201,6 +201,33 @@ typical-year mapping.
   slowed, the crew moved off to search rather than sit on it, noting both
   good drifting and anchor jobs producing that day in water around **50
   fathoms**.
+  **Observed** (StokedOnFishing, 2023-02-22 upload, Cortez Bank — 85 ft
+  **El Dorado**, day-and-a-half charter out of Long Beach Sportfishing,
+  Captain TJ, `fDSd9kqwYW0`, "Yellowtail and Rockfish Galore! Non-Stop
+  Action on the Cortez Bank"; unregistered channel — medium confidence):
+  pre-trip, the captain recommended fishing the bank **as a flyline**
+  with the current, a hooked sardine, and **25 lb test line to a No. 2
+  hook to start** (ASR renders the size as "two on"/"two odd" on
+  camera; read here as No. 2, consistent with the No. 2 flyline hook
+  already logged for this same boat/captain in
+  [flyline](../techniques/flyline.md)) — offered as a recommendation to build on, not a fixed rule
+  ("you can rig it up however you like"). Once anchored, the morning bite
+  was slow on the exotics with the current still slack ("we're missing
+  the current... we need a little bit of current to kind of get our day
+  going for the Exotics"), so the crew scratched on rockfish while
+  waiting for the current to turn on — a further data point for the
+  current-gates-the-bite doctrine already logged in
+  [current structure](../conditions/current-structure.md) (see also the
+  rockfish stop from this same trip in
+  [rockfish & lingcod](rockfish-lingcod.md)). Once anchored on the bank's
+  far end near a buoy in the shallows, the yellowtail bite matched the
+  captain's pre-trip call: **flylined sardine, 25 lb test line, a No. 2
+  hook**, with the sardine bait itself run **6–8 in** long. The trip's
+  closing narration credited the current finally moving as what turned
+  the Cortez yellows on, producing a **five-hour** yellowtail bite that
+  closed out the charter. **Yo-yo iron and surface iron** were also named
+  on camera as working options for the bank alongside the flyline
+  program.
 - **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
   San Diego, off Mexico; the western coast is exposed to colder Pacific
   currents and tidal swings, so the water stays bait-rich). "The Coronados are
@@ -846,6 +873,7 @@ water temp and bait depth before committing the day to one face.
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Current Structure](../conditions/current-structure.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
