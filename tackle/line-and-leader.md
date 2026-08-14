@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y]
 confidence: medium
 ---
 
@@ -236,6 +236,23 @@ able to break off** (aXF0bxAFtU0):
     [sliding-sinker — Baja grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar) —
     kept side by side, not reconciled, since the two sources specify
     different leader materials for the same fishery.
+- **Line-class ladder by expected grade, Baja long-range "lower banks"**
+  (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range Tuna Fishing
+  On The Intrepid | Part 1," 11-day trip aboard the long-range boat
+  **Intrepid**, roughly 608 nautical miles south of San Diego, Baja "lower
+  banks"; unregistered channel — medium confidence): with sonar marks read as
+  big fish (reportedly up to **200 lb-plus**) and a nearby fleet boat already
+  hooked up, a crew member's evening brief (speaker's role not identified on
+  camera — not confirmed as the captain) set gear for the next morning's
+  bite: **fish 100 lb test as the floor** — "don't go in the water with anything
+  less than a hundred pounds"; only step down to **80 lb** after first
+  assessing the grade ("if we see something smaller... that will be fine once
+  we look at it"), and **never start the morning at 80 lb**; **60 lb is ruled
+  out entirely** for this grade of fish. Given alongside a same-scene
+  drags/connections check as pre-bite gear prep the night before. A
+  long-range/giant-grade data point, kept beside — not merged into — the
+  40 lb-floor / 50 lb-most-everything Cedros yellowtail brackets and the
+  80–150 lb big-bluefin bracket logged above; a different fishery and grade.
 
 ## Connections (parameters — steps are in the rigging notes)
 

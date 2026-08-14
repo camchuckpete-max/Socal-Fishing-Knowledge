@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y]
 confidence: medium
 ---
 
@@ -112,6 +112,26 @@ the oxygen and dies.
   "mate quicker and die quicker," a problem on a multi-day trip that needs
   the squid to last. Balance the load against how many days the squid has to
   keep.
+
+## Observed — long-range multi-day load and "first day is everything" (Baja, Intrepid)
+
+**Observed** (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range
+Tuna Fishing On The Intrepid | Part 1," 11-day trip aboard the long-range boat
+**Intrepid**, out of San Diego bound for Baja "lower banks"; unregistered
+channel — medium confidence): the dockside load was a mix of **sardines and
+green mackerel**, including bait held over from a prior trip and described on
+camera as **"six-day-old cured"** stock, loaded at roughly **700 scoops** for
+the 11-day run — a far larger multi-day figure than the ~20-scoop/360-gallon
+single-day sportboat example logged above, consistent with the "even a big
+tank runs dry" doctrine given the much longer trip length. On-camera doctrine
+from the same loading scene: the **first day's load is the most important of
+the trip** — load it **light**, keep it **alive** and **"dancing on [the]
+scales,"** because overloading **dries the bait out and starts it dying off**,
+putting stress on the bait supply for the rest of the trip. This is an
+independent corroboration, from a different (long-range, multi-day) program,
+of the load-light-and-watch-how-it-swims judgment call below (dave-hansen,
+`7WapaxdtjQg`) and the don't-overload doctrine in "Keeping it clean and not
+overloading" above.
 
 ## Judging load size at the barge (dave-hansen, 7WapaxdtjQg, 2022-01-04)
 

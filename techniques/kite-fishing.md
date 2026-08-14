@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y]
 confidence: high
 ---
 
@@ -152,6 +152,20 @@ different connection point on the same general platform):
 - **Launch:** hand the kite up and let it go with the wind — it flies
   straight up off the stern; once the boat turns onto an angle, the kite
   carries away from the boat instead of sitting overhead.
+
+## Squid on a double-hook rig — alternative to the flying-fish harness (Baja long-range, giant tuna)
+
+**Observed** (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range
+Tuna Fishing On The Intrepid | Part 1," aboard the long-range boat
+**Intrepid**, Baja "lower banks" roughly 608 nautical miles south of San
+Diego; unregistered channel — medium confidence): for the giant-grade tuna
+being targeted here, the boat put whole **squid** out under the kite rigged
+on a **double-hook rig**, called "very popular" for this grade of fish — a
+different bait/rig than the [flying-fish harness](../rigging/flying-fish-harness.md)
+or the live-mackerel alternative logged below. The squid is put out on the surface
+and left to drift with the current and wind, presented as offering the fish
+little resistance when it eats ("pretty much unresisted to it"). No hook
+size, hook spacing, or leader weight is given on camera.
 
 ## Live mackerel as a kite bait — alternative to the flying-fish harness
 

@@ -1127,7 +1127,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | AfZoeSu_9hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt1 |
 | 27MMQGRIrpw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt2 |
 | SH7zOA9ZF3o | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/yo-yo-iron.md / San Benito Island structure/kelp break-off corroboration and two-partial-crank-then-full-wind yo-yo cadence added; evaluator fixed a bare upload-date- |
-| pk2blktDQ9Y | StokedOnFishing | on-the-water | parameter-skim | pending | San Diego to Baja banks (long range); leader-test ladder by fish size, kite/squid double-hook rig, bait-care; series pt1 |
+| pk2blktDQ9Y | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; tackle/line-and-leader.md; techniques/fighting-big-bluefin.md; techniques/kite-fishing.md / Long-range multi-day bait load/care, line-class ladder by grade, fight-duration/topshot  |
 | Fq4aRI3YrKE | StokedOnFishing | on-the-water | observations-only | pending | Baja banks long-range tuna; fish-fight footage/personal-best chatter, no rigging detail; series pt2 |
 | UuyqTE21-kc | StokedOnFishing | on-the-water | single-pull | pending | Baja the ridge; balloon-suspended flyer-bait downwind technique for tuna/marlin; series pt3 |
 | D_Y2G0rBZCs | StokedOnFishing | on-the-water | parameter-skim | pending | San Clemente Isl yellowtail; sliding egg sinker/dropper loop, 20-25lb line, keep-bait-in-water tip |

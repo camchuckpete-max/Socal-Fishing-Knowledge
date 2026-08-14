@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y]
 confidence: medium
 ---
 
@@ -241,6 +241,26 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   at the boat" data point. Another hand-fought, region-labeled data point from
   the same East Cape series, distinct from the earlier-dated Fiesta-trip
   entries above.
+
+## Fight duration by topshot/backing class (Baja long-range, "lower banks")
+
+**Observed** (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range
+Tuna Fishing On The Intrepid | Part 1," 11-day trip aboard the long-range boat
+**Intrepid**, Baja "lower banks" roughly 608 nautical miles south of San
+Diego; species read here as giant-grade yellowfin ("cows") per the video's
+own framing, not confirmed bluefin — region-labeled, kept beside the SoCal
+bluefin doctrine above, not merged into it; unregistered channel — medium
+confidence): dockside, a crew member was asked how long a fight on "this guy"
+(a fish just landed) runs. The on-camera answer: **roughly 45 minutes,
+maxing out**, on a **100 lb top shot over 100 lb Spectra backing** — called
+"kind of iffy" past that. Asked what a **130 lb top shot** would do, the
+answer was "maybe another 10 minutes" (the audio doesn't make clear whether
+the heavier top shot shortens or lengthens the fight relative to the 45-min
+mark — asr-uncertain, not asserted either way). The same answer named a
+mechanism, not just a fixed time: fight duration also tracks **how many
+times the fish rolls onto its side and drags the line across its mouth and
+teeth** — an abrasion-risk framing consistent with, not a restatement of, the
+death-circle/line-across-the-teeth doctrine already logged above.
 
 ## The end-of-fight head-shake
 
