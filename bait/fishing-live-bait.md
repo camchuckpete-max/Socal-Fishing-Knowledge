@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI]
 confidence: medium
 ---
 
@@ -174,7 +174,12 @@ when to reach for each position by water column.
 
 - Fish the **hardest bait to catch in the tank** — the **lively lime-green** one
   with **scales intact, no red/bloody nose**, that's already swimming strong
-  (SluBXkT3cuw, raUPkuaFXpw).
+  (SluBXkT3cuw, raUPkuaFXpw). **Corroborated (Capt. Dave Hansen, Your
+  Saltwater Guide, 6ueGWJek1gI, 2018-08-16; registered voice, repeated
+  doctrine):** the lime-green-backed bait is the one to pick over a silver
+  one — but that call has to be made **while the bait is still up and
+  swimming**, because bait piled flat in the tank or net all reads as the
+  same silver color from above.
 - Cull the **easy-to-catch, bloody, scaly, lethargic** baits into the **chum
   bucket** or over the side — don't fish them (raUPkuaFXpw, SluBXkT3cuw).
 - **60-second rule:** if a bait isn't **pulling line off the reel** shortly after
@@ -193,6 +198,30 @@ when to reach for each position by water column.
   enough at a one-a-minute cadence that the boat runs out of bait on many
   days — the reason for running as big a [bait tank](bait-tanks.md) as the
   boat will carry.
+
+## From tank to hook without killing the bait (Capt. Dave Hansen, Your Saltwater Guide, 6ueGWJek1gI, 2018-08-16)
+
+Registered voice. The core rule — don't lift bait out of the water to look
+it over — repeats the "don't pull bait out of the water needlessly" doctrine
+already logged in [bait tanks](bait-tanks.md) from L_FD-UzvEio, so that part
+reaches `high` confidence. The rod-on-the-rail workflow and the
+get-it-back-in-the-water-before-a-bird-takes-it point below are single-mention
+from this video and stand at `medium` on their own until corroborated
+elsewhere.
+
+- **Don't carry the rod to the bait tank.** Lean it on the rail instead —
+  that frees both hands to work the net. There's no need to fish one-handed
+  (holding the rod) while netting bait with the other.
+- **Net the bait, don't hand it.** Leave the net in the water, come up under
+  the bait with it, and carry the bait to the rod still sitting in the net —
+  don't lift it out and hold it by hand to look it over. Holding a bait up
+  out of the water knocks the scales off it and starts killing it before
+  it's even hooked.
+- **Get it back in the water fast once it's hooked.** Don't hook the bait and
+  then hold it up dangling on the line while sorting out the reel — a
+  dangled bait over the rail is exactly what a bird overhead is watching for.
+  Figure out the reel with the bait still in the water, then flick/cast it
+  out rather than horsing it around in the air first.
 
 ## Hook size and style
 

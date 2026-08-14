@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI]
 confidence: medium
 ---
 
@@ -127,7 +127,11 @@ treat it as a judgment call made fresh at the barge each trip, weighing:
 - **Never pull live bait out of the water just to look at it** — it knocks the
   scales off and turns healthy bait into damaged bait you'll have to cull. The
   only times bait should leave the water are walking it to the rod to hook it,
-  or to chum.
+  or to chum. **Same rule, repeated roughly three and a half years earlier
+  (dave-hansen, Your Saltwater Guide, 6ueGWJek1gI, 2018-08-16):** carry the bait to the rod in
+  the net rather than by hand, and lean the rod on the rail instead of
+  bringing it to the tank — see the tank-to-hook workflow in
+  [fishing live bait](fishing-live-bait.md).
 - Culled dead bait isn't wasted: unless the boat has an unusually large bait
   supply, save it in a bucket (a 5-gallon bucket covers most boats) and use it
   for chum through the day, including chumming on the anchor.
