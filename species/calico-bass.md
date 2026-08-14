@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI]
 confidence: high
 ---
 
@@ -115,6 +115,9 @@ present the outside stringers.
 - **Bait events trump water quality:** a grunion blitz in ugly, stagnant,
   no-current kelp produced every-cast bass (10/20/22) — when the bait is there,
   fish it regardless of the water read.
+- **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
+  calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
+  r6j5w40fVHI, 2022-04-25).
 
 <!-- backlinks:start -->
 ## Linked from

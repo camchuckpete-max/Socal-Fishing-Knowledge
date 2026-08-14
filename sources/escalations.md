@@ -24,3 +24,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T01:14:43Z — G6YRT4HNxr8 — evaluator-escalate
 - run: 31753705275
 - reason: freshwater three-hook-cap claim is a gear-limit-flavored claim under CDFW's purview; hedged as Castro's personal operating rule (no jurisdiction/as-of stamp by design since unverified) — confirm framing is acceptable
+
+## 2026-08-14T01:28:01Z — r6j5w40fVHI — evaluator-escalate
+- run: 31753705275
+- reason: patch introduces a regulatory claim (CA/CDFW calico bass 14in minimum legal size); confirm the size is still current before treating as verified

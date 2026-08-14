@@ -806,7 +806,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | yKaHcxX46l4 | Your Saltwater Guide | tutorial | parameter-skim | done | tackle/hooks.md; techniques/chunking.md / Squid cut-strip prep/hooking added to hooks.md; anchored chum-placement-vs-current added to chunking.md |
 | q4NBPuH3gCA | Your Saltwater Guide | on-the-water | skip:duplicate-of-5FzBwvMtRP8 | skipped | confirmed: same mackerel-on-microfiber-rag recording as 5FzBwvMtRP8 (2019), ASR variance only |
 | ohR9DeBOU9E | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic sand bass filleting demo, no conditions/decision content |
-| r6j5w40fVHI | Your Saltwater Guide | tutorial | single-pull | pending | Calico bass filleting demo; single fact: CA calico bass 14in min legal size |
+| r6j5w40fVHI | Your Saltwater Guide | tutorial | single-pull | done | species/calico-bass.md / added CA/CDFW 14in calico bass legal-size fact (dave-hansen) to Doctrine & conflicts |
 | VUb7a3sP8zQ | Your Saltwater Guide | tutorial | parameter-skim | pending | Dehooking via pliers through gill opening w/o inverting fish; 14in calico legal-size note |
 | ty8FtA3Y2bA | Your Saltwater Guide | tutorial | deep | pending | Sculpin/venomous handling: thumb-in-lip grab, spine locations, 10in min size, meat quality |
 | k80p1ShSvZs | Your Saltwater Guide | tutorial | parameter-skim | pending | Twin-screw docking mechanics: no throttle, engine-combo bow control, drift-in technique |
