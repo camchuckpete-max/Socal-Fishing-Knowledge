@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, brx6Ie_L2FM]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM]
 confidence: high
 ---
 
@@ -343,6 +343,28 @@ typical-year mapping.
   [surface iron](../techniques/surface-iron.md) for a smaller grade of fish
   than the trolled bait produced) were released rather than kept. Unregistered
   channel — medium confidence.
+  **Observed, day two of the same trip** (StokedOnFishing, 2021-10 trip (per
+  on-camera reference), 2022-06-15 upload, Cedros Island, Baja —
+  `I-QBxuV2p7M`, "Stoked to Be Back in Cedros Island Calico Bass Fishing";
+  directly continues the `QSmE3mdEL28` entry above — the crew calls it "day
+  two" on camera and references losing a big yellowtail at this same spot
+  the day before): that morning's bait-making run specifically targeted
+  bigger mackerel ("the big green mackerel... big bait today") for the day's
+  renewed push at the fish that got away. The crew then returned to the same
+  spot running **heavier gear than the day before — 65 lb braid to 80 lb
+  fluorocarbon leader** — with the stated reasoning that "big fish could
+  care less what size line you're using, they just want to eat that giant
+  mackerel and go back to their hole"; a kept-side-by-side gear data point,
+  not reconciled with the 80–100 lb line-class bracket logged for the prior
+  day. The troll was worked over roughly **30 ft** of water. Despite the
+  heavier gear, the day produced **zero yellowtail bites** ("we haven't had
+  one yellow tail all day, not one bite") — a direct contrast, kept side by
+  side and not reconciled, with the prior day's repeated-hookup slow-troll
+  session at the same spot, illustrating the day-to-day bite variability the
+  crew itself calls out on camera ("every single day is different here").
+  The crew abandoned the yellowtail push and diverted to calico bass fishing
+  instead — see the [calico bass](calico-bass.md) Cedros entry for that leg.
+  Unregistered channel — medium confidence.
   **Observed** (StokedOnFishing, 2021-10 trip (per on-camera reference),
   2022-06-22 upload, Cedros Island, Baja — `brx6Ie_L2FM`, "Stoked to Be
   Back in Cedros Island Dorado Fishing"; likely the same trip as the

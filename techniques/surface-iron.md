@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M]
 confidence: high
 ---
 
@@ -245,6 +245,17 @@ called biting a **green-and-yellow** ("mac color") surface iron repeatedly
 late in the session — a further single-trip color report, not generalized
 into doctrine, consistent with this note's "no systematic color doctrine"
 framing above.
+
+**Observed** (StokedOnFishing, 2021-10 trip (per on-camera reference),
+2022-06-15 upload, Cedros Island, Baja — `I-QBxuV2p7M`, "Stoked to Be Back in
+Cedros Island Calico Bass Fishing"; day two of the same trip as the
+[yellowtail](../species/yellowtail.md) `QSmE3mdEL28` entry): during a
+wide-open calico bass bite over reef structure, two anglers ran different
+colors side by side — one **white**, the other **blue/greenish** — and both
+were called out as producing. A third single-trip color data point for
+Cedros, alongside (not merged into) the mint and blue/white reports above;
+still not generalized into doctrine. Unregistered channel — medium
+confidence.
 
 **Color-by-light framework, tuna lead jigs (Cesar, Eric's Tackle, via Dirty
 Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry

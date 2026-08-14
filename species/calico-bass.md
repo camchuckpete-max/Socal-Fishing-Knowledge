@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M]
 confidence: high
 ---
 
@@ -218,6 +218,28 @@ you read the *current across the kelp*, not the tide clock.
   benchmark](../lures/soft-plastic-swimbaits.md)) also producing. Consistent
   with, not a new data point on, the fast/immediate-bite Chester's Rock
   pattern already documented above. Unregistered channel — medium confidence.
+- **Observed, day two of the same trip as the `QSmE3mdEL28`/`I-QBxuV2p7M`
+  entries in [yellowtail](yellowtail.md)** (StokedOnFishing, 2021-10 trip
+  (per on-camera reference), 2022-06-15 upload, Cedros Island, Baja —
+  `I-QBxuV2p7M`, "Stoked to Be Back in Cedros Island Calico Bass Fishing"):
+  after a full day's trolling for a giant yellowtail produced zero bites
+  (see the [yellowtail](yellowtail.md) entry for that leg), the crew
+  diverted to a calico bass ground worked as **drifts over reef bottom
+  ("reef reef reef reef") at 18–20 ft**, with birds working overhead
+  marking the fish. The bite was wide-open on **surface iron** — "catching
+  them pretty much every cast" — with repeated doubles, consistent with the
+  fast/high-volume Cedros bite pattern already documented above. Two colors
+  were called out as both producing that session: one angler on **white**,
+  the other on **blue/greenish** (see the surface-iron color data points in
+  [surface iron](../techniques/surface-iron.md)). Separately, later in the
+  same session — well after the crew had already pivoted to the calico
+  drift, not clearly a continuation of the earlier 30 ft yellowtail troll —
+  a mackerel bait out on the water hooked an old, large **("grumpy")**
+  calico bass — landed on a visually confirmed **circle hook** and
+  released. The crew's stated ethic that session was to keep some and
+  release most, "especially the big ones" — consistent with, not a new data
+  point beyond, the Baja/Cedros voluntary catch-and-release ethic already
+  logged below. Unregistered channel — medium confidence.
 - **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur — Pacific side, described on camera as "just half way down the Baja
   Peninsula" — `qri15R3caYE`, "Stoked On La Bocana," part 1): a new-to-the-crew
@@ -487,6 +509,7 @@ present the outside stringers.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Trolling](../techniques/trolling.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

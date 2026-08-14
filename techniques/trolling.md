@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, brx6Ie_L2FM]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM]
 confidence: high
 ---
 
@@ -67,6 +67,23 @@ top-shot specs live in each lure note.
   rock noted in [yellowtail](../species/yellowtail.md) (not a claim about
   where the mackerel bait itself was netted). Unregistered channel — medium
   confidence.
+- **Observed, day two of the same trip** (StokedOnFishing, 2021-10 trip (per
+  on-camera reference), 2022-06-15 upload, Cedros Island, Baja —
+  `I-QBxuV2p7M`, "Stoked to Be Back in Cedros Island Calico Bass Fishing";
+  see the [yellowtail](../species/yellowtail.md) entry for that day's
+  narrative): the crew slow-trolled live mackerel again over roughly **30 ft**
+  of water, this time running **65 lb braid to 80 lb fluorocarbon leader** —
+  a heavier-leader, lighter-braid variant kept side by side with, not
+  reconciled against, the 80–100 lb line class logged for the prior day
+  above. This troll produced no yellowtail that day ("we haven't had one
+  yellow tail all day, not one bite"), and the crew moved on to calico bass
+  drifting. Later in that same session a mackerel bait out on the water —
+  the transcript doesn't establish whether it was still being actively
+  trolled at that point — hooked a large calico bass instead, landed on a
+  visually confirmed **circle hook** and released; consistent with the
+  circle-hook mechanics already logged for this trip, but see
+  [calico bass](../species/calico-bass.md) for the caveat on timing.
+  Unregistered channel — medium confidence.
 - **Observed** (StokedOnFishing, 2021-10 trip (per on-camera reference),
   2022-06-22 upload, Cedros Island, Baja — `brx6Ie_L2FM`, "Stoked to Be Back
   in Cedros Island Dorado Fishing"; likely companion episode to the
@@ -389,6 +406,7 @@ snook bite (kept for the table).
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [August](../seasonal/august.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
