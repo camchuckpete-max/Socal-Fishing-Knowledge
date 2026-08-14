@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4]
 confidence: medium
 ---
 
@@ -54,6 +54,48 @@ fish sit is the router; this note owns the rig and how you feed the bite.
 - Result on the water: the **egg sinker bounces off the bottom and the bait
   wafts behind it** in the current, which triggers bites. Strong on both the
   anchor and the drift.
+
+## White seabass weight ladder & suspend-and-retrieve (Your Saltwater Guide)
+
+Capt. Dave Hansen (presenter-inferred — Your Saltwater Guide's consistent
+voice per the source registry, not named on-camera), Your Saltwater Guide,
+ShSxNKAcUB4, 2020-12-08; single mention of this specific build —
+`medium` confidence.
+
+- **Hook:** a **thin-wire Mustad hook** rather than an octopus hook, squid
+  hooked the same way as the channel's dedicated hook-a-squid video (linked
+  on-camera but not otherwise identified here).
+- **Weight ladder, scaled to current and depth:** run the **least weight that
+  will still get the bait down** — an eighth of an ounce or a quarter ounce
+  when conditions allow. Step up to a half or **three-quarters of an ounce**
+  as current picks up or the water gets deeper. **Rarely goes to a full ounce**
+  on a live or dead squid — it sinks through the column too fast at that
+  weight. In genuinely heavy current over deep water, he abandons the slider
+  entirely for a heavy jig with the squid hooked on it, dropped straight down
+  (asr-uncertain: captions render the jig name as "a TLC"; not carried as a
+  brand — see log).
+- **Lead-head color, a separate point in the same passage:** the lead heads
+  he otherwise likes for squid are **orange-headed** — not heavy, sink well
+  through the column, sized with a big enough hook to carry the squid — and
+  he believes the orange is a **reaction color** for white seabass watching
+  the squid sink. Captions render "lead head" as "LED head" throughout this
+  passage (ASR artifact, not carried). The transcript does not establish
+  whether this orange lead head is the same lure as the heavy current-jig
+  above or a separate, lighter, general-purpose preference — kept as two
+  distinct statements rather than merged into one.
+- **Suspend-and-retrieve:** cast the bait out and let it sink slowly through
+  the water column; once it reaches bottom, reel it straight back up and cast
+  again immediately — never leave it soaking on the bottom. He reports action
+  (white seabass, yellowtail, calico bass, perch, sheephead, or bottom bycatch)
+  on close to every cast; if a stretch of casts draws nothing at all, move.
+- **Why suspend, not soak:** white seabass have a forward-facing mouth and
+  feed up in the column, not down in the sand — a bait left on the bottom
+  draws bat rays, shovelnose guitarfish and leopard sharks (all
+  underslung-mouth bottom feeders) instead of seabass.
+- **Dropper-loop alternative, same source:** for anglers who prefer to soak a
+  rod in the holder instead of casting and retrieving, a dropper loop tied 12
+  to 18 inches above the sinker holds the squid up out of bottom contact the
+  same way — see [dropper loop](dropper-loop.md).
 
 ## Baja, Sea of Cortez grouper leader (Cesar)
 

@@ -877,7 +877,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | gKrYKvqHUjk | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md; tackle/rod-and-reel-selection.md: Merged fly-line rig doctrine (species-bait pairings, line-weight-to-bait matching, distance-over-weight, cast-control-brake mechanism) into exi |
 | Rf1HKJG-SDg | Your Saltwater Guide | tutorial | deep | done | locations/zone-lexicon.md; planning/electronics-and-sounder.md; species/bluefin-tuna.md; species/rockfish-lingcod.md / added bank fathom-depth naming convention + fathometer terminology and cross-link |
 | YPhc0zr7oBs | Your Saltwater Guide | seminar | skip:duplicate-of-aFb221LUoD0 | skipped | triage-confirmed: near-verbatim same swell/current/water-color seminar, shorter cut; longer cut is the primary |
-| ShSxNKAcUB4 | Your Saltwater Guide | tutorial | deep | pending | WSB: sliding-sinker weight ladder by current/depth, thin-wire hook, suspend-and-retrieve technique |
+| ShSxNKAcUB4 | Your Saltwater Guide | tutorial | deep | done | species/white-seabass.md; techniques/dropper-loop.md; techniques/sliding-sinker.md / WSB sliding-sinker weight ladder, thin-wire hook, and suspend-and-retrieve technique added with router row and drop |
 | cEscIy278ew | Your Saltwater Guide | tutorial | deep | pending | Hoop net retrieval: always back stern into buoy, spotlight on line, bump-forward to clear prop |
 | aFb221LUoD0 | Your Saltwater Guide | seminar | deep | pending | Swell/current/wind-based spot selection w/ named Catalina spots; overlaps YPhc0zr7oBs (longer cut) |
 | 7HApvxvtxgo | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic sport-boat etiquette advice, no fishing-technique content |

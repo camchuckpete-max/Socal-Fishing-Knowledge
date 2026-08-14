@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4]
 confidence: high
 ---
 
@@ -34,6 +34,13 @@ this note owns the rig and the retrieve.
 - Weight and depth track the target: **rock cod → heavier sinker, deeper water;
   seabass → lighter sinker**; if the **current is heavy, up the weight** to hold
   bottom. It is the same rig across species — only the lead changes.
+- **White seabass loop height:** for WSB specifically, Your Saltwater Guide
+  ties the hook **12 to 18 inches above the sinker** so the squid rides well
+  clear of the bottom over/near a squid nest — the same "seabass → lighter
+  sinker, kept off bottom" principle above, with a concrete figure (Your
+  Saltwater Guide, ShSxNKAcUB4, 2020-12-08). See also the [sliding-sinker
+  suspend-and-retrieve alternative](sliding-sinker.md#white-seabass-weight-ladder--suspend-and-retrieve-your-saltwater-guide)
+  from the same source for a cast-and-retrieve option on the same fish.
 - **Baja, Sea of Cortez reference weights (region: Baja):** bottom fishing for
   cabrilla/grouper there runs well past the SoCal 6–10 oz range — **16 oz** held
   bottom for nearly an entire November 2022 panga trip, stepped up to **24 oz**

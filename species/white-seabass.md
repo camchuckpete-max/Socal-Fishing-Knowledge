@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4]
 confidence: high
 ---
 
@@ -69,6 +69,7 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
 | Casting off-color rip / kelp edge, some current | **[Surface iron](../techniques/surface-iron.md)** worked slow | Jig-stick class (7–9', 40–50 lb) | A classic island WSB and yellowtail crossover; slow, steady grind over the color edge |
 | Anchored, no bait aboard | **Chum bucket** off the transom as an artificial "thumb over the hose" + lead-head/squid or slider cast on the color edge | 30 lb bait class | Chum bucket builds the plankton→bait→WSB chain and its drift line reads your true current (2/20/25) |
 | Late-fall island, off-color water, current **into** the island | Fish the **into-island dirty water** on the kelp edge | Bait / jig-stick class | The seasonal exception to the parallel-current prior — SCI late fall wanted off-color water and current **into** the kelp (11/23/22 — see Doctrine) |
+| Squid soak with no pinned nest/structure to anchor on — working the column blind | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: light slider on a thin-wire hook, cast out, let it sink slowly all the way to bottom, then reel up and recast immediately — never let it sit on the bottom | 30 lb bait class | WSB's forward-facing mouth won't take a bottomed bait — a bait left on bottom draws bat rays, shovelnose and leopard sharks (mouths on the underside of the head) instead; constant recasting also raises calico bass, perch and sheephead (Your Saltwater Guide, ShSxNKAcUB4, 2020-12-08) |
 
 **Anchoring geometry:** WSB is **not a bottom fish** — anchor **up-current of the
 spot** and let bait/chum drift back to it; scale the standoff to current strength,
@@ -81,7 +82,9 @@ and further still if a break-off fish (a big yellow) shares the spot (2/20/25).
   the surface iron. See [gear classes](../tackle/gear-classes.md).
 - **Terminal:** **[lead-head + squid](../rigging/leadhead-mods.md)** (2–3 squid
   threaded up the head), **[dropper loop](../techniques/dropper-loop.md)** with
-  squid, **[surface iron](../lures/iron-jigs.md)** for the cast. Squid is the
+  squid, **[surface iron](../lures/iron-jigs.md)** for the cast,
+  **[sliding sinker](../techniques/sliding-sinker.md)** on a thin-wire hook
+  (not octopus) for the blind suspend-and-retrieve soak. Squid is the
   staple; the market/wild-caught squid works even on the small side.
 
 ## Doctrine & conflicts
