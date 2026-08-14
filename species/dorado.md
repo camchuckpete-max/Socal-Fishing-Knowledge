@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE]
 confidence: high
 ---
 
@@ -258,6 +258,26 @@ checking for chafe damage each time rather than fishing the same leader
 section through many fish in a row. A leader-maintenance parameter, not a
 rigging change — sits alongside the 20–40 lb stepped-leader doctrine in the
 gear summary below.
+
+**Observed (Baja, region label)** (StokedOnFishing, October trip (year not
+stated on camera), 2024-04-11 upload, Cedros Island, Baja — `A8SuzB5qiKE`,
+"The Fishing Went Off with Cedros Outdoor Adventures"; Cedros Outdoor
+Adventures charter, sponsor-heavy video — Okuma/Grundens/El Dorado
+Sportfishing ad reads; unregistered channel — medium confidence): rounding
+the point back toward the harbor after a yellowtail session (see
+[yellowtail](yellowtail.md) for that leg), the crew ran **trolled feathers**
+over the **outside rim**, deliberately following visible bait, for a planned
+**20–30 minutes** — a close-to-port, artificial-feather variant kept side by
+side with, not reconciled against, the live-mackerel slow-troll already
+logged for this location in the `brx6Ie_L2FM` entry above; see
+[trolling](../techniques/trolling.md) for the full troll-mechanics entry.
+The troll connected quickly, landing a dorado on a lure/leader captioned on
+screen as "purple people leader" (ASR-uncertain — possibly a Purple People
+Eater-pattern feather, not confirmed by name). This followed the same
+boat's own yo-yo yellowtail session earlier that day (see
+[yellowtail](yellowtail.md)) — a distinct boat and session from this same
+video's separately reported one-day tally of about 12 yellowtail plus a
+dorado (also logged in [yellowtail](yellowtail.md)).
 
 ## Gear summary (class terms)
 

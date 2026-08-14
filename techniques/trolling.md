@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE]
 confidence: high
 ---
 
@@ -171,6 +171,23 @@ top-shot specs live in each lure note.
   detail. A bonita was also boated on the troll — see
   [Pacific bonito](../species/bonito.md) for a teeth/leader observation
   from this same fish.
+- **Observed** (StokedOnFishing, October trip (year not stated on camera),
+  2024-04-11 upload, Cedros Island, Baja — `A8SuzB5qiKE`, "The Fishing Went
+  Off with Cedros Outdoor Adventures"; Cedros Outdoor Adventures charter,
+  sponsor-heavy video — Okuma/Grundens/El Dorado Sportfishing ad reads;
+  unregistered channel — medium confidence): rounding the point back toward
+  the harbor after a yellowtail session (see
+  [yellowtail](../species/yellowtail.md) for that leg), the crew put out
+  **trolled feathers** on the **outside rim**, deliberately following visible
+  bait, for a planned **20–30 minutes** — an artificial-feather variant kept
+  side by side with, not reconciled against, the live-mackerel slow-troll
+  already logged for [dorado](../species/dorado.md) at this same location
+  above. The troll connected quickly once feathers were out, landing a
+  dorado on a lure/leader captioned on screen as "purple people leader"
+  (ASR-uncertain — possibly a Purple People Eater-pattern feather, not
+  confirmed by name). A close-to-port dorado opportunity worked on the run
+  in, distinct from the offshore paddy/open-water program documented in
+  [dorado](../species/dorado.md).
 
 ## Running the spread — sweeps, not straight lines
 

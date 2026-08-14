@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE]
 confidence: high
 ---
 
@@ -474,6 +474,27 @@ typical-year mapping.
   best** — gear/hook parameters from that catch are logged in [trolling —
   Cedros Island](../techniques/trolling.md). The same trip's wide-open
   halibut action is logged in [California halibut](california-halibut.md).
+  **Observed** (StokedOnFishing, October trip (year not stated on camera),
+  2024-04-11 upload, Cedros Island, Baja — `A8SuzB5qiKE`, "The Fishing Went
+  Off with Cedros Outdoor Adventures"; Cedros Outdoor Adventures charter,
+  multiple boats/captains on the same trip — sponsor-heavy video (Okuma,
+  Grundens, El Dorado Sportfishing, Cedros Outdoor Adventures ad reads);
+  unregistered channel — medium confidence): the intro framed October at
+  Cedros as a multi-species draw — **resident big yellowtail, yellowfin
+  tuna, dorado, calico bass, sheephead, and big halibut** — consistent with,
+  not new beyond, the standing October-sequencing logic already logged for
+  this location in [trolling](../techniques/trolling.md#reach-for-this-when)
+  (YUdbrIm9vrE entry). Two separate boats on this trip are documented: one
+  boat's one-day report (Bill and Andrew, no gear/color detail captured for
+  that session) was **about 12 yellowtail plus a nice big dorado** ("a
+  great, exciting day full of action"). A different boat, on what the
+  on-camera "good morning" framing marks as a separate day (the crew's own
+  boat, Captain Val), fished yo-yoing heavy iron in **blue and white** with
+  grade described as improving through the session ("that's the biggest one
+  yet... a little bit bigger"); full rod/reel/leader builds and depths from
+  this session are logged in [yo-yo iron](../techniques/yo-yo-iron.md).
+  That same boat then trolled for dorado on the way back to the harbor —
+  logged in [dorado](dorado.md) and [trolling](../techniques/trolling.md).
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —

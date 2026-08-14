@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE]
 confidence: high
 ---
 
@@ -199,6 +199,34 @@ the reverse map in **Linked from** below.
   "Alos" — asr-uncertain, not confirmed by name) paired with an **Okuma PCH
   extra-heavy rod**. Fished dropping to about **80 ft** with bait marks sitting
   around **60 ft**.
+- **Two same-session builds, no-fluoro vs. fluoro top shot (Observed,
+  StokedOnFishing, October trip (year not stated on camera), 2024-04-11
+  upload, Cedros Island, Baja — `A8SuzB5qiKE`, "The Fishing Went Off with
+  Cedros Outdoor Adventures"; Cedros Outdoor Adventures charter; unregistered
+  channel — medium confidence):** dropping a heavy iron straight to the
+  bottom and yo-yoing it in **blue and white** produced repeated yellowtail,
+  with one drop called out on camera at **212 ft** and the crew describing
+  fish showing anywhere from **50 to 150 ft**. One rod/reel build fishing
+  this bite was a two-speed reel (captions render "Le hose 12" — ASR-
+  uncertain, brand/model not confirmed) on a **PCH 7'6" extra-heavy** rod —
+  corroborating the PCH extra-heavy rod line already logged above — spooled
+  with **65 lb braid backing to 60 lb straight mono topshot, no
+  fluorocarbon** (mirrors the no-fluoro-leader data point already logged for
+  the LTCFjqtSI8g build above); the angler was coached on camera to **point
+  the rod down** during the fight to let slack line come tight faster. A
+  second build on the same session, landing a different fish, was captioned
+  a "Toro five star drag" reel (ASR-uncertain, brand/model not confirmed)
+  running **60 lb braid to 60 lb fluorocarbon leader** — fluorocarbon this
+  time, kept side by side rather than reconciled with the no-fluoro build
+  above — with the fish gaffed on a clean **corner hook** hookset. Separately,
+  showing off the trip's yo-yo jig rotation on camera, the angler singled out
+  **scrambled egg** as a color he expected to have on hand but was missing
+  that trip — corroborating, not a new pick beyond, the scrambled-egg
+  doctrine already logged above — paired with an Okuma reel described as
+  having a "big power handle" good for cranking on big yellows (sponsor-
+  heavy video — Okuma is a paid sponsor of this channel; product claim
+  logged at low confidence, kept separate from the medium-confidence
+  technique/parameter observations above).
 
 ## Common failures
 
