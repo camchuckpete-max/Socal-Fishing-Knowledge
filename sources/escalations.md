@@ -104,3 +104,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T20:02:00Z — elBPRrdkugU — guard-violation
 - run: 31831183245
 - reason: commit 848d803b666632b235955e120a06c55e75f09e3e reverted: protected path touched: profiles/cameron/rods.md
+
+## 2026-08-14T22:58:45Z — 3qSY328fFYo — guard-violation
+- run: 31845737451
+- reason: commit bd4968bfe39d7b1d79eb2cfd1dc1027f492202e0 reverted: deleted 21 lines from curated note: techniques/bait-and-switch.md
