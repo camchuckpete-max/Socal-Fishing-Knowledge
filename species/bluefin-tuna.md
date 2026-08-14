@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM]
 confidence: high
 ---
 
@@ -88,6 +88,24 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   the same briefing are logged in
   [knife jigging](../techniques/knife-jigging.md) and
   [knife jigs](../lures/knife-jigs.md).
+- **Observed** (StokedOnFishing, August trip (year not stated on camera),
+  2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
+  "Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
+  the Eldorado; unregistered channel — medium confidence): across two
+  consecutive nights knife-jigging offshore of the island, the crew stacked
+  up multiple bluefin on the jig, including a fish called a **"hot
+  90-pounder."** A separate daytime leg **trolling** the same offshore water
+  (gear/lure detail not resolved beyond a lure nicknamed "old pinky" on
+  camera; color/model not otherwise resolved) produced smaller-grade bluefin than the night-jig fish,
+  including a **double hookup**, framed on camera as a surprise ("who would
+  have thought trolling's paying off") — see
+  [bluefin trolling](bluefin-trolling.md) for that leg. A hooked fish that
+  came up tail-wrapped on the night jig broke off boatside; that fight, plus
+  a second mola mola (sunfish) interference incident from the trip's other
+  night-jig session, are logged in
+  [fighting a big bluefin — mola mola interference and a tail-wrapped fish
+  broken off at the
+  boat](../techniques/fighting-big-bluefin.md#mola-mola-sunfish-interference-and-a-tail-wrapped-fish-broken-off-at-the-boat).
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the

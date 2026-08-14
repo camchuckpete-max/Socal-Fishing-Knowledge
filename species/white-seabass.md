@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM]
 confidence: high
 ---
 
@@ -29,6 +29,16 @@ lead-head-and-squid is the signature rig.
   Weight **full/new ± a week** as elevated-probability windows. See
   [moon](../conditions/moon.md), [June–July](../seasonal/june-july.md),
   [October](../seasonal/october.md), [February–March](../seasonal/february-march.md).
+- **Observed** (StokedOnFishing, August trip (year not stated on camera),
+  2026-04-24 upload, San Clemente Island, SoCal — `sHnqSIOjTdM`, "Night
+  Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard the
+  Eldorado; unregistered channel — medium confidence): white seabass showed
+  as repeated bycatch on a [dropper loop](../techniques/dropper-loop.md)
+  soak (squid and sardine, 40 lb line, 100 ft) fished for
+  [yellowtail](yellowtail.md) at the island — not a dedicated WSB program,
+  but consistent with WSB holding the same squid-driven island structure
+  yellowtail work. The boat had already reached its trip's white seabass
+  limit, so each fish taken this way was released rather than boxed.
 - **Squid is the driver.** From the
   [warming transition through the warm-stable regime](../conditions/water-regimes.md)
   (typically early spring through summer), WSB tracks the **squid** —
@@ -249,4 +259,5 @@ into the spot once the current read right.
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

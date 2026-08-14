@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM]
 confidence: medium
 ---
 
@@ -70,6 +70,22 @@ below, but the floor and the reasoning still stand as a sanity check):
   doing it wrong; offshore tuna fishing goes through a large amount of bait
   between chumming and fishing it, so load for that rather than against a
   "that should be enough" instinct.
+
+## Sharing bait between boats without rafting up
+
+**Observed** (StokedOnFishing, August trip (year not stated on camera),
+2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
+"Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
+the Eldorado; unregistered channel — medium confidence): when a nearby boat
+— reportedly on its own multi-day trip ("I do believe they're on a
+2-day") — had its bait net **roll overnight** and lost its bait, this crew
+shared bait without rafting up boat-to-boat. Instead of
+passing scoops hand-to-hand across the gunnels, they threw a line back to
+the other boat so its crew could **retrieve their own buoy line, pull their
+bait net to the side of their boat, lift it, and scoop bait straight out of
+it**. Framed on camera as safer and easier than tying up boat-to-boat,
+specifically **in a rolly swell condition**, where extended side-by-side
+contact between boats risks damage ("bad things can happen").
 
 ## Sizing flow to volume (GPH-to-gallons)
 

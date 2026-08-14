@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM]
 confidence: medium
 ---
 
@@ -245,6 +245,35 @@ gamefish a sea lion is stealing boatside, not just bluefin.
   catching fish, too") and grabbed through the gut before it reached the
   boat — fish lost. No free-spool/slack counter-move is described in this
   instance.
+
+## Mola mola (sunfish) interference and a tail-wrapped fish broken off at the boat
+
+**Observed** (StokedOnFishing, August trip (year not stated on camera),
+2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
+"Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
+the Eldorado; unregistered channel — medium confidence): two separate
+interference incidents spread across the trip's **two night-jig**
+[bluefin](../species/bluefin-tuna.md) sessions (the first recapped the
+next morning on camera, the second shown live), both blamed on **mola
+mola (sunfish)** working around a hooked fish — a cross-species
+interference risk distinct from, and not predatory like, the sea lion
+depredation pattern above.
+
+- On one hookup, the angler cranked the fish in fast; as it neared the boat
+  a mola mola surfaced and appeared to bombard/hit the hooked fish, and the
+  hook pulled. The crew's own read on camera was that bringing a fish up too
+  fast may have drawn the sunfish in ("I brought him up so fast... I don't
+  know if that's a good idea or not"). A separate fish — called a
+  **"hot 90-pounder"** — was landed on the next hookup moments later on the
+  same stop.
+- On the trip's second night-jig session, a bluefin hooked at night fought unusually weak,
+  described on camera as coming up "dead like a kite." Once at the surface it
+  was found **tail-wrapped** in the line. At the boat the fish suddenly "woke
+  up" and, with one kick, **broke 100 lb** (line/leader class not specified
+  beyond "100 lb") before it could be gaffed — the jig, named on camera as
+  the angler's "number one jig" from **West Coast Jiggerz**, was lost with
+  it. The crew again blamed a mola mola for harassing the fish through the
+  fight, calling it out as a factor on "the last two fish" of the session.
 
 ## Common failures
 

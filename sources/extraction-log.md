@@ -1056,7 +1056,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | UfuiWFVvz2E | StokedOnFishing | on-the-water | observations-only | done | lures/knife-jigs.md; species/bluefin-tuna.md; species/yellowtail.md; tackle/hooks.md; techniques/knife-jigging.md / on-the-water observations-only extraction of a Constitution/Fisherman's Landing Cort |
 | 7U4N1f0viOU | StokedOnFishing | on-the-water | observations-only | done | none / confirmed duplicate/re-cut recap footage of the already-logged Cedros Oct-trip series (Bonito Island/Chester's Rock/mackerel-bait-circle-hook content all previously captured); no new extractabl |
 | R1F66XIjf3E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba Island) yellowfin tuna; sponsor-heavy intro |
-| sHnqSIOjTdM | StokedOnFishing | on-the-water | observations-only | pending | SoCal (San Clemente Is./offshore Eldorado) yellowtail then night bluefin jig |
+| sHnqSIOjTdM | StokedOnFishing | on-the-water | observations-only | done | bait/bait-tanks.md; species/bluefin-trolling.md; species/bluefin-tuna.md; species/white-seabass.md; species/yellowtail.md; techniques/fighting-big-bluefin.md / on-the-water observations merged as Obse |
 | mDmbGdQAy-4 | StokedOnFishing | on-the-water | deep | pending | SoCal (Huntington Beach/Santa Barbara Is.) kite+flying-fish rig, railroading; overlaps usHl-4SfqDA footage |
 | SdwwpQMJEOI | StokedOnFishing | on-the-water | observations-only | pending | SoCal (Long Beach) Olive Crest bass tournament; primary of qBZxnRuXtGo dup |
 | Y1xeieQI3B4 | StokedOnFishing | on-the-water | observations-only | pending | SoCal (Cortez Bank/Eldorado) day2 wrap+switch to rockfishing; series: Cortez Bank trip part 3 |

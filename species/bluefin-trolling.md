@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM]
 confidence: high
 ---
 
@@ -156,6 +156,20 @@ stay over fish), and the calm-day school-grade spread does the rest.
   back than the documented setback** — see [Mad Mac](../lures/mad-mac.md) —
   specifically to give a **boat-shy school** room, another attributed
   variance kept beside, not merged into, that lure note's setback spec.
+- **Observed** (StokedOnFishing, August trip (year not stated on camera),
+  2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
+  "Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
+  the Eldorado; unregistered channel — medium confidence): after a slow
+  stretch — a marked school of bluefin passed directly under the boat
+  without eating a thrown scoop of bait — the crew ran **four trolled
+  lines**, with more rods ready to deploy if they got another troll bite,
+  and picked up multiple smaller-grade bluefin on the troll, including a **double
+  hookup**. One lure on the spread was nicknamed **"old pinky"** on camera
+  (color/model not otherwise resolved). Framed by the crew as an unexpected
+  producer that day ("who would have thought trolling's paying off") — a
+  data point on trolling converting direct bites on a quiet day, not only
+  serving as a locate-and-cover tool; see [bluefin tuna](bluefin-tuna.md)
+  for the same trip's contrasting night-jig grade.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental

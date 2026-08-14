@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM]
 confidence: high
 ---
 
@@ -66,6 +66,19 @@ typical-year mapping.
   hooked yellowtail was lost boatside to a seal working the
   boat — another cross-species depredation instance alongside the sea-lion
   entry already logged in this note (see the situations table below).
+  **Observed** (StokedOnFishing, August trip (year not stated on camera),
+  2026-04-24 upload, San Clemente Island, SoCal — `sHnqSIOjTdM`, "Night
+  Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard the
+  Eldorado; unregistered channel — medium confidence): an early-morning
+  [dropper loop](../techniques/dropper-loop.md) bite at the island, fished
+  on **40 lb** line at **100 ft**, producing yellowtail on both live squid
+  and sardine — squid called out on camera as outfishing sardine ("the
+  squid's getting it done"). The same soak repeatedly picked up
+  [white seabass](white-seabass.md) as bycatch; the boat had already reached
+  its trip's white seabass limit, so each seabass was released — a further
+  data point on the mixed yellowtail/seabass bycatch already logged for this
+  island. The trip's offshore night-bluefin leg (knife-jigging plus a
+  daytime troll) is logged in [bluefin tuna](bluefin-tuna.md).
   **Observed** (StokedOnFishing, 2019-06-19, San Clemente Island, SoCal —
   `ecJPMTCi-gw`; unregistered channel — medium confidence): the only boat at
   the island that day, working around seals on the drift. With a Simrad
@@ -794,6 +807,7 @@ water temp and bait depth before committing the day to one face.
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
