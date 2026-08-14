@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw]
+tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds, drone]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk]
 confidence: high
 ---
 
@@ -129,6 +129,21 @@ term, no species specified), and the paddy's own **discoloration spot** on
 the water — normally a visible brown patch, but under overcast skies the
 same paddy shows only as a plain dark spot rather than "bright, brown, and
 pretty."
+
+- **Drone.** An aerial alternative to binocular glassing and the fathometer
+  check above: fly a drone over a paddy to look for fish holding underneath it
+  before committing bait (StokedOnFishing, 9jDy4gUUyJk, 2019-11-04; unregistered
+  channel — medium confidence). The clip gives no altitude, flight pattern, or
+  drone model — only that the method is used as a pre-check, the same
+  "look-before-you-commit" motion as the visual/sounder check above, done from
+  the air instead of the deck.
+
+**Observed** (StokedOnFishing, 2019-11-04, location/region not stated): a
+paddy worked that day (drone-scouted per above) produced a couple of dorado;
+the crew mentioned they might come back and fish the same spot again later.
+The auto-captions around this point are too garbled to confirm more (e.g.
+whether that meant skipping the rest of the paddy line) — no count, depth, or
+paddy-line detail beyond that can be read out of the clip.
 
 ## Links
 
