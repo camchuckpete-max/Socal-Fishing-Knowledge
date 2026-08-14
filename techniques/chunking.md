@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4]
 confidence: high
 ---
 
@@ -245,6 +245,15 @@ compatible with) the picky-dorado leader-stepdown doctrine in
 [dorado](../species/dorado.md): when a fish won't commit to the "good" live
 bait, switching to a chunked/cut offering may draw a bite before stepping the
 leader down. Region: SoCal, Mission Bay/offshore.
+
+## Stock the chunk supply proactively — don't leave a skipjack school (StokedOnFishing, 2014-11-03, offshore SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3"; sponsor-heavy episode; unregistered channel — medium confidence)
+
+Trip-tip framing, consistent with the chunk-bait-class doctrine directly
+above: if you run into a school of skipjack while running to the grounds,
+**don't just pass through — catch a couple and keep them for chunk bait**
+rather than cutting into the fin (sardine) bait supply for chum. Having
+chunk bait aboard and deploying it "when the timing is right" is what keeps
+fish around the boat once you're on them.
 
 ## Common failures
 

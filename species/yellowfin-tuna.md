@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4]
 confidence: high
 ---
 
@@ -185,6 +185,18 @@ the bluefin nearby become more cooperative too.**
   consistent with the fall-fragmentation window and the warmest-water pattern
   above, distinct from the higher East Cape/Baja grades logged elsewhere in
   this section.
+- **Observed (El Niño year — regional/seasonal pattern, not a repeated rule)**
+  (StokedOnFishing, 2014-11-03, off Pyramid Head, east end of San Clemente
+  Island, SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3"; sponsor-heavy
+  Simrad/Avet/Soft Steel episode; unregistered channel — medium confidence):
+  a two-day trip found tuna on temperature breaks in open water on day one,
+  then a **better grade** of yellowfin right off the island's east end the
+  next morning. The crew fished that grounds alongside a fleet of long-range
+  boats that the presenter says are "normally about 150–200 miles south of
+  the border," calling their presence in SoCal water that trip a product of
+  "this El Niño" — a single-source, dated (2014) regional pattern (long-range
+  grounds fish and long-range boats showing up closer to SoCal in an El Niño
+  year), not independently corroborated elsewhere in this corpus.
 - **Observed** (StokedOnFishing, presenter Shay,
   2019-02-13, East Cape, Sea of Cortez, Baja California Sur — Hotel Buena
   Vista Beach Resort trip, `GptrotE0x5M`, "Non-Stop Tuna, Dorado, And Rooster

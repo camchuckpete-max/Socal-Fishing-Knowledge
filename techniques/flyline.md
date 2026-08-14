@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4]
 confidence: medium
 ---
 
@@ -247,6 +247,18 @@ isn't yet repeated doctrine).
   worked flylined baits **suspended under a balloon** to draw bluefin
   hookups — full grade/catch detail logged in
   [bluefin tuna](../species/bluefin-tuna.md#where--when).
+- **Observed, sliding/rubber-core weight to fish sardines deeper (StokedOnFishing,
+  2014-11-03, off Pyramid Head, San Clemente Island, SoCal — `Ow3an9lSVh4`,
+  "Stoked on Simrad, part 3"; sponsor-heavy Simrad/Avet/Soft Steel episode;
+  unregistered channel — medium confidence):** on a second day of yellowfin
+  fishing where the fish were a better grade and wanted the sardine bait fished
+  deeper than the day before, the crew added a **half-ounce to three-quarter-ounce
+  rubber-core and/or sliding sinker** to flylined sardines to get them down —
+  a further conditions-driven exception to the no-weight rule above, alongside
+  the light half-ounce weight logged for the squid flyline (`Rb5I2ljAqeE`). The
+  same session's fly-lined sardines were also **butt-hooked**, called out on
+  camera as making the bait "swim down deep" — consistent with, not new beyond,
+  the butt-hook mechanism in "Hook position by situation" above.
 - **Observed** (StokedOnFishing, 2016-12-16, East Cape, Baja California Sur —
   Hotel Buena Vista Beach Resort trip, `mL4Ph7t0WcQ`): flylined **squid**
   (no weight, slow-drifted back from the boat, likened on camera to a chunk

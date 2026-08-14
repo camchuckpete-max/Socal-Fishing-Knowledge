@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds, drone]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4]
 confidence: high
 ---
 
@@ -76,6 +76,17 @@ The discipline:
 
 This is why the paddy *line* matters more than any single paddy: you are playing
 a numbers game across many quick checks.
+
+**Be patient on a patty that's showing skipjack, not necessarily dry (StokedOnFishing,
+2014-11-03, offshore SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3";
+sponsor-heavy episode; unregistered channel — medium confidence):** a patty or
+piece of floating structure that reads loaded with skipjack is not the same as
+a dead patty — better-grade tuna can roll in later and push the skipjack out,
+so the presenter's stated trip tip was to stay on a skipjack-showing patty
+rather than write it off. This is a nuance on, not a reversal of, the
+check-fast-then-move discipline above: the "dry paddy stays dry all day" rule
+is about a patty with no life on it at all, not one already holding skipjack
+that may yet be joined or displaced by a better grade.
 
 **Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
 stated): a paddy spotted from ~4 mi out through gyro-stabilized binoculars

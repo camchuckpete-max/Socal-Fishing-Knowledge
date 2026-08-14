@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging, prop-safety]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY, Ow3an9lSVh4]
 confidence: medium
 ---
 
@@ -151,6 +151,16 @@ below.
   out" logic as [search & glassing](../planning/search-and-glassing.md)).
 - Chart hard structure and boulder/kelp edges the same way you'd hunt bottomfish
   ([electronics & sounder](../planning/electronics-and-sounder.md)).
+- **A depth finder is treated as mandatory, not optional, for this** (StokedOnFishing,
+  2014-11-03, Catalina Island, SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3";
+  sponsor-heavy episode; unregistered channel — medium confidence): it's what
+  tells the crew exactly what's on the bottom before/while dropping. **Paying
+  out the rope on the drop:** pull the hand up high as the net sinks (a visual
+  cue for how the boat needs to be worked — driven forward to keep the drop
+  under control) and keep light, constant tension on the line the whole way
+  down so you can feel it — the same feel-for-bottom principle as the
+  taut-then-loop line-management procedure below, done here as a live-feed
+  cue during the drop itself rather than after.
 - **Transiting with gear rigged:** before stowing a hoop net for the ride out,
   connect the buoy to the main line first — if the net goes overboard in
   transit (e.g., off a kayak bow) it's still attached to a float and

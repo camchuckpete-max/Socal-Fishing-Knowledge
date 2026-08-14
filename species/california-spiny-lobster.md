@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4]
 confidence: medium
 ---
 
@@ -38,6 +38,16 @@ re-checked against **current CDFW rules** before every trip — they change.
   (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26), so the workable
   band runs shallower than 40–50 ft depending on the structure fished; match
   rope length to the actual drop rather than assuming one depth band.
+- **Depth shifts by season, so vary the drop early in the season (StokedOnFishing,
+  2014-11-03, Catalina Island, SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3";
+  sponsor-heavy episode; unregistered channel — medium confidence):** on the
+  crew's first trip of a season, the presenter notes lobster sit **shallow in
+  the summer months** in some years but have been found **out in deep water**
+  in other seasons — no fixed rule for which a given season will be early on —
+  so the stated approach was to **spread nets across different depths** rather
+  than commit to one band until the night's crawl shows where they're sitting.
+  A further data point alongside, not a reconciliation of, the Catalina
+  20–30 ft and general 40–50 ft bands above.
 - **Post-rain trigger in bays/harbors (Long Beach/LA Harbor, San Diego):** once
   rain starts falling in season, get gear ready — the source frames the onset
   of rain as a trigger for an especially strong crawl in the LA/Long Beach
