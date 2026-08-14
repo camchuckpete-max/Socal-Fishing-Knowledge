@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo]
 confidence: medium
 ---
 
@@ -258,6 +258,20 @@ or [skipjack](../species/skipjack-tuna.md), a couple of minutes of hard chumming
 can raise fish holding 40–50 ft down right up under the boat (lxFNVdDhMy4). Fish
 the **down-drift / down-wind side** — the drift carries your bait away from the
 boat and keeps the wind at your back for the cast.
+
+## Handling live squid without getting inked (StokedOnFishing, Y2bXn44lfqo)
+
+Catalina Island, 2023-08-30; unregistered channel — medium confidence.
+
+Squid is the staple [white seabass](../species/white-seabass.md) bait; the
+usual complaint is getting inked and squirted netting one out of the tank.
+**Grip the mantle so a finger covers the siphon (the squirter) and the eyes**
+when you lift it from the net to the hook — covering the siphon stops it from
+jetting water or ink, and covering the eyes seems to calm the squid, keeping
+its tentacles from finding your hand (the beak itself sits between the
+tentacles, not near the eyes/siphon grip point). Held this way, squid can go
+straight from net to hook and back in the water with no ink on the boat, the
+gear, or the angler.
 
 ## Bridling big baits
 

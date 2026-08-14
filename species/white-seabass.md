@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo]
 confidence: high
 ---
 
@@ -59,6 +59,10 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
   [search & glassing](../planning/search-and-glassing.md).
 - **Timing:** best in **gray light and after dark** when the squid mate; you can
   catch them midday but the odds concentrate at low light.
+- **Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo): on
+  the hookup, **head shakes followed by a hard, changing-direction run** are the
+  crew's tell for white seabass over halibut — halibut also head-shake but
+  don't take off running the way a hooked seabass does.
 
 ## Situations → techniques
 
@@ -74,6 +78,11 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
 **Anchoring geometry:** WSB is **not a bottom fish** — anchor **up-current of the
 spot** and let bait/chum drift back to it; scale the standoff to current strength,
 and further still if a break-off fish (a big yellow) shares the spot (2/20/25).
+**Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo):
+anchored in **74 ft** (the captain's usual preferred depth on this spot is
+**~70 ft**) but held off committing to the exact spot because the current
+was a "slight uphill" — not the uphill direction wanted — waiting to slide
+into the spot once the current read right.
 
 ## Gear summary (class terms)
 
@@ -101,6 +110,37 @@ and further still if a break-off fish (a big yellow) shares the spot (2/20/25).
 - **The water triad is shared with [California halibut](../species/california-halibut.md)**
   — identical "seabass/halibut color" requirement (off-color + current + bait, all
   three, leave inside 20–30 min if a leg is missing).
+- **Broodstock/hatchery collection context — not general-public fishing
+  (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo; unregistered
+  channel — medium confidence).** This crew fished a Catalina MLPA (Marine
+  Protected Area) under a **dedicated collection permit** to gather live
+  broodstock for the Carlsbad hatchery program, not as recreational fishing —
+  fishing inside an MLPA is otherwise closed to the public (California/CDFW
+  MLPA network, as of 2026-08-14; verify current regs/boundaries before
+  assuming any access).
+  All non-target catch on the trip (halibut and yellowtail in the 20–30 lb
+  range, calico bass) was released. Landed white seabass were held in a
+  covered/pressurized holding tank ("fish donut"), scanned for an implanted
+  PIT tag near the cheek to log recapture history, and moved to a net pen
+  within about **45 minutes** of landing — large fish are prone to flipping
+  upside down in the transport tank, and the crew described a fish found
+  that way, still breathing and calm, as normal so long as it's moved to the
+  pen within that window.
+  Flagged here as observed program context, not as fishing doctrine any
+  angler can replicate. Program mechanism/history is a later video in this
+  same StokedOnFishing series (per the manifest) and should be reconciled
+  here when extracted.
+- **Hook-style/gut-hook tension, kept side by side (same source).** The crew
+  described the popular dropper-loop rig strung with an Ahi twist (J-style)
+  hook as prone to gut-hooking fish, and used it as the reason they prefer
+  actively fishing a squid-baited leadhead by feel (mouth-hooked, not
+  gut-hooked) — see [leadhead mods](../rigging/leadhead-mods.md#rigging-a-leadhead-with-squid-for-white-seabass-xr4nurk-z48).
+  On the same trip's overnight anchor soak they still ran dropper loops, but
+  rigged with **circle hooks** instead of the J-style Ahi twist — see
+  [dropper loop](../techniques/dropper-loop.md#building-the-rig). Not
+  reconciled to a single hook recommendation; gut-hook avoidance mattered more
+  on this trip than usual because the fish were released alive for the
+  broodstock program above.
 
 <!-- backlinks:start -->
 ## Linked from

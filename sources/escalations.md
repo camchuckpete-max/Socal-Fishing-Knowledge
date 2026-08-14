@@ -52,3 +52,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T07:53:50Z — lF6jQklDCrY — evaluator-escalate
 - run: 31779586190
 - reason: Regulatory claim (SoCal rockfish season reopen date + historical depth-limit progression 300->350->460 ft) added to species/rockfish-lingcod.md — mandatory escalation trigger per evaluate-unit.md even though the content is well-caveated as a dated, self-admittedly-uncertain historical data point, not current guidance.
+
+## 2026-08-14T08:57:59Z — Y2bXn44lfqo — evaluator-escalate
+- run: 31783949091
+- reason: species/white-seabass.md's new Broodstock/hatchery collection context bullet states fishing inside a Catalina MLPA is otherwise closed to the public (California/CDFW) — regulatory closure claim; Cameron should confirm the framing/date-stamp before treating as canonical.

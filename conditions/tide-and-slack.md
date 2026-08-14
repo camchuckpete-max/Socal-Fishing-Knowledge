@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [tide, slack, timing, white-seabass, halibut, foamers, bluefin]
-sources: [6TBxHnkYXI0, DnSqw4r7A1s, 5p6gu14ZC4w, HzE4FHHcvTk, 5to3Q5P7w90, cameron]
+sources: [6TBxHnkYXI0, DnSqw4r7A1s, 5p6gu14ZC4w, HzE4FHHcvTk, 5to3Q5P7w90, cameron, Y2bXn44lfqo]
 confidence: high
 ---
 
@@ -40,6 +40,13 @@ action **compresses into the tide windows**; wide-open days bite all day
 
 Source: 2/20/25. A worked cautionary tale: a captain (Decker) left sign **before
 slack** and regretted it — the bite was about to fire on the change (9/14/22).
+
+**Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo): an
+overnight anchored white seabass soak was planned around a **4 a.m. slack
+tide (turn of the tide)** — the crew let most of the team sleep beforehand but
+kept one person on deck with lines soaking through the night, then got
+everyone up for the 4 a.m. turn on the belief that the bite is more likely to
+go off at the change.
 
 **Slack mechanism (corpus):** at slack the water column "goes quiet," bait rises,
 and predators hunt it better — so the bite fires on the change rather than during

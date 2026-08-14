@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo]
 confidence: medium
 ---
 
@@ -49,6 +49,30 @@ the basic dockside leadhead selection and fishing.
 - Standard rigging is two squids, maybe three if they are small, to mimic squid
   mating — most effective during the night and gray-light hours, though seabass
   can be caught on it in daylight too.
+
+**Head weight and color, and a natural-tracking hook insertion (StokedOnFishing,
+Catalina Island, 2023-08-30, Y2bXn44lfqo; unregistered channel — medium
+confidence).** On this trip the head guessed at three-quarter ounce on camera
+was corrected on the water to **5/8 oz**. Color preference from the same crew:
+**bright orange leadheads have historically drawn a few more strikes** than
+white, though both catch fish; **glow-in-the-dark heads for darker
+conditions/evening.** Squid-hooking mechanic for a straight, non-twisting swim:
+insert the hook on the **belly side near the middle of the squid, push through
+and out the other side, then turn the hook point back around and push it
+through again** — pinned this way the squid sits flat and tracks straight in
+the water column instead of spinning.
+
+**Active-fishing alternative to a passive dropper-loop soak, for gut-hook
+avoidance (same source):** fishing this leadhead-and-squid rig **actively** —
+holding the rod and feeling the tap so the hook is set in the mouth — was
+contrasted on camera with the popular dropper-loop-and-slide-sinker approach
+strung with an Ahi twist (J-style) hook, which the crew said hooks noticeably
+more fish in the gut. The distinction mattered on this trip specifically
+because the white seabass were being caught and released alive for a
+broodstock program (see [white seabass](../species/white-seabass.md#doctrine--conflicts)).
+Kept side by side with the dropper-loop rig's own hook conventions rather than
+reconciled — see [dropper loop](../techniques/dropper-loop.md) for the
+overnight-soak circle-hook variant from the same trip.
 
 ### Dockside leadhead selection and fishing (F-vOTerdulU)
 

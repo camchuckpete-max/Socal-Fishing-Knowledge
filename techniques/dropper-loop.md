@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo]
 confidence: high
 ---
 
@@ -53,6 +53,23 @@ this note owns the rig and the retrieve.
   Saltwater Guide, ShSxNKAcUB4, 2020-12-08). See also the [sliding-sinker
   suspend-and-retrieve alternative](sliding-sinker.md#white-seabass-weight-ladder--suspend-and-retrieve-your-saltwater-guide)
   from the same source for a cast-and-retrieve option on the same fish.
+- **White seabass overnight soak — staggered depths and line class
+  (StokedOnFishing, Catalina Island, 2023-08-30, Y2bXn44lfqo; unregistered
+  channel — medium confidence):** on an anchored overnight soak for
+  broodstock-program white seabass (see
+  [white seabass](../species/white-seabass.md#doctrine--conflicts)), this crew
+  ran **four dropper-loop rods with circle hooks** — two off the bow, two off
+  the stern — each set to a **different depth off the bottom (2, 4, 6, and 8
+  cranks up)** so a squid swimming through at any level in the column gets
+  covered, rather than staking everything on one depth. Line class split fore
+  and aft: **40 lb on the stern rods, 60 lb up front on the bow rods** — the
+  heavier bow line was explained as giving a better chance of landing a fish
+  if the line gets wrapped around the anchor rode. **Circle hooks here contrast
+  with the same crew's own description of the popular dropper-loop rig strung
+  with an Ahi twist (J-style) hook**, which they said guts noticeably more
+  fish — kept side by side rather than reconciled; see
+  [leadhead mods](../rigging/leadhead-mods.md#rigging-a-leadhead-with-squid-for-white-seabass-xr4nurk-z48)
+  for the actively-fished alternative from the same trip.
 - **Baja, Sea of Cortez reference weights (region: Baja):** bottom fishing for
   cabrilla/grouper there runs well past the SoCal 6–10 oz range — **16 oz** held
   bottom for nearly an entire November 2022 panga trip, stepped up to **24 oz**
