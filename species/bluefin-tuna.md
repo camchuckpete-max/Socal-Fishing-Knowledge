@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 9qMLztwVx9g]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g]
 confidence: high
 ---
 
@@ -87,6 +87,34 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   mid-August 2024 Tanner Bank anchor bite from a boat/captain not stated on
   camera (`ntQXxcH5sjI`, already logged above). At least one landed bluefin
   was called out at **40 lb**.
+- **Observed** (StokedOnFishing, `947solNfiPw`, 2023-09-20 upload — released
+  one week before the `c3NFkQbdDy0` entry above and matching it on boat,
+  captain, home port, run distance, and trip length, very likely the same
+  annual El Dorado charter series with this footage covering "day one,"
+  anchored at **Tanner Bank** on the **Eastern side of the high spot**,
+  SoCal; unregistered channel — medium confidence): "Sardine Showdown:
+  Chasing Bluefin on the El Dorado" — a sardine bite going from first
+  light (bait is sardines per title/on-camera dialogue; the transcript
+  doesn't describe chumming specifically, so that method detail isn't
+  asserted), with a crew member reporting bluefin **up to 41 lb the previous
+  day**; day-one grade opened around **30 lb**, included a fish fought "on
+  50 [lb]," and crew called later fish "better fish" as the session
+  progressed, with a bluefin flylined on a **No. 4 circle hook**, **40 lb**
+  line/leader (transcript audio is garbled here — a speaker says "30 pound"
+  then self-corrects to "40 pounds, 40 pound" — taking the restated/final
+  figure), and a short piece of fluorocarbon — consistent with, not new
+  beyond, the circle-hook-for-bluefin and flyline doctrine already logged
+  and detailed in [hooks](../tackle/hooks.md). The captain/crew framed the
+  bank's mixed grade as the core tackle challenge that trip — **10 lb
+  schoolies up to 80, "maybe even 100" lb** fish moving through together on
+  **one size line**, so matching hook/leader/weight without going
+  under-gunned was called "a total game." Separately, a crew member
+  described mates taking over or handing the rod to another (often younger)
+  passenger when an angler didn't want to fight a hard-pulling bluefin —
+  stated as standard practice on tough trips, a charter-culture note rather
+  than a technique point. The on-camera **two-fish-per-person daily limit**
+  mentioned in passing on this trip matches, one year earlier than, the
+  bag-limit entry already logged below.
 - **Observed** (StokedOnFishing, video uploaded 2026-08-11, trip framed on
   camera as a June trip (year not stated) — `UfuiWFVvz2E`, "SoCal Fishing Is
   GOING OFF! | Constitution Sportfishing," introducing the Constitution

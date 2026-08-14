@@ -1073,7 +1073,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | mj50D4rNfdI | StokedOnFishing | promo | skip:promo | skipped | 30s El Dorado boat ad, pure vessel-amenities pitch, no fishing content |
 | c3NFkQbdDy0 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md — mixed bluefin/yellowtail anchor bite ~90mi off CA (El Dorado/Capt. TJ), Home Guard/Tanner Bank yellow naming, 40lb bluefin with pre-existing hook corro |
 | 9qMLztwVx9g | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md — night yo-yo/jig bite 50-200lb vs daytime flyline bite 20-150lb, triples callout, Red Rooster SD trip; boat/landing naming hedged ASR-uncertain |
-| 947solNfiPw | StokedOnFishing | on-the-water | observations-only | pending | El Dorado, Tanner Bank SoCal, sardine-bite bluefin catch footage |
+| 947solNfiPw | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md — sardine-bite Tanner Bank trip, day-one grade progression, 41lb prior-day report, mixed-grade 10-100lb tackle challenge, rod-handoff culture note, cross-matched to c3NFkQbdDy0 |
 | Tz5y87zUp_Y | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama dorado catch footage, region confirmed in transcript |
 | rhaie9Tbi8I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Hannibal Bank, spinner dolphins), yellowfin/dorado catch footage |
 | aPkRKI35XV0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Coiba National Park, rooster/snapper/amberjack footage |
