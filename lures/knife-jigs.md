@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg, RbqOKkINSCM]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM]
 confidence: high
 ---
 
@@ -130,6 +130,22 @@ behavior**:
     above; not reconciled. Full sizing/cord/tying detail (hook-to-jig
     pass-through test, cord stiffness by jig style, tying steps) is in
     [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
+  - **Sixth attributed configuration, kept side by side (Capt. Dave Hansen,
+    Your Saltwater Guide, scmPq63lLWM, 2021-05-18; dave-hansen registered
+    voice, but this is a product-specific rigging description on a
+    sponsor-adjacent item — `medium` confidence):** a **Fish Lab 250 g
+    flat-fall** comes factory pre-rigged with **two 6/0 hooks up top plus
+    one 9/0 sliding hook on the back** — three hooks total, another
+    top-plus-bottom, three-hook combination in tension with the
+    single-bottom-pair-no-top-hook doctrine above. His stated reason for
+    running it as-is rather than re-rigging is convenience — it comes
+    pre-rigged out of the package, so there's no need to source/rig the
+    bigger hooks himself, and if he loses the one he's fishing he can grab
+    another pre-rigged one instead of re-rigging from parts. Separately, he
+    gives a general (not pre-rig-specific) reason the fleet runs lots of
+    hooks on these things at all: bluefin inhale the flat-fall so deep (bit
+    at night or 250–350 ft down) that they're not really seeing the hooks
+    anyway — not reconciled with the other configurations logged here.
 - **Thin braid is part of the jig system**, not a separate choice: no stretch for
   action and thin diameter so the jig **falls straight down** — even a jump from
   ~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways. Deeper water
@@ -210,6 +226,25 @@ Which species and situation calls for each is routed from the species notes —
   theory. This corroborates, from a second registered voice, the
   "mostly angler confidence" framing above rather than the specific
   mechanism/color claims.
+  - **The pelagic-red-crab rationale, expanded, one week earlier same
+    channel/captain (Capt. Dave Hansen, Your Saltwater Guide, scmPq63lLWM,
+    2021-05-18; dave-hansen registered voice — `high` confidence for the
+    mechanism, `low` for the specific product pick below per the
+    sponsored-claim rule):** pelagic red crabs had been the dominant SoCal
+    bluefin forage for roughly the preceding five to six years (i.e.,
+    ~2015–2021 as of this video) — his reasoning for reds/oranges is
+    matching that crab, down to using **orange specifically for the crab's
+    egg-bearing belly color**, on the theory that egg-carrying crabs are a
+    preferred target. Bite depth/visibility context for this pattern: the
+    flat-fall bite comes **at night or 250–350 ft down**, depths at which he
+    reasons the fish can't see well but still react to the profile/flash of
+    the red-and-orange color scheme — corroborates the daytime-flash-at-depth
+    mechanism above without a stated depth number there. **Product callout,
+    low confidence (promotional/sponsor-adjacent — Fish Lab brand):** his
+    pick during this pattern was a **Fish Lab 250 g flat-fall**, chosen
+    mainly for arriving pre-rigged (see hook config below); do not read the
+    brand pick itself as fishery doctrine, only the red/orange-egg-crab
+    reasoning and the depth/visibility context.
 
 ## Owned examples
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM]
 confidence: high
 ---
 
@@ -18,6 +18,12 @@ in **Linked from**.
 - Night [bluefin](../species/bluefin-tuna.md) marked deep on the meter, especially
   in current when they sit down in or below the
   [deep scattering layer](../conditions/deep-scattering-layer.md).
+  - **Flat-fall depth data point (Capt. Dave Hansen, Your Saltwater Guide,
+    scmPq63lLWM, 2021-05-18; dave-hansen registered voice — `medium`
+    confidence, product-adjacent video):** the low-visibility flat-fall bite
+    on bluefin comes **at night or 250–350 ft down**, deep/dark enough that
+    he reasons the fish are reacting to profile and flash rather than seeing
+    detail — see [red-crab color pattern](../lures/knife-jigs.md#color--mostly-angler-confidence-with-one-real-mechanism).
 - Deep [yellowtail](../species/yellowtail.md) and other gamefish holding in a
   strong drift where a fast vertical rip out-fishes a fluttering jig.
 - **Baja, Sea of Cortez (region: Baja):** vertical/speed jigs for fishing

@@ -852,7 +852,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | ftEvyfwjZFU | Your Saltwater Guide | tutorial | deep | escalated | escalated: guard: protected path touched: sources/source-registry.md |
 | RbqOKkINSCM | Your Saltwater Guide | tutorial | deep | done | lures/knife-jigs.md; rigging/essential-knots.md; species/bluefin-tuna.md; tackle/hooks.md; techniques/flyline.md / Fly-line rig (San Diego jam), flat-fall/popper multi-rod pre-rig, circle-hook rationa |
 | 9qnQjPPT5yg | Your Saltwater Guide | promo | skip:promo | skipped | Product demo for patented PTO fighting-grip (22-degree angle mechanics); inventory/sales-pitch dominated |
-| scmPq63lLWM | Your Saltwater Guide | tutorial | parameter-skim | pending | SoCal red-crab-pattern flat-fall color/rig selection logic (Fishlab product-focused), San Diego jam knot repeat |
+| scmPq63lLWM | Your Saltwater Guide | tutorial | parameter-skim | done | lures/knife-jigs.md; techniques/knife-jigging.md / Fishlab flat-fall red-crab color/hook-rig doctrine added, attributed dave-hansen; no San Diego jam knot content found despite triage note, correctly  |
 | IMnoZVEYpm4 | Your Saltwater Guide | tutorial | single-pull | pending | longer YSG cut (442s) of BD hooks video m2q22sPPkEM (328s): extract ONLY tail content beyond the BD cut |
 | f4qYtHACGyk | Your Saltwater Guide | tutorial | deep | pending | SoCal artificial-reef light-line finesse rig (straight-tied hook, small shot sized by current), chum-density feeding-frenzy technique |
 | NC3-3pJDEgo | Your Saltwater Guide | tutorial | deep | pending | SoCal Santa Ana wind pattern + go/no-go thresholds (12kt wind, <10s swell interval), Catalina return-trip risk |
