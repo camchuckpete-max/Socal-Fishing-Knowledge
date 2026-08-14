@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4]
 confidence: high
 ---
 
@@ -99,6 +99,19 @@ you read the *current across the kelp*, not the tide clock.
   blue water" call-out. Consistent with, not a new data point on, the
   fast/high-volume Cedros bite pattern in the entries above. Unregistered
   channel — medium confidence.
+- **Observed** (StokedOnFishing, 2012-08-10, Cedros Island, Baja —
+  `xIUKmH9ccgQ`, "Cedros Outdoor Adventures"; earliest-dated Cedros Outdoor
+  Adventures trip in the corpus, same charter operator as the `Qa-j6LIwa1Q`
+  entry above, reached by small-plane charter out of Ensenada with Mexican
+  fishing permits obtained in Tijuana): reaction-footage-heavy coverage of a
+  "24 hours of fishing in two days" charter reported the group having "blown
+  through all our plastics" on a fast, mixed calico bass and yellowtail bite
+  — consistent with, not a new data point beyond, the fast/high-volume Cedros
+  bite pattern documented above, but extends the pattern's known date range
+  back to August. One stretch of bites was called out on camera as roughly
+  **3–4 lb** fish. No structure, current, or water-color detail given.
+  Unregistered channel, mostly non-verbal reaction footage — medium
+  confidence.
 - **Observed** (StokedOnFishing, 2014-11-13, Isla San Martin (checked, not
   fished) then Dono, Baja — `L3tkGVu516A`, "MC Swimbaits Skiff Trip part 1";
   opening leg of the same first-annual, 2014-11-13 multi-day trip as the

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A]
 confidence: high
 ---
 
@@ -86,6 +86,15 @@ typical-year mapping.
   spool a **40 lb line-class floor** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
   2022-09 trip-prep walkthrough; medium confidence, unregistered channel). See
   [line & leader](../tackle/line-and-leader.md) for the full class breakdown.
+  **Observed** (StokedOnFishing, 2012-08-10, Cedros Island, Baja —
+  `xIUKmH9ccgQ`, "Cedros Outdoor Adventures"; earliest-dated Cedros Outdoor
+  Adventures trip in the corpus): reaction-footage-heavy coverage of a
+  charter trip reported "yellow tail action" alongside a fast calico bass
+  bite (see the [calico bass](calico-bass.md) entry for this trip's plastics
+  detail); no weights, depths, or technique detail given for the yellowtail
+  specifically. Consistent with, not a new data point on, the resident
+  Cedros yellowtail doctrine above. Unregistered channel — medium
+  confidence.
   **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
   `_C8w6zeVPak`, Shogun Skiff Trip part 3): a skiff morning produced multiple
   yellowtail on the [surface iron](../techniques/surface-iron.md), working the

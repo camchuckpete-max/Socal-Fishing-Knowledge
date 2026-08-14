@@ -973,7 +973,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | pd1VOJbTEEM | StokedOnFishing | report | skip:thin-generic | skipped | Long Beach Yacht Club charity-venue talk for Olive Crest event, zero fishing footage |
 | N1YBY1i600U | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA California Offshore Challenge (Catalina/SCI) tourney hype+catch footage, no conditions detail |
 | mXu8vJ8yr4Q | StokedOnFishing | on-the-water | single-pull | done | lures/soft-plastic-swimbaits.md / Observed block added to the weedless-rigged slug bullet: weedless swimbait held up through repeated kelp-boiler passes across a 4th/5th same-week trip on the same lea |
-| xIUKmH9ccgQ | StokedOnFishing | on-the-water | observations-only | pending | Baja Cedros catch montage via small-plane charter, no doctrine, mostly reaction footage |
+| xIUKmH9ccgQ | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/california-halibut.md; species/yellowtail.md / observations-only Cedros catch-montage footage added as three attributed Observed blocks (calico/mixed bite, incidental h |
 | IFhBVRoc4VQ | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA/Sanderson Farms Shelf Bass Special weigh-in/catch footage, no conditions detail |
 | fjMHM1V9iPc | StokedOnFishing | report | skip:thin-generic | skipped | Bass-stravaganza vendor/seminar-day recap interviews on standings/sponsors, no technique captured |
 | FurifnQ27mM | StokedOnFishing | on-the-water | single-pull | pending | San Diego/Chula Vista spotted bay bass tourney (Border Town Brawl): shrimp-pattern lure worked |

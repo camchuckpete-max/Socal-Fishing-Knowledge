@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ]
 confidence: high
 ---
 
@@ -97,6 +97,16 @@ conditions that put one there.** (General search method:
   program above — kept side by side, not reconciled, and labeled
   Baja/Cedros region rather than SoCal. Unregistered channel, single
   mention — medium confidence.
+- **Observed** (StokedOnFishing, 2012-08-10, Cedros Island, Baja —
+  `xIUKmH9ccgQ`, "Cedros Outdoor Adventures"): a second, earlier-dated
+  incidental halibut catch from a Cedros Outdoor Adventures charter — a
+  "giant flatty" (common SoCal/Baja slang for halibut) called a big, heavy
+  fish on camera and boated by gaff. No weight, depth, technique, or bait
+  detail given beyond the gaff shot. Kept rather than released; predates,
+  so not in conflict with, the 2023-10-16-reported Cedros catch-and-release
+  agreement above (which in any case covers calico, grouper, and black
+  seabass, not halibut). Unregistered channel, reaction-footage-only —
+  medium confidence.
 
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head
