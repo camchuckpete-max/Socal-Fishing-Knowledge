@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE]
 confidence: high
 ---
 
@@ -319,6 +319,34 @@ the bluefin nearby become more cooperative too.**
   five times) to free it; a separate fish's line was spliced twice mid-fight
   after crew went overboard to work on it. No technique, leader, or hook
   detail given for any hookup on camera.
+- **Observed (Baja, "lower banks," region label)** (StokedOnFishing,
+  `Fq4aRI3YrKE`, 2015-01-18 upload, "Stoked on Long-Range Fishing, part 2,"
+  aboard the long-range boat **Intrepid**, Baja "lower banks" — continuation
+  of the same 11-day trip logged as `pk2blktDQ9Y` (part 1) in
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md#fight-duration-by-topshotbacking-class-baja-long-range-lower-banks)
+  and [line & leader](../tackle/line-and-leader.md); unregistered channel —
+  medium confidence): this day's fishing produced multiple personal-best
+  hookups on camera — one angler's prior best of **182 lb** eclipsed by a
+  **200 lb-plus** fish; a separate fish taped at **270 lb**, up from that
+  angler's self-reported "around 250" mark the prior year (year not further
+  specified); and a personal best of **313 lb**, with the same angler's
+  previous best cited on camera as **308 lb** — the year attached to that
+  prior fish ("2005") is asr-uncertain and not treated as confirmed. The
+  day's closing tally: **314 lb, 270 lb, 250 lb, 215 lb, and 210 lb** landed,
+  "six over" total including what the crew called the **"first super cow of
+  the year"** — on-camera language ("beginning of the year... not even
+  Halloween yet... first sign of big fish") read as a seasonal-timing marker,
+  not a repeated rule; kept beside, not merged into, the November "lower
+  banks" seasonal-timing doctrine from Wahoo dad logged above (`ASitOLYzFEA`),
+  since the two describe different points on the calendar (pre-Halloween here
+  vs. late November there). A **large bait ball sitting directly under the
+  boat** (how it was detected — sonar vs. surface sign — not specified on
+  camera), with fish "blowing up all around" on the surface, was the crew's
+  stated reason for holding position rather than moving grounds, with the
+  plan to **sit tight at least one more day** to give the rest of the boat a
+  shot — consistent with the anchor-and-hold pattern in the `ASitOLYzFEA`
+  entry above. No technique, leader, or hook detail given on camera
+  (fish-fight footage only).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -337,6 +365,7 @@ the bluefin nearby become more cooperative too.**
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [October](../seasonal/october.md)
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)

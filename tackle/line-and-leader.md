@@ -286,5 +286,6 @@ able to break off** (aXF0bxAFtU0):
 - [Swimbaits](../techniques/swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
