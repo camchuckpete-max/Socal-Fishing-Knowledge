@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE]
 confidence: medium
 ---
 
@@ -174,6 +174,19 @@ rest of this note otherwise describes.
   opposite side ("where the blue net is") would "probably do pretty good"
   on corvina — the crew stayed on the snook bite instead, so this is a
   suggestion, not an observed outcome.
+- **Observed** (Your Saltwater Guide, 2022-01-28, Lopez Mateos, Magdalena Bay —
+  `frX09YMQxKE`; predates the `-5kooyIyavs`/`FxgLol_IHa0` clips above by about a
+  month, same channel and location — a third data point for this Mag Bay
+  mangrove series): before fishing, the presenter free-dove the spot to see the
+  structure underwater, then flylined bait into one specific mangrove-edge
+  slot identified from that look; casts landing right in the slot drew fast,
+  repeated bites — a small grouper was landed, and small pargo and a larger
+  snook were seen holding in the same slot on the presenter's underwater
+  look (a second underwater look turned up more fish there that he could not
+  confidently call snook vs. pargo) — while the video frames the precise
+  slot, not general soak time, as what produced the bites, consistent with
+  the bait-placement doctrine above. A local guide (Reuben, named as the
+  boat's owner and a Lopez Mateos guide) ran the trip.
 
 ## Mono top shot vs. straight braid — the depth mechanism
 
