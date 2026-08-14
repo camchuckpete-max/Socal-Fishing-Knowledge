@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, cameron]
 confidence: high
 ---
 
@@ -28,6 +28,16 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
 - **Photograph the meter during bites.** Shoot the screen when you're getting
   bit so you **learn what a productive mark looks like** — build your own library
   of marks that paid off.
+- **Read bottom hardness by return thickness — works on any brand.** No
+  special discrimination mode needed: as you idle over structure, watch the
+  bottom return itself — a thin, faint line is soft bottom (sand/mud); as it
+  thickens and darkens, that's harder, rockier bottom. "I don't care if you
+  have a Hummingbird fish finder, they're all going to show that" (Dave
+  Hansen, Your Saltwater Guide, 6DzbsElGE7E, 2021-04-13). This is the
+  brand-agnostic version of the Furuno bottom-discrimination read above —
+  registered voice, but a single mention of this specific method, so medium
+  confidence on the method itself even though the broader
+  hard-bottom/soft-bottom reading doctrine sits at high above.
 - **Stop only on marks you can grade — it's a bait budget.** Every stop on a
   no-name mark burns bait and time. Idle on, grade the mark against what you know
   pays off, and only commit when it grades out. (The bait-shape rule — a solid

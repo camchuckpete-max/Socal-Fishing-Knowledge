@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E]
 confidence: high
 ---
 
@@ -55,6 +55,15 @@ Once you've found the water, where you drop the hook depends on what you're afte
 
 - **Bottom fish → anchor on the spot.** You want to sit directly over the
   structure.
+- **Grade the mark with repeated passes, then drop in the adjacent sand, not
+  on the rock.** Idle over a hard-bottom high spot, mark the peak on the GPS,
+  turn around and re-drive the same track to confirm bait/fish sign before
+  committing (see the bottom-hardness read in
+  [electronics and sounder](electronics-and-sounder.md)). Once it grades out,
+  come back on that track and release the anchor into the sand patch beside
+  the rock rather than onto the rock itself (Dave Hansen, Your Saltwater
+  Guide, 6DzbsElGE7E, 2021-04-13; registered voice, single mention — medium
+  confidence).
 - **Midwater / gamefish → anchor up-current of it,** with the **standoff scaled
   to current strength** — more current, more standoff, so your chum and baits
   sweep down onto the fish.

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, cameron]
 confidence: high
 ---
 
@@ -118,6 +118,18 @@ of water state. Kept side by side with the corpus
     (vqsD0qpwcJA / Jtf-bU4aM-c).
   - **Paddy yellows** don't meter deep — check the paddy fast (look, one bait,
     sonar under the kelp) and move if it's dry.
+  - **Hard bottom only, never mud.** Structure yellows sit exclusively on
+    hard/rocky bottom — "they're not going to be [out] in the mud... they're
+    always going to be on the hard bottom" — so read the bottom-hardness cue
+    (thin return = sand/mud, thick return = rock) to decide whether a spot is
+    even worth working before looking for fish sign on it (Dave Hansen, Your
+    Saltwater Guide, 6DzbsElGE7E, 2021-04-13; see
+    [electronics and sounder](../planning/electronics-and-sounder.md)).
+  - **A thin, lighter mark riding higher than the bait ball can be the
+    yellowtail itself**, pushing bait up off the rocks — that's the sign to
+    commit the anchor over a hard-bottom mark, not the bait pile alone (same
+    source; see the pass-and-grade anchoring method in
+    [search and glassing](../planning/search-and-glassing.md)).
   - General method: [search & glassing](../planning/search-and-glassing.md),
     [electronics & sounder](../planning/electronics-and-sounder.md).
 
