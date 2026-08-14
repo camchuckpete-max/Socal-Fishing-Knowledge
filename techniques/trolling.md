@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw]
 confidence: high
 ---
 
@@ -216,6 +216,40 @@ hold the school and draw followers before landing the first fish — see the
 beach session targeting rooster fish "later on tonight," but the footage
 cuts directly to the next day's offshore troll without showing it — no
 beach/rooster fish technique content is captured from this video.
+
+**Observed** (StokedOnFishing, 2018-03-12 upload, Buena Vista Beach Resort,
+East Cape, Baja California Sur — `6j7V34GYzzw`, "Fishing Baja - Hotel Buena
+Vista Beach Resort | Part 2"; unregistered channel — medium confidence):
+earlier the same day, on the offshore troll, an angler ("Ryan") fought a
+large gamefish through a long, hard run — the crew put the reel in
+**free-spool** and let it run before working it back, and a **circle hook**
+was credited on camera for the solid hookup. The fish was landed boatside and
+released; no species was named on camera during the fight itself, so — as
+with the unconfirmed marlin catch in the `tcso7Lpm_Xs` entry above — this is
+logged as an **unconfirmed gamefish catch**, not a confirmed species. A
+separate post-trip dinner recap has a speaker (ambiguous in the captions'
+"I" — possibly Ryan, possibly the trip host reciting the week's tally for
+Richie, Sandy, and himself) mentioning "my first striped marlin" among the
+week's catches; this is not confidently tied to the fight above, so it is
+**not** logged as a striped-marlin catch. No lure, leader, or line-class
+detail given in the captions.
+
+The rooster-fish session promised in the `tcso7Lpm_Xs` entry above shows up
+here, but as a **panga slow-troll**, not the beach/surf session originally
+teased — the crew fished from a smaller panga, slow-trolling a pink-colored
+lure/skirt (called "pinky" on camera) through water named on camera as
+sounding like "Kabul Eidos" (**asr-uncertain** — most likely Cabo Pulmo,
+immediately south of the resort, but not confidently resolved from the
+captions, so treat the location name as unverified) while targeting rooster
+fish. "Pinky" drew repeated strikes, with several fish released and no
+size/count given. **Circle hooks** were credited on camera for connecting
+solidly on the takes, including on a fish debated on camera as a jack vs. a
+rooster mid-fight. Separately in the same panga session — after an on-camera
+equipment-ad cutaway, so not confirmed as the same fish as that jack/rooster
+debate — a fish was identified boatside as an **African pompano**, a species
+with no anchor note in this corpus; logged here only as a presence/technique
+data point, not carried to a species destination. No leader, line class, or
+troll-speed parameters given in the captions.
 
 ## Common failures
 

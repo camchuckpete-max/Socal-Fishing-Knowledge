@@ -83,7 +83,6 @@ question (see **Doctrine & conflicts**).
   timing, **clean blue water on a bait/color seam**, slack tide — but does **not**
   document a single crisp threshold for "deploy now." Flagged as thin/open: the
   deployment-trigger rule is a research target, not settled doctrine.
-
 <!-- backlinks:start -->
 ## Linked from
 
