@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM]
 confidence: high
 ---
 
@@ -68,6 +68,18 @@ the bluefin nearby become more cooperative too.**
   the deep diver got bit and the boat landed a yellowfin of about **60 lb** —
   an on-the-water instance of the troll-to-locate pattern in the table below,
   triggered by working a dolphin school rather than a paddy or bird sign.
+- **Observed** (StokedOnFishing, `3T4c3Zez_DM`, 2017-05-09 upload, "Top Gun 80
+  Epic 5 Day, part 2," offshore San Clemente Island, SoCal, 5-day charter
+  aboard the Top Gun 80; unregistered channel — medium confidence): after the
+  morning bluefin bite eased (see [bluefin tuna](bluefin-tuna.md#where--when)),
+  the boat moved off the island and ran offshore looking for pelagics; working
+  birds and surface boils marked a yellowfin school ("they're boiling... they're
+  chowing... birds are here"), an on-the-water instance of the bird/boil visual
+  sign pattern above; the school graded around **30 lb** (bait type not
+  stated on camera for this catch — the video's earlier squid mention is
+  from the separate morning bluefin session, not this leg). This is the
+  primary footage that the `tU4jhAkdzNw` (part 3) entry below recaps
+  secondhand as a "wide-open yellowfin tuna bite."
 - **Observed** (StokedOnFishing, `tU4jhAkdzNw`, 2017-05-11 upload, "Top Gun 80
   Epic 5 Day, part 3," SoCal islands (exact zone not named on camera), 5-day
   charter aboard the Top Gun 80, captain/crew credited on camera as Stan
