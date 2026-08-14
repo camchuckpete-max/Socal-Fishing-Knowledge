@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM]
 confidence: high
 ---
 
@@ -150,6 +150,39 @@ came mixed into a morning yellowtail bite at a bank named on camera as
 [yellowtail](yellowtail.md) Cedros entry for that session's yellowtail
 detail. No lure, leader, or hook detail given for the dorado specifically.
 Unregistered channel — medium confidence.
+
+**Observed (Baja, region label)** (StokedOnFishing, 2021-10 trip (per
+on-camera reference), 2022-06-22 upload, Cedros Island, Baja —
+`brx6Ie_L2FM`, "Stoked to Be Back in Cedros Island Dorado Fishing"; likely
+the same trip as the `QSmE3mdEL28` yellowtail-focused companion episode
+already logged above and in [trolling](../techniques/trolling.md) — both
+titled "Stoked to Be Back in Cedros Island," uploaded 17 days apart, both
+referencing an October trip): one boat found a kelp paddy that had "the
+whole ocean lit up" — an angler described looking down and seeing roughly
+**200–300 dorado** stacked under it, calling it "an aquarium." Pinning a
+live mackerel on a bait caster and casting it right at the paddy produced
+an instant double hookup, and once word went out over the radio, every
+boat that arrived was getting two and three dorado at a time. This account
+is recounted dockside, in the past tense, by a different boat's crew — it
+is the "day before" bite the intro references, not the filming crew's own
+catch. On a separate day (the crew's own filming day), after a captain
+called them in to a dorado bite by radio, the crew's own hookup connected
+instantly on **60 lb fluorocarbon** leader with a **flylined mackerel** —
+a heavier leader than the 20–40 lb stepped range in the gear summary
+below, logged as a same-trip data point, not a conflict; no kelp paddy is
+mentioned for this second catch, so it is kept distinct from the aquarium
+paddy above rather than assumed to be the same bite. Anglers also
+described hooked dorado drawing the rest of the
+school to follow the boat and stay in the area ("they're on you... and
+then they fish right around you") — corroborating, not a new mechanism
+beyond, the school-holding behavior already logged in the East Cape
+(`tcso7Lpm_Xs`) entry above. Separately, dock advice the crew received
+before running north for the day was to work dorado on a **slow-trolled
+live mackerel** — see the live-mackerel slow-troll entry in
+[trolling](../techniques/trolling.md) for the mechanics as logged from the
+companion yellowtail episode of this same trip; no independent dorado
+hookup on the troll was captured in this video's footage. Unregistered
+channel, sponsor-heavy intro — medium confidence.
 
 ## Gear summary (class terms)
 

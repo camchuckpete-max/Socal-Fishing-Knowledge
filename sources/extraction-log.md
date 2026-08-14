@@ -1014,7 +1014,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Nz5kTJQvuEY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica catch-and-cook tuna, offshore fishing + cooking segment |
 | V_ONnegk95M | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md / evening bite-window timing + 30lb/3-0 hook & drag-set + bait-selection params + green-and-yellow surface-iron color observed |
 | QSmE3mdEL28 | StokedOnFishing | on-the-water | parameter-skim | done | bait/making-bait.md; species/yellowtail.md; tackle/line-and-leader.md; techniques/trolling.md / Cedros Baja trip: 80-100lb line class over 28-30ft resident structure, slow-trolled live mackerel on cir |
-| brx6Ie_L2FM | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja dorado bite on kelp paddy; personal-best yellowtail; sponsor-heavy intro |
+| brx6Ie_L2FM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/trolling.md / Added three Observed blocks (Cedros dorado paddy account w/ 200-300 fish, personal-best yellowtail ~1 mi offshore, dock advice for sl |
 | I-QBxuV2p7M | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja calico bass trip, day2 bait-making footage, mostly banter |
 | e73wPONTOJU | StokedOnFishing | on-the-water | observations-only | pending | SoCal offshore ElDorado bluefin/dorado chase; Mad Max/spreader bar mention, foamers |
 | VWClGAn2WEw | StokedOnFishing | on-the-water | deep | pending | Kelp-paddy pattern doctrine: drift setup, electronics+eyeballs, work-bird/discoloration cues |

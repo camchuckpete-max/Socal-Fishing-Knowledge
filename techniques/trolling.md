@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, brx6Ie_L2FM]
 confidence: high
 ---
 
@@ -67,6 +67,19 @@ top-shot specs live in each lure note.
   rock noted in [yellowtail](../species/yellowtail.md) (not a claim about
   where the mackerel bait itself was netted). Unregistered channel — medium
   confidence.
+- **Observed** (StokedOnFishing, 2021-10 trip (per on-camera reference),
+  2022-06-22 upload, Cedros Island, Baja — `brx6Ie_L2FM`, "Stoked to Be Back
+  in Cedros Island Dorado Fishing"; likely companion episode to the
+  `QSmE3mdEL28` trip immediately above, from the same October trip): before
+  running the boat north for the day, dock advice the crew received for
+  [dorado](../species/dorado.md) at Cedros was to "slow troll" a bait
+  captioned on screen as "maguro" (ASR-uncertain — read as **mackerel**
+  given the live mackerel used throughout the rest of this trip's footage,
+  not independently confirmed on camera). No independent dorado hookup on the troll was
+  captured in this footage, so no additional gear/mechanics parameters
+  beyond the yellowtail entry above — logged as the same technique
+  carrying over to a second species at this location. Unregistered
+  channel, sponsor-heavy intro — medium confidence.
 
 ## Running the spread — sweeps, not straight lines
 
