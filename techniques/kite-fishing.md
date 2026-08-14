@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g]
 confidence: high
 ---
 
@@ -86,6 +86,19 @@ voice, `high` confidence).
   the flyer. Put the boat in gear and drive **forward gently — about 4–5 kt,
   not a hard throttle** — to keep the rod bent and constant pressure on the
   fish as it takes off, driving the hook home without shock-loading it.
+- **Observed** (Your Saltwater Guide, wYeKJLoKo4g, 2018-09-04, San Clemente
+  Island): a spot of bluefin spotted foaming/breezing at distance through
+  binoculars had gone quiet — stopped foaming, showing color/shine just under
+  the surface — by the time the boat closed in; the boat **approached slowly**
+  rather than running-and-gunning, then presented the Yummy Flyer (rubber
+  flying-fish lure, see the [artificial alternative](../rigging/flying-fish-harness.md#artificial-alternative--durable-rubber-flyer-for-trolling))
+  suspended under a small yellow balloon and kept it dapping/skipping in the
+  water rather than retrieving it. Several fish struck and missed before one
+  connected — the bite showed as the yellow balloon going under and staying
+  down. This clip does not say whether a kite was up, so it is **not** treated
+  as resolving the balloon-vs-kite-lift-assist ambiguity flagged in the bullet
+  above (a different video, `2y0VznL2qk8`); it sits beside that ambiguity,
+  attributed separately, rather than settling it.
 
 **Kept side by side with the Mad Mac speed-troll numbers, not reconciled:**
 this is a different lure (rubber flyer vs. Mad Mac), a different troll speed
