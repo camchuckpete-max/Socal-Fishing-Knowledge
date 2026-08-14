@@ -1098,7 +1098,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | IxhdiX3oEEs | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; techniques/fighting-big-bluefin.md / added SoCal 184lb/65in bluefin catch as Observed entry in species router + teammate hand-off Observed entry beside East Cape hand-off doct |
 | kS8eC_5y4oo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica double sailfish, release/handling footage |
 | 9jDy4gUUyJk | StokedOnFishing | on-the-water | single-pull | done | conditions/kelp-paddies.md / drone-as-paddy-precheck bullet added under Finding paddies; Observed dorado catch block added (one overreaching claim corrected to match hedged/garbled source) |
-| 1nK7vSPl2sg | StokedOnFishing | on-the-water | observations-only | pending | La Ventana Baja (East Cape/Sea of Cortez); amberjack, high spot 200->80ft, 30lb fluoro/circle hook |
+| 1nK7vSPl2sg | StokedOnFishing | on-the-water | observations-only | done | techniques/flyline.md / Observed block appended (La Ventana amberjack on high spot 200->80ft, 30lb fluoro topshot + 3/0 circle hook, Okuma reel); medium confidence per registry cap |
 | Klfb433I3Uk | StokedOnFishing | on-the-water | parameter-skim | pending | San Clemente Isl. yellowtail; chum-buddy/seal-avoidance tips; SoCal |
 | SczdZIq3UmE | StokedOnFishing | on-the-water | parameter-skim | pending | SoCal tuna, 35ft Everglades; white-tern spotting tip; Simrad Halo radar demo, sponsor-heavy |
 | Jz9KRNEHLkw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska lingcod |

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg]
 confidence: medium
 ---
 
@@ -487,6 +487,34 @@ braid** to about **60 lb** (heard as "monel," read as mono) with about a
 A separate fish was fought on an "extra heavy rod" paired with a reel
 captions render as "Alos 52p Speed" — brand/model not confidently resolved,
 name not carried per the ASR-hazard rule.
+
+**Observed** (StokedOnFishing, presenter Shay [McKinty], captain Andrew
+Pereira, 2019-10-25, La Ventana, Baja California Sur (Sea of Cortez side, East
+Cape corridor) — `1nK7vSPl2sg`, "Giant Amberjack, Possible La Ventana Record";
+six-pack charter aboard a 35 ft Everglades out of a La Ventana-area resort, a
+~2.5 hr run from LAX; day's stated targets were tuna, dorado, wahoo, and
+possibly marlin; unregistered channel, batch-2 registry explicitly caps Shay
+McKinty at medium — medium confidence): a local captain (heard as "Fabio")
+directed the boat to a named high spot rising from roughly **200 ft to 80
+ft**, describing it as holding a lot of fish. On that spot, a bait was let
+swim freely for about seven seconds before getting bit — consistent with a
+no-weight flyline presentation rather than a dropped/jigged bait — on tackle
+called out on camera as a **30 lb fluorocarbon top shot** to a hook rendered
+in captions as "at 300 hook circle hook" (ASR-uncertain, read here as a
+**3/0 circle hook** per the same aught-sizing corruption logged elsewhere in
+this note). The reel was called out as "30 pound test on the" an Okuma reel
+(Okuma per the corpus's known Akuma→Okuma corruption) — the model name,
+rendered in captions as "metalloid," is not confidently resolved and is not
+carried per the ASR-hazard rule. The bite produced a large fish the crew
+called an amberjack on camera (captions render this as "amateur," resolved
+from context and the video title) — unexpected against the tuna/dorado/
+wahoo/marlin target list — with the video's title/on-camera reaction framing
+it as a **possible La Ventana record**, a claim from the video only, not
+independently verified in this corpus. Post-catch dialogue (heavily
+ASR-garbled) compares how the fish ran at the start of the fight to tuna
+caught earlier in the trip — read here as continued discussion of the same
+amberjack rather than a second fight, since no second angler or hookup is
+described in the transcript.
 
 ## Mono top shot vs. straight braid — the depth mechanism
 
