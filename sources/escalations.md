@@ -40,3 +40,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T04:29:33Z — fK2AT460xW4 — evaluator-escalate
 - run: 31769154617
 - reason: species/yellowfin-tuna.md's Situations to techniques router table gained a new row (dolphin/porpoise-pod dropper rig) - a router-table change, mandatory escalation per checklist item 5 even though the addition is accurate and additive; Cameron should confirm the new row belongs in the router at GATE B review.
+
+## 2026-08-14T05:36:26Z — EiItVWqFMYc — evaluator-escalate
+- run: 31769154617
+- reason: The added Sublegal ('short') lobster handling section frames redepositing a short lobster as legal via a not-possessing-it technicality, positioned beside the species note's release-it-immediately doctrine; regulatory-adjacent content about lobster possession/release law that Cameron should review before it stands published.

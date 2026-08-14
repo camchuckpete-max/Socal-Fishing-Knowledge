@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging]
-sources: [b19_AJjYCok, Qs9oEsh3b_w]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc]
 confidence: medium
 ---
 
@@ -14,9 +14,11 @@ video; the buoy/rope build and retrieval mechanics below add Capt. Scotty
 (Brothers Sportfishing, La Jolla — registered voice, high confidence, presenter
 inferred from the demo handoff) and Roman Castro's own line-management insert
 (unregistered channel, caps at medium), Qs9oEsh3b_w, 2020-10-17, San Diego /
-Mission Bay — California / CDFW jurisdiction, as of 2026-08: verify gear counts
-and legality against current CDFW rules (the species note carries the
-regulatory detail).
+Mission Bay; the soak/pull cadence and short-lobster handling below add
+dave-hansen (Your Saltwater Guide, registered voice), EiItVWqFMYc, 2021-01-05,
+Catalina/SoCal general — California / CDFW jurisdiction, as of 2026-08: verify
+gear counts and legality against current CDFW rules (the species note carries
+the regulatory detail).
 
 ## Reach for this when
 
@@ -139,6 +141,48 @@ overhand loop, restoring a straight line and repeating the taut-then-loop
 procedure at the new depth. **When retrieving, pull from in front of the
 overhand-loop knot** (i.e., from the net side) — pulling from the buoy side
 first can pull the slack back out before it's needed.
+
+### Soak-and-pull cadence (dave-hansen, Your Saltwater Guide, EiItVWqFMYc, 2021-01-05)
+
+- Drop nets **~1 hour before dark** to give the bait's scent time to spread.
+- Start the first pull **~30 minutes after sunset**. Mechanism: the bottom goes
+  dark as soon as the sun goes under the horizon even though the surface still
+  shows gray light; it takes roughly that further half hour for it to actually
+  be dark on the bottom, which is when lobsters start crawling — and they crawl
+  right away since they've already smelled the bait.
+- **Multi-spot start:** in a good area with two or three fishable zones inside
+  the same time window (his example: **Catalina**), spread the initial drop
+  across those spots (e.g., 5 nets on one, 5 on another) to find which one
+  they're crawling on that night, then commit gear to whichever spot produces.
+- **Once they're crawling, don't stop pulling.** Keep cycling the whole spread
+  continuously instead of letting any one net soak a full hour — stated in
+  direct contrast to "let them soak an hour" advice he says circulates online.
+  A net that already has lobsters goes right back down **on the exact spot it
+  caught them** ("if there's one there's way more"); an empty net gets moved
+  and dragged over to whichever spot is producing. Working a full 10-hoop
+  spread continuously on a big sportboat (his example: 65 ft Viking, Hatteras,
+  or 44 ft Pacifica) naturally cycles each net back to roughly a 30-minute soak
+  anyway; on a smaller boat, transit time alone between 10 nets can eat a
+  comparable ~30 minutes, so the same don't-let-it-sit-idle logic still applies
+  even though the boat is slower.
+- **Reposition discipline:** always drop a re-set net back on the exact spot it
+  last caught fish — moving it even a little risks losing the bite, since
+  crawling lobsters are working the scent trail from where the bait first went
+  in the water (~1 hr before dark).
+
+### Sublegal ("short") lobster handling (dave-hansen, Your Saltwater Guide, EiItVWqFMYc, 2021-01-05)
+
+Judgment call, presenter's own framing: rather than releasing a short lobster
+over the side, he drops it back into the hoop net and redeploys the net on the
+bottom, reasoning a short lobster left in the net can draw more lobsters in to
+investigate ("nothing attracts a crowd like a crowd"), possibly including as a
+mating draw. He frames the sublegal lobster as not "possessed" while it's free
+to crawl back out of an open net at any time, calling it "the technicality of
+the law." Single-source technique judgment, presented beside CDFW's stricter
+framing already on the species note — [short lobster: release it
+immediately](../species/california-spiny-lobster.md) — flagged as a possible
+tension and not reconciled here; verify current CDFW release requirements
+(California / CDFW, as of 2026-08) before relying on this in the field.
 
 ## Retrieval (Scotty, Qs9oEsh3b_w)
 
