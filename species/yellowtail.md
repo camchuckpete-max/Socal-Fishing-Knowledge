@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE]
 confidence: high
 ---
 
@@ -243,6 +243,22 @@ typical-year mapping.
   captain, supporting "Home Guard" as shared SoCal sportboat-fleet usage for
   resident yellowtail rather than one crew's idiom. Grade and bank/zone not
   given on camera for this bite.
+  **Observed, same trip/crew, part 1 footage** (StokedOnFishing,
+  `Rb5I2ljAqeE`, 2017-05-05 upload, "Top Gun 80 Epic 5 Day, part 1," West End
+  tuna zone (San Clemente Island vicinity), SoCal — a spot the crew names on
+  camera as **desperation reef** (cataloged in
+  [the spot list](../sources/spot-lists.md)), aboard the **Top Gun 80**;
+  unregistered channel — medium confidence): day one of the same 5-day
+  charter as the part-3 entry immediately above, with the crew again calling
+  landed fish **"Home Guard" yellowtail** — a third data point for the term,
+  but the same trip/crew as part 3, not independent corroboration. Grade
+  called on camera as **18–25 lb**, alongside a **30–40 lb** tuna bite worked
+  the same session (full bluefin-side detail, including the "desperation
+  reef" anchor spot and squid-flyline tactics, logged in
+  [bluefin tuna](bluefin-tuna.md#where--when)). One yellowtail was landed on
+  a **sardine fly line** — a further SoCal sardine-flyline yellowtail data
+  point. The crew reasoned the fish were holding on the bank because bait
+  squid were staged there.
   **Observed** (StokedOnFishing, video uploaded 2025-02-12, trip date not
   stated — `QSvzVHW9UMk`, "Epic Bluefin Fishing Aboard the Ranger 85!," part 2
   of the same 3-day charter aboard the 85 ft **Ranger 85** as the

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE]
 confidence: medium
 ---
 
@@ -231,6 +231,22 @@ isn't yet repeated doctrine).
   the bait balls sank out and scattered the fish — a bluefin-foamer
   bait-casting data point alongside the mackerel-specific edge-casting
   mechanic above; bait, hook, and leader detail were not captured on camera.
+- **Observed, SoCal squid flyline for bluefin** (StokedOnFishing,
+  `Rb5I2ljAqeE`, 2017-05-05 upload, "Top Gun 80 Epic 5 Day, part 1," West End
+  tuna zone (San Clemente Island vicinity), anchored at "desperation reef"
+  (cataloged in [the spot list](../sources/spot-lists.md)); unregistered
+  channel — medium confidence): flylined leftover, dead squid (fished as
+  "fresh dead" rather than live) still produced repeat bluefin bites. With
+  current running against the wind — captions render the crew's description
+  as "swinging like a fat out of hell" (asr-uncertain, most likely "flag out
+  of hell") — the crew departed from the standard no-weight rule
+  above and added an unusually **light half-ounce weight** to the flyline
+  bait, aiming to keep it swinging naturally rather than let the current
+  sweep it flat; kept beside, not folded into, the no-weight/distance
+  doctrine above as a conditions-driven exception. The same session also
+  worked flylined baits **suspended under a balloon** to draw bluefin
+  hookups — full grade/catch detail logged in
+  [bluefin tuna](../species/bluefin-tuna.md#where--when).
 - **Observed** (StokedOnFishing, 2016-12-16, East Cape, Baja California Sur —
   Hotel Buena Vista Beach Resort trip, `mL4Ph7t0WcQ`): flylined **squid**
   (no weight, slow-drifted back from the boat, likened on camera to a chunk

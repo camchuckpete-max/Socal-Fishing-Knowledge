@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE]
 confidence: high
 ---
 
@@ -485,12 +485,34 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   bait-hooking data point from the same footage logged in
   [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation).
 
+- **Observed** (StokedOnFishing, `Rb5I2ljAqeE`, 2017-05-05 upload, "Top Gun 80
+  Epic 5 Day, part 1," West End tuna zone, SoCal, 5-day charter aboard the
+  **Top Gun 80**; unregistered channel — medium confidence): day one of the
+  same trip continued in the `3T4c3Zez_DM`/`tU4jhAkdzNw` entries immediately
+  below. The crew framed that season's entire bluefin push as running "from
+  the West End all the way down to... 10 miles off Point Loma," with fish
+  reported **50 to almost 300 lb** moving through the zone. The boat anchored
+  on a high spot named on camera as **desperation reef** (cataloged in
+  [the spot list](../sources/spot-lists.md)), reasoning the bite held there
+  because bait squid were staged on the bank. Flylined dead squid (leftover
+  bait fished as "fresh dead" rather than live) drew repeat bites in tough
+  current-against-the-wind conditions; gear/technique detail (an unusually
+  light half-ounce weight used to keep the bait swinging naturally in that
+  current) is logged in
+  [flyline](../techniques/flyline.md#fishing-it). The session's grade ran
+  **40–90 lb**, including the day's best fish called on camera as "probably
+  close to 90" and the angler's biggest bluefin yet. The crew also worked
+  flylined baits suspended under a balloon for hookups on **30–40 lb** tuna
+  during the same session. A same-trip mixed yellowtail bite (**18–25 lb**,
+  sardine flyline) is logged in
+  [yellowtail](yellowtail.md#where--when).
 - **Observed** (StokedOnFishing, `3T4c3Zez_DM`, 2017-05-09 upload, "Top Gun 80
   Epic 5 Day, part 2," San Clemente Island, SoCal, 5-day charter aboard the
   **Top Gun 80**; unregistered channel — medium confidence): this is the
   primary footage that the `tU4jhAkdzNw` (part 3) entry immediately below
   recaps secondhand — a morning bluefin bite at SCI continuing the pattern
-  from day one, with the crew describing the bite window as unpredictable
+  from day one (`Rb5I2ljAqeE`, logged immediately above), with the crew
+  describing the bite window as unpredictable
   ("the mystery [of] when are they going to bite... sometimes you get a pick
   and there's two or three or four hanging all day long... then sometimes
   they shut off"), consistent with the abrupt-shutoff bite pattern already
