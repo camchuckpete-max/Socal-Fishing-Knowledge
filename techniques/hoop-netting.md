@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc]
+tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging, prop-safety]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew]
 confidence: medium
 ---
 
@@ -16,9 +16,12 @@ inferred from the demo handoff) and Roman Castro's own line-management insert
 (unregistered channel, caps at medium), Qs9oEsh3b_w, 2020-10-17, San Diego /
 Mission Bay; the soak/pull cadence and short-lobster handling below add
 dave-hansen (Your Saltwater Guide, registered voice), EiItVWqFMYc, 2021-01-05,
-Catalina/SoCal general — California / CDFW jurisdiction, as of 2026-08: verify
-gear counts and legality against current CDFW rules (the species note carries
-the regulatory detail).
+Catalina/SoCal general; the boat-approach/prop-safety mechanics below add a
+second dave-hansen video, cEscIy278ew, 2020-11-13, general SoCal (his own
+fleet examples span a 20-ft Wellcraft skiff up to 65-ft Viking/Hatteras sport
+boats) — California / CDFW jurisdiction, as of 2026-08: verify gear counts and
+legality against current CDFW rules (the species note carries the regulatory
+detail).
 
 ## Reach for this when
 
@@ -184,6 +187,18 @@ immediately](../species/california-spiny-lobster.md) — flagged as a possible
 tension and not reconciled here; verify current CDFW release requirements
 (California / CDFW, as of 2026-08) before relying on this in the field.
 
+**Conflict, same presenter, dated (not reconciled):** in an earlier video
+(dave-hansen, cEscIy278ew, 2020-11-13) he describes the more conventional
+practice — measure immediately after shaking the net out, put shorts straight
+into a bucket, and tip them over the side right away rather than letting them
+sit loose on deck, framing possession of a short as carrying a serious fine.
+That earlier statement lines up with CDFW's release-immediately stance above.
+The redeploy-in-net judgment above is from the later video (EiItVWqFMYc,
+2021-01-05), so per the "prefer the latest" convention it reads as his
+updated on-camera stance — but both are kept here side by side, attributed
+and dated, rather than silently treating the later video as having overwritten
+the earlier one.
+
 ## Retrieval (Scotty, Qs9oEsh3b_w)
 
 - **Keep a constant, steady pull** bringing the trap up — don't stop-start.
@@ -192,6 +207,48 @@ tension and not reconciled here; verify current CDFW release requirements
   even briefly reverses that drag, and lobsters caught loosely can spill or
   climb out during the lull. Doesn't need to be fast (no need to gas yourself
   out) — just unbroken.
+
+### Boat approach and prop safety (dave-hansen, Your Saltwater Guide, cEscIy278ew, 2020-11-13)
+
+High-confidence, registered voice, non-sponsored tutorial. Stated as a fixed
+habit across every boat size he runs, from a 20-ft Wellcraft skiff up to
+65-ft Viking/Hatteras sport boats, 44-ft Pacifica, and 46-ft Bertram — same
+procedure regardless of hull size or motor count.
+
+- **Always approach the buoy stern-first, never bow-first.** Turn the boat
+  around and back down onto every hoop-net buoy. Reasoning: running up
+  bow-first at night, the bow's flare and any windshield/cabin glass catch
+  the spotlight beam and reflect it straight back at the driver, making it
+  effectively impossible to see forward; backing in avoids the reflection
+  problem entirely.
+- **Spotlight the buoy itself before closing in**, specifically to read which
+  way the rope descends off it into the water (the buoy's conical front end
+  points down the line — see the buoy-build detail above). This isn't just
+  for finding the buoy: the rope can be laying in a different direction than
+  the wind would suggest (his example: wind blowing one way, buoy line
+  running the opposite way), so the rope's actual lay has to be checked each
+  time rather than assumed from the wind.
+- **Run two spotlights**: one on the charger at all times, one in active use.
+  Swap to the charged light as soon as the working one starts to dim, so a
+  light never goes fully dead mid-retrieval.
+- **The highest-risk moment is the instant the buoy disappears under/behind
+  the transom** — that's when the line is most likely to reach the
+  propeller, because the buoy is no longer visible to steer off of. Position
+  the boat to back straight onto it through that moment rather than drifting
+  sideways onto the line.
+- **Crew communication and the bump-forward clear:** the crew member on the
+  gaff or boat hook calls out the moment the line is hooked. On that call,
+  bump the boat into forward gear briefly — not full throttle, just enough
+  way to move forward a little — which walks the boat forward off the rope
+  and washes it out from under the hull instead of leaving it hanging near
+  the wheel. A second crew member holds a corner position and keeps a
+  spotlight trained on the rope through that bump to confirm it isn't running
+  under the boat.
+- Once the net is up: dump/shake it upside down to release the lobsters,
+  measure immediately, and get legal lobsters into the bait tank/live well
+  and any shorts back over the side right away rather than letting them sit
+  loose on deck — see the sublegal-handling note below for how this compares
+  with his later on-camera judgment call.
 
 ## Common failures
 
@@ -204,6 +261,13 @@ tension and not reconciled here; verify current CDFW release requirements
 - **Skipping the pre-trip check** — factory zip-tie/lashing points on a new net
   can be loose from the shelf; check (or re-tie) all rim attachment points for
   even, solid tension before the first trip, not after a set is lost overboard.
+- **Approaching the buoy bow-first at night** — the spotlight reflects off the
+  bow flare and any glass, blinding the driver; back the stern down onto the
+  buoy instead (dave-hansen, cEscIy278ew).
+- **Losing sight of the line the instant it goes under the transom** — the
+  moment the buoy disappears behind the boat is the highest-risk moment for a
+  prop wrap; back straight onto it and bump only lightly into forward once the
+  line is hooked, rather than gunning it (dave-hansen, cEscIy278ew).
 
 ## Rig it
 
