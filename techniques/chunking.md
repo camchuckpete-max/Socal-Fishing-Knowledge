@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k]
 confidence: high
 ---
 
@@ -186,6 +186,28 @@ scaling everything down is what turns bites on:
   captions render a specific reel-name brand here that does not resolve
   cleanly (asr-uncertain), so it is omitted — flicking chum/squid strips out
   behind the anchored boat.
+
+## Fighting the fish out of shallow rock (Dave Hansen, Your Saltwater Guide, `KCcEqHSZ84k`, 2019-06-13; registered voice, single mention — medium confidence)
+
+**Region:** SoCal, Northwest Harbor, San Clemente Island — anchored tight to island rock
+structure (named on camera as "Coiler Rock" — asr-uncertain, name not
+independently confirmed) in about **6 ft of water**, fishing sardines; calico
+to **8 lb** taken here on this pattern.
+
+Once a calico is hooked this shallow and this tight to rock, the fight
+technique matters as much as the chum/bait: **hold the rod tip as high as
+possible and wind as fast as possible without ever pumping the rod** — grind
+the fish straight to the boat rather than pump-and-reel. **Never let the tip
+drop**: a dropped tip gives the fish the leverage to bury its head into the
+rock (or kelp) below and root the leader off — once that happens "you'll
+never get them." Constant upward pressure from hookup to gaff is the stated
+rule for this shallow, tight-to-rock scenario specifically. **Line: 65 lb
+braid straight to a 30 lb fluorocarbon top shot.**
+
+This 30 lb fluoro is notably lighter than the 40–65 lb fluoro leader logged
+for kelp-stringer swimbait work in [calico bass](../species/calico-bass.md) —
+kept side by side as a second data point (open rock in 6 ft of water on bait,
+vs. dense kelp on a weedless lure) rather than reconciled.
 
 ## Common failures
 
