@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, cameron]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, cameron]
 confidence: high
 ---
 
@@ -65,6 +65,11 @@ the bluefin nearby become more cooperative too.**
   minutes of chumming a marked school pulls it up toward the surface and into
   casting range (lxFNVdDhMy4). Grade a paddy's mark fast and move if it's dry.
   Full method: [electronics & sounder](../planning/electronics-and-sounder.md).
+  **Observed** (Your Saltwater Guide, 2019-12-26, San Diego): a chum line
+  pulled a school into a full-on bite at the boat, with **free-swimming
+  yellowfin charging right up alongside the hull** in the frenzy — an
+  on-the-water example of the chum-pulls-fish-to-the-surface effect above
+  (6zYRI1ZQU3c).
 
 ## Situations → techniques
 
