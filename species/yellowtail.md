@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, XwwIvPFxRiQ]
 confidence: high
 ---
 
@@ -107,6 +107,16 @@ typical-year mapping.
   line" — ASR-uncertain) before the yellowtail bite dropped off and the bite
   switched to bass on plastics, nearly every cast. Same island as, distinct
   footage/date from, the part 3 observation above.
+  **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
+  `XwwIvPFxRiQ`, Cedros Island Adventure part 2; unregistered channel —
+  medium confidence): a morning stop with birds diving overhead produced an
+  immediate double hookup on the yo-yo iron, and the group's fish from that
+  session all ran **over 30 lb** — consistent with the home-guard grade
+  above. One good fish was lost boatside to a seal after a prolonged fight —
+  see the contrasting (losing) depredation outcome logged in
+  [fighting a big bluefin — sea lion depredation at the boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species).
+  The crew left the spot afterward even though the yellowtail bite was still
+  going, rather than keep fishing through repeated seal pressure.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

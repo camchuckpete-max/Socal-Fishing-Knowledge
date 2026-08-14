@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ]
 confidence: high
 ---
 
@@ -141,6 +141,18 @@ the reverse map in **Linked from** below.
   weight/color or depth given. Sits beside, not a change to, this note's
   yellowtail/bluefin-focused doctrine — evidence the technique also produces
   bottom-holding calico.
+- **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
+  `XwwIvPFxRiQ`, Cedros Island Adventure part 2; unregistered channel —
+  medium confidence): the trip's yo-yo iron rotation for yellowtail was
+  **solid 6X and 7X irons** (brand not stated on camera; consistent with the
+  Salas 6X/7X class already documented in this note) plus a jig captioned
+  "Tatty BOS" (ASR hazard — Tady routinely renders as "Tatty"/"teddy" in this
+  corpus; likely a Tady-brand model, exact name not confirmed), fished in
+  **blue and white**, **scrambled egg**, and a color captioned "dado" (ASR-
+  uncertain — likely **dorado**, already in this note's and
+  [iron jigs](../lures/iron-jigs.md)'s named color range) as the best
+  producers. Corroborates, not a new pick beyond, the scrambled-egg/blue-
+  and-white traditional colors already documented above.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
   LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
   **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ]
 confidence: medium
 ---
 
@@ -91,6 +91,16 @@ gamefish a sea lion is stealing boatside, not just bluefin.
   lion as the line breaking; it lets go, thinking it won. The angler then
   winds fast — not pumping — to recover the fish before the sea lion returns.
   Outcome in this instance: the fish was landed.
+- **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
+  `XwwIvPFxRiQ`; unregistered channel — medium confidence): a losing outcome
+  on a hooked **yellowtail** (Baja, distinct trip/region from the SoCal
+  instance above). A seal grabbed the fish by the tail alongside the boat;
+  the angler kept winding rather than pumping, and the seal let go once,
+  bringing the fish to within gaff range — but the seal came back, grabbed
+  it again, and the fish was lost on the ensuing run. No free-spool/slack
+  counter-move is described in this instance. Kept beside, not reconciled
+  with, the landed outcome above. The crew moved off the spot afterward
+  despite the yellowtail bite still being active, citing the seal.
 
 ## Common failures
 

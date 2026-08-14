@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ]
 confidence: high
 ---
 
@@ -53,6 +53,18 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   with, the **Gamakatsu 7/0** keel-weighted-hook spec already in this note —
   unclear whether "number 9" reflects a different sizing convention or an
   imprecise on-camera mention. Unregistered channel — medium confidence.
+  **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
+  `XwwIvPFxRiQ`, Cedros Island Adventure part 2; unregistered channel —
+  medium confidence): calico bass tackle for the trip was **MC-series
+  swimbaits** (captioned "Vio series" — ASR-uncertain, not confirmed by
+  name) in the **5-7 in** range on leadheads (brand captioned unclearly —
+  ASR-uncertain, not confirmed by name) run **1/2 oz up to 1.5 oz depending
+  on how deep they were fishing**; best colors named were **red, green, and
+  brown**. Jigs and a spinner-blade lure (captioned "bolt thrower" — ASR-
+  uncertain, not confirmed by name) also produced fish, but the swimbait was
+  the trip's top overall producer. A third, independent red/green/brown data
+  point — kept beside, not reconciled with, the "color matters little" /
+  green-gold "hot koch" framing above.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ]
 confidence: high
 ---
 
@@ -78,6 +78,17 @@ you read the *current across the kelp*, not the tide clock.
   four-pounder called out) rather than the earlier trip's bigger class. No
   current or water-color detail given. Unregistered channel — medium
   confidence.
+- **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
+  `XwwIvPFxRiQ`, Cedros Island Adventure part 2; unregistered channel —
+  medium confidence): two anglers on the trip (fishing separate boats)
+  reported having landed over **100 calico bass** between them across the
+  trip to that point (ASR ambiguous whether this was a combined or
+  per-angler total), and this day's afternoon session (roughly 7 hours,
+  location given only as "to the north" of the group's home base) was
+  wide-open enough that
+  the group **ran through their plastics and jig supply**. Consistent with,
+  not a new data point beyond, the fast/high-volume Cedros bite pattern
+  already documented in the entries above.
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): a separate charter trip
   (Cedros Outdoor Adventures) reported an extremely high-volume day-one
