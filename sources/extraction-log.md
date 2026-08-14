@@ -942,7 +942,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | SHFrJzWZP-g | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Legg Lake (LA) bass/bluegill/crappie tourney; freshwater excluded despite SoCal loc |
 | k4LCL9ALryA | StokedOnFishing | on-the-water | observations-only | done | lures/bay-bass-plastics.md; species/spotted-bay-bass.md; techniques/inshore-crankbaits.md: added 3 Observed blocks (18-20ft/shad-pattern depth-bait observation, 25+ fish crankbait day) after correctin |
 | wJl8SZhmaWg | StokedOnFishing | promo | skip:promo | skipped | SWBA tournament sizzle/testimonial reel, no instruction; promo |
-| EU_Dod4wfYw | StokedOnFishing | on-the-water | observations-only | pending | Santa Barbara Island calico bite w/ Benny Florentino; catch montage, garbled ASR, notes kelp |
+| EU_Dod4wfYw | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md: added Observed block (wide-open kelp bite at Santa Barbara Island, 4.5-5lb fish, more-kelp-on-prior-visit remark), contrasted beside existing not-wide-open Cat Harbor observati |
 | AxLlx2Ug-rs | StokedOnFishing | on-the-water | parameter-skim | pending | Coastal Charters: fish hold tight to pilings, cast close; 7'2" med rod, Curado 200E7, 65lb braid |
 | YijeuGOYoVQ | StokedOnFishing | on-the-water | observations-only | pending | East Cape Baja, wahoo/marlin/rooster at Lighthouse; sponsor-heavy; series: Hotel Buena Vista part 2 |
 | mL4Ph7t0WcQ | StokedOnFishing | on-the-water | observations-only | pending | East Cape Baja, marlin/tuna/rooster fishing amid resort-booking talk; sponsor-heavy; series: Hotel Buena Vista part 1 |

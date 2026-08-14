@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw]
 confidence: high
 ---
 
@@ -121,6 +121,13 @@ present the outside stringers.
   and found a steady, not-wide-open kelp bite — consistent bites with hooked
   fish repeatedly running into the kelp. No conditions (current, water color,
   tide) given beyond the location.
+- **Observed** (StokedOnFishing w/ Capt. Benny Florentino, 2012-03-22, Santa
+  Barbara Island — `EU_Dod4wfYw`): a wide-open kelp bite — multiple quality
+  calico landed in quick succession, including a fish estimated at
+  **4½–5 lb**. Kelp was present at the spot, and the crew remarked there had
+  been noticeably more kelp on a prior visit. No current/water-color/tide
+  detail given beyond the kelp presence; audio quality on this source is poor
+  and no further technique detail could be reliably extracted.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).
