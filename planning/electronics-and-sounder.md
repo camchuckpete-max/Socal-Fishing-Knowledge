@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, cameron]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, Rf1HKJG-SDg, cameron]
 confidence: high
 ---
 
@@ -16,6 +16,21 @@ species notes, and the deep scattering layer itself is in
 **Cameron's boat sounder is a Garmin GPSMAP 840xs** (memory §2). The doctrine
 below comes from Furuno-based captains (Duane Diego Mellor; the deep-drop sword
 seminar); each translated setting is given for the 840xs.
+
+## Terminology: the "fathometer" and fathoms
+
+Ocean depth is measured in **fathoms** (1 fathom = 6 ft), which is why the
+sounder itself is historically called a **fathometer** rather than a "fish
+finder" — the machine was originally built to bounce a signal off the bottom
+and report depth. Early flasher-era units incidentally showed fish on that
+same bottom-return signal, and as they were refined operators learned to tell
+species apart by how a mark flashed on the screen; the name never changed
+because finding depth was always the machine's core job (Capt. Dave Hansen,
+Your Saltwater Guide, Rf1HKJG-SDg, 2020-12-15; registered voice, single
+mention — medium confidence). Practically, this is also why fish don't mark
+uniformly across a passing sounder — they concentrate on the **high spots**
+(banks, rocks, seamounts) described in
+[zone lexicon](../locations/zone-lexicon.md), not open flat bottom.
 
 ## Reading the bottom and grading marks
 
@@ -145,4 +160,5 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

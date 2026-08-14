@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg]
 confidence: high
 ---
 
@@ -108,11 +108,15 @@ the *bottom*, not the fish.
   route differently — see [ocean whitefish](../species/ocean-whitefish.md).
 - **Season/regs are the hard gate.** Depth limits and the year-end closure change
   annually and by area — the KB does not encode current-year regs; confirm with
-  CDFW before the trip.
+  CDFW before the trip. One concrete effect: the 43 bank (below-Clemente
+  complex) fell inside a closed rockfish area, so effort that used to target it
+  for rockfish shifted to [bluefin tuna](bluefin-tuna.md) on the same high spot
+  instead (California/CDFW, as-of 2020-12, Rf1HKJG-SDg; verify current regs).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Tuna](bluefin-tuna.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

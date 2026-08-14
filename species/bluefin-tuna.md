@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg]
 confidence: high
 ---
 
@@ -183,6 +183,18 @@ shot in [gaffing](../fish-care/gaffing.md).
   - Started **kite fishing July 2026**; ruled out a helium-balloon assist (too
     expensive, no room for a tank on the panga). Would cast his heaviest
     jig-stick/rail-class setup at a jumbo **80–140 lb** foamer school.
+- **Why the 43 draws bluefin effort — a regulatory driver (California/CDFW,
+  as-of 2020-12, Capt. Dave Hansen, Your Saltwater Guide, Rf1HKJG-SDg;
+  registered voice, single mention — medium confidence; verify current
+  regs):** the 43 (part of the below-Clemente complex above) was the
+  destination rockfish grounds for decades; per Hansen it now sits inside a
+  closed rockfish area, so the effort that used to stop there for rockfish now
+  targets the same high spot for bluefin instead — the structure and bait draw
+  didn't change, the target species did because the bottom-fishing option was
+  regulated out. See [rockfish & lingcod](../species/rockfish-lingcod.md) for
+  the current rockfish-closure caveat, and
+  [bank naming](../locations/zone-lexicon.md#bank-naming--the-fathom-depth-convention)
+  for why 43 is named for its shallowest fathom depth.
 - **Conflict — calendar vs water state:** the corpus **year-anniversary prior**
   ("go back to this date last year and the year before — pretty close to where
   they'll be," strongest in fall) sits against **Cameron's water-first stance**
@@ -227,6 +239,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

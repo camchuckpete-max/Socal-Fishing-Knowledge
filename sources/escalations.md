@@ -44,3 +44,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T05:36:26Z — EiItVWqFMYc — evaluator-escalate
 - run: 31769154617
 - reason: The added Sublegal ('short') lobster handling section frames redepositing a short lobster as legal via a not-possessing-it technicality, positioned beside the species note's release-it-immediately doctrine; regulatory-adjacent content about lobster possession/release law that Cameron should review before it stands published.
+
+## 2026-08-14T05:59:36Z — Rf1HKJG-SDg — evaluator-escalate
+- run: 31774294351
+- reason: mandatory trigger — patch adds regulatory claim (43-bank rockfish closure→bluefin effort shift) correctly formatted with jurisdiction/as-of-date/verify-current flag, needs Cameron's review of current CDFW rockfish-closure status before Gate B
