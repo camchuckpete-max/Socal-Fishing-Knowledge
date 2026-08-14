@@ -1012,7 +1012,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 9pJA2BnCjpc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica private creek machaca, freshwater jungle stream |
 | MhJeCS_c3h8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica inshore wahoo/grouper + offshore tuna |
 | Nz5kTJQvuEY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica catch-and-cook tuna, offshore fishing + cooking segment |
-| V_ONnegk95M | StokedOnFishing | on-the-water | parameter-skim | pending | San Clemente Is. SoCal; captain briefing: bait selection, 30# test/3-0 hook, drag setting, timing |
+| V_ONnegk95M | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md / evening bite-window timing + 30lb/3-0 hook & drag-set + bait-selection params + green-and-yellow surface-iron color observed |
 | QSmE3mdEL28 | StokedOnFishing | on-the-water | parameter-skim | pending | Cedros Baja; 80-100# test in shallow 30ft, slow-troll mackerel, sabiki sizing, catch-release ethic tip |
 | brx6Ie_L2FM | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja dorado bite on kelp paddy; personal-best yellowtail; sponsor-heavy intro |
 | I-QBxuV2p7M | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja calico bass trip, day2 bait-making footage, mostly banter |

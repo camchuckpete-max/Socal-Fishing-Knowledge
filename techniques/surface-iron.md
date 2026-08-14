@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M]
 confidence: high
 ---
 
@@ -238,6 +238,13 @@ spec and full claim.
 boated yellowtail, but the captain's own read is that **the angler mattered
 more than the jig color** that trip — consistent with, not overriding, this
 note's "no systematic color doctrine" framing above.
+
+**Observed** (StokedOnFishing, 2022-05-04, San Clemente Island, SoCal —
+`V_ONnegk95M`; unregistered channel — medium confidence): yellowtail were
+called biting a **green-and-yellow** ("mac color") surface iron repeatedly
+late in the session — a further single-trip color report, not generalized
+into doctrine, consistent with this note's "no systematic color doctrine"
+framing above.
 
 **Color-by-light framework, tuna lead jigs (Cesar, Eric's Tackle, via Dirty
 Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry

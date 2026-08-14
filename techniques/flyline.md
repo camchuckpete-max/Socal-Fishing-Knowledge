@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M]
 confidence: medium
 ---
 
@@ -81,6 +81,19 @@ Pick the hook position for the swimming behavior you want:
   wind it in, flick it off, and grab a fresh one.
 - **Circle hooks:** hold the hook **high on the arch and press straight down**
   into the bait — holding it from the bottom leaves no gap and mangles the bait.
+
+**Observed** (StokedOnFishing, 2022-05-04, San Clemente Island, SoCal —
+`V_ONnegk95M`, pre-trip captain briefing, day-and-a-half El Dorado charter;
+unregistered channel — medium confidence): stated tackle for the sardine
+flyline bite was **30 lb test** to about a **3/0 hook**, rigged at the bait
+barge as a **circle hook on 30 lb fluorocarbon** — a heavier hook size than
+the 1/0–2/0 flyline sizing logged elsewhere in this note, kept side by side
+rather than reconciled. The captain stressed that **the drag must be set**
+before fishing ("make sure your drags are set … that's very, very
+important"), and called bait selection the deciding factor: pick a bait with
+**scales intact, good color, and slime** rather than the first one grabbed —
+consistent with, not a new mechanism beyond, the bait-selection doctrine in
+[fishing live bait](../bait/fishing-live-bait.md).
 
 ## Match line weight to the bait, not just to the target fish
 

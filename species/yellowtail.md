@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M]
 confidence: high
 ---
 
@@ -77,6 +77,19 @@ typical-year mapping.
   [yo-yo iron](../techniques/yo-yo-iron.md) for the downsize data point. Mixed
   in with a halibut, calico bass, and an estimated 50-fish bonita school on
   the same stop.
+  **Observed** (StokedOnFishing, 2022-05-04, San Clemente Island, SoCal —
+  `V_ONnegk95M`, day-and-a-half limited-load charter aboard the El Dorado;
+  unregistered channel — medium confidence): the captain's pre-trip briefing
+  called the evening bite window at **~5:00–5:45 pm**, telling anglers that's
+  when to start soaking baits — nothing happening before then. Once the bite
+  turned on, both [flylined](../techniques/flyline.md) sardine and
+  [surface iron](../techniques/surface-iron.md) produced yellowtail, with
+  several fish also fought out of kelp on the drift. Gear parameters from the
+  same briefing are logged in [flyline](../techniques/flyline.md); a
+  green-and-yellow surface iron color note is logged in
+  [surface iron](../techniques/surface-iron.md). The crew reported getting
+  every hooked yellowtail to the boat without a sea lion grabbing one that
+  day — a lucky outcome given the depredation pattern already logged above.
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
   pulls them in as well (10/26/22). Surface iron along the kelp edge is the
