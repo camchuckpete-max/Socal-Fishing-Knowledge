@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE]
 confidence: medium
 ---
 
@@ -46,7 +46,12 @@ Pick the hook position for the swimming behavior you want:
   the boat, deeper in the column.
 - **Butt hook** — near the vent. Also **down and away**, and it defeats **sea
   lions** at the islands that pick off nose-hooked baits, while still flylining
-  and swimming well.
+  and swimming well. **Zero-weight only:** the instant any weight goes on the
+  line, switch to the nose hook — a butt-hooked bait dragged by a sinker swims
+  backward, which doesn't look natural (Your Saltwater Guide, `w5_x6kkN-xE`,
+  2021-04-06, inferred Dave Hansen — registered voice, `high` confidence; full
+  mackerel-specific write-up in
+  [fishing live bait](../bait/fishing-live-bait.md)).
 
 ## Bait and hook selection
 
@@ -118,6 +123,13 @@ isn't yet repeated doctrine).
 - On butt- or belly-hooked baits, **keep tension** the moment it lands: a little
   pull makes the bait swim away from you like a propeller. Give it slack and it
   turns and swims right back under the boat.
+- **Casting a butt-hooked bait onto a visible school or foamer (Your Saltwater
+  Guide, `w5_x6kkN-xE`, 2021-04-06, inferred Dave Hansen — `high`
+  confidence):** cast to the **edge** of the school rather than into the
+  middle, then give the mackerel's tail a jerk as it hits the water — a
+  butt-hooked bait swims away from a tail jerk (see the hook-position
+  mechanism above), so the jerk sends it swimming straight toward the fish
+  instead of sitting still on the surface.
 
 ## SoCal offshore mackerel flyline rig — straight fluoro, San Diego jam (Dave Hansen)
 

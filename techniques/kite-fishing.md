@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [bluefin, kite, flying-fish, offshore]
-sources: [YsiHziY_PWw, cameron]
+tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE]
 confidence: high
 ---
 
@@ -41,6 +41,20 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
 - Lay the short leader out flat on the surface to bring the fish into gaff
   range at the swivel; a leader run too long stops the fish short of the gap.
 
+## Live mackerel as a kite bait — alternative to the flying-fish harness
+
+Your Saltwater Guide (`w5_x6kkN-xE`, 2021-04-06; presenter not named on
+camera, inferred as Capt. Dave Hansen from channel/crew-name continuity with
+his other logged videos — inferred attribution). dave-hansen is a registered
+voice; `high` confidence.
+
+- A **live mackerel, back/dorsal-hooked**, is a simpler, live-bait
+  alternative to the pre-rigged dead [flying fish](../rigging/flying-fish-harness.md)
+  for the same **100–300 lb bluefin** grade; this source also reports
+  yellowtail and calico bass eating a mackerel off the kite. Hook position,
+  the dapping mechanism, and the mackerel-selection notes are in
+  [fishing live bait](../bait/fishing-live-bait.md#mackerel-butt-hook-no-weight-vs-nose-hook-any-weight-vs-backdorsal-hook-kite-only).
+
 ## Wind window
 
 - The kite needs wind to stay aloft. Marginal, gusty, or dying wind makes the
@@ -74,6 +88,7 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Speed Trolling](speed-trolling.md)

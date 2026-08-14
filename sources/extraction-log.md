@@ -861,7 +861,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | fK2AT460xW4 | Your Saltwater Guide | tutorial | deep | done | rigging/essential-knots.md; rigging/rubber-band-deep-rig.md; species/yellowfin-tuna.md: Added Dave Hansen's inline torpedo-sinker/San Diego jam/circle-hook drop rig for yellowfin under dolphin pods, c |
 | HOYJ6TAMrg4 | Your Saltwater Guide | promo | skip:promo | skipped | PTO Fighting Grip product demo w/ marlin+sailfish action footage; sponsor-heavy; feeds dave-hansen registry |
 | 6DzbsElGE7E | Your Saltwater Guide | tutorial | deep | done | planning/electronics-and-sounder.md; planning/search-and-glassing.md; species/yellowtail.md: added brand-agnostic bottom-hardness read, pass-and-grade/sand-anchor method, and yellowtail hard-bottom-on |
-| w5_x6kkN-xE | Your Saltwater Guide | tutorial | deep | pending | Live mackerel fly-line rigging: butt-hook vs nose-hook vs kite back-hook and why each is used; SoCal |
+| w5_x6kkN-xE | Your Saltwater Guide | tutorial | deep | done | bait/fishing-live-bait.md; techniques/flyline.md; techniques/kite-fishing.md: Added mackerel hook-position doctrine (butt/nose/back by weight and kite use), bait-size/species-selectivity note, and fly |
 | _aimmQmzqz0 | Your Saltwater Guide | promo | skip:promo | skipped | PTO Fighting Grip product intro/specs/sizing; sponsor-heavy, same product as HOYJ6TAMrg4 |
 | OIqdmhKfuOc | Your Saltwater Guide | tutorial | deep | pending | Dropper-loop deploy procedure: drop straight down, index-on-spool/thumb-on-trigger bite detection |
 | KLoEJInlmZo | Your Saltwater Guide | tutorial | deep | pending | Surface iron mechanics: sideways-reel cast for distance, tip-down retrieve, reading the kick, line guide |

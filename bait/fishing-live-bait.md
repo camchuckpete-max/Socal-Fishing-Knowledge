@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE]
 confidence: medium
 ---
 
@@ -87,6 +87,56 @@ carries weight:
     little resistance/friction on the cast that helps punch it out against
     wind. (2) The hook then tends to lie flush alongside the bait's body as
     it swims rather than sticking out, so it's less visible to the fish.
+
+### Mackerel: butt hook (no weight) vs. nose hook (any weight) vs. back/dorsal hook (kite only)
+
+Your Saltwater Guide (`w5_x6kkN-xE`, 2021-04-06; presenter not named on camera,
+inferred as Capt. Dave Hansen from channel/crew-name continuity with his other
+logged videos — inferred attribution). dave-hansen is a registered voice and
+this corroborates his sardine/anchovy hook-placement doctrine above, so it
+reaches `high` confidence. **Region:** SoCal (San Clemente Island, Catalina,
+Coronado Islands), targeting yellowtail; the same rig also takes bluefin and
+yellowfin tuna on the foamers, and white seabass.
+
+Stated as a hard rule: only two positions get used on mackerel day to day —
+explicitly **not** the collar/gill hook used on anchovy above, and not the
+back hook except on the kite:
+
+- **Butt hook** — through the meat back near, but not through, the vent
+  (exact placement asr-uncertain — the audio garbles the anal-gland
+  reference, but the position is confirmed repeatedly elsewhere as "hooked
+  in the tail"/"hooked in the butt") — for **flylining with zero weight
+  only**. Mechanism given: pulling on a
+  butt-hooked bait doesn't register to the bait as an angler pulling it — it
+  reads as something biting its tail, so the bait bolts the opposite way,
+  down and away from the pull. Applied cast: throw the bait to the edge of a
+  visible school or foamer, then give the tail a jerk on the water — the
+  bait swims away from the jerk and straight toward the fish.
+- **Nose hook** — through the clear cartilage spot in front of the eyes —
+  becomes **mandatory the moment any weight is added** (dropper loop,
+  sliding sinker, rubber-core sinker). Reasoning: a butt-hooked bait under a
+  sinker gets dragged backward as the weight pulls it down, and a mackerel
+  swimming backward doesn't read as a natural, feeding-fish silhouette;
+  nose-hooked, the bait still kicks and swims head-first as it sinks.
+- **Back / dorsal hook** — right in front of the dorsal fin, a hard spot
+  that holds the hook well — reserved for a **live mackerel fished off a
+  kite** for big bluefin (also drew yellowtail and calico bass on the kite
+  per this source). Hooked here the bait sits flat on the surface and
+  flutters/"daps" each time it touches down, without the leader dragging
+  through the water where a leader-shy tuna can see it. This is a
+  simpler, live-bait alternative to the pre-rigged dead bait in
+  [flying fish harness](../rigging/flying-fish-harness.md); see
+  [kite fishing](../techniques/kite-fishing.md) for when to fly a bait at
+  all.
+
+**Bait size and species selectivity:** yellowtail have been seen eating
+mackerel up to **1.5 lb**, sometimes in groups of **five or six fish**
+attacking one mackerel at once — described as territorial behavior.
+Fishing live mackerel (rather than the smaller sardine or anchovy) at San
+Clemente Island, Catalina, or the Coronado Islands also **skews the catch
+toward yellowtail specifically**, screening out calico bass, barracuda, and
+bonito bycatch that a smaller bait draws — reach for mackerel when the goal
+is straight yellowtail and those species are unwanted.
 
 ### Shoulder hook and a bone-anchored butt hook, for a finicky tensioned bite (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, but this specific mechanism is a single mention; his other logged videos are still pending extraction, so it isn't yet repeated doctrine)
 
@@ -195,6 +245,7 @@ clips above.)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Making Bait](making-bait.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

@@ -62,5 +62,6 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 <!-- backlinks:end -->
