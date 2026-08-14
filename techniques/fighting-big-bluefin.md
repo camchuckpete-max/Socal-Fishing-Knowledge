@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8]
 confidence: medium
 ---
 
@@ -184,6 +184,19 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   grade across the boat ran **50–70 lb class**. Kept beside, not reconciled
   with, the boat-driven doctrine above — another hand-fought, region-labeled
   data point from the same East Cape series.
+- **Observed** (StokedOnFishing, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape,
+  Sea of Cortez, Baja California Sur — Hotel Buena Vista Beach Resort "fifth
+  annual Stoked On Fishing Fiesta"; unregistered channel — medium confidence,
+  asr-uncertain on some names/details): slack from a fish running toward the
+  boat was read as a lost fish. On one angler's (Rick's) hookup, the
+  fish ate the bait and then swam **toward** the boat rather than away,
+  producing slack that the crew initially read as a lost fish/pulled hook;
+  winding down confirmed the fish was still on. A separate, earlier pair of
+  bites on the same session (attributed on camera to an angler named Pat
+  McEntee) were lost outright — kept beside, not merged with, this "swimming
+  at the boat" data point. Another hand-fought, region-labeled data point from
+  the same East Cape series, distinct from the earlier-dated Fiesta-trip
+  entries above.
 
 ## The end-of-fight head-shake
 
@@ -364,6 +377,7 @@ under-gunned-for-the-grade situation.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

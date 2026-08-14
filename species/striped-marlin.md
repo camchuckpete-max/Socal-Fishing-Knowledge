@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8]
 confidence: medium
 ---
 
@@ -87,6 +87,25 @@ trip). Not evaluated elsewhere in this corpus for Baja marlin. See the
 [Magdalena Bay trolling entry](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin)
 for the full session (wind lay-up context, dead-bait rigging, wahoo lure).
 
+**Observed (Baja, East Cape, region label)** (StokedOnFishing, presenter
+Shay, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape, Sea of Cortez, Baja
+California Sur — Hotel Buena Vista Beach Resort "fifth annual Stoked On
+Fishing Fiesta"; unregistered channel — medium confidence, asr-uncertain): a
+marlin was released on camera ("we're about to release his first marlin
+under the trip" — species/exact grade not confirmed on camera). Earlier the
+same day the crew announced "we've already got five of them on board" —
+the presenter's first, "a couple" for one angler (Ryan), and "a few" for
+another (Rick) — framed on camera as their **first day** "starting off with
+a bang." Whether that five-count refers specifically to marlin or to the
+trip's broader tuna catch is not stated explicitly on camera; carried here
+as an uncertain marlin data point (release language and the episode's
+marlin billing point that way) rather than an asserted marlin tally. No
+technique, lure, or bait detail is given for these catches/releases. Distinct region
+from the SoCal fall doctrine above; corroborates the general pattern of heavy
+tuna-and-marlin action already logged for this East Cape/Fiesta operation in
+[yellowfin tuna](../species/yellowfin-tuna.md) and
+[fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+
 ## Gear summary (class terms)
 
 - **Trolling:** 60–100 lb trolling class pulling
@@ -124,6 +143,7 @@ for the full session (wind lay-up context, dead-bait rigging, wahoo lure).
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
@@ -136,5 +156,6 @@ for the full session (wind lay-up context, dead-bait rigging, wahoo lure).
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

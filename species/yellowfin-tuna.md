@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8]
 confidence: high
 ---
 
@@ -78,6 +78,18 @@ the bluefin nearby become more cooperative too.**
   yellowfin charging right up alongside the hull** in the frenzy — an
   on-the-water example of the chum-pulls-fish-to-the-surface effect above
   (6zYRI1ZQU3c).
+- **Observed (Baja, East Cape, region label)** (StokedOnFishing, presenter
+  Shay, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape, Sea of Cortez, Baja
+  California Sur — Hotel Buena Vista Beach Resort "fifth annual Stoked On
+  Fishing Fiesta"; unregistered channel — medium confidence): while
+  slow-trolling, the crew spotted surface boils and closed on them, then
+  watched a yellowfin estimated around **50 lb** launch **about 5 ft clear of
+  the water** chasing a flying fish — read on camera as feeding activity, not
+  a hooked fish jumping. The sighting prompted a cast of a topwater stickbait
+  at the activity; the tuna struck on the **second cast**, taking the lure
+  without the angler realizing right away that it had eaten — an on-the-water
+  instance of casting to visible surface activity, beside the
+  [foamer casting](../techniques/foamer-casting.md) situation row below.
 
 ## Situations → techniques
 
@@ -173,6 +185,22 @@ the bluefin nearby become more cooperative too.**
   the 30–40 mi run; no yellowfin were landed or sighted directly in this
   footage. Logged as a distance/scouting-tradeoff data point for the
   Ensenada offshore grounds, not a confirmed bite report.
+- **Observed (Baja, East Cape, region label)** (StokedOnFishing, presenter
+  Shay, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape, Sea of Cortez, Baja
+  California Sur — Hotel Buena Vista Beach Resort "fifth annual Stoked On
+  Fishing Fiesta"; unregistered channel — medium confidence): the boat opened
+  the day slow-trolling large live **scad mackerel** (called "cab macs" on
+  camera before being corrected to "scad mackerel"), with the crew later
+  describing strikes on these big baits as "vicious." Grade that session
+  ran from an estimated **15–20 lb** fish early in the morning up to fish
+  called **"forties, fifties" grade** later on — consistent with the wider
+  50–70 lb East Cape grade range already logged in this section's other
+  Fiesta-trip entries above. A **flat-fall jig** worked with an active
+  "ripping" retrieve, fished vertically off the side while the boat continued
+  its slow troll, also produced a hookup on the ~15–20 lb-class fish — a
+  second presentation worked alongside the trolled live bait in the same
+  drift. An on-camera line about a circle-hook requirement was too garbled to
+  extract with confidence and is not carried here.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -197,6 +225,7 @@ the bluefin nearby become more cooperative too.**
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
+- [Striped Marlin](striped-marlin.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
