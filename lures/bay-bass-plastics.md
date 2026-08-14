@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA]
 confidence: medium
 ---
 
@@ -41,6 +41,13 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
   aren't big and the finesse profile is the point.
 - **Colors:** natural bay-forage patterns (green pumpkin, morning dawn, motor oil,
   smelt/sardine, root beer). Match the light and the water; keep it subtle.
+- **Observed** (StokedOnFishing, 2012-04-17, San Diego Bay): during an early
+  stop of SWBA tournament pre-fishing (before the crew moved on to flip
+  docks elsewhere in the session), a bite in roughly 18–20 ft came on a
+  basic natural **shad-pattern** soft plastic ("basic color... just like a
+  little shad pattern"), worked either right on the drop or on a slow
+  wind-back near bottom; the crew also noted an anchovy smell in the water.
+  Multi-speaker, unregistered channel — medium confidence.
 
 ## How to fish it
 

@@ -940,7 +940,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | af51LVG_5SE | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Clear Lake winter bass fishing w/ LiveScope guide; out of region |
 | rI4P4PrOsPo | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Clear Lake bass/catfish/crappie trip; out of region |
 | SHFrJzWZP-g | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Legg Lake (LA) bass/bluegill/crappie tourney; freshwater excluded despite SoCal loc |
-| k4LCL9ALryA | StokedOnFishing | on-the-water | observations-only | pending | San Diego Bay spotted bay bass, SWBA pre-fish; dock-flip, ~18-20ft, shad-pattern color |
+| k4LCL9ALryA | StokedOnFishing | on-the-water | observations-only | done | lures/bay-bass-plastics.md; species/spotted-bay-bass.md; techniques/inshore-crankbaits.md: added 3 Observed blocks (18-20ft/shad-pattern depth-bait observation, 25+ fish crankbait day) after correctin |
 | wJl8SZhmaWg | StokedOnFishing | promo | skip:promo | skipped | SWBA tournament sizzle/testimonial reel, no instruction; promo |
 | EU_Dod4wfYw | StokedOnFishing | on-the-water | observations-only | pending | Santa Barbara Island calico bite w/ Benny Florentino; catch montage, garbled ASR, notes kelp |
 | AxLlx2Ug-rs | StokedOnFishing | on-the-water | parameter-skim | pending | Coastal Charters: fish hold tight to pilings, cast close; 7'2" med rod, Curado 200E7, 65lb braid |

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA]
 confidence: high
 ---
 
@@ -71,6 +71,13 @@ General method: [search & glassing](../planning/search-and-glassing.md).
   mooring cans, then on the back side where a channel came **up from ~13 ft to
   ~11–12 ft**. Typical working depth is **12–14 ft**, but a bite can come 4 ft
   under the boat — vary the retrieve depth to find them.
+- **Observed** (StokedOnFishing, 2012-04-17, San Diego Bay): at an early stop
+  during SWBA tournament pre-fishing (structure not specified in that
+  segment — the crew moved on and only started dock/piling flipping later
+  in the same session), bites came in water the crew called "pretty deep
+  here" — roughly **18–20 ft**, deeper than the 12–14 ft typical range
+  above; the take came bottom-bouncing, right as the bait dropped near
+  bottom. Multi-speaker, unregistered channel — medium confidence.
 - **Sign:** birds sitting on the riprap mark the current deviations
   ([bird reading](../conditions/bird-reading.md)); watch your line on the sink —
   the twitch/take-off is the bite before the rod feels it.
