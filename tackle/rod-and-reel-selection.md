@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4]
 confidence: medium
 ---
 
@@ -445,6 +445,37 @@ experienced sportboat captains and professional anglers, not a SoCal-specific
 rule. The forward hand position is also what makes the hand-pull drag re-test
 above practical mid-fight — the line-guiding hand is already positioned to
 grab and pull the line.
+
+### Ready position on the drop — index-on-spool, thumb-on-trigger (Your Saltwater Guide, F0g5r9Rkrd4, 2022-02-14; presenter-inferred as Dave Hansen, the channel host narrating over deckhand footage — no diarization, attribution inferred; dave-hansen registered, but this specific claim is a first commit, not yet repeated — `medium` confidence)
+
+A companion hand-position habit to the fight-time grip above, for the moment
+**before** you're hooked up — dropping bait to the bottom and staying ready
+for the bite:
+
+- **Grip while free-spooling down:** **index finger resting on the spool**
+  (controlling/feeling the line pay out), **thumb on the reel's trigger/bar**
+  (the lever that snaps the reel back into gear) — not the "backwards,
+  sideways, and upside down" grips (thumb pinning the spool, other hand
+  planted behind the reel) the source calls out as the common mistake.
+- **On the drop, stay in that grip the whole way down** so the instant the
+  sinker/bait hits bottom you can **snap straight into gear** — hand already
+  wrapped around the reel, thumb on the trigger, ready the moment it lands
+  rather than fumbling for the lever after you feel bottom.
+- **Wind to the bite:** once in gear, keep winding (taking up any slack /
+  working the presentation) rather than sitting slack-lined waiting.
+- **Wind-hookset, not a big swing:** on the bite, **turn the handle to wind
+  the fish on** rather than swinging hard for the hookset — "that's the key
+  to setting the hook." A couple of additional hook-sets can follow once
+  you're already winding tight, but the winding is what actually pins the
+  hook, not the swing.
+- **Cycle back to free spool between drops:** back into free spool, back down
+  to the bottom, snap into gear the instant it hits, hand back on the handle
+  — repeat. Demonstrated on a sinker-rig/bait-to-bottom presentation, not
+  casting or jigging.
+- **Framed as regional practice, not a universal rule:** stated explicitly as
+  how **conventional-reel** anglers fish bait on the West Coast/SoCal
+  sportboat fleet, contrasted with East Coast anglers who are "all spinning
+  reels" — "doesn't mean we're right, doesn't mean you're wrong."
 
 ## Resolving a class to a real rod
 

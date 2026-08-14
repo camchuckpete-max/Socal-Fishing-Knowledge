@@ -820,7 +820,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | FxgLol_IHa0 | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md: added anchor-lay-per-current-read bullet to existing Baja/Mag Bay mangrove structure-casting section (same Lopez Mateos trip as -5kooyIyavs), corroborating crew/location; soften |
 | YVHdDbkQrKk | Your Saltwater Guide | tutorial | skip:duplicate-of-w5_x6kkN-xE | skipped | sweep sim 0.922, re-upload of 2021-04 live-bait video |
 | JJClvPhKIdo | Your Saltwater Guide | promo | skip:promo | skipped | Promar sabiki stick-rod product demo, no technique content |
-| F0g5r9Rkrd4 | Your Saltwater Guide | tutorial | parameter-skim | pending | Rod-hold hand position (index on spool/thumb trigger), free-spool-to-bottom, wind-hookset |
+| F0g5r9Rkrd4 | Your Saltwater Guide | tutorial | parameter-skim | done | tackle/rod-and-reel-selection.md: added ready-position/index-on-spool/thumb-trigger/free-spool-to-bottom/wind-hookset section, attributed Dave Hansen, medium confidence |
 | RXNebDr4j7s | Your Saltwater Guide | on-the-water | parameter-skim | pending | Kelp-bed technique: chum then anchor upcurrent to drift chum to boat; mostly catch footage |
 | fri_BWI-VA0 | Your Saltwater Guide | tutorial | deep | pending | Moon-phase doctrine: 7-days pre/post full moon, night travel behavior, lobster no-moon timing |
 | U-dGRQ0X-Mc | Your Saltwater Guide | tutorial | parameter-skim | pending | San Clemente Island rockfish: slow steady wind, no jerk/pump, avoids pulling hook out |
