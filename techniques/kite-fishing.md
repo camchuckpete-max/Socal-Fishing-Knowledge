@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8]
 confidence: high
 ---
 
@@ -54,6 +54,46 @@ voice; `high` confidence.
   yellowtail and calico bass eating a mackerel off the kite. Hook position,
   the dapping mechanism, and the mackerel-selection notes are in
   [fishing live bait](../bait/fishing-live-bait.md#mackerel-butt-hook-no-weight-vs-nose-hook-any-weight-vs-backdorsal-hook-kite-only).
+
+## Trolled rubber flyer vs. dead-boat dead flyer (a wind-driven choice)
+
+Your Saltwater Guide (`2y0VznL2qk8`, 2020-12-29; presenter not named on
+camera, inferred as Capt. Dave Hansen from channel/crew-name continuity with
+his other logged videos — inferred attribution; dave-hansen is a registered
+voice, `high` confidence).
+
+- **~8 kt of wind or more — troll a rubber flyer.** A durable rubber
+  flying-fish lure (branded the "Yummy Flyer") gets **dragged/trolled at
+  about 8.5 kt** under the kite instead of sat dead-boat. Trolling covers
+  more area while searching, and it converts a bite into a hookup at a
+  **better ratio** than dead-boat fishing does (source states the outcome,
+  not the mechanism). Once trolling produces a school, mark
+  it on the GPS and keep working that spot with the rubber flyer.
+- **Under ~8 kt of wind, with fish already located** (surface sign, or heavy
+  marks on the fish finder) **— go dead-boat with a dead flyer instead.**
+  Stop trolling, deploy (typically **two**) dead flying fish under the kite
+  **or a balloon** (source does not describe the balloon's mechanism relative
+  to the helium kite-lift assist below — not assumed to be the same or
+  different) and drift them like float/bobber fishing. Never deploy a
+  dead flyer speculatively with no fish around; it's fished over confirmed
+  sign, not blind water.
+- **Deploying the dead flyer:** drive the boat forward a little to open
+  distance between the boat and the bait, then lower the flyer slowly onto
+  the surface. Keep it **dapping** — constantly in contact with the water,
+  bouncing with the swell, never fully submerged and never airborne clear of
+  the surface — and watch it continuously through binoculars for the strike.
+- **Hookset on a dead-boat bite:** the take shows as a surface explosion on
+  the flyer. Put the boat in gear and drive **forward gently — about 4–5 kt,
+  not a hard throttle** — to keep the rod bent and constant pressure on the
+  fish as it takes off, driving the hook home without shock-loading it.
+
+**Kept side by side with the Mad Mac speed-troll numbers, not reconciled:**
+this is a different lure (rubber flyer vs. Mad Mac), a different troll speed
+(8.5 kt vs. 13–15 kt), and the same ~8 kt wind mark works in the opposite
+direction — here it's the trigger *to* troll under the kite, while in
+[bluefin trolling](../species/bluefin-trolling.md) it's (inversely) the
+trigger to speed-troll once the kite won't fly. See
+[bluefin trolling](../species/bluefin-trolling.md) for both frameworks.
 
 ## Wind window
 

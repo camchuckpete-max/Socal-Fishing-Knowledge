@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8]
 confidence: medium
 ---
 
@@ -52,6 +52,20 @@ naturally across the surface and holds up through repeated deployments.
   action; too light a leader risks a bite-off on this grade of fish. Rig 10 to
   12 flyers for a four-angler day and store them neatly in the cooler so they are
   ready to deploy.
+
+## Artificial alternative — durable rubber flyer for trolling
+
+Your Saltwater Guide (`2y0VznL2qk8`, 2020-12-29; presenter not named on
+camera, inferred as Capt. Dave Hansen from channel/crew-name continuity —
+inferred attribution; dave-hansen is a registered voice, `high` confidence).
+
+- A pre-made rubber/artificial flying-fish lure (branded the "Yummy Flyer")
+  skips the harness rig above entirely and is instead **trolled at roughly
+  8.5 kt** under the kite. Reach for this rubber version specifically when
+  trolling under the kite to search (wind ~8 kt or more); the dead natural,
+  harnessed flyer above is for the dead-boat, drift-fished presentation over
+  fish that are already located. Full wind-based decision logic between the
+  two: [kite fishing](../techniques/kite-fishing.md#trolled-rubber-flyer-vs-dead-boat-dead-flyer-a-wind-driven-choice).
 
 ## Rig it
 

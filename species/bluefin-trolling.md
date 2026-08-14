@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8]
 confidence: high
 ---
 
@@ -101,6 +101,23 @@ stay over fish), and the calm-day school-grade spread does the rest.
     setups plus sometimes the Trinidad 40; the TLD 20 is entering rotation for
     **diver duty (Halcos, Husky Magnums) plus skirt/cedar-plug work on
     school-grade days**; never plans to troll the Lexa 400.
+- **Doctrine (high — Capt. Dave Hansen, Your Saltwater Guide, `2y0VznL2qk8`,
+  2020-12-29; presenter not named on camera, inferred from channel/crew
+  continuity):** a second, flyer-specific wind rule for the kite spread
+  itself — **troll a rubber flyer ("Yummy Flyer") at ~8.5 kt in ~8 kt of wind
+  or more** to cover water and locate schools (a trolled bait converts a bite
+  to a hookup at a better ratio than sitting dead-boat); **under ~8 kt, with
+  fish already spotted or marked heavy on the sounder, go dead-boat with a
+  dead flyer under the kite or a balloon** instead, dapped on the surface and
+  hooked up by driving the boat gently forward (~4–5 kt) into the strike.
+  Full mechanics in
+  [kite fishing](../techniques/kite-fishing.md#trolled-rubber-flyer-vs-dead-boat-dead-flyer-a-wind-driven-choice).
+  **Not reconciled with the Mad Mac speed-troll row above:** different lure
+  (rubber flyer vs. Mad Mac), different speed (8.5 kt vs. 13–15 kt), and the
+  same ~8 kt wind mark runs in the opposite direction (here it triggers
+  trolling *under the kite*; the Mad Mac row's ~8 kt triggers speed-trolling
+  *once the kite won't fly*) — kept side by side as a second framework, not a
+  correction.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental
