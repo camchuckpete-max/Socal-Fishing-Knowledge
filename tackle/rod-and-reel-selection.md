@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc]
 confidence: medium
 ---
 
@@ -446,7 +446,7 @@ rule. The forward hand position is also what makes the hand-pull drag re-test
 above practical mid-fight — the line-guiding hand is already positioned to
 grab and pull the line.
 
-### Ready position on the drop — index-on-spool, thumb-on-trigger (Your Saltwater Guide, F0g5r9Rkrd4, 2022-02-14; presenter-inferred as Dave Hansen, the channel host narrating over deckhand footage — no diarization, attribution inferred; dave-hansen registered, but this specific claim is a first commit, not yet repeated — `medium` confidence)
+### Ready position on the drop — index-on-spool, thumb-on-trigger (Your Saltwater Guide, F0g5r9Rkrd4, 2022-02-14; presenter-inferred as Dave Hansen, the channel host narrating over deckhand footage — no diarization, attribution inferred; dave-hansen registered — `high` confidence for the grip itself: a second Your Saltwater Guide video, the dropper-loop deploy walkthrough in [dropper loop](../techniques/dropper-loop.md) (OIqdmhKfuOc, 2021-03-30), repeats the same index-on-spool/thumb-on-trigger, left-hand-forward grip)
 
 A companion hand-position habit to the fight-time grip above, for the moment
 **before** you're hooked up — dropping bait to the bottom and staying ready

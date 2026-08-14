@@ -863,7 +863,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 6DzbsElGE7E | Your Saltwater Guide | tutorial | deep | done | planning/electronics-and-sounder.md; planning/search-and-glassing.md; species/yellowtail.md: added brand-agnostic bottom-hardness read, pass-and-grade/sand-anchor method, and yellowtail hard-bottom-on |
 | w5_x6kkN-xE | Your Saltwater Guide | tutorial | deep | done | bait/fishing-live-bait.md; techniques/flyline.md; techniques/kite-fishing.md: Added mackerel hook-position doctrine (butt/nose/back by weight and kite use), bait-size/species-selectivity note, and fly |
 | _aimmQmzqz0 | Your Saltwater Guide | promo | skip:promo | skipped | PTO Fighting Grip product intro/specs/sizing; sponsor-heavy, same product as HOYJ6TAMrg4 |
-| OIqdmhKfuOc | Your Saltwater Guide | tutorial | deep | pending | Dropper-loop deploy procedure: drop straight down, index-on-spool/thumb-on-trigger bite detection |
+| OIqdmhKfuOc | Your Saltwater Guide | tutorial | deep | done | techniques/dropper-loop.md; tackle/rod-and-reel-selection.md: Added dropper-loop deploy procedure (drop-not-cast, nose-hook, index/thumb grip, bottom detection, bite read, two-crank lift-set, tail-cli |
 | KLoEJInlmZo | Your Saltwater Guide | tutorial | deep | pending | Surface iron mechanics: sideways-reel cast for distance, tip-down retrieve, reading the kick, line guide |
 | wzI0lpgKT1U | Your Saltwater Guide | tutorial | deep | pending | Yo-yo iron cadence: cast, sink to bottom, 10-crank increments, repeat; SoCal yellowtail |
 | kr-DZP7OVmg | Your Saltwater Guide | tutorial | skip:duplicate-of-4xzK7YaXK5s | skipped | same recording as BD id already extracted in batch 1 (sweep sim 0.814) |

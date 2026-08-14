@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc]
 confidence: high
 ---
 
@@ -48,6 +48,54 @@ Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a
 swivel, leader below to the hook** — that's the [sliding-sinker](sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar)
 rig format, not a dropper loop (hook above a fixed-position sinker); it does
 **not** confirm which format the reference-weight entry above used.
+
+## Deploying it — drop, detect bottom, read the bite (Your Saltwater Guide)
+
+The name is the instruction: **drop it straight down over the side, never cast
+it out.** The dropper loop is fished on marks the sounder is showing directly
+under the boat — casting it away from the boat carries the bait off the fish
+(presenter inferred as Capt. Dave Hansen — the channel's consistent voice per
+the source registry, not named on-camera in this video — Your Saltwater Guide,
+OIqdmhKfuOc, 2021-03-30).
+
+- **Bait:** a live mackerel, nose-hooked side to side through the nostrils —
+  the standard nose-hook placement already covered in
+  [fishing live bait](../bait/fishing-live-bait.md), reconfirmed here for the
+  dropper loop specifically.
+- **Hand position on the drop:** index finger on the spool, thumb on the
+  trigger, left hand always in front of the reel — the same position the Dave
+  Hansen rock-cod gangion build below uses. This also corroborates the
+  index-on-spool/thumb-on-trigger ready position already logged from a
+  different Your Saltwater Guide video in
+  [rod & reel selection](../tackle/rod-and-reel-selection.md) (F0g5r9Rkrd4) —
+  same grip, but that note's hookset is **wind-only, no swing**, while this
+  video calls for an active two-crank-and-lift set (see Hookset below); the
+  grip repeats, the hookset does not — kept side by side rather than
+  reconciled. Holding the rod any other way means missing bites that come on
+  the drop.
+- **Detecting bottom:** the line stops paying out once the sinker reaches
+  bottom — confirmed by slack forming out at the rod tip. Take a **half crank
+  up off the bottom**, then put the reel in gear. Keep re-checking through the
+  soak that the mackerel is still riding on bottom (re-drop and re-detect the
+  same way) rather than swimming the weight up in the column.
+- **Reading the tip:** a steady light **tap-tap-tap** is the live mackerel
+  swimming on the loop. The tip pulling down and staying down under a
+  **steady pull** is the bite.
+- **Hookset:** on the pull-down, take **two cranks and lift up hard** to drive
+  the hook out of the mackerel and into the fish's mouth, then keep winding
+  until the fish is up. Hook style isn't stated on camera, but a hard,
+  driven lift-set like this reads as a **J-hook** technique (a circle hook is
+  meant to self-set on the wind, not get horsed) — contrast the circle-hook
+  "don't set, just wind" instruction in the Dave Hansen quick gangion below
+  and the "no jerking, no pumping — slow, steady wind" retrieve logged in
+  *Fishing it* below (U-dGRQ0X-Mc): three different hook/rig combinations on
+  the same rig family, kept side by side rather than reconciled to one
+  retrieve.
+- **When the mackerel is too strong for the sinker** and keeps dragging the
+  weight off bottom, clip a portion of its tail fin (top or bottom lobe) with
+  line clippers. It doesn't kill the bait — it still swims and kicks — but it
+  can no longer drag the weight around, so it stays pinned on the bottom
+  (Your Saltwater Guide, OIqdmhKfuOc, 2021-03-30).
 
 ## Single vs. double dropper (Duane Diego Malloy)
 
