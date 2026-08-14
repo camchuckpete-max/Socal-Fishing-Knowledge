@@ -20,6 +20,12 @@ fish sit is the router; this note owns the rig and how you feed the bite.
   deck — [California halibut](../species/california-halibut.md) is the headline
   target; also [white seabass](../species/white-seabass.md) and
   [yellowtail](../species/yellowtail.md) on the drift or the anchor.
+- **Sheephead and other structure/artificial-reef fish over a chum line** — a
+  light **1/4–1/2 oz slider** (never heavier), bait suspended off bottom rather
+  than laid on it, since sheephead feed with a forward-facing mouth and a
+  bottomed bait draws rays and sharks instead (Dave Hansen, Your Saltwater
+  Guide, OSbAHdB4uPs, 2021-01-12). See
+  [species/sheephead.md](../species/sheephead.md).
 - The fish are **wary** and drop a bait the instant they feel weight — the
   free-sliding lead removes that tell.
 - You are **drifting bait** and want the presentation pinned near bottom while
@@ -128,6 +134,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Sheephead](../species/sheephead.md)
 - [Dropper Loop](dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

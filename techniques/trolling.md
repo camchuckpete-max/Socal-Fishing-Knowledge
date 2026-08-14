@@ -159,6 +159,7 @@ an incidental catch on the same gear, logged in
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [August](../seasonal/august.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
+- [California Barracuda](../species/barracuda.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
@@ -176,6 +177,7 @@ an incidental catch on the same gear, logged in
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Water Color](../conditions/water-color.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

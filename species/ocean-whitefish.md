@@ -84,6 +84,7 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 <!-- backlinks:start -->
 ## Linked from
 
+- [California Sheephead](sheephead.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

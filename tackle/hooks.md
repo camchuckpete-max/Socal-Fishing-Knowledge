@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs]
 confidence: medium
 ---
 
@@ -219,6 +219,36 @@ live bait — prep and hook **cut squid strips** rather than a chunk:
   unspecified) or a small lead head; the strip presentation matters more than
   the specific hook chosen.
 
+### Sheephead — hook, weight, and bait (Dave Hansen, Your Saltwater Guide, OSbAHdB4uPs, 2021-01-12; registered voice, repeated across two Your Saltwater Guide sheephead/structure videos — corroborates the size-2/size-4 figure above from yKaHcxX46l4 — `high` confidence on the size call)
+
+A dedicated sheephead-tips video makes the hook/weight/bait call definitive
+where the squid-strip entry above left it open ("any hook works"). See
+[species/sheephead.md](../species/sheephead.md) for the full router.
+
+- **Hook: No. 2 or No. 4, thin-wire, bronze or black finish — never chrome**
+  ("give the chrome hooks to your buddies"; this source doesn't mention nickel
+  specifically, only chrome). This corroborates, for a third species
+  (bluefin, calico bass, now sheephead), the general bronze/black-over-
+  nickel/chrome stealth doctrine logged under **Finish**, above (IMnoZVEYpm4).
+- **Weight: a small slider weight, 1/4 to 1/2 oz — never heavier than 1/2
+  oz.** Enough to get the bait down without it "flying by," but light enough
+  to keep it off bottom.
+- **Why suspended, not on bottom:** a sheephead's mouth sits at the front of
+  its face, not underneath, so a bait laid on the bottom instead draws
+  shovelnose sharks, bat rays, smoothhound ("pin back") sharks, and leopard
+  sharks. This is the same mouth-position reasoning already logged for white
+  seabass under **Live squid for white seabass**, above, independently
+  restated here for sheephead.
+- **Bait, ranked:** **pismo clam** is named the top-shelf sheephead bait ("if
+  you got some extra cash, pismo clams are always the go-to bait for big
+  sheephead"), with **mussel** and **squid** as the everyday options. Cut all
+  three into strips, not chunks or a big wad — consistent with the
+  squid-strip prep logged above. Mussel specifically is called out as better
+  suited to a **treble hook** "because it's just a big wad of slime"; no
+  rigging detail beyond that is given in this transcript — the source
+  references a dedicated follow-up video on the mussel/treble-hook method
+  that isn't part of this transcript.
+
 ### SoCal yellowtail/offshore baseline rotation (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence)
 
 The channel's earliest hook data point in this corpus, read as a general
@@ -294,6 +324,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Sheephead](../species/sheephead.md)
 - [Chunking](../techniques/chunking.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

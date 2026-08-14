@@ -85,6 +85,7 @@ many *drops*.
 - [Bight Geography](bight-geography.md)
 - [BightSST Eval Targets](bightsst-eval-targets.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [California Sheephead](../species/sheephead.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Island Structure](island-structure.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
