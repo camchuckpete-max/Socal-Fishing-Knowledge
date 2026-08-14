@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs]
 confidence: high
 ---
 
@@ -180,6 +180,31 @@ typical-year mapping.
   hook-position switch to defeat pinniped depredation (seals, per this
   transcript) on this chum-line bite is logged in
   [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation).
+  **Observed** (StokedOnFishing, 2015-01-18, San Clemente Island, SoCal —
+  `D_Y2G0rBZCs`, "San Clemente Island Yellowtail," aboard the Thunderbird;
+  unregistered channel — medium confidence): live squid produced a mixed-grade
+  bite — a smaller, better-numbers grade (called **12 to 15 lb**) up toward
+  the front of the boat, contrasted on camera with bigger fish worked
+  elsewhere on the trip (captions render this grade "340 Pounders," almost
+  certainly a mis-transcription of **30–40 lb**, asr-uncertain). The
+  front-of-boat go-to line was **25 lb**; a separate angler elsewhere on the
+  rail confirmed **20 lb** on his own outfit (captions render this "20 lb
+  floor," possibly "20 lb fluoro"/fluorocarbon — asr-uncertain), consistent
+  with a **20–25 lb** line-class window for the trip. One angler's bite was
+  described as coming on a **sliding egg sinker** rig with a **dropper
+  loop** — captions run the two rig terms together in one breath, so whether
+  this describes a single hybrid rig or two separate setups being fished on
+  the boat isn't established (asr-uncertain); see
+  [sliding sinker](../techniques/sliding-sinker.md) and
+  [dropper loop](../techniques/dropper-loop.md) for the two rig formats this
+  could be. Between bites, the crew's coaching to a newer angler was to keep
+  working the bait rather than let it sit idle — wind in and cast back out,
+  keep a bait presented since the yellowtail are moving through — a further
+  data point for the keep-it-active doctrine in
+  [fishing live bait](../bait/fishing-live-bait.md#bait-selection-is-king).
+  The trip's tally was roughly **16–17 yellowtail** landed on squid, plus one
+  on [surface iron](../techniques/surface-iron.md) and another on the
+  [yo-yo iron](../techniques/yo-yo-iron.md).
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
   pulls them in as well (10/26/22). Surface iron along the kelp edge is the

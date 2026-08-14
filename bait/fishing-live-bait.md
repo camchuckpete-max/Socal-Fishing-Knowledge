@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs]
 confidence: medium
 ---
 
@@ -216,6 +216,13 @@ when to reach for each position by water column.
   enough at a one-a-minute cadence that the boat runs out of bait on many
   days — the reason for running as big a [bait tank](bait-tanks.md) as the
   boat will carry.
+- **Further corroboration** (StokedOnFishing, 2015-01-18, San Clemente
+  Island, SoCal — `D_Y2G0rBZCs`, "San Clemente Island Yellowtail," aboard the
+  Thunderbird; unregistered channel — medium confidence): the crew's
+  between-bite advice to a newer angler was the same keep-it-active idea in
+  different words — wind in and cast back out rather than let the bait sit
+  idle, since [yellowtail](../species/yellowtail.md) are moving through and a
+  bait has to stay presented, not parked, to get bit.
 
 ## From tank to hook without killing the bait (Capt. Dave Hansen, Your Saltwater Guide, 6ueGWJek1gI, 2018-08-16)
 
