@@ -32,3 +32,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T01:36:35Z — ty8FtA3Y2bA — evaluator-escalate
 - run: 31760905119
 - reason: Cameron should review the 10-inch minimum-size claim in fish-care/sculpin-handling.md — it's a regulatory claim (CDFW size limit) sourced from a 2022-04-16 video and needs a current-regs check before the KB relies on it
+
+## 2026-08-14T03:38:24Z — ftEvyfwjZFU — guard-violation
+- run: 31764068183
+- reason: commit ed1860a45250808c003b3e9cb9a6561ac66092cf reverted: protected path touched: sources/source-registry.md
