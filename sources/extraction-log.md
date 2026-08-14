@@ -1095,7 +1095,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | oXunQKSbc2g | StokedOnFishing | on-the-water | observations-only | done | species/bonito.md; species/yellowtail.md — Cortez Bank El Dorado 2-day trip (Oct 2019): yellowtail-first/tuna-conditional/Cortez-fallback plan off peer intel, yo-yo+surface iron yellowtail, giant boni |
 | pu9zIm-Tsus | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Title misleads but content is Costa Rica trip w/ Craig Sutton |
 | fxZGXrrpHz4 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica marlin/sailfish/tuna/dorado trip, Nosara area |
-| IxhdiX3oEEs | StokedOnFishing | on-the-water | observations-only | pending | SoCal bluefin catch-clean-cook, 184lb fish fight tips + sushi prep; fish-care angle |
+| IxhdiX3oEEs | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; techniques/fighting-big-bluefin.md / added SoCal 184lb/65in bluefin catch as Observed entry in species router + teammate hand-off Observed entry beside East Cape hand-off doct |
 | kS8eC_5y4oo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica double sailfish, release/handling footage |
 | 9jDy4gUUyJk | StokedOnFishing | on-the-water | single-pull | pending | Drone spots fish holding under kelp paddies (technique); dorado catch; region unstated, treated in-scope |
 | 1nK7vSPl2sg | StokedOnFishing | on-the-water | observations-only | pending | La Ventana Baja (East Cape/Sea of Cortez); amberjack, high spot 200->80ft, 30lb fluoro/circle hook |

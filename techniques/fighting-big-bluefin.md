@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs]
 confidence: medium
 ---
 
@@ -207,6 +207,19 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   grade across the boat ran **50–70 lb class**. Kept beside, not reconciled
   with, the boat-driven doctrine above — another hand-fought, region-labeled
   data point from the same East Cape series.
+- **Observed** (StokedOnFishing, presenter Shay, `IxhdiX3oEEs`, 2019-11-13
+  upload, SoCal (exact zone not named on camera); unregistered channel —
+  medium confidence): a SoCal instance of the same teammate hand-off
+  practice, live rather than just coached — mid-fight on a **184 lb**
+  bluefin (fight put at almost two hours, starting around 6:15), the
+  angler was told **"if you get tired let Andy take over for a minute
+  just so we can finish him off, because if we don't finish him off it's
+  gonna be too hard"** and handed the rod off for a stretch before
+  finishing the fish. No boat-driving, drag, or line-class detail is
+  given. Kept beside, not merged into, the East Cape hand-off entry above
+  — same practice, different region/trip. See
+  [bluefin tuna](../species/bluefin-tuna.md#where--when) for the catch
+  record.
 - **Observed** (StokedOnFishing, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape,
   Sea of Cortez, Baja California Sur — Hotel Buena Vista Beach Resort "fifth
   annual Stoked On Fishing Fiesta"; unregistered channel — medium confidence,
