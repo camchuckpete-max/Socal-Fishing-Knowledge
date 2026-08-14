@@ -886,7 +886,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 6zYRI1ZQU3c | Your Saltwater Guide | on-the-water | observations-only | done | species/yellowfin-tuna.md / added dated Observed block (chum-triggered free-swimmer frenzy at boat, San Diego) under yellowfin sonar-signature/chum-rise doctrine |
 | pX6mV3O0L_E | Your Saltwater Guide | on-the-water | observations-only | done | species/dorado.md / added Observed block (dead-ballyhoo troll, multiple dorado hookups, Cabo San Lucas Nov 2019) |
 | HeMNAw6MDVE | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Cabo marina walkthrough: restaurants/hotels/beach tourism, only trivial fishing-license mention; not fishing content |
-| qv0QbLgp72o | Your Saltwater Guide | on-the-water | single-pull | pending | Smaller bait raises prey-density reaction/bite rate on tuna+calico; overlaps zwNEhWtnBCE, subscribe-pitch framing |
+| qv0QbLgp72o | Your Saltwater Guide | on-the-water | single-pull | done | techniques/chunking.md / added bait-size/prey-density reaction-bite nuance (tuna+calico, medium confidence) to prey-density mechanism section |
 | CLkO0QUwb_c | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic kids-fishing advice (calm day, small bait, dont go offshore); one Dana Point red-buoy mackerel mention |
 | YQsbwfQ4wzY | Your Saltwater Guide | tutorial | parameter-skim | pending | Hoop-net lobster bait: fresh bait beats old, DIY PVC bait-tube (2in x18in) evades sea lions, Catalina 20-30ft, LB/SD post-rain timing |
 | mdhoEQPqpng | Your Saltwater Guide | on-the-water | single-pull | pending | Yellowtail catch footage; real technique: free-spool slack to fool sea lion into releasing hooked fish, then wind fast |

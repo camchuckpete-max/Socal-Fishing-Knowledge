@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o]
 confidence: high
 ---
 
@@ -107,6 +107,15 @@ framing and the extended catch list below are this video's own addition
   [bait tank](../bait/bait-tanks.md) and a fast bait-changing cadence (see
   [fishing live bait](../bait/fishing-live-bait.md)) — density comes from
   chum, changed baits, and hooked fish all going into the water together.
+- **Bait size drives the density, not just chum volume (Dave Hansen, Your
+  Saltwater Guide, qv0QbLgp72o, 2019-12-23; registered voice, on-the-water
+  narration — medium confidence; earlier articulation of the mechanism
+  above):** smaller bait thrown as chum raises the prey-density level higher
+  than the same volume of big bait would, and it's that density spike causing
+  a **reaction bite** — demonstrated back to back on yellowfin tuna working a
+  chum slick and on calico bass working a piece of bait around a kelp string.
+  Hansen still fishes big bait on the hook itself; it's the traveled/thrown
+  chum bait he sizes small specifically to maximize density.
 
 ## Light-line finesse rig — pressured, shallow reef fish (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; registered voice, single mention — medium confidence)
 
