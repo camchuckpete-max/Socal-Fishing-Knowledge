@@ -16,7 +16,11 @@ motions watch the linked videos rather than reading a play-by-play here.
 
 ## 1. Boat the fish cleanly (the gaff shot)
 
-Getting the fish aboard without tearing it up is the first care step. See the
+Getting the fish aboard without tearing it up is the first care step, and
+starts before the gaff shot itself — how the boat is worked during the fight
+(gear-tap toward the boat, down-swell walk, avoiding the death circle) sets up
+a controlled gaff instead of a rushed one; see
+[fighting a big bluefin](../techniques/fighting-big-bluefin.md). See the
 walkthrough for gaffing a bluefin from a boat:
 [how to gaff a bluefin from a boat](https://www.youtube.com/watch?v=w6DDCSLu8vM).
 
@@ -89,6 +93,7 @@ mass. Hold it in the cold at least this long before you consider it done:
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Gaffing — Sizing and the Shot](gaffing.md)
 - [Ikejime (Iki-Jime)](ikejime.md)
 <!-- backlinks:end -->

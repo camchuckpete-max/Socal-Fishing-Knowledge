@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [gaffing, boating-the-fish, tackle, safety, bluefin, yellowtail, dorado, halibut, white-seabass]
-sources: [I84uoay_jwQ]
+sources: [I84uoay_jwQ, 8jC61LzQoxU]
 confidence: low
 ---
 
@@ -39,6 +39,17 @@ construction claims are promotional and omitted entirely), 2022-03-14
   [tuna care](tuna-care.md) doctrine (aim at the head/shoulder region, not
   mid-body or tail, w6DDCSLu8vM) rather than a restatement of it — kept side
   by side per a second attributed source rather than merged.
+- **Independent confirmation (Your Saltwater Guide / Capt. Dave Hansen,
+  2018-08-07, 8jC61LzQoxU):** the same pec-shot / flip-upside-down doctrine,
+  including "don't gaff the back or side, he'll rip it out of your hand,"
+  repeats in a separate, non-sponsored fight-and-gaff tutorial — not a
+  re-cut of the Promar spot. This is a second, non-sponsored occasion of the
+  same voice giving the same doctrine, recorded here as corroboration; per
+  this note's stated no-carve-out stance on Hansen's sponsored content
+  (above), it does not upgrade any claim past the note's overall `low`
+  confidence — the registry's `medium` floor for a registered voice's
+  single non-sponsored mention still applies, and `low` is the more
+  conservative call the note already makes.
 
 ## No-dig-hole — hook orientation on the shot
 
@@ -74,6 +85,9 @@ construction claims are promotional and omitted entirely), 2022-03-14
   only the gaff shot itself, in more detail than tuna care's summary.
 - [California halibut](../species/california-halibut.md) — fighting a
   halibut to the gaff.
+- [Fighting a big bluefin](../techniques/fighting-big-bluefin.md) — the
+  boat-handling that brings a big bluefin to the gaff in the first place
+  (gear-tap, down-swell walk, avoiding the death circle).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -82,6 +96,8 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [California Halibut](../species/california-halibut.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
+- [Source Registry](../sources/source-registry.md)
 - [Tuna Care](tuna-care.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)

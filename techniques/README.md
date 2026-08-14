@@ -9,6 +9,7 @@
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
 - [Dropper Loop](dropper-loop.md) — Execution for the classic dropper-loop rig: a loop knot tied into the leader holds the hook above a sinker that rides on the bottom, so the bait wafts in the cu
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md) — Execution for landing a hooked big bluefin (100–300 lb class) once it's on: the boat, not the angler's arms, does the work of bringing the fish in.
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
 - [Hoop Netting](hoop-netting.md) — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
@@ -37,44 +38,45 @@ graph LR
   n2["Deep-Drop Swordfishing (daytime)"]
   n3["Drop Shot"]
   n4["Dropper Loop"]
-  n5["Flyline"]
-  n6["Foamer Casting"]
-  n7["Hoop Netting"]
-  n8["Inshore Crankbaits"]
-  n9["Kite Fishing"]
-  n10["Knife / Speed Jigging"]
-  n11["Ned Rig"]
-  n12["Rockfish Deep-Dropping"]
-  n13["Sliding Sinker"]
-  n14["Slow-Pitch Jigging (SPJ)"]
-  n15["Speed Trolling"]
-  n16["Surface Iron"]
-  n17["Swimbaits"]
-  n18["Trolling"]
-  n19["Yo-Yo Iron"]
-  n10 --> n14
+  n5["Fighting a Big Bluefin — Boat-Handling to the Gaff"]
+  n6["Flyline"]
+  n7["Foamer Casting"]
+  n8["Hoop Netting"]
+  n9["Inshore Crankbaits"]
+  n10["Kite Fishing"]
+  n11["Knife / Speed Jigging"]
+  n12["Ned Rig"]
+  n13["Rockfish Deep-Dropping"]
+  n14["Sliding Sinker"]
+  n15["Slow-Pitch Jigging (SPJ)"]
+  n16["Speed Trolling"]
+  n17["Surface Iron"]
+  n18["Swimbaits"]
+  n19["Trolling"]
+  n20["Yo-Yo Iron"]
   n10 --> n16
-  n12 --> n13
-  n12 --> n14
-  n12 --> n4
-  n13 --> n12
+  n11 --> n15
+  n11 --> n17
+  n13 --> n14
+  n13 --> n15
   n13 --> n4
-  n14 --> n10
-  n14 --> n12
+  n14 --> n13
   n14 --> n4
-  n15 --> n18
-  n15 --> n9
+  n15 --> n11
+  n15 --> n13
+  n15 --> n4
   n16 --> n10
   n16 --> n19
-  n16 --> n6
-  n18 --> n15
+  n17 --> n11
+  n17 --> n20
+  n17 --> n7
   n19 --> n16
-  n19 --> n4
-  n4 --> n12
+  n20 --> n17
+  n20 --> n4
   n4 --> n13
   n4 --> n14
-  n4 --> n19
-  n6 --> n16
-  n9 --> n15
+  n4 --> n15
+  n4 --> n20
+  n7 --> n17
 ```
 <!-- mermaid:end -->

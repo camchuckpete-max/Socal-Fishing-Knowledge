@@ -109,6 +109,12 @@ bars and skirts on calmer school-grade days; divers
 and cedar plugs for mixed grade. The full table by wind/grade/water lives in
 [bluefin trolling](../species/bluefin-trolling.md).
 
+**Fighting & gaffing:** once a big fish (100–300 lb) is hooked, the boat does
+the work of landing it — gear-tap it toward the boat, walk down-swell for the
+whole fight, and avoid the death circle; full mechanics in
+[fighting a big bluefin](../techniques/fighting-big-bluefin.md), then the gaff
+shot in [gaffing](../fish-care/gaffing.md).
+
 ## Gear summary (class terms)
 
 - **Foamer:** beefed **jig-stick class** (backbone to lever a deep fish up), 50 lb
@@ -186,6 +192,7 @@ and cedar plugs for mixed grade. The full table by wind/grade/water lives in
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Flyline](../techniques/flyline.md)
