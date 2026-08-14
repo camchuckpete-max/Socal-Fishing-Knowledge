@@ -965,7 +965,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 2ivn-N0as_A | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA night tourney weigh-in/catch montage, no conditions detail; series: SWBA Midnight Standoff part 3 |
 | 8KIsYpsIBwI | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Southwest Florida beach shark tournament; series: Giant Shark Florida part 2 |
 | _Ejay_B77DA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Southwest Florida beach shark tournament; series: Giant Shark Florida part 1 |
-| P6Slg6RQiXw | StokedOnFishing | on-the-water | deep | pending | Pre-ID deep confirmed: Aaron Martens/Benny Florentino SCI calico; braid/leader/reel-speed gear + kelp cadence/flip technique |
+| P6Slg6RQiXw | StokedOnFishing | on-the-water | deep | done | species/calico-bass.md; techniques/swimbaits.md; tackle/rod-and-reel-selection.md / SCI on-the-water trip (Aaron Martens/Capt. Benny Florentino) — kelp-canopy flipping technique + situations-table row |
 | vwH9ERf6zPI | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Long Beach Yacht Club SWBA/Olive Crest charity tourney catch footage, no conditions detail |
 | M6U_FVdosr4 | StokedOnFishing | on-the-water | parameter-skim | pending | Dana Pt kelp bed kids trip: squid outfished sardine that AM, anchor vs drift in current decision |
 | x1Vb7c4Ek-U | StokedOnFishing | promo | skip:promo | skipped | Stoked On Fishing show trailer announcing Fox Sports West premiere, sizzle reel only |

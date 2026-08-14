@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw]
 confidence: high
 ---
 
@@ -56,6 +56,40 @@ called out on camera as running clean through "the thick of the heel
 [kelp] grass" with no fouling at all — matching the Gamakatsu/Trokar
 3/8 oz keel-weighted-hook spec above. Unregistered channel — medium
 confidence.
+
+## Line, leader, and reel speed (Capt. Benny Florentino)
+
+Capt. Benny Florentino, StokedOnFishing, San Clemente Island, December 2013
+(`P6Slg6RQiXw`; benny-florentino is a registered voice, but this specific set
+of gear parameters is the first commit of these claims — **medium**
+confidence pending repetition). A generalized gear rundown, kept side by side
+with the Landesfeind/Todd Klein braid-and-leader numbers logged above rather
+than merged in:
+
+- **Braid: 65 lb or 80 lb**, picked by lure type. His own boat-side rig that
+  day ran **65 lb braid to a 50 lb leader**.
+- **Top shot: 50 to 60 lb mono or fluorocarbon**, either works — a length was
+  given but only heard indistinctly in the ASR as "3 to 4T" (possibly 3–4 ft;
+  not independently confirmed, so treat the length as unconfirmed).
+- **On heavier line (80 lb) he steps the leader to mono specifically for the
+  stretch** — the same mono-for-stretch logic used elsewhere in this KB for
+  heavy sinker-rig top shots (see [rod & reel
+  selection](../tackle/rod-and-reel-selection.md)), applied here to inshore
+  kelp bass tackle.
+- **Reel: high-speed, at least 6.2:1.** Mechanism — calico **come up, eat the
+  bait, and come right back toward the boat**; a slow reel can't take up the
+  resulting slack fast enough, and a fish that gets to change angle and dive
+  back down toward the rocks/kelp before you're tight to it is more likely to
+  get you cut off. Gear ratio itself is about **how much line the reel
+  recovers per turn of the handle**, not just a "fast reel / slow reel" label.
+- **⚠ Conflict, flagged not reconciled:** this directly contradicts the
+  "avoid 8:1+ high-speed ratios — SoCal gamefish doesn't swim at you" doctrine
+  in [rod & reel selection — inshore
+  baitcast](../tackle/rod-and-reel-selection.md#inshore-baitcast--three-sizes-academy-ep15-onh1k2mop7q)
+  (Landesfeind). Florentino's claim is calico-specific and explicitly says the
+  opposite — that calico **do** swim at the boat after eating and a
+  high-speed reel (though still under Landesfeind's 8:1 ceiling, at 6.2:1+)
+  is needed to keep up. Kept side by side, attributed, not resolved.
 
 ## The retrieve and the hookset
 
@@ -141,6 +175,20 @@ confidence.
   fished right up into skinny water (fish holding "in the foam," "inches
   of water" off the beach) with long casts down the beach. Unregistered
   channel — medium confidence.
+- **Observed** (StokedOnFishing w/ Capt. Benny Florentino, San Clemente
+  Island, December 2013 — `P6Slg6RQiXw`; date resolved from the crew's
+  reference to Aaron Martens' upcoming "classic" the following "middle of
+  February," i.e. the 2014 Bassmaster Classic): mid-retrieve, Florentino
+  actively **varied the cadence — fast, slow, fast, slow — hunting a faster
+  strike than his usual pace**, working the bait hard through a patch of
+  boiling rock structure; he noted recent trips to the same spot had the
+  fish keying on a **fast, "burned" retrieve**. Consistent with, and adds a
+  deliberate cadence-hunting detail to, the with/against/perpendicular-to-
+  current speed variation logged above. Separately, Florentino called out
+  **breeze** as helping the bite late in the session — wind puts a bit more
+  current on the water and a **surface texture** that benefits weedless and
+  other surface presentations. Benny Florentino is a registered voice; this
+  specific cadence/breeze detail is a single mention — medium confidence.
 
 ## Depth and where you throw it
 
@@ -158,6 +206,24 @@ confidence.
   second data point rather than reconciled (Dave Hansen, Your Saltwater Guide,
   `KTsXdQXAnkU`, 2019-06-05; registered voice, single mention — medium
   confidence).
+
+## Flipping the kelp canopy (Observed, Aaron Martens & Benny Florentino)
+
+**Observed** (StokedOnFishing, San Clemente Island, December 2013 —
+`P6Slg6RQiXw`; guest angler Aaron Martens, 2013 Bassmaster Angler of the
+Year, fishing with Capt. Benny Florentino — single-session data point, not
+established doctrine): partway through a wide-open bite, Martens — drawing on
+freshwater bass-flipping technique — called for **"a heavy head flip"**: a
+heavy leadhead bait pitched on a short, accurate cast (not a long cast) into
+gaps in the kelp itself, described on camera as "punching the kelp." Fish
+were found **up underneath the floating canopy**, working the dropped bait
+before eating it. Once it started producing, the crew explicitly adopted it
+as the session's pattern ("Aaron said flip, so we're flipping"). This sits
+beside, and is mechanically similar to, Dave Hansen's pitch-and-sink-at-the-
+base presentation below — the distinguishing feature here is pitching
+**into gaps in the canopy itself** rather than to the kelp-line base, a
+technique transfer from freshwater bass flipping/punching rather than a
+SoCal-native presentation. No leader, hook, or weight spec given on camera.
 
 ## Fighting fish out of the kelp (Dave Hansen, Your Saltwater Guide)
 

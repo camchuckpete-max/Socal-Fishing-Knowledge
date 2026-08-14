@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw]
 confidence: medium
 ---
 
@@ -357,6 +357,15 @@ Low-profile saltwater baitcasters were designed for largemouth, so **avoid the
 high-speed gear ratios** bass anglers use (8:1+): a SoCal gamefish doesn't swim at
 you, so a fast reel just piles torque on you and makes crankbaits miserable to
 wind. Landesfeind learned this getting worked by a ~60 lb bluefin on an ~8:1 400.
+
+**⚠ Conflict, flagged not reconciled:** Capt. Benny Florentino's calico-specific
+reel-speed doctrine says the opposite about calico bass specifically — that they
+**do** come up, eat, and swim back toward the boat, and a **high-speed reel (at
+least 6.2:1)** is needed to take up the resulting slack before the fish can dive
+back into structure. Both claims sit under Landesfeind's 8:1+ ceiling, so they
+aren't numerically incompatible, but the underlying behavioral claim (does SoCal
+inshore gamefish swim at you or not) conflicts. See [swimbaits — line, leader,
+and reel speed](../techniques/swimbaits.md#line-leader-and-reel-speed-capt-benny-florentino).
 Three classic sizes cover inshore:
 
 - **200 size (~6.6:1)** — the workhorse. Brim-full of 30 lb braid. Crankbaits,

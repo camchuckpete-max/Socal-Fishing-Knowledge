@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw]
 confidence: high
 ---
 
@@ -185,6 +185,21 @@ you read the *current across the kelp*, not the tide clock.
   bait usually has no predators on it; broken/harried bait does
   ([electronics and sounder](../planning/electronics-and-sounder.md),
   [search and glassing](../planning/search-and-glassing.md)).
+- **Observed** (StokedOnFishing w/ Capt. Benny Florentino, San Clemente Island —
+  `P6Slg6RQiXw`; the on-camera date is only given as "December," and the
+  crew separately references Aaron Martens' upcoming "classic" event
+  "middle of February," which resolves to the 2014 Bassmaster Classic —
+  dating the footage to **December 2013**, roughly 11 months before the
+  video's own 2014-11-01 upload): a fast, high-volume bite (repeated doubles,
+  "an aquarium" of fish visible boatside) held fish not just on the leading
+  edge but **up underneath the floating kelp canopy itself**, "playing
+  around" with a dropped bait before eating — a nuance alongside, not a
+  replacement for, the leading-edge doctrine above; see
+  [flipping the kelp canopy](../techniques/swimbaits.md#flipping-the-kelp-canopy-observed-aaron-martens--benny-florentino)
+  for the presentation that reached them; that note also carries Florentino's
+  breeze/surface-texture observation from the same session. Benny Florentino
+  is a registered voice; the canopy-holding mechanism is a single mention on
+  this specific point — medium confidence.
 
 ## Situations → techniques
 
@@ -197,6 +212,7 @@ you read the *current across the kelp*, not the tide clock.
 | Live bait around, fish deeper on the edge or in wind | **Flyline** a sardine/mackerel ([flyline](../techniques/flyline.md)) | flyline class, 25–40 lb | Sweeps the up-current edge naturally |
 | Raging current, kelp pulled under | Slow down / switch to **subsurface** (sunk iron, leadhead) or wait for the slack | jig / leadhead class | Surface presentations die; resurfacing kelp = go back on top |
 | **Grunion-in-kelp / bait blitz** (even ugly stagnant water) | Match the bait — 7" split-tail slug on a sled/leadhead, every cast | bass class | Overrides water quality entirely; birds stay on top of the moving bait (10/20/22) |
+| Fish holding tight up **underneath a dense kelp canopy** (not just the edge), established bite pattern | **Flip / punch a heavy jighead into gaps in the canopy** — a freshwater-bass "flipping" presentation borrowed onto kelp ([flipping the kelp canopy](../techniques/swimbaits.md#flipping-the-kelp-canopy-observed-aaron-martens--benny-florentino)) | bass casting class | ⚠ Single-session observed data point (StokedOnFishing/Aaron Martens/Benny Florentino, San Clemente Island, Dec 2013, `P6Slg6RQiXw`) — not established doctrine |
 | Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (RXNebDr4j7s) |
 
 **Covering water is the method:** 10–25 casts to the prime edge of a bed, then
@@ -339,6 +355,10 @@ present the outside stringers.
   then rinse the fish off** before it goes back — a slime-coat step ahead of
   release (Dave Hansen, Your Saltwater Guide, `KTsXdQXAnkU`, 2019-06-05;
   registered voice, single mention — medium confidence).
+- **Observed** (StokedOnFishing w/ Capt. Benny Florentino, San Clemente
+  Island, December 2013 — `P6Slg6RQiXw`): the group released 99% of the fish
+  caught that day. Benny Florentino is a registered voice; single mention on
+  this specific point — medium confidence.
 
 <!-- backlinks:start -->
 ## Linked from
