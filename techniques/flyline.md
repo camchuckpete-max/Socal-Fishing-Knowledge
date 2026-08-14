@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc]
 confidence: medium
 ---
 
@@ -144,12 +144,50 @@ rest of this note otherwise describes.
   boat settled was eaten instantly, no soak required — a ~5 lb snook, called
   "perfect eating size" on camera (Monterey sardine bait, cast/net-caught en
   route, per the bait-sourcing note below).
+- **Tide phase governs when the bite turns on (Capt. Dave Hansen, Your
+  Saltwater Guide, `dlxA22FVNGc`, 2022-01-23 — predates every other clip
+  logged in this Mag Bay mangrove series, now the earliest-dated data point):**
+  two windows produce. The best is the **ebb from peak high toward low**,
+  which flushes baitfish out of the mangrove roots and past the ambush
+  points — "that's when they really get excited and start biting." Near-
+  **peak high tide** itself is a secondary, decent window. A **flood tide
+  moving from low toward high** is the poor window: there isn't enough water
+  yet in the root zone for fish to be staged and feeding there. Doctrine:
+  read the tide chart and time arrival to tide direction, not to being on
+  the water early or first; the direction is visible on the water as
+  drifting leaves/debris moving with the current.
+- **Stealth hook/leader for skinny, gin-clear water, plus a separate
+  landing-power floor for structure (same source, 2022-01-23):** casting to
+  water sometimes under 12 in deep, a **size 4 thin-wire bronze hook** (brand
+  heard as "rot mustang" — asr-uncertain, plausibly Mustad but not
+  confidently resolved) tied to a fluorocarbon leader (brand heard as "ops" —
+  asr-uncertain, not resolved) keeps the line and hook invisible to the fish;
+  **25 lb fluorocarbon** is the stated re-tie spec this session, with spare
+  hooks and spare fluorocarbon spools carried because snagging trees and
+  branches is routine. Separately: anything **lighter than 35 lb** has "zero
+  chance of getting it out of there if you get snagged in the bushes" —
+  transcript audio doesn't disambiguate whether "it" is a hooked fish that's
+  run into the branches or gear/line that's caught a branch on the cast, so
+  this is logged as a general break-strength floor for fishing this
+  structure rather than a specific casting or landing spec — offered
+  alongside, not reconciled with, the 60 lb braid/35 lb fluoro rig logged
+  from the later `-5kooyIyavs` trip below.
+- **Reel style is flexible for the cast (same source, 2022-01-23):** a
+  level-wind conventional reel (named on camera as an "Okuma Komodo(s) 300
+  series" — ASR-corrected per the known Okuma→"Akuma" corruption in this
+  corpus; sponsor-adjacent product mention, low confidence) works for
+  punching casts into the tight mangrove pockets, but a spinning rod/reel
+  casts these zones just as well for anglers who can't manage a
+  conventional's backlash — either works fine for mangrove structure-casting.
 - **The rig is the same no-weight flyline concept, stripped to the minimum:**
   a thin-wire Mustad hook tied straight to a fluorocarbon leader, tied
   straight to braided main line — **zero weight, no swivel, nothing else in
   line.** Stated sizing: **60 lb braid** to **35 lb fluorocarbon** (brand name
   not carried — asr-uncertain, heard as "option fluorocarbon," no confident
-  read).
+  read). **Why no weight at all (Capt. Dave Hansen, `dlxA22FVNGc`,
+  2022-01-23):** the water here often runs a foot deep or less, so a sinker
+  isn't just unneeded, it would hang up directly in the mangrove roots —
+  flylining is the only presentation that works in this structure.
 - **Bait placement, not soak time, is what gets bit.** The target is a narrow
   strike zone right on the edge of the mangrove branches/roots — a specific
   cove, pocket, or the edge of a named tree — and a bait that lands short,
@@ -173,7 +211,9 @@ rest of this note otherwise describes.
   results: a hedged, untried aside that working live bait off the boat's
   opposite side ("where the blue net is") would "probably do pretty good"
   on corvina — the crew stayed on the snook bite instead, so this is a
-  suggestion, not an observed outcome.
+  suggestion, not an observed outcome. A separate session (`dlxA22FVNGc`,
+  2022-01-23) also took jack (crevalle) on the same chum/flyline pattern,
+  released as bycatch rather than the targeted species.
 - **Observed** (Your Saltwater Guide, 2022-01-28, Lopez Mateos, Magdalena Bay —
   `frX09YMQxKE`; predates the `-5kooyIyavs`/`FxgLol_IHa0` clips above by about a
   month, same channel and location — a third data point for this Mag Bay
@@ -188,8 +228,9 @@ rest of this note otherwise describes.
   the bait-placement doctrine above. A local guide (Reuben, named as the
   boat's owner and a Lopez Mateos guide) ran the trip.
 - **Observed** (Your Saltwater Guide, 2022-01-26, Lopez Mateos, Magdalena Bay
-  — `vyX5FGoDH0A`; predates all three clips above — the earliest dated data
-  point yet logged for this Mag Bay mangrove series): a wide-open snook bite
+  — `vyX5FGoDH0A`; predates the `frX09YMQxKE`/`FxgLol_IHa0`/`-5kooyIyavs`
+  clips above, but postdates `dlxA22FVNGc` (2022-01-23) below — the
+  second-earliest data point logged for this Mag Bay mangrove series): a wide-open snook bite
   on the sardina fly line, with multiple snook landed in quick succession.
   The crew also boated a fish first called "grouper" on camera, then
   corrected in the moment to spotted bay bass. Captions also render a fish
@@ -200,6 +241,24 @@ rest of this note otherwise describes.
   they noted they were down to their "last box" of hooks — a rough
   illustration of the gear attrition that fishing tight to mangrove
   structure produces.
+- **Observed** (Your Saltwater Guide, 2022-01-23, Lopez Mateos, Magdalena Bay
+  — `dlxA22FVNGc`; predates every other clip in this Mag Bay mangrove series
+  — the earliest-dated data point yet logged): anchored and chumming live
+  sardines produced a fast multi-species bite right along the mangrove root
+  edge and the mouth of a dead-tree cove — snook (rendered on camera as
+  "schnook"/"rabalo"), a small broomtail grouper, and jack (released, not
+  the targeted species) all taken on the same drifting-chum pattern in quick
+  succession. **Anchor over repeated drifting, for this same reason (same
+  source, 2022-01-23):** in a cove this small, letting the boat drift means
+  constantly drifting off the strike zone and having to re-approach; getting
+  anchored on the spot lets the crew present bait to the zone continuously
+  instead — "anchoring is crucial if you want to catch fish... if you want
+  to actually catch some fish you want to get anchored on the spot,"
+  reinforcing, from the general-principle side, the anchor-lay precision
+  doctrine above. Guide Reuben ran the anchor and the chum; the presenter (Capt.
+  Dave Hansen) broke off on the roots mid-session and re-tied a fresh hook
+  and leader before resuming fishing. The tide was falling from a super-high
+  mark through the session, consistent with the ebb-window doctrine above.
 
 ## Mono top shot vs. straight braid — the depth mechanism
 
