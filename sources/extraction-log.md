@@ -1036,7 +1036,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | qM7iOO7fOBw | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/flyline.md / StokedOnFishing La Paz (day 2) Observed entries: dorado school-holding corroboration (third region), yellowtail/cabrilla/dorado/pargo  |
 | 92y14x33etQ | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/yellowtail.md; techniques/trolling.md / StokedOnFishing La Paz/Espiritu Santo: bait-wind note, El Bajo dropped-bait/slow-troll yellowtail Observed section (65lb braid/60lb |
 | haJ3BancQDI | StokedOnFishing | promo | skip:promo | skipped | Short Okuma Alijos lever-drag reel product highlight clip |
-| YUdbrIm9vrE | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja Oct trip, multi-species yellowtail/tuna/dorado/halibut |
+| YUdbrIm9vrE | StokedOnFishing | on-the-water | observations-only | done | species/bonito.md; species/dorado.md; species/yellowfin-tuna.md; techniques/trolling.md / Cedros multi-species (yellowfin, dorado, bonito) Observed blocks: October tuna/dorado-before-yellowtail sequen |
 | A8SuzB5qiKE | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja Oct trip, yellowtail/tuna/dorado/calico/sheephead/halibut |
 | PAZA-PzMcWQ | StokedOnFishing | promo | skip:promo | skipped | Sizzle reel montage, no content, channel promo |
 | Xnq3FIUzvuw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus king salmon charter |

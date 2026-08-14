@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE]
 confidence: high
 ---
 
@@ -230,6 +230,25 @@ water "attracts more" dorado — the same school-holding tactic already logged
 for the East Cape (`tcso7Lpm_Xs`) and Cedros (`brx6Ie_L2FM`) trips above, now
 also corroborated at La Paz, Sea of Cortez side.
 
+**Observed (Baja, region label)** (StokedOnFishing, October trip (year not
+stated on camera), 2024-03-20 upload, offshore of Cedros Island, Baja —
+`YUdbrIm9vrE`, "Cedros Island Goes Off"; Cedros Outdoor Adventures charter;
+unregistered channel — medium confidence): working roughly 20–30 mi
+offshore on a day otherwise spent trolling for
+[yellowfin tuna](yellowfin-tuna.md), the crew spotted birds working 2–3 mi
+away and ran over to find dorado — a birds-mark-the-school visual find
+consistent with the birds-on-a-paddy sign already documented above, though
+no paddy is mentioned for this school. Once on the school, both a
+flylined live sardine and — after the sardine stopped drawing bites — a
+reused trolled-feather combination (the same lure that had produced that
+morning's [tuna](yellowfin-tuna.md) bite) produced dorado hookups; see
+the bait-to-feather swap logged in
+[trolling — Cedros Island offshore troll](../techniques/trolling.md) for
+the full sequence from this same session. Grade was described on camera as
+improving through the session, with the last fish of the day called "one
+of the best" — no weights given. No kelp paddy, leader, or hook detail
+was captured for these fish. Unregistered channel — medium confidence.
+
 **Observed** (StokedOnFishing, 2022-10-13, offshore SoCal — `VWClGAn2WEw`):
 after a run of consecutive dorado hookups on the same leader, the crew
 described dorado's teeth and gill plates as prone to chafing/fraying the
@@ -294,5 +313,6 @@ gear summary below.
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

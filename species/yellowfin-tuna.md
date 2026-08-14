@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE]
 confidence: high
 ---
 
@@ -132,6 +132,17 @@ the bluefin nearby become more cooperative too.**
   range in this note's opening summary; not a SoCal claim. See the
   hand-fought fight technique from the same day in
   [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+- **Observed (Baja, region label)** (StokedOnFishing, October trip (year not
+  stated on camera), 2024-03-20 upload, offshore of Cedros Island, Baja —
+  `YUdbrIm9vrE`, "Cedros Island Goes Off"; Cedros Outdoor Adventures charter;
+  unregistered channel — medium confidence): trolling roughly 20–30 mi
+  offshore, a bite came fast and multiple once it turned on — a double
+  hookup struck just behind the boat's stern, and a separate stretch put
+  three fish in the well within about 10 seconds of each other ("I didn't
+  even have 10 seconds to even get the camera on"). Full spread/lure detail
+  (Rapala-class trolled hardbaits, color-matched doubles, a 60 lb line
+  class) is logged in
+  [trolling — Cedros Island offshore troll](../techniques/trolling.md).
 - **Observed** (StokedOnFishing, 2019-02-18, East Cape, Sea of Cortez, Baja
   California Sur, waters near Cabo (exact locality not resolved on camera —
   asr-uncertain) — Hotel Buena Vista Beach Resort trip, `_c6UI3lGBVg`,
@@ -155,6 +166,7 @@ the bluefin nearby become more cooperative too.**
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

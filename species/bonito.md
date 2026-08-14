@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE]
 confidence: medium
 ---
 
@@ -108,6 +108,16 @@ rather than a dedicated technique study.
   barracuda, and calico bass (see the [calico bass](calico-bass.md) La Bocana
   entry) — no technique, weight, or location detail given beyond the catch
   being reported. Unregistered channel — medium confidence.
+- **Observed (Baja, region label)** (StokedOnFishing, October trip (year not
+  stated on camera), 2024-03-20 upload, offshore of Cedros Island, Baja —
+  `YUdbrIm9vrE`, "Cedros Island Goes Off"; Cedros Outdoor Adventures charter;
+  unregistered channel — medium confidence): a bonita caught incidentally
+  while trolling for yellowfin tuna, roughly 20–30 mi offshore, prompted crew
+  comment on camera that bonito "can bite through the light line" with their
+  teeth. **Conflict, not reconciled:** this sits directly beside this note's
+  standing gear doctrine above that bonito "lack the barracuda's cutting
+  teeth" and need no wire — a crew observation on one fish, not treated as
+  overturning the stated no-wire doctrine.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -128,6 +138,7 @@ rather than a dedicated technique study.
 - [October](../seasonal/october.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Trolling](../techniques/trolling.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE]
 confidence: high
 ---
 
@@ -132,6 +132,45 @@ top-shot specs live in each lure note.
   [yellowtail](../species/yellowtail.md) for the full session narrative,
   including a separate, smaller home-guard yellowtail landed the same day
   at "the Calico spot" on a Colt Sniper-class stickbait.
+- **Observed (Baja, region label)** (StokedOnFishing, October trip (year not
+  stated on camera), 2024-03-20 upload, offshore of Cedros Island, Baja —
+  `YUdbrIm9vrE`, "Cedros Island Goes Off"; Cedros Outdoor Adventures charter
+  with Jose; unregistered channel — medium confidence): a **different
+  program from the shallow home-guard slow-troll entries above** — day one of
+  a 5-day trip ran straight offshore (roughly **20–30 mi** out) for
+  [yellowfin tuna](../species/yellowfin-tuna.md) and
+  [dorado](../species/dorado.md) rather than working the resident yellowtail
+  first. Dock/captain guidance (attribution not diarized) framed this as
+  standing October sequencing logic at Cedros: the trip gets more overall
+  numbers by hitting tuna and dorado offshore first, since the resident
+  yellowtail are already there and can be picked up afterward — plan-level
+  sequencing, not a claim about yellowtail behavior itself, kept beside
+  (not merged into) the home-guard yellowtail doctrine in
+  [yellowtail](../species/yellowtail.md). **Spread:** trolled Rapala-class
+  hardbaits (captions render "ralas"/"ralos" — ASR-uncertain, read against
+  the established Rapala-class hardbait product family) run **one short,
+  one long**, with one line later swapped to a surface popper; **60 lb**
+  line class on the trolling outfits (reel/rod model named on camera not
+  carried — ASR-uncertain). **Color-matching produces doubles:** running
+  the same lure color on both trolled lines (the crew specifically named
+  **purple/purple**) was called out on camera as the reason simultaneous
+  doubles came aboard, including on a hardbait-to-feather swap; separately,
+  the captain reported that two days earlier (same charter operation, a
+  different day's trip) switching to a different color Rapala had NOT
+  produced the same doubles — a same-source, same-technique corroboration
+  of the color-match-for-doubles read, not independently confirmed by this
+  crew's own footage. **Bait-to-feather swap:** later in the day, after
+  birds marked a dorado school roughly 2–3 mi away (see the
+  [dorado](../species/dorado.md) entry for that find), a flylined live
+  sardine drew hookups until the bait stopped drawing bites — the crew
+  was then told to "forget the bait" and put feathers back on, the same
+  feather/hardbait combination that had produced that morning's
+  [tuna](../species/yellowfin-tuna.md) bite, which restarted the bite.
+  The resulting catches from this stretch were dorado, not additional
+  tuna — see the [dorado](../species/dorado.md) entry for that session's
+  detail. A bonita was also boated on the troll — see
+  [Pacific bonito](../species/bonito.md) for a teeth/leader observation
+  from this same fish.
 
 ## Running the spread — sweeps, not straight lines
 
@@ -568,6 +607,7 @@ long-setback trolling programs, not as a doctrine-level gear requirement.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Making Bait](../bait/making-bait.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
