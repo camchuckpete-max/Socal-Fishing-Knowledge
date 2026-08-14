@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI]
 confidence: high
 ---
 
@@ -138,6 +138,12 @@ the blank.
   slack-water take, while a surface iron gets **struck** on a moving retrieve,
   so winding through keeps tension instead of yanking the jig away from a fish
   that's still closing on it.
+- **Sink it out to cover the column (StokedOnFishing, ntQXxcH5sjI, 2024-08-29;
+  medium confidence, unregistered channel):** a surface iron doesn't have to
+  stay on top the whole retrieve — periodically let it sink out almost like a
+  [yo-yo iron](yo-yo-iron.md) drop, then resume the normal surface retrieve.
+  Doing this every once in a while covers different depths in the water column
+  instead of only fishing the top.
 
 ## Size / weight selection
 

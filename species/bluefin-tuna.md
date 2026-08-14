@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI]
 confidence: high
 ---
 
@@ -44,6 +44,16 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [Bight](../locations/bight-geography.md); fish aggregate where uphill current
   compresses along [island structure](../locations/island-structure.md) and the
   named banks in the [zone lexicon](../locations/zone-lexicon.md).
+- **Observed** (StokedOnFishing, 2024-08-29 upload / trip fished mid-August
+  2024, Tanner Bank, SoCal — ntQXxcH5sjI; medium confidence, unregistered
+  channel): a multi-day trip out of Long Beach anchored on **Tanner Bank,
+  roughly 90–100 mi west of Long Beach**, in **~120 ft of water**, with
+  yellowtail and bluefin both landed over two days of fishing — bluefin taken
+  on bait marks sitting around **60 ft** while the boat chummed sardines. This
+  sits beside, not folded into, the Oct–Dec "condense outward to Tanner/Cortez"
+  pattern above — a mid-August data point that Tanner/Cortez can also produce
+  well outside the fall/winter condensation window, not a contradiction of it
+  (different months, same bank).
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
@@ -96,6 +106,7 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
 | --- | --- | --- | --- |
 | **Surface foamers**, terns working, castable seas | [Foamer casting](../techniques/foamer-casting.md) — poppers first (hold the zone longest), then surface iron, then a small lead bait; run ahead of the school, stop hard, cast to the middle | Beefed **jig-stick class** for 200 lb fish ([gear classes](../tackle/gear-classes.md)) | Match tiny anchovy → downsize to a lead bait (Colt-Sniper/zakana class); bite comes on the **pause / fall**, not the pop |
 | **Fish sounded deep** (30–50 fm), wind up, no surface sign | [Knife-jigging](../techniques/knife-jigging.md) to graded marks; heavier jig for depth/current | 100–130 lb-braid **jig class** (PE6–8); [knife jigs](../lures/knife-jigs.md) | Day 150–300 g; more current / deeper fish → 300–400 g to punch down and still stay horizontal in the strike zone |
+| **Shallow bait-ball marks** (~60 ft) around the boat while chumming sardines, no surface sign yet | [Yo-yo iron](../techniques/yo-yo-iron.md) — drop through/around the mark and crank fast | 40–60 lb class stout rod + high-speed reel | Distinct from the 30–50 fm knife-jig row above — a much shallower, near-boat scenario; a heavy bite on the drop can read as the rod suddenly going dead-weight, "almost like stuck on the bottom" (StokedOnFishing, ntQXxcH5sjI, 2024-08-29, Tanner Bank; medium confidence, unregistered channel) |
 | **Night bite**, fish rising on the DSL | [Knife-jigging](../techniques/knife-jigging.md) vertical — throw up-current at the bow and walk back to stay vertical; [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) to sink live bait to sounded fish | Night **jig class**; [knife jigs](../lures/knife-jigs.md) 150–400 g | Rig detail — braid choice, single-bottom-assist doctrine, line marking, bite leader — lives in [knife jigging](../techniques/knife-jigging.md) |
 | **Big fish 100–300 lb**, wind ~8–15 kt | [Kite fishing](../techniques/kite-fishing.md) — a flying fish under a kite is *the* most effective method for 100–300 lb | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md) | See [bluefin trolling](../species/bluefin-trolling.md) for the troll alternative when you can't kite |
 | **Locating — too light to kite, or fish too spread out to sit and kite over** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](../species/bluefin-trolling.md) |
@@ -256,5 +267,6 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

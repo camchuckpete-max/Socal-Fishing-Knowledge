@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [yo-yo, iron, vertical-jig, yellowtail, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U]
+tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI]
 confidence: high
 ---
 
@@ -22,6 +22,13 @@ the reverse map in **Linked from** below.
   down: when the kelp is **pulled under or laid flat**, surface presentations are
   dead — go vertical. When the kelp resurfaces (current slacking), switch back to
   [surface iron](surface-iron.md).
+- [Bluefin tuna](../species/bluefin-tuna.md) marked shallow (e.g. ~60 ft) around
+  the boat while chumming, with no surface foamer yet showing — yo-yo the mark
+  instead of waiting on a visual bite (StokedOnFishing, ntQXxcH5sjI, 2024-08-29,
+  Tanner Bank, SoCal; medium confidence, unregistered channel). Distinct from the
+  30–50 fm sounded-school knife-jig scenario in
+  [bluefin tuna](../species/bluefin-tuna.md#situations--techniques) — this is a
+  much shallower, near-boat mark.
 
 ## Mechanics
 
@@ -34,6 +41,11 @@ the reverse map in **Linked from** below.
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
 - A heavy iron is mandatory so it **gets to the zone and stays vertical** in
   current; too light and it never reaches the fish or blows out sideways.
+- **Observed** (StokedOnFishing, 2024-08-29, Tanner Bank, SoCal —
+  ntQXxcH5sjI; medium confidence, unregistered channel): on a drop, a bluefin
+  bite read as the rod suddenly going heavy — "almost like it got stuck on the
+  bottom" — rather than an obvious rap, just before hookup. Sits beside, not a
+  restatement of, the "strikes often come on the drop" doctrine below.
 - **Cadence — crank-and-drop vs. continuous wind-to-the-top (conflict,
   attributed, kept side by side):** Capt. Dave Hansen (Your Saltwater Guide,
   wzI0lpgKT1U, 2021-03-16; dave-hansen registered — high confidence) defines
@@ -126,6 +138,14 @@ the reverse map in **Linked from** below.
   6X/7X-class heavy-iron doctrine): kept side by side with the prior year's
   **Tady 4/0** pick above rather than reconciled — the channel's stated go-to
   iron differs between the two builds.
+- **A full rod/reel/leader/knot build, one trip's data point (StokedOnFishing,
+  ntQXxcH5sjI, 2024-08-29, Tanner Bank, SoCal; medium confidence, unregistered
+  channel):** a **Salas 6X Jr** yo-yo iron in **blue-and-white**, run on
+  **40 lb fluorocarbon leader** tied to **65 lb braided main line** with a
+  **uni-to-uni knot**, on an Okuma two-speed lever-drag reel (captions render
+  "Alos" — asr-uncertain, not confirmed by name) paired with an **Okuma PCH
+  extra-heavy rod**. Fished dropping to about **80 ft** with bait marks sitting
+  around **60 ft**.
 
 ## Common failures
 
@@ -135,10 +155,15 @@ the reverse map in **Linked from** below.
 - **Winding too slow** — a lazy grind gets refused; the bite comes off speed.
 - **Fishing yo-yo when the surface is alive** — if fish are boiling or the kelp is
   standing (slack current), the [surface iron](surface-iron.md) reaches more fish.
+- **Physical toll, and can spook cautious fish (StokedOnFishing, ntQXxcH5sjI,
+  2024-08-29; medium confidence, unregistered channel):** the constant lift-
+  reel-drop cycle is demanding on the arms and shoulders over a long session,
+  and the rapid, aggressive action can spook more cautious fish.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)

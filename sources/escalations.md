@@ -60,3 +60,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T09:09:09Z — ldVj0BoB-kE — evaluator-escalate
 - run: 31783949091
 - reason: Cedros Island 2023 voluntary 100% catch-and-release for calico/grouper/black seabass is a regulatory/policy-adjacent claim; Cameron should confirm operator-agreement framing (distinct from CDFW/Mexican-government rule) and current status before treating as actionable guidance.
+
+## 2026-08-14T09:18:11Z — ntQXxcH5sjI — evaluator-escalate
+- run: 31783949091
+- reason: species/bluefin-tuna.md's Situations to techniques router table gained a new row (shallow bait-ball marks / yo-yo iron) — router-table change, mandatory escalation per acceptance-test trigger even though accurate/faithful/additive; Cameron should confirm the new row belongs in the router at GATE B review.
