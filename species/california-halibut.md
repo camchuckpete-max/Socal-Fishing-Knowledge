@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q]
 confidence: high
 ---
 
@@ -82,6 +82,22 @@ conditions that put one there.** (General search method:
 | Artificial / covering water, short drifts | **[Drop-shot](../techniques/drop-shot.md)** a plastic near the bottom | Bay-bass / light bottom class | Keeps the bait right in the strike zone on the edge; pick apart bubbler zones and rockpiles instead of long straight drifts |
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 
+- **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
+  `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
+  on a bass [swimbait](../techniques/swimbaits.md), Baja/Cedros Island
+  region — a **5½ in "Reeb's" purple soft-plastic swimbait** (captions
+  render "reefs" — ASR-uncertain, presumed the "Reeb's" brand named
+  on-camera earlier in the video, owner Mike Reeba) cast out, allowed to
+  **sink, given two pumps**, then hit — a **41 lb halibut**, called the
+  angler's personal best, reported as beating a prior personal best of
+  **27 lb** from the same spot (relative-time phrasing on camera, resolved
+  against the 2015-01-18 upload date; exact prior-catch date not stated on
+  camera — asr-uncertain). This is a **calico-bass-oriented swimbait
+  retrieve producing halibut incidentally**, not the sand/structure drift
+  program above — kept side by side, not reconciled, and labeled
+  Baja/Cedros region rather than SoCal. Unregistered channel, single
+  mention — medium confidence.
+
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head
 breaking the surface is when they go zero-to-100 and throw the hook. For the
@@ -128,6 +144,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [Water Color](../conditions/water-color.md)

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q]
 confidence: high
 ---
 
@@ -133,6 +133,14 @@ the reverse map in **Linked from** below.
   a6x" (ASR-uncertain — likely **scrambled egg**, corroborating the
   traditional color named above); no bite on that color is shown on camera
   before the group moved on.
+- **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
+  `Qa-j6LIwa1Q`, Cedros Island Adventure part 1; unregistered channel —
+  medium confidence): a [calico bass](../species/calico-bass.md) — not this
+  note's usual yellowtail/bluefin target — was picked off a **yo-yo iron
+  bounced on the bottom**, called out on camera as "epic." No jig
+  weight/color or depth given. Sits beside, not a change to, this note's
+  yellowtail/bluefin-focused doctrine — evidence the technique also produces
+  bottom-holding calico.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
   LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
   **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here
@@ -171,6 +179,7 @@ the reverse map in **Linked from** below.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)

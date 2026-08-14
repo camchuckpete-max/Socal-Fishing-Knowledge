@@ -215,6 +215,7 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Halibut](../species/california-halibut.md)
 - [Chunking](chunking.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
