@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw]
 confidence: high
 ---
 
@@ -77,6 +77,21 @@ typical-year mapping.
   **fall yo-yo fishing** — note it sits in a marine closure where **only
   yellowtail and bonito may be kept** (10/26/22). See
   [island structure](../locations/island-structure.md).
+  **Observed** (StokedOnFishing, 2014-11-03 upload, Bird Rock / Two Harbors,
+  Catalina Island, SoCal — `zUFbCIWZZMw`, "Stoked On Simrad, part 1,"
+  sponsor-heavy Simrad electronics/autopilot demo episode; unregistered
+  channel — medium confidence): an anchored spot near Bird Rock, called
+  "very fishy" on camera, produced a landed yellowtail (confirmed on live
+  squid) alongside 3–4 lb [calico bass](calico-bass.md) and barracuda.
+  Separately, on the same trip a smaller tender boat worked Catalina's **west
+  end** specifically targeting yellowtail and [white seabass](white-seabass.md)
+  on an expected afternoon bite; the stop instead produced a bat ray — which
+  the crew called as a yellowtail or sea bass while it was still on the line,
+  per their own later recap ("last time we thought it was a yellow tail or
+  sea bass, turned out to be a bat ray") — and then a leopard shark, which the
+  crew merely hoped would be "the right kind" (not another bat ray) before it
+  surfaced and was identified. An on-the-water species-misidentification
+  instance, not a reliable ID method.
 - **San Clemente Island** — a squid fishery on the back side / east end: nice
   20–25 lb average fish, high teens to high 30s, biting squid (4/21/22,
   YZtX1MiT0y8). Classic squid-zone behavior — the bite dried up after the first
