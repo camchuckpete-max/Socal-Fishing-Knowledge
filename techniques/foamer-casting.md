@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM]
 confidence: high
 ---
 
@@ -84,6 +84,14 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   re-cast. These sink fast enough that you may need to size the leader down to
   40 or even 30 lb.
 
+- **Don't overwork the pop (Roman Castro, mWxyjDrcdXM, 2021-07-17; unregistered
+  channel — medium confidence):** the pop itself doesn't need to be hard or
+  frequent — light pops with real pauses between them ("boom... wait...
+  boom") is the cadence, consistent with the pause-not-pop principle above.
+  When fish are truly balled up and foaming hard, precise placement matters
+  less than just getting the popper into the general area — there are fish
+  packed close enough together that presentation forgives some sloppiness.
+
 Poppers and stickbaits: [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md).
 
 **Additional small-lead-bait names, corroborating (Ray Sharifi, Dirty Hookers,
@@ -98,6 +106,37 @@ confidence over a bare top-shot connection to the lure, he'll add a short
 ~2 ft, 150–200 lb bite leader (see
 [bluefin bite leaders](../rigging/bite-leaders.md)) — his framing: a
 confidence add, not a requirement.
+
+## Hookup, drag, and the fight (Roman Castro, mWxyjDrcdXM, 2021-07-17; unregistered channel — medium confidence)
+
+- **Confirm tight contact before you strike.** Don't set the hook on the eat
+  until the line comes tight.
+- **Loosen the drag right at hookup on a densely packed foamer, not tighten
+  it.** When bluefin are foaming shoulder-to-shoulder, a hooked fish's line
+  runs through the mouths of the other fish balled up around it and gets
+  bitten/rubbed through — a **"scissored" break-off**. Some fish will be lost
+  this way on a tight foamer no matter what you do; running the drag looser
+  than instinct says right after the strike reduces it but doesn't eliminate
+  it.
+- **Cast the outside fish of the ball, not into the thick of the foam, to cut
+  scissoring risk** — a hookup on the edge has less line running back through
+  the packed middle to get cut. This is a distinct mechanism for the same
+  edge-not-middle placement Cesar gives above under "Popper cadence detail,"
+  which is framed there as a bite-triggering choice, not a scissoring one —
+  two reasons pointing to the same cast placement.
+- **Once tight and the fish is running, leave the drag alone** — no thumbing
+  the spool, no cranking down to try to stop a hot run; let it run (reels
+  carry plenty of line for a 500-yard run). Panicking and clamping down is
+  what gets anglers spooled or busted off.
+- **Do not rush the fight.** On mid-weight conventional tackle (a Daiwa Lexa
+  400-class reel is the example given), a 100 lb-class bluefin can take
+  **45 minutes to an hour** to boat — expected, not a sign something's wrong.
+  Once solidly hooked and buttoned up on gear in this class, the fish is
+  unlikely to come off; working it patiently beats horsing it.
+- **Multiple anglers hooked up in the same school: keep the lines apart.**
+  One moment of two braids touching each other is enough to part one —
+  coordinate rod position/direction (go over/under each other) rather than
+  crossing.
 
 ## Cameron's run-and-gun foamer program (attributed)
 
@@ -132,6 +171,13 @@ the column, which is when foamers are most likely to start
   instead of waiting for the circular form.
 - Setting up **behind** the school instead of ahead of its travel.
 - **Oversized presentation** when the bait is tiny — downsize.
+- **Clamping the drag down or thumbing the spool on a fresh hookup** instead
+  of letting a running fish go — panicking to stop the first run is what gets
+  anglers spooled or busted off, and rushing the fight afterward doesn't
+  actually get a big fish to the boat faster (Roman Castro, mWxyjDrcdXM,
+  2021-07-17; medium confidence).
+- **Crossing lines with another hooked-up angler** in the same school — one
+  touch of braid-on-braid parts the line (same source).
 
 <!-- backlinks:start -->
 ## Linked from
