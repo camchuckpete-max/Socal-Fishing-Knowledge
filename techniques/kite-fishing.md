@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk]
 confidence: high
 ---
 
@@ -50,6 +50,15 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   session). One kite-hooked fish was fought for roughly **40–45 minutes** per
   the crew's own call (ASR renders this as "40 45 M move for this fight" —
   read as minutes, not confirmed) before landing.
+  **Observed, daytime kite use earlier in the same 3-day trip**
+  (StokedOnFishing, `QSvzVHW9UMk`, 2025-02-12, Cortez Bank, SoCal, part 2 of
+  the same Ranger 85 charter as the entry above; unregistered channel —
+  medium confidence): the kite was also flown during a hot morning bluefin
+  bite while the boat was still adrift/free-fishing, before it later dropped
+  anchor at a hotter spot that same morning (see [bluefin
+  tuna](../species/bluefin-tuna.md)), alongside bait rods — no leader,
+  harness, or fight detail captured in this scene, but it confirms the kite
+  was in use earlier in the trip too, not only at sundown.
 
 ## Live mackerel as a kite bait — alternative to the flying-fish harness
 

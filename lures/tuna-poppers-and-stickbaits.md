@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk]
 confidence: high
 ---
 
@@ -71,6 +71,18 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+**Observed — daytime bluefin, cast-and-work-the-column retrieve
+(StokedOnFishing, `QSvzVHW9UMk`, 2025-02-12, Cortez Bank, SoCal, aboard the
+Ranger 85; unregistered channel — medium confidence):** a lure fished on a
+short **40 lb pink fluorocarbon top shot (~3 ft)** — leader sizing in range
+with the 40/30 lb downsizing note above; the lure isn't confirmed by name in
+this scene — was cast out (not dropped straight down) and worked with a
+**stop-and-go retrieve through the water column at roughly 45°** rather than
+just let to sink, called "sneaky" tactics on camera. The same video's
+evening wrap-up credited Colt Snipers with producing well that day, so this
+may be the technique described, not confirmed. Full trip context in
+[bluefin tuna](../species/bluefin-tuna.md).
 
 **Daytime bluefin weight/leader data point (Ray Sharifi, Dirty Hookers,
 149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —

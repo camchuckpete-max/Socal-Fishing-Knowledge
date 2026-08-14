@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk]
 confidence: high
 ---
 
@@ -156,6 +156,46 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   stretch — cast away from, not on top of, a hooked angler or a knot of
   anglers already fighting fish, to avoid tangling their fish — is logged
   in [surface iron](../techniques/surface-iron.md#the-cast).
+- **Observed** (StokedOnFishing, `QSvzVHW9UMk`, video uploaded 2025-02-12,
+  "Epic Bluefin Fishing Aboard the Ranger 85!," part 2 of the same 3-day
+  charter aboard the 85 ft **Ranger 85** covered by the `zBd1mayUt_I` part-3
+  entry immediately below (this video released one week earlier); Cortez
+  Bank, SoCal — given on camera as **96 mi SW of San Pedro, 111 mi west of
+  Point Loma/San Diego, 47 mi SW of San Clemente Island**; unregistered
+  channel — medium confidence): a hot morning bluefin bite while the boat was
+  still adrift/free-fishing (the crew's own "we're going to go get the anchor
+  down" call places the anchor-down moment later — see below; a nearby boat,
+  not this one, was already anchored and "destroying" it at that point) ran
+  the boat's on-camera tally into the 20s, with the
+  [kite](../techniques/kite-fishing.md) flown alongside bait rods in the same
+  window — a daytime-kite data point beside the sundown kite bite already
+  logged in the part-3 entry below. One angler worked a bait/lure on a short
+  **40 lb pink fluorocarbon top shot (~3 ft)**, cast out rather than dropped
+  straight down, then fished with a **stop-and-go retrieve worked through the
+  water column at roughly 45°** ("work that water column... bring it up,
+  bring it down") — called "sneaky" tactics on camera. The lure isn't named
+  in that scene, but the same video's evening wrap-up credited **Colt
+  Snipers** with producing well that day (see the leader-downsizing note in
+  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)) —
+  plausibly the same lure, not confirmed. Mid-morning the captain moved the
+  boat onto anchor after hearing a nearby boat was stacking fish "1 to two at
+  a time or 5 to 10 at a time" on an established chum line there, judging his
+  own boat had only been picking off "a little piece" of that school from
+  its original position outside the spot. **Evening wrap-up (same video,
+  ~6:00 pm, on anchor):** a very good day on bluefin with several nice
+  yellowtail mixed in (see [yellowtail](yellowtail.md)); weather had come up
+  with an uphill current against a light wind — chop, but fishable — and the
+  boat planned to spend the night on anchor. Reviewing the trip so far on
+  camera as "day one knocked out... approaching day two," the captain put the
+  cumulative count at **about 96** toward a count referenced only as hitting
+  some kind of mark (ASR-uncertain phrase, exact term not resolved). Day's
+  bluefin grade: **20–30 lb, about 25 lb average**, worked on **20 lb
+  fluorocarbon leader** to **No. 4 and No. 2 hooks** — a caution on the No. 4s
+  specifically: some run **light wire**, so a **stouter No. 4** was
+  preferred, since even at the **25–30 lb line test** also mentioned on
+  camera there's still enough pressure on the hook to matter (kept beside,
+  not reconciled with, the wire-gauge guidance in
+  [hooks](../tackle/hooks.md)).
 - **Observed** (StokedOnFishing, video uploaded 2025-02-19, trip date not
   stated — `zBd1mayUt_I`, "Big Bluefin & Yellowtail on the Ranger 85," part 3
   of a 3-day charter aboard the 85 ft **Ranger 85**, running from Cortez Bank

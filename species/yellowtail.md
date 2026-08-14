@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk]
 confidence: high
 ---
 
@@ -150,6 +150,28 @@ typical-year mapping.
   trip rather than bluefin; full rig detail, the crew's "they buy double
   trouble all the time" call, and the hooking/line-class notes are logged in
   [double trouble rig](../rigging/double-trouble-rig.md).
+  **Observed** (StokedOnFishing, video uploaded 2025-02-12, trip date not
+  stated — `QSvzVHW9UMk`, "Epic Bluefin Fishing Aboard the Ranger 85!," part 2
+  of the same 3-day charter aboard the 85 ft **Ranger 85** as the
+  `zBd1mayUt_I` part-3 entry immediately below (released one week earlier);
+  Cortez Bank, SoCal; unregistered channel — medium confidence): a "Cortez
+  Yellow Tail" was landed on camera on **standard
+  [surface iron](../techniques/surface-iron.md)** action, narrated over an
+  earlier missed hookup on what the crew called a big yellow before the fish
+  showed (single narrator voice on camera — not confirmed as a separate
+  angler). This catch came before the boat dropped anchor at a hotter spot
+  later that same session (see [bluefin tuna](bluefin-tuna.md)); once
+  anchored there, the captain called out positioning for the yellowtail
+  bite: with the **current pulling down the
+  left-hand side** of the boat, he told anglers to spread out along that
+  side — including starting from the bow — rather than all casting from the
+  stern and ending up stacked on top of each other; the same briefing
+  suggested a **[yo-yo jig](../techniques/yo-yo-iron.md)** for yellowtail
+  sitting toward the bottom. A short crew speech on working as a team (share
+  the rail, go underneath rather than casting over someone already fighting
+  a fish) accompanied the positioning call — a further crowded-rail
+  etiquette data point beside the casting-etiquette note already logged in
+  [surface iron](../techniques/surface-iron.md#the-cast).
   **Observed** (StokedOnFishing, video uploaded 2025-02-19, trip date not
   stated — `zBd1mayUt_I`, "Big Bluefin & Yellowtail on the Ranger 85," days
   two–three of a 3-day charter aboard the 85 ft **Ranger 85**; a different
