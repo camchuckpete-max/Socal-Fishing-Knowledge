@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk]
 confidence: medium
 ---
 
@@ -317,6 +317,24 @@ gamefish a sea lion is stealing boatside, not just bluefin.
   before the sea lion returns. Outcome in this instance: the sea lion won —
   the yellowtail was lost, leaving the boat "in the negative" on
   catch-to-hook ratio that morning.
+- **Observed** (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal —
+  `Klfb433I3Uk`, "A Day of San Clemente Island Yellowtail Fishing";
+  unregistered channel — medium confidence): two further data points from a
+  different trip/crew, both about avoiding a seal encounter rather than
+  reacting once one is already underway.
+  - **Preventive tactic, before a fish is even hooked:** crew described
+    "psychological" tricks for keeping a seal off an angler entirely — get
+    the seal looking one direction while fishing from the other side of the
+    boat, and **put the rod down out of sight once a fish is on**, on the
+    stated belief that seals "know" a bent rod means a hooked fish and move
+    in on it.
+  - **Preemptive free-spool call:** with a seal near an angler's line, live
+    coaching (to an angler addressed as "Odyssey") was to **free-spool as
+    soon as the seal comes close** and let the (not-yet-landed) hooked
+    yellowtail swim away from it, rather than wait for the seal to grab the
+    fish first — a preventive variant of the free-spool/slack trick logged
+    above, applied before contact rather than after. Outcome not confirmed
+    on camera (the crew's own response in the moment was "we'll see").
 
 ## Mola mola (sunfish) interference and a tail-wrapped fish broken off at the boat
 

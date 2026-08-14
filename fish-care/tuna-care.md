@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [tuna, bluefin, yellowfin, fish-care, ikejime, gaffing]
-sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA, mDmbGdQAy-4, Y1xeieQI3B4]
+sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA, mDmbGdQAy-4, Y1xeieQI3B4, Klfb433I3Uk]
 confidence: medium
 ---
 
@@ -60,6 +60,18 @@ walkthrough for a bluefin:
   **packing the cavity itself with ice and completely covering the fish** —
   consistent with, not a new step beyond, the bleed/field-dress-then-chill
   chain above; the explicit cavity-packing detail is the addition.
+- **Observed** (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal —
+  `Klfb433I3Uk`, "A Day of San Clemente Island Yellowtail Fishing";
+  unregistered channel — medium confidence; species: **yellowtail**, not
+  tuna — logged here as a cross-species bleed data point alongside this
+  note's tuna-specific chain, no dedicated bleed-and-chill note existing for
+  yellowtail): as soon as the fish is on deck, **cut the artery** (exact cut
+  location not specified beyond "down here" on camera) — framed on camera as
+  "almost all the fish's blood goes through this artery within a matter of
+  minutes" — then hold the fish **upside down in a bucket**. **~5 minutes**
+  was called out as enough for the blood to pump out; the fish then goes
+  **on ice**, framed on camera as ready for sashimi/sushi ("sushimi") at
+  that point.
 
 ## 3. Wet-towel cooldown before icing
 

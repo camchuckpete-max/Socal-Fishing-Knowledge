@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk]
 confidence: medium
 ---
 
@@ -270,6 +270,20 @@ bow-to-stern pull consistent with the up-and-into-casting-range mechanism
 above, this time at a kelp paddy rather than a yellowfin/skipjack chum stop.
 The paddy fish were also working **under birds** sitting on it — see
 [bird reading](../conditions/bird-reading.md).
+
+**Observed** (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal —
+`Klfb433I3Uk`, "A Day of San Clemente Island Yellowtail Fishing"; unregistered
+channel — medium confidence): a **seal-avoidance variant** on chumming with
+dead (not live) bait — distinct from the raise-the-school mechanism above. At
+the islands, throwing whole dead sardines overboard draws seals in
+immediately, so the crew's workaround was a dedicated **"chum buddy"** (chum
+bucket) device: dump the day's dead sardines into it and **smash them up**
+before any of it goes in the water, rather than pitching individual dead
+baits over the side. Broken into smaller pieces this way, the chum still
+"helps create smaller bait fish up and around the boat" without rallying
+seals to the boat the way whole dead bait does. Framed on camera as a good
+practice to start a stop with — get the chum going steadily rather than
+tossing occasional single dead sardines.
 
 ## Handling live squid without getting inked (StokedOnFishing, Y2bXn44lfqo)
 
