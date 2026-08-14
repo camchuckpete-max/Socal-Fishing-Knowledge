@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E]
 confidence: high
 ---
 
@@ -442,6 +442,59 @@ inshore rip-bait/rooster day is logged at the
 [jack crevalle](../species/pacific-crevalle-jack.md) East Cape 2020 entries.
 
 ## Magdalena Bay, Baja — inshore estuary/mangrove troll-and-cast, wind/chop fallback from offshore marlin
+
+**Observed** (StokedOnFishing, 2020-09-25 upload, Magdalena Bay, Baja
+California Sur — presenter Shea, aboard the 37 ft "Pro Cat" (twin 300s,
+~15 ft beam, 6-passenger trips), with local marlin-lure-company owner/guide
+Toby (**Mag Bay Lures** — company name corroborated by a separate
+StokedOnFishing video's on-camera reference to "Mag Bay lures and Mag Bay
+Resort down in Baja Mexico," `xzIaUEDklrE`; this video's own on-screen URL is
+too ASR-garbled to resolve) — `4t_Z75shK_E`, "One of the World's Best
+Offshore Fishing Destinations, Mag Bay"; same trip/crew as the `isXJONlpUP4`
+and `OVwqUKim9Pc` entries below — `isXJONlpUP4` opens "we rallied up seven
+days ago with Toby," tying the crew together, though the exact day-to-day
+sequence across the three videos is not confirmed on camera; unregistered
+channel — medium confidence):
+
+- **Post-wind lay-up.** Roughly three days of wind had just settled, but
+  wind picked up strong again the night before this shoot, and as a result
+  no boats had been out of Mag Bay for a couple of days before this trip — a
+  documented fleet-standdown-after-wind pattern, consistent in spirit with
+  (but a separate data point from) the wind/chop offshore-to-inshore
+  fallback decision logged in the `isXJONlpUP4` entry below.
+- **Offshore target mix.** The episode intro framed Mag Bay itself (not
+  specifically this day's catch) as loaded with striped marlin
+  ("everywhere"), plus a healthy wahoo and dorado population, "come fall
+  time" — upload date confirms fall 2020. In the pre-trip dockside
+  interview, lure-company owner/guide Toby described cedar plugs as the
+  crew's standard go-to once they get into tuna — general practice stated
+  before departure, not confirmed as an event of this specific day (no tuna
+  hookup shown on camera). See the
+  [striped marlin](../species/striped-marlin.md) Baja entry for Toby's
+  bait/lure-size heuristic from the same dockside interview.
+- **Wahoo transit lure.** One lure in the boat's kit was rigged with a
+  magnet holding the hook against the lure body so it "runs true" at speeds
+  up to **20 kt** — the stated reason for running it is that it can stay in
+  the water while the boat runs at transit speed between grounds, so a
+  wahoo can be picked up incidentally "in the middle of nowhere" without a
+  dedicated trolling spread slowing the boat down. The model name is not
+  confidently resolved from the ASR captions, so it is not carried as a
+  named product. This is the lure-company owner describing his own
+  product's performance on his own trip — a promotional claim — so per the
+  sponsored/promotional-claim rule it is capped at **low** confidence
+  regardless of the block's medium channel baseline.
+- **Dead-bait mouth-tie for slow-trolling.** A dead bait's mouth was tied
+  closed before slow-trolling it, with the stated purpose of keeping it
+  from taking on water through an open mouth so it stays more streamlined
+  and swims better — a rigging parameter for dead-bait slow-trolling not
+  otherwise logged in this corpus's Baja trolling entries.
+- **Opportunistic second-bait tactic.** While the crew was fighting an
+  already-hooked fish, another crew member dropped a dead bait back and
+  dragged it roughly **50 ft** behind the boat to try to draw a second bite
+  off the same activity, reasoning on camera that the boat was likely still
+  "in the zone" even with no visual confirmation of another fish nearby.
+  This particular attempt did not connect, but it is logged as a documented
+  double-up tactic distinct from the dedicated dead-bait program above.
 
 **Observed** (StokedOnFishing, 2020-10-07 upload, Magdalena Bay, Baja
 California Sur — Mag Bay Lodge, presenter Shea — `isXJONlpUP4`,

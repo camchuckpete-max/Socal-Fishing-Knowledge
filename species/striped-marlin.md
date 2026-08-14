@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E]
 confidence: medium
 ---
 
@@ -70,6 +70,22 @@ the water at the moment of the bite is not clearly identifiable on camera
 (the audio is too garbled to confirm lure or bait), so it is not logged as a
 targeted technique; distinct from the dedicated bait-and-switch program in
 the table above.
+
+**Observed (Baja, region label)** (StokedOnFishing, 2020-09-25 upload,
+Magdalena Bay, Baja California Sur — `4t_Z75shK_E`, "One of the World's Best
+Offshore Fishing Destinations, Mag Bay"; unregistered channel — medium
+confidence; distinct region from the SoCal doctrine above): the episode intro
+described striped marlin as abundant at Mag Bay in fall ("loaded with stripe
+marlin... they're everywhere"). Separately, in the pre-trip dockside
+interview, lure-company owner/guide Toby gave a general bait-to-lure-size
+heuristic — not tied to a specific confirmed catch on this trip: both
+mackerel and sardine bait balls are present at Mag Bay, and when marlin are
+feeding on the smaller sardines rather than mackerel, his striped marlin
+customarily hit smaller trolled lures, while the bigger lures in his spread
+are more for blue/black marlin (no blue/black marlin landed on camera this
+trip). Not evaluated elsewhere in this corpus for Baja marlin. See the
+[Magdalena Bay trolling entry](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin)
+for the full session (wind lay-up context, dead-bait rigging, wahoo lure).
 
 ## Gear summary (class terms)
 
