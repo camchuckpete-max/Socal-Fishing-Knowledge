@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc]
 confidence: medium
 ---
 
@@ -79,6 +79,15 @@ rather than a dedicated technique study.
   **5.5 kt**; a small sardine-profile hard bait (Rapala-class diver) cast and
   twitched behind the boat also drew bites, either alongside the trolled
   feathers or on its own.
+- **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
+  Clemente Island — unregistered channel, `medium`): a bonito bled promptly and
+  put on ice, then eaten sashimi-style, was judged very close to yellowfin
+  tuna in taste and texture — firmer/leaner on one side-by-side sample,
+  softer and fattier on the other, but "nobody would know" it wasn't tuna. The
+  presenter, who'd previously treated bonito as a fun-to-catch "trash fish,"
+  said the bleed-and-ice handling was what made the difference. Table-quality
+  observation, not technique doctrine — kept beside the measure-of-life
+  doctrine above rather than folded into it.
 
 <!-- backlinks:start -->
 ## Linked from

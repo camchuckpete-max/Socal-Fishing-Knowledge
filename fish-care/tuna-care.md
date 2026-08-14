@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [tuna, bluefin, yellowfin, fish-care, ikejime, gaffing]
-sources: [JeexIvtUkZc, w6DDCSLu8vM]
+sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc]
 confidence: medium
 ---
 
@@ -47,6 +47,13 @@ walkthrough for a bluefin:
   the slurry can then cool the carcass instead of fighting a bellyful of heat.
 - Paraphrase, judgment: the point is to strip out everything that carries heat
   and spoilage before chilling — the video shows exactly where to cut and pull.
+- **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
+  Clemente Island — unregistered channel, `medium`; species being bled not
+  clearly diarized in the transcript — the boat's catch that trip was a
+  yellowfin tuna and bonito): described the mechanism the same way as the
+  doctrine above — cutting/pulling the gill opens the bloodline, which bleeds
+  the fish out and also kills it faster — done immediately boat-side with the
+  fish going on ice right after.
 
 ## 3. Wet-towel cooldown before icing
 

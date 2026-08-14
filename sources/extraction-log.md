@@ -921,7 +921,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 2gHRrR3D8rY | StokedOnFishing | tutorial | parameter-skim | done | fish-care/dorado-and-general.md: halibut filleting storage/icing parameters merged as attributed source; spine-follow/skin-removal mechanics skipped as generic |
 | rJ-Omw4Ob74 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Halibut rig setup explicitly filmed in Alaska |
 | wALN3RpsSxU | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Anchor-retrieval buoy hack explicitly filmed in Alaska |
-| H-vIGWPIPVc | StokedOnFishing | on-the-water | parameter-skim | pending | San Clemente Island SoCal yellowfin/bonita catch-clean-cook; gill-bleed tip; sponsor-heavy intro |
+| H-vIGWPIPVc | StokedOnFishing | on-the-water | parameter-skim | done | fish-care/tuna-care.md; species/bonito.md; species/yellowfin-tuna.md: on-the-water observations added (gill-bleed mechanism, bonito table-quality vs yellowfin, SCI dolphin-pod troll-to-60lb-yellowfin) |
 | KPzJuwh6kbo | StokedOnFishing | non-fishing | skip:not-fishing | skipped | Pure tuna-steak marinade/cook recipe, no catch footage, sponsor-heavy intro |
 | z85Fy52itS8 | StokedOnFishing | non-fishing | skip:not-fishing | skipped | Pure rockfish ceviche recipe; fish caught in Alaska (mentioned only), no catch footage |
 | tzeXXPAjqUY | StokedOnFishing | tutorial | parameter-skim | pending | Seaguar mono-to-fluoro knot tie, generic |

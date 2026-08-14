@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, cameron]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, cameron]
 confidence: high
 ---
 
@@ -60,6 +60,14 @@ the bluefin nearby become more cooperative too.**
   the school can look empty from above even when it's holding fish — see the
   [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen)
   built specifically to get a bait down to them.
+- **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
+  Clemente Island — unregistered channel, `medium`): spotted a large
+  dolphin/"porpoise" school (see the porpoise-is-a-misnomer note above)
+  offshore of the island and ran up to troll around it with a deep-diving
+  hardbait (Nomad-class, sardine color) and a [cedar plug](../lures/cedar-plug.md);
+  the deep diver got bit and the boat landed a yellowfin of about **60 lb** —
+  an on-the-water instance of the troll-to-locate pattern in the table below,
+  triggered by working a dolphin school rather than a paddy or bird sign.
 - **Species-specific sonar signature with depth:** yellowfin school marks hold
   **up in the column — commonly ~40–50 ft down** — and **rise to chum**: two
   minutes of chumming a marked school pulls it up toward the surface and into
