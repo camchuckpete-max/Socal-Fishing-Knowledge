@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ]
 confidence: high
 ---
 
@@ -181,6 +181,22 @@ typical-year mapping.
   visually by bait "shattering" on the surface, prompting a direct cast — a
   visual sign data point alongside the sonar/structure sign already
   documented for this species.
+  **Observed** (StokedOnFishing, 2023-11-09 upload, La Paz, Baja California
+  Sur — Baja Rancheros fishing fleet, guide Felipe, `92y14x33etQ`, "Beyond
+  Expectations: Stoked On La Paz"; third/final video of the same first La
+  Paz trip as the `ORC1A68cEeM`/`qM7iOO7fOBw` entries above, framed on camera
+  as "wrapping up" a two-week stay; unregistered channel — medium
+  confidence): after a quiet bottom stop for snapper/cabrilla off Isla
+  Espíritu Santo ("they just were not chewing"), the fleet ran to a named
+  high spot the crew calls **"El Bajo"** (shallowest point roughly **50 ft
+  on low tide, no more than 80 ft on high tide**) and produced multiple
+  yellowtail on **slow-trolled mackerel dropped to the bottom, then lifted
+  by the ongoing troll** — full technique and gear detail, including the
+  **65 lb braid to 60 lb fluorocarbon** top shot, logged in
+  [trolling](../techniques/trolling.md#la-paz-baja-california-sur-sea-of-cortez-side--dropped-bait-slow-troll-for-yellowtail-at-a-bank-high-spot).
+  The crew stopped keeping fish and released the rest of the yellowtail once
+  they judged the day's box (three bags, run through the dock's
+  clean/fillet/vacuum-seal/freeze service) was full.
 - **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips

@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ]
 confidence: high
 ---
 
@@ -145,6 +145,14 @@ day's bait-making ran as a two-species program before running to the day's
 No sabiki hook count, line rating, or sinker weight was given on camera for
 the mackerel jigging — logged as a location/routine data point, not a rig
 spec.
+
+**Observed** (StokedOnFishing, 2023-11-09 upload, La Paz, Baja California
+Sur — Baja Rancheros fishing fleet, `92y14x33etQ`, "Beyond Expectations:
+Stoked On La Paz"; final day of the same first La Paz trip as the entry
+above; unregistered channel — medium confidence): bait-making that morning
+ran in **15–20 mph wind out of the north** — the crew's only stated
+condition for the session, no gear or count detail beyond the bait-first
+routine already logged above.
 
 ## Dedicated sabiki setup (building)
 

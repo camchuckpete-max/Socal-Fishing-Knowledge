@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ]
 confidence: high
 ---
 
@@ -478,6 +478,50 @@ program that follows is entirely the jurel/yellowtail troll.
   crew fished, not a claim about shallow-water yellowtail fishing generally.
 
 See the [yellowtail](../species/yellowtail.md) Baja coast entry for the
+species-level cross-reference to this same trip.
+
+## La Paz, Baja California Sur (Sea of Cortez side) — dropped-bait slow-troll for yellowtail at a bank high spot
+
+**Observed** (StokedOnFishing, 2023-11-09 upload, La Paz, Baja California
+Sur — Baja Rancheros fishing fleet, guide Felipe, `92y14x33etQ`, "Beyond
+Expectations: Stoked On La Paz"; third/final video of the same first La Paz
+trip as the `ORC1A68cEeM` (day 1, above) and `qM7iOO7fOBw` (day 2, in
+[flyline](flyline.md#la-paz-baja-california-sur-sea-of-cortez-side--open-water-mackerel-flyline-at-a-shared-high-spot))
+entries — the crew frames this session as "wrapping up" a two-week stay;
+unregistered channel — medium confidence): after a bottom-fishing stop for
+snapper/cabrilla at rock structure off Isla Espíritu Santo went quiet ("they
+just were not chewing... no current whatever"), the fleet ran to a named
+bank the crew calls on camera **"El Bajo"** — described as the area's most
+famous high spot, shallowest point roughly **50 ft on low tide, no more than
+80 ft on high tide** (spot name also heard as "El Elito"/"El Bajito" —
+**asr-uncertain**, not confidently resolved to one spelling).
+
+- **First presentation — dropped bait on the bottom.** With mackerel bait
+  already made (see [making bait](../bait/making-bait.md#la-paz-baja-california-sur--mackerel-and-sardine-bait)),
+  the crew dropped baits straight to the bottom on a weighted rig (called a
+  "D-rigger" on camera — rig format not otherwise specified on camera)
+  fishing the high spot for amberjack and yellowtail.
+- **Second presentation — slow-trolling the same mackerel over the bank.**
+  The crew then worked the spot slow-trolling live/fresh mackerel: let out
+  roughly **10 yards** of line, then dropped the weight straight to the
+  bottom (not stopped halfway); once it touched down, the ongoing troll
+  speed lifted the bait back up off bottom on its own rather than the angler
+  cranking it in — presenting the bait "out the back in the high column
+  zone" rather than dragging bottom continuously. This produced multiple
+  hookups called on camera as yellowtail.
+- **Line class for this program:** **65 lb braid** to a **60 lb
+  fluorocarbon** top shot — a similar-order rig to the ~65 lb braid/60 lb
+  mono top shot pairing logged for day 2's flylining at a different La Paz
+  spot in [flyline](flyline.md#la-paz-baja-california-sur-sea-of-cortez-side--open-water-mackerel-flyline-at-a-shared-high-spot),
+  kept as a separate data point rather than merged (different day, different
+  presentation).
+- **Catch-and-release once the box was full.** Once the crew judged they had
+  "enough" — three bags' worth, run through the dock's
+  clean/fillet/vacuum-seal/freeze service — they stopped keeping fish and
+  released the rest of the yellowtail caught that session ("you know when
+  you got enough you got enough").
+
+See the [yellowtail](../species/yellowtail.md) La Paz entry for the
 species-level cross-reference to this same trip.
 
 ## Resetting a long-set-back line after kelp — a drill-powered crank

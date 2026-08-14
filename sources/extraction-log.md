@@ -1034,7 +1034,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | xFS3MW4GpDU | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; rigging/leadhead-mods.md; species/white-seabass.md / on-the-water/parameter-skim: broodstock program depth ceiling (<60ft/40ft typical, air-bladder sensitivity), May/June migration |
 | ORC1A68cEeM | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/yellowtail.md; techniques/trolling.md / La Paz, BCS observations: guide-led bait-making (mackerel jigging + purchased sardines) and shallow-water (12ft) live-bait slow-tro |
 | qM7iOO7fOBw | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/flyline.md / StokedOnFishing La Paz (day 2) Observed entries: dorado school-holding corroboration (third region), yellowtail/cabrilla/dorado/pargo  |
-| 92y14x33etQ | StokedOnFishing | on-the-water | observations-only | pending | La Paz Baja, Espiritu Santo island snapper/grouper on live bait |
+| 92y14x33etQ | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/yellowtail.md; techniques/trolling.md / StokedOnFishing La Paz/Espiritu Santo: bait-wind note, El Bajo dropped-bait/slow-troll yellowtail Observed section (65lb braid/60lb |
 | haJ3BancQDI | StokedOnFishing | promo | skip:promo | skipped | Short Okuma Alijos lever-drag reel product highlight clip |
 | YUdbrIm9vrE | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja Oct trip, multi-species yellowtail/tuna/dorado/halibut |
 | A8SuzB5qiKE | StokedOnFishing | on-the-water | observations-only | pending | Cedros Baja Oct trip, yellowtail/tuna/dorado/calico/sheephead/halibut |
