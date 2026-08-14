@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw]
 confidence: high
 ---
 
@@ -68,6 +68,29 @@ the bluefin nearby become more cooperative too.**
   the deep diver got bit and the boat landed a yellowfin of about **60 lb** —
   an on-the-water instance of the troll-to-locate pattern in the table below,
   triggered by working a dolphin school rather than a paddy or bird sign.
+- **Observed** (StokedOnFishing, `tU4jhAkdzNw`, 2017-05-11 upload, "Top Gun 80
+  Epic 5 Day, part 3," SoCal islands (exact zone not named on camera), 5-day
+  charter aboard the Top Gun 80, captain/crew credited on camera as Stan
+  Vanderburgh; unregistered channel — medium confidence): this episode's own
+  footage narrates a strong yellowfin afternoon on the filmed day itself —
+  "it's been a good afternoon, here we picked about 50 yellowfin and the
+  bites still going into the dark" — a count-only data point (no grade given
+  on camera), with live squid the bait working well through that stretch.
+  Separately, the episode's recap of the prior installment (part 2, footage
+  not in this video) described a morning **80–90 lb** bluefin bite (see
+  [bluefin tuna](bluefin-tuna.md#where--when)) switching into a **wide-open
+  yellowfin tuna bite** that the narration says put the boat "into a complete
+  circus." The trip's closing wrap-up lists trophy bluefin, some anglers'
+  personal bests, wide-open yellowfin bites, and a closing yellowtail bite as
+  trip highlights in sequence; the source doesn't clearly tie "personal best"
+  to any one of those species (an on-camera personal-best callout earlier in
+  this same footage falls in what reads as the bluefin stretch, not a
+  confirmed yellowfin one), so that phrase is not asserted here as a
+  yellowfin-specific claim. Kept beside, not equated with, the existing
+  yellowfin-fires-the-bluefin doctrine below (that doctrine is yellowfin
+  activity signaling bluefin cooperation; here the recap sequence ran bluefin
+  first with yellowfin following, and the source doesn't establish either
+  fish's activity as causing the other's).
 - **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2018-12-17
   upload, offshore of Ensenada, Baja California — `0bcDBGzQnGw`, "Fishing In
   Baja with Navico & Tito Ortiz, Part 1"; unregistered channel — medium
@@ -224,6 +247,7 @@ the bluefin nearby become more cooperative too.**
 
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
+- [Bluefin Tuna](bluefin-tuna.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

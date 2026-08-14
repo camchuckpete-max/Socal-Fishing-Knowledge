@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw]
 confidence: high
 ---
 
@@ -230,6 +230,19 @@ typical-year mapping.
   mouth, and a general crew caution on bluefin cutting off on any abrasion
   point during the fight) is logged in
   [bluefin tuna](bluefin-tuna.md#where--when).
+  **Observed, corroborating "Home Guard" as shared fleet terminology, a
+  different boat/crew** (StokedOnFishing, `tU4jhAkdzNw`, 2017-05-11 upload,
+  "Top Gun 80 Epic 5 Day, part 3," SoCal islands (exact zone not named on
+  camera), 5-day charter aboard the **Top Gun 80**, captain/crew credited on
+  camera as **Stan Vanderburgh** — distinct from the El Dorado/Captain TJ trip
+  above; unregistered channel — medium confidence): the trip's final day
+  closed on a last-minute afternoon bite the narration calls "full-speed,"
+  which "puts the beatdown on some anglers and their gear," and the closing
+  wrap-up names the fish caught as **"Home Guard" yellowtail** — the same term
+  used by the El Dorado/Captain TJ crew above, from a different boat and
+  captain, supporting "Home Guard" as shared SoCal sportboat-fleet usage for
+  resident yellowtail rather than one crew's idiom. Grade and bank/zone not
+  given on camera for this bite.
   **Observed** (StokedOnFishing, video uploaded 2025-02-12, trip date not
   stated — `QSvzVHW9UMk`, "Epic Bluefin Fishing Aboard the Ranger 85!," part 2
   of the same 3-day charter aboard the 85 ft **Ranger 85** as the

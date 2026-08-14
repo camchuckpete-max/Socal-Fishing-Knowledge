@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw]
 confidence: medium
 ---
 
@@ -193,6 +193,27 @@ traveling dolphin pods.
   getting the rod loaded up immediately on the drop rather than fishing with
   slack line, calling a bent rod the point of the whole exercise on this bite.
 
+## A lighter sliding-sinker variant — trip-tips segment (StokedOnFishing)
+
+**Observed** (StokedOnFishing, `tU4jhAkdzNw`, 2017-05-11 upload, "Top Gun 80
+Epic 5 Day, part 3," SoCal islands (exact zone not named on camera), 5-day
+charter aboard the Top Gun 80; unregistered channel — medium confidence): a
+trip-tips segment framed around fishing **big, picky bluefin** gave a much
+lighter build than the torpedo-sinker rigs logged above — a **40 lb
+fluorocarbon top shot, 4–5 ft** long, with a **half-ounce sliding sinker**
+riding **above the fluorocarbon** (free-riding above the leader connection,
+the same position concept as the [sliding-sinker/Carolina
+rig](../techniques/sliding-sinker.md), not a tied-inline or rubber-banded
+torpedo weight) — far lighter than the 4–8 oz torpedo sinkers documented
+above; kept side by side as a distinct, lighter build, not a confirming data
+point for them. Small hooks were called out as working best, sized **No. 2 or
+No. 3 circle hooks**, with the segment stressing a corner-of-the-mouth
+hookset and telling anglers to listen for the captain's called depth and
+judge for themselves how far down to drop the bait. (The transcript renders a
+stray "9" immediately before "small hooks work best" — almost certainly an
+ASR mis-transcription of a filler word, not a stated hook count; not carried
+as a parameter.)
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=sYrsPGXiYhI
@@ -209,5 +230,6 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

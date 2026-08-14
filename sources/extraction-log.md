@@ -1109,7 +1109,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | YcLMhI5kzBo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga part 3, marlin/yellowfin, local cooking segment |
 | SGbynqaiHdY | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/rockfish-lingcod.md / Save The Brave charity charter Observed blocks added (rig params/fallback rockfishing, depth/structure, mid-session reposition); triage-mismatch fl |
 | rsCAh-QyK60 | StokedOnFishing | on-the-water | parameter-skim | done | species/bluefin-tuna.md; techniques/fighting-big-bluefin.md; techniques/kite-fishing.md / 3 Observed blocks added (272lb kite-caught bluefin; kite height/distance/troll-speed params; small-boat-vs-yac |
-| tU4jhAkdzNw | StokedOnFishing | on-the-water | observations-only | pending | Top Gun 80 5-day pt3, SoCal islands; series: Top Gun 80 Epic 5 Day part 3; bluefin/yellowfin/yellowtail |
+| tU4jhAkdzNw | StokedOnFishing | on-the-water | observations-only | done | rigging/rubber-band-deep-rig.md; species/bluefin-tuna.md; species/yellowfin-tuna.md; species/yellowtail.md / Top Gun 80 pt3 Observed entries: sliding-sinker trip-tip variant, AM bluefin/PM yellowtail  |
 | 3T4c3Zez_DM | StokedOnFishing | on-the-water | observations-only | pending | Top Gun 80 5-day pt2, SoCal (SCI); series: Top Gun 80 Epic 5 Day part 2; bluefin then yellowfin/yellowtail |
 | Rb5I2ljAqeE | StokedOnFishing | on-the-water | observations-only | pending | Top Gun 80 5-day pt1, SoCal (West End/SCI); series: Top Gun 80 Epic 5 Day part 1; squid bait, bluefin 40-90lb |
 | mpcSgkQvIzg | StokedOnFishing | tutorial | parameter-skim | pending | Worm knot: mono topshot to Bimini twist, wrap count & fast field-retie method |

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw]
 confidence: high
 ---
 
@@ -485,6 +485,27 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   bait-hooking data point from the same footage logged in
   [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation).
 
+- **Observed** (StokedOnFishing, `tU4jhAkdzNw`, 2017-05-11 upload, "Top Gun 80
+  Epic 5 Day, part 3," SoCal islands (exact zone not named on camera), 5-day
+  charter aboard the **Top Gun 80**, captain/crew credited on camera as **Stan
+  Vanderburgh**; unregistered channel — medium confidence): this episode's own
+  footage put a **40–50 lb** bluefin bite first thing in the morning, a good
+  yellowfin afternoon in between — "it's been a good afternoon, here we
+  picked about 50 yellowfin and the bites still going into the dark" (count
+  only, no grade given on camera) — and a last-minute afternoon yellowtail
+  bite closing the trip (see [yellowtail](yellowtail.md#where--when) and
+  [yellowfin tuna](yellowfin-tuna.md#finding-them-sign--sonar) for the
+  yellowfin detail). The episode's recap of the prior installment (part 2,
+  not this footage) separately described an **80–90 lb** bluefin bite that
+  morning switching into a wide-open yellowfin tuna bite (see
+  [yellowfin tuna](yellowfin-tuna.md#where--when)). Live squid worked well as
+  bait across the trip ("the live squid have been doing really well for us
+  lately"), with the crew stacking up squid bait one night for a planned full
+  day of live-squid fishing the next. Kept beside, not folded into, the other
+  StokedOnFishing SoCal bluefin grade data points already logged in this note.
+  A trip-tips segment from the same video gives a lighter sliding-sinker
+  flyline build for picky bluefin, logged in
+  [rubber-band deep rig](../rigging/rubber-band-deep-rig.md).
 - **Observed** (StokedOnFishing, `rsCAh-QyK60`, 2017-06-06, launched from
   Shelter Island/San Diego Bay, fished roughly **40 mi off San Diego**, SoCal,
   aboard a 22 ft center console boat; unregistered channel — medium
@@ -754,6 +775,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)

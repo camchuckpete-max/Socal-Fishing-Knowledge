@@ -209,6 +209,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
