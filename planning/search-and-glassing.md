@@ -1,7 +1,7 @@
 ---
 type: planning
-tags: [glassing, binoculars, search, anchoring, birds]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron]
+tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw]
 confidence: high
 ---
 
@@ -65,6 +65,31 @@ Once you've found the water, where you drop the hook depends on what you're afte
   boat to read the true current before you commit. The mechanism is in
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
+
+## Inshore/kayak zone-and-spot search (bay / back-bay)
+
+A distinct method from the offshore glassing protocol above — for working a bay
+or back-bay from a kayak (or any fixed-position small-boat/shore approach),
+worked out on [spotted bay bass](../species/spotted-bay-bass.md) but generic to
+any structure-oriented inshore species (Roman Castro, 6L8nIFeqvkw, 2019-04-24;
+medium confidence):
+
+- **Zones and spots.** A **zone** is a stretch of connected structure — bounded
+  by a gap in usable structure or a traverse (a bridge, a featureless stretch of
+  dock). A **spot** is smaller: your casting range from one fixed position (a
+  kayak holding station).
+- **Working a spot.** Take **10–15 casts** testing deep water first, then
+  shallow, varying the angle, before ruling a spot empty. Once you connect,
+  **cast the same spot at least 2 more times** before moving on — structure fish
+  loosely cluster, so one bite often means several more sitting right there.
+- **Chaining spots.** Place each new spot so it **overlaps the edge of the
+  last** rather than leaving gaps, and lean the next spot toward whichever side
+  (shallower/deeper, up-zone/down-zone) actually produced bites, abandoning the
+  side that didn't.
+- **Changing zones.** If the next zone's topography is completely different
+  from the last (e.g. a dock replacing an eelgrass shoreline), restart the
+  pattern from spot one instead of carrying forward what worked in the previous
+  zone.
 
 ## Sportboat bow play
 

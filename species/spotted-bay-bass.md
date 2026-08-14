@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw]
 confidence: high
 ---
 
@@ -72,6 +72,13 @@ General method: [search & glassing](../planning/search-and-glassing.md).
   patch. After a bite, work that same spot and the water immediately around it a
   few more casts before moving on (spearfishing/diver observation, Roman Castro,
   EGKesj7V64M, 2019-06-18; medium confidence).
+- **Zone → spot search pattern (kayak):** break the water into zones (connected
+  structure stretches) and each zone into spots (casting range from one fixed
+  position); work a spot deep-then-shallow before ruling it empty, and lean
+  each new spot toward whichever side is producing. Full method (cast counts,
+  overlap, and when to restart the pattern) is in
+  [search & glassing](../planning/search-and-glassing.md) (Roman Castro,
+  6L8nIFeqvkw, 2019-04-24; medium confidence).
 - **Read grass color, not just grass presence:** brown, decaying eelgrass is
   releasing CO2 as it dies, so that water runs less oxygenated; green,
   photosynthesizing grass is producing oxygen. If you snag brown grass, move to a

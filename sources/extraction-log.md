@@ -798,7 +798,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | fhv45utuKgQ | Roman Castro | on-the-water | skip:no-usable-content | skipped | Near-silent 300lb+ bluefin catch/fight footage, mostly music/yelling, no technique commentary |
 | OQAZTZq-6-k | Roman Castro | on-the-water | skip:no-usable-content | skipped | Near-silent bluefin catch-fight footage, mostly music/applause, no usable commentary |
 | EGKesj7V64M | Roman Castro | tutorial | deep | done | lures/bay-bass-plastics.md; species/spotted-bay-bass.md; techniques/drop-shot.md / 5 tips extracted (hookset-on-slack, swings-are-free, glue rigging tip, drag-and-pause retrieve, slack-window/current- |
-| 6L8nIFeqvkw | Roman Castro | tutorial | deep | pending | 50-min spotted bay bass walkthrough: tackle, cast/retrieve, zone-search pattern, bite detection, hookset, lure tips |
+| 6L8nIFeqvkw | Roman Castro | tutorial | deep | done | lures/bay-bass-plastics.md; planning/search-and-glassing.md; species/spotted-bay-bass.md; techniques/ned-rig.md / tackle combo, retrieve mechanics, bite/hookset, hook-rotation lure tip; kayak zone/spo |
 | G6YRT4HNxr8 | Roman Castro | tutorial | parameter-skim | pending | A-rig/umbrella rig setup: arm-bending for spread, saltwater vs freshwater hook-count note, Palomar knot over rig |
 | xEqFwPJ2zFk | Roman Castro | on-the-water | skip:thin-generic | skipped | Channel recap/best-of-2018 montage; brief Baja B-roll clip, Coronado Is. mention |
 | wysZwsjAkVs | Roman Castro | on-the-water | skip:thin-generic | skipped | Kayak-rental logistics/affiliate promo dominated; sponsor-heavy (Eco Boat Rentals affiliate deal) |

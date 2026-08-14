@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw]
 confidence: medium
 ---
 
@@ -67,6 +67,24 @@ A drop of super glue between a jighead and a soft-plastic body (Ned/fluke/
 paddletail) stops the bait sliding down the hook shank when a fish grabs it
 off-center — a loose bait rides low on the hook and misses the hookset (Roman
 Castro, EGKesj7V64M, 2019-06-18; medium confidence).
+
+## Rigging tip — rotate the hook position to stretch one bait further
+
+On a thin-wire Ned hook, repeated hooksets stretch and eventually tear the
+plastic right at the hook bend; once torn there, the stretch point moves past
+the hook and a fish gets more slack material to mouth before it reaches metal —
+a hookup killer. Rather than replace the bait at the first tear, **re-seat the
+hook through a fresh, untorn spot** — rotate around the body (top, belly, one
+side, the other side, roughly a quarter turn each time) until the first end is
+used up, then flip the bait around and repeat on the other end. Roman Castro
+reports getting roughly **10–20 fish per hook position**, so a single
+durable-plastic bait (TRD or similarly built) can land on the order of **100
+fish** across all the rotations before it's spent — he went through the 100-spotty
+session on one bait, having lost two other rigged baits to a bad hookset and a
+snag. A thin-wire hook is why the tearing happens at all; Z-Man's
+**PowerFinesse** Ned combo uses a slightly thicker, taller-gap hook that's
+reported to tear the bait less (Roman Castro, 6L8nIFeqvkw, 2019-04-24; medium
+confidence).
 
 ## Owned examples
 
