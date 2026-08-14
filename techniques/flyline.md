@@ -571,6 +571,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
+- [California Sheephead](../species/sheephead.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

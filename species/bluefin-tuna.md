@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0]
 confidence: high
 ---
 
@@ -133,6 +133,29 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   A kite-fished double-trouble sardine rig on this trip landed a big
   yellowtail rather than bluefin — see [yellowtail](yellowtail.md) and
   [double trouble rig](../rigging/double-trouble-rig.md).
+- **Observed** (StokedOnFishing, `eL1Qm33-Mj0`, uploaded 2025-03-31, "25
+  Anglers. 2.5 Days Offshore… Then the Big Tuna Started Biting"; unregistered
+  channel — medium confidence): part 1 of the same two-part Cortez Bank
+  series as the `nQvJnfb5jQ4` entry directly above — same 85 ft **El
+  Dorado**, Captain TJ, out of **Long Beach**, this half uploaded three
+  weeks earlier (2025-03-31 vs. 2025-04-30), consistent with being the
+  first-released footage of that trip. Asked on camera how long the bite had
+  been developing, TJ described the fish holding **outside the bank for
+  several days, close to a week**, with a further **10 to 14 days** passing
+  before they pushed in close enough for the boat to anchor directly on the
+  bank and fish it at anchor — a build-up timeline worth logging alongside
+  the anchored-bite results already recorded above from the same trip.
+  Fish landed during the opening bite, explicitly called a "fly line day"
+  on camera, were yellowtail, a bluefin (grade not resolved beyond a single
+  **20–30 lb** call), and an incidental **sheephead**, all flylined — see
+  [sheephead](sheephead.md). The session then shifted to casting iron
+  (introduced on camera as "iron throwing"; a subsequent hookup was fought
+  and landed on a confirmed **treble hook**, not the flyline circle-hook
+  rig), producing further yellowtail/bluefin hookups with grade not
+  resolved. Mid-trip casting-etiquette guidance from that iron-casting
+  stretch — cast away from, not on top of, a hooked angler or a knot of
+  anglers already fighting fish, to avoid tangling their fish — is logged
+  in [surface iron](../techniques/surface-iron.md#the-cast).
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
@@ -316,6 +339,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Trolling](bluefin-trolling.md)
+- [California Sheephead](sheephead.md)
 - [Chunking](../techniques/chunking.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0]
 confidence: high
 ---
 
@@ -47,6 +47,15 @@ the blank.
   one-motion lob (bring the jig down to about handle height, release in one
   motion) — safe in tight quarters, at the cost of distance. Always look
   behind you before casting on a crowded rail.
+  **Observed** (StokedOnFishing, `eL1Qm33-Mj0`, uploaded 2025-03-31, Cortez
+  Bank, SoCal, aboard the El Dorado out of Long Beach; unregistered channel
+  — medium confidence): mid-trip, anglers were coached to watch the
+  **direction** they cast, not just look behind them — don't cast toward or
+  on top of a rail-mate (or a knot of anglers) who's already bent on a fish,
+  since a new lure landing in that fish's water tangles other lines and
+  costs the hooked angler his fish. A distinct crowded-rail hazard from the
+  behind-you/safety check above: this one is about not fouling someone
+  else's hookup, not about hitting a person with the cast.
 - **Distance is secondary to placement.** Landing the jig ON moving fish beats
   maximizing cast distance — a 75 yd cast at fish sitting only 40 yd out
   overshoots them for no benefit. When a school is moving (e.g. tracking under

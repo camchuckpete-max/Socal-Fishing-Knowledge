@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sheephead, structure, artificial-reef, chum, bottomfish, socal, beginner-friendly]
-sources: [OSbAHdB4uPs]
+sources: [OSbAHdB4uPs, eL1Qm33-Mj0]
 confidence: medium
 ---
 
@@ -32,6 +32,16 @@ Saltwater Guide, OSbAHdB4uPs, 2021-01-12).
 - **Conditions:** bites turn on once **chum is in the water** — the source
   opens the video on chummed artificial reefs producing sheephead, sargo, and
   small bass together.
+- **Observed** (StokedOnFishing, `eL1Qm33-Mj0`, uploaded 2025-03-31, Cortez
+  Bank, SoCal, aboard the El Dorado, Captain TJ, out of Long Beach —
+  unregistered channel — medium confidence): a sheephead was landed on a
+  **flylined** bait early in the morning bite, incidental bycatch on a trip
+  otherwise targeting yellowtail and bluefin at anchor on an offshore bank —
+  see [flyline](../techniques/flyline.md) and
+  [bluefin tuna](bluefin-tuna.md#where--when) for the rest of that trip. A
+  data point that sheephead can show up as bycatch even on an offshore
+  high-spot pelagic trip, not only the inshore artificial-reef/chum program
+  this note otherwise documents.
 
 ## Finding them (sign & sonar)
 
@@ -89,8 +99,10 @@ glassing](../planning/search-and-glassing.md),
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Tuna](bluefin-tuna.md)
 - [Chunking](../techniques/chunking.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ocean Whitefish](ocean-whitefish.md)
