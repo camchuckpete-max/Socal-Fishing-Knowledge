@@ -28,3 +28,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T01:28:01Z — r6j5w40fVHI — evaluator-escalate
 - run: 31753705275
 - reason: patch introduces a regulatory claim (CA/CDFW calico bass 14in minimum legal size); confirm the size is still current before treating as verified
+
+## 2026-08-14T01:36:35Z — ty8FtA3Y2bA — evaluator-escalate
+- run: 31760905119
+- reason: Cameron should review the 10-inch minimum-size claim in fish-care/sculpin-handling.md — it's a regulatory claim (CDFW size limit) sourced from a 2022-04-16 video and needs a current-regs check before the KB relies on it

@@ -808,7 +808,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | ohR9DeBOU9E | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic sand bass filleting demo, no conditions/decision content |
 | r6j5w40fVHI | Your Saltwater Guide | tutorial | single-pull | done | species/calico-bass.md / added CA/CDFW 14in calico bass legal-size fact (dave-hansen) to Doctrine & conflicts |
 | VUb7a3sP8zQ | Your Saltwater Guide | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic dehooking technique (gill-opening method) has no compliant destination at parameter-skim depth (router-absorption/no new-note-creation rules); the only calico-specif |
-| ty8FtA3Y2bA | Your Saltwater Guide | tutorial | deep | pending | Sculpin/venomous handling: thumb-in-lip grab, spine locations, 10in min size, meat quality |
+| ty8FtA3Y2bA | Your Saltwater Guide | tutorial | deep | done | fish-care/sculpin-handling.md: new fish-care note: thumb-in-lip unhooking technique, full spine map, bacteria/pain warning, 10in CDFW min-size regulatory claim, table quality |
 | k80p1ShSvZs | Your Saltwater Guide | tutorial | parameter-skim | pending | Twin-screw docking mechanics: no throttle, engine-combo bow control, drift-in technique |
 | 3dVc-2rsYII | Your Saltwater Guide | tutorial | deep | pending | Surface iron for calico: cast release point, slow-med retrieve, wind-not-swing hookset, tip-down |
 | I84uoay_jwQ | Your Saltwater Guide | tutorial | deep | pending | Sponsor gaff video but dense: hook size by species/weight, pec-gaff-flip-upside-down, no-dig-hole, safety |
