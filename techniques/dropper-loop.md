@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc]
 confidence: high
 ---
 
@@ -68,6 +68,10 @@ rig format, not a dropper loop (hook above a fixed-position sinker); it does
   [sliding-sinker](sliding-sinker.md) rig — more lines in the water, more bites.
 - **Work it** by lifting to keep the sinker ticking bottom as you drift over
   marks, then letting it settle back so the bait re-wafts on the drop.
+- **The retrieve once you're hooked up: slow, steady wind, all the way to the
+  surface.** No jerking, no pumping — jerk-and-wind-fast winds the fish right
+  off the hook. Just a slow steady wind, nice and easy (Capt. Dave Hansen,
+  Your Saltwater Guide, San Clemente Island, 2022-02-11, U-dGRQ0X-Mc).
 
 **Cameron:** fishes the **September BOLA program** with dropper loops (and
 [yo-yo iron](yo-yo-iron.md)) for **yellowtail that are holding on the bottom**
