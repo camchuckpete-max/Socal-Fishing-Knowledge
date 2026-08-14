@@ -832,7 +832,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | rwfjUa4zsyY | Your Saltwater Guide | on-the-water | observations-only | done | none: nothing extractable — auto-captions are near-total garbage (mostly music/applause tags), one fragment unresolvable without inventing context |
 | frX09YMQxKE | Your Saltwater Guide | on-the-water | observations-only | done | techniques/flyline.md / Added third Mag Bay mangrove data point (Lopez Mateos, 2022-01-28) as an Observed block corroborating precision bait-placement doctrine; no new notes, no doctrine changed |
 | 67qLBEtd3EU | Your Saltwater Guide | on-the-water | skip:duplicate-of-KTsXdQXAnkU | skipped | confirmed: identical dialogue/duration(7:07) to primary calico bass video, same recording |
-| vyX5FGoDH0A | Your Saltwater Guide | on-the-water | observations-only | pending | Baja (Lopez Mateo mangroves); snook/grouper/spotted bay bass catch footage, no doctrine |
+| vyX5FGoDH0A | Your Saltwater Guide | on-the-water | observations-only | done | techniques/flyline.md / on-the-water observations (snook wide-open bite, grouper->spotted-bay-bass correction, hook-loss-to-brush, ravallo/rubble asr note) appended as Observed block; no doctrine crea |
 | dlxA22FVNGc | Your Saltwater Guide | tutorial | deep | pending | Baja (Lopez Mateo mangroves); anchoring, stealth leader/hook choice, tide-phase bite-timing doctrine |
 | 5nTGoZ9_nzU | Your Saltwater Guide | non-fishing | skip:no-usable-content | skipped | Entire transcript is garbled nonsensical ASR (song lyrics), no recoverable fishing content |
 | Dq1x__MI8Wk | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Pure marlin filleting/cooking demo, no catch footage or location |

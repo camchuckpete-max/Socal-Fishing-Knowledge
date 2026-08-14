@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A]
 confidence: medium
 ---
 
@@ -187,6 +187,19 @@ rest of this note otherwise describes.
   slot, not general soak time, as what produced the bites, consistent with
   the bait-placement doctrine above. A local guide (Reuben, named as the
   boat's owner and a Lopez Mateos guide) ran the trip.
+- **Observed** (Your Saltwater Guide, 2022-01-26, Lopez Mateos, Magdalena Bay
+  — `vyX5FGoDH0A`; predates all three clips above — the earliest dated data
+  point yet logged for this Mag Bay mangrove series): a wide-open snook bite
+  on the sardina fly line, with multiple snook landed in quick succession.
+  The crew also boated a fish first called "grouper" on camera, then
+  corrected in the moment to spotted bay bass. Captions also render a fish
+  name inconsistently as "ravallo"/"rubble" (asr-uncertain — likely
+  "robalo," the Spanish name for snook, given the video's subject and
+  location, but not confidently resolved). One fish ran the bait into
+  shoreline brush and cost the crew a hook; by partway through the session
+  they noted they were down to their "last box" of hooks — a rough
+  illustration of the gear attrition that fishing tight to mangrove
+  structure produces.
 
 ## Mono top shot vs. straight braid — the depth mechanism
 
