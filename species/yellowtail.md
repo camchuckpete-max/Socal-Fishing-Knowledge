@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw]
 confidence: high
 ---
 
@@ -326,6 +326,25 @@ typical-year mapping.
   that window, with the tide also described as "off." The crew moved on to
   bottom fishing (slow-pitch jigging) rather than keep grinding the spot —
   see the [rockfish & lingcod](rockfish-lingcod.md) Ensenada entry.
+  **Observed** (StokedOnFishing, 2018-12-17 upload, roughly **35 mi from
+  Ensenada**, Baja California, offshore Pacific side — `0bcDBGzQnGw`,
+  "Fishing In Baja with Navico & Tito Ortiz, Part 1"; unregistered channel —
+  medium confidence; region: Baja, Ensenada; distinct trip/session from the
+  guide-Alejandro reef/point entry above): after an offshore temp-break
+  search (20–30 mi due west of Ensenada, full search-pattern detail in
+  [trolling](../techniques/trolling.md#ensenada-baja--offshore-temp-break-search-and-cal-pal-yellowtail-stop)),
+  the crew ran out to a floating object/school marker (captioned "Cal Pal" —
+  asr-uncertain, not carried as a confirmed term) about 35 mi from Ensenada,
+  with skipjack and yellowfin sign called out nearby; multiple anglers had
+  yellowtail hookups, including one named on camera ("Alex"). Earlier in the
+  same session, one angler's fight (guided through it as "Chris" on camera)
+  and a separate, not-clearly-identified angler's fight — called "Fabio
+  style" on camera, standing and leaning back against the fish with **no
+  stand-up harness or belt** on a light **calico-class rod** ("the Calico
+  stick") — both landed yellowtail; the transcript does not make clear
+  whether "Fabio style" describes Chris's fish or a different angler's. No
+  weights given. See [gear classes](../tackle/gear-classes.md) for the
+  bass/calico-class rod this pairs with.
   **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
   Sur, Pacific side ("half way down the Baja Peninsula") — `qri15R3caYE`,
   "Stoked On La Bocana," part 1): fishing rock structure a few miles from a

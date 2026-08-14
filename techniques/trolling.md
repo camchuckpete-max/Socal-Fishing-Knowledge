@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw]
 confidence: high
 ---
 
@@ -335,6 +335,57 @@ later that day was made from rockfish) on the same drift. See the
 gray-light/tide explanation for the miss, and the
 [calico bass](../species/calico-bass.md) and [bonito](../species/bonito.md)
 Ensenada entries for those catches.
+
+## Ensenada, Baja — dolphin-school troll and foamer conversion
+
+**Observed** (StokedOnFishing, 2018-12-17 upload, offshore of Ensenada, Baja
+California — `0bcDBGzQnGw`, "Fishing In Baja with Navico & Tito Ortiz, Part
+1"; footage shot during the annual September Navico supplier conference trip
+out of Hotel Coral, Ensenada — exact date/year of the footage beyond "every
+September" not stated on camera, video uploaded 2018-12-17; unregistered
+channel — medium confidence; region: Baja, Ensenada, offshore Pacific side;
+not confirmed on camera whether this is the same outing as the temp-break
+search/Cal Pal stop below — different named anglers appear in each (Dan and
+Garrett here vs. Chris and Alex there) and the two segments are not shown
+back to back, so they are logged as separate stops):
+
+- **Troll-to-locate:** the crew slow-trolled [cedar plugs](../lures/cedar-plug.md)
+  around a large dolphin/porpoise school, hoping for tuna holding with it —
+  stated on camera as "the name of the game is finding life," after "a
+  couple hours of desert" with no action.
+- **Foamer conversion:** the dolphin/porpoise school broke into a **full
+  foamer**; the crew stopped trolling and switched to
+  [flylined sardine](flyline.md) plus [chunking](chunking.md) cut bait
+  worked into the school — an on-the-water instance of the troll-then-convert
+  pattern in the [yellowfin tuna](../species/yellowfin-tuna.md) situations
+  table. A **striped marlin was also seen jumping right at the boat** during
+  this same stop (see the [striped marlin](../species/striped-marlin.md)
+  Observed entry) — whether the ensuing hookup (angler Dan) was the marlin or
+  a separate fish is not confirmed on camera. Several fish broke off on the
+  flylined sardine gear (**"lost about three or four"**) before the crew
+  gaffed and boated one; the species of the boated fish is not stated on
+  camera — tuna was the stop's stated target.
+
+## Ensenada, Baja — offshore temp-break search and Cal Pal yellowtail stop
+
+**Observed** (StokedOnFishing, 2018-12-17 upload, offshore of Ensenada, Baja
+California — `0bcDBGzQnGw`, "Fishing In Baja with Navico & Tito Ortiz, Part
+1"; same conference trip as the dolphin-school entry above; unregistered
+channel — medium confidence; region: Baja, Ensenada, offshore Pacific side):
+
+- **Search pattern:** the stated day plan was to run roughly **20–30 miles
+  due west** from Ensenada to reach a **temperature break**, then decide to
+  continue **north or west from the break based on sea conditions** — a
+  fallback plan to finish the search **20–30 miles north** was also named.
+  The crew deliberately worked away from the rest of the supplier-conference
+  fleet, which they placed **45–50 miles out** from the same base ("if we
+  could find fish away from them, that's our goal").
+- **Result:** the search produced a floating object/school marker (captioned
+  "Cal Pal" — asr-uncertain, not carried as a confirmed term) about **35 mi
+  from Ensenada**, with skipjack and yellowfin sign called out nearby, ahead
+  of a multi-angler yellowtail bite — see the
+  [yellowtail](../species/yellowtail.md) Baja-coast entry for that catch
+  detail.
 
 ## La Bocana, Baja — 25-mile offshore troll for tuna/marlin/wahoo
 
@@ -707,6 +758,7 @@ not a parameter change.
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Chunking](chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)

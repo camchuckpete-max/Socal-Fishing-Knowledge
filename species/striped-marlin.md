@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw]
 confidence: medium
 ---
 
@@ -70,6 +70,18 @@ the water at the moment of the bite is not clearly identifiable on camera
 (the audio is too garbled to confirm lure or bait), so it is not logged as a
 targeted technique; distinct from the dedicated bait-and-switch program in
 the table above.
+
+**Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2018-12-17
+upload, offshore of Ensenada, Baja California — `0bcDBGzQnGw`, "Fishing In
+Baja with Navico & Tito Ortiz, Part 1"; unregistered channel — medium
+confidence): while working a dolphin/porpoise school that had broken into a
+full foamer, the crew saw a striped marlin jump right at the boat; an angler
+(Dan) hooked up moments later, but whether that hookup was the marlin or a
+separate fish (tuna was the stop's stated target) is not confirmed on
+camera — kept as an uncertain marlin data point rather than a confirmed
+catch. Full stop detail (search pattern, trolling, flyline/chunk
+conversion, break-offs) is logged in
+[trolling — Ensenada dolphin-school entry](../techniques/trolling.md#ensenada-baja--dolphin-school-troll-and-foamer-conversion).
 
 **Observed (Baja, region label)** (StokedOnFishing, 2020-09-25 upload,
 Magdalena Bay, Baja California Sur — `4t_Z75shK_E`, "One of the World's Best

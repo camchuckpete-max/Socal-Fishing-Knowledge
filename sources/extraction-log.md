@@ -1102,7 +1102,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | Klfb433I3Uk | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; fish-care/tuna-care.md; techniques/fighting-big-bluefin.md / merged chum-buddy seal-avoidance chumming variant, yellowtail bleed-and-bucket observation, and two preventive s |
 | SczdZIq3UmE | StokedOnFishing | on-the-water | parameter-skim | done | conditions/bird-reading.md; planning/electronics-and-sounder.md; species/yellowfin-tuna.md / tern-ID tip + 72F + yellowfin grades merged as Observed blocks, Simrad Halo radar zoom/dolphin-marking mech |
 | Jz9KRNEHLkw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska lingcod |
-| 0bcDBGzQnGw | StokedOnFishing | on-the-water | observations-only | pending | Baja/Ensenada w/ Navico pt1; series: Fishing In Baja w/ Navico & Tito Ortiz part 1 |
+| 0bcDBGzQnGw | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/trolling.md / Ensenada/Navico dolphin-school-foamer-marlin stop and separate temp-break-search/Cal-Pal yellowtai |
 | Q-gQuOegAx4 | StokedOnFishing | on-the-water | observations-only | pending | El Dorado 2-day, San Clemente Isl. bluefin 100-200lb then calico/bonita/yellowtail; SoCal |
 | cLYqjT7ddl8 | StokedOnFishing | on-the-water | observations-only | pending | SoCal offshore bluefin, Okuma/PCH rod-reel product test; sponsor-heavy |
 | CKq0Z6ExVs4 | StokedOnFishing | on-the-water | observations-only | pending | Ensenada Baja high spot (200->25ft): whitefish/yellowtail/rockfish/barracuda |

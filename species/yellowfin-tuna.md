@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw]
 confidence: high
 ---
 
@@ -68,6 +68,16 @@ the bluefin nearby become more cooperative too.**
   the deep diver got bit and the boat landed a yellowfin of about **60 lb** —
   an on-the-water instance of the troll-to-locate pattern in the table below,
   triggered by working a dolphin school rather than a paddy or bird sign.
+- **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2018-12-17
+  upload, offshore of Ensenada, Baja California — `0bcDBGzQnGw`, "Fishing In
+  Baja with Navico & Tito Ortiz, Part 1"; unregistered channel — medium
+  confidence): slow-trolling cedar plugs around a large dolphin/porpoise
+  school (hoping for tuna holding with it) led to the school breaking into a
+  full foamer; the crew stopped and converted with flylined sardine plus
+  chunk — full search-pattern and conversion detail, including a striped
+  marlin also seen at the same stop, is logged in
+  [trolling — Ensenada dolphin-school entry](../techniques/trolling.md#ensenada-baja--dolphin-school-troll-and-foamer-conversion).
+  Species of the eventual hookup/gaffed fish is not confirmed on camera.
 - **Species-specific sonar signature with depth:** yellowfin school marks hold
   **up in the column — commonly ~40–50 ft down** — and **rise to chum**: two
   minutes of chumming a marked school pulls it up toward the surface and into

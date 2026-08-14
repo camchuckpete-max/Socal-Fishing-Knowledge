@@ -255,4 +255,5 @@ mode described above (`eNcltRh-shc`).
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Swimbaits](swimbaits.md)
+- [Trolling](trolling.md)
 <!-- backlinks:end -->
