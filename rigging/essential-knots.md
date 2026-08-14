@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY]
 confidence: medium
 ---
 
@@ -37,6 +37,13 @@ fluoro leader, braid main line — and feed the terminal rigs in
   when you don't have (or don't want) a ringed hook.
 - **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
   by the dozens through a bite; see the retie cadence below.
+- **Bimini twist (double-line/loop)** — ties a doubled section of line rather
+  than joining a hook or two separate lines; used to build the reel-end loop
+  for a [wind-on leader](wind-on-leader.md) and as the standing double-line
+  ahead of a topshot on rail-rod big-tuna setups (line-class ladder in
+  [rod & reel selection](../tackle/rod-and-reel-selection.md)).
+  A dedicated 100%-strength double-line knot, not a terminal or line-to-line
+  connection knot like the others above.
 
 ## Parameters & judgment
 
@@ -209,6 +216,21 @@ fluoro leader, braid main line — and feed the terminal rigs in
   reads as the presenter using the two names loosely/interchangeably by
   habit rather than by a fixed rule about what each name refers to; logged
   as a third data point on the naming split, not a resolution of it.
+- **Bimini twist, quick-tie approach (StokedOnFishing, `jahddqzKhLY`,
+  2012-03-28; unregistered channel — `medium` confidence):** presented as a
+  fast, no-long-loop way to twist up a double line in about 30 seconds once
+  practiced. Cinch a short starting loop (no need for the traditional big
+  loop), then spin roughly **20–25 wraps** down the twisted section — the
+  presenter's own on-camera count is uneven and restarts partway through, so
+  read this as an approximate range rather than an exact figure. Set tension
+  by hooking the loop over the reel handle and turning it, then run the
+  wraps up to the size you want the finished loop to be and hold the tag
+  end. Lock it off with a half hitch around the first turn (cinched), then a
+  half hitch around the second turn (cinched), then a final locking wrap
+  ("go one, two, three" per the transcript). **Flag:** the exact wrap count
+  on that final locking pass is ASR-uncertain — the two-half-hitch-then-lock
+  mechanic is clear, the count on the last pass is not. No SoCal-specific
+  parameters (line class, species, or region) are given in this clip.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -220,7 +242,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
 [improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ),
-and [rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI).
+[rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI),
+and [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY).
 
 <!-- backlinks:start -->
 ## Linked from

@@ -38,7 +38,9 @@ graph LR
   n10["Trap Rig"]
   n11["Tuna Feather Rig"]
   n12["Wind-On Leader"]
+  n12 --> n3
   n12 --> n7
+  n3 --> n12
   n3 --> n9
   n7 --> n12
   n9 --> n3
