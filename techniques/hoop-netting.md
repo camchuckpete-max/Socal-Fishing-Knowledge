@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging, prop-safety]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY]
 confidence: medium
 ---
 
@@ -95,6 +95,23 @@ below.
 - **Mackerel, anchovies, or cut-up salmon heads** — anything oily to draw bugs
   into the net.
 
+### Freshness and quantity (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26)
+
+- **Fresh bait beats old bait.** Framing relayed from a commercial lobster
+  fisherman contact: a lobster's long antennae read the electrical field a
+  bait gives off as it starts to break down/die, so the freshest possible
+  bait — right at the point it starts breaking down — draws lobsters in
+  fastest. Bait bought at the barge same-trip (anchovies, sardines, or
+  whatever mackerel/sardines/anchovies they have that day) and chopped
+  fresh, rather than carried over from a prior trip, is the target.
+- **A little bait is enough.** The net is meant to lure lobsters in, not feed
+  them — his read of commercial hoop-net crews is that ~90% bait sparingly
+  (a small jar's worth), not a full bait cage packed to capacity.
+- **Salmon heads work but are a liability.** They're described as effective
+  but a hassle to source/handle, and — unlike anchovies/sardines — a
+  particular sea-lion draw; weighed against the DIY bait-tube approach below,
+  which he now runs instead.
+
 ### Bait cage choice by sea-lion pressure (Scotty, Qs9oEsh3b_w)
 
 - **Stock/"volcano"-style cage** (ships with some nets): opens, fills, closes,
@@ -110,6 +127,21 @@ below.
   per corner** (diagonal), using **11 in** ties for the bait-cage closure and
   heavier-duty ties for the cage-to-net-ring lashing — more ties for extra
   security is angler preference, two minimum is the floor.
+- **DIY black PVC bait tube** (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY,
+  2019-11-26; single-source, tutorial claim): a self-built alternative to a
+  mesh bait cage — **2-inch-diameter PVC pipe, 18 inches long**, with a
+  screw/unscrew cap for loading, small drilled holes (just enough to let
+  scent out, not to expose the bait to sight), and holes drilled for a
+  carabiner so it clips inside the hoop net and centers dead-middle in it.
+  Loaded with chopped anchovies or sardines from the bait barge (whichever's
+  available that trip) packed bottom to top. Reasoning: sea lions are
+  visual hunters — a mesh cage or open bait lets them see and target the
+  food, but the tube's black color reads as invisible underwater, so sea
+  lions smell the bait without being able to locate or attack it. The
+  source runs **two full sets (20 tubes total)** on the boat and reports no
+  sea-lion problems since switching, fishing Catalina's shallow structure in
+  **20–30 ft** off a 65-ft Hatteras — a strong single-source claim, not yet
+  corroborated by a second channel.
 
 ## Setting discipline
 

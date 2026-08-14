@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY]
 confidence: medium
 ---
 
@@ -33,7 +33,18 @@ re-checked against **current CDFW rules** before every trip — they change.
   [bays and harbors](../locations/bays-and-harbors.md).
 - **Depth bands:** the rig fishes **~40–50 ft of rope** to the net, so you're
   working structure in that general depth range and shallower; drop **on the rock,
-  not off it in open sand.**
+  not off it in open sand.** A second source describes fishing considerably
+  shallower at **Catalina — 20 ft and 30 ft** — off a 65-ft Hatteras
+  (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26), so the workable
+  band runs shallower than 40–50 ft depending on the structure fished; match
+  rope length to the actual drop rather than assuming one depth band.
+- **Post-rain trigger in bays/harbors (Long Beach/LA Harbor, San Diego):** once
+  rain starts falling in season, get gear ready — the source frames the onset
+  of rain as a trigger for an especially strong crawl in the LA/Long Beach
+  Harbor complex and San Diego, calling it a chance at "lobsters of a
+  lifetime" (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26;
+  single-source tutorial claim, not yet corroborated — treat as a lean, not a
+  rule).
 - **When — night.** Lobster crawl and feed after dark; hoop netting is a nighttime
   activity, which is why the buoys carry **LED lights** to relocate them.
 - **Moon timing — darkest nights best.** Within the season, favor the **darkest,

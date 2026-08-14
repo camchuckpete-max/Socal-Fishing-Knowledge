@@ -888,7 +888,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | HeMNAw6MDVE | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Cabo marina walkthrough: restaurants/hotels/beach tourism, only trivial fishing-license mention; not fishing content |
 | qv0QbLgp72o | Your Saltwater Guide | on-the-water | single-pull | done | techniques/chunking.md / added bait-size/prey-density reaction-bite nuance (tuna+calico, medium confidence) to prey-density mechanism section |
 | CLkO0QUwb_c | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic kids-fishing advice (calm day, small bait, dont go offshore); one Dana Point red-buoy mackerel mention |
-| YQsbwfQ4wzY | Your Saltwater Guide | tutorial | parameter-skim | pending | Hoop-net lobster bait: fresh bait beats old, DIY PVC bait-tube (2in x18in) evades sea lions, Catalina 20-30ft, LB/SD post-rain timing |
+| YQsbwfQ4wzY | Your Saltwater Guide | tutorial | parameter-skim | done | species/california-spiny-lobster.md; techniques/hoop-netting.md / added bait freshness/quantity notes, DIY 2in x18in PVC bait-tube spec (sea-lion evasion), Catalina 20-30ft depth note, LB/SD post-rain |
 | mdhoEQPqpng | Your Saltwater Guide | on-the-water | single-pull | pending | Yellowtail catch footage; real technique: free-spool slack to fool sea lion into releasing hooked fish, then wind fast |
 | 8Asmd2H56Qk | Your Saltwater Guide | tutorial | skip:duplicate-of-sYrsPGXiYhI | skipped | same recording as BD rubber-band-rig video per analysis doc (sim 0.518, ASR variance) |
 | TLEhULOWj7g | Your Saltwater Guide | on-the-water | skip:no-usable-content | skipped | Facebook-live hookup chaos/shouting, no location or conditions detail, no doctrine |
