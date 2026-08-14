@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To]
 confidence: high
 ---
 
@@ -312,6 +312,56 @@ an incidental catch on the same gear, logged in
   Cabo surf-line pattern; not the SoCal chlorophyll-edge doctrine in
   [water color](../conditions/water-color.md), which runs on a different
   mechanism (bait-holding, not predator eyesight) — kept separate, not merged.
+
+## Cabo San Lucas — offshore marlin lure-size selection and afternoon-chop rigging
+
+**Melton Tackle dockside interview** (StokedOnFishing, 2014-12-02 upload,
+pre-trip segment shot at Melton Tackle, Anaheim, CA — `XH-Hrfet6To`, "Stoked
+On Cabo San Lucas, Part 1"; unnamed Melton Tackle rep, ahead of a Hurricane
+Fishing charter with Capt. Rob Guy out of Cabo San Lucas; unregistered
+channel — medium confidence, tackle-shop-plug segment; region: Cabo San
+Lucas):
+
+- **Lure-size logic, tournament-driven:** the rep steered the trip toward
+  **medium-to-larger, not giant, trolling lure heads** for Cabo marlin — the
+  stated reasoning is that modern tournament scoring can make a **400 lb**
+  fish worth as much as a **600-pounder**, so there's no scoring benefit to
+  running oversized heads. A medium-size lure (illustrated with a Marlin
+  Magic head, below) was described as working across the whole size range —
+  "300 lb, 600-pounder eats it" — rigged with **a single, big hook** to carry
+  a large fish. Kept as attributed shop advice, not asserted as SoCal/Baja
+  doctrine.
+- **Afternoon-chop rigging:** Cabo's offshore water is described as
+  characteristically **flat in the morning**, then building **choppy** through
+  the afternoon as **heat off the land mass drives wind** — the rep's guidance
+  was to pick lures that run clean in the calm morning water but still "hang
+  in there" once the afternoon chop and wind build. No specific lure model
+  was named as the chop-specific pick; treat as a selection criterion, not a
+  single-product answer.
+- **Named lures:** **Marlin Magic Lures** (Hawaii, heard on the auto-captions
+  as made by "Marlon Parker" — likely an ASR garble of **Marlin Parker**, the
+  real-world founder of Marlin Magic Lures; not confidently resolved from
+  audio alone, carried with this flag) — a scoop-nose head that is also
+  **jetted**, letting water pull through to create a large bubble trail ("a
+  pretty interesting squid pattern"); the shop rep touted the lure with
+  multiple Bisbee's tournament wins (heard "Bisby" — read as **Bisbee's**,
+  the Cabo billfish tournament) — this is the shop's own promotional claim
+  about a product it sells, so per the sponsored/promotional-claim rule it is
+  capped at **low** confidence regardless of the block's medium baseline.
+  **Koi Lures** (ASR-uncertain —
+  possibly **Koya**, a known Hawaiian marlin-lure maker; not confidently
+  resolved from the captions, so carried as heard) — another Hawaiian
+  handmade lure line, new to this shop's Cabo kit at the time; its **"861"**
+  model is named for the weight of the first blue marlin caught on it.
+  Older-style lures some Cabo boats still run were also named on camera, but
+  two of the three names in that list are ASR-garbled beyond confident
+  resolution — only **Seven Strand** is carried; the other two are not (see
+  log).
+- **Rigging support:** the shop's rigger (named "Tracy" on camera) rigs both
+  tournament and recreational gear for this Cabo program; the rep frames
+  hook-setup quality as important enough to risking a "money fish" in
+  tournament play. No rig diagram or step-by-step given — link the shop
+  reference only, no rigging note created from this thin a description.
 
 ## Ensenada, Baja — slow-trolled mackerel plus cast jigs for yellowtail on a reef/point
 

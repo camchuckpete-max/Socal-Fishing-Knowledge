@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, XH-Hrfet6To]
 confidence: medium
 ---
 
@@ -117,6 +117,33 @@ from the SoCal fall doctrine above; corroborates the general pattern of heavy
 tuna-and-marlin action already logged for this East Cape/Fiesta operation in
 [yellowfin tuna](../species/yellowfin-tuna.md) and
 [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+
+**Observed (Baja, Cabo San Lucas, region label)** (StokedOnFishing,
+2014-12-02 upload, offshore Cabo San Lucas, Baja California Sur —
+`XH-Hrfet6To`, "Stoked On Cabo San Lucas, Part 1"; aboard Hurricane
+Fishing's 50 ft Hatteras with Capt. Rob Guy; unregistered channel — medium
+confidence): trolling a mixed spread of lures plus a live bait, a striped
+marlin ("a little stripe marlin") rose and hit the trolled lures; the crew
+**"did a drop back on him"** before hooking and landing the fish — an
+on-the-water data point for the dropback mechanics flagged as a thin area in
+[bait-and-switch](../techniques/bait-and-switch.md#thin-areas-flagged--no-corpus-source-yet),
+though here the fish rose on the trolled lures themselves rather than being
+teased up for a live-bait pitch, so it is not logged as a confirmed
+bait-and-switch execution. The same morning also produced a confirmed
+**sailfish** (no lure/technique detail given on camera) — logged here only
+as a presence data point, no dedicated sailfish note exists in this corpus.
+Water conditions on camera later in this same session were called out as
+**85°F**, blue and "crystal," with **long swell** and "no wind to speak
+of" — notably, that on-camera call is calm water, not the chop the shop's
+general Cabo pattern predicts for later in the day (see the
+[trolling — Cabo San Lucas lure-selection entry](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging),
+same trip, pre-trip tackle-shop segment); this session is not logged as a
+confirmation of that afternoon-chop pattern, and the two are kept side by
+side rather than merged. The crew reported being **"four for four"** on
+hookups by that point in the trip (time of day not stated on camera) without
+further per-species breakdown, and were running toward open water hoping for
+tuna or blue marlin to round out a "five species day" — not confirmed on
+camera, so not logged as additional catches.
 
 ## Gear summary (class terms)
 
