@@ -997,7 +997,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | CuK0_9v1F_o | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) halibut fishing |
 | tJFSV3AcIdE | StokedOnFishing | on-the-water | parameter-skim | done | species/calico-bass.md; tackle/rod-and-reel-selection.md; techniques/swimbaits.md / on-the-water/parameter-skim extraction: leading-edge kelp observation, calico grub/casting gear specs, and a followe |
 | 7aF6uWVw76g | StokedOnFishing | on-the-water | single-pull | done | species/striped-marlin.md / on-the-water/single-pull: 40 lb leader landed a marlin (species/reel type per title only, not confirmed in audio) added as hedged Observed block, unsupported baitcaster cla |
-| 9D3Oiy0ASzg | StokedOnFishing | on-the-water | single-pull | pending | San Benito Is. Baja; sparse, one note: braid cuts through kelp then rock cutoff risk on yellowtail |
+| 9D3Oiy0ASzg | StokedOnFishing | on-the-water | single-pull | done | species/yellowtail.md / on-the-water observation added to San Benito Islands entry (braid-vs-kelp/rock cutoff during yellowtail fight); one internal cross-reference inaccuracy fixed |
 | wJgoRhZStz0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon/Brazil peacock bass, freshwater |
 | xudAbDj4GYw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Coiba Is. inshore/offshore |
 | CdJ-ISFv8BI | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama offshore tuna/dorado/marlin |

@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw]
+tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg]
 confidence: high
 ---
 
@@ -291,6 +291,21 @@ typical-year mapping.
   depredation at the
   boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species)
   for this and the other depredation instances logged there.
+- **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
+  and Punta Eugenia — see the Chester's Rock entry above):**
+  **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —
+  `9D3Oiy0ASzg`; unregistered channel — medium confidence; captions heavily
+  garbled, ASR-uncertain): fighting a hooked yellowtail that had run into
+  kelp, the angler hoped the **braid would cut through the kelp** rather than
+  get fouled in it, and nearly lost the fish as the line got cut off in the
+  kelp; the fish then dragged the frayed, kelp-wrapped line down into the
+  rocks, where it cut off and the fish was lost. Read as a braid-vs-kelp/rock
+  line-cutoff sequence during the fight, not confirmed gear-mechanism detail
+  beyond that — consistent with, not a change to, the rock-cutoff risk
+  already logged for this same "triangle" region in the Chester's Rock entry
+  above (a hooked yellowtail there ran straight into the rocks and was
+  lost; separately, at Rose Island/Dondo Ridge nearby, several anglers on
+  lighter line lost fish in the shallow, rocky water).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the
