@@ -884,7 +884,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | CjQD4vJmsog | Your Saltwater Guide | promo | skip:promo | skipped | Pure subscription pitch for yoursaltwaterguide.com, 1:23 runtime, no technique content |
 | 89DmEDR-1sI | Your Saltwater Guide | on-the-water | skip:duplicate-of-6zYRI1ZQU3c | skipped | confirmed: same San Diego tuna chum footage as 6zYRI1ZQU3c, ASR/caption variance only |
 | 6zYRI1ZQU3c | Your Saltwater Guide | on-the-water | observations-only | done | species/yellowfin-tuna.md / added dated Observed block (chum-triggered free-swimmer frenzy at boat, San Diego) under yellowfin sonar-signature/chum-rise doctrine |
-| pX6mV3O0L_E | Your Saltwater Guide | on-the-water | observations-only | pending | Observed: Cabo San Lucas ballyhoo troll for dorado, catch footage, minimal rig narration |
+| pX6mV3O0L_E | Your Saltwater Guide | on-the-water | observations-only | done | species/dorado.md / added Observed block (dead-ballyhoo troll, multiple dorado hookups, Cabo San Lucas Nov 2019) |
 | HeMNAw6MDVE | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Cabo marina walkthrough: restaurants/hotels/beach tourism, only trivial fishing-license mention; not fishing content |
 | qv0QbLgp72o | Your Saltwater Guide | on-the-water | single-pull | pending | Smaller bait raises prey-density reaction/bite rate on tuna+calico; overlaps zwNEhWtnBCE, subscribe-pitch framing |
 | CLkO0QUwb_c | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic kids-fishing advice (calm day, small bait, dont go offshore); one Dana Point red-buoy mackerel mention |

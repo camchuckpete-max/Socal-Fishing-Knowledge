@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E]
 confidence: high
 ---
 
@@ -84,6 +84,15 @@ line**, on a small hoochie/feather being slow-trolled at ~6 kt for
 dorado bite. Not a targeted dorado technique; logged here as a region/
 gear-size data point, distinct from the offshore paddy and open-water-school
 program above.
+
+**Observed** (Your Saltwater Guide / Dave Hansen, November 2019, Cabo San
+Lucas, Baja):
+dead ballyhoo trolled behind the boat produced multiple dorado hookups — a
+natural-dead-bait trolled presentation alongside the pink/silver/purple-
+black lure doctrine in the open-water-schools row above. The on-camera
+rigging/hook-tie-in narration was not captured in the transcript (cuts
+straight to on-the-water footage), so no leader, hook size, or troll-speed
+parameters could be logged from this video.
 
 ## Gear summary (class terms)
 
