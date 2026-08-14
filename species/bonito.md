@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY, oXunQKSbc2g]
 confidence: medium
 ---
 
@@ -133,6 +133,17 @@ rather than a dedicated technique study.
   bleed-and-ice-immediately handling already logged above as the difference
   between poor and good table quality — a second, independent data point for
   that same doctrine, this time from Baja rather than SoCal.
+- **Observed** (StokedOnFishing, 2019-12-11 upload, October 2019 trip —
+  `oXunQKSbc2g`, "Limited Two Day Fishing Charter on the El Dorado," a
+  limited-load 2-day charter aboard the El Dorado out of Long Beach, Cortez
+  Bank, SoCal; unregistered channel — medium confidence): large ("giant")
+  bonito were worked heavily as bycatch alongside a
+  [yellowtail](yellowtail.md#where--when) yo-yo iron/surface iron bite, with
+  on-camera commentary that the bonito were "big and mean" and fighting hard
+  "pound for pound" against the yellowtail (see the
+  [Cortez Bank](yellowtail.md#where--when) entry) — an offshore-bank data
+  point (rather than this note's usual nearshore-kelp-edge framing) for the
+  measure-of-life doctrine above.
 
 <!-- backlinks:start -->
 ## Linked from

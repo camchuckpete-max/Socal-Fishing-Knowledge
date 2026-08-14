@@ -85,4 +85,5 @@ Fold the output of this note back into the
 - [September](../seasonal/september.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -1092,7 +1092,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | UCADhIs5Ew0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska rockfish/king salmon footage |
 | 8GXiSWF_4wA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska halibut/rockfish/salmon footage |
 | iczB-6A1Arc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Hannibal Bank/Coiba, tuna foamers footage |
-| oXunQKSbc2g | StokedOnFishing | on-the-water | observations-only | pending | El Dorado 2-day, Long Beach, yellowtail/Cortes Bank, yo-yo & surface iron; SoCal |
+| oXunQKSbc2g | StokedOnFishing | on-the-water | observations-only | done | species/bonito.md; species/yellowtail.md — Cortez Bank El Dorado 2-day trip (Oct 2019): yellowtail-first/tuna-conditional/Cortez-fallback plan off peer intel, yo-yo+surface iron yellowtail, giant boni |
 | pu9zIm-Tsus | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Title misleads but content is Costa Rica trip w/ Craig Sutton |
 | fxZGXrrpHz4 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica marlin/sailfish/tuna/dorado trip, Nosara area |
 | IxhdiX3oEEs | StokedOnFishing | on-the-water | observations-only | pending | SoCal bluefin catch-clean-cook, 184lb fish fight tips + sushi prep; fish-care angle |

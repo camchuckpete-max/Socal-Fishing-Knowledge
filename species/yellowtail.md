@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g]
 confidence: high
 ---
 
@@ -246,6 +246,24 @@ typical-year mapping.
   closed out the charter. **Yo-yo iron and surface iron** were also named
   on camera as working options for the bank alongside the flyline
   program.
+  **Observed** (StokedOnFishing, 2019-12-11 upload, trip framed on camera as
+  October 2019 — `oXunQKSbc2g`, "Limited Two Day Fishing Charter on the El
+  Dorado," a limited-load 2-day charter aboard the 85 ft **El Dorado** out of
+  **Long Beach** Sportfishing; the earliest-dated StokedOnFishing/El Dorado
+  Cortez Bank trip logged in this note; unregistered channel — medium
+  confidence): the stated trip plan was yellowtail first, tuna (species
+  unspecified on camera — narration only says "if the tuna showed up") as a
+  conditional secondary target, with Cortez Bank as the fallback destination
+  — chosen on **inside intel from a couple of boats that had fished the bank
+  a few days prior**, an early data point for planning a
+  Cortez run off a fresh peer report rather than a fixed schedule (see
+  [report reading and forecasting](../planning/report-reading-and-forecasting.md)).
+  On the bank, quality yellowtail were landed on both
+  [yo-yo iron](../techniques/yo-yo-iron.md) and
+  [surface iron](../techniques/surface-iron.md); large ("giant") bonito were
+  also worked heavily as bycatch on the same stops — see
+  [bonito](bonito.md). No depth, current, or specific-location detail
+  survived the auto-captions clearly enough to carry beyond this summary.
 - **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
   San Diego, off Mexico; the western coast is exposed to colder Pacific
   currents and tidal swings, so the water stays bait-rich). "The Coronados are
@@ -913,6 +931,7 @@ water temp and bait depth before committing the day to one face.
 - [Making Bait](../bait/making-bait.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
+- [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
