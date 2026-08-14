@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak]
 confidence: high
 ---
 
@@ -203,6 +203,13 @@ whatever color you have full confidence in matters as much as the color itself
 unregistered channel). Not generalized into doctrine — a single angler's
 confidence-color report, not a repeated pattern.
 
+**Second Cedros/Gono data point (StokedOnFishing, 2015-01-20, Cedros Island,
+Baja — `_C8w6zeVPak`):** surface iron colors called out as producing best on
+this trip were **any mint pattern** and **blue and white** — a second data
+point alongside, not merged into, the mint confidence-color read above (a
+different angler/trip, same mint pattern named, plus blue/white); still not
+generalized into doctrine. Unregistered channel — medium confidence.
+
 **Confidence-color data point, SoCal calico bass (Dave Hansen, Your Saltwater
 Guide, 3dVc-2rsYII, 2022-03-25; dave-hansen is a registered voice — high
 confidence):** a **Wounded Warrior**-pattern surface iron is his go-to for
@@ -362,6 +369,7 @@ for that lure class rather than for the classic surface-iron blank.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Trolling](trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)

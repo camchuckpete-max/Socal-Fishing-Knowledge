@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak]
 confidence: medium
 ---
 
@@ -439,6 +439,14 @@ holding deep, not a claim that straight braid is wrong.
   running straight braid to fluoro maximizes line capacity and is "totally
   fine," just less efficient specifically for flylining. Hook sizing (Owner
   Mutu circle hooks, by grade) is logged in [hooks](../tackle/hooks.md).
+
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
+  `_C8w6zeVPak`, Shogun Skiff Trip part 3): anglers aboard the mother ship
+  got bit fly-lining **sardines** on **30 lb** line to a top shot of **30 lb
+  fluorocarbon**, producing yellowtail — a further Cedros/Baja yellowtail
+  flyline data point, kept side by side with the Ray Sharifi builds above
+  rather than reconciled (line-class/material specifics not stated closely
+  enough to compare directly). Unregistered channel — medium confidence.
 
 ## Common failures
 

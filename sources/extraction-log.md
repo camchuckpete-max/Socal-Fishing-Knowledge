@@ -951,7 +951,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 9xNhdu2aBqE | StokedOnFishing | on-the-water | parameter-skim | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; techniques/swimbaits.md: MC9 swimbait, follow-up-eat behavior, line class, water color |
 | ROWgdFE9Ehc | StokedOnFishing | on-the-water | observations-only | done | techniques/flyline.md: Observed block, slow-trolled nose-hooked sardine 150-200ft, yellowtail, the channel |
 | epWXURDU-oI | StokedOnFishing | on-the-water | skip:duplicate-of-9xNhdu2aBqE | skipped | Same trip/dialogue as 9xNhdu2aBqE (Todd Klein, SCI), short highlight cut - NEW dedup finding at triage |
-| _C8w6zeVPak | StokedOnFishing | on-the-water | observations-only | pending | Cedros/Gono Islands Baja: yellowtail surface iron then calico shore; series: Shogun Skiff Trip part 3 |
+| _C8w6zeVPak | StokedOnFishing | on-the-water | observations-only | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md; techniques/trolling.md: 6 Observed blocks, Cedros/Gono skiff trip |
 | BvT560Nblqo | StokedOnFishing | on-the-water | observations-only | pending | Cedros Island Baja: yo-yo jig color note, trolled yellowtail; series: Shogun Skiff Trip part 2 |
 | NGxyOlPx3ug | StokedOnFishing | on-the-water | observations-only | pending | Cedros/Gono Baja: MC Swimbaits giveaway intro, sponsor-heavy; series: Shogun Skiff Trip part 1 |
 | Qa-j6LIwa1Q | StokedOnFishing | on-the-water | observations-only | pending | Cedros Island Baja: travel logistics + calico/yellowtail fishing; series: Cedros Island Adventure part 1 |

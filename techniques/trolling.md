@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak]
 confidence: high
 ---
 
@@ -18,6 +18,15 @@ top-shot specs live in each lure note.
 - You are **covering water in transit** or searching a zone, and want lures
   working while you look. See [bluefin trolling](../species/bluefin-trolling.md).
 - You want lines out sweeping a bird/bait area (below).
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
+  `_C8w6zeVPak`, Shogun Skiff Trip part 3): with bait and birds showing and
+  fish boiling from time to time but no bite on
+  [surface iron](surface-iron.md) or [yo-yo iron](yo-yo-iron.md) for
+  [yellowtail](../species/yellowtail.md), trolling mackerel- or
+  sardine-pattern Rapala-class hardbaits back around the bait produced giant
+  yellowtail aboard the mother ship — offered as a fallback to carry for a
+  picked-at surface bite, not tested head-to-head against the iron options.
+  Unregistered channel — medium confidence.
 
 ## Running the spread — sweeps, not straight lines
 
@@ -175,9 +184,11 @@ an incidental catch on the same gear, logged in
 - [Speed Trolling](speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Surface Iron](surface-iron.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Water Color](../conditions/water-color.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->

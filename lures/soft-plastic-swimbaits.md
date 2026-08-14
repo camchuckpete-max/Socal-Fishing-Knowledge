@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak]
 confidence: high
 ---
 
@@ -44,6 +44,15 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
 - **Colors:** color matters little — a **green-top / gold-bottom ("hot koch")** is
   a confidence pattern that works cloudy or sunny, warm or cold. Carry a natural
   (green/gold, sardine) and a dark. Fish what you believe in.
+  **Observed** (StokedOnFishing, 2015-01-20, Cedros/Gono Islands, Baja —
+  `_C8w6zeVPak`): the best-producing bait across this trip was an **MC
+  weedless bait on a number 9 wide-gap hook**, with **red/brown** or **green**
+  named as the colors that worked best. Kept side by side with the
+  "color matters little" framing above, not generalized from one trip; the
+  **number 9 wide-gap hook** is a distinct data point from, not reconciled
+  with, the **Gamakatsu 7/0** keel-weighted-hook spec already in this note —
+  unclear whether "number 9" reflects a different sizing convention or an
+  imprecise on-camera mention. Unregistered channel — medium confidence.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 

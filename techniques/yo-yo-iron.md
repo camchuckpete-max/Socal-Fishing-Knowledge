@@ -174,5 +174,6 @@ the reverse map in **Linked from** below.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
 - [Surface Iron](surface-iron.md)
+- [Trolling](trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

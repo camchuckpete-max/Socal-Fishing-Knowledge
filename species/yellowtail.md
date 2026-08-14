@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, cameron]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, cameron]
 confidence: high
 ---
 
@@ -86,6 +86,16 @@ typical-year mapping.
   spool a **40 lb line-class floor** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
   2022-09 trip-prep walkthrough; medium confidence, unregistered channel). See
   [line & leader](../tackle/line-and-leader.md) for the full class breakdown.
+  **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
+  `_C8w6zeVPak`, Shogun Skiff Trip part 3): a skiff morning produced multiple
+  yellowtail on the [surface iron](../techniques/surface-iron.md), working the
+  same spot repeatedly as fish kept showing (grade including 40 lb-class fish
+  referenced from the same trip's prior episode); one bite that "started out
+  to be a bass and turned into a yellowtail" came on the
+  [yo-yo iron](../techniques/yo-yo-iron.md) after the angler tightened a drag
+  that had been left too loose. Consistent with, not a change to, the
+  resident/home-guard doctrine above; unregistered channel — medium
+  confidence.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

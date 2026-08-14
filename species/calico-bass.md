@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak]
 confidence: high
 ---
 
@@ -57,6 +57,13 @@ you read the *current across the kelp*, not the tide clock.
   current's good," read off whether the kelp is laid down under the surface
   vs. floating slack on top). Consistent with the current-driven doctrine
   above; unregistered channel, single mention — medium confidence.
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros Island beach, Baja —
+  `_C8w6zeVPak`, Shogun Skiff Trip part 3): calico bass were found holding
+  **about 30 ft deep, close to the beach and tight** to structure — called
+  out on camera as the opposite of the prior year (2014, per the on-camera
+  comparison), when the fish sat "nice and tight" at an unstated, apparently
+  shallower depth. No current or water-color detail given beyond the depth
+  contrast. Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)
 
