@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM]
 confidence: high
 ---
 
@@ -106,6 +106,20 @@ typical-year mapping.
   [calico bass](calico-bass.md) La Bocana entry — and bonito) an angler
   reported catching over the trip. No weights or additional technique detail
   given. Unregistered channel — medium confidence.
+  **Observed** (StokedOnFishing, 2018-02-07 upload, La Bocana, Baja California
+  Sur, Pacific side — `Cobp85UvHmM`, "Stoked On La Bocana," part 2;
+  continuation of the `qri15R3caYE` part 1 trip above): back on the same
+  inshore rock structure (called out on camera as **25–30 ft** deep) after a
+  25-mile offshore troll for tuna/marlin/wahoo (see
+  [trolling](../techniques/trolling.md) for that leg), the crew connected on
+  multiple yellowtail on [surface iron](../techniques/surface-iron.md) —
+  "yellows on the surface iron always," per the crew — an improvement over
+  part 1's missed fish at the same stretch. The same structure held grouper
+  and sand bass as a bottom-fishing option and sierra cruising the surface
+  alongside (species already named among this trip's mixed bag in the
+  [calico bass](calico-bass.md) La Bocana entry), but the crew stayed on
+  surface iron for the yellows. No weights given. Unregistered channel —
+  medium confidence.
 - **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips

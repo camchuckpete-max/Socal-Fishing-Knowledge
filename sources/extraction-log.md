@@ -985,7 +985,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | xHT7oJGRQyk | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga vanilla factory/cave-swim wrap-up episode; series: Stoked On Tonga part 4 |
 | U60jPPBu5CM | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Save The Brave veteran-charity trip, golf + brief rockfish catch reactions, region unclear/Baja island |
 | qri15R3caYE | StokedOnFishing | on-the-water | observations-only | done | species/barracuda.md; species/bonito.md; species/calico-bass.md; species/yellowtail.md / 4 Observed blocks added for the La Bocana, Baja co-op trip (mixed-bag species list, calico grading 5-9 lb, miss |
-| Cobp85UvHmM | StokedOnFishing | on-the-water | observations-only | pending | Baja La Bocana: 25mi offshore troll for marlin/tuna/wahoo + estuary fishing; series part 2 |
+| Cobp85UvHmM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/spotted-bay-bass.md; species/yellowtail.md; techniques/trolling.md / on-the-water observations added across 4 existing notes (La Bocana part 2: offshore troll/dorado fire-dr |
 | tcso7Lpm_Xs | StokedOnFishing | on-the-water | observations-only | pending | Baja East Cape (Buena Vista resort): troll tuna/dorado/marlin, rooster fish beach teaser |
 | 3yK3JYrKoZY | StokedOnFishing | on-the-water | parameter-skim | pending | Baja Cedros: yo-yo lazy-boy/clicker technique note + West End calico bite; series part 2 |
 | d0yGBQDeY_4 | StokedOnFishing | on-the-water | parameter-skim | pending | Cedros, Baja; bait-ball yellowtail approach, sliding-sinker rig, circle hooks, fog/radar nav fact; series: Big Yellowtail pt1 |

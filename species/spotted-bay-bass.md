@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM]
 confidence: high
 ---
 
@@ -56,6 +56,17 @@ every structure spot when the tide turns.
   hunker down, forcing a move to the **back bay** to keep catching; consistent
   with the fully-tide-driven doctrine above. Unregistered channel,
   presenter-inferred (multi-speaker, no diarization) — medium confidence.
+- **Observed (Baja, region label)** (StokedOnFishing, 2018-02-07 upload, La
+  Bocana estuary (Estero), Baja California Sur, Pacific side — `Cobp85UvHmM`,
+  "Stoked On La Bocana," part 2): inshore estuary fishing produced grouper as
+  the clearly-shown landed catch on camera; the closing narration also names
+  "spotties" alongside "little groupers" as part of the Estero's population,
+  though no spotted bay bass is distinctly shown being landed in this
+  footage. The crew called both "radical spotties and little groupers in the
+  Estero" and said they "get a lot bigger than this" — an unverified local
+  claim about the fishery's ceiling grade, not corroborated by any bigger
+  fish landed in this footage. No tide, structure, or technique detail given.
+  Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)
 

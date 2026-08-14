@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM]
 confidence: high
 ---
 
@@ -163,6 +163,30 @@ an incidental catch on the same gear, logged in
   Cabo surf-line pattern; not the SoCal chlorophyll-edge doctrine in
   [water color](../conditions/water-color.md), which runs on a different
   mechanism (bait-holding, not predator eyesight) — kept separate, not merged.
+
+## La Bocana, Baja — 25-mile offshore troll for tuna/marlin/wahoo
+
+**Observed** (StokedOnFishing, 2018-02-07 upload, La Bocana, Baja California
+Sur, Pacific side — `Cobp85UvHmM`, "Stoked On La Bocana," part 2; single
+mention, unregistered channel — medium confidence; region: Baja, La
+Bocana/Pacific side, distinct from the Sea of Cortez kit above): the crew ran
+**25 miles offshore** from La Bocana, past what they called the "barracuda
+grounds," onto "tuna grounds" — the on-camera sign cited for the ground
+change is garbled in the source captions ("a bunch of Sanders in the area" —
+ASR-uncertain, referent not identifiable; not corrected to "birds" here
+since that word does not appear in this passage — see the separate,
+clearly-worded bird mention below for the dorado find).
+The spread trolled **tuna feathers and Rapala-class hardbaits**, with the
+crew naming tuna, marlin, and wahoo (heard on camera as "wasps" —
+ASR-uncertain, read as **wahoo** against the stated trip target) as the
+day's targets. One hookup was lost when what the crew called a "tuna hook"
+(rigged for tuna) popped; on camera the crew speculated, without confirming,
+that the fish may have been a marlin — not logged as a confirmed marlin
+catch given the uncertainty. Working birds later in the same session led the
+crew to a school of dorado — see the [dorado](../species/dorado.md) La
+Bocana entry for that result. Closer to shore, the crew finished the day
+back on inshore rock structure, landing yellowtail on surface iron — see the
+[yellowtail](../species/yellowtail.md) Baja coast entry.
 
 ## Common failures
 

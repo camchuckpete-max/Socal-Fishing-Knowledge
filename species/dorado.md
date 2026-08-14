@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM]
 confidence: high
 ---
 
@@ -96,6 +96,19 @@ black lure doctrine in the open-water-schools row above. The on-camera
 rigging/hook-tie-in narration was not captured in the transcript (cuts
 straight to on-the-water footage), so no leader, hook size, or troll-speed
 parameters could be logged from this video.
+
+**Observed (Baja, region label)** (StokedOnFishing, 2018-02-07 upload, La
+Bocana, Baja California Sur, Pacific side — `Cobp85UvHmM`, "Stoked On La
+Bocana," part 2): 25 miles offshore, working birds (bird type not
+identifiable in the source captions — ASR-uncertain) led the crew to a
+school of dorado that "sunk down" in water only **~60 ft** deep — called a
+"fire drill" on camera as multiple anglers hooked up at once, with three
+fish hooked in a row (captions don't confirm all three were boated). A
+bird-to-bait-ball find in unusually shallow water for
+an offshore trolling ground, consistent with the birds-mark-the-life sign
+already documented in [bird reading](../conditions/bird-reading.md); no
+lure/bait or leader detail given for this hookup. Unregistered channel —
+medium confidence.
 
 ## Gear summary (class terms)
 
