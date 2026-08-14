@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I]
 confidence: high
 ---
 
@@ -156,6 +156,30 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   stretch — cast away from, not on top of, a hooked angler or a knot of
   anglers already fighting fish, to avoid tangling their fish — is logged
   in [surface iron](../techniques/surface-iron.md#the-cast).
+- **Observed** (StokedOnFishing, video uploaded 2025-02-19, trip date not
+  stated — `zBd1mayUt_I`, "Big Bluefin & Yellowtail on the Ranger 85," part 3
+  of a 3-day charter aboard the 85 ft **Ranger 85**, running from Cortez Bank
+  back toward port, SoCal; unregistered channel — medium confidence): earlier
+  in the day the ocean showed a large, flat oceanic slick with fish breaking
+  "everywhere," which then shut off abruptly — described on camera as "like a
+  light switch" — and the crew could not relocate the school afterward; a
+  much shorter shutdown timescale than, and a further data point beside, the
+  August "showing up in weird places, gone the next day" dispersal pattern
+  already logged above. Later, an "intense sundown bite" produced multiple
+  bluefin **over 100 lb** on both the [kite](../techniques/kite-fishing.md)
+  and flyline fished alongside it in the same window; one angler credited a
+  break in the clouds sending a shaft of sunlight onto the water right as the
+  bite turned on. A crew member also referenced a **180 lb** bluefin caught
+  "the other day" to the northwest of their position, alongside a smaller
+  grade also present in that area (ASR-uncertain phrasing on this line, not
+  fully confirmed — kept as a rough grade data point).
+- **Observed, captain's briefing before searching for bluefin (same source,
+  `zBd1mayUt_I`):** the captain warned against getting hung up on tackle
+  "not meant" for a big bluefin — a heavy sinker rig or heavy flyline outfit
+  is the right tool — but added that hooking one of these fish in the
+  daytime on a light "jiggy poppy" (casting jig/popper) outfit is "very
+  doable," framed as a heads-up rather than a recommendation to target them
+  that way.
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the

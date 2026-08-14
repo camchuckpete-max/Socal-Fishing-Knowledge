@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I]
 confidence: high
 ---
 
@@ -150,6 +150,17 @@ typical-year mapping.
   trip rather than bluefin; full rig detail, the crew's "they buy double
   trouble all the time" call, and the hooking/line-class notes are logged in
   [double trouble rig](../rigging/double-trouble-rig.md).
+  **Observed** (StokedOnFishing, video uploaded 2025-02-19, trip date not
+  stated — `zBd1mayUt_I`, "Big Bluefin & Yellowtail on the Ranger 85," days
+  two–three of a 3-day charter aboard the 85 ft **Ranger 85**; a different
+  boat/trip than the Constitution and El Dorado Cortez Bank entries above;
+  unregistered channel — medium confidence): a full-speed [yo-yo
+  iron](../techniques/yo-yo-iron.md) bite at anchor on Cortez Bank yellowtail,
+  with fish described on camera as fighting "mean" on **60 lb and 50 lb**
+  line — one angler was broken off ("rocked") on 60 lb. When the anchor spot
+  slowed, the crew moved off to search rather than sit on it, noting both
+  good drifting and anchor jobs producing that day in water around **50
+  fathoms**.
 - **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
   San Diego, off Mexico; the western coast is exposed to colder Pacific
   currents and tidal swings, so the water stays bait-rich). "The Coronados are

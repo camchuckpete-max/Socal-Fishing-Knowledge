@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I]
 confidence: high
 ---
 
@@ -40,6 +40,16 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   directly to the fish — no clip in the fighting system.
 - Lay the short leader out flat on the surface to bring the fish into gaff
   range at the swivel; a leader run too long stops the fish short of the gap.
+- **Observed** (StokedOnFishing, `zBd1mayUt_I`, video uploaded 2025-02-19,
+  trip date not stated, running from Cortez Bank toward port, SoCal;
+  unregistered channel — medium confidence): during a sundown 100 lb+
+  bluefin bite, two separate kite hookups were filmed being bit on camera,
+  with additional fish converted on flyline gear fished alongside the kite
+  in the same window — a mixed kite/flyline bite in one session, not kite
+  alone (see [bluefin tuna](../species/bluefin-tuna.md) for the rest of this
+  session). One kite-hooked fish was fought for roughly **40–45 minutes** per
+  the crew's own call (ASR renders this as "40 45 M move for this fight" —
+  read as minutes, not confirmed) before landing.
 
 ## Live mackerel as a kite bait — alternative to the flying-fish harness
 
