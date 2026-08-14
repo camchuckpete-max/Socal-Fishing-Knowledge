@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [bluefin, tuna, boat-handling, fighting, big-game, offshore]
-sources: [8jC61LzQoxU]
+tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
+sources: [8jC61LzQoxU, mdhoEQPqpng]
 confidence: medium
 ---
 
@@ -73,6 +73,25 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   placement, flipping the fish upside down, hook orientation) live in
   [gaffing](../fish-care/gaffing.md) — this source repeats that same doctrine.
 
+## Sea lion depredation at the boat — the free-spool trick (cross-species)
+
+Distinct from the boat-driving method above, and not bluefin-specific: a
+reel-side counter-move for when a sea lion is actively working a hooked fish
+right at the boat, observed on a **yellowtail** trip. Applies to any hooked
+gamefish a sea lion is stealing boatside, not just bluefin.
+
+- **Observed** (Your Saltwater Guide / Dave Hansen, 2019-11-07, SoCal): while
+  fighting a hooked yellowtail with a sea lion working it at the rail, the
+  standing coaching (given live, mid-fight, to a crew member) is **wind
+  continuously and never pump** — every pump stops the fish's progress toward
+  the boat, and that pause is what lets the sea lion grab it.
+- **Observed** (same source): once the sea lion has the fish by the tail at
+  the corner of the boat, the counter-move is to **throw the reel into free
+  spool and give the fish total slack**. The sudden slack reads to the sea
+  lion as the line breaking; it lets go, thinking it won. The angler then
+  winds fast — not pumping — to recover the fish before the sea lion returns.
+  Outcome in this instance: the fish was landed.
+
 ## Common failures
 
 - Hand-fighting the fish while expecting the same speed/certainty as the
@@ -90,4 +109,5 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Tuna Care](../fish-care/tuna-care.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
