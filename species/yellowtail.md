@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU]
 confidence: high
 ---
 
@@ -180,6 +180,21 @@ typical-year mapping.
   on plastic); anglers running **40–50 lb line** landed their fish while
   several using lighter line lost fish in the shallow, rocky water.
   Unregistered channel — medium confidence.
+  **Observed** (StokedOnFishing, 2017-03-27, Cedros Island, Baja —
+  `wdbqTio1SQU`, "Cedros Island Goes Off!!!"; Cedros Outdoor Adventures
+  charter, sponsor-heavy episode — Simrad/Okuma/dealership spots): the
+  crew named **North Point** as the spot to target for the bigger fish,
+  planning a bait stop followed by a run to North Point for **30 to 40 lb**
+  yellows — consistent with the home-guard grade documented above. The
+  trip's first yellowtail came within the opening minutes on
+  [surface iron](../techniques/surface-iron.md), called "running and
+  gunning" on camera; later in the trip, during the same North Point
+  session, a further fish was landed on the
+  [yo-yo iron](../techniques/yo-yo-iron.md) rather than bait ("was that on
+  bait or jig? Jigging. Yo-yo.") — species not called on camera for that
+  fish, but it confirms yo-yo iron working alongside surface iron and bait
+  on this trip. No landed weights given on camera. Unregistered channel —
+  medium confidence.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

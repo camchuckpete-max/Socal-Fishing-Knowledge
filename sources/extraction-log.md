@@ -977,7 +977,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | IFhBVRoc4VQ | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA/Sanderson Farms Shelf Bass Special weigh-in/catch footage, no conditions detail |
 | fjMHM1V9iPc | StokedOnFishing | report | skip:thin-generic | skipped | Bass-stravaganza vendor/seminar-day recap interviews on standings/sponsors, no technique captured |
 | FurifnQ27mM | StokedOnFishing | on-the-water | single-pull | done | lures/bay-bass-plastics.md / added Observed block (shrimp-pattern lure worked, SWBA Border Town Brawl tournament day) + fixed missing front-matter source id |
-| wdbqTio1SQU | StokedOnFishing | on-the-water | observations-only | pending | Baja Cedros: North Pt spot noted for 30+lb yellows, brief surface-iron/yo-yo mentions, sponsor-heavy |
+| wdbqTio1SQU | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md / Cedros/North Point Observed block added (spot name + grade, surface-iron opening catch, yo-yo iron catch); one overclaimed species identity corrected during review |
 | RPSRH0jwyw4 | StokedOnFishing | on-the-water | observations-only | pending | Baja Cedros West End backside spot catch footage; series: Cedros GOES OFF part 2 |
 | yuXr3IJ8ybg | StokedOnFishing | on-the-water | observations-only | pending | SCI Pyramid Head Okuma gear-demo trip (PCH rods/Toro reels), sponsor-heavy, some catch footage |
 | Turj5ZKNcuE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Kingdom of Tonga travel/lifestyle episode; series: Stoked On Tonga part 1 |
