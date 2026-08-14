@@ -953,7 +953,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | epWXURDU-oI | StokedOnFishing | on-the-water | skip:duplicate-of-9xNhdu2aBqE | skipped | Same trip/dialogue as 9xNhdu2aBqE (Todd Klein, SCI), short highlight cut - NEW dedup finding at triage |
 | _C8w6zeVPak | StokedOnFishing | on-the-water | observations-only | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md; techniques/trolling.md: 6 Observed blocks, Cedros/Gono skiff trip |
 | BvT560Nblqo | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/trolling.md; techniques/yo-yo-iron.md: Observed blocks, Cedros ridge/chum/yo-yo iron, trolled yellowtail |
-| NGxyOlPx3ug | StokedOnFishing | on-the-water | observations-only | pending | Cedros/Gono Baja: MC Swimbaits giveaway intro, sponsor-heavy; series: Shogun Skiff Trip part 1 |
+| NGxyOlPx3ug | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; techniques/surface-iron.md: Observed blocks, Cedros/Gonzo skiff calico grade, surface-iron fall-bite at anchor |
 | Qa-j6LIwa1Q | StokedOnFishing | on-the-water | observations-only | pending | Cedros Island Baja: travel logistics + calico/yellowtail fishing; series: Cedros Island Adventure part 1 |
 | XwwIvPFxRiQ | StokedOnFishing | on-the-water | observations-only | pending | Cedros Island Baja day 2: calico/white seabass/yellowtail catch montage; series: Cedros Island Adventure part 2 |
 | 3SATCeA3KaU | StokedOnFishing | on-the-water | observations-only | pending | Baja (Geronimo/Cedros): calico surface iron, yellowtail brawl; sponsor-heavy; series: MC Swimbaits Skiff Trip part 3 |

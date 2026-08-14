@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug]
 confidence: high
 ---
 
@@ -64,6 +64,20 @@ you read the *current across the kelp*, not the tide clock.
   comparison), when the fish sat "nice and tight" at an unstated, apparently
   shallower depth. No current or water-color detail given beyond the depth
   contrast. Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros/Gono Islands, Baja —
+  `NGxyOlPx3ug`, Shogun Skiff Trip part 1; island name rendered "Donal
+  Island"/"Dono" in captions — ASR-uncertain, presumed Gonzo per the same
+  trip's other episodes): the group's first skiff stop of the trip, hyped on
+  camera against a **prior-year (2013) report from the same spot** (this
+  outing is called "the second annual trip" and, at sign-off, "the 2014 MC
+  swimbait skiff trip" on camera, so the "last time we were here... a year
+  ago" report resolves to 2013) of 9, 8, and 7 lb personal-best calico landed
+  by the first anglers out there,
+  instead produced a fast, high-volume bite at a smaller average grade this
+  time — a run of **4–5 lb** fish (repeated "solid five-pounders" and one
+  four-pounder called out) rather than the earlier trip's bigger class. No
+  current or water-color detail given. Unregistered channel — medium
+  confidence.
 
 ## Finding them (sign & sonar)
 

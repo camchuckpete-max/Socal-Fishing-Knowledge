@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug]
 confidence: high
 ---
 
@@ -144,6 +144,16 @@ the blank.
   [yo-yo iron](yo-yo-iron.md) drop, then resume the normal surface retrieve.
   Doing this every once in a while covers different depths in the water column
   instead of only fishing the top.
+- **Observed** (StokedOnFishing, 2015-01-20, Cedros/Gono Islands, Baja —
+  `NGxyOlPx3ug`, Shogun Skiff Trip part 1): anchored on a kelp bed off the
+  mother ship (breakers close by on one side of the boat), anglers bombed
+  surface iron as far as they could and let it **fall right after the cast**
+  rather than starting the swim immediately, getting bit **on the fall**; one
+  fish taken this way stayed down and would not come up to the surface, with
+  the angler crediting the eventual landing to running **Spectra** (braid). A
+  different fall-bite context (initial cast, at anchor over kelp) from the
+  mid-retrieve sink-out data point above — kept side by side, not merged.
+  Unregistered channel — medium confidence.
 
 ## Size / weight selection
 
