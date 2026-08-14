@@ -924,7 +924,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | H-vIGWPIPVc | StokedOnFishing | on-the-water | parameter-skim | done | fish-care/tuna-care.md; species/bonito.md; species/yellowfin-tuna.md: on-the-water observations added (gill-bleed mechanism, bonito table-quality vs yellowfin, SCI dolphin-pod troll-to-60lb-yellowfin) |
 | KPzJuwh6kbo | StokedOnFishing | non-fishing | skip:not-fishing | skipped | Pure tuna-steak marinade/cook recipe, no catch footage, sponsor-heavy intro |
 | z85Fy52itS8 | StokedOnFishing | non-fishing | skip:not-fishing | skipped | Pure rockfish ceviche recipe; fish caught in Alaska (mentioned only), no catch footage |
-| tzeXXPAjqUY | StokedOnFishing | tutorial | parameter-skim | pending | Seaguar mono-to-fluoro knot tie, generic |
+| tzeXXPAjqUY | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: added third StokedOnFishing mono-to-fluoro tie explicitly named 'Seaguar knot', flagged as mechanically distinct from already-logged Cesar-sourced Seaguar knot (conflict ke |
 | 1BH7nQdIg5Q | StokedOnFishing | tutorial | parameter-skim | pending | San Diego knot tie basics, generic |
 | NkjjDf6XPcE | StokedOnFishing | tutorial | parameter-skim | pending | Uni-to-uni knot tie, generic |
 | AT6zmDYxjW4 | StokedOnFishing | tutorial | parameter-skim | pending | Royal Polaris (Roy Rose) braid-to-mono knot tie, generic |
