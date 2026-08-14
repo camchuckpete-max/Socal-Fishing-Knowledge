@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ]
 confidence: medium
 ---
 
@@ -72,6 +72,16 @@ logic behind them.
   these small sizes, a **3 count** is enough before putting it in gear; you're
   setting the hook into the corner of the mouth directly rather than waiting
   on the circle's self-hooking mechanism.
+  **Observed** (StokedOnFishing, 2016-12-16, Lighthouse Point beach, East
+  Cape, Baja California Sur, `mL4Ph7t0WcQ`): surf-casting bait (~30 ft cast,
+  held stationary and thumbed on the spool) for roosterfish on a circle hook,
+  anglers were coached to let the fish take it and run rather than swing —
+  "give him a 10 count, at least 10 seconds" — before winding tight, matching
+  the 10-count circle-hook timing above; once hooked, the instruction was to
+  just wind rather than set, consistent with the corner-of-the-mouth
+  self-hooking mechanic in [fishing live bait](../bait/fishing-live-bait.md).
+  A tuna caught the same session on flylined squid was likewise handled as a
+  circle-hook fish (no active hookset described).
 - **Why circle for rockfish specifically, on a charter (Dave Hansen, Your
   Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen registered voice,
   single mention of this specific rationale — medium confidence):** on a

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ]
 confidence: medium
 ---
 
@@ -166,6 +166,15 @@ isn't yet repeated doctrine).
   butt-hooked bait swims away from a tail jerk (see the hook-position
   mechanism above), so the jerk sends it swimming straight toward the fish
   instead of sitting still on the surface.
+- **Observed** (StokedOnFishing, 2016-12-16, East Cape, Baja California Sur —
+  Hotel Buena Vista Beach Resort trip, `mL4Ph7t0WcQ`): flylined **squid**
+  (no weight, slow-drifted back from the boat, likened on camera to a chunk
+  presentation) produced a tuna bite (species not confirmed on camera) close
+  to shore early in the morning, with fish reported holding in **30–60 ft**
+  of water. Bait squid had been net-caught by the local panga crew the
+  previous night. A regional/bait data point — squid rather than the
+  sardine/mackerel/anchovy baits logged elsewhere in this note — not a
+  change to the no-weight/drift-it-back mechanic above.
 
 ## SoCal offshore mackerel flyline rig — straight fluoro, San Diego jam (Dave Hansen)
 

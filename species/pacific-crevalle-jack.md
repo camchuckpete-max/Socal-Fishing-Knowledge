@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [pacific-crevalle-jack, toro, baja, warm-water, inshore, structure]
-sources: [cameron]
+sources: [cameron, mL4Ph7t0WcQ]
 confidence: low
 ---
 
@@ -71,6 +71,15 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
   warm water brings them into range** (memory §1). Logged as a future/opportunistic
   target; the note should be revisited and upgraded if a credible SoCal/Baja
   toro source enters the corpus.
+- **Observed** (StokedOnFishing, 2016-12-16, Lighthouse Point beach, East
+  Cape, Baja California Sur, `mL4Ph7t0WcQ`): a local captain described
+  Lighthouse Point as a beach spot with a drop very close to shore holding a
+  mixed inshore assemblage fishable by surf-casting from the beach — sharks,
+  roosterfish, jacks, dorado, and even yellowfin tuna were all named as
+  catchable there (asr-uncertain: a further species name heard as "kuas" was
+  not confidently resolved and is not carried here). First data point in this
+  corpus placing jack crevalle at a named East Cape structure spot; a
+  presence note only, not a technique or behavior claim.
 
 <!-- backlinks:start -->
 ## Linked from
