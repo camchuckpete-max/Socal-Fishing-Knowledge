@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE]
 confidence: high
 ---
 
@@ -389,6 +389,19 @@ wahoo, which turned into a "full speed" dorado bite instead (the specific
 bank fished that day was not named on camera). The trip's final day
 returned to the estuary instead of another offshore run, for a multi-fish
 snook bite (kept for the table).
+
+## Resetting a long-set-back line after kelp — a drill-powered crank
+
+**Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
+`xzIaUEDklrE`; unregistered channel, sponsor-adjacent segment (Okuma product
+staff on camera) — treat the named product as low confidence, the underlying
+tip as medium): running lures **far back** (see the
+[Mad Mac](../lures/mad-mac.md) setback observation) means a long, slow hand
+wind-in every time a line picks up kelp and has to be reset. The crew's fix
+was a drill-powered reel-crank attachment (named on camera as the "Makira
+Rapid Crank") that chucks into a cordless drill and spins the reel handle
+directly, cutting the wind-in time way down. Logged as a tool tip for
+long-setback trolling programs, not as a doctrine-level gear requirement.
 
 ## Common failures
 

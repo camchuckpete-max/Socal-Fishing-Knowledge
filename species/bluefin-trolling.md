@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE]
 confidence: high
 ---
 
@@ -131,6 +131,31 @@ stay over fish), and the calm-day school-grade spread does the rest.
   bluefin. A blanked-morning data point — not a contradiction of the
   spreader-bar/Mad-Mac doctrine above, just an off morning on the lures the
   crew judged the season's best bet.
+- **Observed** (StokedOnFishing, 2022-12-14 upload, ~55 mi offshore SoCal,
+  exact bank not named on camera — `xzIaUEDklrE`; unregistered channel —
+  medium confidence; same channel and bluefin season as the `e73wPONTOJU`
+  entry above, different trip/crew): live captain narration (voice heard as
+  "Andrew," presenter-inferred) walked through an **in-season switch from
+  Mad Mac to spreader bar** made specifically to select for grade, not
+  because the Mad Mac had stopped working generally — "big [fish] one week
+  before, it was Mad Max every week," then over "this last week" and "the
+  last few days" the boat had been "getting only big ones on the spreader
+  bars" while schools that day were running mixed, **"40 to 100 plus"** lb,
+  so the crew swapped over specifically **"to target the bigger ones"** with
+  the bar. The kite was also ruled out that day for lack of wind ("we want to
+  get the kite up but there's like no wind right now, so it's gonna be really
+  hard to position that up — so spreader bars"), consistent with the
+  wind-driven kite-vs-troll call above. **Flagged conflict, not reconciled:**
+  this crew's read — spreader bar pulling the *bigger* fish out of a mixed
+  school, Mad Mac the more general/smaller producer — runs opposite to the
+  **presentation-size axis** above (small forage → bar/small presentation,
+  large forage → Mad Mac/large presentation). No forage size is given here to
+  explain the reversal; kept side by side as a distinct, attributed grade-selection
+  claim about the same two lures, not folded into the presentation-size rule.
+  Separately, this crew ran their **center/farthest-back Mad Mac much further
+  back than the documented setback** — see [Mad Mac](../lures/mad-mac.md) —
+  specifically to give a **boat-shy school** room, another attributed
+  variance kept beside, not merged into, that lure note's setback spec.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental

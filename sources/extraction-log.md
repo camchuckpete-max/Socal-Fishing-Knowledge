@@ -1021,7 +1021,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | HMdrP4-i9MM | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/sand-bass.md; techniques/dropper-loop.md; techniques/flyline.md / on-the-water kids/Okuma trip off Dana Point/N. San Diego Co.: calico+sand bass over hard bottom w/ sub |
 | eUUtSmiskbA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon peacock bass, freshwater, not SoCal/Baja |
 | l0kB6y0klwY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon Blackwater Explorer mothership promo, freshwater peacock bass |
-| xzIaUEDklrE | StokedOnFishing | on-the-water | deep | pending | Pre-ID deep: captain-narrated SoCal bluefin trolling, Mad Max/spreader bar/kite selection logic |
+| xzIaUEDklrE | StokedOnFishing | on-the-water | deep | done | lures/mad-mac.md; seasonal/november-december.md; species/bluefin-trolling.md; techniques/fighting-big-bluefin.md; techniques/trolling.md / on-the-water deep extraction: 6 Observed blocks (Mad Mac setb |
 | QCXlPULXf4A | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Puerto Rico wahoo/tuna/tarpon, Caribbean |
 | RSMA1xrGngA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Puerto Rico Caribbean charter, wahoo/yellowfin |
 | vdgf_C1-P08 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Puerto Rico Caribbean, Dorado/tarpon, sponsor-heavy |

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE]
 confidence: medium
 ---
 
@@ -33,6 +33,19 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   doesn't land the fish faster or more reliably; the boat-driving method does
   the work. On this program there's "no reason to fish [bluefin] any less"
   than **130 lb spectra/braid** minimum, whichever fighting style is used.
+- **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
+  `xzIaUEDklrE`; unregistered channel — medium confidence): a matching
+  gear-tap account, specific to a fish hooked while trolling a Mad Mac —
+  the crew's own estimate was that **roughly 80% of the fight** runs on the
+  bump-in/bump-out-of-gear method, watching rod-tip tension as the cue
+  (tip coming up / line "coming in easy" = keep bumping; a rod staying
+  loaded = hold off). Only once the fish comes **straight up and down**
+  under the boat does the crew pull the rod out of the holder to hand-fight
+  it the rest of the way in ("railroad it") — kept beside, not merged into,
+  the boat-only doctrine above as a hybrid variant (mostly boat-driven, then
+  a short hand-fought finish). Going to neutral was also driven by keeping
+  the line clear of the props, with the captain watching the fish and
+  turning the boat as needed rather than on a fixed cue.
 
 ## Walk it down-swell, avoid the death circle
 
@@ -50,6 +63,15 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   program runs **~15 min**, with **25 min** the longest recorded; a **218 lb**
   fish landed **2018-08-05** (two days before this video, per its upload date)
   took **17 min**, attributed to the constant down-swell walk.
+- **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
+  `xzIaUEDklrE`; unregistered channel — medium confidence): a boatside
+  angler-positioning tip given live, once the fish was close: tuck the rod
+  butt **under the armpit** and let the boat/swell do the work rather than
+  pumping against the fish — pull as the boat travels **down the back of a
+  swell**, and stop/ease off (don't force it) as the boat **rises on the next
+  swell**. Framed on camera as the same "let the boat do the work" logic as
+  the gear-tap above, applied to the last stretch of the fight at the rail
+  rather than to boat-driving.
 - **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
   California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
   unregistered channel — medium confidence): a contrasting, hand-fought data
