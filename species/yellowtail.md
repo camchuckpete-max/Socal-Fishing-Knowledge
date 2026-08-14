@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE]
 confidence: high
 ---
 
@@ -495,6 +495,34 @@ typical-year mapping.
   this session are logged in [yo-yo iron](../techniques/yo-yo-iron.md).
   That same boat then trolled for dorado on the way back to the harbor —
   logged in [dorado](dorado.md) and [trolling](../techniques/trolling.md).
+  **Observed** (StokedOnFishing, October 2024 trip (per on-camera reference),
+  2025-03-07 upload, Cedros Island, Baja — `6EDQtQHEwFE`, "This Year's
+  Yellowtail Bite Has Been the Best Ever"; Cedros Outdoor Adventures charter
+  with Jose's crew, part 1 of a multi-part trip series; unregistered channel
+  — medium confidence): the crew called this trip's
+  [surface iron](../techniques/surface-iron.md) bite among the best they'd
+  had at the island, fished start-to-finish on the iron alone; multi-year
+  regulars (described on camera as 8–10 years of trips to Cedros) rated it
+  some of the best fishing they'd ever had. On-camera framing tied the grade
+  to water state: the water had cooled somewhat by October, leaving
+  yellowfin tuna and dorado prospects uncertain, while yellowtail were
+  "going berserk" — consistent with, not a new mechanism beyond, this note's
+  water-temperature/bait-driven modeling stance above. Technique notes:
+  repeated **sight-casts to individually spotted fish** ("spotted him,
+  pointed at him, casted on him"), working under **birds working** overhead
+  as the visual sign — see
+  [surface iron](../techniques/surface-iron.md) for a further data point on
+  this cast. Bites also came on **mackerel** livebait and on an
+  unspecified-weight **sliding-sinker rig** ("the one with the weight on
+  it" — see [sliding sinker](../techniques/sliding-sinker.md) for a second
+  Cedros data point). A hooked yellowtail was lost boatside, grabbed through
+  the gut by a seal, before it reached the boat — logged as a further
+  mid-fight depredation instance in [fighting a big bluefin — sea lion
+  depredation at the
+  boat](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species).
+  The session closed with a roughly **30-minute** blitz under gulls "going
+  bonkers," including a triple hookup, after the crew had already called the
+  day done.
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —

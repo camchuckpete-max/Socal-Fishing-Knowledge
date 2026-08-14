@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE]
 confidence: medium
 ---
 
@@ -160,6 +160,16 @@ yellowtail; a separate fish earlier in the same session was also taken on an
 unspecified-weight sliding-sinker rig. No leader length or hook size given.
 Single-mention data point, not established doctrine — see
 [yellowtail](../species/yellowtail.md) for the same trip's other detail.
+
+**A second, later Cedros data point** (StokedOnFishing, October 2024 trip
+(per on-camera reference), 2025-03-07 upload, Cedros Island, Baja —
+`6EDQtQHEwFE`, "This Year's Yellowtail Bite Has Been the Best Ever";
+unregistered channel — medium confidence): a yellowtail was called out on
+camera as caught "on the sinker rig ... the one with the weight on it,"
+alongside the same day's mackerel-livebait and surface-iron bites — no
+weight or leader detail given, but consistent with, not a change to, the
+sliding-sinker-produces-Cedros-yellowtail pattern already logged above. See
+[yellowtail](../species/yellowtail.md) for the rest of this trip's detail.
 
 ## Fishing it — feed the bite
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE]
 confidence: high
 ---
 
@@ -53,6 +53,17 @@ the blank.
   working birds), get ahead of its line of travel and cut it off rather than
   casting into its wake, so the fish keep closing on the jig instead of moving
   away from it.
+- **Observed** (StokedOnFishing, October 2024 trip (per on-camera reference),
+  2025-03-07 upload, Cedros Island, Baja — `6EDQtQHEwFE`, "This Year's
+  Yellowtail Bite Has Been the Best Ever"; unregistered channel — medium
+  confidence): individually spotted yellowtail (not a full boil/school) were
+  sight-cast directly — "spotted him, pointed at him, casted on him" — with
+  hookups following within a couple of casts on several occasions; birds
+  working overhead were called out as a supporting visual sign on the same
+  session. A further data point for this note's placement-over-distance
+  framing above, in a session the crew called worked "using nothing but the
+  iron the entire time." See [yellowtail](../species/yellowtail.md) for the
+  rest of this trip's detail.
 - **Release point (Dave Hansen, Your Saltwater Guide, 3dVc-2rsYII, 2022-03-25;
   dave-hansen is a registered voice — high confidence):** let the jig go on the
   **outside part of the swing** as it comes back around, not at the top or

@@ -1044,7 +1044,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | RpfHO-kotc8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus); king/sockeye salmon; sponsor-heavy intro |
 | Sz88huROjtY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) halibut/rockfish; sponsor-heavy intro |
 | SS_ObRfLw2E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska halibut dropper-loop/grub jig; sponsor-heavy intro |
-| 6EDQtQHEwFE | StokedOnFishing | on-the-water | observations-only | pending | Baja (Cedros Island) yellowtail on surface iron; series: Cedros Oct trip part 1 |
+| 6EDQtQHEwFE | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/surface-iron.md; techniques/sliding-sinker.md; techniques/fighting-big-bluefin.md / on-the-water Observed blocks: surface-iron sight-casting, sliding-sinker second Ce |
 | ILBl12Jm7-0 | StokedOnFishing | on-the-water | observations-only | pending | Baja (Cedros Island) yellowtail/calico, yo-yo+surface iron; series: Cedros Oct trip part 2 |
 | u0scEBby7nA | StokedOnFishing | on-the-water | observations-only | pending | Baja (Cedros Island) wrap-up, yo-yo iron limits; series: Cedros Oct trip part 3 |
 | qBZxnRuXtGo | StokedOnFishing | on-the-water | skip:duplicate-of-SdwwpQMJEOI | skipped | confirmed: identical Olive Crest tournament script/footage as SdwwpQMJEOI |

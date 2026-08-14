@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE]
 confidence: medium
 ---
 
@@ -236,6 +236,15 @@ gamefish a sea lion is stealing boatside, not just bluefin.
   preceding this — "the Lobo just grabbed the whole entire thing," at
   00:21:13 — may describe this same fish rather than a distinct instance;
   see the sliding-sinker cross-reference in the yellowtail entry.)
+- **Observed** (StokedOnFishing, October 2024 trip (per on-camera reference),
+  2025-03-07 upload, Cedros Island, Baja — `6EDQtQHEwFE`, "This Year's
+  Yellowtail Bite Has Been the Best Ever"; unregistered channel — medium
+  confidence): a mid-fight-stage loss, distinct from the boatside tail-grab
+  and post-landing bleed-out instances above. A hooked yellowtail was hit
+  boatside by what the crew called a seal ("we're feeding the seals and
+  catching fish, too") and grabbed through the gut before it reached the
+  boat — fish lost. No free-spool/slack counter-move is described in this
+  instance.
 
 ## Common failures
 
