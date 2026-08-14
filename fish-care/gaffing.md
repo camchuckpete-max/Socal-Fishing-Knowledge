@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [gaffing, boating-the-fish, tackle, safety, bluefin, yellowtail, dorado, halibut, white-seabass]
-sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4]
+sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4, elBPRrdkugU]
 confidence: low
 ---
 
@@ -90,6 +90,15 @@ construction claims are promotional and omitted entirely), 2022-03-14
   alongside the gaff to finish securing the fish. No further tail-rope
   technique detail given. Kept beside, not merged into, this note's
   Hansen-sourced doctrine above.
+- **Observed — crew readiness on big bluefin** (StokedOnFishing, `elBPRrdkugU`,
+  2022-12-22 upload, offshore San Clemente/Catalina, SoCal; unregistered
+  channel — medium confidence): on **100–115 lb class** fish, the crew
+  stressed having **all hands on deck for the gaff shot**, not just the
+  gaffer — framed on camera as a harder job than fighting the fish, since a
+  gaffed fish of that size can still take off and needs multiple people ready
+  to handle it. A double-gaff (two gaffers on one fish) was shown on one of
+  this trip's fish. Kept beside, not merged into, the single-gaffer mechanics
+  above.
 
 ## Related
 

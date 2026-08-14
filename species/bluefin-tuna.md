@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, elBPRrdkugU]
 confidence: high
 ---
 
@@ -44,6 +44,22 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [Bight](../locations/bight-geography.md); fish aggregate where uphill current
   compresses along [island structure](../locations/island-structure.md) and the
   named banks in the [zone lexicon](../locations/zone-lexicon.md).
+- **Observed** (StokedOnFishing, `elBPRrdkugU`, 2022-12-22 upload, trip dated
+  August 2022 (per on-camera "unbelievable 2022 August"), offshore San
+  Clemente/Catalina, SoCal — "Southern California Bluefin Tuna Fishing at its
+  Finest," a spreader-bar trolling trip; unregistered channel — medium
+  confidence): a run from **Huntington Harbor**, described on camera as **a
+  little past Catalina Island, about an hour to an hour-and-a-half each way**,
+  fishing **four to five hours** — consistent with the intro's stated
+  **60–100 mi offshore** range and San Clemente/Catalina being **"a hot spot
+  for about a month"** that summer. The crew described that day's density as
+  extreme — bluefin visible **"as far as you can see in all directions,"**
+  the zone **"jugged like soccer fields"** — the same kind of 2022-season
+  bonanza framing as the `e73wPONTOJU` entry below, an August data point
+  ahead of that entry's undated fall trip. Landed fish off the spreader-bar
+  spread were called out at **100, 110, and 115 lb**, with at least one fish
+  called **"200 plus."** A whale surfaced mouth-open near the boat mid-session
+  (missed on camera), noted in passing and not otherwise remarked on.
 - **Observed** (StokedOnFishing, 2022-10-06 upload, trip date not stated,
   SoCal island zone (exact islands not named on camera) — `e73wPONTOJU`;
   unregistered channel — medium confidence): a charter captain who has fished
@@ -562,6 +578,17 @@ shot in [gaffing](../fish-care/gaffing.md).
     find during the fight — **another angler's line, the anchor rode, or the
     bottom of the boat** — not only its own leader, framed on camera as "these
     things aren't stupid."
+  - **Observed, a preventative-check practice tied to the same mechanism**
+    (StokedOnFishing, `elBPRrdkugU`, 2022-12-22 upload, offshore San
+    Clemente/Catalina, SoCal; unregistered channel — medium confidence): when
+    a hook pulled mid-fight on one of the spread's rods, the crew reeled it
+    in to check it rather than just re-rigging — reasoning on camera that in
+    **thick schools of feeding fish**, another fish can swipe the line and
+    cut the leader, or the bait/leader can pick up kelp or grass unnoticed
+    (technique not specified on camera — transcript doesn't say flylined vs.
+    trolled). Standing advice given live: if you aren't getting bit when you
+    should be, reel in and check the terminal end rather than assume the
+    spot's gone dead.
 - **Cameron (attributed — on-water observation, not doctrine):**
   - **Foamer program summary:** run-and-gun at working terns, **~2–3 casts per
     school**, smaller presentation (Colt-Sniper class) has out-fished bigger,

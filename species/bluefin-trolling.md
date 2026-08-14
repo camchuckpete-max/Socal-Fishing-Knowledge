@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, elBPRrdkugU]
 confidence: high
 ---
 
@@ -170,6 +170,30 @@ stay over fish), and the calm-day school-grade spread does the rest.
   data point on trolling converting direct bites on a quiet day, not only
   serving as a locate-and-cover tool; see [bluefin tuna](bluefin-tuna.md)
   for the same trip's contrasting night-jig grade.
+- **Observed, mixed-speed spread and a fuel-efficiency framing** (StokedOnFishing,
+  `elBPRrdkugU`, 2022-12-22 upload, offshore San Clemente/Catalina, SoCal;
+  unregistered channel — medium confidence): running a spreader-bar-plus-
+  "Mad Max"-on-camera spread (ASR-uncertain, plausibly **Mad Mac** per the
+  same reading used elsewhere in this note), the crew called out **"five,"
+  "six or seven,"** and **"15" miles an hour** (stated on camera in mph, not
+  the kt used elsewhere in this note — kept as spoken, not converted) as the
+  spread's working speeds, framing the slower end as getting bit without
+  burning fuel and the "15" as skipping over a **"dead zone" speed range**
+  where "most boats" burn fuel without producing — no exact bounds given for
+  that dead zone.
+  Kept beside, not merged into, the kt-denominated speed bands in
+  [Mad Mac](../lures/mad-mac.md) and the table above.
+- **Observed, rod/reel used on this spread's rigged rods** (same source,
+  `elBPRrdkugU`): asked on camera what rods/reels were common across the
+  boat, the crew pointed to a "best-selling" **PCH rod, captioned "741 triple
+  XH"** (ASR-uncertain on the multiplier — matches the naming pattern of the
+  **Okuma PCH-C-741XXXXH**, the 150–200 lb-class rod already logged in
+  [Cameron's rods](../profiles/cameron/rods.md), though this source's spoken
+  digit count doesn't exactly match), paired with **"50 wides"** reels and
+  spectra line on "all the reels" for the spread — a different reel size than
+  the **80-size 2-speed** logged for troll/spreader-bar in
+  [rod & reel selection](../tackle/rod-and-reel-selection.md), kept beside
+  it as a same-role, different-size data point rather than a correction.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental
@@ -181,6 +205,7 @@ stay over fish), and the calm-day school-grade spread does the rest.
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](bluefin-tuna.md)
+- [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
@@ -191,6 +216,7 @@ stay over fish), and the calm-day school-grade spread does the rest.
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)

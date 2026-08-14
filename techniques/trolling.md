@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, elBPRrdkugU]
 confidence: high
 ---
 
@@ -632,6 +632,16 @@ the same boat, a trolled line picked up kelp and was dragged for an unknown
 stretch before the crew noticed ("I wonder how long we're dragging that
 around for") — logged as a cautionary data point for running lines far back,
 not a parameter change.
+
+**Operating speed — Observed** (StokedOnFishing, `elBPRrdkugU`, 2022-12-22
+upload, offshore San Clemente/Catalina, SoCal; unregistered channel — medium
+confidence): a third mention of the same tool (captioned "Makira rapid
+crank" on camera), used here to speed up checking a rod after a hook pulled
+mid-fight rather than after a kelp pickup. Standing crew advice: run the
+drill on its **low speed setting, not high** — high speed was called out as
+getting "out of control" and putting extra tension on the reel itself.
+Logged as an operating-parameter data point for the same tool already
+covered above, not a new tool.
 
 ## Common failures
 
