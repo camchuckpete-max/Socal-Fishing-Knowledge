@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q]
 confidence: medium
 ---
 
@@ -75,6 +75,18 @@ fluoro leader, braid main line — and feed the terminal rigs in
   **6 times** down the standing line, pass through the lower loop and then through
   the upper loop you've held, lubricate, and slide the coils down tight to the
   eye before setting. Reliable across the whole SoCal range.
+  **Tag length + a second, independent 6-wrap corroboration (StokedOnFishing,
+  `1BH7nQdIg5Q`, 2020-02-11; unregistered channel — medium confidence):** a
+  separate, shorter StokedOnFishing clip on the same doubled-through-the-eye
+  tie names a working tag length of about **15 in**, wrapped around the
+  finger before wrapping down the standing line **6 times** — the same wrap
+  count as above, from a different video (not a re-cut), so it stands beside
+  rather than substitutes for that figure. Mechanic as paraphrased: pass line
+  through the hook eye, wrap the tag around a finger to hold the loop, wrap
+  down toward the hook 6 times, pass the tag through the resulting lower loop
+  and then through the finger loop, cinch by pulling the tag, then slide the
+  seated knot down to the hook eye and trim the tag. No SoCal-specific
+  parameters (line class, species, region) given in this clip.
   **Wrap-count variant (Scotty, Brothers Sportfishing, via Roman Castro,
   VpW91AKOFVQ, 2020-01-28; capt-scotty-brothers registered — high
   confidence):** ties the same knot with **5 wraps** rather than 6, reasoning
@@ -304,7 +316,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI),
 [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
 [mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
-and [Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY).
+[Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
+and [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q).
 
 <!-- backlinks:start -->
 ## Linked from
