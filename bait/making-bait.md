@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8]
 confidence: high
 ---
 
@@ -59,6 +59,20 @@ program:
 Twelve-inch mackerel are big, hearty baits — heartier than sardine (see
 [fishing live bait](fishing-live-bait.md) for how bait choice plays against the
 gamefish).
+
+## Microfiber rag jig for mackerel, and no-hands handling (dave-hansen, Your Saltwater Guide, 5FzBwvMtRP8, 2019-07-26; single mention — medium confidence)
+
+An alternate way to load mackerel into the bait tank besides the sabiki above:
+a **microfiber rag fished/dragged in the water works as a mackerel lure** —
+mackerel bite the rag itself, and it was landing them "two-to-one" against a
+mackerel-strip bait during the session.
+
+Once the mackerel is aboard, don't handle it by hand:
+
+- **Never touch a mackerel destined for the bait tank with your hands** —
+  hand contact strips off its protective slime coat.
+- **Flick the fish off the hook instead**, using a **butter knife** carried
+  for that purpose, rather than gripping the fish to unhook it.
 
 ## Baja / Sea of Cortez sabiki — heavier-rated rig (region: Baja, Sea of Cortez)
 
