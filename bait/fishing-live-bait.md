@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU]
 confidence: medium
 ---
 
@@ -43,6 +43,50 @@ mackerel, sardine, and anchovy alike (SluBXkT3cuw).
 On a butt/belly hook, hold the **two rear fins together and go right under the
 "carnage"** if you set the hook too deep — that keeps a clean, swimming bait
 (8YvmROeVL-0).
+
+**Sardine-specific mechanics and trade-off (Capt. Dave Hansen, Your Saltwater
+Guide, ZggReeO1nyU, 2022-01-07; dave-hansen is a registered voice — his
+hook-placement doctrine already sits at `high` confidence per the source
+registry, and this corroborates the circle/J and sizing doctrine already
+logged in [hooks](../tackle/hooks.md) from m2q22sPPkEM):** on a sardine
+specifically, the nose hook goes **side to side through the clear spot right
+at the tip of the nose** — not chin-to-top or top-to-chin — and it's "the
+only way" to nose-hook one. The butt hook (side to side through the body,
+just above the anal vent) is the technical option for anglers who
+specifically want the bait to swim down: hooked there, a sardine has a
+tendency to **swim in the direction opposite the pull** — typically down and
+away from the boat — which is the actual mechanism behind the "swims away"
+behavior in the table above. **Trade-off:** the butt hook draws blood, so
+that bait doesn't last as long as a nose-hooked one.
+
+### Anchovy: nose (weighted) vs. gill hook by rig
+
+Capt. Dave Hansen, Your Saltwater Guide (ZggReeO1nyU, 2022-01-07); registered
+voice, `high` confidence per the source registry's note that his
+hook-placement doctrine already repeats across the BD ids. Anchovies split
+from the sardine/mackerel nose-hook default depending on whether the rig
+carries weight:
+
+- **Any weighted rig** (a [sliding sinker](../techniques/sliding-sinker.md),
+  a [dropper loop](../techniques/dropper-loop.md), or simply a swivel added
+  to the line): nose-hook side to side through the small **white spot of
+  cartilage at the very tip of the nose**. That cartilage is there
+  specifically to take the hook without hurting the bait — an anchovy
+  nose-hooked there lives well and swims naturally as the weight pulls it up
+  or down through the column.
+- **Gill / collar hook — "the strategic way":** sized to a **No. 2 or No. 4
+  hook** in practice (the demo in this video uses an oversized 2/0 purely so
+  the hook shows up on camera, not as the actual size recommendation — see
+  the No. 4 thin-wire anchovy sizing already in
+  [hooks](../tackle/hooks.md)). Enter and exit right where the small fin
+  near the gill/collar sits, barely passing the hook through — don't come
+  out the top of the bait. **Diagnostic: if it bleeds, the hook went too deep** — a
+  clean gill hook draws no blood and leaves the bait swimming strong.
+  - **Why gill-hook an anchovy at all:** two reasons. (1) Anchovies are a
+    genuinely hard bait to cast, and the collar-hook orientation adds a
+    little resistance/friction on the cast that helps punch it out against
+    wind. (2) The hook then tends to lie flush alongside the bait's body as
+    it swims rather than sticking out, so it's less visible to the fish.
 
 ### Shoulder hook and a bone-anchored butt hook, for a finicky tensioned bite (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, but this specific mechanism is a single mention; his other logged videos are still pending extraction, so it isn't yet repeated doctrine)
 
