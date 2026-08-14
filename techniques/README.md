@@ -53,6 +53,7 @@ graph LR
   n18["Trolling"]
   n19["Yo-Yo Iron"]
   n10 --> n14
+  n10 --> n16
   n12 --> n13
   n12 --> n14
   n12 --> n4
@@ -63,6 +64,7 @@ graph LR
   n14 --> n4
   n15 --> n18
   n15 --> n9
+  n16 --> n10
   n16 --> n19
   n16 --> n6
   n18 --> n15

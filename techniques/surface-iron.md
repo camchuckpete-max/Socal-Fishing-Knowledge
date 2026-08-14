@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII]
 confidence: high
 ---
 
@@ -53,11 +53,21 @@ the blank.
   working birds), get ahead of its line of travel and cut it off rather than
   casting into its wake, so the fish keep closing on the jig instead of moving
   away from it.
+- **Release point (Dave Hansen, Your Saltwater Guide, 3dVc-2rsYII, 2022-03-25;
+  dave-hansen is a registered voice — high confidence):** let the jig go on the
+  **outside part of the swing** as it comes back around, not at the top or
+  bottom of the arc — consistent with, and a release-point detail added to,
+  the pendulum-swing mechanics above.
 
 ## Retrieve & cadence
 
 - The instant the iron hits the water, start a **nice steady grind** ("steady
   whine"), not too fast — this is the baseline for calico and picky fish.
+  **Second source, consistent (Dave Hansen, Your Saltwater Guide, 3dVc-2rsYII,
+  2022-03-25; dave-hansen is a registered voice — high confidence):** start
+  winding the instant the jig lands so it stays kicking on top, and hold a
+  **slow-to-medium** crank for calico specifically — cranking fast makes the
+  lure skip out of the water instead of swimming through it.
 - **Speed up for yellows** to really get the jig moving and swimming.
 - Read the **kick** off the rod tip: a heavy iron on a slow, wide, drawn-out kick
   is the change-up for picky bites and slack current; a smaller/faster iron
@@ -73,6 +83,12 @@ the blank.
   up onto the surface where it stops swimming right. Yellowtail will often eat
   the jig **right next to the boat or kayak** when a fish has trailed it in,
   so keep working the retrieve, tip down, all the way back.
+  **Second source, consistent (Dave Hansen, Your Saltwater Guide, 3dVc-2rsYII,
+  2022-03-25; dave-hansen is a registered voice — high confidence):** the
+  instant the jig lands, engage the reel and start cranking with the **tip
+  down in the water** so the lure looks natural — hold the tip up and the lure
+  skips on the surface instead of staying in the water and kicking as it
+  swims.
 - **Match crank speed to reel gear ratio, not a fixed cadence (same source):**
   a high-speed reel (six-point-something-to-one) has to be cranked
   deliberately slower to keep the kick correct; an older **4:1–5:1**
@@ -89,6 +105,23 @@ the blank.
   need the retrieve dialed in precisely to draw the bite. Not a conflict with
   "speed up for yellows" above — a refinement of it by location and school
   size.
+- **Hookset — wind through it, don't swing (Dave Hansen, Your Saltwater Guide,
+  3dVc-2rsYII, 2022-03-25; dave-hansen is a registered voice — high
+  confidence):** on the bite, **don't set the hook with a swing** — wind
+  through it, cranking a little quicker to drive the hooks home. A swing that
+  misses pulls the jig straight out of the bite zone and ends the shot at that
+  fish; winding keeps it in the zone for another chance. **Crank as fast as
+  you can once you're bit until the line starts peeling out the other way** —
+  that's the tell you're actually hooked up; if the line isn't going out, the
+  fish likely just missed it and there's a good chance for a repeat bite.
+  ⚠ **Conflict, kept side by side, region/technique-class label, not
+  reconciled:** this contradicts the swing-to-set doctrine for vertical
+  jigging — [knife jigging](knife-jigging.md)'s "grab the spool and give three
+  or four hard sideways swings" hookset (Ul5FLB2dFgQ) — but the two techniques
+  differ in how the fish take the jig: a vertical jig gets **sucked in** on a
+  slack-water take, while a surface iron gets **struck** on a moving retrieve,
+  so winding through keeps tension instead of yanking the jig away from a fish
+  that's still closing on it.
 
 ## Size / weight selection
 
@@ -147,6 +180,14 @@ whatever color you have full confidence in matters as much as the color itself
 (Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence,
 unregistered channel). Not generalized into doctrine — a single angler's
 confidence-color report, not a repeated pattern.
+
+**Confidence-color data point, SoCal calico bass (Dave Hansen, Your Saltwater
+Guide, 3dVc-2rsYII, 2022-03-25; dave-hansen is a registered voice — high
+confidence):** a **Wounded Warrior**-pattern surface iron is his go-to for
+calico bass — no brand/model named in this video beyond a light aluminum-alloy
+build. Kept side by side with the Cedros mint data point above, not
+generalized — a second single-angler confidence-color report, this one for a
+different species/region.
 
 **Observed** (Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ,
 2020-01-28, La Jolla): a **red crab**-pattern iron produced 2 of the day's 3
@@ -280,6 +321,7 @@ for that lure class rather than for the classic surface-iron blank.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Knife / Speed Jigging](knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)

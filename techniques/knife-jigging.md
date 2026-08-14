@@ -267,6 +267,7 @@ in **Linked from**.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
+- [Surface Iron](surface-iron.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

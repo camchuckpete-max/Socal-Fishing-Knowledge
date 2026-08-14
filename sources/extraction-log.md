@@ -810,7 +810,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | VUb7a3sP8zQ | Your Saltwater Guide | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic dehooking technique (gill-opening method) has no compliant destination at parameter-skim depth (router-absorption/no new-note-creation rules); the only calico-specif |
 | ty8FtA3Y2bA | Your Saltwater Guide | tutorial | deep | done | fish-care/sculpin-handling.md: new fish-care note: thumb-in-lip unhooking technique, full spine map, bacteria/pain warning, 10in CDFW min-size regulatory claim, table quality |
 | k80p1ShSvZs | Your Saltwater Guide | tutorial | parameter-skim | done | none: nothing extractable — generic twin-screw docking/seamanship, no fishing-specific content, no existing note to merge into |
-| 3dVc-2rsYII | Your Saltwater Guide | tutorial | deep | pending | Surface iron for calico: cast release point, slow-med retrieve, wind-not-swing hookset, tip-down |
+| 3dVc-2rsYII | Your Saltwater Guide | tutorial | deep | done | techniques/surface-iron.md: amended with cast release point, calico slow-med retrieve, tip-down retrieve, wind-not-swing hookset (flagged conflict vs knife-jigging swing-to-set), Wounded Warrior color |
 | I84uoay_jwQ | Your Saltwater Guide | tutorial | deep | pending | Sponsor gaff video but dense: hook size by species/weight, pec-gaff-flip-upside-down, no-dig-hole, safety |
 | 6X97e0AA3c8 | Your Saltwater Guide | out-of-region | skip:out-of-region | skipped | Peacock bass fishing in Florida |
 | SgF5hRlEGqU | Your Saltwater Guide | tutorial | parameter-skim | pending | Tuna-on-dolphins: pick pod w/bird marker, sounder range 0-150ft, SoCal offshore |
