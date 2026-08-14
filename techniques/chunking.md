@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid]
-sources: [E4vKwRaRueA, yKaHcxX46l4]
+tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s]
 confidence: medium
 ---
 
@@ -60,6 +60,19 @@ guts (see [hooks](../tackle/hooks.md) for the strip-bait prep) are a common
 cheap chum source for this style of anchored structure fishing — sheephead,
 sargo, and small bass.
 
+## Kelp-bed sequencing — chum the spot, then anchor up-current and back down onto it (presenter inferred as Dave Hansen, Your Saltwater Guide, RXNebDr4j7s, 2022-02-13; medium confidence — single mention, on-the-water footage)
+
+On a kelp edge with current running parallel down the coast, the anchoring
+sequence itself carries the chum. With the boat sitting on the target edge,
+toss a couple of scoops/netfuls of chum right there first. Then motor up
+**ahead of that spot, further up-current**, and drop the anchor from there,
+backing the boat down in reverse onto the water just chummed. Timed right, the
+current has been carrying scent out of the kelp the whole time, and fish come
+out of the kelp and start biting **the moment the anchor is down** and the
+boat settles back onto the chum line. See
+[calico bass](../species/calico-bass.md) for the kelp-edge species routing
+this serves.
+
 ## Common failures
 
 - **Over-chumming** — feeding so much cut bait the fish fill up on free chunks
@@ -73,6 +86,7 @@ sargo, and small bass.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 <!-- backlinks:end -->

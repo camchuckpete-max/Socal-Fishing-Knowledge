@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s]
 confidence: high
 ---
 
@@ -84,6 +84,7 @@ you read the *current across the kelp*, not the tide clock.
 | Live bait around, fish deeper on the edge or in wind | **Flyline** a sardine/mackerel ([flyline](../techniques/flyline.md)) | flyline class, 25–40 lb | Sweeps the up-current edge naturally |
 | Raging current, kelp pulled under | Slow down / switch to **subsurface** (sunk iron, leadhead) or wait for the slack | jig / leadhead class | Surface presentations die; resurfacing kelp = go back on top |
 | **Grunion-in-kelp / bait blitz** (even ugly stagnant water) | Match the bait — 7" split-tail slug on a sled/leadhead, every cast | bass class | Overrides water quality entirely; birds stay on top of the moving bait (10/20/22) |
+| Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (RXNebDr4j7s) |
 
 **Covering water is the method:** 10–25 casts to the prime edge of a bed, then
 move — 100 ft or 100 yards to the next patch of stringers. If they're not on the
@@ -127,6 +128,7 @@ present the outside stringers.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [California Barracuda](barracuda.md)
+- [Chunking](../techniques/chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
