@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U]
 confidence: high
 ---
 
@@ -34,6 +34,45 @@ the reverse map in **Linked from** below.
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
 - A heavy iron is mandatory so it **gets to the zone and stays vertical** in
   current; too light and it never reaches the fish or blows out sideways.
+- **Cadence — crank-and-drop vs. continuous wind-to-the-top (conflict,
+  attributed, kept side by side):** Capt. Dave Hansen (Your Saltwater Guide,
+  wzI0lpgKT1U, 2021-03-16; dave-hansen registered — high confidence) defines
+  "yo-yoing" as a repeated **crank-then-freespool cycle that stays down in the
+  strike zone**, not one continuous wind all the way to the surface as
+  described above — the two are kept side by side, not reconciled:
+  - **Working water (cast-and-retrieve):** cast out, free-spool the iron all
+    the way to the bottom, engage gear, crank as fast as possible for **10
+    cranks**, then straight back into freespool and let it sink to the bottom
+    again; repeat in **10-crank increments** while walking the iron back
+    toward the boat over as much as **150 yards**. Winding continuously at
+    full speed for the whole retrieve (rather than dropping back to bottom
+    between bursts) pulls the iron up out of the zone where the suspended
+    fish are holding and off the angle that makes it look like a fleeing
+    baitfish — casting it out and winding it straight back in misses where
+    the fish actually are.
+  - **Straight up-and-down under the boat:** put the reel in gear for **five
+    or six quick cranks** (roughly 20 ft of retrieve), then straight back to
+    freespool and let it fall back down; repeat, cycling through the band
+    where fish are marked — e.g., **120–200 ft of water** with fish suspended
+    **~20 ft off the bottom** (work the 100–120 ft band when marks sit at
+    120 ft). Never let the jig sit dead on the bottom or wind it up out of the
+    zone; keep cycling the same 20-ft band. Hansen visually contrasts this
+    (on camera, not described in words) against a faster, choppier motion he
+    calls "swatting flies" on his boat — explicitly **not** yo-yoing.
+  - **Strikes often come on the drop**, not the crank — the falling iron on
+    freespool looks like a dying baitfish and draws the reaction bite.
+  - **Bite-ready hand position (same source; corroborates the ready-position
+    grip already documented in
+    [Rod & Reel Selection](../tackle/rod-and-reel-selection.md) — index
+    finger on the spool, thumb on the trigger, left hand forward, never
+    thumb-on-spool from behind):** a third Your Saltwater Guide video repeats
+    the same grip through the freespool drop, so the angler snaps straight
+    into gear-and-crank on the bite instead of repositioning the hand first;
+    on the yo-yo specifically, a bite on the sink often reads as a brief stop
+    before the fish takes off with it.
+  - **Context (same source):** described as the top yellowtail method heading
+    into spring (upload 2021-03-16), when fish sit suspended near bottom over
+    squid beds and red-crab-holding bottom up and down the SoCal coast.
 - **Downsize to match small bait (Baja/Cedros, attributed):** when fish are
   keyed on small forage — **red crabs, small sardines** — one Cedros Island
   angler drops to smaller/lighter yo-yo jigs (a brass-finish yo-yo iron among
