@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ]
 confidence: medium
 ---
 
@@ -51,6 +51,19 @@ fluoro leader, braid main line — and feed the terminal rigs in
   **6 times** down the standing line, pass through the lower loop and then through
   the upper loop you've held, lubricate, and slide the coils down tight to the
   eye before setting. Reliable across the whole SoCal range.
+  **Wrap-count variant (Scotty, Brothers Sportfishing, via Roman Castro,
+  VpW91AKOFVQ, 2020-01-28; capt-scotty-brothers registered — high
+  confidence):** ties the same knot with **5 wraps** rather than 6, reasoning
+  that more wraps (he cites 7 as what some anglers use) raise the odds of a
+  wrap crossing over itself when tying quickly under time pressure. Kept side
+  by side with the 6-wrap figure above rather than reconciled — wrap count in
+  this range reads as angler preference, not a fixed number. **Why lubricate
+  before cinching (mechanism, same source):** any slack left uncinched in the
+  wraps is where the knot breaks when a fish comes tight and shock-loads it;
+  lubricating (wet the line, or a smear of lip balm/chapstick) lets the coils
+  slide down snug under friction instead of burning/damaging the line as they
+  seat — the reasoning behind wetting knots generally, stated here explicitly
+  for the San Diego jam.
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied

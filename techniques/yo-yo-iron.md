@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ]
 confidence: high
 ---
 
@@ -54,7 +54,16 @@ the reverse map in **Linked from** below.
   fast retrieve, so a strong power grind matters more than top gear ratio.
 - **Iron:** heavy [yo-yo iron class](../lures/iron-jigs.md) — a Salas 6X / Salas
   CP 105 type: drop to the mark, full-speed crank. Heavier than a surface iron
-  because it must sink fast and hold vertical.
+  because it must sink fast and hold vertical — **roughly 5–6 oz** against a
+  surface iron's 2–3 oz (Scotty, Brothers Sportfishing, via Roman Castro,
+  VpW91AKOFVQ, 2020-01-28; capt-scotty-brothers registered — high confidence);
+  light enough that it can still be cast and swum back like a surface iron if
+  needed (see [surface iron](surface-iron.md)).
+- **Reel-ratio pick for less-experienced anglers (same source):** on a charter
+  with anglers who aren't strong crankers, a **~6.6:1**-ratio reel makes it
+  easier for them to take line fast enough on the wind-up — retrieve speed
+  matters more than raw cranking power for a customer still learning the
+  technique.
 - **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
   A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** a
   stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),

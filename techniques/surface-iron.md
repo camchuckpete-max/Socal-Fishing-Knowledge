@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ]
 confidence: high
 ---
 
@@ -37,6 +37,22 @@ the blank.
 - Take the rod back to a **2 o'clock** position, **let the blank load up**, then
   launch and **slowly turn the wrist through** — the sweep is 2 o'clock down to
   9 o'clock. Let the equipment unload; don't muscle it.
+- **Pendulum swing, not a side-arm sling (Scotty, Brothers Sportfishing, via
+  Roman Castro, VpW91AKOFVQ, 2020-01-28; high confidence):** hang the jig taut
+  near the reel/handle and build the swing by moving the rod tip **up and
+  down**, not side to side — the up-down motion is what creates the pendulum
+  and adds distance; a longer rod gives a longer pendulum arc between tip and
+  jig, hence more distance. On a **crowded sport-boat bow** there's often no
+  room for a full pendulum swing; the fallback is a shorter, compact
+  one-motion lob (bring the jig down to about handle height, release in one
+  motion) — safe in tight quarters, at the cost of distance. Always look
+  behind you before casting on a crowded rail.
+- **Distance is secondary to placement.** Landing the jig ON moving fish beats
+  maximizing cast distance — a 75 yd cast at fish sitting only 40 yd out
+  overshoots them for no benefit. When a school is moving (e.g. tracking under
+  working birds), get ahead of its line of travel and cut it off rather than
+  casting into its wake, so the fish keep closing on the jig instead of moving
+  away from it.
 
 ## Retrieve & cadence
 
@@ -50,9 +66,42 @@ the blank.
 - Reel speed matters. A high-gear jig-stick reel (~**42 in per crank** on a
   Tranx-500-class HG) covers the range from a slow grind up to the fast yellow
   speed just by changing crank cadence.
+- **Rod-tip position controls whether the iron swims (Scotty, Brothers
+  Sportfishing, via Roman Castro, VpW91AKOFVQ, 2020-01-28; high confidence):**
+  fish the retrieve with the **rod tip pointed down toward the water**, not up
+  — tip-down lets the iron kick side to side properly, while tip-up pulls it
+  up onto the surface where it stops swimming right. Yellowtail will often eat
+  the jig **right next to the boat or kayak** when a fish has trailed it in,
+  so keep working the retrieve, tip down, all the way back.
+- **Match crank speed to reel gear ratio, not a fixed cadence (same source):**
+  a high-speed reel (six-point-something-to-one) has to be cranked
+  deliberately slower to keep the kick correct; an older **4:1–5:1**
+  gear-ratio reel (period conventionals like a Newell or Penn Senator) does
+  more of that slow-down for you and suits a picky bite. **Reeling too fast is
+  called out as the single most common mistake** — when fish you can see, and
+  have caught on that same jig before, won't eat, suspect retrieve speed
+  before changing jigs.
+- **Finicky bite scales with school size and location, same species and gear
+  (Scotty, Brothers Sportfishing, VpW91AKOFVQ):** a big school at the
+  **Coronado Islands** will often eat on a faster, less exacting retrieve; the
+  smaller schools worked along the mainland coast (**Del Mar down to Imperial
+  Beach**) run markedly more finicky, especially on bigger-grade fish, and
+  need the retrieve dialed in precisely to draw the bite. Not a conflict with
+  "speed up for yellows" above — a refinement of it by location and school
+  size.
 
 ## Size / weight selection
 
+- **Class weight benchmarks (Scotty, Brothers Sportfishing, via Roman Castro,
+  VpW91AKOFVQ, 2020-01-28, La Jolla; capt-scotty-brothers is a registered
+  voice — high confidence):** a surface iron generally runs **2–3 oz**,
+  distinctly lighter in the hand than a **5–6 oz** yo-yo iron (see [yo-yo
+  iron](yo-yo-iron.md)) — pick the two up and you can feel the difference.
+  A yo-yo-weight iron can still be cast and swum back like a surface iron as
+  long as it has the right action; some anglers instead cast it out, let it
+  sink on a slack line, then wind it back at roughly a **45° angle**,
+  spinning/jigging it in fast — a third cadence, distinct from both the
+  straight-up-flutter-down yo-yo drop and this note's steady surface swim.
 - **Wind up → heavier iron.** When it's windy, step up to a heavier surface
   iron (Salas 7X class) — the extra weight "makes casting out a lot easier …
   giving me a little boost in my cast" to punch through the wind (D5DR7Kx42_A).
@@ -98,6 +147,12 @@ whatever color you have full confidence in matters as much as the color itself
 (Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence,
 unregistered channel). Not generalized into doctrine — a single angler's
 confidence-color report, not a repeated pattern.
+
+**Observed** (Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ,
+2020-01-28, La Jolla): a **red crab**-pattern iron produced 2 of the day's 3
+boated yellowtail, but the captain's own read is that **the angler mattered
+more than the jig color** that trip — consistent with, not overriding, this
+note's "no systematic color doctrine" framing above.
 
 **Color-by-light framework, tuna lead jigs (Cesar, Eric's Tackle, via Dirty
 Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry
@@ -199,6 +254,15 @@ for that lure class rather than for the classic surface-iron blank.
 - **Wrong retrieve speed** — grinding too fast for finicky calico, or too slow to
   turn a yellowtail. When bit-but-not-hooking, change speed before you change
   jigs.
+- **Dropping the rod tip before you're winding.** On the hookset and through the
+  fight, **pull the rod up first, then start cranking before the tip comes
+  back down** — tip-down-then-wind puts slack in the line right as the hook is
+  trying to seat, a documented way to pop a jig out of a fish's mouth mid-fight
+  (Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ, 2020-01-28;
+  high confidence). Hold the rod up against the forearm — or braced against the
+  hip/gut, with a fighting belt on a bigger fish — rather than down low, where
+  you lose leverage. A rod that goes straight/slack mid-fight is the tell
+  you're about to lose the fish; keep constant bend and tension throughout.
 
 <!-- backlinks:start -->
 ## Linked from

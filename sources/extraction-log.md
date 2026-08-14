@@ -791,7 +791,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | EmZO8QiOfik | Dirty Hookers | tutorial | deep | escalated | escalated: guard: protected path touched: sources/source-registry.md |
 | M8hOYQ_6rSg | Dirty Hookers | tutorial | deep | done | bait/making-bait.md; lures/iron-jigs.md; lures/knife-jigs.md; lures/spreader-bar.md; rigging/trap-rig.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/dropper-loop.md; techniques/knif |
 | mWxyjDrcdXM | Roman Castro | tutorial | deep | done | techniques/foamer-casting.md / Added Roman Castro's bluefin-popper hookup/drag/fight doctrine (loosen drag on packed foamers, cast to edge to avoid scissoring, patience fighting 100lb+ fish, keep line |
-| VpW91AKOFVQ | Roman Castro | tutorial | deep | pending | Scotty(Brothers SF) teaches surface iron: 2-3oz vs 5-6oz yo-yo, assist vs treble hooks, retrieve speed match; Coronado Is. mention |
+| VpW91AKOFVQ | Roman Castro | tutorial | deep | done | lures/iron-jigs.md; rigging/essential-knots.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / Scotty/Brothers Sportfishing surface-iron doctrine merged: assi |
 | _ZThckj2TIM | Roman Castro | tutorial | deep | pending | Scotty teaches rockfishing: braid/mono topshot ratio, weak-link bottom dropper loop, rod material, 180-200ft, sonar reading |
 | Qs9oEsh3b_w | Roman Castro | tutorial | deep | pending | Scotty's full hoop-net rig: parts list, 8oz torpedo sinker, buoy/rope rigging steps for kayak lobster |
 | sgH7MgaWD1E | Roman Castro | tutorial | skip:thin-generic | skipped | Generic hacks: fish-smell removal, zip-tie hook holder, tide-timing tip; not router-grade |

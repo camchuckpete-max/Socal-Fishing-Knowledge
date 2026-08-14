@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ]
 confidence: medium
 ---
 
@@ -371,6 +371,29 @@ load. Match rod to lure by **tow/drag load, line-abrasion needs, strike
 cushioning, and line-agnostic cases** — the full logic and the rod-tip elevation
 rule are in [trolling](../techniques/trolling.md); per-lure specs live in the lure
 notes.
+
+## Drag setting (general judgment)
+
+Cross-technique judgment on setting and running the drag, demonstrated on a
+yo-yo/live-bait charter (Scotty, Brothers Sportfishing, via Roman Castro,
+VpW91AKOFVQ, 2020-01-28; capt-scotty-brothers registered — high confidence):
+the stated rule is to set the drag correctly whatever you're fishing, jig or
+live bait.
+
+- **Target roughly a quarter to a third of your lowest line-class rating.** On
+  a rod spooled with 65 lb braid backing to a 40 lb mono top shot, 40 lb is
+  the limiting class: a quarter of 40 is 10 lb, a third is ~13 lb, so the
+  target strike drag sits **~10–13 lb**.
+- **Start on the light end of that range, not the heavy end** — an over-tight
+  drag popping the line the instant a fish comes tight is a common, avoidable
+  mistake. If a hooked fish isn't giving up line while you're cranking (a
+  stalemate, not gaining), bump the drag up **one click at a time** until
+  you're gaining again; if the fish makes a hard run, let the drag do its job
+  rather than clamping down on it.
+- **Feel-test:** palm/hold the spool and try to crank against it — with time
+  on a given reel you learn what that resistance should feel like for a given
+  drag number; there's no substitute for testing it by hand before you're
+  tight to a fish.
 
 ## Resolving a class to a real rod
 

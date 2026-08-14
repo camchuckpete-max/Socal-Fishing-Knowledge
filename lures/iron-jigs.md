@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ]
 confidence: high
 ---
 
@@ -115,6 +115,35 @@ Which fish and situation calls for each is routed from the species notes —
 [sand bass](../species/sand-bass.md), [barracuda](../species/barracuda.md),
 [bonito](../species/bonito.md), [bluefin tuna](../species/bluefin-tuna.md).
 
+## Hook style — assist vs. treble
+
+Irons are rigged with either a treble hook or one/two single assist hooks on
+braided cord; which to run is a live judgment call rather than a fixed rule
+(Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ, 2020-01-28;
+capt-scotty-brothers registered — high confidence):
+
+- **Why assist hooks on bigger fish:** on a big bluefin, two points of a
+  treble can both find purchase and then work against each other through the
+  fight — because all three points share one shank, they can "auger" each
+  other back out. Assist hooks ride on **separated cords**, so even with two
+  hooks stuck in the fish they aren't fighting each other the same way — the
+  stated reason bigger-bluefin gear favors assist hooks over trebles.
+- **Real-fish hook placement, observed:** on one yellowtail landed on an
+  assist-rigged **Daiwa SK jig**, only one of the two assist hooks caught
+  inside the mouth; the second caught outside, on the face/nose, and still
+  held through the fight (VpW91AKOFVQ).
+- **Hybrid-action model data point:** the **Daiwa SK jig** (a 170 g, sardine-
+  color example fished this trip) is built to flutter like a butterfly/knife
+  jig on the drop and additionally kick side-to-side like a yo-yo iron on the
+  retrieve — action on both the fall and the crank, unlike a straight
+  butterfly jig (nearly all its action on the drop) or a straight yo-yo iron.
+
+This is a different axis from the speed-jig/slow-pitch assist-hook-count
+conflict tracked in [assist hooks](../rigging/assist-hooks.md) and [knife
+jigs](knife-jigs.md) (how many assists to run on a knife/slow-pitch jig) —
+this is choosing assist vs. treble hook *style* on a surface/yo-yo iron, not
+reconciled with or contradicting that separate conflict.
+
 ## Owned examples
 
 Cameron's owned irons (attributed `cameron`; full list and colors in
@@ -133,6 +162,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 ## Linked from
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
+- [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
@@ -140,6 +170,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Knife Jigs](knife-jigs.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
