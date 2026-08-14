@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE]
 confidence: high
 ---
 
@@ -96,6 +96,16 @@ typical-year mapping.
   border and BOLA carry yellowtail more or less year-round, grade improving
   south (cameron; thin in the current corpus — expect this entry to grow with
   the next batch).
+  **Observed** (StokedOnFishing, 2018-02-01 upload, La Bocana, Baja California
+  Sur, Pacific side ("half way down the Baja Peninsula") — `qri15R3caYE`,
+  "Stoked On La Bocana," part 1): fishing rock structure a few miles from a
+  beachfront co-op fishing camp, the crew missed a couple of "big yellows"
+  coming through on the [surface iron](../techniques/surface-iron.md) —
+  species not landed in this footage. Yellowtail was named on camera as one
+  of five species (with sand bass, barracuda, calico bass — see the
+  [calico bass](calico-bass.md) La Bocana entry — and bonito) an angler
+  reported catching over the trip. No weights or additional technique detail
+  given. Unregistered channel — medium confidence.
 - **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips

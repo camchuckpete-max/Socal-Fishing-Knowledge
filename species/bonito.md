@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg]
+tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE]
 confidence: medium
 ---
 
@@ -101,6 +101,13 @@ rather than a dedicated technique study.
   said the bleed-and-ice handling was what made the difference. Table-quality
   observation, not technique doctrine — kept beside the measure-of-life
   doctrine above rather than folded into it.
+- **Observed (Baja, region label)** (StokedOnFishing, 2018-02-01 upload, La
+  Bocana, Baja California Sur, Pacific side — `qri15R3caYE`, "Stoked On La
+  Bocana," part 1): bonito ("Bonita," some described as big) was named on
+  camera as part of the trip's mixed bag alongside yellowtail, sand bass,
+  barracuda, and calico bass (see the [calico bass](calico-bass.md) La Bocana
+  entry) — no technique, weight, or location detail given beyond the catch
+  being reported. Unregistered channel — medium confidence.
 
 <!-- backlinks:start -->
 ## Linked from

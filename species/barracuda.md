@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [barracuda, nearshore, pelagic, kelp-line, mixed-bag, surface-iron]
-sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po]
+tags: [barracuda, nearshore, pelagic, kelp-line, mixed-bag, surface-iron, baja]
+sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE]
 confidence: medium
 ---
 
@@ -30,6 +30,16 @@ dedicated program.
   warming transition ([May](../seasonal/may.md)) through the warm-stable summer
   ([June–July](../seasonal/june-july.md), [August](../seasonal/august.md)). The
   "three B's" show together at the Channel Islands on a variety day.
+- **Baja (region label, not a SoCal data point):** **Observed** (StokedOnFishing,
+  2018-02-01 upload, La Bocana, Baja California Sur, Pacific side — `qri15R3caYE`,
+  "Stoked On La Bocana," part 1): fishing rock structure a few miles from a
+  beachfront co-op fishing camp, barracuda hit repeatedly on a dropped
+  jig/plastic (name garbled beyond confident recovery in the source captions —
+  not carried) fished to roughly **80 ft**, described on camera as producing a
+  hookup "every single drop." Barracuda was also named on camera as one of the
+  trip's mixed-bag species alongside calico bass, yellowtail, sand bass, and
+  bonito (see the [calico bass](calico-bass.md) La Bocana entry). Unregistered
+  channel — medium confidence.
 
 ## Finding them (sign & sonar)
 
