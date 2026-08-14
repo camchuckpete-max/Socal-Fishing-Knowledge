@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4]
 confidence: medium
 ---
 
@@ -307,6 +307,45 @@ entries above (same failure mode, different region and gear program).
 Fishing method for this session (kite vs. flyline) is not clearly resolved
 on camera.
 
+## Under-gunned on light tackle vs. a bigger-than-expected grade (backside San Clemente Island)
+
+**Observed** (StokedOnFishing, trip framed on camera as "this past June"
+(resolved from the 2024-04-26 upload date to **June 2023**), backside San
+Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
+ElDorado," 85 ft **El Dorado**, Captain TJ — same boat/captain as the Cortez
+Bank entry directly above, a different trip/location; unregistered channel —
+medium confidence): a sundown bluefin bite (see
+[bluefin tuna](../species/bluefin-tuna.md) for the full session) turned up a
+grade heavier than the boat had geared for — anglers set up for **50–70 lb**
+fish found themselves fighting **70–90 lb, possibly bigger** bluefin, with
+several anglers still on **30 and 40 lb test** paying the price for it: the
+crew called out multiple "casualties," including at least one **leader
+broken** boatside. On camera the captain framed it as "not ideal, but we're
+making it work" rather than swapping gear mid-bite. A same-pattern data point
+beside the 40 lb/tiny-circle-hook tough hookup-to-landing ratio logged above
+from this boat/captain's Cortez Bank trip — different location, same
+under-gunned-for-the-grade situation.
+
+- **Fight-stage tell (same session):** live coaching framed a hooked fish
+  coming up shallow/high in the water column mid-fight as a **pre-sound
+  cue** — "those fish come high like that... before they sound out, go back
+  down deep, before they quit on you" — read here as bigger fish surfacing
+  briefly before either making a final deep run or giving up, a fight-stage
+  signal kept beside (not a restatement of) the boat-driven/down-swell
+  doctrine above.
+- **Rail coaching language (same session):** anglers were coached to "spin
+  them up" and "get a bend on it" once a fish was close, and to "walk him
+  down" working it boatside — consistent with, not new beyond, the
+  boat/swell-leverage rail mechanic already logged above (squat-and-stand,
+  wind on the down-swell); on the trip's **night-jig** stretch the same
+  down-swell wind cue was called out live almost verbatim — "wind down when
+  we come down with the swell" — corroborating the up-swell-ease /
+  down-swell-pull cue documented above, this time applied to a jig-hooked
+  fish after dark rather than a daytime kite/flyline fish.
+- A circle-hook hookup earlier in the same trip's kelp-paddy stretch (species
+  not confirmed on camera — see [dorado](../species/dorado.md)) is logged
+  there rather than here.
+
 ## Common failures
 
 - Hand-fighting the fish while expecting the same speed/certainty as the
@@ -322,6 +361,7 @@ on camera.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
 - [Tuna Care](../fish-care/tuna-care.md)

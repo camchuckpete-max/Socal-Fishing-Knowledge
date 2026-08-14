@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4]
 confidence: high
 ---
 
@@ -116,6 +116,29 @@ black lure doctrine in the open-water-schools row above. The on-camera
 rigging/hook-tie-in narration was not captured in the transcript (cuts
 straight to on-the-water footage), so no leader, hook size, or troll-speed
 parameters could be logged from this video.
+
+**Observed** (StokedOnFishing, trip framed on camera as "this past June"
+(resolved from the 2024-04-26 upload date to **June 2023**), backside San
+Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
+ElDorado," 85 ft **El Dorado**, Captain TJ; unregistered channel — medium
+confidence): a kelp-paddy dorado session (mixed into the same trip's
+[bluefin tuna](bluefin-tuna.md) sundowner bite) produced roughly a
+**half dozen dorado**. Live-bait chumming from the tank drew fish from the
+bow up to the corner where anglers were fishing, working under birds sitting
+over the paddy — a bow-to-corner draw consistent with the chumming/wake-up
+tricks already logged for a quiet paddy (see
+[chunking](../techniques/chunking.md)). The bite itself was described on
+camera as **picky**, with fish behaving as free swimmers rather than
+committing hard. One fish in the run — landed on **30 lb test**, fought
+boatside including going briefly under and rubbing on the hull — connected on
+a **circle hook square on the jaw**, called out on camera as unusual to see.
+**Conflict, not reconciled:** another circle-hook connection on a dorado,
+this one in the offshore kelp-paddy program itself (rather than the inshore
+beach-soak context of the `APsnsunT4gM` entry below) — sits beside, not
+folded into, the J-hook-only paddy doctrine (Ali Hussainy, E4vKwRaRueA).
+Species ID on this specific fish is from context (part of the session's
+dorado tally, not independently confirmed on camera) — kept as
+presenter-inferred.
 
 **Observed (Baja, region label)** (StokedOnFishing, 2018-02-07 upload, La
 Bocana, Baja California Sur, Pacific side — `Cobp85UvHmM`, "Stoked On La
@@ -314,10 +337,13 @@ dorado (also logged in [yellowtail](yellowtail.md)).
 
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
+- [Bluefin Tuna](bluefin-tuna.md)
 - [California Halibut](california-halibut.md)
 - [Chunking](../techniques/chunking.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

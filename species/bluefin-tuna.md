@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4]
 confidence: high
 ---
 
@@ -106,6 +106,25 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [fighting a big bluefin — mola mola interference and a tail-wrapped fish
   broken off at the
   boat](../techniques/fighting-big-bluefin.md#mola-mola-sunfish-interference-and-a-tail-wrapped-fish-broken-off-at-the-boat).
+- **Observed** (StokedOnFishing, trip framed on camera as "this past June"
+  (resolved from the 2024-04-26 upload date to **June 2023**), backside San
+  Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
+  ElDorado," a day-and-a-half charter aboard the 85 ft **El Dorado**, Captain
+  TJ; unregistered channel — medium confidence): Captain TJ's own pre-trip
+  call was a slow-pick morning bite building into an afternoon bite, which is
+  what played out — a run of kelp-paddy dorado (see [dorado](dorado.md)) and
+  some bluefin mixed in through the afternoon, then a mid-afternoon move onto
+  a **sonar mark** after running through a school of baitfish turned up a
+  **bigger grade of bluefin than the boat was expecting**, kicking off a
+  "sundown barn burner" with bluefin **up to 100 lb**. Grade climbed
+  through the session: anglers had been geared for **50–70 lb fish**, then
+  found themselves into **70–90 lb, possibly hundreds** — heavier than
+  planned for, producing hookup/break-off consequences logged in
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md). The captain
+  held on the school hoping to carry it into a **nighttime jig bite**, which
+  did produce after dark; night-meter depth and jig-retrieve detail from that
+  stretch are logged under **Finding them** below and in
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
 - **Observed** (StokedOnFishing, trip dated August 2024 — the most recent
   August before the 2025-04-30 upload date, per on-camera "our annual trip
   in August" (the intro's "last week" framing reads as recycled part-1
@@ -362,6 +381,14 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     side by side:** the corpus read is **food-following** (fish feeding on the
     risen layer); Cameron's read is that the jig bite is **likely a reaction
     bite** (*likely, not measured*).
+    **Observed** (StokedOnFishing, `r4J5nP5Bkl4`, June 2023 trip (per upload
+    date), backside San Clemente Island, SoCal; unregistered channel —
+    medium confidence): during the night jig session that followed an
+    afternoon/sundown bluefin bite (see **Where & when** above), the meter
+    read a school **stacked from about 198 ft down to 330 ft** under the
+    boat — a deeper and wider-banded read than the "fish at 180, fish at
+    230 ft" example above, kept beside it as another same-mechanism data
+    point, not a replacement.
   - **Paddy/kelp fish:** hanging under [kelp paddies](../conditions/kelp-paddies.md)
     with yellowtail and dorado — grade the paddy fast and move.
   - **Bait shape:** broken, harried, moving bait holds predators; a solid
@@ -509,6 +536,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Chunking](../techniques/chunking.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

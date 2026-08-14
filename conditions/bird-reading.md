@@ -115,6 +115,7 @@ shearwater doctrine (7/21/22) — merge it in as the missing piece:
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)

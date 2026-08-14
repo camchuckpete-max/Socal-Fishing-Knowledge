@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4]
 confidence: medium
 ---
 
@@ -259,6 +259,18 @@ can raise fish holding 40–50 ft down right up under the boat (lxFNVdDhMy4). Fi
 the **down-drift / down-wind side** — the drift carries your bait away from the
 boat and keeps the wind at your back for the cast.
 
+**Observed** (StokedOnFishing, trip framed on camera as "this past June"
+(resolved from the 2024-04-26 upload date to **June 2023**), backside San
+Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
+ElDorado," 85 ft El Dorado; unregistered channel — medium confidence): at a
+kelp paddy holding [dorado](../species/dorado.md), live bait chummed from the
+tank was credited on camera with drawing fish from the **bow up to the
+corner** of the boat where anglers were positioned to fish — a visible
+bow-to-stern pull consistent with the up-and-into-casting-range mechanism
+above, this time at a kelp paddy rather than a yellowfin/skipjack chum stop.
+The paddy fish were also working **under birds** sitting on it — see
+[bird reading](../conditions/bird-reading.md).
+
 ## Handling live squid without getting inked (StokedOnFishing, Y2bXn44lfqo)
 
 Catalina Island, 2023-08-30; unregistered channel — medium confidence.
@@ -301,10 +313,12 @@ clips above.)
 ## Linked from
 
 - [Bait Tanks](bait-tanks.md)
+- [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Chunking](../techniques/chunking.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Flyline](../techniques/flyline.md)
