@@ -82,6 +82,7 @@ water. (Consistent with the corpus "warmest × cleanest" read for
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
+- [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [October](../seasonal/october.md)

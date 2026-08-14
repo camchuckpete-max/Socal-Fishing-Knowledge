@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0]
 confidence: high
 ---
 
@@ -48,6 +48,13 @@ directions** (not lined up) and **fish metering but not biting**. The feeding
 sounder will not convert (2/20/25). Read this as a **move-or-wait** signal: either
 reposition to where current is running, or wait for the tide change to turn the
 treadmill back on (see [tide and slack](tide-and-slack.md)).
+
+A bite-pattern tell for the same shutoff, useful when you can't see the bait
+directly: a string of **baits getting hit on nearly every drop, followed by
+several drops in a row with nothing**, is often the first sign the current just
+stopped — before you consciously notice the water went slack (dave-hansen,
+Your Saltwater Guide, aFb221LUoD0, 2020-10-20; single mention — medium
+confidence).
 
 ## Current break: visual ID
 
