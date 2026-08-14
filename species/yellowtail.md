@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28]
 confidence: high
 ---
 
@@ -324,6 +324,25 @@ typical-year mapping.
   two-speed reel (brand/model ASR-garbled — heard as "cavalla"/"cabala,"
   unverified, not carried as a product name). Unregistered channel — medium
   confidence.
+  **Observed** (StokedOnFishing, 2021-10 trip (per on-camera reference),
+  2022-06-05 upload, Cedros Island, Baja — `QSmE3mdEL28`, "Stoked to Be Back
+  in Cedros Island Yellowtail Fishing"): a shallow-water program on the
+  resident home-guard fish — a rock cresting at **28 ft** was called out on
+  camera as the day's "perfect" biting depth, fish also worked down to
+  **30 ft**; the crew stepped up to an **80–100 lb line class** for the
+  shallow structure (a heavier bracket than the 40 lb floor/50 lb
+  most-everything/80 lb backup breakdown already logged for a different
+  Cedros trip in [line & leader](../tackle/line-and-leader.md) — kept side by
+  side, not reconciled). See
+  [trolling — Cedros Island](../techniques/trolling.md) for the
+  slow-trolled-live-mackerel technique and circle-hook mechanics this trip
+  ran. **Catch-and-release ethic (crew doctrine on camera):** don't keep
+  everything caught early in the day — kept fish just pile up in the
+  freezer, so pay attention to how much fish is actually going into the
+  boat; smaller fish caught "coming out of the gate" (including on
+  [surface iron](../techniques/surface-iron.md) for a smaller grade of fish
+  than the trolled bait produced) were released rather than kept. Unregistered
+  channel — medium confidence.
 - **San Benito Islands (part of the "Yellow Tail triangle" with Cedros Island
   and Punta Eugenia — see the Chester's Rock entry above):**
   **Observed** (StokedOnFishing, 2019-12-18, San Benito Island, Baja —
@@ -398,7 +417,8 @@ of water state. Kept side by side with the corpus
 | **Tight balls hugging structure** / marks on hard bottom or pinnacles (~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-ratio reel | Heavy full-size iron (Salas 6X class); hit bottom, **a couple cranks off the bottom = reaction bite**; dropper loop for live-bait presentation to the same marks |
 | **Deep marks on a high spot** (BOLA/Baja), fast drift | [Slow-pitch / vertical jigging](../techniques/slow-pitch-jigging.md) | Slow-pitch / knife-jig class, **130–250 g** | 150–300 ft zone (bit best 150–180 ft); vertical/knife jigs punch down fast in current, wing-falls flutter — **they bump it on the fall, then wind tight**; match jig weight to rod rating |
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
-| **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers trolling *for yellowtail* yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method" |
+| **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers hard-bait/feather trolling *to locate* yellowtail yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method." A **live-bait** slow-troll variant for known resident structure is now sourced — see the row below |
+| **Resident/home-guard fish over known shallow structure** (Cedros Island, Baja) | [Slow-trolled live mackerel](../techniques/trolling.md) on a circle hook, worked "not too far" back over the structure | 80–100 lb line class (a heavier bracket than the 40 lb floor / 50 lb most-everything Cedros breakdown in [line & leader](../tackle/line-and-leader.md) — kept side by side, not reconciled) | Not a locate method — a standing program over a known rock (28–30 ft crest); no-strike/wind-tight the circle hook, back the boat down once hooked; observed producing repeated hookups (StokedOnFishing, QSmE3mdEL28) |
 | **Sea lion working a hooked fish boatside** (depredation, fight-stage — not a presentation choice) | [Free-spool slack counter-move](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species): wind continuously, never pump, while bringing the fish in; once the sea lion grabs it, throw the reel into free spool to give total slack (reads to the sea lion as the line breaking, so it lets go), then wind fast to recover the fish | No gear-class change — reel-handling move on whatever outfit hooked the fish | Cross-species counter-move, observed on a hooked yellowtail (Your Saltwater Guide / Dave Hansen, 2019-11-07, SoCal, mdhoEQPqpng) |
 
 **The faces are states, not types (cameron):** because the fish roam the

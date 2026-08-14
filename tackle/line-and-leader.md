@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28]
 confidence: medium
 ---
 
@@ -169,6 +169,16 @@ able to break off** (aXF0bxAFtU0):
   for black sea bass and bigger white seabass (Ray Sharifi, Dirty Hookers,
   WE643Fue1_A, 2022-09; medium confidence, unregistered channel). See
   [yellowtail](../species/yellowtail.md).
+- **Second Cedros data point — 80–100 lb fielded as standard, not backup
+  (StokedOnFishing, 2021-10 trip, 2022-06-05 upload, Cedros Island, Baja —
+  `QSmE3mdEL28`; unregistered channel — medium confidence):** a separate
+  Cedros trip ran **80–100 lb line class** outfits as the standing gear —
+  not an 80 lb just-in-case class — for the resident home-guard yellowtail,
+  fished over shallow rock structure (**28–30 ft**). A heavier bracket than
+  the 40 lb floor / 50 lb most-everything breakdown above from a different
+  trip/source; kept side by side, not reconciled into one number — read as
+  two operators' independent line-class choices for the same resident-fish
+  risk (getting spooled into shallow rock), not a correction of each other.
 - **Mono over fluoro for surface iron (attributed preference):** one Baja/Cedros
   angler runs straight monofilament rather than fluorocarbon specifically for
   surface iron fishing — fluoro for everything else on the trip — with no

@@ -72,3 +72,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T13:20:23Z — GptrotE0x5M — evaluator-escalate
 - run: 31796980727
 - reason: the flyline.md addition states a circle-hook-mandatory claim as a Mexican sportfishing regulation (jurisdiction/as-of-date/verify-current flag are present and compliant with CLAUDE.md's regulatory-claim rule) — per evaluate-unit.md's mandatory escalation trigger, any regulatory claim must be flagged for Cameron's review regardless of how well-labeled it is.
+
+## 2026-08-14T14:33:31Z — QSmE3mdEL28 — evaluator-escalate
+- run: 31804278506
+- reason: (1) router-table fix in species/yellowtail.md changes acceptance-test output (live-bait slow-troll now sourced for Cedros resident structure instead of no-source stub) - confirm row split reads correctly; (2) new catch-and-release content is framed as on-camera crew ethic but touches the Cedros 2023 regulatory catch-and-release change - confirm no jurisdiction/as-of-date flag needed

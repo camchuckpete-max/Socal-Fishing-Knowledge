@@ -352,6 +352,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trap Rig](../rigging/trap-rig.md)
+- [Trolling](../techniques/trolling.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

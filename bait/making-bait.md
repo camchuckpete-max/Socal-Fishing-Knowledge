@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28]
 confidence: high
 ---
 
@@ -73,6 +73,17 @@ Once the mackerel is aboard, don't handle it by hand:
   hand contact strips off its protective slime coat.
 - **Flick the fish off the hook instead**, using a **butter knife** carried
   for that purpose, rather than gripping the fish to unhook it.
+
+## Cedros Island, Baja — small vs. big/medium sabiki for mackerel (observed)
+
+**Observed** (StokedOnFishing, 2021-10 trip, 2022-06-05 upload, Cedros
+Island, Baja — `QSmE3mdEL28`, "Stoked to Be Back in Cedros Island Yellowtail
+Fishing"; unregistered channel — medium confidence): locating the day's
+mackerel bait school, the crew was asked on camera whether they preferred
+**small sabikis or big/medium ones**. The reply is too ASR-garbled in the
+source captions to transcribe with confidence beyond the choice point itself
+(fragments heard: "put the six," "two arms," "smaller") — logged here as an
+open sizing question at Cedros, not as a confirmed size recommendation.
 
 ## Baja / Sea of Cortez sabiki — heavier-rated rig (region: Baja, Sea of Cortez)
 

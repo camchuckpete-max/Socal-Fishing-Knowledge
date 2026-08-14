@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28]
 confidence: high
 ---
 
@@ -39,6 +39,34 @@ top-shot specs live in each lure note.
   is referenced during one of the fights (captions render "40b" — ASR-
   uncertain, likely **40 lb**). Same trip, same recurring pattern as the part 3 observation above; kept
   side by side as distinct footage, not merged.
+- **Observed** (StokedOnFishing, 2021-10 trip (per on-camera reference),
+  2022-06-05 upload, Cedros Island, Baja — `QSmE3mdEL28`, "Stoked to Be Back
+  in Cedros Island Yellowtail Fishing"): a full-day program built around
+  **slow-trolling live mackerel** over shallow structure for
+  [home-guard Cedros yellowtail](../species/yellowtail.md) — a **live-bait**
+  variant distinct from the hardbait-trolling fallback in the two entries
+  above (this crew ran the live-mackerel slow-troll as the day's standing
+  method producing repeated hookups — "slow trolls are popping... bendo
+  here, doubles over there" — not a switch-to after a picked-at surface
+  bite). **Gear:** stepped up to an **80–100 lb line class**; mackerel bait
+  fished on a **circle hook**. **Mechanics:** no strike — let the rod load
+  and wind tight rather than swinging, consistent with the circle-hook
+  "don't strike, wind tight" doctrine already logged in
+  [hooks](../tackle/hooks.md); when a big fish couldn't be lifted
+  conventionally in the shallow structure, the crew **"railed" it** — worked
+  the fish up and over the gunnel with the rod rather than continuing a
+  standard fight. **Backing the boat down on a hooked fish** was called out
+  on camera as an important, deliberate move once a big yellowtail took off,
+  compared on camera to backing down on big bluefin. **Wind tolerance:**
+  the program kept running through building wind and whitecaps — "the good
+  news is we're just slow-trolling... I don't think the fish care" — since
+  the technique doesn't depend on a clean cast the way iron does. On the
+  stop where the fish above was hooked, the mackerel bait was set "not too
+  far" back behind the boat, over **40 ft** of water at that spot — a third
+  depth data point for this trip's structure, distinct from the 28–30 ft
+  rock noted in [yellowtail](../species/yellowtail.md) (not a claim about
+  where the mackerel bait itself was netted). Unregistered channel — medium
+  confidence.
 
 ## Running the spread — sweeps, not straight lines
 
@@ -359,6 +387,7 @@ snook bite (kept for the table).
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
