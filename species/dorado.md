@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA]
 confidence: high
 ---
 
@@ -316,6 +316,18 @@ trip's closing species-grade summary in
 [yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts), which does not
 itself mention dorado). No count, grade, or technique detail given for the
 dorado specifically.
+
+**Observed (Baja, "lower banks," region label)** (StokedOnFishing, on-camera
+trip date November 25 (year not resolved on camera — see the
+[yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts) entry for the
+date-flag detail), "lower banks," Baja — `ASitOLYzFEA`, "Intrepid 300lb dock
+day," aboard the long-range boat **Intrepid**; unregistered channel — medium
+confidence): while the boat sat anchored on one giant-tuna school for 4 days
+without moving (full trip detail in the yellowfin entry linked above), a
+school of dorado moved in and stayed around the boat for the duration — a
+school-holding/aggregation data point distinct from the kelp-paddy and
+open-water-school programs documented elsewhere in this note. No count,
+grade, or technique detail given for the dorado specifically.
 
 ## Gear summary (class terms)
 

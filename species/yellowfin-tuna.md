@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA]
 confidence: high
 ---
 
@@ -266,6 +266,47 @@ the bluefin nearby become more cooperative too.**
   session, on the crew's self-described "second day" at the bank, not part
   of this closing tally itself (see [dorado](dorado.md#where--when)). No
   technique, leader, or hook detail given for the tuna specifically.
+- **Observed (Baja, "lower banks," region label)** (StokedOnFishing, on-camera
+  trip date November 25 (year not resolved on camera; the transcript's
+  upload-date header, 2012-06-08, does not align with this November date, so
+  the year is left unresolved — flagged), "lower banks," Baja — `ASitOLYzFEA`,
+  "Intrepid 300lb dock day," aboard the long-range boat **Intrepid**,
+  dock-day interview/testimonial footage, captain introduced on camera by his
+  charter nickname "Wahoo dad"; unregistered channel — medium confidence): the
+  boat spent a couple of days searching before locking onto a single school of
+  giant tuna, then **anchored on that one spot for 4 days without moving**
+  ("we never moved... became a big floating life pad" — verbatim per the
+  auto-generated captions), sustaining what multiple crew called the best
+  trip of their lives. Species is never named in so many words on camera
+  (captions don't say "tuna" or "yellowfin"); logged here as yellowfin on the
+  strength of the triage evidence and the on-camera "cow" language ("I got my
+  first cow too") — presenter-inferred, not a confirmed on-camera species ID.
+  Dockside tallies (multiple anglers interviewed, figures not fully
+  reconciled against each other) put the grade roughly **140 lb up to
+  350 lb**, with more than one crew member citing **"7 over 300 lb"** and one
+  angler's personal tally, badly garbled in the auto-captions, that seems to
+  describe **9 fish grading roughly 140–175 lb, two of them over 200 lb**
+  (numbers uncertain — do not treat as precise); individual personal-best
+  callouts included **311 lb**, a **325 lb** fish, **338 lb**, and **350 lb**
+  — the transcript also has a second, ambiguous "325" mention immediately
+  followed by "closer... closer... 292," which reads more like an
+  interviewer guessing a different angler's weight than a second confirmed
+  325 lb personal best, so it is not counted separately here — and one crew
+  member said
+  **26 of 27 anglers** aboard landed a personal best on the trip. **Wahoo
+  dad's captain doctrine (on camera):** he holds this same November time slot
+  on his charter calendar every year specifically **because it's when the
+  bigger fish show up** on the lower banks — a seasonal-timing data point for
+  Baja giant-tuna grade, distinct from (not merged into) the SoCal
+  water-regime calendar elsewhere in this note. Bycatch while anchored: a
+  school of dorado moved in and stayed around the boat for the duration (see
+  [dorado](dorado.md#where--when)), and wahoo swam through the school on and
+  off (no dedicated wahoo species note exists in this KB to route that detail
+  to). One hooked fish tangled on the boat's **sonar dome/transducer** and
+  took a crew member going in the water repeatedly (reported on camera as
+  five times) to free it; a separate fish's line was spliced twice mid-fight
+  after crew went overboard to work on it. No technique, leader, or hook
+  detail given for any hookup on camera.
 
 <!-- backlinks:start -->
 ## Linked from
