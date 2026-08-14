@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M]
 confidence: medium
 ---
 
@@ -65,6 +65,21 @@ note owns the rig and the retrieve.
   a spot or the shoreline — **be mobile:** if nothing bites in about **20 minutes,
   move**, the fish may be only 20 yards off. Be patient; a halibut on plastic is
   never a sure thing.
+
+## Hookset — take up slack first (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence)
+
+Drop shot's light spinning line is why beginners are told to learn bite-feel on
+this rig first, but it also makes the hookset the failure point:
+
+- **Never set the hook into slack.** On light line, driving the hookset while
+  there's slack between rod tip and bait is what pops the leader — not the
+  hookset force itself. On the bite, first wind down and lower the rod to take
+  up the slack, and only then set.
+- **A missed swing costs nothing**, so swing on anything that doesn't feel like
+  bottom — a bump, a lack of contact — rather than waiting to be sure; the worst
+  case is pulling a plastic out of grass or rock and recasting. The discipline
+  that matters is taking up slack before the swing, not hesitating on the swing
+  itself.
 
 ## Gear class
 

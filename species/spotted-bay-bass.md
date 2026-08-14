@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M]
 confidence: high
 ---
 
@@ -37,6 +37,18 @@ every structure spot when the tide turns.
   **up-current of the structure** and re-read when the tide switches — a spot on
   the up-current side of a channel edge on the flood is on the wrong side after
   the change ([tide and slack](../conditions/tide-and-slack.md)).
+- **Read current off the grass, cast up-current across the grain:** eelgrass
+  blades lean visibly with the flow like a flag. Cast up-current and retrieve
+  with the lean rather than against it — retrieving against the grain drags the
+  lure into the standing blades and snags, while retrieving with the grain swims
+  clean; a bass also sits facing up-current, so it sees the lure coming toward it
+  down-current instead of from behind (Roman Castro, EGKesj7V64M, 2019-06-18;
+  medium confidence).
+- **Slack itself is the slow window:** roughly the half hour before and half
+  hour after a tide's high/low turn, current all but stops — fish the
+  moving-water stretch on either side of that window rather than the peak
+  itself (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence), consistent
+  with the fully-tide-driven doctrine above.
 
 ## Finding them (sign & sonar)
 
@@ -55,6 +67,16 @@ General method: [search & glassing](../planning/search-and-glassing.md).
 - **Sign:** birds sitting on the riprap mark the current deviations
   ([bird reading](../conditions/bird-reading.md)); watch your line on the sink —
   the twitch/take-off is the bite before the rod feels it.
+- **Loose clustering, not tight schools:** spotties aren't shoulder-to-shoulder,
+  but they do hold in the same general zones — especially one favored eelgrass
+  patch. After a bite, work that same spot and the water immediately around it a
+  few more casts before moving on (spearfishing/diver observation, Roman Castro,
+  EGKesj7V64M, 2019-06-18; medium confidence).
+- **Read grass color, not just grass presence:** brown, decaying eelgrass is
+  releasing CO2 as it dies, so that water runs less oxygenated; green,
+  photosynthesizing grass is producing oxygen. If you snag brown grass, move to a
+  green patch — color is a fast proxy for which water is holding fish (Roman
+  Castro, EGKesj7V64M, 2019-06-18; medium confidence).
 
 ## Situations → techniques
 

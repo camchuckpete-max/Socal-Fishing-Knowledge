@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M]
 confidence: medium
 ---
 
@@ -51,8 +51,22 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
 - **Drop shot** — [drop shot](../techniques/drop-shot.md): weight on the bottom,
   bait suspended just above, shake it in place; twitch-reel-twitch a fluke, steady
   wind a grub. Light spinning, 10–12 lb leader, light drag.
+- **Drag-and-pause retrieve** (Roman Castro, EGKesj7V64M, 2019-06-18; medium
+  confidence) — an alternative cadence to the Ned bounce-and-drop or the
+  drop-shot twitch: with the bait already down, lift the rod tip (no reeling) to
+  drag the bait a short distance across the bottom, then lower the rod while
+  reeling up the resulting slack so the bait sits still through the reset;
+  repeat drag-pause-drag. From the fish's side it reads as a drag then a dead
+  stop, not a swim.
 
 Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md).
+
+## Rigging tip — glue the head to the plastic
+
+A drop of super glue between a jighead and a soft-plastic body (Ned/fluke/
+paddletail) stops the bait sliding down the hook shank when a fish grabs it
+off-center — a loose bait rides low on the hook and misses the hookset (Roman
+Castro, EGKesj7V64M, 2019-06-18; medium confidence).
 
 ## Owned examples
 
