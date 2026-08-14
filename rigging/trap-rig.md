@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [halibut, live-bait, stinger, drift]
-sources: [qIKGJSEE2aY]
+tags: [halibut, live-bait, stinger, drift, grouper, cabrilla, baja, sea-of-cortez]
+sources: [qIKGJSEE2aY, M8hOYQ_6rSg]
 confidence: medium
 ---
 
@@ -31,6 +31,26 @@ the short, tail-grabbing bites halibut are known for still find a hook.
 - **Judgment:** keep a little slack to the stinger so the bait swims naturally
   rather than being bound tight between the two hooks.
 
+## Baja, Sea of Cortez grouper variant
+
+Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered
+voice, single mention of this rig — `medium` confidence; region: Baja, Sea of
+Cortez. A same-family "trap hook" rig fished for grouper/cabrilla
+bottom fishing over reef structure — same underlying idea as the halibut trap
+rig above (a second hook covers the part of the bait a fish grabs first),
+applied to a different target and a longer live bait:
+
+- **Components:** one hook through the **nose** of the bait, a second hook
+  placed **toward the middle of the body or toward the tail.**
+- **When to fish it:** live baits that run **longer** (not necessarily
+  larger) — small yellowtail or barracuda used as bait. A grouper **under
+  roughly 100 lb** often can't swallow a whole big bait, but will grab the
+  **tail** of a long bait like a barracuda or small yellowtail; the trap hook
+  covers that tail-grab bite the way a single nose hook would miss.
+- **Judgment:** choose trap-hook vs. a straight single grouper hook (see
+  [grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar))
+  by bait length and expected fish size, not as a fixed rule.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=qIKGJSEE2aY
@@ -39,5 +59,6 @@ Video: https://www.youtube.com/watch?v=qIKGJSEE2aY
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 <!-- backlinks:end -->

@@ -1,6 +1,6 @@
 ---
 type: technique
-tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail]
+tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
 sources: [mUrihh0V59M, cameron, dEPuDrhoClM]
 confidence: high
 ---
@@ -42,6 +42,12 @@ this note owns the rig and the retrieve.
   regional weight reference rather than confirmed dropper-loop parameters (Ray
   Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
   medium confidence).
+
+**Note:** a same-region Baja/Sea of Cortez grouper leader (Cesar, Dirty
+Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a
+swivel, leader below to the hook** — that's the [sliding-sinker](sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar)
+rig format, not a dropper loop (hook above a fixed-position sinker); it does
+**not** confirm which format the reference-weight entry above used.
 
 ## Single vs. double dropper (Duane Diego Malloy)
 

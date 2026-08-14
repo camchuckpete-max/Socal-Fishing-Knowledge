@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes]
+tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg]
 confidence: high
 ---
 
@@ -37,6 +37,14 @@ behavior**:
   your fingertip at its midpoint. Heavier toward the tail/back end → it's a
   **speed jig**. Balances flat without tipping either way → it's a
   **slow-pitch/wing-fall jig** (Ul5FLB2dFgQ).
+- **Visual/profile tell (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20;
+  Cesar is a registered voice, single mention — `medium` confidence):** a
+  speed jig is generally **heavier in the
+  bottom section** — built to get down fast in heavy current for aggressive,
+  fast-moving fish like yellowtail. A slow-pitch jig reads as **squattier and
+  center-weighted** — flat on one side, a bit of an angle on the other, short
+  and wide — the shape that gives it more flutter on the fall; you're not
+  meant to work it as fast as a speed jig.
 - **Weight ranges by program:**
   - BOLA bottom yellowtail (slow-pitch): **130–250 g wing-fall** jigs eating
     well over high spots at 150–180 ft.

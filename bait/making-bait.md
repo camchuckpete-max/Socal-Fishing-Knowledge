@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja]
-sources: [cameron, dEPuDrhoClM]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg]
 confidence: high
 ---
 
@@ -59,6 +59,22 @@ snap a light sabiki instantly**):
 
 (Ray Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
 medium confidence; region: Baja, Sea of Cortez.)
+
+### Sabiki quality/durability (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention — `medium` confidence; region: Baja, Sea of Cortez)
+
+Complements the line/sinker ratings above with a quality doctrine: **don't
+bring cheap, inexpensive sabiki rigs.** They don't hold up — a string can go
+out with six hooks and come back with four, then three, then one, and the
+window for making bait on a Sea of Cortez trip is short, so losing hooks
+mid-session costs fishing time. Run **heavier-line, more durable sabikis**
+instead:
+
+- **4-hook rig** for smaller bait.
+- **2-hook rig** for bigger bait — fewer hooks but each one (and the line) is
+  rated to handle a bigger fish on the string without snapping.
+
+Both configurations trade hook count for line/hook durability rather than
+running the lightest possible sabiki.
 
 ## Dedicated sabiki setup (building)
 

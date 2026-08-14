@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8]
+tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg]
 confidence: high
 ---
 
@@ -52,6 +52,19 @@ Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
 seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
 2022-09; medium confidence, unregistered channel).
+
+**Baja, Sea of Cortez iron/metal-jig kit (Cesar, via Dirty Hookers,
+M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention of these
+specific claims — `medium` confidence for the sizing/application logic, `low`
+for specific model names per his registry caveat; region: Baja, Sea of
+Cortez):**
+
+- **Yo-yo jigs:** **3 oz up to 5–6 oz.** **Crocodile-style spoons** are also
+  named as a good bait for this application.
+- **Micro metal jigs (Jigpara-class, ~60 g):** fished for sierra, and also
+  for cabrilla during the day — cabrilla sometimes won't eat a bigger
+  surface bait, but a smaller metal jig gets down and draws bites the bigger
+  bait misses.
 
 **Tuna-specific "old-school" heavy jig lineup (Cesar, Eric's Tackle, via Dirty
 Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry

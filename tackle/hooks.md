@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, live-bait]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg]
 confidence: medium
 ---
 
@@ -177,6 +177,37 @@ Baja, Sea of Cortez):
   it was 12/0" (uncertain between 12/0 and 14/0; preserved as stated rather
   than rounded to one number).
 
+**General bait-hook and grouper-hook doctrine (Cesar, via Dirty Hookers,
+M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention of these
+specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
+
+- **General bait/chunk hooks, by bait:** nothing smaller than **8/0** for
+  mackerel or other cut bait; a **8/0 to 12/0** range covers the assortment
+  needed, including chunk bait fished for grouper and pargo on the reefs. This
+  is a separate, general bait/chunk assortment — distinct from the
+  grouper-specific target hook below — so its 12/0 top end is a coincidence,
+  not a corroboration of the ~12/0 grouper figure above.
+- **Grouper hook shape — why the gap matters (mechanism):** a big grouper or
+  black sea bass has a very heavy, wide jaw (unlike a tuna's), so the hook
+  needs a **big, wide gap** to clear the jaw and a **good cutting point**,
+  because the hook has to punch through the jawbone rather than just find
+  flesh. He names his own preference as **Jobu hooks** (`low` confidence
+  brand reference per Cesar's registry caveat) for this. Two rig styles are
+  fished: a trap-hook pair (see [trap rig](../rigging/trap-rig.md)) and a
+  straight single hook. His own grouper-leader build (see [sliding-sinker —
+  Baja grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar))
+  runs a **12/0-class Jobu hook** (captions render "12 oz," almost certainly a
+  mishearing of "12 aught" given hooks are sized in aught throughout this
+  transcript) — this **does corroborate the ~12/0 grouper figure above from a
+  second, independent source and trip**; repeated across two sources, that
+  specific 12/0 grouper-hook figure reaches `high` confidence even though the
+  rest of this entry is a single mention.
+- **Hardbait/jerkbait replacement hooks for cabrilla:** carrying spares is
+  called out as important, but this trip's transcript gives no sizing or
+  split-ring detail beyond "have replacement hooks for your jerk baits" — see
+  the extra-strong-wire treble/split-ring specifics already logged above from
+  the different Sea of Cortez trip that does give numbers.
+
 ## Related
 
 - [Fishing live bait](../bait/fishing-live-bait.md) — nose/collar/butt hooking and
@@ -199,6 +230,7 @@ Baja, Sea of Cortez):
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

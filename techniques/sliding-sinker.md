@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid]
-sources: [apyGy3XKlss]
+tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
+sources: [apyGy3XKlss, M8hOYQ_6rSg]
 confidence: medium
 ---
 
@@ -48,6 +48,58 @@ fish sit is the router; this note owns the rig and how you feed the bite.
 - Result on the water: the **egg sinker bounces off the bottom and the bait
   wafts behind it** in the current, which triggers bites. Strong on both the
   anchor and the drift.
+
+## Baja, Sea of Cortez grouper leader (Cesar)
+
+Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered
+voice, single mention of this specific build — `medium` confidence, `low` for
+the brand mentions per his registry caveat; region: Baja, Sea of Cortez. A
+grouper/cabrilla bottom rig built on this note's sliding-sinker format
+(egg sinker riding free above a swivel, leader down to the hook) rather than a
+dropper loop:
+
+- **Sinkers:** carry **at least 8 oz**, going to a minimum of **16 oz**, and
+  heavier still if the current calls for it — consistent with the 16–24 oz
+  Baja weight range logged on [dropper loop](dropper-loop.md) from a different
+  source/trip (that entry never confirmed its own rig format, so treat the two
+  as parallel weight data points, not as confirming each other's rig style).
+  **Sliding egg sinkers are preferred over torpedo sinkers** for grouper down
+  there; sometimes two or three 8 oz egg sliders are run together rather than
+  stepping up to one bigger sinker. A **torpedo sinker (16–20 oz) on a short
+  ~6 in breakaway** is the fallback alternative.
+- **Leader:** about **6 ft long** — no need to run it longer. **300–400 lb**
+  leader material, a **swivel on one end** (a 350 lb rated ball-bearing swivel
+  in the presenter's own build), a **big hook on the other** — a **12/0-class
+  Jobu hook** in the presenter's own build (asr-uncertain: captions render
+  this "12 oz Jobu hook," almost certainly a mishearing of "12 aught" given
+  hooks are sized in aught throughout this transcript; "Jobu" itself is
+  spoken clearly, twice, so it is carried as a `low`-confidence brand
+  reference per Cesar's registry caveat rather than treated as unreconstructable).
+  The sliding egg sinker rides up against the swivel.
+- **Why 6 ft and not longer:** running straight braid to a grouper leader is
+  the failure mode — hook a grouper and it runs for a rock, gets past a short
+  leader, and cuts you off on the rocks. The fix is **not** a longer bite
+  leader; it's a **long mono top shot above the leader** — minimum **30
+  yards**, ideally at least **100 ft of 100–130 lb mono** — so the abrasion-
+  and-stretch section that has to survive rock contact is the mono top shot,
+  not the fluoro/heavy-mono bite leader itself. **Mono over fluoro** is the
+  stated preference here specifically for the stretch, though fluoro is
+  fishable if that's what's on hand.
+- **Crimp stiff, don't snel** the hook: run the tag through one side of the
+  eye, wrap around the shank a couple of times, then crimp through the
+  opposite side — this keeps the hook rigid so it can't pivot when a grouper
+  hits, rather than folding over like a snelled hook can. The presenter notes
+  he snells poorly at 300 lb test and crimps for that reason; a shop can tie a
+  stiff snell instead if you don't crimp your own.
+- **Working the bottom:** drop to bottom, then **wind up three or four turns**
+  so the bait sits roughly **10 ft off bottom** rather than dragging and
+  snagging — most of the Sea of Cortez rigs are fished this way rather than
+  bait-on-bottom.
+- **Alternate rig for long/live bait:** see the [Baja grouper trap-hook
+  variant](../rigging/trap-rig.md#baja-sea-of-cortez-grouper-variant) —
+  nose + mid-body hook — for small yellowtail or barracuda live bait, used
+  when a sub-100 lb grouper is grabbing the tail rather than swallowing a
+  whole bait.
 
 ## Fishing it — feed the bite
 

@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [trolling, offshore, spread, tuna, dorado, marlin]
-sources: [cameron, HzE4FHHcvTk]
+tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg]
 confidence: high
 ---
 
@@ -81,6 +81,21 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
   for conventional bar setups — a platform constraint of his boat (see his
   [boat](../profiles/cameron/boat.md)), not a rule that bars beat single lures.
   On a bigger cockpit both are on the table.
+
+## Baja, Sea of Cortez trolling lure kit
+
+Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered
+voice, single mention, product-endorsement caveat applies — the lure picks
+below are brand references, `low` confidence; region: Baja, Sea of Cortez. A Sea of Cortez
+trolling kit, ahead of casting for cabrilla or yo-yoing:
+
+- **Hardbaits:** Nomad-class, Rapala-class, and Yo-Zuri-class divers, plus
+  **mirror lures** — called out as a staple among anglers who troll the Sea of
+  Cortez.
+- **Micro spreader bars for dorado:** see the [Baja dorado micro spreader bar
+  section](../lures/spreader-bar.md#baja-sea-of-cortez-micro-spreader-bars-for-dorado)
+  — a different class from the bluefin-scale bars covered in that note.
+  Feathers are not commonly trolled down there; when they are, they run small.
 
 ## Common failures
 

@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY]
+tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg]
 confidence: high
 ---
 
@@ -20,6 +20,11 @@ in **Linked from**.
   [deep scattering layer](../conditions/deep-scattering-layer.md).
 - Deep [yellowtail](../species/yellowtail.md) and other gamefish holding in a
   strong drift where a fast vertical rip out-fishes a fluttering jig.
+- **Baja, Sea of Cortez (region: Baja):** vertical/speed jigs for fishing
+  heavy current over deep structure — described as a growing technique down
+  there for yellowtail and for snowy grouper on deep structure (Cesar, via
+  Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single
+  mention — `medium` confidence).
 
 ## Mechanics
 
@@ -39,6 +44,17 @@ in **Linked from**.
   jig; on the wind-up, lift the rod tip **while simultaneously winding a full turn
   of the handle** — it's a timing/coordination skill and upper-body endurance, not
   just a fast wind.
+- **Plain-language version of the same stroke, pump-and-wind-down (Cesar, via
+  Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single
+  mention — `medium` confidence):** worked as **pump up,
+  wind down**, at a noticeably **faster pace than a slow-pitch jig** (see
+  [slow-pitch jigging](slow-pitch-jigging.md)) — not frantic, but faster. If
+  fish are bumping the jig without a solid hookup at the working pace, **speed
+  it up** rather than slow down; yellowtail specifically are aggressive and
+  often respond better to more speed, not less. **Sea of Cortez yellowtail
+  sizing:** start around **150 g** and work up to about **350 g**; anything
+  heavier than 350 g becomes a lot of work for the angler for little added
+  benefit.
 - **Slack it, don't tightline it, on the drop.** Whip the rod tip up quickly, then
   **slack the line down quickly** rather than holding it tight — a tight line on
   the drop puts resistance on the jig's nose and kills the action (it can't

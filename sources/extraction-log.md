@@ -789,7 +789,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | U4zifdssSes | Dirty Hookers | tutorial | deep | done | rigging/assist-hooks.md; lures/knife-jigs.md / new rigging note on assist-hook sizing/cord-stiffness/tying (single top, double tail) from Cesar; cross-linked as 5th attributed hook-count/placement var |
 | unARAuTgF_A | Dirty Hookers | tutorial | deep | escalated | escalated: guard: deleted 38 lines from curated note: rigging/assist-hooks.md |
 | EmZO8QiOfik | Dirty Hookers | tutorial | deep | escalated | escalated: guard: protected path touched: sources/source-registry.md |
-| M8hOYQ_6rSg | Dirty Hookers | tutorial | deep | pending | Baja (Sea of Cortez) tackle talk w/ Cesar: trolling lure/spreader-bar picks, sabiki quality, grouper leader |
+| M8hOYQ_6rSg | Dirty Hookers | tutorial | deep | done | bait/making-bait.md; lures/iron-jigs.md; lures/knife-jigs.md; lures/spreader-bar.md; rigging/trap-rig.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/dropper-loop.md; techniques/knif |
 | mWxyjDrcdXM | Roman Castro | tutorial | deep | pending | Bluefin popper doctrine: foamer ID/approach, pop cadence, drag mgmt, avoid braid-scissoring, patience fighting 100lb+ fish |
 | VpW91AKOFVQ | Roman Castro | tutorial | deep | pending | Scotty(Brothers SF) teaches surface iron: 2-3oz vs 5-6oz yo-yo, assist vs treble hooks, retrieve speed match; Coronado Is. mention |
 | _ZThckj2TIM | Roman Castro | tutorial | deep | pending | Scotty teaches rockfishing: braid/mono topshot ratio, weak-link bottom dropper loop, rod material, 180-200ft, sonar reading |

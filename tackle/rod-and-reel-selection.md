@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE]
+tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg]
 confidence: medium
 ---
 
@@ -246,6 +246,84 @@ On a charter you can't pick the grade in advance, so carry a spread
   100–130 lb top shot) that also fishes a daytime sinker rig, plus a 7'6" XXH
   50–100 lb with a parabolic tip that presents a jig better. **Never fish under
   100 lb line at night.**
+
+## Baja, Sea of Cortez gear quiver (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention of these specific builds — `medium` confidence for the build logic, `low` for specific model endorsements per his registry caveat; region: Baja, Sea of Cortez)
+
+A tackle-talk breakdown of what a Sea of Cortez trip needs, framed as three
+base rod sizes plus jigging-specific rods:
+
+- **50–60 lb rod**, 6.5–7 ft, no longer than 7 ft — the mid-weight all-rounder.
+- **100 lb heavy outfit**, preferably 6–6.5 ft, not much longer — for grouper.
+  This rod **doubles as the trolling rod** (big Nomad-class hardbaits, mirror
+  lures) with a heavy two-speed reel (a **Daiwa Saltiga 60**-class reel in the
+  presenter's own build, sized to hold enough 100 lb line to keep spool
+  diameter up — model name is a product endorsement, `low` confidence). **Rod
+  butt matters for trolling/holder use:** want a **slick/hard butt**, not a
+  long hypalon-type butt — a hyper-long soft butt can jam in the rod holder
+  when a fish hits, costing time getting the rod out; a hard/slick butt pulls
+  free easily and is designed to be fished out of the gunnel holder rather
+  than held.
+- **Yo-yo iron / surface iron rod:** **8 ft, 20–50 lb.** Stated preference for
+  8 ft over the "purist" 9 ft jig-stick standard, specifically because a panga
+  is a **small fishing platform** — a 9–10 ft rod makes it hard to work a big
+  fish close enough to gaff with the short (4–5 ft) gaffs typically carried
+  aboard, and a longer rod is more awkward around the boat and to travel with.
+  The 8 ft rod doubles as a straight yo-yo rod too.
+- **Vertical speed-jig rod:** short, **5.5–6 ft**, rated **150–350 g, up to
+  400 g.** Called out specifically as devastating on yellowtail and
+  amberjack, and cited as a technique gaining popularity with skippers in the
+  Bay of LA. Line: **50–65 lb braid**, with a stated preference for 50 over
+  65. Reel: a **Valiant 800 narrow**-class reel (product endorsement, `low`
+  confidence) — a taller, narrower reel described as close to a
+  "yellowtail-special" size; on vertical speed jigging you want to **gain as
+  much line as possible per pump**, and a taller/narrower spool profile does
+  that better than a wide reel of the same capacity.
+- **Slow-pitch rod:** also **5.5–6 ft**, described as a lighter/fun jig outfit
+  fished up to ~200 g, taking white seabass, lane snapper, yellowtail,
+  amberjack, and occasionally grouper.
+
+### Grouper / trolling top-shot and leader
+
+See [sliding-sinker — Baja grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar) for
+the full leader build; the top-shot half of it lives here: a **minimum 30 yd,
+ideally 100 ft, of 100–130 lb mono top shot**, preferred over fluoro for the
+stretch, run above the 6 ft grouper leader so rock abrasion is absorbed by the
+mono section rather than by a bite leader that's too short to survive a run
+into structure.
+
+### Cabrilla jerkbait casting gear and color/retrieve doctrine
+
+Two rod/reel builds for casting jerkbaits at cabrilla, by the same presenter:
+
+- **Light outfit:** 65 lb braid to 50 lb mono top shot.
+- **Heavy outfit:** 80 lb braid to 80 lb leader.
+- **Reel:** a **Daiwa Lexa T-Wing 300**-class reel (product endorsement, `low`
+  confidence) preferred over the larger 400 size specifically for **hand
+  fit** — the 300 is easier to grip and hold through a full day of casting;
+  nothing wrong with the 400, it's just wider. **Heavy drags** are the norm —
+  cabrilla hooked with the drag hammered down will still take line "like
+  you're in free spool."
+- **Rod-bend-as-shock-absorber (mechanism):** newer-generation rods built with
+  a **slower bend** act like a built-in shock absorber, taking up cushion that
+  a button-tight drag doesn't give — the extra bend in the blank helps keep
+  hooks pinned rather than pulling free, an alternative to backing the drag off.
+- **Color by light (decision logic):** early morning, late afternoon, and
+  other low-light situations — fish **white, other bright colors, or dark
+  colors** (all three can produce in low light). Once the sun is up and light
+  penetration increases, **metallics and flashier colors** get bit better.
+- **Bait size by time of day:** fish are more aggressive and take larger baits
+  (the **170-class** size is the recommendation) early; as the bite gets more
+  finicky through the middle of the day, **drop to a smaller size** (a
+  150-class, or a Hydro Minnow LC/Mag Minnow-class bait) — the smaller baits
+  don't have as aggressive an action, but that's exactly what triggers a
+  finicky midday cabrilla that won't respond to the bigger bait's action.
+  (Model names — Hydro Minnow LC, Mag Minnow — are product references, `low`
+  confidence.)
+- **Retrieve:** burn these jerkbaits **fast** — all of them are designed to be
+  worked at speed, not a slow twitch retrieve.
+- **Color rotation for a day of cabrilla fishing:** a hardcore day (six baits
+  fished) should carry **at least two, ideally three,** of whichever colors
+  are producing best that trip, rather than one of everything.
 
 ## Inshore baitcast — three sizes (Academy Ep15, ONH1K2MOp7Q)
 
