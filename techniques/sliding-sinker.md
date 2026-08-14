@@ -182,6 +182,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

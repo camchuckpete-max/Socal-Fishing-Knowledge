@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA]
 confidence: medium
 ---
 
@@ -336,6 +336,20 @@ Two rod/reel builds for casting jerkbaits at cabrilla, by the same presenter:
 - **Color rotation for a day of cabrilla fishing:** a hardcore day (six baits
   fished) should carry **at least two, ideally three,** of whichever colors
   are producing best that trip, rather than one of everything.
+
+### A second, parallel gear rundown — Gonzaga Bay, Sea of Cortez (Baja) inshore trip
+
+Kept side by side with the outfit above rather than merged — a different trip
+and presenter, same close-structure cabrilla/calico-style casting application:
+**7–8 ft heavy/extra-heavy rods**, **6:1 high-gear-ratio reels** (fast
+retrieve). **65 lb spectra was the mandatory minimum**; most of the crew ran
+**80 lb spectra tied to a 3–4 ft, 80 lb mono and/or fluorocarbon top-shot**.
+Lures fished: a **6 in suspending jerkbait in smelt color** and a **7X surface
+iron in mint color**, worked both near and far around the rocky points/edges
+(StokedOnFishing, `A6s-A1NARuA`, 2015-10-28; unregistered channel — medium
+confidence; region: Baja, Sea of Cortez, Gonzaga Bay). Structure fished this
+way produced wolf-pack grouper as well as cabrilla, described by the crew as
+behaving "just like calicoes."
 
 ## Inshore baitcast — three sizes (Academy Ep15, ONH1K2MOp7Q)
 

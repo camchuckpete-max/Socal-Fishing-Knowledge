@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA]
 confidence: medium
 ---
 
@@ -175,6 +175,19 @@ able to break off** (aXF0bxAFtU0):
   `_Wb4z4ammoM`, 2015-10-29; unregistered channel — medium confidence;
   region: Baja, Sea of Cortez, Gonzaga Bay). No wire gauge or leader length
   given in source.
+  - **Depth/bait/drag, same trip, part 2 — a separate bait-dropping
+    technique:** grouper specifically were also fished by dropping baits
+    rather than casting, starting around **80–90 ft of water**, on a wire
+    leader with the **biggest baits available**, drag run button-down/locked
+    rather than eased — the crew fished expecting to get broken off at that
+    setting. No line class given for this specific drop in source
+    (StokedOnFishing, `A6s-A1NARuA`, 2015-10-28; unregistered channel —
+    medium confidence; region: Baja, Sea of Cortez, Gonzaga Bay). See also
+    the parallel (mono/fluoro, not wire) Cesar leader build for this same
+    species/region in
+    [sliding-sinker — Baja grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar) —
+    kept side by side, not reconciled, since the two sources specify
+    different leader materials for the same fishery.
 
 ## Connections (parameters — steps are in the rigging notes)
 
@@ -203,6 +216,7 @@ able to break off** (aXF0bxAFtU0):
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
