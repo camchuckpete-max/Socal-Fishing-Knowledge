@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo]
 confidence: high
 ---
 
@@ -261,6 +261,64 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
   for conventional bar setups — a platform constraint of his boat (see his
   [boat](../profiles/cameron/boat.md)), not a rule that bars beat single lures.
   On a bigger cockpit both are on the table.
+
+## SoCal, Catalina — Tanker Lanes/277 Bank Marlin Troll
+
+**Observed** (StokedOnFishing, presenter/angler Jimmy Decker, 2014-11-08
+upload, SoCal — `3qSY328fFYo`, "Marlin Fishing with Jimmy Decker"; unregistered
+channel — medium confidence): a half-day [striped marlin](../species/striped-marlin.md)
+trolling stop; see that note for the tide-timing and catch-result data from
+the same session, and [bait-and-switch](bait-and-switch.md) for the dropback
+mechanics.
+
+- **Run/location.** From the home port, the boat's plotted track was
+  **19.2 miles at 193°** to the **tanker lanes** (roughly 17 miles out), then
+  on toward the **277 bank**, sitting at the bottom of the ridge running off
+  Catalina's east end — a further ~35-minute run once past the tanker lanes.
+  Target water temp for the stop was **68°F**, hunted for specifically before
+  dropping the jigs in.
+- **Spread setup.** Everything was run **short and tight** for this boat: on
+  the outriggers, roughly **four to five wakes** back; the flatlines were run
+  **real close to the boat**. The lure roster that day: a **flying-fish**
+  swimmer in one rigger, an unnamed swimmer captioned "NE," a Hawaiian-style
+  lure, and a small pink lure nicknamed "the little pinky" — the lure that
+  had produced a fish the week before.
+- **Troll-downhill sun rule.** Don't troll into the sun. Trolling "downhill,"
+  with the sun behind the boat, makes it much easier to watch the jigs
+  because you can see them clearly behind the boat. The tradeoff: a fish
+  that comes up **behind the jigs**, close to the boat, shows a good
+  silhouette against the water and is easy to spot; a fish that shows up
+  further out, ahead of the boat toward the sun/prop-wash glare, is much
+  harder to see.
+- **Watching the jigs is the top non-driving job.** A fish can hit a jig
+  without popping the outrigger release clip or the rubber-band line-release
+  — it can whack a jig and not trip anything — so someone has to be watching
+  the jigs/prop wash continuously; missing that moment can cost several fish
+  in a day, and a missed strike can easily be mistaken for a piece of kelp
+  popping a line instead.
+- **Sounder use.** The console sounder was set to display down to **120 ft**
+  so bait could be spotted on the meter while under way, cross-checked against
+  visual sign (small bait schools skittering/getting spooked at the surface,
+  a large cloud of bait metered directly under the boat before the first
+  drop of the day). Mackerel was specifically called out as a bait species
+  identifiable on the meter that day.
+- **Jumper vs. feeder.** A marlin seen jumping alone isn't necessarily about
+  to bite — on camera the crew had no settled explanation for why marlin jump
+  (parasite-shedding and simple play were both offered as guesses). What
+  matters is whether a jumper **turns into a feeder working bait** — those
+  fish are described as "usually all bite."
+- **Temperature break.** Mid-morning the boat crossed a small (about
+  two-tenths of a degree) temperature break; a nearby boat reported getting
+  bit, or having a fish come up, on the **colder** side of that break, and
+  this boat worked the cold side afterward.
+- **Result.** The stop produced a hooked and released striped marlin
+  estimated on camera at roughly **160 lb**, hooked in the corner of the
+  mouth on the flying-fish swimmer. Exact line class fished isn't stated on
+  camera, but mid-fight the angler said "now I wish it was 50 lb tackle" —
+  implying the outfit actually in use was lighter than 50 lb, without naming
+  the class. The captain's rule of thumb for jig-raised marlin generally:
+  expect to convert roughly **one hookup for every five or six** fish
+  raised/interested.
 
 ## Baja, Sea of Cortez trolling lure kit
 
