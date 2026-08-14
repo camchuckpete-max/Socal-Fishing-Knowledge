@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8]
 confidence: high
 ---
 
@@ -241,6 +241,40 @@ present the outside stringers.
   been noticeably more kelp on a prior visit. No current/water-color/tide
   detail given beyond the kelp presence; audio quality on this source is poor
   and no further technique detail could be reliably extracted.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 1" —
+  `iQLyBzhOSi8`; same fourth-annual tournament named in the `IATPg9110CE`/
+  `PKf7G3uL4io` entries below, which date it to roughly early November 2014
+  off the shared 2014-11-11 upload date — this video's own on-camera slate
+  instead reads "at Cat[alina] Twin Harbor's 2012, fourth annual COOC"
+  (~00:03:29), so the footage itself may document the 2012 running of the
+  event, with 2014-11-11 only a later YouTube upload/re-upload date;
+  day-one setup, Two Harbors, Catalina Island): the day-one dockside
+  briefing named a stack of live
+  variables without resolving them into a plan ("we don't have a game plan
+  just yet") — a **full moon**, "pretty big tides," "pretty extreme
+  temperatures," and heavy **squid** around the island. Swell was tracked
+  **day by day** on camera across the event window: **5–7 ft** the day
+  before day one, **4–6 ft** on day one, **4–6 ft** forecast for day two,
+  and **3–5 ft** forecast for the following Sunday — a generally easing
+  trend; a **small craft advisory** was also mentioned in passing for part
+  of the field. The intro framed the event's typical January timing broadly
+  as a hazard combination at "the local Islands" of **thick kelp,
+  razor-sharp boiler rocks, and big waves** that "can ruin the day," and
+  organizers separately warned anglers to be careful of the **big swells**
+  that day. One team on camera set out to run for **San Clemente Island**
+  ("Clemente"/"the big island") rather than stay at Catalina, citing "some
+  really big swells" for that crossing; that team's landing put them in at
+  a spot named on camera as **Northwest Harbor** — a location this KB
+  already documents as a San Clemente Island spot (see
+  [chunking](../techniques/chunking.md) and
+  [the spot list](../sources/spot-lists.md)) — where the water was
+  found **dirty and washed out**, with conditions described on camera as
+  running from "a different direction than we normally get"; separately, a
+  little current was noted running along the front side. The team worked
+  back north from the harbor, then down the front side of the island. No
+  visibility, current-strength, or confirmation that the "different
+  direction" remark specifically meant current (vs. swell/wind) is given.
+  Unregistered channel — medium confidence.
 - **Observed** (StokedOnFishing, "California Offshore Challenge, part 3" —
   `IATPg9110CE`; event dated to roughly early November 2014 per the
   2014-11-11 upload — exact on-camera date not given): day two of the

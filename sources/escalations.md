@@ -64,3 +64,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T09:18:11Z — ntQXxcH5sjI — evaluator-escalate
 - run: 31783949091
 - reason: species/bluefin-tuna.md's Situations to techniques router table gained a new row (shallow bait-ball marks / yo-yo iron) — router-table change, mandatory escalation per acceptance-test trigger even though accurate/faithful/additive; Cameron should confirm the new row belongs in the router at GATE B review.
+
+## 2026-08-14T11:37:27Z — iQLyBzhOSi8 — evaluator-escalate
+- run: 31789364874
+- reason: On-camera slate reads 2012 for the fourth annual COOC, while already-committed parts 2 (PKf7G3uL4io) and 3 (IATPg9110CE) entries assume ~2014 from the shared YouTube upload date only; Cameron should decide whether those two entries need the same on-camera-year caveat since all three parts may document the 2012 tournament, not 2014.

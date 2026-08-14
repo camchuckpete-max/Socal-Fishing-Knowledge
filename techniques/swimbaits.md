@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8]
 confidence: high
 ---
 
@@ -86,6 +86,29 @@ confidence.
   particular day rather than a fixed rule, consistent with the with/against/
   perpendicular-to-current speed variation above. Unregistered channel —
   medium confidence.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 1" —
+  `iQLyBzhOSi8`, Northwest Harbor / front side, San Clemente Island, day
+  one; this video's on-camera slate reads "2012" for the fourth-annual
+  event (~00:03:29), vs. the 2014-11-11 YouTube upload date used elsewhere
+  in this KB for the same tournament — see the note in
+  [calico bass](../species/calico-bass.md)): once a
+  producing spot was located, the angler was coached to **drop straight
+  down to the bottom**, then **wind 10 or 15 turns up before free-spooling
+  back down**, and repeat — lure type not named on camera. Read alongside,
+  not confirmed identical to, the crank-then-freespool yo-yo cadence Dave
+  Hansen teaches in [yo-yo iron](yo-yo-iron.md#mechanics) (there specified
+  as 10-crank bursts on iron, for yellowtail); this data point runs a
+  slightly higher turn count (10–15) and targets calico bass over
+  structure rather than yellowtail — a sits-beside data point, not a
+  reconciled rule. Unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, "California Offshore Challenge, part 1" —
+  `iQLyBzhOSi8`, San Clemente Island, day one, closing out the same crew's
+  session toward a five-fish limit): fishing turbulent water right off
+  exposed rocks, the crew described casting **up onto the rocks
+  themselves** and letting the bait **sit in the wash**, then working it as
+  it **drops off the rock shelf into the water** — the bite typically came
+  **right as it dropped off the shelf**. No lure type, leader, or rod
+  detail given. Unregistered channel — medium confidence.
 - **Observed** (StokedOnFishing, "California Offshore Challenge, part 3" —
   `IATPg9110CE`, Santa Barbara Island, event ~early November 2014 per the
   2014-11-11 upload): a plastic worked tight to rock structure was cast in,
@@ -294,4 +317,5 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->
