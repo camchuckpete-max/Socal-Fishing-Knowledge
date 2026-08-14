@@ -1057,7 +1057,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 7U4N1f0viOU | StokedOnFishing | on-the-water | observations-only | done | none / confirmed duplicate/re-cut recap footage of the already-logged Cedros Oct-trip series (Bonito Island/Chester's Rock/mackerel-bait-circle-hook content all previously captured); no new extractabl |
 | R1F66XIjf3E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba Island) yellowfin tuna; sponsor-heavy intro |
 | sHnqSIOjTdM | StokedOnFishing | on-the-water | observations-only | done | bait/bait-tanks.md; species/bluefin-trolling.md; species/bluefin-tuna.md; species/white-seabass.md; species/yellowtail.md; techniques/fighting-big-bluefin.md / on-the-water observations merged as Obse |
-| mDmbGdQAy-4 | StokedOnFishing | on-the-water | deep | pending | SoCal (Huntington Beach/Santa Barbara Is.) kite+flying-fish rig, railroading; overlaps usHl-4SfqDA footage |
+| mDmbGdQAy-4 | StokedOnFishing | on-the-water | deep | done | fish-care/tuna-care.md; species/bluefin-tuna.md; techniques/fighting-big-bluefin.md / on-the-water/deep extraction: weight-without-scale formula, foamer/troll-plug-failure observation, and 'railroadin |
 | SdwwpQMJEOI | StokedOnFishing | on-the-water | observations-only | pending | SoCal (Long Beach) Olive Crest bass tournament; primary of qBZxnRuXtGo dup |
 | Y1xeieQI3B4 | StokedOnFishing | on-the-water | observations-only | pending | SoCal (Cortez Bank/Eldorado) day2 wrap+switch to rockfishing; series: Cortez Bank trip part 3 |
 | nQvJnfb5jQ4 | StokedOnFishing | on-the-water | observations-only | pending | SoCal (Cortez Bank/Eldorado) bluefin+yellowtail fly-line; series: Cortez Bank trip part 2 |

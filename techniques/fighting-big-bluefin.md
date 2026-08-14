@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4]
 confidence: medium
 ---
 
@@ -104,6 +104,18 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   rail style "awkward" on their first fish — one wedged the rod between his
   legs rather than under the armpit as shown. Reel used on this program's
   kite/fighting outfits: **Okuma Makaira 50 Wide**.
+- **Naming — "railroading" (StokedOnFishing, `mDmbGdQAy-4`, 2025-10-06
+  upload, SoCal, NE of Santa Barbara Island — "Catching Monster Bluefin
+  Using a Flying Bait | Catch & Cook"; unregistered channel — medium
+  confidence; same operation/trip as the entry directly above, likely
+  overlapping footage):** this source names the whole beltless, boat-
+  leverage, rail-locked style above **"railroading"** ("lock the rod to the
+  rail and let your body in the boat do the work... that's when all the
+  railroading kicks in") — a **different sense of the word** than the
+  `xzIaUEDklrE` entry above, where "railroad it" names only the final
+  hand-fought stretch once a fish comes straight up and down under the boat.
+  Kept side by side, not reconciled: same operation, two different scopes
+  for the same term.
 - **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
   California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
   unregistered channel — medium confidence): a contrasting, hand-fought data

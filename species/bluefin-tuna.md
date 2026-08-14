@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4]
 confidence: high
 ---
 
@@ -262,6 +262,18 @@ shot in [gaffing](../fish-care/gaffing.md).
   on camera as **two Pacific bluefin tuna per person per day**
   (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel — medium
   confidence).
+- **Observed** (StokedOnFishing, `mDmbGdQAy-4`, 2025-10-06 upload, SoCal, NE
+  of Santa Barbara Island — "Catching Monster Bluefin Using a Flying Bait |
+  Catch & Cook"; unregistered channel — medium confidence): foamers all
+  around the boat did not convert to bites — a trolled spreader-bar pass and
+  cast plugs into the visibly feeding fish both went scoreless. The crew's
+  read on camera was that these SoCal fish were **locked onto tiny natural
+  bait (saury, anchovies, microbait)** and simply weren't eating anything
+  that didn't match it closely; going back to a dead flying fish under the
+  [kite](../techniques/kite-fishing.md) — already what had been producing
+  that day — is what converted. Kept beside, not merged into, the existing
+  tiny-anchovy-downsizing note in the foamer row above; adds **saury** as
+  another named prey species and the specific troll/plug failure data point.
 - **Conflict — calendar vs water state:** the corpus **year-anniversary prior**
   ("go back to this date last year and the year before — pretty close to where
   they'll be," strongest in fall) sits against **Cameron's water-first stance**

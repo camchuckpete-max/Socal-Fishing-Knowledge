@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [tuna, bluefin, yellowfin, fish-care, ikejime, gaffing]
-sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA]
+sources: [JeexIvtUkZc, w6DDCSLu8vM, H-vIGWPIPVc, usHl-4SfqDA, mDmbGdQAy-4]
 confidence: medium
 ---
 
@@ -118,6 +118,16 @@ loins are cut off the carcass.
   salt-water rinse. This step happens at the dock during processing, after the
   fish is already off the boat — it follows, and does not replace, the
   slurry-chilling chain above.
+
+## Estimating weight without a scale
+
+**Observed** (StokedOnFishing, `mDmbGdQAy-4`, 2025-10-06 upload, SoCal, NE of
+Santa Barbara Island — "Catching Monster Bluefin Using a Flying Bait | Catch
+& Cook"; unregistered channel — medium confidence): with no way to lift a big
+bluefin onto a scale on deck, the crew estimated weight with a tape measure
+and the standard **length × girth² ÷ 800** formula (inches, result in lb) —
+worked out loud on this fish as **46 in girth, 68.5 in length**, for an
+estimated **≈181 lb**.
 
 ## Related
 
