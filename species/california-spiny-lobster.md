@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0]
 confidence: medium
 ---
 
@@ -36,6 +36,14 @@ re-checked against **current CDFW rules** before every trip — they change.
   not off it in open sand.**
 - **When — night.** Lobster crawl and feed after dark; hoop netting is a nighttime
   activity, which is why the buoys carry **LED lights** to relocate them.
+- **Moon timing — darkest nights best.** Within the season, favor the **darkest,
+  no-moon nights** (including rough/rainy/stormy dark nights): a bright moon
+  suppresses lobster crawling/travel the same way daylight would, since they're
+  nocturnal to avoid predation. This is a lean, not a shutout — hedged by the
+  same source's own record of catching lobster (and knowing others who caught
+  "lots") during full moons too (dave-hansen, fri_BWI-VA0, 2022-02-12). See
+  [moon](../conditions/moon.md#lobster-darkest-no-moon-nights-are-best) for the
+  full writeup and how this contrasts with the pelagic/bass moon doctrine.
 
 ## Finding them (sign & structure)
 
@@ -111,6 +119,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Island Structure](../locations/island-structure.md)
+- [Moon](../conditions/moon.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

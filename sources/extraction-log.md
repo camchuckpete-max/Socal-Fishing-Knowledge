@@ -822,7 +822,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | JJClvPhKIdo | Your Saltwater Guide | promo | skip:promo | skipped | Promar sabiki stick-rod product demo, no technique content |
 | F0g5r9Rkrd4 | Your Saltwater Guide | tutorial | parameter-skim | done | tackle/rod-and-reel-selection.md: added ready-position/index-on-spool/thumb-trigger/free-spool-to-bottom/wind-hookset section, attributed Dave Hansen, medium confidence |
 | RXNebDr4j7s | Your Saltwater Guide | on-the-water | parameter-skim | done | techniques/chunking.md; species/calico-bass.md: added kelp-bed chum-then-anchor sequencing (medium confidence, Dave Hansen presenter-inferred), situations-table row + link in calico-bass; fixed gear-c |
-| fri_BWI-VA0 | Your Saltwater Guide | tutorial | deep | pending | Moon-phase doctrine: 7-days pre/post full moon, night travel behavior, lobster no-moon timing |
+| fri_BWI-VA0 | Your Saltwater Guide | tutorial | deep | done | conditions/moon.md; species/california-spiny-lobster.md: merged moon-phase doctrine (7-day pre/post-full-moon window, 20nm night-travel behavior, lobster no-moon timing), attributed dave-hansen, high  |
 | U-dGRQ0X-Mc | Your Saltwater Guide | tutorial | parameter-skim | pending | San Clemente Island rockfish: slow steady wind, no jerk/pump, avoids pulling hook out |
 | OpA0OqRgj00 | Your Saltwater Guide | tutorial | deep | pending | Anchoring: chain-not-straight-rope, anchor-wt ladder by boat size, free-spool drop for pinpoint; sponsor/rant-heavy, Cabo-based host |
 | 9xHgdtNek1U | Your Saltwater Guide | tutorial | skip:duplicate-of-gKrYKvqHUjk | skipped | sweep sim 1.000, text-identical re-upload of 2020 fly-line rig video |

@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [moon, lunar, bite-windows, bluefin, white-seabass, calico-bass, paddies]
-sources: [XLVUhV8DW64, DnSqw4r7A1s, -JZpyWLdKlk, HnqiE05vdXs, Z3rZqy2Pi8E, Blh2BA-7Ono, 5D1vx29LVpI, LEiyB9QNzHY]
+tags: [moon, lunar, bite-windows, bluefin, white-seabass, calico-bass, paddies, spiny-lobster]
+sources: [XLVUhV8DW64, DnSqw4r7A1s, -JZpyWLdKlk, HnqiE05vdXs, Z3rZqy2Pi8E, Blh2BA-7Ono, 5D1vx29LVpI, LEiyB9QNzHY, fri_BWI-VA0]
 confidence: high
 ---
 
@@ -20,9 +20,14 @@ them as shifts to your search prior and timing, not as on/off switches.
 - Late-November **bluefin** day windows were tied to the **new moon** (11/23/22).
 - **Swordfish** bites rise around both new and full and the weeks flanking them.
 
-**Dissenting view (kept side by side):** one sportboat captain (2020 full-moon
-short) argues the best window is **7 days before AND 7 days after**, with the moon
-peak itself being the travel period, not a bite period.
+**Dissenting view (kept side by side):** Capt. Dave Hansen (Your Saltwater Guide,
+fri_BWI-VA0, 2022-02-12) argues the best window is **7 days before AND 7 days
+after** the full moon, with the moon peak itself being the travel period, not a
+bite period — doctrine he says he was taught early in his career by captains he
+worked for. He ties the window specifically to **bluefin tuna**: "that stuff
+really gets going" in the 7-days-after window. His stated overall take is that
+the full moon itself **"is not good"** for the bite, softened by "I've seen a
+bite in a full moon also" — treat as a probability lean, not an absolute.
 
 **Reconciled working rule:** treat full/new **±1 week** as elevated-probability
 windows, with the **leading days strongest** and the moon peak itself a
@@ -41,6 +46,18 @@ overnight** (7/21/22). After the October full moon, "the tuna are gone" was a
 - **Widen the search prior** toward same-date prior-year locations
   ([year-anniversary prior](../seasonal/year-anniversary-prior.md)).
 
+Capt. Dave Hansen puts a wider figure on the same behavior — schools "move **20
+miles** after a night of a full moon," calling out **albacore, bluefin, and
+yellowfin** by name as species he's seen do it (fri_BWI-VA0, 2022-02-12). Keep
+both figures side by side (10–15 nm vs. 20 nm) rather than averaging them — they
+are different observers' estimates, not measurements. He also ties a same-day
+bite-timing pattern to the travel: the morning **after** a full-moon night is
+typically slow ("it hasn't been really located, or it's been feeding all night
+and doesn't have a tendency to feed real well right away"), with the bite
+**picking back up late in the day**. If fishing is unavoidable on a full moon,
+plan to **fish it late rather than push the early-morning window**
+(fri_BWI-VA0).
+
 ## Daytime bass suppression on the full moon
 
 On clear full-moon nights, calico and sand bass **gorge at night and shut down by
@@ -55,6 +72,21 @@ Fish move paddy-to-paddy **only in darkness**. A paddy that is dry stays dry all
 day — check it fast (look, sonar, one bait) and move on; plan a **paddy line**,
 not a stakeout. Moon-bright nights drive **bigger** paddy-to-paddy redistribution.
 See [kelp paddies](kelp-paddies.md).
+
+## Lobster: darkest, no-moon nights are best
+
+Unlike the pelagic/bass doctrine above, [California spiny lobster](../species/california-spiny-lobster.md)
+runs the **opposite** moon lean. Lobster are nocturnal feeders because
+"everything wants to eat a lobster," and on a bright moonlit night they have
+**less tendency to travel and crawl** — a bright moon reads to them the same as
+having the sun out. Capt. Dave Hansen's stated best hoop-netting conditions are
+the **darkest, no-moon nights**, including rough/rainy/stormy dark nights —
+"the dark, dark, darkest nights are the best" — with the normal safety caveat that
+sea conditions (not the moon) are the hard go/no-go call. He hedges the doctrine
+with his own record: he's "never done very good during a full moon" hoop
+netting but has caught lobster, and knows others who caught "lots of lobsters,"
+during a full moon too — so treat this as a lean, not a shutout
+(fri_BWI-VA0, 2022-02-12).
 
 ## Tide amplitude coupling
 
@@ -72,6 +104,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 
 - [Bluefin tuna](../species/bluefin-tuna.md)
 - [White seabass](../species/white-seabass.md)
+- [California spiny lobster](../species/california-spiny-lobster.md)
 - [Tide and slack](tide-and-slack.md)
 - [Day-plan protocol](../planning/day-plan-protocol.md)
 
@@ -82,6 +115,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](kelp-paddies.md)
