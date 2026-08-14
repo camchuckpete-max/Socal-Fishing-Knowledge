@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ]
 confidence: high
 ---
 
@@ -156,6 +156,40 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   stretch — cast away from, not on top of, a hooked angler or a knot of
   anglers already fighting fish, to avoid tangling their fish — is logged
   in [surface iron](../techniques/surface-iron.md#the-cast).
+- **Observed** (StokedOnFishing, `LsFMBCa9DOQ`, video uploaded 2025-02-05,
+  "Three Days of Epic Bluefin Fishing on the Ranger 85," part 1 of the same
+  3-day charter aboard the 85 ft **Ranger 85** covered by the `QSvzVHW9UMk`
+  (part 2) and `zBd1mayUt_I` (part 3) entries below — this video released one
+  week earlier than part 2, out of **H&M Landing, San Diego**; unregistered
+  channel — medium confidence): pins the series to a **morning departure in
+  mid-August 2024** under **Captain Jake Hensley**, who took ownership of the
+  boat in 2020. Framed on camera as one of the best Pacific bluefin seasons in
+  years coastwide, with fish reported spread from Mexico north to Oregon
+  (Oregon noted here only as scene-setting for the scale of the 2024 season,
+  not carried as SoCal-region doctrine). The captain named the grounds as
+  **Cortez and Tanner Bank**, describing the school's arrival there as a
+  sudden switch just the week before the trip, after fish had been scattered
+  and sparse; he called the resulting distribution unusually wide for the
+  fishery — **"not very common to just drive through 20 to 30 miles of
+  fish"**, with a boat 15 miles away seeing the same thing rather than the
+  more typical isolated 4–5 sq mi patch — and cited **50 to 100 fish days**,
+  with anchor and drift fishing both producing. Running out overnight, the
+  boat started yo-yo/jig fishing around **1:00 am**; that first-night session
+  put roughly a **half dozen fish on the boat, in the 30 lb class** — an
+  earlier, lower count than the "tally into the 20s" and "day one... about
+  96" cumulative figures already logged from the `QSvzVHW9UMk` part-2 entry
+  below, consistent with this part-1 footage covering only the trip's opening
+  hours. Sonar/depth detail from the same overnight session is logged under
+  **Finding them** below.
+- **Observed, same session (`LsFMBCa9DOQ`):** a crew member's hook/line
+  guidance for that finicky bite matched, and gave a stated reason for, the
+  **No. 4/No. 2 hook, 20 lb fluorocarbon leader** figures already logged in
+  the `QSvzVHW9UMk` part-2 entry below (same trip); the same crew member also
+  stated a personal **J-over-circle** hook preference for bluefin — a
+  **conflict, kept side by side** with the circle-hook-for-bluefin doctrine
+  documented elsewhere in this note, one crew's stated preference on one
+  trip, not reconciled with it. Full quotes and detail in
+  [hooks](../tackle/hooks.md).
 - **Observed** (StokedOnFishing, `QSvzVHW9UMk`, video uploaded 2025-02-12,
   "Epic Bluefin Fishing Aboard the Ranger 85!," part 2 of the same 3-day
   charter aboard the 85 ft **Ranger 85** covered by the `zBd1mayUt_I` part-3
@@ -234,6 +268,14 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   bluefin windows; late-November day windows tie to the **new moon**. On the
   moon, open-water fish travel at night and relocate — treat absence of reports
   as coverage bias, not absence of fish ([moon](../conditions/moon.md)).
+- **Night bite clock-time windows, one captain's read for the season
+  (Observed, StokedOnFishing, `LsFMBCa9DOQ`, Captain Jake Hensley, Ranger 85,
+  Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
+  channel):** that August's night bluefin bite had been running two windows —
+  roughly **9:00 pm to 11:00 pm/midnight**, a lull, then a second window from
+  about **3:30 am to sunrise**. A same-season, same-captain clock-time data
+  point kept beside, not folded into, the moon-phase doctrine above — this is
+  time-of-night within one 24-hour cycle, not a moon-phase pattern.
 - **Advection prior:** open-water bluefin not holding structure move **10–15 nm
   overnight**; intraday they move only low single-digit mph.
 
@@ -253,6 +295,12 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     when those fish sound down, you're looking **30, 45, 50 thousands** [i.e.
     **30–50 fathoms**]," and you need the power to reach and grade them
     (HWx1jDTGsng). This is the meter-and-jig situation, not a troll situation.
+    **Deeper bank data point (Observed, StokedOnFishing, `LsFMBCa9DOQ`,
+    Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
+    channel):** an overnight jig session at the banks read marks **360°
+    around the boat, from 50 fathoms down to 80 fathoms, even below** —
+    deeper than the 30–50 fm range above; kept side by side as a
+    bank-specific extension, not a replacement for it.
   - **Night bite on the DSL:** fish rise with the
     [deep scattering layer](../conditions/deep-scattering-layer.md) after dark;
     the read is depth-called marks — **"fish at 180, fish at 230 ft"** — that you

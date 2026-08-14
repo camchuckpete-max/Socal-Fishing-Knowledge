@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ]
 confidence: high
 ---
 
@@ -123,6 +123,18 @@ in **Linked from**.
     **250 g** allowed only for anglers "savvy" enough to fish it well — a
     specific floor/exception pairing sitting within, not new beyond, this
     note's 150–400 g range above.
+  - **Heavier still, wind/drift-driven (Observed, StokedOnFishing,
+    `LsFMBCa9DOQ`, "Three Days of Epic Bluefin Fishing on the Ranger 85,"
+    Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
+    channel):** on a windy, hard-drifting night, standard **250–350 g** jigs
+    weren't heavy enough to hold the zone, so the boat stepped up to
+    **500 g** jigs — captions render the model "rip rollers" (not confirmed
+    as a specific brand). A separate jig shown on camera, called out by name
+    as the **"BFD,"** was described as a short, fat, flashy profile ("looks
+    like a disco ball") — neither name is elsewhere documented in this
+    corpus, carried here as heard rather than resolved to a known brand.
+    This 500 g figure extends this note's 150–400 g range and the 300 g
+    night floor above for conditions with strong wind/drift specifically.
 - **The "Eddie bomb" (nRFFM8DT-og):** the bluntest tool in the same night
   lineup — a **wire-through 16 oz sinker with a treble hook on the bottom** and
   a bite leader. Multiple **200 lb night bluefin** have come on a straight-up

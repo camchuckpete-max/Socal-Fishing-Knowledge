@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ]
 confidence: medium
 ---
 
@@ -91,6 +91,12 @@ Pick the hook position for the swimming behavior you want:
   chum bucket; fish the lively lime-green ones that are hardest to catch in the
   tank. If a bait isn't pulling line off the reel within about **60 seconds**,
   wind it in, flick it off, and grab a fresh one.
+  **Observed** (StokedOnFishing, `LsFMBCa9DOQ`, "Three Days of Epic Bluefin
+  Fishing on the Ranger 85," Cortez/Tanner Bank, mid-August 2024; medium
+  confidence, unregistered channel): a crew member reinforced the same
+  freshness rule for a finicky bluefin bite — "the guys that change baits
+  often are the ones that are going to catch more fish," wanting "a nice
+  lively bait" on at all times rather than fishing one bait out.
 - **Circle hooks:** hold the hook **high on the arch and press straight down**
   into the bait — holding it from the bottom leaves no gap and mangles the bait.
 

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ]
 confidence: medium
 ---
 
@@ -64,6 +64,23 @@ logic behind them.
   briefing repeated the same split as trip-wide guidance — **circle hooks
   always for bluefin, J hooks recommended for yellowtail** — consistent
   with, not new beyond, the mechanism-based doctrine above.
+- **A crew's stated bluefin preference, J over circle (Observed, StokedOnFishing,
+  `LsFMBCa9DOQ`, "Three Days of Epic Bluefin Fishing on the Ranger 85,"
+  Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
+  channel):** asked circles vs. Js for a finicky bluefin bite fished on
+  **No. 4/No. 2** hooks, a crew member stated a personal preference for **J
+  hooks** — faster to pin a bait than a circle, and less time the bait spends
+  in the angler's hand means a livelier bait and more bites, the same
+  faster-baiting mechanism Cesar gives below for small circle vs. J hooks.
+  **Conflict, kept side by side:** this sits against the circle-hook-for-
+  bluefin doctrine documented elsewhere in this note (Ray Sharifi's
+  corner-of-the-mouth reasoning; Capt. Dave Hansen's teeth-saw-through-the-
+  leader mechanism, below; the Constitution captain's circle-hooks-always-
+  for-bluefin briefing) — one crew's stated preference on one trip, not
+  reconciled with that doctrine. The same crew member also gave a
+  mechanism for why hook/line size mattered that day: **"if they see that
+  hook they will not bite it, if they see that line they also won't bite
+  it"** — working line ran **25–30 lb, sometimes dropped to 20 lb**.
 - **At the smallest hook sizes, J can beat circle (Cesar, Eric's Tackle, via
   Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered
   voice, single mention; not yet repeated doctrine):** comparing a small circle hook against a small J hook of
