@@ -120,6 +120,7 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [upwelling, turnover, chlorophyll, bloom-age, bightsst, SST]
-sources: [h3PTupup17I, cameron]
+tags: [upwelling, turnover, chlorophyll, bloom-age, bightsst, SST, ekman, enso]
+sources: [h3PTupup17I, cameron, 32TQdFJKIlI]
 confidence: high
 ---
 
@@ -66,6 +66,52 @@ references it, it does not reproduce it:
   max (96.6 °F) — **treat single-source SST extremes with suspicion.** This is an
   open data-quality item Cameron flagged, not settled doctrine.
 
+## Wind-driven upwelling mechanism — Ekman transport (Crust to Coast, `32TQdFJKIlI`, 2022-10-05; registered mechanism source — global/textbook physics, not fishing doctrine)
+
+The "why" behind the NW-wind → upwelling link above: wind dragging on the
+surface layer is transmitted down through the water column, and the Coriolis
+effect turns each successively deeper layer (the **Ekman spiral**), producing a
+net surface-water transport rotated **90° to the right of the wind direction**
+in the Northern Hemisphere (**Ekman transport**; 90° left in the Southern
+Hemisphere). On a Northern-Hemisphere west coast like SoCal, a wind blowing
+**alongshore, north to south**, deflects 90° to its right — i.e. **offshore** —
+creating divergence at the coast that draws cold, nutrient-rich water up from
+below: coastal upwelling. Reverse the alongshore wind (south to north) and the
+same 90°-right deflection pushes surface water **into** the coast instead:
+downwelling, water piles up, productivity drops. This is the textbook mechanism
+underneath the corpus's afternoon-NW-wind upwelling event described above.
+(**Geostrophic currents** — the rotational flow set up where Ekman transport
+piles water into a bulge and gravity pulls it back down-slope — is the same
+family of mechanism; noted for vocabulary only, no SoCal-specific parameter
+attaches to it here.)
+
+## ENSO — El Niño / La Niña as a basin-scale upwelling modulator (Crust to Coast, `32TQdFJKIlI`, 2022-10-05; registered mechanism source, not fishing doctrine)
+
+- **Baseline (Walker circulation):** trade winds pile warm water in the western
+  Pacific; the eastern Pacific, including the SoCal/Baja coast, sits under a
+  comparatively shallow thermocline that supports upwelling.
+- **El Niño:** trade winds weaken, the warm-water pool and its low-pressure cell
+  shift east, the eastern Pacific thermocline deepens → **downwelling
+  dominates → lower biological productivity on this coast**, even as warm water
+  intrudes. This is the productivity mechanism underneath the corpus's
+  tropical-species-range-extension pattern documented elsewhere (e.g.
+  [Pacific crevalle jack](../species/pacific-crevalle-jack.md),
+  [yellowfin tuna](../species/yellowfin-tuna.md),
+  [yellowtail](../species/yellowtail.md)) — those notes describe warm water
+  pulling species range north; this note adds that the same event is
+  simultaneously suppressing local upwelling-driven productivity underneath it.
+- **La Niña:** trade winds strengthen, the warm pool retreats west, the eastern
+  Pacific thermocline shoals, water cools → **upwelling dominates → higher
+  biological productivity on this coast.**
+- **Irregularity:** ENSO recurs roughly every **2–10 years**; individual phases
+  last **12–18 months**. The lecture notes it may nest inside a longer
+  **~20–30 year Pacific Decadal Oscillation (PDO)** — flagged there as an open
+  research question, not settled science.
+
+This operates on a basin-scale, multi-month-to-multi-year timescale — the
+long-range backdrop conditions sit within, distinct from and not a substitute
+for Cameron's day-to-day turnover model above or the live BightSST signal.
+
 Pull the live upwelling/turnover state from BightSST at plan time; use *this*
 note for how to interpret bloom age and how to aim for the pre-turnover window.
 
@@ -80,9 +126,12 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Current Structure](current-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Water Color](water-color.md)
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -434,6 +434,7 @@ the bluefin nearby become more cooperative too.**
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

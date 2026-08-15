@@ -1343,6 +1343,7 @@ water temp and bait depth before committing the day to one face.
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
