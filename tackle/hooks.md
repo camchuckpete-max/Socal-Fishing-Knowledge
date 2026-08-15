@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8]
 confidence: medium
 ---
 
@@ -105,6 +105,16 @@ logic behind them.
   self-hooking mechanic in [fishing live bait](../bait/fishing-live-bait.md).
   A tuna caught the same session on flylined squid was likewise handled as a
   circle-hook fish (no active hookset described).
+  **Observed** (StokedOnFishing, `mG8ZZLFGlT8`, 2016-12-22 upload, Lighthouse
+  Point beach, East Cape, Baja California Sur, "Stoked On Hotel Buena Vista
+  Beach Resort, Part 3"): the payoff of the same Lighthouse Point rooster-fish
+  chase teased in the prior episode of this series (no bites that day) — back
+  on the beach on live bait, the coaching was again to **"just take your
+  time"** rather than rush the hookset, and once fish were located the bite
+  window was fast, described as a hookup "within seconds" to at most "a
+  couple minutes"; a young angler (Jayden) landed his first rooster fish.
+  Corroborates, without adding new parameters beyond, the 10-count patience
+  coaching in the `mL4Ph7t0WcQ` entry above.
 - **Why circle for rockfish specifically, on a charter (Dave Hansen, Your
   Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen registered voice,
   single mention of this specific rationale — medium confidence):** on a

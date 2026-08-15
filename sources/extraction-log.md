@@ -1153,7 +1153,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | MUpvP-Yl2R0 | StokedOnFishing | on-the-water | observations-only | done | planning/electronics-and-sounder.md; species/california-halibut.md; species/yellowtail.md; techniques/sliding-sinker.md / buoy/wind-wave overlay, AIS/structure-scan naming, bird-radar demo, Catalina y |
 | AIHvJj-paoo | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; species/yellowfin-tuna.md / trip-tips (line downsize, private-boat chum-together/give-space etiquette); fixed invented leader/topshot pairing during review |
 | NEuoCgxjrhM | StokedOnFishing | promo | skip:promo | skipped | pure Komodo 450 reel product demo/highlight reel, no doctrine, 1:56 short |
-| mG8ZZLFGlT8 | StokedOnFishing | on-the-water | observations-only | pending | series: Buena Vista Beach Resort part 3; East Cape Baja (Lighthouse Pt); marlin/dorado/wahoo/yellowfin catches |
+| mG8ZZLFGlT8 | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/striped-marlin.md; species/yellowfin-tuna.md; tackle/hooks.md; techniques/trolling.md / East Cape Fiesta trip observations (dorado/wahoo/yellowfin/marlin catches, rooster-fi |
 | oadK6zIYyCo | StokedOnFishing | on-the-water | observations-only | pending | sponsor-heavy dealership ad x2; squid/sardine for calico; halibut catch-release |
 | 3tQ1_xiqwVU | StokedOnFishing | on-the-water | parameter-skim | pending | series: Intrepid Long Range Sportfishing part 2; Baja Mag Bay/Alijos; yo-yo 180ft, kite/balloon 50lb rigs |
 | XJaLubOVfvs | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Baja Mag Bay long-range trip intro; mostly boat/crew/food, thin fishing detail; cf. 3tQ1_xiqwVU |

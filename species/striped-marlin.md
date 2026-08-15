@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE, mG8ZZLFGlT8]
 confidence: medium
 ---
 
@@ -117,6 +117,23 @@ from the SoCal fall doctrine above; corroborates the general pattern of heavy
 tuna-and-marlin action already logged for this East Cape/Fiesta operation in
 [yellowfin tuna](../species/yellowfin-tuna.md) and
 [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+
+**Observed (Baja, East Cape, region label)** (StokedOnFishing, `mG8ZZLFGlT8`,
+2016-12-22 upload, East Cape, Sea of Cortez, Baja California Sur — Hotel
+Buena Vista Beach Resort, "Stoked On Hotel Buena Vista Beach Resort, Part
+3"; the resort's **first annual** Stoked On Fishing Fiesta (2016) —
+chronologically earlier than the "fifth annual" `BQ2U1PqxWi8` entry above;
+unregistered channel — medium confidence): a young angler (Jayden) landed
+his first striped marlin on camera ("chocolate baby," "shiny one") after an
+extended fight — no release shown on camera, so disposition isn't
+confirmed — following a first-ever big tuna catch
+earlier the same trip — no lure, bait, or leader detail given on camera.
+The same trip's separate ~500 lb blue marlin catch (no dedicated
+blue-marlin species note exists in this corpus) — including a troll-rework
+tactic and an extended team hand-off fight — is logged in
+[trolling — East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin),
+with the hand-off practice cross-referenced in
+[fighting a big bluefin](../techniques/fighting-big-bluefin.md).
 
 **Observed (Baja, Cabo San Lucas, region label)** (StokedOnFishing,
 2014-12-02 upload, offshore Cabo San Lucas, Baja California Sur —

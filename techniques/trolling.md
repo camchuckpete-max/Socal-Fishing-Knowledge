@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8]
 confidence: high
 ---
 
@@ -520,6 +520,35 @@ species note exists in this KB to route the species-level pattern to — this
 entry carries the technique/gear detail only.
 
 ## East Cape, Baja — Buena Vista Beach Resort offshore troll for tuna/dorado/wahoo/marlin
+
+**Observed** (StokedOnFishing, `mG8ZZLFGlT8`, 2016-12-22 upload, Buena Vista
+Beach Resort, East Cape, Baja California Sur — "Stoked On Hotel Buena Vista
+Beach Resort, Part 3"; the resort's **first annual** Stoked On Fishing Fiesta
+(2016) — chronologically the earliest trip logged in this section, predating
+the entries below; unregistered channel — medium confidence): the crew ran
+out toward "the point" and fished offshore for about an hour with nothing
+happening, then turned to cruise back; roughly **five miles offshore** they
+hooked an estimated **400–500 lb blue marlin**, which threw the hook after
+about a minute. They turned the boat around and ran back through the same
+water, hooking the same-grade fish again — another short-lived hookup, the
+fish jumping and coming off. They turned the boat around once more, ran
+**about 40 minutes** back down the same stretch, and connected again; this
+hookup stuck, with the fight run as a **team relay** between the boat's
+captain (who brought the fish to leader **four times** over roughly the
+first hour) and a friend, Dan, who finished it — **about an hour and a half
+of combined fight time** between the two. No lure, leader, or spread detail
+is given on camera for the marlin trolling itself. Separately, the day's
+broader recap named **five tuna** and "a couple" of a second species whose
+name is garbled past confident transcription on auto-captions ("Grotto" —
+likely wahoo and/or dorado given the day's other catches, but not asserted
+here) for one boat, with a different boat/crew reporting **four tuna** for
+their day; that evening's tournament points-race weigh-in (37 lb, 39.4 lb,
+and a 41→46 lb yellowfin) is logged in
+[yellowfin tuna — East Cape entry](../species/yellowfin-tuna.md). See
+[striped marlin](../species/striped-marlin.md) for a separate, on-camera
+striped-marlin catch (a young angler's first) from the same trip, and the
+extended-fight hand-off practice cross-referenced in
+[fighting a big bluefin](fighting-big-bluefin.md).
 
 **Observed** (StokedOnFishing, 2018-03-09 upload, Buena Vista Beach Resort,
 East Cape, Baja California Sur — `tcso7Lpm_Xs`, "Stoked On Hotel Buena Vista

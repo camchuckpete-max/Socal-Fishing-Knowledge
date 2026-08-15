@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8]
 confidence: high
 ---
 
@@ -190,6 +190,18 @@ an offshore trolling ground, consistent with the birds-mark-the-life sign
 already documented in [bird reading](../conditions/bird-reading.md); no
 lure/bait or leader detail given for this hookup. Unregistered channel —
 medium confidence.
+
+**Observed (Baja, region label)** (StokedOnFishing, `mG8ZZLFGlT8`,
+2016-12-22 upload, Buena Vista Beach Resort, East Cape, Baja California
+Sur — "Stoked On Hotel Buena Vista Beach Resort, Part 3," the resort's
+**first annual** Stoked On Fishing Fiesta (2016), chronologically earlier
+than the `tcso7Lpm_Xs` entry below; unregistered channel — medium
+confidence): dorado were caught on the same trip alongside marlin, wahoo,
+and yellowfin ("we get a wahoo... three good size yellow fin... Dorado and
+he caught two mar[lin]"), with no count, weight, or technique detail given
+on camera. See the
+[trolling — East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)
+for the fuller catch recap from this same trip.
 
 **Observed (Baja, region label)** (StokedOnFishing, 2018-03-09 upload,
 Buena Vista Beach Resort, East Cape, Baja California Sur —

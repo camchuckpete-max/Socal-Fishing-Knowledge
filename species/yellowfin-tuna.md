@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8]
 confidence: high
 ---
 
@@ -266,6 +266,31 @@ the bluefin nearby become more cooperative too.**
   hand-off tip; a small sardine-sized hook pulling from a big fish) from this
   same session in
   [fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+- **Observed (Baja, East Cape, region label)** (StokedOnFishing,
+  `mG8ZZLFGlT8`, 2016-12-22 upload, East Cape, Sea of Cortez, Baja California
+  Sur — Hotel Buena Vista Beach Resort, "Stoked On Hotel Buena Vista Beach
+  Resort, Part 3"; the resort's **first annual** Stoked On Fishing Fiesta
+  (2016), a points-race/tournament weigh-in — chronologically earlier than
+  the other East Cape Fiesta entries in this section; unregistered channel —
+  medium confidence): three named anglers weighed in for tournament
+  placings — Dan Kelly at **37 lb**, Jerry Faust at **39.4 lb** (after what
+  he called a three-hour day), and the grand-prize winner (given on camera as
+  "Mr. Brandon Guy" — asr-uncertain whether "Guy" is a surname or a
+  transcription artifact) at **41 lb**, corrected on stage to **46 lb**
+  ("that's five more pounds").
+  This first-year grade (37–46 lb) runs notably smaller than the **50–70 lb**
+  and **72/63/63 lb** East Cape grades logged from the later (2018–2020)
+  Fiesta trips elsewhere in this section — kept side by side as a
+  year-over-year grade data point, not asserted as a trend. Separately, one
+  boat's day tally was recapped on camera as **five tuna** and "a couple" of
+  a second species whose name is garbled past confident transcription on
+  auto-captions ("Grotto" — likely wahoo and/or dorado given the day's other
+  catches, but not asserted here), with a blue marlin lost on a short strike
+  and a second blue marlin landed — see [striped marlin](striped-marlin.md) and
+  [trolling — East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)
+  for the marlin/troll detail. A different boat/crew reported **four tuna**
+  for their day. No lure, leader, or technique detail is given for any of
+  these tuna catches.
 - **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
   2026-02-17 upload, Ensenada, Baja California — `0dIwWiOc1NY`, "What It's
   Like Fishing in Ensenada, Mexico"; guide Alejandro, a local; unregistered
