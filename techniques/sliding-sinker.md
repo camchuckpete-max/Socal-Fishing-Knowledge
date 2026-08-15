@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY]
 confidence: medium
 ---
 
@@ -187,6 +187,19 @@ up top and a scrambled-egg-pattern jig for fish down deep — see
 length or hook size given. Consistent with, not a change to, the light
 (1/2 oz) egg-sinker pattern already logged for this species at Cedros above.
 
+## San Clemente Island yellowtail, 1/4 oz slider + squid (StokedOnFishing)
+
+**Observed** (StokedOnFishing, 2016-10-21 upload, San Clemente Island,
+SoCal — `zQtExV8Z2eY`, "Thunderbird Yellowtail," aboard the Thunderbird;
+unregistered channel — medium confidence): the trip-tips recap
+named a **1/4 oz sliding sinker to a No. 2 hook of angler's choice**, baited
+with live squid, fished off a **30 lb mono main line with a 4 ft top shot of
+30 lb fluorocarbon**, as one of two producing rigs that morning — see
+[yellowtail](../species/yellowtail.md#where--when) for the flylined-sardine
+side of the same trip and the day's tally. A lighter build than the 1/2 oz
+Cedros/Benitos egg-sinker data points logged above — kept side by side, not
+reconciled, as a further light-slider SoCal yellowtail data point.
+
 ## Bluefin, nose-hooked, 2 oz sinker, worked on the retrieve (StokedOnFishing)
 
 **Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part 1,"
@@ -235,6 +248,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Dropper Loop](dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

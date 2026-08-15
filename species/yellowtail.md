@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY]
 confidence: high
 ---
 
@@ -241,6 +241,33 @@ typical-year mapping.
   The trip's tally was roughly **16–17 yellowtail** landed on squid, plus one
   on [surface iron](../techniques/surface-iron.md) and another on the
   [yo-yo iron](../techniques/yo-yo-iron.md).
+  **Observed** (StokedOnFishing, 2016-10-21 upload, San Clemente Island,
+  SoCal — `zQtExV8Z2eY`, "Thunderbird Yellowtail," aboard the Thunderbird
+  (T-Ird) out of Davey's Locker, Newport Beach — captions render the landing
+  "Davies Locker," ASR-corrected here to Davey's Locker per the same
+  landing/boat spelling already established elsewhere in this note's corpus
+  — with the boat's newest captain, Andrew Viola, who had started with the
+  boat in February 2016 after six years aboard the American Angler out of
+  San Diego; unregistered channel — medium confidence): the captain's
+  mid-morning check-in put **122 fish** in the hold by 9:30 am — graded at
+  that point roughly half **20–25 lb** and half **6–8 lb**, called the best
+  fishing on this grade of the 2016 season by the crew — and the day
+  finished at **167 total** yellowtail (per the end-of-day recap, roughly
+  half 20–25 lb and the rest smaller but keeper-grade). The trip-tips recap
+  named the day's terminal tackle as **30 lb
+  mono main line to a 4 ft top shot of 30 lb fluorocarbon**, with anglers who
+  took the extra step to fish fluorocarbon reported getting bit more than
+  those fishing straight mono. Off that leader, two presentations both
+  produced: a **1/4 oz sliding sinker to a No. 2 hook of angler's choice**
+  baited with live squid (full rig detail in
+  [sliding sinker](../techniques/sliding-sinker.md#san-clemente-island-yellowtail-14-oz-slider--squid-stokedonfishing)),
+  and a **flylined sardine** worked away from the boat when anglers could
+  get it out there (full detail in
+  [flyline](../techniques/flyline.md#bait-and-hook-selection)) — the boat
+  was chumming both squid and sardine and fish were eating both. Standard
+  courtesy coaching given to anglers not yet hooked up: watch the anglers
+  who are hooked up and track your own bait's position so you don't tangle
+  and cost someone else their fish.
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
   pulls them in as well (10/26/22). Surface iron along the kelp edge is the

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY]
 confidence: medium
 ---
 
@@ -134,6 +134,18 @@ on **30 lb test** line as the crew's standard, with some anglers going
 heavier and some lighter "depending on their preference" — consistent
 with, not new beyond, the 30 lb/~3/0 sardine-flyline pairing already logged
 above for this same island (`V_ONnegk95M`).
+
+**Observed** (StokedOnFishing, 2016-10-21 upload, San Clemente Island, SoCal
+— `zQtExV8Z2eY`, "Thunderbird Yellowtail," aboard the Thunderbird; unregistered
+channel — medium confidence): the trip's stated terminal tackle was **30 lb
+mono main line to a 4 ft top shot of 30 lb fluorocarbon**, and some
+yellowtail came on a **flylined sardine** worked away from the boat when
+anglers could get it out there — a further data point alongside the 30
+lb-class sardine-flyline builds already logged above for this island
+(`V_ONnegk95M`, `nsUdT-zXI8s`), though no hook size was given on camera for
+this trip. The same 30 lb mono/4 ft-fluoro-top-shot leader was also fished
+that morning with a sliding-sinker live-squid rig — see [sliding
+sinker](../techniques/sliding-sinker.md#san-clemente-island-yellowtail-14-oz-slider--squid-stokedonfishing).
 
 **Observed** (StokedOnFishing, Summer 2015 footage / 2015-11-17 upload,
 Newport Beach, SoCal — `_PGm-TlFU2A`, "Thunderbird Tuna Time," overnight
@@ -717,6 +729,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Sliding Sinker](sliding-sinker.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trolling](trolling.md)
