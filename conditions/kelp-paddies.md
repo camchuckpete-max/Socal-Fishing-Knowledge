@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds, drone]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q]
 confidence: high
 ---
 
@@ -76,6 +76,17 @@ The discipline:
 
 This is why the paddy *line* matters more than any single paddy: you are playing
 a numbers game across many quick checks.
+
+**Even a piece that looks marginal is worth a check (Observed, StokedOnFishing,
+`8THSuqoPI_Q`, 2015-09-26 upload, en route to Catalina Island, SoCal, "Simrad
+Summer part 2," sponsor-heavy Simrad/Okuma episode; unregistered channel —
+medium confidence):** on the run over, the crew stopped on a local patty and
+reasoned on camera that they'd caught fish before off pieces of kelp *smaller*
+than the one they were on — i.e. this piece was, if anything, a safer bet than
+ones that had already produced — then worked it by butt-hooking a sardine and
+letting it swim down, calling it always worth a shot. No hookup was confirmed
+on camera for this specific stop; kept as a stated attitude/technique alongside
+the check-fast-then-move discipline above, not a result.
 
 **Be patient on a patty that's showing skipjack, not necessarily dry (StokedOnFishing,
 2014-11-03, offshore SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3";

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q]
 confidence: high
 ---
 
@@ -657,6 +657,23 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     Catalina west-end shallow-mark entry above and the 30–50 fm sounded-school
     range — another same-region shallow-mark/fast-jig data point (jig
     model/brand not carried — ASR garbled on this transcript).
+  - **Drift bite, fish not in the upper column (Observed, StokedOnFishing,
+    `8THSuqoPI_Q`, 2015-09-26 upload, offshore of Catalina Island, SoCal,
+    "Simrad Summer part 2," sponsor-heavy Simrad/Okuma episode; unregistered
+    channel — medium confidence):** on a follow-up offshore bluefin drift
+    that this same crew's recap frames as the trip that finally produced
+    fish after bluefin "did not want to bite... the week prior" (a separate,
+    earlier trip where boiling **100-plus lb** bluefin were seen but would
+    not eat), the sounder showed the fish sitting in **50–100 ft** of water
+    rather than up in the surface layer; the stated approach was to
+    **butt-hook** sardines and let them swim down toward the marks, with
+    patience and a long soak on a healthy bait framed as what improves the
+    odds when fish are sitting off the top. A shallower read than the 30–50
+    fm sounded-school range above; kept beside it and the other shallow-mark
+    entries in this section as a further same-region, near-surface data
+    point, not a replacement. A same-trip nose-hooked-sardine dorado bite and
+    a Catalina yellowtail leg are logged in [dorado](dorado.md#where--when)
+    and [yellowtail](yellowtail.md#where--when).
   - **Paddy/kelp fish:** hanging under [kelp paddies](../conditions/kelp-paddies.md)
     with yellowtail and dorado — grade the paddy fast and move.
   - **Bait shape:** broken, harried, moving bait holds predators; a solid

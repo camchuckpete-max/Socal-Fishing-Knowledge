@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q]
 confidence: high
 ---
 
@@ -72,6 +72,17 @@ dorado; see [chunking](../techniques/chunking.md) and
 for the search method and the chum-bait-selection data point from the same
 session. Gear on this trip was lighter than the stepped 20–40 lb range below:
 a **#2 hook** on **65 lb braid to a 4 ft top shot of 25 lb fluorocarbon**.
+
+**Observed** (StokedOnFishing, 2015-09-26 upload, Catalina Island trip
+(exact catch location not resolved on camera — a trip-recap segment
+covering both the Catalina anchor stop and a separate offshore bluefin
+drift), SoCal — `8THSuqoPI_Q`, "Simrad Summer part 2," sponsor-heavy
+Simrad/Okuma episode; unregistered channel — medium confidence): the same
+trip's dorado bite is described as coming on a **nose-hooked sardine**,
+contrasted in the same recap with sardines **butt-hooked** for the
+separate bluefin drift (see [bluefin tuna](bluefin-tuna.md#where--when)) —
+a hook-position-by-target data point alongside the Catalina yellowtail
+squid/flyline entry logged in [yellowtail](yellowtail.md#where--when).
 
 **Observed** (StokedOnFishing, `skRo1z41Dnc`, aired 2015-01-17, "Top Gun 80
 Offshore Grandslam, part 1," offshore San Diego, SoCal, H&M Landing charter
