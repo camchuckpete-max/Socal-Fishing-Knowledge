@@ -108,4 +108,5 @@ and structure concentrate this water is in
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [November–December](../seasonal/november-december.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Water Color](water-color.md)
 <!-- backlinks:end -->

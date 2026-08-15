@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI]
 confidence: high
 ---
 
@@ -277,6 +277,30 @@ running-distance figure and launch-point name given on camera are
 ASR-uncertain and not carried here — see the extraction log. Logged as a
 Baja-specific operational fact about running in fog, distinct from the bird-
 radar method above; not a general SoCal claim.
+
+## Speed of sound in water and the deep sound channel (mechanism, generic — not SoCal-measured)
+
+Background mechanism for why sonar/fathometer gear works at all, from an
+oceanography lecture (Crust to Coast, "Physical Oceanography," `i4OB4G6_adI`,
+2022-09-27; registered mechanism source per the source registry — global
+generic figures, not a SoCal measurement, and not fishing doctrine): sound
+travels roughly **1,500 m/s in water** versus roughly **330 m/s in air** —
+close to five times faster underwater. Sound speed in the ocean is not
+constant; it is influenced by **temperature, pressure, and salinity**.
+Roughly **500–1,000 m (1,640–3,281 ft)** down sits the **SOFAR channel**
+(sound fixing and ranging), also called the **deep sound channel** — a band
+where temperature and pressure are both relatively low, so the speed of
+sound is at a minimum there. Sound entering this band gets trapped, bouncing
+between the warmer/less-dense water above and the cooler/denser water below,
+and can travel extremely long distances within the channel — the mechanism
+used for tracking marine-life sounds and vessels (submarines, naval ships)
+over long range.
+
+This ~500–1,000 m (1,640–3,281 ft) sound-channel band sits **deeper** than
+the DSL's daytime working band (600+ ft/~183 m, preferred to ~950 ft/~290 m
+per [deep scattering layer](../conditions/deep-scattering-layer.md)) — a
+different depth feature, not the same layer; carried here as background only,
+it does not change the DSL or sounder-settings doctrine in this note.
 
 ## Sounder settings for the DSL
 

@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [sst, temperature, breaks, bluefin, yellowfin, dorado]
-sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA]
+sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA, i4OB4G6_adI]
 confidence: high
 ---
 
@@ -73,6 +73,49 @@ rather than a gradient — but it is background mechanism only; it does not
 change the break-side or SST doctrine above, and salinity is not a
 SoCal-measured input in this KB (BightSST tracks SST/chlorophyll/wind/swell/
 current, not salinity).
+
+## Mixed layer, thermocline, and pycnocline depth structure (mechanism, generic — not SoCal-measured)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Physical
+Oceanography," `i4OB4G6_adI`, 2022-09-27; registered mechanism source per the
+source registry — global generic depths, not a SoCal measurement, and not
+fishing doctrine): global sea temperature ranges roughly **-2 °C to 30 °C**,
+with a global average of about **4 °C** (surface temperature runs up to
+**25–30 °C** at the equator/tropics and **0–5 °C** at the poles). With depth,
+the water column layers into three bands:
+
+- **Mixed layer** — the upper **~100–200 m (328–656 ft)**, wave-mixed, where
+  most marine life activity happens.
+- **Thermocline** — roughly **200–500 m (656–1,640 ft)**, a rapid temperature
+  decline with depth.
+- **Below the thermocline** — temperature levels out to roughly **2 °C** and
+  stays close to that down to the ocean floor; the deep ocean is one of the
+  most thermally stable environments in the ocean, fluctuating **less than
+  1 °C**.
+
+The thermocline itself **varies by latitude and by season**: it is present
+and pronounced in tropical/equatorial water, **absent in polar water** (cold
+surface water sits directly on cold deep water, no sharp break), and in
+mid-latitude/temperate water it **shifts up and down in the water column
+seasonally** with how much solar radiation is available (summer vs. winter).
+This is a generic global pattern, not a SoCal-measured seasonal curve — it
+does not change or replace the break-side SST doctrine above, but it is the
+mechanism reason a temperate-latitude thermocline (like the SoCal Bight's) is
+expected to move seasonally rather than sit at a fixed depth.
+
+**Density and the pycnocline.** At the ~4 °C global-average temperature,
+seawater density is about **1 g/cm³**; surface seawater density (which also
+factors in salinity) varies roughly **1.02–1.03 g/cm³**. Density **increases
+with depth** — the inverse of the temperature and salinity profiles above,
+which both **decrease** with depth — because density is tied to the same
+pressure-with-depth relationship. The **pycnocline** is the density
+equivalent of the thermocline/halocline: a band of abrupt density increase
+with depth, coinciding with the thermocline and halocline. Below the
+pycnocline, density is fairly constant because temperature and salinity are
+both constant there, producing a stable, highly stratified water column — a
+warm, low-density layer sitting on top of a colder, higher-density layer.
+Background mechanism only; it does not change the break-side or SST doctrine
+above.
 
 ## How to use it in planning
 
