@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [sst, temperature, breaks, bluefin, yellowfin, dorado]
-sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA, i4OB4G6_adI]
+sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA, i4OB4G6_adI, OEsW9K1IwpQ]
 confidence: high
 ---
 
@@ -116,6 +116,33 @@ both constant there, producing a stable, highly stratified water column — a
 warm, low-density layer sitting on top of a colder, higher-density layer.
 Background mechanism only; it does not change the break-side or SST doctrine
 above.
+
+## Ocean heat budget and albedo (mechanism, generic — not SoCal-measured)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Oceans and
+Climate Part 1," `OEsW9K1IwpQ`, 2022-10-12; registered mechanism source per the
+source registry — global textbook physics, not a SoCal measurement, and not
+fishing doctrine): Earth's heat budget is balanced — of 100% incoming solar
+radiation, roughly **30%** is reflected/scattered back to space before reaching
+the surface, roughly **23%** is absorbed in the atmosphere, and the remaining
+**~47%** is absorbed by the oceans and land. Water's heat capacity is very
+high, so the ocean absorbs and releases large amounts of heat with relatively
+little temperature change — the mechanism reason SST moves slowly and buffers
+rather than tracking air temperature directly.
+
+**Albedo** (reflectivity, 0 = fully absorbing black to 1 = fully reflective
+white) is not evenly distributed: global average is about **0.30**, but open
+ocean is about **0.06** (highly absorptive), sea ice about **0.6**, snow/ice
+about **0.9**, and soil about **0.2**. Because albedo is low at the equator and
+high at the poles (ice, snow, cloud cover), the equator runs a heat **surplus**
+and the poles a heat **deficit**. **Thermohaline circulation** redistributes
+that surplus toward the deficit — moving heat around the globe and further
+stabilizing global climate — rather than the equator continuously heating and
+the poles continuously cooling.
+
+This is upstream background for why SST behaves the way it does (slow-moving,
+buffered, redistributed poleward); it does not change the break-side SST
+doctrine above or add a SoCal-specific parameter.
 
 ## How to use it in planning
 
