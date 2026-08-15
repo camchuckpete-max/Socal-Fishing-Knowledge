@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8]
 confidence: high
 ---
 
@@ -154,6 +154,35 @@ Cross-check against local structure: Catalina's ~500-fm curve (~3,000 ft /
 generic profile, consistent with it being a compression/eddy feature rather
 than a shelf or abyssal one. This is background mechanism only — it does not
 change the fathom-curve doctrine above.
+
+## Benthic biomass distribution — sunlight + nutrients co-location (background, generic)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Geology 5 -
+Animals of the Benthic Environment," `eg8IUjeWZx8`, 2022-11-09; registered
+mechanism source — global marine-biology lecture, not a SoCal measurement, and
+not fishing doctrine):
+
+- Of the ocean's ~240,000 known species, an estimated **98% are benthic**
+  (bottom-dwelling) versus ~2% pelagic, and that distribution is "extremely
+  one-sided" toward **coastlines and the shallow continental shelf**, with a
+  secondary concentration in polar regions during their respective summers.
+- Stated mechanism: all marine life needs energy that traces back to primary
+  producers, which need **both sunlight** (abundant near the surface) **and
+  nutrients** (delivered near coastlines by coastal upwelling, which lifts
+  nutrients from the deep ocean up to the lit surface layer). Coastlines are
+  where sunlight and upwelling-supplied nutrients co-locate, so that is where
+  biomass concentrates.
+- This is the same sunlight+nutrients logic already stated above for the
+  continental shelf ("Biologically the richest ocean province because it has
+  both sunlight and nutrients") and for the current-over-structure chain at
+  the top of this note — this lecture adds the global species-count framing
+  (98%/2%, ~240,000 known species) underneath that same mechanism, not a new
+  one.
+- The lecture's habitat-type taxonomy on the way to that point (rocky shore
+  vs. sediment-covered shore vs. attached kelp forest vs. deep-ocean/
+  hydrothermal-vent chemosynthetic communities) is generic global
+  marine-biology content, not a SoCal-specific parameter, and is not carried
+  further here.
 
 ## Surf-zone anatomy and longshore-current mechanism (background, generic)
 

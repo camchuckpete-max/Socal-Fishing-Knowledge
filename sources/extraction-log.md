@@ -1179,7 +1179,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 9tTM99InluM | Crust to Coast | seminar | parameter-skim | done | conditions/tide-and-slack.md / mechanism-background section added (gravity/spring-neap/50-min lunar offset/mixed semi-diurnal), correctly labeled non-doctrine, no doctrine touched |
 | rK1sWd84S04 | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: sea ice/glacial ice formation, cryosphere, brine rejection; no CA/Baja relevance |
 | tKqZJZMLbq4 | Crust to Coast | seminar | parameter-skim | done | conditions/deep-scattering-layer.md / Zooplankton (copepods/krill/jellyfish) and nekton swimming-mode/bioluminescence mechanism added as generic background section; two faithfulness overreaches trimme |
-| eg8IUjeWZx8 | Crust to Coast | seminar | parameter-skim | pending | Benthic habitat types, invertebrate dominance, coastal upwelling nutrients link -> conditions food-web and bottom structure |
+| eg8IUjeWZx8 | Crust to Coast | seminar | parameter-skim | done | conditions/current-structure.md / added generic benthic-biomass (98%/2% species, coastal/polar concentration) sunlight+nutrients mechanism to existing upwelling section, no new claims beyond mechanism |
 | zvU45nkhhuE | Crust to Coast | seminar | parameter-skim | pending | Photosynthesis/phytoplankton base of food web; hydrothermal-vent chemosynthesis -> conditions food-web productivity |
 | gT5g8Rhtpyg | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: life taxonomy/domains/kingdoms classification lecture, no conditions mechanism |
 | 7jPK4aOctQo | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: marine pollution types/sources, environmental-science survey |
