@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU]
 confidence: high
 ---
 
@@ -318,6 +318,17 @@ the reverse map in **Linked from** below.
   uncertain to decode with confidence: it is not clear whether it refers to
   line/leader class, the fish, or something else, so it is not carried here
   as a parameter.) No jig weight, color, or depth given.
+- **Observed (Baja, region label)** (StokedOnFishing, 2012-05-01 upload, "the
+  ridge" near Mag Bay, Baja — `3tQ1_xiqwVU`, "Intrepid Long Range
+  Sportfishing | Part 2," aboard the long-range boat **Intrepid**; upload
+  date one week before the `6kpWn2sXokI` entry above, same boat, same
+  Mag-Bay-to-Alijos-Rocks routing — plausibly an earlier leg of the same
+  trip, not confirmed as such; unregistered channel — medium confidence): a
+  yellowtail (called out on camera, uncertain read — "yellow tail, I think")
+  was hooked yo-yoing iron at **180 ft, 10 ft off the bottom**, working back
+  up on the ridge after the crew left Thetis Bank overnight (opposite
+  current made conditions poor there). Angler named on camera as Ray. No jig
+  weight, color, or brand given.
 
 ## Common failures
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU]
 confidence: high
 ---
 
@@ -217,6 +217,21 @@ voice, `high` confidence).
   series title references marlin fishing on this same trip, but no marlin
   catch or balloon-for-marlin scene appears in this segment; logged as a
   tuna-only observation.
+- **Observed, stated plan for the next stop, not shown executed in this
+  footage** (StokedOnFishing, 2012-05-01 upload, aboard the **Intrepid**
+  transiting from near Mag Bay toward Alijos Rocks (captioned "Leo's
+  Rocks"/"Allejo's Rocks" — ASR-uncertain, read as Alijos Rocks given the
+  stated 160 mi/16-hour transit and Baja long-range context), Baja —
+  `3tQ1_xiqwVU`, "Intrepid Long Range Sportfishing | Part 2"; unregistered
+  channel — medium confidence): the crew narrated the plan to fish **the
+  kite, helium balloon rigs, and the flyline on 50 lb line** for "quality"
+  yellowfin tuna graded **60 to 90 lb, possibly a few over 100 lb** at the
+  next stop. A lighter target grade than the 150–300-plus lb yellowfin
+  worked on a stand-alone balloon rig near Mag Bay just above
+  (`UuyqTE21-kc`, same general Mag-Bay-to-banks corridor) — kept side by
+  side, not reconciled, as this is a forward-looking call for a different
+  leg of a trip, not a repeat of that data point. No further kite/balloon
+  rigging detail given on camera for this leg.
 - **Deploying the dead flyer:** drive the boat forward a little to open
   distance between the boat and the bait, then lower the flyer slowly onto
   the surface. Keep it **dapping** — constantly in contact with the water,

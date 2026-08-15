@@ -1155,7 +1155,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | NEuoCgxjrhM | StokedOnFishing | promo | skip:promo | skipped | pure Komodo 450 reel product demo/highlight reel, no doctrine, 1:56 short |
 | mG8ZZLFGlT8 | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/striped-marlin.md; species/yellowfin-tuna.md; tackle/hooks.md; techniques/trolling.md / East Cape Fiesta trip observations (dorado/wahoo/yellowfin/marlin catches, rooster-fi |
 | oadK6zIYyCo | StokedOnFishing | on-the-water | observations-only | done | species/barracuda.md; species/calico-bass.md; species/sheephead.md; species/yellowtail.md; techniques/surface-iron.md / calico squid-vs-sardine, sheephead nickname, yellowtail-on-squid, barracuda sink |
-| 3tQ1_xiqwVU | StokedOnFishing | on-the-water | parameter-skim | pending | series: Intrepid Long Range Sportfishing part 2; Baja Mag Bay/Alijos; yo-yo 180ft, kite/balloon 50lb rigs |
+| 3tQ1_xiqwVU | StokedOnFishing | on-the-water | parameter-skim | done | techniques/yo-yo-iron.md; techniques/kite-fishing.md / added two hedged Observed blocks (180ft/10ft-off-bottom yo-yo yellowtail near Mag Bay ridge; stated kite/balloon/flyline 50lb plan for 60-90lb+ y |
 | XJaLubOVfvs | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Baja Mag Bay long-range trip intro; mostly boat/crew/food, thin fishing detail; cf. 3tQ1_xiqwVU |
 | o1mJ5H8Np-s | StokedOnFishing | on-the-water | skip:thin-generic | skipped | pure catch montage (San Pablo yellowtail), no conditions/technique detail |
 | 5LI0vPzlCUE | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Alijos Rocks (far offshore Baja, edge-of-scope); pure catch montage, no doctrine |
