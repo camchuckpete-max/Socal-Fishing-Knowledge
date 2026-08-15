@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4]
 confidence: high
 ---
 
@@ -68,6 +68,23 @@ the bluefin nearby become more cooperative too.**
   the deep diver got bit and the boat landed a yellowfin of about **60 lb** —
   an on-the-water instance of the troll-to-locate pattern in the table below,
   triggered by working a dolphin school rather than a paddy or bird sign.
+- **Observed** (StokedOnFishing, `ilINTeknKB4`, "Intrepid Style 8 Day, part
+  3," 2015-10-29 upload, closing evening of the 8-day charter aboard the
+  **Intrepid**, exact zone not named on camera — the trip's own intro frames
+  this leg as running "up north" from Baja with "military target practice
+  in the distance," a possible hint at San Clemente Island's Navy range, not
+  confirmed on camera; unregistered channel, sponsor-heavy episode — medium
+  confidence): a small group of terns marked a pocket of yellowfin the crew
+  worked for "one last shot" — a further bird-sign data point alongside the
+  terns/bird doctrine in [bird reading](../conditions/bird-reading.md).
+  Separately, across the same evening bite, the crew repeatedly spotted
+  **hammerhead sharks** running on top of, or just under, the yellowfin
+  school — narrated on camera as the yellowfin "hanging out under the
+  hammerheads, or vice versa" — a hammerhead-associated-tuna sign, alongside
+  the already-documented dolphin-pod and whale-associated tuna sign in this
+  note and [bluefin tuna](bluefin-tuna.md#finding-them-sign--sonar), called
+  "kind of strange" by the crew rather than a pattern they'd expected. The
+  bite closed the trip with a rapid multi-fish stretch on the iron.
 - **Observed** (StokedOnFishing, `3T4c3Zez_DM`, 2017-05-09 upload, "Top Gun 80
   Epic 5 Day, part 2," offshore San Clemente Island, SoCal, 5-day charter
   aboard the Top Gun 80; unregistered channel — medium confidence): after the

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4]
 confidence: high
 ---
 
@@ -153,6 +153,24 @@ the *bottom*, not the fish.
   sheephead, and yellowtail catches from the same stop are logged in
   [ocean whitefish](ocean-whitefish.md), [California
   sheephead](sheephead.md), and [yellowtail](yellowtail.md#where--when).
+- **Observed** (StokedOnFishing, `ilINTeknKB4`, "Intrepid Style 8 Day, part
+  3," 2015-10-29 upload, San Benito Island, Baja, part 3 of the 8-day
+  charter aboard the **Intrepid** logged in
+  [yellowtail](yellowtail.md#where--when) and
+  [bluefin tuna](bluefin-tuna.md#where--when); unregistered channel,
+  sponsor-heavy episode — medium confidence): the crew set up a drift over
+  **200 ft** of jagged, rocky bottom, with the captain warning the rail to
+  get sinkers and iron up off the bottom quickly once they touched down or
+  lose the terminal tackle to the rocks — a further Baja hard-bottom
+  snag-risk data point. The meter showed a little bit of yellowtail sign at
+  the same spot, called "still a little early" for that bite. The drift
+  produced **lingcod** and **red rockfish** ("red snapper" on camera, this
+  note's reds/vermilion nickname), including a double hookup of one of each
+  species on the same drift; one hookup was tied on camera to a **bonita
+  strip** bait. One red rockfish was released for being oversized (garbled
+  on-camera reasoning, not carried as a confirmed size limit — see the
+  regs caveat above). Consistent with, not new beyond, the reds/lingcod
+  hard-bottom complex already documented in this note.
 - **Observed** (StokedOnFishing, `Y1xeieQI3B4`, 2025-05-10, Cortez Bank aboard
   the 85 ft *El Dorado* — unregistered channel, medium confidence): on day two
   of a 2.5-day trip, once the crew had boxed limits of bluefin tuna ("limits

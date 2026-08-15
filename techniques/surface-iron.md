@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0, IwxqgocsQTY]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0, IwxqgocsQTY, ilINTeknKB4]
 confidence: high
 ---
 
@@ -285,6 +285,18 @@ bite result tied specifically to that color is confirmed on camera. A
 further single-trip color data point, kept alongside, not merged into, the
 other reports in this section — still not generalized into doctrine.
 
+**Trip-tips recap, same charter, part 3 (StokedOnFishing, `ilINTeknKB4`,
+"Intrepid Style 8 Day, part 3," 2015-10-29 upload, San Benito Island, Baja —
+medium confidence, unregistered channel):** the same 8-day charter's closing
+tips summary named **mint** as the best color for yellowtail sitting up in
+the water column on surface iron, and separately called the **scrambled
+egg pattern** the best producer for fish sitting **down deep** — the deeper
+presentation isn't confirmed on camera as still surface iron rather than a
+yo-yo iron worked in the same color (see the scrambled-egg yo-yo-iron color
+data already logged in [yo-yo iron](yo-yo-iron.md#gear-class-detail)). A
+further single-trip mint-color data point alongside the Cedros confidence-
+color reports above; still not generalized into doctrine.
+
 **Observed** (Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ,
 2020-01-28, La Jolla): a **red crab**-pattern iron produced 2 of the day's 3
 boated yellowtail, but the captain's own read is that **the angler mattered
@@ -477,6 +489,7 @@ for that lure class rather than for the classic surface-iron blank.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Sliding Sinker](sliding-sinker.md)
 - [Trolling](trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [White Seabass](../species/white-seabass.md)

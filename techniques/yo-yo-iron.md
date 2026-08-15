@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4]
 confidence: high
 ---
 
@@ -246,6 +246,13 @@ the reverse map in **Linked from** below.
   [iron jigs](../lures/iron-jigs.md)'s named color range) as the best
   producers. Corroborates, not a new pick beyond, the scrambled-egg/blue-
   and-white traditional colors already documented above.
+- **Observed** (StokedOnFishing, `ilINTeknKB4`, "Intrepid Style 8 Day, part 3,"
+  2015-10-29 upload, San Benito Island, Baja; unregistered channel, sponsor-
+  heavy episode — medium confidence): a yellowtail hookup on the yo-yo iron
+  was called out on camera in a "**6X Junior Dorado**" color pattern — a
+  smaller (Jr-suffix), dorado-colored iron, consistent with, not a new pick
+  beyond, the dorado-colored jig already logged in the `XwwIvPFxRiQ` entry
+  above and the 6X/7X size class already documented in this note.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
   LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
   **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here

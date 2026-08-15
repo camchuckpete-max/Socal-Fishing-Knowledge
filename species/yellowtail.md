@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4]
 confidence: high
 ---
 
@@ -1063,6 +1063,36 @@ typical-year mapping.
   additional fish taken on [yo-yo iron](../techniques/yo-yo-iron.md) —
   corroborating, not new beyond, the surface-iron/yo-yo-iron mix already
   logged for this location above.
+- **Observed** (StokedOnFishing, `ilINTeknKB4`, "Intrepid Style 8 Day, part
+  3," 2015-10-29 upload, part 3 of the same 8-day charter aboard the
+  **Intrepid** logged as `IwxqgocsQTY` (part 1) and `97clKtVsEOs` (part 2)
+  above, Captain Kevin Osborne, a third and final morning back at Benito's
+  Island before the boat turned north to close out the trip; unregistered
+  channel, sponsor-heavy episode (Simrad, Okuma, Davies Locker, a car
+  dealership, a monofilament/fluorocarbon line sponsor) — medium
+  confidence): small, scattered groups of yellowtail passed under the boat
+  at varying depths — "no real big schools" — with a crew member calling
+  the noon hour as the day's expected bite window based on the previous
+  day's pattern at the same spot ("I think they'll get on the bite here
+  around noon like they did the other day... yeah, timing thing") — a
+  same-spot, day-to-day bite-timing data point, not established as a
+  general rule. Fish were taken on the
+  [yo-yo iron](../techniques/yo-yo-iron.md) (one hookup called on camera as
+  a "6X Junior Dorado" color pattern — see
+  [yo-yo iron](../techniques/yo-yo-iron.md#gear-class-detail) for the color
+  data point), the [dropper loop](../techniques/dropper-loop.md), and what a
+  crew member called "bait wraps" (bait-fishing detail not otherwise
+  resolved on camera). The trip's closing tackle-tips recap, covering the
+  whole 8-day charter rather than just this footage, broke yellowtail
+  presentation down by water-column position: **surface iron in a mint
+  color** for fish up in the column and the **scrambled egg pattern**
+  worked when fish were **down deep** — see
+  [surface iron](../techniques/surface-iron.md#color) for both color data
+  points — and a **half-oz sliding sinker with a nose-hooked sardine** when
+  fish were **suspended** — see
+  [sliding sinker](../techniques/sliding-sinker.md#benitos-island-yellowtail-suspended-fish-stokedonfishing)
+  for the rig. The same recap separately gave this trip's bluefin tackle,
+  logged in [bluefin tuna](bluefin-tuna.md#where--when).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

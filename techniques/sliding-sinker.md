@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4]
 confidence: medium
 ---
 
@@ -171,6 +171,22 @@ weight or leader detail given, but consistent with, not a change to, the
 sliding-sinker-produces-Cedros-yellowtail pattern already logged above. See
 [yellowtail](../species/yellowtail.md) for the rest of this trip's detail.
 
+## Benitos Island yellowtail, suspended fish (StokedOnFishing)
+
+**Observed** (StokedOnFishing, `ilINTeknKB4`, "Intrepid Style 8 Day, part 3,"
+2015-10-29 upload, San Benito Island, Baja, part 3 of the 8-day charter
+aboard the **Intrepid** logged elsewhere in this note and in
+[yellowtail](../species/yellowtail.md#where--when); unregistered channel,
+sponsor-heavy episode — medium confidence): the trip's closing tackle-tips
+recap named a **half-oz sliding sinker with a nose-hooked sardine** as the
+rig that worked when yellowtail were sitting **suspended** in the water
+column, contrasted on the same recap with a mint-color surface iron for fish
+up top and a scrambled-egg-pattern jig for fish down deep — see
+[yellowtail](../species/yellowtail.md#where--when) for the full recap and
+[surface iron](surface-iron.md#color) for the color half of it. No leader
+length or hook size given. Consistent with, not a change to, the light
+(1/2 oz) egg-sinker pattern already logged for this species at Cedros above.
+
 ## Bluefin, nose-hooked, 2 oz sinker, worked on the retrieve (StokedOnFishing)
 
 **Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part 1,"
@@ -227,6 +243,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Surface Iron](surface-iron.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
