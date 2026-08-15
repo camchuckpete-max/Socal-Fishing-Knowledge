@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [sea-state, wind, swell, forecasting, planning, santa-ana]
-sources: [zKmZ4zql2ws, DnSqw4r7A1s, S2L3KLSQ6Is, OYOda6T3f-8, Z3rZqy2Pi8E, HzE4FHHcvTk, NC3-3pJDEgo, cameron]
+sources: [zKmZ4zql2ws, DnSqw4r7A1s, S2L3KLSQ6Is, OYOda6T3f-8, Z3rZqy2Pi8E, HzE4FHHcvTk, NC3-3pJDEgo, dS0YUOyqN6g, cameron]
 confidence: high
 ---
 
@@ -138,6 +138,33 @@ roughly **160°–186°**. The measured channel seaward axis is **186°**. **Baj
 blocks** swell coming from **east of ~160°**; **Point Loma blocks** swell from
 **west of the channel axis (186°)**. Use this to judge whether a given swell
 direction will make the launch/return through the channel rough or protected.
+
+## Wind mechanism: Coriolis effect and global wind belts (background, generic)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Oceans and
+Climate," `dS0YUOyqN6g`, 2022-10-14; registered mechanism source — global
+textbook physics, not a SoCal measurement, and not fishing doctrine): wind is
+air moving from high pressure to low pressure, and Earth's rotation deflects
+that moving air (and moving water) — to the **right** in the Northern
+Hemisphere, to the **left** in the Southern Hemisphere — because the Earth's
+surface moves much faster at the equator (~600 km/h) than near the poles
+(~0 km/h). This deflection is the **Coriolis effect**.
+
+On a non-rotating Earth, the equator-to-pole heating difference alone would
+drive one large convection cell per hemisphere. The Coriolis effect splits
+each hemisphere's circulation into three cells instead: the **Hadley cell**
+(0°–30°), the **Ferrel cell** (30°–60°), and the **polar cell** (60°–90°).
+The boundaries between them produce the Northern Hemisphere's (SoCal's)
+prevailing surface-wind bands: calm **doldrums** at the equator (0°) and calm
+**horse latitudes** near 30°, bracketing the **trade winds** between them; the
+lecture also names the **polar easterlies** at the 60°–90° boundary (the
+30°–60° band's name was shown on an on-screen table the auto-generated
+captions did not transcribe, so it is not asserted here).
+
+This is the mechanism reason large-scale wind — and the swell it generates —
+has a consistent directional tendency rather than a random distribution. It
+is upstream background for the wind/swell layers above, not a SoCal-specific
+parameter and not a substitute for the observed/forecast pull.
 
 ## Related
 
