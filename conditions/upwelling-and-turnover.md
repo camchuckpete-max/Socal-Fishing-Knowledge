@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [upwelling, turnover, chlorophyll, bloom-age, bightsst, SST, ekman, enso]
-sources: [h3PTupup17I, cameron, 32TQdFJKIlI]
+tags: [upwelling, turnover, chlorophyll, bloom-age, bightsst, SST, ekman, enso, primary-productivity]
+sources: [h3PTupup17I, cameron, 32TQdFJKIlI, zvU45nkhhuE]
 confidence: high
 ---
 
@@ -111,6 +111,42 @@ attaches to it here.)
 This operates on a basin-scale, multi-month-to-multi-year timescale — the
 long-range backdrop conditions sit within, distinct from and not a substitute
 for Cameron's day-to-day turnover model above or the live BightSST signal.
+
+## Why nutrients (not just warmth) trigger the bloom — primary production mechanism (Crust to Coast, "Geology 5 — Primary Productivity," `zvU45nkhhuE`, 2022-11-02; registered mechanism source — global/textbook biology, not fishing doctrine)
+
+The biology underneath "upwelled water greens up as phytoplankton bloom" above:
+photosynthesis (phytoplankton using sunlight + CO2 + water to produce energy and
+oxygen) is the base of most marine food webs — plants/algae eaten by consumers,
+consumers eaten by consumers, up the chain. Two things drive **primary
+productivity**, and per the lecture **temperature and salinity are explicitly
+not the drivers** (ocean temperature is comparatively stable) — it is:
+
+- **Light** — photosynthesis only runs in the sunlit euphotic zone; the rate
+  falls with depth until the **compensation depth**, where respiration equals
+  photosynthesis and there is no more net productivity below it. **Net
+  production = gross production − respiration** (gross is total photosynthetic
+  output before subtracting what the organisms themselves burn).
+- **Nutrients** — chiefly **nitrates** (also phosphates), plus **silica** for
+  diatom shells and **calcium carbonate** for coccolithophore shells. This is
+  the nutrient half of the chlorophyll signal above: **upwelling is what
+  delivers these nutrients** to the lit surface layer, which is why coastal
+  upwelling zones (west coasts of continents, SoCal/Baja included) carry the
+  world's highest net primary productivity.
+- **Seasonality** follows light + nutrient availability by latitude: tropical
+  productivity runs low and roughly constant year-round (stratified mix
+  layer/thermocline chokes nutrient supply despite steady light); temperate
+  latitudes (SoCal's band) get **two blooms — a spring bloom and an autumn
+  bloom**; polar latitudes get one large **spring/summer bloom** when six
+  months of darkness give way to light over nutrient-rich water.
+
+**Chemosynthesis — the non-photosynthetic alternate base of the food web:** at
+deep-sea hydrothermal vents ("black smokers," too deep for light), distinct
+microbial communities run **chemosynthesis** — using hydrogen sulfide instead
+of sunlight to produce sugars that feed a separate deep food web. Noted for
+vocabulary/completeness; it is a different mechanism from the photosynthesis-
+driven, upwelling-fed chlorophyll signal this note and
+[water color](water-color.md) track, and no SoCal fishery parameter attaches to
+it here.
 
 Pull the live upwelling/turnover state from BightSST at plan time; use *this*
 note for how to interpret bloom age and how to aim for the pre-turnover window.
