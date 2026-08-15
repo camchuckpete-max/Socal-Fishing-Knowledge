@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A]
 confidence: medium
 ---
 
@@ -136,6 +136,22 @@ Same style, different wire, does different jobs (sWRSYCmt4Tw, m2q22sPPkEM):
 - **Heavy-duty (thick) wire** where strength beats swim — islands yellowtail,
   Guadalupe, dropper loop, and big-fish rigs. Thick wire on a small bait weighs it
   down and swims poorly, so save it for larger baits and heavier targets.
+- **Why thick-shank beats thin-wire under sustained heavy drag (Capt. Jeff
+  Marklin, Thunderbird, out of Davey's Locker, Newport Beach — StokedOnFishing,
+  `_PGm-TlFU2A`, "Thunderbird Tuna Time," Summer 2015 footage, 2015-11-17
+  upload; unregistered channel — medium confidence):** fishing small **~3–4 in
+  anchovies** for yellowfin that could run to **40 lb**, on **30 lb leader
+  against 65 lb Spectra**, a thin-wire hook doesn't have enough surface area
+  or shock absorption to take the strain — the usual result is you reel back
+  in "an eye of the hook and no hook, no bend" (asr-uncertain: the exact
+  failure mechanics are garbled in the captions; read here as the hook
+  parting rather than surviving the load, not as a specific bend-vs-break
+  claim). **Thicker-shank hooks —
+  named brands Mustad and VMC** — hold up to repeated heavy pulls across
+  multiple fish, stay sharp, keep their barbs, and don't let the bait fly off,
+  even fished this small. Consistent with, not new beyond, the wire-gauge
+  tradeoff above — this is a same-boat data point for where that tradeoff
+  tips toward thick wire even on small live bait.
 
 ### Finish — bronze/black vs. nickel/chrome (Capt. Dave Hansen, Your Saltwater Guide, IMnoZVEYpm4, 2021-05-11; presenter-inferred — solo tutorial on the Your Saltwater Guide channel, no on-screen name given, attributed by channel identity per the dave-hansen registry entry; single mention of this specific claim — `medium` confidence)
 

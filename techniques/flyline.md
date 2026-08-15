@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A]
 confidence: medium
 ---
 
@@ -134,6 +134,26 @@ on **30 lb test** line as the crew's standard, with some anglers going
 heavier and some lighter "depending on their preference" — consistent
 with, not new beyond, the 30 lb/~3/0 sardine-flyline pairing already logged
 above for this same island (`V_ONnegk95M`).
+
+**Observed** (StokedOnFishing, Summer 2015 footage / 2015-11-17 upload,
+Newport Beach, SoCal — `_PGm-TlFU2A`, "Thunderbird Tuna Time," overnight
+charter aboard the Thunderbird out of Davey's Locker; unregistered channel —
+medium confidence): crew reported getting bit on **anchovy ("chovy") bait,
+3–4 in**, fly-lined on **No. 4 to No. 2 hooks** ("tiny guys," getting bit on
+No. 4s "all day long") — consistent with, not new beyond, the anchovy/No. 4
+thin-wire sizing already logged in [hooks](../tackle/hooks.md). **25–30 lb
+fluorocarbon** leader was called out on camera as "key, it's a must have
+these days." A **small split shot with a little rubber core** was mentioned
+as an option to add to the flyline — a lighter-weight version of the
+rubber-core/sliding-sinker depth adjustment already logged above
+(`Ow3an9lSVh4`), amount and placement not detailed further on camera. Later
+in the same session, anglers on spinning gear were fishing **25 lb
+fluorocarbon on 40 lb backing** with a small anchovy hook, and a separate
+angler called **30 lb fluorocarbon** "smart" after a previous trip's 15 lb
+leader "couldn't" hold up — additional same-trip leader data points alongside
+the 25–30 lb figure above. Thick-shank hook doctrine (why Mustad/VMC hold up
+under heavy drag on this small a bait) from the same trip is logged in
+[hooks](../tackle/hooks.md).
 
 ## Match line weight to the bait, not just to the target fish
 
