@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0]
 confidence: high
 ---
 
@@ -142,6 +142,17 @@ conditions that put one there.** (General search method:
   exceptional-halibut-year pattern already logged for this operator/spot
   above. The same trip's giant yellowtail catches are logged in
   [yellowtail](yellowtail.md).
+- **Observed** (StokedOnFishing, 2016-11-23 upload, front side of Catalina
+  Island, SoCal — `MUpvP-Yl2R0`, "Catalina Island Fishing," sponsor-heavy
+  Navico/Simrad electronics demo episode; unregistered channel — medium
+  confidence): at an anchored, chummed live-squid yellowtail/calico stop (see
+  [yellowtail](yellowtail.md#where--when) for the full session), two
+  California halibut were also caught. One was called "too small... a little
+  short" on camera and released. The other was measured boatside against a
+  crew member's stated **22 in legal minimum** and came in at **24 1/4 in**,
+  kept as legal. The 22 in figure is a regulatory claim — California/CDFW
+  minimum size for California halibut, as stated on camera 2016-11-23; verify
+  the current CDFW regulation before fishing, sizes and rules can change.
 
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head

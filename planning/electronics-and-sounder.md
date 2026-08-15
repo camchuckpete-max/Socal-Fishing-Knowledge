@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0]
 confidence: high
 ---
 
@@ -186,6 +186,26 @@ temperature-differential-over-absolute-number doctrine in
 [water temperature](../conditions/water-temperature.md), on the same
 Simrad chartplotter product line as the Mission Bay demo above.
 
+## Buoy overlay for wave height/period, plus AIS and structure-scan chatter
+
+**Demonstrated** (StokedOnFishing, 2016-11-23, en route to Catalina Island,
+SoCal — `MUpvP-Yl2R0`, "Catalina Island Fishing," sponsor-heavy Navico/Simrad
+electronics demo; unregistered channel — medium confidence on the mechanism,
+low on the product claim): running out to the island, the crew pulled up an
+on-chart buoy overlay (described as refreshing roughly every two hours) and
+read a nearby buoy's data straight off the plotter: **wave height 3 ft at
+17 seconds** ("below average steepness"), plus a separate **wind-wave
+reading of 2 ft at 7 seconds** — a swell/wind-wave split read directly from
+the chartplotter rather than a separate buoy-website lookup. The same screen
+also carried the SST color-shading described in the Mission Bay/14-Mile-Bank
+demos above ("temp breaks"), used here to help pick the day's zone. The
+captain also named the plotter's AIS layer (showing other AIS-equipped
+vessels) and a structure-scan sonar channel run alongside the main sounder,
+without demonstrating either with a worked example — kept here as a named
+feature, not a parameter. Not independently corroborated elsewhere in this
+corpus; a further single-sponsor-context data point alongside the SST/wind
+overlay demos above, not a general product recommendation.
+
 ## Bird radar
 
 Radar isn't just for boats and weather — run it in **bird mode** (Duane):
@@ -197,6 +217,18 @@ So **4–5 mi is the working detection envelope** to expect from bird radar — 
 extends your glassing reach well past the ~2 mi you get from a hardtop (see
 [search and glassing](search-and-glassing.md)). Radar finds the pile; glassing
 confirms what the birds are doing.
+
+**Observed** (StokedOnFishing, 2016-11-23, front side of Catalina Island,
+SoCal — `MUpvP-Yl2R0`, "Catalina Island Fishing," sponsor-heavy Navico/Simrad
+electronics demo (Halo radar); unregistered channel — medium confidence on
+the mechanism, low on the product claim): with a bird school working close
+off the port side, the radar's bird mode painted the birds as small moving
+blue dots on screen, tracking them in real time as they flew, with the unit
+zoomed in to a **1/2 mile** range for visibility on camera; the presenter
+cited the unit's **spec'd detection range as up to 5 mi**, consistent with
+the 4–5 mi working envelope already logged above. Not an independent
+extension of that envelope — a spec claim plus a close-in demo, not a
+longer-range field test.
 
 **Close-range zoom and marking dolphin schools without a visual** (StokedOnFishing,
 `SczdZIq3UmE`, 2019-10-02, offshore SoCal; Simrad-sponsored demo of a Halo

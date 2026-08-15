@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0]
 confidence: medium
 ---
 
@@ -199,6 +199,20 @@ with live squid, fished off a **30 lb mono main line with a 4 ft top shot of
 side of the same trip and the day's tally. A lighter build than the 1/2 oz
 Cedros/Benitos egg-sinker data points logged above — kept side by side, not
 reconciled, as a further light-slider SoCal yellowtail data point.
+
+## Catalina yellowtail, size 4 hook, 1/4 oz slider + squid (StokedOnFishing)
+
+**Observed** (StokedOnFishing, 2016-11-23 upload, front side of Catalina
+Island, SoCal — `MUpvP-Yl2R0`, "Catalina Island Fishing," sponsor-heavy
+Navico/Simrad electronics demo episode; unregistered channel — medium
+confidence): pre-bait, the crew called out a **size 4 hook** on a small
+slider sinker, weighted at roughly **1/4 oz**, as "perfect for squid" —
+fished on live squid at anchor and chum, producing multiple yellowtail. A
+lighter hook than the No. 2 named in the San Clemente Island entry just
+above, though both share the same light (1/4 oz) slider weight — kept side
+by side as further SoCal light-slider squid-rig data points, not
+reconciled into a single spec. See
+[yellowtail](../species/yellowtail.md#where--when) for the full session.
 
 ## Bluefin, nose-hooked, 2 oz sinker, worked on the retrieve (StokedOnFishing)
 

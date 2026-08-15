@@ -108,3 +108,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-14T22:58:45Z — 3qSY328fFYo — guard-violation
 - run: 31845737451
 - reason: commit bd4968bfe39d7b1d79eb2cfd1dc1027f492202e0 reverted: deleted 21 lines from curated note: techniques/bait-and-switch.md
+
+## 2026-08-15T01:34:31Z — MUpvP-Yl2R0 — evaluator-escalate
+- run: 31852099283
+- reason: species/california-halibut.md adds a CDFW 22in legal-minimum-size claim for California halibut (jurisdiction/as-of-date/verify-current flag present and compliant) - per evaluate-unit.md's mandatory trigger, every regulatory claim goes to Cameron regardless of correct labeling
