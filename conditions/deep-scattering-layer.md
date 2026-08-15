@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [DSL, deep-scattering-layer, swordfish, bluefin, sounder, night-bite]
-sources: [yMiBtZ7k8-w, nRFFM8DT-og, yLpDI8jnizU, Bab_6o7JFh4]
+sources: [yMiBtZ7k8-w, nRFFM8DT-og, yLpDI8jnizU, Bab_6o7JFh4, 6pAmcsTtYGA]
 confidence: high
 ---
 
@@ -67,6 +67,26 @@ preferred down to ~950 ft/150 fm per the sword seminar above) sits right at
 the epipelagic/mesopelagic boundary and into the mesopelagic — consistent
 with "mesopelagic" being the standard term for the zone this layer occupies.
 Background terminology only; it does not change the depth/bait doctrine above.
+
+## Oxygen and the oxygen minimum layer (mechanism, generic — not SoCal-measured)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Chemical
+Oceanography," `6pAmcsTtYGA`, 2022-09-13; registered mechanism source per the
+source registry — global mechanism, not a SoCal measurement, and not fishing
+doctrine): dissolved oxygen in seawater comes from two sources — exchange with
+the atmosphere and photosynthesis by phytoplankton — so it is **highest in the
+photic/near-surface zone** and decreases with depth. Below the
+surface-enriched layer sits an **oxygen minimum layer (OMZ)**, where dissolved
+oxygen bottoms out and then stays low through the rest of the water column.
+Low-oxygen water is termed **hypoxic**; oxygen-absent water is **anoxic**;
+sustained hypoxia/anoxia produces ocean "dead zones."
+
+Cross-check against the DSL doctrine above: the DSL's daytime depth band (600+
+ft, preferred to ~950 ft/150 fm) sits within the same general depth range this
+mechanism places the mesopelagic zone (per the light-zone vocabulary above) —
+consistent with, but not proof of, oxygen availability being one factor
+shaping where the layer and its predators hold. Background mechanism only; it
+does not change the depth/bait doctrine above.
 
 ## Where the DSL matters
 

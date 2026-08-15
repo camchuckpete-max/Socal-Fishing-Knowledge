@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [sst, temperature, breaks, bluefin, yellowfin, dorado]
-sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc]
+sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA]
 confidence: high
 ---
 
@@ -52,6 +52,27 @@ cooler water." The early-graylight bite in that cooler water (starting
 roughly **4:30–5:00 a.m.**) was bluefin tuna; later the same morning,
 yellowtail and yellowfin were found **southeast of the bank, where the water
 warms up a little** — the warmer side of the same edge.
+
+## Salinity vs. latitude and depth (mechanism, generic — not SoCal-measured)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Chemical
+Oceanography," `6pAmcsTtYGA`, 2022-09-13; registered mechanism source per the
+source registry — global mechanism, not a SoCal measurement, and not fishing
+doctrine): sea-surface salinity varies with latitude because evaporation
+raises it and precipitation dilutes it. Net precipitation at the equator (high
+rainfall) pulls salinity down near the global average (~35 ppt); net
+evaporation in the subtropics/tropics pushes it higher (~37–38 ppt) before it
+falls again toward the poles. With depth, there is a well-mixed surface layer
+in the **upper ~200 m (~656 ft)**, below which salinity changes abruptly
+across a **halocline**, and below that the deep ocean settles to a globally
+constant salinity regardless of surface latitude.
+
+This is a parallel stratification concept to the temperature breaks this note
+is built around — a halocline, like a thermocline, is a step change with depth
+rather than a gradient — but it is background mechanism only; it does not
+change the break-side or SST doctrine above, and salinity is not a
+SoCal-measured input in this KB (BightSST tracks SST/chlorophyll/wind/swell/
+current, not salinity).
 
 ## How to use it in planning
 

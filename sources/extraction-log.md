@@ -1169,7 +1169,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | GIlM8fTmL5M | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: navigation history and bathymetric mapping techniques, no waves/tides/currents mechanism |
 | d7IPkfjMZu8 | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: solar system/earth origin, mantle layers, isostasy, seismology; deep-time geology |
 | SVLqaSa1bxU | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: continental drift, mantle convection, seamounts/hotspots; rock/plate-tectonics geology |
-| 6pAmcsTtYGA | Crust to Coast | seminar | parameter-skim | pending | Salinity vs latitude/depth, dissolved gases, oxygen minimum layer and hypoxia -> conditions water-column |
+| 6pAmcsTtYGA | Crust to Coast | seminar | parameter-skim | done | conditions/deep-scattering-layer.md; conditions/water-temperature.md / merged salinity-vs-latitude/depth and oxygen-minimum-layer/hypoxia mechanism into two existing conditions notes as background-mec |
 | i4OB4G6_adI | Crust to Coast | seminar | parameter-skim | pending | Thermocline/pycnocline/mixed layer, density vs depth, sound channel, light penetration -> conditions water-column |
 | OZejCm0ItEE | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: lithogenous/biogenous sediment classification, core sampling, paleoceanography |
 | 32TQdFJKIlI | Crust to Coast | seminar | parameter-skim | pending | Gyres, Ekman transport, geostrophic flow, upwelling/downwelling, ENSO, kelp-productivity link -> conditions currents/upwelling |
