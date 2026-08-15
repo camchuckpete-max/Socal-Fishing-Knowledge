@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0, IwxqgocsQTY]
 confidence: high
 ---
 
@@ -273,6 +273,17 @@ confidence):** here he identifies the Wounded Warrior as a **Tady 45** and
 calls it his one-lure pick across yellowtail, calico bass, white seabass, and
 yellowfin tuna — see [iron jigs](../lures/iron-jigs.md) for the color/finish
 spec and full claim.
+
+**Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part 1,"
+2015-10-29 upload, day one of an 8-day charter aboard the **Intrepid**,
+SoCal or a transit zone en route south, location otherwise not confidently
+placed on camera — see [yellowtail](../species/yellowtail.md#where--when)
+for the full session; unregistered channel, sponsor-heavy episode — medium
+confidence): first thing in the morning at a boiler rock, one angler opened
+on a surface iron in a color he called the **"scrambled egg pattern."** No
+bite result tied specifically to that color is confirmed on camera. A
+further single-trip color data point, kept alongside, not merged into, the
+other reports in this section — still not generalized into doctrine.
 
 **Observed** (Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ,
 2020-01-28, La Jolla): a **red crab**-pattern iron produced 2 of the day's 3

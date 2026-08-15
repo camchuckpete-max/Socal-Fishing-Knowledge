@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY]
 confidence: medium
 ---
 
@@ -171,6 +171,22 @@ weight or leader detail given, but consistent with, not a change to, the
 sliding-sinker-produces-Cedros-yellowtail pattern already logged above. See
 [yellowtail](../species/yellowtail.md) for the rest of this trip's detail.
 
+## Bluefin, nose-hooked, 2 oz sinker, worked on the retrieve (StokedOnFishing)
+
+**Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part 1,"
+2015-10-29 upload, day one of an 8-day charter aboard the **Intrepid**,
+Captain Kevin Osborne, fished at anchor on a kelp paddy close to home, SoCal;
+unregistered channel, sponsor-heavy episode — medium confidence): with
+bluefin marked **80 to 150 ft** down, a sardine nose-hooked and fished on a
+**2 oz sinker**, **40 lb** line with a fluorocarbon top shot, drew a strike
+**on the retrieve** rather than the drop or the soak — the angler described
+winding the bait back in "like you're slow trolling it back in." A distinct,
+heavier build from the **1/2 oz** trip-tips build already logged for this
+species in [rubber-band deep rig](../rigging/rubber-band-deep-rig.md#a-lighter-sliding-sinker-variant--trip-tips-segment-stokedonfishing)
+— kept side by side, not reconciled, as another light-sinker bluefin data
+point. See [bluefin tuna](../species/bluefin-tuna.md#where--when) for the
+same session's butt-hooked-bait alternative and grade.
+
 ## Fishing it — feed the bite
 
 - Let the sinker settle to the bottom and keep it in light contact. When a fish
@@ -197,6 +213,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
 - [Dropper Loop](dropper-loop.md)

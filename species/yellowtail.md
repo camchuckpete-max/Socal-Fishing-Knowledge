@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY]
 confidence: high
 ---
 
@@ -105,6 +105,29 @@ typical-year mapping.
   sardine. A same-trip Dorado bite is logged in [dorado](dorado.md#where--when),
   and the trip's separate offshore bluefin leg is logged in
   [bluefin tuna](bluefin-tuna.md#where--when).
+  **Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part
+  1," 2015-10-29 upload, day one of an 8-day charter aboard the **Intrepid**,
+  Captain Kevin Osborne; a "boiler rock" at what the crew called the "West
+  End" — island/bank not otherwise identified on camera, asr-uncertain, not
+  confidently placed as Catalina's west end or elsewhere; SoCal or a transit
+  zone en route south; unregistered channel, sponsor-heavy episode (Simrad,
+  Okuma, Davies Locker, a car dealership, and a monofilament/fluorocarbon
+  line sponsor) — medium confidence, sponsor product/brand claims not
+  carried): the captain worked a boiler rock the crew said had "been scoring
+  pretty well... the last few trips," starting first thing in the morning on
+  [surface iron](../techniques/surface-iron.md) in a color the angler called
+  the "scrambled egg pattern" — see
+  [surface iron](../techniques/surface-iron.md#color) for that color data
+  point. One hooked yellowtail ran the angler under the boat and scraped the
+  line up badly enough to draw comment that it "still held together" —
+  fished on an **Okuma Cedros 12** star-drag reel, credited on camera for a
+  gear ratio "great for jigging" (sponsor product mention, not carried as an
+  independent endorsement). Separately, an angler working a
+  [dropper loop](../techniques/dropper-loop.md) lost a big yellowtail that
+  "took me to the rocks" — a further rock-cutoff loss alongside the pattern
+  already logged for Baja/Cedros in this note. After multiple hookups on
+  **30 lb** test, a crew member's parting comment was that his own
+  recommendation is to go higher than 30 lb for these fish.
 - **San Clemente Island** — a squid fishery on the back side / east end: nice
   20–25 lb average fish, high teens to high 30s, biting squid (4/21/22,
   YZtX1MiT0y8). Classic squid-zone behavior — the bite dried up after the first

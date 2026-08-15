@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY]
 confidence: high
 ---
 
@@ -573,6 +573,31 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   episode previews a following week's footage moving south to "Bonito
   Island" for a yellowtail bite — not covered in this footage, so not
   extracted here.
+- **Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part
+  1," 2015-10-29 upload, day one of an 8-day charter aboard the **Intrepid**,
+  Captain Kevin Osborne, an Okuma-sponsored charter hosted by Tony (a
+  soft-steel-line rep running the "Soft Steel Okuma Charters" program, a
+  separate person from the angler Garza named below) —
+  fished at anchor on a kelp paddy close to home before the boat ran south for
+  the rest of the trip; SoCal, exact zone not named on camera; unregistered
+  channel, sponsor-heavy episode (Simrad, Okuma, Davies Locker Sportfishing, a
+  car dealership, and a monofilament/fluorocarbon line sponsor) — medium
+  confidence, sponsor product/brand claims not carried): with the captain
+  calling bluefin marking **80 to 150 ft** down, the crew fished two live-bait
+  presentations side by side — **butt-hooking** sardines (hooked in the back)
+  on a fluorocarbon leader to a circle hook, the crew's stated reasoning being
+  that butt-hooking dives the bait, which you want "when the blue fin are not
+  going full stream" (not feeding hard up top); and, on a separate rod, a
+  sardine **nose-hooked** and fished on a **2 oz sinker** rig on **40 lb**
+  line with a fluorocarbon top shot, which also produced a fish — notably
+  hooked **on the retrieve**, wound back in "like you're slow trolling it
+  back in" rather than on the drop. That second rig/technique detail is
+  logged in [sliding sinker](../techniques/sliding-sinker.md#bluefin-nose-hooked-2-oz-sinker-worked-on-the-retrieve-stokedonfishing).
+  A separate butt-hooked hookup was lost when the fish "hit it with such
+  force" it knocked the hook loose — a stated failure mode of that
+  presentation. Grade included at least one **75 lb** fish, landed by an
+  angler named on camera as **Garza**, on **40 lb** line. A jack was also
+  landed the same session ("a big time brawl").
 
 ## Finding them (sign & sonar)
 
@@ -674,6 +699,14 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     point, not a replacement. A same-trip nose-hooked-sardine dorado bite and
     a Catalina yellowtail leg are logged in [dorado](dorado.md#where--when)
     and [yellowtail](yellowtail.md#where--when).
+  - **Near-home kelp stop, another mid-column data point (Observed,
+    StokedOnFishing, `IwxqgocsQTY`, 2015-10-29 upload, SoCal, exact zone not
+    named on camera; medium confidence, unregistered channel, sponsor-heavy
+    episode):** anchored on a kelp paddy, the captain called bluefin marking
+    **80 to 150 ft** down — deeper than the 50–100 ft Catalina drift-bite
+    entry above, shallower than the 30–50 fm sounded-school range — worked
+    with butt-hooked and sinker-rigged live bait rather than a jig; full
+    rig/tackle detail logged in **Where & when** above.
   - **Paddy/kelp fish:** hanging under [kelp paddies](../conditions/kelp-paddies.md)
     with yellowtail and dorado — grade the paddy fast and move.
   - **Bait shape:** broken, harried, moving bait holds predators; a solid
@@ -868,6 +901,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
