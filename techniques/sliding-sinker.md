@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0]
+tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw]
 confidence: medium
 ---
 
@@ -229,6 +229,33 @@ species in [rubber-band deep rig](../rigging/rubber-band-deep-rig.md#a-lighter-s
 — kept side by side, not reconciled, as another light-sinker bluefin data
 point. See [bluefin tuna](../species/bluefin-tuna.md#where--when) for the
 same session's butt-hooked-bait alternative and grade.
+
+## Albacore, light torpedo-sinker slide + minimal slider, 37 mi off San Diego (StokedOnFishing)
+
+**Observed** (StokedOnFishing, 2012-03-19, ~37 mi off San Diego, SoCal —
+`w37pHf0xjrw`, "Voyager Albacore Fishing," aboard the Voyager; unregistered
+channel — medium confidence): while prepping bait for the next day's trip,
+the crew relayed fisherman friends' scoop of a wide-open albacore bite
+("50 fish up till noon" before slowing on one school) — no day given for
+when that report happened — and noted they'd be fishing close enough to San
+Diego (37 mi) that the fleet was expected to be crowded the next day. Two
+light-line presentations were shown on camera:
+
+- **Dropped back on the jig-rod hookup:** a **2 oz torpedo sinker** on "a
+  nice leader" to a **No. 3, small hook**, with a small ring on the leader/
+  terminal connection said to help "the bait swim more like natural."
+- **Chum-and-drift on a good mark** (boat stopped and parked over a strong
+  meter mark to chum): the **smallest sliding sinker they could find** to a
+  **size 2 hook**, line let out to swim as freely as possible rather than
+  held tight.
+- **Bait: straight anchovy ("chovy")** for the trip, summed up on camera as
+  "small hooks, light line."
+
+No leader test, sinker brand, or hook brand given on camera. A further
+light-tackle SoCal data point — albacore rather than the bluefin/yellowtail
+species logged in the light-slider entries above — kept side by side, not
+reconciled, since the mechanism (minimal weight, small hook, natural swim)
+matches.
 
 ## Fishing it — feed the bite
 

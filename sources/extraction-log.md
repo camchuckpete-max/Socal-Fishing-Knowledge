@@ -1164,7 +1164,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | ns992VlKpMc | StokedOnFishing | on-the-water | skip:thin-generic | skipped | near-silent Top Gun 80 yellowtail catch montage, almost no dialogue |
 | RgtkbmBFUXI | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/dropper-loop.md / Guadalupe Island 100 lb dropper-loop leader + 120-250ft drift + ~8-of-10 rock-cutoff loss rate added as Observed data points (medium confidence, unr |
 | 2K4urpo3q6Q | StokedOnFishing | on-the-water | observations-only | done | none / no extractable fishing knowledge — incidental unlocated great white shark sighting, empty patch confirmed correct |
-| w37pHf0xjrw | StokedOnFishing | on-the-water | parameter-skim | pending | SoCal, 37mi off San Diego; torpedo sinker sizes, #2-3 hooks, light-line albacore rig |
+| w37pHf0xjrw | StokedOnFishing | on-the-water | parameter-skim | done | techniques/sliding-sinker.md / Merged albacore torpedo-sinker/slider Observed block (2oz torpedo+No.3 hook drop-back vs. smallest-slider+size-2-hook chum-drift, straight anchovy) into existing sliding |
 | Bab_6o7JFh4 | Crust to Coast | seminar | parameter-skim | pending | Shelf/slope/abyssal provinces + euphotic/mesopelagic light zones, marine provinces -> conditions water-column and bathymetry |
 | GIlM8fTmL5M | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: navigation history and bathymetric mapping techniques, no waves/tides/currents mechanism |
 | d7IPkfjMZu8 | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: solar system/earth origin, mantle layers, isostasy, seismology; deep-time geology |
