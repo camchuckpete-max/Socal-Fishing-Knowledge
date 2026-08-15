@@ -1162,7 +1162,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | 0HILDC0ITLE | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SoCal albacore catch footage; only generic line-in-front-of-you safety tip |
 | 2TE46Hqoq5s | StokedOnFishing | promo | skip:promo | skipped | Intrepid boat/crew/food comfort testimonial ad; negligible actual fishing footage |
 | ns992VlKpMc | StokedOnFishing | on-the-water | skip:thin-generic | skipped | near-silent Top Gun 80 yellowtail catch montage, almost no dialogue |
-| RgtkbmBFUXI | StokedOnFishing | on-the-water | parameter-skim | pending | Guadalupe Island (Baja); 100lb leader on dropper loop near rocks, swings 120-250ft |
+| RgtkbmBFUXI | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/dropper-loop.md / Guadalupe Island 100 lb dropper-loop leader + 120-250ft drift + ~8-of-10 rock-cutoff loss rate added as Observed data points (medium confidence, unr |
 | 2K4urpo3q6Q | StokedOnFishing | on-the-water | observations-only | pending | dated observation: 15-18ft great white shark seen under boat |
 | w37pHf0xjrw | StokedOnFishing | on-the-water | parameter-skim | pending | SoCal, 37mi off San Diego; torpedo sinker sizes, #2-3 hooks, light-line albacore rig |
 | Bab_6o7JFh4 | Crust to Coast | seminar | parameter-skim | pending | Shelf/slope/abyssal provinces + euphotic/mesopelagic light zones, marine provinces -> conditions water-column and bathymetry |

@@ -686,6 +686,16 @@ typical-year mapping.
   The crew stopped keeping fish and released the rest of the yellowtail once
   they judged the day's box (three bags, run through the dock's
   clean/fillet/vacuum-seal/freeze service) was full.
+- **Guadalupe Island (Pacific/west-coast Baja)** — a big-fish structure
+  fishery working steep rock drop-offs. **Observed** (StokedOnFishing,
+  2012-03-27, Guadalupe Island, Baja — `RgtkbmBFUXI`, "Guadalupe Island
+  Yellowtail vs Man"; unregistered channel — medium confidence): the crew
+  worked a dropper loop on a drift across a rock drop-off for fish nicknamed
+  "water buffalo" on camera; even on heavy leader, the angler put his own
+  loss rate at **about eight out of ten** hookups lost to rock cutoffs —
+  full rig, leader, and depth detail logged in
+  [dropper loop](../techniques/dropper-loop.md#building-the-rig) rather than
+  repeated here, per the router/execution split.
 - **Cedros Island (Pacific/west-coast Baja)** — a resident, catch-and-release-
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips

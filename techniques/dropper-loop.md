@@ -92,6 +92,20 @@ this note owns the rig and the retrieve.
   line-class rather than sinker-weight parameter) — kept side by side, not
   reconciled, given the different variable measured.
 
+- **Guadalupe Island, Baja — 100 lb leader, majority still lost to rock
+  cutoffs (Observed, StokedOnFishing, 2012-03-27, `RgtkbmBFUXI`, "Guadalupe
+  Island Yellowtail vs Man"; unregistered channel — medium confidence):** for
+  the island's resident big yellowtail (crew nickname "water buffalo" on
+  camera), the on-camera rig was a **100 lb leader tied on the bottom on a
+  dropper loop**, fished on a drift swinging across steep rock structure from
+  about **120 ft out to 250 ft** of water where the bottom drops off like a
+  wall. Even at 100 lb, hooked fish diving back for the rocks cut the leader
+  through — the angler put his own loss rate at **about eight out of ten**
+  hookups lost that way ("you bite right through it," per the on-camera
+  exchange). A heavier line-class data point than the San Benito Island
+  100 lb entry above — a different specific island in the same Baja region,
+  not independent confirmation of one number.
+
 **Note:** a same-region Baja/Sea of Cortez grouper leader (Cesar, Dirty
 Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a
 swivel, leader below to the hook** — that's the [sliding-sinker](sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar)
