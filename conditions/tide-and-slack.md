@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [tide, slack, timing, white-seabass, halibut, foamers, bluefin]
-sources: [6TBxHnkYXI0, DnSqw4r7A1s, 5p6gu14ZC4w, HzE4FHHcvTk, 5to3Q5P7w90, cameron, Y2bXn44lfqo]
+sources: [6TBxHnkYXI0, DnSqw4r7A1s, 5p6gu14ZC4w, HzE4FHHcvTk, 5to3Q5P7w90, cameron, Y2bXn44lfqo, 9tTM99InluM]
 confidence: high
 ---
 
@@ -57,6 +57,29 @@ the hard run.
 most likely to start at slack** — slack lets the bait rise in the water column.
 This is the same mechanism the corpus states, arrived at independently, which is
 why both are recorded here rather than reconciled away.
+
+## Mechanism (background)
+
+Oceanographic mechanism only (Crust to Coast lecture, 9tTM99InluM) — background
+for interpreting tide charts, not fishing doctrine:
+
+- Tides come from the moon's and sun's gravity stretching Earth's oceans into
+  bulges. Because gravitational pull falls off with the square of distance, the
+  moon's tidal influence is roughly **2x the sun's** even though the sun is far
+  more massive.
+- **Spring tides** (biggest tidal range — highest highs, lowest lows) happen at
+  full and new moon, when sun, Earth, and moon line up and the lunar and solar
+  bulges reinforce each other. **Neap tides** (smallest tidal range) happen at
+  the quarter moons, when the sun and moon sit ~90° apart and the bulges
+  partially cancel. This is the underlying mechanism behind the tide-amplitude
+  coupling noted in [moon](moon.md).
+- The **lunar day runs about 50 minutes longer** than the 24-hour solar day —
+  this is why the next high/low tide lands roughly 50 minutes later each
+  successive day.
+- The Pacific coast of North America (SoCal included) runs a **mixed
+  semi-diurnal** pattern: two high tides and two low tides per day, with the
+  two highs unequal to each other and the two lows unequal to each other —
+  not the idealized equal/regular pattern.
 
 ## WSB / halibut water triad
 
