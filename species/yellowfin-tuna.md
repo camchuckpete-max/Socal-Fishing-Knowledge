@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo]
 confidence: high
 ---
 
@@ -195,6 +195,20 @@ the bluefin nearby become more cooperative too.**
 - No standing conflict — the corpus and Cameron agree on the water read; the only
   nuance is grade (private-boat bait budgets favor the scale-down/lure game over
   the sportboat's bottomless-chum approach).
+- **Observed** (StokedOnFishing, `AIHvJj-paoo`, 2016-11-29, offshore San
+  Clemente Island near Desperation Point, SoCal — sponsor-heavy Okuma
+  reel-demo episode, trip-tips segment; unregistered channel — medium
+  confidence): on a picky private-boat bite that day, the on-camera trip-tip
+  advice was to **downsize line** — a **25 lb fluorocarbon leader with a
+  lighter (thinner) wire, size 2 circle hook**, reasoned as letting the bait
+  swim better. A further private-boat leader/hook data point alongside the
+  picky-bite scale-down row above (15–20 lb leader, size 1 thin-wire circle) —
+  kept side by side rather than merged, since the two sources give different
+  specific numbers. Multiple anglers on this trip were independently running
+  **20–25 lb fluorocarbon leader** that day, consistent with the same
+  light-line-for-picky-fish pattern — one stated as **20 lb line, 20–25 lb
+  leader**; another as a roughly **4 ft, 20–25 lb fluoro leader on 50 lb
+  Spectra**.
 - **Observed** (StokedOnFishing, `SczdZIq3UmE`, 2019-10-02, offshore SoCal near
   the 209 bank; unregistered channel — medium confidence): a private-boat trip
   found white terns working over **72°F** water and boated yellowfin graded

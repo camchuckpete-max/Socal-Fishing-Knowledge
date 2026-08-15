@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo]
 confidence: medium
 ---
 
@@ -283,6 +283,20 @@ or [skipjack](../species/skipjack-tuna.md), a couple of minutes of hard chumming
 can raise fish holding 40–50 ft down right up under the boat (lxFNVdDhMy4). Fish
 the **down-drift / down-wind side** — the drift carries your bait away from the
 boat and keeps the wind at your back for the cast.
+
+**Observed — private-boat trip tips for a shared multi-boat chum stop**
+(StokedOnFishing, `AIHvJj-paoo`, 2016-11-29, offshore San Clemente Island near
+Desperation Point, SoCal — sponsor-heavy Okuma reel-demo episode, trip-tips
+segment; unregistered channel — medium confidence): once the sport boats pull
+off a spot, the on-camera advice for a cluster of private boats left on the
+school was to (1) **join forces with the other private boats and chum
+off-and-on together** — with everyone working together it "acts as a party
+boat," and the fish will circle around and stay with the drifting boats
+instead of scattering once the bigger boat's steady chum line stops; and (2)
+**give neighboring boats some space** — these tuna take big runs, and fishing
+too close risks sawing another boat's hooked fish off on your own line. Both
+are private-boat etiquette/tactics for a shared bite, alongside the
+chum-raises-the-school mechanism above (lxFNVdDhMy4).
 
 **Observed** (StokedOnFishing, trip framed on camera as "this past June"
 (resolved from the 2024-04-26 upload date to **June 2023**), backside San
