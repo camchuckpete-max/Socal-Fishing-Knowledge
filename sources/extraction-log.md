@@ -1140,7 +1140,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | HpPFogLwKOw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island; series pt3 |
 | kWT_0Qp8wkw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island; series pt4 |
 | 8THSuqoPI_Q | StokedOnFishing | on-the-water | observations-only | done | conditions/kelp-paddies.md; species/bluefin-tuna.md; species/dorado.md; species/yellowtail.md / added 4 Observed blocks (small-paddy attitude, bluefin drift depth/hook-position, dorado hook-position c |
-| -bw1KDfDjv4 | StokedOnFishing | on-the-water | parameter-skim | pending | SoCal offshore banks (14-mile bank); temp-break/kelp-paddy reading via electronics; sponsor-heavy; Simrad Summer pt1 |
+| -bw1KDfDjv4 | StokedOnFishing | on-the-water | parameter-skim | done | conditions/kelp-paddies.md; planning/electronics-and-sounder.md; planning/fleet-intelligence.md; techniques/flyline.md / 14 Mile Bank paddy re-work tactic, SST bank-vs-off-bank reading, radar fleet-sc |
 | IwxqgocsQTY | StokedOnFishing | on-the-water | observations-only | pending | SoCal-to-Baja 8-day trip footage, mostly travel/banter; sponsor-heavy; Intrepid Style 8 Day pt1 |
 | 97clKtVsEOs | StokedOnFishing | on-the-water | parameter-skim | pending | Benitos Isl/Alijos Rocks, Baja (region); anchor-vs-drift call via sounder, wahoo bomb-lure hookup logic; series pt2 |
 | ilINTeknKB4 | StokedOnFishing | on-the-water | observations-only | pending | Benitos Isl, Baja (region); yellowtail/bluefin catch footage, noon-bite-timing note; series pt3 |

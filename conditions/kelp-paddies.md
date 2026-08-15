@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds, drone]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q, -bw1KDfDjv4]
 confidence: high
 ---
 
@@ -118,6 +118,16 @@ written off rather than worked cautiously. The paddy produced numerous
 dorado plus an incidental big yellowtail. Consistent with the
 check-fast-then-move discipline and the 2022-10-12 loaded-paddy observation
 above.
+
+**Re-work a paddy you've already drifted off of (StokedOnFishing, `-bw1KDfDjv4`,
+2015-09-27, offshore San Diego, 14 Mile Bank/209/267 complex; unregistered
+channel, sponsor-heavy Simrad/Okuma episode — medium confidence):** if you
+catch a yellowtail off a paddy and the boat then drifts off it, circle back
+and give the same paddy another try rather than treating that one catch as
+the end of the stop — the stated payoff was catching a few more off the same
+piece. A companion tactic to the check-fast-then-move-to-the-next-paddy
+discipline above, for the specific case of a paddy that already proved
+itself rather than one still unproven.
 
 ## Finding paddies
 

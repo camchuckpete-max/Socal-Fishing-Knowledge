@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4]
 confidence: high
 ---
 
@@ -152,6 +152,20 @@ roughly **7 mi** further out and routed toward that calmer zone for
 passenger comfort as well as toward the fish. Not independently corroborated
 elsewhere in this corpus; carried as a single sponsor-context demo of the
 method, not a general product recommendation.
+
+**Demonstrated** (StokedOnFishing, 2015-09-27, offshore San Diego — the
+**14 Mile Bank** / 209 / 267 bank complex — `-bw1KDfDjv4`, "Simrad Summer,
+part 1"; unregistered channel, sponsor-heavy Simrad/Okuma episode — medium
+confidence on the mechanism, low on the product claim): with the
+chartplotter's sea-surface-temperature readout left in "text mode" over the
+chart, the crew read **66–67°F** on the 14 Mile Bank itself, climbing to
+**68°F** a little off the bank — describing that whole area, spanning the
+14 Mile Bank, the 209, and the 267 (see [zone lexicon](../locations/zone-lexicon.md)
+for the bank-naming convention), as one pocket of comparatively warm water
+worth working. A further break-reading demo of the same
+temperature-differential-over-absolute-number doctrine in
+[water temperature](../conditions/water-temperature.md), on the same
+Simrad chartplotter product line as the Mission Bay demo above.
 
 ## Bird radar
 

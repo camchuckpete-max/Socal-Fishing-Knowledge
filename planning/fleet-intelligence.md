@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [vhf, radio, fleet-intelligence, ais]
-sources: [9hEa3sGTh40, ZFqe49jRgA0, cameron]
+sources: [9hEa3sGTh40, ZFqe49jRgA0, cameron, -bw1KDfDjv4]
 confidence: medium
 ---
 
@@ -85,6 +85,21 @@ available:
 - **VHF ch 72 offshore monitoring on busy weekends** — also picks up Navy
   ship-to-ship traffic on the same channel, with the same ships/operators
   recurring week to week; situational awareness, not a fishing signal.
+
+## Radar as a fleet-scouting tool, not just navigation (StokedOnFishing, `-bw1KDfDjv4`, 2015-09-27; unregistered channel, sponsor-heavy Simrad episode — medium confidence)
+
+A radar-based counterpart to the AIS tracking above, offered without a
+specific range or set-up: running the boat's radar while searching offshore
+(14 Mile Bank / 209 / 267 complex, San Diego) doubles as a way to see **where
+the rest of the fleet is sitting** — the stated payoff was spotting a boat
+parked on a kelp paddy on the radar screen before getting close enough for
+that boat to notice the approach, i.e. reading paddy-holding boats as radar
+returns rather than relying on eyes/binoculars to pick them out first. No
+range or radar-mode detail was given beyond "radar set" being on; kept here
+as a stated benefit, not a worked setting. Consistent with using boat
+position as a data layer (Cameron's AIS practice above) rather than the
+VHF-chatter risk this note otherwise warns against — a radar contact is
+directly observed, not a broadcast claim that can be faked.
 
 ## Related
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4]
 confidence: medium
 ---
 
@@ -614,6 +614,17 @@ holding deep, not a claim that straight braid is wrong.
   because fishing light (25 lb) leader means cutting and re-tying the hook
   after every fish to clear nicks — the extra length is buffer so a full
   leader replacement isn't needed mid-trip.
+
+- **Observed, kelp-paddy yellowtail on light tackle (StokedOnFishing,
+  `-bw1KDfDjv4`, 2015-09-27, offshore San Diego — 14 Mile Bank/209/267
+  complex, "Simrad Summer, part 1"; unregistered channel, sponsor-heavy
+  Simrad/Okuma episode — medium confidence):** a kelp paddy in that area
+  produced quality yellowtail on **25 lb fluorocarbon** to a **No. 2 or No. 3
+  J hook**, with sardines **nose-hooked** — a lighter, smaller-hook build than
+  the Ray Sharifi yellowtail flyline setups above, kept side by side rather
+  than reconciled. The crew's own trip framing was that the bluefin they
+  found that day simply would not bite, and this paddy stop was what
+  salvaged the trip on light tackle instead.
 
 - **Bluefin flyline setup — two-rod light/heavy system (Ray Sharifi, Dirty
   Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
