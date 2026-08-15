@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw]
 confidence: high
 ---
 
@@ -506,6 +506,27 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   during the same session. A same-trip mixed yellowtail bite (**18–25 lb**,
   sardine flyline) is logged in
   [yellowtail](yellowtail.md#where--when).
+- **Observed, same title, a different year/trip — flagged, not a duplicate**
+  (StokedOnFishing, `HueC1KHrcVw`, 2016-08-08 upload, also titled "Top Gun 80
+  Epic 5 Day, part 1," H&M Landing, San Diego, SoCal, 5-day charter aboard the
+  **Top Gun 80**, captain/crew credited on camera as Stan Vanderberg;
+  unregistered channel — medium confidence): this video shares its exact
+  title with the `Rb5I2ljAqeE` entry above but is a separate upload one year
+  earlier with distinct footage (no "desperation reef," no matching grades) —
+  read as an earlier year of the same annual charter series reusing the
+  episode title, not a re-cut of the same trip. Dockside, the crew described
+  bluefin as moving north with the cooling water and wanting to hold in
+  **70–72 °F** water specifically, contrasted on camera with **81 °F** water
+  fished the day before and **80 °F** water in the bay at the dock that
+  morning. This is a captain-stated absolute preferred range, kept beside —
+  not folded into — the relative, break-side temperature rule documented
+  below and in [water temperature](../conditions/water-temperature.md) (that
+  rule reads which side of a break bluefin sit on, not a fixed number).
+  Wahoo were also mentioned as incidental catches on the same and a prior
+  trip (two the trip before this one, three the day before this one, the
+  latter off a Baja location captioned "Colinet" — asr-uncertain, likely
+  Colonet, a Baja location out of this note's SoCal scope, not otherwise
+  extracted here).
 - **Observed** (StokedOnFishing, `3T4c3Zez_DM`, 2017-05-09 upload, "Top Gun 80
   Epic 5 Day, part 2," San Clemente Island, SoCal, 5-day charter aboard the
   **Top Gun 80**; unregistered channel — medium confidence): this is the

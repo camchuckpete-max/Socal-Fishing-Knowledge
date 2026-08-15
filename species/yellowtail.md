@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw]
 confidence: high
 ---
 
@@ -335,6 +335,37 @@ typical-year mapping.
   a **sardine fly line** — a further SoCal sardine-flyline yellowtail data
   point. The crew reasoned the fish were holding on the bank because bait
   squid were staged there.
+  **Observed, same title, a different year/trip — flagged, not a duplicate**
+  (StokedOnFishing, `HueC1KHrcVw`, 2016-08-08 upload, also titled "Top Gun 80
+  Epic 5 Day, part 1," H&M Landing, San Diego, SoCal, 5-day charter aboard
+  the **Top Gun 80**, captain/crew credited on camera as Stan Vanderberg;
+  unregistered channel — medium confidence): shares its exact episode title
+  with the `Rb5I2ljAqeE` entry above but is a separate upload one year
+  earlier with distinct footage and grades (no "desperation reef," no
+  matching fish counts) — read as an earlier year of the same annual charter
+  series reusing the episode title, not a re-cut. Working a mixed
+  yellowtail/tuna bite before the boat anchored up on a corner specifically
+  for yellowtail, the crew called a **19 lb** yellowtail on camera (landed
+  right after an angler asked for "a yellow[tail]"); a **40 lb** fish landed
+  minutes later in the same stretch was hooked up as "Mr. tuna" and described
+  on landing as a brawling yellowfin — a tuna grade, not a yellowtail one,
+  noted here only for same-session context (yellowfin-side detail not
+  otherwise extracted from this footage). The crew's stated light-bait
+  yellowtail rig was **just bait or light bait on a 2/0 hook, 20 lb test,
+  straight** — explicitly **not fluorocarbon** ("straight 20"), kept beside
+  the other SoCal 20 lb-class yellowtail leader data points already logged
+  in this note. Mid-session, with fish stacking up near the anchor, the crew
+  floated switching over to a **[yo-yo iron](../techniques/yo-yo-iron.md)**
+  rather than continuing on bait — consistent with, not new beyond, this
+  note's anchored/bottom-fish yo-yo doctrine in **Situations → techniques**
+  below. One angler chose to **nose-hook** a bait specifically because it
+  "seemed to be swimming okay" — corroborating, not new beyond, the
+  nose-hook-for-a-healthy-swimming-bait default in
+  [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation).
+  Separately, one angler's bait outfit that session ran a **30 lb Maxima**
+  monofilament top shot, re-tied mid-trip after repeated re-rigging had left
+  the existing top shot too short — a same-trip gear-maintenance data point,
+  not a new line-class recommendation.
   **Observed** (StokedOnFishing, video uploaded 2025-02-12, trip date not
   stated — `QSvzVHW9UMk`, "Epic Bluefin Fishing Aboard the Ranger 85!," part 2
   of the same 3-day charter aboard the 85 ft **Ranger 85** as the

@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw]
 confidence: medium
 ---
 
@@ -151,6 +151,34 @@ treat it as a judgment call made fresh at the barge each trip, weighing:
   on one trip three scoops of anchovy filled the tank, which is part of why
   the captain prefers anchovy over "the big giant sardine" for tank
   management.
+
+## Visual health tell when the bait is first loaded (Observed)
+
+**Observed** (StokedOnFishing, `HueC1KHrcVw`, 2016-08-08 upload, "Top Gun 80
+Epic 5 Day, part 1," H&M Landing, San Diego, SoCal; unregistered channel —
+medium confidence): a crew member's dockside rule of thumb for judging a
+scoop of bait the moment it hits the tank, extending the "quality of the
+bait that day" factor in "Judging load size at the barge" above with a
+concrete visual tell:
+
+- **Good sign:** the bait balls up and swims in a tight circle, and the water
+  it was loaded in doesn't carry many loose scales.
+- **Bad sign:** a scoop that sheds a lot of scales/flakes into the water on
+  the way in. That bait was called out as **not likely to last through the
+  full day** — over the next day or so it starts "turning red" (visibly
+  reddening, described on camera as looking like a "Christmas tree") before
+  it dies.
+- The crew tied bait quality to timing — bait had reportedly been tough, but
+  the two days just before filming had produced great bait — framed as a
+  moon-phase/timing issue for when bait moves up in the water column, rather
+  than a boat- or gear-side problem.
+
+This is a loading-moment health tell, distinct from the tank-side "lime-green
+back, scales intact, no red/bloody nose" selection rubric already documented
+in [fishing live bait](fishing-live-bait.md#bait-selection-is-king) for
+picking a bait to fish once it's already survived in the tank — kept beside
+it, not merged, since it applies at a different moment (the scoop hitting
+the tank vs. choosing one to hook later).
 
 ## Underway: lid off, tap-scoop culling (dave-hansen, L_FD-UzvEio, 2022-02-04)
 
