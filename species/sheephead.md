@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sheephead, structure, artificial-reef, chum, bottomfish, socal, beginner-friendly, baja, ensenada]
-sources: [OSbAHdB4uPs, eL1Qm33-Mj0, CKq0Z6ExVs4]
+sources: [OSbAHdB4uPs, eL1Qm33-Mj0, CKq0Z6ExVs4, oadK6zIYyCo]
 confidence: medium
 ---
 
@@ -53,6 +53,14 @@ Saltwater Guide, OSbAHdB4uPs, 2021-01-12).
   **female**, confirming rather than disputing the species call. A further
   Baja bycatch data point alongside the Cortez Bank entry above, this time
   from an inshore-style bottom stop.
+- **Observed** (StokedOnFishing, 2016-12-23 upload, Catalina Island, SoCal —
+  `oadK6zIYyCo`, "Family Fishing Time at Catalina Island," a family day at
+  anchor, sponsor-heavy dealership-ad episode; unregistered channel — medium
+  confidence): a sheephead was landed incidentally during a mixed-species
+  anchor session (bait/technique not specified in this footage), with the
+  crew calling it **"Poor Man's Lobster"** on camera for its table quality —
+  a table-quality nickname data point, not new technique detail beyond this
+  note's existing bycatch entries above.
 
 ## Finding them (sign & sonar)
 

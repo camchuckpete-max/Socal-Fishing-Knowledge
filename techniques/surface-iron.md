@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0, IwxqgocsQTY, ilINTeknKB4]
+sources: [HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, eL1Qm33-Mj0, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo]
 confidence: high
 ---
 
@@ -174,6 +174,23 @@ the blank.
   corroborates, the `ntQXxcH5sjI` occurrence above rather than being
   re-cut footage of it — kept as a second, earlier data point for the same
   tip.
+- **Earliest occurrence found, nearly seven years earlier (StokedOnFishing,
+  `oadK6zIYyCo`, 2016-12-23 upload, Catalina Island, SoCal, "Family Fishing
+  Time at Catalina Island"; unregistered channel — medium confidence):** an
+  angler fished an old **Tady 45** squid jig (captioned "chatty 45" — the
+  known Tady→"Tatty"/"teddy" caption corruption in this corpus), called
+  "old school" on camera, deliberately **letting it sink about 30 ft** before
+  winding rather than retrieving on the splash, and drew a strike (barracuda)
+  on the first cast after switching sides of the boat. On-camera the host
+  then generalized this into the standalone tip: throwing a surface iron
+  doesn't mean keeping it on the surface — sink it out, then start winding —
+  and explicitly cross-referenced doing "the same thing" **in Cedros**
+  (captioned "SED Ros" — the known Cedros caption corruption), tying this
+  Catalina/SoCal occurrence to the Baja side of the same practice. This is
+  the earliest dated instance of the sink-it-out doctrine currently in the
+  corpus, predating both the `9tIp4n7q850` and `ntQXxcH5sjI` occurrences
+  above by years, and shows the tip already circulating between SoCal and
+  Cedros well before either of those.
 - **Observed** (StokedOnFishing, 2015-01-20, Cedros/Gono Islands, Baja —
   `NGxyOlPx3ug`, Shogun Skiff Trip part 1): anchored on a kelp bed off the
   mother ship (breakers close by on one side of the boat), anglers bombed

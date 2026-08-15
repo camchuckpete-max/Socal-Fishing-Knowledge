@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [barracuda, nearshore, pelagic, kelp-line, mixed-bag, surface-iron, baja]
-sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE, CKq0Z6ExVs4]
+sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE, CKq0Z6ExVs4, oadK6zIYyCo]
 confidence: medium
 ---
 
@@ -50,6 +50,15 @@ dedicated program.
   Ensenada entry for the bottomfish actually landed there); no barracuda was
   shown caught in this footage, so this is a named-target data point, not a
   confirmed catch.
+- **Observed** (StokedOnFishing, 2016-12-23 upload, Catalina Island, SoCal —
+  `oadK6zIYyCo`, "Family Fishing Time at Catalina Island," a family day at
+  anchor; unregistered channel — medium confidence): a barracuda came on a
+  **surface iron** fished on an old Tady 45 ("chatty 45" in captions) let
+  sink to roughly **30 ft** before the retrieve — full sink-it-out technique
+  detail, including the on-camera generalization of the tip and its
+  cross-reference to Cedros, is logged in [surface
+  iron](../techniques/surface-iron.md#retrieve--cadence). This is this note's
+  first dated SoCal (non-Baja) data point.
 
 ## Finding them (sign & sonar)
 
