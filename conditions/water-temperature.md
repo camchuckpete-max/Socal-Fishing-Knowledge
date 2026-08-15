@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [sst, temperature, breaks, bluefin, yellowfin, dorado]
-sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90]
+sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc]
 confidence: high
 ---
 
@@ -35,6 +35,23 @@ ceiling — and the observer himself flagged it as unusual (9/14/22). Consequenc
 treat warm SST as **soft evidence against** bluefin, **not a hard exclusion**. A
 warm number **softens** the case but does not move the productive band or rule the
 zone out. Do not skip otherwise-good bluefin sign because the SST reads high.
+
+## Observed — bank-to-bank temperature swing driving a bite change
+
+**Observed** (StokedOnFishing, `i3qIAHW-SJc`, 2016-08-08, "Top Gun 80 Epic 5
+Day, part 2," Cortez Bank → Osborn Bank; unregistered channel — `medium`
+confidence): a single-trip field data point, kept beside the doctrine above
+rather than confirming it.
+
+Day 1 at Cortez Bank fished **74–75 °F** water for a mixed yellowtail /
+yellowfin / skipjack bite. Day 2, at Osborn Bank near Santa Barbara Island,
+the boat found markedly cooler water — **70 °F** right at the bank edge
+(about a mile and a half off the boat's position), **72 °F** where the boat
+itself sat — with the crew explicitly framing the move as "chasing some
+cooler water." The early-graylight bite in that cooler water (starting
+roughly **4:30–5:00 a.m.**) was bluefin tuna; later the same morning,
+yellowtail and yellowfin were found **southeast of the bank, where the water
+warms up a little** — the warmer side of the same edge.
 
 ## How to use it in planning
 

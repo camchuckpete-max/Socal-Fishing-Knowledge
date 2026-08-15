@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc]
 confidence: medium
 ---
 
@@ -213,6 +213,43 @@ judge for themselves how far down to drop the bait. (The transcript renders a
 stray "9" immediately before "small hooks work best" — almost certainly an
 ASR mis-transcription of a filler word, not a stated hook count; not carried
 as a parameter.)
+
+## Tag-end sinker attachment, off the mono-to-fluoro knot (StokedOnFishing)
+
+**StokedOnFishing, `i3qIAHW-SJc`, 2016-08-08, "Top Gun 80 Epic 5 Day, part 2,"
+Osborn Bank, SoCal; unregistered channel — `medium` confidence.**
+
+- **A fourth sinker-attachment mechanic, distinct from the rubber-band,
+  tied-inline, and free-sliding variants above:** rather than a rubber band,
+  a knot tying the sinker inline, or a free-sliding weight above the leader
+  connection, this trip-tips segment hangs the sinker directly off the
+  **tag end (bitter end)** left over from tying the [mono-to-fluoro
+  connection knot](essential-knots.md) above it on the line. After tying the
+  knot, strip the tag off close to it rather than trimming it flush, leaving
+  a short tail hanging down toward the hook side.
+- **Two stated uses for that tag:**
+  - **Clamp-on weight:** crimp a clamp-on-style sinker directly onto the tag
+    by hand — the presenter's explicit judgment is to **never use your
+    teeth** to seat it, since biting it on can nick/weaken the line the same
+    way biting a knot tag off does (see the tag-trimming judgment already
+    logged in [essential knots](essential-knots.md)).
+  - **Looped-on sinker:** alternatively, tie a small loop in the tag end and
+    hang a small **torpedo/chrome sinker** on the loop instead.
+- **Why it works, per the presenter:** because the sinker rides on the tag
+  end rather than on the main line or the hook leg, "it has no effect on your
+  main line" or on the hook at the other end — framed on camera as a quick
+  way to add or pull weight at the connection point without re-rigging the
+  leader-to-hook connection itself.
+- **Context (same trip, day 2, Osborn Bank near Santa Barbara Island):** this
+  segment is cut into footage of a morning bite where sardine bait fished
+  down **60–70 ft "on the sink"** produced bluefin — consistent with, but not
+  explicitly confirmed on camera as, this being the rig used for those
+  specific hookups.
+- **Kept side by side, not reconciled, with the rubber-band, inline-tied,
+  and free-sliding variants above:** four distinct sinker-attachment
+  mechanics are now logged in this note — breakaway rubber band, tied-inline,
+  free-sliding (Carolina-rig-style), and this tag-end attachment — each from
+  a different source/trip.
 
 ## Rig it
 

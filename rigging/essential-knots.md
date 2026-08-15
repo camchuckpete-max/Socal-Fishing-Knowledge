@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc]
 confidence: medium
 ---
 
@@ -235,6 +235,28 @@ fluoro leader, braid main line — and feed the terminal rigs in
   `medium` (single mention of this specific named tie; unregistered channel;
   same-channel repetition doesn't independently corroborate per the
   re-cut/duplication rule).
+- **A fourth StokedOnFishing mono-to-fluoro tie, the earliest-dated of this
+  group (StokedOnFishing, `i3qIAHW-SJc`, 2016-08-08, "Top Gun 80 Epic 5 Day,
+  part 2"; unregistered channel — `medium` confidence):** framed on camera as
+  a cost-saving move — leader material is expensive, so leave about **a
+  foot** of monofilament above the connection point before pinching in the
+  fluorocarbon, "cuz that's the expensive stuff." Paraphrased mechanic (wrap
+  count ASR-uncertain — "one two three" in the transcript, read as
+  approximate): form a loop backward in the working end, pass fingers through
+  the loop to grab the line, wrap the tag back around it a few times, then
+  pull it back through and cinch — the presenter names the resulting shape a
+  "figure eight." **Flag — third same-channel StokedOnFishing mono-to-fluoro
+  tie logged in this note, all sharing a loop/wrap-back/figure-eight
+  description:** this one, the unnamed `06lxuie5cZQ` tie (2018-11-14), and the
+  explicitly-named Seaguar-knot tie in `tzeXXPAjqUY` (2020-02-05) above all
+  describe a similar loop-then-wrap-then-figure-eight shape, but this 2016
+  clip predates both, doesn't name the knot on camera, and its own wrap count
+  isn't confirmed exactly enough to compare mechanically — kept as a third,
+  unresolved data point in the same family rather than merged into either.
+  No SoCal-specific parameters (line class, species, region) beyond the
+  "about a foot" spacing are given in this clip. A second technique from the
+  same clip — hanging a sinker off this knot's tag end — is logged in
+  [rubber-band deep rig](rubber-band-deep-rig.md#tag-end-sinker-attachment-off-the-mono-to-fluoro-knot-stokedonfishing).
 - **Loop knot, non-ringed hook (Cesar, Eric's Tackle, via Dirty Hookers,
   48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, single
   mention):** an
@@ -381,7 +403,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
-and [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg).
+[worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
+and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc).
 
 <!-- backlinks:start -->
 ## Linked from

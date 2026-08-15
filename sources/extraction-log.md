@@ -1147,7 +1147,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | _PGm-TlFU2A | StokedOnFishing | on-the-water | parameter-skim | done | tackle/hooks.md; techniques/flyline.md / thick-shank hook doctrine (30lb leader/65lb Spectra, no-shock-absorption failure mode) added to hooks.md; flyline Observed block (No.4-2 hooks, 25-30lb fluoro, |
 | ZghZCFL6OZk | StokedOnFishing | on-the-water | skip:out-of-region | skipped | series: Stoked on Costa Rica part 3; Costa Rica out of region |
 | HueC1KHrcVw | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; species/bluefin-tuna.md; species/yellowtail.md / bait-loading visual tell, 70-72F bluefin preference, 20lb straight yellowtail rig, wahoo incidental catches; fixed timing-polarity  |
-| i3qIAHW-SJc | StokedOnFishing | on-the-water | parameter-skim | pending | series: Top Gun 80 Epic 5 Day part 2; Cortez/Osborne banks; mono-to-fluoro knot + tag-end sinker rig demo |
+| i3qIAHW-SJc | StokedOnFishing | on-the-water | parameter-skim | done | conditions/water-temperature.md; rigging/essential-knots.md; rigging/rubber-band-deep-rig.md / mono-to-fluoro knot tie, tag-end sinker attachment, bank-to-bank SST/bite Observed note; fixed sinker-mec |
 | A6DJoXbID4c | StokedOnFishing | on-the-water | deep | pending | kelp-paddy pattern ep (pre-identified deep candidate): bird-reading, stay 100yd off patty, mackerel>sardine bait, jig selection |
 | zQtExV8Z2eY | StokedOnFishing | on-the-water | parameter-skim | pending | trip-tips: 30lb mono/4ft 30lb fluoro topshot, 1/4oz slider+#2 hook+squid, fly-lined sardine |
 | MUpvP-Yl2R0 | StokedOnFishing | on-the-water | observations-only | pending | sponsor-heavy Navico/Simrad electronics demo (buoy/radar/AIS); legal halibut 22in mentioned |
