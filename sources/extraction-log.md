@@ -1132,7 +1132,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | UuyqTE21-kc | StokedOnFishing | on-the-water | single-pull | done | techniques/kite-fishing.md / Added Observed block logging a kite-free helium-balloon flyer presentation fished downwind for giant Baja yellowfin; evaluator softened an unsupported visual claim (captio |
 | D_Y2G0rBZCs | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; species/yellowtail.md / SCI squid bite grade split, 20-25lb line window, sliding-egg-sinker/dropper-loop rig, keep-bait-active tip merged as Observed entries; evaluator appl |
 | nkJNzdNlm_c | StokedOnFishing | on-the-water | observations-only | done | planning/electronics-and-sounder.md; species/bluefin-tuna.md / Search-sonar range/audio-cue Observed entry and same-trip morning-bluefin/afternoon-yellowfin grade Observed entry added; evaluator appli |
-| JaKSGkZ6CAc | StokedOnFishing | on-the-water | parameter-skim | pending | Baja Bonito Isl; dropper-loop 100lb-min on bottom, yo-yo iron, squid-depth pattern (30-40fm); series pt2 |
+| JaKSGkZ6CAc | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/dropper-loop.md; techniques/yo-yo-iron.md / Baja/San Benito Island companion re-cut added squid-depth pattern (30-40fm), dropper-loop 100lb-min line-class parameter,  |
 | t-gIME7sV2A | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama trip; series pt1 |
 | 2OANMH22qzE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama/Hannibal Bank; series pt2 |
 | IH4y6GM6BIY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island (Revillagigedo Mexico), not Baja peninsula; series pt1 |

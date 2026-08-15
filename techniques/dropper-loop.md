@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc]
 confidence: high
 ---
 
@@ -78,6 +78,19 @@ this note owns the rig and the retrieve.
   regional weight reference rather than confirmed dropper-loop parameters (Ray
   Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
   medium confidence).
+
+- **San Benito Island, Baja — 100 lb line minimum for home-guard yellowtail
+  (Observed, StokedOnFishing, aired 2015-01-18, `JaKSGkZ6CAc`, "Top Gun 80
+  5-Day Fun, Part 2"; same trip as the `SH7zOA9ZF3o` entry logged in
+  [yellowtail](../species/yellowtail.md#where--when) — not independent
+  confirmation; unregistered channel — medium confidence):** on-camera
+  crew framed the rig as **"dropper loop on the bottom, 100 lb line
+  minimum"** for the day's 30 lb-and-better yellowtail bite, fished on squid
+  in 30–40+ fathom water; one angler's first-ever yellowtail came dropped
+  straight to the bottom and worked by hand rather than off a rod.
+  Substantially heavier than the 6–10 oz-sinker SoCal reference above (a
+  line-class rather than sinker-weight parameter) — kept side by side, not
+  reconciled, given the different variable measured.
 
 **Note:** a same-region Baja/Sea of Cortez grouper leader (Cesar, Dirty
 Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a

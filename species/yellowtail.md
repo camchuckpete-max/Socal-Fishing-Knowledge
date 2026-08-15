@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc]
 confidence: high
 ---
 
@@ -977,6 +977,30 @@ typical-year mapping.
   the yo-yo jig** through most of the day — corroborating the
   three-faces/three-outfits stacking doctrine in **Doctrine & conflicts**
   below; yo-yo cadence detail from this session is logged in
+  [yo-yo iron](../techniques/yo-yo-iron.md).
+- **Observed, companion re-cut of the same trip** (StokedOnFishing, aired
+  2015-01-18, San Benito Island, Baja — `JaKSGkZ6CAc`, "Top Gun 80 5-Day Fun,
+  Part 2"; same underlying footage/day as the `SH7zOA9ZF3o` entry directly
+  above — a differently-titled, differently-narrated re-cut of the same trip,
+  not independent confirmation; unregistered channel — medium confidence):
+  this cut adds bait-depth and gear detail the `SH7zOA9ZF3o` cut didn't
+  capture. Day one (Thursday) fished bluefin/yellowfin tuna roughly **170 mi
+  south of the border**, then the boat ran a further **~150 mi south** to
+  reach San Benito Island for day two's yellowtail. On the island the crew
+  called the yellowtail out on **squid**, sitting **30–40 fathoms** deep
+  (also called, in the same segment, "**30, 40, 50** fathoms" and, later,
+  "**30, 35**" of water — preserved as spoken rather than smoothed to one
+  figure), feeding right off the bottom rather than up top; the squid had
+  recently moved out of the shallows because small mackerel had taken over
+  the shallow water, and the yellowtail moved out with the squid — a
+  bait-migration-driven depth read, not a fixed structure depth. Nearly
+  every fish boated had **fresh squid** in its stomach, confirming the
+  forage call. Fish ran **30 lb and better**, "a lot of them," with some
+  bigger — consistent with the home-guard grade already documented above.
+  Gear worked was **dropper loop** and **yo-yo iron**, corroborating the
+  bait/surface-iron/yo-yo three-way mix already logged in the `SH7zOA9ZF3o`
+  entry above. Rig/line-class parameters and cadence detail from this
+  session are logged in [dropper loop](../techniques/dropper-loop.md) and
   [yo-yo iron](../techniques/yo-yo-iron.md).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).

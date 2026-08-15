@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc]
 confidence: high
 ---
 
@@ -118,6 +118,21 @@ the reverse map in **Linked from** below.
   yo-yo jig simultaneously — see
   [yellowtail](../species/yellowtail.md#where--when) for the location
   detail.
+- **"Bottom, keep it up, three or four shots" cadence (Observed,
+  StokedOnFishing, aired 2015-01-18, San Benito Island, Baja —
+  `JaKSGkZ6CAc`, "Top Gun 80 5-Day Fun, Part 2"; same underlying trip as the
+  `SH7zOA9ZF3o` entry directly above — a differently-titled,
+  differently-narrated re-cut, not independent confirmation; unregistered
+  channel — medium confidence):** an angler named Gary, on his first-ever
+  session yo-yoing iron, described his approach on camera as **"put it on
+  the bottom, keep it up, give it about three or four shots, start it over
+  again — and you get bit."** Read as a further, looser articulation of the
+  crank-then-drop cadence family already documented above (a handful of
+  cranks off bottom before re-dropping to the mark), not a new mechanic —
+  no jig weight, color, or drop depth given. Same session fished on squid
+  at **30–40 fathoms**; see
+  [yellowtail](../species/yellowtail.md#where--when) for the full session
+  detail, including the dropper-loop line-class parameter this trip adds.
 - **Downsize to match small bait (Baja/Cedros, attributed):** when fish are
   keyed on small forage — **red crabs, small sardines** — one Cedros Island
   angler drops to smaller/lighter yo-yo jigs (a brass-finish yo-yo iron among
