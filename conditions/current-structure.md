@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw]
 confidence: high
 ---
 
@@ -154,6 +154,44 @@ Cross-check against local structure: Catalina's ~500-fm curve (~3,000 ft /
 generic profile, consistent with it being a compression/eddy feature rather
 than a shelf or abyssal one. This is background mechanism only — it does not
 change the fathom-curve doctrine above.
+
+## Surf-zone anatomy and longshore-current mechanism (background, generic)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Coastal
+Oceanography," `RuNH5O9olfw`, 2022-11-22; registered mechanism source — generic
+surf-zone physics, not a SoCal measurement, and not fishing doctrine):
+
+- **Surf-zone zonation** (offshore → onshore): the **longshore bar** (a
+  submerged sand ridge) and its **trough** sit in the nearshore; **breakers**
+  crash in the **surf zone**; landward of that is the **foreshore**, then the
+  **backshore**. The **swash zone** — where swash/backwash run up and down —
+  holds the **beach face**, which is the true **intertidal zone** (between
+  high and low tide). What people call "the beach" (chairs, towels) is
+  technically the **berm**, landward of the beach face, not the beach face
+  itself.
+- **Seasonal beach-profile cycle:** winter storm waves strip sand off the berm
+  and move it out to the longshore bar; summer's smaller waves redeposit that
+  sand from the bar back onto the berm. A beach's cross-shore sand profile
+  changes seasonally, independent of the day's tide.
+- **Longshore current mechanism:** California sits under the North Pacific
+  subtropical gyre (clockwise in the Northern Hemisphere, Coriolis-driven),
+  which sets the coast's **prevailing surface/longshore current north to
+  south**. Waves approaching at an angle refract to run nearly parallel to
+  shore; the resulting swash (pushed up-angle by the wave) / backwash (pulled
+  straight down-slope by gravity) cycle walks sand — and anything floating —
+  in a net zig-zag in the current's direction, called **longshore drift**.
+  This is the generic mechanism under the parallel-current rule above: the
+  coastal current's default long-run tendency is N→S, with local
+  wind/swell/bathymetry producing the uphill (S→N) and no-current departures
+  from it that rule already tracks.
+- **Rip currents** form where a **gap in the longshore bar** lets water that
+  has piled up inside the surf zone punch back out through the break in a
+  narrow, swift channel — the same "flow forced through a constriction
+  accelerates" mechanism as the current-over-structure chain above, applied to
+  a sand-bar gap rather than rock structure.
+
+This is background mechanism only — it does not add fishing doctrine or
+change any of the current/structure rules above.
 
 ## How this drives the plan
 
