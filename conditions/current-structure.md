@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4]
 confidence: high
 ---
 
@@ -125,6 +125,35 @@ The rule, nearly verbatim: **"sign associated with structure = a repeatable
 decision; sign in no-man's-land = low value."** A fish or a bird tied to a
 identifiable piece of structure gives you something you can come back to; the
 same sign in open water between features does not.
+
+## Continental margin bathymetry (mechanism, generic — not SoCal-measured)
+
+Background vocabulary for reading a fathom curve, from an oceanography lecture
+(Crust to Coast, "Introduction to the Oceans," `Bab_6o7JFh4`, 2022-08-16;
+registered mechanism source per the source registry — global averages, not a
+SoCal measurement, and not fishing doctrine):
+
+- **Continental shelf** — the shallow, flat, flooded edge of the continent;
+  global average width ~43 miles (varies hugely — the Siberian Arctic shelf
+  extends ~1,500 km/~700 mi). Biologically the richest ocean province because
+  it has both sunlight and nutrients.
+- **Shelf break** — the marked increase in slope angle between shelf and
+  slope; global average depth ~443 ft (varies by location).
+- **Continental slope** — steeper than the shelf, average ~4° (range 1–25°),
+  running from the shelf break down to ~3,000–5,000 m (~9,800–16,400 ft, roughly
+  1,640–2,735 fathoms). Submarine canyons cut into the slope (e.g. Monterey
+  Canyon), carved by turbidity currents.
+- **Continental rise** — transitional zone between continental and oceanic
+  crust, below the slope.
+- **Abyssal plain** — the deepest, flattest part of the ocean floor, from the
+  base of the continental rise to the mid-ocean ridge, roughly 4,000–6,000 m
+  deep; flattened by settled marine sediment.
+
+Cross-check against local structure: Catalina's ~500-fm curve (~3,000 ft /
+~914 m, described above) sits on the continental-slope portion of this
+generic profile, consistent with it being a compression/eddy feature rather
+than a shelf or abyssal one. This is background mechanism only — it does not
+change the fathom-curve doctrine above.
 
 ## How this drives the plan
 

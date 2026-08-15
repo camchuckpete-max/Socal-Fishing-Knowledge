@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [DSL, deep-scattering-layer, swordfish, bluefin, sounder, night-bite]
-sources: [yMiBtZ7k8-w, nRFFM8DT-og, yLpDI8jnizU]
+sources: [yMiBtZ7k8-w, nRFFM8DT-og, yLpDI8jnizU, Bab_6o7JFh4]
 confidence: high
 ---
 
@@ -53,6 +53,20 @@ The layer is faint; you have to turn the machine up to see it — gain up, ping
 slowed, let the band build on screen (sword seminar; Duane's fish-finder
 walkthrough). The exact settings (Furuno numbers, Garmin 840xs translation)
 live in [electronics and sounder](../planning/electronics-and-sounder.md).
+
+## Light-zone vocabulary (mechanism, generic — not SoCal-measured)
+
+Background vocabulary from an oceanography lecture (Crust to Coast,
+"Introduction to the Oceans," `Bab_6o7JFh4`, 2022-08-16; registered mechanism
+source per the source registry — global generic depths, not a SoCal
+measurement, and not fishing doctrine): the open-ocean water column is
+divided into light-defined zones — **epipelagic/euphotic, 0–200 m (0–656
+ft)**, then **mesopelagic, 200–1,000 m (656–3,281 ft)**, then bathypelagic,
+abyssopelagic, and hadalpelagic below that. The DSL's daytime depth (600+ ft,
+preferred down to ~950 ft/150 fm per the sword seminar above) sits right at
+the epipelagic/mesopelagic boundary and into the mesopelagic — consistent
+with "mesopelagic" being the standard term for the zone this layer occupies.
+Background terminology only; it does not change the depth/bait doctrine above.
 
 ## Where the DSL matters
 
