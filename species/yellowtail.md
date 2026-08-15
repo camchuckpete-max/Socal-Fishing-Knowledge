@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY]
+sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs]
 confidence: high
 ---
 
@@ -1038,6 +1038,31 @@ typical-year mapping.
   entry above. Rig/line-class parameters and cadence detail from this
   session are logged in [dropper loop](../techniques/dropper-loop.md) and
   [yo-yo iron](../techniques/yo-yo-iron.md).
+- **Observed** (StokedOnFishing, `97clKtVsEOs`, "Intrepid Style 8 Day, part
+  2," 2015-10-29 upload, part 2 of the same 8-day charter aboard the
+  **Intrepid** logged as `IwxqgocsQTY` above, Captain Kevin Osborne,
+  "Benito's Island" on camera (captions render "Benitos" without the
+  Islands qualifier — read as San Benito Island given the same trip/boat);
+  unregistered channel, sponsor-heavy episode (Simrad, Okuma, Davey's
+  Locker, a car dealership) — medium confidence): a [surface
+  iron](../techniques/surface-iron.md) bite went quiet once the boat
+  anchored — "they wouldn't respond on the anchor very well" — while fish
+  were still visibly marking on the sounder; the crew's fix was to get up
+  above the marks and drift over them instead of staying on the hook,
+  which brought the bite back on ("seem to be picking off a few nice ones").
+  An **anchor-to-drift pivot made off a live sounder read**, not a fixed
+  anchor call — see [electronics and sounder](../planning/electronics-and-sounder.md#anchor-vs-drift-call-off-a-live-sounder-read)
+  for the general method this feeds. One angler's hookup on **40 lb test**
+  was called out on camera as "a lot easier" than an unspecified earlier
+  fight (comparison basis not given). After a same-trip Wahoo stop at
+  Alijos Rocks (logged in
+  [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo))
+  and a scouting stop the crew called "the Ridge," passed on because "the
+  water was just too warm," the boat returned to Benito's Island for a
+  second morning that again produced yellowtail on surface iron with
+  additional fish taken on [yo-yo iron](../techniques/yo-yo-iron.md) —
+  corroborating, not new beyond, the surface-iron/yo-yo-iron mix already
+  logged for this location above.
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
   yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
   **Late warm-stable (September) program (cameron):** the fish are **on the

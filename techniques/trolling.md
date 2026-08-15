@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [trolling, offshore, spread, tuna, dorado, marlin, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE]
+tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs]
 confidence: high
 ---
 
@@ -471,6 +471,54 @@ Bocana entry for that result. Closer to shore, the crew finished the day
 back on inshore rock structure, landing yellowtail on surface iron — see the
 [yellowtail](../species/yellowtail.md) Baja coast entry.
 
+## Alijos Rocks, Baja — bomb-lure trolling for wahoo
+
+**Observed** (StokedOnFishing, `97clKtVsEOs`, "Intrepid Style 8 Day, part 2,"
+2015-10-29 upload, Alijos Rocks, Baja — roughly **400 mi south of San
+Diego**, described on camera as rock structure running "from the surface
+all the way to the bottom"; aboard the long-range boat **Intrepid**,
+Captain Kevin Osborne; unregistered channel, sponsor-heavy episode (Simrad,
+Okuma, Davey's Locker, a car dealership) — medium confidence; region: Baja,
+remote offshore Pacific bank, distinct from the Sea of Cortez/East Cape/La
+Bocana Baja entries elsewhere in this note): after a Benito's Island
+yellowtail leg (logged in
+[yellowtail](../species/yellowtail.md#where--when)), the boat ran to Alijos
+Rocks — on camera as unfished for about five days beforehand — specifically
+to troll for **Wahoo**. One angler started the spread on a **bomb-style
+trolled lure** rather than a cast jig-and-reel presentation, giving his
+reasoning on camera: Wahoo characteristically strike **the back half of a
+bait** rather than the head, and he judged the bomb's hookup ratio better
+than a jig-and-reel for that reason — "we got nothing but hook there,"
+i.e. a back-half strike on this lure still connects, where he rated a
+jig-and-reel presentation lower on hookup ratio for the same bite pattern.
+Not corroborated elsewhere in this corpus — a single angler's stated
+reasoning, not confirmed mechanism.
+**Tackle** (same session, sponsor products — Okuma is an on-air sponsor of
+this episode, so the specific reel/line **model** claims are logged at low
+confidence; the technique/parameters around them are medium): a two-speed
+conventional reel, named on camera as an Okuma "Andros 12" and described as
+a pre-release prototype the angler had already been running for "a few
+months," spooled with **40 lb Okuma Soft Steel Ultra** line. The angler's
+stated reason for preferring a two-speed reel for Wahoo: high gear to crank
+fast on the initial strike, then shift down to low gear for "a nice steady
+wind in" once the fish settles into the fight — plenty of line capacity
+also cited as a plus.
+**Fighting technique** (coached live, same session): once hooked, **do not
+pump the rod** — "get slack in the line and we're going to lose them." The
+standing instruction was to keep winding continuously, letting the fish
+"slide on underneath" the boat rather than pumping-and-reeling, on the
+logic that pumping introduces slack a Wahoo can use to throw the hook. This
+matches the "wind continuously, never pump" fighting discipline already
+logged for sea-lion depredation risk in
+[fighting a big bluefin](fighting-big-bluefin.md), here applied for a
+different reason (avoiding slack-driven hook loss on Wahoo rather than
+giving a sea lion a window) — kept as a distinct, not merged, rationale.
+**Outcome:** only one Wahoo bit that day despite the multi-day
+no-fishing-pressure expectation going in ("the Wahoo ought to be ready to
+bite"); the crew chose not to keep grinding and moved on. No dedicated Wahoo
+species note exists in this KB to route the species-level pattern to — this
+entry carries the technique/gear detail only.
+
 ## East Cape, Baja — Buena Vista Beach Resort offshore troll for tuna/dorado/wahoo/marlin
 
 **Observed** (StokedOnFishing, 2018-03-09 upload, Buena Vista Beach Resort,
@@ -823,6 +871,7 @@ not a parameter change.
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)

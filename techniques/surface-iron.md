@@ -465,6 +465,7 @@ for that lure class rather than for the classic surface-iron blank.
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

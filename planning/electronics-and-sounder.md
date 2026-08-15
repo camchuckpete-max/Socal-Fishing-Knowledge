@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs]
 confidence: high
 ---
 
@@ -127,6 +127,25 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   reading skill to find suspended fish like tuna. (Dave Hansen, Your
   Saltwater Guide, FEXgl0eQCa8, 2021-05-17; registered voice, single
   mention — medium confidence)
+
+## Anchor vs. drift call off a live sounder read
+
+**Observed** (StokedOnFishing, `97clKtVsEOs`, "Intrepid Style 8 Day, part 2,"
+2015-10-29 upload, Benito's Island (San Benito Island), Baja, aboard the
+**Intrepid**, Captain Kevin Osborne; unregistered channel, sponsor-heavy
+episode (Simrad, Okuma, Davey's Locker, a car dealership) — medium
+confidence): a [surface iron](../techniques/surface-iron.md)
+yellowtail bite went quiet once the boat anchored, even though the fish were
+still visibly marking on the sounder — anchoring alone did not keep them
+biting. The crew's read: fish still on the meter but not responding at
+anchor means try **drifting over them instead** — position the boat up
+above the marks and let it drift through rather than staying pinned on the
+hook, on the idea that the fish want a little more motion in the
+presentation. Making that move brought the bite back on. A **sounder-driven
+anchor-to-drift pivot**, not a fixed rule to always drift or always anchor —
+read the mark and the response, not just the mark. See
+[yellowtail](../species/yellowtail.md#where--when) for the full session this
+came from.
 
 ## SST and wind overlay for finding the break and calmer water (Simrad NSO Evo2 chartplotter)
 
@@ -275,6 +294,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Surface Iron](../techniques/surface-iron.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)

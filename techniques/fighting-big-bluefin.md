@@ -471,6 +471,7 @@ under-gunned-for-the-grade situation.
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Trolling](trolling.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
