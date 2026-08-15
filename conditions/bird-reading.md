@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [birds, terns, shearwaters, gulls, pelicans, cormorants, bird-radar, search]
-sources: [Blh2BA-7Ono, OYOda6T3f-8, HzE4FHHcvTk, yLpDI8jnizU, cameron, SczdZIq3UmE]
+sources: [Blh2BA-7Ono, OYOda6T3f-8, HzE4FHHcvTk, yLpDI8jnizU, cameron, SczdZIq3UmE, A6DJoXbID4c]
 confidence: high
 ---
 
@@ -35,6 +35,19 @@ underneath?"** Read *behavior*, not just presence.
   not seagulls ("they do help but... it's the white terns"); water was **72°F**
   that day. Matches the corpus/Cameron tern doctrine above; no new mechanism,
   a corroborating on-the-water mention.
+- **Read the individual bird, not just the flock (Observed, StokedOnFishing,
+  `A6DJoXbID4c`, 2016-10-06 upload, offshore San Diego (launched Shelter
+  Island, worked toward the 43/San Clemente Island), bluefin tuna on a kelp
+  paddy; unregistered channel — medium confidence):** on-camera coaching
+  while glassing a working tern — "really keep your eye on what the bird's
+  doing... you watch their head, watch how they look, watch the little
+  reactions in the bird" — framed as a skill most anglers never develop
+  ("most people don't even... watch the bird"). Same trip, a mechanism for
+  *when* terns are on a school: **birds actively on the fish (diving/working)
+  = the school is feeding at the surface; birds off the fish = the school is
+  still there but "puddling"** (present, not surface-feeding) rather than
+  gone. A finer-grained read than the moving-vs-locked dive-line rule above —
+  kept beside it, not a replacement.
 
 ## Shearwaters — the gap Cameron's model wants filled
 

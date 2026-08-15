@@ -1148,7 +1148,7 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | ZghZCFL6OZk | StokedOnFishing | on-the-water | skip:out-of-region | skipped | series: Stoked on Costa Rica part 3; Costa Rica out of region |
 | HueC1KHrcVw | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; species/bluefin-tuna.md; species/yellowtail.md / bait-loading visual tell, 70-72F bluefin preference, 20lb straight yellowtail rig, wahoo incidental catches; fixed timing-polarity  |
 | i3qIAHW-SJc | StokedOnFishing | on-the-water | parameter-skim | done | conditions/water-temperature.md; rigging/essential-knots.md; rigging/rubber-band-deep-rig.md / mono-to-fluoro knot tie, tag-end sinker attachment, bank-to-bank SST/bite Observed note; fixed sinker-mec |
-| A6DJoXbID4c | StokedOnFishing | on-the-water | deep | pending | kelp-paddy pattern ep (pre-identified deep candidate): bird-reading, stay 100yd off patty, mackerel>sardine bait, jig selection |
+| A6DJoXbID4c | StokedOnFishing | on-the-water | deep | done | bait/making-bait.md; conditions/bird-reading.md; conditions/kelp-paddies.md; lures/tuna-poppers-and-stickbaits.md; techniques/foamer-casting.md / deep extraction: bird-reading, 100yd-off-paddy positio |
 | zQtExV8Z2eY | StokedOnFishing | on-the-water | parameter-skim | pending | trip-tips: 30lb mono/4ft 30lb fluoro topshot, 1/4oz slider+#2 hook+squid, fly-lined sardine |
 | MUpvP-Yl2R0 | StokedOnFishing | on-the-water | observations-only | pending | sponsor-heavy Navico/Simrad electronics demo (buoy/radar/AIS); legal halibut 22in mentioned |
 | AIHvJj-paoo | StokedOnFishing | on-the-water | parameter-skim | pending | sponsor-heavy Okuma Komodo 450 reel demo; trip-tips: downsize line, team chum, give space, watch surroundings |

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c]
 confidence: high
 ---
 
@@ -122,6 +122,19 @@ Hookers, F7jLrt2j2X8, 2023-10-09; product endorsement — low confidence per
 Cesar's registry caveat):** described as a small-profile, heavy jig with a
 **rounder, denser** build than the flatter Colt Sniper — good for breezing
 fish keying on small bait.
+
+### Savage Gear Squish jig (anchovy match-the-hatch)
+**Observed** (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06 upload, offshore San
+Diego, bluefin foamers on anchovy bait; unregistered channel — medium
+confidence): a **Savage Gear "Squish" jig** in the small-lead-bait class,
+picked specifically because its profile **looked very similar to an
+anchovy** — the bait the fish were keyed on that trip. The presenter's
+stated selection logic was pure match-the-hatch: identify the bait species
+being fed on, then reach for the jig that mimics its size/shape, rather than
+a fixed favorite model. No weight, retrieve, or color detail is given beyond
+the anchovy-match reasoning; treat as a model name and selection rationale to
+add to the small-lead-bait family (Colt Sniper, Daiwa Zakana, RW Peanut,
+Nomad Ridgeback class) above, not a fully specified rig.
 
 ### Nomad
 Nomad's offshore surface line (popper and stickbait profiles) rounds out the

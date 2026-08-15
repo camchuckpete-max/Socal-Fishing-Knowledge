@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c]
 confidence: high
 ---
 
@@ -29,6 +29,23 @@ the routers: [bluefin tuna](../species/bluefin-tuna.md) and
   a real advantage; the more foam you can cover, the more shots you get.
 - Budget **about 2 to 3 casts per school**, then move to the next one. Foamers
   are short-lived; do not stake one out.
+
+**Observed, trip-tips summary (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06
+upload, offshore San Diego, bluefin on a kelp paddy; unregistered channel —
+medium confidence):** a three-point approach given on camera, consistent
+with, and adding detail to, the get-ahead-of-travel rule above — (1) watch
+the white tern birds and try to guess which way the school is traveling;
+(2) once you think you've read the direction right, **don't run straight up
+on the fish** — swing **out and around** the school so you come to rest
+ahead of its travel, then **shut down and let the fish come into casting
+distance** rather than closing the last distance under power; (3) **match
+the hatch** of whatever bait the fish are on (that day, anchovies) —
+see the [Savage Gear Squish jig](../lures/tuna-poppers-and-stickbaits.md#savage-gear-squish-jig-anchovy-match-the-hatch)
+entry for the lure pick that produced. Point (2) is a wide-swing-then-drift
+variant of "set up ahead of the school," not a contradiction of the
+stop-hard-and-cast-immediately mechanic above — this source frames it as a
+stealthier arrival for a school still under way, while the stop-hard
+mechanic above applies once you're already on a foaming ball.
 
 **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
 California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;

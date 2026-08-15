@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c]
 confidence: high
 ---
 
@@ -59,6 +59,23 @@ program:
 Twelve-inch mackerel are big, hearty baits — heartier than sardine (see
 [fishing live bait](fishing-live-bait.md) for how bait choice plays against the
 gamefish).
+
+## Lucky Joe rig — bait the hooks, and mackerel beats sardine for holding
+
+**Observed** (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06 upload, San Diego —
+loading bait at a receiver/pen off Shelter Island before running offshore for
+bluefin; unregistered channel — medium confidence): working a multi-hook
+"Lucky Joe" rig to load fresh mackerel, the crew's stated trick was to
+**bait the hooks** rather than fish the rig bare, and specifically to bait
+each hook with a small piece of **mackerel** rather than sardine — mackerel
+**hangs on the hook**, while a sardine strip gets knocked off almost
+immediately. A same-session, same-boat note on the target fish's preference
+that day: bluefin were **"getting on the mac"** more than the sardine, though
+still eating some sardine too — kept beside, not merged with, the
+hook-holding mechanism above (one is about what stays on the hook, the other
+about what the fish wanted to eat that day). This mackerel-holds-better
+framing is consistent with, not new beyond, the "mackerel is heartier than
+sardine" comparison already in [fishing live bait](fishing-live-bait.md).
 
 ## Microfiber rag jig for mackerel, and no-hands handling (dave-hansen, Your Saltwater Guide, 5FzBwvMtRP8, 2019-07-26; single mention — medium confidence)
 

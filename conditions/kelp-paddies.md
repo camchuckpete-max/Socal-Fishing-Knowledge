@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds, drone]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q, -bw1KDfDjv4]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q, -bw1KDfDjv4, A6DJoXbID4c]
 confidence: high
 ---
 
@@ -128,6 +128,25 @@ the end of the stop — the stated payoff was catching a few more off the same
 piece. A companion tactic to the check-fast-then-move-to-the-next-paddy
 discipline above, for the specific case of a paddy that already proved
 itself rather than one still unproven.
+
+## Working the paddy — stand off for tuna
+
+**Observed** (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06 upload, offshore San
+Diego (launched Shelter Island, worked toward the 43/San Clemente Island);
+unregistered channel — medium confidence): on-camera guidance while working a
+kelp paddy for bluefin — **you don't have to fish tight against the paddy**;
+stay roughly **100 yards off** it instead, because the fish holding around a
+paddy, "especially the tuna," sit **outside** the piece rather than directly
+under it. This is a *positioning* nuance, not a reversal of Hansen's
+drive-right-up-to-it check-fast discipline above: the direct approach is
+about not being spooky while confirming a paddy is loaded; once fish are
+confirmed and working (a bird pile, boils, or a bait ball chased away from
+the kelp), the fishing itself happens in the water around the paddy, not
+snagged tight to the kelp. Same session, the crew's search discipline while
+working the surrounding water: **watch all 360° around the boat** ("keep
+your eyes open at all areas... head on a swivel") rather than fixating on
+the paddy itself, since the fish and the birds marking them can show up
+anywhere in that radius.
 
 ## Finding paddies
 
