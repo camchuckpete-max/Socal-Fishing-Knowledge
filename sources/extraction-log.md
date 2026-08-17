@@ -1482,3 +1482,81 @@ and Strictly Irons zips — landed once under `strictly-irons/`.
    `odiIWmut6gM` gives day-of-month only on camera ("the 22nd", "Wednesday the
    24th") against a 2026-07-02 upload, so the trip month is recorded as
    unestablished.
+
+### Phase 3, part 2 — Strictly Irons (18 transcripts), read in full 2026-08-17
+
+Every transcript in `sources/transcripts/strictly-irons/` was read end to end,
+not skimmed. Extraction was aimed at Cameron's correction C3 — **the decisions
+and the stated reasons**, not more observation volume. Where a video's content
+had no compliant destination, a note was created (C1) rather than the content
+being dropped.
+
+| video_id | type | destination(s) |
+| --- | --- | --- |
+| `Ec2GaNpiOHI` (Q&A with Dan Wade, 2019-03-19) | tutorial | `lures/iron-jigs.md` §Reading a jig (new); `techniques/surface-iron.md` §mechanism; `techniques/surface-iron-color.md` |
+| `yn1suHH6b1Y` (jig masterclass, 2026-05-13, Fishing Syndicate) | seminar | same three notes — the corroborating half of the Dan Wade doctrine |
+| `764kFzACKTc` (wiring a surface iron, 2021-01-28) | tutorial | **`rigging/wiring-a-surface-iron.md` (new)**; pointer + parameters cross-check into `rigging/haywire-twist.md` via that note |
+| `IhBY5RHFvuk` (casting distance, 2026-01-24) | tutorial | **`techniques/surface-iron-casting.md` (new)** — wind→trajectory, follow-through aim, soft-cast, rod-action loading, spool tension, shore practice, the baitcaster path |
+| `0DKmYId1NN4` (early-season bite, 2026-04-16) | on-the-water | `species/yellowtail.md` (40–60 ft → surface-iron/light-bait, not yo-yo); `techniques/surface-iron.md` §decisions; `techniques/surface-iron-casting.md` (drop-back-and-reel-tight) |
+| `ejUTAnONf7o` (new Wise jig, 2026-04-21) | on-the-water | `species/yellowtail.md` (wind→yo-yo re-rank row); `techniques/surface-iron.md` §decisions + §common failures; casting note (reel-sideways corroboration) |
+| `_MygUHw19q8` (Cedros days 3–4, 2024-06-08 on camera) | on-the-water | **`locations/cedros-island.md` (new)**; `techniques/surface-iron.md` §decisions |
+| `IdMJnlg_rZk` (Cedros day 1, 2024) | on-the-water | `locations/cedros-island.md`; `species/calico-bass.md` (mid-day mini-iron row) |
+| `2cxeg_AE418` (Cedros day 2, 2024) | on-the-water | `locations/cedros-island.md`; `species/calico-bass.md`; `techniques/surface-iron.md` §decisions |
+| `4pT0efBD1j0` (Coronados vlog, 2020-08-18) | on-the-water | `techniques/surface-iron.md` §chum-then-cast; `locations/cedros-island.md` (grade/behaviour contrast) |
+| `u80AI37soFI` (Coronados surface-iron bite) | on-the-water | `techniques/surface-iron.md` §decisions (keep winding on a miss) + §common failures (over-pulling) |
+| `gdqI2dNd5_U` (Coronados yellowtail) | on-the-water | `techniques/surface-iron.md` §chum-then-cast (get bit back to hold the stop) |
+| `dS9gd9k7A7Q` (Mission Belle, Coronados) | on-the-water | `techniques/surface-iron.md` §chum-then-cast (boat-shy read) — 166 words, two usable lines |
+| `Ob45hK4HSWc` (yo-yo → hand-lining) | on-the-water | **`locations/ensenada.md` (new)** — the tuna-pen fishery and the bycatch-driven presentation switch |
+| `P36VGPPf120` (planning a BOLA trip) | tutorial | `locations/bahia-de-los-angeles.md` (landed in Phase 3 part 1) |
+| `oRg9XKtnJW0` (2022 montage) | promo | `skipped: music-montage, 221 words, no extractable doctrine beyond "slow troll surface irons" already held in the trolling and surface-iron notes` |
+| `vSBY4uS5624` (tuna foamers collab) | promo | `skipped: music-only, 67 words, zero speech` |
+| `EuTVPVY9lAs` (brand/faith vlog) | promo | `skipped: brand-origin and personal-testimony vlog; no SoCal/Baja fishing decision content — fails the curation bar as generic non-fishery content` |
+| `Ci5ZybXzj1Y` (Christmas charity event) | promo | `skipped: community-service event, not fishing content` |
+
+**Notes created this pass (6):** `rigging/wiring-a-surface-iron.md`,
+`techniques/surface-iron-casting.md`, `techniques/surface-iron-color.md`,
+`locations/cedros-island.md`, `locations/ensenada.md`, plus the new
+`## Reading a jig` section carved into `lures/iron-jigs.md`.
+
+**Mega-note split executed (plan Phase 3 item 5).** `techniques/surface-iron.md`
+was 515 lines at the start of this batch. Colour went to
+`surface-iron-color.md`, jig selection went to `lures/iron-jigs.md`, and the
+cast went to `surface-iron-casting.md`. The parent kept the retrieve, sizing,
+gear-class detail, and failures — and still absorbed the new decision material,
+so it did not shrink as far as the split alone implies. It remains the largest
+technique note and is a Phase 4 re-check.
+
+#### Findings worth recording
+
+1. **Two independent sources for "lay the reel on its side."** Dave Hansen
+   (registered, `KLoEJInlmZo`, 2021) and Strictly Irons (`ejUTAnONf7o`, 2026)
+   coach the same casting detail six years apart on different channels. Logged
+   as corroboration, not merged.
+2. **A stated depth threshold that selects a technique.** 40–60 ft marks →
+   surface iron + light bait, explicitly *not* yo-yo. The KB had bands for
+   structure yellows (5–10 fm) and deep high-spot yellows (150–300 ft) but
+   nothing for the shallow "they're about to come up" read.
+3. **A real doctrine tension, kept unreconciled.** The same crew says lock the
+   drag and pull as hard as you can (Cedros, over rock) and *"sometimes you
+   pull too hard, it's not hooked that well and it'll just pop off"* (Coronados,
+   open water). Recorded side by side in `surface-iron.md` §common failures
+   with the water-type discriminator stated.
+4. **The Cedros vs. Coronados grade-and-behaviour contrast.** 30–45 lb fish
+   taking the jig *"like slow"* versus 10–12 lb schoolies that *"hit it like a
+   freight train"* — same species, same crew, same technique, two fisheries.
+   This is the kind of thing that reads as a contradiction if the two sessions
+   are merged; it is recorded as a contrast with the practical consequence
+   (a Coronados hookset habit costs fish at Cedros).
+5. **Dan Wade remains unregistered, so all of it caps at `medium`.** Cameron
+   called him *"the best surface iron fisherman I know"*; the plan lists him as
+   a Phase 6 registry candidate. Nothing here was written at `high` on the
+   strength of that description — promoting him is Cameron's edit to
+   `sources/source-registry.md`, and it would lift several of these notes.
+6. **Product-launch contamination is heavy on this channel** and was handled
+   per the sponsored-claim rule: mechanism and parameters at `medium`, named
+   rod/reel/jig models and the Cedros lodge amenities at `low`. No operator or
+   product recommendation was written.
+7. **A dating hazard, not resolved.** `IhBY5RHFvuk` carries a 2026-01-24 upload
+   date but says on camera that the rods drop "the second week of December" and
+   calls the combo a 2026 go-to. The upload date is what is cited; the filming
+   date is not established and was not guessed.

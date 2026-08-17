@@ -77,5 +77,6 @@ route, and the insurance carriers by name.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cedros Island](../locations/cedros-island.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -120,6 +120,77 @@ jig in the same lineup is a bigger, heavier profile than the A1-light, stays
 in the water better, and handles heavier line fine (**40–50 lb**) — it's
 built to be fished as a straight burn jig.
 
+## Reading a jig — how to pick one that swims
+
+**Dan Wade** (Strictly Irons `Ec2GaNpiOHI` 2019, and the jig masterclass
+`yn1suHH6b1Y` 2026 via Fishing Syndicate). Not a registered channel, so
+`medium` per the rubric pending the registry pass — but this is the only
+systematic jig-*selection* doctrine in the corpus, and it is the layer beneath
+every model list above. **The whole test is: does it swim.** Every physical
+feature below is a proxy for that one question, and none of them overrides
+watching the jig in the water.
+
+**What he looks at, in his own order:** hole placement, hip placement, how
+thick or thin the body is, and how heavy or light the rings are.
+
+- **Hips — the one that matters.** Lay the iron **flat side down on a table**.
+  One side must sit **slightly higher** than the other. That built-in
+  asymmetry is what makes the jig fall off-axis and kick; a symmetrical body
+  swims dead. Proportion is a judgment call, not a number — *"if the hips are
+  way off, that's too much, and if they're not enough…"* — and he is explicit
+  that it is a learned eye, that **what he sees and what you see are different
+  things**, and that there is no substitute for looking at a lot of jigs.
+- **Front hole off-centre helps but is not conclusive.** An off-centre nose
+  hole (either direction) contributes, *"but that's not a conclusion… it helps
+  but it doesn't mean it's gonna be good or bad."*
+- **The back hole is irrelevant to the swim.** It only trails behind — *"kind
+  of like a rudder."* Don't select on it.
+- **Concave vs. flat back: less metal, more kick — in theory.** Tady went
+  concave on the 45s roughly **15–18 years before 2019** (so early 2000s);
+  before that they were flat, and Tady made flat 45s as well. **Salas irons
+  and candy bars are flat and are "perfectly fine."** The mechanism he gives
+  is purely weight: the concave scoop removes metal, so the jig is lighter for
+  its profile, so it kicks a little more — with his own hedge, *"in theory
+  anyway."* Not a buy/don't-buy axis.
+- **Nose shape is a current-matching axis.** A **pointed nose swims in faster
+  current**; a **wider/blunter nose is the better one in slower current.**
+  This is the one shape feature he ties to conditions rather than to the jig
+  in isolation — it pairs with the slack-current rigging fix in
+  [wiring a surface iron](../rigging/wiring-a-surface-iron.md). (He also maps
+  nose shapes onto specific brands on camera; that mapping is garbled in the
+  captions and is not recorded here.)
+
+**Swim-test and cull.** Earlier in his fishing life he would buy a handful of
+jigs, swim them off the bow of a half-day boat, and get rid of the ones that
+didn't work on the spot — *"if they're not any good, why keep them?"* His
+stated expectation is that **a percentage of any batch won't swim**, and that
+finding the good ones costs money: *"you're gonna have to go waste some money
+and buy some… a percentage of them aren't gonna work, to find the ones that
+do."* He draws the parallel to bass anglers buying a dozen identical
+injection-moulded crankbaits and running them all at the lake to find the one
+that's different — because what varies is invisible (weight placement, a void
+inside the body). Two practical consequences:
+
+- **Buy where you can handle the jigs.** Pick them up, sight down them, and
+  match a new one to a known-good one you already fish.
+- **He no longer files or tweaks jigs.** He still can — he can make a
+  non-swimming jig work with a file — but it takes a long time, and he now
+  buys by eye instead. Tweaking is a fallback, not a program.
+
+**Don't be a one-jig man (`yn1suHH6b1Y`).** His example is a friend who is a
+*"7X Salas man — that's all he ever uses,"* and *"he misses out, because
+sometimes they don't want that kind of motion."* Carry **a couple each of a
+few different profiles, a little bigger and a little smaller** — fish key on a
+profile depending on what they're eating and where they are. The counterweight
+is equally explicit: **"you don't need 57 jigs in your tackle box."** A small
+spread of genuinely different swims beats either one jig or a wall of them.
+
+Why the kick is the thing being selected for — the serpentine swim, the
+periodic kick-out, and the separated-baitfish mechanism — is in
+[surface iron](../techniques/surface-iron.md#why-the-kick-works--the-mechanism).
+Colour is deliberately absent from this whole selection process; see
+[surface iron — colour](../techniques/surface-iron-color.md).
+
 ## How to fish it
 
 - **Light surface iron** — long-cast on a jig-stick and swum back near the top:
@@ -189,14 +260,17 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [White Seabass](../species/white-seabass.md)
+- [Wiring a Surface Iron](../rigging/wiring-a-surface-iron.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

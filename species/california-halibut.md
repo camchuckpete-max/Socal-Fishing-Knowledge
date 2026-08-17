@@ -191,6 +191,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

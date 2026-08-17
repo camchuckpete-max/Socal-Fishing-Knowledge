@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [bola, bahia-de-los-angeles, baja, sea-of-cortez, panga, trip-planning, yellowtail, cabrilla]
-sources: [P36VGPPf120, odiIWmut6gM, vqsD0qpwcJA, cameron]
+sources: [P36VGPPf120, odiIWmut6gM, T3cEQUqiH8E, 6P34jI9q1tE, ojE5H6AdGGo, K22a8Ui8tWg, XRIjUgpuyZ8, wX7jUycIJ-U, 8c07sN9wxGM, GJrNG2zmdB0, vqsD0qpwcJA, cameron]
 confidence: medium
 regions: [cortez-north]
 waters: [nearshore-coast, island, bank]
@@ -92,6 +92,11 @@ Route from San Diego: the 8 east to **Calexico**, cross at Mexicali, then south.
 
 - **Exchange money right after the border** — there's a spot about 3 minutes
   past the crossing. **$300–400** covers a 4-day trip.
+- **Wind there is intensely local.** *"This area is weird, because you go 5
+  miles up the beach and then it's totally calm"* (Nate Winnicki, BD Outdoors,
+  `T3cEQUqiH8E`). A blown-out morning at the bay does not mean a blown-out
+  day — the operators move. On tournament days the crews also simply **start
+  earlier** to get the morning window before it builds (`6P34jI9q1tE`).
 - **Fuel discipline:** top off before crossing, and again in San Felipe.
   Stations are "few and far between" once you're past San Felipe city.
 - **The last stretch has the potholes.** From Gonzaga: two lefts, straight, a
@@ -99,6 +104,12 @@ Route from San Diego: the 8 east to **Calexico**, cross at Mexicali, then south.
   repatched as of 2026-08; the rest of the road was reported fine.
 - Food/stops used on this trip: **Tacos El Güero** in San Felipe (across from
   a gas station), **Calimax** for groceries, snacks, and water.
+- **Military checkpoints** are on the route — reported as routine and "no big
+  deal" (`T3cEQUqiH8E`).
+- **It is all paved** — "no dirt roads down there"; past San Felipe the road
+  runs along the coast (`wX7jUycIJ-U`). Door-to-door reality check: one crew
+  left at 06:30 and reached the hotel at 17:31 — an **11-hour travel day**
+  with a lunch stop (`T3cEQUqiH8E`).
 
 **Buy everything before you cross.** Tackle and food further from the border
 run up to roughly **twice** the price — bring gear, ice, coolers, and beer with
@@ -133,10 +144,20 @@ they will **cook your catch**. AC, ceiling fans, soap and shampoo.
   everything — rooms and pangas — on arrival** rather than collecting money on
   the last day.
 - Several other hotels and motels run along the same strip, same basic setup.
+- **Campo Archelón** is a different kind of base — an eco-camp on the beach
+  offering casitas and camping with a communal feel, run by **Antonio
+  Resendes** and family. The family came to Bahía in 1979 doing sea-turtle
+  conservation work, and now run it as ecotourism on the reasoning that
+  conservation needs local economic opportunity behind it (`8c07sN9wxGM`).
+- **Shore fishing is walkable** from the hotel strip — one crew "snuck across
+  the street" for an evening session on arrival (`T3cEQUqiH8E`).
 
-**Panga operators named, all spoken of as good:** Fish Arms (the source's
-regular), FG's, Rick's, Hoy, Dagots, Eigor, Ivan. **They talk to each other**
-about where fish are showing on the day.
+**Panga operators named, all spoken of as good:** Fish Arms (the Strictly
+Irons regular), FG's, Rick's, Hoy, Dagots, Eigor, Ivan. **They talk to each
+other** about where fish are showing on the day. Also documented working out
+of Bahía: **Bola Sport Fishing** (Joe — a new panga, the *Guardian*, with
+current electronics and a new Suzuki outboard, `XRIjUgpuyZ8`), and captains
+named **Joel** and **Nego** (`wX7jUycIJ-U`, `ojE5H6AdGGo`).
 
 ## What a fishing day looks like
 
@@ -192,12 +213,72 @@ splitting shared costs across a group of 13:
   advance.
 - Breakfast, snacks, water, electrolytes, beer.
 
+## Two programs, not one
+
+The trip has a **shallow** program and a **deep** program, and they use
+different gear and different water. Plan which you want.
+
+### Shallow — cabrilla and yellowtail on structure
+
+Cast-and-wind at rock and boiler structure, the same read as the
+[cabrilla](../species/cabrilla.md) router. *"We're going to start doing the
+exact same thing we did yesterday — casting and winding until we get bit"*
+(Nate Winnicki, BD Outdoors, `6P34jI9q1tE`).
+
+- **Expect to get rocked.** Big yellowtail bury you in the structure — "big
+  yellow just rocked your ass." This is the same reason the Sea-of-Cortez
+  shallow program runs 80 lb (see [Sea of Cortez](sea-of-cortez.md)).
+- **Retrieve speed selects for size.** One angler tried slowing down, then
+  went the other way: *"faster, so the slow — the little guys can't catch
+  them"* (`K22a8Ui8tWg`). Burning it culls the small fish.
+- **Read the lee of a point.** "It swells a lot less on the back side of this
+  point" — on a windy day the back of a point is the fishable water
+  (`K22a8Ui8tWg`).
+- A **large twitch bait** was noted to cast roughly **twice as far** as the
+  smaller size, which matters when you need to reach structure from a drifting
+  panga (`6P34jI9q1tE`).
+
+### Deep — grouper and pargo on the dropper loop
+
+A completely separate program, and one the KB had no BOLA record of:
+
+> **600–700 feet of water, single high dropper loop, live mackerel, "slow and
+> steady"** — targeting big grouper and pargo (`XRIjUgpuyZ8`, Bola Sport
+> Fishing).
+
+See [dropper loop](../techniques/dropper-loop.md) for the rig and
+[sliding sinker](../techniques/sliding-sinker.md) for the heavy-leader grouper
+variant. **Colt Sniper 150 g** and yo-yo iron were the jig side of the same
+day.
+
+### Yellowtail on bird schools
+
+The other way yellowtail come, and it is a timing game:
+
+> *"Chasing bird school after bird school… there is good yellowtail bird
+> schools all around us right now — **very, very short windows**. They come up
+> for maybe a couple seconds and then dive out. So waiting your shot, **proper
+> placement with your jig is very key**."* (`ojE5H6AdGGo`)
+
+Four or five fish in the box by 07:55 working that pattern; fish to ~25 lb,
+with 13-pounders released. General method in
+[bird reading](../conditions/bird-reading.md) and
+[search & glassing](../planning/search-and-glassing.md).
+
+**Making bait is part of the morning** on most programs — one crew's routine
+was to meet the captain at the ramp, go over the plan, and start by making
+bait (`wX7jUycIJ-U`). See [making bait](../bait/making-bait.md).
+
 ## Species
 
 Primary targets are **[yellowtail](../species/yellowtail.md)** and
 **[cabrilla](../species/cabrilla.md)** (leopard grouper). Also taken:
-grouper and other bass, and **white seabass turns up randomly**. Late season
-adds dorado, marlin, and sailfish.
+grouper and pargo on the deep program, other bass, and **white seabass turns
+up randomly**. Late season adds dorado, marlin, and sailfish.
+
+**The Puro Fierro tournament** is fished there in May — format is **one fish
+per team per day per species, and only two species count: yellowtail and
+cabrilla** (`T3cEQUqiH8E`, `6P34jI9q1tE`).
 
 **Roosterfish** are present but are a matter of luck — the source had not
 landed one there, describing them as migratory, condition- and bait-driven,
@@ -209,6 +290,7 @@ roosterfish are the actual target.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cedros Island](cedros-island.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

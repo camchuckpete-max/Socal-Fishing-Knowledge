@@ -108,5 +108,6 @@ out-of-region.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cedros Island](cedros-island.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 <!-- backlinks:end -->

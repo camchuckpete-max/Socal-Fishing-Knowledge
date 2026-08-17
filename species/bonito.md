@@ -152,6 +152,7 @@ rather than a dedicated technique study.
 
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Flyline](../techniques/flyline.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)

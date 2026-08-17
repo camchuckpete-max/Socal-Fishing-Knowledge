@@ -202,6 +202,7 @@ current "should" carry everything astern.
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bird Reading](../conditions/bird-reading.md)

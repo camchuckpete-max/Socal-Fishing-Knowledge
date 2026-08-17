@@ -129,6 +129,7 @@ shearwater doctrine (7/21/22) — merge it in as the missing piece:
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

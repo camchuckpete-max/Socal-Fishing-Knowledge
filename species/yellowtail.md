@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo, 0DKmYId1NN4, ejUTAnONf7o]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast, open-ocean]
@@ -1238,6 +1238,15 @@ of water state. Kept side by side with the corpus
     commit the anchor over a hard-bottom mark, not the bait pile alone (same
     source; see the pass-and-grade anchoring method in
     [search and glassing](../planning/search-and-glassing.md)).
+  - **The 40–60 ft band is the "they're coming up" read, and it rules out the
+    yo-yo.** Metering fish at **40–60 ft** that are not yet showing was called
+    on camera as *"usually like surface iron fish and like light bait zone —
+    so we're not going to be yo-yoing today. We're going to stay with the light
+    bait and casting around, and once they start boiling, then we're going to
+    go all in on the surface iron"* (Strictly Irons, `0DKmYId1NN4`, 2026-03-21
+    per on-camera date, SoCal private boat; unregistered channel — medium).
+    A stated depth threshold that picks the technique **before** the fish show,
+    and the shallow counterpart to the structure and high-spot bands above.
   - General method: [search & glassing](../planning/search-and-glassing.md),
     [electronics & sounder](../planning/electronics-and-sounder.md).
 
@@ -1251,6 +1260,7 @@ of water state. Kept side by side with the corpus
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
 | **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers hard-bait/feather trolling *to locate* yellowtail yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method." A **live-bait** slow-troll variant for known resident structure is now sourced — see the row below |
 | **Resident/home-guard fish over known shallow structure** (Cedros Island, Baja) | [Slow-trolled live mackerel](../techniques/trolling.md) on a circle hook, worked "not too far" back over the structure | 80–100 lb line class (a heavier bracket than the 40 lb floor / 50 lb most-everything Cedros breakdown in [line & leader](../tackle/line-and-leader.md) — kept side by side, not reconciled) | Not a locate method — a standing program over a known rock (28–30 ft crest); no-strike/wind-tight the circle hook, back the boat down once hooked; observed producing repeated hookups (StokedOnFishing, QSmE3mdEL28) |
+| **Hard wind (20–25 kt+) after a run of good surface days** — fish still there, no longer showing on top | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) keep casting [surface iron](../techniques/surface-iron.md) as a picker | 40–60 lb class stout rod + high-speed reel | Coronado Islands, 2026-04-21 (`ejUTAnONf7o`, unregistered channel — medium): 25 kt gusts, fish metered and swiping the iron without committing; the crew's read was that **the wind turned the bite**, and other boats on the same day confirmed it had gone *"mostly yo-yo."* The surface iron still produced two — so this is a re-rank, not an abandonment |
 | **Sea lion working a hooked fish boatside** (depredation, fight-stage — not a presentation choice) | [Free-spool slack counter-move](../techniques/fighting-big-bluefin.md#sea-lion-depredation-at-the-boat--the-free-spool-trick-cross-species): wind continuously, never pump, while bringing the fish in; once the sea lion grabs it, throw the reel into free spool to give total slack (reads to the sea lion as the line breaking, so it lets go), then wind fast to recover the fish | No gear-class change — reel-handling move on whatever outfit hooked the fish | Cross-species counter-move, observed on a hooked yellowtail (Your Saltwater Guide / Dave Hansen, 2019-11-07, SoCal, mdhoEQPqpng) |
 
 **The faces are states, not types (cameron):** because the fish roam the
@@ -1316,10 +1326,12 @@ water temp and bait depth before committing the day to one face.
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Ensenada & the Tuna Pens](../locations/ensenada.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -1340,6 +1352,8 @@ water temp and bait depth before committing the day to one face.
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
