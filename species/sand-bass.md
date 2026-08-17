@@ -131,6 +131,7 @@ rocks.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [June–July](../seasonal/june-july.md)
 - [Moon](../conditions/moon.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

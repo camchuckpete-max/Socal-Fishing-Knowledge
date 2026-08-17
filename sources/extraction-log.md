@@ -1301,3 +1301,130 @@ full attempted diff is preserved in git history:
 | elBPRrdkugU | 848d803 | wrote to `profiles/cameron/rods.md` | correct veto — general notes never write into a user profile; the gear content should be re-homed to `tackle/` in class terms, or dropped |
 
 End state: **267 done / 148 skipped / 3 escalated** of 418 worklist rows.
+
+## Batch 2 — close-out (Phase 5, run 2026-08-17 as batch-3 Phase 1)
+
+Batch 2 merged to `main` (`540ea4a`) after only the Gate B *prep* pass — the
+defect fix and three recoveries. The Phase 5 package it promised (coverage
+reconciliation, acceptance tests, judgment-calls list) was deferred to "a
+separate reviewed session" that never ran. This is that session.
+
+### Coverage reconciliation — complete
+
+| | count |
+| --- | --- |
+| manifest rows | **576** |
+| — `ok` (transcript on disk) | 546 |
+| — `failed` (no transcript) | 30 |
+| ok rows accounted in the batch-1 section | 125 |
+| ok rows accounted in the batch-2 worklist | 421 |
+| **ok rows appearing nowhere in this log** | **0** |
+| **failed rows appearing nowhere in this log** | **0** (was 23 before Phase 0) |
+
+Batch-2 worklist end state: **418 rows = 271 done / 147 skipped / 0
+escalated**. All four parked items were resolved this session (three guard
+escalations + one evaluator reject), which moved 4 rows from
+`escalated`/`skipped` to `done`.
+
+**True yield is 264, not 271.** Seven `done` rows produced no content and are
+silent nulls in the headline number: `k80p1ShSvZs`, `rwfjUa4zsyY`,
+`1hJoxwg9fy4`, `YijeuGOYoVQ`, `7U4N1f0viOU`, `prQpoN9qWBY`, `2K4urpo3q6Q`.
+Two of those are recoverable — `rwfjUa4zsyY` is a caption-quality failure, and
+`YijeuGOYoVQ` was dropped for having "no existing anchor notes," which the
+batch-3 note-creation rule fixes.
+
+### Acceptance test — 21/21 routers pass
+
+Every species router carries all five mandatory sections (Where & when /
+Finding them / Situations → techniques / Gear summary / Doctrine & conflicts).
+
+The sonar clause ("species-specific sonar signatures with depths") is
+satisfied or **correctly and explicitly declared absent** in every case —
+`sheephead.md` states "no species-specific sonar signature or visual sign is
+documented in this corpus"; `striped-marlin.md` declares a sight fishery;
+`sand-bass.md` and `ocean-whitefish.md` give real signatures without numeric
+depths. That is the required behaviour, not a failure. One genuine omission
+found and fixed: `cabrilla.md` gave no sonar read and did not say so — now a
+flagged stub.
+
+**The test passes structurally and fails practically for one note.**
+`species/yellowtail.md` is 1,360 lines with `## Where & when` running ~1,180
+of them; the routing payload starts past line 1,200. A new-to-SoCal angler
+opening it cold does not reach the router table. Recorded here as the finding
+that drives batch-3 Phases 3–4, not as a pass.
+
+### Flagged-stub audit
+
+Batch 2 added **zero** flagged stubs across 267 videos, so the stub rule
+(CLAUDE.md §Species-first routing item 5) was not being applied during the
+run. Current stubs: `california-halibut.md` (bounce-ball trolling),
+`yellowtail.md` (locate-trolling), `calico-bass.md` (Wax Wing),
+`swordfish.md` (finning/sunning fish), `inshore-crankbaits.md` (Wax Wing
+model catalog), `gear-classes.md` (light troll class), and — added this
+session — `cabrilla.md` (sonar signature). `bait-and-switch.md`'s stub is
+**retired**: `3qSY328fFYo` sourced it.
+
+### Escalations — 27 entries, triaged
+
+Six were guard violations, **all now resolved** (three recovered at Gate B
+prep, three this session; two of the three were false positives on
+net-positive restructures and the third was a false positive on a generated
+backlink). The 21 evaluator escalations split as:
+
+- **13 compliant regulatory claims** → moved to
+  [regulatory-claims.md](regulatory-claims.md), a standing register Cameron
+  reviews before a trip rather than an interrupt. These were flagged only
+  because the evaluator's trigger fired on category presence; the evaluators
+  said so themselves in the escalation text.
+- **4 framing questions** that do need a decision — see below.
+- **3 router-table additions** (`fK2AT460xW4` dolphin-pod dropper row,
+  `ntQXxcH5sjI` shallow bait-ball yo-yo row, `QSmE3mdEL28` Cedros live-bait
+  slow-troll row). All three are additive rows for previously unhandled
+  situations, which cannot change what an existing acceptance test returns.
+  Recommend accepting all three; the Phase 5 evaluator change stops purely
+  additive rows from escalating at all.
+- **1 genuine cross-video factual problem** (`iQLyBzhOSi8`).
+
+### Judgment calls for Cameron
+
+1. **`xzIaUEDklrE` — a live conflict against your own doctrine.** A
+   StokedOnFishing observation has the spreader bar selecting for *bigger*
+   fish over the Mad Mac, which is the opposite of your registry-high
+   presentation-size axis (small forage → bar, large forage → Mad Mac). Kept
+   side by side and unreconciled per convention, but it is your doctrine on
+   one side, so it needs your read.
+2. **`iQLyBzhOSi8` — a dating error that may have propagated.** The on-camera
+   slate reads **2012** for the fourth annual COOC, while the already-committed
+   parts 2 (`PKf7G3uL4io`) and 3 (`IATPg9110CE`) assume ~2014 from the shared
+   YouTube upload date alone. All three may document the 2012 tournament. The
+   pipeline could not fix this — a one-video-at-a-time extractor cannot
+   retroactively amend a sibling's committed entry.
+3. **`EiItVWqFMYc` — sublegal lobster handling.** The added section frames
+   redepositing a short lobster as legal via a not-possessing-it technicality,
+   sitting beside the note's release-it-immediately doctrine. Regulatory-
+   adjacent and worth your explicit sign-off before it stands.
+4. **`Y1xeieQI3B4` / `fDSd9kqwYW0` — unstamped bag-limit figures.** Both are
+   on-camera numbers ("20 fish per angler", "10 around") carried with
+   verify-separately caveats rather than jurisdiction/as-of stamps, because
+   the speakers gave none. Confirm the hedging is sufficient.
+5. **Assist-hook confidence promotion.** `rigging/assist-hooks.md` went
+   medium → high on the strength of two videos in one Cesar series
+   (`U4zifdssSes` part 1, `unARAuTgF_A` part 2). Two parts of one teaching
+   session may not be independent confirmation under the re-cut rule.
+6. **The batch-1 double-count is fixed, and it cost a claim.** `vqsD0qpwcJA`
+   and `Jtf-bU4aM-c` are one recording. The BOLA slow-pitch doctrine that
+   rested on "both" is demoted to a single-trip data point at medium — and
+   the narrator self-declares as new to the technique on camera. Phase 3's
+   BOLA sources should not be merged into the old inflated prior.
+
+### Known losses, recorded
+
+- **SWBA Midnight Standoff** — parts 1–2 failed to fetch, part 3 skipped as
+  thin-generic. Nothing of that trip is covered.
+- **`CyOsniVmbN8`** — part 3 of the 2016 "Top Gun 80 Epic 5 Day" run; parts
+  1–2 were extracted.
+- **16 private/unavailable videos** — permanently unrecoverable.
+- **Thin areas persist:** mako and thresher shark remain absent, as recorded
+  at batch 1. Halibut is thinner than it looks — the Fred Hall "Halibut
+  Secrets" seminar in the batch-3 corpus has no caption track in any
+  language.

@@ -21,6 +21,7 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 ## Index
 
 - [Plan: Build SoCal/Baja Fishing Knowledgebase](plan.md) — (after the resuming session's state report).
+- [Regulatory Claims Register](regulatory-claims.md) — be re-verified in one pass.
 - [Source Registry](source-registry.md) — Registered sources qualify their doctrine for high confidence (see the confidence rubric in CLAUDE.md).
 <!-- index:end -->
 

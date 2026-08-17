@@ -53,4 +53,5 @@ you were dead." (`ty8FtA3Y2bA`)
 ## Linked from
 
 - [Dehooking & Release Handling](dehooking-and-release.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 <!-- backlinks:end -->

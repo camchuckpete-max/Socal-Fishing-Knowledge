@@ -186,6 +186,7 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Ned Rig](../techniques/ned-rig.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Swimbaits](../techniques/swimbaits.md)

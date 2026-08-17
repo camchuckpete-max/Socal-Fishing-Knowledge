@@ -30,7 +30,15 @@ window (see [Situations → techniques](#situations--techniques)). Outside
 that window (spring/summer), downsizing is still a reliable fallback any
 time the bite goes slow.
 
-## Finding them
+## Finding them (sign & sonar)
+
+**⚠ Flagged stub — no sonar signature in the corpus yet.** This source
+describes the visual/structure read only and gives no sonar-arc or depth
+signature for cabrilla specifically. Cabrilla are a structure-ambush fish, so
+a meter signature over the rock is a real thing to look for — the gap is in
+the sources, not the fishery. Flagged so silence doesn't read as "you can't
+meter them." General method:
+[electronics & sounder](../planning/electronics-and-sounder.md).
 
 - **Structure is everything — target "snaggy," not sandy.** Look for
   bottom that is **not** sandy or flat: big bull rocks, pinnacles, and

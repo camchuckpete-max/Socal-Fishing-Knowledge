@@ -594,6 +594,7 @@ release *ethic* and the regional policies are below.
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
