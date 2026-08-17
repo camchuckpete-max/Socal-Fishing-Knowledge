@@ -392,8 +392,8 @@ the reverse map in **Linked from** below.
   abandoned to bonito: *"we tried yo-yo fishing, didn't go well — a lot of
   bonitos."* The fix was **not** a different iron, it was to stop fishing
   metal — **dead sardines** got the yellowtail going, and the crew finished
-  hand-lining them once the bite went wide open (Strictly Irons, `Ob45hK4HSWc`,
-  2019-02-07; unregistered channel — medium). Worth naming because the reflex
+  hand-lining them once the bite went wide open (Jared Saaib, Strictly Irons,
+  `Ob45hK4HSWc`, 2019-02-07; registered, single session — medium). Worth naming because the reflex
   when a yo-yo goes untouched is to change jig weight or speed, and neither
   addresses an interception problem. The fish in question were sitting on
   **tuna pens, straight down at about 120 ft** — see

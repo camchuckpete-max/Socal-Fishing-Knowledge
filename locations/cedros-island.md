@@ -18,9 +18,12 @@ the corpus's benchmark **big-yellowtail-on-the-surface-iron** destination —
 
 Trip-envelope doctrine below is a single 2024 four-day trip filmed across three
 videos (Strictly Irons, `IdMJnlg_rZk` / `2cxeg_AE418` / `_MygUHw19q8`; **day 3
-dated on camera 2024-06-08**). Unregistered channel, one operator, one trip →
-`medium`, and the **lodge/operator specifics are promotional** and sit at `low`
-per the sponsored-claim rule. The species detail that pre-dates this batch is
+dated on camera 2024-06-08**), narrated by **Jared Saaib** — `jared-saaib` is
+a registered voice ([source registry](../sources/source-registry.md)). One
+operator, **one trip**, so the trip envelope stays `medium` under the
+repeated-doctrine rule rather than under any channel cap. The **lodge and
+operator specifics are promotional** and sit at `low` per the sponsored-claim
+rule. The species detail that pre-dates this batch is
 in the species notes and is not restated here.
 
 ## Getting there

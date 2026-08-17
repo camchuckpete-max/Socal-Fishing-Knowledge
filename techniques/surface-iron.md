@@ -210,14 +210,17 @@ right, leave it alone.
 
 ### Decisions taken mid-retrieve, with the reasons given
 
-Six on-the-water Strictly Irons sessions (2020–2026). **These are the
-channel's host speaking, not Dan Wade** — and that distinction now carries a
-rating, because `dan-wade` was registered on 2026-08-17 while the host was not.
-Registering a person does not register their channel, so the host's material
-stays at **`medium`** while the Wade doctrine above sits at `high`. The jig and
-rod models in several of these sessions are product launches and sit at `low`.
-These are stated reasoning, not observations, so they are recorded here as
-attributed doctrine rather than as `**Observed**` lines.
+Six on-the-water Strictly Irons sessions (2020–2026), narrated by
+**Jared Saaib** — the channel's own voice, distinct from the Dan Wade guest
+tutorials above. **`jared-saaib` is a registered voice**
+([source registry](../sources/source-registry.md), promoted by Cameron
+2026-08-17), under his standing rule for this channel: *Strictly Irons content
+is Jared unless a guest is clearly identified on camera*, as Wade is. Ratings
+below therefore turn on **repetition**, not on registry status — a point stated
+across two or more of his sessions is `high`, a single session is `medium`.
+The jig and rod models in several of these sessions are product launches and
+sit at `low`. These are stated reasoning, not observations, so they are
+recorded here as attributed doctrine rather than as `**Observed**` lines.
 
 - **Set retrieve speed by keeping the jig visible on top.** Coaching a first-
   timer through a live cast (`ejUTAnONf7o`, 2026-04-21, Coronado Islands):
@@ -246,7 +249,8 @@ attributed doctrine rather than as `**Observed**` lines.
   swimming."* Adding a twitch to a committed follower is the failure; adding
   speed is the fix. Sits beside — not over — Dan Wade's *"a little
   perky-jerky every now and then"* for fish that are **not** already tracking.
-- **Two named finicky signatures, and what each means.** *"They're grabbing one
+- **Two named finicky signatures, and what each means — `high`, stated in two
+  separate sessions.** *"They're grabbing one
   and going back down"* (`0DKmYId1NN4`) — fish feeding but not committing to
   the jig. And *"they would just come and attack it and then swipe back down…
   they weren't pushing through and swallowing it"* (`ejUTAnONf7o`) — strikes
@@ -257,7 +261,9 @@ attributed doctrine rather than as `**Observed**` lines.
 ### Chumming the school up, then casting the iron
 
 An explicit method choice with an equally explicit statement of the objection
-to it (Strictly Irons, `4pT0efBD1j0`, 2020-08-18, Coronado Islands):
+to it (Jared Saaib, Strictly Irons, `4pT0efBD1j0`, 2020-08-18, Coronado
+Islands). **`high`** — the same sequence and its rationale appear in a second
+session (`dS9gd9k7A7Q`), so this is repeated doctrine from a registered voice:
 
 > *"A lot of people say this is not strictly irons, but we do it because
 > that's the only way we could get them going — unless we see them boiling and
@@ -272,8 +278,8 @@ the same day by the jig getting bit after being **allowed to sink ~10 seconds**
 before the retrieve started — a counted instance of the sink-out change-up
 above.
 
-**Related, from the same session:** *"they found our [chum] — they'll come find
-us"* (`dS9gd9k7A7Q`) is the same mechanism, alongside a boat-shy read —
+**The second session, corroborating:** *"they found our [chum] — they'll come
+find us"* (`dS9gd9k7A7Q`) is the same mechanism, alongside a boat-shy read —
 *"they would not let me drive them over the top of them"* — which is the
 practical reason the long cast exists.
 

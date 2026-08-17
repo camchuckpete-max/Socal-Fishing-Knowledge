@@ -1799,3 +1799,40 @@ places ("a location may only be named in a note if it is named in the source")
 should be **generalised to named people**: attribute to a person only where the
 source identifies the speaker, or where Cameron has resolved the mapping
 explicitly and that resolution is recorded here.
+
+#### Resolved (Cameron, 2026-08-17): Strictly Irons defaults to Jared Saaib
+
+Cameron's ruling on the attribution question above: **"If it's on his channel,
+assume it's him unless the speaker is clearly identified (like when he had Dan
+Wade). Most of the tutorial content is Jared."** Applied.
+
+The transcript evidence is kept in the registry rather than discarded, so a
+future reader knows this is a **ruling** and not something the captions
+establish — the camera changing hands on a multi-angler boat explains why a
+crewmate filming will address Jared by name on camera.
+
+**Consequence: Strictly Irons ratings now turn on repetition, not registry
+status.** Two blocks lifted to `high`; the rest are single-session and stay
+`medium` with corrected attribution.
+
+| block | rating | why |
+| --- | --- | --- |
+| Chum-the-school-up-then-cast (`techniques/surface-iron.md`) | **`high`** | the sequence and its rationale appear in `4pT0efBD1j0` **and** `dS9gd9k7A7Q` |
+| The two finicky signatures (same note) | **`high`** | stated in `0DKmYId1NN4` **and** `ejUTAnONf7o` |
+| Wind→trajectory, follow-through aim, soft cast, spool tension (`surface-iron-casting.md`) | `medium` | all from `IhBY5RHFvuk` alone |
+| Mid-retrieve decisions — visible-jig speed, keep winding on a miss, burn-and-return, speed-up strike, don't-twitch-a-follower | `medium` | one session each |
+| Cedros trip envelope (`locations/cedros-island.md`) | `medium` | three videos, but **one trip** — repetition across episodes of a single trip is not repeated doctrine |
+| Tuna-pen row + wind→yo-yo row (`species/yellowtail.md`), Cedros calico row, yo-yo bycatch block | `medium` | single session each |
+
+The **reel-sideways** detail in `surface-iron-casting.md` is now corroborated by
+**two registered voices** — Dave Hansen (2021) and Jared Saaib (2026) — rather
+than by one registered voice and one unregistered channel. That block was
+already `high` on Hansen; it is now independently supported.
+
+**Rule generalised for Phase 5.** The Ensenada retraction produced *"a location
+may only be named in a note if it is named in the source."* This episode
+extends it to people, with the escape hatch Cameron just used: **attribute to a
+named person only where the source identifies the speaker, or where a
+channel-level attribution rule has been recorded in the source registry.** The
+registry is the right home for such rulings because it is already the file
+Cameron edits to make trust decisions.

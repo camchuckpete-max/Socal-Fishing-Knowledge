@@ -59,15 +59,15 @@ the blank.
   farther cast. A separate detail from the pendulum-swing/release-point
   mechanics above; not reconciled or in conflict with them, just an added
   reel-orientation step.
-  **Corroborated** (Strictly Irons, `ejUTAnONf7o`, 2026-04-21, Coronado
-  Islands): coaching a rail-mate mid-trip — *"No, no, no. Look at your reel.
+  **Corroborated** (Jared Saaib, Strictly Irons, `ejUTAnONf7o`, 2026-04-21,
+  Coronado Islands — a second *registered* voice on the same detail): coaching a rail-mate mid-trip — *"No, no, no. Look at your reel.
   Sideways."* Second independent source for the same detail, on a different
   channel six years later.
 
 ## Trajectory — the wind decides it
 
-The single clearest new rule in this batch (Strictly Irons, `IhBY5RHFvuk`,
-2026-01-24; unregistered channel — `medium`; the rod/reel/braid models in that
+The single clearest new rule in this batch (Jared Saaib, Strictly Irons, `IhBY5RHFvuk`,
+2026-01-24; `jared-saaib` registered, single session — `medium`; the rod/reel/braid models in that
 video are a product launch and sit at `low`):
 
 > *"You got to think about jig fishing and casting surface irons like
