@@ -3,6 +3,12 @@ type: profile
 tags: [template, boat, operating-envelope]
 sources: []
 confidence: medium
+# Machine envelope read by planning/day-plan-protocol.md step 1b. Fill these in
+# and the plan can bound itself to water you can actually reach and fish;
+# leave them null and it will ask you each time.
+home_port: null          # e.g. "Dana Point" — where you launch
+range_nm: null           # usable round-trip range in nautical miles
+sea_state_max_ft: null   # the wind/swell you turn around at
 ---
 
 # <Your Boat>

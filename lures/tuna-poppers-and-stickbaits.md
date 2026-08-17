@@ -3,6 +3,8 @@ type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
 sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU]
 confidence: high
+regions: [socal]
+waters: [open-ocean, bank, island]
 ---
 
 # Tuna Poppers and Stickbaits

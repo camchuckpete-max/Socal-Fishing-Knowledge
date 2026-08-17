@@ -3,6 +3,8 @@ type: seasonal
 tags: [spring, bluefin, yellowtail, paddies, flying-fish, size-class, run-and-gun]
 sources: [S2L3KLSQ6Is]
 confidence: medium
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # May

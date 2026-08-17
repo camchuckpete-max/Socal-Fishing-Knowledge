@@ -3,6 +3,8 @@ type: rig
 tags: [tuna-feather, trolling, offshore, skirt, leader]
 sources: [CWVPLM6NheY]
 confidence: medium
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # Tuna Feather Rig

@@ -3,6 +3,8 @@ type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
 sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast]
 ---
 
 # Inshore Crankbaits

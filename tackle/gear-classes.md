@@ -107,6 +107,7 @@ does the lookup.
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

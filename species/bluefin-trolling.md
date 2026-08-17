@@ -3,6 +3,8 @@ type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
 sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU]
 confidence: high
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # Bluefin Trolling

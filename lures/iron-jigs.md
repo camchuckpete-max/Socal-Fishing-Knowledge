@@ -3,6 +3,8 @@ type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
 sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik]
 confidence: high
+regions: [socal, baja]
+waters: [nearshore-coast, island, bank, open-ocean]
 ---
 
 # Iron Jigs

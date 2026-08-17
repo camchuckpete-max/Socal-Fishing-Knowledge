@@ -3,6 +3,8 @@ type: rig
 tags: [bluefin, bite-leader, crimping, knife-jig, fluorocarbon, leader]
 sources: [kO_BqzUYayc, j37zxs33gws, 42A8Owhc8fw]
 confidence: medium
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # Bluefin Bite Leaders

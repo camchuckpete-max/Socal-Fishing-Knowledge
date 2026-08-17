@@ -3,6 +3,8 @@ type: seasonal
 tags: [spring, bluefin, yellowtail, wind-rollover, squid, coronados]
 sources: [YZtX1MiT0y8]
 confidence: medium
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # April

@@ -3,6 +3,8 @@ type: seasonal
 tags: [summer, bluefin, yellowfin, paddies, foamers, dispersal, trolling]
 sources: [CMQkHQMxbXM, HzE4FHHcvTk, HnqiE05vdXs]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # August

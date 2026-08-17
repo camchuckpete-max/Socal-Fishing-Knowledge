@@ -3,6 +3,8 @@ type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
 sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c]
 confidence: high
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Foamer Casting

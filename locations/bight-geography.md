@@ -3,6 +3,8 @@ type: location
 tags: [geography, wind-rollover, warm-band, paddies, bluefin, planning]
 sources: [HzE4FHHcvTk]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Bight Geography

@@ -65,6 +65,24 @@ EXCLUDE_DIRS = {
     ROOT / "skills" / "boat-day" / "resources",  # generated skill bundle
 }
 
+# --- region gating (see locations/regions.md) --------------------------------
+# Closed vocabularies. A day plan filters species/technique notes by the trip's
+# {regions, waters} envelope before routing, so a missing or mistyped value is a
+# correctness bug, not a style nit — it is what let a Mission Bay plan reach a
+# Sea-of-Cortez-only species. Adding a term means editing locations/regions.md.
+REGIONS = {"socal", "baja"}
+SUBREGIONS = {
+    "bight-coast", "channel-islands", "catalina", "san-clemente", "coronados",
+    "offshore-banks", "outer-banks", "northern-baja", "ensenada",
+    "baja-pacific", "sea-of-cortez", "bola", "san-felipe", "loreto", "cabo",
+}
+WATERS = {"bay-harbor", "nearshore-coast", "island", "bank", "open-ocean"}
+GATED_TYPES = {"species", "technique", "lure", "rig", "location", "seasonal",
+               "bait", "decision"}
+FM_LIST_RE = re.compile(r"^(regions|subregions|waters): \[(.*?)\]\s*(?:#.*)?$",
+                        re.M)
+FM_TYPE_RE = re.compile(r"^type:\s*(\S+)", re.M)
+
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 H1_RE = re.compile(r"^#\s+(.*?)\s*$", re.MULTILINE)
 
@@ -162,6 +180,57 @@ def strip_code(text: str) -> str:
     return INLINE_CODE_RE.sub("", text)
 
 
+def region_problems(path: Path) -> list[str]:
+    """Validate the region-gating front matter on a gated note.
+
+    Returns a list of human-readable problems (empty = fine). A note whose
+    `type` is not gated is skipped entirely.
+    """
+    text = path.read_text(encoding="utf-8")
+    m = FM_TYPE_RE.search(text)
+    if not m or m.group(1) not in GATED_TYPES:
+        return []
+    found = {k: [x.strip() for x in v.split(",") if x.strip()]
+             for k, v in FM_LIST_RE.findall(text)}
+    problems = []
+    for key, vocab in (("regions", REGIONS), ("waters", WATERS),
+                       ("subregions", SUBREGIONS)):
+        vals = found.get(key)
+        if vals is None:
+            if key != "subregions":          # subregions is optional
+                problems.append(f"missing `{key}:` (type {m.group(1)})")
+            continue
+        if not vals:
+            problems.append(f"`{key}:` is empty")
+        for v in vals:
+            if v not in vocab:
+                problems.append(
+                    f"`{key}:` has off-vocabulary term {v!r} "
+                    f"(allowed: {', '.join(sorted(vocab))})")
+    return problems
+
+
+def region_badge(path: Path) -> str:
+    """A short region marker for the generated index line, or "".
+
+    Generated from front matter, so it cannot drift from the gate and cannot
+    be silently dropped the way the prose region line was. Only marks the
+    cases a planner can get wrong — a note covering both regions needs no
+    badge, a Baja-only one very much does.
+    """
+    text = path.read_text(encoding="utf-8")
+    m = FM_TYPE_RE.search(text)
+    if not m or m.group(1) not in GATED_TYPES:
+        return ""
+    found = dict(FM_LIST_RE.findall(text))
+    regions = {x.strip() for x in found.get("regions", "").split(",") if x.strip()}
+    if regions == {"baja"}:
+        return " **[Baja only]**"
+    if regions == {"socal"}:
+        return " **[SoCal only]**"
+    return ""
+
+
 def strip_backlinks_block(text: str) -> str:
     """Remove the generated '## Linked from' block.
 
@@ -242,6 +311,21 @@ def main() -> int:
             ):
                 inbound[target].add(src)
 
+    # ---- (a2) validate region gating on every note, same all-or-nothing rule ----
+    region_bad: list[str] = []
+    for n in note_files:
+        for prob in region_problems(n):
+            region_bad.append(f"{n.relative_to(ROOT)}: {prob}")
+    if region_bad:
+        print("REGION GATING:", file=sys.stderr)
+        for r_ in sorted(set(region_bad)):
+            print(f"  {r_}", file=sys.stderr)
+        print(
+            f"\n{len(set(region_bad))} region-gating problem(s). Nothing was "
+            f"written. See locations/regions.md for the vocabulary.",
+            file=sys.stderr)
+        return 1
+
     if dead:
         print("DEAD LINKS:", file=sys.stderr)
         for d_ in sorted(set(dead)):
@@ -303,7 +387,7 @@ def main() -> int:
         for n in dir_notes:
             summ = summary_of(n)
             tail = f" — {summ}" if summ else ""
-            idx.append(f"- [{title_of(n)}]({n.name}){tail}")
+            idx.append(f"- [{title_of(n)}]({n.name}){region_badge(n)}{tail}")
         if child_dirs:
             idx.append("")
             idx.append("### Subfolders")

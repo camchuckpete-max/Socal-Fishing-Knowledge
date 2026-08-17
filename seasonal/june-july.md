@@ -3,6 +3,8 @@ type: seasonal
 tags: [summer, bluefin, white-seabass, moon, paddies, search-box, upwelling]
 sources: [DnSqw4r7A1s, Blh2BA-7Ono, -JZpyWLdKlk]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # June–July

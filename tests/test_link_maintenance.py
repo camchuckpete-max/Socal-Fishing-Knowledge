@@ -107,6 +107,56 @@ def test_code_stripping_still_works(tmp: Path) -> None:
     check("real link parsed", "../README.md" in targets, True)
 
 
+GATED_FM = ("---\ntype: species\ntags: [x]\nsources: [cameron]\n"
+            "confidence: high\n{extra}---\n\n# T\n\nBody.\n")
+
+
+def test_region_gating_accepts_valid(tmp: Path) -> None:
+    p = write(tmp, "ok.md", GATED_FM.format(
+        extra="regions: [socal, baja]\nwaters: [island, bank]\n"))
+    check("valid gating passes", lm.region_problems(p), [])
+
+
+def test_region_gating_requires_fields(tmp: Path) -> None:
+    p = write(tmp, "missing.md", GATED_FM.format(extra=""))
+    probs = " ".join(lm.region_problems(p))
+    check("missing regions is reported", "missing `regions:`" in probs, True)
+    check("missing waters is reported", "missing `waters:`" in probs, True)
+
+
+def test_region_gating_rejects_off_vocabulary(tmp: Path) -> None:
+    p = write(tmp, "bad.md", GATED_FM.format(
+        extra="regions: [socal, atlantic]\nwaters: [island]\n"))
+    probs = " ".join(lm.region_problems(p))
+    check("off-vocabulary region rejected", "'atlantic'" in probs, True)
+
+
+def test_region_gating_skips_ungated_types(tmp: Path) -> None:
+    p = write(tmp, "profile.md",
+              "---\ntype: profile\ntags: [x]\nsources: []\n"
+              "confidence: high\n---\n\n# T\n\nBody.\n")
+    check("ungated type needs no region fields", lm.region_problems(p), [])
+
+
+def test_subregions_optional_but_validated(tmp: Path) -> None:
+    good = write(tmp, "sub_ok.md", GATED_FM.format(
+        extra="regions: [baja]\nsubregions: [bola]\nwaters: [island]\n"))
+    check("valid subregion passes", lm.region_problems(good), [])
+    bad = write(tmp, "sub_bad.md", GATED_FM.format(
+        extra="regions: [baja]\nsubregions: [narnia]\nwaters: [island]\n"))
+    check("off-vocabulary subregion rejected",
+          "'narnia'" in " ".join(lm.region_problems(bad)), True)
+
+
+def test_region_badge(tmp: Path) -> None:
+    baja = write(tmp, "b.md", GATED_FM.format(
+        extra="regions: [baja]\nwaters: [island]\n"))
+    both = write(tmp, "d.md", GATED_FM.format(
+        extra="regions: [socal, baja]\nwaters: [island]\n"))
+    check("Baja-only note is badged", lm.region_badge(baja), " **[Baja only]**")
+    check("dual-region note is not badged", lm.region_badge(both), "")
+
+
 def main() -> int:
     with tempfile.TemporaryDirectory() as d:
         tmp = Path(d)
@@ -115,14 +165,20 @@ def main() -> int:
                    test_summary_skips_thematic_break,
                    test_backlink_block_stripped,
                    test_strip_backlinks_block_is_noop_without_markers,
-                   test_code_stripping_still_works):
+                   test_code_stripping_still_works,
+                   test_region_gating_accepts_valid,
+                   test_region_gating_requires_fields,
+                   test_region_gating_rejects_off_vocabulary,
+                   test_region_gating_skips_ungated_types,
+                   test_subregions_optional_but_validated,
+                   test_region_badge):
             fn(tmp)
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("link-maintenance tests: 6 checks groups OK")
+    print("link-maintenance tests: 12 check groups OK")
     return 0
 
 

@@ -3,6 +3,8 @@ type: location
 tags: [bays, harbors, eelgrass, docks, riprap, tide, structure]
 sources: [YgqXf9iICyg, AxLlx2Ug-rs, usHl-4SfqDA]
 confidence: high
+regions: [socal]
+waters: [bay-harbor]
 ---
 
 # Bays and Harbors

@@ -3,6 +3,8 @@ type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
 sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY, oXunQKSbc2g]
 confidence: medium
+regions: [socal, baja]
+waters: [nearshore-coast, island, bay-harbor]
 ---
 
 # Pacific Bonito

@@ -3,6 +3,8 @@ type: seasonal
 tags: [fall, bluefin, yellowfin, dorado, yellowtail, bola, volume-square]
 sources: [5to3Q5P7w90, cameron]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # September

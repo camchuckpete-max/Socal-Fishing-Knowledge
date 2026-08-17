@@ -3,6 +3,8 @@ type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
 sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI]
 confidence: high
+regions: [socal, baja]
+waters: [nearshore-coast, bay-harbor, bank]
 ---
 
 # Barred Sand Bass

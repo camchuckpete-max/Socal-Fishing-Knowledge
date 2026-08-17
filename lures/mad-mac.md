@@ -3,6 +3,8 @@ type: lure
 tags: [mad-mac, nomad, bluefin, trolling, speed-trolling, offshore]
 sources: [cameron, xzIaUEDklrE, U1AgwmlY5bI]
 confidence: high
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Mad Mac

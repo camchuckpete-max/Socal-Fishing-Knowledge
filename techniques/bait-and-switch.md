@@ -3,6 +3,8 @@ type: technique
 tags: [striped-marlin, bait-and-switch, teaser, pitch-bait, billfish, dropback]
 sources: [3qSY328fFYo, Mwx5AAXNMvE]   # 3qSY328fFYo sources the SoCal dropback execution; Mwx5AAXNMvE is a Baja/Cabo dropback data point. Teaser handling and hookset are still unsourced — see note body
 confidence: medium
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Bait-and-Switch (Striped Marlin)

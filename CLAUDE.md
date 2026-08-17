@@ -89,8 +89,23 @@ auto-generated index.
   tags: [bluefin, trolling, offshore]
   sources: [cameron, XLVUhV8DW64]   # NAMED: cameron | <youtube video_id>
   confidence: high         # high|medium|low
+  regions: [socal, baja]   # REQUIRED on gated types — the day-plan gate
+  subregions: [bola]       # optional finer grain
+  waters: [island, bank]   # REQUIRED on gated types — structure axis
   ---
   ```
+
+- **Region gating is mandatory** on `species | technique | lure | rig |
+  location | seasonal | bait | decision`. The closed vocabularies live in
+  [`locations/regions.md`](locations/regions.md);
+  `scripts/link-maintenance.py` **exits nonzero** on a missing field or an
+  off-vocabulary term. `regions` is the safety gate that stops a SoCal day
+  plan offering a Sea-of-Cortez-only species; `waters` is what stops an
+  offshore-bank tactic surfacing for a bay trip. "Only in" is set membership —
+  no separate field. These describe **where the knowledge applies**, not where
+  the video was shot. The generated indexes badge `**[Baja only]**` /
+  `**[SoCal only]**` from these fields, so region can never be invisible on the
+  surface a planner browses.
 
 - **Sources are NAMED**: `cameron` or the YouTube `video_id` — never
   "personal/owner" — so contributors can be filtered later. Front-matter

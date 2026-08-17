@@ -3,6 +3,8 @@ type: rig
 tags: [wind-on, hollow-core, braid-to-fluoro, tuna, leader]
 sources: [_KE9InIHx8M, zkSKgP2bq10]
 confidence: medium
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Wind-On Leader

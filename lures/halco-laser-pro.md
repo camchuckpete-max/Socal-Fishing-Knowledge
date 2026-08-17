@@ -3,6 +3,8 @@ type: lure
 tags: [halco, laser-pro, diver, tuna, trolling, offshore]
 sources: [cameron]
 confidence: medium
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # Halco Laser Pro

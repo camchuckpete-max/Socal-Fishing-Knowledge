@@ -3,6 +3,8 @@ type: lure
 tags: [dtx-minnow, nomad, tuna, trolling, swimmer, offshore]
 sources: [cameron]
 confidence: medium
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # DTX Minnow

@@ -3,6 +3,8 @@ type: species
 tags: [skipjack, tuna, offshore, bait, bycatch, trolling, flyline]
 sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84, tcso7Lpm_Xs]
 confidence: medium
+regions: [socal, baja]
+waters: [open-ocean]
 ---
 
 # Skipjack Tuna

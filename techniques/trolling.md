@@ -3,6 +3,8 @@ type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
 sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU]
 confidence: high
+regions: [socal, baja]
+waters: [open-ocean, bank, island]
 ---
 
 # Trolling

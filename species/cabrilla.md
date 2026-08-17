@@ -3,6 +3,9 @@ type: species
 tags: [cabrilla, grouper, baja, sea-of-cortez, bay-of-la, jerkbait, yo-yo-iron]
 sources: [EmZO8QiOfik]
 confidence: medium
+regions: [baja]
+subregions: [sea-of-cortez, bola, san-felipe]
+waters: [nearshore-coast, island]
 ---
 
 # Cabrilla (Leopard Grouper)
@@ -124,8 +127,10 @@ meter them." General method:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

@@ -3,6 +3,8 @@ type: rig
 tags: [bluefin, kite-fishing, live-bait, crimped-leader]
 sources: [UrEymGvZx00, nQvJnfb5jQ4]
 confidence: medium
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # Double Trouble Rig

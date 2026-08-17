@@ -3,6 +3,8 @@ type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
 sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU]
 confidence: high
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Bluefin Tuna

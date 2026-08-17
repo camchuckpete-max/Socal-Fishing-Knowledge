@@ -3,6 +3,8 @@ type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
 sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E]
 confidence: high
+regions: [socal]
+waters: [bank, island, open-ocean]
 ---
 
 # Knife Jigs

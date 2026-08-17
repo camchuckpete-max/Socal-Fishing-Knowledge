@@ -3,6 +3,8 @@ type: species
 tags: [barracuda, nearshore, pelagic, kelp-line, mixed-bag, surface-iron, baja]
 sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE, CKq0Z6ExVs4, oadK6zIYyCo]
 confidence: medium
+regions: [socal, baja]
+waters: [nearshore-coast, island]
 ---
 
 # California Barracuda

@@ -3,6 +3,8 @@ type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
 sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M]
 confidence: medium
+regions: [socal]
+waters: [bay-harbor, nearshore-coast]
 ---
 
 # Drop Shot

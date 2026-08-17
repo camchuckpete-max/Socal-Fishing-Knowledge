@@ -3,6 +3,8 @@ type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
 sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y]
 confidence: medium
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Fighting a Big Bluefin — Boat-Handling to the Gaff

@@ -3,6 +3,8 @@ type: technique
 tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging, prop-safety]
 sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY, Ow3an9lSVh4]
 confidence: medium
+regions: [socal]
+waters: [nearshore-coast, island]
 ---
 
 # Hoop Netting

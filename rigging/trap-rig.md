@@ -3,6 +3,8 @@ type: rig
 tags: [halibut, live-bait, stinger, drift, grouper, cabrilla, baja, sea-of-cortez]
 sources: [qIKGJSEE2aY, M8hOYQ_6rSg]
 confidence: medium
+regions: [socal, baja]
+waters: [bay-harbor, nearshore-coast, island, bank]
 ---
 
 # Trap Rig

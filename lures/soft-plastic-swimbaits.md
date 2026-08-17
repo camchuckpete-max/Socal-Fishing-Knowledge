@@ -3,6 +3,8 @@ type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
 sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU]
 confidence: high
+regions: [socal, baja]
+waters: [bay-harbor, nearshore-coast, island]
 ---
 
 # Soft-Plastic Swimbaits

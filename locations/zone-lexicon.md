@@ -3,6 +3,8 @@ type: location
 tags: [zones, search-box, naming, geography, planning]
 sources: [cameron, Blh2BA-7Ono, Rf1HKJG-SDg]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Zone Lexicon

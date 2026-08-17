@@ -3,6 +3,8 @@ type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore]
 sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw]
 confidence: medium
+regions: [socal, baja]
+waters: [bay-harbor, nearshore-coast, island, bank]
 ---
 
 # Sliding Sinker

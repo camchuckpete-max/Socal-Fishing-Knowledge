@@ -3,6 +3,8 @@ type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
 sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0]
 confidence: high
+regions: [socal, baja]
+waters: [bay-harbor, nearshore-coast]
 ---
 
 # California Halibut

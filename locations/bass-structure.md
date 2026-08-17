@@ -3,6 +3,8 @@ type: location
 tags: [bass, kelp, reef, hard-bottom, structure, current]
 sources: [kwMIgkCtFUE, 0KQ--N5TjqE]
 confidence: high
+regions: [socal]
+waters: [nearshore-coast, island]
 ---
 
 # Bass Structure

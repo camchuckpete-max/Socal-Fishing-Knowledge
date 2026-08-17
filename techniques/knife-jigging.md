@@ -3,6 +3,8 @@ type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
 sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4]
 confidence: high
+regions: [socal, baja]
+waters: [bank, island, open-ocean]
 ---
 
 # Knife / Speed Jigging

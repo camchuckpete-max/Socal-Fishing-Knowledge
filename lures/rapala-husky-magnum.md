@@ -3,6 +3,8 @@ type: lure
 tags: [rapala, husky-magnum, diver, tuna, trolling, offshore]
 sources: [cameron]
 confidence: medium
+regions: [socal]
+waters: [open-ocean, bank]
 ---
 
 # Rapala Husky Magnum

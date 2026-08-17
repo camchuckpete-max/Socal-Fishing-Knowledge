@@ -3,6 +3,8 @@ type: species
 tags: [sheephead, structure, artificial-reef, chum, bottomfish, socal, beginner-friendly, baja, ensenada]
 sources: [OSbAHdB4uPs, eL1Qm33-Mj0, CKq0Z6ExVs4, oadK6zIYyCo]
 confidence: medium
+regions: [socal, baja]
+waters: [nearshore-coast, island, bank]
 ---
 
 # California Sheephead

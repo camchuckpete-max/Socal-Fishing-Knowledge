@@ -3,6 +3,12 @@ type: profile
 tags: [cameron, boat, panga, operating-envelope, trolling-platform]
 sources: [cameron]
 confidence: high
+# Machine envelope read by planning/day-plan-protocol.md step 1b. Cameron has
+# not stated these — left null rather than guessed. Until they are filled, the
+# protocol must ASK for range and sea-state instead of assuming one.
+home_port: null
+range_nm: null
+sea_state_max_ft: null
 ---
 
 # Cameron's Boat — Panga Marine Marquesas 22

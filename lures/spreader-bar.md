@@ -3,6 +3,8 @@ type: lure
 tags: [spreader-bar, half-fish, bluefin, trolling, offshore, dorado, baja, sea-of-cortez]
 sources: [cameron, M8hOYQ_6rSg, U1AgwmlY5bI]
 confidence: high
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Spreader Bar

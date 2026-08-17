@@ -3,6 +3,8 @@ type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
 sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM]
 confidence: medium
+regions: [socal, baja]
+waters: [open-ocean, bank]
 ---
 
 # Flying Fish Harness

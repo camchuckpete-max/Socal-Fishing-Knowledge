@@ -3,6 +3,8 @@ type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
 sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8]
 confidence: high
+regions: [socal, baja]
+waters: [open-ocean]
 ---
 
 # Dorado (Mahi-Mahi)

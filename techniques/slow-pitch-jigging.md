@@ -3,6 +3,8 @@ type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez]
 sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
+regions: [socal, baja]
+waters: [bank, island, open-ocean]
 ---
 
 # Slow-Pitch Jigging (SPJ)

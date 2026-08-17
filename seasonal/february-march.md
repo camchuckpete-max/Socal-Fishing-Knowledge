@@ -3,6 +3,8 @@ type: seasonal
 tags: [winter, bass, sand-bass, calico, rain, runoff, bait-size]
 sources: [Kf5wk_TFgTc, pcwcRdmWmLc]
 confidence: high
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # February–March

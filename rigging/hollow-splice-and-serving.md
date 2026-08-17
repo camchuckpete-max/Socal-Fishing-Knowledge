@@ -3,6 +3,8 @@ type: rig
 tags: [hollow-core, splice, serving, top-shot, knotless, leader]
 sources: [_w8KNSgGPVE, yr6z3DmWY4s]
 confidence: medium
+regions: [socal]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Hollow-Core Splice & Serving
