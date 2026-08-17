@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E]
 confidence: high
 ---
 
@@ -130,7 +130,26 @@ behavior**:
     above; not reconciled. Full sizing/cord/tying detail (hook-to-jig
     pass-through test, cord stiffness by jig style, tying steps) is in
     [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
-  - **Sixth attributed configuration, kept side by side (Capt. Dave Hansen,
+  - **Sixth attributed configuration, part two of the same series (Cesar,
+    Phoenix Rods, via Dirty Hookers, unARAuTgF_A, 2024-03-04; registered
+    voice, but this specific hook-count/placement configuration is a single
+    mention — `medium` confidence; the doctrine corroborated across both
+    videos is the shared tying/construction parameters in
+    [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md), not
+    this particular configuration):** a **dual-top** assist — both hooks at
+    the head of a speed jig, tied to a swivel instead of a solid ring,
+    connected to the jig by a split ring off the swivel's remaining eye. Two
+    hooks total, so it stays within this note's two-hooks-max US-waters
+    framing on its own, but it's a third top-heavy build from the same voice
+    (alongside the single-top and single-top/double-tail builds above) in the
+    same unreconciled hook-count/placement conflict — not reconciled here.
+    Cesar frames the swivel-based build as his own preference over a plain
+    solid ring, for two reasons: it leaves working room between the two hook
+    loops that a doubled cord on a single solid ring wouldn't, and fight-load
+    runs onto the swivel-to-main-line connection instead of through a split
+    ring. Full cord-type, swivel-sizing, and tying detail is in
+    [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).
+  - **Seventh attributed configuration, kept side by side (Capt. Dave Hansen,
     Your Saltwater Guide, scmPq63lLWM, 2021-05-18; dave-hansen registered
     voice, but this is a product-specific rigging description on a
     sponsor-adjacent item — `medium` confidence):** a **Fish Lab 250 g
