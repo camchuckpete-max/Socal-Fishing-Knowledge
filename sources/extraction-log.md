@@ -1187,3 +1187,44 @@ the pipeline overwrites it with the extraction outcome. Statuses:
 | mwrFx2DdmO0 | Kevin Is Cooking | non-fishing | skip:no-usable-content | skipped | Kevin Is Cooking tacos al pastor; transcript is 3 useless lines, no content (stray) |
 | 55IthpZZx9k | Okuma Fishing Tackle USA | promo | skip:promo | skipped | Okuma booth ad: Dave Hansen pitches Makaira 130 + PCH bent-butt rod for SoCal bluefin/swordfish; feeds dave-hansen registry |
 <!-- batch2:worklist:end -->
+
+## Batch 2 — Gate B prep pass (2026-08-15)
+
+Run-complete state was 264 done / 6 escalated. A review pass before merge
+fixed one pipeline defect and recovered the extractions it had bounced.
+
+**Defect fixed (commit `7f741ff`).** `sources/source-registry.md` is a trust
+table that notes legitimately link to ("<voice> is a registered voice").
+`link-maintenance.py` regenerated a backlinks block inside it whenever such a
+link appeared, which made the extraction commit touch a guard-protected path,
+so the mechanical guard reverted the whole commit. Two of the pipeline's own
+mechanisms were fighting; the extractor behaved correctly throughout. Fix: a
+narrow `NO_BACKLINKS` set — the registry is still validated and indexed like
+any note, it just never receives a generated backlinks block. The stale block
+was removed from the registry, along with a phantom circular backlink it had
+created into `fish-care/gaffing.md`.
+
+**Recovered (3 videos, cherry-picked from the reverted commits):**
+
+| video_id | original commit | recovered in | content |
+| --- | --- | --- | --- |
+| EmZO8QiOfik | 0d33e3c | 02ba68f | `species/cabrilla.md` + `lures/jerkbaits.md` (both new) + Sea-of-Cortez amendments across 7 notes |
+| _ZThckj2TIM | 0716a9d | 3ff380b | Capt. Scotty weak-link dropper-loop doctrine across 5 notes |
+| ftEvyfwjZFU | ed1860a | ab61aed | Hansen San Diego jam / bluefin tackle across 5 notes |
+
+Conflicts against later videos' amendments were resolved as **unions, never as
+a winner**: front-matter `tags`/`sources` merged, prose bullets kept from both
+sides, generated backlink blocks left for `link-maintenance.py`. Each recovered
+worklist row records its provenance inline.
+
+**Still escalated — deliberately not auto-recovered (3 videos).** These are the
+guard catches that need human judgment rather than a mechanical fix; each one's
+full attempted diff is preserved in git history:
+
+| video_id | commit | why it was reverted | the judgment call |
+| --- | --- | --- | --- |
+| unARAuTgF_A | 917703f | deleted 38 lines from `rigging/assist-hooks.md` | the extraction restructured a note built by this video's part 1 rather than appending; decide whether the consolidation is an improvement or drops attributed detail (the ASR-uncertain 215/300 lb cord weights and the sponsored-product caveat) |
+| 3qSY328fFYo | bd4968b | deleted 21 lines from `techniques/bait-and-switch.md` | same shape: verify nothing attributed was smoothed away before restoring |
+| elBPRrdkugU | 848d803 | wrote to `profiles/cameron/rods.md` | correct veto — general notes never write into a user profile; the gear content should be re-homed to `tackle/` in class terms, or dropped |
+
+End state: **267 done / 148 skipped / 3 escalated** of 418 worklist rows.
