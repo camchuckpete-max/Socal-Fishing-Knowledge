@@ -3,7 +3,7 @@ type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
 sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, mG8ZZLFGlT8]
 confidence: medium
-regions: [socal, baja]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean]
 ---
 

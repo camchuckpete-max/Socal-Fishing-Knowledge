@@ -3,8 +3,7 @@ type: species
 tags: [cabrilla, grouper, baja, sea-of-cortez, bay-of-la, jerkbait, yo-yo-iron]
 sources: [EmZO8QiOfik]
 confidence: medium
-regions: [baja]
-subregions: [sea-of-cortez, bola, san-felipe]
+regions: [cortez-north, cortez-south]
 waters: [nearshore-coast, island]
 ---
 

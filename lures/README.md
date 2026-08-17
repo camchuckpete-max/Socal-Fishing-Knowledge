@@ -9,8 +9,8 @@
 - [DTX Minnow](dtx-minnow.md) **[SoCal only]** — The Nomad DTX Minnow is a mid-depth trolling swimmer that gets down and holds a tight action across a wide speed band — a swimmer whose action dies on heavy lin
 - [Halco Laser Pro](halco-laser-pro.md) **[SoCal only]** — The Halco Laser Pro is a bibbed trolling minnow — the deep-diving XDD bib version dives hard for its size.
 - [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
-- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) — Region: Baja — Sea of Cortez / Bay of LA.
-- [Knife Jigs](knife-jigs.md) **[SoCal only]** — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
+- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Region: Baja — Sea of Cortez / Bay of LA.
+- [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) **[SoCal only]** — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
 - [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle

@@ -3,8 +3,7 @@ type: species
 tags: [pacific-crevalle-jack, toro, baja, warm-water, inshore, structure]
 sources: [cameron, mL4Ph7t0WcQ, 84XPJAeH0Rw, APsnsunT4gM]
 confidence: low
-regions: [socal, baja]
-subregions: [sea-of-cortez, bola]
+regions: [socal-bight, cortez-north, cortez-south]
 waters: [nearshore-coast, island]
 ---
 

@@ -3,7 +3,7 @@ type: seasonal
 tags: [fall, regime-change, bluefin, yellowfin, breaks, chlorophyll, grunion, marlin]
 sources: [XLVUhV8DW64, OYOda6T3f-8, 5to3Q5P7w90]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

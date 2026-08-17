@@ -3,7 +3,7 @@ type: technique
 tags: [bluefin, trolling, speed-trolling, offshore]
 sources: [z1CmWHqe9uk, cameron]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean, bank]
 ---
 

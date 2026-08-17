@@ -3,8 +3,7 @@ type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
 sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4]
 confidence: medium
-regions: [socal]
-subregions: [bight-coast, catalina]
+regions: [socal-bight]
 waters: [nearshore-coast, island]
 ---
 

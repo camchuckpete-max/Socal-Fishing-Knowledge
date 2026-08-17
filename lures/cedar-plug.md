@@ -3,7 +3,7 @@ type: lure
 tags: [cedar-plug, tuna, bluefin, yellowfin, trolling, offshore]
 sources: [cameron]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean, bank]
 ---
 

@@ -3,7 +3,7 @@ type: lure
 tags: [mad-mac, nomad, bluefin, trolling, speed-trolling, offshore]
 sources: [cameron, xzIaUEDklrE, U1AgwmlY5bI]
 confidence: high
-regions: [socal, baja]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
 ---
 

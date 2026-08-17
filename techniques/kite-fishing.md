@@ -3,7 +3,7 @@ type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
 sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU]
 confidence: high
-regions: [socal, baja]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
 ---
 

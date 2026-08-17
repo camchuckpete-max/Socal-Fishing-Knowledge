@@ -89,14 +89,16 @@ auto-generated index.
   tags: [bluefin, trolling, offshore]
   sources: [cameron, XLVUhV8DW64]   # NAMED: cameron | <youtube video_id>
   confidence: high         # high|medium|low
-  regions: [socal, baja]   # REQUIRED on gated types — the day-plan gate
-  subregions: [bola]       # optional finer grain
-  waters: [island, bank]   # REQUIRED on gated types — structure axis
+  regions: [socal-bight, cortez-north]   # REQUIRED on gated types — the gate
+  waters: [island, bank]                 # REQUIRED — structure axis
   ---
   ```
 
 - **Region gating is mandatory** on `species | technique | lure | rig |
-  location | seasonal | bait | decision`. The closed vocabularies live in
+  location | seasonal | bait | decision`. Five broad regions —
+  `socal-bight`, `baja-pacific-north`, `baja-pacific-south`, `cortez-north`,
+  `cortez-south` (north/south split at the BC/BCS state line, 28°N). Assignment
+  is at **region level, not spot level** (Cameron, 2026-08-17). Vocabularies in
   [`locations/regions.md`](locations/regions.md);
   `scripts/link-maintenance.py` **exits nonzero** on a missing field or an
   off-vocabulary term. `regions` is the safety gate that stops a SoCal day

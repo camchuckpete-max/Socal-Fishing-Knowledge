@@ -26,7 +26,9 @@ navigate the whole KB.
    **`{regions, waters}`** using the
    [regions & waters vocabulary](../locations/regions.md):
 
-   - **`regions`** — `socal` or `baja`. Where you are actually fishing.
+   - **`regions`** — one or more of `socal-bight`, `baja-pacific-north`,
+     `baja-pacific-south`, `cortez-north`, `cortez-south`. Where you are
+     actually fishing.
    - **`waters`** — which of `bay-harbor` / `nearshore-coast` / `island` /
      `bank` / `open-ocean` are reachable, given the profile's `range_nm` and
      `sea_state_max_ft` against the day's forecast. With no profile, ask.

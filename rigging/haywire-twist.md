@@ -3,7 +3,7 @@ type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
 sources: [lm7D9Tlc7Po, ll7r4A6atno]
 confidence: medium
-regions: [socal, baja]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
 ---
 

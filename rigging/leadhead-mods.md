@@ -3,7 +3,7 @@ type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish]
 sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
 ---
 

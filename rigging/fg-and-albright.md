@@ -3,7 +3,7 @@ type: rig
 tags: [fg-knot, albright, braid-to-leader, connection-knot, casting]
 sources: [CIMTyepgonk, NXtvXkqpT9w]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

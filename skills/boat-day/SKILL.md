@@ -17,8 +17,9 @@ bundle** (the KB decision layer) at plan time.
 1b. **Set the day's `{regions, waters}` envelope before opening any species
    note.** Derive it from the launch point and the boat's range, using
    `resources/knowledge/locations/regions.md` for the vocabulary
-   (`regions`: socal | baja — `waters`: bay-harbor | nearshore-coast | island
-   | bank | open-ocean). If the bundled profile's `range_nm` /
+   (`regions`: socal-bight | baja-pacific-north | baja-pacific-south |
+   cortez-north | cortez-south — `waters`: bay-harbor | nearshore-coast |
+   island | bank | open-ocean). If the bundled profile's `range_nm` /
    `sea_state_max_ft` are null, **ask** rather than assuming. Then read the
    matching `resources/knowledge/locations/` notes for the structure being
    fished.

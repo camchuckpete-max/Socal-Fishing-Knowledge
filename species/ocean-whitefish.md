@@ -3,7 +3,7 @@ type: species
 tags: [ocean-whitefish, tilefish, channel-islands, hard-bottom, bottomfish, variety, baja, ensenada]
 sources: [6-8KfjEg0x8, O5aQkex0qGg, Y1xeieQI3B4, CKq0Z6ExVs4]
 confidence: medium
-regions: [socal, baja]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bank, island]
 ---
 

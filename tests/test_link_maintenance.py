@@ -113,7 +113,7 @@ GATED_FM = ("---\ntype: species\ntags: [x]\nsources: [cameron]\n"
 
 def test_region_gating_accepts_valid(tmp: Path) -> None:
     p = write(tmp, "ok.md", GATED_FM.format(
-        extra="regions: [socal, baja]\nwaters: [island, bank]\n"))
+        extra="regions: [socal-bight, cortez-north]\nwaters: [island, bank]\n"))
     check("valid gating passes", lm.region_problems(p), [])
 
 
@@ -126,7 +126,7 @@ def test_region_gating_requires_fields(tmp: Path) -> None:
 
 def test_region_gating_rejects_off_vocabulary(tmp: Path) -> None:
     p = write(tmp, "bad.md", GATED_FM.format(
-        extra="regions: [socal, atlantic]\nwaters: [island]\n"))
+        extra="regions: [socal-bight, atlantic]\nwaters: [island]\n"))
     probs = " ".join(lm.region_problems(p))
     check("off-vocabulary region rejected", "'atlantic'" in probs, True)
 
@@ -138,23 +138,24 @@ def test_region_gating_skips_ungated_types(tmp: Path) -> None:
     check("ungated type needs no region fields", lm.region_problems(p), [])
 
 
-def test_subregions_optional_but_validated(tmp: Path) -> None:
-    good = write(tmp, "sub_ok.md", GATED_FM.format(
-        extra="regions: [baja]\nsubregions: [bola]\nwaters: [island]\n"))
-    check("valid subregion passes", lm.region_problems(good), [])
-    bad = write(tmp, "sub_bad.md", GATED_FM.format(
-        extra="regions: [baja]\nsubregions: [narnia]\nwaters: [island]\n"))
-    check("off-vocabulary subregion rejected",
-          "'narnia'" in " ".join(lm.region_problems(bad)), True)
+def test_subregions_are_retired(tmp: Path) -> None:
+    """Assignment is at region level only (Cameron, 2026-08-17)."""
+    p = write(tmp, "sub.md", GATED_FM.format(
+        extra="regions: [cortez-north]\nsubregions: [bola]\nwaters: [island]\n"))
+    check("a leftover subregions field is reported",
+          "retired" in " ".join(lm.region_problems(p)), True)
 
 
 def test_region_badge(tmp: Path) -> None:
     baja = write(tmp, "b.md", GATED_FM.format(
-        extra="regions: [baja]\nwaters: [island]\n"))
+        extra="regions: [cortez-north, cortez-south]\nwaters: [island]\n"))
+    socal = write(tmp, "s.md", GATED_FM.format(
+        extra="regions: [socal-bight]\nwaters: [island]\n"))
     both = write(tmp, "d.md", GATED_FM.format(
-        extra="regions: [socal, baja]\nwaters: [island]\n"))
+        extra="regions: [socal-bight, baja-pacific-north]\nwaters: [island]\n"))
     check("Baja-only note is badged", lm.region_badge(baja), " **[Baja only]**")
-    check("dual-region note is not badged", lm.region_badge(both), "")
+    check("SoCal-only note is badged", lm.region_badge(socal), " **[SoCal only]**")
+    check("spanning note is not badged", lm.region_badge(both), "")
 
 
 def main() -> int:
@@ -170,7 +171,7 @@ def main() -> int:
                    test_region_gating_requires_fields,
                    test_region_gating_rejects_off_vocabulary,
                    test_region_gating_skips_ungated_types,
-                   test_subregions_optional_but_validated,
+                   test_subregions_are_retired,
                    test_region_badge):
             fn(tmp)
     if failures:

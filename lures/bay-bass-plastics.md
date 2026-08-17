@@ -3,7 +3,7 @@ type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
 sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
 ---
 

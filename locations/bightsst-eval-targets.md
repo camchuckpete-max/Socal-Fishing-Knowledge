@@ -3,7 +3,7 @@ type: location
 tags: [bightsst, eval-spots, upwelling, turnover, modeling]
 sources: [cameron]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

@@ -3,7 +3,7 @@ type: seasonal
 tags: [prior, bluefin, yellowtail, historical, advection, water-state]
 sources: [XLVUhV8DW64, cameron]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

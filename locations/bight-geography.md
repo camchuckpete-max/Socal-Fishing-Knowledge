@@ -3,7 +3,7 @@ type: location
 tags: [geography, wind-rollover, warm-band, paddies, bluefin, planning]
 sources: [HzE4FHHcvTk]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

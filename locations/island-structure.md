@@ -3,7 +3,7 @@ type: location
 tags: [islands, structure, current, fathom-curve, catalina-eddy, paddies]
 sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [island, bank]
 ---
 

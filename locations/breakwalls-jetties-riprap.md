@@ -3,7 +3,7 @@ type: location
 tags: [riprap, jetty, breakwall, structure, current, birds]
 sources: [bydQzE3F9yM, jTXIr9O6zYk]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [nearshore-coast, bay-harbor]
 ---
 

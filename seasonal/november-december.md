@@ -3,7 +3,7 @@ type: seasonal
 tags: [late-fall, winter, bluefin, lingcod, rockfish, swordfish, santa-ana, bass]
 sources: [Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8, xzIaUEDklrE]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

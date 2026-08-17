@@ -3,7 +3,7 @@ type: rig
 tags: [assist-hook, jig-rigging, knife-jig, slow-pitch, speed-jig, swivel, terminal-tackle]
 sources: [U4zifdssSes, unARAuTgF_A]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 

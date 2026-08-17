@@ -70,11 +70,12 @@ EXCLUDE_DIRS = {
 # {regions, waters} envelope before routing, so a missing or mistyped value is a
 # correctness bug, not a style nit — it is what let a Mission Bay plan reach a
 # Sea-of-Cortez-only species. Adding a term means editing locations/regions.md.
-REGIONS = {"socal", "baja"}
-SUBREGIONS = {
-    "bight-coast", "channel-islands", "catalina", "san-clemente", "coronados",
-    "offshore-banks", "outer-banks", "northern-baja", "ensenada",
-    "baja-pacific", "sea-of-cortez", "bola", "san-felipe", "loreto", "cabo",
+REGIONS = {
+    "socal-bight",          # Point Conception to the US border
+    "baja-pacific-north",   # US border to the BC/BCS line at 28N
+    "baja-pacific-south",   # 28N round to Cabo San Lucas
+    "cortez-north",         # Sea of Cortez above 28N (San Felipe, BOLA, Midriff)
+    "cortez-south",         # Sea of Cortez below 28N (Loreto, La Paz, East Cape)
 }
 WATERS = {"bay-harbor", "nearshore-coast", "island", "bank", "open-ocean"}
 GATED_TYPES = {"species", "technique", "lure", "rig", "location", "seasonal",
@@ -193,12 +194,14 @@ def region_problems(path: Path) -> list[str]:
     found = {k: [x.strip() for x in v.split(",") if x.strip()]
              for k, v in FM_LIST_RE.findall(text)}
     problems = []
-    for key, vocab in (("regions", REGIONS), ("waters", WATERS),
-                       ("subregions", SUBREGIONS)):
+    if "subregions" in found:
+        problems.append(
+            "`subregions:` is retired — assignment is at region level only; "
+            "fold the value into `regions`")
+    for key, vocab in (("regions", REGIONS), ("waters", WATERS)):
         vals = found.get(key)
         if vals is None:
-            if key != "subregions":          # subregions is optional
-                problems.append(f"missing `{key}:` (type {m.group(1)})")
+            problems.append(f"missing `{key}:` (type {m.group(1)})")
             continue
         if not vals:
             problems.append(f"`{key}:` is empty")
@@ -224,10 +227,12 @@ def region_badge(path: Path) -> str:
         return ""
     found = dict(FM_LIST_RE.findall(text))
     regions = {x.strip() for x in found.get("regions", "").split(",") if x.strip()}
-    if regions == {"baja"}:
-        return " **[Baja only]**"
-    if regions == {"socal"}:
+    if not regions:
+        return ""
+    if regions == {"socal-bight"}:
         return " **[SoCal only]**"
+    if "socal-bight" not in regions:
+        return " **[Baja only]**"
     return ""
 
 

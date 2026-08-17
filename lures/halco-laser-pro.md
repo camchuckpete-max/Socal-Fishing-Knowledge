@@ -3,7 +3,7 @@ type: lure
 tags: [halco, laser-pro, diver, tuna, trolling, offshore]
 sources: [cameron]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean, bank]
 ---
 

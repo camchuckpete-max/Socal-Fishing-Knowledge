@@ -3,7 +3,7 @@ type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
 sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
 ---
 

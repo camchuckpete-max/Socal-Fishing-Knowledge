@@ -3,7 +3,7 @@ type: rig
 tags: [tuna-feather, trolling, offshore, skirt, leader]
 sources: [CWVPLM6NheY]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean, bank]
 ---
 

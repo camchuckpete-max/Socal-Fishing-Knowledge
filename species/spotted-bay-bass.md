@@ -3,8 +3,7 @@ type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
 sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI]
 confidence: high
-regions: [socal]
-subregions: [bight-coast]
+regions: [socal-bight]
 waters: [bay-harbor]
 ---
 

@@ -3,7 +3,7 @@ type: rig
 tags: [bluefin, kite-fishing, live-bait, crimped-leader]
 sources: [UrEymGvZx00, nQvJnfb5jQ4]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean, bank]
 ---
 

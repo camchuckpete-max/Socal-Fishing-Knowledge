@@ -3,7 +3,7 @@ type: technique
 tags: [ned-rig, finesse, spotted-bay-bass, bays, mushroom-head, trd]
 sources: [um5MAeCjNDg, 6L8nIFeqvkw]
 confidence: medium
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
 ---
 

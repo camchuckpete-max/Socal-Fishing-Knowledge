@@ -3,7 +3,7 @@ type: technique
 tags: [swordfish, deep-drop, daytime, dsl, offshore]
 sources: [yMiBtZ7k8-w, KuVwmfF6RAo]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean]
 ---
 

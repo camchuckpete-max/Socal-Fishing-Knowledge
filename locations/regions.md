@@ -3,7 +3,7 @@ type: location
 tags: [regions, vocabulary, gating, day-plan, baja, socal]
 sources: [cameron]
 confidence: high
-regions: [socal, baja]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
@@ -18,15 +18,14 @@ that makes resolution a lookup instead of a judgment call.
 
 ## Why this exists
 
-The knowledgebase covers two fisheries that share a coastline and almost
-nothing else. Cabrilla live in the Sea of Cortez; calico bass live in both
-SoCal and Baja; spotted bay bass live in SoCal bays. Before these fields
-existed, nothing in the KB could tell those three cases apart. Notes carried
-a `baja` **tag**, but that tag meant "this note contains Baja content" — not
-"this fish only lives in Baja" — so it over-selected (nine dual-region
-species carried it) and under-selected (thirty notes with substantial Baja
-content didn't). `socal` appeared as a tag exactly once in the whole
-repository.
+The knowledgebase covers fisheries that share a coastline and not much else.
+Cabrilla live in the Sea of Cortez; calico bass live from the Bight down the
+Pacific side of Baja; spotted bay bass live in SoCal bays. Before these
+fields existed, nothing in the KB could tell those cases apart. Notes carried
+a `baja` **tag**, but it meant "this note contains Baja content" — not "this
+fish only lives in Baja" — so it over-selected (nine dual-region species
+carried it) and under-selected (thirty notes with substantial Baja content
+didn't). `socal` appeared as a tag exactly once in the whole repository.
 
 The concrete failure that motivated this: a day plan for a Mission Bay jetty
 could route to [cabrilla](../species/cabrilla.md), whose situation table opens
@@ -34,66 +33,51 @@ with "low light, tight to shoreline structure → jerkbaits, cast tight to the
 rock." That reads perfectly for a SoCal jetty at dawn. The fish is 400 miles
 away.
 
-## `regions` — the safety gate
+## `regions` — five broad areas
 
-**Two terms, deliberately.** A coarse gate is one you cannot get subtly wrong,
-and this is the field that prevents the failure above.
+**Broad areas, not spots** (Cameron, 2026-08-17). Species and techniques are
+assigned at this level. Spot-level grain is deliberately *not* modelled — a
+finer tier can be added later if something actually needs it, and adding it
+prematurely would mean re-deciding every note against boundaries nobody
+fishes by.
+
+The north/south split is the **Baja California / Baja California Sur state
+line at 28°N** — a real, checkable boundary rather than a vibe.
 
 | term | covers |
 | --- | --- |
-| `socal` | The Southern California Bight — Point Conception south to the border, including the Channel Islands, Catalina, San Clemente, the offshore banks, and the outer banks (Tanner, Cortez). |
-| `baja` | Mexican waters — the Pacific side from Ensenada south, and the whole Sea of Cortez. |
+| `socal-bight` | The Southern California Bight — Point Conception to the US border, including the Channel Islands, Catalina, San Clemente, the nearshore banks and the outer banks (Tanner, Cortez Bank) |
+| `baja-pacific-north` | Pacific side, US border to 28°N — Ensenada, Punta Banda, Santo Tomás, Colonet, San Quintín, Cedros, the San Benitos, Guadalupe |
+| `baja-pacific-south` | Pacific side below 28°N — Bahía Asunción, Magdalena Bay, Alijos Rocks, round to Cabo San Lucas |
+| `cortez-north` | Sea of Cortez above 28°N — San Felipe, Gonzaga, Bahía de los Ángeles, the Midriff islands |
+| `cortez-south` | Sea of Cortez below 28°N — Loreto, La Paz, the East Cape |
 
 A note lists **every region it applies to**. "Only in" needs no separate
 field — it is set membership:
 
 ```yaml
-regions: [baja]           # species/cabrilla.md — excluded from a socal trip
-regions: [socal, baja]    # species/calico-bass.md — survives either filter
-regions: [socal]          # locations/bays-and-harbors.md
+regions: [cortez-north, cortez-south]              # species/cabrilla.md
+regions: [socal-bight, baja-pacific-north]         # species/white-seabass.md
+regions: [socal-bight]                             # species/spotted-bay-bass.md
 ```
 
-## `subregions` — trip-planning grain
-
-Optional, and never the gate. Use it when a note's content really is
-specific to one place; omit it when the note applies region-wide.
-
-| term | covers |
-| --- | --- |
-| `bight-coast` | Mainland coast, Point Conception to the border |
-| `channel-islands` | Santa Cruz, Santa Rosa, San Miguel, Anacapa, Santa Barbara Island |
-| `catalina` | Santa Catalina Island |
-| `san-clemente` | San Clemente Island and its ridges |
-| `coronados` | Coronado Islands |
-| `offshore-banks` | The nearer SD/LA banks — 9 Mile, 14 Mile, 43, 302, 371 |
-| `outer-banks` | Tanner and Cortez — overnight-run offshore high spots |
-| `northern-baja` | The border south to Punta Banda |
-| `ensenada` | Ensenada and its immediate grounds |
-| `baja-pacific` | Pacific-side Baja below Ensenada — Colonet, San Quintín, Cedros, San Benito, Guadalupe, Alijos, Mag Bay |
-| `sea-of-cortez` | The Cortez side generally, where a note isn't specific to one bay |
-| `bola` | Bahía de los Ángeles |
-| `san-felipe` | San Felipe and the northern Midriff — the mothership panga fishery |
-| `loreto` | Loreto and Puerto Escondido — a different species mix from BOLA, ~250 mi south |
-| `cabo` | Cabo San Lucas and the East Cape |
-
-**BOLA, San Felipe, and Loreto are three different places.** They get
-separate terms because their seasons and species differ, and because a
-mothership trip out of San Felipe is not a panga day out of Bahía. A video
-titled "Bahía de los Ángeles" that opens "aboard the Tony Reyes out of San
-Felipe" is a San Felipe video.
+**Why the Cortez is split from the Pacific rather than lumped as "Baja":**
+they are different oceans as far as the fish are concerned. Cabrilla and
+pargo are Cortez; white seabass and calico run the Pacific side. A single
+`baja` term would have let a Cedros trip offer a Sea-of-Cortez program.
 
 ## `waters` — the structure axis
 
 What kind of water the note applies to. This is the axis `regions` cannot
-cover: it stops a Cortez Bank tactic surfacing for a bay trip, and both are
-`socal`.
+cover: it stops an offshore-bank tactic surfacing for a bay trip, and both
+can be `socal-bight`.
 
 | term | covers |
 | --- | --- |
 | `bay-harbor` | Inside bays and harbours — San Diego Bay, Mission Bay, Alamitos, Newport, Huntington Harbour |
-| `nearshore-coast` | The coastal strip — kelp lines, breakwalls, jetties, riprap, coastal reef, surf-adjacent structure |
+| `nearshore-coast` | The coastal strip — kelp lines, breakwalls, jetties, riprap, coastal reef |
 | `island` | Island shorelines, boiler rocks, island ridges and their kelp |
-| `bank` | Offshore high spots and hard bottom fished from a boat over structure |
+| `bank` | Offshore high spots and hard bottom fished over structure |
 | `open-ocean` | Blue water with no bottom relationship — paddies, foamers, the troll, the DSL |
 
 A note may list several. A species that lives on the coast and at the islands
@@ -111,14 +95,15 @@ out-of-region.
 ## Rules
 
 - **Every** note of type `species`, `technique`, `lure`, `rig`, `location`,
-  `seasonal`, or `bait` carries `regions` and `waters`.
+  `seasonal`, `bait`, or `decision` carries `regions` and `waters`.
   `scripts/link-maintenance.py` exits nonzero if one is missing or uses a term
   that isn't on these lists — so the backfill can't rot.
 - Terms are **closed**. Adding one means editing this note first.
 - A Baja limit differing from a CDFW limit is **two jurisdictions, not a
   conflict** — see [regulatory claims](../sources/regulatory-claims.md).
 - These fields describe **where the knowledge applies**, not where the video
-  was filmed. A Cabo-filmed video teaching a universal knot is `[socal, baja]`.
+  was filmed. A Cabo-filmed video teaching a universal knot applies
+  everywhere.
 
 <!-- backlinks:start -->
 ## Linked from

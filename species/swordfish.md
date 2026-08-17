@@ -3,7 +3,7 @@ type: species
 tags: [swordfish, broadbill, deep-drop, dsl, offshore, daytime]
 sources: [yMiBtZ7k8-w, KuVwmfF6RAo, cameron]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [open-ocean]
 ---
 

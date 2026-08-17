@@ -3,7 +3,7 @@ type: location
 tags: [bays, harbors, eelgrass, docks, riprap, tide, structure]
 sources: [YgqXf9iICyg, AxLlx2Ug-rs, usHl-4SfqDA]
 confidence: high
-regions: [socal]
+regions: [socal-bight]
 waters: [bay-harbor]
 ---
 

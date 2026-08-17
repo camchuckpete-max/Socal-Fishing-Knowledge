@@ -3,7 +3,7 @@ type: lure
 tags: [jerkbait, hardbait, cabrilla, baja, sea-of-cortez]
 sources: [EmZO8QiOfik]
 confidence: medium
-regions: [socal, baja]
+regions: [cortez-north, cortez-south]
 waters: [nearshore-coast, island]
 ---
 
