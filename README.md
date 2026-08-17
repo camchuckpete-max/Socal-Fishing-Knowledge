@@ -39,6 +39,14 @@ and conditions from there.
 | [skills/](skills/) | The boat-day skill (built from KB notes + a profile) |
 | [scripts/](scripts/) | `link-maintenance.py`, `build-skill-resources.py` |
 
+## Browse it as a wiki
+
+[`wiki/index.html`](wiki/index.html) is a single self-contained page carrying
+every note, with full-text search, a branch sidebar and per-note outlines —
+open it from disk or host it anywhere. Regenerate it with
+`python scripts/build-wiki.py` after content changes; see
+[`wiki/README.md`](wiki/README.md).
+
 ## Conventions
 
 Native GitHub markdown — relative links only (no wikilinks), YAML front matter

@@ -1,0 +1,79 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bight Fishing Wiki</title>
+<script>
+/* Hosts that wrap this file in their own document may not set a viewport;
+   without one phones lay the page out at 980px and zoom out. */
+(function () {
+  if (document.querySelector('meta[name="viewport"]')) return;
+  var m = document.createElement("meta");
+  m.name = "viewport";
+  m.content = "width=device-width, initial-scale=1";
+  (document.head || document.documentElement).appendChild(m);
+})();
+</script>
+<style>
+/*__FONTS__*/
+/*__STYLE__*/
+</style>
+
+<div class="app">
+  <header class="topbar">
+    <button class="iconbtn navtoggle" id="nav-toggle" aria-label="Open navigation" aria-expanded="false">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14"/></svg>
+    </button>
+
+    <a class="brand" href="#/">
+      <svg class="brand-mark" viewBox="0 0 28 28" aria-hidden="true">
+        <circle cx="14" cy="14" r="12.4" class="bm-ring"/>
+        <path class="bm-line" d="M2.6 16.4c2.6-2.4 5.1-2.4 7.7 0s5.1 2.4 7.7 0 5.1-2.4 7.7 0"/>
+        <path class="bm-line" d="M4.4 21c2.2-2 4.3-2 6.5 0s4.3 2 6.5 0 4.3-2 6.5 0"/>
+        <path class="bm-hook" d="M14 4.2v7.2a3.3 3.3 0 0 1-6.6 0"/>
+      </svg>
+      <span class="brand-text"><b>Bight</b><span>Fishing Wiki</span></span>
+    </a>
+
+    <button class="searchtrigger" id="search-open">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="9" cy="9" r="5.6"/><path d="M13.2 13.2 17.5 17.5"/></svg>
+      <span class="searchtrigger-label">Search every note</span>
+      <kbd class="kbd">/</kbd>
+    </button>
+
+    <div class="topbar-end">
+      <a class="iconbtn" id="repo-link" href="#" target="_blank" rel="noopener" aria-label="Open the repository on GitHub" title="Repository on GitHub">
+        <svg viewBox="0 0 20 20" aria-hidden="true" class="ico-fill"><path d="M10 .8a9.2 9.2 0 0 0-2.9 17.9c.46.08.63-.2.63-.44v-1.7c-2.56.56-3.1-1.09-3.1-1.09-.42-1.06-1.02-1.35-1.02-1.35-.84-.57.06-.56.06-.56.92.07 1.41.95 1.41.95.82 1.41 2.16 1 2.69.77.08-.6.32-1 .58-1.24-2.04-.23-4.19-1.02-4.19-4.55 0-1 .36-1.83.95-2.47-.1-.23-.41-1.17.09-2.44 0 0 .77-.25 2.53.94a8.7 8.7 0 0 1 4.6 0c1.76-1.19 2.53-.94 2.53-.94.5 1.27.19 2.21.09 2.44.6.64.95 1.46.95 2.47 0 3.54-2.15 4.31-4.2 4.54.33.28.62.84.62 1.7v2.51c0 .24.17.53.64.44A9.2 9.2 0 0 0 10 .8Z"/></svg>
+      </a>
+      <button class="iconbtn" id="theme-toggle" aria-label="Switch colour theme" title="Switch colour theme">
+        <svg viewBox="0 0 20 20" aria-hidden="true" class="ico-sun"><circle cx="10" cy="10" r="3.9"/><path d="M10 1.6v2.2M10 16.2v2.2M18.4 10h-2.2M3.8 10H1.6M15.9 4.1l-1.6 1.6M5.7 14.3l-1.6 1.6M15.9 15.9l-1.6-1.6M5.7 5.7 4.1 4.1"/></svg>
+        <svg viewBox="0 0 20 20" aria-hidden="true" class="ico-moon"><path d="M16.6 12.4A7.1 7.1 0 0 1 7.6 3.4a7.1 7.1 0 1 0 9 9Z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav class="sidebar" id="sidebar" aria-label="Knowledgebase sections"></nav>
+  <div class="scrim" id="scrim" hidden></div>
+  <main class="main" id="main" tabindex="-1"></main>
+</div>
+
+<div class="searchlayer" id="search-layer" hidden>
+  <div class="searchpanel" role="dialog" aria-modal="true" aria-label="Search the knowledgebase">
+    <div class="searchhead">
+      <svg viewBox="0 0 20 20" aria-hidden="true" class="searchhead-ico"><circle cx="9" cy="9" r="5.6"/><path d="M13.2 13.2 17.5 17.5"/></svg>
+      <input id="search-input" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Search 159 notes &mdash; species, technique, tag, depth&hellip;" aria-label="Search query">
+      <button class="searchclose" id="search-close" aria-label="Close search"><kbd class="kbd">esc</kbd></button>
+    </div>
+    <div class="searchmeta" id="search-meta"></div>
+    <div class="searchresults" id="search-results" role="listbox" aria-label="Search results"></div>
+    <div class="searchfoot">
+      <span><kbd class="kbd">&uarr;</kbd><kbd class="kbd">&darr;</kbd> move</span>
+      <span><kbd class="kbd">&crarr;</kbd> open</span>
+      <span><kbd class="kbd">tag:</kbd> <kbd class="kbd">type:</kbd> <kbd class="kbd">in:</kbd> filter</span>
+    </div>
+  </div>
+</div>
+
+<script type="application/json" id="kb-data">__DATA__</script>
+<script>
+/*__SCRIPT__*/
+</script>

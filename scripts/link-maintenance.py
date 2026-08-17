@@ -63,6 +63,8 @@ EXCLUDE_DIRS = {
     ROOT / ".git",
     ROOT / "sources" / "transcripts",
     ROOT / "skills" / "boat-day" / "resources",  # generated skill bundle
+    ROOT / "wiki",     # generated wiki UI (build-wiki.py output + its README)
+    ROOT / "scripts",  # tooling docs, not notes
 }
 
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
