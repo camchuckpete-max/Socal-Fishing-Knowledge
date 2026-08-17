@@ -580,6 +580,7 @@ a bluefin).
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

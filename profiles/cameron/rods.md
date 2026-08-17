@@ -84,6 +84,7 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Trolling](../../species/bluefin-trolling.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](tackle.md)
 - [Flyline](../../techniques/flyline.md)
