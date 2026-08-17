@@ -8,7 +8,7 @@
 - [Bluefin Trolling](bluefin-trolling.md) — The decision spin-out for bluefin tuna: which trolled or towed presentation to pull, and when, by wind, fish grade, water, and sea state.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin are SoCal's premier big-game target — a multi-year-resident fishery that runs from sub-30 lb schoolies to 300 lb+ cows in the same season.
 - [Pacific Bonito](bonito.md) — A schooling nearshore pelagic that runs in fast, hard-charging packs on the bait, boiling on the surface and firing up everything around it.
-- [Cabrilla (Leopard Grouper)](cabrilla.md) — (leopard grouper) are a structure-ambush fish: they sit tight to rock and reef and get pulled off it with a fast, reaction-triggering retrieve rather than a soa
+- [Cabrilla (Leopard Grouper)](cabrilla.md) — Region: Baja — Sea of Cortez / Bay of LA (BOLA), panga fishery.
 - [Calico Bass (Kelp Bass)](calico-bass.md) — The signature SoCal inshore ambush predator: a kelp- and reef-dweller that sits on a defined structure edge and eats what the current sweeps past it.
 - [California Halibut](california-halibut.md) — A flatfish you catch by out-thinking the sand, not by covering it.
 - [California Spiny Lobster](california-spiny-lobster.md) — SoCal's "bug" fishery — caught recreationally by hoop netting rocky structure and kelp edges at night during the fall–winter season.
@@ -24,7 +24,7 @@
 - [Swordfish (Broadbill)](swordfish.md) — SoCal daytime deep-drop swordfish: find deep contour structure where the deep scattering layer holds bait, then present a dead bait in/below the layer and let t
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna — 8–10 lb up to 40–50 lb, with 15–25 lb the average grade.
-- [Yellowtail](yellowtail.md) — SoCal/Baja yellowtail are a structure-and-bait fish that show three faces:
+- [Yellowtail](yellowtail.md) — SoCal/Baja yellowtail are a structure-and-bait fish that show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and botto
 <!-- index:end -->
 
 
@@ -55,38 +55,29 @@ graph LR
   n19["Yellowfin Tuna"]
   n20["Yellowtail"]
   n0 --> n11
-  n0 --> n20
   n0 --> n3
   n0 --> n5
   n1 --> n2
-  n10 --> n13
-  n10 --> n19
-  n11 --> n0
   n11 --> n13
-  n11 --> n19
   n11 --> n2
   n11 --> n20
   n11 --> n3
   n11 --> n9
-  n12 --> n15
   n12 --> n5
   n13 --> n10
   n13 --> n11
   n13 --> n2
-  n13 --> n20
   n13 --> n9
   n14 --> n16
   n14 --> n19
   n14 --> n2
   n15 --> n12
   n15 --> n5
-  n16 --> n14
   n16 --> n19
   n18 --> n20
   n18 --> n6
   n19 --> n10
   n19 --> n11
-  n19 --> n14
   n19 --> n16
   n19 --> n2
   n19 --> n20
@@ -121,14 +112,11 @@ graph LR
   n5 --> n6
   n6 --> n18
   n6 --> n20
-  n6 --> n5
   n6 --> n8
   n8 --> n19
   n8 --> n2
   n8 --> n20
   n8 --> n6
   n9 --> n11
-  n9 --> n13
-  n9 --> n20
 ```
 <!-- mermaid:end -->

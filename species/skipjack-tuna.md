@@ -92,23 +92,6 @@ but hard-charging, they'll eat almost anything moving.
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
-- [Cedar Plug](../lures/cedar-plug.md)
-- [Current Diagnostics](../conditions/current-diagnostics.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
-- [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [September](../seasonal/september.md)
-- [Striped Marlin](striped-marlin.md)
-- [Trolling](../techniques/trolling.md)
-- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
-- [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
-- [Yellowfin Tuna](yellowfin-tuna.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

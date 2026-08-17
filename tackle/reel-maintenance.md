@@ -65,6 +65,5 @@ or a compressed drag going into storage.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Knife Jigs](../lures/knife-jigs.md)
-- [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+_Nothing links here yet._
 <!-- backlinks:end -->

@@ -324,7 +324,6 @@ in **Linked from**.
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
-- [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](../lures/knife-jigs.md)
@@ -333,5 +332,4 @@ in **Linked from**.
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Surface Iron](surface-iron.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
-- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

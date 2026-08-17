@@ -77,16 +77,9 @@ See [water color](../conditions/water-color.md) and
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
-- [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Island Structure](../locations/island-structure.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
-- [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

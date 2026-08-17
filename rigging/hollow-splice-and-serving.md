@@ -60,6 +60,5 @@ and [serve a fluorocarbon leader into hollow core](https://www.youtube.com/watch
 <!-- backlinks:start -->
 ## Linked from
 
-- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
-- [Wind-On Leader](wind-on-leader.md)
+_Nothing links here yet._
 <!-- backlinks:end -->

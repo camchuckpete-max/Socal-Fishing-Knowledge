@@ -121,14 +121,21 @@ def summary_of(path: Path) -> str:
     para: list[str] = []
     for line in text.splitlines():
         s = line.strip()
+        # NB: bullet markers are "- " / "* " WITH the trailing space. Testing a
+        # bare "*" also swallowed a "**Bold lead:** ..." opening line, which is
+        # how several notes state the thing that most needs to reach the index —
+        # the region on species/cabrilla.md, the regime on every seasonal note,
+        # the flagged-stub warning on techniques/bait-and-switch.md. A lone "-"
+        # or "*" on its own line is a thematic break, still skipped.
         skip = (
             not s
             or s.startswith("#")
             or s.startswith("<!--")
             or s.startswith(">")
             or s.startswith("|")
-            or s.startswith("-")
-            or s.startswith("*")
+            or s.startswith("- ")
+            or s.startswith("* ")
+            or s in ("-", "*", "---", "***")
             or s.startswith("```")
         )
         if para and (not s or skip):
@@ -155,10 +162,27 @@ def strip_code(text: str) -> str:
     return INLINE_CODE_RE.sub("", text)
 
 
+def strip_backlinks_block(text: str) -> str:
+    """Remove the generated '## Linked from' block.
+
+    Its entries are links to the notes that link *here* — the reverse of an
+    outbound reference. Parsing them as outbound made every backlink breed a
+    reciprocal one: 557 of 1729 backlink entries (32%) existed only for that
+    reason, and the resulting writes into guard-protected paths reverted four
+    otherwise-clean batch-2 extractions. Validation still covers these links,
+    because the block is regenerated from real links and never hand-edited.
+    """
+    si, ei = text.find(BACKLINK_START), text.find(BACKLINK_END)
+    if si != -1 and ei != -1 and ei > si:
+        return text[:si] + text[ei + len(BACKLINK_END):]
+    return text
+
+
 def parse_links(path: Path):
     """Yield (link_text, file_part, raw_target) for each relative link.
-    Code blocks and inline code spans are stripped first."""
-    text = strip_code(path.read_text(encoding="utf-8"))
+    Code blocks, inline code spans, and the generated backlinks block are
+    stripped first."""
+    text = strip_backlinks_block(strip_code(path.read_text(encoding="utf-8")))
     for m in LINK_RE.finditer(text):
         text_part, target = m.group(1), m.group(2).strip()
         # strip optional title:  path "Title"

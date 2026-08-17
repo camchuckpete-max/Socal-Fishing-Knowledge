@@ -242,21 +242,10 @@ circle-hook rig detail logged in
 ## Linked from
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
-- [Bird Reading](../conditions/bird-reading.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Island Structure](../locations/island-structure.md)
 - [October](../seasonal/october.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
-- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
-- [Water Regimes](../conditions/water-regimes.md)
-- [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

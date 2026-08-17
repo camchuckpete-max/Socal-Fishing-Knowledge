@@ -56,11 +56,9 @@ applies in miniature to the riprap edges inside
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bays and Harbors](bays-and-harbors.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
-- [Current Structure](../conditions/current-structure.md)
 - [February–March](../seasonal/february-march.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

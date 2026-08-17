@@ -195,14 +195,9 @@ free of the release clip so it can swim back to structure.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dropper Loop](dropper-loop.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [Sliding Sinker](sliding-sinker.md)
-- [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 <!-- backlinks:end -->

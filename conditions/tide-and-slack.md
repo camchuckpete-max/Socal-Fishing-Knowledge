@@ -113,7 +113,6 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [Current Diagnostics](current-diagnostics.md)
-- [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Moon](moon.md)

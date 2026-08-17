@@ -487,7 +487,6 @@ for that lure class rather than for the classic surface-iron blank.
 ## Linked from
 
 - [<Your> Rods](../profiles/_template/rods.md)
-- [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
@@ -496,11 +495,8 @@ for that lure class rather than for the classic surface-iron blank.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
-- [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
-- [Knife / Speed Jigging](knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)

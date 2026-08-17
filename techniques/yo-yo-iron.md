@@ -364,10 +364,8 @@ the reverse map in **Linked from** below.
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
-- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
-- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dropper Loop](dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

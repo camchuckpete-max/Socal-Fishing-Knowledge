@@ -64,10 +64,7 @@ and [the strongest braid-to-fluoro wind-on](https://www.youtube.com/watch?v=zkSK
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Essential SoCal Knots](essential-knots.md)
-- [Flyline](../techniques/flyline.md)
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md)
-- [Kite Fishing](../techniques/kite-fishing.md)
-- [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Striped Marlin](../species/striped-marlin.md)

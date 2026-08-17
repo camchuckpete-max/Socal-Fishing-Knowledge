@@ -80,10 +80,8 @@ Fold the output of this note back into the
 - [August](../seasonal/august.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [June–July](../seasonal/june-july.md)
-- [Moon](../conditions/moon.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
-- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

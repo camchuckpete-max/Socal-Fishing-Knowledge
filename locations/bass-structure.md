@@ -65,10 +65,7 @@ current-over-structure mechanism ties it together in
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
-- [Current Diagnostics](../conditions/current-diagnostics.md)
-- [Current Structure](../conditions/current-structure.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Pacific Bonito](../species/bonito.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

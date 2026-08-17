@@ -71,18 +71,12 @@ the fleet behavior correctly before you run to it. See
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bight Geography](../locations/bight-geography.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Striped Marlin](../species/striped-marlin.md)
-- [Swordfish (Broadbill)](../species/swordfish.md)
-- [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)

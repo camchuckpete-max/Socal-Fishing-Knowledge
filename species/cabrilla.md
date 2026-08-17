@@ -124,12 +124,8 @@ meter them." General method:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

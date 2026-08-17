@@ -264,8 +264,6 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
-- [Flyline](../techniques/flyline.md)
-- [Foamer Casting](../techniques/foamer-casting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

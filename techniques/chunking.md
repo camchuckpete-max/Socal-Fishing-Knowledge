@@ -270,13 +270,9 @@ fish around the boat once you're on them.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bait Tanks](../bait/bait-tanks.md)
-- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)

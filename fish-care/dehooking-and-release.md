@@ -63,5 +63,4 @@ given other implausible on-camera claims.
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
-- [Sculpin (Venomous Spine) Handling](sculpin-handling.md)
 <!-- backlinks:end -->

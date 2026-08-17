@@ -361,7 +361,6 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
-- [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

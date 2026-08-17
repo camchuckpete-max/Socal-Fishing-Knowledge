@@ -8,12 +8,12 @@
 - [Cedar Plug](cedar-plug.md) — The cedar plug is a plain weighted-nose wood cylinder — no bib, no rattle — that has caught tuna in SoCal/Baja for generations.
 - [DTX Minnow](dtx-minnow.md) — The Nomad DTX Minnow is a mid-depth trolling swimmer that gets down and holds a tight action across a wide speed band — a swimmer whose action dies on heavy lin
 - [Halco Laser Pro](halco-laser-pro.md) — The Halco Laser Pro is a bibbed trolling minnow — the deep-diving XDD bib version dives hard for its size.
-- [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side
-- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) — baits burned fast on a cast-and-wind retrieve for cabrilla (leopard grouper) working shoreline and submerged rock structure.
+- [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
+- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) — Region: Baja — Sea of Cortez / Bay of LA.
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
-- [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it
+- [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle
 - [Spreader Bar](spreader-bar.md) — A spreader bar is a rigid horizontal bar carrying a teaser school of hookless squids or birds with one stinger lure trailing on the center line — it presents as
 - [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md) — Feathers and soft skirts are the West Coast trolling staple — a weighted or bullet head trailing a skirt over a hook, presenting as a small squid or bait.
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md) — The SoCal tuna surface-plug class: hard baits you cast into breaking tuna and work on top.
@@ -42,23 +42,13 @@ graph LR
   n10 --> n7
   n11 --> n7
   n12 --> n4
-  n12 --> n6
   n12 --> n9
   n2 --> n7
   n3 --> n7
   n4 --> n12
-  n4 --> n5
   n4 --> n6
   n5 --> n4
   n6 --> n12
-  n6 --> n4
-  n7 --> n1
-  n7 --> n10
-  n7 --> n11
-  n7 --> n2
-  n7 --> n3
-  n7 --> n8
   n8 --> n7
-  n9 --> n12
 ```
 <!-- mermaid:end -->

@@ -62,13 +62,8 @@ squid on the meter before you write the spot off.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Sea State](../conditions/sea-state.md)
-- [Tide and Slack](../conditions/tide-and-slack.md)
-- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

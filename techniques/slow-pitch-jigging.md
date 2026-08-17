@@ -149,9 +149,7 @@ terms until it lands.
 ## Linked from
 
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
-- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
-- [Dropper Loop](dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)

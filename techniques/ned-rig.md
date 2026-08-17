@@ -117,7 +117,6 @@ Light bay finesse / spinning class — see
 ## Linked from
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
-- [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

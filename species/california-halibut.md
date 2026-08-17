@@ -187,27 +187,19 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 <!-- backlinks:start -->
 ## Linked from
 
-- [April](../seasonal/april.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Island Structure](../locations/island-structure.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)
-- [Water Color](../conditions/water-color.md)
-- [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](white-seabass.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

@@ -102,6 +102,4 @@ SoCal source — kept region-labeled rather than treated as filling them.
 
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trolling](trolling.md)
-- [Wind-On Leader](../rigging/wind-on-leader.md)
-- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

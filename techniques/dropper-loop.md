@@ -293,10 +293,8 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [California Halibut](../species/california-halibut.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
@@ -306,8 +304,6 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [September](../seasonal/september.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
-- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
-- [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->

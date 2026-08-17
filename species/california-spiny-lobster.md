@@ -134,14 +134,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bays and Harbors](../locations/bays-and-harbors.md)
-- [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
-- [Island Structure](../locations/island-structure.md)
 - [Moon](../conditions/moon.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

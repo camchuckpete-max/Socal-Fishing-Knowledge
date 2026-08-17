@@ -119,16 +119,8 @@ glassing](../planning/search-and-glassing.md),
 ## Linked from
 
 - [Bluefin Tuna](bluefin-tuna.md)
-- [Chunking](../techniques/chunking.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Ocean Whitefish](ocean-whitefish.md)
-- [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowtail](yellowtail.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

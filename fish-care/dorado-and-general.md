@@ -74,6 +74,4 @@ StokedOnFishing, 2019-06-06):
 ## Linked from
 
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
-- [Gaffing — Sizing and the Shot](gaffing.md)
-- [Tuna Care](tuna-care.md)
 <!-- backlinks:end -->

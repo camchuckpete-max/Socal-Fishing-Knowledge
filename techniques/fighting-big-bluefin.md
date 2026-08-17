@@ -467,7 +467,6 @@ under-gunned-for-the-grade situation.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
 - [Striped Marlin](../species/striped-marlin.md)

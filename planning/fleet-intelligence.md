@@ -116,7 +116,5 @@ directly observed, not a broadcast claim that can be faked.
 ## Linked from
 
 - [Day-Plan Protocol](day-plan-protocol.md)
-- [Electronics and Sounder](electronics-and-sounder.md)
-- [Making Bait](../bait/making-bait.md)
 - [Search and Glassing](search-and-glassing.md)
 <!-- backlinks:end -->

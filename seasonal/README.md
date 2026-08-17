@@ -11,15 +11,15 @@ into May — plan from the regime note and the live water, not the calendar.
 <!-- index:start -->
 ## Index
 
-- [April](april.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [August](august.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [February–March](february-march.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [June–July](june-july.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [May](may.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [November–December](november-december.md) — upwelling onset — typical-year mapping; in an anomalous year trust the live water, not the calendar.
-- [October](october.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [September](september.md) — mapping; in an anomalous year trust the live water, not the calendar.
-- [Year-Anniversary Prior](year-anniversary-prior.md) — where to *start looking*, to be refined the moment you pull live BightSST conditions.
+- [April](april.md) — Regime: warming transition — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [August](august.md) — Regime: warm stable (peak) — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [February–March](february-march.md) — Regime: winter / upwelling — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [June–July](june-july.md) — Regime: warm stable (early) — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [May](may.md) — Regime: warming transition — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [November–December](november-december.md) — Regime: fall fragmentation → winter / upwelling onset — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [October](october.md) — Regime: fall fragmentation — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [September](september.md) — Regime: warm stable (late) — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [Year-Anniversary Prior](year-anniversary-prior.md) — This is a prior — a pattern-layer heuristic, not current intel.
 <!-- index:end -->
 
 

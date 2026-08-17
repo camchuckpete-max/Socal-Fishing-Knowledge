@@ -29,10 +29,5 @@ class note; the plan recommends from your box. Class terms:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bay Bass Plastics](../../lures/bay-bass-plastics.md)
-- [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
-- [Iron Jigs](../../lures/iron-jigs.md)
-- [Knife Jigs](../../lures/knife-jigs.md)
-- [Soft-Plastic Swimbaits](../../lures/soft-plastic-swimbaits.md)
-- [Tuna Poppers and Stickbaits](../../lures/tuna-poppers-and-stickbaits.md)
+_Nothing links here yet._
 <!-- backlinks:end -->

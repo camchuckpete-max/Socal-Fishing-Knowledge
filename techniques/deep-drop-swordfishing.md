@@ -91,8 +91,6 @@ for the Bight.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
-- [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

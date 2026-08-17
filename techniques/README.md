@@ -4,7 +4,7 @@
 <!-- index:start -->
 ## Index
 
-- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live
+- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live dropback mackerel in the SoCal tan
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
@@ -15,7 +15,7 @@
 - [Hoop Netting](hoop-netting.md) — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
 - [Inshore Crankbaits](inshore-crankbaits.md) — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
-- [Knife / Speed Jigging](knife-jigging.md) — baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
+- [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
 - [Ned Rig](ned-rig.md) — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
 - [Sliding Sinker](sliding-sinker.md) — Execution for the sliding-sinker (Carolina) rig: the weight rides free on the main line above a swivel, and a leader runs from the swivel to the hook, so a fish
@@ -55,28 +55,19 @@ graph LR
   n19["Trolling"]
   n20["Yo-Yo Iron"]
   n0 --> n19
-  n1 --> n18
-  n1 --> n19
   n10 --> n16
   n10 --> n5
   n11 --> n15
-  n11 --> n17
-  n11 --> n6
   n13 --> n14
   n13 --> n15
   n13 --> n4
-  n14 --> n13
   n14 --> n17
   n14 --> n4
-  n14 --> n6
   n15 --> n11
-  n15 --> n13
   n15 --> n4
   n16 --> n10
   n16 --> n19
   n17 --> n11
-  n17 --> n14
-  n17 --> n19
   n17 --> n20
   n17 --> n7
   n18 --> n1
@@ -89,18 +80,11 @@ graph LR
   n19 --> n5
   n19 --> n6
   n20 --> n17
-  n20 --> n18
-  n20 --> n19
-  n20 --> n4
   n4 --> n13
   n4 --> n14
-  n4 --> n15
   n4 --> n20
   n5 --> n10
-  n5 --> n19
   n6 --> n11
   n6 --> n14
-  n6 --> n19
-  n7 --> n17
 ```
 <!-- mermaid:end -->

@@ -172,24 +172,16 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 <!-- backlinks:start -->
 ## Linked from
 
-- [Barred Sand Bass](sand-bass.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Drop Shot](../techniques/drop-shot.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [February–March](../seasonal/february-march.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
-- [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Swimbaits](../techniques/swimbaits.md)
-- [Tide and Slack](../conditions/tide-and-slack.md)
-- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

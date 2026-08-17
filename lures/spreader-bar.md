@@ -88,6 +88,5 @@ season on bars** — so the bar-specific tuning above is attributed-experimental
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Mad Mac](mad-mac.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

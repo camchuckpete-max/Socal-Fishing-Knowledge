@@ -123,7 +123,6 @@ terms above; see [Cameron's tackle](../profiles/cameron/tackle.md).
 ## Linked from
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
-- [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)

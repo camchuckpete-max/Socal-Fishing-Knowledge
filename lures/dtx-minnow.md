@@ -43,6 +43,5 @@ and its rod/holder pairing are in
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Mad Mac](mad-mac.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

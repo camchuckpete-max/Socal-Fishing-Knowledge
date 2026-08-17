@@ -26,14 +26,9 @@ graph LR
   n4["Break Walls, Jetties and Riprap"]
   n5["Island Structure"]
   n6["Zone Lexicon"]
-  n0 --> n6
   n1 --> n4
   n2 --> n5
-  n2 --> n6
-  n3 --> n6
   n4 --> n1
-  n5 --> n2
-  n5 --> n6
   n6 --> n0
   n6 --> n2
   n6 --> n3

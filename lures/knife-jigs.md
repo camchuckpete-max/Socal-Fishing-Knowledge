@@ -291,8 +291,6 @@ rigging from class terms above until it lands; see
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
-- [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](iron-jigs.md)
@@ -300,6 +298,5 @@ rigging from class terms above until it lands; see
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
-- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

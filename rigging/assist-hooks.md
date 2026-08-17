@@ -239,7 +239,5 @@ How-to videos: [tying assist hooks, single and double, on the water](https://www
 ## Linked from
 
 - [Iron Jigs](../lures/iron-jigs.md)
-- [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
-- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 <!-- backlinks:end -->

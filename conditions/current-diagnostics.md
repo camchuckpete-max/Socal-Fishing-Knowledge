@@ -85,8 +85,6 @@ framework this SoCal-bight note otherwise focuses on.
 - [Bass Structure](../locations/bass-structure.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Current Structure](current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Island Structure](../locations/island-structure.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea State](sea-state.md)

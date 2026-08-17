@@ -449,19 +449,13 @@ and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [California Barracuda](../species/barracuda.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
-- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
-- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
-- [Wind-On Leader](wind-on-leader.md)
 <!-- backlinks:end -->

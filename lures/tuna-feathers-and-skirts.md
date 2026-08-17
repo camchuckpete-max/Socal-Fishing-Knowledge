@@ -71,13 +71,10 @@ dual-skirts (kept unopened) are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Mad Mac](mad-mac.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
-- [Trolling](../techniques/trolling.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

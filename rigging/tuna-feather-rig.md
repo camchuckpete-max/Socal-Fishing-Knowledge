@@ -50,6 +50,5 @@ Video: https://www.youtube.com/watch?v=CWVPLM6NheY
 <!-- backlinks:start -->
 ## Linked from
 
-- [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

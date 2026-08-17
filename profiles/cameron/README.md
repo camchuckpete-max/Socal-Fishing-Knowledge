@@ -39,10 +39,7 @@ graph LR
   n3["Cameron's Tackle — Hard Baits, Casting & Jigging (owned)"]
   n4["Cameron's Trolling Lures (owned)"]
   n0 --> n1
-  n0 --> n2
   n0 --> n4
-  n1 --> n0
-  n1 --> n3
   n2 --> n0
   n3 --> n1
   n4 --> n0

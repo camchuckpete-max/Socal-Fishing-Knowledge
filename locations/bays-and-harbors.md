@@ -77,8 +77,6 @@ mechanism is in
 - [Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
-- [Current Structure](../conditions/current-structure.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
-- [Tide and Slack](../conditions/tide-and-slack.md)
 <!-- backlinks:end -->

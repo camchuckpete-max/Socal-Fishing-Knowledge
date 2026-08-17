@@ -108,7 +108,5 @@ from [cabrilla](../species/cabrilla.md).
 
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Iron Jigs](iron-jigs.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

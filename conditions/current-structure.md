@@ -241,7 +241,6 @@ become primary).
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

@@ -327,6 +327,4 @@ gear) are also on the species note.
 ## Linked from
 
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 <!-- backlinks:end -->

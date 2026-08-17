@@ -7,7 +7,7 @@
 - [Assist Hooks — Sizing, Cord, and Tying](assist-hooks.md) — How to build and resize an assist hook trackside or on the water: matching hook size to a jig, choosing cord stiffness for the jig style, and tying a single (to
 - [Bluefin Bite Leaders](bite-leaders.md) — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — described as the most critical part of a bluefin knife-jig setu
 - [Double Trouble Rig](double-trouble-rig.md) — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
-- [Essential SoCal Knots](essential-knots.md) — The short list of knots that cover a SoCal sport-boat or private-boat day:
+- [Essential SoCal Knots](essential-knots.md) — The short list of knots that cover a SoCal sport-boat or private-boat day: terminal knots that tie line to a hook or lure (Palomar, San Diego jam, loop knot), a
 - [FG Knot & Albright Knot](fg-and-albright.md) — Two braid-to-leader connection knots that solve different problems.
 - [Flying Fish Harness](flying-fish-harness.md) — The pre-rigged flying fish (dead natural, netted or sabiki-caught, or an artificial) used off the kite for large local Pacific bluefin.
 - [Haywire Twist](haywire-twist.md) — The connection used to terminate single-strand wire leader — to a lure or a hook — for toothy fish that cut through even heavy mono.
@@ -38,8 +38,6 @@ graph LR
   n10["Trap Rig"]
   n11["Tuna Feather Rig"]
   n12["Wind-On Leader"]
-  n12 --> n3
-  n12 --> n7
   n3 --> n12
   n3 --> n9
   n7 --> n12

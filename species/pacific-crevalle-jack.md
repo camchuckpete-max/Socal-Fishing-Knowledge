@@ -108,21 +108,8 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [California Sheephead](sheephead.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Iron Jigs](../lures/iron-jigs.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [September](../seasonal/september.md)
-- [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
-- [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

@@ -96,15 +96,9 @@ the fish won't be on the surface. See
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Island Structure](../locations/island-structure.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](../conditions/sea-state.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 <!-- backlinks:end -->

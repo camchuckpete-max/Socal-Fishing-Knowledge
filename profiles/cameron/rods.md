@@ -84,20 +84,11 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Trolling](../../species/bluefin-trolling.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](tackle.md)
-- [Flyline](../../techniques/flyline.md)
-- [Foamer Casting](../../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
-- [Kite Fishing](../../techniques/kite-fishing.md)
-- [Knife / Speed Jigging](../../techniques/knife-jigging.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
-- [Slow-Pitch Jigging (SPJ)](../../techniques/slow-pitch-jigging.md)
-- [Spreader Bar](../../lures/spreader-bar.md)
-- [Surface Iron](../../techniques/surface-iron.md)
 - [Swordfish (Broadbill)](../../species/swordfish.md)
 - [Yellowtail](../../species/yellowtail.md)
-- [Yo-Yo Iron](../../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

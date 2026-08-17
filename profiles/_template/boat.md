@@ -34,8 +34,5 @@ you know; leave the rest blank.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bait Tanks](../../bait/bait-tanks.md)
-- [Day-Plan Protocol](../../planning/day-plan-protocol.md)
-- [Trolling](../../techniques/trolling.md)
-- [Tuna Care](../../fish-care/tuna-care.md)
+_Nothing links here yet._
 <!-- backlinks:end -->
