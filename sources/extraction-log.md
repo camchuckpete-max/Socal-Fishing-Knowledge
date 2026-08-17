@@ -1751,3 +1751,51 @@ Zero neighbouring citations were touched.
 strength of the registry alone. The repeated-doctrine requirement was applied
 as written, so most of this batch's promotions will only pay off when Phase 6's
 seminars and Tackle Express supply corroborating sources.
+
+### `jared-saaib` promoted, attribution held open (2026-08-17)
+
+Cameron identified **Jared Saaib** as Strictly Irons' main voice and promoted
+him — *"another local legend for surface iron fishing."* The registry row is
+added. **The attribution mapping is deliberately NOT applied yet**, and the
+reason is evidence, not caution for its own sake.
+
+**What the corpus shows.** "Jared" appears in six Strictly Irons transcripts.
+In **every instance the speaker is addressing Jared or referring to him in the
+third person** — never introducing himself:
+
+| video | line |
+| --- | --- |
+| `gdqI2dNd5_U` | *"hey jared we've been up here on this one"* |
+| `2cxeg_AE418` | *"sorry Jared they're biting"* / *"Jared come here take this one"* |
+| `_MygUHw19q8` | *"gosh Jared I just finished my meeting"* |
+| `P36VGPPf120` | *"We got Rafa. We got Jared. We got Jeff."* — crew roll-call the narrator excludes himself from |
+| `P36VGPPf120` | *"I called Jared. I was like, 'Jared…'"* |
+| `EuTVPVY9lAs` | *"it wasn't Jared's like idea to call it the Righteous"* |
+
+The `EuTVPVY9lAs` narrator is unambiguously the **brand owner** — he narrates
+naming his own jig — and that last line is the only genuinely two-way one: it
+reads either as *he is not Jared*, or as *he is Jared, disclaiming credit in
+the third person*, which is a normal move in a testimony-style vlog. The other
+five are hard to read as self-reference. No transcript contains a
+self-introduction.
+
+**Most likely reconciliation:** the camera changes hands on a multi-angler
+boat, so "the channel's main voice" and "the narrator of this clip" need not be
+the same person. That would make Cameron's identification correct *and* the
+transcript evidence correct, while leaving per-clip attribution unresolved.
+
+**Held open rather than guessed.** Blanket-crediting Strictly Irons narration
+to a named real person on a channel where the narrator repeatedly addresses
+that person by name is a worse error than leaving ratings at `medium`. The
+on-the-water blocks in `techniques/surface-iron.md`,
+`techniques/surface-iron-casting.md`, `locations/cedros-island.md`,
+`species/yellowtail.md`, and `species/calico-bass.md` therefore stay attributed
+to the channel at `medium` pending Cameron's call.
+
+**This is the same failure class as the Ensenada retraction earlier in this
+batch** — supplying a plausible identity the source does not state. There it
+was a place; here it would be a person. The Phase 5 rule already drafted for
+places ("a location may only be named in a note if it is named in the source")
+should be **generalised to named people**: attribute to a person only where the
+source identifies the speaker, or where Cameron has resolved the mapping
+explicitly and that resolution is recorded here.

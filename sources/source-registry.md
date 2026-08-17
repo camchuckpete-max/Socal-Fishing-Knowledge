@@ -25,7 +25,8 @@ to trust, it does not change note attribution.
 | `capt-scotty-brothers` | Capt. Scotty (Brothers Sportfishing, La Jolla) | via Roman Castro (VpW91AKOFVQ surface iron; _ZThckj2TIM rockfish/weak-link dropper loop) | named La Jolla captain | promoted by Cameron 2026-08-12; repeated technique doctrine taught on camera |
 | `cesar` | Cesar — surname not in corpus; captions render "Caesar from Phoenix rods" (fill in surname when verifiable from video descriptions) | Dirty Hookers (F7jLrt2j2X8, 48ZFXnCTTQE seminars; U4zifdssSes, unARAuTgF_A assist hooks; EmZO8QiOfik cabrilla; M8hOYQ_6rSg Sea of Cortez tackle) | rod-company rep; 25+ yrs Sea of Cortez cabrilla | promoted by Cameron 2026-08-12 WITH CAVEAT: rod-company rep — mechanism/parameter doctrine qualifies for `high` when repeated; product/model endorsements remain `low` per the sponsored-claim rule |
 | `crust-to-coast` | Crust to Coast (undergrad "Geology 5" oceanography lecture series; lecturer unnamed in captions) | Crust to Coast (UC4lyFLgi-ZqANz1m-zb2zrw) | oceanographic mechanism source | MECHANISM SOURCE ONLY (frame proposed 2026-08-13, approved with the batch-2 plan): eligible `high` for oceanographic mechanism feeding `conditions/` notes (upwelling/ENSO, tides, water column, nearshore processes, food web); NEVER fishing doctrine; NO Observed blocks |
-| `dan-wade` | Dan Wade (also "Danny Wade" on some titles) | Strictly Irons (`Ec2GaNpiOHI`, `764kFzACKTc`); Fishing Syndicate (`yn1suHH6b1Y`) | surface iron — 60+ yrs on the jig; 68 lb PB on the surface iron at Guadalupe on 40 lb | promoted by Cameron 2026-08-17 — *"a local legend for surface iron fishing."* **Scope note: this registers the man, not the channel.** Strictly Irons' own host is a different, unregistered voice — his on-the-water Coronados/Cedros material still caps at `medium` |
+| `dan-wade` | Dan Wade (also "Danny Wade" on some titles) | Strictly Irons (`Ec2GaNpiOHI`, `764kFzACKTc`); Fishing Syndicate (`yn1suHH6b1Y`) | surface iron — 60+ yrs on the jig; 68 lb PB on the surface iron at Guadalupe on 40 lb | promoted by Cameron 2026-08-17 — *"a local legend for surface iron fishing."* **Scope note: this registers the man, not the channel.** Wade appears as a named guest in the two tutorial videos above; the channel's other speakers are covered by `jared-saaib` or unregistered — see the speaker-identification caveat on that row |
+| `jared-saaib` | Jared Saaib | Strictly Irons | surface iron — channel's main voice | promoted by Cameron 2026-08-17 — *"another local legend for surface iron fishing."* **⚠ SPEAKER IDENTIFICATION IS UNRESOLVED IN THE CORPUS — see the caveat below before attributing anything to this row.** |
 | `roman-castro` | Roman Castro | Roman Castro (`EGKesj7V64M`, `6L8nIFeqvkw`, `G6YRT4HNxr8`, `Qs9oEsh3b_w`) | SoCal inshore — bay bass, swimbaits/plastics, knots, spearfishing-informed structure reads | promoted by Cameron 2026-08-17 — *"very knowledgeable."* Reverses the 2026-08-12 decision not to promote. Note this is **separate from** `capt-scotty-brothers`, who Castro films and who was already registered — the "Scotty via Roman Castro" citations were already `high` on Scotty's row; this row covers Castro's **own** doctrine |
 | `ray-sharifi` | Ray Sharifi | Dirty Hookers (co-host; same channel as `cesar`) | Baja / Sea of Cortez — panga and long-range trips, terminal tackle, jigs | promoted by Cameron 2026-08-17 **WITH A REGION SCOPE**, reversing the 2026-08-12 decision: *"knows his stuff in SoCal, but I'd consider him an expert for Baja."* Eligible for `high` on **Baja doctrine** (`baja-pacific-north`, `baja-pacific-south`, `cortez-north`, `cortez-south`) when repeated; **SoCal-bight claims cap at `medium`** regardless of repetition. Product/model endorsements stay `low` per the sponsored-claim rule, as with the other Dirty Hookers voices |
 
@@ -58,9 +59,34 @@ rated, not the note** — label each block, the way the mixed-confidence blocks
 already work elsewhere.
 
 **Registering a person does not register their channel.** `dan-wade` and
-`nate-winnicki` both sit on channels whose other voices are unregistered
-(Strictly Irons' host; BDOutdoors guests). Same rule as the BDOutdoors channel
+`nate-winnicki` both sit on channels whose other voices may be unregistered
+(BDOutdoors guests; Strictly Irons crew). Same rule as the BDOutdoors channel
 note above: check who is actually talking.
+
+**⚠ Speaker-identification caveat — `jared-saaib` (open, 2026-08-17).**
+Cameron identifies Jared Saaib as Strictly Irons' main voice and promoted him
+on that basis. **The corpus does not currently let us confirm which speaker is
+which**, and until it does, on-the-water Strictly Irons blocks stay attributed
+to the channel at `medium` rather than being credited to this row.
+
+The problem: the name "Jared" appears in six Strictly Irons transcripts, and in
+every instance the speaker is **addressing Jared or discussing him in the third
+person** — *"hey Jared, we've been up here on this one"* (`gdqI2dNd5_U`);
+*"Jared, come here, take this one"* (`2cxeg_AE418`); *"We got Rafa. We got
+Jared. We got Jeff."* — a crew roll-call the narrator does not include himself
+in (`P36VGPPf120`); *"I called Jared…"* (same). The narrator of `EuTVPVY9lAs`
+is unambiguously the **brand owner** (he describes naming his own jig), and
+says *"it wasn't Jared's idea to call it the Righteous"* — which reads either
+as *he is not Jared*, or as *he is Jared, disclaiming credit in the third
+person*. No transcript contains a self-introduction.
+
+The likely reconciliation is that **the camera changes hands** on a
+multi-angler boat, so the channel's main voice and the narrator of any given
+clip need not be the same person. Resolving this needs an external check
+(channel about-page, video descriptions) or Cameron's direct call on which
+speaker is which. **Do not blanket-credit Strictly Irons narration to this row
+until then** — misattributing doctrine to a named real person is a worse error
+than leaving a rating at `medium`.
 
 
 <!-- This file intentionally carries no auto-generated backlinks section: it is a
