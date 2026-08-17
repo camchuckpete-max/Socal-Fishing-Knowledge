@@ -293,6 +293,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

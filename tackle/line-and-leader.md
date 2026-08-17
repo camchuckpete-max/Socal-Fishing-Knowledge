@@ -276,6 +276,7 @@ able to break off** (aXF0bxAFtU0):
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

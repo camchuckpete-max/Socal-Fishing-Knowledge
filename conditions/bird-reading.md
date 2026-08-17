@@ -136,6 +136,7 @@ shearwater doctrine (7/21/22) — merge it in as the missing piece:
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kelp Paddies](kelp-paddies.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

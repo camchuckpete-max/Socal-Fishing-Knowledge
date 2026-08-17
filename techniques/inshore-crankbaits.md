@@ -78,5 +78,6 @@ crank if you don't have the 10 (GVP3IChsmRQ).
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

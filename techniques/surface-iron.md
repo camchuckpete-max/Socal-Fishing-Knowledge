@@ -504,6 +504,7 @@ for that lure class rather than for the classic surface-iron blank.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Trolling](trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

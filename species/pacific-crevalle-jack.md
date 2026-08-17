@@ -110,6 +110,7 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [California Sheephead](sheephead.md)
 - [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)

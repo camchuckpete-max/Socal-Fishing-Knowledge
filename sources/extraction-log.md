@@ -1428,3 +1428,57 @@ backlink). The 21 evaluator escalations split as:
   at batch 1. Halibut is thinner than it looks — the Fred Hall "Halibut
   Secrets" seminar in the batch-3 corpus has no caption track in any
   language.
+
+## Batch 3 — Phase 3 landing (BOLA + Strictly Irons), 2026-08-17
+
+Supervised, not through the unattended chain (see the batch-3 plan, Decision
+5): these corpora are multi-video synthesis units and the per-video machine
+cannot hold two transcripts at once.
+
+**Landed:** 50 transcripts + 7 failed accountability rows from two zips
+(`cameron-peterson--bola`, `strictly-irons--channel`). Manifests normalized
+from the 8-column export schema (`video_id,title,url,status,caption_type,
+caption_lang,filename,failure_reason`) to the repo's 7-column schema;
+`channel` and `upload_date` taken from each transcript's YAML header.
+
+**Not landed — already in the corpus (4):** `dEPuDrhoClM`, `EmZO8QiOfik`,
+`M8hOYQ_6rSg` (Dirty Hookers), `ntQXxcH5sjI` (StokedOnFishing). All four are
+Cortez-relevant and are cited by the new location notes from their existing
+copies. **Cross-zip duplicate (1):** `P36VGPPf120` appears in both the BOLA
+and Strictly Irons zips — landed once under `strictly-irons/`.
+
+### Notes created
+
+| note | sources | what it closes |
+| --- | --- | --- |
+| `locations/bahia-de-los-angeles.md` | `P36VGPPf120`, `odiIWmut6gM`, + cameron | The whole BOLA trip: season table, the Mexican paperwork the KB had **zero** of (FMM, CONAPESCA licence, Baja Bound insurance), the 8-hour route leg by leg, costs ($800–1,000 pp / 4 days; panga $550/day), lodging, operators, comms blackout, and how a fishing day runs |
+| `locations/sea-of-cortez.md` | the 9-episode Tony Reyes series + `M8hOYQ_6rSg`, `dEPuDrhoClM`, `_Wb4z4ammoM`, `A6s-A1NARuA` | The San Felipe mothership trip as a distinct fishery — overnight relocations, the 12–15 ft crossing, what happens when pangas can't launch, 6 ft water driving 80 lb line, the jerkbait pause-at-the-rock trigger |
+| `locations/loreto.md` | 5 Loreto trip videos | The southern Cortez island fishery — Monserrat/Carmen/Six Mile Reef, roosterfish on the troll, fly-in access via CBX |
+
+### Findings worth recording
+
+1. **Independent corroboration of a cameron data point.** `P36VGPPf120`
+   arrives at the same BOLA read Cameron did — as summer water heats the fish
+   sound, you lose the surface bite and go to dropper loop / live bait / yo-yo
+   / knife jigs. That was a single-angler observation in
+   `seasonal/september.md`; it now has a second, independent source with the
+   same stated mechanism.
+2. **Baja corroboration of the surface-iron hookset.** `ZYAILGyrkRk` on
+   cabrilla: *"don't swing, just wind — it's a surface iron."* Same
+   wind-through-not-swing doctrine as the SoCal sources, in a different region
+   on a different species. A trade-off comes with it: the same angler switched
+   off iron because "surface iron recovery is so bad" on a fast shallow bite.
+3. **The San Felipe / BOLA title problem is real but subtler than triage
+   suggested.** `4Dn7yChmhk0` is titled "Bahía de Los Ángeles" and narrates
+   "aboard the Tony Reyes out of San Felipe" — *and* the same narrator calls
+   the grounds "Bay of LA." Since the mothership relocates 8–9 hours at a time,
+   both labels can be partly true. Recorded as a naming caution with a rule
+   (treat as San Felipe unless the grounds are named on camera) rather than as
+   a flat mislabel.
+4. **Wax Wing appears** (`ZYAILGyrkRk`, "gotten bit every cast") but on Baja
+   cabrilla, not SoCal calico — so the `⚠ Wax Wing` flagged stubs in
+   `calico-bass.md` and `inshore-crankbaits.md` **stand**.
+5. **A date I could not establish** was removed rather than guessed:
+   `odiIWmut6gM` gives day-of-month only on camera ("the 22nd", "Wednesday the
+   24th") against a 2026-07-02 upload, so the trip month is recorded as
+   unestablished.

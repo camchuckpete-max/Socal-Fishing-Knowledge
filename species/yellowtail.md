@@ -1312,6 +1312,7 @@ water temp and bait depth before committing the day to one face.
 ## Linked from
 
 - [April](../seasonal/april.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
@@ -1334,6 +1335,7 @@ water temp and bait depth before committing the day to one face.
 - [Pacific Bonito](bonito.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Sea of Cortez](../locations/sea-of-cortez.md)
 - [September](../seasonal/september.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
