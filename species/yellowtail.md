@@ -702,7 +702,7 @@ typical-year mapping.
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips
   spool a **40 lb line-class floor** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
-  2022-09 trip-prep walkthrough; medium confidence, unregistered channel). See
+  2022-09 trip-prep walkthrough; `ray-sharifi` registered (Baja-scoped) — medium confidence). See
   [line & leader](../tackle/line-and-leader.md) for the full class breakdown.
   **Observed** (StokedOnFishing, 2012-08-10, Cedros Island, Baja —
   `xIUKmH9ccgQ`, "Cedros Outdoor Adventures"; earliest-dated Cedros Outdoor

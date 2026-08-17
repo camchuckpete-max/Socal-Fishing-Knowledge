@@ -40,7 +40,7 @@ Wire-through; upgrade rings/hooks for tuna grade.
 
 ### Feed Popper
 Chugging popper family in **120 mm** and **150 mm** sizes (Ray Sharifi, Dirty
-Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence).
+Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence).
 Popular enough that the bigger clear/near-clear 150 has repeatedly sold out.
 **Color read:** an **all-clear** finish noticeably out-fishes a
 pearl-white/near-clear finish in the same size — for reasons the source
@@ -87,8 +87,7 @@ may be the technique described, not confirmed. Full trip context in
 [bluefin tuna](../species/bluefin-tuna.md).
 
 **Daytime bluefin weight/leader data point (Ray Sharifi, Dirty Hookers,
-149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —
-medium confidence):** **40–50 lb leader** recommended for Colt Sniper on
+149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** **40–50 lb leader** recommended for Colt Sniper on
 daytime bluefin; personal preference for **60–80 g** (smaller bait
 presentation, matching bluefin keyed on smaller bait that week), **100 g**
 called a personal maximum, with other anglers on the boat getting bit up to
@@ -114,8 +113,8 @@ vertically. Two color reads: a realistic **Sardine** pattern (lime-green
 back) for a traditional look, or — when something less realistic is wanted —
 a pink-accented pattern locally nicknamed **"Katy Perry"** (blue back, silver
 middle, pink belly, or all-pink); both have produced well on yellowfin as of
-this 2023-09-02 video (Ray Sharifi, Dirty Hookers, gevNj2Y1Ep8; unregistered
-channel — medium confidence). **Retrieve speed/pause is
+this 2023-09-02 video (Ray Sharifi, Dirty Hookers, gevNj2Y1Ep8; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at
+medium confidence). **Retrieve speed/pause is
 trip-dependent** — some trips the fish want it burned fast, others want a big
 dead-stick with long pauses; read the bite each trip rather than assuming.
 
@@ -158,7 +157,7 @@ on an 8'6" rod rated **20–50 lb** (20–45 to 20–50) — enough leverage to 
 big yellowtail while still light enough to cast these plugs; a traditional
 9–10 ft [surface-iron](../techniques/surface-iron.md)-class rod with a
 conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
-2022-02-17; unregistered channel — medium confidence). No retrieve mechanics
+2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence). No retrieve mechanics
 beyond "cast at the boil" are given in this source; treat as a visual,
 high-action alternative to iron, not a documented distinct cadence.
 
@@ -174,8 +173,7 @@ was just so big on two hooks"). No retrieve-cadence detail beyond the
 cast-at-the-activity approach already logged above.
 
 **Also fished as a "burn bait" for tuna, not just yellowtail (Ray Sharifi,
-Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-confidence):** the same no-bill Colt Sniper stickbait and lipped Colt Sniper
+Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** the same no-bill Colt Sniper stickbait and lipped Colt Sniper
 jerkbait, plus **Yo-Zuri jerkbaits**, cross over to yellowfin/bluefin — cast
 and burn it straight in, or cast and skip it across the surface, whichever
 the fish key on that trip; both floating plugs fish the same way. The stock
@@ -187,8 +185,7 @@ are worth upgrading too.
 
 ### Daiwa Zakana and other sinking metal burn baits
 **Daiwa Zakana as a sinking metal jig, casting comparison (Ray Sharifi,
-Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-confidence):** similar profile to a Shimano Colt Sniper metal, but with
+Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** similar profile to a Shimano Colt Sniper metal, but with
 noticeably better stock hooks — fished hard, paint worn off from use, with
 no hook upgrade needed. Sinking metal jigs in this class (Zakana, Colt
 Sniper metal) run **60 g up to 80–100 g**, sized to what the bait wants
@@ -298,7 +295,7 @@ water column before working it.
 ## Casting gear for poppers and burn baits
 
 **One angler's setup (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02;
-unregistered channel — medium confidence):** a large spinning ("open-face")
+`ray-sharifi` registered, SoCal-capped — medium confidence):** a large spinning ("open-face")
 reel — no brand/model reliably carried from this source (asr-uncertain) —
 spooled with **65 lb braid to the top of the spool** and a short leader, used
 for casting poppers, smaller Colt Snipers, and jerkbaits. Rod: fishes a

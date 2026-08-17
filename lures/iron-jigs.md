@@ -53,7 +53,7 @@ Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
 **Kicker 25** (heavy — fished as a yo-yo iron on the same Cedros trips, also
 seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
-2022-09; medium confidence, unregistered channel).
+2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence).
 
 **"Wounded Warrior" — a named Tady 45 color pattern (Dave Hansen, Your
 Saltwater Guide, KLoEJInlmZo, 2021-03-23; dave-hansen is a registered voice —
@@ -123,10 +123,15 @@ built to be fished as a straight burn jig.
 ## Reading a jig — how to pick one that swims
 
 **Dan Wade** (Strictly Irons `Ec2GaNpiOHI` 2019, and the jig masterclass
-`yn1suHH6b1Y` 2026 via Fishing Syndicate). Not a registered channel, so
-`medium` per the rubric pending the registry pass — but this is the only
-systematic jig-*selection* doctrine in the corpus, and it is the layer beneath
-every model list above. **The whole test is: does it swim.** Every physical
+`yn1suHH6b1Y` 2026 via Fishing Syndicate). **`dan-wade` is a registered voice**
+([source registry](../sources/source-registry.md), promoted by Cameron
+2026-08-17). Confidence splits within this section: the **governing principle**
+— judge a jig by whether it swims, and carry a few genuinely different swims —
+is stated in **both** videos, so it is **`high`**; the **specific physical
+parameters** below (hip offset, hole placement, concave-vs-flat, nose shape)
+come from `Ec2GaNpiOHI` alone and sit at **`medium` pending repetition**, per
+the single-mention rule. This is the only systematic jig-*selection* doctrine
+in the corpus, and it is the layer beneath every model list above. **The whole test is: does it swim.** Every physical
 feature below is a proxy for that one question, and none of them overrides
 watching the jig in the water.
 

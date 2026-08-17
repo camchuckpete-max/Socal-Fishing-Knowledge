@@ -805,8 +805,7 @@ shot in [gaffing](../fish-care/gaffing.md).
   big-fish setup wants **400+ yd of line, 80 lb backing, 50–60 lb mono top-shot,
   and ~3 ft of fluoro** for abrasion and stretch.
   - **Daytime working numbers, one boat/trip (Ray Sharifi, Dirty Hookers,
-    149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —
-    medium confidence):** ~90% of daytime bites came on flyline, worked on a
+    149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** ~90% of daytime bites came on flyline, worked on a
     dedicated **25–30 lb fluorocarbon flyline stick** (a sponsored
     fluorocarbon brand is named in-video — treat that product claim as
     promotional/low, the **25–30 lb** line-test parameter itself as medium),
@@ -818,7 +817,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - **Terminal on everything deep:** a **200 lb bite leader class** — the most
   critical part of a bluefin setup ([bite leaders](../rigging/bite-leaders.md)).
 - **Not part of the tuna downsizing rule (Ray Sharifi, Dirty Hookers,
-  PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence):** unlike
+  PrdPJy26H8c, 2019-03-05; `ray-sharifi` registered, SoCal-capped — medium confidence):** unlike
   [skipjack and schoolie yellowfin](skipjack-tuna.md), bluefin gear doesn't
   get scaled down on a mixed tuna trip — grade is unpredictable trip to trip,
   so tackle stays sized for the biggest fish that could show up.

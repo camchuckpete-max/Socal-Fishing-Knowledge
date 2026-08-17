@@ -38,7 +38,7 @@ logic behind them.
   favored on the theory that the long shank keeps the hook from being sawed off
   and lands more fish (m2q22sPPkEM — one captain's belief, single mention).
 - **Why circle for bluefin specifically (Ray Sharifi, RfiC8sfIWTk, 2023-05-04;
-  unregistered channel — medium confidence):** a full-circle, slightly
+  `ray-sharifi` registered, SoCal-capped — medium confidence):** a full-circle, slightly
   **offset** point is described as seating the hook right in the **corner of
   the mouth**, which also keeps the leader off the tuna's teeth and away from
   a bite-off — the offset framed as the reason it holds up better there than
@@ -190,7 +190,7 @@ live-bait-specific doctrine.
 
 On a mixed-species offshore trip the practical call is **whatever's actually
 biting that day**, decided on the water (Ray Sharifi, Dirty Hookers;
-unregistered channel — medium confidence):
+`ray-sharifi` registered, SoCal-capped — medium confidence):
 
 - **Strictly tuna:** **size 4 circle hooks** (asr-uncertain: a hook-model name
   was spoken but garbled beyond confident reconstruction; not carried into
@@ -234,7 +234,7 @@ For a first bluefin trip: **1/0 or 2/0 circle hooks, not J hooks** — you want 
 hook set in the corner of the mouth (EyB98RuKfeQ), paired with a short fluoro
 leader (see [line & leader](line-and-leader.md)).
 
-### Owner Mutu circle hooks, sized by grade (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence)
+### Owner Mutu circle hooks, sized by grade (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at medium confidence)
 
 Names the brand behind a circle-hook-by-grade rule for flylined tuna: **Owner
 Mutu circle hooks**, sized to the line/grade pairing rather than one fixed
@@ -314,7 +314,7 @@ where the squid-strip entry above left it open ("any hook works"). See
   references a dedicated follow-up video on the mussel/treble-hook method
   that isn't part of this transcript.
 
-### SoCal yellowtail/offshore baseline rotation (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence)
+### SoCal yellowtail/offshore baseline rotation (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at medium confidence)
 
 The channel's earliest hook data point in this corpus, read as a general
 baseline rather than a per-trip call: **2/0 and size 1 are described as "the
@@ -326,7 +326,7 @@ carried as the step-up, reached for only when targeting **40+ lb fish**.
 ### Baja, Sea of Cortez sizing
 
 From a November 2022 Tony Reyes panga trip (Ray Sharifi, Dirty Hookers,
-dEPuDrhoClM, 2023-03-03; unregistered channel — medium confidence; region:
+dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered (Baja-scoped) — medium confidence; region:
 Baja, Sea of Cortez):
 
 - **Hardbait/jerkbait replacement trebles for cabrilla (leopard grouper):**

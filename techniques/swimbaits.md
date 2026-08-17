@@ -307,8 +307,8 @@ Another multi-bait rig, a step up from the two-bait three-way above: a
 wire "spider" harness (a **Recon Baits**-style A-rig) carrying several small
 swim jigs at once. Roman Castro's example ran **five** small anchovy-profile
 swim jigs, fished for [spotted bay bass](../species/spotted-bay-bass.md) in
-Mission Bay, San Diego (Roman Castro, G6YRT4HNxr8, 2018-04-17; unregistered
-channel — medium confidence).
+Mission Bay, San Diego (Roman Castro, G6YRT4HNxr8, 2018-04-17; `roman-castro` registered 2026-08-17, single mention —
+medium confidence).
 
 - **Bend the arms for an even spread:** the **short arms bend outward to the
   sides**, while the **longer arm(s) stay centered**, so the baits fan out

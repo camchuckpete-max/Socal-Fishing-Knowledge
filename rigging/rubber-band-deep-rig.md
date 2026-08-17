@@ -24,7 +24,7 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
   are marking deep rather than feeding at the surface and a naked flylined bait
   will not reach them.
 - **Decision trigger, corroborating (Ray Sharifi, Dirty Hookers, 42A8Owhc8fw,
-  2023-08-02; unregistered channel — medium confidence):** on the same trip
+  2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** on the same trip
   he'd otherwise be [casting metal at a foamer](../techniques/foamer-casting.md),
   he'll instead tie on an **80 lb fluorocarbon leader** and build this rig
   specifically when the boat comes onto a **metered school that isn't showing
@@ -52,7 +52,7 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
 
 ## Sinker and hook parameters (a second, independent source)
 
-- **Sinker (Ray Sharifi, RfiC8sfIWTk, 2023-05-04; unregistered channel —
+- **Sinker (Ray Sharifi, RfiC8sfIWTk, 2023-05-04; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at
   medium confidence):** a **size 4 round sinker**, primarily run at
   **4–6 oz** — **5 oz** is called the practical do-it-all middle, stepping to
   **6 oz, even 8 oz, in hard-ripping current**.
@@ -62,8 +62,7 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
   holding deep. One field-expedient option: strip the leader off a knife-jig
   outfit and re-rig it as the sinker-rig rod.
 - **Corroborating, ten days earlier, same channel (Ray Sharifi, Dirty
-  Hookers, 149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered
-  channel — medium confidence):** "sinker rig" fish on this trip were caught
+  Hookers, 149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** "sinker rig" fish on this trip were caught
   on **4 oz sinkers**, with **4–6 oz recommended** to carry (5 oz called the
   sweet spot, up to 6 oz or even 8 oz if the current gets "really really
   snotty") — matching the 4–6 oz / 5 oz-sweet-spot range above almost
@@ -77,7 +76,7 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
 
 ## Earliest instance — rod/reel pairing and season line-class note
 
-**Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel —
+**Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at
 medium confidence; predates the two sinker-rig citations above.** Names the
 technique the **"rubber band rig,"** for the same reason given above — the
 rubber band, not a knot, joins the sinker to the line above the leader

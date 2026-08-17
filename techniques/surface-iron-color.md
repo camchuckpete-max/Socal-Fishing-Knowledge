@@ -2,7 +2,7 @@
 type: technique
 tags: [surface-iron, color, jig-color, calico-bass, yellowtail, confidence]
 sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8]
-confidence: medium
+confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
 ---
@@ -19,7 +19,12 @@ one — a *negative* doctrine plus two narrow exceptions.
 
 **Dan Wade** (Strictly Irons, `Ec2GaNpiOHI` 2019 and `yn1suHH6b1Y` 2026 —
 two channels, seven years apart, same answer; 60+ years fishing iron, personal
-best 68 lb on the surface iron at Guadalupe on 40 lb line):
+best 68 lb on the surface iron at Guadalupe on 40 lb line). **`dan-wade` is a
+registered voice** ([source registry](../sources/source-registry.md), promoted
+by Cameron 2026-08-17), and this is **repeated** doctrine — same answer, two
+channels, seven years apart — so it qualifies for **`high`**. The
+confidence-colour reports collected further down are from other anglers and
+stay at their own ratings:
 
 > *"Does colour matter?" — "Only for you."*
 > *"I use colours that I can see. Lighter colour, white, yellow, mint."*
@@ -72,8 +77,7 @@ angler's stated confidence color for surface iron is **mint** — most of his
 easy-to-grab, most-trusted irons (including his top Tady 45s) run mint, and his
 father's easy-grab side runs holographic mint — with the framing that fishing
 whatever color you have full confidence in matters as much as the color itself
-(Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence,
-unregistered channel). Not generalized into doctrine — a single angler's
+(Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Not generalized into doctrine — a single angler's
 confidence-color report, not a repeated pattern.
 
 **Second Cedros/Gono data point (StokedOnFishing, 2015-01-20, Cedros Island,

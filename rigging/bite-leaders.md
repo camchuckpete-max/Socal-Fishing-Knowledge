@@ -30,7 +30,7 @@ system between the braid main line and the lure.
   [bluefin trolling](../species/bluefin-trolling.md) — the bite leader is the
   jig-fishing terminal, not a troll rig.
 - **Casting-metal variant, corroborating (Ray Sharifi, Dirty Hookers,
-  42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence):** when
+  42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** when
   [casting small heavy metal at a bluefin foamer](../techniques/foamer-casting.md),
   a short **~2 ft, 150–200 lb** bite leader is an optional confidence add over
   a bare top-shot-to-lure connection, not a requirement — length in range with

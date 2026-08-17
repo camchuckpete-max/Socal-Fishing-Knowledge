@@ -67,7 +67,7 @@ shows up.
 A second attributed five-setup breakdown, from a deckhand aboard the
 *Highliner* out of Seaforth Landing on a 1.5-day trip working kelp paddies and
 open water for tuna, dorado, and yellowtail, with nighttime knife-jigging for
-bluefin (Ray Sharifi, Dirty Hookers, 2023-09-02; unregistered channel —
+bluefin (Ray Sharifi, Dirty Hookers, 2023-09-02; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at
 medium confidence). Different specifics than the framework above; kept side
 by side rather than merged in:
 
@@ -95,7 +95,7 @@ by side rather than merged in:
   no crimp, no swivel (see [knife jigging](../techniques/knife-jigging.md) for
   why). Jigs **250–400 g**.
   - **Rod-stiffness feedback on this same rod (Ray Sharifi, -MP2RqJC7B0,
-    2023-05-23; unregistered channel — medium confidence; earlier trip on the
+    2023-05-23; `ray-sharifi` registered, SoCal-capped — medium confidence; earlier trip on the
     same setup, ~3.5 months before the write-up above):** the Black Diamond
     Hybrid runs **too stiff** for his liking on **40–50 lb-class bluefin** —
     it wants to stay straight and is hard to keep a consistent bend in through
@@ -111,7 +111,7 @@ but isn't required.
 ## A pre-trip tackle-bag update — foamer/rubber-band, surface iron, bass (42A8Owhc8fw)
 
 A third attributed setup breakdown from the same presenter (Ray Sharifi, Dirty
-Hookers, 42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence),
+Hookers, 42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence),
 about a month before the 1.5-day bag above, packed light for a full-day trip
 out of the Channel Islands sport-fishing fleet with foamer bluefin around and
 most boats not yet connecting on them. Kept side by side, not merged in:
@@ -216,8 +216,8 @@ frameworks above:
   **essentially locked** (star run to its stop) — reasoning that a cabrilla
   given an inch of line turns its head and starts taking line, so the
   drag should give nothing; the slow-bend rod (above) supplies the shock
-  absorption the locked drag doesn't. Co-host Ray Sharifi (unregistered
-  channel, medium confidence) instead runs the drag **backed off**, paired
+  absorption the locked drag doesn't. Co-host Ray Sharifi (`ray-sharifi` registered 2026-08-17 (**Baja-scoped**, so eligible to lift), single mention —
+  medium confidence) instead runs the drag **backed off**, paired
   with a faster-action rod. Both are attributed philosophies for the same
   fishery.
 - Carry a **spare spool of braid** (minimum one-shot 300 yd) and extra top

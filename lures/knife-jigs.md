@@ -61,14 +61,14 @@ behavior**:
     this boat that week.
   - **General SoCal yellowtail butterfly-jig box, not tied to a specific
     depth/current (Ray Sharifi, Dirty Hookers, A70kK2niu2Q, 2022-02-17;
-    unregistered channel — medium confidence):** a Shimano Flat-Fall-class
+    `ray-sharifi` registered (Baja-scoped) — medium confidence):** a Shimano Flat-Fall-class
     wing-fall jig in **100–160 g** as the personal-favorite (smaller) range,
     with **180–200 g** fished by his father, who prefers the heavier sizes —
     same rod as the yo-yo setup works for this, though slow-pitch-specific
     rods are called out as an increasingly common alternative on the West
     Coast.
 - **Additional weight/brand data points (Ray Sharifi, Dirty Hookers,
-  jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence):** a
+  jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** a
   favorite **Shimano flat-fall/butterfly jig at 200 g** (comes pre-rigged
   with assist hooks), sized down to **120–160 g** when fish want something
   smaller, or up to **300 g+** to punch down faster or size up. Also fishes
@@ -98,8 +98,7 @@ behavior**:
   jig. Not reconciled with the single-bottom-pair-no-top-hook doctrine above —
   both are fished in the fleet; see [knife jigging](../techniques/knife-jigging.md).
   - **Fourth attributed configuration, kept side by side (Ray Sharifi,
-    Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-    confidence):** the **second, unnamed ~200 g knife jig** logged above
+    Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** the **second, unnamed ~200 g knife jig** logged above
     (asr-uncertain maker) — not the 240 g Mustad, which the source describes
     and moves past before giving this rigging detail — run with **assist
     hooks up top (plural in the source; exact count not confirmable) plus
@@ -111,8 +110,7 @@ behavior**:
     reconciled with any of the above — flagged as a live conflict on hook
     count/placement, not a region difference (this trip fished US waters).
   - **Third attributed configuration, kept side by side (Ray Sharifi,
-    -MP2RqJC7B0, 2023-05-23, SoCal 1.5-day trip; unregistered channel — medium
-    confidence):** a **double 6/0 assist pair on top** + a **single 6/0 assist
+    -MP2RqJC7B0, 2023-05-23, SoCal 1.5-day trip; `ray-sharifi` registered, SoCal-capped — medium confidence):** a **double 6/0 assist pair on top** + a **single 6/0 assist
     on the bottom** — three hooks total, the inverse pairing from the
     single-top/double-bottom variant above and in tension with this note's
     "two hooks max in US waters" framing. This specific jig (a Rich Win 270 g
@@ -206,7 +204,7 @@ Which species and situation calls for each is routed from the species notes —
   yellows (more reflective in low light); bright, sunny, clear water → more
   chrome / flash.
 - **Match glow level to what's actually producing (Ray Sharifi, gevNj2Y1Ep8,
-  2023-09-02; unregistered channel — medium confidence):** keep a spread
+  2023-09-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** keep a spread
   across the glow range and read the bite rather than fishing one jig all
   trip — a heavier-glow pattern (e.g. an all-glow "cotton candy" color) when
   fish are keying on glow; a low-glow, high-flash silvery pattern when they
@@ -214,7 +212,7 @@ Which species and situation calls for each is routed from the species notes —
   polka-dot glow accents (his Sriracha-color jig) when they want the least UV
   signature.
 - **Two-hot-colors data point, ten days earlier (Ray Sharifi, Dirty Hookers,
-  149px8WQ2Ng, 2023-04-24; unregistered channel — medium confidence):** for
+  149px8WQ2Ng, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** for
   "these last two weekends in a row," **red** and **"Katy Perry"** (the same
   pink-accented nickname documented on the [RW Peanut](../lures/tuna-poppers-and-stickbaits.md)
   — the name spans lure classes, not one model) were the two most effective
@@ -223,7 +221,7 @@ Which species and situation calls for each is routed from the species notes —
   different, earlier trip on the same boat/channel; whatever the angler's
   confidence color is matters most, per the source.
 - **Night-bite red/orange/yellow pattern (Ray Sharifi, RfiC8sfIWTk,
-  2023-05-04; unregistered channel — medium confidence):** on a night that
+  2023-05-04; `ray-sharifi` registered, SoCal-capped — medium confidence):** on a night that
   produced a 211 lb bluefin, the jigs drawing bites were on the red end of
   the spectrum — a 350 g knife jig in **red with red-and-glow stripes**, a
   **Sriracha red/orange with glow polka dots**, a straight **red/orange**,

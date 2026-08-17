@@ -142,8 +142,8 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   re-cast. These sink fast enough that you may need to size the leader down to
   40 or even 30 lb.
 
-- **Don't overwork the pop (Roman Castro, mWxyjDrcdXM, 2021-07-17; unregistered
-  channel — medium confidence):** the pop itself doesn't need to be hard or
+- **Don't overwork the pop (Roman Castro, mWxyjDrcdXM, 2021-07-17; `roman-castro` registered 2026-08-17, single mention —
+  medium confidence):** the pop itself doesn't need to be hard or
   frequent — light pops with real pauses between them ("boom... wait...
   boom") is the cadence, consistent with the pause-not-pop principle above.
   When fish are truly balled up and foaming hard, precise placement matters
@@ -153,7 +153,7 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
 Poppers and stickbaits: [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md).
 
 **Additional small-lead-bait names, corroborating (Ray Sharifi, Dirty Hookers,
-42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence):** on a
+42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** on a
 Channel Islands fleet trip where full-day boats weren't yet connecting on the
 bluefin foamers, his casting picks were a **Daiwa SK jig**, **Shimano Colt
 Sniper**, and the newer **RW Peanuts** (carrying both 80 g and 100 g) — small,
@@ -165,7 +165,7 @@ confidence over a bare top-shot connection to the lure, he'll add a short
 [bluefin bite leaders](../rigging/bite-leaders.md)) — his framing: a
 confidence add, not a requirement.
 
-## Hookup, drag, and the fight (Roman Castro, mWxyjDrcdXM, 2021-07-17; unregistered channel — medium confidence)
+## Hookup, drag, and the fight (Roman Castro, mWxyjDrcdXM, 2021-07-17; `roman-castro` registered 2026-08-17, single mention — medium confidence)
 
 - **Confirm tight contact before you strike.** Don't set the hook on the eat
   until the line comes tight.

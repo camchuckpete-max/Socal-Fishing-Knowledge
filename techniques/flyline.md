@@ -238,7 +238,7 @@ isn't yet repeated doctrine).
   fluoro up to **30 lb main → 40 lb leader** and **25 lb main → 40 lb leader**
   — the heavier-leader step "dramatically helped" land fish (Ray Sharifi,
   recounting a personal 2.5-day trip, dated ~late-2023 from the upload date;
-  unregistered channel, medium confidence for the personal account).
+  `ray-sharifi` registered, SoCal-capped — medium confidence for the personal account).
 - **Don't underestimate what light line can turn:** 25 lb mono, properly
   drag-set, handles far more pressure than most anglers assume — the
   presenters recommend testing this yourself (tie 25 lb, set the drag, have
@@ -633,7 +633,7 @@ holding deep, not a claim that straight braid is wrong.
   fighting a big fish once hooked. Reel/rod specifics for this application are
   in [rod & reel selection](../tackle/rod-and-reel-selection.md).
 - **Yellowtail flyline setup, one full build (Ray Sharifi, Dirty Hookers,
-  A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** an
+  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** an
   8–8'6" rod, lighter action, rated 20–40 to 20–50 lb — enough backbone to lob
   a bait a little easier and get extra casting distance. Paired with a reel
   that free-spools well (a lever drag by preference; a star-drag reel, e.g. a
@@ -644,7 +644,7 @@ holding deep, not a claim that straight braid is wrong.
   Hook size follows bait size: **2/0** for jumbo-sized bait and smaller
   mackerel, **1/0** for smaller sardines and anchovies.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
-  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** the
+  LTCFjqtSI8g, 2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence):** the
   same flyline role, restated with the **Shimano Torium 16** now named as the
   standard pairing (rather than one of two options) on a **Black Diamond 8'6"
   heavy rod, rated 20–50 lb** (mid ≈30–35 lb). Braid backing to **80–100
@@ -670,8 +670,7 @@ holding deep, not a claim that straight braid is wrong.
   salvaged the trip on light tackle instead.
 
 - **Bluefin flyline setup — two-rod light/heavy system (Ray Sharifi, Dirty
-  Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-  confidence):** runs two dedicated flyline rods rather than one, sized to
+  Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** runs two dedicated flyline rods rather than one, sized to
   cover a **25–80 lb** line-test range across the trip. **Light stick:** an
   8 ft **Black Diamond** rod (also likes the 8'6" version) rated **20–50 lb**,
   paired with a **Shimano Torium 16** (a Torium 20 also works), spooled with
@@ -710,7 +709,7 @@ holding deep, not a claim that straight braid is wrong.
   fluorocarbon**, producing yellowtail — a further Cedros/Baja yellowtail
   flyline data point, kept side by side with the Ray Sharifi builds above
   rather than reconciled (line-class/material specifics not stated closely
-  enough to compare directly). Unregistered channel — medium confidence.
+  enough to compare directly). `ray-sharifi` registered, SoCal-capped — medium confidence.
 
 ## Common failures
 

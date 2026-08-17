@@ -244,7 +244,7 @@ the reverse map in **Linked from** below.
   matters more than raw cranking power for a customer still learning the
   technique.
 - **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
-  A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** a
+  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a
   stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),
   general guidance **40–60 lb rated**, with enough tip left to wind through
   the bite; paired with a nice fast reel (a Shimano Trinidad 20A example) so
@@ -289,7 +289,7 @@ the reverse map in **Linked from** below.
   beyond, the dorado-colored jig already logged in the `XwwIvPFxRiQ` entry
   above and the 6X/7X size class already documented in this note.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
-  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
+  LTCFjqtSI8g, 2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence):** same
   **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here
   paired with a **Shimano Torium 16HG** (he notes his usual pick is still the
   Trinidad 20A above), running **50–80 yards of monofilament** top shot

@@ -16,8 +16,11 @@ the jig's **action**, and it is reached for on a specific condition:
 **slack or slow current**.
 
 Doctrine here is **Dan Wade** (via Strictly Irons, `764kFzACKTc`, 2021-01-28).
-Strictly Irons is not in the [source registry](../sources/source-registry.md),
-so this caps at `medium` per the rubric, pending the registry pass. The
+**`dan-wade` is a registered voice** ([source registry](../sources/source-registry.md),
+promoted by Cameron 2026-08-17) — but this is a **single mention**, the only
+wiring video in the corpus, so it stays `medium` under the repeated-doctrine
+rule rather than under the unregistered-channel cap it previously sat beneath.
+A second source on wiring would lift it. The
 connection itself is the [haywire twist](haywire-twist.md); this note owns
 **when and why to wire**, and the surface-iron-specific parameters.
 

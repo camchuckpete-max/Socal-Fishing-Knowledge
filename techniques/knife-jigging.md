@@ -194,7 +194,7 @@ in **Linked from**.
   big-fish story — 65–100 lb covers it, and much heavier than 100 lb braid is
   only worth it on the biggest jigs.
   - **Day/night split restated in plain line-test (Ray Sharifi, RfiC8sfIWTk,
-    2023-05-04; unregistered channel — medium confidence):** daytime jigging
+    2023-05-04; `ray-sharifi` registered, SoCal-capped — medium confidence):** daytime jigging
     with lighter flat-fall-style jigs (Colt-Sniper class, **80–120 g**) fishes
     **40–50 lb test**; the night knife-jig bite steps up to a documented
     **minimum of 80 lb, 80–100 lb recommended**, with leader run up to
@@ -203,7 +203,7 @@ in **Linked from**.
     anglers on board had confused the daytime 50 lb-for-jigs guidance with the
     night-time recommendation.
   - **Corroborating, ten days earlier (Ray Sharifi, 149px8WQ2Ng, 2023-04-24;
-    unregistered channel — medium confidence):** night knife-jig **setups in
+    `ray-sharifi` registered, SoCal-capped — medium confidence):** night knife-jig **setups in
     the 80–150 lb class** were recommended, reasoning that **100 lb-class fish
     were swimming under the boat consistently** even though most fish actually
     landed in the night bite graded **30–60 lb**. Same channel, same boat
@@ -253,7 +253,7 @@ in **Linked from**.
     the 80–100 lb braid → FG → **15–20 ft mono/fluoro top shot tied direct to
     the jig**.
   - **No-crimp depth-indicator variant (Ray Sharifi, gevNj2Y1Ep8, 2023-09-02;
-    unregistered channel — medium confidence):** on a 100 lb night setup, run
+    `ray-sharifi` registered, SoCal-capped — medium confidence):** on a 100 lb night setup, run
     **100 lb braid straight to a 10 ft leader of 130 lb fluorocarbon** with no
     crimp and no swivel between them. The reasoning is functional, not
     cosmetic: the knot is bulky enough that when it stops running smoothly
@@ -261,7 +261,7 @@ in **Linked from**.
     down — so you don't wind the connection (or the jig) straight into the
     rod tip and crack the ceramic insert.
     - **Same reasoning, an earlier trip, and the mono-vs-fluoro tradeoff
-      (Ray Sharifi, -MP2RqJC7B0, 2023-05-23; unregistered channel — medium
+      (Ray Sharifi, -MP2RqJC7B0, 2023-05-23; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at medium
       confidence; ~3.5 months before the write-up above, same 100 lb Talica
       25 / Black Diamond Hybrid setup, same "feel the knot in the guides"
       logic):** the **stated preference** is a **mono top shot**, not straight
@@ -276,7 +276,7 @@ in **Linked from**.
       straight fluoro as the substitute, not the primary plan.
 - **Night 100 lb setup, earliest documented instance of the Talica 25 /
   Black Diamond Hybrid combo (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY,
-  2022-05-02; unregistered channel — medium confidence; predates the 2023
+  2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence; predates the 2023
   citations elsewhere in this note that reuse the same combo):** a **Shimano
   Talica 25** (captions render "Italica" — corrected here) paired with a
   **Phoenix Black Diamond Hybrid, 7 ft, rated 60–120 lb**, spooled with
@@ -287,7 +287,7 @@ in **Linked from**.
 - **Jig:** [knife-jig class](../lures/knife-jigs.md), 150–400 g slender profiles.
 - **Yellowtail speed/vertical-jigging starter setup, explicitly secondhand
   and self-described as untested (Ray Sharifi, Dirty Hookers, LTCFjqtSI8g,
-  2023-03-29; unregistered channel — medium confidence; the source states
+  2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence; the source states
   plainly that speed/vertical jigging is new to him this year and he is
   relaying what he's been told by others rather than his own tested
   doctrine — kept here as a tentative starting point, not established

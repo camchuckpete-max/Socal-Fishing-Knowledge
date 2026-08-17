@@ -15,7 +15,7 @@ and reset to cover ground. Primary doctrine source is the BD spiny-lobster tips
 video; the buoy/rope build and retrieval mechanics below add Capt. Scotty
 (Brothers Sportfishing, La Jolla — registered voice, high confidence, presenter
 inferred from the demo handoff) and Roman Castro's own line-management insert
-(unregistered channel, caps at medium), Qs9oEsh3b_w, 2020-10-17, San Diego /
+(`roman-castro` registered, single mention — medium confidence), Qs9oEsh3b_w, 2020-10-17, San Diego /
 Mission Bay; the soak/pull cadence and short-lobster handling below add
 dave-hansen (Your Saltwater Guide, registered voice), EiItVWqFMYc, 2021-01-05,
 Catalina/SoCal general; the boat-approach/prop-safety mechanics below add a

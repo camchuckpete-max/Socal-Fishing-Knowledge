@@ -124,7 +124,7 @@ snap a light sabiki instantly**):
   the next day, including for bottom fishing when the target switches to
   cabrilla/grouper.
 
-(Ray Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
+(Ray Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered 2026-08-17 (**Baja-scoped**, so eligible to lift), single mention —
 medium confidence; region: Baja, Sea of Cortez.)
 
 ### Sabiki quality/durability (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention — `medium` confidence; region: Baja, Sea of Cortez)

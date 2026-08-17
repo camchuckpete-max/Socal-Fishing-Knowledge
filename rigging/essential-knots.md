@@ -68,7 +68,7 @@ fluoro leader, braid main line — and feed the terminal rigs in
   a San Diego jam rather than a Palomar for this same bite-through-the-knot
   reason — full reasoning there.
   **Tying a Palomar over a whole rig, not just a hook (Roman Castro,
-  G6YRT4HNxr8, 2018-04-17; unregistered channel — medium confidence):** the
+  G6YRT4HNxr8, 2018-04-17; `roman-castro` registered, single mention — medium confidence):** the
   same knot also ties directly onto a bulky multi-arm harness — his example
   is a [swimbait umbrella/A-rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro).
   He and his fishing partner considered a uni knot for the job but he

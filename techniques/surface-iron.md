@@ -43,7 +43,10 @@ jig lands.
 The note below describes reading the kick off the rod tip. **Dan Wade gives
 the reason it draws a bite**, and it reframes the whole retrieve
 (`yn1suHH6b1Y`, `Ec2GaNpiOHI`; Strictly Irons / Fishing Syndicate — 60+ years
-on the iron, 68 lb personal best on the surface iron at Guadalupe on 40 lb):
+on the iron, 68 lb personal best on the surface iron at Guadalupe on 40 lb).
+**`dan-wade` is a registered voice** ([source registry](../sources/source-registry.md),
+promoted by Cameron 2026-08-17) and the mechanism is stated in **both** videos
+— **high confidence**:
 
 > *"It's a **serpentine action** — your lure's going to have this serpentine
 > action like a snake. And **every third or fourth time it's going to kick out
@@ -207,10 +210,14 @@ right, leave it alone.
 
 ### Decisions taken mid-retrieve, with the reasons given
 
-Six on-the-water Strictly Irons sessions (2020–2026, unregistered channel —
-`medium`; the jig and rod models in several of them are product launches and
-sit at `low`). These are stated reasoning, not observations, so they are
-recorded here as attributed doctrine rather than as `**Observed**` lines.
+Six on-the-water Strictly Irons sessions (2020–2026). **These are the
+channel's host speaking, not Dan Wade** — and that distinction now carries a
+rating, because `dan-wade` was registered on 2026-08-17 while the host was not.
+Registering a person does not register their channel, so the host's material
+stays at **`medium`** while the Wade doctrine above sits at `high`. The jig and
+rod models in several of these sessions are product launches and sit at `low`.
+These are stated reasoning, not observations, so they are recorded here as
+attributed doctrine rather than as `**Observed**` lines.
 
 - **Set retrieve speed by keeping the jig visible on top.** Coaching a first-
   timer through a live cast (`ejUTAnONf7o`, 2026-04-21, Coronado Islands):
@@ -301,7 +308,7 @@ while somebody is still connected.
   graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
   fluorocarbon leader (2/27/25).
 - **A three-iron box framework (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
-  2022-02-17; unregistered channel — medium confidence):** carry **at least
+  2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** carry **at least
   three** surface irons covering three different jobs rather than one
   do-everything jig — 1) something **small and erratic for a reaction bite**
   (his pick: a **Tady C** — asr-uncertain model suffix, prefix confident per
@@ -396,8 +403,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - **Iron:** [surface-iron class](../lures/iron-jigs.md); carry a spread of
   profiles/kicks (wide-slow through fast-tight) so you can match the bite.
 - **A longer-top-shot alternate build, kept side by side (Ray Sharifi, Dirty
-  Hookers, A70kK2niu2Q, 2022-02-17; unregistered channel — medium
-  confidence):** a **10 ft rod rated 30–60 lb** (a Phoenix Axis 1009 HJ
+  Hookers, A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a **10 ft rod rated 30–60 lb** (a Phoenix Axis 1009 HJ
   example), paired with a Daiwa Saltist or Daiwa Saltiga reel, spooled the
   same way as his flyline setup — **50–60 lb (up to 80 lb) braid backing** to
   **80–100 yards of 40–50 lb monofilament top shot**. This runs a much longer
@@ -405,7 +411,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
   system above; not reconciled with it — both are attributed rigging
   philosophies for the same technique.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
-  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** the
+  LTCFjqtSI8g, 2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence):** the
   same **Phoenix Axis 1009 HJ, 10 ft, rated 30–60 lb**, now paired
   specifically with a **Daiwa Saltist Black Gold**, running **80–100 yards**
   of top shot — his fun stick for schoolie-grade fish, roughly **7–25 lb**.
@@ -423,15 +429,14 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
   jig name in the captions did not decode confidently enough to carry (see
   extraction log).
 - **Same rod, different reel pairing, about four months later (Ray Sharifi,
-  Dirty Hookers, 42A8Owhc8fw, 2023-08-02; unregistered channel — medium
-  confidence):** the same **Phoenix Axis 1009 HJ, 10 ft, rated 30–60 lb**, here
+  Dirty Hookers, 42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** the same **Phoenix Axis 1009 HJ, 10 ft, rated 30–60 lb**, here
   paired with a **Trinidad 16A** rather than the Saltist Black Gold documented
   above — his stated go-to for yellowtail, barracuda, and bonito, with calico
   bass biting well and yellowtail hit-or-miss the week of filming (early
   August 2023). Kept side by side with the Saltist Black Gold pairing, not
   reconciled — he appears to run more than one reel on this rod over time.
 - **New heavy jig-stick tier, added for the 2023 season (Ray Sharifi, Dirty
-  Hookers, LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence;
+  Hookers, LTCFjqtSI8g, 2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence;
   rod was still being hand-wrapped at filming, guides taped on as a
   mock-up):** a **Phoenix Axis 909 HJ, 9 ft, rated 30–80 lb** (mid ≈50–60
   lb) — shorter and stouter than the 1009 HJ above — paired with a **Daiwa

@@ -193,7 +193,7 @@ able to break off** (aXF0bxAFtU0):
   40 lb**; **50 lb** covers most everything fished that trip (short bait
   leaders and surface iron), with **80 lb** carried as a just-in-case class
   for black sea bass and bigger white seabass (Ray Sharifi, Dirty Hookers,
-  WE643Fue1_A, 2022-09; medium confidence, unregistered channel). See
+  WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). See
   [yellowtail](../species/yellowtail.md).
 - **Second Cedros data point — 80–100 lb fielded as standard, not backup
   (StokedOnFishing, 2021-10 trip, 2022-06-05 upload, Cedros Island, Baja —
@@ -208,8 +208,7 @@ able to break off** (aXF0bxAFtU0):
 - **Mono over fluoro for surface iron (attributed preference):** one Baja/Cedros
   angler runs straight monofilament rather than fluorocarbon specifically for
   surface iron fishing — fluoro for everything else on the trip — with no
-  reason stated in source (Ray Sharifi, WE643Fue1_A, 2022-09; medium
-  confidence, unregistered channel). Kept as a standalone data point on
+  reason stated in source (Ray Sharifi, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Kept as a standalone data point on
   material choice for [surface iron](../techniques/surface-iron.md), not
   reconciled with the general top-shot guidance above.
 - **Wire leader over rock structure — Gonzaga Bay, Sea of Cortez (Baja):** for

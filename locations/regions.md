@@ -110,4 +110,5 @@ out-of-region.
 
 - [Cedros Island](cedros-island.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Source Registry](../sources/source-registry.md)
 <!-- backlinks:end -->

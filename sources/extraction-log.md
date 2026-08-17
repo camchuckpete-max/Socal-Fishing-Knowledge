@@ -1684,3 +1684,70 @@ CLAUDE.md describes for stubs worked as intended.
    **"the faces are states, not types"** (cameron) doctrine — the same claim
    from the angler's side rather than the fish's. Recorded beside it, not
    merged into it.
+
+### Registry pass — three promotions (Cameron, 2026-08-17)
+
+Cameron reviewed the registry and promoted three voices. Rows added to
+[`sources/source-registry.md`](source-registry.md); Shay McKinty explicitly
+left unregistered (*"no idea who Shay McKinty is"*).
+
+| voice | scope | Cameron's words |
+| --- | --- | --- |
+| `dan-wade` | unscoped | *"a local legend for surface iron fishing"* |
+| `roman-castro` | unscoped | *"very knowledgeable"* |
+| `ray-sharifi` | **region-scoped** | *"knows his stuff in SoCal, but I'd consider him an expert for Baja"* |
+
+**`ray-sharifi` is the registry's first region-scoped row.** Baja/Cortez claims
+are eligible for `high` on repetition; `socal-bight` claims cap at `medium`
+regardless. This is only enforceable because batch 3 added the `regions`
+vocabulary — the scope is mechanically checkable against a note's front matter,
+and where one note carries both, **the claim is rated, not the note.**
+
+**Registering a person does not register their channel.** Two rows now sit on
+channels whose other voices are unregistered: `dan-wade` (Strictly Irons' own
+host is a different, unregistered voice) and `nate-winnicki` (BDOutdoors
+guests). `techniques/surface-iron.md` now states this split explicitly, because
+otherwise its Wade material at `high` and its host material at `medium` read as
+an inconsistency rather than a rule.
+
+#### What actually changed, and what didn't
+
+**63 confidence clauses rewritten** across 21 notes. The honest headline:
+**only two blocks actually lifted to `high`.**
+
+| lifted to `high` | why |
+| --- | --- |
+| Dan Wade's colour doctrine (`techniques/surface-iron-color.md`, note-level) | repeated — same answer, two channels, seven years apart |
+| Dan Wade's kick mechanism (`techniques/surface-iron.md`) | stated in both videos |
+
+Everything else **kept its `medium` rating and had only its stated reason
+corrected**, for one of two reasons:
+
+- **Single mention.** Registered + one video = `medium` under the rubric. This
+  covers the wiring note, all of Roman Castro's own doctrine, and most of Ray
+  Sharifi's. The correction matters anyway: the old text said *"unregistered
+  channel"*, which told a reader nothing could lift it; the new text says
+  *registered, single mention*, which tells them **a second source would.**
+- **SoCal cap.** 36 Sharifi clauses are SoCal-bight content and now read
+  `ray-sharifi registered, SoCal-capped`. 12 are Baja/Cortez
+  (`WE643Fue1_A`, `A70kK2niu2Q`, `dEPuDrhoClM`) and read
+  `ray-sharifi registered (Baja-scoped)` — eligible to lift when a second Baja
+  source repeats them.
+
+A split rating was applied inside `lures/iron-jigs.md` §Reading a jig: the
+governing principle (judge a jig by whether it swims; carry a few different
+swims) is in both Wade videos → `high`; the specific parameters (hip offset,
+hole placement, concave-vs-flat, nose shape) are single-video → `medium`.
+
+**Method note.** The sweep was done in two passes because a blind
+find-and-replace would have corrupted neighbouring citations: these notes
+interleave Sharifi/Castro blocks with StokedOnFishing blocks, which are
+*genuinely* unregistered. Pass one handled the 12 clauses where the name and
+the confidence claim sat on the same line; pass two matched each clause inside
+a 320-character window after a name mention, classifying Sharifi by video id.
+Zero neighbouring citations were touched.
+
+**Not done, and deliberately so:** no claim was promoted to `high` on the
+strength of the registry alone. The repeated-doctrine requirement was applied
+as written, so most of this batch's promotions will only pay off when Phase 6's
+seminars and Tackle Express supply corroborating sources.

@@ -57,7 +57,7 @@ but hard-charging, they'll eat almost anything moving.
 - **Troll:** light **troll class**; small [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md)
   and [cedar plugs](../lures/cedar-plug.md) at ~6–8 kt.
 - **Downsizing logic (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05;
-  unregistered channel — medium confidence):** on a mixed tuna trip, treat
+  `ray-sharifi` registered, SoCal-capped — medium confidence):** on a mixed tuna trip, treat
   skipjack (and schoolie-grade [yellowfin](yellowfin-tuna.md)) as
   **Bonito-sized targets and downsize tackle/lures accordingly** — the
   exception is bluefin, which don't get this treatment because grade is

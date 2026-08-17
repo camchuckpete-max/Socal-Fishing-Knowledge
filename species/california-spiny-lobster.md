@@ -112,7 +112,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
     public pier. Fishing the full 10-net boat limit therefore requires a
     **minimum of two people** aboard (5 nets each) — one angler alone is capped
     at 5, even on a boat licensed for 10 (Roman Castro/Scotty, Qs9oEsh3b_w,
-    2020-10-17; medium confidence, unregistered channel).
+    2020-10-17; `roman-castro` registered, single mention — medium confidence).
   - **Buoy marking:** each buoy must carry your **name and GO ID** — a 10-digit
     number printed on your California fishing license, one line below the
     barcode. Write it directly on the buoy in permanent marker if every net on

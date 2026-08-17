@@ -110,7 +110,7 @@ meter them." General method:
   turns its head and starts taking line, so the drag should give nothing; he
   pairs that locked drag with a **slower, softer-bending rod** to absorb the
   strike shock the drag no longer does. **Ray Sharifi** (co-host,
-  unregistered channel, medium confidence) fishes the drag **backed off**
+  `ray-sharifi` registered, SoCal-capped — medium confidence) fishes the drag **backed off**
   instead, paired with a **faster-action rod**. Both are attributed
   drag/rod philosophies for the same cabrilla fishery.
 - **Retrieve action:** cabrilla want a **fast, tight wobbling action with a
