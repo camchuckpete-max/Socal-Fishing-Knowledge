@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU]
 confidence: medium
 ---
 
@@ -110,6 +110,15 @@ Pick the hook position for the swimming behavior you want:
   lively bait" on at all times rather than fishing one bait out.
 - **Circle hooks:** hold the hook **high on the arch and press straight down**
   into the bait — holding it from the bottom leaves no gap and mangles the bait.
+- **Wire gauge by bait, sportboat sardine flyline for bluefin (Capt. Dave
+  Hansen, Your Saltwater Guide, ftEvyfwjZFU, 2021-06-08; dave-hansen
+  registered voice — `high` confidence):** flylining sportboat sardine for
+  bluefin, reach for a **4/0 thin-wire circle hook**, straight-tied — no
+  swivel, no bead — with a [San Diego jam](../rigging/essential-knots.md).
+  Thin wire specifically because a sardine, unlike a heartier mackerel,
+  "has a hard time swimming" a standard/heavier-gauge hook around
+  convincingly; fluorocarbon leader throughout, since bluefin "have so many
+  teeth" and will bite through anything lighter.
 
 **Observed** (StokedOnFishing, 2022-05-04, San Clemente Island, SoCal —
 `V_ONnegk95M`, pre-trip captain briefing, day-and-a-half El Dorado charter;

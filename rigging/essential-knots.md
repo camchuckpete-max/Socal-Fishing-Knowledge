@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU]
 confidence: medium
 ---
 
@@ -385,6 +385,33 @@ fluoro leader, braid main line — and feed the terminal rigs in
   topshot with a new worm knot, tie the hook back on, and you're back
   fishing in seconds without re-tying the Bimini itself. No SoCal-specific
   parameters (line class, species) are given in this clip.
+  **Third corroborating video, earliest-dated of the three (Dave Hansen, Your
+  Saltwater Guide, ftEvyfwjZFU, 2021-06-08 — predates both VsUUBICiBzQ and
+  zVIfArUrpDI above):** ties this same single-pass, spin-7-times,
+  through-the-bottom-hole, back-out-the-top mechanic straight to lure/hook
+  eyes — a soft-plastic glide swimbait, a wing-style stickbait, and a 4/0
+  circle hook for a flylined sardine — naming it **"San Diego jam"** on every
+  tie. Across his three logged videos, "San Diego jam" is now the name used
+  twice (2021-06-08, 2021-06-15) against one single mention of "fisherman's
+  knot"/"improved cinch knot" (2021-06-29); still kept side by side per the
+  naming-inconsistency note above, not treated as resolved. **Straight-tie,
+  no-swivel-no-bead rigging judgment (same source):** he ties the glide
+  swimbait straight to its eye on camera with no leader material/weight or
+  swivel/bead stated for that connection specifically. For the wing
+  stickbait he's explicit — "because that's how these are made... you do not
+  want a swivel on there because now the fish is going to see the swivel" —
+  straight-tied to **60 lb fluorocarbon** (with **80 lb** given as an
+  alternative for the stickbait bite — framed as a reactionary strike where
+  the fish won't shy from heavier line, so drag can be hammered down). For
+  the flylined sardine's circle hook he's likewise explicit — "no swivels,
+  no beads" — straight-tied to fluorocarbon on a **4/0 thin-wire circle
+  hook**, so the hook can turn freely to find the corner of the fish's
+  mouth. The 60 lb fluorocarbon and no-swivel/no-bead specifics are
+  confirmed for the stickbait and the sardine hook only; not assumed to
+  carry over to the glide swimbait. See
+  [flyline](../techniques/flyline.md) and
+  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) for
+  the lure-specific application of these parameters.
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -433,6 +460,8 @@ and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Wind-On Leader](wind-on-leader.md)
 <!-- backlinks:end -->

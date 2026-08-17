@@ -251,6 +251,7 @@ the column, which is when foamers are most likely to start
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

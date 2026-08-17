@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU]
 confidence: high
 ---
 
@@ -260,6 +260,39 @@ over a popper on trips when the fish want a **fast-moving bait** rather than
 the popper's long-pause presentation (see [foamer
 casting](../techniques/foamer-casting.md) for the trip-to-trip variability).
 
+### Wing stick bait (grade-based sizing, prop-tail — Your Saltwater Guide)
+**Capt. Dave Hansen, Your Saltwater Guide (ftEvyfwjZFU, 2021-06-08); dave-hansen
+registered voice — `high` confidence.** A **wing / prop-tail stickbait**
+(captions also render it "wing kick bait") in the plopper/tail-prop family
+above — a small spinner/blade on the tail kicks a bubble trail. Comes stock
+with **heavy-duty 4/0 hooks** carrying that tail spinner; described as
+fishing "phenomenal" for bluefin on the surface or just subsurface — when a
+foamer goes down, cast right to where it was and let the bait sink into the
+water column before working it.
+
+- **Grade-based lure choice:** on smaller **gray bluefin**, reach for a
+  lighter pencil-profile popper/stickbait (heard on the captions as "pencil
+  flanker" — **asr-uncertain**, not confidently resolved to a model name); on
+  bigger gray bluefin, step up to the wing stick bait above.
+- **Match-the-hatch color logic:** built to imitate the anchovies bluefin
+  were feeding on as of this video (2021-06-08) — a subtle **red sparkle on
+  the back** reads as a **red crab sinking** when a fish looks down on the
+  bait from above, while from underneath the same bait reads as an anchovy —
+  one color scheme working both silhouettes.
+- **Rigging:** straight-tied (no swivel, no bead) to **60 lb fluorocarbon**,
+  stepping up to **80 lb** as an alternative, with a
+  [San Diego jam knot](../rigging/essential-knots.md) — same straight-tie
+  rationale as the Mad Eel glide swimbait (see [soft-plastic
+  swimbaits](soft-plastic-swimbaits.md)): a swivel would be visible to the
+  fish, and the lure is designed to be tied straight. **Drag hammered down**:
+  framed as a reactionary bite where the fish won't shy from the heavier
+  line, so there's no tradeoff against pulling hard once hooked.
+- **Retrieve:** **jerk it, then wind the slack in**, repeated — not a
+  continuous burn. Keep the reel in gear and the slack out at all times. See
+  [foamer casting](../techniques/foamer-casting.md) for the general retrieve
+  framing this fits alongside the popper/stickbait cadences already
+  documented there.
+
 ## Casting gear for poppers and burn baits
 
 **One angler's setup (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02;
@@ -322,11 +355,13 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
