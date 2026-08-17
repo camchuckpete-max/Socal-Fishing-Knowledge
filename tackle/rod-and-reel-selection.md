@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik]
 confidence: medium
 ---
 
@@ -184,6 +184,44 @@ side by side with the dated builds above rather than merged in:
   thicker top shot dampens an iron's swimming action (see [surface
   iron](../techniques/surface-iron.md)); **stickbaits and poppers tolerate a
   heavier top shot** without that penalty.
+
+## Baja cabrilla jerkbait setup (Cesar, EmZO8QiOfik)
+
+Cesar, via Dirty Hookers, EmZO8QiOfik, 2025-03-04; registered voice,
+mechanism/parameter — single mention of this specific application, medium
+confidence pending repetition. A dedicated setup for casting
+[jerkbaits](../lures/jerkbaits.md) at [cabrilla](../species/cabrilla.md) in
+the Sea of Cortez / Bay of LA, distinct from the tuna-casting and flyline
+frameworks above:
+
+- **Two rods, side by side:** a medium-light and a medium-heavy, both an
+  oversized, super-stiff jerkbait rod ("a crankbait rod on steroids"),
+  **7'10"–8 ft, ~50 lb class**, with a deliberately **slow bend** — the soft
+  rod acts as a shock absorber for a drag run tight (see drag note below)
+  and helps a fish get the bait fully in its mouth before the hookset loads
+  up.
+- **Reel: low-profile, level-wind baitcaster, 6.5:1–7:1+ gear ratio.** The
+  fast ratio is required to swim the jerkbait's action correctly; a
+  level-wind is required because the program is high-volume casting
+  (**~2–3 casts/minute**) — a reel without a level-wind (e.g. a round
+  conventional) forces the angler to hand-guide the line back every cast,
+  which fatigues the hand over a session and starts producing backlashes.
+  Example reels named (product picks — low confidence): **Daiwa Lexa TW
+  300** (preferred for hand fit over the 400, which runs a wider spool but
+  carries heavier line better), Daiwa Lexa (standard), Shimano low-profile
+  level-wind equivalents.
+- **Line:** lighter outfit **65 lb braid to 50 lb monofilament top shot**;
+  heavier outfit **80 lb braid to 80 lb leader** (fluorocarbon).
+- **Drag — kept side by side, not reconciled:** Cesar runs the drag
+  **essentially locked** (star run to its stop) — reasoning that a cabrilla
+  given an inch of line turns its head and starts taking line, so the
+  drag should give nothing; the slow-bend rod (above) supplies the shock
+  absorption the locked drag doesn't. Co-host Ray Sharifi (unregistered
+  channel, medium confidence) instead runs the drag **backed off**, paired
+  with a faster-action rod. Both are attributed philosophies for the same
+  fishery.
+- Carry a **spare spool of braid** (minimum one-shot 300 yd) and extra top
+  shot — heavy cast/retrieve volume over a day wears braid at the guides.
 
 ## Flyline reel & rod selection
 
@@ -543,6 +581,7 @@ a bluefin).
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
@@ -553,6 +592,7 @@ a bluefin).
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)

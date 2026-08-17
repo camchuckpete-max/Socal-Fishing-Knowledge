@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik]
 confidence: high
 ---
 
@@ -98,6 +98,17 @@ whole column** — fishable on top burning across the surface, at a 45° angle,
 a 90° angle, or straight up and down like a yo-yo (drop and full-speed crank)
 — despite being a "heavy" jig.
 
+**Baja, Sea of Cortez cabrilla yo-yo lineup (Cesar, via Dirty Hookers,
+EmZO8QiOfik, 2025-03-04; registered voice, mechanism/parameter — single
+mention of cabrilla specifics, medium confidence pending repetition):** run
+as [yo-yo iron](../techniques/yo-yo-iron.md) for
+[cabrilla](../species/cabrilla.md) once they've dropped off the shallow
+jerkbait structure. Late-morning zone (60–80 ft): **Salas 6X, Salas 6X Jr.,
+60 g jig paras**, or a **Krocodile**. Midday deep zone (80–150 ft), when
+bigger fish push down: **Salas 6X, Tady 40**, or a **7X-class iron**. Small
+**jig paras** in downsized sizes double as the fall/winter micro-bait
+match (~1–1.5 in bait, roughly October on).
+
 **Lighter surface-iron sub-class, line-class-limited (same source):** an
 **A1-light** class jig is a tight-swimming jig good for both yellowfin and
 bluefin, smaller profile than the AA — but it's **capped at 30 lb test**;
@@ -175,11 +186,13 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

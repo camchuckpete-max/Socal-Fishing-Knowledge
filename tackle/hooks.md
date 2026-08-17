@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik]
 confidence: medium
 ---
 
@@ -336,6 +336,18 @@ Baja, Sea of Cortez):
   was spoken but garbled beyond confident reconstruction; not carried into this
   note). Paired with **80–100 lb rated split rings** (owner hyper-wire split
   rings, sized 6–8, with 7 fitting the jerkbaits best).
+- **Jerkbait replacement hooks, named models (Cesar, via Dirty Hookers,
+  EmZO8QiOfik, 2025-03-04; registered voice, mechanism/parameter — single
+  mention, medium confidence pending repetition; specific model picks stay
+  low per his registry caveat):** on Current Sniper-class jerkbaits (stock
+  hook runs light/thin), Cesar upgrades **one hook size bigger and one wire
+  gauge heavier** than stock — either an **Owner STX, size 1, Z-wire**
+  (lighter, keeps the bait's swimming action; the finicky-bite pick) or an
+  **Owner ST-66, size 1, 1X heavier wire** (holds up better in a hot, wide-open
+  bite, at some cost to the swimming action). This plausibly resolves the
+  garbled model name above — same jerkbait replacement-hook problem, same
+  region — but is logged as a separate, later attribution rather than merged
+  into the prior claim. See [jerkbaits](../lures/jerkbaits.md).
 - **Live bait / troll hooks for cabrilla when they're not eating the iron:**
   **3/0–5/0.**
 - **Bigger hooks for sizable yellowtail, barracuda, and bonita** (to get the
@@ -388,6 +400,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
 - [Chunking](../techniques/chunking.md)
@@ -396,6 +409,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
+- [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

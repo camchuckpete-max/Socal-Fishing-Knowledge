@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU]
+tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik]
 confidence: high
 ---
 
@@ -29,6 +29,10 @@ the reverse map in **Linked from** below.
   30–50 fm sounded-school knife-jig scenario in
   [bluefin tuna](../species/bluefin-tuna.md#situations--techniques) — this is a
   much shallower, near-boat mark.
+- **Baja, Sea of Cortez — [cabrilla](../species/cabrilla.md) once the sun's up
+  and off the jerkbait bite:** late morning to lunch (~9–10 am on), when fish
+  have dropped off the shallow jerkbait structure to **60–80 ft**; heavier
+  still at midday (~11 am–3 pm) when the bigger fish push to **80–150 ft**.
 
 ## Mechanics
 
@@ -133,6 +137,18 @@ the reverse map in **Linked from** below.
   at **30–40 fathoms**; see
   [yellowtail](../species/yellowtail.md#where--when) for the full session
   detail, including the dropper-loop line-class parameter this trip adds.
+- **Cabrilla variant is a cast-and-burn, not a bottom hop (Baja, Sea of
+  Cortez; Cesar, EmZO8QiOfik, 2025-03-04; registered voice, mechanism —
+  single mention, medium confidence pending repetition):** cast out, let the
+  iron hit bottom, then **burn it straight back to the boat** — explicitly
+  **not** a hop-along-the-bottom rockfish-jig retrieve. In the deeper
+  midday zone (80–150 ft), burn it **~30–40 cranks off the bottom**, then
+  let it settle back to bottom and repeat rather than winding it all the way
+  up; bites usually come **within 5–10 cranks** of picking the iron back up
+  off bottom, so most of the strike zone is close to bottom. Iron picks for
+  this program: **Salas 6X, Salas 6X Jr., 60 g jig paras, or a Krocodile**
+  for the 60–80 ft late-morning zone; step up to **Salas 6X, Tady 40, or a
+  7X-class iron** for the 80–150 ft midday zone.
 - **Downsize to match small bait (Baja/Cedros, attributed):** when fish are
   keyed on small forage — **red crabs, small sardines** — one Cedros Island
   angler drops to smaller/lighter yo-yo jigs (a brass-finish yo-yo iron among
@@ -347,6 +363,7 @@ the reverse map in **Linked from** below.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
@@ -354,6 +371,7 @@ the reverse map in **Linked from** below.
 - [Dropper Loop](dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)

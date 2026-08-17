@@ -9,6 +9,7 @@
 - [DTX Minnow](dtx-minnow.md) — The Nomad DTX Minnow is a mid-depth trolling swimmer that gets down and holds a tight action across a wide speed band — a swimmer whose action dies on heavy lin
 - [Halco Laser Pro](halco-laser-pro.md) — The Halco Laser Pro is a bibbed trolling minnow — the deep-diving XDD bib version dives hard for its size.
 - [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side
+- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) — baits burned fast on a cast-and-wind retrieve for cabrilla (leopard grouper) working shoreline and submerged rock structure.
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
@@ -29,30 +30,33 @@ graph LR
   n2["DTX Minnow"]
   n3["Halco Laser Pro"]
   n4["Iron Jigs"]
-  n5["Knife Jigs"]
-  n6["Mad Mac"]
-  n7["Rapala Husky Magnum"]
-  n8["Soft-Plastic Swimbaits"]
-  n9["Spreader Bar"]
-  n10["Tuna Feathers and Skirts"]
-  n11["Tuna Poppers and Stickbaits"]
-  n1 --> n6
-  n10 --> n6
-  n11 --> n4
-  n11 --> n5
-  n2 --> n6
-  n3 --> n6
-  n4 --> n11
+  n5["Jerkbaits (Baja Cabrilla Program)"]
+  n6["Knife Jigs"]
+  n7["Mad Mac"]
+  n8["Rapala Husky Magnum"]
+  n9["Soft-Plastic Swimbaits"]
+  n10["Spreader Bar"]
+  n11["Tuna Feathers and Skirts"]
+  n12["Tuna Poppers and Stickbaits"]
+  n1 --> n7
+  n10 --> n7
+  n11 --> n7
+  n12 --> n4
+  n12 --> n6
+  n2 --> n7
+  n3 --> n7
+  n4 --> n12
   n4 --> n5
-  n5 --> n11
+  n4 --> n6
   n5 --> n4
-  n6 --> n1
-  n6 --> n10
-  n6 --> n2
-  n6 --> n3
-  n6 --> n7
-  n6 --> n9
-  n7 --> n6
-  n9 --> n6
+  n6 --> n12
+  n6 --> n4
+  n7 --> n1
+  n7 --> n10
+  n7 --> n11
+  n7 --> n2
+  n7 --> n3
+  n7 --> n8
+  n8 --> n7
 ```
 <!-- mermaid:end -->
