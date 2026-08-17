@@ -5,11 +5,12 @@
 /* Hosts that wrap this file in their own document may not set a viewport;
    without one phones lay the page out at 980px and zoom out. */
 (function () {
-  if (document.querySelector('meta[name="viewport"]')) return;
+  var head = document.head || document.documentElement;
+  if (head.querySelector && head.querySelector('meta[name="viewport"]')) return;
   var m = document.createElement("meta");
   m.name = "viewport";
   m.content = "width=device-width, initial-scale=1";
-  (document.head || document.documentElement).appendChild(m);
+  head.appendChild(m);
 })();
 </script>
 <style>
