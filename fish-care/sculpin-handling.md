@@ -52,5 +52,5 @@ you were dead." (`ty8FtA3Y2bA`)
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Dehooking & Release Handling](dehooking-and-release.md)
 <!-- backlinks:end -->

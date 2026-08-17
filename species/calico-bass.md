@@ -532,6 +532,11 @@ present the outside stringers.
 
 ## Handling & release
 
+Procedure for getting the hook out of a deep-hooked fish and measuring it
+without wrecking it is in
+[dehooking & release handling](../fish-care/dehooking-and-release.md); the
+release *ethic* and the regional policies are below.
+
 - **Grab them by the lower lip** to control the fish for hook removal.
 - Before releasing, **rub your hands together to build a light lather/foam,
   then rinse the fish off** before it goes back — a slime-coat step ahead of
@@ -572,6 +577,7 @@ present the outside stringers.
 - [Chunking](../techniques/chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Current Structure](../conditions/current-structure.md)
+- [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

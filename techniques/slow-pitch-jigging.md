@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, Jtf-bU4aM-c, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY]
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 ---
 
@@ -85,8 +85,12 @@ Execution only; species and situations are the reverse map in **Linked from**.
   action on the fall). Vertical "knife-shaped" SPJ jigs punch down to a deep zone
   and stay there in a fast drift; wing-fall / butterfly jigs give the traditional
   wide rocking flutter.
-- BOLA yellowtail zone reference: **150–300 ft on high spots**, fishing observed
-  at **150–180 ft**, **130–250 g wing-fall** jigs eating well.
+- BOLA yellowtail zone reference (**medium — single trip**): **150–300 ft on
+  high spots**, fishing observed at **150–180 ft**, **130–250 g wing-fall**
+  jigs eating well (vqsD0qpwcJA). One trip only — the second id this was
+  previously credited to (`Jtf-bU4aM-c`) is the same recording re-uploaded,
+  and the narrator self-declares as new to slow-pitch on camera. Attributed
+  data point, not established BOLA doctrine.
 
 ## Gear-class detail
 

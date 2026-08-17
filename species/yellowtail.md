@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, Jtf-bU4aM-c, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo]
+sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 ---
 
@@ -1189,7 +1189,7 @@ typical-year mapping.
   for the rig. The same recap separately gave this trip's bluefin tackle,
   logged in [bluefin tuna](bluefin-tuna.md#where--when).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
-  yellowtail everywhere on this high spot" (vqsD0qpwcJA / Jtf-bU4aM-c).
+  yellowtail everywhere on this high spot" (vqsD0qpwcJA).
   **Late warm-stable (September) program (cameron):** the fish are **on the
   bottom** that time of year — worked with **dropper loops and yo-yo iron**.
   See [September](../seasonal/september.md).
@@ -1217,7 +1217,7 @@ of water state. Kept side by side with the corpus
     (D5DR7Kx42_A).
   - **Deep high-spot yellows (BOLA/Baja):** marks on high spots in the
     **150–300 ft** band; the fish stack on the up-current face of the high spot
-    (vqsD0qpwcJA / Jtf-bU4aM-c).
+    (vqsD0qpwcJA).
   - **Paddy yellows** don't meter deep — check the paddy fast (look, one bait,
     sonar under the kelp) and move if it's dry. On the meter, look for
     **boomerang-shaped arcs around 90–120 ft** below a paddy that shows no
@@ -1245,7 +1245,7 @@ of water state. Kept side by side with the corpus
 | --- | --- | --- | --- |
 | Boiling/breezing surface fish, or fish on/around a **kelp paddy** | 1) [Surface iron](../techniques/surface-iron.md) 2) [flylined bait](../techniques/flyline.md) 3) [stickbait/jerkbait](../lures/tuna-poppers-and-stickbaits.md) | Jig-stick class; 40–50 lb flyline class; 20–50 lb heavy bass-stick class for the hard bait | Cast at the activity, watch how the iron swims; go to a heavier iron (e.g. Salas 7X) when it's windy to punch the cast out; the stickbait/jerkbait (Colt Sniper class) is a more visual, high-action alternative, no documented distinct retrieve beyond casting to the boil |
 | **Tight balls hugging structure** / marks on hard bottom or pinnacles (~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-ratio reel | Heavy full-size iron (Salas 6X class); hit bottom, **a couple cranks off the bottom = reaction bite**; dropper loop for live-bait presentation to the same marks |
-| **Deep marks on a high spot** (BOLA/Baja), fast drift | [Slow-pitch / vertical jigging](../techniques/slow-pitch-jigging.md) | Slow-pitch / knife-jig class, **130–250 g** | 150–300 ft zone (bit best 150–180 ft); vertical/knife jigs punch down fast in current, wing-falls flutter — **they bump it on the fall, then wind tight**; match jig weight to rod rating |
+| **Deep marks on a high spot** (BOLA/Baja), fast drift | [Slow-pitch / vertical jigging](../techniques/slow-pitch-jigging.md) | Slow-pitch / knife-jig class, **130–250 g** | 150–300 ft zone (bit best 150–180 ft); vertical/knife jigs punch down fast in current, wing-falls flutter — **they bump it on the fall, then wind tight**; match jig weight to rod rating. **Single-trip source (medium)** — see Doctrine & conflicts |
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
 | **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers hard-bait/feather trolling *to locate* yellowtail yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method." A **live-bait** slow-troll variant for known resident structure is now sourced — see the row below |
 | **Resident/home-guard fish over known shallow structure** (Cedros Island, Baja) | [Slow-trolled live mackerel](../techniques/trolling.md) on a circle hook, worked "not too far" back over the structure | 80–100 lb line class (a heavier bracket than the 40 lb floor / 50 lb most-everything Cedros breakdown in [line & leader](../tackle/line-and-leader.md) — kept side by side, not reconciled) | Not a locate method — a standing program over a known rock (28–30 ft crest); no-strike/wind-tight the circle hook, back the boat down once hooked; observed producing repeated hookups (StokedOnFishing, QSmE3mdEL28) |
@@ -1276,11 +1276,19 @@ water temp and bait depth before committing the day to one face.
 
 ## Doctrine & conflicts
 
-- **Corpus (high — Coronados / BOLA roundups):** heavy full-size irons (Salas 6X
+- **Corpus (high — Coronados roundups):** heavy full-size irons (Salas 6X
   class) work the majority of the time on structure fish; vertical/flat-fall jigs
-  **100–180 g depending on current** are the change-up (D5DR7Kx42_A). Slow-pitch
-  is a proven BOLA/Baja high-spot method in the **150–300 ft** band
-  (vqsD0qpwcJA / Jtf-bU4aM-c).
+  **100–180 g depending on current** are the change-up (D5DR7Kx42_A).
+- **BOLA/Baja slow-pitch on high spots (medium — single trip, demoted
+  2026-08-17):** one trip fished the **150–300 ft** band on BOLA high spots,
+  with the fish stacking on the up-current face (vqsD0qpwcJA). Previously
+  written as a "proven" method at `high` on the strength of two cited ids —
+  but `vqsD0qpwcJA` and `Jtf-bU4aM-c` are **the same recording re-uploaded**
+  (verified 2026-08-17), so this is one source, not two. The narrator is also
+  unregistered and self-declares as new to the technique on camera
+  ("admittedly it's totally new to me"), which caps it further. Treat the
+  depth band and jig weights as an attributed single-trip data point, not
+  established BOLA doctrine, until a second independent source lands.
 - **Three-outfits switching doctrine (cameron):** rig the surface-iron
   outfit, the heavy yo-yo/dropper outfit, and the flyline outfit
   **simultaneously**, and switch as the read (temp + bait depth) changes —
