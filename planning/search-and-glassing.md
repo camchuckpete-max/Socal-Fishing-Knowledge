@@ -1,7 +1,7 @@
 ---
 type: planning
-tags: [glassing, binoculars, search, anchoring, birds]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron]
+tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM]
 confidence: high
 ---
 
@@ -10,8 +10,10 @@ confidence: high
 How to actually look for offshore fish, and how to anchor once you find the water.
 Search is the day's main labor — most offshore hours are spent glassing and
 running between glass stops, not fighting fish. This note owns the *method*; what
-the birds mean is in [bird reading](../conditions/bird-reading.md), and how to
-read the meter is in [electronics and sounder](electronics-and-sounder.md).
+the birds mean is in [bird reading](../conditions/bird-reading.md), how to
+read the meter is in [electronics and sounder](electronics-and-sounder.md), and
+how to weigh what the rest of the fleet is doing (VHF, AIS) is in
+[fleet intelligence](fleet-intelligence.md).
 
 ## The glassing protocol
 
@@ -55,6 +57,22 @@ Once you've found the water, where you drop the hook depends on what you're afte
 
 - **Bottom fish → anchor on the spot.** You want to sit directly over the
   structure.
+- **Grade the mark with repeated passes, then drop in the adjacent sand, not
+  on the rock.** Idle over a hard-bottom high spot, mark the peak on the GPS,
+  turn around and re-drive the same track to confirm bait/fish sign before
+  committing (see the bottom-hardness read in
+  [electronics and sounder](electronics-and-sounder.md)). Once it grades out,
+  come back on that track and release the anchor into the sand patch beside
+  the rock rather than onto the rock itself (Dave Hansen, Your Saltwater
+  Guide, 6DzbsElGE7E, 2021-04-13). **Repeated doctrine, now high confidence:**
+  the same core rule appears in the same presenter's own words nearly three
+  years earlier — "you're not setting right on top of the rock, you're
+  actually in front of it, so your lines go back to the rock" (Dave Hansen,
+  inferred — solo presenter on his own channel, no diarization — Your
+  Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30), framed there as anchoring so
+  your **presented lines drift back onto the structure** rather than sitting
+  directly over it — the same practical effect as the sand-patch framing
+  above, stated in the earlier video's own words.
 - **Midwater / gamefish → anchor up-current of it,** with the **standoff scaled
   to current strength** — more current, more standoff, so your chum and baits
   sweep down onto the fish.
@@ -65,6 +83,111 @@ Once you've found the water, where you drop the hook depends on what you're afte
   boat to read the true current before you commit. The mechanism is in
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
+- **Too deep to anchor → drift the spot instead (a contrasting attributed
+  practice, Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM,
+  2020-04-04; capt-scotty-brothers registered — high confidence).** On a
+  180–200+ ft [rockfish](../species/rockfish-lingcod.md) spot (35 fathoms/210
+  ft on this trip), he does not anchor at all — the water is too deep to hook
+  — and instead sets up the drift: **read wind vs. current direction** and
+  position the boat up-wind/up-current of the target so the drift carries you
+  onto it (e.g. a south wind pushes the boat north, so start south of the
+  spot). Kept side by side with the "bottom fish → anchor on the spot"
+  doctrine above rather than reconciled — that guidance doesn't state a depth
+  ceiling, and this is the practice once the water is too deep to anchor.
+  - **Read the drift before committing bait:** on arrival, stop the boat and
+    take a mental note of the stopping point, then watch which way and how
+    fast wind/current move it before dropping lines.
+  - **Steer/slow the drift with the motor as a rudder:** with the outboard
+    off the keel line (angled instead of dead straight), the motor acts like
+    a rudder and swings/slows that side of the boat in the drift; dead
+    straight with the keel, the hull's V just cuts through and the boat
+    tracks the drift normally.
+  - **Speed up a slow drift** by shutting the engine off and pulling the
+    motor completely out of the water — less drag lets the boat slide with
+    the wind/current faster.
+  - **Slow down a fast drift** by dropping the motor back in as a rudder
+    and/or deploying a **drift sock/chute**.
+
+## Ground tackle and the pinpoint drop (Dave Hansen, Your Saltwater Guide, OpA0OqRgj00, 2022-02-08, and HGyL7pXy3Ts, 2019-05-20; registered voice)
+
+Below the geometry above sits the physical rode and the drop itself:
+
+- **Run chain-and-rope, never a straight/all-chain rode.** Hansen frames an
+  all-chain rode as a beginner tell — "if you go out on a sport boat and the
+  guy's got straight chain... he probably is new" — and states every boat he's
+  fished runs chain and rope together: "I'll guarantee you all the boats have
+  chain and rope... because it matters and it's important." He separately notes
+  the chain segment itself is "the key" and that "you want the chain to lay
+  flat on the bottom," but doesn't state a mechanism for why all-chain is
+  undesirable — only that seeing it is a tell for an inexperienced boat. **A
+  second, earlier data point confirms the chain-then-rope structure itself**
+  (not the "beginner tell" framing, which is only stated once): on a **65 ft
+  Hatteras** running **120 ft of chain** ahead of the rope, the anchor is
+  payed out to the chain/rope splice and stopped there before any rope goes
+  over (HGyL7pXy3Ts, 2019-05-20 — a different, earlier boat than the 65 ft
+  Viking cited below). Repeated across two dated Your Saltwater Guide videos:
+  **high** confidence on the core chain-and-rope rode structure; the anchor
+  weights, chain length, and "beginner tell" framing below remain
+  single-mention parameters at medium confidence.
+- **Size the anchor to the boat**, not to a fixed number — his own data points,
+  preserved as given:
+  - 21 ft Wellcraft → 12 lb anchor
+  - 65 ft Viking (his own) → 80 lb anchor
+  - Typical SoCal sport boat → 75–100 lb, "usually 100 lb"
+  - The Royal Polaris (ASR renders this "Real Polaris"; unverified against a
+    named-boat roster but inferred from context as the well-known San Diego
+    long-range boat) → roughly 150 lb
+  The pattern is a ladder that scales with boat size/class, with the chain
+  doing the actual holding work at every size on the ladder.
+- **Free-spool the drop to pinpoint the spot** rather than lowering on the
+  powered winch. Every anchor winch has a free-spool release (worked with a
+  star-shaped wrench/handle); backing it off lets the anchor free-fall instead
+  of paying out under power. Powered payout is described as roughly **a foot
+  per second** — by the time ~100 ft of rope-and-chain has paid out that way in
+  wind or current, the boat has already drifted past the target. Free-spooling
+  lets the anchor fall essentially straight down the moment you're over the
+  mark: pull up to the spot, release the free-spool, let it fall, then cinch
+  the star back down to set once it's on bottom. Hansen states this is
+  standard on every boat he drives.
+- **On a close-range rock, drop first and read the lay before you commit to a
+  re-set.** When the structure is small and close (a rock cresting a few feet
+  below the surface, spotted directly on the sounder rather than graded from a
+  distance), you may not know which way the boat will lay until the anchor is
+  down. Post a spotter at the bow to confirm the drop, pay the chain out to
+  the chain/rope splice and stop there, then let the boat settle and check the
+  lay against the structure. If it isn't sitting where you want, don't re-lift
+  — feed out **a bit more chain, then a bit more rope** to walk the boat into
+  position instead (Dave Hansen, Your Saltwater Guide, HGyL7pXy3Ts,
+  2019-05-20; registered voice, single mention on this specific procedure —
+  medium confidence). This is the close-range companion to the graded-pass
+  approach in [Anchoring geometry](#anchoring-geometry) above — both put a
+  bottom-fish spread directly over the structure, one by grading the mark
+  first, this one by dropping and correcting after.
+
+## Inshore/kayak zone-and-spot search (bay / back-bay)
+
+A distinct method from the offshore glassing protocol above — for working a bay
+or back-bay from a kayak (or any fixed-position small-boat/shore approach),
+worked out on [spotted bay bass](../species/spotted-bay-bass.md) but generic to
+any structure-oriented inshore species (Roman Castro, 6L8nIFeqvkw, 2019-04-24;
+medium confidence):
+
+- **Zones and spots.** A **zone** is a stretch of connected structure — bounded
+  by a gap in usable structure or a traverse (a bridge, a featureless stretch of
+  dock). A **spot** is smaller: your casting range from one fixed position (a
+  kayak holding station).
+- **Working a spot.** Take **10–15 casts** testing deep water first, then
+  shallow, varying the angle, before ruling a spot empty. Once you connect,
+  **cast the same spot at least 2 more times** before moving on — structure fish
+  loosely cluster, so one bite often means several more sitting right there.
+- **Chaining spots.** Place each new spot so it **overlaps the edge of the
+  last** rather than leaving gaps, and lean the next spot toward whichever side
+  (shallower/deeper, up-zone/down-zone) actually produced bites, abandoning the
+  side that didn't.
+- **Changing zones.** If the next zone's topography is completely different
+  from the last (e.g. a dock replacing an eelgrass shoreline), restart the
+  pattern from spot one instead of carrying forward what worked in the previous
+  zone.
 
 ## Sportboat bow play
 
@@ -84,23 +207,28 @@ current "should" carry everything astern.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
+- [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)

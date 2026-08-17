@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA]
 confidence: high
 ---
 
@@ -26,6 +26,11 @@ situation calls for it lives in the routers:
   bait through the lanes; calicos crank off the **80–100 ft** lanes at the
   islands (Clemente / Catalina).
 - Fish are scattered and you need a reaction bite, not a soaked bait.
+- **Observed** (StokedOnFishing, 2012-04-17, San Diego Bay): once a crew found
+  a producing crankbait zone during SWBA tournament pre-fishing, the stretch
+  gave up **25+ fish** on the crank in a single day — confirming the crank as
+  a fast-fill bay power tool once the zone is found. Multi-speaker,
+  unregistered channel — medium confidence.
 
 ## Execution
 

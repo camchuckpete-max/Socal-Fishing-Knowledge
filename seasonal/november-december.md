@@ -1,7 +1,7 @@
 ---
 type: seasonal
 tags: [late-fall, winter, bluefin, lingcod, rockfish, swordfish, santa-ana, bass]
-sources: [Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8]
+sources: [Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8, xzIaUEDklrE]
 confidence: high
 ---
 
@@ -37,6 +37,18 @@ year-end**, so this is the last of the bottom season.
   with 300 lb fish through November.**
 - **Then the fishery reverts to the sub-30 lb winter grade by mid-December.**
   The jumbos give way to small winter-grade fish as the month turns.
+- **Observed** (StokedOnFishing, 2022-12-14 upload, ~55 mi offshore SoCal,
+  exact bank not named on camera — `xzIaUEDklrE`; unregistered channel —
+  medium confidence): a trip landed on this exact date reported schools
+  running **40 to 100+ lb**, called "the best Southern California bluefin
+  tuna fishing we've seen all year," with the crew describing "very big
+  schools" and picking bigger fish (**100 plus** lb) out of the mix. The crew
+  also said they'd been "killing it every trip" for "the last few weeks."
+  This sits against, not folded into, the sub-30 lb mid-December reversion
+  above — a same-week data point where the mid-December grade was still
+  running jumbo, not winter-small. Kept side by side, not reconciled; the
+  exact bank/zone for this trip is not given, so it is not confirmed as the
+  same Tanner/Cortez ground as the doctrine above.
 
 ## Late-window swordfish — flags into mid-December
 

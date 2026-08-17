@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE]
+tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI]
 confidence: high
 ---
 
@@ -40,6 +40,23 @@ rocks.
   [February–March](../seasonal/february-march.md).
 - **Moon:** clear full-moon nights suppress the daytime bite the same way they do
   calico — bite early, dead mid-day ([moon](../conditions/moon.md)).
+- **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
+  Camp Pendleton, SoCal — `HMdrP4-i9MM`, "Out Fished by the Kids | Okuma
+  Inspired Fishing"): on the same Okuma kids/family trip logged in
+  [calico bass](calico-bass.md#where--when) (hard bottom with kelp not
+  reaching the surface, ~40–42 ft), sand bass were mixed in with the calico
+  catch, including one angler's first fish ever. Legal size was called out on
+  camera as **14 in**, matching the calico-bass legal-size figure. Unregistered
+  channel — medium confidence.
+
+- **Observed** (StokedOnFishing, 2025-05-16, Long Beach / Alamitos Bay — Olive
+  Crest ProAm charity bass tournament, `SdwwpQMJEOI`, "Battles for the Biggest
+  Bass — This Is the Olive Crest Bass Fishing Tournament"): one boat's
+  pre-fishing plan named sand bass and calico bass as the day's target
+  species, working a reef spot near Long Beach (name given on camera but
+  ASR-uncertain — omitted) with live bait plus soft-plastic paddle-tail
+  swimbaits and A-rigs. No conditions, depth, or outcome detail given beyond
+  the gear plan. Unregistered channel — medium confidence.
 
 ## Finding them (sign & sonar)
 
@@ -89,11 +106,23 @@ rocks.
   above pipes ([February–March](../seasonal/february-march.md)). No conflicting
   doctrine in the corpus.
 
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, near the marina, Ensenada, Baja California —
+  `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada, Mexico"; unregistered
+  channel — medium confidence): a "regular size" sand bass, called on camera
+  as good eating, was caught incidentally while the crew jigged for mackerel
+  bait just outside the marina — a bait-stop bycatch data point, not a
+  targeted sand bass session. One angler's catch was jokingly nicknamed
+  "Diamond Valley bass" on camera before being confirmed as a sand bass
+  (asr-uncertain / crew banter, not a species name — not carried as
+  terminology).
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [Bass Structure](../locations/bass-structure.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
+- [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [February–March](../seasonal/february-march.md)
@@ -106,6 +135,7 @@ rocks.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Water Regimes](../conditions/water-regimes.md)

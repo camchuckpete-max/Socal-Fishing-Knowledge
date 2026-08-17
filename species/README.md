@@ -8,6 +8,7 @@
 - [Bluefin Trolling](bluefin-trolling.md) — The decision spin-out for bluefin tuna: which trolled or towed presentation to pull, and when, by wind, fish grade, water, and sea state.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin are SoCal's premier big-game target — a multi-year-resident fishery that runs from sub-30 lb schoolies to 300 lb+ cows in the same season.
 - [Pacific Bonito](bonito.md) — A schooling nearshore pelagic that runs in fast, hard-charging packs on the bait, boiling on the surface and firing up everything around it.
+- [Cabrilla (Leopard Grouper)](cabrilla.md) — (leopard grouper) are a structure-ambush fish: they sit tight to rock and reef and get pulled off it with a fast, reaction-triggering retrieve rather than a soa
 - [Calico Bass (Kelp Bass)](calico-bass.md) — The signature SoCal inshore ambush predator: a kelp- and reef-dweller that sits on a defined structure edge and eats what the current sweeps past it.
 - [California Halibut](california-halibut.md) — A flatfish you catch by out-thinking the sand, not by covering it.
 - [California Spiny Lobster](california-spiny-lobster.md) — SoCal's "bug" fishery — caught recreationally by hoop netting rocky structure and kelp edges at night during the fall–winter season.
@@ -16,6 +17,7 @@
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is a warm-water, inshore structure gamefish — common in Baja (Sea of Cortez, BOLA, farther south) and a rar
 - [Rockfish & Lingcod](rockfish-lingcod.md) — The deep-structure bottomfish complex: reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingco
 - [Barred Sand Bass](sand-bass.md) — The sand-flat and deep-structure cousin of the calico: a bottom-associated bass that lives on and around hard bottom, wrecks, and the reef-to-sand transition an
+- [California Sheephead](sheephead.md) — The California sheephead (*Semicossyphus pulcher*) is a year-round SoCal structure resident — a reliable, table-quality target that lives on reefs and hard stru
 - [Skipjack Tuna](skipjack-tuna.md) — The ubiquitous warm-water tuna of the SoCal/Baja offshore — "skippies" are almost always the first and most aggressive fish to a chum line or a burning cast, wh
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) — The bay-and-harbor bass — a light-line, structure-relating fish you catch on eelgrass edges, mooring cans, dock pilings, riprap, and channel drops inside San Di
 - [Striped Marlin](striped-marlin.md) — SoCal striped marlin are a fall sight-and-troll billfishery: slow-troll lures/skirts through clean blue water off a bait/color edge, tease fish up, and switch t
@@ -35,42 +37,98 @@ graph LR
   n1["Bluefin Trolling"]
   n2["Bluefin Tuna"]
   n3["Pacific Bonito"]
-  n4["Calico Bass (Kelp Bass)"]
-  n5["California Halibut"]
-  n6["California Spiny Lobster"]
-  n7["Dorado (Mahi-Mahi)"]
-  n8["Ocean Whitefish"]
-  n9["Pacific Crevalle Jack (Toro)"]
-  n10["Rockfish & Lingcod"]
-  n11["Barred Sand Bass"]
-  n12["Skipjack Tuna"]
-  n13["Spotted Bay Bass (Spotties)"]
-  n14["Striped Marlin"]
-  n15["Swordfish (Broadbill)"]
-  n16["White Seabass"]
-  n17["Yellowfin Tuna"]
-  n18["Yellowtail"]
+  n4["Cabrilla (Leopard Grouper)"]
+  n5["Calico Bass (Kelp Bass)"]
+  n6["California Halibut"]
+  n7["California Spiny Lobster"]
+  n8["Dorado (Mahi-Mahi)"]
+  n9["Ocean Whitefish"]
+  n10["Pacific Crevalle Jack (Toro)"]
+  n11["Rockfish & Lingcod"]
+  n12["Barred Sand Bass"]
+  n13["California Sheephead"]
+  n14["Skipjack Tuna"]
+  n15["Spotted Bay Bass (Spotties)"]
+  n16["Striped Marlin"]
+  n17["Swordfish (Broadbill)"]
+  n18["White Seabass"]
+  n19["Yellowfin Tuna"]
+  n20["Yellowtail"]
+  n0 --> n11
+  n0 --> n20
   n0 --> n3
-  n0 --> n4
+  n0 --> n5
   n1 --> n2
-  n10 --> n8
-  n12 --> n14
-  n12 --> n17
-  n12 --> n2
-  n13 --> n4
-  n14 --> n12
-  n16 --> n5
-  n17 --> n12
-  n17 --> n9
+  n10 --> n13
+  n10 --> n19
+  n11 --> n0
+  n11 --> n13
+  n11 --> n19
+  n11 --> n2
+  n11 --> n20
+  n11 --> n3
+  n11 --> n9
+  n12 --> n15
+  n12 --> n5
+  n13 --> n10
+  n13 --> n11
+  n13 --> n2
+  n13 --> n20
+  n13 --> n9
+  n14 --> n16
+  n14 --> n19
+  n14 --> n2
+  n15 --> n12
+  n15 --> n5
+  n16 --> n14
+  n16 --> n19
+  n18 --> n20
+  n18 --> n6
+  n19 --> n10
+  n19 --> n11
+  n19 --> n14
+  n19 --> n16
+  n19 --> n2
+  n19 --> n20
+  n19 --> n8
   n2 --> n1
-  n2 --> n12
+  n2 --> n11
+  n2 --> n13
+  n2 --> n14
+  n2 --> n19
+  n2 --> n20
+  n2 --> n8
+  n20 --> n0
+  n20 --> n11
+  n20 --> n13
+  n20 --> n18
+  n20 --> n19
+  n20 --> n2
+  n20 --> n3
+  n20 --> n5
+  n20 --> n6
+  n20 --> n8
+  n20 --> n9
   n3 --> n0
-  n3 --> n4
-  n4 --> n0
-  n4 --> n13
-  n4 --> n3
-  n5 --> n16
-  n8 --> n10
-  n9 --> n17
+  n3 --> n11
+  n3 --> n20
+  n3 --> n5
+  n5 --> n0
+  n5 --> n12
+  n5 --> n15
+  n5 --> n20
+  n5 --> n3
+  n5 --> n6
+  n6 --> n18
+  n6 --> n20
+  n6 --> n5
+  n6 --> n8
+  n8 --> n19
+  n8 --> n2
+  n8 --> n20
+  n8 --> n6
+  n9 --> n11
+  n9 --> n13
+  n9 --> n20
 ```
 <!-- mermaid:end -->

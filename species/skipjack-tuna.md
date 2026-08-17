@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [skipjack, tuna, offshore, bait, bycatch, trolling, flyline]
-sources: [lxFNVdDhMy4, cameron]
+sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84, tcso7Lpm_Xs]
 confidence: medium
 ---
 
@@ -54,6 +54,13 @@ but hard-charging, they'll eat almost anything moving.
   bait; a casting jig or small lead bait for the burning retrieve.
 - **Troll:** light **troll class**; small [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md)
   and [cedar plugs](../lures/cedar-plug.md) at ~6–8 kt.
+- **Downsizing logic (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05;
+  unregistered channel — medium confidence):** on a mixed tuna trip, treat
+  skipjack (and schoolie-grade [yellowfin](yellowfin-tuna.md)) as
+  **Bonito-sized targets and downsize tackle/lures accordingly** — the
+  exception is bluefin, which don't get this treatment because grade is
+  unpredictable trip to trip ("you never know what size bluefin you're going
+  to run into"); see [bluefin tuna](bluefin-tuna.md) gear summary.
 - Class lexicon: [gear classes](../tackle/gear-classes.md).
 
 ## Doctrine & conflicts
@@ -66,6 +73,21 @@ but hard-charging, they'll eat almost anything moving.
   bycatch, not just target fish** — skipjack are the routine version of that, and
   a ready live-bait source when he's after bigger bluefin. No conflicts on
   record; skipjack are low-stakes and universally cooperative.
+- **Observed** (Capt. Dave Hansen, Your Saltwater Guide, 2021-01-28, Cabo San
+  Lucas, Baja — presenter not named on camera, inferred from channel
+  self-references and the registry's Cabo-charter continuity): skipjack taken
+  trolling lures worked back and forth across a
+  [current break](../conditions/current-diagnostics.md#current-break-visual-id)
+  — consistent with the aggressive-on-trolled-lures doctrine above, this time
+  in a Baja/Cabo context rather than the SoCal offshore grounds.
+- **Observed** (StokedOnFishing, 2018-03-09 upload, Buena Vista Beach Resort,
+  East Cape, Baja California Sur — `tcso7Lpm_Xs`): roughly **15–20 skipjack**
+  came aboard as bycatch on a single morning's offshore troll targeting
+  tuna/dorado/wahoo/marlin — see the
+  [trolling East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin).
+  Consistent with the everyday-bycatch doctrine above; no lure/leader detail
+  given for the skipjack specifically. Unregistered channel — medium
+  confidence.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -74,6 +96,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -82,6 +105,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Striped Marlin](striped-marlin.md)
+- [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

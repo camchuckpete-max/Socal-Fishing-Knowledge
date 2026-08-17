@@ -1,7 +1,7 @@
 ---
 type: conditions
-tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs]
+tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8]
 confidence: high
 ---
 
@@ -68,6 +68,37 @@ dirt to ambush against the structure. Same author, both statements: encode
 off-beach as dead.** This is a real seasonal nuance, not an error. See also
 [island structure](../locations/island-structure.md).
 
+## Kelp-bed corner selection by current direction (Dave Hansen, Your Saltwater Guide, `kzD0kSnnVPw`, 2019-04-07; registered voice, single mention on this specific framing — medium confidence)
+
+At a named kelp bed (his examples: San Onofre, Point Loma, La Jolla, San
+Clemente Island, Catalina), check which way the current is running at that
+spot before picking where on the bed to fish: **current running downhill →
+work the northwest corner of the kelp; current running uphill → work the
+southeast corner.** He frames this as where the bigger fish in the bed will
+be sitting, and says the same downhill/uphill-corner logic carries over to
+rock structure as well. This is a corner-level refinement of the up-current
+bias already covered above ("bias toward the up-current face under whatever
+current vector is running that day") — same mechanism, a specific compass
+answer at these named SoCal spots.
+
+## Wind direction as a per-spot selection cue (Dave Hansen inferred, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice, single mention on this specific framing — medium confidence)
+
+Alongside the current-vs-shore doctrine above, this presenter tracks **wind
+direction** as a second, related axis for choosing which spot on a list to
+fish that day: a set of spots is known to fish on a **southeast wind**, a
+different set on a **northwest wind**, layered against the **uphill-current /
+downhill-current / no-current** read covered above. The mechanism isn't
+stated in this transcript — plausibly proxying for which side of an island or
+point ends up sheltered, or for which way the wind is pushing the current the
+parallel rule cares about — but the practice itself is explicit: keep a
+per-spot record of which wind direction and which current direction each spot
+produces on, and match the day's read against that list rather than
+defaulting to the same spot regardless of conditions. Consistent with the
+spot-typology doctrine above ("each one has its own preferred directions")
+and the spatial-coherence principle below — read wind and current once, then
+check the reading against a known spot list rather than re-deriving it from
+scratch.
+
 ## Spatial coherence of current
 
 Current direction is coherent across a region on a given day. If spot A ran
@@ -94,6 +125,102 @@ The rule, nearly verbatim: **"sign associated with structure = a repeatable
 decision; sign in no-man's-land = low value."** A fish or a bird tied to a
 identifiable piece of structure gives you something you can come back to; the
 same sign in open water between features does not.
+
+## Continental margin bathymetry (mechanism, generic — not SoCal-measured)
+
+Background vocabulary for reading a fathom curve, from an oceanography lecture
+(Crust to Coast, "Introduction to the Oceans," `Bab_6o7JFh4`, 2022-08-16;
+registered mechanism source per the source registry — global averages, not a
+SoCal measurement, and not fishing doctrine):
+
+- **Continental shelf** — the shallow, flat, flooded edge of the continent;
+  global average width ~43 miles (varies hugely — the Siberian Arctic shelf
+  extends ~1,500 km/~700 mi). Biologically the richest ocean province because
+  it has both sunlight and nutrients.
+- **Shelf break** — the marked increase in slope angle between shelf and
+  slope; global average depth ~443 ft (varies by location).
+- **Continental slope** — steeper than the shelf, average ~4° (range 1–25°),
+  running from the shelf break down to ~3,000–5,000 m (~9,800–16,400 ft, roughly
+  1,640–2,735 fathoms). Submarine canyons cut into the slope (e.g. Monterey
+  Canyon), carved by turbidity currents.
+- **Continental rise** — transitional zone between continental and oceanic
+  crust, below the slope.
+- **Abyssal plain** — the deepest, flattest part of the ocean floor, from the
+  base of the continental rise to the mid-ocean ridge, roughly 4,000–6,000 m
+  deep; flattened by settled marine sediment.
+
+Cross-check against local structure: Catalina's ~500-fm curve (~3,000 ft /
+~914 m, described above) sits on the continental-slope portion of this
+generic profile, consistent with it being a compression/eddy feature rather
+than a shelf or abyssal one. This is background mechanism only — it does not
+change the fathom-curve doctrine above.
+
+## Benthic biomass distribution — sunlight + nutrients co-location (background, generic)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Geology 5 -
+Animals of the Benthic Environment," `eg8IUjeWZx8`, 2022-11-09; registered
+mechanism source — global marine-biology lecture, not a SoCal measurement, and
+not fishing doctrine):
+
+- Of the ocean's ~240,000 known species, an estimated **98% are benthic**
+  (bottom-dwelling) versus ~2% pelagic, and that distribution is "extremely
+  one-sided" toward **coastlines and the shallow continental shelf**, with a
+  secondary concentration in polar regions during their respective summers.
+- Stated mechanism: all marine life needs energy that traces back to primary
+  producers, which need **both sunlight** (abundant near the surface) **and
+  nutrients** (delivered near coastlines by coastal upwelling, which lifts
+  nutrients from the deep ocean up to the lit surface layer). Coastlines are
+  where sunlight and upwelling-supplied nutrients co-locate, so that is where
+  biomass concentrates.
+- This is the same sunlight+nutrients logic already stated above for the
+  continental shelf ("Biologically the richest ocean province because it has
+  both sunlight and nutrients") and for the current-over-structure chain at
+  the top of this note — this lecture adds the global species-count framing
+  (98%/2%, ~240,000 known species) underneath that same mechanism, not a new
+  one.
+- The lecture's habitat-type taxonomy on the way to that point (rocky shore
+  vs. sediment-covered shore vs. attached kelp forest vs. deep-ocean/
+  hydrothermal-vent chemosynthetic communities) is generic global
+  marine-biology content, not a SoCal-specific parameter, and is not carried
+  further here.
+
+## Surf-zone anatomy and longshore-current mechanism (background, generic)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Coastal
+Oceanography," `RuNH5O9olfw`, 2022-11-22; registered mechanism source — generic
+surf-zone physics, not a SoCal measurement, and not fishing doctrine):
+
+- **Surf-zone zonation** (offshore → onshore): the **longshore bar** (a
+  submerged sand ridge) and its **trough** sit in the nearshore; **breakers**
+  crash in the **surf zone**; landward of that is the **foreshore**, then the
+  **backshore**. The **swash zone** — where swash/backwash run up and down —
+  holds the **beach face**, which is the true **intertidal zone** (between
+  high and low tide). What people call "the beach" (chairs, towels) is
+  technically the **berm**, landward of the beach face, not the beach face
+  itself.
+- **Seasonal beach-profile cycle:** winter storm waves strip sand off the berm
+  and move it out to the longshore bar; summer's smaller waves redeposit that
+  sand from the bar back onto the berm. A beach's cross-shore sand profile
+  changes seasonally, independent of the day's tide.
+- **Longshore current mechanism:** California sits under the North Pacific
+  subtropical gyre (clockwise in the Northern Hemisphere, Coriolis-driven),
+  which sets the coast's **prevailing surface/longshore current north to
+  south**. Waves approaching at an angle refract to run nearly parallel to
+  shore; the resulting swash (pushed up-angle by the wave) / backwash (pulled
+  straight down-slope by gravity) cycle walks sand — and anything floating —
+  in a net zig-zag in the current's direction, called **longshore drift**.
+  This is the generic mechanism under the parallel-current rule above: the
+  coastal current's default long-run tendency is N→S, with local
+  wind/swell/bathymetry producing the uphill (S→N) and no-current departures
+  from it that rule already tracks.
+- **Rip currents** form where a **gap in the longshore bar** lets water that
+  has piled up inside the surf zone punch back out through the break in a
+  narrow, swift channel — the same "flow forced through a constriction
+  accelerates" mechanism as the current-over-structure chain above, applied to
+  a sand-bar gap rather than rock structure.
+
+This is background mechanism only — it does not add fishing doctrine or
+change any of the current/structure rules above.
 
 ## How this drives the plan
 
@@ -141,4 +268,5 @@ become primary).
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

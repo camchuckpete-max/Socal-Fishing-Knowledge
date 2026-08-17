@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [islands, structure, current, fathom-curve, catalina-eddy, paddies]
-sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs]
+sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io]
 confidence: high
 ---
 
@@ -67,6 +67,57 @@ state** — the inner zones may be fishable. This is a planning input to
 [sea state](../conditions/sea-state.md): an island-driven feature that decouples
 inner-zone seas from the offshore forecast.
 
+## Swell/wind-driven zone selection: Catalina case study (dave-hansen, single mention — medium confidence)
+
+Swell and wind direction don't only set a go/no-go call (see
+[sea state](../conditions/sea-state.md)) — they also decide **which side of the
+island is worth running to that day**. Capt. Dave Hansen (Your Saltwater Guide,
+aFb221LUoD0, 2020-10-20) frames his own Catalina game-plan process this way:
+
+- SoCal's prevailing wind and current default out of the **west**, and swell
+  usually does too — island structure and fish orientation are conditioned to
+  that pattern. A **south swell** reverses it: it pushes current in a direction
+  the fish aren't used to and tears up the water specifically on Catalina's
+  **east end**, making that end hard to fish.
+- A **big west swell** does the opposite — it's his trigger to send anglers
+  **down to the east end** rather than the front-side/backside/middle. Read
+  swell direction first, then choose east end vs. front/back/middle.
+- He builds the call from two named tools: **FishDope's charting** for water
+  clarity (chlorophyll) and water temperature, and **Buoy Weather** for swell
+  height/direction — the same swell/wind tool family already named in
+  [sea state](../conditions/sea-state.md#gono-go-wind--swell-thresholds-dave-hansen).
+  See [water color](../conditions/water-color.md) and
+  [water temperature](../conditions/water-temperature.md) for the SoCal-bight
+  read of the chlorophyll/temp axes he's charting.
+
+**Named-spot wind fit.** Individual spots also have a preferred **wind**, not
+just a preferred current direction (extends the typology above): in a
+**southeast wind**, a backside spot he calls "Freddy's Beach" in the video
+stops producing (name unverified against
+[Cameron's spot list](../profiles/cameron/spots.md) — flagged, not carried as
+confirmed; the video gives no orientation/facing detail for this spot, so none
+is asserted here), while spots where the boat lies with its **stern toward the
+island's west end** turn on — he names **Salta Verde** and Catalina's **China
+Point** (both catalogued in [the spot list](../sources/spot-lists.md); note the
+spot list also has a distinct San Clemente Island "China Point" entry — this
+claim is about Catalina's) as southeast-wind producers. The general lesson:
+learn each spot's preferred wind before committing, since the same spot can go
+from firing to dead on a wind flip with no change in current.
+
+**Observed** (StokedOnFishing, "California Offshore Challenge, part 2,"
+event ~early November 2014 per the 2014-11-11 upload, Catalina Island, day
+two — `PKf7G3uL4io`): a team (boat/team name heard as "Opportunity" in
+captions, ASR-uncertain, distinct from the "Team Killer Whale" and "Team
+Salty" identities documented in the `IATPg9110CE` entries on
+[calico bass](../species/calico-bass.md) and
+[swimbaits](../techniques/swimbaits.md)) started day two by running around
+Catalina's **West End**, found it "just blowing," and the further back
+along the **backside** they got the worse it was — they turned around and
+retreated to **seek shelter on the front side** rather than push through.
+No swell direction given on camera. Read as a same-event data point for
+west-end wind exposure alongside the swell/wind zone-selection doctrine
+above, not a new rule. Unregistered channel — medium confidence.
+
 ## Reading across the day's spots
 
 Because current direction is coherent across a region (see spatial coherence in
@@ -96,7 +147,10 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](../conditions/sea-state.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Water Color](../conditions/water-color.md)
+- [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Zone Lexicon](zone-lexicon.md)

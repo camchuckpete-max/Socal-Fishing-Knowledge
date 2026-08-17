@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [spreader-bar, half-fish, bluefin, trolling, offshore]
-sources: [cameron]
+tags: [spreader-bar, half-fish, bluefin, trolling, offshore, dorado, baja, sea-of-cortez]
+sources: [cameron, M8hOYQ_6rSg, U1AgwmlY5bI]
 confidence: high
 ---
 
@@ -28,6 +28,15 @@ This note covers the **Half Fish Bait Co** bars, the ones Cameron fishes.
   rigging to failure.
 - **Newer-model internal line spec (Half Fish):** **100 lb stinger line down the
   middle, 80 lb sides, all Izorline XXX copolymer mono** (not fluoro).
+- **Setback, 3-bar spread — Observed** (StokedOnFishing, 2024-08-14 upload,
+  Baja Blue Fin Tuna Tournament, offshore Ensenada, Baja — `U1AgwmlY5bI`;
+  unregistered channel — medium confidence): a 3-bar spread run **two
+  shorter bars on the port/starboard corners, roughly 75 yd back**, and
+  **one bar down the center, roughly 250 yd back** — the long center bar
+  well outside the 80–100 lb top-shot spec's implied working range above.
+  Bar brand/model not stated on camera for this boat, so not confirmed as
+  Half Fish; kept here as a setback data point rather than merged into the
+  Half Fish running specs.
 
 ## How to run it
 
@@ -38,6 +47,26 @@ internal line. **When** to choose a bar over a kite, a speed-trolled
 [Mad Mac](../lures/mad-mac.md), or a diver is decided in
 [bluefin trolling](../species/bluefin-trolling.md); general spread geometry and
 holder elevation are in [trolling](../techniques/trolling.md).
+
+## Baja, Sea of Cortez micro spreader bars for dorado
+
+Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered
+voice, single mention — `medium` confidence, `low` for any brand reference;
+region: Baja, Sea of Cortez. A distinct, smaller class of spreader bar from the Half Fish bluefin bars
+above — **micro spreader bars**, fished specifically for dorado:
+
+- **Why they work:** micro bars are "extremely devastating" on dorado because
+  they present **more baits in the water at once**, which draws fish in far
+  better than a single lure — the same small-bait-ball mechanism that makes
+  the larger bluefin bars effective, scaled down to a dorado-sized bait.
+- **How it's fished:** a **single rod out back** running one micro spreader
+  bar can pull dorado in well on its own — it doesn't need to anchor a full
+  spread the way a bluefin-scale bar might.
+- **Context:** feathers are not commonly trolled for dorado in the Sea of
+  Cortez, and when they are, they tend to run small — the micro spreader bar
+  is the more commonly reached-for option there. See the [Baja trolling lure
+  kit](../techniques/trolling.md#baja-sea-of-cortez-trolling-lure-kit) for the
+  rest of the Sea of Cortez trolling spread.
 
 ## Owned examples
 

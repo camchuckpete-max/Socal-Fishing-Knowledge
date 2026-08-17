@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y]
 confidence: medium
 ---
 
@@ -42,6 +42,15 @@ Braid is the main line on essentially every SoCal setup. Choosing the class
   the job allows: mostly **30 or 50 lb**, up to **65** on a jig stick, **65–80**
   for casting at 100 lb-class bluefin. **Below 30 lb** braid gets too thin for a
   baitcaster (fine on a spinning reel).
+- **Braid over mono as the main line for deep bottom fishing (Dave Hansen,
+  Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen registered
+  voice, single mention — medium confidence):** for a rockfish quick gangion fished at
+  **400–600 ft**, spool with braid, not mono — mono "has a tendency to want
+  to float," so it won't get a bait straight down to the fish fast enough,
+  and the small target spots typical of rockfish grounds punish a slow,
+  scoped drop. Fill the reel **all the way to the rim** so there's no
+  capacity shortfall on the drop or the fight. Line-class and rig detail in
+  [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md#line-class-and-spooling-dave-hansen).
 - **Thinner braid sinks faster.** On tuna gear, an 80 lb braid sinks faster than
   100 lb for the same reason it scopes less — less diameter, less drag (Cameron;
   see [gear classes](gear-classes.md) line-class notes). Reach for the thinner
@@ -85,6 +94,44 @@ Mono's stretch and its habit of staying on the spool are the point:
 - **Internal line on spreader-bar / heavy troll setups** — mono's stretch belongs
   inside those rigs; see [rod & reel selection](rod-and-reel-selection.md) and the
   trolling lure notes.
+
+**Observed — physical toll of straight braid, plus a casting-past-the-knot
+safety incident (StokedOnFishing, October 2024 trip, 2025-03-15 upload,
+Cedros Island, Baja — `ILBl12Jm7-0`, "Epic Yellowtail Fishing — This Season
+Is on Another Level"; [surface iron](../techniques/surface-iron.md), Cedros
+big-grade yellowtail; unregistered channel — medium confidence):** in an
+on-camera tackle-tips exchange, one angler (Brian, per the on-camera
+introduction) advised against fishing **straight braid** on Cedros
+yellowtail — zero stretch means "you feel every single ounce" of the fight,
+enough to leave the angler sore the next morning (pack anti-inflammatories) —
+a physical-fatigue argument for a mono/fluoro top shot's stretch, alongside
+this note's hookset-forgiveness framing above. The same exchange covered a
+**mono/fluoro mix** run on a surface iron for the extra stretch and casting
+distance, at a stated cost: **broken off in kelp a couple of times** by
+larger-grade fish on that same trip, plus a **casting-past-the-knot**
+mishap — casting a surface iron with a mono top shot past the mono-to-fluoro
+knot connection and taking "a pretty good slice in the thumb" as the knot
+ran through the caster's hand. (The exchange is multi-person and undiarized
+in the captions; beyond Brian's named tip, whether the mono/fluoro and
+knot-slice testimony belongs to Brian continuing or to another angler in the
+conversation isn't clear from the transcript — not asserted as independent
+corroboration by a separate angler.) Either way, the stated fix is to run a
+single material (all mono, all fluoro, or all braid) within casting range,
+or otherwise make sure the knot never reaches the guides/thumb on a full
+cast — the same knot-clearing-the-spool mechanism as the backlash/snapped-
+leader failure mode above, here producing a cutting injury instead.
+
+**Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+`PKf7G3uL4io`, Santa Barbara Island tournament calico fishing, event ~early
+November 2014 per the 2014-11-11 upload): one angler said he fishes
+"nothing but 25 [lb] Ultragreen Max[ima]" — straight **25 lb Maxima
+Ultragreen monofilament**, a brand he said he'd fished for roughly 15
+years — for tournament-grade kelp/rock calico bass fishing. Notably
+lighter than, and without the fluoro-leader-over-braid rigging in, the
+50–65 lb braid / 40–65 lb fluoro kelp doctrine in
+[swimbaits](../techniques/swimbaits.md); kept side by side as a distinct
+personal-preference data point rather than reconciled. Unregistered
+channel — medium confidence.
 
 Note the "you need fluoro so light doesn't travel down the line to the hook"
 argument is a **myth for short top shots**: as long as the mono is below the
@@ -140,6 +187,72 @@ able to break off** (aXF0bxAFtU0):
 - **Leader size climbs with target, not calendar:** on offshore top shots, 15–40 lb
   fluoro covers paddy fish and small-to-mid tuna; 80 lb and up is the workhorse
   for bigger bluefin (xPFm_ZV2PZU).
+- **Regional floor — Cedros Island, Baja (resident yellowtail):** because a
+  home-guard 40+ lb yellowtail can turn up anywhere around the island (even a
+  30-pounder puts you in the rocks), a Cedros trip's **line-class floor is
+  40 lb**; **50 lb** covers most everything fished that trip (short bait
+  leaders and surface iron), with **80 lb** carried as a just-in-case class
+  for black sea bass and bigger white seabass (Ray Sharifi, Dirty Hookers,
+  WE643Fue1_A, 2022-09; medium confidence, unregistered channel). See
+  [yellowtail](../species/yellowtail.md).
+- **Second Cedros data point — 80–100 lb fielded as standard, not backup
+  (StokedOnFishing, 2021-10 trip, 2022-06-05 upload, Cedros Island, Baja —
+  `QSmE3mdEL28`; unregistered channel — medium confidence):** a separate
+  Cedros trip ran **80–100 lb line class** outfits as the standing gear —
+  not an 80 lb just-in-case class — for the resident home-guard yellowtail,
+  fished over shallow rock structure (**28–30 ft**). A heavier bracket than
+  the 40 lb floor / 50 lb most-everything breakdown above from a different
+  trip/source; kept side by side, not reconciled into one number — read as
+  two operators' independent line-class choices for the same resident-fish
+  risk (getting spooled into shallow rock), not a correction of each other.
+- **Mono over fluoro for surface iron (attributed preference):** one Baja/Cedros
+  angler runs straight monofilament rather than fluorocarbon specifically for
+  surface iron fishing — fluoro for everything else on the trip — with no
+  reason stated in source (Ray Sharifi, WE643Fue1_A, 2022-09; medium
+  confidence, unregistered channel). Kept as a standalone data point on
+  material choice for [surface iron](../techniques/surface-iron.md), not
+  reconciled with the general top-shot guidance above.
+- **Wire leader over rock structure — Gonzaga Bay, Sea of Cortez (Baja):** for
+  cabrilla and barred pargo/snapper fished tight to rocky structure, one boat
+  rigs a **wire leader on 65 lb spectra mainline** — described by the anglers
+  as "real similar to Calico fishing," i.e. the same close-structure
+  casting/dropping approach as [calico bass](../species/calico-bass.md),
+  stepped up to wire specifically for the rocks and "toothy critters" this
+  structure holds. Stated reason for the heavier build: these reef fish run
+  **bigger than Cal bass**, reportedly to **15+ lb** (StokedOnFishing,
+  `_Wb4z4ammoM`, 2015-10-29; unregistered channel — medium confidence;
+  region: Baja, Sea of Cortez, Gonzaga Bay). No wire gauge or leader length
+  given in source.
+  - **Depth/bait/drag, same trip, part 2 — a separate bait-dropping
+    technique:** grouper specifically were also fished by dropping baits
+    rather than casting, starting around **80–90 ft of water**, on a wire
+    leader with the **biggest baits available**, drag run button-down/locked
+    rather than eased — the crew fished expecting to get broken off at that
+    setting. No line class given for this specific drop in source
+    (StokedOnFishing, `A6s-A1NARuA`, 2015-10-28; unregistered channel —
+    medium confidence; region: Baja, Sea of Cortez, Gonzaga Bay). See also
+    the parallel (mono/fluoro, not wire) Cesar leader build for this same
+    species/region in
+    [sliding-sinker — Baja grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar) —
+    kept side by side, not reconciled, since the two sources specify
+    different leader materials for the same fishery.
+- **Line-class ladder by expected grade, Baja long-range "lower banks"**
+  (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range Tuna Fishing
+  On The Intrepid | Part 1," 11-day trip aboard the long-range boat
+  **Intrepid**, roughly 608 nautical miles south of San Diego, Baja "lower
+  banks"; unregistered channel — medium confidence): with sonar marks read as
+  big fish (reportedly up to **200 lb-plus**) and a nearby fleet boat already
+  hooked up, a crew member's evening brief (speaker's role not identified on
+  camera — not confirmed as the captain) set gear for the next morning's
+  bite: **fish 100 lb test as the floor** — "don't go in the water with anything
+  less than a hundred pounds"; only step down to **80 lb** after first
+  assessing the grade ("if we see something smaller... that will be fine once
+  we look at it"), and **never start the morning at 80 lb**; **60 lb is ruled
+  out entirely** for this grade of fish. Given alongside a same-scene
+  drags/connections check as pre-bite gear prep the night before. A
+  long-range/giant-grade data point, kept beside — not merged into — the
+  40 lb-floor / 50 lb-most-everything Cedros yellowtail brackets and the
+  80–150 lb big-bluefin bracket logged above; a different fishery and grade.
 
 ## Connections (parameters — steps are in the rigging notes)
 
@@ -166,10 +279,13 @@ able to break off** (aXF0bxAFtU0):
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

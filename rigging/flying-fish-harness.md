@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM]
 confidence: medium
 ---
 
@@ -53,6 +53,70 @@ naturally across the surface and holds up through repeated deployments.
   12 flyers for a four-angler day and store them neatly in the cooler so they are
   ready to deploy.
 
+## Simpler alternative wing-lock: popsicle stick
+
+**Observed** (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13, SoCal, NE of Santa
+Barbara Island; unregistered channel — medium confidence): a simpler field
+method for keeping the flying fish's wings open — **staple a popsicle stick to
+the bait** rather than using the skewer-and-zip-tie harness above. Paired with
+a **tandem rig: a big single hook up front and a treble hook trailing on the
+tail**, consistent with the standard San Diego flyer rig's J-hook-plus-
+trailing-treble construction above, though this source names no leader weight
+or hook size. Kept beside, not merged into, the skewer/zip-tie method above —
+a faster field rig for the same purpose, not shown to be superior or
+inferior. Deployed the same way: main line runs to the kite line, the flyer
+dances/skips near the surface, and the fishing line comes free of the kite
+line on the bite.
+
+## Commercial pre-rigged option and a rubber-band wing-lock variant
+
+**Observed** (StokedOnFishing, `Ix0gG0-l3v0`, 2024-08-21, 2nd annual Baja Blue
+Fin Tuna Tournament, Ensenada, Baja California — region: Baja; unregistered
+channel — medium confidence): a commercially made, pre-rigged flying-fish rig
+(brand name not resolved on the audio — asr-uncertain, name withheld) sold
+ready-to-fish, built with **300 lb** leader material — on camera called
+"wire," which is not confirmed against the 200–400 lb **mono** spec above
+given ASR audio quality; kept side by side, not merged into, that mono spec.
+Same source, separately: the wing harness is sometimes secured with a
+**rubber band** rather than a zip tie — a second field-simplification,
+alongside the popsicle-stick method above, kept beside it rather than
+reconciled.
+
+## Artificial alternative — durable rubber flyer for trolling
+
+Your Saltwater Guide (`2y0VznL2qk8`, 2020-12-29; presenter not named on
+camera, inferred as Capt. Dave Hansen from channel/crew-name continuity —
+inferred attribution; dave-hansen is a registered voice, `high` confidence).
+
+- A pre-made rubber/artificial flying-fish lure (branded the "Yummy Flyer")
+  skips the harness rig above entirely and is instead **trolled at roughly
+  8.5 kt** under the kite. Reach for this rubber version specifically when
+  trolling under the kite to search (wind ~8 kt or more); the dead natural,
+  harnessed flyer above is for the dead-boat, drift-fished presentation over
+  fish that are already located. Full wind-based decision logic between the
+  two: [kite fishing](../techniques/kite-fishing.md#trolled-rubber-flyer-vs-dead-boat-dead-flyer-a-wind-driven-choice).
+
+## Artificial alternative — reusable slide-up lure ("California Flyer")
+
+**Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, Tanner Bank,
+SoCal, aboard Captain Andrew's own boat, Stoked On Fishing Charters;
+unregistered channel — medium confidence, **product/brand claim low**): a
+third flyer option this crew carried alongside dead ("frozen") flying fish
+and spreader bars — a hard-bodied artificial called the **"California
+Flyer,"** fished dead-boat/drifted under the kite rather than trolled
+(distinct from the trolled rubber "Yummy Flyer" logged above). Design point,
+kept at medium: on a hookup the lure **slides up the leader away from the
+fish's mouth**, so it isn't damaged by the fish and can be **reused** rather
+than replaced outright; the **wings are replaceable** on their own (the crew
+carried a spare pack) instead of needing a whole new lure. Late in the video
+the captain plugs his own new lure business, "Cali Made Lures," specifically
+for **spreader bars** (contact given on camera) — not explicitly reconnected
+on the audio to the California Flyer itself, though the name overlap is
+suggestive; either way, **any such brand/product claim is promotional and
+treated as `low`** per the sponsored-claim rule — only the
+slide-up/reusable/replaceable-wing mechanism above is logged as a knowledge
+point.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
@@ -62,5 +126,6 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 <!-- backlinks:end -->

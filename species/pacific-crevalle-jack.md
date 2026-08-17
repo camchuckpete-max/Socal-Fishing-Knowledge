@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [pacific-crevalle-jack, toro, baja, warm-water, inshore, structure]
-sources: [cameron]
+sources: [cameron, mL4Ph7t0WcQ, 84XPJAeH0Rw, APsnsunT4gM]
 confidence: low
 ---
 
@@ -71,12 +71,46 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
   warm water brings them into range** (memory §1). Logged as a future/opportunistic
   target; the note should be revisited and upgraded if a credible SoCal/Baja
   toro source enters the corpus.
+- **Observed** (StokedOnFishing, 2016-12-16, Lighthouse Point beach, East
+  Cape, Baja California Sur, `mL4Ph7t0WcQ`): a local captain described
+  Lighthouse Point as a beach spot with a drop very close to shore holding a
+  mixed inshore assemblage fishable by surf-casting from the beach — sharks,
+  roosterfish, jacks, dorado, and even yellowfin tuna were all named as
+  catchable there (asr-uncertain: a further species name heard as "kuas" was
+  not confidently resolved and is not carried here). First data point in this
+  corpus placing jack crevalle at a named East Cape structure spot; a
+  presence note only, not a technique or behavior claim.
+- **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
+  California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`,
+  "Non-Stop Tuna Action in Baja Mexico, part 1"; same destination as the
+  `mL4Ph7t0WcQ` entry above; unregistered channel — medium confidence): a
+  **jack crevalle** was named among a mixed morning catch alongside multiple
+  tuna (four tuna plus the jack, per the on-camera recap) — a second East
+  Cape data point placing jack crevalle in this same catch mix. A weight of
+  **65** was called out on camera for "the big one," but the audio does not
+  clearly resolve whether that figure refers to the jack or to one of the
+  tuna in the same recap, so it is not carried here as a jack crevalle
+  weight specifically.
+- **Observed** (StokedOnFishing, 2020-04-08 upload, East Cape, Baja
+  California Sur — Hotel Buena Vista Beach Resort trip, `APsnsunT4gM`, "Hot
+  Bite in Baja," 5th annual "Fiesta" trip — same resort/event as the
+  `mL4Ph7t0WcQ` and `84XPJAeH0Rw` entries above): ahead of an inshore
+  sardine-gathering session, the crew stated a plan to fish "roosters, some
+  jacks, some snappers, everything, at the lighthouse" — naming jack crevalle
+  as a hoped-for catch at that rocky structure. The video's actual on-camera
+  catch (a beach-caught dorado, then a separate rip-bait rock session
+  targeting "whatever shows up," and the trip's closing recap) names marlin,
+  tuna, snappers/pargo, and roosterfish, but **does not confirm a jack
+  crevalle was ever landed** — so this is logged only as a **named-target,
+  not a confirmed catch**, weaker than the two presence data points above.
+  Unregistered channel, sponsor-heavy video (Okuma) — medium confidence.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [August](../seasonal/august.md)
 - [Bird Reading](../conditions/bird-reading.md)
+- [California Sheephead](sheephead.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
@@ -84,7 +118,9 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

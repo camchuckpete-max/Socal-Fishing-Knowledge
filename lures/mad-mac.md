@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [mad-mac, nomad, bluefin, trolling, speed-trolling, offshore]
-sources: [cameron]
+sources: [cameron, xzIaUEDklrE, U1AgwmlY5bI]
 confidence: high
 ---
 
@@ -29,6 +29,24 @@ castable **Madmacs 130**.
     [bluefin trolling](../species/bluefin-trolling.md).
 - **Running depth:** 8–15 ft slow, 4 ft fast.
 - **Setback:** 100–150 yd for bluefin.
+  - **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
+    `xzIaUEDklrE`; unregistered channel — medium confidence): the boat's
+    center Mad Mac was run much farther back than this spec — release given
+    on camera as **"about a 70 count,"** estimated by the crew at **~300
+    yd** — specifically to give a **boat-shy school** room rather than run
+    the lure straight through it close. Kept side by side, not reconciled,
+    with the 100–150 yd figure above; the crew's own framing tied the longer
+    setback to fish behavior (boat-shy) that day, not a standing setback
+    change.
+  - **Observed, two-Mad-Mac search spread** (StokedOnFishing, 2024-08-14
+    upload, Baja Blue Fin Tuna Tournament, offshore Ensenada, Baja —
+    `U1AgwmlY5bI`; unregistered channel — medium confidence): trolling two
+    Mad Macs at once while searching, the crew staggered the setbacks so the
+    lines wouldn't cross — one at roughly an **80 count**, the shorter one
+    at roughly a **50 count** — on **Makaira 50-Wide reels** (captioned
+    "Makyra 50 Wides" — ASR-uncertain). A count-based rather than
+    yardage-based setback data point, kept side by side with the yardage
+    specs above rather than converted.
 - **Leader / top-shot:** 100 lb wind-on, **crimped, no swivel** (low-profile
   connection — a bulky snap swivel kills the swim). **Buffer the crimp at the
   lure ring** — split ring, or a crimp sleeve / chafe protector in the loop —

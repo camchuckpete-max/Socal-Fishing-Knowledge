@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ]
 confidence: high
 ---
 
@@ -49,6 +49,13 @@ is the [4-factor framework](../techniques/trolling.md).
   [bluefin](../species/bluefin-tuna.md) — see [bite leaders](../rigging/bite-leaders.md).
 - **Leader-matching**: leader is chosen against the braid class and the target
   (Academy Ep16) — [line & leader](line-and-leader.md).
+- **PE rating — why jig gear is labeled PE, not just lb:** outside the US,
+  braid and jig-rod ratings are commonly given in **PE** (polyethylene) numbers
+  keyed to line **diameter**, not breaking strength — as a rough conversion,
+  **65 lb test ≈ PE5**. That's why knife/speed-jig and SPJ rods are commonly
+  rated by a PE window rather than by pound test; read a PE number as a
+  diameter/line-class window, not a strength spec
+  (Ul5FLB2dFgQ; medium confidence, unregistered channel).
 
 ## Lure classes (cross-reference)
 
@@ -80,9 +87,11 @@ does the lookup.
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)

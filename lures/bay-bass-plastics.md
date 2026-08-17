@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo]
 confidence: medium
 ---
 
@@ -41,6 +41,33 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
   aren't big and the finesse profile is the point.
 - **Colors:** natural bay-forage patterns (green pumpkin, morning dawn, motor oil,
   smelt/sardine, root beer). Match the light and the water; keep it subtle.
+- **Observed** (StokedOnFishing, 2012-04-17, San Diego Bay): during an early
+  stop of SWBA tournament pre-fishing (before the crew moved on to flip
+  docks elsewhere in the session), a bite in roughly 18–20 ft came on a
+  basic natural **shad-pattern** soft plastic ("basic color... just like a
+  little shad pattern"), worked either right on the drop or on a slow
+  wind-back near bottom; the crew also noted an anchovy smell in the water.
+  Multi-speaker, unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2012-04-19, San Diego Bay/Chula Vista Marina):
+  during the SWBA Border Town Brawl tournament day itself (spotted-bay-bass-only
+  event), the crew reported a **shrimp-pattern** lure working on fish through
+  the session (narration cuts off before naming the bait type or rigging
+  detail). Multi-speaker, unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): when
+  overcast moved in, two anglers on the same boat both switched to
+  **darker-colored** plastics and each drew a fish shortly after the change —
+  a color-to-light-condition adjustment, not a doctrine claim. Multi-speaker,
+  unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): with smelt
+  or anchovies visibly present in the water, the presenter swapped to a bait
+  described as matching that baitfish's small profile (exact
+  color/model garbled in the audio) — a bait-profile-to-forage matching move,
+  not a doctrine claim. Multi-speaker, unregistered channel — medium
+  confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): a small
+  **Yamamoto grub tail** in **hot orange** was named as the bait in play late
+  in the session and produced a (small) fish. Multi-speaker, unregistered
+  channel — medium confidence.
 
 ## How to fish it
 
@@ -51,8 +78,40 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
 - **Drop shot** — [drop shot](../techniques/drop-shot.md): weight on the bottom,
   bait suspended just above, shake it in place; twitch-reel-twitch a fluke, steady
   wind a grub. Light spinning, 10–12 lb leader, light drag.
+- **Drag-and-pause retrieve** (Roman Castro, EGKesj7V64M, 2019-06-18; medium
+  confidence) — an alternative cadence to the Ned bounce-and-drop or the
+  drop-shot twitch: with the bait already down, lift the rod tip (no reeling) to
+  drag the bait a short distance across the bottom, then lower the rod while
+  reeling up the resulting slack so the bait sits still through the reset;
+  repeat drag-pause-drag. From the fish's side it reads as a drag then a dead
+  stop, not a swim.
 
 Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md).
+
+## Rigging tip — glue the head to the plastic
+
+A drop of super glue between a jighead and a soft-plastic body (Ned/fluke/
+paddletail) stops the bait sliding down the hook shank when a fish grabs it
+off-center — a loose bait rides low on the hook and misses the hookset (Roman
+Castro, EGKesj7V64M, 2019-06-18; medium confidence).
+
+## Rigging tip — rotate the hook position to stretch one bait further
+
+On a thin-wire Ned hook, repeated hooksets stretch and eventually tear the
+plastic right at the hook bend; once torn there, the stretch point moves past
+the hook and a fish gets more slack material to mouth before it reaches metal —
+a hookup killer. Rather than replace the bait at the first tear, **re-seat the
+hook through a fresh, untorn spot** — rotate around the body (top, belly, one
+side, the other side, roughly a quarter turn each time) until the first end is
+used up, then flip the bait around and repeat on the other end. Roman Castro
+reports getting roughly **10–20 fish per hook position**, so a single
+durable-plastic bait (TRD or similarly built) can land on the order of **100
+fish** across all the rotations before it's spent — he went through the 100-spotty
+session on one bait, having lost two other rigged baits to a bad hookset and a
+snag. A thin-wire hook is why the tearing happens at all; Z-Man's
+**PowerFinesse** Ned combo uses a slightly thicker, taller-gap hook that's
+reported to tear the bait less (Roman Castro, 6L8nIFeqvkw, 2019-04-24; medium
+confidence).
 
 ## Owned examples
 

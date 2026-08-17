@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp]
-sources: [YIABTTYXeqc, n6PTy8g3pb0]
+tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU]
 confidence: high
 ---
 
@@ -26,6 +26,16 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   large spring** or **Trokar/Eagle Claw XL spring**) and **bury the spring all
   the way so the plastic butts up to the hook** — that keeps it tracking and lets
   a single bait land roughly **10 times as many fish**.
+- **Observed** (StokedOnFishing, 2012-09-15, Catalina Island backside —
+  `mXu8vJ8yr4Q`): a weedless-rigged swimbait fished repeatedly through kelp
+  boilers — the crew's fourth or fifth trip out that same week on the same
+  lead head — was said to "run out of paint on the head before you'll lose
+  it," coming through the kelp clean without popping off. Some anglers were
+  described as wary of how much these weedless hooks flex, but the angler
+  fishing it reported never losing a fish to that flex over repeated trips.
+  Corroborates the durability framing above (the buried-spring rigging
+  landing roughly 10x the fish per bait) with an independent multi-trip data
+  point. Unregistered channel — medium confidence.
 - **Keel-weight selection** — weights come **half oz, 3/4 oz, or nano**; the
   heavier **3/4 oz** is preferred (Landesfeind) because it **keeps the bait in
   the water while you wind fast**. Go lighter (half oz / nano) for a slower,
@@ -35,12 +45,74 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   fish rise to meet it. Not weedless, so fish it off the harder bottom/edges
   rather than in the thick kelp.
 - **Sizes:** a **5-inch** up ahead and a **7-inch** as the main lure is the split
-  used on a double rig; 5"–7" covers most calico/sand-bass work.
+  used on a double rig; 5"–7" covers most calico/sand-bass work. A **9-inch
+  MC-class swimbait ("MC9")** was the pick for a first-time San Clemente
+  Island trip and drew a bite on the very first cast (a ~6.5 lb kelp bass
+  landed), so 9" is a workable upper end for big kelp-bed calicos, not just
+  5"–7" (StokedOnFishing, San Clemente Island, 2015-10-28, `9xNhdu2aBqE`;
+  unregistered channel, single mention — medium confidence).
 - **Colors:** color matters little — a **green-top / gold-bottom ("hot koch")** is
   a confidence pattern that works cloudy or sunny, warm or cold. Carry a natural
   (green/gold, sardine) and a dark. Fish what you believe in.
+  **Observed** (StokedOnFishing, 2015-01-20, Cedros/Gono Islands, Baja —
+  `_C8w6zeVPak`): the best-producing bait across this trip was an **MC
+  weedless bait on a number 9 wide-gap hook**, with **red/brown** or **green**
+  named as the colors that worked best. Kept side by side with the
+  "color matters little" framing above, not generalized from one trip; the
+  **number 9 wide-gap hook** is a distinct data point from, not reconciled
+  with, the **Gamakatsu 7/0** keel-weighted-hook spec already in this note —
+  unclear whether "number 9" reflects a different sizing convention or an
+  imprecise on-camera mention. Unregistered channel — medium confidence.
+  **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
+  `XwwIvPFxRiQ`, Cedros Island Adventure part 2; unregistered channel —
+  medium confidence): calico bass tackle for the trip was **MC-series
+  swimbaits** (captioned "Vio series" — ASR-uncertain, not confirmed by
+  name) in the **5-7 in** range on leadheads (brand captioned unclearly —
+  ASR-uncertain, not confirmed by name) run **1/2 oz up to 1.5 oz depending
+  on how deep they were fishing**; best colors named were **red, green, and
+  brown**. Jigs and a spinner-blade lure (captioned "bolt thrower" — ASR-
+  uncertain, not confirmed by name) also produced fish, but the swimbait was
+  the trip's top overall producer. A third, independent red/green/brown data
+  point — kept beside, not reconciled with, the "color matters little" /
+  green-gold "hot koch" framing above.
+  **Observed** (StokedOnFishing, "California Offshore Challenge, part 2" —
+  `PKf7G3uL4io`, Santa Barbara Island, event ~early November 2014 per the
+  2014-11-11 upload): an angler fishing a **red "Calico Hunter"**-named
+  bait (model/brand not otherwise identified on camera) cycled through
+  three other colors without a bite, then went back to the original red
+  Calico Hunter and got bit twice on back-to-back casts — floated on camera
+  as maybe a color-pattern day, "you never know." A fourth independent
+  color data point, kept beside rather than reconciled with the "color
+  matters little" framing above. Unregistered channel — medium confidence.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
+
+### Tuna-foamer glide swimbait ("Mad Eel")
+
+**Capt. Dave Hansen, Your Saltwater Guide (ftEvyfwjZFU, 2021-06-08); dave-hansen
+registered voice — `high` confidence.** A different application of the same
+soft-plastic swimbait class, cast at [bluefin](../species/bluefin-tuna.md)
+foamers rather than fished over bass structure. Named on the captions as "Mad
+Eel" — **asr-uncertain**, not confidently resolved to a specific product; the
+KB separately has an unresolved reference to a Nomad "Riptide 105"/"Mad Scad"
+glide swimbait from a different promo video (see the flyline row in the
+Situations → techniques table of [bluefin tuna](../species/bluefin-tuna.md))
+that this may or may not be the same lure as — noted side by side, not
+reconciled.
+
+- **Rigging:** tied straight to the lure eye with a
+  [San Diego jam](../rigging/essential-knots.md). The video does not state a
+  leader material or weight for this specific bait — the **60 lb
+  fluorocarbon / no-swivel-no-bead / "that's how these are made"** rationale
+  in this video is given for the wing stick bait (below), not repeated for
+  the Mad Eel; kept separate rather than assumed to carry over.
+- **How to fish it:** cast into the foamer and **let it sink while keeping the
+  reel in gear** — the bait swims as it sinks, reading as an anchovy going
+  down through the water column. On the bite, **wind, don't swing** —
+  swinging pulls the bait out of the strike zone before the fish eats it
+  (named as the single biggest failure anglers make with this bait). See
+  [foamer casting](../techniques/foamer-casting.md) for the general
+  run-and-gun approach this fits into.
 
 ## How to fish it
 
@@ -64,11 +136,15 @@ baits and heads from the class terms above; see
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

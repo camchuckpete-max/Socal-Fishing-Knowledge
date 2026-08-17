@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [striped-marlin, bait-and-switch, teaser, pitch-bait, billfish]
-sources: []   # no verifiable source — unsourced skeleton carried from the initial build; see note body
+sources: [Mwx5AAXNMvE]   # Mwx5AAXNMvE is a Baja/Cabo dropback data point only — SoCal marlin bait-and-switch execution still has no corpus source; see note body
 confidence: low
 ---
 
@@ -47,9 +47,28 @@ item). Treat every line below as unverified until a real source lands.
 None of these have a SoCal corpus source yet; do not fill them from general
 knowledge — log new sources against this note when the batch lands.
 
+**Observed (Baja, Cabo San Lucas, region label)** (StokedOnFishing,
+2014-12-03 upload, offshore Cabo San Lucas — `Mwx5AAXNMvE`, "Stoked On Cabo
+San Lucas, Part 2"; continuation of the same Hurricane Fishing charter as the
+Part 1 dropback data point in
+[striped marlin](../species/striped-marlin.md#situations--techniques);
+unregistered channel — medium confidence): the trip's closing tips segment
+named the **drop-back** as "definitely the best bet" for hookups — contrasted,
+same trip, with two blue marlin strikes on trolled lures that didn't stay
+pinned (logged in
+[trolling — Cabo San Lucas lure entry](trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging)).
+The live-bait dropback rig named was **80 lb "Soft Steel" Ultra**
+monofilament (sponsor-named line; "Soft Steel" branding also heard elsewhere
+in this corpus for the same sponsor, e.g.
+[yellowfin tuna](../species/yellowfin-tuna.md)) tied to a **#9 circle hook**.
+A Baja/Cabo data point for the pitch-timing and hookset gaps above, not a
+SoCal source — kept region-labeled rather than treated as filling them.
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [Striped Marlin](../species/striped-marlin.md)
+- [Trolling](trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [water-color, chlorophyll, clarity, upwelling, white-seabass, bait, edges]
-sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron]
+sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI]
 confidence: high
 ---
 
@@ -59,6 +59,30 @@ broadly high, let **clarity** be the deciding axis and steer off the dead green
 water. (Consistent with the corpus "warmest × cleanest" read for
 [yellowfin](../species/yellowfin-tuna.md).)
 
+## Light penetration and why blue water is blue (mechanism, generic — not SoCal-measured)
+
+Background mechanism from an oceanography lecture (Crust to Coast, "Physical
+Oceanography," `i4OB4G6_adI`, 2022-09-27; registered mechanism source per the
+source registry — global generic figures, not a SoCal measurement, and not
+fishing doctrine): solar energy attenuates fast with depth — roughly **45% of
+surface solar energy remains at 1 m, 16% at 10 m, 1% at 100 m**, and much less
+by 1,000 m. The ocean absorbs different light wavelengths at different rates;
+shorter wavelengths (visible light spans roughly 400–700 nm) penetrate
+furthest, with **blue penetrating the furthest of all** — the other
+wavelengths get absorbed first, leaving blue as the color that scatters back
+to the eye, which is why open ocean water reads blue (green readings are a
+separate, additional effect — see the chlorophyll/bloom mechanism above).
+Depth is also zoned by how much light reaches it: **photic** (well-lit,
+upper water column), **dysphotic** (twilight, dim light — the specific depth
+boundary given on camera was inconsistent/ASR-garbled and is not carried
+here), and **aphotic** (**below ~1,000 m**, no light, complete darkness).
+This photic/dysphotic/aphotic terminology is consistent with, and not a
+contradiction of, the epipelagic/euphotic (0–200 m) and mesopelagic
+(200–1,000 m) zone vocabulary already logged in
+[deep scattering layer](deep-scattering-layer.md) from a companion Crust to
+Coast lecture — background terminology only; it does not change the
+color/clarity doctrine above.
+
 ## Related
 
 - [Water temperature](water-temperature.md) — the paired SST axis and break-side
@@ -80,13 +104,16 @@ water. (Consistent with the corpus "warmest × cleanest" read for
 - [Current Diagnostics](current-diagnostics.md)
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Deep Scattering Layer](deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
+- [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [October](../seasonal/october.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
+- [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)

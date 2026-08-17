@@ -1,0 +1,153 @@
+name: batch2-ingest-chunk
+# Unattended batch-2 ingestion chunk runner. Lives ONLY on
+# claude/batch2-ingestion-rb0v4i; nothing here ever writes to main.
+# Resume heartbeat = the batch2-trampoline workflow on main (hourly
+# dispatch; GitHub cron cannot fire from a non-default branch) plus
+# end-of-run self-re-dispatch below. Kill switch: a file named STOP at
+# the root of the ingestion branch (preflight exits silently).
+
+on:
+  workflow_dispatch:
+    inputs:
+      chunk_size:
+        description: "Rows to process this run (canary: 1)"
+        type: string
+        default: "15"
+      chain_count:
+        description: "Self-dispatch depth (leave 0)"
+        type: string
+        default: "0"
+      redispatch:
+        description: "Re-dispatch when rows remain (canary: false)"
+        type: string
+        default: "true"
+
+concurrency:
+  group: batch2-ingest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      BRANCH: claude/batch2-ingestion-rb0v4i
+    steps:
+      - name: Checkout ingestion branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/batch2-ingestion-rb0v4i
+          fetch-depth: 0
+
+      - name: Preflight guards
+        id: preflight
+        env:
+          HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+          HAS_OAUTH: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+        run: |
+          set -euo pipefail
+          if [ -f STOP ]; then
+            echo "STOP file present — exiting silently (Cameron's kill switch)."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          pending=$(python scripts/next-video.py --count)
+          echo "pending=$pending"
+          if [ "$pending" = "0" ]; then
+            echo "Worklist empty — batch complete. Nothing to do."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "$HAS_KEY" != "true" ] && [ "$HAS_OAUTH" != "true" ]; then
+            echo "::error::No auth secret found. Add repo secret ANTHROPIC_API_KEY"
+            echo "::error::(or CLAUDE_CODE_OAUTH_TOKEN) under Settings -> Secrets"
+            echo "::error::and variables -> Actions, then re-dispatch."
+            exit 1
+          fi
+          echo "run_base=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "proceed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Git identity
+        if: steps.preflight.outputs.proceed == 'true'
+        run: |
+          git config user.name "batch2-ingest[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run orchestrator (extract -> evaluate -> commit per video)
+        if: steps.preflight.outputs.proceed == 'true'
+        timeout-minutes: 300
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Explicit token skips the action's OIDC app-token exchange, which
+          # needs id-token:write + the Claude GitHub App (canary attempt 2
+          # failed there). The orchestrator only uses git via Bash.
+          github_token: ${{ github.token }}
+          # Every dispatch in this chain is bot-initiated (canary helper,
+          # self-re-dispatch, trampoline on main) — the action rejects bot
+          # actors unless allowlisted (canary attempt 3 failed there).
+          allowed_bots: "github-actions,github-actions[bot]"
+          prompt: |
+            Read prompts/orchestrate-chunk.md and follow it exactly.
+            CHUNK_SIZE=${{ inputs.chunk_size }}.
+          claude_args: >-
+            --model claude-sonnet-5
+            --max-turns 400
+            --allowedTools "Bash(git:*),Bash(python:*),Bash(python3:*),Bash(bash:*),Bash(scripts/*),Read,Grep,Glob,Edit,Write,Task"
+
+      - name: Mechanical guard sweep (re-check every commit this run)
+        if: always() && steps.preflight.outputs.proceed == 'true'
+        run: |
+          set -euo pipefail
+          python scripts/batch2/guard.py sweep --base "${{ steps.preflight.outputs.run_base }}"
+          git push origin "HEAD:$BRANCH" || (git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH")
+
+      - name: Progress checkpoint
+        if: always() && steps.preflight.outputs.proceed == 'true'
+        run: |
+          set -euo pipefail
+          python scripts/batch2/progress.py
+          if ! git diff --quiet -- sources/batch-2-progress.md; then
+            git add sources/batch-2-progress.md
+            git commit -m "batch2: progress checkpoint"
+            git push origin "HEAD:$BRANCH" || (git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH")
+          fi
+
+      - name: Re-dispatch next chunk
+        if: always() && steps.preflight.outputs.proceed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [ "${{ inputs.redispatch }}" != "true" ]; then
+            echo "redispatch=false (canary) — stopping here."; exit 0
+          fi
+          if [ -f STOP ]; then echo "STOP appeared — not re-dispatching."; exit 0; fi
+          pending=$(python scripts/next-video.py --count)
+          if [ "$pending" = "0" ]; then echo "Worklist empty — chain complete."; exit 0; fi
+          chain=${{ inputs.chain_count }}
+          if [ "$chain" -ge 40 ]; then
+            echo "::warning::chain_count cap (40) reached — not re-dispatching."; exit 0
+          fi
+          # Progress checkpoints commit every run (timestamp), so compare
+          # against run_base EXCLUDING them or this backoff never triggers.
+          real=$(git rev-list --count --invert-grep --grep='^batch2: progress checkpoint' "${{ steps.preflight.outputs.run_base }}..HEAD")
+          if [ "$real" = "0" ]; then
+            echo "::warning::Zero non-checkpoint commits this run (API outage / agent failure)."
+            echo "Not self-re-dispatching; the hourly trampoline provides backoff."
+            exit 0
+          fi
+          for delay in 0 10 30 90; do
+            sleep "$delay"
+            if gh workflow run ingest-chunk.yml --ref "$BRANCH" \
+                 -f chunk_size="${{ inputs.chunk_size }}" \
+                 -f chain_count="$((chain + 1))" \
+                 -f redispatch=true; then
+              echo "Re-dispatched (chain depth $((chain + 1)))."; exit 0
+            fi
+          done
+          echo "::warning::Re-dispatch failed after retries; trampoline will resume within the hour."

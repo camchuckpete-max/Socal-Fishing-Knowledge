@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c]
 confidence: high
 ---
 
@@ -30,6 +30,62 @@ the routers: [bluefin tuna](../species/bluefin-tuna.md) and
 - Budget **about 2 to 3 casts per school**, then move to the next one. Foamers
   are short-lived; do not stake one out.
 
+**Observed, trip-tips summary (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06
+upload, offshore San Diego, bluefin on a kelp paddy; unregistered channel —
+medium confidence):** a three-point approach given on camera, consistent
+with, and adding detail to, the get-ahead-of-travel rule above — (1) watch
+the white tern birds and try to guess which way the school is traveling;
+(2) once you think you've read the direction right, **don't run straight up
+on the fish** — swing **out and around** the school so you come to rest
+ahead of its travel, then **shut down and let the fish come into casting
+distance** rather than closing the last distance under power; (3) **match
+the hatch** of whatever bait the fish are on (that day, anchovies) —
+see the [Savage Gear Squish jig](../lures/tuna-poppers-and-stickbaits.md#savage-gear-squish-jig-anchovy-match-the-hatch)
+entry for the lure pick that produced. Point (2) is a wide-swing-then-drift
+variant of "set up ahead of the school," not a contradiction of the
+stop-hard-and-cast-immediately mechanic above — this source frames it as a
+stealthier arrival for a school still under way, while the stop-hard
+mechanic above applies once you're already on a foaming ball.
+
+**Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
+California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
+unregistered channel — medium confidence): while running toward a known
+pack of working boats, the crew spotted a smaller, separate patch of surface
+activity ("a little something something") off to the side and chose to
+**veer off and make a couple of casts at it first**, rather than continuing
+straight to the main pack — a detour the crew estimated cost "only... a
+couple of minutes." That smaller patch turned out to be biting, framed on
+camera as "it never hurts to take a shot, take a quick look." Separately in
+the same episode, a small popper cast at bait breaking the surface
+("puddles") drew an immediate blow-up. Region/species: Baja tuna (species
+not named on camera), not the SoCal bluefin/yellowfin foamer program this
+note otherwise documents — logged as a side-by-side scouting-philosophy data
+point; no retrieve, lure model, or hookup detail is given beyond what's
+noted here.
+
+**Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+`e73wPONTOJU`; unregistered channel — medium confidence): working a string
+of individual bluefin foamers rather than one big school — get in front of a
+spot, the school sinks out before or as the boat arrives, move on to the
+next spot that's popped up — described on camera as "like playing Pac-Man
+and asteroids and a little pinball machine." The fish were keyed on **baby
+anchovies about two to three inches in length**. Corroborates the short-lived,
+move-fast-between-schools framing above (budget ~2–3 casts per school) and the
+tiny-anchovy downsizing note in [bluefin tuna](../species/bluefin-tuna.md)
+rather than adding a new mechanism.
+
+**Observed** (StokedOnFishing, `M7BtON4GZgQ`, "Bluefin Fishing on the El
+Dorado," trip dated August 2020 (limited-load, pandemic-era charter; video
+uploaded 2021-02-03), west end of Catalina Island, SoCal, aboard the 85 ft
+El Dorado, Long Beach Sportfishing; unregistered channel — medium
+confidence): sliding up on a showing school, the crew's call was to **bomb a
+Colt Sniper into the middle of the fish and drag it through**, with a
+flylined bait rigged as a backup rod ready on the same push, switching over
+to the flyline once the boat started to drift on the fish. That trip ran **a
+lot of run-and-gun, not much drifting**, framed on camera as the pattern for
+the whole day — consistent with, not new beyond, the run-and-gun approach
+already documented above.
+
 ## Foamer taxonomy — which foamers to spend casts on
 
 Two basic kinds of foamer (8/17/22, 8/31/22 reports):
@@ -51,6 +107,28 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   jig stick, sweeping the rod sideways is awkward, so keep the **rod tip high and
   burn 2 to 3 reel turns** to jump the lure — same action, easier on the long
   rod.
+- **Popper cadence detail — cast to the edge, not the middle (Cesar, Eric's
+  Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; first commit, medium
+  confidence pending repetition):** cast a popper (a small-profile,
+  big-face popper such as a [Nomad Chug
+  Norris](../lures/tuna-poppers-and-stickbaits.md) is the example given) to
+  the **edge of the boil**, not into the middle of it. Let it sit for a
+  **three count**, then give **one good hard rip**, and wait — the bait
+  should sit there "standing like a wounded bait." The common failure is
+  popping it continuously, like bass fishing: the fish key on **where the
+  bait was**, not where it currently is, so working it too fast pulls it out
+  of the strike zone before a following fish commits. Popper sizing (a
+  yellowfin-specific length cap) is a lure spec, not a retrieve mechanic —
+  see [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+  for that number.
+- **Trip-to-trip variability extends to popper vs. fast-mover, not just
+  retrieve speed within one lure (same source):** some trips the fish want
+  the popper's long-pause presentation above; other trips they want a
+  **fast-moving bait** instead — switch to a stickbait or diving pencil (see
+  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)) when
+  a long-paused popper isn't getting bit. Consistent with the existing
+  trip-dependent retrieve-speed note for the RW Peanut in that same note —
+  read the bite each trip rather than assuming a cadence.
 - **Surface iron or stickbait** when the fish are keyed on sardine or smaller
   mackerel: cast into the thick of the foam, give it a **one- or two-second
   count**, then burn it back. Pick irons that stay pinned under a fast wind-in
@@ -62,7 +140,59 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   re-cast. These sink fast enough that you may need to size the leader down to
   40 or even 30 lb.
 
+- **Don't overwork the pop (Roman Castro, mWxyjDrcdXM, 2021-07-17; unregistered
+  channel — medium confidence):** the pop itself doesn't need to be hard or
+  frequent — light pops with real pauses between them ("boom... wait...
+  boom") is the cadence, consistent with the pause-not-pop principle above.
+  When fish are truly balled up and foaming hard, precise placement matters
+  less than just getting the popper into the general area — there are fish
+  packed close enough together that presentation forgives some sloppiness.
+
 Poppers and stickbaits: [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md).
+
+**Additional small-lead-bait names, corroborating (Ray Sharifi, Dirty Hookers,
+42A8Owhc8fw, 2023-08-02; unregistered channel — medium confidence):** on a
+Channel Islands fleet trip where full-day boats weren't yet connecting on the
+bluefin foamers, his casting picks were a **Daiwa SK jig**, **Shimano Colt
+Sniper**, and the newer **RW Peanuts** (carrying both 80 g and 100 g) — small,
+heavy profile is the point, not the exact model, matching the small-lead-bait
+class above. Full rod/reel spec (a 60–80 lb outfit) is in
+[rod & reel selection](../tackle/rod-and-reel-selection.md). For extra
+confidence over a bare top-shot connection to the lure, he'll add a short
+~2 ft, 150–200 lb bite leader (see
+[bluefin bite leaders](../rigging/bite-leaders.md)) — his framing: a
+confidence add, not a requirement.
+
+## Hookup, drag, and the fight (Roman Castro, mWxyjDrcdXM, 2021-07-17; unregistered channel — medium confidence)
+
+- **Confirm tight contact before you strike.** Don't set the hook on the eat
+  until the line comes tight.
+- **Loosen the drag right at hookup on a densely packed foamer, not tighten
+  it.** When bluefin are foaming shoulder-to-shoulder, a hooked fish's line
+  runs through the mouths of the other fish balled up around it and gets
+  bitten/rubbed through — a **"scissored" break-off**. Some fish will be lost
+  this way on a tight foamer no matter what you do; running the drag looser
+  than instinct says right after the strike reduces it but doesn't eliminate
+  it.
+- **Cast the outside fish of the ball, not into the thick of the foam, to cut
+  scissoring risk** — a hookup on the edge has less line running back through
+  the packed middle to get cut. This is a distinct mechanism for the same
+  edge-not-middle placement Cesar gives above under "Popper cadence detail,"
+  which is framed there as a bite-triggering choice, not a scissoring one —
+  two reasons pointing to the same cast placement.
+- **Once tight and the fish is running, leave the drag alone** — no thumbing
+  the spool, no cranking down to try to stop a hot run; let it run (reels
+  carry plenty of line for a 500-yard run). Panicking and clamping down is
+  what gets anglers spooled or busted off.
+- **Do not rush the fight.** On mid-weight conventional tackle (a Daiwa Lexa
+  400-class reel is the example given), a 100 lb-class bluefin can take
+  **45 minutes to an hour** to boat — expected, not a sign something's wrong.
+  Once solidly hooked and buttoned up on gear in this class, the fish is
+  unlikely to come off; working it patiently beats horsing it.
+- **Multiple anglers hooked up in the same school: keep the lines apart.**
+  One moment of two braids touching each other is enough to part one —
+  coordinate rod position/direction (go over/under each other) rather than
+  crossing.
 
 ## Cameron's run-and-gun foamer program (attributed)
 
@@ -97,11 +227,19 @@ the column, which is when foamers are most likely to start
   instead of waiting for the circular form.
 - Setting up **behind** the school instead of ahead of its travel.
 - **Oversized presentation** when the bait is tiny — downsize.
+- **Clamping the drag down or thumbing the spool on a fresh hookup** instead
+  of letting a running fish go — panicking to stop the first run is what gets
+  anglers spooled or busted off, and rushing the fight afterward doesn't
+  actually get a big fish to the boat faster (Roman Castro, mWxyjDrcdXM,
+  2021-07-17; medium confidence).
+- **Crossing lines with another hooked-up angler** in the same school — one
+  touch of braid-on-braid parts the line (same source).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
@@ -110,7 +248,10 @@ the column, which is when foamers are most likely to start
 - [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](surface-iron.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

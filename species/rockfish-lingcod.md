@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E]
+tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM]
 confidence: high
 ---
 
@@ -70,6 +70,14 @@ the *bottom*, not the fish.
   the rockfish stack; a bigger, lower mark holding right on the rock and picking
   at a bait dropped past it = **lingcod** (they bite from the side and often miss
   the hook — drop back and be patient).
+- **Species read on where the drift puts you (Scotty, Brothers Sportfishing,
+  via Roman Castro, _ZThckj2TIM, 2020-04-04; capt-scotty-brothers registered —
+  high confidence):** reds/vermilion sit **tight to the rock itself** — drop
+  baits right on the structure for them. **Bocaccio ("salmon grouper")** hold
+  in the **sandy areas off the rock**, not on it — a drift that's off the
+  rock, or missing it, produces bocaccio instead of reds. Which species you
+  get is a function of exactly where the drift lays your bait relative to the
+  hard bottom, not just being "in the zone."
 
 ## Situations → techniques
 
@@ -108,11 +116,142 @@ the *bottom*, not the fish.
   route differently — see [ocean whitefish](../species/ocean-whitefish.md).
 - **Season/regs are the hard gate.** Depth limits and the year-end closure change
   annually and by area — the KB does not encode current-year regs; confirm with
+  CDFW before the trip. One concrete effect: the 43 bank (below-Clemente
+  complex) fell inside a closed rockfish area, so effort that used to target it
+  for rockfish shifted to [bluefin tuna](bluefin-tuna.md) on the same high spot
+  instead (California/CDFW, as-of 2020-12, Rf1HKJG-SDg; verify current regs).
+- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
+  2026-02-17 upload, `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada,
+  Mexico"; guide Alejandro, a local; unregistered channel — medium
+  confidence): after a yellowtail stop went quiet, the crew slid out to
+  where "the bottom drops off to about **300 ft**" over rocky bottom (see the
+  [slow-pitch jigging](../techniques/slow-pitch-jigging.md) Ensenada entry
+  for the drop mechanics) and split the boat between two methods worked at
+  once: [slow-pitch jigging](../techniques/slow-pitch-jigging.md) for part of
+  the crew and a "classic" dead-bait dropper rig (a couple of hooks above a
+  weight, reeled up off the rocks and left to soak) for the rest — both
+  producing steadily. The catch was a mixed bottomfish bag consistent with
+  this note's complex: **reds/vermilion** (called "red snapper" on camera as
+  a local nickname, then self-corrected to rockfish), a **bocaccio**
+  ("salmon grouper" — matches this note's existing bocaccio nickname), and
+  multiple **lingcod**, including one angler's remark that lingcod color
+  varies fish-to-fish (blue, brown, and green all called out on different
+  fish). Two bonito were also taken on slow-pitch jigs at the same stop — see
+  the [bonito](bonito.md) Ensenada entry. No depth-limit or season detail
+  given on camera; not treated as current regulatory guidance (see the
+  season/regs note above — California rockfish regs do not apply in Mexican
+  waters in any case; verify current Mexican/Baja regs separately before
+  fishing there).
+- **Observed** (StokedOnFishing, 2017-11-25 upload, a high spot roughly
+  **7–8 mi** from the Hotel Coral marina, Ensenada, Baja California —
+  `CKq0Z6ExVs4`, "Navico Weekend Getaway," footage from the same annual
+  Navico supplier-conference trip out of Hotel Coral as the `0bcDBGzQnGw`
+  entry above (different year — this video predates that one); unregistered
+  channel — medium confidence; region: Baja, Ensenada): the spot was
+  described on camera as coming up to about **25 ft from roughly 200 ft**.
+  Working it on the drift, the captain repositioned mid-session after the
+  boat's drift direction reversed from what the first pass had shown,
+  resetting up-drift of the structure "to have a good window to... drop
+  down" onto it again — a live example of correcting for a drift reversal on
+  a bottom-structure spot rather than working it blind. The stop produced
+  multiple **lingcod** (handled carefully for their teeth) and a fish the
+  crew called a "**rock bass**," then nicknamed on camera as a "**tree
+  fish**" — a new nickname data point for this note, not previously logged
+  here (compare the bocaccio/"salmon grouper" nickname above). Whitefish,
+  sheephead, and yellowtail catches from the same stop are logged in
+  [ocean whitefish](ocean-whitefish.md), [California
+  sheephead](sheephead.md), and [yellowtail](yellowtail.md#where--when).
+- **Observed** (StokedOnFishing, `ilINTeknKB4`, "Intrepid Style 8 Day, part
+  3," 2015-10-29 upload, San Benito Island, Baja, part 3 of the 8-day
+  charter aboard the **Intrepid** logged in
+  [yellowtail](yellowtail.md#where--when) and
+  [bluefin tuna](bluefin-tuna.md#where--when); unregistered channel,
+  sponsor-heavy episode — medium confidence): the crew set up a drift over
+  **200 ft** of jagged, rocky bottom, with the captain warning the rail to
+  get sinkers and iron up off the bottom quickly once they touched down or
+  lose the terminal tackle to the rocks — a further Baja hard-bottom
+  snag-risk data point. The meter showed a little bit of yellowtail sign at
+  the same spot, called "still a little early" for that bite. The drift
+  produced **lingcod** and **red rockfish** ("red snapper" on camera, this
+  note's reds/vermilion nickname), including a double hookup of one of each
+  species on the same drift; one hookup was tied on camera to a **bonita
+  strip** bait. One red rockfish was released for being oversized (garbled
+  on-camera reasoning, not carried as a confirmed size limit — see the
+  regs caveat above). Consistent with, not new beyond, the reds/lingcod
+  hard-bottom complex already documented in this note.
+- **Observed** (StokedOnFishing, `Y1xeieQI3B4`, 2025-05-10, Cortez Bank aboard
+  the 85 ft *El Dorado* — unregistered channel, medium confidence): on day two
+  of a 2.5-day trip, once the crew had boxed limits of bluefin tuna ("limits
+  of blue fin tuna for 23 passengers" on camera) and a good stack of
+  good-grade yellowtail, Captain TJ suggested switching the whole boat over to
+  rockfishing for the rest of the day — explicitly to "fill the bags," since
+  the crew stated the boat's daily allowance as 20 fish per angler and the
+  sacks weren't yet full on bluefin and yellowtail alone (a passenger/CPFV
+  sack-limit figure stated on camera, not stamped here as current regulatory
+  guidance — jurisdiction/as-of not given; verify current CDFW/CPFV bag limits
+  separately). The stop produced lingcod (multiple,
+  one taken "right under the gill") and ocean whitefish — see the
+  [ocean whitefish](../species/ocean-whitefish.md) Cortez Bank entry — fished
+  on jigging gear described on camera as mostly braid (called "90% braid" and
+  "95% braid" by different anglers on camera). Consistent with this note's
+  framing of Cortez Bank/offshore banks as a deep-rock destination, and a
+  concrete example of the mid-trip pelagic-to-bottomfish switch pattern on a
+  multi-day SoCal/Baja-bank charter.
+- **Observed** (StokedOnFishing, 2023-02-22 upload, Cortez Bank aboard the
+  85 ft *El Dorado*, day-and-a-half charter out of Long Beach Sportfishing,
+  Captain TJ, `fDSd9kqwYW0`, "Yellowtail and Rockfish Galore! Non-Stop
+  Action on the Cortez Bank"; unregistered channel — medium confidence): a
+  morning stop **up on a ridge, on the edge of the bank, in roughly
+  150 ft**, drifted (crew instructed to keep the wind in their faces —
+  "you want that wind to be in your face so it's pushing the boat and
+  your line's going [away]" — so lines trailed away from the boat rather
+  than under it), produced reds/vermilion
+  rockfish alongside California sheephead and ocean whitefish — plus a
+  further catch the crew called on camera as "sandwich groupers"
+  (ASR-uncertain, species not confidently resolved, not carried as a
+  species ID). The crew reported filling a stated **10-fish** rockfish
+  allowance ("fulfilled our 10 around on the rockfish" — a passenger/CPFV
+  limit figure as called on camera, not stamped here as current
+  regulatory guidance; verify current CDFW/CPFV bag limits separately)
+  before moving into the shallows for more sheephead/whitefish and then
+  anchoring on the bank's yellowtail bite — see the
+  [yellowtail](yellowtail.md#where--when) Cortez Bank entry for that leg
+  and the trip's flyline tackle.
+- **Observed** (StokedOnFishing, 2017-07-18 upload, Santa Barbara Island,
+  SoCal — `SGbynqaiHdY`, "STOKED On Save The Brave," charity charter for 15
+  military veterans aboard the 85 ft El Dorado, Long Beach Sport Fishing;
+  unregistered channel — medium confidence): pre-trip, the captain named
+  rockfishing as the backup plan if the island's yellowtail didn't produce,
+  calling for a **1/2 lb sliding sinker**, **30 lb test line** (25 lb as a
+  lighter option), and **2/0 to 5/0 hooks** — see [sliding
+  sinker](../techniques/sliding-sinker.md) for the rig mechanics this pairs
+  with. On the water the trip produced a heavy **red/vermilion rockfish**
+  bite on live squid fished on light sliding sinkers near kelp and a ridge in
+  roughly **102 ft**, with red crab present on the structure — full trip
+  detail, including a later repositioning to 20 fathoms on the outer edge,
+  logged in [yellowtail](yellowtail.md#where--when).
+- **Historical example — reopen date and a depth-limit progression (California/CDFW,
+  as-of 2019-02, self-admitted uncertain reading of the regs — verify current
+  before using any of these numbers):** the presenter describes the SoCal
+  rockfish season reopening **March 1**, and recounts a depth-limit progression
+  he read in the regs then current — **300 ft**, held at **350 ft** for "a couple
+  years," then rising to **460 ft** effective that January (January 2019) — while
+  explicitly saying he "could be totally wrong" about that reading (lF6jQklDCrY,
+  2019-02-06). This is a dated historical data point only, illustrating that
+  depth limits move over time; it is not current guidance.
   CDFW before the trip.
+- **Handling caution:** rockfish dorsal spines carry a **mild venom** — minor,
+  not a serious hazard, but worth being deliberate handling the fish (Scotty,
+  Brothers Sportfishing, _ZThckj2TIM, 2020-04-04; high confidence). Undersized/
+  protected fish need a **weighted release device** to survive the trip back
+  down from depth — see [releasing fish from depth](../techniques/rockfish-deep-dropping.md#releasing-fish-from-depth-descender).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Tuna](bluefin-tuna.md)
+- [California Barracuda](barracuda.md)
+- [California Sheephead](sheephead.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
@@ -124,10 +263,14 @@ the *bottom*, not the fish.
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
+- [Pacific Bonito](bonito.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Water Regimes](../conditions/water-regimes.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
+- [Yellowtail](yellowtail.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

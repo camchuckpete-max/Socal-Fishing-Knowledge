@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [zones, search-box, naming, geography, planning]
-sources: [cameron, Blh2BA-7Ono]
+sources: [cameron, Blh2BA-7Ono, Rf1HKJG-SDg]
 confidence: high
 ---
 
@@ -46,6 +46,42 @@ bluefin (9/14/22 report). Again a *region* to work through, not a point. As the
 coast cools and fragments in fall the fish condense outward toward Tanner and
 Cortez; that migration is tracked in [bight geography](bight-geography.md).
 
+## Bank naming — the fathom-depth convention
+
+Why banks get short numeric names, and what the number means (Capt. Dave
+Hansen, Your Saltwater Guide, Rf1HKJG-SDg, 2020-12-15; registered voice,
+single mention — medium confidence). Most of the
+inshore mainland water — a mile to a mile-and-a-half off the beach from Dana
+Point through Newport and Marina del Rey out to Catalina — is already **2,000–
+3,000 ft deep**; Huntington is the one stretch that stays shallower longer
+because of the flats there. Against that deep, mostly featureless bottom, a
+**bank is an isolated high spot** — a submerged mountain rising up out of the
+surrounding depth. Bait stages on the high spot for shelter and the gamefish
+follow the bait; structure is the constant across every fishery region (SoCal,
+Cabo, Florida, Alaska, the Gulf), even though current, tide, and water
+temperature also matter.
+
+- **The convention:** a bank is named for the **fathom depth of its shallowest
+  (highest) point**, as read on the sounder — "182" tops out at 182 fathoms
+  before the bottom falls away to the surrounding depth; "209" tops out at 209
+  fathoms; "43" tops out at 43 fathoms. A depth only earns "bank" status when
+  it's an isolated high spot rising out of otherwise deep water — other places
+  read the same fathom figure without being "a bank."
+- **The exception — named for distance, not depth.** Nine Mile Bank is named
+  for sitting **9 (statute) miles off the coast**, not for a 9-fathom depth; it
+  carries many closely spaced high spots of similar depth rather than one
+  dominant peak — in places it comes up to roughly 600 ft (exact figure
+  uncertain in the source audio) — so no single fathom number describes it.
+  "The 14" follows the same distance-naming pattern, sitting **14 miles off
+  the beach**.
+- **Six feet to a fathom.** This is also why the sounder itself is
+  historically called a "fathometer" — see
+  [electronics and sounder](../planning/electronics-and-sounder.md).
+
+This is the naming layer behind the below-Clemente complex (43, 181, 182, 289)
+above and the spot-file collision rules below — most named spots really are
+just their fathom number.
+
 ## Spot-file naming conventions (Cameron)
 
 When you build your own spot library, names collide constantly (dozens of banks
@@ -85,7 +121,9 @@ many *drops*.
 - [Bight Geography](bight-geography.md)
 - [BightSST Eval Targets](bightsst-eval-targets.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [California Sheephead](../species/sheephead.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
+- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Island Structure](island-structure.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

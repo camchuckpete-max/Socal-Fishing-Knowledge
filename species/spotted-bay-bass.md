@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI]
 confidence: high
 ---
 
@@ -37,6 +37,45 @@ every structure spot when the tide turns.
   **up-current of the structure** and re-read when the tide switches — a spot on
   the up-current side of a channel edge on the flood is on the wrong side after
   the change ([tide and slack](../conditions/tide-and-slack.md)).
+- **Read current off the grass, cast up-current across the grain:** eelgrass
+  blades lean visibly with the flow like a flag. Cast up-current and retrieve
+  with the lean rather than against it — retrieving against the grain drags the
+  lure into the standing blades and snags, while retrieving with the grain swims
+  clean; a bass also sits facing up-current, so it sees the lure coming toward it
+  down-current instead of from behind (Roman Castro, EGKesj7V64M, 2019-06-18;
+  medium confidence).
+- **Slack itself is the slow window:** roughly the half hour before and half
+  hour after a tide's high/low turn, current all but stops — fish the
+  moving-water stretch on either side of that window rather than the peak
+  itself (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence), consistent
+  with the fully-tide-driven doctrine above.
+- **Observed** (StokedOnFishing, 2019-05-04, Mission Bay): presenter called a
+  **4–5 ft tidal swing** the target range — a low of **0.21 ft at 06:41**
+  building to a **3.7 ft high at noon** was called "an excellent tide." He
+  described a much bigger swing (his example: **~7 ft**) as pushing the fish to
+  hunker down, forcing a move to the **back bay** to keep catching; consistent
+  with the fully-tide-driven doctrine above. Unregistered channel,
+  presenter-inferred (multi-speaker, no diarization) — medium confidence.
+- **Observed (Baja, region label)** (StokedOnFishing, 2018-02-07 upload, La
+  Bocana estuary (Estero), Baja California Sur, Pacific side — `Cobp85UvHmM`,
+  "Stoked On La Bocana," part 2): inshore estuary fishing produced grouper as
+  the clearly-shown landed catch on camera; the closing narration also names
+  "spotties" alongside "little groupers" as part of the Estero's population,
+  though no spotted bay bass is distinctly shown being landed in this
+  footage. The crew called both "radical spotties and little groupers in the
+  Estero" and said they "get a lot bigger than this" — an unverified local
+  claim about the fishery's ceiling grade, not corroborated by any bigger
+  fish landed in this footage. No tide, structure, or technique detail given.
+  Unregistered channel — medium confidence.
+
+- **Observed** (StokedOnFishing, 2025-05-16, Long Beach / Alamitos Bay — Olive
+  Crest ProAm charity bass tournament, `SdwwpQMJEOI`, "Battles for the Biggest
+  Bass — This Is the Olive Crest Bass Fishing Tournament"): a team fishing
+  spotted bay bass for the first time reported no bites through a slack/
+  no-current stretch, then connecting once current came back on —
+  "current... no current... finally got current, we got bites" — consistent
+  with the fully-tide-driven doctrine above. Multi-speaker, unregistered
+  channel, presenter not identified — medium confidence.
 
 ## Finding them (sign & sonar)
 
@@ -52,9 +91,39 @@ General method: [search & glassing](../planning/search-and-glassing.md).
   mooring cans, then on the back side where a channel came **up from ~13 ft to
   ~11–12 ft**. Typical working depth is **12–14 ft**, but a bite can come 4 ft
   under the boat — vary the retrieve depth to find them.
+- **Observed** (StokedOnFishing, 2012-04-17, San Diego Bay): at an early stop
+  during SWBA tournament pre-fishing (structure not specified in that
+  segment — the crew moved on and only started dock/piling flipping later
+  in the same session), bites came in water the crew called "pretty deep
+  here" — roughly **18–20 ft**, deeper than the 12–14 ft typical range
+  above; the take came bottom-bouncing, right as the bait dropped near
+  bottom. Multi-speaker, unregistered channel — medium confidence.
+- **Observed** (StokedOnFishing, 2020-05-13, location not stated): presenter
+  called fish suspended around **18–20 ft** in **30 ft** of water — another
+  data point deeper than the 12–14 ft typical range above (audio partly
+  garbled on the exact split between the suspension depth and the bottom
+  depth; figures as best transcribed). Multi-speaker, unregistered channel —
+  medium confidence.
 - **Sign:** birds sitting on the riprap mark the current deviations
   ([bird reading](../conditions/bird-reading.md)); watch your line on the sink —
   the twitch/take-off is the bite before the rod feels it.
+- **Loose clustering, not tight schools:** spotties aren't shoulder-to-shoulder,
+  but they do hold in the same general zones — especially one favored eelgrass
+  patch. After a bite, work that same spot and the water immediately around it a
+  few more casts before moving on (spearfishing/diver observation, Roman Castro,
+  EGKesj7V64M, 2019-06-18; medium confidence).
+- **Zone → spot search pattern (kayak):** break the water into zones (connected
+  structure stretches) and each zone into spots (casting range from one fixed
+  position); work a spot deep-then-shallow before ruling it empty, and lean
+  each new spot toward whichever side is producing. Full method (cast counts,
+  overlap, and when to restart the pattern) is in
+  [search & glassing](../planning/search-and-glassing.md) (Roman Castro,
+  6L8nIFeqvkw, 2019-04-24; medium confidence).
+- **Read grass color, not just grass presence:** brown, decaying eelgrass is
+  releasing CO2 as it dies, so that water runs less oxygenated; green,
+  photosynthesizing grass is producing oxygen. If you snag brown grass, move to a
+  green patch — color is a fast proxy for which water is holding fish (Roman
+  Castro, EGKesj7V64M, 2019-06-18; medium confidence).
 
 ## Situations → techniques
 
@@ -65,6 +134,7 @@ General method: [search & glassing](../planning/search-and-glassing.md).
 | Back-bay, smaller aggressive fish, finesse | **Ned rig** ([ned rig](../techniques/ned-rig.md)) — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap/speed-up; one durable bait catches 50 fish |
 | Fish suspended off structure / need a slow horizontal fall | **Drop shot** ([drop shot](../techniques/drop-shot.md)) | light spinning class | Holds the bait at their level over a channel edge |
 | Live bait around structure | **Flyline / small live bait** ([flyline](../techniques/flyline.md)) | finesse fly-line class | Sweeps the up-current edge |
+| Covering water, want multiple hookup chances at once | **Umbrella rig / A-rig** — several small swim jigs on a bent-wire harness ([swimbaits](../techniques/swimbaits.md)) | casting, standard bass class | Roman Castro, Mission Bay; medium confidence, corroborated by a second (unattributed) StokedOnFishing presenter |
 
 Every technique is either **power fishing** (crankbait, covering water fast) or
 **finesse** (flukes, Ned, drop shot on light spinning) — pick by mood and clarity.
@@ -91,10 +161,18 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - **The bay is the all-weather fallback:** when the outside coast is blown out or
   rained on, spotties in the harbor stay catchable — this fishery keeps the day
   alive when the offshore/island plan dies.
+- **Legal size (California/CDFW, as-of 2024-11, verify current rules):**
+  spotted bay bass carry **no minimum size limit**, unlike
+  [calico bass](calico-bass.md) and [sand bass](sand-bass.md) (both **14 in**)
+  (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel — medium
+  confidence). The same source describes spotties as typically released
+  rather than kept — a fighting fish, not a table fish, in this crew's
+  practice.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barred Sand Bass](sand-bass.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bird Reading](../conditions/bird-reading.md)

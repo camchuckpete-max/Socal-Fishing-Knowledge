@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4]
 confidence: medium
 ---
 
@@ -33,9 +33,38 @@ re-checked against **current CDFW rules** before every trip — they change.
   [bays and harbors](../locations/bays-and-harbors.md).
 - **Depth bands:** the rig fishes **~40–50 ft of rope** to the net, so you're
   working structure in that general depth range and shallower; drop **on the rock,
-  not off it in open sand.**
+  not off it in open sand.** A second source describes fishing considerably
+  shallower at **Catalina — 20 ft and 30 ft** — off a 65-ft Hatteras
+  (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26), so the workable
+  band runs shallower than 40–50 ft depending on the structure fished; match
+  rope length to the actual drop rather than assuming one depth band.
+- **Depth shifts by season, so vary the drop early in the season (StokedOnFishing,
+  2014-11-03, Catalina Island, SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3";
+  sponsor-heavy episode; unregistered channel — medium confidence):** on the
+  crew's first trip of a season, the presenter notes lobster sit **shallow in
+  the summer months** in some years but have been found **out in deep water**
+  in other seasons — no fixed rule for which a given season will be early on —
+  so the stated approach was to **spread nets across different depths** rather
+  than commit to one band until the night's crawl shows where they're sitting.
+  A further data point alongside, not a reconciliation of, the Catalina
+  20–30 ft and general 40–50 ft bands above.
+- **Post-rain trigger in bays/harbors (Long Beach/LA Harbor, San Diego):** once
+  rain starts falling in season, get gear ready — the source frames the onset
+  of rain as a trigger for an especially strong crawl in the LA/Long Beach
+  Harbor complex and San Diego, calling it a chance at "lobsters of a
+  lifetime" (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26;
+  single-source tutorial claim, not yet corroborated — treat as a lean, not a
+  rule).
 - **When — night.** Lobster crawl and feed after dark; hoop netting is a nighttime
   activity, which is why the buoys carry **LED lights** to relocate them.
+- **Moon timing — darkest nights best.** Within the season, favor the **darkest,
+  no-moon nights** (including rough/rainy/stormy dark nights): a bright moon
+  suppresses lobster crawling/travel the same way daylight would, since they're
+  nocturnal to avoid predation. This is a lean, not a shutout — hedged by the
+  same source's own record of catching lobster (and knowing others who caught
+  "lots") during full moons too (dave-hansen, fri_BWI-VA0, 2022-02-12). See
+  [moon](../conditions/moon.md#lobster-darkest-no-moon-nights-are-best) for the
+  full writeup and how this contrasts with the pelagic/bass moon doctrine.
 
 ## Finding them (sign & structure)
 
@@ -78,14 +107,29 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
     blank until after.
   - **Gear limits:** **5 hoop nets per angler** from a boat, **max 10 nets per
     boat** regardless of how many anglers; **2 nets per person** from shore or a
-    public pier. Each buoy must carry your **name and GO ID**.
+    public pier. Fishing the full 10-net boat limit therefore requires a
+    **minimum of two people** aboard (5 nets each) — one angler alone is capped
+    at 5, even on a boat licensed for 10 (Roman Castro/Scotty, Qs9oEsh3b_w,
+    2020-10-17; medium confidence, unregistered channel).
+  - **Buoy marking:** each buoy must carry your **name and GO ID** — a 10-digit
+    number printed on your California fishing license, one line below the
+    barcode. Write it directly on the buoy in permanent marker if every net on
+    the boat is your own gear; if you're running gear that's split across
+    multiple people (e.g. a charter operator providing all the nets, so some
+    buoys must carry a client's or crewmate's GO ID rather than your own), mark
+    the number on a securely-attached piece of tape instead so it can be
+    swapped per net rather than permanently written on gear that isn't always
+    tied to the same license (Qs9oEsh3b_w).
   - **Size:** measure the **carapace** — from between the eye-socket horns,
     parallel down the center of the shell, to the rear edge of the carapace — and
     it must exceed **3.25 inches**. If the gauge fits between (even by a
     millimeter), it's **short — release it immediately.** CDFW enforces strictly.
-- **Confidence: medium** — single source; treat the exact numbers as a starting
-  point and confirm the season, bag limit, size, and gear counts with CDFW each
-  year, since they change and the source predates the current regs.
+- **Confidence: medium** — the core season/gear-count/size doctrine is
+  single-sourced (BD spiny-lobster tips), and the GO ID/two-angler nuance above
+  adds a second, still-unregistered-channel source; treat the exact numbers as
+  a starting point and confirm the season, bag limit, size, and gear counts
+  with CDFW each year, since they change and both sources predate the current
+  regs.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -96,6 +140,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Island Structure](../locations/island-structure.md)
+- [Moon](../conditions/moon.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

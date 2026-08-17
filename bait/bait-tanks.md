@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, cameron]
+tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw]
 confidence: medium
 ---
 
@@ -32,6 +32,61 @@ The takeaways: **round/oval, not square**; **circular flow, not a center
 standpipe**; keep the **whole column turning**; and set the drain so the bait
 isn't fighting to stay off a screen.
 
+**Placement and sizing (dave-hansen, Your Saltwater Guide, BdRX4b8Fo5w,
+2021-02-04; registered voice — corroborates the round/oval shape above, now
+repeated doctrine):** put the tank **dead center in the middle of the deck**
+so every angler on board has equal access to it, not tucked to one rail. Size
+it as big as the boat can carry — on a sportboat "the whole back of the boat
+is bait tank." The reason: tank capacity is what lets everyone keep changing
+bait as often as the bite demands (see the bait-changing cadence in
+[fishing live bait](fishing-live-bait.md)) without running out mid-day.
+
+**Same doctrine stated two years earlier, with the placement mechanism spelled
+out (dave-hansen, Your Saltwater Guide, 9hEa3sGTh40, 2019-08-20; registered
+voice — this predates BdRX4b8Fo5w above and is the earliest statement of the
+round/oval + dead-center rule in the corpus):** don't put the tank on the swim
+step or the back of the boat — it stops all flow on the boat, and with the
+tank aft only one angler at a time can reach it while everyone else's movement
+around the boat also stalls. Dead center of the cockpit is the right call on
+**any boat from 17 ft to 80 ft**.
+
+## Offshore bait budget — a floor, not a target
+
+There's no bait once you're offshore, so the tank has to leave the dock loaded
+for the whole trip, not just for the ride out. From the same earlier video
+(dave-hansen, Your Saltwater Guide, 9hEa3sGTh40, 2019-08-20; registered voice,
+single mention — medium confidence; the fixed number below is superseded as a
+day-by-day rule by the judgment call in "Judging load size at the barge"
+below, but the floor and the reasoning still stand as a sanity check):
+
+- **Take at least three scoops of bait every time you run offshore** —
+  whether the run is 40–50 miles or 100 miles off the beach. Asking the bait
+  barge for a half scoop before an offshore run is a mistake: bait gets used
+  to throw, to chum, and to fish with, and there's no topping off once you're
+  out there.
+- **Even a big tank runs dry.** On the captain's own sportboat the bait tank
+  holds 360 gallons and typically carries **~20 scoops of bait** — and the
+  boat still runs out some days. Burning through bait fast isn't a sign of
+  doing it wrong; offshore tuna fishing goes through a large amount of bait
+  between chumming and fishing it, so load for that rather than against a
+  "that should be enough" instinct.
+
+## Sharing bait between boats without rafting up
+
+**Observed** (StokedOnFishing, August trip (year not stated on camera),
+2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
+"Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
+the Eldorado; unregistered channel — medium confidence): when a nearby boat
+— reportedly on its own multi-day trip ("I do believe they're on a
+2-day") — had its bait net **roll overnight** and lost its bait, this crew
+shared bait without rafting up boat-to-boat. Instead of
+passing scoops hand-to-hand across the gunnels, they threw a line back to
+the other boat so its crew could **retrieve their own buoy line, pull their
+bait net to the side of their boat, lift it, and scoop bait straight out of
+it**. Framed on camera as safer and easier than tying up boat-to-boat,
+specifically **in a rolly swell condition**, where extended side-by-side
+contact between boats risks damage ("bad things can happen").
+
 ## Sizing flow to volume (GPH-to-gallons)
 
 A bait pump is rated in **GPH (gallons per hour)**. Match the pump's GPH to the
@@ -50,6 +105,107 @@ the oxygen and dies.
   [fishing live bait](fishing-live-bait.md)).
 - **Steady flow** is the whole job — an interruption to the pump is what kills a
   tank of bait.
+- **Squid-specific density note** (StokedOnFishing, Catalina Island trip,
+  2023-08-23, xFS3MW4GpDU; unregistered channel — medium confidence): squid
+  need oxygen the same as finfish bait, so don't overfill the tank on the
+  loading pass — packing squid too densely was described as making them
+  "mate quicker and die quicker," a problem on a multi-day trip that needs
+  the squid to last. Balance the load against how many days the squid has to
+  keep.
+
+## Observed — long-range multi-day load and "first day is everything" (Baja, Intrepid)
+
+**Observed** (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range
+Tuna Fishing On The Intrepid | Part 1," 11-day trip aboard the long-range boat
+**Intrepid**, out of San Diego bound for Baja "lower banks"; unregistered
+channel — medium confidence): the dockside load was a mix of **sardines and
+green mackerel**, including bait held over from a prior trip and described on
+camera as **"six-day-old cured"** stock, loaded at roughly **700 scoops** for
+the 11-day run — a far larger multi-day figure than the ~20-scoop/360-gallon
+single-day sportboat example logged above, consistent with the "even a big
+tank runs dry" doctrine given the much longer trip length. On-camera doctrine
+from the same loading scene: the **first day's load is the most important of
+the trip** — load it **light**, keep it **alive** and **"dancing on [the]
+scales,"** because overloading **dries the bait out and starts it dying off**,
+putting stress on the bait supply for the rest of the trip. This is an
+independent corroboration, from a different (long-range, multi-day) program,
+of the load-light-and-watch-how-it-swims judgment call below (dave-hansen,
+`7WapaxdtjQg`) and the don't-overload doctrine in "Keeping it clean and not
+overloading" above.
+
+## Judging load size at the barge (dave-hansen, 7WapaxdtjQg, 2022-01-04)
+
+There's no fixed scoop count — load lightly and **watch how the bait swims in
+the tank** before adding more, rather than loading to a preset number. The
+right amount changes **every single day** and **from boat to boat** (even the
+same captain running a different boat each day sees a different answer), so
+treat it as a judgment call made fresh at the barge each trip, weighing:
+
+- **Quality of the bait that day** — lively bait tolerates a fuller tank;
+  sluggish bait doesn't.
+- **Water temperature.**
+- **Distance you're about to run** — a longer run to the grounds calls for a
+  lighter load than a short hop.
+- **Bait type/shape** — smaller-bodied bait (e.g. anchovy) lets you take more
+  scoops before the tank is loaded than a bulkier bait (e.g. big sardines);
+  on one trip three scoops of anchovy filled the tank, which is part of why
+  the captain prefers anchovy over "the big giant sardine" for tank
+  management.
+
+## Visual health tell when the bait is first loaded (Observed)
+
+**Observed** (StokedOnFishing, `HueC1KHrcVw`, 2016-08-08 upload, "Top Gun 80
+Epic 5 Day, part 1," H&M Landing, San Diego, SoCal; unregistered channel —
+medium confidence): a crew member's dockside rule of thumb for judging a
+scoop of bait the moment it hits the tank, extending the "quality of the
+bait that day" factor in "Judging load size at the barge" above with a
+concrete visual tell:
+
+- **Good sign:** the bait balls up and swims in a tight circle, and the water
+  it was loaded in doesn't carry many loose scales.
+- **Bad sign:** a scoop that sheds a lot of scales/flakes into the water on
+  the way in. That bait was called out as **not likely to last through the
+  full day** — over the next day or so it starts "turning red" (visibly
+  reddening, described on camera as looking like a "Christmas tree") before
+  it dies.
+- The crew tied bait quality to timing — bait had reportedly been tough, but
+  the two days just before filming had produced great bait — framed as a
+  moon-phase/timing issue for when bait moves up in the water column, rather
+  than a boat- or gear-side problem.
+
+This is a loading-moment health tell, distinct from the tank-side "lime-green
+back, scales intact, no red/bloody nose" selection rubric already documented
+in [fishing live bait](fishing-live-bait.md#bait-selection-is-king) for
+picking a bait to fish once it's already survived in the tank — kept beside
+it, not merged, since it applies at a different moment (the scoop hitting
+the tank vs. choosing one to hook later).
+
+## Underway: lid off, tap-scoop culling (dave-hansen, L_FD-UzvEio, 2022-02-04)
+
+- **Run with the lid off**, not sealed shut for the ride. A closed lid hides a
+  dead pump — a boat can run 2.5 hours to Catalina with the lid sealed and only
+  discover at the destination that the pump quit and the whole tank of bait is
+  dead. A little water on the crew underway is the tradeoff for being able to
+  see the tank.
+- **Dead bait leaches a toxin** that kills live bait around it — visible as an
+  oil sheen rising to the surface of the tank when dead bait sits on the
+  bottom. That's what makes prompt culling (above) more than tidiness.
+- **Tap-scoop technique to cull without stressing the tank:** lower the scoop
+  gently to the bottom, tap the bottom of the tank with it (tap-tap-tap) so
+  the live bait scatters clear, then you can see the dead bait sitting on the
+  bottom. Scoop it up **without pulling the net out of the water**, pick the
+  dead baits out at the surface, and release the live bait back into the tank.
+- **Never pull live bait out of the water just to look at it** — it knocks the
+  scales off and turns healthy bait into damaged bait you'll have to cull. The
+  only times bait should leave the water are walking it to the rod to hook it,
+  or to chum. **Same rule, repeated roughly three and a half years earlier
+  (dave-hansen, Your Saltwater Guide, 6ueGWJek1gI, 2018-08-16):** carry the bait to the rod in
+  the net rather than by hand, and lean the rod on the rail instead of
+  bringing it to the tank — see the tank-to-hook workflow in
+  [fishing live bait](fishing-live-bait.md).
+- Culled dead bait isn't wasted: unless the boat has an unusually large bait
+  supply, save it in a bucket (a 5-gallon bucket covers most boats) and use it
+  for chum through the day, including chumming on the anchor.
 
 ## Worked example — Cameron's panga tank
 
@@ -82,6 +238,7 @@ see [making bait](making-bait.md).
 
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
+- [Chunking](../techniques/chunking.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Making Bait](making-bait.md)
 <!-- backlinks:end -->

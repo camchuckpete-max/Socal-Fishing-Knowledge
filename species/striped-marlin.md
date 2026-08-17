@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE, mG8ZZLFGlT8]
 confidence: medium
 ---
 
@@ -60,6 +60,134 @@ question (see **Doctrine & conflicts**).
 | **Tailing / finning fish sighted** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live bait to the raised fish | Flyline / live-bait class | **⚠ Execution note is a flagged stub** (no corpus source yet); the pitch rod sits rigged and ready the whole troll |
 | **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (5to3Q5P7w90) |
 
+**Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+`e73wPONTOJU`; unregistered channel — medium confidence): after the crew gave
+up on the morning's bluefin bite and turned to run down toward kelp paddies
+for dorado/yellowtail, they hooked and landed a striped marlin — called on
+camera "first Marlin I've seen yet" / "first one we've got a chance to
+actually put on the boat" — the boat's first marlin of the trip. What was in
+the water at the moment of the bite is not clearly identifiable on camera
+(the audio is too garbled to confirm lure or bait), so it is not logged as a
+targeted technique; distinct from the dedicated bait-and-switch program in
+the table above.
+
+**Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2018-12-17
+upload, offshore of Ensenada, Baja California — `0bcDBGzQnGw`, "Fishing In
+Baja with Navico & Tito Ortiz, Part 1"; unregistered channel — medium
+confidence): while working a dolphin/porpoise school that had broken into a
+full foamer, the crew saw a striped marlin jump right at the boat; an angler
+(Dan) hooked up moments later, but whether that hookup was the marlin or a
+separate fish (tuna was the stop's stated target) is not confirmed on
+camera — kept as an uncertain marlin data point rather than a confirmed
+catch. Full stop detail (search pattern, trolling, flyline/chunk
+conversion, break-offs) is logged in
+[trolling — Ensenada dolphin-school entry](../techniques/trolling.md#ensenada-baja--dolphin-school-troll-and-foamer-conversion).
+
+**Observed (Baja, region label)** (StokedOnFishing, 2020-09-25 upload,
+Magdalena Bay, Baja California Sur — `4t_Z75shK_E`, "One of the World's Best
+Offshore Fishing Destinations, Mag Bay"; unregistered channel — medium
+confidence; distinct region from the SoCal doctrine above): the episode intro
+described striped marlin as abundant at Mag Bay in fall ("loaded with stripe
+marlin... they're everywhere"). Separately, in the pre-trip dockside
+interview, lure-company owner/guide Toby gave a general bait-to-lure-size
+heuristic — not tied to a specific confirmed catch on this trip: both
+mackerel and sardine bait balls are present at Mag Bay, and when marlin are
+feeding on the smaller sardines rather than mackerel, his striped marlin
+customarily hit smaller trolled lures, while the bigger lures in his spread
+are more for blue/black marlin (no blue/black marlin landed on camera this
+trip). Not evaluated elsewhere in this corpus for Baja marlin. See the
+[Magdalena Bay trolling entry](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin)
+for the full session (wind lay-up context, dead-bait rigging, wahoo lure).
+
+**Observed (Baja, East Cape, region label)** (StokedOnFishing, presenter
+Shay, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape, Sea of Cortez, Baja
+California Sur — Hotel Buena Vista Beach Resort "fifth annual Stoked On
+Fishing Fiesta"; unregistered channel — medium confidence, asr-uncertain): a
+marlin was released on camera ("we're about to release his first marlin
+under the trip" — species/exact grade not confirmed on camera). Earlier the
+same day the crew announced "we've already got five of them on board" —
+the presenter's first, "a couple" for one angler (Ryan), and "a few" for
+another (Rick) — framed on camera as their **first day** "starting off with
+a bang." Whether that five-count refers specifically to marlin or to the
+trip's broader tuna catch is not stated explicitly on camera; carried here
+as an uncertain marlin data point (release language and the episode's
+marlin billing point that way) rather than an asserted marlin tally. No
+technique, lure, or bait detail is given for these catches/releases. Distinct region
+from the SoCal fall doctrine above; corroborates the general pattern of heavy
+tuna-and-marlin action already logged for this East Cape/Fiesta operation in
+[yellowfin tuna](../species/yellowfin-tuna.md) and
+[fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
+
+**Observed (Baja, East Cape, region label)** (StokedOnFishing, `mG8ZZLFGlT8`,
+2016-12-22 upload, East Cape, Sea of Cortez, Baja California Sur — Hotel
+Buena Vista Beach Resort, "Stoked On Hotel Buena Vista Beach Resort, Part
+3"; the resort's **first annual** Stoked On Fishing Fiesta (2016) —
+chronologically earlier than the "fifth annual" `BQ2U1PqxWi8` entry above;
+unregistered channel — medium confidence): a young angler (Jayden) landed
+his first striped marlin on camera ("chocolate baby," "shiny one") after an
+extended fight — no release shown on camera, so disposition isn't
+confirmed — following a first-ever big tuna catch
+earlier the same trip — no lure, bait, or leader detail given on camera.
+The same trip's separate ~500 lb blue marlin catch (no dedicated
+blue-marlin species note exists in this corpus) — including a troll-rework
+tactic and an extended team hand-off fight — is logged in
+[trolling — East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin),
+with the hand-off practice cross-referenced in
+[fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+
+**Observed (Baja, Cabo San Lucas, region label)** (StokedOnFishing,
+2014-12-02 upload, offshore Cabo San Lucas, Baja California Sur —
+`XH-Hrfet6To`, "Stoked On Cabo San Lucas, Part 1"; aboard Hurricane
+Fishing's 50 ft Hatteras with Capt. Rob Guy; unregistered channel — medium
+confidence): trolling a mixed spread of lures plus a live bait, a striped
+marlin ("a little stripe marlin") rose and hit the trolled lures; the crew
+**"did a drop back on him"** before hooking and landing the fish — an
+on-the-water data point for the dropback mechanics flagged as a thin area in
+[bait-and-switch](../techniques/bait-and-switch.md#thin-areas-flagged--no-corpus-source-yet),
+though here the fish rose on the trolled lures themselves rather than being
+teased up for a live-bait pitch, so it is not logged as a confirmed
+bait-and-switch execution. The same morning also produced a confirmed
+**sailfish** (no lure/technique detail given on camera) — logged here only
+as a presence data point, no dedicated sailfish note exists in this corpus.
+Water conditions on camera later in this same session were called out as
+**85°F**, blue and "crystal," with **long swell** and "no wind to speak
+of" — notably, that on-camera call is calm water, not the chop the shop's
+general Cabo pattern predicts for later in the day (see the
+[trolling — Cabo San Lucas lure-selection entry](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging),
+same trip, pre-trip tackle-shop segment); this session is not logged as a
+confirmation of that afternoon-chop pattern, and the two are kept side by
+side rather than merged. The crew reported being **"four for four"** on
+hookups by that point in the trip (time of day not stated on camera) without
+further per-species breakdown, and were running toward open water hoping for
+tuna or blue marlin to round out a "five species day" — not confirmed on
+camera, so not logged as additional catches.
+
+**Observed (Baja, Cabo San Lucas / East Cape, region label)**
+(StokedOnFishing, 2014-12-03 upload, offshore Cabo San Lucas, Baja California
+Sur — `Mwx5AAXNMvE`, "Stoked On Cabo San Lucas, Part 2"; continuation of the
+same Hurricane Fishing charter (Capt. Rob Guy, 50 ft Hatteras) logged as
+`XH-Hrfet6To` above; unregistered channel — medium confidence): a striped
+marlin was fought to leader and released on camera, with the presenter
+stating the boat's practice is to **"primarily release all the bill fish"**
+rather than keep them — a catch-and-release doctrine point for this
+operation, not confirmed as a universal SoCal/Baja norm elsewhere in this
+corpus. A separate family group aboard, framed on camera as the "East Cape
+crew" heading on to a tournament-style, 5-day trip up in East Cape, Sea of
+Cortez, fought their striped marlin from a fighting/fish chair; the
+presenter's take was that the chair helps kids and less-experienced anglers,
+who otherwise struggle to stand and fight the fish, especially in rough seas
+("that'll bring anybody to their knees") — no chair spec or brand given, and
+the East Cape leg itself is not fished on camera in this video. Separately,
+the same trip's closing tips segment reported losing two big **blue marlin**
+that struck trolled lures but didn't stay hooked; species/lure detail is
+logged in
+[trolling — Cabo San Lucas lure entry](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging)
+(no dedicated blue-marlin note exists in this corpus, so it is not logged
+here as a striped-marlin catch). The same tips segment named the **drop-back**
+as the trip's best producer of solid hookups, with an 80 lb-line/#9
+circle-hook rig detail logged in
+[bait-and-switch](../techniques/bait-and-switch.md#thin-areas-flagged--no-corpus-source-yet).
+
 ## Gear summary (class terms)
 
 - **Trolling:** 60–100 lb trolling class pulling
@@ -70,6 +198,14 @@ question (see **Doctrine & conflicts**).
   (flagged stub).
 - **Terminal:** heavy leader / [wind-on leader](../rigging/wind-on-leader.md) for
   the bill and the abrasion; class terms in [gear classes](../tackle/gear-classes.md).
+  **Observed** (StokedOnFishing, 2019-10-21, region unconfirmed; species and
+  reel type per the video title only, not confirmed in the on-water
+  audio/captions): a marlin was landed after an extended fight ("I'm running
+  out of line," 00:03:03) and the leader is shown on camera with the crew
+  calling **40-pound test** (00:03:39–00:04:35) — lighter than the "heavy
+  leader" default above. The title credits the fight to a baitcasting reel,
+  but no reel/rod detail is audible or captioned, so that detail is not
+  carried as a verified fact here.
 
 ## Doctrine & conflicts
 
@@ -83,13 +219,14 @@ question (see **Doctrine & conflicts**).
   timing, **clean blue water on a bait/color seam**, slack tide — but does **not**
   document a single crisp threshold for "deploy now." Flagged as thin/open: the
   deployment-trigger rule is a research target, not settled doctrine.
-
 <!-- backlinks:start -->
 ## Linked from
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bird Reading](../conditions/bird-reading.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
+- [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
@@ -101,5 +238,6 @@ question (see **Doctrine & conflicts**).
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
+- [Yellowfin Tuna](yellowfin-tuna.md)
 - [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

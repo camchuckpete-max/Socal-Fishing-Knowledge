@@ -493,3 +493,738 @@ manifest; one commit per tier).** Corrections and judgment calls:
   target; drill-powered retrieve; Fathom 80 respool-to-bulk-spool; Yo-Zuri Hydro
   Minnow "LC 205" size to verify; dad's unidentified skirt bag; Tranx braid
   pending respool.
+
+## Batch 2 landing (adopted) — 2026-08-13
+
+Adopted onto `claude/batch2-ingestion-rb0v4i` (recut from `main` @ ef7f7c9)
+from the two landing branches: `claude/raw-transcripts-private-e2zn7m`
+(six playlist dirs, 400 transcripts, +429 manifest rows) and
+`claude/add-zip-transcripts-1xjewx` (Crust to Coast batch, 18 transcripts).
+Phase 0a adopted verbatim; Phase 0b reorganized per-channel and normalized
+the master manifest. The batch-2 analysis doc is committed verbatim at
+`batch-2-analysis.md` (source of the channel rules used in triage).
+
+**Repo visibility:** Cameron CONFIRMED (2026-08-13) that full third-party
+transcripts remain in this PUBLIC repo. (They were already public on the
+landing branches; this records the explicit confirmation.)
+
+### Landed state (verified; every figure recounted from disk/manifest)
+
+| channel dir | .md files | manifest rows | failed rows |
+| --- | --- | --- | --- |
+| (flat) BDOutdoors batch 1 | 128 | 128 | 0 |
+| stoked-on-fishing | 255 | 278 | 23 |
+| your-saltwater-guide | 108 | 113 | 5 |
+| dirty-hookers | 22 | 23 | 1 |
+| roman-castro | 12 | 12 | 0 |
+| crust-to-coast | 18 | 19 | 1 |
+| joewo (stray) | 1 | 1 | 0 |
+| kevin-is-cooking (stray) | 1 | 1 | 0 |
+| okuma-fishing-tackle-usa (stray) | 1 | 1 | 0 |
+| **total** | **546** | **576** | **30** |
+
+546 ok rows map 1:1 onto the 546 transcript files (verified by id-suffix
+match; note some video_ids begin with `-` or contain `--`). caption_type
+normalized to the master vocabulary (223 `(en)`-suffixed rows). All 29
+blank-channel failed rows backfilled by unambiguous block agreement.
+Transcript files themselves are untouched raw sources — the dirty-hookers
+`M:SS` duration format and Crust's YAML-front-matter headers (vs the
+bullet-header format elsewhere) are normalized at parse time, never edited.
+
+### Discrepancies (analysis doc / prior landing log vs what actually landed)
+
+1. **Corpus size:** the analysis doc measured 5 zips / 294 files; 7 zip
+   inputs were actually received and 400 files landed. The delta is exactly
+   the stoked-on-fishing-offshore playlist the doc never saw (112 files +
+   9 failed rows) plus a BDOutdoors zip byte-identical to batch 1 (logged
+   duplicate, nothing copied). Arithmetic closes: 294 − 6 cross-zip dups
+   dropped at land time + 112 = 400; failed rows 20 + 9 = 29.
+2. **Prior landing-log table was wrong:** the "Batch 2 landing — 2026-08-12"
+   section on the raw branch mis-attributed per-batch manifest rows (e.g.
+   offshore 133 claimed vs 121 actual; roman 14 vs 13). The analysis doc's
+   figures and the actual manifest agree; that branch's table does not.
+   This section supersedes it.
+3. **"Keep the more complete fetch" is unverifiable for 5 of the 6 known
+   Stoked cross-zip duplicate ids** (6-mi3Qxn37c, H-vIGWPIPVc, Y2bXn44lfqo,
+   82gEHYel-4U, ldVj0BoB-kE, FE63WNlwkKw): land-time dedup kept the
+   stoked-on-fishing-zip copies and never committed the discarded Inshore
+   fetches. For FE63WNlwkKw — the one pair the doc characterizes — the doc
+   says the Inshore copy was the incomplete one, so the kept copy IS the
+   more complete fetch. The other 5 kept copies stand as-is.
+4. **Stoked "~90s post-2014 boilerplate":** caption-text evidence contradicts
+   the doc — no ~90-second text block exists anywhere in the corpus (0 regex
+   hits); the measurable artifact is a ~16-second giveaway/subscribe read on
+   a 2019-era subset. Both claims recorded side by side, not reconciled
+   (the ~90s open is presumably visual/music, invisible to captions).
+   Operative triage/extraction rule: ignore intro sponsor/giveaway reads
+   wherever present.
+5. **"Backfill status for the 128 BD rows"** was already complete on `main`
+   (all 128 rows `ok`) — no-op.
+6. **Accounting denominator:** the doc's Phase 5 says "~314 new manifest
+   rows"; the actual number is 448 (429 batch-2 + 19 crust).
+7. **Crust to Coast was not in the analysis doc at all** (it arrived as a
+   separate playlist fetch, not one of the zips): 19-part undergraduate
+   "Geology 5" oceanography course, ~10.5 h, all auto captions, channel id
+   UC4lyFLgi-ZqANz1m-zb2zrw, playlist PLOMMpqItRwQna8TRhb8KHjjD3zoZp-a1j,
+   fetched 2026-08-12; 1 failed fetch (DRbl0fVgGIo, "Geology 5 - Climate
+   Change", captions disabled by uploader — permanent). Characterized fresh
+   at triage; proposed registry frame in the batch-2 report.
+
+### Strays (header-vs-directory scan of all 546 files: exactly 3)
+
+| video_id | actual channel | disposition |
+| --- | --- | --- |
+| YGKgQp5HTLM | JoeWo | Call of Duty gaming video — `skipped: not fishing` at triage |
+| mwrFx2DdmO0 | Kevin Is Cooking | tacos recipe; transcript is 3 useless lines — `skipped: not fishing` |
+| 55IthpZZx9k | Okuma Fishing Tackle USA | content is Capt. Dave Hansen (YSG) at the Okuma booth — triaged on merits, feeds the dave-hansen registry row |
+
+### Failed fetches worth flagging to Cameron (in-scope losses)
+
+`Qurgc-HtsuA` (yellowtail fillet local-style), `1CQGXwqmURA` (life of a
+calico bass), `JgknlyfTtgE` / `9O0AnMQkEM4` / `gaa3_aBFL5A` (SD-bay + SWBA
+episodes), plus one orphaned Stoked "part 3" whose parts 1–2 failed. If
+captions can be sourced another way, they can land in a later batch.
+
+### Tooling note
+
+`scripts/link-maintenance.py` `EXCLUDE_FULL` gained `batch-2-analysis.md`
+(must stay byte-verbatim — no backlinks block), `escalations.md`, and
+`batch-2-progress.md` (mechanical pipeline files). Made in this human-gated
+setup session; the unattended pipeline's guard treats `scripts/` as
+protected.
+
+## Batch 2 dedup — 2026-08-13 (precedes triage; findings only, files kept)
+
+Method: exact video_id collision check (none — 576 unique ids), body-md5
+(no byte-identical files), then content word-trigram Jaccard similarity on
+caption text over duration-matched pairs (±2s) across all 546 transcripts,
+plus a YSG-internal pass with no duration gate. Duplicated/re-cut footage
+never counts as independent confirmation of doctrine. Files and manifest
+rows are all KEPT (provenance); duplicates enter the triage worklist as
+`skipped: duplicate-of <primary>`.
+
+### YSG intra-channel re-uploads (doc predicted 11 pairs; sweep found 11 candidates)
+
+Keep earlier/longer as primary; the later re-upload is the duplicate.
+Pairs at sim < 0.80 carry a `confirm-at-triage` flag (triage reads every
+video anyway); the two mismatched-duration pairs are NOT re-uploads — both
+sides stay in the worklist with a re-cut-footage cross-reference.
+
+| duplicate (skipped) | primary (kept) | sim | durations | note |
+| --- | --- | --- | --- | --- |
+| 9xHgdtNek1U (2022) | gKrYKvqHUjk (2020) | 1.000 | 408s = 408s | text-identical; headers differ, so not byte-identical — closest match to the doc's "one byte-identical" claim (recorded as a doc-vs-sweep discrepancy, not reconciled) |
+| Pv5JMTTY4nI (2021-12) | 9qnQjPPT5yg (2021-05) | 0.946 | 354s = 354s | |
+| YVHdDbkQrKk (2022) | w5_x6kkN-xE (2021-04) | 0.922 | 502s = 502s | |
+| bsbL7JeKxMo (2021) | 8jC61LzQoxU (2018) | 0.771 | 353s = 353s | confirm-at-triage |
+| YvWHJ0Dgupc (2022-02) | ftEvyfwjZFU (2021-06) | 0.728 | 383s = 383s | confirm-at-triage |
+| 44pjBUn0nP8 (2021) | wYeKJLoKo4g (2018) | 0.723 | 104s = 104s | confirm-at-triage |
+| 67qLBEtd3EU (2022) | KTsXdQXAnkU (2019) | 0.694 | 427s = 427s | confirm-at-triage |
+| q4NBPuH3gCA (2022) | 5FzBwvMtRP8 (2019) | 0.463 | 205s = 205s | confirm-at-triage (same duration + same rag-bait topic; heavy ASR divergence) |
+| 89DmEDR-1sI (2020-01) | 6zYRI1ZQU3c (2019-12) | 0.430 | 197s = 197s | confirm-at-triage (same duration + same chumming topic) |
+| — not a re-upload — | YPhc0zr7oBs ↔ aFb221LUoD0 | 0.514 | 515s ≠ 994s | overlapping Catalina footage; BOTH stay in worklist, cross-referenced |
+| — not a re-upload — | qv0QbLgp72o ↔ zwNEhWtnBCE | 0.512 | 502s ≠ 284s | overlapping footage; BOTH stay, cross-referenced |
+
+**Doc-vs-sweep discrepancy (reported, not reconciled):** the analysis doc
+says 11 re-upload pairs, "one byte-identical, most ≥0.83 trigram overlap,
+identical durations." The sweep finds 11 candidate pairs but only 3 at
+≥0.83, none byte-identical at file level, and 2 with non-identical
+durations. Similarities here are depressed by independent ASR fetches of
+the same recording; the count matches exactly.
+
+### YSG ↔ BD same-recording pairs (doc's known set of 3 — all located)
+
+| YSG id | BD id (primary; already extracted in batch 1) | evidence | disposition |
+| --- | --- | --- | --- |
+| kr-DZP7OVmg | 4xzK7YaXK5s | sim 0.814, both 263s — found independently by the sweep | `skipped: duplicate-of 4xzK7YaXK5s` |
+| 8Asmd2H56Qk | sYrsPGXiYhI | both 202s; sim only 0.518 (ASR variance; doc asserts same recording) | `skipped: duplicate-of sYrsPGXiYhI` |
+| IMnoZVEYpm4 | m2q22sPPkEM | YSG cut 442s vs BD 328s (+114s), sim 0.560 — YSG is the longer cut, per the doc | worklist row, depth `single-pull`: extract ONLY tail content beyond the BD cut |
+
+### Stoked working-title duplicates (new findings)
+
+| duplicate (skipped) | primary (kept) | sim | durations | note |
+| --- | --- | --- | --- | --- |
+| ZBRSB4iwtbU ("cedros Jose calicoreleaseVid") | ldVj0BoB-kE (Cedros regulation-change episode) | 0.641 | 117s ≈ 117s | raw/working upload of the same footage; confirm-at-triage |
+| qBZxnRuXtGo ("TMP -----------OliveCrest 25") | SdwwpQMJEOI (published Olive Crest episode) | 0.630 | 1367s ≈ 1368s | uncleaned working title the doc flagged; confirm-at-triage |
+
+### Batch-1 internal duplicate (NEW finding — outside batch-2 scope, flagged for Gate B)
+
+`Jtf-bU4aM-c` ("Does SLOW PITCH JIGGING work for YELLOWTAIL?!", 2022-06-27)
+and `vqsD0qpwcJA` ("Slow Pitch Jigging // Yellowtail LA Bay Baja",
+2022-04-06) are the same recording (sim 1.000, both 338s) — a re-upload
+inside the original 128-video BD corpus that batch 1 treated as two
+independent sources (both appear in `species/yellowtail.md` front-matter
+sources). Per the re-cut rule they are ONE source; any doctrine counted as
+independently confirmed by both should be demoted to a single mention.
+Not fixed here (batch-1 accounting is canonical on main) — judgment call
+for Cameron at Gate B.
+
+### Sweep coverage note
+
+The 6 known Stoked cross-zip ids exist as single copies on disk (land-time
+dedup) — nothing to pair. No new-vs-BD duplicates surfaced beyond the known
+YSG↔BD set and the batch-1 internal pair above. Near-dup flags below 0.60
+were not recorded (noise floor); triage reads every video regardless.
+
+## Batch 2 triage — 2026-08-13 (every video read; the table below IS the worklist)
+
+Method: 17 parallel readers, ~25 transcripts each, every one of the 418
+in-scope ok transcripts opened (title-only triage prohibited per the
+analysis doc — and confirmed necessary: YSG titles mislead systematically,
+several Stoked "Inshore"-playlist episodes are out-of-region travel).
+Classes `tutorial|report|on-the-water|seminar|promo|out-of-region|
+non-fishing`; depths `deep|parameter-skim|observations-only|single-pull|
+skip:<reason>`. The 30 failed manifest rows have no transcripts and are
+accounted in the landing section, not here.
+
+**Totals: 418 rows = 271 pending + 147 skipped.**
+Depth distribution: deep 62, parameter-skim 92, observations-only 101,
+single-pull 16, skip 147.
+
+| channel | pending | skipped |
+| --- | --- | --- |
+| Dirty Hookers | 20 | 2 |
+| Roman Castro | 7 | 5 |
+| Your Saltwater Guide | 75 | 33 |
+| StokedOnFishing | 158 | 97 |
+| Crust to Coast | 11 | 7 |
+| strays (JoeWo / Kevin Is Cooking / Okuma) | 0 | 3 |
+
+Doc-vs-triage yield comparison (doc measured only its 294-file view; its
+estimates are non-binding for the stoked-offshore playlist it never saw):
+DH 20 pending vs doc "~20 post-triage" — match. Roman 7 vs "~6" — match.
+DH deep = 11, exactly the doc's "11 warrant deep extraction". YSG 75
+pending is above the doc's "~32 clear the bar" because parameter-skim and
+single-pull rows are included liberally (extraction depth bounds the
+effort); YSG deep = 24. Stoked 158 pending of 255 runs obs-heavy
+(observations-only 101 across the corpus), consistent with the doc's
+"primarily an observation source". All six of the doc's pre-identified
+Stoked doctrine carriers were confirmed from content (yo-yo ntQXxcH5sjI,
+bluefin trolling xzIaUEDklrE, Cedros reg change ldVj0BoB-kE, Pacific
+Giants usHl-4SfqDA, Aaron Martens calico P6Slg6RQiXw, kelp-paddy pattern
+A6DJoXbID4c / VWClGAn2WEw) plus five content-escalated deep finds
+(vCskOx6N-XM kite/spreader selection, 3qSY328fFYo marlin trolling,
+Ix0gG0-l3v0 kite/flyer rigging, mDmbGdQAy-4 kite/railroading,
+SH7zOA9ZF3o yo-yo cadence kept at skim).
+
+### Judgment calls & flags (for Cameron's review at Gate B)
+
+1. **Clarion Island (Revillagigedo) long-range series (4 eps) classified
+   out-of-region** — reached from San Diego but far south of the Baja
+   peninsula and not on the doc's in-scope list. Reversible by editing 4
+   worklist rows.
+2. **Alijos Rocks treated as in-scope Baja** (long-range bank on the Mag
+   Bay routes); flagged as edge-of-scope.
+3. **Two YSG transcripts are wholly garbled ASR** (5nTGoZ9_nzU,
+   qihSsdqBU2A — song-lyric-like text unrelated to their titles; likely a
+   captioning bug) — skipped no-usable-content; captions could be
+   re-fetched in a later batch.
+4. **lF6jQklDCrY carries a self-hedged regulatory claim** (rockfish depth
+   limit 350→460ft, speaker admits uncertainty) — single-pull row; the
+   extractor/evaluator escalation rule for regulatory claims applies.
+5. **Freshwater SoCal content excluded** (Legg Lake tournament, Clear
+   Lake, Lake Cachuma) per the freshwater rule even where the location is
+   SoCal — including FE63WNlwkKw, one of the six known cross-zip ids.
+6. **Cooking-only videos skipped as not-fishing**; catch-clean-cook with
+   in-scope catch footage kept as observations-only with a fish-care note
+   (e.g. IxhdiX3oEEs, H-vIGWPIPVc).
+7. **Okuma stray 55IthpZZx9k judged promo** (ad-copy pitch) — still cited
+   by the dave-hansen registry row as a cross-channel appearance.
+
+### Dedup addenda discovered at triage (extends the Phase 1 tables)
+
+| duplicate (skipped) | primary (kept) | evidence |
+| --- | --- | --- |
+| epWXURDU-oI | 9xNhdu2aBqE | same Todd Klein SCI trip/dialogue, short highlight cut (found by reader, not in the sweep's duration gate) |
+| YPhc0zr7oBs | aFb221LUoD0 | RECLASSIFIED from Phase 1's "overlap, both stay": readers confirmed near-verbatim the same swell/current/water-color seminar in two cuts; shorter cut skipped |
+| mDmbGdQAy-4 | usHl-4SfqDA | NOT skipped — both stay pending (both deep, different episodes sharing re-used kite/railroading footage); extraction must treat the shared segments as ONE source per the re-cut rule |
+| 7U4N1f0viOU | (Cedros Oct trip series) | best-of recap reusing that trip's footage; stays observations-only but counts toward the SAME trip/observation event |
+| All 6 Phase-1 confirm-at-triage YSG pairs | — | confirmed same-recording by opening both sides (bsbL7JeKxMo, YvWHJ0Dgupc, 44pjBUn0nP8, 67qLBEtd3EU, q4NBPuH3gCA, 89DmEDR-1sI) |
+
+### Crust to Coast characterization (fresh, per plan)
+
+18 lectures: 10 mechanism-relevant (seminar / parameter-skim → conditions/
+destinations: water-column structure, currents/upwelling/ENSO, tides,
+nearshore processes, wind-driven sea state, food web) and 8
+adjacent-background skips (rock geology, plate tectonics, sediments,
+taxonomy, sea ice, pollution, navigation history, deep time). The three
+most fishing-relevant: 32TQdFJKIlI (Ocean Circulation — gyres, Ekman
+transport, upwelling mechanics tied to kelp productivity, full ENSO
+explanation; the clearest feed for upwelling/ENSO mechanism),
+RuNH5O9olfw (Coastal Oceanography — surf-zone anatomy, longshore
+transport), 9tTM99InluM (Tides — lunar/solar bulge mechanics, why the
+moon dominates). Registry frame: mechanism source only, never fishing
+doctrine, no Observed blocks (proposed registry row ships with the
+infra commit).
+
+### Worklist (the unattended pipeline's state machine)
+
+Row order = extraction order (doctrine density first, per the analysis
+doc): dirty-hookers → roman-castro → your-saltwater-guide →
+stoked-on-fishing → crust-to-coast → strays. For pending rows the
+`result` column carries the triage evidence (the extractor's input);
+the pipeline overwrites it with the extraction outcome. Statuses:
+`pending | done | skipped | escalated | reverted`.
+
+<!-- batch2:worklist:start -->
+| video_id | channel | class | depth | status | result |
+| --- | --- | --- | --- | --- | --- |
+| Ul5FLB2dFgQ | Dirty Hookers | seminar | deep | done | lures/knife-jigs.md; tackle/gear-classes.md; techniques/knife-jigging.md / Merged speed-jig stroke mechanics, depth-call/marking-interval variant, hookset doctrine, drag-conflict note, gear-class deta |
+| gevNj2Y1Ep8 | Dirty Hookers | tutorial | parameter-skim | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/knife-jigging.md / Amended 5 existing notes with parameter-skim content (line c |
+| RfiC8sfIWTk | Dirty Hookers | tutorial | parameter-skim | done | lures/knife-jigs.md; rigging/rubber-band-deep-rig.md; tackle/hooks.md; techniques/knife-jigging.md / parameter-skim integrated as attributed medium-confidence additions (night-bite jig color, day/nigh |
+| -MP2RqJC7B0 | Dirty Hookers | tutorial | parameter-skim | done | lures/knife-jigs.md; tackle/rod-and-reel-selection.md; techniques/knife-jigging.md / rod-stiffness caution at 40-50lb bluefin grade, mono-vs-fluoro bite-leader logic, 3-hook assist config kept as unre |
+| 149px8WQ2Ng | Dirty Hookers | tutorial | parameter-skim | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md; rigging/rubber-band-deep-rig.md; species/bluefin-tuna.md; techniques/knife-jigging.md / deckhand-POV daytime/night bluefin gear parameters (j |
+| dEPuDrhoClM | Dirty Hookers | tutorial | parameter-skim | done | bait/making-bait.md; tackle/hooks.md; techniques/dropper-loop.md / Baja/Sea-of-Cortez parameter-skim: sabiki line-weight logic, sabiki/grouper sinker sizing, cabrilla/grouper hook sizing by bait; medi |
+| YGLFn8lPMu0 | Dirty Hookers | tutorial | parameter-skim | done | rigging/essential-knots.md / Merged RP-knot wrap-count variance, security loop, cinch tell, line-puller tool, uni-knot finish; reformatted bluefin anecdote as Observed block |
+| WE643Fue1_A | Dirty Hookers | tutorial | parameter-skim | done | lures/iron-jigs.md; species/yellowtail.md; tackle/line-and-leader.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / 40lb Cedros line floor, jig picks (JRI Stinger/Starman 112/Kicker 25), mint |
+| lJelQa1o6qk | Dirty Hookers | promo | skip:promo | skipped | Sponsor-announcement video (partnering w/ Opsin Fluorocarbon); product-property pitch, sponsor-heavy |
+| A70kK2niu2Q | Dirty Hookers | tutorial | deep | done | lures/iron-jigs.md; lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md; species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / rod/reel/line/lure p |
+| LPhnsEamRwI | Dirty Hookers | tutorial | deep | done | rigging/essential-knots.md; rigging/rubber-band-deep-rig.md / Bluefin sinker/rubber-band rig tie-on (leader wraps, San Diego-over-Palomar reasoning, band attachment sequence) merged; deduped repeated  |
+| PrdPJy26H8c | Dirty Hookers | tutorial | parameter-skim | done | species/bluefin-tuna.md; species/skipjack-tuna.md; tackle/hooks.md / tuna-species downsizing logic (bluefin exempt vs skipjack/schoolie yellowfin), SoCal yellowtail/offshore baseline hook rotation (2/ |
+| CW02kca8fh4 | Dirty Hookers | tutorial | skip:thin-generic | skipped | Apparel/gear unboxing + subscriber-count pitch; anecdotal rod tour, minimal decision logic |
+| LTCFjqtSI8g | Dirty Hookers | tutorial | deep | done | techniques/flyline.md; techniques/knife-jigging.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / merged updated 2023 rod/reel/line/leader builds (flyline, yo-yo, new speed-jigging starter ki |
+| 42A8Owhc8fw | Dirty Hookers | tutorial | parameter-skim | done | rigging/bite-leaders.md; rigging/rubber-band-deep-rig.md; tackle/rod-and-reel-selection.md; techniques/foamer-casting.md; techniques/surface-iron.md / pre-trip tackle update: foamer metal-bait picks,  |
+| jQW2HLkMsmY | Dirty Hookers | tutorial | deep | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md; rigging/rubber-band-deep-rig.md; tackle/hooks.md; techniques/flyline.md; techniques/knife-jigging.md / top-5 bluefin techniques: two-rod flyl |
+| F7jLrt2j2X8 | Dirty Hookers | seminar | deep | done | lures/iron-jigs.md; lures/tuna-poppers-and-stickbaits.md; tackle/rod-and-reel-selection.md; techniques/foamer-casting.md; techniques/surface-iron.md / Eric's Tackle seminar w/ Cesar: color-by-light fr |
+| 48ZFXnCTTQE | Dirty Hookers | seminar | deep | done | bait/fishing-live-bait.md; rigging/essential-knots.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/flyline.md / Eric's Tackle seminar w/ Cesar: Seaguar knot, flyline sizing/bite-guar |
+| U4zifdssSes | Dirty Hookers | tutorial | deep | done | rigging/assist-hooks.md; lures/knife-jigs.md / new rigging note on assist-hook sizing/cord-stiffness/tying (single top, double tail) from Cesar; cross-linked as 5th attributed hook-count/placement var |
+| unARAuTgF_A | Dirty Hookers | tutorial | deep | escalated | escalated: guard: deleted 38 lines from curated note: rigging/assist-hooks.md |
+| EmZO8QiOfik | Dirty Hookers | tutorial | deep | done | species/cabrilla.md; lures/jerkbaits.md; lures/iron-jigs.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/yo-yo-iron.md; planning/electronics-and-sounder.md; planning/search-and-glassing.md; tackle/gear-classes.md / recovered at Gate B prep: original commit 0d33e3c was guard-reverted on the registry-backlink collision (mechanical false positive, fixed in 7f741ff); content cherry-picked intact |
+| M8hOYQ_6rSg | Dirty Hookers | tutorial | deep | done | bait/making-bait.md; lures/iron-jigs.md; lures/knife-jigs.md; lures/spreader-bar.md; rigging/trap-rig.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; techniques/dropper-loop.md; techniques/knif |
+| mWxyjDrcdXM | Roman Castro | tutorial | deep | done | techniques/foamer-casting.md / Added Roman Castro's bluefin-popper hookup/drag/fight doctrine (loosen drag on packed foamers, cast to edge to avoid scissoring, patience fighting 100lb+ fish, keep line |
+| VpW91AKOFVQ | Roman Castro | tutorial | deep | done | lures/iron-jigs.md; rigging/essential-knots.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / Scotty/Brothers Sportfishing surface-iron doctrine merged: assi |
+| _ZThckj2TIM | Roman Castro | tutorial | deep | done | species/rockfish-lingcod.md; techniques/dropper-loop.md; techniques/rockfish-deep-dropping.md; rigging/essential-knots.md; planning/search-and-glassing.md / recovered at Gate B prep: original commit 0716a9d was guard-reverted on the registry-backlink collision (mechanical false positive, fixed in 7f741ff); Capt. Scotty weak-link dropper-loop doctrine cherry-picked intact |
+| Qs9oEsh3b_w | Roman Castro | tutorial | deep | done | species/california-spiny-lobster.md; techniques/hoop-netting.md / Added Scotty's buoy/rope build (torpedo-sinker weighting, light mounting, rope-length splitting), bait-cage-by-sea-lion-pressure guida |
+| sgH7MgaWD1E | Roman Castro | tutorial | skip:thin-generic | skipped | Generic hacks: fish-smell removal, zip-tie hook holder, tide-timing tip; not router-grade |
+| fhv45utuKgQ | Roman Castro | on-the-water | skip:no-usable-content | skipped | Near-silent 300lb+ bluefin catch/fight footage, mostly music/yelling, no technique commentary |
+| OQAZTZq-6-k | Roman Castro | on-the-water | skip:no-usable-content | skipped | Near-silent bluefin catch-fight footage, mostly music/applause, no usable commentary |
+| EGKesj7V64M | Roman Castro | tutorial | deep | done | lures/bay-bass-plastics.md; species/spotted-bay-bass.md; techniques/drop-shot.md / 5 tips extracted (hookset-on-slack, swings-are-free, glue rigging tip, drag-and-pause retrieve, slack-window/current- |
+| 6L8nIFeqvkw | Roman Castro | tutorial | deep | done | lures/bay-bass-plastics.md; planning/search-and-glassing.md; species/spotted-bay-bass.md; techniques/ned-rig.md / tackle combo, retrieve mechanics, bite/hookset, hook-rotation lure tip; kayak zone/spo |
+| G6YRT4HNxr8 | Roman Castro | tutorial | parameter-skim | done | rigging/essential-knots.md; species/spotted-bay-bass.md; techniques/swimbaits.md / Umbrella/A-rig arm-bending, saltwater/freshwater hook-count caveat, and Palomar-over-rig knot merged as parameter-ski |
+| xEqFwPJ2zFk | Roman Castro | on-the-water | skip:thin-generic | skipped | Channel recap/best-of-2018 montage; brief Baja B-roll clip, Coronado Is. mention |
+| wysZwsjAkVs | Roman Castro | on-the-water | skip:thin-generic | skipped | Kayak-rental logistics/affiliate promo dominated; sponsor-heavy (Eco Boat Rentals affiliate deal) |
+| HcEh5KOYTH4 | Your Saltwater Guide | on-the-water | observations-only | done | conditions/kelp-paddies.md; species/dorado.md; species/yellowtail.md / 4 Observed blocks added: pre-qualified-paddy approach behavior, October dorado persistence + technique corroboration, incidental  |
+| yKaHcxX46l4 | Your Saltwater Guide | tutorial | parameter-skim | done | tackle/hooks.md; techniques/chunking.md / Squid cut-strip prep/hooking added to hooks.md; anchored chum-placement-vs-current added to chunking.md |
+| q4NBPuH3gCA | Your Saltwater Guide | on-the-water | skip:duplicate-of-5FzBwvMtRP8 | skipped | confirmed: same mackerel-on-microfiber-rag recording as 5FzBwvMtRP8 (2019), ASR variance only |
+| ohR9DeBOU9E | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic sand bass filleting demo, no conditions/decision content |
+| r6j5w40fVHI | Your Saltwater Guide | tutorial | single-pull | done | species/calico-bass.md / added CA/CDFW 14in calico bass legal-size fact (dave-hansen) to Doctrine & conflicts |
+| VUb7a3sP8zQ | Your Saltwater Guide | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic dehooking technique (gill-opening method) has no compliant destination at parameter-skim depth (router-absorption/no new-note-creation rules); the only calico-specif |
+| ty8FtA3Y2bA | Your Saltwater Guide | tutorial | deep | done | fish-care/sculpin-handling.md: new fish-care note: thumb-in-lip unhooking technique, full spine map, bacteria/pain warning, 10in CDFW min-size regulatory claim, table quality |
+| k80p1ShSvZs | Your Saltwater Guide | tutorial | parameter-skim | done | none: nothing extractable — generic twin-screw docking/seamanship, no fishing-specific content, no existing note to merge into |
+| 3dVc-2rsYII | Your Saltwater Guide | tutorial | deep | done | techniques/surface-iron.md: amended with cast release point, calico slow-med retrieve, tip-down retrieve, wind-not-swing hookset (flagged conflict vs knife-jigging swing-to-set), Wounded Warrior color |
+| I84uoay_jwQ | Your Saltwater Guide | tutorial | deep | done | fish-care/gaffing.md (new); linked from fish-care/tuna-care.md, fish-care/dorado-and-general.md, species/california-halibut.md — gaff sizing by species/weight, pec-shot+flip-upside-down, no-dig-hole o |
+| 6X97e0AA3c8 | Your Saltwater Guide | out-of-region | skip:out-of-region | skipped | Peacock bass fishing in Florida |
+| SgF5hRlEGqU | Your Saltwater Guide | tutorial | parameter-skim | done | planning/electronics-and-sounder.md; species/yellowfin-tuna.md: dolphin-pod bird-marker visual sign, manual sounder range 0-150ft parameter (vs auto-hunting bottom); trimmed duplicated explanation fro |
+| pKWDxwBvTH8 | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Misleading title; mostly rant re: practice casting before trip, no cast mechanics |
+| o8vLdz7OmaE | Your Saltwater Guide | seminar | deep | done | tackle/rod-and-reel-selection.md: added Dave Hansen's feel-based pull-test drag method, mid-fight re-check + thumb-as-drag warning, star-vs-lever drag mid-fight adjustability, left-hand-forward ration |
+| -5kooyIyavs | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md: added Baja/Mag Bay mangrove structure-casting section (Lopez Mateos, no-weight fly-line rig, precision bait-placement doctrine, fast-current recast cycle, species landed) + Reac |
+| FxgLol_IHa0 | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md: added anchor-lay-per-current-read bullet to existing Baja/Mag Bay mangrove structure-casting section (same Lopez Mateos trip as -5kooyIyavs), corroborating crew/location; soften |
+| YVHdDbkQrKk | Your Saltwater Guide | tutorial | skip:duplicate-of-w5_x6kkN-xE | skipped | sweep sim 0.922, re-upload of 2021-04 live-bait video |
+| JJClvPhKIdo | Your Saltwater Guide | promo | skip:promo | skipped | Promar sabiki stick-rod product demo, no technique content |
+| F0g5r9Rkrd4 | Your Saltwater Guide | tutorial | parameter-skim | done | tackle/rod-and-reel-selection.md: added ready-position/index-on-spool/thumb-trigger/free-spool-to-bottom/wind-hookset section, attributed Dave Hansen, medium confidence |
+| RXNebDr4j7s | Your Saltwater Guide | on-the-water | parameter-skim | done | techniques/chunking.md; species/calico-bass.md: added kelp-bed chum-then-anchor sequencing (medium confidence, Dave Hansen presenter-inferred), situations-table row + link in calico-bass; fixed gear-c |
+| fri_BWI-VA0 | Your Saltwater Guide | tutorial | deep | done | conditions/moon.md; species/california-spiny-lobster.md: merged moon-phase doctrine (7-day pre/post-full-moon window, 20nm night-travel behavior, lobster no-moon timing), attributed dave-hansen, high  |
+| U-dGRQ0X-Mc | Your Saltwater Guide | tutorial | parameter-skim | done | techniques/dropper-loop.md: added rockfish retrieve parameter (slow steady wind, no jerk/pump), attributed dave-hansen, high confidence per registry; trimmed an invented mechanism/gear detail not in t |
+| OpA0OqRgj00 | Your Saltwater Guide | tutorial | deep | done | planning/search-and-glassing.md: added anchoring section (chain-and-rope ladder, anchor-size-by-boat, free-spool pinpoint drop), medium confidence; fixed a chain/rope doctrine inversion and doctored q |
+| 9xHgdtNek1U | Your Saltwater Guide | tutorial | skip:duplicate-of-gKrYKvqHUjk | skipped | sweep sim 1.000, text-identical re-upload of 2020 fly-line rig video |
+| pmfJlt2i_fo | Your Saltwater Guide | out-of-region | skip:out-of-region | skipped | Blue runner trolling explicitly Florida Keys/Bahamas |
+| YvWHJ0Dgupc | Your Saltwater Guide | tutorial | skip:duplicate-of-ftEvyfwjZFU | skipped | confirmed: identical SD jam knot/bluefin tackle recording as ftEvyfwjZFU (2021) |
+| L_FD-UzvEio | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md: amended with dave-hansen subsection on lid-off running, dead-bait toxin, tap-scoop culling, never-touch-bait; fixed a smoothed number (2.5 hours) |
+| rwfjUa4zsyY | Your Saltwater Guide | on-the-water | observations-only | done | none: nothing extractable — auto-captions are near-total garbage (mostly music/applause tags), one fragment unresolvable without inventing context |
+| frX09YMQxKE | Your Saltwater Guide | on-the-water | observations-only | done | techniques/flyline.md / Added third Mag Bay mangrove data point (Lopez Mateos, 2022-01-28) as an Observed block corroborating precision bait-placement doctrine; no new notes, no doctrine changed |
+| 67qLBEtd3EU | Your Saltwater Guide | on-the-water | skip:duplicate-of-KTsXdQXAnkU | skipped | confirmed: identical dialogue/duration(7:07) to primary calico bass video, same recording |
+| vyX5FGoDH0A | Your Saltwater Guide | on-the-water | observations-only | done | techniques/flyline.md / on-the-water observations (snook wide-open bite, grouper->spotted-bay-bass correction, hook-loss-to-brush, ravallo/rubble asr note) appended as Observed block; no doctrine crea |
+| dlxA22FVNGc | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md / added tide-phase bite-timing, stealth hook/leader spec, reel-style flexibility, no-weight rationale, anchor-vs-drift doctrine, and an Observed multi-species block |
+| 5nTGoZ9_nzU | Your Saltwater Guide | non-fishing | skip:no-usable-content | skipped | Entire transcript is garbled nonsensical ASR (song lyrics), no recoverable fishing content |
+| Dq1x__MI8Wk | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Pure marlin filleting/cooking demo, no catch footage or location |
+| BmENEt6gYm8 | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Pure wahoo filleting/cooking demo, no catch footage or location |
+| ZggReeO1nyU | Your Saltwater Guide | tutorial | deep | done | bait/fishing-live-bait.md / Amended sardine nose/butt-hook mechanics and added anchovy nose-vs-gill-hook subsection, attributed to dave-hansen at high confidence |
+| 7WapaxdtjQg | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md; bait/making-bait.md / Dana Point bait-barge etiquette/VHF-11/timing folded into making-bait.md; tank-load judgment factors folded into bait-tanks.md; one faithfulness fix applied |
+| Pv5JMTTY4nI | Your Saltwater Guide | tutorial | skip:duplicate-of-9qnQjPPT5yg | skipped | sweep sim 0.946, re-upload of 2021-05 PTO grip video (primary itself triaged skip:promo) |
+| ur1F8gD1sF4 | Your Saltwater Guide | promo | skip:promo | skipped | Subscription-pitch-dominated; scattered tips (breeze-reading, avoid combat fishing) buried in rant |
+| vJ70gNV72eY | Your Saltwater Guide | promo | skip:promo | skipped | Mostly generic date-day advice + subscription pitch; thin bait-tank-shape/fly-lining nugget |
+| VsUUBICiBzQ | Your Saltwater Guide | tutorial | parameter-skim | done | rigging/essential-knots.md / Improved-clinch (fisherman's knot) tying procedure merged: 7-wrap single-pass mechanic, retie-after-nearly-every-fish cadence (bluefin/calico/barracuda), attributed dave-h |
+| qihSsdqBU2A | Your Saltwater Guide | non-fishing | skip:no-usable-content | skipped | Entire transcript garbled nonsensical ASR, no recoverable content (light-line theory unrecoverable) |
+| 44pjBUn0nP8 | Your Saltwater Guide | on-the-water | skip:duplicate-of-wYeKJLoKo4g | skipped | confirmed: identical dialogue/duration(1:44) to primary yummy-flyer breezer clip |
+| zVIfArUrpDI | Your Saltwater Guide | tutorial | deep | done | rigging/essential-knots.md; tackle/hooks.md; tackle/line-and-leader.md; techniques/dropper-loop.md; techniques/rockfish-deep-dropping.md / San Diego jam update, rockfish circle-hook rationale, braid-v |
+| CrLDC4O8qS8 | Your Saltwater Guide | on-the-water | observations-only | done | conditions/kelp-paddies.md; species/dorado.md; species/yellowtail.md / on-the-water observations: loaded-paddy heuristic, dorado confirmation, incidental yellowtail; no doctrine changed, no new notes |
+| 8jC61LzQoxU | Your Saltwater Guide | tutorial | deep | done | techniques/fighting-big-bluefin.md (new); fish-care/gaffing.md; fish-care/tuna-care.md; species/bluefin-tuna.md / new technique note: fight mechanics (gear-tap, down-swell walk, death-circle avoidance |
+| bsbL7JeKxMo | Your Saltwater Guide | tutorial | skip:duplicate-of-8jC61LzQoxU | skipped | confirmed: identical script/duration(5:53) to primary fight-giant-bluefin video |
+| ftEvyfwjZFU | Your Saltwater Guide | tutorial | deep | done | rigging/essential-knots.md; species/bluefin-tuna.md; techniques/flyline.md; lures/tuna-poppers-and-stickbaits.md; lures/soft-plastic-swimbaits.md / recovered at Gate B prep: original commit ed1860a was guard-reverted on the registry-backlink collision (mechanical false positive, fixed in 7f741ff); Hansen San Diego jam / bluefin tackle content cherry-picked intact |
+| RbqOKkINSCM | Your Saltwater Guide | tutorial | deep | done | lures/knife-jigs.md; rigging/essential-knots.md; species/bluefin-tuna.md; tackle/hooks.md; techniques/flyline.md / Fly-line rig (San Diego jam), flat-fall/popper multi-rod pre-rig, circle-hook rationa |
+| 9qnQjPPT5yg | Your Saltwater Guide | promo | skip:promo | skipped | Product demo for patented PTO fighting-grip (22-degree angle mechanics); inventory/sales-pitch dominated |
+| scmPq63lLWM | Your Saltwater Guide | tutorial | parameter-skim | done | lures/knife-jigs.md; techniques/knife-jigging.md / Fishlab flat-fall red-crab color/hook-rig doctrine added, attributed dave-hansen; no San Diego jam knot content found despite triage note, correctly  |
+| IMnoZVEYpm4 | Your Saltwater Guide | tutorial | single-pull | done | tackle/hooks.md / added Dave Hansen bronze/black-vs-nickel/chrome hook-finish doctrine (stealth + corrosion), scoped to bait fishing; duplicate content vs m2q22sPPkEM correctly excluded |
+| f4qYtHACGyk | Your Saltwater Guide | tutorial | deep | done | techniques/chunking.md / added artificial-reef prey-density/feeding-frenzy mechanism (confidence bumped to high), light-line finesse rig (straight-tied hook, current-sized shot 1/16-1/4 oz, strip-bait |
+| NC3-3pJDEgo | Your Saltwater Guide | tutorial | deep | done | conditions/sea-state.md / added dave-hansen go/no-go wind & swell thresholds (12kt cutoff, <10s interval, unfishable combo), Santa Ana mechanics + Catalina return-trip-risk subsection, both medium con |
+| FEXgl0eQCa8 | Your Saltwater Guide | tutorial | deep | done | planning/electronics-and-sounder.md: Added Dave Hansen mid-screen manual-range sizing and harbor-first hard/soft-bottom practice doctrine; upgraded manual-vs-auto rule to high confidence |
+| 1hJoxwg9fy4 | Your Saltwater Guide | on-the-water | observations-only | done | none: on-the-water WSB fight footage, no extractable doctrine beyond generic tip-up/avoid-kelp technique already covered elsewhere; correctly skipped |
+| fK2AT460xW4 | Your Saltwater Guide | tutorial | deep | done | rigging/essential-knots.md; rigging/rubber-band-deep-rig.md; species/yellowfin-tuna.md: Added Dave Hansen's inline torpedo-sinker/San Diego jam/circle-hook drop rig for yellowfin under dolphin pods, c |
+| HOYJ6TAMrg4 | Your Saltwater Guide | promo | skip:promo | skipped | PTO Fighting Grip product demo w/ marlin+sailfish action footage; sponsor-heavy; feeds dave-hansen registry |
+| 6DzbsElGE7E | Your Saltwater Guide | tutorial | deep | done | planning/electronics-and-sounder.md; planning/search-and-glassing.md; species/yellowtail.md: added brand-agnostic bottom-hardness read, pass-and-grade/sand-anchor method, and yellowtail hard-bottom-on |
+| w5_x6kkN-xE | Your Saltwater Guide | tutorial | deep | done | bait/fishing-live-bait.md; techniques/flyline.md; techniques/kite-fishing.md: Added mackerel hook-position doctrine (butt/nose/back by weight and kite use), bait-size/species-selectivity note, and fly |
+| _aimmQmzqz0 | Your Saltwater Guide | promo | skip:promo | skipped | PTO Fighting Grip product intro/specs/sizing; sponsor-heavy, same product as HOYJ6TAMrg4 |
+| OIqdmhKfuOc | Your Saltwater Guide | tutorial | deep | done | techniques/dropper-loop.md; tackle/rod-and-reel-selection.md: Added dropper-loop deploy procedure (drop-not-cast, nose-hook, index/thumb grip, bottom detection, bite read, two-crank lift-set, tail-cli |
+| KLoEJInlmZo | Your Saltwater Guide | tutorial | deep | done | lures/iron-jigs.md; techniques/surface-iron.md: Added surface-iron cast/retrieve/hookset mechanics (reel-on-side cast, line guiding, dog-boning hookset) and Wounded Warrior (Tady 45) color/model detai |
+| wzI0lpgKT1U | Your Saltwater Guide | tutorial | deep | done | techniques/yo-yo-iron.md: Added Dave Hansen's crank-and-drop yo-yo cadence (10-crank cast-and-retrieve; 5-6-crank straight up-and-down with depth bands; bite-on-the-drop) as attributed conflict beside |
+| kr-DZP7OVmg | Your Saltwater Guide | tutorial | skip:duplicate-of-4xzK7YaXK5s | skipped | same recording as BD id already extracted in batch 1 (sweep sim 0.814) |
+| e5qGRAzwEWQ | Your Saltwater Guide | promo | skip:promo | skipped | Subscription pitch for yoursaltwaterguide.com throughout; no standalone technique content |
+| BdRX4b8Fo5w | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md; bait/fishing-live-bait.md; techniques/chunking.md: Added bait tank placement/shape, bait-changing cadence claim (medium confidence), and generalized prey-density mechanism beyond a |
+| dgauGbNxP84 | Your Saltwater Guide | on-the-water | parameter-skim | done | conditions/current-diagnostics.md; species/skipjack-tuna.md; techniques/trolling.md: Added Observed current-break visual-ID and troll-it-back-and-forth execution (Cabo San Lucas, Baja), fixed Dave Han |
+| ll7r4A6atno | Your Saltwater Guide | tutorial | parameter-skim | done | techniques/trolling.md; species/dorado.md; rigging/haywire-twist.md: Added Cabo surf-line sierra-trolling section (hoochie, wire leader, 6kt troll, AM/sunset bite, dirty-water cue), Observed cross-lin |
+| OSbAHdB4uPs | Your Saltwater Guide | tutorial | deep | done | species/sheephead.md; tackle/hooks.md; techniques/sliding-sinker.md: New sheephead species router (hook/weight/bait table) plus corroborating entries in hooks.md and sliding-sinker.md; fixed over-attr |
+| EiItVWqFMYc | Your Saltwater Guide | tutorial | parameter-skim | done | techniques/hoop-netting.md: Added soak/pull cadence (drop ~1hr before dark, first pull ~30min after sunset, reset-on-same-spot) and a sublegal-lobster handling judgment call, flagged for regulatory re |
+| 2y0VznL2qk8 | Your Saltwater Guide | tutorial | deep | done | rigging/flying-fish-harness.md; species/bluefin-trolling.md; techniques/kite-fishing.md: Added wind-driven rubber-flyer-trolled-8.5kt vs dead-flyer-under-kite/balloon decision with deployment/hookset  |
+| gKrYKvqHUjk | Your Saltwater Guide | tutorial | deep | done | techniques/flyline.md; tackle/rod-and-reel-selection.md: Merged fly-line rig doctrine (species-bait pairings, line-weight-to-bait matching, distance-over-weight, cast-control-brake mechanism) into exi |
+| Rf1HKJG-SDg | Your Saltwater Guide | tutorial | deep | done | locations/zone-lexicon.md; planning/electronics-and-sounder.md; species/bluefin-tuna.md; species/rockfish-lingcod.md / added bank fathom-depth naming convention + fathometer terminology and cross-link |
+| YPhc0zr7oBs | Your Saltwater Guide | seminar | skip:duplicate-of-aFb221LUoD0 | skipped | triage-confirmed: near-verbatim same swell/current/water-color seminar, shorter cut; longer cut is the primary |
+| ShSxNKAcUB4 | Your Saltwater Guide | tutorial | deep | done | species/white-seabass.md; techniques/dropper-loop.md; techniques/sliding-sinker.md / WSB sliding-sinker weight ladder, thin-wire hook, and suspend-and-retrieve technique added with router row and drop |
+| cEscIy278ew | Your Saltwater Guide | tutorial | deep | done | techniques/hoop-netting.md / added dave-hansen boat-approach/prop-safety subsection (stern-first, spotlight/rope-lay check, dual-spotlight habit, bump-forward clear) plus common-failures rows and date |
+| aFb221LUoD0 | Your Saltwater Guide | seminar | deep | done | conditions/current-diagnostics.md; locations/island-structure.md / added Catalina swell/wind zone-selection doctrine (west-swell to east-end, south-swell tears up east end), named-spot wind fit (Fredd |
+| 7HApvxvtxgo | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic sport-boat etiquette advice, no fishing-technique content |
+| CjQD4vJmsog | Your Saltwater Guide | promo | skip:promo | skipped | Pure subscription pitch for yoursaltwaterguide.com, 1:23 runtime, no technique content |
+| 89DmEDR-1sI | Your Saltwater Guide | on-the-water | skip:duplicate-of-6zYRI1ZQU3c | skipped | confirmed: same San Diego tuna chum footage as 6zYRI1ZQU3c, ASR/caption variance only |
+| 6zYRI1ZQU3c | Your Saltwater Guide | on-the-water | observations-only | done | species/yellowfin-tuna.md / added dated Observed block (chum-triggered free-swimmer frenzy at boat, San Diego) under yellowfin sonar-signature/chum-rise doctrine |
+| pX6mV3O0L_E | Your Saltwater Guide | on-the-water | observations-only | done | species/dorado.md / added Observed block (dead-ballyhoo troll, multiple dorado hookups, Cabo San Lucas Nov 2019) |
+| HeMNAw6MDVE | Your Saltwater Guide | non-fishing | skip:not-fishing | skipped | Cabo marina walkthrough: restaurants/hotels/beach tourism, only trivial fishing-license mention; not fishing content |
+| qv0QbLgp72o | Your Saltwater Guide | on-the-water | single-pull | done | techniques/chunking.md / added bait-size/prey-density reaction-bite nuance (tuna+calico, medium confidence) to prey-density mechanism section |
+| CLkO0QUwb_c | Your Saltwater Guide | tutorial | skip:thin-generic | skipped | Generic kids-fishing advice (calm day, small bait, dont go offshore); one Dana Point red-buoy mackerel mention |
+| YQsbwfQ4wzY | Your Saltwater Guide | tutorial | parameter-skim | done | species/california-spiny-lobster.md; techniques/hoop-netting.md / added bait freshness/quantity notes, DIY 2in x18in PVC bait-tube spec (sea-lion evasion), Catalina 20-30ft depth note, LB/SD post-rain |
+| mdhoEQPqpng | Your Saltwater Guide | on-the-water | single-pull | done | techniques/fighting-big-bluefin.md; species/yellowtail.md / added observed sea-lion depredation free-spool counter-move as cross-species fight-stage section, linked from yellowtail router situations t |
+| 8Asmd2H56Qk | Your Saltwater Guide | tutorial | skip:duplicate-of-sYrsPGXiYhI | skipped | same recording as BD rubber-band-rig video per analysis doc (sim 0.518, ASR variance) |
+| TLEhULOWj7g | Your Saltwater Guide | on-the-water | skip:no-usable-content | skipped | Facebook-live hookup chaos/shouting, no location or conditions detail, no doctrine |
+| xI9tPJFXbUM | Your Saltwater Guide | tutorial | deep | done | techniques/chunking.md; planning/search-and-glassing.md; conditions/current-structure.md / chum-bucket bow-not-stern rig (repeated doctrine, high), anchor-in-front-of-rock (repeated doctrine, high), w |
+| 9hEa3sGTh40 | Your Saltwater Guide | tutorial | deep | done | bait/bait-tanks.md; planning/electronics-and-sounder.md; planning/fleet-intelligence.md (new); planning/day-plan-protocol.md; planning/search-and-glassing.md / new fleet-intelligence.md (VHF ch72/65 d |
+| zwNEhWtnBCE | Your Saltwater Guide | on-the-water | observations-only | done | techniques/chunking.md / added earliest-dated (2019-07-31) kelp-stringer chumming Observed block, fixed front-matter source and de-conflated promo narration from the observed moment |
+| 5FzBwvMtRP8 | Your Saltwater Guide | tutorial | single-pull | done | bait/making-bait.md / added microfiber-rag mackerel-jig method and no-hands/butter-knife bait-tank handling rule, medium confidence |
+| AZ7N_nRmLnc | Your Saltwater Guide | on-the-water | skip:no-usable-content | skipped | Mislabeled tutorial; just wide-open dorado bite shouting, no fishfinder-reading content despite title |
+| poqjnb1r1zk | Your Saltwater Guide | on-the-water | parameter-skim | done | species/bonito.md / added Observed block (5:45am Dana Point start, slow-then-improving morning, small-feather daisy-chain trolled ~5.5kt, Rapala-class hard-bait cast/twitch follow-up); reverted extrac |
+| KCcEqHSZ84k | Your Saltwater Guide | on-the-water | parameter-skim | done | techniques/chunking.md / added Dave Hansen's shallow-rock calico fight technique (rod tip high, no pumping, 65lb braid/30lb fluoro top shot, Northwest Harbor SCI ~6ft), contrasted with calico-bass.md' |
+| KTsXdQXAnkU | Your Saltwater Guide | on-the-water | parameter-skim | done | species/calico-bass.md; techniques/swimbaits.md / on-the-water parameter-skim of pitch-and-sink jig parameters, grind-don't-pump fighting technique, and lip-grab/foam-rinse release, folded into existi |
+| ZFqe49jRgA0 | Your Saltwater Guide | tutorial | deep | done | conditions/kelp-paddies.md; planning/fleet-intelligence.md; species/dorado.md; species/yellowtail.md / tutorial/deep extraction — paddy-approach discipline (drive straight up, no sneaking), 90-120ft b |
+| eNcltRh-shc | Your Saltwater Guide | on-the-water | observations-only | done | techniques/chunking.md / Observed block appended to existing Fighting-the-fish-out-of-shallow-rock section (Dave Hansen/Your Saltwater Guide) confirming rod-tip-high fight technique at a second Northw |
+| _KldpqPPT1c | Your Saltwater Guide | on-the-water | observations-only | done | species/calico-bass.md / Added Observed block (anchored outside Cat Harbor, steady not-wide-open bass bite, fish running into kelp) to calico-bass doctrine section; fixed missing front-matter source |
+| HGyL7pXy3Ts | Your Saltwater Guide | tutorial | deep | done | planning/electronics-and-sounder.md; planning/search-and-glassing.md / Added live fathom-conversion worked example + bottom-return-during-backing note to electronics-and-sounder.md; added chain/rope-s |
+| 6ueGWJek1gI | Your Saltwater Guide | tutorial | parameter-skim | done | bait/bait-tanks.md; bait/fishing-live-bait.md / merged Capt. Dave Hansen's tank-to-hook workflow (rod on rail, net not hands, get bait back in water fast) and corroborated the existing green-over-silv |
+| lF6jQklDCrY | Your Saltwater Guide | tutorial | single-pull | done | species/rockfish-lingcod.md / added caveated historical regs example (March 1 reopen; 300->350->460 ft depth progression, self-admitted uncertain reading) to Doctrine & conflicts |
+| kzD0kSnnVPw | Your Saltwater Guide | tutorial | single-pull | done | conditions/current-structure.md / Kelp/rock corner-selection-by-current-direction doctrine (Dave Hansen, medium confidence) added as new subsection to existing current-structure note |
+| EE0P4SvcNFg | Your Saltwater Guide | tutorial | single-pull | done | tackle/hooks.md / corroborated existing cut-squid-strips doctrine (thin strips not chunks) from a second Your Saltwater Guide video, bumping confidence medium to high per repeated-doctrine rubric |
+| e16i7zKq1FY | Your Saltwater Guide | tutorial | single-pull | done | techniques/chunking.md / merged drift-chumming downhill/lee-corner rule (stern-first drift, chum off wind/lines-matching corner) into existing chunking note, single-pull depth respected, no new note c |
+| wYeKJLoKo4g | Your Saltwater Guide | on-the-water | single-pull | done | techniques/kite-fishing.md / Added Observed block (slow approach on a gone-quiet breezer, Yummy rubber flyer under a balloon, misses then hookup); trimmed extractor's overreaching cross-video resolves |
+| jahddqzKhLY | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md / added Bimini-twist quick-tie parameters + When-to-use entry to existing knots note (no new note, matching parameter-skim depth) / flags: asr-uncertain(final locking-wrap c |
+| eEcRPEoG4DQ | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md; techniques/dropper-loop.md / Surgeon's-knot single-hook rockfish dropper loop amended into essential-knots.md and dropper-loop.md (leader length <=2.5 ft, 6 oz sinker on a  |
+| YZT-_SdmQNs | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tube-bait flip/pitch rig near trees/weeds mimicking crawdad - reads as freshwater bass technique |
+| IB3IqZKxEhk | StokedOnFishing | promo | skip:promo | skipped | Simrad rep (Tito Perez) demos chartplotter bridge-control feature; no fishing content, sponsor-heavy |
+| ILoJ_fzV4fY | StokedOnFishing | promo | skip:promo | skipped | Simrad rep demos Go Free WiFi app/box incl. pricing; no fishing content, sponsor-heavy |
+| 06lxuie5cZQ | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md / added a second, distinct mono-to-fluoro connection knot + tag-trim/tag-loop judgment to the Seaguar-knot entry, medium confidence, unregistered channel / flags: asr-uncert |
+| Jvv6DMNIHbE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | CA lake threadfin-shad/striper bass fishing, freshwater; series: Bass Fishing Live Shad part 1 |
+| 6-mi3Qxn37c | StokedOnFishing | on-the-water | observations-only | done | species/spotted-bay-bass.md; techniques/swimbaits.md / Added tide-preference Observed block to spotted-bay-bass.md and a detailed Alabama-rig gear/presentation Observed block to swimbaits.md (unregist |
+| 2gHRrR3D8rY | StokedOnFishing | tutorial | parameter-skim | done | fish-care/dorado-and-general.md: halibut filleting storage/icing parameters merged as attributed source; spine-follow/skin-removal mechanics skipped as generic |
+| rJ-Omw4Ob74 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Halibut rig setup explicitly filmed in Alaska |
+| wALN3RpsSxU | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Anchor-retrieval buoy hack explicitly filmed in Alaska |
+| H-vIGWPIPVc | StokedOnFishing | on-the-water | parameter-skim | done | fish-care/tuna-care.md; species/bonito.md; species/yellowfin-tuna.md: on-the-water observations added (gill-bleed mechanism, bonito table-quality vs yellowfin, SCI dolphin-pod troll-to-60lb-yellowfin) |
+| KPzJuwh6kbo | StokedOnFishing | non-fishing | skip:not-fishing | skipped | Pure tuna-steak marinade/cook recipe, no catch footage, sponsor-heavy intro |
+| z85Fy52itS8 | StokedOnFishing | non-fishing | skip:not-fishing | skipped | Pure rockfish ceviche recipe; fish caught in Alaska (mentioned only), no catch footage |
+| tzeXXPAjqUY | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: added third StokedOnFishing mono-to-fluoro tie explicitly named 'Seaguar knot', flagged as mechanically distinct from already-logged Cesar-sourced Seaguar knot (conflict ke |
+| 1BH7nQdIg5Q | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: added second independent San Diego jam corroboration (15in tag length, 6-wrap count); extraction-log row updated to done |
+| NkjjDf6XPcE | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: uni-to-uni wrap-count variant (3-4 turns) + mono-to-fluoro application added, medium confidence |
+| AT6zmDYxjW4 | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md: RP knot corroboration added (naming variants, 12in tag length, 6-up/6-down wrap count, double-pass cinch) |
+| NLDKbLw2q-E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Lake Cachuma freshwater bass camping trip; series: Lake Cachuma part 2 |
+| _0xZV0PojhE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Lake Cachuma freshwater bass camping trip; series: Lake Cachuma part 1 |
+| Y2bXn44lfqo | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; conditions/tide-and-slack.md; rigging/leadhead-mods.md; species/white-seabass.md; techniques/dropper-loop.md: WSB broodstock-trip parameters merged (squid handling, 4am slac |
+| 82gEHYel-4U | StokedOnFishing | on-the-water | parameter-skim | done | species/white-seabass.md: milky-water uphill/downhill spot-check method + reconciled HSWRI/Newport hatchery program history merged into existing broodstock context, medium confidence |
+| ldVj0BoB-kE | StokedOnFishing | report | deep | done | species/calico-bass.md: added Baja regional note on Cedros Island operator-driven 100% catch-and-release for calico/grouper/black seabass (2023-10-16), medium confidence, region-labeled vs CDFW SoCal  |
+| ntQXxcH5sjI | StokedOnFishing | tutorial | deep | done | species/bluefin-tuna.md; techniques/surface-iron.md; techniques/yo-yo-iron.md: bluefin router gained shallow-mark/yo-yo row + Tanner Bank Observed block, surface-iron sink-it-out tip, yo-yo-iron reach |
+| FE63WNlwkKw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Legg Lake/Whittier Narrows freshwater tournament; not saltwater despite LA/SoCal location |
+| 3S3Tx-Me2HY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clear Lake NorCal freshwater LiveScope bass fishing; title-trap, not SoCal saltwater |
+| c-LLt6fG2n0 | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Clear Lake bass w/ Garmin LiveScope; freshwater excluded despite CA location |
+| af51LVG_5SE | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Clear Lake winter bass fishing w/ LiveScope guide; out of region |
+| rI4P4PrOsPo | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Clear Lake bass/catfish/crappie trip; out of region |
+| SHFrJzWZP-g | StokedOnFishing | on-the-water | skip:out-of-region | skipped | Freshwater Legg Lake (LA) bass/bluegill/crappie tourney; freshwater excluded despite SoCal loc |
+| k4LCL9ALryA | StokedOnFishing | on-the-water | observations-only | done | lures/bay-bass-plastics.md; species/spotted-bay-bass.md; techniques/inshore-crankbaits.md: added 3 Observed blocks (18-20ft/shad-pattern depth-bait observation, 25+ fish crankbait day) after correctin |
+| wJl8SZhmaWg | StokedOnFishing | promo | skip:promo | skipped | SWBA tournament sizzle/testimonial reel, no instruction; promo |
+| EU_Dod4wfYw | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md: added Observed block (wide-open kelp bite at Santa Barbara Island, 4.5-5lb fish, more-kelp-on-prior-visit remark), contrasted beside existing not-wide-open Cat Harbor observati |
+| AxLlx2Ug-rs | StokedOnFishing | on-the-water | parameter-skim | done | locations/bays-and-harbors.md: added Observed block (fish hold tight to pilings, cast close to ambush), species-unspecified caveat; mis-scoped specific-model tackle paragraph dropped as out of locatio |
+| YijeuGOYoVQ | StokedOnFishing | on-the-water | observations-only | done | none: nothing extractable, sponsor-heavy East Cape Baja footage with no existing anchor notes (no wahoo/roosterfish species notes, no matching lure notes); ambiguous ASR marlin ID left unattached rath |
+| mL4Ph7t0WcQ | StokedOnFishing | on-the-water | observations-only | done | species/pacific-crevalle-jack.md; tackle/hooks.md; techniques/flyline.md: added three Observed blocks (Lighthouse Point mixed-species presence, circle-hook surf-cast roosterfish/tuna 10-count timing,  |
+| _Wb4z4ammoM | StokedOnFishing | on-the-water | parameter-skim | done | tackle/line-and-leader.md: Gonzaga Bay wire-leader/65lb-spectra parameter for cabrilla/barred pargo, medium confidence |
+| A6s-A1NARuA | StokedOnFishing | on-the-water | parameter-skim | done | tackle/line-and-leader.md; tackle/rod-and-reel-selection.md: Gonzaga Bay pt2 grouper deep-drop + casting gear rundown |
+| 9xNhdu2aBqE | StokedOnFishing | on-the-water | parameter-skim | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; techniques/swimbaits.md: MC9 swimbait, follow-up-eat behavior, line class, water color |
+| ROWgdFE9Ehc | StokedOnFishing | on-the-water | observations-only | done | techniques/flyline.md: Observed block, slow-trolled nose-hooked sardine 150-200ft, yellowtail, the channel |
+| epWXURDU-oI | StokedOnFishing | on-the-water | skip:duplicate-of-9xNhdu2aBqE | skipped | Same trip/dialogue as 9xNhdu2aBqE (Todd Klein, SCI), short highlight cut - NEW dedup finding at triage |
+| _C8w6zeVPak | StokedOnFishing | on-the-water | observations-only | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md; techniques/trolling.md: 6 Observed blocks, Cedros/Gono skiff trip |
+| BvT560Nblqo | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/trolling.md; techniques/yo-yo-iron.md: Observed blocks, Cedros ridge/chum/yo-yo iron, trolled yellowtail |
+| NGxyOlPx3ug | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; techniques/surface-iron.md: Observed blocks, Cedros/Gonzo skiff calico grade, surface-iron fall-bite at anchor |
+| Qa-j6LIwa1Q | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/california-halibut.md; techniques/yo-yo-iron.md: Observed blocks, Cedros high-volume calico bite, 41lb halibut on swimbait, calico on yo-yo iron |
+| XwwIvPFxRiQ | StokedOnFishing | on-the-water | observations-only | done | lures/soft-plastic-swimbaits.md; species/calico-bass.md; species/yellowtail.md; techniques/fighting-big-bluefin.md; techniques/yo-yo-iron.md: Observed blocks, Cedros day2 catch montage |
+| 3SATCeA3KaU | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/yellowtail.md: Observed blocks, Geronimo/Chester's Rock calico->yellowtail brawl, first-light birds push, plug bite |
+| _r_qKX_7080 | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/yellowtail.md; techniques/swimbaits.md: Observed blocks, Chester's Rock weedless swimbait calico/yellowtail, TR car keel hook, Dono stop split out |
+| L3tkGVu516A | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/yellowtail.md; techniques/swimbaits.md: Observed blocks, Dono/Sacramento Reef big-calico stop, spooled yellowtail, slow retrieve, kelp-fouled-hook release |
+| IATPg9110CE | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; techniques/swimbaits.md: Observed blocks, SBI tournament win kelp/rock, slow-roll retrieve, rod length tradeoff |
+| PKf7G3uL4io | StokedOnFishing | on-the-water | observations-only | done | locations/island-structure.md; lures/soft-plastic-swimbaits.md; species/calico-bass.md; tackle/line-and-leader.md; techniques/swimbaits.md: 5 Observed blocks, Catalina West End wind retreat, stealth a |
+| iQLyBzhOSi8 | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; techniques/swimbaits.md: Observed blocks, SCI Northwest Harbor tournament conditions, swimbait cadence; fixed inherited 2014-dating vs on-camera 2012 slate |
+| 2ivn-N0as_A | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA night tourney weigh-in/catch montage, no conditions detail; series: SWBA Midnight Standoff part 3 |
+| 8KIsYpsIBwI | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Southwest Florida beach shark tournament; series: Giant Shark Florida part 2 |
+| _Ejay_B77DA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Southwest Florida beach shark tournament; series: Giant Shark Florida part 1 |
+| P6Slg6RQiXw | StokedOnFishing | on-the-water | deep | done | species/calico-bass.md; techniques/swimbaits.md; tackle/rod-and-reel-selection.md / SCI on-the-water trip (Aaron Martens/Capt. Benny Florentino) — kelp-canopy flipping technique + situations-table row |
+| vwH9ERf6zPI | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Long Beach Yacht Club SWBA/Olive Crest charity tourney catch footage, no conditions detail |
+| M6U_FVdosr4 | StokedOnFishing | on-the-water | parameter-skim | done | species/calico-bass.md / added dated Observed block (unregistered channel, medium confidence): AM squid-vs-sardine tally (5 sand bass + 3 calico, all on squid) + anchor-on-light-current decision in Da |
+| x1Vb7c4Ek-U | StokedOnFishing | promo | skip:promo | skipped | Stoked On Fishing show trailer announcing Fox Sports West premiere, sizzle reel only |
+| NQsVlcpNfck | StokedOnFishing | promo | skip:promo | skipped | Shogun Sportfishing skiff-trip promo, Catalina kelp/skiff catch footage but ad for booking charter |
+| pd1VOJbTEEM | StokedOnFishing | report | skip:thin-generic | skipped | Long Beach Yacht Club charity-venue talk for Olive Crest event, zero fishing footage |
+| N1YBY1i600U | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA California Offshore Challenge (Catalina/SCI) tourney hype+catch footage, no conditions detail |
+| mXu8vJ8yr4Q | StokedOnFishing | on-the-water | single-pull | done | lures/soft-plastic-swimbaits.md / Observed block added to the weedless-rigged slug bullet: weedless swimbait held up through repeated kelp-boiler passes across a 4th/5th same-week trip on the same lea |
+| xIUKmH9ccgQ | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/california-halibut.md; species/yellowtail.md / observations-only Cedros catch-montage footage added as three attributed Observed blocks (calico/mixed bite, incidental h |
+| IFhBVRoc4VQ | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SWBA/Sanderson Farms Shelf Bass Special weigh-in/catch footage, no conditions detail |
+| fjMHM1V9iPc | StokedOnFishing | report | skip:thin-generic | skipped | Bass-stravaganza vendor/seminar-day recap interviews on standings/sponsors, no technique captured |
+| FurifnQ27mM | StokedOnFishing | on-the-water | single-pull | done | lures/bay-bass-plastics.md / added Observed block (shrimp-pattern lure worked, SWBA Border Town Brawl tournament day) + fixed missing front-matter source id |
+| wdbqTio1SQU | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md / Cedros/North Point Observed block added (spot name + grade, surface-iron opening catch, yo-yo iron catch); one overclaimed species identity corrected during review |
+| RPSRH0jwyw4 | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/calico-bass.md; fish-care/gaffing.md / on-the-water Observed blocks added for Cedros West End calico bite, front-side home-guard yellowtail bendo bite, and a missed-gaff |
+| yuXr3IJ8ybg | StokedOnFishing | on-the-water | observations-only | done | bait/fishing-live-bait.md; species/bonito.md; species/yellowtail.md / on-the-water observations added: squid-grip corroboration, bonita-as-life-indicator + mid-fight species-tell caveat, SCI mixed-bit |
+| Turj5ZKNcuE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Kingdom of Tonga travel/lifestyle episode; series: Stoked On Tonga part 1 |
+| sJCoSQpanU4 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga kiteboarding/kayak reef episode; series: Stoked On Tonga part 2 |
+| xHT7oJGRQyk | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga vanilla factory/cave-swim wrap-up episode; series: Stoked On Tonga part 4 |
+| U60jPPBu5CM | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Save The Brave veteran-charity trip, golf + brief rockfish catch reactions, region unclear/Baja island |
+| qri15R3caYE | StokedOnFishing | on-the-water | observations-only | done | species/barracuda.md; species/bonito.md; species/calico-bass.md; species/yellowtail.md / 4 Observed blocks added for the La Bocana, Baja co-op trip (mixed-bag species list, calico grading 5-9 lb, miss |
+| Cobp85UvHmM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/spotted-bay-bass.md; species/yellowtail.md; techniques/trolling.md / on-the-water observations added across 4 existing notes (La Bocana part 2: offshore troll/dorado fire-dr |
+| tcso7Lpm_Xs | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/skipjack-tuna.md; techniques/trolling.md / Observed blocks added for Buena Vista Beach Resort/East Cape offshore troll (dorado/skipjack counts, wahoo count, unconfirmed marl |
+| 3yK3JYrKoZY | StokedOnFishing | on-the-water | parameter-skim | done | species/calico-bass.md; techniques/yo-yo-iron.md / on-the-water/parameter-skim extraction of West End Cedros calico bite (corroborating RPSRH0jwyw4) and a lazy-boy/clicker yo-yo cadence variant; fixed |
+| d0yGBQDeY_4 | StokedOnFishing | on-the-water | parameter-skim | done | planning/electronics-and-sounder.md; species/yellowtail.md; techniques/fighting-big-bluefin.md; techniques/sliding-sinker.md / on-the-water/parameter-skim: Cedros fog-radar-nav fact, bait-ball approac |
+| 84XPJAeH0Rw | StokedOnFishing | on-the-water | observations-only | done | species/pacific-crevalle-jack.md; techniques/fighting-big-bluefin.md; techniques/flyline.md; techniques/foamer-casting.md / on-the-water observations added: jack crevalle catch-mix presence at East Ca |
+| GptrotE0x5M | StokedOnFishing | on-the-water | observations-only | done | species/yellowfin-tuna.md; techniques/fighting-big-bluefin.md; techniques/flyline.md / Fiesta weigh-in grade data point + two hand-fought fight observations + squid-chum/circle-hook-mandatory observat |
+| _c6UI3lGBVg | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowfin-tuna.md; techniques/fighting-big-bluefin.md / East Cape observations (distance/depth, grade, hand-off coaching, small-vs-circle-hook) appended to existing Observed blocks; front-matt |
+| 6j7V34GYzzw | StokedOnFishing | on-the-water | observations-only | done | techniques/trolling.md / on-the-water observations (East Cape panga rooster session + unconfirmed offshore gamefish fight) merged into trolling.md; speculative striped-marlin identification rejected a |
+| ecJPMTCi-gw | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/yo-yo-iron.md / on-the-water/parameter-skim Observed additions (seal-worked drift, surface-iron/yo-yo alternation, unexplained yo-yo downsize bite, ASR-uncertain 'tat |
+| CuK0_9v1F_o | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) halibut fishing |
+| tJFSV3AcIdE | StokedOnFishing | on-the-water | parameter-skim | done | species/calico-bass.md; tackle/rod-and-reel-selection.md; techniques/swimbaits.md / on-the-water/parameter-skim extraction: leading-edge kelp observation, calico grub/casting gear specs, and a followe |
+| 7aF6uWVw76g | StokedOnFishing | on-the-water | single-pull | done | species/striped-marlin.md / on-the-water/single-pull: 40 lb leader landed a marlin (species/reel type per title only, not confirmed in audio) added as hedged Observed block, unsupported baitcaster cla |
+| 9D3Oiy0ASzg | StokedOnFishing | on-the-water | single-pull | done | species/yellowtail.md / on-the-water observation added to San Benito Islands entry (braid-vs-kelp/rock cutoff during yellowtail fight); one internal cross-reference inaccuracy fixed |
+| wJgoRhZStz0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon/Brazil peacock bass, freshwater |
+| xudAbDj4GYw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Coiba Is. inshore/offshore |
+| CdJ-ISFv8BI | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama offshore tuna/dorado/marlin |
+| APsnsunT4gM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/pacific-crevalle-jack.md; techniques/trolling.md / added inshore beach-dorado, offshore troll (tuna/wahoo/marlin), and jack-crevalle-named-target Observed entries for East C |
+| SImABCBBxAo | StokedOnFishing | on-the-water | parameter-skim | done | species/spotted-bay-bass.md; lures/bay-bass-plastics.md / 4 Observed blocks added (depth, color-to-overcast, bait-profile match, named bait) |
+| LE49ush9zqA | StokedOnFishing | on-the-water | skip:thin-generic | skipped | No location/conditions given; pure catch montage of double yellowtail hookups |
+| isXJONlpUP4 | StokedOnFishing | on-the-water | parameter-skim | done | techniques/trolling.md / Added Mag Bay estuary/mangrove troll-and-cast entry (wind/chop fallback from offshore marlin, 25-30ft channel depth, palometa/pompano-family ID, 3/4oz Cast Master casting swit |
+| OVwqUKim9Pc | StokedOnFishing | on-the-water | parameter-skim | done | techniques/trolling.md / Added Mag Bay sea-state bank-routing Observed entry (Ridge vs Modesto Main, wahoo->dorado bite, final-day snook estuary) to existing Magdalena Bay section |
+| yjwIGFzWO8I | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/calico-bass.md; species/dorado.md / additive Observed-block entries for Cedros macro-banks to Chester's Rock leg (yellowtail 30-40lb + kelp/spectra fight, mixed dorado,  |
+| DGh-iUp63Hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus halibut/black bass/salmon |
+| j-hRaVWkQw4 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus halibut pt2 |
+| 9pJA2BnCjpc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica private creek machaca, freshwater jungle stream |
+| MhJeCS_c3h8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica inshore wahoo/grouper + offshore tuna |
+| Nz5kTJQvuEY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica catch-and-cook tuna, offshore fishing + cooking segment |
+| V_ONnegk95M | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/flyline.md; techniques/surface-iron.md / evening bite-window timing + 30lb/3-0 hook & drag-set + bait-selection params + green-and-yellow surface-iron color observed |
+| QSmE3mdEL28 | StokedOnFishing | on-the-water | parameter-skim | done | bait/making-bait.md; species/yellowtail.md; tackle/line-and-leader.md; techniques/trolling.md / Cedros Baja trip: 80-100lb line class over 28-30ft resident structure, slow-trolled live mackerel on cir |
+| brx6Ie_L2FM | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/trolling.md / Added three Observed blocks (Cedros dorado paddy account w/ 200-300 fish, personal-best yellowtail ~1 mi offshore, dock advice for sl |
+| I-QBxuV2p7M | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/yellowtail.md; techniques/surface-iron.md; techniques/trolling.md / Cedros day-2 Observed blocks: yellowtail troll blanked at 30ft on 65/80lb gear, diverted to wide-ope |
+| e73wPONTOJU | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-trolling.md; species/bluefin-tuna.md; species/dorado.md; species/striped-marlin.md; techniques/flyline.md; techniques/foamer-casting.md / on-the-water observations-only extraction appl |
+| VWClGAn2WEw | StokedOnFishing | on-the-water | deep | done | conditions/kelp-paddies.md; species/dorado.md; species/yellowtail.md / on-the-water/deep Observed blocks: drift-setup/electronics+eyeballs/work-bird+discoloration search doctrine, plan-B bluefin-to-pa |
+| HMdrP4-i9MM | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/sand-bass.md; techniques/dropper-loop.md; techniques/flyline.md / on-the-water kids/Okuma trip off Dana Point/N. San Diego Co.: calico+sand bass over hard bottom w/ sub |
+| eUUtSmiskbA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon peacock bass, freshwater, not SoCal/Baja |
+| l0kB6y0klwY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Amazon Blackwater Explorer mothership promo, freshwater peacock bass |
+| xzIaUEDklrE | StokedOnFishing | on-the-water | deep | done | lures/mad-mac.md; seasonal/november-december.md; species/bluefin-trolling.md; techniques/fighting-big-bluefin.md; techniques/trolling.md / on-the-water deep extraction: 6 Observed blocks (Mad Mac setb |
+| QCXlPULXf4A | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Puerto Rico wahoo/tuna/tarpon, Caribbean |
+| RSMA1xrGngA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Puerto Rico Caribbean charter, wahoo/yellowfin |
+| vdgf_C1-P08 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Puerto Rico Caribbean, Dorado/tarpon, sponsor-heavy |
+| 55-Sx8V1Uk8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama Coiba/Hannibal Bank charter |
+| ZBRSB4iwtbU | StokedOnFishing | on-the-water | skip:duplicate-of-ldVj0BoB-kE | skipped | confirmed: identical Jose interview on Cedros C&R reg change, same 1:57 runtime |
+| HEyt8fxoH5w | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama Coiba cubera snapper/roosterfish/yellowfin |
+| 9tIp4n7q850 | StokedOnFishing | on-the-water | observations-only | done | species/california-halibut.md; species/dorado.md; species/yellowtail.md; techniques/surface-iron.md; techniques/trolling.md / Cedros (Baja) halibut/dorado/yellowtail on-the-water observations: wide-op |
+| Zo92MG459gQ | StokedOnFishing | on-the-water | observations-only | done | lures/tuna-poppers-and-stickbaits.md; species/calico-bass.md; species/california-halibut.md; species/yellowtail.md; techniques/trolling.md / on-the-water continuation of 9tIp4n7q850: Cedros home-guard |
+| zn4n7k3iaZo | StokedOnFishing | seminar | parameter-skim | done | species/white-seabass.md / Added Bill Shedd (HSWRI/CCA Cal chairman) interview: OREHP program origin, 2M+ cumulative releases/eight-nine grow-out facilities, and the unresolved tag-return-vs-gillnet-s |
+| xFS3MW4GpDU | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; rigging/leadhead-mods.md; species/white-seabass.md / on-the-water/parameter-skim: broodstock program depth ceiling (<60ft/40ft typical, air-bladder sensitivity), May/June migration |
+| ORC1A68cEeM | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/yellowtail.md; techniques/trolling.md / La Paz, BCS observations: guide-led bait-making (mackerel jigging + purchased sardines) and shallow-water (12ft) live-bait slow-tro |
+| qM7iOO7fOBw | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/flyline.md / StokedOnFishing La Paz (day 2) Observed entries: dorado school-holding corroboration (third region), yellowtail/cabrilla/dorado/pargo  |
+| 92y14x33etQ | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/yellowtail.md; techniques/trolling.md / StokedOnFishing La Paz/Espiritu Santo: bait-wind note, El Bajo dropped-bait/slow-troll yellowtail Observed section (65lb braid/60lb |
+| haJ3BancQDI | StokedOnFishing | promo | skip:promo | skipped | Short Okuma Alijos lever-drag reel product highlight clip |
+| YUdbrIm9vrE | StokedOnFishing | on-the-water | observations-only | done | species/bonito.md; species/dorado.md; species/yellowfin-tuna.md; techniques/trolling.md / Cedros multi-species (yellowfin, dorado, bonito) Observed blocks: October tuna/dorado-before-yellowtail sequen |
+| A8SuzB5qiKE | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowtail.md; techniques/trolling.md; techniques/yo-yo-iron.md / Cedros Outdoor Adventures Oct-trip observations: yellowtail yo-yo iron rod/reel/leader builds (212ft drop,  |
+| PAZA-PzMcWQ | StokedOnFishing | promo | skip:promo | skipped | Sizzle reel montage, no content, channel promo |
+| Xnq3FIUzvuw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska Gustavus king salmon charter |
+| usHl-4SfqDA | StokedOnFishing | on-the-water | deep | done | fish-care/tuna-care.md; locations/bays-and-harbors.md; rigging/flying-fish-harness.md; species/bluefin-tuna.md; species/calico-bass.md; species/spotted-bay-bass.md; techniques/fighting-big-bluefin.md; |
+| RpfHO-kotc8 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus); king/sockeye salmon; sponsor-heavy intro |
+| Sz88huROjtY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) halibut/rockfish; sponsor-heavy intro |
+| SS_ObRfLw2E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska halibut dropper-loop/grub jig; sponsor-heavy intro |
+| 6EDQtQHEwFE | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/surface-iron.md; techniques/sliding-sinker.md; techniques/fighting-big-bluefin.md / on-the-water Observed blocks: surface-iron sight-casting, sliding-sinker second Ce |
+| ILBl12Jm7-0 | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/calico-bass.md; techniques/surface-iron.md; techniques/yo-yo-iron.md; tackle/line-and-leader.md / part-2 Cedros trip observations added (run-and-gun surface iron/yo-yo y |
+| u0scEBby7nA | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / Part 3 of the Cedros Oct-2024 trip series (StokedOnFishing) - 44 lb personal-best yellowtail on a custom iron, San Augusti |
+| qBZxnRuXtGo | StokedOnFishing | on-the-water | skip:duplicate-of-SdwwpQMJEOI | skipped | confirmed: identical Olive Crest tournament script/footage as SdwwpQMJEOI |
+| PexiSOiN00o | StokedOnFishing | promo | skip:promo | skipped | Okuma Tesoro reel product demo; rock fishing/salmon/halibut clips, region unclear; sponsor-heavy |
+| wj8IyrcsmF4 | StokedOnFishing | promo | skip:promo | skipped | 30s Okuma Tesoro reel teaser, same clips/lines as PexiSOiN00o; sponsor-heavy, no region |
+| 0dIwWiOc1NY | StokedOnFishing | on-the-water | observations-only | done | bait/making-bait.md; species/bonito.md; species/calico-bass.md; species/rockfish-lingcod.md; species/sand-bass.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/slow-pitch-jigging.md; t |
+| DTrhKKBEQyY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska (Gustavus) salmon+halibut harpoon; sponsor-heavy intro |
+| V7AfmB9pl_I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba/Chiriqui); Inshore-labeled but out-of-region travel trap; sponsor-heavy |
+| UfuiWFVvz2E | StokedOnFishing | on-the-water | observations-only | done | lures/knife-jigs.md; species/bluefin-tuna.md; species/yellowtail.md; tackle/hooks.md; techniques/knife-jigging.md / on-the-water observations-only extraction of a Constitution/Fisherman's Landing Cort |
+| 7U4N1f0viOU | StokedOnFishing | on-the-water | observations-only | done | none / confirmed duplicate/re-cut recap footage of the already-logged Cedros Oct-trip series (Bonito Island/Chester's Rock/mackerel-bait-circle-hook content all previously captured); no new extractabl |
+| R1F66XIjf3E | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Coiba Island) yellowfin tuna; sponsor-heavy intro |
+| sHnqSIOjTdM | StokedOnFishing | on-the-water | observations-only | done | bait/bait-tanks.md; species/bluefin-trolling.md; species/bluefin-tuna.md; species/white-seabass.md; species/yellowtail.md; techniques/fighting-big-bluefin.md / on-the-water observations merged as Obse |
+| mDmbGdQAy-4 | StokedOnFishing | on-the-water | deep | done | fish-care/tuna-care.md; species/bluefin-tuna.md; techniques/fighting-big-bluefin.md / on-the-water/deep extraction: weight-without-scale formula, foamer/troll-plug-failure observation, and 'railroadin |
+| SdwwpQMJEOI | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/sand-bass.md; species/spotted-bay-bass.md / on-the-water observations-only extraction of Olive Crest ProAm bass tournament footage (release handling, pre-fishing plan,  |
+| Y1xeieQI3B4 | StokedOnFishing | on-the-water | observations-only | done | fish-care/tuna-care.md; species/ocean-whitefish.md; species/rockfish-lingcod.md / added RSW fish-hold Observed to tuna-care, Cortez Bank ocean-whitefish Observed, and mid-trip pelagic-to-rockfish-swit |
+| nQvJnfb5jQ4 | StokedOnFishing | on-the-water | observations-only | done | rigging/double-trouble-rig.md; species/bluefin-tuna.md; species/yellowtail.md; techniques/fighting-big-bluefin.md / on-the-water observations added as Observed blocks to 4 existing notes (kite/flyline |
+| eL1Qm33-Mj0 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/sheephead.md; techniques/surface-iron.md / Cortez Bank part-1 observations (build-up timeline, flyline/iron method split, incidental sheephead, casting-etiquette) merg |
+| zBd1mayUt_I | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md; techniques/kite-fishing.md / on-the-water observations added (slick/shutdown pattern, sundown 100lb+ kite+flyline bluefin bite, captain's tackle-heads-u |
+| QSvzVHW9UMk | StokedOnFishing | on-the-water | observations-only | done | lures/tuna-poppers-and-stickbaits.md; species/bluefin-tuna.md; species/yellowtail.md; techniques/kite-fishing.md / on-the-water observations merged as attributed Observed blocks (Cortez Bank bluefin/y |
+| LsFMBCa9DOQ | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; tackle/hooks.md; techniques/flyline.md; techniques/knife-jigging.md / on-the-water observations merged additively into bluefin-tuna, hooks, flyline, and knife-jigging notes; J |
+| Ix0gG0-l3v0 | StokedOnFishing | on-the-water | deep | done | rigging/flying-fish-harness.md; species/bluefin-tuna.md; techniques/kite-fishing.md; planning/search-and-glassing.md / on-the-water/deep extraction - Baja tournament kite-rig how-to, tagline, gyro-bin |
+| U1AgwmlY5bI | StokedOnFishing | on-the-water | observations-only | done | lures/mad-mac.md; lures/spreader-bar.md; species/bluefin-tuna.md; techniques/trolling.md — Observed-only additions: Mad Mac two-lure setback + reel model, 3-bar spreader setback, rapid-crank tip, comp |
+| prQpoN9qWBY | StokedOnFishing | on-the-water | observations-only | done | none — skipped: travel/check-in/tournament-logistics footage, no fishing decision-knowledge or observed on-the-water outcome (pre-departure gear plan only, actual fishing deferred to part 2) |
+| r4J5nP5Bkl4 | StokedOnFishing | on-the-water | observations-only | done | bait/fishing-live-bait.md; species/bluefin-tuna.md; species/dorado.md; techniques/fighting-big-bluefin.md — June 2023 El Dorado (Capt. TJ) trip: kelp-paddy dorado + backside-San-Clemente sundown bluef |
+| oB4BpIUTTl4 | StokedOnFishing | on-the-water | parameter-skim | done | techniques/flyline.md; techniques/knife-jigging.md — night-jigging floor (100lb braid/mono min, 200-400lb leader, 350g+ jigs) and daytime flyline tackle (25-40lb, No.2 hook, ~90% corner hookup), same  |
+| mj50D4rNfdI | StokedOnFishing | promo | skip:promo | skipped | 30s El Dorado boat ad, pure vessel-amenities pitch, no fishing content |
+| c3NFkQbdDy0 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md — mixed bluefin/yellowtail anchor bite ~90mi off CA (El Dorado/Capt. TJ), Home Guard/Tanner Bank yellow naming, 40lb bluefin with pre-existing hook corro |
+| 9qMLztwVx9g | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md — night yo-yo/jig bite 50-200lb vs daytime flyline bite 20-150lb, triples callout, Red Rooster SD trip; boat/landing naming hedged ASR-uncertain |
+| 947solNfiPw | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md — sardine-bite Tanner Bank trip, day-one grade progression, 41lb prior-day report, mixed-grade 10-100lb tackle challenge, rod-handoff culture note, cross-matched to c3NFkQbdDy0 |
+| Tz5y87zUp_Y | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama dorado catch footage, region confirmed in transcript |
+| rhaie9Tbi8I | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama (Hannibal Bank, spinner dolphins), yellowfin/dorado catch footage |
+| aPkRKI35XV0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Coiba National Park, rooster/snapper/amberjack footage |
+| fDSd9kqwYW0 | StokedOnFishing | on-the-water | parameter-skim | done | species/rockfish-lingcod.md; species/yellowtail.md — Cortez Bank Observed blocks: rockfish stop (150ft ridge, drift-wind mechanics, 10-fish limit anecdote), yellowtail flyline leg (No.2 hook/25lb, 5-h |
+| elBPRrdkugU | StokedOnFishing | on-the-water | observations-only | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
+| nsUdT-zXI8s | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; techniques/fighting-big-bluefin.md; techniques/flyline.md — veterans-charity SCI trip: sea-lion depredation counter-move (conflicting technique), flyline sardine hook/line param |
+| vCskOx6N-XM | StokedOnFishing | on-the-water | deep | done | fish-care/gaffing.md; rigging/flying-fish-harness.md; species/bluefin-trolling.md; species/bluefin-tuna.md; techniques/fighting-big-bluefin.md; techniques/kite-fishing.md — Tanner Bank bluefin trip: k |
+| lxM-AbTn3Sc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Nosara, Costa Rica inshore wahoo/tuna/dorado footage, sponsor-heavy |
+| b8IqxTQ6xr0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Nosara, Costa Rica yellowfin/wahoo footage, sponsor-heavy |
+| c9xWDUyzDDI | StokedOnFishing | on-the-water | skip:thin-generic | skipped | 1min Fishlab Scrum Popper catch clip, no region/conditions stated, product-demo feel |
+| Kiq4hdJ8Gsk | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska halibut jigging footage, series Alaska part 4 |
+| 6N4zaJdHFck | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska salmon footage, series Alaska part 3 |
+| M7BtON4GZgQ | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; techniques/flyline.md; techniques/foamer-casting.md — 2020 El Dorado Catalina west-end trip: fish-returning-from-islands pattern, shallow sonar marks (120/150ft), butt-hook fl |
+| 4t_Z75shK_E | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; techniques/trolling.md — Mag Bay trip: wind stand-down, bait/lure-size heuristic (dockside doctrine, not same-day data), wahoo transit-lure (confidence downgraded promotiona |
+| BQ2U1PqxWi8 | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; species/yellowfin-tuna.md; techniques/fighting-big-bluefin.md — East Cape Fiesta footage: yellowfin surface-boil/stickbait strike, scad-mac/flat-fall session, fight-slack re |
+| UCADhIs5Ew0 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska rockfish/king salmon footage |
+| 8GXiSWF_4wA | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Gustavus, Alaska halibut/rockfish/salmon footage |
+| iczB-6A1Arc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama, Hannibal Bank/Coiba, tuna foamers footage |
+| oXunQKSbc2g | StokedOnFishing | on-the-water | observations-only | done | species/bonito.md; species/yellowtail.md — Cortez Bank El Dorado 2-day trip (Oct 2019): yellowtail-first/tuna-conditional/Cortez-fallback plan off peer intel, yo-yo+surface iron yellowtail, giant boni |
+| pu9zIm-Tsus | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Title misleads but content is Costa Rica trip w/ Craig Sutton |
+| fxZGXrrpHz4 | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica marlin/sailfish/tuna/dorado trip, Nosara area |
+| IxhdiX3oEEs | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; techniques/fighting-big-bluefin.md / added SoCal 184lb/65in bluefin catch as Observed entry in species router + teammate hand-off Observed entry beside East Cape hand-off doct |
+| kS8eC_5y4oo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Costa Rica double sailfish, release/handling footage |
+| 9jDy4gUUyJk | StokedOnFishing | on-the-water | single-pull | done | conditions/kelp-paddies.md / drone-as-paddy-precheck bullet added under Finding paddies; Observed dorado catch block added (one overreaching claim corrected to match hedged/garbled source) |
+| 1nK7vSPl2sg | StokedOnFishing | on-the-water | observations-only | done | techniques/flyline.md / Observed block appended (La Ventana amberjack on high spot 200->80ft, 30lb fluoro topshot + 3/0 circle hook, Okuma reel); medium confidence per registry cap |
+| Klfb433I3Uk | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; fish-care/tuna-care.md; techniques/fighting-big-bluefin.md / merged chum-buddy seal-avoidance chumming variant, yellowtail bleed-and-bucket observation, and two preventive s |
+| SczdZIq3UmE | StokedOnFishing | on-the-water | parameter-skim | done | conditions/bird-reading.md; planning/electronics-and-sounder.md; species/yellowfin-tuna.md / tern-ID tip + 72F + yellowfin grades merged as Observed blocks, Simrad Halo radar zoom/dolphin-marking mech |
+| Jz9KRNEHLkw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Alaska lingcod |
+| 0bcDBGzQnGw | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/trolling.md / Ensenada/Navico dolphin-school-foamer-marlin stop and separate temp-break-search/Cal-Pal yellowtai |
+| Q-gQuOegAx4 | StokedOnFishing | on-the-water | observations-only | done | bait/fishing-live-bait.md; species/bluefin-tuna.md; species/yellowtail.md / SCI bluefin (100-200lb) then inshore calico/bonita/yellowtail chum-line leg + pinniped bait-hooking data point added as Obse |
+| cLYqjT7ddl8 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md / two Observed blocks added (bird-on-school grade/weight data point; shallow-mark meter/jig depths); front-matter sources gap fixed |
+| CKq0Z6ExVs4 | StokedOnFishing | on-the-water | observations-only | done | species/barracuda.md; species/ocean-whitefish.md; species/rockfish-lingcod.md; species/sheephead.md; species/yellowtail.md / Ensenada high-spot (200->25ft, 7-8mi off Hotel Coral) Observed blocks added |
+| YcLMhI5kzBo | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Tonga part 3, marlin/yellowfin, local cooking segment |
+| SGbynqaiHdY | StokedOnFishing | on-the-water | observations-only | done | species/yellowtail.md; species/rockfish-lingcod.md / Save The Brave charity charter Observed blocks added (rig params/fallback rockfishing, depth/structure, mid-session reposition); triage-mismatch fl |
+| rsCAh-QyK60 | StokedOnFishing | on-the-water | parameter-skim | done | species/bluefin-tuna.md; techniques/fighting-big-bluefin.md; techniques/kite-fishing.md / 3 Observed blocks added (272lb kite-caught bluefin; kite height/distance/troll-speed params; small-boat-vs-yac |
+| tU4jhAkdzNw | StokedOnFishing | on-the-water | observations-only | done | rigging/rubber-band-deep-rig.md; species/bluefin-tuna.md; species/yellowfin-tuna.md; species/yellowtail.md / Top Gun 80 pt3 Observed entries: sliding-sinker trip-tip variant, AM bluefin/PM yellowtail  |
+| 3T4c3Zez_DM | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowfin-tuna.md / Top Gun 80 pt2 Observed blocks added: bluefin bite-window pattern (no on-camera grade), offshore bird/boil yellowfin bite ~30lb, cross-linked to pt |
+| Rb5I2ljAqeE | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md; techniques/flyline.md / Top Gun 80 pt1 day-1 Observed entries: desperation-reef squid-staging reasoning + 40-90lb bluefin, 18-25lb Home Guard yellowtail |
+| mpcSgkQvIzg | StokedOnFishing | tutorial | parameter-skim | done | rigging/essential-knots.md / Worm-knot entry added (mono topshot to Bimini loop, ~10-wrap mechanic, fast field-retie judgment) |
+| 6kpWn2sXokI | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/yo-yo-iron.md / Alijos Rocks Baja (Intrepid, long-range) mixed-bag Observed blocks added to dorado/yellowfin/yellowtail  |
+| ASitOLYzFEA | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/yellowfin-tuna.md / Baja lower-banks Intrepid dock-day testimonials added as Observed blocks (4-day single-school anchor, dockside grade tallies, dorado bycatch); evaluator  |
+| jznQMFoV0Ls | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Pure catch montage, almost no dialogue, no location/conditions detail |
+| zUFbCIWZZMw | StokedOnFishing | on-the-water | observations-only | done | species/calico-bass.md; species/yellowtail.md / Added Bird Rock mixed-bag (yellowtail/calico bass/barracuda) and Catalina west-end bat ray/leopard shark misID Observed blocks; evaluator removed unsupp |
+| uyjTdgIw-1k | StokedOnFishing | on-the-water | parameter-skim | done | planning/electronics-and-sounder.md; species/dorado.md; techniques/chunking.md / SST/wind-overlay break-finding method (Simrad demo, 69-72F/3-4F diff) + dorado light-tackle rig + chunk-vs-live-bait pr |
+| Ow3an9lSVh4 | StokedOnFishing | on-the-water | parameter-skim | done | conditions/kelp-paddies.md; species/california-spiny-lobster.md; species/yellowfin-tuna.md; techniques/chunking.md; techniques/flyline.md; techniques/hoop-netting.md / Six trip-tip parameters merged ( |
+| 3qSY328fFYo | StokedOnFishing | on-the-water | deep | escalated | escalated: guard: deleted 21 lines from curated note: techniques/bait-and-switch.md |
+| XH-Hrfet6To | StokedOnFishing | on-the-water | parameter-skim | done | species/striped-marlin.md; techniques/trolling.md / Cabo San Lucas trip: species Observed block (dropback marlin catch, sailfish, water conditions) + Melton Tackle lure-size/tournament and afternoon-c |
+| Mwx5AAXNMvE | StokedOnFishing | on-the-water | observations-only | done | species/striped-marlin.md; techniques/bait-and-switch.md; techniques/trolling.md / Cabo pt2 charter continuation: release-practice + fighting-chair Observed block, blue-marlin lost-strike lure data po |
+| 4bbKduPRlHE | StokedOnFishing | on-the-water | skip:no-usable-content | skipped | 1:48 near-wordless b-roll clip (mako hits hooked yellowtail); no location/date/technique content |
+| skRo1z41Dnc | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/dorado.md / Observed blocks added: whale-associated tuna sign, breezer holding bluefin-then-dorado ~2 days apart, four-species day; evaluator hedged an ASR-ambiguous c |
+| AfZoeSu_9hc | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt1 |
+| 27MMQGRIrpw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Prince Edward Island, Canada bluefin trip; series pt2 |
+| SH7zOA9ZF3o | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/yo-yo-iron.md / San Benito Island structure/kelp break-off corroboration and two-partial-crank-then-full-wind yo-yo cadence added; evaluator fixed a bare upload-date- |
+| pk2blktDQ9Y | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; tackle/line-and-leader.md; techniques/fighting-big-bluefin.md; techniques/kite-fishing.md / Long-range multi-day bait load/care, line-class ladder by grade, fight-duration/topshot  |
+| Fq4aRI3YrKE | StokedOnFishing | on-the-water | observations-only | done | species/yellowfin-tuna.md / Added Observed block (personal-best hookups, closing tally, bait-ball hold-position) as week-2 continuation of the pk2blktDQ9Y Intrepid trip; evaluator corrected an unsuppo |
+| UuyqTE21-kc | StokedOnFishing | on-the-water | single-pull | done | techniques/kite-fishing.md / Added Observed block logging a kite-free helium-balloon flyer presentation fished downwind for giant Baja yellowfin; evaluator softened an unsupported visual claim (captio |
+| D_Y2G0rBZCs | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; species/yellowtail.md / SCI squid bite grade split, 20-25lb line window, sliding-egg-sinker/dropper-loop rig, keep-bait-active tip merged as Observed entries; evaluator appl |
+| nkJNzdNlm_c | StokedOnFishing | on-the-water | observations-only | done | planning/electronics-and-sounder.md; species/bluefin-tuna.md / Search-sonar range/audio-cue Observed entry and same-trip morning-bluefin/afternoon-yellowfin grade Observed entry added; evaluator appli |
+| JaKSGkZ6CAc | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/dropper-loop.md; techniques/yo-yo-iron.md / Baja/San Benito Island companion re-cut added squid-depth pattern (30-40fm), dropper-loop 100lb-min line-class parameter,  |
+| t-gIME7sV2A | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama trip; series pt1 |
+| 2OANMH22qzE | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Panama/Hannibal Bank; series pt2 |
+| IH4y6GM6BIY | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island (Revillagigedo Mexico), not Baja peninsula; series pt1 |
+| aecs-mFrCdM | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island; series pt2 |
+| HpPFogLwKOw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island; series pt3 |
+| kWT_0Qp8wkw | StokedOnFishing | out-of-region | skip:out-of-region | skipped | Clarion Island; series pt4 |
+| 8THSuqoPI_Q | StokedOnFishing | on-the-water | observations-only | done | conditions/kelp-paddies.md; species/bluefin-tuna.md; species/dorado.md; species/yellowtail.md / added 4 Observed blocks (small-paddy attitude, bluefin drift depth/hook-position, dorado hook-position c |
+| -bw1KDfDjv4 | StokedOnFishing | on-the-water | parameter-skim | done | conditions/kelp-paddies.md; planning/electronics-and-sounder.md; planning/fleet-intelligence.md; techniques/flyline.md / 14 Mile Bank paddy re-work tactic, SST bank-vs-off-bank reading, radar fleet-sc |
+| IwxqgocsQTY | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/yellowtail.md; techniques/sliding-sinker.md; techniques/surface-iron.md / on-the-water observations across 2 species routers + 2 technique notes (bluefin depth/rig/gra |
+| 97clKtVsEOs | StokedOnFishing | on-the-water | parameter-skim | done | planning/electronics-and-sounder.md; species/yellowtail.md; techniques/trolling.md / anchor-vs-drift sounder-read doctrine, Alijos Rocks wahoo bomb-lure hookup-ratio and no-pump fighting-technique det |
+| ilINTeknKB4 | StokedOnFishing | on-the-water | observations-only | done | species/bluefin-tuna.md; species/rockfish-lingcod.md; species/yellowfin-tuna.md; species/yellowtail.md; techniques/sliding-sinker.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / observation |
+| _PGm-TlFU2A | StokedOnFishing | on-the-water | parameter-skim | done | tackle/hooks.md; techniques/flyline.md / thick-shank hook doctrine (30lb leader/65lb Spectra, no-shock-absorption failure mode) added to hooks.md; flyline Observed block (No.4-2 hooks, 25-30lb fluoro, |
+| ZghZCFL6OZk | StokedOnFishing | on-the-water | skip:out-of-region | skipped | series: Stoked on Costa Rica part 3; Costa Rica out of region |
+| HueC1KHrcVw | StokedOnFishing | on-the-water | parameter-skim | done | bait/bait-tanks.md; species/bluefin-tuna.md; species/yellowtail.md / bait-loading visual tell, 70-72F bluefin preference, 20lb straight yellowtail rig, wahoo incidental catches; fixed timing-polarity  |
+| i3qIAHW-SJc | StokedOnFishing | on-the-water | parameter-skim | done | conditions/water-temperature.md; rigging/essential-knots.md; rigging/rubber-band-deep-rig.md / mono-to-fluoro knot tie, tag-end sinker attachment, bank-to-bank SST/bite Observed note; fixed sinker-mec |
+| A6DJoXbID4c | StokedOnFishing | on-the-water | deep | done | bait/making-bait.md; conditions/bird-reading.md; conditions/kelp-paddies.md; lures/tuna-poppers-and-stickbaits.md; techniques/foamer-casting.md / deep extraction: bird-reading, 100yd-off-paddy positio |
+| zQtExV8Z2eY | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/sliding-sinker.md; techniques/flyline.md / SCI Thunderbird trip: 30lb mono/4ft 30lb fluoro topshot, 1/4oz slider+#2 hook+squid vs flylined sardine, 122-fish/9:30am an |
+| MUpvP-Yl2R0 | StokedOnFishing | on-the-water | observations-only | done | planning/electronics-and-sounder.md; species/california-halibut.md; species/yellowtail.md; techniques/sliding-sinker.md / buoy/wind-wave overlay, AIS/structure-scan naming, bird-radar demo, Catalina y |
+| AIHvJj-paoo | StokedOnFishing | on-the-water | parameter-skim | done | bait/fishing-live-bait.md; species/yellowfin-tuna.md / trip-tips (line downsize, private-boat chum-together/give-space etiquette); fixed invented leader/topshot pairing during review |
+| NEuoCgxjrhM | StokedOnFishing | promo | skip:promo | skipped | pure Komodo 450 reel product demo/highlight reel, no doctrine, 1:56 short |
+| mG8ZZLFGlT8 | StokedOnFishing | on-the-water | observations-only | done | species/dorado.md; species/striped-marlin.md; species/yellowfin-tuna.md; tackle/hooks.md; techniques/trolling.md / East Cape Fiesta trip observations (dorado/wahoo/yellowfin/marlin catches, rooster-fi |
+| oadK6zIYyCo | StokedOnFishing | on-the-water | observations-only | done | species/barracuda.md; species/calico-bass.md; species/sheephead.md; species/yellowtail.md; techniques/surface-iron.md / calico squid-vs-sardine, sheephead nickname, yellowtail-on-squid, barracuda sink |
+| 3tQ1_xiqwVU | StokedOnFishing | on-the-water | parameter-skim | done | techniques/yo-yo-iron.md; techniques/kite-fishing.md / added two hedged Observed blocks (180ft/10ft-off-bottom yo-yo yellowtail near Mag Bay ridge; stated kite/balloon/flyline 50lb plan for 60-90lb+ y |
+| XJaLubOVfvs | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Baja Mag Bay long-range trip intro; mostly boat/crew/food, thin fishing detail; cf. 3tQ1_xiqwVU |
+| o1mJ5H8Np-s | StokedOnFishing | on-the-water | skip:thin-generic | skipped | pure catch montage (San Pablo yellowtail), no conditions/technique detail |
+| 5LI0vPzlCUE | StokedOnFishing | on-the-water | skip:thin-generic | skipped | Alijos Rocks (far offshore Baja, edge-of-scope); pure catch montage, no doctrine |
+| 0HILDC0ITLE | StokedOnFishing | on-the-water | skip:thin-generic | skipped | SoCal albacore catch footage; only generic line-in-front-of-you safety tip |
+| 2TE46Hqoq5s | StokedOnFishing | promo | skip:promo | skipped | Intrepid boat/crew/food comfort testimonial ad; negligible actual fishing footage |
+| ns992VlKpMc | StokedOnFishing | on-the-water | skip:thin-generic | skipped | near-silent Top Gun 80 yellowtail catch montage, almost no dialogue |
+| RgtkbmBFUXI | StokedOnFishing | on-the-water | parameter-skim | done | species/yellowtail.md; techniques/dropper-loop.md / Guadalupe Island 100 lb dropper-loop leader + 120-250ft drift + ~8-of-10 rock-cutoff loss rate added as Observed data points (medium confidence, unr |
+| 2K4urpo3q6Q | StokedOnFishing | on-the-water | observations-only | done | none / no extractable fishing knowledge — incidental unlocated great white shark sighting, empty patch confirmed correct |
+| w37pHf0xjrw | StokedOnFishing | on-the-water | parameter-skim | done | techniques/sliding-sinker.md / Merged albacore torpedo-sinker/slider Observed block (2oz torpedo+No.3 hook drop-back vs. smallest-slider+size-2-hook chum-drift, straight anchovy) into existing sliding |
+| Bab_6o7JFh4 | Crust to Coast | seminar | parameter-skim | done | conditions/current-structure.md; conditions/deep-scattering-layer.md / mechanism vocabulary (continental margin bathymetry + light zones) merged into two existing conditions notes, parameter-skim dept |
+| GIlM8fTmL5M | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: navigation history and bathymetric mapping techniques, no waves/tides/currents mechanism |
+| d7IPkfjMZu8 | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: solar system/earth origin, mantle layers, isostasy, seismology; deep-time geology |
+| SVLqaSa1bxU | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: continental drift, mantle convection, seamounts/hotspots; rock/plate-tectonics geology |
+| 6pAmcsTtYGA | Crust to Coast | seminar | parameter-skim | done | conditions/deep-scattering-layer.md; conditions/water-temperature.md / merged salinity-vs-latitude/depth and oxygen-minimum-layer/hypoxia mechanism into two existing conditions notes as background-mec |
+| i4OB4G6_adI | Crust to Coast | seminar | parameter-skim | done | conditions/water-color.md; conditions/water-temperature.md; planning/electronics-and-sounder.md / mechanism background (thermocline/pycnocline/mixed-layer depth structure, SOFAR/deep sound channel, li |
+| OZejCm0ItEE | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: lithogenous/biogenous sediment classification, core sampling, paleoceanography |
+| 32TQdFJKIlI | Crust to Coast | seminar | parameter-skim | done | conditions/upwelling-and-turnover.md / Ekman transport (SoCal alongshore-wind upwelling/downwelling mechanism) and ENSO/PDO basin-scale productivity modulation merged into existing conditions note as  |
+| OEsW9K1IwpQ | Crust to Coast | seminar | parameter-skim | done | conditions/water-temperature.md / Heat budget (30/23/47% split), albedo table, equator-surplus/poles-deficit + thermohaline redistribution merged as mechanism-only section; triage-promised Coriolis/wi |
+| dS0YUOyqN6g | Crust to Coast | seminar | parameter-skim | done | conditions/sea-state.md / Coriolis effect + Hadley/Ferrel/polar convection cells + doldrums/trade winds/polar easterlies background section added; unsupported westerlies claim dropped during evaluatio |
+| RuNH5O9olfw | Crust to Coast | seminar | parameter-skim | done | conditions/current-structure.md / added surf-zone anatomy (bar/trough/surf zone/foreshore/backshore/swash/berm), seasonal beach-profile cycle, and longshore-current/rip-current mechanism as background |
+| 9tTM99InluM | Crust to Coast | seminar | parameter-skim | done | conditions/tide-and-slack.md / mechanism-background section added (gravity/spring-neap/50-min lunar offset/mixed semi-diurnal), correctly labeled non-doctrine, no doctrine touched |
+| rK1sWd84S04 | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: sea ice/glacial ice formation, cryosphere, brine rejection; no CA/Baja relevance |
+| tKqZJZMLbq4 | Crust to Coast | seminar | parameter-skim | done | conditions/deep-scattering-layer.md / Zooplankton (copepods/krill/jellyfish) and nekton swimming-mode/bioluminescence mechanism added as generic background section; two faithfulness overreaches trimme |
+| eg8IUjeWZx8 | Crust to Coast | seminar | parameter-skim | done | conditions/current-structure.md / added generic benthic-biomass (98%/2% species, coastal/polar concentration) sunlight+nutrients mechanism to existing upwelling section, no new claims beyond mechanism |
+| zvU45nkhhuE | Crust to Coast | seminar | parameter-skim | done | conditions/upwelling-and-turnover.md / amended existing note with a labeled Crust to Coast mechanism section (primary productivity light/nutrients drivers + chemosynthesis), no new notes |
+| gT5g8Rhtpyg | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: life taxonomy/domains/kingdoms classification lecture, no conditions mechanism |
+| 7jPK4aOctQo | Crust to Coast | non-fishing | skip:thin-generic | skipped | adjacent background: marine pollution types/sources, environmental-science survey |
+| YGKgQp5HTLM | JoeWo | non-fishing | skip:not-fishing | skipped | JoeWo Warzone gaming aiming-guide video; unrelated to fishing (stray) |
+| mwrFx2DdmO0 | Kevin Is Cooking | non-fishing | skip:no-usable-content | skipped | Kevin Is Cooking tacos al pastor; transcript is 3 useless lines, no content (stray) |
+| 55IthpZZx9k | Okuma Fishing Tackle USA | promo | skip:promo | skipped | Okuma booth ad: Dave Hansen pitches Makaira 130 + PCH bent-butt rod for SoCal bluefin/swordfish; feeds dave-hansen registry |
+<!-- batch2:worklist:end -->
+
+## Batch 2 — Gate B prep pass (2026-08-15)
+
+Run-complete state was 264 done / 6 escalated. A review pass before merge
+fixed one pipeline defect and recovered the extractions it had bounced.
+
+**Defect fixed (commit `7f741ff`).** `sources/source-registry.md` is a trust
+table that notes legitimately link to ("<voice> is a registered voice").
+`link-maintenance.py` regenerated a backlinks block inside it whenever such a
+link appeared, which made the extraction commit touch a guard-protected path,
+so the mechanical guard reverted the whole commit. Two of the pipeline's own
+mechanisms were fighting; the extractor behaved correctly throughout. Fix: a
+narrow `NO_BACKLINKS` set — the registry is still validated and indexed like
+any note, it just never receives a generated backlinks block. The stale block
+was removed from the registry, along with a phantom circular backlink it had
+created into `fish-care/gaffing.md`.
+
+**Recovered (3 videos, cherry-picked from the reverted commits):**
+
+| video_id | original commit | recovered in | content |
+| --- | --- | --- | --- |
+| EmZO8QiOfik | 0d33e3c | 02ba68f | `species/cabrilla.md` + `lures/jerkbaits.md` (both new) + Sea-of-Cortez amendments across 7 notes |
+| _ZThckj2TIM | 0716a9d | 3ff380b | Capt. Scotty weak-link dropper-loop doctrine across 5 notes |
+| ftEvyfwjZFU | ed1860a | ab61aed | Hansen San Diego jam / bluefin tackle across 5 notes |
+
+Conflicts against later videos' amendments were resolved as **unions, never as
+a winner**: front-matter `tags`/`sources` merged, prose bullets kept from both
+sides, generated backlink blocks left for `link-maintenance.py`. Each recovered
+worklist row records its provenance inline.
+
+**Still escalated — deliberately not auto-recovered (3 videos).** These are the
+guard catches that need human judgment rather than a mechanical fix; each one's
+full attempted diff is preserved in git history:
+
+| video_id | commit | why it was reverted | the judgment call |
+| --- | --- | --- | --- |
+| unARAuTgF_A | 917703f | deleted 38 lines from `rigging/assist-hooks.md` | the extraction restructured a note built by this video's part 1 rather than appending; decide whether the consolidation is an improvement or drops attributed detail (the ASR-uncertain 215/300 lb cord weights and the sponsored-product caveat) |
+| 3qSY328fFYo | bd4968b | deleted 21 lines from `techniques/bait-and-switch.md` | same shape: verify nothing attributed was smoothed away before restoring |
+| elBPRrdkugU | 848d803 | wrote to `profiles/cameron/rods.md` | correct veto — general notes never write into a user profile; the gear content should be re-homed to `tackle/` in class terms, or dropped |
+
+End state: **267 done / 148 skipped / 3 escalated** of 418 worklist rows.

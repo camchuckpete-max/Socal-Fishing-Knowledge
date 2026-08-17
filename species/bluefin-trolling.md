@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM]
 confidence: high
 ---
 
@@ -101,6 +101,90 @@ stay over fish), and the calm-day school-grade spread does the rest.
     setups plus sometimes the Trinidad 40; the TLD 20 is entering rotation for
     **diver duty (Halcos, Husky Magnums) plus skirt/cedar-plug work on
     school-grade days**; never plans to troll the Lexa 400.
+- **Doctrine (high — Capt. Dave Hansen, Your Saltwater Guide, `2y0VznL2qk8`,
+  2020-12-29; presenter not named on camera, inferred from channel/crew
+  continuity):** a second, flyer-specific wind rule for the kite spread
+  itself — **troll a rubber flyer ("Yummy Flyer") at ~8.5 kt in ~8 kt of wind
+  or more** to cover water and locate schools (a trolled bait converts a bite
+  to a hookup at a better ratio than sitting dead-boat); **under ~8 kt, with
+  fish already spotted or marked heavy on the sounder, go dead-boat with a
+  dead flyer under the kite or a balloon** instead, dapped on the surface and
+  hooked up by driving the boat gently forward (~4–5 kt) into the strike.
+  Full mechanics in
+  [kite fishing](../techniques/kite-fishing.md#trolled-rubber-flyer-vs-dead-boat-dead-flyer-a-wind-driven-choice).
+  **Not reconciled with the Mad Mac speed-troll row above:** different lure
+  (rubber flyer vs. Mad Mac), different speed (8.5 kt vs. 13–15 kt), and the
+  same ~8 kt wind mark runs in the opposite direction (here it triggers
+  trolling *under the kite*; the Mad Mac row's ~8 kt triggers speed-trolling
+  *once the kite won't fly*) — kept side by side as a second framework, not a
+  correction.
+- **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
+  `e73wPONTOJU`; unregistered channel — medium confidence): on a morning the
+  crew called "not happening" for bluefin, the boat threw a full spread —
+  a trolled lure heard on camera as "Mad Max" (asr-uncertain, plausibly
+  [Mad Mac](../lures/mad-mac.md)) and a spreader bar (brand heard as "Cal
+  lures" — asr-uncertain, not resolved), plus jigs and bait — and came up
+  without a bluefin bite. The crew's own framing was that they stuck with
+  the spreader bar and Mad-Mac-class lure specifically **"because that's been
+  the thing"** that season, i.e. the season's known producers, not a random
+  choice, then re-targeted dorado/yellowtail instead of continuing on
+  bluefin. A blanked-morning data point — not a contradiction of the
+  spreader-bar/Mad-Mac doctrine above, just an off morning on the lures the
+  crew judged the season's best bet.
+- **Observed** (StokedOnFishing, 2022-12-14 upload, ~55 mi offshore SoCal,
+  exact bank not named on camera — `xzIaUEDklrE`; unregistered channel —
+  medium confidence; same channel and bluefin season as the `e73wPONTOJU`
+  entry above, different trip/crew): live captain narration (voice heard as
+  "Andrew," presenter-inferred) walked through an **in-season switch from
+  Mad Mac to spreader bar** made specifically to select for grade, not
+  because the Mad Mac had stopped working generally — "big [fish] one week
+  before, it was Mad Max every week," then over "this last week" and "the
+  last few days" the boat had been "getting only big ones on the spreader
+  bars" while schools that day were running mixed, **"40 to 100 plus"** lb,
+  so the crew swapped over specifically **"to target the bigger ones"** with
+  the bar. The kite was also ruled out that day for lack of wind ("we want to
+  get the kite up but there's like no wind right now, so it's gonna be really
+  hard to position that up — so spreader bars"), consistent with the
+  wind-driven kite-vs-troll call above. **Flagged conflict, not reconciled:**
+  this crew's read — spreader bar pulling the *bigger* fish out of a mixed
+  school, Mad Mac the more general/smaller producer — runs opposite to the
+  **presentation-size axis** above (small forage → bar/small presentation,
+  large forage → Mad Mac/large presentation). No forage size is given here to
+  explain the reversal; kept side by side as a distinct, attributed grade-selection
+  claim about the same two lures, not folded into the presentation-size rule.
+  Separately, this crew ran their **center/farthest-back Mad Mac much further
+  back than the documented setback** — see [Mad Mac](../lures/mad-mac.md) —
+  specifically to give a **boat-shy school** room, another attributed
+  variance kept beside, not merged into, that lure note's setback spec.
+- **Observed** (StokedOnFishing, August trip (year not stated on camera),
+  2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
+  "Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
+  the Eldorado; unregistered channel — medium confidence): after a slow
+  stretch — a marked school of bluefin passed directly under the boat
+  without eating a thrown scoop of bait — the crew ran **four trolled
+  lines**, with more rods ready to deploy if they got another troll bite,
+  and picked up multiple smaller-grade bluefin on the troll, including a **double
+  hookup**. One lure on the spread was nicknamed **"old pinky"** on camera
+  (color/model not otherwise resolved). Framed by the crew as an unexpected
+  producer that day ("who would have thought trolling's paying off") — a
+  data point on trolling converting direct bites on a quiet day, not only
+  serving as a locate-and-cover tool; see [bluefin tuna](bluefin-tuna.md)
+  for the same trip's contrasting night-jig grade.
+- **Observed — the search-then-kite sequence, stated as a program**
+  (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, trip resolved to
+  **late October 2021**, Tanner Bank, SoCal, aboard Captain Andrew's own
+  boat, Stoked On Fishing Charters; unregistered channel — medium
+  confidence): the captain's own framing of when to troll vs. kite that
+  day — **run the spreader bars to cover ground while searching**, then once
+  the sounder is marking good numbers of fish, **stop trolling and set a
+  dead flying fish under the kite to fish the drift** over the marks.
+  Trolling functions as the locate step, kiting as the close-and-convert
+  step — matching this note's "reach for trolling when you need to cover a
+  search box" / kite-once-concentrated framing above. The captain added that
+  the spreader bars can still draw strikes from big fish while trolling to
+  search, but stated a personal preference for the kite/balloon method once
+  fish are found — an attributed preference, not a claim that trolling
+  under-performs the kite on hookup rate.
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental

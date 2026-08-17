@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0]
 confidence: high
 ---
 
@@ -82,9 +82,83 @@ conditions that put one there.** (General search method:
 | Artificial / covering water, short drifts | **[Drop-shot](../techniques/drop-shot.md)** a plastic near the bottom | Bay-bass / light bottom class | Keeps the bait right in the strike zone on the edge; pick apart bubbler zones and rockpiles instead of long straight drifts |
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 
+- **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
+  `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
+  on a bass [swimbait](../techniques/swimbaits.md), Baja/Cedros Island
+  region — a **5½ in "Reeb's" purple soft-plastic swimbait** (captions
+  render "reefs" — ASR-uncertain, presumed the "Reeb's" brand named
+  on-camera earlier in the video, owner Mike Reeba) cast out, allowed to
+  **sink, given two pumps**, then hit — a **41 lb halibut**, called the
+  angler's personal best, reported as beating a prior personal best of
+  **27 lb** from the same spot (relative-time phrasing on camera, resolved
+  against the 2015-01-18 upload date; exact prior-catch date not stated on
+  camera — asr-uncertain). This is a **calico-bass-oriented swimbait
+  retrieve producing halibut incidentally**, not the sand/structure drift
+  program above — kept side by side, not reconciled, and labeled
+  Baja/Cedros region rather than SoCal. Unregistered channel, single
+  mention — medium confidence.
+- **Observed** (StokedOnFishing, 2012-08-10, Cedros Island, Baja —
+  `xIUKmH9ccgQ`, "Cedros Outdoor Adventures"): a second, earlier-dated
+  incidental halibut catch from a Cedros Outdoor Adventures charter — a
+  "giant flatty" (common SoCal/Baja slang for halibut) called a big, heavy
+  fish on camera and boated by gaff. No weight, depth, technique, or bait
+  detail given beyond the gaff shot. Kept rather than released; predates,
+  so not in conflict with, the 2023-10-16-reported Cedros catch-and-release
+  agreement above (which in any case covers calico, grouper, and black
+  seabass, not halibut). Unregistered channel, reaction-footage-only —
+  medium confidence.
+- **Observed** (StokedOnFishing, 2023-05-17 upload, Cedros Island, Baja —
+  `9tIp4n7q850`, "Could Not Believe the Halibut Fishing in Cedros This
+  Year"; same Cedros Outdoor Adventures / Jose charter as the `xIUKmH9ccgQ`
+  entry above; unregistered channel — medium confidence): a wide-open
+  halibut run at a single spot named only as "this spot" on camera produced
+  repeated halibut back to back, including a double hookup and one angler's
+  first-ever halibut, plus a fish called "a good 25" (unit not stated on
+  camera, presumed lb). The video's own framing, and one angler's on-camera
+  recollection of catching his first halibut "right here, this spot"
+  roughly four years earlier (relative-time phrasing resolved against the
+  2023-05-17 upload date to approximately **2019** — exact date not given,
+  asr-uncertain), both mark this as an exceptional halibut year at this
+  spot. No bait, rig, or depth detail was captured beyond the fish coming
+  up off **the bottom**. One good fish hooked during the same session was
+  lost boatside after running toward the boat's motor — the crew's
+  in-the-moment steering calls ("go to your left," "get out here") didn't
+  keep it clear, and the line parted, called a "heartbreaker" on camera;
+  species on that lost fish is unconfirmed (a speculative, unconfirmed
+  on-camera guess floated a sea lion taking it instead). A dorado hooked
+  during this same bottom-fishing stretch is logged as an atypical catch in
+  [dorado](dorado.md).
+- **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
+  `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; same
+  Cedros Outdoor Adventures / Jose charter as the `9tIp4n7q850` entry
+  above, explicitly picking the story up "from last week" — a continuation
+  of that trip/coverage; unregistered channel — medium confidence): a
+  further "ridiculous wide open halibut fight" produced multiple halibut
+  landed back to back, including one called "huge" on camera and another
+  referred to only as possibly "a big elephant" (ASR-uncertain, presumed
+  local slang for a big flatfish — not confidently carried as a term). No
+  weights, depths, bait, or rig detail were captured beyond the fish coming
+  up boatside. Consistent with, not a new data point beyond, the
+  exceptional-halibut-year pattern already logged for this operator/spot
+  above. The same trip's giant yellowtail catches are logged in
+  [yellowtail](yellowtail.md).
+- **Observed** (StokedOnFishing, 2016-11-23 upload, front side of Catalina
+  Island, SoCal — `MUpvP-Yl2R0`, "Catalina Island Fishing," sponsor-heavy
+  Navico/Simrad electronics demo episode; unregistered channel — medium
+  confidence): at an anchored, chummed live-squid yellowtail/calico stop (see
+  [yellowtail](yellowtail.md#where--when) for the full session), two
+  California halibut were also caught. One was called "too small... a little
+  short" on camera and released. The other was measured boatside against a
+  crew member's stated **22 in legal minimum** and came in at **24 1/4 in**,
+  kept as legal. The 22 in figure is a regulatory claim — California/CDFW
+  minimum size for California halibut, as stated on camera 2016-11-23; verify
+  the current CDFW regulation before fishing, sizes and rules can change.
+
 **Fighting them:** one long bolting run, then a **high rod tip and a straight,
 light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the head
-breaking the surface is when they go zero-to-100 and throw the hook.
+breaking the surface is when they go zero-to-100 and throw the hook. For the
+gaff shot itself — hook size (a **3-in hook on a ~6-ft gaff** covers halibut up
+to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.md).
 
 ## Gear summary (class terms)
 
@@ -115,19 +189,24 @@ breaking the surface is when they go zero-to-100 and throw the hook.
 
 - [April](../seasonal/april.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
+- [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Island Structure](../locations/island-structure.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](white-seabass.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

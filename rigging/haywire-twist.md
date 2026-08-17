@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po]
+sources: [lm7D9Tlc7Po, ll7r4A6atno]
 confidence: medium
 ---
 
@@ -20,6 +20,13 @@ it is the correct method specifically for single-strand wire.
   otherwise heavier mono is preferred for its lower visibility and handling.
 - Single-strand wire gets the haywire twist; braided/cable-type wire is crimped
   instead.
+- **Observed** (Your Saltwater Guide / Dave Hansen, 2021-01-19, Cabo San
+  Lucas, Baja): rigging small trolled hoochies for **sierra** ("razor blade
+  teeth," "like little baby wahoos"), single-strand wire is the stated
+  preference, with braided wire used as the fallback when single-strand
+  wasn't available locally — consistent with the single-strand/haywire vs.
+  braided/crimp split above. See
+  [Cabo surf-line sierra trolling](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-trolling-for-sierra).
 
 ## Parameters & judgment
 
@@ -56,4 +63,5 @@ Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
 ## Linked from
 
 - [California Barracuda](../species/barracuda.md)
+- [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4]
+tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo]
 confidence: medium
 ---
 
@@ -44,19 +44,209 @@ On a butt/belly hook, hold the **two rear fins together and go right under the
 "carnage"** if you set the hook too deep — that keeps a clean, swimming bait
 (8YvmROeVL-0).
 
+**Observed** (StokedOnFishing, trip fished summer 2017 (exact month not
+stated, per on-camera "this past summer"), San Clemente Island, SoCal —
+`Q-gQuOegAx4`, "Stoked on the El Dorado 2 Day," 2-day charter aboard the
+85 ft El Dorado, Long Beach Sportfishing; unregistered channel — medium
+confidence): fishing a chum line for yellowtail on the inside of the
+island, the crew called switching bait hook position "the key" once seals
+(as stated on camera — "the seals won't come up and try to bu[y] them as
+much"; the row above's doctrine is written for sea lions, the more
+commonly cited SCI bait-thief, so this is recorded as its own pinniped
+rather than folded into that wording) started following the boat —
+hooking so the bait swam down and away from the boat, rather than staying
+up near the surface, kept the seals from grabbing it as much. Captions
+render the position as "button hook" (ASR-uncertain on the exact term),
+but the described mechanism — bait swims down and away, defeats
+pinnipeds picking off baits at the islands — matches the butt hook row
+above exactly, so this reads as a further data point for that doctrine
+rather than a distinct technique.
+
+**Sardine-specific mechanics and trade-off (Capt. Dave Hansen, Your Saltwater
+Guide, ZggReeO1nyU, 2022-01-07; dave-hansen is a registered voice — his
+hook-placement doctrine already sits at `high` confidence per the source
+registry, and this corroborates the circle/J and sizing doctrine already
+logged in [hooks](../tackle/hooks.md) from m2q22sPPkEM):** on a sardine
+specifically, the nose hook goes **side to side through the clear spot right
+at the tip of the nose** — not chin-to-top or top-to-chin — and it's "the
+only way" to nose-hook one. The butt hook (side to side through the body,
+just above the anal vent) is the technical option for anglers who
+specifically want the bait to swim down: hooked there, a sardine has a
+tendency to **swim in the direction opposite the pull** — typically down and
+away from the boat — which is the actual mechanism behind the "swims away"
+behavior in the table above. **Trade-off:** the butt hook draws blood, so
+that bait doesn't last as long as a nose-hooked one.
+
+### Anchovy: nose (weighted) vs. gill hook by rig
+
+Capt. Dave Hansen, Your Saltwater Guide (ZggReeO1nyU, 2022-01-07); registered
+voice, `high` confidence per the source registry's note that his
+hook-placement doctrine already repeats across the BD ids. Anchovies split
+from the sardine/mackerel nose-hook default depending on whether the rig
+carries weight:
+
+- **Any weighted rig** (a [sliding sinker](../techniques/sliding-sinker.md),
+  a [dropper loop](../techniques/dropper-loop.md), or simply a swivel added
+  to the line): nose-hook side to side through the small **white spot of
+  cartilage at the very tip of the nose**. That cartilage is there
+  specifically to take the hook without hurting the bait — an anchovy
+  nose-hooked there lives well and swims naturally as the weight pulls it up
+  or down through the column.
+- **Gill / collar hook — "the strategic way":** sized to a **No. 2 or No. 4
+  hook** in practice (the demo in this video uses an oversized 2/0 purely so
+  the hook shows up on camera, not as the actual size recommendation — see
+  the No. 4 thin-wire anchovy sizing already in
+  [hooks](../tackle/hooks.md)). Enter and exit right where the small fin
+  near the gill/collar sits, barely passing the hook through — don't come
+  out the top of the bait. **Diagnostic: if it bleeds, the hook went too deep** — a
+  clean gill hook draws no blood and leaves the bait swimming strong.
+  - **Why gill-hook an anchovy at all:** two reasons. (1) Anchovies are a
+    genuinely hard bait to cast, and the collar-hook orientation adds a
+    little resistance/friction on the cast that helps punch it out against
+    wind. (2) The hook then tends to lie flush alongside the bait's body as
+    it swims rather than sticking out, so it's less visible to the fish.
+
+### Mackerel: butt hook (no weight) vs. nose hook (any weight) vs. back/dorsal hook (kite only)
+
+Your Saltwater Guide (`w5_x6kkN-xE`, 2021-04-06; presenter not named on camera,
+inferred as Capt. Dave Hansen from channel/crew-name continuity with his other
+logged videos — inferred attribution). dave-hansen is a registered voice and
+this corroborates his sardine/anchovy hook-placement doctrine above, so it
+reaches `high` confidence. **Region:** SoCal (San Clemente Island, Catalina,
+Coronado Islands), targeting yellowtail; the same rig also takes bluefin and
+yellowfin tuna on the foamers, and white seabass.
+
+Stated as a hard rule: only two positions get used on mackerel day to day —
+explicitly **not** the collar/gill hook used on anchovy above, and not the
+back hook except on the kite:
+
+- **Butt hook** — through the meat back near, but not through, the vent
+  (exact placement asr-uncertain — the audio garbles the anal-gland
+  reference, but the position is confirmed repeatedly elsewhere as "hooked
+  in the tail"/"hooked in the butt") — for **flylining with zero weight
+  only**. Mechanism given: pulling on a
+  butt-hooked bait doesn't register to the bait as an angler pulling it — it
+  reads as something biting its tail, so the bait bolts the opposite way,
+  down and away from the pull. Applied cast: throw the bait to the edge of a
+  visible school or foamer, then give the tail a jerk on the water — the
+  bait swims away from the jerk and straight toward the fish.
+- **Nose hook** — through the clear cartilage spot in front of the eyes —
+  becomes **mandatory the moment any weight is added** (dropper loop,
+  sliding sinker, rubber-core sinker). Reasoning: a butt-hooked bait under a
+  sinker gets dragged backward as the weight pulls it down, and a mackerel
+  swimming backward doesn't read as a natural, feeding-fish silhouette;
+  nose-hooked, the bait still kicks and swims head-first as it sinks.
+- **Back / dorsal hook** — right in front of the dorsal fin, a hard spot
+  that holds the hook well — reserved for a **live mackerel fished off a
+  kite** for big bluefin (also drew yellowtail and calico bass on the kite
+  per this source). Hooked here the bait sits flat on the surface and
+  flutters/"daps" each time it touches down, without the leader dragging
+  through the water where a leader-shy tuna can see it. This is a
+  simpler, live-bait alternative to the pre-rigged dead bait in
+  [flying fish harness](../rigging/flying-fish-harness.md); see
+  [kite fishing](../techniques/kite-fishing.md) for when to fly a bait at
+  all.
+
+**Bait size and species selectivity:** yellowtail have been seen eating
+mackerel up to **1.5 lb**, sometimes in groups of **five or six fish**
+attacking one mackerel at once — described as territorial behavior.
+Fishing live mackerel (rather than the smaller sardine or anchovy) at San
+Clemente Island, Catalina, or the Coronado Islands also **skews the catch
+toward yellowtail specifically**, screening out calico bass, barracuda, and
+bonito bycatch that a smaller bait draws — reach for mackerel when the goal
+is straight yellowtail and those species are unwanted.
+
+### Shoulder hook and a bone-anchored butt hook, for a finicky tensioned bite (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, but this specific mechanism is a single mention; his other logged videos are still pending extraction, so it isn't yet repeated doctrine)
+
+When fishing a finicky bite with any tension on the line (rolling the reel to
+keep a bait swimming), a **nose hook drags the bait's head back toward the
+boat** — exactly the wrong direction. Two positions solve this:
+
+- **Shoulder hook** (bait swims out more on the surface, may swim down a
+  little): cradle the bait in the tank, thumb and index finger gently over its
+  eyes to calm it, and run the hook through at roughly **where your thumb's
+  knuckle sits, about an eighth of an inch down** from there.
+- **Butt hook, anchored on the bone behind the fin** (sends the bait down and
+  away — reach for this when fish are holding in deeper water): don't just
+  hook sideways across the belly fin — that pulls out easily. Instead, cradle
+  the bait from the top with its head in the heel of your hand and your thumb
+  and index finger controlling the tail, start the hook from the tail side
+  behind the fin, run it through the body cavity (there's a bone there you'll
+  often feel/hit), and bring it back out the front side of that same fin —
+  hooking **over the top of a bone** that anchors the hook so it won't pull
+  free even on a hard cast. Orient the hook so its **eye faces the tail**: when
+  you roll the reel and pull the bait backward, the fish feels wrong pointed
+  tail-first and swims **down and away** from the boat — harder rolling
+  pressure makes it want to dive and flee faster, the opposite problem a
+  nose-hooked bait has under the same tension. Contrast: a plain sideways hook
+  through the belly, just above that fin, pulls free if it misses the bone —
+  the anchored version behind the fin holds even on a hard cast.
+
+These positions solve the tension problem the nose hook has for
+[flyline](../techniques/flyline.md) fishing specifically; see that note for
+when to reach for each position by water column.
+
 ## Bait selection is king
 
 **Roughly 90% of live-bait success is bait selection** (SluBXkT3cuw):
 
 - Fish the **hardest bait to catch in the tank** — the **lively lime-green** one
   with **scales intact, no red/bloody nose**, that's already swimming strong
-  (SluBXkT3cuw, raUPkuaFXpw).
+  (SluBXkT3cuw, raUPkuaFXpw). **Corroborated (Capt. Dave Hansen, Your
+  Saltwater Guide, 6ueGWJek1gI, 2018-08-16; registered voice, repeated
+  doctrine):** the lime-green-backed bait is the one to pick over a silver
+  one — but that call has to be made **while the bait is still up and
+  swimming**, because bait piled flat in the tank or net all reads as the
+  same silver color from above.
 - Cull the **easy-to-catch, bloody, scaly, lethargic** baits into the **chum
   bucket** or over the side — don't fish them (raUPkuaFXpw, SluBXkT3cuw).
 - **60-second rule:** if a bait isn't **pulling line off the reel** shortly after
   it hits the water — swimming away, not sitting by the boat — **wind it in, flick
   it off, and grab a fresh one.** "We're not marrying these baits, we're speed
   dating" (SluBXkT3cuw, 8YvmROeVL-0).
+- **Related cadence claim (dave-hansen, Your Saltwater Guide, BdRX4b8Fo5w,
+  2021-02-04; registered voice, single mention — medium confidence):** stated
+  flatly as "change your bait every minute," on top of chumming, as one of the
+  two most important things when live-bait fishing — offshore for tuna or
+  inshore for calico bass alike. This is a distinct claim from the 60-second
+  rule above (a fixed cadence vs. swap-only-when-unproductive) and hasn't yet
+  repeated elsewhere in the corpus, so it stands beside the 60-second rule
+  rather than corroborating it. Worked example from his own boat: **six
+  anglers plus the captain (seven people fishing)** go through bait fast
+  enough at a one-a-minute cadence that the boat runs out of bait on many
+  days — the reason for running as big a [bait tank](bait-tanks.md) as the
+  boat will carry.
+- **Further corroboration** (StokedOnFishing, 2015-01-18, San Clemente
+  Island, SoCal — `D_Y2G0rBZCs`, "San Clemente Island Yellowtail," aboard the
+  Thunderbird; unregistered channel — medium confidence): the crew's
+  between-bite advice to a newer angler was the same keep-it-active idea in
+  different words — wind in and cast back out rather than let the bait sit
+  idle, since [yellowtail](../species/yellowtail.md) are moving through and a
+  bait has to stay presented, not parked, to get bit.
+
+## From tank to hook without killing the bait (Capt. Dave Hansen, Your Saltwater Guide, 6ueGWJek1gI, 2018-08-16)
+
+Registered voice. The core rule — don't lift bait out of the water to look
+it over — repeats the "don't pull bait out of the water needlessly" doctrine
+already logged in [bait tanks](bait-tanks.md) from L_FD-UzvEio, so that part
+reaches `high` confidence. The rod-on-the-rail workflow and the
+get-it-back-in-the-water-before-a-bird-takes-it point below are single-mention
+from this video and stand at `medium` on their own until corroborated
+elsewhere.
+
+- **Don't carry the rod to the bait tank.** Lean it on the rail instead —
+  that frees both hands to work the net. There's no need to fish one-handed
+  (holding the rod) while netting bait with the other.
+- **Net the bait, don't hand it.** Leave the net in the water, come up under
+  the bait with it, and carry the bait to the rod still sitting in the net —
+  don't lift it out and hold it by hand to look it over. Holding a bait up
+  out of the water knocks the scales off it and starts killing it before
+  it's even hooked.
+- **Get it back in the water fast once it's hooked.** Don't hook the bait and
+  then hold it up dangling on the line while sorting out the reel — a
+  dangled bait over the rail is exactly what a bird overhead is watching for.
+  Figure out the reel with the bait still in the water, then flick/cast it
+  out rather than horsing it around in the air first.
 
 ## Hook size and style
 
@@ -94,6 +284,67 @@ can raise fish holding 40–50 ft down right up under the boat (lxFNVdDhMy4). Fi
 the **down-drift / down-wind side** — the drift carries your bait away from the
 boat and keeps the wind at your back for the cast.
 
+**Observed — private-boat trip tips for a shared multi-boat chum stop**
+(StokedOnFishing, `AIHvJj-paoo`, 2016-11-29, offshore San Clemente Island near
+Desperation Point, SoCal — sponsor-heavy Okuma reel-demo episode, trip-tips
+segment; unregistered channel — medium confidence): once the sport boats pull
+off a spot, the on-camera advice for a cluster of private boats left on the
+school was to (1) **join forces with the other private boats and chum
+off-and-on together** — with everyone working together it "acts as a party
+boat," and the fish will circle around and stay with the drifting boats
+instead of scattering once the bigger boat's steady chum line stops; and (2)
+**give neighboring boats some space** — these tuna take big runs, and fishing
+too close risks sawing another boat's hooked fish off on your own line. Both
+are private-boat etiquette/tactics for a shared bite, alongside the
+chum-raises-the-school mechanism above (lxFNVdDhMy4).
+
+**Observed** (StokedOnFishing, trip framed on camera as "this past June"
+(resolved from the 2024-04-26 upload date to **June 2023**), backside San
+Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
+ElDorado," 85 ft El Dorado; unregistered channel — medium confidence): at a
+kelp paddy holding [dorado](../species/dorado.md), live bait chummed from the
+tank was credited on camera with drawing fish from the **bow up to the
+corner** of the boat where anglers were positioned to fish — a visible
+bow-to-stern pull consistent with the up-and-into-casting-range mechanism
+above, this time at a kelp paddy rather than a yellowfin/skipjack chum stop.
+The paddy fish were also working **under birds** sitting on it — see
+[bird reading](../conditions/bird-reading.md).
+
+**Observed** (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal —
+`Klfb433I3Uk`, "A Day of San Clemente Island Yellowtail Fishing"; unregistered
+channel — medium confidence): a **seal-avoidance variant** on chumming with
+dead (not live) bait — distinct from the raise-the-school mechanism above. At
+the islands, throwing whole dead sardines overboard draws seals in
+immediately, so the crew's workaround was a dedicated **"chum buddy"** (chum
+bucket) device: dump the day's dead sardines into it and **smash them up**
+before any of it goes in the water, rather than pitching individual dead
+baits over the side. Broken into smaller pieces this way, the chum still
+"helps create smaller bait fish up and around the boat" without rallying
+seals to the boat the way whole dead bait does. Framed on camera as a good
+practice to start a stop with — get the chum going steadily rather than
+tossing occasional single dead sardines.
+
+## Handling live squid without getting inked (StokedOnFishing, Y2bXn44lfqo)
+
+Catalina Island, 2023-08-30; unregistered channel — medium confidence.
+
+Squid is the staple [white seabass](../species/white-seabass.md) bait; the
+usual complaint is getting inked and squirted netting one out of the tank.
+**Grip the mantle so a finger covers the siphon (the squirter) and the eyes**
+when you lift it from the net to the hook — covering the siphon stops it from
+jetting water or ink, and covering the eyes seems to calm the squid, keeping
+its tentacles from finding your hand (the beak itself sits between the
+tentacles, not near the eyes/siphon grip point). Held this way, squid can go
+straight from net to hook and back in the water with no ink on the boat, the
+gear, or the angler.
+
+**Observed** (StokedOnFishing, 2017-06-09, San Clemente Island — `yuXr3IJ8ybg`,
+sponsor-heavy Okuma gear-demo episode; unregistered channel — medium
+confidence): a second, thinner description of the same problem — gripping a
+live squid firmly enough that it can't wrap around the fingers and peck with
+its beak, and to avoid getting inked while baiting up. Consistent with, not
+adding mechanism beyond, the grip technique above.
+
 ## Bridling big baits
 
 For a large bait (big mackerel for tuna or marlin), a **bridle** — a loop of
@@ -115,12 +366,17 @@ clips above.)
 ## Linked from
 
 - [Bait Tanks](bait-tanks.md)
+- [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Chunking](../techniques/chunking.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Kite Fishing](../techniques/kite-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Making Bait](making-bait.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
