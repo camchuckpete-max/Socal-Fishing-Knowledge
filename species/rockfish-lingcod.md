@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM]
 confidence: high
 ---
 
@@ -70,6 +70,14 @@ the *bottom*, not the fish.
   the rockfish stack; a bigger, lower mark holding right on the rock and picking
   at a bait dropped past it = **lingcod** (they bite from the side and often miss
   the hook — drop back and be patient).
+- **Species read on where the drift puts you (Scotty, Brothers Sportfishing,
+  via Roman Castro, _ZThckj2TIM, 2020-04-04; capt-scotty-brothers registered —
+  high confidence):** reds/vermilion sit **tight to the rock itself** — drop
+  baits right on the structure for them. **Bocaccio ("salmon grouper")** hold
+  in the **sandy areas off the rock**, not on it — a drift that's off the
+  rock, or missing it, produces bocaccio instead of reds. Which species you
+  get is a function of exactly where the drift lays your bait relative to the
+  hard bottom, not just being "in the zone."
 
 ## Situations → techniques
 
@@ -231,6 +239,12 @@ the *bottom*, not the fish.
   explicitly saying he "could be totally wrong" about that reading (lF6jQklDCrY,
   2019-02-06). This is a dated historical data point only, illustrating that
   depth limits move over time; it is not current guidance.
+  CDFW before the trip.
+- **Handling caution:** rockfish dorsal spines carry a **mild venom** — minor,
+  not a serious hazard, but worth being deliberate handling the fish (Scotty,
+  Brothers Sportfishing, _ZThckj2TIM, 2020-04-04; high confidence). Undersized/
+  protected fish need a **weighted release device** to survive the trip back
+  down from depth — see [releasing fish from depth](../techniques/rockfish-deep-dropping.md#releasing-fish-from-depth-descender).
 
 <!-- backlinks:start -->
 ## Linked from

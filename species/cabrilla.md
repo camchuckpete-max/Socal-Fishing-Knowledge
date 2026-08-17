@@ -118,6 +118,7 @@ time the bite goes slow.
 
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

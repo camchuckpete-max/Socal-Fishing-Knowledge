@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM]
 confidence: medium
 ---
 
@@ -389,6 +389,19 @@ fluoro leader, braid main line — and feed the terminal rigs in
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
 
+## San Diego jam knot deliberately weak variant for a weight connection (Scotty)
+
+**Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM, 2020-04-04;
+capt-scotty-brothers registered — high confidence.** Tying the sinker onto a
+[rockfish dropper rig](../techniques/rockfish-deep-dropping.md), the same San
+Diego jam knot gets tied deliberately **weaker** than the hook-knot version
+above: just **3 turns** (versus the 5–6 used at the hook) and **skip
+lubricating it**. The reasoning is the opposite of the usual "always wet your
+knots" rule — this connection is meant to be the sacrificial point: if the
+sinker hangs on the bottom, it's cheaper to break off there than to lose the
+whole rig, so an intentionally weaker, unlubricated knot is the point, not a
+mistake.
+
 ## Tie it
 
 How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0),
@@ -416,6 +429,7 @@ and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

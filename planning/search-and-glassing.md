@@ -1,7 +1,7 @@
 ---
 type: planning
-tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts]
+tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM]
 confidence: high
 ---
 
@@ -83,6 +83,30 @@ Once you've found the water, where you drop the hook depends on what you're afte
   boat to read the true current before you commit. The mechanism is in
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
+- **Too deep to anchor → drift the spot instead (a contrasting attributed
+  practice, Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM,
+  2020-04-04; capt-scotty-brothers registered — high confidence).** On a
+  180–200+ ft [rockfish](../species/rockfish-lingcod.md) spot (35 fathoms/210
+  ft on this trip), he does not anchor at all — the water is too deep to hook
+  — and instead sets up the drift: **read wind vs. current direction** and
+  position the boat up-wind/up-current of the target so the drift carries you
+  onto it (e.g. a south wind pushes the boat north, so start south of the
+  spot). Kept side by side with the "bottom fish → anchor on the spot"
+  doctrine above rather than reconciled — that guidance doesn't state a depth
+  ceiling, and this is the practice once the water is too deep to anchor.
+  - **Read the drift before committing bait:** on arrival, stop the boat and
+    take a mental note of the stopping point, then watch which way and how
+    fast wind/current move it before dropping lines.
+  - **Steer/slow the drift with the motor as a rudder:** with the outboard
+    off the keel line (angled instead of dead straight), the motor acts like
+    a rudder and swings/slows that side of the boat in the drift; dead
+    straight with the keel, the hull's V just cuts through and the boat
+    tracks the drift normally.
+  - **Speed up a slow drift** by shutting the engine off and pulling the
+    motor completely out of the water — less drag lets the boat slide with
+    the wind/current faster.
+  - **Slow down a fast drift** by dropping the motor back in as a rudder
+    and/or deploying a **drift sock/chute**.
 
 ## Ground tackle and the pinpoint drop (Dave Hansen, Your Saltwater Guide, OpA0OqRgj00, 2022-02-08, and HGyL7pXy3Ts, 2019-05-20; registered voice)
 
@@ -204,6 +228,7 @@ current "should" carry everything astern.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
