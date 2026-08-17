@@ -86,6 +86,27 @@ def append_escalation(video_id: str, etype: str, reason: str) -> None:
         fh.write(f"\n## {ts} — {video_id} — {etype}\n- run: {run}\n- reason: {reason}\n")
 
 
+RESULT_MAX = 600
+
+
+def _fit(s: str, limit: int = RESULT_MAX) -> str:
+    """Trim a worklist result cell to `limit`, on a word boundary, marked.
+
+    The old cap was a bare [:200], which cut mid-word and left rows reading as
+    though the pipeline had crashed ("...the only calico-specif"). Truncating
+    visibly means a reader can tell the difference between a short result and
+    a clipped one.
+    """
+    s = s.strip()
+    if len(s) <= limit:
+        return s
+    cut = s[: limit - 1]
+    sp = cut.rfind(" ")
+    if sp > limit * 0.6:  # only back up to a space if it isn't a huge loss
+        cut = cut[:sp]
+    return cut.rstrip(" ,;:-") + "…"
+
+
 def set_row_status(video_id: str, status: str, result: str) -> bool:
     log = ROOT / "sources" / "extraction-log.md"
     text = log.read_text(encoding="utf-8")
@@ -93,7 +114,7 @@ def set_row_status(video_id: str, status: str, result: str) -> bool:
     m = pat.search(text)
     if not m:
         return False
-    clean = result.replace("|", "/").replace("\n", " ")[:200]
+    clean = _fit(result.replace("|", "/").replace("\n", " "))
     new = f"| {video_id} | {m.group(1)}| {m.group(2)}| {m.group(3)}| {status} | {clean} |"
     log.write_text(text[: m.start()] + new + text[m.end():], encoding="utf-8")
     return True

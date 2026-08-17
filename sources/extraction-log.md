@@ -14,10 +14,21 @@ multiple notes). Not "exactly once."
 
 - Manifest rows + transcript files both reconcile to **128** (the kickoff said
   ~129). No missing transcripts.
-- **Not a duplicate:** `vqsD0qpwcJA` ("Slow Pitch Jigging // Yellowtail LA Bay
-  Baja", 2022-04-06) and `Jtf-bU4aM-c` ("Does SLOW PITCH JIGGING work for
-  YELLOWTAIL?!", 2022-06-27) are **distinct** videos (different md5, titles,
-  dates, bodies). Both extracted separately; topic overlaps — not `duplicate-of`.
+- **CORRECTED 2026-08-17 (batch 3, Phase 0) — these ARE one recording.**
+  `vqsD0qpwcJA` ("Slow Pitch Jigging // Yellowtail LA Bay Baja", 2022-04-06)
+  and `Jtf-bU4aM-c` ("Does SLOW PITCH JIGGING work for YELLOWTAIL?!",
+  2022-06-27) are the **same video re-uploaded under a new title**: identical
+  duration (00:05:38), identical opening caption line ("first baja slow pitch
+  yellowtail so much fun so much fun dude"), body trigram similarity **0.989**.
+  The original batch-1 note ("distinct videos — different md5, titles, dates,
+  bodies") was wrong: the md5s differ only because the *headers* differ
+  (video_id, title, URL). Batch 2's dedup sweep found the collision
+  independently (sim 1.000 on caption text, both 338 s) and flagged it for
+  Gate B — see [Batch-1 internal duplicate](#batch-2-dedup--2026-08-13-precedes-triage-findings-only-files-kept)
+  below. Per the re-cut rule they count as **ONE source**: `Jtf-bU4aM-c` is
+  `duplicate-of vqsD0qpwcJA` (the earlier upload is primary). Any doctrine
+  treated as independently confirmed by both is demoted to a single mention;
+  the front-matter cleanup is logged in the Phase 1 close-out below.
 
 ## Known dispositions (seeded step 0; confirmed as steps run)
 
@@ -582,8 +593,70 @@ bullet-header format elsewhere) are normalized at parse time, never edited.
 
 `Qurgc-HtsuA` (yellowtail fillet local-style), `1CQGXwqmURA` (life of a
 calico bass), `JgknlyfTtgE` / `9O0AnMQkEM4` / `gaa3_aBFL5A` (SD-bay + SWBA
-episodes), plus one orphaned Stoked "part 3" whose parts 1–2 failed. If
-captions can be sourced another way, they can land in a later batch.
+episodes). If captions can be sourced another way, they can land in a later
+batch.
+
+**CORRECTED 2026-08-17 (batch 3, Phase 0) — the "orphaned part 3" sentence
+here was inverted, and conflated two different series.** The original read
+"one orphaned Stoked 'part 3' whose parts 1–2 failed." Verified from the
+manifest and the worklist, the two cases are:
+
+- **`CyOsniVmbN8`** ("Top Gun 80 Epic 5 Day, part 3", 2016 series) — a part 3
+  whose **parts 1–2 SUCCEEDED and were extracted** (`HueC1KHrcVw`,
+  `i3qIAHW-SJc`, both `done`/parameter-skim). The trip is 2/3 covered; only
+  the finale is missing.
+- **SWBA Midnight Standoff** — the inverse, and the worse loss: **parts 1–2
+  both failed** (`9O0AnMQkEM4`, `gaa3_aBFL5A`) while part 3 (`2ivn-N0as_A`)
+  landed but was `skip:thin-generic`. **That trip is entirely uncovered.**
+
+Also checked while verifying: **"Top Gun 80 Epic 5 Day" is two different
+3-part series sharing one title** — a 2016-08-08 run (`HueC1KHrcVw`,
+`i3qIAHW-SJc`, `CyOsniVmbN8`) and a 2017-05 run (`Rb5I2ljAqeE`,
+`3T4c3Zez_DM`, `tU4jhAkdzNw`). Body trigram similarity between the
+corresponding parts is **0.035** — genuinely different trips, not duplicates.
+This is the title-collision hazard `batch-2-analysis.md` flagged; no dedup
+action needed, but the pairs must never be merged on title.
+
+#### The remaining failed rows — full accounting (added 2026-08-17, batch 3 Phase 0)
+
+The log's own accounting rule (top of this file) is that **every** manifest
+row appears with at least one destination or a `skipped:` reason. 30 rows have
+`status != ok`; before this pass only 7 were named anywhere in the log. The
+other 23 existed solely as CSV rows. Logged here so the corpus reconciles:
+
+| video_id | channel | title | why it failed |
+| --- | --- | --- | --- |
+| `uEBrJRF4XF0` | Dirty Hookers | (unknown - private) | private / unavailable |
+| `2u8RltOpJvc` | StokedOnFishing | Feeding Bluefin Tuna Inside A Mexican Tuna Farm | no captions published |
+| `MtDq59APQ5E` | StokedOnFishing | A Day in the Life: Fishing Aboard Stoked On Fishing Charters | no captions published |
+| `TeyDZiFYucg` | StokedOnFishing | Spectacular underwater Dorado footage | no captions published |
+| `1nzjUTKaqa0` | Your Saltwater Guide | Rubberband Technique (Live bait Rig) for Bluefin Tuna | no captions published |
+| `HHosp_6UdsI` | Your Saltwater Guide | WIDE OPEN Offshore Fishing BITE \| Dorado | no captions published |
+| `HTFXFQBtJWI` | Your Saltwater Guide | The Pro Tek Offshore Fighting Grip in Action! | no captions published |
+| `WUml1d0tyjY` | Your Saltwater Guide | Lobster Tips from Captain Dave Hansen | no captions published (Polish auto only) |
+| `2RXQrztyKXE` | StokedOnFishing | (no title captured) | private / unavailable |
+| `54ot7AHYsDk` | StokedOnFishing | (no title captured) | private / unavailable |
+| `R2Q5S69zudk` | StokedOnFishing | (no title captured) | private / unavailable |
+| `YLwpDNSE7Pk` | StokedOnFishing | (unavailable) | private / unavailable |
+| `ZTE6a8AJvM0` | StokedOnFishing | (no title captured) | private / unavailable |
+| `_kINfxgG1eA` | StokedOnFishing | (no title captured) | private / unavailable |
+| `hsAXP_KK18Y` | StokedOnFishing | (no title captured) | private / unavailable |
+| `oZRaUkwN0KA` | StokedOnFishing | (unavailable) | private / unavailable |
+| `pgu1bT8Rr5g` | StokedOnFishing | (no title captured) | private / unavailable |
+| `sSjUSbr-hEo` | StokedOnFishing | (no title captured) | private / unavailable |
+| `xBBLXq3BN2Q` | StokedOnFishing | (unavailable) | private / unavailable |
+| `yfysrxXLtF4` | StokedOnFishing | (no title captured) | private / unavailable |
+| `zA5DAGqKe-4` | StokedOnFishing | (unavailable) | private / unavailable |
+| `zoZhRDdFU-8` | StokedOnFishing | (unavailable) | private / unavailable |
+| `knkho_rBWDA` | Your Saltwater Guide | youtube video #knkho_rBWDA | private / unavailable |
+
+**The split that matters for recovery:** "no captions published" means the
+video is public and simply has no caption track — **transcribing the audio
+recovers it**. "Private / unavailable" cannot be recovered at all. Across all
+30 failed rows that is **14 recoverable / 16 permanently lost**. The
+recoverable set is a batch-3 re-transcription target; `1nzjUTKaqa0`
+(rubber-band rig) and `WUml1d0tyjY` (Hansen on lobster) are the two most
+on-doctrine.
 
 ### Tooling note
 

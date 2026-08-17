@@ -48,8 +48,11 @@ def main() -> int:
     ]
     if pending == 0:
         lines += ["**BATCH 2 WORKLIST COMPLETE** — no pending rows remain. The",
-                  "chain stops here; Phase 5 (coverage, acceptance tests, Gate B",
-                  "package) is a separate reviewed session.", ""]
+                  "chain stopped here. Phase 5 (coverage, acceptance tests, Gate B",
+                  "package) was deferred to 'a separate reviewed session' and never",
+                  "ran before batch 2 merged to `main` (540ea4a); it is being done",
+                  "as Phase 1 of the batch-3 build — see the close-out section in",
+                  "sources/extraction-log.md.", ""]
     (ROOT / "sources" / "batch-2-progress.md").write_text("\n".join(lines),
                                                           encoding="utf-8")
     print(f"progress: {total} total, {pending} pending, {n_esc} escalation entries")
