@@ -50,6 +50,14 @@ EXCLUDE_FULL = {
 VALIDATE_ONLY = {
     ROOT / "skills" / "boat-day" / "SKILL.md",
 }
+# Notes that are indexed and validated normally but never receive a generated
+# backlinks block. The registry is a trust table every note may legitimately
+# link to ("<voice> is a registered voice"); regenerating a block inside it made
+# each such extraction touch a guard-protected path, which reverted three
+# otherwise-clean batch-2 extractions. Keep it indexed — just never write to it.
+NO_BACKLINKS = {
+    ROOT / "sources" / "source-registry.md",
+}
 # Directories whose markdown is raw or generated and never linked into the graph.
 EXCLUDE_DIRS = {
     ROOT / ".git",
@@ -222,6 +230,8 @@ def main() -> int:
 
     # ---- (b) regenerate backlinks on every note ----
     for note in note_files:
+        if note in NO_BACKLINKS:
+            continue
         srcs = sorted(inbound[note], key=lambda p: title_of(p).lower())
         if srcs:
             lines = ["## Linked from", ""]

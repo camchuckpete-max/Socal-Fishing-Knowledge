@@ -35,8 +35,8 @@ considered and NOT promoted (Cameron 2026-08-12) — their content caps at
 `medium`; revisit at Gate B.
 
 
-<!-- backlinks:start -->
-## Linked from
-
-- [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
-<!-- backlinks:end -->
+<!-- This file intentionally carries no auto-generated backlinks section: it is a
+trust table, not a note. Notes legitimately link here ("<voice> is a registered
+voice"), and regenerating a block in this file made every such extraction touch
+a guard-protected path — which reverted three otherwise-clean batch-2
+extractions. See VALIDATE_ONLY in scripts/link-maintenance.py. -->

@@ -120,7 +120,6 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [Dorado & General Fish Care](dorado-and-general.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
-- [Source Registry](../sources/source-registry.md)
 - [Tuna Care](tuna-care.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
