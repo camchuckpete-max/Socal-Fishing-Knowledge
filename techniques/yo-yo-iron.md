@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -360,6 +360,18 @@ the reverse map in **Linked from** below.
   2024-08-29; medium confidence, unregistered channel):** the constant lift-
   reel-drop cycle is demanding on the arms and shoulders over a long session,
   and the rapid, aggressive action can spook more cautious fish.
+- **A bycatch species owning the column, and the jig never reaching the
+  target.** A yellowtail day planned around yo-yo iron and surface iron was
+  abandoned to bonito: *"we tried yo-yo fishing, didn't go well — a lot of
+  bonitos."* The fix was **not** a different iron, it was to stop fishing
+  metal — **dead sardines** got the yellowtail going, and the crew finished
+  hand-lining them once the bite went wide open (Strictly Irons, `Ob45hK4HSWc`,
+  2019-02-07; unregistered channel — medium). Worth naming because the reflex
+  when a yo-yo goes untouched is to change jig weight or speed, and neither
+  addresses an interception problem. The fish in question were sitting on
+  **tuna pens, straight down at about 120 ft** — see
+  [yellowtail](../species/yellowtail.md) for the tuna-pen row, including the
+  unresolved question of *which* pens.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -370,7 +382,6 @@ the reverse map in **Linked from** below.
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dropper Loop](dropper-loop.md)
-- [Ensenada & the Tuna Pens](../locations/ensenada.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)

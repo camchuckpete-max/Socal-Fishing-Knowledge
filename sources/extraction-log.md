@@ -1506,7 +1506,7 @@ being dropped.
 | `u80AI37soFI` (Coronados surface-iron bite) | on-the-water | `techniques/surface-iron.md` §decisions (keep winding on a miss) + §common failures (over-pulling) |
 | `gdqI2dNd5_U` (Coronados yellowtail) | on-the-water | `techniques/surface-iron.md` §chum-then-cast (get bit back to hold the stop) |
 | `dS9gd9k7A7Q` (Mission Belle, Coronados) | on-the-water | `techniques/surface-iron.md` §chum-then-cast (boat-shy read) — 166 words, two usable lines |
-| `Ob45hK4HSWc` (yo-yo → hand-lining) | on-the-water | **`locations/ensenada.md` (new)** — the tuna-pen fishery and the bycatch-driven presentation switch |
+| `Ob45hK4HSWc` (yo-yo → hand-lining, 2019-02-07) | on-the-water | `species/yellowtail.md` (tuna-pen row + a Doctrine entry recording that the location is unestablished); `techniques/yo-yo-iron.md` §common failures (bycatch interception). **Corrected 2026-08-17 — see below** |
 | `P36VGPPf120` (planning a BOLA trip) | tutorial | `locations/bahia-de-los-angeles.md` (landed in Phase 3 part 1) |
 | `oRg9XKtnJW0` (2022 montage) | promo | `skipped: music-montage, 221 words, no extractable doctrine beyond "slow troll surface irons" already held in the trolling and surface-iron notes` |
 | `vSBY4uS5624` (tuna foamers collab) | promo | `skipped: music-only, 67 words, zero speech` |
@@ -1560,3 +1560,52 @@ technique note and is a Phase 4 re-check.
    date but says on camera that the rods drop "the second week of December" and
    calls the combo a 2026 go-to. The upload date is what is cited; the filming
    date is not established and was not guessed.
+
+#### Correction — `Ob45hK4HSWc` location claim retracted (Cameron, 2026-08-17)
+
+**What went wrong.** The first pass created `locations/ensenada.md`, a note
+titled and framed around Ensenada, on the strength of one caption line —
+*"we're gonna be fishing a little local here two hours only from border."*
+The transcript **never names Ensenada**. "Ensenada" was my inference from a
+travel time, written into the KB as an established place. Cameron caught it and
+pointed out that Ensenada and the Coronado Islands are not the same spot, and
+that the tuna pens in question are, in his read, at the Coronados.
+
+**What the transcript actually establishes** (the whole geographic content of a
+4-minute video):
+
+- a landing whose name the captions garble beyond recovery
+  ("bloom Towanda modest sportfishing");
+- *"we usually head down to Castro's which is in that [garbled] about four
+  hours away"* — the usual destination, not this one, and itself ASR-uncertain;
+- *"we're gonna be fishing a little local here two hours only from border"*;
+- *"the yellowtail are really close to the tuna pens, dropping straight down to
+  about 120 feet."*
+
+No Ensenada, no Punta Banda, no Coronado Islands.
+
+**What was done.** `locations/ensenada.md` deleted; every link to it removed;
+the technique content re-homed where it does not depend on a place claim —
+`techniques/yo-yo-iron.md` §common failures (a bycatch species intercepting the
+jig, and the fix being to stop fishing metal rather than to change metal) and a
+`species/yellowtail.md` Situations row for tuna-pen fish at ~120 ft, carrying a
+⚠ pointer to a Doctrine & conflicts entry that states the ambiguity and both
+readings.
+
+**Region gating was never at risk.** Ensenada, Punta Banda, and the Coronado
+Islands are all `baja-pacific-north`, so the front-matter gate would have
+excluded this row from a SoCal-bight day plan either way. The failure was at
+the place-attribution layer that sits *below* the gate — which is exactly the
+layer the batch-3 plan says is not yet modelled (assignment is at region level,
+not spot level, per Cameron 2026-08-17).
+
+**Process lesson, for the Phase 5 extractor prompt.** The extractor has an ASR
+hazard rule and it worked — garbled *names* were correctly marked uncertain.
+There is no equivalent rule for **inferred places**, where nothing is garbled
+and the model simply supplies a plausible location from a travel time, a
+species range, or a channel's usual haunts. That is a distinct and more
+dangerous failure than a mis-transcribed word, because it reads as confident.
+Add to the Phase 5 prompt: **a location may only be named in a note if it is
+named in the source.** Travel times, drive distances, and channel habits are
+evidence for a question, never an answer to it — a note that needs a place the
+source does not give records the ambiguity instead.

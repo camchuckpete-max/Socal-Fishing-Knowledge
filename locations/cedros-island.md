@@ -154,14 +154,11 @@ than iron.
   [regulatory claims](../sources/regulatory-claims.md) — **verify current rules
   with CDFW-equivalent Mexican authorities before travelling**; the KB's
   Mexico entries are stamped as of 2026-08.
-- **[Ensenada & the tuna pens](ensenada.md)** is the drive-in alternative on
-  the same coast — a ~2-hour local day trip instead of a fly-in.
 
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [Ensenada & the Tuna Pens](ensenada.md)
 - [Surface Iron](../techniques/surface-iron.md)
 <!-- backlinks:end -->

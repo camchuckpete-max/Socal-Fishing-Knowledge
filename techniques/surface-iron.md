@@ -526,7 +526,6 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Ensenada & the Tuna Pens](../locations/ensenada.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

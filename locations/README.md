@@ -11,7 +11,6 @@
 - [BightSST Eval Targets](bightsst-eval-targets.md) **[SoCal only]** — The named evaluation spots Cameron's BightSST platform uses to test its upwelling / turnover detection — a fixed, small set of locations the model is scored aga
 - [Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md) **[SoCal only]** — Man-made rock structure — harbor break walls, jetties, and riprap channel edges — read as fishing structure.
 - [Cedros Island](cedros-island.md) **[Baja only]** — [Baja only] — Isla de Cedros sits off the Pacific coast of Baja California at roughly 28°N, just inside the northern half of the Baja Pacific line.
-- [Ensenada & the Tuna Pens](ensenada.md) **[Baja only]** — [Baja only] — the drive-in northern-Baja Pacific day-trip fishery, roughly 2 hours south of the border, versus the ~4-hour drive needed to stage for a Cedros tr
 - [Island Structure](island-structure.md) **[SoCal only]** — Universal typology of SoCal island and bank structure — the shapes the bottom takes and how current has to run across each shape to make it fish.
 - [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The southern Sea of Cortez island fishery — roughly 250 miles south of Bahía de los Ángeles, and a different mix of fish.
 - [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer you a fish or a technique that doesn't exist where you're going.
@@ -32,27 +31,24 @@ graph LR
   n4["BightSST Eval Targets"]
   n5["Break Walls, Jetties and Riprap"]
   n6["Cedros Island"]
-  n7["Ensenada & the Tuna Pens"]
-  n8["Island Structure"]
-  n9["Loreto & Puerto Escondido"]
-  n10["Regions & Waters — the gating vocabulary"]
-  n11["Sea of Cortez"]
-  n12["Zone Lexicon"]
-  n0 --> n11
-  n0 --> n9
-  n11 --> n0
-  n11 --> n9
-  n12 --> n1
-  n12 --> n3
-  n12 --> n4
-  n12 --> n8
+  n7["Island Structure"]
+  n8["Loreto & Puerto Escondido"]
+  n9["Regions & Waters — the gating vocabulary"]
+  n10["Sea of Cortez"]
+  n11["Zone Lexicon"]
+  n0 --> n10
+  n0 --> n8
+  n10 --> n0
+  n10 --> n8
+  n11 --> n1
+  n11 --> n3
+  n11 --> n4
+  n11 --> n7
   n2 --> n5
-  n3 --> n8
+  n3 --> n7
   n5 --> n2
   n6 --> n0
-  n6 --> n10
-  n6 --> n7
-  n7 --> n6
-  n9 --> n0
+  n6 --> n9
+  n8 --> n0
 ```
 <!-- mermaid:end -->
