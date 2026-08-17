@@ -1609,3 +1609,78 @@ Add to the Phase 5 prompt: **a location may only be named in a note if it is
 named in the source.** Travel times, drive distances, and channel habits are
 evidence for a question, never an answer to it — a note that needs a place the
 source does not give records the ambiguity instead.
+
+### `HTowqnwAMeA` — Yellowtail 101 (BDOutdoors), extracted 2026-08-17
+
+**Flagged by Cameron.** The transcript was **already in the repo** — it landed
+with the BOLA zip in Phase 3 part 1 (`sources/transcripts/bdoutdoors/`, manifest
+row present) but **no note cited it**. It is a landed-not-extracted miss, and
+the reason is instructive: the file carries `playlist: BOLA` in its header, so
+it came in on the Baja pass, but the content is **SoCal local-coast yellowtail**
+— a mid-August day "above the border" plus a studio breakdown. A pass reading
+for Baja material had no reason to stop on it. **Process implication for Phase
+5: playlist membership is not subject matter.** The landing stage should not let
+a playlist label stand in for triage, and the coverage check should assert that
+every landed transcript reaches a destination or a logged skip — this one had
+neither.
+
+**Source standing.** `nate-winnicki` is in
+[`sources/source-registry.md`](source-registry.md) (BDOutdoors, named
+contributor), so this is a **registered voice**, not an unregistered channel —
+but it is the first commit of these specific claims, so it lands at `medium`
+pending repetition, following the precedent set for Cesar on
+`EmZO8QiOfik`. Named rod/reel/hook/lure/line brands stay `low` per the
+sponsored-claim rule. A second angler appears on camera named only as
+"Marshall" — attribution incomplete, so his sounder read is `medium` on its own
+terms regardless of the channel.
+
+**⚠ Dating caveat.** The manifest and header both record
+`upload_date: 2026-08-17`, which is **identical to `retrieved:`** — a pattern
+that usually indicates a landing-time metadata artifact rather than a real
+upload date. The only date evidence inside the video is *"it is mid August"*
+spoken on camera. Notes cite **mid-August** and the video id; no day-precision
+date is asserted anywhere, and the upload date is not treated as established.
+Worth a sweep of the BOLA-zip rows for the same collision.
+
+#### Destinations
+
+| what | where |
+| --- | --- |
+| **Trolling hard baits to prospect a zone** — the purpose, the colour-by-light rule, the gear split at the 40 ft diver, the short-top-shot reasoning | `techniques/trolling.md` §SoCal local coast (new section) |
+| **Slow-trolling live bait** — speed 1.5–3 mph chosen by bait size, 100–150 ft setback, the lever-drag-at-"2" boat-sets-the-hook method, 25–40 lb with a lighter option, fluoro matched to mainline, hook sizing | **`techniques/slow-trolling-bait.md` (new)** |
+| **Two sounder reads** — stratified column vs. ball on the bottom; high-and-spread vs. tucked-to-the-bottom | `species/yellowtail.md` §Finding them |
+| **The anchor→move decision**, the bite-rate calibration, and the column-layer map | `species/yellowtail.md` §Doctrine & conflicts |
+| **Dropper-loop bait hooking** — roof of the mouth, mouth open, and why; upsize from flyline size | `techniques/dropper-loop.md` (new section) |
+| **Yo-yo jig sizing by current** (with the free-spool time-budget mechanism), the **~45° cast-out angle**, colour picks | `techniques/yo-yo-iron.md` |
+
+#### The flagged stub is retired
+
+`species/yellowtail.md`'s **"Covering water to locate fish"** row had carried
+`⚠ Flagged stub — no corpus source yet` since batch 1 — the KB had no source for
+**trolling to locate** yellowtail, only trolling as a presentation. This video
+covers it directly and by name (prospecting an unworked zone, between bites, or
+with no recent report), so the row is now sourced and the stub marker removed.
+**First flagged stub in the KB to be filled by a later batch** — the mechanism
+CLAUDE.md describes for stubs worked as intended.
+
+#### Findings worth recording
+
+1. **A behavioural sounder read the KB did not have.** Every existing yellowtail
+   sonar signature is a *depth* band. This source adds *distribution* as the
+   discriminator — fish spread through the column are biting, the same fish
+   tucked tight on the bottom are not — which is what tells you whether to work
+   a mark at all, and which technique layer to use when you do.
+2. **A colour rule that inverts the common habit.** Overcast → high-visibility;
+   bright blue day → dark colours. Stated as a **contrast** principle rather
+   than a match-the-hatch one. Recorded as his stated rule; no corpus source
+   contradicts it, and none corroborates it yet.
+3. **Bite-rate calibration is decision-relevant, not trivia.** Three or four
+   bites on a good local day means two fishless hours is not evidence a
+   technique is wrong. Logged in the router because it changes when a planner
+   should recommend switching.
+4. **Independent support for a cameron-adjacent framing.** The "don't be glued
+   to a technique" lesson, arrived at by pulling anchor and quadrupling the
+   bite rate, sits directly beside yellowtail.md's existing
+   **"the faces are states, not types"** (cameron) doctrine — the same claim
+   from the angler's side rather than the fish's. Recorded beside it, not
+   merged into it.

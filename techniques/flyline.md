@@ -740,6 +740,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Trolling](trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

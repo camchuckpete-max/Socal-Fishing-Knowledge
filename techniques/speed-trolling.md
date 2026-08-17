@@ -85,5 +85,6 @@ live in the router: [bluefin trolling](../species/bluefin-trolling.md).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Kite Fishing](kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Trolling](trolling.md)
 <!-- backlinks:end -->

@@ -590,6 +590,7 @@ a bluefin).
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

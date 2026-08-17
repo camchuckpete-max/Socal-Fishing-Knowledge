@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU, HTowqnwAMeA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island]
@@ -904,6 +904,49 @@ famous high spot, shallowest point roughly **50 ft on low tide, no more than
 See the [yellowtail](../species/yellowtail.md) La Paz entry for the
 species-level cross-reference to this same trip.
 
+## SoCal local coast — trolling hard baits to prospect a zone for yellowtail
+
+**Nate Winnicki, BDOutdoors, `HTowqnwAMeA`, mid-August (upload recorded
+2026-08-17 — see the dating caveat in
+[the extraction log](../sources/extraction-log.md)); `nate-winnicki` is a
+registered voice, first commit of these specific claims → `medium` pending
+repetition. Named rod/reel/lure models stay `low` per the sponsored-claim
+rule.** This section fills the long-standing flagged stub in
+[yellowtail](../species/yellowtail.md) — trolling **to locate**, as opposed to
+trolling as the presentation.
+
+- **The job is prospecting, not catching.** Trolling is called the private
+  boater's fastest way to cover and read a zone in three specific situations:
+  you're **working an area you don't know**, it's **between bites**, or you've
+  **seen no sign and have no recent report**. This is a search tool that
+  happens to hook fish, which is why it sits under "covering water" in the
+  species router rather than under presentation choice.
+- **Carry variety, and treat it as three separate axes** — **colour**, **style
+  /profile**, and **dive depth**. The stated reason is that on a given day fish
+  key on one specific presentation, one specific depth, or one specific
+  vibration, and the default (a sardine-pattern ~20 ft diving plug) is not
+  always the one. A single-lure trolling box is the failure mode.
+- **Colour by light — and it runs opposite to intuition.** On an **overcast or
+  low-light** morning, fish **high-visibility** colours because they stand out.
+  On a **bright, clear blue day**, go **darker** — blues, purples, sometimes
+  reds — for contrast against bright water. Stated as a contrast principle
+  rather than a match-the-hatch one, and worth noting that it inverts the
+  common "bright day, bright lure" habit.
+- **Gear splits at the ~40 ft diving plug.** For **20–30 ft divers**, the
+  [flyline](flyline.md) outfit is explicitly adequate — no second setup
+  needed. For **40 ft diving plugs**, switch to a real troll outfit: a
+  **shorter 6–7 ft rod**, a heavier 40-class reel, **80 lb braid**.
+- **Keep the top shot short — 15–20 ft of 50–60 lb.** Two stated reasons, and
+  they pull in the same direction: (a) braid's zero stretch is what gives the
+  rod tip its sensitivity and its read on what the lure is doing down there,
+  and **too much mono absorbs that**; (b) a fish hooked mid-column is already
+  close to kelp and rock and will dump line, so you want to be able to put the
+  wood to it immediately and lift it away from structure. Heavier line, shorter
+  mono — the opposite of the long-top-shot habit that suits surface work.
+- **Cross-reference:** the live-bait slow-troll — a different technique with a
+  different purpose — is in
+  [slow-trolling bait](slow-trolling-bait.md).
+
 ## Resetting a long-set-back line after kelp — a drill-powered crank
 
 **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
@@ -977,6 +1020,7 @@ covered above, not a new tool.
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Speed Trolling](speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)

@@ -20,6 +20,7 @@
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
 - [Sliding Sinker](sliding-sinker.md) — Execution for the sliding-sinker (Carolina) rig: the weight rides free on the main line above a swivel, and a leader runs from the swivel to the hook, so a fish
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Work an asymmetric metal jig so it flutters on the fall like a wounded, dying baitfish — the fall is the trigger, not the retrieve.
+- [Slow-Trolling Live Bait](slow-trolling-bait.md) — Pull a live bait behind a moving boat slowly enough that it swims naturally rather than being dragged.
 - [Speed Trolling](speed-trolling.md) **[SoCal only]** — Execution for pulling a fast-tracking hard bait to locate bluefin and pull a bite over water you can't otherwise cover.
 - [Surface Iron — The Cast](surface-iron-casting.md) — The cast is the half of surface iron that decides whether you get a shot at all, and it outgrew the parent note.
 - [Surface Iron — Colour](surface-iron-color.md) — The short answer from the most experienced voice in the corpus: colour is not the variable you think it is.
@@ -51,47 +52,53 @@ graph LR
   n13["Rockfish Deep-Dropping"]
   n14["Sliding Sinker"]
   n15["Slow-Pitch Jigging (SPJ)"]
-  n16["Speed Trolling"]
-  n17["Surface Iron — The Cast"]
-  n18["Surface Iron — Colour"]
-  n19["Surface Iron"]
-  n20["Swimbaits"]
-  n21["Trolling"]
-  n22["Yo-Yo Iron"]
-  n0 --> n21
-  n10 --> n16
+  n16["Slow-Trolling Live Bait"]
+  n17["Speed Trolling"]
+  n18["Surface Iron — The Cast"]
+  n19["Surface Iron — Colour"]
+  n20["Surface Iron"]
+  n21["Swimbaits"]
+  n22["Trolling"]
+  n23["Yo-Yo Iron"]
+  n0 --> n22
+  n10 --> n17
   n10 --> n5
   n11 --> n15
   n13 --> n14
   n13 --> n15
   n13 --> n4
-  n14 --> n19
+  n14 --> n20
   n14 --> n4
   n15 --> n11
   n15 --> n4
-  n16 --> n10
-  n16 --> n21
-  n17 --> n19
-  n18 --> n19
-  n18 --> n22
-  n19 --> n11
-  n19 --> n17
-  n19 --> n18
-  n19 --> n22
-  n19 --> n7
-  n20 --> n1
-  n20 --> n22
-  n21 --> n0
+  n16 --> n17
+  n16 --> n22
+  n16 --> n4
+  n16 --> n6
+  n17 --> n10
+  n17 --> n22
+  n18 --> n20
+  n19 --> n20
+  n19 --> n23
+  n20 --> n11
+  n20 --> n18
+  n20 --> n19
+  n20 --> n23
+  n20 --> n7
   n21 --> n1
-  n21 --> n16
-  n21 --> n19
-  n21 --> n22
-  n21 --> n5
-  n21 --> n6
-  n22 --> n19
+  n21 --> n23
+  n22 --> n0
+  n22 --> n1
+  n22 --> n16
+  n22 --> n17
+  n22 --> n20
+  n22 --> n23
+  n22 --> n5
+  n22 --> n6
+  n23 --> n20
   n4 --> n13
   n4 --> n14
-  n4 --> n22
+  n4 --> n23
   n5 --> n10
   n6 --> n11
   n6 --> n14

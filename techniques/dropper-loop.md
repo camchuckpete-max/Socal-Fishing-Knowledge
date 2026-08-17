@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -276,6 +276,34 @@ demonstrably tying; not carried as a separate rig name.
 [yo-yo iron](yo-yo-iron.md)) for **yellowtail that are holding on the bottom**
 that part of the season.
 
+## Hooking a live bait for the dropper loop — through the roof of the mouth
+
+**Nate Winnicki, BDOutdoors, `HTowqnwAMeA`; `nate-winnicki` is a registered
+voice, first commit of this claim → `medium` pending repetition.** Given for
+[yellowtail](../species/yellowtail.md) specifically, and described as working
+best with **mackerel** though it applies to sardine too.
+
+- **The move:** open the bait's mouth and pass the hook **from underneath, up
+  through the roof of the mouth**. Leave the mouth **open**.
+- **Why not sideways (the common alternative):** a sideways-pinned hook can
+  **rotate and re-catch the far side of the bait's head**, which puts the point
+  where it cannot hook a fish, or it starts the bait **spinning** — which kills
+  the presentation on a rig whose whole point is a naturally swimming bait.
+  Through-the-roof leaves the hook no axis to flip on.
+- **Why the mouth stays open:** a bait hooked with its mouth clamped shut
+  **can't breathe and dies quickly.** This is the constraint that rules out
+  the tidier-looking closed-mouth version.
+- **Upsize the hook from your flyline size.** If you're flylining a 2/0, run a
+  **3/0 or 4/0** on the dropper loop. Related sizing in
+  [hooks](../tackle/hooks.md).
+
+**When this rig is the right call for yellowtail (same source):** not when
+fish are hunting, but when they're **clumped tight on the bottom and
+inactive** — confirmed as yellowtail on the meter but not feeding. The stated
+logic is to put a bait in front of their faces and **annoy them into eating**,
+rather than to attract them. The corresponding sounder read is in
+[yellowtail](../species/yellowtail.md#finding-them-sign--sonar).
+
 ## Gear class
 
 Bottom / bait-in-the-holder work — see [gear classes](../tackle/gear-classes.md).
@@ -307,6 +335,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [September](../seasonal/september.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

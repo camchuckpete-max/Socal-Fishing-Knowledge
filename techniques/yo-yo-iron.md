@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -139,6 +139,23 @@ the reverse map in **Linked from** below.
   at **30–40 fathoms**; see
   [yellowtail](../species/yellowtail.md#where--when) for the full session
   detail, including the dropper-loop line-class parameter this trip adds.
+- **Cast it out for a ~45° line angle rather than fishing it vertical (Nate
+  Winnicki, BDOutdoors, `HTowqnwAMeA`, SoCal local coast; `nate-winnicki` is a
+  registered voice, first commit of this claim — medium):** for yellowtail
+  specifically, he casts the jig out (or flips it away from the boat) so the
+  line sits at roughly **45°** on the wind-back, rather than working it
+  straight up and down. His stated reasoning is that the **diagonal path makes
+  the jig behave more naturally** than a purely vertical one, and his stated
+  evidence is his own bite ratio improving after he switched. He is explicit
+  that **he has seen fish caught both ways**, so this is recorded as a
+  preference with a mechanism, not as a correction to the vertical doctrine —
+  it sits beside the straight-up-and-down cadences above, and beside the
+  cabrilla cast-and-burn below, which arrives at a similar geometry from a
+  different fishery.
+- **Colours he reaches for (same source; model/colour picks at `low` per the
+  sponsored-claim rule):** **blue and white, all red, and scrambled egg** are
+  named as the three he looks at most for yellowtail. Consistent with the
+  colour range already listed in [iron jigs](../lures/iron-jigs.md).
 - **Cabrilla variant is a cast-and-burn, not a bottom hop (Baja, Sea of
   Cortez; Cesar, EmZO8QiOfik, 2025-03-04; registered voice, mechanism —
   single mention, medium confidence pending repetition):** cast out, let the
@@ -360,6 +377,16 @@ the reverse map in **Linked from** below.
   2024-08-29; medium confidence, unregistered channel):** the constant lift-
   reel-drop cycle is demanding on the arms and shoulders over a long session,
   and the rapid, aggressive action can spook more cautious fish.
+- **Under-sizing the jig for the conditions, and paying for it in free-spool
+  time.** The stated sizing rule (Nate Winnicki, BDOutdoors, `HTowqnwAMeA`;
+  registered voice, first commit — medium): **light current and nice weather →
+  small jig; wind or strong current → upsize.** The mechanism given is a time
+  budget rather than an action argument — *"you don't want to spend the
+  majority of your time in free spool waiting for your lure to hit bottom when
+  you could be actively working up and down in a zone."* A jig too light for
+  the conditions doesn't just fish badly, it costs you most of your working
+  time. Consistent with, and a different reason for, the "iron too light for
+  the current" entry above.
 - **A bycatch species owning the column, and the jig never reaching the
   target.** A yellowtail day planned around yo-yo iron and surface iron was
   abandoned to bonito: *"we tried yo-yo fishing, didn't go well — a lot of

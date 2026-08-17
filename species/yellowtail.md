@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo, 0DKmYId1NN4, ejUTAnONf7o, Ob45hK4HSWc]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo, 0DKmYId1NN4, ejUTAnONf7o, Ob45hK4HSWc, HTowqnwAMeA]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast, open-ocean]
@@ -1247,6 +1247,24 @@ of water state. Kept side by side with the corpus
     per on-camera date, SoCal private boat; unregistered channel — medium).
     A stated depth threshold that picks the technique **before** the fish show,
     and the shallow counterpart to the structure and high-spot bands above.
+  - **Shape beats depth: stratified vs. balled.** A **stratified column** —
+    marks running as lines from the bottom up through mid-column, sometimes all
+    the way to the surface — reads as **fish actively hunting bait**, and is
+    the stated cue to put [slow-trolled baits](../techniques/slow-trolling-bait.md)
+    out. A **ball stuck to the bottom** is the opposite read: fish present but
+    not hunting, which is [dropper loop](../techniques/dropper-loop.md) water,
+    not flyline water (Nate Winnicki, BDOutdoors, `HTowqnwAMeA`; registered
+    voice, first commit of this claim — medium).
+  - **High and spread = biting; tucked to the bottom = not.** Watching the
+    sounder over a small rock (roughly **20–30 ft across**), the on-camera read
+    was that fish sitting **up in the column and spread out** are the ones that
+    will eat, and fish **tucked down tight on the bottom** are not — stated by
+    a second angler on the same trip (`HTowqnwAMeA`, named on camera only as
+    Marshall; attribution incomplete, so `medium` regardless of the channel).
+    This is a **behavioural** read layered on top of the depth bands above:
+    the same fish at the same mark are worth working or not depending on how
+    they are distributed, which is the discriminator none of the depth
+    signatures above carry on their own.
   - General method: [search & glassing](../planning/search-and-glassing.md),
     [electronics & sounder](../planning/electronics-and-sounder.md).
 
@@ -1258,7 +1276,7 @@ of water state. Kept side by side with the corpus
 | **Tight balls hugging structure** / marks on hard bottom or pinnacles (~5–10 fm) | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) [dropper loop](../techniques/dropper-loop.md) | 40–60 lb class stout rod + high-ratio reel | Heavy full-size iron (Salas 6X class); hit bottom, **a couple cranks off the bottom = reaction bite**; dropper loop for live-bait presentation to the same marks |
 | **Deep marks on a high spot** (BOLA/Baja), fast drift | [Slow-pitch / vertical jigging](../techniques/slow-pitch-jigging.md) | Slow-pitch / knife-jig class, **130–250 g** | 150–300 ft zone (bit best 150–180 ft); vertical/knife jigs punch down fast in current, wing-falls flutter — **they bump it on the fall, then wind tight**; match jig weight to rod rating. **Single-trip source (medium)** — see Doctrine & conflicts |
 | Fish **visible but not biting** (picky/finicky, seeing-not-biting) | [Flylined bait](../techniques/flyline.md); downsize leader/hook; wait for the window | 40–50 lb flyline class | Live bait when tide/current turns them on; drop leader size; anchor the plan to the daily bite window |
-| **Covering water to locate fish** along coastline / island ridges (esp. Baja) | **⚠ Flagged stub — no corpus source yet.** [Trolling](../techniques/trolling.md) hard baits/feathers is a standard locate method in the real fishery, especially down the Baja coast | Light troll class | No SoCal/Baja corpus source covers hard-bait/feather trolling *to locate* yellowtail yet — flagged pending new sources (expected ~400-video batch); the stub is here so silence doesn't read as "not a method." A **live-bait** slow-troll variant for known resident structure is now sourced — see the row below |
+| **Prospecting an unworked zone** — new area, between bites, or no recent report | [Trolling](../techniques/trolling.md#socal-local-coast--trolling-hard-baits-to-prospect-a-zone-for-yellowtail) diving hard baits to cover water fast | Light troll class for 20–30 ft divers (the flyline outfit works); dedicated 6–7 ft troll outfit for 40 ft divers | **Stub filled 2026-08-17** (`HTowqnwAMeA`, Nate Winnicki, BDOutdoors — registered voice). Named as the private-boater's method for covering a zone quickly when there's no sign and no intel. Carry a spread of colors, styles, and dive depths — fish key on presentation, depth, or vibration on any given day |
 | **Resident/home-guard fish over known shallow structure** (Cedros Island, Baja) | [Slow-trolled live mackerel](../techniques/trolling.md) on a circle hook, worked "not too far" back over the structure | 80–100 lb line class (a heavier bracket than the 40 lb floor / 50 lb most-everything Cedros breakdown in [line & leader](../tackle/line-and-leader.md) — kept side by side, not reconciled) | Not a locate method — a standing program over a known rock (28–30 ft crest); no-strike/wind-tight the circle hook, back the boat down once hooked; observed producing repeated hookups (StokedOnFishing, QSmE3mdEL28) |
 | **Yellowtail stacked on offshore tuna pens**, metered straight down ~120 ft | 1) **Dead sardines** 2) [yo-yo iron](../techniques/yo-yo-iron.md) — but see the caveat | Bait class; 40–60 lb yo-yo class | ⚠ **Location not established — see Doctrine & conflicts.** Strictly Irons, `Ob45hK4HSWc`, 2019-02-07, unregistered channel — medium. The planned yo-yo/surface-iron program failed to **bonito intercepting the jig**; dead sardines turned the bite and the crew finished hand-lining. Bluefin were alongside the same pens. A ~50 lb yellowtail was lost to a sea lion — see the depredation row below |
 | **Hard wind (20–25 kt+) after a run of good surface days** — fish still there, no longer showing on top | 1) [Yo-yo iron](../techniques/yo-yo-iron.md) 2) keep casting [surface iron](../techniques/surface-iron.md) as a picker | 40–60 lb class stout rod + high-speed reel | Coronado Islands, 2026-04-21 (`ejUTAnONf7o`, unregistered channel — medium): 25 kt gusts, fish metered and swiping the iron without committing; the crew's read was that **the wind turned the bite**, and other boats on the same day confirmed it had gone *"mostly yo-yo."* The surface iron still produced two — so this is a re-rank, not an abandonment |
@@ -1289,6 +1307,35 @@ water temp and bait depth before committing the day to one face.
 
 ## Doctrine & conflicts
 
+- **Don't marry the technique you were told to fish (Nate Winnicki,
+  BDOutdoors, `HTowqnwAMeA`; registered voice — medium, first commit).** The
+  clearest decision-and-reason in this source. The crew were told the spot was
+  **anchor fishing**, anchored, and fished it for **an hour to an hour and a
+  half** for a couple of bites. They pulled the anchor, started moving around
+  the zone and slow-trolling, and their **bite rate roughly quadrupled**. The
+  stated lesson is general: *"You can't really be glued to a certain technique
+  or style of fishing."* Recorded as doctrine because the reasoning is stated,
+  not just the outcome — and it sits directly beside this note's
+  **"the faces are states, not types"** framing below, which says the same
+  thing from the fish's side.
+- **Bite-rate calibration, so a slow day isn't misread as a wrong technique
+  (same source).** A day producing **12–15 bites** was called an **anomaly**
+  on camera; a **good** day of local yellowtail fishing is stated as **three or
+  four bites**. That matters for decision-making: at three or four bites a day,
+  a technique change after two fishless hours is not evidence the technique is
+  wrong. Kept as a SoCal local-coast expectation, not a Baja or island one.
+- **The column has a technique per layer, and they are not interchangeable
+  (same source).** The stated map, top to bottom:
+  [flyline](../techniques/flyline.md) and
+  [slow-trolled bait](../techniques/slow-trolling-bait.md) up top because that
+  is how the fish feed when they are feeding;
+  [trolling](../techniques/trolling.md) hard baits through mid-column as a
+  **search** tool; [surface iron](../techniques/surface-iron.md) on top;
+  [yo-yo iron](../techniques/yo-yo-iron.md) for the **mid-to-lower** band that
+  the surface iron cannot reach; and [dropper
+  loop](../techniques/dropper-loop.md) on the bottom for **inactive** fish.
+  The sliding-egg-sinker/dropper-loop point is made specifically about **bigger
+  fish hanging deeper** while the school is spread through the column.
 - **⚠ The tuna-pen row's location is genuinely unresolved, and is left that
   way on purpose (`Ob45hK4HSWc`, 2019-02-07).** The transcript establishes
   only: a landing whose name the captions garble; that the crew *"usually head
@@ -1369,6 +1416,7 @@ water temp and bait depth before committing the day to one face.
 - [September](../seasonal/september.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
