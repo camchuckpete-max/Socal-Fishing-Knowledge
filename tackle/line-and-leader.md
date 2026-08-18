@@ -458,6 +458,7 @@ able to break off** (aXF0bxAFtU0):
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
+- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)

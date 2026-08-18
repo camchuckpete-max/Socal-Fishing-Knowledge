@@ -2018,7 +2018,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | done | none: nothing extractable — entire transcript is a Fred Hall Show retail promo (Seaguar/P-Line fluorocarbon deals), no fishing knowledge |
 | 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md: Steve Clarkson (Searcher) tip — 16VISX-class reel for angler endurance, 320g glow flat-fall jig w/ big hooks for night bite, 315 lb bluefin observed 59mi off Point Loma |
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | done | techniques/underhand-casting.md; bait/fishing-live-bait.md: new technique note for the underhand/lob cast, linked from fishing-live-bait.md |
-| 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | pending |  |
+| 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Bob Bauer's pre-trip top-shot-refresh doctrine (cost + fresh line gets bit) merged into existing reel-maintenance note, distinguished from offseason respool section; medium confidence (unregistered channel) |
 | 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | pending |  |
 | 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | pending |  |
 | 1uYIApdQQSM | SearcherSportfishing | tutorial | deep | pending |  |
