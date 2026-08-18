@@ -110,4 +110,5 @@ soon as that fish is landed.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

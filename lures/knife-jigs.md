@@ -380,7 +380,7 @@ name):
     Point Loma (full catch detail in
     [bluefin tuna](../species/bluefin-tuna.md#where--when); full reel/jig
     build in
-    [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#daytime-and-night-one-reel-pick-for-giant-tuna--endurance-over-max-drag-steve-clarkson-searcher-sportfishing)).
+    [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#one-reel-pick-for-giant-tuna-150250-lb--endurance-over-max-drag-steve-clarkson-searcher-sportfishing-2020-03-19)).
     Not reconciled with Hansen's angler-confidence framing directly above —
     two attributed, opposed views on the same question, from two different
     single-mention-capped voices.
@@ -503,6 +503,7 @@ rigging from class terms above until it lands; see
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

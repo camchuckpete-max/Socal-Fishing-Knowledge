@@ -78,6 +78,7 @@ where this fits among wahoo's other techniques routes from
 ## Linked from
 
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

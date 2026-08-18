@@ -760,6 +760,7 @@ a bluefin).
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Surface Iron](../techniques/surface-iron.md)

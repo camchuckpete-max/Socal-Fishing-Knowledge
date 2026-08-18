@@ -689,7 +689,7 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   **Penn International 16VISX**-class reel (captioned "16 V is X" —
   asr-uncertain on the exact model, but named alongside the Penn
   International 80 and 130 in the same segment; full attributed reel/jig
-  doctrine in [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#daytime-and-night-one-reel-pick-for-giant-tuna--endurance-over-max-drag-steve-clarkson-searcher-sportfishing)).
+  doctrine in [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#one-reel-pick-for-giant-tuna-150250-lb--endurance-over-max-drag-steve-clarkson-searcher-sportfishing-2020-03-19)).
   Framed on camera as promotional for the boat ("even if you're only on a day
   and a half trip on the Searcher, that could happen to you"), so read as an
   attributed catch/data point rather than fishery-wide doctrine.
@@ -1030,6 +1030,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

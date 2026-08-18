@@ -116,6 +116,7 @@ does the lookup.
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)

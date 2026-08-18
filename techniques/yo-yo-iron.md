@@ -459,6 +459,7 @@ the reverse map in **Linked from** below.
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Surface Iron](surface-iron.md)
 - [Surface Iron — Colour](surface-iron-color.md)

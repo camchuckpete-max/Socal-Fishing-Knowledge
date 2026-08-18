@@ -11,6 +11,7 @@
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md) — Gear is a big investment; a rinse-and-store discipline is what makes it last.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Two entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 <!-- index:end -->
 
@@ -27,12 +28,14 @@ graph LR
   n4["Line & Leader — Braid, Mono, Fluoro by Application"]
   n5["Reel & Rod Maintenance — Offseason TLC"]
   n6["Rod & Reel Selection — by Application"]
-  n7["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n7["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n8["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
   n0 --> n1
   n0 --> n2
   n0 --> n3
   n0 --> n4
   n0 --> n6
+  n0 --> n7
   n1 --> n4
   n1 --> n6
   n2 --> n0
@@ -42,11 +45,14 @@ graph LR
   n3 --> n6
   n4 --> n1
   n4 --> n6
-  n4 --> n7
+  n4 --> n8
   n5 --> n4
   n5 --> n6
   n6 --> n0
   n6 --> n1
-  n7 --> n4
+  n7 --> n0
+  n7 --> n1
+  n7 --> n6
+  n8 --> n4
 ```
 <!-- mermaid:end -->

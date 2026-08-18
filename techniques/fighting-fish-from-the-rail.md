@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -44,6 +44,46 @@ body — holding the rod up unsupported instead of resting it against the
 rail — which the source calls **"high sticking."** Framed as the single most
 common mistake this tip is meant to correct.
 
+## Big-tuna variant — armpit tuck, low gear, and body-weight leverage (Steve Carson, Penn/Searcher, 2023-07-13)
+
+Steve Carson, Penn Fishing Tackle, aboard the **Searcher**
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 224 (Big Tuna Tackle),"
+`6wVlDDno2TE`, uploaded 2023-07-13; unregistered channel/speaker — medium
+confidence). A more detailed rail technique, called on camera **"using the
+rail,"** aimed specifically at fighting big tuna on the heavier two-speed
+rigs (Penn International 16VISX/20VISX class — see
+[Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)).
+He frames this as just "the basics" of a technique with more depth than a
+short segment can cover.
+
+- **Tuck the rod under the armpit** — for a right-handed angler, under the
+  **left** armpit specifically; he flags a natural pull toward tucking to
+  the right instead and coaches explicitly against it.
+- **If the fish is down below, lay the rod directly on the rail** rather
+  than holding it off the rail — this requires a rod with a **long
+  foregrip** to rest against the rail properly.
+- **Brace the reel against twisting:** under load there's a strong twisting
+  motion on the rod/reel; put a hand on top of the reel or on the side of
+  the reel (either works) to counter it.
+- **Stay in low gear** (two-speed reel) and use whole-body weight to work
+  the fish — lift up with the body, wind down, repeat — rather than cranking
+  with the arms/wrist alone. Same low-gear mechanism as
+  [two-speed low-gear fight](two-speed-low-gear-fight.md).
+- **Rail height varies by where you stand on the boat** (the Searcher's rail
+  height differs around the deck) — work out where and how you want to stand
+  before the fight, not during it.
+- **Fish farther from the boat:** an alternative stance — kneel on one knee
+  and lay the rod on the rail from there — described as more relaxing for
+  that scenario.
+
+This is a **doctrine-grade (stated-reasoning) version** of the same
+armpit-tuck/rail-brace/hand-on-reel mechanic already logged as **Observed**
+footage (without stated reasoning) at
+[fighting a big bluefin](fighting-big-bluefin.md#walk-it-down-swell-avoid-the-death-circle)
+— kept side by side, not merged, per the doctrine-vs-observation rule; that
+note's entries describe the same left-armpit/hand-on-reel/squat-and-stand
+pattern independently observed on StokedOnFishing trips.
+
 ## Related
 
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
@@ -55,10 +95,13 @@ common mistake this tip is meant to correct.
   — the boat-driven method for landing the 100–300 lb bluefin grade once
   hooked; this rail technique is the angler's own rod-handling complement to
   that boat-handling doctrine.
+- [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
+  — the rod/reel/line rigs the big-tuna rail variant above is fished on.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

@@ -540,13 +540,13 @@ rods come tight on big bluefin together.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
 - [Knife / Speed Jigging](knife-jigging.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trolling](trolling.md)
 - [Tuna Care](../fish-care/tuna-care.md)
