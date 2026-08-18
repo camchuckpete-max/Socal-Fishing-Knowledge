@@ -28,6 +28,17 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch: {}
+  # IMMEDIATE KICK LEVER. GitHub cron on this repo runs 20-28 minutes late
+  # (batch-2's ":23" trampoline consistently fired at :42-:51), and a newly
+  # created schedule lags longer still - the first fire never arrived. A push
+  # event fires at once, so touching THIS file and pushing restarts the chain
+  # immediately. Scoped to this one path so ordinary work on main never
+  # triggers it; harmless anyway, since ingest-chunk's preflight no-ops when a
+  # run is already in flight.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/batch3-trampoline.yml"
 permissions:
   actions: write
 jobs:
