@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY]
 confidence: high
 ---
 
@@ -71,6 +71,25 @@ several drops in a row with nothing**, is often the first sign the current just
 stopped — before you consciously notice the water went slack (dave-hansen,
 Your Saltwater Guide, aFb221LUoD0, 2020-10-20; single mention — medium
 confidence).
+
+## Sand-drop current read (small-craft, close range)
+
+**Doctrine (medium — Tommy Ponce, kayak guide, relaying a technique credited
+on camera to an unnamed source he calls "an Islander," Fisher Newb seminar,
+`LqW32NSkObY`, 2019-03-13):** in close, calm-looking water where a current
+edge isn't visually obvious (e.g. a shallow inshore rock formation at a
+given tide stage), drop a handful of sand or beach sediment over the side and
+watch which way it drifts as it sinks back to the bottom — a low-tech visual
+tracer for current direction when there's no other tell to read. Framed as
+useful specifically when you can't otherwise see or feel the current from a
+small craft. Unregistered channel, single mention — medium confidence.
+
+- **Caveat from the same source: don't infer subsurface current from the
+  surface.** What the top of the water is doing does not reliably tell you
+  what the water is doing below it — treat surface movement and subsurface
+  current as separate reads, consistent with the kelp-lean and chum-drift
+  diagnostics above being read at the depth that matters for the
+  presentation in play.
 
 ## Current break: visual ID
 

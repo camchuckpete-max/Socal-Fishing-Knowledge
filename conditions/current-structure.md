@@ -252,6 +252,7 @@ become primary).
 - [February–March](../seasonal/february-march.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)

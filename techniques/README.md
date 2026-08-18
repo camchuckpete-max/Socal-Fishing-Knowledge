@@ -15,6 +15,7 @@
 - [Glide Baits](glide-baits.md) — Execution for large, hard-bodied, jointed glide baits (marketed in SoCal as "Hookup Baits") fished from a private boat, party boat, or bay bank for calico and s
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
+- [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Small-craft-specific execution for working calico bass and sand bass structure from a kayak — covering ground, using kelp as an anchor, and working boiler rocks
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
 - [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
 - [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
@@ -50,71 +51,72 @@ graph LR
   n8["Glide Baits"]
   n9["Hoop Netting"]
   n10["Inshore Crankbaits"]
-  n11["Kite Fishing"]
-  n12["Knife / Speed Jigging"]
-  n13["Mangrove Structure Livebait"]
-  n14["Ned Rig"]
-  n15["Rockfish Deep-Dropping"]
-  n16["Sliding Sinker"]
-  n17["Slow-Pitch Jigging (SPJ)"]
-  n18["Slow-Trolling Live Bait"]
-  n19["Speed Trolling"]
-  n20["Surface Iron — The Cast"]
-  n21["Surface Iron — Colour"]
-  n22["Surface Iron"]
-  n23["Swimbaits"]
-  n24["Trolling"]
-  n25["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
-  n26["Yo-Yo Iron"]
-  n0 --> n24
-  n11 --> n19
-  n11 --> n5
-  n12 --> n17
+  n11["Kayak Bass Fishing"]
+  n12["Kite Fishing"]
+  n13["Knife / Speed Jigging"]
+  n14["Mangrove Structure Livebait"]
+  n15["Ned Rig"]
+  n16["Rockfish Deep-Dropping"]
+  n17["Sliding Sinker"]
+  n18["Slow-Pitch Jigging (SPJ)"]
+  n19["Slow-Trolling Live Bait"]
+  n20["Speed Trolling"]
+  n21["Surface Iron — The Cast"]
+  n22["Surface Iron — Colour"]
+  n23["Surface Iron"]
+  n24["Swimbaits"]
+  n25["Trolling"]
+  n26["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
+  n27["Yo-Yo Iron"]
+  n0 --> n25
+  n12 --> n20
   n12 --> n5
-  n15 --> n16
-  n15 --> n17
-  n15 --> n4
-  n16 --> n11
-  n16 --> n22
+  n13 --> n18
+  n13 --> n5
+  n16 --> n17
+  n16 --> n18
   n16 --> n4
   n17 --> n12
+  n17 --> n23
   n17 --> n4
-  n18 --> n19
-  n18 --> n24
+  n18 --> n13
   n18 --> n4
-  n18 --> n6
-  n19 --> n11
-  n19 --> n24
-  n20 --> n22
-  n21 --> n22
-  n21 --> n26
-  n22 --> n12
-  n22 --> n20
-  n22 --> n21
-  n22 --> n26
-  n22 --> n7
-  n23 --> n1
-  n23 --> n26
-  n24 --> n0
+  n19 --> n20
+  n19 --> n25
+  n19 --> n4
+  n19 --> n6
+  n20 --> n12
+  n20 --> n25
+  n21 --> n23
+  n22 --> n23
+  n22 --> n27
+  n23 --> n13
+  n23 --> n21
+  n23 --> n22
+  n23 --> n27
+  n23 --> n7
   n24 --> n1
-  n24 --> n18
-  n24 --> n19
-  n24 --> n22
-  n24 --> n26
-  n24 --> n5
-  n24 --> n6
+  n24 --> n27
+  n25 --> n0
+  n25 --> n1
+  n25 --> n19
+  n25 --> n20
+  n25 --> n23
+  n25 --> n27
   n25 --> n5
-  n26 --> n22
-  n4 --> n15
+  n25 --> n6
+  n26 --> n5
+  n27 --> n23
   n4 --> n16
-  n4 --> n26
-  n5 --> n11
-  n5 --> n25
-  n6 --> n12
-  n6 --> n16
-  n8 --> n22
+  n4 --> n17
+  n4 --> n27
+  n5 --> n12
+  n5 --> n26
+  n6 --> n13
+  n6 --> n17
   n8 --> n23
   n8 --> n24
-  n8 --> n26
+  n8 --> n25
+  n8 --> n27
 ```
 <!-- mermaid:end -->

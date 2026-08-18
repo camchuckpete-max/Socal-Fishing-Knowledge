@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -51,6 +51,16 @@ you read the *current across the kelp*, not the tide clock.
   want the warmer, better patch, but grunion or bait events override water
   quality entirely (see below). See [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
+- **Doctrine (medium — Tommy Ponce, kayak guide, Dana Point, Fisher Newb seminar,
+  `LqW32NSkObY`, 2019-03-13):** a personal-observation temperature preference of
+  roughly **65–68°F**; past about 70°F fish become more lethargic and drop to
+  cooler water, though they'll still hit a top-water bait. Calicos are **not
+  migratory** — pelagic spawners that settle near the islands or coastal grounds
+  where they hatch and largely stay put, moving structure-to-structure at most
+  rather than ranging. Depth most commonly worked in his Dana Point water: **0–8
+  ft** and **20–100 ft**, occasionally a little past 100 ft; he is skeptical of a
+  cited FishBase figure of fish to ~275 ft, saying he has not personally seen them
+  that deep.
 - **Observed** (StokedOnFishing, 2014-11-03 upload, Bird Rock, Catalina Island,
   SoCal — `zUFbCIWZZMw`, "Stoked On Simrad, part 1," sponsor-heavy Simrad
   electronics/autopilot demo episode; unregistered channel — medium
@@ -357,6 +367,7 @@ you read the *current across the kelp*, not the tide clock.
 | **Baja island beach, yellowtail have shut off mid-day** ([Cedros](../locations/cedros-island.md)) | **Downsized surface iron** ([surface iron](../techniques/surface-iron.md)) — a 5.5 in mini-iron worked in tight on the beach | jig-stick class, [iron jigs](../lures/iron-jigs.md) | The mid-day filler on a Cedros yellowtail trip: run in tight, catch calicos on the small iron, and wait for the yellows to reappear. Calicos are thick there — *"it's raining calicos"* (Jared Saaib, Strictly Irons, `IdMJnlg_rZk` / `2cxeg_AE418`; registered, single trip — medium) |
 | Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (RXNebDr4j7s) |
 | Grass/heavy kelp fouls a standard weedless rig | **Glide bait** on an Owner "sled" weedless rig ([glide baits](../techniques/glide-baits.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement than the soft-plastic weedless row above; ⚠ single promotional seminar source, low confidence |
+| Fishing from a kayak/small craft — boiler rocks and kelp at close range, often with no fish finder | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — platform-specific approach (kelp as anchor, close-range boiler-rock work, fan-casting) | bass class, sized to the boat/kayak | Execution is the same current/edge doctrine above; what changes is standoff distance, anchoring, and navigation without electronics |
 
 **Covering water is the method:** 10–25 casts to the prime edge of a bed, then
 move — 100 ft or 100 yards to the next patch of stringers. If they're not on the
@@ -496,6 +507,18 @@ present the outside stringers.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).
+- **Bag limit, older figure (California / CDFW, as of 2019-03-13 — this is the
+  oldest regulatory figure in this note; verify current rules before relying
+  on it):** bag limit of **5** stated for calico bass (Tommy Ponce, Fisher
+  Newb seminar, `LqW32NSkObY`). Same source states calicos take roughly
+  **5–7 years** to reach legal size — offered on camera as the reason he
+  pushes catch-and-release, consistent with the slow-growth CPR ethic already
+  logged below. His growth-timeline line names the size as "about 12 in" on
+  auto-generated captions (garbled ASR), which conflicts with his own 14 in
+  figure stated minutes later in the same talk (and with the registered 14 in
+  legal size above) — kept as "legal size" here rather than asserting either
+  number for the growth claim, since the transcript itself is internally
+  inconsistent on this specific figure.
 - **Baja regional note — Cedros Island voluntary catch-and-release (as reported
   2023-10-16, verify current status before fishing):** local fishing
   companies/operators at Cedros Island, Baja California (not a SoCal spot —
@@ -587,6 +610,7 @@ release *ethic* and the regional policies are below.
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
+- [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)

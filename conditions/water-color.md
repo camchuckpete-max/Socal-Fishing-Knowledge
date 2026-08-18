@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [water-color, chlorophyll, clarity, upwelling, white-seabass, bait, edges]
-sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI, JiJYamo0QHk]
+sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI, JiJYamo0QHk, LqW32NSkObY]
 confidence: high
 ---
 
@@ -102,6 +102,29 @@ contradiction of, the epipelagic/euphotic (0–200 m) and mesopelagic
 [deep scattering layer](deep-scattering-layer.md) from a companion Crust to
 Coast lecture — background terminology only; it does not change the
 color/clarity doctrine above.
+
+## Lure brightness in murky/dirty water (inshore bass)
+
+**Doctrine (medium — Tommy Ponce, kayak guide, Dana Point, Fisher Newb
+seminar, `LqW32NSkObY`, 2019-03-13):** for coastal calico/sand bass fished
+from close range (kayak/skiff), murkier water calls for more flash and
+brighter colors — a blade-style lure (e.g. a **1 oz+ spinnerbait**) cuts
+through stained water in a way a subtler presentation doesn't, giving the
+fish less work to find the bait. Clear water is preferred outright when
+available; the color/brightness call only becomes load-bearing once the
+water turns murky. Rain runoff was named as the local driver of dirty water
+in his home waters, and is tied to the bite-behavior note below.
+
+**Rain/dirty water pushes the bite to the bottom; bright, clear days open up
+top water (same source):** after heavy rain muddies the water, bass were
+described as hunkering on the bottom and largely off the bite rather than
+holding at their normal depth — effectively fishing as bottom-only fish
+during that window. On bright, sunny, clear days by contrast, warmer surface
+water pulls fish up to feed on bait moving through the top of the water
+column, producing more consistent top-water opportunities. Single-source,
+unregistered channel — medium confidence; kept here as a coastal-bass-specific
+case of the general clarity/color doctrine above, not a claim about offshore
+water color.
 
 ## Related
 
