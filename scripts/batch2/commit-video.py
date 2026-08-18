@@ -25,7 +25,13 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import guard  # noqa: E402  (same directory)
 
-BRANCH = "claude/batch2-ingestion-rb0v4i"
+def _current_branch() -> str:
+    r = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"],
+                       cwd=ROOT, capture_output=True, text=True, check=True)
+    return r.stdout.strip()
+
+
+BRANCH = _current_branch()
 
 
 def sh(*args: str, check: bool = True) -> subprocess.CompletedProcess:
