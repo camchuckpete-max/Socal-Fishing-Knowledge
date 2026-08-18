@@ -34,6 +34,7 @@
 - [Swimbaits](swimbaits.md) — Execution for soft-plastic swimbaits and slugs on kelp and reef bass.
 - [Trolling](trolling.md) — General offshore trolling execution — how to run a spread, where each lure lives in it, and how to pair a rod to a lure.
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md) **[SoCal only]** — A reel-side counter-move to a hooked big fish getting its nose down and circling under the boat — distinct from, and a companion to, the boat-driving methods (g
+- [Underhand Casting](underhand-casting.md) — Execution for the underhand cast — a simple lob toss for live bait off a sportboat rail or bow, alternative to a full overhead surface-iron cast when you don't
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md) **[Baja only]** — The wahoo bomb and the Raider jig are named as the two most-used lures for wahoo (Searcher Sportfishing, -62xDo4UQzo, 2020-01-30) — a cast-and-burn presentation
 - [Yo-Yo Iron](yo-yo-iron.md) — Drop a heavy iron straight down to a mark and crank it back up at full speed on a heavy jig-stick — a vertical presentation for fish holding deep or in current
 <!-- index:end -->
@@ -42,5 +43,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 32 notes exceed the 30-node cap._
+_Map skipped: 33 notes exceed the 30-node cap._
 <!-- mermaid:end -->

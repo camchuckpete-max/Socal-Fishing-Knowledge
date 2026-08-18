@@ -367,6 +367,13 @@ elsewhere.
   **swim away from you like a propeller**; give it slack and it turns and swims
   right back under the boat (8YvmROeVL-0).
 
+## Casting the bait out
+
+A live bait doesn't need a full overhead swing to get out — see
+[underhand casting](../techniques/underhand-casting.md) for the simpler lob
+technique, reached for by newer casters, in a crowded rail corner, or with a
+lighter bait (e.g. anchovy on a small rubber-core sinker).
+
 ## Chumming with live bait (lxFNVdDhMy4)
 
 Live bait doubles as chum: throwing bait draws a school **up toward the surface
@@ -467,5 +474,6 @@ clips above.)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Making Bait](making-bait.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Underhand Casting](../techniques/underhand-casting.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
