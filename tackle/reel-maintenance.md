@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw]
 confidence: medium
 ---
 
@@ -97,6 +97,48 @@ going out every week:
   **solder a fresh set on.**
 - **Frayed [assist hooks](../lures/knife-jigs.md):** don't nurse them — replace
   them, so you're not second-guessing the rig when a fish eats.
+- **Carry a hook file and use it on the water** (Norm Fujimoto, via
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 171 (Tackle Box Essentials),"
+  `5ppQob4N3Xw`, 2022-03-03; unregistered channel, single mention — medium
+  confidence; the presenter's stated affiliation is garbled in the
+  auto-captions as "eiserline" and not confidently resolved — `asr-uncertain`,
+  not carried as a company name): touch up **big single hooks** to keep the
+  point sharp, called out specifically for what the captions render as
+  "wagon" — read here as a likely ASR miss for **wahoo**, but not confirmed
+  against the title/description and flagged `asr-uncertain`.
+
+## On-the-water tackle box — field tools and repairs (Norm Fujimoto, via SearcherSportfishing, "Tackle Tip Thursday Vol. 171 (Tackle Box Essentials)," `5ppQob4N3Xw`, 2022-03-03; unregistered channel, single mention — medium confidence)
+
+Distinct from the offseason/storage discipline above: a short list of what to
+actually carry in the box so trip-day problems get fixed on the water instead
+of ending the day.
+
+- **Reel-seat shim for a loose clamp.** When a reel's clamp is bigger than the
+  rod's reel seat and won't cinch tight, carry a length of old rubber hose
+  tubing (pre-cut) to pack into the gap so the clamp can seat down snug.
+- **Rod-tip field repair.** Carry **tip glue and a lighter** — a rod tip that's
+  worked loose is a quick fix with heat and glue rather than a trip-ending
+  problem.
+- **A DIY line-gripping tool for tying knots, especially braid.** A
+  home-made **line puller made from aluminum rod plus flex wrap** gives a grip
+  on the line while cinching a knot down — the same gripping-tool logic as the
+  "wood dowel + tape" puller already logged for heavy-test connections in
+  [essential knots](../rigging/essential-knots.md#parameters--judgment), here
+  built specifically to help tie knots in **braid**.
+- **Picking wind-knot loops out of braid.** Braid ("spectra") backlashes
+  occasionally leave small loops that are hard to pull out by hand — a
+  **dental pick** works them free; carry **two**, since sometimes two loops
+  need to be pulled out at the same time.
+- **Light oil alongside grease.** Beyond the gear grease already logged under
+  **Servicing** above, carry a small oil for anything that's turned squeaky or
+  started to rust.
+- **A dedicated UV flashlight.** Carried in addition to a regular flashlight,
+  specifically to light up UV-finish jigs.
+- **Wet the line before you cast, from a carried water bottle.** The same
+  bottle doubles as a rinse for reels and rods boat-side.
+- **A rail-mounted cable, carabiner, and S-hook.** A cable clipped to the box
+  handle keeps a hook within reach to tie onto, and the S-hook is a spare
+  attachment point for a swivel or jig.
 
 Cleaning your own gear is also how you get to know it. The judgment throughout is
 the same: protect the investment, and never leave a questionable hook, wet metal,
