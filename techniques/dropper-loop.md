@@ -78,8 +78,7 @@ this note owns the rig and the retrieve.
   for bigger baits or a ripping current. The source doesn't confirm the exact
   rig format (dropper loop vs. straight bait-to-bottom), so treat this as a
   regional weight reference rather than confirmed dropper-loop parameters (Ray
-  Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
-  medium confidence).
+  Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered (Baja-scoped) — medium confidence).
 
 - **San Benito Island, Baja — 100 lb line minimum for home-guard yellowtail
   (Observed, StokedOnFishing, aired 2015-01-18, `JaKSGkZ6CAc`, "Top Gun 80
@@ -206,7 +205,7 @@ break; only the sinker is sacrificed. See
 light-breakaway-sinker method used on the gulp gangion there — the two are
 kept side by side as different mechanisms for the same goal, not merged.
 
-## Single vs. double dropper (Duane Diego Malloy)
+## Single vs. double dropper (Duane Diego Mellor)
 
 - **Double dropper loop** shines for rock cod and mixed bottom species — reds,
   chuckleheads, [lingcod](../species/rockfish-lingcod.md). Run **straight braid
@@ -261,7 +260,7 @@ demonstrably tying; not carried as a separate rig name.
 
 ## Fishing it — deadstick vs. work it
 
-- **Deadstick in the rod holder** is the default: Malloy keeps **one to two, even
+- **Deadstick in the rod holder** is the default: Mellor keeps **one to two, even
   three** dropper rods soaking on the drift, anchor, or in the holders while he
   actively works a [lead head](../lures/soft-plastic-swimbaits.md) or a
   [sliding-sinker](sliding-sinker.md) rig — more lines in the water, more bites.

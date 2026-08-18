@@ -172,8 +172,8 @@ below.
 
 When a net is rigged for a given depth (e.g., ~30 ft) but the actual drop is
 shallower (e.g., ~10 ft), the leftover rope would otherwise float around loose
-near the surface — a tangle and prop hazard. Judgment/procedure (medium
-confidence, single-source, unregistered channel): drop the net and let it sink
+near the surface — a tangle and prop hazard. Judgment/procedure (`roman-castro` registered 2026-08-17, single source —
+medium confidence): drop the net and let it sink
 with the main line held, take up slack until you feel it go taut on the
 bottom, then tie an **overhand loop** a couple feet past that taut point (easy
 to untie in the field — just push the bight through). Coil the remaining slack

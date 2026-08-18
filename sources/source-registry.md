@@ -16,7 +16,7 @@ to trust, it does not change note attribution.
 | `cameron` | Cameron (repo owner) | — | first user; local doctrine + gear | primary user; on-water SoCal/Baja experience |
 | `landesfeind` | Erik Landesfeind | BDOutdoors | dated Bight reports + Fishing Academy host | repeated, dated SoCal doctrine across a full seasonal cycle |
 | `socal-bight-fishing-academy` | SoCal Bight Fishing Academy (series) | BDOutdoors | structured how/where/why episodes | curriculum-grade SoCal-specific instruction |
-| `duane-diego-mellor` | Capt. Duane Diego Mellor | BDOutdoors | bluefin, swordfish, electronics | named captain; deep species/electronics doctrine |
+| `duane-diego-mellor` | Capt. **Duane Diego Mellor** — Pinnacle Sportfishing (spelling confirmed by Cameron 2026-08-17) | BDOutdoors — sword/electronics (`KuVwmfF6RAo`, `yLpDI8jnizU`); Dockside Tutorial series (`mUrihh0V59M` dropper loop, `apyGy3XKlss` sliding sinker, `F-vOTerdulU` lead head) | bluefin, swordfish, electronics, bait rigs | named captain; deep species/electronics doctrine. **ASR alias — search for both:** the three Dockside Tutorial auto-captions render his self-introduction as *"Dwayne Diego Malloy"*, which is a mis-transcription. The human-typed video titles and the `yLpDI8jnizU` caption both say **Duane Diego Mellor**. Two notes carried the caption spelling until 2026-08-17 |
 | `rush-maltz` | Rush Maltz | BDOutdoors | swordfish seminar | named captain; deep-drop sword doctrine |
 | `ali-hussainy` | Ali Hussainy | BDOutdoors | rockfish, sword seminar | BD founder; named captain |
 | `nate-winnicki` | Nate Winnicki | BDOutdoors | reports/tackle | named contributor |

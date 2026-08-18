@@ -43,9 +43,9 @@ fish sit is the router; this note owns the rig and how you feed the bite.
   A fish that grabs the bait **pulls line through the sinker and feels nothing**;
   that is the whole point of the rig.
 
-## The squid version (Duane Diego Malloy)
+## The squid version (Duane Diego Mellor)
 
-- For Channel Islands squid fishing Malloy runs a **small sliding egg sinker
+- For Channel Islands squid fishing Mellor runs a **small sliding egg sinker
   straight to a Gamakatsu offset octopus hook**, sinker **preferably glow color**
   — it matches the squid and adds a light attractant on the common **night**
   bite.

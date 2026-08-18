@@ -174,8 +174,7 @@ the reverse map in **Linked from** below.
   them) instead of the standard heavy class; his year-round confidence yo-yo
   pick otherwise is a **Tady 4/0** ("never fails"), backed by a **Kicker 25
   (heavy)** and steel-finish irons for the standard heavy-forage case (Ray
-  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence, unregistered
-  channel). Mirrors the anchovy/"rice"-bait downsize logic already documented
+  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Mirrors the anchovy/"rice"-bait downsize logic already documented
   for [surface iron](surface-iron.md) — match iron size to bait size, not just
   to current.
 - **SoCal downsize data point, no stated bait-size reason (Observed,

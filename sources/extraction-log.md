@@ -1836,3 +1836,81 @@ named person only where the source identifies the speaker, or where a
 channel-level attribution rule has been recorded in the source registry.** The
 registry is the right home for such rulings because it is already the file
 Cameron edits to make trust decisions.
+
+### Duane Diego Mellor — spelling corrected, and a sweep gap found (2026-08-17)
+
+**Confirmed by Cameron: Duane Diego Mellor.** Four occurrences across
+`techniques/sliding-sinker.md` and `techniques/dropper-loop.md` carried
+"Malloy" and were corrected. Two section headings changed with them; checked
+first for inbound anchor links — there were none, so nothing broke.
+
+**It was an ASR artifact, not a typo.** The corpus genuinely contains both:
+
+| where the text came from | renders as |
+| --- | --- |
+| human-typed YouTube titles (`KuVwmfF6RAo`, `yLpDI8jnizU`) | **Duane Diego Mellor** |
+| auto-caption self-intro (`yLpDI8jnizU`) | **Duane Diego Mellor** |
+| auto-caption self-intro, 3 Dockside Tutorials | *"Dwayne Diego Malloy"* |
+
+The three Dockside Tutorials are where he introduces himself and the captions
+mishear both names. The two affected notes were sourced from those videos, so
+they inherited the mis-transcription. The registry row now records the alias
+explicitly so a future search on either spelling lands, plus his **Pinnacle
+Sportfishing** affiliation and the three Dockside video ids that were not
+previously listed on his row.
+
+**General lesson: human-typed metadata beats ASR for proper nouns.** Titles,
+descriptions, and playlist names are typed by the uploader. Where a name
+appears in both, the title wins. This should be an explicit extractor rule in
+Phase 5 — the existing ASR-hazard rule tells the extractor to *flag*
+uncertainty, but not that a title is available as a **higher-quality source for
+the same fact**.
+
+#### Sweep gap: line-wrapped names defeated the registry-status pass
+
+Correcting these notes surfaced three citations the earlier registry sweep
+missed, all for the same reason: **the person's name was itself wrapped across
+a line break** (`Ray\n  Sharifi`), so a pattern matching `Ray Sharifi` with a
+literal space never saw them.
+
+| note | citation | fix |
+| --- | --- | --- |
+| `techniques/yo-yo-iron.md` | Sharifi, `WE643Fue1_A` (Cedros) | Baja-scoped |
+| `techniques/dropper-loop.md` | Sharifi, `dEPuDrhoClM` (Sea of Cortez) | Baja-scoped |
+| `techniques/hoop-netting.md` | Castro, second clause further down the section | registered, single source |
+
+The third is a different failure: the clause sat in running prose well past the
+parenthetical after the name, so a fixed look-ahead window would have missed it
+even with the name intact. Re-verified with a newline-tolerant pattern —
+**0 registry-status errors remain**, and "Malloy" appears in no knowledge note.
+
+**Phase 5 implication:** any sweep keyed on a person's name must be
+newline-tolerant, because this repo hard-wraps prose at ~78 characters and
+names land on the wrap boundary regularly. Worth a small helper in
+`link-maintenance.py` rather than ad-hoc regexes per pass.
+
+### BOLA date concern — checked and withdrawn (2026-08-17)
+
+Earlier in this batch I flagged that `HTowqnwAMeA` had `upload_date` identical
+to its `retrieved` date and suggested the BOLA-zip rows might carry the same
+landing-time artifact, implying other notes could be citing dates that were
+never real. **That was an overstatement from a single instance, and the check
+does not support it.** Measured across all 634 manifest rows and 69
+transcripts:
+
+- **1** transcript has `upload_date == retrieved` — `HTowqnwAMeA`, already
+  flagged and already carrying its caveat.
+- **0** future-dated rows.
+- `retrieved` dates cluster into three clean landing batches (2026-08-12 ×18,
+  2026-08-13 ×17, 2026-08-17 ×34) exactly matching the known landing sessions.
+
+No systemic lander bug; nothing to sweep. Recorded rather than quietly dropped
+because the concern is in the log above and a future reader would otherwise go
+looking for a problem that isn't there.
+
+**One real finding did come out of the fuller check: 37 manifest rows carry an
+empty `upload_date`.** All 37 are `status: failed` — never transcribed — and
+**zero** are cited in any knowledge note, so this is an accounting gap, not a
+knowledge-integrity one. It becomes live in Phase 6: the re-transcription pass
+that recovers those videos must also recover their upload dates, or they will
+enter the KB undated and unable to satisfy CLAUDE.md's absolute-dates rule.
