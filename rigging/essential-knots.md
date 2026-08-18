@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -123,6 +123,27 @@ fluoro leader, braid main line — and feed the terminal rigs in
   slide down snug under friction instead of burning/damaging the line as they
   seat — the reasoning behind wetting knots generally, stated here explicitly
   for the San Diego jam.
+  **"Double jam knot" naming + a live-bait-vs-lure application rule
+  (SearcherSportfishing, Tackle Tip Thursday Vol.183, `5J7a6UwTA90`,
+  2022-05-26; unregistered channel, single mention — medium confidence):**
+  this doubled-through-the-eye tie (ASR renders the name "san diego jam
+  nut"/"double jam nut") is named on camera the **"double jam knot"** and is
+  framed as built specifically for **heavy line on artificial lures** —
+  demonstrated on 80 lb mono, doubling the line through the eye of the lure,
+  or through the eye of a leader-and-swivel connection, then wrapping the tag
+  down the standing line before passing back through both loops to cinch, the
+  same doubled-through-the-eye mechanic as the base entry above. **Stated
+  reason to avoid it for live bait:** the finished knot is bulky enough that
+  it "doesn't bode well for presenting a live bait" — for live bait, tie a
+  **single jam knot** instead (this clip names it as the live-bait
+  alternative but doesn't demonstrate or describe its construction — that's
+  covered in a companion video, "Tackle Tip Thursday Vol.182 (Single or
+  Double Jam Knot?)," `6T3xZ9vufrM`, 2022-05-19, not yet extracted in this
+  KB). **Wrap-count corroboration:**
+  demoed at just 3 wraps "for demonstration purposes," but stated as
+  under-built for real use — "you're probably going at least a half a dozen"
+  (6) wraps with 80, 100, or 130 lb test, matching the 6-wrap figure already
+  logged above for the San Diego jam rather than adding a new number.
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied

@@ -2038,7 +2038,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5472APCgym8 | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md — merged Modified Albright as second attribution/wrap-count detail into existing spaced-then-overlap variant entry; fixed cinch-off mechanics wording inconsistency |
 | 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md — amended with three new sourced sections (decision trigger, two rubber-band builds, drop-shot/brawler rig build) from Steve Carson/SearcherSportfishing |
 | 5IN1wsOFR-k | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md — amended with winter lay-up section (corrosion spray + gear grease) from Tackle Tip Thursday Vol. 27; fixed one hardened-ASR claim before applying |
-| 5J7a6UwTA90 | SearcherSportfishing | tutorial | deep | pending |  |
+| 5J7a6UwTA90 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md: added double jam knot naming + live-bait-vs-lure rule + wrap-count corroboration to San Diego jam entry |
 | 5g7pK63hYnc | SearcherSportfishing | tutorial | deep | pending |  |
 | 5pbA-wXoric | SearcherSportfishing | tutorial | deep | pending |  |
 | 5ppQob4N3Xw | SearcherSportfishing | tutorial | deep | pending |  |
