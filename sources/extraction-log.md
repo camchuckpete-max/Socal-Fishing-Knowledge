@@ -2018,11 +2018,11 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | done | none: nothing extractable — entire transcript is a Fred Hall Show retail promo (Seaguar/P-Line fluorocarbon deals), no fishing knowledge |
 | 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md: Steve Clarkson (Searcher) tip — 16VISX-class reel for angler endurance, 320g glow flat-fall jig w/ big hooks for night bite, 315 lb bluefin observed 59mi off Point Loma |
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | done | techniques/underhand-casting.md; bait/fishing-live-bait.md: new technique note for the underhand/lob cast, linked from fishing-live-bait.md |
-| 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | pending |  |
-| 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | pending |  |
-| 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | pending |  |
-| 1uYIApdQQSM | SearcherSportfishing | tutorial | deep | pending |  |
-| 1wFoa11jPxQ | SearcherSportfishing | tutorial | deep | pending |  |
+| 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Bob Bauer's pre-trip top-shot-refresh doctrine (cost + fresh line gets bit) merged into existing reel-maintenance note, distinguished from offseason respool section; medium confidence (unregistered channel) |
+| 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | done | techniques/fighting-fish-from-the-rail.md; techniques/fighting-big-bluefin.md; techniques/two-speed-low-gear-fight.md / new technique note on rail-bracing/pump-stop-pump fight mechanics (Turner's Outdoorsman via SearcherSportfishing, Capt. Art of the Searcher), cross-linked into the two existing bluefin-fight technique notes |
+| 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | done | rigging/haywire-twist.md; species/wahoo.md; techniques/wahoo-bomb-casting.md / second independent SearcherSportfishing demo merged into haywire-twist mechanics + wahoo bomb-casting lure choice, medium confidence; Catch tackle jig brand name flagged ASR-uncertain/provisional |
+| 1uYIApdQQSM | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; techniques/surface-iron-color.md / corroborating color/dating data point (Tady 45 mackerel, Salas 7X sardine-green-white) added as attributed observation; fixed a misattributed cross-link to techniques/surface-iron.md |
+| 1wFoa11jPxQ | SearcherSportfishing | tutorial | deep | done | tackle/line-and-leader.md / Pete Gray/SearcherSportfishing sponsor-style tip (Talica 16, 80 lb Power Pro Maxcuatro, 42 lb Seaguar top shot) added as low-confidence attributed bullet; connecting knot name flagged asr-uncertain |
 | 25sd2gZAIZ8 | SearcherSportfishing | tutorial | deep | pending |  |
 | 2O4Z0S78KLg | SearcherSportfishing | tutorial | deep | pending |  |
 | 2TmLaSCmfC8 | SearcherSportfishing | tutorial | deep | pending |  |

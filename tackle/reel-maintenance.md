@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason]
-sources: [5yfA5XAaLLY]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk]
 confidence: medium
 ---
 
@@ -23,6 +23,26 @@ context is in [rod & reel selection](rod-and-reel-selection.md).
   towel (microfiber is ideal but not required) after every rinse.
 - Use a **toothbrush** to work salt and grit out of the small, hard-to-reach areas
   the towel misses.
+
+## Fresh line before every trip — the top-shot economics (Bob Bauer, angler aboard the Searcher, "Tackle Tip Thursday Vol.64," SearcherSportfishing, `0n4mJ3sfIqk`, 2019-09-05; unregistered channel — medium confidence)
+
+Distinct from the offseason strip-and-respool below: this is a **pre-trip**
+discipline, argued from cost rather than just care —
+
+- **Core claim: fresh line gets bit.** Stated plainly, not as a mystery —
+  "get on the boat with fresh line, it gets bit." The doctrine is simply to
+  never leave for a trip on line that's been sitting since the last one.
+- **Why this is affordable: only the top shot needs replacing.** Spool the
+  [braid backing/spectra](line-and-leader.md) once; from then on, only the
+  mono/fluoro **top shot** (see [line & leader](line-and-leader.md#when-mono-top-shot))
+  needs stripping and redoing between trips, which is a small, cheap spool of
+  line rather than a full reel respool.
+- **The numbers, preserved from source:** re-topshotting **seven rods and
+  reels** for one trip cost as little as **$2.75** on the cheap end and as
+  much as **almost $3.50** on the most expensive, for **under $15 total**
+  to freshen all seven reels.
+- **Takeaway:** at that price, skipping a pre-trip top-shot refresh is false
+  economy — "don't avoid spending the smart money."
 
 ## Storage — how gear should sit through the layoff
 

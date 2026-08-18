@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, color, jig-color, calico-bass, yellowtail, confidence]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -185,6 +185,21 @@ confidence):** daytime surface iron colors named on camera as his picks —
 above as a recurring confidence color elsewhere in the corpus, plus a new
 brown/orange data point. Not generalized into doctrine — a single panelist's
 confidence-color report.
+
+**Two named standard colors, no stated reason beyond track record
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 103," `1uYIApdQQSM`,
+2020-06-11; unregistered channel — medium confidence):** the video names two
+"standard-bearer" surface-iron colors it says have been "on the scene" for
+roughly 25–30 years as of the 2020-06-11 upload (so since roughly 1990–1995)
+— a **Tady 45** in **blue/green/white**, called a "mackerel" pattern, and a
+**Salas 7X** in **sardine green/white**. No reasoning is given beyond the two
+colors having "worked really really well in the past," so this is logged as a
+data point, not doctrine, per this note's reasoning-vs-observation rule. The
+duration claim corroborates, from an independent channel, the existing
+early-1990s (~1993) dating of the Tady 45 / Salas 7X pairing as the surface-iron
+standard in [surface iron](../techniques/surface-iron.md), under its size /
+weight selection section. Kept side by side with, not merged into, the other
+single-source color reports above.
 
 <!-- backlinks:start -->
 ## Linked from

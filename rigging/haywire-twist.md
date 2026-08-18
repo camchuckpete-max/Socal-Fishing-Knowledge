@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -56,6 +56,33 @@ it is the correct method specifically for single-strand wire.
   reel handle along the wire until it snaps off flush and clean. Get the broken
   tag straight into the garbage — loose on deck it can foul the bilge or stand up
   and go through your foot.
+
+## Second demonstration — wire test & tag finish (Tackle Tip Thursday Vol. 122)
+
+Searcher Sportfishing (`0zgmoOH3Qag`, 2020-10-22; same unregistered channel as
+the casting-leader data below — medium confidence), a short dedicated
+tackle-tip on tying the twist "for those of you getting ready for wahoo,"
+gives a second, independent walk-through that lines up with the mechanics
+above but adds its own specifics:
+
+- **Wire test used on the boat: 69 lb** "toothy wire." Stated reason: "it's
+  perfect, it's easier to tie your knots with" — i.e. the lighter-of-the-heavy
+  options was chosen for ease of twisting, not just to save weight.
+- **Forming the loop:** put the two legs of wire in different directions so
+  they sit at an angle to each other (matches the "45, not 90" angle rule
+  above), then **twist six or seven times** so both legs twist together.
+- **Tag finish:** overlay the tag end back over the main line — described as
+  ending up looking "almost like a San Diego knot" — wrapped **four or five
+  times**; stated explicitly that **the exact count doesn't matter**, "it just
+  looks really good." This is a second, independent voice landing on the same
+  "length/look, not count" judgment as the barrel-wrap guidance above, with a
+  slightly different wrap count (4–5 here vs. 5–6 above) — both given as
+  approximate, not a conflict.
+- **Break-off:** once tied off, **do not cut the tag with a tool** — a cut
+  stub "will cut your fingers every time you grab your lure." Instead **pinch
+  the tag between your fingers and move it up and down**; it fatigues and
+  comes off clean. Same clean-break principle as the bend-and-crank method
+  above, described with a fingers-only motion rather than pliers.
 
 ## Wahoo casting leader — length and test
 

@@ -11,6 +11,7 @@
 - [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
 - [Dropper Loop](dropper-loop.md) — Execution for the classic dropper-loop rig: a loop knot tied into the leader holds the hook above a sinker that rides on the bottom, so the bait wafts in the cu
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md) — Execution for landing a hooked big bluefin (100–300 lb class) once it's on: the boat, not the angler's arms, does the work of bringing the fish in.
+- [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md) — Baseline rod-handling for a hooked fish worth fighting on a sportboat: brace the rod against the boat's rail rather than holding it up on arms/body alone.
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
 - [Glide Baits](glide-baits.md) — Execution for large, hard-bodied, jointed glide baits (marketed in SoCal as "Hookup Baits") fished from a private boat, party boat, or bay bank for calico and s
@@ -43,5 +44,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 33 notes exceed the 30-node cap._
+_Map skipped: 34 notes exceed the 30-node cap._
 <!-- mermaid:end -->

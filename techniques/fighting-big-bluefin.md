@@ -12,7 +12,10 @@ waters: [open-ocean, bank]
 Execution for landing a hooked big bluefin (**100–300 lb class**) once it's on:
 the boat, not the angler's arms, does the work of bringing the fish in. Where
 to find and hook that grade is the router: [bluefin tuna](../species/bluefin-tuna.md).
-Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
+Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md). For
+the angler's own rod-handling while this boat-driven fight is underway —
+bracing the rod on the rail rather than high-sticking — see
+[fighting fish from the rail](fighting-fish-from-the-rail.md).
 
 ## Reach for this when
 
@@ -539,6 +542,7 @@ rods come tight on big bluefin together.
 
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
