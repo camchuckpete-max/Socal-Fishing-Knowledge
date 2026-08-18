@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
@@ -389,6 +389,35 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [kite fishing](../techniques/kite-fishing.md),
   [flying fish harness](../rigging/flying-fish-harness.md), and
   [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+- **Observed** (SD Fish and Sips, `ouBrIdO7d4k`, "Pacific Coast Sportfishing
+  Show 2025," 2025-03-08 upload, filmed 2025-03-06 at the OC Fairgrounds trade
+  show — an interview with **Andrew of CI Made Lures** (birds/daisy-chain
+  maker who also runs bluefin charters on his own 39 ft Contender; captions
+  render the lure brand "CI Made," possibly the same "Cali Made Lures"
+  spreader-bar business plugged by "Captain Andrew" of Stoked On Fishing
+  Charters in the Tanner Bank entries above — same first name, an overlapping
+  bird/daisy-chain-for-spreader-bars product line, and no boat-model conflict
+  (that entry's boat is only described as "triple-outboard rigged," which a
+  39 ft center console fits) — but the identity match is not confirmed on
+  camera either way, so this is logged as a separate, unresolved-identity
+  attribution rather than merged into the Stoked On Fishing entries);
+  unregistered channel/speaker, single mention — medium confidence): recapping
+  the 2024 season, the boat's longest run was to **San Nicolas Island**,
+  described on camera as roughly **115 mi offshore from where they launched**
+  (the same conversation separately put the typical launch distance at "80 to
+  90 [mi]" — the two numbers are not reconciled on camera, so treat the
+  mileage as approximate). Asked the most effective way to get bit, Andrew
+  ranked **kite-fished frozen dead flying fish** as producing the majority of
+  the boat's bites, ahead of a **"California flyer"** bait (the hard-bodied
+  artificial lure logged at Tanner Bank, not a live bait — see
+  [flying fish harness](../rigging/flying-fish-harness.md#artificial-alternative--reusable-slide-up-lure-california-flyer))
+  fished under the same kite — an independent data point alongside the
+  dead-flying-fish-under-kite preference already logged for Tanner Bank
+  above — with **helium
+  balloon** named as a secondary kite-adjacent method. Reel: **Makaira 50W**
+  (captioned "makyra 50 wi" — ASR-uncertain spelling, resolved against the
+  same "Makaira 50-Wide" model already logged elsewhere in this note; boat
+  sponsored by Okuma).
 - **Observed** (StokedOnFishing, presenter Shay, `IxhdiX3oEEs`, 2019-11-13
   upload, SoCal (exact zone not named on camera), day two of a multi-day
   trip; unregistered channel — medium confidence): a **184 lb** bluefin,

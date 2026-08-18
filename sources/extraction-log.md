@@ -2006,7 +2006,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | iAr6sbRC384 | Fisher Newb | seminar | deep | done | seminar/deep extraction - wind-retrieve skirted-bait presentation added to rockfish-deep-dropping.md, two regulatory rows (bag limit + RCA depth-boundary line) added to rockfish-lingcod.md and registered in regulatory-claims.md; fixed one invented competitor-weight comparison |
 | lP6cg4eEU6s | Fisher Newb | seminar | deep | done | seminar/deep extraction of bay-bass tide/structure/crankbait/scent doctrine (Sav-On Tackle/IROD), confidence correctly downgraded on promo rod-endorsement content; three unflagged ASR/faithfulness issues found and fixed in place |
 | m-M0iwX8DjA | Your Saltwater Guide | seminar | deep | done | Worked-example bait-tank data point (21ft Wellcraft, 60gal) and 0-300ft bluefin sounder-window reasoning + mark-and-troll workflow, dave-hansen medium confidence; one invented causal claim fixed during review |
-| ouBrIdO7d4k | SD Fish and Sips | seminar | deep | pending |  |
+| ouBrIdO7d4k | SD Fish and Sips | seminar | deep | done | Dana Point tungsten-headed King Buster-style finesse trolling lure for dolphin-associated yellowfin added to trolling.md/tuna-feathers-and-skirts.md/yellowfin-tuna.md; CI Made Lures Observed block in bluefin-tuna.md (SNI run, kite-bait ranking); fixed live-vs-artificial mischaracterization and overconfident identity claim before applying |
 | sIoNELGlxmk | Your Saltwater Guide | seminar | deep | pending |  |
 | ztpj1Xll0-U | Your Saltwater Guide | seminar | deep | pending |  |
 | -62xDo4UQzo | SearcherSportfishing | tutorial | deep | pending |  |

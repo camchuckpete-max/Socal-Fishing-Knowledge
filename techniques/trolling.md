@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU, HTowqnwAMeA]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU, HTowqnwAMeA, ouBrIdO7d4k]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island]
@@ -321,6 +321,66 @@ mechanics.
   the class. The captain's rule of thumb for jig-raised marlin generally:
   expect to convert roughly **one hookup for every five or six** fish
   raised/interested.
+
+## SoCal, backside of Catalina — porpoise-associated yellowfin finesse trolling
+
+**Observed** (SD Fish and Sips, `ouBrIdO7d4k`, "Pacific Coast Sportfishing Show
+2025," 2025-03-08 upload, filmed 2025-03-06, booth interview at the OC
+Fairgrounds trade show — the speaker is a SoCal charter captain who names
+himself only in a first-name exchange with a companion; the transcript is not
+speaker-diarized and the two names exchanged in that scene (Jerry, Dennis)
+cannot be confidently matched to who is talking, so he is logged unnamed
+rather than guessed; unregistered channel/speaker, single mention — medium
+confidence; region: socal-bight, Catalina Island):
+
+Recapping charter trips run mostly around Catalina (half-day trips, "not a
+lot of time offshore with clients" that season), the captain described a
+standing personal method for finding dolphin-associated **yellowfin** on the
+backside of the island during **lobster opener** — dated on camera as
+**"first week of October, end of September."**
+
+- **Lure — a scaled-down, tungsten-headed King Buster-style trolling lure.**
+  Built off the small **King Buster** "finesse trolling" lure (its stock head
+  is plastic and can pop out of the water at speed), he re-heads it with a
+  **tungsten 1/2 oz head** to keep it running true, rigged with a small
+  **Yamashita stainless double hook**. He credits the original idea to a
+  roughly **10–12-years-prior** (i.e., circa mid-2010s) Dana Point trolling
+  program — friends fishing cheap, fragile King Busters around porpoise pods
+  and getting bit on yellowfin — that he then rebuilt with the tungsten head
+  once he confirmed the small profile worked.
+- **Line/leader and speed.** Trolled on **60 or 80 lb** straight to the lure,
+  at **7–9 mph** — "not very fast."
+- **Approach — stay off and out in front of the pod; never cut through it.**
+  The stated method: get **well out in front** of a moving dolphin/porpoise
+  school rather than running through or alongside it. Cutting through the
+  pod is described as counterproductive across species — he applies the same
+  rule to a trolled [Mad Mac](../lures/mad-mac.md) for **bluefin** ("even
+  blue fin to the Mad Mac, I never go through them") — reasoning that pods
+  under bow pressure split or bolt once they hear/see the boat, scattering
+  the bait they were pushing.
+- **Where the yellowfin actually sit, relative to the pod.** For
+  **yellowfin** specifically (contrast with the bluefin/never-go-through rule
+  above), he places them **on the edges — up in front, on the flanks** of a
+  feeding pod, not necessarily riding directly under it: when the dolphin are
+  actively working and the baitball starts breaking up, yellowfin will
+  "foam out" ahead of or to the side of the pod, sometimes visible **~50 yd
+  in front** of the school, rather than staying tight to it. This sits beside
+  — not in conflict with — the separate, dated Dave Hansen doctrine in
+  [yellowfin tuna](../species/yellowfin-tuna.md#finding-them) that yellowfin
+  typically suspend **underneath** a traveling dolphin pod: that doctrine
+  describes the resting/traveling pattern, this data point describes the
+  pod's behavior once it is actively feeding and breaking up bait.
+- **Result cited on camera:** **60–70 lb yellowfin** landed on the dolphin
+  using this method, in the stated window (late Sept/early Oct, lobster
+  opener), backside of Catalina.
+- **Wider context volunteered on camera (not SoCal-specific — logged as a
+  labeled contrast, not doctrine for this note's region):** he named the same
+  small trolled-feather approach as a Hawaii **skipjack** staple ("in Hawaii,
+  man, that's a staple... they catch skipjack... those guys troll hard").
+
+See [Mad Mac](../lures/mad-mac.md) for the bluefin speed-troll lure referenced
+above, and [tuna feathers and skirts](../lures/tuna-feathers-and-skirts.md)
+for the finesse trolling lure's own spec entry.
 
 ## Baja, Sea of Cortez trolling lure kit
 

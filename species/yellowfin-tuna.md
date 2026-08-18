@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -62,6 +62,11 @@ the bluefin nearby become more cooperative too.**
   the school can look empty from above even when it's holding fish — see the
   [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen)
   built specifically to get a bait down to them.
+- **A pod that's actively feeding behaves differently from one that's just
+  traveling:** once a dolphin/porpoise pod breaks up a baitball, yellowfin
+  can show scattered **on the flanks and up in front** of the pod rather than
+  tight underneath it — see the approach method and finesse trolling lure in
+  [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling).
 - **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
   Clemente Island — unregistered channel, `medium`): spotted a large
   dolphin/"porpoise" school (see the porpoise-is-a-misnomer note above)

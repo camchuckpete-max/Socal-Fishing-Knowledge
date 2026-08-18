@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [tuna-feather, skirt, williamson, jaw-lures, tuna, trolling, offshore]
-sources: [cameron, CWVPLM6NheY, 9JnIS8HkZlA]
+sources: [cameron, CWVPLM6NheY, 9JnIS8HkZlA, ouBrIdO7d4k]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -102,6 +102,36 @@ source, so it is logged as a separate attributed entry rather than merged.
   system in [bite leaders](../rigging/bite-leaders.md) (that note covers
   knife-jig terminal tackle, not a trolled lure).
 
+## A finesse trolling lure for porpoise-associated tuna (Dana Point origin)
+
+**Observed** (SD Fish and Sips, `ouBrIdO7d4k`, "Pacific Coast Sportfishing Show
+2025," 2025-03-08 upload, booth interview at the 2025 OC Fairgrounds trade
+show — a SoCal charter captain, not confidently named (see the full account
+in [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling));
+unregistered channel/speaker, single mention — medium confidence; region:
+socal-bight):
+
+A small, finesse-profile trolling lure built for working dolphin/porpoise
+pods for yellowfin, developed from a **King Buster**-style small trolling
+lure fished around Dana Point roughly a decade-plus prior (mid-2010s, per the
+source) — that original run used cheap stock King Busters, which have a
+plastic head and can pop out of the water at trolling speed.
+
+- **Head — re-built in tungsten.** Swaps the King Buster's stock plastic head
+  for a **tungsten 1/2 oz head** specifically to keep the small lure running
+  true/submerged at speed, rather than skipping out.
+- **Hook — small Yamashita stainless double.** Rigged with a small
+  **Yamashita** stainless steel double hook, not a single.
+- **Leader / running specs.** Trolled **straight to 60 or 80 lb** leader, at
+  **7–9 mph.**
+- **Application.** Trolled specifically around dolphin/porpoise schools —
+  see [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling)
+  for the full approach method (stay out in front of the pod, never troll
+  through it) and the **60–70 lb** yellowfin result cited on camera.
+- **Also named as a Hawaii skipjack staple** (out-of-region contrast, not
+  SoCal doctrine): the same small-profile trolled-feather approach was
+  volunteered on camera as a standard Hawaii method for skipjack.
+
 ## Owned examples
 
 Profiles link the subset an angler owns. Cameron's rigged Williamson Tuna
@@ -118,6 +148,7 @@ dual-skirts (kept unopened) are in
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Trolling](../techniques/trolling.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->
