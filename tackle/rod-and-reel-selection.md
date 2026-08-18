@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM]
 confidence: medium
 ---
 
@@ -622,6 +622,21 @@ mechanism not otherwise logged here — full rig context in
   time a deep-hooked fish has taken a long run. Re-check (or back off) drag
   after a long run on a rig that started deep or has spooled down a lot,
   rather than trusting the initial setting through the whole fight.
+
+### A physical drag-scale tool — long-range tip (Logan, SearcherSportfishing, `-hY20bxz3oM`, 2021-07-08; unregistered channel/speaker, single mention — medium confidence)
+
+A practical add-on to the "confirm with a drag scale" step above (Steve
+Carson), not a competing method: a **spring-scale drag setter**, framed as a
+long-range-fishing must-have but which the speaker says he brings "on any
+trip," lets an angler dial the drag to an exact number instead of guessing
+between round figures ("not getting 15 pounds, 25 pounds") — the tool that
+makes hitting a specific strike-drag target (the ~10–13 lb / 25–33%-of-line-
+class figures above) precise rather than by feel alone.
+
+- **Tie on a ~1.5 ft length of rope** so the scale can be lashed to the boat's
+  rail and moved corner to corner as needed, rather than set down loose.
+- Cited as widely available — Amazon, Big 5, general sporting-goods stores —
+  for roughly **$20–30**.
 
 ### Ready position on the drop — index-on-spool, thumb-on-trigger (Your Saltwater Guide, F0g5r9Rkrd4, 2022-02-14; presenter-inferred as Dave Hansen, the channel host narrating over deckhand footage — no diarization, attribution inferred; dave-hansen registered — `high` confidence for the grip itself: a second Your Saltwater Guide video, the dropper-loop deploy walkthrough in [dropper loop](../techniques/dropper-loop.md) (OIqdmhKfuOc, 2021-03-30), repeats the same index-on-spool/thumb-on-trigger, left-hand-forward grip)
 
