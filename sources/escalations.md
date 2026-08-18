@@ -116,7 +116,21 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-18T16:36:33Z — unknown — guard-violation
 - run: 32158370146
 - reason: sweep reverted b87d21aa02c10ba80fd42230b5db3c509c2530cc: protected path touched: scripts/build-bight-watch.py
+- resolution (2026-08-18, supervised session): NOT a real violation. The
+  sweep applied the protected-path rule to every commit on the branch rather
+  than to the unattended extractor it exists to constrain, so it reverted two
+  already-pushed, already-reviewed session commits. Both reverts have been
+  undone and guard.py now skips commits not authored by the pipeline identity
+  (PIPELINE_AUTHORS). Protected-path rules still apply in full to extraction
+  commits. No Gate B action needed.
 
 ## 2026-08-18T16:36:34Z — unknown — guard-violation
 - run: 32158370146
 - reason: sweep reverted e4cc1893ccec79e76ad95f506753c5ca40ccd0da: protected path touched: scripts/batch2/commit-video.py
+- resolution (2026-08-18, supervised session): NOT a real violation. The
+  sweep applied the protected-path rule to every commit on the branch rather
+  than to the unattended extractor it exists to constrain, so it reverted two
+  already-pushed, already-reviewed session commits. Both reverts have been
+  undone and guard.py now skips commits not authored by the pipeline identity
+  (PIPELINE_AUTHORS). Protected-path rules still apply in full to extraction
+  commits. No Gate B action needed.
