@@ -141,7 +141,43 @@ def collect_video_diffs(base: str, worklist: list[dict], titles: dict,
     return vids, skipped
 
 
-def collect_attribution(base: str, files: list[dict]) -> dict:
+VIDEO_ID = re.compile(r"(?<![A-Za-z0-9_-])([A-Za-z0-9_-]{11})(?![A-Za-z0-9_-])")
+
+
+def collect_supervised(base: str, titles: dict, chain: set):
+    """Videos this run put into the KB WITHOUT a per-video commit.
+
+    Phase 3 read BOLA and Strictly Irons as multi-video synthesis units, and
+    the reopened batch-2 set went in by hand — real reads, all of them, but
+    the chain's `batch3: <id>` commit convention never fired, so they were
+    missing from the videos list entirely.
+
+    A video counts if a knowledge note gained a line naming it on this branch.
+    Front-matter keys are skipped: Phase 2's region backfill rewrote every
+    note's front matter, which would otherwise re-add the whole batch-2
+    corpus as if it had just been read.
+    """
+    diff = _bv.git("diff", f"{base}..HEAD", "--unified=0", "--", "*.md",
+                   ":(exclude)sources", ":(exclude)skills", ":(exclude)prompts")
+    cur, hits = None, {}
+    skip = re.compile(r"^\s*(sources|tags|regions|waters|type|confidence):")
+    for line in diff.splitlines():
+        if line.startswith("+++ b/"):
+            cur = line[6:]
+            continue
+        if not line.startswith("+") or not cur or line.startswith("+++"):
+            continue
+        body = line[1:]
+        if skip.match(body):
+            continue
+        for m in VIDEO_ID.finditer(body):
+            vid = m.group(1)
+            if vid in titles and vid not in chain:
+                hits.setdefault(vid, set()).add(cur)
+    return {v: sorted(paths) for v, paths in hits.items()}
+
+
+def collect_attribution(base: str, files: list[dict], supervised=None) -> dict:
     """Which video wrote each line of each note, as it stands right now.
 
     A diff hunk shows fragments; this shows the live article with one video's
@@ -152,6 +188,7 @@ def collect_attribution(base: str, files: list[dict]) -> dict:
     later video, not to whoever typed it first. Lines predating the batch
     blame to old commits and simply go unattributed.
     """
+    supervised = supervised or {}
     sha_to_video = {}
     log = _bv.git("log", f"{base}..HEAD", "--pretty=format:%H\x1f%h\x1f%s")
     for line in log.splitlines():
@@ -160,7 +197,7 @@ def collect_attribution(base: str, files: list[dict]) -> dict:
             m = VIDEO_COMMIT.match(parts[2])
             if m:
                 sha_to_video[parts[0]] = m.group(1)
-    if not sha_to_video:
+    if not sha_to_video and not supervised:
         return {}
 
     hdr = re.compile(r"^([0-9a-f]{40}) \d+ (\d+)")
@@ -171,21 +208,29 @@ def collect_attribution(base: str, files: list[dict]) -> dict:
         blame = _bv.git("blame", "--porcelain", "--", f["path"])
         if not blame:
             continue
-        # line number (0-based, matching the content we ship) -> video
-        marks: dict[int, str] = {}
+        # line number (0-based, matching the content we ship) -> videos
+        marks: dict[int, list] = {}
         for line in blame.splitlines():
             m = hdr.match(line)
             if not m:
                 continue
             vid = sha_to_video.get(m.group(1))
             if vid:
-                marks[int(m.group(2)) - 1] = vid
+                marks.setdefault(int(m.group(2)) - 1, []).append(vid)
+        # The supervised passes (Phase 3's BOLA and Strictly Irons reads, the
+        # reopened batch-2 set) committed several videos per commit, so blame
+        # cannot name one. Their citation is the anchor instead: the passage
+        # that names the video id IS the passage that video produced.
+        for i, line in enumerate((f.get("content") or "").split("\n")):
+            for vid in supervised.get(f["path"], ()):
+                if vid in line and vid not in marks.get(i, ()):
+                    marks.setdefault(i, []).append(vid)
         if not marks:
             continue
         # collapse to runs so the payload stays small
         runs: list[list] = []
         for ln in sorted(marks):
-            vid = marks[ln]
+            vid = " ".join(dict.fromkeys(marks[ln]))
             if runs and runs[-1][2] == vid and runs[-1][0] + runs[-1][1] == ln:
                 runs[-1][1] += 1
             else:
@@ -267,6 +312,19 @@ def layout_graph(files: list[dict]) -> dict:
     return {p: [round(xs[i], 1), round(ys[i], 1), deg[i]] for p, i in ix.items()}
 
 
+def _by_path(sup: dict) -> dict:
+    """Invert {video: [paths]} to {path: [videos]} for the attribution pass."""
+    out: dict[str, list] = {}
+    for vid, paths in sup.items():
+        for p in paths:
+            out.setdefault(p, []).append(vid)
+    return out
+
+
+titles_when: dict = {}
+channels: dict = {}
+
+
 def load_titles() -> dict:
     """Video titles, from every landed manifest."""
     titles: dict[str, str] = {}
@@ -275,8 +333,14 @@ def load_titles() -> dict:
             with man.open(encoding="utf-8", newline="") as fh:
                 for row in csv.DictReader(fh):
                     vid = (row.get("video_id") or "").strip()
-                    if vid and row.get("title"):
+                    if not vid:
+                        continue
+                    if row.get("title"):
                         titles.setdefault(vid, row["title"].strip())
+                    if row.get("upload_date"):
+                        titles_when.setdefault(vid, row["upload_date"].strip())
+                    if row.get("channel"):
+                        channels.setdefault(vid, row["channel"].strip())
         except OSError:
             continue
     return titles
@@ -297,9 +361,23 @@ def build(base: str) -> dict:
     snap["folderColor"] = FOLDER_COLOR
     snap["runs"] = []
     snap["diffs"] = collect_note_diffs(base, snap["files"])
-    snap["videos"], snap["videosOmitted"] = collect_video_diffs(
-        base, wl, load_titles())
-    snap["attrib"] = collect_attribution(base, snap["files"])
+    titles = load_titles()
+    snap["videos"], snap["videosOmitted"] = collect_video_diffs(base, wl, titles)
+    chain = {v["v"] for v in snap["videos"]}
+
+    # the supervised reads — real work with no per-video commit to blame
+    sup = collect_supervised(base, titles, chain)
+    meta = {r["video"]: r for r in wl}
+    for vid, paths in sorted(sup.items(), key=lambda kv: -len(kv[1])):
+        row = meta.get(vid, {})
+        snap["videos"].append({
+            "v": vid, "sha": "", "when": titles_when.get(vid, ""), "msg": "",
+            "ch": row.get("channel", "") or channels.get(vid, ""),
+            "cls": row.get("cls", ""), "depth": row.get("depth", ""),
+            "result": row.get("result", ""), "title": titles.get(vid, ""),
+            "files": [], "add": 0, "rem": 0, "dropped": 0, "supervised": True})
+    snap["attrib"] = collect_attribution(base, snap["files"],
+                                         supervised=_by_path(sup))
     snap["layout"] = layout_graph(snap["files"])
     # Length watch. An over-long note is where an autonomous writer stops
     # being able to see the doctrine it should reconcile against, so the
@@ -357,7 +435,7 @@ HTML = r"""<title>Bight Watch</title>
   --muted:#697f85; --hair:rgba(19,34,39,.14);
   --accent:#0f7d8a; --accent-ink:#0b626d;
   --good:#177a2f; --serious:#b2531f; --critical:#b03030; --pend:#c3cfd1;
-  --ring:rgba(19,34,39,.28);
+  --ring:rgba(19,34,39,.28); --noteb:rgba(178,83,31,.16);
   --shadow:0 1px 2px rgba(0,0,0,.06),0 6px 20px rgba(0,0,0,.07);
   --vig:rgba(210,222,222,.5);
   --display:"Barlow Condensed",system-ui,sans-serif;
@@ -372,7 +450,7 @@ HTML = r"""<title>Bight Watch</title>
     --muted:#6E8288; --hair:rgba(217,228,230,.13);
     --accent:#3FB4C1; --accent-ink:#63C5D0;
     --good:#21b421; --serious:#ec835a; --critical:#e05252; --pend:#33454B;
-    --ring:rgba(99,197,208,.34);
+    --ring:rgba(99,197,208,.34); --noteb:rgba(214,132,74,.20);
     --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.35);
     --vig:rgba(4,10,12,.55);
     color-scheme:dark;
@@ -383,7 +461,7 @@ HTML = r"""<title>Bight Watch</title>
   --muted:#6E8288; --hair:rgba(217,228,230,.13);
   --accent:#3FB4C1; --accent-ink:#63C5D0;
   --good:#21b421; --serious:#ec835a; --critical:#e05252; --pend:#33454B;
-  --ring:rgba(99,197,208,.34);
+  --ring:rgba(99,197,208,.34); --noteb:rgba(214,132,74,.20);
   --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.35);
   --vig:rgba(4,10,12,.55);
   color-scheme:dark;
@@ -520,6 +598,39 @@ main{flex:1;display:flex;min-height:0}
              10px 0 0 color-mix(in srgb,var(--accent) 26%,transparent)}
 .darticle.focus ul:has(.mine){opacity:1}
 .darticle.focus ul:has(.mine) li:not(.mine){opacity:.42}
+
+/* review notes — the reviewer's half of the surface */
+.darticle.focus .mine{cursor:pointer}
+.darticle .mine.noted{box-shadow:-10px 0 0 var(--noteb),10px 0 0 var(--noteb),
+  inset 3px 0 0 var(--serious)}
+.mine .flag{float:right;margin-left:8px;font-size:11px;font-family:var(--mono);
+  color:var(--serious);user-select:none}
+.mine .flag.up{color:var(--good)}
+.notebox{position:fixed;z-index:70;width:min(400px,92vw);background:var(--panel);
+  border:1px solid var(--hair);border-radius:12px;box-shadow:var(--shadow);padding:13px 14px}
+.notebox[hidden]{display:none}
+.notebox h3{margin:0 0 4px;font-size:13px;font-weight:700}
+.notebox .quo{font-size:11.5px;color:var(--muted);margin:0 0 10px;max-height:64px;overflow:hidden}
+.notebox textarea{width:100%;min-height:74px;resize:vertical;background:var(--panel2);
+  border:1px solid var(--hair);border-radius:8px;padding:8px 9px;font:13px var(--sans);
+  color:var(--ink)}
+.rate{display:flex;gap:7px;margin:9px 0}
+.rate button{flex:1;background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);
+  border-radius:8px;padding:6px;font-size:13px;font-weight:600}
+.rate button[aria-pressed="true"]{color:#fff}
+.rate button.up[aria-pressed="true"]{background:var(--good);border-color:var(--good)}
+.rate button.down[aria-pressed="true"]{background:var(--critical);border-color:var(--critical)}
+.nb-act{display:flex;gap:7px;justify-content:flex-end;margin-top:4px}
+.nb-act button{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);
+  border-radius:8px;padding:6px 12px;font-size:12.5px;font-weight:600}
+.nb-act .save{background:var(--accent);border-color:var(--accent);color:#fff}
+.nb-act .del{color:var(--critical)}
+.expbox{width:100%;min-height:340px;resize:vertical;background:var(--panel2);
+  border:1px solid var(--hair);border-radius:8px;padding:10px;font:12px var(--mono);
+  color:var(--ink);white-space:pre;overflow-wrap:normal;overflow-x:auto}
+.warn{background:color-mix(in srgb,var(--serious) 14%,transparent);
+  border:1px solid color-mix(in srgb,var(--serious) 45%,transparent);
+  border-radius:8px;padding:8px 10px;font-size:12px;margin:0 0 10px}
 
 /* diffs — the point of the whole screen: what actually changed */
 .dfile{border:1px solid var(--hair);border-radius:10px;margin:0 0 12px;overflow:hidden}
@@ -661,12 +772,29 @@ main{flex:1;display:flex;min-height:0}
       <div class="card"><h2>On deck</h2><div id="upnext" class="mut"></div></div>
       <div class="card"><h2>Activity<span class="sp"></span><span class="sub" id="feedsub"></span></h2>
         <div id="feed"></div></div>
+      <div class="card"><h2>Review notes<span class="sp"></span><span class="sub" id="notesub"></span></h2>
+        <div id="noteslist" class="mut"></div>
+        <button class="seemore" id="seenotes">Export my notes →</button></div>
       <div class="card" id="sizecard" hidden><h2>Length watch<span class="sp"></span><span class="sub" id="sizesub"></span></h2>
         <div id="sizes"></div></div>
       <div class="card"><h2>Escalations<span class="sp"></span><span class="sub" id="escsub"></span></h2>
         <div id="escs" class="mut"></div></div>
     </aside>
   </main>
+  <div class="notebox" id="notebox" hidden>
+    <h3 id="nbtitle">Note on this passage</h3>
+    <p class="quo" id="nbquote"></p>
+    <div class="rate">
+      <button class="up" id="nbup" aria-pressed="false">👍 Looks right</button>
+      <button class="down" id="nbdown" aria-pressed="false">👎 Wrong / check</button>
+    </div>
+    <textarea id="nbtext" placeholder="What's wrong, or what should it say instead?"></textarea>
+    <div class="nb-act">
+      <button class="del" id="nbdel">Delete</button>
+      <button id="nbcancel">Cancel</button>
+      <button class="save" id="nbsave">Save</button>
+    </div>
+  </div>
 </div>
 <script id="snap" type="application/json">__SNAP__</script>
 <script>
@@ -814,7 +942,8 @@ function mdToHtml(src,marks){
       ?`<a href="#" data-nav="${esc(h)}">${t}</a>`:`<a href="${esc(h)}" target="_blank" rel="noopener">${t}</a>`);
   // who wrote lines [a,b)? blank-only blocks stay unattributed
   const who=(a,b)=>{if(!marks)return '';const set=[];
-    for(let k=a;k<b;k++){const v=marks[k];if(v&&!set.includes(v)&&L[k]&&L[k].trim())set.push(v);}
+    for(let k=a;k<b;k++){const v=marks[k];if(!v||!L[k]||!L[k].trim())continue;
+      v.split(' ').forEach(one=>{if(one&&!set.includes(one))set.push(one);});}
     return set.length?` data-v="${esc(set.join(' '))}"`:'';};
   const put=(open,rest,a,b)=>o.push(open.slice(0,-1)+who(a,b)+'>'+rest);
   while(i<L.length){const l=L[i],st=i;
@@ -882,6 +1011,7 @@ function diffFile(path,d,openFirst){
 /* The panel is a stack. Back returns to wherever you came from. */
 let back=null;
 function show(o){
+  if(typeof nb!=='undefined'&&nb)nb.hidden=true;
   document.getElementById('dtitle').textContent=o.title;
   document.getElementById('dpath').textContent=o.path||'';
   document.getElementById('dmeta').innerHTML=o.meta||'';
@@ -922,7 +1052,8 @@ function open(path,tab,from,vid){
       `<button class="linkbtn" id="hvid">${esc(x?(x.title||activeVid):activeVid)}</button> wrote in this page</span>`+
       `<span class="sp" style="flex:1"></span><span class="hnav"><button id="hprev" title="Previous change">↑</button>`+
       `<span id="hcount" class="mono"></span><button id="hnext" title="Next change">↓</button></span>`+
-      `<button class="linkbtn" id="hclear">show all</button></div>`;
+      `<button class="linkbtn" id="hclear">show all</button>`+
+      `<span class="mut" style="flex-basis:100%;font-size:11px">Click any highlighted passage to rate it and leave a note.</span></div>`;
   }
   if(tab==='diff'){
     html=isNew
@@ -944,7 +1075,10 @@ function open(path,tab,from,vid){
 function wireHighlight(path){
   const hits=[...body.querySelectorAll('[data-v]')]
     .filter(el=>el.dataset.v.split(' ').includes(activeVid));
-  hits.forEach(el=>el.classList.add('mine'));
+  hits.forEach(el=>{el.classList.add('mine');
+    el.onclick=ev=>{if(ev.target.closest('a'))return;   // links still navigate
+      ev.stopPropagation();openNote(el,path,activeVid);};});
+  markNoted();
   let at=-1;
   const cnt=document.getElementById('hcount');
   const paint=()=>{cnt.textContent=hits.length?`${Math.max(at,0)+1}/${hits.length}`:'0';};
@@ -967,10 +1101,13 @@ function openVideo(v,from){
   activeVid=null;
   const tags=[x.ch,x.cls,x.depth].filter(Boolean)
     .map(t=>`<span class="tag">${esc(t)}</span>`).join('')+
-    `<span class="tag">${x.files.length} page${x.files.length===1?'':'s'}</span>`+
-    `<span class="tag"><span class="plus">+${x.add}</span> <span class="minus">−${x.rem}</span></span>`;
+    (x.supervised
+      ? `<span class="tag">supervised pass</span>`
+      : `<span class="tag">${x.files.length} page${x.files.length===1?'':'s'}</span>`+
+        `<span class="tag"><span class="plus">+${x.add}</span> <span class="minus">−${x.rem}</span></span>`);
   const res=(x.result||'').split(' / ').slice(1).join(' / ')||x.result||'';
-  const head=`<p class="mut" style="margin:0 0 6px">${esc(x.when.slice(0,10))} · commit <code>${esc(x.sha)}</code> · `+
+  const head=`<p class="mut" style="margin:0 0 6px">${esc((x.when||'').slice(0,10))}`+
+    (x.sha?` · commit <code>${esc(x.sha)}</code>`:' · supervised pass')+` · `+
     `<a href="https://www.youtube.com/watch?v=${encodeURIComponent(v)}" target="_blank" rel="noopener">watch on YouTube</a></p>`+
     (res?`<p style="margin:0 0 14px">${esc(res)}</p>`:'');
 
@@ -978,8 +1115,10 @@ function openVideo(v,from){
      up in place. `wrote` counts lines still standing in the live note, so a
      page a later video overwrote shows the smaller number honestly. */
   const wrote=x.wrote||[];
+  const sup=!!x.supervised;
   const live=wrote.length
     ? `<div class="ghead">Read what it wrote, in the article</div>`+
+      (sup?`<p class="mut" style="margin:-2px 0 8px">Read in a supervised pass — several videos went in per commit, so the anchor is the passage that cites this video rather than a per-line blame.</p>`:'')+
       wrote.map(([path,n])=>{const f=byPath.get(path);
         return `<button class="vrow" data-open="${esc(path)}">`+
           `<span class="vt">${esc(f?f.title:path)}</span>`+
@@ -994,7 +1133,7 @@ function openVideo(v,from){
                                         f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='-').length,0)];
         return diffFile(f.path,{hunks:f.hunks,add:ad,rem:rm,dropped:0},false);}).join('')
       +(x.dropped?`<div class="dnote">${x.dropped.toLocaleString()} more changed lines not shown.</div>`:'')
-    : `<p class="mut">No page changes recorded for this video — it was logged as skipped or yielded nothing.</p>`;
+    : (sup?'':`<p class="mut">No page changes recorded for this video — it was logged as skipped or yielded nothing.</p>`);
 
   show({title:x.title||v,path:v,meta:tags,html:head+live+raw,
         back:back||{label:'All videos',go:()=>openVideoList()}});
@@ -1011,8 +1150,11 @@ function openVideoList(){
   back=null;
   const rows=videos.map(x=>`<button class="vrow" data-v="${esc(x.v)}">`+
     `<span class="vt">${esc(x.title||x.v)}</span>`+
-    `<span class="vm">${esc(x.ch||'')} · ${esc(x.when.slice(0,10))} · ${x.files.length} page${x.files.length===1?'':'s'} `+
-    `<span class="plus">+${x.add}</span> <span class="minus">−${x.rem}</span></span></button>`).join('');
+    `<span class="vm">${esc(x.ch||'')} · ${esc((x.when||'').slice(0,10))} · `+
+    (x.supervised
+      ? `${(x.wrote||[]).length} page${(x.wrote||[]).length===1?'':'s'} <span class="mut">supervised</span>`
+      : `${x.files.length} page${x.files.length===1?'':'s'} <span class="plus">+${x.add}</span> <span class="minus">−${x.rem}</span>`)+
+    `</span></button>`).join('');
   const omitted=D.videosOmitted?`<div class="dnote">${D.videosOmitted} earlier videos are not listed here — the page keeps diffs for the ${videos.length} most recent.</div>`:'';
   show({title:'Videos read',path:`${videos.length} with a recorded extraction`,
         html:`<input class="filt" id="vfilt" placeholder="Filter by title, channel or id…">`+
@@ -1051,12 +1193,126 @@ function openPageList(){
     open(b.dataset.page,diffs[b.dataset.page]?'diff':'page',{label:'All pages',go:()=>openPageList()}));
 }
 
+/* ---- review notes -------------------------------------------------------
+   Click a highlighted passage, rate it, say what is wrong. The deliverable is
+   the markdown export at the end of the batch; storage is only so a session
+   is not lost to a reload. A sandboxed viewer may refuse localStorage, so it
+   degrades to memory and says so rather than pretending to have saved. */
+const NKEY='bight-watch-notes-v1';
+let NOTES={}, storageOK=true;
+try{const raw=localStorage.getItem(NKEY); if(raw)NOTES=JSON.parse(raw);}
+catch(e){storageOK=false;}
+function saveNotes(){
+  try{localStorage.setItem(NKEY,JSON.stringify(NOTES));}catch(e){storageOK=false;}
+  paintNotes();
+}
+const noteKey=(path,vid,text)=>`${path}::${vid||'-'}::${(text||'').trim().slice(0,90)}`;
+function paintNotes(){
+  const all=Object.values(NOTES);
+  document.getElementById('notesub').textContent=
+    all.length?`${all.length} · ${all.filter(n=>n.rate==='down').length} flagged`:'none yet';
+  document.getElementById('noteslist').innerHTML=all.length
+    ? all.slice(-8).reverse().map(n=>
+        `<button class="vrow" data-note="${esc(n.key)}"><span class="vt">`+
+        `${n.rate==='down'?'<span class="minus">✗</span> ':n.rate==='up'?'<span class="plus">✓</span> ':''}`+
+        `${esc((n.comment||'(no comment)').slice(0,64))}</span>`+
+        `<span class="vm">${esc(n.path)}</span></button>`).join('')
+    : 'Open a video, click a highlighted passage, and say what you think of it.';
+  document.querySelectorAll('#noteslist [data-note]').forEach(b=>b.onclick=()=>{
+    const n=NOTES[b.dataset.note]; if(n)open(n.path,'page',null,n.vid||null);});
+}
+
+const nb=document.getElementById('notebox');
+let nbKey=null;
+function openNote(el,path,vid){
+  const text=el.innerText.replace(/\s+/g,' ').trim();
+  nbKey=noteKey(path,vid,text);
+  const ex=NOTES[nbKey]||{};
+  document.getElementById('nbquote').textContent='“'+text.slice(0,220)+(text.length>220?'…':'')+'”';
+  document.getElementById('nbtext').value=ex.comment||'';
+  document.getElementById('nbup').setAttribute('aria-pressed',String(ex.rate==='up'));
+  document.getElementById('nbdown').setAttribute('aria-pressed',String(ex.rate==='down'));
+  nb.dataset.nbpath=path; nb.dataset.nbvid=vid||''; nb.dataset.nbquote=text;
+  const r=el.getBoundingClientRect();
+  nb.hidden=false;
+  const top=Math.min(Math.max(8,r.top),innerHeight-nb.offsetHeight-8);
+  nb.style.top=top+'px';
+  nb.style.left=Math.max(8,Math.min(r.left-420,innerWidth-nb.offsetWidth-8))+'px';
+  document.getElementById('nbtext').focus();
+}
+document.getElementById('nbup').onclick=e=>{const b=e.currentTarget,on=b.getAttribute('aria-pressed')==='true';
+  b.setAttribute('aria-pressed',String(!on));document.getElementById('nbdown').setAttribute('aria-pressed','false');};
+document.getElementById('nbdown').onclick=e=>{const b=e.currentTarget,on=b.getAttribute('aria-pressed')==='true';
+  b.setAttribute('aria-pressed',String(!on));document.getElementById('nbup').setAttribute('aria-pressed','false');};
+document.getElementById('nbcancel').onclick=()=>{nb.hidden=true;};
+document.getElementById('nbdel').onclick=()=>{delete NOTES[nbKey];saveNotes();nb.hidden=true;markNoted();};
+document.getElementById('nbsave').onclick=()=>{
+  const comment=document.getElementById('nbtext').value.trim();
+  const rate=document.getElementById('nbup').getAttribute('aria-pressed')==='true'?'up'
+    :document.getElementById('nbdown').getAttribute('aria-pressed')==='true'?'down':'';
+  if(!comment&&!rate){delete NOTES[nbKey];}
+  else NOTES[nbKey]={key:nbKey,path:nb.dataset.nbpath,vid:nb.dataset.nbvid,
+    quote:nb.dataset.nbquote,comment:comment,rate:rate,at:new Date().toISOString()};
+  saveNotes();nb.hidden=true;markNoted();};
+addEventListener('keydown',e=>{if(e.key==='Escape'&&!nb.hidden){nb.hidden=true;e.stopPropagation();}});
+
+/* show which passages already carry a note */
+function markNoted(){
+  const path=document.getElementById('dpath').textContent;
+  body.querySelectorAll('.mine').forEach(el=>{
+    el.querySelectorAll('.flag').forEach(f=>f.remove());
+    const text=el.innerText.replace(/\s+/g,' ').trim();
+    const n=NOTES[noteKey(path,activeVid,text)];
+    el.classList.toggle('noted',!!n);
+    if(n&&n.rate){const f=document.createElement('span');
+      f.className='flag'+(n.rate==='up'?' up':'');f.textContent=n.rate==='up'?'✓ noted':'✗ flagged';
+      el.prepend(f);}});
+}
+
+/* the export — the thing that actually goes back to the batch */
+function exportNotes(){
+  back=null;
+  const all=Object.values(NOTES).sort((a,b)=>(a.path+a.vid).localeCompare(b.path+b.vid));
+  let md=`# Bight Watch review notes\n\nSnapshot ${D.generatedAt} · ${all.length} note`+
+    `${all.length===1?'':'s'} · ${all.filter(n=>n.rate==='down').length} flagged wrong\n`;
+  let cur='';
+  all.forEach(n=>{
+    if(n.path!==cur){cur=n.path;md+=`\n## ${n.path}\n`;}
+    const vx=byVideo.get(n.vid);
+    md+=`\n- **${n.rate==='down'?'WRONG':n.rate==='up'?'OK':'NOTE'}**`+
+        (n.vid?` · from \`${n.vid}\`${vx&&vx.title?` (${vx.title})`:''}`:'')+`\n`+
+        `  - passage: "${n.quote.slice(0,300)}${n.quote.length>300?'…':''}"\n`+
+        (n.comment?`  - cameron: ${n.comment}\n`:'');});
+  if(!all.length)md+='\n(no notes yet)\n';
+  show({title:'Review notes',path:`${all.length} to hand back`,
+    html:(storageOK?'':`<div class="warn">This viewer blocked local storage, so notes live only until you close the tab. Copy them out before you go.</div>`)+
+      `<p class="mut">Copy this into a text file and hand it back at the end of the batch.</p>`+
+      `<div class="nb-act" style="justify-content:flex-start;margin:0 0 9px">`+
+      `<button class="save" id="copyall">Copy all</button>`+
+      `<button id="clearall" class="del">Clear notes</button>`+
+      `<span class="mut" id="copied" style="align-self:center"></span></div>`+
+      `<textarea class="expbox" id="expbox" spellcheck="false"></textarea>`});
+  document.getElementById('expbox').value=md;
+  document.getElementById('copyall').onclick=async()=>{
+    const t=document.getElementById('expbox');t.select();
+    let ok=false;
+    try{await navigator.clipboard.writeText(t.value);ok=true;}
+    catch(e){try{ok=document.execCommand('copy');}catch(e2){}}
+    document.getElementById('copied').textContent=ok?'copied':'select the box and copy manually';};
+  document.getElementById('clearall').onclick=()=>{
+    if(!confirm('Delete all review notes? This cannot be undone.'))return;
+    NOTES={};saveNotes();exportNotes();};
+}
+document.getElementById('seenotes').onclick=()=>exportNotes();
+paintNotes();
+
 document.getElementById('seevideos').onclick=()=>openVideoList();
 document.getElementById('seevideos2').onclick=()=>openVideoList();
 document.getElementById('seepages').onclick=()=>openPageList();
-document.getElementById('dclose').onclick=()=>det.classList.remove('open');
+document.getElementById('dclose').onclick=()=>{det.classList.remove('open');nb.hidden=true;};
 addEventListener('keydown',e=>{if(e.key==='Escape')det.classList.remove('open');});
 document.addEventListener('click',e=>{
+  if(!e.target.closest('.rail'))return;   // these hooks belong to the rail only
   const v=e.target.closest('[data-vid]');
   if(v&&byVideo.has(v.dataset.vid)){openVideo(v.dataset.vid,null);return;}
   const b=e.target.closest('[data-p]');

@@ -2965,3 +2965,47 @@ knowing why these changed mid-run.
   gitignored. `publish-bight-watch.yml` on `main` rebuilds it hourly for
   GitHub Pages; the build job passes and the deploy job is blocked on the
   repo's Pages setting (Settings -> Pages -> Source: GitHub Actions).
+
+## Batch 3 — corrections queued for after the run (Cameron, 2026-08-18)
+
+Deferred deliberately: Cameron's call is that these land **after** the
+autonomous run finishes, not mid-run, so the chain is not editing under a
+moving structure. Recorded here so they are not lost.
+
+### C-1 — HookUp Baits are TUBE baits, not glide baits
+
+**Cameron (2026-08-18), correcting the KB:** *"hookup baits are not glide
+baits, they are tube baits. Tube baits are a type of soft plastic where the
+lead head is inside of the soft plastic. Tube baits are a staple in socal and
+definitely deserve their own section."*
+
+This is a misclassification, not a nuance — the whole of
+`techniques/glide-baits.md` (456 lines) is built on HookUp Baits seminars
+(`5Oh3IPIC5g4` and a second HookUp Baits source), so the note's subject and
+its name disagree with the SoCal lexicon.
+
+Scope when it runs:
+
+- **Create `lures/tube-baits.md`** (or `techniques/`, decided at the time) as
+  its own note: the class definition Cameron gives — a soft plastic with the
+  **lead head inside** the body — plus why it is a SoCal staple. It gets the
+  HookUp Baits material that is genuinely about tube baits.
+- **Re-home `techniques/glide-baits.md`.** Every HookUp Baits section moves to
+  the tube-bait note. Whatever real glide-bait content remains (a glide bait
+  is a different lure — jointed hard bait, side-to-side glide) either stays in
+  a slimmed note or the note is retired.
+- **15 notes link to `glide-baits.md`** and must be repointed:
+  `tackle/gear-classes.md`, `techniques/` (surface-iron, swimbaits, yo-yo-iron,
+  trolling, README), and the routers `skipjack-tuna`, `dorado`,
+  `california-halibut`, `rockfish-lingcod`, `yellowfin-tuna`, `sand-bass`,
+  `calico-bass`, `sheephead`, `yellowtail`. Several carry the phrase "glide
+  bait" inside `Situations → techniques` rows, so the row text changes too,
+  not just the link target.
+- **Check the gear-class lexicon** — `tackle/gear-classes.md` needs a tube-bait
+  entry, since the class term is what routers resolve against.
+- The confidence treatment does not change: HookUp Baits material is
+  co-owner-presented product content and stays `low` per the sponsored-claim
+  rule.
+
+**Note:** the KB currently has **zero** occurrences of "tube bait" outside
+transcripts, so this is a genuine coverage gap as well as a naming error.
