@@ -424,7 +424,6 @@ the bluefin nearby become more cooperative too.**
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [October](../seasonal/october.md)
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
-- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)

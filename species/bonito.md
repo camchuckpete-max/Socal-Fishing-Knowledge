@@ -162,7 +162,6 @@ rather than a dedicated technique study.
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
-- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)

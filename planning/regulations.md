@@ -19,6 +19,10 @@ it."**
 > before you keep a fish. This knowledgebase is not an authority on fishing law
 > and nothing here is legal advice.
 
+**Species names below are deliberately unlinked.** Cross-links from this note
+into the species routers are a separate step, held until the current extraction
+batch finishes so the two don't collide.
+
 **Jurisdiction first, always.** There is no such thing as "the limit" without a
 country attached. Resolve where the angler is fishing before reading a figure
 out of this note — a California limit does not apply at Cedros, and a Mexican
@@ -42,23 +46,23 @@ the foremost dorsal spine to the longest tip of tail).
 
 | Species | Size | Daily bag | Season / note |
 | --- | --- | --- | --- |
-| [Yellowtail](../species/yellowtail.md) | 24 in FL | 10, of which no more than 5 may be under 24 in FL | year round |
-| [White seabass](../species/white-seabass.md) | 28 in TL (21½ in alt) | 3 | **1 fish only** south of Pt Conception, Mar 15 – Jun 15 |
-| [California barracuda](../species/barracuda.md) | 28 in TL (17 in alt) | 10, within the 20-fish general limit | year round |
-| [Kelp / barred sand / spotted sand bass](../species/calico-bass.md) | 14 in TL (10 in alt) | 5 all species combined, of which **no more than 4 barred sand bass** | year round |
-| [Pacific bonito](../species/bonito.md) | 24 in FL or 5 lb | 10, of which 5 may be under the size | year round |
-| [California halibut](../species/california-halibut.md) | 22 in TL | 5 south of Pt Sur | year round |
-| [California sheephead](../species/sheephead.md) | 12 in TL | 2 | **boat-based: Mar 1 – Dec 31**; shore and spearfishing year round |
+| Yellowtail | 24 in FL | 10, of which no more than 5 may be under 24 in FL | year round |
+| White seabass | 28 in TL (21½ in alt) | 3 | **1 fish only** south of Pt Conception, Mar 15 – Jun 15 |
+| California barracuda | 28 in TL (17 in alt) | 10, within the 20-fish general limit | year round |
+| Kelp / barred sand / spotted sand bass | 14 in TL (10 in alt) | 5 all species combined, of which **no more than 4 barred sand bass** | year round |
+| Pacific bonito | 24 in FL or 5 lb | 10, of which 5 may be under the size | year round |
+| California halibut | 22 in TL | 5 south of Pt Sur | year round |
+| California sheephead | 12 in TL | 2 | **boat-based: Mar 1 – Dec 31**; shore and spearfishing year round |
 | California scorpionfish (sculpin) | none | 5 | year round |
-| [Pacific bluefin tuna](../species/bluefin-tuna.md) | none | 2, **in addition to** the 20-fish general limit | year round |
-| [Yellowfin](../species/yellowfin-tuna.md) and bigeye tuna | none | 10 | year round |
-| [Skipjack tuna](../species/skipjack-tuna.md) | none | none | year round |
+| Pacific bluefin tuna | none | 2, **in addition to** the 20-fish general limit | year round |
+| Yellowfin and bigeye tuna | none | 10 | year round |
+| Skipjack tuna | none | none | year round |
 | Albacore | none | 10 south of Pt Conception | year round |
-| [Dorado](../species/dorado.md) | none | 10, within the 20-fish general limit | year round |
+| Dorado | none | 10, within the 20-fish general limit | year round |
 | Mako, thresher and blue shark | none | 2 of each species | year round |
-| [Swordfish](../species/swordfish.md) | none | 2 | year round |
-| [Ocean whitefish](../species/ocean-whitefish.md) | none | 10, within the 20-fish general limit | year round |
-| [Rockfish, lingcod](../species/rockfish-lingcod.md), cabezon, greenling | — | — | see the CDFW **Recreational Groundfish** tables: limits, sub-limits and depth constraints vary by management area and change in-season |
+| Swordfish | none | 2 | year round |
+| Ocean whitefish | none | 10, within the 20-fish general limit | year round |
+| Rockfish, lingcod, cabezon, greenling | — | — | see the CDFW **Recreational Groundfish** tables: limits, sub-limits and depth constraints vary by management area and change in-season |
 
 **The general limit that governs the rest:** no more than **20 finfish in
 combination of all species**, with not more than **10 of any one species**.
@@ -75,7 +79,7 @@ check the current booklet.
   fishing from a public pier** in ocean or bay waters.
 - **Descending device.** One **must be available for immediate use on any vessel
   taking or possessing groundfish**. This is equipment law, not a courtesy. See
-  [releasing fish from depth](../techniques/rockfish-deep-dropping.md#releasing-fish-from-depth-descender).
+  releasing fish from depth.
 - **Marine protected areas.** Allowed take inside an MPA is defined **per area
   and per method** — two adjacent areas can differ on whether a species may be
   taken by hook and line at all. Check the specific area before fishing it.
@@ -92,9 +96,9 @@ below and treat this section as a starting point, not an authority.
 | --- | --- |
 | Daily total, per angler | **10 fish** |
 | Any one species | no more than **5** |
-| [Bluefin tuna](../species/bluefin-tuna.md) | no more than **2** — the pair counts as 5 |
-| [Dorado](../species/dorado.md), roosterfish, tarpon | no more than **2** |
-| [Marlin](../species/striped-marlin.md), sailfish, [swordfish](../species/swordfish.md), shark | no more than **1** |
+| Bluefin tuna | no more than **2** — the pair counts as 5 |
+| Dorado, roosterfish, tarpon | no more than **2** |
+| Marlin, sailfish, swordfish, shark | no more than **1** |
 | Bluefin, per trip | **6 maximum**, regardless of trip length |
 
 A Mexican **sportfishing licence is required for every person aboard**,
@@ -131,6 +135,17 @@ Layered, because the layers change at different rates:
 
 Sourced `cameron` — high confidence per the
 [registry rubric](../sources/source-registry.md) — and corroborated by search.
+
+**A note on source tiers.** The California figures come from a published
+authority, not a channel: the *2026 California Ocean Sport Fishing Regulations*,
+last updated 2026-07-17, supplied by Cameron. A regulatory figure from a
+government booklet and one remembered by a captain mid-video are not the same
+kind of claim, and the registry's channel rubric has no way to say so. On
+**regulatory questions only**, the booklet outranks any on-camera recollection;
+it says nothing about fishing doctrine, where the captains are the experts and
+the booklet is silent. A `primary-source` row belongs in
+[source-registry](../sources/source-registry.md) — deferred with the species
+links so the current batch isn't disturbed.
 Recorded plainly: the official CONAPESCA PDF returned 403, the FAO mirror would
 not parse, and the most operationally accurate public source located was a
 long-range boat's own limits page, which matched Cameron's account closely. A
@@ -139,7 +154,22 @@ reader crossing a border should confirm rather than rely on this.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Barracuda](../species/barracuda.md)
+- [California Halibut](../species/california-halibut.md)
+- [California Sheephead](../species/sheephead.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
-- [Source Registry](../sources/source-registry.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Pacific Bonito](../species/bonito.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Striped Marlin](../species/striped-marlin.md)
+- [Swordfish (Broadbill)](../species/swordfish.md)
+- [White Seabass](../species/white-seabass.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

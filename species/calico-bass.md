@@ -588,7 +588,6 @@ present the outside stringers.
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)
-- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

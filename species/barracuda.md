@@ -117,7 +117,6 @@ dedicated program.
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
-- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

@@ -253,7 +253,6 @@ into the spot once the current read right.
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)
-- [Regulations — California and Mexico](../planning/regulations.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Surface Iron](../techniques/surface-iron.md)

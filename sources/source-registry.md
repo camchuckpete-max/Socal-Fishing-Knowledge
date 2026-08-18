@@ -26,24 +26,6 @@ to trust, it does not change note attribution.
 | `cesar` | Cesar — surname not in corpus; captions render "Caesar from Phoenix rods" (fill in surname when verifiable from video descriptions) | Dirty Hookers (F7jLrt2j2X8, 48ZFXnCTTQE seminars; U4zifdssSes, unARAuTgF_A assist hooks; EmZO8QiOfik cabrilla; M8hOYQ_6rSg Sea of Cortez tackle) | rod-company rep; 25+ yrs Sea of Cortez cabrilla | promoted by Cameron 2026-08-12 WITH CAVEAT: rod-company rep — mechanism/parameter doctrine qualifies for `high` when repeated; product/model endorsements remain `low` per the sponsored-claim rule |
 | `crust-to-coast` | Crust to Coast (undergrad "Geology 5" oceanography lecture series; lecturer unnamed in captions) | Crust to Coast (UC4lyFLgi-ZqANz1m-zb2zrw) | oceanographic mechanism source | MECHANISM SOURCE ONLY (frame proposed 2026-08-13, approved with the batch-2 plan): eligible `high` for oceanographic mechanism feeding `conditions/` notes (upwelling/ENSO, tides, water column, nearshore processes, food web); NEVER fishing doctrine; NO Observed blocks |
 
-## Primary sources (not channels)
-
-A tier above the voices below. These are published authorities, not people
-recalling a rule on camera, and they are cited by document and revision date
-rather than by video id.
-
-| Key | Document | Used for | Notes |
-| --- | --- | --- | --- |
-| `cdfw-ocean-regs` | *California Ocean Sport Fishing Regulations*, CDFW — 2026 edition, last updated 2026-07-17 | the California half of [regulations](../planning/regulations.md) | supplied by Cameron 2026-08-18. Cite with the edition date; a figure read from it carries a `checked:` date. Supersedes any on-camera recollection of a California limit. |
-| `nom-017-pesc` | NOM-017-PESC-1994 (CONAPESCA), plus the separate 2015 bluefin measure | the Mexico half of [regulations](../planning/regulations.md) | base structure only. Official CONAPESCA PDF returned 403 and the FAO mirror would not parse; the operational detail is `cameron` plus long-range fleet practice, recorded as such in the note. |
-
-**Why the tier exists:** a regulatory figure from a published authority and a
-regulatory figure remembered by a captain mid-video are not the same kind of
-claim, and the channel rubric below has no way to say so. A primary source
-outranks every row beneath it **on regulatory questions only** — it says nothing
-about fishing doctrine, where the captains are the experts and the booklet is
-silent.
-
 **Channel note:** `BDOutdoors` as a *channel* is not blanket-`high` — only the
 registered named voices above are. A BD upload featuring an unregistered guest
 or a purely promotional product spot is `medium`/`low` per the rubric.

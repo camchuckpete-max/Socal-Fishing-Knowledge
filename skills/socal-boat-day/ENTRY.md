@@ -133,5 +133,6 @@ feature.
 - [Conditions Endpoints & Fallback Ladder](../../config/endpoints.md)
 - [Day-Plan Protocol](../../planning/day-plan-protocol.md)
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
+- [Regulations — California and Mexico](../../planning/regulations.md)
 - [Report Reading and Forecasting](../../planning/report-reading-and-forecasting.md)
 <!-- backlinks:end -->

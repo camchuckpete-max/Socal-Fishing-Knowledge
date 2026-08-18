@@ -99,6 +99,7 @@ date and a verify-current line in the same breath.
 - [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [Regulations — California and Mexico](regulations.md)
 - [Report Reading and Forecasting](report-reading-and-forecasting.md)
 - [Sea State](../conditions/sea-state.md)
 - [Search and Glassing](search-and-glassing.md)
