@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [casting, live-bait, underhand-cast, beginner, tight-quarters]
-sources: [0hQJxESLTm4]
+sources: [0hQJxESLTm4, 7iSGGb9ueAk]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -15,7 +15,9 @@ cast](surface-iron-casting.md) when you don't need the distance an overhead
 swing buys.
 
 (Armando, aboard the Searcher, SearcherSportfishing, `0hQJxESLTm4`,
-2020-08-06; unregistered channel — medium confidence.)
+2020-08-06; unregistered channel — medium confidence. A shorter, earlier tip
+from the same channel — SearcherSportfishing, "Tackle Tip Thursday Vol. 98,"
+`7iSGGb9ueAk`, 2020-05-07 — covers the same cast and is folded in below.)
 
 ## Reach for this when
 
@@ -40,6 +42,13 @@ With a lighter bait — the source's example is an anchovy fished on a small
 rubber-core sinker — the bait alone may not have enough weight to pull line
 smoothly off the reel. Pulling a bit of line off the spool by hand before the
 toss makes the cast easier.
+
+The earlier tip (SearcherSportfishing, `7iSGGb9ueAk`, 2020-05-07) describes
+the same pull-slack motion in general terms, not tied to a specific bait
+weight: rest one finger on the spool, use your pointer finger to pull some
+line off by hand, then lift the rod tip and guide the bait out. Its framing
+is that you don't need much distance on this cast when you're just getting
+bait out.
 
 ## Related
 
