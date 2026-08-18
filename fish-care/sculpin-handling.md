@@ -54,4 +54,5 @@ you were dead." (`ty8FtA3Y2bA`)
 
 - [Dehooking & Release Handling](dehooking-and-release.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 <!-- backlinks:end -->

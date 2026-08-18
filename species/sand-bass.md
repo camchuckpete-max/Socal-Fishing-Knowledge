@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8, LqW32NSkObY, XyKF34C5iB4]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8, LqW32NSkObY, XyKF34C5iB4, 7T6dIYqr3KI]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [nearshore-coast, bay-harbor, bank]
@@ -121,6 +121,7 @@ rocks.
 | Want to selectively upgrade average fish size (tournament limit-filling) | **Fish one oversized bait all day** — a 3 oz HookUp-style swimbait on 40 lb+ leader | Heavy glide-bait class, 40 lb+ | Deliberately trades bite count for size — "big bait, big fish" filters out anything under ~3 lb; see [glide baits](../techniques/glide-baits.md#rod-parabolic-bend-not-a-tip-only-bend) — ⚠ promotional seminar source, low confidence |
 | Fishing from a kayak/small craft near rock structure | Bait/bottom presentation off rock structure (e.g. a sardine near a rock pile) works from a kayak the same as a boat; see **[kayak bass fishing](../techniques/kayak-bass-fishing.md)** for platform-specific approach and navigation | bass class, sized to the boat/kayak | Tommy Ponce, Fisher Newb seminar, `LqW32NSkObY`, 2019-03-13; unregistered channel — medium confidence, single mention |
 | Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colors, booty spin, lit-structure targeting in a harbor | bass class, step up leader for abrasion | Full night program lives in the technique note; consistent with the full-moon-suppresses-the-daytime-bite pattern noted above |
+| No specific conditions given — a general "very effective" species-level claim, not a situational one | **[Slow-pitch jigging](../techniques/slow-pitch-jigging.md)** — fluttering fall worked on a soft parabolic rod | 250 g-class SPJ rod | SearcherSportfishing (`7T6dIYqr3KI`, 2021-04-01; unregistered channel — medium confidence) names sand bass, alongside sculpin/rockfish/lingcod, as species SPJ is "very effective" for; no conditions/scenario given beyond the species list itself — do not read "on structure"/"instead of dead-sticking" into this, the source doesn't say it |
 
 ## Gear summary (class terms)
 
@@ -171,6 +172,7 @@ rocks.
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)

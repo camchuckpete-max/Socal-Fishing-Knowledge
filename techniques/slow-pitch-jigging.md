@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez, sand-bass, calico-bass]
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -21,6 +21,15 @@ Execution only; species and situations are the reverse map in **Linked from**.
   will eat a fluttering jig.
 - [Rockfish and lingcod](../species/rockfish-lingcod.md) when you want to turn
   bottom fishing into sport fishing — bigger average fish on light gear.
+- **Also names [sand bass](../species/sand-bass.md) and
+  [sculpin](../fish-care/sculpin-handling.md) as small-to-medium fish SPJ is
+  "unbelievable fun and very effective" for, alongside rockfish/lingcod**
+  (SearcherSportfishing, `7T6dIYqr3KI`, "Tackle Tip Thursday Vol. 141," 2021-04-01;
+  unregistered channel — medium confidence). No conditions/situation given
+  beyond the species list itself. The same source separately names
+  [calico bass](../species/calico-bass.md) — not part of the "very effective"
+  list, but the source's second-biggest-ever personal catch on SPJ gear; see
+  that note for the observed catch.
 - Contrast with [knife/speed jigging](knife-jigging.md): SPJ works the fall;
   speed jigging rips a slender jig up through the column to imitate a *fleeing*
   bait. Different jigs, different strikes.
@@ -190,6 +199,22 @@ Execution only; species and situations are the reverse map in **Linked from**.
     quickly") — point at the fish and crank instead. Higher-end blanks add
     internal reinforcement (branded on camera as "High Power X") specifically
     to resist that twisting/torquing failure mode under fight load.
+  - **A third, lighter two-outfit example, corroborating the 250/450 g class
+    range (SearcherSportfishing, `7T6dIYqr3KI`, 2021-04-01; unregistered
+    channel — medium confidence):** a **250 g-rated rod** paired with a **Penn
+    Fathom 8 star-drag** conventional (a compact/small reel) spooled with
+    **300 yd of 30 lb braid**, matched to a **250 g jig**, was called capable
+    of landing a **25 lb yellowtail** with no trouble if hooked. A **450
+    g-rated rod** paired with a Penn Fathom Extra Narrow two-speed conventional
+    ran a **280 g (~10 oz) jig**. Both jigs carried Owner dual "dancing
+    stinger" assists front and back for yellowtail/tuna; **for rockfish, the
+    tail hook was pulled off entirely to stop it from snagging bottom** — a
+    different route to the same goal as the single-top-hook-when-bouncing-bottom
+    rule already logged below, not a conflict with it. Also flags a
+    **rod-blank storage/transport accessory**: a padded lure wrap around the
+    jig to keep it from rattling loose and denting the exposed carbon blank in
+    transit — relevant given this note's own thin/high-carbon blank
+    fragility above.
 - **Line — thin braid is the whole point.** No stretch for action, and thin
   diameter so the jig **falls straight down**; even a jump from ~20 lb to 30/40/50
   lb braid adds scope and blows the jig sideways. Deeper water → thinner braid.
@@ -333,7 +358,9 @@ terms until it lands.
 ## Linked from
 
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
+- [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)

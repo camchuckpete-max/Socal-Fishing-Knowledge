@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s, 7T6dIYqr3KI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -637,6 +637,13 @@ release *ethic* and the regional policies are below.
   before release — the fizzing question was raised on camera but not
   demonstrated. A general release-handling data point, not new doctrine.
   Unregistered channel, multi-speaker — medium confidence.
+- **Observed** (SearcherSportfishing, "Tackle Tip Thursday Vol. 141," upload
+  2021-04-01, `7T6dIYqr3KI`; unregistered channel — medium confidence): the
+  speaker states he caught "probably the second biggest if not the biggest"
+  calico bass of his own fishing history on [slow-pitch jigging](../techniques/slow-pitch-jigging.md)
+  gear, dated only as "a couple of months ago" relative to the 2021-04-01
+  upload (so roughly January–February 2021) — no location given, and no
+  reason offered for why SPJ produced the fish. An outcome, not doctrine.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -668,6 +675,7 @@ release *ethic* and the regional policies are below.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
