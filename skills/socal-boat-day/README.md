@@ -14,6 +14,18 @@ edited once it's been sent to someone, so it carries only what can never change.
 contract** — every distributed copy hardcodes it. If it has to move, leave a
 stub behind.
 
+## The packaged skill, committed here
+
+[`SKILL.md`](SKILL.md) and [`references/`](references/setup.md) are the source
+of record for what actually gets packaged and sent. They live here so a copy in
+someone's hands can be diffed against what it was supposed to be — otherwise
+there is no way to tell which version a person is running when they report odd
+behaviour. `link-maintenance.py` validates their links but treats them as
+packaged files, not KB notes: no backlinks block, not indexed.
+
+Repackaging: zip the `socal-boat-day/` directory containing `SKILL.md` and
+`references/`, excluding `ENTRY.md` and this README, which are repo-side.
+
 ## Relationship to `skills/boat-day/`
 
 [`boat-day/`](../boat-day/README.md) is the earlier design, which **bundled** a
