@@ -1914,3 +1914,39 @@ empty `upload_date`.** All 37 are `status: failed` — never transcribed — and
 knowledge-integrity one. It becomes live in Phase 6: the re-transcription pass
 that recovers those videos must also recover their upload dates, or they will
 enter the KB undated and unable to satisfy CLAUDE.md's absolute-dates rule.
+
+### Batch 3 — Searcher Sportfishing landed (2026-08-17)
+
+Fifth corpus of the batch. **SearcherSportfishing** (UCEii853qfORr2W1j40xI0EA) —
+a San Diego long-range sportboat's channel, `/videos` tab fully enumerated.
+
+| | |
+| --- | --- |
+| entries listed | 470 (0 duplicate ids within the zip) |
+| `ok` / landed | **347** — all auto-generated captions, 0 manual |
+| `failed` | 123 — 120 no English caption track, 2 caption listed but no json3, 1 empty caption file |
+| collides with repo | **1** — `CdjT_I_PBHQ` (Tackle Tip Thursday Vol. 230, already landed in an earlier batch); logged `duplicate-of`, not re-copied |
+| net new transcripts | **346** |
+
+Manifest normalized from the 8-column export schema to the repo's 7-column
+schema; `channel` and `upload_date` read from each transcript's YAML header.
+Verified after landing: 347 `ok` rows and 347 files on disk, exact match, no
+orphans in either direction. Repo manifest now **1,103 rows**.
+
+**Title-shape preview of the 347 landed** (mechanical, pre-triage):
+
+| shape | count | note |
+| --- | ---: | --- |
+| **Tackle Tip Thursday** (numbered tutorial series) | **219** | the core value — a long-running, single-topic-per-episode how-to series |
+| other | 115 | trip reports, crew/angler features, season commentary |
+| **Tackle Talk Live** | 11 | long-form live Q&A |
+| boat/maintenance | 2 | dry dock, engine — expected skips |
+
+The Tackle Tip Thursday series is the densest tutorial run landed in any batch
+so far by episode count, and it is **numbered**, which makes gaps visible: the
+123 failures include several TTT volumes (94 Surgeon's Knot, 87 Yo-yo Fishing,
+77 Big Tuna, 60 Fly Line Outfit among them), so the series has known holes to
+re-source in the uncaptioned-recovery pass.
+
+Not yet triaged or extracted — this corpus is queued for the autonomous
+pipeline along with the rest of the batch-3 backlog.
