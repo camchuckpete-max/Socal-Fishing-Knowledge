@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -118,6 +118,47 @@ Diego Bay, ~12 years of charter experience, half-day family/kids trips on a
   on the species note.
 
 Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md).
+
+## Freshwater-bass leadheads crossed over to saltwater — Big Spin & Big Buddy (Robert Schneider, Phoenix Baits)
+
+Robert Schneider — name and lure company (Phoenix Baits) as given in the
+auto-generated intro narration, not independently verified against typed
+video metadata — Fred Hall Show seminar, `NXvqLUZ6qp8`, 2019; unregistered
+speaker, single mention; several claims below are his own booth pitch for
+his own product line, so the model names are capped at **low** confidence
+per the sponsored-claim rule — the technique/parameter framing around them
+sits at **medium**. San Diego Bay and rock/kelp structure, spotted bay bass
+and calico bass:
+
+- **Why freshwater lures cross over (his stated thesis for the seminar):**
+  freshwater bass tackle works on SoCal calico/spotted bay bass with two
+  adjustments — step up to **thicker wire** components (hooks/keepers)
+  because SoCal saltwater bass fight harder than freshwater largemouth/
+  spotted bass, and expect **some colors to change** because of water
+  clarity/current differences. Otherwise the same baits and approach carry
+  over directly.
+- **"Big Spin" — underspin jig with a tail blade:** a leadhead ("live jig")
+  with a small blade mounted behind it for extra flash, vibration, and
+  profile. Built in sizes from **1/4 oz up to 2 oz**; fished dragged on the
+  bottom or hopped/bounced through structure, thrown into both rock and
+  kelp. Targets spotted bay bass (smaller sizes) and calico bass. Low
+  confidence — product pitch.
+- **"Big Buddy" leadhead — weight and color are both personal-preference
+  calls:** his most popular weights are **3/8 oz and 1/2 oz**, made down to
+  **1/4 oz**. On color he's explicit there's no universal best — individual
+  anglers lock onto one confidence color and won't switch (example named:
+  "red crab"), and two anglers fishing the same water (San Diego Bay) can
+  each outfish on their own preferred, different color. His best-selling
+  freshwater color, **dark green pumpkin**, has crossed over successfully to
+  calico bass. Low confidence — product pitch.
+- **Observed** (Fisher Newb / Robert Schneider, `NXvqLUZ6qp8`, 2019, San Diego
+  Bay jetties): he throws a football jig in **pumpkin** there, by his own
+  account because an early trip on that color produced and he stuck with it —
+  an example of the confirmation-bias color pattern above, not a claim that
+  pumpkin outperforms other colors there.
+
+Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md),
+[calico bass](../species/calico-bass.md).
 
 ## How to fish it
 

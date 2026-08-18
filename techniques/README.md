@@ -5,6 +5,7 @@
 ## Index
 
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live dropback mackerel in the SoCal tan
+- [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling trick for a SoCal live-bait sportboat (half-day through multi-day trips): rig a swimbait/jig — built with a double-collar keeper so the soft-
 - [Chunking](chunking.md) **[SoCal only]** — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) **[SoCal only]** — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
@@ -41,82 +42,84 @@
 ```mermaid
 graph LR
   n0["Bait-and-Switch (Striped Marlin)"]
-  n1["Chunking"]
-  n2["Deep-Drop Swordfishing (daytime)"]
-  n3["Drop Shot"]
-  n4["Dropper Loop"]
-  n5["Fighting a Big Bluefin — Boat-Handling to the Gaff"]
-  n6["Flyline"]
-  n7["Foamer Casting"]
-  n8["Glide Baits"]
-  n9["Hoop Netting"]
-  n10["Inshore Crankbaits"]
-  n11["Kayak Bass Fishing"]
-  n12["Kite Fishing"]
-  n13["Knife / Speed Jigging"]
-  n14["Mangrove Structure Livebait"]
-  n15["Ned Rig"]
-  n16["Rockfish Deep-Dropping"]
-  n17["Sliding Sinker"]
-  n18["Slow-Pitch Jigging (SPJ)"]
-  n19["Slow-Trolling Live Bait"]
-  n20["Speed Trolling"]
-  n21["Surface Iron — The Cast"]
-  n22["Surface Iron — Colour"]
-  n23["Surface Iron"]
-  n24["Swimbaits"]
-  n25["Trolling"]
-  n26["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
-  n27["Yo-Yo Iron"]
-  n0 --> n25
-  n12 --> n20
-  n12 --> n5
-  n13 --> n18
-  n13 --> n5
-  n16 --> n17
-  n16 --> n18
-  n16 --> n4
-  n17 --> n12
-  n17 --> n23
-  n17 --> n4
+  n1["Cheater Troll"]
+  n2["Chunking"]
+  n3["Deep-Drop Swordfishing (daytime)"]
+  n4["Drop Shot"]
+  n5["Dropper Loop"]
+  n6["Fighting a Big Bluefin — Boat-Handling to the Gaff"]
+  n7["Flyline"]
+  n8["Foamer Casting"]
+  n9["Glide Baits"]
+  n10["Hoop Netting"]
+  n11["Inshore Crankbaits"]
+  n12["Kayak Bass Fishing"]
+  n13["Kite Fishing"]
+  n14["Knife / Speed Jigging"]
+  n15["Mangrove Structure Livebait"]
+  n16["Ned Rig"]
+  n17["Rockfish Deep-Dropping"]
+  n18["Sliding Sinker"]
+  n19["Slow-Pitch Jigging (SPJ)"]
+  n20["Slow-Trolling Live Bait"]
+  n21["Speed Trolling"]
+  n22["Surface Iron — The Cast"]
+  n23["Surface Iron — Colour"]
+  n24["Surface Iron"]
+  n25["Swimbaits"]
+  n26["Trolling"]
+  n27["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
+  n28["Yo-Yo Iron"]
+  n0 --> n26
+  n13 --> n21
+  n13 --> n6
+  n14 --> n19
+  n14 --> n6
+  n17 --> n18
+  n17 --> n19
+  n17 --> n5
   n18 --> n13
-  n18 --> n4
-  n19 --> n20
-  n19 --> n25
-  n19 --> n4
-  n19 --> n6
-  n20 --> n12
-  n20 --> n25
-  n21 --> n23
-  n22 --> n23
-  n22 --> n27
-  n23 --> n13
-  n23 --> n21
-  n23 --> n22
-  n23 --> n27
-  n23 --> n7
-  n24 --> n1
-  n24 --> n27
-  n25 --> n0
-  n25 --> n1
-  n25 --> n19
-  n25 --> n20
-  n25 --> n23
-  n25 --> n27
-  n25 --> n5
-  n25 --> n6
-  n26 --> n5
-  n27 --> n23
-  n4 --> n16
-  n4 --> n17
-  n4 --> n27
-  n5 --> n12
-  n5 --> n26
+  n18 --> n24
+  n18 --> n5
+  n19 --> n14
+  n19 --> n5
+  n20 --> n1
+  n20 --> n21
+  n20 --> n26
+  n20 --> n5
+  n20 --> n7
+  n21 --> n13
+  n21 --> n26
+  n22 --> n24
+  n23 --> n24
+  n23 --> n28
+  n24 --> n14
+  n24 --> n22
+  n24 --> n23
+  n24 --> n28
+  n24 --> n8
+  n25 --> n2
+  n25 --> n28
+  n26 --> n0
+  n26 --> n2
+  n26 --> n20
+  n26 --> n21
+  n26 --> n24
+  n26 --> n28
+  n26 --> n6
+  n26 --> n7
+  n27 --> n6
+  n28 --> n24
+  n5 --> n17
+  n5 --> n18
+  n5 --> n28
   n6 --> n13
-  n6 --> n17
-  n8 --> n23
-  n8 --> n24
-  n8 --> n25
-  n8 --> n27
+  n6 --> n27
+  n7 --> n14
+  n7 --> n18
+  n9 --> n24
+  n9 --> n25
+  n9 --> n26
+  n9 --> n28
 ```
 <!-- mermaid:end -->

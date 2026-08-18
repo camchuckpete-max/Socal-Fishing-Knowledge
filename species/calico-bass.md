@@ -596,6 +596,7 @@ release *ethic* and the regional policies are below.
 
 - [Barred Sand Bass](sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
+- [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [California Barracuda](barracuda.md)
 - [Cedros Island](../locations/cedros-island.md)

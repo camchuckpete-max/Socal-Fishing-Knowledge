@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8]
 confidence: medium
 ---
 
@@ -296,6 +296,30 @@ able to break off** (aXF0bxAFtU0):
   long-range/giant-grade data point, kept beside — not merged into — the
   40 lb-floor / 50 lb-most-everything Cedros yellowtail brackets and the
   80–150 lb big-bluefin bracket logged above; a different fishery and grade.
+
+- **Three-leader system by structure, San Diego rock/pier and kelp calico**
+  (Robert Schneider — name and lure company (Phoenix Baits) as given in the
+  auto-generated intro narration, not independently verified against typed
+  video metadata — Fred Hall Show seminar, `NXvqLUZ6qp8`, 2019; unregistered
+  speaker, single mention — medium confidence): carries three rigged setups
+  rather than one universal leader —
+  - **Rock/pier structure** (example given: pilings in San Diego): straight
+    fluorocarbon, no braid — stated reason is pure abrasion, rock "tears up"
+    line "like taking a shirt and putting it on the blacktop and rubbing
+    it." Roughly **15 lb fluorocarbon** for this structure, sized to the
+    small calico there (pound to pound-and-a-half typical, occasionally
+    bigger).
+  - **Kelp / "boiling rock"** (breaking water over structure): **50–65 lb
+    braid** to a fluorocarbon leader, most often **20 lb**. Leader-length
+    rule of thumb: **roughly the length of the rod**, so the leader knot
+    stays outside the tip guide and can be handled by hand at the boat
+    rather than having to crank the knot through the guides.
+  - A **third, all-braid setup** (55–65 lb, no leader) carried for a
+    different feel — not detailed further in source.
+
+  A SoCal-specific structure-driven data point, consistent with and adding
+  concrete numbers to the general kelp/rock leader-heavier-than-braid rule
+  above.
 
 ## Connections (parameters — steps are in the rigging notes)
 

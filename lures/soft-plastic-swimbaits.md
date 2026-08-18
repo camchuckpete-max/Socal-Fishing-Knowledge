@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -116,6 +116,36 @@ reconciled.
   [foamer casting](../techniques/foamer-casting.md) for the general
   run-and-gun approach this fits into.
 
+## Bait-keeper collar design — why it matters (Robert Schneider, Phoenix Baits)
+
+Robert Schneider — name and lure company (Phoenix Baits) as given in the
+auto-generated intro narration of a Fred Hall Show seminar, not independently
+verified against typed video metadata — freshwater-bass lure designer
+crossing tackle over to SoCal saltwater bass (`NXvqLUZ6qp8`, 2019;
+unregistered speaker, single mention — medium confidence). A
+**freshwater-bass-style molded keeper collar** on the jighead (a ribbed
+double collar the soft-plastic trailer threads onto) does two jobs beyond
+just holding the bait in place:
+
+- **Fewer thrown hooks.** The weed guard on this jig line was designed to
+  keep the bait out of kelp; testing it on calico bass, the team found an
+  unplanned second benefit — a fish trying to shake the hook has a harder
+  time throwing it past the weed guard, so **fewer hooked fish come off**
+  than on the same jig without one.
+- **Lets you feed a short striker a second bite.** In freshwater bass
+  fishing, a short strike is worked by free-spooling line to let the bait
+  drop back down to the fish for a second try. On a standard soft-plastic
+  trailer, a short strike (a bass grabbing just the tail) spins and wraps
+  the plastic around the hook shank, so there's no clean bait left to feed
+  back down — you have to reel in and start over. A trailer seated in a
+  **double keeper collar** doesn't spin or wrap on a short strike, so the
+  freshwater feed-it-back-down move carries over to calico bass: free-spool,
+  give it slack, let it settle, and go for the second bite.
+
+This keeper-collar design is also what makes the
+[cheater troll](../techniques/cheater-troll.md) rig practical — the trailer
+survives being trolled without sliding or fouling.
+
 ## How to fish it
 
 Fished [swimbaits](../techniques/swimbaits.md): rig it weedless, wind it fast and
@@ -140,6 +170,7 @@ baits and heads from the class terms above; see
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

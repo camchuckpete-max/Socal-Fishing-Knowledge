@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-troll, live-bait, yellowtail, flyline, lever-drag, sardine, mackerel]
-sources: [HTowqnwAMeA]
+sources: [HTowqnwAMeA, NXvqLUZ6qp8]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank]
@@ -107,6 +107,9 @@ watching the bait, and use the range as a sanity check.
 - [Dropper loop](dropper-loop.md) — the same live bait delivered to fish that
   are clumped on the bottom and inactive.
 - [Speed trolling](speed-trolling.md) — the fast, tuna-oriented opposite end.
+- [Cheater troll](cheater-troll.md) — a stopgap version worked off the side/
+  back of a SoCal live-bait boat during the dead time between stops, not a
+  boat-speed program.
 
 
 <!-- backlinks:start -->
