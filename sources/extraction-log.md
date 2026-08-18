@@ -2035,7 +2035,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 3zXcrGsIL-c | SearcherSportfishing | tutorial | deep | done | done: rigging/crimping.md (new note); rigging/bite-leaders.md; rigging/haywire-twist.md; rigging/README.md — crimping mechanic split from bite-leaders sizing table, fixed unstated-material claim and misread two-presses-per-sleeve step |
 | 46wHgdTJWIM | SearcherSportfishing | tutorial | deep | done | tackle/spectra-hollow-vs-solid.md (new); rigging/hollow-splice-and-serving.md; tackle/line-and-leader.md — spun out hollow-vs-solid spectra note, cross-linked maintenance splice, trimmed post-review duplication |
 | 4PY5H_YPJxY | SearcherSportfishing | tutorial | deep | done | none / skipped: 115s auto-caption promo for Accurate Reels, product names/prices/locations too ASR-garbled to reconstruct reliably, no extractable SoCal/Baja knowledge |
-| 5472APCgym8 | SearcherSportfishing | tutorial | deep | pending |  |
+| 5472APCgym8 | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md — merged Modified Albright as second attribution/wrap-count detail into existing spaced-then-overlap variant entry; fixed cinch-off mechanics wording inconsistency |
 | 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | pending |  |
 | 5IN1wsOFR-k | SearcherSportfishing | tutorial | deep | pending |  |
 | 5J7a6UwTA90 | SearcherSportfishing | tutorial | deep | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [fg-knot, albright, braid-to-leader, connection-knot, casting]
-sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o]
+tags: [fg-knot, albright, modified-albright, braid-to-leader, connection-knot, casting]
+sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o, 5472APCgym8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -51,18 +51,26 @@ system: braid main line, fluoro or mono leader.
 - **Albright range:** tied from roughly **8 lb to 8 lb** up to **80 lb to
   100 lb** — a very wide span. Trim the tags flat but not flush; leave a little
   on each side so they can't pull back through.
-- **Albright variant — spaced-then-overlap wrap** (SearcherSportfishing,
-  2019-10-10, `-BO1lMCTamg`): after forming the mono loop and bringing the
-  braid in through the bottom, wrap the braid down the loop **9 times**,
-  spacing the wraps out on the way down, then reverse direction and wrap back
-  up through the same spaces, overlapping each wrap on the return pass — the
-  tier's stated reason: spacing then overlapping "cinches everything down"
-  and ends up "a little bit smaller." At the top, pass the tag
-  back into the braid loop one more time, then pull both braid ends and both
-  mono ends until it comes tight, release the tag into the braid and cinch it
-  down, then trim the tags. A different wrap pattern from the 10-wraps-one-way
-  method above; both are Albright ties — use whichever cinches cleaner for
-  you.
+- **Albright variant — spaced-then-overlap wrap, aka "Modified Albright"**
+  (SearcherSportfishing, 2019-10-10, `-BO1lMCTamg`; repeated by Ryan,
+  SearcherSportfishing, 2021-05-20, `5472APCgym8`): after forming the
+  mono/fluoro loop and bringing the braid up through the bottom, wrap the
+  braid down the loop, spacing the wraps out on the way down, then reverse
+  direction and wrap back up through the same spaces, overlapping each wrap
+  on the return pass — the tier's stated reason: spacing then overlapping
+  "cinches everything down" and ends up "a little bit smaller" (2019-10-10);
+  in the 2021-05-20 demo, Ryan gives the same reason in different words —
+  leaving space "helps it cinch down a little bit better at the end."
+  **Wrap count:** 9 in the 2019-10-10 demo; the 2021-05-20 demo states **7 to
+  10** as the working range and ties 7 on camera. At the top of the return
+  pass, pass the tag back up through the bottom of the loop the same way it
+  entered, then pull both tag ends and the main line together — it starts to
+  cinch and then stops; let go of the braid tag and pull again to help it
+  work down, then let go of the mono/fluoro tag and pull tight.
+  Trim tags close, but make sure the knot is fully cinched down first or it
+  can slip and pull through. A different wrap pattern from the
+  10-wraps-one-way method above; both are Albright ties — use whichever
+  cinches cleaner for you.
 - **Albright — dissimilar-line variant, no dead-set wrap count** (Rick,
   Fisherman's Landing Tackle, on SearcherSportfishing, 2023-03-16,
   `2fwj24S9S-o`): framed generally as joining two lines of dissimilar
@@ -87,6 +95,7 @@ system: braid main line, fluoro or mono leader.
 How-to videos: [FG knot, step by step](https://www.youtube.com/watch?v=CIMTyepgonk),
 [the Albright knot](https://www.youtube.com/watch?v=NXtvXkqpT9w),
 [the spaced-then-overlap Albright variant](https://www.youtube.com/watch?v=-BO1lMCTamg),
+[the same variant retied as the "Modified Albright"](https://www.youtube.com/watch?v=5472APCgym8),
 and [the dissimilar-line Albright variant](https://www.youtube.com/watch?v=2fwj24S9S-o).
 
 <!-- backlinks:start -->
