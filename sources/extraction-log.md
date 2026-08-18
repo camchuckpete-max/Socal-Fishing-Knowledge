@@ -2028,7 +2028,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 2TmLaSCmfC8 | SearcherSportfishing | tutorial | deep | done | rigging/flying-fish-harness.md: added alternative braid wing-tie method for dead flyer kite rig |
 | 2fwj24S9S-o | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md: added third Albright variant (dissimilar-line, no dead-set wrap count, wet-before-cinch) |
 | 3FghhsYAIFI | SearcherSportfishing | tutorial | deep | done | sources/extraction-log.md: skip, 48s ASR-garbled clip, only clean fact already documented in techniques/surface-iron.md |
-| 3djuTW9GBr0 | SearcherSportfishing | tutorial | deep | pending |  |
+| 3djuTW9GBr0 | SearcherSportfishing | tutorial | deep | done | done: lures/tuna-poppers-and-stickbaits.md — yellowfin popper/sniper/minnow gear params, medium confidence, asr-uncertain brand names |
 | 3g82igEL8yk | SearcherSportfishing | tutorial | deep | pending |  |
 | 3gNTB4aMhCA | SearcherSportfishing | tutorial | deep | pending |  |
 | 3gykKyPdOvA | SearcherSportfishing | tutorial | deep | pending |  |

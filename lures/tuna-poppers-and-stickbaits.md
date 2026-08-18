@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -48,6 +48,18 @@ can't explain, with multiple reports of days where nothing else got bit but
 an all-clear Feed Popper did. Produced yellowfin (not yet bluefin, as of
 this video) for the source. Cast on a spinning ("open-face") reel — see
 casting gear below.
+
+### Rooster Popper 135 / 160 (yellowfin size pick)
+**Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
+2018-10-24; unregistered channel — medium confidence.** Two sizes named on
+camera as the best popper sizes for yellowfin tuna: **135** and **160**
+(captions render the brand as "the wrister popper" once and "the rooster
+popper" once for what reads as the same product across the clip —
+**asr-uncertain** on the exact brand spelling; a "calico" heard immediately
+before is also **asr-uncertain** and not carried as a confirmed brand/maker
+name). **Color doctrine: color doesn't matter at these sizes** — the stated
+pick is by size, not finish, which sits alongside (not against) the
+size-over-color framing already logged for the Feed Popper above.
 
 ### Clear Choice Ghost Popper 150
 **150 mm / 2.1 oz** clear **wire-through** popper — a SoCal bluefin standard.
@@ -104,6 +116,17 @@ isn't drawing bites and you want more kick, the fix is to move to a
 traditional heavy lead jig instead — see [iron jigs](iron-jigs.md) (Tady AA /
 Tady 9 / Salas 7X Jr heavy) — rather than assume color or retrieve speed is
 the problem.
+
+### "Lead Master" Sniper (Colt Sniper-style lookalike)
+**Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
+2018-10-24; unregistered channel — medium confidence.** A lead-bodied casting
+jig described on camera as looking like the Shimano Colt Sniper (see above) —
+captions render the brand "lead master" (**asr-uncertain**, not confidently
+resolved to a confirmed maker name). **Weight: 100 g** the stated go-to,
+**42 g** also usable, with an explicit cap of **not going heavier than
+100 g**. **Color doctrine: anything shiny and bright works** — same
+size/shine-over-specific-color framing as the Rooster Popper entry above,
+from the same short source.
 
 ### RW Peanut (sniper-style casting bait)
 Sniper-style lead casting bait in the same "small lead bait" foamer family as
@@ -316,6 +339,17 @@ water column before working it.
   [foamer casting](../techniques/foamer-casting.md) for the general retrieve
   framing this fits alongside the popper/stickbait cadences already
   documented there.
+
+### Laser Minnow (2 oz casting minnow, brand unresolved)
+**Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
+2018-10-24; unregistered channel — medium confidence.** A **2 oz** "laser
+minnow" cast for yellowfin — the maker name is badly garbled in the
+auto-captions ("Elion"/similar) and **not confidently resolved**; treat the
+brand as unconfirmed rather than carry the caption spelling as fact. Not
+established as the same product as [Halco Laser Pro](halco-laser-pro.md)
+(a trolled diving minnow, not a cast lure) — kept as a separate, distinct
+entry rather than merged. **Color doctrine: anything shiny and
+baitfish-colored works.**
 
 ## Casting gear for poppers and burn baits
 
