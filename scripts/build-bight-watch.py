@@ -141,6 +141,59 @@ def collect_video_diffs(base: str, worklist: list[dict], titles: dict,
     return vids, skipped
 
 
+def collect_attribution(base: str, files: list[dict]) -> dict:
+    """Which video wrote each line of each note, as it stands right now.
+
+    A diff hunk shows fragments; this shows the live article with one video's
+    sentences lit up inside it, which is the thing worth reviewing — a claim
+    is only judgeable in the context it sits in.
+
+    git blame does the work, so a line a later video rewrote belongs to that
+    later video, not to whoever typed it first. Lines predating the batch
+    blame to old commits and simply go unattributed.
+    """
+    sha_to_video = {}
+    log = _bv.git("log", f"{base}..HEAD", "--pretty=format:%H\x1f%h\x1f%s")
+    for line in log.splitlines():
+        parts = line.split("\x1f")
+        if len(parts) >= 3:
+            m = VIDEO_COMMIT.match(parts[2])
+            if m:
+                sha_to_video[parts[0]] = m.group(1)
+    if not sha_to_video:
+        return {}
+
+    hdr = re.compile(r"^([0-9a-f]{40}) \d+ (\d+)")
+    out: dict[str, list] = {}
+    for f in files:
+        if f["status"] == "unchanged":
+            continue
+        blame = _bv.git("blame", "--porcelain", "--", f["path"])
+        if not blame:
+            continue
+        # line number (0-based, matching the content we ship) -> video
+        marks: dict[int, str] = {}
+        for line in blame.splitlines():
+            m = hdr.match(line)
+            if not m:
+                continue
+            vid = sha_to_video.get(m.group(1))
+            if vid:
+                marks[int(m.group(2)) - 1] = vid
+        if not marks:
+            continue
+        # collapse to runs so the payload stays small
+        runs: list[list] = []
+        for ln in sorted(marks):
+            vid = marks[ln]
+            if runs and runs[-1][2] == vid and runs[-1][0] + runs[-1][1] == ln:
+                runs[-1][1] += 1
+            else:
+                runs.append([ln, 1, vid])
+        out[f["path"]] = runs
+    return out
+
+
 def load_titles() -> dict:
     """Video titles, from every landed manifest."""
     titles: dict[str, str] = {}
@@ -173,6 +226,17 @@ def build(base: str) -> dict:
     snap["diffs"] = collect_note_diffs(base, snap["files"])
     snap["videos"], snap["videosOmitted"] = collect_video_diffs(
         base, wl, load_titles())
+    snap["attrib"] = collect_attribution(base, snap["files"])
+    # Each video learns which live notes still carry its writing, so the
+    # video view can open the article rather than only a hunk.
+    wrote: dict[str, dict] = {}
+    for path, runs in snap["attrib"].items():
+        for start, count, vid in runs:
+            e = wrote.setdefault(vid, {}).setdefault(path, 0)
+            wrote[vid][path] = e + count
+    for v in snap["videos"]:
+        v["wrote"] = sorted(wrote.get(v["v"], {}).items(),
+                            key=lambda kv: -kv[1])
     return snap
 
 
@@ -329,6 +393,33 @@ main{flex:1;display:flex;min-height:0}
   border-radius:8px;padding:6px 9px;font-size:12px;font-weight:600;color:var(--accent-ink);
   text-align:left}
 .seemore:hover{border-color:var(--accent)}
+
+/* in-place attribution — reading the live article with one video's writing
+   lit up. The unhighlighted text dims rather than disappearing, so a claim
+   is still judged in the context it sits in. */
+.hbar{position:sticky;top:0;z-index:5;display:flex;gap:9px;align-items:center;flex-wrap:wrap;
+  background:var(--panel);border:1px solid var(--hair);border-radius:10px;
+  padding:7px 11px;margin:0 0 14px;font-size:12px;color:var(--ink2)}
+.hsw{width:11px;height:11px;border-radius:3px;flex:none;
+  background:color-mix(in srgb,var(--accent) 28%,transparent);
+  border:1px solid color-mix(in srgb,var(--accent) 60%,transparent)}
+.hnav{display:inline-flex;align-items:center;gap:5px}
+.hnav button{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);
+  border-radius:6px;width:23px;height:23px;font-size:12px;line-height:1}
+.hnav button:hover{border-color:var(--accent);color:var(--accent-ink)}
+#hcount{font-size:10.5px;color:var(--muted);min-width:34px;text-align:center}
+.darticle.focus > :not(.hbar):not(.mine){opacity:.42}
+.darticle.focus .mine,.darticle.focus li.mine{opacity:1}
+/* the jump target must clear the sticky attribution bar */
+.darticle .mine{scroll-margin-top:58px;background:color-mix(in srgb,var(--accent) 13%,transparent);
+  box-shadow:-10px 0 0 color-mix(in srgb,var(--accent) 13%,transparent),
+             10px 0 0 color-mix(in srgb,var(--accent) 13%,transparent);
+  border-radius:2px}
+.darticle .mine.at{background:color-mix(in srgb,var(--accent) 26%,transparent);
+  box-shadow:-10px 0 0 color-mix(in srgb,var(--accent) 26%,transparent),
+             10px 0 0 color-mix(in srgb,var(--accent) 26%,transparent)}
+.darticle.focus ul:has(.mine){opacity:1}
+.darticle.focus ul:has(.mine) li:not(.mine){opacity:.42}
 
 /* diffs — the point of the whole screen: what actually changed */
 .dfile{border:1px solid var(--hair);border-radius:10px;margin:0 0 12px;overflow:hidden}
@@ -562,42 +653,68 @@ document.getElementById('escs').innerHTML=escThis.length
   : 'None raised — nothing needs a human call yet.';
 
 /* detail panel */
-function mdToHtml(src){
-  src=src.replace(/^---\n[\s\S]*?\n---\n/,'').replace(/^\s*#\s+.*\n/,'');
+/* Markdown -> HTML, carrying line attribution through.
+
+   Line numbers are the ones git blame saw, so front matter and the H1 are
+   SKIPPED rather than sliced off — slicing would shift every index and the
+   highlighting would land a few paragraphs adrift. Each emitted block records
+   the videos whose lines it contains, which is what lights it up. */
+function mdToHtml(src,marks){
   const L=src.split('\n');let o=[],i=0;
+  // skip front matter and the leading H1 without renumbering
+  if(L[0]==='---'){i=1;while(i<L.length&&L[i]!=='---')i++;i++;}
+  while(i<L.length&&!L[i].trim())i++;
+  if(i<L.length&&/^#\s+/.test(L[i]))i++;
   const inl=s=>esc(s).replace(/`([^`]+)`/g,'<code>$1</code>')
     .replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>')
     .replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<em>$2</em>')
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g,(m,t,h)=>h.includes('.md')
       ?`<a href="#" data-nav="${esc(h)}">${t}</a>`:`<a href="${esc(h)}" target="_blank" rel="noopener">${t}</a>`);
-  while(i<L.length){const l=L[i];
+  // who wrote lines [a,b)? blank-only blocks stay unattributed
+  const who=(a,b)=>{if(!marks)return '';const set=[];
+    for(let k=a;k<b;k++){const v=marks[k];if(v&&!set.includes(v)&&L[k]&&L[k].trim())set.push(v);}
+    return set.length?` data-v="${esc(set.join(' '))}"`:'';};
+  const put=(open,rest,a,b)=>o.push(open.slice(0,-1)+who(a,b)+'>'+rest);
+  while(i<L.length){const l=L[i],st=i;
     if(/^<!--/.test(l)){i++;continue;}
     if(/^\|/.test(l)){const b=[];while(i<L.length&&/^\|/.test(L[i]))b.push(L[i++]);
       const rs=b.filter(r=>!/^\|[\s:-]+\|/.test(r)).map(r=>r.trim().replace(/^\||\|$/g,'').split('|').map(c=>c.trim()));
-      if(rs.length)o.push('<div class="tw"><table><thead><tr>'+rs[0].map(c=>`<th>${inl(c)}</th>`).join('')+
+      if(rs.length)put('<div class="tw">','<table><thead><tr>'+rs[0].map(c=>`<th>${inl(c)}</th>`).join('')+
         '</tr></thead><tbody>'+rs.slice(1).map(r=>'<tr>'+r.map(c=>`<td>${inl(c)}</td>`).join('')+'</tr>').join('')+
-        '</tbody></table></div>');continue;}
+        '</tbody></table></div>',st,i);continue;}
     let m;
-    if((m=l.match(/^(#{1,6})\s+(.*)$/))){const d=Math.min(m[1].length,6);o.push(`<h${d}>${inl(m[2])}</h${d}>`);i++;continue;}
+    if((m=l.match(/^(#{1,6})\s+(.*)$/))){const d=Math.min(m[1].length,6);
+      put(`<h${d}>`,`${inl(m[2])}</h${d}>`,st,st+1);i++;continue;}
     if(/^>\s?/.test(l)){const b=[];while(i<L.length&&/^>\s?/.test(L[i]))b.push(L[i++].replace(/^>\s?/,''));
-      o.push(`<blockquote>${inl(b.join(' '))}</blockquote>`);continue;}
-    if(/^\s*[-*]\s+/.test(l)){const b=[];
+      put('<blockquote>',`${inl(b.join(' '))}</blockquote>`,st,i);continue;}
+    if(/^\s*[-*]\s+/.test(l)){const b=[],spans=[];
       while(i<L.length){const mi=L[i].match(/^\s*[-*]\s+(.*)$/);
-        if(mi){b.push(mi[1]);i++;continue;}
+        if(mi){b.push(mi[1]);spans.push([i,i+1]);i++;continue;}
         // KB notes wrap bullets onto indented continuation lines — fold them
         // back into the item instead of spilling them out as paragraphs
         if(b.length&&L[i].trim()&&/^\s{2,}\S/.test(L[i])&&!/^\s*[#>|]/.test(L[i])&&!/^\s*```/.test(L[i])){
-          b[b.length-1]+=' '+L[i].trim();i++;continue;}
+          b[b.length-1]+=' '+L[i].trim();spans[spans.length-1][1]=i+1;i++;continue;}
         break;}
-      o.push('<ul>'+b.map(x=>`<li>${inl(x)}</li>`).join('')+'</ul>');continue;}
+      // attribute per LIST ITEM — a note usually gains a bullet, not a list
+      o.push('<ul>'+b.map((x,k)=>`<li${who(spans[k][0],spans[k][1])}>${inl(x)}</li>`).join('')+'</ul>');
+      continue;}
     if(/^```/.test(l)){i++;const b=[];while(i<L.length&&!/^```/.test(L[i]))b.push(L[i++]);
-      if(i<L.length)i++;o.push(`<pre><code>${esc(b.join('\n'))}</code></pre>`);continue;}
+      if(i<L.length)i++;put('<pre>',`<code>${esc(b.join('\n'))}</code></pre>`,st,i);continue;}
     if(/^---+$/.test(l)){o.push('<hr>');i++;continue;}
     if(!l.trim()){i++;continue;}
     const b=[];while(i<L.length&&L[i].trim()&&!/^([#>|`]|\s*[-*]\s)/.test(L[i]))b.push(L[i++]);
     if(!b.length)b.push(L[i++]);
-    o.push(`<p>${inl(b.join(' '))}</p>`);}
+    put('<p>',`${inl(b.join(' '))}</p>`,st,i);}
   return o.join('\n');
+}
+/* runs -> a flat line->video lookup, built once per note on demand */
+const marksCache=new Map();
+function marksFor(path){
+  if(marksCache.has(path))return marksCache.get(path);
+  const runs=(D.attrib||{})[path];
+  let m=null;
+  if(runs){m=[];runs.forEach(([a,n,v])=>{for(let k=0;k<n;k++)m[a+k]=v;});}
+  marksCache.set(path,m);return m;
 }
 const det=document.getElementById('detail');
 const body=document.getElementById('darticle'), dtabs=document.getElementById('dtabs'),
@@ -634,9 +751,13 @@ function show(o){
 }
 
 /* a knowledgebase page — the article, and what this run changed in it */
-function open(path,tab,from){
+/* a knowledgebase page. `vid` lights up what that one video wrote, in place;
+   without it, everything this batch wrote is lit in a neutral tint. */
+let activeVid=null;
+function open(path,tab,from,vid){
   const f=byPath.get(path); if(!f) return;
   if(from!==undefined)back=from;
+  if(vid!==undefined)activeVid=vid;
   const fm=f.fm||{}, tags=[];
   if(fm.type)tags.push(`<span class="tag">${esc(fm.type)}</span>`);
   if(fm.confidence)tags.push(`<span class="tag ${esc(fm.confidence)}">${esc(fm.confidence)}</span>`);
@@ -648,28 +769,60 @@ function open(path,tab,from){
   let tabs='';
   if(d||isNew){
     const cl=isNew?'new page':`+${d.add} −${d.rem}`;
-    tabs=`<button class="dtab" data-tab="page" aria-selected="${tab==='page'}">Page</button>`+
-         `<button class="dtab" data-tab="diff" aria-selected="${tab==='diff'}">Changes · ${esc(cl)}</button>`;
+    tabs=`<button class="dtab" data-tab="page" aria-selected="${tab==='page'}">Article</button>`+
+         `<button class="dtab" data-tab="diff" aria-selected="${tab==='diff'}">Raw diff · ${esc(cl)}</button>`;
   }
-  let html;
+  const art=()=>mdToHtml(f.content||'',marksFor(path));
+  let html, banner='';
+  if(activeVid){
+    const x=byVideo.get(activeVid);
+    banner=`<div class="hbar"><span class="hsw"></span><span>Highlighted: what `+
+      `<button class="linkbtn" id="hvid">${esc(x?(x.title||activeVid):activeVid)}</button> wrote in this page</span>`+
+      `<span class="sp" style="flex:1"></span><span class="hnav"><button id="hprev" title="Previous change">↑</button>`+
+      `<span id="hcount" class="mono"></span><button id="hnext" title="Next change">↓</button></span>`+
+      `<button class="linkbtn" id="hclear">show all</button></div>`;
+  }
   if(tab==='diff'){
     html=isNew
-      ? `<div class="dnote" style="border:none">Written from scratch this run — the whole page below is new.</div>`+mdToHtml(f.content||'')
+      ? `<div class="dnote" style="border:none">Written from scratch this run — the whole article is new.</div>`+art()
       : diffFile(path,d,true);
-  } else html=mdToHtml(f.content||'');
+  } else html=banner+art();
   show({title:f.title,path:path,meta:tags.join(''),tabs:tabs,html:html,back:back});
+  if(activeVid)body.classList.add('focus'); else body.classList.remove('focus');
   dtabs.querySelectorAll('.dtab').forEach(b=>b.onclick=()=>open(path,b.dataset.tab));
   body.querySelectorAll('a[data-nav]').forEach(a=>a.onclick=ev=>{
     ev.preventDefault();
     const raw=a.dataset.nav.split('#')[0], here=path.includes('/')?path.split('/').slice(0,-1):[];
     const st=[];here.concat(raw.split('/')).forEach(p=>p==='..'?st.pop():(p==='.'?0:st.push(p)));
-    open(st.join('/'));});
+    open(st.join('/'),null,undefined,null);});
+  if(activeVid&&tab!=='diff')wireHighlight(path);
+}
+
+/* mark this video's blocks, and let the reviewer step through them */
+function wireHighlight(path){
+  const hits=[...body.querySelectorAll('[data-v]')]
+    .filter(el=>el.dataset.v.split(' ').includes(activeVid));
+  hits.forEach(el=>el.classList.add('mine'));
+  let at=-1;
+  const cnt=document.getElementById('hcount');
+  const paint=()=>{cnt.textContent=hits.length?`${Math.max(at,0)+1}/${hits.length}`:'0';};
+  const jump=n=>{if(!hits.length)return;at=(at+n+hits.length)%hits.length;
+    hits.forEach(el=>el.classList.remove('at'));hits[at].classList.add('at');
+    hits[at].scrollIntoView({block:'center',behavior:'smooth'});paint();};
+  paint();
+  document.getElementById('hnext').onclick=()=>jump(1);
+  document.getElementById('hprev').onclick=()=>jump(-1);
+  document.getElementById('hclear').onclick=()=>open(path,'page',undefined,null);
+  const hv=document.getElementById('hvid');
+  if(hv)hv.onclick=()=>openVideo(activeVid,{label:byPath.get(path).title,go:()=>open(path)});
+  if(hits.length)jump(1);
 }
 
 /* one video — every page its extraction touched, changes highlighted */
 function openVideo(v,from){
   const x=byVideo.get(v); if(!x) return;
   if(from!==undefined)back=from;
+  activeVid=null;
   const tags=[x.ch,x.cls,x.depth].filter(Boolean)
     .map(t=>`<span class="tag">${esc(t)}</span>`).join('')+
     `<span class="tag">${x.files.length} page${x.files.length===1?'':'s'}</span>`+
@@ -678,17 +831,37 @@ function openVideo(v,from){
   const head=`<p class="mut" style="margin:0 0 6px">${esc(x.when.slice(0,10))} · commit <code>${esc(x.sha)}</code> · `+
     `<a href="https://www.youtube.com/watch?v=${encodeURIComponent(v)}" target="_blank" rel="noopener">watch on YouTube</a></p>`+
     (res?`<p style="margin:0 0 14px">${esc(res)}</p>`:'');
-  const files=x.files.length
-    ? x.files.map((f,i)=>{const [a,r]=[f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='+').length,0),
-                                      f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='-').length,0)];
-        return diffFile(f.path,{hunks:f.hunks,add:a,rem:r,dropped:0},i===0);}).join('')
+
+  /* The point of this screen: open the ARTICLE with this video's writing lit
+     up in place. `wrote` counts lines still standing in the live note, so a
+     page a later video overwrote shows the smaller number honestly. */
+  const wrote=x.wrote||[];
+  const live=wrote.length
+    ? `<div class="ghead">Read what it wrote, in the article</div>`+
+      wrote.map(([path,n])=>{const f=byPath.get(path);
+        return `<button class="vrow" data-open="${esc(path)}">`+
+          `<span class="vt">${esc(f?f.title:path)}</span>`+
+          `<span class="vm">${esc(path)} · <span class="plus">${n} line${n===1?'':'s'} still standing</span></span></button>`;
+      }).join('')
+    : `<p class="mut">Nothing this video wrote is still in the knowledgebase — a later extraction rewrote it, or the commit only touched logs.</p>`;
+
+  const others=x.files.filter(f=>!wrote.some(([p])=>p===f.path));
+  const raw=x.files.length
+    ? `<div class="ghead">Raw diff, exactly as committed</div>`+
+      x.files.map((f,i)=>{const [ad,rm]=[f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='+').length,0),
+                                        f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='-').length,0)];
+        return diffFile(f.path,{hunks:f.hunks,add:ad,rem:rm,dropped:0},false);}).join('')
       +(x.dropped?`<div class="dnote">${x.dropped.toLocaleString()} more changed lines not shown.</div>`:'')
     : `<p class="mut">No page changes recorded for this video — it was logged as skipped or yielded nothing.</p>`;
-  show({title:x.title||v,path:v,meta:tags,html:head+files,
+
+  show({title:x.title||v,path:v,meta:tags,html:head+live+raw,
         back:back||{label:'All videos',go:()=>openVideoList()}});
+  const home={label:x.title||v,go:()=>openVideo(v)};
+  body.querySelectorAll('[data-open]').forEach(el=>el.onclick=()=>
+    open(el.dataset.open,'page',home,v));
   body.querySelectorAll('.fp').forEach(el=>{el.style.cursor='pointer';
     el.onclick=ev=>{ev.stopPropagation();ev.preventDefault();
-      if(byPath.has(el.textContent))open(el.textContent,'diff',{label:x.title||v,go:()=>openVideo(v)});};});
+      if(byPath.has(el.textContent))open(el.textContent,'diff',home,v);};});
 }
 
 /* the list of videos already read */
