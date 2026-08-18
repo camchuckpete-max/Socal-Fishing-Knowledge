@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -43,6 +43,26 @@ you read the *current across the kelp*, not the tide clock.
   mid-morning** — bite early, then dead until late day; the winter version is a
   reaction-bite-only day. Plan coastal bass segments for first light or late
   afternoon on the full ([moon](../conditions/moon.md)).
+- **Light angle governs where fish hold, separate from moon phase (n6yun
+  panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):** on
+  bright, sunny, stable-light days calico "levitate" up into the kelp canopy
+  to get out of direct light, concentrating along the **outer canopy edge**
+  worked with the current — the panel called this precise enough to
+  "pinpoint the money shots." Overcast/cloudy conditions instead **spread the
+  fish out** through the water column and structure, so a wider area can
+  produce. Consistent with, not a replacement for, the canopy-holding data
+  point already logged under Finding them below.
+- **Dawn/dusk window, a stated rule of thumb (n6yun panel, `RUuPNpK0x-s` —
+  medium confidence):** fish an hour before sunrise into the early morning,
+  and again the hour before sunset — cited as the window that decides a large
+  share of SoCal bass-tournament wins, including one described 30-minute
+  giant-bass frenzy right around first light. Applies to wall fishing as well
+  as open kelp/reef.
+- **Twilight pre-spawn staging (summer, n6yun panel, `RUuPNpK0x-s` — medium
+  confidence):** evening ("twilight boat") trips in summer connect with
+  calico staging to spawn in **40–60 ft of water over hard bottom** as light
+  fades. No specific SoCal location named beyond "coastal," so treat as a
+  general seasonal-depth pattern rather than a spot.
 - **Current, not calendar/tide:** the parallel-current rule governs. Current
   running **parallel** to the shoreline (uphill or downhill) makes the edge
   fishable; **into** the beach is marginal; **off** the beach is garbage and

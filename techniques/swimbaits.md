@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -25,6 +25,12 @@ retrieve, and the boat work.
 - You are **covering water** to locate biting fish along a bed edge rather than
   picking apart one spot — read the current and structure with
   [current structure](../conditions/current-structure.md).
+- **Anchored in the surf or a bay mouth, working current:** cast a weedless
+  slug/plastic and let the surf or current sweep it in and back out on a
+  taut line off the anchor — draws bites from a mixed bag (calico, sand bass,
+  halibut, small sea bass) in surf grass and junk that would foul a
+  non-weedless rig (n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium
+  confidence).
 
 ## Weedless rigging (Erik Landesfeind)
 
@@ -209,6 +215,37 @@ than merged in:
   `KTsXdQXAnkU`, 2019-06-05; registered voice, single mention — medium
   confidence).
 
+## Walking a weightless weedless slug ("reverse Sammy") — Corey Sandon, MC Swimbaits
+
+A distinct retrieve style for the weedless slug documented above, taught by
+Corey Sandon (MC Swimbaits) on a Fred Hall calico bass panel (n6yun,
+`RUuPNpK0x-s`, unregistered channel — medium confidence): rig the slug
+essentially **weightless** — only a small **3/8 to 1/2 oz** belly weight,
+just enough to keep the bait upright, not to get it down — so it fishes
+almost entirely in the **top 2 ft** of the water column, year-round,
+including in cold water.
+
+- **Retrieve:** short rod-tip twitches on a deliberate cadence make the slug
+  dart and dance side to side on the surface — described on camera as a
+  saltwater version of a freshwater walking-the-dog topwater ("a big reverse
+  Sammy"/Zara Spook action), a different retrieve style from the
+  skitter-and-1-2-3-pause presentation documented above, kept side by side
+  rather than merged. Getting the cadence right ("the real cadence") is
+  presented as a learned skill, not a fixed count.
+- **Why it works — the stated reason:** the erratic side-to-side action is
+  meant to **create the illusion of a wounded baitfish** thrown up against
+  the kelp canopy and struggling to get away — the same visual trigger
+  described for a live sardine getting mobbed and thrown up onto the canopy
+  while fly-lining.
+- **Tackle:** **50 or 60 lb fluorocarbon leader to 50 lb braid** — heavy,
+  because the bait is fished weedless "right in the junk" where the biggest
+  fish live.
+- **Year-round, not just warm-water doctrine:** a specific cold-water outing
+  was cited producing six calico bass and ten other bites in **55–56°F**
+  water — colder than the same angler's own stated typical target
+  temperature of **64°F** — offered on camera as evidence the presentation
+  is not a warm-water-only pattern.
+
 ## Flipping the kelp canopy (Observed, Aaron Martens & Benny Florentino)
 
 **Observed** (StokedOnFishing, San Clemente Island, December 2013 —
@@ -386,6 +423,7 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Drop Shot](drop-shot.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

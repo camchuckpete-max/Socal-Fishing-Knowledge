@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [riprap, jetty, breakwall, structure, current, birds]
-sources: [bydQzE3F9yM, jTXIr9O6zYk]
+sources: [bydQzE3F9yM, jTXIr9O6zYk, RUuPNpK0x-s]
 confidence: high
 regions: [socal-bight]
 waters: [nearshore-coast, bay-harbor]
@@ -51,6 +51,67 @@ presentations worked tight to the rock); pair this structure read with the
 species notes above for the retrieve and gear. The same rock-deviation logic
 applies in miniature to the riprap edges inside
 [bays and harbors](bays-and-harbors.md).
+
+## Casting a wall: close the bail immediately
+
+Most break-wall faces sit at roughly a **45° angle** underwater, following the
+rock pile's natural angle of repose. Casting a lead-head or plastic onto the
+wall and then lifting the rod tip to "let it sink" drops slack line straight
+into the rock pile — the bait falls into a gap and hangs up; fished that way,
+a guide working the wall hard can burn through "two dozen [jig] heads in a
+couple hours." The fix, stated as the decision and the reason on camera:
+**close the bail the instant the lure hits the water.** With the bail already
+closed, the retrieve follows the wall's angled contour back toward the
+boat/shore instead of dropping straight down — it may bump the rock once or
+twice on the way in but does not bury itself in a crevice. Fishing a stretch
+that runs slightly uphill (target depth roughly **15–20 ft**), count the bait
+down to the bottom once on the first cast (e.g., a 5-count), then on
+subsequent casts engage the reel **one count short of that bottom count**
+(e.g., a 4-count) so the retrieve rides right along bottom instead of
+dropping into it (n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium
+confidence).
+
+## The countdown method — targeting a known depth
+
+A generalizable version of the same idea, useful anywhere depth is known from
+the sounder, not just on a wall: **count the bait down on a known count to
+reach a given depth**, then engage the reel a beat or two **before** it
+reaches bottom (or the fish's depth), so the retrieve arrives swimming in
+naturally from the side rather than dropping in from above — "fish don't
+swim into rocks, they swim a long stretch." Two stated applications
+(n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):
+
+- **Locating suspended fish precisely:** on the meter, bass mark stacked up
+  and shaped like an "umbrella" in summer. If fish are showing at, say, 15 ft
+  over a bottom that takes a 20-count to reach, count down to **16** and
+  engage the reel there so the retrieve swims back up through the school
+  instead of passing under it.
+- **Avoiding snags anywhere depth is known, not just on a wall:** at an
+  island stop, read the bottom depth off the sounder (e.g., 30 ft), establish
+  the matching count (e.g., a 5-count to bottom), and start winding just
+  before that count is up — matters most where the bottom itself is uneven
+  and hides rock.
+
+Called "pretty much a lost art" on the panel — not many anglers count their
+bait down anymore, but doing it costs far fewer jig heads and puts the
+retrieve in front of fish holding tight to structure rather than swimming
+past them.
+
+## Night bite on the wall
+
+Panelists described low-light conditions producing the bigger fish on
+break-wall structure specifically: one speaker cited double-digit ("teen[s]"
+lb) calico bass taken off a local breakwater at night, against very few fish
+over roughly **4 lb** taken there during the day — called "night and day"
+between the wall's day and night bite on camera. Bait fished from the rocks
+at night in this account was doctored with a scent additive ("hot sauce") —
+captions render the bait itself only as "betty's baits," an ASR-garbled name
+not confidently resolvable to a specific product or bait type, so treat the
+live/cut-vs-artificial distinction as unconfirmed; the wall's kelp growth was
+also called out as holding fish and producing bites after dark, not just the
+bare rock (n6yun
+panel, `RUuPNpK0x-s`, unregistered channel — medium confidence; no specific
+wall or region named beyond "that breakwater").
 
 
 <!-- backlinks:start -->

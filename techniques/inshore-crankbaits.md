@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -81,6 +81,42 @@ situation calls for it lives in the routers:
 **Crank class** — 8–10 ft limber, big-bend rod, slow-retrieve 200-size reel;
 see [gear classes](../tackle/gear-classes.md). An 8 ft rod still throws a
 crank if you don't have the 10 (GVP3IChsmRQ).
+
+## Freshwater crossover baits (Fred Hall calico bass panel)
+
+Panelists at a Fred Hall calico bass seminar described bringing freshwater
+bass gear over to saltwater kelp bass on the stated reasoning that
+**"bass are bass"** — freshwater largemouth and saltwater calico/sand bass
+are both reaction/forage feeders that respond to a bait triggering a strike,
+regardless of whether the lure was designed for fresh or salt water (n6yun
+panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):
+
+- **Spinnerbait with the skirt swapped for a swimbait:** strip the standard
+  spinnerbait skirt and thread a small swimbait onto the jig head instead,
+  then cast it from the beach/rocks and work it back through the wash —
+  described as drawing an aggressive reaction bite. A downside was noted on
+  camera for kelp cover (captions render it only as "yellow kilty," an
+  ASR-garbled phrase read here as fouling on kelp, but not confidently
+  resolvable word-for-word); treat this rig as a beach/open-water pick
+  rather than a kelp-cover bait until a cleaner source confirms the exact
+  failure mode.
+- **Thin stickbait/jerkbait crossover:** a slim, three-treble freshwater
+  stickbait (named on camera as a Lucky Craft "190 Slim"/"Slim Fingers"
+  model — ASR-uncertain exact model name) was named as a favorite crossover
+  hard bait; upgrading hooks before fishing it in saltwater is the same
+  hardware step already documented above for other inshore cranks.
+- **"Triple Trout"-style freshwater swimbait:** named on camera as a
+  freshwater-market bait (heard as "triple trout") that has produced big
+  saltwater bass on private-boat trips — cited as the kind of bait that
+  started the angler experimenting more broadly with freshwater gear on
+  kelp bass.
+- **General philosophy — try baits outside the standard SoCal box:**
+  panelists described watching other freshwater disciplines (e.g., muskie
+  lures) for actions that might translate, and buying baits that "fit what
+  we like fishing for" to test on calico. Read as a stated openness to
+  experimentation, not a specific new rule — no single crossover bait is
+  claimed to outperform the established SoCal weedless/iron/crank program
+  documented elsewhere in this KB.
 
 ## Thin areas (flagged — no corpus source yet)
 

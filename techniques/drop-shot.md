@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -82,6 +82,57 @@ this rig first, but it also makes the hookset the failure point:
   case is pulling a plastic out of grass or rock and recasting. The discipline
   that matters is taking up slack before the swing, not hesitating on the swing
   itself.
+
+## Weedless slug on a drop-shot-style rig — halibut & bay sand channels (Fred Hall panel)
+
+A second, distinct rig from the fluke/grub build above, described on a Fred
+Hall calico bass panel as producing well on **California halibut** and
+worked through bay sand channels (n6yun panel, `RUuPNpK0x-s`, unregistered
+channel — medium confidence):
+
+- **Bait:** a slug-style soft plastic with a tail fin, rigged **weedless** on
+  an **Owner twist-lock** hook — the same weedless-slug family documented in
+  [swimbaits](swimbaits.md), adapted onto a dropper-style leader instead of a
+  straight cast-and-wind retrieve.
+- **Rig:** roughly a **2 ft leader** from weight to bait, with a **1 oz**
+  torpedo/keel weight below it.
+- **Presentation — sight-fishing the sand:** cast down a visible sand channel
+  between structure and twitch it back; called out on camera as effective
+  enough on halibut, spotted bay bass, and other bay species that "they
+  cannot handle it." The same weedless-slug-on-current idea is also
+  described working the surf zone — see
+  [swimbaits — reach for this when](swimbaits.md#reach-for-this-when).
+- Named on camera as originally brought to the Fred Hall show as a dedicated
+  drop-shot bait roughly seven or eight years before this panel — resolving
+  against the panel's own `2013-03-09` upload date, that puts the bait's
+  introduction at roughly **2005–2006**.
+
+## Improvising on a slow bay day (Fred Hall calico bass panel)
+
+Decision-rationale from the same panel on what to do when a bay bite goes
+dead (n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):
+when conventional presentations stop drawing bites, panelists described
+deliberately reaching for unconventional rigs rather than continuing to soak
+the standard program. The trigger is a confirmed slow/scratching bite in a
+bay; the decision is to try something atypical; the stated reason is that
+"almost anything goes" once fish clearly aren't responding to the normal
+approach, so an odd rig costs nothing worse than a recast.
+
+- Named examples from the panel: a **reverse drop shot** (rig detail not
+  given on camera); a **crankbait fished with a small torpedo/keel weight on
+  the bottom**, held nearly stationary in current rather than retrieved; a
+  **worm on a drop shot with a shrimp bait rigged above it**; and a
+  **crankbait with a small swimbait trailing in-line** behind it.
+- One angler's specific example, offered as the reason to try this: a client
+  described on camera as running unusual, self-tied "weird" combinations who
+  reportedly out-fished the boat on slow days — read as a reason to pay
+  attention to what an observant angler on the boat is doing differently,
+  even a client rather than the guide.
+- A related retrieve-speed tell offered alongside this: if a fish tears the
+  rod out of an angler's hand who had **paused** the retrieve, the read is to
+  start pausing the swimbait more; if it happens on a **fast, distracted**
+  retrieve instead, the read is to speed the retrieve up — treated as
+  in-session feedback on retrieve speed, not just luck.
 
 ## Gear class
 
