@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c, bM2vUS1B-yQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -46,6 +46,13 @@ above; how you handle it affects both your wait and your bait quality:
   load around 6:00 a.m., which is when the barge lines up. Arriving at
   **5:00 a.m.** or **7:00 a.m.** (or loading mid-day) instead avoids the
   line entirely.
+  **Corroborated, earlier-still option added (same presenter, live seminar,
+  PCS Show, `bM2vUS1B-yQ`, 2023-03-03; registered voice, repeated doctrine —
+  high confidence on the core avoid-the-rush rule):** names the rush as
+  charter, half-day, **and** 3/4-day boats all converging by 6:00 a.m., with
+  a line already forming by a quarter to six; states his own target as **"at
+  least five o'clock in the morning, if not four thirty."** A tighter/earlier
+  version of the same 5:00 a.m. option above, not a conflicting number.
 
 ## Sabiki work (mackerel)
 

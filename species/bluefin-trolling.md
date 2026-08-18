@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU, JiJYamo0QHk]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU, JiJYamo0QHk, bM2vUS1B-yQ]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -223,6 +223,18 @@ stay over fish), and the calm-day school-grade spread does the rest.
   fishing doesn't work — kept beside, not reconciled with, the flat-fall
   depth/mechanism doctrine already logged in
   [knife jigging](../techniques/knife-jigging.md#reach-for-this-when).
+- **Sportboat top troll speed vs. the 13–15 kt Mad Mac band (dave-hansen, Your
+  Saltwater Guide, live seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03;
+  registered voice, single mention — medium confidence):** a SoCal sportboat
+  running full-speed troll tops out around **9 kt** ("if everybody on the
+  boat is running back and forth... as fast as they can, we'll get all the
+  way up to nine knots") — well under the 13–15 kt Mad Mac speed-troll band
+  in the table above, which this presenter frames as a private-boat/yacht
+  technique sportboats structurally can't match. Also notes the fuel cost at
+  14 kt as roughly a quarter gallon per mile, the worst burn rate on a
+  private boat — a cost/coverage tradeoff, not a claim against the
+  technique's effectiveness (he separately credits it with producing bites
+  driving straight over a sounded-out foamer).
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental

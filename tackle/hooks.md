@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ]
 confidence: medium
 ---
 
@@ -321,6 +321,14 @@ live bait — prep and hook **cut squid strips** rather than a chunk:
   ("this is the hot [tip]"). No prep or hook detail beyond the thin-strip
   claim itself; bumps this rule to repeated-doctrine (`high`) confidence from
   a registered voice.
+- **A smaller endpoint, generalized beyond squid/sheephead to reef fishing at
+  large (dave-hansen, Your Saltwater Guide, live seminar, PCS Show,
+  `bM2vUS1B-yQ`, 2023-03-03; registered voice, single mention on this
+  specific size — medium confidence):** framed as his general artificial-reef
+  teaching, not species-specific — **No. 6 or No. 4 hook**, with a small
+  sliding sinker or small split shot, is the terminal end he teaches. No. 6
+  extends the size-2/size-4 range logged above one notch smaller; kept as a
+  further data point rather than merged into one fixed number.
 
 ### Sheephead — hook, weight, and bait (Dave Hansen, Your Saltwater Guide, OSbAHdB4uPs, 2021-01-12; registered voice, repeated across two Your Saltwater Guide sheephead/structure videos — corroborates the size-2/size-4 figure above from yKaHcxX46l4 — `high` confidence on the size call)
 

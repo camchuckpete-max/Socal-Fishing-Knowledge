@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4, JK2-cpaXkI8]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4, JK2-cpaXkI8, bM2vUS1B-yQ]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -108,6 +108,22 @@ side rather than reconciled (see the flag below).
 - Tie-up point scales with comfort — "as far up the side as you feel most
   comfortable" — with the bow given as this presenter's personal default.
 
+**Sink-timing elaboration, named reef and depth (same presenter, live
+seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03; registered voice, single
+mention — medium confidence):** worked example at the Pendleton artificial
+reef, fished around **35–40 ft** of water, chum bucket loaded with ground-up
+sardines, mackerel, or anchovies, tied off the bow. Stated timing: by the
+time the chum's plume is visible in the water it's already sunk **3–4 ft**,
+and the whole trip from bow to stern happens faster than a person can walk
+the same distance on deck — offered as the reason a bow-tied bucket on a
+mid-length boat reaches full fishing depth by the time it drifts back under
+the anglers at the stern, not just "roughly the middle" as stated above.
+Paired with a hooked-weight caution: dropping bait on a heavier weight
+straight down past a mark spooks the fish holding at that depth ("what was
+that... let's keep eating the chum"); a small weight flicked off the bow and
+allowed to settle on the way back to the stern reaches the fish already
+moving naturally with the chum instead of falling through them.
+
 ## Kelp-bed sequencing — chum the spot, then anchor up-current and back down onto it (presenter inferred as Dave Hansen, Your Saltwater Guide, RXNebDr4j7s, 2022-02-13; medium confidence — single mention, on-the-water footage)
 
 On a kelp edge with current running parallel down the coast, the anchoring
@@ -157,6 +173,16 @@ framing and the extended catch list below are this video's own addition
   catching sargo up to **5–6 lb**, big white seabass, big sheephead, and
   calico bass this way, and even yellowtail off an artificial reef using this
   exact chum method.
+- **Origin and species mix (same presenter, live seminar, PCS Show,
+  `bM2vUS1B-yQ`, 2023-03-03; registered voice, single mention — medium
+  confidence):** frames the SoCal artificial-reef system itself as having
+  been built specifically for sport fishermen, in the 1950s–70s, funded by
+  sportfishing money rather than a commercial-fishing program (a name given
+  on camera for one of the reef-fund contributors is too garbled to carry
+  here — asr-uncertain). Names the species mix as **calico bass, sand bass,
+  halibut, white seabass, a range of rockfish, sculpin, and sargo** — sand
+  bass, halibut, rockfish, and sculpin extend the species list logged above
+  from this same reef-chumming doctrine.
 - **Generalized beyond artificial reefs (dave-hansen, Your Saltwater Guide,
   BdRX4b8Fo5w, 2021-02-04; registered voice — repeated doctrine, high):**
   the same prey-density mechanism stated as a general SoCal principle, not

@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -72,6 +72,15 @@ below, but the floor and the reasoning still stand as a sanity check):
   doing it wrong; offshore tuna fishing goes through a large amount of bait
   between chumming and fishing it, so load for that rather than against a
   "that should be enough" instinct.
+- **A higher floor, same voice, later date (dave-hansen, Your Saltwater Guide
+  live seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03; registered voice, single
+  mention on this specific number — medium confidence):** states he
+  "wouldn't even go out without five scoops," mocking the half-scoop ask
+  directly — same core rule (don't under-load, a half scoop is an admission
+  you expect to blank) but a higher personal minimum than the three-scoop
+  floor above. Kept side by side rather than reconciled: no run distance is
+  given in this seminar to explain the gap, and the three-scoop figure
+  already carries the day-by-day judgment-call caveat below.
 
 ## Sharing bait between boats without rafting up
 

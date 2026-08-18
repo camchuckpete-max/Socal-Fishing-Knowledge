@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ]
 confidence: high
 ---
 
@@ -73,6 +73,16 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   pays off, and only commit when it grades out. (The bait-shape rule — a solid
   unbroken wall of bait usually has no predators; broken/harried bait does —
   supports the grade; see [bass structure](../locations/bass-structure.md).)
+- **Present to where the mark actually is, not away from it.** (dave-hansen,
+  Your Saltwater Guide, live seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03;
+  registered voice, single mention — medium confidence.) Framed as a mistake
+  he says he watched deckhands make repeatedly running sportboats: told the
+  meter is marking well **directly under the boat at a known depth** (his
+  example: 30 ft down), the angler's instinct is to cast **far away** from
+  the boat instead of presenting right there — putting the bait outside the
+  zone the mark was actually in. The fix is trivial (drop or under-hand flick
+  the bait straight down/near the boat to the marked depth) but easy to miss
+  under the reflex to cast distance.
 - **Set range manually for shallow schools in deep open water.** Working
   tuna schooling under dolphin pods well offshore, set a manual range window
   (e.g. **0–150 ft**) rather than auto — left on auto, the sounder keeps
