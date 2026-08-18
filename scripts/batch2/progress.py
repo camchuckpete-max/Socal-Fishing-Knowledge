@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Regenerate sources/batch-2-progress.md from the worklist (mechanical)."""
+"""Regenerate sources/batch-2-progress.md from the worklist (mechanical).
+
+Pass --check to print the summary WITHOUT writing the file. Use that for
+status checks: this script writes as a side effect of reporting, so a bare
+run during an active ingestion leaves a dirty tree, and that stray write has
+twice been swept into an unrelated commit by a later `git add -A`. The
+ingestion chain regenerates and commits this file itself, so a human checking
+progress should never need to write it.
+"""
 from __future__ import annotations
 
 import datetime
@@ -16,6 +24,7 @@ END = "<!-- batch3:worklist:end -->"
 
 
 def main() -> int:
+    check_only = "--check" in sys.argv
     text = (ROOT / "sources" / "extraction-log.md").read_text(encoding="utf-8")
     if START in text:
         block = text.split(START, 1)[1].split(END, 1)[0]
@@ -57,7 +66,8 @@ def main() -> int:
                   "ran before batch 2 merged to `main` (540ea4a); it is being done",
                   "as Phase 1 of the batch-3 build — see the close-out section in",
                   "sources/extraction-log.md.", ""]
-    (ROOT / "sources" / "batch-2-progress.md").write_text("\n".join(lines),
+    if not check_only:
+        (ROOT / "sources" / "batch-2-progress.md").write_text("\n".join(lines),
                                                           encoding="utf-8")
     print(f"progress: {total} total, {pending} pending, {n_esc} escalation entries")
     return 0
