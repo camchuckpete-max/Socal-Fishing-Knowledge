@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs]
 confidence: high
 ---
 
@@ -86,19 +86,33 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   scenario-specific parameter.
 
 - **Why private boats stay shallow-range, and what the payoff looks like.**
-  Hansen's earliest statement of the manual-range rule (9hEa3sGTh40,
-  2019-08-20) gives the reasoning and the default range: a private boat
-  doesn't have the bait budget to hold and chum a school up from depth the
-  way a sportboat can ("they can look at fish at 30 fathoms and set on it
-  long enough... the fish will come up" — private boats can't sustain that),
-  so there's no point reading anything deeper than the top of the water
-  column. Working range on manual: **0–120 ft on older machines, 0–150 ft on
-  newer ones** — the same range regardless of how deep the actual bottom is
-  (e.g. 209 or 181 fathoms at the offshore banks, see
+  Hansen's earliest *tutorial* statement of the manual-range rule
+  (9hEa3sGTh40, 2019-08-20) gives the reasoning and the default range: a
+  private boat doesn't have the bait budget to hold and chum a school up
+  from depth the way a sportboat can ("they can look at fish at 30 fathoms
+  and set on it long enough... the fish will come up" — private boats can't
+  sustain that), so there's no point reading anything deeper than the top of
+  the water column. Working range on manual: **0–120 ft on older machines,
+  0–150 ft on newer ones** — the same range regardless of how deep the
+  actual bottom is (e.g. 209 or 181 fathoms at the offshore banks, see
   [zone lexicon](../locations/zone-lexicon.md)). The payoff is legibility: at
   that manual range a school of tuna paints as a large, distinct
   upside-down-U-shaped mark; left on auto with the bottom set to the real
   (much deeper) depth, the same school shrinks to a barely visible speck.
+  **Repeated doctrine, now high confidence, and antedated by a live
+  seminar** roughly five months before the tutorial above, with the same
+  bait-budget reasoning and the same 0–150 ft figure: take the sounder off
+  auto and onto manual, and don't read deeper than **0–150 ft**, "because
+  you don't have enough bait to draw fish up from 250 feet down... if you're
+  chumming, you don't carry enough bait, you're just wasting your time." Most
+  of the water fished offshore runs far deeper (he cites ~3,000 ft) than that
+  working window, so a machine left on auto keeps hunting for the real
+  bottom and a 100 lb tuna paints too small to see; on a manual 0–150 ft
+  window the same fish reads as a large, obvious mark. The same seminar also
+  gives the reason most anglers never leave auto in the first place: fear of
+  the machine's buttons, plus units commonly arriving from the dealer/installer
+  pre-set to auto (Capt. Dave Hansen, live seminar, Fred Hall Show 2019,
+  filmed by Utah Spahghettzi Björker, `8XrMkWPRxgs`, 2019-03-12).
 
 - **Size manual range so the bottom sits mid-screen, not at the edge.**
   Dave Hansen's baseline method: whatever the actual depth, pick a manual
