@@ -14,6 +14,7 @@
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md) **[SoCal only]** — Two knotless connections made possible by hollow-core braid, both relying on the same finger-trap principle: braid woven around a buried line clamps tighter as
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
 - [Tuna Feather Rig](tuna-feather-rig.md) **[SoCal only]** — Rigging a tuna feather — a West Coast trolling staple.
 - [Wind-On Leader](wind-on-leader.md) **[SoCal only]** — A wind-on leader is a fluorocarbon (or mono) top shot joined to hollow-core braid without a knot: the leader is threaded *inside* the hollow braid so the braid'
@@ -36,14 +37,17 @@ graph LR
   n7["Hollow-Core Splice & Serving"]
   n8["Leadhead Mods & Rigging"]
   n9["Rubber-Band Deep Rig"]
-  n10["Trap Rig"]
-  n11["Tuna Feather Rig"]
-  n12["Wind-On Leader"]
-  n13["Wiring a Surface Iron"]
-  n13 --> n6
-  n3 --> n12
+  n10["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n11["Trap Rig"]
+  n12["Tuna Feather Rig"]
+  n13["Wind-On Leader"]
+  n14["Wiring a Surface Iron"]
+  n10 --> n3
+  n14 --> n6
+  n3 --> n10
+  n3 --> n13
   n3 --> n9
-  n7 --> n12
+  n7 --> n13
   n9 --> n3
 ```
 <!-- mermaid:end -->

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -59,6 +59,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
     saltwater books show 3): **4 turns for 20–100 lb test, 5 turns under
     20 lb**. Kept side by side with the Seaguar knot as a second attributed
     technique for the same connection, not reconciled with it.
+  - **Scaled up for giant yellowtail on long-range trips:** the same
+    doubled-overhand family, tied heavier (80–100 lb) and much larger
+    (about a 2 ft finished loop) as a general terminal-tackle attachment
+    point — see [Surgeon's Loop](surgeons-loop.md) for the dedicated build,
+    kept as its own note rather than grown here.
 - **Worm knot (connection)** — ties a monofilament topshot directly onto the
   loop of an already-tied Bimini twist double line; the specific connection
   knot for the "topshot on rail-rod big-tuna setups" use case named in the
@@ -470,6 +475,7 @@ and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

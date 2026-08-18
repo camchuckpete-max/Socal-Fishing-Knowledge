@@ -465,6 +465,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 - [Flyline](../techniques/flyline.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
