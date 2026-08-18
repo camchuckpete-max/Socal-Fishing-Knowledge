@@ -2047,7 +2047,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 6_E5JCRvazc | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; techniques/knife-jigging.md / tackle-shop hook/leader/reel/jig-model specifics and a bite-timing heuristic merged as attributed medium-confidence sub-bullets into existing notes |
 | 6wVlDDno2TE | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md; tackle/bluefin-rig-ladder-by-grade.md; techniques/fighting-fish-from-the-rail.md; lures/knife-jigs.md; species/bluefin-tuna.md / split Searcher-channel tuna-rig content into a dedicated note (3-rig 80-130lb ladder + rail-fight variant), re-pointed existing links to it |
 | 6wbO7qaU3sI | SearcherSportfishing | tutorial | deep | done | rigging/bite-leaders.md / corroborating flat-fall-jig bite-leader build (swivel + heavy-duty Owner split ring, crimp mechanic) added as an attributed sub-bullet under existing bluefin bite-leader doctrine |
-| 7Ljt-DeFVcs | SearcherSportfishing | tutorial | deep | pending |  |
+| 7Ljt-DeFVcs | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / added Penn Torque 40 / Phoenix Black Diamond Hybrid yo-yo reel-and-rod spec as concrete detail behind existing retrieve-speed doctrine in Gear-class detail |
 | 7T6dIYqr3KI | SearcherSportfishing | tutorial | deep | pending |  |
 | 7TPJsMc_clA | SearcherSportfishing | tutorial | deep | pending |  |
 | 7iSGGb9ueAk | SearcherSportfishing | tutorial | deep | pending |  |

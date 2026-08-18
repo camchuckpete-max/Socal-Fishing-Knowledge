@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -265,6 +265,18 @@ the reverse map in **Linked from** below.
   easier for them to take line fast enough on the wind-up — retrieve speed
   matters more than raw cranking power for a customer still learning the
   technique.
+- **A retrieve-rate spec behind that same doctrine (Logan Flattington,
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 156 (Yo-yo Outfit for
+  Yellowtail)," `7Ljt-DeFVcs`, 2021-09-09; unregistered channel — medium
+  confidence):** a **Penn Torque 40** conventional paired with a **Phoenix
+  Black Diamond Hybrid rod, rated 40–100 lb**, picked for **yo-yo iron and
+  bottom fishing** specifically because, in his words, the technique "needs a
+  fast action reel that retrieves a lot of line at a time" — this reel is
+  named for a spec of **43 in of line per full handle rotation**. A concrete
+  number behind, not new beyond, the retrieve-speed-over-raw-power reasoning
+  above. Framed against yellowtail he described as running **20–35 lb**, with
+  fishing reported (as of the 2021-09-09 upload) **5–90 miles off the
+  coast**.
 - **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
   A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a
   stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),
