@@ -102,6 +102,7 @@ does the lookup.
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)

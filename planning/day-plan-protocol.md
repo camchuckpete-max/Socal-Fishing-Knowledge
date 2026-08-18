@@ -16,10 +16,10 @@ navigate the whole KB.
 
 ## The four steps
 
-1. **Pull conditions.** From [BightSST](https://bightai-api.onrender.com), per
-   fishing zone and along the transit route, observed **and** forecast: per-spot
-   SST + chlorophyll, wind/swell/current. (BightSST read endpoints are open /
-   no-auth; expect Render free-tier cold starts of 30–60 s.)
+1. **Pull conditions.** Per fishing zone and along the transit route, observed
+   **and** forecast: per-spot SST + chlorophyll, wind/swell/current. Endpoints,
+   the fallback ladder, and the source-validity rules live in
+   [conditions endpoints](../config/endpoints.md) — read that before any pull.
 2. **Apply priors + interpretation layers.** Weight zones and set timing (moon,
    tide windows) using the [seasonal priors](../seasonal/) calendar and the
    [conditions layers](../conditions/) — especially
@@ -36,12 +36,16 @@ navigate the whole KB.
    profile → class terms per the [gear-class lexicon](../tackle/gear-classes.md);
    with one → owned gear within the boat envelope.
 
-## Conditions sources (BightSST)
+## Conditions sources
 
-- **Role:** BightSST is the system of record for *conditions*; this KB
-  *references* it and never duplicates it.
-- **Endpoints:** read endpoints open/no-auth; admin behind a Bearer key.
-- **Cold-start caveat:** Render free tier, 30–60 s cold starts.
+- **Role:** [BightSST](https://bightai-api.onrender.com) is the system of record
+  for *conditions*; this KB *references* it and never duplicates it.
+- **Where endpoint detail lives:** [`config/endpoints.md`](../config/endpoints.md)
+  — endpoint table, fallback ladder, source-validity rules, last-verified date.
+  Stated there and nowhere else; an endpoint fact repeated here is a fact that
+  survives a fix.
+- **Doctrine — an empty layer is missing data, not a zero.** Chlorophyll is
+  reported every run, or its absence is named.
 - **Doctrine — distrust single-source SST extremes; cross-check models.** A
   known `goes_west_composite` window discrepancy and a cloud-contaminated NRT
   max (96.6 °F) mean single-source SST outliers are treated with suspicion.
@@ -64,9 +68,11 @@ navigate the whole KB.
 - [<Your> Spots](../profiles/_template/spots.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
+- [Conditions Endpoints & Fallback Ladder](../config/endpoints.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
+- [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

@@ -79,6 +79,7 @@ Fold the output of this note back into the
 
 - [August](../seasonal/august.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
+- [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [June–July](../seasonal/june-july.md)
 - [Moon](../conditions/moon.md)
 - [Sea State](../conditions/sea-state.md)
