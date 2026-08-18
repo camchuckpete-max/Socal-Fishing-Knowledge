@@ -1950,3 +1950,986 @@ re-source in the uncaptioned-recovery pass.
 
 Not yet triaged or extracted — this corpus is queued for the autonomous
 pipeline along with the rest of the batch-3 backlog.
+
+
+## Batch 3 — autonomous worklist (built 2026-08-17)
+
+Priority order is deliberate and is the main lever on how the remaining
+weekly budget is spent: **the backlog cannot finish before the quota reset**
+(~847 pending at batch-2's ~6.8 min/video is ~96 h of processing against a
+39 h window), so the rows are ordered by **value density** and the run simply
+stops wherever it stops.
+
+| # | bucket | rows | depth | why here |
+| --- | --- | ---: | --- | --- |
+| 1 | seminars | 32 | `deep` | densest material in the whole corpus (~9,200 words/video median); batch-2 lesson L8 — seminars carry doctrine, on-the-water carries anecdote |
+| 2 | Searcher — Tackle Tip Thursday | 219 | `deep` | numbered, single-topic-per-episode how-to series |
+| 3 | Searcher — Tackle Talk Live | 11 | `deep` | long-form Q&A |
+| 4 | Searcher — other | 108 | `decision-rationale` | trip footage → the C3 depth: decisions and their stated reasons |
+| 5 | Tackle Express | 477 | `parameter-skim` | 86% of the videos but 34% of the words (~437 words/video); lowest density, so last |
+
+**107 rows were pre-filtered straight to `skipped`** so they never cost a run:
+120→ tackle-express promo/product and sub-200-word shorts with no technique
+keyword, plus Searcher boat-maintenance/merch/event videos. Each carries its
+reason in the result cell, per the plan's "log what the filter dropped" rule.
+
+<!-- batch3:worklist:start -->
+
+| video_id | channel | class | depth | status | result |
+| --- | --- | --- | --- | --- | --- |
+| -nIhadZwxAA | CustomRodandReel | seminar | deep | pending |  |
+| 0HwYl0HO2tc | Orange County SUP FISHING | seminar | deep | pending |  |
+| 0ZYCT-lUStM | Big Rocco | seminar | deep | pending |  |
+| 1iV1GnF4K-c | Bad Company Fishing Adventures | seminar | deep | pending |  |
+| 46ha7J1Fc6A | Roman Castro | seminar | deep | pending |  |
+| 5Oh3IPIC5g4 | Fisher Newb | seminar | deep | pending |  |
+| 8XrMkWPRxgs | Utah Spahghettzi Björker | seminar | deep | pending |  |
+| 8txprrsY9Os | jdmarnell | seminar | deep | pending |  |
+| 9JnIS8HkZlA | Fishing From San Diego | seminar | deep | pending |  |
+| AH4Eiya1Hn0 | Your Saltwater Guide | seminar | deep | pending |  |
+| BskCsKaTiZw | Your Saltwater Guide | seminar | deep | pending |  |
+| EcQK5elTPJE | Your Saltwater Guide | seminar | deep | pending |  |
+| Et2TUskzCSs | James Kikkawa | seminar | deep | pending |  |
+| G1YIlakiRqg | SD Fish and Sips | seminar | deep | pending |  |
+| JK2-cpaXkI8 | Your Saltwater Guide | seminar | deep | pending |  |
+| JiJYamo0QHk | Utah Spahghettzi Björker | seminar | deep | pending |  |
+| KD-RSfCE6kg | Fisher Newb | seminar | deep | pending |  |
+| LqW32NSkObY | Fisher Newb | seminar | deep | pending |  |
+| NXvqLUZ6qp8 | Fisher Newb | seminar | deep | pending |  |
+| Q196GVwVqro | Your Saltwater Guide | seminar | deep | pending |  |
+| RUuPNpK0x-s | n6yun | seminar | deep | pending |  |
+| UP_3fBu7VPA | Fisher Newb | seminar | deep | pending |  |
+| XyKF34C5iB4 | Time On The Water | seminar | deep | pending |  |
+| ZoIzpyyS9xw | n6yun | seminar | deep | pending |  |
+| bM2vUS1B-yQ | Your Saltwater Guide | seminar | deep | pending |  |
+| gimFbgN5Jjk | James Kikkawa | seminar | deep | pending |  |
+| iAr6sbRC384 | Fisher Newb | seminar | deep | pending |  |
+| lP6cg4eEU6s | Fisher Newb | seminar | deep | pending |  |
+| m-M0iwX8DjA | Your Saltwater Guide | seminar | deep | pending |  |
+| ouBrIdO7d4k | SD Fish and Sips | seminar | deep | pending |  |
+| sIoNELGlxmk | Your Saltwater Guide | seminar | deep | pending |  |
+| ztpj1Xll0-U | Your Saltwater Guide | seminar | deep | pending |  |
+| -62xDo4UQzo | SearcherSportfishing | tutorial | deep | pending |  |
+| -BO1lMCTamg | SearcherSportfishing | tutorial | deep | pending |  |
+| -OJ1FED7mxI | SearcherSportfishing | tutorial | deep | pending |  |
+| -QnMvV4j_oM | SearcherSportfishing | tutorial | deep | pending |  |
+| -hY20bxz3oM | SearcherSportfishing | tutorial | deep | pending |  |
+| 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | pending |  |
+| 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | pending |  |
+| 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | pending |  |
+| 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | pending |  |
+| 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | pending |  |
+| 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | pending |  |
+| 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | pending |  |
+| 1uYIApdQQSM | SearcherSportfishing | tutorial | deep | pending |  |
+| 1wFoa11jPxQ | SearcherSportfishing | tutorial | deep | pending |  |
+| 25sd2gZAIZ8 | SearcherSportfishing | tutorial | deep | pending |  |
+| 2O4Z0S78KLg | SearcherSportfishing | tutorial | deep | pending |  |
+| 2TmLaSCmfC8 | SearcherSportfishing | tutorial | deep | pending |  |
+| 2fwj24S9S-o | SearcherSportfishing | tutorial | deep | pending |  |
+| 3FghhsYAIFI | SearcherSportfishing | tutorial | deep | pending |  |
+| 3djuTW9GBr0 | SearcherSportfishing | tutorial | deep | pending |  |
+| 3g82igEL8yk | SearcherSportfishing | tutorial | deep | pending |  |
+| 3gNTB4aMhCA | SearcherSportfishing | tutorial | deep | pending |  |
+| 3gykKyPdOvA | SearcherSportfishing | tutorial | deep | pending |  |
+| 3zXcrGsIL-c | SearcherSportfishing | tutorial | deep | pending |  |
+| 46wHgdTJWIM | SearcherSportfishing | tutorial | deep | pending |  |
+| 4PY5H_YPJxY | SearcherSportfishing | tutorial | deep | pending |  |
+| 5472APCgym8 | SearcherSportfishing | tutorial | deep | pending |  |
+| 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | pending |  |
+| 5IN1wsOFR-k | SearcherSportfishing | tutorial | deep | pending |  |
+| 5J7a6UwTA90 | SearcherSportfishing | tutorial | deep | pending |  |
+| 5g7pK63hYnc | SearcherSportfishing | tutorial | deep | pending |  |
+| 5pbA-wXoric | SearcherSportfishing | tutorial | deep | pending |  |
+| 5ppQob4N3Xw | SearcherSportfishing | tutorial | deep | pending |  |
+| 6D_mf5gOfrM | SearcherSportfishing | tutorial | deep | pending |  |
+| 6T3xZ9vufrM | SearcherSportfishing | tutorial | deep | pending |  |
+| 6_E5JCRvazc | SearcherSportfishing | tutorial | deep | pending |  |
+| 6wVlDDno2TE | SearcherSportfishing | tutorial | deep | pending |  |
+| 6wbO7qaU3sI | SearcherSportfishing | tutorial | deep | pending |  |
+| 7Ljt-DeFVcs | SearcherSportfishing | tutorial | deep | pending |  |
+| 7T6dIYqr3KI | SearcherSportfishing | tutorial | deep | pending |  |
+| 7TPJsMc_clA | SearcherSportfishing | tutorial | deep | pending |  |
+| 7iSGGb9ueAk | SearcherSportfishing | tutorial | deep | pending |  |
+| 7ivBSL-mhW8 | SearcherSportfishing | tutorial | deep | pending |  |
+| 83HROAgGW6Q | SearcherSportfishing | tutorial | deep | pending |  |
+| 8A8y7LmRwVQ | SearcherSportfishing | tutorial | deep | pending |  |
+| 8MayoweWrAM | SearcherSportfishing | tutorial | deep | pending |  |
+| 8UAtGqEjDtU | SearcherSportfishing | tutorial | deep | pending |  |
+| 9-3B-WRWqus | SearcherSportfishing | tutorial | deep | pending |  |
+| 91ZJbhAnzMg | SearcherSportfishing | tutorial | deep | pending |  |
+| 9IhmYstB8sA | SearcherSportfishing | tutorial | deep | pending |  |
+| 9_lwOzaLmXo | SearcherSportfishing | tutorial | deep | pending |  |
+| AGaVlYu61O4 | SearcherSportfishing | tutorial | deep | pending |  |
+| AodUBhxPts8 | SearcherSportfishing | tutorial | deep | pending |  |
+| Aorcd0Om7eI | SearcherSportfishing | tutorial | deep | pending |  |
+| AyN9MBWg-XY | SearcherSportfishing | tutorial | deep | pending |  |
+| BLbUu_mfMJY | SearcherSportfishing | tutorial | deep | pending |  |
+| BacIrmOK-Bo | SearcherSportfishing | tutorial | deep | pending |  |
+| BcX-tp3I7LE | SearcherSportfishing | tutorial | deep | pending |  |
+| Bn9fRKUmQ-U | SearcherSportfishing | tutorial | deep | pending |  |
+| Bo5Fj-XuWHo | SearcherSportfishing | tutorial | deep | pending |  |
+| Bz0WZNAofks | SearcherSportfishing | tutorial | deep | pending |  |
+| CXrF7K4lKxE | SearcherSportfishing | tutorial | deep | pending |  |
+| CdjT_I_PBHQ | SearcherSportfishing | tutorial | deep | pending |  |
+| E9YtH56Dngo | SearcherSportfishing | tutorial | deep | pending |  |
+| ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | pending |  |
+| EfaxxszOYFI | SearcherSportfishing | tutorial | deep | pending |  |
+| F9XjGMEvvag | SearcherSportfishing | tutorial | deep | pending |  |
+| FN9-rgyC9ic | SearcherSportfishing | tutorial | deep | pending |  |
+| G81HN0dIDg0 | SearcherSportfishing | tutorial | deep | pending |  |
+| GXXvT7pS2fM | SearcherSportfishing | tutorial | deep | pending |  |
+| GcgcnloKeZ4 | SearcherSportfishing | tutorial | deep | pending |  |
+| H5NHGLm1H5U | SearcherSportfishing | tutorial | deep | pending |  |
+| HH1YvOfMWx0 | SearcherSportfishing | tutorial | deep | pending |  |
+| ILA6OMInWSM | SearcherSportfishing | tutorial | deep | pending |  |
+| IaVqJgUfcM8 | SearcherSportfishing | tutorial | deep | pending |  |
+| Ixyi1mY3Qeg | SearcherSportfishing | tutorial | deep | pending |  |
+| J0NJhN6-Thg | SearcherSportfishing | tutorial | deep | pending |  |
+| J3FGJj5zYPE | SearcherSportfishing | tutorial | deep | pending |  |
+| J7nreDb1dn8 | SearcherSportfishing | tutorial | deep | pending |  |
+| JHMCguO7sXE | SearcherSportfishing | tutorial | deep | pending |  |
+| JOanxql39qg | SearcherSportfishing | tutorial | deep | pending |  |
+| KGrussv1s3U | SearcherSportfishing | tutorial | deep | pending |  |
+| KHYoj9GEjCM | SearcherSportfishing | tutorial | deep | pending |  |
+| KLmNyflzsQ0 | SearcherSportfishing | tutorial | deep | pending |  |
+| KYE14piJAzI | SearcherSportfishing | tutorial | deep | pending |  |
+| LpReZmYQSCU | SearcherSportfishing | tutorial | deep | pending |  |
+| M-W5mEjh1MY | SearcherSportfishing | tutorial | deep | pending |  |
+| MC3FTRRoOag | SearcherSportfishing | tutorial | deep | pending |  |
+| MjPY-nWZJ54 | SearcherSportfishing | tutorial | deep | pending |  |
+| MuC0uGKDzxg | SearcherSportfishing | tutorial | deep | pending |  |
+| NGtja-dCiC8 | SearcherSportfishing | tutorial | deep | pending |  |
+| NJ9ZLAU3sls | SearcherSportfishing | tutorial | deep | pending |  |
+| NN5MWeRA28o | SearcherSportfishing | tutorial | deep | pending |  |
+| OIiDJu4mx44 | SearcherSportfishing | tutorial | deep | pending |  |
+| OL8D1l73RVg | SearcherSportfishing | tutorial | deep | pending |  |
+| OmyRIw7Eye8 | SearcherSportfishing | tutorial | deep | pending |  |
+| P9H-bpzT7eU | SearcherSportfishing | tutorial | deep | pending |  |
+| PS8CRYwTPiU | SearcherSportfishing | tutorial | deep | pending |  |
+| PYlqIODuIPQ | SearcherSportfishing | tutorial | deep | pending |  |
+| PjLa3oGm4Qg | SearcherSportfishing | tutorial | deep | pending |  |
+| QTWVs5BwQ0g | SearcherSportfishing | tutorial | deep | pending |  |
+| Qa6Q8mOAV6I | SearcherSportfishing | tutorial | deep | pending |  |
+| R48YdVFfEOI | SearcherSportfishing | tutorial | deep | pending |  |
+| RM7cBgCDWFA | SearcherSportfishing | tutorial | deep | pending |  |
+| RNRFrfepiW0 | SearcherSportfishing | tutorial | deep | pending |  |
+| Rudzy0DD08w | SearcherSportfishing | tutorial | deep | pending |  |
+| S2cT2JqrWcY | SearcherSportfishing | tutorial | deep | pending |  |
+| S80GRyuAbLY | SearcherSportfishing | tutorial | deep | pending |  |
+| SCQnyVEQfHY | SearcherSportfishing | tutorial | deep | pending |  |
+| Stw7SNyIgdg | SearcherSportfishing | tutorial | deep | pending |  |
+| TU5quAG4atM | SearcherSportfishing | tutorial | deep | pending |  |
+| TgOMUXxIQl4 | SearcherSportfishing | tutorial | deep | pending |  |
+| Ud3hi9r1Nr4 | SearcherSportfishing | tutorial | deep | pending |  |
+| UfuQr6gOIk8 | SearcherSportfishing | tutorial | deep | pending |  |
+| UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | pending |  |
+| UyfcYoNV2sg | SearcherSportfishing | tutorial | deep | pending |  |
+| VW2t_G8eorI | SearcherSportfishing | tutorial | deep | pending |  |
+| VcJManCizRE | SearcherSportfishing | tutorial | deep | pending |  |
+| VxHYxXmPoWQ | SearcherSportfishing | tutorial | deep | pending |  |
+| VyFpIk-Na9Q | SearcherSportfishing | tutorial | deep | pending |  |
+| W6RuHvaqkHs | SearcherSportfishing | tutorial | deep | pending |  |
+| WxlDxFjB8oQ | SearcherSportfishing | tutorial | deep | pending |  |
+| X1zAA4DLOr0 | SearcherSportfishing | tutorial | deep | pending |  |
+| XTsTpWnk1gU | SearcherSportfishing | tutorial | deep | pending |  |
+| Y2XZ34-Tpa0 | SearcherSportfishing | tutorial | deep | pending |  |
+| YJX-hYEIcNM | SearcherSportfishing | tutorial | deep | pending |  |
+| Y_ElKixrhsc | SearcherSportfishing | tutorial | deep | pending |  |
+| Yd3J4igs-QA | SearcherSportfishing | tutorial | deep | pending |  |
+| YeV--HarEYQ | SearcherSportfishing | tutorial | deep | pending |  |
+| YtlD1gQ_ULw | SearcherSportfishing | tutorial | deep | pending |  |
+| ZECOKmD4fIs | SearcherSportfishing | tutorial | deep | pending |  |
+| ZKb13fNT6P0 | SearcherSportfishing | tutorial | deep | pending |  |
+| Zhn-VDrlaLM | SearcherSportfishing | tutorial | deep | pending |  |
+| _VtL0DrNdAU | SearcherSportfishing | tutorial | deep | pending |  |
+| _Z4yMtrYgeA | SearcherSportfishing | tutorial | deep | pending |  |
+| _jDXMtCrUZg | SearcherSportfishing | tutorial | deep | pending |  |
+| _rf1TqLh1yE | SearcherSportfishing | tutorial | deep | pending |  |
+| aAqKHeyBwEo | SearcherSportfishing | tutorial | deep | pending |  |
+| aD0Iim9C15o | SearcherSportfishing | tutorial | deep | pending |  |
+| an_uw-5pjfw | SearcherSportfishing | tutorial | deep | pending |  |
+| b-oixz7pgAo | SearcherSportfishing | tutorial | deep | pending |  |
+| bEFhWtGBdBU | SearcherSportfishing | tutorial | deep | pending |  |
+| bbn-aJGRH5o | SearcherSportfishing | tutorial | deep | pending |  |
+| cpUq7Z3UOwU | SearcherSportfishing | tutorial | deep | pending |  |
+| cx7tKXHmiY4 | SearcherSportfishing | tutorial | deep | pending |  |
+| ddataaVWoDc | SearcherSportfishing | tutorial | deep | pending |  |
+| dg1sbr6GuB8 | SearcherSportfishing | tutorial | deep | pending |  |
+| dkY7wJ4UM1c | SearcherSportfishing | tutorial | deep | pending |  |
+| e1-tPTNejBo | SearcherSportfishing | tutorial | deep | pending |  |
+| eLFVhVyyOTw | SearcherSportfishing | tutorial | deep | pending |  |
+| eLPTMO3-_1Q | SearcherSportfishing | tutorial | deep | pending |  |
+| eZXPqiAtqi8 | SearcherSportfishing | tutorial | deep | pending |  |
+| ew7Lru8wmQs | SearcherSportfishing | tutorial | deep | pending |  |
+| ewfWc7MTBPk | SearcherSportfishing | tutorial | deep | pending |  |
+| fg2v1kxoTMA | SearcherSportfishing | tutorial | deep | pending |  |
+| fgTmUq78ofQ | SearcherSportfishing | tutorial | deep | pending |  |
+| fyJA3o2hVh0 | SearcherSportfishing | tutorial | deep | pending |  |
+| gaHpCc_tc78 | SearcherSportfishing | tutorial | deep | pending |  |
+| gqEjWrPpa48 | SearcherSportfishing | tutorial | deep | pending |  |
+| h0NyGvIaDc8 | SearcherSportfishing | tutorial | deep | pending |  |
+| hlmDnAct1cA | SearcherSportfishing | tutorial | deep | pending |  |
+| hteLeDIy9Qs | SearcherSportfishing | tutorial | deep | pending |  |
+| i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | pending |  |
+| icpm7gADxvU | SearcherSportfishing | tutorial | deep | pending |  |
+| iqTN2IBRP1A | SearcherSportfishing | tutorial | deep | pending |  |
+| it_YYh_8Z-w | SearcherSportfishing | tutorial | deep | pending |  |
+| jDmHgRNnqhw | SearcherSportfishing | tutorial | deep | pending |  |
+| jJG6FWNXkok | SearcherSportfishing | tutorial | deep | pending |  |
+| jLFZIh15Fec | SearcherSportfishing | tutorial | deep | pending |  |
+| jQzOdmP0zoQ | SearcherSportfishing | tutorial | deep | pending |  |
+| jqyu3wZdNF4 | SearcherSportfishing | tutorial | deep | pending |  |
+| k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | pending |  |
+| kdEKEyVTIGU | SearcherSportfishing | tutorial | deep | pending |  |
+| kuvfoJKpLYU | SearcherSportfishing | tutorial | deep | pending |  |
+| kzpeM56Gh7o | SearcherSportfishing | tutorial | deep | pending |  |
+| m2g97MxmAGI | SearcherSportfishing | tutorial | deep | pending |  |
+| m424-XxCFQw | SearcherSportfishing | tutorial | deep | pending |  |
+| nAGkYWuJrCI | SearcherSportfishing | tutorial | deep | pending |  |
+| nM7B5NQLy44 | SearcherSportfishing | tutorial | deep | pending |  |
+| nWq2DVzBNeI | SearcherSportfishing | tutorial | deep | pending |  |
+| nnrEjc-Gq2o | SearcherSportfishing | tutorial | deep | pending |  |
+| o6Sawz5S7bk | SearcherSportfishing | tutorial | deep | pending |  |
+| otnnAon3F9Q | SearcherSportfishing | tutorial | deep | pending |  |
+| ouoyP7t2Nus | SearcherSportfishing | tutorial | deep | pending |  |
+| p9xeMl-r_CY | SearcherSportfishing | tutorial | deep | pending |  |
+| pB10vaDaETM | SearcherSportfishing | tutorial | deep | pending |  |
+| pCd6QykcZ0w | SearcherSportfishing | tutorial | deep | pending |  |
+| pQ9kGqgsX8I | SearcherSportfishing | tutorial | deep | pending |  |
+| pm8u6qUrVUI | SearcherSportfishing | tutorial | deep | pending |  |
+| ptoIvB2MspE | SearcherSportfishing | tutorial | deep | pending |  |
+| qBP3qRnK4H4 | SearcherSportfishing | tutorial | deep | pending |  |
+| q_ciF1xiDiI | SearcherSportfishing | tutorial | deep | pending |  |
+| qtCZAB4EBs4 | SearcherSportfishing | tutorial | deep | pending |  |
+| r9bF3VtzDUg | SearcherSportfishing | tutorial | deep | pending |  |
+| rFmWrp-Vndo | SearcherSportfishing | tutorial | deep | pending |  |
+| rNiQKb3sCh4 | SearcherSportfishing | tutorial | deep | pending |  |
+| riEkdu8PEds | SearcherSportfishing | tutorial | deep | pending |  |
+| rziFyx7SRGI | SearcherSportfishing | tutorial | deep | pending |  |
+| scScYJJF95Y | SearcherSportfishing | tutorial | deep | pending |  |
+| sfZhPSTvZy8 | SearcherSportfishing | tutorial | deep | pending |  |
+| sjOJiR6_HJ4 | SearcherSportfishing | tutorial | deep | pending |  |
+| sjlL5GidM58 | SearcherSportfishing | tutorial | deep | pending |  |
+| t8GP_-DMlSU | SearcherSportfishing | tutorial | deep | pending |  |
+| tRlv1azFPlM | SearcherSportfishing | tutorial | deep | pending |  |
+| tYebwLzTyf8 | SearcherSportfishing | tutorial | deep | pending |  |
+| tio1oeibVlM | SearcherSportfishing | tutorial | deep | pending |  |
+| tjBeR9tWd4s | SearcherSportfishing | tutorial | deep | pending |  |
+| tnHltcDdVtU | SearcherSportfishing | tutorial | deep | pending |  |
+| ueDBCY1mIPk | SearcherSportfishing | tutorial | deep | pending |  |
+| vNIazq1aVwc | SearcherSportfishing | tutorial | deep | pending |  |
+| vVOkxHx58Eg | SearcherSportfishing | tutorial | deep | pending |  |
+| vn4fmPxUqsU | SearcherSportfishing | tutorial | deep | pending |  |
+| wGWjnW7wCiI | SearcherSportfishing | tutorial | deep | pending |  |
+| wnlOU34RXs8 | SearcherSportfishing | tutorial | deep | pending |  |
+| wqrIs5kg1qw | SearcherSportfishing | tutorial | deep | pending |  |
+| yGXSrUauo2w | SearcherSportfishing | tutorial | deep | pending |  |
+| ypr-qZF4FTY | SearcherSportfishing | tutorial | deep | pending |  |
+| zkA1jqHXXD0 | SearcherSportfishing | tutorial | deep | pending |  |
+| zuAuk-Kfa1Y | SearcherSportfishing | tutorial | deep | pending |  |
+| 49joKHD7Umc | SearcherSportfishing | seminar | deep | pending |  |
+| 4uNPLknRAQg | SearcherSportfishing | seminar | deep | pending |  |
+| FETSTtbCMII | SearcherSportfishing | seminar | deep | pending |  |
+| FXWOIB0TPfE | SearcherSportfishing | seminar | deep | pending |  |
+| QHY5kmU7OTU | SearcherSportfishing | seminar | deep | pending |  |
+| SAltQjih0ms | SearcherSportfishing | seminar | deep | pending |  |
+| YntRJAN88fs | SearcherSportfishing | seminar | deep | pending |  |
+| eehDVb6_GoI | SearcherSportfishing | seminar | deep | pending |  |
+| lf3S28nh-kk | SearcherSportfishing | seminar | deep | pending |  |
+| shZCjX2-fkI | SearcherSportfishing | seminar | deep | pending |  |
+| tpmOYXYQwhU | SearcherSportfishing | seminar | deep | pending |  |
+| -II7kzpklzE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 1axjidotnfE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 2pTRbsDwTO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 38kxKgR4q2s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 3kGAA-T8IGw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 5m1cHclspII | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 6BqmPN0xGZY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 6I5Ma8n8PRE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 76cj579gnTo | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 7xnTtlaYs58 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 8gEvmdj0lec | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 8vJEyJVBvSM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 8wK37e921F8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 9fVsfdOgUMI | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| A3PW3EMsu8c | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| ACL2BD6gbkE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| AJzAbQ0i3QY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| B1r0T6f5kgM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Bk0-P4oeFiU | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| CSpBymCVWN4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| C_MmNnJrdrQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Dr_npFZYLM4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| ELd90j4ZukI | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| EfAThf5gOFw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| FIAvWu02xko | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| FPZBm0oFvKc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Fdaq28LwK0I | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| HAxYMiqkBDs | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| HCC1uhsPSas | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| HJdwm0bn0H8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| HeRoKbDCDTw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Ibt0vdrl48E | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Ij04nagr8g8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| J52jzaMnKA0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| J61iyNrfqsg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| JUSWISdzIq0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| JWU3djUbfKY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| K4GTUO57rio | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| KrIednxCEKI | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| L6BUIu5vFEc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| LYjdT3E3Rb4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| LuSn3IeW9_c | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| MPC_OQjvO-o | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| NeSw-4df4H4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| NgdpWzPRlqQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Nj_9ORYJhkg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Ntwb6fU2zl4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| OfJ_KI_D184 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| PKwvkOOYzto | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Psiiza6YQyE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| QMTCBY-kKeE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| QOV9d0qTcEE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| QeU9J5XVhP4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Qk6Q1UJMTpQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| RhULLaUsEDk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| S6Ic8aXDdIg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Sx40JvCXFuA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| URJm6qDHgqg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| UUiaoQVexy0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| UYfvRQk_xT8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| VB_GYSk_vdY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Vphyeoxd7R4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| XngQMsyvtNM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Y97blHr1F8k | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Y9Ke1shXpwc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| YeYO998pX0M | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| ZIJAvAEW_tU | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| ZY-cTuFtjh8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| ZcIiucZlBcM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| _f5QmWSUUx8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| _r08B4bItAY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| aXqFrQSNrDc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| atboDq5tZ0Q | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| b9JThf2Jm0s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| cjbAQ20Q9bQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| ck6REMbJkww | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| drARx5Fpy-s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| eIAKA8Jgopk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| fHtTbZAWz1g | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| fcdWAo0VAKw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| g1C-FK6o4nA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| gQb_3MW6L9M | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| jH0q4UPjwC0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| jU7qi40WTzQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| kYZqFRBUDYg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| kqsg_t5MIzY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| lYyi_Yh3S5g | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| pNNrYXlgkO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| phRsYlu0mmc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| sAwPTPnHNzk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| so1df8prECw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| srHnaMIrVIA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| tj_mEL94ETg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| uPnM-qw696k | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| uWGGeDOprsE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| uXWliLLPzss | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| utTcrpscYHQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| v8tPYYKM2JE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| vJGGfJfdDAk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| vMRLjvSQBNA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| wt-3dlbMGJc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| x0_v2COShBo | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| xU6Rp1YJjm8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| xo7njK7vXHQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| y0LVT59inEA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| y__TVzcePik | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| yidQY2NeXtM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| zKovnvOwlFc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| -BCEGxojaT4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| -FQ3cSdvnK0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| -KHdjYwefmM | Tackle Express | tutorial | parameter-skim | pending |  |
+| -Ocrnb4rmMo | Tackle Express | tutorial | parameter-skim | pending |  |
+| -zw76Sh7YCI | Tackle Express | tutorial | parameter-skim | pending |  |
+| 05uB5V_jWTg | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0OpWO3Yo4HE | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0PAPH1uqk4A | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0_pEeh0n9Uo | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0pBFS6TLVUQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0z0bvF7o3ak | Tackle Express | tutorial | parameter-skim | pending |  |
+| 17sBBD0C4XY | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1MxHXTv3a2A | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1YKT275onlU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1e6Oz5rAwRU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1l05hEXDaWw | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1nBqYdvVrXY | Tackle Express | tutorial | parameter-skim | pending |  |
+| 28FQZvZ8v6k | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2DfGpewNRYc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2Ee2DFZ9Wk4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2QphkC2cK14 | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2c8UomduE3c | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2gmvTuXtu0Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2pkE9RwW1bU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3-0kaaHqA7A | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3dyEQhMnPMU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3n18taJWNEQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3xx_vES0kdo | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3z1KZ_kIaec | Tackle Express | tutorial | parameter-skim | pending |  |
+| 41d5bquXkAc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 46kVgZ6P62M | Tackle Express | tutorial | parameter-skim | pending |  |
+| 52jkCrA4I9w | Tackle Express | tutorial | parameter-skim | pending |  |
+| 52le0jHiqyc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 53FzsW4_U08 | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5EKrtI_f_xA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5Fxwebsi9pU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5OTBOIeQmis | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5XWnm7ok09k | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5_z4pe7iH8k | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5fxAN1Ofn8M | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5hnHrCUNk3Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5uEzREjLlLQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6BzZotupVcs | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6E39_PBt1P4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6SClBs16L2Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6Z6Dht20kTA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6dTz1640Y5c | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6gwvP8_pjWc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6qz6aQ9PusA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6sfaYq9wMvQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 75lUj-uaArQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 7AOtPUGwKDI | Tackle Express | tutorial | parameter-skim | pending |  |
+| 7L7OVoXE7KU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 7iJktLzCmLY | Tackle Express | tutorial | parameter-skim | pending |  |
+| 7wdCk_LXezw | Tackle Express | tutorial | parameter-skim | pending |  |
+| 8FAgifEFSuU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 8TO-tuYjwWk | Tackle Express | tutorial | parameter-skim | pending |  |
+| 8U34yMGxvEw | Tackle Express | tutorial | parameter-skim | pending |  |
+| 8fSGyJL2GHM | Tackle Express | tutorial | parameter-skim | pending |  |
+| 8wbNDfihH1o | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9-UtAaSacsc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9MzNNwHiBXs | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9_iox_eRhpg | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9ekSBpLG0GA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9hXW9JCffsU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9qwsg-e9ECA | Tackle Express | tutorial | parameter-skim | pending |  |
+| A-D5MYB98yo | Tackle Express | tutorial | parameter-skim | pending |  |
+| A6-KPjRwGSQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| A7rveRBkL-g | Tackle Express | tutorial | parameter-skim | pending |  |
+| A8_ydUnS0CQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| AJfDjN-7K4w | Tackle Express | tutorial | parameter-skim | pending |  |
+| ALZtbMIOMBw | Tackle Express | tutorial | parameter-skim | pending |  |
+| AhICQlAsreU | Tackle Express | tutorial | parameter-skim | pending |  |
+| B44kVCdUN0o | Tackle Express | tutorial | parameter-skim | pending |  |
+| BGKH1ObX9Qs | Tackle Express | tutorial | parameter-skim | pending |  |
+| BNJlltYOpIk | Tackle Express | tutorial | parameter-skim | pending |  |
+| BNp-gSOpWBw | Tackle Express | tutorial | parameter-skim | pending |  |
+| BPxE3xn3gAc | Tackle Express | tutorial | parameter-skim | pending |  |
+| Basv01kFjOs | Tackle Express | tutorial | parameter-skim | pending |  |
+| Bok0db0G4xE | Tackle Express | tutorial | parameter-skim | pending |  |
+| BsWb5BQ1Tdc | Tackle Express | tutorial | parameter-skim | pending |  |
+| BwDJ4VFvB3E | Tackle Express | tutorial | parameter-skim | pending |  |
+| CNMXkml1okI | Tackle Express | tutorial | parameter-skim | pending |  |
+| CO8YU-TD8D4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| CdgSBcN6PDo | Tackle Express | tutorial | parameter-skim | pending |  |
+| CsKEtrcLgiQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| D0bQjAL0gGU | Tackle Express | tutorial | parameter-skim | pending |  |
+| D0oEQsTaL7A | Tackle Express | tutorial | parameter-skim | pending |  |
+| DPrr0a3vQY0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| DTvXJrtytwg | Tackle Express | tutorial | parameter-skim | pending |  |
+| DfLcSS-J3g4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| DuNkl8F45NE | Tackle Express | tutorial | parameter-skim | pending |  |
+| DvhRMHw57c4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| E273T9jAmpg | Tackle Express | tutorial | parameter-skim | pending |  |
+| E4CDqBFOaP8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| E4H9QB7UBbU | Tackle Express | tutorial | parameter-skim | pending |  |
+| EVqKoSZK5Dk | Tackle Express | tutorial | parameter-skim | pending |  |
+| EXqFODWABvM | Tackle Express | tutorial | parameter-skim | pending |  |
+| EcNijcqjLvE | Tackle Express | tutorial | parameter-skim | pending |  |
+| Ecqt-ZLnvaU | Tackle Express | tutorial | parameter-skim | pending |  |
+| EdN3BowjYjg | Tackle Express | tutorial | parameter-skim | pending |  |
+| Eo_bA8IWvyU | Tackle Express | tutorial | parameter-skim | pending |  |
+| EuYOlsnxXko | Tackle Express | tutorial | parameter-skim | pending |  |
+| F0849S6gBPY | Tackle Express | tutorial | parameter-skim | pending |  |
+| FR7Cg9Jqug4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| F_KDQo-k7CQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| Fj1-SsbksRM | Tackle Express | tutorial | parameter-skim | pending |  |
+| G8HNjPiaOjU | Tackle Express | tutorial | parameter-skim | pending |  |
+| Ga8Z1PyBqdE | Tackle Express | tutorial | parameter-skim | pending |  |
+| GchQpXW2jI0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| GeydGK-62fw | Tackle Express | tutorial | parameter-skim | pending |  |
+| H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | pending |  |
+| HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | pending |  |
+| HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | pending |  |
+| HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | pending |  |
+| IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | pending |  |
+| IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | pending |  |
+| IXHHNOX_t5Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| IZHY3RXdyxg | Tackle Express | tutorial | parameter-skim | pending |  |
+| IcS7QbJlSDA | Tackle Express | tutorial | parameter-skim | pending |  |
+| IqpeK5Xfhes | Tackle Express | tutorial | parameter-skim | pending |  |
+| IxfTRWmMqQU | Tackle Express | tutorial | parameter-skim | pending |  |
+| J40VxLNuZhk | Tackle Express | tutorial | parameter-skim | pending |  |
+| JFauRUaz2AQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| JJwyof_Nxqs | Tackle Express | tutorial | parameter-skim | pending |  |
+| JLaql6UUFVs | Tackle Express | tutorial | parameter-skim | pending |  |
+| JNMwUUst1rw | Tackle Express | tutorial | parameter-skim | pending |  |
+| JUcsUMJize0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| JekeeKZA1Kw | Tackle Express | tutorial | parameter-skim | pending |  |
+| JgD1gOuQAaE | Tackle Express | tutorial | parameter-skim | pending |  |
+| JgXMpjxRxmo | Tackle Express | tutorial | parameter-skim | pending |  |
+| JmGT0zAaVOY | Tackle Express | tutorial | parameter-skim | pending |  |
+| K50W5KaBN4E | Tackle Express | tutorial | parameter-skim | pending |  |
+| KFdvKXTHSeU | Tackle Express | tutorial | parameter-skim | pending |  |
+| KUsFT7tN-x0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| K_0AeM4OvuE | Tackle Express | tutorial | parameter-skim | pending |  |
+| KamUiykeRlU | Tackle Express | tutorial | parameter-skim | pending |  |
+| KjVLn4cWHbc | Tackle Express | tutorial | parameter-skim | pending |  |
+| KqluHwsDicw | Tackle Express | tutorial | parameter-skim | pending |  |
+| LAQZOoEUZA0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| LB9sUjDcRUw | Tackle Express | tutorial | parameter-skim | pending |  |
+| LKOL9g-qhSM | Tackle Express | tutorial | parameter-skim | pending |  |
+| LRRoGT2W4WY | Tackle Express | tutorial | parameter-skim | pending |  |
+| L_YH_xT7Pfs | Tackle Express | tutorial | parameter-skim | pending |  |
+| Lj2NCznK7Zg | Tackle Express | tutorial | parameter-skim | pending |  |
+| LoJu3OYs20o | Tackle Express | tutorial | parameter-skim | pending |  |
+| M2qZiY2lR98 | Tackle Express | tutorial | parameter-skim | pending |  |
+| M4G8IKsZEFU | Tackle Express | tutorial | parameter-skim | pending |  |
+| M9_nvBPajDU | Tackle Express | tutorial | parameter-skim | pending |  |
+| M9nIhEsKsqU | Tackle Express | tutorial | parameter-skim | pending |  |
+| ME2jrqS_5bo | Tackle Express | tutorial | parameter-skim | pending |  |
+| MKe-Xu4XsGk | Tackle Express | tutorial | parameter-skim | pending |  |
+| MbYjzhHsiTU | Tackle Express | tutorial | parameter-skim | pending |  |
+| N24NBweNK4o | Tackle Express | tutorial | parameter-skim | pending |  |
+| NBSJsN7uTKQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| NF8AJjqsDO8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| NGkXPkE8kWI | Tackle Express | tutorial | parameter-skim | pending |  |
+| NGvwjJfAL2I | Tackle Express | tutorial | parameter-skim | pending |  |
+| NJh9EadWA7Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| NUlHwrBT61U | Tackle Express | tutorial | parameter-skim | pending |  |
+| NiEvdaHOHnM | Tackle Express | tutorial | parameter-skim | pending |  |
+| Nsc23Chy3xk | Tackle Express | tutorial | parameter-skim | pending |  |
+| O49WsHP4Zh0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| O5t36yWGXCU | Tackle Express | tutorial | parameter-skim | pending |  |
+| OFEpEeFomp4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| OKFUMvJbacE | Tackle Express | tutorial | parameter-skim | pending |  |
+| OURS05qEGcA | Tackle Express | tutorial | parameter-skim | pending |  |
+| OdRZIDBO6Mg | Tackle Express | tutorial | parameter-skim | pending |  |
+| Oi5n-uVpY9g | Tackle Express | tutorial | parameter-skim | pending |  |
+| OitNR_M4lxw | Tackle Express | tutorial | parameter-skim | pending |  |
+| Ol3RPAsImg0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| OuO4Irjrat8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| Ow87j6AALAY | Tackle Express | tutorial | parameter-skim | pending |  |
+| OxFyTk0CSZQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| PJEG_RIkzF0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| PNWsFa4iSSc | Tackle Express | tutorial | parameter-skim | pending |  |
+| PPCzxTzXF0k | Tackle Express | tutorial | parameter-skim | pending |  |
+| PbiZMk4Ft6w | Tackle Express | tutorial | parameter-skim | pending |  |
+| PcJUo7h8WQA | Tackle Express | tutorial | parameter-skim | pending |  |
+| PciIsDkBgj4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| PfHjk3G0yek | Tackle Express | tutorial | parameter-skim | pending |  |
+| Pn3BcC_IN9Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| PnAnAS6QoG8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| PoTRe9SRjm8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| Pxky7drjPkU | Tackle Express | tutorial | parameter-skim | pending |  |
+| PzjZxCRKXpc | Tackle Express | tutorial | parameter-skim | pending |  |
+| Q14rHkHGBsk | Tackle Express | tutorial | parameter-skim | pending |  |
+| Q4WWkbc9nag | Tackle Express | tutorial | parameter-skim | pending |  |
+| Q4sW6JRQzAY | Tackle Express | tutorial | parameter-skim | pending |  |
+| Q6ACpkS93sk | Tackle Express | tutorial | parameter-skim | pending |  |
+| QEmxUIGmKbo | Tackle Express | tutorial | parameter-skim | pending |  |
+| QEpa3WYbEa8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| QJd7A6oiV4U | Tackle Express | tutorial | parameter-skim | pending |  |
+| QJeYLzFEbzs | Tackle Express | tutorial | parameter-skim | pending |  |
+| QP6c8vcslVs | Tackle Express | tutorial | parameter-skim | pending |  |
+| QQlQcPXARWk | Tackle Express | tutorial | parameter-skim | pending |  |
+| QTq-G2y237w | Tackle Express | tutorial | parameter-skim | pending |  |
+| Qj6brwOJk9E | Tackle Express | tutorial | parameter-skim | pending |  |
+| Qqdt6f8Mjd4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| R0TQ7Afsh6Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| R1spZEO1V-0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| R4yYK90-cZM | Tackle Express | tutorial | parameter-skim | pending |  |
+| R6ErrEIjlWw | Tackle Express | tutorial | parameter-skim | pending |  |
+| RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| RbOWJ0BAqSo | Tackle Express | tutorial | parameter-skim | pending |  |
+| RoBoQ6kulwA | Tackle Express | tutorial | parameter-skim | pending |  |
+| Rtwz0oEfrKw | Tackle Express | tutorial | parameter-skim | pending |  |
+| S0-BCQWA0H4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| S9sQ8Vg8-5o | Tackle Express | tutorial | parameter-skim | pending |  |
+| SDNXNdGdmSQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| SH5CZQi9ATw | Tackle Express | tutorial | parameter-skim | pending |  |
+| SK2M7L2vA1s | Tackle Express | tutorial | parameter-skim | pending |  |
+| SL4zZbzdXNA | Tackle Express | tutorial | parameter-skim | pending |  |
+| SR-Fv3xxkVY | Tackle Express | tutorial | parameter-skim | pending |  |
+| Sb20NtuNlkc | Tackle Express | tutorial | parameter-skim | pending |  |
+| SbTEGKmWl7g | Tackle Express | tutorial | parameter-skim | pending |  |
+| SclIN_ceduA | Tackle Express | tutorial | parameter-skim | pending |  |
+| Se7bjtiiGv8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| T33JsoZHO_c | Tackle Express | tutorial | parameter-skim | pending |  |
+| T_XpItMhbjM | Tackle Express | tutorial | parameter-skim | pending |  |
+| TdrFjnJb3Y0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| TjQuU-x8sHM | Tackle Express | tutorial | parameter-skim | pending |  |
+| To2Dvx3Ifnc | Tackle Express | tutorial | parameter-skim | pending |  |
+| TwnvOIp38tI | Tackle Express | tutorial | parameter-skim | pending |  |
+| TyxH9BBJ9U8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| TzK4iuVmUSE | Tackle Express | tutorial | parameter-skim | pending |  |
+| UASU-ikU1AQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| UXt-pR6bBjY | Tackle Express | tutorial | parameter-skim | pending |  |
+| U_jXfgsGBzM | Tackle Express | tutorial | parameter-skim | pending |  |
+| UbbkPKZ8_W4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| UtFX1K01bA4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| UtgMbyjlem8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| V1tmGZh3MNg | Tackle Express | tutorial | parameter-skim | pending |  |
+| V4opuMirbDU | Tackle Express | tutorial | parameter-skim | pending |  |
+| V54mcLzTubc | Tackle Express | tutorial | parameter-skim | pending |  |
+| VH5_kvuGGQY | Tackle Express | tutorial | parameter-skim | pending |  |
+| V_WjP52OJ7M | Tackle Express | tutorial | parameter-skim | pending |  |
+| Vbf40qvH9-Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| Vjdv8o7otKY | Tackle Express | tutorial | parameter-skim | pending |  |
+| Vl0BuetK2D0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| VotK9jwqRJ8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| W0mj_LA-qcM | Tackle Express | tutorial | parameter-skim | pending |  |
+| WHLz0kR___I | Tackle Express | tutorial | parameter-skim | pending |  |
+| WPYrq_jdK2o | Tackle Express | tutorial | parameter-skim | pending |  |
+| WeabGOvhgto | Tackle Express | tutorial | parameter-skim | pending |  |
+| Wk4wKFLbWEQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| X-itrm5QkcM | Tackle Express | tutorial | parameter-skim | pending |  |
+| XY4ZYDqD4Ag | Tackle Express | tutorial | parameter-skim | pending |  |
+| XfpUV_z5gFI | Tackle Express | tutorial | parameter-skim | pending |  |
+| XtPUnC5jQnM | Tackle Express | tutorial | parameter-skim | pending |  |
+| XxN7EzNDnf8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| Y5crw_rQpeg | Tackle Express | tutorial | parameter-skim | pending |  |
+| YWTDpG6yYWo | Tackle Express | tutorial | parameter-skim | pending |  |
+| YyW4-8FRjn8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZMrCAG7Cqmg | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZolfRTcJBk4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZrcwcugaEe4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| _3f8_JxtDRo | Tackle Express | tutorial | parameter-skim | pending |  |
+| _8Bno5mP4QE | Tackle Express | tutorial | parameter-skim | pending |  |
+| _C7TJoGT0nw | Tackle Express | tutorial | parameter-skim | pending |  |
+| _L6mE8ip5l8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| _QgS6QUcvFs | Tackle Express | tutorial | parameter-skim | pending |  |
+| _RfXwHSaG48 | Tackle Express | tutorial | parameter-skim | pending |  |
+| _XfScSliRVk | Tackle Express | tutorial | parameter-skim | pending |  |
+| _eON-xT2mOE | Tackle Express | tutorial | parameter-skim | pending |  |
+| _rcxIWhNMSE | Tackle Express | tutorial | parameter-skim | pending |  |
+| aF_16nVNch4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| aFsyWOLIM48 | Tackle Express | tutorial | parameter-skim | pending |  |
+| aKQqNbgISHY | Tackle Express | tutorial | parameter-skim | pending |  |
+| aauujAuF1hc | Tackle Express | tutorial | parameter-skim | pending |  |
+| af7a1tR2B84 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | pending |  |
+| akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | pending |  |
+| akX66b5WGZA | Tackle Express | tutorial | parameter-skim | pending |  |
+| aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | pending |  |
+| au3EkXJswY8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| auiXY0R9ri8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| bB8zs0lXvvo | Tackle Express | tutorial | parameter-skim | pending |  |
+| bCQLyxKQAok | Tackle Express | tutorial | parameter-skim | pending |  |
+| bi2X9ANvDBs | Tackle Express | tutorial | parameter-skim | pending |  |
+| blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | pending |  |
+| bvYMtjbflq8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| cAZRaGB_RRM | Tackle Express | tutorial | parameter-skim | pending |  |
+| cBATKqWkQws | Tackle Express | tutorial | parameter-skim | pending |  |
+| cNfPlAZWLB8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| cSTfQy8eb44 | Tackle Express | tutorial | parameter-skim | pending |  |
+| cZ3KlPWiPWw | Tackle Express | tutorial | parameter-skim | pending |  |
+| c_60Ms3QSMY | Tackle Express | tutorial | parameter-skim | pending |  |
+| c_L2hqBXwYA | Tackle Express | tutorial | parameter-skim | pending |  |
+| c_YgwlJdsSk | Tackle Express | tutorial | parameter-skim | pending |  |
+| d0fxBYmAnIk | Tackle Express | tutorial | parameter-skim | pending |  |
+| d31ID9JHgns | Tackle Express | tutorial | parameter-skim | pending |  |
+| d93vB_EBu30 | Tackle Express | tutorial | parameter-skim | pending |  |
+| dBAk9NScxSc | Tackle Express | tutorial | parameter-skim | pending |  |
+| dDvNAZpmx-8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| dFRpcvkLmb0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| dKSnFf5IsmY | Tackle Express | tutorial | parameter-skim | pending |  |
+| dNn8U9LbL8c | Tackle Express | tutorial | parameter-skim | pending |  |
+| dTJihVPudgQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| dWqD8l3jW6w | Tackle Express | tutorial | parameter-skim | pending |  |
+| degWvtQ4D_Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | pending |  |
+| dnHev1PcLts | Tackle Express | tutorial | parameter-skim | pending |  |
+| dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | pending |  |
+| dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | pending |  |
+| dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | pending |  |
+| eLwier3zVdo | Tackle Express | tutorial | parameter-skim | pending |  |
+| eMAM6cjzANI | Tackle Express | tutorial | parameter-skim | pending |  |
+| eOLoHxoqk6E | Tackle Express | tutorial | parameter-skim | pending |  |
+| ejkr3z7xkJA | Tackle Express | tutorial | parameter-skim | pending |  |
+| enDs3G5bpDc | Tackle Express | tutorial | parameter-skim | pending |  |
+| epuNd10icxQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| eqRMpfcuM2s | Tackle Express | tutorial | parameter-skim | pending |  |
+| eqeESarhRrE | Tackle Express | tutorial | parameter-skim | pending |  |
+| f0gBoLc7scw | Tackle Express | tutorial | parameter-skim | pending |  |
+| f1pZI-bfMz4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| f22V2HCv8tI | Tackle Express | tutorial | parameter-skim | pending |  |
+| f9JOpLrYBiE | Tackle Express | tutorial | parameter-skim | pending |  |
+| fATd3sje6R4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| fHMwcm1xRQk | Tackle Express | tutorial | parameter-skim | pending |  |
+| fPxqoEforhA | Tackle Express | tutorial | parameter-skim | pending |  |
+| fVtiwvqhzgI | Tackle Express | tutorial | parameter-skim | pending |  |
+| fnaGBGbrhqU | Tackle Express | tutorial | parameter-skim | pending |  |
+| foLSQJ5oRWI | Tackle Express | tutorial | parameter-skim | pending |  |
+| g5yDzjORhho | Tackle Express | tutorial | parameter-skim | pending |  |
+| gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | pending |  |
+| gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | pending |  |
+| gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | pending |  |
+| gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ghHQe3fP9U4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| gn2yquuU6eM | Tackle Express | tutorial | parameter-skim | pending |  |
+| h311A3s-dkY | Tackle Express | tutorial | parameter-skim | pending |  |
+| h3ZM-mnSNJ8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| hAryw1v3I68 | Tackle Express | tutorial | parameter-skim | pending |  |
+| hBAxFcjts5A | Tackle Express | tutorial | parameter-skim | pending |  |
+| hJjNZf-JYSs | Tackle Express | tutorial | parameter-skim | pending |  |
+| hMLwRt6Sxn8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | pending |  |
+| hXcgczEYcKE | Tackle Express | tutorial | parameter-skim | pending |  |
+| hc8n16HQO_E | Tackle Express | tutorial | parameter-skim | pending |  |
+| hjZ3hgq0Bzg | Tackle Express | tutorial | parameter-skim | pending |  |
+| hkUH9vkt68Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| hmz8n_9MzZA | Tackle Express | tutorial | parameter-skim | pending |  |
+| hokc5FLmSjA | Tackle Express | tutorial | parameter-skim | pending |  |
+| i4rJy9Uwb-U | Tackle Express | tutorial | parameter-skim | pending |  |
+| i6G6vX0tKn4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| iBdz2SfeA1g | Tackle Express | tutorial | parameter-skim | pending |  |
+| iHwvUl0dhxk | Tackle Express | tutorial | parameter-skim | pending |  |
+| iQjTILHaxqo | Tackle Express | tutorial | parameter-skim | pending |  |
+| ijNOphK4XRA | Tackle Express | tutorial | parameter-skim | pending |  |
+| ijjtpoKZp8U | Tackle Express | tutorial | parameter-skim | pending |  |
+| j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | pending |  |
+| jFlAdWRj3HI | Tackle Express | tutorial | parameter-skim | pending |  |
+| jWPv-OOM3uk | Tackle Express | tutorial | parameter-skim | pending |  |
+| j_x1IskkSEE | Tackle Express | tutorial | parameter-skim | pending |  |
+| jeJAsY_M0oc | Tackle Express | tutorial | parameter-skim | pending |  |
+| jo8lMdFZ1bk | Tackle Express | tutorial | parameter-skim | pending |  |
+| k0rhryq2kYI | Tackle Express | tutorial | parameter-skim | pending |  |
+| k23JzE3Fr-I | Tackle Express | tutorial | parameter-skim | pending |  |
+| kHUQd9jqG-A | Tackle Express | tutorial | parameter-skim | pending |  |
+| kR-t-z1PPCE | Tackle Express | tutorial | parameter-skim | pending |  |
+| k_ocIsSD6vQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| klb0VSg_I3w | Tackle Express | tutorial | parameter-skim | pending |  |
+| kt3G72gUldM | Tackle Express | tutorial | parameter-skim | pending |  |
+| kuIKWNZ3Koo | Tackle Express | tutorial | parameter-skim | pending |  |
+| lNXZD79BvJY | Tackle Express | tutorial | parameter-skim | pending |  |
+| lYnD_MiALL8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | pending |  |
+| m6NxHaIifj8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| mDRSoMYxDuY | Tackle Express | tutorial | parameter-skim | pending |  |
+| mMa0oqI2tqA | Tackle Express | tutorial | parameter-skim | pending |  |
+| mgUjxUoGkZU | Tackle Express | tutorial | parameter-skim | pending |  |
+| mgsCmVxM8dM | Tackle Express | tutorial | parameter-skim | pending |  |
+| nF6MosH63HY | Tackle Express | tutorial | parameter-skim | pending |  |
+| nJPQVouJQ0g | Tackle Express | tutorial | parameter-skim | pending |  |
+| nORwiYXBQmQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| nRIAgz5G_Bc | Tackle Express | tutorial | parameter-skim | pending |  |
+| nZfEB7466ys | Tackle Express | tutorial | parameter-skim | pending |  |
+| nizu9cpPXUs | Tackle Express | tutorial | parameter-skim | pending |  |
+| nlrSBi_hrrg | Tackle Express | tutorial | parameter-skim | pending |  |
+| nnQFIho8sa0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ntS17IEKyJ0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| nwjIEWJyjKU | Tackle Express | tutorial | parameter-skim | pending |  |
+| nwmIqR2VgfI | Tackle Express | tutorial | parameter-skim | pending |  |
+| o5TR7y6-q6A | Tackle Express | tutorial | parameter-skim | pending |  |
+| o7Kd0aNAijQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| oGCAX8dgR5o | Tackle Express | tutorial | parameter-skim | pending |  |
+| okJCANlWWE4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| osAuU0W9zKA | Tackle Express | tutorial | parameter-skim | pending |  |
+| ov0T5MPdl_E | Tackle Express | tutorial | parameter-skim | pending |  |
+| p-gl7mLOeWw | Tackle Express | tutorial | parameter-skim | pending |  |
+| p1KyyR0i7Kc | Tackle Express | tutorial | parameter-skim | pending |  |
+| p9YYIb4GKHM | Tackle Express | tutorial | parameter-skim | pending |  |
+| pL7ZGuMVwo4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| pMsbeLOgUc4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| pOFsjDTqaxY | Tackle Express | tutorial | parameter-skim | pending |  |
+| pTenOTaHdUc | Tackle Express | tutorial | parameter-skim | pending |  |
+| pa0MS0GK_2o | Tackle Express | tutorial | parameter-skim | pending |  |
+| ptwN9MUDxjk | Tackle Express | tutorial | parameter-skim | pending |  |
+| q0it3pyUW6Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| qHS-ewTQs9Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| qKOmJH_WtJo | Tackle Express | tutorial | parameter-skim | pending |  |
+| qLDrhgE7-y0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| qLKLlZdiflA | Tackle Express | tutorial | parameter-skim | pending |  |
+| qRrZakwbLoM | Tackle Express | tutorial | parameter-skim | pending |  |
+| q_NMbHJ7QoQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| qh3hL2Dt3HY | Tackle Express | tutorial | parameter-skim | pending |  |
+| r7Bv49Ysgdw | Tackle Express | tutorial | parameter-skim | pending |  |
+| rBt096uru3U | Tackle Express | tutorial | parameter-skim | pending |  |
+| rd2Ia8HRbSg | Tackle Express | tutorial | parameter-skim | pending |  |
+| reG4Xc91Mj4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| reZBk4GsH_o | Tackle Express | tutorial | parameter-skim | pending |  |
+| rlZVbEO3WyQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| rvmr9Jy9RjI | Tackle Express | tutorial | parameter-skim | pending |  |
+| rxoaPT5Zaog | Tackle Express | tutorial | parameter-skim | pending |  |
+| s2yqtaHriqU | Tackle Express | tutorial | parameter-skim | pending |  |
+| s3hJuucTqUI | Tackle Express | tutorial | parameter-skim | pending |  |
+| s7GMKI6c6RU | Tackle Express | tutorial | parameter-skim | pending |  |
+| sGnY4QxqMmI | Tackle Express | tutorial | parameter-skim | pending |  |
+| sJGs-Jqt9Vo | Tackle Express | tutorial | parameter-skim | pending |  |
+| sPgP0aBUQm8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| sPs3Civek1w | Tackle Express | tutorial | parameter-skim | pending |  |
+| sSH80AImFX4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| sj_9QYlGtGo | Tackle Express | tutorial | parameter-skim | pending |  |
+| sl2MRqpiS60 | Tackle Express | tutorial | parameter-skim | pending |  |
+| smdXDSyuVnY | Tackle Express | tutorial | parameter-skim | pending |  |
+| t0kkwlrNwHk | Tackle Express | tutorial | parameter-skim | pending |  |
+| t3kDnoGYfVs | Tackle Express | tutorial | parameter-skim | pending |  |
+| t96ZBu0gvq4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| tRvItFsxjmg | Tackle Express | tutorial | parameter-skim | pending |  |
+| tVgGBpzozMU | Tackle Express | tutorial | parameter-skim | pending |  |
+| tugP0UsrzRI | Tackle Express | tutorial | parameter-skim | pending |  |
+| u9sJyZhaDGQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| ugML6PvRyc8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | pending |  |
+| v5XtBi3wtVM | Tackle Express | tutorial | parameter-skim | pending |  |
+| v6X2s1lb1aE | Tackle Express | tutorial | parameter-skim | pending |  |
+| vALAeUaBmRM | Tackle Express | tutorial | parameter-skim | pending |  |
+| valIU8lsMX4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| vk3jbsINcPw | Tackle Express | tutorial | parameter-skim | pending |  |
+| w5iryVkSe-0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| wk8bkqzdyM0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | pending |  |
+| x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| xFW2002SaQk | Tackle Express | tutorial | parameter-skim | pending |  |
+| xL1sMpmWcnk | Tackle Express | tutorial | parameter-skim | pending |  |
+| x_3ohQ_D-f8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| xfPcA1VRgsw | Tackle Express | tutorial | parameter-skim | pending |  |
+| xgPEt4Zj35Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| y3MaZYZvyUg | Tackle Express | tutorial | parameter-skim | pending |  |
+| y9YlqMQh3BI | Tackle Express | tutorial | parameter-skim | pending |  |
+| yEsbyq3WjWE | Tackle Express | tutorial | parameter-skim | pending |  |
+| yTPtYL9QAsw | Tackle Express | tutorial | parameter-skim | pending |  |
+| yVYUY3PlvIw | Tackle Express | tutorial | parameter-skim | pending |  |
+| yf7dEnzsNzQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| yl-AkO5S64o | Tackle Express | tutorial | parameter-skim | pending |  |
+| ywKI8gBK6vM | Tackle Express | tutorial | parameter-skim | pending |  |
+| z1CS3To6ATA | Tackle Express | tutorial | parameter-skim | pending |  |
+| z5UoW9pntvE | Tackle Express | tutorial | parameter-skim | pending |  |
+| zItCqap4RdE | Tackle Express | tutorial | parameter-skim | pending |  |
+| zLN0v-gWpeI | Tackle Express | tutorial | parameter-skim | pending |  |
+| zLvKfwSmIIs | Tackle Express | tutorial | parameter-skim | pending |  |
+| zVMY4fZydRQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| zVrsCf46_fI | Tackle Express | tutorial | parameter-skim | pending |  |
+| zWpYFTIZP7w | Tackle Express | tutorial | parameter-skim | pending |  |
+| zYcXDoOE6jo | Tackle Express | tutorial | parameter-skim | pending |  |
+| zYcsYhdyZrA | Tackle Express | tutorial | parameter-skim | pending |  |
+| zi5J9UDJgBk | Tackle Express | tutorial | parameter-skim | pending |  |
+| zkEMsCIhSic | Tackle Express | tutorial | parameter-skim | pending |  |
+| zlelqp7Qo9Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| zqZQLgj5W4k | Tackle Express | tutorial | parameter-skim | pending |  |
+| zwHzyv43H_Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0rY9CEV5vsA | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| 2mHypTjZPzs | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| KNrxEjI0b1M | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| OLzruy70f98 | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| SvALnRmu7-c | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| XByPbEiYNyI | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| YJBs3to0wcI | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| YkwYNakCrKw | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| oqgAn6HOrwM | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
+| 0DbOXC55PGI | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 1hNZovypQYc | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 1iTWVP8tg5U | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 2R5HOIrxtiw | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 2mqel8IboSA | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 4cPjNdf_hT0 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 54xzYUBpFaI | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 5Q9VsvsmTb0 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 5qMbQfPUdts | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 6_6Tx3v8zAw | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 6bBWub9dQHE | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 6bqaGEteHhA | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 6tlII1ZfMoc | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 8IaSH0PNB4Y | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 9J-p1gJq44U | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| 9hNLBgym5ik | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| BdlkqYdE5_g | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| BuFPr_85M1Y | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| EB0aBjqFZ3A | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| EJjHjxaCAxc | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| ENI89WSGi4U | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| Ek0sm9uXiaw | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| EqbSidlhfh8 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| F6VcJvfN36k | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| GJQwmzKyG10 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| Gf1bzECcyN0 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| IAeFN4xsQCE | tackle-express | promo | none | skipped | promo/product — pre-filter |
+| IC-dAEmtV2g | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| IbdtrXeUUzg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| KTXwgM0sjjg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| L5RZyeoQqMs | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| LGmPoQaNnug | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| LWpwjS-eFyg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| Mrke37jEt18 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| NInwJNN8oY4 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| OCNKjymbGiU | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| OG6xYqyMY2M | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| OUZzPFcDcUo | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| OZr1Ksz29wg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| PJxhU0Dfctc | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| PSWjfQ_f76c | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| QBphkojlfTY | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| ROXnvdfGLIw | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| USiJ8a9bv-8 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| UhKx1gAgUOk | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| UigBtqg2Z2M | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| UjMAHhdoCNo | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| UsQXBhmILdg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| VAaWX7q3aSk | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| VkcDVMax9bk | tackle-express | promo | none | skipped | promo/product — pre-filter |
+| WUn4Gfkpl8A | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| WbiKEkD8vq8 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| XoyK3z79M0A | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| YcUYdjXBr1I | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| ZcUmuwj0iH0 | tackle-express | promo | none | skipped | promo/product — pre-filter |
+| _4SGyxAUMHs | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| _WDS3oBla2Y | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| abwQ4pmb_cc | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| axcM1tA9nfk | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| bv-H3EuzFYA | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| cVRlM476QuQ | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| cln6errJlwg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| cn5el4g71tQ | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| eRkn0nmAVf0 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| f6ZEVL0Dkso | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| gG9gw3mGkQ8 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| gZqJTVbdN9o | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| gqGPckgNKZg | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| iQnRvf8AIpQ | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| iR8CDCyofDM | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| i_RtrHdze1c | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| icvyaBmvp6o | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| ih7o1JoDegM | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| jA79DpfCoG4 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| kJG4gWAxnkw | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| kuIMN4fXfng | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| m4AmQEFff5I | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| m__5nee8Qgk | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| nCcKoGBq3tY | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| nP7vf035314 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| o3yxa7aeJ5M | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| pUwVpvjJ23w | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| qpEbiAY_57Y | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| r1uE1kepQNE | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| redS77jO5SU | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| s-S2JIiPGtQ | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| sQP0pUpo0aU | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| tHLuXmZFxfw | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| tjajoMbhML8 | tackle-express | promo | none | skipped | promo/product — pre-filter |
+| tuM3xcxWw_E | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| uLRGOxahfak | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| v5KKdDOaUCo | tackle-express | promo | none | skipped | promo/product — pre-filter |
+| vAYzTyMKomo | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| vzSqxckqaS4 | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| wI5XgLIqvwY | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| xjck3mIgKiY | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| xpTR4wCsV5k | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+| yoqjeAryddo | tackle-express | promo | none | skipped | short (<200w), no technique keyword — pre-filter |
+
+<!-- batch3:worklist:end -->

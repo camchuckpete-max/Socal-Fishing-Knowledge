@@ -11,13 +11,17 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 
-START = "<!-- batch2:worklist:start -->"
-END = "<!-- batch2:worklist:end -->"
+START = "<!-- batch3:worklist:start -->"
+END = "<!-- batch3:worklist:end -->"
 
 
 def main() -> int:
     text = (ROOT / "sources" / "extraction-log.md").read_text(encoding="utf-8")
-    block = text.split(START, 1)[1].split(END, 1)[0]
+    if START in text:
+        block = text.split(START, 1)[1].split(END, 1)[0]
+    else:  # archived batch-2 worklist
+        block = text.split("<!-- batch2:worklist:start -->", 1)[1] \
+                    .split("<!-- batch2:worklist:end -->", 1)[0]
     counts: Counter = Counter()
     for line in block.splitlines():
         line = line.strip()
