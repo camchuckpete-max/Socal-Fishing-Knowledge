@@ -12,7 +12,7 @@
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md) — Execution for landing a hooked big bluefin (100–300 lb class) once it's on: the boat, not the angler's arms, does the work of bringing the fish in.
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
-- [Glide Baits](glide-baits.md) **[SoCal only]** — Execution for large, hard-bodied, jointed glide baits (marketed in SoCal as "Hookup Baits") fished from a private boat, party boat, or bay bank for calico and s
+- [Glide Baits](glide-baits.md) — Execution for large, hard-bodied, jointed glide baits (marketed in SoCal as "Hookup Baits") fished from a private boat, party boat, or bay bank for calico and s
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
@@ -105,7 +105,9 @@ graph LR
   n5 --> n11
   n6 --> n12
   n6 --> n15
+  n8 --> n21
   n8 --> n22
+  n8 --> n23
   n8 --> n24
 ```
 <!-- mermaid:end -->

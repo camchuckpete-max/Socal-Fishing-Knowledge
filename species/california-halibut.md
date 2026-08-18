@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -85,6 +85,16 @@ conditions that put one there.** (General search method:
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 | Open flats, casting from a boat or **from shore** | **Fast-retrieve hard bait** — a crankbait/jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | Inshore crank class | Halibut give chase and eat it moving; a slow bottom-bounce isn't the only presentation that works — see doctrine note below |
 
+- **HookUp Baits sizing for halibut, by water (Chad, HookUp Baits co-owner,
+  also at the 2020 Fred Hall Show — `5Oh3IPIC5g4`; ⚠ promotional seminar
+  source, low confidence):** for halibut **outside** (surf/coastal), he
+  sizes up; **inside a bay**, he runs a smaller **3/8 or 5/8 oz** bait.
+  **Mint** and **glow green** are named as working well for halibut; a
+  **white "shad"**-pattern bait is called out specifically for **morning
+  and evening** — see [glide baits](../techniques/glide-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020).
+  A fast, chasing retrieve is the same family of presentation
+  as the Lucky Craft hard-bait doctrine immediately below, from a different
+  attributed source — kept side by side, not merged.
 - **Fast retrieve triggers a chase, works from shore too (Brent, Aquatek
   Imaging Solutions, interviewed by Roman Castro at the 2020 Fred Hall Show,
   Long Beach — `46ha7J1Fc6A`; unregistered speaker, single mention — medium
@@ -213,6 +223,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Glide Baits](../techniques/glide-baits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

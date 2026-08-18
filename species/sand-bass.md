@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [nearshore-coast, bay-harbor, bank]
@@ -84,7 +84,8 @@ rocks.
 | Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down |
 | Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | The all-winter deep-structure staple; crank execution in the technique note |
 | Weedy/kelpy structure | **Weedless plastic** (e.g. War Baits neck-breaker) | bass class | Hides the hook, better penetration around the grass |
-| Deep structure/rock, want to A/B two colors or fish two depths at once | **Double-bait glide-bait dropper rig** ([glide baits](../techniques/glide-baits.md)) | heavy glide-bait class, 40 lb+ | Two matched-weight glide baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors on a 3-way swivel, ≥3 in leader-length offset to stop them tangling; ⚠ single promotional seminar source, low confidence |
+| Deep structure/rock, want to A/B two colors or fish two depths at once | **Double-bait glide-bait dropper rig** ([glide baits](../techniques/glide-baits.md)) | heavy glide-bait class, 40 lb+ | Two matched-weight glide baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors on a 3-way swivel, ≥3 in leader-length offset to stop them tangling; a second HookUp Baits source runs same-size-paired baits for bass specifically (size matters less once you're targeting deeper rockfish) — see [glide baits](../techniques/glide-baits.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft); ⚠ two promotional seminars (same product line), low confidence |
+| Want to selectively upgrade average fish size (tournament limit-filling) | **Fish one oversized bait all day** — a 3 oz HookUp-style swimbait on 40 lb+ leader | Heavy glide-bait class, 40 lb+ | Deliberately trades bite count for size — "big bait, big fish" filters out anything under ~3 lb; see [glide baits](../techniques/glide-baits.md#rod-parabolic-bend-not-a-tip-only-bend) — ⚠ promotional seminar source, low confidence |
 
 ## Gear summary (class terms)
 

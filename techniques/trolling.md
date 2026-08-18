@@ -1012,6 +1012,7 @@ covered above, not a new tool.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Glide Baits](glide-baits.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Mad Mac](../lures/mad-mac.md)

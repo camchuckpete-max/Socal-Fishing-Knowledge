@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
@@ -90,7 +90,7 @@ the *bottom*, not the fish.
 | Deep water (300–900 ft), bigger reds, dropping past picked-over fish | **[Deep-dropping](../techniques/rockfish-deep-dropping.md)** the gangion or heavy jig | 30 lb braid, level-wind, high line capacity | Thin braid = less scope, straighter fall at depth; a low spool at 700–900 ft is the real problem, hence the fine line |
 | Lings on a shallow high spot, Nov–Dec Santa Ana window | **Heavy [iron/knife jig](../lures/iron-jigs.md)** or slug worked with bottom contact | 6 oz Ahi-Assault iron class **or** 200–250g slow-pitch class | Big sweeps, flutter back down; keep bottom contact and snap the rod tip; drop back after a missed ling |
 | Deep, non-biting, or want to cover the column | **Slow-pitch / knife jig** — bring it up ~30 ft off the bottom, thumb the spool on the drop | 200–250g [knife-jig](../lures/knife-jigs.md) / slow-pitch class | Keep tension on the drop so it falls straight and fast; release near the bottom for flutter action |
-| Hard-bottom structure to ~200 ft, want to A/B two colors or run two depths at once | **Double-bait glide-bait dropper rig** ([glide baits](../techniques/glide-baits.md)) | heavy glide-bait class, 40 lb+ | 3-way swivel, two matched-weight baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors, ≥3 in leader-length offset to stop them tangling, sacrificial ~25 lb dropper below a 40 lb fluoro leader so a snag costs one bait, not the rig; ⚠ single promotional seminar source, low confidence |
+| Hard-bottom structure to ~200 ft, want to A/B two colors or run two depths at once | **Double-bait glide-bait dropper rig** ([glide baits](../techniques/glide-baits.md)) | heavy glide-bait class, 40 lb+ | 3-way swivel, two matched-weight baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors, ≥3 in leader-length offset to stop them tangling, sacrificial ~25 lb dropper below a 40 lb fluoro leader so a snag costs one bait, not the rig; a second HookUp Baits source runs 80 lb braid → 60 lb fluoro → 25 lb/40 lb droppers instead — see [glide baits](../techniques/glide-baits.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft); ⚠ two promotional seminars (same product line), low confidence |
 | Drifting rock/structure party boat trip (not anchored) | **Cast–drift–bounce** from the bow — cast up-drift, let the bait bounce down with the drift, reel up and re-cast ([glide baits](../techniques/glide-baits.md#party-boat-rock-fishing-technique-castdriftbounce)) | 8 ft parabolic-bend bass/glide class | River-fishing analogy: cast up-current, work the bait down over the structure as the boat passes; ⚠ single promotional seminar source, low confidence |
 
 ## Gear summary (class terms)
