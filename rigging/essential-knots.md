@@ -28,6 +28,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
 - **RP knot (connection)** — the preferred braid-to-fluoro leader join here;
   small enough to pass the guides. Use it to build a leader onto the braid main
   line.
+- **Slim beauty knot (connection)** — another braid-to-topshot splice covering
+  the same low-profile, guide-passing territory as the RP knot above, by a
+  different construction (a uni knot on the top-shot side plus a multi-wrap
+  pass from the spectra tag) — kept as its own note:
+  [Slim Beauty Knot](slim-beauty-knot.md).
 - **Uni-to-uni (connection)** — the repair knot: splice new braid (or fluoro)
   onto the spool after a break-off costs you 150 yards, or join braid to fluoro
   in a pinch, without re-spooling. A heavier-wrap, tackle-bench variant of the
@@ -537,6 +542,7 @@ and [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/wat
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
+- [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)

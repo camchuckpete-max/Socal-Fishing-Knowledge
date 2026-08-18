@@ -16,6 +16,7 @@
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
+- [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md) **[SoCal only]** — A tapered connection knot joining spectra (braid main line, to the reel) to a monofilament/fluorocarbon top shot, demonstrated by Wendy of SearcherSportfishing
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md) **[SoCal only]** — A heavy-wrap connection knot for splicing monofilament to spectra (braid), demonstrated by Capt.
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
@@ -42,25 +43,29 @@ graph LR
   n9["Leadhead Mods & Rigging"]
   n10["Rubber-Band Deep Rig"]
   n11["San Diego Jam — Single vs. Double, and When to Use Each"]
-  n12["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n13["Tony Pena Knot — Mono-to-Spectra Splice"]
-  n14["Trap Rig"]
-  n15["Tuna Feather Rig"]
-  n16["Wind-On Leader"]
-  n17["Wiring a Surface Iron"]
+  n12["Slim Beauty Knot — Spectra-to-Topshot Splice"]
+  n13["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n14["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n15["Trap Rig"]
+  n16["Tuna Feather Rig"]
+  n17["Wind-On Leader"]
+  n18["Wiring a Surface Iron"]
   n1 --> n2
   n10 --> n4
   n11 --> n4
   n12 --> n4
+  n12 --> n5
   n13 --> n4
-  n17 --> n7
+  n14 --> n4
+  n18 --> n7
   n2 --> n1
   n2 --> n7
   n4 --> n10
   n4 --> n11
   n4 --> n12
   n4 --> n13
-  n4 --> n16
-  n8 --> n16
+  n4 --> n14
+  n4 --> n17
+  n8 --> n17
 ```
 <!-- mermaid:end -->
