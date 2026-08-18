@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -231,6 +231,33 @@ species in [rubber-band deep rig](../rigging/rubber-band-deep-rig.md#a-lighter-s
 — kept side by side, not reconciled, as another light-sinker bluefin data
 point. See [bluefin tuna](../species/bluefin-tuna.md#where--when) for the
 same session's butt-hooked-bait alternative and grade.
+
+## Bluefin — slow drop, slow wind, more time in the strike zone (Reliable Fishing Products)
+
+**Riley, Reliable Fishing Products booth, interviewed by Roman Castro at the
+2020 Fred Hall Show, Long Beach — `46ha7J1Fc6A`, "Fishing Tips And Techniques
+from The Fred Hall Show 2020"; unregistered speaker, single mention — medium
+confidence.** His stated go-to for bluefin when not flying a
+[kite](kite-fishing.md) is a sinker rig worked slowly through the whole water
+column on both ends of the presentation, not soaked or fished fast:
+
+- **Drop the bait down nice and slow**, deliberately passing the fish at every
+  depth on the way down rather than free-spooling straight to bottom — the
+  stated reason is not missing fish that are holding somewhere other than
+  where you expect.
+- **Wind it back up on a very slow, steady retrieve** rather than a fast crank
+  — his stated reason is that the slow wind makes the bait **"look as natural
+  as possible"** through the retrieve.
+- **Stated payoff:** working both the drop and the retrieve slowly gives the
+  bait **more total time in the strike zone** on every single presentation,
+  which he ties directly to a better chance at a bite.
+
+A different working style from the settle-and-let-it-load approach in
+**Fishing it** below — this entry actively works the bait through the column
+on both directions rather than soaking it on bottom, which suits a
+presentation problem (grade/depth of the fish uncertain) rather than a
+bottom-relating fish. Kept side by side, not reconciled. See
+[bluefin tuna](../species/bluefin-tuna.md) for the species router.
 
 ## Albacore, light torpedo-sinker slide + minimal slider, 37 mi off San Diego (StokedOnFishing)
 

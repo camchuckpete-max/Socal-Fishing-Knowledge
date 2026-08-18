@@ -313,6 +313,7 @@ trigger to speed-troll once the kite won't fly. See
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Sliding Sinker](sliding-sinker.md)
 - [Speed Trolling](speed-trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowtail](../species/yellowtail.md)

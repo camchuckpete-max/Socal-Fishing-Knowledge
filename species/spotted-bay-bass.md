@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor]
@@ -152,6 +152,74 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
   Ned baits, small paddle-tails on ball/mushroom heads), crankbaits with beefed
   hooks and 50–60 lb split rings, drop-shot and light-flyline terminals.
   Army-green/chartreuse is a timeless bay color.
+
+## Structure-fishing gear — turning fish out of docks, pilings, and moorings (Rick Fuentes, Fishing Syndicate)
+
+Rick Fuentes, Fishing Syndicate, interviewed by Roman Castro at the 2020 Fred
+Hall Show, Long Beach — `46ha7J1Fc6A`; unregistered speaker, single mention —
+medium confidence. San Diego Bay and Mission Bay-focused, with a Newport
+Harbor extension. A heavier, faster-geared finesse setup than the 10–20 lb
+class above, built specifically around **winning the fish away from the
+structure it's sitting on** rather than around casting distance or bait feel:
+
+- **Structure is anything solid, not just grass:** docks, pilings, and —
+  specifically named here — **boat moorings anchored by blocks of concrete or
+  engine blocks**, and even the **shadow side of an anchored boat's hull**.
+  "Mouths are funny critters" — a spotty will hide behind a single blade of
+  eelgrass and consider itself hidden; anything that breaks up the bottom or
+  casts a line of shade holds them.
+- **Why the faster gear ratio (stated reason):** pitching docks and pilings
+  that can be as little as **2–3 ft apart**, a hooked fish has to be turned
+  and steered out and away from the structure immediately, before it wraps a
+  piling or an anchor block. His pick is a **~6.6:1 gear ratio** reel
+  specifically for that head-turning speed — not for cranking power. He
+  describes spotties as "not huge in size" but strong enough in the
+  structure to "turn a 14-ft skiff on a run."
+- **Line:** **20–30 lb braid** — strong, no stretch (so nothing is given up on
+  the hookset or the turn) but poor abrasion resistance — to a **fluorocarbon
+  leader**, stepped up to roughly **15 lb** in shallower structure water. The
+  stated reason for the heavier-than-finesse leader: the same
+  dock/piling/mooring zones that hold spotties also hold **large halibut**
+  hanging out with them, and the leader has to survive that incidental fish
+  too.
+- **Fighting the fish, and the failure mode:** once hooked in structure, wind
+  and keep the rod loaded — **"whine on that fish"** and get it clear.
+  **Pumping the rod and dropping the tip is the way you lose them** in
+  structure; that momentary slack is when a fish gets back into the piling or
+  the grass.
+- **Rod/reel used for this program:** a **12–20 lb class**, all-graphite,
+  light/sensitive **casting-class** rod (his own bass-series build, a
+  low-profile 200-size reel for most of it, stepped to a 300-size in heavier
+  piling work) — matching the **[bass class](../tackle/gear-classes.md)**
+  reel sizing, not a spinning setup — fishing 3–4 in swim baits and dart-spin
+  baits on a **3/8–1/2 oz jighead**.
+- **No fish finder needed — read the structure by eye (kayak/shore):** for
+  anglers fishing docks, pilings, and eelgrass patches from a kayak, the
+  structure itself is the sonar — sight-read boat docks, pilings, and eelgrass
+  patches instead. Consistent with the read-the-grass-not-the-meter framing
+  already in **Finding them** above.
+- **Eelgrass crankbait depth (Newport Harbor extension):** in Newport Harbor's
+  deeper eelgrass beds, he runs both a **10 ft** and a **16 ft**-rated
+  crankbait, calling the deeper eelgrass there "dynamite on the really really
+  big spotted bay bass" — a deeper variant beside, not a replacement for, the
+  8–10 ft crank class already logged in the situations table below.
+
+## Seasonal lure switch — swimbait slow in winter, crankbait fast in summer (Garrett, Owner Hooks)
+
+Garrett, Owner Hooks, interviewed by Roman Castro at the same show —
+`46ha7J1Fc6A`; unregistered speaker, single mention — medium confidence. San
+Diego Bay/Mission Bay, in-shore-oriented fishing from shore and kayak:
+
+- **Wintertime: fish it slow, near bottom** — a **Megabass Dark Sleeper**
+  swimbait worked down at depth, swept and paused; how long the pause runs is
+  read off the fish, not fixed — "let the fish dictate what they want."
+- **Summertime: fish it fast, as a reaction bite** — a crankbait worked with a
+  **quick sweep**, described as more of a reaction strike than a slow presentation.
+
+The same speaker's separate treble-to-single-hook swap for kelp fishing is a
+[calico bass](calico-bass.md)/kelp-structure point, not a bay/spotty one —
+logged in [inshore crankbaits](../techniques/inshore-crankbaits.md#rigging)
+instead.
 
 ## Doctrine & conflicts
 

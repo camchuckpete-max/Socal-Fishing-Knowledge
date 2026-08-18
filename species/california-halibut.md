@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -83,6 +83,21 @@ conditions that put one there.** (General search method:
 | Squid available, islands | **[Sliding-sinker](../techniques/sliding-sinker.md)** or dropped squid on a **single 4/0–5/0 J** (no stinger) | 30 lb bait class | Squid needs solid purchase in the nose, no trap |
 | Artificial / covering water, short drifts | **[Drop-shot](../techniques/drop-shot.md)** a plastic near the bottom | Bay-bass / light bottom class | Keeps the bait right in the strike zone on the edge; pick apart bubbler zones and rockpiles instead of long straight drifts |
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
+| Open flats, casting from a boat or **from shore** | **Fast-retrieve hard bait** — a crankbait/jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | Inshore crank class | Halibut give chase and eat it moving; a slow bottom-bounce isn't the only presentation that works — see doctrine note below |
+
+- **Fast retrieve triggers a chase, works from shore too (Brent, Aquatek
+  Imaging Solutions, interviewed by Roman Castro at the 2020 Fred Hall Show,
+  Long Beach — `46ha7J1Fc6A`; unregistered speaker, single mention — medium
+  confidence):** his stated recent go-to for halibut is winding a hard bait
+  (named brand: **Lucky Craft**) back noticeably **faster than you'd think** —
+  his stated reason is that halibut **chase the lure down and commit hard**
+  once it's moving, rather than needing it slowed down or bounced on bottom.
+  He names **Catalina** as a place this has worked well, and adds
+  that the same fast retrieve draws bites **fishing from shore**, not just
+  from a boat — a different presentation logic from the structure-relating,
+  bait-triad program that is this note's primary doctrine above; kept side by
+  side, not reconciled, as an alternative when hard-bait covering-water suits
+  the spot better than a drift.
 
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
@@ -198,6 +213,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

@@ -1981,7 +1981,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 0HwYl0HO2tc | Orange County SUP FISHING | seminar | deep | done | techniques/glide-baits.md; species/calico-bass.md; species/rockfish-lingcod.md; species/sand-bass.md; species/yellowtail.md / new glide-bait technique note (low confidence, promotional seminar) linked from 4 species routers, 2 faithfulness defects fixed in review |
 | 0ZYCT-lUStM | Big Rocco | freshwater | skip:freshwater-non-target | done | none / skipped: freshwater largemouth-bass seminar, out of SoCal/Baja saltwater fishery scope, log entry fixed to record reason |
 | 1iV1GnF4K-c | Bad Company Fishing Adventures | seminar | deep | done | none / skipped: global blue/black marlin World Tour seminar (Atlantic/Indian/Pacific islands) — fleet logistics, veteran charity, and Atlantic-marlin-specific trolling technique explicitly flagged by speakers as non-transferable even across marlin species; no SoCal/Baja-specific decision knowledge in source |
-| 46ha7J1Fc6A | Roman Castro | seminar | deep | pending |  |
+| 46ha7J1Fc6A | Roman Castro | seminar | deep | done | lures/bay-bass-plastics.md; species/california-halibut.md; species/spotted-bay-bass.md; techniques/inshore-crankbaits.md; techniques/sliding-sinker.md / Booth-interview seminar (Fred Hall Show 2020): landed 5 attributed, medium-confidence, decision-rationale entries across bay-bass gear/lures, halibut fast-retrieve, bluefin sinker-rig cadence, and kelp treble-swap; fixed faithfulness defects before applying |
 | 5Oh3IPIC5g4 | Fisher Newb | seminar | deep | pending |  |
 | 8XrMkWPRxgs | Utah Spahghettzi Björker | seminar | deep | pending |  |
 | 8txprrsY9Os | jdmarnell | seminar | deep | pending |  |

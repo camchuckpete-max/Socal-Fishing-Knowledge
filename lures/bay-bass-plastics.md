@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -70,6 +70,29 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
   **Yamamoto grub tail** in **hot orange** was named as the bait in play late
   in the session and produced a (small) fish. Multi-speaker, unregistered
   channel — medium confidence.
+
+## Small swimbaits — Big Hammer 3 in, orange jighead (Pete, Big Hammer)
+
+Pete (co-owner), Big Hammer, interviewed by Roman Castro at the 2020 Fred
+Hall Show, Long Beach — `46ha7J1Fc6A`; unregistered speaker, single mention —
+medium confidence. San Diego Bay / Mission Bay spotted bay bass, a step up in
+profile from the Ned/fluke/grub finesse class above — a small swim (tail-kick)
+bait rather than a bottom-hop stick:
+
+- **Bait:** a **3 in Big Hammer swim bait**, fished on an **orange jig head**
+  paired with an **Invader body** — his stated substitute for a discontinued
+  in-house bait ("margarita") that had a similar orange-belly-spot profile.
+  Also produces incidental calico bass and California halibut on the same
+  bait, per the same speaker.
+- **Sizing note:** the 3 in size is his personal pick for spotted bay bass
+  specifically; he separately fishes the same swimbait body in freshwater
+  largemouth/shallow-river applications — an out-of-scope freshwater
+  application, not carried here (size not stated for that use).
+- Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md). A
+  related seasonal pattern — a **Megabass Dark Sleeper** swimbait fished slow
+  near bottom in winter, switching to a fast-sweep crankbait for a reaction
+  bite in summer — is logged in
+  [spotted bay bass](../species/spotted-bay-bass.md#seasonal-lure-switch--swimbait-slow-in-winter-crankbait-fast-in-summer-garrett-owner-hooks).
 
 ## How to fish it
 
