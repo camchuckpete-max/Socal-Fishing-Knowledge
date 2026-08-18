@@ -2027,7 +2027,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 2O4Z0S78KLg | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md; species/yellowtail.md; rigging/essential-knots.md: new giant-yellowtail long-range surgeon's loop rig note, cross-linked |
 | 2TmLaSCmfC8 | SearcherSportfishing | tutorial | deep | done | rigging/flying-fish-harness.md: added alternative braid wing-tie method for dead flyer kite rig |
 | 2fwj24S9S-o | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md: added third Albright variant (dissimilar-line, no dead-set wrap count, wet-before-cinch) |
-| 3FghhsYAIFI | SearcherSportfishing | tutorial | deep | pending |  |
+| 3FghhsYAIFI | SearcherSportfishing | tutorial | deep | done | sources/extraction-log.md: skip, 48s ASR-garbled clip, only clean fact already documented in techniques/surface-iron.md |
 | 3djuTW9GBr0 | SearcherSportfishing | tutorial | deep | pending |  |
 | 3g82igEL8yk | SearcherSportfishing | tutorial | deep | pending |  |
 | 3gNTB4aMhCA | SearcherSportfishing | tutorial | deep | pending |  |
