@@ -537,6 +537,7 @@ rods come tight on big bluefin together.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)

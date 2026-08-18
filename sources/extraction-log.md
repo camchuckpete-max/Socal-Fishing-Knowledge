@@ -2016,7 +2016,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | -hY20bxz3oM | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: added medium-confidence attributed spring-scale drag setter sub-entry under existing drag-scale doctrine |
 | 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: added Owner Hybrid Mutu booth-interview product note (sponsored, low confidence, ASR-uncertain hook name flagged) |
 | 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | done | none: nothing extractable — entire transcript is a Fred Hall Show retail promo (Seaguar/P-Line fluorocarbon deals), no fishing knowledge |
-| 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | pending |  |
+| 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md: Steve Clarkson (Searcher) tip — 16VISX-class reel for angler endurance, 320g glow flat-fall jig w/ big hooks for night bite, 315 lb bluefin observed 59mi off Point Loma |
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | pending |  |
 | 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | pending |  |
 | 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
@@ -674,6 +674,25 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   top shot of 40 lb fluorocarbon**, sardine bait ("hook the sardine," hook
   style/size not given) — consistent with, not new beyond, the 40 lb-class
   flyline/sinker rigs already logged for this same charter above.
+- **Observed** (SearcherSportfishing, Steve Clarkson, `0E9REoTjKrY`, "Tackle
+  Tip Thursday Vol. 91 (Giant Tuna)," filmed at the Fred Hall Show, upload
+  2020-03-19; unregistered channel — medium confidence): Clarkson stated he'd
+  landed a **315 lb bluefin tuna** (ASR renders the phrase "315 tablet in
+  tuna" — read here as "315-pound bluefin tuna" from context; flagged
+  asr-uncertain) **59 mi off Point Loma**, dated on camera only as "about two
+  months before the Fred Hall Show" — resolved here to **on/around January
+  2020** (the San Diego Fred Hall Show runs in early March; the video's own
+  upload date, 2020-03-19, falls just after that year's show) rather than
+  treated as an exact date. He credited the catch to "persistence and a
+  little luck," fishing a **320 g glow-in-the-dark flat-fall-class jig**
+  (captioned "fall type jig" — see [knife jigs](../lures/knife-jigs.md)) on a
+  **Penn International 16VISX**-class reel (captioned "16 V is X" —
+  asr-uncertain on the exact model, but named alongside the Penn
+  International 80 and 130 in the same segment; full attributed reel/jig
+  doctrine in [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#daytime-and-night-one-reel-pick-for-giant-tuna--endurance-over-max-drag-steve-clarkson-searcher-sportfishing)).
+  Framed on camera as promotional for the boat ("even if you're only on a day
+  and a half trip on the Searcher, that could happen to you"), so read as an
+  attributed catch/data point rather than fishery-wide doctrine.
 
 ## Finding them (sign & sonar)
 

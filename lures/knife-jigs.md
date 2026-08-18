@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -345,6 +345,19 @@ name):
   theory. This corroborates, from a second registered voice, the
   "mostly angler confidence" framing above rather than the specific
   mechanism/color claims.
+  - **Conflicting take, kept side by side (Steve Clarkson, SearcherSportfishing,
+    `0E9REoTjKrY`, "Tackle Tip Thursday Vol. 91 (Giant Tuna)," uploaded
+    2020-03-19; unregistered channel — medium confidence):** for the same
+    night flat-fall-class jig bite, Clarkson calls **glow-in-the-dark the
+    real secret**, paired with big, strong hooks as the other non-negotiable
+    — framed on camera against his own **315 lb bluefin** landed 59 mi off
+    Point Loma (full catch detail in
+    [bluefin tuna](../species/bluefin-tuna.md#where--when); full reel/jig
+    build in
+    [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#daytime-and-night-one-reel-pick-for-giant-tuna--endurance-over-max-drag-steve-clarkson-searcher-sportfishing)).
+    Not reconciled with Hansen's angler-confidence framing directly above —
+    two attributed, opposed views on the same question, from two different
+    single-mention-capped voices.
   - **The pelagic-red-crab rationale, expanded, one week earlier same
     channel/captain (Capt. Dave Hansen, Your Saltwater Guide, scmPq63lLWM,
     2021-05-18; dave-hansen registered voice — `high` confidence for the

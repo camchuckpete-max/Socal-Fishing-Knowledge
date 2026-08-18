@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 0E9REoTjKrY]
 confidence: medium
 ---
 
@@ -310,6 +310,45 @@ and the missed-bite redrop technique are in
   weight is unclear in the source audio) — ties up one angler and costs the
   other 30-plus anglers aboard their shot at the same school before it
   leaves.
+
+## Daytime-and-night one-reel pick for giant tuna — endurance over max drag (Steve Clarkson, Searcher Sportfishing)
+
+Steve Clarkson, aboard the **Searcher**, speaking at the Fred Hall Show
+(`0E9REoTjKrY`, "Tackle Tip Thursday Vol. 91 (Giant Tuna)," uploaded
+2020-03-19; unregistered channel — medium confidence). Framed for anglers
+after **150–250 lb+** bluefin specifically — heavier grade than the ladders
+above target.
+
+- **Reel — a Penn International 16VISX-class two-speed** (captioned "16 V is
+  X" — asr-uncertain on the exact model designation, but named in the same
+  breath as Penn International 80 and 130, so read as the same reel family,
+  a size or two down). His stated reasoning is angler **endurance, not
+  stopping power**: the big Penn International 80s and 130s can only be
+  "held up for about 10 minutes" before an angler is "done for the day,"
+  while the 16VISX-class reel is light enough that "even an old guy like me
+  can hold it all day, wait for that big bite." Kept side by side with, not
+  a correction of, the heavier 130 lb+ braid boat-driven doctrine in
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md) — this is
+  a hand-fought, angler-endurance framing rather than a boat-does-the-work
+  one.
+- **Daytime application:** fish live mackerel or live sardine on this same
+  reel, same as with lighter gear.
+- **Nighttime application — jig class and two non-negotiables:** a
+  **flat-fall-class jig** (captioned "fall type jig"), **roughly 6–12 oz
+  (≈170–340 g)** — he cross-checks his own example, a **320 g** jig, against
+  "about 10 oz," which doesn't fully reconcile (320 g ≈ 11.3 oz) but is
+  preserved as stated rather than corrected. Two things he calls
+  non-negotiable for the night bite specifically: the jig must **glow in the
+  dark**, and it needs **big, strong hooks**. Sits within, not beyond, this
+  note's existing 150–400 g night knife-jig range in
+  [knife jigs](../lures/knife-jigs.md); his glow-is-essential framing is a
+  **live conflict, kept side by side** with Capt. Dave Hansen's stated view
+  elsewhere in this KB that glow-in-the-dark is "angler-confidence
+  marketing, not a proven fish preference" (see
+  [knife jigs — color](../lures/knife-jigs.md#color--mostly-angler-confidence-with-one-real-mechanism)).
+- **Observed catch credited to this exact combo:** a **315 lb bluefin**, 59
+  mi off Point Loma — full catch detail in
+  [bluefin tuna](../species/bluefin-tuna.md#where--when).
 
 ## Drag — weakest-link setting, and a scope-shift trap
 
