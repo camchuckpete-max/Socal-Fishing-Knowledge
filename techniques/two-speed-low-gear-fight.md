@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -15,6 +15,22 @@ boat-driving methods (gear-tap, down-swell walk) in
 [fighting a big bluefin](fighting-big-bluefin.md). Source: Steve Carson
 (Penn), San Diego Rod and Reel Club talk, `9JnIS8HkZlA`, 2023-11-14;
 unregistered channel/speaker, single mention — medium confidence.
+
+## Mechanism — what "shift to low" actually changes
+
+A two-speed reel's two gear ratios are printed on its spec sheet as two
+numbers, e.g. **6:1 high / 3:1 low** — in high gear, one full turn of the
+handle spins the spool six times; shift down and that same one handle turn
+only spins the spool three times. Low gear retrieves **less line per crank**
+but takes **less effort to turn**; high gear retrieves more line per crank
+at the cost of needing more force against a heavy, still-loaded fish.
+Mechanically the same trade-off as downshifting a bicycle on a hill: you
+climb slower per pedal stroke, but each stroke is easier. Shifting is a
+single button near the reel's handle side — push it mid-fight to drop from
+high to low once a fish gets heavy enough that high gear is a grind to
+turn. (Lori, Turner's Outdoorsman, via SearcherSportfishing
+"Tackle Tip Thursday Vol. 136," `-OJ1FED7mxI`, 2021-02-11; unregistered
+channel/speaker — medium confidence.)
 
 ## Reach for this when
 

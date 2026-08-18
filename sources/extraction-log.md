@@ -2011,7 +2011,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ztpj1Xll0-U | Your Saltwater Guide | seminar | deep | done | bait/bait-tanks.md; sources/regulatory-claims.md; species/bluefin-tuna.md; techniques/fighting-big-bluefin.md / seminar/deep extraction — bait-barge timing, bluefin fight cadence corroboration, and 2014 bag-limit history added, minor faithfulness/format fixes applied |
 | -62xDo4UQzo | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; techniques/wahoo-bomb-casting.md; rigging/haywire-twist.md; species/yellowfin-tuna.md; techniques/trolling.md / new wahoo species router + cast-and-burn technique note created from this video, existing wahoo-bycatch mentions in yellowfin-tuna.md/trolling.md re-linked to it, haywire-twist.md gained a wahoo casting-leader spec with an unreconciled twist-vs-crimp data point |
 | -BO1lMCTamg | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md / Added Albright wrap-variant (spaced-then-overlap, 9 wraps) as an attributed bullet + tie-it link on the existing FG/Albright rig note; no new note needed |
-| -OJ1FED7mxI | SearcherSportfishing | tutorial | deep | pending |  |
+| -OJ1FED7mxI | SearcherSportfishing | tutorial | deep | done | techniques/two-speed-low-gear-fight.md / deep-extracted the 6:1/3:1 two-speed gear-ratio mechanism into the existing low-gear-fight technique note (no prior note stated the raw ratio mechanic); fixed one unsupported "(or lever)" addition |
 | -QnMvV4j_oM | SearcherSportfishing | tutorial | deep | pending |  |
 | -hY20bxz3oM | SearcherSportfishing | tutorial | deep | pending |  |
 | 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | pending |  |
