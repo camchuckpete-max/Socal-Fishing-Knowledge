@@ -1333,6 +1333,7 @@ water temp and bait depth before committing the day to one face.
 - [May](../seasonal/may.md)
 - [Ocean Whitefish](ocean-whitefish.md)
 - [Pacific Bonito](bonito.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

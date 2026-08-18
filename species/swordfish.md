@@ -113,6 +113,7 @@ Requirements before you stop:
 - [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Sea State](../conditions/sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Water Color](../conditions/water-color.md)

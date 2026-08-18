@@ -264,6 +264,7 @@ the *bottom*, not the fish.
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
 - [Pacific Bonito](bonito.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

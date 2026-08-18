@@ -126,6 +126,7 @@ glassing](../planning/search-and-glassing.md),
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ocean Whitefish](ocean-whitefish.md)
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

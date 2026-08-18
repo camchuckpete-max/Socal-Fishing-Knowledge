@@ -427,6 +427,7 @@ grade, or technique detail given for the dorado specifically.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [October](../seasonal/october.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)

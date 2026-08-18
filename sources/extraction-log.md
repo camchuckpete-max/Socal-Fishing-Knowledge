@@ -1228,3 +1228,33 @@ full attempted diff is preserved in git history:
 | elBPRrdkugU | 848d803 | wrote to `profiles/cameron/rods.md` | correct veto — general notes never write into a user profile; the gear content should be re-homed to `tackle/` in class terms, or dropped |
 
 End state: **267 done / 148 skipped / 3 escalated** of 418 worklist rows.
+
+---
+
+## 2026-08-18 — regulatory reference (non-video source)
+
+First entry sourced from a **published authority** rather than a transcript, and
+the first use of the `Primary sources` tier in
+[source-registry](source-registry.md).
+
+| Source | Destination | Notes |
+| --- | --- | --- |
+| *2026 California Ocean Sport Fishing Regulations*, CDFW, last updated 2026-07-17 (supplied by Cameron) | [`planning/regulations.md`](../planning/regulations.md) — California section | Figures read from the Regulations Summary Table for Ocean Finfish (pp. 45–49), the per-species sections, §632 MPA general rules, and Measurement Methods (p. 81). Stamped `checked: 2026-08-18`. |
+| NOM-017-PESC-1994 + the separate 2015 bluefin measure | [`planning/regulations.md`](../planning/regulations.md) — Mexico section | Base structure only. Official CONAPESCA PDF returned HTTP 403; FAO mirror would not parse. Corroborating detail from search plus long-range fleet practice. |
+| `cameron` — Mexican bag-limit account, 2026-08-18 | [`planning/regulations.md`](../planning/regulations.md) — Mexico section | Per-species caps, the "two bluefin count as five" mechanic, and the mixed-bag open item, which is recorded as unresolved rather than guessed. Cameron's account was **more current than the 1995 norm alone** — bluefin is a 2015 addition. |
+| Surfacing + output rules | [`skills/socal-boat-day/ENTRY.md`](../skills/socal-boat-day/ENTRY.md), [`planning/day-plan-protocol.md`](../planning/day-plan-protocol.md) | Regulations are consulted, not recited; jurisdiction resolves from the destination before any figure is read; a stated limit always carries its `checked:` date and a verify line. |
+
+**Deliberately not done in this build.** Six regulatory claims already in the
+species notes are wrong or stale and now contradict the new note. They were left
+in place — Cameron's instruction was to leave the species notes as they are, and
+the fix was offered and not taken up. Logged here so the contradiction is on the
+record rather than discovered later:
+
+| File | Says | Actually |
+| --- | --- | --- |
+| `species/spotted-bay-bass.md:164` | no minimum size limit | 14 in TL, 5-fish combined bass aggregate |
+| `fish-care/sculpin-handling.md:47` | 10 in minimum to keep | no size limit (removed 2025) |
+| `species/yellowtail.md:78` | Farnsworth — "only yellowtail and bonito may be kept" | a per-area, per-method rule; two adjacent SMCAs differ |
+| `species/rockfish-lingcod.md:21` | season "closes year-end, roughly Jan–Feb" | wrong window; see the CDFW groundfish tables |
+| `species/bluefin-tuna.md:870` | "two per person per day" | 2, *in addition to* the 20-fish general limit |
+| `species/bluefin-tuna.md:858` | cowcod closure drives bluefin effort to the 43 | repealed for recreational groundfish, 2024 |

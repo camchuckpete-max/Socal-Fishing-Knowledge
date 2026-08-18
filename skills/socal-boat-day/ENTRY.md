@@ -76,6 +76,38 @@ Beyond what the protocol produces, every plan states:
 - **Named gaps** — spots not covered by data, gear classes the angler lacks,
   layers that came back empty.
 
+## Regulations — consulted, never recited
+
+Limits live in one place: [`planning/regulations.md`](../../planning/regulations.md).
+They are **not** carried in the species notes and must not be volunteered into
+ordinary answers.
+
+**Open the regulations note when** the angler is deciding whether to **keep** a
+fish — a question about limits or legality ("can I keep this," "what's the
+limit," "is this legal"), or a plan step that involves a take decision.
+
+**Do not surface limits** on "where do I go," "what do I throw," or "is it
+fishable." That is most of what gets asked, and reciting limits into those
+answers is noise.
+
+**Resolve the jurisdiction from the destination first.** A California figure
+never appears on a Mexico trip, and a Mexican figure never appears on a
+California trip. Cedros does not get a CDFW size limit.
+
+### Stating a limit — the output rule
+
+**Never state a limit without its `checked:` date and a verify-current line in
+the same response.** When summarizing, the date and the caveat survive the
+summary — they are part of the answer, not context you may drop. The short form:
+
+    (checked YYYY-MM-DD — confirm current rules before you keep anything;
+    limits change)
+
+**If the regulations note has no figure for something, say you don't know and
+point at the authority — CDFW or CONAPESCA. Do not fill the gap from general
+knowledge.** A number recalled from training arrives with no date and no
+warning attached, which is worse than no answer.
+
 ## Reasoning discipline
 
 - Reports describe where fish **were**. Reason about the mechanism that put them

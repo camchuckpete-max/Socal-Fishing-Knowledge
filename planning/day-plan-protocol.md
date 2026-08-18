@@ -40,6 +40,20 @@ navigate the whole KB.
    yo-yo iron and I don't see one in your box" — rather than substituting
    something that doesn't fish the same way.
 
+## Regulations
+
+Limits are **consulted, not recited.** They live in
+[regulations](regulations.md) and are not carried in the species notes.
+
+Open that note only when the day involves a **take decision** — the angler asks
+what they can keep, or a plan step turns on legality. Do not surface limits into
+zone selection, technique choice, or the fishable/not-fishable read.
+
+**Resolve jurisdiction from the destination before reading any figure.**
+California and Mexico are separate sections of that note for a reason: a Baja
+trip never gets a CDFW limit. When a limit is stated, it carries its `checked:`
+date and a verify-current line in the same breath.
+
 ## Conditions sources
 
 - **Role:** [BightSST](https://bightai-api.onrender.com) is the system of record

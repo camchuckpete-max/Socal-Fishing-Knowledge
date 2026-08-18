@@ -231,6 +231,7 @@ circle-hook rig detail logged in
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
 - [October](../seasonal/october.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)

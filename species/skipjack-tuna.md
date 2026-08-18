@@ -102,6 +102,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Flyline](../techniques/flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [September](../seasonal/september.md)
 - [Striped Marlin](striped-marlin.md)

@@ -111,6 +111,7 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Island Structure](../locations/island-structure.md)
+- [Regulations — California and Mexico](../planning/regulations.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
