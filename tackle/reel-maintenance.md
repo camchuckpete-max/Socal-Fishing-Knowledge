@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k]
 confidence: medium
 ---
 
@@ -62,6 +62,26 @@ discipline, argued from cost rather than just care —
 - With a Q-tip, apply a little grease to **all the moving parts and gears** inside
   the reel.
 - The toothbrush clears salt/debris from the tight spots before you re-grease.
+
+## Winter lay-up — corrosion spray and gear grease (SearcherSportfishing, "Tackle Tip Thursday Vol. 27," `5IN1wsOFR-k`, 2018-12-20; unregistered channel — medium confidence)
+
+Two quick products for the stretch of winter when a reel sits idle rather than
+going out every week:
+
+- **Corrosion-inhibitor spray for idle reels.** During the winter lull, spray a
+  corrosion-inhibitor product **liberally over the reel**, let it sit, then wipe
+  it off — a fast way to protect a reel that isn't seeing regular trips. (The
+  transcript audio names a specific product here, but the brand is garbled in
+  the auto-captions and unconfirmed — `asr-uncertain`, not repeated as a brand
+  name.)
+- **Gear grease for the drive train.** A small dab of a reel grease worked into
+  the **main gear and spinning gears** keeps those moving parts serviced through
+  the layoff — consistent with the Q-tip/universal-grease servicing above. The
+  transcript names a third part here ("school shots and stuff like that" in the
+  auto-captions), which does not resolve to a real reel component and is not
+  repeated as a specific claim — `asr-uncertain`. (Same brand caveat as above:
+  the specific grease named on camera is garbled in the auto-captions —
+  `asr-uncertain`.)
 
 ## Guide inspection
 
