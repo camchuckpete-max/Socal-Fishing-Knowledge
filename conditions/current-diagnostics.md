@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw]
 confidence: high
 ---
 
@@ -39,6 +39,15 @@ lying** separates **true current** from **wind push** (2/20/25):
 
 The **chum bucket itself is an artificial "thumb over the hose"** — its drift line
 is a live current reading you can deploy on purpose.
+
+**A chart plotter's current-arrow layer is reading wind, not current** — treat
+it as such and confirm with the chum-drift/kelp-lean tells above instead
+(Your Saltwater Guide seminar host, not named on camera — this speaker's
+biography, e.g. "I ran sport boats," his father's ownership of two named
+San Pedro-area sport-fishing operations, and 15 years running the Your
+Saltwater Guide business, does not match the channel's registered
+`dave-hansen` voice, so treated as unregistered — BskCsKaTiZw, 2025-03-08;
+single mention — medium confidence).
 
 ## "The treadmill is off" — no current at anchor
 

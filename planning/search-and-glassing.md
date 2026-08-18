@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw]
 confidence: high
 ---
 
@@ -83,6 +83,23 @@ Once you've found the water, where you drop the hook depends on what you're afte
   boat to read the true current before you commit. The mechanism is in
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
+- **Re-anchor on the opposite side of the same spot when current reverses,
+  because fish hold facing into the current.** Stated reasoning (Your Saltwater
+  Guide seminar host, not named on camera — biography doesn't match the
+  channel's registered `dave-hansen` voice, treated as unregistered,
+  BskCsKaTiZw, 2025-03-08): fish on a spot orient into the current the same way
+  a stream trout always faces upstream — facing away would leave them with no
+  control. So on a spot fished two days running
+  with the current reversed between them, the fish that were feeding (and
+  biting) on one side of the structure the first day have turned to feed from
+  the opposite side the second day, because that's now the up-current face the
+  food is washing from. The practical call: **don't just re-anchor to hold the
+  boat in the same GPS position** — reset so your baits again reach the
+  up-current face the fish are now oriented toward, which after a reversal is
+  the *other* side of the spot from where you anchored the day before. This is
+  the day-to-day, same-spot companion to the up-current-face bank-scale
+  doctrine in [current structure](../conditions/current-structure.md#where-on-the-bank)
+  — single mention, unregistered speaker — medium confidence.
 - **Too deep to anchor → drift the spot instead (a contrasting attributed
   practice, Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM,
   2020-04-04; capt-scotty-brothers registered — high confidence).** On a
