@@ -112,3 +112,11 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-15T01:34:31Z — MUpvP-Yl2R0 — evaluator-escalate
 - run: 31852099283
 - reason: species/california-halibut.md adds a CDFW 22in legal-minimum-size claim for California halibut (jurisdiction/as-of-date/verify-current flag present and compliant) - per evaluate-unit.md's mandatory trigger, every regulatory claim goes to Cameron regardless of correct labeling
+
+## 2026-08-18T16:36:33Z — unknown — guard-violation
+- run: 32158370146
+- reason: sweep reverted b87d21aa02c10ba80fd42230b5db3c509c2530cc: protected path touched: scripts/build-bight-watch.py
+
+## 2026-08-18T16:36:34Z — unknown — guard-violation
+- run: 32158370146
+- reason: sweep reverted e4cc1893ccec79e76ad95f506753c5ca40ccd0da: protected path touched: scripts/batch2/commit-video.py
