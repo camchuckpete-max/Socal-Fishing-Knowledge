@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk, ztpj1Xll0-U]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -183,6 +183,18 @@ treat it as a judgment call made fresh at the barge each trip, weighing:
   on one trip three scoops of anchovy filled the tank, which is part of why
   the captain prefers anchovy over "the big giant sardine" for tank
   management.
+
+## Beat the sport-fleet line at the barge (dave-hansen, Your Saltwater Guide, PCS Show live seminar, `ztpj1Xll0-U`, 2023-03-02; registered voice, single mention — medium confidence)
+
+At **Dana Point**, the sportboat fleet's own departure schedule sets **6:00
+a.m.** as the standard leave time — which means that's also when the private-
+boat crowd converges on the bait barge, producing a line. Hansen's doctrine:
+show up **before** that wave, not with it — he frames leaving the dock around
+**5:00 a.m.**, or earlier (4:30 a.m.), as beating the line entirely, versus
+showing up at 6:00 and waiting in the line that forms, or at 7:00 a.m. when
+(per Hansen) the window is simply "all gone." Kept here as a barge-logistics
+judgment call alongside "Judging load size at the barge" above, not a
+bait-selection or tank-sizing parameter.
 
 ## Visual health tell when the bait is first loaded (Observed)
 

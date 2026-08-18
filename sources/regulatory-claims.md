@@ -43,6 +43,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Sculpin (California scorpionfish) minimum size | 10 in | 2022-04-16 | [sculpin handling](../fish-care/sculpin-handling.md) | `ty8FtA3Y2bA` |
 | Spotted bay bass minimum size | **none** | 2024-11 | [spotted bay bass](../species/spotted-bay-bass.md) | `usHl-4SfqDA` |
 | Pacific bluefin tuna bag limit | 2 per person per day | 2024-11 | [bluefin tuna](../species/bluefin-tuna.md) | `usHl-4SfqDA` |
+| Pacific bluefin tuna bag limit — historical: raised from zero-retention to 2/person/day | 0 → 2 per person per day | 2014 (historical change; verify current limit against the 2024-11 row above) | [bluefin tuna](../species/bluefin-tuna.md) | `ztpj1Xll0-U` |
 | Rockfish closure driving effort to the 43 bank | seasonal closure; bluefin targeted on the same high spot instead | 2020-12 | [rockfish & lingcod](../species/rockfish-lingcod.md), [bluefin tuna](../species/bluefin-tuna.md) | `Rf1HKJG-SDg` |
 | Rockfish depth-limit progression | 300 → 350 → 460 ft, plus a season reopen date | speaker self-hedged; historical | [rockfish & lingcod](../species/rockfish-lingcod.md) | `lF6jQklDCrY` |
 | Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | 7/person/day bag limit; see note for the rest | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |

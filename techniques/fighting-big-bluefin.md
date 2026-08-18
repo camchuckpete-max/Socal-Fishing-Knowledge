@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -48,6 +48,20 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   a short hand-fought finish). Going to neutral was also driven by keeping
   the line clear of the props, with the captain watching the fish and
   turning the boat as needed rather than on a fixed cue.
+
+**A later dated source restates the same cadence as the gear-tap doctrine
+above and the same rig as the 2019 Fred Hall Show mention below — repeated
+doctrine from the same registered voice across a ~5-year span (dave-hansen,
+Your Saltwater Guide, PCS Show live seminar, `ztpj1Xll0-U`, 2023-03-02; high
+confidence for this specific rig/cadence pairing):** describes the identical
+mechanic in these words —
+drive the boat forward a short distance, stop, wind in the slack, drive
+forward again, repeat — again on **200 lb braided line to 400 lb
+fluorocarbon**, rod never leaving the rod holder through the fight ("kill him
+with the boat"). **Observed** (Your Saltwater Guide, PCS Show live seminar,
+`ztpj1Xll0-U`, 2023-03-02): a named crew member, Justin Botrel of Bowline
+Sport Fishing, fished this method through 2022 and, per Hansen on camera,
+landed every bluefin he fought that way that year — zero lost.
 
 ## Small-boat (20–30 ft) variant — circle instead of switching sides
 
