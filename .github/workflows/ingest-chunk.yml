@@ -56,6 +56,8 @@ jobs:
         env:
           HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
           HAS_OAUTH: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
           if [ -f STOP ]; then
@@ -71,6 +73,16 @@ jobs:
           if [ "$HAS_KEY" != "true" ] && [ "$HAS_OAUTH" != "true" ]; then
             echo "::error::No auth secret found (ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN)."
             exit 1
+          fi
+          # Overlap guard. The trampoline on main fires on a short cron so a
+          # dead chain restarts fast; without this, every fire would queue
+          # behind the running chunk and the pacing lever would be defeated.
+          # This run counts itself, hence > 1.
+          others=$(gh run list --workflow=ingest-chunk.yml --status=in_progress \
+                     --json databaseId --jq 'length' 2>/dev/null || echo 1)
+          if [ "${others:-1}" -gt 1 ]; then
+            echo "Another chunk is already in flight — exiting (no overlap)."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"; exit 0
           fi
           echo "run_base=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           echo "proceed=true" >> "$GITHUB_OUTPUT"
