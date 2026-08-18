@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -168,6 +168,41 @@ quick gangion** built and fished at **400–600 ft**:
   [current](../conditions/current-diagnostics.md) fishes soft; combine a
   dropper loop with a [sliding sinker](sliding-sinker.md) to cover the whole
   column when marks are scattered.
+
+### Driving onto a tight numbered spot (Capt. Dave Hansen, Your Saltwater Guide, live seminar, 2024 PCS Show, `AH4Eiya1Hn0`, 2024-03-09)
+
+Answering an audience question on locating a rockfish spot from a GPS number —
+subscription-site-pitch context (this whole seminar promotes the Your
+Saltwater Guide membership), per the [source registry](../sources/source-registry.md)
+that caps this kind of segment at **low** confidence regardless of the
+speaker's usual standing:
+
+- Run to the waypoint on the chart plotter and watch the plotter's
+  **distance-to-go** readout count down on the approach, rather than the
+  sounder screen — his framing was to shut the sounder off on the run in and
+  fish the plotter number instead.
+- When distance-to-go reads **0.00**, kill forward way (stop the boat, put it
+  in reverse) and drop immediately. Framed as necessary because many of the
+  numbered rock spots are small — "not even as big as a stage" — so a late
+  drop misses the structure entirely.
+- **Diagnose a miss off the track line:** if the gear wasn't ready and the
+  line went in late (his example: already reading 0.01 by the time the sinker
+  hit the water), that overshoot is enough to land off the spot and produce
+  sand dabs instead of rockfish; comparing the boat's recorded track line
+  against the waypoint after the drift shows the overshoot so it can be
+  corrected on the next pass. Consistent with, not a replacement for, the
+  general waypoint/track-line method above.
+
+### Reading structure at extreme depth — "fuzz," not individual arches (Capt. Dave Hansen, Your Saltwater Guide, live seminar, 2024 PCS Show, `AH4Eiya1Hn0`, 2024-03-09; same low-confidence context as above)
+
+At **300–500+ ft**, running the contour looking for rock, the target sonar
+picture is described as a **hard-bottom return coming up topped with
+"fuzz,"** not the clean boomerang-shaped arches read at shallower depth —
+individual fish stop resolving as distinct arches at that range, they paint
+as a fuzzy mass over the hard spot, and that fuzz is what to drop on. A
+single-source refinement of the arches-over-hard-bottom read logged above,
+not independently corroborated — treat as a plausible extension for the
+deep end of this note's depth range rather than verified doctrine.
 
 ## Releasing fish from depth (descender)
 

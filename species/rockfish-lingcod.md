@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
@@ -244,6 +244,23 @@ the *bottom*, not the fish.
   2019-02-06). This is a dated historical data point only, illustrating that
   depth limits move over time; it is not current guidance.
   CDFW before the trip.
+- **Cow Cod Conservation Area reopened to deeper fishing; cow cod itself still
+  no-retain (California/Federal, as-of 2024-03, self-hedged on camera — verify
+  current CCCA boundary and depth limit with CDFW/NOAA):** the presenter
+  describes the Cow Cod Conservation Area's depth restriction loosening "last
+  year" (2023, resolved from the 2024-03-09 upload date) to allow fishing to
+  **600 ft with two hooks** inside the zone — while cow cod itself remains a
+  fish anglers may not keep (a federally protected species, framed on camera
+  as illegal to retain). He frames a large cow cod (his example: a
+  ~20 lb fish) as effectively impossible to get back down to the bottom alive
+  without dedicated heavy gear, since a fish that size needs far more
+  descending weight than a typical rockfish (his estimate: 40–80 lb of weight,
+  or a winch-equipped boat) (Capt. Dave Hansen, Your Saltwater Guide, live
+  seminar, 2024 PCS Show, `AH4Eiya1Hn0`, 2024-03-09; subscription-site-pitch
+  context — low confidence per the [source registry](../sources/source-registry.md)).
+  See [rockfish deep-dropping — releasing fish from depth](../techniques/rockfish-deep-dropping.md#releasing-fish-from-depth-descender)
+  for descender mechanics, and the dated depth-limit progression above for
+  older historical figures on the same regulatory axis.
 - **Handling caution:** rockfish dorsal spines carry a **mild venom** — minor,
   not a serious hazard, but worth being deliberate handling the fish (Scotty,
   Brothers Sportfishing, _ZThckj2TIM, 2020-04-04; high confidence). Undersized/

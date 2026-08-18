@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A, AH4Eiya1Hn0]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor]
@@ -79,6 +79,36 @@ every structure spot when the tide turns.
   with the fully-tide-driven doctrine above. Multi-speaker, unregistered
   channel, presenter not identified — medium confidence.
 
+- **Mission Bay hot spot — Ingram Street Bridge** (Pablo Fernandez, Fernandez
+  Charters, Mission Bay/La Jolla, `AH4Eiya1Hn0`, 2024-03-09; unregistered
+  speaker, single mention — medium confidence): named as a standout Mission
+  Bay spotty spot, alongside jetties and docks generally — "they're actually
+  everywhere... it's hard not to catch them." Activity picks up **spring
+  through fall** ("from now [March] till fall they really start pumping"),
+  available year-round. Tide window described loosely as "slack tide to
+  either side of slack," consistent with the fully-tide-driven doctrine
+  above.
+- **Live-bait-via-sabiki technique** (Pablo Fernandez, `AH4Eiya1Hn0`): catch
+  whatever small baitfish is around the dock/bridge on a sabiki rig, then
+  fish that same live bait for spotties on the spot — "every single one gets
+  eaten." A live-bait alternative to the finesse-plastics/crankbait
+  techniques in the table below, not otherwise logged in this note.
+- **San Diego Bay tide-swing threshold** (Alan Clowers, Captain Clowers
+  Charter & Guide Service, `AH4Eiya1Hn0`; unregistered speaker, single
+  mention — medium confidence): before bay/spotty fishing, check the tide
+  swing first — on a **1–2 ft swing** his advice is "find something else to
+  do" (fish can still be caught around slack on a light-swing day, but it's
+  marginal); he calls a **~3.5–6.5 ft** swing the area's best. A San Diego
+  Bay-specific figure, presented alongside — not reconciled with — the
+  Mission Bay 4–5 ft/~7 ft-is-too-big figures already logged above; same
+  fully-tide-driven doctrine, different bay, similar order of magnitude.
+- **San Diego Bay wind pattern** (Alan Clowers, `AH4Eiya1Hn0`): wind
+  typically builds around **11:00 a.m.**, "like clockwork," on a normal day.
+  An **outgoing tide against a westerly 10–12 kt afternoon wind** can cancel
+  the boat's drift almost entirely (wind pushing one way, tide pulling the
+  other) — a planning cue for picking a morning vs. afternoon session and
+  anticipating which way the boat will actually drift.
+
 ## Finding them (sign & sonar)
 
 General method: [search & glassing](../planning/search-and-glassing.md).
@@ -151,7 +181,10 @@ Every technique is either **power fishing** (crankbait, covering water fast) or
 - **Terminal/lures:** [bay bass plastics](../lures/bay-bass-plastics.md) (flukes,
   Ned baits, small paddle-tails on ball/mushroom heads), crankbaits with beefed
   hooks and 50–60 lb split rings, drop-shot and light-flyline terminals.
-  Army-green/chartreuse is a timeless bay color.
+  Army-green/chartreuse is a timeless bay color. Alan Clowers runs a
+  **Berkeley Gulp 3 in shrimp** (natural and "New Penny" — orange/white) almost
+  exclusively for San Diego Bay charters, popped near bottom rather than
+  retrieved — full detail in [bay bass plastics](../lures/bay-bass-plastics.md).
 
 ## Structure-fishing gear — turning fish out of docks, pilings, and moorings (Rick Fuentes, Fishing Syndicate)
 

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -93,6 +93,31 @@ bait rather than a bottom-hop stick:
   near bottom in winter, switching to a fast-sweep crankbait for a reaction
   bite in summer — is logged in
   [spotted bay bass](../species/spotted-bay-bass.md#seasonal-lure-switch--swimbait-slow-in-winter-crankbait-fast-in-summer-garrett-owner-hooks).
+
+## Berkeley Gulp 3 in shrimp — natural and New Penny (Alan Clowers, Captain Clowers Charter & Guide Service)
+
+Alan Clowers, Your Saltwater Guide live seminar, 2024 PCS Show, `AH4Eiya1Hn0`,
+2024-03-09; unregistered speaker, single mention — medium confidence. San
+Diego Bay, ~12 years of charter experience, half-day family/kids trips on a
+36 ft Riviera.
+
+- **Bait:** **Berkeley Gulp 3 in shrimp**, fished in two colors only —
+  **natural** and **"New Penny"** (orange and white) — "those are the two
+  baits, I eliminated the rest." A camo pattern and plain white are mentioned
+  as also working, but the natural/New Penny pair is what he actually runs.
+- **Why this bait:** a scented soft plastic that doesn't need to be worked
+  with a retrieve — "you don't have to wind it around and cast and all that
+  stuff, you just put it on the bottom and pop it" — an easy, low-skill
+  presentation he leans on for half-day charters with kids and families.
+- **Tide dependency, not bait dependency:** his framing — without the right
+  tide, "you can go through a thousand different baits and the bite's still
+  not going to be good," but with a good tide the fish "buy a lot of
+  different stuff." The Gulp shrimp is his default because it's the easiest
+  to fish well, not because it out-produces every alternative regardless of
+  conditions. See the [tide-swing threshold](../species/spotted-bay-bass.md#where--when)
+  on the species note.
+
+Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md).
 
 ## How to fish it
 

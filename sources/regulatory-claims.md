@@ -46,6 +46,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Rockfish depth-limit progression | 300 → 350 → 460 ft, plus a season reopen date | speaker self-hedged; historical | [rockfish & lingcod](../species/rockfish-lingcod.md) | `lF6jQklDCrY` |
 | Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | see note | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w` |
 | Catalina MLPA closed to public fishing (context for a hatchery broodstock crew) | closure | 2024 | [white seabass](../species/white-seabass.md) | `Y2bXn44lfqo` |
+| Cow Cod Conservation Area reopened to 600 ft / two hooks; cow cod itself still no-retain (federally protected species) | 600 ft depth limit, 2 hooks inside the CCCA; cow cod catch-and-release only | 2024-03 (describes a 2023 change); self-hedged on camera | [rockfish & lingcod](../species/rockfish-lingcod.md) | `AH4Eiya1Hn0` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
