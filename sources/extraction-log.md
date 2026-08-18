@@ -2014,7 +2014,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | -OJ1FED7mxI | SearcherSportfishing | tutorial | deep | done | techniques/two-speed-low-gear-fight.md / deep-extracted the 6:1/3:1 two-speed gear-ratio mechanism into the existing low-gear-fight technique note (no prior note stated the raw ratio mechanic); fixed one unsupported "(or lever)" addition |
 | -QnMvV4j_oM | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / Added a medium-confidence "finicky daytime bluefin" chrome-jig entry (Salas 6X Jr. / Tady 4/0) to lures/iron-jigs.md, corroborating the existing ASR-uncertain "doua"->Tady 4/0 entry; link-maintenance.py clean (0 dead links). |
 | -hY20bxz3oM | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: added medium-confidence attributed spring-scale drag setter sub-entry under existing drag-scale doctrine |
-| 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | pending |  |
+| 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: added Owner Hybrid Mutu booth-interview product note (sponsored, low confidence, ASR-uncertain hook name flagged) |
 | 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | pending |  |
 | 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | pending |  |
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | pending |  |
