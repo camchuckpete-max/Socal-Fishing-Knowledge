@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -382,6 +382,19 @@ fluoro leader, braid main line — and feed the terminal rigs in
   simplest knot you can tie" for a single-hook rockfish dropper loop, and
   rated by the presenter as more than strong enough to hold. Feeds the
   [dropper loop](../techniques/dropper-loop.md#building-the-rig) rig.
+  **Second, independent corroboration of the same three-turn mechanic (Wendy
+  Toshihara, SearcherSportfishing, `3gykKyPdOvA`, 2020-12-10; unregistered
+  channel — medium confidence):** framed on camera as a quick, easy way to tie
+  a dropper loop **"by not using a regular dropper loop knot"** — i.e. the
+  surgeon's knot substitutes for the dedicated dropper-loop knot/spider hitch.
+  Same mechanic as above (double the line, form a loop, tie it like an
+  overhand, **three turns**), plus one explicit addition: wet the knot before
+  cinching it down — a step not stated in the eEcRPEoG4DQ clip but consistent
+  with the wet-before-cinching judgment already logged for every other knot in
+  this note. Also demonstrates repeating the same knot lower down the leader to
+  build a swivel-free double dropper — see [dropper loop — single vs. double
+  dropper](../techniques/dropper-loop.md#single-vs-double-dropper-duane-diego-mellor)
+  for the rig build.
 - **Worm knot (StokedOnFishing, `mpcSgkQvIzg`, 2012-03-29; unregistered
   channel — medium confidence):** ties a monofilament topshot onto the loop
   of an already-finished Bimini twist double line — the topshot connection

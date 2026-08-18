@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -215,6 +215,16 @@ kept side by side as different mechanisms for the same goal, not merged.
   hook riding above the knot. The double pin gives holding power because
   **rockfish short-bite**, and it keeps the bait on. Two baited hooks fishing
   vertically often come up **two fish at once**.
+- **Simpler, swivel-free alternative build (Wendy Toshihara,
+  SearcherSportfishing, `3gykKyPdOvA`, 2020-12-10; unregistered channel —
+  medium confidence):** rather than a barrel swivel plus two hooks, tie two
+  **surgeon's-knot loops** directly into the leader — one, then a second
+  **a little lower down** — using the same three-turn surgeon's knot as the
+  single-hook version above (see [essential
+  knots](../rigging/essential-knots.md) for the mechanic). Sinker goes at the
+  very bottom below both loops. Kept side by side with Mellor's swivel build
+  above as a different construction for the same double-hook-over-the-sinker
+  goal, not reconciled to one method.
 
 ## Rock-cod quick gangion (Dave Hansen build)
 
