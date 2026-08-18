@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ]
 confidence: medium
 ---
 
@@ -311,6 +311,24 @@ Fluoro does two different jobs; keep them separate:
   to a snap swivel; a short **very heavy** [bite leader](../rigging/bite-leaders.md)
   (≈130–200 lb) is the critical last link. Kite flyer rigs run heavy (up to
   300 lb) because the line is out of the water — strength over invisibility.
+- **Long-range tuna backing capacity — sponsor-style product tip (Pete Gray,
+  SearcherSportfishing "Tackle Tip Thursday Vol. 108," `1wFoa11jPxQ`,
+  2020-07-16; unregistered channel; explicit branded-product promotion — low
+  confidence):** for filling a **Talica 16-class reel** for big tuna out of
+  Fisherman's Landing, the stated pick is **80 lb Power Pro Maxcuatro
+  braid** — marketed on camera as roughly **25% thinner than standard Power
+  Pro at the same strength** — so the extra capacity leaves "plenty of line"
+  for large tuna (the caption's exact size phrase is garbled — read as
+  roughly 100 lb-class fish, not confirmed), topped with a **42 lb Seaguar
+  fluorocarbon top shot**. The connecting knot is named on camera but not
+  reliably legible in the auto-captions (**asr-uncertain** — described only
+  as "easy to tie... and super strong"; not entered into
+  [essential knots](../rigging/essential-knots.md) without a verified name).
+  Kept as a standalone low-confidence data point — it corroborates this
+  note's thinner-braid-more-capacity mechanism above, but names specific
+  current retail products rather than giving independent testing or
+  reasoning, and the segment doubles as promotion for the channel's own
+  contest/live-remote schedule.
 - **Inshore bass swimbait/crank, action-preserving leader (Jeremy — first
   name only, as addressed in the transcript's Q&A; Sav-On Tackle/IROD
   seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel —
