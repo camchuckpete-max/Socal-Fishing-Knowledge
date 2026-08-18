@@ -56,25 +56,59 @@ def is_protected(path: str) -> bool:
 
 
 def violations(sha: str) -> list[str]:
+    """Mechanical checks on one commit.
+
+    Two batch-3 corrections (Cameron's correction C1 made note-splitting a
+    goal, and the old rule structurally forbade it):
+
+    1. The deletion test used to run against `path`, which for a rename is the
+       composite "old => new" string. A rename plus a large deletion therefore
+       slipped through. It now tests the DESTINATION side.
+    2. The deletion test counted deletions with no reference to additions, so
+       moving 200 lines out of a mega-note into a new specific note read as
+       vandalism. It is now net-aware: a per-file deletion is only a problem
+       when it is not offset within the file AND the commit as a whole is
+       net-destructive. A split lands content elsewhere in the same commit, so
+       it passes; a genuine mass deletion does not.
+    """
     out = git("show", "-m", "--first-parent", "--numstat", "--format=", sha)
-    probs = []
+    probs: list[str] = []
+    rows: list[tuple[int, int, str]] = []
+    total_added = total_deleted = 0
+
     for line in out.splitlines():
         parts = line.split("\t")
         if len(parts) != 3:
             continue
         added, deleted, path = parts
-        # rename syntax "old => new" — check both sides
-        for p in re.split(r"\s=>\s", path.replace("{", "").replace("}", "")):
-            p = p.strip()
-            if not p:
-                continue
-            if is_protected(p):
-                probs.append(f"protected path touched: {p}")
-        if (path.endswith(".md") and not path.startswith("sources/transcripts/")
-                and path not in DELETION_EXEMPT
-                and os.path.basename(path) != "README.md"
-                and deleted.isdigit() and int(deleted) > 10):
-            probs.append(f"deleted {deleted} lines from curated note: {path}")
+        # rename syntax "old => new" — protected check applies to BOTH sides
+        sides = [s.strip() for s in
+                 re.split(r"\s=>\s", path.replace("{", "").replace("}", ""))
+                 if s.strip()]
+        for s in sides:
+            if is_protected(s):
+                probs.append(f"protected path touched: {s}")
+        dest = sides[-1] if sides else path
+        a = int(added) if added.isdigit() else 0
+        d = int(deleted) if deleted.isdigit() else 0
+        total_added += a
+        total_deleted += d
+        rows.append((a, d, dest))
+
+    # A net-positive/net-neutral commit means content moved, not vanished.
+    net_destructive = total_deleted > total_added
+
+    for a, d, dest in rows:
+        if not (dest.endswith(".md")
+                and not dest.startswith("sources/transcripts/")
+                and dest not in DELETION_EXEMPT
+                and os.path.basename(dest) != "README.md"):
+            continue
+        if d > 10 and (d - a) > 10 and net_destructive:
+            probs.append(
+                f"deleted {d} lines (added {a}) from curated note: {dest} "
+                f"— commit is net-destructive ({total_deleted} deleted vs "
+                f"{total_added} added)")
     return probs
 
 
