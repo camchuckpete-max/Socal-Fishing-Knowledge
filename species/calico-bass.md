@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -392,6 +392,7 @@ you read the *current across the kelp*, not the tide clock.
 | Grass/heavy kelp fouls a standard weedless rig | **Glide bait** on an Owner "sled" weedless rig ([glide baits](../techniques/glide-baits.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement than the soft-plastic weedless row above; ⚠ single promotional seminar source, low confidence |
 | Fishing from a kayak/small craft — boiler rocks and kelp at close range, often with no fish finder | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — platform-specific approach (kelp as anchor, close-range boiler-rock work, fan-casting) | bass class, sized to the boat/kayak | Execution is the same current/edge doctrine above; what changes is standoff distance, anchoring, and navigation without electronics |
 | Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colors, booty spin worked top-to-bottom, lit-structure targeting in a harbor | bass class, step up leader (50 lb+ fluoro) for abrasion | Full night program — color, structure choice, and the heavier-leader rationale — lives in the technique note |
+| Deliberately hunting a **trophy fish (7–10+ lb)** rather than numbers | **Size the bait up** — 8–10 in swimbaits instead of the 4–5.5 in numbers baits, matched to bumped-up line/leader ([swimbaits](../techniques/swimbaits.md), [trophy calico tackle](../tackle/line-and-leader.md#trophy-calico-bass-tackle-n6yun-fred-hall-panel-2013-03-09)) | heavy bass-casting class, 65–80 lb braid | Cross-panel doctrine (n6yun, Fred Hall Show panel, 2013-03-09, `ZoIzpyyS9xw`): bigger lure draws fewer but bigger bites; baits under ~5.5 in top out around 1–4 lb, while 8–10 in baits are what actually connects with 7–10 lb class fish. Trade fewer bites for bigger average grade |
 
 **Covering water is the method:** 10–25 casts to the prime edge of a bed, then
 move — 100 ft or 100 yards to the next patch of stringers. If they're not on the
@@ -415,6 +416,27 @@ present the outside stringers.
 - **Doctrine (high — Landesfeind):** current-driven and tide-indifferent; fish the
   parallel-current leading edge; cover water and let a handful of casts grade each
   bed; presentation follows the kelp's current tell.
+- **Trophy grade = bigger bait, fewer bites (Fred Hall Show panel, part 1,
+  n6yun, `ZoIzpyyS9xw`, 2013-03-09):** four panelists independently converged
+  on the same rule for targeting big calico. Capt. Benny Florentino
+  (`benny-florentino`, registered — single mention of this specific claim,
+  medium confidence) drew the line explicitly: **"trophy" bass are 7–10 lb**;
+  a 1–4 lb fish comes easily on 4–5.5 in baits, but stepping up to **8–10 in**
+  baits is what's actually required to target the 7 lb+ class. Corey Sandon
+  (MC Swimbaits, unregistered — medium): *"the bigger the lure, the bigger the
+  fish... you're probably going to get fewer bites but they're going to be
+  bigger."* Kept side by side with, not a replacement for, the general
+  bait-sizing guidance in [swimbaits](../techniques/swimbaits.md) and [soft
+  plastic swimbaits](../lures/soft-plastic-swimbaits.md).
+- **"Time on the water" over conditions-chasing (Jimmy Decker, Decker's Guide
+  Service, unregistered — medium confidence; same n6yun panel,
+  `ZoIzpyyS9xw`):** asked how to catch a big calico, Decker's answer was
+  blunt — *"throw a big bait, spend a lot of time on the water... forget what
+  they tell you about the tide, the moon, the wind, just get on a boat and
+  get your bait in the water, because you can't catch them sitting on the
+  couch."* This is a volume-of-effort philosophy, not a claim that tide/moon
+  timing doesn't matter — kept side by side with, not a contradiction of, the
+  dawn/dusk, full-moon, and current-read doctrine logged above.
 - **Parallel-current exception (kept side by side):** late fall at San Clemente
   Island the bass wanted **off-color water with current running *into* the
   island** — fish used the dirt to ambush against the structure (11/23/22).

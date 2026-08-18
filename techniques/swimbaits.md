@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -31,6 +31,36 @@ retrieve, and the boat work.
   halibut, small sea bass) in surf grass and junk that would foul a
   non-weedless rig (n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium
   confidence).
+
+## Why plastic over live bait (Jimmy Decker, Decker's Guide Service)
+
+Jimmy Decker (n6yun panel, part 1, `ZoIzpyyS9xw`, 2013-03-09; unregistered —
+medium confidence) runs an almost entirely bait-free charter boat and states
+the reasons on camera, not just the preference:
+
+- **The stated trick is fooling a predator into biting something not
+  alive** — "there's a place for live bait fishing, and that's on the party
+  boat," but for his own clients he leans on plastics because he believes he
+  can **out-fish a bait angler standing right next to him** with a swimbait
+  rod when the fish are on the bite.
+- **A piece of bait pinned onto a swimbait hook kills the bait's action** —
+  the stated mechanical reason to leave the hook bare rather than "tip" a
+  plastic with cut squid or sardine.
+- **Practical/cleanliness reasons, stated alongside the fishing reason:** live
+  bait on the boat means squid smell that attracts flies and sardine scales
+  that end up everywhere his clients touch. He carries **no bait**, except
+  when running a father-son or grandfather-grandson trip with young kids
+  (roughly 6–9 years old) — for that trip only, he'll anchor on the leading
+  edge of a kelp bed, break out spinning rods, and fish anchovies to keep the
+  action steady for beginners.
+
+**Observed** (n6yun panel, 2013-03-09, unnamed SoCal island — speaker "Jack,"
+surname uncertain in ASR, flagged `asr-uncertain`): a contrasting account, kept
+side by side rather than reconciled — a client kept re-pinning cut squid
+despite Jack's preference against it, and the boat drew a heavy bite on it at
+that spot that day. No stated reason beyond "it worked there" — an
+observation, not a competing doctrine, and not generalized past that one
+session.
 
 ## Weedless rigging (Erik Landesfeind)
 
@@ -246,6 +276,25 @@ including in cold water.
   temperature of **64°F** — offered on camera as evidence the presentation
   is not a warm-water-only pattern.
 
+## Working the beach-side kelp edge (Jack, n6yun panel)
+
+A distinct casting angle for working a kelp bed that sits close to a beach,
+described by "Jack" on the same Fred Hall Show panel as the reverse-Sammy
+retrieve above (n6yun, part 1, `ZoIzpyyS9xw`, 2013-03-09; unregistered,
+surname uncertain in the ASR — `asr-uncertain` — medium confidence). Stated
+as his preferred conditions: fishing **tight to the island**, where he can
+**cast over the top of the kelp toward the beach**, then swim the bait from
+the beach side back **over the canopy**, lifting the rod tip to walk it
+across the top. He reports **watching bass sitting in the kelp** as the bait
+crosses, and getting bit **the instant the bait drops off the outer edge and
+starts to sink** — the same up-current/leading-edge take-zone this note
+documents elsewhere, approached from the opposite (beach) side of the bed
+rather than casting from open water toward the edge. He runs **50 lb** line
+for this presentation (down from 65 lb, after finding 50 lb still casts well
+and doesn't hang up as easily) fishing a weedless bait based on a "warhead"
+head — with the wire weed guard removed by hand ("I take the wing guard off,
+but the way they got the eye on it, they will [still run clean]").
+
 ## Flipping the kelp canopy (Observed, Aaron Martens & Benny Florentino)
 
 **Observed** (StokedOnFishing, San Clemente Island, December 2013 —
@@ -312,6 +361,36 @@ through the spot** instead of running the trolling motor the whole way,
 matter more over **hard rock bottom**, which "echoes," than over **sand**,
 where "you get away with a little better." Unregistered channel — medium
 confidence.
+
+## Scent (Corey Sandon, MC Swimbaits) and keeping your hands scent-neutral (Jack)
+
+n6yun panel, part 1, `ZoIzpyyS9xw`, 2013-03-09; both unregistered — medium
+confidence.
+
+- **When to reach for scent:** Corey Sandon says scent earns its keep
+  specifically on **bottom-oriented creature-style baits** when the bite is
+  tough — the stated mechanism is that scent makes a fish **hold on to the
+  bait a split second longer**, buying the time to get a hookset. He
+  considers it **less necessary on reaction baits** — surface/weedless
+  presentations and swimbaits worked with full-force strikes don't need the
+  extra hold time. Framed explicitly as a **confidence tool** — "if it gives
+  you confidence, why not use it, it couldn't hurt."
+- **Named local scent brands:** Ron Mueller / Edge Products hot sauce, and
+  Tommy Gomes' Uni Butter (San Diego) — called out as two that don't smell
+  "god awful" on the bait and don't draw wasps/flying insects the way some
+  other scents do.
+- **Application:** squeeze scent directly onto the bait, or **drop the bait
+  into a sealed baggie or Tupperware container** with scent already in it,
+  then reseal between casts — Corey describes mixing his own batch of "uni
+  sauce" (Uni Butter + hot sauce) this way.
+- **Deck hazard:** hot sauce scent spilled or dripped on a fiberglass deck or
+  rail is described as **very slick** — a stated safety/mess concern, not
+  just a cleanliness one.
+- **The flip side — dirty hands are a scent detractor (Jack):** gas, oil, and
+  dirty boat-line residue on an angler's hands, transferred onto a bait or
+  lure, is stated to **shut the fish off fast**. Jack's stated fix: carry a
+  bar of soap or a squirt bottle and **wash hands before starting to fish**,
+  every time.
 
 ## Double swimbait rig (Nick, California Current)
 

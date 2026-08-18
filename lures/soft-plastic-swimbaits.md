@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -86,6 +86,35 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   as maybe a color-pattern day, "you never know." A fourth independent
   color data point, kept beside rather than reconciled with the "color
   matters little" framing above. Unregistered channel — medium confidence.
+- **Confidence-color doctrine and a stated light-condition rule (n6yun
+  panel, part 1, `ZoIzpyyS9xw`, 2013-03-09; all unregistered except
+  Florentino — see per-bullet confidence):** four panelists were asked
+  whether calico bass have a favorite color; the consensus answer was that
+  the "best" color is really **whichever color the angler has confidence
+  in** — a negative or hesitant angler fishing a bait he doesn't believe in
+  doesn't get bit as often. Named confidence colors, kept side by side as
+  distinct personal picks rather than reconciled into one:
+  - **Capt. Benny Florentino** (`benny-florentino` registered — single
+    mention of this specific pick, medium confidence): a **5.5 in Big
+    Hammer #20 "Toast" ("Burnt Toast")** — golden-brown back, orange belly —
+    which he says he has fished and taught at seminars for years.
+  - **Jimmy Decker** (unregistered — medium): confidence bait is a **7 in
+    Jerk Shad**; color matters less to him than to the others — he fishes
+    both **"Nuclear Chicken"** (a bright, non-naturalistic pattern) and
+    **"Camo"** (brown) depending on what he believes will get bit that day.
+  - **Jack** (unregistered, surname uncertain — `asr-uncertain` — medium):
+    strong preference for **brown** baits, occasionally a **sardine
+    pattern**.
+  - **Corey Sandon (MC Swimbaits)**, unregistered — medium — gives the one
+    *stated reason* in the exchange, making this doctrine-grade rather than
+    a confidence anecdote: **"the brighter the sun, the brighter the
+    lure... the darker the day, the darker the lure."** On bright days he
+    reaches for a bright, "smelt-y" color such as **blue grunion**, or a
+    bright **goldy-brown**; on darker days he goes darker. Framed as drawing
+    a **visual reactionary bite** rather than matching a specific
+    baitfish — "you're drawing a reaction, and that's all it is, really."
+    Kept side by side with, not a replacement for, the "color matters
+    little" / hot-koch framing already in this note.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 - **Kicker "booty spin" on a War Baits neck-breaker head** (Lane, Time On The

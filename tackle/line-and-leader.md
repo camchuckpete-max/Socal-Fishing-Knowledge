@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw]
 confidence: medium
 ---
 
@@ -99,6 +99,104 @@ actually want to know:
   [rod & reel selection](rod-and-reel-selection.md) (Steve Carson, Penn) and
   in [slow-pitch jigging](../techniques/slow-pitch-jigging.md#fighting--landing-light-tackle)
   (Benny Ortiz).
+
+### "Line-class rod rating" is obsolete on modern braid gear (n6yun panel)
+
+Cross-panel doctrine from a Fred Hall Show calico bass panel (n6yun, part 1,
+`ZoIzpyyS9xw`, 2013-03-09; all voices unregistered — medium confidence):
+with modern high-strength braid, the printed line-class number on a rod
+("8–16," "20–30") has stopped meaning anything useful.
+
+- **Jimmy Decker (Decker's Guide Service):** when his own signature rod line
+  was being spec'd, he asked the manufacturer to print **"unlimited"** rather
+  than a line-class number — *"that line rating on the rods [is] pretty much
+  a thing of the past."* What actually matters is **how heavy a bait/head the
+  rod tip can load and cast**, not a breaking-strength suggestion — "any rod
+  can handle [it]... you can't break a rod unless you high-stick it." He
+  described leaning back on a rod tied straight to 65 lb braid with the drag
+  locked down completely without breaking the blank.
+- **Corey Sandon (MC Swimbaits)** makes the same point from the line side: he
+  casts a **7 ft rod rated 12–20 lb mono**, but spools it with **50–65 lb
+  braid** — the printed mono rating and the braid actually on the reel are
+  two different numbers, because "braid... really been around for 14, 15
+  years [and] become very popular in the last eight years" (i.e., roughly
+  since 2005 as of this 2013 talk) — printed rod ratings, in his view, "have
+  yet to catch up to what we're doing."
+- **Practical takeaway:** size the rod to the lure weight you're casting (see
+  [gear classes](gear-classes.md)), not to a line-class number printed on the
+  blank — the number no longer constrains what braid you actually run.
+
+### Why heavier braid than the fish requires — spool mechanics, not fish strength
+
+Corey Sandon, MC Swimbaits, n6yun panel, `ZoIzpyyS9xw`, 2013-03-09;
+unregistered — medium confidence. Even where you could land the fish on 30 lb straight through, panelists
+fishing **big baits** (8–10 in swimbaits) run **50–60 lb+ braid** for a
+mechanical reason that has nothing to do with breaking strength:
+
+- **Thin braid digs into itself on the spool** under the load of casting and
+  fighting a fish with a big bait — a 30 lb-diameter braid packed tight will
+  cut down into the layers beneath it, and the next cast the buried loop
+  catches, killing the cast or parting the line. Bumping the spool to 50–60
+  lb (bigger diameter, same or lower actual breaking-strength headroom
+  needed) keeps the wraps from digging in — "it just makes it clean."
+- **A related, more dangerous failure mode:** after fighting and landing a
+  fish on zero-stretch spectra, if you don't **peel line back off the reel to
+  where you originally set the hook** before making the next cast, the
+  tension from the fight can have **cut a groove down through the spool**.
+  The next cast runs out fine until it hits that groove, where the line
+  "just stops" — an abrupt stop bad enough that the panelist's stated
+  advice at that point was "throw the reel away, you'll never get the
+  backlash out." The fix stated on camera: **strip line back out to
+  where you set the hook** (not just re-spool loosely) before the next cast
+  on any fish that pulled hard against a locked or heavy drag.
+
+### Trophy calico bass tackle (n6yun, Fred Hall panel, 2013-03-09)
+
+Three panelists' own rundowns for **targeting trophy (7–10 lb+) calico
+specifically** (n6yun, part 1, `ZoIzpyyS9xw`; all unregistered except
+Florentino — see per-bullet confidence), kept side by side rather than
+merged into one spec, and set against the bait-size doctrine in
+[calico bass](../species/calico-bass.md#doctrine--conflicts):
+
+- **Capt. Benny Florentino** (`benny-florentino` registered — single mention
+  of these specific numbers, medium confidence): a rod **rated 15–30 lb
+  monofilament**, spooled with **65–80 lb PowerPro**, tied **straight to the
+  swimbait** (no leader) for a 5.5 in Big Hammer; for **weedless** baits, 80
+  lb braid to a **60 lb leader**. Reel: a Shimano **Calcutta D400**, on an
+  "extra heavy" rod.
+- **Jimmy Decker:** runs lighter than the other panelists — **40 lb braid**
+  straight-tied on inshore/small-reel setups, stepping to **50 or 65 lb** on
+  heavier setups. Prefers a rod with a **softer tip** to make up for braid's
+  lack of stretch, giving the fish a beat longer to take the bait before the
+  hookset.
+- **Corey Sandon:** minimum **50 lb braid**, up to **80 lb**, with **short
+  top-shot leaders of 50, 60, or 80 lb fluorocarbon** matched to the braid
+  class.
+- **Minimum line for a casual/family angler, and the real variable behind
+  landing odds:** answering an audience question about a reasonable minimum
+  (the questioner fishes 20–30 lb with kids aboard), Florentino said **30 lb
+  is fine** as a floor, but the odds of **losing** a big fish on 30 lb climb
+  on an outside kelp edge (e.g., Palos Verdes) versus fishing inside the kelp,
+  because of abrasion. He was explicit, though, that line class is not the
+  dominant variable: his own **biggest local calico bass came on 20 lb Spider
+  Wire Ultracast to a short 20 lb leader**, straight-tied, no wire. **What
+  actually decides it is where the fish gets hooked relative to structure** —
+  a fish hooked in open water over soft bottom (e.g., eelgrass, 15 ft) gives
+  you a real fight; a fish hooked in 3 ft of water over surging rock only has
+  to cover the short distance it takes to fully load the rod before it
+  reaches structure and cuts you off, regardless of line strength. "A lot of
+  it has to do with where you hook them... how stupid is the fish that you
+  catch."
+- **Leader-check discipline after a big fish (Jack, n6yun panel,
+  unregistered — surname uncertain in ASR, flagged `asr-uncertain` — medium
+  confidence):** calico bass teeth can abrade even 40 lb leader down to
+  almost nothing in the last **6–8 in above the hook** — described as
+  looking like it had been cut with a knife. Rule: **run your fingers over
+  the leader and check for nicks after landing any decent fish (3–5 lb+),
+  and re-tie if there's any doubt**, regardless of whether you're fishing 40
+  or 60 lb. Jack starts a session with a **4 ft leader on the [MC/Big Hammer]
+  swimbait** and trims/re-ties it down over roughly two hours of fishing as
+  it gets nicked.
 
 ### Braid construction — hollow vs solid, smooth vs rough
 
@@ -338,6 +436,7 @@ able to break off** (aXF0bxAFtU0):
 
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

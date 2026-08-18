@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [riprap, jetty, breakwall, structure, current, birds]
-sources: [bydQzE3F9yM, jTXIr9O6zYk, RUuPNpK0x-s, XyKF34C5iB4]
+sources: [bydQzE3F9yM, jTXIr9O6zYk, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw]
 confidence: high
 regions: [socal-bight]
 waters: [nearshore-coast, bay-harbor]
@@ -112,6 +112,18 @@ also called out as holding fish and producing bites after dark, not just the
 bare rock (n6yun
 panel, `RUuPNpK0x-s`, unregistered channel — medium confidence; no specific
 wall or region named beyond "that breakwater").
+
+**Wall identified, part 1 of the same panel session (n6yun, `ZoIzpyyS9xw`,
+2013-03-09; unregistered, surname uncertain — `asr-uncertain` — medium
+confidence):** the panelist ("Jack") who describes fishing this wall a lot
+at night names it specifically as the **federal breakwater** — read together
+with the "any wall can hold fish" entry below, this is presumably the same
+Long Beach federal breakwater named there, though the two mentions are not
+explicitly cross-referenced on camera. For that night bite he runs a
+**5.5 in** bait — roughly **half the size** of a bigger bait he names in the
+same breath (brand name garbled in the ASR — not confidently resolved, so
+not asserted here) — calling the smaller size the one that "really works
+great" on the federal breakwater at night.
 
 ## Any wall can hold fish — "fish where they live"
 
