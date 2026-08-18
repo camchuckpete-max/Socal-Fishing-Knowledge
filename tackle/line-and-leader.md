@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk]
 confidence: medium
 ---
 
@@ -200,24 +200,13 @@ merged into one spec, and set against the bait-size doctrine in
 
 ### Braid construction — hollow vs solid, smooth vs rough
 
-- **Hollow-core** braid (e.g. 16-strand types) is smooth — it almost feels like
-  fluoro — and lets you **insert a fluoro leader and cinch it for a knotless
-  connection** (see [wind-on leader](../rigging/wind-on-leader.md) and the
-  hollow-splice work). It is also strong as an everyday line (TactX/Threadlock
-  comparison, YrvQZojc1q0). *Brand superiority claims in that video are sponsored
-  — treat them as low confidence; the smooth-vs-rough distinction is the durable
-  part.*
-- **Solid / low-carrier (e.g. 4-strand)** braid has a rough, "pebble" tooth. That
-  tooth is a feature in the kelp: it **saws through stringers** with a seesaw
-  motion when a [calico](../species/calico-bass.md),
-  [yellowtail](../species/yellowtail.md) or
-  [white seabass](../species/white-seabass.md) buries you, where a smooth braid
-  just slides and won't cut. Landesfeind fishes a **rough, high-tooth braid near
-  kelp** and likes the "rubber sound" in the guides on
-  [surface iron](../techniques/surface-iron.md) and tuna poppers; a **smooth,
-  round, easy-handling braid** for open-water squid-grounds fishing where nothing
-  abrades — it doesn't tear up your thumb on the cast. Do **not** put hollow braid
-  on an inshore baitcaster.
+Hollow-core and solid (low-carrier) spectra differ in rigging/splicing
+options, typical line-class pairing, diameter/bait-swim feel, and kelp-cutting
+tooth — detail spun out to
+[hollow vs solid spectra](spectra-hollow-vs-solid.md), including the
+splice-as-maintenance practice (periodically re-splicing the top ~100 yd of a
+hollow-core reel) and the smooth-vs-rough kelp-cutting axis (Landesfeind: rough
+braid near kelp, smooth braid on open-water squid grounds).
 
 ## When mono top shot
 
@@ -483,6 +472,7 @@ able to break off** (aXF0bxAFtU0):
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)

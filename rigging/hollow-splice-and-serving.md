@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [hollow-core, splice, serving, top-shot, knotless, leader]
-sources: [_w8KNSgGPVE, yr6z3DmWY4s]
+sources: [_w8KNSgGPVE, yr6z3DmWY4s, 46wHgdTJWIM]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -25,6 +25,13 @@ the foundation under a built [wind-on leader](wind-on-leader.md).
   a new top shot to hollow-core braid so the join disappears into the line and
   saves you re-spooling an expensive full reel. This is prep-bench work, not
   something to attempt on a pitching deck.
+- **Hollow-to-hollow splice as scheduled maintenance, not just recovery**
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 102," `46wHgdTJWIM`,
+  2020-06-04; unregistered channel/speaker — medium confidence): the same
+  splice technique also gets used proactively, with no tangle or break-off
+  involved — periodically, as upkeep. See
+  [hollow vs solid spectra](../tackle/spectra-hollow-vs-solid.md#hollow-core--rigging-and-spliceability)
+  for the specifics of that maintenance interval and why it helps.
 - **Served fluoro leader** — stealth bait fishing where a leader knot would show,
   e.g. Guadalupe Island; dedicate rods (a 50 lb, a 60 lb, an 80 lb) each with its
   fluoro already served in and ready to fish, so there's no on-the-water retie.
@@ -62,5 +69,5 @@ and [serve a fluorocarbon leader into hollow core](https://www.youtube.com/watch
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 <!-- backlinks:end -->

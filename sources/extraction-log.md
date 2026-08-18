@@ -2033,7 +2033,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 3gNTB4aMhCA | SearcherSportfishing | tutorial | deep | done | done: species/yellowtail.md; tackle/rod-and-reel-selection.md — Okuma PCH 7'6" long-range yellowtail setup, medium confidence, kept side-by-side with existing bracket |
 | 3gykKyPdOvA | SearcherSportfishing | tutorial | deep | done | done: rigging/essential-knots.md; techniques/dropper-loop.md — surgeon's-knot dropper-loop corroboration + double-dropper build variant, trimmed cross-note duplication |
 | 3zXcrGsIL-c | SearcherSportfishing | tutorial | deep | done | done: rigging/crimping.md (new note); rigging/bite-leaders.md; rigging/haywire-twist.md; rigging/README.md — crimping mechanic split from bite-leaders sizing table, fixed unstated-material claim and misread two-presses-per-sleeve step |
-| 46wHgdTJWIM | SearcherSportfishing | tutorial | deep | pending |  |
+| 46wHgdTJWIM | SearcherSportfishing | tutorial | deep | done | tackle/spectra-hollow-vs-solid.md (new); rigging/hollow-splice-and-serving.md; tackle/line-and-leader.md — spun out hollow-vs-solid spectra note, cross-linked maintenance splice, trimmed post-review duplication |
 | 4PY5H_YPJxY | SearcherSportfishing | tutorial | deep | pending |  |
 | 5472APCgym8 | SearcherSportfishing | tutorial | deep | pending |  |
 | 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | pending |  |

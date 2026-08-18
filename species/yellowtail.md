@@ -1413,6 +1413,7 @@ water temp and bait depth before committing the day to one face.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)

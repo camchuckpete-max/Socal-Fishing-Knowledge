@@ -540,6 +540,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](glide-baits.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [May](../seasonal/may.md)
