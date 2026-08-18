@@ -12,6 +12,7 @@
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md) — Execution for landing a hooked big bluefin (100–300 lb class) once it's on: the boat, not the angler's arms, does the work of bringing the fish in.
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
+- [Glide Baits](glide-baits.md) **[SoCal only]** — Execution for large, hard-bodied, jointed glide baits (marketed in SoCal as "Hookup Baits") fished from a private boat, party boat, or bay bank for calico and s
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
@@ -44,63 +45,66 @@ graph LR
   n5["Fighting a Big Bluefin — Boat-Handling to the Gaff"]
   n6["Flyline"]
   n7["Foamer Casting"]
-  n8["Hoop Netting"]
-  n9["Inshore Crankbaits"]
-  n10["Kite Fishing"]
-  n11["Knife / Speed Jigging"]
-  n12["Ned Rig"]
-  n13["Rockfish Deep-Dropping"]
-  n14["Sliding Sinker"]
-  n15["Slow-Pitch Jigging (SPJ)"]
-  n16["Slow-Trolling Live Bait"]
-  n17["Speed Trolling"]
-  n18["Surface Iron — The Cast"]
-  n19["Surface Iron — Colour"]
-  n20["Surface Iron"]
-  n21["Swimbaits"]
-  n22["Trolling"]
-  n23["Yo-Yo Iron"]
-  n0 --> n22
-  n10 --> n17
-  n10 --> n5
-  n11 --> n15
-  n13 --> n14
-  n13 --> n15
-  n13 --> n4
-  n14 --> n20
+  n8["Glide Baits"]
+  n9["Hoop Netting"]
+  n10["Inshore Crankbaits"]
+  n11["Kite Fishing"]
+  n12["Knife / Speed Jigging"]
+  n13["Ned Rig"]
+  n14["Rockfish Deep-Dropping"]
+  n15["Sliding Sinker"]
+  n16["Slow-Pitch Jigging (SPJ)"]
+  n17["Slow-Trolling Live Bait"]
+  n18["Speed Trolling"]
+  n19["Surface Iron — The Cast"]
+  n20["Surface Iron — Colour"]
+  n21["Surface Iron"]
+  n22["Swimbaits"]
+  n23["Trolling"]
+  n24["Yo-Yo Iron"]
+  n0 --> n23
+  n11 --> n18
+  n11 --> n5
+  n12 --> n16
+  n14 --> n15
+  n14 --> n16
   n14 --> n4
-  n15 --> n11
+  n15 --> n21
   n15 --> n4
-  n16 --> n17
-  n16 --> n22
+  n16 --> n12
   n16 --> n4
-  n16 --> n6
-  n17 --> n10
-  n17 --> n22
-  n18 --> n20
-  n19 --> n20
-  n19 --> n23
-  n20 --> n11
-  n20 --> n18
-  n20 --> n19
-  n20 --> n23
-  n20 --> n7
-  n21 --> n1
-  n21 --> n23
-  n22 --> n0
+  n17 --> n18
+  n17 --> n23
+  n17 --> n4
+  n17 --> n6
+  n18 --> n11
+  n18 --> n23
+  n19 --> n21
+  n20 --> n21
+  n20 --> n24
+  n21 --> n12
+  n21 --> n19
+  n21 --> n20
+  n21 --> n24
+  n21 --> n7
   n22 --> n1
-  n22 --> n16
-  n22 --> n17
-  n22 --> n20
-  n22 --> n23
-  n22 --> n5
-  n22 --> n6
-  n23 --> n20
-  n4 --> n13
+  n22 --> n24
+  n23 --> n0
+  n23 --> n1
+  n23 --> n17
+  n23 --> n18
+  n23 --> n21
+  n23 --> n24
+  n23 --> n5
+  n23 --> n6
+  n24 --> n21
   n4 --> n14
-  n4 --> n23
-  n5 --> n10
-  n6 --> n11
-  n6 --> n14
+  n4 --> n15
+  n4 --> n24
+  n5 --> n11
+  n6 --> n12
+  n6 --> n15
+  n8 --> n22
+  n8 --> n24
 ```
 <!-- mermaid:end -->

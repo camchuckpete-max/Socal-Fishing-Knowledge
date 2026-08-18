@@ -100,6 +100,7 @@ does the lookup.
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Glide Baits](../techniques/glide-baits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)

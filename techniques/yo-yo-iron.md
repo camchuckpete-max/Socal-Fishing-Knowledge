@@ -409,6 +409,7 @@ the reverse map in **Linked from** below.
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dropper Loop](dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Glide Baits](glide-baits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

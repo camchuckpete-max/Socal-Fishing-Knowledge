@@ -84,6 +84,7 @@ rocks.
 | Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down |
 | Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | The all-winter deep-structure staple; crank execution in the technique note |
 | Weedy/kelpy structure | **Weedless plastic** (e.g. War Baits neck-breaker) | bass class | Hides the hook, better penetration around the grass |
+| Deep structure/rock, want to A/B two colors or fish two depths at once | **Double-bait glide-bait dropper rig** ([glide baits](../techniques/glide-baits.md)) | heavy glide-bait class, 40 lb+ | Two matched-weight glide baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors on a 3-way swivel, ≥3 in leader-length offset to stop them tangling; ⚠ single promotional seminar source, low confidence |
 
 ## Gear summary (class terms)
 
