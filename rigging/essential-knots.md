@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -59,6 +59,29 @@ fluoro leader, braid main line — and feed the terminal rigs in
     saltwater books show 3): **4 turns for 20–100 lb test, 5 turns under
     20 lb**. Kept side by side with the Seaguar knot as a second attributed
     technique for the same connection, not reconciled with it.
+  - **Earlier, independent mono-to-fluoro corroboration with a 3-turn count
+    (SearcherSportfishing, Tackle Tip Thursday Vol. 83, `5g7pK63hYnc`,
+    2020-01-16; unregistered channel — medium confidence):** predates the
+    Steve Carson entry above by nearly four years — the earliest data point
+    in this note for the surgeon's knot used as a leader-to-main-line
+    connection rather than a dropper-loop loop. Build a **36–40 in
+    fluorocarbon leader**, sized in breaking strength to match the main
+    line/mono it's tied to (demonstrated on **60 lb fluorocarbon**); leave
+    about **12 in** of tag on each side of the two lines before tying so
+    there's enough slack to work the knot. Tie the surgeon's knot as a
+    simple overhand passed through **three times** ("once, twice, three
+    times"), wet it so it cinches down, pull both standing lines tight, then
+    trim the excess tags. **Turn-count flag — genuine conflict, kept side by
+    side:** this source ties **3 turns on 60 lb fluorocarbon**, which falls
+    inside Steve Carson's stated 20–100 lb bracket where his rule calls for
+    **4 turns** — a direct line-class-matched contradiction with Carson's
+    rule above, not merely an echo of the generic "most saltwater books show
+    3" baseline Carson contrasts his own rule against. Recorded here
+    attributed and unreconciled, per the doctrine-conflict convention — not
+    resolved in either direction. **Application named on camera:** tie an
+    Owner hook onto the working end of the finished leader for a flylined
+    sardine bait, fished for bluefin or yellowfin tuna — see
+    [flyline](../techniques/flyline.md) for the broader flylining technique.
   - **Scaled up for giant yellowtail on long-range trips:** the same
     doubled-overhand family, tied heavier (80–100 lb) and much larger
     (about a 2 ft finished loop) as a general terminal-tackle attachment
@@ -495,7 +518,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
-and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc).
+[mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc),
+and [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc).
 
 <!-- backlinks:start -->
 ## Linked from

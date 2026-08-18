@@ -2039,7 +2039,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md — amended with three new sourced sections (decision trigger, two rubber-band builds, drop-shot/brawler rig build) from Steve Carson/SearcherSportfishing |
 | 5IN1wsOFR-k | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md — amended with winter lay-up section (corrosion spray + gear grease) from Tackle Tip Thursday Vol. 27; fixed one hardened-ASR claim before applying |
 | 5J7a6UwTA90 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md: added double jam knot naming + live-bait-vs-lure rule + wrap-count corroboration to San Diego jam entry |
-| 5g7pK63hYnc | SearcherSportfishing | tutorial | deep | pending |  |
+| 5g7pK63hYnc | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md: added SearcherSportfishing surgeon's-knot mono-to-fluoro entry (36-40in/60lb/12in-tag/3-turn) with flyline-to-tuna application, corrected turn-count conflict framing vs Carson entry |
 | 5pbA-wXoric | SearcherSportfishing | tutorial | deep | pending |  |
 | 5ppQob4N3Xw | SearcherSportfishing | tutorial | deep | pending |  |
 | 6D_mf5gOfrM | SearcherSportfishing | tutorial | deep | pending |  |
