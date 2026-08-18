@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -99,6 +99,20 @@ small-lead-bait style, these older-style heavy jigs are **versatile across the
 whole column** — fishable on top burning across the surface, at a 45° angle,
 a 90° angle, or straight up and down like a yo-yo (drop and full-speed crank)
 — despite being a "heavy" jig.
+
+**Finicky daytime bluefin — chrome heavy jig, no blue needed (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 221," `-QnMvV4j_oM`, 2023-05-25; unregistered channel,
+single mention — medium confidence):** for **finicky bluefin biting during the
+daytime**, reach for a **Salas 6X Jr.** or a **Tady 4/0**-size jig finished
+**all chrome** — it doesn't need blue on it — corroborating, from a second,
+independent channel, the **Tady 4/0** pick already logged above (previously
+carried there only as the ASR-uncertain "doua"). Stated reasoning: this jig
+**doesn't sink as fast as a regular tuna jig, but sinks with a lot of
+flash**, and "sometimes that's just the motion that they want" — flash-on-
+the-fall as the trigger for picky daytime fish, not straight sink speed.
+Rigged with a **big, heavy single hook**. Framed on camera as a lure that
+had worked well "last season and the season before" the 2023-05-25 upload —
+resolved to **2021 and 2022**, no relative time carried.
 
 **Baja, Sea of Cortez cabrilla yo-yo lineup (Cesar, via Dirty Hookers,
 EmZO8QiOfik, 2025-03-04; registered voice, mechanism/parameter — single

@@ -2012,7 +2012,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | -62xDo4UQzo | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; techniques/wahoo-bomb-casting.md; rigging/haywire-twist.md; species/yellowfin-tuna.md; techniques/trolling.md / new wahoo species router + cast-and-burn technique note created from this video, existing wahoo-bycatch mentions in yellowfin-tuna.md/trolling.md re-linked to it, haywire-twist.md gained a wahoo casting-leader spec with an unreconciled twist-vs-crimp data point |
 | -BO1lMCTamg | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md / Added Albright wrap-variant (spaced-then-overlap, 9 wraps) as an attributed bullet + tie-it link on the existing FG/Albright rig note; no new note needed |
 | -OJ1FED7mxI | SearcherSportfishing | tutorial | deep | done | techniques/two-speed-low-gear-fight.md / deep-extracted the 6:1/3:1 two-speed gear-ratio mechanism into the existing low-gear-fight technique note (no prior note stated the raw ratio mechanic); fixed one unsupported "(or lever)" addition |
-| -QnMvV4j_oM | SearcherSportfishing | tutorial | deep | pending |  |
+| -QnMvV4j_oM | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / Added a medium-confidence "finicky daytime bluefin" chrome-jig entry (Salas 6X Jr. / Tady 4/0) to lures/iron-jigs.md, corroborating the existing ASR-uncertain "doua"->Tady 4/0 entry; link-maintenance.py clean (0 dead links). |
 | -hY20bxz3oM | SearcherSportfishing | tutorial | deep | pending |  |
 | 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | pending |  |
 | 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | pending |  |
