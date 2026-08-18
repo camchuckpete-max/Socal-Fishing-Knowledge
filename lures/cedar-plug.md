@@ -76,5 +76,6 @@ holder pairing, are in
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

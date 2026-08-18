@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -48,6 +48,31 @@ Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md).
   a short hand-fought finish). Going to neutral was also driven by keeping
   the line clear of the props, with the captain watching the fish and
   turning the boat as needed rather than on a fixed cue.
+
+## Small-boat (20–30 ft) variant — circle instead of switching sides
+
+**Observed/attributed** (Capt. Dave Hansen, Your Saltwater Guide, live
+seminar, 2024 PCS Show, `Q196GVwVqro`, 2024-03-07; dave-hansen registered
+voice, but a subscription-site-pitch/trade-show sponsor-booth context — `low`
+confidence per the [source registry](../sources/source-registry.md)): coaching
+given specifically for guests without a big sportboat — his stated example is
+the common **20–30 ft** private boat he goes out on as a guide. The
+boat-driven idea is the same as the gear-tap above, but the steering pattern
+he coaches is different from switching the rod port-to-starboard as the fish
+crosses the stern:
+
+- **Leave the rod in the holder** the whole time rather than pulling it and
+  swapping sides as the fish moves around the transom (a move he frames as
+  necessary on this boat size only because of how an outdrive pushes water).
+- Instead, turn the wheel a little and walk the boat in **big, gentle
+  circles** — explicitly **not** tight "spinning like a donut" turns — to
+  bring the fish around rather than chasing it side to side.
+- Keep the fish pinned on the **same side of the boat** the whole time, from
+  amidships back to the stern.
+- **Drive forward only, never in reverse**, holding the boat at roughly a
+  **45° angle** to the fish with the rod staying outside the stern in its
+  holder. Framed on camera as removing any reason to ever take the rod out of
+  the holder, even as the fish works its way around a smaller boat.
 
 ## Kite hookup — close the slack fast, then kill the props
 

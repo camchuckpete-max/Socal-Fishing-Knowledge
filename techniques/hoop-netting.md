@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging, prop-safety]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY, Ow3an9lSVh4, AH4Eiya1Hn0]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY, Ow3an9lSVh4, AH4Eiya1Hn0, Q196GVwVqro]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast, island]
@@ -284,6 +284,19 @@ the earlier one.
   even briefly reverses that drag, and lobsters caught loosely can spill or
   climb out during the lull. Doesn't need to be fast (no need to gas yourself
   out) — just unbroken.
+
+**Observed — a possible U.S.-record lobster lost to stopping mid-pull**
+(Justin Botril, B-Line Sport Fishing, Long Beach Harbor, live hoop-netting
+stream recapped at Your Saltwater Guide's 2024 PCS Show seminar, `Q196GVwVqro`,
+2024-03-07; unregistered speaker/channel — medium confidence): recounted on
+camera as a lobster "hovering over the side" of the boat mid-retrieval,
+already too big to pass through the ring of a **36 in hoop net** — by the time
+it was visible, the whole net appeared "filled with whiskers." A crew member
+stopped pulling and reached down to grab it by hand instead of continuing the
+pull; the lobster slipped free and was lost over the rail, framed on camera as
+a possible U.S.-record loss. The rule drawn from the same telling matches
+Scotty's retrieval doctrine above verbatim: **"don't ever stop pulling the
+rope... only stop when it's in the boat."**
 
 ### Boat approach and prop safety (dave-hansen, Your Saltwater Guide, cEscIy278ew, 2020-11-13)
 

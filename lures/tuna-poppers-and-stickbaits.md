@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -195,6 +195,31 @@ Sniper metal) run **60 g up to 80–100 g**, sized to what the bait wants
 a deeper presentation is wanted — a distinct technique from the straight
 burn-it-in retrieve. Stock trebles can be upgraded to single hooks if
 preferred.
+
+### Ahi USA Live Deception flash jig (cast, sink 3–5 sec, then a slow crank)
+**Capt. Dave Hansen, Your Saltwater Guide, live seminar, 2024 PCS Show,
+`Q196GVwVqro`, 2024-03-07; dave-hansen registered voice, but a subscription-
+site-pitch/trade-show sponsor-booth context — `low` confidence per the
+[source registry](../sources/source-registry.md), the same cap already
+applied to his other PCS Show entries.** Captions render the name "perception
+jig"/"live deception flash gig" (**asr-uncertain**, read here against the
+**Ahi USA "Live Deception"** product line, which also names Cameron's owned
+[cedar plug](cedar-plug.md) — this is a **different product** on the same
+line: a cast metal/flash jig, not the trolled cedar plug).
+
+- **Model:** a **4 oz** jig — he carries only the **"401"** size/model on his
+  boat, rigged in **sardine** and **anchovy** patterns.
+- **Retrieve — the opposite of a burn:** cast it out, then **let it sink for
+  about 3 to 5 seconds** before starting a **slow** crank back, explicitly not
+  reeled in as fast as possible. Framed on camera as a "secret" for bluefin
+  that were marked/visible around the boat but not committing to a faster
+  presentation ("they just wouldn't freaking fight"). His stated result:
+  **95–98% of hookups came on the very first cast** fished this way.
+- **Do not swap the hook.** The jig ships rigged with a specific hook and
+  ring; changing it after the fact changes the swim pattern. His stated
+  reasoning: on **80 lb+ line**, fighting pressure is expected to bend that
+  hook/ring assembly by design — treat that bend as normal wear, not a defect
+  to fix with a hook upgrade.
 
 ### Rapala X-Rap (long-cast stickbait)
 **Read from the captions as "Rapala X-Rap" — asr-uncertain, not fully
