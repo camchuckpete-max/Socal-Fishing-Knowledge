@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [riprap, jetty, breakwall, structure, current, birds]
-sources: [bydQzE3F9yM, jTXIr9O6zYk, RUuPNpK0x-s]
+sources: [bydQzE3F9yM, jTXIr9O6zYk, RUuPNpK0x-s, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight]
 waters: [nearshore-coast, bay-harbor]
@@ -112,6 +112,30 @@ also called out as holding fish and producing bites after dark, not just the
 bare rock (n6yun
 panel, `RUuPNpK0x-s`, unregistered channel — medium confidence; no specific
 wall or region named beyond "that breakwater").
+
+## Any wall can hold fish — "fish where they live"
+
+A panelist's stated philosophy for picking which wall to fish, given how
+many SoCal walls carry the informal reputation of "the wall" (Time On The
+Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+confidence): a large share of every wall on the SoCal coast **can** hold
+fish, because a wall is a self-contained rock/kelp ecosystem regardless of
+its reputation — "they're not all created equal," but a wall doesn't need a
+famous name to fish. Stated as advice specifically for anglers without boat
+access: **start with whatever break wall sits closest to you** (a kayak
+launch, a local beach) before chasing a named spot farther away. Walls
+explicitly named on camera, beyond the Long Beach ("federal") breakwater
+already logged above: the **Seal Beach wall**, the **Surfside wall**,
+**Marina del Rey**, the **Zuniga Jetty** (San Diego), and **Oceanside**.
+
+- **Network with divers for structure intel.** Because a wall's underwater
+  composition isn't visible from the surface, the panel's advice is to ask
+  scuba/freediving contacts who have actually been down on a given wall what
+  structure it holds — one panelist credits exactly this kind of tip from a
+  diver contact with pointing him toward walls that hold "really big"
+  calico bass he wouldn't otherwise have picked. Framed as one facet of a
+  broader "network" habit — trading spot intel with other anglers you
+  fish with rather than working every wall cold.
 
 
 <!-- backlinks:start -->

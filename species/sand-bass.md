@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8, LqW32NSkObY]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8, LqW32NSkObY, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [nearshore-coast, bay-harbor, bank]
@@ -41,7 +41,9 @@ rocks.
   even when rain washes out the shallow island zones. See
   [February–March](../seasonal/february-march.md).
 - **Moon:** clear full-moon nights suppress the daytime bite the same way they do
-  calico — bite early, dead mid-day ([moon](../conditions/moon.md)).
+  calico — bite early, dead mid-day ([moon](../conditions/moon.md)). Night-specific
+  color and lure choice — silhouette/craw colors, lit-structure targeting, heavier
+  leader for a trophy fish — is in [night bass fishing](../techniques/night-bass-fishing.md).
 - **Highly migratory — warm water pushes them out of the bight (Dave Hansen,
   Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; registered
   voice, single mention — medium confidence):** sand bass are a highly
@@ -118,6 +120,7 @@ rocks.
 | Deep structure/rock, want to A/B two colors or fish two depths at once | **Double-bait glide-bait dropper rig** ([glide baits](../techniques/glide-baits.md)) | heavy glide-bait class, 40 lb+ | Two matched-weight glide baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors on a 3-way swivel, ≥3 in leader-length offset to stop them tangling; a second HookUp Baits source runs same-size-paired baits for bass specifically (size matters less once you're targeting deeper rockfish) — see [glide baits](../techniques/glide-baits.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft); ⚠ two promotional seminars (same product line), low confidence |
 | Want to selectively upgrade average fish size (tournament limit-filling) | **Fish one oversized bait all day** — a 3 oz HookUp-style swimbait on 40 lb+ leader | Heavy glide-bait class, 40 lb+ | Deliberately trades bite count for size — "big bait, big fish" filters out anything under ~3 lb; see [glide baits](../techniques/glide-baits.md#rod-parabolic-bend-not-a-tip-only-bend) — ⚠ promotional seminar source, low confidence |
 | Fishing from a kayak/small craft near rock structure | Bait/bottom presentation off rock structure (e.g. a sardine near a rock pile) works from a kayak the same as a boat; see **[kayak bass fishing](../techniques/kayak-bass-fishing.md)** for platform-specific approach and navigation | bass class, sized to the boat/kayak | Tommy Ponce, Fisher Newb seminar, `LqW32NSkObY`, 2019-03-13; unregistered channel — medium confidence, single mention |
+| Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colors, booty spin, lit-structure targeting in a harbor | bass class, step up leader for abrasion | Full night program lives in the technique note; consistent with the full-moon-suppresses-the-daytime-bite pattern noted above |
 
 ## Gear summary (class terms)
 
@@ -165,6 +168,7 @@ rocks.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Moon](../conditions/moon.md)
+- [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

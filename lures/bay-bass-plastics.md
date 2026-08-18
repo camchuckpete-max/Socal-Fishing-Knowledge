@@ -217,5 +217,6 @@ terms above; see [Cameron's tackle](../profiles/cameron/tackle.md).
 - [Drop Shot](../techniques/drop-shot.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)
+- [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

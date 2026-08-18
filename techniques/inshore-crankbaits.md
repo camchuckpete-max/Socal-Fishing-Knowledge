@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -54,6 +54,17 @@ situation calls for it lives in the routers:
 - **Retrieve reel wants to be slow** — a high-speed reel fights you cranking the
   bait down; a slow 200-size crank reel loads less on the arms.
 - **DD-class divers run ~10–15 ft down and get bit on the rise** (calico lanes).
+- **Daytime/low-light rock program — long cast, fast retrieve, maintain
+  contact, pause (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19;
+  unregistered channel — medium confidence):** worked as a distinct daytime
+  or low-light program against breakwalls/riprap. Long-cast the bait,
+  **grind it down with a fast 6:1–7:1 gear-ratio reel** to keep it running
+  deep, and keep bumping rock the whole retrieve — described as never fully
+  losing contact with structure. A visible "hunting" wobble as the bait
+  works through the rocks is the tell it's running right; a **quick pause**
+  after a bump gives the fish a second look and is described as the trigger
+  for the strike. Framed as a full reaction bite similar to surface iron —
+  "they rip the rod out of your hands."
 
 ## Rigging
 
@@ -118,6 +129,19 @@ panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):
   claimed to outperform the established SoCal weedless/iron/crank program
   documented elsewhere in this KB.
 
+## Open-water hard bait vs. cover-oriented swimbait — the same cover-density decision as swimbait sizing (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium confidence)
+
+A panelist's stated split for daytime coastal calico: around a lot of cover
+he steps up through the PK swimbait sizes (see
+[soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md)); in **more
+open areas** he switches instead to hard baits, worked "really fast, really
+erratic" for a reaction bite similar to the rock-crank program above. Named
+pick: a **Lucky Craft Pointer 128** (an older-style minnow-profile hard
+bait), self-described partly as a personal favorite rather than a
+data-backed best-in-class choice. Same open-water/reaction logic extends to
+his crankbait work along riprap and shallow boiler/pinnacle structure other
+anglers skip.
+
 ## Thin areas (flagged — no corpus source yet)
 
 - **⚠ Wax Wing** — named as a hard-bait option in the calico kelp-lane row; no
@@ -133,6 +157,8 @@ panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Night Bass Fishing](night-bass-fishing.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

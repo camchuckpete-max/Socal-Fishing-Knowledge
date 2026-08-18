@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4]
 confidence: high
 ---
 
@@ -259,6 +259,46 @@ medium confidence):
   from the last (e.g. a dock replacing an eelgrass shoreline), restart the
   pattern from spot one instead of carrying forward what worked in the previous
   zone.
+
+## Reading bait behavior — happy vs. spooked bait (coastal bass)
+
+A visual bait-reading method for coastal bass water, alongside the
+current/water-color reads already covered elsewhere (a panelist, Time On The
+Water seminar, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+confidence):
+
+- **"Happy" bait — keep moving.** Bait that's meandering, spread out, and not
+  doing anything in particular reads as unpressured/uninterested prey — not
+  a sign predators are working it. Look down at the bait and keep running if
+  this is what you see.
+- **"Unhappy" / scared bait — stop and fish it.** Bait that's balled up
+  tight and moving around quickly reads as bait under active pressure —
+  stop and work that spot.
+- **10 to 20 casts, no bite, move on.** A fished spot that doesn't produce
+  in roughly that many casts gets abandoned for the next one — a
+  slightly higher cast count than the 10–15-cast bay/back-bay figure above,
+  for open coastal bass water rather than a fixed dock/eelgrass spot.
+- **Observed exception — a bite refusal explained by a specific bait type**
+  (same panel, no date beyond the 2025-04-19 seminar): a session roughly two
+  weeks before the talk found bass boiling and visibly active on the
+  surface, but refusing every lure offered — the fish were keyed on what the
+  panel called **"sailor jellies,"** described on camera as small floating
+  triangular jelly-like things (species not identified further on camera —
+  not asserted here as any specific taxon), which the panel's baits couldn't
+  imitate; the crew's response was to leave rather than keep working
+  refusing fish. A reminder that visible feeding activity does not guarantee
+  a lure bite if the fish are locked onto a specific natural forage.
+- **"Fishing pattern":** once a color/technique/zone type produces a bite in
+  one spot, repeat that same combination in a similar-looking area rather
+  than treating the bite as a one-off — described on camera as the core
+  definition of "pattern" fishing.
+- **Confidence over objective color, stated as house doctrine for the whole
+  panel:** every panelist on this call reported fishing different colors,
+  patterns, and techniques from each other through the same day on the same
+  water — the panel's own framing is to fish whichever color you personally
+  feel confident in rather than chase one "correct" answer, consistent with
+  the no-systematic-color-doctrine framing already logged in
+  [surface iron — colour](../techniques/surface-iron-color.md).
 
 ## Sportboat bow play
 

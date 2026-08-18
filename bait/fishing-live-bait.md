@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -293,6 +293,28 @@ when to reach for each position by water column.
   different words — wind in and cast back out rather than let the bait sit
   idle, since [yellowtail](../species/yellowtail.md) are moving through and a
   bait has to stay presented, not parked, to get bit.
+
+### Species selection over sardines — targeting trophy bass on a sport boat (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium confidence)
+
+A live-bait species pick specifically for fishing calico/sand bass off a
+sport boat when hunting a trophy fish rather than a limit:
+
+- **Skip the sardines for a Spanish mackerel or "greeny" (green mackerel)
+  when either is in the tank** — the stated reason is sizing the bait to the
+  fish you're actually after: a bigger, hardier baitfish is fished
+  specifically because the goal is a big fish, not volume.
+- **"Brown bait" — an older term for queenfish (a small croaker) — is a
+  second-choice pick** when a mackerel/greeny isn't available: thrown into
+  kelp or the boilers the same way, on the same big-fish logic.
+- **Step the outfit up to 40 or 50 lb for this program, not a 25 lb
+  fly-lining outfit** — the stated reason is that a big fish committing to
+  this bigger bait, in the kelp/boilers this is fished in, needs the heavier
+  class to land; a worked example on the panel: a 7-pounder (species not
+  named on camera for this specific fish) came almost immediately on a
+  small greenback fished on a 40 lb outfit at San Clemente Island after the
+  front side had gone completely dead on surface irons, coochies, hard
+  baits, and swimbaits — confirming fish were still there before the crew
+  went back to working their usual lures.
 
 ## From tank to hook without killing the bait (Capt. Dave Hansen, Your Saltwater Guide, 6ueGWJek1gI, 2018-08-16)
 

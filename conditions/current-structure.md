@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4]
 confidence: high
 ---
 
@@ -67,6 +67,17 @@ dirt to ambush against the structure. Same author, both statements: encode
 **parallel as the prior, into-beach as a viable late-fall / off-color state,
 off-beach as dead.** This is a real seasonal nuance, not an error. See also
 [island structure](../locations/island-structure.md).
+
+**Corroborating framing, coastal bass, stated without a specific date (a
+panelist, Time On The Water seminar, `XyKF34C5iB4`, 2025-04-19; unregistered
+channel — medium confidence):** described current along the beach in the same
+three-way terms as the table above — down the beach, up the beach, or off the
+beach — as the thing he checks before water color, calling water movement
+itself the key read; **clear water is disliked even when current is
+running**, and he treats stained/off-color, moving water as the target
+combination rather than clear water alone. Consistent with, not a new
+mechanism beyond, the parallel-current rule and the off-color-water exception
+already logged above.
 
 ## Kelp-bed corner selection by current direction (Dave Hansen, Your Saltwater Guide, `kzD0kSnnVPw`, 2019-04-07; registered voice, single mention on this specific framing — medium confidence)
 

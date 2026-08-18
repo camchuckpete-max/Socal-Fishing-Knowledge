@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -42,7 +42,10 @@ you read the *current across the kelp*, not the tide clock.
 - **Moon:** on clear full-moon nights calico gorge after dark and **shut down by
   mid-morning** — bite early, then dead until late day; the winter version is a
   reaction-bite-only day. Plan coastal bass segments for first light or late
-  afternoon on the full ([moon](../conditions/moon.md)).
+  afternoon on the full ([moon](../conditions/moon.md)). Night-specific color and
+  lure choice — silhouette/craw colors, lit-structure targeting in a harbor,
+  heavier leader for a trophy fish — is in
+  [night bass fishing](../techniques/night-bass-fishing.md).
 - **Light angle governs where fish hold, separate from moon phase (n6yun
   panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):** on
   bright, sunny, stable-light days calico "levitate" up into the kelp canopy
@@ -388,6 +391,7 @@ you read the *current across the kelp*, not the tide clock.
 | Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (RXNebDr4j7s) |
 | Grass/heavy kelp fouls a standard weedless rig | **Glide bait** on an Owner "sled" weedless rig ([glide baits](../techniques/glide-baits.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement than the soft-plastic weedless row above; ⚠ single promotional seminar source, low confidence |
 | Fishing from a kayak/small craft — boiler rocks and kelp at close range, often with no fish finder | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — platform-specific approach (kelp as anchor, close-range boiler-rock work, fan-casting) | bass class, sized to the boat/kayak | Execution is the same current/edge doctrine above; what changes is standoff distance, anchoring, and navigation without electronics |
+| Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colors, booty spin worked top-to-bottom, lit-structure targeting in a harbor | bass class, step up leader (50 lb+ fluoro) for abrasion | Full night program — color, structure choice, and the heavier-leader rationale — lives in the technique note |
 
 **Covering water is the method:** 10–25 casts to the prime edge of a bed, then
 move — 100 ft or 100 yards to the next patch of stringers. If they're not on the
@@ -634,6 +638,7 @@ release *ethic* and the regional policies are below.
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Moon](../conditions/moon.md)
+- [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

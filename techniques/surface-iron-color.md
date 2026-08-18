@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, color, jig-color, calico-bass, yellowtail, confidence]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -178,9 +178,19 @@ jigs](../lures/iron-jigs.md)) — kept alongside, not merged into, this note's
 "no systematic color doctrine" framing above, since it answers the question
 for that lure class rather than for the classic surface-iron blank.
 
+**Confidence-color data point, SoCal calico bass, daytime (Matt, Time On The
+Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+confidence):** daytime surface iron colors named on camera as his picks —
+**brown, orange,** and sometimes **mint** — the same mint already logged
+above as a recurring confidence color elsewhere in the corpus, plus a new
+brown/orange data point. Not generalized into doctrine — a single panelist's
+confidence-color report.
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Night Bass Fishing](night-bass-fishing.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](surface-iron.md)
 <!-- backlinks:end -->

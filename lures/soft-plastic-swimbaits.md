@@ -88,6 +88,33 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   matters little" framing above. Unregistered channel — medium confidence.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
+- **Kicker "booty spin" on a War Baits neck-breaker head** (Lane, Time On The
+  Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+  confidence): a paddle-tail-style swimbait with a small **blade in place of
+  a plain tail** for extra flash/vibration, rigged on a **wide-gap weedless
+  hook with a pivot** built into the neck-breaker head. Standard size runs on
+  a **1 oz** head; a **half-ounce** version of the same 5 in bait was named
+  specifically for spotted bay bass in grass. The head is versatile by
+  design — fish it quick and shallow up against rocks, or drop it **40–50
+  ft** when the fish are deeper — corroborated by a second, unnamed
+  panelist on the same call. Confidence color named: **black back, clear
+  bottom, red cheeks**, meant to read as an anchovy — see
+  [night bass fishing](../techniques/night-bass-fishing.md) for the same
+  bait's night application.
+- **PK-series swimbaits, sized up with cover density (Time On The Water
+  panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+  confidence):** Lane's Newport Harbor grass plan runs a downsized **PK3**
+  on a neck-breaker head in a "spotty" color that imitates a spotted bay
+  bass's own coloring (see [spinnerbaits](../techniques/spinnerbaits.md) for
+  his full two-bait Newport plan). A separate panelist describes stepping up
+  from a **PK5** as his starting bait around structure to a **PK7** (same
+  head, bigger body) once bites confirm fish are there and more cover
+  demands a bigger profile — a deliberate small-to-large progression by how
+  much cover is around, not a fixed size pick. A companion daytime pick
+  named on the same panel, **PK's "secret trout"** (orange/red, an
+  unpopular-looking color by the panelist's own account) is called out as
+  one of the best colors for getting bit, especially in stained water,
+  fished on a fast retrieve.
 
 ### Tuna-foamer glide swimbait ("Mad Eel")
 
@@ -173,8 +200,11 @@ baits and heads from the class terms above; see
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

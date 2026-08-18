@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [islands, structure, current, fathom-curve, catalina-eddy, paddies]
-sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io]
+sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight]
 waters: [island, bank]
@@ -119,6 +119,17 @@ retreated to **seek shelter on the front side** rather than push through.
 No swell direction given on camera. Read as a same-event data point for
 west-end wind exposure alongside the swell/wind zone-selection doctrine
 above, not a new rule. Unregistered channel — medium confidence.
+
+## San Clemente Island — Navy-controlled access
+
+San Clemente Island is a **U.S. Navy training range**, not open coastline —
+before running a trip there, check which zones are **open or closed** for
+military training that day; closures rotate with the Navy's schedule rather
+than being fixed. Panelists describe this as a standard pre-trip check
+alongside safety prep for the roughly **60-mile, straight-off-the-beach**
+crossing (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered
+channel — medium confidence, as-of the seminar date — verify current access
+before running the crossing).
 
 ## Reading across the day's spots
 

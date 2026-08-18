@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [glide-bait, swimbait, weedless, dropper-rig, rockfish, yellowtail, bass, parabolic-rod, hookup-baits, sheephead, halibut, dorado, yellowfin, skipjack]
-sources: [0HwYl0HO2tc, 5Oh3IPIC5g4]
+sources: [0HwYl0HO2tc, 5Oh3IPIC5g4, XyKF34C5iB4]
 confidence: low
 regions: [socal-bight, baja-pacific-north]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -64,6 +64,21 @@ own video id.
   resident bass, or sizing a bait for [California
   halibut](../species/california-halibut.md) — see the color and species
   notes below.
+
+## Calm-boiler-rock presentation — European pike/musky glide baits (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium confidence)
+
+A distinct, non-HookUp-Baits data point: two panelists independently
+describe fishing **European pike/musky-market glide baits** (named brands:
+**DS Prestos**, **Jackal**) for calico bass in protected, calm-water boiler
+rocks specifically — not the open kelp/current edges the rest of this note
+covers. Wind the bait down with a fast, "crunching" retrieve for a
+zig-zag/pause action, similar to working a Gucci-style glide bait. One
+panelist's stated technique: **pitch it up tight to the boiler rock, then
+twitch the rod tip** rather than winding steadily — this holds the bait in
+the strike zone longer and gives a fish more time to look at it before it
+clears the spot. Both panelists frame this as an occasional, not primary,
+presentation, reached for specifically when calm conditions let the boat
+get close to boiler rocks without swell risk.
 
 ## Rod: parabolic bend, not a tip-only bend
 

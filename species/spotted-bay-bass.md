@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A, AH4Eiya1Hn0]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A, AH4Eiya1Hn0, XyKF34C5iB4]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor]
@@ -162,6 +162,9 @@ General method: [search & glassing](../planning/search-and-glassing.md).
 | Situation (conditions) | Do this | Gear class | Notes |
 | --- | --- | --- | --- |
 | Eelgrass flats, mooring cans, channel edges — moving tide (power fishing) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** — the power-fishing pass | 8–10 ft **crank class**, slow-retrieve 200 reel, [gear classes](../tackle/gear-classes.md) | Cadence changes and the total pause draw the bites; execution, depth control, and the hardware upgrades live in the technique note |
+| Shore-pounding/skiff shallow eelgrass, windy, water carrying some color | **[Spinnerbait](../techniques/spinnerbaits.md)** (War Baits HD, 1 oz) — sink to bottom, rip clear of grass, wind on the blade lift, pause and flutter | harbor bass class | Newport Harbor plan (Lane): pair with a downsized PK3-on-neck-breaker in "spotty" color; if the water turns up clear instead, switch this whole plan to the docks below rather than keep fishing the grass |
+| Docks/pilings, water clear rather than colored | **Flip a slow-pitch jig or crank the pilings** ([inshore crankbaits](../techniques/inshore-crankbaits.md)) | bass class | Decision and reason (Lane, Newport Harbor): in clear water the fish are less willing to leave the grass to feed because they're exposed to predators (birds, seals); the same fish still relate to the grass but feed from dock/piling cover instead when the water is clear |
+| Fishing at night, artificial light on the water (dock/parking-lot/terminal lighting) | **[Night bass fishing](../techniques/night-bass-fishing.md)** — target the lit stretches specifically with a reaction bait | bass/crank class | Fish expose themselves to feed in the light after dark; pre-mark light posts on a map and run the lit zones as a pattern rather than blind-working the harbor |
 | Docks, pilings, riprap — pitch to cover (finesse) | **Small plastics** — Zoom fluke on a 1/4–3/8 oz ballhead flipped into the pilings, watch the line, swing on the take ([bay bass plastics](../lures/bay-bass-plastics.md)) | light spinning / low-profile, 10–20 lb | Deadly-effective — 60 fish in an afternoon; fish run around pilings/into grass, so swing hard |
 | Back-bay, smaller aggressive fish, finesse | **Ned rig** ([ned rig](../techniques/ned-rig.md)) — mushroom head + buoyant TRD, sink to bottom, hop and let it fall | light spinning, 10 lb braid / 8 lb leader / 4–10 lb rod | Stands up like a ghost shrimp; watch the line for the tap/speed-up; one durable bait catches 50 fish |
 | Fish suspended off structure / need a slow horizontal fall | **Drop shot** ([drop shot](../techniques/drop-shot.md)) | light spinning class | Holds the bait at their level over a channel edge |
@@ -264,6 +267,15 @@ instead.
 - **The bay is the all-weather fallback:** when the outside coast is blown out or
   rained on, spotties in the harbor stay catchable — this fishery keeps the day
   alive when the offshore/island plan dies.
+- **When a harbor isn't biting — a stated decision cycle, not a guess (Time On
+  The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+  confidence):** if it's not a long drive to relocate, panelists described
+  cycling through the harbor's available structure types in turn — grass to
+  docks, then commit to any rock present — trying both a fast/moving-bait
+  presentation and a slow one at each before ruling a stretch out; if a long
+  drive is already sunk into the spot, the fallback instead is to slow down
+  and low-and-slow crawl a jig through the same water rather than relocate.
+  Only after working through that list does the crew call the day and leave.
 - **Legal size (California/CDFW, as-of 2024-11, verify current rules):**
   spotted bay bass carry **no minimum size limit**, unlike
   [calico bass](calico-bass.md) and [sand bass](sand-bass.md) (both **14 in**)
@@ -286,5 +298,6 @@ instead.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 <!-- backlinks:end -->

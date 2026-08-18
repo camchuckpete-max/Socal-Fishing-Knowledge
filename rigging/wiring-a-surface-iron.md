@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [surface-iron, wire, haywire-twist, candy-bar, slack-current, jig-rigging]
-sources: [764kFzACKTc]
+sources: [764kFzACKTc, XyKF34C5iB4]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -143,6 +143,30 @@ surface-iron application:
   that the wire is simply **smaller**, with less hardware in the way. Recorded
   as his stated preference with his own uncertainty attached, not as
   established mechanism. No source in the corpus argues the other side yet.
+- **Clip vs. tie-direct on a surface iron — a live, three-way split (Time On
+  The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+  confidence).** Kept side by side, not reconciled — none of these three
+  address wire specifically, but they answer the adjacent question of
+  whether *anything* (wire, split ring, or a clip) should sit between the
+  leader and the iron at all:
+  - **A clip for quick changes, including on the iron itself.** One
+    panelist fishes clips sized **20 lb, 30 lb, 50 lb, and 75 lb**, and runs
+    the **75 lb clip specifically on his surface iron** — his stated
+    reasoning is pure convenience (swapping between a surface iron, a jerk
+    bait, a rig, or a swimbait quickly) and he's explicit that if a fish
+    breaks the 75 lb clip, "so be it, let them swim away."
+  - **Tie direct on the iron, clip everywhere else.** A second panelist
+    fishes a clip on his swim-jig applications but **ties straight to the
+    ring on a surface iron** — a personal-preference call, not tied to
+    breaking strength.
+  - **Tie direct on any bait with a single pivot point (jigs, swimbaits),
+    clip on hard baits.** A third panelist fishes a clip on hard baits
+    (crankbaits, jerk baits) specifically for fast color changes, but
+    direct-ties jigs and swimbaits — his stated reason: a clip adds a
+    **second pivot point** to a bait that already pivots at the hook/head,
+    and around rocks that extra play is enough to bother him even though he
+    calls it a "marginal" difference. Framed on camera as an overthinking
+    habit he's aware of, not a claim the clip actually fails mechanically.
 
 ## Rig it
 

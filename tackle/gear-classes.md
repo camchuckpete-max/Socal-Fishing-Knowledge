@@ -121,6 +121,7 @@ does the lookup.
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
+- [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surface Iron](../techniques/surface-iron.md)
