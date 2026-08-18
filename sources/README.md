@@ -20,6 +20,7 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 <!-- index:start -->
 ## Index
 
+- [Plan: distributed `socal-boat-day` skill + `config/` endpoint layer](plan-socal-boat-day-skill.md) — The governing plan for shipping the multi-user boat-day skill: a thin packaged bootstrap plus a live, editable endpoint layer in the repo.
 - [Plan: Build SoCal/Baja Fishing Knowledgebase](plan.md) — (after the resuming session's state report).
 - [Source Registry](source-registry.md) — Registered sources qualify their doctrine for high confidence (see the confidence rubric in CLAUDE.md).
 <!-- index:end -->
