@@ -2025,7 +2025,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 1wFoa11jPxQ | SearcherSportfishing | tutorial | deep | done | tackle/line-and-leader.md / Pete Gray/SearcherSportfishing sponsor-style tip (Talica 16, 80 lb Power Pro Maxcuatro, 42 lb Seaguar top shot) added as low-confidence attributed bullet; connecting knot name flagged asr-uncertain |
 | 25sd2gZAIZ8 | SearcherSportfishing | tutorial | deep | done | sources/extraction-log.md: correct skip (generic lure-storage trick, no SoCal-specific fishing knowledge) |
 | 2O4Z0S78KLg | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md; species/yellowtail.md; rigging/essential-knots.md: new giant-yellowtail long-range surgeon's loop rig note, cross-linked |
-| 2TmLaSCmfC8 | SearcherSportfishing | tutorial | deep | pending |  |
+| 2TmLaSCmfC8 | SearcherSportfishing | tutorial | deep | done | rigging/flying-fish-harness.md: added alternative braid wing-tie method for dead flyer kite rig |
 | 2fwj24S9S-o | SearcherSportfishing | tutorial | deep | pending |  |
 | 3FghhsYAIFI | SearcherSportfishing | tutorial | deep | pending |  |
 | 3djuTW9GBr0 | SearcherSportfishing | tutorial | deep | pending |  |

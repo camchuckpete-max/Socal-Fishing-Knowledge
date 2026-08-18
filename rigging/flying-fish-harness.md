@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -133,6 +133,39 @@ suggestive; either way, **any such brand/product claim is promotional and
 treated as `low`** per the sponsored-claim rule — only the
 slide-up/reusable/replaceable-wing mechanism above is logged as a knowledge
 point.
+
+## Alternative wing-tie method — braid instead of zip ties (Logan Watson, SearcherSportfishing tutorial)
+
+Logan Watson, SearcherSportfishing (`2TmLaSCmfC8`, 2021-04-08; presenter
+self-identified on camera; unregistered channel — medium confidence): a
+step-by-step rigging method for the pre-rigged dead flying fish product sold
+as the **"G Fly Yummy"** (a dead/frozen natural flyer, priced around **$30
+each** — not to be confused with the rubber/artificial trolled lure branded
+the "Yummy Flyer" logged above; similar name, different product), built for
+the **helium balloon / kite rig** for big local bluefin fishing:
+
+- **Body skewer:** a kitchen "spade kabob skewer" is inserted into the bone
+  just below the meat and pushed all the way through, twisting it if needed
+  to get it through — the anchor point for the rest of the rig.
+- **Thaw state matters:** rig the flyer when it is thawed out a little but
+  not fully thawed — stated reason: it works better once deployed on the
+  water that way.
+- **Wing holes:** a second skewer punches a hole in each wing, placed at the
+  second or third bone in from the edge — stated reason: more material there
+  for the tie to grab onto when it's attached to the skewer.
+- **Wing tie:** instead of a zip tie, thread **30 to 50 lb braid** through the
+  wing hole and around the skewer (this source prefers the lighter end, 30 lb
+  used on camera). Secure with a simple overhand knot tied twice, then a
+  third finishing/locking knot (unnamed on camera) — stated reason for the
+  third tie: without it the wing knot can slip. Repeat on the other wing.
+- **Final leader/hooks:** a **400 lb** leader carries a J hook through the
+  body's center-skewer point and a big treble hook through the back — the
+  same J-hook-plus-trailing-treble construction and leader weight already
+  logged above from the standard San Diego flyer rig (`GqcVaTIlyg0`).
+
+Kept side by side with the skewer-and-zip-tie harness above, not merged into
+it — a different wing-lock material (tied braid vs. zip tie) for the same
+kind of rig, not shown to be superior or inferior.
 
 ## Rig it
 
