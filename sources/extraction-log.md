@@ -2015,7 +2015,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | -QnMvV4j_oM | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / Added a medium-confidence "finicky daytime bluefin" chrome-jig entry (Salas 6X Jr. / Tady 4/0) to lures/iron-jigs.md, corroborating the existing ASR-uncertain "doua"->Tady 4/0 entry; link-maintenance.py clean (0 dead links). |
 | -hY20bxz3oM | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: added medium-confidence attributed spring-scale drag setter sub-entry under existing drag-scale doctrine |
 | 0AtmEH6aQt0 | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: added Owner Hybrid Mutu booth-interview product note (sponsored, low confidence, ASR-uncertain hook name flagged) |
-| 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | pending |  |
+| 0Be1ARfvYaw | SearcherSportfishing | tutorial | deep | done | none: nothing extractable — entire transcript is a Fred Hall Show retail promo (Seaguar/P-Line fluorocarbon deals), no fishing knowledge |
 | 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | pending |  |
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | pending |  |
 | 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | pending |  |
