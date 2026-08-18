@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA]
 confidence: medium
 ---
 
@@ -189,6 +189,33 @@ in:
   a jig swimming a flat, unbroken line doesn't get bit as well as one that
   gives that kick. See [iron jigs](../lures/iron-jigs.md) for the class specs
   this corroborates and the hook-style detail.
+
+## Long-range yellowtail rod/line/leader — Tackle Tip Thursday (Darren, SearcherSportfishing)
+
+Darren, SearcherSportfishing, "Tackle Tip Thursday Vol. 58 (Yellowtail
+Set-Up)," `3gNTB4aMhCA`, 2019-07-25; unregistered channel, single mention —
+medium confidence. His own go-to setup for [yellowtail](../species/yellowtail.md)
+on a long-range trip:
+
+- **Rod:** an **Okuma PCH-class rod, 7'6"** (auto-captions render the brand as
+  "Oklahoma" — read here as **Okuma**, corroborated by "PCH" appearing
+  elsewhere in this corpus as an actual Okuma rod-series name, the bent-butt
+  big-game build Capt. Dave Hansen describes for swordfish/giant bluefin
+  (Okuma Fishing Tackle USA, `55IthpZZx9k`); the corroboration is the series
+  name only; a 7'6" standing-rod build for yellowtail is a distinct product
+  in that same series from the bent-butt game-chair rod, so still flagged
+  `asr-uncertain` on the brand read).
+- **Line:** 65 lb braid main line to a 60 lb fluorocarbon leader.
+- **Stated reason:** durability under sustained drag pressure — "you can pull
+  on those things like there's no tomorrow" — given as his personal go-to,
+  not framed as a species-wide rule.
+
+A lighter-line data point than the 80–100 lb long-range-yellowtail line-class
+bracket already logged in
+[yellowtail — gear summary](../species/yellowtail.md#gear-summary-class-terms)
+(also SearcherSportfishing, a different presenter/video, `2O4Z0S78KLg`); kept
+side by side, not reconciled — neither video states the target grade, so
+there's no basis to merge the two into one number.
 
 ## Casting rod/reel/top-shot general parameters (Cesar, Eric's Tackle)
 
@@ -737,5 +764,6 @@ a bluefin).
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
