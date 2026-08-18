@@ -15,6 +15,12 @@ on:
         description: Branch to build the snapshot from
         required: false
         default: claude/batch-3-planning-lessons-pxwdl5
+  # A freshly registered cron can take a long time to fire its first run, and
+  # a session without actions:write cannot dispatch. Touching this file kicks
+  # a rebuild immediately.
+  push:
+    paths:
+      - .github/workflows/publish-bight-watch.yml
 
 permissions:
   contents: read
