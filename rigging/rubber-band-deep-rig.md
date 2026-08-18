@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -23,6 +23,13 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
   [bluefin tuna](../species/bluefin-tuna.md) and other tuna, used when the fish
   are marking deep rather than feeding at the surface and a naked flylined bait
   will not reach them.
+- **Decision trigger, stated plainly (Steve Carson, SearcherSportfishing,
+  `5CvFDpvlfSE`, 2023-08-03; unregistered channel — medium confidence):**
+  reach for a sinker rig (any of the three builds below) when bluefin are
+  **deep and a little picky — they "don't really want to bite on lures but
+  they will bite on our live bait, but they're deep."** Which of the three
+  builds is working on a given day/hour changes, so his standing advice is to
+  check with the crew and be ready to rig any of them.
 - **Decision trigger, corroborating (Ray Sharifi, Dirty Hookers, 42A8Owhc8fw,
   2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** on the same trip
   he'd otherwise be [casting metal at a foamer](../techniques/foamer-casting.md),
@@ -62,6 +69,43 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
 > are captured here. Specific sinker weights, band sizes, and leader lengths from
 > that transcript were not reliable and are deliberately omitted — confirm those
 > details against the video before relying on them.
+
+## The two rubber-band builds, back to back (Steve Carson, SearcherSportfishing)
+
+**Steve Carson, SearcherSportfishing, `5CvFDpvlfSE`, "Tackle Tip Thursday Vol
+225 (Sinker Rigs for Bluefin)," 2023-08-03; unregistered channel — medium
+confidence.** Demonstrates the two rubber-band builds side by side as "old
+school" options, aboard the *Searcher* mid-bluefin-season, plus the
+drop-shot/brawler build logged in its own section below.
+
+- **Simple (pull-through) build — the oldest, easiest version:** the rubber
+  band is pre-half-hitched onto the line so it won't slip, then simply passed
+  through the sinker's eye and pulled back around to hang the sinker off the
+  line. Carson's stated tradeoff: it fishes fine and gets bit, but **it tangles
+  more with a neighboring angler's line in a crowded rail** — a cautionary
+  note, not a reason to avoid it.
+- **Wrapped (two-hole) build — corroborates Mason's build below:** the band
+  goes through the sinker's top eye, is wrapped around the sinker body a
+  couple of times (once if you can't manage more — Carson calls it a
+  dexterity-dependent step), then passed through the sinker's bottom hole, and
+  the hook is pulled through that resulting loop. Carson's stated advantages
+  match Mason's reasoning below almost exactly: the terminal tackle rides
+  in-line so it's **much less likely to tangle with a neighboring angler**,
+  and **there is no knot** joining sinker to line — a third, independent
+  source for the same two-hole-wrap-then-hook-through-loop mechanic also
+  documented below.
+- **Leader:** fluorocarbon, a figure given on camera that the captions render
+  as "4T" — not confidently resolved to a specific breaking strength; flagged
+  `asr-uncertain` rather than guessed.
+- **On both builds — expect to lose the sinker on a big fish:** the rubber
+  band is the deliberate weak point; hook something big and the band breaks,
+  the sinker is lost, and the angler fights the fish free of it — framed on
+  camera as "well worth it to catch a big bluefin," the same breakaway-weight
+  tradeoff already stated in Concept above.
+- **Sinker weight — no fixed number, check with the crew:** how heavy a
+  sinker to run changes with **wind, current, and how deep the fish are
+  marking**, on a given day or even a given hour — his standing advice is to
+  ask the crew rather than default to one weight.
 
 ## Sinker and hook parameters (a second, independent source)
 
@@ -375,6 +419,43 @@ hardware.
   and the **100 lb rig** as the further step for an overnight trip where a
   200 lb-class fish is a real possibility — see the "always bring it" doctrine
   in [rod & reel selection](../tackle/rod-and-reel-selection.md#sportboat-bring-a-range-day-and-night).
+
+## A third source naming it both ways, and a full build (Steve Carson, SearcherSportfishing)
+
+**Steve Carson, SearcherSportfishing, `5CvFDpvlfSE`, 2023-08-03; unregistered
+channel — medium confidence.** In the same breath, Carson calls this build
+**"the drop shot rig or the brawler rig"** — the first source in this note to
+use both names for what sounds like one build, partially resolving the naming
+question the two sections above leave open (though his hardware still isn't
+confirmed identical to either the SD Fish and Sips or PCS-panel builds, since
+neither of those videos is this one). He calls it the newer-school option of
+the three rigs in this video and says it has been the most productive of the
+three so far that (2023) season. Build, as demonstrated:
+
+- **Hook:** a ringed circle hook — an **Owner** brand hook; the size is
+  captioned "two" and then "20" in the same breath and isn't confidently
+  resolved to a specific model/size — flagged `asr-uncertain`. The
+  fluorocarbon leader ties to the ring "just like normal."
+- **Dropper to the sinker:** **2.5 to 3 ft of 15 lb-test monofilament**, tied
+  off the same ring the leader connects to, carrying the sinker below the
+  hook — the same ring-and-dropper concept as the ring-and-tag-line build
+  above. Carson runs 2.5 ft; he notes Captain Mike prefers 3 ft — kept side by
+  side as two crew members' own preferences, not reconciled.
+- **Sinker:** **4 oz to 16 oz**, again set by conditions and checked with the
+  crew rather than fixed.
+- **Why it's popular — depth control:** the light dropper lets the rig fall
+  **almost straight down**, giving much better depth control than the
+  rubber-band builds above — if the crew calls fish at a given depth (his own
+  example on camera, explicitly hypothetical — "pick a number" — 280 ft), a
+  properly worked drop-shot rig can present the bait, in something close to
+  its natural swimming position, right in front of the fish at that depth.
+- **Same breakaway tradeoff on a big fish:** as with the rubber-band builds,
+  hooking a big bluefin on this rig will likely part the light dropper line
+  and cost the sinker — again framed as well worth it.
+- **Season framing, in his words:** of the three rigs shown in this video (the
+  two rubber-band builds above and this one), the drop-shot/brawler rig had
+  been the most popular one that (2023) season, though which rig is actually
+  getting bit "changes just about every single day."
 
 ## Brawler rig, a simpler build described verbally (Brian Wen, 2025 PCS Show seminar)
 

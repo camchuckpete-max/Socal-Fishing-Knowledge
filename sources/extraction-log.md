@@ -2036,7 +2036,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 46wHgdTJWIM | SearcherSportfishing | tutorial | deep | done | tackle/spectra-hollow-vs-solid.md (new); rigging/hollow-splice-and-serving.md; tackle/line-and-leader.md — spun out hollow-vs-solid spectra note, cross-linked maintenance splice, trimmed post-review duplication |
 | 4PY5H_YPJxY | SearcherSportfishing | tutorial | deep | done | none / skipped: 115s auto-caption promo for Accurate Reels, product names/prices/locations too ASR-garbled to reconstruct reliably, no extractable SoCal/Baja knowledge |
 | 5472APCgym8 | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md — merged Modified Albright as second attribution/wrap-count detail into existing spaced-then-overlap variant entry; fixed cinch-off mechanics wording inconsistency |
-| 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | pending |  |
+| 5CvFDpvlfSE | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md — amended with three new sourced sections (decision trigger, two rubber-band builds, drop-shot/brawler rig build) from Steve Carson/SearcherSportfishing |
 | 5IN1wsOFR-k | SearcherSportfishing | tutorial | deep | pending |  |
 | 5J7a6UwTA90 | SearcherSportfishing | tutorial | deep | pending |  |
 | 5g7pK63hYnc | SearcherSportfishing | tutorial | deep | pending |  |
