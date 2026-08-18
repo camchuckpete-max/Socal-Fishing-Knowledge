@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -45,6 +45,29 @@ the reverse map in **Linked from** below.
 - The retrieve is one thing: **wind as fast as you can, all the way up.** The
   strike is a reaction to the fleeing iron — there's no finesse cadence, the
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
+- **On the bite, don't set the hook — keep cranking through it** (Steve Carson,
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 39," `5pbA-wXoric`, filmed at
+  the Fred Hall Show, 2019-03-14; unregistered channel/speaker — medium
+  confidence): the instruction is to stay on the grind rather than break stride
+  to strike, letting the continuous full-speed wind itself drive the hookset —
+  consistent with, and a specific rule for, the "speed is the trigger" doctrine
+  above. Same source's stated reasoning for going up in line class: **40 lb
+  works, 50 lb is better, 60 lb better still, "because the fish don't
+  care"** — they'll eat the jig regardless of line diameter, so there's no
+  bite-rate cost to fishing as heavy as you can still crank fast and control
+  the fish; consistent with, not new beyond, this note's other 40–60 lb
+  line-class data points, and echoed five years later, same core minimum, by
+  the same speaker's PCS Show panel appearance below (`UP_3fBu7VPA`,
+  2024-03-20 — 40 lb minimum, 50–60 lb preferred). Gear shown on camera: a
+  fast conventional reel (captions render "Pen 2014 arrows"/"pen fathom
+  fourteen arrow reel" — read as a **Penn Fathom-series** reel, exact model
+  not confirmed, asr-uncertain, plausibly the same Fathom-class pick as the
+  2024 panel appearance though the two captions don't decode to a matching
+  model number) paired with a jig captioned "d4 Oh jig" (asr-uncertain — not
+  confirmed as a named model; possibly a Tady, given this note's other
+  Tady-caption corruptions, but not carried as a confirmed pick) fished in
+  **blue and white** or **scrambled egg** — both already this note's
+  traditional yellowtail colors.
 - A heavy iron is mandatory so it **gets to the zone and stays vertical** in
   current; too light and it never reaches the fish or blows out sideways.
 - **Observed** (StokedOnFishing, 2024-08-29, Tanner Bank, SoCal —
