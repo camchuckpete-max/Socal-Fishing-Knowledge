@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [fg-knot, albright, braid-to-leader, connection-knot, casting]
-sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg]
+sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -63,6 +63,21 @@ system: braid main line, fluoro or mono leader.
   down, then trim the tags. A different wrap pattern from the 10-wraps-one-way
   method above; both are Albright ties — use whichever cinches cleaner for
   you.
+- **Albright — dissimilar-line variant, no dead-set wrap count** (Rick,
+  Fisherman's Landing Tackle, on SearcherSportfishing, 2023-03-16,
+  `2fwj24S9S-o`): framed generally as joining two lines of dissimilar
+  diameter/strength (his example: 30 lb main line to a heavier leader), not
+  braid-specific. Form the leader loop with no special twists, top of the loop
+  facing away from the tier; push the main line up through the loop and pinch
+  it; wrap the tag end over the top of everything — he uses **six or seven
+  wraps** but states there's **no dead-set number**, just wrap "until I got a
+  good looking length of my knot." Finish by taking the tag back down through
+  the loop in the opposite direction from the one it started in, then pull
+  both tag ends together. Right before the knot stops moving, **wet it**, then
+  drop the tag ends and pull only the two main lines to seat it — it rolls
+  into a tight barrel shape. Trim tags close. Same up-then-down-through-loop
+  structure as the 10-wrap method above, just with a looser wrap count and an
+  explicit wet-before-final-cinch step.
 - **Failure modes:** FG — too few wraps or slack braid during wrapping (no
   color-change bite); trimming the leader tag so tight the taper pulls. Albright —
   a twisted loop that won't cinch, or over-tight trims that let the flat tag slip.
@@ -70,8 +85,9 @@ system: braid main line, fluoro or mono leader.
 ## Tie it
 
 How-to videos: [FG knot, step by step](https://www.youtube.com/watch?v=CIMTyepgonk),
-[the Albright knot](https://www.youtube.com/watch?v=NXtvXkqpT9w), and
-[the spaced-then-overlap Albright variant](https://www.youtube.com/watch?v=-BO1lMCTamg).
+[the Albright knot](https://www.youtube.com/watch?v=NXtvXkqpT9w),
+[the spaced-then-overlap Albright variant](https://www.youtube.com/watch?v=-BO1lMCTamg),
+and [the dissimilar-line Albright variant](https://www.youtube.com/watch?v=2fwj24S9S-o).
 
 <!-- backlinks:start -->
 ## Linked from
