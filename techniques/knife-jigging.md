@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -246,6 +246,19 @@ whether a bite converts.
   roughly **220 ft** and work the jig through that column rather than working
   100 ft above or below where the fish actually are — efficiency, not
   coverage, is the goal once the fish are pinpointed (same source).
+- **"When you hit bottom, you're bit" — a crew heuristic for water too deep
+  to actually reach bottom (Billy, Fisherman's Landing Tackle, via
+  SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip Thursday Vol. 186,"
+  uploaded 2022-06-16; unregistered channel — medium confidence):** fishing
+  knife jigs for bluefin is typically over water too deep for the jig to
+  ever reach bottom on the drop, so when the free-spooling line suddenly
+  stops paying out the way it would on hitting bottom, deckhands' stock
+  answer is that it's not bottom — it's a bite. Also don't fully thumb off
+  the spool on the drop, or the sudden stop on a bite backlashes the reel;
+  keep light thumb pressure through the fall, matching the thumb-tension
+  doctrine above. Most bites come **on the sink**, but bites on the
+  **retrieve** happen too — a non-quantified corroboration of the
+  day/night and sink/rise bite-timing splits already logged in this note.
 - **Manual count as a third depth-estimation method, no marked line needed
   (panel — exact speaker not identifiable from captions, 2025 PCS Show "Slow
   Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded 2025-03-14;
@@ -403,6 +416,12 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   **loads and bends all the way through to the butt**; fishing it flat on the
   rail throws away roughly half the rod's power, so fish it in hand, not racked
   (Ul5FLB2dFgQ).
+  - **Tackle-shop shorthand, "X" rail-rod rating (Billy, Fisherman's Landing
+    Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip Thursday
+    Vol. 186," uploaded 2022-06-16; unregistered channel — medium
+    confidence):** a **1x, 2x, or even 3x rail rod** is recommended for
+    knife-jigging bluefin — heavier "X" rating framed as generally helpful
+    for this style, without a stated mechanism beyond that.
 - **Reel:** any **narrow two-speed**. A premium two-speed (Talica, Daiwa, or a
   comparable big-name reel) if budget allows; a **Fathom** is called out as
   strong value — big, high capacity, two-speed — with one caveat: its stock
@@ -412,6 +431,18 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   broader trend (including Japan, where dedicated speed-jig reel makers are
   now building two-speeds) is toward two-speeds being simply easier to fish
   (Ul5FLB2dFgQ; medium confidence, unregistered channel).
+  - **Two named reel benchmarks, light and heavy end (Billy, Fisherman's
+    Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip
+    Thursday Vol. 186," uploaded 2022-06-16; unregistered channel — medium
+    confidence):** on the light end, a **Shimano Talica 20**, valued
+    specifically for its **free-spool** getting a jig **down fast**; on the
+    heavy end, a **Penn International 50** spooled with **130 lb line**. A
+    reel captioned **"Torque 60"** (asr-uncertain — likely an Accurate
+    reel, not confidently resolved to a specific model) was named in the
+    same breath as the Talica 20, position in the range not clearly
+    stated. Framed as a night-bite-oriented
+    minimum-to-maximum range on **80–130 lb class** gear, corroborating this
+    note's 80–150 lb night-class range logged elsewhere below.
   - **"Narrow" defined, and why it matters under jigging drag loads (George,
     2025 PCS Show panel, `gimFbgN5Jjk`, 2025-03-14; unregistered
     channel/panel — medium confidence):** a narrow reel is one with **under
@@ -511,6 +542,15 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   - **Direct-tie school (West Coast Jiggerz, j37zxs33gws):** **no crimp** — fish
     the 80–100 lb braid → FG → **15–20 ft mono/fluoro top shot tied direct to
     the jig**.
+  - **Split-ring school, a third attributed connection method (Billy,
+    Fisherman's Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`,
+    "Tackle Tip Thursday Vol. 186," uploaded 2022-06-16; unregistered
+    channel — medium confidence):** the shop pre-makes a **200 lb
+    fluorocarbon** leader and the angler **split-rings it onto the front of
+    the jig** — no crimp, no direct tie. Kept side by side with the crimp and
+    direct-tie schools above rather than merged; the 200 lb weight matches
+    the "~2 ft bite leader of 200 lb" crimp-school figure above without
+    confirming this shop's leader length.
   - **No-crimp depth-indicator variant (Ray Sharifi, gevNj2Y1Ep8, 2023-09-02;
     `ray-sharifi` registered, SoCal-capped — medium confidence):** on a 100 lb night setup, run
     **100 lb braid straight to a 10 ft leader of 130 lb fluorocarbon** with no

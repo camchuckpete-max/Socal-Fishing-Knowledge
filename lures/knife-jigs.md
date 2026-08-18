@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -124,6 +124,20 @@ behavior**:
   built for slow-pitch — don't grab a slow-pitch assist off the rack for a speed
   jig. Not reconciled with the single-bottom-pair-no-top-hook doctrine above —
   both are fished in the fleet; see [knife jigging](../techniques/knife-jigging.md).
+  - **Hook swap and a "one on each end" rule, tackle-shop framing (Billy,
+    Fisherman's Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`,
+    "Tackle Tip Thursday Vol. 186," uploaded 2022-06-16; unregistered
+    channel — medium confidence):** stock hooks get swapped for **heavy-duty
+    assist hooks** — the shop's own stock is **Mustad assist hooks, 6/0**,
+    called out as **"a good universal size"** across the Rip Roller,
+    Streaker, and Jigpara models above. Attached with a **heavy-duty split
+    ring**; hook count/placement is explicitly framed as angler preference
+    ("everyone does it different" — one on top, one on top plus one on the
+    bottom, or two on each end), but his own stated minimum is **at least one
+    assist on each end**, reasoning that these jigs are long enough that a
+    single-end assist alone costs hookup ratio. Another attributed
+    hook-count/placement data point in the same unreconciled conflict logged
+    throughout this list (below and above) — not reconciled here.
   - **Fourth attributed configuration, kept side by side (Ray Sharifi,
     Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** the **second, unnamed ~200 g knife jig** logged above
     (asr-uncertain maker) — not the 240 g Mustad, which the source describes
@@ -221,6 +235,18 @@ behavior**:
 - **Model benchmarks:** **Sea Falcon** slow-pitch and speed jigs, Shimano
   Butterfly / Flat-Fall, Nomad Gypsea / Streaker, Hots, Ocean's Legacy. Carry a
   range of weights and both cross-sections.
+  - **Tackle-shop top-3 for night bluefin, with weights (Billy, Fisherman's
+    Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip
+    Thursday Vol. 186," uploaded 2022-06-16; unregistered channel — medium
+    confidence):** the three best-selling knife jigs in the shop in 2022
+    were the **Nomad Rip Roller (400 g)**, the **Nomad Streaker (320 g)**,
+    and the **Jigpara (up to roughly 350–400 g)**. This confirms **Nomad Rip
+    Roller** as a real, current model name — [knife/speed
+    jigging](../techniques/knife-jigging.md#depth-control--jig-calling)
+    logs a captioned "rip rollers" at 500 g from a separate 2024 source that
+    couldn't confirm the brand; the 400 g size here is the shop's stocked
+    weight, not necessarily in conflict with that heavier, wind-driven 500 g
+    example.
 
 ## How to fish it
 

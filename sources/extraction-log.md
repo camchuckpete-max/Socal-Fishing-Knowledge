@@ -2044,7 +2044,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5ppQob4N3Xw | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md: added on-the-water tackle-box field-repair section (reel-seat shim, tip-glue repair, DIY braid line-puller, dental picks, oil, UV flashlight, rail cable/S-hook) plus hook-file bullet, Norm Fujimoto/SearcherSportfishing, medium confidence |
 | 6D_mf5gOfrM | SearcherSportfishing | tutorial | deep | done | none: nothing extractable, pure Fred Hall Show Accurate-reel booth promo/giveaway announcement, no fishing knowledge content |
 | 6T3xZ9vufrM | SearcherSportfishing | tutorial | deep | done | rigging/san-diego-jam-single-vs-double.md; rigging/essential-knots.md / new rig note (San Diego jam single-vs-double selection rule) + companion-video link filled in on essential-knots.md |
-| 6_E5JCRvazc | SearcherSportfishing | tutorial | deep | pending |  |
+| 6_E5JCRvazc | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; techniques/knife-jigging.md / tackle-shop hook/leader/reel/jig-model specifics and a bite-timing heuristic merged as attributed medium-confidence sub-bullets into existing notes |
 | 6wVlDDno2TE | SearcherSportfishing | tutorial | deep | pending |  |
 | 6wbO7qaU3sI | SearcherSportfishing | tutorial | deep | pending |  |
 | 7Ljt-DeFVcs | SearcherSportfishing | tutorial | deep | pending |  |
