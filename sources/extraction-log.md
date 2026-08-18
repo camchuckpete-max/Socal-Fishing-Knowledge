@@ -2019,7 +2019,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 0E9REoTjKrY | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md: Steve Clarkson (Searcher) tip — 16VISX-class reel for angler endurance, 320g glow flat-fall jig w/ big hooks for night bite, 315 lb bluefin observed 59mi off Point Loma |
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | done | techniques/underhand-casting.md; bait/fishing-live-bait.md: new technique note for the underhand/lob cast, linked from fishing-live-bait.md |
 | 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Bob Bauer's pre-trip top-shot-refresh doctrine (cost + fresh line gets bit) merged into existing reel-maintenance note, distinguished from offseason respool section; medium confidence (unregistered channel) |
-| 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | pending |  |
+| 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | done | techniques/fighting-fish-from-the-rail.md; techniques/fighting-big-bluefin.md; techniques/two-speed-low-gear-fight.md / new technique note on rail-bracing/pump-stop-pump fight mechanics (Turner's Outdoorsman via SearcherSportfishing, Capt. Art of the Searcher), cross-linked into the two existing bluefin-fight technique notes |
 | 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | pending |  |
 | 1uYIApdQQSM | SearcherSportfishing | tutorial | deep | pending |  |
 | 1wFoa11jPxQ | SearcherSportfishing | tutorial | deep | pending |  |

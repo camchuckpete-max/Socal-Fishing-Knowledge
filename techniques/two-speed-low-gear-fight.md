@@ -12,8 +12,11 @@ waters: [open-ocean, bank]
 A reel-side counter-move to a hooked big fish getting its nose down and
 circling under the boat — distinct from, and a companion to, the
 boat-driving methods (gear-tap, down-swell walk) in
-[fighting a big bluefin](fighting-big-bluefin.md). Source: Steve Carson
-(Penn), San Diego Rod and Reel Club talk, `9JnIS8HkZlA`, 2023-11-14;
+[fighting a big bluefin](fighting-big-bluefin.md). Assumes the angler is
+already bracing the rod against the boat rail on the
+[pump-and-reel baseline](fighting-fish-from-the-rail.md) and changes what
+happens at the reel and drag, not the rail-bracing itself. Source: Steve
+Carson (Penn), San Diego Rod and Reel Club talk, `9JnIS8HkZlA`, 2023-11-14;
 unregistered channel/speaker, single mention — medium confidence.
 
 ## Mechanism — what "shift to low" actually changes
@@ -106,4 +109,5 @@ soon as that fish is landed.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
+- [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 <!-- backlinks:end -->
