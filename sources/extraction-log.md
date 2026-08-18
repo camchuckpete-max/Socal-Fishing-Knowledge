@@ -2005,7 +2005,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | gimFbgN5Jjk | James Kikkawa | seminar | deep | done | seminar/deep extraction across 8 destinations (7 amended + 1 new tackle note on spiral-wrap guides/narrow reels); one speaker misattribution fixed (Mag Bay bottom-fishing passage reassigned Brian Wen -> Benny Ortiz) |
 | iAr6sbRC384 | Fisher Newb | seminar | deep | done | seminar/deep extraction - wind-retrieve skirted-bait presentation added to rockfish-deep-dropping.md, two regulatory rows (bag limit + RCA depth-boundary line) added to rockfish-lingcod.md and registered in regulatory-claims.md; fixed one invented competitor-weight comparison |
 | lP6cg4eEU6s | Fisher Newb | seminar | deep | done | seminar/deep extraction of bay-bass tide/structure/crankbait/scent doctrine (Sav-On Tackle/IROD), confidence correctly downgraded on promo rod-endorsement content; three unflagged ASR/faithfulness issues found and fixed in place |
-| m-M0iwX8DjA | Your Saltwater Guide | seminar | deep | pending |  |
+| m-M0iwX8DjA | Your Saltwater Guide | seminar | deep | done | Worked-example bait-tank data point (21ft Wellcraft, 60gal) and 0-300ft bluefin sounder-window reasoning + mark-and-troll workflow, dave-hansen medium confidence; one invented causal claim fixed during review |
 | ouBrIdO7d4k | SD Fish and Sips | seminar | deep | pending |  |
 | sIoNELGlxmk | Your Saltwater Guide | seminar | deep | pending |  |
 | ztpj1Xll0-U | Your Saltwater Guide | seminar | deep | pending |  |

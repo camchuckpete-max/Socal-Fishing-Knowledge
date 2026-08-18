@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -217,6 +217,18 @@ the tank vs. choosing one to hook later).
 - Culled dead bait isn't wasted: unless the boat has an unusually large bait
   supply, save it in a bucket (a 5-gallon bucket covers most boats) and use it
   for chum through the day, including chumming on the anchor.
+
+## Worked example — Dave Hansen's 21 ft Wellcraft (Dana Point)
+
+A concrete "size it as big as the boat can carry" data point at the small end
+of the ladder, complementing the ~360-gal sportboat figure above and Cameron's
+30-gal panga below: on his own **21 ft Wellcraft**, based in **Dana Point**,
+Dave Hansen runs a **60-gallon bait tank** (dave-hansen, Your Saltwater Guide,
+live seminar, 2024 Fred Hall Show, `m-M0iwX8DjA`, 2024-01-27; registered
+voice — corroborates the "biggest tank the boat can carry" doctrine above, but
+this specific 21 ft → 60-gal figure is a single mention, medium confidence).
+The same 21 ft Wellcraft is the anchor-weight worked example (12 lb anchor) in
+[search and glassing](../planning/search-and-glassing.md).
 
 ## Worked example — Cameron's panga tank
 

@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA]
 confidence: high
 ---
 
@@ -124,6 +124,28 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   pre-set to auto (Capt. Dave Hansen, live seminar, Fred Hall Show 2019,
   filmed by Utah Spahghettzi Björker, `8XrMkWPRxgs`, 2019-03-12).
 
+- **Why the 0–300 ft bluefin window works — and the mark → GPS mark → troll
+  workflow.** A live-seminar elaboration of the 0–150/0–300 ft manual-range
+  rule above, giving the reasoning rather than just the number: fished at
+  auto over a typical bluefin bottom (he cites **2,000–3,000 ft**), the
+  screen reads zero at the top and the real bottom at the edge, and **10 tons
+  of bluefin sounded through simply doesn't show** — compressed to nothing
+  against that scale. Manually capping the range at **0–300 ft** instead
+  paints them. The stated reason to stop at 300 ft rather than read deeper:
+  fish **below 300 ft are traveling, not biting** — "the last thing they want
+  to do is get in the [ice bag]"; fish holding in the **300 ft-to-surface
+  band** are the ones eager to bite. Hansen's stated reasoning is a half-joking
+  personification, not a claim that warm water drives fish into that band in
+  the first place: he frames the shallow fish as wanting to escape water
+  that's uncomfortably hot where they're already sitting by getting caught —
+  "this water is so hot, we got to get out." Once a
+  mark shows in that shallow band, **hit the GPS unit's mark button**, run
+  past it, turn around, and troll back over the mark with a
+  [Mad Mac](../lures/mad-mac.md) (dave-hansen, Your Saltwater Guide, live
+  seminar, 2024 Fred Hall Show, `m-M0iwX8DjA`, 2024-01-27; registered voice —
+  the core manual-range-for-bluefin rule is repeated/high per the citations
+  above; this specific reasoning and the mark-button-then-troll workflow are a
+  single mention, medium confidence).
 - **Size manual range so the bottom sits mid-screen, not at the edge.**
   Dave Hansen's baseline method: whatever the actual depth, pick a manual
   range that lands the bottom roughly in the middle of the screen rather than
