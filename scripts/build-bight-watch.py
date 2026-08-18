@@ -13,7 +13,9 @@ Static snapshot — re-run to refresh while the ingestion chain works.
 from __future__ import annotations
 
 import argparse
+import csv
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -39,6 +41,121 @@ FOLDER_COLOR = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Diffs. Two views of the same history:
+#   * per-note  — cumulative change vs the base, answering "what did this run
+#                 do to this page?"
+#   * per-video — one extraction commit, answering "what did this video teach
+#                 the knowledgebase?"
+# Added files carry no diff: the whole page is the change, and the rendered
+# article already shows it.
+
+DIFF_LINE_CAP = 600  # per note and per video; overflow is reported, not hidden
+
+_SKIP_HEADERS = ("index ", "--- ", "+++ ", "new file", "deleted file",
+                 "similarity ", "rename ", "old mode", "new mode")
+
+
+def _parse_diff(raw: str, cap: int = DIFF_LINE_CAP):
+    """git diff text -> ([{path, hunks:[{at, lines}]}], lines omitted)."""
+    files, cur, hunk, used, dropped = [], None, None, 0, 0
+    for line in raw.splitlines():
+        if line.startswith("diff --git "):
+            cur = {"path": line.split(" b/")[-1], "hunks": []}
+            files.append(cur)
+            hunk = None
+            continue
+        if cur is None or line.startswith(_SKIP_HEADERS):
+            continue
+        if line.startswith("@@"):
+            hunk = {"at": line.split("@@")[1].strip(), "lines": []}
+            cur["hunks"].append(hunk)
+            continue
+        if hunk is None:
+            continue
+        if used >= cap:
+            dropped += 1
+            continue
+        hunk["lines"].append(line or " ")
+        used += 1
+    for f in files:
+        f["hunks"] = [h for h in f["hunks"] if h["lines"]]
+    return [f for f in files if f["hunks"]], dropped
+
+
+def _counts(files: list) -> tuple[int, int]:
+    lines = [l for f in files for h in f["hunks"] for l in h["lines"]]
+    return (sum(1 for l in lines if l[:1] == "+"),
+            sum(1 for l in lines if l[:1] == "-"))
+
+
+def collect_note_diffs(base: str, files: list[dict]) -> dict:
+    """Cumulative diff vs the base for every note this run modified."""
+    out = {}
+    for f in files:
+        if f["status"] != "modified":
+            continue
+        parsed, dropped = _parse_diff(
+            _bv.git("diff", "--unified=2", f"{base}...HEAD", "--", f["path"]))
+        if not parsed:
+            continue
+        add, rem = _counts(parsed)
+        out[f["path"]] = {"hunks": parsed[0]["hunks"], "add": add, "rem": rem,
+                          "dropped": dropped}
+    return out
+
+
+VIDEO_COMMIT = re.compile(r"^batch\d+: (\S+) ")
+
+
+def collect_video_diffs(base: str, worklist: list[dict], titles: dict,
+                        keep: int = 200):
+    """One entry per video whose extraction commit lives on this branch."""
+    log = _bv.git("log", f"{base}..HEAD", "--date=iso-strict",
+                  "--pretty=format:%h\x1f%ad\x1f%s")
+    by_video = {}
+    for line in log.splitlines():
+        parts = line.split("\x1f")
+        if len(parts) >= 3:
+            m = VIDEO_COMMIT.match(parts[2])
+            if m:
+                by_video.setdefault(m.group(1), (parts[0], parts[1], parts[2]))
+
+    meta = {r["video"]: r for r in worklist}
+    order = [r["video"] for r in worklist if r["video"] in by_video][::-1]
+    skipped = max(0, len(order) - keep)
+
+    vids = []
+    for vid in order[:keep]:
+        sha, when, subject = by_video[vid]
+        parsed, dropped = _parse_diff(
+            _bv.git("show", sha, "--format=", "--unified=2", "--", "*.md",
+                    ":(exclude)sources/transcripts"))
+        add, rem = _counts(parsed)
+        row = meta.get(vid, {})
+        vids.append({"v": vid, "sha": sha, "when": when, "msg": subject,
+                     "ch": row.get("channel", ""), "cls": row.get("cls", ""),
+                     "depth": row.get("depth", ""), "result": row.get("result", ""),
+                     "title": titles.get(vid, ""), "files": parsed,
+                     "add": add, "rem": rem, "dropped": dropped})
+    return vids, skipped
+
+
+def load_titles() -> dict:
+    """Video titles, from every landed manifest."""
+    titles: dict[str, str] = {}
+    for man in ROOT.glob("sources/transcripts/**/_manifest.csv"):
+        try:
+            with man.open(encoding="utf-8", newline="") as fh:
+                for row in csv.DictReader(fh):
+                    vid = (row.get("video_id") or "").strip()
+                    if vid and row.get("title"):
+                        titles.setdefault(vid, row["title"].strip())
+        except OSError:
+            continue
+    return titles
+
+
 def build(base: str) -> dict:
     snap = _bv.build_snapshot(base)
     # Which notes did the most recent commits touch? Those ping on the sonar.
@@ -53,6 +170,9 @@ def build(base: str) -> dict:
     snap["ondeck"] = [r for r in wl if r["status"] == "pending"][:14]
     snap["folderColor"] = FOLDER_COLOR
     snap["runs"] = []
+    snap["diffs"] = collect_note_diffs(base, snap["files"])
+    snap["videos"], snap["videosOmitted"] = collect_video_diffs(
+        base, wl, load_titles())
     return snap
 
 
@@ -145,6 +265,8 @@ button{font-family:inherit;cursor:pointer}
 .clockbox{text-align:right}
 .clock{font-family:var(--mono);font-size:13px;color:var(--ink2);font-variant-numeric:tabular-nums}
 .stamp{font-size:10.5px;color:var(--muted)}
+.linkbtn{background:none;border:none;padding:0 0 0 2px;font:inherit;color:var(--accent-ink);
+  font-weight:600;text-decoration:underline}
 .mono{font-family:var(--mono)}
 .help{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);border-radius:8px;
   width:32px;height:32px;font-size:15px}
@@ -195,6 +317,51 @@ main{flex:1;display:flex;min-height:0}
 .darticle table{border-collapse:collapse;font-size:12px;min-width:100%}
 .darticle th{background:var(--panel2);text-align:left;color:var(--ink2);font-weight:600}
 .darticle th,.darticle td{padding:5px 9px;border-bottom:1px solid var(--hair);vertical-align:top}
+
+/* panel navigation — the slide-over is a stack: list -> video -> page */
+.dback{background:none;border:none;color:var(--accent-ink);font-size:12px;padding:0 0 4px;
+  font-weight:600}
+.dtabs{display:flex;gap:6px;margin-top:10px}
+.dtab{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);border-radius:8px;
+  padding:4px 11px;font-size:12px;font-weight:600}
+.dtab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.seemore{display:block;width:100%;margin-top:9px;background:var(--panel2);border:1px solid var(--hair);
+  border-radius:8px;padding:6px 9px;font-size:12px;font-weight:600;color:var(--accent-ink);
+  text-align:left}
+.seemore:hover{border-color:var(--accent)}
+
+/* diffs — the point of the whole screen: what actually changed */
+.dfile{border:1px solid var(--hair);border-radius:10px;margin:0 0 12px;overflow:hidden}
+.dfile > summary{padding:8px 11px;background:var(--panel2);cursor:pointer;font-size:12.5px;
+  display:flex;gap:9px;align-items:center;list-style:none}
+.dfile > summary::-webkit-details-marker{display:none}
+.dfile > summary::before{content:"▸";color:var(--muted);font-size:11px}
+.dfile[open] > summary::before{content:"▾"}
+.dfile .fp{font-family:var(--mono);font-size:11.5px;color:var(--ink);overflow-wrap:anywhere}
+.plus{color:var(--good);font-family:var(--mono);font-size:11px;font-weight:600}
+.minus{color:var(--critical);font-family:var(--mono);font-size:11px;font-weight:600}
+.hunk{border-top:1px solid var(--hair)}
+.hunk .at{font-family:var(--mono);font-size:10.5px;color:var(--muted);padding:4px 11px;
+  background:color-mix(in srgb,var(--panel2) 60%,transparent)}
+.dl{font-family:var(--mono);font-size:11.5px;line-height:1.5;padding:1px 11px 1px 22px;
+  white-space:pre-wrap;overflow-wrap:anywhere;position:relative;color:var(--ink2)}
+.dl::before{position:absolute;left:8px;color:var(--muted)}
+.dl.add{background:color-mix(in srgb,var(--good) 15%,transparent);color:var(--ink)}
+.dl.add::before{content:"+";color:var(--good)}
+.dl.del{background:color-mix(in srgb,var(--critical) 13%,transparent);color:var(--ink2)}
+.dl.del::before{content:"−";color:var(--critical)}
+.dnote{font-size:11.5px;color:var(--muted);padding:7px 11px;border-top:1px solid var(--hair)}
+.vrow{display:block;width:100%;text-align:left;background:none;border:none;border-bottom:1px solid var(--hair);
+  padding:8px 2px;font-size:12.5px;color:var(--ink)}
+.vrow:last-child{border-bottom:none}
+.vrow:hover{background:var(--panel2)}
+.vrow .vt{display:block;font-weight:600;overflow-wrap:anywhere}
+.vrow .vm{display:block;color:var(--muted);font-size:11px;font-family:var(--mono);margin-top:2px}
+.filt{width:100%;background:var(--panel2);border:1px solid var(--hair);border-radius:8px;
+  padding:7px 10px;font:13px var(--sans);color:var(--ink);margin-bottom:10px}
+.ghead{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+  margin:16px 0 5px}
+.ghead:first-child{margin-top:0}
 
 /* right rail */
 .rail{width:340px;flex:none;border-left:1px solid var(--hair);background:var(--panel);
@@ -260,7 +427,8 @@ main{flex:1;display:flex;min-height:0}
     <div class="spacer"></div>
     <div class="clockbox">
       <div class="clock" id="clock">--:--:-- UTC</div>
-      <div class="stamp">snapshot <span class="mono" id="gen"></span> · static — ask Cameron to refresh</div>
+      <div class="stamp">snapshot <span class="mono" id="gen"></span> · <span id="age"></span>
+        <button class="linkbtn" id="refresh" title="Reload — on the live build this pulls the newest snapshot">refresh</button></div>
     </div>
     <button class="help" id="themebtn" aria-label="Toggle day / night mode">☾</button>
     <button class="help" id="helpbtn" aria-label="What am I looking at?">?</button>
@@ -274,9 +442,11 @@ main{flex:1;display:flex;min-height:0}
       <div class="detail" id="detail" role="dialog" aria-label="Page detail">
         <button class="dclose" id="dclose" aria-label="Close">✕</button>
         <div class="dhead">
+          <button class="dback" id="dback" hidden>← <span id="dbacktext"></span></button>
           <h2 class="dtitle" id="dtitle"></h2>
           <div class="dpath mono" id="dpath"></div>
           <div class="dmeta" id="dmeta"></div>
+          <div class="dtabs" id="dtabs" hidden></div>
         </div>
         <div class="darticle" id="darticle"></div>
       </div>
@@ -286,13 +456,16 @@ main{flex:1;display:flex;min-height:0}
         <h2>Extraction progress<span class="sp"></span><span class="sub" id="pcttext"></span></h2>
         <div class="meter" id="meter"></div>
         <div class="tally" id="tally"></div>
+        <button class="seemore" id="seevideos">See the videos we've read →</button>
       </div>
       <div class="card" id="chaincard" hidden><h2>Chain<span class="sp"></span><span class="sub" id="chainsub"></span></h2>
         <div id="runs"></div></div>
       <div class="card"><h2>Pages written<span class="sp"></span><span class="sub" id="newsub"></span></h2>
-        <div id="newlist" class="mut"></div></div>
+        <div id="newlist" class="mut"></div>
+        <button class="seemore" id="seepages">See every page this run touched →</button></div>
       <div class="card"><h2>Logged videos<span class="sp"></span><span class="sub" id="donesub"></span></h2>
-        <div id="donelist" class="mut"></div></div>
+        <div id="donelist" class="mut"></div>
+        <button class="seemore" id="seevideos2">See all read videos →</button></div>
       <div class="card"><h2>On deck</h2><div id="upnext" class="mut"></div></div>
       <div class="card"><h2>Activity<span class="sp"></span><span class="sub" id="feedsub"></span></h2>
         <div id="feed"></div></div>
@@ -322,6 +495,17 @@ document.getElementById('introN').textContent=totalVid.toLocaleString();
 document.getElementById('subline').textContent=
   `${done.toLocaleString()} of ${totalVid.toLocaleString()} videos read into the knowledgebase`;
 document.getElementById('gen').textContent=D.generatedAt.replace('T',' ').replace('Z',' UTC');
+/* Say how stale this snapshot is rather than claiming it is live. The hosted
+   build refreshes itself hourly, so a reload really does pull newer data
+   there; in a static copy the reload is honest about changing nothing. */
+document.getElementById('refresh').onclick=()=>location.reload();
+(function age(){
+  const mins=Math.max(0,Math.round((Date.now()-Date.parse(D.generatedAt))/60000));
+  const t=mins<2?'just now':mins<60?mins+' min old':
+    mins<2880?Math.round(mins/60)+' h old':Math.round(mins/1440)+' days old';
+  document.getElementById('age').textContent=t+' ·';
+  setTimeout(age,60000);
+})();
 const cd=document.getElementById('chaindot'), ct=document.getElementById('chaintext');
 if(pend>0){cd.className='dot wait';ct.textContent=`${pend.toLocaleString()} queued`;}
 else{cd.className='dot ok';ct.textContent='worklist clear';}
@@ -355,7 +539,8 @@ document.getElementById('newlist').innerHTML=newNotes.length
   : 'None yet.';
 document.getElementById('donesub').textContent=`${done} read`;
 document.getElementById('donelist').innerHTML=D.done.length
-  ? D.done.slice(0,18).map(r=>`<div class="row"><span class="vid">${esc(r.video)}</span>
+  ? D.done.slice(0,18).map(r=>`<div class="row" data-vid="${esc(r.video)}"
+      ${(D.videos||[]).some(v=>v.v===r.video)?'style="cursor:pointer"':''}><span class="vid">${esc(r.video)}</span>
       <span class="txt">${esc(r.result||r.cls)}</span></div>`).join('')
   : 'Nothing logged yet.';
 document.getElementById('upnext').innerHTML=D.ondeck.length
@@ -363,9 +548,12 @@ document.getElementById('upnext').innerHTML=D.ondeck.length
       <span class="txt">${esc(r.channel)} · ${esc(r.depth)}</span></div>`).join('')
   : 'Worklist clear.';
 document.getElementById('feedsub').textContent=`${D.commits.length} commits`;
-document.getElementById('feed').innerHTML=D.commits.slice(0,16).map(c=>
-  `<div class="row"><span class="vid">${esc(c.sha)}</span><span class="txt">${esc(c.msg)}</span>
-   <span class="when">${esc((c.when||'').slice(5,10))}</span></div>`).join('');
+document.getElementById('feed').innerHTML=D.commits.slice(0,16).map(c=>{
+  const m=c.msg.match(/^batch\d+: (\S+) /);
+  const hit=m&&(D.videos||[]).some(v=>v.v===m[1]);
+  return `<div class="row"${hit?` data-vid="${esc(m[1])}" style="cursor:pointer"`:''}>`+
+   `<span class="vid">${esc(c.sha)}</span><span class="txt">${esc(c.msg)}</span>
+   <span class="when">${esc((c.when||'').slice(5,10))}</span></div>`;}).join('');
 const escThis=D.escalations.filter(e=>e.thisBatch);
 document.getElementById('escsub').textContent=`${escThis.length} this batch`;
 document.getElementById('escs').innerHTML=escThis.length
@@ -412,30 +600,152 @@ function mdToHtml(src){
   return o.join('\n');
 }
 const det=document.getElementById('detail');
-function open(path){
+const body=document.getElementById('darticle'), dtabs=document.getElementById('dtabs'),
+      dback=document.getElementById('dback'), dbacktext=document.getElementById('dbacktext');
+const videos=D.videos||[], byVideo=new Map(videos.map(v=>[v.v,v]));
+const diffs=D.diffs||{};
+
+/* Rendering a diff. Added lines green, removed red, context plain — the
+   highlighting IS the review surface, so it stays legible in both themes. */
+function diffHunks(hunks,dropped){
+  const h=hunks.map(k=>`<div class="hunk"><div class="at">${esc(k.at)}</div>`+
+    k.lines.map(l=>{const c=l[0]==='+'?'add':l[0]==='-'?'del':'';
+      return `<div class="dl ${c}">${esc(l.slice(1))}</div>`;}).join('')+`</div>`).join('');
+  return h+(dropped?`<div class="dnote">${dropped.toLocaleString()} more changed lines not shown — the page itself has them all.</div>`:'');
+}
+function diffFile(path,d,openFirst){
+  return `<details class="dfile"${openFirst?' open':''}>`+
+    `<summary><span class="fp">${esc(path)}</span><span class="sp" style="flex:1"></span>`+
+    `<span class="plus">+${d.add}</span><span class="minus">−${d.rem}</span></summary>`+
+    diffHunks(d.hunks,d.dropped)+`</details>`;
+}
+
+/* The panel is a stack. Back returns to wherever you came from. */
+let back=null;
+function show(o){
+  document.getElementById('dtitle').textContent=o.title;
+  document.getElementById('dpath').textContent=o.path||'';
+  document.getElementById('dmeta').innerHTML=o.meta||'';
+  dtabs.hidden=!o.tabs; dtabs.innerHTML=o.tabs||'';
+  dback.hidden=!o.back; if(o.back)dbacktext.textContent=o.back.label;
+  dback.onclick=o.back?o.back.go:null;
+  body.innerHTML=o.html; body.scrollTop=0;
+  det.classList.add('open');
+}
+
+/* a knowledgebase page — the article, and what this run changed in it */
+function open(path,tab,from){
   const f=byPath.get(path); if(!f) return;
+  if(from!==undefined)back=from;
   const fm=f.fm||{}, tags=[];
   if(fm.type)tags.push(`<span class="tag">${esc(fm.type)}</span>`);
   if(fm.confidence)tags.push(`<span class="tag ${esc(fm.confidence)}">${esc(fm.confidence)}</span>`);
   (fm.regions||[]).forEach(r=>tags.push(`<span class="tag">${esc(r)}</span>`));
   (fm.waters||[]).forEach(w=>tags.push(`<span class="tag">${esc(w)}</span>`));
   if(f.status!=='unchanged')tags.push(`<span class="tag">${f.status} this batch</span>`);
-  document.getElementById('dtitle').textContent=f.title;
-  document.getElementById('dpath').textContent=f.path;
-  document.getElementById('dmeta').innerHTML=tags.join('');
-  document.getElementById('darticle').innerHTML=mdToHtml(f.content||'');
-  document.querySelectorAll('#darticle a[data-nav]').forEach(a=>a.onclick=ev=>{
+  const d=diffs[path], isNew=f.status==='added';
+  tab=tab||'page';
+  let tabs='';
+  if(d||isNew){
+    const cl=isNew?'new page':`+${d.add} −${d.rem}`;
+    tabs=`<button class="dtab" data-tab="page" aria-selected="${tab==='page'}">Page</button>`+
+         `<button class="dtab" data-tab="diff" aria-selected="${tab==='diff'}">Changes · ${esc(cl)}</button>`;
+  }
+  let html;
+  if(tab==='diff'){
+    html=isNew
+      ? `<div class="dnote" style="border:none">Written from scratch this run — the whole page below is new.</div>`+mdToHtml(f.content||'')
+      : diffFile(path,d,true);
+  } else html=mdToHtml(f.content||'');
+  show({title:f.title,path:path,meta:tags.join(''),tabs:tabs,html:html,back:back});
+  dtabs.querySelectorAll('.dtab').forEach(b=>b.onclick=()=>open(path,b.dataset.tab));
+  body.querySelectorAll('a[data-nav]').forEach(a=>a.onclick=ev=>{
     ev.preventDefault();
     const raw=a.dataset.nav.split('#')[0], here=path.includes('/')?path.split('/').slice(0,-1):[];
     const st=[];here.concat(raw.split('/')).forEach(p=>p==='..'?st.pop():(p==='.'?0:st.push(p)));
     open(st.join('/'));});
-  det.classList.add('open');
-  document.getElementById('darticle').scrollTop=0;
 }
+
+/* one video — every page its extraction touched, changes highlighted */
+function openVideo(v,from){
+  const x=byVideo.get(v); if(!x) return;
+  if(from!==undefined)back=from;
+  const tags=[x.ch,x.cls,x.depth].filter(Boolean)
+    .map(t=>`<span class="tag">${esc(t)}</span>`).join('')+
+    `<span class="tag">${x.files.length} page${x.files.length===1?'':'s'}</span>`+
+    `<span class="tag"><span class="plus">+${x.add}</span> <span class="minus">−${x.rem}</span></span>`;
+  const res=(x.result||'').split(' / ').slice(1).join(' / ')||x.result||'';
+  const head=`<p class="mut" style="margin:0 0 6px">${esc(x.when.slice(0,10))} · commit <code>${esc(x.sha)}</code> · `+
+    `<a href="https://www.youtube.com/watch?v=${encodeURIComponent(v)}" target="_blank" rel="noopener">watch on YouTube</a></p>`+
+    (res?`<p style="margin:0 0 14px">${esc(res)}</p>`:'');
+  const files=x.files.length
+    ? x.files.map((f,i)=>{const [a,r]=[f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='+').length,0),
+                                      f.hunks.reduce((n,h)=>n+h.lines.filter(l=>l[0]==='-').length,0)];
+        return diffFile(f.path,{hunks:f.hunks,add:a,rem:r,dropped:0},i===0);}).join('')
+      +(x.dropped?`<div class="dnote">${x.dropped.toLocaleString()} more changed lines not shown.</div>`:'')
+    : `<p class="mut">No page changes recorded for this video — it was logged as skipped or yielded nothing.</p>`;
+  show({title:x.title||v,path:v,meta:tags,html:head+files,
+        back:back||{label:'All videos',go:()=>openVideoList()}});
+  body.querySelectorAll('.fp').forEach(el=>{el.style.cursor='pointer';
+    el.onclick=ev=>{ev.stopPropagation();ev.preventDefault();
+      if(byPath.has(el.textContent))open(el.textContent,'diff',{label:x.title||v,go:()=>openVideo(v)});};});
+}
+
+/* the list of videos already read */
+function openVideoList(){
+  back=null;
+  const rows=videos.map(x=>`<button class="vrow" data-v="${esc(x.v)}">`+
+    `<span class="vt">${esc(x.title||x.v)}</span>`+
+    `<span class="vm">${esc(x.ch||'')} · ${esc(x.when.slice(0,10))} · ${x.files.length} page${x.files.length===1?'':'s'} `+
+    `<span class="plus">+${x.add}</span> <span class="minus">−${x.rem}</span></span></button>`).join('');
+  const omitted=D.videosOmitted?`<div class="dnote">${D.videosOmitted} earlier videos are not listed here — the page keeps diffs for the ${videos.length} most recent.</div>`:'';
+  show({title:'Videos read',path:`${videos.length} with a recorded extraction`,
+        html:`<input class="filt" id="vfilt" placeholder="Filter by title, channel or id…">`+
+             `<div id="vlist">${rows}</div>`+omitted});
+  const f=document.getElementById('vfilt');
+  f.oninput=()=>{const q=f.value.toLowerCase();
+    document.querySelectorAll('#vlist .vrow').forEach(b=>{
+      b.hidden=q&&!b.textContent.toLowerCase().includes(q)&&!b.dataset.v.toLowerCase().includes(q);});};
+  document.querySelectorAll('#vlist .vrow').forEach(b=>
+    b.onclick=()=>openVideo(b.dataset.v,{label:'All videos',go:()=>openVideoList()}));
+}
+
+/* every page the run touched, new and edited, grouped by folder */
+function openPageList(){
+  back=null;
+  const touched=D.files.filter(f=>f.status!=='unchanged');
+  const byFolder=new Map();
+  touched.forEach(f=>{const k=f.path.includes('/')?f.path.split('/')[0]:'root';
+    (byFolder.get(k)||byFolder.set(k,[]).get(k)).push(f);});
+  const html=[...byFolder.entries()].sort((a,b)=>a[0].localeCompare(b[0])).map(([k,fs])=>
+    `<div class="ghead">${esc(k)} · ${fs.length}</div>`+
+    fs.sort((a,b)=>a.title.localeCompare(b.title)).map(f=>{const d=diffs[f.path];
+      const badge=f.status==='added'?'<span class="plus">new</span>'
+        :d?`<span class="plus">+${d.add}</span> <span class="minus">−${d.rem}</span>`:'';
+      return `<button class="vrow" data-page="${esc(f.path)}"><span class="vt">${esc(f.title)}</span>`+
+        `<span class="vm">${esc(f.path)} ${badge}</span></button>`;}).join('')).join('');
+  const nNew=touched.filter(f=>f.status==='added').length;
+  show({title:'Pages this run touched',
+        path:`${nNew} written from scratch · ${touched.length-nNew} edited`,
+        html:`<input class="filt" id="pfilt" placeholder="Filter by title or path…"><div id="plist">${html}</div>`});
+  const f=document.getElementById('pfilt');
+  f.oninput=()=>{const q=f.value.toLowerCase();
+    document.querySelectorAll('#plist .vrow').forEach(b=>
+      b.hidden=q&&!b.textContent.toLowerCase().includes(q));};
+  document.querySelectorAll('#plist .vrow').forEach(b=>b.onclick=()=>
+    open(b.dataset.page,diffs[b.dataset.page]?'diff':'page',{label:'All pages',go:()=>openPageList()}));
+}
+
+document.getElementById('seevideos').onclick=()=>openVideoList();
+document.getElementById('seevideos2').onclick=()=>openVideoList();
+document.getElementById('seepages').onclick=()=>openPageList();
 document.getElementById('dclose').onclick=()=>det.classList.remove('open');
 addEventListener('keydown',e=>{if(e.key==='Escape')det.classList.remove('open');});
-document.addEventListener('click',e=>{const b=e.target.closest('[data-p]');
-  if(b&&byPath.has(b.dataset.p))open(b.dataset.p);});
+document.addEventListener('click',e=>{
+  const v=e.target.closest('[data-vid]');
+  if(v&&byVideo.has(v.dataset.vid)){openVideo(v.dataset.vid,null);return;}
+  const b=e.target.closest('[data-p]');
+  if(b&&byPath.has(b.dataset.p))open(b.dataset.p,null,null);});
 
 /* intro */
 const intro=document.getElementById('intro');
