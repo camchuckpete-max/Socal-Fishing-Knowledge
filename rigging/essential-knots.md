@@ -159,10 +159,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
   reason to avoid it for live bait:** the finished knot is bulky enough that
   it "doesn't bode well for presenting a live bait" — for live bait, tie a
   **single jam knot** instead (this clip names it as the live-bait
-  alternative but doesn't demonstrate or describe its construction — that's
-  covered in a companion video, "Tackle Tip Thursday Vol.182 (Single or
-  Double Jam Knot?)," `6T3xZ9vufrM`, 2022-05-19, not yet extracted in this
-  KB). **Wrap-count corroboration:**
+  alternative but doesn't demonstrate or describe its construction — see
+  [San Diego Jam — Single vs. Double](san-diego-jam-single-vs-double.md) for
+  the companion video's selection rule and stated reason, a size/bulk
+  argument: the doubled knot runs about three times the size of the single
+  on the same hook). **Wrap-count corroboration:**
   demoed at just 3 wraps "for demonstration purposes," but stated as
   under-built for real use — "you're probably going at least a half a dozen"
   (6) wraps with 80, 100, or 130 lb test, matching the 6-wrap figure already
@@ -532,6 +533,7 @@ and [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/wat
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
+- [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)

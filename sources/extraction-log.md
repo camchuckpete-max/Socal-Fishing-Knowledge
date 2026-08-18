@@ -2043,7 +2043,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5pbA-wXoric | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md: added Steve Carson's Fred Hall Show hookset instruction (don't set hook, keep cranking) and line-class reasoning to mechanics |
 | 5ppQob4N3Xw | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md: added on-the-water tackle-box field-repair section (reel-seat shim, tip-glue repair, DIY braid line-puller, dental picks, oil, UV flashlight, rail cable/S-hook) plus hook-file bullet, Norm Fujimoto/SearcherSportfishing, medium confidence |
 | 6D_mf5gOfrM | SearcherSportfishing | tutorial | deep | done | none: nothing extractable, pure Fred Hall Show Accurate-reel booth promo/giveaway announcement, no fishing knowledge content |
-| 6T3xZ9vufrM | SearcherSportfishing | tutorial | deep | pending |  |
+| 6T3xZ9vufrM | SearcherSportfishing | tutorial | deep | done | rigging/san-diego-jam-single-vs-double.md; rigging/essential-knots.md / new rig note (San Diego jam single-vs-double selection rule) + companion-video link filled in on essential-knots.md |
 | 6_E5JCRvazc | SearcherSportfishing | tutorial | deep | pending |  |
 | 6wVlDDno2TE | SearcherSportfishing | tutorial | deep | pending |  |
 | 6wbO7qaU3sI | SearcherSportfishing | tutorial | deep | pending |  |

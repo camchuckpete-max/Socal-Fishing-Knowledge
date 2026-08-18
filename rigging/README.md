@@ -15,6 +15,7 @@
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md) **[SoCal only]** — Two knotless connections made possible by hollow-core braid, both relying on the same finger-trap principle: braid woven around a buried line clamps tighter as
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
+- [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
 - [Tuna Feather Rig](tuna-feather-rig.md) **[SoCal only]** — Rigging a tuna feather — a West Coast trolling staple.
@@ -39,20 +40,23 @@ graph LR
   n8["Hollow-Core Splice & Serving"]
   n9["Leadhead Mods & Rigging"]
   n10["Rubber-Band Deep Rig"]
-  n11["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n12["Trap Rig"]
-  n13["Tuna Feather Rig"]
-  n14["Wind-On Leader"]
-  n15["Wiring a Surface Iron"]
+  n11["San Diego Jam — Single vs. Double, and When to Use Each"]
+  n12["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n13["Trap Rig"]
+  n14["Tuna Feather Rig"]
+  n15["Wind-On Leader"]
+  n16["Wiring a Surface Iron"]
   n1 --> n2
   n10 --> n4
   n11 --> n4
-  n15 --> n7
+  n12 --> n4
+  n16 --> n7
   n2 --> n1
   n2 --> n7
   n4 --> n10
   n4 --> n11
-  n4 --> n14
-  n8 --> n14
+  n4 --> n12
+  n4 --> n15
+  n8 --> n15
 ```
 <!-- mermaid:end -->
