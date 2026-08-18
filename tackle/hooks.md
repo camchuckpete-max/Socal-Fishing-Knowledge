@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg]
 confidence: medium
 ---
 
@@ -270,6 +270,21 @@ by line class rather than by bait or technique — full rig context in
   land [one]" — the circle hook's corner-of-the-mouth hookset keeps the
   leader off the teeth.
 
+### Gamakatsu Nautilus as a lighter-wire alternative to Owner, for small/weak flyline bait (Capt. Matt, SD Fish and Sips, `G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium confidence)
+
+Not associated with the brand, per the source — a straightforward gear
+report. He frames **Owner** (the Mutu circle hook doctrine above) as "the
+industry standard" for bluefin fished on **40 or 50 lb test, sometimes
+30 lb**, with bigger bait. But across the small/weak sardine seasons of
+2022–2023 specifically (see the note on that bait state in
+[bluefin rig ladder by grade — daytime, 25 lb setup](bluefin-rig-ladder-by-grade.md#daytime-rig-ladder-by-grade-capt-matt-sd-fish-and-sips)),
+he relied heavily instead on the **Gamakatsu Nautilus** — a **lighter-wire**
+circle hook than the Owner. Sized **4 through 3/0**, matched to line size and
+bait size. With small bait in the well, he was able to fish it down to
+**size 4, size 2, and size 1** and still give fish a full fight and land
+them effectively — a lighter wire holding up on small hook sizes, not just
+a smaller Owner substituted in.
+
 ### Live squid for white seabass (m2q22sPPkEM)
 
 Rig squid on an **orange lead head with a ~6/0 thin-wire hook**, or a **4/0 hook
@@ -431,6 +446,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

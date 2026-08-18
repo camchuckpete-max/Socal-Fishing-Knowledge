@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig]
-sources: [9JnIS8HkZlA, Et2TUskzCSs]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg]
 confidence: medium
 ---
 
@@ -171,6 +171,113 @@ Cross-reference: [knife / speed jigging](../techniques/knife-jigging.md) and
 these classes are fished with; [gear classes](gear-classes.md) is the
 class-term lexicon this ladder feeds.
 
+## Daytime rig ladder by grade (Capt. Matt, SD Fish and Sips)
+
+A third, daytime-specific ladder — Capt. Matt, co-presenting a Pacific Coast
+Fishing Show seminar alongside Capt. Gavin of the **Pacific Queen**
+(`G1YIlakiRqg`, SD Fish and Sips, "Tactics for Bluefin Tuna Fishing," uploaded
+2024-03-13; unregistered channel/speakers — medium confidence). His boat's
+stated daytime range runs **5 lb up to 200+ lb bluefin/yellowfin in the same
+season**, so he works bottom-up, lightest to heaviest, rather than naming one
+do-it-all rig. Read alongside, not merged with, the Steve Carson ladder above
+— a second attributed voice on the same problem.
+
+- **25 lb all-purpose flyline setup.** An **8–8.5 ft rod rated 15–30 lb or
+  15–40 lb** (his own favorite: a Calstar L-series — 700/800/850/900 — the
+  **850L** specifically) on a **two-speed Fathom 15** reel. **30 lb braid to
+  15–25 ft of fluorocarbon.** His stated leader reasoning: long enough that
+  the fish doesn't see the Spectra, short enough that a flylined sardine
+  doesn't have to pull a lot of thicker line through the water — "the happy
+  medium." He now runs two-speed even at this light class (he did not
+  previously), reasoning that 25 lb-class SoCal bluefin trips regularly hook
+  40–60, even 80 lb fish on 25 lb test; corroborating data point in
+  [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md).
+  Fish to **80 lb** landed on this exact setup.
+- **Same style, bumped one size.** A **Fathom 15 Narrow** — a bigger-bodied
+  reel with about the same line capacity as the regular Fathom 15 above but
+  bigger gears/drag, more suited to bigger fish — with **40 lb braid to
+  15–25 ft, sometimes 30–40 lb** fluorocarbon, on a **Seeker T80** rod
+  (roughly **8'6", rated 20–50 lb**).
+- **40 lb setup.** For **30–60 lb fish**, more aggressive fish, or bigger
+  bait: a **Fathom 25** reel with **40 lb Spectra** on a **Calstar 6480** rod,
+  **15–25 ft** fluorocarbon leader — same happy-medium leader-length logic as
+  above.
+- **50–60 lb jig setup.** For **Colt Sniper-style (or any style) jig**
+  fishing, springtime **15–80 lb-class** fish: a **Talica 12** reel, **50 lb
+  Spectra**, **7–8 ft rod rated 30–60 lb or 40–80 lb**. **Leader run longer
+  for jig fishing specifically — 30–40 ft of fluorocarbon** — his reasoning:
+  a longer fluoro leader (invisible underwater) draws more bites, but too
+  long and the bait/lure has to pull more thick line off the reel and the
+  lure sinks slower under the extra fluoro's drag; 30–40 ft is the happy
+  medium for a lure to fall correctly without being weighed down.
+- **Sinker-rig setup.** For fish marked deep: a **7–8 ft rod rated 40–80 lb
+  or 50–100 lb** — "your standard 80 or 100 lb rod" — spooled with **80 lb
+  Spectra**, his own pick being **Power Pro Max Quattro in 80 or 100 lb**
+  for being thin-diameter and strong, which helps the rig stay vertical in a
+  fast drift and reach depth faster. **Mark unmarked Spectra** every 100 or
+  50 ft with a Sharpie (a Rapala line counter helps measure it off the back
+  of the boat); pre-marked multicolor braid (captioned "Izorline" —
+  asr-uncertain on the exact brand) that changes color every 100 ft is the
+  alternative. He marks line even on inshore yellowtail jigs at the islands
+  for the same reason — always knowing exactly where the lure/bait is.
+- **Knife-jig setup — a PE 4–8 rod as the one-rod answer.** His pick if
+  buying only one rod to cover everything: a rod rated **PE 4–8** (PE × 10 =
+  approximate lb-test, so **40–80 lb**), fishing **jigs from about 150 g up**
+  (no stated upper bound on the rod itself). Reel options named on camera: a
+  **Jigging Master PE7**, or — his budget pick — a **Fathom 40**, filled with
+  **80 or 100 lb Power Pro Max Quattro**, **100 lb
+  mono or fluoro leader 30–40 ft**, working **150–250 g** jigs.
+
+## Nighttime rig ladder by aggressiveness and grade (Gavin, Pacific Queen)
+
+Capt. Gavin, same seminar (`G1YIlakiRqg`, SD Fish and Sips, uploaded
+2024-03-13; unregistered channel/speaker — medium confidence). His framing
+opens with a shift he and other captains have noticed over several recent
+seasons: anglers used to think night bluefin needed one massive
+rod/reel/lure, and sometimes that's still right — but **you now need at
+least two, ideally three, nighttime outfits** to cover how aggressive the
+fish are, their size, and ocean conditions (windy vs. flat, fast vs. slow
+drift), because night fish can show anywhere from **~100 ft down to 500–600
+ft**. Lure weight, profile-shape, and hook detail for both outfits below is
+logged in [knife jigs](../lures/knife-jigs.md); casting position, rod-holding,
+and the missed-bite redrop technique are in
+[knife jigging](../techniques/knife-jigging.md).
+
+- **Heavy go-to outfit — his default whenever the fish will let him fish
+  it.** A **Shimano Talica 25** (over 300 lb landed on this exact setup),
+  spooled nearly to the top with **100 lb** multicolor Spectra (color-marked
+  every 100 ft; some brands mark every 30 ft/10 m instead — a **100 ft
+  interval he prefers**, adding a Sharpie mark at the halfway point of each
+  100 ft section for an effective 50 ft resolution when it matters). **A
+  wind-on leader, 130–200 lb, roughly 25 ft** — see
+  [wind-on leader](../rigging/wind-on-leader.md#why-a-wind-on-over-a-separate-crimped-fight-leader-gavin-pacific-queen)
+  for his stated reasoning (no separate crimped fight leader/swivel, fewer
+  failure points, far less tangling on a 30-plus-angler sportboat rail); the
+  lure ties or crimps directly to the wind-on's terminal end.
+- **Lighter outfit for fish under ~60 lb.** Same build as the daytime 50–60
+  lb jig setup above (Talica 12 class), fished at night instead: **50–60 lb
+  Spectra** nearly to the top, **30–40 ft of roughly 60 lb** fluorocarbon
+  leader, on an overall **smaller reel/spool** — a big part of the Pacific
+  Queen's 2023 program specifically for the **15–60 lb** grade, which was
+  showing up higher in the water column than the bigger fish. A smaller
+  outfit lets a light lure sink to the fish's depth roughly twice as fast as
+  the same lure would on the heavy Talica 25 outfit.
+- **Rig selection is grade-driven, and grade dictates line class more than
+  it dictates target species:** obviously smaller fish would be landed
+  faster on the heavy outfit too, but the lighter build gets bit when the
+  heavy one won't.
+- **Fish the heaviest tackle you can get away with — a stop-and-go framing.**
+  Much of the Pacific Queen's night fishing is **short-stop / stop-and-go**:
+  the captain spots a school, stops the boat, and the fish may only hold
+  around the boat for **1–2 minutes** before moving off. Gavin's stated
+  principle: always fish the heaviest outfit that will still draw bites,
+  because landing a fish quickly on heavy gear keeps the whole boat fishing
+  through that short window — his example: a fish that outgrades a 50 lb
+  outfit can take an angler up to an hour to land on it (the fish's exact
+  weight is unclear in the source audio) — ties up one angler and costs the
+  other 30-plus anglers aboard their shot at the same school before it
+  leaves.
+
 ## Drag — weakest-link setting, and a scope-shift trap
 
 - **Setting method:** starting from the reel's **free-spool** position (drag
@@ -212,13 +319,19 @@ class-term lexicon this ladder feeds.
 - [Knife / speed jigging](../techniques/knife-jigging.md) and
   [slow-pitch jigging](../techniques/slow-pitch-jigging.md) — the mechanics
   the PE-rated jigging ladder above is fished with.
+- [Knife jigs](../lures/knife-jigs.md) — lure weight/profile detail for the
+  daytime and nighttime ladders above.
+- [Wind-on leader](../rigging/wind-on-leader.md) — the connection the
+  nighttime heavy outfit is built around.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
+- [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
+- [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

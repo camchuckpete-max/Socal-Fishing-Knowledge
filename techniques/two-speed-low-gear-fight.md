@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA]
+sources: [9JnIS8HkZlA, G1YIlakiRqg]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -24,6 +24,16 @@ unregistered channel/speaker, single mention — medium confidence.
   [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md)).
 - The fish has stopped running and is circling somewhere below/around the
   boat, unwilling to commit to the surface.
+- **Corroborating, at the light end of the line-class range (Capt. Matt, SD
+  Fish and Sips, `G1YIlakiRqg`, uploaded 2024-03-13; unregistered
+  channel/speaker — medium confidence):** he did not used to run two-speed
+  reels on his 25 lb-class flyline setup, reasoning a fish that size didn't
+  need one — but says that's changed: SoCal daytime bluefin trips on 25 lb
+  test now regularly hook **40, 50, even 60–80 lb fish**, and a two-speed
+  reel is what makes fighting a fish that outgrades the line manageable. He
+  now runs two-speed even at this light class as standard practice; full rig
+  detail in [bluefin rig ladder by grade — daytime, 25 lb
+  setup](../tackle/bluefin-rig-ladder-by-grade.md#daytime-rig-ladder-by-grade-capt-matt-sd-fish-and-sips).
 
 ## The problem with pump-and-reel
 

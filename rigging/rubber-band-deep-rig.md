@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -31,6 +31,19 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
   on the surface** — a metered-but-not-foaming mark is the trigger for the
   rubber-band rig, a visible foamer is the trigger for casting metal. The
   80 lb leader is in range with the 50–80 lb leader already logged below.
+- **Best case and worst case for the rubber-band rig specifically (Capt.
+  Matt, SD Fish and Sips, `G1YIlakiRqg`, uploaded 2024-03-13; unregistered
+  channel/speaker — medium confidence):** the rig gets bit better than
+  alternatives (see the ring-and-tag-line variant below) when a school is
+  **mixed-grade and stacked by depth** — say 20–200 lb fish on the same
+  stop, with smaller fish riding higher and bigger fish holding deeper —
+  because sinking it slowly through the column on the way down can pick off
+  bites from multiple size classes on one drop rather than skipping straight
+  past the shallower fish. It also works best in **flat-calm** conditions,
+  where you can sink it slowly and keep the line straight up and down.
+  **Failure mode: it's notorious for tangling if you sink it too fast** —
+  seek (free-spool) it quickly and the line wraps around the sinker,
+  fouling the presentation.
 
 ## Parameters & judgment
 
@@ -252,6 +265,71 @@ Osborn Bank, SoCal; unregistered channel — `medium` confidence.**
   free-sliding (Carolina-rig-style), and this tag-end attachment — each from
   a different source/trip.
 
+## Ring-and-tag-line variant ("drop shot rig") — built to reach fish too deep for the rubber-band rig (Capt. Matt, SD Fish and Sips)
+
+**Capt. Matt, SD Fish and Sips, `G1YIlakiRqg`, uploaded 2024-03-13;
+unregistered channel/speaker — medium confidence.** A sixth sinker-attachment
+mechanic, distinct from the rubber-band, tied-inline, free-sliding, and
+tag-end variants above — his own name for it on camera is a **"drop shot
+rig,"** but it is a bluefin deep-bait rig, not the bay/halibut finesse
+[drop shot](../techniques/drop-shot.md) technique of the same name; treat the
+name as coincidental, not the same method.
+
+- **Why he built it — a specific failure of the rubber-band rig.** A few
+  years before this seminar (year not stated on camera), fishing a school of
+  **150–200 lb bluefin** marked **500–600 ft** down, boats fishing standard
+  rubber-band rigs were getting **spooled out** before reaching the fish —
+  scoped out with no line left on the reel by the time they were in the
+  strike zone, then hooking up and losing the fish to being out of line.
+  This rig was built to sink faster and get down to marks that deep before
+  running out of line.
+- **The build.** A ring [circle hook](../tackle/hooks.md) ties directly to
+  a ring. A separate, lighter piece of line ties to the **bottom** of that
+  same ring and carries the sinker below the hook, keeping the hook riding
+  straight up. Streamlined (no rubber band, no extra hardware bulk), it
+  sinks as fast as you want to drop it — "you cannot sink it too fast" — and
+  you can still feel the bait through the rig on the way down.
+- **Tag-line test, evolved by trial:** originally tied with **12–15 lb**
+  test on the sinker's tag line, on the theory that you wanted the sinker to
+  break off on a hookup (sinkers are expensive, but the thinking was you
+  didn't want to keep it in the fight). That changed to **40 or 50 lb mono**
+  on the tag line once the crew found they were both landing plenty of fish
+  *and* recovering their sinkers — the heavier tag line doesn't need to part
+  on the strike the way the lighter test did.
+- **First-drop confirmation, one data point:** the first time he fished it,
+  he hooked up on his **second drop** — marking fish from **250 ft down to
+  500 ft**, his line hit the 250 ft mark, he slowed the spool, sank it out
+  slowly, felt the bait fish twitching, then felt it start panicking, then
+  got bit — landing a **170 lb** fish.
+- **Compared to the rubber-band rig specifically — a stated advantage on
+  bite detection:** with a rubber-band rig, if the bait comes off you often
+  don't know it's happened; on this rig you can feel the bait the whole way
+  down, so you know what's going on with it in real time.
+- **Fishing it in wind — keeping the line vertical on a fast drift.** When
+  wind makes it hard to hold the line straight up and down, sink the rig
+  **past** the depth the captain calls (e.g., fish marked 250–350 ft down →
+  sink to the 350 ft mark), stop the spool, hold it there in free spool, and
+  let the boat's fast drift **slow-troll the bait up through that zone** as
+  the boat moves — effectively scoping the rig out away from the boat over
+  time rather than fighting the drift to stay vertical. Expect to change
+  bait out often fishing this way. Wind up once you've got a big angle on
+  the line and are well away from the boat.
+- **"Actively fish it," the same discipline as flylining.** His explicit
+  caution: as soon as a sinker rig is set, some anglers assume they're
+  "fishing on the bottom like catfish" and just prop their elbows on the
+  rail — the opposite of what the rig rewards. Treat it like flyline
+  fishing: keep working the bait up and down through the water column,
+  changing it out and moving it rather than leaving it static. A lot of
+  bites happen on the sink and a lot happen on the wind (retrieve), so the
+  anglers cranking or dropping more than the guy next to them get more
+  bites.
+- **Hook placement for bait fished on this rig — keep the mouth shut.**
+  Hook through the **lower jaw, up through the tip of the nose**; for
+  anglers who struggle with that entry (it can beat the bait up), a simpler
+  alternative that works too is straight **through the mouth and out the
+  tip of the nose**. Logged alongside the general hook-position table in
+  [fishing live bait](../bait/fishing-live-bait.md#deep-sinker-rig-bait-lower-jaw-through-the-nose-to-keep-the-mouth-shut-capt-matt-sd-fish-and-sips).
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=sYrsPGXiYhI
@@ -265,6 +343,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

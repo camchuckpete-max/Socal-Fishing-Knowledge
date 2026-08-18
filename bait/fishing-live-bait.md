@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -157,6 +157,19 @@ Clemente Island, Catalina, or the Coronado Islands also **skews the catch
 toward yellowtail specifically**, screening out calico bass, barracuda, and
 bonito bycatch that a smaller bait draws — reach for mackerel when the goal
 is straight yellowtail and those species are unwanted.
+
+### Deep sinker-rig bait: lower jaw through the nose to keep the mouth shut (Capt. Matt, SD Fish and Sips)
+
+`G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium
+confidence. For bait fished on a bluefin sinker rig (rubber-band or the
+ring-and-tag-line "drop shot" variant — see
+[rubber-band deep rig](../rigging/rubber-band-deep-rig.md#ring-and-tag-line-variant-drop-shot-rig--built-to-reach-fish-too-deep-for-the-rubber-band-rig-capt-matt-sd-fish-and-sips)),
+the hook goes **through the lower jaw and up through the tip of the nose**,
+which keeps the bait's mouth shut on the way down. Anglers who struggle to
+land that entry point cleanly — it can beat the bait up trying to thread it
+— can instead go simply **through the mouth and out the tip of the nose**;
+he calls this the easier alternative when the first method isn't working
+for someone.
 
 ### Shoulder hook and a bone-anchored butt hook, for a finicky tensioned bite (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, but this specific mechanism is a single mention; his other logged videos are still pending extraction, so it isn't yet repeated doctrine)
 
@@ -376,5 +389,6 @@ clips above.)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Making Bait](making-bait.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

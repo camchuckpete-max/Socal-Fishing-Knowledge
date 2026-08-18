@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -59,6 +59,18 @@ behavior**:
     stay below **400 g unless the current is really ripping** — the goal is
     keeping a **smaller bait-profile presentation**, which was producing on
     this boat that week.
+  - **Windy-conditions "hot dog style jig" — a distinct choice from the
+    general night range above, made for sea state rather than depth/current
+    alone (Capt. Matt, SD Fish and Sips, `G1YIlakiRqg`, uploaded 2024-03-13;
+    unregistered channel/speaker — medium confidence):** when spring weather
+    turns choppy and a lure can't be kept vertical (see the vertical-fishing
+    caution under [how to fish it](#how-to-fish-it) below), the fleet's own
+    term for the fix is a **"hot dog style jig"** — a short, stubby, blunt
+    profile (named examples: **West Coast HD**, **Daiwa SK jig**, **Shimano
+    Flat-Fall**), fished at **170–250 g**. These sink noticeably faster than
+    the sniper/dart-style jigs and **flutter specifically on the way down**,
+    so they keep producing bites when chop or wind makes it hard to get a
+    slimmer jig down to fish that are still willing to eat.
   - **General SoCal yellowtail butterfly-jig box, not tied to a specific
     depth/current (Ray Sharifi, Dirty Hookers, A70kK2niu2Q, 2022-02-17;
     `ray-sharifi` registered (Baja-scoped) — medium confidence):** a Shimano Flat-Fall-class
@@ -188,6 +200,31 @@ Which species and situation calls for each is routed from the species notes —
 [yellowtail](../species/yellowtail.md),
 [rockfish and lingcod](../species/rockfish-lingcod.md).
 
+### Choosing between two jigs by where the bites are coming (Capt. Matt, SD Fish and Sips)
+
+`G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium
+confidence. For daytime bluefin hanging around (not boiling) the boat, Matt's
+stated decision rule is to read **which stroke of the retrieve is actually
+drawing bites** and match the jig to it, cycling between a **Shimano Colt
+Sniper** and a second jig (named on camera, but the auto-captions render the
+name three different, all-garbled ways across the transcript — "DI is a
+Conor jig," "dial as a kaj jig," "di wasak" — asr-uncertain; likely a Daiwa
+model, not confidently resolved, carried here by fall behavior rather than by
+name):
+
+- **If guys are getting bit on the wind (the retrieve/rise):** pick up the
+  **Colt Sniper** — in his read it swims better on the way up. Worked
+  jigged, it falls **butt-first with little flutter**.
+  - **If guys are getting bit on the fall:** switch to the unnamed
+    second jig — worked the same way (jerked up and down on the rod), it
+    goes **sideways, shines, and flutters**, and gets bit well specifically
+    on the drop.
+- **Both jigs get bit on both strokes** — this is a dial-in tool for a
+  finicky or selective bite, not a claim that one jig only works one way; if
+  you're not trying to fine-tune, either will produce.
+- **Stock hooks on both are treated as a starting point to replace, not
+  fish as-is** — see the hook-swap doctrine below.
+
 ## Color — mostly angler confidence, with one real mechanism
 
 - **Attributed take (Ul5FLB2dFgQ, tackle-shop seminar — product/preference
@@ -290,6 +327,71 @@ Which species and situation calls for each is routed from the species notes —
   framing above; the "Katy Perry" name lines up with the pink-accented
   nickname already documented elsewhere in this note.
 
+## Night lure sizing matched to outfit size, and profile shape (Gavin, Pacific Queen)
+
+`G1YIlakiRqg`, SD Fish and Sips, uploaded 2024-03-13; unregistered
+channel/speaker — medium confidence. Two outfit-and-lure pairings for night
+bluefin, full rod/reel/line build in
+[bluefin rig ladder by grade — nighttime](../tackle/bluefin-rig-ladder-by-grade.md#nighttime-rig-ladder-by-aggressiveness-and-grade-gavin-pacific-queen):
+
+- **Heavy outfit (Talica 25-class, 100 lb Spectra, 130–200 lb wind-on):**
+  fish **250–350 g minimum** — nothing lighter than 250 g on this outfit.
+  Reasoning: a lighter lure can't pull enough line/leader off a big reel
+  loaded with heavy braid and a heavy wind-on leader against the extra drag
+  that heavy gear creates, so it sinks too slowly and the presentation isn't
+  effective.
+- **Profile shape, at a given weight — short/stubby beats long, at night
+  specifically.** Between two lures of the same roughly 350 g weight — one a
+  long (~12 in) profile, one a short, stubby profile — he's shifted toward
+  the shorter, stubbier build for two stacked reasons: it **sinks
+  measurably faster** for the same weight (shape, not just weight, drives
+  sink rate), and its **smaller profile raises the bite-to-hook ratio** — a
+  fish attacking a big 12 in lure has a much smaller relative chance of
+  actually getting the hooks in its mouth than one attacking a shorter lure
+  of the same weight.
+- **This flips by daypart — don't carry the night preference into the
+  day.** During the day, longer, skinnier lures are the ones that draw more
+  bites; night bluefin, where an estimated **90% of bites happen as the lure
+  is sinking** (vs. more of a mixed sink/retrieve bite by day), reward the
+  shorter, faster-sinking, higher-hookup-ratio profile instead.
+- **Hooks on the short/stubby night lure — two assist hooks, mounted at the
+  top.** Line ties to a **solid ring**; a **split ring** off that solid ring
+  carries both the lure and the lure's hook set (two assist hooks). "Anytime
+  I fish over 60 lb around the boat, I'm fishing this and this only" — his
+  stated go-to regardless of whether the fish showing up are graded big or
+  small. See [assist hooks](../rigging/assist-hooks.md) for the general
+  solid-ring-vs-swivel framework this sits inside.
+- **Lighter outfit (50–60 lb Spectra, ~60 lb fluoro leader, smaller
+  reel/spool):** fish **100–170 g**, specifically for fish under ~60 lb
+  showing higher in the water column — a smaller lure sinks to depth roughly
+  twice as fast on this outfit as the same lure would on the heavy Talica 25
+  rig above, because the whole system (line, leader, spool) is lighter and
+  offers less resistance. **Named models that were "super effective" in
+  2023 on that smaller grade:** a **Daiwa Zakana, ~130 g** (hooks swapped to
+  two assist hooks mounted on the bottom); a **Daiwa TG**, a small,
+  tungsten-bodied jig (denser than lead, so heavier for its size) at roughly
+  **108 g**; and a **Daiwa SK jig, 140–170 g**.
+
+## Hook swap on a jig — ringed live-bait hook over inline single or treble (Capt. Matt, SD Fish and Sips)
+
+`G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium
+confidence. Stock hooks on jigs like the Colt Sniper are, in his view, not
+good enough to fish as they come from the package — always plan to swap them.
+His own preference, and stated reasoning, for what to swap to:
+
+- **Not treble hooks.** Fishing Spectra straight to fluorocarbon (no-stretch
+  braid to a stiffer leader), trebles "just do not mesh well" with that
+  combination and pull a lot on the fight — his read is the lack of give in
+  that line system works against a treble's smaller, multiple points.
+- **Not inline single hooks either**, despite seeing a lot of anglers run
+  them — for reasons he can't fully explain, he loses a lot of fish on
+  standard inline singles (he names Gamakatsu and Owner as both making a
+  pair of these).
+- **Ringed live-bait hooks — his own relied-on choice.** A ringed hook gives
+  the fish's head-shake **another pivot point** at the ring, spreading out
+  the leverage a bluefin can apply trying to throw the hook, rather than the
+  fish's shaking translating straight through a rigid inline shank.
+
 ## Owned examples
 
 Cameron does not yet own a dedicated vertical-jig setup — he is shopping a
@@ -305,6 +407,7 @@ rigging from class terms above until it lands; see
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

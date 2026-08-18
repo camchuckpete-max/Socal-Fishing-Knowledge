@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -81,6 +81,24 @@ in **Linked from**.
     reconciled with the up-current-off-the-bow method above — two attributed
     routes to the same vertical-jig goal, picked by which rail position an
     angler is fishing.
+  - **A third attributed positioning method, framed around which end of the
+    boat rather than which way to cast (Gavin, Pacific Queen, SD Fish and
+    Sips seminar, `G1YIlakiRqg`, uploaded 2024-03-13; unregistered
+    channel/speaker — medium confidence):** fish from the **very front or
+    very back of the boat, never midship** — midship with the wind at your
+    back leaves you unable to go around the bow or stern when you hook a
+    fish. From whichever end, **cast downwind** so the lure is straight
+    up-and-down by the time it reaches the fish's depth — the goal-first
+    framing behind the same cast-and-let-the-boat-drift-onto-it mechanic
+    Cortez Bank captain gives above, restated as a positioning rule rather
+    than a distance one. **Cast distance is conditions-dependent, not
+    fixed:** windy/fast drift calls for a long cast downwind so the lure has
+    time to reach depth; flat-calm/slow drift calls for a short cast, as
+    little as **20–30 ft**, because a far cast on a slow-drifting day
+    over-scopes the lure past vertical. All of these jigs are built to fish
+    **vertically** — a lure fished scoped out at an angle, tension pulling
+    it toward the boat rather than hanging slack straight down, isn't
+    fishing effectively regardless of which casting method put it there.
   - **Observed, participation as a mechanism (same source):** the captain
     stressed angler participation as a key factor at night specifically —
     with enough anglers working jigs at once on a stopped bluefin school, the
@@ -128,6 +146,39 @@ in **Linked from**.
   night. Pair the slower night pace with a center-weighted **flip-slider** jig
   rather than a tail-weighted speed jig for more fall action worked slowly — see
   [knife jigs](../lures/knife-jigs.md).
+
+### Rod-holding for a fast hookset on the fall, and redropping a missed bite (Gavin, Pacific Queen)
+
+SD Fish and Sips seminar, `G1YIlakiRqg`, uploaded 2024-03-13; unregistered
+channel/speaker — medium confidence. Framed around his stated read that
+roughly **80% of night bluefin bites happen while the lure is sinking** — a
+similar, independently sourced ratio to the 70%-on-the-fall figure the PCS
+Show 2024 panel gives above — so reaction speed out of free-spool decides
+whether a bite converts.
+
+- **Rod-holding, hand by hand:** rod butt tucked under the **left armpit**;
+  right-hand fingers resting lightly on the spool during free-spool,
+  applying just enough tension to prevent a backlash without slowing the
+  drop; right **thumb resting on the reel's gear-engagement lever at all
+  times**, ready to put it in gear the instant a bite is felt.
+- **Why it matters — the reaction-time cost of not doing this:** he's
+  watched anglers holding the rod differently take **5–6 seconds** to get
+  the reel in gear and start turning the handle after a bite — by then the
+  fish has already spit the jig and can be **30 ft away**. Held this way,
+  the gap from feeling the bite to turning the handle is roughly
+  **half a second**.
+- **Missed a hookup? Free-spool and redrop immediately, don't wind up.**
+  A common mistake: an angler gets bit, engages the reel, winds several
+  turns (his example: about 10), realizes the fish isn't there, and then
+  winds the lure all the way up to the surface — taking the lure out of the
+  water column the fish are actually in. His stated fix: the moment you
+  realize you missed the fish, put the reel straight back into **free
+  spool** and get the lure back down to the same depth immediately.
+  **About 8 out of 10 times you'll get bit again.** This matters most with
+  smaller, aggressive fish specifically (his working grade: **15–60 lb**),
+  which can hit a lure five to eight times before actually getting hooked —
+  winding all the way up after a miss can cost several of those follow-up
+  chances in a row.
 
 ## Depth control & jig calling
 

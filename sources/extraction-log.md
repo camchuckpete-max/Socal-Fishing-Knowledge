@@ -1990,7 +1990,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | BskCsKaTiZw | Your Saltwater Guide | seminar | deep | done | conditions/current-diagnostics.md; planning/search-and-glassing.md / seminar/deep extraction: chart-plotter-arrows-are-wind-not-current diagnostic + same-spot re-anchor-on-current-reversal doctrine, unregistered host, medium confidence |
 | EcQK5elTPJE | Your Saltwater Guide | seminar | deep | done | locations/bahia-magdalena-lopez-mateos.md; species/snook.md; techniques/mangrove-structure-livebait.md; techniques/sliding-sinker.md; tackle/gear-classes.md / Lopez Mateos/Magdalena Bay location note + snook species router + mangrove livebait technique + boca grouper/snook leader addition |
 | Et2TUskzCSs | James Kikkawa | seminar | deep | done | tackle/bluefin-rig-ladder-by-grade.md; tackle/line-and-leader.md; techniques/knife-jigging.md; techniques/slow-pitch-jigging.md / Jigging 101 panel extraction: PE-rated rod/drag ladder, line-diameter-over-label doctrine, speed-jig ring-vs-swivel and fight-technique doctrine, slow-pitch pitch-counting mechanics |
-| G1YIlakiRqg | SD Fish and Sips | seminar | deep | pending |  |
+| G1YIlakiRqg | SD Fish and Sips | seminar | deep | done | bait/fishing-live-bait.md; lures/knife-jigs.md; rigging/rubber-band-deep-rig.md; rigging/wind-on-leader.md; tackle/bluefin-rig-ladder-by-grade.md; tackle/hooks.md; techniques/knife-jigging.md; techniques/two-speed-low-gear-fight.md / Capt. Matt/Gavin bluefin day/night tactics seminar merged into 8 existing notes |
 | JK2-cpaXkI8 | Your Saltwater Guide | seminar | deep | pending |  |
 | JiJYamo0QHk | Utah Spahghettzi Björker | seminar | deep | pending |  |
 | KD-RSfCE6kg | Fisher Newb | seminar | deep | pending |  |

@@ -105,5 +105,6 @@ Light spinning / finesse-bottom class — see
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [California Halibut](../species/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

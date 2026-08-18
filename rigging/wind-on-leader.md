@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wind-on, hollow-core, braid-to-fluoro, tuna, leader]
-sources: [_KE9InIHx8M, zkSKgP2bq10]
+sources: [_KE9InIHx8M, zkSKgP2bq10, G1YIlakiRqg]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -56,6 +56,35 @@ this pairs with.
   the braid at too steep an angle; too short a bury; skipping the terminal
   lock so the leader creeps out on slack.
 
+## Why a wind-on over a separate crimped fight leader (Gavin, Pacific Queen)
+
+Capt. Gavin, SD Fish and Sips seminar (`G1YIlakiRqg`, uploaded 2024-03-13;
+unregistered channel/speaker — medium confidence), on his night-bluefin
+heavy outfit (**130–200 lb wind-on, roughly 25 ft**, full build in
+[bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#nighttime-rig-ladder-by-aggressiveness-and-grade-gavin-pacific-queen)):
+a heavy wind-on leader replaces the common tackle-shop alternative — a short
+(3–4 ft) heavy mono/fluoro "fight leader" joined to the main line with a
+swivel and crimp, then the lure tied or crimped to that. His stated reasons
+for skipping that piece entirely:
+
+- **Knot difficulty at heavy line classes.** Trying to tie 100 lb main line
+  to a 200 lb leader by knot is difficult to tie well, and even a
+  successfully tied heavy knot is difficult to pass smoothly back through the
+  rod guides — a wind-on's finger-trap connection is a smooth, low-diameter
+  splice built to run through guides cleanly (see the mechanics above).
+- **One fewer failure point.** A swivel-and-crimp fight leader is, in his
+  framing, "just an extra knot and an extra piece of terminal tackle that has
+  a possibility of failure" — eliminated entirely by running the wind-on
+  straight to the lure.
+- **Tangle reduction on a crowded sportboat — his stated bigger reason.**
+  Working on a boat carrying 30-plus anglers, he has "spent hours" of his
+  life unwrapping Spectra off swivel-and-crimp connections after a tangle;
+  anglers fishing a wind-on-to-lure setup without that extra hardware spend
+  noticeably more time actually fishing and less time waiting to be freed
+  from a tangle — and any time spent tangled is time not fishing, which
+  costs hookups. **Practice:** tie or crimp the lure directly to the wind-on
+  leader's terminal end.
+
 ## Tie it
 
 How-to videos: [Seaguar wind-on leader](https://www.youtube.com/watch?v=_KE9InIHx8M)
@@ -65,6 +94,7 @@ and [the strongest braid-to-fluoro wind-on](https://www.youtube.com/watch?v=zkSK
 ## Linked from
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
