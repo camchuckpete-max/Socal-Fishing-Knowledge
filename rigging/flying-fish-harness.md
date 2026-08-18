@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -54,6 +54,21 @@ naturally across the surface and holds up through repeated deployments.
   action; too light a leader risks a bite-off on this grade of fish. Rig 10 to
   12 flyers for a four-angler day and store them neatly in the cooler so they are
   ready to deploy.
+- **Line-class corroboration (Capt. Dave Hansen, live seminar, Fred Hall Show
+  2019 Part 2, filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12;
+  dave-hansen registered voice — repeated doctrine, high confidence):** his own
+  kite program runs **200 lb braid** main line to a **400 lb fluorocarbon
+  leader** — matching, at the top end, the 200–400 lb (typically 400) leader
+  spec above — fished with **40 lb of drag** on the reel. Full fight-style
+  context for the same rig is in
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+- **Conflict, kept side by side — single hook, no treble stinger (same
+  source):** Hansen states his own rig runs a **single hook only, no
+  treble** — "we is single hook, no trebles. I know a lot of people have to
+  use a treble and you got to keep using it, that's what you feel you need" —
+  which runs opposite the standard San Diego flyer rig's J-hook-plus-trailing-
+  treble construction documented above (`GqcVaTIlyg0`). Not reconciled here:
+  one captain's stated departure from the standard rig, not a correction of it.
 
 ## Simpler alternative wing-lock: popsicle stick
 
@@ -128,6 +143,7 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 <!-- backlinks:end -->

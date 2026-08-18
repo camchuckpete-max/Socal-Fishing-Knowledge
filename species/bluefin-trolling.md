@@ -1,7 +1,7 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU, JiJYamo0QHk]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -210,6 +210,19 @@ stay over fish), and the calm-day school-grade spread does the rest.
   the **80-size 2-speed** logged for troll/spreader-bar in
   [rod & reel selection](../tackle/rod-and-reel-selection.md), kept beside
   it as a same-role, different-size data point rather than a correction.
+- **Program philosophy — chosen against flat-fall/dropped-bait fishing (Capt.
+  Dave Hansen, live seminar, Fred Hall Show 2019 Part 2, filmed by Utah
+  Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen registered
+  voice — medium confidence, single mention on this specific point):**
+  Hansen states his boat does not fish the flat-fall/dropped-bait style of
+  bluefin fishing, and gives the reason directly — a hooked fish on that
+  method can tie the boat up for **three, four, or five hours**, whereas his
+  kite/flyline volume program is built to land **six fish in the time a
+  flat-fall boat lands one**. Framed as a deliberate program trade-off
+  (volume over an individual big-fish fight), not a claim that flat-fall
+  fishing doesn't work — kept beside, not reconciled with, the flat-fall
+  depth/mechanism doctrine already logged in
+  [knife jigging](../techniques/knife-jigging.md#reach-for-this-when).
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental

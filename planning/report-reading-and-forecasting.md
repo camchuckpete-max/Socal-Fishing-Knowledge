@@ -82,6 +82,7 @@ Fold the output of this note back into the
 - [June–July](../seasonal/june-july.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
+- [Water Color](../conditions/water-color.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -44,7 +44,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Pacific bluefin tuna bag limit | 2 per person per day | 2024-11 | [bluefin tuna](../species/bluefin-tuna.md) | `usHl-4SfqDA` |
 | Rockfish closure driving effort to the 43 bank | seasonal closure; bluefin targeted on the same high spot instead | 2020-12 | [rockfish & lingcod](../species/rockfish-lingcod.md), [bluefin tuna](../species/bluefin-tuna.md) | `Rf1HKJG-SDg` |
 | Rockfish depth-limit progression | 300 → 350 → 460 ft, plus a season reopen date | speaker self-hedged; historical | [rockfish & lingcod](../species/rockfish-lingcod.md) | `lF6jQklDCrY` |
-| Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | see note | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w` |
+| Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | 7/person/day bag limit; see note for the rest | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |
 | Catalina MLPA closed to public fishing (context for a hatchery broodstock crew) | closure | 2024 | [white seabass](../species/white-seabass.md) | `Y2bXn44lfqo` |
 | Cow Cod Conservation Area reopened to 600 ft / two hooks; cow cod itself still no-retain (federally protected species) | 600 ft depth limit, 2 hooks inside the CCCA; cow cod catch-and-release only | 2024-03 (describes a 2023 change); self-hedged on camera | [rockfish & lingcod](../species/rockfish-lingcod.md) | `AH4Eiya1Hn0` |
 
@@ -79,6 +79,7 @@ route, and the insurance carriers by name.
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 <!-- backlinks:end -->

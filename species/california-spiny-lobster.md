@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4, JiJYamo0QHk]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast, island]
@@ -103,6 +103,14 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 
 - **Regs-awareness is the whole discipline (California / CDFW, as of 2026-08 —
   verify current rules):**
+  - **Daily bag limit: 7 lobster per person per day** — stated on camera as a
+    hard number, independent of size within the legal minimum below (Capt.
+    Dave Hansen, live seminar, Fred Hall Show 2019 Part 2, filmed by Utah
+    Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen registered
+    voice — medium confidence, single mention on this specific figure).
+    **Regulatory claim — California/CDFW, as of 2026-08, verify current
+    rules before you fish**; logged in
+    [regulatory claims](../sources/regulatory-claims.md).
   - **Two licenses:** a California **fishing license** *plus* a **lobster report
     card** — and the card must be **filled out before you fish** (month, date,
     location code, gear code; gear code **1** for hoop netting), leaving "retained"

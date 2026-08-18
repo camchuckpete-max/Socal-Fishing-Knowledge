@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -464,6 +464,26 @@ under-gunned-for-the-grade situation.
   not confirmed on camera — see [dorado](../species/dorado.md)) is logged
   there rather than here.
 
+## One hooked fish at a time on heavy kite/bait tackle
+
+**Observed/attributed** (Capt. Dave Hansen, live seminar, Fred Hall Show 2019
+Part 2, filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12;
+dave-hansen registered voice — medium confidence, single mention on this
+specific point). On this boat's heavy, boat-driven program (**40 lb drag,
+200 lb braid to 400 lb fluoro** — see
+[flying fish harness](../rigging/flying-fish-harness.md)), the crew
+deliberately fishes **one hooked fish at a time** rather than letting two
+rods come tight on big bluefin together.
+
+- Stated reasoning: landing one 200 lb-plus fish is already "a phenomenal
+  day" of work for the boat and crew — two fish hooked simultaneously means
+  two fish both able to death-circle at once, doubling the boat-handling
+  problem the [down-swell walk](#walk-it-down-swell-avoid-the-death-circle)
+  above exists to avoid, and turning a manageable fight into what Hansen
+  calls "a big giant mess." Kept beside, not folded into, the boat-driven
+  fighting doctrine above — this is a program-level rule about how many
+  lines to fish, not about how to fight the one that's on.
+
 ## Common failures
 
 - Hand-fighting the fish while expecting the same speed/certainty as the
@@ -479,6 +499,7 @@ under-gunned-for-the-grade situation.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
 - [Knife / Speed Jigging](knife-jigging.md)

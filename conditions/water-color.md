@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [water-color, chlorophyll, clarity, upwelling, white-seabass, bait, edges]
-sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI]
+sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI, JiJYamo0QHk]
 confidence: high
 ---
 
@@ -26,6 +26,26 @@ bad *now* but productive *later***.
 
 Give every chlorophyll pull this **freshness dimension**: distinguish a new
 cold-green bloom (skip for now) from a mature bloom edge (fish it).
+
+### Reading the day-age color dots on a chart (Capt. Dave Hansen)
+
+**Attributed** (Capt. Dave Hansen, live seminar, Fred Hall Show 2019 Part 2,
+filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen
+registered voice — medium confidence, single mention on this specific
+point). A chart-level, practical version of the freshness idea above: on the
+SST/chlorophyll charts he works from, fish-sighting dots are color-coded by
+age — **red = today, yellow = yesterday, green = the day before that**.
+
+- Watch all three colors together to read which direction the water — and
+  the fish riding it — has been moving over that 3-day window, then run to
+  **where the water is heading, not where it was**; his stated rule is to
+  work ahead of the trend rather than straight to the red dot, since the
+  water is always advecting.
+- If the projected water isn't holding fish, work back down the trend line
+  toward yesterday's (yellow) position — the fish are typically somewhere in
+  between the two.
+- A chart-reading operationalization of the advection priors already logged
+  in [report reading and forecasting](../planning/report-reading-and-forecasting.md#advection--reports-have-a-shelf-life-measured-in-miles).
 
 ## The white-seabass color triad
 
@@ -105,6 +125,7 @@ color/clarity doctrine above.
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
+- [Fleet Intelligence](../planning/fleet-intelligence.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)

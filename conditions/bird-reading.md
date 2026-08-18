@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [birds, terns, shearwaters, gulls, pelicans, cormorants, bird-radar, search]
-sources: [Blh2BA-7Ono, OYOda6T3f-8, HzE4FHHcvTk, yLpDI8jnizU, cameron, SczdZIq3UmE, A6DJoXbID4c]
+sources: [Blh2BA-7Ono, OYOda6T3f-8, HzE4FHHcvTk, yLpDI8jnizU, cameron, SczdZIq3UmE, A6DJoXbID4c, JiJYamo0QHk]
 confidence: high
 ---
 
@@ -48,6 +48,17 @@ underneath?"** Read *behavior*, not just presence.
   still there but "puddling"** (present, not surface-feeding) rather than
   gone. A finer-grained read than the moving-vs-locked dive-line rule above —
   kept beside it, not a replacement.
+
+- **Actionable cast cue — cast under the diving bird (Capt. Dave Hansen, live
+  seminar, Fred Hall Show 2019 Part 2, filmed by Utah Spahghettzi Björker,
+  `JiJYamo0QHk`, 2019-03-12; dave-hansen registered voice — medium
+  confidence, single mention on this specific point):** the stated mechanism
+  for a hovering tern is that it's waiting on a school to eventually push
+  bait to the surface underneath it; the moment it actually dives to pick,
+  that's the signal the bait just broke the surface directly below it — put
+  the bait there immediately, under the bird itself, rather than at the
+  bird's general position. A concrete action rule for the same moving-vs-
+  locked dive-line read already logged above.
 
 ## Shearwaters — the gap Cameron's model wants filled
 

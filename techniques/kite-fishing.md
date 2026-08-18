@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -35,6 +35,19 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   splashing commotion draws the bite.
 - Keep the bite leader **short** so the hooked fish can be gapped at the boat —
   the harness note carries the leader length and wing-angle numbers.
+- **Why it skips, not flies (Capt. Dave Hansen, live seminar, Fred Hall Show
+  2019 Part 2, filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12;
+  dave-hansen registered voice — repeated doctrine, high confidence):**
+  flagged on camera as a common angler mistake — flying the bait clear
+  through the air like a kite itself, rather than skipping wave-to-wave
+  across the surface the entire time. Stated reasoning: the fish are in the
+  water, not the sky, so the bait has to stay in constant contact with the
+  surface to draw a strike — corroborates, with an explicit mechanism, the
+  dapping/constant-contact doctrine already logged above. The same talk also
+  restates the **~8.5 kt** trolled-flyer speed already logged in
+  [flying fish harness](../rigging/flying-fish-harness.md#artificial-alternative--durable-rubber-flyer-for-trolling)
+  — "eight and a half knots... that's what they eat" — a second dated data
+  point for that figure from the same registered voice.
 
 ## Observed: kite height, distance, and troll speed (San Diego Bay / 40 mi off San Diego)
 

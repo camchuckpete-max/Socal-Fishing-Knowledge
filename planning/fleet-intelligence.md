@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [vhf, radio, fleet-intelligence, ais]
-sources: [9hEa3sGTh40, ZFqe49jRgA0, cameron, -bw1KDfDjv4, 8XrMkWPRxgs]
+sources: [9hEa3sGTh40, ZFqe49jRgA0, cameron, -bw1KDfDjv4, 8XrMkWPRxgs, JiJYamo0QHk]
 confidence: high
 ---
 
@@ -106,6 +106,15 @@ others following it over — not independent confirmation that the spot beats
 the sign you drove past to get there. Even a boat that's visibly hooked up
 doesn't help you: the fish are keyed on bait falling straight off *that*
 boat's transom, not on your boat sitting 25 yards off its side.
+
+**A Part 2 restatement, tied to chart-reading (same seminar, `JiJYamo0QHk`,
+2019-03-12):** later in the same talk, Hansen repeats the doctrine in
+blunter form — when he sees a cluster of boats, he goes the other way —
+framed explicitly as hunting **clean water with no boats on it**, not just
+avoiding a crowded radio channel. If a crowd is sitting on water he'd
+otherwise want to run to, the crowd itself is treated as a reason to look
+elsewhere. Pairs with the same talk's chlorophyll-chart trend-reading method
+in [water color](../conditions/water-color.md).
 
 ## Cameron's fleet-tracking practices (cameron; high confidence — merge)
 

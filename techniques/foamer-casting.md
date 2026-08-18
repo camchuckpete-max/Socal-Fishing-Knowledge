@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -31,6 +31,19 @@ the routers: [bluefin tuna](../species/bluefin-tuna.md) and
   a real advantage; the more foam you can cover, the more shots you get.
 - Budget **about 2 to 3 casts per school**, then move to the next one. Foamers
   are short-lived; do not stake one out.
+
+**Breezer sign and why front, not behind (Capt. Dave Hansen, live seminar,
+Fred Hall Show 2019 Part 2, filmed by Utah Spahghettzi Björker,
+`JiJYamo0QHk`, 2019-03-12; dave-hansen registered voice — medium confidence,
+single mention on this specific point):** a related, distinct surface sign
+from the foaming/breaking school above — a **"breezer"** is a school of tuna
+swimming just under the surface of otherwise flat-calm water, given away by
+the wind-ruffled slick they push up as they cruise on top rather than by
+whitewater. His stated reasoning for the ahead-of-travel rule already given
+above: fish feed with their mouths, not their tails, so a bait cast behind a
+moving breezer is presented to fish that have already passed it — get in
+front of the school's direction of travel and let it swim up onto the bait,
+rather than casting into its wake.
 
 **Observed, trip-tips summary (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06
 upload, offshore San Diego, bluefin on a kelp paddy; unregistered channel —
