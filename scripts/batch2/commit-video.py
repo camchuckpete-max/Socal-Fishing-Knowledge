@@ -25,7 +25,18 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import guard  # noqa: E402  (same directory)
 
-BRANCH = "claude/batch2-ingestion-rb0v4i"
+def _current_branch() -> str:
+    """Push where we actually are.
+
+    This was hardcoded to the batch-2 branch, so an unattended batch-3 run
+    would have pushed every extraction onto a finished branch.
+    """
+    r = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"],
+                       cwd=ROOT, capture_output=True, text=True, check=True)
+    return r.stdout.strip()
+
+
+BRANCH = _current_branch()
 
 
 def sh(*args: str, check: bool = True) -> subprocess.CompletedProcess:

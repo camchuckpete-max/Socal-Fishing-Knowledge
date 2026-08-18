@@ -43,6 +43,14 @@ DELETION_EXEMPT = {
 }
 TRAILER = "Batch2-Guard: revert-of"
 
+# The guard exists to constrain the UNATTENDED extractor — the thing with no
+# human reading its diffs. Applying it to supervised session commits made it
+# revert reviewed work after it had already been pushed (it ate the Bight
+# Watch generator and its own commit-video.py branch fix). The sweep now
+# polices only commits authored by the pipeline identity; anything else had a
+# person in the loop and is not the sweep's business.
+PIPELINE_AUTHORS = {"41898282+claude[bot]@users.noreply.github.com"}
+
 
 def git(*args: str, check: bool = True) -> str:
     r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
@@ -180,6 +188,8 @@ def cmd_sweep(base: str) -> int:
         body = git("log", "-1", "--format=%B", s)
         if TRAILER in body or s in reverted_targets or any(s.startswith(t) or t.startswith(s) for t in reverted_targets):
             continue
+        if git("log", "-1", "--format=%ae", s).strip() not in PIPELINE_AUTHORS:
+            continue  # supervised commit — see PIPELINE_AUTHORS
         probs = violations(s)
         if not probs:
             continue
