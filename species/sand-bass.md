@@ -175,4 +175,5 @@ rocks.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Wahoo](wahoo.md)
 <!-- backlinks:end -->

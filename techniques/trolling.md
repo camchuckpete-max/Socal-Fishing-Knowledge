@@ -635,9 +635,12 @@ different reason (avoiding slack-driven hook loss on Wahoo rather than
 giving a sea lion a window) — kept as a distinct, not merged, rationale.
 **Outcome:** only one Wahoo bit that day despite the multi-day
 no-fishing-pressure expectation going in ("the Wahoo ought to be ready to
-bite"); the crew chose not to keep grinding and moved on. No dedicated Wahoo
-species note exists in this KB to route the species-level pattern to — this
-entry carries the technique/gear detail only.
+bite"); the crew chose not to keep grinding and moved on. See
+[wahoo](../species/wahoo.md) for the species-level routing; this entry
+carries the technique/gear detail only. For the **cast** alternative to this
+trolled-bomb presentation (a wahoo bomb or Raider jig, cast and burned back on
+wire leader), see
+[wahoo bomb & Raider jig casting](wahoo-bomb-casting.md).
 
 ## East Cape, Baja — Buena Vista Beach Resort offshore troll for tuna/dorado/wahoo/marlin
 
@@ -1087,6 +1090,8 @@ covered above, not a new tool.
 - [Striped Marlin](../species/striped-marlin.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Wahoo](../species/wahoo.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

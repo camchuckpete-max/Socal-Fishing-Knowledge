@@ -1,9 +1,9 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo]
 confidence: medium
-regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
 ---
 
@@ -57,6 +57,25 @@ it is the correct method specifically for single-strand wire.
   tag straight into the garbage — loose on deck it can foul the bilge or stand up
   and go through your foot.
 
+## Wahoo casting leader — length and test
+
+Searcher Sportfishing (`-62xDo4UQzo`, 2020-01-30; unregistered channel —
+medium confidence), rigging a **wahoo bomb** or **Raider jig** for
+cast-and-retrieve wahoo fishing (see
+[wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md) for the
+retrieve): attach the lure with a piece of **seven-strand or single-strand
+wire**, finished with **a wire twist** and either a **ring or a swivel** at the
+top end. Stated leader **length: 12–15 in**. Stated **pound test: 50 lb**,
+with **62 lb** also usable; anything lighter is called out as risking a
+bite-off ("might get a little dicey").
+
+**Data point, not reconciled with the twist-vs-crimp split above:** this
+source describes finishing *both* the seven-strand (braided/cable) and the
+single-strand option with "a wire twist" — sitting beside, not confirming or
+correcting, this note's stated rule that braided/cable-type wire is normally
+crimped rather than haywire-twisted. No further detail (crimp sleeve, tool) is
+given on camera to resolve which method the seven-strand option actually uses.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
@@ -67,5 +86,7 @@ Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
 - [California Barracuda](../species/barracuda.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
+- [Wahoo](../species/wahoo.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Wiring a Surface Iron](wiring-a-surface-iron.md)
 <!-- backlinks:end -->

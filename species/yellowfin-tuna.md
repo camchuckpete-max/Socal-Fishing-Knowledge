@@ -377,8 +377,8 @@ the bluefin nearby become more cooperative too.**
   water-regime calendar elsewhere in this note. Bycatch while anchored: a
   school of dorado moved in and stayed around the boat for the duration (see
   [dorado](dorado.md#where--when)), and wahoo swam through the school on and
-  off (no dedicated wahoo species note exists in this KB to route that detail
-  to). One hooked fish tangled on the boat's **sonar dome/transducer** and
+  off — see [wahoo](wahoo.md#where--when). One hooked fish tangled on the
+  boat's **sonar dome/transducer** and
   took a crew member going in the water repeatedly (reported on camera as
   five times) to free it; a separate fish's line was spliced twice mid-fight
   after crew went overboard to work on it. No technique, leader, or hook
@@ -435,6 +435,7 @@ the bluefin nearby become more cooperative too.**
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
+- [Wahoo](wahoo.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowtail](yellowtail.md)

@@ -23,6 +23,7 @@
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) **[SoCal only]** — The bay-and-harbor bass — a light-line, structure-relating fish you catch on eelgrass edges, mooring cans, dock pilings, riprap, and channel drops inside San Di
 - [Striped Marlin](striped-marlin.md) — SoCal striped marlin are a fall sight-and-troll billfishery: slow-troll lures/skirts through clean blue water off a bait/color edge, tease fish up, and switch t
 - [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal daytime deep-drop swordfish: find deep contour structure where the deep scattering layer holds bait, then present a dead bait in/below the layer and let t
+- [Wahoo](wahoo.md) — A fast, toothy, warm-water pelagic — SoCal/Baja anglers reach for it mostly as part of a mixed offshore troll (tuna/dorado/marlin) or on a dedicated trip to kno
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna — 8–10 lb up to 40–50 lb, with 15–25 lb the average grade.
 - [Yellowtail](yellowtail.md) — SoCal/Baja yellowtail are a structure-and-bait fish that show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and botto
@@ -53,16 +54,17 @@ graph LR
   n16["Spotted Bay Bass (Spotties)"]
   n17["Striped Marlin"]
   n18["Swordfish (Broadbill)"]
-  n19["White Seabass"]
-  n20["Yellowfin Tuna"]
-  n21["Yellowtail"]
+  n19["Wahoo"]
+  n20["White Seabass"]
+  n21["Yellowfin Tuna"]
+  n22["Yellowtail"]
   n0 --> n11
   n0 --> n3
   n0 --> n5
   n1 --> n2
   n11 --> n13
   n11 --> n2
-  n11 --> n21
+  n11 --> n22
   n11 --> n3
   n11 --> n9
   n12 --> n5
@@ -72,54 +74,57 @@ graph LR
   n13 --> n9
   n14 --> n17
   n14 --> n2
-  n14 --> n20
+  n14 --> n21
   n15 --> n4
   n16 --> n12
   n16 --> n5
-  n17 --> n20
+  n17 --> n21
+  n19 --> n12
   n19 --> n21
-  n19 --> n6
   n2 --> n1
   n2 --> n11
   n2 --> n13
   n2 --> n14
-  n2 --> n20
   n2 --> n21
+  n2 --> n22
   n2 --> n8
-  n20 --> n10
-  n20 --> n11
-  n20 --> n14
-  n20 --> n17
-  n20 --> n2
-  n20 --> n21
-  n20 --> n8
-  n21 --> n0
+  n20 --> n22
+  n20 --> n6
+  n21 --> n10
   n21 --> n11
-  n21 --> n13
+  n21 --> n14
+  n21 --> n17
   n21 --> n19
   n21 --> n2
-  n21 --> n20
-  n21 --> n3
-  n21 --> n5
-  n21 --> n6
+  n21 --> n22
   n21 --> n8
-  n21 --> n9
+  n22 --> n0
+  n22 --> n11
+  n22 --> n13
+  n22 --> n2
+  n22 --> n20
+  n22 --> n21
+  n22 --> n3
+  n22 --> n5
+  n22 --> n6
+  n22 --> n8
+  n22 --> n9
   n3 --> n0
   n3 --> n11
-  n3 --> n21
+  n3 --> n22
   n3 --> n5
   n5 --> n0
   n5 --> n12
   n5 --> n16
-  n5 --> n21
+  n5 --> n22
   n5 --> n3
   n5 --> n6
-  n6 --> n19
-  n6 --> n21
+  n6 --> n20
+  n6 --> n22
   n6 --> n8
   n8 --> n2
-  n8 --> n20
   n8 --> n21
+  n8 --> n22
   n8 --> n6
   n9 --> n11
 ```
