@@ -1,0 +1,73 @@
+name: publish-bight-watch
+
+# Rebuilds Bight Watch from the ingestion branch and deploys it to GitHub
+# Pages, so the review screen refreshes itself while the chain works instead
+# of needing a Claude session to regenerate it.
+#
+# One-time setup: repo Settings -> Pages -> Source: "GitHub Actions".
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: Branch to build the snapshot from
+        required: false
+        default: claude/batch-3-planning-lessons-pxwdl5
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the ingestion branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.branch || 'claude/batch-3-planning-lessons-pxwdl5' }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch recent chain runs for the Chain card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${{ github.repository }}/actions/workflows/ingest-chunk.yml/runs?per_page=10" \
+            --jq '{workflow_runs: [.workflow_runs[] | {id, status, conclusion, created_at}]}' \
+            > /tmp/runs.json || echo '{"workflow_runs":[]}' > /tmp/runs.json
+
+      - name: Build the page
+        run: |
+          # checkout narrows the refspec to the branch it fetched, so origin/main
+          # (the diff base the generator compares against) has to be asked for
+          # by name or every page reads as unchanged.
+          git fetch origin +refs/heads/main:refs/remotes/origin/main
+          git rev-parse --short origin/main
+          mkdir -p _site
+          python scripts/build-bight-watch.py --out _site/index.html --runs /tmp/runs.json
+          ls -la _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
