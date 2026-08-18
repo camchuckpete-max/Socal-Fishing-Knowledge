@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
@@ -234,6 +234,31 @@ the *bottom*, not the fish.
   roughly **102 ft**, with red crab present on the structure — full trip
   detail, including a later repositioning to 20 fathoms on the outer edge,
   logged in [yellowtail](yellowtail.md#where--when).
+- **Bag limit and a depth-boundary compliance tool (California/CDFW, as-of
+  2020-03, stated on camera at a live seminar — verify current limits and
+  boundaries with CDFW before relying on either figure):** Bobby Martinez
+  (Fisher Newb seminar, `iAr6sbRC384`, 2020-03-16; unregistered channel,
+  medium confidence) stated a **10 rockfish/day** bag limit with a
+  **separate 10-fish whitefish allowance stacked on top of it** (his framing:
+  "you can keep 10 whitefish with your 10 rockfish"). He referenced
+  additional sub-limit detail for canary rockfish and a species count within
+  the complex, but that portion of the auto-captions was too garbled to
+  transcribe reliably and is omitted rather than guessed (asr-uncertain).
+  Separately, he described California's depth-based rockfish closure line
+  (referred to on camera in fathom/foot terms consistent with the
+  CDFW Rockfish Conservation Area boundary) as running at different depths
+  in different places along the same stretch of coast — his examples: about
+  **240 ft** around the offshore islands vs. a **75-fathom (450 ft)** line
+  closer to the mainland coast — such that a boat can be legal at one GPS
+  position and just over the line, at a similar depth, in closed water a
+  short distance away. His practical fix: load the CDFW boundary line into a
+  **chart app (he named Navionics, ~$10-15)** so a private boat can check its
+  position against the closure line in real time, rather than relying on
+  depth alone — he cited hearing of private boats getting boarded and cited
+  for fishing on the wrong side of the line. Kept as a dated historical data
+  point and a tool tip, not current guidance — depth lines and bag limits
+  both move year to year (see the depth-limit progression entry below for a
+  concrete example of that movement).
 - **Historical example — reopen date and a depth-limit progression (California/CDFW,
   as-of 2019-02, self-admitted uncertain reading of the regs — verify current
   before using any of these numbers):** the presenter describes the SoCal

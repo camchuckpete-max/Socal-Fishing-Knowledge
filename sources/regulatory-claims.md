@@ -48,6 +48,8 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | 7/person/day bag limit; see note for the rest | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |
 | Catalina MLPA closed to public fishing (context for a hatchery broodstock crew) | closure | 2024 | [white seabass](../species/white-seabass.md) | `Y2bXn44lfqo` |
 | Cow Cod Conservation Area reopened to 600 ft / two hooks; cow cod itself still no-retain (federally protected species) | 600 ft depth limit, 2 hooks inside the CCCA; cow cod catch-and-release only | 2024-03 (describes a 2023 change); self-hedged on camera | [rockfish & lingcod](../species/rockfish-lingcod.md) | `AH4Eiya1Hn0` |
+| Rockfish bag limit plus a separate whitefish allowance | 10 rockfish/day + 10 whitefish/day stacked on top | 2020-03; live-seminar recollection, verify current before relying on it | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
+| Depth-based rockfish closure line (Rockfish Conservation Area boundary) varies by location | ~240 ft near the islands vs. ~75 fathom (450 ft) nearer the coast, in the presenter's examples | 2020-03; live-seminar recollection, verify current boundary with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:

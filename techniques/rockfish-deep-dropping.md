@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -120,6 +120,97 @@ built around **feeling the bite from depth**:
   Bring the jig as far as ~30 ft up, then flutter it back down. On a short-biting
   ling, drop straight back to the bottom and start hopping again — they'll chase
   it back down and re-eat.
+
+## Wind-retrieve skirted bait — a fourth presentation (Fisher Newb / Bobby Martinez seminar, `iAr6sbRC384`, 2020-03-16; unregistered channel, single mention — medium confidence; trade-show pricing/booth-deal content around this system excluded per the curation bar)
+
+A presentation distinct from the three rigs above: a skirted bait wound on a
+**slow, steady retrieve** instead of jigged or soaked on a dropper loop.
+Bobby Martinez, a tournament bass angler, described carrying the idea over
+from bass fishing into deep rockfishing, adapting a bait style he said has
+been fished in Japan and Australia for 20+ years. **The bait's product name
+is ASR-uncertain** — auto-captions render it inconsistently (roughly "wrap"/
+"world"/"walkover") — likely a Daiwa product, not confirmed; not carried as a
+named product.
+
+- **Tie point changes the action.** Tying the leader to the bait at the
+  nose/tip gives a straighter winding action; tying mid-body gives a jerkier
+  action. Tying from the tip on a slow, steady retrieve was what he found
+  worked best, on both sport boats and private boats.
+- **Retrieve and the "steal it" trigger.** Drop to bottom, then wind slowly
+  and steadily — roughly 10 cranks as a working cadence. A light tap-tap on
+  the retrieve is usually a small fish nipping the skirt without being able
+  to eat the whole bait; the point is that a **bigger predator fish moves in
+  to take the bait away from the smaller fish**, and that's when the eat
+  happens — so the bait is deliberately kept working through a light tap
+  rather than reeled away from it. This presentation covers both bottom fish
+  and fish suspended off the bottom on the same retrieve.
+- **Sport-boat drop etiquette.** When the whole rail drops together on an
+  anchored stop, the fish right under the boat get picked off fast by
+  whoever's gear lands first; his approach was to hang back, then work the
+  bait **20–30–50 ft** out from the boat on the slow retrieve rather than
+  compete for the same fish everyone else is already on. He tied the need
+  for this to rockfish suspending higher over structure than they used to,
+  attributed on camera to **red crab** concentrations in the water column
+  above these spots (as observed in the years before the 2020-03-16 upload;
+  no further date given).
+- **Colors.** Three patterns he uses most: a **red-crab pattern** (his pick
+  when red crab is present, called a strong producer), a **dark pattern**,
+  and a **baitfish pattern** — the last flagged as almost too effective: it
+  draws bycatch (mackerel, bonito) along with target rockfish and bocaccio
+  ("salmon grouper" — matches this note's existing bocaccio nickname) on the
+  way through the column.
+- **Bite/hookset — don't swing.** A tap-tap on this retrieve should not be
+  met with a hookset; keep winding steadily. The bait's **long-shank hook**
+  is meant to pin the fish in the corner of the mouth as it works rather than
+  needing an active strike.
+- **Trailer fix for a chewed bait.** When the skirt gets cut or chewed up by
+  small fish, a soft-plastic trailer threaded onto the hook shank (slid into
+  place and re-seated) was described as a field fix to keep the bait fishing
+  instead of shelving it.
+
+### Rod, weight, and reel for this system
+
+- **Rod — a purpose-built soft/parabolic blank ("Elevator" rod, Daiwa; name
+  stated plainly and repeatedly on camera, not ASR-uncertain).** Composite
+  blank, fast tip but very limber through the rest of the blank — the deep,
+  even bend acts as a shock absorber: even a 20–30 lb lingcod loads the blank
+  rather than transmitting a hard shock to the hook, which he framed as
+  reducing pulled hooks on big fish. Comes in three power classes (medium,
+  medium-heavy, heavy); he fishes medium-heavy and heavy most, to depths
+  stated up to **450 ft**.
+- **Weight — deliberately light for the depth.** He fishes as light as
+  **4 oz even in ~300 ft** of water, accepting a slower drop (his estimate:
+  on the order of 10 seconds slower to reach bottom) in exchange for — his
+  claim — more bites. The system's weight options top out around **7 oz**
+  for heavier conditions/deeper water; the auto-captions are too garbled at
+  this point to reliably attribute a specific heavier weight to competitors
+  at the same depth, so that comparison is not carried.
+- **Reel — baitcaster, deliberately low/slow gear ratio.** Paired with a
+  level-wind baitcasting reel; he framed modern braid capacity as removing
+  the need for a large 30/40/50-size conventional reel at this depth. He
+  specifically recommends a **lower gear ratio — on the order of 6:1 to
+  6.5:1** — because a hooked rockfish cranked up fast on this retrieve spins
+  in a circle on the way up, and winding too fast can spin the fish right off
+  the hook. This is a **different mechanism** from the low-gear-ratio
+  doctrine already logged for flylining in [rod & reel selection — flyline
+  reel & rod selection](../tackle/rod-and-reel-selection.md#flyline-reel--rod-selection)
+  (there it's about feeling a finicky bite, not fish spinning off) — kept
+  side by side, not reconciled.
+- **Line/leader.** 40–50 lb braid (he favors 40 lb) main line; 2.5–3 ft
+  leader in 30–40 lb mono — no fluorocarbon needed for this presentation.
+
+### A second example of the same "nip triggers the bigger fish" pattern
+
+The same presenter separately described running a **small shrimp-pattern fly
+or bucktail teaser** above a soft-plastic jig on a dropper-style rig — the
+teaser mimics a shrimp or small baitfish that a predator fish is trying to
+eat, and his stated claim was that the visual of something already being
+chased draws bigger strikes than the plain jig fished alone. It's the same
+underlying idea as the tap-tap/steal-it read above (something small being
+pursued or nipped reads as a trigger to a bigger fish), applied to a jig rig
+instead of the wind-retrieve bait. Attributed single-mention idea, not
+established doctrine — no rigging specifics were given on camera beyond "a
+little shrimp fly" tied above the jig.
 
 ## Line class and spooling (Dave Hansen)
 
