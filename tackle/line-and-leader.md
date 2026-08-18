@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk]
 confidence: medium
 ---
 
@@ -329,6 +329,15 @@ Fluoro does two different jobs; keep them separate:
   current retail products rather than giving independent testing or
   reasoning, and the segment doubles as promotion for the channel's own
   contest/live-remote schedule.
+- **Surface-iron backing/top-shot combo — Fisherman's Landing counter tip
+  (Doug Kearn, SearcherSportfishing, "Tackle Tip Thursday Vol. 132 (Surface
+  Iron)," `3g82igEL8yk`, 2020-12-31; unregistered channel, single mention —
+  medium confidence):** on a mid-sized star-drag reel for surface iron, run
+  **65 lb spectra as backing**, topped with **~100 yd of 40 lb monofilament**
+  — stepping the top shot to **50 lb** for bluefin. A braid-backing/mono-top-
+  shot combo, distinct from the straight-braid mainline in the application
+  table in [rod & reel selection](rod-and-reel-selection.md); see that note
+  for the rest of this source's rod/reel build.
 - **Inshore bass swimbait/crank, action-preserving leader (Jeremy — first
   name only, as addressed in the transcript's Q&A; Sav-On Tackle/IROD
   seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel —

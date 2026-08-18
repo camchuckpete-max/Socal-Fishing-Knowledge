@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -30,7 +30,13 @@ the iron sinks and how it holds in current:
   aluminum irons; CNC-machined irons (Strictly Irons, JRI) hold a tighter,
   designed kick. A wide, slow, drawn-out kick is the change-up for picky bites
   and slack current; a smaller/faster iron worked medium-to-high speed is the
-  searching retrieve.
+  searching retrieve. **A second, slightly lighter data point (Doug Kearn,
+  Fisherman's Landing tackle, via SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 132 (Surface Iron)," `3g82igEL8yk`, 2020-12-31; unregistered channel,
+  single mention — medium confidence):** names the surface-iron range as
+  roughly **1¾–2¾ oz**, **5"–7"** — a bit lighter on the low end than the ~3 oz
+  benchmark above; kept side by side, not reconciled, as a second attributed
+  weight range for the same class.
 - **Yo-yo iron** — a **heavier** iron of the same profile so it sinks fast and
   **stays vertical** in current. The **Salas 6X** and **Salas CP 105** are the
   classic heavy yo-yo benchmarks; Tady 4/0 and heavier CNC irons fill the same
@@ -266,6 +272,15 @@ jigs](knife-jigs.md) (how many assists to run on a knife/slow-pitch jig) —
 this is choosing assist vs. treble hook *style* on a surface/yo-yo iron, not
 reconciled with or contradicting that separate conflict.
 
+**Treble vs. single by target species (Doug Kearn, Fisherman's Landing
+tackle, via SearcherSportfishing, `3g82igEL8yk`, 2020-12-31; unregistered
+channel, single mention — medium confidence):** a **treble hook typically
+works best for yellowtail**; a **single hook is sometimes rigged instead for
+bluefin**. Stated reasoning: bluefin are less picky than yellowtail about how
+the jig swims, so the swim-critical treble setup matters less on them. A
+separate axis from the assist-vs-treble, bigger-fish framework above — this
+is treble-vs-single, and turns on species rather than fish size.
+
 ## Owned examples
 
 Cameron's owned irons (attributed `cameron`; full list and colors in
@@ -294,6 +309,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)

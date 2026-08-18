@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk]
 confidence: medium
 ---
 
@@ -151,6 +151,44 @@ most boats not yet connecting on them. Kept side by side, not merged in:
   [barracuda](../species/barracuda.md) rather than carrying a separate rod for
   each. Explicitly a courtesy-to-passengers choice on a bigger boat, trading a
   dedicated light and heavy bass rod for one universal stick.
+
+## Surface-iron rod and reel — Fisherman's Landing counter tip (Doug Kearn, SearcherSportfishing)
+
+Doug Kearn, Fisherman's Landing tackle counter, via SearcherSportfishing
+("Tackle Tip Thursday Vol. 132 (Surface Iron)," `3g82igEL8yk`, 2020-12-31;
+unregistered channel, single mention — medium confidence). A basic-items
+rundown for surface iron, called historically a yellowtail method in SoCal but
+also fished heavily for bluefin. Kept side by side with the dated
+[surface iron](../techniques/surface-iron.md) builds above rather than merged
+in:
+
+- **Rod: no less than 9 ft to be "in the game," 10 ft preferred.** Stated
+  reason is leverage for the cast — the longer rod throws the jig farther from
+  the boat, and fish don't always come in close enough to reach on a shorter
+  rod; conditions vary trip to trip, so the longer stick is the safer default.
+- **Reel: a mid-sized star-drag conventional is the standard** — his own
+  example is a **Torium 20**, plus a second brand name (rendered "italica" in
+  the auto-generated captions — not a real reel brand, left unresolved rather
+  than guessed) and "any manufacturer that makes a nice star drag reel of this
+  size," offered as equivalent class options (not a single-brand endorsement).
+  Some of the better **casting lever-drag reels** can now be used too,
+  especially for tuna.
+- **Tranx named as a good casting reel** specifically for its **adjustable
+  brakes** — they cut down on backlash while still letting the jig get out far
+  from the boat.
+- **Lever-drag two-speed reels are becoming viable for casting** as newer
+  reels free-spool better than older lever-drag designs — a good method
+  "especially when you're targeting those 80, 90, 100 lb bluefin tuna."
+- **Line: 65 lb spectra backing, topped with ~100 yd of 40 lb monofilament**
+  (step to **50 lb** mono for bluefin).
+- **Jig size:** roughly **1¾–2¾ oz**, **5–7 in**. A **treble hook typically
+  works best for yellowtail**; a **single hook is sometimes used instead for
+  bluefin** — bluefin are stated as less picky than yellowtail about how the
+  jig swims. The critical thing for yellowtail specifically is a jig that
+  swims a wide **S pattern** with a bit of erratic break-out of that pattern —
+  a jig swimming a flat, unbroken line doesn't get bit as well as one that
+  gives that kick. See [iron jigs](../lures/iron-jigs.md) for the class specs
+  this corroborates and the hook-style detail.
 
 ## Casting rod/reel/top-shot general parameters (Cesar, Eric's Tackle)
 
