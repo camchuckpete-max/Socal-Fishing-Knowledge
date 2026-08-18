@@ -1979,7 +1979,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | --- | --- | --- | --- | --- | --- |
 | -nIhadZwxAA | CustomRodandReel | seminar | deep | done | lures/knife-jigs.md; rigging/assist-hooks.md; techniques/slow-pitch-jigging.md / Extracted general SPJ mechanics (hook geometry, weight/current formula, boat control, braid strand-count, drag/fight technique, spawn-cycle jig sizing) from East Coast/Gulf seminar as labeled out-of-region contrast, medium confidence |
 | 0HwYl0HO2tc | Orange County SUP FISHING | seminar | deep | done | techniques/glide-baits.md; species/calico-bass.md; species/rockfish-lingcod.md; species/sand-bass.md; species/yellowtail.md / new glide-bait technique note (low confidence, promotional seminar) linked from 4 species routers, 2 faithfulness defects fixed in review |
-| 0ZYCT-lUStM | Big Rocco | seminar | deep | pending |  |
+| 0ZYCT-lUStM | Big Rocco | freshwater | skip:freshwater-non-target | done | none / skipped: freshwater largemouth-bass seminar, out of SoCal/Baja saltwater fishery scope, log entry fixed to record reason |
 | 1iV1GnF4K-c | Bad Company Fishing Adventures | seminar | deep | pending |  |
 | 46ha7J1Fc6A | Roman Castro | seminar | deep | pending |  |
 | 5Oh3IPIC5g4 | Fisher Newb | seminar | deep | pending |  |
