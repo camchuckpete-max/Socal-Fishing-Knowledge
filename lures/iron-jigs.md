@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -42,7 +42,16 @@ the iron sinks and how it holds in current:
 - **Color/kick:** carry a spread of profiles and kicks (wide-slow through
   fast-tight) and a color range (blue/white, scrambled egg, mackerel, chrome,
   dorado) so you can match the bait and the bite. Read the kick off the rod tip;
-  match the iron to the tip feel, not just the weight.
+  match the iron to the tip feel, not just the weight. **Corroborating dating,
+  independent channel (SearcherSportfishing, `1uYIApdQQSM`, 2020-06-11;
+  unregistered channel — medium confidence):** names the Tady 45 in
+  blue/green/white ("mackerel") and the Salas 7X in sardine green/white as the
+  two standard-bearer surface-iron colors, "on the scene" roughly 25–30 years
+  as of the 2020 upload — consistent with, and corroborating, the early-1990s
+  (~1993) dating of the Tady 45 / Salas 7X pairing as the surface-iron
+  standard in [surface iron](../techniques/surface-iron.md), under its size /
+  weight selection section. No reason given beyond track record; full data point in
+  [surface iron — colour](../techniques/surface-iron-color.md).
 
 Model benchmarks beyond any one box: **Tady 45 / 4/0**, **Salas 6X / 7X / 6X Jr.
 / CP 105**, **JRI** CNC irons (incl. the **JRI Stinger** — a Cedros/Baja
