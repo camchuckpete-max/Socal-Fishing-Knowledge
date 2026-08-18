@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4, JK2-cpaXkI8]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -177,6 +177,27 @@ framing and the extended catch list below are this video's own addition
   chum slick and on calico bass working a piece of bait around a kelp string.
   Hansen still fishes big bait on the hook itself; it's the traveled/thrown
   chum bait he sizes small specifically to maximize density.
+
+## Chum tube — a churn device sized for a bait-limited private boat (Dave Hansen, Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; dave-hansen registered voice — repeated doctrine on prey density, high; the device mechanics themselves, single mention, medium)
+
+Framed explicitly against sportboat-scale bait: a sportboat can carry dozens of
+scoops of live bait, but a private 6-pack or personal boat (his examples: a Sea
+Swirl, a Boston Whaler) can't, so raising the prey-density level (the mechanism
+above, `BdRX4b8Fo5w`) has to come from a device that stretches a small bait
+supply instead of from sheer volume.
+
+- **The device:** a tube loaded with cut sardines, anchovies, squid, or
+  mackerel — whatever's on hand — with an internal plunger/chopper worked up
+  and down. The chopper smashes the bait inside the tube; the crushed bait
+  works its way out through small holes cut around the tube, feeding a
+  continuous scent/particle trail into the water at anchor rather than one big
+  dump over the side.
+- **Why a small boat needs it specifically:** it converts a limited amount of
+  cut bait into the same sustained prey-density effect the doctrine above
+  describes, without needing the 30–40-scoop bait supply a sportboat carries.
+- Fished the same way as the anchored-chumming entries above — alongside a
+  live-bait flyline at anchor over structure — to draw fish up onto the
+  presented baits.
 
 ## Light-line finesse rig — pressured, shallow reef fish (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; registered voice, single mention — medium confidence)
 

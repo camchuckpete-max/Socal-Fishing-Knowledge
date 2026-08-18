@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8]
 confidence: high
 ---
 
@@ -85,9 +85,17 @@ Once you've found the water, where you drop the hook depends on what you're afte
   [current diagnostics](../conditions/current-diagnostics.md).
 - **Re-anchor on the opposite side of the same spot when current reverses,
   because fish hold facing into the current.** Stated reasoning (Your Saltwater
-  Guide seminar host, not named on camera — biography doesn't match the
-  channel's registered `dave-hansen` voice, treated as unregistered,
-  BskCsKaTiZw, 2025-03-08): fish on a spot orient into the current the same way
+  Guide seminar host, BskCsKaTiZw, 2025-03-08 — **attribution corrected**: an
+  earlier pass on this clip treated the host as unregistered because the
+  stated biography, e.g. "I ran sport boats," didn't visibly match the
+  registered `dave-hansen` voice. `JK2-cpaXkI8` (2025-03-06, the *same* PCS
+  Show's first seminar, podcast episode #672 to this clip's #673 two days
+  later) has the host self-identify by name as Dave, with wife Kelly, sister
+  Donna, a home in Cabo/Mexico, and a family sportfishing business his father
+  started in 1947 — all matching the registered `dave-hansen` biography. Now
+  treated as **dave-hansen, registered voice** — single mention on this
+  specific claim, so confidence stays **medium**, not promoted to high on
+  attribution alone): fish on a spot orient into the current the same way
   a stream trout always faces upstream — facing away would leave them with no
   control. So on a spot fished two days running
   with the current reversed between them, the fish that were feeding (and
@@ -180,6 +188,52 @@ Below the geometry above sits the physical rode and the drop itself:
   approach in [Anchoring geometry](#anchoring-geometry) above — both put a
   bottom-fish spread directly over the structure, one by grading the mark
   first, this one by dropping and correcting after.
+
+## Confirming the lay reaches the spot — heading check and reset (Dave Hansen, Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; registered voice — repeated doctrine on current-governs-the-bite, high; the heading-check/reset procedure and the up-current-edge read on the worked example below, single mention on this specific video, medium)
+
+Getting the anchor down (see "Ground tackle and the pinpoint drop" above) is
+only half the job — you then have to confirm the boat actually laid the way
+you planned, because **the spot has to end up off the stern, where your bait
+lands, not off the bow.**
+
+- **Read the compass/GPS heading the moment the anchor sets and compare it to
+  what you expected.** Hansen notes older boats carried a physical compass
+  that told you this directly; he calls it "the weirdest thing" that a lot of
+  boats today run GPS-only and have dropped the compass — either way, read the
+  heading you're lying on before assuming the drop is fishable.
+- **If the boat lies backward from plan, the spot ends up off the bow — you
+  have to reset, not power around into position.** You cannot just motor the
+  boat around to face the "right" way with the anchor down; wind/current will
+  swing it straight back to the same lay. The fix: **pull the anchor all the
+  way up**, re-drive around and back over the spot on the heading you actually
+  want, and re-drop **beyond** the spot in that direction of travel so that
+  once it sets, the stern — and your line — fall back onto the spot.
+- **Re-set as many times as it takes.** From 20 years running SoCal
+  sportboats, Hansen frames repeated re-anchoring (resetting "10 times" in his
+  example) as normal, not a failure — being off the spot is the actual
+  failure.
+- **Worked example — White Rock, San Clemente Island:** anchored in **90 ft**
+  of water over a **hard, cobblestone bottom** ("a little bit bigger" than
+  loose gravel — not sand, not reef rock), fishing on a **downhill current**
+  (his convention: current running the LA-to-San Diego direction, i.e. north
+  to south — matching "coastal deep spots default-prefer downhill (N→S)" in
+  [current structure](../conditions/current-structure.md#the-parallel-current-rule-coastal--island-structure)).
+  Fish sit at **the very front edge of the hard bottom** (his phrase — given
+  the anchoring geometry described above, the boat's stern trails downcurrent
+  of the bow, so this front edge, nearest the boat, reads as the up-current
+  face of the structure; not stated in those words on camera, so treat the
+  "up-current edge" label as an inference from the worked example, not a
+  separate repeated claim) — so once the anchor is properly set, that edge,
+  not the stern generally, is where the cast needs to land.
+- **Current, not the GPS numbers or yesterday's result, decides the bite.**
+  Framed as a direct rebuttal to relying on coordinates alone: a boat fishing
+  White Rock on a downhill current caught "a bunch of" yellowtail; a different
+  boat at the identical GPS numbers the very next day, with no current
+  running, caught nothing — "it doesn't matter if you caught 10,000 fish there
+  yesterday if there's no current there today." Same current-governs-the-bite
+  point as the "treadmill is off" no-current tell in
+  [current diagnostics](../conditions/current-diagnostics.md#the-treadmill-is-off--no-current-at-anchor),
+  restated here as a same-spot, back-to-back-day illustration.
 
 ## Inshore/kayak zone-and-spot search (bay / back-bay)
 

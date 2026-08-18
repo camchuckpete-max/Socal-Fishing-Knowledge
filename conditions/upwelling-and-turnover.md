@@ -157,6 +157,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 
 - [<Your> Spots](../profiles/_template/spots.md)
 - [April](../seasonal/april.md)
+- [Barred Sand Bass](../species/sand-bass.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [BightSST Eval Targets](../locations/bightsst-eval-targets.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)

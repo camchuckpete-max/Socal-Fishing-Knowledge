@@ -78,6 +78,7 @@ route, and the insurance carriers by name.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barred Sand Bass](../species/sand-bass.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 <!-- backlinks:end -->

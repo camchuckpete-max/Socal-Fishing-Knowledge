@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [nearshore-coast, bay-harbor, bank]
@@ -42,6 +42,37 @@ rocks.
   [February–March](../seasonal/february-march.md).
 - **Moon:** clear full-moon nights suppress the daytime bite the same way they do
   calico — bite early, dead mid-day ([moon](../conditions/moon.md)).
+- **Highly migratory — warm water pushes them out of the bight (Dave Hansen,
+  Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; registered
+  voice, single mention — medium confidence):** sand bass are a highly
+  migratory species, and their local abundance tracks that migration path,
+  which he ties to water temperature. During the **2014–2015 El Niño**, with
+  water at **85°F**, his crew caught **wahoo** at the oil platforms off
+  Huntington Beach — a warm-water pelagic species well outside its normal
+  SoCal range, the same tropical-range-extension pattern documented for other
+  species during warm events (see the ENSO section of
+  [upwelling and turnover](../conditions/upwelling-and-turnover.md)).
+  His point: sand bass leaving a spot when the water runs warm is the mirror
+  case of that same pattern — a temperature-driven range shift, not a
+  population collapse, even though the wahoo themselves are long gone from
+  Huntington Beach now that the water has cooled back down.
+  - **Stated as a rebuttal to a population-collapse claim** (that Humboldt
+    squid ate the sand bass): per Hansen, Humboldt squid during that period
+    held in canyons at **1,200–2,000 ft**, not on the shallow flats where sand
+    bass live, so a squid-predation explanation doesn't fit the depths
+    involved.
+  - **Bait-size mismatch offered as a second, compounding explanation** for
+    lower recent sand bass catch counts: he says the bait now sold in SoCal
+    bait barges runs about **8 in** long, too large, he says, to catch a
+    **14 in** sand bass with. He doesn't say "legal" on camera in this
+    passage, but 14 in matches the established **California/CDFW 14 in
+    minimum size** for sand bass (as of 2022-04-25 — verify current before
+    fishing; see the
+    [regulatory register](../sources/regulatory-claims.md)) — a possible
+    catch-ability confound distinct from the migration point, not something
+    he reconciles with it. ASR renders the bait species inconsistently across
+    this passage (once as "sard[ine]," once elsewhere as "anchovies") — too
+    garbled to confirm which he means, so the species is left unstated here.
 - **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
   Camp Pendleton, SoCal — `HMdrP4-i9MM`, "Out Fished by the Kids | Okuma
   Inspired Fishing"): on the same Okuma kids/family trip logged in

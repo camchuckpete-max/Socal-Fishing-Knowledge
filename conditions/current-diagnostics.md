@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8]
 confidence: high
 ---
 
@@ -42,12 +42,19 @@ is a live current reading you can deploy on purpose.
 
 **A chart plotter's current-arrow layer is reading wind, not current** — treat
 it as such and confirm with the chum-drift/kelp-lean tells above instead
-(Your Saltwater Guide seminar host, not named on camera — this speaker's
-biography, e.g. "I ran sport boats," his father's ownership of two named
-San Pedro-area sport-fishing operations, and 15 years running the Your
-Saltwater Guide business, does not match the channel's registered
-`dave-hansen` voice, so treated as unregistered — BskCsKaTiZw, 2025-03-08;
-single mention — medium confidence).
+(Your Saltwater Guide seminar host, BskCsKaTiZw, 2025-03-08 — **attribution
+corrected**: this speaker's biography ("I ran sport boats," his father's
+ownership of two named San Pedro-area sport-fishing operations, 15 years
+running the Your Saltwater Guide business) was previously read as not
+matching the channel's registered `dave-hansen` voice and treated as
+unregistered. `JK2-cpaXkI8` (2025-03-06, the same PCS Show's first seminar,
+podcast episode #672 to this clip's #673 two days later) has the host
+self-identify by name as Dave, with wife Kelly, sister Donna, a home in
+Cabo/Mexico, and a family sportfishing business his father started in 1947 —
+matching the registered `dave-hansen` biography and confirming this is the
+same voice. Now treated as **dave-hansen, registered voice**; single mention
+on this specific chart-plotter claim, so confidence stays **medium**, not
+promoted to high on attribution alone).
 
 ## "The treadmill is off" — no current at anchor
 
