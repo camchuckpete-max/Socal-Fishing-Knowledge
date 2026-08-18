@@ -194,6 +194,79 @@ def collect_attribution(base: str, files: list[dict]) -> dict:
     return out
 
 
+def layout_graph(files: list[dict]) -> dict:
+    """Settle the link graph here, once, instead of in everyone's browser.
+
+    The page used to run the force model inside requestAnimationFrame for its
+    first 340 frames — an O(n^2) repulsion pass at 60fps from random starting
+    positions, which is the thrash on open — and then kept the frame loop
+    running forever, redrawing ~1,400 edges every frame for the rest of the
+    session. Solving it at build time makes the map identical on every open
+    (so it stays recognisable between refreshes) and leaves the browser with
+    nothing to do but draw.
+    """
+    nodes = [f["path"] for f in files if not f["path"].endswith("README.md")]
+    ix = {p: i for i, p in enumerate(nodes)}
+    edges = []
+    for f in files:
+        a = ix.get(f["path"])
+        if a is None:
+            continue
+        for l in f.get("links", []):
+            b = ix.get(l)
+            if b is not None and b != a:
+                edges.append((a, b))
+
+    n = len(nodes)
+    if not n:
+        return {}
+    # deterministic start — a fixed seed, not Math.random(), so the shape of
+    # the map does not change out from under the reader between builds
+    seed = 20260818
+    def rnd():
+        nonlocal seed
+        seed = (seed * 1103515245 + 12345) & 0x7FFFFFFF
+        return seed / 0x7FFFFFFF - 0.5
+
+    xs = [rnd() * 760 for _ in range(n)]
+    ys = [rnd() * 560 for _ in range(n)]
+    vx = [0.0] * n
+    vy = [0.0] * n
+    deg = [0] * n
+    for a, b in edges:
+        deg[a] += 1
+        deg[b] += 1
+
+    for _ in range(600):
+        for i in range(n):
+            axi, ayi = xs[i], ys[i]
+            for j in range(i + 1, n):
+                dx = xs[j] - axi
+                dy = ys[j] - ayi
+                d2 = dx * dx + dy * dy or 1.0
+                if d2 < 36000:
+                    d = d2 ** 0.5
+                    f = 820 / d2
+                    ux, uy = dx / d, dy / d
+                    vx[i] -= ux * f; vy[i] -= uy * f
+                    vx[j] += ux * f; vy[j] += uy * f
+        for a, b in edges:
+            dx = xs[b] - xs[a]
+            dy = ys[b] - ys[a]
+            d = (dx * dx + dy * dy) ** 0.5 or 1.0
+            f = (d - 86) * 0.012
+            ux, uy = dx / d, dy / d
+            vx[a] += ux * f; vy[a] += uy * f
+            vx[b] -= ux * f; vy[b] -= uy * f
+        for i in range(n):
+            vx[i] -= xs[i] * 0.0024
+            vy[i] -= ys[i] * 0.0024
+            vx[i] *= 0.86; vy[i] *= 0.86
+            xs[i] += vx[i]; ys[i] += vy[i]
+
+    return {p: [round(xs[i], 1), round(ys[i], 1), deg[i]] for p, i in ix.items()}
+
+
 def load_titles() -> dict:
     """Video titles, from every landed manifest."""
     titles: dict[str, str] = {}
@@ -227,6 +300,27 @@ def build(base: str) -> dict:
     snap["videos"], snap["videosOmitted"] = collect_video_diffs(
         base, wl, load_titles())
     snap["attrib"] = collect_attribution(base, snap["files"])
+    snap["layout"] = layout_graph(snap["files"])
+    # Length watch. An over-long note is where an autonomous writer stops
+    # being able to see the doctrine it should reconcile against, so the
+    # sizes belong on the review surface, not only in a pre-commit warning.
+    sizes = []
+    for f in snap["files"]:
+        if f["path"].endswith("README.md") or f["status"] == "unchanged":
+            continue
+        lines = (f.get("content") or "").split("\n")
+        worst, head, start = 0, None, 0
+        for i, line in enumerate(lines + ["## "]):
+            if line.startswith("## "):
+                if head and i - start > worst:
+                    worst, worst_head = i - start, head.strip()
+                head, start = line, i
+        if len(lines) > 400 or worst > 120:
+            sizes.append({"path": f["path"], "title": f["title"],
+                          "lines": len(lines), "sec": worst,
+                          "head": (worst_head if worst else "")})
+    sizes.sort(key=lambda r: -r["lines"])
+    snap["sizes"] = sizes
     # Each video learns which live notes still carry its writing, so the
     # video view can open the article rather than only a hunk.
     wrote: dict[str, dict] = {}
@@ -326,6 +420,7 @@ button{font-family:inherit;cursor:pointer}
   padding:3px 11px;font-size:12px;color:var(--ink2);white-space:nowrap}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--muted);flex:none}
 .dot.ok{background:var(--good)}.dot.wait{background:var(--serious)}
+.dot.bad{background:var(--critical)}
 .clockbox{text-align:right}
 .clock{font-family:var(--mono);font-size:13px;color:var(--ink2);font-variant-numeric:tabular-nums}
 .stamp{font-size:10.5px;color:var(--muted)}
@@ -560,6 +655,8 @@ main{flex:1;display:flex;min-height:0}
       <div class="card"><h2>On deck</h2><div id="upnext" class="mut"></div></div>
       <div class="card"><h2>Activity<span class="sp"></span><span class="sub" id="feedsub"></span></h2>
         <div id="feed"></div></div>
+      <div class="card" id="sizecard" hidden><h2>Length watch<span class="sp"></span><span class="sub" id="sizesub"></span></h2>
+        <div id="sizes"></div></div>
       <div class="card"><h2>Escalations<span class="sp"></span><span class="sub" id="escsub"></span></h2>
         <div id="escs" class="mut"></div></div>
     </aside>
@@ -577,7 +674,9 @@ const col=p=>FC[fol(p)]||'#5E7076';
 const tb=document.getElementById('themebtn');
 tb.onclick=()=>{const r=document.documentElement;
   const dark=r.getAttribute('data-theme')==='dark'||(!r.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme:dark)').matches);
-  r.setAttribute('data-theme',dark?'light':'dark'); tb.textContent=dark?'☾':'☀';};
+  r.setAttribute('data-theme',dark?'light':'dark'); tb.textContent=dark?'☾':'☀';
+  // the graph bitmap bakes in the theme's edge colour, so invalidate it
+  if(typeof scheduleRender==='function')scheduleRender();};
 
 /* header */
 const done=D.counts.done||0, pend=D.counts.pending||0, skip=D.counts.skipped||0;
@@ -603,10 +702,17 @@ else{cd.className='dot ok';ct.textContent='worklist clear';}
 /* chain — the ingestion runs behind the numbers above */
 if(D.runs&&D.runs.length){
   const card=document.getElementById('chaincard');card.hidden=false;
-  const cls=r=>r.status!=='completed'?'wait':(r.concl==='success'?'ok':'');
-  const label=r=>r.status!=='completed'?r.status.replace('_',' '):r.concl;
+  const cls=r=>r.status!=='completed'?'wait':(r.concl==='success'?'ok':
+    (r.concl==='cancelled'?'':'bad'));
+  /* A cancelled run here is queue displacement, not a failure: the workflow's
+     concurrency group holds one pending run, so each new dispatch evicts the
+     previous one before it starts. Calling those "not clean" reads as broken
+     when nothing was lost — only real failures are worth counting. */
+  const label=r=>r.status!=='completed'?r.status.replace('_',' ')
+    :(r.concl==='cancelled'?'superseded in queue':r.concl);
+  const bad=D.runs.filter(r=>r.concl&&r.concl!=='success'&&r.concl!=='cancelled').length;
   document.getElementById('chainsub').textContent=
-    D.runs.filter(r=>r.concl==='success').length+' of '+D.runs.length+' clean';
+    bad?`${bad} failed`:'no failures';
   document.getElementById('runs').innerHTML=D.runs.map(r=>
     `<div class="row"><span class="dot ${cls(r)}"></span><span class="txt">${esc(label(r))}</span>`+
     `<span class="when">${esc((r.when||'').slice(5,16).replace('T',' '))}</span></div>`).join('');
@@ -645,6 +751,17 @@ document.getElementById('feed').innerHTML=D.commits.slice(0,16).map(c=>{
   return `<div class="row"${hit?` data-vid="${esc(m[1])}" style="cursor:pointer"`:''}>`+
    `<span class="vid">${esc(c.sha)}</span><span class="txt">${esc(c.msg)}</span>
    <span class="when">${esc((c.when||'').slice(5,10))}</span></div>`;}).join('');
+/* length watch — 400 lines a note, 120 a section, per CLAUDE.md */
+if((D.sizes||[]).length){
+  document.getElementById('sizecard').hidden=false;
+  document.getElementById('sizesub').textContent=D.sizes.length+' over';
+  document.getElementById('sizes').innerHTML=D.sizes.slice(0,10).map(r=>{
+    const hot=r.lines>700||r.sec>300;
+    return `<button class="vrow" data-p="${esc(r.path)}"><span class="vt">${esc(r.title)}</span>`+
+      `<span class="vm"><span class="${hot?'minus':'plus'}">${r.lines} lines</span>`+
+      (r.sec>120?` · longest section ${r.sec} <span class="mut">${esc(r.head)}</span>`:'')+
+      `</span></button>`;}).join('');
+}
 const escThis=D.escalations.filter(e=>e.thisBatch);
 document.getElementById('escsub').textContent=`${escThis.length} this batch`;
 document.getElementById('escs').innerHTML=escThis.length
@@ -928,50 +1045,86 @@ document.getElementById('introrandom').onclick=()=>{intro.hidden=true;
   const pool=newNotes.length?newNotes:D.files;
   open(pool[Math.floor(Math.random()*pool.length)].path);};
 
-/* sonar */
+/* sonar — the layout arrives solved, so this only draws.
+
+   Two loops used to run forever: the force model (O(n^2), 340 frames) and
+   requestAnimationFrame itself. Now the static picture is rendered once to an
+   offscreen bitmap and blitted; only the ping rings animate, only for a few
+   seconds after open, and not at all under prefers-reduced-motion. */
 const cv=document.getElementById('graph'),cx=cv.getContext('2d');
-const nodes=D.files.filter(f=>!f.path.endsWith('README.md')).map(f=>({
-  p:f.path,t:f.title,c:col(f.path),recent:f.recent,st:f.status,deg:0,
-  x:(Math.random()-.5)*760,y:(Math.random()-.5)*560,vx:0,vy:0}));
+const LAY=D.layout||{};
+const nodes=D.files.filter(f=>!f.path.endsWith('README.md')&&LAY[f.path]).map(f=>{
+  const [x,y,deg]=LAY[f.path];
+  return {p:f.path,t:f.title,c:col(f.path),recent:f.recent,st:f.status,deg:deg,x:x,y:y};});
 const ix=new Map(nodes.map((n,i)=>[n.p,i])),eds=[];
 D.files.forEach(f=>(f.links||[]).forEach(l=>{
-  if(ix.has(f.path)&&ix.has(l)&&f.path!==l){eds.push([ix.get(f.path),ix.get(l)]);
-    nodes[ix.get(f.path)].deg++;nodes[ix.get(l)].deg++;}}));
+  if(ix.has(f.path)&&ix.has(l)&&f.path!==l)eds.push([ix.get(f.path),ix.get(l)]);}));
 document.getElementById('gstat').textContent=`${nodes.length} pages · ${eds.length} links`;
 const fols=[...new Set(nodes.map(n=>fol(n.p)))].sort();
 document.getElementById('legend').innerHTML=fols.map(f=>
   `<span class="lg"><span class="sw" style="background:${FC[f]||'#5E7076'}"></span>${esc(f)}</span>`).join('');
-let cam={x:0,y:0,z:1},t0=performance.now(),ticks=0;
+
+let cam={x:0,y:0,z:1};
+const base=document.createElement('canvas'),bcx=base.getContext('2d');
+let baseKey='';
 function fit(){const r=cv.getBoundingClientRect(),d=devicePixelRatio||1;
-  cv.width=r.width*d;cv.height=r.height*d;cx.setTransform(d,0,0,d,0,0);}
-addEventListener('resize',fit);fit();
-function frame(now){
-  if(ticks++<340){
-    for(let i=0;i<nodes.length;i++){const a=nodes[i];
-      for(let j=i+1;j<nodes.length;j++){const b=nodes[j];
-        const dx=b.x-a.x,dy=b.y-a.y,d2=dx*dx+dy*dy||1;
-        if(d2<36000){const d=Math.sqrt(d2),f=820/d2,ux=dx/d,uy=dy/d;
-          a.vx-=ux*f;a.vy-=uy*f;b.vx+=ux*f;b.vy+=uy*f;}}}
-    eds.forEach(([i,j])=>{const a=nodes[i],b=nodes[j],dx=b.x-a.x,dy=b.y-a.y,
-      d=Math.hypot(dx,dy)||1,f=(d-86)*.012,ux=dx/d,uy=dy/d;
-      a.vx+=ux*f;a.vy+=uy*f;b.vx-=ux*f;b.vy-=uy*f;});
-    nodes.forEach(n=>{n.vx-=n.x*.0024;n.vy-=n.y*.0024;n.x+=n.vx*=.86;n.y+=n.vy*=.86;});
-  }
-  const w=cv.clientWidth,h=cv.clientHeight,T=(now-t0)/1000;
-  cx.clearRect(0,0,w,h);cx.save();cx.translate(w/2+cam.x,h/2+cam.y);cx.scale(cam.z,cam.z);
-  cx.strokeStyle=getComputedStyle(document.documentElement).getPropertyValue('--ring');
-  cx.globalAlpha=.20;cx.lineWidth=1;cx.beginPath();
-  eds.forEach(([i,j])=>{cx.moveTo(nodes[i].x,nodes[i].y);cx.lineTo(nodes[j].x,nodes[j].y);});
-  cx.stroke();cx.globalAlpha=1;
+  cv.width=Math.max(1,r.width*d);cv.height=Math.max(1,r.height*d);
+  cx.setTransform(d,0,0,d,0,0);baseKey='';render();}
+function ringColor(){return getComputedStyle(document.documentElement).getPropertyValue('--ring');}
+function drawBase(){
+  const d=devicePixelRatio||1,w=cv.clientWidth,h=cv.clientHeight;
+  base.width=cv.width;base.height=cv.height;
+  bcx.setTransform(d,0,0,d,0,0);bcx.clearRect(0,0,w,h);
+  bcx.save();bcx.translate(w/2+cam.x,h/2+cam.y);bcx.scale(cam.z,cam.z);
+  bcx.strokeStyle=ringColor();bcx.globalAlpha=.20;bcx.lineWidth=1;bcx.beginPath();
+  eds.forEach(([i,j])=>{bcx.moveTo(nodes[i].x,nodes[i].y);bcx.lineTo(nodes[j].x,nodes[j].y);});
+  bcx.stroke();bcx.globalAlpha=1;
   nodes.forEach(n=>{const r=3+Math.min(n.deg,16)*.4;
-    if(n.recent>=0){const ph=(T*.7-n.recent*.12)%1.6;
-      if(ph>0&&ph<1.4){cx.globalAlpha=(1-ph/1.4)*.55;cx.strokeStyle=n.c;cx.lineWidth=1.6;
-        cx.beginPath();cx.arc(n.x,n.y,r+ph*26,0,6.283);cx.stroke();cx.globalAlpha=1;}}
-    cx.beginPath();cx.arc(n.x,n.y,r,0,6.283);cx.fillStyle=n.c;cx.fill();
-    if(n.st==='added'){cx.strokeStyle='#fff';cx.lineWidth=1.3;cx.stroke();}});
-  cx.restore();requestAnimationFrame(frame);
+    bcx.beginPath();bcx.arc(n.x,n.y,r,0,6.283);bcx.fillStyle=n.c;bcx.fill();
+    if(n.st==='added'){bcx.strokeStyle=ringColor();bcx.lineWidth=1.6;bcx.stroke();}});
+  bcx.restore();
+  baseKey=key();
 }
-requestAnimationFrame(frame);
+const key=()=>`${cam.x}|${cam.y}|${cam.z}|${cv.width}|${cv.height}|${document.documentElement.dataset.theme||''}|${matchMedia('(prefers-color-scheme:dark)').matches}`;
+/* the rings: a short arrival flourish over the recent notes, then a quiet
+   static marker. T is seconds since the animation started. */
+const PING_FOR=7;
+let started=0,anim=0;
+const still=matchMedia('(prefers-reduced-motion:reduce)').matches;
+function render(T){
+  if(key()!==baseKey)drawBase();
+  cx.setTransform(1,0,0,1,0,0);cx.clearRect(0,0,cv.width,cv.height);
+  cx.drawImage(base,0,0);
+  const d=devicePixelRatio||1,w=cv.clientWidth,h=cv.clientHeight;
+  cx.setTransform(d,0,0,d,0,0);
+  cx.save();cx.translate(w/2+cam.x,h/2+cam.y);cx.scale(cam.z,cam.z);
+  nodes.forEach(n=>{if(n.recent<0)return;const r=3+Math.min(n.deg,16)*.4;
+    if(T===undefined){ // settled state — a plain halo, no motion
+      cx.globalAlpha=.5;cx.strokeStyle=n.c;cx.lineWidth=1.2;
+      cx.beginPath();cx.arc(n.x,n.y,r+5,0,6.283);cx.stroke();cx.globalAlpha=1;return;}
+    const ph=(T*.7-n.recent*.12)%1.6;
+    if(ph>0&&ph<1.4){cx.globalAlpha=(1-ph/1.4)*.55;cx.strokeStyle=n.c;cx.lineWidth=1.6;
+      cx.beginPath();cx.arc(n.x,n.y,r+ph*26,0,6.283);cx.stroke();cx.globalAlpha=1;}});
+  cx.restore();
+}
+function frame(now){
+  if(!started)started=now;
+  const T=(now-started)/1000;
+  render(T);
+  if(T<PING_FOR&&!document.hidden)anim=requestAnimationFrame(frame);
+  else{anim=0;render();}   // one last still frame, then stop
+}
+/* pan and zoom used to be free because a frame loop was always running.
+   Coalesce them into one redraw per frame instead of one per event. */
+let queued=0;
+function scheduleRender(){if(queued||anim)return;
+  queued=requestAnimationFrame(()=>{queued=0;render();});}
+function pingAgain(){if(still){render();return;}
+  if(anim)cancelAnimationFrame(anim);started=0;anim=requestAnimationFrame(frame);}
+addEventListener('resize',fit);
+matchMedia('(prefers-color-scheme:dark)').addEventListener('change',()=>{baseKey='';render();});
+fit();
+pingAgain();
 function pick(ev){const r=cv.getBoundingClientRect();
   const mx=(ev.clientX-r.left-r.width/2-cam.x)/cam.z,my=(ev.clientY-r.top-r.height/2-cam.y)/cam.z;
   let best=null,bd=1e9;nodes.forEach(n=>{const d=Math.hypot(n.x-mx,n.y-my);if(d<bd){bd=d;best=n;}});
@@ -982,12 +1135,13 @@ addEventListener('pointerup',e=>{if(drag&&drag.m<4){const n=pick(e);if(n)open(n.
   drag=null;cv.classList.remove('drag');});
 addEventListener('pointermove',e=>{
   if(drag){drag.m+=Math.abs(e.clientX-drag.x)+Math.abs(e.clientY-drag.y);
-    cam.x+=e.clientX-drag.x;cam.y+=e.clientY-drag.y;drag.x=e.clientX;drag.y=e.clientY;return;}
+    cam.x+=e.clientX-drag.x;cam.y+=e.clientY-drag.y;drag.x=e.clientX;drag.y=e.clientY;
+    scheduleRender();return;}
   const tip=document.getElementById('tip'),n=(e.target===cv)?pick(e):null;
   if(n){tip.style.display='block';tip.style.left=(e.clientX+12)+'px';tip.style.top=(e.clientY+12)+'px';
     tip.textContent=n.t;}else tip.style.display='none';});
 cv.addEventListener('wheel',e=>{e.preventDefault();
-  cam.z=Math.max(.3,Math.min(3,cam.z*(e.deltaY<0?1.1:.9)));},{passive:false});
+  cam.z=Math.max(.3,Math.min(3,cam.z*(e.deltaY<0?1.1:.9)));scheduleRender();},{passive:false});
 </script>
 """
 

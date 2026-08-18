@@ -463,6 +463,37 @@ def main() -> int:
         )
         readme.write_text(text, encoding="utf-8")
 
+    # ---- granularity watch ----
+    # WARNS, never fails: an over-long note is a spin-out candidate, not a
+    # broken one, and this runs before every commit including the unattended
+    # chain's. The risk it watches for is an autonomous writer editing a note
+    # too big to hold in view — it cannot find existing doctrine to reconcile
+    # against, so a contradiction ends up sitting quietly beside it.
+    NOTE_LINES, SECTION_LINES = 400, 120
+    long_notes, long_sections = [], []
+    for f in note_files:
+        lines = f.read_text(encoding="utf-8").splitlines()
+        if len(lines) > NOTE_LINES:
+            long_notes.append((len(lines), str(f.relative_to(ROOT))))
+        head, start = None, 0
+        for i, line in enumerate(lines + ["## "]):
+            if line.startswith("## "):
+                if head and i - start > SECTION_LINES:
+                    long_sections.append(
+                        (i - start, str(f.relative_to(ROOT)), head.strip()))
+                head, start = line, i
+    if long_notes or long_sections:
+        print(f"\nGRANULARITY WATCH (warning only — see CLAUDE.md)")
+        for n, p in sorted(long_notes, reverse=True)[:6]:
+            print(f"  note   {n:5d} lines  {p}")
+        if len(long_notes) > 6:
+            print(f"         … and {len(long_notes) - 6} more over {NOTE_LINES} lines")
+        for n, p, h in sorted(long_sections, reverse=True)[:6]:
+            print(f"  section{n:5d} lines  {p}  {h}")
+        if len(long_sections) > 6:
+            print(f"         … and {len(long_sections) - 6} more over "
+                  f"{SECTION_LINES} lines")
+
     # ---- report ----
     print(
         f"OK: {len(note_files)} notes, {len(dirs) + len(parent_dirs)} indexes, "
