@@ -2020,7 +2020,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 0hQJxESLTm4 | SearcherSportfishing | tutorial | deep | done | techniques/underhand-casting.md; bait/fishing-live-bait.md: new technique note for the underhand/lob cast, linked from fishing-live-bait.md |
 | 0n4mJ3sfIqk | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Bob Bauer's pre-trip top-shot-refresh doctrine (cost + fresh line gets bit) merged into existing reel-maintenance note, distinguished from offseason respool section; medium confidence (unregistered channel) |
 | 0xJqOtkmHqY | SearcherSportfishing | tutorial | deep | done | techniques/fighting-fish-from-the-rail.md; techniques/fighting-big-bluefin.md; techniques/two-speed-low-gear-fight.md / new technique note on rail-bracing/pump-stop-pump fight mechanics (Turner's Outdoorsman via SearcherSportfishing, Capt. Art of the Searcher), cross-linked into the two existing bluefin-fight technique notes |
-| 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | pending |  |
+| 0zgmoOH3Qag | SearcherSportfishing | tutorial | deep | done | rigging/haywire-twist.md; species/wahoo.md; techniques/wahoo-bomb-casting.md / second independent SearcherSportfishing demo merged into haywire-twist mechanics + wahoo bomb-casting lure choice, medium confidence; Catch tackle jig brand name flagged ASR-uncertain/provisional |
 | 1uYIApdQQSM | SearcherSportfishing | tutorial | deep | pending |  |
 | 1wFoa11jPxQ | SearcherSportfishing | tutorial | deep | pending |  |
 | 25sd2gZAIZ8 | SearcherSportfishing | tutorial | deep | pending |  |

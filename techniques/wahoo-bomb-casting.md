@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -29,6 +29,16 @@ where this fits among wahoo's other techniques routes from
   This note's source frames casting the same class of lure as one of "the two
   most used," not a lesser option. Different anglers, not evaluated against
   each other in the corpus — kept side by side.
+
+## Lure choice
+
+- A second, separate Searcher Sportfishing tackle tip (`0zgmoOH3Qag`,
+  2020-10-22) reinforces the Raider jig as the cast-lure recommendation and
+  adds one more option: "if you're not on the troll I would throw a Raider
+  jig or a" — as captioned — **"Catch tackle jig."** Not previously
+  documented in this corpus; carried as stated. Auto-generated captions are
+  the only source for this brand name (no title/description to cross-check),
+  so treat it as provisional if it needs re-verifying later.
 
 ## Mechanics
 

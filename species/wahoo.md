@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -66,7 +66,7 @@ for locating wahoo specifically. General method:
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Dedicated wahoo stop on known structure/bank (e.g. Alijos Rocks) | 1) Bomb-style **trolled** lure 2) Cast a **wahoo bomb or Raider jig**, burn retrieve | Trolling class / [jig-stick class](../tackle/gear-classes.md) | Trolled bomb favored by one angler for hookup ratio on wahoo's back-half strike; casting a bomb or Raider jig on wire leader is documented as the standard two-lure kit — see [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md) and [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
+| Dedicated wahoo stop on known structure/bank (e.g. Alijos Rocks) | 1) Bomb-style **trolled** lure 2) Cast a **wahoo bomb, Raider jig, or Catch tackle jig**, burn retrieve | Trolling class / [jig-stick class](../tackle/gear-classes.md) | Trolled bomb favored by one angler for hookup ratio on wahoo's back-half strike; casting a bomb or Raider jig on wire leader is documented as the standard two-lure kit, with a second source (`0zgmoOH3Qag`) adding a "Catch tackle jig" as an alternative when not trolling — see [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#lure-choice) and [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
 | Wahoo picked up **incidentally while transiting** between grounds | Run a dedicated wahoo transit lure (magnet-held hook, stated to "run true" up to ~20 kt) without slowing the boat | Trolling class | ⚠ promotional claim (lure-company owner describing his own product) — low confidence on the product claim itself; see [trolling — Magdalena Bay](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin) |
 | Wahoo hooked, **fighting it** | Wind continuously — **do not pump the rod**; slack lets a wahoo throw the hook | — | See [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
 | Mixed offshore troll (tuna/dorado/marlin spread) picking up wahoo as bycatch | Standard offshore trolled spread — no wahoo-specific rigging documented beyond the wire-leader requirement | Trolling class | See [trolling — East Cape](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin) |
