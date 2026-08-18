@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -21,6 +21,21 @@ the assist-hook rigging class; how each is fished is the reverse map below.
 
 Selection is driven by **weight (matched to depth and current) and fall
 behavior**:
+
+- **A three-factor ranked priority for picking a jig at all (George, 2025
+  PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded
+  2025-03-14; unregistered channel/panel — medium confidence):** in his
+  stated order of importance, **depth decides size/weight** (his own
+  simplified rule of thumb — not split by slow-pitch vs. speed jig the way
+  the weight rules below are — is roughly **1 g per foot**: fish 200 ft
+  down, "go around 200 grams, you're safe"), **current decides shape**
+  (longer/skinnier cuts current and gets down faster with less resistance;
+  wider jigs catch more water and give more action on slack, low-current
+  days — the same current/shape rule logged below, restated as the
+  second-ranked factor), and **color is the last and least important
+  factor** — "color matters the least" — because the visible-light
+  spectrum humans see mostly disappears at depth; see the UV/contrast
+  mechanism below for why color still isn't nothing.
 
 - **Weight rules:** **~1.5 g per foot of depth** for a slow-pitch jig (the extra
   weight offsets the flutter and keeps it vertical) vs **~1 g per foot of depth**
@@ -177,6 +192,28 @@ behavior**:
     hooks on these things at all: bluefin inhale the flat-fall so deep (bit
     at night or 250–350 ft down) that they're not really seeing the hooks
     anyway — not reconciled with the other configurations logged here.
+  - **Eighth attributed configuration, chosen by jig profile rather than
+    depth/current/fish-size, plus a sportboat safety rule (James Kikkawa,
+    2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`,
+    uploaded 2025-03-14; unregistered channel/panel — medium confidence):**
+    a fourth axis for choosing hook count/placement, this time keyed to the
+    jig's own shape/weight rather than to bottom-vs-suspended, target size,
+    or current — kept side by side with, not reconciling, the conflict
+    already tracked above:
+    - **Smaller, shorter-profile jigs (his example: 100–150 g):** single
+      assist hook on the nose only.
+    - **Longer-profile jigs:** one assist on top **and** one on the bottom.
+    - **Short, heavy-profile jigs:** twin assists on the bottom only, no top
+      hook.
+    - **Sportboat rule, distinct from the fishery-wide conflict above:** a
+      lot of sportboats specifically require anglers to fish **twins on the
+      bottom only** — not for action or hookup-ratio reasons, but
+      **safety**: a top hook has caught a deckhand's hand or otherwise
+      posed a risk swinging a jig aboard a crowded boat. Framed as a
+      boat-by-boat rule, not a universal one — "every boat's different";
+      the same source notes some boats allow both top and bottom hooks
+      during the day. Treat a captain's stated hook policy as overriding
+      the general jig-profile guidance above when the two conflict.
 - **Thin braid is part of the jig system**, not a separate choice: no stretch for
   action and thin diameter so the jig **falls straight down** — even a jump from
   ~20 lb to 30/40/50 lb braid adds scope and blows the jig sideways. Deeper water
@@ -251,6 +288,18 @@ name):
   real depth than a non-UV-reflective finish of the same profile —
   corroborating, from an out-of-region but general-mechanism source, this
   note's own UV/contrast-over-color framing above.
+- **A second, independent corroboration of both the UV mechanism and the
+  angler-confidence framing (Benny Ortiz & James Kikkawa, 2025 PCS Show
+  "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded 2025-03-14;
+  unregistered channel/panel — medium confidence):** restates, from the same
+  Benny Ortiz voice a year later, that a UV-reflective jig (his examples:
+  orange, pink, or a finish with embedded UV paint that glows under a UV
+  light) draws more strikes than a non-reflective jig of the same profile —
+  no new mechanism beyond what's already logged above. James Kikkawa's
+  personal color preference, given alongside: **pinks, purples, natural bait
+  patterns, and dark baits** — offered explicitly as personal confidence
+  rather than fishery doctrine, echoing the confidence-over-color framing
+  already established in this section.
 - **Baseline daytime rule of thumb:** off-color / darker water → whites and
   yellows (more reflective in low light); bright, sunny, clear water → more
   chrome / flash.

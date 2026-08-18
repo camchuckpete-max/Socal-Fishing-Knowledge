@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -375,6 +375,43 @@ hardware.
   and the **100 lb rig** as the further step for an overnight trip where a
   200 lb-class fish is a real possibility — see the "always bring it" doctrine
   in [rod & reel selection](../tackle/rod-and-reel-selection.md#sportboat-bring-a-range-day-and-night).
+
+## Brawler rig, a simpler build described verbally (Brian Wen, 2025 PCS Show seminar)
+
+**Brian Wen, 2025 PCS Show "Slow Pitch to Speed Jigging" seminar,
+`gimFbgN5Jjk`, uploaded 2025-03-14; unregistered channel/panel — medium
+confidence.** Kept side by side with, not merged into, the panel's Brawler
+rig build above — no visual demo, described in a Q&A answer only, so this is
+thinner detail than the build above, but the core idea (a named "Brawler
+rig") matches:
+
+- **Construction, as described:** the hook ties **directly to the main
+  line**, with the main line running **directly to the sinker** below it —
+  no separate leader/breakaway hardware described on camera. Whether this
+  matches the lighter-connection-to-the-sinker build logged above, or is a
+  simpler variant, isn't confirmed either way.
+- **How it's fished:** can be fished sitting in a **rod holder** while
+  actively **jigging it** — i.e., worked like a bait/jig hybrid rather than
+  left static to soak. His stated appeal: it "makes you feel more in the
+  game" than a static sinker-rig soak, and he reports success with it.
+
+## Ebbing rig — a jig-as-teaser variant above a bait leader (James Kikkawa)
+
+**James Kikkawa, same seminar (`gimFbgN5Jjk`); medium confidence, single
+mention, thin detail (a short Q&A answer, no on-camera demo).** A different
+rig from the Brawler rig above, raised in answer to whether a jig could
+double as the "sinker" on a bait rig with a hook still fished above it:
+
+- **Build, as described:** a length of **wire leader**, roughly **10–12 ft**
+  (he's fished it as short as **8 ft**), with a **jig clipped to the middle**
+  of the wire rather than a sinker — the jig supplies both the weight and a
+  secondary attractor/teaser, fished alongside a bait or hook elsewhere on
+  the same leader.
+- **Stated benefit:** running the jig off the wire's midpoint, rather than
+  banded to the mainline, avoids the tangling risk a sinker-on-the-mainline
+  rig can have with the leader/bait.
+- Not corroborated elsewhere in this corpus and no rigging diagram given —
+  logged as an attributed idea to test, not established doctrine.
 
 ## Rig it
 

@@ -122,6 +122,7 @@ does the lookup.
 - [Snook (Robalo)](../species/snook.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
+- [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surface Iron](../techniques/surface-iron.md)

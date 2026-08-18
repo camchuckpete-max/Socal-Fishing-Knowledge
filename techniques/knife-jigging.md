@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -45,6 +45,24 @@ in **Linked from**.
   private/4-pack/6-pack boat that constraint is gone — scale down, especially
   for the more gear-shy daytime bite (thinner line, smaller jigs; night bite
   is more forgiving of heavier gear across the board — see day/night below).
+- **A working depth window, and where it stops paying off (James Kikkawa,
+  2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`,
+  uploaded 2025-03-14; unregistered channel/panel — medium confidence):**
+  for daytime SoCal bluefin, his own confidence zone is fish called at
+  **150–240 ft**, still confident as deep as **300 ft**; past roughly
+  **500–600 ft** he calls it out of range for jigging — too much drop and
+  retrieve for the return on a heavy jig ("that's your deep-drop
+  [swordfishing](deep-drop-swordfishing.md) now"). **Observed exception**
+  (same panel): a bite at that depth did happen — Sea of Cortez, 2023, fish
+  metering at roughly **90 fathoms** (~540 ft), initially dismissed as a
+  joke by the crew before it came off. Kept as an outlier, not a reason to
+  plan on jigging that deep.
+  - **Working a called depth by overshooting first, a concrete example
+    (same source):** rather than starting the retrieve right at the called
+    depth, drop **past** it, then start working up through the zone — his
+    example: fish called at 240 ft, drop to about **300 ft**, then retrieve
+    back up through 180–240 ft. The same get-below-then-work-up principle
+    already logged above, with a concrete overshoot figure attached.
 - **Bite timing flips day vs. night — a reason to scale tackle by daypart
   (George, same panel, `Et2TUskzCSs`; medium confidence):** at night, roughly
   **70% of bluefin bites come on the fall**, mirroring
@@ -137,6 +155,15 @@ in **Linked from**.
   only). Read the two together as: default to speed for pelagics, but if the
   working pace isn't drawing bites in warm daytime water, try slowing down
   before assuming the fish aren't there.
+  - **Corroborating full-day-boat data point (James Kikkawa, 2025 PCS Show
+    "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded
+    2025-03-14; unregistered channel/panel — medium confidence):** on a
+    full-day San Diego trip, he and his brother worked out that the daytime
+    fish present wanted a **fast retrieve with a darting action** in the
+    strike zone rather than the standard working pace — landing **9–11
+    bluefin** that day once they matched the retrieve to it. Framed as
+    "finding the cadence" through the day and adjusting light-to-heavy jigs
+    as needed, rather than fishing one jig/pace all day.
 - **Slack it, don't tightline it, on the drop.** Whip the rod tip up quickly, then
   **slack the line down quickly** rather than holding it tight — a tight line on
   the drop puts resistance on the jig's nose and kills the action (it can't
@@ -219,6 +246,14 @@ whether a bite converts.
   roughly **220 ft** and work the jig through that column rather than working
   100 ft above or below where the fish actually are — efficiency, not
   coverage, is the goal once the fish are pinpointed (same source).
+- **Manual count as a third depth-estimation method, no marked line needed
+  (panel — exact speaker not identifiable from captions, 2025 PCS Show "Slow
+  Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded 2025-03-14;
+  unregistered channel/panel — medium confidence):** for most jig weights, a
+  **slow ("Mississippi") count of 1 second ≈ 10 ft of fall.** Called fish at
+  170 ft → count out to "17," slowly, and the jig is in that range. Simpler
+  but coarser than colored/marked braid or the arm-span method above — a
+  fallback when line isn't marked at all, not a replacement for marking it.
 - **Ears for the skipper, tracked continuously.** "Eyes in your mind, ears for the
   skipper" — the captain's called depth **changes fast** (e.g. "fish at 200 ft,"
   then "fish at 300 ft" two minutes later); update where you think your jig is off
@@ -328,6 +363,33 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   specifically helping through this stage — absorbing the fish's short,
   hard head-shakes as it's cut off in tight circles, rather than every one
   of those shakes loading straight onto the hook.
+  - **The mechanism, quantified a year later (James Kikkawa & Brian Wen, 2025
+    PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded
+    2025-03-14; unregistered channel/panel — medium confidence):** a
+    same-source restatement and quantification of the rod-tip-at-the-face
+    doctrine above. A drag set to read, say, **25 lb on a scale at home**
+    is **not** what the fish feels at the hook — **bending the rod and
+    stretching the line each consume a chunk of that drag pressure** before
+    it ever reaches the fish's end, an effect the panel puts at "well over"
+    **5 lb** lost off a 25 lb setting. Pointing the rod tip **directly at
+    the fish's nose** instead of lifting into a bend removes most of that
+    loss (line stretch is what's left), which is the panel's stated reason
+    the technique works even without an angler fully understanding the
+    physics behind it. **A second reason for pointing at the nose, not just
+    drag retention:** tuna are built to swim nose-first: a rod bent to fight
+    them lets the fish turn broadside, gaining the fish extra water
+    resistance in its favor; pointed at the nose, that broadside turn
+    doesn't happen. **Framed as leverage, not finesse or brute force** — "we
+    are leveraging them" rather than out-finessing or overpowering a big
+    fish — and as the reason this panel avoids two-speed reels for this
+    style: shifting to a lower gear to gain torque is, in their view, a
+    liability, since it can tempt an angler to fight the fish's circling
+    rather than staying pinned nose-on and taking line straight in.
+    **Corroborating field example (same source):** anglers fighting a jig
+    stuck on bottom rockfish know this by feel already — bouncing/pulling
+    against a stuck rod does little, but pointing the rod tip straight down
+    at the water and pulling removes the rod from the equation and applies
+    full drag pressure to free it, the same mechanism used here on a fish.
 
 ## Gear-class detail
 
@@ -350,6 +412,16 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   broader trend (including Japan, where dedicated speed-jig reel makers are
   now building two-speeds) is toward two-speeds being simply easier to fish
   (Ul5FLB2dFgQ; medium confidence, unregistered channel).
+  - **"Narrow" defined, and why it matters under jigging drag loads (George,
+    2025 PCS Show panel, `gimFbgN5Jjk`, 2025-03-14; unregistered
+    channel/panel — medium confidence):** a narrow reel is one with **under
+    2 in of spool width**; wider is "trouble." At the **15–30 lb of drag**
+    jigging commonly runs, line on a wide spool can dig into itself under
+    load — once it digs in, it can't pay out cleanly. Prioritize spool width
+    when buying dedicated jigging gear. Rod guide construction (spiral/
+    acid-wrap vs. traditional) is a related choice for the same
+    stay-vertical/stay-in-control goal — see [spiral-wrap guides and narrow
+    reels for jigging rods](../tackle/jigging-rod-guide-wrap.md).
 - **Line:** **80–100 lb braid**; **80 lb sinks faster than 100** and matters on
   smaller jigs. Braid straight to an FG connection, then **15–20 ft of 80–100 lb**
   mono/fluoro top shot at night for the bigger grade. **Attributed variant, by
@@ -521,6 +593,7 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
+- [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)
 - [Surface Iron](surface-iron.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

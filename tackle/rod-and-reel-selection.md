@@ -669,6 +669,7 @@ a bluefin).
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
+- [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

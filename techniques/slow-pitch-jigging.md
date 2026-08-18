@@ -170,6 +170,12 @@ Execution only; species and situations are the reverse map in **Linked from**.
 
 - **Rod:** dedicated SPJ blank — thin, very high carbon, extremely parabolic tip,
   ~6.5–7 ft, exposed rear grip. See [gear classes](../tackle/gear-classes.md).
+  Guide construction is a related, separate choice — dedicated Japanese SPJ
+  blanks are commonly built **without** spiral/acid-wrap guides on the
+  reasoning that spiral wrap can mask an inferior, twisting blank; see
+  [spiral-wrap guides and narrow reels for jigging rods](../tackle/jigging-rod-guide-wrap.md)
+  for the full attributed case, kept side by side with speed-jigging's own
+  spiral-wrap doctrine.
   - **Rated by max jig weight, a three-rod series (Benny Ortiz, PCS Show 2024
     panel, `Et2TUskzCSs`; medium confidence):** the panel's own SPJ line runs
     three max-jig ratings — **330 g**, **400 g**, and **500 g** — picked by
@@ -337,5 +343,6 @@ terms until it lands.
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
+- [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

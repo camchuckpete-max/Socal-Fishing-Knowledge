@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
 confidence: medium
 ---
 
@@ -153,6 +153,39 @@ naming a line-test number.
   30 lb**, "sometimes 35," but **30 lb** is the realistic ceiling.
 - **PE 3–6** (the lightest class): activates **100–250 g** jigs. Fighting
   drag **~15 lb**, max around **25 lb**.
+
+**A second James Kikkawa data point, one year later, adding rod lengths and
+West-Coast-line-class equivalents to the same PE tiers (James Kikkawa & Brian
+Wen, 2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`,
+uploaded 2025-03-14; unregistered channel/panel — medium confidence):** framed
+by Brian Wen as picking a **hybrid rod** for sportboat bluefin — one that has
+to satisfy three things at once (handle the drag pressure needed to land the
+fish, land it efficiently enough not to tie up the rail around other anglers,
+and still activate the right jig-weight range) rather than a rod picked by
+target-fish size alone. Two picks, if narrowing a sportboat quiver to just
+two rods, both **5.5–6 ft**:
+
+- **PE 4–8** ("80 lb stick" in West Coast terms): activates **150–300 g**,
+  sometimes up to **350 g**, jigs; handles roughly **20–30 lb** of drag. The
+  single rod to bring if only bringing one.
+- **PE 6–10** ("100 lb stick"): activates jigs as light as **200 g**,
+  typically **250–500 g**; handles **25–40 lb** of drag. The bigger-fish and
+  night pick.
+
+Both ranges sit inside, not beyond, the PE 4–8 / PE 6–10 windows already
+logged above from the same panel one year earlier — read as corroboration
+with rod-length detail added, not a new number. **Manufacturer spec vs. time
+on the water:** the panel frames the printed jig-weight rating on a rod as a
+starting point that needs on-the-water testing to dial in a working
+compromise — credited on camera to James Kikkawa's own time on the water.
+**A jig activates better on the lighter-rated rod of the two, even inside
+the overlap range:** their own example is a 250 g jig, which both rods can
+technically move, but which the panel says "does a little bit better" on the
+lighter PE 4–8 than on the heavier PE 6–10 — pick the lightest rod that still
+activates the jig you're fishing, not the heaviest one that can. **Guide
+construction on these blanks (spiral/acid-wrap vs. traditional, and the
+matching narrow-reel choice) is its own decision — see [spiral-wrap guides
+and narrow reels for jigging rods](jigging-rod-guide-wrap.md).**
 
 **Spiral-wrapped ("acid-wrap") guides**, standard on these blanks (James,
 same panel): the guide train spirals to face progressively downward,
@@ -392,6 +425,7 @@ between the two talks.
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

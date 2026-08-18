@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [lopez-mateos, magdalena-bay, baja-pacific-south, mangrove, boca, grouper, snook, banks, whale-watching]
-sources: [EcQK5elTPJE]
+sources: [EcQK5elTPJE, gimFbgN5Jjk]
 confidence: medium
 regions: [baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, bank, open-ocean]
@@ -114,6 +114,28 @@ beyond naming them present — see [dorado](../species/dorado.md) and
 doctrine on those species. No wahoo species note exists yet in this KB;
 the only wahoo-specific detail here (fish it early morning) is too thin on
 its own to clear the curation bar for a new note.
+
+## Bottom-fishing jig diversity — an "untapped" fishery (Benny Ortiz, 2025 PCS Show seminar)
+
+A second, independent attributed data point on this same bay complex — Benny
+Ortiz, 2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`,
+uploaded 2025-03-14; unregistered channel/panel — medium confidence. His own
+history: roughly **30 years** fishing this fishery (as of the 2025 upload).
+Kept side by side with the Dave/Larry Hansen entries above rather than
+merged — different presenter, no overlapping trip.
+
+- **Marlin, October–November:** his own recorded best day was **72 marlin**,
+  with the boat capable of "over a hundred" that same day. Framed as the
+  main draw for most visitors to the bay in that window.
+- **Bottom/jig fishing — described as "virtually untapped":** because most
+  anglers who show up in October/November are there specifically for the
+  marlin numbers above, the jig/bottom fishery inside the same waters gets
+  comparatively little pressure. A single day of jig fishing there produced
+  **14–15 species** in his account, including Colorado snappers, "broom
+  tail" and gulf groupers, and yellows/yellowtail — plus, incidentally, a
+  trigger fish taken on a **dropped live bait** rather than a jig. Framed as
+  a reason to bring dedicated jigging gear on a Mag Bay trip even when
+  marlin is the headline target, not just a bonus activity.
 
 ## Curation note — what was skipped
 
