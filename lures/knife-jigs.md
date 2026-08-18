@@ -495,6 +495,7 @@ rigging from class terms above until it lands; see
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

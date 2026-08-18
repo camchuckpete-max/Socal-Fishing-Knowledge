@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, bite-leader, crimping, knife-jig, fluorocarbon, leader]
-sources: [kO_BqzUYayc, j37zxs33gws, 42A8Owhc8fw]
+sources: [kO_BqzUYayc, j37zxs33gws, 42A8Owhc8fw, 6wbO7qaU3sI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -61,6 +61,19 @@ system between the braid main line and the lure.
   through the lure's solid wire ring, not through a split ring** — fewer twists
   and the strongest join. Use a split ring only if you want one bite leader you
   swap across several jigs.
+  - **Flat-fall build, corroborating (tackle-shop demo via SearcherSportfishing,
+    "Tackle Tip Thursday Vol. 28", `6wbO7qaU3sI`, 2018-12-27; unregistered
+    channel, speaker not named on camera — medium confidence):** for a
+    [flat-fall-class jig](../lures/knife-jigs.md) leader for bluefin, crimp a
+    swivel to the top end (main-line connection) and a **heavy-duty Owner-brand
+    split ring** to the bottom end (jig connection) — the split-ring option
+    above, named to a specific flat-fall build rather than left generic. Same
+    crimp mechanic each end: slide crimp sleeve then chafe sleeve on before
+    attaching the swivel/split ring, burn (with a lighter) and ball the tag
+    end, seat the crimp in the tool hole matching the sleeve size, one
+    firm-handshake press per side (two presses total per crimp) — matches the
+    general build order and pressure in [crimping](crimping.md). No pound-test
+    or crimp-sleeve size stated on camera.
 - **Failure modes:** leader too long to wind (swivel jams at the tip); crimp
   mismatched to leader diameter; over-crimped fluoro; too little tag through the
   crimp; connecting through a weak split ring on a big-fish jig.
