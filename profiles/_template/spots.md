@@ -9,7 +9,7 @@ confidence: medium
 
 Home waters and (optionally) named spots. This anchors zone selection in the
 [day-plan protocol](../../planning/day-plan-protocol.md). Structure knowledge is
-universal — see [locations](../../locations/); coordinates are personal.
+universal — see [locations](../../locations/README.md); coordinates are personal.
 
 > **Coordinates + repo visibility:** on a **public** repo, withhold GPS
 > coordinates unless you've explicitly decided they're not sensitive. On a

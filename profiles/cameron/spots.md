@@ -12,7 +12,7 @@ restriction (2026-08-12) — "none of these spots are secret,"** so coordinates
 are committed here. The **complete coordinate library** (391 waypoints, N→S by
 region) is [`sources/spot-lists.md`](../../sources/spot-lists.md) — this note is
 the curated profile view: home waters, the modeling anchors, and the naming
-rules, with everything linked to the universal [locations](../../locations/)
+rules, with everything linked to the universal [locations](../../locations/README.md)
 knowledge (which holds no coordinates).
 
 ## Home base & range
@@ -27,7 +27,7 @@ knowledge (which holds no coordinates).
 ## Region index (full coords in the library)
 
 Grouped as in [`sources/spot-lists.md`](../../sources/spot-lists.md); structure
-knowledge is in [locations](../../locations/):
+knowledge is in [locations](../../locations/README.md):
 Offshore banks (N→S) · La Jolla · San Diego artificial reefs · Point Loma ·
 Imperial Beach · International artificial reef · Coronado Islands (+ nearby
 rockfish) · Northern Baja · Finger Bank rockfish · Ensenada · Punta Banda /
