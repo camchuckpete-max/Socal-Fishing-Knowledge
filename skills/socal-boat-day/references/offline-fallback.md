@@ -38,4 +38,7 @@ at request time rather than assuming a URL shape from memory.
    Give conditions and the sea-state call, resolve gear only in broad class
    terms against what they own, and say the rest needs the repo.
 
-Then retry the repo. Outages are usually short.
+Then retry the repo — and before you call it unreachable, try **both** hosts:
+`github.com/camchuckpete-max/Socal-Fishing-Knowledge/blob/main/<path>` and the
+raw mirror `raw.githubusercontent.com/camchuckpete-max/Socal-Fishing-Knowledge/main/<path>`.
+One of them failing is not the repo being down. Outages are usually short.

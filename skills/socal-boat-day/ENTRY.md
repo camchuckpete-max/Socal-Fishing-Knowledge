@@ -35,13 +35,16 @@ procedure so the procedure can change without reissuing the skill.
 Fetch notes on demand rather than pulling the whole repo. The protocol and the
 folder indexes are written so a session can navigate from here.
 
-**Fetching over `raw.githubusercontent.com`: a folder is not a URL.** Raw serves
-files only — it has no directory listing, so `.../main/species` is a 404 while
-`.../main/species/README.md` is the index you wanted. Every link in this KB
-points at a file for that reason. If you ever hit a folder path, append
-`README.md`. Browsing `github.com` instead works without the rule, because
-GitHub does list directories — but raw returns clean markdown, so prefer raw and
-append the index filename.
+**Which host to fetch from.** Prefer
+`https://github.com/camchuckpete-max/Socal-Fishing-Knowledge/blob/main/<path>` —
+that form is confirmed to work from a Claude chat, and GitHub lists directories,
+so a folder path resolves as-is (use `/tree/main/<folder>` for a folder).
+
+The raw mirror, `https://raw.githubusercontent.com/…/main/<path>`, returns plain
+markdown and is a fine fallback, with one rule: **raw has no directory listing.**
+`.../main/species` is a 404 there while `.../main/species/README.md` is the index
+you wanted. Every link in this KB points at a file for that reason; if you hold a
+folder path on the raw host, append `README.md`.
 
 ## Angler profile — the multi-user contract
 

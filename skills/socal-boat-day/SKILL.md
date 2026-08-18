@@ -16,10 +16,19 @@ on this angler's own gear**, not someone else's.
 ## Constants (the only baked-in values)
 
 ```
-REPO_RAW_BASE = https://raw.githubusercontent.com/camchuckpete-max/Socal-Fishing-Knowledge/main
-ENTRY         = <REPO_RAW_BASE>/skills/socal-boat-day/ENTRY.md
-ENDPOINTS     = <REPO_RAW_BASE>/config/endpoints.md
+REPO_BASE = https://github.com/camchuckpete-max/Socal-Fishing-Knowledge/blob/main
+ENTRY     = <REPO_BASE>/skills/socal-boat-day/ENTRY.md
+ENDPOINTS = <REPO_BASE>/config/endpoints.md
 ```
+
+**Use the `github.com` form above.** It is the one confirmed to work from a
+Claude chat, and GitHub lists directories, so a folder path resolves too.
+
+If a fetch of `github.com` fails, the same files are mirrored on the raw host at
+`https://raw.githubusercontent.com/camchuckpete-max/Socal-Fishing-Knowledge/main/<path>`
+— identical paths, plain markdown instead of a rendered page. That host has **no
+directory listing**, so a folder there must be requested as `<folder>/README.md`.
+Try the raw mirror before concluding the repo is unreachable.
 
 Never hardcode an API endpoint from memory. Endpoints move, break, and get
 fixed in the repo — that is the whole reason they live there.
