@@ -423,7 +423,12 @@ button{font-family:inherit;cursor:pointer}
 .dot.bad{background:var(--critical)}
 .clockbox{text-align:right}
 .clock{font-family:var(--mono);font-size:13px;color:var(--ink2);font-variant-numeric:tabular-nums}
-.stamp{font-size:10.5px;color:var(--muted)}
+.stamp{font-size:10.5px;color:var(--muted);position:relative}
+.stale{position:absolute;right:0;top:20px;z-index:30;width:290px;text-align:left;
+  background:var(--panel);border:1px solid var(--hair);border-radius:10px;
+  box-shadow:var(--shadow);padding:10px 12px;font-size:11.5px;line-height:1.5;color:var(--ink2)}
+.stale[hidden]{display:none}
+.stale a{color:var(--accent-ink)}
 .linkbtn{background:none;border:none;padding:0 0 0 2px;font:inherit;color:var(--accent-ink);
   font-weight:600;text-decoration:underline}
 .mono{font-family:var(--mono)}
@@ -614,7 +619,8 @@ main{flex:1;display:flex;min-height:0}
     <div class="clockbox">
       <div class="clock" id="clock">--:--:-- UTC</div>
       <div class="stamp">snapshot <span class="mono" id="gen"></span> · <span id="age"></span>
-        <button class="linkbtn" id="refresh" title="Reload — on the live build this pulls the newest snapshot">refresh</button></div>
+        <button class="linkbtn" id="refresh">refresh</button>
+        <div class="stale" id="stale" hidden></div></div>
     </div>
     <button class="help" id="themebtn" aria-label="Toggle day / night mode">☾</button>
     <button class="help" id="helpbtn" aria-label="What am I looking at?">?</button>
@@ -688,7 +694,26 @@ document.getElementById('gen').textContent=D.generatedAt.replace('T',' ').replac
 /* Say how stale this snapshot is rather than claiming it is live. The hosted
    build refreshes itself hourly, so a reload really does pull newer data
    there; in a static copy the reload is honest about changing nothing. */
-document.getElementById('refresh').onclick=()=>location.reload();
+/* Refresh means two different things depending on where this page is being
+   read, and pretending otherwise is what makes the button feel broken.
+
+   On the self-updating build a reload really does fetch a newer snapshot.
+   A published artifact is a fixed copy — the viewer sandbox blocks every
+   external host, so the page cannot go and get newer data, and reloading
+   only re-serves the same bytes. There it says so instead of doing nothing
+   visible. */
+const LIVE='https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/';
+const hosted=location.hostname.endsWith('github.io');
+document.getElementById('refresh').onclick=()=>{
+  if(hosted){location.reload();return;}
+  const box=document.getElementById('stale');
+  box.innerHTML=`This copy is a fixed snapshot, taken <strong>${esc(D.generatedAt.replace('T',' ').replace('Z',' UTC'))}</strong>. `+
+    `It cannot fetch newer data — a published artifact is sandboxed away from the network.<br><br>`+
+    `The self-updating build rebuilds hourly from the repo: <a href="${LIVE}" target="_blank" rel="noopener">${LIVE}</a><br><br>`+
+    `<span class="mut">If that link 404s, GitHub Pages still needs turning on: repo Settings → Pages → Source: GitHub Actions.</span>`;
+  box.hidden=!box.hidden;};
+addEventListener('click',e=>{const b=document.getElementById('stale');
+  if(b&&!b.hidden&&!e.target.closest('#stale')&&e.target.id!=='refresh')b.hidden=true;});
 (function age(){
   const mins=Math.max(0,Math.round((Date.now()-Date.parse(D.generatedAt))/60000));
   const t=mins<2?'just now':mins<60?mins+' min old':
