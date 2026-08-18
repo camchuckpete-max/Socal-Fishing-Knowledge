@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md) — Steve Carson (Penn), guest speaker at the San Diego Rod and Reel Club's November 2023 meeting — "5 must-have rod and reel setups for bluefin tuna fishing" (9JnI
 - [Gear Classes — the class-term lexicon](gear-classes.md) — The KB describes gear in class terms (jig-stick class, 40–60 lb class, 200g-knife-jig class) so a species/technique note can say "reach for the surface-iron cla
 - [Hooks — Style, Size, and Matching to Bait](hooks.md) — A hook is chosen on four axes: style (how it sets), size (matched to the bait, then the fish), wire gauge (how much it burdens a live bait vs.
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
@@ -17,17 +18,24 @@
 
 ```mermaid
 graph LR
-  n0["Gear Classes — the class-term lexicon"]
-  n1["Hooks — Style, Size, and Matching to Bait"]
-  n2["Line & Leader — Braid, Mono, Fluoro by Application"]
-  n3["Reel & Rod Maintenance — Offseason TLC"]
-  n4["Rod & Reel Selection — by Application"]
+  n0["Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)"]
+  n1["Gear Classes — the class-term lexicon"]
+  n2["Hooks — Style, Size, and Matching to Bait"]
+  n3["Line & Leader — Braid, Mono, Fluoro by Application"]
+  n4["Reel & Rod Maintenance — Offseason TLC"]
+  n5["Rod & Reel Selection — by Application"]
+  n0 --> n1
   n0 --> n2
-  n0 --> n4
-  n1 --> n2
+  n0 --> n3
+  n0 --> n5
+  n1 --> n3
+  n1 --> n5
   n2 --> n0
-  n2 --> n4
-  n3 --> n4
-  n4 --> n0
+  n2 --> n3
+  n3 --> n1
+  n3 --> n5
+  n4 --> n5
+  n5 --> n0
+  n5 --> n1
 ```
 <!-- mermaid:end -->

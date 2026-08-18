@@ -84,4 +84,5 @@ How-to video: [making bluefin bite leaders](https://www.youtube.com/watch?v=kO_B
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

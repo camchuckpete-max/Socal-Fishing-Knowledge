@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -49,6 +49,16 @@ fluoro leader, braid main line — and feed the terminal rigs in
 - **Surgeon's knot (loop)** — the simplest loop-forming knot in this list;
   used to tie the loop for a **single-hook rockfish [dropper
   loop](../techniques/dropper-loop.md)** rig.
+  - **Also fished as a mono-to-fluoro connection knot, an attributed
+    alternative to the Seaguar knot above (Steve Carson, Penn, San Diego Rod
+    and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker,
+    single mention — medium confidence):** the doubled/multi-turn surgeon's
+    knot joins a monofilament top shot to a fluorocarbon leader — the same
+    job the Seaguar knot above is named for. His turn-count rule, stated as
+    more turns than most knot books show (freshwater books show 2, most
+    saltwater books show 3): **4 turns for 20–100 lb test, 5 turns under
+    20 lb**. Kept side by side with the Seaguar knot as a second attributed
+    technique for the same connection, not reconciled with it.
 - **Worm knot (connection)** — ties a monofilament topshot directly onto the
   loop of an already-tied Bimini twist double line; the specific connection
   knot for the "topshot on rail-rod big-tuna setups" use case named in the
@@ -451,6 +461,7 @@ and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

@@ -822,6 +822,16 @@ shot in [gaffing](../fish-care/gaffing.md).
   get scaled down on a mixed tuna trip — grade is unpredictable trip to trip,
   so tackle stays sized for the biggest fish that could show up.
 - Class lexicon: [gear classes](../tackle/gear-classes.md).
+- **A line-class ladder matched to grade (Steve Carson, Penn, San Diego Rod
+  and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker,
+  single mention — medium confidence):** four named rigs — 15 lb finesse
+  (fish under ~40 lb), 30 lb "big fish finesse" (50–70 lb fish that won't eat
+  40–50 lb line), 40 lb starter (to ~100 lb), and a 50 lb in-between rig for
+  ~125 lb-grade fish that also doubles as a trolling-lure rig — full detail
+  in [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md).
+  The 30/40 lb rigs pair with a **two-speed low-gear fighting
+  technique** — continuous-grind instead of pump-and-reel — logged in
+  [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md).
 
 ## Doctrine & conflicts
 
@@ -924,6 +934,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](bluefin-trolling.md)
 - [California Sheephead](sheephead.md)
 - [Chunking](../techniques/chunking.md)

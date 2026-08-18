@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA]
 confidence: medium
 ---
 
@@ -535,6 +535,28 @@ rule. The forward hand position is also what makes the hand-pull drag re-test
 above practical mid-fight — the line-guiding hand is already positioned to
 grab and pull the line.
 
+### A third attributed method, plus a spool-diameter drag trap (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
+
+Corroborates the quarter-to-a-third weakest-link rule above (his target is
+the lighter end, **25%**, versus a stated ceiling of **33%**) and adds a
+mechanism not otherwise logged here — full rig context in
+[bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md):
+
+- **Setting method:** starting from the reel's **free-spool** position (drag
+  lever backed all the way off), roll the drag lever forward by feel —
+  pulling the line by hand — until it's close, then confirm with a drag
+  scale. (Distinct from the spool-fill-level trap below — this is about the
+  drag lever's starting detent, not how much line is on the spool.)
+- **Spool diameter changes effective drag as line pays out (mechanism):**
+  dropping a jig 400 ft down can already leave a spool a quarter to a third
+  empty; if the hooked fish then runs another 100–200 yd, the spool can end
+  up two-thirds empty **without the drag lever being touched** — and a
+  smaller-diameter spool turns the same lever setting into materially higher
+  actual drag. A drag correctly set at hookup can be dangerously tight by the
+  time a deep-hooked fish has taken a long run. Re-check (or back off) drag
+  after a long run on a rig that started deep or has spooled down a lot,
+  rather than trusting the initial setting through the whole fight.
+
 ### Ready position on the drop — index-on-spool, thumb-on-trigger (Your Saltwater Guide, F0g5r9Rkrd4, 2022-02-14; presenter-inferred as Dave Hansen, the channel host narrating over deckhand footage — no diarization, attribution inferred; dave-hansen registered — `high` confidence for the grip itself: a second Your Saltwater Guide video, the dropper-loop deploy walkthrough in [dropper loop](../techniques/dropper-loop.md) (OIqdmhKfuOc, 2021-03-30), repeats the same index-on-spool/thumb-on-trigger, left-hand-forward grip)
 
 A companion hand-position habit to the fight-time grip above, for the moment
@@ -578,6 +600,7 @@ a bluefin).
 ## Linked from
 
 - [<Your> Rods](../profiles/_template/rods.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA]
 confidence: medium
 ---
 
@@ -247,6 +247,29 @@ prior year (2021) were caught on Owner Mutu circle hooks. This size-4 /
 kept as a separate attributed data point rather than merged, since neither of
 those sources names a brand.
 
+### A finesse-rig hook ladder by grade (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
+
+Three more data points on hook selection, from a talk organizing bluefin rigs
+by line class rather than by bait or technique — full rig context in
+[bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md):
+
+- **15 lb finesse rig, fish under ~40 lb:** a J hook, **Owner Gorilla
+  Light**, size **2** (he'd use a 4 if it came in that size) — "a nice light
+  hook that lets your bait swim." A named hook not otherwise logged in this
+  note; "Gorilla Light" is corroborated as the real Owner product name by a
+  separate transcript in this corpus (`ptoIvB2MspE`).
+- **30 lb "big fish finesse" rig, 50–70 lb fish:** a small Owner circle
+  hook — explicitly *not* the "Light" version and *not* the "hybrid" version
+  he names on camera (exact model beyond those two exclusions is
+  asr-uncertain), size **4** preferred, size **2** as the largest he'll go.
+- **40 lb starter rig, to ~100 lb fish:** **Owner Mutu circle hook**, size
+  **4**, sometimes **2** — in range with, and a further data point for, the
+  size-4 / 1/0–2/0 Owner Mutu figures already logged above.
+- **Mechanism restated, same as the corroborating doctrine above:** a big
+  bluefin's teeth chew through a leader in "5 minutes, less than it takes to
+  land [one]" — the circle hook's corner-of-the-mouth hookset keeps the
+  leader off the teeth.
+
 ### Live squid for white seabass (m2q22sPPkEM)
 
 Rig squid on an **orange lead head with a ~6/0 thin-wire hook**, or a **4/0 hook
@@ -399,6 +422,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)

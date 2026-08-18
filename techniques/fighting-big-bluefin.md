@@ -94,6 +94,16 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   across its teeth (increasing bite-throughs) and puts sustained extra load on
   the terminal knot (increasing break-offs). Keeping the head up the whole
   fight, via the down-swell walk and the gear-tap, avoids it.
+- **A reel-side counter-move for the same problem, on a two-speed reel
+  (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14;
+  unregistered channel/speaker, single mention — medium confidence):**
+  standard pump-and-reel lets the fish point its nose down and kick on every
+  down-stroke, protracting the fight; shifting to low gear and winding
+  **continuously** instead — never pausing to let the fish re-point its
+  nose down — avoids the same death-circle mechanism from the angler's side
+  of the equation rather than the boat's. Full technique and the
+  shift-back-to-high-after-landing reminder in
+  [two-speed low-gear fight](two-speed-low-gear-fight.md).
 - **Observed** (Your Saltwater Guide, 2018-08-07, SoCal): average fight on this
   program runs **~15 min**, with **25 min** the longest recorded; a **218 lb**
   fish landed **2018-08-05** (two days before this video, per its upload date)
@@ -474,6 +484,7 @@ under-gunned-for-the-grade situation.
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trolling](trolling.md)
 - [Tuna Care](../fish-care/tuna-care.md)
+- [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -269,6 +269,7 @@ able to break off** (aXF0bxAFtU0):
 ## Linked from
 
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [tuna-feather, skirt, williamson, jaw-lures, tuna, trolling, offshore]
-sources: [cameron, CWVPLM6NheY]
+sources: [cameron, CWVPLM6NheY, 9JnIS8HkZlA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -62,6 +62,46 @@ head down onto the swivel and set the **bend of the hook roughly even with the
 end of the skirt** so the skirt doesn't foul the point. Finish the other end of
 the leader with the same knot.
 
+## A trolled current/cold-sniper-class lure (Steve Carson, Penn)
+
+Steve Carson (Penn), San Diego Rod and Reel Club talk, `9JnIS8HkZlA`,
+2023-11-14; unregistered channel/speaker, single mention — medium
+confidence. His favorite trolled bluefin lure, fished on his **50 lb**
+outfit (see [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md)):
+a Williamson-brand lure he places in the same class other anglers call
+**"cold snipers" / "current snipers"** — the exact model name is not
+confidently resolved from the captions (heard as "gan"/"goam"; flagged
+**asr-uncertain**). It plausibly overlaps with the **Williamson Live Series
+soft bait** already logged above — both are Williamson-brand trolled soft
+baits fished for tuna — but that identity is **not confirmed** by this
+source, so it is logged as a separate attributed entry rather than merged.
+
+- **Bait-insert mechanism:** the lure takes a small bait insert — he
+  specifically names **small dried sardines** — which is what "makes the
+  fish," per his own aside that he'd only recently been told the lure needed
+  it.
+- **Worldwide stock rigging vs. SoCal grade:** lures in this class are
+  fished worldwide across roughly **100 species from about 5 to 25 lb**, and
+  the stock hooks they ship with are adequate for that grade — but
+  undersized for SoCal bluefin. He upgrades to the **next hook size up** and
+  a **heavier wire gauge** (his own example: an **Owner ST-66**) for the
+  bigger fish this KB's bluefin grade produces.
+- **Treble over single/other hook styles (attributed preference, all brands
+  in this class including this one):** he tried multiple hook styles and
+  some hold slightly better than trebles, but **trebles draw enough more
+  bites** that the trade-off nets more fish landed over a day — "you're
+  going to lose a few, but you get so many more bites you end up with more
+  fish on the day."
+- **Leader — direct-tie or a short 100 lb fluoro bite guard:** because the
+  fish "suck them all the way down" and a circle hook can't be used with
+  this style of lure, bite-through risk sits on whatever line is nearest the
+  hook. Depending on expected grade, tie the lure **direct to 50 lb test**,
+  or — his own build, and his choice when a **~125 lb-class** fish is
+  possible — run a short piece of **100 lb fluorocarbon** ahead of the lure
+  to protect the mainline. Distinct application from the crimped bite-leader
+  system in [bite leaders](../rigging/bite-leaders.md) (that note covers
+  knife-jig terminal tackle, not a trolled lure).
+
 ## Owned examples
 
 Profiles link the subset an angler owns. Cameron's rigged Williamson Tuna
@@ -73,6 +113,7 @@ dual-skirts (kept unopened) are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

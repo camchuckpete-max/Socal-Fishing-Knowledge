@@ -28,6 +28,7 @@
 - [Surface Iron](surface-iron.md) — Long-cast a heavy chrome/painted iron on a jig-stick and swim it back near the surface with a steady grind, varying speed to trigger the bite.
 - [Swimbaits](swimbaits.md) — Execution for soft-plastic swimbaits and slugs on kelp and reef bass.
 - [Trolling](trolling.md) — General offshore trolling execution — how to run a spread, where each lure lives in it, and how to pair a rod to a lure.
+- [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md) **[SoCal only]** — A reel-side counter-move to a hooked big fish getting its nose down and circling under the boat — distinct from, and a companion to, the boat-driving methods (g
 - [Yo-Yo Iron](yo-yo-iron.md) — Drop a heavy iron straight down to a mark and crank it back up at full speed on a heavy jig-stick — a vertical presentation for fish holding deep or in current
 <!-- index:end -->
 
@@ -61,7 +62,8 @@ graph LR
   n21["Surface Iron"]
   n22["Swimbaits"]
   n23["Trolling"]
-  n24["Yo-Yo Iron"]
+  n24["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
+  n25["Yo-Yo Iron"]
   n0 --> n23
   n11 --> n18
   n11 --> n5
@@ -82,32 +84,34 @@ graph LR
   n18 --> n23
   n19 --> n21
   n20 --> n21
-  n20 --> n24
+  n20 --> n25
   n21 --> n12
   n21 --> n19
   n21 --> n20
-  n21 --> n24
+  n21 --> n25
   n21 --> n7
   n22 --> n1
-  n22 --> n24
+  n22 --> n25
   n23 --> n0
   n23 --> n1
   n23 --> n17
   n23 --> n18
   n23 --> n21
-  n23 --> n24
+  n23 --> n25
   n23 --> n5
   n23 --> n6
-  n24 --> n21
+  n24 --> n5
+  n25 --> n21
   n4 --> n14
   n4 --> n15
-  n4 --> n24
+  n4 --> n25
   n5 --> n11
+  n5 --> n24
   n6 --> n12
   n6 --> n15
   n8 --> n21
   n8 --> n22
   n8 --> n23
-  n8 --> n24
+  n8 --> n25
 ```
 <!-- mermaid:end -->
