@@ -17,6 +17,7 @@
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
 - [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
+- [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
 - [Sliding Sinker](sliding-sinker.md) — Execution for the sliding-sinker (Carolina) rig: the weight rides free on the main line above a swivel, and a leader runs from the swivel to the hook, so a fish
@@ -51,67 +52,68 @@ graph LR
   n10["Inshore Crankbaits"]
   n11["Kite Fishing"]
   n12["Knife / Speed Jigging"]
-  n13["Ned Rig"]
-  n14["Rockfish Deep-Dropping"]
-  n15["Sliding Sinker"]
-  n16["Slow-Pitch Jigging (SPJ)"]
-  n17["Slow-Trolling Live Bait"]
-  n18["Speed Trolling"]
-  n19["Surface Iron — The Cast"]
-  n20["Surface Iron — Colour"]
-  n21["Surface Iron"]
-  n22["Swimbaits"]
-  n23["Trolling"]
-  n24["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
-  n25["Yo-Yo Iron"]
-  n0 --> n23
-  n11 --> n18
+  n13["Mangrove Structure Livebait"]
+  n14["Ned Rig"]
+  n15["Rockfish Deep-Dropping"]
+  n16["Sliding Sinker"]
+  n17["Slow-Pitch Jigging (SPJ)"]
+  n18["Slow-Trolling Live Bait"]
+  n19["Speed Trolling"]
+  n20["Surface Iron — The Cast"]
+  n21["Surface Iron — Colour"]
+  n22["Surface Iron"]
+  n23["Swimbaits"]
+  n24["Trolling"]
+  n25["Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel"]
+  n26["Yo-Yo Iron"]
+  n0 --> n24
+  n11 --> n19
   n11 --> n5
-  n12 --> n16
-  n14 --> n15
-  n14 --> n16
-  n14 --> n4
-  n15 --> n11
-  n15 --> n21
+  n12 --> n17
+  n15 --> n16
+  n15 --> n17
   n15 --> n4
-  n16 --> n12
+  n16 --> n11
+  n16 --> n22
   n16 --> n4
-  n17 --> n18
-  n17 --> n23
+  n17 --> n12
   n17 --> n4
-  n17 --> n6
-  n18 --> n11
-  n18 --> n23
-  n19 --> n21
-  n20 --> n21
-  n20 --> n25
-  n21 --> n12
-  n21 --> n19
-  n21 --> n20
-  n21 --> n25
-  n21 --> n7
-  n22 --> n1
-  n22 --> n25
-  n23 --> n0
+  n18 --> n19
+  n18 --> n24
+  n18 --> n4
+  n18 --> n6
+  n19 --> n11
+  n19 --> n24
+  n20 --> n22
+  n21 --> n22
+  n21 --> n26
+  n22 --> n12
+  n22 --> n20
+  n22 --> n21
+  n22 --> n26
+  n22 --> n7
   n23 --> n1
-  n23 --> n17
-  n23 --> n18
-  n23 --> n21
-  n23 --> n25
-  n23 --> n5
-  n23 --> n6
+  n23 --> n26
+  n24 --> n0
+  n24 --> n1
+  n24 --> n18
+  n24 --> n19
+  n24 --> n22
+  n24 --> n26
   n24 --> n5
-  n25 --> n21
-  n4 --> n14
+  n24 --> n6
+  n25 --> n5
+  n26 --> n22
   n4 --> n15
-  n4 --> n25
+  n4 --> n16
+  n4 --> n26
   n5 --> n11
-  n5 --> n24
+  n5 --> n25
   n6 --> n12
-  n6 --> n15
-  n8 --> n21
+  n6 --> n16
   n8 --> n22
   n8 --> n23
-  n8 --> n25
+  n8 --> n24
+  n8 --> n26
 ```
 <!-- mermaid:end -->

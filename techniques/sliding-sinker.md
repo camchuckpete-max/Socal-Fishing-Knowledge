@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A]
+tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -150,6 +150,49 @@ dropper loop:
   nose + mid-body hook — for small yellowtail or barracuda live bait, used
   when a sub-100 lb grouper is grabbing the tail rather than swallowing a
   whole bait.
+
+## Baja Pacific grouper & snook leader — Lopez Mateos (Your Saltwater Guide, Larry Hansen)
+
+Capt. Dave Hansen (Your Saltwater Guide, `dave-hansen` registered) and
+Larry Hansen (PSA, unregistered), 2024 Bart Hall Show seminar,
+`EcQK5elTPJE`, 2024-01-27; single mention of these specific claims —
+`medium` confidence. Region: **Baja Pacific south** (Lopez Mateos /
+Magdalena Bay) — kept side by side with, not merged into, Cesar's Sea of
+Cortez grouper leader above; they are different regions, different
+species mixes (this build also lands snook, not just grouper), and
+different sinker/leader specs. See
+[Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
+for the fishery this rig is built for.
+
+- **Reel:** a **4/0-size, two-speed** reel is stated as mandatory —
+  showing up with a single-speed reel means breaking off "all day" against
+  the structure at this mark.
+- **Rig order:** braid → 80 lb fluorocarbon → sinker → swivel → ~6 ft of
+  **100–130 lb** leader → hook, the standard Carolina/sliding-sinker order
+  this note documents (weight rides free above the swivel).
+- **Mainline:** 80 lb braid.
+- **Hook:** 4X strong hook, sized to the bait — sardine or live shrimp.
+  Live shrimp has to be arranged with the guide the day before (caught
+  overnight); there's no dockside bait receiver stocking it at Lopez
+  Mateos.
+- **Drag:** locked down as tight as the reel allows. Stated reasoning: the
+  fight is decided in roughly the **first 5 seconds** — either the fish is
+  turned before it reaches structure, or it's gone. A hooked snook
+  typically rises rather than diving for the rocks the way grouper do,
+  which is how the crew reads which species is on the line before it's up.
+- **Leader-test progression as the doctrine's origin (Dave Hansen,
+  anecdote):** on his first trips here he lost his first six hooked snook
+  to break-offs, stepping leader up through 60, 80, 100, and finally 130
+  lb before landing fish — consistent with, and the source of, the
+  100–130 lb leader spec above.
+- **Hook failure mode:** 4X hooks have been straightened out on fish up to
+  the 100 lb grouper grade this mark produces.
+- **Species caveat:** the ~100 lb "grouper" here is never given a species
+  name in this source and is not assumed to be the same fish as
+  [Cesar's Sea of Cortez cabrilla/grouper program](#baja-sea-of-cortez-grouper-leader-cesar)
+  above — different region, different technique, and (per that source's
+  own doctrine) a smaller typical fish. See
+  [snook](../species/snook.md) for the species-level routing.
 
 ## Cedros yellowtail, egg-sinker weight (StokedOnFishing)
 
@@ -323,11 +366,13 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Snook (Robalo)](../species/snook.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)

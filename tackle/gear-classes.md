@@ -37,6 +37,8 @@ is the [4-factor framework](../techniques/trolling.md).
 | **SPJ / slow-pitch class** | specialized parabolic rod, thin braid (PE1.5–2 class), small narrow high-speed reel | [slow-pitch jigging](../techniques/slow-pitch-jigging.md) | Cameron shopping (open item) |
 | **Knife / speed-jig class** | rod that vertically rips a 150–400 g jig; thin braid; assist hooks | [knife jigging](../techniques/knife-jigging.md) | Cameron shopping (open item) |
 | **Deep-drop / swordfish class** | heavy stand-up 2-speed lever-drag; manual or electric-assist | [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md) | — |
+| **Baja Pacific mangrove-snook class** | ~9 ft, star-drag reel with drag locked near max, 65 lb braid to 80 lb fluoro leader, 4/0 thin-wire hook | [mangrove structure livebait](../techniques/mangrove-structure-livebait.md) (snook) | — |
+| **Baja Pacific grouper/snook bottom class** | 4/0-size **two-speed** reel (mandatory — single-speed reels break off), 80 lb braid, 80 lb fluoro to swivel, 6 ft of 100–130 lb leader, 4X hook | Carolina-rig bottom fishing near structure — see [sliding sinker](../techniques/sliding-sinker.md) | — |
 
 ## Line classes
 
@@ -106,6 +108,7 @@ does the lookup.
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
@@ -116,6 +119,7 @@ does the lookup.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Snook (Robalo)](../species/snook.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)

@@ -246,6 +246,7 @@ circle-hook rig detail logged in
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [October](../seasonal/october.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)

@@ -5,6 +5,7 @@
 ## Index
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md) **[Baja only]** — A panga fishery on the Sea of Cortez side of northern Baja, ~8 hours' drive from San Diego, fished out of a hotel strip with day-boat operators.
+- [Lopez Mateos & Magdalena Bay](bahia-magdalena-lopez-mateos.md) **[Baja only]** — Baja California Sur, Pacific side — a mangrove-and-bay complex with four distinct fisheries inside one bay.
 - [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on — reading it and setting up on it.
 - [Bays and Harbors](bays-and-harbors.md) **[SoCal only]** — How a SoCal bay or harbor is laid out for fishing — the universal structure a new-to-SoCal angler should be able to name and read on any of them (San Diego Bay,
 - [Bight Geography](bight-geography.md) **[SoCal only]** — The big-picture map of the Southern California Bight for planning: which zones the NW wind wrecks and which ride it out, the path the warm water band tracks thr
@@ -25,30 +26,31 @@
 ```mermaid
 graph LR
   n0["Bahía de los Ángeles (BOLA / Bay of LA)"]
-  n1["Bass Structure"]
-  n2["Bays and Harbors"]
-  n3["Bight Geography"]
-  n4["BightSST Eval Targets"]
-  n5["Break Walls, Jetties and Riprap"]
-  n6["Cedros Island"]
-  n7["Island Structure"]
-  n8["Loreto & Puerto Escondido"]
-  n9["Regions & Waters — the gating vocabulary"]
-  n10["Sea of Cortez"]
-  n11["Zone Lexicon"]
-  n0 --> n10
-  n0 --> n8
-  n10 --> n0
-  n10 --> n8
-  n11 --> n1
-  n11 --> n3
-  n11 --> n4
-  n11 --> n7
-  n2 --> n5
-  n3 --> n7
-  n5 --> n2
-  n6 --> n0
-  n6 --> n9
-  n8 --> n0
+  n1["Lopez Mateos & Magdalena Bay"]
+  n2["Bass Structure"]
+  n3["Bays and Harbors"]
+  n4["Bight Geography"]
+  n5["BightSST Eval Targets"]
+  n6["Break Walls, Jetties and Riprap"]
+  n7["Cedros Island"]
+  n8["Island Structure"]
+  n9["Loreto & Puerto Escondido"]
+  n10["Regions & Waters — the gating vocabulary"]
+  n11["Sea of Cortez"]
+  n12["Zone Lexicon"]
+  n0 --> n11
+  n0 --> n9
+  n11 --> n0
+  n11 --> n9
+  n12 --> n2
+  n12 --> n4
+  n12 --> n5
+  n12 --> n8
+  n3 --> n6
+  n4 --> n8
+  n6 --> n3
+  n7 --> n0
+  n7 --> n10
+  n9 --> n0
 ```
 <!-- mermaid:end -->

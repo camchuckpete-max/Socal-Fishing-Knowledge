@@ -427,6 +427,7 @@ grade, or technique detail given for the dorado specifically.
 - [Glide Baits](../techniques/glide-baits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [October](../seasonal/october.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)

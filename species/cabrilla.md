@@ -134,5 +134,6 @@ meter them." General method:
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Snook (Robalo)](snook.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
