@@ -52,7 +52,9 @@ system between the braid main line and the lure.
 - **Crimp judgment (mono/fluoro):** do **not** over-crimp — snug is enough, two
   presses per crimp (one top, one bottom). Over-crimping bites into and weakens
   the fluoro. Leave a little tag through the second side of the crimp so the loop
-  can't pull back.
+  can't pull back. See [crimping](crimping.md) for the general build-order and
+  seating mechanic (ball the tag end, chafe sleeve, flared ends, firm-handshake
+  pressure) behind any crimped connection, including this sizing table's.
 - **Connection to the main line:** crimp a large swivel to the top end (that
   swivel is why it can't pass the guides).
 - **Connection to the jig:** for a dedicated single-jig leader, crimp **directly
@@ -77,6 +79,7 @@ How-to video: [making bluefin bite leaders](https://www.youtube.com/watch?v=kO_B
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

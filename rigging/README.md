@@ -6,6 +6,7 @@
 
 - [Assist Hooks — Sizing, Cord, and Tying](assist-hooks.md) **[SoCal only]** — How to build and resize an assist hook trackside or on the water: matching hook size to a jig, choosing cord stiffness for the jig style, and tying a single (to
 - [Bluefin Bite Leaders](bite-leaders.md) **[SoCal only]** — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — described as the most critical part of a bluefin knife-jig setu
+- [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md) — A crimp sleeve is a metal tube slid over doubled leader (or over leader plus a hook/swivel eye) and mechanically compressed with a crimping tool, joining the tw
 - [Double Trouble Rig](double-trouble-rig.md) **[SoCal only]** — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
 - [Essential SoCal Knots](essential-knots.md) **[SoCal only]** — The short list of knots that cover a SoCal sport-boat or private-boat day: terminal knots that tie line to a hook or lure (Palomar, San Diego jam, loop knot), a
 - [FG Knot & Albright Knot](fg-and-albright.md) **[SoCal only]** — Two braid-to-leader connection knots that solve different problems.
@@ -29,25 +30,29 @@
 graph LR
   n0["Assist Hooks — Sizing, Cord, and Tying"]
   n1["Bluefin Bite Leaders"]
-  n2["Double Trouble Rig"]
-  n3["Essential SoCal Knots"]
-  n4["FG Knot & Albright Knot"]
-  n5["Flying Fish Harness"]
-  n6["Haywire Twist"]
-  n7["Hollow-Core Splice & Serving"]
-  n8["Leadhead Mods & Rigging"]
-  n9["Rubber-Band Deep Rig"]
-  n10["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n11["Trap Rig"]
-  n12["Tuna Feather Rig"]
-  n13["Wind-On Leader"]
-  n14["Wiring a Surface Iron"]
-  n10 --> n3
-  n14 --> n6
-  n3 --> n10
-  n3 --> n13
-  n3 --> n9
-  n7 --> n13
-  n9 --> n3
+  n2["Crimping — Sleeve Crimps for Heavy Leaders"]
+  n3["Double Trouble Rig"]
+  n4["Essential SoCal Knots"]
+  n5["FG Knot & Albright Knot"]
+  n6["Flying Fish Harness"]
+  n7["Haywire Twist"]
+  n8["Hollow-Core Splice & Serving"]
+  n9["Leadhead Mods & Rigging"]
+  n10["Rubber-Band Deep Rig"]
+  n11["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n12["Trap Rig"]
+  n13["Tuna Feather Rig"]
+  n14["Wind-On Leader"]
+  n15["Wiring a Surface Iron"]
+  n1 --> n2
+  n10 --> n4
+  n11 --> n4
+  n15 --> n7
+  n2 --> n1
+  n2 --> n7
+  n4 --> n10
+  n4 --> n11
+  n4 --> n14
+  n8 --> n14
 ```
 <!-- mermaid:end -->

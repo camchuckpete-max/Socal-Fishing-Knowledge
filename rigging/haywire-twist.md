@@ -111,6 +111,7 @@ Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
 ## Linked from
 
 - [California Barracuda](../species/barracuda.md)
+- [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo](../species/wahoo.md)
