@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -329,6 +329,52 @@ name as coincidental, not the same method.
   alternative that works too is straight **through the mouth and out the
   tip of the nose**. Logged alongside the general hook-position table in
   [fishing live bait](../bait/fishing-live-bait.md#deep-sinker-rig-bait-lower-jaw-through-the-nose-to-keep-the-mouth-shut-capt-matt-sd-fish-and-sips).
+
+## The "Brawler rig" — a named variant close to the ring-and-tag-line build (Steve Carson panel, PCS Show 2024)
+
+Steve Carson panel, "Gear Needed for Half to Full Day [Yellowtail] Fishing,"
+2024 Pacific Coast Sportfishing Show (`UP_3fBu7VPA`, Fisher Newb upload,
+2024-03-20; unregistered channel/speakers — medium confidence). The panel
+names this rig on camera as the **"brawler rig,"** framed as the "new and
+improved" successor to the original rubber-band-topped sinker rig above —
+worth reading alongside, not merged with, the **ring-and-tag-line "drop
+shot" rig** already logged above
+(`#ring-and-tag-line-variant-drop-shot-rig--built-to-reach-fish-too-deep-for-the-rubber-band-rig-capt-matt-sd-fish-and-sips`),
+since the two share the same core idea — carry the sinker on a separate
+connection point rather than banded directly onto the mainline — but come
+from different sources and the panel does not confirm they're identical
+hardware.
+
+- **Why it replaced the original design, per the panel:** the older
+  rubber-band-on-top build requires a gentle drop to avoid the sinker tangling
+  down into the leader/bait; the Brawler rig's construction lets you send it
+  straight down as fast as you want without that tangling risk, so it gets a
+  bait to a deep mark (the panel's example: fish called at ~300 ft) faster.
+- **Bite window is short — fish it accordingly:** on this rig specifically,
+  the panel describes the strike window as sometimes as brief as **5–10
+  seconds** before the fish move off the bait, reinforcing the general
+  "actively fish it, don't prop your elbows on the rail" discipline already
+  logged for the ring-and-tag-line variant above.
+- **A lighter connection to the sinker so it can part on the strike:** the
+  panel's build runs a heavier top shot (their example: 60–80 lb) down to the
+  hook, with a **lighter connection carrying the sinker specifically** (their
+  example: roughly 20 lb test) — light enough that a big fish's bite often
+  breaks the sinker connection on the hookup, so the angler ends up fighting
+  the fish without the extra sinker weight still in the system. This is a
+  distinct mechanism from the breakaway rubber band above (a knotted/tied
+  light connection rather than a rubber band that slips its loop), but serves
+  the same stated purpose — no dead weight hanging in the fight.
+- **Always nose-hook the bait on any sinker-carrying rig** — corroborates the
+  nose-hook-under-weight rule already logged for anchovy and mackerel bait in
+  [fishing live bait](../bait/fishing-live-bait.md#anchovy-nose-weighted-vs-gill-hook-by-rig);
+  the panel's stated reason is the same failure mode: hooked anywhere but the
+  nose, the bait tends to rip off the hook on the drop.
+- **When you need the heavier gear this rig is usually built on:** the panel
+  frames a **60–80 lb rig** (their own name for the class: "brawler") as the
+  step up from a 40 lb workhorse rig once bigger tuna are confirmed around,
+  and the **100 lb rig** as the further step for an overnight trip where a
+  200 lb-class fish is a real possibility — see the "always bring it" doctrine
+  in [rod & reel selection](../tackle/rod-and-reel-selection.md#sportboat-bring-a-range-day-and-night).
 
 ## Rig it
 

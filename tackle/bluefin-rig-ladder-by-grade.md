@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA]
 confidence: medium
 ---
 
@@ -303,6 +303,67 @@ and the missed-bite redrop technique are in
   (or back off) the drag after a long run on a rig that started deep or
   heavily spooled down, rather than trusting the initial setting through the
   whole fight.
+
+## Two-speed threshold, and a half-to-full-day line-class ladder (Steve Carson panel, PCS Show 2024)
+
+A second, distinct Steve Carson venue — a panel he hosted (with named
+panelists including Christian) at the **2024 Pacific Coast Sportfishing
+Show**, "Gear Needed for Half to Full Day [Yellowtail] Fishing" (`UP_3fBu7VPA`,
+uploaded by attendee channel Fisher Newb, upload date 2024-03-20; unregistered
+channel/speakers, single mention of these specific claims — medium
+confidence). This talk is framed around **yellowtail first**, tuna second,
+and is kept side by side with the SD Rod & Reel Club ladder above rather than
+merged in — the rig numbering and line classes don't line up one-to-one
+between the two talks.
+
+- **When you actually need a two-speed reel — a live disagreement, not a
+  fixed number:** Carson's own answer is **30 lb** line class; he notes
+  "younger, stronger guys" argue for 40 lb, and a few push it to 50 lb before
+  a two-speed becomes a must-have. **Framed explicitly as a lively, unsettled
+  question**, not house doctrine.
+- **Target species matters more than line class for this decision (a
+  panelist, same talk):** a two-speed isn't required to fish 40 lb — modern
+  lightweight two-speed reels (Penn Fathom-class named) fish light line and
+  fly-line well regardless — but whether you *want* one turns on what you're
+  targeting: **seabass and yellowtail don't reward fishing a two-speed**, while
+  **50–80 lb bluefin on 30–40 lb line benefits heavily** from being able to
+  drop into low gear and gain line an inch at a time, because a single-speed
+  reel's gear ratio is too high to crank effectively against sustained
+  resistance. A 25 lb-class two-speed (e.g. a Fathom 25 / Saltist 35 class)
+  is framed as an especially versatile, budget-friendly all-rounder for a
+  newer or budget-conscious angler: it flylines well, and lands fish up to
+  roughly 80–100 lb on 65–80 lb braid.
+- **A separate observed data point, single-speed on light line:** the same
+  panel recalls landing 60–70 lb bluefin on 25 lb single-speed gear the
+  prior season (2023) — called "not the ideal situation" but doable — kept
+  beside, not a correction to, the two-speed-benefits-big-fish doctrine above.
+- **Half-day vs. overnight gear range:** for a half-day trip, one or two rods
+  covers it; an overnight trip — especially with tuna around — calls for
+  bringing the full range, up to and including a 100 lb rig "just in case,"
+  reasoning that recent seasons' nighttime fishing and bigger average grade
+  make it worth having even if it goes unused. See the parallel "bring a
+  range" doctrine in
+  [rod & reel selection](rod-and-reel-selection.md#sportboat-bring-a-range-day-and-night).
+- **Loaner/rental top-shot convention:** for his own gear that goes out to
+  guests of widely varying skill, Carson's stated figure is a **25–50 yard**
+  mono top shot (yards, not feet — he's explicit on the units) ahead of a
+  fluorocarbon leader. A panelist, asked to agree or disagree, agreed with
+  the approach and gave a narrower figure for his own loaner gear — **3/4
+  spool of braid to a 25–30 yard** top shot — kept side by side as a tighter
+  version of the same convention rather than a conflicting number. Stated
+  reasons for keeping some mono
+  in the system rather than running braid straight to a bare fluoro leader:
+  (1) a guest who doesn't know how to tie a leader can still tie a hook
+  straight onto plain mono; (2) a **short** fluorocarbon leader shrinks fast
+  under repeated cut-and-retie after each fish, and a mono top shot acts as a
+  buffer so the retying eats into disposable mono length rather than the
+  leader itself.
+- **Leader-length floor — don't let retying shrink it below ~5–6 ft:** the
+  panel's stated failure mode is a leader that starts a reasonable length and,
+  after several cut-and-retie cycles boating fish, ends up **as short as 1–2
+  ft** — at that length, bites drop off. **5–6 ft is the stated minimum** to
+  rebuild back up to (re-cutting fresh leader material) once it's been
+  whittled down, rather than fishing it out at 1–2 ft.
 
 ## Related
 

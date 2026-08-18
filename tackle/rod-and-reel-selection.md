@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA]
 confidence: medium
 ---
 
@@ -185,6 +185,39 @@ side by side with the dated builds above rather than merged in:
   iron](../techniques/surface-iron.md)); **stickbaits and poppers tolerate a
   heavier top shot** without that penalty.
 
+## Spinning-reel buying criteria for casting to 100 lb-class tuna (Steve Carson panel, PCS Show 2024)
+
+Steve Carson panel, "Gear Needed for Half to Full Day [Yellowtail] Fishing,"
+2024 Pacific Coast Sportfishing Show (`UP_3fBu7VPA`, Fisher Newb upload,
+2024-03-20; unregistered channel/speakers — medium confidence). Prompted by
+an audience question on whether a spinning reel can land a 100 lb tuna;
+answered with buying criteria rather than a single model pick, framed as
+applying across brands (Penn was the booth sponsor but the panel was explicit
+several other companies make comparable reels at the same price points):
+
+- **Budget floor: don't consider a spinning reel for this application under
+  roughly $300.** Below that price point the panel's advice was not to bother.
+- **All-metal body and rotor, not graphite.** Graphite is lighter but not as
+  strong; for landing a 100 lb-class fish, metal construction was called the
+  non-negotiable spec.
+- **Double drag — a drag washer stack on both the top and bottom of the
+  spool**, not just one side. Check by pulling the spool off the reel.
+- **Casting ability matters as much as landing capacity** — on a single-shot
+  overnight or 3/4-day trip, hitting the popper/stickbait into a small feeding
+  window can matter as much as the reel's ability to stop the fish once it's
+  hooked. A spinning reel's casting advantage over a conventional was the
+  panel's stated reason to reach for one at all in this application.
+- **Named tiers by price:** at the entry end, a **Penn Slammer**-class reel
+  was named as the pick for someone buying the least expensive option that
+  still meets the criteria above; stepping up in budget, a **Penn Authority**-
+  class reel was named as the upgrade pick. (Product/model names — low
+  confidence per the sponsored-claim rule; the body/rotor/drag/price criteria
+  above are the transferable parameters.) Cross-reference: Cesar's separate
+  casting-reel framework above targets a lighter grade of fish (yellowfin to
+  ~50 lb) on a **20–25, up to 30-size** star-drag reel — this spinning-reel
+  criteria is specifically for the heavier, 100 lb-class end of the same
+  casting application.
+
 ## Baja cabrilla jerkbait setup (Cesar, EmZO8QiOfik)
 
 Cesar, via Dirty Hookers, EmZO8QiOfik, 2025-03-04; registered voice,
@@ -278,12 +311,33 @@ lure:
   rod gets is worth a few extra minutes fighting the fish once hooked. See
   [flyline](../techniques/flyline.md) for the line-sizing logic this gear
   serves.
+- **Corroborating, lighter/smaller-spool reasoning (Steve Carson panel, PCS
+  Show 2024, `UP_3fBu7VPA`; unregistered channel/speakers — medium
+  confidence):** for flylining specifically, the panel's stated preference is
+  a smaller, lower-profile reel (Penn Fathom-class, Shimano Trinidad 14-class,
+  or smaller) over a bigger reel of the same line class — a lighter spool
+  puts less weight/drag on the bait as it swims away, and matching reel size
+  to bait size (rather than to the target species' maximum grade) was called
+  more important than rod choice for getting bit in the first place. A
+  two-speed reel was called a nice-to-have for flylining, not a requirement,
+  unless specifically targeting bluefin. Consistent with, not adding a new
+  number beyond, the low-gear-ratio/light-free-spool doctrine above.
 
 ## Sportboat: bring a range, day and night
 
 On a charter you can't pick the grade in advance, so carry a spread
 (daytime/nighttime roundups, gOAOyMNG3Ug, qSgIwLX2FWw). Grade can swing from
 30–50 lb fish to 100–200 lb fish on the same trip.
+
+- **Half-day vs. overnight, and "bring it even if you don't need it" (Steve
+  Carson panel, PCS Show 2024, `UP_3fBu7VPA`; unregistered channel/speakers —
+  medium confidence):** a half-day trip doesn't need this range — one or two
+  rods covers it. An overnight trip, especially with tuna around, is where
+  the full spread matters; the panel's stated practice for recent seasons
+  (nighttime fishing more common, bigger average grade showing up) is to
+  bring a **100 lb rig on every overnight trip** even when it isn't expected
+  to be needed, reasoning that not having it on the one day it's required
+  costs more than the trips it sits unused.
 
 - **Daytime:** a knife-jigging rod (PE 4x8, 250–400 g; 100 lb braid, day size-down
   to a 60–80 lb fluoro top shot; **100–200 g jigs by day**); a favorite flyline
@@ -612,6 +666,7 @@ a bluefin).
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)

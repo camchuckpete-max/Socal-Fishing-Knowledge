@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -64,6 +64,40 @@ pinnipeds picking off baits at the islands — matches the butt hook row
 above exactly, so this reads as a further data point for that doctrine
 rather than a distinct technique.
 
+### Why belly hook over butt hook for tuna/game fish specifically (Steve Carson panel, PCS Show 2024)
+
+Steve Carson panel, "Gear Needed for Half to Full Day [Yellowtail] Fishing,"
+2024 Pacific Coast Sportfishing Show (`UP_3fBu7VPA`, Fisher Newb upload,
+2024-03-20; unregistered channel/speakers — medium confidence). A panelist's
+stated reasoning for defaulting to the belly hook (just above the two lower
+fins) over the butt hook specifically for tuna, yellowtail, and other game
+fish, adding the "why" behind the belly-hook row already logged above:
+
+- **Reaction-bite mechanism:** a belly-hooked bait, cast or fly-lined, "shoots
+  out" and swims with an urgency that triggers a reaction strike — stated as
+  the panel's primary reason to reach for it on tuna specifically.
+- **Avoids internal-organ damage the butt hook risks:** hooked in the belly
+  just above the fins, the hook only catches a small amount of cartilage; a
+  butt hook placed too far forward can catch internal organs and cause the
+  bait to bleed, which both shortens its life and can put off fish that are
+  keying on a lively, undamaged bait.
+- **A forcing function for fresh bait:** a properly belly-hooked bait tends to
+  wind off the hook on retrieve after its initial soak, so the angler is
+  forced to grab a fresh bait rather than re-fishing a spent one — framed as
+  a good habit this hook position enforces, not an accident.
+- **When to reach for nose instead (same source):** for casting at a
+  visible target — the panel's example is pitching to boiling fish, or
+  punching a bait out at [calico bass](../species/calico-bass.md) in kelp
+  where distance matters — a **nose hook** casts better than a belly hook.
+  In heavy current at the islands, or on a slow soak rather than an active
+  presentation, the panel also reaches for a **nose hook** ("I have noticed
+  a nose-hook bait can be more effective... that's like island fishing for
+  the most part") — kept beside, not read as endorsing, the butt-hook row
+  already logged above, since this source names nose, not butt, for that
+  scenario. Corroborating, from the same panel: most working
+  deckhands/operators belly-hook the bait they hand out **nine times out of
+  ten**, reserving nose for these specific situations.
+
 **Sardine-specific mechanics and trade-off (Capt. Dave Hansen, Your Saltwater
 Guide, ZggReeO1nyU, 2022-01-07; dave-hansen is a registered voice — his
 hook-placement doctrine already sits at `high` confidence per the source
@@ -107,6 +141,27 @@ carries weight:
     little resistance/friction on the cast that helps punch it out against
     wind. (2) The hook then tends to lie flush alongside the bait's body as
     it swims rather than sticking out, so it's less visible to the fish.
+
+### Rockfish live bait: nose or collar hook, always nose under a sinker (Steve Carson panel, PCS Show 2024)
+
+Steve Carson panel, `UP_3fBu7VPA`, 2024-03-20; unregistered channel/speakers —
+medium confidence. Answering an audience question on hooking live bait
+(anchovy) for [rockfish](../species/rockfish-lingcod.md), distinct from the
+tuna/yellowtail hooking doctrine above:
+
+- **Rockfish aren't picky about hook position** — the panel's stated view is
+  that rockfish don't discriminate much on presentation, so **nose or collar
+  hook** both work; belly-hooking is not recommended here because a
+  belly-hooked bait tends to rip off the hook on the drop to depth.
+- **Anchovy-specific technique — up through the top jaw:** for anchovy
+  specifically (called out as a genuinely fragile bait to keep hooked), one
+  panelist's preference is entering **through the bottom of the jaw and out
+  through the top** rather than a simple nose hook, on the reasoning that it
+  seats more hook in the bait and holds better on the drop — consistent with,
+  and an alternative to, the nose-hook default in the anchovy section above.
+- **Any sinker on the line means nose hook, full stop** — matches the
+  weighted-rig rule already logged in the anchovy section above: with a
+  sinker of any size, stick to the nose regardless of bait species.
 
 ### Mackerel: butt hook (no weight) vs. nose hook (any weight) vs. back/dorsal hook (kite only)
 

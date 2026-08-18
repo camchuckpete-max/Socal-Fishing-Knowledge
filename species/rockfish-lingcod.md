@@ -275,6 +275,7 @@ the *bottom*, not the fish.
 - [California Sheephead](sheephead.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [November–December](../seasonal/november-december.md)

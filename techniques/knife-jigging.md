@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -189,6 +189,18 @@ whether a bite converts.
   single right number:** Ray marks every **50 ft**; commercially pre-marked braid
   can come marked every **25 ft** (Ul5FLB2dFgQ; Ray Sharifi is not a registered
   voice — medium confidence). Pick an interval and know it cold.
+- **Corroborating framing — depth control as the single biggest beginner
+  mistake (Steve Carson panel, PCS Show 2024, `UP_3fBu7VPA`, 2024-03-20;
+  unregistered channel/speakers — medium confidence):** the panel calls
+  failing to mark line to depth the single most common mistake new bluefin
+  jig anglers make, and frames the consequence bluntly — a fish holding at
+  350 ft is not going to eat a jig worked at 250 or 550 ft. **Manual
+  marking-by-arm-span method (no equipment):** absent pre-marked braid, pull
+  the line out in arm spans (the panel's own reach is roughly **3 ft per
+  pull**, noting a taller angler's reach goes further) and count spans to
+  build marks — a slower process (the panel estimates **10–15 minutes**) but
+  doable given the time available on an overnight trip. Corroborates, without
+  adding a new number, the mark-your-line doctrine below.
 - **Thumb tension on the drop keeps the jig vertical (James Kikkawa, PCS Show
   2024 "Jigging 101" panel, `Et2TUskzCSs`; medium confidence):** counterintuitive
   but effective — keep a little tension on the spool with your thumb as the

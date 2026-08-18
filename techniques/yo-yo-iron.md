@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -363,6 +363,28 @@ the reverse map in **Linked from** below.
   up on the ridge after the crew left Thetis Bank overnight (opposite
   current made conditions poor there). Angler named on camera as Ray. No jig
   weight, color, or brand given.
+
+- **Jig size by reported depth, ahead of the drop (Steve Carson panel, PCS
+  Show 2024, `UP_3fBu7VPA`, 2024-03-20; unregistered channel/speakers —
+  medium confidence):** yo-yo depth on an overnight/multi-day trip commonly
+  runs **120–240 ft**; check with the crew (in person or via social media)
+  on what depth and jig size is producing before the drop. Stated rule of
+  thumb — **150–250 ft: a full-size 6X-class iron**; shallower, or when
+  getting down fast matters less, **a smaller iron (6X Jr, or a Tady
+  40-class jig)**. Line: **40 lb minimum**, with the panel's own preference
+  running **50–60 lb** on a two-speed reel (a Penn Fathom 40-class reel
+  named as a good fit — high gear to wind the jig back fast, low gear to
+  help work a hooked fish out of structure). **Colors:** the panel sticks to
+  "the classics" — **scrambled egg, blue and white, mint** — consistent
+  with the traditional color range already logged above; **red-toned jigs**
+  were called out as producing specifically **during red crab years**,
+  matching forage color to the bait present rather than being a fixed
+  favorite.
+- **Readiness matters as much as jig choice (same source):** a school may
+  only hold under the boat for **5–10 seconds** during an otherwise long
+  search, so being rigged and ready to drop the instant the captain calls
+  fish — rather than fumbling gear once marks show up — was framed as one of
+  the more consequential, if unglamorous, factors in getting bit at all.
 
 ## Common failures
 
