@@ -15,10 +15,14 @@ it never drifts from the notes.
 ## Build it
 
 ```
-python scripts/build-skill-resources.py                 # default profile: profiles/cameron
+python scripts/build-skill-resources.py                 # default: NO profile
 python scripts/build-skill-resources.py --profile profiles/_template
-python scripts/build-skill-resources.py --no-profile    # generic, class-term only
+python scripts/build-skill-resources.py --profile profiles/cameron --include-spots
 ```
+
+**The default bundles no profile.** A bundle can be handed to another angler, so
+it carries a profile only when one is named on the command line, and carries a
+spot file (coordinates) only with `--include-spots` on top of that.
 
 This writes (git-ignored — a regenerable artifact, never committed):
 

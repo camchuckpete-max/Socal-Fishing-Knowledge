@@ -4,7 +4,7 @@ The **system of record for fishing KNOWLEDGE** for the Southern California Bight
 and Baja — the companion to [BightSST](https://bightai-api.onrender.com) (the
 system of record for **conditions**). Claude chat is the day-planning surface
 and consumes both at plan time. Knowledge here is **universal**; angler-specific
-boats, rods, and spots live under [`profiles/`](profiles/). Anyone can plan a day
+boats, rods, and spots live under [`profiles/`](profiles/README.md). Anyone can plan a day
 with this KB, and the recommendations sharpen once they add their own gear.
 
 **Mission:** guide a brand-new-to-SoCal fisherman through the full chain —
@@ -16,29 +16,29 @@ to locate fish, and **how to actually fish** each technique.
 
 The step-by-step procedure chat and the boat-day skill follow to turn conditions
 + priors into a gear'd-up plan. **Species notes are the entry points** — open
-[`species/`](species/) for the fish you want and route out to technique, gear,
+[`species/`](species/README.md) for the fish you want and route out to technique, gear,
 and conditions from there.
 
 ## Branch map
 
 | Branch | What lives here |
 | --- | --- |
-| [conditions/](conditions/) | Interpretation layers — sea-state, moon, tide/slack, current-structure, water color/temp, upwelling/turnover, DSL, paddies, birds |
-| [seasonal/](seasonal/) | Month-by-month priors calendar (pattern layer, not current intel) |
-| [species/](species/) | Per-species behavior + the situation→technique router table |
-| [techniques/](techniques/) | How a method works + when to reach for it |
-| [lures/](lures/) | Per-lure / per-class specs, rigging, running params |
-| [rigging/](rigging/) | Knots, leaders, terminal rigs (parameters + judgment) |
-| [tackle/](tackle/) | Rod / reel / line / hook selection; the gear-class lexicon |
-| [bait/](bait/) | Making, keeping, and fishing live bait |
-| [fish-care/](fish-care/) | Bleeding, chilling, ikejime, handling |
-| [locations/](locations/) | Universal structure/zone knowledge — no personal coordinates |
-| [planning/](planning/) | Day-plan protocol, search & glassing, electronics |
-| [profiles/](profiles/) | Per-user boat, rods, tackle, lures, spots |
-| [sources/](sources/) | Raw transcripts, input docs, extraction log |
-| [config/](config/) | Runtime config the distributed skill reads at plan time — conditions endpoints, fallback ladder, source-validity rules |
-| [skills/](skills/) | Deployable skills — `socal-boat-day` (distributed, fetches the KB live) and `boat-day` (earlier bundled design) |
-| [scripts/](scripts/) | `link-maintenance.py`, `build-skill-resources.py` |
+| [conditions/](conditions/README.md) | Interpretation layers — sea-state, moon, tide/slack, current-structure, water color/temp, upwelling/turnover, DSL, paddies, birds |
+| [seasonal/](seasonal/README.md) | Month-by-month priors calendar (pattern layer, not current intel) |
+| [species/](species/README.md) | Per-species behavior + the situation→technique router table |
+| [techniques/](techniques/README.md) | How a method works + when to reach for it |
+| [lures/](lures/README.md) | Per-lure / per-class specs, rigging, running params |
+| [rigging/](rigging/README.md) | Knots, leaders, terminal rigs (parameters + judgment) |
+| [tackle/](tackle/README.md) | Rod / reel / line / hook selection; the gear-class lexicon |
+| [bait/](bait/README.md) | Making, keeping, and fishing live bait |
+| [fish-care/](fish-care/README.md) | Bleeding, chilling, ikejime, handling |
+| [locations/](locations/README.md) | Universal structure/zone knowledge — no personal coordinates |
+| [planning/](planning/README.md) | Day-plan protocol, search & glassing, electronics |
+| [profiles/](profiles/README.md) | Per-user boat, rods, tackle, lures, spots |
+| [sources/](sources/README.md) | Raw transcripts, input docs, extraction log |
+| [config/](config/README.md) | Runtime config the distributed skill reads at plan time — conditions endpoints, fallback ladder, source-validity rules |
+| [skills/](skills/README.md) | Deployable skills — `socal-boat-day` (distributed, fetches the KB live) and `boat-day` (earlier bundled design) |
+| [scripts/](scripts/README.md) | `link-maintenance.py`, `build-skill-resources.py` |
 
 ## Conventions
 

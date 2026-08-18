@@ -10,7 +10,7 @@ confidence: high
 Cameron's owned trolling spread (inventory complete as of 7/23/26, ~25 lures incl.
 the unidentified skirt bag). **Running specs** — troll speeds, running depths,
 setbacks, leader/top-shot per model — are the spec backbone of the linked
-[lures](../../lures/) notes; this note is the owned subset. How he decides which
+[lures](../../lures/README.md) notes; this note is the owned subset. How he decides which
 to pull is in [bluefin trolling](../../species/bluefin-trolling.md) and
 [trolling](../../techniques/trolling.md); boat spread geometry is in
 [boat](boat.md).

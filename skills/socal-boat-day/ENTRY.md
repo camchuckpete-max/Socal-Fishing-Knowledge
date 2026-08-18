@@ -35,6 +35,14 @@ procedure so the procedure can change without reissuing the skill.
 Fetch notes on demand rather than pulling the whole repo. The protocol and the
 folder indexes are written so a session can navigate from here.
 
+**Fetching over `raw.githubusercontent.com`: a folder is not a URL.** Raw serves
+files only — it has no directory listing, so `.../main/species` is a 404 while
+`.../main/species/README.md` is the index you wanted. Every link in this KB
+points at a file for that reason. If you ever hit a folder path, append
+`README.md`. Browsing `github.com` instead works without the rule, because
+GitHub does list directories — but raw returns clean markdown, so prefer raw and
+append the index filename.
+
 ## Angler profile — the multi-user contract
 
 The knowledgebase is universal. Everything angler-specific lives in

@@ -21,8 +21,8 @@ navigate the whole KB.
    the fallback ladder, and the source-validity rules live in
    [conditions endpoints](../config/endpoints.md) — read that before any pull.
 2. **Apply priors + interpretation layers.** Weight zones and set timing (moon,
-   tide windows) using the [seasonal priors](../seasonal/) calendar and the
-   [conditions layers](../conditions/) — especially
+   tide windows) using the [seasonal priors](../seasonal/README.md) calendar and the
+   [conditions layers](../conditions/README.md) — especially
    [sea-state](../conditions/sea-state.md), [moon](../conditions/moon.md),
    [tide & slack](../conditions/tide-and-slack.md),
    [current-structure](../conditions/current-structure.md), and
@@ -30,11 +30,15 @@ navigate the whole KB.
    [temperature](../conditions/water-temperature.md). Age the intel with
    [report reading & forecasting](report-reading-and-forecasting.md) (report
    aging, advection, coverage bias).
-3. **Resolve species + technique.** Enter through the [species routers](../species/):
+3. **Resolve species + technique.** Enter through the [species routers](../species/README.md):
    each maps the day's situation → ranked technique(s) → gear class.
-4. **Resolve gear + spread** against the active [profile](../profiles/). No
+4. **Resolve gear + spread** against the active [profile](../profiles/README.md). No
    profile → class terms per the [gear-class lexicon](../tackle/gear-classes.md);
-   with one → owned gear within the boat envelope.
+   with one → owned gear within the boat envelope. **Never recommend gear the
+   angler has not said they own**, and when a class the plan calls for has no
+   match in their inventory, **name the gap** — "the 40-fathom stop wants a heavy
+   yo-yo iron and I don't see one in your box" — rather than substituting
+   something that doesn't fish the same way.
 
 ## Conditions sources
 
@@ -58,7 +62,7 @@ navigate the whole KB.
   reports, advection, coverage bias.
 - [Fleet intelligence](fleet-intelligence.md) — reading VHF chatter and
   fleet/AIS activity, and why they carry different trust.
-- [Species routers](../species/) — enter here to map situation → technique → gear.
+- [Species routers](../species/README.md) — enter here to map situation → technique → gear.
 
 
 <!-- backlinks:start -->
