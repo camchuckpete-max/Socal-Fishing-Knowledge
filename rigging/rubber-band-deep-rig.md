@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -456,6 +456,60 @@ three so far that (2023) season. Build, as demonstrated:
   two rubber-band builds above and this one), the drop-shot/brawler rig had
   been the most popular one that (2023) season, though which rig is actually
   getting bit "changes just about every single day."
+
+## Full rod/reel/line build, from a dedicated follow-up video (Steve Carson, "Tackle Tip Thursday Vol. 233")
+
+**Steve Carson, SearcherSportfishing, `83HROAgGW6Q`, "Tackle Tip Thursday Vol.
+233 (Drop-shot Rig)," 2024-05-16; unregistered channel — medium confidence.**
+A dedicated follow-up to the drop-shot/brawler build he showed in Vol. 225
+above (`5CvFDpvlfSE`, 2023-08-03) — same presenter, same rig, this time the
+sole subject of a short tip video, adding rod/reel/line detail the earlier
+one didn't give.
+
+- **Rod/reel:** doesn't need to be the boat's heaviest outfit, but
+  "relatively heavy," and **must be a two-speed reel**. His example: a
+  **Penn Fathom 40 narrow, two-speed**.
+- **Line:** **80 lb test braid** main line, filling the reel about **3/4 of
+  the way**, topped with a **60 or 80 lb test top shot**.
+- **Hook, clarifying the hardware left ambiguous in the Vol. 225 build
+  above:** a **ringed Owner hook** — captioned "ringed M hook," almost
+  certainly a **ringed Mutu**-pattern hook (Owner's ringed Mutu circle hooks
+  are a common SoCal bluefin choice; not confidently resolved to an exact
+  model — flagged `asr-uncertain`). Carson is explicit that **the ring is
+  mandatory** — without that extra ring at the hook, you can't rig it this
+  way. This confirms the ring sits on the hook itself, not as a separate
+  hardware ring, resolving the ambiguity the Vol. 225 build left open.
+- **Tie-on sequence:** the main line ties to one side of the hook's ring; the
+  dropper line to the sinker ties to the other side — so the hook rides off
+  one leg of the ring and the sinker dropper off the other.
+- **Dropper line — an update to his own Vol. 225 figure, dated, kept side by
+  side rather than overwritten:** here (2024-05-16) Carson runs **about
+  40 lb test** on the dropper, heavier than the **15 lb test** he used in
+  Vol. 225 (2023-08-03); per the "prefer the latest" rule, treat 40 lb as his
+  current recommendation. His stated reasoning this time: **anything lighter
+  than roughly 20 lb test and the sinker breaks off as soon as you hook a
+  fish**; he runs 40 lb specifically so he doesn't lose his "expensive
+  sinkers." **Length:** "not super crucial," about **2.5 to 3 ft** — matching
+  the 2.5–3 ft range already logged for this rig above.
+- **Sinker weight — the same crew-directed judgment as elsewhere in this
+  note:** he carries a 4 oz sinker for convenience, but the crew sets the
+  actual weight for the day/hour; more wind or fish running deeper calls for
+  heavier — his examples: **12 oz, 16 oz, or more**.
+- **Decision trigger, restated and dated — corroborates the trigger already
+  logged above from `5CvFDpvlfSE`:** reach for this rig on a day *or* night
+  when bluefin "just won't bite on lures" and "will only bite on the live
+  bait," but are still holding deep — a standard flylined bait won't reach
+  them. New in this source: he singles it out as **"in particular... a very
+  effective rig for nighttime."**
+- **Precision framing:** the point of the rig is to drop a live bait to the
+  exact depth the crew calls — his examples, **250 ft or 350 ft** — and put
+  it "right in front of the fish's face."
+- **Bait hook style:** always fish this rig with one of the **nose-hooking**
+  styles (he points to a separate hooking-bait video, not further identified
+  on camera); see the hook-position doctrine in
+  [fishing live bait](../bait/fishing-live-bait.md).
+- **General tuna hook rule, stated in passing:** for tuna fishing generally,
+  always use a **circle hook**.
 
 ## Brawler rig, a simpler build described verbally (Brian Wen, 2025 PCS Show seminar)
 
