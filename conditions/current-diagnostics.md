@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY, sIoNELGlxmk]
 confidence: high
 ---
 
@@ -55,6 +55,23 @@ matching the registered `dave-hansen` biography and confirming this is the
 same voice. Now treated as **dave-hansen, registered voice**; single mention
 on this specific chart-plotter claim, so confidence stays **medium**, not
 promoted to high on attribution alone).
+
+## Anchor-line current read on hard, kelp-free structure (dave-hansen, Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04; registered voice, single mention on this specific method — medium confidence)
+
+On hard-bottom/rock spots with **no buoys and no kelp** to read (called out
+specifically for the yellowtail/sea bass rock structure this presenter
+fishes), there's no visual current tell to check before committing —
+**the only way to find out which way the current is running is to drop the
+anchor and watch which way the line points once it sets.** That first read
+can be wrong (the boat can swing differently than expected, or the current
+can be running a different direction than assumed), which is why sport-boat
+captains who "know everything" still sometimes have to reset the anchor
+after the initial guess doesn't hold. On his own skiff the presenter pulls
+and resets the anchor **10–12 times in a day** to stay precisely on the
+spot he wants — framed as a normal, expected cost of fishing the spot
+correctly, not a sign of a bad read. Ties into the "willing to reset the
+anchor" framing already implicit in the fathom-curve worked example in
+[current structure](current-structure.md#fathom-curve-behavior-at-islands).
 
 ## "The treadmill is off" — no current at anchor
 

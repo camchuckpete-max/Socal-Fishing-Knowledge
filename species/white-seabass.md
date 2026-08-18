@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM, sIoNELGlxmk]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [island, nearshore-coast]
@@ -41,6 +41,14 @@ lead-head-and-squid is the signature rig.
   but consistent with WSB holding the same squid-driven island structure
   yellowtail work. The boat had already reached its trip's white seabass
   limit, so each fish taken this way was released rather than boxed.
+- **Illustrative afternoon example — West Cove, Catalina (dave-hansen, Your
+  Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04;
+  registered voice, single mention, told as a hypothetical/rhetorical
+  example rather than a directly reported result — medium confidence,
+  treat as a lean, not a confirmed bite):** used as a worked example of a
+  "game plan" line rather than a dated report — anchoring **West Cove in
+  32 ft of water at 3 p.m.** was the stated afternoon seabass play in the
+  example.
 - **Squid is the driver.** From the
   [warming transition through the warm-stable regime](../conditions/water-regimes.md)
   (typically early spring through summer), WSB tracks the **squid** —

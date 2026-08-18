@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4, JiJYamo0QHk]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4, JiJYamo0QHk, sIoNELGlxmk]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast, island]
@@ -57,6 +57,19 @@ re-checked against **current CDFW rules** before every trip — they change.
   lifetime" (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26;
   single-source tutorial claim, not yet corroborated — treat as a lean, not a
   rule).
+  **Repeated by the same voice, with the mechanism and a worked example
+  (dave-hansen, Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`,
+  2023-03-04; registered voice — second dated mention promotes this specific
+  claim to repeated doctrine / high confidence):** the stated reason
+  lobsters move on rain is that **they avoid fresh water** ("they hate fresh
+  water... hate hate hate it") — rainfall triggers the crawl.
+  **Observed** (dave-hansen, describing his own early charter operation out
+  of Rainbow Harbor, within the Long Beach Harbor complex, dated to
+  2006–2007 on camera): running early hoop-net charters out of Rainbow
+  Harbor (chosen over the rest of Long Beach Harbor because he couldn't
+  afford the fuel to run further) at $100/person for up to 6 anglers over 5
+  hours, with no established program yet built — after it rained, the crew
+  caught lobster at **every spot fished** in the harbor that trip.
 - **When — night.** Lobster crawl and feed after dark; hoop netting is a nighttime
   activity, which is why the buoys carry **LED lights** to relocate them.
 - **Moon timing — darkest nights best.** Within the season, favor the **darkest,

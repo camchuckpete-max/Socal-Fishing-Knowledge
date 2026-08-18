@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk]
 confidence: high
 ---
 
@@ -91,6 +91,37 @@ rock structure as well. This is a corner-level refinement of the up-current
 bias already covered above ("bias toward the up-current face under whatever
 current vector is running that day") — same mechanism, a specific compass
 answer at these named SoCal spots.
+
+**Mechanism and a live worked example, same voice — second dated mention
+promotes this claim to repeated doctrine / high confidence (dave-hansen,
+Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04):**
+walked through live at the **San Onofre** kelp bed — fronds all laid pointing
+toward San Diego reads as **downhill current** — with the reasoning given as
+a trout-stream analogy: the emptiest, easiest water in a stream to fish is
+always the slack water, because no current means no food is being delivered
+there; once current turns on, fish hold in the moving water (like trout) to
+intercept food being carried past, which is why the **front (up-current)
+edge of the kelp** is where the bigger fish stack once the current starts to
+run. Paired with an explicit **anchor the spot, don't drift through it** call
+for kelp — drifting through the bed was framed as giving up the edge-holding
+pattern entirely ("only if we don't want to catch anything").
+
+## Current is not tide-driven (a presenter's framing, kept side by side with the mechanism above)
+
+Stated emphatically as its own point (dave-hansen, Your Saltwater Guide, PCS
+Show live seminar, `sIoNELGlxmk`, 2023-03-04; registered voice, single
+mention on this specific framing — medium confidence): **current and tide
+are not caused by each other** — "current is current" — consistent with
+this KB already treating them as two independent inputs (current from
+wind/bathymetry per the mechanism chain above; tide from lunar/solar gravity
+in [tide and slack](tide-and-slack.md)). Worked example (the specific
+landmark names in this passage were garbled beyond reliable recovery by
+auto-captions and are omitted here, `asr-uncertain`): at **San Clemente
+Island**, two named spots close enough together to be a short run apart can
+show **opposite current directions on the same day** — one running toward
+San Diego (downhill), the other running uphill — with no explained cause
+("what caused that we don't know"). Framed as routine at SCI, not a rare
+anomaly.
 
 ## Wind direction as a per-spot selection cue (Dave Hansen inferred, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice, single mention on this specific framing — medium confidence)
 

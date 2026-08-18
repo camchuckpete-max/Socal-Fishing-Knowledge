@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -51,6 +51,27 @@ step or the back of the boat — it stops all flow on the boat, and with the
 tank aft only one angler at a time can reach it while everyone else's movement
 around the boat also stalls. Dead center of the cockpit is the right call on
 **any boat from 17 ft to 80 ft**.
+
+## Turnover interval and air-bubble hazard (dave-hansen, Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04; registered voice — corroborates the round/oval doctrine above with a restated reason; the turnover interval and air-bubble mechanism are new specific parameters, single mention on these figures — medium confidence)
+
+- **Round/oval shape, restated reason:** live bait has to be able to **swim
+  in one continuous direction**; a square-cornered box doesn't let it,
+  consistent with the circular-flow west-coast design documented above.
+  Framed as make-or-break for the trip — "it's not an aquarium... this is
+  bait."
+- **Turnover interval: the entire volume of water in the tank has to change
+  every 8 minutes** — stated as applying regardless of tank size, "a
+  thousand gallon tank or... a one gallon tank." No mechanism given for the
+  specific figure ("why eight minutes I have no clue but that's what
+  works"); read this as a concrete target to size a pump's GPH against
+  (above), not just "enough flow to keep it alive."
+- **Air bubbles kill bait — aerate with circulated water flow, not bubbled
+  air.** Stated reasoning: bait-fish gills aren't built to process air
+  bubbles the way they process dissolved oxygen in water, so bubbles pulled
+  into the tank drown the bait rather than oxygenating it. The water itself
+  already carries the oxygen the bait needs; steady circular flow/turnover
+  is what keeps that oxygen available — not surface aeration bubbling air
+  through the column.
 
 ## Offshore bait budget — a floor, not a target
 
