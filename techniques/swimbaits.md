@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -391,6 +391,17 @@ confidence.
   lure, is stated to **shut the fish off fast**. Jack's stated fix: carry a
   bar of soap or a squirt bottle and **wash hands before starting to fish**,
   every time.
+- **A stated change of practice, corroborating the confidence-tool framing
+  above (Jeremy — first name only, as addressed in the transcript's Q&A;
+  Sav-On Tackle/IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06;
+  unregistered channel — medium confidence):** after previously not
+  prioritizing scent, he now scents baits as a standard part of his game
+  plan, crediting the change (without claiming to know the mechanism — "I
+  can't tell you what's in it, works, I can't tell you why it works") with
+  his personal-best calico bass. He favors a garlic-scented spray for soft
+  plastics specifically; the exact product names in this seminar are too
+  garbled in the auto-captions to transcribe reliably and are omitted here
+  (`asr-uncertain`).
 
 ## Double swimbait rig (Nick, California Current)
 
@@ -479,6 +490,36 @@ following setup:
   (rod tip lifted then dropped) sinks it back down on an angle — as one of
   several ways to change the strike trigger. Said the rig **also works pitched
   to docks/pilings on a long cast** (not a flip), not just over open eelgrass.
+
+## Targeting a boiler bite — pick the committed fish, read the clarity edge (Jeremy, Sav-On Tackle/IROD seminar)
+
+Jeremy — first name only, as addressed in the transcript's Q&A; Sav-On Tackle/
+IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel,
+single-camera seminar with speakers not diarized — medium confidence. For
+open-water/less-kelp "boiler" calico — fish surfacing/busting on bait rather
+than holding tight to structure — see the router row in
+[calico bass](../species/calico-bass.md#situations--techniques):
+
+- **Target selection over persuasion:** "I'm looking for the fish that is
+  locked, loaded, and ready to go" — he casts to a visibly committed,
+  aggressive fish rather than working a piece of water trying to convince a
+  neutral one to bite. Framed as his main read for this specific bite style.
+- **Read the water-clarity edge:** for a boiler bite he looks for **less
+  kelp, more open water** and **crystal-clear water**, over the more typical
+  stained/seafoam-green water nearby — the clarity line itself is where he
+  commits the cast, since the bait "gets lost" and fish spook in the
+  cloudier water beside it.
+- **Bait: a Lucky Craft 119** (named on camera — a minnow-profile hard
+  swimbait; the model number is not independently confirmed beyond the
+  on-camera name) paired with a **5–9 in soft-plastic trailer**. Profile
+  preference, in order: **baitfish/anchovy first** ("bread and butter"),
+  then **crab/crustacean-style**, then a **shiny/flash** pick as a
+  change-up, plus scent (see [scent](#scent-corey-sandon-mc-swimbaits-and-keeping-your-hands-scent-neutral-jack)
+  above).
+- **Seasonal aggression:** in warmer water — he names **July and August** —
+  fish's metabolism runs faster and they want to eat more and bigger, and
+  get more aggressive; his stated takeaway is "don't be scared to fish fast"
+  and to size baits up during that stretch.
 
 ## Gear class
 

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -171,6 +171,41 @@ reconciled.
   (named as the single biggest failure anglers make with this bait). See
   [foamer casting](../techniques/foamer-casting.md) for the general
   run-and-gun approach this fits into.
+
+## Secondary-action swimbait mimicking non-baitfish forage (Jeremy, Sav-On Tackle/IROD seminar)
+
+Jeremy — first name only, as addressed in the transcript's Q&A; Sav-On
+Tackle/IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered
+channel, single-camera seminar with speakers not diarized — medium
+confidence. A Japanese freshwater-bass swimbait (captioned "bellows gill" /
+"belly gill" in the auto-generated transcript — model name not confidently
+resolved, `asr-uncertain`) fished weedless in grass, built with extra
+secondary tail action (kick and flutter) beyond a standard paddle/boot tail:
+
+- **Stated reasoning for reaching for it:** rather than reading as a fleeing
+  baitfish, the extra flutter is meant to mimic a **baby halibut or
+  "sand[dab]"** (captioned "sand out" in the auto-generated transcript —
+  species not confidently resolved, `asr-uncertain`) **darting up off the
+  bottom**, or a **crab/crustacean, clam, or scallop undulating across the
+  water** — forage profiles he says show up in spotted bay bass stomach
+  contents.
+- **Why step outside a straight paddle-tail profile:** framed as a
+  deliberate move to show pressured, previously-fished-over bass a profile
+  they haven't already seen — see the match-the-hatch-vs-novelty color
+  doctrine below for the same angler's parallel reasoning on color.
+
+## Match the hatch, but a genuinely new profile can out-trigger it (Jeremy, same source)
+
+Two stated, complementary rules from the same seminar (`lP6cg4eEU6s`,
+2020-03-06; medium confidence): **study the specific water you fish and
+match the hatch** — what actually lives there, not a generic pattern — is
+his baseline. But on **pressured, older fish that have already seen the
+standard stuff**, he deliberately reaches for something **novel** ("something
+they may have never seen before") to draw a look, reasoning that unfamiliar
+prey provokes investigation — "they don't have hands," so if a fish wants to
+find out what something is, it has to come check it out. Kept side by side
+with, not a replacement for, the confidence-color and
+brightness-matches-light doctrine already in this note.
 
 ## Bait-keeper collar design — why it matters (Robert Schneider, Phoenix Baits)
 

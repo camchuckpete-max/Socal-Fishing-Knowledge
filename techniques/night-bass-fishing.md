@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [night-fishing, color, calico-bass, sand-bass, spotted-bay-bass, crankbait, structure, moon]
-sources: [XyKF34C5iB4]
+sources: [XyKF34C5iB4, lP6cg4eEU6s]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast, island, bay-harbor]
@@ -63,6 +63,24 @@ individual speakers named where the transcript itself identifies them).
   mint — consistent with, not a contradiction of, the mint/brown-orange
   color data already logged in
   [surface iron — colour](surface-iron-color.md).
+
+## Vibration over flash after dark (Jeremy, Sav-On Tackle/IROD seminar)
+
+Jeremy — first name only, as addressed in the transcript's Q&A; Sav-On
+Tackle/IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered
+channel, single-camera seminar with speakers not diarized — medium
+confidence. Fishing spotted bay bass after dark, this angler doesn't
+prioritize flash/blade action the way he does in daylight:
+
+- **A subtle, tight tail vibration over a big paddle-tail thump** — he wants
+  a bait that's "almost like it's not even kicking, just barely," reasoning
+  that at night fish key more on **lateral-line feel** than sight, so a
+  quiet, consistent vibration reads better than visual flash.
+- **Flash earns its keep more in daylight as water warms** — he separately
+  notes blade/flash baits produce more **as the water warms and more bait
+  shows up in the bay**, i.e. daytime, warm-season fishing, rather than as a
+  year-round or night-specific pick. Consistent with, and a season/light
+  qualifier on, the silhouette-by-default color doctrine below.
 
 ## Booty spin — a night search bait built to be seen top to bottom
 
@@ -147,6 +165,7 @@ lit structure inside a harbor.
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

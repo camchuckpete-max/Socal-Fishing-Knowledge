@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [spotted-bay-bass, spotties, bays, harbors, eelgrass, tide, finesse]
-sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A, AH4Eiya1Hn0, XyKF34C5iB4]
+sources: [GVP3IChsmRQ, um5MAeCjNDg, YgqXf9iICyg, EGKesj7V64M, 6L8nIFeqvkw, G6YRT4HNxr8, 6-mi3Qxn37c, k4LCL9ALryA, Cobp85UvHmM, SImABCBBxAo, usHl-4SfqDA, SdwwpQMJEOI, 46ha7J1Fc6A, AH4Eiya1Hn0, XyKF34C5iB4, lP6cg4eEU6s]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor]
@@ -51,6 +51,28 @@ every structure spot when the tide turns.
   moving-water stretch on either side of that window rather than the peak
   itself (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence), consistent
   with the fully-tide-driven doctrine above.
+- **Why fish push shallow on the flood and pull off on the ebb — stated
+  reasoning (Jeremy — first name only, as addressed in the transcript's Q&A;
+  Sav-On Tackle/IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06;
+  unregistered channel, single-camera seminar with speakers not diarized —
+  medium confidence):** on a rising/high tide, spotties push up shallow to
+  reach ground they can't get to at low water and ambush from there, so he
+  works baits as shallow as the tide allows; on a falling/low tide they pull
+  off the flat onto adjacent drop-offs and structure, so that becomes the
+  read instead. A second, sun-avoidance reason given specifically for staying
+  shallow on a high, bright tide: bay bass "don't have eyelids," so they
+  favor shade and stay off open, sun-exposed flats both for comfort and to
+  stay out of a diving seal's sightline. Adds the underlying reasoning to,
+  rather than replacing, the up-current/structure-edge doctrine already
+  logged above.
+- **Observed** (Jeremy, same source, `lP6cg4eEU6s`, 2020-03-06; unregistered
+  channel — medium confidence): his personal-best bay-bass bites have come at
+  **slack low tide, around noon with the sun high** — running a crankbait
+  shallow as the water sat still, working stretches most anglers would read
+  as inactive. He frames it explicitly as a **reaction bite**, not a
+  feeding-window bite. Kept side by side with, not a replacement for, the
+  fully-tide-driven / moving-water-window doctrine above — a contrasting
+  personal pattern, not a competing rule.
 - **Observed** (StokedOnFishing, 2019-05-04, Mission Bay): presenter called a
   **4–5 ft tidal swing** the target range — a low of **0.21 ft at 06:41**
   building to a **3.7 ft high at noon** was called "an excellent tide." He
@@ -239,6 +261,47 @@ structure it's sitting on** rather than around casting distance or bait feel:
   crankbait, calling the deeper eelgrass there "dynamite on the really really
   big spotted bay bass" — a deeper variant beside, not a replacement for, the
   8–10 ft crank class already logged in the situations table below.
+
+## Targeting philosophy — let them come off the structure before you set (Jeremy, Sav-On Tackle/IROD seminar)
+
+Jeremy — first name only, as addressed in the transcript's Q&A; Sav-On Tackle/
+IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel,
+single-camera seminar with speakers not diarized — medium confidence. A
+stated reason for *where relative to cover* he wants a fish committed before
+the hookset — distinct from the fight-once-hooked doctrine in the
+structure-fishing section above, which is about technique after the hook is
+already set:
+
+- Hooking a bass **right in its home cover** — deep in the structure it's
+  holding in — gives it almost no distance to be pulled before it's back in
+  the snag: "you're not going to stand a good chance against that." He'd
+  rather trigger the bite so the fish **comes out** of the structure to eat
+  before he sets, reasoning that a fish hooked in open water next to its
+  cover, rather than inside it, is one he actually stands a chance of
+  landing.
+
+## Bottom-contact craw/creature bait on a jig (Jeremy, Sav-On Tackle/IROD seminar)
+
+Jeremy, same source, `lP6cg4eEU6s`, 2020-03-06; unregistered channel — medium
+confidence. Bait brand rendered "war bait" in the transcript's auto-captions —
+not confidently resolved to a specific model or matched to the [War Baits HD
+spinnerbait](../techniques/spinnerbaits.md) already documented for this
+fishery, `asr-uncertain`. A craw/creature-profile soft plastic threaded onto a
+jighead (trailer swapped by conditions), fished **on the jig or straight
+swimming**, cast out and let sink fully to bottom first:
+
+- **Slow grind along the bottom, feeling for it with your fingers** — read
+  bottom composition (soft/mucky, grass, or hard structure) off the line and
+  rod tip over time rather than from a single cast.
+- **Stop periodically to check how far you've come off bottom** — a bait can
+  drift up off bottom without the angler noticing, especially fishing from
+  shore; a deliberate pause to feel back down keeps the bait in the strike
+  zone, consistent with spotties holding tight to bottom (more so in colder
+  months).
+- **Vary the fall rate deliberately** — stated reasoning: rate of fall is a
+  significant factor in the bite, particularly imitating a crab or
+  crustacean darting to bottom and popping back up, so he varies the speed
+  rather than fishing one constant grind.
 
 ## Seasonal lure switch — swimbait slow in winter, crankbait fast in summer (Garrett, Owner Hooks)
 

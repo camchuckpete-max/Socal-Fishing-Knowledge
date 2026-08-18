@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -47,6 +47,29 @@ situation calls for it lives in the routers:
   (GVP3IChsmRQ).
 - **Salt runs a crank shallower than rated:** a "16 ft" crank runs **~13–14 ft**
   in salt water.
+- **Why, and a deeper-rated starting point (Jeremy — first name only, as
+  addressed in the transcript's Q&A; Sav-On Tackle/IROD seminar, Fisher Newb,
+  `lP6cg4eEU6s`, 2020-03-06; unregistered channel, single-camera seminar with
+  speakers not diarized — medium confidence):** stated mechanism behind the
+  rated-vs-actual gap above — most crankbaits are box-rated on a freshwater
+  dive curve, and saltwater's added buoyancy plus the heavier leader SoCal
+  bass fishing calls for both cut into the bait's real working depth. His
+  rule of thumb: pick a bait rated **deeper** than your actual target depth
+  rather than matching the rating to it — he starts around a **17 ft-rated**
+  diver as a baseline for this program and adjusts from there. Also fishing
+  a bait over grass specifically: keep it running well above the canopy or
+  it fouls every cast (use rod-tip height, above, rather than downsizing the
+  rating).
+- **Burn it — a deliberate reaction-trigger philosophy (same source):**
+  stated reasoning for winding as fast as physically possible rather than a
+  moderate retrieve — no angler's hand-speed can out-turn the lure, "these
+  things are lightning fast," so an angler is "never going to be able to
+  turn it fast enough" regardless of effort. Framed as more likely to
+  trigger a reaction strike than picking the water apart slowly.
+  Sits alongside, not a replacement for, the cadence-change/total-pause
+  doctrine above — a fast, sustained grind is his pick specifically when the
+  goal is covering water and drawing a reaction bite rather than working a
+  known holding spot.
 - **Control depth with rod-tip height** — tip up a foot to ride over grass, tip
   down to dig; the rod is the depth trim, not the retrieve.
 - **Sweep, don't swing** — on the bite, sweep the rod and keep winding; a

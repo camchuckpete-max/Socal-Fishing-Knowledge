@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s]
 confidence: medium
 ---
 
@@ -497,6 +497,18 @@ Three classic sizes cover inshore:
 
 Buy **saltwater-series** reels over freshwater models — they cost more but outlast
 them by a long shot.
+
+**Rod-design corroboration, promotional source (Sav-On Tackle/IROD seminar,
+Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel, product
+seminar — confidence: low, product-specific):** a boutique SoCal rod builder
+(IROD) described designing a bass rod lineup around the same 200-vs-300/400
+size-reel logic above — a **7'9" "mag" rod**, alongside a **7'3" medium-heavy**
+and a **7'6" power-heavy, moderate-action** rod in the same series, built
+specifically so an angler fishing calico bass at the islands and deep-kelp/
+harbor spotted bay bass could run a **200-size reel with a bigger swimbait**
+instead of stepping up to a 300 or 400. Logged here only as a
+model-specific corroboration of the class-level reasoning above, not as an
+endorsement of the brand.
 
 ## Inshore / shoreline all-in-one combo (8tTVMOV2arE)
 
