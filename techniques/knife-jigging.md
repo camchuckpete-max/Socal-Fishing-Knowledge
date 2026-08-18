@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -33,6 +33,30 @@ in **Linked from**.
   there for yellowtail and for snowy grouper on deep structure (Cesar, via
   Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single
   mention — `medium` confidence).
+- **Sportboat tackle is capped by the rail, not just the fish (George,
+  Pacific Coast Sportfishing Show 2024 "Jigging 101" panel, `Et2TUskzCSs`,
+  uploaded 2024-03-16; unregistered channel/panel — medium confidence):**
+  roughly 70% of SoCal anglers fish crowded sportboats, ~30% private/4-pack/
+  6-pack boats, and the social constraint of a crowded rail is itself a
+  reason to reach for heavier gear here. Fishing lighter tackle than the guy
+  next to you on a full rail gets you tangled when his fish crosses yours, so
+  on a sportboat you're effectively limited to whatever the boat around you
+  is running, even though lighter tackle would likely draw more bites. On a
+  private/4-pack/6-pack boat that constraint is gone — scale down, especially
+  for the more gear-shy daytime bite (thinner line, smaller jigs; night bite
+  is more forgiving of heavier gear across the board — see day/night below).
+- **Bite timing flips day vs. night — a reason to scale tackle by daypart
+  (George, same panel, `Et2TUskzCSs`; medium confidence):** at night, roughly
+  **70% of bluefin bites come on the fall**, mirroring
+  [slow-pitch](slow-pitch-jigging.md)'s fall-triggered bite even on a
+  speed-style jig worked mechanically — "when that jig stops, it's game on."
+  During the day that ratio **flips**, with most bites coming on the rise —
+  the reaction-bite mechanism this note is built around. The stated
+  implication: night tackle can run heavier/thicker across the board because
+  the fish are less leader-shy in the dark; daytime jigging calls for scaling
+  the whole system down — thinner line, smaller jigs, more refined
+  presentation — to keep getting bit once the fish can actually see the
+  gear.
 
 ## Mechanics
 
@@ -81,6 +105,20 @@ in **Linked from**.
   sizing:** start around **150 g** and work up to about **350 g**; anything
   heavier than 350 g becomes a lot of work for the angler for little added
   benefit.
+- **Species and daytime-warmth as a speed variable, corroborating and
+  extending the pace-up-not-down rule above (George, PCS Show 2024 "Jigging
+  101" panel, `Et2TUskzCSs`, uploaded 2024-03-16; unregistered channel/panel
+  — medium confidence):** pelagic species that never stop swimming — tuna,
+  dorado, wahoo — generally want the jig moved **faster**, matching this
+  note's reaction-bite framing. But daytime warmth can override that by
+  species state, not just species identity: as water temperature rises
+  through the day, fish reported as going comparatively dormant and sitting
+  lower in the column can call for **slowing down** instead — "as slow as
+  you want, don't stop, but as slow as you want" — a pattern the source also
+  ties to Gulf of Mexico yellowfin (out-of-region example, general mechanism
+  only). Read the two together as: default to speed for pelagics, but if the
+  working pace isn't drawing bites in warm daytime water, try slowing down
+  before assuming the fish aren't there.
 - **Slack it, don't tightline it, on the drop.** Whip the rod tip up quickly, then
   **slack the line down quickly** rather than holding it tight — a tight line on
   the drop puts resistance on the jig's nose and kills the action (it can't
@@ -100,6 +138,24 @@ in **Linked from**.
   single right number:** Ray marks every **50 ft**; commercially pre-marked braid
   can come marked every **25 ft** (Ul5FLB2dFgQ; Ray Sharifi is not a registered
   voice — medium confidence). Pick an interval and know it cold.
+- **Thumb tension on the drop keeps the jig vertical (James Kikkawa, PCS Show
+  2024 "Jigging 101" panel, `Et2TUskzCSs`; medium confidence):** counterintuitive
+  but effective — keep a little tension on the spool with your thumb as the
+  jig falls, whether speed or slow-pitch jigging. That light drag keeps the
+  jig in a vertical position in the water instead of swinging/scoping,
+  helping it shoot down to the strike zone faster and straighter than a free
+  fall. **First drop calibrates the rest of the drift:** without a stated
+  drift speed (common on a crowded party/headboat where the captain doesn't
+  call current), let the first drop tell you — if you know roughly how a
+  given jig should perform at a given depth and it starts to scope out
+  instead, that's the signal to go narrower/longer (cuts water, sinks
+  faster) or heavier, the same shape/weight-by-current logic already logged
+  above and in [knife jigs](../lures/knife-jigs.md).
+- **Work the column at the called depth, not past it:** with metered line and
+  a captain's call of, e.g., "marking 200 ft under the boat," go down to
+  roughly **220 ft** and work the jig through that column rather than working
+  100 ft above or below where the fish actually are — efficiency, not
+  coverage, is the goal once the fish are pinpointed (same source).
 - **Ears for the skipper, tracked continuously.** "Eyes in your mind, ears for the
   skipper" — the captain's called depth **changes fast** (e.g. "fish at 200 ft,"
   then "fish at 300 ft" two minutes later); update where you think your jig is off
@@ -161,6 +217,54 @@ in **Linked from**.
   entirely (a witnessed loss of "five jigging outfits" to that advice on one
   trip). The lighter 19–20 lb strike setting is the deliberately conservative
   documented number here.
+
+## Fighting — leader material and the circle-tightening technique
+
+Fight technique for jig-hooked bluefin specifically (as distinct from the
+boat-driven landing method for trolled/kited/flylined bluefin in
+[fighting a big bluefin](fighting-big-bluefin.md)) — attributed to the PCS
+Show 2024 "Jigging 101" panel (`Et2TUskzCSs`, uploaded 2024-03-16;
+unregistered channel/panel — medium confidence). A stated, attributed
+mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
+
+- **Mono top shot for stretch, this panel's speed-jig doctrine (James
+  Kikkawa):** for speed-jigging bluefin, run a **20–25 ft mono top shot** to
+  the braid rather than fluoro. The reasoning is mechanical: bites come very
+  suddenly on a jig 200–500 ft down — you rarely get to watch how the fish
+  eats it the way you would sight-fishing — so the stretch in mono absorbs
+  that sudden shock rather than transmitting it straight to the hook,
+  **reducing hook-pulls and raising the hook-to-land ratio.** That
+  stretch also matters in the fight's end game — see the technique below.
+- **Fluoro leader instead, an attributed counter-preference (George, same
+  panel; his own experience is Spain-based bluefin, not SoCal, framed
+  explicitly as personal opinion rather than a correction of the mono
+  doctrine above):** fluoro trades away some of that shock absorption but
+  gains **abrasion resistance** — relevant because some tuna swallow the jig
+  down the throat, especially at night, putting the leader against teeth.
+  His stated fighting style compensates for fluoro's lack of give with a
+  **progressive drag increase** instead of stretch: start light (7–10 lb),
+  then ratchet the drag up progressively as the fight goes on, on the
+  reasoning that a fish that's already run hard and tired itself in the
+  first ~10 minutes is easier to finish without over-stressing gear early —
+  not wanting to "make that fish angry" with heavy pressure from the start.
+- **Rod-tip-at-the-face and "cutting off the circles" (James Kikkawa, same
+  panel):** for roughly 90% of the fight, keep the **rod tip pointed at the
+  fish's face** rather than lifting and pumping — this is the same
+  point-and-winch doctrine already logged in
+  [slow-pitch jigging](slow-pitch-jigging.md#mechanics--the-pitch-and-the-fall)
+  and [fighting a big bluefin](fighting-big-bluefin.md), restated here for
+  jig-caught fish specifically. In the end game, once the fish is
+  circling under the boat, **cut off its circles**: as the fish swims one
+  direction, pull the rod the opposite way to keep the circle **tight**
+  rather than letting the fish fully extend its body — a fish that gets to
+  fully extend gets "a deep breath" and prolongs the fight. This is the same
+  mechanism as the "avoid the death circle" doctrine in
+  [fighting a big bluefin](fighting-big-bluefin.md#walk-it-down-swell-avoid-the-death-circle),
+  worked from the rod/angler side on lighter jig tackle rather than from
+  boat-driving. Mono's stretch (James's build above) is framed as
+  specifically helping through this stage — absorbing the fish's short,
+  hard head-shakes as it's cut off in tight circles, rather than every one
+  of those shakes loading straight onto the hook.
 
 ## Gear-class detail
 
@@ -242,6 +346,26 @@ in **Linked from**.
     (hooks-must-not-cross rule; speed-jig assists run shorter than slow-pitch
     assists) is in [knife jigs](../lures/knife-jigs.md). Not reconciled with
     the single-bottom-pair doctrine above — both are fished in the fleet.
+- **Ring vs. swivel at the jig — chosen by how much flutter the jig already
+  has (James Kikkawa, PCS Show 2024 "Jigging 101" panel, `Et2TUskzCSs`,
+  uploaded 2024-03-16; unregistered channel/panel — medium confidence):**
+  a third axis for this same choice, alongside the mechanical-connection
+  reasoning already logged in [assist hooks](../rigging/assist-hooks.md)'s
+  "connecting to the jig — solid ring vs swivel" section.
+  For their own longer bluefin jigs, day or night, this panel ties main line
+  to a **welded or solid ring**, split-ringed to the jig, specifically
+  *not* a ball-bearing swivel — because a swivel **accentuates the jig's
+  flutter**, and on their jig design that extra flutter makes it *less*
+  attractive to bluefin, not more. **The exception is jig-dependent:** a jig
+  built to flutter heavily benefits from the swivel instead — the added
+  flutter is the point on that jig, so the panel's own solid-ring preference
+  isn't a blanket rule, it's matched to how much action the specific jig
+  already has built in. **A second, independent reason for the solid ring on
+  a speed jig (Benny Ortiz, same panel):** ripping a jig up through the
+  column, a solid ring lends the jig to **stay in plane** as it rises — see
+  [slow-pitch jigging](slow-pitch-jigging.md#gear-class-detail) for this same
+  source's contrasting ball-bearing-swivel case for slow-pitch, where a
+  spinning fish's rotation, not the jig's flutter, is the deciding factor.
 - **Leader-to-jig connection — two attributed schools, kept side by side:**
   - **Crimp school (nRFFM8DT-og):** finish with a **~2 ft bite leader of 200 lb**
     fluoro/mono **crimped directly to the jig** so a big fish can't bite you off
@@ -324,6 +448,7 @@ in **Linked from**.
 
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Flyline](flyline.md)

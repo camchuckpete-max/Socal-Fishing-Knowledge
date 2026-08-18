@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -55,6 +55,18 @@ Execution only; species and situations are the reverse map in **Linked from**.
 - Load the rod off that fulcrum and let it unload — the tip **flicks the jig up**,
   then you feed slack and **watch/feel the fall.** Most bites come as a bump on
   the drop; wind tight into them, don't swing.
+- **Counting handle turns to position the jig (Benny Ortiz, Pacific Coast
+  Sportfishing Show 2024 "Jigging 101" panel, `Et2TUskzCSs`, uploaded
+  2024-03-16; unregistered channel/panel — medium confidence):** one full
+  handle turn moves roughly **3 ft** of line and equals **one "pitch."**
+  Hit bottom, then count turns to work the jig up to where fish are marked —
+  e.g. fish called 12 ft up: wind three turns, then start pitching, and
+  you're working right in front of their faces rather than guessing. **Rod
+  position changes the moment a fish is hooked:** the rod moves from under
+  the forearm (the jigging fulcrum) to under the armpit, pointed at the fish,
+  and from there you crank using the reel as a winch — the same fight-off-the-reel
+  doctrine already logged below, restated by the same source as a physical
+  rod-position switch, not just a mindset change.
 - **Cadence scales with current (Benny Ortiz, CustomRodandReel seminar,
   -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based instruction, general SPJ
   mechanics, not species-specific — unregistered channel, medium
@@ -158,6 +170,20 @@ Execution only; species and situations are the reverse map in **Linked from**.
 
 - **Rod:** dedicated SPJ blank — thin, very high carbon, extremely parabolic tip,
   ~6.5–7 ft, exposed rear grip. See [gear classes](../tackle/gear-classes.md).
+  - **Rated by max jig weight, a three-rod series (Benny Ortiz, PCS Show 2024
+    panel, `Et2TUskzCSs`; medium confidence):** the panel's own SPJ line runs
+    three max-jig ratings — **330 g**, **400 g**, and **500 g** — picked by
+    the jigs you plan to fish, not by target fish size ("I'm picking a rod
+    based on the jigs that I'm fishing, not the fish that I'm fighting").
+    Sits alongside this note's existing 250/350/450 g-class recommendation
+    above as a second attributed rod-series data point, not a replacement for
+    it — different manufacturers, same jig-weight-first selection logic.
+    Nearly all dedicated SPJ rods are built as **conventional**, not
+    spinning, because gaining line by lifting and pumping on this blank
+    twists it toward failure ("turn them into a two-piece rod pretty
+    quickly") — point at the fish and crank instead. Higher-end blanks add
+    internal reinforcement (branded on camera as "High Power X") specifically
+    to resist that twisting/torquing failure mode under fight load.
 - **Line — thin braid is the whole point.** No stretch for action, and thin
   diameter so the jig **falls straight down**; even a jump from ~20 lb to 30/40/50
   lb braid adds scope and blows the jig sideways. Deeper water → thinner braid.
@@ -189,6 +215,21 @@ Execution only; species and situations are the reverse map in **Linked from**.
   a jig-system connection choice, not a step-by-step tying procedure — see
   [essential knots](../rigging/essential-knots.md) for this note's
   documented tying detail.
+- **Ball-bearing swivel for slow-pitch, a separate rotation-during-the-fight
+  rationale (Benny Ortiz, PCS Show 2024 panel, `Et2TUskzCSs`; medium
+  confidence):** on bottom fish worked up off structure (grouper, rockfish),
+  the fish's mouth is often open and spinning on the way up — a **ball-bearing
+  swivel** as the terminal connection lets the fish **spin freely without
+  twisting the main line**, where a solid ring doesn't. The failure mode this
+  avoids shows up later, not immediately: line twist built up on the retrieve
+  turns into a **wind knot the next time you cast** that outfit. Framed
+  specifically for slow-pitch, where 90% of bites come on the fall and the
+  swivel still lets the jig fall freely — contrast with
+  [speed jigging](knife-jigging.md#gear-class-detail), where the same source
+  prefers a **solid ring** instead so the jig stays in-plane on the rip up
+  through the column, and see that note's leader-to-jig section for a second,
+  flutter-based reason (not this rotation one) to choose a ring over a swivel
+  on a speed jig.
 - **Jig:** [knife/slow-pitch jig class](../lures/knife-jigs.md). US waters cap you
   at **two hooks** — single assist on the nose, single on the tail (an assist
   *pair* on the front already puts you over the limit). A **6 in Gulp curly-tail
@@ -204,6 +245,23 @@ Execution only; species and situations are the reverse map in **Linked from**.
     **never cross** — a crossed/locked pair fouls the jig and causes fight
     problems; this is the same don't-cross rule already logged for
     [speed-jig assists](../lures/knife-jigs.md).
+  - **A second axis for the same top+bottom pairing — choosing twin vs.
+    single by target fish size (attributed to the panel, PCS Show 2024
+    "Jigging 101," `Et2TUskzCSs`; medium confidence):** two primary setups,
+    both top-and-bottom, for slow-pitch bluefin gear. **Twin hooks** (a pair
+    on each end) run a **smaller gauge/shorter hook**, because no single
+    point takes the full brunt of the fight — sharing the load across four
+    points lets a lighter-gauge hook land a bigger fish than the same-gauge
+    single would. **Singles top and bottom, larger gauge**, is the pick when
+    specifically targeting bigger fish — a single large hook more often gets
+    **buried deep in the mouth**, where the smaller twin hooks tend to catch
+    more superficially in the face/cheek area. **Why top and bottom at all:**
+    fish strike a jig **head-first**, and because the jig can slide either
+    direction as it works, the strike can come from either end — one hook on
+    each end covers both orientations rather than betting on one. Not
+    reconciled with the on-bottom/suspended axis above — these are two
+    different, non-conflicting reasons to run the same top+bottom pattern
+    (or to size the hooks on it), and both can apply at once.
 - **Baja, Sea of Cortez gear-class reference (same source, single mention —
   `medium` confidence; region: Baja):** a
   typical slow-pitch rod there is **5.5–6 ft**, rated **100–300 g** (most
@@ -269,10 +327,12 @@ terms until it lands.
 ## Linked from
 
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

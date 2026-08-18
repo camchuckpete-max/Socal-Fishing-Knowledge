@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, YrvQZojc1q0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs]
 confidence: medium
 ---
 
@@ -55,6 +55,50 @@ Braid is the main line on essentially every SoCal setup. Choosing the class
   100 lb for the same reason it scopes less — less diameter, less drag (Cameron;
   see [gear classes](gear-classes.md) line-class notes). Reach for the thinner
   class when you need a bait or jig down quickly.
+
+### Actual diameter over label — three different "20 lb" numbers (James Kikkawa, PCS Show 2024 "Jigging 101" panel, `Et2TUskzCSs`, uploaded 2024-03-16; unregistered channel/panel — medium confidence)
+
+For jigging specifically, where keeping the line vertical in the water is the
+whole game (see the downsize/scope logic above), the source argues **don't
+trust the number on the spool** — there are three different, non-equivalent
+ways a line gets called "20 lb," and only one of them tells you what you
+actually want to know:
+
+- **PE rating** (PE1, PE2, PE3...) is a diameter-class standard, roughly
+  equivalent to 10 lb / 20 lb / 30 lb steps — a sizing convention, not a
+  breaking-strength claim.
+- **IGFA-class line** is rated to break **at or near its stated number** — a
+  12 lb IGFA-class line breaks around 12 lb, by design, for record-keeping
+  purposes.
+- **What a manufacturer prints on the spool** is often neither — a line
+  sold as "20 lb" braid tested in a **straight pull typically broke in the
+  36–41 lb range** across multiple brands he's tested. Braid's real-world
+  failure mode is **abrasion, not straight-pull breaking** anyway — if the
+  braid is in rocks or structure, "you've already lost the fight" regardless
+  of the printed number, so straight-pull strength is the wrong thing to
+  worry about; **diameter for scope/current resistance** is the right thing.
+- **Verifying actual diameter — a testing methodology, not a SoCal-specific
+  claim:** because printed diameters are unreliable across brands, the
+  source references work by an Australian line-testing lab that measures
+  actual line diameter under a **microscopic camera** rather than trusting
+  labels — framed as the only way to really know "who is saying the truth or
+  not" between competing braid brands.
+- **Why this matters for jigging specifically:** picture the length of line
+  in the water as a long strip of fabric — a **50 lb braid is roughly 2.5×
+  the diameter of 20 lb**, presenting proportionally more surface area to
+  current and boat drift, so it **scopes out** (pulls off-vertical) far more
+  than the thinner line for the same conditions. This is the mechanism
+  behind this note's existing thinner-braid-scopes-less doctrine above,
+  restated with the diameter-over-label framing. **Reel-fill implication:**
+  keep the reel spooled as full as possible for consistent inches-per-crank,
+  and remember **effective drag climbs the deeper into the spool you go** —
+  a drag set correctly at the surface reads tighter once you're fishing deep
+  into the spool, so the deeper you're fishing, the lighter your strike-drag
+  setting should be. This corroborates, from a second source, the
+  spool-diameter drag trap already logged in the "drag setting" section of
+  [rod & reel selection](rod-and-reel-selection.md) (Steve Carson, Penn) and
+  in [slow-pitch jigging](../techniques/slow-pitch-jigging.md#fighting--landing-light-tackle)
+  (Benny Ortiz).
 
 ### Braid construction — hollow vs solid, smooth vs rough
 

@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego]
-sources: [9JnIS8HkZlA]
+tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig]
+sources: [9JnIS8HkZlA, Et2TUskzCSs]
 confidence: medium
 ---
 
@@ -132,6 +132,45 @@ which is where the source's "five setups" framing comes from.
   circle hook on this style of lure, so bite-through risk sits on whatever
   line is closest to the hook).
 
+## Rig ladder for jigging — PE-rated rod classes (Brian, Pacific Coast Sportfishing Show 2024 jigging panel)
+
+A separate, jigging-specific line-class ladder, distinct from the live-bait/
+troll rigs above — panelist Brian (surname not confidently resolved from
+captions — asr-uncertain), Pacific Coast Sportfishing Show 2024 "Jigging 101"
+seminar panel alongside James Kikkawa, George, and Benny Ortiz (`Et2TUskzCSs`,
+uploaded 2024-03-16; unregistered channel/panel — medium confidence). His
+stated goal was making PE ratings "easily understandable to the West Coast
+angler" by tying each class to the jig weight it **activates** (his term —
+i.e., the jig weight that actually loads and works the blank) and to the
+fighting-drag range the panel runs on bluefin at that class, rather than just
+naming a line-test number.
+
+- **PE 6–10:** activates **250–500 g** jigs. Fighting drag runs **~25 lb** as
+  the comfortable starting point; some anglers push to **40 lb**, and a few
+  claim **45 lb**, but the source is "not willing to test that theory just
+  quite yet."
+- **PE 4–8:** activates **150–350 g** jigs. Fighting drag **~20 lb up to
+  30 lb**, "sometimes 35," but **30 lb** is the realistic ceiling.
+- **PE 3–6** (the lightest class): activates **100–250 g** jigs. Fighting
+  drag **~15 lb**, max around **25 lb**.
+
+**Spiral-wrapped ("acid-wrap") guides**, standard on these blanks (James,
+same panel): the guide train spirals to face progressively downward,
+transitioning the rod into something closer to a spinning-rod guide layout
+by the tip section. Two stated benefits — less side-to-side twisting play
+under heavy load than a conventional guide train, and the geometry stops the
+line from **grabbing the rod tip** during the jigging motion (the same
+tip-wrap failure mode already logged as the reason for spiral/acid wraps in
+[knife jigging](../techniques/knife-jigging.md#gear-class-detail)). The
+trade-off: the transition zone is unforgiving of a poorly timed cadence — if
+slack line jumps up and wraps a guide right as a big bluefin comes tight on
+25 lb of drag, it can take guides off the blank with it.
+
+Cross-reference: [knife / speed jigging](../techniques/knife-jigging.md) and
+[slow-pitch jigging](../techniques/slow-pitch-jigging.md) own the mechanics
+these classes are fished with; [gear classes](gear-classes.md) is the
+class-term lexicon this ladder feeds.
+
 ## Drag — weakest-link setting, and a scope-shift trap
 
 - **Setting method:** starting from the reel's **free-spool** position (drag
@@ -170,6 +209,9 @@ which is where the source's "five setups" framing comes from.
 - [Two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md) — the
   fighting technique Rigs 2 and 3 depend on.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
+- [Knife / speed jigging](../techniques/knife-jigging.md) and
+  [slow-pitch jigging](../techniques/slow-pitch-jigging.md) — the mechanics
+  the PE-rated jigging ladder above is fished with.
 
 <!-- backlinks:start -->
 ## Linked from
