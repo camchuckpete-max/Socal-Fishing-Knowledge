@@ -2049,7 +2049,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 6wbO7qaU3sI | SearcherSportfishing | tutorial | deep | done | rigging/bite-leaders.md / corroborating flat-fall-jig bite-leader build (swivel + heavy-duty Owner split ring, crimp mechanic) added as an attributed sub-bullet under existing bluefin bite-leader doctrine |
 | 7Ljt-DeFVcs | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / added Penn Torque 40 / Phoenix Black Diamond Hybrid yo-yo reel-and-rod spec as concrete detail behind existing retrieve-speed doctrine in Gear-class detail |
 | 7T6dIYqr3KI | SearcherSportfishing | tutorial | deep | done | species/sand-bass.md; species/calico-bass.md; techniques/slow-pitch-jigging.md / SPJ named effective for sand bass/sculpin (species-level, no conditions) plus a two-outfit gear example and a calico-bass personal-record catch |
-| 7TPJsMc_clA | SearcherSportfishing | tutorial | deep | pending |  |
+| 7TPJsMc_clA | SearcherSportfishing | tutorial | deep | done | rigging/tony-pena-knot.md; rigging/essential-knots.md / new tackle-bench mono-to-spectra splice note spun out from the uni-to-uni entry, one step-order fix applied |
 | 7iSGGb9ueAk | SearcherSportfishing | tutorial | deep | pending |  |
 | 7ivBSL-mhW8 | SearcherSportfishing | tutorial | deep | pending |  |
 | 83HROAgGW6Q | SearcherSportfishing | tutorial | deep | pending |  |

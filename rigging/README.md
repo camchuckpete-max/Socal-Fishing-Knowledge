@@ -17,6 +17,7 @@
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
+- [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md) **[SoCal only]** — A heavy-wrap connection knot for splicing monofilament to spectra (braid), demonstrated by Capt.
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
 - [Tuna Feather Rig](tuna-feather-rig.md) **[SoCal only]** — Rigging a tuna feather — a West Coast trolling staple.
 - [Wind-On Leader](wind-on-leader.md) **[SoCal only]** — A wind-on leader is a fluorocarbon (or mono) top shot joined to hollow-core braid without a knot: the leader is threaded *inside* the hollow braid so the braid'
@@ -42,21 +43,24 @@ graph LR
   n10["Rubber-Band Deep Rig"]
   n11["San Diego Jam — Single vs. Double, and When to Use Each"]
   n12["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n13["Trap Rig"]
-  n14["Tuna Feather Rig"]
-  n15["Wind-On Leader"]
-  n16["Wiring a Surface Iron"]
+  n13["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n14["Trap Rig"]
+  n15["Tuna Feather Rig"]
+  n16["Wind-On Leader"]
+  n17["Wiring a Surface Iron"]
   n1 --> n2
   n10 --> n4
   n11 --> n4
   n12 --> n4
-  n16 --> n7
+  n13 --> n4
+  n17 --> n7
   n2 --> n1
   n2 --> n7
   n4 --> n10
   n4 --> n11
   n4 --> n12
-  n4 --> n15
-  n8 --> n15
+  n4 --> n13
+  n4 --> n16
+  n8 --> n16
 ```
 <!-- mermaid:end -->

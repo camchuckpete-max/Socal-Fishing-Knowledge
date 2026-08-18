@@ -30,7 +30,10 @@ fluoro leader, braid main line — and feed the terminal rigs in
   line.
 - **Uni-to-uni (connection)** — the repair knot: splice new braid (or fluoro)
   onto the spool after a break-off costs you 150 yards, or join braid to fluoro
-  in a pinch, without re-spooling.
+  in a pinch, without re-spooling. A heavier-wrap, tackle-bench variant of the
+  same uni-knot family — splicing mono to spectra on 80 lb class with a much
+  higher wrap count and a dedicated cinching tool — is kept as its own note:
+  [Tony Pena Knot](tony-pena-knot.md).
 - **Seaguar knot (connection)** — purpose-built to join **monofilament to
   fluorocarbon** (not braid to fluoro — that's the RP knot's job above). The
   go-to for building a mono-main-line-to-fluoro-bite-guard [flyline](../techniques/flyline.md)
@@ -538,5 +541,6 @@ and [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/wat
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->
