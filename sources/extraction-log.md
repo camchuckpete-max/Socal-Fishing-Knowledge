@@ -2042,7 +2042,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5g7pK63hYnc | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md: added SearcherSportfishing surgeon's-knot mono-to-fluoro entry (36-40in/60lb/12in-tag/3-turn) with flyline-to-tuna application, corrected turn-count conflict framing vs Carson entry |
 | 5pbA-wXoric | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md: added Steve Carson's Fred Hall Show hookset instruction (don't set hook, keep cranking) and line-class reasoning to mechanics |
 | 5ppQob4N3Xw | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md: added on-the-water tackle-box field-repair section (reel-seat shim, tip-glue repair, DIY braid line-puller, dental picks, oil, UV flashlight, rail cable/S-hook) plus hook-file bullet, Norm Fujimoto/SearcherSportfishing, medium confidence |
-| 6D_mf5gOfrM | SearcherSportfishing | tutorial | deep | pending |  |
+| 6D_mf5gOfrM | SearcherSportfishing | tutorial | deep | done | none: nothing extractable, pure Fred Hall Show Accurate-reel booth promo/giveaway announcement, no fishing knowledge content |
 | 6T3xZ9vufrM | SearcherSportfishing | tutorial | deep | pending |  |
 | 6_E5JCRvazc | SearcherSportfishing | tutorial | deep | pending |  |
 | 6wVlDDno2TE | SearcherSportfishing | tutorial | deep | pending |  |
