@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -200,6 +200,20 @@ Which species and situation calls for each is routed from the species notes —
   **daytime** choice at real depth (e.g. 300 ft) — there is still light down
   there, just dim and not visible the way surface light is, and the added UV
   flash makes the jig stand out. Don't assume glow = night-only.
+- **Corroborating mechanism, contrast and UV again (Benny Ortiz,
+  CustomRodandReel seminar, -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based
+  instruction, a general fish-vision mechanism, not a SoCal-specific claim —
+  unregistered channel, medium confidence):** fish have rods and cones like
+  humans but far fewer color receptors, so **contrast**, not hue, is what
+  pelagic fish key on, while inshore/structure-oriented fish carry relatively
+  more color sensitivity — still nothing close to human color perception. His
+  stated belief, based on experience rather than formal study, is that
+  deep-water fish (north of roughly 600 ft, past where visible light
+  penetrates) can see **UV light**, and jigs/finishes that reflect UV (e.g. a
+  chartreuse finish that lights up under a UV flashlight) draw more bites at
+  real depth than a non-UV-reflective finish of the same profile —
+  corroborating, from an out-of-region but general-mechanism source, this
+  note's own UV/contrast-over-color framing above.
 - **Baseline daytime rule of thumb:** off-color / darker water → whites and
   yellows (more reflective in low light); bright, sunny, clear water → more
   chrome / flash.

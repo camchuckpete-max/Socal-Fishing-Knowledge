@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [assist-hook, jig-rigging, knife-jig, slow-pitch, speed-jig, swivel, terminal-tackle]
-sources: [U4zifdssSes, unARAuTgF_A]
+sources: [U4zifdssSes, unARAuTgF_A, -nIhadZwxAA]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -216,6 +216,68 @@ preference.
 5. Shrink-tube each hook eye/knot connection the same as a single assist. A
    split ring off the swivel's remaining eye connects the finished dual-top
    assist to the jig.
+
+## Hook shape — shank, bend, and point (selection, not tying)
+
+Selecting a hook shape for the assist, as distinct from the sizing/cord/tying
+parameters above — attributed to Benny Ortiz (CustomRodandReel seminar,
+-nIhadZwxAA, 2025-05-20; East Coast/Gulf-based slow-pitch instruction,
+general hook mechanics, not species-specific — unregistered channel, medium
+confidence).
+
+- **Shank length trades penetration speed for holding power.** A **short
+  shank** (e.g. a Gamakatsu 510-class hook) penetrates faster with less
+  active hookset needed — good for lethargic biters and smaller fish that
+  don't hit hard — but leaves less metal between the point and the assist
+  cord, so it's a poor pick around toothy fish (sharks, barracuda,
+  kingfish/mackerel) that can bite through. A **longer shank** (e.g. a
+  Gamakatsu 620-class hook) needs a more deliberate hookset — reel out the
+  slack, then strike — but delivers more hook-setting power and holds up
+  better against teeth. Around toothy fish, the source's fallback is shorter
+  pitches (less fall, less slack/bow in the line) rather than switching to
+  wire — see below.
+- **A deep belly (bend) improves hookup ratio and holding.** A hook with a
+  deep, rounded bend seats the fish's weight where the bend can carry it once
+  the point penetrates; a shallow or wide-angled bend does not hold as well
+  under sustained load.
+- **Point orientation — straight vs. "tuna-blade" (point curved back toward
+  the eye).** A straight point (wide gap) needs a more active hookset and is
+  more prone to snagging bottom or fouling on the outside of a fish's face
+  rather than finding the mouth. A point curved back toward the eye, on a
+  narrow taper (his description: "like a hypodermic needle rather than a
+  2×4"), penetrates with less active hookset, snags less — less exposed
+  point/gap to catch on — and, because the geometry doesn't tilt under load,
+  drives straight back into the fish's face in the direction of the pull
+  once it's set. His stated preference stack for an assist hook: long shank,
+  deep belly, point curved back toward the eye, narrow taper, slightly
+  thicker gauge, spade eye rather than an eyelet (claimed to catch/set faster
+  off the fish's face, though the source doesn't give a mechanism beyond "the
+  balance of the hook").
+- **Single vs. double, by jigging style — speed jigging vs. slow-pitch.**
+  Speed jigging (the jig ripped through the water column in one direction)
+  calls for a **single hook on top only**, sized to roughly a third of the
+  jig's length — fish hit head-first as the jig rips through, so one hook at
+  the head covers the strike. Slow-pitch jigging — this note's technique —
+  is different: the jig can pitch, slide, and fall in either direction, so
+  which end presents as the "head" varies pitch to pitch. The source runs
+  **two single hooks, one top and one bottom**, for that reason (never
+  crossed — the same don't-cross rule as
+  [knife jigs](../lures/knife-jigs.md)). Separately, the source reports a
+  **hookset-quality difference between single and double hooks**: a single
+  hook tends to bury past the jaw, deep in the mouth, almost every time; a
+  double/dual-hook rig is more likely to catch "in and around" the mouth
+  (e.g. the cheek), which can pull free on a long fight. **This is a
+  different axis than, and doesn't resolve,** the hook-count/placement
+  conflict already tracked in [knife jigs](../lures/knife-jigs.md) (multiple
+  sources running various top+bottom, dual-top, and bottom-pair
+  configurations) — logged here as an added, single-source rationale for
+  preferring fewer hook points where the fishery allows it, not a resolution
+  of that conflict.
+- **No wire, on the leader or the assist cord.** The source runs no wire
+  anywhere in the system, on the stated principle that losing an occasional
+  toothy fish (shark, barracuda, wahoo) to a bite-off is preferable to
+  fighting/landing one on tackle scaled for it — a deliberate trade-off, not
+  an oversight.
 
 ## Conflict note
 

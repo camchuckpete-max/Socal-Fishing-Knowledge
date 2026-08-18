@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -55,6 +55,35 @@ Execution only; species and situations are the reverse map in **Linked from**.
 - Load the rod off that fulcrum and let it unload — the tip **flicks the jig up**,
   then you feed slack and **watch/feel the fall.** Most bites come as a bump on
   the drop; wind tight into them, don't swing.
+- **Cadence scales with current (Benny Ortiz, CustomRodandReel seminar,
+  -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based instruction, general SPJ
+  mechanics, not species-specific — unregistered channel, medium
+  confidence):** 0–1 kt → small, quiet, subtle lifts at a slow, methodical
+  quarter- to half-turn pace; 1–4 kt → a faster, punchier lift so the jig can
+  punch through the current; a multi-layer current (dead calm on top, ripping
+  on the bottom, or the reverse) → a much stronger, punchy pitch to break
+  through the layer. Once the jig starts to swim, **let it finish swimming** —
+  don't drop the tip or cut the fall short. Fish are often chasing and eat
+  right before the next pitch; cutting a swimming jig short turns them off it.
+- **Why bouncing bottom works, an auditory rationale (same source):** fish
+  hear roughly 20–2,000 Hz — low-pitched thuds and grunts, not the
+  higher-pitched jingle of hooks knocking together — so a multi-hook assist
+  rig doesn't spook them by sound. Deliberately bouncing the jig on bottom
+  stirs sediment and produces a low-frequency thud fish can hear and feel via
+  the lateral line, which reads as curiosity-triggering rather than a
+  warning — a mechanism for the "bounce the bottom" habit documented in the
+  Reading-the-drop entry below, not a reason to avoid it.
+- **Boat control, best to worst for keeping the jig vertical (same source):**
+  a boat locked in place electronically (Power-Pole, Minn Kota, spot-lock
+  trolling motor) beats a sea anchor, which beats a free drift — free-drifting
+  is the hardest condition to jig from, because wind and current scope the
+  boat away from the jig fast. On a locked boat, **bow into the current** lets
+  anglers fish both rails and lets the operator nudge the boat to re-center
+  anyone's scoping line instead of repositioning around one side. Whatever the
+  boat control, **take repeat passes offset from the first drift** rather than
+  stacking the same track — species are often localized to specific
+  structure, so covering ground around a mark can out-produce staying parked
+  on the exact number.
 - **Match the jig to the rod's rating.** SPJ rods are rated by max jig weight; the
   right weight is what makes the blank load and impart the action. A **350 g-max**
   rod is the most useful all-rounder to start; a lighter 250 g-rated rod is the
@@ -93,6 +122,37 @@ Execution only; species and situations are the reverse map in **Linked from**.
   previously credited to (`Jtf-bU4aM-c`) is the same recording re-uploaded,
   and the narrator self-declares as new to slow-pitch on camera. Attributed
   data point, not established BOLA doctrine.
+- **Jig profile by current speed, more granular thresholds (Benny Ortiz,
+  CustomRodandReel seminar, -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based
+  instruction — unregistered channel, medium confidence):** 0–0.5 kt → a
+  wide, flat-sided wing-fall profile for maximum flutter; 0.5–1.5 kt → a
+  thicker, rounded/convex-bottomed profile with no hard keel, giving a
+  moderate cradle-fall that still swims without much current influence;
+  1.5–3 kt → a longer, flat-bottomed profile that cuts water and stays
+  vertical. Elaborates on, and is consistent with, this note's
+  fast-drift-vs-slack current/shape rule above, with specific knot
+  breakpoints.
+- **Alternate weight formula, depth-in-meters baseline (same source, labeled
+  contrast — East Coast/Gulf mechanics, not a SoCal-sourced rule):** in zero
+  current, start at **depth in meters × 2 = jig weight in grams** (e.g., 300
+  ft / ~91 m of water → ~180–200 g). Adjust for current by multiplying that
+  neutral weight by the current speed in knots (e.g., a 200 g neutral jig ×
+  1.5 kt current ≈ 300 g starting weight). Framed by the source as a starting
+  point to adjust from, not a fixed number — kept side by side with this
+  note's ~1.5 g/ft rule above rather than reconciled; the two formulas use
+  different baselines (meters-and-current-multiplier vs. a flat per-foot
+  rate) and neither source states how they compare head to head.
+- **Spawn-cycle jig-selection heuristic, hedged by the source (same source,
+  presented as a general pattern, not tied to a specific SoCal/Baja species or
+  calendar):** pre-spawn fish feed more aggressively and get more
+  territorial, so a **longer-profile jig** (an easy, easy-to-chase meal)
+  draws more strikes; post-spawn fish go lethargic and less territorial, so
+  scale down to a **smaller-profile jig at the same weight** and use more
+  subtle movements. Explicitly not offered as a fixed calendar rule — the
+  source's own suggestion is to ask the boat/captain whether they're seeing
+  eggs in cleaned fish to gauge where the local population sits in the
+  cycle. No SoCal/Baja species or month is named; treat as a heuristic to
+  test locally, not established doctrine.
 
 ## Gear-class detail
 
@@ -106,6 +166,29 @@ Execution only; species and situations are the reverse map in **Linked from**.
   at the jig. For pelagics, step up to a two-speed reel and ~**40 lb braid**.
   Connect braid-to-leader with a thin knot (PR/FG class) so it clears the small
   guides.
+- **Four-strand vs eight-strand braid (Benny Ortiz, CustomRodandReel seminar,
+  -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based instruction — unregistered
+  channel, medium confidence):** a rougher four-strand braid sheds a smaller
+  turbulent eddy in the water than a smooth, round eight-strand of the same
+  class, so it scopes out less and stays more vertical at depth — his
+  rule of thumb: on a boat with someone running eight-strand, watch whose
+  line scopes out first, and it won't be the four-strand angler. Four-strand
+  also bites into fluorocarbon leader better on a wrapped PR/RP-class
+  terminal knot (see [essential knots](../rigging/essential-knots.md)), and
+  is more abrasion resistant. Eight-strand is reserved for casting, where
+  roundness/smoothness matters more than vertical hold. Adds a strand-count
+  axis beside this note's existing thin-braid-for-scope doctrine above.
+- **Jig connection — swivel + solid ring on an alternating-half-hitch knot
+  (same source):** leader ties to a ball-bearing swivel (his preference over
+  a solid ring — it lets a spinning fish unwind independently rather than
+  twisting the leader), tied with a cow-hitch-started, alternating-half-hitch
+  wrap he calls an **AG chain knot** (rated a 100% connection by the
+  source); a split ring off the swivel's far eye then connects to the jig.
+  The point of the swivel-plus-split-ring chain is a straight-line
+  connection a fighting fish can't use the jig's leverage against. Logged as
+  a jig-system connection choice, not a step-by-step tying procedure — see
+  [essential knots](../rigging/essential-knots.md) for this note's
+  documented tying detail.
 - **Jig:** [knife/slow-pitch jig class](../lures/knife-jigs.md). US waters cap you
   at **two hooks** — single assist on the nose, single on the tail (an assist
   *pair* on the front already puts you over the limit). A **6 in Gulp curly-tail
@@ -130,6 +213,41 @@ Execution only; species and situations are the reverse map in **Linked from**.
   main for slow pitch, stepping up to a **60 lb top shot as a bite guard**
   for bigger fish. Jig weight fished: roughly **80–150 g** on the slow-pitch
   stick.
+
+## Fighting & landing (light tackle)
+
+Landing fish on SPJ's light line/leader classes is a technique of its own —
+attributed to Benny Ortiz (CustomRodandReel seminar, -nIhadZwxAA, 2025-05-20;
+East Coast/Gulf-based instruction, general fight mechanics, not
+species-specific — unregistered channel, medium confidence).
+
+- **Set drag tight and back off, not the reverse.** Start drag at roughly a
+  third of the line's straight-pull breaking strength (his example: ~12–15 lb
+  of strike drag on 20 lb braid rated 38–41 lb) — it's far easier to ease drag
+  off a fighting fish than to add more once it's already pulling. A
+  lever-drag reel lets you work the lever up and down through the fight to
+  match pressure to the moment; a star-drag reel is less precise but gains an
+  auto-engage feature on the strike.
+- **Effective drag climbs as line comes off a full spool.** Deep into a long
+  drop, more than a third down the spool, the same drag-lever setting can read
+  as much as double what it reads at a full spool — back the drag down going
+  into deep water (he cites north of 500 ft) to compensate.
+- **Always be gaining line.** The moment a fish stops pulling, take up any
+  slack — even a quarter turn — to keep turning its head rather than waiting
+  for a full rest.
+- **Fight with your body, not your arms — "drop into it."** After the
+  hookset, bend your knees and drop your weight against the rod butt braced
+  on the boat, using your legs (not your arms) for the first hard cranks to
+  get a fish up off structure/bottom, then back drag off once it's clear.
+- **Direct/straight-line control beats a bent rod.** Staying in a straight
+  line with the fish — including working the rod tip near the water, straight
+  up and down, on a fish pinned near the bottom — puts far more pressure on
+  the fish than fighting it on a bend; a bent rod dissipates pulling power
+  instead of transmitting it.
+- **Two-speed reels:** drop into low gear for the initial standoff on a big
+  fish near the bottom, then shift to high gear once it's coming freely — a
+  lower gear ratio trades speed for torque, which matters more than
+  inches-per-crank on a stubborn fish deep down.
 
 ## Common failures
 
