@@ -2091,7 +2091,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JHMCguO7sXE | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; species/wahoo.md - spinning-vs-conventional popper rationale, Penn Slammer 3 spec (promotional flag), leader spec, wahoo wire-leader conflict cross-link |
 | JOanxql39qg | SearcherSportfishing | tutorial | deep | done | none - skipped: promotional dockside fish-processing service ad, no fishing knowledge content |
 | KGrussv1s3U | SearcherSportfishing | tutorial | deep | done | rigging/bite-leaders.md - corroborating flat-fall leader build (24in/200lb/size-1 crimp, decision-rationale on chafe-resistance) merged as medium-confidence sub-entry alongside existing Vol.28 entry |
-| KHYoj9GEjCM | SearcherSportfishing | tutorial | deep | pending |  |
+| KHYoj9GEjCM | SearcherSportfishing | tutorial | deep | done | none - skipped: duplicate-of -62xDo4UQzo (identical 94s recording/ASR-artifact match; all content already captured in techniques/wahoo-bomb-casting.md + rigging/haywire-twist.md) |
 | KLmNyflzsQ0 | SearcherSportfishing | tutorial | deep | pending |  |
 | KYE14piJAzI | SearcherSportfishing | tutorial | deep | pending |  |
 | LpReZmYQSCU | SearcherSportfishing | tutorial | deep | pending |  |
