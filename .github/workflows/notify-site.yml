@@ -15,6 +15,7 @@ name: Notify site of knowledge update
 on:
   push:
     branches: [main]
+  workflow_dispatch: # manual re-notify (and the way to test the token from a branch)
 
 jobs:
   dispatch:
