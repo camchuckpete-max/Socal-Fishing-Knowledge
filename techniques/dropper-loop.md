@@ -351,6 +351,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

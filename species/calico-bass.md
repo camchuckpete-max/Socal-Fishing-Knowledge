@@ -663,6 +663,7 @@ release *ethic* and the regional policies are below.
 - [Flyline](../techniques/flyline.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)

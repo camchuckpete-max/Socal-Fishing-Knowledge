@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, H5NHGLm1H5U]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -46,7 +46,10 @@ fluoro leader, braid main line — and feed the terminal rigs in
 - **Loop knot (terminal)** — ties a hook **without a solid ring** in its eye,
   when you don't have (or don't want) a ringed hook.
 - **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
-  by the dozens through a bite; see the retie cadence below.
+  by the dozens through a bite, with a naming quirk (several presenters call
+  the identical mechanic "San Diego jam" or "fisherman's knot") large enough
+  to need its own room — kept as its own note: [Improved Clinch
+  Knot](improved-clinch-knot.md).
 - **Springer knot (terminal)** — another named hook tie for **heavier line**,
   mechanically distinct from the Palomar/San Diego jam family above, from a
   single thin tackle-shop clip — kept as its own note: [Springer
@@ -238,8 +241,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
   SearcherSportfishing in-house demo rather than a guest captain, it is a
   second, independently-sourced channel corroborating "San Diego jam" as
   the name for the **single-pass** tie, alongside Dave Hansen's usage
-  logged below — read as strengthening that naming, not the
-  doubled-through-the-eye mechanic this bullet opens with.
+  logged in [Improved Clinch Knot](improved-clinch-knot.md) — read as
+  strengthening that naming, not the doubled-through-the-eye mechanic this
+  bullet opens with.
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
@@ -356,9 +360,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
   does not match the opposite-direction-tag-ends, two-and-a-half-turn
   mechanic Cesar names as the Seaguar knot in `48ZFXnCTTQE` above — two
   sources naming mechanically distinct ties the same thing, the inverse of
-  the San Diego jam / fisherman's knot split logged further below (one
-  mechanic, two names) in this same note. Kept side by side under the
-  shared name rather than reconciled. **Flag —
+  the San Diego jam / fisherman's knot split logged in [Improved Clinch
+  Knot](improved-clinch-knot.md) (one mechanic, two names). Kept side by
+  side under the shared name rather than reconciled. **Flag —
   possible same tie as the unnamed StokedOnFishing knot above:** the
   loop/wrap-back/figure-eight-draw-through shape here reads similar to the
   unnamed `06lxuie5cZQ` tie logged above (same channel, different upload
@@ -410,97 +414,10 @@ fluoro leader, braid main line — and feed the terminal rigs in
   when a ring is available: it adds no extra hardware weight to a bait that's
   already not fully healthy, and it's silent — no ring-on-hook clank to spook
   a finicky, picky bite.
-- **Improved clinch (Dave Hansen, Your Saltwater Guide, VsUUBICiBzQ,
-  2021-06-29; dave-hansen registered voice, single mention of this specific
-  knot — `medium` confidence):** the presenter calls it his "fisherman's
-  knot" (what he was taught as a kid) and separately references an "improved
-  cinch knot" name for it; tie as a **single pass through the hook eye**
-  (not doubled), spin the tag **7 times** around the standing line, pass the
-  tag through the lower loop nearest the eye — which forms a second loop
-  above it — then back through that top loop, and pull down tight to cinch
-  (he seats it by gripping the tag in his teeth and pulling). Spin/slide the
-  coils down snug, then clip the tag close. **Judgment — retie cadence:** he
-  re-ties this knot on a fresh hook after nearly every fish, "over a hundred
-  times a day" on a good day, because toothy SoCal species —
-  [bluefin tuna](../species/bluefin-tuna.md),
-  [calico bass](../species/calico-bass.md), and
-  [barracuda](../species/barracuda.md) are the three he names — fray the
-  last few inches of line on the bite; cutting the hook off and re-tying is
-  faster than trying to fish on a compromised end. **Flag:** this single-pass,
-  spin-then-through-bottom-then-top-loop mechanic reads distinct from the
-  San Diego jam above (which doubles the line through the eye before
-  wrapping). Within this video the presenter uses "fisherman's knot" and
-  "improved cinch knot" interchangeably for the same tie; no other Your
-  Saltwater Guide knot video has been extracted yet to confirm whether that
-  naming holds consistent across his channel.
-  **Update — the naming question resolves, but not the way expected (Dave
-  Hansen, Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen
-  registered voice, mechanic repeated across two of his videos — `high`
-  confidence on the mechanic):** tying a rockfish [dropper-loop
-  gangion](../techniques/dropper-loop.md#rock-cod-quick-gangion-dave-hansen-build),
-  he ties this identical single-pass, spin-7-times, through-the-bottom-loop
-  (which forms a top loop), back-through-the-top, cinch-and-trim mechanic —
-  used both to tie the sinker to the end of the main line and to tie circle
-  hooks onto the dropper loops — and this time names it explicitly **"San
-  Diego jam."** So the mechanic is consistent across his videos, but **his own
-  naming for it is not**: "fisherman's knot" / "improved cinch knot" in
-  VsUUBICiBzQ, "San Diego jam" here. Kept side by side rather than reconciled
-  to one name. Practical takeaway: a "San Diego jam" in a Your Saltwater Guide
-  video is this single-pass tie, not the doubled-through-the-eye version
-  described above — don't assume the name maps to the same mechanic across
-  channels.
-  **Second corroboration of the "San Diego jam" naming (Dave Hansen, Your
-  Saltwater Guide, RbqOKkINSCM, 2021-05-25):** ties the identical single-pass
-  mechanic — loop it around the index finger, wrap **7 times**, feed through
-  the bottom hole and back out the top hole made with the index finger, wet
-  it, and slide it down — naming it "San Diego jam" again, on three separate
-  rigs in the same video (a mackerel flyline hook, a flat-fall, and a
-  popper). This is now the naming used in **two** of his videos
-  (`zVIfArUrpDI`, `RbqOKkINSCM`) against **one** using "fisherman's knot" /
-  "improved cinch knot" (`VsUUBICiBzQ`) for the same tie — strengthening,
-  not resolving, the naming split logged above; still kept side by side
-  rather than reconciled to one name.
-  **The split now shows up inside a single video, not just across videos
-  (Dave Hansen, Your Saltwater Guide, `fK2AT460xW4`, 2021-04-27; dave-hansen
-  registered voice — `high` confidence on the mechanic):** building a
-  [torpedo-sinker tuna dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen),
-  he ties the identical single-pass, spin-**7**-times, through-the-bottom-
-  hole-then-back-out-the-top mechanic **twice** in the same clip — once to
-  join the main line to the inline torpedo sinker and once to join the
-  fluorocarbon leader to that same sinker connection — and calls it **"San
-  Diego jam"** both times ("it's super important to tie the San Diego jam
-  when you're doing this"). Moments later, tying the circle hook onto the
-  end of the same leader with the **same** spin-7/bottom-hole/top-hole
-  mechanic, he calls it the **"improved cinch knot"** instead. So within one
-  video, by one presenter, the identical tie is named "San Diego jam" for a
-  sinker/leader connection and "improved cinch knot" for the hook — this
-  reads as the presenter using the two names loosely/interchangeably by
-  habit rather than by a fixed rule about what each name refers to; logged
-  as a third data point on the naming split, not a resolution of it.
-  **Independent, earlier-dated corroboration under the "improved clinch"
-  name only (SearcherSportfishing, "Tackle Tip Thursday Vol. 50,"
-  `H5NHGLm1H5U`, 2019-05-30; unregistered channel, single mention —
-  `medium` confidence):** predates all three Dave Hansen entries above by
-  roughly two years — the earliest-dated data point in this note for this
-  tie, though this presenter uses only the name **"improved clinch knot"**
-  on camera, never "San Diego jam." Framed on camera as a knot for tying
-  **fluorocarbon to a circle hook for fly-lining live bait**, named for
-  **bluefin tuna, "any kind of tuna"**. **Flag — `asr-uncertain` (hook
-  size):** the caption renders the size as "202 for Oh circle hook," which
-  does not parse cleanly as a single aught size; read loosely as consistent
-  with the 2/0–3/0 flyline hook sizing already logged in
-  [flyline](../techniques/flyline.md), but not confirmed as exactly 2/0 —
-  logged as a possible corroborating data point, not a firm one. Paraphrased mechanic: pass the
-  fluorocarbon through the hook eye, spin the tag **7 or 8 times** around
-  the standing line — a close match to Dave Hansen's fixed 7-times count
-  above — then pass the tag back through a loop before cinching down with
-  the main line and trimming the tag close. **Flag — `asr-uncertain`:** the
-  transcript's description of where the tag re-enters ("the tag line goes
-  through the eye of the mano") does not parse cleanly; read as functionally
-  consistent with the through-the-loop step in the Dave Hansen entries above
-  but not confirmed word-for-word. No line class given beyond
-  "fluorocarbon." Presenter's stated properties match Dave Hansen's: "very
-  quick and easy, strong, won't break, and simple."
+- **Improved clinch / "fisherman's knot"** — a single-pass hook tie (Dave
+  Hansen and multiple SearcherSportfishing presenters, with a genuine naming
+  split against "San Diego jam" for the identical mechanic) — kept as its own
+  note: [Improved Clinch Knot](improved-clinch-knot.md).
 - **Bimini twist, quick-tie approach (StokedOnFishing, `jahddqzKhLY`,
   2012-03-28; unregistered channel — `medium` confidence):** presented as a
   fast, no-long-loop way to twist up a double line in about 30 seconds once
@@ -556,33 +473,14 @@ fluoro leader, braid main line — and feed the terminal rigs in
   topshot with a new worm knot, tie the hook back on, and you're back
   fishing in seconds without re-tying the Bimini itself. No SoCal-specific
   parameters (line class, species) are given in this clip.
-  **Third corroborating video, earliest-dated of the three (Dave Hansen, Your
-  Saltwater Guide, ftEvyfwjZFU, 2021-06-08 — predates both VsUUBICiBzQ and
-  zVIfArUrpDI above):** ties this same single-pass, spin-7-times,
-  through-the-bottom-hole, back-out-the-top mechanic straight to lure/hook
-  eyes — a soft-plastic glide swimbait, a wing-style stickbait, and a 4/0
-  circle hook for a flylined sardine — naming it **"San Diego jam"** on every
-  tie. Across his three logged videos, "San Diego jam" is now the name used
-  twice (2021-06-08, 2021-06-15) against one single mention of "fisherman's
-  knot"/"improved cinch knot" (2021-06-29); still kept side by side per the
-  naming-inconsistency note above, not treated as resolved. **Straight-tie,
-  no-swivel-no-bead rigging judgment (same source):** he ties the glide
-  swimbait straight to its eye on camera with no leader material/weight or
-  swivel/bead stated for that connection specifically. For the wing
-  stickbait he's explicit — "because that's how these are made... you do not
-  want a swivel on there because now the fish is going to see the swivel" —
-  straight-tied to **60 lb fluorocarbon** (with **80 lb** given as an
-  alternative for the stickbait bite — framed as a reactionary strike where
-  the fish won't shy from heavier line, so drag can be hammered down). For
-  the flylined sardine's circle hook he's likewise explicit — "no swivels,
-  no beads" — straight-tied to fluorocarbon on a **4/0 thin-wire circle
-  hook**, so the hook can turn freely to find the corner of the fish's
-  mouth. The 60 lb fluorocarbon and no-swivel/no-bead specifics are
-  confirmed for the stickbait and the sardine hook only; not assumed to
-  carry over to the glide swimbait. See
-  [flyline](../techniques/flyline.md) and
-  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) for
-  the lure-specific application of these parameters.
+  **Not this knot — a same-family single-pass tie tied straight to lure/hook
+  eyes (Dave Hansen, `ftEvyfwjZFU`):** ties the identical single-pass,
+  spin-7-times mechanic used for the improved clinch/"San Diego jam" naming
+  split, applied to a glide swimbait, a stickbait, and a flylined sardine
+  hook — see [Improved Clinch Knot](improved-clinch-knot.md) for that naming
+  detail and the straight-tie, no-swivel-no-bead rigging judgment (also
+  covered independently in [flyline](../techniques/flyline.md) and [tuna
+  poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)).
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
@@ -606,9 +504,6 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
 [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
-[improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ),
-[improved clinch, fluoro to a circle hook for flylining bluefin](https://www.youtube.com/watch?v=H5NHGLm1H5U),
-[rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI),
 [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
 [mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
 [Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
@@ -629,6 +524,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)

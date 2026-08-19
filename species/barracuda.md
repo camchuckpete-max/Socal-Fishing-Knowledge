@@ -106,9 +106,9 @@ dedicated program.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](calico-bass.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Pacific Bonito](bonito.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

@@ -733,6 +733,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

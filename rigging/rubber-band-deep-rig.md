@@ -562,6 +562,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

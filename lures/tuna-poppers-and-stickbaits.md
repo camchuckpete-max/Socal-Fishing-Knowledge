@@ -446,6 +446,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

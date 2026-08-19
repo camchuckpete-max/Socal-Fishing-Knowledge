@@ -104,4 +104,5 @@ presenter not identified, 2020-04-23).
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 <!-- backlinks:end -->
