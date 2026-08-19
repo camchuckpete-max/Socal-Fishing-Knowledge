@@ -2102,7 +2102,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | NGtja-dCiC8 | SearcherSportfishing | tutorial | deep | done | tackle/spinning-reel-bait-feeder.md; tackle/rod-and-reel-selection.md / new tackle note on spinning-reel live-bait-feeder dual-drag mechanism, linked in from rod-and-reel-selection.md, medium confidence (unregistered channel, single mention) |
 | NJ9ZLAU3sls | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md; techniques/chunking.md / Chunking rig + technique tip for Guadalupe Island big tuna split between tackle (reel/line/rod/hook/swivel) and technique (natural-fall secret) notes, region gate widened to include baja-pacific-north |
 | NN5MWeRA28o | SearcherSportfishing | tutorial | deep | done | species/yellowfin-tuna.md / Faithful, correctly-scoped, promotional-low-confidence addition to existing Doctrine & conflicts entry cluster; no inversions, no rubric laundering, no dead links |
-| OIiDJu4mx44 | SearcherSportfishing | tutorial | deep | pending |  |
+| OIiDJu4mx44 | SearcherSportfishing | tutorial | deep | done | fish-care/gaffing.md / Added three doctrine blocks (call-for-gaff timing, horizontal-profile positioning, free-spool-on-gaff) to existing gaffing note, correctly attributed and rated medium under searcher-sportfishing row |
 | OL8D1l73RVg | SearcherSportfishing | tutorial | deep | pending |  |
 | OmyRIw7Eye8 | SearcherSportfishing | tutorial | deep | pending |  |
 | P9H-bpzT7eU | SearcherSportfishing | tutorial | deep | pending |  |

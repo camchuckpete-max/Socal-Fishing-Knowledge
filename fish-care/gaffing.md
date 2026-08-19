@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [gaffing, boating-the-fish, tackle, safety, bluefin, yellowtail, dorado, halibut, white-seabass]
-sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4, vCskOx6N-XM, elBPRrdkugU]
+sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4, vCskOx6N-XM, elBPRrdkugU, OIiDJu4mx44]
 confidence: low
 ---
 
@@ -19,6 +19,16 @@ Hansen's), so this whole note sits at `low`**; the specific gaff model and
 construction claims are promotional and omitted entirely), 2022-03-14
 (I84uoay_jwQ).
 
+## Calling for the gaff — early notice
+
+- **Call for the gaff the moment the fish first becomes visible deep down —
+  "in the colors"** — by saying "color" or "gaff." That gives the crew a
+  head start to grab a gaff and be standing at the rail, ready, by the time
+  the fish reaches the surface, instead of scrambling once it's already up.
+  (Capt. Art Taylor & Capt. Mike, Searcher Sportfishing, *Tackle Tip
+  Thursday* Vol. 200, 2022-10-13, `OIiDJu4mx44`; registered channel/series
+  — instructional mechanism, single mention — medium confidence.)
+
 ## Gaff sizing by species/weight
 
 - **3-in hook, ~6-ft gaff:** yellowtail, dorado, halibut, white seabass, and
@@ -26,6 +36,20 @@ construction claims are promotional and omitted entirely), 2022-03-14
   drive on fish in this range.
 - **6-in hook, ~8-ft gaff:** SoCal bluefin at the **200–300 lb** grade — the
   bigger, longer gaff gives reach and hook bite for a much heavier fish.
+
+## Positioning the fish — horizontal profile, not head-up
+
+- **Keep the fish lying horizontal, just under the surface,** rather than
+  letting its head come up out of the water. A horizontal fish gives the
+  gaffer a good, stable target.
+- **Do not raise the fish's head out of the water before the shot** — it's
+  unnatural for the fish and tends to make it dive, which works against
+  getting a clean shot lined up. (Capt. Art Taylor & Capt. Mike, Searcher
+  Sportfishing, *Tackle Tip Thursday* Vol. 200, 2022-10-13, `OIiDJu4mx44`;
+  registered channel/series — instructional mechanism, single mention —
+  medium confidence.) This is a general positioning point that precedes and
+  complements the species-specific shot placement below (pec on bluefin,
+  etc.) — kept as its own step rather than merged into it.
 
 ## The shot on big bluefin — pec placement, flip upside down
 
@@ -67,6 +91,14 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - Once the fish is on the gaff, go **hand over hand straight up** onto the
   deck. Do **not** try to pull the fish out of the water the way you'd fight
   it on a rod — lifting it like that lets it fall off the gaff.
+- **The rod angler puts their reel in free spool the instant the fish is
+  gaffed, keeping a thumb lightly on the spool** so the reel doesn't
+  backlash once the line goes slack. A safety/gear-care step for the angler
+  to take in parallel with the gaffer's landing work, not something the
+  gaffer does. (Capt. Art Taylor & Capt. Mike, Searcher Sportfishing,
+  *Tackle Tip Thursday* Vol. 200, 2022-10-13, `OIiDJu4mx44`; registered
+  channel/series — instructional mechanism, single mention — medium
+  confidence.)
 
 ## Safety around the gaff
 
