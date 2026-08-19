@@ -2088,7 +2088,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | J0NJhN6-Thg | SearcherSportfishing | tutorial | deep | done | rigging/improved-clinch-knot.md; rigging/essential-knots.md / third SearcherSportfishing corroboration of the improved-clinch/San Diego-jam naming split, added to a new note split out of essential-knots.md; router pointer updated |
 | J3FGJj5zYPE | SearcherSportfishing | tutorial | deep | done | techniques/wahoo-bomb-casting.md / Added color-matching doctrine (with stated on-camera reasoning) and a separate 'on the slide' cast-trigger mechanic to the existing wahoo-bomb-casting technique note; medium confidence (unregistered channel) |
 | J7nreDb1dn8 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md / added Colt Sniper stock hook/split-ring upgrade spec and three-retrieve rundown from Fisherman's Landing Tackle Shop segment, cross-linked to foamer-casting.md's existing let-it-sink retrieve |
-| JHMCguO7sXE | SearcherSportfishing | tutorial | deep | pending |  |
+| JHMCguO7sXE | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; species/wahoo.md - spinning-vs-conventional popper rationale, Penn Slammer 3 spec (promotional flag), leader spec, wahoo wire-leader conflict cross-link |
 | JOanxql39qg | SearcherSportfishing | tutorial | deep | pending |  |
 | KGrussv1s3U | SearcherSportfishing | tutorial | deep | pending |  |
 | KHYoj9GEjCM | SearcherSportfishing | tutorial | deep | pending |  |

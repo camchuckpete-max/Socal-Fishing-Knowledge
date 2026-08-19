@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -414,6 +414,28 @@ when a bigger fish is finally hooked. For sinking metal jigs specifically, a
 conventional reel is also fished and casts them fine — the source reaches
 for a baitcaster mainly to cut backlash on the smaller floating plastics.
 
+**Why spinning, and a booth-demo reel/leader spec** (SearcherSportfishing,
+Fred Hall Show, Penn booth, `JHMCguO7sXE`, 2020-04-30; unregistered channel —
+medium confidence): the stated reason poppers generally need **spinning**
+tackle rather than conventional is that poppers aren't aerodynamic enough to
+cast on a conventional reel without a backlash. A Penn Slammer 3 spinning
+reel is shown loaded with **400 yards of 65 lb braid**, framed as "tuna
+capable" for **40, 50, 60 lb tuna** but explicitly not recommended for a
+cow-grade giant ("a pound cow"). **Marketing flag:** the Penn Slammer 3 model
+itself — filmed in Penn's own trade-show booth — is a promotional placement;
+treat that specific model endorsement as low confidence, separate from the
+medium-confidence spinning-vs-conventional and leader doctrine above.
+**Leader: 2 to 2.5 ft of 100 lb test**,
+fluorocarbon or monofilament — stated as not mattering which, since the
+leader's job here is abrasion resistance, not stealth; **color doesn't matter
+either** — "you could make it any color you want and the fish will still bite
+it," corroborating the size/shine-over-color framing already logged above
+(Rooster Popper, Lead Master Sniper). This source also names **wahoo**
+alongside bluefin/yellowfin tuna and yellowtail as a species poppers work
+for — see [wahoo](../species/wahoo.md#doctrine--conflicts) for a leader-spec
+conflict this raises against that note's wire-leader-mandatory doctrine, kept
+side by side, not reconciled.
+
 ## How to fish it
 
 All fished [foamer casting](../techniques/foamer-casting.md): run at working
@@ -470,6 +492,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
