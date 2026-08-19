@@ -1,0 +1,33 @@
+# Makes the pre-commit hard habit and the site publishing contract mechanical.
+#
+# - link-maintenance.py must pass AND leave no diff (a diff means a commit
+#   landed without the hard-habit regeneration pass).
+# - export-site-index.py must succeed (the BightSST website sync runs it
+#   against main; a contract violation here would stall site refreshes).
+name: Validate KB
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Link maintenance (must pass and be idempotent)
+        run: |
+          python scripts/link-maintenance.py
+          git diff --exit-code || {
+            echo "::error::link-maintenance.py produced a diff — a commit landed without the hard-habit pass. Run it locally and commit the result."
+            exit 1
+          }
+
+      - name: Site export contract (dry run)
+        run: python scripts/export-site-index.py --out /tmp/index.json
