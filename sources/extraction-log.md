@@ -2117,7 +2117,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Rudzy0DD08w | SearcherSportfishing | tutorial | deep | done | species/bluefin-tuna.md; tackle/rod-and-reel-selection.md / two-speed reels required for 1.5- and 3-day bluefin trips, TLD 20/Talica 12 example builds added; resolved prior italica ASR-garble as Talica via corroboration |
 | S2cT2JqrWcY | SearcherSportfishing | tutorial | deep | done | none / nothing extractable: generic seasickness-prevention tip, no SoCal/Baja-specific fishing content, correctly skipped per curation bar |
 | S80GRyuAbLY | SearcherSportfishing | tutorial | deep | done | rigging/crimping.md; rigging/haywire-twist.md; species/wahoo.md / added third wahoo live-bait wire-leader data point (60 lb wire / A2 sleeve, sleeve-crimped) with general sleeve-to-wire sizing parameter |
-| SCQnyVEQfHY | SearcherSportfishing | tutorial | deep | pending |  |
+| SCQnyVEQfHY | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; lures/tuna-feathers-and-skirts.md; tackle/hooks.md / Tackle Tip Thursday Vol.100 test-of-time segment merged three low-confidence product/model data points (Salas 6X/6X Jr. dating, Zuker Zucchini feather, Mustad 94150/94151) |
 | Stw7SNyIgdg | SearcherSportfishing | tutorial | deep | pending |  |
 | TU5quAG4atM | SearcherSportfishing | tutorial | deep | pending |  |
 | TgOMUXxIQl4 | SearcherSportfishing | tutorial | deep | pending |  |

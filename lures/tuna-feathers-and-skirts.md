@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [tuna-feather, skirt, williamson, jaw-lures, tuna, trolling, offshore]
-sources: [cameron, CWVPLM6NheY, 9JnIS8HkZlA, ouBrIdO7d4k]
+sources: [cameron, CWVPLM6NheY, 9JnIS8HkZlA, ouBrIdO7d4k, SCQnyVEQfHY]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -131,6 +131,26 @@ plastic head and can pop out of the water at trolling speed.
 - **Also named as a Hawaii skipjack staple** (out-of-region contrast, not
   SoCal doctrine): the same small-profile trolled-feather approach was
   volunteered on camera as a standard Hawaii method for skipjack.
+
+## A "test of time" molded-head feather — the Zuker Zucchini (SearcherSportfishing, "Tackle Tip Thursday Vol. 100 (Test of Time)," `SCQnyVEQfHY`, 2020-05-21; `searcher-sportfishing` registered channel — product/model pick, `low` confidence per the channel's registry sponsored-claim caveat)
+
+Framed on camera as one of three items in the SoCal offshore fishery that
+"passed the test of time" — still fished as of the 2020 upload, unchanged,
+at least **40 years** after it first came on the market (predates
+roughly **1980**; no relative time carried). Credited to **John Zuker**, who
+originated a **plastic molded trolling-feather head** distinct from the
+Williamson/JAW families already logged above.
+
+- **"Zuker Zucchini"** — the named pattern, trolled **for tuna on 80 lb
+  test**. Trolling depth/setback and speed are not given on camera.
+- **A second color shown alongside it: black and purple with a gold head**
+  — not confirmed as a second "Zucchini" colorway versus a separate named
+  Zuker pattern; both are described together as having been "the new latest
+  and greatest trolling thing for albacore and yellowfin tuna" when they
+  came out.
+- No rigging, leader length, or running-depth detail is given beyond the
+  80 lb line-class figure; treat as a historical/durability data point
+  (a "still works" claim), not a full running spec, until corroborated.
 
 ## Owned examples
 

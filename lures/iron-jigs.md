@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -41,6 +41,17 @@ the iron sinks and how it holds in current:
   **stays vertical** in current. The **Salas 6X** and **Salas CP 105** are the
   classic heavy yo-yo benchmarks; Tady 4/0 and heavier CNC irons fill the same
   role. Too light and it never reaches the mark or planes off sideways.
+  **Earlier-dated corroboration for the Salas 6X / 6X Jr. as "the standard"
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 100 (Test of Time),"
+  `SCQnyVEQfHY`, 2020-05-21; `searcher-sportfishing` registered channel —
+  product/model pick, `low` confidence per the channel's registry
+  sponsored-claim caveat):** names the **Salas 6X Jr.** (blue and white) and
+  the standard **Salas 6X** (a little heavier/bigger, "scrambled egg") as
+  yo-yoing-for-yellowtail standards that "have been working now for **50
+  years, for as long as Salas has been around**" — no relative time carried
+  (predates roughly 1970). Both colors already logged throughout this note;
+  the new data point is the dating, which is three weeks earlier than the
+  `1uYIApdQQSM` corroboration above and from the same channel.
 - **Crossover / column irons** — heavier PVC-over-steel or CNC irons that cast
   like a surface iron but can be **sunk out to cover the column**. The **Nomad
   Slidekick 120g** (6", **4.25 oz**, random side-kick) is a crossover: heavier

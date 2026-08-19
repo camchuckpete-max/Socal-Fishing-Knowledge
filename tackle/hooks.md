@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY]
 confidence: medium
 ---
 
@@ -480,6 +480,26 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
   split-ring detail beyond "have replacement hooks for your jerk baits" — see
   the extra-strong-wire treble/split-ring specifics already logged above from
   the different Sea of Cortez trip that does give numbers.
+
+### Mustad 94150 / 94151 — the historical anchovy/sardine J-hook baseline (SearcherSportfishing, "Tackle Tip Thursday Vol. 100 (Test of Time)," `SCQnyVEQfHY`, 2020-05-21; `searcher-sportfishing` registered channel — product/model pick, `low` confidence per the channel's registry sponsored-claim caveat)
+
+Framed on camera as one of three pieces of SoCal offshore tackle that "passed
+the test of time" — a **standard No. 2 Mustad J hook**, inexpensive, that
+predates **Owner and Gamakatsu** (named on camera as "fantastic hooks now";
+Owner disclosed as a Searcher sponsor) and predates circle hooks:
+
+- **Mustad 94150** — the **No. 2** anchovy hook, from **40–50 years before
+  the 2020 upload** (predates roughly 1970–1980), back when anchovy was fished
+  more than sardine — no relative time carried.
+- **Mustad 94151** — the **No. 2** sardine hook, dated to when sardines "came
+  back into play."
+- Framed as something that belonged in every tackle box then and "still
+  should" — a durability claim, not a mechanism or selection rule; no wire
+  gauge, finish, or rigging detail is given beyond "No. 2" and the two model
+  numbers. Consistent with, and a specific named-model data point for, the
+  bait-sets-the-hook-size doctrine already logged above (anchovy/sardine hook
+  sizing under **Size — bait first, fish second**), but not merged into that
+  table since this source gives no separate sizing logic of its own.
 
 ## Related
 
