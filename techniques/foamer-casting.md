@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -197,6 +197,40 @@ confidence over a bare top-shot connection to the lure, he'll add a short
 ~2 ft, 150–200 lb bite leader (see
 [bluefin bite leaders](../rigging/bite-leaders.md)) — his framing: a
 confidence add, not a requirement.
+
+## Getting bit on a tough foamer (Billy, Fisherman's Landing Tackle Shop, via SearcherSportfishing, "Tackle Tip Thursday Vol. 191 (Get Bluefin to Bite in a Foamer)," `AodUBhxPts8`, 2022-07-28; unregistered channel — medium confidence)
+
+The **four most popular lures** anglers were throwing at bluefin foamers as of
+this video: a popper (a Halco Haymaker — captioned "helco... haymaker,"
+asr-uncertain but consistent with the Halco brand already flagged uncertain
+under the [Rooster Popper 135/160
+entry](../lures/tuna-poppers-and-stickbaits.md#rooster-popper-135--160-yellowfin-size-pick)),
+a stickbait (Shimano Colt Sniper stickbait), a small metal jig (Daiwa Zakana),
+and a surface iron (model name garbled in captions as "jri4" — not resolved to
+a known model, asr-uncertain, name withheld).
+
+When the bite is tough:
+
+- **Keep trying what you're using first**, especially if you've heard it's
+  been working for others — a slow bite is often **a time-of-day thing, or
+  depends on the school**, not a wrong lure choice.
+- **If someone else on the boat is getting bit on something you're not
+  throwing, switch to that** and approach it with a more finesse-oriented
+  technique:
+  - **Downsize** to a smaller metal jig (e.g., a smaller Daiwa Zakana) —
+    "can work sometimes."
+  - **Switch to a stickbait and dead-stick it** — cast it into the middle,
+    put the reel in gear, and don't work it at all; the bait shimmers on the
+    fall and that draws bites — "works a lot."
+- **Surface irons get bit very frequently on a tough foamer** — throw one in
+  and **wind it real slow** — "gets bit a lot of time."
+
+**Retrieve-speed conflict, not reconciled:** this real-slow-wind surface-iron
+cadence sits against the cast-into-the-foam-then-**burn**-it-back surface-iron
+retrieve already documented above under "Retrieve mechanics" (sardine/small
+mackerel bait) — kept side by side as two attributed, differing reads on
+surface-iron retrieve speed for a bluefin foamer rather than reconciled into
+one rule.
 
 ## Hookup, drag, and the fight (Roman Castro, mWxyjDrcdXM, 2021-07-17; `roman-castro` registered 2026-08-17, single mention — medium confidence)
 

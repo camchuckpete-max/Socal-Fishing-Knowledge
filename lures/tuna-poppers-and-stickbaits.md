@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -61,6 +61,16 @@ name). **Color doctrine: color doesn't matter at these sizes** — the stated
 pick is by size, not finish, which sits alongside (not against) the
 size-over-color framing already logged for the Feed Popper above.
 
+**Corroborating brand data point (Billy, Fisherman's Landing Tackle Shop, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 191," `AodUBhxPts8`,
+2022-07-28; unregistered channel — medium confidence):** a separate
+Searcher Sportfishing tackle-shop segment names a popper heard in the
+captions as "helco... haymaker" — read as **Halco Haymaker**, supporting the
+Halco brand guess already flagged asr-uncertain above, though the model name
+itself ("Haymaker" vs. "Rooster/wrister Popper") doesn't match, so this is
+logged as a separate, corroborating-on-brand-only data point, not merged into
+the entry above.
+
 ### Clear Choice Ghost Popper 150
 **150 mm / 2.1 oz** clear **wire-through** popper — a SoCal bluefin standard.
 Rigging class: because it's wire-through, **crimp 100 lb+ leader** to the
@@ -85,6 +95,15 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+**Dead-stick retrieve for a tough foamer (Billy, Fisherman's Landing Tackle
+Shop, via SearcherSportfishing, "Tackle Tip Thursday Vol. 191," `AodUBhxPts8`,
+2022-07-28; unregistered channel — medium confidence):** when a foamer is
+tough to get bit, switching to a stickbait (a Colt Sniper is the example
+given) and **dead-sticking** it — cast it into the middle, put the reel in
+gear, and don't work it at all — draws bites on the shimmer as it falls,
+stated to work "a lot." See [foamer casting](../techniques/foamer-casting.md)
+for the fuller tough-bite troubleshooting sequence this fits into.
 
 **Observed — daytime bluefin, cast-and-work-the-column retrieve
 (StokedOnFishing, `QSvzVHW9UMk`, 2025-02-12, Cortez Bank, SoCal, aboard the
