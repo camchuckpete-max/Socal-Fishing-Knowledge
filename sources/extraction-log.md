@@ -2090,7 +2090,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | J7nreDb1dn8 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md / added Colt Sniper stock hook/split-ring upgrade spec and three-retrieve rundown from Fisherman's Landing Tackle Shop segment, cross-linked to foamer-casting.md's existing let-it-sink retrieve |
 | JHMCguO7sXE | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; species/wahoo.md - spinning-vs-conventional popper rationale, Penn Slammer 3 spec (promotional flag), leader spec, wahoo wire-leader conflict cross-link |
 | JOanxql39qg | SearcherSportfishing | tutorial | deep | done | none - skipped: promotional dockside fish-processing service ad, no fishing knowledge content |
-| KGrussv1s3U | SearcherSportfishing | tutorial | deep | pending |  |
+| KGrussv1s3U | SearcherSportfishing | tutorial | deep | done | rigging/bite-leaders.md - corroborating flat-fall leader build (24in/200lb/size-1 crimp, decision-rationale on chafe-resistance) merged as medium-confidence sub-entry alongside existing Vol.28 entry |
 | KHYoj9GEjCM | SearcherSportfishing | tutorial | deep | pending |  |
 | KLmNyflzsQ0 | SearcherSportfishing | tutorial | deep | pending |  |
 | KYE14piJAzI | SearcherSportfishing | tutorial | deep | pending |  |

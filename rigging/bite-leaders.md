@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, bite-leader, crimping, knife-jig, fluorocarbon, leader]
-sources: [kO_BqzUYayc, j37zxs33gws, 42A8Owhc8fw, 6wbO7qaU3sI]
+sources: [kO_BqzUYayc, j37zxs33gws, 42A8Owhc8fw, 6wbO7qaU3sI, KGrussv1s3U]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -74,6 +74,28 @@ system between the braid main line and the lure.
     firm-handshake press per side (two presses total per crimp) — matches the
     general build order and pressure in [crimping](crimping.md). No pound-test
     or crimp-sleeve size stated on camera.
+  - **Earlier flat-fall build, same channel, states the pound-test and
+    crimp size the Vol. 28 build above omits (tackle-shop demo via
+    SearcherSportfishing, "Tackle Tip Thursday Vol. 14," `KGrussv1s3U`,
+    2018-09-26; unregistered channel, speaker not named on camera — medium
+    confidence):** cut a **24 in** section of **200 lb fluorocarbon** (a brand
+    name is spoken on camera but renders unrecognizably in captions —
+    `asr-uncertain`) for a [flat-fall-class jig](../lures/knife-jigs.md)
+    leader — stated reasoning: flat-falls tend to get eaten on the sink, so
+    the lure (and leader) is well down in the water and a heavy,
+    chafe-resistant leader matters more than on a lure fished shallow. Build
+    order: slide a **size 1 crimp sleeve** onto the leader, add a short piece
+    of chafe/chafing gear, pass the tag end through the flat-fall's ring, then
+    back up through the other side of the crimp sleeve to close the loop;
+    burn the tag end with a lighter to melt a mushroomed ball too large to
+    pull back through the sleeve — the same ball-the-tag-end mechanic
+    [crimping](crimping.md) describes; crimp, leaving roughly **1/8 in** of
+    sleeve showing (flared, uncrimped) on each end, matching the flared-ends
+    practice `crimping.md` logs as "a couple of millimeters." This clip only
+    shows the jig-end loop, not how the leader's other end joins the main
+    line, so it isn't reconciled with the swivel-top/split-ring-bottom build
+    logged just above — this direct loop goes straight through the flat-fall's
+    own ring with no split ring mentioned.
 - **Failure modes:** leader too long to wind (swivel jams at the tip); crimp
   mismatched to leader diameter; over-crimped fluoro; too little tag through the
   crimp; connecting through a weak split ring on a big-fish jig.
