@@ -2123,7 +2123,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | TgOMUXxIQl4 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; tackle/rod-and-reel-selection.md / Steve Carson dockside tip merged as corroborating spinning-reel spec + leader-by-lure-type doctrine into existing popper/stickbait casting-gear section |
 | Ud3hi9r1Nr4 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; techniques/foamer-casting.md; techniques/skip-jigging.md / 2018-07 Searcher fleet report on Colt Sniper/P-Line Laser Minnow bluefin retrieves, merged as corroborating data, skip-jigging bumped medium->high |
 | UfuQr6gOIk8 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added fourth same-channel surgeon's-knot corroborating clip (3-turn count) plus trim-judgment caution cross-linked to Albright knot |
-| UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | pending |  |
+| UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | done | none / skipped - dockside 'red shirt' crew logistics/tipping etiquette, no fishing knowledge content; evaluator filled in dangling extraction-log row |
 | UyfcYoNV2sg | SearcherSportfishing | tutorial | deep | pending |  |
 | VW2t_G8eorI | SearcherSportfishing | tutorial | deep | pending |  |
 | VcJManCizRE | SearcherSportfishing | tutorial | deep | pending |  |
