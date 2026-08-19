@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0]
 confidence: medium
 ---
 
@@ -88,6 +88,29 @@ going out every week:
 - Run a **Q-tip around each guide.** If the cotton snags and pulls fibers —
   especially on a ceramic insert — that flags a **nick or crack**; get that guide
   replaced or serviced before it starts cutting line.
+
+### Pre-season rod inspection — reel seat, guides, and tip (Norm Fujimoto, via SearcherSportfishing, "Tackle Tip Thursday Vol. 139 (Guide and rod care)," `HH1YvOfMWx0`, 2021-03-11; unregistered channel, single mention — medium confidence; the presenter's stated affiliation is captioned "eiserline," same unresolved ASR issue already flagged above for Vol. 171 — `asr-uncertain`, not carried as a company name)
+
+A short pre-season, rod-by-rod inspection routine, framed around the stakes:
+a nicked or frayed line from a rod defect is how you **lose the fish of a
+lifetime.**
+
+- **Reel seat threads.** Check that the threads are clean and lubricated so
+  the locking nut/hood moves freely — this is what lets the seat cinch down
+  and hold the reel securely in place. Distinct from the guide/insert checks
+  below; do this first.
+- **Guide inserts — feel for nicks or chips.** Beyond the Q-tip test above,
+  also run a **fingertip** around each insert to feel for irregularities the
+  cotton might miss.
+- **Weld points on the guide frames.** Check where each guide is wrapped/welded
+  to the blank to make sure none have **come loose** — a loose guide foot is a
+  separate failure mode from a chipped insert and needs its own check.
+- **Check the tip guide specifically**, not just the running guides — it takes
+  the same nick/chip and looseness checks as the rest.
+- **Do this pass on every rod before the season**, not just the ones that felt
+  off last time out — the source frames it as routine prep, and the presenter's
+  own inspection caught a chipped guide he had to replace before it could fray
+  his line.
 
 ## Hooks and jigs — when to toss, rinse, or re-hook
 

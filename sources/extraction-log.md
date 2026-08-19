@@ -2081,7 +2081,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | GXXvT7pS2fM | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md: added medium-confidence JRI Stinger/Salas 7X/Tady 45 lightweight-combo data point with 9-10ft rod corroboration |
 | GcgcnloKeZ4 | SearcherSportfishing | tutorial | deep | done | nothing extractable: auto-caption ASR too garbled to support any verifiable claim (retractable sonar dome transducer topic, no reliable parameters) |
 | H5NHGLm1H5U | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md: added independent earlier-dated (2019-05-30) corroboration of improved-clinch/San Diego jam tie (Dave Hansen entry), hook-size flagged asr-uncertain |
-| HH1YvOfMWx0 | SearcherSportfishing | tutorial | deep | pending |  |
+| HH1YvOfMWx0 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md: added pre-season rod inspection subsection (reel-seat threads, guide-insert fingertip check, weld points, tip check) |
 | ILA6OMInWSM | SearcherSportfishing | tutorial | deep | pending |  |
 | IaVqJgUfcM8 | SearcherSportfishing | tutorial | deep | pending |  |
 | Ixyi1mY3Qeg | SearcherSportfishing | tutorial | deep | pending |  |
