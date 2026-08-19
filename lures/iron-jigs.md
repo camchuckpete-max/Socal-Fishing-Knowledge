@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -80,6 +80,28 @@ the iron sinks and how it holds in current:
   **Salas 7X**. Predates the `1uYIApdQQSM` corroboration above by nearly two
   years, pushing this three-jig pairing's earliest dated occurrence in this
   corpus back to 2018.
+
+**Diamond jig — a distinct heavy chrome yo-yo-class shape (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 109 (Diamond Lure)," `XTsTpWnk1gU`, 2020-07-23;
+`searcher-sportfishing` registered channel — **low confidence: a named
+product/model pick, capped per this channel's registry sponsored-claim
+caveat**):** a diamond-shaped, shiny chrome jig (the video
+title names it a "diamond lure"; captions render the name "diamantina," an
+ASR corruption not carried, per the human-typed-title-wins rule) grouped on
+camera with the other heavy chrome yo-yo lures — **Salas 6X Jr.** and similar
+— and fished the same way: free-spool it down, crank it back up. Stated
+observation: it **darts on the drop**, a distinct fall action he calls out as
+a thing he likes about it; bites come "on the sink a lot" and on the wind-up
+as well — consistent with, and a further data point for, the drop-and-wind-up
+bite pattern already documented in [yo-yo iron](../techniques/yo-yo-iron.md).
+The jig shown was roughly **10 oz**, which he ties directly to depth — its
+fast sink is what he says makes it work "when the fish are ... 50, 60
+fathoms" down (**bluefin**, roughly **300–360 ft**). Deeper than this note's
+usual yo-yo-iron citations (mostly 120–240 ft) and the [bluefin
+tuna](../species/bluefin-tuna.md) knife-jig row's 30–50 fm sounded-school
+scenario — kept side by side, not reconciled, since this video names the
+diamond jig specifically (not a knife/flat-fall jig) for the deeper band. No
+color given.
 
 Model benchmarks beyond any one box: **Tady 45 / 4/0**, **Salas 6X / 7X / 6X Jr.
 / CP 105**, **JRI** CNC irons (incl. the **JRI Stinger** — a Cedros/Baja

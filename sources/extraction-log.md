@@ -2132,7 +2132,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | W6RuHvaqkHs | SearcherSportfishing | tutorial | deep | done | techniques/wahoo-bomb-casting.md and rigging/haywire-twist.md merged three rod/reel/leader gear-class data points, medium confidence |
 | WxlDxFjB8oQ | SearcherSportfishing | tutorial | deep | done | species/yellowfin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md / Added Guadalupe-Island line-shy medium-grade tuna finesse rig (Gary Gillingham/Accurate, sponsored segment) as a third, separate data point cross-referenced with existing Vol.189/Vol.72 entries, correctly confidence-split (mechanism medium, product picks low) per registry's sponsored-claim caveat |
 | X1zAA4DLOr0 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Added 'Reel bags' entry (Wes/SearcherSportfishing) to existing rinse-discipline note; evaluator fixed an invented rationale (extractor had attributed the stick jacket's stated protection reasoning to the reel-bag claim, which transcript never gives) |
-| XTsTpWnk1gU | SearcherSportfishing | tutorial | deep | pending |  |
+| XTsTpWnk1gU | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / Diamond jig (SearcherSportfishing) added as a distinct heavy chrome yo-yo shape, darts on drop, ~10oz, fished 50-60fm for bluefin; evaluator corrected confidence medium to low per channel product-endorsement cap |
 | Y2XZ34-Tpa0 | SearcherSportfishing | tutorial | deep | pending |  |
 | YJX-hYEIcNM | SearcherSportfishing | tutorial | deep | pending |  |
 | Y_ElKixrhsc | SearcherSportfishing | tutorial | deep | pending |  |
