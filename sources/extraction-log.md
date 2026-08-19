@@ -2083,7 +2083,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | H5NHGLm1H5U | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md: added independent earlier-dated (2019-05-30) corroboration of improved-clinch/San Diego jam tie (Dave Hansen entry), hook-size flagged asr-uncertain |
 | HH1YvOfMWx0 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md: added pre-season rod inspection subsection (reel-seat threads, guide-insert fingertip check, weld points, tip check) |
 | ILA6OMInWSM | SearcherSportfishing | tutorial | deep | done | planning/report-reading-and-forecasting.md: added plunker-style report-vocabulary section, cross-linked to techniques/flyline.md |
-| IaVqJgUfcM8 | SearcherSportfishing | tutorial | deep | pending |  |
+| IaVqJgUfcM8 | SearcherSportfishing | tutorial | deep | done | rigging/slim-beauty-knot.md / merged Vol.175 (rope demo) into existing slim-beauty-knot.md: 2nd source in front matter, wrap-count-scales-with-pound-test rule, rope-vs-Spectra thickness caveat on turn counts, and the stated reason (avoids back-to-back-uni tag-end catching in guides on a cast) to prefer this knot; second how-to link added |
 | Ixyi1mY3Qeg | SearcherSportfishing | tutorial | deep | pending |  |
 | J0NJhN6-Thg | SearcherSportfishing | tutorial | deep | pending |  |
 | J3FGJj5zYPE | SearcherSportfishing | tutorial | deep | pending |  |
