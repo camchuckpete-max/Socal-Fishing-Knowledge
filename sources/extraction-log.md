@@ -2120,7 +2120,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | SCQnyVEQfHY | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; lures/tuna-feathers-and-skirts.md; tackle/hooks.md / Tackle Tip Thursday Vol.100 test-of-time segment merged three low-confidence product/model data points (Salas 6X/6X Jr. dating, Zuker Zucchini feather, Mustad 94150/94151) |
 | Stw7SNyIgdg | SearcherSportfishing | tutorial | deep | done | none / skipped: promotional apparel content (sun gloves/buffs/hats), no SoCal/Baja fishing decision knowledge, generic what-to-bring content excluded by curation bar |
 | TU5quAG4atM | SearcherSportfishing | tutorial | deep | done | techniques/dart-jig-tuna.md; lures/iron-jigs.md; rigging/essential-knots.md; species/bluefin-tuna.md; species/yellowfin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md / new technique note (Dart/Colt-Sniper daytime finesse tuna jigging) plus corroborating additions to knots/hooks/rig-ladder/species routers; evaluator fixed fabricated term, unsupported reel spec, rubric-laundered confidence upgrade, missing sources id |
-| TgOMUXxIQl4 | SearcherSportfishing | tutorial | deep | pending |  |
+| TgOMUXxIQl4 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; tackle/rod-and-reel-selection.md / Steve Carson dockside tip merged as corroborating spinning-reel spec + leader-by-lure-type doctrine into existing popper/stickbait casting-gear section |
 | Ud3hi9r1Nr4 | SearcherSportfishing | tutorial | deep | pending |  |
 | UfuQr6gOIk8 | SearcherSportfishing | tutorial | deep | pending |  |
 | UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | pending |  |

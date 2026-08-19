@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4]
 confidence: medium
 ---
 
@@ -322,6 +322,22 @@ several other companies make comparable reels at the same price points):
   ~50 lb) on a **20–25, up to 30-size** star-drag reel — this spinning-reel
   criteria is specifically for the heavier, 100 lb-class end of the same
   casting application.
+
+**Corroborating spec, dockside tip (Steve Carson, SearcherSportfishing, "Tackle
+Tip Thursday Vol. 185," `TgOMUXxIQl4`, 2022-06-09; `searcher-sportfishing`
+registered channel — medium confidence, single mention on this specific
+channel; the reel/line pairings below are product placements, low confidence
+per the channel's sponsored-claim caveat):** the same all-metal-body /
+all-metal-rotor / drag-top-and-bottom-of-spool spec as the panel above, with
+one added spec called out on camera — **machine-cut gears** — and framed the
+same way: built for average/school-grade tuna on stick baits and poppers, not
+a 100 lb-class fish. Two worked examples, lightest to heaviest: a **6500-size**
+spinning reel loaded with **400 yd of 50 lb braid** for average-grade tuna,
+stepping up to a **7500-size** reel with **400 yd of 65 lb braid** when 50–70 lb
+fish are around and biting on top — still capped short of "100 pounders." Full
+leader-by-lure-type detail (short/heavy for poppers, longer/lighter for stick
+baits, and why) lives in [tuna poppers and
+stickbaits](../lures/tuna-poppers-and-stickbaits.md#casting-gear-for-poppers-and-burn-baits).
 
 ## Baja cabrilla jerkbait setup (Cesar, EmZO8QiOfik)
 
@@ -815,6 +831,7 @@ a bluefin).
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

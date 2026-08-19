@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -487,6 +487,14 @@ throw immediately without having to think about backspins, backlashes, or
 clearing a bird's nest first. A second, non-conflicting reason for the same
 spinning-over-conventional pick, not a competing rationale.
 
+**Reel-buying criteria and leader-by-lure-type — Steve Carson, SearcherSportfishing ("Tackle Tip Thursday Vol. 185," `TgOMUXxIQl4`, 2022-06-09; `searcher-sportfishing` registered channel — mechanism/leader doctrine medium confidence, single mention on this specific point; the reel models named below are product placements, low confidence per the channel's sponsored-claim caveat):** filmed dockside in San Diego, framed for anyone fishing a spinning reel for stick baits/poppers off the Searcher or any San Diego fleet boat.
+
+- **Spinning-reel spec checklist**, corroborating the [PCS Show panel criteria](../tackle/rod-and-reel-selection.md#spinning-reel-buying-criteria-for-casting-to-100-lb-class-tuna-steve-carson-panel-pcs-show-2024) with one added spec: **all-metal body**, **all-metal rotor**, **machine-cut gears**, and **drag elements on both the top and bottom of the spool** (not just one side). Stated framing: gear built to this spec isn't for landing a 100 lb-class tuna, but it's plenty for "average size" (school-grade) tuna on stick baits and poppers — "there's a reason they call average size tuna average, because it's what you're going to catch on average."
+- **Two of his own outfits, by grade (product placements — low confidence):** a reel captioned "pen a40" (**asr-uncertain** — the transcript never confirms this model, though the second reel below is explicitly named "Penn Authority," so this is plausibly the same line in a smaller size) in **6500 size**, loaded with **400 yd of 50 lb test braid**, fished for average/school-size tuna on stick baits and poppers such as a Rapala Long Cast jerkbait; and, for a heavier setup, a **Penn Authority 7500 size** loaded with **400 yd of 65 lb test braid** — stated as capable of landing **50, 60, 70 lb fish** if they come up and bite on top, though still not framed as gear for a 100-pounder.
+- **Leader — short and heavy for a popper, longer and lighter for a stick bait:** on poppers he runs a **very short leader, 100 lb test, sometimes stepped up to 130 lb** — braid or fluorocarbon, stated as not mattering which, and color doesn't matter either (the fish don't care). **Mechanism for keeping it short:** the leader/main-line knot has to stay outside the rod tip when casting — a knot getting dragged into the tip-top on the cast is called out as a common, avoidable mistake, attributed on camera to Searcher's Capt. Art ("captain Art will always tell you... and trust me art will remind you if you forget"). On a stick bait, he goes **longer and lighter instead** — **3–4 ft instead of 2 ft**, and **60 lb test instead of 100 lb** — reasoned as giving the stick bait room to move naturally in the water; a leader that's too short/heavy for this lure type dampens its action.
+- **Stick bait vs. popper, chosen day to day, not by a fixed rule:** a stick bait (no lip, pointed nose) swims and slides quietly and naturally like a real baitfish; a popper (concave/cupped nose) throws a big splash. Which one the fish want changes trip to trip — his stated approach is to have both rigged and try both rather than predict in advance ("what are they going to want on the day that you go out — I don't know, that's why it's fishing"). **Color doctrine:** on topwater generally, "the color is not that important" — the amount of noise/commotion the lure makes matters more than its finish, corroborating the size/shine-over-color framing already logged above (Rooster Popper, Lead Master Sniper) with a noise-over-color framing specifically.
+- **Hookless popper for continued sport once limited out:** a personal trick — fish a popper with the hooks removed once he's already got his limit (or enough fish) and the bite is still on. Fish still attack and hold onto it "like a bulldog holding onto a bone" for 15–30 seconds; it won't land fish, but keeps the bite going without adding to the box.
+
 ## How to fish it
 
 All fished [foamer casting](../techniques/foamer-casting.md): run at working
@@ -542,6 +550,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Wahoo](../species/wahoo.md)
