@@ -15,7 +15,9 @@ class shorthand (jig-stick class, 40–60 lb class, etc.) and its profile lookup
 live in [gear classes](gear-classes.md); a full worked quiver is
 [Cameron's 8 setups](../profiles/cameron/rods.md). For the trolling-specific
 rod↔lure decision, use the **4-factor framework** in
-[trolling](../techniques/trolling.md).
+[trolling](../techniques/trolling.md). Application sets the class, but the
+angler's own reach and build can move the pick within that class — see
+[rod length for angler size](rod-length-for-angler-size.md).
 
 ## How the pieces map — application to rod power to reel
 
@@ -758,6 +760,7 @@ a bluefin).
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
