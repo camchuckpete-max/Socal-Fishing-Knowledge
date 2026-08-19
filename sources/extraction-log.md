@@ -2125,7 +2125,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | UfuQr6gOIk8 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added fourth same-channel surgeon's-knot corroborating clip (3-turn count) plus trim-judgment caution cross-linked to Albright knot |
 | UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | done | none / skipped - dockside 'red shirt' crew logistics/tipping etiquette, no fishing knowledge content; evaluator filled in dangling extraction-log row |
 | UyfcYoNV2sg | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / added post-trip breakdown routine (unmount, upright drainage, corrosion-inhibitor spray) attributed to Vince/Fisherman's Landing; evaluator softened an over-asserted unstated reason |
-| VW2t_G8eorI | SearcherSportfishing | tutorial | deep | pending |  |
+| VW2t_G8eorI | SearcherSportfishing | tutorial | deep | done | rigging/springer-knot.md merged Pete Gray Vol. 137 as second corroborating demo, confidence raised to high |
 | VcJManCizRE | SearcherSportfishing | tutorial | deep | pending |  |
 | VxHYxXmPoWQ | SearcherSportfishing | tutorial | deep | pending |  |
 | VyFpIk-Na9Q | SearcherSportfishing | tutorial | deep | pending |  |

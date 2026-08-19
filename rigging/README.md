@@ -20,7 +20,7 @@
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md) **[SoCal only]** — A connection knot purpose-built to join monofilament to fluorocarbon — not braid to fluoro, which is the RP knot's job.
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md) **[SoCal only]** — A tapered connection knot joining spectra (braid main line, to the reel) to a monofilament/fluorocarbon top shot, demonstrated by Wendy of SearcherSportfishing
-- [Springer Knot — Heavy-Line Hook Tie](springer-knot.md) **[SoCal only]** — A named terminal knot for tying a hook onto heavier line, demonstrated by Billy at Fisherman's Landing Tackle Shop for the *Searcher*'s Tackle Tip Thursday seri
+- [Springer Knot — Heavy-Line Hook Tie](springer-knot.md) **[SoCal only]** — A named terminal knot for tying a hook onto heavier line, demonstrated twice in the *Searcher*'s Tackle Tip Thursday series: by Billy at Fisherman's Landing Tac
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md) **[SoCal only]** — A heavy-wrap connection knot for splicing monofilament to spectra (braid), demonstrated by Capt.
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
