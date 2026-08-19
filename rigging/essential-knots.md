@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -42,7 +42,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
 - **Seaguar knot (connection)** — purpose-built to join **monofilament to
   fluorocarbon** (not braid to fluoro — that's the RP knot's job above). The
   go-to for building a mono-main-line-to-fluoro-bite-guard [flyline](../techniques/flyline.md)
-  rig; see the sizing logic there.
+  rig; see the sizing logic there. Five sources describing several
+  same-name/different-mechanic variants of this tie are kept as their own
+  note: [Seaguar Knot](seaguar-knot.md).
 - **Loop knot (terminal)** — ties a hook **without a solid ring** in its eye,
   when you don't have (or don't want) a ringed hook.
 - **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
@@ -312,100 +314,12 @@ fluoro leader, braid main line — and feed the terminal rigs in
   elsewhere in this note for wrap counts (e.g. the RP knot's 6-vs-8-vs-10 and
   the San Diego jam's 5-vs-6-vs-7), kept side by side rather than reconciled
   to one number.
-- **Seaguar knot (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE,
-  2023-11-01; `medium` confidence — Cesar is a registered voice for
-  mechanism/parameter doctrine, but this is a single mention: this is the only
-  Cesar video extracted so far that covers this knot, so it isn't yet repeated
-  doctrine; would reach `high` if corroborated in another of his logged,
-  still-pending videos):** lay the mono tag and the ~3 ft fluoro tag running in
-  **opposite directions** from each other, hold the two lines together, and
-  lubricate the section you're about to work (a smear of chapstick — leave the
-  part you're gripping dry so it doesn't slip in your hands). Cross the working
-  end away from you, pinch the crossover, and feed the tag back through the
-  loop it just formed, going the **same direction the loop was made**, for
-  **two and a half turns** ("One, two, and a half turns" per the transcript) —
-  this is the part that makes it a distinct knot from a uni or surgeon's; it
-  isn't a simple overhand or a wrap-and-jam. Bring
-  the tag through, seat it, then pull the two main lines and the two tags down
-  to cinch. Rated by the presenter as very strong under hard pulling (tested by
-  hand on camera) and, in his stated preference, superseding both the uni-to-uni
-  (his prior go-to for ~4 years) and the surgeon's knot (his more recent
-  ~1.5-year go-to) as the fastest and strongest mono-to-fluoro connection he's
-  tied. **Judgment:** built specifically as a **bite-guard connection** — see
-  [flyline](../techniques/flyline.md) for the line-sizing logic it serves;
-  it is not documented here as a general leader-to-main-line knot for braid
-  systems (use the RP knot above for that).
-- **A second, separate mono-to-fluoro connection knot (StokedOnFishing,
-  `06lxuie5cZQ`, 2018-11-14; unregistered channel — `medium` confidence):**
-  the on-camera audio for this one is too garbled to confirm a name, so it is
-  **not** assumed to be the Seaguar knot above — treat as a distinct tie
-  until corroborated. Paraphrased mechanic (wrap counts ASR-uncertain, read
-  as approximate rather than exact): form a loop backward in the working
-  end, pass fingers through it to grab the working line, wrap it back
-  several times, draw everything through snug, then finish by working the
-  tag through a figure-eight pass before cinching. **Judgment — trimming the
-  tag, general to any knot:** clip the tag close with a clamp/nail-clipper-
-  type tool rather than biting it off with your teeth — biting can nick and
-  weaken the line. As an alternative to a flush trim, leave a small loop in
-  the tag end instead of cutting it fully off; looped over a line
-  keeper/tackle-organizer clip it has no effect on the main connection's
-  strength. **Flag:** wrap counts throughout this clip are ASR-uncertain
-  ("go one, three... three, pull back" in the transcript), and the product
-  name for the tag-loop keeper is also ASR-garbled and not carried; no
-  SoCal-specific parameters (line class, species, region) are given in this
-  clip.
-- **A third StokedOnFishing mono-to-fluoro tie, this one explicitly named on
-  camera (StokedOnFishing, `tzeXXPAjqUY`, 2020-02-05; unregistered channel —
-  `medium` confidence):** a much shorter, later clip from the same channel as
-  the unnamed tie directly above, this time stating outright "this is called
-  the Seaguar knot" for a mono-mainline-to-fluoro-leader connection.
-  Paraphrased mechanic: lay the mono main line and the fluoro leader together
-  in parallel, grab the pair at the midpoint, form a loop, and wrap the loop
-  back around itself (wrap count ASR-uncertain — "three times, four times" in
-  the transcript, read as approximate rather than exact); reach through the
-  loop, grab the fluoro leader and its own tag end together, and draw them
-  through — the presenter describes the result as "almost like a figure
-  eight" — then pull the main line and fluoro together to cinch. **Flag —
-  same name, different mechanic than the Seaguar knot documented above:**
-  this parallel-lay, midpoint-loop, wrap-back-and-draw-through construction
-  does not match the opposite-direction-tag-ends, two-and-a-half-turn
-  mechanic Cesar names as the Seaguar knot in `48ZFXnCTTQE` above — two
-  sources naming mechanically distinct ties the same thing, the inverse of
-  the San Diego jam / fisherman's knot split logged in [Improved Clinch
-  Knot](improved-clinch-knot.md) (one mechanic, two names). Kept side by
-  side under the shared name rather than reconciled. **Flag —
-  possible same tie as the unnamed StokedOnFishing knot above:** the
-  loop/wrap-back/figure-eight-draw-through shape here reads similar to the
-  unnamed `06lxuie5cZQ` tie logged above (same channel, different upload
-  date, neither a re-cut of the other), raising the possibility that clip is
-  also a Seaguar knot despite its garbled audio — kept as a flagged
-  possibility rather than merged or asserted, since neither clip's wrap count
-  is confirmed exactly enough to compare mechanically. Confidence stays
-  `medium` (single mention of this specific named tie; unregistered channel;
-  same-channel repetition doesn't independently corroborate per the
-  re-cut/duplication rule).
-- **A fourth StokedOnFishing mono-to-fluoro tie, the earliest-dated of this
-  group (StokedOnFishing, `i3qIAHW-SJc`, 2016-08-08, "Top Gun 80 Epic 5 Day,
-  part 2"; unregistered channel — `medium` confidence):** framed on camera as
-  a cost-saving move — leader material is expensive, so leave about **a
-  foot** of monofilament above the connection point before pinching in the
-  fluorocarbon, "cuz that's the expensive stuff." Paraphrased mechanic (wrap
-  count ASR-uncertain — "one two three" in the transcript, read as
-  approximate): form a loop backward in the working end, pass fingers through
-  the loop to grab the line, wrap the tag back around it a few times, then
-  pull it back through and cinch — the presenter names the resulting shape a
-  "figure eight." **Flag — third same-channel StokedOnFishing mono-to-fluoro
-  tie logged in this note, all sharing a loop/wrap-back/figure-eight
-  description:** this one, the unnamed `06lxuie5cZQ` tie (2018-11-14), and the
-  explicitly-named Seaguar-knot tie in `tzeXXPAjqUY` (2020-02-05) above all
-  describe a similar loop-then-wrap-then-figure-eight shape, but this 2016
-  clip predates both, doesn't name the knot on camera, and its own wrap count
-  isn't confirmed exactly enough to compare mechanically — kept as a third,
-  unresolved data point in the same family rather than merged into either.
-  No SoCal-specific parameters (line class, species, region) beyond the
-  "about a foot" spacing are given in this clip. A second technique from the
-  same clip — hanging a sinker off this knot's tag end — is logged in
-  [rubber-band deep rig](rubber-band-deep-rig.md#tag-end-sinker-attachment-off-the-mono-to-fluoro-knot-stokedonfishing).
+- **Seaguar knot (connection)** — a purpose-built mono-to-fluoro bite-guard
+  connection with five sourced variants (Cesar/Eric's Tackle and three
+  StokedOnFishing clips, plus a fifth from SearcherSportfishing) that do not
+  all share one mechanic under the shared name — kept as its own note per the
+  process rule to prefer a specific note over growing this one further:
+  [Seaguar Knot](seaguar-knot.md).
 - **Loop knot, non-ringed hook (Cesar, Eric's Tackle, via Dirty Hookers,
   48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, single
   mention):** an
@@ -514,15 +428,14 @@ mistake.
 How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0),
 [three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
 [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
-[Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
+[Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE)
+(loop knot portion; see [Seaguar Knot](seaguar-knot.md) for the Seaguar-knot
+portion of this video and four other mono-to-fluoro connection clips),
 [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
-[mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
-[Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
 [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
-[mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc),
 [surgeon's knot, mono-fluorocarbon connection](https://www.youtube.com/watch?v=LpReZmYQSCU),
 [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
 [single-pass San Diego jam knot, 5-wrap demo](https://www.youtube.com/watch?v=AGaVlYu61O4),
@@ -543,6 +456,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
+- [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

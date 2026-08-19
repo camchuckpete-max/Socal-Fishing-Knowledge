@@ -227,7 +227,7 @@ isn't yet repeated doctrine).
   parts light leaders, not the fluoro being "too light" for the fish.
 - **The fix — a mono top shot + short heavy fluoro bite guard:** run **25 lb
   monofilament** main/top-shot line to a **50 lb fluorocarbon** section about
-  **2–3 ft long**, joined with the [Seaguar knot](../rigging/essential-knots.md).
+  **2–3 ft long**, joined with the [Seaguar knot](../rigging/seaguar-knot.md).
   The 25 lb mono is what's actually pulling through the water (so the bait
   swims like it's on 25 lb), while the short 50 lb fluoro section rides inside
   the fish's mouth, along the gill plates and teeth — the "bite guard" that
@@ -740,6 +740,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](../rigging/seaguar-knot.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

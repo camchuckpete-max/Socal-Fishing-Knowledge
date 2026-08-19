@@ -211,4 +211,5 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
+- [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
 <!-- backlinks:end -->
