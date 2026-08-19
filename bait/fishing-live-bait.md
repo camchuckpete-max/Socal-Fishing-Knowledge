@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -45,6 +45,15 @@ mackerel, sardine, and anchovy alike (SluBXkT3cuw).
 On a butt/belly hook, hold the **two rear fins together and go right under the
 "carnage"** if you set the hook too deep — that keeps a clean, swimming bait
 (8YvmROeVL-0).
+
+**Nose hook doubles as a bite-getter on the retrieve** (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 101," `MuC0uGKDzxg`, 2020-05-28; unregistered
+channel — medium confidence): named as the primary sardine hook position for
+[yellowtail](../species/yellowtail.md). Stated reason to keep nose-hooking
+even a bait you're about to swap out: after a bait's been out roughly **two
+or three minutes**, winding it in to put a fresh one on still draws bites,
+because a nose-hooked bait looks natural coming in on the retrieve — a
+chance at a fish on top of whatever bite it draws while soaking.
 
 **Observed** (StokedOnFishing, trip fished summer 2017 (exact month not
 stated, per on-camera "this past summer"), San Clemente Island, SoCal —
@@ -289,6 +298,17 @@ and hooking bait straight from the tank by hand:
 Both positions: let go of the bait immediately once it's hooked, for the same
 scale-preservation reason above.
 
+**Same channel, a different tip — hold the leash, not the bait**
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 101," `MuC0uGKDzxg`,
+2020-05-28; unregistered channel — medium confidence): once a bait is hooked
+at the tank, **let go of it right away** rather than carrying it in hand to
+the rail — stated reason: scales already on an angler's hands from earlier
+baits rub off onto this one and take life out of it. Instead, hold the
+**line itself, about 12 to 18 inches above the bait**, and walk it — still
+swimming on its own "leash" — to whichever side of the boat you're fishing.
+Same let-go-immediately doctrine as Vol. 128 above, with the added detail of
+how to carry a hooked bait across the deck without gripping it.
+
 ## Bait selection is king
 
 **Roughly 90% of live-bait success is bait selection** (SluBXkT3cuw):
@@ -303,6 +323,13 @@ scale-preservation reason above.
   same silver color from above.
 - Cull the **easy-to-catch, bloody, scaly, lethargic** baits into the **chum
   bucket** or over the side — don't fish them (raUPkuaFXpw, SluBXkT3cuw).
+- **Diagnostic sign for a weak sardine specifically** (SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 101," `MuC0uGKDzxg`, 2020-05-28; unregistered
+  channel — medium confidence): a good sardine shows a **dark back and silver
+  side** with scales intact. Once a sardine has shed scales and gone weak,
+  **red spots appear on its sides** — that's the bait to throw over the side,
+  not hook. A sign-level corroboration of the cull-the-scaly/bloody-bait rule
+  above, specific to sardines.
 - **60-second rule:** if a bait isn't **pulling line off the reel** shortly after
   it hits the water — swimming away, not sitting by the boat — **wind it in, flick
   it off, and grab a fresh one.** "We're not marrying these baits, we're speed

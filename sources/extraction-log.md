@@ -2098,7 +2098,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | M-W5mEjh1MY | SearcherSportfishing | tutorial | deep | done | rigging/seaguar-knot.md; rigging/essential-knots.md; techniques/flyline.md / new Seaguar-knot source folded into split-out note as 5th data point in loop/figure-eight family; evaluator fixed dropped front-matter source, orphaned how-to links, near-verbatim paraphrase, overclaimed first |
 | MC3FTRRoOag | SearcherSportfishing | tutorial | deep | done | none / promotional tackle-shop pricing segment, no SoCal-specific fishing knowledge — correctly skipped by extractor; evaluator filled in pending extraction-log row |
 | MjPY-nWZJ54 | SearcherSportfishing | tutorial | deep | done | bait/bait-tanks.md / added receiver-side bait-selection routine + Searcher deck-box/well scoop counts as new subsection, medium confidence; evaluator softened one hardened hedge and one unsourced tool definition |
-| MuC0uGKDzxg | SearcherSportfishing | tutorial | deep | pending |  |
+| MuC0uGKDzxg | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md / 3 attributed additions (nose-hook retrieve bite-getter, hold-the-leash carry tip, weak-sardine red-spot diagnostic) merged into existing bait note at medium confidence (unregistered channel), one faithfulness overstatement trimmed |
 | NGtja-dCiC8 | SearcherSportfishing | tutorial | deep | pending |  |
 | NJ9ZLAU3sls | SearcherSportfishing | tutorial | deep | pending |  |
 | NN5MWeRA28o | SearcherSportfishing | tutorial | deep | pending |  |
