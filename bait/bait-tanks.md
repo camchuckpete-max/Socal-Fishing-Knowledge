@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk, ztpj1Xll0-U]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk, ztpj1Xll0-U, MjPY-nWZJ54]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -223,6 +223,44 @@ in [fishing live bait](fishing-live-bait.md#bait-selection-is-king) for
 picking a bait to fish once it's already survived in the tank — kept beside
 it, not merged, since it applies at a different moment (the scoop hitting
 the tank vs. choosing one to hook later).
+
+## Selecting bait at the receiver, and one long-range boat's load quantities (captain R. Taylor, Searcher, MjPY-nWZJ54, 2020-08-13; unregistered channel — medium confidence)
+
+Captain R. Taylor of the long-range boat **Searcher** (San Diego) walks through
+loading bait at the bait receiver, adding a receiver-side selection routine
+ahead of the tank-side tells above, plus a concrete multi-tank scoop count for
+his boat:
+
+- **Ask the receiver attendant which box to draw from** — the attendant's
+  guidance is to take from the box holding the **oldest bait that's already
+  cured out**, at what's named on camera as sounding like "Irvingham Bait
+  Company" (almost certainly **Everingham Bros. Bait Co.**, the San Diego bait
+  receiver operator, given the ASR garble pattern and San Diego setting — not
+  confirmed from the source alone; flagged `asr-uncertain`). Cured, older bait
+  over the freshest catch is the opposite instinct a newcomer might have, and
+  is a receiver-side companion to the "quality of the bait that day" judgment
+  call in "Judging load size at the barge" above.
+- **Check the box before committing to it:** the bait should be **swimming
+  uniformly in a circle** — consistent with the "balls up and swims in a tight
+  circle" good sign already logged in "Visual health tell when the bait is
+  first loaded" above, here applied at the receiver box rather than the boat's
+  own tank.
+- **May stomp on top of the receiver** to test the bait's reaction — on
+  camera as something they "might" do, not every time — lively bait reacts
+  like it's "a little scared." A liveliness/reaction test not previously
+  logged here, distinct from the swim-pattern and scale checks.
+- **Look for bait that's clean, with scales intact** — consistent with the
+  scale-shedding bad sign already logged above.
+- **If the box passes:** crowd the bait up with a **crowder** (the receiver-
+  side tool named on camera; its function isn't explained in this clip, but
+  the next step is netting/scooping the bait out, consistent with a
+  bait-concentrating tool), then scoop it aboard into the boat's tanks.
+- **Load quantities for the Searcher:** roughly **40 scoops per deck box** and
+  **90 scoops in a well below deck** — a specific multi-tank figure for this
+  long-range boat, distinct from the ~20-scoop/360-gallon single-day sportboat
+  example and the ~700-scoop/11-day Intrepid figure already logged above (this
+  video doesn't state the Searcher's trip length, so it isn't placed on that
+  same single-day-vs-multi-day spectrum).
 
 ## Underway: lid off, tap-scoop culling (dave-hansen, L_FD-UzvEio, 2022-02-04)
 

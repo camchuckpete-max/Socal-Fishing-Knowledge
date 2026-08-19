@@ -2097,7 +2097,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | LpReZmYQSCU | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added SearcherSportfishing surgeon's-knot mono-to-fluoro corroborating entry (3-turn) as earliest-dated instance in the group, corrected sibling 5g7pK63hYnc's superseded earliest-data-point claim |
 | M-W5mEjh1MY | SearcherSportfishing | tutorial | deep | done | rigging/seaguar-knot.md; rigging/essential-knots.md; techniques/flyline.md / new Seaguar-knot source folded into split-out note as 5th data point in loop/figure-eight family; evaluator fixed dropped front-matter source, orphaned how-to links, near-verbatim paraphrase, overclaimed first |
 | MC3FTRRoOag | SearcherSportfishing | tutorial | deep | done | none / promotional tackle-shop pricing segment, no SoCal-specific fishing knowledge — correctly skipped by extractor; evaluator filled in pending extraction-log row |
-| MjPY-nWZJ54 | SearcherSportfishing | tutorial | deep | pending |  |
+| MjPY-nWZJ54 | SearcherSportfishing | tutorial | deep | done | bait/bait-tanks.md / added receiver-side bait-selection routine + Searcher deck-box/well scoop counts as new subsection, medium confidence; evaluator softened one hardened hedge and one unsourced tool definition |
 | MuC0uGKDzxg | SearcherSportfishing | tutorial | deep | pending |  |
 | NGtja-dCiC8 | SearcherSportfishing | tutorial | deep | pending |  |
 | NJ9ZLAU3sls | SearcherSportfishing | tutorial | deep | pending |  |
