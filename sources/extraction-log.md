@@ -2111,7 +2111,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | PjLa3oGm4Qg | SearcherSportfishing | tutorial | deep | done | techniques/wahoo-bomb-casting.md / Added Billy's (Fisherman's Landing/Searcher) lure-description, safety-pause, and named-gear data points to the existing wahoo-bomb-casting technique note; fixed one overconfident ASR-derived claim during review |
 | QTWVs5BwQ0g | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; techniques/foamer-casting.md / Added Shimano Orca/Yo-Zuri popper picks (low, sponsored-claim capped), a second non-conflicting reason for spinning-over-conventional tackle (medium), and a spinning-popper point-and-wind/walk-the-dog retrieve mechanic with stage-at-the-bow readiness note (medium) |
 | Qa6Q8mOAV6I | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added Shawn Trowbridge / SearcherSportfishing overlap-around-the-eye caution + cut-short breaking-strength demo as a sub-entry under the San Diego jam knot, corroborating the existing 6-wrap figure |
-| R48YdVFfEOI | SearcherSportfishing | tutorial | deep | pending |  |
+| R48YdVFfEOI | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md / faithful single-mention addition under Circle vs. J, correctly attributed and medium-confidence, no dead links |
 | RM7cBgCDWFA | SearcherSportfishing | tutorial | deep | pending |  |
 | RNRFrfepiW0 | SearcherSportfishing | tutorial | deep | pending |  |
 | Rudzy0DD08w | SearcherSportfishing | tutorial | deep | pending |  |

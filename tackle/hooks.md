@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI]
 confidence: medium
 ---
 
@@ -43,6 +43,21 @@ and why anglers reach for it.
   feel the bite and like to set, a **long-shank J** (e.g. 7/0 for marlin) is
   favored on the theory that the long shank keeps the hook from being sawed off
   and lands more fish (m2q22sPPkEM — one captain's belief, single mention).
+- **Don't swing, beginner framing (Billy, Fisherman's Landing Tackle Shop, via
+  SearcherSportfishing "Tackle Tip Thursday" Vol. 134, R48YdVFfEOI, 2021-01-21;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** aimed at anglers new to the fishery who default to a hard
+  bass-fishing-style swing on the bite. Fly-lining a bait for **tuna or
+  yellowtail**, give a **solid three count** once bit, then come tight — no
+  swing. On a **circle hook** this alone seats it in the corner of the mouth,
+  matching the self-hooking mechanism above. On a **J hook**, Billy still
+  doesn't swing: **raise the rod to about a 45° angle** and wind tight, the
+  same unhurried motion as the circle hook rather than an exaggerated
+  hookset. He frames this as guidance for newer anglers specifically —
+  anglers who already swing and hook fish that way should keep doing what
+  works. Kept side by side with, not reconciled to, the size-based 10-count
+  circle / 3-count-small-J timing Cesar gives below — a different specific
+  claim, not a contradiction.
 - **Why circle for bluefin specifically (Ray Sharifi, RfiC8sfIWTk, 2023-05-04;
   `ray-sharifi` registered, SoCal-capped — medium confidence):** a full-circle, slightly
   **offset** point is described as seating the hook right in the **corner of
