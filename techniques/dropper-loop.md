@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -170,6 +170,15 @@ side by side as a heavy-tackle variant, not reconciled.
   directly on bottom (protects the terminal tackle), and fish **extremely
   snug drag**. On the bite, shift to low gear and horse the fish up and away
   from the structure right away to avoid losing it back to the bottom.
+- **Same tying method, second presenter (Captain Armando, SearcherSportfishing,
+  Tackle Tip Thursday Vol. 157, `PS8CRYwTPiU`, 2021-09-23; unregistered
+  channel — medium confidence):** corroborates the blood-knot loop above —
+  join the two line ends to form a loop, twist the doubled line **about five
+  or six times**, then pass the tag end back through and cinch down. Framed on
+  camera as the knot to tie **when deep-dropping for a yellowtail, "maybe a
+  guadalupe"** — read as the Guadalupe Island fishery already logged above,
+  but not further specified on camera, so treat the referent as unresolved
+  rather than confirmed.
 
 ## Deploying it — drop, detect bottom, read the bite (Your Saltwater Guide)
 

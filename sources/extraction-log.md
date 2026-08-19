@@ -2106,7 +2106,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | OL8D1l73RVg | SearcherSportfishing | tutorial | deep | done | techniques/skip-jigging.md; lures/iron-jigs.md; lures/tuna-poppers-and-stickbaits.md; species/dorado.md; species/yellowtail.md; techniques/surface-iron.md / New skip jigging technique note with 4 named lures, cross-linked into surface-iron, dorado, yellowtail routers; evaluator fixed confidence-laundering on 4 product endorsements |
 | OmyRIw7Eye8 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Added stick-jacket travel-protection block, single-mention medium confidence, corrected stale unregistered-channel label to reflect searcher-sportfishing registry promotion |
 | P9H-bpzT7eU | SearcherSportfishing | tutorial | deep | done | species/dorado.md; lures/tuna-poppers-and-stickbaits.md / tutorial/deep dorado-101 short extracted cleanly (gear class, live-bait-vs-jig doctrine, grade/release practice, Colt Sniper dorado application) with two evaluator fixes for duplication and an unflagged ASR read |
-| PS8CRYwTPiU | SearcherSportfishing | tutorial | deep | pending |  |
+| PS8CRYwTPiU | SearcherSportfishing | tutorial | deep | done | techniques/dropper-loop.md / corroborating knot-tying detail added to existing blood-knot-loop subsection, sources front-matter gap fixed |
 | PYlqIODuIPQ | SearcherSportfishing | tutorial | deep | pending |  |
 | PjLa3oGm4Qg | SearcherSportfishing | tutorial | deep | pending |  |
 | QTWVs5BwQ0g | SearcherSportfishing | tutorial | deep | pending |  |
