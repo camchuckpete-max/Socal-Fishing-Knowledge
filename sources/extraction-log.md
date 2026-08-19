@@ -2057,7 +2057,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 8MayoweWrAM | SearcherSportfishing | tutorial | deep | done | tackle/offset-hooks.md; tackle/hooks.md; tackle/README.md — new tackle note on offset vs. inline hooks (Owner SSW Inline Circle 6/0, Owner Super Mutu 6/0, Owner Gorilla 5/0, Owner Offshore 5/0; two stated reasons for offset) |
 | 8UAtGqEjDtU | SearcherSportfishing | tutorial | deep | done | techniques/trolling.md; lures/cedar-plug.md; lures/halco-laser-pro.md — Capt R Taylor doctrine on why/when to troll (locate fish, less trolling on long drifts, 80-100lb outfit), cedar-plug Old Reliable and Halco swimmer confirmation |
 | 9-3B-WRWqus | SearcherSportfishing | tutorial | deep | done | techniques/foamer-casting.md — Capt. Arch daytime visual-boil Colt Sniper program (120g, 50-60lb outfit, gear-and-burn) plus casting safety note |
-| 91ZJbhAnzMg | SearcherSportfishing | tutorial | deep | pending |  |
+| 91ZJbhAnzMg | SearcherSportfishing | tutorial | deep | done | planning/search-and-glassing.md; techniques/foamer-casting.md — boiler/foamer/breezer/flat-spot surface-sign vocabulary (medium confidence, unregistered channel), corroborates Hansen breezer entry, adds flat spot; fixed Hansen attribution error |
 | 9IhmYstB8sA | SearcherSportfishing | tutorial | deep | pending |  |
 | 9_lwOzaLmXo | SearcherSportfishing | tutorial | deep | pending |  |
 | AGaVlYu61O4 | SearcherSportfishing | tutorial | deep | pending |  |

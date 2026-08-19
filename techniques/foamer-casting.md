@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -44,6 +44,12 @@ above: fish feed with their mouths, not their tails, so a bait cast behind a
 moving breezer is presented to fish that have already passed it — get in
 front of the school's direction of travel and let it swim up onto the bait,
 rather than casting into its wake.
+
+**Also called a "boiler," and has a choppy-water counterpart** — see
+[surface sign vocabulary](../planning/search-and-glassing.md#surface-sign-vocabulary)
+for the "flat spot" read (the same near-surface fish flattening the chop
+instead of rippling calm water) (Captain R. Taylor, SearcherSportfishing,
+`91ZJbhAnzMg`, 2020-09-03; unregistered channel — medium confidence).
 
 **Observed, trip-tips summary (StokedOnFishing, `A6DJoXbID4c`, 2016-10-06
 upload, offshore San Diego, bluefin on a kelp paddy; unregistered channel —

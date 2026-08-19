@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg]
 confidence: high
 ---
 
@@ -49,6 +49,35 @@ loop at speed — the run-stop-cast approach mechanics live in
 [foamer casting](../techniques/foamer-casting.md) (memory §2). The tern-follow read
 and the shearwater doctrine he is still building are in
 [bird reading](../conditions/bird-reading.md).
+
+## Surface sign vocabulary
+
+Three visual surface reads to glass for, independent of species (Captain R.
+Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol. 115 (Signs of Fish),"
+`91ZJbhAnzMg`, 2020-09-03; unregistered channel — medium confidence):
+
+- **Boiler / foamer** — fish visible right on top, breaking/boiling the
+  surface; the two terms are used interchangeably on this boat. A boiler/
+  foamer can carry a **bird school** working over it — the birds are the
+  associated sign, not a separate read (see [bird reading](../conditions/bird-reading.md)
+  for what specific bird behavior means once you're glassing one).
+- **Breezer** — fish holding very close to the surface in calm water, giving
+  themselves away by pushing a ripple that reads just like wind/breeze on
+  the water. This matches the breezer sign already logged in
+  [foamer casting](../techniques/foamer-casting.md#the-approach) (Capt. Dave
+  Hansen, `JiJYamo0QHk`; `dave-hansen` registered voice) — an independent
+  description of the same sign from a different, unregistered channel here
+  (SearcherSportfishing), corroborating rather than adding a new mechanism.
+- **Flat spot** — the choppy-water version of a breezer: with wind and
+  whitecaps around, the same near-surface fish flatten the chop directly
+  over them instead of rippling it, so the tell is a **smooth, whitecap-free
+  patch** sitting in otherwise broken water rather than a ripple. Not
+  previously logged in this KB — the sea-state-dependent flip side of the
+  breezer read (calm water → ripple; choppy water → flat spot), same
+  underlying fish position just under the surface.
+
+Named on camera as the "three main things" this boat's captains glass for:
+birds, fish boiling, and breezers/flat spots.
 
 ## Anchoring geometry
 
@@ -330,6 +359,7 @@ current "should" carry everything astern.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
 - [Fleet Intelligence](fleet-intelligence.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
