@@ -1,23 +1,35 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin]
-sources: [0E9REoTjKrY, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM]
-confidence: medium
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM]
+confidence: high
 ---
 
 # Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)
 
-Two entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the
+Entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the
 **Searcher** (SearcherSportfishing channel) and presented by Penn's Steve
 Carson. Moved/created here (split out of
 [bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md), 2026-08-18)
 to keep that note under this repo's size guideline and to hold this channel's
-own two-video tuna-rig progression together in one place. **Name note:** the
+own multi-video tuna-rig progression together in one place. **Name note:** the
 2020 video's auto-captions render the presenter's name "Steve Clarkson"; the
-2023 video's captions render it "Steve Carson." Both introduce themselves as
-Penn's tackle rep aboard the Searcher, in the same "Tackle Tip Thursday"
-series — treated here as the same person, with each video's own caption
-spelling preserved rather than silently merged (flagged asr-uncertain).
+2022 and 2023 videos' captions both render it "Steve Carson." All introduce
+themselves as Penn's tackle rep aboard the Searcher, in the same "Tackle Tip
+Thursday" series — treated here as the same person, with each video's own
+caption spelling preserved rather than silently merged (flagged
+asr-uncertain).
+
+**Confidence note (2026-08-19):** `searcher-sportfishing` is now a
+**registered** channel/series in
+[the source registry](../sources/source-registry.md) (promoted by Cameron,
+2026-08-19). The rod-rating and "fish the middle of the line rating"
+parameters below repeat, matching almost exactly, across two separate
+entries from this same speaker (this note's 2022 and 2023 sections) —
+**repeated doctrine from a registered source**, which reaches `high` per the
+confidence rubric. Specific reel-model picks stay subject to this channel's
+sponsored-claim caveat (Penn is a sponsor) — read those as this speaker's
+attributed gear picks, not an independent endorsement.
 
 Distinct from, and a companion to, the line-class ladders in
 [bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) and the
@@ -62,6 +74,93 @@ in [bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) target.
 - **Observed catch credited to this exact combo:** a **315 lb bluefin**, 59
   mi off Point Loma — full catch detail in
   [bluefin tuna](../species/bluefin-tuna.md#where--when).
+
+## Three-rig ladder for big bluefin, up to 300–350 lb (Steve Carson, Penn/Searcher, 2022-04-21)
+
+Steve Carson, aboard the **Searcher**, filmed on the docks in San Diego
+(`VxHYxXmPoWQ`, "Tackle Tip Thursday Vol.178 (Rigs for Big Bluefin),"
+uploaded 2022-04-21). An earlier iteration of the same three-tier
+big-bluefin ladder as the 2023-07-13 entry below — **kept side by side, not
+merged**, since several specifics (jig-weight ceilings, grade ceilings, and
+the rod length given for the lightest rig) differ between the two videos,
+even though the two heavier rigs' rod ratings match almost exactly.
+
+### Rig 1 — heavy outfit, 80 lb
+
+- **Reel:** a **Penn Torque 40 Narrow**; he names the **Penn Fathom 40
+  Narrow, two-speed** as an equally good alternative ("that's a good one
+  too").
+- **Line:** **450–500 yd of 80 lb test braid**, topped with a **20–25 yd
+  top shot of 60 or 80 lb test monofilament**.
+- **Rod:** **7 ft 8 in**, rated **40–100 lb** — 60 and 80 lb sit in the
+  middle of that rating, an earlier citation of the same
+  [fish-the-middle-of-the-rating rule](#general-rod-principle-across-all-three-rigs--fish-the-middle-of-the-rating)
+  given explicitly in the 2023 entry below. He also states a rod with an
+  **extended fore-grip is a must** once bluefin run over 100 lb, so the
+  angler can lay/brace the rod on the rail while fighting the fish — his
+  stated reasoning for the extended fore-grip applies across this whole
+  ladder's two-speed rail rods, not just this rig; see
+  [fighting fish from the rail](../techniques/fighting-fish-from-the-rail.md)
+  for the rail-fighting mechanics this enables.
+- **Jig pairing:** any of the various bluefin jigs, **up to about 300 g
+  (~10 oz)**.
+- **Grade:** bluefin **up to maybe 175 lb, at the most 200 lb**. Framed as
+  relatively light — he can "fish with it all night" waiting for one bite.
+- **Also the sinker-bait-rig outfit:** he names this same rig as the one to
+  fish the **"sinker bait rig"** on — a **4–16 oz sinker with a live
+  sardine**, credited to fellow Searcher captain **Art's** own videos on
+  the channel ("very very versatile, don't leave the dock without it").
+  Rig mechanics aren't given in this transcript, so not extracted here
+  beyond the sinker-weight range and bait — see
+  [sliding sinker](../techniques/sliding-sinker.md) for the general
+  technique this pairs with.
+
+### Rig 2 — extra heavy rig, 100 lb (Penn International 16VISX)
+
+- **When:** the tuna are deeper and need bigger jigs, or run bigger than
+  200 lb — his example: "when the captain says I'm reading big ones down
+  at 400 feet, you better have a jig that can get down there and get to
+  them."
+- **Reel:** **Penn International 16VISX**, filled with **100 lb test
+  braid**.
+- **Line:** top shot **~10 yd or less** of **100–130 lb test
+  monofilament**.
+- **Rod:** **7 ft** — he specifically calls out old **5 ft 2 in rods from
+  the 1980s** as unsuitable, "you need to be able to get around the corner
+  and around your fellow anglers," and states seven feet is "about the
+  most common length for that," rated **80–130 lb** — matches the 16VISX
+  rig's rod rating in the 2023 entry below almost exactly.
+- **Jig pairing:** jigs from **300 up to as much as 400 g** — "a heavy
+  jig."
+- **Grade:** good for tuna **up to about 300 lb**.
+- **His own personal ceiling:** by his own account this is the heaviest
+  rig he personally fishes, all night on the Searcher's rail from
+  **1 am to 5 am**, and he states he has landed tuna **over 300 lb** on it
+  ("that's just the reality of it... that's the good news").
+
+### Rig 3 — extra-extra-heavy rig, 130 lb (Penn International 20VISX/30VISX)
+
+- **When:** for anglers who want more stopping power than the 16VISX rig,
+  chasing tuna past 300 lb, or who simply want the heaviest gear
+  available — his own framing: "some of you are maybe a little bit
+  younger, maybe a little bit stronger... you know what, I just don't
+  think that 16 is big enough, I want to catch a 350 pounder." He states
+  he personally sticks with the 16VISX rig ("I'm going to be using that
+  16 that I showed you earlier"), so this rig is a want rather than a
+  need on his own boat, even as "there's plenty of people that are going
+  to be using this."
+- **Reel:** **Penn International 20VISX**; he notes **some anglers use the
+  30VISX**.
+- **Line:** **130 lb test braid**, with a top shot "usually fairly short"
+  of **130 lb test**.
+- **Rod:** still **7 ft**, rated **80–150 lb** — 130 lb sits in the middle
+  of that rating, again citing the fish-the-middle rule — matches the
+  20VISX rig's rod rating in the 2023 entry below exactly.
+- **Grade:** framed against tuna **300–350 lb**; he states this rig lets an
+  angler "control" and land a fish that size, at the cost of needing more
+  strength and endurance to fish it all night.
+- **Crew culture (his aside):** "the crew, the Searcher, is never unhappy
+  when you're using the heaviest possible gear on those big bluefin tuna."
 
 ## Three-rig ladder for big tuna, 80 lb up to 130 lb (Steve Carson, Penn/Searcher, 2023-07-13)
 
@@ -246,13 +345,15 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 
 - [Bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) — the
   line-class ladders (live-bait, jigging PE classes, daytime/nighttime) this
-  note's two Searcher-specific entries were split out of.
+  note's Searcher-specific entries were split out of.
 - [Rod & reel selection](rod-and-reel-selection.md) — the application-based
   offshore quiver.
 - [Gear classes](gear-classes.md) — class-term lexicon.
 - [Fighting fish from the rail](../techniques/fighting-fish-from-the-rail.md)
   — rod-handling mechanics for working these rigs once a big tuna is hooked,
   including a big-tuna-specific variant from the same 2023-07-13 video.
+- [Sliding sinker](../techniques/sliding-sinker.md) — the general technique
+  the 2022-04-21 entry's "sinker bait rig" pairing points to.
 - [Two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md) — the
   low-gear grind these two-speed rigs depend on.
 - [Fighting a big bluefin](../techniques/fighting-big-bluefin.md) — boat-side

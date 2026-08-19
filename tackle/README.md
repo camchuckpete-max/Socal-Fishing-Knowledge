@@ -13,7 +13,7 @@
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md) — Gear is a big investment; a rinse-and-store discipline is what makes it last.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Rod length isn't only an application variable (see the application table in rod & reel selection) — it also has to fit the angler holding it.
-- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Two entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
 <!-- index:end -->
