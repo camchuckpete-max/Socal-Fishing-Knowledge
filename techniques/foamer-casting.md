@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -154,6 +154,20 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   Fish a **2 or 3 count**, put it in gear and burn; if you're not bit by then,
   re-cast. These sink fast enough that you may need to size the leader down to
   40 or even 30 lb.
+- **Daytime visual-boil program, one build (Capt. Arch, SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 162 (Daytime Bluefin Fishing Lure)," `9-3B-WRWqus`,
+  2021-12-23; unregistered channel — medium confidence):** for bluefin
+  physically **boiling on the surface, visible in daylight**, a **120 gram
+  Colt Sniper** on a **50 or 60 lb outfit** with a **small two-speed reel** —
+  cast into the middle of the boil, **free-spool it down** ("I don't know, 60
+  feet down or something like that" — given as an approximate, not a precise,
+  sink depth), put the reel in gear, and **retrieve it fast**; repeat the
+  cast/sink/burn cycle on misses. Called a "very very effective way" to draw a
+  bite under this specific condition. A concrete sink-depth and gear-class data
+  point alongside, not a replacement for, the 2-or-3-count small-lead-bait
+  doctrine above, which doesn't give a depth. Same source's safety note for a
+  casting deck with other anglers: **look behind you before you cast** so you
+  don't hook a fellow angler or crew member.
 
 - **Don't overwork the pop (Roman Castro, mWxyjDrcdXM, 2021-07-17; `roman-castro` registered 2026-08-17, single mention —
   medium confidence):** the pop itself doesn't need to be hard or
