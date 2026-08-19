@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, H5NHGLm1H5U]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -477,6 +477,30 @@ fluoro leader, braid main line — and feed the terminal rigs in
   reads as the presenter using the two names loosely/interchangeably by
   habit rather than by a fixed rule about what each name refers to; logged
   as a third data point on the naming split, not a resolution of it.
+  **Independent, earlier-dated corroboration under the "improved clinch"
+  name only (SearcherSportfishing, "Tackle Tip Thursday Vol. 50,"
+  `H5NHGLm1H5U`, 2019-05-30; unregistered channel, single mention —
+  `medium` confidence):** predates all three Dave Hansen entries above by
+  roughly two years — the earliest-dated data point in this note for this
+  tie, though this presenter uses only the name **"improved clinch knot"**
+  on camera, never "San Diego jam." Framed on camera as a knot for tying
+  **fluorocarbon to a circle hook for fly-lining live bait**, named for
+  **bluefin tuna, "any kind of tuna"**. **Flag — `asr-uncertain` (hook
+  size):** the caption renders the size as "202 for Oh circle hook," which
+  does not parse cleanly as a single aught size; read loosely as consistent
+  with the 2/0–3/0 flyline hook sizing already logged in
+  [flyline](../techniques/flyline.md), but not confirmed as exactly 2/0 —
+  logged as a possible corroborating data point, not a firm one. Paraphrased mechanic: pass the
+  fluorocarbon through the hook eye, spin the tag **7 or 8 times** around
+  the standing line — a close match to Dave Hansen's fixed 7-times count
+  above — then pass the tag back through a loop before cinching down with
+  the main line and trimming the tag close. **Flag — `asr-uncertain`:** the
+  transcript's description of where the tag re-enters ("the tag line goes
+  through the eye of the mano") does not parse cleanly; read as functionally
+  consistent with the through-the-loop step in the Dave Hansen entries above
+  but not confirmed word-for-word. No line class given beyond
+  "fluorocarbon." Presenter's stated properties match Dave Hansen's: "very
+  quick and easy, strong, won't break, and simple."
 - **Bimini twist, quick-tie approach (StokedOnFishing, `jahddqzKhLY`,
   2012-03-28; unregistered channel — `medium` confidence):** presented as a
   fast, no-long-loop way to twist up a double line in about 30 seconds once
@@ -583,6 +607,7 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
 [improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ),
+[improved clinch, fluoro to a circle hook for flylining bluefin](https://www.youtube.com/watch?v=H5NHGLm1H5U),
 [rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI),
 [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
 [mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
