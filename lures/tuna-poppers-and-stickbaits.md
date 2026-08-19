@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg]
+tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -165,6 +165,20 @@ isn't drawing bites and you want more kick, the fix is to move to a
 traditional heavy lead jig instead — see [iron jigs](iron-jigs.md) (Tady AA /
 Tady 9 / Salas 7X Jr heavy) — rather than assume color or retrieve speed is
 the problem.
+
+**Dorado application, color and hook style (Carl Schmidt, SearcherSportfishing/
+Fisherman's Landing, "Tackle Tip Thursday Vol. 198," `P9H-bpzT7eU`,
+2022-09-29; registered channel, single mention — medium confidence):** for
+[dorado](../species/dorado.md), a favorite is a **blue-and-chrome, 4–8 in**
+jig — captioned on screen as "Cult Sniper" (`asr-uncertain`; most likely this
+Colt Sniper class given the size/color description, not confirmed by name in
+the transcript). Rigged with a **treble hook preferred over a single hook**
+specifically for dorado, reasoned as a smaller profile that's easier for the
+fish to get in its mouth — a different stated rationale from, and not
+reconciled with, the single-assist-hook mechanism doctrine immediately above
+(that doctrine is scoped to the stock design's kick/speed on a burned
+retrieve, not to dorado hookup rate). Fished by working up to the bow and
+casting directly at a visible fish rather than blind-casting.
 
 ### "Lead Master" Sniper (Colt Sniper-style lookalike)
 **Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,

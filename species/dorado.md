@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8, 5Oh3IPIC5g4, OL8D1l73RVg]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8, 5Oh3IPIC5g4, OL8D1l73RVg, P9H-bpzT7eU]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -60,6 +60,13 @@ you see a handful (E4vKwRaRueA).
   observed on a productive paddy, E4vKwRaRueA). See
   [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
+- **Grade (as of September 2022 — Carl Schmidt, SearcherSportfishing/
+  Fisherman's Landing, `P9H-bpzT7eU`; registered channel, single mention —
+  medium confidence):** SoCal average dorado ran **8–15 lb** that season, with
+  fish up to **30 lb** seen (a couple bigger). Most boats voluntarily
+  encouraged releasing the smaller **4–6 lb** fish and keeping bigger fish for
+  the table — a boat-level table-fare practice, not a CDFW size or bag
+  regulation.
 
 **Observed** (StokedOnFishing, 2014-11-03, Mission Bay, SoCal — `uyjTdgIw-1k`,
 "Stoked On Simrad, part 2"; unregistered channel, sponsor-heavy Simrad demo —
@@ -387,6 +394,14 @@ grade, or technique detail given for the dorado specifically.
 - **Rod/reel:** a **40–60 lb all-day class** setup (star or lever drag) covers
   dorado alongside small tuna and yellowtail. See
   [gear classes](../tackle/gear-classes.md).
+- **Lighter dorado-dedicated option (medium — Carl Schmidt, SearcherSportfishing/
+  Fisherman's Landing, `P9H-bpzT7eU`):** an **8 ft, 25–40 lb class** rod, 30 lb
+  mono top shot over a spectra main line, and a **2/0 J-hook** sized for a
+  flylined sardine — a lighter, dorado-specific alternative to the mixed-species
+  40–60 lb all-day class above. (Named rod/reel models on this video — a
+  Calstar 800M rod, Penn Fathom 32 Speed reel — are product/model mentions and
+  stay **low** confidence per the `searcher-sportfishing` sponsored-claim
+  caveat in the source registry.)
 - **Terminal:** 5–6 ft fluorocarbon top shot; **20–40 lb leaders stepping down**
   for picky fish; **J-hooks** matched to bait size.
 - **Casting/trolling lures:** [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md),
@@ -401,6 +416,23 @@ grade, or technique detail given for the dorado specifically.
   dorado because of the charge-and-feed-straight behavior; match hook to bait and
   step the leader down for a picky bite. The green/blue temperature boundary
   (~71–72 °F) is the concentration edge.
+- **Doctrine (medium — Carl Schmidt, SearcherSportfishing/Fisherman's Landing,
+  `P9H-bpzT7eU`, 2022-09-29; registered channel, single mention):** boat crews
+  "stick to live bait, it's a lot safer that way, you land a lot more fish" —
+  dorado jump and shake their heads, and a jig hookup will often pull free on
+  the way back to the boat, whereas live bait holds better; corroborates the
+  flylined-bait #1 ranking in Situations → techniques above. Independently
+  corroborates the J-hook-over-circle doctrine above with a different stated
+  reason: dorado have a comparatively small mouth (`asr-uncertain`: transcript
+  audio renders as "small amount," read in context as "small mouth"), so a
+  J-hook works well fishing a flylined sardine. Mechanics: cast to the fish,
+  let it eat, and give a **3–5 second count** before putting the reel in gear.
+- **When anglers do fish a jig instead (medium — same source):** favorites run
+  blue-and-chrome jigs — see the dorado application (color, hook-style
+  rationale, retrieve) documented under
+  [Colt Sniper](../lures/tuna-poppers-and-stickbaits.md#colt-sniper-foamer-stickbait)
+  — plus stickbaits, poppers, and surface irons; best fished by working up to
+  the bow and casting directly at the visible fish rather than blind-casting.
 - **Promo claim (low — VgpgJ8IAyJo, a Nomad brand feature; sponsored claims cap
   at low):** a pink-accented Mad Scad class troll/cast lure is the universal
   dorado tester and producer; "if there's open-water fish around, more often
@@ -433,6 +465,7 @@ grade, or technique detail given for the dorado specifically.
 - [September](../seasonal/september.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowtail](yellowtail.md)
