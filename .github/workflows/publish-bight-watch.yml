@@ -4,7 +4,9 @@ name: publish-bight-watch
 # Pages, so the review screen refreshes itself while the chain works instead
 # of needing a Claude session to regenerate it.
 #
-# One-time setup: repo Settings -> Pages -> Source: "GitHub Actions".
+# Pages source was set to "GitHub Actions" by Cameron on 2026-08-19; before
+# that every run built cleanly and failed at the deploy step with a 404.
+# Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 
 on:
   schedule:
