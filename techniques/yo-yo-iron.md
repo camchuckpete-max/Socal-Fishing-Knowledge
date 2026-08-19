@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -45,6 +45,29 @@ the reverse map in **Linked from** below.
 - The retrieve is one thing: **wind as fast as you can, all the way up.** The
   strike is a reaction to the fleeing iron — there's no finesse cadence, the
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
+- **Grip and crank-speed framing, a base-case rig (Steve Carson,
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 219 (Yo-Yo Methods and
+  Tackle for Yellowtail)," `RNRFrfepiW0`, 2023-04-27; searcher-sportfishing
+  registered channel, mechanism — high confidence, consistent with this
+  note's other repeated Steve Carson/SearcherSportfishing entries):** tuck
+  the rod **under the left armpit** once the jig hits bottom and the reel is
+  put in gear, then crank back as fast as possible — his framing is that
+  **you cannot crank the jig too fast, but it's easy to crank it too
+  slow.** Filmed alongside a stated "standard" rig for average **12–30 lb**
+  yellowtail near an island or bank in **120–180 ft**: a two-speed **Penn
+  Fathom 30** lever-drag reel filled most of the way with **65 lb braid**
+  and a **50-yard, 40–50 lb monofilament top shot** (stated reasons: the
+  mono gives stretch, and helps when a hooked fish tangles with a
+  neighboring angler's line), an **8 ft, 30–60 lb-rated** all-around rod (no
+  specialty rod needed), a **treble hook**, and his stated go-to jig, a
+  **Tady 4/0** — named as his top yo-yo producer "year in year out" over the
+  six to seven years before this 2023 upload (product/model pick — low
+  confidence per this channel's registry sponsored-claim caveat, though it
+  corroborates, not adds to, the Tady 4/0 doctrine already logged throughout
+  this note). Colors named: **scrambled egg**, **blue and white**, and **red
+  crab** specifically "when there's crabs around" — the red-crab color pick
+  corroborates, with a named pattern, the red-crab-year color-matching
+  doctrine already logged in the PCS Show panel entry below.
 - **On the bite, don't set the hook — keep cranking through it** (Steve Carson,
   SearcherSportfishing, "Tackle Tip Thursday Vol. 39," `5pbA-wXoric`, filmed at
   the Fred Hall Show, 2019-03-14; unregistered channel/speaker — medium
@@ -277,6 +300,26 @@ the reverse map in **Linked from** below.
   above. Framed against yellowtail he described as running **20–35 lb**, with
   fishing reported (as of the 2021-09-09 upload) **5–90 miles off the
   coast**.
+- **Upsizing for bigger, meaner Baja yellowtail — a second rig tier, same
+  session (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 219," `RNRFrfepiW0`, 2023-04-27; searcher-sportfishing registered
+  channel, mechanism — high confidence; see [Mechanics](#mechanics) above
+  for this video's base-case 12–30 lb rig):** for bigger water and bigger
+  fish — his examples are **Alijos Rocks** (captioned "Ali host rocks"/
+  "Elio's rocks," read as Alijos Rocks per this note's and
+  [yellowtail](../species/yellowtail.md)'s existing Alijos Rocks entries)
+  and "the ridge," where he says the yellowtail run bigger and meaner and
+  there tend to be more rocks — he steps up to a two-speed **Penn Fathom
+  40 Narrow** reel, filled three-quarters with **80 lb braid** and a **60
+  lb monofilament top shot**, fished on a shorter, more powerful **30–80
+  lb-rated rod**. Jig pick for this tier: a jig captioned "Tady 14a"
+  (asr-uncertain — model number not confirmed against a known Tady catalog
+  entry; described on camera as **heavier and a longer profile** than the
+  base-case Tady 4/0, named as "the key to your big Baja yellowtail";
+  product/model pick — low confidence per this channel's registry
+  sponsored-claim caveat). Stated triggers for stepping up beyond just fish
+  size: **big fish, windy conditions, or difficulty getting the jig to the
+  bottom.**
 - **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
   A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a
   stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),
@@ -399,6 +442,18 @@ the reverse map in **Linked from** below.
   current made conditions poor there). Angler named on camera as Ray. No jig
   weight, color, or brand given.
 
+- **When the captain calls a school's depth over the PA with no bottom to
+  mark against, get the jig below it (Steve Carson, SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 219," `RNRFrfepiW0`, 2023-04-27;
+  searcher-sportfishing registered channel, mechanism — high confidence):**
+  fishing a school suspended over deep water with no bottom reference, the
+  crew calls the school's depth on the PA (his examples: "down at 120
+  feet," or elsewhere the same session "down at 320 feet") — the rule is to
+  **get the jig down a little deeper than whatever depth is called, then
+  wind it up through the school**, keeping the crank at full speed the
+  whole way. An earlier, more specific version of the check-before-you-drop
+  framing in the PCS Show panel entry immediately below (same speaker,
+  filmed roughly a year later).
 - **Jig size by reported depth, ahead of the drop (Steve Carson panel, PCS
   Show 2024, `UP_3fBu7VPA`, 2024-03-20; unregistered channel/speakers —
   medium confidence):** yo-yo depth on an overnight/multi-day trip commonly

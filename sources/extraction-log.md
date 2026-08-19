@@ -2113,7 +2113,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Qa6Q8mOAV6I | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added Shawn Trowbridge / SearcherSportfishing overlap-around-the-eye caution + cut-short breaking-strength demo as a sub-entry under the San Diego jam knot, corroborating the existing 6-wrap figure |
 | R48YdVFfEOI | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md / faithful single-mention addition under Circle vs. J, correctly attributed and medium-confidence, no dead links |
 | RM7cBgCDWFA | SearcherSportfishing | tutorial | deep | done | rigging/flying-fish-harness.md; techniques/kite-fishing.md / Yummy Flyer/dead-flyer leader specs and a long-range kite/fighting-rod outfit added, corrected one overstated line-capacity claim |
-| RNRFrfepiW0 | SearcherSportfishing | tutorial | deep | pending |  |
+| RNRFrfepiW0 | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / three attributed entries added (base-case + upsize rig tiers, PA-depth-call rule) to existing yo-yo-iron technique note |
 | Rudzy0DD08w | SearcherSportfishing | tutorial | deep | pending |  |
 | S2cT2JqrWcY | SearcherSportfishing | tutorial | deep | pending |  |
 | S80GRyuAbLY | SearcherSportfishing | tutorial | deep | pending |  |
