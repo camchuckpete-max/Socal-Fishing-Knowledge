@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -177,6 +177,16 @@ fluoro leader, braid main line — and feed the terminal rigs in
   slide down snug under friction instead of burning/damaging the line as they
   seat — the reasoning behind wetting knots generally, stated here explicitly
   for the San Diego jam.
+  **Demonstrating why, with a bare-line friction test (Wendy, SearcherSportfishing/Izorline,
+  "Tackle Tip Thursday Vol. 12," `BcX-tp3I7LE`, 2018-09-13; unregistered
+  channel — medium confidence):** a 21-second tackle tip making the mechanism
+  above concrete rather than tying a knot at all — with the line left dry, she
+  draws a paper towel across **30 lb test** line and it snaps from the
+  friction alone; she states the same paper-towel test breaks **100 lb test**
+  line too. Stated takeaway: wet your line whenever you tie (cinch) a knot.
+  Earliest-dated Wendy/SearcherSportfishing clip logged in this note —
+  predates the `5g7pK63hYnc`, `3gykKyPdOvA`, `Aorcd0Om7eI`, and `7ivBSL-mhW8`
+  ([Slim Beauty Knot](slim-beauty-knot.md)) entries elsewhere in this KB.
   **"Double jam knot" naming + a live-bait-vs-lure application rule
   (SearcherSportfishing, Tackle Tip Thursday Vol.183, `5J7a6UwTA90`,
   2022-05-26; unregistered channel, single mention — medium confidence):**

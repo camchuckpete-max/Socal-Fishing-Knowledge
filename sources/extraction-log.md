@@ -2066,7 +2066,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | AyN9MBWg-XY | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; techniques/knife-jigging.md / corroborating medium-confidence additions (fleet uptake/dart-vs-flutter framing, 240->300 ft depth-working example, swivel+split-ring rigging school) merged into existing lure and technique notes, one connection-point wording fixed |
 | BLbUu_mfMJY | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; techniques/surface-iron-casting.md / Two dated, medium-confidence attributions added (jig models 2018-10-18 predating existing 2020-06-11 corroboration; rod-length trade-off quote), correctly capped and split across lure vs technique notes |
 | BacIrmOK-Bo | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md / amended hand-picking/hold-time/shoulder-butt-hook doctrine into existing note, flagged as conflicting with logged net-and-carry doctrine |
-| BcX-tp3I7LE | SearcherSportfishing | tutorial | deep | pending |  |
+| BcX-tp3I7LE | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added as a supporting bare-line friction-test entry under the San Diego jam wetting-reasoning bullet, corroborating existing lubrication rationale with earliest-dated Wendy/SearcherSportfishing clip |
 | Bn9fRKUmQ-U | SearcherSportfishing | tutorial | deep | pending |  |
 | Bo5Fj-XuWHo | SearcherSportfishing | tutorial | deep | pending |  |
 | Bz0WZNAofks | SearcherSportfishing | tutorial | deep | pending |  |
