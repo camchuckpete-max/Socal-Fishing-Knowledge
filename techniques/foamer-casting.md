@@ -326,6 +326,7 @@ the column, which is when foamers are most likely to start
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)

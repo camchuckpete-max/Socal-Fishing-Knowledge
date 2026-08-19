@@ -7,6 +7,7 @@
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live dropback mackerel in the SoCal tan
 - [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling trick for a SoCal live-bait sportboat (half-day through multi-day trips): rig a swimbait/jig — built with a double-collar keeper so the soft-
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
+- [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md) — A castable, daytime-only finesse presentation for bluefin and yellowfin tuna that are feeding on small bait and won't commit to the bigger, "crazy looking" lure
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) **[SoCal only]** — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
 - [Dropper Loop](dropper-loop.md) — Execution for the classic dropper-loop rig: a loop knot tied into the leader holds the hook above a sinker that rides on the bottom, so the bait wafts in the cu
@@ -45,5 +46,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 35 notes exceed the 30-node cap._
+_Map skipped: 36 notes exceed the 30-node cap._
 <!-- mermaid:end -->

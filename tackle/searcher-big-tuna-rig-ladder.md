@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class]
-sources: [0E9REoTjKrY, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls]
+tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin]
+sources: [0E9REoTjKrY, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM]
 confidence: medium
 ---
 
@@ -196,6 +196,52 @@ grade called out at **100, 120, 130, and 140 lb**.
   parameter — logged in
   [chunking](../techniques/chunking.md#guadalupe-island-big-tuna--a-natural-falling-chunk-is-the-secret-searchersportfishing-tackle-tip-thursday-vol-68-chunking-nj9zlau3sls-2019-10-03-unregistered-channel-speaker-not-named-on-camera--medium-confidence).
 
+## Dart/Colt Sniper finesse jig rig — daytime tuna (Steve Carson, Penn/SearcherSportfishing, 2024-06-13)
+
+Steve Carson, aboard the Searcher (`TU5quAG4atM`, "Tackle Tip Thursday
+Vol. 234 (How to Use Dart Lures)," uploaded 2024-06-13; `searcher-sportfishing`
+registered channel, first citation of this specific rig — medium confidence).
+A lighter, castable daytime rig for the "Dart jig"/"Colt Sniper"-class lure
+(captions render "cold snipers" — read as **Colt Sniper**, consistent with
+this note's and [iron jigs](../lures/iron-jigs.md)'s existing Coltsniper
+usage) — distinct from, and lighter than, the three heavier rigs above.
+Mechanics and drop/retrieve patterns for this rig are in [Dart jig — daytime
+finesse tuna](../techniques/dart-jig-tuna.md).
+
+- **When:** daytime only — framed as the finesse counterpart to bigger
+  night-bite lures, for fish keyed on **small bait**. Effective on
+  **~20 lb schoolies up to 50 lb** fish; occasionally as big as **100 lb**
+  will bite these once you're geared over 50 lb.
+- **Lure class:** "Dart jigs," also called **Colt Snipers**, roughly
+  **50 g, 80 g, 100 g, maybe 125 g at the most** — daytime finesse sizing,
+  well under night-bite jig weight, and light enough that the angler must be
+  able to **cast** it to fish it effectively.
+- **Reel:** his own **Penn Fathom 30** (speed/gearing not stated on camera).
+- **Line:** **65 lb braid** underneath, topped with a **50 lb monofilament
+  top shot**. **40 lb is usable** if preferred, but his stated reasoning for
+  running 50 lb-plus: fish biting a lure are "usually a little bit less
+  finicky" than fish eating live bait — a 40 lb-test floor is closer to what
+  livebait fishing needs, while lure fishing "can quite frequently get a
+  bite with 50" and heavier, which also covers hooking an occasional bigger
+  fish.
+- **Leader:** **3 to 4 ft of 80 lb fluorocarbon**, tied to the 50 lb mono
+  top shot with a **four-turn surgeon's knot** — a second, independent
+  citation of Steve Carson's own **4-turns-for-20–100 lb** rule already
+  logged in [essential SoCal knots](../rigging/essential-knots.md#parameters--judgment)
+  (`9JnIS8HkZlA`), corroborating it. Stated reasoning for the heavier fluoro:
+  it sometimes prevents a tuna from biting through the line and swimming off
+  with the lure — "it doesn't always work, but it improves the odds" — and
+  bite rate on 80 lb fluorocarbon runs just as good as on straight 50 lb
+  monofilament, so there's no cost to running it heavier.
+- **Hook swap:** stock hooks on these lures are undersized and too thin for
+  tuna, so he swaps to **Owner ST-66-type hooks**, sometimes adding a ring
+  on the front to make the lure "tuna ready" — a second, independent
+  citation of the **Owner ST-66** pick already logged in [iron
+  jigs](../lures/iron-jigs.md#hook-style--assist-vs-treble) (`PYlqIODuIPQ`,
+  same channel), which named it the most popular Coltsniper hook swap for
+  bluefin; this repetition, from the same registered channel, is the basis
+  for treating the ST-66 pick as `high` confidence there.
+
 ## Related
 
 - [Bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) — the
@@ -221,7 +267,10 @@ grade called out at **100, 120, 130, and 140 lb**.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Chunking](../techniques/chunking.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
+- [Iron Jigs](../lures/iron-jigs.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

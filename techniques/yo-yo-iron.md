@@ -556,6 +556,7 @@ the reverse map in **Linked from** below.
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Dropper Loop](dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](glide-baits.md)

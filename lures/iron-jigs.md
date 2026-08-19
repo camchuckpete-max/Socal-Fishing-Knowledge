@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -287,6 +287,10 @@ Colour is deliberately absent from this whole selection process; see
   they're keyed on sardine or smaller mackerel: [foamer
   casting](../techniques/foamer-casting.md) (count it down 1–2 seconds, then burn
   it back; pick irons that stay pinned under a fast wind-in).
+- **Dart/Coltsniper daytime finesse** — a lighter, castable jig sunk under
+  control and cranked hard the instant it stops, for tuna around the boat
+  that aren't biting well: [Dart jig — daytime finesse
+  tuna](../techniques/dart-jig-tuna.md).
 
 Which fish and situation calls for each is routed from the species notes —
 [yellowtail](../species/yellowtail.md), [calico bass](../species/calico-bass.md),
@@ -354,6 +358,27 @@ single correct answer, but three options, in the order given:
    Coltsniper instead. Framed as the outside-the-box option; liked by "a lot
    of crew members."
 
+**Second, independent citation of the Owner ST-66 swap — repeated by the
+same channel, but still `low` confidence for this specific pick per the
+registry's product/model caveat on `searcher-sportfishing` (mechanism/
+parameters rate normally; named product and model endorsements stay `low`
+regardless of repetition) (Steve Carson, Penn/SearcherSportfishing, "Tackle
+Tip Thursday Vol. 234 (How to Use Dart Lures)," `TU5quAG4atM`, 2024-06-13;
+`searcher-sportfishing` registered channel):** on the same "Dart jig"/
+Coltsniper-class lure (captions render "cold snipers"), stock hooks are
+described as **not tuna-rated — small, thin, and not very strong** — the fix
+is to swap to **Owner ST-66-type hooks**, sometimes adding a ring on the
+front to make the lure "tuna ready." A repeated pick from the same
+registered channel, corroborating (at `low` confidence) rather than adding a
+new option to the numbered list above. **Daytime finesse sizing
+for this jig class:** roughly **50 g, 80 g, 100 g, maybe 125 g at the
+most** — daytime rigs, for fish keyed on small bait that won't commit to
+the bigger lures fished at night; effective on **~20 lb schoolies up to
+50 lb**, occasionally as big as **100 lb** once geared over 50 lb. Full
+rod/line/leader build and drop-and-crank mechanics for this jig class are
+in [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
+and [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
+
 ## Owned examples
 
 Cameron's owned irons (attributed `cameron`; full list and colors in
@@ -377,12 +402,14 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)

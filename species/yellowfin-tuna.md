@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -197,6 +197,7 @@ the bluefin nearby become more cooperative too.**
 | **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but doesn't pull line |
 | **Mixed under paddies with yellowtail/dorado** | [Flyline](../techniques/flyline.md) or dropper into the paddy | **30–40 lb class** | Grade the paddy fast — fish restock paddies only at night |
 | **Schooling under a traveling dolphin/porpoise pod, suspended, not showing at the surface** | Nose-hooked live bait on the [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen) — **drop, don't cast**, off the stern as the boat closes on the pod at ~6–7 kt | **Flyline class**, weighted (4 oz inline torpedo sinker, 60 lb braid/leader, 50 lb fluoro) | Common dolphin and spotted spinner dolphin are the two SoCal pod types that hold suspended yellowfin |
+| **Daytime, fish around the boat but not biting well**, keyed on small bait | [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) — sink a light castable jig, crank hard the instant it stops | Penn Fathom 30-class, 65 lb braid/50 lb mono top shot, 80 lb fluoro leader | Steve Carson, SearcherSportfishing, `TU5quAG4atM`, 2024-06-13; medium confidence, single mention of this technique — same technique row as [bluefin tuna](bluefin-tuna.md#situations--techniques), named on camera for both species |
 
 ## Gear summary (class terms)
 
@@ -456,6 +457,7 @@ the bluefin nearby become more cooperative too.**
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bluefin Tuna](bluefin-tuna.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)

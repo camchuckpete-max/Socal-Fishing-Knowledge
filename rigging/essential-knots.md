@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I, TU5quAG4atM]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -76,6 +76,16 @@ fluoro leader, braid main line — and feed the terminal rigs in
     saltwater books show 3): **4 turns for 20–100 lb test, 5 turns under
     20 lb**. Kept side by side with the Seaguar knot as a second attributed
     technique for the same connection, not reconciled with it.
+    - **Second, independent citation of the same 4-turn/20–100 lb rule, same
+      speaker (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday
+      Vol. 234 (How to Use Dart Lures)," `TU5quAG4atM`, 2024-06-13;
+      `searcher-sportfishing` registered channel — repeated by the same voice,
+      `high` confidence for this specific rule):** a **four-turn surgeon's
+      knot** ties a **50 lb monofilament top shot** to a **3–4 ft, 80 lb
+      fluorocarbon** leader on a daytime tuna jig rig — both line classes
+      inside his own stated 20–100 lb/4-turn bracket. Full rig in [Searcher
+      big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#dartcolt-sniper-finesse-jig-rig--daytime-tuna-steve-carson-pennsearchersportfishing-2024-06-13);
+      mechanics in [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
   - **Earliest-dated entry in this group, same 3-turn count, no line-class or
     application given (SearcherSportfishing, Tackle Tip Thursday Vol. 53,
     `LpReZmYQSCU`, 2019-06-19; unregistered channel — medium confidence):**
@@ -469,6 +479,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 ## Linked from
 
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
@@ -480,6 +491,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
