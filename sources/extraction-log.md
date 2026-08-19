@@ -2096,7 +2096,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | KYE14piJAzI | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / corroborating earlier (2019) instance of the same two rubber-band builds and tangle rationale added as a dated bullet to the existing Vol.225 section; leader figure flagged uncertain |
 | LpReZmYQSCU | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added SearcherSportfishing surgeon's-knot mono-to-fluoro corroborating entry (3-turn) as earliest-dated instance in the group, corrected sibling 5g7pK63hYnc's superseded earliest-data-point claim |
 | M-W5mEjh1MY | SearcherSportfishing | tutorial | deep | done | rigging/seaguar-knot.md; rigging/essential-knots.md; techniques/flyline.md / new Seaguar-knot source folded into split-out note as 5th data point in loop/figure-eight family; evaluator fixed dropped front-matter source, orphaned how-to links, near-verbatim paraphrase, overclaimed first |
-| MC3FTRRoOag | SearcherSportfishing | tutorial | deep | pending |  |
+| MC3FTRRoOag | SearcherSportfishing | tutorial | deep | done | none / promotional tackle-shop pricing segment, no SoCal-specific fishing knowledge — correctly skipped by extractor; evaluator filled in pending extraction-log row |
 | MjPY-nWZJ54 | SearcherSportfishing | tutorial | deep | pending |  |
 | MuC0uGKDzxg | SearcherSportfishing | tutorial | deep | pending |  |
 | NGtja-dCiC8 | SearcherSportfishing | tutorial | deep | pending |  |
