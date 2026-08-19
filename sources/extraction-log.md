@@ -2104,7 +2104,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | NN5MWeRA28o | SearcherSportfishing | tutorial | deep | done | species/yellowfin-tuna.md / Faithful, correctly-scoped, promotional-low-confidence addition to existing Doctrine & conflicts entry cluster; no inversions, no rubric laundering, no dead links |
 | OIiDJu4mx44 | SearcherSportfishing | tutorial | deep | done | fish-care/gaffing.md / Added three doctrine blocks (call-for-gaff timing, horizontal-profile positioning, free-spool-on-gaff) to existing gaffing note, correctly attributed and rated medium under searcher-sportfishing row |
 | OL8D1l73RVg | SearcherSportfishing | tutorial | deep | done | techniques/skip-jigging.md; lures/iron-jigs.md; lures/tuna-poppers-and-stickbaits.md; species/dorado.md; species/yellowtail.md; techniques/surface-iron.md / New skip jigging technique note with 4 named lures, cross-linked into surface-iron, dorado, yellowtail routers; evaluator fixed confidence-laundering on 4 product endorsements |
-| OmyRIw7Eye8 | SearcherSportfishing | tutorial | deep | pending |  |
+| OmyRIw7Eye8 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Added stick-jacket travel-protection block, single-mention medium confidence, corrected stale unregistered-channel label to reflect searcher-sportfishing registry promotion |
 | P9H-bpzT7eU | SearcherSportfishing | tutorial | deep | pending |  |
 | PS8CRYwTPiU | SearcherSportfishing | tutorial | deep | pending |  |
 | PYlqIODuIPQ | SearcherSportfishing | tutorial | deep | pending |  |

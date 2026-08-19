@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8]
 confidence: medium
 ---
 
@@ -23,6 +23,22 @@ context is in [rod & reel selection](rod-and-reel-selection.md).
   towel (microfiber is ideal but not required) after every rinse.
 - Use a **toothbrush** to work salt and grit out of the small, hard-to-reach areas
   the towel misses.
+
+## Rod protection during travel — stick jacket (Logan, SearcherSportfishing, "Tackle Tip Thursday Vol. 209 (Protect Your Fishing Rods)," `OmyRIw7Eye8`, 2022-12-15; registered channel (`searcher-sportfishing`), single mention of this specific claim — medium confidence)
+
+Another per-trip habit, distinct from the rinse/dry routine above: a **stick
+jacket** — a tube slid over the fishing rod — used two ways:
+
+- **On the drive to the landing**, before the trip starts.
+- **Left on the rod aboard the boat during travel time**, not just in transit
+  to the dock.
+
+The stated reason: it's **extra protection for the rod**, and specifically
+keeps **salt, dirt, and blood off the blank and hardware** that you don't want
+ground in — called out for **Long Range travel days**, when a rod can sit
+exposed through extended transit. Framed as a general-purpose piece of
+equipment worth having in the arsenal, not tied to a specific technique or rod
+class.
 
 ## Fresh line before every trip — the top-shot economics (Bob Bauer, angler aboard the Searcher, "Tackle Tip Thursday Vol.64," SearcherSportfishing, `0n4mJ3sfIqk`, 2019-09-05; unregistered channel — medium confidence)
 
