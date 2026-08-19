@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -21,6 +21,9 @@ where this fits among wahoo's other techniques routes from
 - Casting to wahoo from a stopped or drifting boat rather than running a
   trolled spread — the wahoo-bomb/Raider-jig pair is the standard cast kit for
   this (Searcher Sportfishing, `-62xDo4UQzo`).
+- A trolling rod just hooked a wahoo and you want a fast follow-up chance
+  without adding another trolled line — see the "on the slide" cast trigger
+  under [Mechanics](#mechanics) (`J3FGJj5zYPE`).
 - **Conflict, not reconciled — cast vs. troll for the same bomb lure:** at
   Alijos Rocks, one angler preferred **trolling** a bomb-style lure over a
   jig-and-reel presentation specifically because he judged it a better hookup
@@ -72,6 +75,18 @@ where this fits among wahoo's other techniques routes from
   cross-check). No size, weight, or retrieve detail is given for the stinger
   specifically beyond the color and single-hook rigging; treat the
   cast-and-burn mechanics above as the closest documented analog.
+- **Color selection — match the color to what wahoo are keyed on (Logan,
+  Searcher Sportfishing / Fisherman's Landing, "Tackle Tip Thursday Vol. 227,"
+  `J3FGJj5zYPE`, 2023-09-14; unregistered channel — medium confidence; filmed
+  ahead of an eight-day trip to **Alijos Rocks**):** wahoo "target a variety of
+  different fish" moving through the structure, and the stated reasoning is
+  that **the lure color a wahoo bites is often set by what it's feeding on at
+  the moment** — if they're on a pink-colored baitfish, a pink lure or bomb is
+  the pick; if they're keyed on blue or green, match that instead. The stated
+  takeaway is to **carry a spread of colors (pink, blue, green named on
+  camera)** rather than one confidence color, "so you're ready for any
+  possible scenario." Kept as color-matching doctrine, distinct from (and not
+  reconciled against) any single-color preference elsewhere in this note.
 
 ## Mechanics
 
@@ -91,6 +106,19 @@ where this fits among wahoo's other techniques routes from
   stronger statement of, the "wind it in as fast as possible" retrieve rule
   above.
 - No bite: wind all the way in and repeat the cast.
+- **A separate cast trigger — "on the slide" when another rod is already
+  hooked up (Logan, Searcher Sportfishing / Fisherman's Landing, `J3FGJj5zYPE`,
+  2023-09-14):** rather than adding another trolled line, the stated move when
+  a trolling rod hooks a wahoo is to **cast one of these lures out off the
+  side of the boat** — away from the hooked fish so the two lines don't
+  tangle — let it **sink back briefly**, then **burn it in fast**, same as the
+  standard cast-and-burn retrieve above. The stated reason for casting off the
+  side rather than adding another trolled line is simply to stay clear of the
+  hooked fish; no reason is given on camera for *why* the follow-up cast
+  draws a bite (e.g. a following fish reacting to the hookup) — that
+  mechanism is not stated, so it is not carried here. The caster reports
+  getting bit on this follow-up cast **nine times out of ten**. No count or
+  session detail beyond the stated hit rate; carried as a single data point.
 - **On the bite, keep cranking — don't stop until the fish takes line off the
   reel** (Searcher Sportfishing, `9IhmYstB8sA`, 2019-11-14): the stated
   instruction is to crank through the strike itself rather than pausing to
