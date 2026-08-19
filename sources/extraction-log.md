@@ -2107,7 +2107,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | OmyRIw7Eye8 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Added stick-jacket travel-protection block, single-mention medium confidence, corrected stale unregistered-channel label to reflect searcher-sportfishing registry promotion |
 | P9H-bpzT7eU | SearcherSportfishing | tutorial | deep | done | species/dorado.md; lures/tuna-poppers-and-stickbaits.md / tutorial/deep dorado-101 short extracted cleanly (gear class, live-bait-vs-jig doctrine, grade/release practice, Colt Sniper dorado application) with two evaluator fixes for duplication and an unflagged ASR read |
 | PS8CRYwTPiU | SearcherSportfishing | tutorial | deep | done | techniques/dropper-loop.md / corroborating knot-tying detail added to existing blood-knot-loop subsection, sources front-matter gap fixed |
-| PYlqIODuIPQ | SearcherSportfishing | tutorial | deep | pending |  |
+| PYlqIODuIPQ | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / bluefin hook-swap doctrine (Owner ST-66 treble, Owner Aki Twist, flat-fall hook transplant) added to iron-jigs.md sized/attributed correctly, one mis-routed link fixed |
 | PjLa3oGm4Qg | SearcherSportfishing | tutorial | deep | pending |  |
 | QTWVs5BwQ0g | SearcherSportfishing | tutorial | deep | pending |  |
 | Qa6Q8mOAV6I | SearcherSportfishing | tutorial | deep | pending |  |

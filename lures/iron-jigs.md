@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -319,6 +319,29 @@ bluefin**. Stated reasoning: bluefin are less picky than yellowtail about how
 the jig swims, so the swim-critical treble setup matters less on them. A
 separate axis from the assist-vs-treble, bigger-fish framework above — this
 is treble-vs-single, and turns on species rather than fish size.
+
+**Bluefin hook swap — three shop-recommended options, sized to jig weight
+(Fisherman's Landing tackle-shop staff, via SearcherSportfishing, "Tackle Tip
+Thursday Vol. 114 (Changing hooks on lures)," `PYlqIODuIPQ`, 2020-08-27;
+`searcher-sportfishing` registered channel, single mention — medium
+confidence for the sizing/judgment; the specific hook models below are low
+confidence, named product/model picks, per the channel's registry
+sponsored-claim caveat):** filmed during a hot San Diego bluefin bite on the
+**Shimano Coltsniper** and similar metal jigs (captions render it "cold
+sniper" — resolved against this note's existing Colt Sniper usage above).
+Stock hooks that ship on a Coltsniper hold up fine for smaller fish but need
+to be swapped for bigger bluefin — framed as personal preference with no
+single correct answer, but three options, in the order given:
+
+1. **Size 1 or 1/0 Owner ST-66, a 4X-strength treble hook** — the most
+   popular option and the one most boats/crews recommend: size 1 on the 60 g
+   and 80 g Coltsniper, 1/0 on the 100 g and 120 g.
+2. **5/0–7/0 Owner Aki Twist** — a long-shank, offset J hook — "another very
+   popular one."
+3. **Transplant** — pull the stock hook off a 160 g or 200 g
+   [flat-fall-style jig](knife-jigs.md) and mount it on the
+   Coltsniper instead. Framed as the outside-the-box option; liked by "a lot
+   of crew members."
 
 ## Owned examples
 
