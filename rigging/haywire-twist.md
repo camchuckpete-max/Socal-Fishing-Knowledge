@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -134,6 +134,46 @@ length, and wire type/brand are not given in either video to help reconcile
 them). Not treated as an update superseding the earlier figure — both are
 attributed, dated data points from the same channel, sitting side by side per
 the conflict rule.
+
+**Third data point, sleeve-crimp build (not a haywire twist) — SearcherSportfishing,
+"Tackle Tip Thursday Vol. 160 (Wahoo Wire Leaders)," `S80GRyuAbLY`, 2021-11-04;
+registered channel/series (`searcher-sportfishing`), single mention on this
+build — medium confidence:** a dedicated tackle tip on building a live-bait
+wire leader for wahoo using **crimp sleeves at both ends instead of a haywire
+twist** — stranding (single vs. multi) is not stated on camera, but the
+crimped-not-twisted method is consistent with this note's braided/cable-wire-
+gets-crimped split above.
+
+- **Wire and sleeve class:** **60 lb** wire leader with a matching **size A2
+  sleeve** — stated as the reference printed on the wire spool itself ("it
+  gives you the reference, so 60 pound you use an A2 standard sleeve").
+  **Sleeve size must match the wire's pound test exactly**: the video states
+  that using an A2 sleeve on 40 lb wire would crimp loose and fail.
+- **Length:** cut **24 in** of wire leader material; the finished leader,
+  after both ends are built, comes out to about **18–20 in**.
+- **Hook:** a **1-0 or 2-0** live-bait hook — a ringed hook is shown on
+  camera, with the ring stated as not required for this build.
+- **Hook-end build order:** slide the sleeve onto the wire first, thread the
+  wire through the sleeve, then through the hook eye, then back through the
+  same sleeve a second time, closing a loop of roughly **1/2 in** — stated to
+  help the bait swim. Before crimping, fold the tag end back down against the
+  standing wire (rather than leaving it standing proud) so it can't catch the
+  mono main line or a hand. Crimp with a proper crimping tool, going over the
+  same crimp **a couple of times** so it can't work loose fighting a fish.
+- **Top-end build:** the same sleeve-first order, but the second component is
+  a **small black ring or a small black swivel** (referencing a companion
+  tackle tip on that ring/swivel choice) instead of a hook — that ring/swivel
+  is where the monofilament main line is tied on. Same ~1/2 in loop, same
+  crimp-tool finish, crimped down multiple times.
+- **Stated failure mode:** an undersized sleeve for the wire test lets the
+  crimp slip loose under a fish's fighting drag — the reason given for
+  matching sleeve number to wire test rather than eyeballing it.
+
+This build's crimped construction and **60 lb** wire class sit as a further,
+unreconciled data point beside the 200–300 lb (`9IhmYstB8sA`) and 44 lb
+(`G81HN0dIDg0`) figures above — three different wire-test figures from the
+same channel for the same "wahoo live bait leader" application, spanning
+roughly a 5x-to-7x range, with no stated reason for any of the gaps.
 
 ## Rig it
 

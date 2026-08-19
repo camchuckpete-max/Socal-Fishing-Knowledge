@@ -2116,7 +2116,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | RNRFrfepiW0 | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / three attributed entries added (base-case + upsize rig tiers, PA-depth-call rule) to existing yo-yo-iron technique note |
 | Rudzy0DD08w | SearcherSportfishing | tutorial | deep | done | species/bluefin-tuna.md; tackle/rod-and-reel-selection.md / two-speed reels required for 1.5- and 3-day bluefin trips, TLD 20/Talica 12 example builds added; resolved prior italica ASR-garble as Talica via corroboration |
 | S2cT2JqrWcY | SearcherSportfishing | tutorial | deep | done | none / nothing extractable: generic seasickness-prevention tip, no SoCal/Baja-specific fishing content, correctly skipped per curation bar |
-| S80GRyuAbLY | SearcherSportfishing | tutorial | deep | pending |  |
+| S80GRyuAbLY | SearcherSportfishing | tutorial | deep | done | rigging/crimping.md; rigging/haywire-twist.md; species/wahoo.md / added third wahoo live-bait wire-leader data point (60 lb wire / A2 sleeve, sleeve-crimped) with general sleeve-to-wire sizing parameter |
 | SCQnyVEQfHY | SearcherSportfishing | tutorial | deep | pending |  |
 | Stw7SNyIgdg | SearcherSportfishing | tutorial | deep | pending |  |
 | TU5quAG4atM | SearcherSportfishing | tutorial | deep | pending |  |

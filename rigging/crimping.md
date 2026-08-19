@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [crimping, crimp-sleeve, chafe-gear, leader, terminal-tackle, big-game]
-sources: [3zXcrGsIL-c]
+sources: [3zXcrGsIL-c, S80GRyuAbLY]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -58,6 +58,17 @@ size, this one for the mechanic of seating it correctly.
   the same one crimp sleeve gets pressed near each end, matching the
   [bite leaders](bite-leaders.md#parameters--judgment) "two presses per crimp"
   rule.
+- **Match sleeve number to the leader's stated pound test, on wire specifically
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 160 (Wahoo Wire Leaders),"
+  `S80GRyuAbLY`, 2021-11-04; registered channel/series, single mention —
+  medium confidence):** wire leader is printed/stamped with a reference sleeve
+  size for its pound test (example given: **60 lb wire → size A2 sleeve**).
+  Using an undersized sleeve for the wire test — the example given is an A2
+  sleeve on 40 lb wire — crimps loose and lets the connection slip under a
+  fish's fighting drag. See
+  [Haywire Twist — wahoo live-bait leader](haywire-twist.md#wahoo-live-bait-leader)
+  for the full sleeve-crimped (non-haywire) wahoo live-bait build this
+  parameter comes from.
 
 ## Tie it
 
