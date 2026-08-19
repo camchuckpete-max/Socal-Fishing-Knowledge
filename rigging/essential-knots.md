@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I, TU5quAG4atM]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I, TU5quAG4atM, UfuQr6gOIk8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -143,6 +143,26 @@ fluoro leader, braid main line — and feed the terminal rigs in
     wet the knot, cinch it down quickly, cut the tag ends close, and it's
     ready to fish — the tip is framed entirely around retie speed after a
     break-off, with no bait/species/line-class specifics stated.
+  - **A fourth, same-channel entry, closest in mechanic to the two earliest
+    clips above (SearcherSportfishing, Tackle Tip Thursday Vol. 133,
+    presenter Ryan, `UfuQr6gOIk8`, 2021-01-07; unregistered channel/speaker —
+    medium confidence):** ties the surgeon's knot as a mono-to-fluorocarbon
+    connection, framed as generically as the `LpReZmYQSCU` clip above — no
+    bait, species, or line-class application stated on camera. Paraphrased
+    mechanic: overlap the mono and fluorocarbon leader, leaving a few inches
+    of tag on each side; form a loop in the middle and pinch it; pass both
+    tag ends through the loop **three times**, matching the 3-turn count
+    already logged for `LpReZmYQSCU` and `5g7pK63hYnc` above rather than
+    Steve Carson's 4-turns-at-20–100 lb rule. Wet it well, pull both tag
+    ends and the two main lines together to cinch it down, then let go of
+    the tags and pull the main lines tight. **Trim judgment not stated in
+    the other entries above:** leave a little extra length on the trimmed
+    tag ends rather than cutting flush, in case the knot didn't fully cinch
+    down — a caution against the knot slipping after trimming, compatible
+    with (but a distinct data point from) the "cinch fully before trimming"
+    caution already logged for the Albright knot in [FG Knot & Albright
+    Knot](fg-and-albright.md). 93-second clip; no line class, leader length,
+    or application given.
   - **Scaled up for giant yellowtail on long-range trips:** the same
     doubled-overhand family, tied heavier (80–100 lb) and much larger
     (about a 2 ft finished loop) as a general terminal-tackle attachment
@@ -473,6 +493,7 @@ portion of this video and four other mono-to-fluoro connection clips),
 [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
 [single-pass San Diego jam knot, 5-wrap demo](https://www.youtube.com/watch?v=AGaVlYu61O4),
 [surgeon's knot, quick leader retie after a break-off](https://www.youtube.com/watch?v=Aorcd0Om7eI),
+[surgeon's knot, mono-to-fluorocarbon connection (Vol. 133)](https://www.youtube.com/watch?v=UfuQr6gOIk8),
 and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks).
 
 <!-- backlinks:start -->
