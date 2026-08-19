@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM]
+tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ]
 confidence: high
 ---
 
@@ -294,6 +294,46 @@ grade called out at **100, 120, 130, and 140 lb**.
   nothing attached to it") is the technique's own doctrine, not a rig
   parameter — logged in
   [chunking](../techniques/chunking.md#guadalupe-island-big-tuna--a-natural-falling-chunk-is-the-secret-searchersportfishing-tackle-tip-thursday-vol-68-chunking-nj9zlau3sls-2019-10-03-unregistered-channel-speaker-not-named-on-camera--medium-confidence).
+
+## Light-line finesse rig — Guadalupe Island, line-shy medium-grade tuna (Gary Gillingham, Accurate Fishing Products, "Tackle Tip Thursday Vol. 80 (7day Trip)," `WxlDxFjB8oQ`, uploaded 2019-12-26)
+
+Filmed dockside aboard the Searcher before departure on a **7-day trip**,
+destination **Guadalupe Island** per secondhand "grapevine" word from other
+anglers rather than a first-hand report. Tuna (species not stated on
+camera) graded **medium, 30–40 lb**, described on camera as **"very, very
+line shy."** `searcher-sportfishing` is a registered channel, but this
+segment is presenter Gary Gillingham of **Accurate Fishing Products**
+promoting Accurate's own gear on Accurate's own "loaner" program for the
+trip — a **sponsored/promotional segment**, so the specific product picks
+below are **low confidence** per the sponsored-claim rule; the underlying
+line-shy finesse approach (lighter fluoro, smaller hooks, a softer rod for
+shock absorption) is the mechanism/parameter content and reads as medium
+confidence, single mention.
+
+- **The reported fleet workaround:** other anglers were reportedly dropping
+  to a **20 lb fluorocarbon** top shot with **very small hooks — maybe size
+  1 and 2** — to get bit on line-shy fish at this grade.
+- **His own build, matching that same approach:**
+  - **Reel:** Accurate's loaner-program reel for the trip, captioned "turn
+    500" — exact model name not confidently resolved from auto-captions
+    (**asr-uncertain**) — spooled with **65 lb Spectra** backing.
+  - **Top shot:** **20 lb fluorocarbon** (brand name captioned "Roth" —
+    not confidently resolved, **asr-uncertain**; not carried here as a
+    verified product name).
+  - **Rod:** **Accurate Valiant BB 800ML** — his stated reasoning: a "nice
+    long parabolic rod" gives a little shock absorption fishing the lighter
+    fluorocarbon.
+- **His stated close:** this 65 lb Spectra-backing / 20 lb-fluoro-top-shot
+  combo "seems to be the way to go at Guadalupe right now" (as of this
+  December 2019 trip).
+
+**Corroboration, not merged:** this line-shy, small-hook framing for
+Guadalupe tuna sits alongside — but is a separate data point from — the
+size-2/4-hook, "light line" Guadalupe entry already logged in
+[yellowfin tuna](../species/yellowfin-tuna.md#where--when) (`EfaxxszOYFI`,
+2019-10-31, two months earlier the same season). Neither source gives a
+leader-weight/hook-size pair that confirms the other's numbers, so they're
+kept side by side rather than reconciled.
 
 ## Dart/Colt Sniper finesse jig rig — daytime tuna (Steve Carson, Penn/SearcherSportfishing, 2024-06-13)
 

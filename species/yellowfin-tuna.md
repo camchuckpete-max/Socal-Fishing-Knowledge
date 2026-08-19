@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -60,6 +60,14 @@ the bluefin nearby become more cooperative too.**
   merged into, the heavier 50–60 lb top-shot rig logged above from the later
   tip — this earlier tip calls its own setup "light line" but gives no
   matching number, so the two are not reconciled.
+  **A third, closer-in-time data point (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 80 (7day Trip)," `WxlDxFjB8oQ`, 2019-12-26; species not
+  stated on camera — read as tuna from context, not confirmed — low
+  confidence on the product picks, sponsored segment):** medium-grade,
+  **30–40 lb**, "very, very line shy" fish at Guadalupe called for a
+  **20 lb fluorocarbon top shot with size 1–2 hooks** and a parabolic rod
+  for shock absorption — full build in [Searcher big/giant tuna rig
+  ladder](../tackle/searcher-big-tuna-rig-ladder.md#light-line-finesse-rig--guadalupe-island-line-shy-medium-grade-tuna-gary-gillingham-accurate-fishing-products-tackle-tip-thursday-vol-80-7day-trip-wxldxfjb8oq-uploaded-2019-12-26).
 
 ## Finding them (sign & sonar)
 
