@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0]
 confidence: medium
 ---
 
@@ -67,6 +67,18 @@ ground in — called out for **Long Range travel days**, when a rod can sit
 exposed through extended transit. Framed as a general-purpose piece of
 equipment worth having in the arsenal, not tied to a specific technique or rod
 class.
+
+## Reel bags — worth having, no reason given (Wes, a reel technician who services the Searcher's fleet of reels — the shop name is unresolved: auto-captions render it as "kids custom real," plausibly "Kit's Custom Reels" given the on-camera context, but not confirmed against typed metadata — `asr-uncertain`; via SearcherSportfishing, "Tackle Tip Thursday Vol. 44 (Reel Maintenance)," `X1zAA4DLOr0`, 2019-04-18; registered channel (`searcher-sportfishing`), single mention of this specific claim — medium confidence)
+
+- **"Reel bags really help as well"** [00:00:14] — stated as a bare
+  recommendation with no reason given on camera, called out in the same
+  breath as the reminder that **fresh water on the reel is the most
+  important thing** (repeating, not adding to, the rinse discipline above).
+  Not asserted here as sharing the stick jacket's stated protection
+  rationale above, since Wes never gives one for the reel bag specifically.
+  One further instruction in this clip about how to leave reels while
+  aboard the boat is too garbled in the auto-captions to carry as a claim —
+  not repeated here.
 
 ## Fresh line before every trip — the top-shot economics (Bob Bauer, angler aboard the Searcher, "Tackle Tip Thursday Vol.64," SearcherSportfishing, `0n4mJ3sfIqk`, 2019-09-05; unregistered channel — medium confidence)
 
