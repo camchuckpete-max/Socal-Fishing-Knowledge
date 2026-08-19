@@ -751,6 +751,12 @@ for the bite:
   sportboat fleet, contrasted with East Coast anglers who are "all spinning
   reels" — "doesn't mean we're right, doesn't mean you're wrong."
 
+## Spinning-reel live-bait feeder
+
+A dual-drag "live-bait feeder" option on a spinning reel is worth selecting
+for if live bait fishing is a big part of your program — full mechanism and
+use in [spinning-reel bait feeder](spinning-reel-bait-feeder.md).
+
 ## Resolving a class to a real rod
 
 With no profile, a plan names the **class** ("surface-iron class, 40–60 lb"). With
@@ -780,6 +786,7 @@ a bluefin).
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
+- [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)

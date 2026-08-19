@@ -15,6 +15,7 @@
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Rod length isn't only an application variable (see the application table in rod & reel selection) — it also has to fit the angler holding it.
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Two entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
+- [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
 <!-- index:end -->
 
 
@@ -34,6 +35,7 @@ graph LR
   n8["Rod Length — Fitting the Stick to the Angler"]
   n9["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
   n10["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n11["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
   n0 --> n1
   n0 --> n2
   n0 --> n3
@@ -43,6 +45,8 @@ graph LR
   n1 --> n4
   n1 --> n7
   n10 --> n4
+  n11 --> n1
+  n11 --> n7
   n2 --> n0
   n2 --> n4
   n2 --> n5
@@ -57,6 +61,7 @@ graph LR
   n6 --> n7
   n7 --> n0
   n7 --> n1
+  n7 --> n11
   n7 --> n8
   n8 --> n7
   n9 --> n0
