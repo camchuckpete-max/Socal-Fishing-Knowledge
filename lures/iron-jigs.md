@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -58,6 +58,17 @@ the iron sinks and how it holds in current:
   standard in [surface iron](../techniques/surface-iron.md), under its size /
   weight selection section. No reason given beyond track record; full data point in
   [surface iron — colour](../techniques/surface-iron-color.md).
+  **Earlier occurrence, same channel (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 17," `BLbUu_mfMJY`, 2018-10-18; unregistered channel — medium
+  confidence):** a "good assortment of lightweight surface irons" for a
+  long-range yellowtail trip is given as the **Tady 45** and a jig the
+  captions render as "SJR eyes" — read as the **Salas 6X Jr.** already named
+  in this note's traditional-benchmark trio above (asr-uncertain: the caption
+  string does not clearly spell the model, but it fits the existing Tady 45 /
+  Salas 7X / 6X Jr. pairing rather than naming anything new) — plus the
+  **Salas 7X**. Predates the `1uYIApdQQSM` corroboration above by nearly two
+  years, pushing this three-jig pairing's earliest dated occurrence in this
+  corpus back to 2018.
 
 Model benchmarks beyond any one box: **Tady 45 / 4/0**, **Salas 6X / 7X / 6X Jr.
 / CP 105**, **JRI** CNC irons (incl. the **JRI Stinger** — a Cedros/Baja

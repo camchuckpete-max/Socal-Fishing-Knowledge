@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, distance, backlash, wind]
-sources: [VpW91AKOFVQ, eL1Qm33-Mj0, 6EDQtQHEwFE, 3dVc-2rsYII, KLoEJInlmZo, IhBY5RHFvuk, 0DKmYId1NN4, ejUTAnONf7o]
+sources: [VpW91AKOFVQ, eL1Qm33-Mj0, 6EDQtQHEwFE, 3dVc-2rsYII, KLoEJInlmZo, IhBY5RHFvuk, 0DKmYId1NN4, ejUTAnONf7o, BLbUu_mfMJY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -19,6 +19,14 @@ cast every time, live bait or jig. The long rod ([jig-stick class](../tackle/gea
 9–10 ft) is what buys that distance, and **the rod does all the work** — the most
 common mistake is shoving/pushing the lure out with the arms instead of loading
 the blank.
+
+**The length is a stated trade-off, not a free lunch (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 17," `BLbUu_mfMJY`, 2018-10-18, long-range yellowtail
+trip; unregistered channel — medium confidence):** a 9–10 ft stick is *"not the
+most fun to fight a fish on,"* but the stated priority is getting the cast out
+to the fish at all — *"the main thing is you've got to get hooked up."* Casting
+reach is ranked above fight comfort; the rod-length choice here is about
+converting shots into hookups, not about landing the fish once it's on.
 
 ## Mechanics
 
