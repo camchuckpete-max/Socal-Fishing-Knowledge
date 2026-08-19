@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -87,6 +87,19 @@ where this fits among wahoo's other techniques routes from
   camera)** rather than one confidence color, "so you're ready for any
   possible scenario." Kept as color-matching doctrine, distinct from (and not
   reconciled against) any single-color preference elsewhere in this note.
+- **Physical description of the two-lure kit (Billy, Fisherman's Landing
+  Tackle Shop / Searcher Sportfishing, "Tackle Tip Thursday Vol. 124 (Wahoo
+  Lures)," `PjLa3oGm4Qg`, 2020-11-05):** the **Raider jig** shown is a
+  **standard gold-and-pink** finish with a **large siwash hook** mounted on
+  the back. The **wahoo bomb** shown is a **gold head with black-and-orange
+  Mylar**, built with a **spinner blade at the tail** for added action —
+  described on camera as a "catchy" wahoo bomb, which may or may not be a
+  reference to the "Catchy Tackle" brand already logged above from
+  `G81HN0dIDg0` and `0zgmoOH3Qag`/`9IhmYstB8sA`'s "Catch"-brand mentions;
+  carried as **asr-uncertain** since no title/description confirms it as a
+  brand name rather than a plain adjective. This tip reconfirms the bomb and
+  Raider jig as "the two" lures it covers, consistent with `-62xDo4UQzo`
+  above.
 
 ## Mechanics
 
@@ -129,6 +142,19 @@ where this fits among wahoo's other techniques routes from
   — kept as a separate, attributed data point rather than merged into that
   entry since it describes the hookset/early-fight moment on a cast retrieve,
   not the ongoing fight.
+- **A safety-critical pause before lifting out (Billy, Fisherman's Landing
+  Tackle Shop / Searcher Sportfishing, `PjLa3oGm4Qg`, 2020-11-05):** cast out
+  and "point it back as fast as you can" — captions render this ambiguously;
+  it is carried here as a duplicate/paraphrase of the "turn the handle as fast
+  as you can" retrieve-speed instruction the same speaker restates moments
+  later (no separate rod-angle instruction is given anywhere else on camera),
+  not as a distinct rod-pointing technique — **asr-uncertain**. **Pause the retrieve
+  right before the lure reaches the boat, rather than lifting it straight out
+  of the water** — the stated reason is that lifting a wahoo bomb or Raider
+  jig straight out with a wahoo still attached can send the fish flying out
+  of the water at the angler's face. On the bite: **come tight and you're
+  on** — a simpler restatement of the "keep cranking through the bite" rule
+  from `9IhmYstB8sA` above, from the same tackle shop.
 
 ## Rigging
 
@@ -151,6 +177,26 @@ where this fits among wahoo's other techniques routes from
 - **Line:** **50 lb** standard; **62 lb** also usable. Anything lighter is
   flagged as risking a bite-off ("might get a little dicey") — wahoo's teeth
   are the reason wire is mandatory regardless of line test.
+- **A second, independently sourced gear-class data point (Billy, Fisherman's
+  Landing Tackle Shop / Searcher Sportfishing, `PjLa3oGm4Qg`, 2020-11-05) names
+  specific models rather than a class description:**
+  - **Rod:** a **Calstar 875H**, rated **30–60 lb**, or the **XH** version of
+    the same blank (upper line-class figure lost to a caption gap —
+    **asr-uncertain**) — **7.5 ft, composite**, described as the right length
+    for casting bombs and having enough lifting power on the fish.
+  - **Reel:** an **Accurate [heard as "Turn"] 600 Narrow** — likely the
+    **Accurate Twin 600 Narrow** given the contrast drawn with the two-speed
+    option below, but not confirmed by name (**asr-uncertain**) — spooled with
+    **40–60 lb mono**, or braid stated on camera as both **"80–100 lb"** and
+    **"65–100 lb"** in the same breath (**asr-uncertain** on the exact braid
+    range). As a **two-speed alternative**, a **Accurate Valiant 600 Narrow**
+    is named as "a little more versatile" — the stated reason being that the
+    low gear also helps with tuna fishing, i.e. picked for multi-species
+    versatility beyond wahoo specifically.
+  - This is a separate named-model data point, not a conflict with the class
+    description above (jig-stick class, ~9 ft, star-drag, mid-to-higher
+    retrieve ratio) — it sits inside the same class and sharpens it with
+    specific models.
 
 ## Common failures
 

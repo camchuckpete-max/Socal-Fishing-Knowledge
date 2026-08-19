@@ -2108,7 +2108,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | P9H-bpzT7eU | SearcherSportfishing | tutorial | deep | done | species/dorado.md; lures/tuna-poppers-and-stickbaits.md / tutorial/deep dorado-101 short extracted cleanly (gear class, live-bait-vs-jig doctrine, grade/release practice, Colt Sniper dorado application) with two evaluator fixes for duplication and an unflagged ASR read |
 | PS8CRYwTPiU | SearcherSportfishing | tutorial | deep | done | techniques/dropper-loop.md / corroborating knot-tying detail added to existing blood-knot-loop subsection, sources front-matter gap fixed |
 | PYlqIODuIPQ | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / bluefin hook-swap doctrine (Owner ST-66 treble, Owner Aki Twist, flat-fall hook transplant) added to iron-jigs.md sized/attributed correctly, one mis-routed link fixed |
-| PjLa3oGm4Qg | SearcherSportfishing | tutorial | deep | pending |  |
+| PjLa3oGm4Qg | SearcherSportfishing | tutorial | deep | done | techniques/wahoo-bomb-casting.md / Added Billy's (Fisherman's Landing/Searcher) lure-description, safety-pause, and named-gear data points to the existing wahoo-bomb-casting technique note; fixed one overconfident ASR-derived claim during review |
 | QTWVs5BwQ0g | SearcherSportfishing | tutorial | deep | pending |  |
 | Qa6Q8mOAV6I | SearcherSportfishing | tutorial | deep | pending |  |
 | R48YdVFfEOI | SearcherSportfishing | tutorial | deep | pending |  |
