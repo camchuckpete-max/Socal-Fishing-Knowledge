@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -115,6 +115,25 @@ otherwise. No specific ring product, wire brand, or leader length is named
 on camera. See [wahoo](../species/wahoo.md#situations--techniques) for the
 species-level routing and the "wind through the bite" hookset doctrine that
 goes with this rig.
+
+**A later Fisherman's Landing Tackle Shop tackle tip gives a starkly
+different figure, kept side by side rather than reconciled (Taylor, Searcher
+Sportfishing, "Tackle Tip Thursday Vol. 193 (Wahoo Lures 101)," `G81HN0dIDg0`,
+2022-08-11; unregistered channel — medium confidence):** for **flylining**
+wahoo, wire on the leader is called "very important," with "some guys"
+using fluorocarbon instead. The stated benefit — "you just have a lot less
+chance of getting bit off" because wahoo "have big mean teeth and they like
+to steal your lures and your hooks" — is given for having wire (as opposed to
+lighter straight line) on there at all; the transcript does not attribute
+that benefit specifically to choosing fluorocarbon over wire, and wire is the
+stated preference. Stated build: **44 lb wire** to a **3/0 hook**, framed on
+camera as "all you need." This is roughly a fourth to a seventh of the
+200–300 lb test given above from the same shop/channel for the same "wahoo
+live bait" application, with no stated reason for the gap (bait size, leader
+length, and wire type/brand are not given in either video to help reconcile
+them). Not treated as an update superseding the earlier figure — both are
+attributed, dated data points from the same channel, sitting side by side per
+the conflict rule.
 
 ## Rig it
 

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [dtx-minnow, nomad, tuna, trolling, swimmer, offshore]
-sources: [cameron, 9IhmYstB8sA]
+sources: [cameron, 9IhmYstB8sA, G81HN0dIDg0]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -46,6 +46,18 @@ explanation, since none is stated. No troll speed, setback, or leader spec given
 the wahoo application specifically; treat the DTX 165 running specs above as
 the closest documented analog, not a confirmed match for the 200 size. See
 [wahoo](../species/wahoo.md) for species-level routing.
+
+**A second, later Fisherman's Landing Tackle Shop tackle tip fills part of
+that gap (Taylor, Searcher Sportfishing, "Tackle Tip Thursday Vol. 193 (Wahoo
+Lures 101)," `G81HN0dIDg0`, 2022-08-11; unregistered channel — medium
+confidence):** the **Nomad DTX Minnow**, "the bigger size" (not named by
+model number on camera — not confirmed as the DTX 200 above, though it is
+the same shop's stated go-to and a plausible match), is called the "hot
+ticket for trolling" wahoo for **"the past year or two years"** — resolved
+against the 2022-08-11 upload date to roughly **2020–2022**. Stated leader:
+**275 lb wire** "to match that up with" — the first leader-test figure given
+in this corpus for the DTX-class wahoo troll application specifically (no
+length, wire type, or setback stated on camera).
 
 ## Owned examples
 

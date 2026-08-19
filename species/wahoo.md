@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -120,6 +120,13 @@ for locating wahoo specifically. General method:
 - **No conflicts on record for range/season** — coverage is too thin (mostly
   incidental bycatch mentions) to support a seasonal calendar; see the
   flagged gaps above.
+- **Conflict, not reconciled — live-bait leader wire test, same channel:**
+  Fisherman's Landing Tackle Shop gives **200–300 lb** wire for a wahoo
+  live-bait leader in one tackle tip (`9IhmYstB8sA`, 2019-11-14) and **44 lb**
+  wire (to a 3/0 hook) for flylining wahoo in a later one (Taylor,
+  `G81HN0dIDg0`, 2022-08-11) — roughly a fourth to a seventh of the earlier
+  figure, with no stated reason for the gap. Kept side by side; see
+  [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
 
 <!-- backlinks:start -->
 ## Linked from

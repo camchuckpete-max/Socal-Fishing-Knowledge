@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -54,6 +54,24 @@ where this fits among wahoo's other techniques routes from
   jig brand already logged above from `0zgmoOH3Qag` — reinforcing that brand
   name, though the "DC Strike 22" model name itself is still
   **asr-uncertain**.
+- A fourth Fisherman's Landing Tackle Shop tackle tip (Taylor, Searcher
+  Sportfishing, "Tackle Tip Thursday Vol. 193 (Wahoo Lures 101),"
+  `G81HN0dIDg0`, 2022-08-11; unregistered channel — medium confidence) adds a
+  **third named cast-lure brand, "Catchy Tackle,"** for the wahoo bomb —
+  called "kind of a staple in the wahoo fishing world" — a further,
+  independent mention that reads as the same **"Catch" tackle brand**
+  already logged twice above (`0zgmoOH3Qag`'s "Catch tackle jig" and
+  `9IhmYstB8sA`'s "Catch DC Strike 22"); carried as **asr-uncertain** since
+  no title/description confirms the brand spelling. The same tip names a
+  **heavy stinger** as a second cast-lure class alongside the bomb —
+  preferably **brightly colored: orange, pink, or bright green** — rigged
+  with **a big single hook "so the wahoo stay pinned."** Two stinger/bomb
+  product examples are named on camera: a **"Catchy Tackle" shiny** finish,
+  and a **"Tony the Tiger"** lure (read here as a color-pattern name, not
+  independently confirmed — **asr-uncertain**, no title/description to
+  cross-check). No size, weight, or retrieve detail is given for the stinger
+  specifically beyond the color and single-hook rigging; treat the
+  cast-and-burn mechanics above as the closest documented analog.
 
 ## Mechanics
 
