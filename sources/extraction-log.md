@@ -2079,7 +2079,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | FN9-rgyC9ic | SearcherSportfishing | tutorial | deep | done | rigging/john-collins-knot.md / added Vol. 96 as earlier same-note demonstration with conflicting/scaled wrap counts (5/5 standard vs 3/3 for demo cord), direction-doesn't-matter judgment call, and visual cinch tell; kept side by side per 'prefer the latest' |
 | G81HN0dIDg0 | SearcherSportfishing | tutorial | deep | done | lures/dtx-minnow.md; rigging/haywire-twist.md; species/wahoo.md; techniques/wahoo-bomb-casting.md / faithful deep extraction of a 79s tackle-tip into 4 existing notes (DTX-minnow troll leader, flylining wire conflict, bomb/stinger brands), two evaluator fixes for a misattributed benefit clause and an arithmetic approximation |
 | GXXvT7pS2fM | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md: added medium-confidence JRI Stinger/Salas 7X/Tady 45 lightweight-combo data point with 9-10ft rod corroboration |
-| GcgcnloKeZ4 | SearcherSportfishing | tutorial | deep | pending |  |
+| GcgcnloKeZ4 | SearcherSportfishing | tutorial | deep | done | nothing extractable: auto-caption ASR too garbled to support any verifiable claim (retractable sonar dome transducer topic, no reliable parameters) |
 | H5NHGLm1H5U | SearcherSportfishing | tutorial | deep | pending |  |
 | HH1YvOfMWx0 | SearcherSportfishing | tutorial | deep | pending |  |
 | ILA6OMInWSM | SearcherSportfishing | tutorial | deep | pending |  |
