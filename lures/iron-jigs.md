@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -80,6 +80,19 @@ Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
 seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence).
+
+**A shop-favorite lightweight combo, "locally long range" (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 32 (Surface Irons)," `GXXvT7pS2fM`, 2019-01-22;
+unregistered channel, single mention — medium confidence):** for California
+yellowtail fished both locally and on long-range trips, a **JRI** iron (a
+**JRI Stinger** jig), a **Salas 7X**, and a **Tady 45** (captioned "tatty
+45" — the known Tady→"Tatty" caption corruption) are named together as a
+go-to lightweight-surface-iron lineup, fished on **9 or 10 ft rods**. A
+further, independent data point for the Tady 45 / Salas 7X pairing already
+dated to the early 1990s above, and the first citation to name the JRI
+Stinger specifically alongside them; also corroborates the 9–10 ft
+rod-length window for this technique documented in
+[surface iron](../techniques/surface-iron.md).
 
 **"Wounded Warrior" — a named Tady 45 color pattern (Dave Hansen, Your
 Saltwater Guide, KLoEJInlmZo, 2021-03-23; dave-hansen is a registered voice —
