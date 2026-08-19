@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ]
 confidence: medium
 ---
 
@@ -218,6 +218,21 @@ bracket already logged in
 (also SearcherSportfishing, a different presenter/video, `2O4Z0S78KLg`); kept
 side by side, not reconciled — neither video states the target grade, so
 there's no basis to merge the two into one number.
+
+**Reel/line corroboration, extra-heavy dropper-loop program (Steve Carson,
+Penn Fishing Tackle, via SearcherSportfishing, "Tackle Tip Thursday Vol. 230
+(Dropper Loop for Yellowtail)," `CdjT_I_PBHQ`, 2024-04-11; unregistered
+channel — medium confidence).** For the **6-day-or-longer Searcher trips
+further down the Baja Peninsula**, where the yellowtail run bigger than
+anywhere near home (30–60 lb stated on camera): a **Penn Fathom two-speed
+model 80** conventional reel, topshot **80 or 100 lb test line — nothing
+less than 80, 100 is better** ("go with what you have"). This corroborates
+the 80–100 lb bracket above from the same channel's `2O4Z0S78KLg` (a
+different video/presenter, ~1 month apart) rather than being independent
+confirmation of a different source. The dropper-loop rig this reel/line
+pairing is built for — the **surgeon's-knot loop, sinker weight, hook size,
+and three ways to attach the hook** — is covered in full in [Surgeon's Loop
+(Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md).
 
 ## Casting rod/reel/top-shot general parameters (Cesar, Eric's Tackle)
 
@@ -767,6 +782,7 @@ a bluefin).
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

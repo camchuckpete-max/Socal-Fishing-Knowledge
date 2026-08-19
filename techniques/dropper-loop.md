@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -112,6 +112,21 @@ Hookers, M8hOYQ_6rSg) describes a **sliding egg sinker riding against a
 swivel, leader below to the hook** — that's the [sliding-sinker](sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar)
 rig format, not a dropper loop (hook above a fixed-position sinker); it does
 **not** confirm which format the reference-weight entry above used.
+
+- **Long-range Baja Pacific yellowtail — extra-heavy dropper loop, full
+  build spun out to [Surgeon's Loop (Giant Yellowtail,
+  Long-Range)](../rigging/surgeons-loop.md) (Steve Carson, Penn Fishing
+  Tackle, via SearcherSportfishing, "Tackle Tip Thursday Vol. 230," `CdjT_I_PBHQ`,
+  2024-04-11; unregistered channel — medium confidence):** on 6-day-or-longer
+  Searcher trips down the Baja Peninsula, an **80–100 lb line class** rig with
+  a **16–24 oz+ sinker** (crew advises per bait size/wind/current) and a
+  **~2–2½ ft dropper loop** holding a **6/0, up to 8/0–9/0** hook — the same
+  16 oz / 24 oz sinker figures logged from Ray Sharifi's Sea-of-Cortez
+  cabrilla/grouper rig above, but a different fishery and a different region
+  split (Pacific-side long-range vs. Cortez), so a numeric match rather than
+  one doctrine. Three ways to attach the hook to the loop (in-loop, standard
+  knot, and a single-leg "paternoster" finesse variant for a finicky bite)
+  are covered in full at the linked note rather than duplicated here.
 
 - **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
   Camp Pendleton, SoCal — `HMdrP4-i9MM`, kids/family Okuma trip aboard a Dana
@@ -345,6 +360,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

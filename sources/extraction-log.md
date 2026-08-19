@@ -2071,7 +2071,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Bo5Fj-XuWHo | SearcherSportfishing | tutorial | deep | done | rigging/springer-knot.md; rigging/essential-knots.md / new note for a single thin tackle-tip clip on a heavy-line hook knot, linked from Essential SoCal Knots router |
 | Bz0WZNAofks | SearcherSportfishing | tutorial | deep | done | rigging/john-collins-knot.md; rigging/essential-knots.md / new note for a single thin tackle-tip clip on a named braid-to-mono/fluoro splice, linked from Essential SoCal Knots |
 | CXrF7K4lKxE | SearcherSportfishing | tutorial | deep | done | tackle/rod-length-for-angler-size.md; tackle/rod-and-reel-selection.md / new tackle note on fitting rod length to angler build, linked from rod-and-reel-selection.md |
-| CdjT_I_PBHQ | SearcherSportfishing | tutorial | deep | pending |  |
+| CdjT_I_PBHQ | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md; tackle/rod-and-reel-selection.md; techniques/dropper-loop.md / added Vol. 230 as corroborating segment on extra-heavy dropper-loop rig for long-range Baja giant yellowtail |
 | E9YtH56Dngo | SearcherSportfishing | tutorial | deep | pending |  |
 | ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | pending |  |
 | EfaxxszOYFI | SearcherSportfishing | tutorial | deep | pending |  |
