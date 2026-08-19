@@ -128,6 +128,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
   Bimini twist entry above. Its other selling point is speed of field
   repair: because the Bimini's twisted section stays intact when this knot
   is cut away, it's the fast fix for a mid-trip break-off.
+- **John Collins knot (connection)** — another named braid-to-mono/fluoro
+  splice, mechanically distinct from the RP knot and uni-to-uni above (a
+  matched 9-up/9-down wrap, exiting back up through the loop rather than
+  down through it) — kept as its own note: [John Collins
+  Knot](john-collins-knot.md).
 
 ## Parameters & judgment
 
@@ -589,7 +594,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc),
 [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
 [single-pass San Diego jam knot, 5-wrap demo](https://www.youtube.com/watch?v=AGaVlYu61O4),
-and [surgeon's knot, quick leader retie after a break-off](https://www.youtube.com/watch?v=Aorcd0Om7eI).
+[surgeon's knot, quick leader retie after a break-off](https://www.youtube.com/watch?v=Aorcd0Om7eI),
+and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -598,6 +604,7 @@ and [surgeon's knot, quick leader retie after a break-off](https://www.youtube.c
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)

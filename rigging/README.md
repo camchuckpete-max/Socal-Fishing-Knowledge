@@ -13,6 +13,7 @@
 - [Flying Fish Harness](flying-fish-harness.md) — The pre-rigged flying fish (dead natural, netted or sabiki-caught, or an artificial) used off the kite for large local Pacific bluefin.
 - [Haywire Twist](haywire-twist.md) — The connection used to terminate single-strand wire leader — to a lure or a hook — for toothy fish that cut through even heavy mono.
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md) **[SoCal only]** — Two knotless connections made possible by hollow-core braid, both relying on the same finger-trap principle: braid woven around a buried line clamps tighter as
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md) **[SoCal only]** — A named connection knot joining braid to monofilament or fluorocarbon, demonstrated by Captain Rob Taylor of the *Searcher* for a Tackle Tip Thursday.
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
@@ -41,35 +42,40 @@ graph LR
   n6["Flying Fish Harness"]
   n7["Haywire Twist"]
   n8["Hollow-Core Splice & Serving"]
-  n9["Leadhead Mods & Rigging"]
-  n10["Rubber-Band Deep Rig"]
-  n11["San Diego Jam — Single vs. Double, and When to Use Each"]
-  n12["Slim Beauty Knot — Spectra-to-Topshot Splice"]
-  n13["Springer Knot — Heavy-Line Hook Tie"]
-  n14["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n15["Tony Pena Knot — Mono-to-Spectra Splice"]
-  n16["Trap Rig"]
-  n17["Tuna Feather Rig"]
-  n18["Wind-On Leader"]
-  n19["Wiring a Surface Iron"]
+  n9["John Collins Knot — Braid to Mono/Fluoro Splice"]
+  n10["Leadhead Mods & Rigging"]
+  n11["Rubber-Band Deep Rig"]
+  n12["San Diego Jam — Single vs. Double, and When to Use Each"]
+  n13["Slim Beauty Knot — Spectra-to-Topshot Splice"]
+  n14["Springer Knot — Heavy-Line Hook Tie"]
+  n15["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n16["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n17["Trap Rig"]
+  n18["Tuna Feather Rig"]
+  n19["Wind-On Leader"]
+  n20["Wiring a Surface Iron"]
   n1 --> n2
-  n10 --> n4
   n11 --> n4
   n12 --> n4
-  n12 --> n5
   n13 --> n4
+  n13 --> n5
   n14 --> n4
   n15 --> n4
-  n19 --> n7
+  n16 --> n4
   n2 --> n1
   n2 --> n7
-  n4 --> n10
+  n20 --> n7
   n4 --> n11
   n4 --> n12
   n4 --> n13
   n4 --> n14
   n4 --> n15
-  n4 --> n18
-  n8 --> n18
+  n4 --> n16
+  n4 --> n19
+  n4 --> n9
+  n8 --> n19
+  n9 --> n14
+  n9 --> n16
+  n9 --> n4
 ```
 <!-- mermaid:end -->

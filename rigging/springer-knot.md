@@ -55,4 +55,5 @@ Billy, Fisherman's Landing Tackle Shop, 2022-04-14).
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 <!-- backlinks:end -->

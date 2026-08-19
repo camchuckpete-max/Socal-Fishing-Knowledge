@@ -69,4 +69,5 @@ Capt. Shawn Allen, 2021-06-24).
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 <!-- backlinks:end -->
