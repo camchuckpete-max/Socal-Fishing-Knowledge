@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [dtx-minnow, nomad, tuna, trolling, swimmer, offshore]
-sources: [cameron]
+sources: [cameron, 9IhmYstB8sA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -32,6 +32,21 @@ like the DTX versus a spreader bar, a speed-trolled
 [bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
+## Wahoo trolling application (DTX 200)
+
+Searcher Sportfishing / Fisherman's Landing (`9IhmYstB8sA`, 2019-11-14;
+unregistered channel — medium confidence): the **DTX 200** (a larger size
+than the 165 covered above) is named, alongside a second high-speed trolling
+plug whose brand is not confidently resolved from the auto-captions (heard as
+"the elderly" — **asr-uncertain**, not carried by name), as part of a basic
+wahoo trolling kit. Both plugs are described as run with a **single hook**
+rather than trebles — stated as a downside ("that's a bummer") with no
+reason given on camera; not connected here to any hardware-durability
+explanation, since none is stated. No troll speed, setback, or leader spec given for
+the wahoo application specifically; treat the DTX 165 running specs above as
+the closest documented analog, not a confirmed match for the 200 size. See
+[wahoo](../species/wahoo.md) for species-level routing.
+
 ## Owned examples
 
 Profiles link the subset an angler owns. Cameron's DTX Minnow 165 (new in box)
@@ -46,4 +61,5 @@ and its rod/holder pairing are in
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Trolling](../techniques/trolling.md)
+- [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

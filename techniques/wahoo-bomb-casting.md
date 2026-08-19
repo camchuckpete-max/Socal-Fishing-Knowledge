@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -39,6 +39,21 @@ where this fits among wahoo's other techniques routes from
   documented in this corpus; carried as stated. Auto-generated captions are
   the only source for this brand name (no title/description to cross-check),
   so treat it as provisional if it needs re-verifying later.
+- A third Searcher Sportfishing tackle tip (`9IhmYstB8sA`, 2019-11-14,
+  Fisherman's Landing) separates the cast options into two classes rather
+  than naming a single kit: a **wahoo bomb** (a single hook set inside tinsel
+  skirts) OR a **heavy jig** — roughly **six ounces**, built skinny so it
+  sinks fast and cranks fast, also carrying a single hook. Two shop-stocked
+  jig picks are named on camera, both auto-caption-only and not
+  cross-checkable against a title/description: a **"6X Jr"** — phonetically
+  matching the [Salas 6X Jr.](../lures/iron-jigs.md), a model already
+  documented elsewhere in this KB, though "Salas" itself is not spoken on
+  camera, so the brand match is carried as likely, not confirmed
+  (**asr-uncertain**) — and a **"Catch DC Strike 22"** (heard as "the cat DC
+  strike 22s"), which reads as a second, independent mention of the "Catch"
+  jig brand already logged above from `0zgmoOH3Qag` — reinforcing that brand
+  name, though the "DC Strike 22" model name itself is still
+  **asr-uncertain**.
 
 ## Mechanics
 
@@ -46,6 +61,16 @@ where this fits among wahoo's other techniques routes from
   before starting the retrieve.
 - Retrieve: **wind it in as fast as possible.**
 - No bite: wind all the way in and repeat the cast.
+- **On the bite, keep cranking — don't stop until the fish takes line off the
+  reel** (Searcher Sportfishing, `9IhmYstB8sA`, 2019-11-14): the stated
+  instruction is to crank through the strike itself rather than pausing to
+  feel for it, "line through the bite," and only ease up once the fish is
+  actually taking drag. This is the cast-and-burn version of the same
+  no-slack discipline logged for the trolled bomb fight at Alijos Rocks — see
+  [wahoo — situations → techniques](../species/wahoo.md#situations--techniques)
+  — kept as a separate, attributed data point rather than merged into that
+  entry since it describes the hookset/early-fight moment on a cast retrieve,
+  not the ongoing fight.
 
 ## Rigging
 

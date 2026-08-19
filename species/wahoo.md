@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -49,6 +49,14 @@ leader is mandatory regardless of line test — see
   confidence). See [sand bass](sand-bass.md#where--when) for the full ENSO
   framing, and [upwelling and turnover](../conditions/upwelling-and-turnover.md)
   for the general mechanism.
+- **Doctrine (medium — Searcher Sportfishing / Fisherman's Landing,
+  `9IhmYstB8sA`, 2019-11-14):** **October and November** named on camera as
+  "the best time of year to catch wahoo" — a short tackle-tip framing, no
+  destination/region named for the claim (filmed at the Fisherman's Landing
+  dock in San Diego, which is not itself wahoo grounds — not inferred as the
+  location). Sits beside, not merged into, the fall Mag Bay and November
+  lower-banks data points above; together they're the closest this corpus
+  comes to a seasonal read, still short of a full calendar.
 - **No repeated seasonal calendar established in this corpus** beyond the fall
   Mag Bay mention and the November lower-banks bycatch above — thin coverage,
   flagged rather than smoothed into a calendar.
@@ -66,10 +74,12 @@ for locating wahoo specifically. General method:
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Dedicated wahoo stop on known structure/bank (e.g. Alijos Rocks) | 1) Bomb-style **trolled** lure 2) Cast a **wahoo bomb, Raider jig, or Catch tackle jig**, burn retrieve | Trolling class / [jig-stick class](../tackle/gear-classes.md) | Trolled bomb favored by one angler for hookup ratio on wahoo's back-half strike; casting a bomb or Raider jig on wire leader is documented as the standard two-lure kit, with a second source (`0zgmoOH3Qag`) adding a "Catch tackle jig" as an alternative when not trolling — see [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#lure-choice) and [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
+| Dedicated wahoo stop on known structure/bank (e.g. Alijos Rocks) | 1) Bomb-style **trolled** lure 2) Cast a **wahoo bomb, Raider jig, Catch DC Strike jig, or 6X Jr-class jig**, burn retrieve | Trolling class / [jig-stick class](../tackle/gear-classes.md) | Trolled bomb favored by one angler for hookup ratio on wahoo's back-half strike; casting a bomb or Raider jig on wire leader is documented as the standard two-lure kit, with two further sources (`0zgmoOH3Qag`, `9IhmYstB8sA`) each naming a "Catch"-brand jig as an alternative when not trolling — see [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#lure-choice) and [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
+| Trolling with high-speed hard-bait plugs instead of a bomb-style lure | Single-hook high-speed diving plugs — the **Nomad DTX 200** named, plus a second plug whose brand is ASR-unresolved | Trolling class | Searcher Sportfishing / Fisherman's Landing, `9IhmYstB8sA` — see [DTX Minnow — wahoo trolling application](../lures/dtx-minnow.md#wahoo-trolling-application-dtx-200) |
 | Wahoo picked up **incidentally while transiting** between grounds | Run a dedicated wahoo transit lure (magnet-held hook, stated to "run true" up to ~20 kt) without slowing the boat | Trolling class | ⚠ promotional claim (lure-company owner describing his own product) — low confidence on the product claim itself; see [trolling — Magdalena Bay](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin) |
 | Wahoo hooked, **fighting it** | Wind continuously — **do not pump the rod**; slack lets a wahoo throw the hook | — | See [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
 | Mixed offshore troll (tuna/dorado/marlin spread) picking up wahoo as bycatch | Standard offshore trolled spread — no wahoo-specific rigging documented beyond the wire-leader requirement | Trolling class | See [trolling — East Cape](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin) |
+| Live bait on hand, fishing it like standard live-bait bait-and-switch | Sardine on a wire leader (single- or multi-strand, **200 or 300 lb test**, small connector rings in the build), fished like any live-bait presentation; on the bite, **don't swing — wind through the bite** | [flyline class](../tackle/gear-classes.md) | Searcher Sportfishing / Fisherman's Landing, `9IhmYstB8sA` — see [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader) |
 
 ## Gear summary (class terms)
 
@@ -80,6 +90,9 @@ for locating wahoo specifically. General method:
 - **Trolling:** a two-speed conventional reel is favored for wahoo — high
   gear for the initial strike, low gear to settle into the fight — see
   [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo).
+- **Live bait:** [flyline class](../tackle/gear-classes.md), sardine on a
+  **200–300 lb** single- or multi-strand wire leader — see
+  [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
 - **Terminal:** wire leader is mandatory — teeth cut through mono regardless
   of test. See [haywire twist](../rigging/haywire-twist.md).
 
@@ -102,6 +115,8 @@ for locating wahoo specifically. General method:
 <!-- backlinks:start -->
 ## Linked from
 
+- [DTX Minnow](../lures/dtx-minnow.md)
+- [Haywire Twist](../rigging/haywire-twist.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

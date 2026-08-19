@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -102,6 +102,19 @@ single-strand option with "a wire twist" — sitting beside, not confirming or
 correcting, this note's stated rule that braided/cable-type wire is normally
 crimped rather than haywire-twisted. No further detail (crimp sleeve, tool) is
 given on camera to resolve which method the seven-strand option actually uses.
+
+## Wahoo live-bait leader
+
+Searcher Sportfishing / Fisherman's Landing (`9IhmYstB8sA`, 2019-11-14;
+unregistered channel — medium confidence): a build for **fishing live bait**
+(a sardine) for wahoo, distinct from the cast/troll lure leaders above. Small
+connector rings ("little black rings") plus wire — either **single-strand or
+multi-strand** — are used to make up a leader in **200 or 300 lb test**, with
+a hook tied to a sardine and fished like any live-bait presentation
+otherwise. No specific ring product, wire brand, or leader length is named
+on camera. See [wahoo](../species/wahoo.md#situations--techniques) for the
+species-level routing and the "wind through the bite" hookset doctrine that
+goes with this rig.
 
 ## Rig it
 

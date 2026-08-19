@@ -313,6 +313,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wiring a Surface Iron](../rigging/wiring-a-surface-iron.md)
 - [Yellowtail](../species/yellowtail.md)
