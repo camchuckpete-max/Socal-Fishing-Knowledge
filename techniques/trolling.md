@@ -20,6 +20,15 @@ top-shot specs live in each lure note.
 - You are **covering water in transit** or searching a zone, and want lures
   working while you look. See [bluefin trolling](../species/bluefin-trolling.md).
 - You want lines out sweeping a bird/bait area (below).
+- **Why troll — locating fish, not just catching them** (Captain R Taylor,
+  SearcherSportfishing, `8UAtGqEjDtU`, 2023-04-13; unregistered channel —
+  medium confidence): the stated primary reason to troll is that fish don't
+  always show on the fish-finding gear or visually on the surface — a strike
+  on a trolling lure marks fish that would otherwise go undetected. Troll
+  less (or not at all) once schools are visible on the surface, or during
+  long drift periods — no reason given on camera for the drift case beyond
+  the correlation. Standard heavy trolling outfit on this boat: **80 or
+  100 lb test**.
 - **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
   `_C8w6zeVPak`, Shogun Skiff Trip part 3): with bait and birds showing and
   fish boiling from time to time but no bite on

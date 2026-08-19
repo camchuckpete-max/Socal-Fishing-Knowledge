@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [cedar-plug, tuna, bluefin, yellowfin, trolling, offshore]
-sources: [cameron, AH4Eiya1Hn0]
+sources: [cameron, AH4Eiya1Hn0, 8UAtGqEjDtU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -57,6 +57,17 @@ Dave Hansen (subscription-pitch context — low confidence per the
   land inside this note's existing speed (5–9 kt, ~6–7.5 kt for yellowfin)
   and setback (15–40 ft in the wash, or 50–100+ yd back) framework rather
   than adding a new parameter.
+
+## SearcherSportfishing — "Old Reliable," natural pattern, pre-rigged leader
+
+Captain R Taylor, SearcherSportfishing, `8UAtGqEjDtU`, 2023-04-13; unregistered
+channel — medium confidence. Framed on camera as **"Old Reliable"** — a
+decades-proven confidence lure ("if you have Old Reliable that's worked every
+time for the last two decades, then by all means put that in the water"),
+corroborating the daisy-chain confidence-lure framing above from a second,
+independent boat/source. Stated favorite color/pattern: **natural**. This
+plug ships **pre-rigged with a leader**, so it ties directly onto the
+trolling outfit without additional rigging.
 
 ## Owned examples
 

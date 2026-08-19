@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [halco, laser-pro, diver, tuna, trolling, offshore]
-sources: [cameron]
+sources: [cameron, 8UAtGqEjDtU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -33,6 +33,16 @@ versus a swimmer, a spreader bar, or a speed-trolled
 [Mad Mac](../lures/mad-mac.md) is decided in
 [bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
+
+## Cross-boat confirmation (SearcherSportfishing)
+
+Captain R Taylor, SearcherSportfishing, `8UAtGqEjDtU`, 2023-04-13; unregistered
+channel — medium confidence. A Halco swimmer plug is named on camera as
+having "been successful in the past" in this boat's trolling rotation — a
+thin, single-mention confirmation of the model family as a working trolling
+swimmer. No speed, setback, or leader parameters given beyond what's already
+logged above; not confirmed on camera as the same LP190 XDD variant this note
+covers.
 
 ## Owned examples
 

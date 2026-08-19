@@ -2055,7 +2055,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 83HROAgGW6Q | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / dated update appended to existing Steve Carson drop-shot build with rod/reel/line detail and a corroborated/updated dropper-line figure, kept side by side per convention |
 | 8A8y7LmRwVQ | SearcherSportfishing | tutorial | deep | done | no destinations; nothing extractable: 43s generic watch-the-hot-stick advice, no species/region/parameters, soak-vs-cycling already covered in techniques/flyline.md |
 | 8MayoweWrAM | SearcherSportfishing | tutorial | deep | done | tackle/offset-hooks.md; tackle/hooks.md; tackle/README.md — new tackle note on offset vs. inline hooks (Owner SSW Inline Circle 6/0, Owner Super Mutu 6/0, Owner Gorilla 5/0, Owner Offshore 5/0; two stated reasons for offset) |
-| 8UAtGqEjDtU | SearcherSportfishing | tutorial | deep | pending |  |
+| 8UAtGqEjDtU | SearcherSportfishing | tutorial | deep | done | techniques/trolling.md; lures/cedar-plug.md; lures/halco-laser-pro.md — Capt R Taylor doctrine on why/when to troll (locate fish, less trolling on long drifts, 80-100lb outfit), cedar-plug Old Reliable and Halco swimmer confirmation |
 | 9-3B-WRWqus | SearcherSportfishing | tutorial | deep | pending |  |
 | 91ZJbhAnzMg | SearcherSportfishing | tutorial | deep | pending |  |
 | 9IhmYstB8sA | SearcherSportfishing | tutorial | deep | pending |  |
