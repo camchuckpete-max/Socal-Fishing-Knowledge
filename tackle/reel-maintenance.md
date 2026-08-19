@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg]
 confidence: medium
 ---
 
@@ -23,6 +23,34 @@ context is in [rod & reel selection](rod-and-reel-selection.md).
   towel (microfiber is ideal but not required) after every rinse.
 - Use a **toothbrush** to work salt and grit out of the small, hard-to-reach areas
   the towel misses.
+
+## Post-trip breakdown — unmount and drain (Vince, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol. 165 (Rod/Reel Maintenance)," `UyfcYoNV2sg`, 2022-01-20; registered channel (`searcher-sportfishing`), single mention of this specific routine — medium confidence)
+
+A short per-trip breakdown routine, done **right when you get off the boat**,
+distinct from both the rinse-and-dry habit above and the offseason storage
+prep below:
+
+- **Light rinse first.** A light rinse of the rod and reel with a hose works
+  right after the trip — **hard water or fresh water both work fine** for
+  this step; it doesn't have to be soft/filtered water.
+- **Pull the reel off the rod and unmount it** before putting gear away.
+  Breaking the setup down at the end of every trip, rather than storing rod
+  and reel assembled, is what the rest of this routine depends on.
+- **Store the reel upright, not face-side up.** The reel body has **two
+  drainage holes on the bottom**; stored upright, residual salt water drains
+  back out through those holes. The video sets this up as a contrast with
+  storing it face-side up, but the auto-captions cut off mid-sentence right
+  at the comparison ("and if you store it like that face side up"
+  [00:00:50–00:00:52], then jump straight to the corrosion-spray tip) — the
+  reason face-side-up storage is worse is never actually completed on camera,
+  so it is not carried here as a stated claim (`asr-uncertain`); only the
+  upright-storage recommendation and the drainage-hole mechanism are asserted.
+- **Spray rod and reel with a corrosion inhibitor and wipe it down** as part
+  of this same after-every-trip routine — not reserved for the offseason
+  lay-up alone (compare the **Winter lay-up** corrosion-spray step below,
+  which frames the same product for idle-reel storage specifically).
+- **Payoff:** next time the reel comes out of the box, the bearings are still
+  good and it's ready to fish.
 
 ## Rod protection during travel — stick jacket (Logan, SearcherSportfishing, "Tackle Tip Thursday Vol. 209 (Protect Your Fishing Rods)," `OmyRIw7Eye8`, 2022-12-15; registered channel (`searcher-sportfishing`), single mention of this specific claim — medium confidence)
 
