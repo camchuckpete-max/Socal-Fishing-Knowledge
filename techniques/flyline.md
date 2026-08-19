@@ -736,6 +736,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
