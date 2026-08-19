@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -257,6 +257,29 @@ fluoro leader, braid main line — and feed the terminal rigs in
   logged in [Improved Clinch Knot](improved-clinch-knot.md) — read as
   strengthening that naming, not the doubled-through-the-eye mechanic this
   bullet opens with.
+  **Overlap-around-the-eye caution + a 100 lb breaking-strength demo cut
+  short (presenter identified in captions as Shawn Trowbridge, off the
+  *Searcher* and a longtime friend of Izorline per the on-camera intro, at
+  the Izorline booth, via SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 40," `Qa6Q8mOAV6I`, 2019-03-21 — ASR-only name, not corroborated by
+  the video title/description, flagged `asr-uncertain`;
+  `searcher-sportfishing` registered; the 6-wrap figure below is a repeat of
+  doctrine already logged above, but the overlap-around-the-eye caution is a
+  single mention here, so this entry caps at medium — medium
+  confidence):** ties the doubled-through-the-eye ("double San Diego")
+  version on **100 lb** line, restating the same 6-wrap figure already
+  logged above — "what works on the San Diego the best is six wraps."
+  **New caution not stated in the other entries above:** don't overwrap or
+  overlap the line around the eye — both while laying the wraps down the
+  standing line and again while sliding the cinched coils down, keep the
+  coils stacked cleanly rather than crossing over each other at the ring;
+  called "the best knot you can get" when tied this way. Before cinching
+  all the way down, wet the knot (saliva or water) for the same
+  abrasion/burn-prevention reasoning already logged above. **Framed on
+  camera as a breaking-strength test** — "we are going to tie the double San
+  Diego and see where 100-lb line breaks" — but the 71-second clip cuts to
+  black just as the finished knot comes off the test clip; no breaking-strength
+  figure is stated or shown, so none is recorded here.
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
