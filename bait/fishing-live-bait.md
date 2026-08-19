@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -255,6 +255,39 @@ boat** — exactly the wrong direction. Two positions solve this:
 These positions solve the tension problem the nose hook has for
 [flyline](../techniques/flyline.md) fishing specifically; see that note for
 when to reach for each position by water column.
+
+### Hand-picking bait and minimizing hold time (SearcherSportfishing, "Tackle Tip Thursday Vol. 128," BacIrmOK-Bo, 2020-12-03; unregistered channel — medium confidence)
+
+A channel tackle-tip demo (presenter's role not stated on camera) on picking
+and hooking bait straight from the tank by hand:
+
+- **Selecting:** come up underneath the bait slowly, then cup/scoop it out of
+  the water rather than grabbing it. This is a hand-pick method, shown as "how
+  I like to" do it. **Conflict, kept side by side:** this hand-picks the bait
+  and briefly holds it out of the water to hook it — the opposite starting
+  point from the net-and-carry method logged above from Capt. Dave Hansen
+  ("Net the bait, don't hand it... Holding a bait up out of the water knocks
+  the scales off it and starts killing it"). Both sources agree scale loss
+  from handling is the thing to avoid; they disagree on whether hand-picking
+  is an acceptable way to select bait at all. This video's method leans on
+  minimizing *hold time* once the bait is in hand rather than avoiding the
+  hand entirely.
+- **Minimize hold time — the stated scale-loss mechanism:** the longer a bait
+  sits in the hand, the more scales rub off onto the angler's hand, and that
+  scale loss is what kills the bait — hook it and let go right away to keep
+  it "nice and slimy" with its scales intact. Squeezing the bait strips
+  scales the same way, so don't squeeze it either.
+- **Shoulder hook** — his stated favorite position: through the shoulder, a
+  thin part of the body just in front of the dorsal fin (auto-captions render
+  this "the door" — asr-uncertain, read as dorsal from context and hook
+  placement). Corroborates the Collar/shoulder/dorsal row in the table above.
+- **Butt hook** — just in front of the anal fin, given as the other position
+  he uses. Stated mechanism, corroborating the Belly/Butt row above: pulling
+  a butt-hooked bait makes it dive down more, while a shoulder-hooked bait
+  gets pulled back up and stays nearer the surface.
+
+Both positions: let go of the bait immediately once it's hooked, for the same
+scale-preservation reason above.
 
 ## Bait selection is king
 
