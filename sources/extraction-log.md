@@ -2100,7 +2100,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | MjPY-nWZJ54 | SearcherSportfishing | tutorial | deep | done | bait/bait-tanks.md / added receiver-side bait-selection routine + Searcher deck-box/well scoop counts as new subsection, medium confidence; evaluator softened one hardened hedge and one unsourced tool definition |
 | MuC0uGKDzxg | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md / 3 attributed additions (nose-hook retrieve bite-getter, hold-the-leash carry tip, weak-sardine red-spot diagnostic) merged into existing bait note at medium confidence (unregistered channel), one faithfulness overstatement trimmed |
 | NGtja-dCiC8 | SearcherSportfishing | tutorial | deep | done | tackle/spinning-reel-bait-feeder.md; tackle/rod-and-reel-selection.md / new tackle note on spinning-reel live-bait-feeder dual-drag mechanism, linked in from rod-and-reel-selection.md, medium confidence (unregistered channel, single mention) |
-| NJ9ZLAU3sls | SearcherSportfishing | tutorial | deep | pending |  |
+| NJ9ZLAU3sls | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md; techniques/chunking.md / Chunking rig + technique tip for Guadalupe Island big tuna split between tackle (reel/line/rod/hook/swivel) and technique (natural-fall secret) notes, region gate widened to include baja-pacific-north |
 | NN5MWeRA28o | SearcherSportfishing | tutorial | deep | pending |  |
 | OIiDJu4mx44 | SearcherSportfishing | tutorial | deep | pending |  |
 | OL8D1l73RVg | SearcherSportfishing | tutorial | deep | pending |  |

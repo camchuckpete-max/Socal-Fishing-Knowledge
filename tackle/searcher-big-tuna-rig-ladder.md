@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class]
-sources: [0E9REoTjKrY, 6wVlDDno2TE, ETw_3AFxEcM]
+sources: [0E9REoTjKrY, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls]
 confidence: medium
 ---
 
@@ -168,6 +168,34 @@ examples from this same segment: 100 lb test sits in the middle of an
 rig's heavier 80–150 lb rod is matched to 100–130 lb line rather than to the
 rod's rated extremes.
 
+## Chunking rig — Guadalupe Island big tuna (speaker not named on camera, "Tackle Tip Thursday Vol. 68 (Chunking)," `NJ9ZLAU3sls`, 2019-10-03; unregistered channel — medium confidence)
+
+The earliest-dated entry in this note — predates the 2020-03-19 and
+2023-07-13 tips above by several months to years. A chunking-specific rig for
+Guadalupe Island's big tuna (species not named on camera beyond "tuna"),
+grade called out at **100, 120, 130, and 140 lb**.
+
+- **Reel:** Penn International 16VISX, filled all the way with **100 lb test
+  braid** — the same reel model as the
+  [100 lb rig](#rig--penn-international-16visx-100-lb) above, but this clip
+  gives no reel-weight or accessibility framing.
+- **Top shot:** a **casting-length** top shot, **fluorocarbon or mono** — no
+  line-class or yardage given, unlike the ~10 yd of 100 lb mono specified for
+  the 2023 100 lb rig above; kept side by side as a separate, less-detailed
+  data point rather than merged into it.
+- **Rod:** rated **60–130 lb** — a wider/lower-starting rating than the
+  80–130 lb rod given for the 2023 16VISX rig above; not reconciled, just
+  logged as this clip's own figure.
+- **Main/leader line:** **60, 80, or 100 lb test** is enough — stated
+  reasoning: Guadalupe's big tuna "are not finicky when they want to bite the
+  chunk."
+- **Hook:** "a nice big hook that'll hold them" — no size given.
+- **Swivel:** optional, to cut line twist — not required.
+- **Presentation** (strip line so the chunk sinks naturally, "as if there's
+  nothing attached to it") is the technique's own doctrine, not a rig
+  parameter — logged in
+  [chunking](../techniques/chunking.md#guadalupe-island-big-tuna--a-natural-falling-chunk-is-the-secret-searchersportfishing-tackle-tip-thursday-vol-68-chunking-nj9zlau3sls-2019-10-03-unregistered-channel-speaker-not-named-on-camera--medium-confidence).
+
 ## Related
 
 - [Bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) — the
@@ -192,6 +220,7 @@ rod's rated extremes.
 
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Chunking](../techniques/chunking.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

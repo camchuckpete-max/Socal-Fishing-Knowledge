@@ -1,9 +1,9 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4, JK2-cpaXkI8, bM2vUS1B-yQ]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4, JK2-cpaXkI8, bM2vUS1B-yQ, NJ9ZLAU3sls]
 confidence: high
-regions: [socal-bight]
+regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
 ---
 
@@ -23,6 +23,9 @@ and why they've shut off are the routers:
   competing again. See [dorado](../species/dorado.md).
 - **Tuna at anchor or on a drift** where a live-bait flyline alone isn't drawing
   them up. See [bluefin tuna](../species/bluefin-tuna.md).
+- **Guadalupe Island, Baja big tuna** that are hungry and indiscriminate — see
+  below; tackle for this application is in
+  [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
 
 ## Building the chum line
 
@@ -40,6 +43,22 @@ and why they've shut off are the routers:
   drag that makes it fall unnaturally or hang in the column gives it away.
 - Feed line as the drift takes it; a chunk that behaves exactly like the others
   is the one that gets eaten.
+
+## Guadalupe Island big tuna — a natural-falling chunk is "the secret" (SearcherSportfishing, "Tackle Tip Thursday Vol. 68 (Chunking)," `NJ9ZLAU3sls`, 2019-10-03; unregistered channel, speaker not named on camera — medium confidence)
+
+Framed as a Guadalupe Island, Baja (baja-pacific-north) tip: big tuna there are
+described as "very indiscriminate" when hungry — they'll take a chunk of
+mackerel or "a chunk of something else" readily. Species is not named on
+camera beyond "tuna"; grade is called out at **100, 120, 130, and 140 lb**.
+
+- **The stated secret:** when letting the chunk out, **strip line so it's
+  sinking naturally, as if there's nothing attached to it** — the same
+  match-the-fall principle in "Drifting the hook bait" above, restated here as
+  this presenter's own explicit "secret" for Guadalupe's big tuna.
+- Full reel/line/rod/hook/swivel tackle from the same clip (Penn
+  International 16VISX, 100 lb braid, 60–130 rod, "a nice big hook that'll
+  hold them," optional swivel) is logged in
+  [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
 
 ## On a paddy (dorado wake-up)
 
@@ -323,6 +342,7 @@ fish around the boat once you're on them.
 - [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
 <!-- backlinks:end -->
