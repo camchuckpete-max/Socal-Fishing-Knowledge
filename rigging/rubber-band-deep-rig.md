@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -106,6 +106,28 @@ drop-shot/brawler build logged in its own section below.
   sinker to run changes with **wind, current, and how deep the fish are
   marking**, on a given day or even a given hour — his standing advice is to
   ask the crew rather than default to one weight.
+- **Earlier instance of the same two builds, dated (SearcherSportfishing,
+  `KYE14piJAzI`, "Tackle Tip Thursday Vol. 55 (Sinker rig fishing),"
+  2019-07-03; unregistered channel — medium confidence):** a shorter tip
+  video from the same channel, four years before the Vol. 225 video above,
+  walks through what reads as the same two mechanics for the same target
+  (bluefin tuna): a doubled-over loop pulled through the sinker's eye and
+  hung on ("double it over... put the sinker on"), versus **"bridling it
+  on"** — this earlier video's own name for looping the band through both
+  sides of the torpedo sinker before pulling the hook through the resulting
+  loop. Same stated advantage, essentially word for word: bridling "makes it
+  a little bit less likely to tangle up with the guy next to you," matching
+  the neighboring-angler-tangle reasoning given for the wrapped/two-hole
+  build above. It also describes anchoring the band so it can't slide down
+  toward the hook before cinching it tight, consistent with Mason's
+  above-the-leader-knot anchoring step logged below. **Leader:** captions are
+  badly garbled on the exact figure (transcribed "violent age sixty or
+  eighty pound"), but **60 or 80 lb fluorocarbon** reads through the
+  garbling and is in range with the 50–80 lb leader already logged above;
+  not resolved beyond that and flagged `asr-uncertain`. Read together with
+  the Vol. 225 video, this indicates the channel has taught the same
+  two-build rig, including the neighboring-angler-tangle reasoning, since at
+  least mid-2019 — not a doctrine that changed by 2023.
 
 ## Sinker and hook parameters (a second, independent source)
 
