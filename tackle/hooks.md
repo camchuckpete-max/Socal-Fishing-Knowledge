@@ -24,6 +24,12 @@ logic behind them.
 | **Treble** | Three points | Self-hooking on the strike | Hard baits / plugs; the trailing hook on a flying-fish rig |
 | **Assist** | Short cord + hook lashed to the jig's top | Hooks on the fall/lift | [Knife jigs](../lures/knife-jigs.md) and slow-pitch |
 
+**Offset vs. inline** is a separate axis from style, shape, size, wire gauge,
+and finish — a hook's point can be bent out from the shank (offset) or kept
+straight in line with it (inline), and this shows up on both circle hooks and
+J hooks. See [offset hooks](offset-hooks.md) for what it means, named examples,
+and why anglers reach for it.
+
 ### Circle vs. J — the core decision (sWRSYCmt4Tw, m2q22sPPkEM)
 
 - **Circle** is the default live-bait hook offshore because it does the work for
@@ -445,6 +451,8 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 
 ## Related
 
+- [Offset hooks](offset-hooks.md) — what offset means and why anglers use it,
+  on both circle and J hooks.
 - [Fishing live bait](../bait/fishing-live-bait.md) — nose/collar/butt hooking and
   hook placement.
 - [Flyline](../techniques/flyline.md) — the technique these live-bait hooks serve.
@@ -464,6 +472,7 @@ specific claims — `medium` confidence; region: Baja, Sea of Cortez):**
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)

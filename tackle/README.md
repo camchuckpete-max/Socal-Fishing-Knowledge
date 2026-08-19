@@ -9,6 +9,7 @@
 - [Hooks — Style, Size, and Matching to Bait](hooks.md) — A hook is chosen on four axes: style (how it sets), size (matched to the bait, then the fish), wire gauge (how much it burdens a live bait vs.
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md) — How a jigging rod's guide train is built, and how wide its paired reel's spool is, both feed the same goal — keeping the line (and the jig) vertical and under c
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
+- [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md) — Spun out of hooks — this note is a single, narrow point that note's four-axis (style/size/wire-gauge/finish) framework doesn't cover: offset is a separate axis
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md) — Gear is a big investment; a rinse-and-store discipline is what makes it last.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Two entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
@@ -26,33 +27,36 @@ graph LR
   n2["Hooks — Style, Size, and Matching to Bait"]
   n3["Spiral-Wrap ('Acid-Wrap') Guides and Narrow Reels for Jigging Rods"]
   n4["Line & Leader — Braid, Mono, Fluoro by Application"]
-  n5["Reel & Rod Maintenance — Offseason TLC"]
-  n6["Rod & Reel Selection — by Application"]
-  n7["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
-  n8["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n5["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
+  n6["Reel & Rod Maintenance — Offseason TLC"]
+  n7["Rod & Reel Selection — by Application"]
+  n8["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n9["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
   n0 --> n1
   n0 --> n2
   n0 --> n3
   n0 --> n4
-  n0 --> n6
   n0 --> n7
+  n0 --> n8
   n1 --> n4
-  n1 --> n6
+  n1 --> n7
   n2 --> n0
   n2 --> n4
+  n2 --> n5
   n3 --> n0
   n3 --> n1
-  n3 --> n6
+  n3 --> n7
   n4 --> n1
-  n4 --> n6
-  n4 --> n8
-  n5 --> n4
-  n5 --> n6
-  n6 --> n0
-  n6 --> n1
+  n4 --> n7
+  n4 --> n9
+  n5 --> n2
+  n6 --> n4
+  n6 --> n7
   n7 --> n0
   n7 --> n1
-  n7 --> n6
-  n8 --> n4
+  n8 --> n0
+  n8 --> n1
+  n8 --> n7
+  n9 --> n4
 ```
 <!-- mermaid:end -->

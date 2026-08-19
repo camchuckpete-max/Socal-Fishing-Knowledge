@@ -2054,7 +2054,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 7ivBSL-mhW8 | SearcherSportfishing | tutorial | deep | done | rigging/slim-beauty-knot.md; rigging/essential-knots.md / new note for the modified slim beauty knot spectra-to-topshot splice, cross-linked from essential-knots.md as a distinct construction from the RP knot; fixed one misattributed quote during review |
 | 83HROAgGW6Q | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / dated update appended to existing Steve Carson drop-shot build with rod/reel/line detail and a corroborated/updated dropper-line figure, kept side by side per convention |
 | 8A8y7LmRwVQ | SearcherSportfishing | tutorial | deep | done | no destinations; nothing extractable: 43s generic watch-the-hot-stick advice, no species/region/parameters, soak-vs-cycling already covered in techniques/flyline.md |
-| 8MayoweWrAM | SearcherSportfishing | tutorial | deep | pending |  |
+| 8MayoweWrAM | SearcherSportfishing | tutorial | deep | done | tackle/offset-hooks.md; tackle/hooks.md; tackle/README.md — new tackle note on offset vs. inline hooks (Owner SSW Inline Circle 6/0, Owner Super Mutu 6/0, Owner Gorilla 5/0, Owner Offshore 5/0; two stated reasons for offset) |
 | 8UAtGqEjDtU | SearcherSportfishing | tutorial | deep | pending |  |
 | 9-3B-WRWqus | SearcherSportfishing | tutorial | deep | pending |  |
 | 91ZJbhAnzMg | SearcherSportfishing | tutorial | deep | pending |  |
