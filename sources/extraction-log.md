@@ -3009,3 +3009,40 @@ Scope when it runs:
 
 **Note:** the KB currently has **zero** occurrences of "tube bait" outside
 transcripts, so this is a genuine coverage gap as well as a naming error.
+
+### C-2 — Searcher Sportfishing promoted; re-rate sweep owed
+
+**Cameron, 2026-08-19:** *"Searcher should absolutely be promoted as a
+source."* Row added to `sources/source-registry.md` the same day as
+`searcher-sportfishing`, registered as a **channel/series** (like
+`crust-to-coast`) rather than a person, because the channel carries several
+named voices — Capt. Art, Steve Carson (Penn), Wendy (Izorline), Doug Kearn,
+Logan Watson, other Team Searcher captains — and the instructional value is in
+the numbered single-subject Tackle Tip Thursday format. Sponsored-claim caveat
+attached, as with `cesar`: mechanism and parameters rate normally, product and
+model endorsements stay `low`.
+
+**Applied immediately, not deferred**, because the extractor reads the registry
+at write time — every remaining video in the worklist now rates against the
+correct standing. This was 74% of the run's chain output (91 of the first 123
+completed videos), all previously capped at `medium` for want of this row.
+
+**Owed at the post-run pass — a re-rate sweep of what is already written.**
+Promotion removes the *cap*; it does not upgrade anything by itself. The rubric
+still says repeated doctrine is `high` and a single mention is `medium`, so
+this is a per-note judgment, never a find-and-replace.
+
+Measured at the time of promotion — 54 notes cite a Searcher video, 36 of them
+sit at `confidence: medium`:
+
+- **14 cite exactly one Searcher video** — these stay `medium`. A single
+  mention from a registered source is still a single mention.
+- **22 cite two or more** — candidates for `high`, but only where the *same
+  doctrine* repeats across those videos rather than several videos each
+  contributing a different claim. Largest: `rigging/essential-knots.md` (10
+  Searcher ids), `species/wahoo.md` (6), `techniques/wahoo-bomb-casting.md`
+  (6), `tackle/rod-and-reel-selection.md` (5).
+
+Each of the 22 needs reading before its rating moves. Notes that mix Searcher
+with other sources also need the mixed-attribution check — a note is not `high`
+because one of its several sources is registered.
