@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w]
 confidence: medium
 ---
 
@@ -170,11 +170,14 @@ in:
   rod; conditions vary trip to trip, so the longer stick is the safer default.
 - **Reel: a mid-sized star-drag conventional is the standard** — his own
   example is a **Torium 20**, plus a second brand name (rendered "italica" in
-  the auto-generated captions — not a real reel brand, left unresolved rather
-  than guessed) and "any manufacturer that makes a nice star drag reel of this
-  size," offered as equivalent class options (not a single-brand endorsement).
-  Some of the better **casting lever-drag reels** can now be used too,
-  especially for tuna.
+  the auto-generated captions — not a real reel brand on its own; a second,
+  independent SearcherSportfishing tip garbles the same string the same way
+  in a two-speed-reel context, corroborating a read of **Shimano Talica** —
+  see the two-speed entry below — so this is now flagged `asr-uncertain`
+  rather than left fully unresolved) and "any manufacturer that makes a nice
+  star drag reel of this size," offered as equivalent class options (not a
+  single-brand endorsement). Some of the better **casting lever-drag reels**
+  can now be used too, especially for tuna.
 - **Tranx named as a good casting reel** specifically for its **adjustable
   brakes** — they cut down on backlash while still letting the jig get out far
   from the boat.
@@ -191,6 +194,26 @@ in:
   a jig swimming a flat, unbroken line doesn't get bit as well as one that
   gives that kick. See [iron jigs](../lures/iron-jigs.md) for the class specs
   this corroborates and the hook-style detail.
+
+## Two-speed reels for multi-day bluefin trips — Fisherman's Landing / Searcher counter tip (SearcherSportfishing)
+
+Filmed in the Fisherman's Landing tackle rental room, via SearcherSportfishing
+("Tackle Tip Thursday Vol. 57 (2-Speed Reels)," `Rudzy0DD08w`, 2019-07-18;
+`searcher-sportfishing` registered — single mention, medium confidence). On a
+**day-and-a-half or 3-day trip**, a two-speed reel is called a must: the
+bluefin running on those trips grade **50–80 lb, with some fish over 100 lb**.
+Anglers without one can rent a two-speed at the Fisherman's Landing counter;
+the **Searcher** also carries loaner gear aboard. Two examples shown at the
+counter:
+
+- A **TLD 20** on a 6.5 ft rod, spooled with **60 lb test**.
+- A **Talica 12** (auto-captions render "italica 12" — read as **Shimano
+  Talica**, the same brand corroborated as garbled the same way in Doug
+  Kearn's surface-iron tip above; flagged `asr-uncertain`) on a 7 ft rod,
+  **40 lb test — stated as the minimum** for this application. Two uses named
+  for this lighter 40 lb two-speed outfit: a [flat-fall lure](../lures/knife-jigs.md)
+  for fishing after dark or before daylight, or a [fly-lined
+  sardine](../techniques/flyline.md) outfit.
 
 ## Long-range yellowtail rod/line/leader — Tackle Tip Thursday (Darren, SearcherSportfishing)
 
@@ -771,6 +794,7 @@ a bluefin).
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

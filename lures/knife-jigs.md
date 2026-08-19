@@ -528,6 +528,7 @@ rigging from class terms above until it lands; see
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Yellowtail](../species/yellowtail.md)
