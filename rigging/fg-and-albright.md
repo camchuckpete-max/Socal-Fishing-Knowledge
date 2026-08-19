@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [fg-knot, albright, modified-albright, braid-to-leader, connection-knot, casting]
-sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o, 5472APCgym8]
+sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o, 5472APCgym8, Bn9fRKUmQ-U]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -51,6 +51,20 @@ system: braid main line, fluoro or mono leader.
 - **Albright range:** tied from roughly **8 lb to 8 lb** up to **80 lb to
   100 lb** — a very wide span. Trim the tags flat but not flush; leave a little
   on each side so they can't pull back through.
+- **Albright variant — double-back wrap** (Norm Fujimoto, Izorline, on
+  SearcherSportfishing, 2019-05-16, `Bn9fRKUmQ-U`, Tackle Tip Thursday Vol.
+  48 — the earliest Albright demo in this corpus, about five months before
+  the spaced-then-overlap version below): form the loop in the mono/fluoro
+  leader, pass the braid ("Spectra") up through it and wrap **5 to 7 times**,
+  pinch the wraps off, then wrap back down over the same wraps in the same
+  direction the same number of times — doubling each wrap in place rather
+  than spacing them out or reversing direction. Feed the braid tag back
+  through the loop **once or twice**, then pull all the lines tight; the knot
+  slides up and seats. Drop the tag ends and pull only the main lines to
+  finish cinching, then trim. Framed as good "for any test line" — no
+  pound-test range stated. A third distinct Albright wrap pattern alongside
+  the base 10-wrap-one-way method above and the spaced-then-overlap method
+  below.
 - **Albright variant — spaced-then-overlap wrap, aka "Modified Albright"**
   (SearcherSportfishing, 2019-10-10, `-BO1lMCTamg`; repeated by Ryan,
   SearcherSportfishing, 2021-05-20, `5472APCgym8`): after forming the
@@ -94,6 +108,7 @@ system: braid main line, fluoro or mono leader.
 
 How-to videos: [FG knot, step by step](https://www.youtube.com/watch?v=CIMTyepgonk),
 [the Albright knot](https://www.youtube.com/watch?v=NXtvXkqpT9w),
+[the double-back wrap Albright variant](https://www.youtube.com/watch?v=Bn9fRKUmQ-U),
 [the spaced-then-overlap Albright variant](https://www.youtube.com/watch?v=-BO1lMCTamg),
 [the same variant retied as the "Modified Albright"](https://www.youtube.com/watch?v=5472APCgym8),
 and [the dissimilar-line Albright variant](https://www.youtube.com/watch?v=2fwj24S9S-o).

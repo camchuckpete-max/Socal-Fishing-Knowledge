@@ -2067,7 +2067,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | BLbUu_mfMJY | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; techniques/surface-iron-casting.md / Two dated, medium-confidence attributions added (jig models 2018-10-18 predating existing 2020-06-11 corroboration; rod-length trade-off quote), correctly capped and split across lure vs technique notes |
 | BacIrmOK-Bo | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md / amended hand-picking/hold-time/shoulder-butt-hook doctrine into existing note, flagged as conflicting with logged net-and-carry doctrine |
 | BcX-tp3I7LE | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added as a supporting bare-line friction-test entry under the San Diego jam wetting-reasoning bullet, corroborating existing lubrication rationale with earliest-dated Wendy/SearcherSportfishing clip |
-| Bn9fRKUmQ-U | SearcherSportfishing | tutorial | deep | pending |  |
+| Bn9fRKUmQ-U | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md / added third Albright wrap-pattern variant (double-back wrap, Norm Fujimoto/Izorline) with its own bullet + demo link; confidence held at medium (unregistered channel) |
 | Bo5Fj-XuWHo | SearcherSportfishing | tutorial | deep | pending |  |
 | Bz0WZNAofks | SearcherSportfishing | tutorial | deep | pending |  |
 | CXrF7K4lKxE | SearcherSportfishing | tutorial | deep | pending |  |
