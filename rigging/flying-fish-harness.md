@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8, RM7cBgCDWFA]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -166,6 +166,40 @@ the **helium balloon / kite rig** for big local bluefin fishing:
 Kept side by side with the skewer-and-zip-tie harness above, not merged into
 it — a different wing-lock material (tied braid vs. zip tie) for the same
 kind of rig, not shown to be superior or inferior.
+
+## Searcher's Yummy Flyer and dead-flyer leader specs (Tackle Tip Thursday Vol. 145)
+
+Logan Watson, SearcherSportfishing (`RM7cBgCDWFA`, "Tackle Tip Thursday Vol.
+145 (Yummy Flyer Outfit)," 2021-04-29; presenter self-identified on camera —
+the auto-generated captions render the name as "Logan Flashington," read here
+as the same presenter who self-identifies as Logan Watson in the channel's
+G Fly Yummy rigging tutorial above (`2TmLaSCmfC8`); surname is
+`asr-uncertain`). Registered channel, repeated doctrine across two videos —
+`high` confidence for the hook/leader construction; the specific reel/rod
+brand mentions below are product endorsements and stay `low` per the
+sponsored-claim rule for this channel. Two separate leaders are shown for the
+kite spread, both terminating at a **500 lb ball-bearing swivel** that
+connects the leader to the kite (fishing) rod's main line:
+
+- **"Yummy Flyer" leader:** **400 lb Izorline XXX (Triple X)** mono, to a big
+  **9/0 to 12/0 J hook made by Owner**, with a trailing **5X-strong treble
+  hook, also Owner**, stated on camera as "extremely strong" and built to
+  "hold up under a fish's brute force." Same J-hook-plus-trailing-treble
+  construction as the standard San Diego flyer rig above (`GqcVaTIlyg0`), now
+  with a named hook brand (Owner) that the earlier sources didn't specify.
+- **Dead flying fish leader:** a separate leader, **3 ft of 400 lb mono**, to
+  a big **9/0 Owner** hook (the specific model name is garbled in the
+  auto-generated captions — heard as "Joe Boo Hood" — `asr-uncertain`,
+  withheld rather than guessed), with a trailing **5X Owner treble hook**.
+  The **3 ft length corroborates** the bite-leader length (3 ft, 3.5 ft max)
+  and the 400 lb mono weight already logged above (`YsiHziY_PWw`) — repeated
+  doctrine on both numbers.
+
+This video's on-camera language uses "Yummy Flyer" for the leader/hook rig
+shown in hand — not confirmed to be the same physical product as the trolled
+rubber "Yummy Flyer" lure (`2y0VznL2qk8`) or the dead/frozen "G Fly Yummy"
+(`2TmLaSCmfC8`) logged above. Kept side by side, not merged, since none of the
+three sources cross-references the others' product.
 
 ## Rig it
 

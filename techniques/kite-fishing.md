@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -307,6 +307,28 @@ trigger to speed-troll once the kite won't fly. See
 - **Observed reel example:** an **Okuma Makaira 50 Wide** on the kite/fighting
   outfit (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel —
   medium confidence).
+- **Observed outfit, long-range boat kite/fighting rod (Logan Watson,
+  SearcherSportfishing, `RM7cBgCDWFA`, 2021-04-29 — presenter self-identified
+  on camera, captions render the name "Logan Flashington," `asr-uncertain`
+  surname; registered channel, single mention — medium confidence; the named
+  reel brand is a product mention and stays `low` per the sponsored-claim
+  rule):** a **Shimano Tiagra 50 Wide** loaded with **200 lb** line "for the
+  extra strain." The presenter separately states that kite-fishing main line
+  generally wants **roughly 1,000 yd of 130 to 200 lb mono** capacity, then
+  self-corrects on camera ("sorry ... on here I have") to describe this
+  specific reel as a **15 ft top shot of 135 lb mono** over **200 lb braid**
+  — the transcript does not cleanly resolve whether the 1,000 yd figure is
+  this reel's actual spooled capacity or general advice, so it is reported
+  here as the general statement, not asserted as this reel's line count
+  (`asr-garbled`). The top shot connects to the braid with a knot the
+  presenter names on camera as a "cat's paw knot" (not a standard
+  line-to-line knot name in this fishery's other sources; `asr-uncertain`,
+  preserved as heard rather than corrected). The **rod** is rated **80 to
+  200 lb, unlimited class**, 7 ft
+  6 in, built as a **rail rod** specifically so a big fish can be fought off
+  the rail without breaking the rod down (rod brand not resolved — heard as
+  "draft," `asr-uncertain`, withheld). A **500 lb ball-bearing swivel** joins
+  the top shot to the [flying-fish-harness leader](../rigging/flying-fish-harness.md#searchers-yummy-flyer-and-dead-flyer-leader-specs-tackle-tip-thursday-vol-145).
 
 ## Common failures
 
