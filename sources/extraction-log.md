@@ -2084,7 +2084,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | HH1YvOfMWx0 | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md: added pre-season rod inspection subsection (reel-seat threads, guide-insert fingertip check, weld points, tip check) |
 | ILA6OMInWSM | SearcherSportfishing | tutorial | deep | done | planning/report-reading-and-forecasting.md: added plunker-style report-vocabulary section, cross-linked to techniques/flyline.md |
 | IaVqJgUfcM8 | SearcherSportfishing | tutorial | deep | done | rigging/slim-beauty-knot.md / merged Vol.175 (rope demo) into existing slim-beauty-knot.md: 2nd source in front matter, wrap-count-scales-with-pound-test rule, rope-vs-Spectra thickness caveat on turn counts, and the stated reason (avoids back-to-back-uni tag-end catching in guides on a cast) to prefer this knot; second how-to link added |
-| Ixyi1mY3Qeg | SearcherSportfishing | tutorial | deep | pending |  |
+| Ixyi1mY3Qeg | SearcherSportfishing | tutorial | deep | done | techniques/underhand-casting.md / folded a third short SearcherSportfishing clip's backlash-avoidance tip (lob not whip; re-thumb before splashdown) into the existing underhand-casting note as an additive section, medium confidence (unregistered channel), after removing two unstated invented rationale clauses |
 | J0NJhN6-Thg | SearcherSportfishing | tutorial | deep | pending |  |
 | J3FGJj5zYPE | SearcherSportfishing | tutorial | deep | pending |  |
 | J7nreDb1dn8 | SearcherSportfishing | tutorial | deep | pending |  |

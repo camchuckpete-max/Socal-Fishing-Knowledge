@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [casting, live-bait, underhand-cast, beginner, tight-quarters]
-sources: [0hQJxESLTm4, 7iSGGb9ueAk]
+tags: [casting, live-bait, underhand-cast, beginner, tight-quarters, backlash]
+sources: [0hQJxESLTm4, 7iSGGb9ueAk, Ixyi1mY3Qeg]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -49,6 +49,19 @@ weight: rest one finger on the spool, use your pointer finger to pull some
 line off by hand, then lift the rod tip and guide the bait out. Its framing
 is that you don't need much distance on this cast when you're just getting
 bait out.
+
+## Avoiding backlash
+
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 86," `Ixyi1mY3Qeg`,
+2020-02-06; unregistered channel — medium confidence.) A third, shorter tip
+from the same channel/series, on the same thumb-on-the-spool mechanic above,
+adding the backlash-avoidance detail:
+
+- **Lob it, don't whip it.** Bring the lure up to about where the reel sits,
+  then lob it out with a controlled motion — not a hard whipping cast.
+- **Thumb the spool again just before the lure hits the water.** This is the
+  same thumb-control principle as the free-spool/thumb-on-spool setup above,
+  applied a second time at the other end of the cast.
 
 ## Related
 
