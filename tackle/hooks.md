@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag]
 confidence: medium
 ---
 
@@ -262,6 +262,23 @@ and the **Mutu** hook logged above — a **thinner gauge**, stated to make the
 bait **swim better**. Comes both **ringed and unringed**. Stated use: tie it
 on and **flyline a sardine** — consistent with the thin-wire-for-live-bait
 rule under **Wire gauge**, above. No size given on camera.
+
+### Owner Ringed Flyliner — downsizing as the Coronado Islands bite improved (SearcherSportfishing, "Tackle Tip Thursday Vol. 23," `F9XjGMEvvag`, 2018-11-20; unregistered channel — medium confidence)
+
+As the [Coronado Islands](../species/yellowtail.md#where--when) bite was
+starting to pick up (dated 2018-11-20), the boat's stated tip was to run
+**smaller J hooks** for that fishing: **Owner Ringed Flyliner**, in sizes
+**1, 2, and 4**, called the most popular hook choice "as of recent" for
+fishing it on fluorocarbon. Consistent with, not new beyond, the
+bait-sets-the-hook-size/smaller-gets-more-eats doctrine above — a named
+J-hook product data point tied to a specific, dated Coronados bite
+improvement rather than a general rule. Stated for what the transcript
+renders as "lifeline fluorocarbon" fishing — asr-uncertain, read here as
+**flyline fluorocarbon** (i.e. [flylining](../techniques/flyline.md) on a
+fluorocarbon leader) given the hook, brand, and no-weight context; the
+trailing phrase rendered as "yellow fishing" is likewise asr-uncertain and
+read as yellowtail fishing given the Coronados/J-hook context, but not
+confidently resolved.
 
 ### A finesse-rig hook ladder by grade (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
 

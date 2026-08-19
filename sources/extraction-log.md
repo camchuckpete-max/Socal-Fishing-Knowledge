@@ -2075,7 +2075,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | E9YtH56Dngo | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md / tackle-stocking tip for bluefin (flat-fall, Colt Sniper, one unresolved personal-favorite jig) split across the two correct lure notes |
 | ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; species/yellowfin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/wahoo-bomb-casting.md; techniques/yo-yo-iron.md / amended 5 existing notes with Searcher yo-yo/fly-line rig spec, wahoo Ridge ground + bomb retrieve speed, Guadalupe six-day yellowfin fly-lining fishery, and color-by-forage reasoning; fixed one overgeneralized trip-length qualifier |
 | EfaxxszOYFI | SearcherSportfishing | tutorial | deep | done | species/yellowfin-tuna.md / added hook-size/light-line data point for Guadalupe/ridge yellowfin tuna, sourced medium confidence (unregistered channel), fixed a misattributed cross-reference to the Vol. 189 source |
-| F9XjGMEvvag | SearcherSportfishing | tutorial | deep | pending |  |
+| F9XjGMEvvag | SearcherSportfishing | tutorial | deep | done | species/yellowtail.md; tackle/hooks.md / Coronados-bite hook-downsizing tip (Owner Ringed Flyliner, sizes 1/2/4) added to hooks.md with a routed summary in yellowtail.md; fixed missing sources entry |
 | FN9-rgyC9ic | SearcherSportfishing | tutorial | deep | pending |  |
 | G81HN0dIDg0 | SearcherSportfishing | tutorial | deep | pending |  |
 | GXXvT7pS2fM | SearcherSportfishing | tutorial | deep | pending |  |
