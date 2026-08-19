@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -197,6 +197,29 @@ where this fits among wahoo's other techniques routes from
     description above (jig-stick class, ~9 ft, star-drag, mid-to-higher
     retrieve ratio) — it sits inside the same class and sharpens it with
     specific models.
+- **A third, independently sourced gear-class data point — two rods split by
+  lure weight, with a stated reason for the longer rod's length (Logan,
+  Searcher Sportfishing / Fisherman's Landing, "Tackle Tip Thursday Vol. 195
+  (Rigs for Wahoo)," `W6RuHvaqkHs`, 2022-09-01; searcher-sportfishing
+  registered channel/series, single mention on these specific rod parameters
+  — medium confidence):**
+  - **General iron / heavier-lure rod: 9 ft jig stick.** Stated reason for
+    the length: a longer rod gets the lure farther away from the boat, and
+    the angler's stated experience is that a lure farther from the boat
+    "might have a better chance of getting bit versus the angler next to
+    you" — a competitive-casting-distance rationale, not a lift or
+    lure-control rationale. Consistent with, and a third independent voice
+    on, the ~9 ft jig-stick class already documented above.
+  - **Wahoo-bomb-specific rod: 7 ft 8 in, stiffer than the 9 ft rod above.**
+    Named specifically for lures heavier than a generic iron — **wahoo
+    bombs and any lure roughly 6–8 oz** — the added stiffness is what still
+    lets the angler get a heavier lure far from the boat. Paired with a
+    fast-retrieval reel, stated **retrieve speed of 43 in per crank**, so
+    the lure comes back in "nice and fast" — a specific retrieve-speed
+    figure not given by either source above. This 7 ft 8 in rod sits close
+    to, but is a distinct data point from, the 7.5 ft Calstar 875H logged
+    above — same general length window, independently sourced, not stated
+    as the same rod.
 
 ## Common failures
 

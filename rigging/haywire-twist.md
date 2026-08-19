@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -174,6 +174,18 @@ unreconciled data point beside the 200–300 lb (`9IhmYstB8sA`) and 44 lb
 (`G81HN0dIDg0`) figures above — three different wire-test figures from the
 same channel for the same "wahoo live bait leader" application, spanning
 roughly a 5x-to-7x range, with no stated reason for any of the gaps.
+
+**A fourth data point — rod/reel/line class rather than leader-build detail
+(Logan, Searcher Sportfishing / Fisherman's Landing, "Tackle Tip Thursday
+Vol. 195 (Rigs for Wahoo)," `W6RuHvaqkHs`, 2022-09-01; searcher-sportfishing
+registered channel/series, single mention on these specific parameters —
+medium confidence):** for **live-bait wahoo fishing**, an **8 ft rod** paired
+with "a good sized reel" spooled with **40–50 lb test**, fishing "a short
+wire leader like the one I have tied on here" — no wire test or leader
+length is given on camera for this specific leader, so it does not resolve
+any of the three wire-test figures logged above. Stated capability: this
+setup "would be perfect for live bait fishing wahoo up to 60 to 70 pounds" —
+a new, previously undocumented wahoo-size figure for this application.
 
 ## Rig it
 
