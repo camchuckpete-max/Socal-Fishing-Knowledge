@@ -2121,7 +2121,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Stw7SNyIgdg | SearcherSportfishing | tutorial | deep | done | none / skipped: promotional apparel content (sun gloves/buffs/hats), no SoCal/Baja fishing decision knowledge, generic what-to-bring content excluded by curation bar |
 | TU5quAG4atM | SearcherSportfishing | tutorial | deep | done | techniques/dart-jig-tuna.md; lures/iron-jigs.md; rigging/essential-knots.md; species/bluefin-tuna.md; species/yellowfin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md / new technique note (Dart/Colt-Sniper daytime finesse tuna jigging) plus corroborating additions to knots/hooks/rig-ladder/species routers; evaluator fixed fabricated term, unsupported reel spec, rubric-laundered confidence upgrade, missing sources id |
 | TgOMUXxIQl4 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; tackle/rod-and-reel-selection.md / Steve Carson dockside tip merged as corroborating spinning-reel spec + leader-by-lure-type doctrine into existing popper/stickbait casting-gear section |
-| Ud3hi9r1Nr4 | SearcherSportfishing | tutorial | deep | pending |  |
+| Ud3hi9r1Nr4 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; techniques/foamer-casting.md; techniques/skip-jigging.md / 2018-07 Searcher fleet report on Colt Sniper/P-Line Laser Minnow bluefin retrieves, merged as corroborating data, skip-jigging bumped medium->high |
 | UfuQr6gOIk8 | SearcherSportfishing | tutorial | deep | pending |  |
 | UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | pending |  |
 | UyfcYoNV2sg | SearcherSportfishing | tutorial | deep | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -106,6 +106,22 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+**Earliest real-time fleet report in this corpus for this lure
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 4," `Ud3hi9r1Nr4`, upload
+2018-07-12, filed as a same-week Searcher fleet report — "straight from the
+Searcher... real-time info"; `searcher-sportfishing` registered channel —
+mechanism/parameter content medium confidence, product naming itself capped
+low per the channel's sponsored-claim caveat):** a **100 g Colt Sniper** cast
+on **40 or 50 lb test** into the middle of a bluefin school foaming on the
+surface, fished either **sunk to about 50 ft then wound in fast**, or
+**skipped across the surface** the instant it lands (reel in gear, rod tip
+up) — two distinct retrieves for the same lure, logged in full in
+[foamer casting](../techniques/foamer-casting.md#retrieve-mechanics) and
+[skip jigging](../techniques/skip-jigging.md) respectively. Stock small
+treble hooks can be swapped for single hooks, stated to potentially improve
+both action and hook-up on bluefin — consistent with, not new beyond, the
+stock-hook-upgrade doctrine below.
 
 **Stock hook/split-ring upgrade (Billy, Fisherman's Landing Tackle Shop, via
 SearcherSportfishing, "Tackle Tip Thursday Vol. 82," `J7nreDb1dn8`,
@@ -439,6 +455,24 @@ established as the same product as [Halco Laser Pro](halco-laser-pro.md)
 (a trolled diving minnow, not a cast lure) — kept as a separate, distinct
 entry rather than merged. **Color doctrine: anything shiny and
 baitfish-colored works.**
+
+**Earlier same-name data point, brand plausibly resolved (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 4," `Ud3hi9r1Nr4`, upload 2018-07-12, predating the
+Vol. 19 entry above by over three months; `searcher-sportfishing` registered
+channel — mechanism/parameter content medium confidence, product naming
+capped low per the channel's sponsored-claim caveat):** a **6 oz** "laser
+minnow," captioned clearly enough to read as **P-Line's Laser Minnow**
+(**asr-uncertain** — still an auto-generated caption, so this reading is
+plausible, not certain), cast for **bluefin** on **40 or 50 lb test**, fished
+either sunk-and-burned or skipped across the surface — see
+[foamer casting](../techniques/foamer-casting.md#retrieve-mechanics) and
+[skip jigging](../techniques/skip-jigging.md). The **6 oz** size here doesn't
+match the Vol. 19 entry's **2 oz** figure above, and the target species
+differs (bluefin here vs. yellowfin there) — kept as a distinct, not merged,
+data point per the preserve-specifics rule; either P-Line makes the Laser
+Minnow in more than one size, or these are two similarly-named products, not
+resolved here. Stock trebles on this lure can also be swapped for single
+hooks, stated to help both action and hook-up on bluefin.
 
 ## Casting gear for poppers and burn baits
 

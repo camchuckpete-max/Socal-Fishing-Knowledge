@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g, Ud3hi9r1Nr4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -174,6 +174,22 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   doctrine above, which doesn't give a depth. Same source's safety note for a
   casting deck with other anglers: **look behind you before you cast** so you
   don't hook a fellow angler or crew member.
+- **Repeat confirmation, an earlier episode of the same channel/series
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 4," `Ud3hi9r1Nr4`, upload
+  2018-07-12, filed as a same-week Searcher fleet report — "straight from the
+  Searcher... real-time info"):** independently gives the same
+  free-spool-then-burn mechanic for bluefin foaming on the surface — cast a
+  **Shimano Colt Sniper (100 g)** or **P-Line Laser Minnow (6 oz)** on **40 or
+  50 lb test** into the middle of the school, **let it sink to about 50 feet,
+  then wind it in fast** — close to, and a second-episode repeat of, the
+  ~60 ft free-spool/burn figure above (kept as two distinct sink-depth data
+  points, not smoothed into one number, per the preserve-specifics rule). The
+  same source also gives a **skip-it-across-the-surface** alternative for the
+  same two lures — reel in gear and rod tip up the instant the lure lands,
+  worked through the boiling fish rather than sunk — the same mechanic
+  already documented in [skip jigging](skip-jigging.md), not repeated here.
+  Both lures ship with small treble hooks the source suggests swapping for
+  single hooks, for action and hook-up.
 
 - **Don't overwork the pop (Roman Castro, mWxyjDrcdXM, 2021-07-17; `roman-castro` registered 2026-08-17, single mention —
   medium confidence):** the pop itself doesn't need to be hard or
