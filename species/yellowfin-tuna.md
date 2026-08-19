@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -242,6 +242,19 @@ the bluefin nearby become more cooperative too.**
   light-line-for-picky-fish pattern — one stated as **20 lb line, 20–25 lb
   leader**; another as a roughly **4 ft, 20–25 lb fluoro leader on 50 lb
   Spectra**.
+- **Dated tackle-shop tip, promotional (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 20," 2018-10-31, `NN5MWeRA28o`; unregistered channel, the
+  segment opens by pitching a Seaguar Blue Label sale at the shop's own
+  tackle day — low confidence):** for school-grade yellowfin that had been
+  around the **Coronado Islands** (Baja, `baja-pacific-north` region label)
+  with the bite described on camera as still **"starting"** (an
+  early/not-yet-full-on phase), the stated tip was **light-line
+  fluorocarbon — 20 lb or 25 lb Seaguar Blue Label**. No reason is given
+  beyond naming the product and pound test; kept side by side as a further
+  light-leader-for-a-still-forming-school data point alongside the picky-bite
+  scale-down doctrine and the 20–25 lb fluoro leader observations logged just
+  above (`AIHvJj-paoo`), not merged into either since this source gives its
+  own grade numbers with no stated reasoning.
 - **Observed** (StokedOnFishing, `SczdZIq3UmE`, 2019-10-02, offshore SoCal near
   the 209 bank; unregistered channel — medium confidence): a private-boat trip
   found white terns working over **72°F** water and boated yellowfin graded
