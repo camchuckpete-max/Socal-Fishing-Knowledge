@@ -2092,7 +2092,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JOanxql39qg | SearcherSportfishing | tutorial | deep | done | none - skipped: promotional dockside fish-processing service ad, no fishing knowledge content |
 | KGrussv1s3U | SearcherSportfishing | tutorial | deep | done | rigging/bite-leaders.md - corroborating flat-fall leader build (24in/200lb/size-1 crimp, decision-rationale on chafe-resistance) merged as medium-confidence sub-entry alongside existing Vol.28 entry |
 | KHYoj9GEjCM | SearcherSportfishing | tutorial | deep | done | none - skipped: duplicate-of -62xDo4UQzo (identical 94s recording/ASR-artifact match; all content already captured in techniques/wahoo-bomb-casting.md + rigging/haywire-twist.md) |
-| KLmNyflzsQ0 | SearcherSportfishing | tutorial | deep | pending |  |
+| KLmNyflzsQ0 | SearcherSportfishing | tutorial | deep | done | techniques/dropper-loop.md - added heavy-tackle blood-knot dropper-loop build (Shimano TLD 30, 80lb, 16-20oz torpedo, 6/0-9/0 hook), medium confidence, as new subsection |
 | KYE14piJAzI | SearcherSportfishing | tutorial | deep | pending |  |
 | LpReZmYQSCU | SearcherSportfishing | tutorial | deep | pending |  |
 | M-W5mEjh1MY | SearcherSportfishing | tutorial | deep | pending |  |

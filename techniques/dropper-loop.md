@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -137,6 +137,39 @@ rig format, not a dropper loop (hook above a fixed-position sinker); it does
   structure detail). Baits included live sardine and a dropper-style strip of
   squid or sardine, producing calico and [sand bass](../species/sand-bass.md).
   Unregistered channel — medium confidence.
+
+### Heavy-tackle build — blood-knot loop (SearcherSportfishing, Tackle Tip Thursday Vol. 75, `KLmNyflzsQ0`, 2019-11-21; unregistered channel — medium confidence)
+
+No target species or location is named on camera — a generic heavy-tackle
+bottom rig. **Two-speed reel** (a Shimano TLD 30 shown) spooled with **80 lb
+test**, a **16 to 20 oz torpedo sinker** to reach bottom, and a hook sized
+**6/0 to 9/0** depending on bait size, fished on a live mackerel, nose-hooked.
+Heavier across the board than the 6–10 oz SoCal reference logged above — kept
+side by side as a heavy-tackle variant, not reconciled.
+
+- **Tying the loop (blood-knot method):** start with **24 in of line** to
+  leave a long loop. Twist the doubled line **about half a dozen times**,
+  leaving one twist running to the rod side and one to the sinker side. Bring
+  the bottom of the loop back up through the middle between the two twists,
+  put the loop in your mouth, and pull both standing lines to cinch the
+  twists tight — leaves roughly a **12 to 14 in loop** out of the 24 in of
+  line used.
+- **Attaching the hook — two ways:** (1) double the loop, pass it through the
+  hook eye, then pass the hook back through the loop — simple, but "sometimes
+  doesn't hold as well"; or (2) tie a [San Diego jam
+  knot](../rigging/san-diego-jam-single-vs-double.md) or [improved clinch
+  knot](../rigging/improved-clinch-knot.md) to the hook instead of the
+  loop-through-eye method — preferred by "some people" for better hold.
+  Either way, trim the tag end so the finished loop above the hook runs **8
+  to 10 in**.
+- **Sinker placement:** about **36 in (3 ft) below the hook** — called "a
+  little long" by the presenter — tied on with a straight improved clinch
+  knot, no separate loop.
+- **Fishing it:** nose-hook a live mackerel or sardine, drop to the bottom,
+  put the reel in gear and wind up slightly so the sinker isn't sitting
+  directly on bottom (protects the terminal tackle), and fish **extremely
+  snug drag**. On the bite, shift to low gear and horse the fish up and away
+  from the structure right away to avoid losing it back to the bottom.
 
 ## Deploying it — drop, detect bottom, read the bite (Your Saltwater Guide)
 

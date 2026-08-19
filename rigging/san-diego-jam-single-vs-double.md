@@ -52,5 +52,6 @@ which named the single as the live-bait alternative without demonstrating it.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
 <!-- backlinks:end -->

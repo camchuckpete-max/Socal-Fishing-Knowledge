@@ -209,5 +209,6 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
 <!-- backlinks:end -->
