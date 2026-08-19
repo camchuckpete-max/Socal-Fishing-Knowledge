@@ -10,7 +10,10 @@ name: publish-bight-watch
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Every 10 minutes while the ingestion chain is active (Cameron,
+    # 2026-08-19). Revisit if the KB repo ever goes private — at this cadence
+    # the runs alone outspend a private repo's included Actions minutes.
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       branch:
@@ -20,7 +23,6 @@ on:
   # A freshly registered cron can take a long time to fire its first run, and
   # a session without actions:write cannot dispatch. Touching this file kicks
   # a rebuild immediately.
-  # Kicked 2026-08-19: manual refresh requested by Cameron.
   push:
     paths:
       - .github/workflows/publish-bight-watch.yml
