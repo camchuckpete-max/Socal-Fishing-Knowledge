@@ -2076,7 +2076,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; species/yellowfin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/wahoo-bomb-casting.md; techniques/yo-yo-iron.md / amended 5 existing notes with Searcher yo-yo/fly-line rig spec, wahoo Ridge ground + bomb retrieve speed, Guadalupe six-day yellowfin fly-lining fishery, and color-by-forage reasoning; fixed one overgeneralized trip-length qualifier |
 | EfaxxszOYFI | SearcherSportfishing | tutorial | deep | done | species/yellowfin-tuna.md / added hook-size/light-line data point for Guadalupe/ridge yellowfin tuna, sourced medium confidence (unregistered channel), fixed a misattributed cross-reference to the Vol. 189 source |
 | F9XjGMEvvag | SearcherSportfishing | tutorial | deep | done | species/yellowtail.md; tackle/hooks.md / Coronados-bite hook-downsizing tip (Owner Ringed Flyliner, sizes 1/2/4) added to hooks.md with a routed summary in yellowtail.md; fixed missing sources entry |
-| FN9-rgyC9ic | SearcherSportfishing | tutorial | deep | pending |  |
+| FN9-rgyC9ic | SearcherSportfishing | tutorial | deep | done | rigging/john-collins-knot.md / added Vol. 96 as earlier same-note demonstration with conflicting/scaled wrap counts (5/5 standard vs 3/3 for demo cord), direction-doesn't-matter judgment call, and visual cinch tell; kept side by side per 'prefer the latest' |
 | G81HN0dIDg0 | SearcherSportfishing | tutorial | deep | pending |  |
 | GXXvT7pS2fM | SearcherSportfishing | tutorial | deep | pending |  |
 | GcgcnloKeZ4 | SearcherSportfishing | tutorial | deep | pending |  |
