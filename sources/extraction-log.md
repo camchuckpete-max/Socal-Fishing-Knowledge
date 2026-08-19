@@ -2062,7 +2062,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9_lwOzaLmXo | SearcherSportfishing | tutorial | deep | done | none / promotional tackle-sale ad with no decision-grade content; skip logged in sources/extraction-log.md |
 | AGaVlYu61O4 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added corroborating entry (Pete Gray/SearcherSportfishing Vol.140) naming the single-pass tie San Diego jam knot and logging its 5-wrap count, medium confidence (unregistered channel) |
 | AodUBhxPts8 | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md; techniques/foamer-casting.md / tough-foamer troubleshooting (keep trying / switch to what's biting / downsize jig / dead-stick stickbait / slow-wind iron) and a Halco-brand ASR corroboration added, both attributed to Billy (Fisherman's Landing) at medium confidence, with a retrieve-speed conflict logged rather than reconciled |
-| Aorcd0Om7eI | SearcherSportfishing | tutorial | deep | pending |  |
+| Aorcd0Om7eI | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / third same-channel surgeon's-knot corroboration (Wendy/SearcherSportfishing, general break-off re-tie, 5-turn count, heavier pound test = fewer turns rule) appended to existing mono-to-fluoro entry, medium confidence, unregistered channel |
 | AyN9MBWg-XY | SearcherSportfishing | tutorial | deep | pending |  |
 | BLbUu_mfMJY | SearcherSportfishing | tutorial | deep | pending |  |
 | BacIrmOK-Bo | SearcherSportfishing | tutorial | deep | pending |  |

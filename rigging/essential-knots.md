@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -90,6 +90,29 @@ fluoro leader, braid main line — and feed the terminal rigs in
     Owner hook onto the working end of the finished leader for a flylined
     sardine bait, fished for bluefin or yellowfin tuna — see
     [flyline](../techniques/flyline.md) for the broader flylining technique.
+  - **A third, later same-channel entry, this time a general field re-tie
+    rather than a bait-specific rig (SearcherSportfishing, Tackle Tip
+    Thursday Vol. 113, `Aorcd0Om7eI`, presenter Wendy of Izorline (captions
+    render the sponsor name "Eiserline" — corrected here per the same
+    correction already applied for the same presenter/sponsor in [Slim
+    Beauty Knot](slim-beauty-knot.md)), 2020-08-20; unregistered
+    channel/speaker — medium confidence):** framed on camera as the tackle
+    tip for when you break off on the water and need to retie a new leader
+    fast. Lay the main line and the new leader against each other, then tie
+    the surgeon's knot as a simple overhand with the leader, passed through
+    **5 times** ("one two three four five"). She then states the general
+    rule **"the heavier the pound test, the less turns you need"** — no
+    line class/pound test is given for this specific demo, so the 5-turn
+    count here can't be checked numerically against the 3-turn, 60 lb
+    figure from the earlier `5g7pK63hYnc` clip above (same channel). The
+    stated principle agrees in direction with Steve Carson's
+    4-turns-at-20–100 lb / 5-turns-under-20 lb rule above (heavier line
+    takes fewer turns) — a second, independent, unregistered-channel voice
+    corroborating that relationship, though it still doesn't reconcile the
+    specific turn counts already logged side by side in this note. Finish:
+    wet the knot, cinch it down quickly, cut the tag ends close, and it's
+    ready to fish — the tip is framed entirely around retie speed after a
+    break-off, with no bait/species/line-class specifics stated.
   - **Scaled up for giant yellowtail on long-range trips:** the same
     doubled-overhand family, tied heavier (80–100 lb) and much larger
     (about a 2 ft finished loop) as a general terminal-tackle attachment
@@ -551,7 +574,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
 [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc),
 [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
-and [single-pass San Diego jam knot, 5-wrap demo](https://www.youtube.com/watch?v=AGaVlYu61O4).
+[single-pass San Diego jam knot, 5-wrap demo](https://www.youtube.com/watch?v=AGaVlYu61O4),
+and [surgeon's knot, quick leader retie after a break-off](https://www.youtube.com/watch?v=Aorcd0Om7eI).
 
 <!-- backlinks:start -->
 ## Linked from
