@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -95,6 +95,25 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+**Stock hook/split-ring upgrade (Billy, Fisherman's Landing Tackle Shop, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 82," `J7nreDb1dn8`,
+2020-01-09; unregistered channel — medium confidence):** the shop's standard
+rigging upgrade off the stock Colt Sniper is an **Owner size 7 split ring**
+(rated to break at **80 lb**) paired with **Owner ST-66 / ST-58** trebles in
+**3X or 4X** gauge — a **size 1 or 2** treble covers the **60 g and 80 g**
+Colt Sniper sizes, sizing up or down with the size of the lure being fished.
+
+**Three retrieves, tackle-shop rundown (same source):** (1) **cast and
+retrieve** — chuck it out, wind it straight back; (2) **cast down-swell from
+the bow and let it sink on the drift** — the jig sinks out while the boat
+drifts toward it, and a lot of bites come **on the sink**, consistent with
+(adds the bow-position/down-swell casting detail to) the let-it-sink
+small-lead-bait retrieve already documented in [foamer
+casting](../techniques/foamer-casting.md#retrieve-mechanics); (3) **"East
+Coast" jigging style** — cast it out, then jig it up and down through the
+water column until it's straight up and down under the boat, then wind it
+back in and repeat.
 
 **Season-stocking recommendation ahead of the 2021 season, speaker unnamed on
 camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130," `E9YtH56Dngo`,
