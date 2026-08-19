@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -182,6 +182,20 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   When fish are truly balled up and foaming hard, precise placement matters
   less than just getting the popper into the general area — there are fish
   packed close enough together that presentation forgives some sloppiness.
+- **Basic point-and-wind mechanic on a standard spinning popper outfit
+  (Lori Sakau, Turner's Outdoorsman, via SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 143," `QTWVs5BwQ0g`, 2021-04-15; `searcher-sportfishing`
+  registered channel — medium confidence, single mention):** point the rod
+  tip at the popper and start winding; don't lift the rod too high or the
+  popper pulls out of the water, though an occasional pump is fine. This
+  rod-low, point-at-the-lure stance is scoped to a standard spinning popper
+  rod, not the long 9–10 ft jig stick the keep-the-tip-high mechanic above is
+  scoped to — kept side by side as gear-context-dependent rod position, not a
+  contradiction. For a stick bait, the same source describes pointing the
+  rod and **walking the dog** across the surface as the retrieve. **Stay
+  staged for the shot:** keep a popper outfit rigged and ready at the bow so
+  you can grab it and cast the instant a fish boils — the bite window is
+  short.
 
 Poppers and stickbaits: [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md).
 

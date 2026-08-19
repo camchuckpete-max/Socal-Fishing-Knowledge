@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -37,6 +37,17 @@ wobble on a steady wind and darts on twitches — a subtler, bait-matching profi
 than a chugging popper when fish are keyed on smaller bait. "Casts a mile for
 its size" is the ad copy (**marketing flag** — promo source j1YZ_9IMUVY, low).
 Wire-through; upgrade rings/hooks for tuna grade.
+
+### Shimano Orca / Yo-Zuri popper (Turner's Outdoorsman picks)
+**Lori Sakau, Turner's Outdoorsman, via SearcherSportfishing, "Tackle Tip
+Thursday Vol. 143," `QTWVs5BwQ0g`, 2021-04-15; `searcher-sportfishing`
+registered channel — named lure/model picks stay **low** per that channel's
+sponsored-claim caveat.** Two floating popper picks named as personal
+favorites for tuna and yellowtail boiling on the surface: a **Shimano Orca**
+popper and a Yo-Zuri popper captioned "yozuri bowl poppers" (**asr-uncertain**
+— plausibly the **Yo-Zuri Bull Pop**, not confidently resolved from the
+captions). No size, color, or rigging detail beyond "these things are going
+to float on the surface."
 
 ### Feed Popper
 Chugging popper family in **120 mm** and **150 mm** sizes (Ray Sharifi, Dirty
@@ -464,6 +475,17 @@ alongside bluefin/yellowfin tuna and yellowtail as a species poppers work
 for — see [wahoo](../species/wahoo.md#doctrine--conflicts) for a leader-spec
 conflict this raises against that note's wire-leader-mandatory doctrine, kept
 side by side, not reconciled.
+
+**A second, distinct reason to fish spinning for poppers (Lori Sakau,
+Turner's Outdoorsman, via SearcherSportfishing, "Tackle Tip Thursday
+Vol. 143," `QTWVs5BwQ0g`, 2021-04-15; `searcher-sportfishing` registered
+channel — medium confidence, single mention):** the JHMCguO7sXE reasoning
+above is aerodynamics — a popper backlashes a conventional reel. This
+source's stated reason is reaction speed instead: a boiling fish is a
+sudden, panic-moment window, so a spinning outfit lets you grab the rod and
+throw immediately without having to think about backspins, backlashes, or
+clearing a bird's nest first. A second, non-conflicting reason for the same
+spinning-over-conventional pick, not a competing rationale.
 
 ## How to fish it
 
