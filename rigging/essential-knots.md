@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -176,6 +176,28 @@ fluoro leader, braid main line — and feed the terminal rigs in
   under-built for real use — "you're probably going at least a half a dozen"
   (6) wraps with 80, 100, or 130 lb test, matching the 6-wrap figure already
   logged above for the San Diego jam rather than adding a new number.
+  **A same-channel single-pass demo, naming corroboration for the
+  single-pass version (Pete Gray, "Let's Talk Hookup" radio host, via
+  SearcherSportfishing, Tackle Tip Thursday Vol. 140, `AGaVlYu61O4`,
+  2021-03-18; unregistered channel/speaker, single mention — medium
+  confidence):** ties the single (not doubled-through-the-eye) version and
+  names it on camera the **"San Diego jam knot"** — stating the same knot
+  can also be tied doubled through the eye ("it works just as well going
+  twice through"), without demonstrating that version here or giving a
+  reason to choose one over the other (see [San Diego Jam — Single vs.
+  Double](san-diego-jam-single-vs-double.md) for the selection rule between
+  the two). Paraphrased mechanic: leave a tag end, wrap the tag down the
+  standing line **5 times**, pass the tag back through the lower loop
+  nearest the eye, then back through the upper loop formed there, wet the
+  knot for friction, then slide the coils down snug. The **5-wrap** count
+  matches the Scotty entry above rather than the 6- or 7-wrap figures
+  logged elsewhere in this bullet — another data point in the same
+  angler-preference range, not a new number. Because this is a
+  SearcherSportfishing in-house demo rather than a guest captain, it is a
+  second, independently-sourced channel corroborating "San Diego jam" as
+  the name for the **single-pass** tie, alongside Dave Hansen's usage
+  logged below — read as strengthening that naming, not the
+  doubled-through-the-eye mechanic this bullet opens with.
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
@@ -528,7 +550,8 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
 [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc),
-and [surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc).
+[surgeon's knot, fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
+and [single-pass San Diego jam knot, 5-wrap demo](https://www.youtube.com/watch?v=AGaVlYu61O4).
 
 <!-- backlinks:start -->
 ## Linked from

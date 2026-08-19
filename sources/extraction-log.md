@@ -2060,7 +2060,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 91ZJbhAnzMg | SearcherSportfishing | tutorial | deep | done | planning/search-and-glassing.md; techniques/foamer-casting.md — boiler/foamer/breezer/flat-spot surface-sign vocabulary (medium confidence, unregistered channel), corroborates Hansen breezer entry, adds flat spot; fixed Hansen attribution error |
 | 9IhmYstB8sA | SearcherSportfishing | tutorial | deep | done | lures/dtx-minnow.md; rigging/haywire-twist.md; species/wahoo.md; techniques/wahoo-bomb-casting.md / tutorial/deep extraction merged into 4 existing notes (DTX 200 trolling app, wahoo live-bait wire leader, router table rows, bomb/jig lure-choice + hookset mechanics) |
 | 9_lwOzaLmXo | SearcherSportfishing | tutorial | deep | done | none / promotional tackle-sale ad with no decision-grade content; skip logged in sources/extraction-log.md |
-| AGaVlYu61O4 | SearcherSportfishing | tutorial | deep | pending |  |
+| AGaVlYu61O4 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added corroborating entry (Pete Gray/SearcherSportfishing Vol.140) naming the single-pass tie San Diego jam knot and logging its 5-wrap count, medium confidence (unregistered channel) |
 | AodUBhxPts8 | SearcherSportfishing | tutorial | deep | pending |  |
 | Aorcd0Om7eI | SearcherSportfishing | tutorial | deep | pending |  |
 | AyN9MBWg-XY | SearcherSportfishing | tutorial | deep | pending |  |
