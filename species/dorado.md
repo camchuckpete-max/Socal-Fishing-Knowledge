@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8, 5Oh3IPIC5g4]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8, 5Oh3IPIC5g4, OL8D1l73RVg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -128,7 +128,7 @@ four-species day.
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** — dorado charge the boat feeding straight ahead and won't set on a circle; **match hook to bait** (1/0 live-bait, up to 2/0–3/0 on donkey sardines) |
+| Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** — dorado charge the boat feeding straight ahead and won't set on a circle; **match hook to bait** (1/0 live-bait, up to 2/0–3/0 on donkey sardines); skip jigging — rod up, crank flat-out so the lure skips on top — is a tip-up alternative to the standard swim, named for tuna/dorado/yellowtail generically, single-mention source, medium confidence |
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; throw a Mad Scad from the tower to confirm fish before committing |
 | **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — a **pink ("Dorado")** color, 1 oz or 5/8 oz, is named as a dorado favorite at paddies; see [glide baits](../techniques/glide-baits.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4). ⚠ promotional seminar source, low confidence |
 | **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (E4vKwRaRueA); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
@@ -431,6 +431,7 @@ grade, or technique detail given for the dorado specifically.
 - [October](../seasonal/october.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [September](../seasonal/september.md)
+- [Skip Jigging](../techniques/skip-jigging.md)
 - [Trolling](../techniques/trolling.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

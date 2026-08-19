@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -37,6 +37,14 @@ tension, crowded-rail safety, and shore practice. This note picks up where the
 jig lands.
 
 ## Retrieve & cadence
+
+**A distinct alternate technique, not a variant of this retrieve:**
+[skip jigging](skip-jigging.md) — rod pointed straight up, cranked as fast as
+possible so the iron skitters ACROSS the surface instead of swimming through
+it — is a deliberately different, tip-up, flat-out-fast presentation
+(SearcherSportfishing, `OL8D1l73RVg`, 2020-10-08). It sits in tension with
+this note's tip-down/steady-grind doctrine below; see that note for the
+mechanics, kept side by side rather than merged here.
 
 ### Why the kick works — the mechanism
 
@@ -548,6 +556,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Skip Jigging](skip-jigging.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Surface Iron — Colour](surface-iron-color.md)
 - [Surface Iron — The Cast](surface-iron-casting.md)

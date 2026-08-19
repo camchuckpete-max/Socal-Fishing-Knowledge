@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -79,7 +79,22 @@ Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
 **Kicker 25** (heavy — fished as a yo-yo iron on the same Cedros trips, also
 seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
-2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence).
+2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence),
+**Roberts Ranger** (SearcherSportfishing, `OL8D1l73RVg`, 2020-10-08;
+`searcher-sportfishing` registered channel — **low confidence: a named
+product/model pick, capped per this channel's registry sponsored-claim
+caveat**; named as a good pick specifically for [skip
+jigging](../techniques/skip-jigging.md), a fast tip-up presentation, not the
+standard swim retrieve above).
+
+**"JRI DW" — a newer JRI model (SearcherSportfishing, `OL8D1l73RVg`,
+2020-10-08; low confidence — named product/model pick, per this channel's
+registry sponsored-claim caveat):** shown on camera as "one of
+the new JRI DW ones" (the "DW" designation is asr-uncertain) alongside a rod
+or jig the captions separately render "Cal Star 100 J" (also asr-uncertain,
+and it's unclear from the audio whether that name refers to the rod being
+held or the jig itself). Fished for [skip jigging](../techniques/skip-jigging.md)
+rather than the standard surface-iron swim.
 
 **A shop-favorite lightweight combo, "locally long range" (SearcherSportfishing,
 "Tackle Tip Thursday Vol. 32 (Surface Irons)," `GXXvT7pS2fM`, 2019-01-22;
@@ -334,6 +349,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)

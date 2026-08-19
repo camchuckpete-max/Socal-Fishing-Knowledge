@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -213,7 +213,22 @@ Nomad Ridgeback class) above, not a fully specified rig.
 Nomad's offshore surface line (popper and stickbait profiles) rounds out the
 class — heavy, long-casting, wire-through-body plugs built for tuna, run with
 upgraded rings and hooks. Match popper vs stickbait to whether the fish want
-noise or a subtler bait-matching slide.
+noise or a subtler bait-matching slide. **Nomad Dart Wing** (SearcherSportfishing,
+`OL8D1l73RVg`, 2020-10-08; `searcher-sportfishing` registered channel — **low
+confidence: a named product/model pick, capped per this channel's registry
+sponsored-claim caveat**): named on camera as a jig usable for [skip
+jigging](../techniques/skip-jigging.md) — no size, color, or rigging detail
+given.
+
+### Yo-Zuri Hydro Pencil 125
+**SearcherSportfishing, `OL8D1l73RVg`, 2020-10-08; `searcher-sportfishing`
+registered channel — low confidence: a named product/model pick, capped per
+this channel's registry sponsored-claim caveat.** A 125-size pencil
+stickbait named on camera as "great for" [skip
+jigging](../techniques/skip-jigging.md) — the fast, tip-up, skip-it-on-top
+presentation, not the standard cast-and-wind stickbait retrieve documented
+elsewhere in this note. No size (beyond the 125 designation), color, or
+rigging detail given.
 
 ### Colt Sniper Stickbait / Jerkbait (yellowtail — a different product from the Colt Sniper casting jig above)
 **Not the same lure as the lead "small lead bait" Colt Sniper casting jig
@@ -491,6 +506,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

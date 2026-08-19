@@ -24,6 +24,7 @@
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Fishing calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" — bigger, more confident trophy fish move shall
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
+- [Skip Jigging](skip-jigging.md) — Skip jigging is a topwater cast-and-burn presentation: instead of swimming a lure through the water column, the lure is made to skip and skitter ACROSS the surf
 - [Sliding Sinker](sliding-sinker.md) — Execution for the sliding-sinker (Carolina) rig: the weight rides free on the main line above a swivel, and a leader runs from the swivel to the hook, so a fish
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Work an asymmetric metal jig so it flutters on the fall like a wounded, dying baitfish — the fall is the trigger, not the retrieve.
 - [Slow-Trolling Live Bait](slow-trolling-bait.md) — Pull a live bait behind a moving boat slowly enough that it swims naturally rather than being dragged.
@@ -44,5 +45,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 34 notes exceed the 30-node cap._
+_Map skipped: 35 notes exceed the 30-node cap._
 <!-- mermaid:end -->
