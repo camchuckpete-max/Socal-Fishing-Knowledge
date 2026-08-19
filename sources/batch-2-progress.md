@@ -1,9 +1,9 @@
 # Batch 2 progress
 
-Last update: 2026-08-19 05:16 UTC (run 32216743034)
+Last update: 2026-08-19 06:19 UTC (run 32221658242)
 
 | total rows | done | skipped | escalated | reverted | pending |
 | --- | --- | --- | --- | --- | --- |
-| 954 | 101 | 107 | 0 | 0 | 746 |
+| 954 | 106 | 107 | 0 | 0 | 741 |
 
 Escalation entries in sources/escalations.md: 29
