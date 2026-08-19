@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I, TU5quAG4atM, UfuQr6gOIk8]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, _ZThckj2TIM, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5J7a6UwTA90, 5g7pK63hYnc, AGaVlYu61O4, Aorcd0Om7eI, BcX-tp3I7LE, LpReZmYQSCU, Qa6Q8mOAV6I, TU5quAG4atM, UfuQr6gOIk8, VyFpIk-Na9Q]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -310,6 +310,32 @@ fluoro leader, braid main line — and feed the terminal rigs in
   Diego and see where 100-lb line breaks" — but the 71-second clip cuts to
   black just as the finished knot comes off the test clip; no breaking-strength
   figure is stated or shown, so none is recorded here.
+  **5-wrap tie on 100 lb test, framed for bigger tuna (SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 90 (San Diego Jam)," `VyFpIk-Na9Q`, 2020-03-12;
+  `searcher-sportfishing` registered channel — repeated doctrine, same topic
+  already logged multiple times in this note — high confidence):** the same
+  doubled-through-the-eye tie, this time on **100 lb test** wrapped **5
+  times** — the same line class as the Qa6Q8mOAV6I entry above but a
+  different wrap count, another data point that wrap count in the 5–7 range
+  is angler preference rather than a fixed number (matches Scotty's and Pete
+  Gray's 5-wrap figures already logged above). Paraphrased mechanic: starting
+  at the hook eye, loop the tag around a finger and wrap it 5 times down both
+  strands of the doubled line, forming the barrel as you go; pass the tag
+  through the bottom loop nearest the eye, then through the top (finger)
+  loop; work the finger free and pull the tag parallel to the main line to
+  draw the barrel tight, then slide the finished coils snug to the eye along
+  the main line and cinch — captions say "slide up with the main line," the
+  opposite direction word from every other entry in this bullet ("slide...
+  down to the eye"); recorded here without asserting a direction, per the
+  ASR-hazard rule, rather than silently matching the other entries' wording.
+  Stated application: this 100 lb/5-wrap tie "work[s] great for those bigger
+  tuna." **ASR-uncertain wetting note:** the clip also states a wetting
+  judgment, but captions render it backwards — "wetting the line so it won't
+  slide easier" — the opposite of the wet-to-cinch-smoothly reasoning already
+  logged above (Scotty's lubrication mechanism; the Wendy `BcX-tp3I7LE`
+  friction demo); likely a caption inversion of "so it'll slide easier,"
+  recorded here unresolved per the ASR-hazard rule rather than silently
+  corrected.
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
   wrap the braid **6 times up and 6 times back down**, and exit the loop the same
   way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
@@ -486,6 +512,7 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 portion of this video and four other mono-to-fluoro connection clips),
 [Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
 [San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
+[San Diego jam, 100 lb test/5-wrap tuna demo](https://www.youtube.com/watch?v=VyFpIk-Na9Q),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),

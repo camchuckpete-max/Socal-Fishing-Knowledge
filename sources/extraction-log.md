@@ -2128,7 +2128,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | VW2t_G8eorI | SearcherSportfishing | tutorial | deep | done | rigging/springer-knot.md merged Pete Gray Vol. 137 as second corroborating demo, confidence raised to high |
 | VcJManCizRE | SearcherSportfishing | tutorial | deep | done | new techniques/rod-handling-live-bait.md capturing off-hand grip, thumb-on-lever, fingertip feed, backpedal; linked from bait/tackle notes |
 | VxHYxXmPoWQ | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md added 2022 three-rig big-bluefin ladder, confidence raised to high; fixed one fabricated detail and one misattributed quote |
-| VyFpIk-Na9Q | SearcherSportfishing | tutorial | deep | pending |  |
+| VyFpIk-Na9Q | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md added 5-wrap/100lb San Diego jam entry for tuna; fixed one unflagged directional claim, flagged ASR ambiguities |
 | W6RuHvaqkHs | SearcherSportfishing | tutorial | deep | pending |  |
 | WxlDxFjB8oQ | SearcherSportfishing | tutorial | deep | pending |  |
 | X1zAA4DLOr0 | SearcherSportfishing | tutorial | deep | pending |  |
