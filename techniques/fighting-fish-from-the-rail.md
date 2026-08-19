@@ -86,6 +86,9 @@ pattern independently observed on StokedOnFishing trips.
 
 ## Related
 
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
+  — the rod-handling that precedes this: off-hand grip and thumb-on-lever
+  readiness while soaking a bait, up to the moment you come tight.
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
   — the reel-side counter-move for when a big, circling fish makes this
   default pump-and-reel pattern start giving line back on every downstroke;
@@ -102,6 +105,7 @@ pattern independently observed on StokedOnFishing trips.
 ## Linked from
 
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

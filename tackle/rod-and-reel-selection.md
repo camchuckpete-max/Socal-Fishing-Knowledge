@@ -790,6 +790,11 @@ for the bite:
   sportboat fleet, contrasted with East Coast anglers who are "all spinning
   reels" — "doesn't mean we're right, doesn't mean you're wrong."
 
+**Related grip doctrine for a rail-fished live bait rather than a dropped
+sinker rig** — same thumb-on-lever-ready-to-engage principle, plus which
+hand holds the rod and how to feed line with the bait already in the water —
+is in [rod handling for live bait](../techniques/rod-handling-live-bait.md).
+
 ## Spinning-reel live-bait feeder
 
 A dual-drag "live-bait feeder" option on a spinning reel is worth selecting
@@ -818,6 +823,7 @@ a bluefin).
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)

@@ -392,6 +392,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)

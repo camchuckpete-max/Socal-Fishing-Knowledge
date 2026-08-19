@@ -70,9 +70,13 @@ adding the backlash-avoidance detail:
 - [Surface iron — the cast](surface-iron-casting.md) — the overhead-swing
   alternative this technique substitutes for; that note's crowded-rail
   one-motion lob is the closest analog for iron casting.
+- [Rod handling for live bait](rod-handling-live-bait.md) — same
+  channel/series; the off-hand grip and thumb-on-lever readiness that takes
+  over once this cast gets the bait out.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 <!-- backlinks:end -->

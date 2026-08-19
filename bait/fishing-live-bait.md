@@ -520,6 +520,9 @@ clips above.)
   to choose from.
 - [Flyline](../techniques/flyline.md) — the weightless technique these hooks serve.
 - [Hooks](../tackle/hooks.md) — style, size, and wire-gauge selection.
+- [Rod handling for live bait](../techniques/rod-handling-live-bait.md) — the
+  off-hand grip, thumb-on-lever readiness, and fingertip bait feed while
+  soaking a hooked bait off the rail.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -529,6 +532,7 @@ clips above.)
 - [Chunking](../techniques/chunking.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

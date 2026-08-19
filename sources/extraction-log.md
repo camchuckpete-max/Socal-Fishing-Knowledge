@@ -2126,7 +2126,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | UtYO1ubQFz0 | SearcherSportfishing | tutorial | deep | done | none / skipped - dockside 'red shirt' crew logistics/tipping etiquette, no fishing knowledge content; evaluator filled in dangling extraction-log row |
 | UyfcYoNV2sg | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / added post-trip breakdown routine (unmount, upright drainage, corrosion-inhibitor spray) attributed to Vince/Fisherman's Landing; evaluator softened an over-asserted unstated reason |
 | VW2t_G8eorI | SearcherSportfishing | tutorial | deep | done | rigging/springer-knot.md merged Pete Gray Vol. 137 as second corroborating demo, confidence raised to high |
-| VcJManCizRE | SearcherSportfishing | tutorial | deep | pending |  |
+| VcJManCizRE | SearcherSportfishing | tutorial | deep | done | new techniques/rod-handling-live-bait.md capturing off-hand grip, thumb-on-lever, fingertip feed, backpedal; linked from bait/tackle notes |
 | VxHYxXmPoWQ | SearcherSportfishing | tutorial | deep | pending |  |
 | VyFpIk-Na9Q | SearcherSportfishing | tutorial | deep | pending |  |
 | W6RuHvaqkHs | SearcherSportfishing | tutorial | deep | pending |  |
