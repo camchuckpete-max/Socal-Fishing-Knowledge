@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -247,6 +247,18 @@ behavior**:
     couldn't confirm the brand; the 400 g size here is the shop's stocked
     weight, not necessarily in conflict with that heavier, wind-driven 500 g
     example.
+  - **A captain's plain-language framing of the same dart-vs-flutter choice,
+    and a dated marker for the type's uptake in the fleet (Captain Hart,
+    SearcherSportfishing, `AyN9MBWg-XY`, "Tackle Tip Thursday Vol. 161
+    (Nighttime Bluefin Fishing)," uploaded 2021-12-09; unregistered channel —
+    medium confidence):** as of that date, Hart called heavy knife jigs "the
+    new latest and greatest" for night bluefin at depth, naming **Mustad**
+    and **Daiwa** as makers alongside generic/knock-off versions he called
+    equally effective. His stated reasoning restates this note's dart-vs-
+    flutter distinction in plain terms: the knife jig's weight makes it
+    **sink rapidly and go straight down**, reaching a called depth faster
+    than a flat-fall's flutter-fall motion — corroborating, not adding to,
+    the fall-behavior doctrine above.
 
 ## How to fish it
 

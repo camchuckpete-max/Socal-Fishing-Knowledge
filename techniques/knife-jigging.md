@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -63,6 +63,14 @@ in **Linked from**.
     example: fish called at 240 ft, drop to about **300 ft**, then retrieve
     back up through 180–240 ft. The same get-below-then-work-up principle
     already logged above, with a concrete overshoot figure attached.
+    - **Independent corroboration of the same 240 ft → 300 ft figures, about
+      three years earlier (Captain Hart, SearcherSportfishing, `AyN9MBWg-XY`,
+      "Tackle Tip Thursday Vol. 161 (Nighttime Bluefin Fishing)," uploaded
+      2021-12-09; unregistered channel — medium confidence):** Hart's own
+      worked example for a captain's called depth is the same numbers — "he
+      tells you 240 ft ... you can go to 300 ft" — given as general guidance
+      for working a knife jig down to a called mark, not tied to one
+      specific trip's fish.
 - **Bite timing flips day vs. night — a reason to scale tackle by daypart
   (George, same panel, `Et2TUskzCSs`; medium confidence):** at night, roughly
   **70% of bluefin bites come on the fall**, mirroring
@@ -573,6 +581,24 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
       (6–8 ft here vs 10 ft in September) and the source frames the mono/crimp
       combination as the preferred build when the mono is available, with
       straight fluoro as the substitute, not the primary plan.
+  - **Swivel-plus-split-ring school, a fourth attributed connection method,
+    paired with a hook-swap call (Captain Hart, SearcherSportfishing,
+    `AyN9MBWg-XY`, "Tackle Tip Thursday Vol. 161 (Nighttime Bluefin
+    Fishing)," uploaded 2021-12-09; unregistered channel — medium
+    confidence):** a **200 lb leader** ties to a **400 lb swivel**, which
+    connects to a **300 lb split ring**; the split ring **replaces the
+    factory split ring on the jig**, and the swivel's other end ties to the
+    top shot or spectra on the reel. Stated reasoning: this combination
+    "takes away some abrasion." Paired on the same jig with **upsized
+    assist hooks** swapped in for the factory hook, reasoned as giving both
+    a bigger hook and a better connection to the lure than the factory hook
+    provides — no specific hook size or model given, so this corroborates,
+    without adding a number to, the hook-swap doctrine already logged in
+    [knife jigs](../lures/knife-jigs.md) and
+    [assist hooks](../rigging/assist-hooks.md). Kept side by side with the
+    other connection schools above rather than merged; the 200 lb leader
+    figure sits within the ~200 lb range already logged in the crimp and
+    split-ring schools above.
 - **Night 100 lb setup, earliest documented instance of the Talica 25 /
   Black Diamond Hybrid combo (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY,
   2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence; predates the 2023
