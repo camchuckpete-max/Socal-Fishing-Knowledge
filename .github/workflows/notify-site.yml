@@ -1,0 +1,29 @@
+# Tells the BightSST website that canonical knowledge changed.
+#
+# Fires on every push to main (GATE B merges — the only canonical state).
+# No paths filter on purpose: pushes to main are rare, dispatches are free,
+# and the receiving sync exits cleanly when nothing published changed. That
+# keeps this file maintenance-free across KB restructures.
+#
+# Requires secret BIGHTSST_DISPATCH_TOKEN: a fine-grained PAT scoped to the
+# single repo BightSST/BightSST with "Contents: Read and write" permission
+# (repository_dispatch is a Contents write). If the token expires, this
+# workflow's run goes red — the site then degrades to its weekly scheduled
+# pull instead of breaking.
+name: Notify site of knowledge update
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fire repository_dispatch at BightSST/BightSST
+        run: |
+          curl --fail-with-body -sS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.BIGHTSST_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/BightSST/BightSST/dispatches \
+            -d '{"event_type":"kb-updated","client_payload":{"sha":"${{ github.sha }}"}}'

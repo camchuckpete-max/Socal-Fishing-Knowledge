@@ -10,6 +10,11 @@ Maintenance and build tooling for the knowledgebase.
   older `boat-day` skill. The distributed
   [socal-boat-day](../skills/socal-boat-day/README.md) skill does not use it; it
   fetches the knowledgebase live instead.
+- `export-site-index.py` — emits the `index.json` manifest the BightSST website
+  consumes (run by that repo's sync workflow against `main`, not committed
+  here). Its `SITE_FOLDERS` list is the single source of truth for which
+  folders are published on the site; it reuses `link-maintenance.py`'s helpers
+  so index semantics never drift from link semantics.
 - `next-video.py`, `batch2/` — the ingestion pipeline's chunk runner and guards.
 
 This folder has an index so the root branch map can point at a `README.md` like
