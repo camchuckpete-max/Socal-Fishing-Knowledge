@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -235,6 +235,18 @@ behavior**:
 - **Model benchmarks:** **Sea Falcon** slow-pitch and speed jigs, Shimano
   Butterfly / Flat-Fall, Nomad Gypsea / Streaker, Hots, Ocean's Legacy. Carry a
   range of weights and both cross-sections.
+  - **Season-stocking recommendation ahead of the 2021 season, speaker
+    unnamed on camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130,"
+    `E9YtH56Dngo`, uploaded 2020-12-17; unregistered channel — medium
+    confidence):** stock **flat-fall jigs from 200 g up to the biggest
+    available (called out as roughly 500 g)**, fishable on **either heavy or
+    light gear** for bluefin. A separate personal-favorite jig is called out
+    for falling fast, glowing well, and carrying a sturdy hook, but its name
+    is not confidently resolved (captions render "peel 68s," no real model
+    matched) so it's not carried as a named model here — flagged
+    `asr-uncertain`. The same source also recommends stocking Colt Snipers —
+    see [tuna poppers and stickbaits](tuna-poppers-and-stickbaits.md), the
+    Colt Sniper's established home, not a knife jig.
   - **Tackle-shop top-3 for night bluefin, with weights (Billy, Fisherman's
     Landing Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip
     Thursday Vol. 186," uploaded 2022-06-16; unregistered channel — medium

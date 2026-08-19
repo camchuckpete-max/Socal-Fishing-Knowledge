@@ -2072,7 +2072,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Bz0WZNAofks | SearcherSportfishing | tutorial | deep | done | rigging/john-collins-knot.md; rigging/essential-knots.md / new note for a single thin tackle-tip clip on a named braid-to-mono/fluoro splice, linked from Essential SoCal Knots |
 | CXrF7K4lKxE | SearcherSportfishing | tutorial | deep | done | tackle/rod-length-for-angler-size.md; tackle/rod-and-reel-selection.md / new tackle note on fitting rod length to angler build, linked from rod-and-reel-selection.md |
 | CdjT_I_PBHQ | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md; tackle/rod-and-reel-selection.md; techniques/dropper-loop.md / added Vol. 230 as corroborating segment on extra-heavy dropper-loop rig for long-range Baja giant yellowtail |
-| E9YtH56Dngo | SearcherSportfishing | tutorial | deep | pending |  |
+| E9YtH56Dngo | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md / tackle-stocking tip for bluefin (flat-fall, Colt Sniper, one unresolved personal-favorite jig) split across the two correct lure notes |
 | ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | pending |  |
 | EfaxxszOYFI | SearcherSportfishing | tutorial | deep | pending |  |
 | F9XjGMEvvag | SearcherSportfishing | tutorial | deep | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -95,6 +95,17 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+**Season-stocking recommendation ahead of the 2021 season, speaker unnamed on
+camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130," `E9YtH56Dngo`,
+uploaded 2020-12-17; unregistered channel — medium confidence):** stock **Colt
+Snipers in every size** ahead of the bluefin season — captions single out
+"the 80 gram" size but the surrounding phrasing is garbled (asr-uncertain,
+not confidently resolved to a specific called-out preference); 80 g sits
+inside the weight range this note already documents for Colt Sniper metals
+(60 g up to 80–100 g, see the Daiwa Zakana entry below), so it's not a new
+data point, just a corroborating stocking note. Fishable on **either heavy or
+light gear** for bluefin, per the same source.
 
 **Dead-stick retrieve for a tough foamer (Billy, Fisherman's Landing Tackle
 Shop, via SearcherSportfishing, "Tackle Tip Thursday Vol. 191," `AodUBhxPts8`,
