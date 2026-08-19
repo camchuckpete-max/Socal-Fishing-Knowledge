@@ -2068,7 +2068,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | BacIrmOK-Bo | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md / amended hand-picking/hold-time/shoulder-butt-hook doctrine into existing note, flagged as conflicting with logged net-and-carry doctrine |
 | BcX-tp3I7LE | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / added as a supporting bare-line friction-test entry under the San Diego jam wetting-reasoning bullet, corroborating existing lubrication rationale with earliest-dated Wendy/SearcherSportfishing clip |
 | Bn9fRKUmQ-U | SearcherSportfishing | tutorial | deep | done | rigging/fg-and-albright.md / added third Albright wrap-pattern variant (double-back wrap, Norm Fujimoto/Izorline) with its own bullet + demo link; confidence held at medium (unregistered channel) |
-| Bo5Fj-XuWHo | SearcherSportfishing | tutorial | deep | pending |  |
+| Bo5Fj-XuWHo | SearcherSportfishing | tutorial | deep | done | rigging/springer-knot.md; rigging/essential-knots.md / new note for a single thin tackle-tip clip on a heavy-line hook knot, linked from Essential SoCal Knots router |
 | Bz0WZNAofks | SearcherSportfishing | tutorial | deep | pending |  |
 | CXrF7K4lKxE | SearcherSportfishing | tutorial | deep | pending |  |
 | CdjT_I_PBHQ | SearcherSportfishing | tutorial | deep | pending |  |

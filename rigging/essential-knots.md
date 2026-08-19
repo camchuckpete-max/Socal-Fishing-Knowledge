@@ -47,6 +47,10 @@ fluoro leader, braid main line — and feed the terminal rigs in
   when you don't have (or don't want) a ringed hook.
 - **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
   by the dozens through a bite; see the retie cadence below.
+- **Springer knot (terminal)** — another named hook tie for **heavier line**,
+  mechanically distinct from the Palomar/San Diego jam family above, from a
+  single thin tackle-shop clip — kept as its own note: [Springer
+  Knot](springer-knot.md).
 - **Bimini twist (double-line/loop)** — ties a doubled section of line rather
   than joining a hook or two separate lines; used to build the reel-end loop
   for a [wind-on leader](wind-on-leader.md) and as the standing double-line
@@ -602,6 +606,7 @@ and [surgeon's knot, quick leader retie after a break-off](https://www.youtube.c
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Springer Knot — Heavy-Line Hook Tie](springer-knot.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md)
