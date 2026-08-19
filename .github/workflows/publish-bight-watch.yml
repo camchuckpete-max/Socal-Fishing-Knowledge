@@ -20,6 +20,7 @@ on:
   # A freshly registered cron can take a long time to fire its first run, and
   # a session without actions:write cannot dispatch. Touching this file kicks
   # a rebuild immediately.
+  # Kicked 2026-08-19: manual refresh requested by Cameron.
   push:
     paths:
       - .github/workflows/publish-bight-watch.yml
