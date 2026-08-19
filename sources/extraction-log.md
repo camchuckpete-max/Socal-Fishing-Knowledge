@@ -2073,7 +2073,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | CXrF7K4lKxE | SearcherSportfishing | tutorial | deep | done | tackle/rod-length-for-angler-size.md; tackle/rod-and-reel-selection.md / new tackle note on fitting rod length to angler build, linked from rod-and-reel-selection.md |
 | CdjT_I_PBHQ | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md; tackle/rod-and-reel-selection.md; techniques/dropper-loop.md / added Vol. 230 as corroborating segment on extra-heavy dropper-loop rig for long-range Baja giant yellowtail |
 | E9YtH56Dngo | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md / tackle-stocking tip for bluefin (flat-fall, Colt Sniper, one unresolved personal-favorite jig) split across the two correct lure notes |
-| ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | pending |  |
+| ETw_3AFxEcM | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; species/yellowfin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/wahoo-bomb-casting.md; techniques/yo-yo-iron.md / amended 5 existing notes with Searcher yo-yo/fly-line rig spec, wahoo Ridge ground + bomb retrieve speed, Guadalupe six-day yellowfin fly-lining fishery, and color-by-forage reasoning; fixed one overgeneralized trip-length qualifier |
 | EfaxxszOYFI | SearcherSportfishing | tutorial | deep | pending |  |
 | F9XjGMEvvag | SearcherSportfishing | tutorial | deep | pending |  |
 | FN9-rgyC9ic | SearcherSportfishing | tutorial | deep | pending |  |

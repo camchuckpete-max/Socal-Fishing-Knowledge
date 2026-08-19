@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -35,6 +35,19 @@ the bluefin nearby become more cooperative too.**
   in open-water schools over the offshore banks
   ([kelp paddies](../conditions/kelp-paddies.md),
   [zone lexicon](../locations/zone-lexicon.md)).
+- **Guadalupe Island, Baja (baja-pacific-north) — a big-fish live-bait
+  fly-lining fishery (Steve Carson, SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 189," `ETw_3AFxEcM`, 2022-07-14; unregistered channel —
+  medium confidence):** reached on the Searcher's **six-day** trips,
+  holding yellowfin graded **50–150 lb** — well above the SoCal
+  15–25 lb average grade in this note's opening summary. Fished on the same
+  [flyline](../techniques/flyline.md) live-bait rig used for SoCal
+  yellowtail yo-yo work: a **Penn Fathom 40 Narrow**, two-speed, on a
+  **7–7.5/8 ft rod** rated 30–60 to as heavy as 40–100, **50–60 lb test top
+  shot over 80 lb braid** — full rig detail in
+  [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
+  No bait, hook, or leader-size detail given on camera for this application
+  specifically.
 
 ## Finding them (sign & sonar)
 
@@ -429,6 +442,7 @@ the bluefin nearby become more cooperative too.**
 - [October](../seasonal/october.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Striped Marlin](striped-marlin.md)

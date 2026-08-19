@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -24,7 +24,16 @@ leader is mandatory regardless of line test — see
   upload; the boat ran there specifically to troll for wahoo after five
   unfished days) — and **Magdalena Bay**, framed as holding a healthy wahoo
   (and dorado) population **"come fall time"** (StokedOnFishing, `4t_Z75shK_E`,
-  2020-09-25 upload, fall 2020). Sea of Cortez south — **East Cape / Buena
+  2020-09-25 upload, fall 2020). **A second named ground alongside Alijos
+  Rocks (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday Vol. 189,"
+  `ETw_3AFxEcM`, 2022-07-14; unregistered channel — medium confidence):**
+  "the Ridge" is named as the other bank where the Searcher's seven-day-and-
+  longer trips find wahoo — the same "the ridge" location logged near
+  Magdalena Bay in [yo-yo iron](../techniques/yo-yo-iron.md#gear-class-detail),
+  consistent with this note's Mag-Bay-adjacent grounds above. Cast-lure
+  detail (bomb, with or without spinner, absolute-highest-speed retrieve) is
+  in [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md).
+  Sea of Cortez south — **East Cape / Buena
   Vista Beach Resort**, where multiple annual offshore-troll trips report
   wahoo mixed with tuna/dorado/marlin, including a session that boated
   roughly **three wahoo with a fourth hooked** (StokedOnFishing,

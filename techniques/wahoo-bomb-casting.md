@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -60,6 +60,18 @@ where this fits among wahoo's other techniques routes from
 - Cast out; let the lure hit the water and **sink for a couple of seconds**
   before starting the retrieve.
 - Retrieve: **wind it in as fast as possible.**
+- **A further speed/lure-choice data point, plus a second named ground
+  (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday Vol. 189 (Yoyos
+  for Yellows)," `ETw_3AFxEcM`, 2022-07-14; unregistered channel — medium
+  confidence):** on the Searcher's **seven-day-and-longer** trips reaching
+  **Alijos Rocks or "the Ridge"** — the same "the ridge" location logged near
+  Magdalena Bay in [yo-yo iron](yo-yo-iron.md#gear-class-detail) — wahoo are
+  taken on a **bomb**, available either **with a small spinner or without**
+  (angler's choice, no stated preference between the two). The one
+  non-negotiable stated for the bomb specifically: it must be **retrieved at
+  the absolute highest rate of speed possible** — consistent with, and a
+  stronger statement of, the "wind it in as fast as possible" retrieve rule
+  above.
 - No bite: wind all the way in and repeat the cast.
 - **On the bite, keep cranking — don't stop until the fish takes line off the
   reel** (Searcher Sportfishing, `9IhmYstB8sA`, 2019-11-14): the stated

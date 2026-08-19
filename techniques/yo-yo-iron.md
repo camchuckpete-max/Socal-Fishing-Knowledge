@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -420,6 +420,43 @@ the reverse map in **Linked from** below.
   search, so being rigged and ready to drop the instant the captain calls
   fish — rather than fumbling gear once marks show up — was framed as one of
   the more consequential, if unglamorous, factors in getting bit at all.
+- **The reasoning behind "the classics" — colour by forage, not a fixed
+  favorite (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 189 (Yoyos for Yellows)," `ETw_3AFxEcM`, 2022-07-14; unregistered
+  channel — medium confidence):** two years before the PCS Show panel above
+  named the same three-colour "classics" set with no stated mechanism, this
+  earlier tip from the same speaker gives the reasoning: **blue and white**
+  when yellowtail are eating **thin baits — anchovies, sardines**; **scrambled
+  egg** when they're eating **invertebrates — squid or crabs**. **Mint** is
+  named as a third go-to with explicitly **no forage reason given** — "nothing
+  down there is really this color... for whatever reason they like mint... why
+  ask why, just make sure you give it to them" — logged as a stated preference
+  without a mechanism, not invented doctrine, per this note's reasoning-vs-
+  observation rule. Consistent with, and the mechanism behind, the
+  match-color-to-forage framing already in [iron jigs](../lures/iron-jigs.md)
+  and the red-crab-year exception in the panel entry above. Same tip names a
+  **Tady 4/0** as his favorite yo-yo jig for yellowtail **"whether you're in
+  close to San Diego or almost all the way down to Cabo San Lucas"** —
+  corroborating, from the human-typed title source itself, the Tady 4/0 picks
+  already logged in this note and in [iron jigs](../lures/iron-jigs.md).
+  **Same rig detail, an earlier data point than the panel's (same speaker):**
+  a **Penn Fathom 40 Narrow**, two-speed, on a **7–7.5/8 ft rod** rated
+  **30–60, 30–80, or as heavy as 40–100**, with **50–60 lb test top shot over
+  80 lb braid** — kept side by side with, not reconciled to, this same rig's
+  **80 lb mono top shot** as later specified on the same channel (see
+  [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)),
+  since the two tips give a different top-shot line class for what is
+  otherwise the same reel/rod build, two years apart. **Same "don't set the
+  hook" doctrine, a second citation (same speaker, three years after the
+  Fred Hall Show clip already logged above):** "don't set the hook like a TV
+  fisherman — just keep grinding... that fish is stronger than you and if you
+  just keep winding, he's going to set the hook himself," corroborating, not
+  new beyond, the keep-cranking-through-the-bite doctrine already logged
+  above from `5pbA-wXoric`. Separately, this tip frames yo-yo fishing as
+  **"probably the number one way yellowtail are caught on the Searcher and
+  just about every San Diego boat,"** on trips of any length — an attributed
+  claim about the technique's overall importance to the SoCal/Baja long-range
+  fleet, not a situational trigger.
 
 ## Common failures
 
@@ -477,5 +514,7 @@ the reverse map in **Linked from** below.
 - [Surface Iron — Colour](surface-iron-color.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
+- [Wahoo](../species/wahoo.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

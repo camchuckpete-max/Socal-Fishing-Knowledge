@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class]
-sources: [0E9REoTjKrY, 6wVlDDno2TE]
+sources: [0E9REoTjKrY, 6wVlDDno2TE, ETw_3AFxEcM]
 confidence: medium
 ---
 
@@ -107,6 +107,22 @@ of that list.
   popular on the boat's longer trips.
 - **Rod:** not sized specifically for this rig in this segment, but see the
   general rod-length/rating notes below, which apply across all three rigs.
+- **An earlier data point for this same rig, same speaker (Steve Carson,
+  "Tackle Tip Thursday Vol. 189 (Yoyos for Yellows)," `ETw_3AFxEcM`,
+  2022-07-14 — a year before the 2023-07-13 video above):** the same **Penn
+  Fathom 40 Narrow**, two-speed, on a **7–7.5/8 ft rod** rated **30–60, 30–80,
+  or as heavy as 40–100**, described here with **50–60 lb test top shot over
+  80 lb braid** — a different top-shot line class than the ~25 yd of **80 lb
+  mono** top shot given for the 2023 build above; kept side by side rather
+  than reconciled, since both are stated by the same speaker on the same
+  channel for what reads as the same underlying rig. This 2022 tip frames the
+  rig as good for **any trip longer than four days**, and adds a **third
+  application** to the two already logged above: it doubles as the
+  **standard live-bait fly-lining rig** for **50–150 lb yellowfin tuna** at
+  **Guadalupe Island** on the Searcher's six-day trips — see
+  [yellowfin tuna](../species/yellowfin-tuna.md#where--when). Framed overall
+  as "the rig that does the most number of different things for you when you
+  come out on the Searcher."
 
 ### Rig — Penn International 16VISX, 100 lb
 
@@ -178,4 +194,6 @@ rod's rated extremes.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
