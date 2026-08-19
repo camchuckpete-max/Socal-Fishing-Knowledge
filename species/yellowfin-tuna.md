@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -48,6 +48,18 @@ the bluefin nearby become more cooperative too.**
   [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
   No bait, hook, or leader-size detail given on camera for this application
   specifically.
+  **An earlier, hook-size data point for the same grounds (SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 72 (Halloween Edition)," `EfaxxszOYFI`, 2019-10-31;
+  speaker not identified on camera; unregistered channel — medium
+  confidence):** three years before the Vol. 189 tip above, this one named
+  Guadalupe Island **and "the ridge"** (a separate ground, exact location not
+  further resolved on camera) as a **light-line** tuna fishery calling for
+  **size 2 and 4 hooks** — small relative to the grade — with landing a **45 lb
+  yellowfin** there described on camera as "frightfully tough" on that gear.
+  No specific line-class or leader number given; kept side by side with, not
+  merged into, the heavier 50–60 lb top-shot rig logged above from the later
+  tip — this earlier tip calls its own setup "light line" but gives no
+  matching number, so the two are not reconciled.
 
 ## Finding them (sign & sonar)
 
