@@ -2456,7 +2456,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | FR7Cg9Jqug4 | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: patch filed a lure-less, location-less 37s clip into techniques/inshore-crankbaits.md on strength of treble/assist-hook fight description whose only concrete example (big stripers down deep) reads as freshwater swimbait fishing, not this saltwater note's fishery; out-of-region content with no confirmed applicability, compliant move is exclusion |
 | F_KDQo-k7CQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: 28s auto-caption transcript contains only [music] tags and Heat Heat, no extractable content beyond the title |
 | Fj1-SsbksRM | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 35s fragment on Damiki Vault blade bait, generic/freshwater-bass content with no SoCal-specific parameter |
-| G8HNjPiaOjU | Tackle Express | tutorial | parameter-skim | pending |  |
+| G8HNjPiaOjU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / parameter-skim merge of built-different rationale into existing tip-pull diagnostic, flagged as likely re-cut of DfLcSS-J3g4 (not independent confirmation) |
 | Ga8Z1PyBqdE | Tackle Express | tutorial | parameter-skim | pending |  |
 | GchQpXW2jI0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | GeydGK-62fw | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-action, buying-guide, retail, beginner, fatigue]
-sources: [6dTz1640Y5c, DfLcSS-J3g4]
+sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU]
 confidence: medium
 ---
 
@@ -88,6 +88,15 @@ vibrating it yourself.
   that particular angler — not that the angler is weak. Left as-is, that
   mismatch causes fast fatigue even fighting a small fish, which costs the
   angler follow-up fish for the rest of the trip.
+  A companion short (Tackle Express, `G8HNjPiaOjU`, "Stop getting fatigued!
+  How to test your fishing rod properly," uploaded 2026-06-24 — 35 seconds;
+  same underlying advice as the `DfLcSS-J3g4` segment above, most likely
+  re-cut footage rather than independent confirmation) states the reason
+  explicitly: **"we're all built different."** A 6'6" angler and a 5'5"
+  angler won't find the same rod equally comfortable, so the same tip-pull
+  test can flag a good rod for one angler and a bad one for another — tying
+  this diagnostic directly to [rod length for angler
+  size](rod-length-for-angler-size.md).
 - **If you shake on every rod tested, adjust posture or drop rod length —
   don't assume you're just weak.** Two fixes offered: (1) modify posture
   slightly, or (2) size down — the source's example is dropping from an 8 ft
