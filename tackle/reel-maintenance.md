@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o]
 confidence: medium
 ---
 
@@ -51,6 +51,55 @@ prep below:
   which frames the same product for idle-reel storage specifically).
 - **Payoff:** next time the reel comes out of the box, the bearings are still
   good and it's ready to fish.
+
+## Post-trip top-shot removal and annual spectra strip-down (Norm Fujimoto, via SearcherSportfishing, "Tackle Tip Thursday Vol. 135 (Line Maintenance)," `bbn-aJGRH5o`, 2021-02-04; registered channel (`searcher-sportfishing`), single mention of this specific routine — medium confidence; the presenter's stated affiliation is captioned "eiserline" — the same unresolved ASR issue already flagged elsewhere in this note for Norm Fujimoto's other segments — `asr-uncertain`, not carried as a company name)
+
+Distinct from the rinse-and-dry habit and the post-trip breakdown above: a
+routine built around **drying the spectra itself**, plus a once-a-year full
+strip, clean, and reseal of the spool.
+
+- **Remove the mono/fluoro [top shot](line-and-leader.md#when-mono-top-shot)
+  from every reel after a trip.** Stated as something anglers routinely
+  forget to do.
+- **Stated reason: the top shot traps moisture against the spectra
+  underneath it and keeps the spectra from drying.** With the top shot off,
+  place reels somewhere well-ventilated; the spectra takes a **minimum of two
+  to three days** to fully dry.
+- **Once a year, strip the spectra completely off the reel** and rewind it,
+  by either of two methods, both driven with a power drill:
+  - Wind the spectra onto a spool mounted on a **threaded rod chucked into
+    the drill**, packing it on **as tight as possible**.
+  - Or use a **Swifty line remover kit** (available at Island Fishing Tackle
+    in Carson), also chucked into the drill — a named product/vendor pick,
+    carried at **low confidence** per the `searcher-sportfishing` registry's
+    product/model-endorsement caveat (the product/vendor names themselves are
+    also as spoken on camera and not confirmed against typed metadata —
+    `asr-uncertain`).
+- **Wash the stripped spectra itself**: place it in a bucket and run fresh
+  water through it for a while to get the salt out. Stated reason: **the
+  salt doesn't hurt the spectra**, but it is bad for the reel's spool if left
+  on the line that goes back onto it.
+- **Clean and inspect the bare reel** while the spectra is off: wash the
+  inside of the reel thoroughly (check for salt deposits), dry it, and look
+  for **oxidation spots**.
+- **Seal any oxidation spots found** so no further oxygen reaches them —
+  either with epoxy, or (Norm's stated preference) **two to three coats of
+  fingernail polish**.
+- **Wax the spool after sealing** — a marine or car wax; Norm states **any
+  wax will do**. Let the wax dry, then wipe it off before respooling. (Norm
+  names his own pick as **Woody's carnauba wax**; that specific brand mention
+  is a named product endorsement, carried at **low confidence** per the
+  `searcher-sportfishing` registry's product/model-endorsement caveat — the
+  generic "any wax works" mechanism claim above is unaffected.)
+- **Respool as tight as possible** — recommended with a **line winder**
+  rather than by hand, since packing spectra tight enough by hand is
+  difficult. Stated test: press the wound spectra and it should have **no
+  give — "rock hard."**
+- **Stated reason tight spooling matters:** a soft-packed spool lets the
+  spectra **dig into the layers beneath it** when a fish is hooked and
+  pulling hard, which risks a break-off — the same digging-into-the-spool
+  failure mode covered from the braid-diameter angle in
+  [line & leader](line-and-leader.md#why-heavier-braid-than-the-fish-requires--spool-mechanics-not-fish-strength).
 
 ## Rod protection during travel — stick jacket (Logan, SearcherSportfishing, "Tackle Tip Thursday Vol. 209 (Protect Your Fishing Rods)," `OmyRIw7Eye8`, 2022-12-15; registered channel (`searcher-sportfishing`), single mention of this specific claim — medium confidence)
 
