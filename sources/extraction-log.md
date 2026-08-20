@@ -2370,7 +2370,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 2QphkC2cK14 | Tackle Express | tutorial | parameter-skim | done | none: product plug for Shimano Sedona marketing features, no SoCal-specific parameters, fails curation bar |
 | 2c8UomduE3c | Tackle Express | tutorial | parameter-skim | done | none: generic/out-of-region freshwater-bass tackle content |
 | 2gmvTuXtu0Q | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass-fishing crankbait content, no SoCal/Baja saltwater relevance |
-| 2pkE9RwW1bU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2pkE9RwW1bU | Tackle Express | tutorial | parameter-skim | done | none / skipped: promotional product review (SKB backpack), no SoCal/Baja fishing knowledge content, generic gear-bag content excluded per curation bar |
 | 3-0kaaHqA7A | Tackle Express | tutorial | parameter-skim | pending |  |
 | 3dyEQhMnPMU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 3n18taJWNEQ | Tackle Express | tutorial | parameter-skim | pending |  |
