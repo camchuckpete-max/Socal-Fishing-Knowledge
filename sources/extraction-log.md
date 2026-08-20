@@ -2420,7 +2420,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | A7rveRBkL-g | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-night-bluefin-tg-jig-rig.md / amended with day/surface rig variants, size-vs-lead/cast-distance comparison, durability claim, Captain Brian/Independence 189lb origin story |
 | A8_ydUnS0CQ | Tackle Express | tutorial | parameter-skim | done | none / out-of-region freshwater Castaic Lake bass clip, cut off before any parameter stated |
 | AJfDjN-7K4w | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass Carolina-rig tutorial, out of scope for SoCal/Baja saltwater KB |
-| ALZtbMIOMBw | Tackle Express | tutorial | parameter-skim | pending |  |
+| ALZtbMIOMBw | Tackle Express | tutorial | parameter-skim | done | none / 39s reaction-only clip, no extractable content |
 | AhICQlAsreU | Tackle Express | tutorial | parameter-skim | pending |  |
 | B44kVCdUN0o | Tackle Express | tutorial | parameter-skim | pending |  |
 | BGKH1ObX9Qs | Tackle Express | tutorial | parameter-skim | pending |  |
