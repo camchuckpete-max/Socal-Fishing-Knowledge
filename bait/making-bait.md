@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point, squid, long-range-trip]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c, bM2vUS1B-yQ, cx7tKXHmiY4]
+tags: [live-bait, sabiki, mackerel, jack-mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point, squid, long-range-trip]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c, bM2vUS1B-yQ, cx7tKXHmiY4, eLFVhVyyOTw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -92,6 +92,20 @@ a packing tip, not a rig spec) — it pairs with the Sea of Cortez sabiki
 line/hook ratings and the Cedros small-vs-big sizing question above: carrying
 both a medium and a small rig sidesteps having to guess in advance which size
 a given multi-day trip will call for.
+
+### Light vs. heavy sabiki — the stated reason to carry both (Searcher Sportfishing, Tackle Tip Thursday Vol. 206, `eLFVhVyyOTw`, 2022-11-24; Logan Watson, on camera; searcher-sportfishing registered, single mention on this specific reasoning — medium confidence)
+
+Gives the on-camera reason behind the "pack more than one rig" tip above,
+using the same **light-rig / heavy-rig** framing: carry both a **light
+sabiki** and a **heavier sabiki** on a long-range trip because the bait
+species get bigger as the trip runs longer, specifically **jack mackerel**
+(captioned "gad mackerel" — almost certainly an ASR mishearing of jack
+mackerel; flagged `asr-uncertain`) running **up to 2–3 lb each**. A loaded
+string of **five** jack mackerel on one drop is enough to **break the light
+sabiki off outright**, which is the stated reason to have the heavier sabiki
+staged as backup once bait size ramps up on the longer trips. Stated
+takeaway: keep the heavy sabiki in the long-range tackle bag alongside the
+light one.
 
 ## Lucky Joe rig — bait the hooks, and mackerel beats sardine for holding
 
