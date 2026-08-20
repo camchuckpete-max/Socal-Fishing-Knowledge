@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -102,13 +102,33 @@ fluoro leader, braid main line — and feed the terminal rigs in
       school-size-tuna finesse rig — again inside his own 20–100 lb bracket.
       Full rig in [Bluefin rig ladder by grade — Rig
       1](../tackle/bluefin-rig-ladder-by-grade.md#rig-1--15-lb-finesse-the-one-you-need-most).
-  - **Earliest-dated entry in this group, same 3-turn count, no line-class or
-    application given (SearcherSportfishing, Tackle Tip Thursday Vol. 53,
-    `LpReZmYQSCU`, 2019-06-19; unregistered channel — medium confidence):**
-    predates the `5g7pK63hYnc` entry below by about seven months — now the
-    earliest data point in this note for the surgeon's knot used as a
-    leader-to-main-line connection rather than a dropper-loop loop (superseding
-    that entry's earlier claim to be first). Paraphrased mechanic, a bare
+  - **Now the earliest-dated entry in this group, with a full rig application
+    attached (SearcherSportfishing, "Tackle Tip Thursday Vol. 7,"
+    `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel,
+    single mention — medium confidence):** predates the `LpReZmYQSCU` entry
+    below by about ten months, superseding its claim (recorded there) to be
+    this note's earliest surgeon's-knot-as-leader-connection data point.
+    Presenter not identified on camera. Framed as a simple offshore
+    kelp-paddy rig for [dorado](../species/dorado.md) ("El Dorado") and
+    [yellowfin tuna](../species/yellowfin-tuna.md) on a **25–40 lb class
+    conventional reel**: a **3 ft fluorocarbon leader, 25 lb test, matched to
+    the mono main line's own test**, joined with a surgeon's knot passed
+    through **three times** ("once, twice, three times"), pulled together and
+    the tag ends trimmed — the same 3-turn count already logged for
+    `LpReZmYQSCU` and `5g7pK63hYnc` below, not Steve Carson's
+    4-turns-at-20–100 lb rule above. An **Owner Live Bait hook, size 1 or
+    1/0** (the smaller size for when bait has been running small), is tied
+    to the working end of the leader with an [improved clinch
+    knot](improved-clinch-knot.md#parameters--judgment) — see
+    [hooks — style, size, and matching to bait](../tackle/hooks.md) for the
+    hook entry.
+  - **Second-earliest-dated entry in this group, same 3-turn count, no
+    line-class or application given (SearcherSportfishing, Tackle Tip
+    Thursday Vol. 53, `LpReZmYQSCU`, 2019-06-19; unregistered channel —
+    medium confidence):** predates the `5g7pK63hYnc` entry below by about
+    seven months, but is itself superseded as this note's earliest
+    surgeon's-knot-leader-connection data point by the `eZXPqiAtqi8` entry
+    above (2018-08-09, roughly ten months earlier). Paraphrased mechanic, a bare
     demo with no other parameters stated: overlap the mono and fluorocarbon
     leader by a few inches, pinch them together, form a quick loop, and stick
     the tag through the loop **three times**; wet it a little, cinch it down,

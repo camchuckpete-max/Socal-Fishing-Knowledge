@@ -2160,7 +2160,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | e1-tPTNejBo | SearcherSportfishing | tutorial | deep | done | none / nothing extractable: entire video is a generic long-range-trip packing list (chair, rod belt, jacket, layers, sun shirt, buff, deck boots, sunscreen) — no SoCal/Baja-specific tackle or technique content; matches curation-bar exclusion and precedent skips |
 | eLFVhVyyOTw | SearcherSportfishing | tutorial | deep | done | bait/making-bait.md / added Logan Watson's stated reason (bait size growth on long-range trips) for carrying both a light and heavy sabiki, cross-linked, medium confidence |
 | eLPTMO3-_1Q | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md / added the 2018 earliest-dated SearcherSportfishing dropper-loop/San-Diego-jam segment (line class, sinker, Owner Gorilla hook size, loop-length figures) as a distinct dated entry alongside the 2024 segments; confidence high per registered channel + repeated doctrine |
-| eZXPqiAtqi8 | SearcherSportfishing | tutorial | deep | pending |  |
+| eZXPqiAtqi8 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md; rigging/improved-clinch-knot.md; tackle/hooks.md / offshore kelp-paddy dorado/yellowfin rig (25-40 lb reel, 3 ft/25 lb fluoro leader via 3-turn surgeon's knot, Owner Live Bait hook 1/1-0 via improved clinch knot); fixed missing link-maintenance run |
 | ew7Lru8wmQs | SearcherSportfishing | tutorial | deep | pending |  |
 | ewfWc7MTBPk | SearcherSportfishing | tutorial | deep | pending |  |
 | fg2v1kxoTMA | SearcherSportfishing | tutorial | deep | pending |  |

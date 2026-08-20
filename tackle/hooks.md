@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8]
 confidence: medium
 ---
 
@@ -295,6 +295,24 @@ trailing phrase rendered as "yellow fishing" is likewise asr-uncertain and
 read as yellowtail fishing given the Coronados/J-hook context, but not
 confidently resolved.
 
+### Owner Live Bait hook — kelp-paddy dorado/yellowfin starter rig (SearcherSportfishing, "Tackle Tip Thursday Vol. 7," `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel, single mention — medium confidence)
+
+The earliest-dated SearcherSportfishing hook citation in this note (predates
+the `F9XjGMEvvag` Owner Ringed Flyliner tip above by about three months), for
+a simple offshore [kelp-paddy](../conditions/kelp-paddies.md) rig aimed at
+[dorado](../species/dorado.md) ("El Dorado") and
+[yellowfin tuna](../species/yellowfin-tuna.md). Presenter not identified on
+camera. Named hook: **Owner Live Bait hook**, sized **1 or 1/0** — the
+smaller size for when bait has been running small — tied to the working end
+of the leader with an [improved clinch
+knot](../rigging/improved-clinch-knot.md#parameters--judgment). Rig context:
+a **25–40 lb class conventional reel**, with a **3 ft, 25 lb test
+fluorocarbon leader matched to the mono main line's own test**, joined to
+the main line with a surgeon's knot passed through three times — see
+[Essential SoCal Knots — surgeon's knot as a mono-to-fluoro
+connection](../rigging/essential-knots.md#when-to-use-it), where this video
+is now logged as the earliest-dated entry for that leader connection too.
+
 ### A finesse-rig hook ladder by grade (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
 
 Three more data points on hook selection, from a talk organizing bluefin rigs
@@ -546,8 +564,10 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [California Sheephead](../species/sheephead.md)
 - [Chunking](../techniques/chunking.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)

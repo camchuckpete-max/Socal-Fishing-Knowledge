@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [improved-clinch, fishermans-knot, san-diego-jam, single-pass-hook-tie, connection-knot, terminal-knot, flyline-knot]
-sources: [VsUUBICiBzQ, H5NHGLm1H5U, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, ftEvyfwjZFU, J0NJhN6-Thg]
+sources: [VsUUBICiBzQ, H5NHGLm1H5U, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, ftEvyfwjZFU, J0NJhN6-Thg, eZXPqiAtqi8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -103,13 +103,30 @@ which this note tracks side by side rather than resolving.
   reads as the presenter using the two names loosely/interchangeably by
   habit rather than by a fixed rule about what each name refers to; logged
   as a third data point on the naming split, not a resolution of it.
+  **Now the earliest-dated data point in this note for this tie, also under
+  the "improved clinch" name only (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 7," `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing`
+  registered channel, single mention — `medium` confidence):** predates the
+  `H5NHGLm1H5U` entry below by about nine months, superseding its claim
+  (recorded there) to be earliest. Presenter not identified on camera;
+  no wrap count or other mechanic detail is given beyond "tie that on the
+  end of your fluorocarbon... with an improved clinch knot, very simple to
+  do" — a bare naming citation from an 83-second clip. Named on camera as
+  the tie for an **Owner Live Bait hook, size 1 or 1/0**, onto a **3 ft,
+  25 lb test fluorocarbon leader**, for an offshore kelp-paddy
+  [dorado](../species/dorado.md)/[yellowfin tuna](../species/yellowfin-tuna.md)
+  rig — full rig context, including the leader-to-main-line surgeon's knot
+  connection ahead of this tie, in [Essential SoCal Knots — surgeon's
+  knot](essential-knots.md#when-to-use-it) and
+  [hooks](../tackle/hooks.md).
   **Independent, earlier-dated corroboration under the "improved clinch"
   name only (SearcherSportfishing, "Tackle Tip Thursday Vol. 50,"
   `H5NHGLm1H5U`, 2019-05-30; unregistered channel, single mention —
   `medium` confidence):** predates all three Dave Hansen entries above by
-  roughly two years — the earliest-dated data point in this note for this
-  tie, though this presenter uses only the name **"improved clinch knot"**
-  on camera, never "San Diego jam." Framed on camera as a knot for tying
+  roughly two years, though itself now superseded as this note's
+  earliest-dated data point by the `eZXPqiAtqi8` entry above (2018-08-09,
+  about nine months earlier) — this presenter uses only the name
+  **"improved clinch knot"** on camera, never "San Diego jam." Framed on camera as a knot for tying
   **fluorocarbon to a circle hook for fly-lining live bait**, named for
   **bluefin tuna, "any kind of tuna"**. **Flag — `asr-uncertain` (hook
   size):** the caption renders the size as "202 for Oh circle hook," which
@@ -211,6 +228,7 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)

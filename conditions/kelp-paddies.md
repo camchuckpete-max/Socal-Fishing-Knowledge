@@ -232,6 +232,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Bird Reading](bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
 - [May](../seasonal/may.md)
 - [Moon](moon.md)
