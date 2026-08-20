@@ -2331,7 +2331,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | sAwPTPnHNzk | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: galley cooking recipe segment, no fishing knowledge |
 | so1df8prECw | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: fish-fight chatter, no species ID or stated technique/reason |
 | srHnaMIrVIA | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: transcript has no usable ASR text |
-| tj_mEL94ETg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| tj_mEL94ETg | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 10s promo clip, no fishing content |
 | uPnM-qw696k | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | uWGGeDOprsE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | uXWliLLPzss | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
