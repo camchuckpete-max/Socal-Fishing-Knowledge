@@ -2217,7 +2217,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tio1oeibVlM | SearcherSportfishing | tutorial | deep | done | species/opah.md: new opah species router from bycatch-while-tuna deep-jig doctrine + table fare, cross-linked from dart-jig notes; fixed invented 'pectoral' gloss, added pCd6QykcZ0w to sources during eval |
 | tjBeR9tWd4s | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; techniques/wahoo-bomb-casting.md: grounds/season corroboration + lure-weight, cast-mechanics, Seeker SSR 7650/line-choice detail, flagged 40lb-vs-50lb line-floor conflict |
 | tnHltcDdVtU | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md: Fred Brandt/Seeker Rods Colt Sniper retrieve doctrine + Led Masters 150g conflict vs existing 100g cap (kept side by side); note now 682 lines, colt-sniper split warranted but deferred |
-| ueDBCY1mIPk | SearcherSportfishing | tutorial | deep | pending |  |
+| ueDBCY1mIPk | SearcherSportfishing | tutorial | deep | done | tackle/searcher-40lb-all-around-tuna-outfit.md: merged third citation of Carson's 40lb outfit (Vol.222), gap-filled rod spec + effective grade range 15-80lb, corroborated reel/line/leader/knot/hook |
 | vNIazq1aVwc | SearcherSportfishing | tutorial | deep | pending |  |
 | vVOkxHx58Eg | SearcherSportfishing | tutorial | deep | pending |  |
 | vn4fmPxUqsU | SearcherSportfishing | tutorial | deep | pending |  |

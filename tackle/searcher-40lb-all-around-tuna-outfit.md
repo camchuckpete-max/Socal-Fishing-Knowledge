@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [tuna, bluefin, yellowfin, 40lb, all-around, penn, searcher, two-speed, flyline, owner-mutu, surgeons-knot, dart-jig, coltsniper, gomame]
-sources: [fyJA3o2hVh0, m2g97MxmAGI]
+sources: [fyJA3o2hVh0, m2g97MxmAGI, ueDBCY1mIPk]
 confidence: medium
 ---
 
@@ -15,7 +15,13 @@ Framed as the single most important all-around outfit for anyone new to San
 Diego tuna fishing to bring aboard the Searcher **or any other San Diego
 boat** — not Searcher-specific gear. Stated grade context: San Diego tuna run
 anywhere from **20 lb up to 200 lb**, but his own stated average is **roughly
-30–60 lb** ("30 to 50, 30 to 60 pounds" on camera).
+30–60 lb** ("30 to 50, 30 to 60 pounds" on camera). **Effective working range
+(Vol. 222, `ueDBCY1mIPk`, 2023-06-08):** this same 40 lb outfit is explicitly
+**not** built to land a 200-pounder; it's a bit heavier than ideal on the
+smallest fish it'll see (**about 15 lb**), scales cleanly through **30–40–50–
+60 lb**, and remains "the perfect rig" up through **70–80 lb** fish — Carson's
+own stated span for this exact combo, offered as a beginner's first and only
+outfit when they own nothing else yet.
 
 A close match to, and the earliest-dated citation yet logged in this KB of,
 [Rig 3 — 40 lb (the starter rig)](bluefin-rig-ladder-by-grade.md#rig-3--40-lb-the-starter-rig)
@@ -23,6 +29,16 @@ from Carson's later (2023-11-14) San Diego Rod and Reel Club talk — kept as
 its own note per this repo's size guideline rather than folded into that
 already-long ladder note, with the shared parameters cited as corroboration
 in both directions.
+
+**Third, independent citation, same speaker/channel (Steve Carson,
+Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 222 (All-Around Tuna
+Outfit)," `ueDBCY1mIPk`, uploaded 2023-06-08; `searcher-sportfishing`
+registered channel — medium for this video's own parameters, `high` where it
+repeats doctrine already logged above):** re-states the same 40 lb rig as
+**"the first combo you buy"** for a brand-new-to-tuna angler stepping up from
+trout, bass, or pier fishing — his own framing, on camera: "tuna fishing is
+kind of like golf, you can't just go out with one rod." New specifics and
+gap-fills from this citation are folded into the sections below.
 
 ## The outfit
 
@@ -46,18 +62,35 @@ in both directions.
     same clip:** "if your budget will allow," a lot of anglers — he names
     **Capt. Art** as one — like stepping up to a **Penn Torque 15 Extra
     Narrow** on this same 40 lb outfit instead.
+  - **Third citation (Vol. 222, `ueDBCY1mIPk`, 2023-06-08):** names the reel
+    as the **Penn Fathom II, two-speed, 25 Narrow** — the same size/gearing
+    pick as the two earlier citations, now on the updated **Fathom II**
+    generation.
 - **Line:** reel filled **about three-quarters of the way** with **65 lb test
   braid** — his own stated capacity at that fill level, **roughly 350 yd**.
   On top of the braid, **about 25 to 50 yd of 40 lb test monofilament** top
-  shot.
+  shot. **Third citation (Vol. 222, 2023-06-08):** repeats the identical
+  three-quarters-fill, 65 lb braid pick, with "about 350 yd" of braid under
+  "50 yd" of monofilament top shot — a corroborating restatement, not a new
+  data point.
+- **Rod (gap-fill, Vol. 222, `ueDBCY1mIPk`, 2023-06-08 — not stated in the
+  two earlier citations of this rig):** an **8 ft rod**, on the longer side
+  by Carson's own account ("a little bit longer than some people like")
+  because he prioritizes casting distance — his aside: "everybody should
+  learn how to cast." Rated for **25–50 lb test line**, with the outfit's 40
+  lb mainline sitting in the middle of that rating, same logic Carson applies
+  elsewhere to matching line class to a rod's printed rating.
 - **Leader connection:** a **four-turn surgeon's knot** — a fourth,
   independent citation of Carson's own **4-turns-for-20–100 lb** rule
   already logged in [essential SoCal
   knots](../rigging/essential-knots.md#parameters--judgment), and now this
   note's earliest-dated citation of that rule (predates the 2022-04-07 Vol.
-  176 citation by about two months).
+  176 citation by about two months). **Fifth citation (Vol. 222,
+  `ueDBCY1mIPk`, 2023-06-08):** repeats the same four-turn surgeon's knot.
 - **Leader:** **about 3 to 5 ft of fluorocarbon**, tied off the 40 lb mono
-  top shot with the surgeon's knot above.
+  top shot with the surgeon's knot above. **Third citation (Vol. 222,
+  2023-06-08):** **about 4 ft of fluorocarbon** — a specific point inside the
+  3–5 ft range already logged.
 - **Captain Art's knot-length rule (attributed, Capt. Art, Searcher):** tie
   the surgeon's knot **as long as possible** — i.e., as far from the
   hook/leader as the leader length allows — **but not so long that it passes
@@ -77,6 +110,16 @@ in both directions.
   run 30 lb, but big enough to still hold a 100-pounder if one happens to eat
   it — he's explicit this isn't really a rig built *for* 100 lb tuna, but it
   has a "more than reasonable chance" of landing one if hooked.
+  - **Third citation, and tie-breaker on size order (Vol. 222,
+    `ueDBCY1mIPk`, 2023-06-08):** **Owner Mutu circle hook, size 2**, with
+    **size 4 as the step-up alternative "if you can find them"** — his own
+    aside that size 4s "are kind of hard to find" while size 2s are readily
+    available — matching this note's size-2-primary order from Vol. 167
+    rather than the reversed order in the 2023-11-14 talk. **Added
+    reasoning, same clip:** tuna "don't like big hooks," so a small hook
+    hooks up better; and a small circle hook still holds a big fish — Carson
+    states he has personally hooked and held tuna in the **60, 70, and 80
+    lb** range on this same hook, "sometimes even bigger."
 
 ## Also fishes jigs — a dart-type-jig aside
 
