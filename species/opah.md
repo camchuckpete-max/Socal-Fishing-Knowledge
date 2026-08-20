@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [opah, moonfish, incidental, deep-jig, offshore, table-fare]
-sources: [tio1oeibVlM, pCd6QykcZ0w]
+sources: [tio1oeibVlM, pCd6QykcZ0w, tpmOYXYQwhU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean]
@@ -40,12 +40,30 @@ more corpus material arrives.
 
 ## Finding them
 
-The source gives no visual sign or sonar-signature/depth detail specific to
-opah — no meter-reading guidance beyond "drop that jig down deep." For
-general method see [search & glassing](../planning/search-and-glassing.md)
+The `tio1oeibVlM` source gives no visual sign or sonar-signature/depth detail
+specific to opah — no meter-reading guidance beyond "drop that jig down
+deep." For general method see [search & glassing](../planning/search-and-glassing.md)
 and [electronics & sounder](../planning/electronics-and-sounder.md). As
 described here, opah are picked up incidentally on marks already being
 worked for tuna, not located as a discrete target.
+
+- **A depth figure and the incidental mechanism, stated directly
+  (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21;
+  `searcher-sportfishing` registered channel, presenter not identified on
+  camera, single mention — medium confidence):** asked whether opah are ever
+  deliberately targeted, the stated answer is no — "it's an incidental
+  catch": while the boat drifts, an angler who "goes deep" with a sinker or
+  a lure and gets down to roughly **150 to 200 ft** sometimes draws an opah
+  bite instead — "a surprise when you get it up to color." This citation
+  doesn't itself name tuna as the gear-down program in progress (unlike
+  `tio1oeibVlM`'s explicit tuna framing above); read together, not
+  independently confirming the same target species. **Explicitly not worth
+  targeting on its own:**
+  "the success rate if you went out and targeted opah would be not too
+  productive." No color, jig type, or cadence given in this citation — kept
+  side by side with, not replacing, the blue-and-white/night-bite doctrine
+  from `tio1oeibVlM` below, since neither source states whether they
+  describe the same program.
 
 ## Situations → techniques
 
@@ -74,8 +92,14 @@ worked for tuna, not located as a discrete target.
   (Italian sweet sausage seasoning, meatloaf, burgers, carne asada all named
   on camera). The clip also says to use the whole fish, including the belly,
   which it says can be made into "bacon."
-- No conflicting doctrine on record — this is the only source on opah in the
-  corpus so far.
+- **Doctrine (medium — `searcher-sportfishing` registered channel, single
+  mention, `tpmOYXYQwhU`):** opah are picked up incidentally around
+  **150–200 ft** while a jig or sinker is fished deep from a drifting boat;
+  deliberately targeting opah as a trip goal is stated as **not
+  productive**, reinforcing the incidental framing above rather than
+  conflicting with it.
+- No conflicting doctrine on record — the two sources agree on the
+  incidental-catch framing.
 
 <!-- backlinks:start -->
 ## Linked from

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [improved-clinch, fishermans-knot, san-diego-jam, single-pass-hook-tie, connection-knot, terminal-knot, flyline-knot]
-sources: [VsUUBICiBzQ, H5NHGLm1H5U, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, ftEvyfwjZFU, J0NJhN6-Thg, eZXPqiAtqi8, 49joKHD7Umc]
+sources: [VsUUBICiBzQ, H5NHGLm1H5U, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, ftEvyfwjZFU, J0NJhN6-Thg, eZXPqiAtqi8, 49joKHD7Umc, tpmOYXYQwhU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -213,6 +213,21 @@ which this note tracks side by side rather than resolving.
   enough for 20 lb. A second, lighter (20 lb) line-class data point alongside
   the "works for 40 lb test or less" ceiling already logged above from a
   different SearcherSportfishing episode (`J0NJhN6-Thg`).
+
+- **A two-way breakpoint rule, stated directly against the San Diego jam
+  (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21;
+  `searcher-sportfishing` registered channel, single mention — medium
+  confidence):** asked for a favorite knot for tying on a hook, the stated
+  rule is a clean two-way split by line class: **improved clinch knot for
+  "anything forty pound test or less"**, and the **[San Diego
+  jam](san-diego-jam-knot.md#parameters--judgment) for greater than forty
+  pound.** Predates, and independently corroborates from the same channel,
+  the identical **"works for 40 pound test or less"** ceiling later logged
+  above from `J0NJhN6-Thg` (2023-05-11) — this is now the earliest-dated
+  citation of that 40 lb ceiling in this note, and the only one of the two
+  that also states what to reach for **above** 40 lb rather than just the
+  clinch knot's own ceiling. No wrap count, mechanic detail, or species is
+  given in this citation beyond the line-class split itself.
 
 ## Tie it
 

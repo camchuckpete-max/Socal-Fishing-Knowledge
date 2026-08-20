@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowtail, surface-iron, yo-yo-iron, dropper-loop, slow-pitch, channel-islands, catalina, coronados, bola, paddies, baja, cedros, san-benito-island]
-sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo, 0DKmYId1NN4, ejUTAnONf7o, Ob45hK4HSWc, HTowqnwAMeA, 5Oh3IPIC5g4, 2O4Z0S78KLg, 3gNTB4aMhCA, F9XjGMEvvag, OL8D1l73RVg, yGXSrUauo2w, SAltQjih0ms]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [D5DR7Kx42_A, vqsD0qpwcJA, YZtX1MiT0y8, 5p6gu14ZC4w, WE643Fue1_A, A70kK2niu2Q, HcEh5KOYTH4, CrLDC4O8qS8, 6DzbsElGE7E, mdhoEQPqpng, ZFqe49jRgA0, _C8w6zeVPak, BvT560Nblqo, cameron, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, wdbqTio1SQU, RPSRH0jwyw4, yuXr3IJ8ybg, qri15R3caYE, Cobp85UvHmM, d0yGBQDeY_4, ecJPMTCi-gw, 9D3Oiy0ASzg, yjwIGFzWO8I, V_ONnegk95M, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, VWClGAn2WEw, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, qM7iOO7fOBw, 92y14x33etQ, A8SuzB5qiKE, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, 0dIwWiOc1NY, UfuiWFVvz2E, sHnqSIOjTdM, nQvJnfb5jQ4, zBd1mayUt_I, QSvzVHW9UMk, c3NFkQbdDy0, fDSd9kqwYW0, nsUdT-zXI8s, oXunQKSbc2g, 0bcDBGzQnGw, Q-gQuOegAx4, CKq0Z6ExVs4, SGbynqaiHdY, tU4jhAkdzNw, Rb5I2ljAqeE, 6kpWn2sXokI, zUFbCIWZZMw, SH7zOA9ZF3o, D_Y2G0rBZCs, JaKSGkZ6CAc, 8THSuqoPI_Q, IwxqgocsQTY, 97clKtVsEOs, ilINTeknKB4, HueC1KHrcVw, zQtExV8Z2eY, MUpvP-Yl2R0, oadK6zIYyCo, 0DKmYId1NN4, ejUTAnONf7o, Ob45hK4HSWc, HTowqnwAMeA, 5Oh3IPIC5g4, 2O4Z0S78KLg, 3gNTB4aMhCA, F9XjGMEvvag, OL8D1l73RVg, yGXSrUauo2w, SAltQjih0ms, tpmOYXYQwhU]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast, open-ocean]
@@ -1286,6 +1286,22 @@ of water state. Kept side by side with the corpus
     the same fish at the same mark are worth working or not depending on how
     they are distributed, which is the discriminator none of the depth
     signatures above carry on their own.
+  - **Marked-but-not-surfacing school: get any lure down to their depth and it
+    gets bit (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`,
+    2020-04-21; `searcher-sportfishing` registered channel, presenter not
+    identified on camera, single mention — medium confidence).** Schools of
+    yellowtail located on the sounder that "don't
+    come up and boil around" — i.e. not visible on the surface, offshore or
+    near-shore — still get bit reliably once a jig reaches their metered
+    depth: "just about every lure that makes it down to the depth that fish
+    is, is a bite." Stated as a repeated personal observation, and named
+    specifically for [yo-yo iron](../techniques/yo-yo-iron.md), which the
+    same source says has "absolutely" out-fished live bait "multiple times"
+    in this scenario. Consistent with, and a stated mechanism for, the
+    marked-but-not-showing depth bands already logged above (the 40–60 ft
+    "they're coming up" read, the stratified-vs-balled distinction) — this is
+    the reason those unshown marks are still worth fishing vertically rather
+    than waiting for a boil.
   - General method: [search & glassing](../planning/search-and-glassing.md),
     [electronics & sounder](../planning/electronics-and-sounder.md).
 

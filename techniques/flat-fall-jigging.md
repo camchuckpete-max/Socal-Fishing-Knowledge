@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk, shZCjX2-fkI]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk, shZCjX2-fkI, tpmOYXYQwhU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -233,6 +233,22 @@ to, the 200 lb mono/large-swivel crimped leader already logged above.
   **6/0** ("602"; "a tow hook" is asr-uncertain and not otherwise
   interpreted) — "something big." No larger size is stated on camera; not
   carried as a range.
+- **A 2019 season recap naming the same sunset/sunrise night window, plus
+  where it sat relative to daytime livebait (SearcherSportfishing, Tackle
+  Talk Live, `tpmOYXYQwhU`, 2020-04-21; `searcher-sportfishing` registered
+  channel — medium confidence, single mention of this specific season
+  recap):** filmed 13 days after the `FXWOIB0TPfE` episode above, on the same
+  channel. Asked what worked best for bluefin the prior season, the stated
+  answer names **live bait, flylined, as "far and away the best option"**
+  generally — but for **late August and September 2019** specifically,
+  **flat-fall lures fished at night** produced, with the bite window called
+  as **right after sunset or right before sunrise**. For stretches during
+  that window, night flat-fall was described as **"pretty much the only way
+  to get a bite"** — not just a supplementary option to the daytime livebait
+  program, but the one presentation working at all during those runs. A
+  further, dated data point for the same-channel sunset/sunrise flat-fall
+  timing already logged above, naming the specific season it applied to and
+  the daytime livebait context around it.
 - **Stock hooks/leader called sufficient as shipped, a 2020 data point that
   predates this note's later stock-hooks-wear-out entry above:** a lot of
   anglers have taken to swapping out the factory hooks and leader line for

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [casting, live-bait, flyline, pendulum-cast, hook-position]
-sources: [Zhn-VDrlaLM]
+sources: [Zhn-VDrlaLM, tpmOYXYQwhU]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -56,6 +56,16 @@ repeated-doctrine rule reaches `high` confidence for.
   own.
 - **Wind check:** demonstrated fished from the **windward side** of the
   boat, wind in your face — account for it in the swing.
+- **A second distance benchmark, and a shore-practice drill (SearcherSportfishing,
+  Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21; `searcher-sportfishing`
+  registered channel, single mention — medium confidence):** stated target is
+  **25 to 30 ft** out from the boat "so that it swims into the bite zone" —
+  a further data point alongside, not a correction of, the ~20 ft figure
+  above (different source, same order of magnitude). Getting there "takes
+  practice" — the stated drill is to rehearse the cast at home, in the
+  backyard or an alley, using a **clothespin or a couple-ounce torpedo
+  sinker** in place of a live bait, on **20 or 25 lb test**, so the casting
+  motion is dialed in before it has to work on an actual fragile bait.
 
 ## Overhead variant
 

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-length, angler-fit, sportboat]
-sources: [CXrF7K4lKxE]
+sources: [CXrF7K4lKxE, tpmOYXYQwhU]
 confidence: medium
 ---
 
@@ -55,6 +55,18 @@ maybe just a college football lineman" can instead choose a **longer** 7 ft
 the opposite end of the size spectrum and to a different rod class (heavy
 rail rods vs. a general casting/fighting rod). Full rig context in [Searcher
 rail-rod ladder](searcher-rail-rod-ladder.md).
+
+## A counter view — height isn't the driver, reel pairing is (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21; `searcher-sportfishing` registered channel, single mention — medium confidence)
+
+Asked directly whether an angler's height should factor into rod-length
+choice, the stated view runs the opposite direction from Tochihara's fix
+above: **"I don't think your height is that big a factor when it comes to
+purchasing a rod... I think it's more about making sure that you have the
+correct reel with that rod."** Kept side by side, not reconciled — Tochihara
+speaks to fit for a **smaller-framed angler already fighting a fish** on a
+stock-length rod, while this citation addresses **purchasing** a rod and
+frames correct reel pairing, not angler height, as the deciding factor.
+Neither source names a specific application, rod length, or reel.
 
 <!-- backlinks:start -->
 ## Linked from

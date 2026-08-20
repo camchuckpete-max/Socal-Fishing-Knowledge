@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [san-diego-jam, double-jam-knot, terminal-knot, hook-knot, lure-knot]
-sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk]
+sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk, tpmOYXYQwhU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -231,6 +231,15 @@ naming split tracked in that note, not this one.
   this demo. A further data point for the doubled-through-the-eye tie's
   "built for heavy line on artificial lures" framing already logged above,
   this time on a lighter (40 lb) line than most other entries in this note.
+
+## A stated line-class breakpoint against the improved clinch (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21; `searcher-sportfishing` registered channel, single mention — medium confidence)
+
+Asked for a favorite hook knot, the stated rule reaches for the **[improved
+clinch knot](improved-clinch-knot.md#parameters--judgment) at 40 lb test or
+less**, and switches to the **San Diego jam for anything greater than 40
+lb** — a concrete line-class breakpoint between the two knots not stated this
+plainly elsewhere in either note; full citation and cross-reference logged in
+[Improved Clinch Knot](improved-clinch-knot.md#parameters--judgment).
 
 ## Deliberately weak variant for a weight connection (Scotty)
 

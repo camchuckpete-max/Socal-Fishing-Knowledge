@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [slim-beauty-knot, connection-knot, braid-to-topshot, spectra, uni-knot, tapered-knot, casting]
-sources: [ZECOKmD4fIs, 7ivBSL-mhW8, IaVqJgUfcM8]
+sources: [ZECOKmD4fIs, 7ivBSL-mhW8, IaVqJgUfcM8, tpmOYXYQwhU]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -21,14 +21,18 @@ construction from the [RP knot and uni-to-uni](essential-knots.md#parameters--ju
 splices that cover similar braid-to-leader territory in this KB, kept as its
 own note per the process rule to prefer a specific note over growing a large
 one. Wendy demonstrates this same knot across **three** numbered Tackle Tip
-Thursday episodes: the earliest, Vol. 127 (`ZECOKmD4fIs`, 2020-11-26), calls
+Thursday episodes: the earliest of the three named/attributed-to-Wendy
+episodes, Vol. 127 (`ZECOKmD4fIs`, 2020-11-26), calls
 the top-shot line simply the **"leader"**; Vol. 153 (`7ivBSL-mhW8`,
 2021-07-22) and Vol. 175 (`IaVqJgUfcM8`, 2022-03-31) call it the "top shot" —
 the same physical component (mono/fluoro line joined to the spectra) named
 differently episode to episode. The Vol. 175 demonstration is tied in
 oversized rope for visibility rather than actual Izorline Spectra 65 — the
-wrap counts below are annotated accordingly. With the same core construction
-repeated across three episodes on this registered channel
+wrap counts below are annotated accordingly. A fourth, earlier, un-named
+citation of the same construction on this channel (Tackle Talk Live,
+`tpmOYXYQwhU`, 2020-04-21, presenter not identified on camera) predates even
+Vol. 127 — see below. With the same core construction
+repeated across four episodes on this registered channel
 (`searcher-sportfishing` in [the source registry](../sources/source-registry.md)),
 this note carries `confidence: high` per the repeated-doctrine rule, even
 though the specific wrap-count parameter varies by episode (see below).
@@ -108,6 +112,35 @@ though the specific wrap-count parameter varies by episode (see below).
   before the spectra tag is threaded through it in any of the three clips —
   the source videos' visual mechanics are the more reliable reference for
   that step than the transcripts.
+
+## An earlier, un-named citation of the same construction, at the 5/5 count later called "standard" (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21; `searcher-sportfishing` registered channel — medium confidence, single mention; presenter not identified on camera in this transcript)
+
+Predates all three Wendy/Izorline episodes above — **7 months** ahead of Vol.
+127 (`ZECOKmD4fIs`, 2020-11-26) and roughly **two years** ahead of Vol. 175
+(`IaVqJgUfcM8`, 2022-03-31) — now the earliest-dated citation of this knot
+logged in this note. The knot itself is not named on camera in this
+transcript ("a really fast and easy knot to join braid or fluoro"), so it is
+recorded here as a matching construction rather than a confirmed naming.
+
+- **Same lay-together-then-loop structure:** "here's your braid, here's your
+  mono, make a loop in your mono" — the same starting point as the top-shot
+  uni-loop step logged above, though this citation doesn't separately count
+  turns on that loop.
+- **Spectra side — 5 turns up, 5 turns down, matching Vol. 175's "standard"
+  rather than Vol. 127's 9-forward/8-back count:** "you're gonna go five
+  times up... and then you go back down five times towards the loop in your
+  mono." This is the same **5-down/5-back** figure Vol. 175 later states as
+  the general rule ("depending on the pound test... 5 turns down to the
+  hook, then 5 turns back" — that clip's own demo reduces to 4 turns back
+  only because it's tied in rope). Read as an earlier, independent data point
+  for the 5/5 count that Vol. 175 calls standard, predating it by about two
+  years — kept side by side with, not resolving, the higher 9/8 count from
+  Vol. 127, per the parameter-difference note already logged above.
+- **Finish, matching the parent construction:** pull the tag lines so the
+  wraps line up and lie clean, hold tension on both ends, cut the tag off —
+  the same tapered-cinch finish already logged above, ending with the mono
+  going straight onto the hook.
+- **No line class, pound test, or species given** in this citation.
 
 ## Tie it
 
