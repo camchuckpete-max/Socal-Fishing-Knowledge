@@ -1,10 +1,10 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
-waters: [bay-harbor, nearshore-coast, island]
+waters: [bay-harbor, nearshore-coast, island, bank]
 ---
 
 # Soft-Plastic Swimbaits
@@ -115,6 +115,20 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
     baitfish — "you're drawing a reaction, and that's all it is, really."
     Kept side by side with, not a replacement for, the "color matters
     little" / hot-koch framing already in this note.
+- **Long-range trip stop, "the Ridge" and the whole Baja coast (Rick,
+  Fisherman's Landing Tackle, SearcherSportfishing "Tackle Tip Thursday Vol.
+  202," `gaHpCc_tc78`, 2022-10-27; searcher-sportfishing registered channel,
+  single mention on this specific point — medium confidence, parameters not
+  the sponsored MC-brand mention):** for calico bass picked up incidentally
+  on 2022 Searcher long-range trips working the Baja bank called "the Ridge"
+  and "the whole Baja Coast," the **5-inch swimbait** (an MC-brand bait shown
+  on camera) was named the single most popular size, fished on a **1 oz to
+  1.5 oz lead-head** as the most popular weight range — "sometimes lighter is
+  appropriate, sometimes even heavier." Color guidance given as **match the
+  baitfish**: reach for anything that mimics an anchovy or baitfish profile.
+  Corroborates, rather than adds beyond, the 5–7 in sizing and the 0.5 oz–1.5
+  oz lead-head weight range already logged above from the separate
+  StokedOnFishing Cedros/Gono Islands trip (`XwwIvPFxRiQ`).
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 - **Kicker "booty spin" on a War Baits neck-breaker head** (Lane, Time On The
