@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -53,6 +53,20 @@ channel/speaker — medium confidence.)
   now runs two-speed even at this light class as standard practice; full rig
   detail in [bluefin rig ladder by grade — daytime, 25 lb
   setup](../tackle/bluefin-rig-ladder-by-grade.md#daytime-rig-ladder-by-grade-capt-matt-sd-fish-and-sips).
+- **Why it matters for tuna specifically — bunching and corkscrewing (Nathan
+  Winnicke, Penn Reels, via SearcherSportfishing, "Tackle Tip Thursday Vol.
+  117 (Favorite Set-up)," `cpUq7Z3UOwU`, 2020-09-17; `searcher-sportfishing`
+  registered channel/series — medium confidence, single mention of this
+  specific claim):** offshore tuna worked up and down like to stay down and
+  circle once hooked. On the smaller reel sizes run with **40 or 50 lb
+  test**, the two-speed is what starts the process of "bunching them up" —
+  moving the fish from a flat, stalled circle into a tightening,
+  **corkscrewing** climb that actually brings it boatside, rather than
+  leaving it parked below. Consistent with, and the tuna-specific reason
+  behind, the shift-to-low/continuous-grind mechanism below. Rod/reel pairing
+  from the same source (an 8 ft medium-heavy rod, favored partly for the
+  extra casting distance it gives) is in [rod & reel
+  selection](../tackle/rod-and-reel-selection.md#offshore-tuna-favorite-setup-rod-length-for-casting-distance-nathan-winnicke-penn-searchersportfishing).
 
 ## The problem with pump-and-reel
 
@@ -110,5 +124,6 @@ soon as that fish is landed.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

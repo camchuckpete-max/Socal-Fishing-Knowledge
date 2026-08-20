@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU]
 confidence: medium
 ---
 
@@ -253,6 +253,32 @@ counter:
   for this lighter 40 lb two-speed outfit: a [flat-fall lure](../lures/knife-jigs.md)
   for fishing after dark or before daylight, or a [fly-lined
   sardine](../techniques/flyline.md) outfit.
+
+## Offshore tuna favorite setup — rod length for casting distance (Nathan Winnicke, Penn, SearcherSportfishing)
+
+Nathan Winnicke, Penn Reels, via SearcherSportfishing ("Tackle Tip Thursday
+Vol. 117 (Favorite Set-up)," `cpUq7Z3UOwU`, 2020-09-17; `searcher-sportfishing`
+registered channel/series — medium confidence for the mechanism, single
+mention of this specific claim; the named rod/reel model is a product
+endorsement and stays `low` per the channel's sponsored-claim caveat). His
+own go-to for offshore tuna fishing:
+
+- **An 8 ft medium-heavy rod, paired with a Penn Fathom 32 Speed two-speed
+  reel** (product/model name — `low` confidence).
+- **Stated reason for the longer rod: casting distance.** Compared with a
+  roughly 6.5 ft rod, the 8-footer casts the bait an extra **10–15 ft** — his
+  own observation is that this extra distance has made a significant
+  difference in the number of fish he catches. A second, gear-level data
+  point alongside the distance-beats-weight casting doctrine in
+  [flyline — match line weight to the bait, not just to the target
+  fish](../techniques/flyline.md#match-line-weight-to-the-bait-not-just-to-the-target-fish)
+  (Capt. Dave Hansen) — that entry's mechanism is casting technique and no
+  added weight; here rod length itself is the gear-level lever toward the
+  same goal.
+- **Two-speed reel, stated reason: fighting a tuna that sounds and circles**
+  once worked up and down, especially on the smaller reel sizes run with
+  40–50 lb test. Fight-mechanism detail and corroborating sources in [two-speed
+  reel technique](../techniques/two-speed-low-gear-fight.md).
 
 ## Long-range yellowtail rod/line/leader — Tackle Tip Thursday (Darren, SearcherSportfishing)
 
@@ -895,6 +921,7 @@ a bluefin).
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
