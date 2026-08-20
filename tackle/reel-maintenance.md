@@ -200,7 +200,9 @@ to re-hook.
   shape, whether the point is starting to straighten, or whether the barb
   is wearing down from repeated pliers work, rather than swapping on a fixed
   number of fish or days. A hook that's still visually sound is fished as
-  is, including a hook that's picked up light surface rust.
+  is, including a hook that's picked up light surface rust. See
+  [Mustad 7.5" heavy-duty pliers](tackle-express-mustad-heavy-duty-pliers.md)
+  for one shop's stated pick for the pliers doing that wrenching.
 - **Re-tie on a felt nick, even if the hook still looks fine.** If the mono
   or fluorocarbon shows bite/teeth marks or a felt nick, cut back a few
   inches of line and re-tie the same hook rather than waiting for a
@@ -402,4 +404,5 @@ or a compressed drag going into storage.
 ## Linked from
 
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
+- [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 <!-- backlinks:end -->
