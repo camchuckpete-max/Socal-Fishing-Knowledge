@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
@@ -46,6 +46,32 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [Bight](../locations/bight-geography.md); fish aggregate where uphill current
   compresses along [island structure](../locations/island-structure.md) and the
   named banks in the [zone lexicon](../locations/zone-lexicon.md).
+- **A resident-stock opinion, dated, and a snapshot of the three working
+  areas that (2021) season (Art Taylor/Mike, SearcherSportfishing, via
+  Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip Thursday Vol. 147 — Live
+  at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing` registered
+  channel — medium confidence; **attributed opinion, not established
+  fact**):**
+  - As of this seminar, the fleet was working **three areas**: one **west of
+    San Diego**, and **two areas west of Ensenada** — the fish having shown
+    up closer to home and further offshore that season, so **no boat had
+    needed to run down to Colonet or San Quintín** for some time. Both
+    captains note a water structure historically productive down at
+    Colonet/San Quintín early in the modern SoCal bluefin fishery, and
+    expect fish to still be holding there if that structure persists — just
+    not fished recently because the closer grounds were producing.
+  - **Their own stated belief, not corroborated elsewhere in this corpus:**
+    Pacific bluefin off SoCal/northern Baja are a **resident stock**, not a
+    purely migratory one, ranging roughly from **Point Conception down to
+    Cedros Island**, out to **200–300 mi offshore** — reasoned from **~15
+    years** (as of 2021, i.e., since roughly 2006) of the fishery holding
+    fish including **100 lb-class bluefin**, from routinely catching and
+    releasing **8–12 lb juveniles** (read as evidence of local spawning,
+    since a fish that size is only months old), and from a **2019** sighting
+    (per on-camera "two years ago") of a **giant school of 100–300 lb tuna**
+    jumping just south of San Miguel Island, within **50 mi of Point
+    Conception**. Kept attributed as a captain's stated opinion/reasoning,
+    not asserted as this note's doctrine.
 - **Observed** (StokedOnFishing, `elBPRrdkugU`, 2022-12-22 upload, trip dated
   August 2022 (per on-camera "unbelievable 2022 August"), offshore San
   Clemente/Catalina, SoCal — "Southern California Bluefin Tuna Fishing at its

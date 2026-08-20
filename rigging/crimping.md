@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [crimping, crimp-sleeve, chafe-gear, leader, terminal-tackle, big-game]
-sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA]
+sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -73,6 +73,24 @@ size, this one for the mechanic of seating it correctly.
   for the full sleeve-crimped (non-haywire) wahoo live-bait build this
   parameter comes from.
 
+## Why crimp instead of tying a knot, at heavy leader classes (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention of this specific
+reasoning.)** Stated reason crimping is the standard connection at the top
+end of heavy classes rather than a tied knot: tying a knot in **200 lb**
+leader material "makes an awful big knot" that doesn't seat/cinch the way a
+knot does on lighter line — **crimping works best** at that class. The
+leader's crimp sleeve is matched to a swivel, and the **lighter main line
+(their example: 80 lb) ties to that swivel** with a conventional knot (a
+[San Diego jam knot](san-diego-jam-knot.md) in their build) — the knot lives
+on the lighter side of the connection, the crimp on the heavier side.
+Practical note: leader material sold by the roll (their example: a 25 ft
+roll of 200 lb) is typically labeled with the crimp size it calls for, and a
+tackle shop can point to the matching crimp for whatever leader is bought
+there.
+
 ## Tie it
 
 How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.com/watch?v=3zXcrGsIL-c).
@@ -81,5 +99,6 @@ How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.co
 ## Linked from
 
 - [Bluefin Bite Leaders](bite-leaders.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 <!-- backlinks:end -->

@@ -228,6 +228,7 @@ Captain Armando, 2021-10-21).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)

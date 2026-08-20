@@ -7,7 +7,7 @@
 - [Assist Hooks — Sizing, Cord, and Tying](assist-hooks.md) **[SoCal only]** — How to build and resize an assist hook trackside or on the water: matching hook size to a jig, choosing cord stiffness for the jig style, and tying a single (to
 - [Bluefin Bite Leaders](bite-leaders.md) **[SoCal only]** — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — described as the most critical part of a bluefin knife-jig setu
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md) — A crimp sleeve is a metal tube slid over doubled leader (or over leader plus a hook/swivel eye) and mechanically compressed with a crimping tool, joining the tw
-- [Double Trouble Rig](double-trouble-rig.md) **[SoCal only]** — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
+- [Double Trouble Rig](double-trouble-rig.md) — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
 - [Essential SoCal Knots](essential-knots.md) **[SoCal only]** — The short list of knots that cover a SoCal sport-boat or private-boat day: terminal knots that tie line to a hook or lure (Palomar, San Diego jam, loop knot), a
 - [FG Knot & Albright Knot](fg-and-albright.md) **[SoCal only]** — Two braid-to-leader connection knots that solve different problems.
 - [Flying Fish Harness](flying-fish-harness.md) — The pre-rigged flying fish (dead natural, netted or sabiki-caught, or an artificial) used off the kite for large local Pacific bluefin.
@@ -87,6 +87,7 @@ graph LR
   n19 --> n14
   n19 --> n4
   n2 --> n1
+  n2 --> n14
   n2 --> n7
   n20 --> n4
   n24 --> n7

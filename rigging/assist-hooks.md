@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [assist-hook, jig-rigging, knife-jig, slow-pitch, speed-jig, swivel, terminal-tackle]
-sources: [U4zifdssSes, unARAuTgF_A, -nIhadZwxAA]
+sources: [U4zifdssSes, unARAuTgF_A, -nIhadZwxAA, fgTmUq78ofQ]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -217,6 +217,50 @@ preference.
    split ring off the swivel's remaining eye connects the finished dual-top
    assist to the jig.
 
+## Stock flat-fall assist hooks wear out — upgrade, and size to the grade of fish (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+Art Taylor (owner/operator, SearcherSportfishing) and Capt. Mike, live seminar
+at Turner's Outdoorsman, San Marcos, hosted by Lori Sackow (`fgTmUq78ofQ`,
+"Tackle Tip Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+`searcher-sportfishing` registered channel — medium confidence, single
+mention of this specific hook product). Distinct from the sizing/cord/tying
+mechanics above (Cesar) — this is a stock-vs-upgrade judgment call for the
+small assist hooks that ship pre-rigged on [flat-fall-style
+jigs](../lures/knife-jigs.md), not a from-scratch tying procedure.
+
+- **Failure mode, stated plainly:** the small stock assist hooks that ship
+  with most flat-fall jigs wear out fast — hook a few fish (Mike's estimate:
+  **three or four**) and the crew starts **losing fish after that** as the
+  hooks break off. On the *Searcher*, the crew changes out the stock assist
+  hooks (and, on the [Colt Sniper](../lures/tuna-poppers-and-stickbaits.md)-style
+  hard baits, the trebles and split rings) on essentially every jig as soon
+  as they get them, rather than fishing the stock hardware as-is.
+- **The fix, as fished:** step up to a **bigger hook** on a **bigger split
+  ring** — no leader material or extra hardware between hook and jig, the
+  hook rides directly on the split ring, which is looped onto the jig's own
+  ring.
+- **A new (2021) wire-cord assist hook, named on camera as a Tady product
+  (product/model — low confidence, sponsored-claim caveat; the failure-mode
+  reasoning above is the transferable parameter):** built with **49-strand
+  wire rated to 65 lb test**, coated in **Kevlar**, marketed as
+  toothproof specifically because a fish's teeth wear through and fray a
+  standard cord/string assist over repeated hookups — a wire-core
+  alternative to the mono-core and hollow-core PE cords already documented
+  above (Cesar).
+- **Size the hook to the grade of fish expected, not to the jig's stock
+  hardware — the reasoning given:** as a bluefin gets bigger, its teeth get
+  bigger. A **~20 lb** fish has small enough teeth that the stock assist
+  hook is probably fine, and a **25–40 lb** fish on the stock assist hook is
+  "probably okay" too. The real risk named is a bigger, unspecified-grade
+  fish taken while fishing **80 lb line** — there the stock assist hook is a
+  genuine chance of losing the fish to a broken hook, so the stated advice is
+  to "hedge your bet" and upgrade regardless of what size shows up. Stated context: the schools being fished
+  that week were **mixed-grade, roughly 30–150 lb**, so anglers often don't
+  know in advance what size fish will eat the drop — a reason to upgrade the
+  hook rather than gamble on the stock hardware holding for whatever bites.
+- Passengers can have the crew swap assist hooks/rings for them aboard the
+  boat if they don't want to rig it themselves at the dock.
+
 ## Hook shape — shank, bend, and point (selection, not tying)
 
 Selecting a hook shape for the assist, as distinct from the sizing/cord/tying
@@ -302,6 +346,7 @@ How-to videos: [tying assist hooks, single and double, on the water](https://www
 <!-- backlinks:start -->
 ## Linked from
 
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)

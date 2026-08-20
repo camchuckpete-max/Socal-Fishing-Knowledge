@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw]
+sources: [an_uw-5pjfw, fgTmUq78ofQ]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -80,6 +80,30 @@ to reach for it is the reverse map in **Linked from** below.
   the rod can be worked from the rail — reads at this note's medium
   confidence; see [rail-rod class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
   for the mechanism.
+- **A second weight tier and a full leader/knot build (Art Taylor/Mike,
+  SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip
+  Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention of this specific weight ladder and rig):** a slow-pitch-style flat
+  fall jig (product named on camera — low confidence, sponsored-claim
+  caveat) offered in **350 g, 320 g, 250 g, and 120 g**. Same **go-heavier-
+  in-wind** reasoning as above, restated as a concrete recommendation: default
+  to the **heavier weights (250 g or 320 g)** so the jig still reaches the
+  bite zone if the weather comes up and gets windy; only drop to the
+  **120 g** when it's calm enough that the boat isn't moving/drifting much.
+  **Leader:** **200 lb monofilament**, crimped, **about 30 in — "wouldn't go
+  much shorter than that."** Consistent with, and a specific length for,
+  the 200 lb mono/large-swivel crimped leader already logged above; connects
+  to an **80 lb main line** with a [San Diego jam
+  knot](../rigging/san-diego-jam-knot.md) at the swivel — tying **200 lb
+  line itself is explicitly avoided**: knotting straight through the heavy
+  leader material "makes an awful big knot," so the crimp-to-swivel-to-tied-
+  main-line sequence is used instead of a straight knotted connection (see
+  [crimping](../rigging/crimping.md)). Rod/reel example: an **Avid HX
+  Raptor**-class two-speed reel spooled with **80 lb test** (product/model —
+  low confidence). Stock assist hooks on this jig class wear out and are
+  routinely upgraded — see [assist
+  hooks](../rigging/assist-hooks.md#stock-flat-fall-assist-hooks-wear-out--upgrade-and-size-to-the-grade-of-fish-art-taylormike-searchersportfishing-via-turners-outdoorsman).
 
 <!-- backlinks:start -->
 ## Linked from

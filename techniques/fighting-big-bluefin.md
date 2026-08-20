@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -136,6 +136,24 @@ counter-move for a fish taken off the [kite](kite-fishing.md).
   across its teeth (increasing bite-throughs) and puts sustained extra load on
   the terminal knot (increasing break-offs). Keeping the head up the whole
   fight, via the down-swell walk and the gear-tap, avoids it.
+- **Rod length as a death-circle mitigation, the angler's-gear-side cause
+  (Lori Sackow, Turner's Outdoorsman, via SearcherSportfishing, `fgTmUq78ofQ`,
+  "Tackle Tip Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** a too-short fighting rod is framed as a direct cause of the
+  death circle, not just a factor in it — with a **6.5 ft** rod the angler
+  can't push the fish away from the boat once it starts circling, so it
+  circles directly under the hull and drags/saws the leader across its
+  teeth on every pass. Stated fix: **at least 7.5 ft**, framed as a sportboat
+  minimum specifically so the rod has enough length to keep the fish's
+  circle pushed out and away from under the boat. Longer isn't better past a
+  point, either — beyond roughly **8 ft 2 in** the leverage against the
+  angler becomes the problem instead: **10 ft rods** were called out on
+  camera as a common mistake among less experienced anglers, who then
+  struggle for an hour fighting a big fish on a rod described as unwieldy as
+  a "seesaw" at that length. Sits beside, not a replacement for, the
+  boat-driven down-swell-walk technique above — this is the same death-circle
+  problem addressed from the rod-length side rather than the helm.
 - **A reel-side counter-move for the same problem, on a two-speed reel
   (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14;
   unregistered channel/speaker, single mention — medium confidence):**

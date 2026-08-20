@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ]
 confidence: high
 ---
 
@@ -173,6 +173,31 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   reading skill to find suspended fish like tuna. (Dave Hansen, Your
   Saltwater Guide, FEXgl0eQCa8, 2021-05-17; registered voice, single
   mention — medium confidence)
+
+## Searching depth window while running, and sea state limits how shallow you can read (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention of this specific
+window.)** Asked what depth range a private boat should look through while
+running/searching for bluefin schools: the *Searcher*'s wheelhouse sounder is
+typically run to about **80 fathoms (480 ft)**, watching the whole band from
+the surface down to that depth rather than a narrower window — a deeper
+working range than the 0–150/0–300 ft manual-range doctrine logged above
+(Dave Hansen) for a private boat's lighter bait budget; kept side by side as
+a different platform (sportboat wheelhouse vs. private-boat manual range),
+not reconciled to it.
+
+- **Sea state sets how shallow the sounder can actually read, distinct from
+  the range setting itself:** in **flat conditions** the cone can be shot
+  "right along the surface," reading the full column from the top down. In
+  **choppy/rolly conditions**, the cone has to be shot lower, so a fish
+  holding **high in the column won't show on the meter until the boat is
+  right on top of it** — the same fish that would have painted from a
+  distance on a calm day is invisible until close range once the sea comes
+  up. A mechanism reason to expect the sounder to under-read shallow fish in
+  rough conditions, not a fault in the machine or a range/gain setting to
+  fix.
 
 ## Anchor vs. drift call off a live sounder read
 

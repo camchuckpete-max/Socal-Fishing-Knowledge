@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [skip-jigging, surface-iron, topwater, tuna, bluefin, dorado, yellowtail]
-sources: [OL8D1l73RVg, Ud3hi9r1Nr4]
+sources: [OL8D1l73RVg, Ud3hi9r1Nr4, fgTmUq78ofQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -90,6 +90,25 @@ names:
   potentially help both action and hook-up. Full model/rigging detail:
   [Colt Sniper](../lures/tuna-poppers-and-stickbaits.md#colt-sniper-foamer-stickbait)
   and [Laser Minnow](../lures/tuna-poppers-and-stickbaits.md#laser-minnow-2-oz-casting-minnow-brand-unresolved).
+
+## Hook choice — a single big hook is not an upgrade here (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention.)** Asked whether a
+big single hook would be an advantage over a treble for bluefin breezing/
+eating bait on the surface (a **skip jig** or surface iron scenario): **no**
+— his stated reasoning gives the single hook two separate downsides, not a
+clean tradeoff against the treble. A single hook is **less likely to hook
+the fish in the first place**, and the fish he does hook on a single hook
+are **more likely to fall off / throw it** before landing, compared with the
+stock treble.
+**Color doesn't matter for this presentation** — "it doesn't make any
+difference," as long as the lure is skipped; the action, not the finish,
+is what draws the strike, corroborating the color-doesn't-matter-for-
+action framing already logged in [surface iron —
+color](surface-iron-color.md) and [tuna poppers and
+stickbaits](../lures/tuna-poppers-and-stickbaits.md).
 
 ## Related
 

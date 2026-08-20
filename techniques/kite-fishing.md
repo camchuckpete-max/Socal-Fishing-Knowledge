@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -329,6 +329,32 @@ trigger to speed-troll once the kite won't fly. See
   the rail without breaking the rod down (rod brand not resolved — heard as
   "draft," `asr-uncertain`, withheld). A **500 lb ball-bearing swivel** joins
   the top shot to the [flying-fish-harness leader](../rigging/flying-fish-harness.md#searchers-yummy-flyer-and-dead-flyer-leader-specs-tackle-tip-thursday-vol-145).
+
+## Observed outfit and dead-flyer specs (Searcher's kite program, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention of this specific
+outfit.)** As of this seminar the *Searcher* carries **three** dedicated kite
+setups: **Accurate ATD 50** reels on **Seeker 2x4** rods (product/model names
+— low confidence, sponsored-claim caveat; the boat's own equipment, not a
+retail pitch, but held to the same registry caveat as other named gear in
+this seminar), loaded with
+**200 lb spectra tied straight to 400 lb mono** — in range with, and a named
+reel/rod pairing for, the 200 lb braid-to-400 lb-fluoro kite main-line/leader
+spec already logged above (Hansen) and the 200–400 lb (typically 400) leader
+spec in [flying fish harness](../rigging/flying-fish-harness.md). Terminal
+end: a **12/0 stainless Mustad** hook with a **treble stinger hook**, rigged
+into a dead flyer with the wings spread open — the same J-hook-plus-trailing-
+treble construction already logged in the harness note, now with a
+12/0-specific hook size and the stated main line joining straight to the
+mono leader with no separate swivel/crimp step described on camera. **Dead-
+boat working style, corroborating:** worked slowly on the way out, then left
+to sit still once in the bite zone — the same dead-boat/dapping presentation
+already documented above (Hansen), not a trolled presentation. **This grade
+of flyer/kite gear is reserved for the biggest fish** — stated on camera as
+typically only fished once **100 lb+** bluefin are confirmed around; the crew
+hadn't yet needed to fish it that (2021) season as of this seminar.
 
 ## Common failures
 

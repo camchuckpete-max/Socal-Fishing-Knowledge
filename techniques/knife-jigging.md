@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -243,6 +243,22 @@ whether a bite converts.
   build marks — a slower process (the panel estimates **10–15 minutes**) but
   doable given the time available on an overnight trip. Corroborates, without
   adding a new number, the mark-your-line doctrine below.
+- **Make the mark long, not a dot — it's read at speed (Art Taylor/Mike,
+  SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip
+  Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** a further interval data point — one angler measured out and
+  spray-painted marks on pavement every **60 ft** (to 240 ft, i.e. 40
+  fathoms), then transferred those intervals onto his spectra with a Sharpie
+  — in range with, not a new number beyond, the 25/50/100 ft intervals
+  already logged above. **The detail this source adds:** make each mark
+  **12–18 in long**, not a short dot — line is running off the reel fast
+  enough on a drop that a small mark gets missed entirely and you lose track
+  of depth; a long mark is what's actually legible at that speed. Different
+  colors of Sharpie per depth interval is also named as an option.
+  **Shop service:** when spooling a customer's reel with new line, the shop
+  will mark it **every 100 ft** with a long black Sharpie mark on request at
+  no extra charge.
 - **Thumb tension on the drop keeps the jig vertical (James Kikkawa, PCS Show
   2024 "Jigging 101" panel, `Et2TUskzCSs`; medium confidence):** counterintuitive
   but effective — keep a little tension on the spool with your thumb as the

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -627,6 +627,41 @@ double as the "sinker" on a bait rig with a hook still fished above it:
   rig can have with the leader/bait.
 - Not corroborated elsewhere in this corpus and no rigging diagram given —
   logged as an attributed idea to test, not established doctrine.
+
+## Torpedo-sinker build and a second stated reason for the one-sided rubber band (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention of this specific
+build.)**
+
+- **Sinker range, wind-dependent:** **6–16 oz** torpedo sinkers carried in
+  the tackle box, sized up in wind/current so the bait still reaches the
+  bite zone — the same wind-driven upsizing logic already logged for jig
+  weight throughout this note, restated for the sinker rig specifically.
+- **Attachment — rubber band above the leader, looped through the sinker,
+  not tied at both ends:** consistent with the breakaway concept already
+  logged above (Concept, and Mason's tie-on sequence). **A second stated
+  reason for leaving it one-sided, not previously logged in this note:** if
+  fish suddenly show foaming on the surface mid-drop, the rig can be reeled
+  up and **broken off quickly** to get the bait presented differently right
+  away; separately, once a hooked fish is close to the boat, the dangling
+  sinker "banging around" can knock into the hook or foul the leader — the
+  crew can reach out and break it off rather than deal with it in the way.
+  Tying the band at both ends defeats this purpose, since it then resists
+  breaking away on demand.
+- **Hook — sized down from this note's usual 5/0–7/0 range for a
+  particular week's grade:** a **2/0 circle hook**, explicitly *not* a
+  5/0 or 6/0, fished on **50 lb line and matching fluorocarbon** for
+  **40–60 lb** fish that week; general guidance given alongside it — as fish
+  graded bigger (**80–100 lb and up**), step the leader up accordingly (their
+  example: **80 lb**).
+- **Nose-hook the bait, not collar- or belly-hooked — stated reason:**
+  because the bait is being dragged down by the sinker rather than swimming
+  under its own power, a belly-hooked bait **rips off the hook on the way
+  down**; nose-hooking keeps it looking lifelike through the drop.
+  Corroborates, with an explicit failure-mode reason, the always-nose-hook
+  rule already logged above (PCS Show panel).
 
 ## Rig it
 

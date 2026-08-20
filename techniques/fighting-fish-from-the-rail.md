@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -112,6 +112,24 @@ footage (without stated reasoning) at
 — kept side by side, not merged, per the doctrine-vs-observation rule; that
 note's entries describe the same left-armpit/hand-on-reel/squat-and-stand
 pattern independently observed on StokedOnFishing trips.
+
+## Why rail fishing fell out and came back, and harnesses vs. belts (Art Taylor/Lori Sackow, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Lori Sackow, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip
+Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+`searcher-sportfishing` registered channel — medium confidence, single
+mention.)** Historical context for why rail fishing became the default
+rather than an always-standard practice: roughly **20 years before this 2021
+seminar (i.e., around 2001)**, **IGFA world-record rules** disqualified a
+catch if the angler touched the rail or got help from anyone else during the
+fight, which pushed anglers away from bracing on the rail for a stretch —
+framed on camera, half-joking, as rail use once being seen as "for wussies."
+By the time of this seminar, **"everybody's using the rail again."**
+**Fighting belts vs. harnesses:** a rod (fighting) belt is still commonly
+used by anglers who like one; a shoulder/back **harness**, by contrast, is
+now rarely seen — called cumbersome, and getting in and out of one costs
+time that's usually needed at exactly the wrong moment (a hot bite or a
+fish suddenly changing direction).
 
 ## Related
 

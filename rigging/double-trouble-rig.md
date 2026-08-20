@@ -1,9 +1,9 @@
 ---
 type: rig
-tags: [bluefin, kite-fishing, live-bait, crimped-leader]
-sources: [UrEymGvZx00, nQvJnfb5jQ4]
+tags: [bluefin, yellowfin, kite-fishing, live-bait, crimped-leader]
+sources: [UrEymGvZx00, nQvJnfb5jQ4, fgTmUq78ofQ]
 confidence: medium
-regions: [socal-bight]
+regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
 ---
 
@@ -52,6 +52,24 @@ same session: **100 lb line was called easier for hooking the bigger fish
 being seen than 30 lb**, consistent with, not new beyond, the grade-based
 line-class table above. See [yellowtail](../species/yellowtail.md) for the
 full trip context.
+
+## A named variant, "double treble" — Guadalupe Island yellowfin (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention.)** Called on camera
+**"double treble"** rather than "double trouble" — plausibly the same rig
+under a different name/spelling, not confirmed identical hardware to the
+build above, so kept as a separate attributed data point rather than merged
+in. Build, as described: **200 lb mono**, with **two droppers**, each ending
+in a **3/0 or 4/0 circle hook** — in range with the 4/0-hook, 100–200 lb
+line-class table above — and bait **shoulder-hooked** on each hook (matching
+this note's collar/shoulder-hook-not-nose-hook doctrine above), so the two
+baits **"dance around the surface."** Named on camera as **"one of our
+favorite ways to catch yellowfin at Guadalupe [Island]"** — a species/
+location pairing (yellowfin, Guadalupe Island, Baja) not yet logged in this
+note, which otherwise documents this rig against bluefin (its usual target)
+and one Observed yellowtail catch at Cortez Bank.
 
 ## Rig it
 

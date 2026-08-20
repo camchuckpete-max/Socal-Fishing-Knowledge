@@ -574,6 +574,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 ## Linked from
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
+- [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)

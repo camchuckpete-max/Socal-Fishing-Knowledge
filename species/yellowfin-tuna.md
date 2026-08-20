@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -68,6 +68,20 @@ the bluefin nearby become more cooperative too.**
   **20 lb fluorocarbon top shot with size 1–2 hooks** and a parabolic rod
   for shock absorption — full build in [Searcher big/giant tuna rig
   ladder](../tackle/searcher-big-tuna-rig-ladder.md#light-line-finesse-rig--guadalupe-island-line-shy-medium-grade-tuna-gary-gillingham-accurate-fishing-products-tackle-tip-thursday-vol-80-7day-trip-wxldxfjb8oq-uploaded-2019-12-26).
+
+- **Why late summer/fall warms up — a stated mechanism (Art Taylor/Mike,
+  SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip
+  Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** two stated reasons SST climbs into **August–September**, both
+  feeding the warm-water arrival timing already logged above — (1) ordinary
+  seasonal warming (the climate itself runs warmer that time of year), and
+  (2) **hurricanes tracking up from farther south in Baja/Mexico can push a
+  pulse of warmer water north** into the SoCal zone. As of this seminar
+  (mid-May), the crew hadn't yet fished a mixed bluefin/yellowfin school that
+  (2021) season and had seen mixed schools show up **"typically a little
+  later in the year"** in prior seasons — consistent with, not new beyond,
+  the August-arrival timing above, now with a stated mechanism for it.
 
 ## Finding them (sign & sonar)
 

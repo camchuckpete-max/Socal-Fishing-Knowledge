@@ -207,5 +207,6 @@ single-source color reports above.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Skip Jigging](skip-jigging.md)
 - [Surface Iron](surface-iron.md)
 <!-- backlinks:end -->
