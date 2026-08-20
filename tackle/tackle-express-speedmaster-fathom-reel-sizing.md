@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express]
-sources: [5hnHrCUNk3Q]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A]
 confidence: medium
 ---
 
@@ -38,6 +38,29 @@ both.
 - **Big tier — Speedmaster 25 / Penn Fathom 80**, introduced as "the big
   dog" — the clip cuts off here before any line/leader spec is given for this
   tier.
+
+### Penn Fathom 80 — drag rating and build (separate clip)
+
+Tackle Express, "50 LBS of Drag?! This reel is an absolute BEAST!,"
+`D0oEQsTaL7A`, uploaded 2026-02-25 — a 34-second tackle-counter clip that
+opens mid-sentence (footage before 00:00:00 is missing), so the construction
+claims below may describe the Fathom line generally rather than the 80
+specifically; the drag figure is stated on-camera as the 80's own spec, kept
+as **medium** confidence (unregistered channel, single mention), consistent
+with the ladder above rather than combined into a single parameter:
+
+- **Drag — 50 lb**, stated explicitly for "our Fathom 80": "way more than any
+  of us could ever use."
+- **Gear train — stainless drive and pinion gear**, stated reason: durability
+  across repeated fights ("continue to take a beating over and over again,
+  fish after fish") with "minimal to zero issues." Consistent with (not
+  additional confirmation of, per the re-cut-footage rule — this is a
+  different clip) the all-stainless-steel gear train already noted for the
+  Fathom II generation in [Penn Fathom II and Penn Authority — ICAST 2022
+  Launch Parameters](tackle-express-icast2022-penn-fathom2-authority.md).
+- **Frame — one-piece aluminum frame and side plate**, stated reason:
+  minimizes binding or flexing under load.
+- Still no line/leader spec for this tier from either clip.
 
 ## Notes on scope
 
