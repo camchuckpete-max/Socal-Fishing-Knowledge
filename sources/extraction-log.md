@@ -2290,7 +2290,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | PKwvkOOYzto | SearcherSportfishing | on-the-water | decision-rationale | done | rigging/surgeons-knot-mono-to-fluoro.md (new note, split from essential-knots.md): Captain Art's fluoro-to-mono surgeon's loop tie added as 13th citation; fixed cross-file links and citation-count typo |
 | Psiiza6YQyE | SearcherSportfishing | on-the-water | decision-rationale | done | tackle/drag-setting.md: merged Capt. Aaron Remy's drag-setting reasoning (hands-free-hookset, drag-wear-like-brakes, star-drag test, crew-check corroboration); fixed date-ordering error |
 | QMTCBY-kKeE | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 11s clip contains only music and a single word, no fishing content |
-| QOV9d0qTcEE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| QOV9d0qTcEE | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 49s clip with no extractable fishing content |
 | QeU9J5XVhP4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Qk6Q1UJMTpQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | RhULLaUsEDk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
