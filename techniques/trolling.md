@@ -649,7 +649,10 @@ bite"); the crew chose not to keep grinding and moved on. See
 carries the technique/gear detail only. For the **cast** alternative to this
 trolled-bomb presentation (a wahoo bomb or Raider jig, cast and burned back on
 wire leader), see
-[wahoo bomb & Raider jig casting](wahoo-bomb-casting.md).
+[wahoo bomb & Raider jig casting](wahoo-bomb-casting.md). For dedicated
+trolling-lure mechanics, wire-leader spec, and gear class (troll speed,
+free-spool search trick, two-speed fight technique), see
+[wahoo trolling](wahoo-trolling.md).
 
 ## East Cape, Baja — Buena Vista Beach Resort offshore troll for tuna/dorado/wahoo/marlin
 
@@ -1103,6 +1106,7 @@ covered above, not a new tool.
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

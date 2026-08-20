@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4, o6Sawz5S7bk, vNIazq1aVwc]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4, o6Sawz5S7bk, vNIazq1aVwc, 4uNPLknRAQg]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -133,6 +133,26 @@ reconciled; kept side by side per the conflict rule. This build also doesn't
 resolve the twist-vs-crimp-by-stranding question the `-62xDo4UQzo` entry
 leaves open, since "steel wire" is stated here without naming single- vs.
 multi-strand construction.
+
+**A fourth data point, dedicated to the trolling-lure (not casting-jig)
+application — a further crimped build, lighter wire test, and a stated
+minimum leader length (Searcher Sportfishing, "Tackle Talk Live Recap (Wahoo
+5.5.20)," `4uNPLknRAQg`, 2020-05-06; searcher-sportfishing registered
+channel/series — single mention, medium confidence):** for a trolling lure
+(a Yo-Zuri Marauder shown on camera), **200 lb wire** — a second demonstration
+in the same session shows **200–250 lb** — uncoated, crimped with the sleeve
+size printed on the wire's own packaging (going a size up on the sleeve is
+called out as risking a lost fish and lure). **Loop size: about 1 in, no
+shorter** — shorter is stated to cost the lure some of its swimming action;
+longer doesn't meaningfully matter. **Leader length: 30–36 in** — one leader
+measured on camera at only 24 in and was called too short. **Swivel: heavy
+black, not chrome** — a chrome swivel gets bitten through "a lot." This sits
+as a separate, lighter-wire data point from the 275 lb steel-wire build
+directly above (same general trolling-lure application, not reconciled), and
+gives the first stated minimum leader length and swivel-color guidance for
+the wahoo trolling-lure connection specifically. Full mechanics, speed, and
+gear-class detail for this same session are in
+[wahoo trolling](../techniques/wahoo-trolling.md#rigging).
 
 ## Wahoo live-bait leader
 
@@ -277,6 +297,41 @@ the 200–300 lb (`9IhmYstB8sA`), 44 lb (`G81HN0dIDg0`), and 60 lb
 for any of the gaps. This same video's live-bait hookset doctrine (free
 spool and count to ~15 after coming up empty on the hookset) is logged in
 [wahoo — bite response on live bait](../species/wahoo.md#doctrine--conflicts).
+
+**A seventh data point — the earliest-dated 40 lb citation in this set, plus a
+direct conflict on which sleeve matches 40 lb wire (Searcher Sportfishing,
+"Tackle Talk Live Recap (Wahoo 5.5.20)," `4uNPLknRAQg`, 2020-05-06;
+searcher-sportfishing registered channel/series — single mention, medium
+confidence; predates `vNIazq1aVwc`'s 40 lb citation above by about six
+months, making it the first-dated source for this figure):** a live-bait
+leader built from **40 lb, seven-strand, uncoated Berkley wire**, a
+small-gauge swivel or small black ring, and a **Mustad 2/0 hook** —
+specifically the **cheap, seven-or-eight-cent model, not a premium ~$4 Owner
+hook** — tied to **30 or 40 lb** mono main line. The crew makes these up in
+batches, fitting **four or five leaders per Ziploc bag** from a **30-ft**
+length of wire. **On-screen packaging for this 40 lb wire states to use the
+A2 standard sleeve** — the same crimp shown and named on camera as the A2.
+**This directly conflicts with the `S80GRyuAbLY`/`_Z4yMtrYgeA` build above**,
+which states the A2 sleeve is the correct match for **60 lb** wire and that
+using an A2 sleeve on 40 lb wire "would crimp loose and fail." Both citations
+are from the same channel, both show on-camera wire packaging as their
+source for the sleeve match, and neither reconciles the other — kept side by
+side, not merged, per the conflict rule; a reader building a 40 lb wahoo
+live-bait leader should check the sleeve size printed on their own spool of
+wire rather than trusting either figure blind. This **40 lb** wire figure
+itself is a further, corroborating data point alongside the four wire-test
+figures already logged above (200–300 lb, 44 lb, 60 lb, and the 40 lb
+`vNIazq1aVwc` citation) — now the **second** independent 40 lb citation from
+this channel.
+
+**Titanium wire — a named but unadopted alternative (same session,
+`4uNPLknRAQg`):** asked for an opinion on titanium leader wire, the answer is
+that the speaker hasn't used it much personally, but relays a secondhand
+opinion from **Mike Lackey**, given at a tackle show, that titanium leader
+material holds up longer than standard wire. The speaker's own stated
+practice remains uncoated seven-strand, "forever," with no personal titanium
+experience to confirm or dispute Lackey's claim — carried here as an
+attributed, unconfirmed opinion, not adopted as this note's doctrine.
 
 ## Rig it
 

@@ -90,4 +90,5 @@ and its rod/holder pairing are in
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo](../species/wahoo.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 <!-- backlinks:end -->

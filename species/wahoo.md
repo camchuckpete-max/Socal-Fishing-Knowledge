@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc, 4uNPLknRAQg]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -79,6 +79,23 @@ leader is mandatory regardless of line test — see
 - **No repeated seasonal calendar established in this corpus** beyond the fall
   Mag Bay mention and the November lower-banks bycatch above — thin coverage,
   flagged rather than smoothed into a calendar.
+- **A further, dated corroboration on the October/November window, plus a
+  named 2019 trip and a starting-month figure (Searcher Sportfishing, "Tackle
+  Talk Live Recap (Wahoo 5.5.20)," `4uNPLknRAQg`, 2020-05-06; searcher-
+  sportfishing registered channel/series — this specific claim now repeated
+  across three same-channel sources, `9IhmYstB8sA` and `tjBeR9tWd4s` above,
+  qualifying for **high** on the Oct/Nov window itself):** asked for the best
+  time of year, the answer names **fall as best — "late September, October,
+  early November"** — with a specific example: **Captain Mike Tahr's** wahoo
+  trip that closed the boat's 2019 season, run the **second week of November
+  2019**, is cited on camera as producing "tremendous catches." Some
+  seven/eight-day trips leave as early as **July** to be the first boat at
+  Alijos Rocks or the Ridge if the water is warm enough, but fall is called
+  the stated favorite, on the stated mechanism that water incrementally warms
+  through summer and can carry a hurricane-driven warm push by then. Warm
+  water generally (**72°F or warmer**) is repeated here as the standing
+  condition for a chance at wahoo, consistent with the temperature threshold
+  already logged in [wahoo trolling — mechanics](../techniques/wahoo-trolling.md#mechanics).
 
 ## Finding them (sign & sonar)
 
@@ -93,7 +110,7 @@ for locating wahoo specifically. General method:
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Dedicated wahoo stop on known structure/bank (e.g. Alijos Rocks) | 1) Bomb-style **trolled** lure 2) Cast a **wahoo bomb, Raider jig, Catch DC Strike jig, or 6X Jr-class jig**, burn retrieve | Trolling class / [jig-stick class](../tackle/gear-classes.md) | Trolled bomb favored by one angler for hookup ratio on wahoo's back-half strike; casting a bomb or Raider jig on wire leader is documented as the standard two-lure kit, with two further sources (`0zgmoOH3Qag`, `9IhmYstB8sA`) each naming a "Catch"-brand jig as an alternative when not trolling — see [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#lure-choice) and [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
+| Dedicated wahoo stop on known structure/bank (e.g. Alijos Rocks) | 1) Bomb-style **trolled** lure 2) Cast a **wahoo bomb, Raider jig, Catch DC Strike jig, or 6X Jr-class jig**, burn retrieve | Trolling class / [jig-stick class](../tackle/gear-classes.md) | Trolled bomb favored by one angler for hookup ratio on wahoo's back-half strike; casting a bomb or Raider jig on wire leader is documented as the standard two-lure kit, with two further sources (`0zgmoOH3Qag`, `9IhmYstB8sA`) each naming a "Catch"-brand jig as an alternative when not trolling — see [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md#lure-choice) and [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo). Troll speed, wire-leader spec, and fight mechanics for the trolled option are in [wahoo trolling](../techniques/wahoo-trolling.md) |
 | Trolling with high-speed hard-bait plugs instead of a bomb-style lure | Single-hook high-speed diving plugs — the **Nomad DTX 200** named, plus a second plug whose brand is ASR-unresolved. A second Searcher tackle tip names two unspecified DTX sizes for **any long-range trip**, called out at Alijos Rocks and "the Ridge" specifically, on the stated mechanism that the DTX runs deeper than most trolling lures for a better bite chance | Trolling class | Searcher Sportfishing / Fisherman's Landing, `9IhmYstB8sA`; Logan, SearcherSportfishing, `it_YYh_8Z-w` — see [DTX Minnow — wahoo trolling application](../lures/dtx-minnow.md#wahoo-trolling-application-dtx-200) |
 | Wahoo picked up **incidentally while transiting** between grounds | Run a dedicated wahoo transit lure (magnet-held hook, stated to "run true" up to ~20 kt) without slowing the boat | Trolling class | ⚠ promotional claim (lure-company owner describing his own product) — low confidence on the product claim itself; see [trolling — Magdalena Bay](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin) |
 | Wahoo hooked, **fighting it** | Wind continuously — **do not pump the rod**; slack lets a wahoo throw the hook | — | See [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
@@ -108,12 +125,20 @@ for locating wahoo specifically. General method:
   [wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md).
 - **Trolling:** a two-speed conventional reel is favored for wahoo — high
   gear for the initial strike, low gear to settle into the fight — see
-  [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo).
+  [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo)
+  and [wahoo trolling — gear-class detail](../techniques/wahoo-trolling.md#gear-class-detail)
+  (80 lb class outfit, 100–135 lb braid main line).
+- **Braid class by application (Searcher Sportfishing, `4uNPLknRAQg`,
+  2020-05-06 — single-video citation, medium confidence):** trolling
+  **100–135 lb**; casting a bomb or jig **80 lb**; live bait **60–65 lb**.
 - **Live bait:** [flyline class](../tackle/gear-classes.md), sardine on a
   **200–300 lb** single- or multi-strand wire leader — see
   [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
 - **Terminal:** wire leader is mandatory — teeth cut through mono regardless
   of test. See [haywire twist](../rigging/haywire-twist.md).
+- **Deck safety:** wahoo's razor teeth are a real hazard once one is boated or
+  boat-side — see [wahoo handling & deck safety](../fish-care/wahoo-handling.md)
+  for the pre-lift pause, gaff/neutralize protocol, and hook-removal practice.
 
 ## Doctrine & conflicts
 
@@ -163,6 +188,23 @@ for locating wahoo specifically. General method:
   the fix (free spool and wait, don't keep winding/fighting). Leader build
   from this same video is logged in
   [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
+- **A third, chronologically-intermediate data point on the same
+  eat-half-and-circle-back mechanism (Searcher Sportfishing, `4uNPLknRAQg`,
+  2020-05-06; searcher-sportfishing registered channel/series — repeated
+  doctrine, dated between the `jqyu3wZdNF4` (2018-11-08) and `vNIazq1aVwc`
+  (2020-11-19) citations above):** framed as learned "through decades of
+  fishing," the same core behavior is described — a live bait cast out and
+  bit often turns out, once the reel is put in gear, to have "no fish on the
+  end of it," because the wahoo bit the bait in half and will circle back to
+  eat the other half if given time. The fix given matches the earlier
+  citation: put the reel back in **free spool** and wait roughly **10–15
+  seconds**. This citation frames the trigger the same way as
+  `jqyu3wZdNF4` (react to the bait having gone dead/light after the bite,
+  not to a failed hookset specifically) rather than the way `vNIazq1aVwc`
+  frames it (react after coming up empty on a deliberate hookset) — kept
+  side by side per the note above, not merged, but the shared mechanism and
+  fix across all three sightings now reads as **repeated Searcher
+  Sportfishing doctrine**.
 - **Conflict, not reconciled — cast vs. troll for the same bomb lure:** one
   angler at Alijos Rocks preferred **trolling** a bomb-style lure over a
   jig-and-reel presentation, specifically for hookup ratio on wahoo's
@@ -185,6 +227,20 @@ for locating wahoo specifically. General method:
   not consider wahoo's teeth specifically. See [tuna poppers and
   stickbaits — casting
   gear](../lures/tuna-poppers-and-stickbaits.md#casting-gear-for-poppers-and-burn-baits).
+- **Conflict corroboration — named angler preference, wire vs. straight heavy
+  leader on trolling/casting lures (Searcher Sportfishing, `4uNPLknRAQg`,
+  2020-05-06; searcher-sportfishing registered channel/series, single mention
+  — medium confidence):** a customer named on camera as **Howard Fulmer** is
+  reported as preferring **heavy fluorocarbon over wire** on wahoo lures,
+  reasoning that with a full box of lures he's comfortable risking losing one
+  or two to a bite-off. The seminar host's own stated preference is the
+  opposite — wire everything, since a lost $25–50 lure is money he'd rather
+  not spend repeatedly — but frames Howard's approach as valid for someone
+  willing to accept that trade-off. This is a second, named data point on the
+  same fluoro-vs-wire question already logged as an unreconciled conflict
+  above (`JHMCguO7sXE`'s generic popper-leader spec) — kept side by side, not
+  merged; full parameter detail in
+  [wahoo trolling — rigging](../techniques/wahoo-trolling.md#rigging).
 - **Conflict, not reconciled — live-bait leader wire test, same channel:**
   Fisherman's Landing Tackle Shop gives **200–300 lb** wire for a wahoo
   live-bait leader in one tackle tip (`9IhmYstB8sA`, 2019-11-14) and **44 lb**
@@ -210,5 +266,7 @@ for locating wahoo specifically. General method:
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
+- [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

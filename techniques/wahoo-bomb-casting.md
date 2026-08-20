@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo, tjBeR9tWd4s]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo, tjBeR9tWd4s, 4uNPLknRAQg]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -119,6 +119,41 @@ where this fits among wahoo's other techniques routes from
   above — this source gives no forage-matching reasoning, just a general
   shine preference.
 
+- **Raider Lures stopped manufacturing wahoo lures, with a successor brand
+  named (Searcher Sportfishing, "Tackle Talk Live Recap (Wahoo 5.5.20),"
+  `4uNPLknRAQg`, 2020-05-06; searcher-sportfishing registered channel/series
+  — single mention, medium confidence):** at the Fred Hall Show that year, the
+  shop learned **Raider Lures had discontinued its wahoo lure line** — called
+  out on camera as a real loss ("these things really work"), with one
+  customer reportedly buying the last 35 Raider Lures the shop had in stock.
+  **Stinger Lures** is named as the manufacturer Fisherman's Landing Tackle
+  switched to as a result — shown in **gold**, with a "very big single sharp
+  hook." This dates the Raider-to-Stinger supply switch to spring 2020 and
+  sits alongside, not replacing, this note's other Raider-jig citations,
+  which describe lures already in circulation before the discontinuation.
+- **Two further old-school cast-lure examples shown on camera, same session
+  (`4uNPLknRAQg`):** a **Tady Y2** — described as an "old school" heavy
+  chrome-and-blue-reflective-tape lure — and a **Salas 6X Jr.** — called a
+  "candy bar" style, all-chrome, sized to buy your own reflective tape and
+  finish yourself. The Salas 6X Jr. is already documented elsewhere in this
+  KB (see [iron jigs](../lures/iron-jigs.md)) and independently named,
+  asr-uncertain, as a wahoo pick in the `9IhmYstB8sA` and `tjBeR9tWd4s`
+  citations above; this session names it on camera without the ASR
+  uncertainty those two carry (spoken clearly, not caption-only), so it is
+  the strongest confirmation yet that "6X Jr." in this note's other citations
+  is the Salas 6X Jr.
+- **A third color-doctrine voice — flash matters more than a specific
+  color, carry an assortment (`4uNPLknRAQg`):** asked directly whether lure
+  color matters, the answer is a qualified **"to a certain extent" yes** —
+  but "I don't think you need to get that specific... it's about bling,"
+  i.e. general flash/glitter/reflective-tape attractant value rather than
+  matching a precise shade. The stated practical takeaway is to **carry an
+  assortment of colors** rather than committing to one. This sits beside,
+  not merged into, the two more specific color doctrines already logged
+  above: `J3FGJj5zYPE`'s match-color-to-forage reasoning and `tjBeR9tWd4s`'s
+  "anything shiny works" rule of thumb — a third data point that leans toward
+  the latter but stops short of stating a mechanism.
+
 ## Mechanics
 
 - Cast out; let the lure hit the water and **sink for a couple of seconds**
@@ -149,6 +184,17 @@ where this fits among wahoo's other techniques routes from
   the absolute highest rate of speed possible** — consistent with, and a
   stronger statement of, the "wind it in as fast as possible" retrieve rule
   above.
+- **Sink count and staying off the bottom (Searcher Sportfishing,
+  `4uNPLknRAQg`, 2020-05-06; searcher-sportfishing registered channel/series
+  — single mention, medium confidence):** count **20 or 30** on the sink
+  before engaging the reel — deliberately shorter than a yo-yo-iron drop to
+  the bottom, since (unlike yo-yo fishing) **wahoo are not fished near the
+  bottom**. In roughly **90–100 ft of water**, the stated target zone is up
+  in the water column, from about **60 ft to the surface** — letting the
+  bomb sink to the bottom on structure like the ridge risks a bycatch bite
+  from a triggerfish, whitefish, or other bottom species instead. The crew
+  calls out the day's depth so anglers know how long to let the bomb sink
+  before it's too deep.
 - No bite: wind all the way in and repeat the cast.
 - **A separate cast trigger — "on the slide" when another rod is already
   hooked up (Logan, Searcher Sportfishing / Fisherman's Landing, `J3FGJj5zYPE`,
@@ -186,6 +232,16 @@ where this fits among wahoo's other techniques routes from
   of the water at the angler's face. On the bite: **come tight and you're
   on** — a simpler restatement of the "keep cranking through the bite" rule
   from `9IhmYstB8sA` above, from the same tackle shop.
+- **A further, independently-worded corroboration of the same pre-lift pause
+  (Searcher Sportfishing, `4uNPLknRAQg`, 2020-05-06; searcher-sportfishing
+  registered channel/series):** a questioner asks about waiting a **5-to-10
+  count** before pulling a jig or bomb clear of the water at the boat "to
+  avoid a wahoo missile," and the answer confirms this is standard practice.
+  This matches the settle-and-count-four-or-five pause already logged above
+  from `PjLa3oGm4Qg` — both describe the same pre-lift safety pause, given in
+  slightly different counts by different speakers, not a conflict. Full
+  boat-safety detail (gaffing, hook removal, deck footwear) is in
+  [wahoo handling & deck safety](../fish-care/wahoo-handling.md).
 
 ## Rigging
 
@@ -194,6 +250,26 @@ where this fits among wahoo's other techniques routes from
   end. Full leader-length/pound-test spec, and a data point on the twist-vs-crimp
   question for the seven-strand option, is in
   [haywire twist](../rigging/haywire-twist.md#wahoo-casting-leader--length-and-test).
+- **A further wire/length data point, and a stated minimum (Searcher
+  Sportfishing, `4uNPLknRAQg`, 2020-05-06; searcher-sportfishing registered
+  channel/series — single mention, medium confidence):** **50–60 lb wire**,
+  seven-strand or single-strand, at **24–30 in** — explicitly **not 12 in**,
+  the stated reason being that on a short leader a hooked fish can pull the
+  lure/bomb's weight through its own mouth and out the gill, hooking itself
+  on the side rather than the mouth, and a too-short leader also raises the
+  odds of a straight bite-off. This sits as a further, longer-leader data
+  point beside the 12–15 in figure already logged in
+  [haywire twist — wahoo casting leader](../rigging/haywire-twist.md#wahoo-casting-leader--length-and-test) —
+  not reconciled, since neither source explains the gap. **Sleeve sizing must
+  match the wire's stated pound test exactly** (buy the wire, then buy the
+  sleeve size printed on its packaging) — going one size up on the sleeve
+  crimps loose and risks the fish and the lure.
+- **J-hook, not circle hook — the wire leader is the stated reason
+  (`4uNPLknRAQg`):** asked J-hook vs. circle hook for wahoo, the answer is a
+  plain J-hook, with the reasoning that circle hooks solve a mono-abrasion
+  problem a wire leader doesn't have — "I got a wire leader on, so I don't
+  need a circle hook." This is a stated mechanism for the plain-J-hook
+  practice already implicit in this note's hook-size citations above.
 
 ## Gear-class detail
 
@@ -291,10 +367,40 @@ where this fits among wahoo's other techniques routes from
     above — same general length window, independently sourced, not stated
     as the same rod.
 
+- **A sixth gear-class data point — a named rod line, reel, and hook sizes
+  together (Searcher Sportfishing, `4uNPLknRAQg`, 2020-05-06;
+  searcher-sportfishing registered channel/series — single mention, medium
+  confidence):**
+  - **Rod:** a **Super Seeker**, called "the Cadillac of wahoo bomb casting"
+    rods — very stiff — rated for **50 or 60 lb** line (the specific model
+    number given on camera is too garbled to carry — asr-uncertain). This is
+    a distinct named product from the Seeker SSR 7650 and Calstar 875H
+    already logged above, not confirmed as the same rod.
+  - **Reel:** an **Accurate Boss 600 series**, two-speed, high gear used for
+    the retrieve.
+  - **Line:** **50 or 60 lb test.** Framed on camera as not a line-class
+    tactic the way lighter line sometimes is for a bite — going lighter is
+    about casting comfort, not a bite-rate advantage. **Braid main line:
+    80 lb**, with a **top shot matched to your longest realistic cast
+    distance** (e.g. 50, 60, or 100 ft) so the mono-to-braid connection never
+    has to pass through the guides mid-fight.
+  - **Hook size:** **7 to 9/0 Siwash-style hooks** on a bomb or casting lure
+    — described as a hook *type* (a wide-gap single with an in-line point),
+    not a manufacturer name.
+
 ## Common failures
 
 - Going lighter than the stated 50 lb line-class floor risks a bite-off — no
   further failure modes given on camera.
+- **Dull hooks out of the package.** Wahoo have "a very, very bony jaw";
+  factory-sharp is treated as not sharp enough, so every casting lure, bomb,
+  and live-bait hook gets touched up with a file or hook sharpener before
+  it's fished (`4uNPLknRAQg`) — corroborating, with an added mechanism, the
+  wahoo-bomb-hook sharpening practice in
+  [hooks — factory sharpness](../tackle/hooks.md#factory-sharpness--surfaceyo-yo-iron-trebles-vs-wahoo-bomb-hooks-needing-a-touch-up-searchersportfishing-tackle-talk-live-49jokhd7umc-2020-06-03-searcher-sportfishing-registered-channel-single-mention--medium-confidence).
+- **A leader under about 24 in** risks the lure's weight pulling through the
+  mouth and out the gill on the strike, or a straight bite-off — see
+  [Rigging](#rigging) above.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -306,4 +412,6 @@ where this fits among wahoo's other techniques routes from
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md)
+- [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
 <!-- backlinks:end -->

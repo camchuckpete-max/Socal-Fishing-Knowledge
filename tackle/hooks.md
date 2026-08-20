@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg]
 confidence: medium
 ---
 
@@ -271,6 +271,19 @@ called strong and good quality. By contrast, the crew does sharpen hooks for
 [wahoo bomb](../techniques/wahoo-bomb-casting.md) fishing. No mechanism is
 given for why wahoo-bomb hooks need the touch-up and iron trebles don't —
 recorded as the stated practice, not explained further in source.
+
+**A corroborating, earlier-dated citation, plus the mechanism this one
+doesn't give (Searcher Sportfishing, "Tackle Talk Live Recap (Wahoo 5.5.20),"
+`4uNPLknRAQg`, 2020-05-06; searcher-sportfishing registered channel/series —
+this specific "sharpen wahoo hooks" practice now repeated across two
+same-channel sources, about a month apart):** the stated practice here is
+broader than the wahoo bomb alone — **casting lures, bombs, and live-bait
+hooks are all sharpened out of the package** before they're fished for
+wahoo. The stated reason, missing from the `49joKHD7Umc` citation above:
+wahoo have **"a very, very bony jaw,"** and a hook that isn't sharpened well
+enough often won't drive through it on the hookset. A demonstrated,
+already-fished lure with visible bite marks and a used, sharpened hook was
+shown on camera as evidence the extra sharpening pays off.
 
 ### Picking by what's biting, mid-trip (gevNj2Y1Ep8, 2023-09-02)
 
@@ -722,5 +735,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
