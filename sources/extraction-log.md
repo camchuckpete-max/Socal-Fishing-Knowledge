@@ -2334,7 +2334,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tj_mEL94ETg | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 10s promo clip, no fishing content |
 | uPnM-qw696k | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 10s clip, no fishing content |
 | uWGGeDOprsE | SearcherSportfishing | on-the-water | decision-rationale | done | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md; tackle/hooks.md; tackle/line-and-leader.md; rigging/crimping.md; species/wahoo.md; species/yellowtail.md; species/yellowfin-tuna.md; tackle/searcher-6-to-8-day-heavy-outfit.md; tackle/searcher-four-outfit-guadalupe-quiver.md / five-outfit Alijos Rocks/Ridge tackle quiver note applied with one fix (removed invented tough-jaw rationale) |
-| uXWliLLPzss | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| uXWliLLPzss | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 32s clip, fragmentary exclamations only, no fishing content |
 | utTcrpscYHQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | v8tPYYKM2JE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | vJGGfJfdDAk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
