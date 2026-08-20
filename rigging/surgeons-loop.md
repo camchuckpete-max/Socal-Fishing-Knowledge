@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [surgeons-loop, surgeons-knot, loop-knot, double-line, giant-yellowtail, long-range, dropper-loop, paternoster]
-sources: [2O4Z0S78KLg, CdjT_I_PBHQ]
+sources: [2O4Z0S78KLg, CdjT_I_PBHQ, eLPTMO3-_1Q]
 confidence: medium
 regions: [baja-pacific-north, baja-pacific-south]
 waters: [bank, island, open-ocean]
@@ -135,11 +135,59 @@ gear** — not a finesse hookset technique, the presenter is explicit ("this
 is not a light tackle technique... not a finesse technique") outside of the
 paternoster variant's bait presentation.
 
+## Earliest version of this rig (Tackle Tip Thursday Vol. 6, 2018)
+
+**SearcherSportfishing, "Tackle Tip Thursday: Vol. 6," `eLPTMO3-_1Q`,
+2018-08-02; `searcher-sportfishing` registered channel/series — repeated
+doctrine, same dropper-loop/long-range-yellowtail topic already logged above
+from the same channel — high confidence.** No presenter is named on camera.
+The earliest-dated SearcherSportfishing entry in this note, six years before
+the `2O4Z0S78KLg` and `CdjT_I_PBHQ` segments above, for what the presenter
+frames simply as "a method that was used on most long-range trips" — no
+specific destination named on camera, so read alongside rather than folded
+into the Baja Peninsula framing those later segments give.
+
+- **Line class:** 60 or 80 lb test — lighter than the 80–100 lb minimum in the
+  2024 segments above. **Reel:** captions render the reel type as "juice beet
+  reel," an unresolved ASR garble with no clear match to a known reel name or
+  model — recorded only as stated, that some (unspecified) reel is "kind of
+  mandatory," flagged `asr-uncertain` rather than guessed.
+- **Sinker:** **16 oz**, tied to the very bottom of the rig with the angler's
+  preferred knot — a clinch/improved clinch knot is shown. Matches the **16
+  oz** minimum already logged from `CdjT_I_PBHQ` above, from the same channel
+  six years later.
+- **Hook:** **Owner Gorilla live-bait hooks, sized 5/0 to 7/0** — a specific
+  hook model not named in the later segments above (which give "a 60 J
+  hook... 80 or a 90," read there as 6/0 up to 8/0–9/0). A narrower, slightly
+  smaller size range than the later figure — kept side by side as a
+  different-dated data point from the same channel, not reconciled to one
+  number.
+- **Building the loop:** start with about a **24 in** loop of the doubled line
+  and tie a **surgeon's knot** into it — three passes ("once, twice, three
+  times"), cinched tight — leaving an intermediate **18 in** dropper loop.
+  Mechanically the same surgeon's-knot-in-doubled-line build as the main entry
+  above, given here with its own starting/intermediate length figures rather
+  than the ~2–2½ ft finished-loop figure the later segments state.
+- **Attaching the hook — a concrete example of "standard knot to the closed
+  loop" (method 2 above):** double the line, pass it through the hook eye,
+  then tie a **San Diego jam knot** — wrap the doubled line down **3 to 4
+  times**, pass the tag through the bottom loop and then the top loop, cinch,
+  and trim the tag. See [San Diego Jam Knot](san-diego-jam-knot.md) for the
+  mechanic; this is an earlier, dated instance of using that specific knot at
+  this attachment point rather than the "whatever your favorite knot is" the
+  later segments leave open.
+- **Finished loop:** after the hook is tied on, about **12 in** of loop
+  remains above the sinker. **Fishing it:** drop to the bottom and fish with
+  the reel in gear — consistent with the "not a finesse technique... reel
+  left in gear" framing in the later segments above.
+
 ## Tie it
 
 How-to videos: [Tackle Tip Thursday Vol 232 — Surgeon's Loop](https://www.youtube.com/watch?v=2O4Z0S78KLg);
 [Tackle Tip Thursday Vol. 230 — Dropper Loop for Yellowtail](https://www.youtube.com/watch?v=CdjT_I_PBHQ)
-(same loop knot, framed as the terminal rig for it).
+(same loop knot, framed as the terminal rig for it); [Tackle Tip Thursday Vol.
+6](https://www.youtube.com/watch?v=eLPTMO3-_1Q) (earliest version, San Diego
+jam knot hook attachment).
 
 <!-- backlinks:start -->
 ## Linked from

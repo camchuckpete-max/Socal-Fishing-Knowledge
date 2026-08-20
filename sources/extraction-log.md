@@ -2159,7 +2159,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dkY7wJ4UM1c | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-rig-ladder-by-grade.md; techniques/knife-jigging.md / Confirmed Izorline brand + six-color/100ft spec and worked depth-count example, resolving a prior asr-uncertain flag; cross-linked one line from knife-jigging.md |
 | e1-tPTNejBo | SearcherSportfishing | tutorial | deep | done | none / nothing extractable: entire video is a generic long-range-trip packing list (chair, rod belt, jacket, layers, sun shirt, buff, deck boots, sunscreen) — no SoCal/Baja-specific tackle or technique content; matches curation-bar exclusion and precedent skips |
 | eLFVhVyyOTw | SearcherSportfishing | tutorial | deep | done | bait/making-bait.md / added Logan Watson's stated reason (bait size growth on long-range trips) for carrying both a light and heavy sabiki, cross-linked, medium confidence |
-| eLPTMO3-_1Q | SearcherSportfishing | tutorial | deep | pending |  |
+| eLPTMO3-_1Q | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md / added the 2018 earliest-dated SearcherSportfishing dropper-loop/San-Diego-jam segment (line class, sinker, Owner Gorilla hook size, loop-length figures) as a distinct dated entry alongside the 2024 segments; confidence high per registered channel + repeated doctrine |
 | eZXPqiAtqi8 | SearcherSportfishing | tutorial | deep | pending |  |
 | ew7Lru8wmQs | SearcherSportfishing | tutorial | deep | pending |  |
 | ewfWc7MTBPk | SearcherSportfishing | tutorial | deep | pending |  |

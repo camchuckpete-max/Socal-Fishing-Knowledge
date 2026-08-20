@@ -237,5 +237,6 @@ Captain Armando, 2021-10-21).
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->
