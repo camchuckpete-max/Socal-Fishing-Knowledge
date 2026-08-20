@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g]
+tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag, rod-rating]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4]
 confidence: medium
 ---
 
@@ -32,6 +32,29 @@ live bait.
   on a given reel you learn what that resistance should feel like for a given
   drag number; there's no substitute for testing it by hand before you're
   tight to a fish.
+
+## The backbone rating is about drag, not line class (Tackle Express, DfLcSS-J3g4)
+
+A retail-counter framing that corroborates the quarter-to-a-third rule above
+from a different angle — the printed top number on a rod's line rating (e.g.
+the "40" in a 15–40 lb rod) (Tackle Express, unnamed staff on camera,
+unregistered channel, single mention — medium confidence; "The ONE Saltwater
+Rod Every SoCal Angler Should Buy First," `DfLcSS-J3g4`, uploaded 2026-06-02):
+
+- **The rod's top number describes what the backbone can take in drag, not
+  what line you're allowed to spool.** *"That's based on not necessarily the
+  line, but more about the drag that you're going to be putting on it."* On a
+  rod rated to 40 lb, the stated working drag range at that top end is
+  **roughly 10–13 lb** — because, as elsewhere in this note, that number is
+  **a quarter to a third of the rating**.
+- **Worked example: 80 lb braid over a 40 lb leader on a 15–40 rod is fine, as
+  long as the drag is set to the rod's rating (~10–13 lb), not the braid's.**
+  The rod doesn't care what's on the reel above the leader — "we go to the
+  weakest link of the chain and we set our drag appropriately based on the
+  numbers on the rod." This is the same weakest-link logic Scotty's
+  quarter-to-a-third rule above already establishes, restated from the
+  buying-counter side: pick the drag from the rod's printed rating first,
+  then let line/leader/backing be whatever the application calls for.
 
 ## A second attributed method — pull test by hand, no scale (Dave Hansen, Your Saltwater Guide, o8vLdz7OmaE, 2022-02-25; dave-hansen registered — medium confidence, first commit of these specific claims pending repetition)
 
@@ -390,6 +413,7 @@ at that stage to finish it.
 ## Linked from
 
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

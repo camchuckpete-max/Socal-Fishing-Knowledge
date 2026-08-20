@@ -42,9 +42,14 @@ Don't reject or return a composite rod over a visible color-change line in
 the blank — it's a construction feature, not a defect. Judge the rod instead
 on whether the resulting front-to-back action split (soft tip, beefier butt)
 matches your application; see [rod & reel selection](rod-and-reel-selection.md).
+For how composite compares to a straight graphite or fiberglass blank on
+brittleness and forgiveness, plus the separate reel-seat and grip material
+choices on the same rod, see [rod blank, reel-seat, and grip
+materials](rod-blank-and-component-materials.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 <!-- backlinks:end -->
