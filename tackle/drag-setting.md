@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI]
+tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY]
 confidence: medium
 ---
 
@@ -160,14 +160,39 @@ sinker rig** — same thumb-on-lever-ready-to-engage principle, plus which
 hand holds the rod and how to feed line with the bait already in the water —
 is in [rod handling for live bait](../techniques/rod-handling-live-bait.md).
 
-## Failure modes, the strike-position hand-wrap test, and a mid-fight correction (SearcherSportfishing, "Tackle Tip Thursday Vol. 207 — How To Set Your Drag, part 2," `wGWjnW7wCiI`, 2022-12-01; unnamed crew presenter; `searcher-sportfishing` registered channel/series — medium confidence, single mention of this episode)
+## Free-spool-to-strike basics, the three-priorities framing, and free-spool-to-full headroom (SearcherSportfishing, "Tackle Tip Thursday Vol. 205 — How To Set Your Drag, part 1," `ypr-qZF4FTY`, 2022-11-17; on-camera speaker identified as **Captain Mark**; `searcher-sportfishing` registered channel/series)
+
+Part 1 of the two-part Searcher series continued in the section below (Part
+2, `wGWjnW7wCiI`). The core method the two episodes share — go to free spool
+to adjust, then target the reel's marked **strike** position, whatever the
+line class — is now **repeated doctrine from the same registered
+channel/series** and rates `high`; the framing points unique to this episode
+stay attributed as below.
+
+- **Drag setting ranked as one of the three most important parts of a trip**
+  (Captain Mark's framing, `medium`, single mention — not corroborated in
+  Part 2): talking with the crew, selecting a bait at the bait tank, and
+  having the drag set correctly for the line class in use — in that order.
+- **Basic lever-drag setting procedure (`high`, corroborated by Part 2
+  below):** put the reel in free spool, use the dial at the center of the
+  lever drag to adjust the drag tension, then move the lever to the reel's
+  marked **strike** position — that's the drag setting to fish at, whatever
+  the line class spooled, "10 pound or...a hundred pound."
+- **Headroom past strike (`medium`, single mention):** if strike turns out to
+  be set a bit light, the lever has room to go further, into **full**, for an
+  even heavier drag setting than strike provides.
+- **Recommendation: have the boat's crew set it (`medium`, single mention):**
+  strongly suggests checking with the crew on whatever boat you're fishing —
+  they can set the drag for you before you start fishing.
+
+## Failure modes, the strike-position hand-wrap test, and a mid-fight correction (SearcherSportfishing, "Tackle Tip Thursday Vol. 207 — How To Set Your Drag, part 2," `wGWjnW7wCiI`, 2022-12-01; unnamed crew presenter; `searcher-sportfishing` registered channel/series — the shared free-spool/strike-position method above is now `high` as repeated doctrine across Part 1 and Part 2; the failure-mode and mid-fight-correction detail below is unique to this episode and stays `medium` as a single mention)
 
 Part 2 of a two-part Searcher series. **Part 1** ("Vol. 205 — How To Set Your
-Drag, part 1," `ypr-qZF4FTY`) and two further Searcher drag-setting sources
-("Searcher Sportfishing Drag Settings," `Psiiza6YQyE`; "Capt Art Seminar —
-Drag Settings," `CSpBymCVWN4`) were not yet processed as of this note's last
-edit — merge them in as repeated doctrine (bumping the relevant points to
-`high`) when they are.
+Drag, part 1," `ypr-qZF4FTY`, 2022-11-17) is merged above as of batch 3,
+2026-08-20. Two further Searcher drag-setting sources ("Searcher Sportfishing
+Drag Settings," `Psiiza6YQyE`; "Capt Art Seminar — Drag Settings,"
+`CSpBymCVWN4`) remain unprocessed — merge them in as repeated doctrine when
+they arrive.
 
 **Three things that go wrong with an incorrectly set drag:**
 
