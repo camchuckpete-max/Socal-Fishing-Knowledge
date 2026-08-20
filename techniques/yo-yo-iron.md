@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -512,6 +512,39 @@ the reverse map in **Linked from** below.
   just about every San Diego boat,"** on trips of any length — an attributed
   claim about the technique's overall importance to the SoCal/Baja long-range
   fleet, not a situational trigger.
+- **Three jig sizes by depth band, plus a stretch-buffer leader reason (Fred,
+  Secret Fishing Rods, via SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 121 (Yo-yo Fishing)," `hteLeDIy9Qs`, 2020-10-15; `searcher-sportfishing`
+  registered channel, mechanism/parameter — first commit of these specific
+  claims, medium confidence pending repetition):** filmed around the
+  Searcher's annual sponsored seven-day trip, which always dedicates part of
+  the itinerary to yo-yo iron. His stated go-to is a **50 lb, short, fairly
+  stout rod**, rated **40, 50, or 60 lb** — consistent with, not new beyond,
+  this note's other 40–60 lb yo-yo rod-class data points. **Leader build, a
+  distinct mechanism from this note's other mono-for-stretch citations
+  above:** run a short piece of mono between the braided (spectra) main line
+  and a short fluorocarbon leader for stretch — his stated reason is that
+  going **straight from spectra to a short fluoro leader with no buffer
+  bends hooks and pulls a lot of hooks**; the mono cushion is there
+  specifically to stop that failure mode, not just for general stretch or
+  tangle avoidance as in the top-shot citations above. **Same "don't set the
+  hook" doctrine, a further citation:** free-spool to the bottom, grind as
+  fast as possible, and on the bite keep turning the handle rather than
+  striking — get the rod on the rail and keep cranking. **Jig size by depth,
+  three tiers:**
+  - **Shallow — 60, 80, or 100 ft:** a smaller jig, captioned "Stylus 6X
+    Junior" (ASR-uncertain — not a confirmed model name; plausibly the
+    **Salas 6X Jr.** already established in this note as the small-jig pick,
+    but not carried here as a confirmed model).
+  - **120–150 ft:** captioned "Salis regular 6X," read as the **Salas 6X**,
+    roughly **5–6 oz** — corroborating this note's existing Salas 6X
+    weight/depth-band data (Scotty, `VpW91AKOFVQ`, above).
+  - **Real deep — his named examples: Colonet, "the ridge," Alejos (read as
+    **Alijos Rocks**), and Guadalupe:** a **7X heavy** — "big and it's
+    heavy" — corroborating the **Salas 7X Heavy** pick already logged above
+    (`LTCFjqtSI8g`). Stated reasoning for sizing up in the deepest water:
+    more time spent in the strike zone on the straight up-and-down improves
+    the odds of hanging a yellowtail.
 
 ## Common failures
 
