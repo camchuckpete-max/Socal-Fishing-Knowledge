@@ -119,5 +119,6 @@ personal preference for the new design over the original Tern, and calls it
 <!-- backlinks:start -->
 ## Linked from
 
+- [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

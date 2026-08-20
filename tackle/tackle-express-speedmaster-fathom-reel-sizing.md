@@ -68,5 +68,6 @@ both.
 ## Linked from
 
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->

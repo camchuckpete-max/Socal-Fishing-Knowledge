@@ -200,6 +200,11 @@ below rate normally):**
   Speedmaster vs. Penn Fathom two-speed reels, local offshore tuna/yellowtail/
   rockfish): see [Speedmaster vs. Fathom — reel-size
   ladder](tackle-express-speedmaster-fathom-reel-sizing.md).
+- **A San Diego-specific two-speed gear-ratio retune** (Penn Fathom II 40
+  Narrow: high gear raised for wahoo, low gear lowered for grinding big
+  bluefin) plus the new Penn Authority spinning reel's SoCal-recommended size:
+  see [Penn Fathom II and Penn Authority — ICAST 2022 launch
+  parameters](tackle-express-icast2022-penn-fathom2-authority.md).
 
 ## Lure classes (cross-reference)
 
@@ -262,6 +267,7 @@ does the lookup.
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)

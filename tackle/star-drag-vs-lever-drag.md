@@ -119,6 +119,11 @@ following more detailed, application-specific entries already in this KB:
   [Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md) — the
   two-speed-lever-drag-for-bluefin application this note's closing line
   points to.
+- [Penn Fathom II and Penn Authority — ICAST 2022 launch
+  parameters](tackle-express-icast2022-penn-fathom2-authority.md) — a
+  generation-2 two-speed lever-drag Fathom retune, including a San
+  Diego-specific gear-ratio change (high gear raised for wahoo, low gear
+  lowered for grinding big bluefin) on the 40 Narrow.
 - [Drag setting](drag-setting.md) — the mid-fight drag-adjustment practice
   (free-spool, bump the setting up, back to strike) that puts the lever
   drag's on-the-fly adjustability, named above, into practice.
@@ -128,6 +133,7 @@ following more detailed, application-specific entries already in this KB:
 
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
+- [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)

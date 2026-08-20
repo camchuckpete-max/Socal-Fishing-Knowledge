@@ -2397,7 +2397,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 6gwvP8_pjWc | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass wake-bait tutorial (Deps Buzzjet), correctly out of scope; no notes created; fixed stale extraction-log pending row |
 | 6qz6aQ9PusA | Tackle Express | tutorial | parameter-skim | done | none / 35-second personal-banter clip about booking a trip, zero fishing knowledge content, correctly skipped |
 | 6sfaYq9wMvQ | Tackle Express | tutorial | parameter-skim | done | none / 7-second clip, no fishing content in ASR caption, hashtags indicate freshwater bass/swimbait (out of scope) |
-| 75lUj-uaArQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 75lUj-uaArQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-icast2022-penn-fathom2-authority.md (new); tackle/gear-classes.md; tackle/star-drag-vs-lever-drag.md / ICAST 2022 promo: Penn Fathom II 40 Narrow SD gear-ratio retune + Penn Authority spec, confidence fixed to low (promotional) |
 | 7AOtPUGwKDI | Tackle Express | tutorial | parameter-skim | pending |  |
 | 7L7OVoXE7KU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 7iJktLzCmLY | Tackle Express | tutorial | parameter-skim | pending |  |
