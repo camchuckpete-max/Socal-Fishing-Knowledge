@@ -28,6 +28,7 @@
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md) — Steve Carson, aboard the Searcher (sjOJiR6_HJ4, "Tackle Tip Thursday Vol.
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md) — Steve Carson, dockside in San Diego alongside the Searcher (yGXSrUauo2w, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
@@ -63,9 +64,10 @@ graph LR
   n21["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
   n22["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
   n23["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n24["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n25["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n26["Star Drag vs. Lever Drag — Reel Class Comparison"]
+  n24["Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)"]
+  n25["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n26["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n27["Star Drag vs. Lever Drag — Reel Class Comparison"]
   n0 --> n17
   n0 --> n2
   n0 --> n4
@@ -84,8 +86,8 @@ graph LR
   n12 --> n13
   n12 --> n21
   n12 --> n23
-  n12 --> n25
   n12 --> n26
+  n12 --> n27
   n12 --> n3
   n12 --> n4
   n12 --> n9
@@ -94,6 +96,7 @@ graph LR
   n14 --> n15
   n14 --> n17
   n14 --> n2
+  n14 --> n24
   n14 --> n6
   n15 --> n17
   n15 --> n2
@@ -149,15 +152,18 @@ graph LR
   n23 --> n17
   n23 --> n21
   n23 --> n4
-  n24 --> n9
-  n25 --> n12
-  n25 --> n4
+  n24 --> n12
+  n24 --> n14
+  n24 --> n6
+  n25 --> n9
   n26 --> n12
-  n26 --> n21
-  n26 --> n3
+  n26 --> n4
+  n27 --> n12
+  n27 --> n21
+  n27 --> n3
   n3 --> n12
   n3 --> n2
-  n3 --> n26
+  n3 --> n27
   n3 --> n6
   n4 --> n12
   n4 --> n17
@@ -171,6 +177,7 @@ graph LR
   n6 --> n15
   n6 --> n2
   n6 --> n20
+  n6 --> n24
   n6 --> n3
   n6 --> n5
   n6 --> n9
@@ -183,7 +190,7 @@ graph LR
   n8 --> n4
   n9 --> n12
   n9 --> n15
-  n9 --> n24
+  n9 --> n25
   n9 --> n3
   n9 --> n4
 ```

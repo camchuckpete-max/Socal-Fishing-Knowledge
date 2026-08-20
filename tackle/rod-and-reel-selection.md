@@ -815,6 +815,7 @@ a bluefin).
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)

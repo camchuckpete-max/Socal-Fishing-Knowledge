@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w]
 confidence: medium
 ---
 
@@ -120,6 +120,23 @@ and why anglers reach for it.
   briefing repeated the same split as trip-wide guidance — **circle hooks
   always for bluefin, J hooks recommended for yellowtail** — consistent
   with, not new beyond, the mechanism-based doctrine above.
+- **A named captain's live-bait yellowtail pick, sized to the bait (Steve
+  Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 231 (Sliding
+  Sinker for Yellowtail)," `yGXSrUauo2w`, 2024-04-25; `searcher-sportfishing`
+  registered channel, repeated doctrine — high confidence for the style
+  choice itself, the named reel/rod in the full build staying low per the
+  sponsored-claim caveat):** for yellowtail up to about 22 lb, **a J hook is
+  better than a circle hook** — the one thing he calls out as different from
+  his own tuna live-bait rigs, which run circle. A circle hook "will work"
+  but is not his preference. Sized **2/0**, stepping up to **4/0** for a
+  large bait (captions render these as "20"/"40"; read as the aught sizes
+  given hook context, consistent with the 2/0 yellowtail J-hook figure
+  logged above). A further, corroborating citation of this same
+  circle-for-bluefin/J-for-yellowtail split, from a second registered
+  Searcher voice. Full rig (reel, rod, sliding-sinker weight ladder, and the
+  stated reason — getting the bait under bonita working the surface and in
+  front of yellowtail faster) in [Searcher yellowtail live-bait sliding-
+  sinker rig](searcher-yellowtail-livebait-sliding-sinker-rig.md).
 - **A crew's stated bluefin preference, J over circle (Observed, StokedOnFishing,
   `LsFMBCa9DOQ`, "Three Days of Epic Bluefin Fishing on the Ranger 85,"
   Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
@@ -658,6 +675,9 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Fishing live bait](../bait/fishing-live-bait.md) — nose/collar/butt hooking and
   hook placement.
 - [Flyline](../techniques/flyline.md) — the technique these live-bait hooks serve.
+- [Searcher yellowtail live-bait sliding-sinker rig](searcher-yellowtail-livebait-sliding-sinker-rig.md) —
+  the full J-hook/sliding-sinker build this note's yellowtail J-hook citation
+  is drawn from.
 - [Line & leader](line-and-leader.md) — thin, low-memory fluoro cinches best on
   small live-bait hooks.
 - [Knife jigs](../lures/knife-jigs.md) — assist-hook rigging.
@@ -685,6 +705,8 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)

@@ -151,6 +151,10 @@ at this video's own medium (or low, for named products) as usual.
 - [Two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md) — the
   continuous-grind fighting technique this rig depends on.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
+- [Searcher yellowtail live-bait sliding-sinker rig](searcher-yellowtail-livebait-sliding-sinker-rig.md) —
+  the same 8 ft / 15–40 lb rod, 30 lb top shot, and Fathom-15-family reel,
+  rebuilt for yellowtail with a J hook and sliding sinker instead of this
+  outfit's circle hook straight to the leader.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -159,5 +163,6 @@ at this video's own medium (or low, for named products) as usual.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

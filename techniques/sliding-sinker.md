@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -259,6 +259,38 @@ by side as further SoCal light-slider squid-rig data points, not
 reconciled into a single spec. See
 [yellowtail](../species/yellowtail.md#where--when) for the full session.
 
+## San Diego local/long-range yellowtail, 2–4 oz, no leader shown (Steve Carson, Penn/SearcherSportfishing)
+
+Steve Carson, `yGXSrUauo2w`, "Tackle Tip Thursday Vol. 231 (Sliding Sinker for
+Yellowtail)," 2024-04-25; `searcher-sportfishing` registered channel, single
+mention of this specific build — medium confidence. Framed as "one of the
+favorite ways to fish for yellowtail with live bait on the Searcher," for
+yellowtail in the **12–22 lb** range:
+
+- **Egg sinker sliding straight down to the hook — no bead, swivel, or
+  stopper shown or described.** A leaner, single-piece build than this note's
+  general Carolina-rig format above (egg sinker → bead → swivel → leader →
+  hook); kept side by side rather than merged into that format.
+- **Weight: 2, 3, or 4 oz** (asr-uncertain: a garbled fragment just before
+  these figures may indicate a lighter ~1 oz option was also shown — too
+  unclear to add as a fourth number; see the full build for the caveat),
+  scaled up for more wind or deeper fish, and adjusted through the day as
+  the bite changes. Above 4 oz, a different rig is preferred (not detailed
+  on camera). **Notably heavier** than the
+  ~1/4–1/2 oz island-yellowtail data points logged above (Cedros, San
+  Benito, Catalina, San Clemente Island) — a San Diego local/long-range
+  dockside briefing from a registered voice, kept side by side rather than
+  reconciled with those single-trip, unregistered-channel observations.
+- **Stated reason to reach for this over a flylined bait:** gets the bait
+  away from the boat, and — when bonita or similar bycatch are working the
+  surface — down below them and in front of the yellowtail more quickly.
+- **Hook: J hook, not circle**, roughly 2/0 up to 4/0 for a larger bait —
+  see [hooks](../tackle/hooks.md#circle-vs-j--the-core-decision-swrsycmt4tw-m2q22sppkem)
+  for the full circle-vs-J doctrine this corroborates.
+
+Full rod/reel/line build and the tuna-rig cross-reference in
+[Searcher yellowtail live-bait sliding-sinker rig](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md).
+
 ## Bluefin, nose-hooked, 2 oz sinker, worked on the retrieve (StokedOnFishing)
 
 **Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part 1,"
@@ -374,6 +406,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
