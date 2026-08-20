@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw]
 confidence: medium
 ---
 
@@ -68,6 +68,28 @@ and why anglers reach for it.
   from the point to the shank, making it "a little bit trickier" to hold the
   bait and thread the hook through. This is a baiting-speed tradeoff, not a
   restatement of the corner-of-mouth-hookset reasoning above.
+- **Baiting speed as a limiting-out edge on a hot school (Fred Brent, Seeker
+  Rods, via SearcherSportfishing "Tackle Tip Thursday Vol. 199 (J-Hook
+  Applications)," `jDmHgRNnqhw`, uploaded 2022-10-06; `searcher-sportfishing`
+  registered channel — product/model endorsement, `low` confidence per the
+  channel's registry sponsored-claim caveat, same as the Mustad 94150/94151
+  entry below):** pushes back on treating the circle hook as "the end-all
+  solution" — he frames it as the right call for a light-line application, or
+  a heavy-line application where you don't want a hooked fish to chafe or rub
+  the leader off (a distinct abrasion mechanism from the teeth-driven bite-off
+  reasoning Ray Sharifi and Capt. Dave Hansen give below for bluefin
+  specifically). For **school-sized yellowfin, yellowtail, and dorado — and
+  for [dropper-loop work](../techniques/dropper-loop.md)** — his stated go-to
+  for "many, many years" is a **Mustad 94151** (the same sardine-hook model
+  logged below under Mustad 94150/94151), because it's cheap and lets you bait
+  up and get back in the water roughly **twice as fast** as a circle hook, on
+  his estimate. Worked example given on camera: find a kelp paddy holding a
+  good grade of dorado (his example, **8–10 lb fish**) and the goal is to
+  limit out off that one school — every extra second re-baiting a circle hook
+  is a bait not in the water. Same faster-baiting mechanism Vince gives above
+  for light-line bluefin and Cesar gives below for small hook sizes, applied
+  here to a different reason (limiting out fast on a hot school) rather than a
+  finicky-bite hookup rate.
 - **Why circle for bluefin specifically (Ray Sharifi, RfiC8sfIWTk, 2023-05-04;
   `ray-sharifi` registered, SoCal-capped — medium confidence):** a full-circle, slightly
   **offset** point is described as seating the hook right in the **corner of
@@ -573,6 +595,18 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
   bait-sets-the-hook-size doctrine already logged above (anchovy/sardine hook
   sizing under **Size — bait first, fish second**), but not merged into that
   table since this source gives no separate sizing logic of its own.
+- **Still his go-to two years later (Fred Brent, Seeker Rods, via
+  SearcherSportfishing "Tackle Tip Thursday Vol. 199 (J-Hook Applications),"
+  `jDmHgRNnqhw`, uploaded 2022-10-06; `searcher-sportfishing` registered
+  channel — product/model endorsement, `low` confidence per the channel's
+  registry sponsored-claim caveat, same as the header above):** independently
+  names the **Mustad 94151** as his personal go-to J hook for "many, many
+  years," for school-sized yellowfin, yellowtail, and dorado and for
+  dropper-loop work — extending the "test of time" durability framing above
+  past the 2020 upload and adding a stated selection reason (baiting speed)
+  this earlier source doesn't give. Full quote and reasoning under [Circle vs.
+  J — the core
+  decision](#circle-vs-j--the-core-decision-swrsycmt4tw-m2q22sppkem) above.
 
 ## Related
 
