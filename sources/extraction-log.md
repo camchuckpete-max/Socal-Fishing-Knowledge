@@ -2363,7 +2363,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 1YKT275onlU | Tackle Express | tutorial | parameter-skim | done | none: 24s clip, no substantive fishing content |
 | 1e6Oz5rAwRU | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md: added War Baits Neck Breaker point-reef/heavy-structure hardbait-avoidance rationale, medium confidence |
 | 1l05hEXDaWw | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: added light-drag/steady-tension fighting doctrine ('keep them asleep'), medium confidence |
-| 1nBqYdvVrXY | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1nBqYdvVrXY | Tackle Express | tutorial | parameter-skim | done | tackle/star-drag-vs-lever-drag.md + techniques/two-speed-low-gear-fight.md: narrow-spool two-speed casting counter-example + structure-context low-gear fight use, medium confidence |
 | 28FQZvZ8v6k | Tackle Express | tutorial | parameter-skim | pending |  |
 | 2DfGpewNRYc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 2Ee2DFZ9Wk4 | Tackle Express | tutorial | parameter-skim | pending |  |

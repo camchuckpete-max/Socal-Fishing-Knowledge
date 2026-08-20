@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, star-drag, lever-drag, two-speed, drag-system, free-spool, casting, bluefin]
-sources: [tYebwLzTyf8]
+sources: [tYebwLzTyf8, 1nBqYdvVrXY]
 confidence: medium
 ---
 
@@ -50,6 +50,28 @@ point back to.
   the multi-day-trip framing in [rod & reel selection — two-speed reels for
   multi-day bluefin
   trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing).
+- **A narrow-spool lever-drag two-speed can still cast well — named-model
+  counter-example (Tackle Express, "Why a two-speed reel is the ultimate
+  Baja game changer," `1nBqYdvVrXY`, 2026-05-16; unregistered channel, single
+  mention — medium confidence).** The general trade-off above is that lever
+  drag gives up free-spool/casting performance to star drag. This source's
+  own reel — an **Okuma Andros 5, narrow version** — is, in his words, "a
+  lever drag two-speed. They're not a casting reel" — yet he casts it "a
+  country mile" on a **20–50 lb Phenix rod, 9 ft**, throwing **Colt Sniper**
+  irons and **Z-Man** soft plastics on **65 lb** line with a **60 lb
+  fluorocarbon leader, ~5 ft**. His stated reason: the reel's **narrow
+  spool** is small enough that one thumb covers the whole spool for casting
+  control — he notes this suits a smaller-handed angler ("I'm a small little
+  guy. I got small hands."). Corroborates, with a named model, Doug Kearn's
+  "lever-drag reels becoming viable for casting" line in [rod & reel
+  selection — surface-iron rod and reel, Fisherman's Landing counter
+  tip](rod-and-reel-selection.md#surface-iron-rod-and-reel--fishermans-landing-counter-tip-doug-kearn-searchersportfishing).
+  The same outfit also drops yo-yo jigs to bottom; the two-speed's low-gear
+  use there — pulling a hooked fish out of rock structure quickly, then
+  shifting back to high — is logged in [two-speed reel
+  technique](../techniques/two-speed-low-gear-fight.md#structure-context--pulling-a-fish-out-of-rocks-quickly-tackle-express).
+  No specific location is named in the transcript beyond the video's own
+  "Baja" framing in the title.
 
 ## Reach for this when
 
@@ -97,4 +119,5 @@ following more detailed, application-specific entries already in this KB:
 
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

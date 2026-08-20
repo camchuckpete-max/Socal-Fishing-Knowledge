@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -164,6 +164,27 @@ pose for a photo, and keep fishing in low gear without noticing. Stated
 rule: **small and medium fish get fought in high gear almost all the time
 — drop to low only for a genuinely big fish**, and shift back to high as
 soon as that fish is landed.
+
+## Structure context — pulling a fish out of rocks quickly (Tackle Express)
+
+**A different trigger for the same shift-to-low mechanism — avoiding a
+structure break-off rather than managing a big circling pelagic (Tackle
+Express, "Why a two-speed reel is the ultimate Baja game changer,"
+`1nBqYdvVrXY`, 2026-05-16; unregistered channel, single mention — medium
+confidence).** His outfit: an **Okuma Andros 5 (narrow)** lever-drag
+two-speed on a **20–50 lb Phenix rod, 9 ft**, spooled with **65 lb** line and
+a **60 lb fluorocarbon leader, ~5 ft** — the same casting rig documented in
+[star drag vs. lever drag](../tackle/star-drag-vs-lever-drag.md), casting
+Colt Sniper irons and Z-Man plastics and also dropping yo-yo jigs to bottom.
+His own summary of the two-speed's payoff on this setup: **drop the jig to
+bottom, hook a bigger fish, shift into low gear, pull it out of the rocks
+quickly, then shift back into high** — ready to cast again. This is a
+tighter-timeframe, structure-avoidance version of the shift-to-low mechanism
+above (the goal is getting a fish clear of rock structure before it puts him
+in the rocks and breaks off, not out-lasting a long circling fight), on
+lighter tackle than the bluefin examples elsewhere in this note. No specific
+location is named in the transcript beyond the video's own "Baja" framing in
+the title.
 
 ## Common failures
 
