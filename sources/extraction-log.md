@@ -2282,7 +2282,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | LYjdT3E3Rb4 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 43s auto-caption transcript unintelligible, no fishing content |
 | LuSn3IeW9_c | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 36s promo/booking-ad video, zero fishing content |
 | MPC_OQjvO-o | SearcherSportfishing | on-the-water | decision-rationale | done | tackle/searcher-6-to-8-day-heavy-outfit.md (new note): Guadalupe/ridge heavy outfit — Seeker OSP 1x3 rail rod, Penn Int'l 30/Accurate 50/TLD 30 options, 4 applications; cross-linked from gear-classes.md and 3 sibling quiver notes |
-| NeSw-4df4H4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| NeSw-4df4H4 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 106s clip is personal banter about new gear purchase, no fishing content |
 | NgdpWzPRlqQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Nj_9ORYJhkg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Ntwb6fU2zl4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
