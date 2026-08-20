@@ -2223,7 +2223,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | vn4fmPxUqsU | SearcherSportfishing | tutorial | deep | done | techniques/two-speed-low-gear-fight.md: added Shane/SearcherSportfishing citation on shift-timing (stay high through run, drop to low when circling); corrected inflated high-confidence claim to medium during eval |
 | wGWjnW7wCiI | SearcherSportfishing | tutorial | deep | done | tackle/drag-setting.md (new, split from rod-and-reel-selection.md); tackle/hooks.md; tackle/rod-and-reel-selection.md; tackle/line-and-leader.md: drag-setting doctrine (failure modes, hand-wrap test, mid-fight correction) added; verbatim section split verified, one stale cross-ref fixed during eval |
 | wnlOU34RXs8 | SearcherSportfishing | tutorial | deep | done | techniques/rail-etiquette.md (new): rail-communication doctrine (names, simultaneous-hookup under/over, listen to crew), cross-linked from fighting-fish-from-the-rail.md and wind-in-your-face-positioning.md; trimmed one invented detail during eval |
-| wqrIs5kg1qw | SearcherSportfishing | tutorial | deep | pending |  |
+| wqrIs5kg1qw | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md: appended corroborating 2018 Nomad Riptide sinking-stickbait entry (sweep-and-spin, sink bite, gear); fixed imprecise date-gap phrasing during eval |
 | yGXSrUauo2w | SearcherSportfishing | tutorial | deep | pending |  |
 | ypr-qZF4FTY | SearcherSportfishing | tutorial | deep | pending |  |
 | zkA1jqHXXD0 | SearcherSportfishing | tutorial | deep | pending |  |

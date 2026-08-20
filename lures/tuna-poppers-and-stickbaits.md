@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -442,6 +442,27 @@ shimmer on the fall, mimicking a fleeing baitfish that hesitates and then
 takes off again — that hesitate-then-flee pattern is what triggers the
 strike. Framed as "a true stick bait, like what they use in Australia,"
 distinct from the walk-the-dog/wind-in plugs above.
+
+**Earlier, independent corroboration — same cast-and-sweep mechanic, nearly
+five years before the entry above (Billy, Fisherman's Landing Tackle Shop, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 26 (Stickbait)," `wqrIs5kg1qw`,
+2018-12-13; `searcher-sportfishing` registered channel — mechanism/gear
+content medium confidence, single mention; the named lure models are product
+naming and stay low per the channel's sponsored-claim caveat):** a shop
+segment on fishing **sinking stick baits**, naming a "Riptide by Nomad(s)" —
+read as this Nomad Riptide — alongside two other models captioned "Matz Cat"
+and a "diving slider" (**asr-uncertain**, neither maker confidently resolved,
+not carried as confirmed names). Gear: a **jig-stick** rod and **straight
+spectra**, said to help with running a short leader, and a reel captioned
+"level one reel" — read as a **level-wind (conventional) reel** — called
+easier to work with for this bait. Retrieve: cast it into the foamer, then
+give **a long sweep of the rod — like a popper, but not as violent** —
+which is what makes the lure spin; **most of the bites come on the sink**,
+since these baits shimmy as they sink, corroborating the
+shimmer-on-the-fall/hesitate-then-flee doctrine above. A simpler alternate
+presentation is also given: cast it out, take a **couple turns of the reel**,
+then let it sink out, rather than working the full sweep-and-wind-down
+cadence.
 
 ### Shimano Current Sniper (cast-and-forget stickbait)
 **Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
