@@ -26,6 +26,10 @@ in **Linked from**.
     on bluefin comes **at night or 250–350 ft down**, deep/dark enough that
     he reasons the fish are reacting to profile and flash rather than seeing
     detail — see [red-crab color pattern](../lures/knife-jigs.md#color--mostly-angler-confidence-with-one-real-mechanism).
+    A shallower flat-fall bite-zone data point (**100–200 ft**, captain-called,
+    not tied to day/night) and the fall-triggered free-spool/count/
+    wind-halfway retrieve cadence — distinct from this note's continuous-rip
+    speed-jig stroke — are in [flat-fall jigging](flat-fall-jigging.md).
 - Deep [yellowtail](../species/yellowtail.md) and other gamefish holding in a
   strong drift where a fast vertical rip out-fishes a fluttering jig.
 - **Baja, Sea of Cortez (region: Baja):** vertical/speed jigs for fishing
@@ -653,11 +657,11 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)

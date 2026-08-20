@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate, flyline, sinker-bait]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw]
 confidence: high
 ---
 
@@ -92,9 +92,10 @@ dated entries rather than merged.
   test** — the same 60/80 lb range as
   [Rig 1's top shot](#rig-1--heavy-outfit-80-lb) above, though this segment
   gives no braid-backing or top-shot-yardage detail the way Rig 1 does.
-  Fished by **letting it fall** — no retrieve/work detail given; see
-  [knife / speed jigging](../techniques/knife-jigging.md) for the general
-  flat-fall drop mechanics this pairs with.
+  Fished by **letting it fall** — no retrieve/work detail given in this clip;
+  see [flat-fall jigging](../techniques/flat-fall-jigging.md) for the
+  free-spool/count/wind-halfway cadence this pairs with, from a later, more
+  detailed entry on the same channel.
 - **Nomad, 320 g:** heavier than the SK. Also rigged with **200 lb
   fluorocarbon**, but crimped to a **swivel** ("the correct crimp size")
   rather than tied straight through, and carries **an additional hook**
@@ -107,6 +108,55 @@ dated entries rather than merged.
   in [knife jigs](../lures/knife-jigs.md#night-lure-sizing-matched-to-outfit-size-and-profile-shape-gavin-pacific-queen),
   but this video's 250 g doesn't overlap that range and the brand isn't
   confirmed here, so the two aren't merged.
+- **A later, more detailed flat-fall rig/set-up entry, same channel** — see
+  [Flat-fall set-up — jig weight, leader, rod/reel (Capt. Art Taylor,
+  2020-11-12)](#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
+  below.
+
+## Flat-fall set-up — jig weight, leader, rod/reel (Capt. Art Taylor, Searcher, 2020-11-12)
+
+Capt. Art Taylor, aboard the **Searcher** (`an_uw-5pjfw`, "Tackle Tip Thursday
+Vol. 125 (Flat Fall & set-up)," uploaded 2020-11-12; `searcher-sportfishing`
+registered channel, first citation of this specific rig from this speaker —
+mechanism/parameters (jig weight, leader, bite zone, retrieve cadence, rod
+class) read medium confidence; the named products (**Shimano**, **Penn
+Fathom 60**, **Seeker OSP**) stay **low confidence, sponsored-claim caveat**,
+same rule as the SK/Nomad callout above). Framed around trips targeting
+**large bluefin tuna** out of Fisherman's Landing. A later, more detailed
+companion to the [Vol. 54 flat-fall
+rig](#flat-fall-leader-rig--sk-250-g-vs-nomad-320-g-two-speed-outfit-speaker-not-named-on-camera-tackle-tip-thursday-vol-54-flat-falls-zkb13fnt6p0-uploaded-2019-06-27)
+above; retrieve mechanics for this rig are in [Flat-fall
+jigging](../techniques/flat-fall-jigging.md).
+
+- **Jig weight — go heavier, not lighter, especially in breeze.** His stated
+  reasoning: a heavier jig gets down to the bite zone faster; too light in
+  wind and it doesn't get down as quickly as you'd like. Worked examples
+  shown on camera: a **Shimano 250 g** flat-fall and a **300 g** flat-fall
+  (the 300 g example shown already worked, with bite marks on it) — product
+  name low confidence, per the sponsored-claim caveat above.
+- **Leader:** **200 lb monofilament**, **crimped** with the crimp sized to
+  match that mono, to a **large swivel** — the swivel then ties directly to
+  the end of the main line. A different leader material than the Vol. 54
+  rig's **200 lb fluorocarbon**, kept side by side rather than reconciled.
+- **Presentation:** reel in **free-spool**, let the jig **fall/sink** — "that's
+  where most of the bites come from." **Bite zone: roughly 100–200 ft
+  down**, with the captain calling the actual depth off the fish-finder in
+  the wheelhouse.
+- **Rod/reel (product/model — low confidence, sponsored-claim caveat):** a
+  **Penn Fathom 60, two-speed** reel paired with a **Seeker OSP** rail rod
+  (captioned "3 to 1" — asr-uncertain, plausibly the same **Seeker OSP 1x3**
+  rail-rod product already logged in [gear
+  classes](gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism),
+  not confirmed by model number). The rail mechanism itself — **heavy
+  action, graphite, 7 ft**, with extra-long hypalon rubber on the foregrip
+  specifically so it can be fished from the rail — reads at the entry's
+  medium mechanism/parameters confidence.
+- **Knot:** the flat-fall ties to the end of the line with a **San Diego jam
+  knot** ([San Diego jam knot](../rigging/san-diego-jam-knot.md)).
+- **Retrieve cadence:** free-spool and **count to about 30 or 40** as the
+  lure sinks, then **wind the jig back up about halfway and let it fall
+  again** — repeat, rather than winding continuously to the top, because
+  flat-fall lures are designed to be bitten on the sink.
 
 ## Workhorse flylining outfit, 40/50 lb class — Guadalupe Island (Steve Carson, Penn/SearcherSportfishing, 2019-10-16)
 
@@ -490,6 +540,10 @@ finesse tuna](../techniques/dart-jig-tuna.md).
   landing mechanics for the grade these rigs target.
 - [Knife jigs](../lures/knife-jigs.md) — jig weight/color detail for the
   giant-tuna nighttime application.
+- [Flat-fall jigging](../techniques/flat-fall-jigging.md) — the free-spool/
+  count/wind-halfway retrieve cadence for the flat-fall entries above.
+- [San Diego jam knot](../rigging/san-diego-jam-knot.md) — the terminal knot
+  named in the 2020-11-12 flat-fall entry above.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
 
 <!-- backlinks:start -->
@@ -502,6 +556,8 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
+- [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)

@@ -229,11 +229,13 @@ Captain Armando, 2021-10-21).
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

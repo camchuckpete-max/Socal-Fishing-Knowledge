@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw]
 confidence: high
 ---
 
@@ -94,6 +94,21 @@ simply be true across the boat's trip-length range):**
   detail](../techniques/wahoo-bomb-casting.md#gear-class-detail) for this
   rod's casting application; logged here for the shared rail-rod mechanism.
 
+**A third, plausibly-corroborating citation, paired with a specific reel
+(Capt. Art Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol. 125 (Flat
+Fall & set-up)," `an_uw-5pjfw`, 2020-11-12; `searcher-sportfishing`
+registered channel, single mention — medium confidence for the
+mechanism/parameters):** for flat-fall bluefin fishing, a **Penn Fathom 60,
+two-speed** reel paired with a **Seeker OSP** rail rod (captioned "3 to 1" —
+asr-uncertain, plausibly the same **OSP 1x3** named above rather than a
+distinct model) — **both named products stay low confidence, sponsored-claim
+caveat, as with the other product/model callouts above** — **heavy action,
+graphite, 7 ft**, with the same **extra-long hypalon foregrip** rail
+mechanism described above.
+Full rig detail in [Searcher big/giant tuna rig
+ladder](searcher-big-tuna-rig-ladder.md#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
+and [flat-fall jigging](../techniques/flat-fall-jigging.md).
+
 ## Line classes
 
 - **Braid class** = the max line the rod carries (e.g. "80 lb braid"); thin braid
@@ -157,6 +172,7 @@ does the lookup.
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Glide Baits](../techniques/glide-baits.md)

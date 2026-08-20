@@ -558,6 +558,7 @@ the reverse map in **Linked from** below.
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Dropper Loop](dropper-loop.md)
+- [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](glide-baits.md)
 - [Iron Jigs](../lures/iron-jigs.md)

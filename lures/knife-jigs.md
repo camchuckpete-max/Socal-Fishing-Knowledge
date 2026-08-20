@@ -281,6 +281,10 @@ behavior**:
   parabolic rod, staying directly up and down —
   [knife / speed jigging](../techniques/knife-jigging.md). Mark your line by
   depth so you can put the jig on the captain's called number.
+- **Flat-fall (passive, fall-triggered):** free-spool the jig to the bite zone
+  and work it in partial up-and-down cycles rather than an active jigging
+  stroke — no rod work at all, just free-spool, count, and wind back up
+  partway before dropping again — [flat-fall jigging](../techniques/flat-fall-jigging.md).
 
 Which species and situation calls for each is routed from the species notes —
 [bluefin tuna](../species/bluefin-tuna.md),
@@ -522,6 +526,7 @@ rigging from class terms above until it lands; see
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](iron-jigs.md)
