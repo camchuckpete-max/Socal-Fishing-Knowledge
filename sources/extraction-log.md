@@ -2329,7 +2329,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | pNNrYXlgkO4 | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: crew banter/ribbing, no stated decisions or reasons |
 | phRsYlu0mmc | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 29s clip, no discernible speech content |
 | sAwPTPnHNzk | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: galley cooking recipe segment, no fishing knowledge |
-| so1df8prECw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| so1df8prECw | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: fish-fight chatter, no species ID or stated technique/reason |
 | srHnaMIrVIA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | tj_mEL94ETg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | uPnM-qw696k | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
