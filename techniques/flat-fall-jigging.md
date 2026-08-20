@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -108,6 +108,53 @@ to reach for it is the reverse map in **Linked from** below.
   low confidence). Stock assist hooks on this jig class wear out and are
   routinely upgraded — see [assist
   hooks](../rigging/assist-hooks.md#stock-flat-fall-assist-hooks-wear-out--upgrade-and-size-to-the-grade-of-fish-art-taylormike-searchersportfishing-via-turners-outdoorsman).
+
+## A named pre-rigged lure, 320 g, and a fluorocarbon leader — a conflict with the mono-leader doctrine below (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly the same Capt. Art Taylor named by full name elsewhere in this note, not confirmed by surname in this transcript — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Demonstrated on a Tady-brand pre-rigged flat-fall/knife-jig lure (captioned
+"Tatty" throughout — see the ASR hazard note on Tady in this note's
+provenance; brand/product pick stays low confidence per the sponsored-claim
+caveat, the parameters below stay at this note's own medium), named on camera
+as a **"Tuna TSP," 320 g**:
+
+- **Weight floor, same reasoning as the weight-ladder entries above:**
+  **250 g or greater**, because fish were sounding **240–360 ft** down (see
+  [bluefin tuna — finding
+  them](../species/bluefin-tuna.md#finding-them-sign--sonar)) and a lighter
+  120–150 g lure won't reach that depth quickly, especially drifting in wind.
+- **Leader — fluorocarbon, not mono, a conflict kept side by side:** **200 lb
+  fluorocarbon, 36 in, up to 48 in** — crimped, with chafing gear, to a heavy
+  swivel that ties to the main line. This is the opposite material choice
+  from the **mono-is-fine, cheaper-and-just-as-good-at-night** doctrine
+  logged immediately below (`FXWOIB0TPfE`, a different Tackle Talk Live
+  episode, same channel, about 14 months earlier) — both are attributed
+  `searcher-sportfishing` citations for the same style of pre-rigged lure,
+  not reconciled into one leader material. Stated reasoning here: if a big
+  bluefin swallows the lure whole, the leader is against its mouth/teeth, so
+  heavier abrasion-resistant material (not the main 80 or 100 lb line
+  directly) is what takes the wear.
+- **Crimp-size caution, not given elsewhere in this note:** a stated common
+  angler mistake is buying leader material without matching it to the
+  **correct crimp size** — an incorrectly sized crimp is a failure point that
+  can give way fighting a 200 lb fish.
+- **Factory assist hooks — swap available, corroborating the doctrine
+  above:** the pre-rigged lure's factory assist hooks (with heavier swivels
+  than typical) are called adequate as shipped, but Tady- and Lead
+  Masters-brand replacement assist hooks are named as available upgrades if
+  an angler wants to swap — consistent with, not new beyond, the stock-hooks
+  doctrine already logged in [assist
+  hooks](../rigging/assist-hooks.md#stock-flat-fall-assist-hooks-wear-out--upgrade-and-size-to-the-grade-of-fish-art-taylormike-searchersportfishing-via-turners-outdoorsman).
+  A related caution stated later in the same session, made about a different
+  Tady lure (the single-hook "Ferro"/"Porro," not this TSP) — not a claim
+  about any named competing lure's factory hook: tuna have a soft mouth, so
+  **a small treble hook** risks pulling free if it doesn't seat cleanly in
+  the curve of the jaw; framed as the general reason a single, larger hook is
+  preferred, not as a defect report on a specific product.
+- **Working the drop, matching this note's wind-halfway/re-drop cadence:**
+  free-spool the jig down, and if no bite after a while at the assumed depth,
+  don't just leave it there — wind up partway and let it fall again, since
+  guessing one static depth and holding there is called out as a common
+  mistake, especially late in a session when anglers are tired.
 
 ## Mono over fluorocarbon for the leader, and a single-hook swap size (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
 

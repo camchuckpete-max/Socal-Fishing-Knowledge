@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM, qBP3qRnK4H4]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM, qBP3qRnK4H4, eehDVb6_GoI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -242,6 +242,46 @@ drop-shot/brawler build logged in its own section below.
   given, consistent with the crew-directed-depth pattern already logged
   throughout this note. Restates the always-nose-hook-for-a-sinker-rig rule
   already logged above and below.
+
+## A seventh Turner's Outdoorsman citation — hook range, and what happens when the sinker rides up mid-fight (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly the same Capt. Art Taylor named by full name in the Vol. 147 citation below, not confirmed by surname in this transcript — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, corroborating the Vol. 147 citation below for the sinker range, new for the hook range and the mid-fight detail)
+
+Plausibly the same presenter as the Vol. 147 citation below, at a different
+Turner's Outdoorsman event about six weeks later
+(`fgTmUq78ofQ`) — the sinker range corroborates that citation almost exactly,
+now **repeated doctrine** for the range itself; the hook range and the
+mid-fight sinker behavior are new detail this citation adds.
+
+- **Sinker: 6–16 oz torpedo sinkers**, sized to wind/current the same way
+  already logged in the Vol. 147 build below — corroborating, not new.
+- **Hook — a range, not the single 2/0 this note's Vol. 147 citation gives
+  for one week's grade:** **2/0 to 5/0 circle hook**, reasoned as avoiding
+  going too small or too big; a bigger hook preferred within that range.
+  **Ringed vs. non-ringed is called a personal preference** here, not a
+  functional rule — see the same presenter's fuller ring-hook opinion in
+  [hooks](../tackle/hooks.md).
+- **Leader: 80 or 100 lb fluorocarbon, matched to 80 lb monofilament main
+  line** — roughly **3–4 ft** long. Reasoning given for running mono rather
+  than straight braid to the leader: the small amount of stretch in mono is
+  more forgiving on a hookup with a big hook, vs. braid's zero stretch
+  risking a pulled hook.
+- **Bait: nose-hook a live sardine** (sideways through the nose) — stated
+  reason matches the always-nose-hook doctrine already logged throughout this
+  note: a belly-hooked bait under this rig's drag-down weight rips off the
+  hook because the belly is the bait's soft/weak spot.
+- **What happens when the sinker rides up mid-fight — a detail not given by
+  the other citations in this note:** the sinker can slide up the
+  monofilament as an angler fights a hooked fish, ending up at the rod tip.
+  The stated fix, standard crew practice on this boat: back away from the
+  rail, and the crew pulls the sinker off and pockets it (the reasoning for
+  running a rubber-band/quick-release attachment rather than a hard-tied
+  sinker in the first place) — a landing-stage operational detail alongside
+  this note's already-logged breakaway-on-the-bite reasoning.
+- **Daytime alternative on the same rig class, when fish are surface-visible
+  rather than sounded deep:** flyline a sardine on **25 lb test** to a
+  **2/0 circle hook** — called the best approach on a trip where fish were
+  showing on the surface daily; matched to grade with an explicit caution
+  against undergunning — don't cast 25 lb test line into a school graded
+  **150 lb-class**.
 
 ## Depth-target detail — a fourth Searcher data point (Steve Carson, Vol. 59, 2019-10-16)
 
@@ -766,6 +806,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Essential SoCal Knots](essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [john-collins-knot, rp-knot, connection-knot, braid-to-mono, braid-to-fluoro, splice, tackle-prep]
-sources: [Bz0WZNAofks, FN9-rgyC9ic, b-oixz7pgAo, QHY5kmU7OTU]
+sources: [Bz0WZNAofks, FN9-rgyC9ic, b-oixz7pgAo, QHY5kmU7OTU, eehDVb6_GoI]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -149,6 +149,38 @@ already applied to [Springer Knot](springer-knot.md) and
     auto-generated captions; the fine hand mechanics of forming the initial
     loop and feeding the braid through are visual and not fully resolvable
     from audio alone. Flagged `asr-uncertain` for those mechanics.
+
+## A fifth wrap-count data point, scaled by line weight in one demo (Logan, SearcherSportfishing, via Turner's Outdoorsman, Norwalk, `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Demonstrated live on a heavier-diameter cord (for visibility, not the actual
+line class being tied) as both the **"RP knot"** and (per Art, coaching from
+beside him) the **John Collins knot** — the same dual naming already logged
+above. A fifth distinct wrap-count figure for this knot family in this KB,
+alongside the 9-up/9-down, 5-up/5-down, 6-up/6-down, and 7-turns/8-for-light
+counts already logged:
+
+- **Wrap count, scaled by line weight, his own stated practice:** for
+  **lighter line**, **7 or 8 turns**; for **heavier line** (his example:
+  **60–80 lb**), **3 or 4 turns** — explicitly framed as personal preference
+  ("it's all personal preference... I mix it up trying to see what stitches
+  down better"), not a fixed rule. The fewer-wraps-for-heavier-line
+  relationship matches the general pattern already logged elsewhere in this
+  note (the Vol. 96 clip's 3-wraps-for-thicker-demo-material step-down).
+- **Symmetry emphasized as the thing that matters, not the exact count:**
+  demonstrated tying the mono/fluoro side first (matching the wrap count to
+  whatever was used on the braid side), then coming back through the loop
+  "the same way you went in" — his stated caution: going through the loop
+  the *opposite* way from how you entered causes the knot to fail when
+  cinched down. This is a construction detail not narrated in the other
+  citations above.
+- **Line-class-linked construction note, from the same session (Art,
+  coaching alongside):** on this build, the mono/fluoro top shot should run
+  **at least 50 ft**, and its length should be **shorter than the rod** — a
+  **7–8 ft rod wants roughly a 4 ft leader**, not an 8 ft one, because a
+  leader as long as the rod puts the connection knot through the guides and
+  hampers casting. A further, tuna/mono-top-shot-specific citation of the
+  leader-length-to-rod-length rule already logged for kelp/rock calico bass
+  in [line & leader](../tackle/line-and-leader.md#connections-parameters--steps-are-in-the-rigging-notes).
 
 ## A named "single San Diego" / RP variant — 7 turns (8 for light line), plus a double-pass finishing trick (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention of this specific wrap count)
 

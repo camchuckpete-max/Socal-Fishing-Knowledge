@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -470,6 +470,19 @@ cast](../techniques/live-bait-pendulum-cast.md).
   different words — wind in and cast back out rather than let the bait sit
   idle, since [yellowtail](../species/yellowtail.md) are moving through and a
   bait has to stay presented, not parked, to get bit.
+- **A third stated cadence, bluefin flyline specifically (Art, SearcherSportfishing,
+  via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly
+  Capt. Art Taylor as cited by full name elsewhere in this note, not confirmed
+  by surname here — `eehDVb6_GoI`,
+  "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** stated as a hard cap rather than a swap-only-when-unproductive
+  rule — **no more than two to three minutes**, then wind in and put on a
+  fresh bait, echoed as "change your bait, change your life." A third,
+  standalone cadence figure alongside the 60-second rule and the
+  once-a-minute claim above — not reconciled into one number, kept as a
+  further attributed data point on the same underlying discipline (a bait's
+  effectiveness drops the longer it soaks unfished).
 
 ### Bait-selection tells and hold-time (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention of these specific tells)
 

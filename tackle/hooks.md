@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI]
 confidence: medium
 ---
 
@@ -229,6 +229,23 @@ and why anglers reach for it.
   preference is actually the non-ringed hook + loop knot, for two reasons: it
   adds less hardware weight to an already-stressed live bait, and it's
   silent — no ring-on-hook clank that can spook a picky, finicky bite.
+- **Ringed vs. non-ringed — a third attributed opinion (Art, SearcherSportfishing,
+  via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly
+  Capt. Art Taylor as cited by full name elsewhere in this note, not confirmed
+  by surname here — `eehDVb6_GoI`,
+  "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** given for a bluefin [sinker rig](../rigging/rubber-band-deep-rig.md)
+  circle hook (2/0–5/0 range), a personal, "old school" preference for
+  **non-ringed** hooks — framed explicitly as personal preference, not a
+  functional rule, matching Cesar's framing above though for a different
+  stated reason: ringed hooks weren't called out as adding weight or noise
+  here. The same speaker concedes ringed hooks can help specifically on
+  **light line with a finicky bite**, and separately states that bait
+  liveliness matters more to a bite than whether the hook is ringed — kept
+  side by side with, not reconciled to, Cesar's non-ring-for-weight-and-noise
+  reasoning and the Owner Aki citation's ringed-doesn't-matter stance logged
+  below, a third data point in an unresolved fleet-wide preference split.
 
 ### Downsize the hook, not the line, to save a slow bluefin bite (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
 

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ, riEkdu8PEds]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ, riEkdu8PEds, eehDVb6_GoI]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
@@ -769,6 +769,23 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     around the boat, from 50 fathoms down to 80 fathoms, even below** —
     deeper than the 30–50 fm range above; kept side by side as a
     bank-specific extension, not a replacement for it.
+    **A further night data point, ~20 mi off San Diego (Art, SearcherSportfishing,
+    via Turner's Outdoorsman, Norwalk — named on camera only as "Art,"
+    plausibly Capt. Art Taylor as cited by full name elsewhere in this note
+    from other Turner's Outdoorsman events, not confirmed by surname here —
+    `eehDVb6_GoI`,
+    "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30;
+    `searcher-sportfishing` registered channel — medium confidence, single
+    mention of this specific range):** fish sounded and read on the
+    sonar/depth sounder at **240–360 ft down**, stated as the reason a
+    flat-fall/knife-jig lure needs to be **250 g or greater** — anything
+    lighter (their example: 120–150 g) won't reach that depth quickly enough,
+    especially with the boat drifting in wind. Shallower than the 30–50 fm
+    (~180–300 ft) sounded-school range above at its top end, and overlapping
+    the 250–350 ft flat-fall bite-zone data point in [flat-fall
+    jigging](../techniques/flat-fall-jigging.md#reach-for-this-when) — kept
+    side by side as another same-region, same-fishery night-depth data point,
+    not reconciled into one figure.
   - **Night bite on the DSL:** fish rise with the
     [deep scattering layer](../conditions/deep-scattering-layer.md) after dark;
     the read is depth-called marks — **"fish at 180, fish at 230 ft"** — that you

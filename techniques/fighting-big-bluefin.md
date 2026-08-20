@@ -588,6 +588,7 @@ rods come tight on big bluefin together.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)

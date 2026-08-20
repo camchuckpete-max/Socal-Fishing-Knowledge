@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, two-speed, lever-drag, penn-fathom, reel-sizing, searcher, loaner-gear, rail-rod, dropper-loop]
-sources: [ddataaVWoDc, gqEjWrPpa48]
+sources: [ddataaVWoDc, gqEjWrPpa48, eehDVb6_GoI]
 confidence: low
 ---
 
@@ -77,6 +77,20 @@ loaner-gear picks at two points on the size ladder:
   both loner deer they get put to the test" — read as "loaner gear"; the
   second, "both"-paired use case is unresolved from the garbled captions
   and not asserted, flagged `asr-uncertain`.
+
+## Capacity worked examples, 30/50-wide class (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly Capt. Art Taylor as cited by full name elsewhere in this corpus, not confirmed by surname here — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Answering an audience question on how much line a bluefin outfit needs, two
+worked capacity figures for reels in this general size class, kept as
+attributed examples rather than a fixed rule:
+
+- **A 30-size or 50-wide reel:** at least **400 yd of braid**, with the rest
+  of the spool filled with a monofilament top shot.
+- **A 50-wide spooled with 135 lb braid specifically:** roughly **750 yd**
+  to fill the reel — a single-material capacity figure (no top shot implied)
+  distinct from the 400 yd-braid-plus-mono build above; the two aren't
+  reconciled into one spec since they describe different spooling choices on
+  the same reel class.
 
 ## Related
 

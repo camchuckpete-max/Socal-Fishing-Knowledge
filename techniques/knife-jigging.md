@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -298,6 +298,27 @@ whether a bite converts.
   170 ft → count out to "17," slowly, and the jig is in that range. Simpler
   but coarser than colored/marked braid or the arm-span method above — a
   fallback when line isn't marked at all, not a replacement for marking it.
+- **A pre-trip DIY marking method, plus color-coded 100 ft segments (Art,
+  SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera
+  only as "Art," plausibly Capt. Art Taylor as cited by full name elsewhere
+  in this note, not confirmed by surname here — `eehDVb6_GoI`,
+  "Tackle Talk Live at Turner's Outdoorsman in Norwalk,"
+  2021-06-30; `searcher-sportfishing` registered channel — medium
+  confidence, single mention):** for anglers without pre-marked braid,
+  string the braid out along a measured 100 ft run (their example: a
+  100-foot driveway) and Sharpie a mark at the 100 ft point — corroborating,
+  from a different presenter/event, the same channel's spray-painted-pavement
+  method already logged above (`fgTmUq78ofQ`), here scaled to 100 ft
+  intervals instead of 60 ft. Repeat every 100 ft so the first mark reads
+  100 ft, the second 200 ft, the third 300 ft, and so on — the captain calls
+  a depth over the PA (e.g. "300 ft") and the angler counts marks rather than
+  estimating. **A color-coded variant on the same 100 ft interval:** some
+  anglers color-code each 100 ft segment instead of using one Sharpie color
+  throughout — first 100 ft black, second 100 ft orange, third 100 ft red —
+  so a called depth at night reads by color rather than by counting marks. A
+  further, independent same-channel citation of the shop-service offer
+  already logged above: spooling a customer's reel, the shop will mark it
+  every 100 ft with a long black Sharpie mark on request at no extra charge.
 - **A fourth marking interval, plus a worked call-to-drop conversion — colored/"indicator" spectra, 30 ft per color (speaker not named on camera, possibly "Gillingham" per auto-captions — asr-uncertain; SearcherSportfishing, "Tackle Tip Thursday Vol. 67 (Heavy Outfit/Flat Fall)," `q_ciF1xiDiI`, uploaded 2019-09-26; `searcher-sportfishing` registered channel, single mention — medium confidence):** on a heavy flat-fall outfit, the spool is loaded with a colored "indicator" spectra that **changes color every 30 ft** — a fourth interval alongside the 25/50/60/100 ft intervals already logged above, and one this speaker frames as important specifically for flat-fall jigs, watching the color change (rather than counting time) to know how far down the lure is. **Worked example given on camera:** the captain ("Art" — consistent with Capt. Art Taylor, cited elsewhere in this note from other Searcher tips, though not confirmed by surname in this clip) calls the fish at **200 ft**; the angler drops **7 colors** (7 × 30 ft = **210 ft**), putting the jig "right on the fish's nose" — i.e., slightly past the called depth by the arithmetic (210 vs. 200 ft), not stopping short of it; no stated reason on camera for rounding up rather than down. Rig detail for this same clip (rod/braid/leader/jig weight) is in [Searcher big/giant tuna rig ladder — heavy flat-fall outfit, 100 lb braid/130 lb leader](../tackle/searcher-big-tuna-rig-ladder.md#heavy-flat-fall-outfit--100-lb-braid-130-lb-leader-300-g-jig-counting-depth-in-colors-speaker-not-named-on-camera-possibly-gillingham-per-auto-captions--asr-uncertain-tackle-tip-thursday-vol-67-heavy-outfitflat-fall-q_cif1xidii-uploaded-2019-09-26).
 - **Ears for the skipper, tracked continuously.** "Eyes in your mind, ears for the
   skipper" — the captain's called depth **changes fast** (e.g. "fish at 200 ft,"

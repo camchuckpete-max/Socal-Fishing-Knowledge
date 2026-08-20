@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI]
 confidence: medium
 ---
 
@@ -244,6 +244,31 @@ the practical, deckhand-executed version of the on-the-fly adjustability
 problem named above (a lever drag is hard to fine-tune one click at a time
 mid-fight) — going all the way to free spool sidesteps that rather than
 fighting the lever.
+
+## Strike is a floor, not always the setting — some go 3/4 of the way to strike, and never touch the drag while a fish is running (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly Capt. Art Taylor as cited by full name elsewhere in this corpus, not confirmed by surname here — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+A variant on, not a contradiction of, the go-to-strike doctrine already
+logged above (Captain Mark, Vol. 205/207): some anglers on this boat set the
+lever only **about three-quarters of the way to strike** at the hookup, then
+get positioned — fish the boat/angler angle in front of the fish — before
+pushing the lever the rest of the way to **strike** once the fight actually
+settles in. As the fish gets to color and starts circling boatside, drag can
+go **above strike, even to full**, reasoned by the sheer weight of a big fish
+(their example: a 200-lb-class fish) needing more than strike-level pressure
+at that stage to finish it.
+
+- **Never touch the drag while the fish is running.** Stated flatly: there's
+  no reason to move the lever toward full while a fish is taking line — you
+  don't know what tension you're actually dialing into on a lever drag mid-run
+  (see the spool-diameter drag trap already logged above for a related
+  reason not to trust a fixed lever position through a long run). Wait for
+  the fish to stop running before adjusting.
+- **Hand the rod to a fresher angler rather than fight through fatigue** — "if
+  you're tired and you've got a fish of a lifetime, forget the jackpot, give
+  it to a young guy that's fresh" so the fish gets landed. The same
+  hand-off-when-fatigued practice already logged repeatedly in [fighting a
+  big bluefin](../techniques/fighting-big-bluefin.md), restated here as
+  drag-adjacent floor-level advice rather than a fight-specific account.
 
 <!-- backlinks:start -->
 ## Linked from
