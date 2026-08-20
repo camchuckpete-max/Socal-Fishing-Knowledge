@@ -2433,7 +2433,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | BwDJ4VFvB3E | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater bass-fishing crankbait review, no SoCal/Baja saltwater relevance |
 | CNMXkml1okI | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: no rig parameters, species, or location stated; speaker says reel model doesn't matter |
 | CO8YU-TD8D4 | Tackle Express | tutorial | parameter-skim | done | none / 44s Shimano Current Sniper Scale Boost promo, no decision-grade or SoCal-specific content; extraction-log row filled in |
-| CdgSBcN6PDo | Tackle Express | tutorial | parameter-skim | pending |  |
+| CdgSBcN6PDo | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / added topwater floating-top-shot leader trick (1.5 ft/12 lb mono splice), medium confidence |
 | CsKEtrcLgiQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | D0bQjAL0gGU | Tackle Express | tutorial | parameter-skim | pending |  |
 | D0oEQsTaL7A | Tackle Express | tutorial | parameter-skim | pending |  |

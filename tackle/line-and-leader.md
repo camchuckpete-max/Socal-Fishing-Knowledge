@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo]
 confidence: medium
 ---
 
@@ -217,6 +217,19 @@ Mono's stretch and its habit of staying on the spool are the point:
   knot never clears the spool on a full cast** (Ep16). A knot dragged through the
   guides — say a 25 yd top shot on a 25 yd-plus cast — hangs up, backlashes, and
   braid's zero stretch then **snaps your leader and loses the jig, even at 40 lb**.
+- **A short floating top shot for topwater plugs — walking baits and poppers**
+  (Tackle Express, `CdgSBcN6PDo`, 2026-06-09; unregistered channel, single
+  mention — medium confidence): splice about **1.5 ft of 12 lb mono** to the
+  braid, then tie the mono straight to the topwater lure. Two stated reasons,
+  both specific to a hard bait worked on the surface: (1) mono floats, so that
+  last stretch of running line right at the lure floats too, instead of the
+  braid's sinking tendency dragging on the bait and interfering with its
+  action; (2) stretching the short mono section under tension straightens out
+  any coil memory in it (braid carries little to no memory to begin with),
+  leaving a direct, low-slack connection — with sharp hooks, the moment a fish
+  eats and turns away you already feel the weight and it's already hooked; you
+  just reel down and sweep. **Explicit exception: not for a frog** — fish a
+  topwater frog on straight braid instead, no mono splice.
 - **The same mechanism, stated for the leader-to-top-shot knot specifically
   (Capt. Art, Searcher, via Steve Carson, Penn/SearcherSportfishing, "Tackle
   Tip Thursday Vol. 167 (All-Around Outfit)," `fyJA3o2hVh0`, 2022-02-03;
