@@ -2378,7 +2378,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 3z1KZ_kIaec | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-rockfish-leader-line.md; species/rockfish-lingcod.md; tackle/line-and-leader.md; techniques/dropper-loop.md / new tackle note on rockfish dropper-loop leader material, cross-linked; evaluator trimmed duplicated restatement and fixed a smoothed line-size range |
 | 41d5bquXkAc | Tackle Express | tutorial | parameter-skim | done | none / skipped: 35s pure-exclamation clip, no extractable technique/tackle/species content, fails curation bar |
 | 46kVgZ6P62M | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-accurate-tern-2-reel.md; tackle/star-drag-vs-lever-drag.md / new Accurate Tern 2 product note (cast-control brake, twin drag, sizing/leader rule) plus a corroborating row in star-vs-lever-drag; evaluator fixed a fabricated Baja-framing claim bled over from an adjacent entry |
-| 52jkCrA4I9w | Tackle Express | tutorial | parameter-skim | pending |  |
+| 52jkCrA4I9w | Tackle Express | tutorial | parameter-skim | done | none / skipped: 26s clip, transcript captures only music/interjection, no extractable fishing-rod content despite title |
 | 52le0jHiqyc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 53FzsW4_U08 | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5EKrtI_f_xA | Tackle Express | tutorial | parameter-skim | pending |  |
