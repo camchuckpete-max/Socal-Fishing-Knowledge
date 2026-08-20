@@ -2278,7 +2278,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JWU3djUbfKY | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 48s clip, no substantive fishing content |
 | K4GTUO57rio | SearcherSportfishing | on-the-water | decision-rationale | done | locations/cedros-island.md: added Observed block (2010 Cedros yellowtail session, grade + angler catch counts) |
 | KrIednxCEKI | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/wahoo-trolling.md: added Observed block (Dorado Marauder outcome, no stated reason) |
-| L6BUIu5vFEc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| L6BUIu5vFEc | SearcherSportfishing | on-the-water | decision-rationale | done | duplicate-of kzpeM56Gh7o, already captured in tackle/searcher-three-outfit-minimum-quiver.md; extraction-log updated |
 | LYjdT3E3Rb4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | LuSn3IeW9_c | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | MPC_OQjvO-o | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
