@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs]
 confidence: medium
 ---
 
@@ -233,6 +233,35 @@ Mono's stretch and its habit of staying on the spool are the point:
 - **Internal line on spreader-bar / heavy troll setups** — mono's stretch belongs
   inside those rigs; see [rod & reel selection](rod-and-reel-selection.md) and the
   trolling lure notes.
+- **A rail-rod stretch preference, framed as physical-fatigue insurance
+  (Captain Art, SearcherSportfishing, "Tackle Talk Live (from the boat
+  3/24)," `YntRJAN88fs`, 2020-03-25; `searcher-sportfishing` registered
+  channel — medium confidence):** on a rail rod in a breeze (his example:
+  **15 knots**, the boat rolling), a stated personal preference for
+  **100–150 ft of mono** ahead of the fluoro leader specifically for the
+  stretch — framed as "easier on the body" over a fight, not just hookset
+  forgiveness. A second, independent voice for the physical-fatigue argument
+  already logged below from the Cedros yellowtail "Observed" entry (an angler
+  sore the next morning after fishing straight braid), here reasoned from
+  mono-vs-fluoro stretch specifically rather than braid-vs-mono.
+  **Fewer connections vs. more stretch — a stated tradeoff, not a rule:**
+  running a mono top shot ahead of the fluoro leader means **three**
+  connections (braid-to-mono, mono-to-fluoro, fluoro-to-hook) instead of the
+  **two** you'd tie going straight from braid to a full-spool fluoro top
+  shot (braid-to-fluoro, fluoro-to-hook). His own preference is the
+  three-connection route for the extra give, at the cost of one more knot;
+  he notes "some people" prefer fewer connections instead and skip the mono
+  layer — not resolved either way, logged as a personal-preference tradeoff.
+- **The mechanism behind the mono-to-fluoro size-match rule — drag setting,
+  not just bite avoidance, same source:** elaborates on the bare "match the
+  rated size across a mono-to-fluoro join" rule already logged below
+  (Izorline) with the reasoning that rule doesn't give. The drag gets tuned
+  to the **mono top shot's** class (his example: **40 lb mono**), so stepping
+  the fluoro leader down lighter to draw more bites (his example: to **25 lb
+  fluoro**) may get the bite, but the lighter fluoro then can't hold up to a
+  drag that's still set for 40 lb mono — the fish gets bit, then lost. If a
+  lighter fluoro is worth it for more bites, the drag has to come down to
+  match the fluoro, not stay set for the heavier mono above it.
 
 **Observed — physical toll of straight braid, plus a casting-past-the-knot
 safety incident (StokedOnFishing, October 2024 trip, 2025-03-15 upload,
@@ -492,6 +521,10 @@ able to break off** (aXF0bxAFtU0):
   lose your fish." No knot name, specific size, or mechanism (diameter vs.
   breaking strength) given in source; kept as a standalone parameter alongside
   the double-uni and FG-knot guidance above rather than merged into either.
+  A drag-setting mechanism for this same rule — matching the fluoro leader to
+  the mono top shot's class because the drag is tuned for the mono, not the
+  fluoro — is logged above under [When mono top
+  shot](#when-mono-top-shot).
 
 <!-- backlinks:start -->
 ## Linked from

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -253,6 +253,38 @@ side by side as a heavy-tackle variant, not reconciled.
   [two-speed reel technique](two-speed-low-gear-fight.md) — this is about
   winning the race back to structure on a bottom rig, not working a fish that
   has already come up and is circling boatside.
+
+- **An earlier, parallel citation — mono over fluoro leader with a stated
+  reason, and a periodic free-spool exception to the always-in-gear rule
+  (Captain Art, SearcherSportfishing, "Tackle Talk Live (from the boat
+  3/24)," `YntRJAN88fs`, 2020-03-25 — about two months before the citation
+  above, same channel/format — `searcher-sportfishing` registered channel,
+  medium confidence):** names the same rig for **yellowtail or grouper**
+  holding on bottom structure, with figures in the same range as the build
+  above — loop **14–18 in**, hook **30–36 in** above a **16 oz torpedo
+  sinker**, hook tied on with a **doubled [San Diego jam
+  knot](../rigging/san-diego-jam-knot.md)**, and a breakaway **overhand
+  knot** tied into 80 lb-test mainline above the sinker so a bottom snag
+  sacrifices only the sinker — kept as a corroborating, earlier-dated
+  citation rather than merged into the build above, since the exact figures
+  differ slightly (14–18 in vs. 12–18 in loop; 30–36 in vs. 3–4 ft
+  hook-to-sinker distance). Two things this citation adds beyond the build
+  above:
+  - **Mono, not fluorocarbon, for the leader** — stated explicitly as **not
+    a line-class or line-shy thing**: the leader ties straight onto the mono
+    top shot rather than stepping down to fluoro, because this is
+    bottom/structure fishing (yellowtail or grouper) rather than a finicky
+    open-water bite where fluoro's invisibility would matter more.
+  - **A periodic free-spool exception to "always in gear":** the general
+    rule (reel in gear once the rig is down near structure, never
+    free-spool) still holds, but as the boat swings on its drift and the
+    depth underneath it shifts — his example: the sinker drifts up off
+    bottom as the boat swings, and the bottom depth itself can change by
+    roughly a boat length or two, about **five fathoms (30 ft)** — the move
+    is to periodically clutch back into free spool just long enough to
+    re-drop to the bottom, then back into gear. This refines, rather than
+    contradicts, the always-in-gear rule above: a deliberate, controlled
+    re-drop, not leaving the reel in free spool while fishing.
 
 ## Deploying it — drop, detect bottom, read the bite (Your Saltwater Guide)
 

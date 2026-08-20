@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs]
 confidence: medium
 ---
 
@@ -100,6 +100,34 @@ strip, clean, and reseal of the spool.
   pulling hard, which risks a break-off — the same digging-into-the-spool
   failure mode covered from the braid-diameter angle in
   [line & leader](line-and-leader.md#why-heavier-braid-than-the-fish-requires--spool-mechanics-not-fish-strength).
+
+## Reversing your spectra — rotating fresh line to the top (Captain Art, SearcherSportfishing, "Tackle Talk Live (from the boat 3/24)," `YntRJAN88fs`, 2020-03-25; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Distinct from Norm Fujimoto's annual strip-clean-reseal routine above (which
+cleans and re-tensions the spectra but doesn't reorder it): a pass built
+specifically around **swapping which end of the spool has seen the water**,
+aimed at a reel that's **three or four years old** or so.
+
+- **Why bother:** the outer ~150 yd of spectra on a working reel has been
+  out in the salt water, sun, and weather every trip, while the innermost
+  ~150 yd near the arbor has sat unused and stayed fresh. Reversing the spool
+  puts the weathered braid on the bottom (out of play) and the unused fresh
+  braid on top, back in play.
+- **The two-transfer method, drill-powered:** strip the braid off the reel
+  onto a first spare spool (a length of dowel or anything that fits the
+  drill chuck works), then strip that spool's braid onto a **second** spare
+  spool, then wind the second spool's braid back onto the reel. Two
+  transfers are required to land back in reel-compatible order with the ends
+  swapped — one pass alone just reverses it once and isn't enough.
+- **Tension on the final wind:** a second person holding the spool while you
+  hand-wind the spectra back onto the reel **under a little tension** packs
+  it on tight, avoiding the loose-wrap digging-into-itself risk already
+  covered above for a soft-packed spool.
+- **Time cost:** called out as time-consuming, more so across multiple reels
+  — offered as an offseason/rain-day project rather than a quick per-trip
+  task, alongside this note's other offseason routines.
+- A **Swifty line remover** (the same product named in Norm Fujimoto's
+  strip-down routine above) works for the drill-mounted spool step here too.
 
 ## Rod protection during travel — stick jacket (Logan, SearcherSportfishing, "Tackle Tip Thursday Vol. 209 (Protect Your Fishing Rods)," `OmyRIw7Eye8`, 2022-12-15; registered channel (`searcher-sportfishing`), single mention of this specific claim — medium confidence)
 

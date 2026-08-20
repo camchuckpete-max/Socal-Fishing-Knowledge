@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs]
 confidence: medium
 ---
 
@@ -114,6 +114,27 @@ and why anglers reach for it.
   note, consistent with the bait-sets-the-size rule (bigger mackerel bait
   takes a bigger hook) and with thick wire for a bigger, heavier bait per the
   wire-gauge rule below.
+- **A 40 lb numeric threshold for the switch, plus the mechanism restated
+  (Captain Art, SearcherSportfishing, "Tackle Talk Live (from the boat
+  3/24)," `YntRJAN88fs`, 2020-03-25; `searcher-sportfishing` registered
+  channel — medium confidence, single mention of this specific number):**
+  states the cutoff as a bare number where the mechanism-based doctrine above
+  (Ray Sharifi, Capt. Dave Hansen) says only "big bluefin" — **circle hooks
+  for fish 40 lb and up; a standard J hook is fine under 40 lb.** Mechanism
+  restated to match: on a bigger fish a J hook sets deeper, down in the mouth
+  or throat, where the leader rubs against teeth on every headshake and the
+  fish gets bit off; a circle hook, fished on a correctly set drag, instead
+  drags out and pins the **corner of the mouth**, keeping the leader off the
+  teeth entirely. As fish grow past 40 lb the abrasion risk on
+  a J hook only increases — the same reasoning Ray Sharifi and Capt. Dave
+  Hansen give above, here attached to a specific weight break rather than
+  "big" fish generally. Also states the reciprocal: **have an assortment of
+  both circle and J hooks, and downsize hook size (not line size) when the
+  bite is finicky** — the same [downsize-the-hook-not-the-line
+  lever](#downsize-the-hook-not-the-line-to-save-a-slow-bluefin-bite-searchersportfishing-tackle-talk-live-fxwoib0tpfe-2020-04-08-searcher-sportfishing-registered-channel--medium-confidence-single-mention)
+  logged below (now updated with this earlier corroboration), here recalling
+  the identical **2019** ("last year") poor-bite season without giving the
+  specific 1/0–2/0 sizes that citation names.
 - **Further corroboration, a sportboat captain's house doctrine (StokedOnFishing,
   `UfuiWFVvz2E`, video uploaded 2026-08-11, Cortez Bank, SoCal; Constitution
   charter; unregistered channel — medium confidence):** a pre-trip tackle
@@ -220,6 +241,18 @@ Recalls a season, resolved from the 2020-04-08 upload date to **2019**
 well. A distinct lever from the bait-sets-the-hook-size doctrine above —
 this is a deliberate downsize used as a bite-rate fix when the fish are
 being finicky, with line class left as-is rather than also dropped.
+
+**Earlier, independent corroboration of the same 2019 season, no sizes given
+(Captain Art, SearcherSportfishing, "Tackle Talk Live (from the boat 3/24),"
+`YntRJAN88fs`, 2020-03-25 — about two weeks before the citation above, same
+channel/format — `searcher-sportfishing` registered channel, medium
+confidence):** recalls the identical poor-bite season, resolved the same way
+to **2019** ("last year"), and the identical fix — "we needed to go down in
+hook size" — without naming the 1/0–2/0 figures the later citation gives.
+Framed there as part of the reason to carry an assortment of both circle and
+J hooks in the box rather than one fixed size per species/bait. A second,
+independent same-channel data point for this specific claim, now repeated
+doctrine.
 
 ### Wire gauge
 
