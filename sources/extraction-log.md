@@ -2459,7 +2459,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | G8HNjPiaOjU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / parameter-skim merge of built-different rationale into existing tip-pull diagnostic, flagged as likely re-cut of DfLcSS-J3g4 (not independent confirmation) |
 | Ga8Z1PyBqdE | Tackle Express | tutorial | parameter-skim | done | rigging/essential-knots.md / fifth corroborating data point on uni-to-uni: wrap count, tag length, cinch sequence |
 | GchQpXW2jI0 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 29s teaser clip, product name-drop with no extractable content |
-| GeydGK-62fw | Tackle Express | tutorial | parameter-skim | pending |  |
+| GeydGK-62fw | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md / corroborating medium-confidence addition to existing 60-degree rod-angle doctrine; fabricated reel/shock-absorber mechanism stripped by evaluator |
 | H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | pending |  |
 | HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | pending |  |
 | HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | pending |  |

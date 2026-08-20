@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -491,6 +491,18 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   **loads and bends all the way through to the butt**; fishing it flat on the
   rail throws away roughly half the rod's power, so fish it in hand, not racked
   (Ul5FLB2dFgQ).
+  - **Independent corroboration of the same 60° angle threshold, a different
+    channel/seminar (Tackle Express, `GeydGK-62fw`, "They laughed at the
+    'trout pole'... until it landed *that* fish!", 2026-02-05; unregistered
+    channel, single mention — medium confidence):** a small-diameter,
+    slower-action jigging outfit — nicknamed a "trout pole" or "fairy wand"
+    by other anglers on the boat for its light-tackle look — carries far more
+    fighting power than its size suggests, **provided the angler keeps the
+    rod at a 60° angle or lower** and doesn't bounce the fish or high-stick
+    it. Stated reasoning: the slower action lets the rod take a lot more
+    abuse than a traditional (faster-action) rod despite the smaller
+    diameter. Offered as reassurance for anglers hesitant to load up on a
+    thin, whippy-looking outfit — "don't be afraid to pull on these rods."
   - **Tackle-shop shorthand, "X" rail-rod rating (Billy, Fisherman's Landing
     Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip Thursday
     Vol. 186," uploaded 2022-06-16; unregistered channel — medium
