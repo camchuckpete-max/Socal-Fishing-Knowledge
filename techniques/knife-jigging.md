@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -32,11 +32,30 @@ in **Linked from**.
     speed-jig stroke — are in [flat-fall jigging](flat-fall-jigging.md).
 - Deep [yellowtail](../species/yellowtail.md) and other gamefish holding in a
   strong drift where a fast vertical rip out-fishes a fluttering jig.
+- **General activity-level axis, not region-specific (Tackle Express,
+  `6SClBs16L2Y`, 2025-03-10; unregistered channel — medium confidence):**
+  more active, aggressive fish — the source names yellowtail and tuna —
+  favor speed jigging over [slow-pitch](slow-pitch-jigging.md); reasoned as a
+  faster-moving jig with more action covering more water and drawing more
+  attention than a fall-triggered presentation. Stated to apply **offshore or
+  nearshore** alike, not tied to one water type. The same activity-level
+  logic as the Baja/Sea of Cortez entry below, without a region qualifier.
 - **Baja, Sea of Cortez (region: Baja):** vertical/speed jigs for fishing
   heavy current over deep structure — described as a growing technique down
   there for yellowtail and for snowy grouper on deep structure (Cesar, via
   Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single
   mention — `medium` confidence).
+- **Slow "pick bite" on bluefin — using a speed jig's commotion to activate
+  the school (Tackle Express, `6SClBs16L2Y`, 2025-03-10; unregistered channel
+  — medium confidence):** when a boat fishing a
+  [sinker rig](../rigging/rubber-band-deep-rig.md) is getting bluefin
+  sporadically, one at a time, having a couple of anglers work a speed jig
+  through the area is reasoned to draw fish in closer to the boat — likened
+  to the effect of chumming or a surface bite — because more activity/
+  commotion in the water makes predatory fish more intrigued and more likely
+  to come check it out and bite. A tactic layered on top of the existing
+  rig, not a replacement for it; full situation row in
+  [bluefin tuna](../species/bluefin-tuna.md#situations--techniques).
 - **Sportboat tackle is capped by the rail, not just the fish (George,
   Pacific Coast Sportfishing Show 2024 "Jigging 101" panel, `Et2TUskzCSs`,
   uploaded 2024-03-16; unregistered channel/panel — medium confidence):**

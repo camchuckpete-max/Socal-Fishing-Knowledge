@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez, sand-bass, calico-bass]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg, 6SClBs16L2Y]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -33,6 +33,13 @@ Execution only; species and situations are the reverse map in **Linked from**.
 - Contrast with [knife/speed jigging](knife-jigging.md): SPJ works the fall;
   speed jigging rips a slender jig up through the column to imitate a *fleeing*
   bait. Different jigs, different strikes.
+- **General activity-level axis, not region-specific (Tackle Express,
+  `6SClBs16L2Y`, 2025-03-10; unregistered channel — medium confidence):**
+  when fish are more lethargic and less active, slow-pitch is the more
+  effective setup — offshore or nearshore alike, not tied to one water
+  type — versus [speed jigging](knife-jigging.md) for more active,
+  aggressive fish. The same activity-level logic as the Baja/Sea of Cortez
+  entry below, without a region qualifier.
 - **Baja, Sea of Cortez (region: Baja):** slow-pitch is the pick when fish are
   close to bottom and not super active — current-and-activity is the
   decision axis down there: light current / less active fish → slow-pitch;
