@@ -405,5 +405,4 @@ or a compressed drag going into storage.
 
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
-- [Shimano Tranx 400B — SVS MDTune, Solid Core Body, and X-Protect (Tackle Express)](tackle-express-shimano-tranx-400b-reel.md)
 <!-- backlinks:end -->

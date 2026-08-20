@@ -25,7 +25,7 @@ is the [4-factor framework](../techniques/trolling.md).
 | **Rail-rod / heavy tuna class** | ~8 ft, 3X-H, 60–130 lb, 2-speed reel | casting/fighting jumbo [bluefin](../species/bluefin-tuna.md) | Cameron's Talica 25 |
 | **Trolling / spreader-bar class** | 7–7.5 ft, XXXX-H, 150–200 lb, 2-speed, ~1000 yd capacity | [spreader-bar](../lures/spreader-bar.md) / heavy [trolling](../techniques/trolling.md), future [kite](../techniques/kite-fishing.md) | Cameron's Fathom 80 |
 | **Diver-troll / American-series class** | ~6 ft, H, E-glass, 30–80 lb, single-speed lever | diver plugs, cedar/skirt on school grade | Cameron's TLD 20 (Seeker 660H) |
-| **Utility inshore / baitcast class** | ~8 ft, H, extra-fast, 20–45 lb | flyline or lures, inshore | Cameron's Tranx ([B-version upgrades](tackle-express-shimano-tranx-400b-reel.md)) |
+| **Utility inshore / baitcast class** | ~8 ft, H, extra-fast, 20–45 lb | flyline or lures, inshore | Cameron's Tranx |
 | **Bass class** (inshore bass; a.k.a. **bass casting / swimbait class**) | 7–9 ft graphite or graphite-composite, low-profile 200–300 reel, 30–65 lb braid; the **heavier bass class** variant runs 65 lb braid / 40 lb fluoro for the double rig / A-rig | [swimbaits](../techniques/swimbaits.md), slugs, weedless, and hard baits for calico / sand / spotted bay bass | — |
 | **Crank class** (crankbait class) | 8–10 ft limber big-bend rod, slow-retrieve 200-size reel | [inshore crankbaits](../techniques/inshore-crankbaits.md) | — |
 | **Finesse fly-line class** | 8–8.5 ft, 12–30 lb, small star-drag, big handle for vertical leverage | small live anchovy inshore — [flyline](../techniques/flyline.md), [sliding sinker](../techniques/sliding-sinker.md) (sand bass) | — |
@@ -285,7 +285,6 @@ does the lookup.
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
-- [Shimano Tranx 400B — SVS MDTune, Solid Core Body, and X-Protect (Tackle Express)](tackle-express-shimano-tranx-400b-reel.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
