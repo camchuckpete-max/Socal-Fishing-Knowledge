@@ -2319,7 +2319,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | eIAKA8Jgopk | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: unintelligible auto-caption fragments, no fishing content |
 | fHtTbZAWz1g | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: dock-interview chatter, no stated decisions/technique/gear/conditions |
 | fcdWAo0VAKw | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/flyline.md / added Observed tackle data point (40 lb test flyline, hook/brand ASR-hedged) |
-| g1C-FK6o4nA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| g1C-FK6o4nA | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: crew/staff bios and galley praise only, no fishing knowledge |
 | gQb_3MW6L9M | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | jH0q4UPjwC0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | jU7qi40WTzQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
