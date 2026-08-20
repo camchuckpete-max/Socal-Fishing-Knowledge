@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -259,6 +259,22 @@ isn't yet repeated doctrine).
   and landed a **130 lb fish** in 45 minutes — offered as proof that light
   line, fished with confidence, out-produces staying on heavy gear once a bite
   goes finicky.
+- **Bait-not-swimming stated directly for bluefin (Vince, Fisherman's Landing
+  Tackle Shop, via SearcherSportfishing "Tackle Tip Thursday Vol. 118 (Light
+  Line Fishing)," `icpm7gADxvU`, uploaded 2020-09-24; `searcher-sportfishing`
+  registered channel, single mention of this specific claim — medium
+  confidence):** when bluefin won't bite, sometimes the bait simply isn't
+  "swimming right on heavier lines" — drop the line weight so the bait looks
+  livelier and swims out, and the fish want to eat it. Working range for this
+  scenario: **20–25 lb test** against bluefin that can grade **40–60 lb** —
+  set the drag correctly and don't pull too hard; a well-finessed fish on
+  this light a line can still be led in and gaffed right at the boat. His
+  hook picks for this scenario — an **Owner Mutu Hybrid, size 2**, and a
+  small **J hook** over a circle hook, for baiting-speed reasons — are logged
+  with the rest of the style/product doctrine in
+  [hooks](../tackle/hooks.md#style--how-the-hook-sets). His stated marker for
+  a properly lively bait: it gets away from the boat fast; if it doesn't,
+  **a long soak still works.**
 
 ## Fishing it
 

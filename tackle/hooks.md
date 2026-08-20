@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU]
 confidence: medium
 ---
 
@@ -58,6 +58,16 @@ and why anglers reach for it.
   works. Kept side by side with, not reconciled to, the size-based 10-count
   circle / 3-count-small-J timing Cesar gives below — a different specific
   claim, not a contradiction.
+- **Baiting speed as a separate factor from the hookset mechanism (Vince,
+  Fisherman's Landing Tackle Shop, via SearcherSportfishing "Tackle Tip
+  Thursday Vol. 118 (Light Line Fishing)," `icpm7gADxvU`, uploaded
+  2020-09-24; `searcher-sportfishing` registered channel, single mention —
+  medium confidence):** for light-line bluefin bait fishing, a small J hook
+  goes on a lively bait fast — no need to scale the bait first — getting it
+  back in the water quickly. A circle hook, by comparison, has a smaller gap
+  from the point to the shank, making it "a little bit trickier" to hold the
+  bait and thread the hook through. This is a baiting-speed tradeoff, not a
+  restatement of the corner-of-mouth-hookset reasoning above.
 - **Why circle for bluefin specifically (Ray Sharifi, RfiC8sfIWTk, 2023-05-04;
   `ray-sharifi` registered, SoCal-capped — medium confidence):** a full-circle, slightly
   **offset** point is described as seating the hook right in the **corner of
@@ -277,6 +287,20 @@ and the **Mutu** hook logged above — a **thinner gauge**, stated to make the
 bait **swim better**. Comes both **ringed and unringed**. Stated use: tie it
 on and **flyline a sardine** — consistent with the thin-wire-for-live-bait
 rule under **Wire gauge**, above. No size given on camera.
+
+**Follow-up sighting, in retail stock and sized (Vince, Fisherman's Landing
+Tackle Shop, via SearcherSportfishing "Tackle Tip Thursday Vol. 118 (Light
+Line Fishing)," `icpm7gADxvU`, uploaded 2020-09-24; a tackle-shop employee
+naming his own shop's in-stock product — product/model endorsement, `low`
+confidence per the `searcher-sportfishing` sponsored-claim rule regardless of
+channel registration, same as the Fred Hall entry above):** roughly a year
+and a half after the Fred Hall product introduction above, the **Mutu
+Hybrid** is in stock and named as a favorite pick, **size 2**, for
+light-line bluefin bait fishing (20–25 lb test) when the bite is finicky —
+corroborating the product without adding a new wire-gauge or size-range
+claim beyond what Fred Hall gave. Full scenario in [flyline — line sizing &
+bite guard for finicky
+tuna](../techniques/flyline.md#line-sizing--bite-guard-for-finicky-tuna).
 
 ### Owner Ringed Flyliner — downsizing as the Coronado Islands bite improved (SearcherSportfishing, "Tackle Tip Thursday Vol. 23," `F9XjGMEvvag`, 2018-11-20; unregistered channel — medium confidence)
 

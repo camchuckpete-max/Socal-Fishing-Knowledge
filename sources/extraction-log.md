@@ -2172,7 +2172,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hlmDnAct1cA | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-retail-setup-high-end-vs-budget.md; species/bluefin-tuna.md; tackle/rod-and-reel-selection.md; tackle/searcher-lever-drag-reel-sizing.md / new low-confidence tackle note for a retail associate's high-end vs. budget bluefin reel/rod picks, linked from species router and two related tackle notes; fixed missing link-maintenance run |
 | hteLeDIy9Qs | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / added Fred/Secret Fishing Rods depth-tiered jig sizing, stretch-buffer leader reason, and don't-set-the-hook citation at medium confidence |
 | i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | done | none / 47s Turner's Outdoorsman house-brand rod-lineup promo — no decision logic, parameters, or SoCal-specific detail; correctly skipped |
-| icpm7gADxvU | SearcherSportfishing | tutorial | deep | pending |  |
+| icpm7gADxvU | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md; techniques/flyline.md / light-line bluefin bait scenario merged (J-hook baiting speed, bait-not-swimming rationale, Mutu Hybrid retail sighting); evaluator fixed a sponsored-claim confidence cap and cross-note duplication |
 | iqTN2IBRP1A | SearcherSportfishing | tutorial | deep | pending |  |
 | it_YYh_8Z-w | SearcherSportfishing | tutorial | deep | pending |  |
 | jDmHgRNnqhw | SearcherSportfishing | tutorial | deep | pending |  |
