@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate, flyline, sinker-bait]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0, jLFZIh15Fec]
 confidence: high
 ---
 
@@ -74,6 +74,49 @@ in [bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) target.
 - **Observed catch credited to this exact combo:** a **315 lb bluefin**, 59
   mi off Point Loma — full catch detail in
   [bluefin tuna](../species/bluefin-tuna.md#where--when).
+
+## 200 g Shimano Flat-Fall tackle tip — weight, color, leader, and gear (speaker not named on camera, "Tackle Tip Thursday Vol. 3," `jLFZIh15Fec`, uploaded 2018-07-12)
+
+`searcher-sportfishing` registered channel — mechanism/parameter content
+(weight framing, color-by-light, leader material, line/reel choice) reads
+**medium** confidence, single mention of this specific combination; the
+**Shimano** brand callout is a product endorsement and stays **low**
+confidence per this channel's sponsored-claim rule. This is the
+**earliest-dated** flat-fall entry in this note, predating the [Vol. 54
+SK/Nomad
+rig](#flat-fall-leader-rig--sk-250-g-vs-nomad-320-g-two-speed-outfit-speaker-not-named-on-camera-tackle-tip-thursday-vol-54-flat-falls-zkb13fnt6p0-uploaded-2019-06-27)
+below by about a year.
+
+- **Jig — Shimano Flat-Fall, 200 g**, described on camera as "the heaviest,
+  close to the heaviest that they make." Kept side by side, not reconciled:
+  later entries on this same channel show flat-fall weights well above 200 g
+  (a **300 g** worked example in the [2020-11-12
+  entry](#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
+  below, and the 2020-12-17 season-stocking tip in [knife
+  jigs](../lures/knife-jigs.md#the-class--models) recommending stock "up to
+  roughly 500 g") — read as the channel's own stocked lineup growing over the
+  two-plus years between these tips, not corrected here.
+- **Color:** the general daytime pick is a darker color — "the darker ones
+  work the best" — switching to **glow-in-the-dark specifically "before
+  daylight"** (pre-dawn/low light). No reason given for either pick beyond
+  this light-level framing, so logged as the stated decision without invented
+  reasoning. An earlier data point than, and consistent with neither side of,
+  the flat-fall glow conflict already logged in [knife jigs —
+  color](../lures/knife-jigs.md#color--mostly-angler-confidence-with-one-real-mechanism)
+  (Hansen: glow is "angler-confidence marketing, not a proven fish
+  preference"; Clarkson: glow is "the real secret") — this source scopes glow
+  to the pre-dawn low-light window specifically, rather than a blanket
+  always/never claim, so it isn't merged into either side.
+- **Leader — 100 lb fluorocarbon.** Stated reason: "so that you take the
+  abrasion portion of things out of it." Lighter than, and a different
+  material weight from, the **200 lb monofilament** and **200 lb
+  fluorocarbon** flat-fall leaders logged in the two later Searcher entries
+  below — kept side by side as this channel's own earliest data point, not
+  reconciled.
+- **Main line and reel:** "go heavy, eighty pound" on a **two-speed** reel
+  (no model named). Stated reason: "so that you have a chance to land one if
+  you hook a big one." No rod or jig-weight-ladder detail given beyond what's
+  above.
 
 ## Flat-fall leader rig — SK 250 g vs Nomad 320 g, two-speed outfit (speaker not named on camera, "Tackle Tip Thursday Vol. 54 (Flat Falls)," `ZKb13fNT6P0`, uploaded 2019-06-27)
 

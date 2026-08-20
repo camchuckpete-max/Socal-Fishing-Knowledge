@@ -2177,7 +2177,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | it_YYh_8Z-w | SearcherSportfishing | tutorial | deep | done | lures/dtx-minnow.md; species/wahoo.md / third source merged into DTX Minnow wahoo-trolling section and wahoo.md situations table; mechanism claim medium, endorsement stat low per registry caveat |
 | jDmHgRNnqhw | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md / Fred Brent's J-hook-vs-circle rationale and Mustad 94151 corroboration added; evaluator corrected confidence to low (product/model endorsement per registry) |
 | jJG6FWNXkok | SearcherSportfishing | tutorial | deep | done | none / skipped: promo for third-party fish-delivery courier service (Dock 2 Door), zero fishing knowledge content |
-| jLFZIh15Fec | SearcherSportfishing | tutorial | deep | pending |  |
+| jLFZIh15Fec | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/flat-fall-jigging.md / merged 200g flat-fall weight/color/leader/gear tip as 2018-07-12 dated entry; evaluator fixed a dead anchor link |
 | jQzOdmP0zoQ | SearcherSportfishing | tutorial | deep | pending |  |
 | jqyu3wZdNF4 | SearcherSportfishing | tutorial | deep | pending |  |
 | k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | pending |  |

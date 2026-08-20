@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -412,6 +412,15 @@ name):
     Not reconciled with Hansen's angler-confidence framing directly above —
     two attributed, opposed views on the same question, from two different
     single-mention-capped voices.
+  - **An earlier, narrower data point from the same channel (speaker not
+    named on camera, "Tackle Tip Thursday Vol. 3," `jLFZIh15Fec`, uploaded
+    2018-07-12; medium confidence):** darker colors are the general daytime
+    pick, switching to glow-in-the-dark specifically "before daylight"
+    (pre-dawn/low light) — no reason stated. Scopes glow to a specific
+    low-light window rather than taking either side of the Hansen/Clarkson
+    always-vs-never conflict above, so it isn't merged into either; full
+    entry in [Searcher big/giant tuna rig ladder — Vol.
+    3](../tackle/searcher-big-tuna-rig-ladder.md#200-g-shimano-flat-fall-tackle-tip--weight-color-leader-and-gear-speaker-not-named-on-camera-tackle-tip-thursday-vol-3-jlfzih15fec-uploaded-2018-07-12).
   - **The pelagic-red-crab rationale, expanded, one week earlier same
     channel/captain (Capt. Dave Hansen, Your Saltwater Guide, scmPq63lLWM,
     2021-05-18; dave-hansen registered voice — `high` confidence for the

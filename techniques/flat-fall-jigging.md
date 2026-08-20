@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -69,7 +69,11 @@ to reach for it is the reverse map in **Linked from** below.
   channel — see [Searcher big/giant tuna rig
   ladder](../tackle/searcher-big-tuna-rig-ladder.md#flat-fall-leader-rig--sk-250-g-vs-nomad-320-g-two-speed-outfit-speaker-not-named-on-camera-tackle-tip-thursday-vol-54-flat-falls-zkb13fnt6p0-uploaded-2019-06-27)
   — kept side by side, not reconciled, since the two videos give different
-  leader materials for the same style of rig.
+  leader materials for the same style of rig. An even earlier, lighter data
+  point from the same channel (2018-07-12) runs **100 lb fluorocarbon**
+  instead, reasoned as abrasion resistance — see [Searcher big/giant tuna rig
+  ladder — Vol.
+  3](../tackle/searcher-big-tuna-rig-ladder.md#200-g-shimano-flat-fall-tackle-tip--weight-color-leader-and-gear-speaker-not-named-on-camera-tackle-tip-thursday-vol-3-jlfzih15fec-uploaded-2018-07-12).
 - **Rod/reel example (product/model — low confidence, sponsored-claim
   caveat):** a **Penn Fathom 60, two-speed** reel paired with a **Seeker
   OSP** rail rod (captioned "3 to 1" — asr-uncertain, plausibly the same
