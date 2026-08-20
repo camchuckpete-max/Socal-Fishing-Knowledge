@@ -1158,6 +1158,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [May](../seasonal/may.md)
 - [Moon](../conditions/moon.md)
+- [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

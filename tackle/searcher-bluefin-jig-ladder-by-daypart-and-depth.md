@@ -208,6 +208,9 @@ placement conflicts across sources are tracked in
   same 300–400 ft "big ones down deep" framing.
 - [Knife / speed jigging](../techniques/knife-jigging.md) — execution
   mechanics for the vertical/speed-jigging styles named above.
+- [Tackle Express — night bluefin TG-jig rig](tackle-express-night-bluefin-tg-jig-rig.md) —
+  a differently-sourced reel/metered-line/leader ladder for the same night
+  bluefin jig problem, for tungsten TG jigs specifically.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -215,6 +218,7 @@ placement conflicts across sources are tracked in
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

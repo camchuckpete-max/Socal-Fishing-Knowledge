@@ -231,6 +231,9 @@ whether a bite converts.
   100-ft product — Izorline's multicolored Spectra (six colors, 100 ft
   each) — and its count-the-colors worked example are in
   [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#daytime-rig-ladder-by-grade-capt-matt-sd-fish-and-sips).
+  A second named 100 ft-metered product, plus a full reel/line/leader ladder
+  for tungsten TG jigs specifically, is in
+  [Tackle Express — night bluefin TG-jig rig](../tackle/tackle-express-night-bluefin-tg-jig-rig.md).
 - **Corroborating framing — depth control as the single biggest beginner
   mistake (Steve Carson panel, PCS Show 2024, `UP_3fBu7VPA`, 2024-03-20;
   unregistered channel/speakers — medium confidence):** the panel calls
@@ -708,6 +711,7 @@ are logged in
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
