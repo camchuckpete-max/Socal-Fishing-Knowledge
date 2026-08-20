@@ -37,6 +37,7 @@
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
 - [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 <!-- index:end -->
 
@@ -44,5 +45,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 34 notes exceed the 30-node cap._
+_Map skipped: 35 notes exceed the 30-node cap._
 <!-- mermaid:end -->

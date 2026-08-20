@@ -832,6 +832,9 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 
 - [Hook assortment by trip length](hook-assortment-by-trip-length.md) —
   overnight through 5–6 day pack, sized by species and bait.
+- [Charter bait-tank hook & leader kit (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) —
+  a sibling checklist, sized by whatever bait shows up in the tank rather than
+  by trip length.
 - [Offset hooks](offset-hooks.md) — what offset means and why anglers use it,
   on both circle and J hooks.
 - [Fishing live bait](../bait/fishing-live-bait.md) — nose/collar/butt hooking and
@@ -852,6 +855,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

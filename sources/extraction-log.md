@@ -2374,7 +2374,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 3-0kaaHqA7A | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-night-bluefin-tg-jig-rig.md; tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md; techniques/knife-jigging.md / new tackle note (reel/metered-line/leader/depth ladder for night TG-jig bluefin) cross-linked from knife-jigging and the Searcher jig-ladder note |
 | 3dyEQhMnPMU | Tackle Express | tutorial | parameter-skim | done | none / skipped: 36s clip, ASR-garbled/unidentifiable bait name, freshwater bass content, no SoCal/Baja saltwater relevance |
 | 3n18taJWNEQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: 60s fragmentary auto-captioned short, no SoCal-specific content, generic 'keep a bend in the rod' advice only |
-| 3xx_vES0kdo | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3xx_vES0kdo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-charter-bait-tank-hook-kit.md; tackle/hook-assortment-by-trip-length.md; tackle/hooks.md / new bait-tank-framed hook/leader checklist note, cross-linked, faithful to transcript |
 | 3z1KZ_kIaec | Tackle Express | tutorial | parameter-skim | pending |  |
 | 41d5bquXkAc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 46kVgZ6P62M | Tackle Express | tutorial | parameter-skim | pending |  |

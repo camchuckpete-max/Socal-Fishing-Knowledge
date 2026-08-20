@@ -550,6 +550,7 @@ able to break off** (aXF0bxAFtU0):
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)

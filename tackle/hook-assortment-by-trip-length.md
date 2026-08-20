@@ -73,6 +73,9 @@ set, not a claim that a given brand is required.
 
 - [Hooks — Style, Size, and Matching to Bait](hooks.md) — the underlying
   circle-vs-J and bait-sets-the-size doctrine this pack applies.
+- [Charter bait-tank hook & leader kit (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) —
+  a sibling checklist, sized by whatever bait shows up in the tank rather than
+  by trip length.
 - [Rubber-Band Deep Rig (sinker rig)](../rigging/rubber-band-deep-rig.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
@@ -81,6 +84,7 @@ set, not a claim that a given brand is required.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](../planning/trip-length-selection.md)

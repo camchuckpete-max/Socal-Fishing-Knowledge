@@ -496,6 +496,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
