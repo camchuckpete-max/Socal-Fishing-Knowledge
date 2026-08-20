@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -186,6 +186,22 @@ light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the h
 breaking the surface is when they go zero-to-100 and throw the hook. For the
 gaff shot itself — hook size (a **3-in hook on a ~6-ft gaff** covers halibut up
 to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.md).
+
+- **"Keep them asleep" — the stated reason for the light-drag rule (Tackle
+  Express, `1l05hEXDaWw`, 2026-02-05; unregistered channel, single mention —
+  medium confidence):** run a **light drag with steady, constant tension**
+  through the fight rather than pumping. His stated mechanism: a halibut that
+  stays under light, steady pressure doesn't get the abrupt slack/shock moment
+  that triggers a hard head-shake ("freak out"); steady tension keeps the rod
+  bent and the whole system under elastic load, which is what keeps the hook
+  from working loose when the fish does shake. Called out as **especially
+  important fishing minnow-style hard baits with small trebles**. He frames
+  the halibut's characteristic take as a telltale itself: a heavy, uncertain
+  pull that suddenly does "that thing" (the head-shake) is how you know
+  it's a halibut. This is the same light-drag, no-pumping doctrine above, sourced independently
+  with the added why; it applies as much to the hard-bait presentations in
+  the situations table above (Lucky Craft, HookUp Baits) as to bait rigs,
+  since those use smaller trebles than a trap rig's stinger.
 
 ## Gear summary (class terms)
 
