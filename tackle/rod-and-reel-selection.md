@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg]
 confidence: medium
 ---
 
@@ -765,152 +765,14 @@ cushioning, and line-agnostic cases** — the full logic and the rod-tip elevati
 rule are in [trolling](../techniques/trolling.md); per-lure specs live in the lure
 notes.
 
-## Drag setting (general judgment)
+## Drag setting
 
-Cross-technique judgment on setting and running the drag, demonstrated on a
-yo-yo/live-bait charter (Scotty, Brothers Sportfishing, via Roman Castro,
-VpW91AKOFVQ, 2020-01-28; capt-scotty-brothers registered — high confidence):
-the stated rule is to set the drag correctly whatever you're fishing, jig or
-live bait.
-
-- **Target roughly a quarter to a third of your lowest line-class rating.** On
-  a rod spooled with 65 lb braid backing to a 40 lb mono top shot, 40 lb is
-  the limiting class: a quarter of 40 is 10 lb, a third is ~13 lb, so the
-  target strike drag sits **~10–13 lb**.
-- **Start on the light end of that range, not the heavy end** — an over-tight
-  drag popping the line the instant a fish comes tight is a common, avoidable
-  mistake. If a hooked fish isn't giving up line while you're cranking (a
-  stalemate, not gaining), bump the drag up **one click at a time** until
-  you're gaining again; if the fish makes a hard run, let the drag do its job
-  rather than clamping down on it.
-- **Feel-test:** palm/hold the spool and try to crank against it — with time
-  on a given reel you learn what that resistance should feel like for a given
-  drag number; there's no substitute for testing it by hand before you're
-  tight to a fish.
-
-### A second attributed method — pull test by hand, no scale (Dave Hansen, Your Saltwater Guide, o8vLdz7OmaE, 2022-02-25; dave-hansen registered — medium confidence, first commit of these specific claims pending repetition)
-
-A different, purely feel-based way to arrive at the same target — kept side by
-side with Scotty's numeric fraction-of-line-class rule above rather than
-merged in:
-
-- **Grab the line above the reel and pull it by hand.** If it comes off too
-  easily and doesn't bite into your hand, take a couple more clicks and pull
-  again; repeat until the line comes off **steadily but not easily, without
-  cutting into your hand** — that's proper. No scale needed.
-- **Simulate the strike before you fish it:** have a second person pull hard
-  on the line like a hooked fish while you watch/feel the rod tip. If the line
-  still peels off the reel under that hard pull and it feels smooth, the drag
-  is set; if the line barely moves and the rod tip is loading up with heavy
-  torque instead, it's too tight — back off a click or two.
-- **Keep re-testing by hand through the fight**, not just at hookup: drag can
-  heat up and get sticky after a fish's initial hard run, especially
-  depending on how often the reel gets used. Periodically pull the line by
-  hand mid-fight to feel whether it's still giving smoothly; if a hard crank
-  produces no give at all, back it off a hair immediately — **a drag with no
-  give left in it will break the line every time.**
-- **Never use your thumb on the spool as a substitute drag** — called out as
-  the worst habit an angler can have.
-- Demonstrated on his own setup as an example, not a general parameter: 40 lb
-  braid to a fluorocarbon top shot (40 lb, or sometimes 30 lb).
-
-**Star drag vs. lever/two-speed drag — adjustability during the fight
-(mechanism, same source):** a star drag can be fine-tuned a click at a time
-throughout a fight, which is why Hansen prefers star drag reels generally. A
-two-speed lever-drag reel is "almost impossible" to fine-tune mid-battle
-because adjusting it means working the lever back and forth rather than a
-quick click — most anglers fish two-speed lever-drag gear regardless, so the
-workaround on a lever-drag reel is the same hand-pull re-test above rather
-than continuous lever micro-adjustment. This is about drag adjustability
-*during a fight*, not the star-drag-for-casting/free-spool reasoning
-documented elsewhere in this note (Cesar, above) — a related but separate
-argument for the same reel type.
-
-**Left-hand-forward hand position (same source):** fighting a fish on a
-conventional reel, the left hand (line-guiding hand) belongs **in front of
-(above) the reel**, cranking hand on the handle, thumb guiding line back and
-forth — never behind the reel with the thumb on the spool. Two stated
-reasons: (1) **leverage** — a hand positioned in front of the reel has more
-leverage than one braced behind it; (2) **line-guiding reach** — from behind
-the reel, the thumb can't reach over the top of the spool to guide the line
-as it lays on; a forward hand can. Framed as universal practice among
-experienced sportboat captains and professional anglers, not a SoCal-specific
-rule. The forward hand position is also what makes the hand-pull drag re-test
-above practical mid-fight — the line-guiding hand is already positioned to
-grab and pull the line.
-
-### A third attributed method, plus a spool-diameter drag trap (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
-
-Corroborates the quarter-to-a-third weakest-link rule above (his target is
-the lighter end, **25%**, versus a stated ceiling of **33%**) and adds a
-mechanism not otherwise logged here — full rig context in
-[bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md):
-
-- **Setting method:** starting from the reel's **free-spool** position (drag
-  lever backed all the way off), roll the drag lever forward by feel —
-  pulling the line by hand — until it's close, then confirm with a drag
-  scale. (Distinct from the spool-fill-level trap below — this is about the
-  drag lever's starting detent, not how much line is on the spool.)
-- **Spool diameter changes effective drag as line pays out (mechanism):**
-  dropping a jig 400 ft down can already leave a spool a quarter to a third
-  empty; if the hooked fish then runs another 100–200 yd, the spool can end
-  up two-thirds empty **without the drag lever being touched** — and a
-  smaller-diameter spool turns the same lever setting into materially higher
-  actual drag. A drag correctly set at hookup can be dangerously tight by the
-  time a deep-hooked fish has taken a long run. Re-check (or back off) drag
-  after a long run on a rig that started deep or has spooled down a lot,
-  rather than trusting the initial setting through the whole fight.
-
-### A physical drag-scale tool — long-range tip (Logan, SearcherSportfishing, `-hY20bxz3oM`, 2021-07-08; unregistered channel/speaker, single mention — medium confidence)
-
-A practical add-on to the "confirm with a drag scale" step above (Steve
-Carson), not a competing method: a **spring-scale drag setter**, framed as a
-long-range-fishing must-have but which the speaker says he brings "on any
-trip," lets an angler dial the drag to an exact number instead of guessing
-between round figures ("not getting 15 pounds, 25 pounds") — the tool that
-makes hitting a specific strike-drag target (the ~10–13 lb / 25–33%-of-line-
-class figures above) precise rather than by feel alone.
-
-- **Tie on a ~1.5 ft length of rope** so the scale can be lashed to the boat's
-  rail and moved corner to corner as needed, rather than set down loose.
-- Cited as widely available — Amazon, Big 5, general sporting-goods stores —
-  for roughly **$20–30**.
-
-### Ready position on the drop — index-on-spool, thumb-on-trigger (Your Saltwater Guide, F0g5r9Rkrd4, 2022-02-14; presenter-inferred as Dave Hansen, the channel host narrating over deckhand footage — no diarization, attribution inferred; dave-hansen registered — `high` confidence for the grip itself: a second Your Saltwater Guide video, the dropper-loop deploy walkthrough in [dropper loop](../techniques/dropper-loop.md) (OIqdmhKfuOc, 2021-03-30), repeats the same index-on-spool/thumb-on-trigger, left-hand-forward grip)
-
-A companion hand-position habit to the fight-time grip above, for the moment
-**before** you're hooked up — dropping bait to the bottom and staying ready
-for the bite:
-
-- **Grip while free-spooling down:** **index finger resting on the spool**
-  (controlling/feeling the line pay out), **thumb on the reel's trigger/bar**
-  (the lever that snaps the reel back into gear) — not the "backwards,
-  sideways, and upside down" grips (thumb pinning the spool, other hand
-  planted behind the reel) the source calls out as the common mistake.
-- **On the drop, stay in that grip the whole way down** so the instant the
-  sinker/bait hits bottom you can **snap straight into gear** — hand already
-  wrapped around the reel, thumb on the trigger, ready the moment it lands
-  rather than fumbling for the lever after you feel bottom.
-- **Wind to the bite:** once in gear, keep winding (taking up any slack /
-  working the presentation) rather than sitting slack-lined waiting.
-- **Wind-hookset, not a big swing:** on the bite, **turn the handle to wind
-  the fish on** rather than swinging hard for the hookset — "that's the key
-  to setting the hook." A couple of additional hook-sets can follow once
-  you're already winding tight, but the winding is what actually pins the
-  hook, not the swing.
-- **Cycle back to free spool between drops:** back into free spool, back down
-  to the bottom, snap into gear the instant it hits, hand back on the handle
-  — repeat. Demonstrated on a sinker-rig/bait-to-bottom presentation, not
-  casting or jigging.
-- **Framed as regional practice, not a universal rule:** stated explicitly as
-  how **conventional-reel** anglers fish bait on the West Coast/SoCal
-  sportboat fleet, contrasted with East Coast anglers who are "all spinning
-  reels" — "doesn't mean we're right, doesn't mean you're wrong."
-
-**Related grip doctrine for a rail-fished live bait rather than a dropped
-sinker rig** — same thumb-on-lever-ready-to-engage principle, plus which
-hand holds the rod and how to feed line with the bait already in the water —
-is in [rod handling for live bait](../techniques/rod-handling-live-bait.md).
+Cross-technique parameters and judgment for setting and running the drag —
+target fraction of line-class rating, hand-feel setting methods, mid-fight
+re-testing and correction, a physical drag-scale tool, and the free-spool
+ready-position grip on the drop before the bite — **spun out to its own note**
+as this section outgrew the ~120-line guideline: see
+[drag setting](drag-setting.md).
 
 ## Spinning-reel live-bait feeder
 
@@ -937,7 +799,7 @@ a bluefin).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
-- [Dropper Loop](../techniques/dropper-loop.md)
+- [Drag Setting — General Judgment](drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

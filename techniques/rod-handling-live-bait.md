@@ -40,7 +40,7 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
   spool. Thumbing the spool to control bait going out is the habit this
   corrects — see the general free-spool grip (index finger on the spool,
   thumb on the reel's trigger/lever) already logged in
-  [rod & reel selection](../tackle/rod-and-reel-selection.md).
+  [drag setting](../tackle/drag-setting.md).
 - **Backpedal a bait that isn't swimming well.** Work the rod to walk the
   bait back toward the boat a little rather than leaving it dead in the
   water — described as a way to get the bait to "turn around and go back
@@ -75,9 +75,9 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
 ## Linked from
 
 - ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
+- [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
-- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->

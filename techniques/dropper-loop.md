@@ -205,7 +205,7 @@ OIqdmhKfuOc, 2021-03-30).
   Hansen rock-cod gangion build below uses. This also corroborates the
   index-on-spool/thumb-on-trigger ready position already logged from a
   different Your Saltwater Guide video in
-  [rod & reel selection](../tackle/rod-and-reel-selection.md) (F0g5r9Rkrd4) —
+  [drag setting](../tackle/drag-setting.md) (F0g5r9Rkrd4) —
   same grip, but that note's hookset is **wind-only, no swing**, while this
   video calls for an active two-crank-and-lift set (see Hookset below); the
   grip repeats, the hookset does not — kept side by side rather than
@@ -398,6 +398,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
+- [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)

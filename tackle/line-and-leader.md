@@ -95,8 +95,8 @@ actually want to know:
   a drag set correctly at the surface reads tighter once you're fishing deep
   into the spool, so the deeper you're fishing, the lighter your strike-drag
   setting should be. This corroborates, from a second source, the
-  spool-diameter drag trap already logged in the "drag setting" section of
-  [rod & reel selection](rod-and-reel-selection.md) (Steve Carson, Penn) and
+  spool-diameter drag trap already logged in
+  [drag setting](drag-setting.md) (Steve Carson, Penn) and
   in [slow-pitch jigging](../techniques/slow-pitch-jigging.md#fighting--landing-light-tackle)
   (Benny Ortiz).
 

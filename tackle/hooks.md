@@ -35,7 +35,10 @@ and why anglers reach for it.
 - **Circle** is the default live-bait hook offshore because it does the work for
   you — the water's tension alone drives it into the jaw hinge, which is why
   long-liners and commercial rock-cod guys use them. Nose-hook the bait and just
-  come tight. It's forgiving of anglers who never feel the bite.
+  come tight. It's forgiving of anglers who never feel the bite. Because there
+  is no manual hookset to fall back on, the drag has to be doing its job for
+  this to work — see [drag setting](drag-setting.md), which calls a correct
+  drag setting "an absolute key" specifically for circle-hooked larger tuna.
 - **J** wins where a circle can't get a good angle. **Dorado run straight at the
   boat**, killing the corner-of-mouth geometry a circle needs — switch to a J and
   set (sWRSYCmt4Tw). J hooks are also the pick for islands yellowtail, long-range,
@@ -668,6 +671,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)
 - [Chunking](../techniques/chunking.md)
+- [Drag Setting — General Judgment](drag-setting.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

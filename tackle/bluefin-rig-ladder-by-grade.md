@@ -408,9 +408,9 @@ that channel's own multi-video progression in one place.
   reasoning that you can always advance the lever toward full for more drag
   once the fish's initial hard running run is over. Corroborates, without
   adding a new number beyond, the quarter-to-a-third rule already logged in
-  [rod & reel selection — drag setting](rod-and-reel-selection.md#drag-setting-general-judgment).
+  [drag setting](drag-setting.md).
 - **A scope-shift trap — spool diameter changes effective drag (mechanism,
-  not yet logged elsewhere in this KB):** dropping a jig 400 ft down can
+  same source, also logged in [drag setting](drag-setting.md)):** dropping a jig 400 ft down can
   already put a reel a quarter to a third empty; if the hooked fish then runs
   another 100–200 yd, the spool can end up **two-thirds empty** with the
   drag lever never touched. A smaller-diameter spool multiplies the same
@@ -522,11 +522,11 @@ between the two talks.
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Drag Setting — General Judgment](drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
-- [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)

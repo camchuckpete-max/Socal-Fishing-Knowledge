@@ -88,9 +88,13 @@ following more detailed, application-specific entries already in this KB:
   [Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md) — the
   two-speed-lever-drag-for-bluefin application this note's closing line
   points to.
+- [Drag setting](drag-setting.md) — the mid-fight drag-adjustment practice
+  (free-spool, bump the setting up, back to strike) that puts the lever
+  drag's on-the-fly adjustability, named above, into practice.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Drag Setting — General Judgment](drag-setting.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->
