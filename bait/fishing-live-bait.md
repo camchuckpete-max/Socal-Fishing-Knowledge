@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -483,6 +483,21 @@ cast](../techniques/live-bait-pendulum-cast.md).
   once-a-minute claim above — not reconciled into one number, kept as a
   further attributed data point on the same underlying discipline (a bait's
   effectiveness drops the longer it soaks unfished).
+- **A fourth stated cadence, for a soaking sinker-rig or fly-lined bluefin
+  bait rather than an actively-worked one (Captain Art, SearcherSportfishing,
+  "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** typical change interval is **two to four minutes**, but on a
+  long soak — bait cast well out from the boat, fished over a school the boat
+  has been holding on for a while — it can be worth leaving a bait out
+  longer, up to **six to eight minutes**, if it's still swimming when
+  checked. Framed as a trade-off, not a free extension: the longer a small
+  sardine drags a rigged hook and line behind it, the weaker it gets, so
+  **six or seven minutes** was called the practical upper limit even on a
+  good long-soak day. A slower, soak-oriented cadence than the 60-second and
+  once-a-minute figures above — those describe an actively cast-and-retrieved
+  or freshly-baited presentation, this describes line already out and
+  settled, so the two are kept side by side rather than reconciled.
 
 ### Bait-selection tells and hold-time (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention of these specific tells)
 

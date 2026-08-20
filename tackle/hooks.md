@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI]
 confidence: medium
 ---
 
@@ -270,6 +270,24 @@ Framed there as part of the reason to carry an assortment of both circle and
 J hooks in the box rather than one fixed size per species/bait. A second,
 independent same-channel data point for this specific claim, now repeated
 doctrine.
+
+**Third, independent corroboration, with a concrete worked example (Captain
+Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`,
+2021-01-14; `searcher-sportfishing` registered channel — now repeated a third
+time by this channel, `high` confidence):** restates the same rule as an
+explicit either/or choice — "our recommendation would be just go down and
+hook size, don't go down in line class" — and gives a concrete example: a
+1/0 circle hook stepped down to a No. 1 circle hook when bites aren't coming,
+changing the bait's presentation slightly without sacrificing the heavier
+line needed to actually land the fish. States the reasoning explicitly for
+the first time in this group: fishing line too light "just to get a bite"
+wastes the trip, because a hooked fish that size can't be landed on
+under-gunned line — "you're gonna flag a fish for two hours." **Tanner Bank
+data point:** referenced on camera as "last year," resolved from the
+2021-01-14 taping date to the **2020** season — a season with 40–60 lb
+bluefin at Tanner Bank, the crew found a smaller hook size got bit better
+than a larger one **regardless of bait size** — a bait-independent
+finicky-bite lever distinct from the bait-sets-the-hook-size doctrine above.
 
 ### Wire gauge
 

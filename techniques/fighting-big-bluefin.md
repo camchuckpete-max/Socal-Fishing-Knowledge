@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation, great-white-shark, guadalupe-island]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ, FXWOIB0TPfE]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ, FXWOIB0TPfE, shZCjX2-fkI]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -572,6 +572,29 @@ rods come tight on big bluefin together.
   calls "a big giant mess." Kept beside, not folded into, the boat-driven
   fighting doctrine above — this is a program-level rule about how many
   lines to fish, not about how to fight the one that's on.
+
+## Rod-belt timing — a common way to lose a fish before the fight even starts (Captain Art, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+- **The failure mode:** on the bite, an angler rushes to get the rod seated in
+  a rod belt *before* winding down and coming tight to the fish — while doing
+  that transfer, slack forms and the hook never fully sets, costing the crew
+  fish they see lost specifically in the gap between the bite and the belt.
+- **The fix:** get the line tight and the hook set first — wind down, come
+  tight, keep fighting the fish hand-held — and only then, once the fish is
+  hooked and the angler is already winding on it, take the moment to seat the
+  rod in the belt. A rod belt still gets used on this program's bigger
+  bluefin; it's the order of operations that matters, not whether to use one.
+- **Pre-load the belt during the soak, not after the bite:** for an angler who
+  plans to fish a belt, put it on **before** the bite — while a bait is still
+  soaking on the line — rather than searching for a belt and getting it on
+  after a fish is already hooked.
+- **Rail-rod context:** this program fishes a lot of its big bluefin on
+  **rail rods**, reported as producing more success than the belt/harness
+  style overall — consistent with, not new beyond, the beltless rail-rod
+  fighting style already logged in this note (see
+  [Reach for this when](#reach-for-this-when) and the rail-rod fighting
+  sections above); a rod belt remains an angler's own comfort choice on top
+  of that style, not a requirement.
 
 ## Common failures
 

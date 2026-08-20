@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ, lf3S28nh-kk]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ, lf3S28nh-kk, shZCjX2-fkI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -373,6 +373,29 @@ leaders are sold aboard or can be brought pre-tied. Full session context —
 this same seminar's flat-fall, Colt Sniper, and kelp-paddy yellowtail
 outfits — is in [Searcher spring bluefin/yellowtail
 quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-supplied-or-bring-your-own).
+
+## An earlier boat-rental kite outfit, and a budget framing for personal reels (Captain Art/Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel — medium confidence, single mention of this specific outfit)
+
+- **Rental kite outfit, as of this 2021 spring-trip briefing:** a **7 ft
+  graphite Calstar 770XH** rail rod paired with a **Shimano Talica 25**
+  two-speed reel spooled with **80 lb** line, offered as Fisherman's Landing
+  rental gear — an earlier-dated citation than, and a lighter-braid-capacity
+  outfit than, the three-Accurate-ATD-50/Seeker-2x4 kite program and the
+  Shimano Tiagra 50 Wide citations already logged above; kept side by side as
+  a further boat-supplied kite-outfit data point, not reconciled to one rig.
+- **Minimum for a personal kite outfit, if not using the boat's:** an
+  **80-lb-class two-speed reel** at minimum — framed as the floor rather than
+  the ideal, in range with the "100 lb top shot on a big, heavy rail rod"
+  personal-outfit minimum already logged above from a different citation.
+- **Reel picks framed by budget, not performance:** asked for kite-reel
+  recommendations, the stated options split into two tiers — a higher-end
+  ("Ferrari") tier naming **Accurate** (twin-drag) and **Shimano
+  Talica**-class reels, and a workhorse ("Ford F-150") tier naming **Penn
+  International** two-speeds (50 Wide and a 60 lb-class model) and the
+  **Shimano Tiagra**; **Okuma Makaira 30** was also named as a further option
+  without being placed in either tier. Framed as a spend-vs.-durability
+  choice rather than a strength/capability difference — all of the named
+  reels are called adequate for the job.
 
 ## Common failures
 

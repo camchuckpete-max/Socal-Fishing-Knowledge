@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk, shZCjX2-fkI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -108,6 +108,45 @@ to reach for it is the reverse map in **Linked from** below.
   low confidence). Stock assist hooks on this jig class wear out and are
   routinely upgraded — see [assist
   hooks](../rigging/assist-hooks.md#stock-flat-fall-assist-hooks-wear-out--upgrade-and-size-to-the-grade-of-fish-art-taylormike-searchersportfishing-via-turners-outdoorsman).
+
+## Weight by sea state, a bigger-fish/bigger-teeth leader rule, and hook configuration (Captain Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel — medium confidence, single mention of these specific reasons)
+
+- **Weight step keyed to wind/chop, not just bite depth — a second, earlier-
+  dated data point for the same go-heavier-in-wind principle logged above:**
+  worked example is a **250 g** flat-fall vs. a **150 g** flat-fall. In wind
+  or chop, the boat drifts faster, so a 150 g lure **doesn't sink fast
+  enough** to reach the bite zone before the drift carries it past the fish;
+  the 250 g gets there reliably. Bite zone given here as **as deep as 250 or
+  300 ft** — in range with, not new beyond, the 240–360 ft sounded-depth data
+  point already logged in [bluefin tuna — finding
+  them](../species/bluefin-tuna.md#finding-them-sign--sonar) from a later
+  citation on the same channel.
+- **Leader — a stated reason tied to fish size, not given elsewhere in this
+  note:** **200–400 lb monofilament, about 30 in.** The stated reasoning: as
+  bluefin cross roughly **50–60 lb**, their teeth get bigger, and a lighter
+  leader (his example: **60 lb**) risks abrasion if a big fish fully engulfs
+  the lure deep in its mouth — heavier mono removes that abrasion risk from
+  the equation entirely. Consistent in direction with, and gives an explicit
+  mechanism for, the 200 lb mono/fluoro leader figures already logged above
+  from other citations on this channel.
+- **Hook configuration — several options, all workable:** dual hooks off the
+  tail, off the nose, or both; a **chandelier rig** (two hooks hanging off
+  the top, two down below); or a **single big J hook** down below. No one
+  configuration is preferred over the others on camera.
+- **Factory hooks sometimes undersized — check and upsize:** if a purchased
+  flat-fall's stock hooks look small, the stated advice is to check with the
+  boat's crew, since this program has swapped factory hooks on some models
+  for bigger ones to improve landing rate on bluefin — an earlier, less
+  specific data point for the same stock-hooks-get-upgraded doctrine already
+  logged above from the Vol. 147 citation.
+- **Treble hooks — swap to single for tuna:** treble hooks run smaller than a
+  comparable single hook; the stated recommendation is to swap a factory
+  treble for a single hook specifically when fishing a flat-fall/knife-jig
+  lure for tuna.
+- **Incidental species on the same lure:** flat-falls have also landed
+  yellowfin tuna, yellowtail sitting deep on kelp paddies, and — fished too
+  deep in shallow water — rockfish; not the target species this note is
+  built around, but confirmation the lure isn't bluefin-specific.
 
 ## A named pre-rigged lure, 320 g, and a fluorocarbon leader — a conflict with the mono-leader doctrine below (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly the same Capt. Art Taylor named by full name elsewhere in this note, not confirmed by surname in this transcript — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
 

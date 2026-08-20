@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ, riEkdu8PEds, eehDVb6_GoI]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ, riEkdu8PEds, eehDVb6_GoI, shZCjX2-fkI]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
@@ -454,6 +454,24 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   are given on camera. Fight-fatigue handling (handing the rod to a
   teammate) from the same fight is logged in
   [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+- **A cold-water data point tied to a January sighting, not a spring reading
+  (Art/Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna,"
+  `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel —
+  medium confidence, single mention):** bluefin are framed on camera as a
+  **cold-water fish**, "around right now" — i.e., as of this January 2021
+  taping, referencing the schools sighted near San Martin Island about 10
+  days earlier per the same segment — contrasted with the "elephant tuna"
+  (on-camera term, plausibly giant yellowfin per common San Diego
+  long-range usage, not confirmed by this transcript alone), which the
+  speaker says historically don't show until later once the water has
+  warmed further. The water-temperature figure given is for that **January**
+  presence, not a spring reading: **63–65 °F**, "where they were catching
+  the fish" at the time. Used on camera to justify starting the spring
+  trip season earlier than usual, not as a spring-water-temperature data
+  point itself — kept beside, not reconciled with, the 76 °F warm-side data
+  point immediately below and the 70–72 °F preferred-range citation further
+  below, since all three describe different moments/sources rather than one
+  temperature curve.
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
@@ -468,6 +486,15 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   bluefin windows; late-November day windows tie to the **new moon**. On the
   moon, open-water fish travel at night and relocate — treat absence of reports
   as coverage bias, not absence of fish ([moon](../conditions/moon.md)).
+  **A stated uncertainty, kept beside this doctrine rather than folded into
+  it (Captain Armando, SearcherSportfishing, `shZCjX2-fkI`, 2021-01-14;
+  `searcher-sportfishing` registered channel — medium confidence):** asked
+  directly whether moon phase affects the bluefin bite, the on-camera answer
+  was that it's inconsistent trip to trip — sometimes a full moon produces a
+  dark-hours bite, sometimes it doesn't — and that no reliable pattern had
+  been worked out despite "a lot of people [having] different theories."
+  Recorded as an attributed non-finding, not evidence against the
+  days-leading-into-full-moon doctrine above.
 - **Night bite clock-time windows, one captain's read for the season
   (Observed, StokedOnFishing, `LsFMBCa9DOQ`, Captain Jake Hensley, Ranger 85,
   Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered

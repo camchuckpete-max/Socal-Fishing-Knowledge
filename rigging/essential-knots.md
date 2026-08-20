@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4, zkA1jqHXXD0, lf3S28nh-kk]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4, zkA1jqHXXD0, lf3S28nh-kk, shZCjX2-fkI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -208,6 +208,30 @@ fluoro leader, braid main line — and feed the terminal rigs in
     session context (outfits, Colt Sniper leader spec, and the companion
     San Diego jam citation) is in [Searcher spring bluefin/yellowtail
     quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#knots-used-this-session).
+  - **A leader-length rule tied to rod/reel geometry and hook-retie economy,
+    a different reasoning than the guide-clearance rule above (Captain
+    Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna,"
+    `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel —
+    medium confidence, single mention of this specific reasoning):** ties the
+    same doubled-overhand mono-to-fluorocarbon connection ("pass it through
+    that loop three times... take both of your tag ends... get that knot nice
+    and tight") for a **live-bait sinker rig or fly-lined bait**, and gives a
+    stated finished-leader length of **4 to 5 ft**, longer than the ~2.5–3 ft
+    figure above. Two stated reasons for going longer rather than shorter:
+    (1) a longer leader lets one piece of fluorocarbon be **re-tied with a
+    fresh hook multiple times** — standard practice is to retie the hook
+    after every fish landed — without needing a whole new leader each time,
+    which is also more economical since fluorocarbon is expensive; (2) the
+    **mono-to-fluoro knot itself must never pass through the rod's guides**
+    on the cast, since a bulky knot hitting the guides costs cast distance —
+    worked example: on a **7 ft rod** with the reel seated **18 in** above
+    the butt, a **5 ft leader** keeps the finished connection **8–12 in
+    below the rod tip**, comfortably clear of the guide train. A distinct,
+    rod-length-driven version of the same too-long-hits-the-guides caution
+    that produces the shorter ~2.5–3 ft figure above — kept side by side,
+    not reconciled, since the two entries scale the leader to different
+    things (guide-train tip-guide size there vs. this rod's specific
+    reel-seat-to-tip geometry here).
   - **A fourth, same-channel entry, closest in mechanic to the two earliest
     clips above (SearcherSportfishing, Tackle Tip Thursday Vol. 133,
     presenter Ryan, `UfuQr6gOIk8`, 2021-01-07; unregistered channel/speaker —

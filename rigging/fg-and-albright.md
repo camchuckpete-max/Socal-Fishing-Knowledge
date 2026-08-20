@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [fg-knot, albright, modified-albright, braid-to-leader, connection-knot, casting]
-sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o, 5472APCgym8, Bn9fRKUmQ-U]
+sources: [CIMTyepgonk, NXtvXkqpT9w, -BO1lMCTamg, 2fwj24S9S-o, 5472APCgym8, Bn9fRKUmQ-U, shZCjX2-fkI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -100,6 +100,21 @@ system: braid main line, fluoro or mono leader.
   into a tight barrel shape. Trim tags close. Same up-then-down-through-loop
   structure as the 10-wrap method above, just with a looser wrap count and an
   explicit wet-before-final-cinch step.
+- **Albright variant — 6–7 down / 6–7 back up, also confirmed hollow-to-mono
+  (Captain Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna,"
+  `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel —
+  medium confidence, single mention): called on camera "the easiest knot to
+  tie" for joining spectra to a mono/fluoro leader — form the loop in the
+  mono, pass the spectra through pinching the loop, then wrap down the
+  doubled mono **six or seven times**, back up **six or seven times** (keeping
+  each loop of the return pass between the loops of the first pass), then pass
+  the tag back through the original loop and cinch. A distinct wrap pattern
+  from the 10-wraps-one-way, double-back, and spaced-then-overlap variants
+  above — kept side by side rather than reconciled to one count. **Hollow
+  braid, tied the same as solid:** confirmed the identical tie is used on this
+  boat's kite outfits, which commonly run hollow spectra — rather than
+  needle-splicing the hollow line, the crew ties this same Albright straight
+  onto it "as if it was solid."
 - **Failure modes:** FG — too few wraps or slack braid during wrapping (no
   color-change bite); trimming the leader tag so tight the taper pulls. Albright —
   a twisted loop that won't cinch, or over-tight trims that let the flat tag slip.
