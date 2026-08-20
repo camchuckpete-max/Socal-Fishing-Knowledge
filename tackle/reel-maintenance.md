@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation, grip]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk, 17sBBD0C4XY]
 confidence: medium
 ---
 
@@ -302,6 +302,22 @@ lifetime.**
   off last time out — the source frames it as routine prep, and the presenter's
   own inspection caught a chipped guide he had to replace before it could fray
   his line.
+
+## Grip material and care — fish-slime hardening, and a heat-shrink fix (Tackle Express, "Why your fishing rod grip is falling apart (and how to fix it!)," `17sBBD0C4XY`, 2026-07-01; unregistered channel, single mention — medium confidence)
+
+- **Hypalon and EVA grips hold up worse against repeated fish-slime and wet-hand
+  contact over time** — the presenter's stated mechanism is that the slime
+  **hardens the material and wears it down**, contrasted on camera against a
+  grippier, tire-tread-like grip he's holding that he says stays grippy wet and
+  is more durable. That grippier grip's material/brand is never named in the
+  clip, so it is not carried here as a claim (`asr-uncertain`).
+- **Wipe the rod down after every trip** — the presenter frames this as the
+  basic habit that makes a grip (and the rest of the rod) last longer;
+  reinforces the [rinse discipline](#rinse-discipline-do-this-every-trip-not-just-offseason)
+  above rather than adding a new routine.
+- **Fix for a grip that's already hardening: heat shrink over the existing
+  grip.** Restores a cushioned feel and extends the grip's usable life —
+  presented as a simple retrofit, not a full reglue or grip replacement.
 
 ## Hooks and jigs — when to toss, rinse, or re-hook
 
