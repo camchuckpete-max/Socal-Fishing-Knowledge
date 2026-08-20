@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo]
 confidence: high
 ---
 
@@ -60,6 +60,39 @@ and the two-speed-for-1.5-day/3-day-trip pairing corroborates [two-speed
 reels for multi-day bluefin
 trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing)
 (same channel, a different video six weeks later).
+
+**An earlier, independent citation of the same OSP 1x3, plus a lighter step
+below it (SearcherSportfishing, "Tackle Tip Thursday Vol. 42 (Seeker Rods),"
+`aAqKHeyBwEo`, 2019-04-04; `searcher-sportfishing` registered channel, single
+mention — medium confidence for the mechanism/parameters; predates the Vol. 51
+tip above by about two months, and is framed on camera around "the Searcher's
+seven-day trip" specifically, a different trip length than Vol. 51's stated
+1.5-day/3-day framing — kept side by side, not reconciled, since both could
+simply be true across the boat's trip-length range):**
+
+- **Seeker OSP 1x3** (product/model — **low confidence**, sponsored-claim
+  caveat, as above) — nicknamed **"the Guadalupe special"** on camera — given
+  here as a **60–100 lb** rod, "for that grade of fish we find out there" (no
+  location named for "there" beyond the nickname itself — not inferred as
+  Guadalupe Island per the name-a-place-only-if-the-source-names-it rule).
+  Corroborates the OSP 1x3 product ID above and adds the nickname and line
+  class the later Vol. 51 tip doesn't give.
+- **A lighter step below it — Seeker SSR 7650** (product/model — **low
+  confidence**, sponsored-claim caveat)**:** **7 ft 6 in, rated 50 lb**,
+  described on camera as designed as a **wahoo bomb rod**, with "a little bit
+  extra length and a little bit of a stiffer tip" than a standard casting
+  rod. Stated to also double as a rail rod for "a wahoo and tune up to...
+  150 or 60 pounds" (as captioned; read here as "wahoo and tuna," but neither
+  the species word nor the number range is corrected — carried as stated,
+  flagged **asr-uncertain** on both). Carries the
+  **same rail mechanism as the OSP 1x3** — **6–8 in of extra foregrip**,
+  stated purpose "to lay this rod on the rail" once a fish is hooked and it's
+  time to fight it (the caption reads "great Grail rod," read here as "great
+  rail rod" given the foregrip/rail sentence that immediately follows on
+  camera — **asr-uncertain** on the exact word). See [wahoo bomb & Raider jig
+  casting — gear-class
+  detail](../techniques/wahoo-bomb-casting.md#gear-class-detail) for this
+  rod's casting application; logged here for the shared rail-rod mechanism.
 
 ## Line classes
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -197,6 +197,22 @@ where this fits among wahoo's other techniques routes from
     description above (jig-stick class, ~9 ft, star-drag, mid-to-higher
     retrieve ratio) — it sits inside the same class and sharpens it with
     specific models.
+- **A fourth, earlier data point — a dedicated named rod, plus a rail-rod
+  mechanism (SearcherSportfishing, "Tackle Tip Thursday Vol. 42 (Seeker
+  Rods)," `aAqKHeyBwEo`, 2019-04-04; `searcher-sportfishing` registered
+  channel, single mention — medium confidence for the mechanism/parameters;
+  **Seeker SSR 7650 product/model name — low confidence**, sponsored-claim
+  caveat):** a **Seeker SSR 7650, 7 ft 6 in, rated 50 lb**, described on
+  camera as designed as a wahoo bomb rod with extra length and a stiffer tip
+  than a standard casting rod, doubling as a rail rod for "a wahoo and tune
+  up to... 150 or 60 lb" (as captioned; read here as "wahoo and tuna," but
+  neither the species word nor the number range is corrected — carried as
+  stated, flagged **asr-uncertain** on both). Full spec,
+  the step-up rod cited alongside it, and the shared rail-foregrip mechanism
+  are logged in [gear classes — rail-rod
+  class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism),
+  since that note already holds the class's other worked product example
+  (Seeker OSP 1x3).
 - **A third, independently sourced gear-class data point — two rods split by
   lure weight, with a stated reason for the longer rod's length (Logan,
   Searcher Sportfishing / Fisherman's Landing, "Tackle Tip Thursday Vol. 195
@@ -229,6 +245,7 @@ where this fits among wahoo's other techniques routes from
 <!-- backlinks:start -->
 ## Linked from
 
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Trolling](trolling.md)
