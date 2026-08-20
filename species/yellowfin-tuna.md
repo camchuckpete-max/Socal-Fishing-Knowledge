@@ -474,6 +474,7 @@ the bluefin nearby become more cooperative too.**
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Glide Baits](../techniques/glide-baits.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [October](../seasonal/october.md)

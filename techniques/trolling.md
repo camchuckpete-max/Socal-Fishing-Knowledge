@@ -1087,6 +1087,7 @@ covered above, not a new tool.
 - [Glide Baits](glide-baits.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Making Bait](../bait/making-bait.md)
 - [Pacific Bonito](../species/bonito.md)

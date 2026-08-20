@@ -1033,6 +1033,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ikejime (Iki-Jime)](../fish-care/ikejime.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)

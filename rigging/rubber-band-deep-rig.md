@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -200,6 +200,16 @@ ladder](../tackle/searcher-big-tuna-rig-ladder.md#workhorse-flylining-outfit-405
   to bring a big fish up. Only 2 of the day's bites came on the sinker rig
   that trip, vs. ~90% on flyline — a minority presentation, not the primary
   one.
+- **A bigger-bait data point (Carl, Fisherman's Landing / SearcherSportfishing,
+  "Tackle Tip Thursday" Vol. 190, `fg2v1kxoTMA`, 2022-07-21;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** for a sinker rig fished with a **bigger bait — a larger sardine
+  or mackerel** — steps the circle hook up to **3/0 or 4/0**, bigger than the
+  1/0–2/0 range above. Consistent with the bait-sets-the-hook-size rule (see
+  [hooks — size](../tackle/hooks.md#size--bait-first-fish-second)); kept as a
+  separate attributed data point rather than merged into one fixed number.
+  See also [hook assortment by trip
+  length](../tackle/hook-assortment-by-trip-length.md).
 
 ## Earliest instance — rod/reel pairing and season line-class note
 
@@ -632,6 +642,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)

@@ -110,5 +110,6 @@ out-of-region.
 
 - [Cedros Island](cedros-island.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Source Registry](../sources/source-registry.md)
 <!-- backlinks:end -->

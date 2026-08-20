@@ -545,6 +545,8 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 
 ## Related
 
+- [Hook assortment by trip length](hook-assortment-by-trip-length.md) —
+  overnight through 5–6 day pack, sized by species and bait.
 - [Offset hooks](offset-hooks.md) — what offset means and why anglers use it,
   on both circle and J hooks.
 - [Fishing live bait](../bait/fishing-live-bait.md) — nose/collar/butt hooking and
@@ -567,6 +569,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
