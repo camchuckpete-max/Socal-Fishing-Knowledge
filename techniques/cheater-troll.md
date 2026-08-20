@@ -52,6 +52,7 @@ confidence).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Yellowtail](../species/yellowtail.md)

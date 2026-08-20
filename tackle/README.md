@@ -45,6 +45,7 @@
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Tackle Express, "A look at ICAST 2022 - The World's Largest Fishing Tradeshow," 75lUj-uaArQ, uploaded 2022-08-06 — an 85-minute booth-to-booth walk of the 2022
+- [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md) — Tackle Express, "Turn your jig stick into a trolling machine!," BNp-gSOpWBw, uploaded 2026-05-19 — a 39-second tackle-counter clip.
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
@@ -55,5 +56,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 45 notes exceed the 30-node cap._
+_Map skipped: 46 notes exceed the 30-node cap._
 <!-- mermaid:end -->

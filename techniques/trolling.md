@@ -1091,6 +1091,7 @@ covered above, not a new tool.
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
+- [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Making Bait](../bait/making-bait.md)
 - [Pacific Bonito](../species/bonito.md)

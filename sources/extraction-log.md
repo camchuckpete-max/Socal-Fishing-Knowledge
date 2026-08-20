@@ -2425,7 +2425,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | B44kVCdUN0o | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-mustad-heavy-duty-pliers.md; tackle/reel-maintenance.md / new low-confidence product note for Mustad 7.5in pliers, other 6 products (freshwater bass tackle) skipped as out-of-scope |
 | BGKH1ObX9Qs | Tackle Express | tutorial | parameter-skim | done | none / entirely freshwater trophy-bass swimbait tackle review, out of scope for saltwater SoCal/Baja KB |
 | BNJlltYOpIk | Tackle Express | tutorial | parameter-skim | done | none / 32-second reaction clip, no spoken location/gear/reasoning parameters beyond title's unconfirmed X-Rap claim |
-| BNp-gSOpWBw | Tackle Express | tutorial | parameter-skim | pending |  |
+| BNp-gSOpWBw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-jig-stick-trolling-outfit.md; tackle/gear-classes.md / new note on jig-stick-as-trolling-outfit dual use (gear pairing, clicker sequence), linked from jig-stick class row |
 | BPxE3xn3gAc | Tackle Express | tutorial | parameter-skim | pending |  |
 | Basv01kFjOs | Tackle Express | tutorial | parameter-skim | pending |  |
 | Bok0db0G4xE | Tackle Express | tutorial | parameter-skim | pending |  |

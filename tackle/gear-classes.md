@@ -20,7 +20,7 @@ is the [4-factor framework](../techniques/trolling.md).
 | Class | What defines it | Application | Example setup |
 | --- | --- | --- | --- |
 | **Flyline / soft-rod class** | ~9 ft, MH, fast, ~30–65 lb; a tip soft enough to cast an unweighted bait and not kill its swim | [flyline](../techniques/flyline.md) live bait | Cameron's Avet (Teramar 90MHB2 + Avet MXJ) |
-| **Surface-iron / jig-stick class** | 8–10 ft, casts 2–4 oz irons, moderate/fast, ~25–60 lb | [surface iron](../techniques/surface-iron.md) | Cameron's Torium (Phenix Abyss 10'0") |
+| **Surface-iron / jig-stick class** | 8–10 ft, casts 2–4 oz irons, moderate/fast, ~25–60 lb | [surface iron](../techniques/surface-iron.md); also doubles as a trolling outfit — see [jig stick as trolling outfit](tackle-express-jig-stick-trolling-outfit.md) | Cameron's Torium (Phenix Abyss 10'0") |
 | **Yo-yo / heavy-iron class** | ~8 ft, XH, 40–80 lb, fast crank | [yo-yo iron](../techniques/yo-yo-iron.md), sinker rigs | Cameron's Trinidad 40 |
 | **Rail-rod / heavy tuna class** | ~8 ft, 3X-H, 60–130 lb, 2-speed reel | casting/fighting jumbo [bluefin](../species/bluefin-tuna.md) | Cameron's Talica 25 |
 | **Trolling / spreader-bar class** | 7–7.5 ft, XXXX-H, 150–200 lb, 2-speed, ~1000 yd capacity | [spreader-bar](../lures/spreader-bar.md) / heavy [trolling](../techniques/trolling.md), future [kite](../techniques/kite-fishing.md) | Cameron's Fathom 80 |
@@ -259,6 +259,7 @@ does the lookup.
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
