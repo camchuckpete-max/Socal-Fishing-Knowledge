@@ -2381,7 +2381,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 52jkCrA4I9w | Tackle Express | tutorial | parameter-skim | done | none / skipped: 26s clip, transcript captures only music/interjection, no extractable fishing-rod content despite title |
 | 52le0jHiqyc | Tackle Express | tutorial | parameter-skim | done | none / skipped: 48s trade-show promo (booth/dates/venue/raffle), no fishing knowledge content, fails curation bar |
 | 53FzsW4_U08 | Tackle Express | tutorial | parameter-skim | done | none / skipped: 40s team-intro/promo clip, captions are only music and stray letters, no speech content |
-| 5EKrtI_f_xA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5EKrtI_f_xA | Tackle Express | tutorial | parameter-skim | done | none / skipped: 31s truncated clip, freshwater bass-tackle terminology, no SoCal/Baja saltwater content, no reason stated before cutoff |
 | 5Fxwebsi9pU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5OTBOIeQmis | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5XWnm7ok09k | Tackle Express | tutorial | parameter-skim | pending |  |
