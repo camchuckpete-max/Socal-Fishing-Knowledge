@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -221,6 +221,53 @@ Clemente Island, Catalina, or the Coronado Islands also **skews the catch
 toward yellowtail specifically**, screening out calico bass, barracuda, and
 bonito bycatch that a smaller bait draws — reach for mackerel when the goal
 is straight yellowtail and those species are unwanted.
+
+### "Bridge of the nose," the sardine "wishbone," and shoulder hooking for distant blue fin (Steve Carson, Penn Fishing Tackle, SearcherSportfishing "Tackle Tip Thursday Vol. 226 (Hooking Your Bait)," `aD0Iim9C15o`, 2023-08-24; `searcher-sportfishing` is a registered channel/series, but this specific mechanism is a single mention — medium confidence)
+
+Filmed aboard the Searcher (San Diego long-range) mid-season during what Carson
+called a record-setting blue fin tuna season on camera (year not stated beyond
+the video's own 2023 upload date). The hooking styles below are given as
+applying across the boat's staple baits — sardine most of the time, sometimes
+anchovy, and mackerel on longer trips where anglers catch their own.
+
+- **Any sinker at all → nose hook, "across the bridge of the nose."** Whether
+  it's a sinker rig for bluefin or a
+  [dropper loop](../techniques/dropper-loop.md) for yellowtail, and regardless
+  of sinker weight — as light as a half ounce up through 16 oz — sardine and
+  mackerel both get nose-hooked across the bridge of the nose. A second,
+  independent occurrence of the weighted-rig-mandates-nose-hook rule already
+  logged above from Dave Hansen and the mackerel section. (Carson also
+  demonstrates a distinct anchovy hook position for weighted rigs on camera,
+  but it isn't narrated in words — visual only, not captured here.)
+- **Fly-lined, no weight, fish holding close under the boat → the sardine
+  "wishbone."** When tuna are working right behind the boat where the
+  deckhand is chumming — the tell being everyone around you hooking up within
+  seconds of a bait hitting the water — the fish are typically sitting close,
+  maybe 30–40 ft down, and a sinker would restrict the bait's own dive.
+  Carson's stated favorite hook for this situation is a spot he calls the
+  "wishbone": on a sardine, near a couple of small fins, there's a bony
+  structure he compares to a turkey or chicken wishbone — a strong anchor
+  point for the hook (demonstrated on a rubber mackerel prop and not narrated
+  more precisely than "right about here," so the exact landmark stays
+  imprecise). Hooked there, the bait doesn't need to be cast at all — just
+  dropped over the side — and it swims straight down toward tuna or
+  yellowtail holding under the boat.
+- **Shoulder hooking, for blue fin tuna boiling well off the boat and not
+  coming closer.** Named on camera as "shoulder hooking": entered behind the
+  head, in the nape-of-neck area — deep enough to hold but not so deep as to
+  hit the spine, which kills the bait. Two stated mechanisms for reaching for
+  it specifically on distant, boiling blue fin (fish 50–150 yards out that
+  aren't going to approach the boat): (1) as the bait swims away, the hook
+  folds down, cutting resistance so the bait can carry more of its own
+  distance away from the boat under its own power; (2) riding folded down,
+  the hook is less visible to a tuna looking up from below than a hook
+  standing proud on the nose. **Follow-up retrieve technique, same source:**
+  after letting the bait out 100–150 yards on the shoulder hook, wind it back
+  in slowly rather than leaving it planted — bites often come as the bait is
+  coming back in toward the boat. Carson calls this a "slow troll" on camera;
+  it's a hand/reel retrieve of a fly-lined bait, not the boat-speed
+  [slow-trolling](../techniques/slow-trolling-bait.md) technique of that
+  name, so it's recorded here rather than merged into that note.
 
 ### Deep sinker-rig bait: lower jaw through the nose to keep the mouth shut (Capt. Matt, SD Fish and Sips)
 

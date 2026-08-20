@@ -115,6 +115,7 @@ watching the bait, and use the range as a sanity check.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Trolling](trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
