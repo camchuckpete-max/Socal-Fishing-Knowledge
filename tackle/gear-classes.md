@@ -193,6 +193,7 @@ does the lookup.
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

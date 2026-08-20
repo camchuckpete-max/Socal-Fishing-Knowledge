@@ -498,6 +498,7 @@ between the two talks.
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)

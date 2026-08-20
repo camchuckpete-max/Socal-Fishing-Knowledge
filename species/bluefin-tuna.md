@@ -889,6 +889,14 @@ shot in [gaffing](../fish-care/gaffing.md).
     fish the heaviest outfit first and drop down only if it isn't getting
     bit, rather than starting light. Full detail in [bluefin 50–80 lb bait
     outfit ladder](../tackle/bluefin-50-80lb-bait-outfit-ladder.md).
+  - **"Don't leave the dock without it" 50/60/80 lb outfit (Steve Carson,
+    Penn/Searcher, `k4U3ETqmlEc`, 2019-09-12; single mention — medium
+    confidence, reel model low per the sponsored-claim caveat):** 80 lb braid
+    backing to a 50/60/80 lb top shot picked to the day's bite, 1/0–4/0
+    circle hook sized to bait, on a 7–8 ft rod rated 40–80 or 40–100 lb —
+    overkill under 50 lb tuna, the workhorse for 75–150 lb fish. Full detail
+    in [Searcher 50/60/80 lb flyline
+    outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md).
   - **Daytime working numbers, one boat/trip (Ray Sharifi, Dirty Hookers,
     149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** ~90% of daytime bites came on flyline, worked on a
     dedicated **25–30 lb fluorocarbon flyline stick** (a sponsored
@@ -1088,6 +1096,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)

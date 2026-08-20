@@ -17,6 +17,7 @@
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Rod length isn't only an application variable (see the application table in rod & reel selection) — it also has to fit the angler holding it.
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md) — Steve Carson, aboard the Searcher (fyJA3o2hVh0, "Tackle Tip Thursday Vol.
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md) — Steve Carson, aboard the Searcher (k4U3ETqmlEc, "Tackle Tip Thursday Vol.65 (Must-have Outfit)," uploaded 2019-09-12 — a 72-second segment).
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
@@ -42,54 +43,61 @@ graph LR
   n10["Rod & Reel Selection — by Application"]
   n11["Rod Length — Fitting the Stick to the Angler"]
   n12["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
-  n13["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
-  n14["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n15["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n16["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n0 --> n13
+  n13["Searcher 50/60/80 lb Live-Bait Flyline Outfit — 'Don't Leave the Dock Without It' (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)"]
+  n14["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n15["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
+  n16["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n17["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n0 --> n14
   n0 --> n2
   n0 --> n3
   n0 --> n5
   n0 --> n7
   n1 --> n10
-  n1 --> n13
   n1 --> n14
+  n1 --> n15
   n1 --> n2
   n1 --> n3
   n10 --> n1
   n10 --> n11
-  n10 --> n14
-  n10 --> n16
+  n10 --> n15
+  n10 --> n17
   n10 --> n2
   n10 --> n3
   n10 --> n7
   n11 --> n10
-  n12 --> n13
+  n12 --> n14
   n12 --> n2
   n12 --> n5
   n12 --> n7
   n13 --> n0
-  n13 --> n10
-  n13 --> n12
+  n13 --> n14
   n13 --> n2
   n13 --> n3
-  n14 --> n1
+  n13 --> n5
+  n14 --> n0
   n14 --> n10
+  n14 --> n12
+  n14 --> n13
+  n14 --> n2
   n14 --> n3
-  n15 --> n7
-  n16 --> n10
-  n16 --> n3
+  n15 --> n1
+  n15 --> n10
+  n15 --> n3
+  n16 --> n7
+  n17 --> n10
+  n17 --> n3
   n2 --> n0
   n2 --> n10
   n2 --> n12
-  n2 --> n13
+  n2 --> n14
   n2 --> n3
   n2 --> n5
   n2 --> n6
   n2 --> n7
   n3 --> n10
-  n3 --> n13
   n3 --> n14
+  n3 --> n15
   n3 --> n7
   n4 --> n5
   n5 --> n12
@@ -102,7 +110,7 @@ graph LR
   n6 --> n3
   n7 --> n10
   n7 --> n12
-  n7 --> n15
+  n7 --> n16
   n7 --> n3
   n8 --> n5
   n9 --> n10

@@ -2180,7 +2180,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | jLFZIh15Fec | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/flat-fall-jigging.md / merged 200g flat-fall weight/color/leader/gear tip as 2018-07-12 dated entry; evaluator fixed a dead anchor link |
 | jQzOdmP0zoQ | SearcherSportfishing | tutorial | deep | done | rigging/crimping.md; tackle/spectra-hollow-vs-solid.md / added crimp-vs-knot trip-length trigger and 135 lb hollow/solid breakpoint with competing solid-line lean; evaluator fixed an invented speaker gender pronoun |
 | jqyu3wZdNF4 | SearcherSportfishing | tutorial | deep | done | rigging/haywire-twist.md; species/wahoo.md / two wahoo live-bait leader builds added to haywire-twist.md; free-spool bite-response doctrine added to wahoo.md beside existing conflicting doctrine; evaluator removed an invented causal mechanism |
-| k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | pending |  |
+| k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | done | tackle/searcher-50-60-80lb-flyline-outfit.md; species/bluefin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md / new note for Steve Carson's 50/60/80 lb flyline outfit, cross-linked as earlier citation of Rig 1, new gear-summary bullet on bluefin-tuna.md |
 | kdEKEyVTIGU | SearcherSportfishing | tutorial | deep | pending |  |
 | kuvfoJKpLYU | SearcherSportfishing | tutorial | deep | pending |  |
 | kzpeM56Gh7o | SearcherSportfishing | tutorial | deep | pending |  |

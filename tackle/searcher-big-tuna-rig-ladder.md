@@ -591,6 +591,10 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md) —
   a companion entry, same channel's numbered Tackle Tip Thursday series, kept
   as its own note rather than added here per this note's size guideline.
+- [Searcher 50/60/80 lb live-bait flyline outfit](searcher-50-60-80lb-flyline-outfit.md) —
+  an earlier (2019-09-12), less-detailed citation of what reads as the same
+  Rig 1 reel/line-class/rod-rating combination, kept as its own note rather
+  than added here per this note's size guideline.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -609,6 +613,7 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

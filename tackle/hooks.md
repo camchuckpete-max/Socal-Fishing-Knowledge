@@ -640,6 +640,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)
