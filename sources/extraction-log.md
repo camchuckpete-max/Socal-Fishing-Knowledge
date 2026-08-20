@@ -2247,7 +2247,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5m1cHclspII | SearcherSportfishing | on-the-water | decision-rationale | done | none: on-the-water clip with no extractable content, garbled auto-captions, no species/technique/decision stated |
 | 6BqmPN0xGZY | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 31s undifferentiated on-the-water audio/captions with no fishing knowledge content |
 | 6I5Ma8n8PRE | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 34s clip with bluefin school on sonar not biting, no depth/location/reason stated; below curation bar |
-| 76cj579gnTo | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 76cj579gnTo | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, crew-banter/fish-fight on-the-water clip, garbled ASR, no decision rationale above curation bar |
 | 7xnTtlaYs58 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 8gEvmdj0lec | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 8vJEyJVBvSM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
