@@ -2311,7 +2311,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | _f5QmWSUUx8 | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/wahoo-bomb-casting.md: Observed wire-leadered Raider-class jig, Alijos Rocks, Sept 2010, gear corroboration only |
 | _r08B4bItAY | SearcherSportfishing | on-the-water | decision-rationale | done | species/wahoo.md; species/yellowfin-tuna.md; species/yellowtail.md; species/dorado.md; locations/cedros-island.md: fall 2009 trip-preview doctrine (Guadalupe/Alijos Rocks/Uncle Sam Bank grounds, season, run distances) |
 | aXqFrQSNrDc | SearcherSportfishing | on-the-water | decision-rationale | done | none / 33s promotional ad for American Tuna canned-tuna brand, no extractable fishing knowledge; skip correct |
-| atboDq5tZ0Q | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| atboDq5tZ0Q | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 35s clip is entirely applause/music, no fishing content |
 | b9JThf2Jm0s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | cjbAQ20Q9bQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | ck6REMbJkww | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
