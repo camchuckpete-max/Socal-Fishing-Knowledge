@@ -315,6 +315,7 @@ the *bottom*, not the fish.
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

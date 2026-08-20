@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [bluefin, tuna, jig, tungsten, tg-jig, night, talica, saltiga, metered-braid, leader, depth, fluorocarbon, foamer, durability, colt-sniper, casting-distance]
-sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc]
+tags: [bluefin, tuna, jig, tungsten, tg-jig, night, talica, saltiga, metered-braid, leader, depth, fluorocarbon, foamer, durability, colt-sniper, casting-distance, popping-rod, rockfish]
+sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc, CsKEtrcLgiQ]
 confidence: medium
 ---
 
@@ -22,8 +22,13 @@ appears, in fuller unedited form and with additional daytime/foamer content
 not present here, in a longer Tackle Express upload three days earlier
 (`CsKEtrcLgiQ`, "Are Tungsten Jigs Worth It for Bluefin?," 2025-06-18) — this
 short clip reads as a re-cut of that footage rather than an independently
-filmed citation. Treat any future extraction of `CsKEtrcLgiQ` as the same
-source repeating itself, not a second confirmation of the parameters below.
+filmed citation. **Confirmed on extraction of `CsKEtrcLgiQ` (batch 3):** the
+reel/line/leader/depth/retrieve segment, the day/surface re-rig cycle, and the
+Captain Brian/*Independence*/189 lb origin story are indeed the same footage
+repeating itself — no new confirmation of those parameters, per the
+prefer-latest / no-independent-reconfirmation rule for re-cut footage. The
+handful of details in `CsKEtrcLgiQ` not present in the two earlier clips are
+folded into the sections below, cited to `CsKEtrcLgiQ` specifically.
 
 **Second provenance note:** a still-shorter Tackle Express clip
 (`A7rveRBkL-g`, "Tungsten Jigs: The Secret to More Bites This Summer,"
@@ -130,6 +135,65 @@ per this source:
 - **Stated favorite:** fishing the jig from **dusk into full dark**,
   specifically for the biggest fish — described as hooking into something
   "you cannot turn the handle on."
+- **Surface/foamer outfit, named gear (`CsKEtrcLgiQ`):** for casting at
+  fish up on the surface in the morning, the 200 lb "Jarry rig" bite leader
+  comes off and the jig goes on a **9 ft, 50–100 lb-class popping rod**,
+  typically spooled with **80 lb braid**, with a **single assist hook** on
+  the bottom **direct-tied to 80–100 lb fluorocarbon** — a more specific
+  rod/braid pairing than the bare "80 lb or 100 lb" day-fishing line-class
+  range already logged above from `A7rveRBkL-g`, not a correction of it.
+- **Stated reason to cast a tungsten jig at a foamer specifically
+  (`CsKEtrcLgiQ`):** being denser and smaller for the same weight, it casts
+  farther and lands with a splash on the far side of (or into) the foamer,
+  then swims back through it on a straight retrieve like a stickbait. The
+  source's stated result: "a lot of short bites as well as a lot of hookups
+  coming through those foamers, which you can't say for a lot of lures" —
+  framed as a real edge over other lure classes for foamer work, not just a
+  casting-distance convenience.
+
+**Density and size-for-weight, a second data point (`CsKEtrcLgiQ`):** tungsten
+is stated as **74% denser than lead**, which is why a tungsten jig runs
+noticeably smaller than lead jigs the source names for comparison — a **250 g
+"SK" jig**, a **200 g Rip Roller**, and "a streaker" (all already documented
+as named lead knife-jig models in [knife jigs](../lures/knife-jigs.md)) — a
+different comparison than the "250 g tungsten ≈ 120 g lead" figure already
+logged above from `A7rveRBkL-g`; kept side by side as the same narrator's two
+different framings of the same size-for-weight point, not reconciled into one
+number. Stated reasoning for why the smaller size matters beyond casting
+distance: a tungsten jig gets down to the fish faster and presents a **more
+realistic profile of what bluefin are actually eating** — the source ties
+this directly to a trip where the fish were **"gorging on microbait day and
+night"** (see the origin story below), framing small profile / fast sink as
+the trigger for reaching for a tungsten jig over a same-weight lead jig when
+bait is small, not a claim that it's always the better choice.
+
+**Durability, a further stated reason (`CsKEtrcLgiQ`):** beyond not bending
+or turning fragile (already logged above), the source adds that tungsten
+**won't scuff on a bluefin's sharp teeth** the way lead does, and frames the
+jig as good for a **"lifetime"** of use — explicitly conditioned on fishing
+it with **heavy line** and **not getting it into tangles**, not an
+unconditional lifetime claim.
+
+**Price (`CsKEtrcLgiQ`):** tungsten jigs in this class run **$40 to $90** —
+named in the video title and repeated on camera; given as context for why the
+source frames one as worth having in the box "just in case," not as a
+recommendation to buy a specific model.
+
+**Additional named brands (`CsKEtrcLgiQ`):** alongside the already-documented
+**Daiwa TG** jig, the shop also stocks **Major Craft Jig Parra** tungsten
+jigs, with **JF Jigging** tungsten jigs described as "on their way" (not yet
+in stock as of the 2025-06-18 upload).
+
+**Rockfish, an attributed forward-looking intention, not a documented
+practice (`CsKEtrcLgiQ`):** the narrator says he's "probably going to use"
+the tungsten jig for rockfish "this year" — which resolves against the
+2025-06-18 upload date to the **2025** season — reasoning
+only that it "gets down there so fast." Stated as a plan, not something he'd
+already done or a result he'd observed — captured here as an attributed open
+item, not fishery doctrine, per the doctrine-vs-observation rule; no rockfish
+technique note is created or amended from this alone. See
+[rockfish and lingcod](../species/rockfish-lingcod.md) if this is corroborated
+by a future source.
 
 **Size-for-weight and cast distance:** a **250 g tungsten jig runs the same
 physical size as a 120 g lead jig** — captioned "cold snipe"/"current
