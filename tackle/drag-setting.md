@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE]
 confidence: medium
 ---
 
@@ -181,18 +181,20 @@ stay attributed as below.
 - **Headroom past strike (`medium`, single mention):** if strike turns out to
   be set a bit light, the lever has room to go further, into **full**, for an
   even heavier drag setting than strike provides.
-- **Recommendation: have the boat's crew set it (`medium`, single mention):**
+- **Recommendation: have the boat's crew set it (`high`, corroborated below):**
   strongly suggests checking with the crew on whatever boat you're fishing —
-  they can set the drag for you before you start fishing.
+  they can set the drag for you before you start fishing. Independently
+  corroborated by an earlier Searcher source, Captain Aaron Remy's
+  `Psiiza6YQyE` (2017-06-19), merged further below.
 
 ## Failure modes, the strike-position hand-wrap test, and a mid-fight correction (SearcherSportfishing, "Tackle Tip Thursday Vol. 207 — How To Set Your Drag, part 2," `wGWjnW7wCiI`, 2022-12-01; unnamed crew presenter; `searcher-sportfishing` registered channel/series — the shared free-spool/strike-position method above is now `high` as repeated doctrine across Part 1 and Part 2; the three-things-wrong list and the rod-raise mid-fight tell below are now `high` too, independently corroborated by the earlier Capt. Art seminar merged further below (`CSpBymCVWN4`); the hand-wrap test and the crew's mid-fight bump-up correction remain unique to this episode and stay `medium` as a single mention)
 
 Part 2 of a two-part Searcher series. **Part 1** ("Vol. 205 — How To Set Your
 Drag, part 1," `ypr-qZF4FTY`, 2022-11-17) is merged above as of batch 3,
 2026-08-20, as is the earlier "Capt Art Seminar — Drag Settings" source
-(`CSpBymCVWN4`), merged below. One further Searcher drag-setting source
-("Searcher Sportfishing Drag Settings," `Psiiza6YQyE`) remains unprocessed —
-merge it in as repeated doctrine when it arrives.
+(`CSpBymCVWN4`), merged below, and the earlier still "Searcher Sportfishing
+Drag Settings" source (`Psiiza6YQyE`, 2017-06-19, Captain Aaron Remy), also
+merged below.
 
 **Three things that go wrong with an incorrectly set drag:**
 
@@ -276,6 +278,67 @@ gains real ground: his example progression is **100 ft → 97 ft → 94 ft → 9
 ft**, and so on, until the fish is brought to color, gaffed, and tagged.
 Stated as applying **regardless of line class** — the correct-drag principle,
 not a specific number, is the point.
+
+## A second-oldest Searcher source — hands-free hookset as the reason for strike, a button past strike, and drag wear like brakes (Captain Aaron Remy, SearcherSportfishing, "Searcher Sportfishing: Drag Settings," `Psiiza6YQyE`, 2017-06-19; on-camera self-identified as "Captain Aaron Remy"; `searcher-sportfishing` registered channel — this is the source flagged as unprocessed in the Vol. 207 section above, now merged; shared claims corroborate and predate the Vol. 205/207 doctrine above by five-plus years and rate `high`; this source itself postdates, not predates, the 2013-09-09 Capt. Art seminar above by roughly 3.8 years — Capt. Art's remains the oldest dated source in this corpus; the mechanism/reasoning unique to this episode stays `medium` as a single mention)
+
+- **Lever-drag travel, in order:** free spool (lever all the way back) →
+  increasing drag as the lever moves forward → a marked **strike** position,
+  where the lever physically stops moving forward on its own → a further
+  increase available past strike by **pushing a button**, continuing forward
+  toward **full**. Corroborates the "headroom past strike" claim already
+  logged above (Vol. 205) and adds a mechanism detail not previously logged
+  here: getting past strike requires a button press to release the lever for
+  further travel, not just continued lever pressure.
+- **Stated reason to set at strike, not lighter: a hands-free hookset.**
+  Setting the drag to strike — specifically, to the point where the lever
+  can't be pushed forward any further without the button — lets an angler set
+  the hook **without having to look at the reel**, so attention stays on the
+  fish/what's happening rather than on checking drag position. This is new
+  reasoning not previously logged in this note: strike is valuable not only
+  as a calibrated tension but as a position identifiable **by feel/mechanical
+  stop**, so the angler's eyes never need to leave the water.
+- **Named failure mode for stopping short of strike:** some anglers set the
+  lever short of the strike position — deliberately or not — ending up with
+  less drag than intended. Two consequences named, matching (not adding to)
+  the three-things-wrong list logged above: a poor hook set, or the fish
+  taking more line than it should.
+- **Payoff framed as a workload point:** with the drag preset to strike
+  before fishing, there's "one less thing" to fuss with once a fish is on —
+  attention goes to watching and following the fish rather than managing the
+  reel mid-fight.
+- **Star-drag mechanism and test, described separately from lever drag:** a
+  star-drag reel is "completely free spool" with no strike detent to move
+  into; a small star wheel on the side of the reel sets tension (turned
+  forward = tighter, back = looser). Stated adjustment method: start from
+  free spool, tighten a bit, put the reel in gear and pull-test the tension,
+  back to free spool, tighten another notch, retest — repeat until it "feels
+  about right" for the line class in use. (The transcript uses the word
+  "strike" loosely here for "in gear and ready to fish" on a star-drag reel,
+  which has no physical strike stop — read as the same in-gear pull-feel test
+  already logged above for star/lever drags generally, not a claim that star
+  drags have a strike detent.)
+- **Drag wears like brakes — check and expect to retighten after every fish,
+  not only after a long fight.** Framed explicitly as heat wear: "the drags
+  get hot, they wear it out a little bit," and repeated fish-fighting can
+  **back the drag off** over a trip without the lever or knob ever being
+  touched. Stated habit: after landing a fish, put the drag back to strike
+  and check whether it *feels* the same as it did before that fish; if not,
+  tighten it back up. This is a **wear-driven loosening** mechanism, distinct
+  from the spool-diameter mechanism already logged above (Steve Carson) where
+  drag effectively *tightens* as the spool empties on a long run — the two
+  can move a reel's actual drag in opposite directions over the course of a
+  single trip.
+- **Recommendation: ask the crew to check your drag.** Corroborates the Vol.
+  205 crew-check recommendation above (now `high`, repeated across two
+  Searcher sources five years apart). Adds a specific observation: anglers
+  often think their own drag is already set tighter than it actually is, and
+  a crew check commonly finds it needs to go **tighter**, not looser — the
+  crew calibrates to what it judges the most effective setting without going
+  so tight the fish breaks off.
+
+Skipped from this source: a closing pitch about trying an Accurate reel /
+Seeker rod "hook and hand" combo when chartering the Searcher — generic
+equipment-availability promotion, not extractable knowledge.
 
 ## Strike is a floor, not always the setting — some go 3/4 of the way to strike, and never touch the drag while a fish is running (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly Capt. Art Taylor as cited by full name elsewhere in this corpus, not confirmed by surname here — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
 
