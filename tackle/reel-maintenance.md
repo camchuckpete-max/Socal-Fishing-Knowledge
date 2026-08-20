@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU]
 confidence: medium
 ---
 
@@ -148,6 +148,30 @@ discipline, argued from cost rather than just care —
   to freshen all seven reels.
 - **Takeaway:** at that price, skipping a pre-trip top-shot refresh is false
   economy — "don't avoid spending the smart money."
+
+## Diagnosing when it's time to change: mono top-shot look/feel, and a spectra fray check (Vance, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol. 184 (Top-notch Top Shot)," `kuvfoJKpLYU`, 2022-06-02; registered channel (`searcher-sportfishing`), single mention of this specific test — medium confidence)
+
+A pre-trip look-and-feel check, done **as you grab the rod and reel before a
+trip**, distinct from the routines above — this is how to judge whether the
+line needs changing at all, not a schedule for changing it:
+
+- **Mono top shot — the visual test.** Look down at the mono on the reel, or
+  better, strip a couple yards off and inspect it. **A smoky, opaque color is
+  the sign it's time for a fresh top shot.**
+- **What a good top shot should look like:** **clear, with a shiny look, and
+  limp** — not stiff. Stated reason: a stiff/degraded top shot drags the bait
+  "like a slinky" through the water, so fresh, limp mono gets bit better.
+  Complements the top-shot-replacement economics already logged above (Bob
+  Bauer) and the [mono top shot](line-and-leader.md#when-mono-top-shot)
+  material guidance.
+- **Spectra check, same pre-trip look:** on a reel filled with spectra, strip
+  a couple yards off the top and check for a frayed spot. If you find one
+  that's "real frayed up," either **cut it out and splice new spectra on**
+  (see [hollow-core splice & serving](../rigging/hollow-splice-and-serving.md)
+  if the spectra is hollow-core), or **cut it back and put a mono top shot on**
+  instead.
+- **Stated stakes for skipping the check:** hooking a fish with a bad, frayed
+  spot still in the spectra gives you low odds of landing it.
 
 ## Storage — how gear should sit through the layoff
 

@@ -2182,7 +2182,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | jqyu3wZdNF4 | SearcherSportfishing | tutorial | deep | done | rigging/haywire-twist.md; species/wahoo.md / two wahoo live-bait leader builds added to haywire-twist.md; free-spool bite-response doctrine added to wahoo.md beside existing conflicting doctrine; evaluator removed an invented causal mechanism |
 | k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | done | tackle/searcher-50-60-80lb-flyline-outfit.md; species/bluefin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md / new note for Steve Carson's 50/60/80 lb flyline outfit, cross-linked as earlier citation of Rig 1, new gear-summary bullet on bluefin-tuna.md |
 | kdEKEyVTIGU | SearcherSportfishing | tutorial | deep | done | none / promo for shoreside fish-processing vendor (Five Star Fish Processing), no SoCal/Baja fishing knowledge, correctly skipped |
-| kuvfoJKpLYU | SearcherSportfishing | tutorial | deep | pending |  |
+| kuvfoJKpLYU | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / added pre-trip mono top-shot visual test and spectra fray-check, medium confidence |
 | kzpeM56Gh7o | SearcherSportfishing | tutorial | deep | pending |  |
 | m2g97MxmAGI | SearcherSportfishing | tutorial | deep | pending |  |
 | m424-XxCFQw | SearcherSportfishing | tutorial | deep | pending |  |
