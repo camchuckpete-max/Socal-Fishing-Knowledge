@@ -2385,7 +2385,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5Fxwebsi9pU | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater bass thermocline/blade-bait technique, illustrative placeholder depths, no SoCal/Baja saltwater relevance |
 | 5OTBOIeQmis | Tackle Express | tutorial | parameter-skim | done | none / skipped: 34s fragmentary teaser clip, freshwater blade-bait/thermocline content, cuts off before delivering specifics |
 | 5XWnm7ok09k | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / corroborating finger-balance speed-vs-slow-pitch jig test, named speed-jig models (Nomad Streaker, Nature Boys, Shimano Flat Side), Rip Roller brand caution merged into existing entry |
-| 5_z4pe7iH8k | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5_z4pe7iH8k | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater largemouth bass content (coves/points/spawn/shad), zero SoCal/Baja saltwater relevance |
 | 5fxAN1Ofn8M | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5hnHrCUNk3Q | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5uEzREjLlLQ | Tackle Express | tutorial | parameter-skim | pending |  |
