@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -207,8 +207,12 @@ anglers skip.
 - **⚠ Wax Wing** — named as a hard-bait option in the calico kelp-lane row; no
   corpus source covers rigging or retrieve yet. Flagged stub pending new
   sources (expected ~400-video batch).
-- **⚠ Model/lure catalog** — no dedicated inshore hard-bait lure note exists
-  yet (DD-class divers are named only at class level); pending new sources.
+- **⚠ Model/lure catalog** — one dedicated inshore hard-bait lure note now
+  exists, the surf-halibut-specific
+  [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
+  (`E4CDqBFOaP8`); DD-class divers and the other named models above (Lucky
+  Craft Pointer 128, 190 Slim/Slim Fingers) are still named only at class
+  level, pending new sources.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -217,6 +221,7 @@ anglers skip.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)

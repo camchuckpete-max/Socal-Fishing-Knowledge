@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -109,6 +109,25 @@ conditions that put one there.** (General search method:
   bait-triad program that is this note's primary doctrine above; kept side by
   side, not reconciled, as an alternative when hard-bait covering-water suits
   the spot better than a drift.
+- **Shallow surf water calls for a shallow-running minnow specifically so it
+  doesn't dig into the sand (Tackle Express, `E4CDqBFOaP8`, 2025-12-23;
+  unregistered channel, single mention — medium confidence):** the
+  [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md) is
+  described as effectively synonymous with SoCal surf halibut fishing.
+  Stated reasoning for why a shallow diver, not a deep one, is the right call
+  inshore: you want the **lure to stay up and the fish to come up to it**,
+  not the lure digging into the bottom — "I don't want a jerkbait that gets
+  down to the fish, I want a jerkbait or minnow lure that gets the fish up to
+  the minnow lure." This is why it works **when there isn't a lot of wave
+  action** and halibut sit shallow, in **1–4 ft of water**: a deeper-diving
+  lure digs into the sand there and doesn't get bit. **Past that depth, the
+  stated call is to switch presentations, not just lures:** at **10 ft of
+  water** he reaches for a **leadhead and swimbait** instead of a hardbait,
+  calling it "much more effective," though no further mechanism is given for
+  that specific swap. A different presentation logic again from the
+  structure-relating drift program and from the Brent/Aquatek fast-retrieve
+  entry above — kept side by side, not reconciled, as a third attributed
+  hard-bait/shore approach.
 
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
@@ -259,6 +278,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

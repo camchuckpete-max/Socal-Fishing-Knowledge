@@ -2443,7 +2443,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | DuNkl8F45NE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md (new); tackle/tackle-express-night-bluefin-tg-jig-rig.md; techniques/two-speed-low-gear-fight.md; species/bluefin-tuna.md / trophy-bluefin jig outfit, pinwheel fight-timing, fixed phantom Talica 25 to Avet HXW |
 | DvhRMHw57c4 | Tackle Express | tutorial | parameter-skim | done | none / skipped: no extractable content (15s reaction-only clip) |
 | E273T9jAmpg | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md (new) / spec comparison, weight/capacity/drag/gear-ratio, cross-linked |
-| E4CDqBFOaP8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| E4CDqBFOaP8 | Tackle Express | tutorial | parameter-skim | done | lures/lucky-craft-flash-minnow.md (new); species/california-halibut.md; techniques/inshore-crankbaits.md / new lure note (trimmed duplication), halibut router update, stub fill |
 | E4H9QB7UBbU | Tackle Express | tutorial | parameter-skim | pending |  |
 | EVqKoSZK5Dk | Tackle Express | tutorial | parameter-skim | pending |  |
 | EXqFODWABvM | Tackle Express | tutorial | parameter-skim | pending |  |
