@@ -2285,7 +2285,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | NeSw-4df4H4 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 106s clip is personal banter about new gear purchase, no fishing content |
 | NgdpWzPRlqQ | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled auto-captions, no decision or stated reason |
 | Nj_9ORYJhkg | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — unstructured on-the-water chatter/reactions, no stated reasons or doctrine |
-| Ntwb6fU2zl4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Ntwb6fU2zl4 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled auto-captions, no doctrine/rationale content |
 | OfJ_KI_D184 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | PKwvkOOYzto | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Psiiza6YQyE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
