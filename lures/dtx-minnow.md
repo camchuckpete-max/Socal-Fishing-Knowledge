@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [dtx-minnow, nomad, tuna, trolling, swimmer, offshore]
-sources: [cameron, 9IhmYstB8sA, G81HN0dIDg0]
+sources: [cameron, 9IhmYstB8sA, G81HN0dIDg0, it_YYh_8Z-w]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -58,6 +58,22 @@ against the 2022-08-11 upload date to roughly **2020–2022**. Stated leader:
 **275 lb wire** "to match that up with" — the first leader-test figure given
 in this corpus for the DTX-class wahoo troll application specifically (no
 length, wire type, or setback stated on camera).
+
+**A third source, sizes not named by model number (Logan, SearcherSportfishing,
+"Tackle Tip Thursday Vol. 197 (Trolling Lures for Wahoo)," `it_YYh_8Z-w`,
+2022-09-22; `searcher-sportfishing` registered — but this segment is a
+product endorsement of a named lure, so the comparative-performance claim
+stays low confidence per the registry's product/model caveat):** two
+different sizes of the Nomad DTX (sizes not stated on camera) are named as
+wahoo trolling lures for **any long-range trip**, called out by name at
+**Alijos Rocks** and **"the Ridge"** — both already named as wahoo grounds in
+[wahoo](../species/wahoo.md#where--when). **Stated mechanism (medium
+confidence — general principle, not tied to the endorsement stat):** the DTX
+swims **deeper than most trolling lures**, framed as giving it "a better
+chance of a bite." **Stated performance claim (low confidence — product
+endorsement, no basis given for the figure):** the lure "out-fish other lures
+on a four to one basis" and is "nearly always being hit." No troll speed,
+running depth, setback, or leader spec given for this application.
 
 ## Owned examples
 
