@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate, flyline, sinker-bait]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0, jLFZIh15Fec]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0, jLFZIh15Fec, pCd6QykcZ0w]
 confidence: high
 ---
 
@@ -525,7 +525,11 @@ A lighter, castable daytime rig for the "Dart jig"/"Colt Sniper"-class lure
 this note's and [iron jigs](../lures/iron-jigs.md)'s existing Coltsniper
 usage) — distinct from, and lighter than, the three heavier rigs above.
 Mechanics and drop/retrieve patterns for this rig are in [Dart jig — daytime
-finesse tuna](../techniques/dart-jig-tuna.md).
+finesse tuna](../techniques/dart-jig-tuna.md). **An earlier (2023-03-30),
+independently corroborating citation of this same outfit, plus a second,
+heavier daytime tier for bigger/deeper fish and the earlier "Fathom II 30" /
+"Carnage Three" rod naming, is in [Searcher daytime dart-jig outfit
+ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 
 - **When:** daytime only — framed as the finesse counterpart to bigger
   night-bite lures, for fish keyed on **small bait**. Effective on
@@ -591,6 +595,10 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md) —
   a companion entry, same channel's numbered Tackle Tip Thursday series, kept
   as its own note rather than added here per this note's size guideline.
+- [Searcher daytime dart-jig outfit ladder](searcher-daytime-dart-jig-outfit-ladder.md) —
+  an earlier (2023-03-30), corroborating citation of the Dart/Colt Sniper
+  finesse jig rig above, plus a second, heavier daytime tier not covered
+  here, kept as its own note per this note's size guideline.
 - [Searcher 50/60/80 lb live-bait flyline outfit](searcher-50-60-80lb-flyline-outfit.md) —
   an earlier (2019-09-12), less-detailed citation of what reads as the same
   Rig 1 reel/line-class/rod-rating combination, kept as its own note rather
@@ -619,6 +627,7 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)

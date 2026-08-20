@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -401,6 +401,28 @@ rod/line/leader build and drop-and-crank mechanics for this jig class are
 in [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
 and [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
 
+**A third, earlier (2023-03-30) independent citation of the same stock-hook
+problem, with a different hook-strength number and a stated treble-vs-single
+preference by lure style (Steve Carson, Penn/SearcherSportfishing, "Tackle
+Tip Thursday Vol. 217 (Daytime Tuna Lures and Outfits)," `pCd6QykcZ0w`,
+2023-03-30; `searcher-sportfishing` registered channel — medium confidence,
+mechanism repeats, specific hook rating is this video's own):** stock rings
+and hooks on these dart jigs are sized for **5–20 lb** fish; Carson's fix is
+to upgrade to **at least a 5X-strong treble hook** — a different specific
+strength rating than the 4X-strength Owner ST-66 pick above, not reconciled
+with it, on the same underlying stock-hooks-aren't-tuna-rated problem. On
+this same video he draws a lure-style line the other entries in this section
+don't: for **nighttime** giant-tuna jigs (a 400 g class outside this note's
+daytime dart-jig scope) he prefers **big single hooks**; for the **daytime**
+dart-type jig specifically he prefers a **heavy treble** instead, after
+"experimenting with every style of hook you can imagine" — trebles cost him
+occasional pulled fish, but he states, without a mechanism he can explain,
+that this lure style "gets a lot more bites with a treble hook on it: can't
+exactly say why, but I can definitively say that's what happens." Full outfit
+(a two-tier light/heavy ladder, plus a heavier 120–170 g Williamson Kentucky
+Jig data point) in [Searcher daytime dart-jig outfit
+ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md).
+
 **Dart-type jigs, "cold snipers," and a named favorite — Williamson Gomame
 (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 167
 (All-Around Outfit)," `fyJA3o2hVh0`, 2022-02-03; `searcher-sportfishing`
@@ -446,6 +468,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Skip Jigging](../techniques/skip-jigging.md)

@@ -2195,7 +2195,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ouoyP7t2Nus | SearcherSportfishing | tutorial | deep | done | none / generic non-tackle packing-list video correctly skipped by extractor; evaluator filled in the missing extraction-log row |
 | p9xeMl-r_CY | SearcherSportfishing | tutorial | deep | done | none / correctly skipped promotional shop-tour video (Fisherman's Processing new location); evaluator filled in the missing extraction-log row |
 | pB10vaDaETM | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / fifth dated Searcher instance of the wrapped/two-hole rubber-band sinker rig added with a new stated leader-abrasion reason and a placement conflict flagged asr-uncertain rather than reconciled |
-| pCd6QykcZ0w | SearcherSportfishing | tutorial | deep | pending |  |
+| pCd6QykcZ0w | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/dart-jig-tuna.md; tackle/searcher-daytime-dart-jig-outfit-ladder.md / new daytime dart-jig outfit ladder note (light/heavy tiers, hook-strength and treble-vs-single-by-lure-style data points) cross-linked into existing iron-jig hook-style and dart-jig rig entries; one over-precise inferred number fixed |
 | pQ9kGqgsX8I | SearcherSportfishing | tutorial | deep | pending |  |
 | pm8u6qUrVUI | SearcherSportfishing | tutorial | deep | pending |  |
 | ptoIvB2MspE | SearcherSportfishing | tutorial | deep | pending |  |

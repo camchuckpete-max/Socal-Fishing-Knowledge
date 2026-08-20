@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [tuna, bluefin, yellowfin, dart-jig, coltsniper, finesse, daytime, casting, jig-stick]
-sources: [TU5quAG4atM, m2g97MxmAGI]
+sources: [TU5quAG4atM, m2g97MxmAGI, pCd6QykcZ0w]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -76,7 +76,15 @@ Lure class, sizing, and naming (**"Dart" jigs / "Colt Sniper"-class jigs**,
 the same class already documented at [iron jigs](../lures/iron-jigs.md)) and
 the full rod/reel/line/leader/hook build are in [Searcher big/giant tuna rig
 ladder](../tackle/searcher-big-tuna-rig-ladder.md) — kept there with this
-channel's other numbered tuna-rig entries rather than duplicated here. The 50 lb-mono-top-shot-to-80 lb-fluorocarbon-leader
+channel's other numbered tuna-rig entries rather than duplicated here. An
+earlier (2023-03-30), corroborating citation, plus a second, heavier daytime
+tier for bigger/deeper fish (Penn Fathom 40 Narrow, 6.5–7 ft rod rated
+30–80 lb, 80 lb braid, 60 lb-bumped-to-80 lb top shot once fish run over
+100 lb) and a 120–170 g Williamson Kentucky Jig data point, is in [Searcher
+daytime dart-jig outfit
+ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md). That same
+video also names bluefin, yellowfin, yellowtail, and (occasionally) opah as
+catches on this presentation. The 50 lb-mono-top-shot-to-80 lb-fluorocarbon-leader
 connection is a **four-turn surgeon's knot**, corroborating Steve Carson's
 own stated turn-count rule in [essential SoCal
 knots](../rigging/essential-knots.md#parameters--judgment).
@@ -145,6 +153,7 @@ own first commit and sit at **medium**, pending further repetition.
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->
