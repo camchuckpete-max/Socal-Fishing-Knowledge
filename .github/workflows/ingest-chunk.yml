@@ -57,6 +57,26 @@ jobs:
       # nothing about how a video is processed — same depth, same evaluator,
       # same guard — it only stops the chain sleeping between chunks.
       PACE_OVERRIDE: "0"
+      # Videos per run, authoritative over the dispatch input for the same
+      # reason as PACE_OVERRIDE (the chain passes its own value forward).
+      #
+      # Raised 5 -> 20 on 2026-08-20. The only thing chunk size amortizes is
+      # the ~6 min lag between a re-dispatch and the next run actually
+      # starting; in-job overhead is ~7 seconds. So this is worth ~14%, not
+      # more.
+      #
+      # It does NOT squeeze the agents. --max-turns below is the
+      # ORCHESTRATOR's budget, and the orchestrator spends ~5-6 turns per
+      # video (reset, spawn extractor, spawn evaluator, commit). The
+      # extractor and evaluator are Task subagents with their own fresh
+      # contexts and their own budgets, untouched by this number. 20 videos
+      # is ~120 orchestrator turns against 400.
+      #
+      # Bounded by the agent step's timeout-minutes: 300 against ~5.8
+      # min/video measured, so 20 videos (~116 min) has ample headroom. A
+      # chunk that dies partway keeps its finished videos — each commits and
+      # pushes individually.
+      CHUNK_OVERRIDE: "20"
     steps:
       - name: Checkout ingestion branch
         uses: actions/checkout@v4
@@ -117,10 +137,10 @@ jobs:
           allowed_bots: "github-actions,github-actions[bot]"
           prompt: |
             Read prompts/orchestrate-chunk.md and follow it exactly.
-            CHUNK_SIZE=${{ inputs.chunk_size }}.
+            CHUNK_SIZE=${CHUNK_OVERRIDE:-${{ inputs.chunk_size }}}.
           claude_args: >-
             --model claude-sonnet-5
-            --max-turns 400
+            --max-turns 800
             --allowedTools "Bash(git:*),Bash(python:*),Bash(python3:*),Bash(bash:*),Bash(wc:*),Bash(scripts/*),Read,Grep,Glob,Edit,Write,Task"
 
       - name: Mechanical guard sweep (re-check every commit this run)
@@ -173,7 +193,7 @@ jobs:
           for delay in 0 10 30 90; do
             sleep "$delay"
             if gh workflow run ingest-chunk.yml --ref "$BRANCH" \
-                 -f chunk_size="${{ inputs.chunk_size }}" \
+                 -f chunk_size="${CHUNK_OVERRIDE:-${{ inputs.chunk_size }}}" \
                  -f pace_minutes="${{ inputs.pace_minutes }}" \
                  -f chain_count="$((chain + 1))" \
                  -f redispatch=true; then
