@@ -2390,7 +2390,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5hnHrCUNk3Q | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md; tackle/gear-classes.md; tackle/rod-and-reel-selection.md / new reel size-ladder note (Speedmaster vs Fathom by line class for local offshore tuna/yellowtail/rockfish), linked from both parent notes |
 | 5uEzREjLlLQ | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md; species/calico-bass.md / Baja starter-kit tackle quantities merged into Colt Sniper stickbait entry, gear-summary cross-link added to calico-bass; evaluator ran link-maintenance |
 | 6BzZotupVcs | Tackle Express | tutorial | parameter-skim | done | none / skipped: 16s generic motivational short, no SoCal/Baja-specific fishing knowledge |
-| 6E39_PBt1P4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6E39_PBt1P4 | Tackle Express | tutorial | parameter-skim | done | rigging/san-diego-jam-knot.md / merged two-tension-method + hook/swivel/clip/lure and mono/fluoro/braid applicability as corroborating parameter entry |
 | 6SClBs16L2Y | Tackle Express | tutorial | parameter-skim | pending |  |
 | 6Z6Dht20kTA | Tackle Express | tutorial | parameter-skim | pending |  |
 | 6dTz1640Y5c | Tackle Express | tutorial | parameter-skim | pending |  |

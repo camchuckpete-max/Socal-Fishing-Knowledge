@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [san-diego-jam, double-jam-knot, terminal-knot, hook-knot, lure-knot]
-sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk, tpmOYXYQwhU]
+sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk, tpmOYXYQwhU, 6E39_PBt1P4]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -220,6 +220,22 @@ naming split tracked in that note, not this one.
   friction demo); likely a caption inversion of "so it'll slide easier,"
   recorded here unresolved per the ASR-hazard rule rather than silently
   corrected.
+- **Two tension methods + hook/swivel/clip/lure and mono/fluoro/braid
+  applicability (Tackle Express, Harry, "How to Tie San Diego Jam Knot,"
+  `6E39_PBt1P4`, 2023-12-30; unregistered channel, single mention — medium
+  confidence):** ties the single-pass version (through the eye once, main
+  line resting on top of the index finger, tag line underneath, pinched to
+  form the loop) at **6 wraps**, tag through the bottom loop and then the top
+  (index) loop, lubricate, pull the main line and tag together in the same
+  direction, cinch the tag under tension first, then cinch the main line, and
+  trim — the same single-pass mechanic and 6-wrap count already logged above,
+  not a new number. **New practical point not stated elsewhere in this
+  note:** demonstrates two ways to hold tension while tying — hook the
+  hook/lure to a fixed point for tension, or (tying it "very quickly") let
+  the weight of the swivel/clip/hook itself provide the tension instead.
+  States the knot ties to monofilament, fluorocarbon, and braid alike, and to
+  a hook, swivel, clip, or lure — a general applicability statement, not a
+  new SoCal-specific parameter.
 - **Judgment:** wet connection knots before seating, and cinch fully; a
   partly-set knot is where these fail.
 - **Double San Diego jam, tied straight to a surface iron on 40 lb test, no
