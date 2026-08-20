@@ -2454,7 +2454,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | EuYOlsnxXko | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md / Merged Tackle Express/Shannon Gallagher grunion-cycle beach-timing parameters (staging birds, incoming-tide afternoon window, morning low-tide concentration, fall 9-11ft structure pattern) into the Where and when section, fixed two invented claims not supported by the transcript |
 | F0849S6gBPY | Tackle Express | tutorial | parameter-skim | done | none / skipped: no extractable content (30s intro/teaser clip, cuts off before any technique or parameter is stated, near-verbatim re-cut of BPxE3xn3gAc already captured in techniques/drop-shot.md) |
 | FR7Cg9Jqug4 | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: patch filed a lure-less, location-less 37s clip into techniques/inshore-crankbaits.md on strength of treble/assist-hook fight description whose only concrete example (big stripers down deep) reads as freshwater swimbait fishing, not this saltwater note's fishery; out-of-region content with no confirmed applicability, compliant move is exclusion |
-| F_KDQo-k7CQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| F_KDQo-k7CQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: 28s auto-caption transcript contains only [music] tags and Heat Heat, no extractable content beyond the title |
 | Fj1-SsbksRM | Tackle Express | tutorial | parameter-skim | pending |  |
 | G8HNjPiaOjU | Tackle Express | tutorial | parameter-skim | pending |  |
 | Ga8Z1PyBqdE | Tackle Express | tutorial | parameter-skim | pending |  |
