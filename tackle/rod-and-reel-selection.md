@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc]
 confidence: medium
 ---
 
@@ -194,6 +194,45 @@ in:
   a jig swimming a flat, unbroken line doesn't get bit as well as one that
   gives that kick. See [iron jigs](../lures/iron-jigs.md) for the class specs
   this corroborates and the hook-style detail.
+
+## Surface-iron outfits — traditional star drag vs. baitcast level-wind (Steve Carson, SearcherSportfishing)
+
+Steve Carson, SearcherSportfishing ("Tackle Tip Thursday Vol. 146 (Surface
+Iron Outfits)," `Y_ElKixrhsc`, 2021-05-06; `searcher-sportfishing` registered
+channel/series — medium confidence, single mention of these specific builds).
+Two outfits, framed as traditional vs. what "the younger set" has moved to,
+kept side by side rather than merged — several parameters corroborate Doug
+Kearn's counter tip above (a different presenter, same channel):
+
+- **Traditional build — his own stated preference, "the way I grew up learning
+  it":** a **9 ft rod rated 25–50 lb test**, a **Penn Fathom 25 narrow** star
+  drag reel, and a **100-yard top shot of 40 lb test monofilament**. His own
+  stated reason for star drag over lever drag: *"the star drags definitely
+  cast better than the lever drags"* — consistent with, though more direct
+  than, Doug Kearn's tip above naming star drag the casting standard and
+  lever drag as merely "becoming viable" for casting. Throws **Tady 45** jigs (captions render "teddy 45" — the known
+  Tady→"teddy" caption corruption), **candy bar**-type jigs (see [iron
+  jigs](../lures/iron-jigs.md)), and even **7X**-size jigs. Stated as
+  effective across the yellowtail grade he names on camera — **12–40 lb** —
+  and, in his own words, "the most fun way to fish."
+- **Newer, "younger set" build:** still a 9–10 ft rod, but paired with a
+  saltwater **baitcast, level-wind, low-profile reel** — his example a **Penn
+  Fathom 400** — spooled to the top with **50 lb braid** and a **4–5 ft
+  leader of 40 lb test monofilament**. He still reaches for this style
+  specifically when throwing a **smaller jig — e.g. a Tady 4/0** (captions
+  render "taddy 4-0" — the known Tady caption corruption) or other "mid-size"
+  jigs. (Contrast: [iron jigs](../lures/iron-jigs.md) elsewhere groups the
+  Tady 4/0 with the heavier yo-yo-class irons — this is a distinct, lighter
+  surface-casting use of the same model on a lighter outfit, not a
+  conflict.) Framed as a generational shift, not a replacement of the
+  traditional build — "change is good, and you'd be amazed how big of a fish
+  you can catch with the modern low-profile saltwater baitcast reels."
+- **Leader-length rule, stated for the baitcast build:** leader length
+  "should be whatever you can handle and make your cast without the knot
+  going through the tip of the rod" — the same knot-must-clear-the-guides
+  principle documented in [line & leader](line-and-leader.md) (the
+  casting-past-the-knot mechanism there), here sized at **4–5 ft**
+  specifically for this surface-iron baitcast outfit.
 
 ## Two-speed reels for multi-day bluefin trips — Fisherman's Landing / Searcher counter tip (SearcherSportfishing)
 

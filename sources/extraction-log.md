@@ -2135,7 +2135,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | XTsTpWnk1gU | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md / Diamond jig (SearcherSportfishing) added as a distinct heavy chrome yo-yo shape, darts on drop, ~10oz, fished 50-60fm for bluefin; evaluator corrected confidence medium to low per channel product-endorsement cap |
 | Y2XZ34-Tpa0 | SearcherSportfishing | tutorial | deep | done | tackle/gear-classes.md; techniques/fighting-fish-from-the-rail.md / Rail-rod mechanism (hypalon foregrip, two-speed pairing) added to existing gear-class and fighting-technique notes with correct medium/low confidence split and cross-links |
 | YJX-hYEIcNM | SearcherSportfishing | tutorial | deep | done | planning/search-and-glassing.md / Added 'Sunglass lens color for glassing' section (medium confidence, Rick/Fisherman's Landing guest voice) tying lens tint to existing kelp-paddy/breezer surface-sign vocabulary; evaluator ran link-maintenance backlink regen |
-| Y_ElKixrhsc | SearcherSportfishing | tutorial | deep | pending |  |
+| Y_ElKixrhsc | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: Steve Carson's traditional-vs-baitcast surface-iron outfit specs added as new section, kept side by side with Doug Kearn's tip; fixed fabricated cross-ref and overstated claim before applying |
 | Yd3J4igs-QA | SearcherSportfishing | tutorial | deep | pending |  |
 | YeV--HarEYQ | SearcherSportfishing | tutorial | deep | pending |  |
 | YtlD1gQ_ULw | SearcherSportfishing | tutorial | deep | pending |  |

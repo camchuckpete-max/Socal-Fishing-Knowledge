@@ -477,6 +477,7 @@ able to break off** (aXF0bxAFtU0):
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
