@@ -2446,7 +2446,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | E4CDqBFOaP8 | Tackle Express | tutorial | parameter-skim | done | lures/lucky-craft-flash-minnow.md (new); species/california-halibut.md; techniques/inshore-crankbaits.md / new lure note (trimmed duplication), halibut router update, stub fill |
 | E4H9QB7UBbU | Tackle Express | tutorial | parameter-skim | done | none / out-of-scope freshwater-trout reel spec content, correctly skipped |
 | EVqKoSZK5Dk | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater bass swimbait casting content, out of scope; extraction-log row filled |
-| EXqFODWABvM | Tackle Express | tutorial | parameter-skim | pending |  |
+| EXqFODWABvM | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: resort/travel-time chatter, no named location, technique, or parameter |
 | EcNijcqjLvE | Tackle Express | tutorial | parameter-skim | pending |  |
 | Ecqt-ZLnvaU | Tackle Express | tutorial | parameter-skim | pending |  |
 | EdN3BowjYjg | Tackle Express | tutorial | parameter-skim | pending |  |
