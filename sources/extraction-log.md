@@ -2387,7 +2387,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 5XWnm7ok09k | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / corroborating finger-balance speed-vs-slow-pitch jig test, named speed-jig models (Nomad Streaker, Nature Boys, Shimano Flat Side), Rip Roller brand caution merged into existing entry |
 | 5_z4pe7iH8k | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater largemouth bass content (coves/points/spawn/shad), zero SoCal/Baja saltwater relevance |
 | 5fxAN1Ofn8M | Tackle Express | tutorial | parameter-skim | done | species/sand-bass.md / appended attributed corroboration (unnamed ~20g bait, fall/winter, column-versatile, thumb-controlled fast sink) to existing suspended-bait-balls row |
-| 5hnHrCUNk3Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| 5hnHrCUNk3Q | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md; tackle/gear-classes.md; tackle/rod-and-reel-selection.md / new reel size-ladder note (Speedmaster vs Fathom by line class for local offshore tuna/yellowtail/rockfish), linked from both parent notes |
 | 5uEzREjLlLQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | 6BzZotupVcs | Tackle Express | tutorial | parameter-skim | pending |  |
 | 6E39_PBt1P4 | Tackle Express | tutorial | parameter-skim | pending |  |

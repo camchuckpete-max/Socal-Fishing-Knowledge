@@ -323,7 +323,11 @@ budget](bluefin-retail-setup-high-end-vs-budget.md). A third, independent
 Searcher-channel citation of this same **1.5-day-to-multi-day, two-speed-is-a-
 must** framing, extended out to a 4-day ceiling and built around a full
 three-outfit minimum quiver, is in [Searcher three-outfit minimum
-quiver](searcher-three-outfit-minimum-quiver.md).
+quiver](searcher-three-outfit-minimum-quiver.md). A separate, unrelated tackle-shop
+size ladder for two-speed reels — Shimano Speedmaster vs. Penn Fathom, three
+tiers by line class for local offshore tuna/yellowtail/rockfish — is logged in
+[Speedmaster vs. Fathom — reel-size ladder](tackle-express-speedmaster-fathom-reel-sizing.md)
+(kept out of this already-oversized note).
 
 ## Offshore tuna favorite setup — rod length for casting distance (Nathan Winnicke, Penn, SearcherSportfishing)
 
@@ -894,6 +898,7 @@ a bluefin).
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
+- [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)

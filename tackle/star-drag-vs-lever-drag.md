@@ -129,5 +129,6 @@ following more detailed, application-specific entries already in this KB:
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

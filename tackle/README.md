@@ -41,11 +41,12 @@
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
 - [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
+- [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 37 notes exceed the 30-node cap._
+_Map skipped: 38 notes exceed the 30-node cap._
 <!-- mermaid:end -->

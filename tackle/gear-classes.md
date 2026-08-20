@@ -196,6 +196,10 @@ below rate normally):**
   rated by a PE window rather than by pound test; read a PE number as a
   diameter/line-class window, not a strength spec
   (Ul5FLB2dFgQ; medium confidence, unregistered channel).
+- **A tackle-shop worked example, three size tiers by line class** (Shimano
+  Speedmaster vs. Penn Fathom two-speed reels, local offshore tuna/yellowtail/
+  rockfish): see [Speedmaster vs. Fathom — reel-size
+  ladder](tackle-express-speedmaster-fathom-reel-sizing.md).
 
 ## Lure classes (cross-reference)
 
@@ -270,6 +274,7 @@ does the lookup.
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
+- [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
