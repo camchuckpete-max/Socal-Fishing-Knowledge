@@ -2407,7 +2407,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 8U34yMGxvEw | Tackle Express | tutorial | parameter-skim | done | none / 32s clip is generic braid-material trivia plus truncated brand-naming sentence, no parameters stated |
 | 8fSGyJL2GHM | Tackle Express | tutorial | parameter-skim | done | conditions/current-structure.md / added Observed note: multiple productive contour-line edges (inshore ridge vs steep outer footprint) on one structure |
 | 8wbNDfihH1o | Tackle Express | tutorial | parameter-skim | done | none / 31s freshwater bass-lake trolling philosophy, no stated parameters, out of scope |
-| 9-UtAaSacsc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9-UtAaSacsc | Tackle Express | tutorial | parameter-skim | done | none / 71s holiday gift-guide promo naming Shimano/Mustad pliers with generic features, no SoCal/Baja decision content |
 | 9MzNNwHiBXs | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9_iox_eRhpg | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | pending |  |
