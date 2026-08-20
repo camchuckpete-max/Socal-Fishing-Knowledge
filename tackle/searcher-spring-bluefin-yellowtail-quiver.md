@@ -342,10 +342,11 @@ Asked directly about splicing a fluorocarbon leader onto lures generally:
 - [Essential SoCal knots](../rigging/essential-knots.md) and [San Diego jam
   knot](../rigging/san-diego-jam-knot.md) — the two knots this session
   demonstrates.
-- [Searcher three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md)
-  and [Searcher four-outfit Guadalupe
-  quiver](searcher-four-outfit-guadalupe-quiver.md) — the other Searcher
-  trip-specific outfit quivers already logged in this KB.
+- [Searcher three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md),
+  [Searcher four-outfit Guadalupe
+  quiver](searcher-four-outfit-guadalupe-quiver.md), and [Searcher 6-to-8 day
+  trip — the fourth (heavy) outfit](searcher-6-to-8-day-heavy-outfit.md) —
+  the other Searcher trip-specific outfit quivers already logged in this KB.
 - [Bluefin tuna](../species/bluefin-tuna.md) and
   [yellowtail](../species/yellowtail.md) — the species routers.
 
@@ -357,6 +358,7 @@ Asked directly about splicing a fluorocarbon leader onto lures generally:
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)

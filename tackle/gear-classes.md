@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw, scScYJJF95Y]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw, scScYJJF95Y, MPC_OQjvO-o]
 confidence: high
 ---
 
@@ -166,6 +166,17 @@ below rate normally):**
   80–130 lb, and an 80–150 lb model) with grade ceilings from ~225 lb up to
   350–400 lb tuna — full detail in [Searcher rail-rod
   ladder](searcher-rail-rod-ladder.md).
+- A **sixth, independent citation of the same OSP 1x3** (SearcherSportfishing,
+  "6 to 8-day trip rod/reel recommendations," `MPC_OQjvO-o`, 2020-04-09;
+  `searcher-sportfishing` registered channel, single mention — medium
+  confidence for the mechanism/parameters), rated **80 to 100 lb** on camera
+  — in range with, though not identical to, the 60–100 lb figure logged
+  above — as the single heavy outfit added to a standing three-outfit
+  minimum quiver for a **6-to-8 day trip**, paired with a Penn International
+  30, an Accurate 50 two-speed twin drag, or a Shimano TLD 30, and fished for
+  four applications (Guadalupe flyline, bottom dropper loop, wahoo trolling,
+  and kite). Full detail in [Searcher 6-to-8 day trip — the fourth (heavy)
+  outfit](searcher-6-to-8-day-heavy-outfit.md).
 
 ## Line classes
 
@@ -251,6 +262,7 @@ does the lookup.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)

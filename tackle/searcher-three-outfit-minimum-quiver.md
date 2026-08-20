@@ -92,6 +92,10 @@ this video extends that same trip-length window out to 4 days.
 
 ## Related
 
+- [Searcher 6-to-8 day trip — the fourth (heavy) outfit](searcher-6-to-8-day-heavy-outfit.md) —
+  a differently-sourced (2020-04-09) citation naming this same three-outfit
+  minimum, framed as the base quiver a 6-to-8 day trip adds one heavy outfit
+  to.
 - [Searcher four-outfit Guadalupe quiver](searcher-four-outfit-guadalupe-quiver.md) —
   a differently-sourced (Penn Fathom/Talica) four-outfit quiver from the same
   channel, framed around a Guadalupe Island trip rather than this note's
@@ -118,6 +122,7 @@ this video extends that same trip-length window out to 4 days.
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
