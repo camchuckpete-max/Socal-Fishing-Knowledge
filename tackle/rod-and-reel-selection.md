@@ -567,7 +567,10 @@ lure:
   glass/composite rod that gets bit 10 times for every bite a stiff graphite
   rod gets is worth a few extra minutes fighting the fish once hooked. See
   [flyline](../techniques/flyline.md) for the line-sizing logic this gear
-  serves.
+  serves. For what's actually happening inside a composite blank to produce
+  that soft-tip/beefier-butt taper — and why the visible color-change line
+  on one isn't a defect — see [composite rod blank
+  construction](composite-rod-blank-construction.md).
 - **Corroborating, lighter/smaller-spool reasoning (Steve Carson panel, PCS
   Show 2024, `UP_3fBu7VPA`; unregistered channel/speakers — medium
   confidence):** for flylining specifically, the panel's stated preference is
@@ -871,6 +874,7 @@ a bluefin).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Composite Rod Blanks — the Visible Transition Line Is Intentional](composite-rod-blank-construction.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)

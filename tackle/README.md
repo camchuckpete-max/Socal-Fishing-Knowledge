@@ -7,6 +7,7 @@
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md) — Gary, presenter for Accurate Fishing Products, aboard the Searcher (SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md) — Lori Sack, a tackle sales associate at Turner's Outdoorsman's San Marcos store, in a short segment on the SearcherSportfishing channel ("Tackle Tip Thursday Vol.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md) — Steve Carson (Penn), guest speaker at the San Diego Rod and Reel Club's November 2023 meeting — "5 must-have rod and reel setups for bluefin tuna fishing" (9JnI
+- [Composite Rod Blanks — the Visible Transition Line Is Intentional](composite-rod-blank-construction.md) — A short buying-education point from Tackle Express staff (unnamed on camera; tackle-express is an unregistered channel, single 38-second mention — medium confid
 - [Drag Setting — General Judgment](drag-setting.md) — Spun out of rod & reel selection (batch 3, 2026-08-20): that note's drag-setting section had grown past the ~120-line per-section guideline.
 - [Gear Classes — the class-term lexicon](gear-classes.md) — The KB describes gear in class terms (jig-stick class, 40–60 lb class, 200g-knife-jig class) so a species/technique note can say "reach for the surface-iron cla
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md) — A minimal hook box, sized by species and bait rather than by a long shopping list — one boat's answer to "what do I actually need to pack" (Carl, Fisherman's La
@@ -42,5 +43,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 32 notes exceed the 30-node cap._
+_Map skipped: 33 notes exceed the 30-node cap._
 <!-- mermaid:end -->
