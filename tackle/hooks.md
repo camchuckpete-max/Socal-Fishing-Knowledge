@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM]
 confidence: medium
 ---
 
@@ -358,6 +358,30 @@ the main line with a surgeon's knot passed through three times — see
 [Essential SoCal Knots — surgeon's knot as a mono-to-fluoro
 connection](../rigging/essential-knots.md#when-to-use-it), where this video
 is now logged as the earliest-dated entry for that leader connection too.
+
+### Owner Aki hook vs. J hook by bait size — season stock-up pick (SearcherSportfishing, "Tackle Tip Thursday Vol. 92 (Hooks)," `tRlv1azFPlM`, 2020-03-26; `searcher-sportfishing` registered channel — product/model endorsement, `low` confidence per the channel's sponsored-claim caveat; Owner disclosed as a Searcher sponsor elsewhere in this note)
+
+A short pre-season stock-up tip (41 s video, presenter not identified on
+camera, captions heavily garbled throughout):
+
+- **Owner** hooks recommended to stock up on for the season, split by bait
+  size: a **J hook** for smaller baits (the specific model name spoken is too
+  garbled to resolve confidently — asr-uncertain, not carried into this note),
+  and an **Owner Aki hook** for bigger bait, sized **1/0** ("a little bigger
+  than your size 1" — asr-uncertain: the captions render the size as "104,"
+  read here as **1/0** given the same-breath comparison to a size 1 hook and
+  this note's own size-numbering convention above, but not fully confident).
+  Consistent with, not new beyond, the bait-sets-the-hook-size doctrine above.
+- **Ringed vs. non-ringed doesn't matter**, stated as a bare preference with
+  no reasoning given on camera. Sits beside, without reconciling, Cesar's
+  stated non-ring-plus-loop-knot preference logged above (weight and noise
+  reasons) — this source gives no mechanism either way.
+- **Durability** claimed for these hooks generally ("very durable") — no
+  specific mechanism, failure comparison, or species/rig context given.
+- The closing description of what/where they were fishing that day
+  (rendered "fishing Milan... you seeing the ribs" in the captions) is too
+  garbled to resolve and is not carried into this note — no place name is
+  asserted per the name-a-place-only-if-the-source-names-it rule.
 
 ### A finesse-rig hook ladder by grade (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
 
