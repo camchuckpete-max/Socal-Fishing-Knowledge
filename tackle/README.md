@@ -22,6 +22,7 @@
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md) — Steve Carson, aboard the Searcher (fyJA3o2hVh0, "Tackle Tip Thursday Vol.
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md) — Steve Carson, aboard the Searcher (k4U3ETqmlEc, "Tackle Tip Thursday Vol.65 (Must-have Outfit)," uploaded 2019-09-12 — a 72-second segment).
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md) — SearcherSportfishing, "6 to 8-day trip rod/reel recommendations" (MPC_OQjvO-o, uploaded 2020-04-09 — a 3:51 segment).
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md) — SearcherSportfishing, "Tackle Tips for Alijos Rocks and The Ridge" (uWGGeDOprsE, uploaded 2009-08-25 — a 6:52 segment).
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md) — Steve Carson, aboard the Searcher (vVOkxHx58Eg, "Tackle Tip Thursday Vol.
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md) — Steve Carson, aboard the Searcher (pCd6QykcZ0w, "Tackle Tip Thursday Vol.
@@ -41,5 +42,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 31 notes exceed the 30-node cap._
+_Map skipped: 32 notes exceed the 30-node cap._
 <!-- mermaid:end -->

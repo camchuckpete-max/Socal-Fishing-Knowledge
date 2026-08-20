@@ -137,6 +137,10 @@ outfits below.
 
 ## Related
 
+- [Searcher five-outfit quiver — 7-day trip to Alijos Rocks and "The
+  Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md) — an earlier (2009),
+  differently-sourced quiver naming the same Marauder trolling lure (colors
+  added there) and matching 16 oz dropper-loop sinker figure.
 - [Searcher 6-to-8 day trip — the fourth (heavy) outfit](searcher-6-to-8-day-heavy-outfit.md) —
   a differently-sourced, single-outfit citation sharing three of this
   quiver's four Outfit-4 applications (flyline, dropper loop, trolling) at
@@ -175,6 +179,7 @@ outfits below.
 
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)

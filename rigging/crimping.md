@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [crimping, crimp-sleeve, chafe-gear, leader, terminal-tackle, big-game]
-sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ, jQzOdmP0zoQ, o6Sawz5S7bk]
+sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ, jQzOdmP0zoQ, o6Sawz5S7bk, uWGGeDOprsE]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -87,6 +87,20 @@ size, this one for the mechanic of seating it correctly.
   [Haywire Twist — wahoo live-bait leader](haywire-twist.md#wahoo-live-bait-leader)
   for the full sleeve-crimped (non-haywire) wahoo live-bait build this
   parameter comes from.
+- **A further, earlier (2009) independent citation of the same match-crimp-
+  to-wire-test rule (SearcherSportfishing, "Tackle Tips for Alijos Rocks and
+  The Ridge," `uWGGeDOprsE`, 2009-08-25; speaker not identified on camera;
+  `searcher-sportfishing` registered channel/series):** for wahoo casting/
+  trolling-lure wire specifically, crimps must be matched exactly to the
+  wire's stated pound test — buying crimps bigger than the wire needs
+  creates a mismatch that won't seat correctly. No specific size pairing
+  given (unlike the 60 lb wire → size A2 sleeve example above); the advice
+  given is to ask the tackle store for the crimp that matches whatever wire
+  is bought. This predates, and now qualifies as repeated doctrine alongside,
+  the `S80GRyuAbLY`/`_Z4yMtrYgeA` citation directly above. Full trip-tackle
+  context in [Searcher five-outfit quiver — 7-day trip to Alijos Rocks and
+  "The
+  Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md#terminal-tackle).
 
 ## Why crimp instead of tying a knot, at heavy leader classes (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
 
@@ -130,4 +144,5 @@ How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.co
 - [Haywire Twist](haywire-twist.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 <!-- backlinks:end -->

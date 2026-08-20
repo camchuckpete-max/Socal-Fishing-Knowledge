@@ -98,6 +98,11 @@ stated as "your minimum rod and reel combos for a 6-8 day trip."
 
 ## Related
 
+- [Searcher five-outfit quiver — 7-day trip to Alijos Rocks and "The
+  Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md) — an earlier (2009),
+  differently-sourced quiver for the same "the Ridge"/Alijos Rocks trip type,
+  sharing this outfit's trolling/dropper-loop-interchange pattern and matching
+  16 oz sinker figure.
 - [Searcher three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md) —
   the standing 1.5-to-4 day, three-outfit recommendation this heavy outfit is
   framed as adding a fourth to.
@@ -126,6 +131,7 @@ stated as "your minimum rod and reel combos for a 6-8 day trip."
 ## Linked from
 
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)

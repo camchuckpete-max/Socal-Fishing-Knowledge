@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc, 4uNPLknRAQg, _r08B4bItAY]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc, 4uNPLknRAQg, _r08B4bItAY, uWGGeDOprsE]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -69,6 +69,11 @@ leader is mandatory regardless of line test — see
   next morning at a stop captioned "Vallejos" (ASR-uncertain — not confidently
   resolved to a place name, flagged `asr-uncertain`, not carried as a
   destination); the Ridge/Uncle Sam Bank **450–460 mi**, a **two-day run**.
+  **A same-upload-date companion tackle video (`uWGGeDOprsE`, 2009-08-25)**
+  gives the rod/reel quiver and terminal tackle for this same 7-day Alijos
+  Rocks/"the Ridge" trip type — see [Searcher five-outfit quiver — 7-day trip
+  to Alijos Rocks and "The
+  Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md).
   See [Guadalupe Island distances](yellowfin-tuna.md#where--when) for the
   same source's mileage to that ground.
 - **Baja "lower banks," November:** wahoo swam through a giant-tuna school the
@@ -293,6 +298,7 @@ for locating wahoo specifically. General method:
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE]
 confidence: medium
 ---
 
@@ -525,6 +525,22 @@ able to break off** (aXF0bxAFtU0):
   the mono top shot's class because the drag is tuned for the mono, not the
   fluoro — is logged above under [When mono top
   shot](#when-mono-top-shot).
+- **A distinct, earlier rule — match the leader to the running line, or step
+  ONE size above, not necessarily the same size (SearcherSportfishing,
+  "Tackle Tips for Alijos Rocks and The Ridge," `uWGGeDOprsE`, 2009-08-25;
+  speaker not identified on camera; `searcher-sportfishing` registered
+  channel/series, single mention — medium confidence):** for a 7-day Alijos
+  Rocks/"the Ridge" trip's terminal tackle, the stated rule is "you either
+  want to match the line class that you have or be one step above" —
+  worked example given: **40 lb monofilament** running line, **50 lb
+  fluorocarbon** leader. This is not the same claim as the Izorline
+  same-rated-size-on-both-sides rule directly above (that rule is about the
+  mono-to-fluoro knot holding; this one is about choosing the leader's own
+  class relative to the main line, and explicitly allows going heavier, not
+  just matching) — kept side by side, not reconciled. Full trip-tackle
+  context in [Searcher five-outfit quiver — 7-day trip to Alijos Rocks and
+  "The
+  Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md#terminal-tackle).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -547,6 +563,7 @@ able to break off** (aXF0bxAFtU0):
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

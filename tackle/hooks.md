@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE]
 confidence: medium
 ---
 
@@ -135,6 +135,21 @@ and why anglers reach for it.
   logged below (now updated with this earlier corroboration), here recalling
   the identical **2019** ("last year") poor-bite season without giving the
   specific 1/0–2/0 sizes that citation names.
+- **A grade-vs-line-test mismatch trigger, distinct from the teeth/weight
+  mechanisms above (SearcherSportfishing, "Tackle Tips for Alijos Rocks and
+  The Ridge," `uWGGeDOprsE`, 2009-08-25; speaker not identified on camera;
+  `searcher-sportfishing` registered channel/series, single mention — medium
+  confidence):** for **wahoo-trip terminal tackle at Alijos Rocks**, the
+  stated trigger for reaching for a circle hook is not teeth or a fixed
+  weight cutoff but a **mismatch between fish grade and the line test they're
+  actually biting on** — "if at Alijos Rocks the fish are 60 to 80 lbs and
+  they're only biting 40 or 50 lb [test], then you need a circle hook." No
+  manufacturer or size is recommended on camera — an explicit refusal, on the
+  stated reasoning that circle-hook sizing varies by manufacturer; the advice
+  given is to ask a tackle-store dealer for what's best in a circle hook at
+  that line test. Full trip-tackle context in [Searcher five-outfit quiver —
+  7-day trip to Alijos Rocks and "The
+  Ridge"](searcher-alijos-rocks-ridge-7-day-quiver.md#terminal-tackle).
 - **Further corroboration, a sportboat captain's house doctrine (StokedOnFishing,
   `UfuiWFVvz2E`, video uploaded 2026-08-11, Cortez Bank, SoCal; Constitution
   charter; unregistered channel — medium confidence):** a pre-trip tackle
@@ -810,6 +825,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
