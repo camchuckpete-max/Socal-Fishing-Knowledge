@@ -83,4 +83,5 @@ set, not a claim that a given brand is required.
 
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](../planning/trip-length-selection.md)
 <!-- backlinks:end -->

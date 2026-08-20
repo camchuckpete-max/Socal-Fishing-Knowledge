@@ -78,6 +78,8 @@ navigate the whole KB.
 
 ## Supporting notes
 
+- [Trip-length selection](trip-length-selection.md) — the upstream "which
+  trip do I book" call (one-day vs. multi-day), before this protocol starts.
 - [Search & glassing](search-and-glassing.md) — how to run the day and read sign.
 - [Electronics & sounder](electronics-and-sounder.md) — finding fish on the meter.
 - [Report reading & forecasting](report-reading-and-forecasting.md) — aging
@@ -107,6 +109,7 @@ navigate the whole KB.
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
+- [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](trip-length-selection.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
