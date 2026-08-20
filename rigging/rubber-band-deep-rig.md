@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -128,11 +128,39 @@ drop-shot/brawler build logged in its own section below.
   the Vol. 225 video, this indicates the channel has taught the same
   two-build rig, including the neighboring-angler-tangle reasoning, since at
   least mid-2019 — not a doctrine that changed by 2023.
-- **Third dated instance, between the two above (SearcherSportfishing,
+- **A third dated instance, between the two above, new presenter
+  (SearcherSportfishing, `nWq2DVzBNeI`, "Tackle Tip Thursday Vol. 104 (Sinker
+  rig fishing)," 2020-06-18; presenter Armando; `searcher-sportfishing`
+  registered, and this is now a third dated instance of the same channel
+  teaching this build — high confidence for the mechanic itself).**
+  Target stated on camera as tuna and, in a partly garbled phrase, what reads
+  as yellowtail ("tuna fishing... tail fishing fishing in general") — not
+  confidently resolved beyond that, flagged `asr-uncertain`. Walks the same
+  pull-through mechanic start to finish:
+  - **Leader:** **4.5–5 ft of fluorocarbon**, tied to the mono main line with
+    a **surgeon's knot passed three times** ("one two three times"), cinched
+    tight, tags trimmed — the same 3-turn mono-to-fluoro surgeon's-knot count
+    already logged (not Carson's separate 4-turn/20–100 lb rule) in
+    [essential knots](essential-knots.md#parameters--judgment).
+  - **Hook knot:** tied to the working end of the fluorocarbon; Armando names
+    a "quick Palomar" for speed and also says he personally uses a San Diego
+    [knot] — consistent with the Palomar-for-speed-vs-San-Diego-for-strength
+    tradeoff already logged in [essential knots](essential-knots.md), but the
+    exact phrasing is garbled on which knot he ties in this demo, so kept as
+    a mention rather than a resolved parameter and flagged `asr-uncertain`.
+  - **Sinker placement, corroborating the above-the-leader-knot rule with new
+    phrasing:** "the placement of your sinker is going to be just above your
+    knot for your fluoro" — run the rubber band through the sinker's eye,
+    then back through the loop, then around the mono line just above the
+    leader knot and back through again, leaving the weight **dangling
+    freely, explicitly not wrapped around the line** — matching the
+    above-the-leader-knot placement already stated by Mason and Ray Sharifi
+    elsewhere in this note.
+- **Fourth dated instance, between the two above (SearcherSportfishing,
   `ewfWc7MTBPk`, "Tackle Tip Thursday Vol. 110 (In-line sinker rig fishing),"
   2020-07-30; presenter Billy at Fisherman's Landing Tackle Shop — the same
   presenter as [Crimping](crimping.md) and [Springer Knot](springer-knot.md);
-  `searcher-sportfishing` registered, and this is now a third dated instance
+  `searcher-sportfishing` registered, and this is now a fourth dated instance
   of the same mechanic from this channel — **high** confidence for the
   mechanic itself).** Billy's own name for it on camera is the **"in-line
   sinker rig,"** another name for the same family alongside "bridling it on"
