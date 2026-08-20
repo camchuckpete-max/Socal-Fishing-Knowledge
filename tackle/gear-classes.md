@@ -239,6 +239,7 @@ does the lookup.
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
+- [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Ned Rig](../techniques/ned-rig.md)

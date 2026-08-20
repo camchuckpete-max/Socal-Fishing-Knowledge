@@ -940,6 +940,7 @@ a bluefin).
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
+- [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)

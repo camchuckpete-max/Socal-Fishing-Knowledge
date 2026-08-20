@@ -11,6 +11,7 @@
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md) — A minimal hook box, sized by species and bait rather than by a long shopping list — one boat's answer to "what do I actually need to pack" (Carl, Fisherman's La
 - [Hooks — Style, Size, and Matching to Bait](hooks.md) — A hook is chosen on four axes: style (how it sets), size (matched to the bait, then the fish), wire gauge (how much it burdens a live bait vs.
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md) — How a jigging rod's guide train is built, and how wide its paired reel's spool is, both feed the same goal — keeping the line (and the jig) vertical and under c
+- [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md) — Lori Sack, a tackle sales associate at Turner's Outdoorsman, in a short segment on the SearcherSportfishing channel ("Tackle Tip Thursday Vol.
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md) — Spun out of hooks — this note is a single, narrow point that note's four-axis (style/size/wire-gauge/finish) framework doesn't cover: offset is a separate axis
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md) — Gear is a big investment; a rinse-and-store discipline is what makes it last.
@@ -42,120 +43,126 @@ graph LR
   n4["Hook Assortment by Trip Length — Overnight Through 5–6 Day"]
   n5["Hooks — Style, Size, and Matching to Bait"]
   n6["Spiral-Wrap ('Acid-Wrap') Guides and Narrow Reels for Jigging Rods"]
-  n7["Line & Leader — Braid, Mono, Fluoro by Application"]
-  n8["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
-  n9["Reel & Rod Maintenance — Offseason TLC"]
-  n10["Rod & Reel Selection — by Application"]
-  n11["Rod Length — Fitting the Stick to the Angler"]
-  n12["Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)"]
-  n13["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
-  n14["Searcher 50/60/80 lb Live-Bait Flyline Outfit — 'Don't Leave the Dock Without It' (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)"]
-  n15["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
-  n16["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
-  n17["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
-  n18["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n19["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
-  n20["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n21["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n22["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n0 --> n15
+  n7["Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)"]
+  n8["Line & Leader — Braid, Mono, Fluoro by Application"]
+  n9["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
+  n10["Reel & Rod Maintenance — Offseason TLC"]
+  n11["Rod & Reel Selection — by Application"]
+  n12["Rod Length — Fitting the Stick to the Angler"]
+  n13["Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)"]
+  n14["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
+  n15["Searcher 50/60/80 lb Live-Bait Flyline Outfit — 'Don't Leave the Dock Without It' (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)"]
+  n16["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n17["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
+  n18["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
+  n19["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
+  n20["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
+  n21["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
+  n22["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n23["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n0 --> n16
   n0 --> n2
   n0 --> n3
   n0 --> n5
-  n0 --> n7
-  n1 --> n10
-  n1 --> n15
-  n1 --> n18
+  n0 --> n8
+  n1 --> n11
+  n1 --> n16
+  n1 --> n19
   n1 --> n2
   n1 --> n3
-  n10 --> n1
+  n1 --> n7
   n10 --> n11
-  n10 --> n18
-  n10 --> n2
-  n10 --> n20
-  n10 --> n22
-  n10 --> n3
-  n10 --> n7
-  n11 --> n10
+  n10 --> n8
+  n11 --> n1
+  n11 --> n12
   n11 --> n19
-  n12 --> n13
-  n12 --> n15
-  n12 --> n2
-  n12 --> n5
-  n13 --> n15
+  n11 --> n2
+  n11 --> n21
+  n11 --> n23
+  n11 --> n3
+  n11 --> n8
+  n12 --> n11
+  n12 --> n20
+  n13 --> n14
+  n13 --> n16
   n13 --> n2
   n13 --> n5
-  n13 --> n7
-  n14 --> n0
-  n14 --> n15
+  n14 --> n16
   n14 --> n2
-  n14 --> n3
   n14 --> n5
+  n14 --> n8
   n15 --> n0
-  n15 --> n10
-  n15 --> n13
-  n15 --> n14
   n15 --> n16
-  n15 --> n19
   n15 --> n2
-  n15 --> n20
   n15 --> n3
-  n16 --> n13
+  n15 --> n5
+  n16 --> n0
+  n16 --> n11
+  n16 --> n14
   n16 --> n15
-  n17 --> n2
-  n17 --> n3
-  n17 --> n5
-  n17 --> n7
-  n18 --> n1
-  n18 --> n10
-  n18 --> n20
+  n16 --> n17
+  n16 --> n2
+  n16 --> n20
+  n16 --> n21
+  n16 --> n3
+  n17 --> n14
+  n17 --> n16
+  n18 --> n2
   n18 --> n3
+  n18 --> n5
+  n18 --> n8
+  n19 --> n1
   n19 --> n11
-  n19 --> n12
-  n19 --> n15
-  n19 --> n16
+  n19 --> n21
   n19 --> n3
   n2 --> n0
-  n2 --> n10
-  n2 --> n12
+  n2 --> n11
   n2 --> n13
-  n2 --> n15
-  n2 --> n17
+  n2 --> n14
+  n2 --> n16
+  n2 --> n18
   n2 --> n3
   n2 --> n5
   n2 --> n6
-  n2 --> n7
-  n20 --> n10
+  n2 --> n8
+  n20 --> n12
   n20 --> n13
-  n20 --> n15
-  n20 --> n18
+  n20 --> n16
+  n20 --> n17
   n20 --> n3
-  n21 --> n7
-  n22 --> n10
-  n22 --> n3
-  n3 --> n10
-  n3 --> n15
-  n3 --> n18
+  n21 --> n11
+  n21 --> n14
+  n21 --> n16
+  n21 --> n19
+  n21 --> n3
+  n22 --> n8
+  n23 --> n11
+  n23 --> n3
+  n3 --> n11
+  n3 --> n16
   n3 --> n19
   n3 --> n20
-  n3 --> n7
+  n3 --> n21
+  n3 --> n8
   n4 --> n5
-  n5 --> n12
   n5 --> n13
-  n5 --> n17
+  n5 --> n14
+  n5 --> n18
   n5 --> n2
   n5 --> n4
-  n5 --> n7
   n5 --> n8
-  n6 --> n10
+  n5 --> n9
+  n6 --> n11
   n6 --> n2
   n6 --> n3
-  n7 --> n10
-  n7 --> n13
+  n7 --> n1
+  n7 --> n11
   n7 --> n21
   n7 --> n3
-  n8 --> n5
-  n9 --> n10
-  n9 --> n7
+  n8 --> n11
+  n8 --> n14
+  n8 --> n22
+  n8 --> n3
+  n9 --> n5
 ```
 <!-- mermaid:end -->
