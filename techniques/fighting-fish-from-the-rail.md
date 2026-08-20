@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ, scScYJJF95Y]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -130,6 +130,41 @@ used by anglers who like one; a shoulder/back **harness**, by contrast, is
 now rarely seen — called cumbersome, and getting in and out of one costs
 time that's usually needed at exactly the wrong moment (a hot bite or a
 fish suddenly changing direction).
+
+## Seeker 2x4 rail-rod demo — watch the tip (Rick Holt and Sophia Nguyen, Seeker Rods)
+
+**(Rick Holt, Seeker Rods owner, with Sophia Nguyen, via SearcherSportfishing,
+"Tackle Tip Thursday Vol. 196 (Work Smarter with Seeker's 2x4 Rod),"
+`scScYJJF95Y`, 2022-09-08; `searcher-sportfishing` registered channel/series
+— medium confidence for the mechanism; the named rod stays low confidence,
+sponsored-claim caveat, since Holt and Nguyen are Seeker Rods staff.)** A
+specific rail-fighting drill demonstrated on a **Seeker OSP 2x4** rail rod
+(specs and named applications in [gear classes — rail-rod
+class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)):
+
+- **Stance:** rod tucked under the arm, reel hand positioned on/against the
+  reel, pushing the rod against the body rather than lifting it free of any
+  support.
+- **Watch the rod tip, not the fish or the line — the cue this demo adds:**
+  as the boat rocks and the fish loads the rod, the tip goes down; when the
+  tip comes back up, that's the cue to start winding. Wind continuously
+  while the tip is up; as soon as the rod loads again and the tip drops back
+  down, stop winding and let the fish/boat motion take over rather than
+  cranking against it.
+- **Reel stays in low gear** throughout. This is the same low-gear mechanism
+  as [two-speed low-gear fight](two-speed-low-gear-fight.md), but framed here
+  as an alternating wind/pause cued by the rod tip and the boat's rocking,
+  not that note's unbroken continuous grind — kept side by side, not merged,
+  since the two sources describe different cadences for staying in low gear.
+- **Stated reasoning:** the rocking of the sport boat plus the rod's own
+  power (captioned "the power of the glass and this plank" — asr-uncertain,
+  read as "blank," the rod blank, matching the "7 ft 3 composite blank" spec
+  named earlier in the same video) does most of the work, so the technique
+  doesn't depend on the angler's size or fitness — "it doesn't matter how
+  small you are or out of shape you are."
+- **Presenter's stated personal result,** offered on camera as support for
+  the technique: two fish over 100 lb caught back-to-back on this rod using
+  this method — not independently corroborated elsewhere in the corpus.
 
 ## Related
 

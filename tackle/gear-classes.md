@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0, aAqKHeyBwEo, an_uw-5pjfw, scScYJJF95Y]
 confidence: high
 ---
 
@@ -119,6 +119,45 @@ shots for live bait vs. flat-fall/dropper-loop — is in [Searcher
 three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md), which
 also independently corroborates this section's own 1.5-day/3-day trip-length
 framing.
+
+**A fourth citation — a distinct, heavier model with full specs (Rick Holt,
+Seeker Rods owner, with Sophia Nguyen, via SearcherSportfishing, "Tackle Tip
+Thursday Vol. 196 (Work Smarter with Seeker's 2x4 Rod)," `scScYJJF95Y`,
+2022-09-08; `searcher-sportfishing` registered channel/series, but Holt and
+Nguyen are Seeker Rods staff naming their own company's product — the named
+model stays **low confidence**, sponsored-claim caveat, per the same rule
+applied to the OSP 1x3/SSR 7650 citations above; the mechanism/parameters
+below rate normally):**
+
+- **Seeker OSP 2x4** — rated **80 to 130 lb line**, a **7 ft 3 in composite**
+  blank, "heavy duty guides," and what the source calls an "indestructible"
+  foregrip — the same long-foregrip rail mechanism as the OSP 1x3 above, one
+  size class up. Framed on camera as the single rod to own for "the heavier
+  line" tier of a quiver.
+- **Named applications:** the sinker rig, the knife jig fished at night, and
+  flylining for big fish on long-range trips — the source's own examples are
+  **10-, 16-, and 18-day trips**. See [sliding sinker](../techniques/sliding-sinker.md),
+  [knife jigging](../techniques/knife-jigging.md), and
+  [flyline](../techniques/flyline.md) for those techniques.
+- **Name discrepancy, asr-uncertain:** this video's auto-caption gives
+  "Sophia Nguyen"; the Seeker Athena flyline-rod pick in [rod & reel
+  selection — flyline reel & rod
+  selection](rod-and-reel-selection.md#flyline-reel--rod-selection)
+  gives "Sophia Quinn," auto-captioned from a different (2019) video in the
+  same series. Both are Seeker Rods reps on the same Tackle Tip Thursday
+  program; plausibly one person heard two ways by two separate caption
+  passes, but neither video's title or description gives a surname, so the
+  two spellings are carried side by side rather than merged into one
+  identity.
+- An on-camera rail-fighting demo using this rod is logged in [fighting fish
+  from the rail — Seeker 2x4 rail-rod
+  demo](../techniques/fighting-fish-from-the-rail.md#seeker-2x4-rail-rod-demo--watch-the-tip-rick-holt-and-sophia-nguyen-seeker-rods).
+- A separately-sourced **Seeker 2x4** citation exists for the Searcher's
+  dedicated kite outfits (Accurate ATD 50 reels, 200 lb spectra) in [kite
+  fishing](../techniques/kite-fishing.md#observed-outfit-and-dead-flyer-specs-searchers-kite-program-via-turners-outdoorsman)
+  — not reconciled here as the same or a different physical rod set, since
+  neither source cross-references the other; kept as separate citations of
+  the same product name.
 
 ## Line classes
 
