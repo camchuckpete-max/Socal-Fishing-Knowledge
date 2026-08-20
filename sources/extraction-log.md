@@ -2365,7 +2365,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 1l05hEXDaWw | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: added light-drag/steady-tension fighting doctrine ('keep them asleep'), medium confidence |
 | 1nBqYdvVrXY | Tackle Express | tutorial | parameter-skim | done | tackle/star-drag-vs-lever-drag.md + techniques/two-speed-low-gear-fight.md: narrow-spool two-speed casting counter-example + structure-context low-gear fight use, medium confidence |
 | 28FQZvZ8v6k | Tackle Express | tutorial | parameter-skim | done | tackle/composite-rod-blank-construction.md (new) + tackle/rod-and-reel-selection.md: composite blank transition-line/taper mechanism, medium confidence |
-| 2DfGpewNRYc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2DfGpewNRYc | Tackle Express | tutorial | parameter-skim | done | none: generic packing/travel-logistics content, excluded by curation bar |
 | 2Ee2DFZ9Wk4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | 2QphkC2cK14 | Tackle Express | tutorial | parameter-skim | pending |  |
 | 2c8UomduE3c | Tackle Express | tutorial | parameter-skim | pending |  |
