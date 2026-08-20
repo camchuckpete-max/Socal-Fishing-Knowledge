@@ -55,5 +55,6 @@ knowledge — not extracted further here per the curation bar.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 <!-- backlinks:end -->

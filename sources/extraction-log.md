@@ -2416,7 +2416,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md; tackle/hooks.md / Cedros yellowtail size data point (19-33lb) and Owner ST-66 hook upgrade citation merged into existing notes |
 | 9qwsg-e9ECA | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md; species/california-halibut.md / surf drag-and-shake drop-shot cadence (drag=target length 22-30in, ~3-4ft strike radius) added to drop-shot technique + halibut router |
 | A-D5MYB98yo | Tackle Express | tutorial | parameter-skim | done | none / 31-second fragment, no extractable parameters, duplicates existing vertical-jigging coverage |
-| A6-KPjRwGSQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| A6-KPjRwGSQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-accurate-valiant-2-spj-reel.md; techniques/slow-pitch-jigging.md; tackle/tackle-express-accurate-tern-2-reel.md / new low-confidence product note for Accurate Valiant 2 SPJ reel, linked from SPJ technique gear detail |
 | A7rveRBkL-g | Tackle Express | tutorial | parameter-skim | pending |  |
 | A8_ydUnS0CQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | AJfDjN-7K4w | Tackle Express | tutorial | parameter-skim | pending |  |

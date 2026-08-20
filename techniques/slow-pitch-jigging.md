@@ -234,6 +234,12 @@ Execution only; species and situations are the reverse map in **Linked from**.
     jig to keep it from rattling loose and denting the exposed carbon blank in
     transit — relevant given this note's own thin/high-carbon blank
     fragility above.
+- **Reel:** small, narrow, high-speed conventional, single- or two-speed —
+  see [gear classes](../tackle/gear-classes.md) SPJ / slow-pitch class row. A
+  named single/two-speed product example: [Accurate Valiant 2
+  SPJ](../tackle/tackle-express-accurate-valiant-2-spj-reel.md) (Tackle
+  Express; automatic centrifugal cast brake, low-confidence product-spec
+  note — no comparative reel doctrine here).
 - **Line — thin braid is the whole point.** No stretch for action, and thin
   diameter so the jig **falls straight down**; even a jump from ~20 lb to 30/40/50
   lb braid adds scope and blows the jig sideways. Deeper water → thinner braid.
@@ -376,6 +382,7 @@ terms until it lands.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](../tackle/tackle-express-accurate-valiant-2-spj-reel.md)
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)

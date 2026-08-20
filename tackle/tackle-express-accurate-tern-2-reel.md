@@ -115,10 +115,16 @@ personal preference for the new design over the original Tern, and calls it
 - [Line & leader](line-and-leader.md) — general braid/top-shot material
   doctrine; this note's leader-length figure is a single presenter's rule of
   thumb, not merged into that note's broader treatment.
+- [Accurate Valiant 2 SPJ — centrifugal brake, strike button,
+  single/two-speed](tackle-express-accurate-valiant-2-spj-reel.md) — a
+  different Accurate reel line, same channel, whose automatic centrifugal
+  brake is a less-detailed analogue of this Tern 2's adjustable
+  cast-control brake.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md)
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
