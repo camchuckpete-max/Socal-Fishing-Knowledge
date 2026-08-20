@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0]
 confidence: high
 ---
 
@@ -74,6 +74,39 @@ in [bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) target.
 - **Observed catch credited to this exact combo:** a **315 lb bluefin**, 59
   mi off Point Loma — full catch detail in
   [bluefin tuna](../species/bluefin-tuna.md#where--when).
+
+## Flat-fall leader rig — SK 250 g vs Nomad 320 g, two-speed outfit (speaker not named on camera, "Tackle Tip Thursday Vol. 54 (Flat Falls)," `ZKb13fNT6P0`, uploaded 2019-06-27)
+
+`searcher-sportfishing` registered channel, single-mention citation of this
+specific rig — mechanism/leader parameters read **medium** confidence; the two
+named products (SK, Nomad) are a shop callout ("you can get them right here at
+Fisherman's Landing") and stay **low** confidence per this channel's
+sponsored-claim rule. Presented as "the new latest and greatest" flat-fall
+setup, predates and is thematically paired with the
+[glow/big-hook flat-fall pick](#one-reel-pick-for-giant-tuna-150250-lb--endurance-over-max-drag-steve-clarkson-searcher-sportfishing-2020-03-19)
+above — both are night-bite, two-speed-rail flat-fall builds, kept as separate
+dated entries rather than merged.
+
+- **SK, 250 g:** rigged with **200 lb fluorocarbon**, **crimped**, and a
+  **double hook setup**. Tied to the two-speed rail outfit with **60 or 80 lb
+  test** — the same 60/80 lb range as
+  [Rig 1's top shot](#rig-1--heavy-outfit-80-lb) above, though this segment
+  gives no braid-backing or top-shot-yardage detail the way Rig 1 does.
+  Fished by **letting it fall** — no retrieve/work detail given; see
+  [knife / speed jigging](../techniques/knife-jigging.md) for the general
+  flat-fall drop mechanics this pairs with.
+- **Nomad, 320 g:** heavier than the SK. Also rigged with **200 lb
+  fluorocarbon**, but crimped to a **swivel** ("the correct crimp size")
+  rather than tied straight through, and carries **an additional hook**
+  compared to the SK's double-hook setup — the transcript doesn't state the
+  resulting total hook count, so this is logged as "one more than the SK,"
+  not as a confirmed number. Also tied to a two-speed outfit; fished by
+  **letting it sink**. Target species named on camera: **bluefin tuna**.
+- Brand note: "SK" is not further identified on camera; it may be the same
+  **Daiwa SK** jig line already logged at a lighter weight range (140–170 g)
+  in [knife jigs](../lures/knife-jigs.md#night-lure-sizing-matched-to-outfit-size-and-profile-shape-gavin-pacific-queen),
+  but this video's 250 g doesn't overlap that range and the brand isn't
+  confirmed here, so the two aren't merged.
 
 ## Three-rig ladder for big bluefin, up to 300–350 lb (Steve Carson, Penn/Searcher, 2022-04-21)
 

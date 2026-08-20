@@ -2140,7 +2140,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | YeV--HarEYQ | SearcherSportfishing | tutorial | deep | done | rigging/san-diego-jam-knot.md (new, split from essential-knots.md) + 8 dependent notes: Armando's single-pass San Diego jam demo (7-wrap data point), tension-rationale clause added |
 | YtlD1gQ_ULw | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: Gamakatsu Nautilus regular/HD/Light hook-size tip added as low-confidence sponsored endorsement, juxtaposed with existing Nautilus entry; fixed trailing ASR-garbled size specifics |
 | ZECOKmD4fIs | SearcherSportfishing | tutorial | deep | done | rigging/slim-beauty-knot.md: amended with Vol.127's leader-naming, 4-turn uni, 9-forward/8-back wrap counts; confidence raised medium→high on repeated-doctrine grounds |
-| ZKb13fNT6P0 | SearcherSportfishing | tutorial | deep | pending |  |
+| ZKb13fNT6P0 | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md: Added flat-fall leader rig (SK 250g / Nomad 320g) entry to Searcher big-tuna rig ladder, appropriately confidence-split between mechanism (medium) and sponsored product names (low); fixed one wrong-target link to techniques/knife-jigging.md |
 | Zhn-VDrlaLM | SearcherSportfishing | tutorial | deep | pending |  |
 | _VtL0DrNdAU | SearcherSportfishing | tutorial | deep | pending |  |
 | _Z4yMtrYgeA | SearcherSportfishing | tutorial | deep | pending |  |
