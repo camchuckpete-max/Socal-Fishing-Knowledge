@@ -2293,7 +2293,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | QOV9d0qTcEE | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 49s clip with no extractable fishing content |
 | QeU9J5XVhP4 | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: nothing extractable, garbled clip with no stated rationale |
 | Qk6Q1UJMTpQ | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: nothing extractable, unintelligible ASR banter |
-| RhULLaUsEDk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| RhULLaUsEDk | SearcherSportfishing | on-the-water | decision-rationale | done | locations/cedros-island.md: Observed block, flylined-sardines yellowtail session, medium confidence |
 | S6Ic8aXDdIg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Sx40JvCXFuA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | URJm6qDHgqg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |

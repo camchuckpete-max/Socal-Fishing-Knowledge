@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -113,6 +113,25 @@ an angler (Adam) reporting **seven** yellowtail landed and his grandfather
 (Bob Blum) **five**, "used all the different techniques" — no technique or
 tackle choice was named or reasoned on camera, so no technique detail carries
 from this source.
+
+**Observed** (SearcherSportfishing, 2009-07-27 upload, Cedros Island —
+`RhULLaUsEDk`, opening caption reads "Cedros Island Yellowtail" (auto-generated
+from audio, so this may be spoken narration rather than an on-screen title —
+not confirmed which); a 79-second on-the-water clip, auto-generated captions,
+badly garbled — an even earlier
+Cedros yellowtail data point than the `K4GTUO57rio` entry above, predating it
+by about 16 months; a different content type than this channel's registered
+Tackle Tip Thursday/Tackle Talk Live series, so treated as an
+unregistered-channel mention — medium confidence): [flylined](../techniques/flyline.md)
+sardines produced multiple hookups on the trip — captions render "two or
+three hooked up back there" — on what's called on camera "an excellent day
+of Yellowtail fishing" at Cedros Island. No reason was given on camera for
+fishing a flylined bait over another method, so this is recorded as an
+observation, not technique doctrine. Captain Kevin is named on camera running
+the boat. Captions render a word ahead of "yellows" as "silent" —
+asr-uncertain, not confidently resolved to a bite-quality description or a
+mishearing, kept as heard and not connected to this note's separate
+soft-take doctrine below.
 
 **Forage seen on the grounds:** **micro red crab** in the water on the trip
 filmed, plus bait metered on the bottom in **183 ft**. An operator running its

@@ -758,6 +758,7 @@ holding deep, not a claim that straight braid is wrong.
 - [California Barracuda](../species/barracuda.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
