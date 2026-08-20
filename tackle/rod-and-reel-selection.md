@@ -40,7 +40,7 @@ rating](all-purpose-rod-line-rating.md).
 | Slow-pitch | specialized parabolic | small narrow high-speed | thin (PE1.5–2) braid | [slow-pitch](../techniques/slow-pitch-jigging.md) |
 | Big bluefin cast/fight | rail rod 2x4 / 50–100 lb | HD30 / Fathom 60 / 2-speed | 130 lb braid | rail-rod class |
 | Troll / spreader bar | 7–7.5 ft, XXXX-H | 80-size 2-speed, ~1000 yd | 150–200 lb | [trolling](../techniques/trolling.md) |
-| Inshore lures / bass | ~7–9 ft, M–H | low-profile baitcast (200/300/400) | 30–65 lb braid | baitcast class |
+| Inshore lures / bass | ~7–9 ft, M–H | low-profile baitcast (200/300/400) | 30–65 lb braid | [baitcast class](gear-classes.md); B-version upgrades on the [Tranx 400B](tackle-express-shimano-tranx-400b-reel.md) |
 | Bottom / rockfish | 6–7 ft, H | conventional or electric | 30–50 lb braid | [rockfish deep-drop](../techniques/rockfish-deep-dropping.md) |
 
 ## The offshore quiver — a top-5 framework (xPFm_ZV2PZU)
@@ -914,6 +914,7 @@ a bluefin).
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
+- [Shimano Tranx 400B — SVS MDTune, Solid Core Body, and X-Protect (Tackle Express)](tackle-express-shimano-tranx-400b-reel.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)

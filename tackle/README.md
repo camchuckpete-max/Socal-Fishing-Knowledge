@@ -49,6 +49,7 @@
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
+- [Shimano Tranx 400B — SVS MDTune, Solid Core Body, and X-Protect (Tackle Express)](tackle-express-shimano-tranx-400b-reel.md) — Tackle Express, "Shimano Tranx 400B – 3 Upgrades You Need to Know," DPrr0a3vQY0, uploaded 2026-01-16 — an 80-second feature rundown of the B-version upgrades ov
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
 <!-- index:end -->
 
@@ -56,5 +57,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 46 notes exceed the 30-node cap._
+_Map skipped: 47 notes exceed the 30-node cap._
 <!-- mermaid:end -->

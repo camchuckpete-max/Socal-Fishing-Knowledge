@@ -89,6 +89,7 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
+- [Shimano Tranx 400B — SVS MDTune, Solid Core Body, and X-Protect (Tackle Express)](../../tackle/tackle-express-shimano-tranx-400b-reel.md)
 - [Swordfish (Broadbill)](../../species/swordfish.md)
 - [Yellowtail](../../species/yellowtail.md)
 <!-- backlinks:end -->
