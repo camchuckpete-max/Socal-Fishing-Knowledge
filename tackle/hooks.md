@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds]
 confidence: medium
 ---
 
@@ -378,6 +378,16 @@ by line class rather than by bait or technique — full rig context in
   hook — explicitly *not* the "Light" version and *not* the "hybrid" version
   he names on camera (exact model beyond those two exclusions is
   asr-uncertain), size **4** preferred, size **2** as the largest he'll go.
+  - **An earlier (2023-03-02), same-speaker citation names the model:**
+    Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 215
+    (Landing Large Tuna on 30# Outfit)," `riEkdu8PEds`; `searcher-sportfishing`
+    registered channel. This clip states the hook directly as an **Owner
+    Mutu circle hook**, at the same two sizes — size **2** called most
+    popular, size **4** "really good if you can find them" (hard to find in
+    stock) — first/second preference simply reversed from the citation
+    above, the same reversed-preference pattern already logged for this
+    channel's 40 lb starter-rig hook. Full rig in [Searcher 30 lb large-tuna
+    outfit](searcher-30lb-large-tuna-outfit.md).
 - **40 lb starter rig, to ~100 lb fish:** **Owner Mutu circle hook**, size
   **4**, sometimes **2** — in range with, and a further data point for, the
   size-4 / 1/0–2/0 Owner Mutu figures already logged above.
@@ -643,6 +653,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)

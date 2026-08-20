@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ, riEkdu8PEds]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank]
@@ -925,6 +925,17 @@ shot in [gaffing](../fish-care/gaffing.md).
   The 30/40 lb rigs pair with a **two-speed low-gear fighting
   technique** — continuous-grind instead of pump-and-reel — logged in
   [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md).
+  - **An earlier (2023-03-02), independently-filmed citation of the 30 lb
+    "big fish finesse" doctrine, same speaker, on a `searcher-sportfishing`-
+    registered venue (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip
+    Thursday Vol. 215," `riEkdu8PEds`):** the identical scenario — late
+    July/August, 40–70 lb tuna around the boat refusing 40–50 lb line but
+    eating 30 lb — stated as recurring "the last five years in a row" as of
+    that upload. Repetition from a registered voice reaches **high**
+    confidence for this doctrine. Full rig and the fighting mechanic (a
+    two-speed's continuous low-gear grind gains ~1–2 ft of depth per circle
+    on a 50–70 lb fish) are in [Searcher 30 lb large-tuna
+    outfit](../tackle/searcher-30lb-large-tuna-outfit.md).
   - **An earlier (2020-10-01), closely-matching citation of the 15 lb finesse
     rig, same speaker/channel (Steve Carson, Penn/SearcherSportfishing,
     `ptoIvB2MspE`; single mention here — medium confidence, high where it
@@ -1106,6 +1117,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)

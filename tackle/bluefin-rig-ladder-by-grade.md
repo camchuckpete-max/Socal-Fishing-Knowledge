@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig, albacore]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c, fyJA3o2hVh0, ptoIvB2MspE]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c, fyJA3o2hVh0, ptoIvB2MspE, riEkdu8PEds]
 confidence: medium
 ---
 
@@ -104,6 +104,20 @@ biting well.
   boat that simply won't eat a 40 or 50 lb outfit — "they're 50, they're 60,
   they're 70 lb, they won't bite on 40, they won't bite on 50... now you got
   to catch them on 30."
+- **An earlier (2023-03-02), independently-filmed citation of this same
+  doctrine, same speaker, this time on a `searcher-sportfishing`-registered
+  venue (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol.
+  215 (Landing Large Tuna on 30# Outfit)," `riEkdu8PEds`):** describes the
+  identical scenario — late July/August, 40–70 lb tuna around the boat that
+  won't eat 40 or 50 lb line but will eat 30 lb — as a recurring pattern
+  stated to hold "the last five years in a row" as of that upload. The
+  matching doctrine from a registered voice, repeated across an unregistered
+  and a registered venue, reaches **high** confidence here; full rig
+  (reel/line/rod/leader/hook), the reel trade-off between a Penn Fathom II 15
+  and a Penn Torque 15 Extra Narrow, and the fighting mechanic are in
+  [Searcher 30 lb large-tuna outfit](searcher-30lb-large-tuna-outfit.md) —
+  this earlier video also names the hook this section's "small Owner circle
+  hook" leaves unnamed: an **Owner Mutu**, same 2/4 sizing.
 - **Reel:** **two-speed**, Penn Fathom **15-size** (his own build carries
   roughly **350 yd of braid plus a 50 yd top shot**).
 - **Hook:** a small **Owner circle hook** — the speaker is explicit it is
@@ -472,6 +486,9 @@ between the two talks.
 
 - [Searcher big-tuna rig ladder](searcher-big-tuna-rig-ladder.md) — the
   giant-tuna and big-tuna rig entries split out of this note.
+- [Searcher 30 lb large-tuna outfit](searcher-30lb-large-tuna-outfit.md) — an
+  earlier, independently-filmed citation of Rig 2, same speaker, from a
+  registered venue.
 - [Searcher finesse live-bait outfit — 20 lb and 15
   lb](searcher-finesse-live-bait-outfit.md) — an earlier, closely-matching
   citation of Rig 1, same speaker/channel.
@@ -510,6 +527,7 @@ between the two talks.
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)

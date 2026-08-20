@@ -16,6 +16,7 @@
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md) — Gear is a big investment; a rinse-and-store discipline is what makes it last.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Rod length isn't only an application variable (see the application table in rod & reel selection) — it also has to fit the angler holding it.
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md) — Steve Carson, aboard the Searcher (riEkdu8PEds, "Tackle Tip Thursday Vol.
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md) — Steve Carson, aboard the Searcher (fyJA3o2hVh0, "Tackle Tip Thursday Vol.
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md) — Steve Carson, aboard the Searcher (k4U3ETqmlEc, "Tackle Tip Thursday Vol.65 (Must-have Outfit)," uploaded 2019-09-12 — a 72-second segment).
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
@@ -45,86 +46,93 @@ graph LR
   n9["Reel & Rod Maintenance — Offseason TLC"]
   n10["Rod & Reel Selection — by Application"]
   n11["Rod Length — Fitting the Stick to the Angler"]
-  n12["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
-  n13["Searcher 50/60/80 lb Live-Bait Flyline Outfit — 'Don't Leave the Dock Without It' (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)"]
-  n14["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
-  n15["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
-  n16["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
-  n17["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n18["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n19["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n20["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n0 --> n14
+  n12["Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)"]
+  n13["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
+  n14["Searcher 50/60/80 lb Live-Bait Flyline Outfit — 'Don't Leave the Dock Without It' (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)"]
+  n15["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n16["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
+  n17["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
+  n18["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
+  n19["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
+  n20["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n21["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n0 --> n15
   n0 --> n2
   n0 --> n3
   n0 --> n5
   n0 --> n7
   n1 --> n10
-  n1 --> n14
-  n1 --> n17
+  n1 --> n15
+  n1 --> n18
   n1 --> n2
   n1 --> n3
   n10 --> n1
   n10 --> n11
-  n10 --> n17
   n10 --> n18
+  n10 --> n19
   n10 --> n2
-  n10 --> n20
+  n10 --> n21
   n10 --> n3
   n10 --> n7
   n11 --> n10
-  n12 --> n14
+  n12 --> n13
+  n12 --> n15
   n12 --> n2
   n12 --> n5
-  n12 --> n7
-  n13 --> n0
-  n13 --> n14
+  n13 --> n15
   n13 --> n2
-  n13 --> n3
   n13 --> n5
+  n13 --> n7
   n14 --> n0
-  n14 --> n10
-  n14 --> n12
-  n14 --> n13
   n14 --> n15
-  n14 --> n18
   n14 --> n2
   n14 --> n3
-  n15 --> n12
+  n14 --> n5
+  n15 --> n0
+  n15 --> n10
+  n15 --> n13
   n15 --> n14
-  n16 --> n2
-  n16 --> n3
-  n16 --> n5
-  n16 --> n7
-  n17 --> n1
-  n17 --> n10
-  n17 --> n18
+  n15 --> n16
+  n15 --> n19
+  n15 --> n2
+  n15 --> n3
+  n16 --> n13
+  n16 --> n15
+  n17 --> n2
   n17 --> n3
+  n17 --> n5
+  n17 --> n7
+  n18 --> n1
   n18 --> n10
-  n18 --> n12
-  n18 --> n14
-  n18 --> n17
+  n18 --> n19
   n18 --> n3
-  n19 --> n7
+  n19 --> n10
+  n19 --> n13
+  n19 --> n15
+  n19 --> n18
+  n19 --> n3
   n2 --> n0
   n2 --> n10
   n2 --> n12
-  n2 --> n14
-  n2 --> n16
+  n2 --> n13
+  n2 --> n15
+  n2 --> n17
   n2 --> n3
   n2 --> n5
   n2 --> n6
   n2 --> n7
-  n20 --> n10
-  n20 --> n3
+  n20 --> n7
+  n21 --> n10
+  n21 --> n3
   n3 --> n10
-  n3 --> n14
-  n3 --> n17
+  n3 --> n15
   n3 --> n18
+  n3 --> n19
   n3 --> n7
   n4 --> n5
   n5 --> n12
-  n5 --> n16
+  n5 --> n13
+  n5 --> n17
   n5 --> n2
   n5 --> n4
   n5 --> n7
@@ -133,8 +141,8 @@ graph LR
   n6 --> n2
   n6 --> n3
   n7 --> n10
-  n7 --> n12
-  n7 --> n19
+  n7 --> n13
+  n7 --> n20
   n7 --> n3
   n8 --> n5
   n9 --> n10

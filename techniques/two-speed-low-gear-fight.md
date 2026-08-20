@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -85,6 +85,22 @@ fish as big as 65 lb. Repeated over and over, this **protracts the fight**
 for something to go wrong: a shark shows up, the line tangles with another
 angler's, or another failure the source only characterizes as "etc., etc."
 
+**A further, independent citation, naming a concrete gain-per-circle figure
+(Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 215
+(Landing Large Tuna on 30# Outfit)," `riEkdu8PEds`, 2023-03-02;
+`searcher-sportfishing` registered channel):** fishing a 50–70 lb bluefin on
+30 lb test specifically, the same continuous low-gear grind ("pop that reel
+into low, or what they call the Easy Button, and just start grinding") does
+not wind the fish straight in — "you don't wind them straight in, that's not
+what happens" — but keeps it circling and **gaining roughly 1–2 ft of depth
+per circle**, versus a one-speed reel's pump-and-reel giving line back on
+every down-stroke. The single highest priority through the fight, stated the
+same way here as elsewhere in this note: **keep the line tight**, since
+30 lb test against a fish that size means "you're not going to stop him... he's
+going to run... at full speed," and any slack lets the hook fall out. Full
+rig this fighting mechanic is built around is in [Searcher 30 lb large-tuna
+outfit](../tackle/searcher-30lb-large-tuna-outfit.md).
+
 ## The fix — shift to low, then grind continuously
 
 - **Shift the reel into low (second) gear** ("push the little easy button")
@@ -131,6 +147,7 @@ soon as that fish is landed.
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->
