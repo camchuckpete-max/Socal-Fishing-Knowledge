@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -128,6 +128,32 @@ drop-shot/brawler build logged in its own section below.
   the Vol. 225 video, this indicates the channel has taught the same
   two-build rig, including the neighboring-angler-tangle reasoning, since at
   least mid-2019 — not a doctrine that changed by 2023.
+- **Third dated instance, between the two above (SearcherSportfishing,
+  `ewfWc7MTBPk`, "Tackle Tip Thursday Vol. 110 (In-line sinker rig fishing),"
+  2020-07-30; presenter Billy at Fisherman's Landing Tackle Shop — the same
+  presenter as [Crimping](crimping.md) and [Springer Knot](springer-knot.md);
+  `searcher-sportfishing` registered, and this is now a third dated instance
+  of the same mechanic from this channel — **high** confidence for the
+  mechanic itself).** Billy's own name for it on camera is the **"in-line
+  sinker rig,"** another name for the same family alongside "bridling it on"
+  (Vol. 55) and "rubber-band rig"/"wrapped" build (Vol. 225) above. Walked
+  through step by step, matching the wrapped/bridled mechanic rather than the
+  simple pull-through build: rubber-band the sinker on with an overhand hitch
+  first so it hangs loosely, pass that end of the band through the sinker's
+  eye, then — specifically to stop the sinker sliding up and down the line —
+  lay the line across the sinker body and wrap the band around it a couple of
+  times, pass that same end back through the sinker's other eye and pinch it
+  to hold, then take the hook already tied onto the line and pass the hook
+  point through the resulting loop and pull it all the way down. Billy's
+  stated result: the sinker rides "perfectly in line on the line" and "not
+  going to be able to slide up and down nearly as easy as it would if you
+  didn't wrap it around" — the same anti-slide/anti-tangle reasoning as the
+  wrapped build above, though this clip does not mention a breakaway or say
+  what happens to the sinker on a hookup, so that part is not asserted here
+  either way. **Dated efficacy claim:** Billy calls this "pretty much the
+  most effective way" to catch bluefin tuna in the week before the
+  2020-07-30 upload, on SoCal local waters — a dated, attributed claim, not
+  generalized beyond that window.
 
 ## Depth-target detail — a fourth Searcher data point (Steve Carson, Vol. 59, 2019-10-16)
 

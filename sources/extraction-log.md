@@ -2162,7 +2162,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | eLPTMO3-_1Q | SearcherSportfishing | tutorial | deep | done | rigging/surgeons-loop.md / added the 2018 earliest-dated SearcherSportfishing dropper-loop/San-Diego-jam segment (line class, sinker, Owner Gorilla hook size, loop-length figures) as a distinct dated entry alongside the 2024 segments; confidence high per registered channel + repeated doctrine |
 | eZXPqiAtqi8 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md; rigging/improved-clinch-knot.md; tackle/hooks.md / offshore kelp-paddy dorado/yellowfin rig (25-40 lb reel, 3 ft/25 lb fluoro leader via 3-turn surgeon's knot, Owner Live Bait hook 1/1-0 via improved clinch knot); fixed missing link-maintenance run |
 | ew7Lru8wmQs | SearcherSportfishing | tutorial | deep | done | tackle/line-and-leader.md / added single-mention mono-to-fluoro size-match tip to Connections section, medium confidence |
-| ewfWc7MTBPk | SearcherSportfishing | tutorial | deep | pending |  |
+| ewfWc7MTBPk | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / third dated SearcherSportfishing instance of the wrapped/bridled rubber-band torpedo-sinker mechanic (Billy, Fisherman's Landing), placed chronologically between Vol. 55 and Vol. 225 entries |
 | fg2v1kxoTMA | SearcherSportfishing | tutorial | deep | pending |  |
 | fgTmUq78ofQ | SearcherSportfishing | tutorial | deep | pending |  |
 | fyJA3o2hVh0 | SearcherSportfishing | tutorial | deep | pending |  |

@@ -81,4 +81,5 @@ How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.co
 ## Linked from
 
 - [Bluefin Bite Leaders](bite-leaders.md)
+- [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 <!-- backlinks:end -->

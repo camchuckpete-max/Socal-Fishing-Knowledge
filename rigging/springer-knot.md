@@ -99,4 +99,5 @@ How-to videos:
 
 - [Essential SoCal Knots](essential-knots.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
+- [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 <!-- backlinks:end -->
