@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -196,7 +196,12 @@ than iron.
   confidence). No trip-envelope detail (day count at Cedros, technique, grade)
   given for this route; kept side by side with, not merged into, the
   fly-in-lodge trip shape documented above — a different operator and access
-  mode to the same island.
+  mode to the same island. **The same day's companion video** (Capt. Art,
+  "Capt Art's tackle tips," `lYyi_Yh3S5g`, also 2009-08-25 upload — a distinct
+  tackle-tips segment, not re-cut footage of the trip-preview video above)
+  names Cedros, alongside the San Benitos, as one of his favorite places to
+  fish surface iron for yellowtail — gear detail (Tady 45 / Salas 7X) is
+  logged in [surface iron](../techniques/surface-iron.md#size--weight-selection).
 - Mexican paperwork for a fly-in trip is not covered by this source. The
   general Mexico requirements (FMM, CONAPESCA sport-fishing licence, and the
   fact that they are regulations with jurisdictions and expiry) are recorded

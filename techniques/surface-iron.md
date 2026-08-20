@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc, lYyi_Yh3S5g]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -321,6 +321,27 @@ while somebody is still connected.
   AA-light on the 80 lb jig stick — the downsized setup is a medium-action 9 ft
   graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
   fluorocarbon leader (2/27/25).
+- **Earliest-dated citation of the Tady 45 / Salas 7X pairing as "the number
+  one" surface iron (Capt. Art, SearcherSportfishing, "Capt Art's tackle
+  tips," `lYyi_Yh3S5g`, 2009-08-25; self-identified on camera as "Captain
+  Art"; `searcher-sportfishing` registered channel — **product/model naming,
+  capped `low` per the channel's sponsored-claim caveat** (as with the Colt
+  Sniper naming above), not `medium`):** asked for his favorite lure, Art names surface iron fished on
+  a long rod for the distance it casts as his favorite way to fish, singling
+  out [Cedros Island](../locations/cedros-island.md) and the San Benito
+  Islands for yellowtail as "one of my favorite places" — reaching for a
+  **Tady 45** (captioned "Tatty 45," the known Tady→"Tatty" caption
+  corruption) or a **Salas 7X** (captioned "Salis 7x"/"Salah 7x," an
+  unlisted ASR variant of the known Salas corruption, read from context —
+  the model is elsewhere confirmed by name throughout this note). Stated
+  reason: these are "surface jigs that swim really well with a slow
+  retrieve" — consistent with this note's steady-grind retrieve doctrine
+  above. Predates, and independently corroborates, the earliest other
+  citations of this pairing as the historical standard already logged above
+  (`GXXvT7pS2fM`, 2019-01-22; `BLbUu_mfMJY`, 2018-10-18) by roughly nine
+  years — now the earliest dated citation of the Tady 45 / Salas 7X pairing
+  in this corpus, and a further data point for the early-1990s (~1993)
+  dating of the pairing as the sardine-cycle standard.
 - **A three-iron box framework (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
   2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** carry **at least
   three** surface irons covering three different jobs rather than one

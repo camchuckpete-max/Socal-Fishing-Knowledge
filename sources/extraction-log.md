@@ -2325,7 +2325,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | jU7qi40WTzQ | SearcherSportfishing | on-the-water | decision-rationale | done | planning/trip-length-selection.md; planning/day-plan-protocol.md / new planning note: 1-day vs 3-7-day trip rationale (late-afternoon tuna bite window) |
 | kYZqFRBUDYg | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: dockside weigh-in banter, no fishing knowledge |
 | kqsg_t5MIzY | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: galley recipe content, not fishing knowledge |
-| lYyi_Yh3S5g | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| lYyi_Yh3S5g | SearcherSportfishing | on-the-water | decision-rationale | done | locations/cedros-island.md; lures/tuna-poppers-and-stickbaits.md; tackle/drag-setting.md; techniques/surface-iron.md / Capt. Art tackle-tips: crew/bait/drag priorities, Tady 45/Salas 7X, Cedros/San Benitos favorite spots, MegaBait mention |
 | pNNrYXlgkO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | phRsYlu0mmc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | sAwPTPnHNzk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |

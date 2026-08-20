@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g]
 confidence: medium
 ---
 
@@ -169,10 +169,27 @@ line class — is now **repeated doctrine from the same registered
 channel/series** and rates `high`; the framing points unique to this episode
 stay attributed as below.
 
-- **Drag setting ranked as one of the three most important parts of a trip**
-  (Captain Mark's framing, `medium`, single mention — not corroborated in
-  Part 2): talking with the crew, selecting a bait at the bait tank, and
-  having the drag set correctly for the line class in use — in that order.
+- **Drag setting ranked as one of the three most important parts of a trip —
+  `high`, now repeated doctrine across two Searcher sources 13 years apart:**
+  talking with the crew, selecting a bait at the bait tank, and having the
+  drag set correctly for the line class in use — in that order.
+  **Independently stated, in the same order, by an earlier Searcher captain
+  (Capt. Art, SearcherSportfishing, "Capt Art's tackle tips," `lYyi_Yh3S5g`,
+  2009-08-25; self-identified on camera as "Captain Art"; `searcher-sportfishing`
+  registered channel — the earliest-dated citation of this framing in this
+  corpus):** Art gives a stated reason for each of the three that this Vol.
+  205 citation doesn't spell out — (1) **talk to the crew**, because they work
+  the boat every day and are "just a great source of information" on tackle,
+  knots (he names modern fluorocarbon/Spectra connections specifically), bait,
+  or the boat in general — aimed especially at a novice or first-timer who
+  might otherwise be too shy to ask; (2) **fish the liveliest bait you can
+  get**, worth spending the extra time at the tank to select it, because it
+  "will increase your production"; (3) **set the drag correctly for the line
+  class**, because the wrong attitude — "if my drag is a little on the looser
+  side I won't lose my fish" — actually costs fish: too loose means spending
+  more time on a hooked fish than necessary and risking an avoidable extra
+  tangle. That third reason is a single-item version of, not a fourth item
+  added to, the fuller three-things-wrong list logged below.
 - **Basic lever-drag setting procedure (`high`, corroborated by Part 2
   below):** put the reel in free spool, use the dial at the center of the
   lever drag to adjust the drag tension, then move the lever to the reel's
@@ -250,8 +267,12 @@ fighting the lever.
 ## An earlier, independent citation of the same three-things-wrong list and the same rod-raise test (Capt. Art, SearcherSportfishing, "Capt Art Seminar — Drag Settings," `CSpBymCVWN4`, uploaded 2013-09-09; on-camera self-identified as "Captain Art from Searcher Sport Fishing"; `searcher-sportfishing` registered channel — `high` confidence, corroborating and predating the Vol. 205/207 doctrine above by roughly nine years)
 
 Structured as a short standalone seminar rather than a Tackle Tip Thursday
-episode, this is the oldest dated drag-setting source in this corpus. It
-independently states the same **three things that go wrong** with an
+episode, this was the oldest dated drag-setting source in this corpus until
+batch 3 (2026-08-20) added the earlier Capt. Art "tackle tips" segment
+(`lYyi_Yh3S5g`, 2009-08-25, merged above) — that source now holds the oldest
+date, predating this one by roughly four years, though it carries a different
+"three-things" framing (trip priorities, not drag-failure modes). This
+episode independently states the same **three things that go wrong** with an
 incorrect drag setting, in the same order as Vol. 207 above, and demonstrates
 the same **raise-the-rod, watch-the-spool** mid-fight test — both now `high`
 confidence as doctrine repeated across three separate Searcher-crew sources
@@ -279,7 +300,7 @@ ft**, and so on, until the fish is brought to color, gaffed, and tagged.
 Stated as applying **regardless of line class** — the correct-drag principle,
 not a specific number, is the point.
 
-## A second-oldest Searcher source — hands-free hookset as the reason for strike, a button past strike, and drag wear like brakes (Captain Aaron Remy, SearcherSportfishing, "Searcher Sportfishing: Drag Settings," `Psiiza6YQyE`, 2017-06-19; on-camera self-identified as "Captain Aaron Remy"; `searcher-sportfishing` registered channel — this is the source flagged as unprocessed in the Vol. 207 section above, now merged; shared claims corroborate and predate the Vol. 205/207 doctrine above by five-plus years and rate `high`; this source itself postdates, not predates, the 2013-09-09 Capt. Art seminar above by roughly 3.8 years — Capt. Art's remains the oldest dated source in this corpus; the mechanism/reasoning unique to this episode stays `medium` as a single mention)
+## A second-oldest Searcher source — hands-free hookset as the reason for strike, a button past strike, and drag wear like brakes (Captain Aaron Remy, SearcherSportfishing, "Searcher Sportfishing: Drag Settings," `Psiiza6YQyE`, 2017-06-19; on-camera self-identified as "Captain Aaron Remy"; `searcher-sportfishing` registered channel — this is the source flagged as unprocessed in the Vol. 207 section above, now merged; shared claims corroborate and predate the Vol. 205/207 doctrine above by five-plus years and rate `high`; this source itself postdates, not predates, the 2013-09-09 Capt. Art seminar above by roughly 3.8 years — the 2009-08-25 Capt. Art "tackle tips" segment (`lYyi_Yh3S5g`, merged above as of batch 3, 2026-08-20) now holds the oldest date in this corpus, ahead of the 2013-09-09 seminar; the mechanism/reasoning unique to this episode stays `medium` as a single mention)
 
 - **Lever-drag travel, in order:** free spool (lever all the way back) →
   increasing drag as the lever moves forward → a marked **strike** position,

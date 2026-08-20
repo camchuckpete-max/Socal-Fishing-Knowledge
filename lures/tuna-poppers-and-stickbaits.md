@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -96,6 +96,20 @@ cast-and-wind surface plug. **Marketing flag:** the **TP slow-troll claim is
 marketing only** — no independent trolling reports found (Cameron, July 2026);
 treat these as cast-and-retrieve plugs, not trolling lures, until there's a real
 report. Rigging as the wire-through / heavy-ring class above.
+
+### MegaBait (cast-and-sink, named favorite)
+**Named product — low confidence per this channel's sponsored-claim caveat**
+(Capt. Art, SearcherSportfishing, "Capt Art's tackle tips," `lYyi_Yh3S5g`,
+2009-08-25; `searcher-sportfishing` registered channel, single mention). Asked
+what he wouldn't leave behind in his tackle for a tuna trip, Art names a
+**MegaBait** (captioned "mega bait[s]") on **30 or 40 lb test**, cast off the
+bow and let sink — no retrieve mechanic given beyond the cast-and-sink itself.
+Same functional presentation as the Colt Sniper cast-down-swell-and-let-it-
+sink retrieve documented below, but a different, unconfirmed lure family — not
+merged into that entry. A second product he names in the same breath did not
+resolve confidently from the auto-generated captions ("braid products as a
+blaster") and is not carried here per the ASR-hazard rule — flagged
+`asr-uncertain` in the extraction log rather than guessed at.
 
 ### Colt Sniper (foamer stickbait)
 Lead-bodied casting **stickbait / jig** in the "small lead bait" foamer family
