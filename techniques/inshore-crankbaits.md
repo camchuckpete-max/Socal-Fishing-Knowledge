@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -88,6 +88,32 @@ situation calls for it lives in the routers:
   after a bump gives the fish a second look and is described as the trigger
   for the strike. Framed as a full reaction bite similar to surface iron —
   "they rip the rod out of your hands."
+
+## Reach away from a hardbait — point reefs and heavy structure (Tackle Express)
+
+Tackle Express (`1e6Oz5rAwRU`, 2026-05-06; unregistered channel, single
+mention — medium confidence) states the reasoning for the opposite call from
+the sparse-kelp-lanes bullet above: fishing **point reefs or other areas with
+more structure**, reach for a **War Baits Neck Breaker head with a
+[soft plastic](../lures/soft-plastic-swimbaits.md)** instead of a hardbait
+(minnow lure). Stated reasons, trigger → choice → reason:
+
+- **The weedless plastic comes through the kelp clean** — the stated reason
+  for the swap, not just a preference.
+- **Colors are cheap to change, and cheap to lose** — if a weedless plastic
+  hangs up and breaks off, "it's not the end of the world."
+- **A hardbait fouls on both floating and submerged cover** — heavy structure
+  around a point reef throws loose eel grass into the water column, plus kelp
+  in the water itself, and a hardbait (minnow lure) snags on it.
+- **Even when it doesn't snag, a hardbait can't get a clean presentation
+  through that kind of structure** — a distinct problem from snagging itself.
+- **Scoped, not a blanket rule against hardbaits:** "there's a time and a
+  place for those" — the stated exception is simply not fishing them around
+  structure. Kept side by side with, not a replacement for, the sparse-kelp-
+  lanes hardbait pick above and the open-water-vs-cover split documented
+  below — this source draws the line at point reefs/heavy structure
+  specifically, where the other entries draw it at sparse lanes vs. thicker
+  cover.
 
 ## Rigging
 

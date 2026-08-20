@@ -2361,7 +2361,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 17sBBD0C4XY | Tackle Express | tutorial | parameter-skim | done | tackle/reel-maintenance.md: added grip-care section (hypalon/EVA hardening, heat-shrink fix), medium confidence |
 | 1MxHXTv3a2A | Tackle Express | tutorial | parameter-skim | done | tackle/reel-maintenance.md: added line-change cadence subsection (co-poly 2 trips, fluoro 3-4 trips), braid-vs-fluoro preference, medium confidence |
 | 1YKT275onlU | Tackle Express | tutorial | parameter-skim | done | none: 24s clip, no substantive fishing content |
-| 1e6Oz5rAwRU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 1e6Oz5rAwRU | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md: added War Baits Neck Breaker point-reef/heavy-structure hardbait-avoidance rationale, medium confidence |
 | 1l05hEXDaWw | Tackle Express | tutorial | parameter-skim | pending |  |
 | 1nBqYdvVrXY | Tackle Express | tutorial | parameter-skim | pending |  |
 | 28FQZvZ8v6k | Tackle Express | tutorial | parameter-skim | pending |  |
