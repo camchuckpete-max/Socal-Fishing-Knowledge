@@ -2355,7 +2355,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 05uB5V_jWTg | Tackle Express | tutorial | parameter-skim | done | techniques/slow-pitch-jigging.md: rockfish jig-weight/depth pairing relocated from rockfish-deep-dropping.md into matching Jig weight & selection section |
 | 0OpWO3Yo4HE | Tackle Express | tutorial | parameter-skim | done | none: generic Palomar-knot mechanic already covered by rigging/essential-knots.md; only new content is a product plug, fails curation bar |
 | 0PAPH1uqk4A | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md: added mid-column/current-drift squid presentation paragraph, medium confidence |
-| 0_pEeh0n9Uo | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0_pEeh0n9Uo | Tackle Express | tutorial | parameter-skim | done | none: transcript is unusable auto-generated captions (music/noise only, no speech content) |
 | 0pBFS6TLVUQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | 0z0bvF7o3ak | Tackle Express | tutorial | parameter-skim | pending |  |
 | 17sBBD0C4XY | Tackle Express | tutorial | parameter-skim | pending |  |
