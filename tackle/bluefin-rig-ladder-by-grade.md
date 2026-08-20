@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk]
+tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig, albacore]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8]
 confidence: medium
 ---
 
@@ -53,6 +53,40 @@ which is where the source's "five setups" framing comes from.
   turn-count detail and how it compares with this KB's existing mono-to-fluoro
   knot (Seaguar knot).
 - **Ceiling:** **do not fish this rig on fish over about 40 lb.**
+
+**Second, independent citation, corroborating and adding backing/rod/
+situational detail (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip
+Thursday Vol. 176 (Finesse Outfit)," `dg1sbr6GuB8`, uploaded 2022-04-07;
+`searcher-sportfishing` registered channel — the same voice repeating this
+rig across a registered venue here and the unregistered SD Rod & Reel Club
+talk above, `high` confidence for the parameters that repeat):** framed for
+**school-size tuna, roughly 15–40 lb**, swimming in a big school but not
+biting well.
+
+- **Reel:** Penn Fathom 15, **star drag — no two-speed needed** at this
+  grade. Matches Rig 1's reel pick exactly.
+- **Rod:** rated **12–30 lb** — not given in the citation above.
+- **Line:** **300 yd of 30 lb test braid** backing (also not given above),
+  topped with a **50 yd top shot of 20 or 25 lb test** — "a little bit
+  longer top shot than my other rigs." **Stated reason for the longer top
+  shot:** more stretch, because the hook is small; without stretch in the
+  system, a hooked fish pulls the small hook right out of its mouth.
+- **Leader:** **4–5 ft of fluorocarbon**, tied to the monofilament top shot
+  with a **four-turn surgeon's knot** — exact match to Rig 1's knot and turn
+  count; a third citation of this same rule is logged in [essential
+  knots](../rigging/essential-knots.md#parameters--judgment).
+- **Hook:** **Owner Gorilla Light, size 2** — exact match to Rig 1's hook.
+- **Ceiling, with an observation:** don't fish this outfit when big tuna are
+  around — "you're not going to catch a 50-pound tuna with this, you're not
+  going to catch 100-pound tuna with this," and they will still eat it.
+  **Observed** (SearcherSportfishing, `dg1sbr6GuB8`, 2022-04-07, location
+  not stated on camera): he has hooked "some really really big" tuna on this
+  exact rig and did not land them.
+- **A second application named on camera:** the same finesse rig doubles as
+  a **live-bait albacore rig** — "the exact rig you're going to want to use
+  when you encounter albacore and they're biting on live bait." Conditional
+  on albacore returning in numbers ("it could happen this year or it may
+  never happen"), not asserted as a current pattern.
 
 ## Rig 2 — 30 lb, "big fish finesse"
 
@@ -438,6 +472,7 @@ between the two talks.
 
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)

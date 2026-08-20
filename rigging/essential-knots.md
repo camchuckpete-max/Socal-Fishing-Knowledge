@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -93,6 +93,15 @@ fluoro leader, braid main line — and feed the terminal rigs in
       inside his own stated 20–100 lb/4-turn bracket. Full rig in [Searcher
       big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#dartcolt-sniper-finesse-jig-rig--daytime-tuna-steve-carson-pennsearchersportfishing-2024-06-13);
       mechanics in [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
+    - **Third, independent citation of the same 4-turn/20–100 lb rule, same
+      speaker (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday
+      Vol. 176 (Finesse Outfit)," `dg1sbr6GuB8`, uploaded 2022-04-07;
+      `searcher-sportfishing` registered channel — repeated a third time by
+      the same voice):** a **four-turn surgeon's knot** ties **4–5 ft of
+      fluorocarbon** to a **20 or 25 lb monofilament** top shot on his
+      school-size-tuna finesse rig — again inside his own 20–100 lb bracket.
+      Full rig in [Bluefin rig ladder by grade — Rig
+      1](../tackle/bluefin-rig-ladder-by-grade.md#rig-1--15-lb-finesse-the-one-you-need-most).
   - **Earliest-dated entry in this group, same 3-turn count, no line-class or
     application given (SearcherSportfishing, Tackle Tip Thursday Vol. 53,
     `LpReZmYQSCU`, 2019-06-19; unregistered channel — medium confidence):**
