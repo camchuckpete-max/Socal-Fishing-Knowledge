@@ -2346,7 +2346,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | y0LVT59inEA | SearcherSportfishing | on-the-water | decision-rationale | done | tackle/hooks.md / Captain Art sponsor segment: corroborating citation bumping 40 lb circle-vs-J threshold to high confidence, added line-class-to-J-hook-size table, merged ringed/non-ringed data point; fixed one misquote |
 | y__TVzcePik | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: restates already-documented tough-foamer pattern, no new detail |
 | yidQY2NeXtM | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: boat-maintenance/crew-intro clip, no fishing content |
-| zKovnvOwlFc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| zKovnvOwlFc | SearcherSportfishing | on-the-water | decision-rationale | done | rigging/surgeons-knot-mono-to-fluoro.md; rigging/essential-knots.md / 14th surgeon's-knot citation (guide-clearance rule, 60-80lb ceiling, tie-speed) + 4th uni-to-uni wrap-count citation + speed-vs-cosmetics decision-rationale; fixed stale citation-count cross-reference |
 | -BCEGxojaT4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | -FQ3cSdvnK0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | -KHdjYwefmM | Tackle Express | tutorial | parameter-skim | pending |  |

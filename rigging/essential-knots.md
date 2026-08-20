@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -76,7 +76,7 @@ fluoro leader, braid main line — and feed the terminal rigs in
   used to tie the loop for a **single-hook rockfish [dropper
   loop](../techniques/dropper-loop.md)** rig.
   - **Also fished as a mono-to-fluoro connection knot, an attributed
-    alternative to the Seaguar knot above.** Thirteen SearcherSportfishing
+    alternative to the Seaguar knot above.** Fourteen SearcherSportfishing
     citations spanning 2013–2024, naming several different turn counts for
     the same basic tie (some presenters call it "surgeon's loop" instead of
     "surgeon's knot") — kept as its own note per the process rule to prefer a
@@ -225,6 +225,34 @@ fluoro leader, braid main line — and feed the terminal rigs in
   variation, not reconciled to one number. No line class, species, or
   application beyond "fluorocarbon to monofilament" is given in this
   2:08 clip.
+  **Fourth wrap-count data point, plus the clearest stated reason in this
+  note for reaching for uni-to-uni instead of the surgeon's knot
+  (SearcherSportfishing, "Searcher Sportfishing Fluoro to Mono Knots,"
+  `zKovnvOwlFc`, 2017-05-04; `searcher-sportfishing` registered channel,
+  presenter not clearly identified on camera — medium confidence):** same
+  channel's companion demo to the surgeon's-knot citation logged in
+  [Surgeon's Knot — Mono-to-Fluorocarbon Leader
+  Connection](surgeons-knot-mono-to-fluoro.md#parameters--judgment). Ties the
+  uni-to-uni for fluoro-to-mono, mono-to-mono of different sizes, and
+  braid-to-braid alike — useful whenever "you cannot pass the tag end
+  through the loop" the way the surgeon's knot needs, e.g. too much line
+  already run out, or repairing a break found out on the water where the
+  lure or bait is rigged too far down the line to thread the whole working
+  end through. Paraphrased mechanic: lay the two lines opposite directions
+  with plenty of tag, pinch the midpoint, form a loop, and wrap the tag
+  around both lines together **4 times** before pulling it snug; repeat the
+  same loop-and-wrap on the other line, also **4 times**; then wet the two
+  finished uni knots and pull the main lines together until they jam against
+  each other. A fourth wrap-count data point in the range already logged in
+  this bullet (6 at top, 3–4 for `NkjjDf6XPcE`, 5 for `qtCZAB4EBs4`, now 4
+  here) — kept side by side, not reconciled. **Explicit equal-strength/speed
+  trade-off, attributed (decision-rationale):** the same presenter, having
+  tied both knots on camera, states a personal preference for the surgeon's
+  knot on ordinary re-rigs because it's faster to tie (under 30 seconds for
+  him), while granting the uni-to-uni "looks a little bit better" — but
+  states both knots hold **the same strength** and are equally effective at
+  landing fish; full context in [Surgeon's Knot — Mono-to-Fluorocarbon
+  Leader Connection](surgeons-knot-mono-to-fluoro.md#parameters--judgment).
 - **Seaguar knot (connection)** — a purpose-built mono-to-fluoro bite-guard
   connection with five sourced variants (Cesar/Eric's Tackle and three
   StokedOnFishing clips, plus a fifth from SearcherSportfishing) that do not
@@ -321,6 +349,7 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 portion of this video and four other mono-to-fluoro connection clips),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [double uni knot, fluorocarbon to monofilament connection](https://www.youtube.com/watch?v=qtCZAB4EBs4),
+[Searcher Sportfishing Fluoro to Mono Knots (surgeon's knot + uni-to-uni)](https://www.youtube.com/watch?v=zKovnvOwlFc),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
 and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks)

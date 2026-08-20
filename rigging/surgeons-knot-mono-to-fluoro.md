@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [surgeons-knot, surgeons-loop, connection-knot, mono-to-fluoro, leader-connection, turn-count]
-sources: [9JnIS8HkZlA, TU5quAG4atM, dg1sbr6GuB8, fyJA3o2hVh0, eZXPqiAtqi8, LpReZmYQSCU, 5g7pK63hYnc, Aorcd0Om7eI, lf3S28nh-kk, shZCjX2-fkI, UfuQr6gOIk8, zkA1jqHXXD0, PKwvkOOYzto]
+sources: [9JnIS8HkZlA, TU5quAG4atM, dg1sbr6GuB8, fyJA3o2hVh0, eZXPqiAtqi8, LpReZmYQSCU, 5g7pK63hYnc, Aorcd0Om7eI, lf3S28nh-kk, shZCjX2-fkI, UfuQr6gOIk8, zkA1jqHXXD0, PKwvkOOYzto, zKovnvOwlFc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -29,7 +29,7 @@ note.
 
 Every source below is SearcherSportfishing (`searcher-sportfishing`,
 registered channel/series — mechanism/parameters rate normally per the
-registry's claim-type scope). Thirteen separate citations spanning 2013–2024
+registry's claim-type scope). Fourteen separate citations spanning 2013–2024
 name multiple different turn counts for the same basic tie; per the
 doctrine-conflict convention these are kept attributed and side by side, not
 reconciled to one number.
@@ -86,12 +86,13 @@ reconciled to one number.
     and predating the Vol. 176 citation above by about two months. Full rig
     in [Searcher 40 lb all-around tuna
     outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
-- **Now the second-earliest-dated entry in this group, with a full rig
+- **Now the third-earliest-dated entry in this group, with a full rig
   application attached (SearcherSportfishing, "Tackle Tip Thursday Vol. 7,"
   `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel,
   single mention — medium confidence):** superseded as this note's
   earliest-dated data point by the `PKwvkOOYzto` entry below (2013-09-09,
-  roughly five years earlier). Presenter not identified on camera. Framed as
+  roughly five years earlier) and by the `zKovnvOwlFc` entry below
+  (2017-05-04, about a year earlier). Presenter not identified on camera. Framed as
   a simple offshore kelp-paddy rig for [dorado](../species/dorado.md) ("El
   Dorado") and [yellowfin tuna](../species/yellowfin-tuna.md) on a **25–40 lb
   class conventional reel**: a **3 ft fluorocarbon leader, 25 lb test,
@@ -105,7 +106,54 @@ reconciled to one number.
   knot](improved-clinch-knot.md#parameters--judgment) — see
   [hooks — style, size, and matching to bait](../tackle/hooks.md) for the
   hook entry.
-- **Third-earliest-dated entry in this group, same 3-turn count, no
+- **Second-earliest-dated entry in this group, with a distinct leader-length
+  rationale and an explicit speed-based preference over the uni-to-uni knot
+  (SearcherSportfishing, "Searcher Sportfishing Fluoro to Mono Knots,"
+  `zKovnvOwlFc`, 2017-05-04; `searcher-sportfishing` registered channel,
+  presenter not clearly identified — the auto-caption audio renders the
+  self-introduction as "captain reinstall board," which does not resolve to a
+  name and is not carried forward, flagged `asr-uncertain`; single mention of
+  this specific reasoning — medium confidence):** calls the surgeon's knot
+  "our most common knot... pretty much the only one we use" aboard the
+  *Searcher*, working "never fails" on everything up to about **80 lb** line;
+  ties it here with **10–12 in** of tag on each side (more than a beginner
+  strictly needs, left long on purpose so the wraps are easy to see and
+  learn), passing the tag ends through the formed loop **three times**
+  ("one, two, and three") — the same 3-turn count already logged for
+  `LpReZmYQSCU`, `5g7pK63hYnc`, `UfuQr6gOIk8`, and `PKwvkOOYzto` above rather
+  than Steve Carson's 4-turns-at-20–100 lb rule. Describes the tightening
+  action as a "Chinese finger trap": the harder a fish pulls, the tighter the
+  two lines squeeze onto each other rather than slipping apart. **A
+  leader-length reason not stated in the other entries in this note:**
+  recommends a **"three to three-and-a-half"** fluorocarbon leader (unit not
+  stated on camera — could be feet or a rod-length/fathom shorthand; not
+  assumed), "nothing longer," because a longer fluoro leader's bulkier knot
+  tends to get stuck in the rod guides **while reeling a caught bait up to
+  the boat** — a bait-catching-specific version of the "don't let the knot
+  hit the guides" caution, distinct from the casting-clearance reasoning in
+  `lf3S28nh-kk` and the rod/reel-geometry reasoning in `shZCjX2-fkI` above;
+  kept side by side as a third, unreconciled rod-guide-clearance rationale.
+  **Why fluoro at all, stated on camera:** used specifically for **toothy
+  fish**, to resist bite-through while a fish stays hooked up longer than a
+  straight mono tie would hold, and preferred for being a little clearer and
+  lower-stretch (more durable) than mono. **Strength/line-class judgment:**
+  confident to **60 lb**, has personally tied it on **80 lb**; beyond that,
+  the stated guidance is to switch to [crimping](crimping.md) rather than
+  keep tying this knot on heavier line. States there is "no cutoff point" on
+  the tie itself — i.e. it isn't a stated weak point in the line — and that
+  the boat has "no problem" landing fish on it. **Tie-speed judgment:** under
+  a minute for someone first learning it; the presenter himself ties it in
+  under 30 seconds. **Explicit preference over the uni-to-uni knot, stated
+  with a reason (decision-rationale):** after demonstrating both ties in the
+  same video, states he personally prefers the surgeon's knot **because it's
+  faster** ("if two bites really good"), even while conceding the uni-to-uni
+  "looks a little bit better" cosmetically — and states both knots are
+  **equally effective, with the same holding strength**, just joining the
+  two lines by a different mechanic. See [Uni-to-Uni
+  Knot](essential-knots.md#parameters--judgment) for this same video's
+  uni-to-uni demonstration (4 wraps per side) and the stated reason to reach
+  for it instead of the surgeon's knot.
+- **Fourth-earliest-dated entry in this group, same 3-turn count, no
   line-class or application given (SearcherSportfishing, Tackle Tip
   Thursday Vol. 53, `LpReZmYQSCU`, 2019-06-19; unregistered channel —
   medium confidence):** predates the `5g7pK63hYnc` entry below by about
@@ -199,7 +247,7 @@ reconciled to one number.
   reconciled, since the two entries scale the leader to different things
   (guide-train tip-guide size there vs. this rod's specific
   reel-seat-to-tip geometry here).
-- **A same-channel entry, closest in mechanic to the two earliest clips above
+- **A same-channel entry, closest in mechanic to the earliest clips above
   (SearcherSportfishing, Tackle Tip Thursday Vol. 133, presenter Ryan,
   `UfuQr6gOIk8`, 2021-01-07; unregistered channel/speaker — medium
   confidence):** ties the surgeon's knot as a mono-to-fluorocarbon
@@ -243,8 +291,9 @@ reconciled to one number.
   (Captain Art, SearcherSportfishing, "Capt Art seminar: fluorocarbon to
   monofilament connection," `PKwvkOOYzto`, 2013-09-09; `searcher-sportfishing`
   registered channel — medium confidence, single mention of this specific
-  build):** predates every other citation in this note by at least five
-  years (the next-earliest, `eZXPqiAtqi8`, is 2018-08-09). **Attribution
+  build):** predates every other citation in this note by at least three and
+  a half years (the next-earliest, `zKovnvOwlFc`, is 2017-05-04, followed by
+  `eZXPqiAtqi8` at 2018-08-09). **Attribution
   note:** the auto-caption audio has the presenter self-introduce as
   "Captain Mark," but the human-typed video title credits **"Capt Art"** —
   per the title-beats-ASR rule, attributed here to Captain Art, the same
@@ -276,10 +325,13 @@ fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
 [surgeon's knot, quick leader retie after a
 break-off](https://www.youtube.com/watch?v=Aorcd0Om7eI), [surgeon's knot,
 mono-to-fluorocarbon connection (Vol.
-133)](https://www.youtube.com/watch?v=UfuQr6gOIk8), and [Capt Art seminar:
+133)](https://www.youtube.com/watch?v=UfuQr6gOIk8), [Capt Art seminar:
 fluorocarbon to monofilament
 connection](https://www.youtube.com/watch?v=PKwvkOOYzto) (Captain Art,
-SearcherSportfishing, 2013-09-09).
+SearcherSportfishing, 2013-09-09), and [Searcher Sportfishing Fluoro to Mono
+Knots](https://www.youtube.com/watch?v=zKovnvOwlFc) (SearcherSportfishing,
+2017-05-04 — also covers the uni-to-uni knot, see [Essential SoCal
+Knots](essential-knots.md#parameters--judgment)).
 
 <!-- backlinks:start -->
 ## Linked from
