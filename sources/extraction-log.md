@@ -2401,7 +2401,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 7AOtPUGwKDI | Tackle Express | tutorial | parameter-skim | done | none / generic finesse-vs-swimbait opinion, species/location unconfirmed, principle already captured with concrete figures in species/calico-bass.md |
 | 7L7OVoXE7KU | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md (new); tackle/rod-and-reel-selection.md / new note: wide line-rating rod fished mid-range (15-40lb rod at 25-30lb) for summer offshore, plus island rod pairing; fixed cross-ref figure error |
 | 7iJktLzCmLY | Tackle Express | tutorial | parameter-skim | done | none / 7-second transcript contains only [Music] and slow down, no substantive content |
-| 7wdCk_LXezw | Tackle Express | tutorial | parameter-skim | pending |  |
+| 7wdCk_LXezw | Tackle Express | tutorial | parameter-skim | done | none / 15s reaction clip, no spoken content beyond exclamations/music, nothing clears curation bar |
 | 8FAgifEFSuU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 8TO-tuYjwWk | Tackle Express | tutorial | parameter-skim | pending |  |
 | 8U34yMGxvEw | Tackle Express | tutorial | parameter-skim | pending |  |
