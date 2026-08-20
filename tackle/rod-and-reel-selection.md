@@ -258,7 +258,12 @@ A related two-speed size split from the same channel — a smaller **Penn
 Fathom 30** loaner reel vs. a larger **Penn Fathom 60** rail-rod reel, with
 their braid/top-shot capacities — is logged separately (sponsored content,
 kept out of this already-oversized note) in [Searcher lever-drag reel
-sizing](searcher-lever-drag-reel-sizing.md).
+sizing](searcher-lever-drag-reel-sizing.md). A retail buying-tier
+counterpart — a Turner's Outdoorsman tackle shop associate's high-end vs.
+budget bluefin reel/rod picks by price, including a Talica 20 + Phoenix rod
+pairing that corroborates this note's own Talica 20 + Phoenix Black Diamond
+build above — is logged in [bluefin retail setup, high-end vs.
+budget](bluefin-retail-setup-high-end-vs-budget.md).
 
 ## Offshore tuna favorite setup — rod length for casting distance (Nathan Winnicke, Penn, SearcherSportfishing)
 
@@ -902,6 +907,7 @@ a bluefin).
 ## Linked from
 
 - [<Your> Rods](../profiles/_template/rods.md)
+- [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

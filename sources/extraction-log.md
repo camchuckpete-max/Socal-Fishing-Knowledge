@@ -2169,7 +2169,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | gaHpCc_tc78 | SearcherSportfishing | tutorial | deep | done | lures/soft-plastic-swimbaits.md / corroborating single-mention swimbait size/weight/color data point for calico bass at 'the Ridge'/Baja coast; fixed missing 'bank' waters tag |
 | gqEjWrPpa48 | SearcherSportfishing | tutorial | deep | done | tackle/searcher-lever-drag-reel-sizing.md / short promo clip merged as corroborating/earlier data point on the existing Penn Fathom 60 entry; giveaway plug excluded; fixed one unflagged ASR garble |
 | h0NyGvIaDc8 | SearcherSportfishing | tutorial | deep | done | techniques/foamer-casting.md / added cast-into-a-busting-school mechanic (size-to-bait, bridge-called sounder-depth follow-down) and an ask-a-biting-angler troubleshooting tip; fixed a fabricated Current-Sniper/Colt-Sniper ASR resolution |
-| hlmDnAct1cA | SearcherSportfishing | tutorial | deep | pending |  |
+| hlmDnAct1cA | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-retail-setup-high-end-vs-budget.md; species/bluefin-tuna.md; tackle/rod-and-reel-selection.md; tackle/searcher-lever-drag-reel-sizing.md / new low-confidence tackle note for a retail associate's high-end vs. budget bluefin reel/rod picks, linked from species router and two related tackle notes; fixed missing link-maintenance run |
 | hteLeDIy9Qs | SearcherSportfishing | tutorial | deep | pending |  |
 | i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | pending |  |
 | icpm7gADxvU | SearcherSportfishing | tutorial | deep | pending |  |

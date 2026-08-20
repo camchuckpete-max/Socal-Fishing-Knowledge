@@ -5,6 +5,7 @@
 ## Index
 
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md) — Gary, presenter for Accurate Fishing Products, aboard the Searcher (SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md) — Lori Sack, a tackle sales associate at Turner's Outdoorsman's San Marcos store, in a short segment on the SearcherSportfishing channel ("Tackle Tip Thursday Vol.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md) — Steve Carson (Penn), guest speaker at the San Diego Rod and Reel Club's November 2023 meeting — "5 must-have rod and reel setups for bluefin tuna fishing" (9JnI
 - [Gear Classes — the class-term lexicon](gear-classes.md) — The KB describes gear in class terms (jig-stick class, 40–60 lb class, 200g-knife-jig class) so a species/technique note can say "reach for the surface-iron cla
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md) — A minimal hook box, sized by species and bait rather than by a long shopping list — one boat's answer to "what do I actually need to pack" (Carl, Fisherman's La
@@ -29,74 +30,82 @@
 ```mermaid
 graph LR
   n0["Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)"]
-  n1["Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)"]
-  n2["Gear Classes — the class-term lexicon"]
-  n3["Hook Assortment by Trip Length — Overnight Through 5–6 Day"]
-  n4["Hooks — Style, Size, and Matching to Bait"]
-  n5["Spiral-Wrap ('Acid-Wrap') Guides and Narrow Reels for Jigging Rods"]
-  n6["Line & Leader — Braid, Mono, Fluoro by Application"]
-  n7["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
-  n8["Reel & Rod Maintenance — Offseason TLC"]
-  n9["Rod & Reel Selection — by Application"]
-  n10["Rod Length — Fitting the Stick to the Angler"]
-  n11["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
-  n12["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
-  n13["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n14["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n15["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n0 --> n1
-  n0 --> n12
+  n1["Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)"]
+  n2["Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)"]
+  n3["Gear Classes — the class-term lexicon"]
+  n4["Hook Assortment by Trip Length — Overnight Through 5–6 Day"]
+  n5["Hooks — Style, Size, and Matching to Bait"]
+  n6["Spiral-Wrap ('Acid-Wrap') Guides and Narrow Reels for Jigging Rods"]
+  n7["Line & Leader — Braid, Mono, Fluoro by Application"]
+  n8["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
+  n9["Reel & Rod Maintenance — Offseason TLC"]
+  n10["Rod & Reel Selection — by Application"]
+  n11["Rod Length — Fitting the Stick to the Angler"]
+  n12["Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)"]
+  n13["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n14["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
+  n15["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n16["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n0 --> n13
   n0 --> n2
-  n0 --> n4
-  n0 --> n6
-  n1 --> n0
-  n1 --> n11
-  n1 --> n12
+  n0 --> n3
+  n0 --> n5
+  n0 --> n7
+  n1 --> n10
+  n1 --> n13
+  n1 --> n14
   n1 --> n2
-  n1 --> n4
-  n1 --> n5
-  n1 --> n6
-  n1 --> n9
-  n10 --> n9
-  n11 --> n1
-  n11 --> n12
-  n11 --> n4
-  n11 --> n6
-  n12 --> n0
-  n12 --> n1
-  n12 --> n11
+  n1 --> n3
+  n10 --> n1
+  n10 --> n11
+  n10 --> n14
+  n10 --> n16
+  n10 --> n2
+  n10 --> n3
+  n10 --> n7
+  n11 --> n10
+  n12 --> n13
   n12 --> n2
-  n12 --> n9
+  n12 --> n5
+  n12 --> n7
+  n13 --> n0
+  n13 --> n10
+  n13 --> n12
   n13 --> n2
-  n13 --> n9
-  n14 --> n6
-  n15 --> n2
-  n15 --> n9
+  n13 --> n3
+  n14 --> n1
+  n14 --> n10
+  n14 --> n3
+  n15 --> n7
+  n16 --> n10
+  n16 --> n3
+  n2 --> n0
+  n2 --> n10
   n2 --> n12
   n2 --> n13
+  n2 --> n3
+  n2 --> n5
   n2 --> n6
-  n2 --> n9
-  n3 --> n4
-  n4 --> n1
-  n4 --> n11
-  n4 --> n3
-  n4 --> n6
-  n4 --> n7
-  n5 --> n1
+  n2 --> n7
+  n3 --> n10
+  n3 --> n13
+  n3 --> n14
+  n3 --> n7
+  n4 --> n5
+  n5 --> n12
   n5 --> n2
-  n5 --> n9
-  n6 --> n11
-  n6 --> n14
+  n5 --> n4
+  n5 --> n7
+  n5 --> n8
+  n6 --> n10
   n6 --> n2
-  n6 --> n9
-  n7 --> n4
-  n8 --> n6
-  n8 --> n9
-  n9 --> n1
+  n6 --> n3
+  n7 --> n10
+  n7 --> n12
+  n7 --> n15
+  n7 --> n3
+  n8 --> n5
   n9 --> n10
-  n9 --> n13
-  n9 --> n15
-  n9 --> n2
-  n9 --> n6
+  n9 --> n7
 ```
 <!-- mermaid:end -->

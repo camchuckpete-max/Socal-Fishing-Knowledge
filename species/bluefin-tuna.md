@@ -924,6 +924,13 @@ shot in [gaffing](../fish-care/gaffing.md).
   fish over 100 lb** — full gear detail (rental/loaner availability, example
   TLD 20/Talica 12 builds) in [rod & reel
   selection](../tackle/rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing).
+- **Retail buying-tier picks by price (Lori Sack, Turner's Outdoorsman, via
+  SearcherSportfishing, `hlmDnAct1cA`, 2019-05-09; unregistered guest
+  speaker, product/model picks — low confidence):** a high-end build (Talica
+  20, 100 lb braid, 40–100 lb-rated Phoenix rod, ~$1,200) and a budget build
+  (Penn Fathom two-speed 40, 100 lb braid, heavy 80–100 lb-rated rod, under
+  $500) — full detail in [bluefin retail setup, high-end vs.
+  budget](../tackle/bluefin-retail-setup-high-end-vs-budget.md).
 
 ## Doctrine & conflicts
 
@@ -1040,6 +1047,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](../tackle/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](../tackle/bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](bluefin-trolling.md)
 - [California Sheephead](sheephead.md)

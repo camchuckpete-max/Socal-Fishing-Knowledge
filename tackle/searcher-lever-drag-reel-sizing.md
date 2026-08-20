@@ -78,9 +78,18 @@ loaner-gear picks at two points on the size ladder:
   second, "both"-paired use case is unresolved from the garbled captions
   and not asserted, flagged `asr-uncertain`.
 
+## Related
+
+- [Bluefin retail setup — high-end vs. budget](bluefin-retail-setup-high-end-vs-budget.md) —
+  a different application of the same low-confidence, sponsored Tackle Tip
+  Thursday format: a Turner's Outdoorsman tackle shop associate's Penn Fathom
+  two-speed 40 pick for a customer's own retail purchase, vs. this note's
+  Penn Fathom 30/60 as Searcher's own boat loaner gear.
+
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->
