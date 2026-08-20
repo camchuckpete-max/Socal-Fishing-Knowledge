@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -54,6 +54,28 @@ behavior**:
   your fingertip at its midpoint. Heavier toward the tail/back end → it's a
   **speed jig**. Balances flat without tipping either way → it's a
   **slow-pitch/wing-fall jig** (Ul5FLB2dFgQ).
+- **Corroborating field test, named speed-jig models, and a brand-name
+  caution (Tackle Express, `5XWnm7ok09k`, "Slow Pitch vs. Speed Jigging
+  Jigs—What's the Difference?," 2025-03-27; unregistered channel, single
+  mention — medium confidence):** same finger-balance test as above — stays
+  balanced in the middle → slow jig; tips and sinks butt-first → a
+  back-/butt-weighted speed jig. Named as speed jigs, built for action **on
+  the pump** (the retrieve): the **Nomad Streaker**, and a jig captioned
+  **"Nature Boys"** (asr-uncertain — not confidently resolved to a specific
+  brand). A jig captioned **"Shimano Flat Side"** was also named a speed jig
+  here — flagged `asr-uncertain`; this may or may not be the same product as
+  **Shimano Flat-Fall**, which this KB documents elsewhere as a passive,
+  fall-triggered lure (see [flat-fall jigging](../techniques/flat-fall-jigging.md))
+  — kept unreconciled since the source doesn't clarify which product it
+  means. **Brand-name caution:** the **Nomad Rip Roller** — one of the
+  shop's own best-selling "knife jigs" logged below, and a popular choice
+  among anglers fishing bluefin — is, by this source's own finger test,
+  actually a **slow/wing-fall jig, not a speed jig**, despite its
+  knife-jig-adjacent branding and reputation; anglers fishing it were
+  reportedly getting bit **on the fall**, consistent with slow-pitch's
+  fall-triggered bite rather than knife-jigging's pump/rip-triggered one — a
+  reminder not to assume a jig's fall behavior from its model-line branding
+  or popularity, and to check it directly.
 - **Visual/profile tell (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20;
   Cesar is a registered voice, single mention — `medium` confidence):** a
   speed jig is generally **heavier in the
