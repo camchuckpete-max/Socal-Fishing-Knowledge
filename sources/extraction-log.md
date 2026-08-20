@@ -2204,7 +2204,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | qtCZAB4EBs4 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / third wrap-count data point (5-wrap rule, 3 shown) added to existing uni-to-uni bullet, medium confidence, no new note needed |
 | r9bF3VtzDUg | SearcherSportfishing | tutorial | deep | done | species/calico-bass.md; techniques/swimbaits.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md / faithful extraction of Doug Kearn's calico bird/flip sign and plastics tackle spec; evaluator restored a dropped surface-iron rod/reel claim into its correct existing home and added a bird-reading cross-link |
 | rFmWrp-Vndo | SearcherSportfishing | tutorial | deep | done | rigging/cut-loop-dropper.md; techniques/dropper-loop.md; rigging/essential-knots.md / new cut-loop surgeon's-loop dropper variant extracted and linked from its router and knots note |
-| rNiQKb3sCh4 | SearcherSportfishing | tutorial | deep | pending |  |
+| rNiQKb3sCh4 | SearcherSportfishing | tutorial | deep | done | techniques/wind-in-your-face-positioning.md / corroborating citation added (Laurie/Turner's Outdoorsmen via SearcherSportfishing Vol. 56, 2019-07-10) confirming the core windward-side rule; confidence raised medium to high under repeated-doctrine rule |
 | riEkdu8PEds | SearcherSportfishing | tutorial | deep | pending |  |
 | rziFyx7SRGI | SearcherSportfishing | tutorial | deep | pending |  |
 | scScYJJF95Y | SearcherSportfishing | tutorial | deep | pending |  |

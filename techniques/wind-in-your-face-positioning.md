@@ -1,8 +1,8 @@
 ---
 type: technique
 tags: [wind-in-your-face, rail-positioning, sportboat, live-bait, tangles, drift, etiquette]
-sources: [pQ9kGqgsX8I]
-confidence: medium
+sources: [pQ9kGqgsX8I, rNiQKb3sCh4]
+confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
@@ -11,9 +11,23 @@ waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 
 (Captain Mark, SearcherSportfishing, "Tackle Tip Thursday Vol. 180 (Wind in
 Your Face)," `pQ9kGqgsX8I`, 2022-05-05. `searcher-sportfishing` is a
-registered channel/series per the source registry, but this specific
-mechanism is a single mention there, so it stands at `medium` confidence
-pending corroboration.)
+registered channel/series per the source registry. **Repeated doctrine within
+the registered channel/series** — see the earlier, thinner corroboration
+below — so this note now stands at `high` confidence per the registry's
+repeated-doctrine rule.)
+
+**Earlier corroboration (Laurie, Turner's Outdoorsmen tackle department, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 56 (Long-Range Tips),"
+`rNiQKb3sCh4`, 2019-07-10):** in a short "how to prepare for a sport boat"
+segment, the same rule is given as a rule of thumb for a first-timer who
+doesn't know which side of the boat to fish: "remember facing the wind... if
+you don't know what side to get on the boat, make sure the wind is blowing in
+your face" — stated reason given is to end up "in the right area and not
+messing everybody up." No mechanism (bow-catches-more-wind, walk-with-your-
+line, timing) is given in this earlier, thinner mention — that detail comes
+only from the Vol. 180 citation above — but it independently confirms the
+core windward-side rule two and a half years earlier, from a different
+on-camera speaker within the same registered channel/series.
 
 What to do with your rod and your feet once a multi-angler sportboat stops
 and the crew calls out a side to fish — the rail-positioning discipline that
