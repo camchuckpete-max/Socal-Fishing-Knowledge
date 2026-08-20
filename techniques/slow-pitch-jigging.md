@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez, sand-bass, calico-bass]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -174,6 +174,18 @@ Execution only; species and situations are the reverse map in **Linked from**.
   eggs in cleaned fish to gauge where the local population sits in the
   cycle. No SoCal/Baja species or month is named; treat as a heuristic to
   test locally, not established doctrine.
+- **A fourth attributed weight/depth pairing, rockfish-specific (Tackle
+  Express, `05uB5V_jWTg`, 2026-04-10; unregistered channel, single mention —
+  medium confidence):** a **60 g jig** fishes best from roughly **50 ft to
+  100–150 ft**; if wind or heavy current keeps it from reaching bottom at
+  that depth, size up to a **120 g** jig, which can be fished to as deep as
+  **300 ft**. Depth range is explicitly conditions-dependent, not fixed to
+  the jig alone — in calm ("spectacular") weather the 120 g jig's own sweet
+  spot narrows back down to roughly **100 ft to 150–200 ft**, i.e. the same
+  water the 60 g jig covers in easier conditions, with the heavier jig held
+  in reserve for wind/current rather than as the default at that depth. Kept
+  side by side with the weight formulas above rather than reconciled — no
+  head-to-head comparison is given.
 
 ## Gear-class detail
 
