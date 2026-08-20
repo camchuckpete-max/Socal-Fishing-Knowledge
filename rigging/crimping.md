@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [crimping, crimp-sleeve, chafe-gear, leader, terminal-tackle, big-game]
-sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ, jQzOdmP0zoQ]
+sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ, jQzOdmP0zoQ, o6Sawz5S7bk]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -58,6 +58,21 @@ size, this one for the mechanic of seating it correctly.
   the same one crimp sleeve gets pressed near each end, matching the
   [bite leaders](bite-leaders.md#parameters--judgment) "two presses per crimp"
   rule.
+- **Wire gets crimped differently than mono/fluoro — no flared "valley"
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 73 (Wahoo Leaders),"
+  `o6Sawz5S7bk`, 2019-11-07; `searcher-sportfishing` registered channel/series,
+  single mention — medium confidence):** on wire leader specifically, crimp
+  down over both ends of the sleeve, compressing each end fully tight — stated
+  on camera as explicitly different from fluorocarbon, where "you want to
+  leave like a little valley in the crimp" rather than crimping it down hard.
+  This sits beside, not reconciling, the flared-ends guidance above (from a
+  mono/fluoro source) — the two are read as material-specific parameters, wire
+  vs. mono/fluoro, not a contradiction. Demonstrated building a wahoo leader
+  from **275 lb steel wire** with a crimp sleeve and swivel at each end; full
+  build (length, swivel-to-jig connection) logged in
+  [haywire twist — wahoo casting/trolling leader, crimped build](haywire-twist.md#wahoo-castingtrolling-leader--crimped-build-heavier-wire)
+  since it terminates the same casting/trolling-to-jig application as that
+  note's other wahoo leaders.
 - **Match sleeve number to the leader's stated pound test, on wire specifically
   (SearcherSportfishing, "Tackle Tip Thursday Vol. 160 (Wahoo Wire Leaders),"
   `S80GRyuAbLY`, 2021-11-04; registered channel/series, single mention —
@@ -112,6 +127,7 @@ How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.co
 
 - [Bluefin Bite Leaders](bite-leaders.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
+- [Haywire Twist](haywire-twist.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 <!-- backlinks:end -->

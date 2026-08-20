@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4, o6Sawz5S7bk]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -102,6 +102,37 @@ single-strand option with "a wire twist" — sitting beside, not confirming or
 correcting, this note's stated rule that braided/cable-type wire is normally
 crimped rather than haywire-twisted. No further detail (crimp sleeve, tool) is
 given on camera to resolve which method the seven-strand option actually uses.
+
+## Wahoo casting/trolling leader — crimped build, heavier wire
+
+**A second, earlier casting/trolling leader for the same lure-to-jig
+application above — crimped rather than twisted, and a much heavier wire test
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 73 (Wahoo Leaders),"
+`o6Sawz5S7bk`, 2019-11-07; `searcher-sportfishing` registered channel/series,
+single mention — medium confidence):** a wahoo leader built from **steel
+wire, 275 lb test**, finished with **crimp sleeves at both ends** (not a
+haywire twist) and a **swivel crimped to each end** — one end ties to the
+main line, the other end (per the source) "goes to the jig." Stated length:
+**about three feet**, though the same clip separately states **39 in** — the
+two figures don't reconcile (39 in ≈ 3.25 ft, not 3 ft even); carried as
+stated, both figures, `asr-uncertain` on which is accurate. Brand names for
+the crimp sleeve and the swivel are spoken on camera but render
+unrecognizably in captions — `asr-uncertain`, omitted here rather than
+guessed. See [crimping — wire vs. mono/fluoro crimp
+technique](crimping.md#parameters--judgment-billy-fishermans-landing--searchersportfishing)
+for this same video's
+crimp-mechanic detail (wire gets crimped fully tight at both ends, no flared
+"valley," stated as different from the mono/fluoro guidance elsewhere in that
+note).
+
+This predates the `-62xDo4UQzo` wahoo casting leader entry above (2020-01-30)
+by about two and a half months and gives a starkly different spec for what
+reads as the same cast/troll-to-jig application — **275 lb steel wire,
+crimped, ~3 ft** here vs. **50–62 lb wire, twisted, 12–15 in** there. Not
+reconciled; kept side by side per the conflict rule. This build also doesn't
+resolve the twist-vs-crimp-by-stranding question the `-62xDo4UQzo` entry
+leaves open, since "steel wire" is stated here without naming single- vs.
+multi-strand construction.
 
 ## Wahoo live-bait leader
 
