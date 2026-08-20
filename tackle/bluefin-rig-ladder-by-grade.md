@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig, albacore]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c, fyJA3o2hVh0]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c, fyJA3o2hVh0, ptoIvB2MspE]
 confidence: medium
 ---
 
@@ -53,6 +53,16 @@ which is where the source's "five setups" framing comes from.
   turn-count detail and how it compares with this KB's existing mono-to-fluoro
   knot (Seaguar knot).
 - **Ceiling:** **do not fish this rig on fish over about 40 lb.**
+
+**An earlier (2020-10-01), closely-matching citation of this same rig, same
+speaker/channel** — reel filled 3/4 with braid to a ~50 yd, 20 lb-test top
+shot, 4–5 ft of 20 lb fluorocarbon leader, Owner Gorilla Light hook (there
+sized 4, not 2 — a discrepancy against this section's hook size) — in
+[Searcher finesse live-bait outfit — 20 lb and
+15 lb](searcher-finesse-live-bait-outfit.md), kept as its own note per this
+note's size guideline rather than merged in here. That note also documents a
+lighter 15 lb top-shot step-down (same reel/hook, 15 lb mono and 4 ft of
+15 lb fluoro) and an attributed 44 lb bluefin catch on that step-down.
 
 **Second, independent citation, corroborating and adding backing/rod/
 situational detail (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip
@@ -462,6 +472,9 @@ between the two talks.
 
 - [Searcher big-tuna rig ladder](searcher-big-tuna-rig-ladder.md) — the
   giant-tuna and big-tuna rig entries split out of this note.
+- [Searcher finesse live-bait outfit — 20 lb and 15
+  lb](searcher-finesse-live-bait-outfit.md) — an earlier, closely-matching
+  citation of Rig 1, same speaker/channel.
 - [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md) —
   an earlier, closely-matching citation of this note's 40 lb starter rig
   (Rig 3), same speaker/channel.
@@ -499,6 +512,7 @@ between the two talks.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)

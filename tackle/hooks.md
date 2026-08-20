@@ -369,7 +369,11 @@ by line class rather than by bait or technique — full rig context in
   Light**, size **2** (he'd use a 4 if it came in that size) — "a nice light
   hook that lets your bait swim." A named hook not otherwise logged in this
   note; "Gorilla Light" is corroborated as the real Owner product name by a
-  separate transcript in this corpus (`ptoIvB2MspE`).
+  separate, earlier (2020-10-01) transcript in this corpus (`ptoIvB2MspE`),
+  which has Carson naming and fishing an actual **size 4** — a discrepancy
+  against this size-2 citation, kept side by side rather than reconciled; full
+  detail (plus a lighter 15 lb-line step-down of the same rig) in [Searcher
+  finesse live-bait outfit](searcher-finesse-live-bait-outfit.md).
 - **30 lb "big fish finesse" rig, 50–70 lb fish:** a small Owner circle
   hook — explicitly *not* the "Light" version and *not* the "hybrid" version
   he names on camera (exact model beyond those two exclusions is
@@ -641,6 +645,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)

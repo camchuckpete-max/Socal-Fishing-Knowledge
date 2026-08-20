@@ -925,6 +925,17 @@ shot in [gaffing](../fish-care/gaffing.md).
   The 30/40 lb rigs pair with a **two-speed low-gear fighting
   technique** — continuous-grind instead of pump-and-reel — logged in
   [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md).
+  - **An earlier (2020-10-01), closely-matching citation of the 15 lb finesse
+    rig, same speaker/channel (Steve Carson, Penn/SearcherSportfishing,
+    `ptoIvB2MspE`; single mention here — medium confidence, high where it
+    corroborates the later talk):** a small conventional reel (Penn Squall II
+    15, low confidence product pick) filled 3/4 with braid to a ~50 yd, 20 lb
+    top shot, 4–5 ft of 20 lb fluoro leader, Owner Gorilla Light hook (sized 4
+    here, vs. 2 in the later talk — a discrepancy kept side by side). Also
+    documents a lighter 15 lb top-shot step-down of the same rig and an
+    attributed 44 lb bluefin catch on it. Full detail in [Searcher finesse
+    live-bait outfit — 20 lb and
+    15 lb](../tackle/searcher-finesse-live-bait-outfit.md).
 - **Two-speed reels are a must on multi-day trips (SearcherSportfishing,
   Rudzy0DD08w, 2019-07-18; `searcher-sportfishing` registered, single
   mention — medium confidence):** on a day-and-a-half or 3-day trip out of
@@ -1098,6 +1109,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)

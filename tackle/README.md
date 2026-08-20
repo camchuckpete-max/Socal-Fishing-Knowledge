@@ -20,6 +20,7 @@
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md) — Steve Carson, aboard the Searcher (k4U3ETqmlEc, "Tackle Tip Thursday Vol.65 (Must-have Outfit)," uploaded 2019-09-12 — a 72-second segment).
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md) — Entries from Penn's own "Tackle Tip Thursday" series, filmed aboard the Searcher (SearcherSportfishing channel) and presented by Penn's Steve Carson.
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md) — Steve Carson, aboard the Searcher (pCd6QykcZ0w, "Tackle Tip Thursday Vol.
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md) — Steve Carson, aboard the Searcher (ptoIvB2MspE, "Tackle Tip Thursday Vol.
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
@@ -48,10 +49,11 @@ graph LR
   n13["Searcher 50/60/80 lb Live-Bait Flyline Outfit — 'Don't Leave the Dock Without It' (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)"]
   n14["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
   n15["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
-  n16["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n17["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n18["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n19["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n16["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
+  n17["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
+  n18["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
+  n19["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n20["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
   n0 --> n14
   n0 --> n2
   n0 --> n3
@@ -59,15 +61,15 @@ graph LR
   n0 --> n7
   n1 --> n10
   n1 --> n14
-  n1 --> n16
+  n1 --> n17
   n1 --> n2
   n1 --> n3
   n10 --> n1
   n10 --> n11
-  n10 --> n16
   n10 --> n17
-  n10 --> n19
+  n10 --> n18
   n10 --> n2
+  n10 --> n20
   n10 --> n3
   n10 --> n7
   n11 --> n10
@@ -85,38 +87,44 @@ graph LR
   n14 --> n12
   n14 --> n13
   n14 --> n15
-  n14 --> n17
+  n14 --> n18
   n14 --> n2
   n14 --> n3
   n15 --> n12
   n15 --> n14
-  n16 --> n1
-  n16 --> n10
-  n16 --> n17
+  n16 --> n2
   n16 --> n3
+  n16 --> n5
+  n16 --> n7
+  n17 --> n1
   n17 --> n10
-  n17 --> n12
-  n17 --> n14
-  n17 --> n16
+  n17 --> n18
   n17 --> n3
-  n18 --> n7
-  n19 --> n10
-  n19 --> n3
+  n18 --> n10
+  n18 --> n12
+  n18 --> n14
+  n18 --> n17
+  n18 --> n3
+  n19 --> n7
   n2 --> n0
   n2 --> n10
   n2 --> n12
   n2 --> n14
+  n2 --> n16
   n2 --> n3
   n2 --> n5
   n2 --> n6
   n2 --> n7
+  n20 --> n10
+  n20 --> n3
   n3 --> n10
   n3 --> n14
-  n3 --> n16
   n3 --> n17
+  n3 --> n18
   n3 --> n7
   n4 --> n5
   n5 --> n12
+  n5 --> n16
   n5 --> n2
   n5 --> n4
   n5 --> n7
@@ -126,7 +134,7 @@ graph LR
   n6 --> n3
   n7 --> n10
   n7 --> n12
-  n7 --> n18
+  n7 --> n19
   n7 --> n3
   n8 --> n5
   n9 --> n10
