@@ -2277,7 +2277,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JUSWISdzIq0 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — dockside fish-processing/service promo blurb, no SoCal-specific fishing knowledge |
 | JWU3djUbfKY | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 48s clip, no substantive fishing content |
 | K4GTUO57rio | SearcherSportfishing | on-the-water | decision-rationale | done | locations/cedros-island.md: added Observed block (2010 Cedros yellowtail session, grade + angler catch counts) |
-| KrIednxCEKI | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| KrIednxCEKI | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/wahoo-trolling.md: added Observed block (Dorado Marauder outcome, no stated reason) |
 | L6BUIu5vFEc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | LYjdT3E3Rb4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | LuSn3IeW9_c | SearcherSportfishing | on-the-water | decision-rationale | pending |  |

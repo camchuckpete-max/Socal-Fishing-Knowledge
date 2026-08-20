@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, trolling, offshore, wire-leader, toothy, baja, two-speed]
-sources: [4uNPLknRAQg]
+sources: [4uNPLknRAQg, KrIednxCEKI]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -105,6 +105,14 @@ single-video citation for the parameters below, medium confidence.
   popularity is independently corroborated in
   [wahoo bomb & Raider jig casting — lure choice](wahoo-bomb-casting.md#lure-choice)),
   rigged with big, sharp hooks and a split ring.
+  - **Observed** (SearcherSportfishing, upload date 2010-02-12, `KrIednxCEKI`;
+    location not stated): a Dorado-colored Marauder trolling lure aboard
+    Searcher was, per an angler named Joe interviewed dockside, "just
+    getting killed" by wahoo that trip — he landed four wahoo (plus tuna and
+    yellowtail on the same trip, not tied to this lure) and the lure came
+    back chewed up enough that he retired it unrepainted rather than fish it
+    again. No reason was stated for the color choice — this is an outcome
+    only, not doctrine.
 - **Nomad-brand diving plug** — shown in **pink**, called "the new hot wahoo
   lure here recently" as of this 2020-05-06 session; a plastic bib/blade on
   the nose is what makes it dive. This is consistent with, and a further data
