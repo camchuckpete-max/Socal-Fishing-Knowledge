@@ -44,6 +44,19 @@ jobs:
     timeout-minutes: 350
     env:
       BRANCH: claude/batch-3-planning-lessons-pxwdl5
+      # Throughput lever, authoritative over the dispatch input.
+      #
+      # The chain re-dispatches ITSELF and passes its own inherited
+      # pace_minutes forward, so changing the trampoline alone does nothing
+      # until the chain happens to die. This env is read from the branch on
+      # every chunk, so a change here takes effect on the very next one.
+      #
+      # 0 = no idle wait. Measured over the first 163 videos: 72% of wall
+      # clock was this sleep, not work (median 4.7 min of real processing per
+      # video against a 51 min median gap between chunks). Removing it changes
+      # nothing about how a video is processed — same depth, same evaluator,
+      # same guard — it only stops the chain sleeping between chunks.
+      PACE_OVERRIDE: "0"
     steps:
       - name: Checkout ingestion branch
         uses: actions/checkout@v4
@@ -151,7 +164,7 @@ jobs:
             echo "Not self-re-dispatching — a human or a later manual dispatch must resume."
             exit 0
           fi
-          pace="${{ inputs.pace_minutes }}"
+          pace="${PACE_OVERRIDE:-${{ inputs.pace_minutes }}}"
           if [ "$pace" -gt 0 ]; then
             echo "Pacing: sleeping ${pace} minute(s) before the next chunk."
             sleep $(( pace * 60 ))
