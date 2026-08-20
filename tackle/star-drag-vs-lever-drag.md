@@ -70,8 +70,17 @@ point back to.
   use there — pulling a hooked fish out of rock structure quickly, then
   shifting back to high — is logged in [two-speed reel
   technique](../techniques/two-speed-low-gear-fight.md#structure-context--pulling-a-fish-out-of-rocks-quickly-tackle-express).
-  No specific location is named in the transcript beyond the video's own
-  "Baja" framing in the title.
+- **A second named lever-drag reel marketed for casting bluefin (also Tackle
+  Express):** the [Accurate Tern 2](tackle-express-accurate-tern-2-reel.md)
+  — a lever-drag conventional the source says a lot of California anglers use
+  for casting bluefin, built with a cast-control centrifugal brake (10
+  adjustable weights per side) to tame backlash on the cast. A different
+  clip, different presenter, same channel and same general claim (lever-drag
+  reels being cast, not just fought) as the Okuma Andros 5 entry above.
+  No specific location is named in this transcript — unlike the Okuma Andros 5
+  clip above (whose own title frames it as Baja), this one is framed only as
+  a shop-counter product interview, with California named for the casting
+  application (see the linked note).
 
 ## Reach for this when
 
@@ -117,6 +126,7 @@ following more detailed, application-specific entries already in this KB:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)

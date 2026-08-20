@@ -241,6 +241,7 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 <!-- backlinks:start -->
 ## Linked from
 
+- [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](../tackle/tackle-express-accurate-tern-2-reel.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
