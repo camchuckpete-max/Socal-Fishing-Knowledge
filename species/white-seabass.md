@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM, sIoNELGlxmk]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM, sIoNELGlxmk, 9MzNNwHiBXs]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [island, nearshore-coast]
@@ -131,6 +131,14 @@ into the spot once the current read right.
   **[sliding sinker](../techniques/sliding-sinker.md)** on a thin-wire hook
   (not octopus) for the blind suspend-and-retrieve soak. Squid is the
   staple; the market/wild-caught squid works even on the small side.
+- **Fin-bait backup, when squid isn't around:** on a charter, squid supply
+  isn't guaranteed — weather, or squid simply not being around, are named
+  triggers to switch to **fin bait (sardine, mackerel)** instead, fished on a
+  proper **J hook** sized to the bait (Owner Flyliner, roughly 1/0 and 2 for
+  5–7 in sardines/mackerel — asr-uncertain on the exact sizes), also fine on
+  a dropper loop. See [Charter bait-tank hook kit — sea
+  bass](../tackle/tackle-express-charter-bait-tank-hook-kit.md#sea-bass--squid-vs-fin-bait-backup-9mznnwhibxs)
+  (9MzNNwHiBXs).
 
 ## Doctrine & conflicts
 
@@ -248,6 +256,7 @@ into the spot once the current read right.
 ## Linked from
 
 - [California Halibut](california-halibut.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

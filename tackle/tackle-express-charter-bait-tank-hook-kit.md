@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [hooks, hook-size, live-bait, anchovy, sardine, squid, dropper-loop, slider, tuna, flyline, bottom-fishing, fluorocarbon, owner, leader]
-sources: [3xx_vES0kdo]
+tags: [hooks, hook-size, live-bait, anchovy, sardine, squid, dropper-loop, slider, tuna, flyline, bottom-fishing, fluorocarbon, owner, leader, white-seabass, j-hook, fin-bait]
+sources: [3xx_vES0kdo, 9MzNNwHiBXs]
 confidence: medium
 ---
 
@@ -67,6 +67,29 @@ doctrine lives in [hooks](hooks.md) and isn't repeated here.
   [sliding sinker](../techniques/sliding-sinker.md) for the general technique
   this weight range serves.
 
+## Sea bass — squid vs. fin-bait backup (9MzNNwHiBXs)
+
+A separate, short Tackle Express clip (`9MzNNwHiBXs`, "Hook Mistakes That Cost
+You Fish! Squid vs. Finbait Tips," uploaded 2025-06-12; unregistered channel,
+single mention — medium confidence). Framing: [white seabass](../species/white-seabass.md)
+(the source's own term is "sea bass") eat squid, but also eat **fin bait —
+sardines as well as mackerel**. On a charter boat, squid isn't always
+available — if **weather** plays an issue, or squid **simply aren't around**,
+the next resort is fin sardines and mackerel, so carrying proper **J hooks**
+sized for fin bait is essential, not an afterthought.
+
+- **Owner Flyliner hooks**, sizes the captions render as **"a 10 and 2"** —
+  read here as **1/0 and 2**, though not confidently resolved
+  (**asr-uncertain**) — work well for **sardines and mackerel between 5 and
+  about 6–7 in**.
+- **Bait-sets-the-size still applies:** bait bigger or smaller than that range
+  calls for a different hook size — the same doctrine already logged in
+  [hooks — size](hooks.md#size--bait-first-fish-second), not repeated here.
+- Also fine on a [dropper loop](../techniques/dropper-loop.md) — the source
+  cuts off mid-sentence ("these will work just fine on the dropper loop
+  as—") but the point stands: the same hooks serve both a flylined and a
+  dropper-loop presentation.
+
 ## Bottom fishing (rockfish, whitefish, sheephead)
 
 - **Size 1 and size 3/0 "gorilla lights"** — a small J hook carried for
@@ -100,6 +123,8 @@ doctrine lives in [hooks](hooks.md) and isn't repeated here.
 - [Flyline](../techniques/flyline.md) — the technique this kit's fly-liner
   hooks serve.
 - [Dropper Loop](../techniques/dropper-loop.md) — the squid/torpedo-sinker rig.
+- [White Seabass](../species/white-seabass.md) — the species router this kit's
+  squid-vs-fin-bait entry serves.
 - [Sliding Sinker](../techniques/sliding-sinker.md) — the slider weight range.
 - [Line & Leader](line-and-leader.md) — fluorocarbon leader selection generally.
 - [Night Bluefin TG-Jig Rig (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) —
@@ -110,4 +135,5 @@ doctrine lives in [hooks](hooks.md) and isn't repeated here.
 
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

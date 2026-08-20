@@ -2408,7 +2408,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 8fSGyJL2GHM | Tackle Express | tutorial | parameter-skim | done | conditions/current-structure.md / added Observed note: multiple productive contour-line edges (inshore ridge vs steep outer footprint) on one structure |
 | 8wbNDfihH1o | Tackle Express | tutorial | parameter-skim | done | none / 31s freshwater bass-lake trolling philosophy, no stated parameters, out of scope |
 | 9-UtAaSacsc | Tackle Express | tutorial | parameter-skim | done | none / 71s holiday gift-guide promo naming Shimano/Mustad pliers with generic features, no SoCal/Baja decision content |
-| 9MzNNwHiBXs | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9MzNNwHiBXs | Tackle Express | tutorial | parameter-skim | done | species/white-seabass.md; tackle/tackle-express-charter-bait-tank-hook-kit.md / fin-bait-backup hook parameters (squid unavailable/weather) merged, ASR-uncertain hook sizes flagged not asserted |
 | 9_iox_eRhpg | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9ekSBpLG0GA | Tackle Express | tutorial | parameter-skim | pending |  |
