@@ -2178,7 +2178,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | jDmHgRNnqhw | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md / Fred Brent's J-hook-vs-circle rationale and Mustad 94151 corroboration added; evaluator corrected confidence to low (product/model endorsement per registry) |
 | jJG6FWNXkok | SearcherSportfishing | tutorial | deep | done | none / skipped: promo for third-party fish-delivery courier service (Dock 2 Door), zero fishing knowledge content |
 | jLFZIh15Fec | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/flat-fall-jigging.md / merged 200g flat-fall weight/color/leader/gear tip as 2018-07-12 dated entry; evaluator fixed a dead anchor link |
-| jQzOdmP0zoQ | SearcherSportfishing | tutorial | deep | pending |  |
+| jQzOdmP0zoQ | SearcherSportfishing | tutorial | deep | done | rigging/crimping.md; tackle/spectra-hollow-vs-solid.md / added crimp-vs-knot trip-length trigger and 135 lb hollow/solid breakpoint with competing solid-line lean; evaluator fixed an invented speaker gender pronoun |
 | jqyu3wZdNF4 | SearcherSportfishing | tutorial | deep | pending |  |
 | k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | pending |  |
 | kdEKEyVTIGU | SearcherSportfishing | tutorial | deep | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [crimping, crimp-sleeve, chafe-gear, leader, terminal-tackle, big-game]
-sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ]
+sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA, fgTmUq78ofQ, jQzOdmP0zoQ]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -91,6 +91,18 @@ roll of 200 lb) is typically labeled with the crimp size it calls for, and a
 tackle shop can point to the matching crimp for whatever leader is bought
 there.
 
+**A second, shorter framing — trip length as the trigger, not just pound test
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 144 — Hollow and Solid
+Line," `jQzOdmP0zoQ`, 2021-04-22; registered channel/series, single mention —
+medium confidence).** For the top-shot-to-mainline connection specifically
+(see [hollow vs solid spectra](../tackle/spectra-hollow-vs-solid.md#a-second-competing-lean--solid-for-capacity-and-knot-speed-over-splice-time)),
+this source's default is to tie a knot — quicker than serving a top shot into
+hollow braid — but the source switches to crimping that connection on a longer
+multi-day trip (their example: a 10-day trip) that calls for big gear. No
+specific pound-test trigger is stated the way the 200 lb leader-knot
+reasoning above gives one; the stated trigger here is trip length plus gear
+size.
+
 ## Tie it
 
 How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.com/watch?v=3zXcrGsIL-c).
@@ -100,5 +112,6 @@ How-to video: [Tackle Tip Thursday Vol. 116 — Crimping](https://www.youtube.co
 
 - [Bluefin Bite Leaders](bite-leaders.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 <!-- backlinks:end -->

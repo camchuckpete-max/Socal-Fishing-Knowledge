@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, braid, spectra, hollow-core, solid-core, splicing]
-sources: [YrvQZojc1q0, 46wHgdTJWIM]
+sources: [YrvQZojc1q0, 46wHgdTJWIM, jQzOdmP0zoQ]
 confidence: medium
 ---
 
@@ -28,6 +28,15 @@ Same source: solid spectra is most commonly run in the **lighter line
 classes — 50, 60, 80 lb, sometimes heavier**; hollow is more commonly run in
 **larger classes, up to 200 lb**. Stated on camera as "not a rule" — just the
 common pairing, not a constraint.
+
+**A sharper breakpoint, one source's number (SearcherSportfishing, "Tackle Tip
+Thursday Vol. 144 — Hollow and Solid Line," `jQzOdmP0zoQ`, 2021-04-22;
+registered channel/series, single mention — medium confidence):** this source
+states hollow braid is only made **starting at 135 lb and up**; anything rated
+below 135 lb is solid. Given as a manufacturing/availability fact ("naturally
+starting at 135 on up") rather than the softer common-pairing framing above —
+but it's still one source's number, not cross-confirmed elsewhere in this KB,
+so treat 135 lb as this speaker's stated breakpoint, not a hard industry rule.
 
 ## Hollow-core — rigging and spliceability
 
@@ -68,6 +77,31 @@ setup gets a bait swimming enough better to be "the difference between
 getting a bite or not getting a bite," that outweighs the rigging
 convenience. Read as situational, not a fixed recommendation either way.
 
+## A second, competing lean — solid for capacity and knot speed over splice time
+
+**(SearcherSportfishing, "Tackle Tip Thursday Vol. 144 — Hollow and Solid
+Line," `jQzOdmP0zoQ`, 2021-04-22; registered channel/series, single mention —
+medium confidence.)** Framed on camera as pure preference ("it's actually
+preference"), not a rule — but this source's own lean runs the opposite
+direction from 46wHgdTJWIM's above, so the two sit side by side rather than
+being reconciled:
+
+- **Capacity:** solid line lets more line fit on the reel at a given class —
+  the same diameter mechanism already logged above (solid runs skinnier for
+  the same rating).
+- **Tying beats serving:** attaching a top shot inside hollow braid means
+  serving it (see [hollow-core splice & serving](../rigging/hollow-splice-and-serving.md)),
+  which "takes a while" — enough that, per this source, a lot of anglers do
+  that serving work during evening downtime on a trip (e.g. "after dinner")
+  rather than at the rail. This speaker's stated reason for preferring solid:
+  tying a knot to attach the top shot is "a lot quicker" than serving.
+- **Exception — a longer trip with big gear:** on a longer multi-day trip
+  (their example: a **10-day trip**) where big gear is called for, this source
+  switches to crimping the top-shot connection instead of tying a knot — see
+  [crimping](../rigging/crimping.md#why-crimp-instead-of-tying-a-knot-at-heavy-leader-classes-art-taylormike-searchersportfishing-via-turners-outdoorsman)
+  for the mechanical how-to and a parallel "crimp beats knot" reasoning
+  logged there for leader classes.
+
 ## Smooth vs rough — the kelp-cutting axis (separate from hollow/solid)
 
 This is a different property than hollow-vs-solid construction, though the
@@ -95,6 +129,7 @@ two often travel together:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Crimping — Sleeve Crimps for Heavy Leaders](../rigging/crimping.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 <!-- backlinks:end -->
