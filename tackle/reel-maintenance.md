@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation, grip]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk, 17sBBD0C4XY]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk, 17sBBD0C4XY, 1MxHXTv3a2A]
 confidence: medium
 ---
 
@@ -234,6 +234,30 @@ line needs changing at all, not a schedule for changing it:
   instead.
 - **Stated stakes for skipping the check:** hooking a fish with a bad, frayed
   spot still in the spectra gives you low odds of landing it.
+
+## Line-change cadence by material, and a braid-vs-fluoro material call (Tackle Express, "How often should you actually change your fishing line?," `1MxHXTv3a2A`, 2026-06-25; unregistered channel, single mention — medium confidence)
+
+A stated personal schedule for replacing line by material, distinct from the
+look/feel diagnostics above (which judge readiness by inspection rather than a
+fixed count):
+
+- **Co-polymer — every two trips**, given as a flat count with no visual
+  trigger stated.
+- **Fluorocarbon — three or four trips**, run until it "gets crusty" — a
+  degradation cue (stiffening) rather than a fixed count, and looser than the
+  co-poly schedule.
+- **Stated main-line preference: braid over fluorocarbon**, reasoned from wind
+  performance — "you can fish in the wind really well" on braid, consistent
+  with the diameter/wind-and-current-resistance mechanic already logged in
+  [line & leader — the three
+  materials](line-and-leader.md#the-three-materials--what-each-one-actually-does).
+- **Fluorocarbon's one shortfall, same speaker:** fluoro "checks all the
+  boxes" on abrasion resistance and knot strength, but the thing it doesn't
+  do is stay limp on the reel — it coils round and has to be worked straight
+  again before it fishes true (line memory). Kept as a standalone
+  material-preference data point alongside the braid/mono/fluoro behavior
+  comparisons in [line &
+  leader](line-and-leader.md#the-three-materials--what-each-one-actually-does).
 
 ## Storage — how gear should sit through the layoff
 
