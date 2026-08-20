@@ -237,6 +237,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Moon](moon.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Regimes](water-regimes.md)

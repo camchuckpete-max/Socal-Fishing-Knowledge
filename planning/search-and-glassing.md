@@ -1,7 +1,7 @@
 ---
 type: planning
-tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg]
+tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift, sunglasses]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg, YJX-hYEIcNM]
 confidence: high
 ---
 
@@ -78,6 +78,31 @@ Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol. 115 (Signs of Fish),"
 
 Named on camera as the "three main things" this boat's captains glass for:
 birds, fish boiling, and breezers/flat spots.
+
+## Sunglass lens color for glassing
+
+Lens tint changes what surface sign you pick out, on top of the eye
+protection every pair gives (Rick, Fisherman's Landing Tackle Shop, guest on
+SearcherSportfishing "Tackle Tip Thursday Vol. 188 (Sunglasses for Fishing),"
+`YJX-hYEIcNM`, 2022-06-30; searcher-sportfishing is a registered channel/series
+but Rick is a guest, not one of the channel's named recurring voices, and this
+is a single mention — **medium confidence**; the specific lens brand shown on
+camera is a product example, not doctrine, and is omitted per the sponsored-
+claim rule for this channel):
+
+- **Neutral gray — the default for SoCal saltwater fishing, "overwhelmingly
+  the most popular."** Shows natural light just darkened slightly, so the eyes
+  relax over a long day on the water. No stated edge for a specific sign type
+  — the all-around choice.
+- **Amber (including an amber-mirror tint) — better color contrast.** Makes
+  contrasting colors "pop" more, called out specifically for **picking a kelp
+  paddy out of the water** (see the surface sign vocabulary above and
+  [kelp paddies](../conditions/kelp-paddies.md)).
+- **Sunrise yellow — the overcast/low-light lens, "lesser sought out."**
+  Brightens everything under a heavy gray sky, lets your eyes adjust into the
+  glasses faster, and is called out for **picking out a breezer** on the
+  gray, flat-light days when the sun isn't lighting up the water (see the
+  breezer entry in the surface sign vocabulary above).
 
 ## Anchoring geometry
 
