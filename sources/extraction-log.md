@@ -2368,7 +2368,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 2DfGpewNRYc | Tackle Express | tutorial | parameter-skim | done | none: generic packing/travel-logistics content, excluded by curation bar |
 | 2Ee2DFZ9Wk4 | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md: Rapala Crush City Mooch Minnow parameters (fork-tail, material, suspended-fall use), medium confidence |
 | 2QphkC2cK14 | Tackle Express | tutorial | parameter-skim | done | none: product plug for Shimano Sedona marketing features, no SoCal-specific parameters, fails curation bar |
-| 2c8UomduE3c | Tackle Express | tutorial | parameter-skim | pending |  |
+| 2c8UomduE3c | Tackle Express | tutorial | parameter-skim | done | none: generic/out-of-region freshwater-bass tackle content |
 | 2gmvTuXtu0Q | Tackle Express | tutorial | parameter-skim | pending |  |
 | 2pkE9RwW1bU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 3-0kaaHqA7A | Tackle Express | tutorial | parameter-skim | pending |  |
