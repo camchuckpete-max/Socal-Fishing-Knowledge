@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -235,6 +235,23 @@ behavior**:
 - **Model benchmarks:** **Sea Falcon** slow-pitch and speed jigs, Shimano
   Butterfly / Flat-Fall, Nomad Gypsea / Streaker, Hots, Ocean's Legacy. Carry a
   range of weights and both cross-sections.
+  - **Flat-fall/butterfly stocking recommendation, with a wind-driven weight
+    rule restated (SearcherSportfishing, "Tackle Tip Thursday Vol. 99
+    (Bluefin Lures)," `pm8u6qUrVUI`, 2020-05-14; `searcher-sportfishing`
+    registered channel — medium confidence):** frames flat-fall/butterfly
+    jigs as a class **"everybody should have"** — stock **four or five**, in
+    a range of weights (worked examples on camera: **150 g, 200 g, 250 g**)
+    and **various colors that have been effective** (captions render this
+    "blowing the darks" — **asr-uncertain**, plausibly a garbled "glow and
+    darks," i.e. glow-in-the-dark vs. darker colors, the same
+    daytime-dark/pre-dawn-glow split already logged from this channel's Vol.
+    3 above; not confidently resolved, so not merged into that entry as
+    confirmation). **Wind-driven weight choice, restated:** in wind, step up
+    to a heavier flat-fall — reasoned here as compensating for the boat
+    drifting along with the wind and current, so the heavier jig still
+    reaches the fish's depth — the same go-heavier-in-wind rule as
+    [flat-fall jigging](../techniques/flat-fall-jigging.md#jig-weight-and-rig),
+    with the boat-drift mechanism spelled out explicitly.
   - **Season-stocking recommendation ahead of the 2021 season, speaker
     unnamed on camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130,"
     `E9YtH56Dngo`, uploaded 2020-12-17; unregistered channel — medium
@@ -545,5 +562,6 @@ rigging from class terms above until it lands; see
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

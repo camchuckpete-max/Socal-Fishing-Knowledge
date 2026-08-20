@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -141,6 +141,25 @@ casting](../techniques/foamer-casting.md#retrieve-mechanics); (3) **"East
 Coast" jigging style** — cast it out, then jig it up and down through the
 water column until it's straight up and down under the boat, then wind it
 back in and repeat.
+
+**Casting reach and bait-match sizing (SearcherSportfishing, "Tackle Tip
+Thursday Vol. 99 (Bluefin Lures)," `pm8u6qUrVUI`, 2020-05-14;
+`searcher-sportfishing` registered channel — mechanism/parameter content
+medium confidence, product naming capped low per the channel's
+sponsored-claim caveat):** names a **60 g** Colt Sniper as the small end of
+the size run ("they make them bigger" — consistent with, not new beyond, the
+60–100 g+ range already logged above) and restates the same two retrieves
+already documented above — cast and skip it across the surface by holding the
+rod tip in the air (stated effective for both yellowfin and bluefin tuna), or
+let it sink and take the bite on the fall. **Two stated selection factors,
+added here:** (1) size the lure to whatever bait size is currently in the
+boat's bait tank — a match-the-hatch rule for lure **size**, not just color;
+(2) in wind, step up to a heavier lure — captions garble the stated reason
+here ("...a heavier lure to test out there..."), so no specific rationale is
+asserted for the popper case. Contrast the flat-fall/butterfly entry above,
+where the boat-drift-in-wind mechanism **is** stated explicitly on camera
+(see [knife jigs](knife-jigs.md) and [flat-fall
+jigging](../techniques/flat-fall-jigging.md#jig-weight-and-rig)).
 
 **Season-stocking recommendation ahead of the 2021 season, speaker unnamed on
 camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130," `E9YtH56Dngo`,

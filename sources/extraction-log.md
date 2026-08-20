@@ -2197,7 +2197,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | pB10vaDaETM | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / fifth dated Searcher instance of the wrapped/two-hole rubber-band sinker rig added with a new stated leader-abrasion reason and a placement conflict flagged asr-uncertain rather than reconciled |
 | pCd6QykcZ0w | SearcherSportfishing | tutorial | deep | done | lures/iron-jigs.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/dart-jig-tuna.md; tackle/searcher-daytime-dart-jig-outfit-ladder.md / new daytime dart-jig outfit ladder note (light/heavy tiers, hook-strength and treble-vs-single-by-lure-style data points) cross-linked into existing iron-jig hook-style and dart-jig rig entries; one over-precise inferred number fixed |
 | pQ9kGqgsX8I | SearcherSportfishing | tutorial | deep | done | techniques/wind-in-your-face-positioning.md; bait/fishing-live-bait.md; techniques/rod-handling-live-bait.md; techniques/underhand-casting.md / New technique note on windward-rail positioning during multi-angler drift stops, cross-linked from three related technique/bait notes, link-maintenance clean |
-| pm8u6qUrVUI | SearcherSportfishing | tutorial | deep | pending |  |
+| pm8u6qUrVUI | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md / applied with one fix: removed an invented wind/casting rationale not supported by the ASR-garbled transcript, everything else faithful |
 | ptoIvB2MspE | SearcherSportfishing | tutorial | deep | pending |  |
 | qBP3qRnK4H4 | SearcherSportfishing | tutorial | deep | pending |  |
 | q_ciF1xiDiI | SearcherSportfishing | tutorial | deep | pending |  |
