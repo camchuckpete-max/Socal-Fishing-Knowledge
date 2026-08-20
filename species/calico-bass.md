@@ -418,7 +418,9 @@ present the outside stringers.
 - **Terminal/lures:** [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md)
   and slugs on keel-weighted weedless or leadhead hooks; surface
   [iron jigs](../lures/iron-jigs.md); crankbaits and small hard baits with beefed
-  hooks/split rings. Heavy fluoro leader (40–65 lb) for kelp.
+  hooks/split rings. Heavy fluoro leader (40–65 lb) for kelp. Colt Sniper-class
+  [stickbaits/jerkbaits](../lures/tuna-poppers-and-stickbaits.md) are also fished
+  on top for calico, sharing gear with the yellowtail application.
 
 ## Doctrine & conflicts
 
@@ -691,6 +693,7 @@ release *ethic* and the regional policies are below.
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Trolling](../techniques/trolling.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

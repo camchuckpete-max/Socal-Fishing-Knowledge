@@ -1,10 +1,10 @@
 ---
 type: lure
-tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g]
+tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ]
 confidence: high
-regions: [socal-bight]
-waters: [open-ocean, bank, island]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [open-ocean, bank, island, nearshore-coast]
 ---
 
 # Tuna Poppers and Stickbaits
@@ -395,6 +395,19 @@ alternative with noticeably beefier stock hooks that held up without
 bending, at the cost of the angler having to decide whether the split rings
 are worth upgrading too.
 
+**Baja starter-kit quantities, calico bass + yellowtail (Tackle Express,
+"The only Baja tackle list you'll ever need," `5uEzREjLlLQ`, 2026-05-19;
+unregistered channel, single mention — medium confidence):** a short segment
+(unnamed speakers) frames a minimum kit that "covers every avenue" for
+**[calico bass](../species/calico-bass.md) and yellowtail** fishing in Baja:
+**3–4 [surface irons](iron-jigs.md)**, **3–4 Colt Snipers** (the stickbait/
+jerkbait above), **a couple yo-yo jigs** (see [iron jigs](iron-jigs.md)),
+**a couple stick baits** beyond the Colt Sniper (other models in this note),
+and **a couple packs of [swim baits](soft-plastic-swimbaits.md)**. No
+conditions or reasoning is given beyond the blanket "every avenue" framing —
+a quantity checklist, not decision logic, and kept as such rather than
+inflated into a rationale that wasn't stated.
+
 ### Daiwa Zakana and other sinking metal burn baits
 **Daiwa Zakana as a sinking metal jig, casting comparison (Ray Sharifi,
 Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** similar profile to a Shimano Colt Sniper metal, but with
@@ -699,6 +712,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
