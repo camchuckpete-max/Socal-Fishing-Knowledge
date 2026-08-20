@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [rapala, husky-magnum, diver, tuna, trolling, offshore]
-sources: [cameron]
+sources: [cameron, FXWOIB0TPfE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -30,6 +30,22 @@ back to ~33 yd, and troll in the 6–8 kt best band on light line (40–50 lb) f
 swimmer, or a speed-trolled [Mad Mac](../lures/mad-mac.md) is decided in
 [bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
+
+## Rapala X-Rap Magnum 30 — a distinct Rapala model, and a tracking check before it goes out (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; product/model endorsement — low confidence, sponsored-claim caveat: `searcher-sportfishing` is a registered channel but product/model endorsements stay low per its registry caveat)
+
+Named alongside the Husky Magnum in the same trolling rotation: a **Rapala
+X-Rap Magnum 30** (captions render the leading size figure as "9-millimeter,"
+almost certainly a mis-transcription of a size given in inches —
+asr-uncertain, not carried as a confirmed figure). No construction/profile
+detail (jointed vs. one-piece) is given on camera, so none is asserted here;
+it's logged as a **distinct, separately named model** from the
+straight-swimming Husky Magnum this note otherwise covers, not folded into
+the running-spec table above. Many colors
+and patterns are carried, but the **mackerel/sardine pattern** is named as
+the best producer. **Practical check before it goes out:** these hardbaits
+don't always swim/track true right out of the package — check with the crew,
+who can make a minor tuning adjustment, rather than fishing a lure that
+tangles the line every time it's set out.
 
 ## Owned examples
 

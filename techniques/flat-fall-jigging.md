@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -108,6 +108,37 @@ to reach for it is the reverse map in **Linked from** below.
   low confidence). Stock assist hooks on this jig class wear out and are
   routinely upgraded — see [assist
   hooks](../rigging/assist-hooks.md#stock-flat-fall-assist-hooks-wear-out--upgrade-and-size-to-the-grade-of-fish-art-taylormike-searchersportfishing-via-turners-outdoorsman).
+
+## Mono over fluorocarbon for the leader, and a single-hook swap size (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Asked directly whether to run heavy monofilament or heavy fluorocarbon as the
+leader for flat-fall-type jigs, the stated answer is **mono — it doesn't have
+to be fluorocarbon.** Two stated reasons: **it's cheaper**, and much of this
+boat's best flat-fall fishing has historically come **at night** (right at
+sunset or right before sunrise), when a leader's underwater visibility
+matters less than it would on a bright-daylight bite. Leader spec given:
+**150–200 lb mono**, roughly a **4 ft** leader — in range with, not a change
+to, the 200 lb mono/large-swivel crimped leader already logged above.
+
+- **Single-hook swap size, for anglers who replace the factory hook(s) with
+  one single hook:** captioned on camera as "a 602, a tow hook" — read as a
+  **6/0** ("602"; "a tow hook" is asr-uncertain and not otherwise
+  interpreted) — "something big." No larger size is stated on camera; not
+  carried as a range.
+- **Stock hooks/leader called sufficient as shipped, a 2020 data point that
+  predates this note's later stock-hooks-wear-out entry above:** a lot of
+  anglers have taken to swapping out the factory hooks and leader line for
+  bigger/heavier ones, but the stated view here is that current-generation
+  flat-falls don't require it — "these ones that come out of the package are
+  sufficient, they work... it's not imperative that you change" — framed as
+  manufacturers having "keyed in" on the swap-it-out recommendation and
+  improved the stock hook/leader as a result. Kept side by side with, not
+  reconciled to, the **2021-05-14** Art Taylor/Mike citation above, which
+  states stock assist hooks on this jig class wear out and are routinely
+  upgraded — a later-dated, opposite-leaning data point from the same
+  channel, not treated as superseding this one per "prefer the latest" (the
+  two claims describe different failure modes — general sufficiency here vs.
+  wear-over-time there — rather than a clean contradiction).
 
 <!-- backlinks:start -->
 ## Linked from

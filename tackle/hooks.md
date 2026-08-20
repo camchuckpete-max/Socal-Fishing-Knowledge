@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE]
 confidence: medium
 ---
 
@@ -208,6 +208,18 @@ and why anglers reach for it.
   preference is actually the non-ringed hook + loop knot, for two reasons: it
   adds less hardware weight to an already-stressed live bait, and it's
   silent — no ring-on-hook clank that can spook a picky, finicky bite.
+
+### Downsize the hook, not the line, to save a slow bluefin bite (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+When bluefin aren't biting well on a standard circle hook (his working
+example: a **3/0**), the stated first lever to pull is **dropping down one
+hook size — not dropping down in line test** — to try to save the bite.
+Recalls a season, resolved from the 2020-04-08 upload date to **2019**
+("last year"), poor enough that the crew ran hooks as small as **1/0 and
+2/0** specifically "just to get a bite" out of bluefin that weren't biting
+well. A distinct lever from the bait-sets-the-hook-size doctrine above —
+this is a deliberate downsize used as a bite-rate fix when the fish are
+being finicky, with line class left as-is rather than also dropped.
 
 ### Wire gauge
 

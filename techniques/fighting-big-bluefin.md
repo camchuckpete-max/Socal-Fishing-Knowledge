@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ]
+tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation, great-white-shark, guadalupe-island]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ, FXWOIB0TPfE]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -435,6 +435,35 @@ gamefish a sea lion is stealing boatside, not just bluefin.
     fish first — a preventive variant of the free-spool/slack trick logged
     above, applied before contact rather than after. Outcome not confirmed
     on camera (the crew's own response in the moment was "we'll see").
+
+## Great white shark depredation at Guadalupe Island — slack doesn't always mean a lost fish
+
+**SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08;
+`searcher-sportfishing` registered channel — medium confidence, single
+mention.** Answering a viewer question on Guadalupe Island specifically,
+where great white sharks are described as simply "part of the game": stated
+tips for improving the odds a hooked bluefin makes it to the boat rather than
+becoming a shark's meal.
+
+- **Fish a two-speed reel and work the rail** — let the boat/rail do the
+  pulling rather than muscling the fish by hand; the angler's job is mainly
+  turning the handle and gaining line while keeping steady pressure on the
+  fish.
+- **Ask for relief.** If a fish has been on for a while, it's normal to ask a
+  crew member or the captain to take the rod for a stretch — a fresh angler
+  can put more pressure on the fish and get it to the surface for the gaff
+  faster than a tired one can.
+- **The key read: a sudden slack line near a shark doesn't necessarily mean
+  the fish is lost.** A shark showing up on a hooked tuna often spooks it
+  into bolting for safety underneath the hull rather than away from the
+  boat — and because **a tuna is generally faster than a great white
+  shark**, that dash can put the fish essentially at the surface, tucked
+  up under the boat, out of the shark's reach, even though the sudden slack
+  reads exactly like a lost fish or a pulled hook. Stated fix: when the line
+  goes slack with a shark in the picture, **turn the handle as fast as
+  possible and gather line** rather than assume the fish is gone — described
+  as a pattern this crew has "seen multiple times," where anglers wrongly
+  give up on a fish that was still hooked and simply hiding under the hull.
 
 ## Mola mola (sunfish) interference and a tail-wrapped fish broken off at the boat
 

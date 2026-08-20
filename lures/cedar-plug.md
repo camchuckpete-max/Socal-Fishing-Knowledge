@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [cedar-plug, tuna, bluefin, yellowfin, trolling, offshore]
-sources: [cameron, AH4Eiya1Hn0, 8UAtGqEjDtU]
+sources: [cameron, AH4Eiya1Hn0, 8UAtGqEjDtU, FXWOIB0TPfE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -68,6 +68,19 @@ corroborating the daisy-chain confidence-lure framing above from a second,
 independent boat/source. Stated favorite color/pattern: **natural**. This
 plug ships **pre-rigged with a leader**, so it ties directly onto the
 trolling outfit without additional rigging.
+
+## Unpainted, raw 6" wood over painted (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Given a choice on the tackle-store shelf between an unpainted 6" cedar plug
+(raw wood) and a painted 8" plug, the presenter's own money is on the
+**smaller, unpainted 6" plug** — no finish, "just raw wood, raw cedar." Over
+several years that plug has been, in his words, "old reliable" — a second,
+independently-dated Searcher citation for the same **"Old Reliable"**
+confidence-lure framing already logged above from Captain R Taylor
+(`8UAtGqEjDtU`), here naming **unpainted/raw finish** specifically rather
+than the "natural" color/pattern that earlier entry names — read as
+consistent with, and a further specific on, that same natural-over-painted
+preference rather than a new claim.
 
 ## Owned examples
 

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg, 49joKHD7Umc]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg, 49joKHD7Umc, FXWOIB0TPfE]
 confidence: medium
 ---
 
@@ -801,6 +801,41 @@ load. Match rod to lure by **tow/drag load, line-abrasion needs, strike
 cushioning, and line-agnostic cases** — the full logic and the rod-tip elevation
 rule are in [trolling](../techniques/trolling.md); per-lure specs live in the lure
 notes.
+
+### A named reel/rod build, and a boat-length top-shot preference (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+- **Reel:** for a dedicated trolling outfit, a bigger, heavier reel with real
+  line capacity is the stated need — named examples are a **Penn
+  International 30**, an **Accurate 50**, or a **Shimano TLD 30** (an
+  International 51-speed and Shimano TLD 30s are among the reels this boat
+  actually runs on its own trolling outfits — product/model picks, low
+  confidence per the sponsored-claim caveat). Not essential to own one: on a
+  **day-and-a-half trip**, a guest doesn't need to bring a dedicated trolling
+  outfit at all — the boat supplies functioning trolling rods, generally
+  already rigged with lures that have been producing, and the crew assigns
+  one when it's an angler's turn on the troll rotation.
+- **Rod:** a **6 to 6.5 ft** graphite rod with real backbone — a **Seeker
+  700-series** named as the boat's example pick (product/model — low
+  confidence per the sponsored-claim caveat; the presenter deferred the exact
+  confirmed model to "Rick at Seeker" rather than stating it firmly on
+  camera — surname not given).
+- **Top-shot length — a stated preference for boat-length mono over a short
+  top shot, with a stretch/shock-absorber reasoning:** asked short top shot
+  vs. a boat-length section of mono between braid and fluorocarbon, the
+  stated preference is the **longer, boat-length top shot** — this boat's own
+  example is roughly **95–100 ft**. Reasoning given: mono's stretch acts as a
+  shock absorber that a short top shot doesn't provide; with a short top shot
+  in breezy, choppy conditions there's effectively no stretch buffer between
+  spectra and fluorocarbon, and a hard hit can pull the hook. A practical
+  side benefit named for running a full spool of top-shot material (his
+  example: winding on a whole **25-yard spool**, i.e. **75 ft**) is fewer
+  retie/connection points to manage through a trip. Framed partly as a
+  personal, experience-based preference — described as liking "a little
+  shock absorber" fighting a bigger, tougher fish as he's "gotten older."
+- **Line class example, an 80/40–60 lb pairing for a Penn 40-class reel:**
+  **80 lb spectra/braid** backing, topped with a **40–60 lb monofilament
+  top shot**, matched to a same-class fluorocarbon leader (e.g. a 40 lb top
+  shot pairs with 40 lb fluorocarbon).
 
 ## Drag setting
 

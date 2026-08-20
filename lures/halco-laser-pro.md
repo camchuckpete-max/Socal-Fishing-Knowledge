@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [halco, laser-pro, diver, tuna, trolling, offshore]
-sources: [cameron, 8UAtGqEjDtU]
+sources: [cameron, 8UAtGqEjDtU, FXWOIB0TPfE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -43,6 +43,16 @@ thin, single-mention confirmation of the model family as a working trolling
 swimmer. No speed, setback, or leader parameters given beyond what's already
 logged above; not confirmed on camera as the same LP190 XDD variant this note
 covers.
+
+## Halco Max 130 — a distinct model in the Searcher's rotation (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; product/model endorsement — low confidence, sponsored-claim caveat: `searcher-sportfishing` is a registered channel but product/model endorsements stay low per its registry caveat)
+
+Named on camera as one of the trolling lures that had "been hot here
+lately": a **Halco Max 130** — "swings really well and gets bites." Bigger
+sizes in the same Max line are available beyond the 130. This is a distinct
+model from the **LP190 XDD** deep-diver this note otherwise covers — no
+running speed, setback, or leader spec is given on camera for the Max 130,
+so it's logged here as a named-product data point only, not a full running
+spec.
 
 ## Owned examples
 
