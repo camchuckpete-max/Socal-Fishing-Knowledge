@@ -2275,7 +2275,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | J52jzaMnKA0 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — rod-organizing banter and unlanded fish, no species/technique/rationale content |
 | J61iyNrfqsg | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — promotional trip-schedule overview, generic beginner-progression advice; place/species mentions shallow duplicates of dedicated corpus coverage |
 | JUSWISdzIq0 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — dockside fish-processing/service promo blurb, no SoCal-specific fishing knowledge |
-| JWU3djUbfKY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| JWU3djUbfKY | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 48s clip, no substantive fishing content |
 | K4GTUO57rio | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | KrIednxCEKI | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | L6BUIu5vFEc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
