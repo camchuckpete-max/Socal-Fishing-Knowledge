@@ -2353,7 +2353,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | -Ocrnb4rmMo | Tackle Express | tutorial | parameter-skim | escalated | escalated: subagent-failure |
 | -zw76Sh7YCI | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md: appended 4-in vs 5-in sizing + O-ring/band keeper-hardware bullet, medium confidence |
 | 05uB5V_jWTg | Tackle Express | tutorial | parameter-skim | done | techniques/slow-pitch-jigging.md: rockfish jig-weight/depth pairing relocated from rockfish-deep-dropping.md into matching Jig weight & selection section |
-| 0OpWO3Yo4HE | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0OpWO3Yo4HE | Tackle Express | tutorial | parameter-skim | done | none: generic Palomar-knot mechanic already covered by rigging/essential-knots.md; only new content is a product plug, fails curation bar |
 | 0PAPH1uqk4A | Tackle Express | tutorial | parameter-skim | pending |  |
 | 0_pEeh0n9Uo | Tackle Express | tutorial | parameter-skim | pending |  |
 | 0pBFS6TLVUQ | Tackle Express | tutorial | parameter-skim | pending |  |
