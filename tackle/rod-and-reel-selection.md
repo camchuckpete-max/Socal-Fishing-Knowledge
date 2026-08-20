@@ -806,6 +806,11 @@ pinch. Line: ~150 yds braid + 3–5 ft fluoro top shot — **8–10 lb for spott
 12–15 lb for [halibut](../species/california-halibut.md), 20–30 lb for calicos in
 the kelp** (they dig in and you need to pull them out).
 
+A lighter, lower-line-class product in the same digital/DC-brake-for-backlash
+category: the [Bates EDC 100](tackle-express-bates-edc-100-reel.md) (100 yd
+capacity, 12 lb mono) — a promotional single-product spot, not a technique
+source.
+
 ## Trolling rods — use the 4-factor framework
 
 Trolling rod choice is its own decision because the lure, not the fish, sets the
@@ -878,6 +883,7 @@ a bluefin).
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
+- [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Bimini Twist — 100% Double-Line Loop](../rigging/bimini-twist.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)

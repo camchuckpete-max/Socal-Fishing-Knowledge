@@ -2412,7 +2412,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9_iox_eRhpg | Tackle Express | tutorial | parameter-skim | done | none / 36s Damiki freshwater bass tackle promo, no SoCal/Baja saltwater content |
 | 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | done | species/calico-bass.md; techniques/swimbaits.md / Beach bounce in ripping current stupid tube technique variant, unregistered channel medium confidence |
 | 9ekSBpLG0GA | Tackle Express | tutorial | parameter-skim | done | none / 12-second clip, no extractable fishing content, correctly skipped |
-| 9hXW9JCffsU | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9hXW9JCffsU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-and-reel-selection.md; tackle/tackle-express-bates-edc-100-reel.md / new low-confidence product spec note for Bates EDC 100 DAB baitcaster, linked from inshore combo section |
 | 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9qwsg-e9ECA | Tackle Express | tutorial | parameter-skim | pending |  |
 | A-D5MYB98yo | Tackle Express | tutorial | parameter-skim | pending |  |

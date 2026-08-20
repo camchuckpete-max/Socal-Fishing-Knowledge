@@ -132,6 +132,7 @@ following more detailed, application-specific entries already in this KB:
 ## Linked from
 
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
+- [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
