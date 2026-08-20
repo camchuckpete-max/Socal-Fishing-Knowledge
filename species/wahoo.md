@@ -206,6 +206,7 @@ for locating wahoo specifically. General method:
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)

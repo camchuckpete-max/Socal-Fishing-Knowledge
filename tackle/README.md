@@ -25,6 +25,7 @@
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md) — Steve Carson, aboard the Searcher (vVOkxHx58Eg, "Tackle Tip Thursday Vol.
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md) — Steve Carson, aboard the Searcher (pCd6QykcZ0w, "Tackle Tip Thursday Vol.
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md) — Steve Carson, aboard the Searcher (ptoIvB2MspE, "Tackle Tip Thursday Vol.
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md) — Captain Arch, SearcherSportfishing (zuAuk-Kfa1Y, "Tackle Tip Thursday Vol.
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md) — Steve Carson, aboard the Searcher (sjOJiR6_HJ4, "Tackle Tip Thursday Vol.
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
@@ -61,13 +62,14 @@ graph LR
   n18["Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)"]
   n19["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
   n20["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
-  n21["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n22["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
-  n23["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n24["Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)"]
-  n25["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n26["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n27["Star Drag vs. Lever Drag — Reel Class Comparison"]
+  n21["Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)"]
+  n22["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
+  n23["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
+  n24["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
+  n25["Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)"]
+  n26["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n27["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n28["Star Drag vs. Lever Drag — Reel Class Comparison"]
   n0 --> n17
   n0 --> n2
   n0 --> n4
@@ -76,7 +78,7 @@ graph LR
   n1 --> n12
   n1 --> n17
   n1 --> n2
-  n1 --> n21
+  n1 --> n22
   n1 --> n4
   n1 --> n8
   n10 --> n6
@@ -84,19 +86,19 @@ graph LR
   n11 --> n9
   n12 --> n1
   n12 --> n13
-  n12 --> n21
-  n12 --> n23
-  n12 --> n26
+  n12 --> n22
+  n12 --> n24
   n12 --> n27
+  n12 --> n28
   n12 --> n3
   n12 --> n4
   n12 --> n9
   n13 --> n12
-  n13 --> n22
+  n13 --> n23
   n14 --> n15
   n14 --> n17
   n14 --> n2
-  n14 --> n24
+  n14 --> n25
   n14 --> n6
   n15 --> n17
   n15 --> n2
@@ -105,6 +107,7 @@ graph LR
   n16 --> n0
   n16 --> n17
   n16 --> n2
+  n16 --> n21
   n16 --> n4
   n16 --> n6
   n17 --> n0
@@ -114,8 +117,8 @@ graph LR
   n17 --> n18
   n17 --> n19
   n17 --> n2
-  n17 --> n22
   n17 --> n23
+  n17 --> n24
   n17 --> n4
   n18 --> n15
   n18 --> n17
@@ -138,38 +141,46 @@ graph LR
   n20 --> n4
   n20 --> n6
   n20 --> n9
-  n21 --> n1
   n21 --> n12
-  n21 --> n23
+  n21 --> n15
+  n21 --> n16
+  n21 --> n17
+  n21 --> n22
+  n21 --> n24
   n21 --> n4
-  n22 --> n13
-  n22 --> n14
-  n22 --> n17
-  n22 --> n19
+  n22 --> n1
+  n22 --> n12
+  n22 --> n24
   n22 --> n4
-  n23 --> n12
-  n23 --> n15
+  n23 --> n13
+  n23 --> n14
   n23 --> n17
-  n23 --> n21
+  n23 --> n19
   n23 --> n4
   n24 --> n12
-  n24 --> n14
-  n24 --> n6
-  n25 --> n9
-  n26 --> n12
-  n26 --> n4
+  n24 --> n15
+  n24 --> n17
+  n24 --> n21
+  n24 --> n22
+  n24 --> n4
+  n25 --> n12
+  n25 --> n14
+  n25 --> n6
+  n26 --> n9
   n27 --> n12
-  n27 --> n21
-  n27 --> n3
+  n27 --> n4
+  n28 --> n12
+  n28 --> n22
+  n28 --> n3
   n3 --> n12
   n3 --> n2
-  n3 --> n27
+  n3 --> n28
   n3 --> n6
   n4 --> n12
   n4 --> n17
-  n4 --> n21
   n4 --> n22
   n4 --> n23
+  n4 --> n24
   n4 --> n9
   n5 --> n6
   n6 --> n10
@@ -177,7 +188,7 @@ graph LR
   n6 --> n15
   n6 --> n2
   n6 --> n20
-  n6 --> n24
+  n6 --> n25
   n6 --> n3
   n6 --> n5
   n6 --> n9
@@ -186,11 +197,11 @@ graph LR
   n7 --> n4
   n8 --> n1
   n8 --> n12
-  n8 --> n23
+  n8 --> n24
   n8 --> n4
   n9 --> n12
   n9 --> n15
-  n9 --> n25
+  n9 --> n26
   n9 --> n3
   n9 --> n4
 ```

@@ -92,6 +92,10 @@ this video extends that same trip-length window out to 4 days.
 
 ## Related
 
+- [Searcher four-outfit Guadalupe quiver](searcher-four-outfit-guadalupe-quiver.md) —
+  a differently-sourced (Penn Fathom/Talica) four-outfit quiver from the same
+  channel, framed around a Guadalupe Island trip rather than this note's
+  1.5- to 4-day trip window.
 - [Gear classes — rail-rod class](gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
 - [Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md)
 - [Searcher big/giant tuna rig ladder](searcher-big-tuna-rig-ladder.md)
@@ -109,6 +113,7 @@ this video extends that same trip-length window out to 4 days.
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 <!-- backlinks:end -->

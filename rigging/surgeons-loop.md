@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [surgeons-loop, surgeons-knot, loop-knot, double-line, giant-yellowtail, long-range, dropper-loop, paternoster]
-sources: [2O4Z0S78KLg, CdjT_I_PBHQ, eLPTMO3-_1Q]
+sources: [2O4Z0S78KLg, CdjT_I_PBHQ, eLPTMO3-_1Q, zuAuk-Kfa1Y]
 confidence: medium
 regions: [baja-pacific-north, baja-pacific-south]
 waters: [bank, island, open-ocean]
@@ -181,6 +181,24 @@ into the Baja Peninsula framing those later segments give.
   the reel in gear — consistent with the "not a finesse technique... reel
   left in gear" framing in the later segments above.
 
+## Corroborating outfit citation — bottom dropper loop, Guadalupe Island (Captain Arch, SearcherSportfishing)
+
+**Captain Arch, SearcherSportfishing, "Tackle Tip Thursday Vol. 158 (Essential
+Outfits)," `zuAuk-Kfa1Y`, 2021-10-07; `searcher-sportfishing` registered
+channel — medium confidence, mechanism/parameters.** Presented as one of
+three applications for an 80–100 lb-class Guadalupe Island outfit (Talica 25,
+80 or 100 lb test), rather than as its own dedicated dropper-loop segment —
+full outfit in [Searcher four-outfit Guadalupe
+quiver](../tackle/searcher-four-outfit-guadalupe-quiver.md#outfit-4--talica-25-80100-lb-test--guadalupe-island-three-application-outfit).
+Fishing the bottom for yellowtail with a **16-ounce sinker**, a **6/0 or 7/0
+hook**, and a **nose-hooked sardine** — matching, almost parameter-for-
+parameter, this note's own **16 oz** sinker minimum and **6/0–9/0**-range hook
+already logged above from `CdjT_I_PBHQ`, for the same Guadalupe/Baja-Peninsula
+giant-yellowtail application. No loop-tying detail is given on camera in this
+citation (it names the sinker/hook/bait only), so nothing is added to the
+loop-build parameters above — this is corroboration of the sinker and hook
+figures, not an independent build.
+
 ## Tie it
 
 How-to videos: [Tackle Tip Thursday Vol 232 — Surgeon's Loop](https://www.youtube.com/watch?v=2O4Z0S78KLg);
@@ -196,5 +214,6 @@ jam knot hook attachment).
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

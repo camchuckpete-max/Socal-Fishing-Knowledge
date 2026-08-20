@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, yellowfin, bait-fishing, flyline, line-class, hook-size, penn, searcher, rod-rating]
-sources: [k4U3ETqmlEc]
+sources: [k4U3ETqmlEc, zuAuk-Kfa1Y]
 confidence: medium
 ---
 
@@ -59,8 +59,26 @@ is bigger fish: tuna running **75, 100, 125, maybe even 150 lb** — Carson's
 stated close: "this is your workhorse outfit when those bigger tuna [are]
 around the boat."
 
+**Corroborating resolution of the "fourteen arrow" reel caption (Captain Arch,
+SearcherSportfishing, "Tackle Tip Thursday Vol. 158 (Essential Outfits),"
+`zuAuk-Kfa1Y`, 2021-10-07; `searcher-sportfishing` registered channel —
+product/model pick, low confidence):** a separate Tackle Tip Thursday episode
+cleanly captions a **Penn Fathom 40** two-speed reel (no ASR garbling this
+time) as one of a four-outfit rental quiver's larger-tuna fly-lining rig,
+spooled with 40 lb test rather than this note's 80 lb — a lighter step on the
+same reel family, not a duplicate of this specific outfit. It is nonetheless a
+further, independent data point supporting the plausible **Penn Fathom 40
+Narrow** reading proposed above from this note's own garbled "fourteen arrow"
+caption, since it confirms "Fathom 40" is a real, in-use reel name on this
+channel rather than an artifact of the ASR error alone. Full outfit in
+[Searcher four-outfit Guadalupe
+quiver](searcher-four-outfit-guadalupe-quiver.md#outfit-2--penn-fathom-40-or-30-two-speed-40-lb-test--larger-tuna-fly-lining).
+
 ## Related
 
+- [Searcher four-outfit Guadalupe quiver](searcher-four-outfit-guadalupe-quiver.md) —
+  the same channel's later four-outfit rental-package quiver, whose Outfit 2
+  corroborates this note's ASR-uncertain reel reading (above).
 - [Searcher big-tuna rig ladder — Rig 1 (heavy outfit, 80
   lb)](searcher-big-tuna-rig-ladder.md#rig-1--heavy-outfit-80-lb) — the
   same speaker's later (2022-04-21), more heavily detailed citation of what
@@ -81,5 +99,6 @@ around the boat."
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

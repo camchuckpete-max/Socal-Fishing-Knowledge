@@ -464,6 +464,7 @@ grade, or technique detail given for the dorado specifically.
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [October](../seasonal/october.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [September](../seasonal/september.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Trolling](../techniques/trolling.md)
