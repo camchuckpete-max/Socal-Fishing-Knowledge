@@ -2396,7 +2396,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 6dTz1640Y5c | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md (new); tackle/rod-and-reel-selection.md / new note: hand-bend rod testing misreads action (artificial pivot, tip unreachable) |
 | 6gwvP8_pjWc | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass wake-bait tutorial (Deps Buzzjet), correctly out of scope; no notes created; fixed stale extraction-log pending row |
 | 6qz6aQ9PusA | Tackle Express | tutorial | parameter-skim | done | none / 35-second personal-banter clip about booking a trip, zero fishing knowledge content, correctly skipped |
-| 6sfaYq9wMvQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6sfaYq9wMvQ | Tackle Express | tutorial | parameter-skim | done | none / 7-second clip, no fishing content in ASR caption, hashtags indicate freshwater bass/swimbait (out of scope) |
 | 75lUj-uaArQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | 7AOtPUGwKDI | Tackle Express | tutorial | parameter-skim | pending |  |
 | 7L7OVoXE7KU | Tackle Express | tutorial | parameter-skim | pending |  |
