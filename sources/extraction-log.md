@@ -2413,7 +2413,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | done | species/calico-bass.md; techniques/swimbaits.md / Beach bounce in ripping current stupid tube technique variant, unregistered channel medium confidence |
 | 9ekSBpLG0GA | Tackle Express | tutorial | parameter-skim | done | none / 12-second clip, no extractable fishing content, correctly skipped |
 | 9hXW9JCffsU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-and-reel-selection.md; tackle/tackle-express-bates-edc-100-reel.md / new low-confidence product spec note for Bates EDC 100 DAB baitcaster, linked from inshore combo section |
-| 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md; tackle/hooks.md / Cedros yellowtail size data point (19-33lb) and Owner ST-66 hook upgrade citation merged into existing notes |
 | 9qwsg-e9ECA | Tackle Express | tutorial | parameter-skim | pending |  |
 | A-D5MYB98yo | Tackle Express | tutorial | parameter-skim | pending |  |
 | A6-KPjRwGSQ | Tackle Express | tutorial | parameter-skim | pending |  |

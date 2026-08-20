@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc]
 confidence: medium
 ---
 
@@ -732,6 +732,21 @@ yellowtail/offshore fishing — plain **2/0 sufficient up to 30 lb fish**, and
 **size 1** for small **3–4 in sardines or anchovies**. A **3/0** is also
 carried as the step-up, reached for only when targeting **40+ lb fish**.
 
+### Owner ST-66 — Cedros yellowtail bait-hook upgrade for volume, not finesse (Tackle Express, `9kGpcEHqIUc`, "Reeling in 30lb Yellowtail: The Cedros Secret Weapon," upload 2026-05-06; unregistered channel — medium confidence; region: Baja Pacific, Cedros Island)
+
+Fishing a bait heard on camera as **"triple trout"** at Cedros Island (not
+confidently resolved to an exact product name — asr-uncertain; see
+[Cedros Island](../locations/cedros-island.md) for the bait doctrine), the
+angler swapped its stock hooks for **Owner ST-66's**. Stated reason: with the
+bite running steady enough to be "catching more than enough yellowtail" on
+it, he'd rather carry the stronger hook "just to be safe... that way nothing
+weird like that happens" than risk one failing under the volume. A second,
+independent data point for the **Owner ST-66** model — logged below (see
+Baja, Sea of Cortez sizing) only as a heavier-wire jerkbait-replacement hook
+for Sea of Cortez cabrilla — now for a different bait class, species
+(yellowtail), and Baja sub-region (Pacific side, `baja-pacific-north`, not
+Cortez).
+
 ### Baja, Sea of Cortez sizing
 
 From a November 2022 Tony Reyes panga trip (Ray Sharifi, Dirty Hookers,
@@ -855,6 +870,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)
 - [Drag Setting — General Judgment](drag-setting.md)

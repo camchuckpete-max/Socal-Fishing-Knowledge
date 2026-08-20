@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -133,6 +133,17 @@ asr-uncertain, not confidently resolved to a bite-quality description or a
 mishearing, kept as heard and not connected to this note's separate
 soft-take doctrine below.
 
+**Observed** (Tackle Express, upload 2026-05-06, Cedros Island —
+`9kGpcEHqIUc`, "Reeling in 30lb Yellowtail: The Cedros Secret Weapon";
+unregistered channel — medium confidence; no date is stated on camera, so the
+upload date is used, not confirmed as the filming date): a different,
+lighter-grade Cedros trip than the 30–45 lb 2024 trip documented above —
+yellowtail described as **19 to 33 lb**, "pounders full," the group's
+biggest weighed at **33 lb** and one angler's personal biggest at **29 lb** —
+*"nothing outrageously big, but big enough to still make you think like what
+am I hooked into."* Kept side by side as a separate, lighter grade data point
+for the same island rather than merged into the 30–45 lb figure above.
+
 **Forage seen on the grounds:** **micro red crab** in the water on the trip
 filmed, plus bait metered on the bottom in **183 ft**. An operator running its
 own **bait barge and bait boat** (going out the day before to make bait)
@@ -167,6 +178,18 @@ than iron.
   a **flat** profile — *"try a flat, flat might work."* Jig-shape selection
   logic (flat vs concave, hips, nose shape) is in
   [iron jigs](../lures/iron-jigs.md#reading-a-jig--how-to-pick-one-that-swims).
+- **A bait good enough for a limit at Cedros, not reliable "at home"**
+  (Tackle Express, `9kGpcEHqIUc`, upload 2026-05-06; unregistered channel —
+  medium confidence): a bait heard on camera as **"triple trout"** — not
+  confidently resolved to an exact product name, asr-uncertain — is credited
+  with a full-day **limit of yellowtail**, called *"epic,"* where the same
+  bait "you don't always get to catch fish on... at home" (read as SoCal).
+  With the bite on it running steady, the angler swapped its stock hooks for
+  **Owner ST-66's**, reasoning that catching "more than enough yellowtail" on
+  it made the stronger hook worth it "just to be safe... that way nothing
+  weird like that happens" — see [hooks](../tackle/hooks.md) for the full
+  citation and a second, independent Cedros/Baja-Pacific data point on the
+  same hook model.
 
 ## Doctrine & conflicts
 
@@ -215,6 +238,7 @@ than iron.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->
