@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg]
 confidence: medium
 ---
 
@@ -195,6 +195,21 @@ in:
   a jig swimming a flat, unbroken line doesn't get bit as well as one that
   gives that kick. See [iron jigs](../lures/iron-jigs.md) for the class specs
   this corroborates and the hook-style detail.
+
+**Second Kearn/Searcher data point, calico-specific (same voice, different
+episode — "Tackle Tip Thursday Vol. 170 (Calico Bass Fishing)," `r9bF3VtzDUg`,
+2022-02-24; `searcher-sportfishing` registered channel):** for
+[calico bass](../species/calico-bass.md) worked down the beach on a long-range
+trip, Kearn again names **star-drag reel + long rod** as the surface-iron
+standard, this time because the calico-grade irons are lighter jigs than
+yellowtail/bluefin iron: *"these are lightweight jigs so you've got to use a
+star drag reel and a long rod, maybe eight, nine, ten foot, like that."* This
+is a second, corroborating mention from the same registered voice — but it is
+not a clean repeat: Vol. 132 states the rod floor as **"no less than 9 ft,"**
+while this clip includes **8 ft** as an option. Kept side by side rather than
+merged; the two together still support "long rod, star drag" as the
+standard — **medium confidence**, since the rod-length floor itself isn't
+identical between the two mentions.
 
 ## Surface-iron outfits — traditional star drag vs. baitcast level-wind (Steve Carson, SearcherSportfishing)
 

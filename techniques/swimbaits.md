@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -94,6 +94,16 @@ called out on camera as running clean through "the thick of the heel
 [kelp] grass" with no fouling at all — matching the Gamakatsu/Trokar
 3/8 oz keel-weighted-hook spec above. Unregistered channel — medium
 confidence.
+
+**Long-range-trip build, a heavier alternate (Doug Kearn, SearcherSportfishing,
+"Tackle Tip Thursday Vol. 170," `r9bF3VtzDUg`, 2022-02-24; `searcher-sportfishing`
+registered channel, single mention — medium confidence):** for calico worked
+from a long-range boat down the beach, a **7 ft 6 in to 8 ft 6 in rod** with a
+**level-wind (conventional) reel**, spooled with **spectra or monofilament**,
+throwing a **3/4 oz to 1½ oz leadhead** with a 4–8 in plastic — a heavier
+weight ceiling than the 3/8–3/4 oz keel-weighted range documented above; kept
+side by side, not reconciled, since the source gives no reason for the extra
+weight (likely just casting distance off a bigger boat, not stated on camera).
 
 ## Line, leader, and reel speed (Capt. Benny Florentino)
 

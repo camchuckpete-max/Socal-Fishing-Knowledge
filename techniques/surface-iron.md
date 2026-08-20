@@ -416,6 +416,11 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
   selection](../tackle/rod-and-reel-selection.md)).
 - **Iron:** [surface-iron class](../lures/iron-jigs.md); carry a spread of
   profiles/kicks (wide-slow through fast-tight) so you can match the bite.
+- **Calico-specific lightweight-iron build, a second Kearn/Searcher data
+  point:** star-drag reel + long rod, corroborating the same voice's Vol. 132
+  tip with a calico-specific instance and a minor rod-length nuance — see
+  [surface-iron rod and reel — Fisherman's Landing counter
+  tip](../tackle/rod-and-reel-selection.md#surface-iron-rod-and-reel--fishermans-landing-counter-tip-doug-kearn-searchersportfishing).
 - **A longer-top-shot alternate build, kept side by side (Ray Sharifi, Dirty
   Hookers, A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a **10 ft rod rated 30–60 lb** (a Phoenix Axis 1009 HJ
   example), paired with a Daiwa Saltist or Daiwa Saltiga reel, spooled the

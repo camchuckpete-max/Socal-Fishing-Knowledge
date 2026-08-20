@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s, 7T6dIYqr3KI]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s, 7T6dIYqr3KI, r9bF3VtzDUg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -374,6 +374,14 @@ you read the *current across the kelp*, not the tide clock.
   that edge (ASR-uncertain past that point). Consistent with, not a new data
   point beyond, the up-current/leading-edge doctrine documented above.
   Unregistered channel — medium confidence.
+- **Visual surface sign, long-range trip context (Doug Kearn, SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 170," `r9bF3VtzDUg`, 2022-02-24; `searcher-sportfishing`
+  registered channel, single mention — medium confidence):** watch for calicos
+  **flipping at the surface** as they chase bait up, often under a knot of birds
+  hovering over the same spot ([bird reading](../conditions/bird-reading.md)) —
+  cast onto that activity. Cast the jig as far from the boat as you can, but on
+  a long-range beach stop the fish are usually **within 30–40 yards of the
+  boat**, not far out.
 
 ## Situations → techniques
 
