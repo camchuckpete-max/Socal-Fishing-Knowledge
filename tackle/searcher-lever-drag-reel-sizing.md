@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, two-speed, lever-drag, penn-fathom, reel-sizing, searcher, loaner-gear, rail-rod, dropper-loop]
-sources: [ddataaVWoDc]
+sources: [ddataaVWoDc, gqEjWrPpa48]
 confidence: low
 ---
 
@@ -51,6 +51,26 @@ loaner-gear picks at two points on the size ladder:
     application (general "bigger fish" trolling/rail use plus bottom
     dropper-loop yellowtail here, vs. flat-fall bluefin there); kept side by
     side as two data points on the same reel, not merged into one claim.
+  - **Earlier data point, same channel, same reel, place named explicitly**
+    (SearcherSportfishing, "Tackle Tip Thursday Vol. 66 (Heavy 2-Speed),"
+    `gqEjWrPpa48`, uploaded 2019-09-19 — about three months before this
+    Vol. 78 entry): a short clip recommending "one of these two-speed heavy
+    outfits" — a **Penn Fathom 60** — for anglers "headed out on an ultra
+    limited load trip this fall" (fall 2019, per the upload date) aboard the
+    Searcher, cited for "great line capacity" and the "capability of landing
+    one of those nice big tuna at **Guadalupe** the island." No line,
+    leader, or rod-pairing detail is given in this clip; the segment closes
+    on a Penn Fathom 60 giveaway on a "seeker trip" (captions render it
+    lowercase and unpunctuated; almost certainly the same boat named "the
+    searcher" seconds earlier in this same clip, not a separate named trip
+    or vessel — read as "Searcher trip," flagged `asr-uncertain`), which is
+    promotional and not extracted as fishery knowledge. **Possible resolution
+    of this note's own `asr-uncertain` "the loop the island" caption above:** this closely
+    related, earlier clip from the same channel names **Guadalupe Island**
+    explicitly for the same reel and the same "bigger fish" application —
+    plausibly the same place the Vol. 78 caption garbled, but this is a
+    different transcript's own audio and not direct confirmation of it, so
+    the Vol. 78 caption stays unresolved rather than silently overwritten.
 - **Durability, both sizes:** cited as "durable" and used hard as **loaner
   gear** aboard the Searcher, "put to the test" by heavy use and weather
   exposure over the course of a season. Captions render the line "being
