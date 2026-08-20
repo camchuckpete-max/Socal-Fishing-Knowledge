@@ -26,7 +26,10 @@ application. Rod/reel matching lives in
 
 Mono suspends and fluoro sinks because they are different chemical compounds, not
 the same line in different colors (mono-vs-fluoro breakdown, GoVI7CtN6L8). Braid
-and mono are both fairly visible; fluoro is the invisible one.
+and mono are both fairly visible; fluoro is the invisible one. A single
+retailer's product-specific counterpoint on mono color/visibility — a
+promotional claim, not independent testing — is logged in
+[Izorline XXX — spool sizes, colors](tackle-express-izorline-xxx-mono.md).
 
 ## When braid — and how heavy
 
@@ -575,6 +578,7 @@ able to break off** (aXF0bxAFtU0):
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
+- [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](../rigging/john-collins-knot.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
