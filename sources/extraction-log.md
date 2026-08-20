@@ -2193,7 +2193,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | o6Sawz5S7bk | SearcherSportfishing | tutorial | deep | done | rigging/crimping.md; rigging/haywire-twist.md / Wahoo leader tackle tip (275 lb steel wire, crimped, ~3 ft/39 in unreconciled) added as a wire-crimp-mechanic parameter to crimping.md and a full crimped-build entry to haywire-twist.md; fixed one dead cross-link anchor |
 | otnnAon3F9Q | SearcherSportfishing | tutorial | deep | done | none / skipped: promotional/logistics content only (fish-cleaning reservation line), zero fishing knowledge despite Tackle Tip title |
 | ouoyP7t2Nus | SearcherSportfishing | tutorial | deep | done | none / generic non-tackle packing-list video correctly skipped by extractor; evaluator filled in the missing extraction-log row |
-| p9xeMl-r_CY | SearcherSportfishing | tutorial | deep | pending |  |
+| p9xeMl-r_CY | SearcherSportfishing | tutorial | deep | done | none / correctly skipped promotional shop-tour video (Fisherman's Processing new location); evaluator filled in the missing extraction-log row |
 | pB10vaDaETM | SearcherSportfishing | tutorial | deep | pending |  |
 | pCd6QykcZ0w | SearcherSportfishing | tutorial | deep | pending |  |
 | pQ9kGqgsX8I | SearcherSportfishing | tutorial | deep | pending |  |
