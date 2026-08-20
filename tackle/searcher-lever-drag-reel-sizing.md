@@ -97,4 +97,5 @@ loaner-gear picks at two points on the size ladder:
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

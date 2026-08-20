@@ -28,6 +28,7 @@
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
+- [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 <!-- index:end -->
 
 
@@ -60,6 +61,7 @@ graph LR
   n21["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
   n22["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
   n23["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n24["Star Drag vs. Lever Drag — Reel Class Comparison"]
   n0 --> n16
   n0 --> n2
   n0 --> n3
@@ -79,6 +81,7 @@ graph LR
   n11 --> n2
   n11 --> n21
   n11 --> n23
+  n11 --> n24
   n11 --> n3
   n11 --> n8
   n12 --> n11
@@ -138,6 +141,8 @@ graph LR
   n22 --> n8
   n23 --> n11
   n23 --> n3
+  n24 --> n11
+  n24 --> n19
   n3 --> n11
   n3 --> n16
   n3 --> n19

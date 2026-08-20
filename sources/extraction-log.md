@@ -2213,7 +2213,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | sjlL5GidM58 | SearcherSportfishing | tutorial | deep | done | techniques/surface-iron.md: added Billy/Fisherman's Landing fiberglass-vs-composite jig-stick doctrine (medium, single mention, registered channel) to Gear-class detail |
 | t8GP_-DMlSU | SearcherSportfishing | tutorial | deep | done | tackle/lightweight-reel-pick-turners-outdoorsman.md; tackle/bluefin-retail-setup-high-end-vs-budget.md: new low-confidence tackle note (Lori Sack/Turner's Outdoorsman reel pick) cross-linked with sibling note; promo trip announcement skipped |
 | tRlv1azFPlM | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: Owner Aki-hook-vs-J-hook stock-up tip merged into existing Owner-hooks cluster, low confidence (sponsored-claim caveat), garbled model/size hedged as asr-uncertain |
-| tYebwLzTyf8 | SearcherSportfishing | tutorial | deep | pending |  |
+| tYebwLzTyf8 | SearcherSportfishing | tutorial | deep | done | tackle/star-drag-vs-lever-drag.md; tackle/rod-and-reel-selection.md: new lexicon note on star-drag vs lever-drag mechanism, linked from rod-and-reel-selection.md intro; fixed a fabricated/spliced quote during eval |
 | tio1oeibVlM | SearcherSportfishing | tutorial | deep | pending |  |
 | tjBeR9tWd4s | SearcherSportfishing | tutorial | deep | pending |  |
 | tnHltcDdVtU | SearcherSportfishing | tutorial | deep | pending |  |

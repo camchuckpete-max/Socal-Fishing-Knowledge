@@ -17,7 +17,10 @@ live in [gear classes](gear-classes.md); a full worked quiver is
 rod↔lure decision, use the **4-factor framework** in
 [trolling](../techniques/trolling.md). Application sets the class, but the
 angler's own reach and build can move the pick within that class — see
-[rod length for angler size](rod-length-for-angler-size.md).
+[rod length for angler size](rod-length-for-angler-size.md). For the general
+star-drag-vs-lever-drag mechanism this note's application-specific sections
+below repeatedly draw on, see [star drag vs. lever
+drag](star-drag-vs-lever-drag.md).
 
 ## How the pieces map — application to rod power to reel
 
@@ -953,6 +956,7 @@ a bluefin).
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)

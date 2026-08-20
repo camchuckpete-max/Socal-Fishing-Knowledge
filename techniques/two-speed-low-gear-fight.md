@@ -151,4 +151,5 @@ soon as that fish is landed.
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->
