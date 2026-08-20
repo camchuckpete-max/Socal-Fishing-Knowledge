@@ -28,6 +28,7 @@
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md) — Captain Arch, SearcherSportfishing (zuAuk-Kfa1Y, "Tackle Tip Thursday Vol.
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md) — Steve Carson, aboard the Searcher (sjOJiR6_HJ4, "Tackle Tip Thursday Vol.
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md) — SearcherSportfishing, "Tackle Talk Live with Team Searcher" (lf3S28nh-kk, uploaded 2021-03-26 — a 55-minute live session).
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md) — Steve Carson, dockside in San Diego alongside the Searcher (yGXSrUauo2w, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
@@ -65,11 +66,12 @@ graph LR
   n21["Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)"]
   n22["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
   n23["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
-  n24["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n25["Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)"]
-  n26["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n27["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
-  n28["Star Drag vs. Lever Drag — Reel Class Comparison"]
+  n24["Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)"]
+  n25["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
+  n26["Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)"]
+  n27["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n28["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n29["Star Drag vs. Lever Drag — Reel Class Comparison"]
   n0 --> n17
   n0 --> n2
   n0 --> n4
@@ -87,9 +89,9 @@ graph LR
   n12 --> n1
   n12 --> n13
   n12 --> n22
-  n12 --> n24
-  n12 --> n27
+  n12 --> n25
   n12 --> n28
+  n12 --> n29
   n12 --> n3
   n12 --> n4
   n12 --> n9
@@ -98,7 +100,7 @@ graph LR
   n14 --> n15
   n14 --> n17
   n14 --> n2
-  n14 --> n25
+  n14 --> n26
   n14 --> n6
   n15 --> n17
   n15 --> n2
@@ -118,7 +120,7 @@ graph LR
   n17 --> n19
   n17 --> n2
   n17 --> n23
-  n17 --> n24
+  n17 --> n25
   n17 --> n4
   n18 --> n15
   n18 --> n17
@@ -148,40 +150,45 @@ graph LR
   n21 --> n17
   n21 --> n22
   n21 --> n24
+  n21 --> n25
   n21 --> n4
   n22 --> n1
   n22 --> n12
-  n22 --> n24
+  n22 --> n25
   n22 --> n4
   n23 --> n13
   n23 --> n14
   n23 --> n17
   n23 --> n19
   n23 --> n4
-  n24 --> n12
-  n24 --> n15
-  n24 --> n17
   n24 --> n21
-  n24 --> n22
-  n24 --> n4
+  n24 --> n23
+  n24 --> n25
   n25 --> n12
-  n25 --> n14
-  n25 --> n6
-  n26 --> n9
-  n27 --> n12
-  n27 --> n4
+  n25 --> n15
+  n25 --> n17
+  n25 --> n21
+  n25 --> n22
+  n25 --> n24
+  n25 --> n4
+  n26 --> n12
+  n26 --> n14
+  n26 --> n6
+  n27 --> n9
   n28 --> n12
-  n28 --> n22
-  n28 --> n3
+  n28 --> n4
+  n29 --> n12
+  n29 --> n22
+  n29 --> n3
   n3 --> n12
   n3 --> n2
-  n3 --> n28
+  n3 --> n29
   n3 --> n6
   n4 --> n12
   n4 --> n17
   n4 --> n22
   n4 --> n23
-  n4 --> n24
+  n4 --> n25
   n4 --> n9
   n5 --> n6
   n6 --> n10
@@ -189,7 +196,7 @@ graph LR
   n6 --> n15
   n6 --> n2
   n6 --> n20
-  n6 --> n25
+  n6 --> n26
   n6 --> n3
   n6 --> n5
   n6 --> n9
@@ -198,11 +205,11 @@ graph LR
   n7 --> n4
   n8 --> n1
   n8 --> n12
-  n8 --> n24
+  n8 --> n25
   n8 --> n4
   n9 --> n12
   n9 --> n15
-  n9 --> n26
+  n9 --> n27
   n9 --> n3
   n9 --> n4
 ```

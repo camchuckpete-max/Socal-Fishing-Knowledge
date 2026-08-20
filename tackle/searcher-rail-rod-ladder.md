@@ -188,5 +188,6 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md#light-rig--standard-daytime-d
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

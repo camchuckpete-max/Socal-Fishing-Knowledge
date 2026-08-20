@@ -588,6 +588,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Surface Iron — Colour](surface-iron-color.md)

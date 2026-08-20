@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk]
 confidence: high
 ---
 
@@ -256,6 +256,25 @@ worth working. A further break-reading demo of the same
 temperature-differential-over-absolute-number doctrine in
 [water temperature](../conditions/water-temperature.md), on the same
 Simrad chartplotter product line as the Mission Bay demo above.
+
+## Manually tracking a temperature break when satellite SST isn't available (SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+A fallback/supplement to the chartplotter SST overlays above, for running at
+night or on a cloudy day when a usable satellite SST map isn't available:
+
+- **Download an SST map before leaving the dock, and pull a fresh one
+  during the trip when conditions allow** — the same downloaded-map
+  practice as the chartplotter overlays above, stated here as
+  condition-dependent (a cloudy day can leave no usable map to download).
+- **Tuna are associated with temperature breaks/changes** — the stated
+  reason SST/temperature reading matters at all, consistent with this
+  section's existing break-not-absolute-number doctrine.
+- **While running at night, watch the boat's water-temperature gauge
+  directly and note when it changes**, rather than relying only on a
+  downloaded map. Framed as a way to find a break that either wasn't on the
+  satellite SST map, or that a cloudy day left no map to download in the
+  first place — a manual, visual backstop to the chartplotter-overlay method
+  above rather than a replacement for it.
 
 ## Buoy overlay for wave height/period, plus AIS and structure-scan chatter
 

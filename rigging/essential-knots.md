@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4, zkA1jqHXXD0]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4, zkA1jqHXXD0, lf3S28nh-kk]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -192,6 +192,22 @@ fluoro leader, braid main line — and feed the terminal rigs in
     wet the knot, cinch it down quickly, cut the tag ends close, and it's
     ready to fish — the tip is framed entirely around retie speed after a
     break-off, with no bait/species/line-class specifics stated.
+  - **A leader-length rule tied to the knot's own bulk, a parameter not given
+    in the other entries in this group (SearcherSportfishing, "Tackle Talk
+    Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing`
+    registered channel, single mention of this specific reasoning — medium
+    confidence):** ties the same 3-turn mono-to-fluorocarbon surgeon's knot
+    (overlap the lines, form a circle, pass both tag ends through it three
+    times, cinch wet, trim tags to about 1/4 in), then gives a stated reason
+    to keep the finished leader short: about **2.5–3 ft**, a little longer on
+    a longer rod. The bulky, tag-heavy knot shouldn't have to pass through
+    the rod's **top guide** on the cast — the tip guide runs smaller than the
+    rest of the guide train, so too long a leader forces the knot through it
+    every cast. A longer leader also buffers against needing a full
+    fluorocarbon re-tie every time the line near the hook gets chafed. Full
+    session context (outfits, Colt Sniper leader spec, and the companion
+    San Diego jam citation) is in [Searcher spring bluefin/yellowtail
+    quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#knots-used-this-session).
   - **A fourth, same-channel entry, closest in mechanic to the two earliest
     clips above (SearcherSportfishing, Tackle Tip Thursday Vol. 133,
     presenter Ryan, `UfuQr6gOIk8`, 2021-01-07; unregistered channel/speaker —
@@ -497,6 +513,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)

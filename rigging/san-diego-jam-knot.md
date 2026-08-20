@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [san-diego-jam, double-jam-knot, terminal-knot, hook-knot, lure-knot]
-sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc]
+sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -122,6 +122,28 @@ naming split tracked in that note, not this one.
   logged in [Improved Clinch Knot](improved-clinch-knot.md) — read as
   strengthening that naming, not the doubled-through-the-eye mechanic this
   note opens with.
+- **An earlier-dated same-channel demo, 6–7 wraps, framed as the go-to knot
+  for "just about every application" (SearcherSportfishing, "Tackle Talk
+  Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing`
+  registered channel, single mention — medium confidence):** predates the
+  `YeV--HarEYQ` entry below by about seven months, now the earliest-dated
+  Searcher-channel citation of this wrap count found in this KB. Not
+  individually attributed to a named presenter on camera in this
+  transcript, though Captain Armando — the same presenter named in the
+  `YeV--HarEYQ` entry below — is one of two guest captains on this session,
+  so this is plausibly, but not confirmed as, the same voice. Paraphrased
+  mechanic: through the eye and back to form a loop held with the fingers,
+  wrap the tag around both lines **six or seven times** while keeping
+  tension throughout, pass back through the loop nearest the hook and then
+  the finger loop, add a tension ring if available, pull tight, and leave
+  a small tag in case the knot needs to cinch further under load. Called
+  "probably the strongest knot
+  out there" and recommended for **every** lure/hook connection in this
+  session — yo-yo iron, surface iron, Colt Sniper, and flat-fall/knife jig
+  alike, plus larger hooks generally — the same single-pass mechanic and
+  6–7-wrap range as the entry below, not a new number. Full session context
+  in [Searcher spring bluefin/yellowtail
+  quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#knots-used-this-session).
 - **Single-pass tie demonstrated by Captain Armando, framed as a
   beginner-friendly on-board knot, wrapped 7 times (SearcherSportfishing,
   "Tackle Tip Thursday Vol. 159 (San Diego Jam Knot)," `YeV--HarEYQ`,
@@ -248,6 +270,7 @@ Captain Armando, 2021-10-21).
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)

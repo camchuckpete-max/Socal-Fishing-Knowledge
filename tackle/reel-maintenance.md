@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk]
 confidence: medium
 ---
 
@@ -176,6 +176,40 @@ discipline, argued from cost rather than just care —
   to freshen all seven reels.
 - **Takeaway:** at that price, skipping a pre-trip top-shot refresh is false
   economy — "don't avoid spending the smart money."
+
+## Multi-day-trip top-shot service, and judging hooks by eye rather than a schedule (SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel, single mention — medium confidence)
+
+Distinct from the pre-trip top-shot economics above (Bob Bauer) and the
+look/feel diagnostic below: this is a **mid-trip** crew service offered
+aboard a multi-day *Searcher* trip, plus a companion judgment call on when
+to re-hook.
+
+- **Overnight top-shot service, priced:** on a multi-day trip, crew will
+  collect rods at the end of a good fishing day (announced on the PA) and
+  re-do mono top shots overnight for anglers who caught fish and wore the
+  line down — stated at **about $5 per top shot**, framed as cheap insurance
+  for fresh line every morning. Consistent with, and a mid-trip complement
+  to, the pre-trip top-shot economics already logged above (Bob Bauer,
+  `0n4mJ3sfIqk`).
+- **If changing the top shot, change the fluorocarbon leader with it** —
+  fluorocarbon holds up longer than mono, but a leader that's been
+  shortened by repeated re-tying (down from a starting ~3 ft) should be
+  replaced rather than nursed along.
+- **Judge hooks by eye, not by a fixed schedule.** Whether to swap a hook is
+  framed as "kind of a visual thing" — check whether it's still holding its
+  shape, whether the point is starting to straighten, or whether the barb
+  is wearing down from repeated pliers work, rather than swapping on a fixed
+  number of fish or days. A hook that's still visually sound is fished as
+  is, including a hook that's picked up light surface rust.
+- **Re-tie on a felt nick, even if the hook still looks fine.** If the mono
+  or fluorocarbon shows bite/teeth marks or a felt nick, cut back a few
+  inches of line and re-tie the same hook rather than waiting for a
+  scheduled change.
+- **Line stored since last season should be replaced outright** — even for
+  anglers who fish only three or four trips a year, line that's sat in
+  storage (heat, unknown storage conditions) since the prior season is
+  treated as due for replacement before the next trip, not judged by a
+  visual check alone.
 
 ## Diagnosing when it's time to change: mono top-shot look/feel, and a spectra fray check (Vance, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol. 184 (Top-notch Top Shot)," `kuvfoJKpLYU`, 2022-06-02; registered channel (`searcher-sportfishing`), single mention of this specific test — medium confidence)
 

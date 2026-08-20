@@ -141,6 +141,11 @@ outfits below.
   a differently-sourced (Accurate/Seeker) minimum-quiver framing on the same
   channel, three outfits for a 1.5–4 day trip rather than this video's four
   for a Guadalupe Island trip.
+- [Searcher spring bluefin/yellowtail quiver — 2.5- and 3-day
+  trips](searcher-spring-bluefin-yellowtail-quiver.md) — a third,
+  differently-sourced (Accurate Valiant/Boss, Seeker) four-outfit-plus-kite
+  set from the same channel, framed around a spring bluefin/yellowtail trip
+  window rather than this video's Guadalupe Island season.
 - [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md) and
   [Searcher 50/60/80 lb flyline outfit](searcher-50-60-80lb-flyline-outfit.md) —
   the same channel's other single-outfit rig entries this video's Outfit 2
@@ -166,5 +171,6 @@ outfits below.
 
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](searcher-spring-bluefin-yellowtail-quiver.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 <!-- backlinks:end -->

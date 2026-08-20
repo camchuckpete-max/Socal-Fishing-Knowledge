@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift, sunglasses]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg, YJX-hYEIcNM, nnrEjc-Gq2o]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg, YJX-hYEIcNM, nnrEjc-Gq2o, lf3S28nh-kk]
 confidence: high
 ---
 
@@ -78,6 +78,24 @@ Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol. 115 (Signs of Fish),"
 
 Named on camera as the "three main things" this boat's captains glass for:
 birds, fish boiling, and breezers/flat spots.
+
+**A further, independent same-channel description, plus a subsurface bird
+cue (SearcherSportfishing, "Tackle Talk Live with Team Searcher,"
+`lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel —
+medium confidence, single mention):** asked how the captains find fish, two
+primary methods are named — birds/boiling fish on the surface, and, below
+the surface, side-scanning/up-down sonar. A third visual sign is described
+without using the word "breezer": a school riding very close to the surface
+looks like **"raindrops on the water"** rather than fish boiling — read as
+the same near-surface-fish sign as the breezer/flat-spot entries above,
+possibly the word "breezer" itself rendered by auto-captions as "freezer"
+(`asr-uncertain`, not confirmed either way). **A bird cue not previously
+logged in this section:** even a **single or a couple of terns** picking at
+the water — diving and looking rather than working a school hard — is
+treated as worth running to and sweeping with sonar, since fish can be
+present just under the surface without a bird pile or visible boil. See
+[bird reading](../conditions/bird-reading.md) for this KB's other tern
+doctrine.
 
 ## Sunglass lens color for glassing
 

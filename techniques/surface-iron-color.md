@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, color, jig-color, calico-bass, yellowtail, confidence]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM, 49joKHD7Umc]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM, 49joKHD7Umc, lf3S28nh-kk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -201,6 +201,20 @@ standard in [surface iron](../techniques/surface-iron.md), under its size /
 weight selection section. Kept side by side with, not merged into, the other
 single-source color reports above.
 
+**A further mint corroboration, this time from a registered channel, for
+kelp-paddy yellowtail specifically (SearcherSportfishing, "Tackle Talk Live
+with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing`
+registered channel, single mention — medium confidence):** for yellowtail
+boiling on top of a kelp paddy, a **Tady 4/0 in mint** is named as "really
+really popular and really really effective," fished on **30 or 40 lb test**
+with a **slow** retrieve; a **Tady 45**, in the same mint or in sardine
+color, is named as the other rigged backup for the same stop. A further data
+point alongside, not merged into, the Cedros/Baja and calico-bass mint
+reports already logged above — still not generalized into doctrine. Full
+session outfit context (this stop's yo-yo-iron and flyline options too) is
+in [Searcher spring bluefin/yellowtail
+quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#yellowtail-on-a-kelp-paddy-stop--three-methods-one-stop).
+
 **A fuller version of the same standard-bearer claim, eight days earlier, same
 channel (SearcherSportfishing, "Tackle Talk Live Recap (Surface Irons
 6/2/20)," `49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered
@@ -229,6 +243,7 @@ against alternatives.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)
 - [Surface Iron](surface-iron.md)
 <!-- backlinks:end -->

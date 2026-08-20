@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ, lf3S28nh-kk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -356,6 +356,24 @@ of flyer/kite gear is reserved for the biggest fish** — stated on camera as
 typically only fished once **100 lb+** bluefin are confirmed around; the crew
 hadn't yet needed to fish it that (2021) season as of this seminar.
 
+## A fourth outfit citation — Accurate twin-drag/Seeker rail rod, 130 lb braid
+
+**SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`,
+2021-03-26; `searcher-sportfishing` registered channel — medium confidence,
+single mention.** A further boat-supplied kite outfit, distinct from the
+three-ATD-50 kite program and the Shimano Tiagra 50 Wide citation already
+logged above: an **Accurate twin-drag** reel on a **big Seeker rail rod**
+(captioned "QSL 3x1" — asr-uncertain, plausibly the Seeker OSP 1x3 already
+logged in [gear classes](../tackle/gear-classes.md)), or alternates named on
+camera as **Penn International two-speeds** and **"Phantom 60s"**
+(asr-uncertain, not confirmed as rod or reel). Spooled with **130 lb
+braid**; if bringing a personal kite outfit instead of the boat's own, the
+stated minimum is **100 lb top shot on a big, heavy rail rod.** Kite
+leaders are sold aboard or can be brought pre-tied. Full session context —
+this same seminar's flat-fall, Colt Sniper, and kelp-paddy yellowtail
+outfits — is in [Searcher spring bluefin/yellowtail
+quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-supplied-or-bring-your-own).
+
 ## Common failures
 
 - **Wings set too far out** on the flyer — a swell knocks the bait off and ruins
@@ -374,6 +392,7 @@ hadn't yet needed to fish it that (2021) season as of this seminar.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Speed Trolling](speed-trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

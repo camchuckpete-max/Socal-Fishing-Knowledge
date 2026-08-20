@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g, Ud3hi9r1Nr4, h0NyGvIaDc8]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g, Ud3hi9r1Nr4, h0NyGvIaDc8, lf3S28nh-kk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -250,6 +250,40 @@ confidence over a bare top-shot connection to the lure, he'll add a short
 [bluefin bite leaders](../rigging/bite-leaders.md)) — his framing: a
 confidence add, not a requirement.
 
+## Colt Sniper hook swap — single outperforms treble (SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Casting a Colt Sniper (captioned "cold sniper" throughout this transcript,
+the same ASR corruption already tracked elsewhere in this KB) into bluefin
+actively spooling/feeding on the surface, distinct from the tough-foamer
+troubleshooting below:
+
+- **Sizes and gear:** **120 g** named as a little on the large side for
+  casting into a feeding school, with **60 g, 80 g,** and roughly **110 g**
+  named as smaller options that also work; roughly **50–60 lb mono** on an
+  **8.5–9 ft** rod, cast to the middle of the feeding fish and retrieved
+  quickly. A short, roughly **3 ft** fluorocarbon leader (matched to the
+  mono running line) is recommended — stated reason: fish sometimes grab the
+  lure up toward the front rather than only at the hook end.
+- **Bites also come on the sink, not only the retrieve** — the same
+  fall-triggered bite this KB's [flat-fall jigging](flat-fall-jigging.md)
+  doctrine documents for a straight-down drop. Two workable presentations
+  are both called "pretty effective": skip the lure across the surface, or
+  give it a **five-second sink** before starting the retrieve.
+- **Hook swap — single beats treble, a new data point for this lure class:**
+  when re-hooking a Colt Sniper, the stated practice is to replace the
+  factory treble with a **single hook** rather than another treble —
+  "seems to be a little more effective." The factory split ring is usually
+  fine to keep even with an upgraded hook; it only gets swapped too when it
+  looks undersized for the new hook. A related caution from the same
+  session: the factory treble on this lure can run thin-gauge, called out as
+  a real weak point the prior (2020) bluefin season when fish were biting
+  Colt Snipers on the sink — upgrade hook gauge specifically when fishing
+  around larger fish.
+
+Full outfit and leader-by-lure context for this same session is in
+[Searcher spring bluefin/yellowtail
+quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#casting-colt-sniper-into-spooledfeeding-bluefin).
+
 ## Getting bit on a tough foamer (Billy, Fisherman's Landing Tackle Shop, via SearcherSportfishing, "Tackle Tip Thursday Vol. 191 (Get Bluefin to Bite in a Foamer)," `AodUBhxPts8`, 2022-07-28; unregistered channel — medium confidence)
 
 The **four most popular lures** anglers were throwing at bluefin foamers as of
@@ -379,6 +413,7 @@ the column, which is when foamers are most likely to start
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](surface-iron.md)

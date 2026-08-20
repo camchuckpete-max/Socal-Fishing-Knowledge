@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -156,6 +156,28 @@ as a **"Tuna TSP," 320 g**:
   guessing one static depth and holding there is called out as a common
   mistake, especially late in a session when anglers are tired.
 
+## Tracking depth on the drop — marked/colored line, and why line-out isn't true depth (SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+Asked whether colored depth line is worth running for flat-fall fishing:
+
+- **Colored line's stated advantage:** anything that raises the odds of
+  hooking up is worth using — knowing you're fishing at a captain-called
+  depth (his example, 180 ft) beats guessing.
+- **A plain-spectra substitute:** measure line out at home in 100 ft or
+  200 ft increments and mark it with a Sharpie instead of buying colored
+  line — read the marks passing through the guides on the drop the same way
+  colored line is read.
+- **Caveat — line-out is not true depth once drifting:** the jig trails out
+  and away from a straight vertical drop as the boat moves, so reaching a
+  180 ft mark on the line does **not** mean the jig is actually 180 ft down
+  — actual depth runs shallower than the footage paid out. Read a marked or
+  colored line as a line-out count, not a depth gauge.
+
+Full outfit context for this same seminar — including the rod/reel pairing,
+the 300 g glow flat-fall example, and this session's leader guidance — is in
+[Searcher spring bluefin/yellowtail
+quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#outfit-1--flat-fall--knife-jig-rail-rod-outfit).
+
 ## Mono over fluorocarbon for the leader, and a single-hook swap size (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
 
 Asked directly whether to run heavy monofilament or heavy fluorocarbon as the
@@ -191,11 +213,13 @@ to, the 200 lb mono/large-swivel crimped leader already logged above.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->
