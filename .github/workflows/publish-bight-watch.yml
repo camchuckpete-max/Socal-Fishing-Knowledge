@@ -9,20 +9,37 @@ name: publish-bight-watch
 # Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 
 on:
+  # FRESHNESS COMES FROM THE EVENT, NOT THE CLOCK.
+  # A chunk finishing is the only moment the page has anything new to show,
+  # so rebuild then. This is not subject to schedule throttling.
+  workflow_run:
+    # main declares `batch2-ingest-chunk`; the batch-3 branch copy that
+    # actually executes declares `batch3-ingest-chunk`. workflow_run matches
+    # by name, so both are listed — naming only one silently never fires.
+    workflows: ["batch2-ingest-chunk", "batch3-ingest-chunk"]
+    types: [completed]
+
+  # Safety net only, for what the event misses: supervised commits pushed by
+  # hand, or a chunk that dies before it reports completion.
+  #
+  # Deliberately hourly. A */10 cron was tried on 2026-08-19 and made the page
+  # LESS fresh: gaps went from a reliable 54-60 min to an erratic 14-33 min,
+  # then the schedule was dropped outright for 1h43m. GitHub schedules are
+  # best-effort and the greediest are dropped first — the */15 trampoline
+  # stalled in the same window but recovered, while */10 did not. Do not
+  # shorten this; add an event instead.
   schedule:
-    # Every 10 minutes while the ingestion chain is active (Cameron,
-    # 2026-08-19). Revisit if the KB repo ever goes private — at this cadence
-    # the runs alone outspend a private repo's included Actions minutes.
-    - cron: "*/10 * * * *"
+    - cron: "0 * * * *"
+
   workflow_dispatch:
     inputs:
       branch:
         description: Branch to build the snapshot from
         required: false
         default: claude/batch-3-planning-lessons-pxwdl5
-  # A freshly registered cron can take a long time to fire its first run, and
-  # a session without actions:write cannot dispatch. Touching this file kicks
-  # a rebuild immediately.
+
+  # Immediate kick: touching this file rebuilds now. Useful because a session
+  # without actions:write cannot dispatch.
   push:
     paths:
       - .github/workflows/publish-bight-watch.yml
