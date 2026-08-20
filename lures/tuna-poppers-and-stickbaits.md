@@ -726,6 +726,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

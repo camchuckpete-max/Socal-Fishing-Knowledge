@@ -589,7 +589,6 @@ rigging from class terms above until it lands; see
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
-- [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
@@ -597,5 +596,6 @@ rigging from class terms above until it lands; see
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
+- [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

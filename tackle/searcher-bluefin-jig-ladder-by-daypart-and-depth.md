@@ -218,7 +218,7 @@ placement conflicts across sources are tracked in
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
-- [Night Bluefin TG-Jig Rig — Reel, Metered Line, and the "Jerry Rig" Leader (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
+- [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
 <!-- backlinks:end -->
