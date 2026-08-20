@@ -20,7 +20,10 @@ angler's own reach and build can move the pick within that class — see
 [rod length for angler size](rod-length-for-angler-size.md). For the general
 star-drag-vs-lever-drag mechanism this note's application-specific sections
 below repeatedly draw on, see [star drag vs. lever
-drag](star-drag-vs-lever-drag.md).
+drag](star-drag-vs-lever-drag.md). Before you even get to application, don't
+judge a rod's action by hand-bending it at a shop counter — see [rod action
+testing technique](rod-action-testing-technique.md) for why that misreads the
+rod.
 
 ## How the pieces map — application to rod power to reel
 
@@ -906,6 +909,7 @@ a bluefin).
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Testing a Rod's Action by Hand-Bending It — Why That Misreads the Rod](rod-action-testing-technique.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 - [Yellowtail](../species/yellowtail.md)

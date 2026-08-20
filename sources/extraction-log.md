@@ -2393,7 +2393,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 6E39_PBt1P4 | Tackle Express | tutorial | parameter-skim | done | rigging/san-diego-jam-knot.md / merged two-tension-method + hook/swivel/clip/lure and mono/fluoro/braid applicability as corroborating parameter entry |
 | 6SClBs16L2Y | Tackle Express | tutorial | parameter-skim | done | species/bluefin-tuna.md; techniques/knife-jigging.md; techniques/slow-pitch-jigging.md / added activity-axis slow-pitch-vs-speed-jig decision plus bluefin pick-bite jig-commotion tactic |
 | 6Z6Dht20kTA | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / added common-failure entry: continuous in-school jigging spooks fish, bounce-vs-burn fix |
-| 6dTz1640Y5c | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6dTz1640Y5c | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md (new); tackle/rod-and-reel-selection.md / new note: hand-bend rod testing misreads action (artificial pivot, tip unreachable) |
 | 6gwvP8_pjWc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 6qz6aQ9PusA | Tackle Express | tutorial | parameter-skim | pending |  |
 | 6sfaYq9wMvQ | Tackle Express | tutorial | parameter-skim | pending |  |

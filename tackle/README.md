@@ -17,6 +17,7 @@
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md) — Spun out of hooks — this note is a single, narrow point that note's four-axis (style/size/wire-gauge/finish) framework doesn't cover: offset is a separate axis
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md) — Gear is a big investment; a rinse-and-store discipline is what makes it last.
+- [Testing a Rod's Action by Hand-Bending It — Why That Misreads the Rod](rod-action-testing-technique.md) — A short buying-education point from Tackle Express staff (unnamed on camera; tackle-express is an unregistered channel, single 38-second mention — medium confid
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Rod length isn't only an application variable (see the application table in rod & reel selection) — it also has to fit the angler holding it.
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md) — Steve Carson, aboard the Searcher (riEkdu8PEds, "Tackle Tip Thursday Vol.
@@ -48,5 +49,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 38 notes exceed the 30-node cap._
+_Map skipped: 39 notes exceed the 30-node cap._
 <!-- mermaid:end -->
