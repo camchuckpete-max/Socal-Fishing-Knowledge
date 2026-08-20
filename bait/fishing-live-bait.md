@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI, 8TO-tuYjwWk]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -165,6 +165,17 @@ carries weight:
     little resistance/friction on the cast that helps punch it out against
     wind. (2) The hook then tends to lie flush alongside the bait's body as
     it swims rather than sticking out, so it's less visible to the fish.
+    **A third, independently-stated reason (Tackle Express, "How to Fish
+    Like a Pro When You Only Have Anchovies," `8TO-tuYjwWk`, 2026-07-08;
+    unregistered channel — medium confidence):** collar-hooking is this
+    source's own stated preference when fly-lining anchovy, said to swim
+    noticeably stronger that way. The same source notes that a lot of people
+    struggle fly-lining anchovy generally (no reason given), and separately
+    cautions that because anchovy is eaten by nearly everything in the
+    water, a fly-lined one draws bycatch as readily as the target fish — see
+    [flyline — anchovy
+    bycatch](../techniques/flyline.md#anchovy-bycatch-when-to-switch-off-flyline)
+    for the stated fix (switch to surface iron or a stickbait).
 
 ### Rockfish live bait: nose or collar hook, always nose under a sinker (Steve Carson panel, PCS Show 2024)
 
@@ -624,6 +635,14 @@ or [skipjack](../species/skipjack-tuna.md), a couple of minutes of hard chumming
 can raise fish holding 40–50 ft down right up under the boat (lxFNVdDhMy4). Fish
 the **down-drift / down-wind side** — the drift carries your bait away from the
 boat and keeps the wind at your back for the cast.
+
+**Anchovy named as the standout chum, "nothing really raises fish like
+anchovies"** (Tackle Express, `8TO-tuYjwWk`, 2026-07-08; unregistered channel,
+single mention — medium confidence). The same source calls anchovy an
+advantage "if you make them an advantage" — praised as chum, but separately
+flagged as a bycatch liability once fly-lined on the hook; see [flyline —
+anchovy bycatch](../techniques/flyline.md#anchovy-bycatch-when-to-switch-off-flyline)
+for that side of it.
 
 **Observed — private-boat trip tips for a shared multi-boat chum stop**
 (StokedOnFishing, `AIHvJj-paoo`, 2016-11-29, offshore San Clemente Island near

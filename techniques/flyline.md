@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms, fcdWAo0VAKw]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms, fcdWAo0VAKw, 8TO-tuYjwWk]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -759,6 +759,32 @@ holding deep, not a claim that straight braid is wrong.
   rather than reconciled (line-class/material specifics not stated closely
   enough to compare directly). `ray-sharifi` registered, SoCal-capped — medium confidence.
 
+## Anchovy bycatch — when to switch off flyline
+
+Tackle Express, "How to Fish Like a Pro When You Only Have Anchovies"
+(`8TO-tuYjwWk`, 2026-07-08); unregistered channel, single mention — medium
+confidence.
+
+- **Anchovy is called out as the strongest chum of the staple baits** —
+  stated as raising fish better than sardine or mackerel — but the same
+  everything-eats-them quality is a liability once one's on a hook: a
+  fly-lined anchovy gets eaten by whatever's around as readily as by the
+  target species, named on camera as yellowtail vs. mackerel specifically —
+  the stated concern is having to cull through a hundred mackerel to find
+  one yellowtail.
+- **Stated fix: drop the anchovy flyline for [surface iron](surface-iron.md)
+  or a [stickbait](../lures/tuna-poppers-and-stickbaits.md)** when the bait
+  tank is anchovy rather than sardine — no mechanism given on camera for why
+  this helps, just the recommendation itself.
+- Also named, without a fix offered: **"a lot of people also struggle
+  fly-lining"** anchovy (no specific reason stated — could be casting,
+  hooking, or bait durability). This source's own preference is to
+  **collar/gill-hook** the anchovy rather than fly-line it plain, stated to
+  **swim stronger** that way — a further, independently-stated reason
+  alongside the casting-resistance and hook-visibility mechanisms already
+  logged for the gill hook in [fishing live
+  bait](../bait/fishing-live-bait.md#anchovy-nose-weighted-vs-gill-hook-by-rig).
+
 ## Common failures
 
 - **Hook too big for the bait** — it can't swim, so it doesn't get bit.
@@ -766,6 +792,8 @@ holding deep, not a claim that straight braid is wrong.
 - **Slack** on a butt/belly bait, letting it swim back under the boat.
 - Wrong hook position for the conditions — nose-hooking into a pack of **sea
   lions** that then eat every bait.
+- **Anchovy in the tank, targeting a specific species** — fly-lining draws
+  bycatch as readily as the target fish; see the anchovy-bycatch note above.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -803,6 +831,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Surface Iron](surface-iron.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](trolling.md)
 - [Underhand Casting](underhand-casting.md)

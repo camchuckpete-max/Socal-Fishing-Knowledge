@@ -716,6 +716,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)

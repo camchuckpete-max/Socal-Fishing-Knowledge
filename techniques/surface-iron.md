@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc, lYyi_Yh3S5g]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc, lYyi_Yh3S5g, 8TO-tuYjwWk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -25,6 +25,11 @@ map in the generated **Linked from** section below.
 - [Bluefin](../species/bluefin-tuna.md) foamers when you want a bigger, faster
   presentation than a plug — but for the run-and-gun foamer game itself see
   [foamer casting](foamer-casting.md).
+- **The bait tank is anchovy, not sardine or mackerel** (Tackle Express,
+  `8TO-tuYjwWk`, 2026-07-08; medium confidence): a fly-lined anchovy draws
+  bycatch as readily as the target species, so this source's stated fix is to
+  switch to iron — see [flyline — anchovy
+  bycatch](flyline.md#anchovy-bycatch-when-to-switch-off-flyline).
 
 ## The cast
 
@@ -599,6 +604,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
+- [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](glide-baits.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
