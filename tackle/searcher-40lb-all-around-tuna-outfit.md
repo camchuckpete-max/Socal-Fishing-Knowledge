@@ -181,6 +181,7 @@ gap-fills from this citation are folded into the sections below.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)

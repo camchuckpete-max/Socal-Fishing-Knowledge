@@ -875,6 +875,10 @@ shot in [gaffing](../fish-care/gaffing.md).
   note).
 - **Jig (day & night):** **100–130 lb-braid jig class / PE6–8**, short parabolic
   jigging rods; [knife jigs](../lures/knife-jigs.md) 150–500 g by depth and current.
+  One captain's own full daytime-to-night weight/hook ladder (100 g daytime
+  treble up through a 400 g personal-ceiling tail-hooked jig, plus a
+  night deep-drop rig for fish to ~400 ft) is in
+  [Searcher bluefin jig ladder by daypart and depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md).
 - **Kite / troll:** **150–200 lb class**, ~100 lb braid for capacity and less
   wind-blow; [flying-fish harness](../rigging/flying-fish-harness.md),
   [Mad Mac](../lures/mad-mac.md), [spreader bar](../lures/spreader-bar.md).
@@ -1120,6 +1124,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)

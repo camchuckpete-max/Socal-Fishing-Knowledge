@@ -138,6 +138,9 @@ say why, but I can definitively say that's what happens."*
   another companion entry naming the same Williamson Gomame.
 - [Bluefin tuna](../species/bluefin-tuna.md) and [yellowfin
   tuna](../species/yellowfin-tuna.md) — the species routers.
+- [Searcher bluefin jig ladder by daypart and depth](searcher-bluefin-jig-ladder-by-daypart-and-depth.md) —
+  the same speaker's heavier (100–400 g) jig tier, continuing past this
+  note's ~50–170 g daytime dart-jig range into dawn/dusk and night gear.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -145,6 +148,7 @@ say why, but I can definitively say that's what happens."*
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Opah (Moonfish)](../species/opah.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

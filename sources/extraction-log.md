@@ -2219,7 +2219,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tnHltcDdVtU | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md: Fred Brandt/Seeker Rods Colt Sniper retrieve doctrine + Led Masters 150g conflict vs existing 100g cap (kept side by side); note now 682 lines, colt-sniper split warranted but deferred |
 | ueDBCY1mIPk | SearcherSportfishing | tutorial | deep | done | tackle/searcher-40lb-all-around-tuna-outfit.md: merged third citation of Carson's 40lb outfit (Vol.222), gap-filled rod spec + effective grade range 15-80lb, corroborated reel/line/leader/knot/hook |
 | vNIazq1aVwc | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md; rigging/haywire-twist.md; species/wahoo.md: wahoo live-bait wire leader (6th leader build), hook positions, and bite-response doctrine added; asr-uncertain hook 'number 100' flagged; 40lb wire vs 200-300/44/60 conflict kept side by side |
-| vVOkxHx58Eg | SearcherSportfishing | tutorial | deep | pending |  |
+| vVOkxHx58Eg | SearcherSportfishing | tutorial | deep | done | tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md (new); species/bluefin-tuna.md; lures/knife-jigs.md; tackle/searcher-daytime-dart-jig-outfit-ladder.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/knife-jigging.md: new Carson bluefin jig ladder note 100-400g by daypart/depth, cross-linked; fixed sponsored-claim confidence gap on 3 named products during eval |
 | vn4fmPxUqsU | SearcherSportfishing | tutorial | deep | pending |  |
 | wGWjnW7wCiI | SearcherSportfishing | tutorial | deep | pending |  |
 | wnlOU34RXs8 | SearcherSportfishing | tutorial | deep | pending |  |

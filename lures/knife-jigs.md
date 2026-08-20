@@ -288,6 +288,16 @@ behavior**:
     **sink rapidly and go straight down**, reaching a called depth faster
     than a flat-fall's flutter-fall motion — corroborating, not adding to,
     the fall-behavior doctrine above.
+  - **A second Searcher voice's own full daytime-to-night weight ladder,
+    with a hook-style rule that changes by weight tier (Steve Carson, Penn/
+    SearcherSportfishing, "Tackle Tip Thursday Vol. 228 (Bluefin Tuna
+    Lures)," `vVOkxHx58Eg`, uploaded 2023-10-12; medium confidence):** a
+    100 g daytime treble-hook jig stepping up through 170 g (dawn/dusk),
+    280–300 g (nose+tail single hooks), a night deep-drop rig for fish to
+    ~400 ft, and a 400 g personal-ceiling jig (tail-only double hook) — kept
+    as its own note rather than folded in here; full ladder, leader tests,
+    and stated reasoning per tier in [Searcher bluefin jig ladder by daypart
+    and depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md).
 
 ## How to fish it
 
@@ -560,6 +570,7 @@ rigging from class terms above until it lands; see
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)

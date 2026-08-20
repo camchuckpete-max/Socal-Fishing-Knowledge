@@ -651,6 +651,12 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   that isn't carried here; a narrower, lighter-weight slice of this note's existing 150–400 g
   knife-jig range.
 
+A separate night deep-drop rig for bluefin marked to ~400 ft (a wired-through
+weighted jig body, not a slender knife profile) and a speed/fast-pitch
+jigging hook-placement note (two hooks off the nose for that retrieve style)
+are logged in
+[Searcher bluefin jig ladder by daypart and depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md).
+
 ## Common failures
 
 - **Dropping off the stern** — the line scopes and the jig never reaches the
@@ -682,6 +688,7 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)

@@ -656,6 +656,10 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
   Penn Fathom 60 rail-rod pairing used in the 2020-11-12 flat-fall entry
   above, this time as the heavy outfit of a 1.5- to 4-day trip's three-outfit
   quiver.
+- [Searcher bluefin jig ladder by daypart and depth](searcher-bluefin-jig-ladder-by-daypart-and-depth.md) —
+  the same speaker's own daytime-to-night jig-weight/hook-style ladder
+  (100–400 g), matching this note's "big ones down at 400 feet" jig-pairing
+  framing in Rig 2 above with a named night deep-drop rig.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -677,6 +681,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
