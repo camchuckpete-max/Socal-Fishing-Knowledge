@@ -465,6 +465,7 @@ able to break off** (aXF0bxAFtU0):
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

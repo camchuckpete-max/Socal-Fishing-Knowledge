@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md) — Gary, presenter for Accurate Fishing Products, aboard the Searcher (SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md) — Steve Carson (Penn), guest speaker at the San Diego Rod and Reel Club's November 2023 meeting — "5 must-have rod and reel setups for bluefin tuna fishing" (9JnI
 - [Gear Classes — the class-term lexicon](gear-classes.md) — The KB describes gear in class terms (jig-stick class, 40–60 lb class, 200g-knife-jig class) so a species/technique note can say "reach for the surface-iron cla
 - [Hooks — Style, Size, and Matching to Bait](hooks.md) — A hook is chosen on four axes: style (how it sets), size (matched to the bait, then the fish), wire gauge (how much it burdens a live bait vs.
@@ -24,49 +25,57 @@
 
 ```mermaid
 graph LR
-  n0["Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)"]
-  n1["Gear Classes — the class-term lexicon"]
-  n2["Hooks — Style, Size, and Matching to Bait"]
-  n3["Spiral-Wrap ('Acid-Wrap') Guides and Narrow Reels for Jigging Rods"]
-  n4["Line & Leader — Braid, Mono, Fluoro by Application"]
-  n5["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
-  n6["Reel & Rod Maintenance — Offseason TLC"]
-  n7["Rod & Reel Selection — by Application"]
-  n8["Rod Length — Fitting the Stick to the Angler"]
-  n9["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
-  n10["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n11["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n0["Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)"]
+  n1["Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)"]
+  n2["Gear Classes — the class-term lexicon"]
+  n3["Hooks — Style, Size, and Matching to Bait"]
+  n4["Spiral-Wrap ('Acid-Wrap') Guides and Narrow Reels for Jigging Rods"]
+  n5["Line & Leader — Braid, Mono, Fluoro by Application"]
+  n6["Offset Hooks — What 'Offset' Means and Why Anglers Use It"]
+  n7["Reel & Rod Maintenance — Offseason TLC"]
+  n8["Rod & Reel Selection — by Application"]
+  n9["Rod Length — Fitting the Stick to the Angler"]
+  n10["Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)"]
+  n11["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n12["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
   n0 --> n1
+  n0 --> n10
   n0 --> n2
   n0 --> n3
-  n0 --> n4
-  n0 --> n7
-  n0 --> n9
+  n0 --> n5
+  n1 --> n0
+  n1 --> n10
+  n1 --> n2
+  n1 --> n3
   n1 --> n4
-  n1 --> n7
-  n10 --> n4
-  n11 --> n1
-  n11 --> n7
-  n2 --> n0
-  n2 --> n4
+  n1 --> n5
+  n1 --> n8
+  n10 --> n0
+  n10 --> n1
+  n10 --> n2
+  n10 --> n8
+  n11 --> n5
+  n12 --> n2
+  n12 --> n8
   n2 --> n5
-  n3 --> n0
+  n2 --> n8
   n3 --> n1
-  n3 --> n7
+  n3 --> n5
+  n3 --> n6
   n4 --> n1
-  n4 --> n10
-  n4 --> n7
+  n4 --> n2
+  n4 --> n8
+  n5 --> n11
   n5 --> n2
-  n6 --> n4
-  n6 --> n7
-  n7 --> n0
-  n7 --> n1
-  n7 --> n11
-  n7 --> n4
+  n5 --> n8
+  n6 --> n3
+  n7 --> n5
   n7 --> n8
-  n8 --> n7
-  n9 --> n0
-  n9 --> n1
-  n9 --> n7
+  n8 --> n1
+  n8 --> n12
+  n8 --> n2
+  n8 --> n5
+  n8 --> n9
+  n9 --> n8
 ```
 <!-- mermaid:end -->

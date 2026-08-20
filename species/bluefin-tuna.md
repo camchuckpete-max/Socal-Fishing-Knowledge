@@ -854,6 +854,14 @@ shot in [gaffing](../fish-care/gaffing.md).
 - **Bait / flyline:** **40–60 lb class**, circle hooks size 1–2/0; a first-time
   big-fish setup wants **400+ yd of line, 80 lb backing, 50–60 lb mono top-shot,
   and ~3 ft of fluoro** for abrasion and stretch.
+  - **A three-outfit 50–80 lb bait ladder, heaviest-first bite strategy
+    (Gary, Accurate Fishing Products / Searcher, `Yd3J4igs-QA`, 2019-08-01;
+    sponsored segment — product picks low confidence, the ladder/strategy
+    itself medium):** three bait outfits spanning 65 lb Spectra/short fluoro
+    down to 50 lb test, hook sizes stepped 2/0–4/0–6/0 (asr-uncertain read);
+    fish the heaviest outfit first and drop down only if it isn't getting
+    bit, rather than starting light. Full detail in [bluefin 50–80 lb bait
+    outfit ladder](../tackle/bluefin-50-80lb-bait-outfit-ladder.md).
   - **Daytime working numbers, one boat/trip (Ray Sharifi, Dirty Hookers,
     149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** ~90% of daytime bites came on flyline, worked on a
     dedicated **25–30 lb fluorocarbon flyline stick** (a sponsored
@@ -1003,6 +1011,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](../tackle/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](bluefin-trolling.md)

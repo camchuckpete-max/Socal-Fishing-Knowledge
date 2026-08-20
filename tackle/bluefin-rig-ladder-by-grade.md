@@ -412,6 +412,9 @@ between the two talks.
 
 - [Searcher big-tuna rig ladder](searcher-big-tuna-rig-ladder.md) — the
   giant-tuna and big-tuna rig entries split out of this note.
+- [Bluefin 50–80 lb bait outfit ladder](bluefin-50-80lb-bait-outfit-ladder.md)
+  — a differently-sourced three-outfit bait ladder for the same 40–80 lb
+  bluefin grade (Gary, Accurate Fishing Products / Searcher).
 - [Rod & reel selection](rod-and-reel-selection.md) — the application-based
   offshore quiver this ladder complements.
 - [Gear classes](gear-classes.md) — class-term lexicon.
@@ -433,6 +436,7 @@ between the two talks.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Knife Jigs](../lures/knife-jigs.md)

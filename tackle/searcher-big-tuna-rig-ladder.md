@@ -327,6 +327,17 @@ confidence, single mention.
   combo "seems to be the way to go at Guadalupe right now" (as of this
   December 2019 trip).
 
+**Earlier data point, plausibly the same presenter (`Yd3J4igs-QA`, "Tackle
+Tip Thursday Vol. 59 (Tuna Set-up)," uploaded 2019-08-01 — four months before
+this Vol. 80 trip):** a general 50–80 lb bluefin bait-outfit ladder, credited
+on camera only to "Gary from Accurate Fishing products" (no surname stated),
+also runs an Accurate reel captioned "turn 500" with 65 lb Spectra backing —
+the same asr-uncertain reel caption as this entry's own build. Kept as a
+separate note rather than merged in, since the earlier video's three-outfit
+ladder and heaviest-first bite strategy are their own topic, not a Guadalupe
+trip report — see [bluefin 50–80 lb bait outfit
+ladder](bluefin-50-80lb-bait-outfit-ladder.md).
+
 **Corroboration, not merged:** this line-shy, small-hook framing for
 Guadalupe tuna sits alongside — but is a separate data point from — the
 size-2/4-hook, "light line" Guadalupe entry already logged in
@@ -383,6 +394,9 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 
 ## Related
 
+- [Bluefin 50–80 lb bait outfit ladder](bluefin-50-80lb-bait-outfit-ladder.md)
+  — the earlier (2019-08-01), plausibly-same-presenter Accurate/Searcher
+  bait-rig ladder, kept as its own note rather than merged into this one.
 - [Bluefin rig ladder by grade](bluefin-rig-ladder-by-grade.md) — the
   line-class ladders (live-bait, jigging PE classes, daytime/nighttime) this
   note's Searcher-specific entries were split out of.
@@ -405,6 +419,7 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Chunking](../techniques/chunking.md)
