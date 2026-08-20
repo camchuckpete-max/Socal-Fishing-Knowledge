@@ -2449,7 +2449,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | EXqFODWABvM | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: resort/travel-time chatter, no named location, technique, or parameter |
 | EcNijcqjLvE | Tackle Express | tutorial | parameter-skim | done | none / out-of-scope freshwater bass swimbait tuning content; extraction-log row filled |
 | Ecqt-ZLnvaU | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-izorline-xxx-mono.md (new); tackle/line-and-leader.md / low-confidence Izorline XXX mono note, sponsored counterpoint linked |
-| EdN3BowjYjg | Tackle Express | tutorial | parameter-skim | pending |  |
+| EdN3BowjYjg | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: promotional reel-bag product showcase, fails curation bar |
 | Eo_bA8IWvyU | Tackle Express | tutorial | parameter-skim | pending |  |
 | EuYOlsnxXko | Tackle Express | tutorial | parameter-skim | pending |  |
 | F0849S6gBPY | Tackle Express | tutorial | parameter-skim | pending |  |
