@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -328,6 +328,27 @@ fluoro leader, braid main line — and feed the terminal rigs in
   elsewhere in this note for wrap counts (e.g. the RP knot's 6-vs-8-vs-10 and
   the [San Diego jam's](san-diego-jam-knot.md) 5-vs-6-vs-7), kept side by side
   rather than reconciled to one number.
+  **Third data point, 5-wrap-per-side rule, same fluoro-to-mono application,
+  registered channel (SearcherSportfishing, "Tackle Tip Thursday Vol. 93
+  (Double Uni Knot)," `qtCZAB4EBs4`, 2020-04-02; `searcher-sportfishing`
+  registered channel, single mention on this specific knot — medium
+  confidence):** presenter not identified on camera. Paraphrased mechanic:
+  leave about **12 in** of tag on each side of the fluorocarbon and
+  monofilament; grab the two lines together at the middle, form a loop back
+  toward the thumb, pinch it, and wrap the tag around both lines together.
+  States the rule as **5 wraps** per side, though the demo line itself was
+  too short to show all 5 on camera ("it's five times, I don't have a long
+  enough line to do that... so we got three times") — the stated rule is 5,
+  not the 3 actually shown in this clip. Cinch the first side down by
+  pulling the tag line, then turn the leader around and repeat the same
+  loop-and-wrap on the other side (again stated as 5 wraps, around the
+  mainline/mono and fluorocarbon together), then pull both standing lines to
+  draw the two coils together and seat the knot. A third wrap-count data
+  point in the range already logged in this bullet (6 at top, 3–4 for
+  `NkjjDf6XPcE` above, now 5 here) — kept side by side as angler-preference
+  variation, not reconciled to one number. No line class, species, or
+  application beyond "fluorocarbon to monofilament" is given in this
+  2:08 clip.
 - **Seaguar knot (connection)** — a purpose-built mono-to-fluoro bite-guard
   connection with five sourced variants (Cesar/Eric's Tackle and three
   StokedOnFishing clips, plus a fifth from SearcherSportfishing) that do not
@@ -423,6 +444,7 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 (loop knot portion; see [Seaguar Knot](seaguar-knot.md) for the Seaguar-knot
 portion of this video and four other mono-to-fluoro connection clips),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
+[double uni knot, fluorocarbon to monofilament connection](https://www.youtube.com/watch?v=qtCZAB4EBs4),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
 [surgeon's knot, mono-fluorocarbon connection](https://www.youtube.com/watch?v=LpReZmYQSCU),
