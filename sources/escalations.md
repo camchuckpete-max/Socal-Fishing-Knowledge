@@ -138,3 +138,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-20T17:32:53Z — -Ocrnb4rmMo — subagent-failure
 - run: 32397800699
 - reason: evaluator subagent terminated early due to API error mid-response
+
+## 2026-08-20T22:28:23Z — DPrr0a3vQY0 — guard-violation
+- run: 32422107119
+- reason: commit 7ddb6f668be6db1aa31969491c1f942f2d059eea reverted: protected path touched: profiles/cameron/rods.md

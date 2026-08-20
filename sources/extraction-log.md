@@ -2437,7 +2437,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | CsKEtrcLgiQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-night-bluefin-tg-jig-rig.md / merged new TG-jig parameters (density, price, brands, surface outfit, rockfish open item), fixed relative-time |
 | D0bQjAL0gGU | Tackle Express | tutorial | parameter-skim | done | species/rockfish-lingcod.md; techniques/rockfish-deep-dropping.md; sources/regulatory-claims.md / added hedged season-dependent depth-allowance data point (~800-850 ft) and torpedo-sinker rationale |
 | D0oEQsTaL7A | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / Fathom 80 drag rating (50 lb) and build spec, medium confidence |
-| DPrr0a3vQY0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| DPrr0a3vQY0 | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
 | DTvXJrtytwg | Tackle Express | tutorial | parameter-skim | pending |  |
 | DfLcSS-J3g4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | DuNkl8F45NE | Tackle Express | tutorial | parameter-skim | pending |  |
