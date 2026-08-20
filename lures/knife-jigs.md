@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -126,6 +126,26 @@ behavior**:
   name was spoken but not confidently reconstructable; ~200 g, run with the
   assist configuration below). General rigging guidance given alongside
   these: don't over-hook a jig — too many assists kills its action.
+  - **Downsizing within the knife-jig class when fish move higher and faster
+    in the column, named models (Tackle Express, `BsWb5BQ1Tdc`, "The Jarry
+    Rig: Built for Big Tuna," uploaded 2025-08-04; unregistered channel,
+    single mention — medium confidence):** fishing a **250 g "SK"** jig
+    (captioned only as "SK," color captioned "zebra row" —
+    both flagged `asr-uncertain`; the weight sits within the 140–250 g
+    range already logged above for the Daiwa SK jig, but this clip doesn't
+    itself say "Daiwa," so the brand match isn't confirmed here), the stated
+    trigger to size down is the fish coming up **higher in the water
+    column** and swimming through **visibly faster**. The stated response is
+    to drop to roughly a **200 g "SL"** (model as captioned; not confidently
+    matched to a named product beyond "SL," flagged `asr-uncertain`) — still
+    the same knife-jig dart profile, just lighter, so it darts down slower
+    and doesn't rocket past fish sitting at a called **180–200 ft**. Same
+    "match sink rate to where the fish actually are" logic as the weight
+    rules above, restated as a same-class swap with a stated reason (fish
+    position and speed, not current or wind). The clip cuts off mid-thought
+    as the captain starts calling fish deeper (**300–400 ft**) — the
+    corresponding upsize isn't stated on camera, so it isn't recorded as a
+    rule here.
 - **Assist-hook rigging class — US waters cap you at two hooks.** For how to
   size a hook to a jig, choose cord stiffness, and tie a single or double
   assist by hand, see [assist hooks — sizing, cord, and tying](../rigging/assist-hooks.md).

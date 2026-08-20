@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, tuna, jig, tungsten, tg-jig, night, talica, saltiga, metered-braid, leader, depth, fluorocarbon, foamer, durability, colt-sniper, casting-distance]
-sources: [3-0kaaHqA7A, A7rveRBkL-g]
+sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc]
 confidence: medium
 ---
 
@@ -53,12 +53,33 @@ extracted later, not as two-source confirmation.
   Power Pro Depth Hunter Offshore is a new named product for that same
   100 ft-interval doctrine.
 
-## Leader — the "Jerry rig"
+## Leader — the "Jarry rig"
+
+**Name correction (`BsWb5BQ1Tdc`, "The Jarry Rig: Built for Big Tuna —
+Only at Tackle Express," uploaded 2025-08-04; unregistered channel, single
+mention — medium confidence):** the video's own title spells this
+**"Jarry,"** not "Jerry" — per the human-typed-metadata-beats-ASR rule, this
+corrects the "Jerry rig" name carried over from the two ASR-only clips
+above. On camera the build is credited to **James and Harry**; "Jarry" reads
+as a portmanteau of the two names, though the source doesn't spell that out
+explicitly.
 
 - A named house leader build, **200 lb** class: a **200 lb Seaguar Blue
   Label fluorocarbon** bite leader, a **welded** ring/hook connection (the
   transcript's "welded 90 hook" — exact hook designation not resolved,
   flagged **asr-uncertain**), and a **500 lb swivel**.
+- **Construction detail and stated reasoning (`BsWb5BQ1Tdc`):** the ring at
+  the hook is deliberately a **solid ring, not a split ring** — stated
+  reason: split rings have been seen to **bind**. This is consistent with,
+  and clarifies, the "welded" ring/hook connection logged above (a welded
+  ring is one way to build a gap-free, non-binding solid ring). The hook
+  itself rides on **a swivel**, and there is a **second swivel at the top of
+  the chafing leader** — with both in place, the source's stated claim is
+  "there is no way this [connection] is going to bind." A **350 lb Mustad
+  Saltism split ring** is also named as part of the build; the transcript's
+  auto-captions cut across the sentence naming it, so its exact position in
+  the hook-to-leader chain isn't unambiguous — recorded here as a named
+  component of the rig rather than placed precisely in the assembly.
 - Tied straight off the 100–150 lb braid for the whole night session.
 - This is a fourth named leader-to-jig connection alongside the crimp,
   direct-tie, split-ring, and swivel-plus-split-ring schools already logged
@@ -97,7 +118,7 @@ extracted later, not as two-source confirmation.
 The same TG jig gets re-rigged rather than swapped out as the day goes on,
 per this source:
 
-- **Night (deep, graded/heavy bluefin):** the 200 lb "Jerry rig" bite leader
+- **Night (deep, graded/heavy bluefin):** the 200 lb "Jarry rig" bite leader
   above.
 - **Daytime:** a **standard assist hook** fished on **80 lb or 100 lb**
   [line/leader] — the source doesn't specify braid vs. leader class beyond
