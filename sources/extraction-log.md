@@ -2356,7 +2356,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 0OpWO3Yo4HE | Tackle Express | tutorial | parameter-skim | done | none: generic Palomar-knot mechanic already covered by rigging/essential-knots.md; only new content is a product plug, fails curation bar |
 | 0PAPH1uqk4A | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md: added mid-column/current-drift squid presentation paragraph, medium confidence |
 | 0_pEeh0n9Uo | Tackle Express | tutorial | parameter-skim | done | none: transcript is unusable auto-generated captions (music/noise only, no speech content) |
-| 0pBFS6TLVUQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| 0pBFS6TLVUQ | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass finesse-jig/craw-trailer content, out of scope (not SoCal/Baja saltwater) |
 | 0z0bvF7o3ak | Tackle Express | tutorial | parameter-skim | pending |  |
 | 17sBBD0C4XY | Tackle Express | tutorial | parameter-skim | pending |  |
 | 1MxHXTv3a2A | Tackle Express | tutorial | parameter-skim | pending |  |
