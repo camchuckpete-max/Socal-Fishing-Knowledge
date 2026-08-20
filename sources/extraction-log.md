@@ -2380,7 +2380,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 46kVgZ6P62M | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-accurate-tern-2-reel.md; tackle/star-drag-vs-lever-drag.md / new Accurate Tern 2 product note (cast-control brake, twin drag, sizing/leader rule) plus a corroborating row in star-vs-lever-drag; evaluator fixed a fabricated Baja-framing claim bled over from an adjacent entry |
 | 52jkCrA4I9w | Tackle Express | tutorial | parameter-skim | done | none / skipped: 26s clip, transcript captures only music/interjection, no extractable fishing-rod content despite title |
 | 52le0jHiqyc | Tackle Express | tutorial | parameter-skim | done | none / skipped: 48s trade-show promo (booth/dates/venue/raffle), no fishing knowledge content, fails curation bar |
-| 53FzsW4_U08 | Tackle Express | tutorial | parameter-skim | pending |  |
+| 53FzsW4_U08 | Tackle Express | tutorial | parameter-skim | done | none / skipped: 40s team-intro/promo clip, captions are only music and stray letters, no speech content |
 | 5EKrtI_f_xA | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5Fxwebsi9pU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 5OTBOIeQmis | Tackle Express | tutorial | parameter-skim | pending |  |
