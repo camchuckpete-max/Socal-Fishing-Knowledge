@@ -2273,7 +2273,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Ibt0vdrl48E | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled crew-banter clip, no fishing knowledge content; extraction-log updated |
 | Ij04nagr8g8 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — crew-banter/fish-fight clip, no fishing knowledge content; extraction-log updated |
 | J52jzaMnKA0 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — rod-organizing banter and unlanded fish, no species/technique/rationale content |
-| J61iyNrfqsg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| J61iyNrfqsg | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — promotional trip-schedule overview, generic beginner-progression advice; place/species mentions shallow duplicates of dedicated corpus coverage |
 | JUSWISdzIq0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | JWU3djUbfKY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | K4GTUO57rio | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
