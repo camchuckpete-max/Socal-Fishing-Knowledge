@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ, scScYJJF95Y]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ, scScYJJF95Y, S6Ic8aXDdIg]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -165,6 +165,22 @@ class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mec
 - **Presenter's stated personal result,** offered on camera as support for
   the technique: two fish over 100 lb caught back-to-back on this rod using
   this method — not independently corroborated elsewhere in the corpus.
+
+## Earlier, independent use of the same catchphrase (Frank Van Sept trip, SearcherSportfishing, 2010)
+
+**Observed** (SearcherSportfishing, `S6Ic8aXDdIg`, on-the-water clip titled
+"frank van-sept, 2010," uploaded 2011-01-12 — not a Tackle Tip Thursday or
+Tackle Talk Live segment, so this stands as an unregistered-format single
+mention, medium confidence): during a kite-hooked tuna fight, an exchange
+between the crew and the angler (Frank, from Dominguez Hills, a 10-year repeat
+Searcher customer as of this trip) confirms he's in low gear ("in low gear,"
+"yes sir"), then a crew member says "the rail's your friend now" — the same
+catchphrase, paired with the same low-gear cue, as the
+2021–2023 Tackle Tip Thursday citations above, but from a 2010 trip, roughly a
+decade earlier than those. No reason is given on camera in this clip; logged
+as an earlier dated instance of the catchphrase and pairing, not new
+doctrine — see [two-speed low-gear fight](two-speed-low-gear-fight.md) for
+the reasoned version of the low-gear half of this pairing.
 
 ## Related
 
