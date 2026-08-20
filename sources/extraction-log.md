@@ -2187,7 +2187,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | m2g97MxmAGI | SearcherSportfishing | tutorial | deep | done | tackle/searcher-40lb-all-around-tuna-outfit.md; techniques/dart-jig-tuna.md / tuna dart-jig reel corroboration + size/color/depth data point merged; evaluator reverted an over-broad confidence bump to medium |
 | m424-XxCFQw | SearcherSportfishing | tutorial | deep | done | none / nothing-extractable: 38s promo/PSA on eating yellowtail collars, no fishing knowledge to capture |
 | nAGkYWuJrCI | SearcherSportfishing | tutorial | deep | done | none / nothing extractable: 25s personal color-aesthetic gear preference, no functional parameters or decision logic |
-| nM7B5NQLy44 | SearcherSportfishing | tutorial | deep | pending |  |
+| nM7B5NQLy44 | SearcherSportfishing | tutorial | deep | done | rigging/bimini-twist.md; rigging/essential-knots.md; rigging/wind-on-leader.md; tackle/rod-and-reel-selection.md / spun Bimini Twist out of essential-knots.md into its own note, merged in traditional 30-50-turn tie alongside existing quick-tie, cross-linked from 3 parents |
 | nWq2DVzBNeI | SearcherSportfishing | tutorial | deep | pending |  |
 | nnrEjc-Gq2o | SearcherSportfishing | tutorial | deep | pending |  |
 | o6Sawz5S7bk | SearcherSportfishing | tutorial | deep | pending |  |

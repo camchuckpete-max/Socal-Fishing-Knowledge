@@ -42,8 +42,8 @@ this pairs with.
   five to six feet with a served finish; both hold, the shorter version leans
   harder on a locked terminal wrap.
 - **The braid loop** on the reel end is a doubled, tucked loop sized to pass your
-  wrist through (for tying a bimini/cat's-paw to the running braid). Adjust it
-  before cutting anything off the spool.
+  wrist through (for tying a [bimini twist](bimini-twist.md)/cat's-paw
+  to the running braid). Adjust it before cutting anything off the spool.
 - **Lock the tail.** The bare finger-trap will slide out under slack, so finish
   the leader end — either a served wrap of dental floss / 30–65 lb braid closed
   with a three-turn uni, or a series of ~15–20 same-direction half hitches
@@ -94,6 +94,7 @@ and [the strongest braid-to-fluoro wind-on](https://www.youtube.com/watch?v=zkSK
 ## Linked from
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
+- [Bimini Twist — 100% Double-Line Loop](bimini-twist.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)

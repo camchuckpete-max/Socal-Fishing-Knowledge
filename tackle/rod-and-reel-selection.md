@@ -56,7 +56,8 @@ covering every scenario. Build yours around these roles:
    label. Stick baits and poppers. (For surface iron, a jig stick is still more
    fun — see below.)
 5. **Big tuna:** rail rod (2x4) / 50–100 lb; HD30-size 2-speed; 130 lb braid; a
-   Bimini or splice to a [wind-on leader](../rigging/wind-on-leader.md), 150 lb
+   [Bimini twist](../rigging/bimini-twist.md) or splice to a
+   [wind-on leader](../rigging/wind-on-leader.md), 150 lb
    blue label (~20–25 ft), crimped to a snap swivel. Kite flyer rigs step to
    300 lb line with a big 10/0–11/0 J and an extra-heavy treble.
 
@@ -911,6 +912,7 @@ a bluefin).
 ## Linked from
 
 - [<Your> Rods](../profiles/_template/rods.md)
+- [Bimini Twist — 100% Double-Line Loop](../rigging/bimini-twist.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)

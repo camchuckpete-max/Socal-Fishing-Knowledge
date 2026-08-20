@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -69,7 +69,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
   ahead of a topshot on rail-rod big-tuna setups (line-class ladder in
   [rod & reel selection](../tackle/rod-and-reel-selection.md)).
   A dedicated 100%-strength double-line knot, not a terminal or line-to-line
-  connection knot like the others above.
+  connection knot like the others above. Two sourced tying approaches with
+  different turn-count philosophies are kept as their own note: [Bimini
+  Twist](bimini-twist.md).
 - **Surgeon's knot (loop)** — the simplest loop-forming knot in this list;
   used to tie the loop for a **single-hook rockfish [dropper
   loop](../techniques/dropper-loop.md)** rig.
@@ -216,11 +218,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
     point — see [Surgeon's Loop](surgeons-loop.md) for the dedicated build,
     kept as its own note rather than grown here.
 - **Worm knot (connection)** — ties a monofilament topshot directly onto the
-  loop of an already-tied Bimini twist double line; the specific connection
-  knot for the "topshot on rail-rod big-tuna setups" use case named in the
-  Bimini twist entry above. Its other selling point is speed of field
-  repair: because the Bimini's twisted section stays intact when this knot
-  is cut away, it's the fast fix for a mid-trip break-off.
+  loop of an already-tied [Bimini twist](bimini-twist.md) double line; the
+  specific connection knot for the "topshot on rail-rod big-tuna setups" use
+  case named in the Bimini twist entry above. Its other selling point is
+  speed of field repair: because the Bimini's twisted section stays intact
+  when this knot is cut away, it's the fast fix for a mid-trip break-off.
 - **John Collins knot (connection)** — another named braid-to-mono/fluoro
   splice, mechanically distinct from the RP knot and uni-to-uni above (a
   matched 9-up/9-down wrap, exiting back up through the loop rather than
@@ -355,21 +357,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
   Hansen and multiple SearcherSportfishing presenters, with a genuine naming
   split against "San Diego jam" for the identical mechanic) — kept as its own
   note: [Improved Clinch Knot](improved-clinch-knot.md).
-- **Bimini twist, quick-tie approach (StokedOnFishing, `jahddqzKhLY`,
-  2012-03-28; unregistered channel — `medium` confidence):** presented as a
-  fast, no-long-loop way to twist up a double line in about 30 seconds once
-  practiced. Cinch a short starting loop (no need for the traditional big
-  loop), then spin roughly **20–25 wraps** down the twisted section — the
-  presenter's own on-camera count is uneven and restarts partway through, so
-  read this as an approximate range rather than an exact figure. Set tension
-  by hooking the loop over the reel handle and turning it, then run the
-  wraps up to the size you want the finished loop to be and hold the tag
-  end. Lock it off with a half hitch around the first turn (cinched), then a
-  half hitch around the second turn (cinched), then a final locking wrap
-  ("go one, two, three" per the transcript). **Flag:** the exact wrap count
-  on that final locking pass is ASR-uncertain — the two-half-hitch-then-lock
-  mechanic is clear, the count on the last pass is not. No SoCal-specific
-  parameters (line class, species, or region) are given in this clip.
+- **Bimini twist** — the double-line/loop knot named in "When to use it"
+  above; two sourced tying approaches (a fast ~20–25-wrap quick-tie and a
+  fuller ~30–50-wrap traditional tie with an added locking-wrap finish),
+  with different turn-count philosophies kept side by side, are in their own
+  note rather than growing this one further: [Bimini Twist](bimini-twist.md).
 - **Surgeon's knot (StokedOnFishing, eEcRPEoG4DQ, 2018-08-28; unregistered
   channel — medium confidence):** paraphrased mechanic — double the line into
   a loop, tie it like a square knot, then pass the loop through **three
@@ -392,8 +384,8 @@ fluoro leader, braid main line — and feed the terminal rigs in
   for the rig build.
 - **Worm knot (StokedOnFishing, `mpcSgkQvIzg`, 2012-03-29; unregistered
   channel — medium confidence):** ties a monofilament topshot onto the loop
-  of an already-finished Bimini twist double line — the topshot connection
-  the Bimini twist entry above points to. Paraphrased mechanic: pass a
+  of an already-finished [Bimini twist](bimini-twist.md) double line — the
+  topshot connection the Bimini twist entry above points to. Paraphrased mechanic: pass a
   finger through the Bimini's loop to hold it open, then wrap the mono tag
   around the whole doubled loop section roughly **10 times** (the
   presenter's on-camera count is uneven — "two three four... maybe 10
@@ -430,7 +422,6 @@ How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.yo
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE)
 (loop knot portion; see [Seaguar Knot](seaguar-knot.md) for the Seaguar-knot
 portion of this video and four other mono-to-fluoro connection clips),
-[Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
@@ -443,6 +434,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bimini Twist — 100% Double-Line Loop](bimini-twist.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
