@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA]
 confidence: medium
 ---
 
@@ -135,6 +135,37 @@ and why anglers reach for it.
   logged below (now updated with this earlier corroboration), here recalling
   the identical **2019** ("last year") poor-bite season without giving the
   specific 1/0–2/0 sizes that citation names.
+  **An earlier, independent sighting of the same 40 lb threshold and
+  mechanism, same speaker (Captain Art, SearcherSportfishing, "Searcher
+  Sportfishing Hook Selection," `y0LVT59inEA`, 2016-06-14;
+  `searcher-sportfishing` registered channel — the specific 40 lb threshold
+  now repeated by this speaker across two dated videos, `high` confidence):**
+  predates the 2020-03-25 citation above by about four years and gives the
+  identical cutoff — standard J hooks (his term: "gorilla live bait hooks")
+  are sufficient for tuna or yellowtail **40 lb or less**; fish heavier than
+  40 lb need a circle hook because they "have teeth" and a J hook risks a
+  bite-off, while a correctly hooked circle hook seats in the **corner of
+  the mouth**, out of the teeth's reach, "so you can't get bit off" — the
+  identical mechanism restated four years earlier. This earlier video also
+  gives a **line-class-driven J-hook sizing rule** the 2020 citation
+  doesn't: fishing live sardines on **Owner Gorilla live-bait J hooks**,
+  hook size graduates with line class — **25 or 30 lb test → a No. 1 or
+  No. 2 hook; 40 or 50 lb test → a 4/0 or 5/0 hook** (asr-uncertain: the
+  captions render "40 or a 5o hook," read as the aught sizes given this
+  note's hook-numbering convention and the jump up from a No. 1/2 J hook).
+  He recommends stocking an assortment across roughly **1 through 6/0**
+  (asr-uncertain: captions render "1 to 60," read as 1 through 6/0 for the
+  same reason) of both the **Owner Gorilla** live-bait J hook and an Owner
+  circle hook the captions render "MW"/"M" (asr-uncertain — plausibly
+  **Owner Mutu**, given the extensive Mutu circle-hook doctrine already
+  logged elsewhere in this note, but not confidently resolved). Framed on
+  camera as a sponsor plug — "we're fortunate to be sponsored by Owner
+  Hooks," sold on board the Searcher or at Fisherman's Landing Tackle — so
+  the **brand recommendation itself is a promotional claim and stays `low`
+  confidence** per the channel's registry sponsored-claim caveat, even
+  though the underlying 40 lb threshold and line-class sizing are
+  mechanism/parameter claims that rate normally. Samples shown on camera:
+  Gorilla J hook in **1/0 and 4/0**; circle hook in **2/0 and 4/0**.
 - **A grade-vs-line-test mismatch trigger, distinct from the teeth/weight
   mechanisms above (SearcherSportfishing, "Tackle Tips for Alijos Rocks and
   The Ridge," `uWGGeDOprsE`, 2009-08-25; speaker not identified on camera;
@@ -261,6 +292,16 @@ and why anglers reach for it.
   side by side with, not reconciled to, Cesar's non-ring-for-weight-and-noise
   reasoning and the Owner Aki citation's ringed-doesn't-matter stance logged
   below, a third data point in an unresolved fleet-wide preference split.
+  **An earlier (2016-06-14), milder framing from what is plausibly the same
+  speaker (Captain Art, SearcherSportfishing, "Searcher Sportfishing Hook
+  Selection," `y0LVT59inEA`; `searcher-sportfishing` registered channel —
+  medium confidence, single mention):** about five years before the Turner's
+  Outdoorsman clip above, states only that he is "personally... okay using
+  hooks without rings," explicitly framing it as the angler's choice and
+  naming the countervailing view some anglers hold — a ringed hook may give
+  the bait "a better chance of swimming freely." Softer than the later "old school" framing
+  but the same underlying non-ring lean, from the same channel and
+  (plausibly) the same speaker, several years earlier.
 
 ### Downsize the hook, not the line, to save a slow bluefin bite (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
 
