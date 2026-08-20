@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -25,6 +25,8 @@ note owns the rig and the retrieve.
 - You want a **vertical, in-place presentation** over bottom structure rather
   than a bait swimming through the column, using an **artificial** (fluke, grub,
   or small swimbait).
+- **Casting from the surf**, not just drifting or fishing straight down off a
+  boat — the drag-and-shake cadence below is a **surf** program.
 
 ## Building the rig (Nathan Winch)
 
@@ -67,6 +69,26 @@ note owns the rig and the retrieve.
   a spot or the shoreline — **be mobile:** if nothing bites in about **20 minutes,
   move**, the fish may be only 20 yards off. Be patient; a halibut on plastic is
   never a sure thing.
+
+## Surf rhythm — drag length matches target size (Tackle Express, `9qwsg-e9ECA`, 2026-02-07; unregistered channel — medium confidence)
+
+A distinct cadence for working a drop shot for halibut from the **surf**,
+stated on camera as the angler's own rhythm rather than a universal rule:
+
+- **Cast out, engage the reel, and drag the rig a distance matching the
+  halibut you're trying to catch** — the stated example is **22 to 30 in**
+  of drag.
+- On the settle after the drag, **shake out the slack while reeling** — the
+  stated effect is that this pulls the whole lure forward (rather than
+  letting it just sink in place) while the flash/blade dances.
+- **Repeat the drag-shake-drag cadence** rather than resetting and soaking —
+  the stated reason is that it covers water instead of waiting on one spot.
+- **Stated strike radius:** a halibut within roughly **3 to 4 ft** of the
+  bait's path is expected to get curious, come over, and eat it.
+
+This is a cadence layered onto the same rig built above (weight on bottom,
+bait suspended above it); the video does not give hook, weight, or leader
+specifics — for those, use the rig build above.
 
 ## Hookset — take up slack first (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence)
 

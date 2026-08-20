@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -82,6 +82,7 @@ conditions that put one there.** (General search method:
 | Bay / harbor channel edge, 8–15 ft, live bait | Same **trap rig / three-way**, downsized | 15 lb fluoro, inshore 200-class reel | Maintain **bottom contact, rig straight up and down** — the bite is subtle, often just a "dragging through kelp" feel; lift and wind, never swing |
 | Squid available, islands | **[Sliding-sinker](../techniques/sliding-sinker.md)** or dropped squid on a **single 4/0–5/0 J** (no stinger) | 30 lb bait class | Squid needs solid purchase in the nose, no trap |
 | Artificial / covering water, short drifts | **[Drop-shot](../techniques/drop-shot.md)** a plastic near the bottom | Bay-bass / light bottom class | Keeps the bait right in the strike zone on the edge; pick apart bubbler zones and rockpiles instead of long straight drifts |
+| **Casting from the surf** | **[Drop-shot](../techniques/drop-shot.md)** worked on a drag-then-shake cadence | Bay-bass / light bottom class | Drag a distance matching the target fish's length (22–30 in stated example), then shake out slack while reeling to move the lure forward; repeat to cover water — see drop-shot for the full rhythm |
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 | Open flats, casting from a boat or **from shore** | **Fast-retrieve hard bait** — a crankbait/jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | Inshore crank class | Halibut give chase and eat it moving; a slow bottom-bounce isn't the only presentation that works — see doctrine note below |
 

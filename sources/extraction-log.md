@@ -2414,7 +2414,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9ekSBpLG0GA | Tackle Express | tutorial | parameter-skim | done | none / 12-second clip, no extractable fishing content, correctly skipped |
 | 9hXW9JCffsU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-and-reel-selection.md; tackle/tackle-express-bates-edc-100-reel.md / new low-confidence product spec note for Bates EDC 100 DAB baitcaster, linked from inshore combo section |
 | 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md; tackle/hooks.md / Cedros yellowtail size data point (19-33lb) and Owner ST-66 hook upgrade citation merged into existing notes |
-| 9qwsg-e9ECA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9qwsg-e9ECA | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md; species/california-halibut.md / surf drag-and-shake drop-shot cadence (drag=target length 22-30in, ~3-4ft strike radius) added to drop-shot technique + halibut router |
 | A-D5MYB98yo | Tackle Express | tutorial | parameter-skim | pending |  |
 | A6-KPjRwGSQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | A7rveRBkL-g | Tackle Express | tutorial | parameter-skim | pending |  |
