@@ -229,6 +229,17 @@ fluoro leader, braid main line — and feed the terminal rigs in
   before the final hard cinch — watch for the braid to darken and the fluoro to
   go translucent as the tell that it's seated; use a line-gripping puller (wood
   dowel + tape) rather than bare hands on heavier tests to avoid line cuts.
+  **Naming conflict, not reconciled:** the sources behind this entry and the
+  ones behind [John Collins Knot](john-collins-knot.md) are kept as separate
+  ties here (different wrap counts — 6-up/6-down here vs. 9-up/5-up/5-down
+  there), but a SearcherSportfishing presenter (Pete Gray, Tackle Tip
+  Thursday Vol. 150, `b-oixz7pgAo`, 2021-06-10) states on camera that "RP
+  knot" and "John Collins knot" are the same tie, both named for its
+  wheelhouse-of-the-*Royal-Polaris* origin — consistent with this entry's own
+  ~80 lb "by the book" figure matching Vol. 150's stated 80 lb threshold, and
+  with both entries independently citing a wood dowel for seating/cinching.
+  Kept side by side rather than merged, since the wrap counts as sourced
+  still disagree.
   Optionally finish by tying the fluoro tag off around the main braid with a
   3-wrap uni knot, which cones the connection for a smoother pass through the
   guides — skippable when re-tying in a hot bite (YGLFn8lPMu0).

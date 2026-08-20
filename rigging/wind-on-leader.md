@@ -98,6 +98,7 @@ and [the strongest braid-to-fluoro wind-on](https://www.youtube.com/watch?v=zkSK
 - [Essential SoCal Knots](essential-knots.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md)
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Striped Marlin](../species/striped-marlin.md)
