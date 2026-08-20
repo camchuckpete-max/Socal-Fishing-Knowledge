@@ -102,6 +102,7 @@ knots](../rigging/essential-knots.md#parameters--judgment).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

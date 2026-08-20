@@ -1079,6 +1079,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)

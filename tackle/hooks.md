@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0]
 confidence: medium
 ---
 
@@ -331,6 +331,13 @@ by line class rather than by bait or technique — full rig context in
 - **40 lb starter rig, to ~100 lb fish:** **Owner Mutu circle hook**, size
   **4**, sometimes **2** — in range with, and a further data point for, the
   size-4 / 1/0–2/0 Owner Mutu figures already logged above.
+  - **An earlier (2022-02-03), closely-matching citation of this same 40 lb
+    rig's hook, same speaker/channel (Steve Carson, Penn/SearcherSportfishing,
+    "Tackle Tip Thursday Vol. 167 (All-Around Outfit)," `fyJA3o2hVh0`;
+    `searcher-sportfishing` registered channel):** **Owner Mutu circle
+    hook**, size **2**, sometimes **4** — the same two sizes, first/second
+    preference simply reversed. Full rig in [Searcher 40 lb all-around tuna
+    outfit](searcher-40lb-all-around-tuna-outfit.md).
 - **Mechanism restated, same as the corroborating doctrine above:** a big
   bluefin's teeth chew through a leader in "5 minutes, less than it takes to
   land [one]" — the circle hook's corner-of-the-mouth hookset keeps the
@@ -574,6 +581,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -33,7 +33,13 @@ single button near the reel's handle side — push it mid-fight to drop from
 high to low once a fish gets heavy enough that high gear is a grind to
 turn. (Lori, Turner's Outdoorsman, via SearcherSportfishing
 "Tackle Tip Thursday Vol. 136," `-OJ1FED7mxI`, 2021-02-11; unregistered
-channel/speaker — medium confidence.)
+channel/speaker — medium confidence.) **Second, independent citation of the
+same "easy button" nickname, naming the specific reel it's on (Steve Carson,
+Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 167 (All-Around
+Outfit)," `fyJA3o2hVh0`, 2022-02-03; `searcher-sportfishing` registered
+channel):** on a **Penn Fathom 25 Narrow**, "push a little button in for low
+twist... we call it the easy button." Full rig in [Searcher 40 lb all-around
+tuna outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
 
 ## Reach for this when
 
@@ -125,5 +131,6 @@ soon as that fish is landed.
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 <!-- backlinks:end -->

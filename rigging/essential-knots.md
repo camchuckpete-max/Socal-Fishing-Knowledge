@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, jahddqzKhLY, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -102,6 +102,17 @@ fluoro leader, braid main line — and feed the terminal rigs in
       school-size-tuna finesse rig — again inside his own 20–100 lb bracket.
       Full rig in [Bluefin rig ladder by grade — Rig
       1](../tackle/bluefin-rig-ladder-by-grade.md#rig-1--15-lb-finesse-the-one-you-need-most).
+    - **Fourth, independent citation of the same 4-turn/20–100 lb rule, same
+      speaker, and this group's earliest-dated citation of the rule yet
+      logged (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday
+      Vol. 167 (All-Around Outfit)," `fyJA3o2hVh0`, uploaded 2022-02-03;
+      `searcher-sportfishing` registered channel — repeated a fourth time by
+      the same voice):** a **four-turn surgeon's knot** ties **3–5 ft of
+      fluorocarbon** leader to a **40 lb monofilament** top shot on his
+      all-around 40 lb tuna outfit — again inside his own 20–100 lb bracket,
+      and predating the Vol. 176 citation above by about two months. Full rig
+      in [Searcher 40 lb all-around tuna
+      outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
   - **Now the earliest-dated entry in this group, with a full rig application
     attached (SearcherSportfishing, "Tackle Tip Thursday Vol. 7,"
     `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel,
@@ -444,6 +455,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)

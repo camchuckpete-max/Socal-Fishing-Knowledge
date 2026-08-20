@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig, albacore]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c, fyJA3o2hVh0]
 confidence: medium
 ---
 
@@ -143,6 +143,13 @@ biting well.
   commonly seen mistake — **shift back to high after landing the fish**,
   since anglers celebrating a catch often keep fishing in low without
   noticing. See [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md).
+- **An earlier (2022-02-03), closely-matching data point for this same 40 lb
+  rig, same speaker/channel** — a **Penn Fathom 25 Narrow**, two-speed, 65 lb
+  braid to a 40 lb mono top shot, Owner Mutu circle hook size 2 (sometimes
+  4), joined to fluorocarbon leader with the same four-turn surgeon's knot —
+  see [Searcher 40 lb all-around tuna
+  outfit](searcher-40lb-all-around-tuna-outfit.md), kept as its own note
+  rather than merged in here.
 
 ## Rig 4 — 50 lb ("50 PB"): live bait for grade, and the trolling-lure rig
 
@@ -455,6 +462,9 @@ between the two talks.
 
 - [Searcher big-tuna rig ladder](searcher-big-tuna-rig-ladder.md) — the
   giant-tuna and big-tuna rig entries split out of this note.
+- [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md) —
+  an earlier, closely-matching citation of this note's 40 lb starter rig
+  (Rig 3), same speaker/channel.
 - [Bluefin 50–80 lb bait outfit ladder](bluefin-50-80lb-bait-outfit-ladder.md)
   — a differently-sourced three-outfit bait ladder for the same 40–80 lb
   bluefin grade (Gary, Accurate Fishing Products / Searcher).
@@ -486,6 +496,7 @@ between the two talks.
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)

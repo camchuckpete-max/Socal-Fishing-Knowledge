@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0]
 confidence: medium
 ---
 
@@ -217,6 +217,14 @@ Mono's stretch and its habit of staying on the spool are the point:
   knot never clears the spool on a full cast** (Ep16). A knot dragged through the
   guides — say a 25 yd top shot on a 25 yd-plus cast — hangs up, backlashes, and
   braid's zero stretch then **snaps your leader and loses the jig, even at 40 lb**.
+- **The same mechanism, stated for the leader-to-top-shot knot specifically
+  (Capt. Art, Searcher, via Steve Carson, Penn/SearcherSportfishing, "Tackle
+  Tip Thursday Vol. 167 (All-Around Outfit)," `fyJA3o2hVh0`, 2022-02-03;
+  `searcher-sportfishing` registered channel — medium confidence):** tie the
+  leader-to-top-shot knot **as long as possible, but not so long it passes
+  into the rod tip on a cast** — enforced on the Searcher as a standing rule
+  ("if you forget, Art will remind you"). Full rig in [Searcher 40 lb
+  all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md).
 - **Stretch / shock for big tuna.** On a first-timer's
   [bluefin](../species/bluefin-tuna.md) setup: at least **400 yards** of line,
   ideally over **80 lb backing**, with a **50 or 60 lb mono top shot** for the
@@ -489,6 +497,7 @@ able to break off** (aXF0bxAFtU0):
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

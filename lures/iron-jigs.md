@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -401,6 +401,20 @@ rod/line/leader build and drop-and-crank mechanics for this jig class are
 in [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
 and [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
 
+**Dart-type jigs, "cold snipers," and a named favorite — Williamson Gomame
+(Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 167
+(All-Around Outfit)," `fyJA3o2hVh0`, 2022-02-03; `searcher-sportfishing`
+registered channel — medium confidence for the mechanism, `low` for the
+named product per this channel's sponsored-claim caveat):** tuna sometimes
+prefer a jig to live bait; one of the most popular styles is the **dart-type
+jig** (captions render "cold snipers," resolved against this note's existing
+Colt Sniper usage above), sold under many different brand names. Carson's own
+favorite is the **Williamson Gomame** — stated etymology on camera: "we
+learned in 2021 that gomame means small dried sardines," not independently
+verified in this corpus. The **smaller sizes, roughly 80 g**, fish well on a
+40 lb-class outfit — full rig in [Searcher 40 lb all-around tuna
+outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
+
 ## Owned examples
 
 Cameron's owned irons (attributed `cameron`; full list and colors in
@@ -431,6 +445,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)

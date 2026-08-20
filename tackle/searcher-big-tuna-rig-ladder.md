@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate, flyline, sinker-bait]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0]
 confidence: high
 ---
 
@@ -545,6 +545,9 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [San Diego jam knot](../rigging/san-diego-jam-knot.md) — the terminal knot
   named in the 2020-11-12 flat-fall entry above.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
+- [Searcher 40 lb all-around tuna outfit](searcher-40lb-all-around-tuna-outfit.md) —
+  a companion entry, same channel's numbered Tackle Tip Thursday series, kept
+  as its own note rather than added here per this note's size guideline.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -561,6 +564,7 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
