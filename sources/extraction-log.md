@@ -2208,7 +2208,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | riEkdu8PEds | SearcherSportfishing | tutorial | deep | done | tackle/searcher-30lb-large-tuna-outfit.md; species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md; tackle/hooks.md; techniques/two-speed-low-gear-fight.md / new 30 lb large tuna outfit note plus cross-citations into the bluefin router, rig ladder, hooks, and two-speed fighting notes, all corroborating existing registered-channel doctrine |
 | rziFyx7SRGI | SearcherSportfishing | tutorial | deep | done | species/yellowfin-tuna.md / added a fourth Guadalupe Island data point (jig-stick/casting-irons technique contrast) to the existing fly-line/hook-size/light-leader cluster under Where & when; fixed registered-channel mislabel |
 | scScYJJF95Y | SearcherSportfishing | tutorial | deep | done | tackle/gear-classes.md; techniques/fighting-fish-from-the-rail.md / Seeker OSP 2x4 rail-rod specs + applications added to gear-classes.md rail-rod class; rail-fighting demo mechanics (watch-the-tip cue, low gear) added to fighting-fish-from-the-rail.md, contrasted with two-speed-low-gear-fight.md's continuous-grind cadence; fixed one silently-corrected ASR quote |
-| sfZhPSTvZy8 | SearcherSportfishing | tutorial | deep | pending |  |
+| sfZhPSTvZy8 | SearcherSportfishing | tutorial | deep | done | none / correctly skipped generic cooking/recipe video (no fishing tackle/species/technique content despite the Tackle Tip Thursday title); evaluator filled in the missing extraction-log row |
 | sjOJiR6_HJ4 | SearcherSportfishing | tutorial | deep | pending |  |
 | sjlL5GidM58 | SearcherSportfishing | tutorial | deep | pending |  |
 | t8GP_-DMlSU | SearcherSportfishing | tutorial | deep | pending |  |
