@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -53,6 +53,17 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   landed), so 9" is a workable upper end for big kelp-bed calicos, not just
   5"–7" (StokedOnFishing, San Clemente Island, 2015-10-28, `9xNhdu2aBqE`;
   unregistered channel, single mention — medium confidence).
+- **4-in vs 5-in sizing, and O-ring/band keeper hardware (Tackle Express,
+  `-zw76Sh7YCI`, 2026-04-10; unregistered channel, single mention — medium
+  confidence):** on the same worm-style swimbait, the **4-in and 5-in sizes
+  take the same O-ring (band)** to seat the bait's collar on the head; a
+  **skinnier-profile version of either size needs a smaller O-ring or
+  band**. Stated sizing choice: reach for the **4-in when fishing with kids,
+  around smaller fish, or when you don't need the extra casting distance**
+  the 5-in gives — otherwise the 4-in "will work just the same." No species
+  or location is named on camera, so this is logged as general size/keeper-
+  hardware guidance alongside the 5"–7" calico/sand-bass sizing above rather
+  than tied to a specific SoCal situation.
 - **Colors:** color matters little — a **green-top / gold-bottom ("hot koch")** is
   a confidence pattern that works cloudy or sunny, warm or cold. Carry a natural
   (green/gold, sardine) and a dark. Fish what you believe in.
