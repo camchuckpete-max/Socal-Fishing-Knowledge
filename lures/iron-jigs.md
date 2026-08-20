@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -102,6 +102,13 @@ tuna](../species/bluefin-tuna.md) knife-jig row's 30–50 fm sounded-school
 scenario — kept side by side, not reconciled, since this video names the
 diamond jig specifically (not a knife/flat-fall jig) for the deeper band. No
 color given.
+
+**JRI-7 mold and a bigger sibling, JRI-4 (SearcherSportfishing, Tackle Talk
+Live, `49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel,
+single mention — medium confidence):** the **JRI-7**'s mold is described on
+camera as very similar to the old **candy bar** lure — a vintage surface iron
+the source calls a lure "everybody sought to buy" in its day. JRI also makes
+a **JRI-4**, a bigger version of the JRI-7, in the same lineup.
 
 Model benchmarks beyond any one box: **Tady 45 / 4/0**, **Salas 6X / 7X / 6X Jr.
 / CP 105**, **JRI** CNC irons (incl. the **JRI Stinger** — a Cedros/Baja
@@ -296,6 +303,26 @@ periodic kick-out, and the separated-baitfish mechanism — is in
 [surface iron](../techniques/surface-iron.md#why-the-kick-works--the-mechanism).
 Colour is deliberately absent from this whole selection process; see
 [surface iron — colour](../techniques/surface-iron-color.md).
+
+### Buying-counter selection — inspect for irregularities (SearcherSportfishing)
+
+A different selection method from Dan Wade's swim-based approach above, aimed
+at picking one jig off a rack of identical ones at the tackle counter rather
+than testing a swim on the water (SearcherSportfishing, Tackle Talk Live,
+`49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel, single
+mention — medium confidence): lay **five or six of the same model/color side
+by side** and look for one with an **irregularity** the others don't have — a
+paint sag, an extra stamped mark, a small notch in the mold — rather than
+grabbing whichever one is on top. The stated reasoning is that an irregular
+jig "might swim a little different" than the identical ones around it, and
+that difference is what could draw a strike from a fish that has already seen
+the standard version go by. Demonstrated live at the Fisherman's Landing
+tackle counter on a **JRI-7** (a paint sag on one) and a **Salas 7X** in
+"scrambled egg" color (one jig, out of six inspected, had five extra letters
+stamped into it that the others lacked). Not reconciled with, and a different
+axis from, Dan Wade's hips/holes/concave-vs-flat swim-test method above — this
+is a pre-purchase heuristic for choosing among visually identical stock, not a
+test of whether the jig swims at all.
 
 ## How to fish it
 

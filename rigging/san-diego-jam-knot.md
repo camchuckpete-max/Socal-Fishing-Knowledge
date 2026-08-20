@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [san-diego-jam, double-jam-knot, terminal-knot, hook-knot, lure-knot]
-sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ]
+sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -200,6 +200,15 @@ naming split tracked in that note, not this one.
   corrected.
 - **Judgment:** wet connection knots before seating, and cinch fully; a
   partly-set knot is where these fail.
+- **Double San Diego jam, tied straight to a surface iron on 40 lb test, no
+  separate leader (SearcherSportfishing, Tackle Talk Live, `49joKHD7Umc`,
+  2020-06-03; `searcher-sportfishing` registered channel, single mention —
+  medium confidence):** demonstrated as the presenter's own go-to for
+  attaching a surface iron — a **double San Diego jam** tied straight from
+  **40 lb** main line to the lure's ring, with no separate leader tied on for
+  this demo. A further data point for the doubled-through-the-eye tie's
+  "built for heavy line on artificial lures" framing already logged above,
+  this time on a lighter (40 lb) line than most other entries in this note.
 
 ## Deliberately weak variant for a weight connection (Scotty)
 

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg, 49joKHD7Umc]
 confidence: medium
 ---
 
@@ -213,6 +213,43 @@ while this clip includes **8 ft** as an option. Kept side by side rather than
 merged; the two together still support "long rod, star drag" as the
 standard — **medium confidence**, since the rod-length floor itself isn't
 identical between the two mentions.
+
+## Surface-iron budget build and 40 lb rationale — Tackle Talk Live (SearcherSportfishing)
+
+SearcherSportfishing, "Tackle Talk Live Recap (Surface Irons 6/2/20),"
+`49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel, single
+mention — medium confidence for the mechanism/parameters. Seeker and Accurate
+are both named among this episode's own credited sponsors ("we're grateful
+again for all of our sponsors seeker accurate products..."), so per the
+channel's sponsored-claim caveat the specific rod/reel model picks below are
+product endorsements and stay `low` confidence; rod length, single- vs.
+two-speed, line class, and the stated 40 lb reasoning qualify normally. Kept
+side by side with the dated builds above rather than merged in.
+
+- **Top-end build:** a **10 ft jig stick, model named on camera as a Seeker
+  Aloha** (product/model name — `low` confidence) (no fixed reel seat — see
+  [surface iron — the cast](../techniques/surface-iron-casting.md) for how
+  the reel position is set by hand on a rod like this), paired with a
+  two-speed reel — his own picks named as an **Accurate Valiant or
+  Boss-series reel, specifically a Boss 600-series** (product/model names —
+  `low` confidence) — the two-speed option called out specifically as an
+  easier-fighting option for an older/less-strong angler once a fish gets
+  straight up and down — spooled **30–60 lb, most often 40 lb** test.
+  **Stated reason for 40 lb specifically:** it lets him run a **snugger
+  drag**, which helps the hookset; a lighter/looser drag at 30 lb sacrifices
+  that. Some anglers fish 30 lb instead — called a personal preference, not
+  a correction.
+- **Budget build, same technique:** a **9 ft budget surface-iron casting rod**
+  with a **single-speed star-drag reel** (no two-speed needed) — Shimano or
+  **Valiant** star-drag models named as options (the Valiant name — Accurate's
+  brand — is a product endorsement, `low` confidence; Shimano is not one of
+  this episode's credited sponsors, so that mention is not sponsor-capped) —
+  spooled with **straight 40 lb monofilament, no spectra backing needed**, on
+  the reasoning that mono alone has enough line capacity for this application
+  and costs less than running spectra backing under a top shot. Irons
+  themselves run **$13–16 retail** (Fisherman's Landing tackle). A shopper
+  without this rod/reel budget was referred to a **Turner's Outdoorsman**
+  tackle counter for an affordable equivalent.
 
 ## Surface-iron outfits — traditional star drag vs. baitcast level-wind (Steve Carson, SearcherSportfishing)
 

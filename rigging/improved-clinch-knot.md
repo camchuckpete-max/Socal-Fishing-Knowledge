@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [improved-clinch, fishermans-knot, san-diego-jam, single-pass-hook-tie, connection-knot, terminal-knot, flyline-knot]
-sources: [VsUUBICiBzQ, H5NHGLm1H5U, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, ftEvyfwjZFU, J0NJhN6-Thg, eZXPqiAtqi8]
+sources: [VsUUBICiBzQ, H5NHGLm1H5U, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, ftEvyfwjZFU, J0NJhN6-Thg, eZXPqiAtqi8, 49joKHD7Umc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -204,6 +204,15 @@ which this note tracks side by side rather than resolving.
   strong, and part of a Tackle Tip Thursday "connection series" (the same
   series framing used for [John Collins Knot](john-collins-knot.md) Vol.
   214).
+- **20 lb fluorocarbon-to-hook tie, "ready to use right off the shelf"
+  (SearcherSportfishing, Tackle Talk Live, `49joKHD7Umc`, 2020-06-03;
+  `searcher-sportfishing` registered channel, single mention — medium
+  confidence):** for tying **20 lb fluorocarbon** to the hook of a surface
+  iron or yo-yo lure, the stated preferred knot is a plain **improved clinch
+  knot** over a San Diego jam — called fast and easy to tie, and strong
+  enough for 20 lb. A second, lighter (20 lb) line-class data point alongside
+  the "works for 40 lb test or less" ceiling already logged above from a
+  different SearcherSportfishing episode (`J0NJhN6-Thg`).
 
 ## Tie it
 
@@ -229,6 +238,7 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)

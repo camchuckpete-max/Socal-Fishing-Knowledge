@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, color, jig-color, calico-bass, yellowtail, confidence]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM, 49joKHD7Umc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -200,6 +200,27 @@ early-1990s (~1993) dating of the Tady 45 / Salas 7X pairing as the surface-iron
 standard in [surface iron](../techniques/surface-iron.md), under its size /
 weight selection section. Kept side by side with, not merged into, the other
 single-source color reports above.
+
+**A fuller version of the same standard-bearer claim, eight days earlier, same
+channel (SearcherSportfishing, "Tackle Talk Live Recap (Surface Irons
+6/2/20)," `49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered
+channel, single mention — medium confidence):** predates the `1uYIApdQQSM`
+entry above by 8 days and gives more detail behind the same two-color pick.
+Framed as an on-camera crew poll — asked what they'd buy with a hundred
+dollars at the tackle store and why — the unanimous answer was a **Tady 45**
+(blue/green/white, "mackerel," simulating a Pacific green-back mackerel) and a
+**Salas 7X** (sardine green/white). Two more colors were named as personal
+"must-have" picks, separate from the unanimous poll: standard **blue and
+white** (with a touch of fluorescent green), and a **turquoise/seafoam**
+pattern said to have "worked really really well in the past." Also stated,
+with an explicit hedge on the location — asked about a specific island and
+answering "I assume it's Coronado Islands, maybe" without the questioner's
+location being confirmed on camera — that the Tady 45 or Salas 7X is
+"probably the first one out that you're gonna tie on" there; not asserted as
+a confirmed location per this KB's naming-only-what-the-source-names rule.
+Consistent with, and not adding a new color beyond, this note's existing
+colour-is-not-the-variable framing — these are track-record picks, not tested
+against alternatives.
 
 <!-- backlinks:start -->
 ## Linked from

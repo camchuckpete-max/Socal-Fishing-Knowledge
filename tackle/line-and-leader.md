@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc]
 confidence: medium
 ---
 
@@ -335,6 +335,20 @@ Fluoro does two different jobs; keep them separate:
   shot combo, distinct from the straight-braid mainline in the application
   table in [rod & reel selection](rod-and-reel-selection.md); see that note
   for the rest of this source's rod/reel build.
+- **A second surface-iron rigging data point, hollow spectra + a 100 ft mono
+  top shot before a fluoro leader (SearcherSportfishing, Tackle Talk Live,
+  `49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel,
+  single mention — medium confidence):** for jig fishing, either straight
+  mono or a spectra-backed setup is fine; when running spectra, **hollow
+  spectra is stated as better for bigger fish** than solid. Asked
+  specifically about running roughly **100 ft of monofilament ahead of a
+  fluorocarbon leader**, the answer was yes — the mono gives "enough
+  stretch." Main-line class: **40 lb**, "some guys like to fish 30" (personal
+  preference). The leader-to-hook connection for this build is a **20 lb
+  fluorocarbon leader** tied on with an improved clinch knot (see [improved
+  clinch knot](../rigging/improved-clinch-knot.md)) — a notably lighter
+  leader than the 40–50 lb top-shot classes logged elsewhere in this section;
+  not reconciled with them, kept as this source's own stated build.
 - **Inshore bass swimbait/crank, action-preserving leader (Jeremy — first
   name only, as addressed in the transcript's Q&A; Sav-On Tackle/IROD
   seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel —

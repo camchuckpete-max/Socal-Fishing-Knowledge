@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -334,6 +334,15 @@ while somebody is still connected.
   a heavy iron in the Salas 7X class — the product name is ASR-garbled in the
   captions, not confirmed by name). Consistent with, and a second data point
   for, this note's existing wind-up-means-heavier-iron rule above.
+  **Independent corroboration of the Tady C model name, plus a size detail
+  (SearcherSportfishing, Tackle Talk Live, `49joKHD7Umc`, 2020-06-03;
+  `searcher-sportfishing` registered channel, single mention — medium
+  confidence):** shown on camera and captioned "Taddy sees" (plural) — read
+  as **Tady C's**, consistent with the Tady→"Taddy" caption corruption
+  already tracked in this corpus — and described as **a little smaller than
+  the Tady 45**. The caption itself is still not a clean spelling of the
+  model, so this stays a corroborating data point rather than a full
+  resolution of the `asr-uncertain` flag on the entry above.
 
 ## Colour
 

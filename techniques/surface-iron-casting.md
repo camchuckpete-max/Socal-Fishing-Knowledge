@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, distance, backlash, wind]
-sources: [VpW91AKOFVQ, eL1Qm33-Mj0, 6EDQtQHEwFE, 3dVc-2rsYII, KLoEJInlmZo, IhBY5RHFvuk, 0DKmYId1NN4, ejUTAnONf7o, BLbUu_mfMJY]
+sources: [VpW91AKOFVQ, eL1Qm33-Mj0, 6EDQtQHEwFE, 3dVc-2rsYII, KLoEJInlmZo, IhBY5RHFvuk, 0DKmYId1NN4, ejUTAnONf7o, BLbUu_mfMJY, 49joKHD7Umc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -35,6 +35,15 @@ converting shots into hookups, not about landing the fish once it's on.
 - Take the rod back to a **2 o'clock** position, **let the blank load up**, then
   launch and **slowly turn the wrist through** — the sweep is 2 o'clock down to
   9 o'clock. Let the equipment unload; don't muscle it.
+- **Locating the reel on a rod with no fixed reel seat (SearcherSportfishing,
+  Tackle Talk Live, `49joKHD7Umc`, 2020-06-03; `searcher-sportfishing`
+  registered channel, single mention — medium confidence):** some jig sticks
+  built for this technique ship with no permanent reel seat. Set the reel by
+  measuring from the **crook of your elbow to the tip of your middle
+  finger** — that span, within about an inch either way, is where the reel
+  goes. Too high and you can't get your off hand in front of the reel to pull
+  on a fish once hooked; too low and the cast loses the leverage/action that
+  makes it work.
 - **Pendulum swing, not a side-arm sling (Scotty, Brothers Sportfishing, via
   Roman Castro, VpW91AKOFVQ, 2020-01-28; high confidence):** hang the jig taut
   near the reel/handle and build the swing by moving the rod tip **up and
@@ -192,6 +201,16 @@ anti these setups"*), and directly aimed at people new to the technique:
   high-ratio-reel caution in [surface iron](surface-iron.md#gear-class-detail),
   which is about *retrieve* speed, not casting. Kept side by side.
 
+## Guide material — a minor factor next to technique
+
+**SearcherSportfishing, Tackle Talk Live, `49joKHD7Umc`, 2020-06-03;
+`searcher-sportfishing` registered channel, single mention — medium
+confidence.** Asked whether rod guides or the tip guide affect casting
+distance: ceramic guides run smoother, with less resistance, than standard
+metal guides, but the stated view is that guide material "doesn't make that
+big a difference" for casting distance — **technique and practice** account
+for far more of it than a guide upgrade does.
+
 ## Line choice, as it affects the cast
 
 Braid casts well and is what all the distance demonstrations above were run on
@@ -204,6 +223,7 @@ I don't like braid."* The mono-vs-braid casting-latitude trade-off is in
 ## Linked from
 
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Surface Iron](surface-iron.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->
