@@ -2323,7 +2323,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | gQb_3MW6L9M | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: 14s music/silence clip, no fishing knowledge |
 | jH0q4UPjwC0 | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/kite-fishing.md / Added medium-confidence stated-reason block on 2-4oz sliding sinker on kite-flown bait (Alijos Rocks) |
 | jU7qi40WTzQ | SearcherSportfishing | on-the-water | decision-rationale | done | planning/trip-length-selection.md; planning/day-plan-protocol.md / new planning note: 1-day vs 3-7-day trip rationale (late-afternoon tuna bite window) |
-| kYZqFRBUDYg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| kYZqFRBUDYg | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: dockside weigh-in banter, no fishing knowledge |
 | kqsg_t5MIzY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | lYyi_Yh3S5g | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | pNNrYXlgkO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
