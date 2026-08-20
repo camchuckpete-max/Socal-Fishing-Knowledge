@@ -2153,7 +2153,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | bEFhWtGBdBU | SearcherSportfishing | tutorial | deep | done | techniques/fighting-fish-from-the-rail.md / added SearcherSportfishing Vol. 138 stance-variant content (kids/legs stance, knee stance, stated reasoning) to the existing rail-fighting technique note; fixed a registry mislabel and two faithfulness/quote issues in the working tree |
 | bbn-aJGRH5o | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / Added Norm Fujimoto's post-trip top-shot-removal and annual spectra strip/clean/reseal/wax/respool routine as a new dated subsection; fixed two named-product mentions (Swifty line remover kit, Woody's carnauba wax) that the extractor left at medium instead of the registry-mandated low for product/model endorsements |
 | cpUq7Z3UOwU | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md; techniques/two-speed-low-gear-fight.md / merged Nathan Winnicke's offshore-tuna rod-length/casting-distance rationale and two-speed bunching/corkscrewing fight rationale into the two existing gear/technique notes, cross-linked |
-| cx7tKXHmiY4 | SearcherSportfishing | tutorial | deep | pending |  |
+| cx7tKXHmiY4 | SearcherSportfishing | tutorial | deep | done | bait/making-bait.md / added long-range (3-10 day) trip bait-gear packing tip: two sabiki-style rig sizes + squid jig, medium confidence |
 | ddataaVWoDc | SearcherSportfishing | tutorial | deep | pending |  |
 | dg1sbr6GuB8 | SearcherSportfishing | tutorial | deep | pending |  |
 | dkY7wJ4UM1c | SearcherSportfishing | tutorial | deep | pending |  |

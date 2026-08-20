@@ -1,7 +1,7 @@
 ---
 type: bait
-tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c, bM2vUS1B-yQ]
+tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point, squid, long-range-trip]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c, bM2vUS1B-yQ, cx7tKXHmiY4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -68,6 +68,30 @@ program:
 Twelve-inch mackerel are big, hearty baits — heartier than sardine (see
 [fishing live bait](fishing-live-bait.md) for how bait choice plays against the
 gamefish).
+
+## Long-range trip prep — pack more than one bait-catching rig (Searcher Sportfishing, Tackle Tip Thursday Vol. 25, `cx7tKXHmiY4`, 2018-11-30; searcher-sportfishing registered, single mention — medium confidence)
+
+Framed for **3-to-10-day trips** (long-range, multi-day sportboat trips), the
+stated reason to carry your own bait-catching gear even on a boat trip where
+bait is normally supplied: at some point on a trip that long you may need to
+**supplement the boat's bait supply yourself**, and being unprepared to help
+make bait is called out on camera as a bad look ("you don't want to be that
+guy that doesn't help"). Pack:
+
+- A standard multi-hook rig — captions read **"cebiche rake"**, which does not
+  match any known rig name; it is very likely an ASR mishearing of **sabiki**
+  (flagged `asr-uncertain`) — rigged with **four or five flies**, **medium
+  size**, for **larger mackerel**.
+- A **smaller** rig of the same style for **other/smaller mackerel** species.
+- A weighted **squid jig** (captions garbled the brand/model as **"way to
+  close squid jig"** — not confirmed, flagged `asr-uncertain`) in case the
+  trip calls for making squid at some point along the way.
+
+No hook-line ratings, sinker weights, or exact rig names are given (this is
+a packing tip, not a rig spec) — it pairs with the Sea of Cortez sabiki
+line/hook ratings and the Cedros small-vs-big sizing question above: carrying
+both a medium and a small rig sidesteps having to guess in advance which size
+a given multi-day trip will call for.
 
 ## Lucky Joe rig — bait the hooks, and mackerel beats sardine for holding
 
