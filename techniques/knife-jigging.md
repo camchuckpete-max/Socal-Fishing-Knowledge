@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -298,6 +298,7 @@ whether a bite converts.
   170 ft → count out to "17," slowly, and the jig is in that range. Simpler
   but coarser than colored/marked braid or the arm-span method above — a
   fallback when line isn't marked at all, not a replacement for marking it.
+- **A fourth marking interval, plus a worked call-to-drop conversion — colored/"indicator" spectra, 30 ft per color (speaker not named on camera, possibly "Gillingham" per auto-captions — asr-uncertain; SearcherSportfishing, "Tackle Tip Thursday Vol. 67 (Heavy Outfit/Flat Fall)," `q_ciF1xiDiI`, uploaded 2019-09-26; `searcher-sportfishing` registered channel, single mention — medium confidence):** on a heavy flat-fall outfit, the spool is loaded with a colored "indicator" spectra that **changes color every 30 ft** — a fourth interval alongside the 25/50/60/100 ft intervals already logged above, and one this speaker frames as important specifically for flat-fall jigs, watching the color change (rather than counting time) to know how far down the lure is. **Worked example given on camera:** the captain ("Art" — consistent with Capt. Art Taylor, cited elsewhere in this note from other Searcher tips, though not confirmed by surname in this clip) calls the fish at **200 ft**; the angler drops **7 colors** (7 × 30 ft = **210 ft**), putting the jig "right on the fish's nose" — i.e., slightly past the called depth by the arithmetic (210 vs. 200 ft), not stopping short of it; no stated reason on camera for rounding up rather than down. Rig detail for this same clip (rod/braid/leader/jig weight) is in [Searcher big/giant tuna rig ladder — heavy flat-fall outfit, 100 lb braid/130 lb leader](../tackle/searcher-big-tuna-rig-ladder.md#heavy-flat-fall-outfit--100-lb-braid-130-lb-leader-300-g-jig-counting-depth-in-colors-speaker-not-named-on-camera-possibly-gillingham-per-auto-captions--asr-uncertain-tackle-tip-thursday-vol-67-heavy-outfitflat-fall-q_cif1xidii-uploaded-2019-09-26).
 - **Ears for the skipper, tracked continuously.** "Eyes in your mind, ears for the
   skipper" — the captain's called depth **changes fast** (e.g. "fish at 200 ft,"
   then "fish at 300 ft" two minutes later); update where you think your jig is off
@@ -681,6 +682,7 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)

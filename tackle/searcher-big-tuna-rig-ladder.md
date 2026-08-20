@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate, flyline, sinker-bait]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0, jLFZIh15Fec, pCd6QykcZ0w]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg, an_uw-5pjfw, fyJA3o2hVh0, jLFZIh15Fec, pCd6QykcZ0w, q_ciF1xiDiI]
 confidence: high
 ---
 
@@ -154,7 +154,49 @@ dated entries rather than merged.
 - **A later, more detailed flat-fall rig/set-up entry, same channel** — see
   [Flat-fall set-up — jig weight, leader, rod/reel (Capt. Art Taylor,
   2020-11-12)](#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
-  below.
+  below, and a shorter, intervening entry — see [Heavy flat-fall outfit —
+  100 lb braid, 130 lb leader, 300 g jig; counting depth in colors
+  (2019-09-26)](#heavy-flat-fall-outfit--100-lb-braid-130-lb-leader-300-g-jig-counting-depth-in-colors-speaker-not-named-on-camera-possibly-gillingham-per-auto-captions--asr-uncertain-tackle-tip-thursday-vol-67-heavy-outfitflat-fall-q_cif1xidii-uploaded-2019-09-26)
+  next.
+
+## Heavy flat-fall outfit — 100 lb braid, 130 lb leader, 300 g jig; counting depth in colors (speaker not named on camera, possibly "Gillingham" per auto-captions — asr-uncertain, "Tackle Tip Thursday Vol. 67 (Heavy Outfit/Flat Fall)," `q_ciF1xiDiI`, uploaded 2019-09-26)
+
+`searcher-sportfishing` registered channel, single-mention citation of this
+specific rig — mechanism/parameters read **medium** confidence. A 46-second
+clip: thin content, but it adds a third leader-weight data point to this
+note's flat-fall entries and a distinct depth-tracking mechanic. Falls
+chronologically between the [Vol. 54 SK/Nomad
+rig](#flat-fall-leader-rig--sk-250-g-vs-nomad-320-g-two-speed-outfit-speaker-not-named-on-camera-tackle-tip-thursday-vol-54-flat-falls-zkb13fnt6p0-uploaded-2019-06-27)
+above (2019-06-27) and the [Vol. 125 Capt. Art Taylor
+rig](#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
+below (2020-11-12).
+
+- **Outfit:** one **heavy rod** (class not further specified on camera), **100
+  lb braid**, a **130 lb leader** (material — mono or fluoro — not stated on
+  camera), and a **300 g** flat-fall-type jig (brand not named). A lighter
+  braid and leader than the **200 lb** mono/fluoro leaders logged in the
+  Vol. 3, Vol. 54, and Vol. 125 entries elsewhere in this note — kept side by
+  side, not reconciled, as this channel's own third leader-weight data point
+  for a flat-fall-class rig. The **300 g** jig weight matches the worked
+  300 g example already logged in the [Vol. 125
+  entry](#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
+  below — a corroborating, not new, weight data point.
+- **Depth-tracking method — colored "indicator" spectra, count in colors, not
+  time or a Sharpie mark:** the reel is spooled with a colored spectra that
+  changes color **every 30 ft**, described on camera as important for fishing
+  flat-fall jigs specifically — watching the color change (rather than
+  counting seconds or reading a hand-marked line) tells the angler how far
+  down the lure is. Retrieve/technique detail (a fourth marking-interval data
+  point, alongside this KB's existing 25/50/60/100 ft intervals, plus the
+  worked call-to-drop conversion below) is logged in [knife/speed jigging —
+  depth control & jig
+  calling](../techniques/knife-jigging.md#depth-control--jig-calling); this
+  entry holds only the rig it was fished on.
+- **Worked example:** the captain ("Art" on camera — consistent with Capt. Art
+  Taylor, cited elsewhere in this note from other Searcher tips, though not
+  confirmed by surname in this clip) calls the fish at **200 ft**; the angler
+  drops **7 colors** (7 × 30 ft = **210 ft**), putting the jig "right on the
+  fish's nose."
 
 ## Flat-fall set-up — jig weight, leader, rod/reel (Capt. Art Taylor, Searcher, 2020-11-12)
 
@@ -623,6 +665,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)
