@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -88,7 +88,7 @@ for locating wahoo specifically. General method:
 | Wahoo picked up **incidentally while transiting** between grounds | Run a dedicated wahoo transit lure (magnet-held hook, stated to "run true" up to ~20 kt) without slowing the boat | Trolling class | ⚠ promotional claim (lure-company owner describing his own product) — low confidence on the product claim itself; see [trolling — Magdalena Bay](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin) |
 | Wahoo hooked, **fighting it** | Wind continuously — **do not pump the rod**; slack lets a wahoo throw the hook | — | See [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo) |
 | Mixed offshore troll (tuna/dorado/marlin spread) picking up wahoo as bycatch | Standard offshore trolled spread — no wahoo-specific rigging documented beyond the wire-leader requirement | Trolling class | See [trolling — East Cape](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin) |
-| Live bait on hand, fishing it like standard live-bait bait-and-switch | Sardine on a wire leader (single- or multi-strand, **200 or 300 lb test**, small connector rings in the build), fished like any live-bait presentation; on the bite, **don't swing — wind through the bite** | [flyline class](../tackle/gear-classes.md) | Searcher Sportfishing / Fisherman's Landing, `9IhmYstB8sA` — see [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader) |
+| Live bait on hand, fishing it like standard live-bait bait-and-switch | Sardine on a wire leader (single- or multi-strand, **200 or 300 lb test**, small connector rings in the build), fished like any live-bait presentation; on the bite, **don't swing — wind through the bite** | [flyline class](../tackle/gear-classes.md) | Searcher Sportfishing / Fisherman's Landing, `9IhmYstB8sA` — see [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader). Earlier same-channel tackle tip gives an unreconciled alternate bite response — free-spool rather than wind through it — see [Doctrine & conflicts](#doctrine--conflicts) below |
 
 ## Gear summary (class terms)
 
@@ -110,6 +110,27 @@ for locating wahoo specifically. General method:
 - **Doctrine (medium — Searcher Sportfishing, `-62xDo4UQzo`):** the wahoo
   bomb and Raider jig are the two most-used cast lures for wahoo, fished on
   wire leader with a brief sink and a full-speed burn retrieve.
+- **Doctrine, live-bait bite response — attributed reasoning, sits beside (not
+  reconciled with) the "wind through the bite" row above (Searcher
+  Sportfishing, "Tackle Tip Thursday Vol. 21," `jqyu3wZdNF4`, 2018-11-08;
+  searcher-sportfishing registered channel/series, single mention — medium
+  confidence):** wahoo often take only half a live bait on the initial strike.
+  On camera, engaging the reel (putting it in gear) right after that first
+  hit is said to end the bite outright — "you don't have a bite anymore" —
+  with no specific mechanism (e.g., the bait being pulled away) stated for
+  why. The fix given: put the reel in **free spool**
+  immediately on the bite, letting the half-eaten bait sit as a **chunk
+  bait** — the wahoo is said to circle back and eat the remainder if given
+  time. Framed on camera as **the secret to wahoo live-bait fishing**: leave
+  the bait out there and trust the fish to come back around for the other
+  half. This is the earliest-dated wahoo tackle tip from this channel logged
+  anywhere in this note, and predates the "don't swing — wind through the
+  bite" doctrine from the same channel's `9IhmYstB8sA` (2019-11-14, in the
+  table above) by about a year; both describe not reacting aggressively to
+  the strike, but one calls for continuing to wind through the bite and the
+  other for free-spooling and waiting — kept side by side, not merged. Leader
+  builds from this same video are logged in
+  [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
 - **Conflict, not reconciled — cast vs. troll for the same bomb lure:** one
   angler at Alijos Rocks preferred **trolling** a bomb-style lure over a
   jig-and-reel presentation, specifically for hookup ratio on wahoo's

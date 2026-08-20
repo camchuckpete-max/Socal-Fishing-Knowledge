@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -200,6 +200,25 @@ length is given on camera for this specific leader, so it does not resolve
 any of the three wire-test figures logged above. Stated capability: this
 setup "would be perfect for live bait fishing wahoo up to 60 to 70 pounds" —
 a new, previously undocumented wahoo-size figure for this application.
+
+**A fifth data point — the earliest-dated build in this set (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 21," `jqyu3wZdNF4`, 2018-11-08; searcher-sportfishing
+registered channel/series, single mention on these specific parameters — medium
+confidence):** two leader builds shown together, both terminating in a **3/0
+hook**: a **seven-strand leader** finished with the correct crimps and sleeves,
+a small swivel, and a stated **18 in minimum** length; and a **single-strand**
+leader finished with a **haywire twist** and a small ring. The single-strand
+build is tied to a **40 lb outfit** for casting the live bait fly-lined, with
+no sinker — called on camera "one of the best methods for catching wahoo." No
+wire pound test is given for either build. This predates every other Searcher
+wahoo live-bait leader tackle tip logged in this note (`9IhmYstB8sA`,
+`S80GRyuAbLY`/`_Z4yMtrYgeA`, `G81HN0dIDg0`, `W6RuHvaqkHs` above), and its
+single-strand-gets-a-haywire-twist / seven-strand-gets-crimped construction is
+consistent with — not in tension with — this note's stated twist-vs-crimp
+split, unlike the `-62xDo4UQzo` casting-leader data point above, which
+described both stranding options as finished with "a wire twist." See
+[wahoo — bite response on live bait](../species/wahoo.md#doctrine--conflicts)
+for this same video's live-bait hookset doctrine.
 
 ## Rig it
 
