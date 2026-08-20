@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ, lf3S28nh-kk, shZCjX2-fkI]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ, lf3S28nh-kk, shZCjX2-fkI, jH0q4UPjwC0]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -48,6 +48,26 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   [flying fish harness](../rigging/flying-fish-harness.md#artificial-alternative--durable-rubber-flyer-for-trolling)
   — "eight and a half knots... that's what they eat" — a second dated data
   point for that figure from the same registered voice.
+
+## Adding a sliding sinker to a kite-flown bait (Alijos Rocks)
+
+**Stated reason** (SearcherSportfishing, `jH0q4UPjwC0`, filmed September 2010
+per the video title (upload date 2011-03-29), Alijos Rocks, Baja Pacific
+south; unidentified crew member interviewed dockside before departure — this
+clip is raw on-the-water footage, not the Tackle Tip Thursday/Tackle Talk
+Live series that qualifies `searcher-sportfishing` for `high`, so it stays
+`medium`, single mention): before heading out on a kite rig, the angler
+described adding a **2–4 oz sliding sinker** onto the kite-flown bait, citing
+advice from others ("that's what they were saying") that the slider **keeps
+the bait in the water better** (transcript does not say "down" or otherwise
+specify a depth mechanism — preserved as heard). The angler frames it as untested for
+himself ("we'll put that to the test"). No leader position, hook, or bait
+species is given on camera, and the mechanism isn't explained beyond the
+stated outcome — kept side by side with, not merged into, this note's
+dead-boat/dapping doctrine above (which flies the flyer bare, with no added
+weight) and with the separate island/bank sliding-sinker weight data in
+[sliding sinker](sliding-sinker.md), none of which describe a slider paired
+with a kite.
 
 ## Observed: kite height, distance, and troll speed (San Diego Bay / 40 mi off San Diego)
 

@@ -2321,7 +2321,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | fcdWAo0VAKw | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/flyline.md / added Observed tackle data point (40 lb test flyline, hook/brand ASR-hedged) |
 | g1C-FK6o4nA | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: crew/staff bios and galley praise only, no fishing knowledge |
 | gQb_3MW6L9M | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: 14s music/silence clip, no fishing knowledge |
-| jH0q4UPjwC0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| jH0q4UPjwC0 | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/kite-fishing.md / Added medium-confidence stated-reason block on 2-4oz sliding sinker on kite-flown bait (Alijos Rocks) |
 | jU7qi40WTzQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | kYZqFRBUDYg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | kqsg_t5MIzY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
