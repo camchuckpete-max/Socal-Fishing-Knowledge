@@ -2268,7 +2268,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Fdaq28LwK0I | SearcherSportfishing | on-the-water | decision-rationale | done | on-the-water/decision-rationale extraction — nothing extractable, transcript is banter with a bare catch count and no technique/decision content |
 | HAxYMiqkBDs | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — crew-banter/fish-fight on-the-water clip with no species/technique/decision content |
 | HCC1uhsPSas | SearcherSportfishing | on-the-water | decision-rationale | done | dockside unload footage with no fishing knowledge/decision content; correctly left unextracted |
-| HJdwm0bn0H8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| HJdwm0bn0H8 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled auto-caption banter clip, no species/technique/decision content |
 | HeRoKbDCDTw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Ibt0vdrl48E | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Ij04nagr8g8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
