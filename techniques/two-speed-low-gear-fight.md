@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -73,6 +73,25 @@ tuna outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
   from the same source (an 8 ft medium-heavy rod, favored partly for the
   extra casting distance it gives) is in [rod & reel
   selection](../tackle/rod-and-reel-selection.md#offshore-tuna-favorite-setup-rod-length-for-casting-distance-nathan-winnicke-penn-searchersportfishing).
+
+## Timing the shift — stay high through the run, drop to low once it's close and circling
+
+**A fourth, independent registered-channel citation, naming the reason to stay
+in high gear rather than just the reason to drop to low (Shane,
+SearcherSportfishing, "Tackle Tip Thursday Vol. 172 (Engaging Two-speed
+Reel)," `vn4fmPxUqsU`, 2022-03-10; `searcher-sportfishing` registered
+channel — medium confidence, single mention of this specific "stay high
+through the run" reasoning):** hook the fish with the reel in **high gear**. While a bigger
+bluefin is still out on the surface making its first long run(s), **stay in
+high gear** — the stated reason is that a fish fought like that has a high
+probability of turning and running straight back at the boat, and in low
+gear the angler can't retrieve line fast enough to keep up, producing slack.
+Only shift down once the fish comes in closer, starts working more
+**up-and-down**, and begins to **circle** — the same trigger already
+documented above from Steve Carson and Nathan Winnicke — because low gear
+is what makes it manageable to keep winding a fish that's up-and-down and
+close, under heavy drag pressure. Shane's own shorthand for the whole
+sequence: **"pop in, low; pop out, high."**
 
 ## The problem with pump-and-reel
 
