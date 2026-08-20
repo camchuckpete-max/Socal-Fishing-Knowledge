@@ -2226,7 +2226,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | wqrIs5kg1qw | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md: appended corroborating 2018 Nomad Riptide sinking-stickbait entry (sweep-and-spin, sink bite, gear); fixed imprecise date-gap phrasing during eval |
 | yGXSrUauo2w | SearcherSportfishing | tutorial | deep | done | tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md (new); species/yellowtail.md; tackle/hooks.md; tackle/searcher-30lb-large-tuna-outfit.md; techniques/sliding-sinker.md: new Carson 30lb yellowtail sliding-sinker rig note, router row + cross-links; added asr-uncertain caveat on sinker weight ladder during eval |
 | ypr-qZF4FTY | SearcherSportfishing | tutorial | deep | done | tackle/drag-setting.md: merged Part 1 (Captain Mark) — crew/priorities framing, free-spool-to-strike method (bumped to high, corroborates Vol.207), headroom-past-strike, crew-sets-drag recommendation; downgraded one unjustified high-confidence bullet to medium during eval |
-| zkA1jqHXXD0 | SearcherSportfishing | tutorial | deep | pending |  |
+| zkA1jqHXXD0 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md; techniques/sliding-sinker.md: added Captain Art surgeon's-loop connection + rail-rod rental rig build, sinker-placement/tangle-cause diagnosis, nose-hook fix, cross-linked |
 | zuAuk-Kfa1Y | SearcherSportfishing | tutorial | deep | pending |  |
 | 49joKHD7Umc | SearcherSportfishing | seminar | deep | pending |  |
 | 4uNPLknRAQg | SearcherSportfishing | seminar | deep | pending |  |

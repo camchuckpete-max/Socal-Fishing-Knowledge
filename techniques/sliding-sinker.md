@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -367,6 +367,38 @@ matches.
   loads up, **let it take** — because the line runs through the lead, you can
   give slack and let the fish turn before you come tight, rather than pulling
   against a weight it can feel.
+
+## Tangle prevention — rail-rod rental rig (Captain Art, SearcherSportfishing)
+
+Captain Art, SearcherSportfishing, "Tackle Tip Thursday Vol. 181 (Avoid
+Sinker Rig Tangles)," `zkA1jqHXXD0`, 2022-05-12; `searcher-sportfishing`
+registered channel, single mention of this specific build — medium
+confidence. Demonstrated on a **Fisherman's Landing rental outfit** — **100
+lb test** monofilament main line, a **two-speed reel**, and a **rail rod**
+(a graphite Calstar rated **60–120 lb**) — "the outfit you would use with a
+sinker rig." Hook, leader, and connection-knot build are logged in
+[essential SoCal knots — surgeon's knot, mono-to-fluoro
+connection](../rigging/essential-knots.md#when-to-use-it); the
+tangle-cause/fix content below is this video's actual subject.
+
+- **Sinker rides above the leader/main-line connection, not near the hook** —
+  the sinker slides down the main line until it hits the knot joining it to
+  the fluorocarbon leader, and stops there. That keeps the sinker from
+  sliding all the way down onto the hook.
+- **Tangle diagnosis (his own stated guess, not confirmed on camera):** if
+  the sinker rig is coming up tangled around the main line, the most likely
+  cause is **letting the rig down too quickly** — free-spooling it straight
+  down rather than feeding it out at a controlled speed.
+- **Fix:** let the rig down **a little slower, and measured to the correct
+  depth**, rather than in full free-spool.
+- **Bait hooking is the other half of the fix:** **nose-hook the bait.** A
+  bait that's belly-, collar-, or shoulder-hooked won't sink as easily on
+  this rig and will probably pull off. A further, independent citation of
+  the existing **any-weighted-rig → nose-hook** doctrine already logged in
+  [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation)
+  from other sources (Dave Hansen, Steve Carson) — here attributed to "won't
+  sink as easily / will pull off" rather than the "unnatural silhouette
+  dragged backward" mechanism given elsewhere.
 
 ## Gear class
 

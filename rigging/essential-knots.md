@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 9JnIS8HkZlA, 2O4Z0S78KLg, 3gykKyPdOvA, 5g7pK63hYnc, Aorcd0Om7eI, LpReZmYQSCU, TU5quAG4atM, UfuQr6gOIk8, dg1sbr6GuB8, eZXPqiAtqi8, fyJA3o2hVh0, qtCZAB4EBs4, zkA1jqHXXD0]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -212,6 +212,25 @@ fluoro leader, braid main line — and feed the terminal rigs in
     caution already logged for the Albright knot in [FG Knot & Albright
     Knot](fg-and-albright.md). 93-second clip; no line class, leader length,
     or application given.
+  - **A fifth, same-channel entry, this time on a sinker rig rather than a
+    bait/leader application (SearcherSportfishing, "Tackle Tip Thursday Vol.
+    181 (Avoid Sinker Rig Tangles)," presenter Captain Art, `zkA1jqHXXD0`,
+    2022-05-12; `searcher-sportfishing` registered channel, single mention of
+    this specific build — medium confidence):** ties a **~4 ft, 100 lb
+    fluorocarbon leader** to a **100 lb monofilament** main line with a
+    surgeon's loop — no turn count given on camera, and same line class on
+    both sides rather than a lighter-to-heavier step. He states explicitly
+    that **the fluorocarbon leader test can run heavier than the main-line
+    class** if wanted, though his own demo build here matches them. Tied on a
+    **Fisherman's Landing rental outfit** (100 lb mono, two-speed reel, a
+    rail rod — graphite Calstar rated 60–120 lb) with a **4/0 Super Mutu
+    circle hook**. **Sinker placement, the video's actual subject:** the
+    sliding sinker rides **above this surgeon's-loop connection** rather than
+    down near the hook, so the knot itself stops the sinker from sliding down
+    onto the hook. See [sliding sinker — tangle prevention, rail-rod rental
+    rig](../techniques/sliding-sinker.md#tangle-prevention--rail-rod-rental-rig-captain-art-searchersportfishing)
+    for the rest of this video's content (why sinker rigs tangle and the fix,
+    plus the bait-hooking half of the fix).
   - **Scaled up for giant yellowtail on long-range trips:** the same
     doubled-overhand family, tied heavier (80–100 lb) and much larger
     (about a 2 ft finished loop) as a general terminal-tackle attachment
@@ -478,6 +497,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Springer Knot — Heavy-Line Hook Tie](springer-knot.md)

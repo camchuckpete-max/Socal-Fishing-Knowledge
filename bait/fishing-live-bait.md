@@ -629,6 +629,7 @@ clips above.)
 - [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Making Bait](making-bait.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Underhand Casting](../techniques/underhand-casting.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
