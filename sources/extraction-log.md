@@ -2240,7 +2240,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | shZCjX2-fkI | SearcherSportfishing | seminar | deep | done | bait/fishing-live-bait.md; rigging/essential-knots.md; rigging/fg-and-albright.md; species/bluefin-tuna.md; tackle/hooks.md; techniques/fighting-big-bluefin.md; techniques/flat-fall-jigging.md; techniques/kite-fishing.md: bluefin tuna seminar - surgeon's knot leader length, flat-fall weight/leader, hook-downsize rule, rod-belt timing, kite rental outfit; fixed 1 temp-reading mislabel + 1 relative-time reference |
 | tpmOYXYQwhU | SearcherSportfishing | seminar | deep | done | rigging/improved-clinch-knot.md; rigging/san-diego-jam-knot.md; rigging/slim-beauty-knot.md; species/opah.md; species/yellowtail.md; tackle/rod-length-for-angler-size.md; techniques/flat-fall-jigging.md; techniques/live-bait-pendulum-cast.md: knot line-class breakpoint, opah depth/incidental corroboration, marked-yellowtail depth-bite mechanism, rod-length counter-view, flat-fall 2019 recap, cast-distance drill; fixed channel-registry mislabel in 2 notes |
 | -II7kzpklzE | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 8-second birthday-greeting clip with zero fishing content |
-| 1axjidotnfE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 1axjidotnfE | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 1-second placeholder with no ASR content |
 | 2pTRbsDwTO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 38kxKgR4q2s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 3kGAA-T8IGw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
