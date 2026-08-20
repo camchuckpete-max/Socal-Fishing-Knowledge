@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -304,6 +304,31 @@ for this presentation (down from 65 lb, after finding 50 lb still casts well
 and doesn't hang up as easily) fishing a weedless bait based on a "warhead"
 head — with the wire weed guard removed by hand ("I take the wing guard off,
 but the way they got the eye on it, they will [still run clean]").
+
+## Beach bounce in ripping current — the "stupid tube" (Tackle Express)
+
+Tackle Express, `9a-Zy_D6c3w`, "Why the 'Stupid Tube' is a Calico Bass magnet,"
+2026-05-18; unregistered channel, single short interview clip — medium
+confidence. A distinct, no-kelp-mentioned beach presentation, kept side by
+side with rather than merged into the beach-side kelp-edge casting above
+(different structure, different retrieve):
+
+- A soft-plastic tube bait the angler nicknames the **"stupid tube."** No
+  dimensions, color, or brand given on camera; his only stated reason for the
+  name is that it works simply by staying in the water — "as long as they're
+  in the water, you have a good shot at catching a fish."
+- Fished **tight to the beach** on the third day of a multi-day trip (their
+  second full day of fishing that trip), with the **current ripping**.
+- **Weight: 1.5 oz** — described as enough to hold bottom contact while
+  working the rig in **free spool**.
+- **Retrieve: bounce it off the bottom.** Each bounce, the current swept the
+  bait **5 to 10 ft further** down-current before the next bounce, rather than
+  winding it back.
+- **Result:** "calicos every cast" that session.
+
+No leader, hook, or exact beach location given, and no structure (kelp, sand,
+rock) named beyond "tight to the beach" — record as a beach-current
+bottom-bounce data point rather than generalized doctrine.
 
 ## Flipping the kelp canopy (Observed, Aaron Martens & Benny Florentino)
 

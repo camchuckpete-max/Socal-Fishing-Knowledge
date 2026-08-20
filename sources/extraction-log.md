@@ -2410,7 +2410,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9-UtAaSacsc | Tackle Express | tutorial | parameter-skim | done | none / 71s holiday gift-guide promo naming Shimano/Mustad pliers with generic features, no SoCal/Baja decision content |
 | 9MzNNwHiBXs | Tackle Express | tutorial | parameter-skim | done | species/white-seabass.md; tackle/tackle-express-charter-bait-tank-hook-kit.md / fin-bait-backup hook parameters (squid unavailable/weather) merged, ASR-uncertain hook sizes flagged not asserted |
 | 9_iox_eRhpg | Tackle Express | tutorial | parameter-skim | done | none / 36s Damiki freshwater bass tackle promo, no SoCal/Baja saltwater content |
-| 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | pending |  |
+| 9a-Zy_D6c3w | Tackle Express | tutorial | parameter-skim | done | species/calico-bass.md; techniques/swimbaits.md / Beach bounce in ripping current stupid tube technique variant, unregistered channel medium confidence |
 | 9ekSBpLG0GA | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9hXW9JCffsU | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9kGpcEHqIUc | Tackle Express | tutorial | parameter-skim | pending |  |
