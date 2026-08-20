@@ -2458,7 +2458,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Fj1-SsbksRM | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 35s fragment on Damiki Vault blade bait, generic/freshwater-bass content with no SoCal-specific parameter |
 | G8HNjPiaOjU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / parameter-skim merge of built-different rationale into existing tip-pull diagnostic, flagged as likely re-cut of DfLcSS-J3g4 (not independent confirmation) |
 | Ga8Z1PyBqdE | Tackle Express | tutorial | parameter-skim | done | rigging/essential-knots.md / fifth corroborating data point on uni-to-uni: wrap count, tag length, cinch sequence |
-| GchQpXW2jI0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| GchQpXW2jI0 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 29s teaser clip, product name-drop with no extractable content |
 | GeydGK-62fw | Tackle Express | tutorial | parameter-skim | pending |  |
 | H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | pending |  |
 | HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | pending |  |
