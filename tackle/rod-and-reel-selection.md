@@ -263,7 +263,11 @@ counterpart — a Turner's Outdoorsman tackle shop associate's high-end vs.
 budget bluefin reel/rod picks by price, including a Talica 20 + Phoenix rod
 pairing that corroborates this note's own Talica 20 + Phoenix Black Diamond
 build above — is logged in [bluefin retail setup, high-end vs.
-budget](bluefin-retail-setup-high-end-vs-budget.md).
+budget](bluefin-retail-setup-high-end-vs-budget.md). A third, independent
+Searcher-channel citation of this same **1.5-day-to-multi-day, two-speed-is-a-
+must** framing, extended out to a 4-day ceiling and built around a full
+three-outfit minimum quiver, is in [Searcher three-outfit minimum
+quiver](searcher-three-outfit-minimum-quiver.md).
 
 ## Offshore tuna favorite setup — rod length for casting distance (Nathan Winnicke, Penn, SearcherSportfishing)
 
@@ -925,6 +929,7 @@ a bluefin).
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)

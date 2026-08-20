@@ -85,6 +85,10 @@ loaner-gear picks at two points on the size ladder:
   Thursday format: a Turner's Outdoorsman tackle shop associate's Penn Fathom
   two-speed 40 pick for a customer's own retail purchase, vs. this note's
   Penn Fathom 30/60 as Searcher's own boat loaner gear.
+- [Searcher three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md) —
+  a later, independent citation pairing this same Penn Fathom 60 two-speed
+  with a Seeker OSP 1x3 rail rod as the heavy outfit of a minimum
+  three-outfit quiver for a 1.5- to 4-day trip.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -92,4 +96,5 @@ loaner-gear picks at two points on the size ladder:
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 <!-- backlinks:end -->

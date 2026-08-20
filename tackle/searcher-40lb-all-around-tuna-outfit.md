@@ -116,6 +116,7 @@ in both directions.
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

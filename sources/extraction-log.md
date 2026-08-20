@@ -2183,7 +2183,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | k4U3ETqmlEc | SearcherSportfishing | tutorial | deep | done | tackle/searcher-50-60-80lb-flyline-outfit.md; species/bluefin-tuna.md; tackle/searcher-big-tuna-rig-ladder.md / new note for Steve Carson's 50/60/80 lb flyline outfit, cross-linked as earlier citation of Rig 1, new gear-summary bullet on bluefin-tuna.md |
 | kdEKEyVTIGU | SearcherSportfishing | tutorial | deep | done | none / promo for shoreside fish-processing vendor (Five Star Fish Processing), no SoCal/Baja fishing knowledge, correctly skipped |
 | kuvfoJKpLYU | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / added pre-trip mono top-shot visual test and spectra fray-check, medium confidence |
-| kzpeM56Gh7o | SearcherSportfishing | tutorial | deep | pending |  |
+| kzpeM56Gh7o | SearcherSportfishing | tutorial | deep | done | tackle/searcher-three-outfit-minimum-quiver.md; tackle/gear-classes.md; tackle/rod-and-reel-selection.md; tackle/searcher-big-tuna-rig-ladder.md; tackle/searcher-lever-drag-reel-sizing.md / new note: 3-outfit minimum quiver for a 1.5-4 day Searcher trip, cross-linked as third citation of OSP 1x3/Fathom 60 rail-rod pairing |
 | m2g97MxmAGI | SearcherSportfishing | tutorial | deep | pending |  |
 | m424-XxCFQw | SearcherSportfishing | tutorial | deep | pending |  |
 | nAGkYWuJrCI | SearcherSportfishing | tutorial | deep | pending |  |

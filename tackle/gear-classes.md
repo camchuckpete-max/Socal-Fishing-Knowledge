@@ -111,7 +111,14 @@ and [flat-fall jigging](../techniques/flat-fall-jigging.md). A second,
 independent citation of the same Penn Fathom 60 two-speed on a Searcher rail
 rod — general "bigger fish" and bottom dropper-loop yellowtail rather than
 flat-fall bluefin, plus a smaller Fathom 30 loaner-reel data point — is in
-[Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md).
+[Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md). A
+**third** independent citation of the Seeker OSP 1x3 paired with a Penn
+Fathom 60 two-speed — this time as the heavy outfit of a **minimum
+three-outfit quiver for a 1.5- to 4-day trip**, with swappable 60/80 lb top
+shots for live bait vs. flat-fall/dropper-loop — is in [Searcher
+three-outfit minimum quiver](searcher-three-outfit-minimum-quiver.md), which
+also independently corroborates this section's own 1.5-day/3-day trip-length
+framing.
 
 ## Line classes
 
@@ -194,6 +201,7 @@ does the lookup.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

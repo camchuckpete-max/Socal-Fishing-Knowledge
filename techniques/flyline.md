@@ -769,6 +769,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](../rigging/seaguar-knot.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
