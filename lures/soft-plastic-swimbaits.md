@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -140,6 +140,18 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   Corroborates, rather than adds beyond, the 5–7 in sizing and the 0.5 oz–1.5
   oz lead-head weight range already logged above from the separate
   StokedOnFishing Cedros/Gono Islands trip (`XwwIvPFxRiQ`).
+- **Rapala Crush City Mooch Minnow — subtle fork-tail profile for a slower,
+  more natural fall (Tackle Express, `2Ee2DFZ9Wk4`, 2025-02-21; unregistered
+  channel, single mention — medium confidence):** a shad-baitfish-imitation
+  soft plastic built like a paddle-tail swimbait but with a smaller, weaker
+  **fork tail** in place of a full paddle, so it kicks less — framed as a
+  more natural presentation for local (SoCal) fish. The Crush City material
+  is described as extremely **stretchy, buoyant, and durable**; paired with a
+  **lighter jig head**, the buoyancy slows the fall, which the presenter likes
+  for fishing the **more suspended area** of the water column — the same
+  application he reaches for [flukes](bay-bass-plastics.md) for, calling the
+  two "very very similar" in that use. No specific species, jig-head weight,
+  or location named on camera.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 - **Kicker "booty spin" on a War Baits neck-breaker head** (Lane, Time On The
