@@ -2315,7 +2315,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | b9JThf2Jm0s | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 50s generic trip recap, no location/technique/gear/decision-reasoning |
 | cjbAQ20Q9bQ | SearcherSportfishing | on-the-water | decision-rationale | done | none / no destinations: 97s dockside catch-celebration clip, no fishing content |
 | ck6REMbJkww | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: auto-generated captions too garbled/content-free to support extraction |
-| drARx5Fpy-s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| drARx5Fpy-s | SearcherSportfishing | on-the-water | decision-rationale | done | none / correctly skipped: 29s auto-caption clip, no extractable fishing content |
 | eIAKA8Jgopk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | fHtTbZAWz1g | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | fcdWAo0VAKw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
