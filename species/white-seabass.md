@@ -248,6 +248,7 @@ into the spot once the current read right.
 ## Linked from
 
 - [California Halibut](california-halibut.md)
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)

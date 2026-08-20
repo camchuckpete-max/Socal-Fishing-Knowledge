@@ -2203,7 +2203,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | q_ciF1xiDiI | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md; techniques/knife-jigging.md / Thin 46s clip split into rig detail (tackle) and depth-tracking mechanic (technique); speaker name hedged asr-uncertain; one minor invented-intent phrase fixed |
 | qtCZAB4EBs4 | SearcherSportfishing | tutorial | deep | done | rigging/essential-knots.md / third wrap-count data point (5-wrap rule, 3 shown) added to existing uni-to-uni bullet, medium confidence, no new note needed |
 | r9bF3VtzDUg | SearcherSportfishing | tutorial | deep | done | species/calico-bass.md; techniques/swimbaits.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md / faithful extraction of Doug Kearn's calico bird/flip sign and plastics tackle spec; evaluator restored a dropped surface-iron rod/reel claim into its correct existing home and added a bird-reading cross-link |
-| rFmWrp-Vndo | SearcherSportfishing | tutorial | deep | pending |  |
+| rFmWrp-Vndo | SearcherSportfishing | tutorial | deep | done | rigging/cut-loop-dropper.md; techniques/dropper-loop.md; rigging/essential-knots.md / new cut-loop surgeon's-loop dropper variant extracted and linked from its router and knots note |
 | rNiQKb3sCh4 | SearcherSportfishing | tutorial | deep | pending |  |
 | riEkdu8PEds | SearcherSportfishing | tutorial | deep | pending |  |
 | rziFyx7SRGI | SearcherSportfishing | tutorial | deep | pending |  |

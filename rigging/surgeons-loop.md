@@ -192,6 +192,7 @@ jam knot hook attachment).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

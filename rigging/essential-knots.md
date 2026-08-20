@@ -217,6 +217,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
     (about a 2 ft finished loop) as a general terminal-tackle attachment
     point — see [Surgeon's Loop](surgeons-loop.md) for the dedicated build,
     kept as its own note rather than grown here.
+  - **Cut off-center instead of left intact:** a further variant ties the same
+    3-to-4-turn surgeon's loop, then cuts the loop itself unevenly into a
+    short leg (hook) and a long leg (sinker) rather than tying the hook onto
+    an intact loop — see [Cut-Loop Surgeon's Loop](cut-loop-dropper.md) for
+    the dedicated build, kept as its own note rather than grown here.
 - **Worm knot (connection)** — ties a monofilament topshot directly onto the
   loop of an already-tied [Bimini twist](bimini-twist.md) double line; the
   specific connection knot for the "topshot on rail-rod big-tuna setups" use
@@ -458,6 +463,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 
 - [Bimini Twist — 100% Double-Line Loop](bimini-twist.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

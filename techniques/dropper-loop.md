@@ -36,6 +36,13 @@ this note owns the rig and the retrieve.
 - Weight and depth track the target: **rock cod → heavier sinker, deeper water;
   seabass → lighter sinker**; if the **current is heavy, up the weight** to hold
   bottom. It is the same rig across species — only the lead changes.
+- **Cut-loop variant — the loop as a means to two legs, not a hook mount
+  (SearcherSportfishing, `rFmWrp-Vndo`, 2022-02-10; single mention —
+  medium confidence):** tie a 3-to-4-turn surgeon's loop, then cut it
+  off-center into a short leg (to the hook) and a long leg (to the sinker)
+  instead of leaving it intact — full build in [Cut-Loop Surgeon's
+  Loop](../rigging/cut-loop-dropper.md), shown for Guadalupe Island yellowtail
+  and white seabass but framed on camera as general-purpose.
 - **Single-hook rockfish version, surgeon's knot loop (StokedOnFishing,
   eEcRPEoG4DQ, 2018-08-28; unregistered channel — medium confidence):** a
   simple one-hook rockfish dropper, loop tied with a **surgeon's knot**
@@ -390,6 +397,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)

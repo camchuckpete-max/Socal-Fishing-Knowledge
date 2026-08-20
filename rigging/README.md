@@ -8,6 +8,7 @@
 - [Bimini Twist — 100% Double-Line Loop](bimini-twist.md) **[SoCal only]** — A double-line/loop knot, not a hook tie or a line-to-line connection like the rest of the essential SoCal knots family — it ties a doubled section of line into
 - [Bluefin Bite Leaders](bite-leaders.md) **[SoCal only]** — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — described as the most critical part of a bluefin knife-jig setu
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md) — A crimp sleeve is a metal tube slid over doubled leader (or over leader plus a hook/swivel eye) and mechanically compressed with a crimping tool, joining the tw
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md) — A dropper-loop variant that skips tying a separate hook-to-loop knot: tie a 3-to-4-turn surgeon's loop, then cut the loop itself off-center so it stops being a
 - [Double Trouble Rig](double-trouble-rig.md) — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
 - [Essential SoCal Knots](essential-knots.md) **[SoCal only]** — The short list of knots that cover a SoCal sport-boat or private-boat day: terminal knots that tie line to a hook or lure (Palomar, San Diego jam, loop knot), a
 - [FG Knot & Albright Knot](fg-and-albright.md) **[SoCal only]** — Two braid-to-leader connection knots that solve different problems.
@@ -42,78 +43,82 @@ graph LR
   n1["Bimini Twist — 100% Double-Line Loop"]
   n2["Bluefin Bite Leaders"]
   n3["Crimping — Sleeve Crimps for Heavy Leaders"]
-  n4["Double Trouble Rig"]
-  n5["Essential SoCal Knots"]
-  n6["FG Knot & Albright Knot"]
-  n7["Flying Fish Harness"]
-  n8["Haywire Twist"]
-  n9["Hollow-Core Splice & Serving"]
-  n10["Improved Clinch Knot — Single-Pass Hook Tie"]
-  n11["John Collins Knot — Braid to Mono/Fluoro Splice"]
-  n12["Leadhead Mods & Rigging"]
-  n13["Perfection Loop Knot — Sliding-Loop Hook Tie"]
-  n14["Rubber-Band Deep Rig"]
-  n15["San Diego Jam Knot — Doubled and Single-Pass Terminal Tie"]
-  n16["San Diego Jam — Single vs. Double, and When to Use Each"]
-  n17["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
-  n18["Slim Beauty Knot — Spectra-to-Topshot Splice"]
-  n19["Springer Knot — Heavy-Line Hook Tie"]
-  n20["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n21["Tony Pena Knot — Mono-to-Spectra Splice"]
-  n22["Trap Rig"]
-  n23["Tuna Feather Rig"]
-  n24["Wind-On Leader"]
-  n25["Wiring a Surface Iron"]
-  n1 --> n24
-  n1 --> n5
-  n10 --> n11
-  n10 --> n14
-  n10 --> n15
-  n10 --> n5
-  n11 --> n19
-  n11 --> n21
-  n11 --> n24
-  n11 --> n5
-  n13 --> n10
-  n13 --> n5
-  n14 --> n15
-  n14 --> n19
-  n14 --> n3
-  n14 --> n5
-  n15 --> n10
+  n4["Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute"]
+  n5["Double Trouble Rig"]
+  n6["Essential SoCal Knots"]
+  n7["FG Knot & Albright Knot"]
+  n8["Flying Fish Harness"]
+  n9["Haywire Twist"]
+  n10["Hollow-Core Splice & Serving"]
+  n11["Improved Clinch Knot — Single-Pass Hook Tie"]
+  n12["John Collins Knot — Braid to Mono/Fluoro Splice"]
+  n13["Leadhead Mods & Rigging"]
+  n14["Perfection Loop Knot — Sliding-Loop Hook Tie"]
+  n15["Rubber-Band Deep Rig"]
+  n16["San Diego Jam Knot — Doubled and Single-Pass Terminal Tie"]
+  n17["San Diego Jam — Single vs. Double, and When to Use Each"]
+  n18["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
+  n19["Slim Beauty Knot — Spectra-to-Topshot Splice"]
+  n20["Springer Knot — Heavy-Line Hook Tie"]
+  n21["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n22["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n23["Trap Rig"]
+  n24["Tuna Feather Rig"]
+  n25["Wind-On Leader"]
+  n26["Wiring a Surface Iron"]
+  n1 --> n25
+  n1 --> n6
+  n10 --> n25
+  n11 --> n12
+  n11 --> n15
+  n11 --> n16
+  n11 --> n6
+  n12 --> n20
+  n12 --> n22
+  n12 --> n25
+  n12 --> n6
+  n14 --> n11
+  n14 --> n6
   n15 --> n16
-  n15 --> n18
-  n15 --> n5
-  n16 --> n15
-  n17 --> n10
-  n17 --> n14
-  n17 --> n5
-  n18 --> n5
+  n15 --> n20
+  n15 --> n3
+  n15 --> n6
+  n16 --> n11
+  n16 --> n17
+  n16 --> n19
+  n16 --> n6
+  n17 --> n16
+  n18 --> n11
+  n18 --> n15
   n18 --> n6
-  n19 --> n5
+  n19 --> n6
+  n19 --> n7
   n2 --> n3
-  n20 --> n15
-  n20 --> n5
-  n21 --> n5
-  n24 --> n1
-  n25 --> n8
-  n3 --> n15
+  n20 --> n6
+  n21 --> n16
+  n21 --> n6
+  n22 --> n6
+  n25 --> n1
+  n26 --> n9
+  n3 --> n16
   n3 --> n2
-  n3 --> n8
-  n5 --> n1
-  n5 --> n10
-  n5 --> n11
-  n5 --> n13
-  n5 --> n14
-  n5 --> n15
-  n5 --> n17
-  n5 --> n18
-  n5 --> n19
-  n5 --> n20
-  n5 --> n21
-  n5 --> n24
-  n5 --> n6
-  n8 --> n3
-  n9 --> n24
+  n3 --> n9
+  n4 --> n21
+  n4 --> n6
+  n6 --> n1
+  n6 --> n11
+  n6 --> n12
+  n6 --> n14
+  n6 --> n15
+  n6 --> n16
+  n6 --> n18
+  n6 --> n19
+  n6 --> n20
+  n6 --> n21
+  n6 --> n22
+  n6 --> n25
+  n6 --> n4
+  n6 --> n7
+  n9 --> n3
 ```
 <!-- mermaid:end -->
