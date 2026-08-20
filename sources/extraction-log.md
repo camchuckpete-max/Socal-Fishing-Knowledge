@@ -2348,7 +2348,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | yidQY2NeXtM | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: boat-maintenance/crew-intro clip, no fishing content |
 | zKovnvOwlFc | SearcherSportfishing | on-the-water | decision-rationale | done | rigging/surgeons-knot-mono-to-fluoro.md; rigging/essential-knots.md / 14th surgeon's-knot citation (guide-clearance rule, 60-80lb ceiling, tie-speed) + 4th uni-to-uni wrap-count citation + speed-vs-cosmetics decision-rationale; fixed stale citation-count cross-reference |
 | -BCEGxojaT4 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 10s pigeon joke clip, no fishing content |
-| -FQ3cSdvnK0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| -FQ3cSdvnK0 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 23s ASR fragment, no gaff-specific content beyond existing doctrine |
 | -KHdjYwefmM | Tackle Express | tutorial | parameter-skim | pending |  |
 | -Ocrnb4rmMo | Tackle Express | tutorial | parameter-skim | pending |  |
 | -zw76Sh7YCI | Tackle Express | tutorial | parameter-skim | pending |  |
