@@ -2199,7 +2199,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | pQ9kGqgsX8I | SearcherSportfishing | tutorial | deep | done | techniques/wind-in-your-face-positioning.md; bait/fishing-live-bait.md; techniques/rod-handling-live-bait.md; techniques/underhand-casting.md / New technique note on windward-rail positioning during multi-angler drift stops, cross-linked from three related technique/bait notes, link-maintenance clean |
 | pm8u6qUrVUI | SearcherSportfishing | tutorial | deep | done | lures/knife-jigs.md; lures/tuna-poppers-and-stickbaits.md / applied with one fix: removed an invented wind/casting rationale not supported by the ASR-garbled transcript, everything else faithful |
 | ptoIvB2MspE | SearcherSportfishing | tutorial | deep | done | tackle/searcher-finesse-live-bait-outfit.md; species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md; tackle/hooks.md / new finesse-outfit note (20 lb + 15 lb step-down) plus corroboration/discrepancy notes added to the bluefin rig ladder, hooks, and species router |
-| qBP3qRnK4H4 | SearcherSportfishing | tutorial | deep | pending |  |
+| qBP3qRnK4H4 | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / sixth dated Searcher instance of the pull-through/simple rubber-band sinker rig added (6-8 oz torpedo sinker, nose-hooked sardine, crew-called depth for bluefin); evaluator hedged an overconfident build-identification claim and flagged it asr-uncertain |
 | q_ciF1xiDiI | SearcherSportfishing | tutorial | deep | pending |  |
 | qtCZAB4EBs4 | SearcherSportfishing | tutorial | deep | pending |  |
 | r9bF3VtzDUg | SearcherSportfishing | tutorial | deep | pending |  |

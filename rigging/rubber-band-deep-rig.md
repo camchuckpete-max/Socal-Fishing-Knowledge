@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM, qBP3qRnK4H4]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -217,6 +217,31 @@ drop-shot/brawler build logged in its own section below.
     side of the knot is meant, so this is flagged `asr-uncertain` rather than
     assumed identical to the above-the-knot placement documented elsewhere in
     this note.
+- **Sixth dated instance, chronologically second (right after Vol. 55,
+  before Vol. 84) (SearcherSportfishing, `qBP3qRnK4H4`, "Tackle Tip Thursday
+  Vol. 71 (Sinker rig fishing)," 2019-10-24; presenter not named on camera,
+  captions sparse on this 69-second clip; `searcher-sportfishing` registered,
+  and this is now a sixth dated instance of the same mechanic from this
+  channel — high confidence for the mechanic itself).** A very short tip
+  walking what reads as the pull-through/simple build rather than the
+  wrapped/bridled one — only a single eye and a single loop-through are
+  described, with no mention of wrapping the band around the sinker body or
+  a second (bottom) hole: feed the rubber band through the sinker's eye,
+  form a loop, pass the sinker back through itself/the loop and draw it
+  down, then do the same loop-through motion onto the mainline to secure
+  the sinker to the line — closest to Carson's simple-build description
+  above, though the captions are too sparse on this short clip to confirm
+  which build it is beyond doubt, so that identification is flagged
+  `asr-uncertain`. Target stated on camera as bluefin tuna; bait is a
+  nose-hooked live sardine.
+  **Sinker size:** **6–8 oz** torpedo sinker, called out as what "you need
+  ... in your tackle box these days" — a data point at the heavier end of
+  the 4–8 oz range already logged above, in range with the 6–16 oz carried
+  in the Turner's Outdoorsman build further below. **Depth:** drop to
+  whatever depth the captain calls out on the sounder — no specific figure
+  given, consistent with the crew-directed-depth pattern already logged
+  throughout this note. Restates the always-nose-hook-for-a-sinker-rig rule
+  already logged above and below.
 
 ## Depth-target detail — a fourth Searcher data point (Steve Carson, Vol. 59, 2019-10-16)
 
