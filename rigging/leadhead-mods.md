@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -98,6 +98,22 @@ small fish chewing/stealing the bait — swing on that and you just pull the
 bait off the hook; a **held, building pressure** on the line is the cue the
 crew gave for swinging on **white seabass and yellowtail**.
 
+**Working it mid-column when fish aren't pinned to the bottom (Tackle Express,
+2025-04-25, `0PAPH1uqk4A`; unregistered channel — medium confidence).**
+Framed on camera as the same general concept as a sliding-sinker soak, used
+when fish are sitting **mid-column** rather than on the bottom: rig a full
+squid on the leadhead, flick it out behind the boat, and let it sink back.
+The presenter wants **some current present** specifically so the bait drifts
+back and away from the boat rather than dropping straight down under it.
+Work the column from up near the surface down to whatever depth the skipper
+is calling the fish at. Hold steady tension on the free-spool the whole way
+down — the aim is a slow, natural drift/dance with the current,
+not a straight drop "like a rock," so the squid looks enticing rather than
+dead weight. Once the bait has reached a distance/depth judged sufficient,
+engage the reel and work it with a **"wind and pop"** of the rod tip — a
+series of short pops/flicks meant to kick the squid's tail — to try to turn
+a curious fish into a biter.
+
 ### Dockside leadhead selection and fishing (F-vOTerdulU)
 
 - Used for seabass, halibut, and yellowtail on squid nests around the Channel
@@ -119,6 +135,7 @@ crew gave for swinging on **white seabass and yellowtail**.
 Modifying leadheads: https://www.youtube.com/watch?v=RXb0HvVwqO4
 Leadhead + squid for white seabass: https://www.youtube.com/watch?v=Xr4nURK-Z48
 Dockside leadhead: https://www.youtube.com/watch?v=F-vOTerdulU
+How & when to fish leadhead + squid (mid-column): https://www.youtube.com/watch?v=0PAPH1uqk4A
 
 <!-- backlinks:start -->
 ## Linked from
