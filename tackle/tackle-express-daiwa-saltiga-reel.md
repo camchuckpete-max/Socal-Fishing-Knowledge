@@ -42,6 +42,11 @@ in this clip.
 
 ## Related
 
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — reel spec comparison (Tackle
+  Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — a
+  different, later Tackle Express Saltiga clip that names an actual model
+  (the 35) with weight, line capacity, drag, and gear-ratio figures this
+  general-features clip doesn't give.
 - [Reel & rod maintenance](reel-maintenance.md) — general corrosion-prevention
   and bearing/gear care discipline (rinse, dry, grease) that this reel's CRBB
   bearings and Digigear system sit alongside as a manufacturing claim rather
@@ -57,5 +62,6 @@ in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->

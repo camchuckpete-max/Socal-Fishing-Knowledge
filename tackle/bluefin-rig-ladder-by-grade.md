@@ -527,6 +527,7 @@ between the two talks.
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)

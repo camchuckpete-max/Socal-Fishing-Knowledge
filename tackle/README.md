@@ -51,6 +51,7 @@
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — Tackle Express, "Daiwa Saltiga 35 vs.
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Tackle Express, "How to Catch a Trophy Bluefin Tuna on a Jig" (James, on camera; DuNkl8F45NE, uploaded 2022-06-04).
 <!-- index:end -->
@@ -59,5 +60,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 49 notes exceed the 30-node cap._
+_Map skipped: 50 notes exceed the 30-node cap._
 <!-- mermaid:end -->

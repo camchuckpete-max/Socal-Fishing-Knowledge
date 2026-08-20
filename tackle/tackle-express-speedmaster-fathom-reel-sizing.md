@@ -86,10 +86,16 @@ with the ladder above rather than combined into a single parameter:
   rail-rod/heavy-tuna class).
 - [Star drag vs. lever drag](star-drag-vs-lever-drag.md) — both the
   Speedmaster and Fathom lines named here are two-speed lever-drag reels.
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — reel spec comparison (Tackle
+  Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — the same
+  channel's comparable two-speed-reel spec format, a different pair of named
+  models (weight, drag, and gear ratio rather than this note's line-class
+  tiers).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)

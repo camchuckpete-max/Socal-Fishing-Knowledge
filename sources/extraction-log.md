@@ -2442,7 +2442,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | DfLcSS-J3g4 | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md; tackle/composite-rod-blank-construction.md; tackle/drag-setting.md; tackle/rod-action-testing-technique.md; tackle/rod-length-for-angler-size.md; tackle/rod-blank-and-component-materials.md (new) / beginner 30lb bait-stick buying guide merged across 6 notes |
 | DuNkl8F45NE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md (new); tackle/tackle-express-night-bluefin-tg-jig-rig.md; techniques/two-speed-low-gear-fight.md; species/bluefin-tuna.md / trophy-bluefin jig outfit, pinwheel fight-timing, fixed phantom Talica 25 to Avet HXW |
 | DvhRMHw57c4 | Tackle Express | tutorial | parameter-skim | done | none / skipped: no extractable content (15s reaction-only clip) |
-| E273T9jAmpg | Tackle Express | tutorial | parameter-skim | pending |  |
+| E273T9jAmpg | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md (new) / spec comparison, weight/capacity/drag/gear-ratio, cross-linked |
 | E4CDqBFOaP8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | E4H9QB7UBbU | Tackle Express | tutorial | parameter-skim | pending |  |
 | EVqKoSZK5Dk | Tackle Express | tutorial | parameter-skim | pending |  |

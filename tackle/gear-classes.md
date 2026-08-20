@@ -200,6 +200,10 @@ below rate normally):**
   Speedmaster vs. Penn Fathom two-speed reels, local offshore tuna/yellowtail/
   rockfish): see [Speedmaster vs. Fathom — reel-size
   ladder](tackle-express-speedmaster-fathom-reel-sizing.md).
+- **A named-model spec comparison at the rail-rod/heavy-tuna tier** (Daiwa
+  Saltiga 35 vs. Shimano Talica 12 — weight, line capacity, drag, and gear
+  ratio, no application named): see [Saltiga 35 vs. Talica 12 — reel spec
+  comparison](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md).
 - **A San Diego-specific two-speed gear-ratio retune** (Penn Fathom II 40
   Narrow: high gear raised for wahoo, low gear lowered for grinding big
   bluefin) plus the new Penn Authority spinning reel's SoCal-recommended size:
@@ -248,6 +252,7 @@ does the lookup.
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
+- [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
