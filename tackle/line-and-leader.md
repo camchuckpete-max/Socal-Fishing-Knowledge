@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs]
 confidence: medium
 ---
 
@@ -461,6 +461,15 @@ able to break off** (aXF0bxAFtU0):
   catches coming in. See [essential knots](../rigging/essential-knots.md).
 - If you like a longer leader through the guides, use a **minimum guide size of 8**
   — many bass rods have size-6 guides that aren't leader-friendly.
+- **Match the rated size across a mono-to-fluoro join** (Izorline, knot-tying
+  booth, Fred Hall Show, via SearcherSportfishing "Tackle Tip Thursday Vol. 38
+  (fluorocarbon)," `ew7Lru8wmQs`, 2019-03-08; `searcher-sportfishing`
+  registered channel/series, single mention — medium confidence): when tying
+  monofilament to fluorocarbon, use the **same rated size on both sides of the
+  knot** — the tip is stated flatly as "don't change that, otherwise it'll
+  lose your fish." No knot name, specific size, or mechanism (diameter vs.
+  breaking strength) given in source; kept as a standalone parameter alongside
+  the double-uni and FG-knot guidance above rather than merged into either.
 
 <!-- backlinks:start -->
 ## Linked from
