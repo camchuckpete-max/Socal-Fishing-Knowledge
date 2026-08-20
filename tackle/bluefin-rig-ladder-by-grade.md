@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, line-class, rod-reel-ladder, finesse, circle-hook, two-speed, drag, penn, san-diego, jigging, pe-rating, slow-pitch, speed-jig, albacore]
-sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8]
+sources: [9JnIS8HkZlA, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, dg1sbr6GuB8, dkY7wJ4UM1c]
 confidence: medium
 ---
 
@@ -283,10 +283,19 @@ do-it-all rig. Read alongside, not merged with, the Steve Carson ladder above
   for being thin-diameter and strong, which helps the rig stay vertical in a
   fast drift and reach depth faster. **Mark unmarked Spectra** every 100 or
   50 ft with a Sharpie (a Rapala line counter helps measure it off the back
-  of the boat); pre-marked multicolor braid (captioned "Izorline" —
-  asr-uncertain on the exact brand) that changes color every 100 ft is the
-  alternative. He marks line even on inshore yellowtail jigs at the islands
-  for the same reason — always knowing exactly where the lure/bait is.
+  of the boat); pre-marked multicolor braid that changes color every 100 ft
+  is the alternative. He marks line even on inshore yellowtail jigs at the
+  islands for the same reason — always knowing exactly where the lure/bait is.
+  **Brand and spec confirmed** (Norm Fujimoto, Izorline, via
+  SearcherSportfishing "Tackle Tip Thursday Vol. 194," `dkY7wJ4UM1c`,
+  2022-08-25; `searcher-sportfishing` registered voice, but this segment is a
+  branded product spot — low confidence per the sponsored-claim rule; resolves
+  the earlier asr-uncertain brand flag that sat on this line): Izorline's
+  multicolored Spectra runs **six colors, each 100 ft long**. The worked
+  example given on camera is a captain calling "drop it 300 feet" — the
+  angler counts **three color changes going by, then stops**, and is 300 ft
+  down. Same 100-ft-per-color counting mechanism as the manual-marking
+  doctrine above, just pre-marked at the factory.
 - **Knife-jig setup — a PE 4–8 rod as the one-rod answer.** His pick if
   buying only one rod to cover everything: a rod rated **PE 4–8** (PE × 10 =
   approximate lb-test, so **40–80 lb**), fishing **jigs from about 150 g up**
@@ -474,6 +483,7 @@ between the two talks.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
+- [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)

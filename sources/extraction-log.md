@@ -2156,7 +2156,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | cx7tKXHmiY4 | SearcherSportfishing | tutorial | deep | done | bait/making-bait.md / added long-range (3-10 day) trip bait-gear packing tip: two sabiki-style rig sizes + squid jig, medium confidence |
 | ddataaVWoDc | SearcherSportfishing | tutorial | deep | done | tackle/searcher-lever-drag-reel-sizing.md; tackle/gear-classes.md; tackle/rod-and-reel-selection.md / new low-confidence sponsored-content note on Penn Fathom 30/60 two-speed sizing, cross-linked from gear-classes and rod-and-reel-selection; fixed a misquote and an unsupported ASR-based inference |
 | dg1sbr6GuB8 | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-rig-ladder-by-grade.md; rigging/essential-knots.md / third independent citation of Steve Carson's 4-turn/20-100 lb surgeon's-knot rule plus a corroborating second citation of Rig 1 (reel/rod/leader/hook match, backing-line and stretch-rationale detail, Observed note, hedged albacore-rig aside) |
-| dkY7wJ4UM1c | SearcherSportfishing | tutorial | deep | pending |  |
+| dkY7wJ4UM1c | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-rig-ladder-by-grade.md; techniques/knife-jigging.md / Confirmed Izorline brand + six-color/100ft spec and worked depth-count example, resolving a prior asr-uncertain flag; cross-linked one line from knife-jigging.md |
 | e1-tPTNejBo | SearcherSportfishing | tutorial | deep | pending |  |
 | eLFVhVyyOTw | SearcherSportfishing | tutorial | deep | pending |  |
 | eLPTMO3-_1Q | SearcherSportfishing | tutorial | deep | pending |  |

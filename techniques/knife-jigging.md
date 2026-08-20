@@ -227,7 +227,10 @@ whether a bite converts.
   230") and you must know where your jig is. **Interval varies by angler, not a
   single right number:** Ray marks every **50 ft**; commercially pre-marked braid
   can come marked every **25 ft** (Ul5FLB2dFgQ; Ray Sharifi is not a registered
-  voice — medium confidence). Pick an interval and know it cold.
+  voice — medium confidence). Pick an interval and know it cold. One named
+  100-ft product — Izorline's multicolored Spectra (six colors, 100 ft
+  each) — and its count-the-colors worked example are in
+  [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md#daytime-rig-ladder-by-grade-capt-matt-sd-fish-and-sips).
 - **Corroborating framing — depth control as the single biggest beginner
   mistake (Steve Carson panel, PCS Show 2024, `UP_3fBu7VPA`, 2024-03-20;
   unregistered channel/speakers — medium confidence):** the panel calls
