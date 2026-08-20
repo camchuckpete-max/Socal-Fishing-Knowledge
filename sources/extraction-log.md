@@ -2287,7 +2287,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Nj_9ORYJhkg | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — unstructured on-the-water chatter/reactions, no stated reasons or doctrine |
 | Ntwb6fU2zl4 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled auto-captions, no doctrine/rationale content |
 | OfJ_KI_D184 | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled auto-captions, no decision-rationale content |
-| PKwvkOOYzto | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| PKwvkOOYzto | SearcherSportfishing | on-the-water | decision-rationale | done | rigging/surgeons-knot-mono-to-fluoro.md (new note, split from essential-knots.md): Captain Art's fluoro-to-mono surgeon's loop tie added as 13th citation; fixed cross-file links and citation-count typo |
 | Psiiza6YQyE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | QMTCBY-kKeE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | QOV9d0qTcEE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |

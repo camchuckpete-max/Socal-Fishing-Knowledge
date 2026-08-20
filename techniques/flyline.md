@@ -784,6 +784,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](trolling.md)
 - [Underhand Casting](underhand-casting.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

@@ -86,8 +86,8 @@ ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md). That same
 video also names bluefin, yellowfin, yellowtail, and (occasionally)
 [opah](../species/opah.md) as catches on this presentation. The 50 lb-mono-top-shot-to-80 lb-fluorocarbon-leader
 connection is a **four-turn surgeon's knot**, corroborating Steve Carson's
-own stated turn-count rule in [essential SoCal
-knots](../rigging/essential-knots.md#parameters--judgment).
+own stated turn-count rule in [surgeon's knot, mono-to-fluoro leader
+connection](../rigging/surgeons-knot-mono-to-fluoro.md#parameters--judgment).
 
 ## Sizing, color, and depth — an earlier data point
 
@@ -150,12 +150,12 @@ own first commit and sit at **medium**, pending further repetition.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

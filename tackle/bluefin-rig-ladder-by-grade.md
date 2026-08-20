@@ -49,9 +49,10 @@ which is where the source's "five setups" framing comes from.
   this corpus, `ptoIvB2MspE`.) See [hooks](hooks.md) for the general
   circle-vs-J framework this sits inside.
 - **Knot:** a **4-turn surgeon's knot** joins the monofilament to the
-  fluorocarbon — see [essential knots](../rigging/essential-knots.md) for the
-  turn-count detail and how it compares with this KB's existing mono-to-fluoro
-  knot (Seaguar knot).
+  fluorocarbon — see [surgeon's knot, mono-to-fluoro leader
+  connection](../rigging/surgeons-knot-mono-to-fluoro.md) for the turn-count
+  detail and how it compares with this KB's existing mono-to-fluoro knot
+  (Seaguar knot).
 - **Ceiling:** **do not fish this rig on fish over about 40 lb.**
 
 **An earlier (2020-10-01), closely-matching citation of this same rig, same
@@ -83,8 +84,9 @@ biting well.
   system, a hooked fish pulls the small hook right out of its mouth.
 - **Leader:** **4–5 ft of fluorocarbon**, tied to the monofilament top shot
   with a **four-turn surgeon's knot** — exact match to Rig 1's knot and turn
-  count; a third citation of this same rule is logged in [essential
-  knots](../rigging/essential-knots.md#parameters--judgment).
+  count; a third citation of this same rule is logged in [surgeon's knot,
+  mono-to-fluoro leader
+  connection](../rigging/surgeons-knot-mono-to-fluoro.md#parameters--judgment).
 - **Hook:** **Owner Gorilla Light, size 2** — exact match to Rig 1's hook.
 - **Ceiling, with an observation:** don't fish this outfit when big tuna are
   around — "you're not going to catch a 50-pound tuna with this, you're not
@@ -503,8 +505,11 @@ between the two talks.
 - [Gear classes](gear-classes.md) — class-term lexicon.
 - [Hooks](hooks.md) — circle-vs-J framework and Owner Mutu sizing.
 - [Line & leader](line-and-leader.md) — leader length/weight by application.
-- [Essential knots](../rigging/essential-knots.md) — the surgeon's knot
-  turn-count detail.
+- [Essential knots](../rigging/essential-knots.md) — the SoCal knot lineup
+  this rig's connection knot belongs to.
+- [Surgeon's knot, mono-to-fluoro leader
+  connection](../rigging/surgeons-knot-mono-to-fluoro.md) — the surgeon's
+  knot turn-count detail.
 - [Two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md) — the
   fighting technique Rigs 2 and 3 depend on.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
@@ -523,7 +528,6 @@ between the two talks.
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Drag Setting — General Judgment](drag-setting.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
@@ -533,6 +537,7 @@ between the two talks.
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

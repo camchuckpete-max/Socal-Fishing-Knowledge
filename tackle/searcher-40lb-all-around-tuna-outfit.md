@@ -82,8 +82,8 @@ gap-fills from this citation are folded into the sections below.
   elsewhere to matching line class to a rod's printed rating.
 - **Leader connection:** a **four-turn surgeon's knot** — a fourth,
   independent citation of Carson's own **4-turns-for-20–100 lb** rule
-  already logged in [essential SoCal
-  knots](../rigging/essential-knots.md#parameters--judgment), and now this
+  already logged in [surgeon's knot, mono-to-fluoro leader
+  connection](../rigging/surgeons-knot-mono-to-fluoro.md#parameters--judgment), and now this
   note's earliest-dated citation of that rule (predates the 2022-04-07 Vol.
   176 citation by about two months). **Fifth citation (Vol. 222,
   `ueDBCY1mIPk`, 2023-06-08):** repeats the same four-turn surgeon's knot.
@@ -213,7 +213,10 @@ gap-fills from this citation are folded into the sections below.
   this channel's other numbered Tackle Tip Thursday rig entries.
 - [Hooks — Owner Mutu circle hooks](hooks.md) — the circle-hook-by-grade
   doctrine this rig's hook pick corroborates.
-- [Essential SoCal knots](../rigging/essential-knots.md) — the four-turn
+- [Essential SoCal knots](../rigging/essential-knots.md) — the SoCal knot
+  lineup this rig's connection knot belongs to.
+- [Surgeon's knot, mono-to-fluoro leader
+  connection](../rigging/surgeons-knot-mono-to-fluoro.md) — the four-turn
   surgeon's knot rule this rig corroborates.
 - [Line & leader](line-and-leader.md) — the knot-clear-the-guides mechanism
   behind Captain Art's leader-length rule.
@@ -230,7 +233,6 @@ gap-fills from this citation are folded into the sections below.
 
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
@@ -241,5 +243,6 @@ gap-fills from this citation are folded into the sections below.
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

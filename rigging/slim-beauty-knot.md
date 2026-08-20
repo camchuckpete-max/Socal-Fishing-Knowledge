@@ -157,4 +157,5 @@ Wendy, Izorline, 2022-03-31).
 
 - [Essential SoCal Knots](essential-knots.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

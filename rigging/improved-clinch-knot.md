@@ -257,4 +257,5 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

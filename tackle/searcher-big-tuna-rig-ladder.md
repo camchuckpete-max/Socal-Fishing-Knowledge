@@ -592,7 +592,8 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - **Leader:** **3 to 4 ft of 80 lb fluorocarbon**, tied to the 50 lb mono
   top shot with a **four-turn surgeon's knot** — a second, independent
   citation of Steve Carson's own **4-turns-for-20–100 lb** rule already
-  logged in [essential SoCal knots](../rigging/essential-knots.md#parameters--judgment)
+  logged in [surgeon's knot, mono-to-fluoro leader
+  connection](../rigging/surgeons-knot-mono-to-fluoro.md#parameters--judgment)
   (`9JnIS8HkZlA`), corroborating it. Stated reasoning for the heavier fluoro:
   it sometimes prevents a tuna from biting through the line and swimming off
   with the lure — "it doesn't always work, but it improves the odds" — and
@@ -670,7 +671,6 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Chunking](../techniques/chunking.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
@@ -686,6 +686,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

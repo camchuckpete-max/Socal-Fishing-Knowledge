@@ -353,7 +353,6 @@ Asked directly about splicing a fluorocarbon leader onto lures generally:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
@@ -362,4 +361,5 @@ Asked directly about splicing a fluorocarbon leader onto lures generally:
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

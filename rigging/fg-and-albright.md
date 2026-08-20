@@ -131,7 +131,7 @@ and [the dissimilar-line Albright variant](https://www.youtube.com/watch?v=2fwj2
 <!-- backlinks:start -->
 ## Linked from
 
-- [Essential SoCal Knots](essential-knots.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

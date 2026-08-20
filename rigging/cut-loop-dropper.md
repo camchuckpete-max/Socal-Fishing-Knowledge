@@ -90,4 +90,5 @@ species and depth.
 
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

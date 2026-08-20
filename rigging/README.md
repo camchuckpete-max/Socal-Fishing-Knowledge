@@ -25,6 +25,7 @@
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md) **[SoCal only]** — A connection knot purpose-built to join monofilament to fluorocarbon — not braid to fluoro, which is the RP knot's job.
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md) **[SoCal only]** — A tapered connection knot joining spectra (braid main line, to the reel) to a monofilament/fluorocarbon top shot/leader, demonstrated by Wendy of SearcherSportf
 - [Springer Knot — Heavy-Line Hook Tie](springer-knot.md) **[SoCal only]** — A named terminal knot for tying a hook onto heavier line, demonstrated twice in the *Searcher*'s Tackle Tip Thursday series: by Billy at Fisherman's Landing Tac
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md) **[SoCal only]** — A doubled/multi-turn overhand connection knot joining a monofilament main line or top shot to a fluorocarbon leader — an attributed alternative to the Seaguar k
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md) **[SoCal only]** — A heavy-wrap connection knot for splicing monofilament to spectra (braid), demonstrated by Capt.
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
@@ -60,23 +61,24 @@ graph LR
   n18["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
   n19["Slim Beauty Knot — Spectra-to-Topshot Splice"]
   n20["Springer Knot — Heavy-Line Hook Tie"]
-  n21["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n22["Tony Pena Knot — Mono-to-Spectra Splice"]
-  n23["Trap Rig"]
-  n24["Tuna Feather Rig"]
-  n25["Wind-On Leader"]
-  n26["Wiring a Surface Iron"]
-  n1 --> n25
+  n21["Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection"]
+  n22["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n23["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n24["Trap Rig"]
+  n25["Tuna Feather Rig"]
+  n26["Wind-On Leader"]
+  n27["Wiring a Surface Iron"]
+  n1 --> n26
   n1 --> n6
-  n10 --> n25
+  n10 --> n26
   n11 --> n12
   n11 --> n15
   n11 --> n16
   n11 --> n6
   n12 --> n16
   n12 --> n20
-  n12 --> n22
-  n12 --> n25
+  n12 --> n23
+  n12 --> n26
   n12 --> n6
   n14 --> n11
   n14 --> n6
@@ -96,15 +98,22 @@ graph LR
   n19 --> n7
   n2 --> n3
   n20 --> n6
-  n21 --> n16
+  n21 --> n11
+  n21 --> n18
+  n21 --> n19
+  n21 --> n22
+  n21 --> n4
   n21 --> n6
+  n21 --> n7
+  n22 --> n16
   n22 --> n6
-  n25 --> n1
-  n26 --> n9
+  n23 --> n6
+  n26 --> n1
+  n27 --> n9
   n3 --> n16
   n3 --> n2
   n3 --> n9
-  n4 --> n21
+  n4 --> n22
   n4 --> n6
   n6 --> n1
   n6 --> n11
@@ -117,9 +126,9 @@ graph LR
   n6 --> n20
   n6 --> n21
   n6 --> n22
-  n6 --> n25
+  n6 --> n23
+  n6 --> n26
   n6 --> n4
-  n6 --> n7
   n9 --> n3
 ```
 <!-- mermaid:end -->
