@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -186,6 +186,17 @@ than iron.
 
 ## Planning notes
 
+- **A second access mode — long-range boat, not fly-in.** Cedros (and the San
+  Benitos) also come up as an occasional bonus stop on **Searcher**
+  Sportfishing's San Diego-based five/six-day trips whose primary destination
+  is [Guadalupe Island](../species/yellowfin-tuna.md#where--when) — "there's
+  always a chance to go to Cedros or San Benitos" (Capt. Art, Searcher
+  Sportfishing, "Fall, 2009 on Searcher," `_r08B4bItAY`, 2009-08-25 upload;
+  `searcher-sportfishing` registered channel — single mention, medium
+  confidence). No trip-envelope detail (day count at Cedros, technique, grade)
+  given for this route; kept side by side with, not merged into, the
+  fly-in-lodge trip shape documented above — a different operator and access
+  mode to the same island.
 - Mexican paperwork for a fly-in trip is not covered by this source. The
   general Mexico requirements (FMM, CONAPESCA sport-fishing licence, and the
   fact that they are regulations with jurisdictions and expiry) are recorded
@@ -200,4 +211,5 @@ than iron.
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

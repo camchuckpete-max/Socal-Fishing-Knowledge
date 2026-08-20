@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc, 4uNPLknRAQg]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc, 4uNPLknRAQg, _r08B4bItAY]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -43,6 +43,34 @@ leader is mandatory regardless of line test — see
   [trolling — Alijos Rocks](../techniques/trolling.md#alijos-rocks-baja--bomb-lure-trolling-for-wahoo)
   and [trolling — East Cape](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)
   for the full session detail.
+- **An earlier (2009) Searcher Sportfishing citation of the same two grounds,
+  plus "the Ridge"'s named high spot (Capt. Art, "Fall, 2009 on Searcher,"
+  `_r08B4bItAY`, 2009-08-25 upload; `searcher-sportfishing` registered
+  channel — single mention on this specific claim, medium confidence):**
+  previewing the boat's late-September/early-October seven-day trips, Capt.
+  Art names **Alijos Rocks** and **"the Ridge"** as the two options ("one or
+  the other"), with a fall **wahoo** chance "at the rocks or on the ridge or
+  on kelp paddies down in that area" alongside a shot at **100 lb yellowfin**
+  (see [yellowfin tuna](yellowfin-tuna.md#where--when)) and **dorado** (see
+  [dorado](dorado.md#where--when)) — this is 10–13 years earlier than the
+  `ETw_3AFxEcM`/`tjBeR9tWd4s`/`4uNPLknRAQg` citations above and reads as a
+  fourth, independent same-channel sighting of the Oct/Nov Alijos/Ridge fall
+  pattern, not a re-cut of them. **"The Ridge" is further resolved here as
+  running to an upper high spot named "Uncle Sam Bank"** ("450, 460 miles to
+  the upper end of it where Uncle Sam Bank is"), which this note treats as
+  the same ground already logged above rather than a new location, since no
+  other name is given for "the Ridge" elsewhere in this corpus. Uncle
+  Sam Bank/the Ridge is also named as holding **yellowtail**, **black sea
+  bass**, and **grouper** — the latter two have no dedicated species note in
+  this KB (single, thin mention; not enough corpus depth for a router note
+  per the species-note template) and are recorded here as context only, not
+  linked. **Run distances from San Diego (Capt. Art, same source):** Alijos
+  Rocks **488 mi**, a **45-hour run** leaving ~11:00 AM with bait obtained the
+  next morning at a stop captioned "Vallejos" (ASR-uncertain — not confidently
+  resolved to a place name, flagged `asr-uncertain`, not carried as a
+  destination); the Ridge/Uncle Sam Bank **450–460 mi**, a **two-day run**.
+  See [Guadalupe Island distances](yellowfin-tuna.md#where--when) for the
+  same source's mileage to that ground.
 - **Baja "lower banks," November:** wahoo swam through a giant-tuna school the
   boat anchored on for four days without moving; no technique or count detail
   given for the wahoo specifically (StokedOnFishing, `ASitOLYzFEA`; captain
@@ -259,6 +287,7 @@ for locating wahoo specifically. General method:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dorado (Mahi-Mahi)](dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
@@ -271,4 +300,5 @@ for locating wahoo specifically. General method:
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

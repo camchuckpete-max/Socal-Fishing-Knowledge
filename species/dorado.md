@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [dorado, mahi, kelp-paddies, offshore, trolling, water-color]
-sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8, 5Oh3IPIC5g4, OL8D1l73RVg, P9H-bpzT7eU]
+sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, cameron, ll7r4A6atno, pX6mV3O0L_E, ZFqe49jRgA0, Cobp85UvHmM, tcso7Lpm_Xs, APsnsunT4gM, yjwIGFzWO8I, brx6Ie_L2FM, e73wPONTOJU, VWClGAn2WEw, 9tIp4n7q850, qM7iOO7fOBw, YUdbrIm9vrE, A8SuzB5qiKE, r4J5nP5Bkl4, 6kpWn2sXokI, ASitOLYzFEA, uyjTdgIw-1k, skRo1z41Dnc, 8THSuqoPI_Q, mG8ZZLFGlT8, 5Oh3IPIC5g4, OL8D1l73RVg, P9H-bpzT7eU, _r08B4bItAY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -377,6 +377,19 @@ trip's closing species-grade summary in
 itself mention dorado). No count, grade, or technique detail given for the
 dorado specifically.
 
+**A second, earlier (2009) Alijos Rocks/"the Ridge" dorado citation** (Capt.
+Art, Searcher Sportfishing, "Fall, 2009 on Searcher," `_r08B4bItAY`,
+2009-08-25 upload; `searcher-sportfishing` registered channel — single
+mention on this specific claim, medium confidence): previewing the boat's
+fall (late September/early October) seven-day trips to Alijos Rocks or "the
+Ridge" (further resolved as running to a high spot named Uncle Sam Bank —
+see [wahoo](wahoo.md#where--when) for the full citation and run distances),
+Capt. Art names "kelp paddies down in that area" as producing "a nice big
+dorado," alongside a wahoo and 100 lb-class yellowfin chance at the same
+grounds. No count, grade, or technique detail given for the dorado
+specifically; kept side by side with, not merged into, the `6kpWn2sXokI`
+observation above — same broad grounds, different trip and source.
+
 **Observed (Baja, "lower banks," region label)** (StokedOnFishing, on-camera
 trip date November 25 (year not resolved on camera — see the
 [yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts) entry for the
@@ -469,6 +482,7 @@ grade, or technique detail given for the dorado specifically.
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Wahoo](wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

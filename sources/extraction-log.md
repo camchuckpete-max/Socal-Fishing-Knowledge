@@ -2309,7 +2309,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ZY-cTuFtjh8 | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: silent aerial b-roll clip, no fishing content |
 | ZcIiucZlBcM | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 5s editing/outtake clip, no fishing content |
 | _f5QmWSUUx8 | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/wahoo-bomb-casting.md: Observed wire-leadered Raider-class jig, Alijos Rocks, Sept 2010, gear corroboration only |
-| _r08B4bItAY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| _r08B4bItAY | SearcherSportfishing | on-the-water | decision-rationale | done | species/wahoo.md; species/yellowfin-tuna.md; species/yellowtail.md; species/dorado.md; locations/cedros-island.md: fall 2009 trip-preview doctrine (Guadalupe/Alijos Rocks/Uncle Sam Bank grounds, season, run distances) |
 | aXqFrQSNrDc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | atboDq5tZ0Q | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | b9JThf2Jm0s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |

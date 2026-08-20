@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI, Sx40JvCXFuA]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI, Sx40JvCXFuA, _r08B4bItAY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -102,6 +102,29 @@ the bluefin nearby become more cooperative too.**
   not technique doctrine — it sits within, and extends back to 2009, the
   30–150 lb Guadalupe grade range already logged above rather than adding a
   new extreme.
+- **A companion clip, same interview date, previewing rather than recapping
+  the same 2009 season (Capt. Art, "Fall, 2009 on Searcher," `_r08B4bItAY`,
+  2009-08-25 upload — same upload date as `Sx40JvCXFuA` directly above;
+  `searcher-sportfishing` registered channel — read as the same underlying
+  interview split across two uploads, not an independent sighting, so the
+  matching **40–70 lb** Guadalupe yellowfin figure is not double-counted
+  here):** framed ahead of the boat's September five/six-day trips as
+  "a great sign of" 40–70 lb yellowfin, with **yellowtail good at the
+  island's north end** (see [yellowtail](yellowtail.md#where--when)) and "a
+  chance to go to Cedros or San Benitos" on the same run (see
+  [Cedros Island — planning notes](../locations/cedros-island.md#planning-notes)).
+  Distances given for the run from San Diego: **215 mi to the north end, 235
+  mi to the south end**, a single day's run leaving ~11:00 AM, fishing by
+  9–10 AM (north end) or ~noon (south end) the next day.
+- **The same clip names Alijos Rocks and "the Ridge" as the fall (late
+  September/early October) seven-day-trip alternative to Guadalupe** (Capt.
+  Art, `_r08B4bItAY`, 2009-08-25): a chance at **100 lb yellowfin** at Alijos
+  Rocks, and yellowfin tuna at "the Ridge," further resolved on camera as
+  running to an upper high spot named **Uncle Sam Bank** — "especially during
+  the time frame that we're down there" (fall). See
+  [wahoo](wahoo.md#where--when) for the full Alijos Rocks/Uncle Sam Bank
+  citation, including run distances and the wahoo/dorado/yellowtail/black
+  sea bass/grouper detail from the same source.
 
 - **Why late summer/fall warms up — a stated mechanism (Art Taylor/Mike,
   SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip
@@ -513,6 +536,7 @@ the bluefin nearby become more cooperative too.**
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bluefin Tuna](bluefin-tuna.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
