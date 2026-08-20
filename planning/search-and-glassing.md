@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift, sunglasses]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg, YJX-hYEIcNM]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg, YJX-hYEIcNM, nnrEjc-Gq2o]
 confidence: high
 ---
 
@@ -82,27 +82,48 @@ birds, fish boiling, and breezers/flat spots.
 ## Sunglass lens color for glassing
 
 Lens tint changes what surface sign you pick out, on top of the eye
-protection every pair gives (Rick, Fisherman's Landing Tackle Shop, guest on
-SearcherSportfishing "Tackle Tip Thursday Vol. 188 (Sunglasses for Fishing),"
-`YJX-hYEIcNM`, 2022-06-30; searcher-sportfishing is a registered channel/series
-but Rick is a guest, not one of the channel's named recurring voices, and this
-is a single mention — **medium confidence**; the specific lens brand shown on
-camera is a product example, not doctrine, and is omitted per the sponsored-
-claim rule for this channel):
+protection every pair gives. Two Tackle Tip Thursday episodes — both
+Fisherman's Landing Tackle Shop guests on SearcherSportfishing, a registered
+channel/series — describe the same three-way lens split independently, 2.5
+years apart: **repeated doctrine on the core pattern (bright-light/all-around
+vs. contrast vs. overcast), now high confidence**; the video-specific lens
+names and add-on details below stay attributed to their own episode at their
+own confidence.
 
-- **Neutral gray — the default for SoCal saltwater fishing, "overwhelmingly
-  the most popular."** Shows natural light just darkened slightly, so the eyes
-  relax over a long day on the water. No stated edge for a specific sign type
-  — the all-around choice.
-- **Amber (including an amber-mirror tint) — better color contrast.** Makes
-  contrasting colors "pop" more, called out specifically for **picking a kelp
-  paddy out of the water** (see the surface sign vocabulary above and
-  [kelp paddies](../conditions/kelp-paddies.md)).
-- **Sunrise yellow — the overcast/low-light lens, "lesser sought out."**
-  Brightens everything under a heavy gray sky, lets your eyes adjust into the
-  glasses faster, and is called out for **picking out a breezer** on the
-  gray, flat-light days when the sun isn't lighting up the water (see the
+- **All-around / bright-light lens — blue mirror or standard gray**
+  (unnamed presenter, "Tackle Tip Thursday Vol. 81 (Sunglasses)",
+  `nnrEjc-Gq2o`, 2020-01-02) — matches **neutral gray**, "overwhelmingly the
+  most popular" (Rick, "Tackle Tip Thursday Vol. 188 (Sunglasses for
+  Fishing)," `YJX-hYEIcNM`, 2022-06-30; Rick is a guest, not one of the
+  channel's named recurring voices). Both frame this as the classic
+  offshore/default choice: it lets in the least light of any tint shown, so
+  it's the best protection on sunny days and the pair your eyes relax into
+  over a long day. No stated edge for a specific sign type.
+- **Contrast lens for spotting sign — green or copper** (`nnrEjc-Gq2o`,
+  2020-01-02) — matches **amber, including an amber-mirror tint**
+  (`YJX-hYEIcNM`, 2022-06-30). Both episodes call this tint out for the same
+  job, the most contrast of the lenses shown, but differ on what they name it
+  for: Vol. 81 says **kelp, birds, and dolphins**; Vol. 188 narrows the
+  example to **picking a kelp paddy out of the water** specifically (see the
+  surface sign vocabulary above and
+  [kelp paddies](../conditions/kelp-paddies.md)). Preserved as given rather
+  than merged into one label — "green," "copper," and "amber" are not stated
+  as interchangeable on camera.
+- **Overcast / low-light lens — yellow** (`nnrEjc-Gq2o`, 2020-01-02; lets in
+  the most light of the lenses shown, called out for **overcast conditions
+  and early/late in the day**) — matches **sunrise yellow**, "lesser sought
+  out" (`YJX-hYEIcNM`, 2022-06-30), called out for **picking out a breezer**
+  on gray, flat-light days when the sun isn't lighting up the water (see the
   breezer entry in the surface sign vocabulary above).
+- **Fit beats tint** (`nnrEjc-Gq2o`, 2020-01-02; single mention, not
+  corroborated by Vol. 188 — medium confidence on this specific point):
+  picking a frame that fits your face — minimizing light leaking in from the
+  sides and top — matters more than which tint you choose; per the
+  presenter, the frame that blocks the most light usually also looks best on
+  you.
+
+The specific lens brand shown on camera in Vol. 188 is a product example, not
+doctrine, and is omitted per the sponsored-claim rule for this channel.
 
 ## Anchoring geometry
 

@@ -2189,7 +2189,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | nAGkYWuJrCI | SearcherSportfishing | tutorial | deep | done | none / nothing extractable: 25s personal color-aesthetic gear preference, no functional parameters or decision logic |
 | nM7B5NQLy44 | SearcherSportfishing | tutorial | deep | done | rigging/bimini-twist.md; rigging/essential-knots.md; rigging/wind-on-leader.md; tackle/rod-and-reel-selection.md / spun Bimini Twist out of essential-knots.md into its own note, merged in traditional 30-50-turn tie alongside existing quick-tie, cross-linked from 3 parents |
 | nWq2DVzBNeI | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md / amended note with a corroborating dated instance of the rubber-band sinker-rig mechanic (leader, surgeon's knot, sinker placement); evaluator fixed ordinal numbering and phrasing |
-| nnrEjc-Gq2o | SearcherSportfishing | tutorial | deep | pending |  |
+| nnrEjc-Gq2o | SearcherSportfishing | tutorial | deep | done | planning/search-and-glassing.md / merged Vol.81 sunglass-lens doctrine into existing sunglass section, upgraded shared pattern to high confidence as repeated channel doctrine, kept fit-beats-tint point at medium |
 | o6Sawz5S7bk | SearcherSportfishing | tutorial | deep | pending |  |
 | otnnAon3F9Q | SearcherSportfishing | tutorial | deep | pending |  |
 | ouoyP7t2Nus | SearcherSportfishing | tutorial | deep | pending |  |
