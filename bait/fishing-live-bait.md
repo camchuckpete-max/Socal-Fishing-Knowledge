@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -45,6 +45,21 @@ mackerel, sardine, and anchovy alike (SluBXkT3cuw).
 On a butt/belly hook, hold the **two rear fins together and go right under the
 "carnage"** if you set the hook too deep — that keeps a clean, swimming bait
 (8YvmROeVL-0).
+
+**Wahoo live bait, all three of nose/collar/belly named as usable (Searcher
+Sportfishing, "Tackle Tip Thursday Vol. 126 (Live Bait Wahoo Fishing),"
+`vNIazq1aVwc`, 2020-11-19; searcher-sportfishing registered channel/series,
+single mention — medium confidence):** on a live sardine for
+[wahoo](../species/wahoo.md), three hook positions are named: **sideways
+through the nose** ("like a swim bait" — the speaker's stated preference),
+**shoulder-hooked just in front of the dorsal fin**, and **belly-hooked back
+toward the tail** — matching this note's nose / collar-shoulder-dorsal / belly
+positions above, here independently confirmed for wahoo specifically (no
+mechanism given for why one position over another, unlike the reasoning
+attached to other species' entries above). Leader and hookset detail from
+this same video are logged in [haywire twist — wahoo live-bait
+leader](../rigging/haywire-twist.md#wahoo-live-bait-leader) and
+[wahoo — bite response on live bait](../species/wahoo.md#doctrine--conflicts).
 
 **Nose hook doubles as a bite-getter on the retrieve** (SearcherSportfishing,
 "Tackle Tip Thursday Vol. 101," `MuC0uGKDzxg`, 2020-05-28; unregistered
@@ -606,6 +621,7 @@ clips above.)
 - [Chunking](../techniques/chunking.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Flyline](../techniques/flyline.md)
+- [Haywire Twist](../rigging/haywire-twist.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kite Fishing](../techniques/kite-fishing.md)

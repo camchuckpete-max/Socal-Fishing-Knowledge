@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4, o6Sawz5S7bk]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA, jqyu3wZdNF4, o6Sawz5S7bk, vNIazq1aVwc]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -251,6 +251,33 @@ described both stranding options as finished with "a wire twist." See
 [wahoo — bite response on live bait](../species/wahoo.md#doctrine--conflicts)
 for this same video's live-bait hookset doctrine.
 
+**A sixth data point — first build in this set to give both a wire pound
+test and a mainline pound test together (Searcher Sportfishing, "Tackle Tip
+Thursday Vol. 126 (Live Bait Wahoo Fishing)," `vNIazq1aVwc`, 2020-11-19;
+searcher-sportfishing registered channel/series, single mention on these
+specific parameters — medium confidence):** a **seven-strand** leader in
+**40 lb test** (**60 lb** also offered as usable), finished with "the correct
+crimps," to a hook heard on camera as **"a number 100"** — no standard hook
+sizing runs that high, and the same channel's other wahoo live-bait builds in
+this note run 1-0, 2-0, or 3/0, so this is carried as **asr-uncertain**,
+likely a mis-heard "1-0." The hook is named as a **cheap, inexpensive Mustad
+live bait hook**. A **small swivel** (also described as "a black ring") on
+the leader's other end is tied to the **30 or 40 lb** flyline outfit itself —
+i.e. this is the mainline-to-leader connection, not the wire itself. Stated
+overall leader **length: 12–18 in**. Bait: a live sardine, hooked one of
+three named ways — **sideways through the nose** ("like a swim bait," the
+speaker's own preference), **shoulder-hooked just in front of the dorsal
+fin**, or **belly-hooked toward the tail** — the same three positions this
+KB's general [nose / collar-shoulder-dorsal / belly hook-position
+table](../bait/fishing-live-bait.md#hook-position-by-situation) already
+documents, here independently named for wahoo specifically. This **40 lb**
+wire figure sits as a **fourth, unreconciled wire-test data point** alongside
+the 200–300 lb (`9IhmYstB8sA`), 44 lb (`G81HN0dIDg0`), and 60 lb
+(`S80GRyuAbLY`/`_Z4yMtrYgeA`) figures already logged above — no stated reason
+for any of the gaps. This same video's live-bait hookset doctrine (free
+spool and count to ~15 after coming up empty on the hookset) is logged in
+[wahoo — bite response on live bait](../species/wahoo.md#doctrine--conflicts).
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
@@ -260,6 +287,7 @@ Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
 
 - [California Barracuda](../species/barracuda.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 - [Wahoo](../species/wahoo.md)

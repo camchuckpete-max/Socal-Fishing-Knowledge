@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s, vNIazq1aVwc]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -141,6 +141,28 @@ for locating wahoo specifically. General method:
   other for free-spooling and waiting — kept side by side, not merged. Leader
   builds from this same video are logged in
   [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
+- **Corroborating, later data point on the same free-spool-and-wait mechanic,
+  with a stated count and a reactive (not proactive) trigger (Searcher
+  Sportfishing, "Tackle Tip Thursday Vol. 126 (Live Bait Wahoo Fishing),"
+  `vNIazq1aVwc`, 2020-11-19; searcher-sportfishing registered channel/series
+  — repeated doctrine on the core "wahoo eats half, circles back for the
+  rest" behavior, about two years after `jqyu3wZdNF4` above):** framed as
+  something the crew has "seen on multiple occasions." Here the trigger is
+  reactive rather than proactive: you already put the reel in gear to set
+  the hook on the bite and come up with **nothing there** — the stated
+  explanation is that the wahoo ate half the bait and is temporarily gone,
+  leaving **a chunk with the hook still in it**. The fix given: put the reel
+  back in **free spool** and **count to about 15**, on the reasoning that the
+  wahoo will "swing back around" to eat the other half of the chunk. Stated
+  outcome: winding back in, the chunk is often "still on your hook" even
+  after this sequence — framed as surprising ("you'd be amazed how many
+  times"). This doesn't resolve which moment to first go to free spool (on
+  the initial hit, per `jqyu3wZdNF4`, vs. after finding nothing on hookset,
+  per this video) — kept side by side — but both agree on the core
+  mechanism (wahoo bites bait in half, needs time before eating the rest) and
+  the fix (free spool and wait, don't keep winding/fighting). Leader build
+  from this same video is logged in
+  [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader).
 - **Conflict, not reconciled — cast vs. troll for the same bomb lure:** one
   angler at Alijos Rocks preferred **trolling** a bomb-style lure over a
   jig-and-reel presentation, specifically for hookup ratio on wahoo's
@@ -182,6 +204,7 @@ for locating wahoo specifically. General method:
 ## Linked from
 
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
