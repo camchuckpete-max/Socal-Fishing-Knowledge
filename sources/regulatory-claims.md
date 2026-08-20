@@ -51,6 +51,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Cow Cod Conservation Area reopened to 600 ft / two hooks; cow cod itself still no-retain (federally protected species) | 600 ft depth limit, 2 hooks inside the CCCA; cow cod catch-and-release only | 2024-03 (describes a 2023 change); self-hedged on camera | [rockfish & lingcod](../species/rockfish-lingcod.md) | `AH4Eiya1Hn0` |
 | Rockfish bag limit plus a separate whitefish allowance | 10 rockfish/day + 10 whitefish/day stacked on top | 2020-03; live-seminar recollection, verify current before relying on it | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 | Depth-based rockfish closure line (Rockfish Conservation Area boundary) varies by location | ~240 ft near the islands vs. ~75 fathom (450 ft) nearer the coast, in the presenter's examples | 2020-03; live-seminar recollection, verify current boundary with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
+| Rockfish depth allowance varies by season; local-boat max in one operator's telling | "unlimited" status (300 ft–3,000 ft framing) down to ~800–850 ft max on local SoCal boats | 2026-04; self-hedged on camera, verify current depth limits with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `D0bQjAL0gGU` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:

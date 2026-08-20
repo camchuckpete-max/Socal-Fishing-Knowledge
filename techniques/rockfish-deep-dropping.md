@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -106,6 +106,14 @@ built around **feeling the bite from depth**:
   the line with twist; hold the rig at the knot (above the swivel) and let
   the weight hang free below — the swivel spins the twist back out before you
   fish it again.
+- **Why sinkers get large at the depth extreme** (Tackle Express, `D0bQjAL0gGU`,
+  2026-04-13; unregistered channel — medium confidence): at the deepest
+  depths local SoCal boats fish (up to roughly 800–850 ft in this operator's
+  telling — a season-dependent allowance, see [rockfish & lingcod — doctrine
+  & conflicts](../species/rockfish-lingcod.md#doctrine--conflicts)), getting
+  a gangion down and holding bottom takes a torpedo sinker well past the
+  24 oz standard weight above — his stated reason large torpedo sinkers get
+  made and stocked at all.
 - **Moving spot to spot:** wrap the sinker's tag line **4–5 tight wraps**
   around the rubber of the reel handle (hook left off) to stow the rig
   without a hook swinging loose while running between spots.

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
@@ -290,6 +290,20 @@ the *bottom*, not the fish.
   See [rockfish deep-dropping — releasing fish from depth](../techniques/rockfish-deep-dropping.md#releasing-fish-from-depth-descender)
   for descender mechanics, and the dated depth-limit progression above for
   older historical figures on the same regulatory axis.
+- **Depth allowance varies by season; local-boat max ~800–850 ft in one
+  operator's telling (California/CDFW, as-of 2026-04, self-hedged on camera —
+  verify current depth limits with CDFW before the trip):** Tackle Express
+  frames the recreational rockfish depth allowance as changing "depending on
+  what time of the year in the season it is" — from a fully "unlimited"
+  status (his framing: fishable to 300 ft or even 3,000 ft of water) down to
+  the deepest he's personally "ever been told" local SoCal boats fish, **about
+  800–850 ft** (transcribed "8 to 850" in the auto-captions; read as 800–850
+  ft given his own "still a very, very long way down" framing) (`D0bQjAL0gGU`,
+  2026-04-13; unregistered channel — medium confidence). Kept as a dated,
+  hedged data point beside the depth-limit-progression entries above, not
+  current guidance — see [rockfish deep-dropping — weight &
+  staying off the snag](../techniques/rockfish-deep-dropping.md#weight--staying-off-the-snag)
+  for the torpedo-sinker sizing this depth range drives.
 - **Handling caution:** rockfish dorsal spines carry a **mild venom** — minor,
   not a serious hazard, but worth being deliberate handling the fish (Scotty,
   Brothers Sportfishing, _ZThckj2TIM, 2020-04-04; high confidence). Undersized/
