@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [crimping, crimp-sleeve, chafe-gear, leader, terminal-tackle, big-game]
-sources: [3zXcrGsIL-c, S80GRyuAbLY]
+sources: [3zXcrGsIL-c, S80GRyuAbLY, _Z4yMtrYgeA]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -65,7 +65,10 @@ size, this one for the mechanic of seating it correctly.
   size for its pound test (example given: **60 lb wire → size A2 sleeve**).
   Using an undersized sleeve for the wire test — the example given is an A2
   sleeve on 40 lb wire — crimps loose and lets the connection slip under a
-  fish's fighting drag. See
+  fish's fighting drag. The same demonstration aired a year earlier under a
+  different volume number/title ("Tackle Tip Thursday Vol. 123 (Wahoo
+  Leader)," `_Z4yMtrYgeA`, 2020-10-29) — re-cut footage, not an independent
+  second source; see
   [Haywire Twist — wahoo live-bait leader](haywire-twist.md#wahoo-live-bait-leader)
   for the full sleeve-crimped (non-haywire) wahoo live-bait build this
   parameter comes from.

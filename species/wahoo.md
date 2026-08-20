@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -140,7 +140,10 @@ for locating wahoo specifically. General method:
   figure, with no stated reason for the gap. **A third data point** from the
   same channel puts a sleeve-crimped (not haywire-twisted) wahoo live-bait
   wire leader at **60 lb** on a **1-0 or 2-0** hook (`S80GRyuAbLY`,
-  2021-11-04) — again unreconciled with the other two. Kept side by side; see
+  2021-11-04; the same demonstration re-aired a year earlier as "Tackle Tip
+  Thursday Vol. 123 (Wahoo Leader)," `_Z4yMtrYgeA`, 2020-10-29 — re-cut
+  footage, not an independent confirmation) — again unreconciled with the
+  other two. Kept side by side; see
   [haywire twist — wahoo live-bait leader](../rigging/haywire-twist.md#wahoo-live-bait-leader)
   for all three builds.
 

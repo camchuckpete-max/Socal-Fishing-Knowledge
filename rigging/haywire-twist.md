@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [wire-leader, toothy, barracuda, wahoo, haywire-twist]
-sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs]
+sources: [lm7D9Tlc7Po, ll7r4A6atno, -62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, G81HN0dIDg0, S80GRyuAbLY, W6RuHvaqkHs, _Z4yMtrYgeA]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -174,6 +174,20 @@ unreconciled data point beside the 200–300 lb (`9IhmYstB8sA`) and 44 lb
 (`G81HN0dIDg0`) figures above — three different wire-test figures from the
 same channel for the same "wahoo live bait leader" application, spanning
 roughly a 5x-to-7x range, with no stated reason for any of the gaps.
+
+**Same demonstration, earlier upload — not independent confirmation:** an
+earlier SearcherSportfishing tackle tip, "Tackle Tip Thursday Vol. 123 (Wahoo
+Leader)" (`_Z4yMtrYgeA`, 2020-10-29), shows this identical build — same 24 in
+strip / 18–20 in finished length, same 1-0 or 2-0 hook with ring not
+required, same ~1/2 in loop, same fold-tag-end-back and multi-pass-crimp
+steps, same top-end small-black-ring-or-swivel option, and the same quoted
+line about the wire's printed reference ("it gives you the reference, so 60
+pound you use an A2 standard sleeve") and the same 40 lb/A2-crimps-loose
+failure example. This is the same footage/demonstration re-cut under a
+different volume number and title roughly a year before `S80GRyuAbLY`, not a
+second independent source — per the re-cut/duplicate rule, it does not raise
+this build past medium confidence, but it does push the doctrine's earliest
+recorded date back to 2020-10-29.
 
 **A fourth data point — rod/reel/line class rather than leader-build detail
 (Logan, Searcher Sportfishing / Fisherman's Landing, "Tackle Tip Thursday
