@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo, tjBeR9tWd4s]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -101,11 +101,42 @@ where this fits among wahoo's other techniques routes from
   Raider jig as "the two" lures it covers, consistent with `-62xDo4UQzo`
   above.
 
+- **A fifth Fisherman's Landing / Team Searcher tackle tip adds a weight range
+  and reinforces the shiny-yo-yo-jig alternative, plus a color pick (Carl,
+  "Tackle Tip Thursday Vol. 201 (Wahoo Fishing)," `tjBeR9tWd4s`, 2022-10-20;
+  searcher-sportfishing registered channel, single mention on these specific
+  parameters — medium confidence):** for the bomb itself, a **4 oz to 6 oz**
+  jig with a skirt and a **big J hook** — the large hook is stated as
+  necessary to get through a wahoo's jaw. As an alternative to the bomb, any
+  **shiny yo-yo-style jig** is offered as working for wahoo, with two named
+  examples: a **"6X Jr." in blue and chrome** (phonetically consistent with
+  the Salas 6X Jr. already logged above from `9IhmYstB8sA`, though the brand
+  is not spoken on camera here either — **asr-uncertain**) and a **"Catchy
+  Tackle"** jig — a further, independent mention of the "Catch"/"Catchy
+  Tackle" brand already logged three times above. Stated reasoning: **"anything
+  shiny works for wahoo fishing,"** a color rule of thumb that sits beside,
+  not merged into, the match-lure-color-to-forage doctrine from `J3FGJj5zYPE`
+  above — this source gives no forage-matching reasoning, just a general
+  shine preference.
+
 ## Mechanics
 
 - Cast out; let the lure hit the water and **sink for a couple of seconds**
   before starting the retrieve.
 - Retrieve: **wind it in as fast as possible.**
+- **Cast distance, drop depth, and line angle (Carl, Fisherman's Landing /
+  Team Searcher, `tjBeR9tWd4s`, 2022-10-20; searcher-sportfishing registered
+  channel, single mention on these specific parameters — medium confidence):**
+  cast the jig **as far out as possible**, then let it drop **roughly 50–100
+  ft, maybe a little more**, before starting the retrieve — the stated target
+  is a **45° line angle**, so the retrieve covers a broad slice of the water
+  column on the way back rather than staying near the surface. A further,
+  attributed reason for the crank-through-the-bite instruction already logged
+  above from `9IhmYstB8sA`: wahoo have **a very tough mouth and a bony jaw**,
+  so the hook needs to drive through the jaw on the hookset to keep the fish
+  pinned — "you're not going to outwind a wahoo," so turning the handle as
+  hard and fast as possible the instant a bite is felt is what sets the hook,
+  not a separate strike.
 - **A further speed/lure-choice data point, plus a second named ground
   (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday Vol. 189 (Yoyos
   for Yellows)," `ETw_3AFxEcM`, 2022-07-14; unregistered channel — medium
@@ -213,6 +244,29 @@ where this fits among wahoo's other techniques routes from
   class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism),
   since that note already holds the class's other worked product example
   (Seeker OSP 1x3).
+- **A further, independent citation of the same rod model, plus new detail
+  (Carl, Fisherman's Landing / Team Searcher, `tjBeR9tWd4s`, 2022-10-20;
+  searcher-sportfishing registered channel, single mention on these specific
+  claims — medium confidence; the Seeker SSR 7650 product name itself stays
+  **low**, sponsored-claim caveat, per the earlier citation):** Carl fishes a
+  **7 ft 6 in Seeker SSR
+  7650** for wahoo casting, describing it as also usable for **live bait, up
+  to about 100 lb**. Stated rod-action detail not given in the earlier
+  citation: the rod should **"shut off" (bend) about a third of the way**
+  down the blank — a fast, stiff-butt taper — framed as the action wahoo
+  casting calls for generally, not specific to this one rod. Corroborates,
+  with new detail, `aAqKHeyBwEo`'s rated-50-lb Seeker SSR 7650 entry above.
+  **Line:** **40, 50, or 60 lb test** called "ideal" — a **40 lb floor lower
+  than the 50 lb floor** stated in [Common failures](#common-failures) below
+  (from a different citation); kept side by side, not reconciled, since
+  neither source states a reason for the gap. **Mono over straight Spectra,
+  with reasoning:** Carl does not recommend straight Spectra main line for
+  wahoo casting, preferring **mono** run out to a **~50-yd top shot**, on the
+  stated reasoning that mono's stretch ("give") makes the presentation "more
+  productive" for wahoo — an explicit trade-off against the harder,
+  no-stretch penetration Spectra would otherwise offer, since (his words) a
+  Spectra strike is "very, very violent." No top-shot line class or main-line
+  spec is given beyond "mono."
 - **A third, independently sourced gear-class data point — two rods split by
   lure weight, with a stated reason for the longer rod's length (Logan,
   Searcher Sportfishing / Fisherman's Landing, "Tackle Tip Thursday Vol. 195

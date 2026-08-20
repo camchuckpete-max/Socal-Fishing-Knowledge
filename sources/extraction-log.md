@@ -2215,7 +2215,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tRlv1azFPlM | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: Owner Aki-hook-vs-J-hook stock-up tip merged into existing Owner-hooks cluster, low confidence (sponsored-claim caveat), garbled model/size hedged as asr-uncertain |
 | tYebwLzTyf8 | SearcherSportfishing | tutorial | deep | done | tackle/star-drag-vs-lever-drag.md; tackle/rod-and-reel-selection.md: new lexicon note on star-drag vs lever-drag mechanism, linked from rod-and-reel-selection.md intro; fixed a fabricated/spliced quote during eval |
 | tio1oeibVlM | SearcherSportfishing | tutorial | deep | done | species/opah.md: new opah species router from bycatch-while-tuna deep-jig doctrine + table fare, cross-linked from dart-jig notes; fixed invented 'pectoral' gloss, added pCd6QykcZ0w to sources during eval |
-| tjBeR9tWd4s | SearcherSportfishing | tutorial | deep | pending |  |
+| tjBeR9tWd4s | SearcherSportfishing | tutorial | deep | done | species/wahoo.md; techniques/wahoo-bomb-casting.md: grounds/season corroboration + lure-weight, cast-mechanics, Seeker SSR 7650/line-choice detail, flagged 40lb-vs-50lb line-floor conflict |
 | tnHltcDdVtU | SearcherSportfishing | tutorial | deep | pending |  |
 | ueDBCY1mIPk | SearcherSportfishing | tutorial | deep | pending |  |
 | vNIazq1aVwc | SearcherSportfishing | tutorial | deep | pending |  |

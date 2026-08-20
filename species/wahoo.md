@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [wahoo, offshore, trolling, casting, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4]
+sources: [-62xDo4UQzo, 97clKtVsEOs, mG8ZZLFGlT8, tcso7Lpm_Xs, APsnsunT4gM, 4t_Z75shK_E, 6kpWn2sXokI, ASitOLYzFEA, JK2-cpaXkI8, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, JHMCguO7sXE, S80GRyuAbLY, _Z4yMtrYgeA, it_YYh_8Z-w, jqyu3wZdNF4, tjBeR9tWd4s]
 confidence: medium
 regions: [baja-pacific-south, cortez-south, socal-bight]
 waters: [open-ocean, bank]
@@ -66,6 +66,16 @@ leader is mandatory regardless of line test — see
   location). Sits beside, not merged into, the fall Mag Bay and November
   lower-banks data points above; together they're the closest this corpus
   comes to a seasonal read, still short of a full calendar.
+- **A further, dated data point corroborating the October/November window
+  (Carl, Fisherman's Landing / Team Searcher, "Tackle Tip Thursday Vol. 201
+  (Wahoo Fishing)," `tjBeR9tWd4s`, 2022-10-20; searcher-sportfishing
+  registered channel, single mention on this specific claim — medium
+  confidence):** filmed in October, the tip states that long-range boats,
+  "including the Searcher," are about to **start their 6-, 7-, and 8-day
+  trips** fishing **Alijos Rocks and the ridge** for wahoo — the same two
+  grounds already logged above from `ETw_3AFxEcM` (2022-07-14) — consistent
+  with, and a second same-channel citation on, the October/November season
+  claim from `9IhmYstB8sA` directly above.
 - **No repeated seasonal calendar established in this corpus** beyond the fall
   Mag Bay mention and the November lower-banks bycatch above — thin coverage,
   flagged rather than smoothed into a calendar.
