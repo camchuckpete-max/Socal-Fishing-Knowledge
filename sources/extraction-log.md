@@ -2255,7 +2255,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 9fVsfdOgUMI | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — fragmented auto-caption trip-outcome banter, no decision rationale or fishery knowledge present |
 | A3PW3EMsu8c | SearcherSportfishing | on-the-water | decision-rationale | done | promotional prize-giveaway clip, no fishing knowledge to extract — correctly left as nothing-extractable |
 | ACL2BD6gbkE | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — boat haul-out/maintenance video, no fishing knowledge content |
-| AJzAbQ0i3QY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| AJzAbQ0i3QY | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 30s garbled auto-caption promo clip, no fishing content |
 | B1r0T6f5kgM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Bk0-P4oeFiU | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | CSpBymCVWN4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
