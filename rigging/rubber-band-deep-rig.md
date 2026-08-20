@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -182,6 +182,41 @@ drop-shot/brawler build logged in its own section below.
   most effective way" to catch bluefin tuna in the week before the
   2020-07-30 upload, on SoCal local waters — a dated, attributed claim, not
   generalized beyond that window.
+- **Fifth dated instance, chronologically between Vol. 55 (2019-07-03) and
+  Vol. 104 (2020-06-18) though logged last in this note (SearcherSportfishing,
+  `pB10vaDaETM`, "Tackle Tip Thursday Vol. 84 (Sinker rig fishing),"
+  2020-01-23; presenter not named on camera — captions are too sparse to
+  identify a speaker; `searcher-sportfishing` registered, and this is now a
+  fifth dated instance of the same mechanic from this channel — **high**
+  confidence for the mechanic itself).** A short (2:21) tip segment walking
+  the same wrapped/two-hole mechanic as the builds above: the rubber band is
+  pre-looped and cinched onto the line, then the sinker's eye, line, and band
+  are worked together — line laid across the sinker body, band wrapped around
+  the sinker twice, passed through the eye, and the hook/fluorocarbon leader
+  pulled through the resulting loop and stretched out so the terminal tackle
+  rides straight in line.
+  - **Leader/outfit pairing:** leader test matched 1:1 to the outfit class —
+    **60 lb fluorocarbon on a 60 lb outfit, or 50 lb fluorocarbon on a 50 lb
+    outfit** — for an **8 oz torpedo sinker**, tuna fishing. Heavier than the
+    4–6 oz range logged above but in range with the 6–16 oz sinkers carried
+    for this rig in the Turner's Outdoorsman build below.
+  - **New stated reason, not given by the other dated instances above:** this
+    build "doesn't hurt or abrade your fluorocarbon leader" — the first
+    source in this note to give leader abrasion, specifically, as the reason
+    for riding the sinker on the band rather than against the leader itself.
+    Sits alongside the already-logged no-knot and anti-tangle reasoning as a
+    third stated advantage of the wrapped build, not a replacement for
+    either.
+  - **Placement, kept as given rather than reconciled:** the on-camera
+    phrasing here places the band **"below your connection"** from mono to
+    fluoro (i.e., worded as the leader side of the knot), stated to stop the
+    sinker from sliding and causing "a problem," while Armando's Vol. 104
+    build above places the sinker **"just above"** the leader knot (mainline
+    side) for the same stated purpose. The auto-generated captions on this
+    short clip are terse and no visual demo was available to confirm which
+    side of the knot is meant, so this is flagged `asr-uncertain` rather than
+    assumed identical to the above-the-knot placement documented elsewhere in
+    this note.
 
 ## Depth-target detail — a fourth Searcher data point (Steve Carson, Vol. 59, 2019-10-16)
 
