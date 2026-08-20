@@ -2418,7 +2418,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | A-D5MYB98yo | Tackle Express | tutorial | parameter-skim | done | none / 31-second fragment, no extractable parameters, duplicates existing vertical-jigging coverage |
 | A6-KPjRwGSQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-accurate-valiant-2-spj-reel.md; techniques/slow-pitch-jigging.md; tackle/tackle-express-accurate-tern-2-reel.md / new low-confidence product note for Accurate Valiant 2 SPJ reel, linked from SPJ technique gear detail |
 | A7rveRBkL-g | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-night-bluefin-tg-jig-rig.md / amended with day/surface rig variants, size-vs-lead/cast-distance comparison, durability claim, Captain Brian/Independence 189lb origin story |
-| A8_ydUnS0CQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| A8_ydUnS0CQ | Tackle Express | tutorial | parameter-skim | done | none / out-of-region freshwater Castaic Lake bass clip, cut off before any parameter stated |
 | AJfDjN-7K4w | Tackle Express | tutorial | parameter-skim | pending |  |
 | ALZtbMIOMBw | Tackle Express | tutorial | parameter-skim | pending |  |
 | AhICQlAsreU | Tackle Express | tutorial | parameter-skim | pending |  |
