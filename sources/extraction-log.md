@@ -2296,7 +2296,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | RhULLaUsEDk | SearcherSportfishing | on-the-water | decision-rationale | done | locations/cedros-island.md: Observed block, flylined-sardines yellowtail session, medium confidence |
 | S6Ic8aXDdIg | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/fighting-fish-from-the-rail.md: Observed catchphrase-precedent, low gear + rail-bracing, 2010 |
 | Sx40JvCXFuA | SearcherSportfishing | on-the-water | decision-rationale | done | species/yellowfin-tuna.md; species/yellowtail.md: Observed 2009 Guadalupe Island grade data (40-70lb YFT, to 25lb YT) |
-| URJm6qDHgqg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| URJm6qDHgqg | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: promotional gift-guide video, no fishing content |
 | UUiaoQVexy0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | UYfvRQk_xT8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | VB_GYSk_vdY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
