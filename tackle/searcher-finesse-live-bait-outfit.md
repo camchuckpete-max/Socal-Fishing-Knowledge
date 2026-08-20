@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, tuna, finesse, live-bait, flyline, line-class, hook-size, penn, searcher, owner-gorilla-light]
-sources: [ptoIvB2MspE]
+sources: [ptoIvB2MspE, QHY5kmU7OTU]
 confidence: medium
 ---
 
@@ -77,6 +77,64 @@ exact spot/trip not further specified on camera): Carson caught a **44 lb
 bluefin tuna** on this exact 15 lb rig, "because I couldn't get a bite any
 other way."
 
+## Earlier, independent citation — "Tackle Talk Live," Steve Carson w/ Penn (2021-01-28)
+
+Steve Carson, Penn, guest on SearcherSportfishing's "Tackle Talk Live: 5
+Outfits: Don't Leave the Dock Without Them!" (`QHY5kmU7OTU`, uploaded
+2021-01-29, filmed 2021-01-28; `searcher-sportfishing` registered channel —
+medium confidence for this video's own parameters, predating the 2020-10-01
+citation above's own dated video by less than a year but structured as a
+five-rig ladder rather than a single dockside tip). Names this same class as
+his **"20/25 lb rig,"** the lightest of five "don't leave the dock without"
+outfits, and explicitly the rig reached for "if the fish are over 50 lb" —
+Capt. Art's on-camera reminder — but essential when 25–30 lb tuna "are just
+being fish" and won't eat anything heavier.
+
+- **Reel:** a **Penn Fathom 15, star drag, single-speed** — his own words: "you
+  don't need a two-speed reel in this line category." Matches the star-drag,
+  no-two-speed pick already logged above.
+- **Line:** filled **about three-quarters of the way with braid**, topped with
+  a **25–50 yd top shot** — narrower than, but overlapping, the ~50 yd figure
+  already logged above. **Stated general rule for the braid class itself:**
+  run the braid **one class heavier than whatever top-shot test you're
+  using** — e.g. not 20 lb braid under a 20 lb top shot — a further,
+  independent citation of the same one-class-heavier braid rule already
+  logged for the 40 lb starter rig in [Rig 3 — 40 lb (the starter
+  rig)](bluefin-rig-ladder-by-grade.md#rig-3--40-lb-the-starter-rig).
+- **Rod:** **8 ft**, rated roughly **12–30 lb** — "as close to the middle of
+  the line rating as you can get." Some anglers prefer 7 ft or, occasionally,
+  9 ft. A rod tip that's too heavy for this small a hook **rips the hook out**
+  of the bait/fish.
+- **Leader:** **~4 ft of fluorocarbon**, tied to the top shot with a **single
+  San Diego jam knot** at the hook end — a further citation of that knot for
+  this rig, see [San Diego jam knot](../rigging/san-diego-jam-knot.md) — and a
+  **four-turn surgeon's knot** joining the mono top shot to the fluoro, a
+  further independent citation of Carson's own 4-turn/20–100 lb rule already
+  logged in [essential SoCal
+  knots](../rigging/essential-knots.md#parameters--judgment). **Leader-length
+  rule, stated generally, not just for this rig:** size the fluoro so the
+  connecting knot stays **outside the rod tip on a cast** — his own figures:
+  roughly 4 ft on an 8 ft rod, 3 ft on a 7 ft rod, up to 5 ft on a 9 ft rod,
+  varying by casting style. A further, earlier-dated citation of the
+  knot-clears-the-tip rule already logged in [Searcher 40 lb all-around tuna
+  outfit](searcher-40lb-all-around-tuna-outfit.md#the-outfit) (Capt. Art) and
+  [line & leader](line-and-leader.md#when-mono-top-shot).
+- **Hook:** **Owner Gorilla Light, size 2** — matching the later (2023-11-14)
+  Rig 1 citation's size-2 pick rather than this same note's own 2020-10-01
+  size-4 citation above; not reconciled, a further data point in the
+  standing size discrepancy already flagged there.
+- **When (his own framing):** a "several-week period" that recurred "last
+  summer [2020] and the summers before," roughly the **last week of August to
+  the last week of September** — tuna running 20, 25, 30, sometimes up to
+  40 lb, refusing anything heavier than 20–25 lb test. **Explicit ceiling:**
+  not a rig for fish over 50 lb.
+- **Casting preference, stated generally (not specific to this rig alone):**
+  Carson prefers **underhand casting** over overhead — a further, independent
+  citation of the underhand preference already logged in [underhand
+  casting](../techniques/underhand-casting.md). His stated reason: with a live
+  bait, letting it **land gently and swim away on its own** matters more than
+  casting distance; overhand is fine for anglers who need the extra reach.
+
 ## Related
 
 - [Bluefin rig ladder by grade — Rig 1, 15 lb
@@ -91,6 +149,12 @@ other way."
   the size discrepancy to).
 - [Line & leader](line-and-leader.md) — leader length/weight by application.
 - [Gear classes](gear-classes.md) — class-term lexicon.
+- [San Diego jam knot](../rigging/san-diego-jam-knot.md) — the hook-end knot
+  named in the 2021-01-28 citation above.
+- [Essential SoCal knots](../rigging/essential-knots.md) — the four-turn
+  surgeon's knot rule this rig's mono-to-fluoro connection corroborates.
+- [Underhand casting](../techniques/underhand-casting.md) — Carson's stated
+  casting preference for this rig's gentle bait presentation.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
 
 <!-- backlinks:start -->

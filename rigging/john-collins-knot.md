@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [john-collins-knot, rp-knot, connection-knot, braid-to-mono, braid-to-fluoro, splice, tackle-prep]
-sources: [Bz0WZNAofks, FN9-rgyC9ic, b-oixz7pgAo]
+sources: [Bz0WZNAofks, FN9-rgyC9ic, b-oixz7pgAo, QHY5kmU7OTU]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -149,6 +149,34 @@ already applied to [Springer Knot](springer-knot.md) and
     auto-generated captions; the fine hand mechanics of forming the initial
     loop and feeding the braid through are visual and not fully resolvable
     from audio alone. Flagged `asr-uncertain` for those mechanics.
+
+## A named "single San Diego" / RP variant — 7 turns (8 for light line), plus a double-pass finishing trick (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention of this specific wrap count)
+
+For the mono-to-braid connection specifically (distinct from the hook-end
+single San Diego jam knot he ties on the same rig — see [San Diego jam
+knot](san-diego-jam-knot.md)), Carson names his go-to tie the **"RP knot" or
+"John Collins knot"** — the same dual naming already logged above. (The
+"learned it in 1973 aboard the *Searcher*, taught by Kenny" story he tells on
+camera in this same segment is about the hook-end single San Diego jam knot,
+not this knot — not carried over here.) A further wrap-count data point, kept
+side by side with, not reconciled to, the 9-up/9-down and 5-up/5-down counts
+already logged above:
+
+- **Wrap count — 7 turns, standard; 8 turns on lighter line** (his own
+  example: 20 lb test). A fourth distinct wrap-count figure for this knot
+  family in this KB, alongside the 9-up/9-down, 5-up/5-down, and 6-up/6-down
+  ([RP knot](essential-knots.md#parameters--judgment)) counts already logged.
+- **A finishing trick not named in the other citations above:** on the final
+  pass, as the tag end comes through to finish the knot, wrap it around and
+  pass it through **a second time** before cinching — his own stated
+  "little extra tip," different from anything else he does compared to how
+  "everybody else" ties it.
+- **Lubrication and re-tie discipline, general to all knots on this rig, not
+  specific to this one:** wet every knot heavily with spit before seating so
+  it cinches down tight; if a knot doesn't seat down tight, cut it and re-tie
+  rather than fish it as-is — the same standing risk of a bad knot costing
+  "the biggest fish of the trip" is given as the reason never to let a
+  marginal knot go out.
 
 ## Tie it
 

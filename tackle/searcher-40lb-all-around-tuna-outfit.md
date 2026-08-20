@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [tuna, bluefin, yellowfin, 40lb, all-around, penn, searcher, two-speed, flyline, owner-mutu, surgeons-knot, dart-jig, coltsniper, gomame]
-sources: [fyJA3o2hVh0, m2g97MxmAGI, ueDBCY1mIPk]
+sources: [fyJA3o2hVh0, m2g97MxmAGI, ueDBCY1mIPk, QHY5kmU7OTU]
 confidence: medium
 ---
 
@@ -150,6 +150,60 @@ gap-fills from this citation are folded into the sections below.
   depth doctrine from this same clip is logged in [Dart jig — daytime
   finesse tuna](../techniques/dart-jig-tuna.md#sizing-color-and-depth--an-earlier-data-point)
   rather than duplicated here, per this note's own size-guideline split.
+- **Named model, exact sizing, and a hook-retrofit spec (Steve Carson, Penn,
+  SearcherSportfishing "Tackle Talk Live: 5 Outfits: Don't Leave the Dock
+  Without Them!," `QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28;
+  `searcher-sportfishing` registered channel — medium confidence for
+  mechanism, `low` for the named product per this channel's sponsored-claim
+  caveat):** names the same **Williamson Gomame** favorite as `fyJA3o2hVh0`
+  above, this time with exact sizes — **1¾ oz, 2¾ oz, and 3½ oz** — and a
+  stated reason for favoring the middle/smallest sizes: they **cast the
+  easiest and sink the deepest, the fastest**. Purpose named on camera: when
+  a school of tuna is keyed on bait smaller than a standard sardine or
+  mackerel, "they are locked onto biting a small bait, and that's all
+  they're going to buy" — a further, independent citation of the
+  match-the-bait-size doctrine already logged in [dart jig — sizing, color,
+  and depth](../techniques/dart-jig-tuna.md#sizing-color-and-depth--an-earlier-data-point).
+  **Retrofit spec:** he always swaps the factory hook for an **Owner ST-66
+  treble**, a **thicker/heavier wire** than the factory hook these lures ship
+  with — a further, independent citation of the Owner ST-66 swap already
+  logged in [iron jigs — bluefin hook
+  swap](../lures/iron-jigs.md#hook-style--assist-vs-treble). **Split ring:**
+  only rated split rings — **Owner-brand, roughly 120 lb test** on his own
+  jigs — "quite a bit heavier" than the line class ever needs; explicitly not
+  a bag of generic unrated split rings from a discount store. **Sizing rule:**
+  go **one size up** from the treble the lure ships with — his own example, a
+  jig that ships with a 1/0 factory treble gets upgraded to a 2/0 ST-66.
+  **Treble vs. single, and why he still keeps some single-hook-rigged:** he
+  states, without a mechanism he can explain, that this style of jig draws
+  **more bites on a treble than a single hook** — "for whatever reason you
+  get a lot more bites with a treble hook... I can't really say [why]," adding
+  that he's tested it repeatedly and other anglers have confirmed the same
+  result to him — a further, earlier-dated citation
+  of the same unexplained treble-draws-more-bites claim already logged in
+  [iron jigs — a third, earlier
+  citation](../lures/iron-jigs.md#hook-style--assist-vs-treble) (`pCd6QykcZ0w`,
+  2023-03-30). He still rigs a few of these same jigs with a **single hook**
+  once tuna run over **100 lb**, since a single hook holds a big fish better
+  than a treble and the treble becomes more prone to pulling out at that
+  grade — his own stated preference: "I'd rather get four bites [on the
+  treble] and maybe land two, [than] get only one bite [on the single] and
+  land it."
+  - **Observed** (SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28, location
+    not stated on camera): Carson hooked a **200 lb tuna** on this exact
+    jig/rod/reel combo (the purple-colored Gomame; size not stated for this
+    specific catch) in the middle of a school of 30-pounders, fought it
+    roughly 90 minutes to near the boat, and did not land it — offered as
+    evidence that
+    properly-set-up light tackle, including a two-speed reel, at least gives
+    a fighting chance at a much bigger fish than the rig was built for.
+  - **Bite mechanics — most bites come on the sink, not a skip-jig retrieve:**
+    cast at a boiling/breaking school, then let the jig **fall to the depth
+    the captain calls** (his own example, fish called at 150 ft down) rather
+    than working it back fast on top. A further, independent citation of the
+    bites-come-on-the-sink mechanic already logged in [dart jig —
+    mechanics](../techniques/dart-jig-tuna.md#mechanics) (roughly 40% of
+    bites on the sink there).
 
 ## Related
 
@@ -183,6 +237,7 @@ gap-fills from this citation are folded into the sections below.
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)

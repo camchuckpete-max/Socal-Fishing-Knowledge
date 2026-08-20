@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -284,6 +284,47 @@ anchovy, and mackerel on longer trips where anglers catch their own.
   [slow-trolling](../techniques/slow-trolling-bait.md) technique of that
   name, so it's recorded here rather than merged into that note.
 
+**Earlier, independent citation of the same shoulder-hook and wishbone
+doctrine, same speaker/channel (Steve Carson, Penn, SearcherSportfishing
+"Tackle Talk Live: 5 Outfits: Don't Leave the Dock Without Them!,"
+`QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28; `searcher-sportfishing`
+registered channel — predates the Vol. 226 citation above by roughly two and
+a half years, and is now the earliest-dated citation of this doctrine in this
+corpus. Repeated matching doctrine from a registered voice across two
+citations spanning several years reaches `high` confidence for the mechanism
+described in both):**
+
+- **Shoulder hooking, for bluefin breaking well off the boat and not coming
+  closer:** hooked "in the nape of the neck... if a fish had a neck" — matches
+  the Vol. 226 citation's placement exactly. Same two mechanisms given: the
+  hook **folds down** as the bait swims, letting it carry more of its own
+  distance from the boat, and it's **less visible** to a tuna looking up from
+  below than a standing hook. Named grade context here: fish breaking **100,
+  150, 200-plus yards** off the boat. Same slow-retrieve follow-up: after
+  letting the bait run out, wind it back **slowly** rather than leave it
+  planted — bites often come as it "slow-trolls" back toward the boat.
+- **The sardine "wishbone," named the same way:** a bony structure "right
+  about here... just like the wishbone on a chicken or on turkey," near the
+  two small fins in the middle of a sardine's chest — hooked crosswise through
+  it. **New detail beyond the Vol. 226 citation — the ambush-bite tell and its
+  trade-off:** reach for this hook position when fish are sitting close to, or
+  hiding under, the boat, watching for a bait to hit the water and pouncing on
+  it fast — the tell is other anglers hooking up within **10–15 seconds** of
+  their bait hitting the water. Hooked at the wishbone, the bait doesn't need
+  to be cast — just dropped or flipped out roughly **10 ft** from the boat —
+  and dives straight down, swimming away hard, which draws the fast ambush
+  bite. **Stated trade-off:** a wishbone-hooked bait dies quicker than one
+  hooked further back — roughly **3 minutes** of life versus **10–15 minutes**
+  hooked further toward the tail — and the hook tends to **tear out** as soon
+  as the angler starts reeling in.
+- **Any sinker on the line → nose-hook it, "across the bridge of the nose,"**
+  regardless of sinker weight — his own words here are "a small sinker or a
+  big sinker," with no specific figure given in this video (elsewhere in this
+  same talk he gives 0.5–4 oz for a general slip sinker and a 4–12 oz sinker
+  for the deep bluefin rig, but he doesn't tie either figure to this rule) —
+  the same weighted-rig-mandates-nose-hook rule given in the Vol. 226 citation
+  above, here on both sardine and mackerel.
+
 ### Deep sinker-rig bait: lower jaw through the nose to keep the mouth shut (Capt. Matt, SD Fish and Sips)
 
 `G1YIlakiRqg`, uploaded 2024-03-13; unregistered channel/speaker — medium
@@ -429,6 +470,36 @@ cast](../techniques/live-bait-pendulum-cast.md).
   different words — wind in and cast back out rather than let the bait sit
   idle, since [yellowtail](../species/yellowtail.md) are moving through and a
   bait has to stay presented, not parked, to get bit.
+
+### Bait-selection tells and hold-time (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention of these specific tells)
+
+A dockside primer on picking a sardine out of the tank, offered as "bait
+selection, bait selection, bait selection" — corroborating, with added visual
+tells, the lime-green/no-red-nose selection rubric already logged above:
+
+- **Judge the bait while it's up and swimming, not piled in the net** — the
+  same caution already logged above (Capt. Dave Hansen) that piled bait all
+  reads the same silver color from above.
+- **Look for a slightly lighter-colored sardine**, scales intact, **no
+  missing scales, no red or bloody nose or red marks** where a scale has come
+  off — signs the bait boat's catching process roughed it up. On a longer
+  trip (5–7 days), bait that's been in the tank a long time can develop
+  **fungus on the fins**, another sign not to fish it.
+- **Open-ocean predators (tuna, wahoo) need a genuinely lively bait to eat at
+  all**, unlike an ambush predator (e.g. calico bass, sand bass) that will
+  take a wounded or dying bait — stated reasoning: tuna hunt by chasing
+  something down, "almost like the T-Rex in Jurassic Park," and barely
+  register a bait that isn't moving.
+- **Handling technique — catch with the off hand:** a right-handed angler
+  should practice catching bait with the **left hand** so the hook is already
+  ready in the right hand; cup the bait gently rather than squeezing it (a
+  squeezed bait sheds scales into the angler's hand). Corroborates, from a
+  further data point, the gentle-handling/minimize-hold-time doctrine already
+  logged above.
+- **Hold-time target: no more than 15 seconds, 10 is better,** from the
+  moment the bait leaves the tank to the moment it's back in the water outside
+  the boat — a specific figure for the same "the least time out of water is
+  best for you" principle already logged above from other Searcher tips.
 
 ### Species selection over sardines — targeting trophy bass on a sport boat (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium confidence)
 
@@ -629,6 +700,7 @@ clips above.)
 - [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Making Bait](making-bait.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Underhand Casting](../techniques/underhand-casting.md)

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8, RM7cBgCDWFA]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8, RM7cBgCDWFA, QHY5kmU7OTU]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -200,6 +200,39 @@ shown in hand — not confirmed to be the same physical product as the trolled
 rubber "Yummy Flyer" lure (`2y0VznL2qk8`) or the dead/frozen "G Fly Yummy"
 (`2TmLaSCmfC8`) logged above. Kept side by side, not merged, since none of the
 three sources cross-references the others' product.
+
+## "Life jacket" flying fish — a kite-free and balloon-free float, private-boat friendly (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+A different float mechanism from the kite, helium balloon, or hand-inflated
+balloon rigs above — this one keeps a **frozen** flying fish floating on its
+own, with no kite or balloon at all:
+
+- **Build:** thaw the frozen flying fish enough to work with, then use
+  **toothpicks** to pin the wings open and rigid (the same wing-locking goal
+  as the skewer/zip-tie harness and the popsicle-stick method above, done
+  here with toothpicks instead). Cut a **pool noodle in half lengthwise** and
+  fit that half-noodle over the fish's back like a **life jacket**, giving it
+  buoyancy so it floats and rides the surface on its own.
+- **Deployment:** because the rigged bait floats by itself, it doesn't need a
+  kite or a balloon to hold it up — it can be fished **on the slide** (let
+  back with the drift) or dropped off the **bow** and soaked out, same as the
+  dead-boat/dapping presentations above, but without a kite line or clip in
+  the system at all. Reel: a Penn International 20-class outfit is named as a
+  suitable pairing on camera, sized to land a 300 lb-class bluefin if one
+  eats it.
+- **Where it's used:** named as especially well suited to **private boats**
+  (as opposed to a crowded sportboat rail) — reported on camera as also seen
+  fished from party/sportboats on occasion, dropped off the bow on a long
+  drift.
+- **Stated trade-off:** works, but is a little more inconvenient than a
+  standard kite/balloon rig — it has to be planned and rigged ahead of time
+  (the toothpick-and-noodle build, plus thawing the fish partway) rather than
+  deployed on the fly.
+
+This sits alongside, not replacing, the skewer/zip-tie harness, popsicle-
+stick, and rubber-band wing-lock methods above — a fourth, distinct
+wing/float-lock approach, notable mainly for removing the kite/balloon
+requirement entirely rather than for a different wing-lock material.
 
 ## Rig it
 

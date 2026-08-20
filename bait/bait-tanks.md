@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [bait-tank, live-bait, pump, gph, west-coast-tank, panga, cameron, prey-density]
-sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk, ztpj1Xll0-U, MjPY-nWZJ54]
+sources: [1QWstxUibDA, 4xzK7YaXK5s, 7WapaxdtjQg, 9hEa3sGTh40, BdRX4b8Fo5w, cameron, L_FD-UzvEio, 6ueGWJek1gI, xFS3MW4GpDU, sHnqSIOjTdM, pk2blktDQ9Y, HueC1KHrcVw, bM2vUS1B-yQ, m-M0iwX8DjA, sIoNELGlxmk, ztpj1Xll0-U, MjPY-nWZJ54, QHY5kmU7OTU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -261,6 +261,39 @@ his boat:
   example and the ~700-scoop/11-day Intrepid figure already logged above (this
   video doesn't state the Searcher's trip length, so it isn't placed on that
   same single-day-vs-multi-day spectrum).
+
+### "Curing" bait explained — dated/color-coded receiver boxes, plus onboard curing (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28; `searcher-sportfishing` registered channel — medium confidence)
+
+A fuller explanation of the "cured" bait this note's receiver-selection
+routine above already names as the attendant's own recommended pick (the
+oldest, already-cured box) — this citation gives the mechanism behind why
+older bait is preferred, and adds a second, onboard curing practice not in
+the earlier citation:
+
+- **Why bait "cures" at all:** the bait boat brings a catch in — the example
+  given is a Monday-morning delivery — and it goes into the receiver's live
+  bait boxes, each one **dated and color-coded by size** on intake. A boat
+  leaving that same day gets the freshest catch; a boat departing on a
+  **3-day-or-longer trip** typically draws from a box that's been sitting in
+  the receiver **5, 6, or 7 days** — "curing" is this note's/this speaker's
+  term for that dwell time. On the Searcher specifically, roughly **80% of
+  the time** the boat draws bait that's already cured out this way, rather
+  than same-day-caught bait.
+- **The wine/whiskey analogy (his own):** cured bait, having sat and settled
+  in the receiver for days before ever touching the boat's own tank, is
+  described as living, swimming, and working better once fished — the same
+  framing as a spirit that improves with time in the barrel, not a claim
+  about flavor.
+- **Curing bait onboard, a separate practice from the receiver's own
+  curing:** the Searcher (and, per Carson, most boats with comparable bait
+  capacity) also cures its own leftover bait — when a multi-day trip draws a
+  box of already-cured bait and doesn't use all of it in one stop, the
+  leftover is **segregated into a dedicated tank** rather than mixed back
+  with fresher bait, and the boat keeps adding to that same tank over the
+  trip, building a standing reserve of extra-cured bait as the days go on.
+
+This corroborates, with the full mechanism, the "ask for the oldest,
+already-cured box" receiver routine already logged above (`MjPY-nWZJ54`).
 
 ## Underway: lid off, tap-scoop culling (dave-hansen, L_FD-UzvEio, 2022-02-04)
 

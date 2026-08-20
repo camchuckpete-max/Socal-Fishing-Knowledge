@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [casting, live-bait, underhand-cast, beginner, tight-quarters, backlash]
-sources: [0hQJxESLTm4, 7iSGGb9ueAk, Ixyi1mY3Qeg]
+sources: [0hQJxESLTm4, 7iSGGb9ueAk, Ixyi1mY3Qeg, QHY5kmU7OTU]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -63,6 +63,17 @@ adding the backlash-avoidance detail:
   same thumb-control principle as the free-spool/thumb-on-spool setup above,
   applied a second time at the other end of the cast.
 
+## A stated preference and its reasoning (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28; `searcher-sportfishing` registered channel — medium confidence)
+
+Asked directly whether he prefers underhand or overhand casting live bait,
+Carson's own answer is **underhand**, with a stated reason that goes beyond
+the "simpler motion" framing already logged above: an underhand cast takes
+**more timing and care** to execute well, but for live bait it's **far more
+important that the bait lands gently on the water and swims away on its
+own** than it is to maximize casting distance. He's explicit this is a
+personal preference, not a rule — anglers who need more distance than an
+underhand lob gives should cast overhand instead.
+
 ## Related
 
 - [Fishing live bait](../bait/fishing-live-bait.md) — hooking and presenting
@@ -87,4 +98,5 @@ adding the backlash-avoidance detail:
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
 <!-- backlinks:end -->

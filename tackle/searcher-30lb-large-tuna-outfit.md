@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [tuna, bluefin, 30lb, finesse, two-speed, penn, searcher, owner-mutu, surgeons-knot, circle-hook]
-sources: [riEkdu8PEds]
+sources: [riEkdu8PEds, QHY5kmU7OTU]
 confidence: medium
 ---
 
@@ -130,6 +130,62 @@ at this video's own medium (or low, for named products) as usual.
   already logged in full in [two-speed low-gear
   fight](../techniques/two-speed-low-gear-fight.md#the-fix--shift-to-low-then-grind-continuously).
 
+## Earlier, independent citation — "Tackle Talk Live," Steve Carson w/ Penn (2021-01-28)
+
+Steve Carson, Penn, guest on SearcherSportfishing's "Tackle Talk Live: 5
+Outfits: Don't Leave the Dock Without Them!" (`QHY5kmU7OTU`, uploaded
+2021-01-29, filmed 2021-01-28; `searcher-sportfishing` registered channel —
+medium confidence for this video's own parameters), predating the
+2023-03-02 citation above by roughly two years. Named on camera as his
+**"30 lb rig,"** still a finesse outfit but "this is where things get fun" —
+the step up from the finesse rig once tuna grow past 50–70 lb but stay
+just as picky.
+
+- **Reel — a Penn Fathom two-speed, number 15,** in its **extra-narrow**
+  version — a further, independent citation of the Torque/Fathom 15 Extra
+  Narrow already logged above, this time confirming the Fathom (not just
+  Torque) also comes in that build. Stated trade-off, matching the one
+  already logged above almost exactly: the extra-narrow reel is a little
+  **taller and narrower**, with a **bigger side plate, bigger gears, and a
+  bigger drag surface**, even though line capacity is identical between it
+  and the regular 15 — his own preference leans toward the **regular** 15 for
+  its **lighter spool**, which makes it easier to cast the smaller bait this
+  rig fishes. **A left-handed version of the extra-narrow two-speed exists**
+  (no lefty option in the single-speed Fathom/Torque star-drag line) — a
+  tackle-availability aside, not doctrine.
+- **Hook — an Owner Mutu circle hook, size 4.** Matches this rig's size-4
+  primary pick above exactly (first/second preference not reversed this
+  time). Reasoning, matching the teeth/bite-through mechanism already logged
+  above: past roughly 50 lb, bluefin/yellowfin "don't have teeth like a shark
+  or a wahoo, but they have teeth," and a half-hour-plus fight lets them chew
+  through the leader; the circle hook's corner-of-the-mouth set keeps the
+  leader off the teeth through the fight. **Observed** (SearcherSportfishing,
+  `QHY5kmU7OTU`, 2021-01-28, location not stated on camera): Carson states he
+  has personally caught tuna up to **95 lb** on this exact rig and hook, "not
+  that I recommend it."
+- **Leader — about 4 ft of fluorocarbon**, tied with the same **four-turn
+  surgeon's knot** already logged above.
+- **Wahoo variant, same rig:** rigged instead with **about 2 ft of light wire
+  leader** in place of the straight fluoro above, this same 30 lb outfit
+  doubles as a live-bait wahoo rig on longer trips — see
+  [wahoo](../species/wahoo.md) for the species-level doctrine this variant
+  feeds.
+- **Bait hooking for this grade — "shoulder hooking":** when bluefin are
+  breaking **100–200+ yd** off the boat and won't come closer, hook the bait
+  in the **nape of the neck** (behind the head) so the hook folds down as the
+  bait swims away, cutting resistance and letting a hooked bait pull hard and
+  carry more distance under its own power. After letting the bait swim out
+  100–150 yd, wind it back in **slowly** — bites often come as the bait
+  "slow-trolls" back toward the boat. A closely-matching, earlier citation of
+  the shoulder-hook doctrine already logged in [fishing live bait — "bridge
+  of the nose," the sardine "wishbone," and shoulder hooking for distant
+  bluefin](../bait/fishing-live-bait.md#bridge-of-the-nose-the-sardine-wishbone-and-shoulder-hooking-for-distant-blue-fin-steve-carson-penn-fishing-tackle-searchersportfishing-tackle-tip-thursday-vol-226-hooking-your-bait-ad0iim9c15o-2023-08-24-searcher-sportfishing-is-a-registered-channelseries-but-this-specific-mechanism-is-a-single-mention--medium-confidence).
+- **Any sinker on this rig → nose-hook the bait** across the bridge of the
+  nose or sideways through it, regardless of sinker weight — "a small sinker
+  or a big sinker," no specific figure given for this rule on camera —
+  matching the weighted-rig-mandates-nose-hook rule already logged in the
+  same fishing-live-bait section.
+
 ## Related
 
 - [Bluefin rig ladder by grade — Rig 2 (30 lb "big fish
@@ -146,6 +202,11 @@ at this video's own medium (or low, for named products) as usual.
 - [Hooks — a finesse-rig hook ladder by
   grade](hooks.md#a-finesse-rig-hook-ladder-by-grade-steve-carson-penn-san-diego-rod-and-reel-club-9jnis8hkzla-2023-11-14-unregistered-channelspeaker-single-mention--medium-confidence) —
   the hook doctrine this note names the brand/model for.
+- [Fishing live bait — shoulder hooking and nose hooking by
+  situation](../bait/fishing-live-bait.md#bridge-of-the-nose-the-sardine-wishbone-and-shoulder-hooking-for-distant-blue-fin-steve-carson-penn-fishing-tackle-searchersportfishing-tackle-tip-thursday-vol-226-hooking-your-bait-ad0iim9c15o-2023-08-24-searcher-sportfishing-is-a-registered-channelseries-but-this-specific-mechanism-is-a-single-mention--medium-confidence) —
+  the bait-hooking doctrine this 2021-01-28 citation predates and corroborates.
+- [Wahoo](../species/wahoo.md) — the species this rig's 2 ft wire-leader
+  variant feeds.
 - [Essential SoCal knots](../rigging/essential-knots.md) — the four-turn
   surgeon's knot rule this rig corroborates.
 - [Two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md) — the

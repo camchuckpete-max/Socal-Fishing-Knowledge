@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -40,6 +40,23 @@ Outfit)," `fyJA3o2hVh0`, 2022-02-03; `searcher-sportfishing` registered
 channel):** on a **Penn Fathom 25 Narrow**, "push a little button in for low
 twist... we call it the easy button." Full rig in [Searcher 40 lb all-around
 tuna outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
+
+**Earlier, independent citation, naming the "easy button" and giving the
+corkscrew mechanism its own worked description (Steve Carson, Penn,
+SearcherSportfishing "Tackle Talk Live: 5 Outfits: Don't Leave the Dock
+Without Them!," `QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28;
+`searcher-sportfishing` registered channel — predates the Vol. 167 citation
+above by roughly a year, one of the earliest dated citations of the "easy
+button" name in this corpus):** on a 30 lb outfit for 50–70 lb bluefin, in
+**high gear** the angler must **lift the rod, then wind down** repeatedly —
+and every time the rod comes down, the fish points its nose down and kicks,
+undoing part of the gained line, so the fight "literally doubles" in
+duration. Shifting to **low gear** — "push the easy button" — removes the
+lift/wind-down cycle entirely: the angler just **winds continuously**, never
+lifting, and the fish's head stays pointed up as it circles, **"corkscrewing
+himself right to the surface"** rather than repeatedly diving back down. A
+further, independent, earlier-dated citation of the same continuous-grind
+mechanism and "easy button" nickname already logged above and below.
 
 ## Reach for this when
 
