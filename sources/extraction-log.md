@@ -2341,7 +2341,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | vMRLjvSQBNA | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: weigh-in/jackpot scene, no stated technique reasoning |
 | wt-3dlbMGJc | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 18s clip, no depth/shape/location/decision stated for sonar mark |
 | x0_v2COShBo | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 22s celebratory landing clip, no decisions/reasons/gear detail |
-| xU6Rp1YJjm8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| xU6Rp1YJjm8 | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: home-video banter clip, no stated reasoning or doctrine |
 | xo7njK7vXHQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | y0LVT59inEA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | y__TVzcePik | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
