@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -226,6 +226,34 @@ reconciled with, the single-assist-hook mechanism doctrine immediately above
 retrieve, not to dorado hookup rate). Fished by working up to the bow and
 casting directly at a visible fish rather than blind-casting.
 
+**Three retrieves and a stated favorite, with a reason (Fred Brandt, Seeker
+Rods, via SearcherSportfishing, "Tackle Tip Thursday Vol. 203 (Fishing With
+Colt Snipers)," `tnHltcDdVtU`, 2022-11-03; `searcher-sportfishing` registered
+channel — mechanism content medium confidence, product naming low per the
+channel's sponsored-claim caveat):** the first two are framed as what "a lot
+of guys" do, the third as his own preferred way:
+
+- **On the slide, when the captain calls a school:** let it out and drop it
+  off the side of the boat, sinking it out with no work on the retrieve —
+  "it'll get bit." A passive sink presentation, distinct from the
+  cast-down-swell-and-let-it-sink-on-the-drift retrieve documented above
+  (that one is worked from the bow on a cast; this one is dropped straight
+  off the side as the boat comes up on a showing school).
+- **Fished like a regular knife jig** — no further mechanic given; see
+  [knife jigs](knife-jigs.md) for that class's vertical-jigging mechanics.
+- **Cast into a foamer — his stated favorite, with the reason why:** the Colt
+  Sniper's namesake casting distance ("it flies like a rocket or like a
+  bullet") is what lets him reach **a couple hundred feet** into a foamer.
+  Wing it in and, as soon as it hits the water, **grind the retrieve
+  continuously** rather than pausing — a burn-on-contact cadence, distinct
+  from the let-it-sink-then-burn small-lead-bait pattern documented in
+  [foamer casting](../techniques/foamer-casting.md#retrieve-mechanics).
+  **Observed outcome, his own account:** several fish in the **100 lb class**
+  landed fishing it this way, plus, in his words, having "witnessed quite a
+  few" additional fish caught the same way in 2022 (resolved from "this
+  year" against the video's 2022-11-03 upload date) on the bigger aftermarket
+  version logged below.
+
 ### "Lead Master" Sniper (Colt Sniper-style lookalike)
 **Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
 2018-10-24; unregistered channel — medium confidence.** A lead-bodied casting
@@ -236,6 +264,29 @@ resolved to a confirmed maker name). **Weight: 100 g** the stated go-to,
 100 g**. **Color doctrine: anything shiny and bright works** — same
 size/shine-over-specific-color framing as the Rooster Popper entry above,
 from the same short source.
+
+**A second, independent rendering of the same brand name, and a bigger size
+in tension with the 100 g cap above (Fred Brandt, Seeker Rods, via
+SearcherSportfishing, `tnHltcDdVtU`, 2022-11-03; `searcher-sportfishing`
+registered channel — mechanism content medium confidence, product naming low
+per the channel's sponsored-claim caveat):** captions render the brand
+**"Led Masters,"** naming the product "a snipper by Led Masters" — a second,
+independently auto-captioned rendering close to the "lead master" spelling
+above, weak corroboration that the maker's name is some form of "Lead
+Master(s)" without confirming the exact spelling (still `asr-uncertain`).
+States this aftermarket Sniper-style jig **"comes in a 150"** (150 g) — larger
+than, and in tension with, the Vol. 19 entry's explicit **not going heavier
+than 100 g** cap above; kept side by side rather than reconciled, since the
+two sources may be describing different points in the same model's size run
+rather than a genuine conflict. **Stated overall size range: 80 g up to
+150 g** ("anywhere from your 80s to your 150s"). **Hook swap for this bigger
+aftermarket version:** stock hook out, in with **a single hook, or an Owner
+#3, 3X-gauge treble hook** — a different specific Owner hook spec from the
+Owner ST-66/ST-58, 1 or 2, 3X/4X trebles sized to the **Shimano** Colt
+Sniper's 60/80 g sizes in the Vol. 82 entry above, since this is the bigger
+aftermarket lure rather than the Shimano original. **Color: "all the
+different colors get bit"** — consistent with, not new beyond, the
+size/shine-over-color framing already logged in this note.
 
 ### RW Peanut (sniper-style casting bait)
 Sniper-style lead casting bait in the same "small lead bait" foamer family as
