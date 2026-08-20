@@ -2405,7 +2405,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 8FAgifEFSuU | Tackle Express | tutorial | parameter-skim | done | none / 36s hand-gesture retrieve demo, no bait/species/location/parameter named, cuts off mid-sentence |
 | 8TO-tuYjwWk | Tackle Express | tutorial | parameter-skim | done | bait/fishing-live-bait.md; techniques/flyline.md; techniques/surface-iron.md / anchovy chum + fly-line mackerel-bycatch problem + collar-hook/iron-stickbait fix merged; two invented-reasoning passages trimmed by evaluator |
 | 8U34yMGxvEw | Tackle Express | tutorial | parameter-skim | done | none / 32s clip is generic braid-material trivia plus truncated brand-naming sentence, no parameters stated |
-| 8fSGyJL2GHM | Tackle Express | tutorial | parameter-skim | pending |  |
+| 8fSGyJL2GHM | Tackle Express | tutorial | parameter-skim | done | conditions/current-structure.md / added Observed note: multiple productive contour-line edges (inshore ridge vs steep outer footprint) on one structure |
 | 8wbNDfihH1o | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9-UtAaSacsc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 9MzNNwHiBXs | Tackle Express | tutorial | parameter-skim | pending |  |

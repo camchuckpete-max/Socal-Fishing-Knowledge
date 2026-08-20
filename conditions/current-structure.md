@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk, 8fSGyJL2GHM]
 confidence: high
 ---
 
@@ -167,6 +167,21 @@ The rule, nearly verbatim: **"sign associated with structure = a repeatable
 decision; sign in no-man's-land = low value."** A fish or a bird tied to a
 identifiable piece of structure gives you something you can come back to; the
 same sign in open water between features does not.
+
+## A single piece can carry more than one productive edge (Tackle Express)
+
+**Observed** (Tackle Express, `8fSGyJL2GHM`, "How to use depth charts to find
+biting fish," 2022-04-20; unregistered channel, single mention, no species or
+location named on camera — medium confidence): fishing one rock, the angler
+first took fish by casting over an inshore ridge on it, then repositioned to
+work the rock's **"outer footprint"** — the edge of its underwater outline,
+visible as an indentation on the chartplotter's depth chart — and kept getting
+bit there too, pointing to a distinctly **steep contour line** at that spot as
+"another real nice contour line that you can find them in." A small-scale
+analog of the fathom-curve doctrine above: don't treat a piece of structure as
+a single spot — its chartplotter contour lines can mark more than one
+productive edge (an inner ridge and an outer, steeper footprint edge), worth
+working in turn on the same piece before moving off it entirely.
 
 ## Continental margin bathymetry (mechanism, generic — not SoCal-measured)
 
