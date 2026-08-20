@@ -50,6 +50,10 @@ fluoro leader, braid main line — and feed the terminal rigs in
   note: [Seaguar Knot](seaguar-knot.md).
 - **Loop knot (terminal)** — ties a hook **without a solid ring** in its eye,
   when you don't have (or don't want) a ringed hook.
+  A different named loop-forming knot, tied for the opposite reason — a
+  free-**sliding** loop rather than a fixed one, so a ringed hook can pivot on
+  it — is kept as its own note: [Perfection Loop
+  Knot](perfection-loop-knot.md).
 - **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
   by the dozens through a bite, with a naming quirk (several presenters call
   the identical mechanic "San Diego jam" or "fisherman's knot") large enough
@@ -395,6 +399,7 @@ and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)

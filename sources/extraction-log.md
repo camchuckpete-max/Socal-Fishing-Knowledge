@@ -2145,7 +2145,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | _VtL0DrNdAU | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: Low-confidence product-endorsement addition (Seeker Athena flyline rod pick) merged into existing Flyline section; corrected an inaccurate same-doctrine attribution to Cesar's cast-quality bullet |
 | _Z4yMtrYgeA | SearcherSportfishing | tutorial | deep | done | rigging/crimping.md; rigging/haywire-twist.md; species/wahoo.md: duplicate/re-cut of S80GRyuAbLY correctly logged as provenance-only addition (earliest-date push to 2020-10-29), confidence held at medium per re-cut/duplicate rule, no new notes |
 | _jDXMtCrUZg | SearcherSportfishing | tutorial | deep | done | rigging/rubber-band-deep-rig.md; tackle/searcher-big-tuna-rig-ladder.md: tutorial/deep extraction of Steve Carson's 40/50 lb flyline outfit (Penn Torque two-speed, 65 lb braid, 8 ft 30-60 lb rod, 1/0-2/0 circle hook) plus sinker-bait rubber-band variant (4-5 oz torpedo sinker, ~120 ft target depth), merged into two existing notes |
-| _rf1TqLh1yE | SearcherSportfishing | tutorial | deep | pending |  |
+| _rf1TqLh1yE | SearcherSportfishing | tutorial | deep | done | rigging/perfection-loop-knot.md; rigging/essential-knots.md; techniques/hoop-netting.md / new sliding-loop hook-tie note (medium confidence, single corpus mention) linked from the knots router and cross-referenced with hoop-netting's existing rope-to-rope use of the same knot |
 | aAqKHeyBwEo | SearcherSportfishing | tutorial | deep | pending |  |
 | aD0Iim9C15o | SearcherSportfishing | tutorial | deep | pending |  |
 | an_uw-5pjfw | SearcherSportfishing | tutorial | deep | pending |  |

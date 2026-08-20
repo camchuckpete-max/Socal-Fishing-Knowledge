@@ -16,6 +16,7 @@
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md) **[SoCal only]** — A single-pass terminal knot for tying line straight to a hook or lure eye — the line goes through the eye once, not doubled, unlike the San Diego jam.
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md) **[SoCal only]** — A named connection knot joining braid to monofilament or fluorocarbon, demonstrated by Captain Rob Taylor of the *Searcher* for a Tackle Tip Thursday.
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
+- [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md) **[SoCal only]** — An "old school" terminal knot that ties a free-sliding loop rather than a fixed eye — the hook rides on the loop and can pivot/slide back and forth on it, "kind
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md) **[SoCal only]** — The SoCal go-to terminal knot for tying line to a hook or lure, trusted from calico bass up to 200 lb bluefin.
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
@@ -48,55 +49,59 @@ graph LR
   n9["Improved Clinch Knot — Single-Pass Hook Tie"]
   n10["John Collins Knot — Braid to Mono/Fluoro Splice"]
   n11["Leadhead Mods & Rigging"]
-  n12["Rubber-Band Deep Rig"]
-  n13["San Diego Jam Knot — Doubled and Single-Pass Terminal Tie"]
-  n14["San Diego Jam — Single vs. Double, and When to Use Each"]
-  n15["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
-  n16["Slim Beauty Knot — Spectra-to-Topshot Splice"]
-  n17["Springer Knot — Heavy-Line Hook Tie"]
-  n18["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n19["Tony Pena Knot — Mono-to-Spectra Splice"]
-  n20["Trap Rig"]
-  n21["Tuna Feather Rig"]
-  n22["Wind-On Leader"]
-  n23["Wiring a Surface Iron"]
+  n12["Perfection Loop Knot — Sliding-Loop Hook Tie"]
+  n13["Rubber-Band Deep Rig"]
+  n14["San Diego Jam Knot — Doubled and Single-Pass Terminal Tie"]
+  n15["San Diego Jam — Single vs. Double, and When to Use Each"]
+  n16["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
+  n17["Slim Beauty Knot — Spectra-to-Topshot Splice"]
+  n18["Springer Knot — Heavy-Line Hook Tie"]
+  n19["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n20["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n21["Trap Rig"]
+  n22["Tuna Feather Rig"]
+  n23["Wind-On Leader"]
+  n24["Wiring a Surface Iron"]
   n1 --> n2
-  n10 --> n17
-  n10 --> n19
+  n10 --> n18
+  n10 --> n20
   n10 --> n4
-  n12 --> n13
   n12 --> n4
+  n12 --> n9
   n13 --> n14
-  n13 --> n16
   n13 --> n4
-  n13 --> n9
-  n14 --> n13
-  n15 --> n12
-  n15 --> n4
-  n15 --> n9
+  n14 --> n15
+  n14 --> n17
+  n14 --> n4
+  n14 --> n9
+  n15 --> n14
+  n16 --> n13
   n16 --> n4
-  n16 --> n5
+  n16 --> n9
   n17 --> n4
+  n17 --> n5
   n18 --> n4
   n19 --> n4
   n2 --> n1
   n2 --> n7
-  n23 --> n7
+  n20 --> n4
+  n24 --> n7
   n4 --> n10
   n4 --> n12
   n4 --> n13
-  n4 --> n15
+  n4 --> n14
   n4 --> n16
   n4 --> n17
   n4 --> n18
   n4 --> n19
-  n4 --> n22
+  n4 --> n20
+  n4 --> n23
   n4 --> n5
   n4 --> n9
-  n8 --> n22
+  n8 --> n23
   n9 --> n10
-  n9 --> n12
   n9 --> n13
+  n9 --> n14
   n9 --> n4
 ```
 <!-- mermaid:end -->

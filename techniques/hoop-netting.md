@@ -84,9 +84,9 @@ a **working section sized to the home spot's typical depth** (Scotty's example:
 roughly **25–35 ft of water**) plus a separate **extension/"rope shot" section**
 (the remainder, ~60–65 ft) kept spare for occasional deeper drops (his example:
 a hot crawl reported in **San Diego Bay** as deep as **~55 ft**). Join the two
-with a loop-to-loop connection (perfection loop on each end, fed through and
-drawn tight) so the extra length can be added or left off in the field without
-recutting rope. Judgment: carrying the full 100 ft rigged all the time is
+with a loop-to-loop connection ([perfection loop](../rigging/perfection-loop-knot.md)
+on each end, fed through and drawn tight) so the extra length can be added or
+left off in the field without recutting rope. Judgment: carrying the full 100 ft rigged all the time is
 "pointless" and "gets in the way" when the home spot doesn't need it — size the
 main rig to the water you actually fish, keep the rest as a quick-add shot.
 Excess rope left hanging also matters for prop safety — see line management
@@ -375,4 +375,5 @@ gear) are also on the species note.
 ## Linked from
 
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Perfection Loop Knot — Sliding-Loop Hook Tie](../rigging/perfection-loop-knot.md)
 <!-- backlinks:end -->
