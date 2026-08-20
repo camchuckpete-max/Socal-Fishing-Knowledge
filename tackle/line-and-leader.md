@@ -408,6 +408,10 @@ able to break off** (aXF0bxAFtU0):
   ([rockfish](../species/rockfish-lingcod.md), sandbass in 100 ft) → **leader
   SIGNIFICANTLY LIGHTER than the braid.** You want the short leader to part near
   the hook, not the braid — a braid break can cost you half a spool.
+  **Material on that leader, standard rockfish double dropper loop:** 30 or
+  40 lb mono, not fluoro, is the default — cheap and effective since
+  rockfish aren't leader-shy; step up to fluoro only for a tough bite. See
+  [rockfish leader line](tackle-express-rockfish-leader-line.md).
 - **Leader size climbs with target, not calendar:** on offshore top shots, 15–40 lb
   fluoro covers paddy fish and small-to-mid tuna; 80 lb and up is the workhorse
   for bigger bluefin (xPFm_ZV2PZU).
@@ -560,6 +564,7 @@ able to break off** (aXF0bxAFtU0):
 - [John Collins Knot — Braid to Mono/Fluoro Splice](../rigging/john-collins-knot.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](searcher-40lb-all-around-tuna-outfit.md)

@@ -102,7 +102,11 @@ the *bottom*, not the fish.
   [gear classes](../tackle/gear-classes.md).
 - **Terminal:** **40 lb main gangion, two [dropper loops](../techniques/dropper-loop.md)**
   ~1.5 ft apart, 6/0 circle hooks, **light (12–15 lb) breakaway** to a **24 oz
-  torpedo sinker** so a snag costs only the lead.
+  torpedo sinker** so a snag costs only the lead. For a standard
+  double-dropper-loop rig specifically, **30 or 40 lb mono is the everyday
+  leader choice** — cheap and effective since rockfish aren't leader-shy —
+  with fluorocarbon reserved for a tough bite; see [rockfish leader
+  line](../tackle/tackle-express-rockfish-leader-line.md).
 - **Baits/lures:** **[gulp/soft-plastic grubs](../lures/soft-plastic-swimbaits.md)**
   (Ali's program: 8 oz jig head + 8" grub at ~270 ft), lead-head slugs,
   **[Ahi-Assault-style irons](../lures/iron-jigs.md)** and **[slow-pitch/knife
@@ -308,6 +312,7 @@ the *bottom*, not the fish.
 - [Pacific Bonito](bonito.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

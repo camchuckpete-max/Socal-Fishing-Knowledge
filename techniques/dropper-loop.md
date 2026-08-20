@@ -374,6 +374,11 @@ kept side by side as different mechanisms for the same goal, not merged.
   chuckleheads, [lingcod](../species/rockfish-lingcod.md). Run **straight braid
   to a barrel swivel, swivel to fluorocarbon, then two hooks** (octopus offset
   class), sinker below both.
+- **Leader line size and material, standard rock-cod double dropper loop:**
+  **30 or 40 lb, mono by default** — cheap and effective since rockfish aren't
+  leader-shy; step up to fluorocarbon only for a tough bite. See [rockfish
+  leader line (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
+  for the full breakdown.
 - Bait each hook by **double-hooking the squid** — don't fuss about the upper
   hook riding above the knot. The double pin gives holding power because
   **rockfish short-bite**, and it keeps the bait on. Two baited hooks fishing
@@ -508,6 +513,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
+- [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)

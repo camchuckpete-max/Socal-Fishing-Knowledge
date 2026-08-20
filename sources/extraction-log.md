@@ -2375,7 +2375,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 3dyEQhMnPMU | Tackle Express | tutorial | parameter-skim | done | none / skipped: 36s clip, ASR-garbled/unidentifiable bait name, freshwater bass content, no SoCal/Baja saltwater relevance |
 | 3n18taJWNEQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: 60s fragmentary auto-captioned short, no SoCal-specific content, generic 'keep a bend in the rod' advice only |
 | 3xx_vES0kdo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-charter-bait-tank-hook-kit.md; tackle/hook-assortment-by-trip-length.md; tackle/hooks.md / new bait-tank-framed hook/leader checklist note, cross-linked, faithful to transcript |
-| 3z1KZ_kIaec | Tackle Express | tutorial | parameter-skim | pending |  |
+| 3z1KZ_kIaec | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-rockfish-leader-line.md; species/rockfish-lingcod.md; tackle/line-and-leader.md; techniques/dropper-loop.md / new tackle note on rockfish dropper-loop leader material, cross-linked; evaluator trimmed duplicated restatement and fixed a smoothed line-size range |
 | 41d5bquXkAc | Tackle Express | tutorial | parameter-skim | pending |  |
 | 46kVgZ6P62M | Tackle Express | tutorial | parameter-skim | pending |  |
 | 52jkCrA4I9w | Tackle Express | tutorial | parameter-skim | pending |  |
