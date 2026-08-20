@@ -43,8 +43,22 @@ length that's correct for the application can still be a poor physical fit
 for a smaller angler. No specific rod model, length, species, or technique
 is named in this source.
 
+## The other direction — bigger/stronger anglers sizing up
+
+Steve Carson, SearcherSportfishing (`sjOJiR6_HJ4`, "Tackle Tip Thursday
+Vol. 229 (Rail Rods)," 2023-12-07), gives the opposite adjustment for a
+bigger, stronger angler on a heavy rail-rod outfit: where **7 ft** is his
+stated floor for a big-tuna rail rod, an angler who is "an NFL lineman... or
+maybe just a college football lineman" can instead choose a **longer** 7 ft
+3 in or 7 ft 6 in rod. Same build-driven principle as Tochihara's fix above
+— fit the rod length to the angler, not only the application — applied at
+the opposite end of the size spectrum and to a different rod class (heavy
+rail rods vs. a general casting/fighting rod). Full rig context in [Searcher
+rail-rod ladder](searcher-rail-rod-ladder.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
 <!-- backlinks:end -->

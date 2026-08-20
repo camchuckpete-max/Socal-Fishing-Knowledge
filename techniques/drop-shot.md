@@ -157,5 +157,6 @@ Light spinning / finesse-bottom class — see
 - [California Halibut](../species/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

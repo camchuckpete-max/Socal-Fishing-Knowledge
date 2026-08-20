@@ -609,6 +609,12 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 
 ## Related
 
+- [Searcher rail-rod ladder — four tiers by line
+  rating](searcher-rail-rod-ladder.md) — a later (2023-12-07), companion
+  citation from the same speaker, leading with the rod itself rather than
+  the reel; corroborates Rig 1, the 16VISX rig, and the 20VISX rig above
+  almost exactly, and adds the "fish the middle of the rating" rule's third
+  independent citation.
 - [Bluefin 50–80 lb bait outfit ladder](bluefin-50-80lb-bait-outfit-ladder.md)
   — the earlier (2019-08-01), plausibly-same-presenter Accurate/Searcher
   bait-rig ladder, kept as its own note rather than merged into this one.
@@ -673,6 +679,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

@@ -23,6 +23,7 @@
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](searcher-daytime-dart-jig-outfit-ladder.md) — Steve Carson, aboard the Searcher (pCd6QykcZ0w, "Tackle Tip Thursday Vol.
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md) — Steve Carson, aboard the Searcher (ptoIvB2MspE, "Tackle Tip Thursday Vol.
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md) — Steve Carson, aboard the Searcher (sjOJiR6_HJ4, "Tackle Tip Thursday Vol.
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
@@ -53,9 +54,10 @@ graph LR
   n16["Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)"]
   n17["Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)"]
   n18["Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)"]
-  n19["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
-  n20["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
-  n21["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
+  n19["Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)"]
+  n20["Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)"]
+  n21["Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place"]
+  n22["Spinning-Reel Live-Bait Feeder — Mechanism & Use"]
   n0 --> n15
   n0 --> n2
   n0 --> n3
@@ -69,12 +71,13 @@ graph LR
   n10 --> n1
   n10 --> n11
   n10 --> n18
-  n10 --> n19
   n10 --> n2
-  n10 --> n21
+  n10 --> n20
+  n10 --> n22
   n10 --> n3
   n10 --> n7
   n11 --> n10
+  n11 --> n19
   n12 --> n13
   n12 --> n15
   n12 --> n2
@@ -95,6 +98,7 @@ graph LR
   n15 --> n16
   n15 --> n19
   n15 --> n2
+  n15 --> n20
   n15 --> n3
   n16 --> n13
   n16 --> n15
@@ -104,12 +108,12 @@ graph LR
   n17 --> n7
   n18 --> n1
   n18 --> n10
-  n18 --> n19
+  n18 --> n20
   n18 --> n3
-  n19 --> n10
-  n19 --> n13
+  n19 --> n11
+  n19 --> n12
   n19 --> n15
-  n19 --> n18
+  n19 --> n16
   n19 --> n3
   n2 --> n0
   n2 --> n10
@@ -121,13 +125,19 @@ graph LR
   n2 --> n5
   n2 --> n6
   n2 --> n7
-  n20 --> n7
-  n21 --> n10
-  n21 --> n3
+  n20 --> n10
+  n20 --> n13
+  n20 --> n15
+  n20 --> n18
+  n20 --> n3
+  n21 --> n7
+  n22 --> n10
+  n22 --> n3
   n3 --> n10
   n3 --> n15
   n3 --> n18
   n3 --> n19
+  n3 --> n20
   n3 --> n7
   n4 --> n5
   n5 --> n12
@@ -142,7 +152,7 @@ graph LR
   n6 --> n3
   n7 --> n10
   n7 --> n13
-  n7 --> n20
+  n7 --> n21
   n7 --> n3
   n8 --> n5
   n9 --> n10

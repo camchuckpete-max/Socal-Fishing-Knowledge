@@ -158,6 +158,14 @@ below rate normally):**
   — not reconciled here as the same or a different physical rod set, since
   neither source cross-references the other; kept as separate citations of
   the same product name.
+- A **fifth citation, a full four-tier rail-rod ladder by line rating**
+  (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday Vol. 229 (Rail
+  Rods)," `sjOJiR6_HJ4`, 2023-12-07) — the same rubber-on-the-rail, not the
+  blank, foregrip mechanism described above, worked through four named rod
+  models (7 ft 8 in 40–100 lb, "Carnage 3" 7 ft 60–100 lb, "8130" 7 ft
+  80–130 lb, and an 80–150 lb model) with grade ceilings from ~225 lb up to
+  350–400 lb tuna — full detail in [Searcher rail-rod
+  ladder](searcher-rail-rod-ladder.md).
 
 ## Line classes
 
@@ -243,6 +251,7 @@ does the lookup.
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](searcher-finesse-live-bait-outfit.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
