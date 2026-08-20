@@ -55,11 +55,12 @@
 - [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — Tackle Express, "Daiwa Saltiga 35 vs.
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Tackle Express, "How to Catch a Trophy Bluefin Tuna on a Jig" (James, on camera; DuNkl8F45NE, uploaded 2022-06-04).
+- [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md) — Tackle Express (Harry, Eo_bA8IWvyU, "Before You Fish for White Seabass — Watch This!
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 51 notes exceed the 30-node cap._
+_Map skipped: 52 notes exceed the 30-node cap._
 <!-- mermaid:end -->

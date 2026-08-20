@@ -2450,7 +2450,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | EcNijcqjLvE | Tackle Express | tutorial | parameter-skim | done | none / out-of-scope freshwater bass swimbait tuning content; extraction-log row filled |
 | Ecqt-ZLnvaU | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-izorline-xxx-mono.md (new); tackle/line-and-leader.md / low-confidence Izorline XXX mono note, sponsored counterpoint linked |
 | EdN3BowjYjg | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: promotional reel-bag product showcase, fails curation bar |
-| Eo_bA8IWvyU | Tackle Express | tutorial | parameter-skim | pending |  |
+| Eo_bA8IWvyU | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md; species/white-seabass.md; tackle/tackle-express-charter-bait-tank-hook-kit.md; techniques/dropper-loop.md; techniques/sliding-sinker.md; tackle/tackle-express-white-seabass-rod-reel-line.md / parameter-skim extraction of dropper-loop/leadhead/slider/jig-soak/artificials rigs, hook-size ASR corroboration, and a new rod-reel-line tackle note |
 | EuYOlsnxXko | Tackle Express | tutorial | parameter-skim | pending |  |
 | F0849S6gBPY | Tackle Express | tutorial | parameter-skim | pending |  |
 | FR7Cg9Jqug4 | Tackle Express | tutorial | parameter-skim | pending |  |

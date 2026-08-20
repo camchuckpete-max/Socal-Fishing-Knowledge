@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, hook-size, live-bait, anchovy, sardine, squid, dropper-loop, slider, tuna, flyline, bottom-fishing, fluorocarbon, owner, leader, white-seabass, j-hook, fin-bait]
-sources: [3xx_vES0kdo, 9MzNNwHiBXs]
+sources: [3xx_vES0kdo, 9MzNNwHiBXs, Eo_bA8IWvyU]
 confidence: medium
 ---
 
@@ -57,10 +57,22 @@ doctrine lives in [hooks](hooks.md) and isn't repeated here.
 
 - **Owner**, a hook the captions render **"oy twist"** — **asr-uncertain**,
   exact model not resolved — sized **5** and **7** to cover small and big
-  squid respectively.
+  squid respectively. **Independently corroborated (Tackle Express,
+  Eo_bA8IWvyU, 2025-04-16):** a second Tackle Express video names the same
+  hook with the same caption spelling, "Owner Oy Twist," used as a long-shank
+  J hook for pinning a whole fresh dead squid on a dropper loop — the
+  repeated identical ASR string across two separate transcripts supports
+  "Oy Twist" as close to the real product name, though it still isn't
+  confirmed against a catalog. That source's own size figure, captioned "an
+  Oy twist hook between 50 to 70," is read as **5/0 to 7/0** (the caption
+  again dropping the slash, the same pattern that renders "1/0" as "10"
+  elsewhere in this corpus) — which resolves the plain "5 and 7" here to
+  **5/0 and 7/0**.
 - **Weight for dropper loop:** a **10 oz or 12 oz torpedo sinker**, a couple
   in the box, to get squid down on a [dropper loop](../techniques/dropper-loop.md)
-  or a slider rig.
+  or a slider rig. A second Tackle Express source gives a slightly wider
+  range, **8–12 oz**, for the same rig (Eo_bA8IWvyU) — kept side by side
+  rather than reconciled to one figure.
 - **Sliders: 1/8 oz to 1/2 oz**, sized to current, for flylining squid as well
   as sardine and mackerel — gets the bait deeper and off the surface,
   particularly when birds are picking at baits fished up top. See
@@ -79,9 +91,12 @@ the next resort is fin sardines and mackerel, so carrying proper **J hooks**
 sized for fin bait is essential, not an afterthought.
 
 - **Owner Flyliner hooks**, sizes the captions render as **"a 10 and 2"** —
-  read here as **1/0 and 2**, though not confidently resolved
-  (**asr-uncertain**) — work well for **sardines and mackerel between 5 and
-  about 6–7 in**.
+  read here as **1/0 and 2**. **Independently corroborated (Tackle Express,
+  Eo_bA8IWvyU, 2025-04-16):** a second Tackle Express video gives the same
+  hook name and the same caption string, "a 10 and 2," for the same
+  application (sardine/mackerel, 5–7 in) — the repeated identical ASR
+  rendering across two separate transcripts resolves the earlier
+  **asr-uncertain** flag in favor of **1/0 and 2**.
 - **Bait-sets-the-size still applies:** bait bigger or smaller than that range
   calls for a different hook size — the same doctrine already logged in
   [hooks — size](hooks.md#size--bait-first-fish-second), not repeated here.

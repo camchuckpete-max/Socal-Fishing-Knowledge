@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -114,6 +114,15 @@ engage the reel and work it with a **"wind and pop"** of the rod tip — a
 series of short pops/flicks meant to kick the squid's tail — to try to turn
 a curious fish into a biter.
 
+**Independently corroborated by a second, closely-dated Tackle Express video
+(Eo_bA8IWvyU, 2025-04-16 — nine days before the video above; unregistered
+channel, same source cap — medium confidence):** describes the same
+flick-it-out-behind-the-boat, current-assisted, tension-on-the-free-spool,
+wind-and-pop retrieve for a full squid on a lead head, worked from up near
+the surface down to whatever depth the skipper calls. Given the near-identical
+mechanics and the same channel/presenter, treated as the same doctrine
+repeated across two videos rather than two independent confirmations.
+
 ### Dockside leadhead selection and fishing (F-vOTerdulU)
 
 - Used for seabass, halibut, and yellowtail on squid nests around the Channel
@@ -142,4 +151,5 @@ How & when to fish leadhead + squid (mid-column): https://www.youtube.com/watch?
 
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [White Seabass](../species/white-seabass.md)
+- [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 <!-- backlinks:end -->

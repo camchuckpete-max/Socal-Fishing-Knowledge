@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0, Eo_bA8IWvyU]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -75,7 +75,24 @@ ShSxNKAcUB4, 2020-12-08; single mention of this specific build —
   weight. In genuinely heavy current over deep water, he abandons the slider
   entirely for a heavy jig with the squid hooked on it, dropped straight down
   (asr-uncertain: captions render the jig name as "a TLC"; not carried as a
-  brand — see log).
+  brand — see log). **Independent corroboration and a fuller technique for
+  this heavy squid-holding jig (Tackle Express, Eo_bA8IWvyU, 2025-04-16;
+  unregistered channel — medium confidence):** names two Tady-brand jig sizes
+  for this role — a smaller one captioned identically as **"TLC"** and a
+  larger **Tady 40** — both carrying an oversized single hook built to pin a
+  whole fresh dead squid (1–3 squid per jig, deckhand/captain permitting,
+  since squid supply can run short) and a glow-in-the-dark backside. The same
+  ASR string ("TLC") recurring independently across two different Tackle
+  Express transcripts reads as corroboration that this is close to the jig's
+  actual model designation, though the full brand/model is still not
+  confirmed against a catalog. **Fished as a stationary bottom soak, not a
+  worked jig:** drop to bottom, crank up roughly 3–6 to 10 ft to clear snags
+  and bottom bycatch, then leave it hanging in the rod holder — the boat's own
+  roll works the jig up and down passively rather than the angler jigging it.
+  Framed as a **gray-light/very-low-light technique specifically** (pre-dawn,
+  heavy fog, or a spot shadowed from the sun), on the stated reasoning that
+  most white seabass are caught in low light and the glow back draws the look
+  before the squid pile draws the eat.
 - **Lead-head color, a separate point in the same passage:** the lead heads
   he otherwise likes for squid are **orange-headed** — not heavy, sink well
   through the column, sized with a big enough hook to carry the squid — and
@@ -98,6 +115,25 @@ ShSxNKAcUB4, 2020-12-08; single mention of this specific build —
   rod in the holder instead of casting and retrieving, a dropper loop tied 12
   to 18 inches above the sinker holds the squid up out of bottom contact the
   same way — see [dropper loop](dropper-loop.md).
+
+**A second slider build and a depth-based rule for choosing it over the
+dropper loop (Tackle Express, Eo_bA8IWvyU, 2025-04-16; unregistered channel —
+medium confidence).** Where the seasonal Hansen build above emphasizes going
+as light as the current allows, this source frames the choice around **where
+in the column the fish are sitting**: reach for the sliding/egg sinker (over
+the dropper loop) specifically when the skipper calls fish **higher in the
+column or near the surface** — his example, fish called at 20–30 ft over
+60–100 ft of bottom — rather than pinned to the bottom, where the dropper
+loop is the better tool.
+- **Glow-in-the-dark egg sinkers**, fished the same free-sliding way, are
+  named as a variant for a more natural presentation.
+- **Working the column instead of one static depth:** let line out under
+  steady tension (never dump it in slack) so the bait sinks cleanly; after
+  it's had time to settle, engage the reel and take a few cranks to bring the
+  sinker back up near the bait, then free-spool again to let it separate and
+  keep sinking — repeating this cycle works the bait progressively deeper
+  through the zone the skipper is calling rather than fishing one fixed depth.
+  Fished on full fresh dead squid or fin bait, same as the dropper loop.
 
 ## Baja, Sea of Cortez grouper leader (Cesar)
 

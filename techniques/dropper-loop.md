@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -62,6 +62,20 @@ this note owns the rig and the retrieve.
   Saltwater Guide, ShSxNKAcUB4, 2020-12-08). See also the [sliding-sinker
   suspend-and-retrieve alternative](sliding-sinker.md#white-seabass-weight-ladder--suspend-and-retrieve-your-saltwater-guide)
   from the same source for a cast-and-retrieve option on the same fish.
+- **A second white seabass dropper-loop build, with different figures — kept
+  side by side, not reconciled (Tackle Express, Eo_bA8IWvyU, 2025-04-16;
+  unregistered channel — medium confidence):** single **Owner Ai/Oy Twist**
+  hook, size **50–70**, described as a long-shank J hook sized to pin a whole
+  fresh dead squid. Sinker: **8–12 oz torpedo**, sized to depth and current,
+  fished typically in **60–90 ft** close to bottom over a squid bed. **Leader
+  from sinker to hook: about 4 ft** — the stated reason is bycatch avoidance
+  (bat rays, sharks) rather than presentation, though it can also net a
+  yellowtail or halibut on the same leader. **Hook-to-loop leg: 8–16 in** (a
+  wider window than, but overlapping, the 12–18 in figure above) — reasoned
+  as letting the squid "frolic" in the current for a seabass working the
+  bottom slowly. **Rigging the squid on this hook:** pass the hook through the
+  squid's tail three times (flipping the squid between passes), then pull the
+  tail up snug over the knot so the bait sits pinned and doesn't slide.
 - **White seabass overnight soak — staggered depths and line class
   (StokedOnFishing, Catalina Island, 2023-08-30, Y2bXn44lfqo; unregistered
   channel — medium confidence):** on an anchored overnight soak for
@@ -526,5 +540,6 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [White Seabass](../species/white-seabass.md)
+- [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

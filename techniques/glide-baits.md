@@ -451,6 +451,7 @@ Bass casting / swimbait class, stepping up to a heavy glide-bait class for
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
