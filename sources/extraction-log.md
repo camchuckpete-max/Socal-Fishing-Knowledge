@@ -2395,7 +2395,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 6Z6Dht20kTA | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / added common-failure entry: continuous in-school jigging spooks fish, bounce-vs-burn fix |
 | 6dTz1640Y5c | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md (new); tackle/rod-and-reel-selection.md / new note: hand-bend rod testing misreads action (artificial pivot, tip unreachable) |
 | 6gwvP8_pjWc | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass wake-bait tutorial (Deps Buzzjet), correctly out of scope; no notes created; fixed stale extraction-log pending row |
-| 6qz6aQ9PusA | Tackle Express | tutorial | parameter-skim | pending |  |
+| 6qz6aQ9PusA | Tackle Express | tutorial | parameter-skim | done | none / 35-second personal-banter clip about booking a trip, zero fishing knowledge content, correctly skipped |
 | 6sfaYq9wMvQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | 75lUj-uaArQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | 7AOtPUGwKDI | Tackle Express | tutorial | parameter-skim | pending |  |
