@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wahoo, casting, bomb, jig-stick, wire-leader, toothy, baja]
-sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo, tjBeR9tWd4s, 4uNPLknRAQg]
+sources: [-62xDo4UQzo, 0zgmoOH3Qag, 9IhmYstB8sA, ETw_3AFxEcM, G81HN0dIDg0, J3FGJj5zYPE, PjLa3oGm4Qg, W6RuHvaqkHs, aAqKHeyBwEo, tjBeR9tWd4s, 4uNPLknRAQg, _f5QmWSUUx8]
 confidence: medium
 regions: [baja-pacific-south, cortez-south]
 waters: [open-ocean, bank]
@@ -242,6 +242,29 @@ where this fits among wahoo's other techniques routes from
   slightly different counts by different speakers, not a conflict. Full
   boat-safety detail (gaffing, hook removal, deck footwear) is in
   [wahoo handling & deck safety](../fish-care/wahoo-handling.md).
+
+**Observed** (SearcherSportfishing, angler Jim (from Colorado), Alijos Rocks,
+Baja — trip framed on camera as the angler's first stop at "the rocks";
+title gives the trip only as "09/10," resolved to **September 2010** from
+companion videos in the same charter/upload series that spell it out (e.g.
+"Dodo Bite Sept 2010 Alijos," "Jeff, Sept 2010, Alijos Rocks") —
+`_f5QmWSUUx8`, "Jim Preciado, Alijos Rocks, 09/10"): an angler fished a
+wire-leadered jig captioned on screen/ASR as a "Rider jig" — read in context
+as the **Raider jig** already named as this technique's standard cast lure
+(see [Lure choice](#lure-choice) above) — matching the wire-leader-mandatory
+rigging already documented for this technique. A dorado boil was sighted at
+the surface ("Dorado boil right there," "Dorado jumping out of the water,"
+with a deckhand aside — "keep his head in the water if he can" — said in the
+same breath as the boil sighting, so it's not clear from the captions whether
+this anticipates a hookup or narrates a free-swimming fish). Some time after
+that, an apparent strike is called ("there it is, there it is, he ran at
+you"), followed by fight-coaching to keep winding ("turn the handle,"
+"wind," "line out"), with a second hookup called shortly after ("another
+one"). The captions never confirm either fish actually being landed, and
+never state which species was on the line, so this is logged as **gear
+corroboration only** (a wire-leadered Raider-class jig cast at Alijos
+Rocks) — not a confirmed wahoo catch, and not merged into
+[dorado](../species/dorado.md)'s doctrine either.
 
 ## Rigging
 

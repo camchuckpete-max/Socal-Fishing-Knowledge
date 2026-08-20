@@ -2308,7 +2308,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ZIJAvAEW_tU | SearcherSportfishing | on-the-water | decision-rationale | done | planning/electronics-and-sounder.md: 2010 Westar to Furuno CH250 gyro-stabilized transducer decision-rationale |
 | ZY-cTuFtjh8 | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: silent aerial b-roll clip, no fishing content |
 | ZcIiucZlBcM | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 5s editing/outtake clip, no fishing content |
-| _f5QmWSUUx8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| _f5QmWSUUx8 | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/wahoo-bomb-casting.md: Observed wire-leadered Raider-class jig, Alijos Rocks, Sept 2010, gear corroboration only |
 | _r08B4bItAY | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | aXqFrQSNrDc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | atboDq5tZ0Q | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
