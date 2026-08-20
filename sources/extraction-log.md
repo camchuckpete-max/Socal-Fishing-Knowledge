@@ -2431,7 +2431,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Bok0db0G4xE | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md; techniques/inshore-crankbaits.md / small-treble-to-Scrounger-head/cut-skirt-ChatterBait hook swap for big halibut; evaluator trimmed router duplication, kept implementation in technique note |
 | BsWb5BQ1Tdc | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md; tackle/tackle-express-night-bluefin-tg-jig-rig.md / knife-jig downsizing trigger detail; Jarry rig name correction + anti-bind construction detail |
 | BwDJ4VFvB3E | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater bass-fishing crankbait review, no SoCal/Baja saltwater relevance |
-| CNMXkml1okI | Tackle Express | tutorial | parameter-skim | pending |  |
+| CNMXkml1okI | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: no rig parameters, species, or location stated; speaker says reel model doesn't matter |
 | CO8YU-TD8D4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | CdgSBcN6PDo | Tackle Express | tutorial | parameter-skim | pending |  |
 | CsKEtrcLgiQ | Tackle Express | tutorial | parameter-skim | pending |  |
