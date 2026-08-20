@@ -2257,7 +2257,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ACL2BD6gbkE | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — boat haul-out/maintenance video, no fishing knowledge content |
 | AJzAbQ0i3QY | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 30s garbled auto-caption promo clip, no fishing content |
 | B1r0T6f5kgM | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 95s promotional testimonial clip about ultra-limited-load charter trips (rail space, staterooms, no tangles), no fishing knowledge content |
-| Bk0-P4oeFiU | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| Bk0-P4oeFiU | SearcherSportfishing | on-the-water | decision-rationale | done | on-the-water/decision-rationale extraction — nothing extractable (raw celebratory footage, no stated rationale, no new decision/conditions content beyond existing dorado/Alijos coverage) |
 | CSpBymCVWN4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | C_MmNnJrdrQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | Dr_npFZYLM4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
