@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI, Sx40JvCXFuA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -86,6 +86,22 @@ the bluefin nearby become more cooperative too.**
   pairs with. (The same clip closes on a dated trip-booking announcement —
   a specific 2019 charter date with seats remaining — which is promotional
   and time-bound, not carried here as knowledge.)
+  **A fifth, earlier grade data point for the same island** (Capt. Art,
+  SearcherSportfishing, "2009 fishing season comments by Capt Art,"
+  `Sx40JvCXFuA`, 2009-08-25; season-recap clip, not the numbered Tackle Tip
+  Thursday/Tackle Talk Live instructional format the `searcher-sportfishing`
+  registry row describes — a single mention, which caps at medium per the
+  confidence rubric regardless of the channel's registered status): the
+  operator's **first-ever trip to Guadalupe Island**, run in 2009 after
+  obtaining Mexican fishing permits (captioned "sack in Mexico" — ASR-garbled,
+  read as SAGARPA, the Mexican federal fisheries agency of the period; not
+  confidently resolved, flagged `asr-uncertain`), produced yellowfin graded
+  **40–70 lb**, called on camera "one of the best fishing trips to Guadalupe
+  Island that I've experienced in my career." No technique, bait, or tackle
+  choice was named or reasoned on camera, so this is recorded as an outcome,
+  not technique doctrine — it sits within, and extends back to 2009, the
+  30–150 lb Guadalupe grade range already logged above rather than adding a
+  new extreme.
 
 - **Why late summer/fall warms up — a stated mechanism (Art Taylor/Mike,
   SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip
