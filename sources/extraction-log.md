@@ -2264,7 +2264,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ELd90j4ZukI | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — garbled auto-caption dockside interview clip, no attributable location/technique/species-outcome combination survives scrutiny |
 | EfAThf5gOFw | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 37s clip is entirely applause/crowd noise and photo-op stage directions, no fishing content |
 | FIAvWu02xko | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 25s fragment of unattributed deck chatter, no species/technique/gear content |
-| FPZBm0oFvKc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| FPZBm0oFvKc | SearcherSportfishing | on-the-water | decision-rationale | done | on-the-water footage with only unintelligible ASR fragments (boat gaffing scene, no stated technique/rationale/species/location) — nothing extractable |
 | Fdaq28LwK0I | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | HAxYMiqkBDs | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | HCC1uhsPSas | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
