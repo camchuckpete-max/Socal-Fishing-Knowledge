@@ -2291,7 +2291,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Psiiza6YQyE | SearcherSportfishing | on-the-water | decision-rationale | done | tackle/drag-setting.md: merged Capt. Aaron Remy's drag-setting reasoning (hands-free-hookset, drag-wear-like-brakes, star-drag test, crew-check corroboration); fixed date-ordering error |
 | QMTCBY-kKeE | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable — 11s clip contains only music and a single word, no fishing content |
 | QOV9d0qTcEE | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 49s clip with no extractable fishing content |
-| QeU9J5XVhP4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| QeU9J5XVhP4 | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: nothing extractable, garbled clip with no stated rationale |
 | Qk6Q1UJMTpQ | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | RhULLaUsEDk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | S6Ic8aXDdIg | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
