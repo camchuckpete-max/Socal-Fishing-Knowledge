@@ -76,10 +76,14 @@ adding the backlash-avoidance detail:
 - [Live-bait pendulum cast](live-bait-pendulum-cast.md) — same channel/series;
   the swing-cast used for an unweighted, fly-lined bait when this lob isn't
   enough to get the bait moving on its own.
+- ["Wind in your face" rail positioning](wind-in-your-face-positioning.md) —
+  same channel/series; where to stand and how to move along the rail once
+  this cast gets the bait out.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)

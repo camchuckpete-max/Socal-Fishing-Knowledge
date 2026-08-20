@@ -64,6 +64,9 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
 - [Live-bait pendulum cast](live-bait-pendulum-cast.md) — same channel/series;
   the swing-cast for an unweighted, fly-lined bait, also getting the bait out
   before this grip takes over.
+- ["Wind in your face" rail positioning](wind-in-your-face-positioning.md) —
+  same channel/series; where to stand and how to move along the rail while
+  this grip holds the rod.
 - [Rod & reel selection](../tackle/rod-and-reel-selection.md) — the broader
   free-spool/thumb-control grip doctrine this note's fingertip-feed detail
   corroborates.
@@ -71,6 +74,7 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)

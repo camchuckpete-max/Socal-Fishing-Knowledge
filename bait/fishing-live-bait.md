@@ -497,7 +497,10 @@ lighter bait (e.g. anchovy on a small rubber-core sinker). For an
 **unweighted, fly-lined** bait specifically — no sinker to help load the
 cast — see [live-bait pendulum
 cast](../techniques/live-bait-pendulum-cast.md), which also covers when hook
-position rules out an overhead cast.
+position rules out an overhead cast. Once the bait is out and soaking on a
+multi-angler stop, where you stand and how you move along the rail matters
+as much as the cast — see ["wind in your face" rail
+positioning](../techniques/wind-in-your-face-positioning.md).
 
 ## Chumming with live bait (lxFNVdDhMy4)
 
@@ -590,10 +593,14 @@ clips above.)
   soaking a hooked bait off the rail.
 - [Live-bait pendulum cast](../techniques/live-bait-pendulum-cast.md) — the
   swing-cast for an unweighted, fly-lined bait.
+- ["Wind in your face" rail positioning](../techniques/wind-in-your-face-positioning.md) —
+  where to stand and how to move along the rail on a multi-angler drift stop
+  once the bait is out.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Wind in Your Face" — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Bait Tanks](bait-tanks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Chunking](../techniques/chunking.md)
