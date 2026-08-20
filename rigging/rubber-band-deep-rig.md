@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -128,6 +128,28 @@ drop-shot/brawler build logged in its own section below.
   the Vol. 225 video, this indicates the channel has taught the same
   two-build rig, including the neighboring-angler-tangle reasoning, since at
   least mid-2019 — not a doctrine that changed by 2023.
+
+## Depth-target detail — a fourth Searcher data point (Steve Carson, Vol. 59, 2019-10-16)
+
+**Steve Carson, SearcherSportfishing, `_jDXMtCrUZg`, "Tackle Tip Thursday Vol.
+59 (Fly line outfit)," 2019-10-16; unregistered-at-the-time citation, but
+`searcher-sportfishing` is now a registered channel — medium confidence,
+single mention.** A data point between the Vol. 55 tip (`KYE14piJAzI`,
+2019-07-03, above) and the Vol. 225 build (`5CvFDpvlfSE`, 2023-08-03, above)
+in upload order, presented as part of a 40/50 lb-class flyline outfit rather
+than as its own dedicated sinker-rig segment — full rod/reel/line spec for
+that outfit is in [Searcher big-tuna rig
+ladder](../tackle/searcher-big-tuna-rig-ladder.md#workhorse-flylining-outfit-4050-lb-class--guadalupe-island-steve-carson-pennsearchersportfishing-2019-10-16).
+
+- **Build:** a **rubber band** carrying a **4–5 oz torpedo sinker**,
+  positioned roughly **4 ft above the hook** on the flyline.
+- **Target depth, new detail not given by the other Searcher-channel entries
+  above:** stated to get the bait down to roughly **120 ft** — the other
+  entries in this note give sinker weight and leader but not a resulting
+  target depth, so this is kept as an added data point rather than merged
+  into either of them.
+- Called out on camera for what Carson names "sinker baits," on the same
+  Guadalupe Island tuna trips as the flyline outfit above.
 
 ## Sinker and hook parameters (a second, independent source)
 
@@ -587,6 +609,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

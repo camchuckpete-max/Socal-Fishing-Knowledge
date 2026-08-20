@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate]
-sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0]
+tags: [bluefin, big-tuna, giant-tuna, rig-ladder, two-speed, top-shot, penn, searcher, line-class, dart-jig, coltsniper, yellowfin, guadalupe-island, finesse, light-line, accurate, flyline, sinker-bait]
+sources: [0E9REoTjKrY, VxHYxXmPoWQ, 6wVlDDno2TE, ETw_3AFxEcM, NJ9ZLAU3sls, TU5quAG4atM, WxlDxFjB8oQ, ZKb13fNT6P0, _jDXMtCrUZg]
 confidence: high
 ---
 
@@ -107,6 +107,49 @@ dated entries rather than merged.
   in [knife jigs](../lures/knife-jigs.md#night-lure-sizing-matched-to-outfit-size-and-profile-shape-gavin-pacific-queen),
   but this video's 250 g doesn't overlap that range and the brand isn't
   confirmed here, so the two aren't merged.
+
+## Workhorse flylining outfit, 40/50 lb class — Guadalupe Island (Steve Carson, Penn/SearcherSportfishing, 2019-10-16)
+
+Steve Carson, aboard the **Searcher** (`_jDXMtCrUZg`, "Tackle Tip Thursday
+Vol. 59 (Fly line outfit)," uploaded 2019-10-16; `searcher-sportfishing`
+registered channel, first citation of this specific rig — medium confidence).
+Filmed mid-summer with three-day trips headed to Guadalupe Island; framed as
+the outfit an angler shouldn't "leave the dock without."
+
+- **Reel:** captioned "pan torque 32 speed" — read as a **Penn Torque**, size
+  digit **asr-uncertain** (the "32" may be the caption blending the model
+  size with the very next words, "two-speed," rather than a real "32" size —
+  Penn's Torque lineup doesn't run that number elsewhere in this KB). What is
+  firm: Carson specifically calls out that it must be **two-speed** —
+  "you do want it to be a two-speed, it's important."
+- **Line:** **65 lb test braid**, filling the spool "almost all the way."
+- **Rod:** **8 ft**, rated **30–60 lb test** — sized so the same outfit can
+  carry either a **40 or 50 lb top shot**, "casting lengths."
+- **Hook:** a circle hook, captioned "a 100 or a 200" — read here as **1/0 or
+  2/0** on the same aught-sizing caption pattern already logged elsewhere in
+  this KB (e.g. "a to AH hook" read as 2/0, "at 300 hook circle hook" read as
+  3/0, both in [bluefin 50–80 lb bait outfit
+  ladder](bluefin-50-80lb-bait-outfit-ladder.md) and
+  [flyline](../techniques/flyline.md)); asr-uncertain on the exact digit,
+  sized to the bait.
+- **Presentation:** pick a lively bait, cast it into the current, and fly
+  line it — the same no-weight, cast-and-let-it-swim mechanic as
+  [flyline](../techniques/flyline.md).
+- **Grade:** tuna **50–100 lb**.
+- **Same outfit doubles for the sinker-bait rig:** for "sinker baits," about
+  **4 ft above the hook**, a **rubber band** carries a **4–5 oz torpedo
+  sinker** to get the bait down to roughly **120 ft** — full rig
+  parameters, and how this depth-target figure compares with the note's other
+  Searcher-channel data points, are logged in [rubber-band deep
+  rig](../rigging/rubber-band-deep-rig.md#depth-target-detail--a-fourth-searcher-data-point-steve-carson-vol-59-2019-10-16).
+
+**Volume-number note:** this video's own title/caption number ("Vol. 59")
+duplicates the volume number already logged for a different SearcherSportfishing
+video, `Yd3J4igs-QA` ("Tackle Tip Thursday Vol. 59 (Tuna Set-up)," Gary/Accurate,
+2019-08-01, in [bluefin 50–80 lb bait outfit
+ladder](bluefin-50-80lb-bait-outfit-ladder.md)) — different presenter, date,
+and content. Flagged as an apparent channel-side numbering inconsistency
+rather than silently resolved; `video_id` remains the citation key either way.
 
 ## Three-rig ladder for big bluefin, up to 300–350 lb (Steve Carson, Penn/Searcher, 2022-04-21)
 
@@ -461,6 +504,7 @@ finesse tuna](../techniques/dart-jig-tuna.md).
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
