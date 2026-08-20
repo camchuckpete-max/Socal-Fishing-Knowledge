@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw]
 confidence: medium
 ---
 
@@ -332,6 +332,30 @@ bait size. With small bait in the well, he was able to fish it down to
 **size 4, size 2, and size 1** and still give fish a full fight and land
 them effectively — a lighter wire holding up on small hook sizes, not just
 a smaller Owner substituted in.
+
+### Gamakatsu Nautilus circle — regular vs. HD vs. Light, sponsored pick (Pete Gray, SearcherSportfishing "Tackle Tip Thursday" Vol. 106, `YtlD1gQ_ULw`, 2020-07-02; `searcher-sportfishing` registered channel, but this segment is a product endorsement tied to a Gamakatsu-sponsored trip giveaway — `low` confidence per the channel's sponsored-claim caveat)
+
+A same-brand product-line data point alongside the Gamakatsu Nautilus entry
+above (from a different, unregistered source) — this one distinguishes three
+Nautilus variants rather than giving one size range:
+
+- **Nautilus (regular) circle hook, size 2/0** — called the right size "for the
+  bait right now" (i.e., as of this July 2020 trip's bait, not stated as a
+  fixed rule); **1/0** given as an alternative option.
+- **Nautilus HD** — a heavier-gauge step up from the regular Nautilus ("a
+  little bit heavier but not too heavy") for **bigger fish on heavier line,
+  50 or 60 lb**, closing sizes given as **3/0, 4/0** — the caption audio
+  continues "...oh six" past those two (ASR-garbled; a 6/0 may also have
+  been named), so a 6/0 top end is not asserted here but shouldn't be read
+  as ruled out either.
+- **Nautilus Light** — explicitly called **too light for tuna or yellowtail**
+  on this trip; go with the regular Nautilus 2/0 or step up to the Nautilus HD
+  instead.
+
+Target species stated on camera as **tuna or yellowtail**, out of San Diego.
+The tie-in trip name is asr-uncertain in the captions (rendered as "searcher
+dowel katsu sponsored trip," almost certainly a garbled Gamakatsu reference)
+and not carried into this note as a place or trip identifier.
 
 ### Live squid for white seabass (m2q22sPPkEM)
 
