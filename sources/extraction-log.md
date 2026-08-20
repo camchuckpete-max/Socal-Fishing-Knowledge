@@ -2250,7 +2250,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | 76cj579gnTo | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, crew-banter/fish-fight on-the-water clip, garbled ASR, no decision rationale above curation bar |
 | 7xnTtlaYs58 | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 14-second clip with no fishing content |
 | 8gEvmdj0lec | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 18-second on-the-water clip, garbled auto-captions, no species/technique/decision stated |
-| 8vJEyJVBvSM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 8vJEyJVBvSM | SearcherSportfishing | on-the-water | decision-rationale | done | nothing extractable, 135-second on-the-water clip with sparse/garbled auto-captions, no species/technique/decision-rationale stated |
 | 8wK37e921F8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 9fVsfdOgUMI | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | A3PW3EMsu8c | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
