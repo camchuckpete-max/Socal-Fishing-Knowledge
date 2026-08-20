@@ -658,6 +658,7 @@ release *ethic* and the regional policies are below.
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Barred Sand Bass](sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)

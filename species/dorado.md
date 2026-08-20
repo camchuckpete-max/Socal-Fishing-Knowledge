@@ -460,6 +460,7 @@ grade, or technique detail given for the dorado specifically.
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Halibut](california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)

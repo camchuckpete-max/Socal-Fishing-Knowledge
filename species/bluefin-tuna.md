@@ -1121,6 +1121,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)

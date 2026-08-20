@@ -107,6 +107,7 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [California Sheephead](sheephead.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Yellowtail](yellowtail.md)

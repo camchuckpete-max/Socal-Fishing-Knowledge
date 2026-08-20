@@ -1476,6 +1476,7 @@ water temp and bait depth before committing the day to one face.
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [April](../seasonal/april.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](bluefin-tuna.md)

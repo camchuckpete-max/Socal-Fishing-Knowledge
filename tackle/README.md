@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md) — A short buying-education point from Tackle Express staff (unnamed on camera; tackle-express is an unregistered channel, single 31-second mention — medium confid
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md) — Gary, presenter for Accurate Fishing Products, aboard the Searcher (SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md) — Lori Sack, a tackle sales associate at Turner's Outdoorsman's San Marcos store, in a short segment on the SearcherSportfishing channel ("Tackle Tip Thursday Vol.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md) — Steve Carson (Penn), guest speaker at the San Diego Rod and Reel Club's November 2023 meeting — "5 must-have rod and reel setups for bluefin tuna fishing" (9JnI
@@ -50,5 +51,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 40 notes exceed the 30-node cap._
+_Map skipped: 41 notes exceed the 30-node cap._
 <!-- mermaid:end -->

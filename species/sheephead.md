@@ -121,6 +121,7 @@ glassing](../planning/search-and-glassing.md),
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
