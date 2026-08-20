@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, VpW91AKOFVQ, o8vLdz7OmaE, F0g5r9Rkrd4, OIqdmhKfuOc, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, 9JnIS8HkZlA, UP_3fBu7VPA, lP6cg4eEU6s, -hY20bxz3oM, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU]
 confidence: medium
 ---
 
@@ -482,6 +482,24 @@ lure:
   two-speed reel was called a nice-to-have for flylining, not a requirement,
   unless specifically targeting bluefin. Consistent with, not adding a new
   number beyond, the low-gear-ratio/light-free-spool doctrine above.
+
+**Long-trip flyline rod pick — Seeker Athena (Sophia Quinn, Seeker Rods rep,
+via SearcherSportfishing, "Tackle Tip Thursday Vol. 61 (Favorite Rod),"
+`_VtL0DrNdAU`, 2019-08-09).** `searcher-sportfishing` is a registered
+channel/series, but Quinn is a rep for Seeker naming her own company's rod on
+camera — a product endorsement, `low` confidence per the sponsored-claim rule
+(the mechanism/parameter caveat on this registry row does not lift a
+brand-rep's own product pick). Her go-to for the Searcher's overnight-to-5-day
+trips: a Seeker **Athena, model ATH, 8 ft, rated 30–60 lb** — a "more
+parabolic, lightweight, soft-tip" blank. She starts a trip on **35 lb** and
+can step up to **60 lb fluorocarbon** on the same rod. Stated reason: the
+soft, parabolic tip lets her flyline for extended stretches — "sitting there
+fly lining forever, your arms don't get tired" — a fatigue-focused pick for
+the sustained soak time these multi-day trips involve. This is a distinct
+mechanism from the soft-tip-for-casting doctrine logged above (Cesar,
+`48ZFXnCTTQE`) — his bullet is about cast quality (avoiding bait "whiplash"),
+not angler fatigue — kept side by side rather than merged, though both point
+to the same rod-blank feature (soft, glass/composite/parabolic tip).
 
 ## Sportboat: bring a range, day and night
 

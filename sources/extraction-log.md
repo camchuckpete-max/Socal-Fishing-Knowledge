@@ -2142,7 +2142,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ZECOKmD4fIs | SearcherSportfishing | tutorial | deep | done | rigging/slim-beauty-knot.md: amended with Vol.127's leader-naming, 4-turn uni, 9-forward/8-back wrap counts; confidence raised medium→high on repeated-doctrine grounds |
 | ZKb13fNT6P0 | SearcherSportfishing | tutorial | deep | done | tackle/searcher-big-tuna-rig-ladder.md: Added flat-fall leader rig (SK 250g / Nomad 320g) entry to Searcher big-tuna rig ladder, appropriately confidence-split between mechanism (medium) and sponsored product names (low); fixed one wrong-target link to techniques/knife-jigging.md |
 | Zhn-VDrlaLM | SearcherSportfishing | tutorial | deep | done | bait/fishing-live-bait.md; techniques/flyline.md; techniques/rod-handling-live-bait.md; techniques/underhand-casting.md; techniques/live-bait-pendulum-cast.md: new pendulum-cast technique note plus cross-links from flyline/underhand-casting/rod-handling/fishing-live-bait; third-occurrence repeated-doctrine bump to high for hold-the-line-not-the-bait |
-| _VtL0DrNdAU | SearcherSportfishing | tutorial | deep | pending |  |
+| _VtL0DrNdAU | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: Low-confidence product-endorsement addition (Seeker Athena flyline rod pick) merged into existing Flyline section; corrected an inaccurate same-doctrine attribution to Cesar's cast-quality bullet |
 | _Z4yMtrYgeA | SearcherSportfishing | tutorial | deep | pending |  |
 | _jDXMtCrUZg | SearcherSportfishing | tutorial | deep | pending |  |
 | _rf1TqLh1yE | SearcherSportfishing | tutorial | deep | pending |  |
