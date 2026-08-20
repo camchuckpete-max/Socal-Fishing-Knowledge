@@ -2171,7 +2171,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | h0NyGvIaDc8 | SearcherSportfishing | tutorial | deep | done | techniques/foamer-casting.md / added cast-into-a-busting-school mechanic (size-to-bait, bridge-called sounder-depth follow-down) and an ask-a-biting-angler troubleshooting tip; fixed a fabricated Current-Sniper/Colt-Sniper ASR resolution |
 | hlmDnAct1cA | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-retail-setup-high-end-vs-budget.md; species/bluefin-tuna.md; tackle/rod-and-reel-selection.md; tackle/searcher-lever-drag-reel-sizing.md / new low-confidence tackle note for a retail associate's high-end vs. budget bluefin reel/rod picks, linked from species router and two related tackle notes; fixed missing link-maintenance run |
 | hteLeDIy9Qs | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / added Fred/Secret Fishing Rods depth-tiered jig sizing, stretch-buffer leader reason, and don't-set-the-hook citation at medium confidence |
-| i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | pending |  |
+| i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | done | none / 47s Turner's Outdoorsman house-brand rod-lineup promo — no decision logic, parameters, or SoCal-specific detail; correctly skipped |
 | icpm7gADxvU | SearcherSportfishing | tutorial | deep | pending |  |
 | iqTN2IBRP1A | SearcherSportfishing | tutorial | deep | pending |  |
 | it_YYh_8Z-w | SearcherSportfishing | tutorial | deep | pending |  |
