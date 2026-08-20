@@ -401,5 +401,5 @@ or a compressed drag going into storage.
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 <!-- backlinks:end -->

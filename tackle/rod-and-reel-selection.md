@@ -648,7 +648,9 @@ base rod sizes plus jigging-specific rods:
   This rod **doubles as the trolling rod** (big Nomad-class hardbaits, mirror
   lures) with a heavy two-speed reel (a **Daiwa Saltiga 60**-class reel in the
   presenter's own build, sized to hold enough 100 lb line to keep spool
-  diameter up — model name is a product endorsement, `low` confidence). **Rod
+  diameter up — model name is a product endorsement, `low` confidence; see
+  [Daiwa Saltiga — CRBB bearings, Digigear, and ATD](tackle-express-daiwa-saltiga-reel.md)
+  for that reel line's own stated feature claims, a separate source). **Rod
   butt matters for trolling/holder use:** want a **slick/hard butt**, not a
   long hypalon-type butt — a hyper-long soft butt can jam in the rod holder
   when a fish hits, costing time getting the rod out; a hard/slick butt pulls
@@ -892,6 +894,7 @@ a bluefin).
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Composite Rod Blanks — the Visible Transition Line Is Intentional](composite-rod-blank-construction.md)
+- [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)
