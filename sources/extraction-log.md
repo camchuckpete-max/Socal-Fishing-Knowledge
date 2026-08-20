@@ -2350,7 +2350,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | -BCEGxojaT4 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 10s pigeon joke clip, no fishing content |
 | -FQ3cSdvnK0 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 23s ASR fragment, no gaff-specific content beyond existing doctrine |
 | -KHdjYwefmM | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: promo clip, freshwater trout content, out of scope |
-| -Ocrnb4rmMo | Tackle Express | tutorial | parameter-skim | pending |  |
+| -Ocrnb4rmMo | Tackle Express | tutorial | parameter-skim | escalated | escalated: subagent-failure |
 | -zw76Sh7YCI | Tackle Express | tutorial | parameter-skim | pending |  |
 | 05uB5V_jWTg | Tackle Express | tutorial | parameter-skim | pending |  |
 | 0OpWO3Yo4HE | Tackle Express | tutorial | parameter-skim | pending |  |

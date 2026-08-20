@@ -134,3 +134,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
   undone and guard.py now skips commits not authored by the pipeline identity
   (PIPELINE_AUTHORS). Protected-path rules still apply in full to extraction
   commits. No Gate B action needed.
+
+## 2026-08-20T17:32:53Z — -Ocrnb4rmMo — subagent-failure
+- run: 32397800699
+- reason: evaluator subagent terminated early due to API error mid-response
