@@ -73,10 +73,14 @@ adding the backlash-avoidance detail:
 - [Rod handling for live bait](rod-handling-live-bait.md) — same
   channel/series; the off-hand grip and thumb-on-lever readiness that takes
   over once this cast gets the bait out.
+- [Live-bait pendulum cast](live-bait-pendulum-cast.md) — same channel/series;
+  the swing-cast used for an unweighted, fly-lined bait when this lob isn't
+  enough to get the bait moving on its own.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
+- [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -309,6 +309,20 @@ swimming on its own "leash" — to whichever side of the boat you're fishing.
 Same let-go-immediately doctrine as Vol. 128 above, with the added detail of
 how to carry a hooked bait across the deck without gripping it.
 
+**A third occurrence, same doctrine (SearcherSportfishing, Captain Art,
+"Tackle Tip Thursday Vol. 163 (Fly Line Technique)," `Zhn-VDrlaLM`,
+2022-01-06):** named the same error the other way round — anglers hold the
+bait **too tightly** while hooking it — and gave the same fix: once the bait
+is hooked (nose-hooked, in this clip), let go of the bait and hold the
+**line above the hook** instead, so the bait is handled less and goes into
+the water stronger. This is the same mechanic as Vol. 101 and Vol. 128 above,
+now a third Searcher Tackle Tip Thursday episode teaching it — **repeated
+doctrine from a registered channel/series, `high` confidence** for the
+hold-the-line-not-the-bait practice specifically (the rest of this note's
+Searcher-sourced claims remain at their own stated confidence). Casting
+mechanics from the same clip are in [live-bait pendulum
+cast](../techniques/live-bait-pendulum-cast.md).
+
 ## Bait selection is king
 
 **Roughly 90% of live-bait success is bait selection** (SluBXkT3cuw):
@@ -432,7 +446,11 @@ elsewhere.
 A live bait doesn't need a full overhead swing to get out — see
 [underhand casting](../techniques/underhand-casting.md) for the simpler lob
 technique, reached for by newer casters, in a crowded rail corner, or with a
-lighter bait (e.g. anchovy on a small rubber-core sinker).
+lighter bait (e.g. anchovy on a small rubber-core sinker). For an
+**unweighted, fly-lined** bait specifically — no sinker to help load the
+cast — see [live-bait pendulum
+cast](../techniques/live-bait-pendulum-cast.md), which also covers when hook
+position rules out an overhead cast.
 
 ## Chumming with live bait (lxFNVdDhMy4)
 
@@ -523,6 +541,8 @@ clips above.)
 - [Rod handling for live bait](../techniques/rod-handling-live-bait.md) — the
   off-hand grip, thumb-on-lever readiness, and fingertip bait feed while
   soaking a hooked bait off the rail.
+- [Live-bait pendulum cast](../techniques/live-bait-pendulum-cast.md) — the
+  swing-cast for an unweighted, fly-lined bait.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -536,6 +556,7 @@ clips above.)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Making Bait](making-bait.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Underhand Casting](../techniques/underhand-casting.md)

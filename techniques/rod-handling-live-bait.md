@@ -61,6 +61,9 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
   rod-handling handoff once you're hooked up and past the initial take.
 - [Underhand casting](underhand-casting.md) — same channel/series; the cast
   that gets the bait out before this grip takes over.
+- [Live-bait pendulum cast](live-bait-pendulum-cast.md) — same channel/series;
+  the swing-cast for an unweighted, fly-lined bait, also getting the bait out
+  before this grip takes over.
 - [Rod & reel selection](../tackle/rod-and-reel-selection.md) — the broader
   free-spool/thumb-control grip doctrine this note's fingertip-feed detail
   corroborates.
@@ -70,6 +73,7 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
 
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->

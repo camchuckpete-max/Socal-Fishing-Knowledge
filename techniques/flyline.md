@@ -257,7 +257,9 @@ isn't yet repeated doctrine).
 
 - **No weight** — let the bait swim. **Cast well away from the boat**; fish are
   finickier close to the hull, and a bait sent out and away gets bit far more
-  often.
+  often. For the swing mechanics of casting an unweighted bait — and how hook
+  position decides overhead vs. underhand — see [live-bait pendulum
+  cast](live-bait-pendulum-cast.md).
 - On butt- or belly-hooked baits, **keep tension** the moment it lands: a little
   pull makes the bait swim away from you like a propeller. Give it slack and it
   turns and swims right back under the boat.
@@ -735,6 +737,7 @@ holding deep, not a claim that straight braid is wrong.
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
+- [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
