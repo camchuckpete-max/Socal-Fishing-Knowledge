@@ -2423,7 +2423,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ALZtbMIOMBw | Tackle Express | tutorial | parameter-skim | done | none / 39s reaction-only clip, no extractable content |
 | AhICQlAsreU | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-saltiga-reel.md; tackle/rod-and-reel-selection.md / new low-confidence product note for Daiwa Saltiga reel (CRBB bearings, Digigear, Automatic Tournament Drag), linked from Saltiga 60 mention |
 | B44kVCdUN0o | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-mustad-heavy-duty-pliers.md; tackle/reel-maintenance.md / new low-confidence product note for Mustad 7.5in pliers, other 6 products (freshwater bass tackle) skipped as out-of-scope |
-| BGKH1ObX9Qs | Tackle Express | tutorial | parameter-skim | pending |  |
+| BGKH1ObX9Qs | Tackle Express | tutorial | parameter-skim | done | none / entirely freshwater trophy-bass swimbait tackle review, out of scope for saltwater SoCal/Baja KB |
 | BNJlltYOpIk | Tackle Express | tutorial | parameter-skim | pending |  |
 | BNp-gSOpWBw | Tackle Express | tutorial | parameter-skim | pending |  |
 | BPxE3xn3gAc | Tackle Express | tutorial | parameter-skim | pending |  |
