@@ -738,6 +738,7 @@ are logged in
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](../tackle/jigging-rod-guide-wrap.md)
 - [Surface Iron](surface-iron.md)
+- [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

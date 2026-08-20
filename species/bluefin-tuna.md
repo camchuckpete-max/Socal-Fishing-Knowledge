@@ -924,6 +924,11 @@ shot in [gaffing](../fish-care/gaffing.md).
   treble up through a 400 g personal-ceiling tail-hooked jig, plus a
   night deep-drop rig for fish to ~400 ft) is in
   [Searcher bluefin jig ladder by daypart and depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md).
+  For **triple-digit (100 lb+) fish specifically** — a 200–500 g jig spread
+  by where fish sit in the column, hook/leader upgrades, the quick-change
+  "Jarry rig," a 30 lb+-drag reel/rod ladder, and a stay-high/shift-to-low-at-
+  the-"pinwheel" fight-timing rule — see [trophy bluefin jig
+  outfit](../tackle/tackle-express-trophy-bluefin-jig-outfit.md).
 - **Kite / troll:** **150–200 lb class**, ~100 lb braid for capacity and less
   wind-blow; [flying-fish harness](../rigging/flying-fish-harness.md),
   [Mad Mac](../lures/mad-mac.md), [spreader bar](../lures/spreader-bar.md).
@@ -1186,6 +1191,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](../planning/trip-length-selection.md)
+- [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)

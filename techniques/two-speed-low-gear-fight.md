@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -110,6 +110,22 @@ is what makes it manageable to keep winding a fish that's up-and-down and
 close, under heavy drag pressure. Shane's own shorthand for the whole
 sequence: **"pop in, low; pop out, high."**
 
+**A fifth, independent citation, naming the end-stage circle its own term
+and adding a depth band (Tackle Express, "How to Catch a Trophy Bluefin
+Tuna on a Jig," James, `DuNkl8F45NE`, uploaded 2022-06-04; unregistered
+channel — medium confidence, single mention):** the same stay-high-through-
+the-run / shift-to-low-once-circling sequence, on jig-hooked triple-digit
+bluefin specifically. Stay in **high** gear through the fish's initial run(s)
+— including a charge back at the boat, where the stated fix for the
+resulting slack is **winding faster in high gear to catch back up**, not
+downshifting. Only once a fought-out fish settles roughly **100–200 ft**
+down and starts spiraling toward the surface — named on camera the
+**"pinwheel"** — is that the cue to bump the two-speed into **low** for more
+torque to lift it the rest of the way, specifically because a stalled fish
+at that stage risks catching a second wind and taking another run. Full
+rigging/reel/rod detail this fight-timing rule is paired with is in [trophy
+bluefin jig outfit](../tackle/tackle-express-trophy-bluefin-jig-outfit.md).
+
 ## The problem with pump-and-reel
 
 Standard "pump up, reel down" technique — lift the rod, then wind down while
@@ -211,4 +227,5 @@ the title.
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
+- [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 <!-- backlinks:end -->

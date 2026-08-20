@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, tuna, jig, tungsten, tg-jig, night, talica, saltiga, metered-braid, leader, depth, fluorocarbon, foamer, durability, colt-sniper, casting-distance, popping-rod, rockfish]
-sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc, CsKEtrcLgiQ]
+sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc, CsKEtrcLgiQ, DuNkl8F45NE]
 confidence: medium
 ---
 
@@ -91,6 +91,18 @@ explicitly.
   side by side in
   [knife jigging — leader-to-jig connection](../techniques/knife-jigging.md#gear-class-detail);
   not reconciled with them, just this shop's own named build.
+- **A third, earlier citation, three years before the two above (`DuNkl8F45NE`,
+  "How to Catch a Trophy Bluefin Tuna on a Jig," James, uploaded 2022-06-04):**
+  the same build, same James-and-Harry attribution, the same solid-ring
+  (not split-ring, "we've heard and seen split rings bind") reasoning almost
+  word for word, and the same 350 lb Mustad Saltism split ring — but this
+  earlier video gives the bite leader as a **200–300 lb range, stepped up to
+  400 lb for heavy night fishing**, rather than the single fixed 200 lb
+  Seaguar Blue Label spec above; kept side by side as the same shop's build
+  described three years apart, not reconciled into one number. Full detail,
+  including the hook upgrades and reel/rod ladder this earlier video pairs
+  with the rig, is in [trophy bluefin jig
+  outfit](tackle-express-trophy-bluefin-jig-outfit.md).
 
 ## Depth range and drop timing
 
@@ -250,6 +262,9 @@ doctrine.
 - [Knife jigs](../lures/knife-jigs.md) — the TG/tungsten jig class this rig
   is built around.
 - [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
+- [Trophy bluefin jig outfit](tackle-express-trophy-bluefin-jig-outfit.md) —
+  this same shop's earlier (2022) citation of the Jerry/Jarry rig, plus the
+  hook upgrades and reel/rod ladder it's paired with.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -257,4 +272,5 @@ doctrine.
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
+- [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md)
 <!-- backlinks:end -->

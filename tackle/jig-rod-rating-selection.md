@@ -53,4 +53,5 @@ which.
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md)
 <!-- backlinks:end -->

@@ -2440,7 +2440,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | DPrr0a3vQY0 | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
 | DTvXJrtytwg | Tackle Express | tutorial | parameter-skim | done | tackle/jig-rod-rating-selection.md (new); tackle/all-purpose-rod-line-rating.md; tackle/rod-and-reel-selection.md / jig rods fish toward top of gram rating, not middle |
 | DfLcSS-J3g4 | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md; tackle/composite-rod-blank-construction.md; tackle/drag-setting.md; tackle/rod-action-testing-technique.md; tackle/rod-length-for-angler-size.md; tackle/rod-blank-and-component-materials.md (new) / beginner 30lb bait-stick buying guide merged across 6 notes |
-| DuNkl8F45NE | Tackle Express | tutorial | parameter-skim | pending |  |
+| DuNkl8F45NE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md (new); tackle/tackle-express-night-bluefin-tg-jig-rig.md; techniques/two-speed-low-gear-fight.md; species/bluefin-tuna.md / trophy-bluefin jig outfit, pinwheel fight-timing, fixed phantom Talica 25 to Avet HXW |
 | DvhRMHw57c4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | E273T9jAmpg | Tackle Express | tutorial | parameter-skim | pending |  |
 | E4CDqBFOaP8 | Tackle Express | tutorial | parameter-skim | pending |  |
