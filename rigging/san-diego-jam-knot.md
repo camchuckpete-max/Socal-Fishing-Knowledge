@@ -238,6 +238,7 @@ Captain Armando, 2021-10-21).
 ## Linked from
 
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
+- [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)
@@ -251,4 +252,5 @@ Captain Armando, 2021-10-21).
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

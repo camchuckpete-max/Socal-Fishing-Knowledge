@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, rod-handling, thumb-control, rail, sportboat, fundamentals]
-sources: [VcJManCizRE]
+sources: [VcJManCizRE, SAltQjih0ms]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -51,6 +51,43 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
 - **On the bite:** with the reel already in gear (thumb having pushed the
   lever at the take), come tight to the fish.
 
+## At the bait tank — hook it, then let go (SearcherSportfishing, Tackle Talk Live, `SAltQjih0ms`, 2020-05-20; `searcher-sportfishing` registered channel — high confidence)
+
+- **Walk to the bait tank with the rod already in hand.** Hook the bait, then
+  **let go of it immediately** rather than holding it while you carry it to
+  your spot on the rail — a bait held wiggling in a wet, scaled hand loses
+  slime and life fast. The bait is already on a "leash" (the line), so there
+  is no need to keep a grip on it.
+- **Carry it to the rail on the line, not in your hand:** once it's hooked and
+  released, hold the rod so the bait hangs roughly **12–18 in** below the rod
+  tip, then walk to whichever side of the boat you're fishing.
+
+## Yellowtail-specific hookset sequence — count, wait for the bend, then set (same source)
+
+For a **J-hook** flylined bait specifically — a circle hook self-sets and
+does not use this sequence. Yellowtail, unlike tuna, take noticeably longer
+to fully consume a bait before running with it:
+
+- **On the take, free-spool** with a thumb lightly on the spool rather than
+  engaging the reel right away.
+- **Count to six or seven** before doing anything else — giving the fish time
+  to work the bait further back before the hook goes in.
+- **Then put the reel in gear** (a lever-drag reel: to the **strike**
+  position, not full — see [drag setting](../tackle/drag-setting.md)).
+- **Wait for the line to come tight and the rod tip to bend before setting the
+  hook.** The named common mistake: anglers put the reel in gear and swing
+  immediately, before the slack is even out — with all that slack still in
+  the system, an early swing doesn't transmit to the hook at all.
+- **Wind back down toward the fish to take out slack, then set the hook again
+  — repeat a second time (sometimes a third).** Setting the hook repeatedly
+  without first winding down leaves slack forming up at the rod tip and
+  doesn't drive the hook any further; the drag, the rod's bend, and the line
+  cutting through the water also help finish seating the hook once it's
+  tight.
+- **If nothing happens on the initial soak,** a nose-hooked bait can be wound
+  in slowly — it can still draw a bite on the retrieve, since a nose-hooked
+  bait swims naturally coming back toward the boat.
+
 ## Related
 
 - [Fishing live bait](../bait/fishing-live-bait.md) — hooking and bait
@@ -76,6 +113,7 @@ anglers. Stated reason to get it right early: a bad grip habit formed here
 
 - ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
+- [Dropper Loop](dropper-loop.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)

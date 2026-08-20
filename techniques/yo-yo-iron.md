@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -545,6 +545,48 @@ the reverse map in **Linked from** below.
     (`LTCFjqtSI8g`). Stated reasoning for sizing up in the deepest water:
     more time spent in the strike zone on the straight up-and-down improves
     the odds of hanging a yellowtail.
+
+- **Half-depth wind, then re-drop — an arm-saving cadence, plus the reason it
+  also avoids rockfish (SearcherSportfishing, "Tackle Talk Live Recap
+  (Yellowtail 5/19/20)," `SAltQjih0ms`, 2020-05-20; `searcher-sportfishing`
+  registered channel, mechanism — high confidence):** free-spool to the
+  bottom, put the reel in gear, and crank as fast as possible **only about
+  halfway back up** — his worked example: in **120–150 ft** of water, wind up
+  **60–70 ft** off the bottom — then go back to free spool and let the iron
+  sink to the bottom again before repeating. Stated reasoning is twofold: it
+  **saves the angler's arm** over a full-depth wind every drop, and it keeps
+  the iron working the band **close to the bottom where the fish are
+  actually holding**, rather than spending the whole retrieve above them. A
+  further cadence variant, kept side by side with this note's other
+  crank-then-drop cycles above (Hansen's fixed crank-counts, the two-partial-
+  cranks-then-full-wind cadence, etc.) rather than reconciled to one count.
+  **Do not work the iron with short hops right at the bottom** — the same
+  source calls this out by name as the wrong motion for yo-yoing (distinct
+  from the halfway-wind-and-redrop cadence just described): bouncing the jig
+  in place near the bottom is what draws **rockfish** instead of yellowtail.
+
+- **A base recreational build, direct-tied, no fluorocarbon (SearcherSportfishing,
+  "Tackle Talk Live Recap (Yellowtail 5/19/20)," `SAltQjih0ms`, 2020-05-20;
+  `searcher-sportfishing` registered channel, mechanism/parameters — high
+  confidence):** a **two-speed conventional** reel spooled with **80 lb
+  braid** to a **40–60 lb monofilament** top shot — **no fluorocarbon** —
+  with the iron tied straight to the end of the top shot on a [San Diego jam
+  knot](../rigging/san-diego-jam-knot.md); paired with a **7 ft** rod,
+  stiffer-tipped than a flyline stick, on a live-bait reel. Iron color:
+  **scrambled egg** (blue/white) — named on camera as the "universal color
+  for yo-yo fishing for yellowtail," whether fished on paddies, structure,
+  anchored or drifting, or worked to a school marked on the sounder.
+  **Gear-ratio timing (same source):** run **high gear** while
+  searching/retrieving with no bite, for the fastest possible wind-up; shift
+  to **low gear** only after the fish is hooked and settled into the fight —
+  consistent with, not new beyond, this note's other high-speed-retrieve/
+  low-gear-fight framing. (Named models on this video — **Accurate Boss
+  series** two-speed reel, **Seeker-series** rod, **Salas 6X**/6X Jr iron —
+  are product/model mentions; this video's own closing credits thank Seeker
+  rods, Accurate products, and Owner hooks by name as sponsors, so per the
+  `searcher-sportfishing` sponsored-claim caveat in the source registry those
+  model picks stay **low** confidence, not carried at the high confidence
+  the mechanism/parameters above earn.)
 
 ## Common failures
 

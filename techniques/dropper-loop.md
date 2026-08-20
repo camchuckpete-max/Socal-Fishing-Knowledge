@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -186,6 +186,73 @@ side by side as a heavy-tackle variant, not reconciled.
   guadalupe"** — read as the Guadalupe Island fishery already logged above,
   but not further specified on camera, so treat the referent as unresolved
   rather than confirmed.
+
+## SoCal yellowtail build — loop length, an overhand-knot breakaway, and the first-30-ft fight window (SearcherSportfishing, Tackle Talk Live, `SAltQjih0ms`, 2020-05-20; `searcher-sportfishing` registered channel — high confidence)
+
+- **Loop length: 12–18 in, minimum 12 in.** If the loop is built out to
+  **24 in**, tie it with a **double [San Diego jam
+  knot](../rigging/san-diego-jam-knot.md)** rather than a single pass — the
+  longer loop needs the extra security. The loop itself sits **3–4 ft above
+  the sinker**.
+- **Sinker/hook for this build:** a **16 oz torpedo sinker** on the bottom,
+  hook above it a **5/0** hook the presenter names on camera as an "Owner
+  Gorilla" (ASR-uncertain — "Owner Gorilla" is an established brand in this
+  corpus; whether this is the standard or "Light" version isn't confirmed;
+  this video's own closing credits thank Owner hooks by name as a sponsor,
+  so per the `searcher-sportfishing` sponsored-claim caveat in the source
+  registry this specific brand/model pick stays **low** confidence — the
+  16 oz sinker weight and general rig mechanism are unaffected and remain
+  high). Heavier than the 6–10 oz SoCal reference logged above — kept side by
+  side as a heavier same-fishery data point, not reconciled to one weight.
+- **A breakaway overhand knot above the sinker — a second, simpler mechanism
+  than Scotty's weak-link dropper loop above, not a substitute for it:** tie a
+  plain overhand knot in the leader a few inches above the sinker. Snag solid
+  on the bottom and that knot is the weak point that parts first, so you lose
+  only the sinker rather than the whole rig — and get back to fishing faster
+  on a bite you don't want to lose time on. Kept side by side with the
+  bottom-dropper-loop breakaway point documented above (Scotty) as a
+  different, simpler way to the same sacrifice-the-cheap-part goal.
+- **Bait placement — nose hook, sideways through the cartilage,** including
+  when fishing this rig with a lighter slider (his example: a 2 oz slider)
+  rather than the full torpedo sinker. Kept side by side with, not
+  reconciled to, Nate Winnicki's through-the-roof-of-the-mouth placement for
+  the dropper loop logged below — two different presenters' hook placements
+  for the same rig, not merged into one rule. **J-hook, not circle,** is the
+  stated default, though the presenter notes some anglers do fish circle
+  hooks on this rig and let the drag do the setting instead of swinging.
+- **Wind up 3–4 cranks once the sinker hits bottom** — enough that the rig
+  isn't dragging/resting directly on the bottom, where it's easier to lose to
+  a snag. A different specific crank count than Hansen's half-crank-up figure
+  logged below, kept side by side rather than reconciled.
+- **Fish it in gear, never free-spool, once it's down near structure — true
+  even on a circle hook.** Asked directly whether this still holds with a
+  circle hook rather than a J-hook, the answer was yes: in free spool, a
+  hooked fish can wrap the line around a rock before you ever come tight to
+  it. The in-gear requirement here is a **line-management/safety** reason,
+  distinct from the various hookset-mechanism reasons logged elsewhere in this
+  note.
+- **Rod-belt timing:** for anglers who fish a rod belt, seat the rod in the
+  belt **before** the bite — while the bait is still soaking on the bottom —
+  rather than fumbling to find and transfer into the belt after the hookset.
+- **Bite feel and hookset:** a yellowtail bite on this rig reads as a **strong
+  thump**. As with the flyline sequence in [rod handling for live
+  bait](rod-handling-live-bait.md#yellowtail-specific-hookset-sequence--count-wait-for-the-bend-then-set-same-source),
+  yellowtail take a few seconds to fully consume a dropper-loop bait — wait
+  for the **rod to load / the tip to bend** before setting the J-hook, then
+  **wind down to the fish and reset the hook**, repeating up to a second or
+  third time, rather than striking repeatedly without first taking up slack.
+- **The first 30 ft after hookset is the critical window.** With a snug drag,
+  the fish's first 30–40 ft of running line off the bottom is the hardest
+  pull of the fight — get that line back in **low gear, under a tight drag**,
+  before a hooked fish can get back down into the structure. **Gear-shift
+  timing, a separate Q&A on the same rig:** rather than shifting to low gear
+  the instant the hook is set, the stated preference is to **wait until the
+  fight is underway** — hook the fish, let it take its first run, and shift
+  down once that run happens, gaining line fast from there. A related but
+  distinct scenario from the open-water bluefin circling-fish timing in
+  [two-speed reel technique](two-speed-low-gear-fight.md) — this is about
+  winning the race back to structure on a bottom rig, not working a fish that
+  has already come up and is circling boatside.
 
 ## Deploying it — drop, detect bottom, read the bite (Your Saltwater Guide)
 

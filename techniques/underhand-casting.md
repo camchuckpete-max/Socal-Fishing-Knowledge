@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [casting, live-bait, underhand-cast, beginner, tight-quarters, backlash]
-sources: [0hQJxESLTm4, 7iSGGb9ueAk, Ixyi1mY3Qeg, QHY5kmU7OTU]
+sources: [0hQJxESLTm4, 7iSGGb9ueAk, Ixyi1mY3Qeg, QHY5kmU7OTU, SAltQjih0ms]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -74,6 +74,21 @@ own** than it is to maximize casting distance. He's explicit this is a
 personal preference, not a rule — anglers who need more distance than an
 underhand lob gives should cast overhand instead.
 
+## Soft hook placements need the gentler swing
+
+(SearcherSportfishing, Tackle Talk Live, `SAltQjih0ms`, 2020-05-20;
+`searcher-sportfishing` registered channel — high confidence.)
+
+A **shoulder hook** (between the dorsal fin and the gill plate) and a
+**belly hook** (just behind the underbelly fins) are both named on camera as
+"soft spots" in a live bait — thinner tissue than the cartilage at the nose.
+The stated rule is to **underhand cast** a bait hooked either of those two
+ways, rather than swing it overhand: a hard overhand cast risks tearing the
+bait right off the hook at a soft hook point. See [hook position by
+situation](flyline.md#hook-position-by-situation) for the shoulder/belly
+placements themselves; the nose hook, by contrast, sits in cartilage and can
+take a firmer cast.
+
 ## Related
 
 - [Fishing live bait](../bait/fishing-live-bait.md) — hooking and presenting
@@ -96,6 +111,7 @@ underhand lob gives should cast overhand instead.
 
 - ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Flyline](flyline.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
