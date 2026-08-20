@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [gear-classes, lexicon, rod-class, line-class, profile-resolution]
-sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ]
+sources: [cameron, xPFm_ZV2PZU, Ul5FLB2dFgQ, Y2XZ34-Tpa0]
 confidence: high
 ---
 
@@ -39,6 +39,27 @@ is the [4-factor framework](../techniques/trolling.md).
 | **Deep-drop / swordfish class** | heavy stand-up 2-speed lever-drag; manual or electric-assist | [deep-drop swordfishing](../techniques/deep-drop-swordfishing.md) | — |
 | **Baja Pacific mangrove-snook class** | ~9 ft, star-drag reel with drag locked near max, 65 lb braid to 80 lb fluoro leader, 4/0 thin-wire hook | [mangrove structure livebait](../techniques/mangrove-structure-livebait.md) (snook) | — |
 | **Baja Pacific grouper/snook bottom class** | 4/0-size **two-speed** reel (mandatory — single-speed reels break off), 80 lb braid, 80 lb fluoro to swivel, 6 ft of 100–130 lb leader, 4X hook | Carolina-rig bottom fishing near structure — see [sliding sinker](../techniques/sliding-sinker.md) | — |
+
+### Rail-rod class — what makes a rod a "rail rod" (mechanism)
+
+A rail rod's defining physical difference from a conventional casting/fighting
+rod is a **longer foregrip section wrapped in hypalon** — long enough that the
+rod can be laid on and braced against the boat's rail instead of being held
+entirely by the angler's arms/body. Stated reason: this is what makes the
+rod work for **bigger fish** — "the rail is your friend" — and it's paired
+with a **two-speed reel**, not a single-speed. Worked product example: a
+**Seeker OSP 1x3, 7 ft composite** blank (product/model — low confidence,
+sponsored-claim caveat). Cited for the **1.5-day and 3-day range** trips
+working bluefin (SearcherSportfishing, "Tackle Tip Thursday Vol. 51 (Rail
+Rod)," `Y2XZ34-Tpa0`, 2019-06-06; `searcher-sportfishing` registered channel,
+single mention — medium confidence for the mechanism/parameters). This is
+the mechanism behind the long-foregrip rail requirement already logged in
+[fighting fish from the rail — big-tuna
+variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage-steve-carson-pennsearcher-2023-07-13),
+and the two-speed-for-1.5-day/3-day-trip pairing corroborates [two-speed
+reels for multi-day bluefin
+trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing)
+(same channel, a different video six weeks later).
 
 ## Line classes
 
@@ -101,6 +122,7 @@ does the lookup.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Glide Baits](../techniques/glide-baits.md)

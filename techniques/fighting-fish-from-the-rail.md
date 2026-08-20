@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY, 6wVlDDno2TE]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -61,7 +61,12 @@ short segment can cover.
   the right instead and coaches explicitly against it.
 - **If the fish is down below, lay the rod directly on the rail** rather
   than holding it off the rail — this requires a rod with a **long
-  foregrip** to rest against the rail properly.
+  foregrip** to rest against the rail properly. See [rail-rod class —
+  mechanism](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
+  for why: a longer hypalon foregrip section is the physical feature that
+  distinguishes a rail rod from a conventional rod and lets it brace on the
+  rail for the leverage bigger fish need (SearcherSportfishing, `Y2XZ34-Tpa0`,
+  2019-06-06).
 - **Brace the reel against twisting:** under load there's a strong twisting
   motion on the rod/reel; put a hand on top of the reel or on the side of
   the reel (either works) to counter it.
@@ -105,6 +110,7 @@ pattern independently observed on StokedOnFishing trips.
 ## Linked from
 
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
+- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
