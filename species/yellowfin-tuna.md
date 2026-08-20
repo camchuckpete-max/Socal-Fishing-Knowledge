@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
@@ -68,6 +68,24 @@ the bluefin nearby become more cooperative too.**
   **20 lb fluorocarbon top shot with size 1–2 hooks** and a parabolic rod
   for shock absorption — full build in [Searcher big/giant tuna rig
   ladder](../tackle/searcher-big-tuna-rig-ladder.md#light-line-finesse-rig--guadalupe-island-line-shy-medium-grade-tuna-gary-gillingham-accurate-fishing-products-tackle-tip-thursday-vol-80-7day-trip-wxldxfjb8oq-uploaded-2019-12-26).
+  **A fourth, technique-contrast data point for the same grounds** (presenter
+  introduced on camera as "Fred," with an affiliation captioned as "secret
+  fishing rods" — not confidently resolved to a real rod brand/shop name,
+  flagged `asr-uncertain`; SearcherSportfishing, "Tackle Tip Thursday Vol. 63
+  (Long Rod)," `rziFyx7SRGI`, 2019-08-29; `searcher-sportfishing` registered
+  channel — medium confidence, single mention): unlike the fly-lined-bait,
+  chunking, and dropped/flat-fall rigs logged above, this tip pitches the
+  **jig stick** itself for Guadalupe Island — casting **irons/jigs** for
+  tuna there, noting "a lot of guys leave their jig sticks at home" and
+  urging anglers to bring one. No jig weight,
+  color, or retrieve detail given on camera (a 23-second clip); logged as a
+  technique-availability data point alongside, not a replacement for, the
+  bait/chunk/flat-fall rigs above. See [surface
+  iron](../techniques/surface-iron.md) and [gear classes — jig-stick
+  class](../tackle/gear-classes.md) for the general technique/gear-class this
+  pairs with. (The same clip closes on a dated trip-booking announcement —
+  a specific 2019 charter date with seats remaining — which is promotional
+  and time-bound, not carried here as knowledge.)
 
 - **Why late summer/fall warms up — a stated mechanism (Art Taylor/Mike,
   SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip

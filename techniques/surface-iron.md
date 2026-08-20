@@ -569,6 +569,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [Wiring a Surface Iron](../rigging/wiring-a-surface-iron.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->
