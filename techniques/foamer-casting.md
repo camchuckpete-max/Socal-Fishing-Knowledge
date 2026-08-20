@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, yellowfin, foamer, run-and-gun, casting, surface]
-sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g, Ud3hi9r1Nr4]
+sources: [HtuLTv1NlL0, HzE4FHHcvTk, HnqiE05vdXs, cameron, 42A8Owhc8fw, F7jLrt2j2X8, mWxyjDrcdXM, 84XPJAeH0Rw, e73wPONTOJU, M7BtON4GZgQ, A6DJoXbID4c, JiJYamo0QHk, 9-3B-WRWqus, 91ZJbhAnzMg, AodUBhxPts8, QTWVs5BwQ0g, Ud3hi9r1Nr4, h0NyGvIaDc8]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -160,6 +160,28 @@ Two basic kinds of foamer (8/17/22, 8/31/22 reports):
   Fish a **2 or 3 count**, put it in gear and burn; if you're not bit by then,
   re-cast. These sink fast enough that you may need to size the leader down to
   40 or even 30 lb.
+- **Casting into a busting school and following it down on bridge-called sounder
+  depth (Captain R. Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol.
+  223 (Casting Lure Tips for Bluefin)," `h0NyGvIaDc8`, 2023-06-29;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention of this specific point):** drive up close to a school of bluefin
+  busting on bait on top, cast a baitfish-profile casting lure into the
+  middle of the school, let it sink momentarily, put the reel in gear, and
+  wind as fast as you can to replicate a fleeing baitfish — the same
+  fast-burn mechanic as the small-lead-bait doctrine above. The lure named on
+  camera, captioned "current sniper," is the **Shimano Current Sniper** — a
+  real, distinct jig line (cast/flash/retrieve on top or vertically jigged),
+  not an ASR mis-hearing of the Colt Sniper stickbait already documented
+  throughout this note; the two are separate Shimano products. **Size to the
+  bait the school is chasing** — this source carries a **150 g** lure with an
+  upgraded/swapped hook, plus a **100 g** and some smaller sizes, and picks
+  size by the bait size showing on the surface that day. **As the school
+  sinks out of sight, follow it down rather than keep fishing the top**: the
+  bridge crew calls the school's depth off the sounder, and the angler
+  free-spools the lure down to that called depth before engaging the reel
+  and burning it back — a bridge-to-angler sounder-depth handoff not
+  otherwise documented in this note; general sounder-reading method in
+  [electronics & sounder](../planning/electronics-and-sounder.md).
 - **Daytime visual-boil program, one build (Capt. Arch, SearcherSportfishing,
   "Tackle Tip Thursday Vol. 162 (Daytime Bluefin Fishing Lure)," `9-3B-WRWqus`,
   2021-12-23; unregistered channel — medium confidence):** for bluefin
@@ -254,6 +276,14 @@ When the bite is tough:
     fall and that draws bites — "works a lot."
 - **Surface irons get bit very frequently on a tough foamer** — throw one in
   and **wind it real slow** — "gets bit a lot of time."
+
+**Corroborating troubleshooting call, independent source (Captain R. Taylor,
+SearcherSportfishing, `h0NyGvIaDc8`, 2023-06-29; medium confidence):** if
+anglers around you are getting bit and you're not, go ask one directly what
+lure size and color they're throwing, how long they let it sink before
+winding, and how fast they're turning the reel handle — then match what
+they're doing. The same switch-to-what's-working fix as Billy's rule above,
+given independently by a second source.
 
 **Retrieve-speed conflict, not reconciled:** this real-slow-wind surface-iron
 cadence sits against the cast-into-the-foam-then-**burn**-it-back surface-iron

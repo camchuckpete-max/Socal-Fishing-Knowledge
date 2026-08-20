@@ -411,6 +411,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](fleet-intelligence.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

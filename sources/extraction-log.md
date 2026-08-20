@@ -2168,7 +2168,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | fyJA3o2hVh0 | SearcherSportfishing | tutorial | deep | done | tackle/searcher-40lb-all-around-tuna-outfit.md; lures/iron-jigs.md; rigging/essential-knots.md; tackle/bluefin-rig-ladder-by-grade.md; tackle/hooks.md; tackle/line-and-leader.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/two-speed-low-gear-fight.md / new all-around 40lb outfit note plus 7 corroborating cross-links; fixed missing sources video_id on all 7 touched files |
 | gaHpCc_tc78 | SearcherSportfishing | tutorial | deep | done | lures/soft-plastic-swimbaits.md / corroborating single-mention swimbait size/weight/color data point for calico bass at 'the Ridge'/Baja coast; fixed missing 'bank' waters tag |
 | gqEjWrPpa48 | SearcherSportfishing | tutorial | deep | done | tackle/searcher-lever-drag-reel-sizing.md / short promo clip merged as corroborating/earlier data point on the existing Penn Fathom 60 entry; giveaway plug excluded; fixed one unflagged ASR garble |
-| h0NyGvIaDc8 | SearcherSportfishing | tutorial | deep | pending |  |
+| h0NyGvIaDc8 | SearcherSportfishing | tutorial | deep | done | techniques/foamer-casting.md / added cast-into-a-busting-school mechanic (size-to-bait, bridge-called sounder-depth follow-down) and an ask-a-biting-angler troubleshooting tip; fixed a fabricated Current-Sniper/Colt-Sniper ASR resolution |
 | hlmDnAct1cA | SearcherSportfishing | tutorial | deep | pending |  |
 | hteLeDIy9Qs | SearcherSportfishing | tutorial | deep | pending |  |
 | i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | pending |  |
