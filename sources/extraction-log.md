@@ -2318,7 +2318,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | drARx5Fpy-s | SearcherSportfishing | on-the-water | decision-rationale | done | none / correctly skipped: 29s auto-caption clip, no extractable fishing content |
 | eIAKA8Jgopk | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: unintelligible auto-caption fragments, no fishing content |
 | fHtTbZAWz1g | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: dock-interview chatter, no stated decisions/technique/gear/conditions |
-| fcdWAo0VAKw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| fcdWAo0VAKw | SearcherSportfishing | on-the-water | decision-rationale | done | techniques/flyline.md / added Observed tackle data point (40 lb test flyline, hook/brand ASR-hedged) |
 | g1C-FK6o4nA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | gQb_3MW6L9M | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | jH0q4UPjwC0 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |

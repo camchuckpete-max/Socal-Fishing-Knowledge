@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms, fcdWAo0VAKw]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -190,6 +190,23 @@ leader "couldn't" hold up — additional same-trip leader data points alongside
 the 25–30 lb figure above. Thick-shank hook doctrine (why Mustad/VMC hold up
 under heavy drag on this small a bait) from the same trip is logged in
 [hooks](../tackle/hooks.md).
+
+**Observed** (SearcherSportfishing, 2015-08-02, San Diego, SoCal —
+`fcdWAo0VAKw`, "Wayne Burnette fights a yellowtail," a ~1-minute dockside/
+on-the-water interview clip; `searcher-sportfishing` registered channel,
+single mention, angler interview rather than crew doctrine — medium
+confidence): angler Wayne Burnette (name per the video title, human-typed
+metadata) landed a yellowtail off San Diego on a flylined bait he described
+on camera as a "small sliding shaker" (asr-uncertain — bait type not
+confidently resolved to a specific species; possibly a small sardine or
+other undersized baitfish) on **40 lb test** line, brand named on camera as
+"I Zuerlein" — read here as **Izorline**, a brand independently confirmed on
+this channel (Wendy of Izorline is a recurring named Searcher voice per
+`sources/source-registry.md`) — to a hook captions render as "2030"
+(asr-uncertain, possibly a **2/0** hook per the aught-sizing ASR corruption
+pattern already logged elsewhere in this note, not confidently resolved). No
+location beyond "San Diego," no conditions, and no stated reason for the
+bait/tackle choice were captured in this clip — a tackle data point only.
 
 ## Match line weight to the bait, not just to the target fish
 
