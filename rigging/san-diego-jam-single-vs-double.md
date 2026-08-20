@@ -9,12 +9,12 @@ waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 
 # San Diego Jam — Single vs. Double, and When to Use Each
 
-A sub-decision inside the [San Diego jam knot](essential-knots.md) family:
+A sub-decision inside the [San Diego jam knot](san-diego-jam-knot.md) family:
 once you can tie the doubled-through-the-eye version, when do you use the
 single instead? Captain Art of SearcherSportfishing answers a viewer question
 on this directly (Tackle Tip Thursday Vol. 182, `6T3xZ9vufrM`, 2022-05-19) —
 the companion piece to the "double jam knot" naming and application rule
-already logged in [essential-knots.md](essential-knots.md#parameters--judgment),
+already logged in [san-diego-jam-knot.md](san-diego-jam-knot.md#parameters--judgment),
 which named the single as the live-bait alternative without demonstrating it.
 
 ## When to use it
@@ -42,16 +42,16 @@ which named the single as the live-bait alternative without demonstrating it.
   is presentation drag/visibility on a live bait, the choice is single over
   double, the stated reason is bulk and fish spooking off the knot.
 - **Fills a flagged gap:** the companion "double jam knot" entry in
-  [essential-knots.md](essential-knots.md#parameters--judgment) (SearcherSportfishing,
+  [san-diego-jam-knot.md](san-diego-jam-knot.md#parameters--judgment) (SearcherSportfishing,
   `5J7a6UwTA90`, 2022-05-26) names the single jam knot as the live-bait
   alternative but doesn't construct it — that gap is filled here. Tying
   mechanics for both the single-pass and doubled-through-the-eye versions are
-  in [essential-knots.md](essential-knots.md#parameters--judgment); this note
+  in [san-diego-jam-knot.md](san-diego-jam-knot.md#parameters--judgment); this note
   only adds the selection rule and its stated reason.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Dropper Loop](../techniques/dropper-loop.md)
-- [Essential SoCal Knots](essential-knots.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 <!-- backlinks:end -->

@@ -100,7 +100,7 @@ built around **feeling the bite from depth**:
   the sinker (and sometimes not even that) stays on the bottom.
 - **Twist swivel above the sinker, tied light on purpose.** Run a small twist
   swivel just above the sinker via a lightly-tied **San Diego jam knot — see
-  the [deliberately weak variant](../rigging/essential-knots.md#san-diego-jam-knot-deliberately-weak-variant-for-a-weight-connection-scotty)**
+  the [deliberately weak variant](../rigging/san-diego-jam-knot.md#deliberately-weak-variant-for-a-weight-connection-scotty)**
   — it won't stop all line twist but cuts it down. **Clearing twist after a
   fish:** a fish cranked up from ~200 ft spirals the whole way up and loads
   the line with twist; hold the rig at the knot (above the swivel) and let
@@ -324,8 +324,8 @@ free of the release clip so it can swim back to structure.
 ## Linked from
 
 - [Dropper Loop](dropper-loop.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 <!-- backlinks:end -->

@@ -116,7 +116,7 @@ Pick the hook position for the swimming behavior you want:
   Hansen, Your Saltwater Guide, ftEvyfwjZFU, 2021-06-08; dave-hansen
   registered voice — `high` confidence):** flylining sportboat sardine for
   bluefin, reach for a **4/0 thin-wire circle hook**, straight-tied — no
-  swivel, no bead — with a [San Diego jam](../rigging/essential-knots.md).
+  swivel, no bead — with a [San Diego jam](../rigging/san-diego-jam-knot.md).
   Thin wire specifically because a sardine, unlike a heartier mackerel,
   "has a hard time swimming" a standard/heavier-gauge hook around
   convincingly; fluorocarbon leader throughout, since bluefin "have so many

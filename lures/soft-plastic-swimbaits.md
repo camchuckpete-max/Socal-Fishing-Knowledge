@@ -159,7 +159,7 @@ that this may or may not be the same lure as — noted side by side, not
 reconciled.
 
 - **Rigging:** tied straight to the lure eye with a
-  [San Diego jam](../rigging/essential-knots.md). The video does not state a
+  [San Diego jam](../rigging/san-diego-jam-knot.md). The video does not state a
   leader material or weight for this specific bait — the **60 lb
   fluorocarbon / no-swivel-no-bead / "that's how these are made"** rationale
   in this video is given for the wing stick bait (below), not repeated for

@@ -11,7 +11,7 @@ waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 
 A **single-pass** terminal knot for tying line straight to a hook or lure eye
 — the line goes through the eye once, not doubled, unlike the [San Diego
-jam](essential-knots.md#parameters--judgment). Kept as its own note rather
+jam](san-diego-jam-knot.md#parameters--judgment). Kept as its own note rather
 than folded into [Essential SoCal Knots](essential-knots.md) — that note is
 already long, and this knot carries its own naming quirk large enough to need
 room: several presenters tie the **identical mechanic** but call it by
@@ -30,8 +30,8 @@ which this note tracks side by side rather than resolving.
 - **Naming caution:** don't assume the name on camera maps to a fixed
   mechanic across channels — the same single-pass tie gets called "San Diego
   jam" in several Dave Hansen videos and "improved cinch knot"/"fisherman's
-  knot" in others (see below). The doubled-through-the-eye tie documented as
-  the [San Diego jam in Essential SoCal Knots](essential-knots.md#parameters--judgment)
+  knot" in others (see below). The doubled-through-the-eye tie documented in
+  [San Diego Jam Knot](san-diego-jam-knot.md#parameters--judgment)
   is mechanically different from this one.
 
 ## Parameters & judgment
@@ -73,7 +73,7 @@ which this note tracks side by side rather than resolving.
   VsUUBICiBzQ, "San Diego jam" here. Kept side by side rather than reconciled
   to one name. Practical takeaway: a "San Diego jam" in a Your Saltwater Guide
   video is this single-pass tie, not the doubled-through-the-eye version
-  described in [Essential SoCal Knots](essential-knots.md#parameters--judgment).
+  described in [San Diego Jam Knot](san-diego-jam-knot.md#parameters--judgment).
   Don't assume the name maps to the same mechanic across channels.
   **Second corroboration of the "San Diego jam" naming (Dave Hansen, Your
   Saltwater Guide, RbqOKkINSCM, 2021-05-25):** ties the identical single-pass
@@ -211,5 +211,6 @@ Series)](https://www.youtube.com/watch?v=J0NJhN6-Thg) (SearcherSportfishing,
 
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](essential-knots.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
 <!-- backlinks:end -->

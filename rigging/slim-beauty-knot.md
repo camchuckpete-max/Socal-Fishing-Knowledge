@@ -92,4 +92,5 @@ Wendy, Izorline, 2022-03-31).
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 <!-- backlinks:end -->

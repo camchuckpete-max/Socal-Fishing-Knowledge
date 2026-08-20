@@ -433,7 +433,7 @@ water column before working it.
   one color scheme working both silhouettes.
 - **Rigging:** straight-tied (no swivel, no bead) to **60 lb fluorocarbon**,
   stepping up to **80 lb** as an alternative, with a
-  [San Diego jam knot](../rigging/essential-knots.md) — same straight-tie
+  [San Diego jam knot](../rigging/san-diego-jam-knot.md) — same straight-tie
   rationale as the Mad Eel glide swimbait (see [soft-plastic
   swimbaits](soft-plastic-swimbaits.md)): a swivel would be visible to the
   fish, and the lure is designed to be tied straight. **Drag hammered down**:

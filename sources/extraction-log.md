@@ -2137,7 +2137,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | YJX-hYEIcNM | SearcherSportfishing | tutorial | deep | done | planning/search-and-glassing.md / Added 'Sunglass lens color for glassing' section (medium confidence, Rick/Fisherman's Landing guest voice) tying lens tint to existing kelp-paddy/breezer surface-sign vocabulary; evaluator ran link-maintenance backlink regen |
 | Y_ElKixrhsc | SearcherSportfishing | tutorial | deep | done | tackle/rod-and-reel-selection.md: Steve Carson's traditional-vs-baitcast surface-iron outfit specs added as new section, kept side by side with Doug Kearn's tip; fixed fabricated cross-ref and overstated claim before applying |
 | Yd3J4igs-QA | SearcherSportfishing | tutorial | deep | done | tackle/bluefin-50-80lb-bait-outfit-ladder.md (new); species/bluefin-tuna.md; tackle/bluefin-rig-ladder-by-grade.md; tackle/searcher-big-tuna-rig-ladder.md: new bait-outfit-ladder note (Gary/Accurate, sponsored segment) cross-linked to router, mechanism/strategy medium, product/reel picks low per registry |
-| YeV--HarEYQ | SearcherSportfishing | tutorial | deep | pending |  |
+| YeV--HarEYQ | SearcherSportfishing | tutorial | deep | done | rigging/san-diego-jam-knot.md (new, split from essential-knots.md) + 8 dependent notes: Armando's single-pass San Diego jam demo (7-wrap data point), tension-rationale clause added |
 | YtlD1gQ_ULw | SearcherSportfishing | tutorial | deep | pending |  |
 | ZECOKmD4fIs | SearcherSportfishing | tutorial | deep | pending |  |
 | ZKb13fNT6P0 | SearcherSportfishing | tutorial | deep | pending |  |

@@ -242,7 +242,7 @@ traveling dolphin pods.
   themselves at the surface swimming with the pod.
 - **The rig, built start to finish:**
   - **Sinker:** a **4 oz inline torpedo sinker**, tied directly into the main
-    line (not banded) with a [San Diego jam knot](essential-knots.md) through
+    line (not banded) with a [San Diego jam knot](san-diego-jam-knot.md) through
     the sinker's top and bottom holes.
   - **Main line to sinker:** **60 lb braid**, with a short **60 lb high-viz**
     leader piece spliced in between the braid and the sinker (also San Diego
