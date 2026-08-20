@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc, Ga8Z1PyBqdE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -253,6 +253,23 @@ fluoro leader, braid main line — and feed the terminal rigs in
   states both knots hold **the same strength** and are equally effective at
   landing fish; full context in [Surgeon's Knot — Mono-to-Fluorocarbon
   Leader Connection](surgeons-knot-mono-to-fluoro.md#parameters--judgment).
+  **Fifth data point, matching the 6-wrap base count, plus tag-length and
+  cinch-sequence detail (Tackle Express, "Master the UNI UNI Knot,"
+  `Ga8Z1PyBqdE`, 2024-12-02; unregistered channel, single mention — medium
+  confidence):** demoed braid-to-braid, with the presenter naming
+  mono-to-mono, mono-to-fluoro, and braid-to-any-mono/fluoro-leader as other
+  valid uses. Paraphrased mechanic: cross the two lines into an X, leaving
+  **6 to 10 in** of tag on each side; form a loop in one line and wrap the
+  tag through it **6 times**, then pull that side snug — deliberately not
+  fully cinched yet, just tight enough that the coils won't shift — before
+  sliding down to the other line and repeating the same loop-and-6-wrap tie.
+  Pull all four strands together to bring the two coiled knots close, then
+  lubricate before cinching: draw both ends tight until the two knots meet,
+  then cinch them down against each other and trim both tags. Matches the
+  6-wrap figure already logged at the top of this bullet, kept as a fifth
+  data point alongside 3–4 (`NkjjDf6XPcE`), 5 (`qtCZAB4EBs4`), and 4
+  (`zKovnvOwlFc`) above — angler-preference variation, not reconciled to one
+  number.
 - **Seaguar knot (connection)** — a purpose-built mono-to-fluoro bite-guard
   connection with five sourced variants (Cesar/Eric's Tackle and three
   StokedOnFishing clips, plus a fifth from SearcherSportfishing) that do not
@@ -352,7 +369,8 @@ portion of this video and four other mono-to-fluoro connection clips),
 [Searcher Sportfishing Fluoro to Mono Knots (surgeon's knot + uni-to-uni)](https://www.youtube.com/watch?v=zKovnvOwlFc),
 [Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
-and [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks)
+[John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks),
+and [Master the UNI UNI Knot, braid to braid](https://www.youtube.com/watch?v=Ga8Z1PyBqdE)
 (see [Surgeon's Knot — Mono-to-Fluorocarbon Leader
 Connection](surgeons-knot-mono-to-fluoro.md) for the surgeon's-knot
 mono-to-fluoro connection clips).
