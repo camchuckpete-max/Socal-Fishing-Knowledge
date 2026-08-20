@@ -254,6 +254,12 @@ counter:
   for fishing after dark or before daylight, or a [fly-lined
   sardine](../techniques/flyline.md) outfit.
 
+A related two-speed size split from the same channel — a smaller **Penn
+Fathom 30** loaner reel vs. a larger **Penn Fathom 60** rail-rod reel, with
+their braid/top-shot capacities — is logged separately (sponsored content,
+kept out of this already-oversized note) in [Searcher lever-drag reel
+sizing](searcher-lever-drag-reel-sizing.md).
+
 ## Offshore tuna favorite setup — rod length for casting distance (Nathan Winnicke, Penn, SearcherSportfishing)
 
 Nathan Winnicke, Penn Reels, via SearcherSportfishing ("Tackle Tip Thursday
@@ -914,6 +920,7 @@ a bluefin).
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
+- [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)

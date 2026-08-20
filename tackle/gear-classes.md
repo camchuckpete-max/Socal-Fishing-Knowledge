@@ -107,7 +107,11 @@ graphite, 7 ft**, with the same **extra-long hypalon foregrip** rail
 mechanism described above.
 Full rig detail in [Searcher big/giant tuna rig
 ladder](searcher-big-tuna-rig-ladder.md#flat-fall-set-up--jig-weight-leader-rodreel-capt-art-taylor-searcher-2020-11-12)
-and [flat-fall jigging](../techniques/flat-fall-jigging.md).
+and [flat-fall jigging](../techniques/flat-fall-jigging.md). A second,
+independent citation of the same Penn Fathom 60 two-speed on a Searcher rail
+rod — general "bigger fish" and bottom dropper-loop yellowtail rather than
+flat-fall bluefin, plus a smaller Fathom 30 loaner-reel data point — is in
+[Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md).
 
 ## Line classes
 
@@ -189,6 +193,7 @@ does the lookup.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](searcher-big-tuna-rig-ladder.md)
+- [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
