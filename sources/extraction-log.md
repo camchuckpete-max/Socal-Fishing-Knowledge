@@ -2304,7 +2304,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | XngQMsyvtNM | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: nothing extractable, reaction-only footage; evaluator fixed extraction-log pending row |
 | Y97blHr1F8k | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 26s customer catch shout-out, no extractable content |
 | Y9Ke1shXpwc | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: 17s camera banter clip, no fishing content |
-| YeYO998pX0M | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| YeYO998pX0M | SearcherSportfishing | on-the-water | decision-rationale | done | no destinations: nothing extractable, weigh-in callouts and banter only |
 | ZIJAvAEW_tU | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | ZY-cTuFtjh8 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | ZcIiucZlBcM | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
