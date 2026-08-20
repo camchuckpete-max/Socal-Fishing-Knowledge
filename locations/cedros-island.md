@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -96,6 +96,23 @@ abundant here — *"it's raining calicos out here."*
 | [California halibut](../species/california-halibut.md) | Sourced separately in the halibut note from earlier Cedros charters |
 | [Dorado](../species/dorado.md) | Offshore of the island / the outer banks — sourced separately in the dorado note |
 | [Bonito](../species/bonito.md) | Present and mixed in with the yellowtail |
+
+**Observed** (SearcherSportfishing, 2010-11-09 upload, Cedros Island —
+`K4GTUO57rio`, "Adam Broscoe and Grandfather Bob Blum go to Cedros Island";
+short on-the-water/interview clip, auto-generated captions, badly garbled in
+places; a different content type than this channel's registered Tackle Tip
+Thursday/Tackle Talk Live series, so treated as an unregistered-channel
+mention — medium confidence): a Cedros yellowtail session **14 years earlier**
+than the 2024 four-day trip documented above, called on camera as producing
+exceptionally large, high-quality fish — *"they're huge, they're massive...
+I don't think there's any under 25, most of them are"* (unit not stated on
+camera; read as lb by context, not confirmed). Consistent with, not new
+beyond, this note's big-fish-at-Cedros doctrine, and it extends the grade
+record at this island back to at least 2010. The same short clip closes on
+an angler (Adam) reporting **seven** yellowtail landed and his grandfather
+(Bob Blum) **five**, "used all the different techniques" — no technique or
+tackle choice was named or reasoned on camera, so no technique detail carries
+from this source.
 
 **Forage seen on the grounds:** **micro red crab** in the water on the trip
 filmed, plus bait metered on the bottom in **183 ft**. An operator running its
