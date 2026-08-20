@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4]
 confidence: medium
 ---
 
@@ -185,14 +185,14 @@ stay attributed as below.
   strongly suggests checking with the crew on whatever boat you're fishing —
   they can set the drag for you before you start fishing.
 
-## Failure modes, the strike-position hand-wrap test, and a mid-fight correction (SearcherSportfishing, "Tackle Tip Thursday Vol. 207 — How To Set Your Drag, part 2," `wGWjnW7wCiI`, 2022-12-01; unnamed crew presenter; `searcher-sportfishing` registered channel/series — the shared free-spool/strike-position method above is now `high` as repeated doctrine across Part 1 and Part 2; the failure-mode and mid-fight-correction detail below is unique to this episode and stays `medium` as a single mention)
+## Failure modes, the strike-position hand-wrap test, and a mid-fight correction (SearcherSportfishing, "Tackle Tip Thursday Vol. 207 — How To Set Your Drag, part 2," `wGWjnW7wCiI`, 2022-12-01; unnamed crew presenter; `searcher-sportfishing` registered channel/series — the shared free-spool/strike-position method above is now `high` as repeated doctrine across Part 1 and Part 2; the three-things-wrong list and the rod-raise mid-fight tell below are now `high` too, independently corroborated by the earlier Capt. Art seminar merged further below (`CSpBymCVWN4`); the hand-wrap test and the crew's mid-fight bump-up correction remain unique to this episode and stay `medium` as a single mention)
 
 Part 2 of a two-part Searcher series. **Part 1** ("Vol. 205 — How To Set Your
 Drag, part 1," `ypr-qZF4FTY`, 2022-11-17) is merged above as of batch 3,
-2026-08-20. Two further Searcher drag-setting sources ("Searcher Sportfishing
-Drag Settings," `Psiiza6YQyE`; "Capt Art Seminar — Drag Settings,"
-`CSpBymCVWN4`) remain unprocessed — merge them in as repeated doctrine when
-they arrive.
+2026-08-20, as is the earlier "Capt Art Seminar — Drag Settings" source
+(`CSpBymCVWN4`), merged below. One further Searcher drag-setting source
+("Searcher Sportfishing Drag Settings," `Psiiza6YQyE`) remains unprocessed —
+merge it in as repeated doctrine when it arrives.
 
 **Three things that go wrong with an incorrectly set drag:**
 
@@ -244,6 +244,38 @@ the practical, deckhand-executed version of the on-the-fly adjustability
 problem named above (a lever drag is hard to fine-tune one click at a time
 mid-fight) — going all the way to free spool sidesteps that rather than
 fighting the lever.
+
+## An earlier, independent citation of the same three-things-wrong list and the same rod-raise test (Capt. Art, SearcherSportfishing, "Capt Art Seminar — Drag Settings," `CSpBymCVWN4`, uploaded 2013-09-09; on-camera self-identified as "Captain Art from Searcher Sport Fishing"; `searcher-sportfishing` registered channel — `high` confidence, corroborating and predating the Vol. 205/207 doctrine above by roughly nine years)
+
+Structured as a short standalone seminar rather than a Tackle Tip Thursday
+episode, this is the oldest dated drag-setting source in this corpus. It
+independently states the same **three things that go wrong** with an
+incorrect drag setting, in the same order as Vol. 207 above, and demonstrates
+the same **raise-the-rod, watch-the-spool** mid-fight test — both now `high`
+confidence as doctrine repeated across three separate Searcher-crew sources
+spanning 2013–2022:
+
+- **Too tight → the line breaks.**
+- **Too loose → no proper hook set,** so the fish is lost after a short time
+  because the hook never seated correctly.
+- **Too loose → more time spent on the fish than necessary,** raising the odds
+  of an avoidable tangle, and **the longer a fish is fought, the bigger the
+  hole the hook wears** in it — which can also cost you the fish.
+
+**The rod-raise test, demonstrated on camera:** using a Shimano two-speed
+reel (model number garbled in the auto-generated transcript as "20A twos,"
+possibly a Talica 25 II — not verified, written without the specific model
+name) spooled with **50 lb test**, Art turns the rod and reel upside down for
+the camera and shows: raise the rod and if **line pays off the spool**, the
+drag is too loose. Framed as the mechanism, with a specific worked example —
+**a fish sitting at 100 ft:** raise the rod, 3 ft of line goes off the spool;
+wind back down to the fish, the same 3 ft returns to the spool; net result,
+the fish is still at 100 ft — no progress despite winding. **With the drag
+set correctly, no line pays out when the rod is raised,** so every wind-down
+gains real ground: his example progression is **100 ft → 97 ft → 94 ft → 91
+ft**, and so on, until the fish is brought to color, gaffed, and tagged.
+Stated as applying **regardless of line class** — the correct-drag principle,
+not a specific number, is the point.
 
 ## Strike is a floor, not always the setting — some go 3/4 of the way to strike, and never touch the drag while a fish is running (Art, SearcherSportfishing, via Turner's Outdoorsman, Norwalk — named on camera only as "Art," plausibly Capt. Art Taylor as cited by full name elsewhere in this corpus, not confirmed by surname here — `eehDVb6_GoI`, "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30; `searcher-sportfishing` registered channel — medium confidence, single mention)
 
