@@ -2336,7 +2336,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | uWGGeDOprsE | SearcherSportfishing | on-the-water | decision-rationale | done | tackle/searcher-alijos-rocks-ridge-7-day-quiver.md; tackle/hooks.md; tackle/line-and-leader.md; rigging/crimping.md; species/wahoo.md; species/yellowtail.md; species/yellowfin-tuna.md; tackle/searcher-6-to-8-day-heavy-outfit.md; tackle/searcher-four-outfit-guadalupe-quiver.md / five-outfit Alijos Rocks/Ridge tackle quiver note applied with one fix (removed invented tough-jaw rationale) |
 | uXWliLLPzss | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: 32s clip, fragmentary exclamations only, no fishing content |
 | utTcrpscYHQ | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: music-video montage, lyrics/applause only |
-| v8tPYYKM2JE | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| v8tPYYKM2JE | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: banter/action footage, no stated reasoning, gear already covered by existing tackle notes |
 | vJGGfJfdDAk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | vMRLjvSQBNA | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | wt-3dlbMGJc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
