@@ -2185,7 +2185,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | kuvfoJKpLYU | SearcherSportfishing | tutorial | deep | done | tackle/reel-maintenance.md / added pre-trip mono top-shot visual test and spectra fray-check, medium confidence |
 | kzpeM56Gh7o | SearcherSportfishing | tutorial | deep | done | tackle/searcher-three-outfit-minimum-quiver.md; tackle/gear-classes.md; tackle/rod-and-reel-selection.md; tackle/searcher-big-tuna-rig-ladder.md; tackle/searcher-lever-drag-reel-sizing.md / new note: 3-outfit minimum quiver for a 1.5-4 day Searcher trip, cross-linked as third citation of OSP 1x3/Fathom 60 rail-rod pairing |
 | m2g97MxmAGI | SearcherSportfishing | tutorial | deep | done | tackle/searcher-40lb-all-around-tuna-outfit.md; techniques/dart-jig-tuna.md / tuna dart-jig reel corroboration + size/color/depth data point merged; evaluator reverted an over-broad confidence bump to medium |
-| m424-XxCFQw | SearcherSportfishing | tutorial | deep | pending |  |
+| m424-XxCFQw | SearcherSportfishing | tutorial | deep | done | none / nothing-extractable: 38s promo/PSA on eating yellowtail collars, no fishing knowledge to capture |
 | nAGkYWuJrCI | SearcherSportfishing | tutorial | deep | pending |  |
 | nM7B5NQLy44 | SearcherSportfishing | tutorial | deep | pending |  |
 | nWq2DVzBNeI | SearcherSportfishing | tutorial | deep | pending |  |
