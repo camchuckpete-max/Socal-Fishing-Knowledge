@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -203,6 +203,22 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
   with the added why; it applies as much to the hard-bait presentations in
   the situations table above (Lucky Craft, HookUp Baits) as to bait rigs,
   since those use smaller trebles than a trap rig's stinger.
+
+- **The hardware fix for the same problem — rethink the hook, not just the
+  drag (Tackle Express, `Bok0db0G4xE`, 2026-05-07; unregistered channel,
+  single mention — medium confidence):** the stated trigger is hook size
+  relative to the fish — a typical minnow-style hard bait for halibut carries
+  only a **size six treble**, and "if you hook the biggest halibut of your
+  life" on that hook "you're taking your chances," calling it effectively **a
+  trout hook in a 15-lb game fish**. His stated fix is to swap off the hard
+  bait entirely for a soft-plastic rig that keeps the same swimming action
+  but trades the small treble for one big single hook — see
+  [inshore crankbaits — rigging](../techniques/inshore-crankbaits.md#rigging)
+  for the specific heads (Scrounger, cut-skirt ChatterBait) and his stated
+  reasoning for each. Kept beside, not replacing, the light-drag doctrine
+  immediately above from the same channel — this video is the hardware-side
+  fix for the exact problem that doctrine flags ("especially important
+  fishing minnow-style hard baits with small trebles").
 
 ## Gear summary (class terms)
 

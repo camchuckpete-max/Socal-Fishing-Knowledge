@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -135,6 +135,17 @@ more structure**, reach for a **War Baits Neck Breaker head with a
   hooking-percentage upside above for a snag-resistant single point — a
   different, kelp-specific hardware call, not a replacement for the treble
   upgrade above.
+- **Halibut: swap a hard bait's small treble for a Scrounger-head soft
+  plastic (Tackle Express, `Bok0db0G4xE`, 2026-05-07; unregistered channel,
+  single mention — medium confidence):** for California halibut, rig a
+  hover-strolling-style soft-plastic minnow bait on a **Scrounger head**
+  (one big single hook in place of the stock hard bait's treble), or reach
+  for a **Z-Man basic ChatterBait with the skirt cut off** (also a single
+  giant hook, plus no spinner blade to bend/deform with use) — a
+  fish-size-driven swap, distinct from the kelp/snag-driven Owner Hooks swap
+  above. See [California
+  halibut](../species/california-halibut.md#situations--techniques) for the
+  stated reason (a stock size-six treble undersized for a big halibut).
 
 ## Gear class
 

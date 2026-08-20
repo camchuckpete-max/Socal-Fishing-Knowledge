@@ -2428,7 +2428,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | BNp-gSOpWBw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-jig-stick-trolling-outfit.md; tackle/gear-classes.md / new note on jig-stick-as-trolling-outfit dual use (gear pairing, clicker sequence), linked from jig-stick class row |
 | BPxE3xn3gAc | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md; lures/bay-bass-plastics.md / light-finesse halibut drop-shot rig + Basstrix Flash Trick lure colors added; evaluator fixed an unsupported calico-bass gloss on presenter's green-bass comparison |
 | Basv01kFjOs | Tackle Express | tutorial | parameter-skim | done | none / transcript is an unrelated Jet2 Holidays travel ad, zero fishing content |
-| Bok0db0G4xE | Tackle Express | tutorial | parameter-skim | pending |  |
+| Bok0db0G4xE | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md; techniques/inshore-crankbaits.md / small-treble-to-Scrounger-head/cut-skirt-ChatterBait hook swap for big halibut; evaluator trimmed router duplication, kept implementation in technique note |
 | BsWb5BQ1Tdc | Tackle Express | tutorial | parameter-skim | pending |  |
 | BwDJ4VFvB3E | Tackle Express | tutorial | parameter-skim | pending |  |
 | CNMXkml1okI | Tackle Express | tutorial | parameter-skim | pending |  |
