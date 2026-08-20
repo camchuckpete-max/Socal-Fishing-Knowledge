@@ -2460,7 +2460,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Ga8Z1PyBqdE | Tackle Express | tutorial | parameter-skim | done | rigging/essential-knots.md / fifth corroborating data point on uni-to-uni: wrap count, tag length, cinch sequence |
 | GchQpXW2jI0 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 29s teaser clip, product name-drop with no extractable content |
 | GeydGK-62fw | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md / corroborating medium-confidence addition to existing 60-degree rod-angle doctrine; fabricated reel/shock-absorber mechanism stripped by evaluator |
-| H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | pending |  |
+| H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md / Tackle Express beach-channel sink-rate/current, color-by-clarity, and named Bassday Gyokusai 97 floater merged in |
 | HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | pending |  |
 | HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | pending |  |
 | HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | pending |  |

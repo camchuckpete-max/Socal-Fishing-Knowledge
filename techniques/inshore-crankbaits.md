@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -115,6 +115,40 @@ more structure**, reach for a **War Baits Neck Breaker head with a
   specifically, where the other entries draw it at sparse lanes vs. thicker
   cover.
 
+## Beach channels — match sink rate to current, and color to water clarity (Tackle Express)
+
+Tackle Express (`H5Z-Mqt4qXs`, 2026-05-07; unregistered channel, single
+mention — medium confidence). No species is named on camera; this is
+general beach/surf hard-bait selection, illustrated with beach inlet
+channels and river mouths (he names **Bolsa Chica** as an example of the
+channel type, not as a doctrine-specific spot):
+
+- **Deep, fast-flowing channels need a sinking bait to get down.** Beach
+  inlet channels and river-mouth channels run current quickly through a
+  deep cut; a floating or suspending bait won't reach the strike zone in
+  that flow, so the stated call is to switch to a bait that sinks. Kept
+  side by side with, not a replacement for, the shallow-water
+  non-diving-lure doctrine in
+  [California halibut](../species/california-halibut.md#situations--techniques)
+  (Lucky Craft Flash Minnow) — that doctrine is for skinny, slower surf
+  water where a diving bait digs into the sand; this is the opposite read,
+  for a deep channel with real current, where the problem is a bait that
+  won't get down at all.
+- **Color by light and water clarity:** his stated preference is a
+  **clear** color fished **in the sun** — "clear or something reflective"
+  — which he says works better for him in bright conditions; he switches
+  to **white** when **the water's dirty or there's overcast**.
+- **A named floating bait he's fished the past couple years (resolved
+  against the 2026-05-07 upload date to roughly 2024–2026):** a **Bassday
+  Gyokusai 97**. Stated as notable specifically because it **floats** yet
+  still **casts a distance** — floating baits are implicitly harder to
+  cast far, and he calls this one out as an exception. No running depth,
+  retrieve, or rigging detail is given on camera before the clip ends; not
+  enough is captured here to resolve whether it is fished in the
+  fast-channel scenario above or the shallower water the Lucky Craft Flash
+  Minnow doctrine covers — recorded as a named model, not a placed
+  technique.
+
 ## Rigging
 
 - **Upgrade the hardware for SoCal grade:** swap stock hooks to **2X–3X
@@ -211,8 +245,10 @@ anglers skip.
   exists, the surf-halibut-specific
   [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
   (`E4CDqBFOaP8`); DD-class divers and the other named models above (Lucky
-  Craft Pointer 128, 190 Slim/Slim Fingers) are still named only at class
-  level, pending new sources.
+  Craft Pointer 128, 190 Slim/Slim Fingers, and the floating Bassday
+  Gyokusai 97 in the beach-channel entry above) are still named only at
+  class level, pending new sources with enough running-depth/rigging detail
+  to earn their own notes.
 
 <!-- backlinks:start -->
 ## Linked from
