@@ -2173,7 +2173,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hteLeDIy9Qs | SearcherSportfishing | tutorial | deep | done | techniques/yo-yo-iron.md / added Fred/Secret Fishing Rods depth-tiered jig sizing, stretch-buffer leader reason, and don't-set-the-hook citation at medium confidence |
 | i1Ul0XCG36o | SearcherSportfishing | tutorial | deep | done | none / 47s Turner's Outdoorsman house-brand rod-lineup promo — no decision logic, parameters, or SoCal-specific detail; correctly skipped |
 | icpm7gADxvU | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md; techniques/flyline.md / light-line bluefin bait scenario merged (J-hook baiting speed, bait-not-swimming rationale, Mutu Hybrid retail sighting); evaluator fixed a sponsored-claim confidence cap and cross-note duplication |
-| iqTN2IBRP1A | SearcherSportfishing | tutorial | deep | pending |  |
+| iqTN2IBRP1A | SearcherSportfishing | tutorial | deep | done | lures/tuna-poppers-and-stickbaits.md / added Nomad Chug Norris hot-pink-mackerel data point and popper-vs-effectiveness framing; evaluator removed a fabricated Steve Carson cross-reference |
 | it_YYh_8Z-w | SearcherSportfishing | tutorial | deep | pending |  |
 | jDmHgRNnqhw | SearcherSportfishing | tutorial | deep | pending |  |
 | jJG6FWNXkok | SearcherSportfishing | tutorial | deep | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A]
 confidence: high
 regions: [socal-bight]
 waters: [open-ocean, bank, island]
@@ -400,6 +400,24 @@ below). Retrieve cadence (cast to the edge of the boil, not the middle;
 three-count, one hard rip, then wait) is the general foamer popper cadence —
 see [foamer casting](../techniques/foamer-casting.md) for the full retrieve
 detail and the common-failure framing.
+
+**Fleet report and stated choice-of-lure reasoning (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 76," `iqTN2IBRP1A`, 2019-11-28; `searcher-sportfishing`
+registered channel — color/product naming low confidence per the
+sponsored-claim caveat; the stated popper-vs-more-effective-method reasoning
+medium confidence, single mention):** as of this fall report, yellowfin tuna
+fishing "on the ridge" was good on the popper (the specific ridge is not
+named on camera — **location-unresolved**, not assumed to be the 181/182
+Ridge or Clemente Ridge documented elsewhere in this KB). Framed on camera as
+**not the most effective method that trip**, but as "a really good visual
+way" and personally "probably my most fun way to catch them" — a stated
+preference for visual/fun over raw effectiveness. **Color/species data
+point:** a **hot pink mackerel** Nomad
+Chug Norris (captioned "chuck norris by nomads," read against the
+already-documented Nomad Chug Norris model above) was fished with that
+reasoning and named as good for **bluefin and yellowfin**, "maybe even" a
+further species the captions don't resolve confidently (**asr-uncertain**,
+not carried).
 
 ### Mustang diving pencil
 **New for the 2023 season as of this video (Cesar, Eric's Tackle, via Dirty
