@@ -27,6 +27,12 @@ printed line-rating range is a range to fish inside of, not a target to fish
 at either edge of — buy the range wide enough that its middle covers what you
 actually intend to fish.
 
+This is a **line-rating (lb-test)** rule for a general-purpose rod. A
+dedicated **jig** rod's printed **gram** rating works the opposite way — see
+[jig-rod rating selection](jig-rod-rating-selection.md) for the contrast, kept
+side by side rather than reconciled since the two describe different printed
+parameters on different rod classes.
+
 ## What this build covers, summertime SoCal
 
 Fished at 25–30 lb (the middle of the 15–40 lb rating), this rod handles
@@ -55,5 +61,6 @@ inferred.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](jig-rod-rating-selection.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->

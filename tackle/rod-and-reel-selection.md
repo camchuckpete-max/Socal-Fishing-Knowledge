@@ -25,7 +25,9 @@ judge a rod's action by hand-bending it at a shop counter — see [rod action
 testing technique](rod-action-testing-technique.md) for why that misreads the
 rod. For a quick buying rule on an all-purpose rod's line rating — buy a wide
 range and fish its middle — see [all-purpose rod line
-rating](all-purpose-rod-line-rating.md).
+rating](all-purpose-rod-line-rating.md). For the equivalent rule on a
+dedicated **jig** rod's gram rating — fish toward the top of the range, not
+the middle — see [jig-rod rating selection](jig-rod-rating-selection.md).
 
 ## How the pieces map — application to rod power to reel
 

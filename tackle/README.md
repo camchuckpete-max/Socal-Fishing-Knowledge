@@ -13,6 +13,7 @@
 - [Gear Classes — the class-term lexicon](gear-classes.md) — The KB describes gear in class terms (jig-stick class, 40–60 lb class, 200g-knife-jig class) so a species/technique note can say "reach for the surface-iron cla
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md) — A minimal hook box, sized by species and bait rather than by a long shopping list — one boat's answer to "what do I actually need to pack" (Carl, Fisherman's La
 - [Hooks — Style, Size, and Matching to Bait](hooks.md) — A hook is chosen on four axes: style (how it sets), size (matched to the bait, then the fish), wire gauge (how much it burdens a live bait vs.
+- [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](jig-rod-rating-selection.md) — A short buying-education point from Tackle Express staff (unnamed on camera; tackle-express is an unregistered channel, single 42-second mention — medium confid
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md) — How a jigging rod's guide train is built, and how wide its paired reel's spool is, both feed the same goal — keeping the line (and the jig) vertical and under c
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md) — Lori Sack, a tackle sales associate at Turner's Outdoorsman, in a short segment on the SearcherSportfishing channel ("Tackle Tip Thursday Vol.
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
@@ -56,5 +57,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 46 notes exceed the 30-node cap._
+_Map skipped: 47 notes exceed the 30-node cap._
 <!-- mermaid:end -->

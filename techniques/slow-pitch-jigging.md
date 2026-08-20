@@ -389,6 +389,7 @@ terms until it lands.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
