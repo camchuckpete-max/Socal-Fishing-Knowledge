@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU]
 confidence: high
 ---
 
@@ -198,6 +198,31 @@ not reconciled to it.
   up. A mechanism reason to expect the sounder to under-read shallow fish in
   rough conditions, not a fault in the machine or a range/gain setting to
   fix.
+
+- **Where that shallow-read limitation traces to hardware: a fixed vs.
+  gyro-stabilized transducer.** In 2010 the *Searcher* replaced its Westar
+  scanning sonar with a Furuno CH250 gyro/roll-stabilized unit specifically to
+  address this: the old Westar's transducer was fixed and simply followed the
+  boat's motion, so in chop the cone tipped away from vertical as the boat
+  rolled and shallow, close-to-surface fish went unmarked — "we won't miss
+  fish like we have in the past." The replacement's transducer stays aimed
+  down regardless of how much the boat rolls or pitches. Crew reasoning for
+  why that should matter on the water (deckhand identified on camera only as
+  "Kenny," full name not given): without stabilization, a rolling boat in
+  rough weather returns "annoying air" (aerated-water noise) that swamps the
+  signal, so a fixed transducer effectively has you "looking for birds
+  through the bottom of the ocean from under the boat" instead of a clean
+  fish mark; the stabilized unit was expected to keep the boat "more in the
+  zone where the fish are" and make it more efficient at finding fish in
+  rough weather (SearcherSportfishing, "new sonar," `ZIJAvAEW_tU`,
+  2010-06-01; registered channel, single mention, speakers not fully
+  identified — medium confidence on the mechanism, low on the specific
+  product praise per the sponsored-claim rule). Carried here as the
+  equipment-generation reasoning behind the sea-state limitation above — not
+  a claim that stabilization fully eliminates it: the more recent (2021)
+  Searcher doctrine above still describes sea state limiting how shallow the
+  sounder can read, so the two are kept side by side rather than treated as
+  resolved by this 2010 upgrade.
 
 ## Anchor vs. drift call off a live sounder read
 
