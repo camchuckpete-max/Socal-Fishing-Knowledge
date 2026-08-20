@@ -2326,7 +2326,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | kYZqFRBUDYg | SearcherSportfishing | on-the-water | decision-rationale | done | none / skipped: dockside weigh-in banter, no fishing knowledge |
 | kqsg_t5MIzY | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: galley recipe content, not fishing knowledge |
 | lYyi_Yh3S5g | SearcherSportfishing | on-the-water | decision-rationale | done | locations/cedros-island.md; lures/tuna-poppers-and-stickbaits.md; tackle/drag-setting.md; techniques/surface-iron.md / Capt. Art tackle-tips: crew/bait/drag priorities, Tady 45/Salas 7X, Cedros/San Benitos favorite spots, MegaBait mention |
-| pNNrYXlgkO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| pNNrYXlgkO4 | SearcherSportfishing | on-the-water | decision-rationale | done | none / nothing extractable: crew banter/ribbing, no stated decisions or reasons |
 | phRsYlu0mmc | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | sAwPTPnHNzk | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | so1df8prECw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
