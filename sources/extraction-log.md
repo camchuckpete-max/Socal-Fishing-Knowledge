@@ -2210,7 +2210,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | scScYJJF95Y | SearcherSportfishing | tutorial | deep | done | tackle/gear-classes.md; techniques/fighting-fish-from-the-rail.md / Seeker OSP 2x4 rail-rod specs + applications added to gear-classes.md rail-rod class; rail-fighting demo mechanics (watch-the-tip cue, low gear) added to fighting-fish-from-the-rail.md, contrasted with two-speed-low-gear-fight.md's continuous-grind cadence; fixed one silently-corrected ASR quote |
 | sfZhPSTvZy8 | SearcherSportfishing | tutorial | deep | done | none / correctly skipped generic cooking/recipe video (no fishing tackle/species/technique content despite the Tackle Tip Thursday title); evaluator filled in the missing extraction-log row |
 | sjOJiR6_HJ4 | SearcherSportfishing | tutorial | deep | done | tackle/searcher-rail-rod-ladder.md; tackle/gear-classes.md; tackle/rod-length-for-angler-size.md; tackle/searcher-big-tuna-rig-ladder.md; techniques/fighting-fish-from-the-rail.md / new rail-rod ladder note (four tiers by line rating) plus cross-links into gear-classes, rod-length-for-angler-size, big-tuna-rig-ladder, and fighting-fish-from-the-rail |
-| sjlL5GidM58 | SearcherSportfishing | tutorial | deep | pending |  |
+| sjlL5GidM58 | SearcherSportfishing | tutorial | deep | done | techniques/surface-iron.md: added Billy/Fisherman's Landing fiberglass-vs-composite jig-stick doctrine (medium, single mention, registered channel) to Gear-class detail |
 | t8GP_-DMlSU | SearcherSportfishing | tutorial | deep | pending |  |
 | tRlv1azFPlM | SearcherSportfishing | tutorial | deep | pending |  |
 | tYebwLzTyf8 | SearcherSportfishing | tutorial | deep | pending |  |

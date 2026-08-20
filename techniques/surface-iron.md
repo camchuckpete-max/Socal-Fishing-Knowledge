@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -380,6 +380,24 @@ rod** — it's not a jig stick. **9-ft is okay. 10-ft is better.**"* On glass:
 "shots off a lot sooner, it's got more backbone… think denim versus polyester."
 ⚠ This was said standing at a rod manufacturer's stage; treat the S-glass
 *mechanism* as doctrine and the brand framing as promotional.
+
+**Fiberglass vs. composite — two working jig sticks, two jobs (Billy,
+Fisherman's Landing Tackle Shop, via SearcherSportfishing "Tackle Tip Thursday
+Vol. 24 (Jig Sticks)," `sjlL5GidM58`, 2018-11-29; `searcher-sportfishing`
+registered channel, single mention of this specific claim — medium
+confidence).** Comparing two jig sticks side by side: an **all-fiberglass rod**
+(his example, a **Cal Star 90J**) loads up more easily and "can really swing
+into pretty far" — his stated go-to build for **surface iron**, "the
+old-school classic way to fish," though the same glass rod also throws poppers
+and stick baits. A **composite rod** (his example, a **Shimano Terramar 90** —
+graphite blended with glass) carries a **stiffer action** instead, which he
+calls the better tool for **working a popper or stick bait**: a stiffer blank
+gives "a lot more response out of your sweep than you would with a jig stick"
+(captions render this last word "jig state," read in context as jig stick —
+not a listed ASR-hazard name, low-risk contextual read). Framed as two
+different jobs, not one best pick: glass for the easy-loading surface-iron
+swim, composite for a stiffer, more responsive sweep working poppers and stick
+baits.
 
 **Line — mono vs braid, the real trade-off** (`Ec2GaNpiOHI`): he fishes mono,
 and the reason is casting latitude, not swim. *"On straight spectra you need to
