@@ -231,6 +231,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Cedros Island](../locations/cedros-island.md)

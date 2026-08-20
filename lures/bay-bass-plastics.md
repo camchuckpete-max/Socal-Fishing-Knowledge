@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -93,6 +93,26 @@ bait rather than a bottom-hop stick:
   near bottom in winter, switching to a fast-sweep crankbait for a reaction
   bite in summer — is logged in
   [spotted bay bass](../species/spotted-bay-bass.md#seasonal-lure-switch--swimbait-slow-in-winter-crankbait-fast-in-summer-garrett-owner-hooks).
+
+## Basstrix Flash Trick, halibut drop-shot lure (Tackle Express, `BPxE3xn3gAc`, 2026-01-24, medium confidence)
+
+Unregistered channel, single mention — medium confidence. Named as the
+presenter's best-found lure for a light-finesse drop-shot approach to
+[California halibut](../species/california-halibut.md) fished the way he
+fishes what he calls "green bass" — his own term, not translated to a
+species on camera in this video; not the same as calico bass — see
+[Drop Shot](../techniques/drop-shot.md#light-finesse-halibut-build-vs-the-generic-surf-rod-build-tackle-express-bpxe3xn3gac-2026-01-24-medium-confidence)
+for the rig it's tied into (3/16 oz ball / 1/4 oz drop-shot sinkers, 10–12 lb
+line, small red octopus or black/red mosquito hooks).
+
+- **Bait:** **Basstrix Flash Trick**, fished in **3-in and 4-in** sizes.
+- **Colors — his four named best producers:** **live bait**, **electric
+  smelt**, **baby anchovy**, and **pearl white**. He notes Bass Trix only
+  started producing the pearl white color for 2025; his stated reason for
+  naming it is that pearl white/white is, in his experience, consistently "an
+  excellent halibut color" that's "tough to beat these days."
+
+Router: [California halibut](../species/california-halibut.md).
 
 ## Berkeley Gulp 3 in shrimp — natural and New Penny (Alan Clowers, Captain Clowers Charter & Guide Service)
 

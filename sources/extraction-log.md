@@ -2426,7 +2426,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | BGKH1ObX9Qs | Tackle Express | tutorial | parameter-skim | done | none / entirely freshwater trophy-bass swimbait tackle review, out of scope for saltwater SoCal/Baja KB |
 | BNJlltYOpIk | Tackle Express | tutorial | parameter-skim | done | none / 32-second reaction clip, no spoken location/gear/reasoning parameters beyond title's unconfirmed X-Rap claim |
 | BNp-gSOpWBw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-jig-stick-trolling-outfit.md; tackle/gear-classes.md / new note on jig-stick-as-trolling-outfit dual use (gear pairing, clicker sequence), linked from jig-stick class row |
-| BPxE3xn3gAc | Tackle Express | tutorial | parameter-skim | pending |  |
+| BPxE3xn3gAc | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md; lures/bay-bass-plastics.md / light-finesse halibut drop-shot rig + Basstrix Flash Trick lure colors added; evaluator fixed an unsupported calico-bass gloss on presenter's green-bass comparison |
 | Basv01kFjOs | Tackle Express | tutorial | parameter-skim | pending |  |
 | Bok0db0G4xE | Tackle Express | tutorial | parameter-skim | pending |  |
 | BsWb5BQ1Tdc | Tackle Express | tutorial | parameter-skim | pending |  |

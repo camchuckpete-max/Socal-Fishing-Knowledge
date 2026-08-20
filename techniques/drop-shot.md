@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -69,6 +69,34 @@ note owns the rig and the retrieve.
   a spot or the shoreline — **be mobile:** if nothing bites in about **20 minutes,
   move**, the fish may be only 20 yards off. Be patient; a halibut on plastic is
   never a sure thing.
+
+## Light-finesse halibut build vs. the generic surf-rod build (Tackle Express, `BPxE3xn3gAc`, 2026-01-24, medium confidence)
+
+A distinct halibut drop-shot build, given as a deliberate contrast to advice
+the presenter attributes generically to "the internet" rather than to a named
+source: a **2 oz sinker on a surf rod with a curly-tail grub and a big, dull
+hook.** His stated reason for not fishing it that way is scale — he fishes a
+halibut drop shot **the same way he fishes what he calls "green bass," just
+very slightly heavier.** "Green bass" is his own term, not translated to a
+species on camera in this video; elsewhere in this channel's catalog it's
+used for freshwater largemouth bass, not calico bass, so it is kept here as
+his stated comparison rather than asserted as a calico-bass claim. A
+light-tackle approach kept side by side with, not reconciled to, the heavier
+Nathan Winch build above (which also runs a strong, long-shanked J-hook
+rather than the small hooks below).
+When he needs to cast a lure a long distance, his stated move is to reach for
+a different lure entirely rather than switch to the heavier 2 oz-sinker
+build.
+
+- **Sinkers:** **3/16 oz ball sinkers** as his main pick, with **1/4 oz
+  long, skinny drop-shot-style sinkers** as the other size he carries.
+- **Line:** light — **10 lb, up to 12 lb test at the most.**
+- **Hooks:** small — **red octopus-style hooks**, or **black or red
+  mosquito hooks** (size not stated on camera).
+- **Lure:** his stated best producer for this style of fishing is the
+  **Basstrix Flash Trick, 3-in and 4-in** swimbait — see
+  [Bay Bass Plastics](../lures/bay-bass-plastics.md#basstrix-flash-trick-halibut-drop-shot-lure-tackle-express-bpxe3xn3gac-2026-01-24-medium-confidence)
+  for sizing, colors, and rigging.
 
 ## Surf rhythm — drag length matches target size (Tackle Express, `9qwsg-e9ECA`, 2026-02-07; unregistered channel — medium confidence)
 
