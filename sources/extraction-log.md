@@ -2452,7 +2452,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | EdN3BowjYjg | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: promotional reel-bag product showcase, fails curation bar |
 | Eo_bA8IWvyU | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md; species/white-seabass.md; tackle/tackle-express-charter-bait-tank-hook-kit.md; techniques/dropper-loop.md; techniques/sliding-sinker.md; tackle/tackle-express-white-seabass-rod-reel-line.md / parameter-skim extraction of dropper-loop/leadhead/slider/jig-soak/artificials rigs, hook-size ASR corroboration, and a new rod-reel-line tackle note |
 | EuYOlsnxXko | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md / Merged Tackle Express/Shannon Gallagher grunion-cycle beach-timing parameters (staging birds, incoming-tide afternoon window, morning low-tide concentration, fall 9-11ft structure pattern) into the Where and when section, fixed two invented claims not supported by the transcript |
-| F0849S6gBPY | Tackle Express | tutorial | parameter-skim | pending |  |
+| F0849S6gBPY | Tackle Express | tutorial | parameter-skim | done | none / skipped: no extractable content (30s intro/teaser clip, cuts off before any technique or parameter is stated, near-verbatim re-cut of BPxE3xn3gAc already captured in techniques/drop-shot.md) |
 | FR7Cg9Jqug4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | F_KDQo-k7CQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | Fj1-SsbksRM | Tackle Express | tutorial | parameter-skim | pending |  |
