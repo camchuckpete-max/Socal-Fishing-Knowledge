@@ -2241,7 +2241,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tpmOYXYQwhU | SearcherSportfishing | seminar | deep | done | rigging/improved-clinch-knot.md; rigging/san-diego-jam-knot.md; rigging/slim-beauty-knot.md; species/opah.md; species/yellowtail.md; tackle/rod-length-for-angler-size.md; techniques/flat-fall-jigging.md; techniques/live-bait-pendulum-cast.md: knot line-class breakpoint, opah depth/incidental corroboration, marked-yellowtail depth-bite mechanism, rod-length counter-view, flat-fall 2019 recap, cast-distance drill; fixed channel-registry mislabel in 2 notes |
 | -II7kzpklzE | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 8-second birthday-greeting clip with zero fishing content |
 | 1axjidotnfE | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 1-second placeholder with no ASR content |
-| 2pTRbsDwTO4 | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
+| 2pTRbsDwTO4 | SearcherSportfishing | on-the-water | decision-rationale | done | none: nothing extractable, 7-min banter/footage clip with no fishing decision rationale, technique, or tackle content above curation bar |
 | 38kxKgR4q2s | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 3kGAA-T8IGw | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
 | 5m1cHclspII | SearcherSportfishing | on-the-water | decision-rationale | pending |  |
