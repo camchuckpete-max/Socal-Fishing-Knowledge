@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8]
+tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -44,6 +44,36 @@ Nate Winnicki's rigging.
   and its squid-bed months** ([April priors](../seasonal/april.md) carry the
   squid cycle) stack big island halibut on the structure next to the nests. Tie
   the timing to **current and tide** (below), not the calendar.
+- **Beaches: spring timing follows the grunion cycle, fall doesn't (Tackle
+  Express / Shannon Gallagher, `EuYOlsnxXko`, 2025-11-19; unregistered
+  channel — medium confidence):** his stated reason spring and fall beach
+  fishing differ is grunion presence, not the calendar. Grunion spawn on a
+  predictable set of tides, coming onto the beach on **high tides after
+  dark**; staging fish show **100–500 ft off the beach** starting around
+  midday before a run, marked by **gulls, pelicans and terns** working that
+  zone — a bait signal, worth noting before the halibut signal shows. His
+  stated best beach windows bracket that run: the **incoming tide that
+  afternoon**, where an onshore wind in your face calls for a **castable
+  lure** (a minnow-style bait), and wading out a few feet to reach
+  structure the rising water has covered; and the **following
+  morning's low tide**, when the halibut that came up on the high tide get
+  pushed back gradually with the ebbing water rather than leaving all at
+  once, concentrating them in **knee- to hip-deep water** right at the
+  sand-water edge — no waders needed, and his stated point is that waders are
+  counterproductive there since the fish are often shallower than where a
+  waders angler would stand. He calls halibut active feeders that will chase
+  and blow up on bait in that skinny water, worth watching for as visual
+  sign. He also notes those mornings run **overcast about 90% of the time**,
+  extending the low-light period, which he ties to a longer bite window on
+  reaction baits/lures.
+- **Fall beaches: fish sit deeper and structure-related, not grunion-timed
+  (same source):** his stated fall pattern is smaller bait (post-spring/summer
+  hatches) and fish sitting farther off the beach, more often in a **9–11 ft
+  zone** on beaches and in bays, keyed to structure — protected beaches with
+  eelgrass, point breaks, and rocky "finger rock" areas (rock eroded into
+  strips with sand filled between them) — rather than to the grunion cycle.
+  His stated approach: use a spring grunion run to locate the productive
+  zones, then fish those same zones in fall once the grunion cue is gone.
 
 ## Finding them (sign & sonar)
 
