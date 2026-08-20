@@ -14,6 +14,7 @@
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — SoCal's "bug" fishery — caught recreationally by hoop netting rocky structure and kelp edges at night during the fall–winter season.
 - [Dorado (Mahi-Mahi)](dorado.md) — SoCal/Baja dorado are a warm-water, structure-oriented offshore fish: they ride the green-cold / blue-warm boundary and stack on kelp paddies and open-water sch
 - [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish — a distinct, highly underrated table fish that schools over hard bottom and sand ed
+- [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah — a large, round-bodied, warm-blooded pelagic — show up in the SoCal long-range fishery as an incidental catch rather than a dedicated target: boats pick t
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is a warm-water, inshore structure gamefish — common in Baja (Sea of Cortez, BOLA, farther south) and a rar
 - [Rockfish & Lingcod](rockfish-lingcod.md) — The deep-structure bottomfish complex: reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingco
 - [Barred Sand Bass](sand-bass.md) — The sand-flat and deep-structure cousin of the calico: a bottom-associated bass that lives on and around hard bottom, wrecks, and the reef-to-sand transition an
@@ -45,87 +46,88 @@ graph LR
   n7["California Spiny Lobster"]
   n8["Dorado (Mahi-Mahi)"]
   n9["Ocean Whitefish"]
-  n10["Pacific Crevalle Jack (Toro)"]
-  n11["Rockfish & Lingcod"]
-  n12["Barred Sand Bass"]
-  n13["California Sheephead"]
-  n14["Skipjack Tuna"]
-  n15["Snook (Robalo)"]
-  n16["Spotted Bay Bass (Spotties)"]
-  n17["Striped Marlin"]
-  n18["Swordfish (Broadbill)"]
-  n19["Wahoo"]
-  n20["White Seabass"]
-  n21["Yellowfin Tuna"]
-  n22["Yellowtail"]
-  n0 --> n11
+  n10["Opah (Moonfish)"]
+  n11["Pacific Crevalle Jack (Toro)"]
+  n12["Rockfish & Lingcod"]
+  n13["Barred Sand Bass"]
+  n14["California Sheephead"]
+  n15["Skipjack Tuna"]
+  n16["Snook (Robalo)"]
+  n17["Spotted Bay Bass (Spotties)"]
+  n18["Striped Marlin"]
+  n19["Swordfish (Broadbill)"]
+  n20["Wahoo"]
+  n21["White Seabass"]
+  n22["Yellowfin Tuna"]
+  n23["Yellowtail"]
+  n0 --> n12
   n0 --> n3
   n0 --> n5
   n1 --> n2
-  n11 --> n13
-  n11 --> n2
-  n11 --> n22
-  n11 --> n3
-  n11 --> n9
-  n12 --> n5
-  n13 --> n10
-  n13 --> n11
-  n13 --> n2
-  n13 --> n9
-  n14 --> n17
+  n12 --> n14
+  n12 --> n2
+  n12 --> n23
+  n12 --> n3
+  n12 --> n9
+  n13 --> n5
+  n14 --> n11
+  n14 --> n12
   n14 --> n2
-  n14 --> n21
-  n15 --> n4
-  n16 --> n12
-  n16 --> n5
-  n17 --> n21
-  n19 --> n12
-  n19 --> n21
+  n14 --> n9
+  n15 --> n18
+  n15 --> n2
+  n15 --> n22
+  n16 --> n4
+  n17 --> n13
+  n17 --> n5
+  n18 --> n22
   n2 --> n1
-  n2 --> n11
-  n2 --> n13
+  n2 --> n12
   n2 --> n14
-  n2 --> n21
+  n2 --> n15
   n2 --> n22
+  n2 --> n23
   n2 --> n8
+  n20 --> n13
   n20 --> n22
-  n20 --> n6
-  n21 --> n10
-  n21 --> n11
-  n21 --> n14
-  n21 --> n17
-  n21 --> n19
-  n21 --> n2
-  n21 --> n22
-  n21 --> n8
-  n22 --> n0
+  n21 --> n23
+  n21 --> n6
   n22 --> n11
-  n22 --> n13
+  n22 --> n12
+  n22 --> n15
+  n22 --> n18
   n22 --> n2
   n22 --> n20
-  n22 --> n21
-  n22 --> n3
-  n22 --> n5
-  n22 --> n6
+  n22 --> n23
   n22 --> n8
-  n22 --> n9
+  n23 --> n0
+  n23 --> n12
+  n23 --> n14
+  n23 --> n2
+  n23 --> n21
+  n23 --> n22
+  n23 --> n3
+  n23 --> n5
+  n23 --> n6
+  n23 --> n8
+  n23 --> n9
   n3 --> n0
-  n3 --> n11
-  n3 --> n22
+  n3 --> n12
+  n3 --> n23
   n3 --> n5
   n5 --> n0
-  n5 --> n12
-  n5 --> n16
-  n5 --> n22
+  n5 --> n13
+  n5 --> n17
+  n5 --> n23
   n5 --> n3
   n5 --> n6
-  n6 --> n20
-  n6 --> n22
+  n6 --> n21
+  n6 --> n23
   n6 --> n8
   n8 --> n2
-  n8 --> n21
   n8 --> n22
+  n8 --> n23
   n8 --> n6
-  n9 --> n11
+  n9 --> n12
 ```
 <!-- mermaid:end -->

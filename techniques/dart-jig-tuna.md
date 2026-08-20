@@ -83,8 +83,8 @@ tier for bigger/deeper fish (Penn Fathom 40 Narrow, 6.5–7 ft rod rated
 100 lb) and a 120–170 g Williamson Kentucky Jig data point, is in [Searcher
 daytime dart-jig outfit
 ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md). That same
-video also names bluefin, yellowfin, yellowtail, and (occasionally) opah as
-catches on this presentation. The 50 lb-mono-top-shot-to-80 lb-fluorocarbon-leader
+video also names bluefin, yellowfin, yellowtail, and (occasionally)
+[opah](../species/opah.md) as catches on this presentation. The 50 lb-mono-top-shot-to-80 lb-fluorocarbon-leader
 connection is a **four-turn surgeon's knot**, corroborating Steve Carson's
 own stated turn-count rule in [essential SoCal
 knots](../rigging/essential-knots.md#parameters--judgment).
@@ -152,6 +152,7 @@ own first commit and sit at **medium**, pending further repetition.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)

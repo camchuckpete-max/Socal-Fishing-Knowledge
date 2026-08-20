@@ -411,6 +411,7 @@ current "should" carry everything astern.
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

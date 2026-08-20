@@ -2214,7 +2214,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | t8GP_-DMlSU | SearcherSportfishing | tutorial | deep | done | tackle/lightweight-reel-pick-turners-outdoorsman.md; tackle/bluefin-retail-setup-high-end-vs-budget.md: new low-confidence tackle note (Lori Sack/Turner's Outdoorsman reel pick) cross-linked with sibling note; promo trip announcement skipped |
 | tRlv1azFPlM | SearcherSportfishing | tutorial | deep | done | tackle/hooks.md: Owner Aki-hook-vs-J-hook stock-up tip merged into existing Owner-hooks cluster, low confidence (sponsored-claim caveat), garbled model/size hedged as asr-uncertain |
 | tYebwLzTyf8 | SearcherSportfishing | tutorial | deep | done | tackle/star-drag-vs-lever-drag.md; tackle/rod-and-reel-selection.md: new lexicon note on star-drag vs lever-drag mechanism, linked from rod-and-reel-selection.md intro; fixed a fabricated/spliced quote during eval |
-| tio1oeibVlM | SearcherSportfishing | tutorial | deep | pending |  |
+| tio1oeibVlM | SearcherSportfishing | tutorial | deep | done | species/opah.md: new opah species router from bycatch-while-tuna deep-jig doctrine + table fare, cross-linked from dart-jig notes; fixed invented 'pectoral' gloss, added pCd6QykcZ0w to sources during eval |
 | tjBeR9tWd4s | SearcherSportfishing | tutorial | deep | pending |  |
 | tnHltcDdVtU | SearcherSportfishing | tutorial | deep | pending |  |
 | ueDBCY1mIPk | SearcherSportfishing | tutorial | deep | pending |  |

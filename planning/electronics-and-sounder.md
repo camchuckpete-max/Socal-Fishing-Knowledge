@@ -415,6 +415,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

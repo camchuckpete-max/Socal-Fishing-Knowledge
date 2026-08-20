@@ -244,6 +244,7 @@ does the lookup.
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
