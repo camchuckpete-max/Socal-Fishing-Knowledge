@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [tuna, bluefin, yellowfin, 40lb, all-around, penn, searcher, two-speed, flyline, owner-mutu, surgeons-knot, dart-jig, coltsniper, gomame]
-sources: [fyJA3o2hVh0]
+sources: [fyJA3o2hVh0, m2g97MxmAGI]
 confidence: medium
 ---
 
@@ -33,6 +33,19 @@ in both directions.
   presenter in [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md#mechanism--what-shift-to-low-actually-changes),
   now a second, independent citation of the same term, this time naming the
   specific reel it's on.
+  - **Earlier, corroborating citation, same speaker (Steve Carson,
+    Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 95 (Small Lures for
+    Tuna)," `m2g97MxmAGI`, filmed at the Fred Hall Show, 2020-04-16;
+    `searcher-sportfishing` registered channel — product/model pick, `low`
+    confidence per this channel's registry sponsored-claim caveat, though it
+    repeats, not adds to, this same reel pick two years before the video
+    above): names his 40 lb-test outfit's reel as the **Fathom FTH-25**
+    (captioned "fathom fth 25 and ld2 to speed" — read as **Fathom FTH-25,
+    two-speed**, the "ld2" fragment asr-uncertain but consistent with the
+    two-speed reel already documented above). **A budget-up alternative,
+    same clip:** "if your budget will allow," a lot of anglers — he names
+    **Capt. Art** as one — like stepping up to a **Penn Torque 15 Extra
+    Narrow** on this same 40 lb outfit instead.
 - **Line:** reel filled **about three-quarters of the way** with **65 lb test
   braid** — his own stated capacity at that fill level, **roughly 350 yd**.
   On top of the braid, **about 25 to 50 yd of 40 lb test monofilament** top
@@ -87,6 +100,13 @@ in both directions.
   (2024-06-13, a later, dedicated lighter rig from the same speaker/channel)
   — kept side by side as this all-around 40 lb outfit's own jig-weight data
   point rather than merged into that later, purpose-built entry.
+- **Earliest-dated citation of this same jig class, same speaker/channel
+  (`m2g97MxmAGI`, 2020-04-16 — predates the entries above by roughly two and
+  four years):** the reel corroboration and budget-up alternative are logged
+  in [The outfit](#the-outfit) above; the size-to-bait-matching, color, and
+  depth doctrine from this same clip is logged in [Dart jig — daytime
+  finesse tuna](../techniques/dart-jig-tuna.md#sizing-color-and-depth--an-earlier-data-point)
+  rather than duplicated here, per this note's own size-guideline split.
 
 ## Related
 
@@ -112,6 +132,7 @@ in both directions.
 ## Linked from
 
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)

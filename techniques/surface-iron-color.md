@@ -204,6 +204,7 @@ single-source color reports above.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [tuna, bluefin, yellowfin, dart-jig, coltsniper, finesse, daytime, casting, jig-stick]
-sources: [TU5quAG4atM]
+sources: [TU5quAG4atM, m2g97MxmAGI]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -80,6 +80,48 @@ channel's other numbered tuna-rig entries rather than duplicated here. The 50 lb
 connection is a **four-turn surgeon's knot**, corroborating Steve Carson's
 own stated turn-count rule in [essential SoCal
 knots](../rigging/essential-knots.md#parameters--judgment).
+
+## Sizing, color, and depth — an earlier data point
+
+An earlier citation than the rest of this note (Steve Carson, Penn/
+SearcherSportfishing, "Tackle Tip Thursday Vol. 95 (Small Lures for Tuna),"
+`m2g97MxmAGI`, filmed at the Fred Hall Show, 2020-04-16; `searcher-sportfishing`
+registered channel), naming the same lure class this note already covers —
+captions render the name two different ways in the same 104-second clip,
+"archetype jigs" and "dark-type jig"; neither transcribes cleanly, but both
+sit in exactly the spot this note's already-established **"dart-type jig"**
+term would (**asr-uncertain**: read here as dart-type jig, on the strength of
+that match, not confirmed by a clean caption). Because the core claim below —
+small lures for tuna keyed on small bait — repeats across this 2020 video and
+the 2024 `TU5quAG4atM` entry this note is built on, both from the same
+speaker on this registered channel, that core claim reaches **high**
+confidence; the specific sizing/color/depth parameters below are this video's
+own first commit and sit at **medium**, pending further repetition.
+
+- **Match the jig to the size of the bait the fish are actually eating** —
+  stated as the whole "trick" to this presentation. Two typical sizes are
+  shown on camera: the larger of the two (described as about as large as
+  this jig class ever gets fished) has "caught quite a few fish" and is
+  rigged sometimes with a treble hook, sometimes a single hook; the smaller
+  one is often the **only** one that draws a bite. Carry both.
+- **Color is "not nearly as important"** as getting the size right — a
+  first citation of a size-over-color ranking for this specific jig class
+  (distinct from, and not merged into, the forage-matched color doctrine
+  already logged for [iron jigs](../lures/iron-jigs.md) and [surface iron —
+  colour](../techniques/surface-iron-color.md), which covers a different
+  lure class).
+- **Drop it to whatever depth the captain calls** — his examples, **80 ft,
+  100 ft, or 150 ft** — so the jig sits at the same depth as the bait and the
+  tuna rather than being worked near the surface; the stated reasoning is
+  that it then simply "blends in with all the other bait fish" at that
+  depth. No casting or drift-angle mechanic is described in this clip (unlike
+  the windy-side/bow-cast mechanics above), so this is logged as its own,
+  shallower-and-simpler drop citation, sitting beside rather than replacing
+  the 250–300 ft casting mechanics already documented.
+- **Reel — an earlier, corroborating citation of the 40 lb outfit's reel
+  pick**, and a budget-upgrade alternative many anglers (including Capt. Art)
+  reach for: see [Searcher 40 lb all-around tuna
+  outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md#also-fishes-jigs--a-dart-type-jig-aside).
 
 ## Common failures
 
