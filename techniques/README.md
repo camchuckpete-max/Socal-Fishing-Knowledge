@@ -26,6 +26,7 @@
 - [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Fishing calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" — bigger, more confident trophy fish move shall
+- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — (Carl, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md) — (Fred, SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Skip Jigging](skip-jigging.md) — Skip jigging is a topwater cast-and-burn presentation: instead of swimming a lure through the water column, the lure is made to skip and skitter ACROSS the surf
@@ -50,5 +51,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 40 notes exceed the 30-node cap._
+_Map skipped: 41 notes exceed the 30-node cap._
 <!-- mermaid:end -->

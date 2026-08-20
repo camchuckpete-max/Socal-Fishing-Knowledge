@@ -96,11 +96,16 @@ wasted soak.
   concurrent with moving along the rail as described here.
 - [Fishing live bait](../bait/fishing-live-bait.md) — hooking and presenting
   the bait this positioning discipline serves.
+- [Rail etiquette](rail-etiquette.md) — same channel/series; the verbal
+  counterpart to this note's physical positioning — knowing your neighbors'
+  names and communicating with them so this movement doesn't turn into a
+  tangle.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
+- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->

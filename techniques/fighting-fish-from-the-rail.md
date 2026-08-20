@@ -186,6 +186,9 @@ class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mec
   later (2023-12-07), same-speaker citation naming the same armpit-tuck,
   rubber-on-the-rail, body-weight mechanic, this time organized as a
   four-tier rod ladder by line rating.
+- [Rail etiquette](rail-etiquette.md) — same channel/series; knowing your
+  neighbors and communicating with them so simultaneous fights like these
+  don't tangle.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -193,6 +196,7 @@ class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mec
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
+- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
