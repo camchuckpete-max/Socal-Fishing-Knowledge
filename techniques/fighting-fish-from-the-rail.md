@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -36,6 +36,30 @@ medium confidence.)
   own.
 - Crank again, stop again, and repeat: gain line on the crank, let the rod
   and rail carry the load on the pause.
+
+## Stance variants by body size and knees (SearcherSportfishing, "Tackle Tip Thursday Vol. 138 (Using the Rail)," `bEFhWtGBdBU`, 2021-03-04; speaker not identified on camera — a single mention of these specific stance variants caps this at medium confidence even though `searcher-sportfishing` is a registered channel/series)
+
+An earlier Tackle Tip Thursday from the same program — it closes on the same
+catchphrase as the Vol. 169 source above, "use the rail, it's your friend,"
+but predates it by about a year and doesn't name its on-camera speaker — gives
+two more ways to load the rod against the rail, sized to the angler rather
+than to the fish:
+
+- **Smaller anglers / kids:** instead of tucking the rod under the armpit,
+  put the rod between the legs, then lean up into the fish and bounce up,
+  winding down as the rod comes back — the same crank-then-let-the-rod-carry-
+  the-load pattern above, adapted for someone too small to brace the rod
+  under an arm.
+- **On the knees:** kneel, rest the rod on the rail, keep the **left hand in
+  front of** (rather than on top of) the reel, and turn the handle. Called out
+  as "a little bit harder on here" than the other stances (no reason given),
+  and explicitly **not recommended for anglers with bad knees**.
+- **Stated reasoning for bracing on the rail generally:** doing it this way —
+  rather than the arms/body carrying the rod's load unsupported — reduces
+  stress on the back, uses less energy, and lets the angler hold pressure on
+  the fish continuously through the fight. Repeatedly pulling up and winding
+  down without the rail's support will "hurt yourself really bad," called out
+  specifically for **bigger bluefin**.
 
 ## The failure mode this avoids — high-sticking
 
