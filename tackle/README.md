@@ -56,6 +56,7 @@
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](tackle-express-minnow-rod.md) — Tackle Express, "The essential rod for vertical minnow fishing is revealed!," Pxky7drjPkU, uploaded 2026-02-13 — a 34-second tackle-counter clip.
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
+- [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Tackle Express, "Penn Handle Knob Replacement Kits for your Penn Fathoms Torques and Squalls" (QQlQcPXARWk, uploaded 2024-02-09) — a 59-second shop-floor how-to
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — Two Tackle Express clips comparing the same two reel lines, both presented by Harry (self-identified on camera in both), tackle-express unregistered channel — p
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md) — Tackle Express (James, on camera; Lj2NCznK7Zg, "Why This Braid Caught 100-lb Bluefin on the Shogun," uploaded 2026-06-22, 69 s).
@@ -68,5 +69,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 58 notes exceed the 30-node cap._
+_Map skipped: 59 notes exceed the 30-node cap._
 <!-- mermaid:end -->

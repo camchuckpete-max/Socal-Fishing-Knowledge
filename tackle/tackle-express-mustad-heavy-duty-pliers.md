@@ -61,5 +61,6 @@ extracted.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 <!-- backlinks:end -->

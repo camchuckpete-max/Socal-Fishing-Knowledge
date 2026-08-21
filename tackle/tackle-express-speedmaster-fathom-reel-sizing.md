@@ -159,6 +159,9 @@ re-cut-footage rule — different clip, same channel).
   has resolved and fixed their issues." A local business, **"Real Tweaks,"**
   sells upgraded power-handle replacements for the stock Fathom handle on the
   bigger sizes; on all smaller Fathom sizes the stock handle is "just fine."
+  Distinct from a full handle swap: for just the **knob** on a stock T-bar
+  handle, see [Penn handle knob replacement — Fathom, Torque,
+  Squall](tackle-express-penn-handle-knob-replacement.md).
 
 ## Free spool — Speedmaster bearing spec, and why free spool matters (Tackle Express)
 
@@ -254,6 +257,10 @@ names both reels directly and gives fuller build detail:
   channel's comparable two-speed-reel spec format, a different pair of named
   models (weight, drag, and gear ratio rather than this note's line-class
   tiers).
+- [Penn handle knob replacement — Fathom, Torque, Squall (Tackle
+  Express)](tackle-express-penn-handle-knob-replacement.md) — the stock
+  T-bar handle's knob is swappable with a Phillips/flathead/Torx kit,
+  distinct from the aftermarket power-handle upgrade named above.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -261,5 +268,6 @@ names both reels directly and gives fuller build detail:
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
+- [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->

@@ -273,7 +273,10 @@ fixed count):
   you start the year with sound line.
 - Keep each reel's **original box, the reel-specific tool** that ships with it, and
   the **manual.** That tool often does jobs a Phillips or flathead can't, and the
-  manual tells you which part came out if you open the reel up.
+  manual tells you which part came out if you open the reel up. For one common
+  job that only needs a Phillips, flathead, and Torx — no proprietary tool —
+  see [Penn handle knob replacement — Fathom, Torque,
+  Squall](tackle-express-penn-handle-knob-replacement.md).
 
 ## Servicing — supplies and where to grease
 
@@ -408,6 +411,7 @@ or a compressed drag going into storage.
 
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
+- [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->
