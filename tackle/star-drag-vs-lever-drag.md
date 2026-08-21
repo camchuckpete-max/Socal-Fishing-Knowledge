@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, star-drag, lever-drag, two-speed, drag-system, free-spool, casting, bluefin]
-sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg, Qj6brwOJk9E, d0fxBYmAnIk]
+sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg, Qj6brwOJk9E, d0fxBYmAnIk, z5UoW9pntvE]
 confidence: medium
 ---
 
@@ -90,7 +90,14 @@ presenter unnamed on camera, single mention — medium confidence). A
 narrower, selection-level question than the bluefin-fight mechanism in
 [two-speed reel technique](../techniques/two-speed-low-gear-fight.md) below:
 not how to shift mid-fight, but which applications call for a two-speed
-reel in the first place.
+reel in the first place. **Same channel, same presenter (Chad), near-verbatim
+wording, in a much fuller original video that predates this 100 s clip by
+close to three years** ("Penn vs. Avet 2-Speed Reels. Check out this video
+before you buy a 2-Speed Reel," `z5UoW9pntvE`, uploaded 2022-06-30, 10:17) —
+read the two as one citation, re-cut, not independent confirmation. The
+fuller video's Penn-vs-Avet reel-spec detail (bearings, free spool/cast
+control, handle, cost) is logged in [Penn vs. Avet lever drag — feature
+comparison](tackle-express-penn-vs-avet-lever-drag.md).
 
 - **Deep-water bottom fishing (200+ ft) is the core case.** Fishing in high
   gear all day is "extremely tiring"; his own practice is to shift into low

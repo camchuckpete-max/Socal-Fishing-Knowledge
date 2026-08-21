@@ -2810,7 +2810,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | yl-AkO5S64o | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md; techniques/leadhead-swimbait-retrieve.md: third re-cut citation, no new doctrine, confidence held medium |
 | ywKI8gBK6vM | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass crankbait/riprap-bank combo talk, out of SoCal/Baja scope |
 | z1CS3To6ATA | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass forward-facing-sonar/blade-bait/Diki-rig teaser, out of SoCal/Baja saltwater scope |
-| z5UoW9pntvE | Tackle Express | tutorial | parameter-skim | pending |  |
+| z5UoW9pntvE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-penn-vs-avet-lever-drag.md; tackle/star-drag-vs-lever-drag.md; techniques/two-speed-low-gear-fight.md / fuller original of two prior Tackle Express re-cuts (OdRZIDBO6Mg, ejkr3z7xkJA); added Penn Fathom/Avet Raptor bearing, free-spool/cast-control, handle, drag-washer, cost, and color/handedness spec detail plus the Avet's physical shift-to-low/shift-to-high steps |
 | zItCqap4RdE | Tackle Express | tutorial | parameter-skim | pending |  |
 | zLN0v-gWpeI | Tackle Express | tutorial | parameter-skim | pending |  |
 | zLvKfwSmIIs | Tackle Express | tutorial | parameter-skim | pending |  |

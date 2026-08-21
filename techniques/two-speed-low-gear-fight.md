@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE, ejkr3z7xkJA, rxoaPT5Zaog]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE, ejkr3z7xkJA, rxoaPT5Zaog, z5UoW9pntvE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -46,6 +46,24 @@ is a separate motion: **rotate a knurled end piece clockwise until it
 clicks**, then turn the handle. The clip describes only the Penn's shift
 mechanism in this much detail and does not give the equivalent physical
 steps for the Avet side of the comparison.
+
+**The Avet side, from the same channel's fuller original video (Tackle
+Express, Chad, "Penn vs. Avet 2-Speed Reels. Check out this video before you
+buy a 2-Speed Reel," `z5UoW9pntvE`, uploaded 2022-06-30, 10:17; unregistered
+channel — medium confidence).** This is the same underlying footage the
+72-second `ejkr3z7xkJA` clip above is re-cut from (near-verbatim wording, same
+two reels — a **Penn Fathom two-speed 30** and an **Avet Raptor two-speed**)
+and predates it by close to three years; treat the two as one citation, not
+independent confirmation. The Avet's own two-motion shift, absent from the
+shorter clip: to drop into low gear, **depress a smaller button** (it's in
+gear and engages as soon as the handle turns); to get back to high gear,
+**push that same button away from you** — functionally the same two-motion
+shift as the Penn (drop with a button, raise with a distinct motion) but with
+a push instead of a rotating knurled collar.
+The same source also names the two reels' G2/JX Raptor bearing counts, and a
+low-gear/high-gear application split, logged with the full reel-spec
+comparison in [Penn vs. Avet lever drag — feature
+comparison](../tackle/tackle-express-penn-vs-avet-lever-drag.md).
 
 **Second, independent citation of the
 same "easy button" nickname, naming the specific reel it's on (Steve Carson,
@@ -269,6 +287,7 @@ the title.
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](../tackle/tackle-express-icast2022-penn-fathom2-authority.md)
+- [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](../tackle/tackle-express-penn-vs-avet-lever-drag.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
