@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s, 7T6dIYqr3KI, r9bF3VtzDUg, 9a-Zy_D6c3w, SclIN_ceduA]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s, 7T6dIYqr3KI, r9bF3VtzDUg, 9a-Zy_D6c3w]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [nearshore-coast, island, bay-harbor]
@@ -440,17 +440,6 @@ present the outside stringers.
   bigger."* Kept side by side with, not a replacement for, the general
   bait-sizing guidance in [swimbaits](../techniques/swimbaits.md) and [soft
   plastic swimbaits](../lures/soft-plastic-swimbaits.md).
-- **Size-DOWN to match small anchovy bait (Tackle Express, `SclIN_ceduA`,
-  2026-07-10; unregistered channel, single mention — medium confidence):** a
-  different, condition-specific size call than the trophy-grade bullet
-  above — when small anchovies are the bait present, downsize to match them
-  rather than fishing a bulky plastic, because "the fish get really keyed in
-  on it." Demonstrated on a small **Z-Man Diesel Minnow** (~1/4 oz lead
-  head) fished off a Kicker-brand Alabama rig; see [A-Rig (Alabama
-  Rig)](../lures/a-rig.md). Kept side by side, not reconciled — trophy-grade
-  sizes up deliberately for bigger fish/fewer bites, this sizes down to match
-  present forage; both are size-matching calls made under different stated
-  goals.
 - **"Time on the water" over conditions-chasing (Jimmy Decker, Decker's Guide
   Service, unregistered — medium confidence; same n6yun panel,
   `ZoIzpyyS9xw`):** asked how to catch a big calico, Decker's answer was
@@ -670,7 +659,6 @@ release *ethic* and the regional policies are below.
 <!-- backlinks:start -->
 ## Linked from
 
-- [A-Rig (Alabama Rig)](../lures/a-rig.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Barred Sand Bass](sand-bass.md)

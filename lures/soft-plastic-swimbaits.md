@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, SclIN_ceduA]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -180,13 +180,6 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   or location named on camera.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
-- **Fished on a multi-arm rig instead of solo:** a small **Z-Man Diesel
-  Minnow** on a ~1/4 oz lead head, downsized to match small anchovy bait
-  rather than fished at standard 5–7" sizing, produced calico bass and
-  yellowtail off a Kicker-brand Alabama rig (multiple arms presenting as a
-  bait ball) — see [A-Rig (Alabama Rig)](a-rig.md) for the rig and the stated
-  size-matching reason (Tackle Express, `SclIN_ceduA`, 2026-07-10;
-  unregistered channel, single mention — medium confidence).
 - **Megabass Sleeper Gills — hollow-body, hidden-hook construction (Tackle
   Express shop stock-alert, `R4yYK90-cZM`, 2022-06-17; unregistered channel,
   promotional stock announcement — low confidence).** A hollow-body soft
@@ -400,7 +393,6 @@ baits and heads from the class terms above; see
 ## Linked from
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
-- [A-Rig (Alabama Rig)](a-rig.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

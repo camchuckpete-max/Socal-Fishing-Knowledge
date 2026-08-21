@@ -60,7 +60,6 @@ subset he owns. Class terms: [gear classes](../../tackle/gear-classes.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [A-Rig (Alabama Rig)](../../lures/a-rig.md)
 - [Bay Bass Plastics](../../lures/bay-bass-plastics.md)
 - [Iron Jigs](../../lures/iron-jigs.md)
 - [Knife Jigs](../../lures/knife-jigs.md)

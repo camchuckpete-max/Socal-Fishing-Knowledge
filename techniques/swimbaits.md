@@ -473,11 +473,7 @@ wire "spider" harness (a **Recon Baits**-style A-rig) carrying several small
 swim jigs at once. Roman Castro's example ran **five** small anchovy-profile
 swim jigs, fished for [spotted bay bass](../species/spotted-bay-bass.md) in
 Mission Bay, San Diego (Roman Castro, G6YRT4HNxr8, 2018-04-17; `roman-castro` registered 2026-08-17, single mention —
-medium confidence). A different-brand build of the same rig class (Kicker
-rather than Recon Baits) crossed over into open-coast calico bass and
-yellowtail fishing with a downsized bait pairing — see [A-Rig (Alabama
-Rig)](../lures/a-rig.md) for that source; this section remains the only
-on-camera rig-building/retrieve mechanics for an A-rig in this KB.
+medium confidence).
 
 - **Bend the arms for an even spread:** the **short arms bend outward to the
   sides**, while the **longer arm(s) stay centered**, so the baits fan out
@@ -582,7 +578,6 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 <!-- backlinks:start -->
 ## Linked from
 
-- [A-Rig (Alabama Rig)](../lures/a-rig.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
