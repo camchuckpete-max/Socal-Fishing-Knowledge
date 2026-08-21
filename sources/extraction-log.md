@@ -2610,7 +2610,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | _3f8_JxtDRo | Tackle Express | tutorial | parameter-skim | done | skipped: freshwater suspended-bass Damiki rig / thermocline vertical-jigging technique, out of scope, not SoCal/Baja saltwater |
 | _8Bno5mP4QE | Tackle Express | tutorial | parameter-skim | done | skipped: generic talk-to-the-shop-employees advice, no SoCal/Baja-specific or hard-won content to extract |
 | _C7TJoGT0nw | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md; lures/iron-jigs.md; lures/rapala-husky-magnum.md; lures/soft-plastic-swimbaits.md; tackle/hooks.md; tackle/tackle-express-baja-light-setup-yellowtail-insurance.md; tackle/tackle-express-jig-stick-trolling-outfit.md; tackle/tackle-express-cedros-four-rod-quiver.md; techniques/slow-trolling-bait.md; techniques/surface-iron-color.md / 32-min Cedros gear interview merged into 10 existing notes plus new four-rod-quiver note, cross-referencing shorter clips cut from same interview as non-independent |
-| _L6mE8ip5l8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| _L6mE8ip5l8 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 37s freshwater trout-jigging clip, near-duplicate re-cut of already-skipped OFEpEeFomp4, no SoCal/Baja saltwater content |
 | _QgS6QUcvFs | Tackle Express | tutorial | parameter-skim | pending |  |
 | _RfXwHSaG48 | Tackle Express | tutorial | parameter-skim | pending |  |
 | _XfScSliRVk | Tackle Express | tutorial | parameter-skim | pending |  |
