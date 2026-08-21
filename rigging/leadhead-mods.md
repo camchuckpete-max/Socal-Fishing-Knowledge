@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice, halibut, durability, tube-bait]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8, eOLoHxoqk6E, g5yDzjORhho]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8, eOLoHxoqk6E, g5yDzjORhho, nRIAgz5G_Bc]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -170,15 +170,27 @@ repeated across two videos rather than two independent confirmations.
 
 A tackle-shop must-have (not called essential) for Channel Islands trips, as
 of the 2026-07-14 upload — a leadhead built with a **smaller-gauge hook**
-than a standard jig head. (The source clip names "Channel Islands" trips only;
-it does not itself say Ventura/Oxnard — that specific port pairing comes from
-a separate Tackle Express video, `nRIAgz5G_Bc`, and is not carried over here.) Fish it with **fresh dead squid or live
-squid**. As light as **1/2 oz** up to **1 oz**, the weight range chosen to
-**cover different parts of the water column**. Stated multi-species
-application: **calico bass, sand bass, white seabass, and halibut** — halibut
-specifically when the head is let all the way down to the bottom. Consistent
-with, and a lighter-gauge-hook variant of, the 1/8 oz–1 oz dockside range
-above from the same channel (`F-vOTerdulU`).
+than a standard jig head. **This is a re-cut excerpt, not an independent
+source:** the same "banana head" segment, word for word, is the middle
+section of a longer Tackle Express video, "What to Bring Fishing the Channel
+Islands (Ventura & Oxnard Tackle Guide)" (`nRIAgz5G_Bc`, 2026-06-30 — 14
+days earlier) — that fuller video is what gives the port pairing this clip
+alone doesn't state, opening on "essentials if you're going to be fishing
+out of **Ventura or Oxnard** ... going out to the Channel Islands." Treated
+as the same footage/doctrine repeated across two uploads, per the corpus's
+re-cut rule, so it does not raise this entry's confidence on its own. Fish
+it with **fresh dead squid or live squid**. As light as **1/2 oz** up to
+**1 oz**, the weight range chosen to **cover different parts of the water
+column**. Stated multi-species application: **calico bass, sand bass, white
+seabass, and halibut** — halibut specifically when the head is let all the
+way down to the bottom. Consistent with, and a lighter-gauge-hook variant
+of, the 1/8 oz–1 oz dockside range above from the same channel
+(`F-vOTerdulU`). The same `nRIAgz5G_Bc` video also opens with tackle this
+clip doesn't cover — Owner Aki Twist and Owner Flyliner hook sizing, and
+torpedo-sinker/slider weights for the same Channel Islands white seabass
+program — logged in [hooks](../tackle/hooks.md), [dropper
+loop](../techniques/dropper-loop.md), and [sliding
+sinker](../techniques/sliding-sinker.md).
 
 ### Warbaits Neck Breaker — a compact jig-head alternative to the sliding sinker (Shannon Gallagher, Tackle Express)
 

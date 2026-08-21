@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -220,16 +220,27 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   techniques](../species/white-seabass.md#situations--techniques): same
   general logic (a lighter head keeps the bait higher for fish riding
   shallow), different weight figures from a different source — not
-  reconciled into one number. **Restated in a shorter companion clip** (Tackle
-  Express, `V4opuMirbDU`, 2026-07-07; same channel, six days earlier, framed as
-  general Channel Islands gear advice) with the identical head-weight split —
-  **3/4 oz** "sometimes when those fish are higher up in the water column" vs
-  a **2 oz** heavier head "if you're trying to keep it on the bottom or
-  specifically targeting that halibut" — added here as provenance only, not
-  as independent corroboration (same channel restating the same figures does
-  not raise confidence above medium). That clip also names a **Current
-  Sniper** small jig as a companion cast-and-cover-the-water-column lure
-  alongside the fluke, with no further parameters given.
+  reconciled into one number. **`V4opuMirbDU` is a re-cut excerpt, not an
+  independent restatement:** its closing 36 seconds is word-for-word the
+  ending segment of a longer Tackle Express video, "What to Bring Fishing
+  the Channel Islands (Ventura & Oxnard Tackle Guide)" (`nRIAgz5G_Bc`,
+  2026-06-30 — the actual earlier upload, seven days before `V4opuMirbDU`,
+  not the other way around as previously logged here). Both clips give the
+  identical head-weight split — **3/4 oz** "sometimes when those fish are
+  higher up in the water column" vs a **2 oz** heavier head "if you're
+  trying to keep it on the bottom or specifically targeting that halibut" —
+  and both name a **Current Sniper** small jig as a companion
+  cast-and-cover-the-water-column lure alongside the fluke, with no further
+  parameters given. Per the corpus's re-cut rule this is the same footage
+  repeated, not independent confirmation, so confidence stays medium; the
+  fuller `nRIAgz5G_Bc` video is what supplies the Ventura/Oxnard port
+  framing neither excerpt states on its own, opening on "essentials if
+  you're going to be fishing out of Ventura or Oxnard ... going out to the
+  Channel Islands." That same fuller video also gives Owner Aki
+  Twist/Flyliner hook sizing and torpedo-sinker/slider weights for the same
+  trip, logged in [hooks](../tackle/hooks.md), [dropper
+  loop](../techniques/dropper-loop.md), and [sliding
+  sinker](../techniques/sliding-sinker.md).
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 - **Megabass Sleeper Gills — hollow-body, hidden-hook construction (Tackle

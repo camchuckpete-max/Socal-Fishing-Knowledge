@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0, Eo_bA8IWvyU, O49WsHP4Zh0]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0, Eo_bA8IWvyU, O49WsHP4Zh0, nRIAgz5G_Bc]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -147,6 +147,18 @@ column or near the surface** — his example, fish called at 20–30 ft over
 loop is the better tool.
 - **Glow-in-the-dark egg sinkers**, fished the same free-sliding way, are
   named as a variant for a more natural presentation.
+- **Weight for the same fish-higher-in-the-column trigger, a companion Tackle
+  Express citation (Tackle Express, "What to Bring Fishing the Channel
+  Islands (Ventura & Oxnard Tackle Guide)," `nRIAgz5G_Bc`, 2026-06-30;
+  unregistered channel, same source cap — medium confidence):** names the
+  "slider squid" rig as a **1/4 oz or 1/2 oz slider** paired with an **Owner
+  Aki Twist hook** — see [hooks](../tackle/hooks.md) for the same channel's
+  Aki Twist sizing for this trip — reached for "when the fish are higher up
+  in the water column," the identical trigger `Eo_bA8IWvyU` gives just
+  above; this citation adds the concrete weight figures that entry didn't
+  state on camera. Not reconciled to a single number, just a second data
+  point in the same weight range as the general 1/8–3/4 oz Hansen ladder
+  above.
 - **Working the column instead of one static depth:** let line out under
   steady tension (never dump it in slack) so the bait sinks cleanly; after
   it's had time to settle, engage the reel and take a few cranks to bring the
@@ -501,6 +513,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)

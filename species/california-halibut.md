@@ -474,6 +474,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Glide Baits](../techniques/glide-baits.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)

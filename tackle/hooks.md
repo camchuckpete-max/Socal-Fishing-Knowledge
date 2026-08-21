@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc]
 confidence: medium
 ---
 
@@ -557,6 +557,21 @@ trailing phrase rendered as "yellow fishing" is likewise asr-uncertain and
 read as yellowtail fishing given the Coronados/J-hook context, but not
 confidently resolved.
 
+**Corroborating sizing, framed as a Ventura/Oxnard Channel Islands trip
+essential (Tackle Express, "What to Bring Fishing the Channel Islands
+(Ventura & Oxnard Tackle Guide)," `nRIAgz5G_Bc`, 2026-06-30; unregistered
+channel — medium confidence):** for trips out of Ventura or Oxnard targeting
+[white seabass](../species/white-seabass.md),
+[halibut](../species/california-halibut.md), and
+[yellowtail](../species/yellowtail.md) at the Channel Islands, names **Owner
+Flyliner** as a first grab, **size 2** the stated favorite. Bait-driven
+sizing beyond that favorite: down to a smaller **size 4** when anchovies are
+the bait present that season, and up to a bigger **size 1 or 1/0** in case of
+bigger bait showing up — the same bait-sets-the-hook-size logic as the doctrine
+above, with a third size point (1/0) this note's Coronados citation doesn't
+give. Not reconciled to one number, just a further, dated Flyliner data
+point for the same product line.
+
 ### Owner Live Bait hook — kelp-paddy dorado/yellowfin starter rig (SearcherSportfishing, "Tackle Tip Thursday Vol. 7," `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel, single mention — medium confidence)
 
 The earliest-dated SearcherSportfishing hook citation in this note (predates
@@ -598,6 +613,21 @@ camera, captions heavily garbled throughout):
   (rendered "fishing Milan... you seeing the ribs" in the captions) is too
   garbled to resolve and is not carried into this note — no place name is
   asserted per the name-a-place-only-if-the-source-names-it rule.
+
+**A wider, dated size range for a specific application (Tackle Express, "What
+to Bring Fishing the Channel Islands (Ventura & Oxnard Tackle Guide),"
+`nRIAgz5G_Bc`, 2026-06-30; unregistered channel — medium confidence):**
+framed as a first-grab essential for Ventura/Oxnard trips to the Channel
+Islands, names the same product family — captioned "Aki Twist," read as the
+**Owner Aki** hook already logged above — sized **between 4/0 and 6/0**, a
+noticeably bigger range than the 1/0 "bigger bait" size the Searcher
+citation gives. Kept side by side rather than reconciled: this citation
+gives no bait size to explain the gap, but it sits in the same range as the
+5/0–7/0 Owner Aki Twist sizing already logged for changing hooks on lures
+(`PYlqIODuIPQ`, not otherwise detailed in this note) and the 50–70 (long-shank
+J) size logged for a white seabass dropper-loop build in [dropper
+loop](../techniques/dropper-loop.md) — all consistent with a bigger-bait,
+bigger-fish application than the season stock-up pick above.
 
 ### A finesse-rig hook ladder by grade (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
 
@@ -939,6 +969,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](searcher-30lb-large-tuna-outfit.md)
@@ -949,6 +980,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)

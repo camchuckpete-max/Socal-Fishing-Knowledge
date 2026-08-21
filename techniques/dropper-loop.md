@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30, nJPQVouJQ0g]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30, nJPQVouJQ0g, nRIAgz5G_Bc]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -91,6 +91,16 @@ this note owns the rig and the retrieve.
   "Owner Oy twist" and "owner Octy twist" — which doesn't resolve which
   rendering is correct, so the hook name stays **asr-uncertain** as already
   flagged above.
+- **A wider torpedo-sinker range, same channel (Tackle Express, "What to
+  Bring Fishing the Channel Islands (Ventura & Oxnard Tackle Guide),"
+  `nRIAgz5G_Bc`, 2026-06-30; unregistered channel — medium confidence):**
+  for the same Channel Islands white seabass drop, names torpedo sinkers
+  running **as light as 6 oz up shallow to as heavy as 12–16 oz**, scaled to
+  how fast the drop needs to get down to capitalize on a bite — a broader
+  range than, and not reconciled to, the 8–12 oz figure just above from the
+  same channel's `Eo_bA8IWvyU`; kept side by side as a second, wider-window
+  data point on Channel Islands WSB torpedo-sinker weight rather than merged
+  into one number.
 - **White seabass overnight soak — staggered depths and line class
   (StokedOnFishing, Catalina Island, 2023-08-30, Y2bXn44lfqo; unregistered
   channel — medium confidence):** on an anchored overnight soak for
@@ -589,6 +599,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Sliding Sinker](sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
