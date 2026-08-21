@@ -2649,7 +2649,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dKSnFf5IsmY | Tackle Express | tutorial | parameter-skim | done | no KB destination: freshwater bass topwater-lure comparison (Sammy/Gunfish/Zara-Spook-class), reservoir largemouth bass, out of scope |
 | dNn8U9LbL8c | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md: added treble-hook absorption-during-fight rationale + rod-tip/mono-stretch bait-action bullet; evaluator reworded causal framing |
 | dTJihVPudgQ | Tackle Express | tutorial | parameter-skim | done | no KB destination: 8-second clip, no substantive content |
-| dWqD8l3jW6w | Tackle Express | tutorial | parameter-skim | pending |  |
+| dWqD8l3jW6w | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: merged surf halibut hook-set mechanic (reel down to tight before swinging, single-hook thump); evaluator trimmed invented causal rationale |
 | degWvtQ4D_Y | Tackle Express | tutorial | parameter-skim | pending |  |
 | dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | pending |  |
 | dnHev1PcLts | Tackle Express | tutorial | parameter-skim | pending |  |

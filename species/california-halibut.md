@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -264,6 +264,19 @@ medium confidence) — see
 [dehooking & release](../fish-care/dehooking-and-release.md#landing-net-mesh--protecting-a-released-fishs-fins)
 for the fine/soft-mesh or rubberized-net fix.
 
+- **The hook-set itself — reel down to tight before you swing (Tackle
+  Express, `dWqD8l3jW6w`, 2026-02-09; unregistered channel, single mention —
+  medium confidence):** describes surf halibut hook-setting as **the same as
+  any other single-hook lure**. The bite is a distinct **"thump"** — compared
+  on camera to a largemouth bass eating a skirted jig, called "wonderful" and
+  "exciting" — and his stated caution is **don't get too excited** and swing
+  on it immediately. His stated mechanic instead: **point the rod, turn the
+  handle quickly until the line comes tight, and only then swing** — the
+  stated reason given is you have to get the **slack out of the line** and
+  "everything squared away." This is the hook-set moment that precedes the
+  light-drag, no-pumping fight doctrine immediately below (same channel).
+  (The source clip cuts off mid-sentence transitioning into surf rod/reel
+  selection — no usable detail there.)
 - **"Keep them asleep" — the stated reason for the light-drag rule (Tackle
   Express, `1l05hEXDaWw`, 2026-02-05; unregistered channel, single mention —
   medium confidence):** run a **light drag with steady, constant tension**
