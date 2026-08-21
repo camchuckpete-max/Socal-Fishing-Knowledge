@@ -1,10 +1,10 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf, spawning]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk, ghHQe3fP9U4]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk, ghHQe3fP9U4, hjZ3hgq0Bzg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
-waters: [bay-harbor, nearshore-coast]
+waters: [bay-harbor, nearshore-coast, island]
 ---
 
 # California Halibut
@@ -167,6 +167,7 @@ conditions that put one there.** (General search method:
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 | Open flats, casting from a boat or **from shore** | **Fast-retrieve hard bait** — a crankbait/jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | Inshore crank class | Halibut give chase and eat it moving; a slow bottom-bounce isn't the only presentation that works — see doctrine note below |
 | **Deeper water past where a shallow hard bait can run without digging in** | **[Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md)** — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom contact, repeat | Leadhead + soft-plastic swimbait class | 3-in swimbait covers ~90% of use fishing deeper; smaller baits favored in the harbor; not effective fished from the beach — a leadhead returns to bottom too fast for a mid-column swim there |
+| Drifting a squid nest/sonar mark with the bait rail stacked on the wind-face side, fish willing to chase | **Cast a white fluke to the flanks** rather than crowding the bait rail | Baitcaster/casting class | As the boat drifts toward the flanking caster, the fluke reaches a chasing halibut **before** the bait rail's dropper-loop/trap rigs do; an inactive fish that will only eat bait still gets caught by the bait rail eventually — full reasoning and worked catch-count example in [swimbaits — covering more water than the bait anglers](../techniques/swimbaits.md#covering-more-water-than-the-bait-anglers-tackle-express) (Tackle Express, `hjZ3hgq0Bzg`) |
 | **Open bay/beach water, want a multi-bait reaction rig** | **A-rig** — a **Warbaits mini rig**, worked **aggressive from the first cast** | Heavier bass class (A-rig variant — [gear classes](../tackle/gear-classes.md)) — see [swimbaits — umbrella rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro) for rig hardware | Stated call: don't start slow and work up to aggressive, start aggressive; halibut are shown chasing it down, not lazily eating it dead-slow on the bottom |
 
 - **HookUp Baits sizing for halibut, by water (Chad, HookUp Baits co-owner,
@@ -434,6 +435,18 @@ for the fine/soft-mesh or rubberized-net fix.
 - **Sportboat vs private tactics differ:** 30 lines dragging a long drift is a
   numbers game that works on a boat; a two-angler private boat should instead
   **isolate the structure and pick it apart** — that's the whole advantage.
+- **A big-hook lead head loses fewer halibut to hook-pull than a poorly
+  hooked bait, by his account (Tackle Express, w/ Shannon Gallagher,
+  `hjZ3hgq0Bzg`, 2025-04-28; unregistered channel, single mention — medium
+  confidence):** fishing a large-hook lead head (see the Gum/"Getsum"-style
+  head in [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md)), the
+  lead head sits past the fish's lips and the hook lands in the back of the
+  skull, so a hooked fish stays hooked. Stated contrast: he attributes "90%"
+  of the heartbreak stories he hears about lost halibut to a poorly hooked
+  fin bait (e.g. on a [trap rig](../rigging/trap-rig.md)) that "freaks out"
+  at the boat and pulls the hook on the way up. Kept as an attributed,
+  single-source claim rather than a KB-wide ruling on fluke vs. bait hookup
+  rates.
 
 <!-- backlinks:start -->
 ## Linked from

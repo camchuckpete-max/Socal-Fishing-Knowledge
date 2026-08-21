@@ -2690,7 +2690,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic chatterbait line-class chatter, no SoCal/Baja/species markers on camera, matches prior same-channel out-of-scope rejection (VotK9jwqRJ8) |
 | hXcgczEYcKE | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / confirmed word-for-word re-cut of S9sQ8Vg8-5o's sinker-sizing-by-depth passage, added as duplicate-footage provenance note; fixed a mislabeled recut-count and false claim-pairing |
 | hc8n16HQO_E | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 15s short is pure background dialogue (no species/technique/parameter content spoken); title's striper/topwater claim unconfirmed on camera |
-| hjZ3hgq0Bzg | Tackle Express | tutorial | parameter-skim | pending |  |
+| hjZ3hgq0Bzg | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md; species/california-halibut.md; species/white-seabass.md; techniques/leadhead-swimbait-retrieve.md; techniques/swimbaits.md — tackle/rig/retrieve-mechanics extraction merged into existing fluke-lure notes, with two faithfulness fixes applied |
 | hkUH9vkt68Q | Tackle Express | tutorial | parameter-skim | pending |  |
 | hmz8n_9MzZA | Tackle Express | tutorial | parameter-skim | pending |  |
 | hokc5FLmSjA | Tackle Express | tutorial | parameter-skim | pending |  |

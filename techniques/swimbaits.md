@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass, white-seabass, dropper-loop, drift-boat]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA, X-itrm5QkcM]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA, X-itrm5QkcM, hjZ3hgq0Bzg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -433,6 +433,29 @@ program where bait anglers are stacked on one rail fishing
   complementary coverage of the same drift rather than one method
   out-fishing the other — see
   [white seabass](../species/white-seabass.md#situations--techniques).
+- **A worked example with catch counts, and a halibut-specific extension**
+  (Tackle Express, w/ Shannon Gallagher, `hjZ3hgq0Bzg`, "Don't Fish White
+  Flukes Until You Watch This!," 2025-04-28; unregistered channel, single
+  mention — medium confidence). This video predates `X-itrm5QkcM` by about
+  nine months and uses the **identical worked example** (15-angler charter,
+  10 bait / 5 fluke, 30–40 ft-by-65 ft bait swath) — logged here as very
+  likely the same underlying account rather than independent corroboration,
+  per the re-cut/restated-footage rule, but it adds detail not present in the
+  `X-itrm5QkcM` citation above:
+  - **Catch counts on the charters that convinced him the fluke was worth
+    learning:** 10 anglers fishing dropper loop put roughly **10 fish** on
+    the boat (a limit day, by his framing); the 5 anglers fishing flukes
+    caught **15 fish** on the same drifts. His framing: that's not "5 more
+    fish," it's **roughly three times the per-angler effectiveness** (15
+    fish / 5 anglers vs. 10 fish / 10 anglers).
+  - **Halibut-specific extension of the same geometry:** for halibut, the
+    boat drifting toward the flanking fluke-caster's side means the fluke is
+    presented to the fish **before** the bait rail's rigs reach it. Stated
+    framing: an inactive halibut that will only eat an anchovy on a dropper
+    loop still gets caught by the bait anglers eventually, but a fish willing
+    to chase a lure gets covered first by whoever is "the first one in front
+    of it" — his stated reason to prefer the flank position specifically when
+    targeting a fish that will chase.
 
 ## Scent (Corey Sandon, MC Swimbaits) and keeping your hands scent-neutral (Jack)
 

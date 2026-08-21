@@ -63,4 +63,5 @@ Video: https://www.youtube.com/watch?v=qIKGJSEE2aY
 - [California Halibut](../species/california-halibut.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 <!-- backlinks:end -->

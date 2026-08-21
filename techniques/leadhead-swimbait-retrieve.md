@@ -1,10 +1,10 @@
 ---
 type: technique
-tags: [leadhead, swimbait, halibut, bottom-contact, retrieve, depth-control, harbor, hookset]
-sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE]
+tags: [leadhead, swimbait, halibut, white-seabass, yellowtail, fluke, bottom-contact, retrieve, depth-control, harbor, casting, hookset]
+sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg]
 confidence: medium
 regions: [socal-bight]
-waters: [bay-harbor, nearshore-coast]
+waters: [bay-harbor, nearshore-coast, island]
 ---
 
 # Leadhead Swimbait Retrieve — Depth Control by Feel
@@ -53,7 +53,10 @@ retrieve and its hookset.
 
 A companion technique for the same "working your lure" style of fishing,
 demonstrated from a boat with **150 ft of line out** (`TzK4iuVmUSE`,
-2025-07-10; unregistered channel — medium confidence). Scaled up from the
+2025-07-10; unregistered channel — medium confidence. **`TzK4iuVmUSE` (1:12)
+is a word-for-word re-cut of this section from the longer `hjZ3hgq0Bzg`**
+(22:27, 2025-04-28, "Don't Fish White Flukes Until You Watch This!") — not an
+independent mention; logged per the re-cut-footage rule). Scaled up from the
 harbor halibut example above — his stated example here is a **30 lb
 gamefish** eating an **8-in lure**; species and location are not named on
 camera.
@@ -90,6 +93,62 @@ to the other's.
 - A **3-inch swimbait** (his example: a War Baits head with a Sudden Impact
   3-inch) covers roughly **90% of the technique's use fishing deeper.**
 - **Smaller baits are favored specifically in the harbor.**
+
+## Open-water casting retrieves — erratic (seabass/yellowtail) vs smooth (halibut)
+
+A second, distinct retrieve family from the count-and-pause rhythm above, for
+casting a fluke-style lead head off a drifting boat over a sonar mark or
+squid nest in open water/around the Channel Islands — same lead-head +
+soft-plastic class, different mechanics and goal (working the lure for a
+reaction bite, not reading bottom contact by feel) (Tackle Express, w/
+Shannon Gallagher, `hjZ3hgq0Bzg`, 2025-04-28; unregistered channel, single
+mention — medium confidence).
+
+- **Chop-glide:** after the cast, sink the lure to the bottom, take up slack,
+  then work the rod tip in **half handle-turns ("chop the handle")** followed
+  by lifting the rod tip — the chop drags the lure across the bottom like a
+  squid, then the tip-lift makes it glide gently. Compared on camera to a
+  freshwater glide-bait retrieve.
+- **Sweep-and-drop:** sweep the rod, then give slack; the lure sweeps across
+  and then sinks in a spiral on the slack.
+- **Crack-and-slack (his personal favorite):** compared on camera to a
+  freshwater jerkbait retrieve — the rod input gives the lure its action, the
+  slack lets it react. Crack, slack, crack, slack; near bottom this walks the
+  lure roughly **6 ft in either direction**. Follow a crack-slack sequence
+  with a pause **suspending the lure ~5 ft off the bottom** to give a curious
+  fish that followed it in a chance to eat it.
+- **Bottom-check-and-suspend:** periodically just check bottom, take a handle
+  turn, and let the lure sit — the same "walk it 6 ft either way, then
+  suspend it" idea framed as its own move rather than a follow-on to
+  crack-slack.
+- **Test a new lure before committing to a retrieve plan:** in clear water,
+  drop the lure ~10 ft down alongside the boat and watch what each planned
+  retrieve actually does to it before fishing it blind.
+- **Don't reset once the cast swings vertical.** A cast that's drifted
+  straight up and down under the boat is not "toast" — keep working it
+  (lift-drop, crack-slack) rather than winding straight in to recast. Stated
+  reason: fish follow the lure back and get curious about something
+  lingering in one zone; many bites come on a lure fished straight up and
+  down, including from anglers who aren't strong casters and simply drop it
+  vertically.
+
+**Species split in retrieve choice, same source:** white seabass and
+yellowtail are described as more curious and mobile, and respond to the
+**hard crack** (erratic, darting action). Halibut will come a long way for
+the lure but prefer a **smoother, steadier action** — bottom contact, then
+lift and **tight-line it so it glides across the bottom** rather than the
+erratic crack-slack action.
+
+**Open-water countdown-to-bottom for white seabass (same source), distinct
+from the harbor bottom-count rhythm above:** drifting a sonar mark or squid
+spot **for white seabass** (not halibut — he distinguishes the two in the
+same breath), count the first cast down to bottom (his example: **30
+seconds**); on the next cast, engage the reel at **20 seconds** rather than
+waiting for bottom, to fish a shallower zone. From there, fish most casts
+shallow but try a **midwater-column swim roughly every third cast** — stated
+reason: a boat with fish riding mid-column (not cruising bottom) would be
+missed entirely by the bait anglers' dropper loops, and a caster can confirm
+that with a rod and reel rather than needing the wheelhouse to call it out.
 
 ## Where it doesn't work
 
@@ -138,4 +197,5 @@ above; kept as a separate citation rather than merged in.
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
 - [Swimbaits](swimbaits.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

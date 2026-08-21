@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -244,7 +244,11 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   the keel-weighted or lead-head rigging bullets above.
 - **Sudden Impact vs. Basstrix — tackle-shop minimum buy, jig-head weight, and
   a sandbass-specific rig (Tackle Express, w/ Shannon Gallagher, `Oi5n-uVpY9g`,
-  2025-05-02; unregistered channel, single mention — medium confidence).** A
+  2025-05-02; unregistered channel, single mention — medium confidence).
+  `Oi5n-uVpY9g` (1:50) is a word-for-word re-cut of the closing "what do I
+  bring" segment of the longer `hjZ3hgq0Bzg` (22:27, 2025-04-28, "Don't Fish
+  White Flukes Until You Watch This!") — not an independent mention; logged
+  here per the re-cut-footage rule.** A
   tackle-store "what do I absolutely need" rundown naming two specific models
   as a big-bait/durable-bait pair for the same lead-head class documented in
   [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md#bait-sizing-by-water)
@@ -271,6 +275,57 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
     settled pick, after trying them all, is **white**. Kept side by side
     with, not a contradiction of, the "color matters little / fish what you
     believe in" framing already in this note.
+- **Rod/reel/line by depth, and lead-head style/mechanics for the fluke class
+  (Tackle Express, w/ Shannon Gallagher, `hjZ3hgq0Bzg`, 2025-04-28;
+  unregistered channel, single mention — medium confidence).** Same
+  Sudden Impact 8-in / Basstrix 7-in fluke pair as above, from the longer
+  source video the `Oi5n-uVpY9g` clip was re-cut from:
+  - **Deep, open water:** a **10 ft rod** on a **400-size baitcaster**, spooled
+    with **40 lb braid**. Stated reason for going long: this technique gets bit
+    **on the sink**, so a long rod moves a lot of line fast to get the lure back
+    up before giving it back down for another natural sink.
+  - **Shallower water:** a **9 ft rod** on a **300-size baitcaster**, **30 lb
+    braid**.
+  - **Why light braid for this, when the same angler fishes 65 lb braid on a
+    400-size reel for calico bass:** in open water away from structure, a
+    hooked fish is lost to its own teeth or to leader abrasion, not
+    line-on-structure — so there's no reason to fish heavy. Stated
+    comparison: like slow-pitch jiggers fishing light braid in deep water.
+  - **Gum/"Getsum"-style lead head (`asr-uncertain` — captioned both "Gum
+    style head" and "getsum head"/"gets head"; not confirmed against typed
+    metadata), 1.5 oz:** his standard for **90% of his fishing, in open
+    water**; sinks to bottom in **60–100 ft of water** "reasonably quickly."
+    Wings on the sides of the head are the stated mechanism for its retrieve
+    action: instead of the lure rising straight up on a hit like a
+    traditional lead head, the wings kick it **to the side** — a hit-slack,
+    hit-slack retrieve sends the lure roughly **6 ft one way, then 6 ft the
+    other**, read as mimicking squid "fireballing" erratically under a light.
+    At larger sizes (regardless of weight) this head style carries a
+    noticeably **big hook** (captioned "80 hook," read here as **8/0**,
+    `asr-uncertain`) — stated reason for liking it specifically for
+    **California halibut**: the lead head sits past the fish's lips and the
+    hook lands in the back of the skull, so the fish stays hooked, versus the
+    hook-pull losses he attributes to a poorly-hooked bait fish (e.g. a
+    [trap rig](../rigging/trap-rig.md)) freaking out boatside.
+  - **Cody-style head:** his pick for the Basstrix specifically **in shallower
+    water where the fluke is being retrieved rather than fished vertically**;
+    carries a **5/0 hook** and a shorter-shank hook with a traditional hook
+    collar (distinct from the Gum/Getsum head's wide-gap big-hook build
+    above).
+  - **Leader:** **25–40 lb fluorocarbon**, with **30 lb as his main go-to**
+    (25 lb "a lot" of the time, stepping up to 40 lb "if they're really really
+    biting" for easier fish-handling). Paired with the 30–40 lb braid above;
+    go heavier on either if you don't feel secure with these — his framing,
+    not a hard floor.
+  - **Rod substitution:** no dedicated rod is required — a **9 or 10 ft
+    calico bass jig stick spooled with mono** (no line weight given for the
+    jig stick itself — the 30/40 lb figure above is the specialized long-rod
+    braid setup, not a spec for the jig stick) works fine to try the
+    technique: cut off the dropper loop, tie a fluke on, and cast it; a stock
+    **United Composites Swimbait Fanatic** (8 ft) is named as a tackle-store
+    option that doubles for calico bass; any **Daiwa Lexa or Shimano Tranx**
+    300–400-size baitcaster ("any of the Lexas, any of the Tranxes" as named
+    on camera) pairs with either fluke.
 - **Kicker "booty spin" on a War Baits neck-breaker head** (Lane, Time On The
   Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
   confidence): a paddle-tail-style swimbait with a small **blade in place of
@@ -478,6 +533,7 @@ baits and heads from the class terms above; see
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Halibut](../species/california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
