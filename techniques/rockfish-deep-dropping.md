@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo, p9YYIb4GKHM, qh3hL2Dt3HY]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo, p9YYIb4GKHM, qh3hL2Dt3HY, zLN0v-gWpeI]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -145,7 +145,12 @@ built around **feeling the bite from depth**:
   torque (reel body size), and leverage/rail-hauling (rod length) reasons
   already logged above for the same deep-vertical application — a fourth,
   separate mechanism pointing the same direction (conventional gear for
-  bottom work at depth).
+  bottom work at depth). **`zLN0v-gWpeI` ("Why your spinning rod is ruining
+  your deep-sea fishing trip!," uploaded 2026-03-26, 53 s) is a re-cut of this
+  same footage/audio, word for word, including the identical 700-vertical-ft
+  example** — not an independent video, per the re-cut/duplicated-footage
+  rule — so it is not treated as separate corroboration; both video IDs are
+  logged here for the same underlying claim.
 
 ## Rigs — three ways to fish the bottom
 
