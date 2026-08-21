@@ -805,7 +805,11 @@ are logged in
 - **Blinged-out hooks (multiple assists top and bottom)** — foul-hooks fish, moves
   the fight, and is a danger at the rail. Single bottom pair, watch your line.
 - **Tightlining the drop** — resistance on the nose kills the flutter/dart; slack
-  it down instead (Ul5FLB2dFgQ).
+  it down instead (Ul5FLB2dFgQ). This is about this note's assist-hook rig
+  specifically; a treble-hooked iron has the opposite advice for a different
+  reason (tight line to keep the trebles from fouling on the line, at the
+  cost of some flutter) — see [iron jigs — hook
+  style](../lures/iron-jigs.md#hook-style--assist-vs-treble).
 - **Winding on the bite like bait fishing, or striking before the fish has it** —
   opens the hook on the barb; wait for drag to run, then drive it home with hard
   swings off the spool (Ul5FLB2dFgQ).
@@ -825,6 +829,7 @@ are logged in
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Iron Jigs](../lures/iron-jigs.md)
 - [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)

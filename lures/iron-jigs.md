@@ -2,7 +2,7 @@
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
 sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o, _C7TJoGT0nw,
-  p9YYIb4GKHM]
+  p9YYIb4GKHM, r7Bv49Ysgdw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -448,6 +448,26 @@ jigs](knife-jigs.md) (how many assists to run on a knife/slow-pitch jig) —
 this is choosing assist vs. treble hook *style* on a surface/yo-yo iron, not
 reconciled with or contradicting that separate conflict.
 
+**Tight line, not slack, on the drop — a treble-fouling failure mode (Tackle
+Express, "Stop wasting fish! Are you making this simple line mistake?,"
+`r7Bv49Ysgdw`, 2026-03-21; unregistered channel, single mention — medium
+confidence):** for a treble-hooked lure worked on a vertical drop, hold the
+rod still and keep the line **tight** through the fall — taking up slack with
+the reel if needed — rather than free-falling it on slack line. Stated
+reasoning: a slack-line drop lets the lure flutter more, which "may get
+them," but the **treble hooks can foul on the angler's own line** during that
+extra flutter; fishing it tight sacrifices some fall action specifically to
+keep the trebles clear of the line. No lure model, species, depth, or
+location is given on camera — carried here as a general treble-hook
+mechanism, not tied to a specific iron, technique, or region. **Distinct
+from, not a contradiction of,** the tightlining-the-drop failure documented
+for assist-hook speed jigs in [knife
+jigging](../techniques/knife-jigging.md#common-failures) — that entry
+concerns a different hook style (single assist hooks on separated cords, not
+trebles sharing one shank) and a different failure mechanism (killed
+camber/rock/flutter action, not hook fouling); the two pieces of advice look
+opposite on the surface but address different rigs and different problems.
+
 **Treble vs. single by target species (Doug Kearn, Fisherman's Landing
 tackle, via SearcherSportfishing, `3g82igEL8yk`, 2020-12-31; unregistered
 channel, single mention — medium confidence):** a **treble hook typically
@@ -564,6 +584,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
+- [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
