@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [leadhead, swimbait, halibut, bottom-contact, retrieve, depth-control, harbor]
-sources: [OURS05qEGcA, Oi5n-uVpY9g]
+tags: [leadhead, swimbait, halibut, bottom-contact, retrieve, depth-control, harbor, hookset]
+sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -16,7 +16,7 @@ Shannon Gallagher (Tackle Express) as his number-one halibut technique
 (`OURS05qEGcA`, 2026-01-14; unregistered channel, single mention — medium
 confidence). Bait/head selection lives in
 [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md); this note owns the
-retrieve only.
+retrieve and its hookset.
 
 ## Reach for this when
 
@@ -48,6 +48,42 @@ retrieve only.
    count or a feel through the rod.
 6. **Take three more turns** and repeat the wind-three/pause/watch-it-fall
    rhythm continuously, all the way back to the boat, seawall, or beach.
+
+## Hookset — don't swing (Shannon Gallagher, Tackle Express)
+
+A companion technique for the same "working your lure" style of fishing,
+demonstrated from a boat with **150 ft of line out** (`TzK4iuVmUSE`,
+2025-07-10; unregistered channel — medium confidence). Scaled up from the
+harbor halibut example above — his stated example here is a **30 lb
+gamefish** eating an **8-in lure**; species and location are not named on
+camera.
+
+- **Rod grip on the sink:** thumb over, forefinger under the rod — the same
+  grip used bass fishing — to feel bites through the blank on the sink,
+  "especially when you're out of gear" (free spool). Stated as feeling like
+  a surprisingly small "thump" even from a big fish — his example: a 30 lb
+  gamefish registering as barely more than a small tick.
+- **Do not swing on the bite.** With 150 ft of line out and current
+  running, the line isn't straight or tight, so a swing doesn't transmit —
+  his stated reason for skipping the classic swing hookset entirely on this
+  presentation.
+- **Instead: turn the handle fast and point the rod, cranking until the drag
+  slips** (direction not specified on camera) — not until you physically
+  can't turn the handle anymore (his correction: if you feel like you can't
+  turn it anymore, keep trying — you should still be able to turn it right up
+  to the point the drag gives). Once the drag slips, fold the rod up into the
+  fight.
+- **What happens next:** the fish "freaks out" and takes a run right as the
+  drag slips — expect to follow it around the boat.
+
+This grind-until-the-drag-slips hookset is a distinct mechanism from the
+"set the hook and then wind, never pump" fighting rule documented for kelp
+bass in
+[swimbaits](swimbaits.md#fighting-fish-out-of-the-kelp-dave-hansen-your-saltwater-guide)
+— that rule addresses fighting an already-hooked fish without giving it
+slack, where this one is the hookset itself, achieved by reeling instead of
+swinging. Kept side by side, not merged, since neither source ties its claim
+to the other's.
 
 ## Bait sizing by water
 
