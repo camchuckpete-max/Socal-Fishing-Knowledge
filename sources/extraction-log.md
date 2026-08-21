@@ -2698,7 +2698,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | i6G6vX0tKn4 | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 14s clip is on-the-water chatter only, no gear/parameter content despite title |
 | iBdz2SfeA1g | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-fast-tip-for-finicky-bite-drag-drift.md; tackle/rod-and-reel-selection.md; tackle/rod-action-testing-technique.md; tackle/README.md — new parameter-skim tackle note on why a fast tip matters for drag/drift bite detection, linked from rod-and-reel-selection.md |
 | iHwvUl0dhxk | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md — added take-home catch-handling excerpt (bins, cutting station, vacuum-seal) and revised ambiguous trip catch-weight figure with corrected sourcing rationale |
-| iQjTILHaxqo | Tackle Express | tutorial | parameter-skim | pending |  |
+| iQjTILHaxqo | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: generic Baja resort catch-packing/vacuum-seal/freeze logistics, no technique/species/gear/care doctrine |
 | ijNOphK4XRA | Tackle Express | tutorial | parameter-skim | pending |  |
 | ijjtpoKZp8U | Tackle Express | tutorial | parameter-skim | pending |  |
 | j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | pending |  |
