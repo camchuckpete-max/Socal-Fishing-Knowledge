@@ -2568,7 +2568,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | SclIN_ceduA | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/tackle.md |
 | Se7bjtiiGv8 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater trout jerkbait clip, no SoCal/Baja species/location/parameters, out of KB scope |
 | T33JsoZHO_c | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added fluke lead-head weight-selection bullet (2oz bottom-bounce halibut vs 3/4oz suspended seabass/kelp), naming Nomad/Z-Man/Redemption flukes, cross-linked to california-halibut.md and white-seabass.md |
-| T_XpItMhbjM | Tackle Express | tutorial | parameter-skim | pending |  |
+| T_XpItMhbjM | Tackle Express | tutorial | parameter-skim | done | lures/rapala-husky-magnum.md; lures/tuna-poppers-and-stickbaits.md / Husky Mag speed/color specs (5-6kt vs 12kt, Wahoo/Swordfish colors) and X-Rap Long Cast weight/hook data (1 7/8oz vs 1.5oz, stock singles); fixed silently-reconciled stock-hook contradiction, kept side by side |
 | TdrFjnJb3Y0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | TjQuU-x8sHM | Tackle Express | tutorial | parameter-skim | pending |  |
 | To2Dvx3Ifnc | Tackle Express | tutorial | parameter-skim | pending |  |

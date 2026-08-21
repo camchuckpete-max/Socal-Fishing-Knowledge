@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [rapala, husky-magnum, diver, tuna, trolling, offshore]
-sources: [cameron, FXWOIB0TPfE]
+sources: [cameron, FXWOIB0TPfE, T_XpItMhbjM]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -30,6 +30,17 @@ back to ~33 yd, and troll in the 6–8 kt best band on light line (40–50 lb) f
 swimmer, or a speed-trolled [Mad Mac](../lures/mad-mac.md) is decided in
 [bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
+
+**Speed advantage over the standard (non-Magnum) X-Rap, and colors (Tackle
+Express, `T_XpItMhbjM`, 2016-08-19; unregistered channel — medium confidence,
+single mention):** the stated reason to reach for a Husky Mag over a standard
+Rapala X-Rap trolling lure is speed range — a standard X-Rap tops out around
+**5–6 kt**, while the Husky Mag holds action up to **12 kt** (consistent with,
+not new beyond, the 12 kt ceiling already logged above), letting the boat troll
+roughly twice as fast and cover twice the water. Both the HM15 and HM25 are
+stated to hold that 12 kt ceiling and, per this source, **won't roll or wash
+out** at speed. **Colors carried as of this video:** a **Wahoo** pattern and a
+new **Swordfish** pattern.
 
 ## Rapala X-Rap Magnum 30 — a distinct Rapala model, and a tracking check before it goes out (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; product/model endorsement — low confidence, sponsored-claim caveat: `searcher-sportfishing` is a registered channel but product/model endorsements stay low per its registry caveat)
 

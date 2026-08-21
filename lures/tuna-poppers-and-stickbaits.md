@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -483,6 +483,19 @@ yet dialed in on casting a heavy surface iron. **Convert stock trebles to
 singles**: a fish stays pinned better, and — very important on a crowded
 boat — it's a lot safer for the anglers around you than two sets of treble
 hooks flying around on a hookset.
+
+**A likely model match, and a stock-hook data point in tension with the swap
+above (Tackle Express, `T_XpItMhbjM`, 2016-08-19; unregistered channel —
+medium confidence, single mention):** names a Rapala model as the **X-Rap 14
+Long Cast**, weighing **1⅞ oz** versus the standard (non-long-cast) X-Rap's
+**1½ oz** — plausibly the same product Cesar's asr-uncertain mention above
+refers to, though not confirmed as the identical model/year. This model
+**ships stock with single hooks instead of trebles**, per this 2016 source —
+in tension with Cesar's 2023 instruction to convert stock trebles to singles
+for what's read as the same lure; kept side by side rather than reconciled,
+since Rapala's stock hook spec may have changed between the two dates, or the
+two sources may describe different X-Rap variants. Stated use: casting into
+tuna boils, yellowtail, and calico bass.
 
 ### Nomad Riptide (true stickbait — cast-and-sweep, not cast-and-wind)
 **Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
