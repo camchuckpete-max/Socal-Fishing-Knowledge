@@ -2589,7 +2589,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Vbf40qvH9-Q | Tackle Express | tutorial | parameter-skim | done | conditions/current-diagnostics.md; techniques/flat-fall-jigging.md; techniques/yo-yo-iron.md / new Line scope cross-technique subsection added to current-diagnostics.md, backlinked from yo-yo-iron.md and flat-fall-jigging.md |
 | Vjdv8o7otKY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 43s Tackle Express product ad for the Shimano Current Sniper jig, no decision-grade parameters beyond what's already documented |
 | Vl0BuetK2D0 | Tackle Express | tutorial | parameter-skim | done | techniques/clearing-a-backlash.md; tackle/reel-maintenance.md; techniques/underhand-casting.md / new technique note for hand-tensioning a backlash clear, cross-linked from underhand-casting.md and reel-maintenance.md |
-| VotK9jwqRJ8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| VotK9jwqRJ8 | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: freshwater bass/trout jerkbait-and-chatterbait line-preference chatter, no SoCal/Baja relevance, matches channel's own out-of-scope precedent |
 | W0mj_LA-qcM | Tackle Express | tutorial | parameter-skim | pending |  |
 | WHLz0kR___I | Tackle Express | tutorial | parameter-skim | pending |  |
 | WPYrq_jdK2o | Tackle Express | tutorial | parameter-skim | pending |  |
