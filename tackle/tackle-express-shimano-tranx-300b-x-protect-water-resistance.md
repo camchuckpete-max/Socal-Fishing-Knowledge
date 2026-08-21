@@ -41,6 +41,12 @@ notes below.
   Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md) —
   the companion Tackle Express clip on this same reel/model, covering the
   unrelated braking-system feature; same channel, same capped-low confidence.
+- [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings,
+  X-Ship, and the Four-Model Spec Ladder
+  (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md) —
+  the full source video this clip and the braking-system clip were both cut
+  down from; covers the reel's remaining construction/gearing features plus
+  the four-model gear-ratio/weight/drag spec table this clip doesn't give.
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the
   Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md) — names
   **Core Protect** as a feature on a different (spinning) Shimano reel; this
@@ -64,5 +70,6 @@ notes below.
 
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
+- [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 <!-- backlinks:end -->

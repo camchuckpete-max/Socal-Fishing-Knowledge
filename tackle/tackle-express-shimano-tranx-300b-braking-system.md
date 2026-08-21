@@ -43,6 +43,12 @@ being an unregistered channel.
   the companion Tackle Express clip on this same reel/model, covering the
   unrelated water-resistance coating feature; same channel, same capped-low
   confidence.
+- [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings,
+  X-Ship, and the Four-Model Spec Ladder
+  (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md) —
+  the full source video this clip and the X-Protect clip were both cut down
+  from; covers the reel's remaining construction/gearing features plus the
+  four-model gear-ratio/weight/drag spec table this clip doesn't give.
 - [Rod & reel selection — surface-iron counter tip (Doug Kearn,
   SearcherSportfishing)](rod-and-reel-selection.md) — that note already names
   the **Tranx** as "a good casting reel specifically for its adjustable
@@ -75,5 +81,6 @@ being an unregistered channel.
 
 - [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 - [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
 <!-- backlinks:end -->

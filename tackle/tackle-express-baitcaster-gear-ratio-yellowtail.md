@@ -73,6 +73,7 @@ designations, "HG" and "HL" — not carried as a brand or model name.
 ## Linked from
 
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Yellowtail](../species/yellowtail.md)
