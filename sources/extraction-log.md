@@ -2720,7 +2720,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 46s personal career-change narrative, no fishing knowledge content |
 | m6NxHaIifj8 | Tackle Express | tutorial | parameter-skim | done | rigging/tony-pena-knot.md / added as provenance/duplicate-footage note to existing entry, confidence unchanged at medium |
 | mDRSoMYxDuY | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md / logged as re-cut/duplicate of eOLoHxoqk6E footage, no new doctrine |
-| mMa0oqI2tqA | Tackle Express | tutorial | parameter-skim | pending |  |
+| mMa0oqI2tqA | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass free rig tying tutorial, out of SoCal/Baja saltwater scope entirely |
 | mgUjxUoGkZU | Tackle Express | tutorial | parameter-skim | pending |  |
 | mgsCmVxM8dM | Tackle Express | tutorial | parameter-skim | pending |  |
 | nF6MosH63HY | Tackle Express | tutorial | parameter-skim | pending |  |
