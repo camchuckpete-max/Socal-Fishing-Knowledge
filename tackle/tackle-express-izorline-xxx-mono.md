@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [line, mono, izorline, tackle-shop, product]
-sources: [Ecqt-ZLnvaU]
+tags: [line, mono, izorline, tackle-shop, product, swimbait, trout]
+sources: [Ecqt-ZLnvaU, zWpYFTIZP7w]
 confidence: low
 ---
 
@@ -32,6 +32,35 @@ smoke-mono-disappears claim is a single retailer relaying a single
 manufacturer's pitch for one branded line — not independent testing — so it
 sits beside that general framing as a sponsored data point, not a correction
 of it.
+
+## Line weight by application (Tackle Express, `zWpYFTIZP7w`)
+
+Tackle Express, "Why pros are obsessed with Izorline XXX for every setup,"
+uploaded 2026-06-26; speaker not identified on camera; unregistered channel,
+explicit shop/product promotion — **low confidence**, per the sponsored-claim
+rule. A second, shorter Tackle Express clip on the same branded line, this
+one giving weight-by-application numbers rather than spool sizes/color:
+
+- **25 lb XXX** is described as the most popular weight overall among
+  "swim bait guys" — anglers throwing big swimbait-style lures.
+- **20 lb XXX** is the speaker's own stated personal pick, for fishing "rats
+  and crawlers" specifically — a personal-preference data point, not a
+  correction of the 25 lb popularity claim.
+- **2 lb XXX** is called out separately for trout anglers on ultralight
+  rods — same reasons given (low stretch, low memory) rather than a distinct
+  trout-specific case. Worked example on camera: a 500-size reel spooled
+  with 2 lb XXX, no leader/splice tied on ("no muss, no fuss, you don't have
+  to tie any splices").
+- **Stated line characteristics** carried across both weight contexts:
+  strong, low stretch, low memory ("They're really strong... they don't
+  have a ton of stretch and they don't have a ton of memory"). Casting well
+  is called out specifically for the 2 lb trout/ultralight setup ("It casts
+  really well on ultra-light rods"), not stated as a general claim across
+  all weights.
+
+Kept as a second, separate low-confidence data point rather than merged into
+one combined claim with the spool-size/color material above — different
+video, same shop/product promotion caveat.
 
 ## Related
 
