@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o, zYcXDoOE6jo, zkEMsCIhSic]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o, zYcXDoOE6jo, zkEMsCIhSic]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -230,11 +230,18 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   Corroborates, rather than adds beyond, the 5–7 in sizing and the 0.5 oz–1.5
   oz lead-head weight range already logged above from the separate
   StokedOnFishing Cedros/Gono Islands trip (`XwwIvPFxRiQ`).
-- **Rapala Crush City Mooch Minnow** — a shad/baitfish-imitation swimbait with
-  a fork-tail profile, fished on a light jig head; two Tackle Express
-  citations (construction/fall, and a harbor scent/jig-head pairing from
-  Logan) are gathered in its own note — see [Rapala Crush City Mooch
-  Minnow](rapala-crush-city-mooch-minnow.md).
+- **Rapala Crush City Mooch Minnow — subtle fork-tail profile for a slower,
+  more natural fall (Tackle Express, `2Ee2DFZ9Wk4`, 2025-02-21; unregistered
+  channel, single mention — medium confidence):** a shad-baitfish-imitation
+  soft plastic built like a paddle-tail swimbait but with a smaller, weaker
+  **fork tail** in place of a full paddle, so it kicks less — framed as a
+  more natural presentation for local (SoCal) fish. The Crush City material
+  is described as extremely **stretchy, buoyant, and durable**; paired with a
+  **lighter jig head**, the buoyancy slows the fall, which the presenter likes
+  for fishing the **more suspended area** of the water column — the same
+  application he reaches for [flukes](bay-bass-plastics.md) for, calling the
+  two "very very similar" in that use. No specific species, jig-head weight,
+  or location named on camera.
 - **Fluke lead-head weight by scenario — bottom-bounce for halibut vs a
   lighter head for seabass riding up high or in the kelp (Tackle Express,
   `T33JsoZHO_c`, 2026-07-13; unregistered channel, single mention — medium
@@ -640,7 +647,6 @@ baits and heads from the class terms above; see
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
-- [Rapala Crush City Mooch Minnow](rapala-crush-city-mooch-minnow.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
