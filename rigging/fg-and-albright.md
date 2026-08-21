@@ -30,6 +30,12 @@ system: braid main line, fluoro or mono leader.
   even freshwater. Handles a wide pound-test span and lays its tags flat.
 - Pick FG for the lowest profile and best guide-passing; pick the Albright when
   you want a faster tie or are joining to notably heavier leader.
+- **Alternative — tool-tied instead of hand-tensioned:** the [PR
+  knot](pr-knot.md) is offered elsewhere in this corpus as a direct
+  alternative to the FG knot specifically (not the Albright) — a weighted PR
+  bobbin tool keeps tension consistent instead of the angler holding it by
+  hand, addressing the FG knot's fussiest failure mode (slipping when tied
+  quickly with inconsistent tension).
 
 ## Parameters & judgment
 
@@ -131,7 +137,9 @@ and [the dissimilar-line Albright variant](https://www.youtube.com/watch?v=2fwj2
 <!-- backlinks:start -->
 ## Linked from
 
+- [Essential SoCal Knots](essential-knots.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md)
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

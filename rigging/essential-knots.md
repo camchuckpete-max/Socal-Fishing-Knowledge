@@ -31,6 +31,10 @@ fluoro leader, braid main line — and feed the terminal rigs in
 - **RP knot (connection)** — the preferred braid-to-fluoro leader join here;
   small enough to pass the guides. Use it to build a leader onto the braid main
   line.
+- **PR knot (connection)** — a different, unrelated braid-to-leader tie despite
+  the near-identical name: tied with a weighted PR bobbin tool instead of by
+  hand, offered as an alternative to the [FG knot](fg-and-albright.md#parameters--judgment)
+  rather than to the RP knot above. Kept as its own note: [PR Knot](pr-knot.md).
 - **Slim beauty knot (connection)** — another braid-to-topshot splice covering
   the same low-profile, guide-passing territory as the RP knot above, by a
   different construction (a uni knot on the top-shot side plus a multi-wrap
@@ -403,6 +407,7 @@ mono-to-fluoro connection clips).
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
+- [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)

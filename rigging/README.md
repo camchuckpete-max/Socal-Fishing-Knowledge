@@ -20,6 +20,7 @@
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md) **[SoCal only]** — A named connection knot joining braid to monofilament or fluorocarbon.
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md) **[SoCal only]** — An "old school" terminal knot that ties a free-sliding loop rather than a fixed eye — the hook rides on the loop and can pivot/slide back and forth on it, "kind
+- [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md) **[SoCal only]** — A braid-to-leader connection knot tied with a weighted PR bobbin tool rather than by hand tension — presented on Tackle Express as the alternative to the FG kno
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md) **[SoCal only]** — A way to take an otherwise flylined live bait down to tuna that are holding deep or sounded on the meter: a torpedo sinker is fastened to the line with a rubber
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md) **[SoCal only]** — The SoCal go-to terminal knot for tying line to a hook or lure, trusted from calico bass up to 200 lb bluefin.
 - [San Diego Jam — Single vs. Double, and When to Use Each](san-diego-jam-single-vs-double.md) **[SoCal only]** — A sub-decision inside the San Diego jam knot family: once you can tie the doubled-through-the-eye version, when do you use the single instead?
@@ -57,75 +58,78 @@ graph LR
   n13["John Collins Knot — Braid to Mono/Fluoro Splice"]
   n14["Leadhead Mods & Rigging"]
   n15["Perfection Loop Knot — Sliding-Loop Hook Tie"]
-  n16["Rubber-Band Deep Rig"]
-  n17["San Diego Jam Knot — Doubled and Single-Pass Terminal Tie"]
-  n18["San Diego Jam — Single vs. Double, and When to Use Each"]
-  n19["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
-  n20["Slim Beauty Knot — Spectra-to-Topshot Splice"]
-  n21["Springer Knot — Heavy-Line Hook Tie"]
-  n22["Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection"]
-  n23["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
-  n24["Tony Pena Knot — Mono-to-Spectra Splice"]
-  n25["Trap Rig"]
-  n26["Tuna Feather Rig"]
-  n27["Wind-On Leader"]
-  n28["Wiring a Surface Iron"]
-  n1 --> n27
+  n16["PR Knot — Bobbin-Tied Braid-to-Leader Connection"]
+  n17["Rubber-Band Deep Rig"]
+  n18["San Diego Jam Knot — Doubled and Single-Pass Terminal Tie"]
+  n19["San Diego Jam — Single vs. Double, and When to Use Each"]
+  n20["Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice"]
+  n21["Slim Beauty Knot — Spectra-to-Topshot Splice"]
+  n22["Springer Knot — Heavy-Line Hook Tie"]
+  n23["Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection"]
+  n24["Surgeon's Loop (Giant Yellowtail, Long-Range)"]
+  n25["Tony Pena Knot — Mono-to-Spectra Splice"]
+  n26["Trap Rig"]
+  n27["Tuna Feather Rig"]
+  n28["Wind-On Leader"]
+  n29["Wiring a Surface Iron"]
+  n1 --> n28
   n1 --> n7
   n10 --> n3
-  n11 --> n27
+  n11 --> n28
   n12 --> n13
-  n12 --> n16
   n12 --> n17
+  n12 --> n18
   n12 --> n7
-  n13 --> n17
-  n13 --> n21
-  n13 --> n24
-  n13 --> n27
+  n13 --> n18
+  n13 --> n22
+  n13 --> n25
+  n13 --> n28
   n13 --> n7
   n14 --> n11
   n15 --> n12
   n15 --> n7
-  n16 --> n17
-  n16 --> n21
-  n16 --> n3
   n16 --> n7
-  n17 --> n12
+  n16 --> n8
   n17 --> n18
-  n17 --> n20
+  n17 --> n22
+  n17 --> n3
   n17 --> n7
-  n18 --> n17
-  n19 --> n12
-  n19 --> n16
-  n19 --> n24
-  n19 --> n6
-  n19 --> n7
+  n18 --> n12
+  n18 --> n19
+  n18 --> n21
+  n18 --> n7
+  n19 --> n18
   n2 --> n3
+  n20 --> n12
+  n20 --> n17
+  n20 --> n25
+  n20 --> n6
   n20 --> n7
-  n20 --> n8
   n21 --> n7
-  n22 --> n12
-  n22 --> n19
-  n22 --> n20
-  n22 --> n23
-  n22 --> n3
-  n22 --> n4
+  n21 --> n8
   n22 --> n7
-  n22 --> n8
-  n23 --> n17
+  n23 --> n12
+  n23 --> n20
+  n23 --> n21
+  n23 --> n24
+  n23 --> n3
+  n23 --> n4
   n23 --> n7
-  n24 --> n19
-  n24 --> n6
+  n23 --> n8
+  n24 --> n18
   n24 --> n7
-  n27 --> n1
-  n28 --> n10
+  n25 --> n20
+  n25 --> n6
+  n25 --> n7
+  n28 --> n1
+  n29 --> n10
   n3 --> n10
-  n3 --> n17
+  n3 --> n18
   n3 --> n2
-  n4 --> n23
+  n4 --> n24
   n4 --> n7
-  n6 --> n19
-  n6 --> n24
+  n6 --> n20
+  n6 --> n25
   n6 --> n4
   n6 --> n7
   n7 --> n1
@@ -134,14 +138,17 @@ graph LR
   n7 --> n15
   n7 --> n16
   n7 --> n17
-  n7 --> n19
+  n7 --> n18
   n7 --> n20
   n7 --> n21
   n7 --> n22
   n7 --> n23
   n7 --> n24
-  n7 --> n27
+  n7 --> n25
+  n7 --> n28
   n7 --> n4
   n7 --> n6
+  n7 --> n8
+  n8 --> n16
 ```
 <!-- mermaid:end -->
