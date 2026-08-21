@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM, fPxqoEforhA]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM, fPxqoEforhA, kt3G72gUldM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -569,6 +569,28 @@ in the captions is asr-uncertain and not carried). Stock hooks are fine on
 smaller-grade yellowfin up to **30 lb**; on a **40–50 lb** fish fought over a
 long fight, the stock wire can be too light and give out — the one-size-up
 treble adds weight (tightens the swim track slightly) and solves it.
+
+**Single-hook conversion — a different rigging choice, in tension with the
+stock-hook guidance above (Tackle Express, `kt3G72gUldM`, 2026-07-16;
+unregistered channel — medium confidence):** reaches for the Current Sniper —
+sized at **120 mm** here — specifically when fish are already up and eating
+chummed anchovies on the surface. Stated rigging, in tension with the "don't
+go to singles" instruction above: stock trebles pulled and replaced with
+**single hooks** — a **3/0 BKK Lone Sniper up front** (mounted on a ring/clip
+captioned "kigger clip," rated **50 lb** — asr-uncertain, product name not
+resolved) and a **2/0 BKK Lone Sniper in the back** — and made **barbless**.
+Two stated reasons, kept side by side with, not reconciled against, the Cesar
+entry above (a different target-species framing — yellowtail/mixed-bag here
+vs. yellowfin/bluefin fight-durability there):
+
+- On a **yellowtail** ("a yellow"), the fish eats the whole 120 mm bait and
+  ends up hooked solidly, described as "dog-boned" in its mouth — hook-up on
+  the target fish isn't a concern despite going single and barbless.
+- Barbless singles are **safer and easier on the crew** for the barracuda
+  bycatch this stickbait draws in numbers when fished on a chummed anchovy
+  bite ("you're going to catch 40 barracuda on this thing") — stated as
+  easier to shake free, releasing roughly half the barracuda hooked without
+  handling them.
 
 ### Nomad Chug Norris (small-profile, big-face popper)
 **Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
