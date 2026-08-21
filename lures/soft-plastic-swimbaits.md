@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -46,7 +46,13 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   slidable bait-keeper grommet, and on the "Plus" line a slidable/removable
   weight built onto the hook. The standard Titan Diver is sized for lighter
   finesse work (as small as size 1) and is called out by name as a good fit
-  for a **Keitech 2.8**.
+  for a **Keitech 2.8**. A separate Tackle Express clip (`WPYrq_jdK2o`,
+  2025-01-13; medium confidence) walks through rigging a **Kicker Pickle
+  Kick** swimbait onto this hook's center-pin spring — see
+  [that note's rigging
+  section](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md#rigging-a-kicker-pickle-kick-on-the-center-pin-spring-tackle-express-wpyrq_jdk2o-2025-01-13)
+  for the steps; it also confirms "Pickle Kick" as the full name behind the
+  "PK" abbreviation used below (PK3/PK5/PK7).
 - **Keel-weight selection** — weights come **half oz, 3/4 oz, or nano**; the
   heavier **3/4 oz** is preferred (Landesfeind) because it **keeps the bait in
   the water while you wind fast**. Go lighter (half oz / nano) for a slower,
