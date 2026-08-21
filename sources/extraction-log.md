@@ -2525,7 +2525,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | OxFyTk0CSZQ | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped 55s charter raffle/hype clip, only technical aside already covered elsewhere, fails curation bar |
 | PJEG_RIkzF0 | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md; species/california-halibut.md / merged poly-rope-vs-fine/soft-mesh release-net finding, cross-linked from halibut fighting/release section |
 | PNWsFa4iSSc | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: unresolved productivity-percentage anecdote, no parameters, cut off before example resolves |
-| PPCzxTzXF0k | Tackle Express | tutorial | parameter-skim | pending |  |
+| PPCzxTzXF0k | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: freshwater bass fishing content (blade bait / suspended bass), out of SoCal/Baja scope |
 | PbiZMk4Ft6w | Tackle Express | tutorial | parameter-skim | pending |  |
 | PcJUo7h8WQA | Tackle Express | tutorial | parameter-skim | pending |  |
 | PciIsDkBgj4 | Tackle Express | tutorial | parameter-skim | pending |  |
