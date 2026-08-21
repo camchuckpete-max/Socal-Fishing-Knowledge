@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -62,6 +62,26 @@ built around **feeling the bite from depth**:
   drag](../tackle/star-drag-vs-lever-drag.md#when-to-reach-for-a-two-speed-at-all--deep-bottom-fishing-vertical-work-and-rod-length-tackle-express);
   the bigger-body-beats-smaller-reel torque point above is a separate,
   corroborating reason to size the reel up for this depth.
+- **A third, independent Tackle Express citation, naming the SoCal depth
+  range and the sinker/two-hook mechanism that drives the fatigue** ("Why
+  2-Speed Reels Are a Game Changer for Rockfishing," `Qj6brwOJk9E`,
+  2026-03-24; unregistered channel, single mention — medium confidence):
+  SoCal rockfishing covers a wide depth range, **on average 3–600 ft** as
+  captioned (likely a dropped-digit rendering of 300–600 ft, consistent with
+  this note's own 300–900 ft deep-bucket range above — not silently
+  corrected; asr-uncertain), shallower or deeper depending on conditions.
+  Heavy current or wind pushes the sinker up to **16–20 oz**, fished on a
+  **two-hook** rig — hooking two fish at once means cranking up two
+  open-mouthed fish (his example: **750 ft** of line) against the added
+  "water tension" of both mouths dragging through the column. In high gear
+  that's "a crazy amount of line per turn of the handle" — his estimate,
+  **nearly 3 ft retrieved per crank** — enough to tire out even a
+  self-described high-energy angler over a day of repeated drops. Shifting
+  to low gear turns the reel into a **winch**: less line per crank, but more
+  torque and less effort, which is what lets him keep dropping repeatedly
+  through the day rather than being fatigued into a break in the galley.
+  Consistent with, and adding concrete SoCal parameters to, the
+  fatigue-not-torque mechanism above.
 
 ## Rigs — three ways to fish the bottom
 

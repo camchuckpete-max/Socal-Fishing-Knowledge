@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, star-drag, lever-drag, two-speed, drag-system, free-spool, casting, bluefin]
-sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg]
+sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg, Qj6brwOJk9E]
 confidence: medium
 ---
 
@@ -118,6 +118,14 @@ reel in the first place.
   time. Consistent with, and a species-level gloss on, the star-drag-for-
   casting doctrine already in this note and in [rod & reel
   selection](rod-and-reel-selection.md).
+- **A third Tackle Express citation adds concrete SoCal rockfishing numbers
+  to the same deep-bottom-fishing case** ("Why 2-Speed Reels Are a Game
+  Changer for Rockfishing," `Qj6brwOJk9E`, 2026-03-24; unregistered channel,
+  single mention — medium confidence): the fatigue driver is cranking two
+  hooked fish up from as much as 750 ft against "water tension," across a
+  wide SoCal depth range, with a 16–20 oz sinker in heavy current/wind. Full
+  parameters in [rockfish deep-dropping — rod, reel & line for the
+  feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing).
 
 ## Reach for this when
 
