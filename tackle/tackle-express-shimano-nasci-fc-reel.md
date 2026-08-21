@@ -20,7 +20,10 @@ feature-rundown notes below.
 
 The clip frames the Nasci FC as a step up from Shimano's **Sedona**: it
 shares the Sedona's **Hagane gear**, **Silent Drive**, and **G-Free Body**
-(named but not explained here), then adds features said to set it apart:
+(named but not explained here — see [Shimano Sedona — Hagane Gear, G-Free
+Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
+for the companion clip that explains them), then adds features said to set
+it apart:
 
 - **X-Ship.** Claimed **improved gear durability on the pinion/shaft**,
   reducing tension and friction in the drivetrain under load. Stated effect:
@@ -42,6 +45,10 @@ Sedona) is given in this clip.
 
 ## Related
 
+- [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle
+  Express)](tackle-express-shimano-sedona-reel-features.md) — the reel this
+  clip pitches the Nasci FC as a step up from; that note explains the three
+  shared features this clip only names.
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross,
   Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
   and [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body
@@ -69,6 +76,7 @@ Sedona) is given in this clip.
 ## Linked from
 
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->

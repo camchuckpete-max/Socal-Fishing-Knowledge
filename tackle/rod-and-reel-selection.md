@@ -944,6 +944,7 @@ a bluefin).
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
+- [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)

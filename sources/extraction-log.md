@@ -2786,7 +2786,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ugML6PvRyc8 | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md / third Tackle Express re-cut of the weakest-link/15-40-rod worked example, confidence held at medium, adds in-range 12lb figure |
 | ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / added Keitech Shad Impact pin-tail build/durability/scent notes and Owner-vs-Core-Tackle jig-head hover-strolling rigging; asr-uncertain caveat added to Owner head name |
 | v5XtBi3wtVM | Tackle Express | tutorial | parameter-skim | done | none / out-of-region/off-topic (freshwater bass crankbait clip, no SoCal/Baja saltwater content) |
-| v6X2s1lb1aE | Tackle Express | tutorial | parameter-skim | pending |  |
+| v6X2s1lb1aE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-sedona-reel-features.md; tackle/tackle-express-shimano-nasci-fc-reel.md / new low-confidence Sedona feature-rundown note (Hagane gear, G-Free Body, Silent Drive), cross-linked with sibling Nasci FC note |
 | vALAeUaBmRM | Tackle Express | tutorial | parameter-skim | pending |  |
 | valIU8lsMX4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | vk3jbsINcPw | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -102,4 +102,5 @@ product, split across three uploads.
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 <!-- backlinks:end -->

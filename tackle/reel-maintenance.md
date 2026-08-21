@@ -442,6 +442,7 @@ or a compressed drag going into storage.
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
+- [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)

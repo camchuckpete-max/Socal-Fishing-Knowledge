@@ -133,5 +133,6 @@ here for anyone auditing the claim.
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
+- [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->
