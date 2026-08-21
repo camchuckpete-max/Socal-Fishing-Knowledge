@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -180,6 +180,16 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   or location named on camera.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
+- **Megabass Sleeper Gills — hollow-body, hidden-hook construction (Tackle
+  Express shop stock-alert, `R4yYK90-cZM`, 2022-06-17; unregistered channel,
+  promotional stock announcement — low confidence).** A hollow-body soft
+  plastic molded around a hidden/internal hook, rather than rigged onto a
+  separate keel-weighted hook or exposed jig head as described above. Stated
+  on camera: comes in "a variety of different colors" (none named) and can be
+  fished **either jigged or as a traditional straight swim**. No size,
+  weight, species, or location given — a stock-arrival clip, not a how-to;
+  logged as a distinct construction style within this class, not merged into
+  the keel-weighted or lead-head rigging bullets above.
 - **Sudden Impact vs. Basstrix — tackle-shop minimum buy, jig-head weight, and
   a sandbass-specific rig (Tackle Express, w/ Shannon Gallagher, `Oi5n-uVpY9g`,
   2025-05-02; unregistered channel, single mention — medium confidence).** A
