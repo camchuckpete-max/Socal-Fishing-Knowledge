@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -339,6 +339,25 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   bottom, red cheeks**, meant to read as an anchovy — see
   [night bass fishing](../techniques/night-bass-fishing.md) for the same
   bait's night application.
+  - **Stated reason for the blade's two-part benefit — offered in both 3-,
+    5-, and 7-in sizes matching the Pickle Kick body** (Tackle Express,
+    "Kicker Pickle Kicks & Booty Spin: The Ultimate Swimbait Breakdown!",
+    `jWPv-OOM3uk`, 2025-01-11; unregistered channel, single mention — medium
+    confidence): the tail blade is stated to do two things at once — emit a
+    **flash**, framed as useful in **murky conditions** to draw fish up from
+    the depths to investigate, and emit a **vibration** meant to be picked up
+    through a fish's lateral line, giving the booty spin an edge over a
+    plain paddle-tail — this second, vibration-based edge is stated as a
+    general advantage, not itself conditioned on murky water. Kept
+    alongside, not merged into, the flash/vibration framing above since
+    this is the stated *why* behind the mechanism rather than a new
+    mechanism. Largely re-covers rigging
+    ground already logged from three sibling Tackle Express clips on the
+    open-hook/BKK Titan Diver/Neck Breaker heads (`g5yDzjORhho`,
+    `WPYrq_jdK2o`, `R6ErrEIjlWw` — see those entries and [BKK Titan Diver
+    swimbait hooks](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
+    and [leadhead mods](../rigging/leadhead-mods.md)); not re-logged here as
+    independent confirmation.
   - **Rigging it weedless — nose-hook, twist, and match the exit point**
     (Tackle Express, `R6ErrEIjlWw`, 2025-01-21; unregistered channel, single
     mention — medium confidence): hook the bait through the face of the nose
