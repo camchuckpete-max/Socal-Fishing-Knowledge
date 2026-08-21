@@ -2764,7 +2764,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | reZBk4GsH_o | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md: added wide-gap-vs-long-shank hook + O-ring rigging bullet to existing O-ring cluster |
 | rlZVbEO3WyQ | Tackle Express | tutorial | parameter-skim | done | none: freshwater trout ultralight rod tackle, out of scope for SoCal/Baja saltwater KB |
 | rvmr9Jy9RjI | Tackle Express | tutorial | parameter-skim | done | rigging/san-diego-jam-knot.md: near-duplicate re-cut of already-logged 6E39_PBt1P4, added as provenance-only citation, no new doctrine |
-| rxoaPT5Zaog | Tackle Express | tutorial | parameter-skim | pending |  |
+| rxoaPT5Zaog | Tackle Express | tutorial | parameter-skim | done | techniques/two-speed-low-gear-fight.md: merged self-reported two-speed-vs-single-speed fight-time comparison (180lb/6min vs 140lb/15min) into existing section |
 | s2yqtaHriqU | Tackle Express | tutorial | parameter-skim | pending |  |
 | s3hJuucTqUI | Tackle Express | tutorial | parameter-skim | pending |  |
 | s7GMKI6c6RU | Tackle Express | tutorial | parameter-skim | pending |  |

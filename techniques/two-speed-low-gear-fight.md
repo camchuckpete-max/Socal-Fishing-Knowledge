@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE, ejkr3z7xkJA]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE, ejkr3z7xkJA, rxoaPT5Zaog]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -104,6 +104,21 @@ mechanism and "easy button" nickname already logged above and below.
   from the same source (an 8 ft medium-heavy rod, favored partly for the
   extra casting distance it gives) is in [rod & reel
   selection](../tackle/rod-and-reel-selection.md#offshore-tuna-favorite-setup-rod-length-for-casting-distance-nathan-winnicke-penn-searchersportfishing).
+- **A direct single-speed-vs-two-speed fight-time comparison, speakers
+  unnamed (Tackle Express, "180 Pounds of Fury Landed in SIX Minutes?!,"
+  `rxoaPT5Zaog`, uploaded 2026-02-09; unregistered channel, single mention —
+  medium confidence; no species, location, or on-camera date given, and the
+  hookup depth is stated only as "about 450" with no unit named):** two
+  self-reported fights on speed-jigging setups, contrasted directly — a
+  **180 lb fish landed in 6 minutes** on a **two-speed reel spooled with
+  80 lb braided line** (the only fish for which "braided line" is stated
+  on camera), versus a **140 lb fish that took 15 minutes** on a
+  **single-speed reel spooled with 65 lb** (line type not restated for
+  this second fish). The smaller fish on
+  lighter line took more than double the time on the single-speed reel,
+  consistent with this note's core claim even though no reasoning is given
+  on camera for which reel was matched to which fish — an outcome, not
+  stated doctrine.
 
 ## Timing the shift — stay high through the run, drop to low once it's close and circling
 
