@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -106,6 +106,21 @@ built around **feeling the bite from depth**:
   the line with twist; hold the rig at the knot (above the swivel) and let
   the weight hang free below — the swivel spins the twist back out before you
   fish it again.
+- **Bait-rig vs. jig gear, the same thin-braid mechanism stated as a
+  head-to-head comparison** (Tackle Express, `IxfTRWmMqQU`, "Lighter Gear,
+  More Fun, Bigger Catches | Why Try Jigging," 2025-12-24; unregistered
+  channel — medium confidence): a traditional bait rig for rockfish runs a
+  **16 oz torpedo sinker, two hooks, and shrimp flies**, and anglers
+  "start off at like 65 lb braid." A lighter jigging outfit for the same
+  fish — smaller rod, **reel half the size**, and a jig **about a third the
+  weight** of that 16 oz sinker (roughly 5.3 oz) — gets away with much less
+  because jigging outfits run **a lot lighter spectra**: fishing **200 g or
+  less in waters up to 600–700 ft needs only 30 lb or less braid diameter**.
+  Stated mechanism, consistent with this note's own thin-braid doctrine
+  above: **the thicker the braid, the more drag in the water, and the more
+  weight it takes to reach depth**; the lighter braid and smaller weight
+  together make the outfit "more compact, more light... more enjoyable,
+  especially when you're fishing deep."
 - **Why sinkers get large at the depth extreme** (Tackle Express, `D0bQjAL0gGU`,
   2026-04-13; unregistered channel — medium confidence): at the deepest
   depths local SoCal boats fish (up to roughly 800–850 ft in this operator's
