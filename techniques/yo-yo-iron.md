@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja, coltsniper]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA, HQC-NwW4018]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA, HQC-NwW4018, S0-BCQWA0H4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -653,6 +653,21 @@ the reverse map in **Linked from** below.
   "don't work the iron with short hops right at the bottom" entry above
   (rockfish-vs-yellowtail reasoning there; a school-spooking reasoning here)
   and the "physical toll, and can spook cautious fish" entry above.
+  **The same rule, an earlier and more specific cut from the same channel
+  (Tackle Express, `S0-BCQWA0H4`, "Stop JIGGING Suspended Fish! Pro Blade
+  Bait Secret Revealed," 2026-03-14, ten days before the `6Z6Dht20kTA` clip
+  above; unregistered channel, same-channel re-statement — not independent
+  confirmation, medium confidence):** framed for a school picked up on
+  **up-and-down or forward-facing sonar** — mark the school, then thumb the
+  spool and **drop as fast as possible** to get down into the column where
+  the fish are showing, whether that's near the surface or on the bottom.
+  Mechanics for working through the mark: go **through** the school on the
+  drop and **down to the bottom** first, then either **rip it up** or
+  **reel very fast, like a yo-yo,** back up through the column, and let it
+  fall back to the bottom again to repeat. Stated worst-case, same wording
+  as the later clip: stopping the bait inside the school and jigging it in
+  place — "some of those fish will not want to bite that bait when you're
+  doing that."
 - **A bycatch species owning the column, and the jig never reaching the
   target.** A yellowtail day planned around yo-yo iron and surface iron was
   abandoned to bonito: *"we tried yo-yo fishing, didn't go well — a lot of
