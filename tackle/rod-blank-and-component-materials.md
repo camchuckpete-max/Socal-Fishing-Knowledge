@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, blank-construction, graphite, fiberglass, composite, reel-seat, grip, buying-guide, beginner, maintenance]
-sources: [DfLcSS-J3g4, TyxH9BBJ9U8, U_jXfgsGBzM]
+sources: [DfLcSS-J3g4, TyxH9BBJ9U8, U_jXfgsGBzM, blG8NnDhQ1c]
 confidence: medium
 ---
 
@@ -21,7 +21,14 @@ cushioning and the hand-cramping point specifically) were likewise re-cut and
 reposted as a third short, "Are you picking the wrong fishing rod handle? Stop
 the cramps!" (`U_jXfgsGBzM`, uploaded 2026-07-03, 35 s) — identical wording,
 same speakers, same ~00:15:22–00:15:56 segment of `DfLcSS-J3g4`; also **not
-independent confirmation**, logged for provenance only. Distinct from
+independent confirmation**, logged for provenance only. The reel-seat-material
+bullets below (aluminum durability/maintenance and the graphite-can-land-100–
+200-lb-tuna point) were likewise re-cut and reposted as a fourth short, "Can
+graphite actually handle 200lb tuna? The surprising truth about reel seats."
+(`blG8NnDhQ1c`, uploaded 2026-06-28, 34 s) — near-identical wording (including
+the "even we were fishing growing up" phrasing), same speakers, same
+underlying interview segment as `DfLcSS-J3g4`; also **not independent
+confirmation**, logged for provenance only. Distinct from
 [composite rod blank construction](composite-rod-blank-construction.md), which
 covers why a composite blank's visible transition line is intentional — this
 note is the broader material comparison that clip's construction detail sits

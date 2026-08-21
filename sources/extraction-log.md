@@ -2630,7 +2630,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | bB8zs0lXvvo | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md: merged as third same-interview cut (rod/reel load-sharing mechanism, 2023 date resolution), treated as one source appearance not new repetition |
 | bCQLyxKQAok | Tackle Express | tutorial | parameter-skim | done | skipped: content-free transcript, part of channel's freshwater bass blade-bait series, out of KB scope |
 | bi2X9ANvDBs | Tackle Express | tutorial | parameter-skim | done | freshwater bass fishing content, entirely out of scope for SoCal/Baja saltwater KB - correctly skipped |
-| blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | pending |  |
+| blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | done | tackle/rod-blank-and-component-materials.md: added blG8NnDhQ1c as 4th provenance-only re-cut of reel-seat-material claims, no new content |
 | bvYMtjbflq8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | cAZRaGB_RRM | Tackle Express | tutorial | parameter-skim | pending |  |
 | cBATKqWkQws | Tackle Express | tutorial | parameter-skim | pending |  |
