@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo, p9YYIb4GKHM]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -227,6 +227,15 @@ built around **feeling the bite from depth**:
   Bring the jig as far as ~30 ft up, then flutter it back down. On a short-biting
   ling, drop straight back to the bottom and start hopping again — they'll chase
   it back down and re-eat.
+- **Named on camera as "Lift & Drop"** — a human-typed video title, not ASR
+  (Tackle Express, `p9YYIb4GKHM`, "Unlock the secret to monster rockfish: The
+  Lift & Drop technique!," 2026-04-02; unregistered channel — medium
+  confidence; a short re-cut of the same `S9sQ8Vg8-5o` footage already cited
+  above for the 8 oz single-hook jig — same claim, not independent
+  corroboration): drop to the bottom, take one or two turns up,
+  then lift the rod and let the jig sink all the way back down, repeating —
+  the flutter-and-dart on the fall is the trigger. Framed specifically as a
+  pick for **isolated rocks**, to draw a big rockfish up out of the structure.
 
 ## Wind-retrieve skirted bait — a fourth presentation (Fisher Newb / Bobby Martinez seminar, `iAr6sbRC384`, 2020-03-16; unregistered channel, single mention — medium confidence; trade-show pricing/booth-deal content around this system excluded per the curation bar)
 

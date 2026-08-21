@@ -98,6 +98,7 @@ holder pairing, are in
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Iron Jigs](iron-jigs.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)

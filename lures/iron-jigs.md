@@ -1,7 +1,8 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o, _C7TJoGT0nw]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o, _C7TJoGT0nw,
+  p9YYIb4GKHM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -250,11 +251,22 @@ drop-and-flutter yo-yo iron for rockfish and lingcod, sized to depth:
   and let it sink back down** on a controlled fall rather than a continuous
   crank — the flutter/dart on the fall is the trigger, fished over isolated
   rock specifically to draw a big rockfish up out of the structure.
-- **A separate, single-hook 8 oz option, ASR-rendered "AI's" — plausibly an
-  Ahi-class iron (asr-uncertain, brand not confirmed):** an 8 oz single-hook
-  metal jig for popping/jigging off the bottom, also made in treble-hook,
-  other-weight, and other-color versions; fished with the same drop-lift-
-  flutter cadence as the Colt Snipers above.
+- **A separate, single-hook 8 oz option, likely branded "Ahi" (asr-uncertain,
+  not title-confirmed):** an 8 oz single-hook metal jig for popping/jigging
+  off the bottom, also made in treble-hook, other-weight, and other-color
+  versions; fished with the same drop-lift-flutter cadence as the Colt
+  Snipers above. **A second upload of this same footage, re-cut and
+  retitled "Unlock the secret to monster rockfish: The Lift & Drop
+  technique!" (Tackle Express, `p9YYIb4GKHM`, 2026-04-02) — word-for-word
+  the same claim, not independent corroboration per the
+  re-cut/duplicated-footage rule — renders its own auto-captions "Ahi's"
+  where the full-length source rendered "AI's."** Two separate ASR passes
+  over the same underlying audio now converge on "Ahi," matching this
+  corpus's existing, human-confirmed **Ahi USA** brand (Promar/Ahi USA —
+  see [cedar plug](cedar-plug.md) and [tuna poppers and
+  stickbaits](tuna-poppers-and-stickbaits.md#ahi-usa-live-deception-flash-jig-cast-sink-35-sec-then-a-slow-crank));
+  kept as a strengthened but still asr-uncertain reading rather than fully
+  resolved, since neither upload's title names the jig brand.
 
 **Lighter surface-iron sub-class, line-class-limited (same source):** an
 **A1-light** class jig is a tight-swimming jig good for both yellowfin and
