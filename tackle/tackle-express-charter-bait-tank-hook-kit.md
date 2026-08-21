@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [hooks, hook-size, live-bait, anchovy, sardine, squid, dropper-loop, slider, tuna, flyline, bottom-fishing, fluorocarbon, owner, leader, white-seabass, j-hook, fin-bait]
-sources: [3xx_vES0kdo, 9MzNNwHiBXs, Eo_bA8IWvyU]
+tags: [hooks, hook-size, live-bait, anchovy, sardine, squid, dropper-loop, slider, tuna, flyline, bottom-fishing, fluorocarbon, owner, leader, white-seabass, j-hook, fin-bait, yellowtail, rockfish]
+sources: [3xx_vES0kdo, 9MzNNwHiBXs, Eo_bA8IWvyU, IUuP8gGaAAo]
 confidence: medium
 ---
 
@@ -16,6 +16,46 @@ shows up, across island yellowtail/calico, kelp-paddy dorado/yellowtail,
 offshore bluefin/yellowfin, and bottom fishing. This is a parameter checklist,
 not a selection framework — the underlying circle-vs-J and bait-sets-the-size
 doctrine lives in [hooks](hooks.md) and isn't repeated here.
+
+## Islands yellowtail — Owner Flyliner, ring vs. non-ring (IUuP8gGaAAo)
+
+A separate, very short Tackle Express clip (`IUuP8gGaAAo`, "Stop killing your
+bait. The secret to Flyliner hook sizes explained.", uploaded 2026-08-07,
+44 s; unregistered channel — and the clip is itself a shop ad for its own
+Owner hook stock ("we have a full selection of Owner hooks here at Tackle
+Express"), so read as a **sponsored/promotional claim, `low` confidence**,
+distinct from the parameter citations elsewhere in this note). No sizes are
+given; it's a bare trip-type/species → product-name map, four data points at
+a glance:
+
+- **Yellowtail trip, fishing the islands:** **Owner Flyliner hook**, ring or
+  non-ring — framed as the angler's choice ("that is entirely up to you"),
+  with the presenter's own stated preference for **non-ring**. No reason is
+  given. A further, still-unreconciled data point in the fleet-wide
+  ring-vs-non-ring split already logged in
+  [hooks — Circle vs. J, the core decision](hooks.md#circle-vs-j--the-core-decision-swrsycmt4tw-m2q22sppkem)
+  (Cesar's non-ring-for-weight-and-noise preference; Art's "old school"
+  non-ring lean; the countervailing view that a ring helps the bait swim
+  freely) — not merged into any of those, just added alongside.
+- **Seabass fishing and fishing squid:** a hook the captions render **"Aki
+  Twist"** — **asr-uncertain** on the exact model. Two possible matches,
+  neither confirmed against a catalog: (1) the **Owner Aki hook** already
+  logged in
+  [hooks — Owner Aki hook vs. J hook by bait size](hooks.md#owner-aki-hook-vs-j-hook-by-bait-size--season-stock-up-pick-searchersportfishing-tackle-tip-thursday-vol-92-hooks-trlv1azfplm-2020-03-26-searcher-sportfishing-registered-channel--productmodel-endorsement-low-confidence-per-the-channels-sponsored-claim-caveat-owner-disclosed-as-a-searcher-sponsor-elsewhere-in-this-note)
+  (different channel, sized 1/0 there); (2) this same channel's own **"Oy
+  Twist"** citation below under Squid — dropper loop and slider, given for
+  the same squid application — the two ASR strings are close enough that
+  they may well be the same Owner product misheard two different ways by
+  the same channel's auto-captions, but that isn't confirmed either. Kept as
+  a separate, still-open data point rather than silently merged into either.
+- **Rock fishing:** **gorilla hooks** — corroborates, without adding a new
+  size, the Owner Gorilla-family bottom-fishing hooks already logged under
+  [Bottom fishing](#bottom-fishing-rockfish-whitefish-sheephead), below.
+- **Tuna fishing:** **Mutu circle hooks** — corroborates, without adding a
+  new size, the Owner Mutu circle-hook doctrine already logged under
+  [Tuna (bluefin, yellowfin) — flyline](#tuna-bluefin-yellowfin--flyline),
+  below, and the broader doctrine in
+  [hooks — size](hooks.md#size--bait-first-fish-second).
 
 ## Anchovy — small fly-liner hooks
 
@@ -67,7 +107,11 @@ doctrine lives in [hooks](hooks.md) and isn't repeated here.
   Oy twist hook between 50 to 70," is read as **5/0 to 7/0** (the caption
   again dropping the slash, the same pattern that renders "1/0" as "10"
   elsewhere in this corpus) — which resolves the plain "5 and 7" here to
-  **5/0 and 7/0**.
+  **5/0 and 7/0**. **Possibly the same hook as the "Aki Twist" this channel
+  names for squid/seabass in a third clip** — see
+  [Islands yellowtail — Owner Flyliner, ring vs.
+  non-ring](#islands-yellowtail--owner-flyliner-ring-vs-non-ring-iuup8ggaaao),
+  above — kept as a separate, unresolved data point rather than merged.
 - **Weight for dropper loop:** a **10 oz or 12 oz torpedo sinker**, a couple
   in the box, to get squid down on a [dropper loop](../techniques/dropper-loop.md)
   or a slider rig. A second Tackle Express source gives a slightly wider

@@ -2465,7 +2465,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: auto-captions contain no fishing content, only stray word and music markers |
 | HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 30s on-the-water catch clip, only fragmented exclamations/names, no content clears curation bar |
 | IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic freshwater/trout ultralight rod product ranking, no SoCal/Baja content, fails curation bar |
-| IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | pending |  |
+| IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-charter-bait-tank-hook-kit.md / corroborating occasion-to-hook-model map (Owner Flyliner ring/non-ring, Aki Twist, gorilla, Mutu circle) merged in |
 | IXHHNOX_t5Y | Tackle Express | tutorial | parameter-skim | pending |  |
 | IZHY3RXdyxg | Tackle Express | tutorial | parameter-skim | pending |  |
 | IcS7QbJlSDA | Tackle Express | tutorial | parameter-skim | pending |  |
