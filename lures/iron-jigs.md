@@ -2,7 +2,7 @@
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
 sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o, _C7TJoGT0nw,
-  p9YYIb4GKHM, r7Bv49Ysgdw]
+  p9YYIb4GKHM, r7Bv49Ysgdw, xgPEt4Zj35Q]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -448,6 +448,15 @@ jigs](knife-jigs.md) (how many assists to run on a knife/slow-pitch jig) —
 this is choosing assist vs. treble hook *style* on a surface/yo-yo iron, not
 reconciled with or contradicting that separate conflict.
 
+**Deck-safety reason to drop the treble on a sport boat, distinct from the
+species-effectiveness axis above:** a lure that ships with an assist hook up
+front and a treble trailing at the back is a boat-wide safety/courtesy call,
+not just an angler's own hookup-rate choice, when fished on a crowded sport
+boat — swapping the stock rear treble for a single hook instead avoids extra
+loose hook points catching on other anglers when a landed, still-hooked fish
+thrashes on deck. Full reasoning and the named hook in [dehooking &
+release — rig the treble out before the trip](../fish-care/dehooking-and-release.md#rig-the-treble-out-before-the-trip--a-single-hook-for-sport-boat-safety-and-courtesy-tackle-express-xgpet4zj35q-2026-07-14-unregistered-channel-single-mention--medium-confidence).
+
 **Tight line, not slack, on the drop — a treble-fouling failure mode (Tackle
 Express, "Stop wasting fish! Are you making this simple line mistake?,"
 `r7Bv49Ysgdw`, 2026-03-21; unregistered channel, single mention — medium
@@ -582,6 +591,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Cedros Island](../locations/cedros-island.md)
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)

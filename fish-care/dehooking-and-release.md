@@ -1,7 +1,7 @@
 ---
 type: fish-care
-tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut, hard-bait, treble-hook, angler-safety]
-sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E, fHMwcm1xRQk, mDRSoMYxDuY]
+tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut, hard-bait, treble-hook, angler-safety, sport-boat, rigging]
+sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E, fHMwcm1xRQk, mDRSoMYxDuY, xgPEt4Zj35Q]
 confidence: medium
 ---
 
@@ -124,6 +124,42 @@ marrying a wife instead of the fish. Re-cut/duplicated footage, not
 independent confirmation — logged per that rule, no new content beyond
 what's already captured here.
 
+## Rig the treble out before the trip — a single hook for sport-boat safety and courtesy (Tackle Express, `xgPEt4Zj35Q`, 2026-07-14; unregistered channel, single mention — medium confidence)
+
+A preventive, before-you-fish complement to the hard-bait treble-hook danger
+documented above. Source: "The Pro Way to Rig Your Lures for Safety." Rather
+than dealing with a treble hook safely after the fish is landed, this
+source's practice is to not fish the stock treble at all on a sport boat.
+
+- **The stock setup:** the lure class in the source's example ships with an
+  assist hook at the nose and a treble hook trailing at the back — the same
+  hard-bait-style rigging covered elsewhere in this note.
+- **The swap:** on sport boats specifically, the source pulls the stock rear
+  treble and replaces it with a single hook instead — named on camera as an
+  **Owner Zo-Wire inline single**.
+- **Stated reasoning — a boat-wide safety/courtesy call, not just the
+  angler's own hookup rate:** which hook rides on a lure fished on a crowded
+  sport boat affects everyone at the rail, not only the angler fishing it.
+  The worked example given, as stated on camera: a barracuda taken with
+  "the treble hook right in the barracuda's snout," boated and thrashing on
+  deck — while it's thrashing, it's "your assist hooks getting in
+  everybody's boots." As described, the treble is the hook that's embedded
+  in the fish and the (stock, front) assist hook is the one left riding
+  loose and catching people; the source does not reconcile why removing the
+  rear treble specifically addresses a hazard it attributes to the front
+  assist hook, so both hooks are carried here exactly as named on camera
+  rather than smoothed into a single consistent mechanism.
+- **Stated confidence in the swap:** the source states that running a single
+  hook instead of the stock treble does not cost you the fish you were
+  after.
+- This is a rigging-stage precaution distinct from the post-landing
+  unhooking-technique advice in the section above — same angler-safety
+  theme (Tackle Express, treble hooks), different point in the trip. It is
+  also a separate axis from the treble-vs-single-by-species effectiveness
+  doctrine logged in [iron jigs — hook style: assist vs.
+  treble](../lures/iron-jigs.md#hook-style--assist-vs-treble), which weighs
+  swim action and hookup rate, not deck safety.
+
 ## Measuring a fish you may release
 
 - **Mouth closed.** Close the fish's mouth before laying it on the measuring
@@ -154,5 +190,6 @@ given other implausible on-camera claims.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Iron Jigs](../lures/iron-jigs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 <!-- backlinks:end -->
