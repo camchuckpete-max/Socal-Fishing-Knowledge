@@ -2652,7 +2652,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dWqD8l3jW6w | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: merged surf halibut hook-set mechanic (reel down to tight before swinging, single-hook thump); evaluator trimmed invented causal rationale |
 | degWvtQ4D_Y | Tackle Express | tutorial | parameter-skim | done | tackle/rod-length-for-angler-size.md: merged fatigue/shaking-as-length-signal doctrine, fixed one dropped-hedge misquote |
 | dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md: provenance-only merge, re-cut of DfLcSS-J3g4, no new note |
-| dnHev1PcLts | Tackle Express | tutorial | parameter-skim | pending |  |
+| dnHev1PcLts | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable, promotional product video (Stick Jacket Pro Series rod covers), no SoCal/Baja fishing knowledge |
 | dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | pending |  |
 | dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | pending |  |
 | dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | pending |  |
