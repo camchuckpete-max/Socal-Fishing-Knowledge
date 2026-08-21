@@ -69,10 +69,16 @@ to a size in Daiwa's own numbering, and no target species or technique
 - [Reel & rod maintenance](reel-maintenance.md) — general corrosion-prevention
   and bearing/gear care discipline this reel's manufacturing claims sit
   alongside.
+- [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing,
+  Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md) —
+  a different Daiwa product line (inshore baitcaster, not a round jigging
+  reel) reusing the same "Hyper-" naming family; not confirmed as
+  mechanically identical, kept as a separate, comparable product.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md)
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 <!-- backlinks:end -->

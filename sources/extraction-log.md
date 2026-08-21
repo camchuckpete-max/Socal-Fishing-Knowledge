@@ -2782,7 +2782,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tRvItFsxjmg | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / folded 32s recap clip into existing rod-testing note as another re-cut/non-independent confirmation, medium confidence retained; fixed an incorrect ordinal claim |
 | tVgGBpzozMU | Tackle Express | tutorial | parameter-skim | done | none / 27-second promo teaser, no extractable parameters (no species/bait size/technique stated) |
 | tugP0UsrzRI | Tackle Express | tutorial | parameter-skim | done | techniques/glide-baits.md / added asymmetric-weight (3-6oz bottom / 1-3oz top) three-way-swivel dancing hookup-bait rig variant for rockfish, contrasted against existing matched-weight guidance, medium confidence |
-| u9sJyZhaDGQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| u9sJyZhaDGQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-coastal-tw200-reel.md; tackle/rod-and-reel-selection.md; tackle/tackle-express-saltiga-300-round-jigging-reel.md / new low-confidence promotional product note (Daiwa Coastal TW 200) cross-linked from inshore-baitcast rod/reel section and Saltiga 300 Hyper-naming-family note |
 | ugML6PvRyc8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | pending |  |
 | v5XtBi3wtVM | Tackle Express | tutorial | parameter-skim | pending |  |
