@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E, fHMwcm1xRQk, yTPtYL9QAsw]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E, fHMwcm1xRQk, yTPtYL9QAsw, yl-AkO5S64o]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -96,7 +96,12 @@ situation calls for it lives in the routers:
   it on light minnow gear. (A short companion clip, `yTPtYL9QAsw`,
   2026-01-19, "How to Set the Hook the RIGHT Way," is a trimmed re-cut of
   this same segment — same rod, same wording — logged here as a second
-  citation of the same passage, not independent confirmation.)
+  citation of the same passage, not independent confirmation. A third clip,
+  `yl-AkO5S64o`, 2026-02-04, "Stop Missing Halibut Bites! The Secret Hook Set
+  Revealed" — same Major Craft Sienna 962M, same Lucky Craft minnow bait,
+  same "turn my hips and my shoulders" hookset — is a further re-cut of the
+  same underlying footage; logged here as a third citation, still not
+  independent confirmation.)
 - **Why treble hooks need "absorption" once a fish is pinned — sustained
   fight mechanics, not the hookset itself (Tackle Express, `dNn8U9LbL8c`,
   2026-03-16; unregistered channel, single mention — medium confidence):**

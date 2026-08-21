@@ -2807,7 +2807,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | yTPtYL9QAsw | Tackle Express | tutorial | parameter-skim | done | techniques/leadhead-swimbait-retrieve.md; techniques/inshore-crankbaits.md: added pier/boat-inshore wind-to-tight-line hookset rule, cross-referenced trimmed re-cut of fHMwcm1xRQk |
 | yVYUY3PlvIw | Tackle Express | tutorial | parameter-skim | done | none: generic gear-storage product review (Avet reel bag), fails curation bar |
 | yf7dEnzsNzQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md: new note, Hagane body/gearing/spec ladder, low confidence |
-| yl-AkO5S64o | Tackle Express | tutorial | parameter-skim | pending |  |
+| yl-AkO5S64o | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md; techniques/leadhead-swimbait-retrieve.md: third re-cut citation, no new doctrine, confidence held medium |
 | ywKI8gBK6vM | Tackle Express | tutorial | parameter-skim | pending |  |
 | z1CS3To6ATA | Tackle Express | tutorial | parameter-skim | pending |  |
 | z5UoW9pntvE | Tackle Express | tutorial | parameter-skim | pending |  |

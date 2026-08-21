@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [leadhead, swimbait, halibut, white-seabass, yellowtail, fluke, bottom-contact, retrieve, depth-control, harbor, casting, hookset]
-sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4, qLKLlZdiflA, yTPtYL9QAsw]
+sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4, qLKLlZdiflA, yTPtYL9QAsw, yl-AkO5S64o]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -101,7 +101,12 @@ with a 3–4 in swimbait on a long cast** (Tackle Express, `yTPtYL9QAsw`,
 re-cut of the same halibut-gear segment as `fHMwcm1xRQk`, 2026-01-13 —
 already an inshore-crankbaits.md source — so it is not independent
 confirmation, only a second citation of the same passage; unregistered
-channel — medium confidence):
+channel — medium confidence. **`yl-AkO5S64o`**, 2026-02-04, "Stop Missing
+Halibut Bites! The Secret Hook Set Revealed," is a third re-cut of the same
+underlying footage — same single-hook "wind until your line's tight, then
+you have permission to set the hook" instruction, same Major Craft Sienna
+962M/Lucky Craft treble-hook demo below — logged here as a third citation,
+not independent confirmation):
 
 - **Grinding the handle flat-out and waiting for the drag to slip as the cue
   to set the hook is called out as a mistake** — his stated consequence is
