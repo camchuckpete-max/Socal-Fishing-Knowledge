@@ -2719,7 +2719,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | lYnD_MiALL8 | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / added missing sources-array entry for already-cited re-cut of S9sQ8Vg8-5o; no new doctrine |
 | l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 46s personal career-change narrative, no fishing knowledge content |
 | m6NxHaIifj8 | Tackle Express | tutorial | parameter-skim | done | rigging/tony-pena-knot.md / added as provenance/duplicate-footage note to existing entry, confidence unchanged at medium |
-| mDRSoMYxDuY | Tackle Express | tutorial | parameter-skim | pending |  |
+| mDRSoMYxDuY | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md / logged as re-cut/duplicate of eOLoHxoqk6E footage, no new doctrine |
 | mMa0oqI2tqA | Tackle Express | tutorial | parameter-skim | pending |  |
 | mgUjxUoGkZU | Tackle Express | tutorial | parameter-skim | pending |  |
 | mgsCmVxM8dM | Tackle Express | tutorial | parameter-skim | pending |  |

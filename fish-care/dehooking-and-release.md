@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut, hard-bait, treble-hook, angler-safety]
-sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E, fHMwcm1xRQk]
+sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E, fHMwcm1xRQk, mDRSoMYxDuY]
 confidence: medium
 ---
 
@@ -115,6 +115,14 @@ treble is what "will come back and get you in the hand" — his stated phrase
 for the outcome is **"getting married to the fish."** Same core advice as
 `c_60Ms3QSMY` (be careful, this can ruin your day fast), with the strike-
 geometry reason added.
+
+**Re-cut as a Short** (`mDRSoMYxDuY`, "Why you shouldn't hold a Halibut like
+this!", 2026-05-10, same channel): a 35-second clip lifted from this same
+footage (~00:06:21–00:06:56 of `eOLoHxoqk6E`), covering the strike-geometry/
+"married to the fish" explanation above, including the closing aside about
+marrying a wife instead of the fish. Re-cut/duplicated footage, not
+independent confirmation — logged per that rule, no new content beyond
+what's already captured here.
 
 ## Measuring a fish you may release
 
