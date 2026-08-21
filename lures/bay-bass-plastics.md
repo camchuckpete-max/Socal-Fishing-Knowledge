@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -31,6 +31,19 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
   pilings and structure** where spotties hold; a subtle darting profile fished on
   a light head or weightless/weighted to fall along the piling. Threaded through
   the hook slot like any plastic.
+  - **Rigging detail — nose entry depth and shank exposure set the underwater
+    walk-the-dog action** (Tackle Express, `KFdvKXTHSeU`, 2014-10-15;
+    unregistered channel, single mention — medium confidence). On a round
+    tungsten jig head (brand/model garbled in the auto-captions —
+    `asr-uncertain`, not carried), thread the fluke in through the nose and
+    bring the hook point back out **short** — go too far in and the bait sits
+    wrong (fixable by tearing/pulling the plastic back a bit to shorten it).
+    The stated goal is to see **the back of the fluke droop down** as it comes
+    off the head, not sit straight out — leaving **a little of the hook shank
+    exposed** (not buried flush into the plastic) is what drops the tail down
+    and produces a **walk-the-dog action fished underwater** rather than on
+    top. A drop of super glue at the nose entry point can be added to keep the
+    bait from sliding.
 - **Gulp grubs** — scented curly-tail grubs; the **scent is the activator** for
   bottom-feeding bay fish. A **grub swims on a constant retrieve** (rod tip down
   at ~45°, steady wind) on a drop-shot or a light jighead, unlike the tailless

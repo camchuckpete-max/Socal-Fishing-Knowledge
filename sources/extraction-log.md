@@ -2482,7 +2482,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JgXMpjxRxmo | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; lures/tuna-poppers-and-stickbaits.md; techniques/surface-iron.md / merged small-anchovy iron-downsizing corroboration and Colt Sniper warm-water retrieve/Daiwa SP Minnow mention |
 | JmGT0zAaVOY | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md; tackle/reel-maintenance.md / new note on spooling tension/line-twist mechanics, cross-linked from reel-maintenance.md |
 | K50W5KaBN4E | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass finesse-rig tutorial, out of SoCal/Baja saltwater scope, correctly skipped |
-| KFdvKXTHSeU | Tackle Express | tutorial | parameter-skim | pending |  |
+| KFdvKXTHSeU | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / added Zoom Fluke nose-entry/shank-exposure rigging detail for underwater walk-the-dog action |
 | KUsFT7tN-x0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | K_0AeM4OvuE | Tackle Express | tutorial | parameter-skim | pending |  |
 | KamUiykeRlU | Tackle Express | tutorial | parameter-skim | pending |  |
