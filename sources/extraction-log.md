@@ -2509,7 +2509,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | NGvwjJfAL2I | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic filler/fragment, no extractable SoCal-specific parameter |
 | NJh9EadWA7Y | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: family fight-coaching clip, no extractable technique/gear content |
 | NUlHwrBT61U | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: generic/promotional spool-design blurb, no SoCal-specific parameter |
-| NiEvdaHOHnM | Tackle Express | tutorial | parameter-skim | pending |  |
+| NiEvdaHOHnM | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: personal lifestyle aside, no fishing knowledge content |
 | Nsc23Chy3xk | Tackle Express | tutorial | parameter-skim | pending |  |
 | O49WsHP4Zh0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | O5t36yWGXCU | Tackle Express | tutorial | parameter-skim | pending |  |
