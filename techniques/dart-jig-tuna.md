@@ -158,4 +158,5 @@ own first commit and sit at **medium**, pending further repetition.
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->

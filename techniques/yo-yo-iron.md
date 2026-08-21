@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA]
+tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja, coltsniper]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA, HQC-NwW4018]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -268,6 +268,32 @@ the reverse map in **Linked from** below.
   closed with the crew calling out surface iron, dropper loop, and yo-yo
   iron all producing at the same time — see
   [yellowtail](../species/yellowtail.md) for the full-session summary.
+- **Colt Sniper as a dual-mode lure — cast-and-swim or cast-and-yo-yo (Tackle
+  Express, "Colt Sniper or Yo-Yo Jig: Which one lands more fish?," `HQC-NwW4018`,
+  2026-05-12; unregistered channel, single mention — medium confidence):** the
+  angler fished a **Colt Sniper**-class dart jig more than dedicated yo-yo jigs
+  on this trip, giving the lure's versatility as the stated reason: it can be
+  fished two ways off the same cast — **cast, splash, and wind it** (a swim
+  retrieve) or **cast, splash, let it hit bottom, and fish it just like a
+  yo-yo jig** — consistent with, and a further data point for, the "working
+  water" cast-and-retrieve cadence documented above. No species, location, or
+  depth given. See also the [iron jigs](../lures/iron-jigs.md) and [dart
+  jig](dart-jig-tuna.md) notes, which document the Colt Sniper/dart-type jig
+  class for its usual daytime tuna finesse application; this source names a
+  different, non-tuna-specific use of the same lure class.
+- **Observed** (Tackle Express, `HQC-NwW4018`, 2026-05-12; unregistered
+  channel — medium confidence): on a slower first day of the same trip, bites
+  favored **smaller-profile** baits — the Colt Sniper and a **Salas 6X Jr.**
+  are both named as the smaller-profile picks that produced; no reason is
+  given for the size preference. **asr-uncertain:** the auto-captioned
+  sentence tying the two lures together ("They were more keyed in on the
+  Colt Sniper baits, your Salas 6X Jr., so your smaller profile") is garbled;
+  read here as both lures cited together as the smaller-profile options that
+  outproduced bigger profiles that day, not confirmed further. Corroborates,
+  without adding a mechanism, the profile-selection doctrine already logged
+  in [iron jigs](../lures/iron-jigs.md#reading-a-jig--how-to-pick-one-that-swims)
+  ("fish key on a profile depending on what they're eating and where they
+  are").
 
 ## Gear-class detail
 
