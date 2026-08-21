@@ -2789,7 +2789,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | v6X2s1lb1aE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-sedona-reel-features.md; tackle/tackle-express-shimano-nasci-fc-reel.md / new low-confidence Sedona feature-rundown note (Hagane gear, G-Free Body, Silent Drive), cross-linked with sibling Nasci FC note |
 | vALAeUaBmRM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / added Fathom 25/40 drag/capacity/weight figures as corroborating re-cut; corrected unsupported Speedmaster-10 identity inference for unnamed third reel |
 | valIU8lsMX4 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-savage-gear-line-thru-swimbait-rigging.md / evaluator created missing note for mono-loop pull-through rigging technique (threading mainline through hollow-body line-thru swimbait), linked from glide-baits.md, line-and-leader.md, gear-classes.md |
-| vk3jbsINcPw | Tackle Express | tutorial | parameter-skim | pending |  |
+| vk3jbsINcPw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-tranx-300b-x-protect-water-resistance.md; tackle/reel-maintenance.md; tackle/tackle-express-shimano-nasci-fc-reel.md; tackle/tackle-express-shimano-tranx-300b-braking-system.md / new low-confidence Tranx 300B X-Protect coating note, cross-linked to sibling Tranx/Nasci notes |
 | w5iryVkSe-0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | wk8bkqzdyM0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -63,6 +63,11 @@ Sedona) is given in this clip.
 - [Reel & rod maintenance](reel-maintenance.md) — general corrosion-prevention
   and bearing/gear care discipline this reel's Core Protect and gear-durability
   claims sit alongside as manufacturing claims, not a substitute for upkeep.
+- [Shimano Tranx 300B — X-Protect water resistance
+  (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md) —
+  a different Shimano reel/line (baitcaster, not spinning); that clip states
+  **X-Protect** is Core Protect's successor on the Tranx line specifically,
+  which doesn't change this note's Core Protect claim for the Nasci FC/Sedona.
 - [Spooling line — tension and line-twist avoidance](spooling-line-tension-and-twist.md)
   — the general cast-stability/tangle-avoidance discipline the Propulsion Line
   System claim is a manufacturer mechanism for, not a substitute for.
@@ -78,5 +83,6 @@ Sedona) is given in this clip.
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
+- [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
 - [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->

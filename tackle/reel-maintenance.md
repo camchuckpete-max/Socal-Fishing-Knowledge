@@ -291,8 +291,10 @@ manufacturer-claimed gear/bearing durability features performing over time —
 see [CI4+ reel features — body, Infinity Drive, Infinity Cross, Anti-Twist
 Fin](tackle-express-ci4-plus-reel-features.md), [Shimano Nasci FC — X-Ship,
 Propulsion Line System, Core Protect](tackle-express-shimano-nasci-fc-reel.md),
+[Shimano Tranx 300B — X-Protect water resistance
+(Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md),
 and [Shimano Talica — S Compact body, Infinity Drive, Hagane body
-(Tackle Express)](tackle-express-shimano-talica-reel-features.md) for three
+(Tackle Express)](tackle-express-shimano-talica-reel-features.md) for four
 more unapplied, presenter-stated (not independently verified) claims along
 those lines.
 
@@ -444,6 +446,7 @@ or a compressed drag going into storage.
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
+- [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->

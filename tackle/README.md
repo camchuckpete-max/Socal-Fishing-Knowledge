@@ -81,6 +81,7 @@
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md) — Tackle Express, "Budget-Friendly Ultralight Reel: Shimano Sedona Review!," v6X2s1lb1aE, uploaded 2025-01-25 — a 77-second, presenter-unnamed straight product-fe
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — Tackle Express, "Shimano Talica: The Ultimate Saltwater Powerhouse!," af7a1tR2B84, uploaded 2024-12-29 — an 88-second, presenter-unnamed feature rundown for the
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md) — Tackle Express, "Shimano Tranx 300B: Breaking Down the Breaking System!," qLDrhgE7-y0, uploaded 2025-01-24 — a 54-second, presenter-unnamed product spot for one
+- [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md) — Tackle Express, "Shimano Tranx 300B: X-Protect Water Resistance Breakdown!," vk3jbsINcPw, uploaded 2025-02-05 — a 46-second, presenter-unnamed product-feature s
 - [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — Tackle Express, two clips that are re-cuts of the same longer source recording about the Vanford lineup (presenter unnamed in both):
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md) — Tackle Express (James, on camera; Lj2NCznK7Zg, "Why This Braid Caught 100-lb Bluefin on the Shogun," uploaded 2026-06-22, 69 s).
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
@@ -93,5 +94,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 83 notes exceed the 30-node cap._
+_Map skipped: 84 notes exceed the 30-node cap._
 <!-- mermaid:end -->
