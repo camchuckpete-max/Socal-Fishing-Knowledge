@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -279,6 +279,24 @@ for the fine/soft-mesh or rubberized-net fix.
   with the added why; it applies as much to the hard-bait presentations in
   the situations table above (Lucky Craft, HookUp Baits) as to bait rigs,
   since those use smaller trebles than a trap rig's stinger.
+
+- **The boatside panic moment — why halibut break off right at the rail, and
+  what NOT to do (Tackle Express, `akUrZ_OYy4c`, 2026-02-09; unregistered
+  channel, single mention — medium confidence):** stated pattern: on the last
+  stretch of the fight, especially with a **big fish (his stated examples: 30
+  in, 40 in class)**, a halibut will often just wind straight to the boat with
+  no real fight at all — until it **sees the boat**, at which point it has "a
+  moment of panic" and bolts. He calls this **the moment people pull hooks**:
+  the angler, having felt only a "good" pull without knowing the fish's size,
+  is caught off guard by the sudden run and reacts wrong in one of two
+  opposite ways — **slacking the line off** or **pulling too hard** against
+  the panicked run — both named as the wrong response, with no third,
+  correct response spelled out on camera beyond implying steady pressure.
+  This is the same no-pumping, steady-pressure family as the "keep them
+  asleep" light-drag doctrine above, from the same channel, but adds **the
+  boat itself** (not just hook shock) as a distinct trigger for the fish's
+  panic run, and names both overcorrections — too little pressure and too
+  much — rather than only the shock/slack mechanism.
 
 - **The hardware fix for the same problem — rethink the hook, not just the
   drag (Tackle Express, `Bok0db0G4xE`, 2026-05-07; unregistered channel,

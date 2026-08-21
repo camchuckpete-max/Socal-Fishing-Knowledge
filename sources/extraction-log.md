@@ -2622,7 +2622,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | aauujAuF1hc | Tackle Express | tutorial | parameter-skim | done | nothing extractable: auto-captions contain no usable speech (only Heat. Heat. and music) despite title suggesting a knot-tying tutorial |
 | af7a1tR2B84 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md +4 linked notes: new low-confidence Talica feature-rundown note (S Compact body, Infinity Drive, Hagane body), fixed one ASR-order inversion |
 | ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | done | skipped: pure store-promo/event announcement (toy drive), zero fishing knowledge content |
-| akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | pending |  |
+| akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: added boatside-panic-moment bullet (fight-technique addendum), medium confidence |
 | akX66b5WGZA | Tackle Express | tutorial | parameter-skim | pending |  |
 | aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | pending |  |
 | au3EkXJswY8 | Tackle Express | tutorial | parameter-skim | pending |  |
