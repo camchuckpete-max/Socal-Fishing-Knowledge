@@ -2464,7 +2464,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / Colt Sniper dual-mode cast-and-swim/cast-and-yo-yo doctrine plus smaller-profile Observed bullet merged in |
 | HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: auto-captions contain no fishing content, only stray word and music markers |
 | HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 30s on-the-water catch clip, only fragmented exclamations/names, no content clears curation bar |
-| IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | pending |  |
+| IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic freshwater/trout ultralight rod product ranking, no SoCal/Baja content, fails curation bar |
 | IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | pending |  |
 | IXHHNOX_t5Y | Tackle Express | tutorial | parameter-skim | pending |  |
 | IZHY3RXdyxg | Tackle Express | tutorial | parameter-skim | pending |  |
