@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, penn, drag, drag-setting, lever-drag, preset-drag, tackle-express]
-sources: [jFlAdWRj3HI]
+sources: [jFlAdWRj3HI, xL1sMpmWcnk]
 confidence: medium
 ---
 
@@ -32,11 +32,26 @@ Secret to Perfect Drag: Set It and Forget It!," `jFlAdWRj3HI`, uploaded
   it — minimizing how often an angler has to touch the drag at all once it's
   dialed in.
 
+**Physical contrast with the roll-style preset, and where pull-to-turn sits
+in Penn's own lineup (Tackle Express, `xL1sMpmWcnk`, "How to Set Drag on
+Lever Drag Reels PROPERLY (Avoid Damage!)," uploaded 2026-01-07, presenter
+unnamed on camera; unregistered channel — medium confidence, single mention
+of this specific contrast):** most lever-drag reels use a preset knob that
+simply **rolls forward or back** with a finger — per this clip, that includes
+both the two-speed reels it calls "Speedmaster" and the **Penn Fathom**
+("same exact lever drag circumstances" as the Speedmaster, including the
+free-spool-only rule above). **Pull-to-turn is a *different* Penn reel, not
+the Fathom** — the clip doesn't name which model — where the preset knob has
+to be **pulled outward before it will turn**, instead of rolling with a
+finger; no reason for the design difference is given on camera.
+
 ## Scope and gaps
 
-No reel model is named on camera — only "Penn." No numeric pull-to-turn ratio,
-line class beyond the 30 lb strike-drag example, or species/application
-context is given in this 38-second clip.
+No reel model is named on camera for the pull-to-turn reel itself — only
+"Penn" (the `xL1sMpmWcnk` clip above places the Penn Fathom on the roll-style
+side instead, so pull-to-turn is some other, unnamed Penn line). No numeric
+pull-to-turn ratio, line class beyond the 30 lb strike-drag example, or
+species/application context is given in either clip.
 
 ## Related
 

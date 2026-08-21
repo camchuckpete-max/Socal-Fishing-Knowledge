@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag, rod-rating]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU, dFRpcvkLmb0, ugML6PvRyc8]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU, dFRpcvkLmb0, ugML6PvRyc8, xL1sMpmWcnk]
 confidence: medium
 ---
 
@@ -115,23 +115,49 @@ rather than trying to click it up mid-tension.
 
 **The mechanical reason a lever drag can only be adjusted from free spool
 (Tackle Express, `M9_nvBPajDU`, "Never Touch Your Lever Drag While Fishing!
-Huge mistake revealed.," 2026-02-13; unregistered channel/speaker, single
-mention — medium confidence):** this source states as a flat rule, not a
-preference, why the free-spool-only workaround above exists — **never touch
-the lever-drag preset any time the reel is in gear**, anywhere on the lever's
-fulcrum short of the full free-spool position. Doing so **breaks the drag
-washer**, which degrades the reel's performance and can leave it unable to be
-fished properly when it's needed. **The only safe way to tighten or loosen is
-to send the reel all the way to free spool first**, adjust there, then move
-the lever back to the fishing position. Demonstrated on two-speed reels the
-presenter calls "Speed Masters" on camera (brand not otherwise confirmed in
-this clip), but framed as a lever-drag mechanism rule, not a model-specific
-quirk. This is a distinct claim from, and gives the mechanism behind, the
-"never touch the drag while the fish is running" doctrine logged
-further below (Art, `eehDVb6_GoI`) — that source's reasoning is about not
-knowing what tension you're dialing into mid-run; this one is about physical
-damage to the drag washer any time the lever is worked while in gear, running
-fish or not.
+Huge mistake revealed.," 2026-02-13; unregistered channel/speaker — medium
+confidence, now corroborated by an earlier same-channel clip, `xL1sMpmWcnk`,
+"How to Set Drag on Lever Drag Reels PROPERLY (Avoid Damage!)," uploaded
+2026-01-07, presenter unnamed on camera; unregistered channel stays capped at
+`medium` regardless of the repeat mention):** this source states as a flat
+rule, not a preference, why the free-spool-only workaround above exists —
+**never touch the lever-drag preset any time the reel is in gear**, anywhere
+on the lever's fulcrum short of the full free-spool position. Doing so
+**breaks the drag washer**, which degrades the reel's performance and can
+leave it unable to be fished properly when it's needed. **The only safe way
+to tighten or loosen is to send the reel all the way to free spool first**,
+adjust there, then move the lever back to the fishing position. Demonstrated
+on two-speed reels the presenter calls "Speed Masters" on camera (brand not
+otherwise confirmed in either clip), but framed as a lever-drag mechanism
+rule, not a model-specific quirk. This is a distinct claim from, and gives the
+mechanism behind, the "never touch the drag while the fish is running"
+doctrine logged further below (Art, `eehDVb6_GoI`) — that source's reasoning
+is about not knowing what tension you're dialing into mid-run; this one is
+about physical damage to the drag washer any time the lever is worked while
+in gear, running fish or not.
+
+**Three details the earlier `xL1sMpmWcnk` clip adds, not present in the later
+one:** (1) **the drag curve has a built-in mechanical stopper** — moving the
+lever up from free spool into the drag curve, "they'll have this little
+stopper here," described as a physical stop meant to keep an angler from
+getting "too excited" and rolling the preset too far forward and breaking the
+fish off. The clip's very next line describes reaching **full** by clicking a
+button past **strike**, so this stopper is most plausibly the same strike
+detent already logged above (Aaron Remy, `Psiiza6YQyE`) rather than a second,
+separate mechanism — the clip never states whether the two are the same or
+different, so that identification is not asserted as certain here;
+(2) **the free-spool-only rule is also confirmed on the Penn Fathom** — "same
+exact lever drag circumstances" as the Speedmaster — extending the rule
+beyond a single named reel line; (3) for **more** drag mid-fight, the stated
+path is not free spool at all: from strike, click the lever's release button
+and roll forward toward full, which is described as **incrementally
+increasing** drag pressure rather than jumping straight to a maximum — the
+same button-release mechanism Captain Aaron Remy names for reaching full past
+strike (`Psiiza6YQyE`, above), here described as gradual rather than an
+instant jump. **Penn's own "pull to turn" preset design is a different Penn
+reel from the Fathom** — see [Penn's "pull to turn" preset
+drag](tackle-express-penn-pull-to-turn-preset-drag.md) for that contrast, also
+sourced to this clip.
 
 **Left-hand-forward hand position (same source):** fighting a fish on a
 conventional reel, the left hand (line-guiding hand) belongs **in front of

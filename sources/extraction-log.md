@@ -2797,7 +2797,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | done | none: 28s music-only clip, no spoken fishing content despite title |
 | x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | done | none: freshwater largemouth bass fishing, out of SoCal/Baja saltwater scope |
 | xFW2002SaQk | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md; techniques/wacky-rig.md: new wacky-rig technique note (bite detection), medium confidence |
-| xL1sMpmWcnk | Tackle Express | tutorial | parameter-skim | pending |  |
+| xL1sMpmWcnk | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md; tackle/tackle-express-penn-pull-to-turn-preset-drag.md: corroborated free-spool-only rule, added Penn Fathom roll-vs-pull-to-turn contrast, fixed invented stopper distinction |
 | x_3ohQ_D-f8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | xfPcA1VRgsw | Tackle Express | tutorial | parameter-skim | pending |  |
 | xgPEt4Zj35Q | Tackle Express | tutorial | parameter-skim | pending |  |
