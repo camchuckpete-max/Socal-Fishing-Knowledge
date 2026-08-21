@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -38,6 +38,15 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   Corroborates the durability framing above (the buried-spring rigging
   landing roughly 10x the fish per bait) with an independent multi-trip data
   point. Unregistered channel — medium confidence.
+- **BKK Titan Diver / Titan Diver Plus hooks (Tackle Express, `L_YH_xT7Pfs`,
+  2025-06-23; unregistered channel, promotional — low confidence):** see [BKK
+  Titan Diver swimbait hooks](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
+  for hook-specific hardware toward the same rigging goal as the springs/
+  grommet above — a center-pin locking spring, a removable underspin blade, a
+  slidable bait-keeper grommet, and on the "Plus" line a slidable/removable
+  weight built onto the hook. The standard Titan Diver is sized for lighter
+  finesse work (as small as size 1) and is called out by name as a good fit
+  for a **Keitech 2.8**.
 - **Keel-weight selection** — weights come **half oz, 3/4 oz, or nano**; the
   heavier **3/4 oz** is preferred (Landesfeind) because it **keeps the bait in
   the water while you wind fast**. Go lighter (half oz / nano) for a slower,
@@ -310,6 +319,7 @@ baits and heads from the class terms above; see
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cheater Troll](../techniques/cheater-troll.md)

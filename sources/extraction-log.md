@@ -2492,7 +2492,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | LB9sUjDcRUw | Tackle Express | tutorial | parameter-skim | done | none / 11-second clip, ASR captured only 'uh', no fishing content or rationale stated |
 | LKOL9g-qhSM | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: freshwater tournament-bass content, no SoCal/Baja saltwater knowledge present |
 | LRRoGT2W4WY | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / merged O-ring/band placement parameter (bottom of egg-sack smooth section, closer to head; balance-driven; same across 4-in/5-in/Senko) |
-| L_YH_xT7Pfs | Tackle Express | tutorial | parameter-skim | pending |  |
+| L_YH_xT7Pfs | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md; tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md / new tackle note for BKK Titan Diver/Titan Diver Plus swimbait hooks, linked from soft-plastic-swimbaits.md |
 | Lj2NCznK7Zg | Tackle Express | tutorial | parameter-skim | pending |  |
 | LoJu3OYs20o | Tackle Express | tutorial | parameter-skim | pending |  |
 | M2qZiY2lR98 | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -46,6 +46,7 @@
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Tackle Express, "Meet the Accurate Valiant 2 SPJ – Built for Slow Pitch Power!," A6-KPjRwGSQ, uploaded 2025-06-24 — a 92-second product feature rundown for one
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md) — Tackle Express (IcS7QbJlSDA, "Stop wasting time at the bait tank when the bite is ON!," uploaded 2026-03-25, 36 s; unregistered channel — medium confidence).
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md) — Tackle Express, "Unlock Backlash-Free Casts: Harry's Take on Bates EDC 100 Reel & D.A.B.
+- [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md) — Tackle Express, "Level Up Your Swimbait Game with THIS Hook" (L_YH_xT7Pfs, uploaded 2025-06-23, 93 s) — a straight product-feature rundown of two BKK swimbait-h
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Tackle Express, "A look at ICAST 2022 - The World's Largest Fishing Tradeshow," 75lUj-uaArQ, uploaded 2022-08-06 — an 85-minute booth-to-booth walk of the 2022
@@ -64,5 +65,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 54 notes exceed the 30-node cap._
+_Map skipped: 55 notes exceed the 30-node cap._
 <!-- mermaid:end -->
