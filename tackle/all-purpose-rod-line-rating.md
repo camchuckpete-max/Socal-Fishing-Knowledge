@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, buying-guide, line-rating, all-purpose, summer, retail, beginner]
-sources: [7L7OVoXE7KU, DfLcSS-J3g4, dfv6S7RQ_bs]
+sources: [7L7OVoXE7KU, DfLcSS-J3g4, dfv6S7RQ_bs, qh3hL2Dt3HY]
 confidence: medium
 ---
 
@@ -116,6 +116,41 @@ specific class recommendation and reasoning:
   materials](rod-blank-and-component-materials.md) for graphite vs.
   fiberglass vs. composite blanks, aluminum vs. graphite reel seats, and grip
   material trade-offs, all from this same source.
+
+## An earlier, matched beginner combo — a 30–60 lb rod fished at 30–40 lb (Tackle Express, qh3hL2Dt3HY)
+
+Tackle Express (`qh3hL2Dt3HY`, "Saltwater Fishing Basics for Southern
+California," uploaded 2024-01-12, presenter named on camera as "Harry";
+unregistered channel, single mention — medium confidence). A beginner
+buying-guide segment aimed at someone booking their first SoCal charter,
+predating the two clips above by roughly two years, working the same
+fish-the-middle logic through a concrete, matched rod+reel+line example
+rather than a rule stated in the abstract:
+
+- **Reel:** a **Daiwa Seagate, 35 size**, called "an extremely all-around
+  reel out here on the West Coast," retailing at **$149.99** — an entry
+  price point framed explicitly for a beginner who "does not need to break
+  the bank." (Specific model/price — a product recommendation, so this
+  detail alone stays low confidence per the sponsored-claim norm, even
+  though the channel isn't shown disclosing a sponsorship here.) Spooled
+  with **50–65 lb braided line, yielding 3–400 yd**; the stated reason for a
+  conventional over a spinning reel, and for keeping the reel filled that
+  deep, is covered separately below.
+- **Rod:** a **7'6" Okuma PCH**, rated **30–60 lb test**, called "extremely
+  universal" for West Coast SoCal fishing. This is an earlier, independent
+  sighting of the same **Okuma PCH** rod series already logged (with the
+  brand flagged asr-uncertain there) in [rod & reel selection — long-range
+  yellowtail rod/line/leader](rod-and-reel-selection.md#long-range-yellowtail-rodlineleader--tackle-tip-thursday-darren-searchersportfishing)
+  — this clip states "Okuma PCH" clearly on camera, which resolves that
+  flag: **Okuma PCH is a real, named rod series**, fished here at a
+  different, 7'6"/30–60 lb build than Darren's own 7'6" yellowtail stick
+  (line class not stated for Darren's rod).
+- **The middle-of-the-rating pick, stated directly:** "30, 40 lb test is
+  going to be our most used fishing line" in SoCal, and on a 30–60 lb-rated
+  blank "the 30 and 40 fit right in the middle, which is perfect" — the
+  identical fish-the-middle rule as the 15–40 lb and 20–40 lb examples
+  above, now with a third rating (30–60 lb) and its own middle (30–40 lb) as
+  a further, earlier-dated data point.
 
 ## Double up with a dedicated island rod
 

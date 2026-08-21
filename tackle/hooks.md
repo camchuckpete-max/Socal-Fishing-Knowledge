@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc, qHS-ewTQs9Q]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc, qHS-ewTQs9Q, qh3hL2Dt3HY]
 confidence: medium
 ---
 
@@ -326,6 +326,16 @@ and why anglers reach for it.
   size: it still needs a hookset, but not a hard swing ("I don't mean swing
   for the fence") — let the bait get bit, put the reel in gear, wind, wind,
   then **lift the rod**, which is called "more than enough to set the hook."
+  **Both `IZHY3RXdyxg` and `PciIsDkBgj4` traced to their full-length source
+  (Tackle Express, `qh3hL2Dt3HY`, "Saltwater Fishing Basics for Southern
+  California," uploaded 2024-01-12, presenter named on camera as "Harry";
+  unregistered channel — medium confidence):** this 10-minute beginner-gear
+  overview carries the identical circle-vs-J framing and the identical "nine
+  times out of 10... lift Your Rod," "I don't mean swing for the fence," and
+  "lifting the rod is more than enough to set the hook" wording word for
+  word — both 2026 shorts are re-cuts of this ~2024 video, not independent
+  sightings; all three video IDs are logged here for the one underlying
+  claim.
 
 ### Downsize the hook, not the line, to save a slow bluefin bite (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
 
@@ -496,6 +506,12 @@ fragile bait," needs the opposite: size down to a smaller, lighter hook so
 hooking it doesn't damage it. Same bait-sets-the-hook-size conclusion as the
 table above, framed here around bait durability/damage risk specifically,
 alongside the weight/visibility mechanism already given for anchovy above.
+**Traced to its full-length source (Tackle Express, `qh3hL2Dt3HY`, "Saltwater
+Fishing Basics for Southern California," uploaded 2024-01-12; unregistered
+channel — medium confidence):** `h311A3s-dkY` is a re-cut of this earlier,
+~2024 beginner-gear video — same "truck along no issue" / "delicate, fragile
+bait" wording, word for word — not an independent sighting; both video IDs
+carry the same claim.
 
 ### Bluefin, first trip
 

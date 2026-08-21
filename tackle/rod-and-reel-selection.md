@@ -381,7 +381,10 @@ on a long-range trip:
   (Okuma Fishing Tackle USA, `55IthpZZx9k`); the corroboration is the series
   name only; a 7'6" standing-rod build for yellowtail is a distinct product
   in that same series from the bent-butt game-chair rod, so still flagged
-  `asr-uncertain` on the brand read).
+  `asr-uncertain` on the brand read — though a separate, clearly-spoken
+  "Okuma PCH" citation for a different 7'6" build, rated 30–60 lb, now
+  resolves the brand itself: see [all-purpose rod line rating](all-purpose-rod-line-rating.md),
+  the "earlier, matched beginner combo" section).
 - **Line:** 65 lb braid main line to a 60 lb fluorocarbon leader.
 - **Stated reason:** durability under sustained drag pressure — "you can pull
   on those things like there's no tomorrow" — given as his personal go-to,

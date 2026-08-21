@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo, p9YYIb4GKHM]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo, p9YYIb4GKHM, qh3hL2Dt3HY]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -121,6 +121,26 @@ built around **feeling the bite from depth**:
   independent corroboration, per the re-cut/duplicated-footage rule; its
   video ID is logged here alongside `S9sQ8Vg8-5o` for this claim.
 
+- **Conventional over spinning for deep vertical work — a guide-position
+  mechanism (Tackle Express, `qh3hL2Dt3HY`, "Saltwater Fishing Basics for
+  Southern California," 2024-01-12; unregistered channel — medium
+  confidence):** asked on camera whether a beginner should use a spinning
+  rod for SoCal charter fishing, the stated answer is no, reasoned from how
+  each reel type sits on the blank rather than from casting or drag. On a
+  **conventional** rod the reel sits on top and the line runs off the top
+  of the blank, so cranking up from depth — his example, **700 vertical
+  ft** of water on the captain's call — means the angler can simply rest the
+  reel handle on the rail and wind. On a **spinning** rod the reel hangs
+  underneath, so the guides sit on the bottom of the blank and the **line**
+  is what touches the rail first on a long vertical retrieve — line resting
+  and dragging against the rail over hundreds of feet of cranking is "much
+  more likely" to abrade, damage, or break, costing the fish. This is a
+  rail-contact/line-damage reason, distinct from the fatigue (two-speed),
+  torque (reel body size), and leverage/rail-hauling (rod length) reasons
+  already logged above for the same deep-vertical application — a fourth,
+  separate mechanism pointing the same direction (conventional gear for
+  bottom work at depth).
+
 ## Rigs — three ways to fish the bottom
 
 - **Dropper-loop gangion** (bait/Gulp): 40 lb main line, **two dropper loops
@@ -213,6 +233,12 @@ built around **feeling the bite from depth**:
   on a dropper loop** — weight on the bottom, a small leader, then the hook —
   naming the rig choice this weight class drives rather than adding new rig
   detail beyond what's already built out in [dropper loop](dropper-loop.md).
+  **Traced to its full-length source (Tackle Express, `qh3hL2Dt3HY`,
+  "Saltwater Fishing Basics for Southern California," uploaded 2024-01-12;
+  unregistered channel — medium confidence):** `nwjIEWJyjKU` is a re-cut of
+  this earlier, ~2024 beginner-gear video — the 60–100 ft/6–10 oz and
+  600–700 ft/16 oz figures and the dropper-loop naming match word for word —
+  not an independent sighting; both video IDs carry the same claim.
 - **Moving spot to spot:** wrap the sinker's tag line **4–5 tight wraps**
   around the rubber of the reel handle (hook left off) to stow the rig
   without a hook swinging loose while running between spots.

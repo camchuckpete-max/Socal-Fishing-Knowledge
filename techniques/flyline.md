@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms, fcdWAo0VAKw, 8TO-tuYjwWk]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms, fcdWAo0VAKw, 8TO-tuYjwWk, qh3hL2Dt3HY]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -350,6 +350,21 @@ isn't yet repeated doctrine).
   same session's fly-lined sardines were also **butt-hooked**, called out on
   camera as making the bait "swim down deep" — consistent with, not new beyond,
   the butt-hook mechanism in "Hook position by situation" above.
+- **A stated reason for the same weighted-flyline exception — no visible sign,
+  probing blind for fish sitting deeper (Tackle Express, `qh3hL2Dt3HY`,
+  "Saltwater Fishing Basics for Southern California," 2024-01-12;
+  unregistered channel — medium confidence):** distinct from the two
+  observed, grade/current-driven weight adds above — this is doctrine, a
+  reason given on camera rather than an outcome alone. On a day with **not a
+  lot of action, no birds working, and no visible sign of fish**, the read is
+  that the fish "might just be a little lower in the water column," and the
+  fix is to add a **small sliding egg sinker** to the otherwise-unweighted
+  fly-lined bait to get it down "just a little bit further" — framed as a
+  small adjustment that "can sometimes make or break your trip." No specific
+  weight is given on camera; the trigger is the *absence* of surface sign
+  (not a stated fish grade or current, as in the two observed exceptions
+  above), kept side by side as a third, separately-reasoned exception to the
+  no-weight default rather than merged into either.
 - **Observed** (StokedOnFishing, 2016-12-16, East Cape, Baja California Sur —
   Hotel Buena Vista Beach Resort trip, `mL4Ph7t0WcQ`): flylined **squid**
   (no weight, slow-drifted back from the boat, likened on camera to a chunk

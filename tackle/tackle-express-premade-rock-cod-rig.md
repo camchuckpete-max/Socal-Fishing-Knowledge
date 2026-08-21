@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rockfish, rock-cod, gangion, dropper-loop, premade-rig, torpedo-sinker, p-line]
-sources: [aqZxUmefwcw]
+sources: [aqZxUmefwcw, qh3hL2Dt3HY]
 confidence: medium
 ---
 
@@ -14,8 +14,20 @@ rig** — the packaged, factory-tied alternative to hand-tying a
 [dropper-loop gangion](../techniques/dropper-loop.md#rock-cod-quick-gangion-dave-hansen-build),
 already namedropped as an option ("a premade Berkley or P-Line rock cod
 rig") in [rockfish leader line](tackle-express-rockfish-leader-line.md).
-This clip is the first source in the corpus to describe the package's actual
-construction rather than just naming it as an option.
+
+**Earlier-dated citation of the identical construction (Tackle Express,
+`qh3hL2Dt3HY`, "Saltwater Fishing Basics for Southern California," uploaded
+2024-01-12; unregistered channel — medium confidence):** predates
+`aqZxUmefwcw` by about two years and describes the same package
+construction in the same terms — captions render the brand "Pine rock cod
+rig[s]" here too (the same P-Line ASR reading) — two swivels on the back of
+the package, one for tying the main line, one with a clip for the torpedo
+sinker, hooks already tied into the leader between them; bait a little
+squid and drop straight to the bottom. This corrects the `aqZxUmefwcw`
+clip's status as "the first source in the corpus to describe the package's
+actual construction" — `qh3hL2Dt3HY` is the earlier-dated source for that
+construction detail, not a re-cut of `aqZxUmefwcw` (different footage, same
+underlying claim, presenter named "Harry" in the earlier video).
 
 - **Package construction — two swivels.** The backside of the package carries
   a swivel at each end of the pre-tied leader: one swivel at the top for

@@ -2756,7 +2756,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | qLKLlZdiflA | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md; rigging/rubber-band-deep-rig.md; techniques/flat-fall-jigging.md; techniques/knife-jigging.md; techniques/leadhead-swimbait-retrieve.md: five parameter-skim additions (popper size, sinker-rig failure mode, calm/windy jig-weight split, seasonal jig progression, seabass slow-retrieve conflict); fixed one fabricated location detail |
 | qRrZakwbLoM | Tackle Express | tutorial | parameter-skim | done | none: clothing/apparel promotional content, out of scope per curation bar |
 | q_NMbHJ7QoQ | Tackle Express | tutorial | parameter-skim | done | none: freshwater lake bass-fishing tackle video, no SoCal/Baja saltwater content, out of scope |
-| qh3hL2Dt3HY | Tackle Express | tutorial | parameter-skim | pending |  |
+| qh3hL2Dt3HY | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; tackle/tackle-express-premade-rock-cod-rig.md; techniques/flyline.md; techniques/rockfish-deep-dropping.md: original source for 5 already-cited re-cut shorts; merged reel/rod combo, weighted-flyline trigger, conventional-vs-spinning mechanism, sinker-by-depth figures |
 | r7Bv49Ysgdw | Tackle Express | tutorial | parameter-skim | pending |  |
 | rBt096uru3U | Tackle Express | tutorial | parameter-skim | pending |  |
 | rd2Ia8HRbSg | Tackle Express | tutorial | parameter-skim | pending |  |
