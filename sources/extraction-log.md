@@ -2795,7 +2795,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; techniques/dropper-loop.md: verbatim re-cut of nRIAgz5G_Bc, logged as re-cut provenance, no new claims |
 | x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
 | x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | done | none: 28s music-only clip, no spoken fishing content despite title |
-| x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | done | none: freshwater largemouth bass fishing, out of SoCal/Baja saltwater scope |
 | xFW2002SaQk | Tackle Express | tutorial | parameter-skim | pending |  |
 | xL1sMpmWcnk | Tackle Express | tutorial | parameter-skim | pending |  |
 | x_3ohQ_D-f8 | Tackle Express | tutorial | parameter-skim | pending |  |
