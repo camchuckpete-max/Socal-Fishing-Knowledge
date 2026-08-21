@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, blank-construction, graphite, fiberglass, composite, reel-seat, grip, buying-guide, beginner, maintenance]
-sources: [DfLcSS-J3g4, TyxH9BBJ9U8]
+sources: [DfLcSS-J3g4, TyxH9BBJ9U8, U_jXfgsGBzM]
 confidence: medium
 ---
 
@@ -16,7 +16,12 @@ re-cut and reposted as a standalone 58-second short, "Is your fishing rod
 holding you back? Graphite vs. Fiberglass explained." (`TyxH9BBJ9U8`, uploaded
 2026-06-07) — identical wording, same on-camera speakers, same 00:06:24–00:07:41
 segment of the longer video; **not independent confirmation**, logged here only
-for provenance. Distinct from
+for provenance. The grip-material bullets below (bigger-hand/thicker-grip
+cushioning and the hand-cramping point specifically) were likewise re-cut and
+reposted as a third short, "Are you picking the wrong fishing rod handle? Stop
+the cramps!" (`U_jXfgsGBzM`, uploaded 2026-07-03, 35 s) — identical wording,
+same speakers, same ~00:15:22–00:15:56 segment of `DfLcSS-J3g4`; also **not
+independent confirmation**, logged for provenance only. Distinct from
 [composite rod blank construction](composite-rod-blank-construction.md), which
 covers why a composite blank's visible transition line is intentional — this
 note is the broader material comparison that clip's construction detail sits
