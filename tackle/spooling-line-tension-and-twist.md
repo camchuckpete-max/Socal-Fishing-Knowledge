@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine, wind-knots, line-lay]
-sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo]
+sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo, gn2yquuU6eM]
 confidence: medium
 ---
 
@@ -33,6 +33,15 @@ tight](../techniques/spinning-reel-wind-knots.md).
 - **Baitcasters specifically:** a loosely spooled reel is more prone to
   **backlash**, since a loose, fluffy wrap gives the line extra freedom of
   movement on the spool, on top of the same digging-into-itself risk.
+
+## Leader material isn't spool line (Tackle Express, `gn2yquuU6eM`, "Are you spooling your line wrong? Watch this fishing fix.," 2026-06-15; unregistered channel, single mention — medium confidence)
+
+A caution distinct from the tension mechanics above: winding bulk leader-grade
+fluorocarbon directly onto the reel as your working line, instead of an
+actual spooling line sized for casting, "is going to be like casting a hay
+bale" — a fluffy, tangled mess off the spool. Leader material stays leader
+material — tie it on at the business end (see [line & leader](line-and-leader.md))
+rather than filling the reel with it.
 
 ## Line twist — a spinning-reel-specific mechanism
 
@@ -146,6 +155,7 @@ without a dedicated tool:
 ## Linked from
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)

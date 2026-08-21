@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM]
 confidence: medium
 ---
 
@@ -351,6 +351,16 @@ Fluoro does two different jobs; keep them separate:
   the floating-line resistance dragging the bait off target (Ep16). It jumps off
   the spool until broken in (a couple trips, or use conditioner). **Keep light
   fluoro out of a hot garage** — heat breaks it down; store 8–10 lb line indoors.
+- **Buy Japan-made fluorocarbon — a shop rule of thumb (Tackle Express,
+  `gn2yquuU6eM`, "Are you spooling your line wrong? Watch this fishing fix.,"
+  2026-06-15; unregistered channel, product-endorsement framing — low
+  confidence):** stated preference for fluorocarbon leader material
+  manufactured in Japan over other origins, no mechanism given on camera.
+  Two named examples, both manufactured by Sunline: **Aftco Psycho** and
+  **Sunline FC Sniper** — "they make fantastic products." A brand-preference
+  data point, not a tested claim; see also the spooling-mistake caution from
+  the same video in
+  [spooling line — tension and line-twist avoidance](spooling-line-tension-and-twist.md#leader-material-isnt-spool-line-tackle-express-gn2yquuu6em-are-you-spooling-your-line-wrong-watch-this-fishing-fix-2026-06-15-unregistered-channel-single-mention--medium-confidence).
 
 ### Length and weight, by application
 
