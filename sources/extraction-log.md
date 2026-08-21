@@ -2639,7 +2639,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | cZ3KlPWiPWw | Tackle Express | tutorial | parameter-skim | done | no KB destination: generic feather-descent/vertical-fish tip, no species/region/depth named, duplicates existing doctrine in techniques/rockfish-deep-dropping.md |
 | c_60Ms3QSMY | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md: added hard-bait treble-hook angler-safety section (long hemostats); techniques/inshore-crankbaits.md: cross-linked; evaluator corrected two invented-causal-mechanism bullets |
 | c_L2hqBXwYA | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): 72s generic Damiki Axe Blade tackle-shop product pitch, no species/technique/region stated; evaluator filled stale log row |
-| c_YgwlJdsSk | Tackle Express | tutorial | parameter-skim | pending |  |
+| c_YgwlJdsSk | Tackle Express | tutorial | parameter-skim | done | no KB destination: 34s freshwater ultra-light trout-rod (1-4lb) sizing tip, no SoCal/Baja content; evaluator filled stale log row |
 | d0fxBYmAnIk | Tackle Express | tutorial | parameter-skim | pending |  |
 | d31ID9JHgns | Tackle Express | tutorial | parameter-skim | pending |  |
 | d93vB_EBu30 | Tackle Express | tutorial | parameter-skim | pending |  |
