@@ -2513,7 +2513,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Nsc23Chy3xk | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped: freshwater bass/bluegill chartreuse-marker color theory, no SoCal/Baja saltwater content, fails curation bar |
 | O49WsHP4Zh0 | Tackle Express | tutorial | parameter-skim | done | techniques/sliding-sinker.md: Amended sliding-sinker technique note with a Tackle Express long-leader/loose-drag/no-cast build variant (medium confidence, unregistered channel); fixed inaccurate above cross-reference during review. |
 | O5t36yWGXCU | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped: freshwater ultralight-reel product rundown, no SoCal/Baja-specific content, fails curation bar |
-| OFEpEeFomp4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| OFEpEeFomp4 | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped freshwater ultralight trout gear rundown (no SoCal/Baja saltwater content) |
 | OKFUMvJbacE | Tackle Express | tutorial | parameter-skim | pending |  |
 | OURS05qEGcA | Tackle Express | tutorial | parameter-skim | pending |  |
 | OdRZIDBO6Mg | Tackle Express | tutorial | parameter-skim | pending |  |
