@@ -2486,7 +2486,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | KUsFT7tN-x0 | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md / added Warbaits Neck Breaker jig-head alternative to sliding-sinker section; fixed unsupported spinning-rod inference |
 | K_0AeM4OvuE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / merged full reel spec ladder, shift/drag/handle comparison; fixed two ASR-artifact inaccuracies |
 | KamUiykeRlU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / merged brand-lineup fit-variance and pain-test doctrine; trimmed redundant restatement |
-| KjVLn4cWHbc | Tackle Express | tutorial | parameter-skim | pending |  |
+| KjVLn4cWHbc | Tackle Express | tutorial | parameter-skim | done | planning/electronics-and-sounder.md / added bullet on running/stacking sounder marks depth-by-depth before committing to a stop |
 | KqluHwsDicw | Tackle Express | tutorial | parameter-skim | pending |  |
 | LAQZOoEUZA0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | LB9sUjDcRUw | Tackle Express | tutorial | parameter-skim | pending |  |
