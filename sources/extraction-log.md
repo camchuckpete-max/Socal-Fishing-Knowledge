@@ -2617,7 +2617,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | _eON-xT2mOE | Tackle Express | tutorial | parameter-skim | done | nothing extractable: duplicate re-cut of already-processed 5fxAN1Ofn8M (merged into species/sand-bass.md); bait/species never named, generic column/weight/thumb-tension params already covered in techniques/knife-jigging.md and techniques/flat-fall-jigging.md |
 | _rcxIWhNMSE | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md; lures/bay-bass-plastics.md: added lead-vs-tungsten weight/camouflage tip and re-cut-footage note to drop-shot.md; added C3 Baits sibling-product (ice pick/Joe Boo/teaser) mention to bay-bass-plastics.md |
 | aF_16nVNch4 | Tackle Express | tutorial | parameter-skim | done | none: correctly out-of-scope freshwater lake bass/thermocline/Diki-rig content; extraction-log row completed with skip reason matching sibling skip pattern |
-| aFsyWOLIM48 | Tackle Express | tutorial | parameter-skim | pending |  |
+| aFsyWOLIM48 | Tackle Express | tutorial | parameter-skim | done | skipped: no extractable content - 15s clip, captions are only [Applause] and a cut-off fragment; also out-of-region (striped bass) |
 | aKQqNbgISHY | Tackle Express | tutorial | parameter-skim | pending |  |
 | aauujAuF1hc | Tackle Express | tutorial | parameter-skim | pending |  |
 | af7a1tR2B84 | Tackle Express | tutorial | parameter-skim | pending |  |
