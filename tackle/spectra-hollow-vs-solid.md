@@ -132,4 +132,5 @@ two often travel together:
 - [Crimping — Sleeve Crimps for Heavy Leaders](../rigging/crimping.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 <!-- backlinks:end -->

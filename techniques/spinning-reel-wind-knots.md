@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [spinning-reel, wind-knots, casting, braid, bail]
-sources: [WeabGOvhgto, cAZRaGB_RRM, nlrSBi_hrrg, ntS17IEKyJ0]
+tags: [spinning-reel, wind-knots, casting, braid, bail, carrier-count]
+sources: [WeabGOvhgto, cAZRaGB_RRM, nlrSBi_hrrg, ntS17IEKyJ0, w5iryVkSe-0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -97,6 +97,38 @@ tackle box](../tackle/reel-maintenance.md#on-the-water-tackle-box--field-tools-a
 (for a loop that's already cinched down tight and needs picking loose) and
 [clearing a backlash](clearing-a-backlash.md) (for a full baitcaster/
 conventional bird's nest, not an isolated spinning-reel loop).
+
+## A third cause — braid construction (carrier count and breaking strength)
+
+A different, much shorter Tackle Express clip ties wind-knot frequency to the
+braid's own construction rather than to casting technique or spooling — a
+construction-side cause sitting alongside the casting-side cause above and
+the spool-setup causes in the sibling note. ("Sick of wind knots ruining your
+line? Here is the secret fix.," `w5iryVkSe-0`, uploaded 2026-06-23, 32 s;
+unregistered channel — medium confidence for the general claim below, low
+confidence for the specific product pick.)
+
+- **Stated rule:** "it is nearly impossible to prevent wind knots" on
+  **eight-carrier braid rated below 6-lb test** — the failure mode is framed
+  as getting worse as an eight-carrier line gets lighter than 6 lb.
+- **The clip's own fix:** step down to a **four-carrier** braid instead —
+  shown on camera is a 5-lb, .4 PE, four-carrier Major Craft Dangan, said to
+  work well on a 500 or 1,000 size spinning reel. Framed for **trout** (light
+  spinning, freshwater-oriented — matching this channel's other wind-knot
+  clips' freshwater framing) rather than a SoCal saltwater application, but
+  the underlying mechanism — carrier count interacting with breaking strength
+  to drive wind-knot frequency — is general to light braid on small spinning
+  reels and plausibly extends to SoCal light-tackle inshore work (e.g.
+  finesse gear for [bay bass](../lures/bay-bass-plastics.md)). Not
+  cross-confirmed by another source in this KB.
+- **Low confidence, product-specific part:** the Major Craft Dangan
+  recommendation itself reads as a product spotlight (the speaker is holding
+  and naming a specific spool on camera) rather than a stated general rule —
+  treat the product pick as low confidence per the promotional-claim rubric;
+  the carrier-count/breaking-strength rule above is the durable part.
+- See [hollow vs solid spectra](../tackle/spectra-hollow-vs-solid.md) for the
+  broader carrier-count construction axis (that note's kelp-cutting context is
+  unrelated to this wind-knot claim, which isn't covered there).
 
 ## Related
 
