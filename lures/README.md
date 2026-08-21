@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [A-Rig (Alabama Rig)](a-rig.md) **[SoCal only]** — The A-Rig — a freshwater-bass-style Alabama rig carrying several small swimbait heads off wire arms on one main line, presenting as a small bait ball rather tha
 - [Bay Bass Plastics](bay-bass-plastics.md) **[SoCal only]** — The small finesse soft-plastics class for the back bays: little scented sticks, flukes, and grubs fished slow and low for spotted bay bass (spotties) and the mi
 - [Cedar Plug](cedar-plug.md) **[SoCal only]** — The cedar plug is a plain weighted-nose wood cylinder — no bib, no rattle — that has caught tuna in SoCal/Baja for generations.
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md) **[SoCal only]** — The crocodile is a traditional cast-and-retrieve metal spoon shape — the same broad family as the Krocodile already named alongside the SoCal yo-yo irons — long
@@ -27,39 +28,42 @@
 
 ```mermaid
 graph LR
-  n0["Bay Bass Plastics"]
-  n1["Cedar Plug"]
-  n2["Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro"]
-  n3["DTX Minnow"]
-  n4["Halco Laser Pro"]
-  n5["Iron Jigs"]
-  n6["Jerkbaits (Baja Cabrilla Program)"]
-  n7["Knife Jigs"]
-  n8["Lucky Craft Flash Minnow"]
-  n9["Mad Mac"]
-  n10["Rapala Husky Magnum"]
-  n11["Soft-Plastic Swimbaits"]
-  n12["Spreader Bar"]
-  n13["Tuna Feathers and Skirts"]
-  n14["Tuna Poppers and Stickbaits"]
-  n1 --> n9
-  n10 --> n9
-  n11 --> n0
-  n12 --> n9
-  n13 --> n9
-  n14 --> n1
-  n14 --> n11
-  n14 --> n4
-  n14 --> n5
-  n14 --> n7
-  n2 --> n5
-  n3 --> n9
-  n4 --> n9
-  n5 --> n14
-  n5 --> n2
-  n5 --> n7
-  n6 --> n5
-  n7 --> n14
-  n7 --> n5
+  n0["A-Rig (Alabama Rig)"]
+  n1["Bay Bass Plastics"]
+  n2["Cedar Plug"]
+  n3["Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro"]
+  n4["DTX Minnow"]
+  n5["Halco Laser Pro"]
+  n6["Iron Jigs"]
+  n7["Jerkbaits (Baja Cabrilla Program)"]
+  n8["Knife Jigs"]
+  n9["Lucky Craft Flash Minnow"]
+  n10["Mad Mac"]
+  n11["Rapala Husky Magnum"]
+  n12["Soft-Plastic Swimbaits"]
+  n13["Spreader Bar"]
+  n14["Tuna Feathers and Skirts"]
+  n15["Tuna Poppers and Stickbaits"]
+  n0 --> n12
+  n11 --> n10
+  n12 --> n0
+  n12 --> n1
+  n13 --> n10
+  n14 --> n10
+  n15 --> n12
+  n15 --> n2
+  n15 --> n5
+  n15 --> n6
+  n15 --> n8
+  n2 --> n10
+  n3 --> n6
+  n4 --> n10
+  n5 --> n10
+  n6 --> n15
+  n6 --> n3
+  n6 --> n8
+  n7 --> n6
+  n8 --> n15
+  n8 --> n6
 ```
 <!-- mermaid:end -->
