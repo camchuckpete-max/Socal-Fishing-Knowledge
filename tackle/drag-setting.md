@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag, rod-rating]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU]
 confidence: medium
 ---
 
@@ -96,6 +96,26 @@ related but separate argument for the same reel type. **The SearcherSportfishing
 crew procedure below is the same "hard-to-fine-tune-on-a-lever-drag" problem
 solved a different way** — going all the way to free spool to reset the lever
 rather than trying to click it up mid-tension.
+
+**The mechanical reason a lever drag can only be adjusted from free spool
+(Tackle Express, `M9_nvBPajDU`, "Never Touch Your Lever Drag While Fishing!
+Huge mistake revealed.," 2026-02-13; unregistered channel/speaker, single
+mention — medium confidence):** this source states as a flat rule, not a
+preference, why the free-spool-only workaround above exists — **never touch
+the lever-drag preset any time the reel is in gear**, anywhere on the lever's
+fulcrum short of the full free-spool position. Doing so **breaks the drag
+washer**, which degrades the reel's performance and can leave it unable to be
+fished properly when it's needed. **The only safe way to tighten or loosen is
+to send the reel all the way to free spool first**, adjust there, then move
+the lever back to the fishing position. Demonstrated on two-speed reels the
+presenter calls "Speed Masters" on camera (brand not otherwise confirmed in
+this clip), but framed as a lever-drag mechanism rule, not a model-specific
+quirk. This is a distinct claim from, and gives the mechanism behind, the
+"never touch the drag while the fish is running" doctrine logged
+further below (Art, `eehDVb6_GoI`) — that source's reasoning is about not
+knowing what tension you're dialing into mid-run; this one is about physical
+damage to the drag washer any time the lever is worked while in gear, running
+fish or not.
 
 **Left-hand-forward hand position (same source):** fighting a fish on a
 conventional reel, the left hand (line-guiding hand) belongs **in front of
@@ -401,7 +421,12 @@ at that stage to finish it.
   don't know what tension you're actually dialing into on a lever drag mid-run
   (see the spool-diameter drag trap already logged above for a related
   reason not to trust a fixed lever position through a long run). Wait for
-  the fish to stop running before adjusting.
+  the fish to stop running before adjusting. **This is a judgment-call reason
+  for the same behavior a Tackle Express source states as a hard mechanical
+  rule above** (`M9_nvBPajDU`): touching the lever anywhere short of free
+  spool while the reel is in gear risks breaking the drag washer regardless of
+  whether a fish is currently running — the only safe adjustment path is
+  always back to free spool first.
 - **Hand the rod to a fresher angler rather than fight through fatigue** — "if
   you're tired and you've got a fish of a lifetime, forget the jackpot, give
   it to a young guy that's fresh" so the fish gets landed. The same

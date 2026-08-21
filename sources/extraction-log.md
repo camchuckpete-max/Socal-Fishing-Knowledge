@@ -2497,7 +2497,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | LoJu3OYs20o | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md / name-resolution (Tuna Propper) + mechanism-reason parameter added to existing Clear Choice TP entry, low confidence |
 | M2qZiY2lR98 | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md / added VMC Spin Shot swivel-hook as distinct hook option, medium confidence |
 | M4G8IKsZEFU | Tackle Express | tutorial | parameter-skim | done | lures/crocodile-spoons.md; lures/iron-jigs.md / new lure note for JP Standard/JP Micro crocodile-spoon swim-type distinction, linked from iron-jigs.md |
-| M9_nvBPajDU | Tackle Express | tutorial | parameter-skim | pending |  |
+| M9_nvBPajDU | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md / amended note with drag-washer damage mechanism for off-free-spool lever adjustment, cross-linked to existing judgment-call doctrine |
 | M9nIhEsKsqU | Tackle Express | tutorial | parameter-skim | pending |  |
 | ME2jrqS_5bo | Tackle Express | tutorial | parameter-skim | pending |  |
 | MKe-Xu4XsGk | Tackle Express | tutorial | parameter-skim | pending |  |
