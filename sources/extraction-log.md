@@ -2794,7 +2794,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | wk8bkqzdyM0 | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md: fourth re-cut of same interview, appended as duplicate-provenance paragraph |
 | wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; techniques/dropper-loop.md: verbatim re-cut of nRIAgz5G_Bc, logged as re-cut provenance, no new claims |
 | x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
-| x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | pending |  |
+| x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | done | none: 28s music-only clip, no spoken fishing content despite title |
 | x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | xFW2002SaQk | Tackle Express | tutorial | parameter-skim | pending |  |
 | xL1sMpmWcnk | Tackle Express | tutorial | parameter-skim | pending |  |
