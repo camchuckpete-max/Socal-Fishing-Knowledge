@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism, bottom-fishing]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4, nORwiYXBQmQ]
 confidence: medium
 ---
 
@@ -123,7 +123,14 @@ re-cut-footage rule — different clip, same channel).
   back down to return to high — described as "super quick, super easy."
   Fathom: Penn's own name for its mechanism is the **"quick shifter"** — click
   in for low; to return to high, "you don't even need to take your handle off
-  the reel."
+  the reel." A separate, later Tackle Express upload, "Speed Shift Showdown:
+  Shimano vs. Penn Reels!" (`nORwiYXBQmQ`, uploaded 2026-02-18, 33 s,
+  presenter unnamed on camera), covers this exact same shift comparison in
+  near-identical wording ("super quick, super easy," "quick shifter," "don't
+  even need to take your handle off the reel") — read as a re-cut of this
+  same demonstration rather than independent confirmation, per the
+  re-cut-footage rule. No specific reel size is named on camera in this clip
+  and no parameter beyond what's already given above is added.
 - **Drag adjustment — both reels, same lever-drag discipline.** Never adjust
   the preset drag while the lever is anywhere on the drag curve out of free
   spool — doing so "will break the drag washer" and affect performance. Drag
