@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8, jeJAsY_M0oc]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8, jeJAsY_M0oc, mgUjxUoGkZU]
 confidence: medium
 ---
 
@@ -85,6 +85,21 @@ Braid is the main line on essentially every SoCal setup. Choosing the class
   logic just above. Stated caveat: 65 lb holds fine in a straight pull **"if
   you're not rubbing against the side of the boat"** — the risk on the
   lighter class is hull abrasion, not breaking strength.
+  - **Companion clip, same crew, uploaded the day before, extending the
+    weight ladder (Tackle Express, `mgUjxUoGkZU`, "Is Your Fishing Line TOO STRONG?
+    45-Year Pro Weighs In.," 2026-02-04; unregistered channel — medium
+    confidence):** same two-person exchange, same **45-years-experience**
+    speaker, same never-broken-80-lb-by-pulling claim — read as the same
+    interview session split across two uploads one day apart, not
+    independent repetition of the claim. This clip adds the **heavier** end
+    of the same jig-weight-to-braid ladder: for **350 g jigs or heavier**,
+    stated preference is **80 lb braid**. Named contrast, not endorsed: "a
+    lot of guys want to fish 100 [or] 130" at that jig weight, which the
+    speaker frames as unnecessary — realistically you're never going to load
+    a rod-and-reel's drag hard enough to break 80 lb. Together with the
+    200 g-and-under → 65 lb pick just above, this gives a two-point ladder
+    (≤200 g → 65 lb; 350 g+ → 80 lb) rather than one data point; the 200–350 g
+    gap isn't addressed in either clip.
 
 ### Actual diameter over label — three different "20 lb" numbers (James Kikkawa, PCS Show 2024 "Jigging 101" panel, `Et2TUskzCSs`, uploaded 2024-03-16; unregistered channel/panel — medium confidence)
 
