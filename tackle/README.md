@@ -73,6 +73,7 @@
 - [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — Tackle Express, "Shimano Vanford FA: An Ultralight Reel Worth the Splurge!," cBATKqWkQws, uploaded 2025-01-28 — a 47-second, presenter-unnamed clip.
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md) — Tackle Express (James, on camera; Lj2NCznK7Zg, "Why This Braid Caught 100-lb Bluefin on the Shogun," uploaded 2026-06-22, 69 s).
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
+- [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](tackle-express-surf-halibut-rod-lineup.md) — Tackle Express, "Halibut Gear & Techniques | Beaches & Harbor Tips with Shannon Gallagher (Pt 4/4)," fHMwcm1xRQk, uploaded 2026-01-13.
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Tackle Express, "How to Catch a Trophy Bluefin Tuna on a Jig" (James, on camera; DuNkl8F45NE, uploaded 2022-06-04).
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md) — Tackle Express (Harry, Eo_bA8IWvyU, "Before You Fish for White Seabass — Watch This!
 <!-- index:end -->
@@ -81,5 +82,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 71 notes exceed the 30-node cap._
+_Map skipped: 72 notes exceed the 30-node cap._
 <!-- mermaid:end -->

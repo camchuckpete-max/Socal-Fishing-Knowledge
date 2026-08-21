@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut, hard-bait, treble-hook, angler-safety]
-sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E]
+sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E, fHMwcm1xRQk]
 confidence: medium
 ---
 
@@ -53,6 +53,28 @@ unregistered channel, single mention — medium confidence).
   this note carries the general net-choice rule since it isn't halibut-specific
   in application — any fish landed in a coarse rope net and released is
   exposed to the same fin damage.
+
+## Landing from shore — a grabber with a float tied on (Shannon Gallagher, Tackle Express, `fHMwcm1xRQk`, 2026-01-13; unregistered channel, single mention — medium confidence)
+
+A net "isn't practical" fished from the beach — you're not lugging one around
+surf/bay fishing on foot — so his stated tool instead is a **fish grabber**
+(a BOGA-grip-style lip gripper, or "even just a cheap grabber").
+
+- **Rig a small float onto the grabber** — his own example is a small
+  lobster-buoy-style **"mini football" float**. Stated reason: if the
+  grabber stays clipped to the fish and the **fish gets away** (breaks the
+  line, or otherwise separates from the angler) while still gripped, the
+  float keeps the rig **floating and visible**, giving the angler a chance
+  to recover it and the fish rather than losing both. He credits this small
+  addition with having "saved more fish for me than I can really express."
+- **Angler-safety reason, alongside the recovery reason:** grabbing the fish
+  rather than hand-holding it means not having to wrestle a "flying all
+  over the place" fish barehanded; landing is then pop the hook, release the
+  grabber, fish swims off — he also notes it avoids having to carry a
+  hooked/grabbed fish all the way back to the car before dealing with it.
+- Kept as the shore-specific counterpart to the boat-side landing-net-mesh
+  fix above; the two solve the same "get the fish under control without
+  hurting it" problem for different platforms.
 
 ## Hard-bait treble hooks — angler safety when unhooking (Tackle Express, `c_60Ms3QSMY`, 2026-05-09; unregistered channel, single mention — medium confidence)
 

@@ -646,6 +646,7 @@ able to break off** (aXF0bxAFtU0):
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
+- [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](tackle-express-surf-halibut-rod-lineup.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E, fHMwcm1xRQk]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -77,6 +77,23 @@ situation calls for it lives in the routers:
   covered in [beach depth control](beach-lure-depth-control.md).
 - **Sweep, don't swing** — on the bite, sweep the rod and keep winding; a
   bass-style hookset **pulls trebles** out of the fish.
+- **Load the rod by turning your hips and shoulders, not a rod-arm swing
+  (Shannon Gallagher, Tackle Express, `fHMwcm1xRQk`, 2026-01-13; unregistered
+  channel, single mention — medium confidence):** demonstrated on a **Major
+  Craft Sienna 962M** (9½ ft) winding a Lucky Craft-style minnow bait on
+  small **size-6 trebles** for [California
+  halibut](../species/california-halibut.md). On the bite he keeps winding
+  at the same speed and **turns his hips and shoulders smoothly** (his stated
+  emphasis: "not dramatically, just smoothly") instead of driving a rod-tip
+  hookset — his stated mechanism is that this **loads the rod**, and small,
+  sharp trebles "just get stuck" once that load is on. Through the fight he
+  keeps the **rod tip down, rod under his arm** — compared on camera to
+  fighting a bass — his stated reason is that a low rod tip **keeps the fish
+  mellow** rather than provoking the hard head-shakes that work a small
+  treble loose. Complements, rather than restates, the sweep-don't-swing
+  hookset rule above: that rule is about not driving a bass-style rod swing,
+  this is the specific body mechanic (hip/shoulder turn) he substitutes for
+  it on light minnow gear.
 - **Why treble hooks need "absorption" once a fish is pinned — sustained
   fight mechanics, not the hookset itself (Tackle Express, `dNn8U9LbL8c`,
   2026-03-16; unregistered channel, single mention — medium confidence):**
@@ -299,4 +316,5 @@ anglers skip.
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](../tackle/tackle-express-surf-halibut-rod-lineup.md)
 <!-- backlinks:end -->

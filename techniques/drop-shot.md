@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98, _XfScSliRVk, _rcxIWhNMSE]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98, _XfScSliRVk, _rcxIWhNMSE, fHMwcm1xRQk]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -159,6 +159,17 @@ This is a cadence layered onto the same rig built above (weight on bottom,
 bait suspended above it); the video does not give hook, weight, or leader
 specifics — for those, use the rig build above.
 
+**Why the beach build runs a longer leader (same presenter, `fHMwcm1xRQk`,
+2026-01-13; unregistered channel — medium confidence):** his stated reason
+for running a **slightly longer leader specifically when beach fishing** is
+the **angle of the beach itself**. Lifting the rod tip to shake the rig from
+a sloped beach doesn't lift hook and weight the same amount it would
+straight down off a boat or pier — the **weight can be sitting on the
+bottom while the lure end is only 2–3 in off it**, well short of the 6–10 in
+strike-zone spacing above. A longer leader restores separation the sloped
+bottom otherwise eats into. Kept as a beach-specific addendum to the
+hook-to-weight distance rule above, not a replacement for it.
+
 ## Hookset — take up slack first (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence)
 
 Drop shot's light spinning line is why beginners are told to learn bite-feel on
@@ -250,4 +261,5 @@ Light spinning / finesse-bottom class — see
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](../tackle/tackle-express-surf-halibut-rod-lineup.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -361,6 +361,11 @@ for the fine/soft-mesh or rubberized-net fix.
   islands/offshore; a **15 lb inshore rod** (the same rod you fish for spotties)
   for the bay. Halibut don't pull hard, so line class is about bait presentation
   and bottom contact, not brute strength. See [gear classes](../tackle/gear-classes.md).
+- **Surf rods, by lure class:** a light, moderate-action spinning rod (~9½ ft,
+  2500–3000 reel, PE1/~10 lb 8-carrier braid) covers both minnow hardbaits and
+  leadhead swimbaits from the beach; a heavier "striper rod" class (~9'6")
+  steps up for weedless swimbaits and bigger plugs in kelp — see [surf halibut
+  rod lineup](../tackle/tackle-express-surf-halibut-rod-lineup.md).
 - **Terminal:** **[trap rig](../rigging/trap-rig.md)** (a stout bait hook up front
   + a 3–4X-strong treble stinger) off a **three-way with a breakaway clip** so you
   swap sinkers by depth/current; **fluorocarbon leader** always; **ball/cannonball
@@ -404,6 +409,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](../tackle/tackle-express-surf-halibut-rod-lineup.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](white-seabass.md)
