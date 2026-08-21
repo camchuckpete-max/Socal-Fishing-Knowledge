@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY, sIoNELGlxmk]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY, sIoNELGlxmk, Vbf40qvH9-Q]
 confidence: high
 ---
 
@@ -108,6 +108,29 @@ small craft. Unregistered channel, single mention — medium confidence.
   diagnostics above being read at the depth that matters for the
   presentation in play.
 
+## Line scope — reading and correcting drift off vertical
+
+**Scope** is the line getting pulled off vertical and taken out toward the
+horizon as the boat drifts, rather than staying straight up and down over the
+mark. Keeping the line as close to vertical as possible matters for two
+stated reasons: bite feel drops off the more the line scopes out, and once
+scoped, there's more slack built up between rod tip and bait to catch up on
+when a bite does come, costing hookups. Perfectly vertical isn't always
+achievable, but the corrective habit is to cycle the presentation — **drop it
+down, wind it up, drop it back down** — rather than leaving it to scope out
+unattended; if it does get away and ends up too far out on the horizon, **wind
+it in and drop it back down** to reset vertical, rather than continuing to
+fish it scoped out (Tackle Express, `Vbf40qvH9-Q`,
+2026-04-04; unregistered channel, single mention — medium confidence).
+
+This is the same drop/wind/drop corrective cadence already documented for
+[yo-yo iron](../techniques/yo-yo-iron.md#mechanics) (thumbing the spool so
+the iron "tracks straight down rather than scoping away from the boat") and
+[flat-fall jigging](../techniques/flat-fall-jigging.md#tracking-depth-on-the-drop--markedcolored-line-and-why-line-out-isnt-true-depth-searchersportfishing-tackle-talk-live-with-team-searcher-lf3s28nh-kk-2021-03-26-searcher-sportfishing-registered-channel--medium-confidence-single-mention)
+(line-out isn't true depth once the jig trails away from vertical on the
+drift) — a general vertical-presentation read/fix, not specific to one
+technique.
+
 ## Current break: visual ID
 
 **Observed** (Capt. Dave Hansen, Your Saltwater Guide, 2021-01-28, Cabo San
@@ -137,6 +160,7 @@ framework this SoCal-bight note otherwise focuses on.
 - [Bass Structure](../locations/bass-structure.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Current Structure](current-structure.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Island Structure](../locations/island-structure.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea State](sea-state.md)

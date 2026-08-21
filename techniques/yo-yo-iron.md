@@ -41,7 +41,8 @@ the reverse map in **Linked from** below.
 - Position up-current of the mark so the drop sweeps down onto the structure.
 - **Free-spool the iron straight to the mark** (or to the bottom), thumbing the
   spool so it falls under light tension and tracks straight down rather than
-  scoping away from the boat.
+  [scoping](../conditions/current-diagnostics.md#line-scope--reading-and-correcting-drift-off-vertical)
+  away from the boat.
 - The retrieve is one thing: **wind as fast as you can, all the way up.** The
   strike is a reaction to the fleeing iron — there's no finesse cadence, the
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
@@ -708,6 +709,7 @@ the reverse map in **Linked from** below.
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Dropper Loop](dropper-loop.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)

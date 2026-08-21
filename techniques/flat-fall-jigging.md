@@ -210,7 +210,9 @@ Asked whether colored depth line is worth running for flat-fall fishing:
   and away from a straight vertical drop as the boat moves, so reaching a
   180 ft mark on the line does **not** mean the jig is actually 180 ft down
   — actual depth runs shallower than the footage paid out. Read a marked or
-  colored line as a line-out count, not a depth gauge.
+  colored line as a line-out count, not a depth gauge. The same
+  [scope](../conditions/current-diagnostics.md#line-scope--reading-and-correcting-drift-off-vertical)
+  effect this note's wind-halfway/re-drop cadence above is already managing.
 
 Full outfit context for this same seminar — including the rod/reel pairing,
 the 300 g glow flat-fall example, and this session's leader guidance — is in
@@ -268,6 +270,7 @@ to, the 200 lb mono/large-swivel crimped leader already logged above.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

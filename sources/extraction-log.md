@@ -2586,7 +2586,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | V54mcLzTubc | Tackle Express | tutorial | parameter-skim | done | none / freshwater trout clip, 20s auto-caption fragment only, no SoCal/Baja saltwater content — nothing extractable |
 | VH5_kvuGGQY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater bass Senko/Neko-worm tackle talk, no SoCal/Baja saltwater content, fragment ends before payoff |
 | V_WjP52OJ7M | Tackle Express | tutorial | parameter-skim | done | none / transcript contains no substantive content (music-only, no speech); correctly skipped |
-| Vbf40qvH9-Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| Vbf40qvH9-Q | Tackle Express | tutorial | parameter-skim | done | conditions/current-diagnostics.md; techniques/flat-fall-jigging.md; techniques/yo-yo-iron.md / new Line scope cross-technique subsection added to current-diagnostics.md, backlinked from yo-yo-iron.md and flat-fall-jigging.md |
 | Vjdv8o7otKY | Tackle Express | tutorial | parameter-skim | pending |  |
 | Vl0BuetK2D0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | VotK9jwqRJ8 | Tackle Express | tutorial | parameter-skim | pending |  |
