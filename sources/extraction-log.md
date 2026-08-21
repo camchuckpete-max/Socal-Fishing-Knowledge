@@ -2761,7 +2761,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | rBt096uru3U | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-phenix-axis-rockfish-rod.md; tackle/rod-length-for-angler-size.md; techniques/rockfish-deep-dropping.md: new Phenix Axis rockfish rod note (7'8 heavy, 25-60lb), cross-linked as side-by-side product example |
 | rd2Ia8HRbSg | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; lures/soft-plastic-swimbaits.md: re-cut of already-logged 9kGpcEHqIUc/_C7TJoGT0nw Cedros interview, added as provenance-only citations, no new doctrine |
 | reG4Xc91Mj4 | Tackle Express | tutorial | parameter-skim | done | none: transcript is song lyrics only, no fishing content, nothing extractable |
-| reZBk4GsH_o | Tackle Express | tutorial | parameter-skim | pending |  |
+| reZBk4GsH_o | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md: added wide-gap-vs-long-shank hook + O-ring rigging bullet to existing O-ring cluster |
 | rlZVbEO3WyQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | rvmr9Jy9RjI | Tackle Express | tutorial | parameter-skim | pending |  |
 | rxoaPT5Zaog | Tackle Express | tutorial | parameter-skim | pending |  |

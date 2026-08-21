@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -119,6 +119,23 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   egg-sack section. No species or location named on camera; kept alongside,
   not merged into, the O-ring sizing bullet above since that bullet covers
   which O-ring size to use and this one covers where to place it.
+- **Hook style: wide-gap finesse hook over a long-shank, inserted under the
+  O-ring (Tackle Express, `reZBk4GsH_o`, "Why you should ditch long shank
+  hooks for your soft plastics," 2026-04-08; unregistered channel, single
+  mention — medium confidence).** On this same worm-style plastic, the
+  stated pick is a **wide-gap** hook — named as the **Gamakatsu wide-gap
+  finesse hook**, with a VMC hook shown as the equivalent (captioned as a
+  "wacky" version; `asr-uncertain`, not confirmed as a specific VMC model
+  name). Framed as a settled personal preference rather than a claim that
+  long-shank hooks fail: "there's no need for a long shank hook... I haven't
+  needed it, this hook hooks them so good," and "after you know through the
+  years you find out what works and you stick with it" — no reason to
+  change, not a statement that the long-shank alternative doesn't work.
+  **Rigging:** the point goes in **right under the O-ring** — consistent
+  with the O-ring keeper hardware already logged above (`-zw76Sh7YCI`,
+  `LRRoGT2W4WY`). **Point orientation doesn't matter:** asked on camera
+  whether it matters which way the hook point faces, the stated answer is
+  no.
 - **Colors:** color matters little — a **green-top / gold-bottom ("hot koch")** is
   a confidence pattern that works cloudy or sunny, warm or cold. Carry a natural
   (green/gold, sardine) and a dark. Fish what you believe in.
