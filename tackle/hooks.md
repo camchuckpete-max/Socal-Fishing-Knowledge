@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc, qHS-ewTQs9Q]
 confidence: medium
 ---
 
@@ -833,6 +833,19 @@ described on camera as big enough that once a fish engulfed the bait "you
 can't even see the mackerel anymore." The stated reasoning was explicitly
 about covering a bait-size range, not a single fixed hook for the
 application.
+
+**Further re-cut, short-clip restatement (Tackle Express, `qHS-ewTQs9Q`,
+"Tired of reeling yellowtail? Try this pro mackerel strategy," 2026-05-10;
+unregistered channel — medium confidence):** a 39-second clip of the same
+Toro/Cedros trip, giving the same reason for switching to slow-trolled
+mackerel (arms tired after "four or five yellowtail" on iron — see
+[slow-trolling live bait](../techniques/slow-trolling-bait.md#cedros-island-baja-pacific--mackerel-bait-and-switch-a-break-from-casting))
+and restating the same **Owner ringed offshore hook** lineup and the same
+15-in-mackerel / "you can't even see the mackerel anymore" detail; not
+counted as independent confirmation. This clip's auto-captions render the
+hook sizes as **"1.0, 3.0, 5.0"** rather than "10, 30, 50" — read here as an
+ASR-rendering difference for the same **1/0, 3/0, 5/0** progression rather
+than a new data point (not reconciled into the text above).
 
 ### Baja, Sea of Cortez sizing
 
