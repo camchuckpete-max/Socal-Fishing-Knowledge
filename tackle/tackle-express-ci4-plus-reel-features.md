@@ -68,4 +68,5 @@ application (species/technique/line class) is given in this clip.
 ## Linked from
 
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 <!-- backlinks:end -->
