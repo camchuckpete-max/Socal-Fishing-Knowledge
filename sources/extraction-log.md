@@ -2714,7 +2714,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | k_ocIsSD6vQ | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 31s freshwater largemouth-bass ice pick soft-plastic color tip, out of SoCal/Baja saltwater scope, fails curation bar |
 | klb0VSg_I3w | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / War Baits A-Rig (bladed vs non-bladed) merged into jig-head-selection subsection |
 | kt3G72gUldM | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md / single-hook Current Sniper conversion (BKK Lone Sniper 3/0/2/0, barbless) added as conflicting rigging choice beside existing stock-treble guidance |
-| kuIKWNZ3Koo | Tackle Express | tutorial | parameter-skim | pending |  |
+| kuIKWNZ3Koo | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass PB rats wake-bait plug, no SoCal/Baja saltwater content - nothing extractable |
 | lNXZD79BvJY | Tackle Express | tutorial | parameter-skim | pending |  |
 | lYnD_MiALL8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | pending |  |
