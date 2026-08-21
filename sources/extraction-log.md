@@ -2693,7 +2693,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hjZ3hgq0Bzg | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md; species/california-halibut.md; species/white-seabass.md; techniques/leadhead-swimbait-retrieve.md; techniques/swimbaits.md — tackle/rig/retrieve-mechanics extraction merged into existing fluke-lure notes, with two faithfulness fixes applied |
 | hkUH9vkt68Q | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 94s celebratory first-catch clip, no technique/parameter/decision content |
 | hmz8n_9MzZA | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable (evaluator apply-with-changes): 36s clip, no species qualifier beyond bare 'bass', no SoCal/Baja/saltwater marker, matches channel's freshwater-bass pattern |
-| hokc5FLmSjA | Tackle Express | tutorial | parameter-skim | pending |  |
+| hokc5FLmSjA | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: Deps Spiral Minnow is very likely a freshwater bass wake-bait (same-day companion to confirmed-freshwater Deps Buzzjet, same channel/presenter); no SoCal/Baja content in transcript |
 | i4rJy9Uwb-U | Tackle Express | tutorial | parameter-skim | pending |  |
 | i6G6vX0tKn4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | iBdz2SfeA1g | Tackle Express | tutorial | parameter-skim | pending |  |
