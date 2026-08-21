@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [baja, light-tackle, bass, halibut, yellowtail, baitcaster, tranx, leader, tackle-express]
-sources: [SL4zZbzdXNA]
+tags: [baja, light-tackle, bass, halibut, yellowtail, baitcaster, tranx, leader, tackle-express, cedros]
+sources: [SL4zZbzdXNA, _C7TJoGT0nw]
 confidence: medium
 ---
 
@@ -13,6 +13,20 @@ tackle-counter clip covering the lightest of **four setups** the (unnamed)
 angler brought on a Baja trip. `tackle-express` is an **unregistered**
 channel, single mention — **medium** confidence. No specific Baja location is
 named on camera — the ambiguity is left unresolved rather than inferred.
+
+**Location and full interview identified (Tackle Express, `_C7TJoGT0nw`,
+"What You ACTUALLY Need for Cedros Fishing Trips | The Gear Vault,"
+2025-09-26):** this longer, 32-minute sit-down is the source interview this
+40-second clip was cut from — same angler (named on camera as **Logan**),
+same trip, and it resolves the location left ambiguous above: **Cedros
+Island**, Baja Pacific (`baja-pacific-north`). It restates the identical rod
+rating, reel, braid, and leader numbers rather than adding independent ones,
+so it is not counted as a second confirmation of this setup — it is logged
+here only to fix the location and application (bass/halibut, plus yellowtail
+insurance) against a named trip. The full four-rod Cedros quiver this setup
+belongs to, including the two setups not otherwise captured in this KB, is
+in [Tackle Express — Cedros four-rod
+quiver](tackle-express-cedros-four-rod-quiver.md).
 
 ## The setup
 
@@ -47,6 +61,9 @@ the answer given was **no**.
 
 ## Related
 
+- [Tackle Express — Cedros four-rod quiver](tackle-express-cedros-four-rod-quiver.md) —
+  the other three rods this setup travels with, including the operator's
+  named favorite of the four.
 - [Yellowtail — gear summary](../species/yellowtail.md#gear-summary-class-terms) —
   this setup is the inshore/bass-crossover case: a light bass rod left as-is,
   with only the leader upsized, distinct from the dedicated
@@ -68,5 +85,6 @@ the answer given was **no**.
 ## Linked from
 
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
+- [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

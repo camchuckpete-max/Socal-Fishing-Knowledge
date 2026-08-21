@@ -14,7 +14,7 @@
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A shallow-diving hard bait treated as the generic term for a surf minnow lure in SoCal beach halibut fishing (Tackle Express, E4CDqBFOaP8, 2025-12-23): "if you
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
-- [Rapala Husky Magnum](rapala-husky-magnum.md) **[SoCal only]** — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
+- [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
 - [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle
 - [Spreader Bar](spreader-bar.md) — A spreader bar is a rigid horizontal bar carrying a teaser school of hookless squids or birds with one stinger lure trailing on the center line — it presents as
 - [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md) **[SoCal only]** — Feathers and soft skirts are the West Coast trolling staple — a weighted or bullet head trailing a skirt over a hook, presenting as a small squid or bait.

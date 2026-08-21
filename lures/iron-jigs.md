@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o, _C7TJoGT0nw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -264,6 +264,30 @@ jig tends to plane up to the surface too fast to swim right. A **40-light**
 jig in the same lineup is a bigger, heavier profile than the A1-light, stays
 in the water better, and handles heavier line fine (**40–50 lb**) — it's
 built to be fished as a straight burn jig.
+
+**Cedros Island, Baja Pacific — Colt Sniper versatility, and a day-to-day
+preference shift (Tackle Express, `_C7TJoGT0nw`, "What You ACTUALLY Need for
+Cedros Fishing Trips | The Gear Vault," 2025-09-26; unregistered channel —
+medium confidence; region: Baja Pacific, Cedros Island):** on a 19–33 lb
+Cedros yellowtail trip logged in [Cedros
+Island](../locations/cedros-island.md), the angler fished more **Colt
+Sniper** (a **100-size**) than actual yo-yo jigs, stated reason being the
+lure's versatility — it can be **cast, splashed down, and wound**
+like a surface iron, or **cast, splashed down, allowed to hit bottom, and
+fished like a yo-yo jig**, so one lure covers both jobs. **The fish's
+preference changed day to day, not the angler's:** on a slower first day the
+fish were "keyed in" specifically on the Colt Sniper baits over a
+smaller-profile option named on camera as a **Salas 6X Jr.** — kept as a
+distinct name rather than merged into "Colt Sniper," since the transcript is
+ambiguous whether this is a second lure or a nickname for a smaller Colt
+Sniper size, and this note elsewhere treats Colt Sniper and Salas 6X Jr. as
+different products; by the second full day the bite had opened up enough that "what do you want
+to catch a fish on and throw it and they'll eat it" — an unselective,
+experiment-anything bite, consistent with the abundance already logged for
+this island. A **triple trout** hardbait and an **SP Minnow 115** stickbait
+were both fished successfully the same trip — see [Cedros
+Island](../locations/cedros-island.md#fishing-it--what-is-specific-to-cedros)
+for the hardbait/stickbait detail, which this note doesn't restate.
 
 ## Reading a jig — how to pick one that swims
 
@@ -543,6 +567,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [White Seabass](../species/white-seabass.md)

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -71,6 +71,20 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   landed), so 9" is a workable upper end for big kelp-bed calicos, not just
   5"–7" (StokedOnFishing, San Clemente Island, 2015-10-28, `9xNhdu2aBqE`;
   unregistered channel, single mention — medium confidence).
+- **Z-Man Diesel MinnowZ, 7-in, on a 1–2 oz jighead — Cedros Island, Baja
+  Pacific yellowtail/calico (Tackle Express, `_C7TJoGT0nw`, "What You
+  ACTUALLY Need for Cedros Fishing Trips | The Gear Vault," 2025-09-26;
+  unregistered channel — medium confidence; region: Baja Pacific, Cedros
+  Island):** fished on a **1 oz** jighead as the standard, stepping up to
+  **2 oz** when working **60–80 ft**. Stated reason for favoring this bait on
+  a fly-in trip with a hard baggage weight limit (see [Cedros
+  Island](../locations/cedros-island.md)): the plastic's elastic body
+  ("ElaZtech") holds up to being bitten and pulled without tearing, so a
+  single bait is good for **at least five calico bass** — more fish carried
+  per ounce of tackle packed. Color was described as not mattering much,
+  though a **chartreuse** or **mint chartreuse** shade was called the
+  standard — consistent with, not new beyond, the "color matters little"
+  framing above.
 - **4-in vs 5-in sizing, and O-ring/band keeper hardware (Tackle Express,
   `-zw76Sh7YCI`, 2026-04-10; unregistered channel, single mention — medium
   confidence):** on the same worm-style swimbait, the **4-in and 5-in sizes
@@ -435,6 +449,7 @@ baits and heads from the class terms above; see
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
@@ -446,5 +461,6 @@ baits and heads from the class terms above; see
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

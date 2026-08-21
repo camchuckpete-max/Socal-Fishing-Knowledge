@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw]
 confidence: medium
 ---
 
@@ -771,6 +771,29 @@ for Sea of Cortez cabrilla — now for a different bait class, species
 (yellowtail), and Baja sub-region (Pacific side, `baja-pacific-north`, not
 Cortez).
 
+**Corroborating citation, same trip, full-length source interview
+(Tackle Express, `_C7TJoGT0nw`, "What You ACTUALLY Need for Cedros Fishing
+Trips | The Gear Vault," 2025-09-26; unregistered channel — medium
+confidence):** this 32-minute sit-down is the long-form interview the
+55-second `9kGpcEHqIUc` clip above was cut from — same angler, same trip,
+same 19-33 lb grade — and restates the identical Owner ST-66 swap and
+reasoning rather than adding an independent data point; not counted as a
+second confirmation of the model. The same interview gives an **Owner ringed
+offshore hook** lineup for a different application on the same trip — see
+below.
+
+### Owner ringed offshore hook — Cedros mackerel/sardine slow-troll sizing by bait size (Tackle Express, `_C7TJoGT0nw`, 2025-09-26; unregistered channel — medium confidence; region: Baja Pacific, Cedros Island)
+
+For a slow-trolled-mackerel break from casting (full technique context in
+[slow-trolling live bait](../techniques/slow-trolling-bait.md#cedros-island-baja-pacific--mackerel-bait-and-switch-a-break-from-casting)),
+the angler carried **Owner ringed offshore hooks in sizes 10, 30, and 50** so
+he could match hook to whatever bait size the operator's bait dock had that
+day — from small sardines up to the **15-in mackerel** the dock supplied,
+described on camera as big enough that once a fish engulfed the bait "you
+can't even see the mackerel anymore." The stated reasoning was explicitly
+about covering a bait-size range, not a single fixed hook for the
+application.
+
 ### Baja, Sea of Cortez sizing
 
 From a November 2022 Tony Reyes panga trip (Ray Sharifi, Dirty Hookers,
@@ -915,6 +938,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Trolling](../techniques/trolling.md)

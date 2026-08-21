@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -56,6 +56,24 @@ laid down the centre aisle of the aircraft. A **10 ft** jig stick fits; a rod
 about **6 in longer** than that will still go in. That matters because the
 fishery is a full-size-jig-stick fishery — see
 [gear classes](../tackle/gear-classes.md).
+
+**Baggage weight allowance and rod-travel prep (Tackle Express, `_C7TJoGT0nw`,
+"What You ACTUALLY Need for Cedros Fishing Trips | The Gear Vault,"
+2025-09-26; unregistered channel — medium confidence):** on the ~12-person
+charter flight above, anglers are allowed **35–40 lb combined** between
+tackle and clothes — one angler weighed his own bag at **28 lb** the night
+before, "in that nice sweet spot," reasoning he'd rather pack light and bring
+home more fish than fish weight-in gear he didn't need (the operator does
+laundry, so packed clothing volume can run low). Beyond the stick-jacket-cover
+rod prep already logged above, this source adds: **reels stay spooled and
+ready to go** (line through the guides not required, but reel covers on
+every reel), plus **rod straps** to keep the bundle tight — because with
+10–12 people each bringing a bundle of rods, the aircraft stacks them and any
+one bundle could end up on the bottom of the stack. Load-order tip from the
+same source: **let everyone else load first, then put your rods on top** —
+"last on, first off" at the other end. See [Tackle Express — Cedros four-rod
+quiver](../tackle/tackle-express-cedros-four-rod-quiver.md) for the specific
+rods this applies to.
 
 ## The trip shape
 
@@ -143,6 +161,43 @@ biggest weighed at **33 lb** and one angler's personal biggest at **29 lb** —
 *"nothing outrageously big, but big enough to still make you think like what
 am I hooked into."* Kept side by side as a separate, lighter grade data point
 for the same island rather than merged into the 30–45 lb figure above.
+
+**The same trip's full-length source interview (Tackle Express, `_C7TJoGT0nw`,
+"What You ACTUALLY Need for Cedros Fishing Trips | The Gear Vault,"
+2025-09-26; unregistered channel — medium confidence):** the 55-second
+`9kGpcEHqIUc` clip above was cut from this 32-minute counter interview with
+the same angler (**Logan**) about the same trip — same 19–33 lb grade, same
+triple-trout/Owner ST-66 doctrine (see [hooks](../tackle/hooks.md#owner-st-66--cedros-yellowtail-bait-hook-upgrade-for-volume-not-finesse-tackle-express-9kgpcehqiuc-reeling-in-30lb-yellowtail-the-cedros-secret-weapon-upload-2026-05-06-unregistered-channel--medium-confidence-region-baja-pacific-cedros-island)),
+not an independent confirmation. It adds lure, color, and gear detail not in
+the short clip: **Colt Sniper** versatility and a day-to-day preference
+shift, plus a **mint swirl** color data point (see [iron
+jigs](../lures/iron-jigs.md) and [surface iron —
+colour](../techniques/surface-iron-color.md)); a **Z-Man Diesel MinnowZ** on
+a 1–2 oz head fished for calico bass (see [soft-plastic
+swimbaits](../lures/soft-plastic-swimbaits.md)); a **Rapala X-Rap Magnum 30**
+in Bonita color as the hot trolling lure, plus the panga's group-hookup
+casting play once a troll rod goes off (see [Rapala Husky
+Magnum](../lures/rapala-husky-magnum.md)); a mackerel bait-and-switch program
+off the operator's own bait dock (see [slow-trolling live
+bait](../techniques/slow-trolling-bait.md#cedros-island-baja-pacific--mackerel-bait-and-switch-a-break-from-casting));
+and the full four-rod quiver brought for the trip (see [Tackle Express —
+Cedros four-rod quiver](../tackle/tackle-express-cedros-four-rod-quiver.md)).
+
+Two further single-trip data points from the same interview, kept brief
+here since neither has enough surrounding detail to support its own note:
+an **SP Minnow 115** floating stickbait produced a yellowtail in **three to
+four casts** once the angler deliberately fished it exclusively (he wanted a
+yellowtail catch on a stick bait specifically, not a conditions-driven
+choice); and a **1.5–2 oz leadhead tube** (called on camera "the stupid
+tube") fished free-spooled and bounced in a ripping current tight to the
+beach produced calico bass "every cast" on the trip's second full day, the
+current dragging it 5–10 ft between bounces.
+
+**Take-home catch handling (same source):** each boat's catch goes into
+color-taped bins (red/blue/green tape by boat) so the dock crew can sort by
+boat at day's end; fish are vacuum-sealed and frozen at the lodge. One
+angler's trip total was **~354 lb** of fish (mostly yellowtail, plus calico
+bass bycatch and a 20 lb halibut) taken home frozen.
 
 **Forage seen on the grounds:** **micro red crab** in the water on the trip
 filmed, plus bait metered on the bottom in **183 ft**. An operator running its
@@ -239,6 +294,11 @@ than iron.
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Iron Jigs](../lures/iron-jigs.md)
+- [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

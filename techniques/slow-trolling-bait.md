@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-troll, live-bait, yellowtail, flyline, lever-drag, sardine, mackerel]
-sources: [HTowqnwAMeA, NXvqLUZ6qp8]
+sources: [HTowqnwAMeA, NXvqLUZ6qp8, _C7TJoGT0nw]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank]
@@ -99,6 +99,26 @@ watching the bait, and use the range as a sanity check.
   flags this as possibly anthropomorphising, and it is recorded as his stated
   view rather than as established fish behaviour.
 
+## Cedros Island, Baja Pacific — mackerel bait-and-switch, a break from casting
+
+**Tackle Express, `_C7TJoGT0nw`, "What You ACTUALLY Need for Cedros Fishing
+Trips | The Gear Vault," 2025-09-26; unregistered channel — medium
+confidence; region: Baja Pacific, Cedros Island.** A different use case from
+the rest of this note: not a search tool, but a **rest-break substitute for
+casting iron all day.** After several yellowtail, the stated reason to switch
+was arm fatigue ("your arms hurt a little bit") — the operator (Toro) runs
+its own **bait dock/bait bar** stocked with mackerel and sardines, so the
+boat can slow-troll instead of keep casting. Mackerel ran big on this trip —
+**15-in** fish — fished on **Owner ringed offshore hooks sized 10, 30, and
+50** to match whatever bait size was on the dock that day (full hook detail
+in [hooks](../tackle/hooks.md#owner-ringed-offshore-hook--cedros-mackerelsardine-slow-troll-sizing-by-bait-size-tackle-express-_c7tjogt0nw-2025-09-26-unregistered-channel--medium-confidence-region-baja-pacific-cedros-island)).
+
+**Observed, secondhand (same source, relayed from another angler on the
+trip, not filmed):** downriggers rigged with **2 lb max weights**, slow-
+trolled in **30 ft of water**, reportedly hooked two big fish and landed
+neither — "they were just giants." Kept as a secondhand, unconfirmed data
+point, not folded into the mackerel-hook doctrine above.
+
 ## Related
 
 - [Flyline](flyline.md) — same bait and tackle, boat stopped.
@@ -115,7 +135,9 @@ watching the bait, and use the range as a sanity check.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cedros Island](../locations/cedros-island.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [Trolling](trolling.md)
 - [Yellowtail](../species/yellowtail.md)

@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [jig-stick, trolling, clicker, reel-sizing, line-capacity, dual-purpose, tackle-express]
-sources: [BNp-gSOpWBw]
+tags: [jig-stick, trolling, clicker, reel-sizing, line-capacity, dual-purpose, tackle-express, cedros]
+sources: [BNp-gSOpWBw, _C7TJoGT0nw]
 confidence: medium
 ---
 
@@ -48,8 +48,26 @@ No further detail (drag numbers, line class this was tested against beyond
 the 65 lb braid above, or what lure/species this was used for) is given in
 this short clip.
 
+**Location, species, and a reel-clamp upgrade (Tackle Express, `_C7TJoGT0nw`,
+"What You ACTUALLY Need for Cedros Fishing Trips | The Gear Vault,"
+2025-09-26; the 32-minute source interview this 39-second clip was cut
+from — same angler, named on camera as **Logan**, same outfit):** ties this
+setup to a named trip and target, left open in the short clip above —
+**Cedros Island**, Baja Pacific (`baja-pacific-north`), fished for
+[yellowtail](../species/yellowtail.md), and confirms the rod as a deckhand-style
+jig stick with **no reel seat** (a **reel clamp** is required so the reel can
+be positioned where the angler wants it). The Torium this outfit is built
+around ships with a stock reel clamp; the angler swapped it for a **DFP
+clamp**, giving more surface area/grip on the rod blank — described as a
+cosmetic/feel upgrade, not a functional requirement ("you don't need it, but
+it is just a nicer look"). The full four-rod Cedros quiver this outfit
+belongs to is in [Tackle Express — Cedros four-rod
+quiver](tackle-express-cedros-four-rod-quiver.md).
+
 ## Related
 
+- [Tackle Express — Cedros four-rod quiver](tackle-express-cedros-four-rod-quiver.md) —
+  the other three rods this outfit travels with.
 - [Gear classes — jig-stick class](gear-classes.md#rod--reel-classes)
 - [Cheater troll](../techniques/cheater-troll.md) — a different dual-purpose
   trolling use case (a spare rod rigged and trolled during a sportboat's dead
@@ -62,4 +80,5 @@ this short clip.
 ## Linked from
 
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 <!-- backlinks:end -->

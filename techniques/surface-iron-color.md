@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, color, jig-color, calico-bass, yellowtail, confidence]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM, 49joKHD7Umc, lf3S28nh-kk]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, WE643Fue1_A, _C8w6zeVPak, ILBl12Jm7-0, 3dVc-2rsYII, KLoEJInlmZo, IwxqgocsQTY, YZtX1MiT0y8, XyKF34C5iB4, 1uYIApdQQSM, 49joKHD7Umc, lf3S28nh-kk, _C7TJoGT0nw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -97,6 +97,24 @@ corpus), described only as a change-up he was trying that day; no bite result
 on the new color shown on camera. Kept alongside, not merged into, the mint
 and blue/white Cedros data points above — still not generalized into
 doctrine.
+
+**Fourth Cedros data point — mint beating a specific mint variant (Observed,
+Tackle Express, `_C7TJoGT0nw`, "What You ACTUALLY Need for Cedros Fishing Trips |
+The Gear Vault," 2025-09-26; unregistered channel — medium confidence;
+region: Baja Pacific, Cedros Island):** on a lighter-grade (19–33 lb) Cedros
+trip logged in [Cedros Island](../locations/cedros-island.md), the stated
+Cedros/home go-to colors were named as **"mints, greens, blues, scrambled
+egg"** — the same palette as elsewhere in this corpus — but a **mint swirl**
+surface iron was called out as **outproducing a Salas 7X in mint swirl** that
+same trip, with no reason given for the difference beyond the outcome (an
+observation, not doctrine — no stated mechanism). A 35-second short clip cut
+from this same interview (`pUwVpvjJ23w`, "Think lure color doesn't matter?
+Think again for your next Baja trip," 2026-05-15) carries the identical
+claim verbatim and was not separately extracted (too short to clear the
+pre-filter on its own). A further data point for mint at Cedros, alongside
+the confidence-color, blue/white, and minty-brownish-chartreuse reports
+above — still not generalized into doctrine, and the mint-vs-mint-swirl
+distinction is preserved rather than smoothed into "mint" generally.
 
 **Confidence-color data point, SoCal calico bass (Dave Hansen, Your Saltwater
 Guide, 3dVc-2rsYII, 2022-03-25; dave-hansen is a registered voice — high
@@ -239,6 +257,7 @@ against alternatives.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cedros Island](../locations/cedros-island.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)
