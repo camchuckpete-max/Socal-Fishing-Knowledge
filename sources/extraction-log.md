@@ -2564,7 +2564,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | SL4zZbzdXNA | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-baja-light-setup-yellowtail-insurance.md; species/yellowtail.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md / new tackle note: light Baja bass/halibut setup (15-30lb rod, Shimano Tranx 400, 50lb braid ~300yd, 15ft/40lb fluoro leader as yellowtail insurance), linked from yellowtail gear summary |
 | SR-Fv3xxkVY | Tackle Express | tutorial | parameter-skim | done | none / no extractable content: auto-captioned transcript is incidental crew chatter, no rigging/kite/technique detail despite title |
 | Sb20NtuNlkc | Tackle Express | tutorial | parameter-skim | done | none / correctly out-of-scope: freshwater largemouth-bass wakebait tackle video, no SoCal/Baja marine content |
-| SbTEGKmWl7g | Tackle Express | tutorial | parameter-skim | pending |  |
+| SbTEGKmWl7g | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic rod-transport/travel-packing tips (rod sleeves, rod straps), no SoCal/Baja-specific content, correctly skipped per curation bar |
 | SclIN_ceduA | Tackle Express | tutorial | parameter-skim | pending |  |
 | Se7bjtiiGv8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | T33JsoZHO_c | Tackle Express | tutorial | parameter-skim | pending |  |
