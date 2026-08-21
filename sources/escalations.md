@@ -142,3 +142,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-20T22:28:23Z — DPrr0a3vQY0 — guard-violation
 - run: 32422107119
 - reason: commit 7ddb6f668be6db1aa31969491c1f942f2d059eea reverted: protected path touched: profiles/cameron/rods.md
+
+## 2026-08-21T06:17:27Z — SclIN_ceduA — guard-violation
+- run: 32449233399
+- reason: commit bc9f591da3760b429e972ed99448e8865ea56a2e reverted: protected path touched: profiles/cameron/tackle.md
