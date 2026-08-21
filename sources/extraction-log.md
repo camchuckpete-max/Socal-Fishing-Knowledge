@@ -2572,7 +2572,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | TdrFjnJb3Y0 | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater trout promotional/sponsored product pitch, out of SoCal/Baja saltwater KB scope, no decision knowledge |
 | TjQuU-x8sHM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-ci4-plus-reel-features.md; tackle/reel-maintenance.md / new capped-low product-feature note for an unnamed Shimano reel (CI4+/Infinity Drive/Infinity Cross/Anti-Twist Fin), cross-linked from reel-maintenance.md's servicing section |
 | To2Dvx3Ifnc | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md; rigging/essential-knots.md; rigging/fg-and-albright.md / new PR-knot note (bobbin-tied FG alternative), disambiguated from existing RP knot, linked from both parents |
-| TwnvOIp38tI | Tackle Express | tutorial | parameter-skim | pending |  |
+| TwnvOIp38tI | Tackle Express | tutorial | parameter-skim | done | none / skipped: promotional bass-fishing (freshwater) product-announcement clip, no SoCal/Baja saltwater fishing knowledge present |
 | TyxH9BBJ9U8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | TzK4iuVmUSE | Tackle Express | tutorial | parameter-skim | pending |  |
 | UASU-ikU1AQ | Tackle Express | tutorial | parameter-skim | pending |  |
