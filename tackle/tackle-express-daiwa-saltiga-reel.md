@@ -55,6 +55,13 @@ in this clip.
   the same source that resolves the "pinion" caption above) that name actual
   models with weight, line capacity, drag, and gear-ratio figures this
   general-features clip doesn't give.
+- [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double
+  Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md)
+  — a third, later Tackle Express Saltiga clip, this one naming a specific
+  light-line jigging model (20/30 lb braid) with its own feature set
+  (Hyperdrive Digi Gear, Hyper Double Support, spool lock, Hyper Armor
+  Housing, Hyperdrive Clutch); not confirmed as using identical gear
+  terminology to this note's Digigear/CRBB/ATD claims.
 - [Reel & rod maintenance](reel-maintenance.md) — general corrosion-prevention
   and bearing/gear care discipline (rinse, dry, grease) that this reel's CRBB
   bearings and Digigear system sit alongside as a manufacturing claim rather
@@ -72,6 +79,7 @@ in this clip.
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
+- [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md)
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->

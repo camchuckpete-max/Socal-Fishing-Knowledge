@@ -139,6 +139,11 @@ counterweight.
   (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — a different,
   general-features Tackle Express Saltiga clip with no model size or specs
   given; this note supplies the Saltiga 35's own numbers that clip lacks.
+- [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double
+  Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) —
+  a third Tackle Express Saltiga clip, naming a distinct light-line jigging
+  model (20/30 lb braid) not assumed to be the same reel family as the
+  Saltiga 35/55 lever-drag two-speeds compared here.
 - [Shimano Speedmaster vs. Penn Fathom — reel-size ladder by line class
   (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — the
   same channel's comparable two-speed-reel spec-ladder format, a different
@@ -157,6 +162,7 @@ counterweight.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
