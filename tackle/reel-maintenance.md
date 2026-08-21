@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation, grip]
-sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk, 17sBBD0C4XY, 1MxHXTv3a2A]
+tags: [maintenance, reels, rods, storage, drag, guides, offseason, line, top-shot, tackle-box, field-repair, travel, reel-bags, spectra, spooling, oxidation, grip, cutters]
+sources: [5yfA5XAaLLY, 0n4mJ3sfIqk, 5IN1wsOFR-k, 5ppQob4N3Xw, HH1YvOfMWx0, OmyRIw7Eye8, UyfcYoNV2sg, X1zAA4DLOr0, bbn-aJGRH5o, kuvfoJKpLYU, YntRJAN88fs, lf3S28nh-kk, 17sBBD0C4XY, 1MxHXTv3a2A, kHUQd9jqG-A]
 confidence: medium
 ---
 
@@ -414,6 +414,14 @@ of ending the day.
 - **A rail-mounted cable, carabiner, and S-hook.** A cable clipped to the box
   handle keeps a hook within reach to tie onto, and the S-hook is a spare
   attachment point for a swivel or jig.
+- **Real braid cutters, not an old pair of needle-nose pliers.** Needle-nose
+  jaws don't have real cutting blades, so cutting braid with them means
+  stretching the line taut first to get it to part; a dedicated pair of
+  braid cutters cuts it loose. Worth having on hand for trimming tag ends when
+  tying [hollow-core splices](../rigging/hollow-splice-and-serving.md) (Tackle
+  Express, "Why You Need Real Braid Cutters for Your Fishing Line,"
+  `kHUQd9jqG-A`, 2026-06-08; unregistered channel, promotional shop plug —
+  low confidence).
 
 Cleaning your own gear is also how you get to know it. The judgment throughout is
 the same: protect the investment, and never leave a questionable hook, wet metal,

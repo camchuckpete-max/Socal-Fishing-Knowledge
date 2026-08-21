@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [hollow-core, splice, serving, top-shot, knotless, leader]
-sources: [_w8KNSgGPVE, yr6z3DmWY4s, 46wHgdTJWIM]
+sources: [_w8KNSgGPVE, yr6z3DmWY4s, 46wHgdTJWIM, kHUQd9jqG-A]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -46,6 +46,12 @@ the foundation under a built [wind-on leader](wind-on-leader.md).
 - **Splice finish:** none needed — pull excess through, trim it, and it hides
   back inside. The only sign left is a slight thickness where the two lines
   overlap, dropping back to single-strand braid at each end.
+- **Trim tag ends with real braid cutters, not needle-nose pliers.** Ordinary
+  needle-nose pliers don't bite braid cleanly — they leave you stretching the
+  line taut to get a cut, where a dedicated pair of braid cutters cuts it
+  loose (Tackle Express, "Why You Need Real Braid Cutters for Your Fishing
+  Line," `kHUQd9jqG-A`, 2026-06-08; unregistered channel, promotional shop
+  plug — low confidence).
 - **Serving bury length:** serve the fluoro **a minimum of 3 ft, preferably 4 ft**
   into the hollow braid. Size the hollow rigging needle to the leader (e.g. a
   needle sized for 60 lb fluoro); seat the fluoro tip in the needle and tack it
