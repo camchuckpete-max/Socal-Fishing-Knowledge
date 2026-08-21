@@ -2636,7 +2636,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | cBATKqWkQws | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-vanford-fa-reel.md (new, capped low): MGL rotor + CI4+ 2.5x rigidity claims; linked from gear-classes.md and cross-linked with CI4+ note; evaluator ran link-maintenance |
 | cNfPlAZWLB8 | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): freshwater trout tackle, braid-to-leader knot avoidance via straight mono/fluoro; evaluator filled stale log row |
 | cSTfQy8eb44 | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): freshwater bass blade-bait tight-line-on-fall tip, matches sibling blade-bait series already skipped; evaluator filled stale log row |
-| cZ3KlPWiPWw | Tackle Express | tutorial | parameter-skim | pending |  |
+| cZ3KlPWiPWw | Tackle Express | tutorial | parameter-skim | done | no KB destination: generic feather-descent/vertical-fish tip, no species/region/depth named, duplicates existing doctrine in techniques/rockfish-deep-dropping.md |
 | c_60Ms3QSMY | Tackle Express | tutorial | parameter-skim | pending |  |
 | c_L2hqBXwYA | Tackle Express | tutorial | parameter-skim | pending |  |
 | c_YgwlJdsSk | Tackle Express | tutorial | parameter-skim | pending |  |
