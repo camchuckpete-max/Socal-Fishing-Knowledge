@@ -2751,7 +2751,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ptwN9MUDxjk | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 18s on-the-water clip, fragmentary content only, no technique/gear/species detail |
 | q0it3pyUW6Q | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-ci4-plus-reel-features.md; tackle/tackle-express-shimano-vanford-fa-reel.md; tackle/gear-classes.md / resolved reel identity (Shimano Vanford) across cBATKqWkQws/q0it3pyUW6Q/TjQuU-x8sHM via verified verbatim overlap, merged fuller Infinity Drive claim |
 | qHS-ewTQs9Q | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md: re-cut/duplicate of _C7TJoGT0nw Cedros mackerel Owner-hook content; added as corroborating citation, ASR hook-size variance flagged not reconciled |
-| qKOmJH_WtJo | Tackle Express | tutorial | parameter-skim | pending |  |
+| qKOmJH_WtJo | Tackle Express | tutorial | parameter-skim | done | none: 33s reaction/landing clip, no rod/line/technique parameters or decision content - nothing extractable |
 | qLDrhgE7-y0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | qLKLlZdiflA | Tackle Express | tutorial | parameter-skim | pending |  |
 | qRrZakwbLoM | Tackle Express | tutorial | parameter-skim | pending |  |
