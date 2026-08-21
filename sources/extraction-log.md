@@ -2704,7 +2704,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: freshwater bass content (Castaic Lake, C3 Baits), out of SoCal/Baja saltwater scope entirely |
 | jFlAdWRj3HI | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-penn-pull-to-turn-preset-drag.md; tackle/drag-setting.md; tackle/tackle-express-penn-vs-avet-lever-drag.md — new note on Penn's pull-to-turn preset-drag philosophy, cross-linked from two parents |
 | jWPv-OOM3uk | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md — added booty-spin blade's stated flash/vibration rationale + 3/5/7-in sizing; rigging-demo content correctly withheld as re-cut of four already-logged sibling clips |
-| j_x1IskkSEE | Tackle Express | tutorial | parameter-skim | pending |  |
+| j_x1IskkSEE | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 48s generic tackle/line product plug (Sunline Almighty braid for wacky rig), no SoCal-specific content, fails curation bar |
 | jeJAsY_M0oc | Tackle Express | tutorial | parameter-skim | pending |  |
 | jo8lMdFZ1bk | Tackle Express | tutorial | parameter-skim | pending |  |
 | k0rhryq2kYI | Tackle Express | tutorial | parameter-skim | pending |  |
