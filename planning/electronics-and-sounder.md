@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc, QP6c8vcslVs]
 confidence: high
 ---
 
@@ -77,14 +77,18 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   depth by depth.** Getting a bottom mark isn't itself the stop signal:
   continue running out while continuing to watch the sounder, logging
   further marks as the depth changes rather than committing to the first one
-  — worked example: a mark on the bottom near the boat, more marks found on
-  working out into **40 ft**, and more again on working out to **60 ft**.
-  Framed as circumstantial ("assuming there's fish there") rather than
-  confirmed, but as a good way to locate where fish are concentrated before
-  picking a spot to fish (Tackle Express, `KjVLn4cWHbc`, 2026-02-26;
-  unregistered channel, single mention — medium confidence). Consistent with
-  the bait-budget grading rule above: this is the search phase that comes
-  before it.
+  — worked example: **starting around 20 ft**, a mark on the bottom near the
+  boat, more marks found on working out into **40 ft**, and more again on
+  working out to **60 ft**. Move the boat slowly while doing this. Framed as
+  circumstantial ("assuming there's fish there") rather than confirmed, but as
+  a good way to locate where fish are concentrated before picking a spot to
+  fish (Tackle Express, `KjVLn4cWHbc`, 2026-02-26, and a
+  second, overlapping re-cut of the same on-the-water moment with a slightly
+  longer intro, `QP6c8vcslVs`, 2026-02-19; unregistered channel — the two
+  uploads are the same footage re-cut a week apart, so this is still a single
+  mention for confidence purposes, not independent confirmation — medium
+  confidence). Consistent with the bait-budget grading rule above: this is the
+  search phase that comes before it.
 - **Present to where the mark actually is, not away from it.** (dave-hansen,
   Your Saltwater Guide, live seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03;
   registered voice, single mention — medium confidence.) Framed as a mistake
