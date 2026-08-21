@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rockfish, rock-cod, leader, line, mono, fluorocarbon, dropper-loop]
-sources: [3z1KZ_kIaec]
+sources: [3z1KZ_kIaec, S9sQ8Vg8-5o]
 confidence: medium
 ---
 
@@ -9,7 +9,11 @@ confidence: medium
 
 Tackle Express (`3z1KZ_kIaec`, "Rockfish line secret: Save your money or
 splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium
-confidence). A short parameter clip on what to tie the hook/leader line from
+confidence). This 45-second clip is a **short re-cut of the leader section of
+the full-length `S9sQ8Vg8-5o` video** ("Rockfish Tackle & Gear Guide,"
+2025-03-28, about a year earlier) — identical wording, not an independent
+sighting; both video IDs are logged here for the same underlying claim. A
+short parameter clip on what to tie the hook/leader line from
 for a **standard double-dropper-loop rockfish rig** — whether that's a
 premade Berkley or P-Line rock cod rig, or a simple double-dropper loop tied
 by hand (see [dropper loop — single vs. double

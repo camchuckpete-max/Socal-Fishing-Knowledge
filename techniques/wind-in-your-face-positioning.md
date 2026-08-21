@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wind-in-your-face, rail-positioning, sportboat, live-bait, tangles, drift, etiquette]
-sources: [pQ9kGqgsX8I, rNiQKb3sCh4]
+sources: [pQ9kGqgsX8I, rNiQKb3sCh4, S9sQ8Vg8-5o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -45,6 +45,15 @@ is out.
 - You're on a **crowded rail** with other anglers all fishing live bait off
   the same drift at once — this is a many-anglers-at-once discipline, not a
   private-boat or one-angler concern.
+- **The same rule applies to a drifting bottom-fishing stop, not just live
+  bait (Tackle Express, `S9sQ8Vg8-5o`, 2025-03-28; unregistered channel —
+  medium confidence):** on a rock-cod/dropper-loop drift (the standard
+  format on "nine times out of 10" rockfish boats, per this source), the
+  framing is the same shorthand — "if the wind is in your face, you're in
+  the right place" — because the boat drifts downwind while a bottom rig
+  fished from the leeward rail trails **underneath the boat** and wraps
+  everyone fishing correctly on the windward side. A further data point that
+  this positioning rule isn't specific to live-bait casting.
 
 ## The mechanism
 

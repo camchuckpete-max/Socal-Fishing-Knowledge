@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -347,6 +347,19 @@ OIqdmhKfuOc, 2021-03-30).
   line clippers. It doesn't kill the bait — it still swims and kicks — but it
   can no longer drag the weight around, so it stays pinned on the bottom
   (Your Saltwater Guide, OIqdmhKfuOc, 2021-03-30).
+- **A fourth hookset variant, framed as personal preference rather than a
+  rule — a partial swing timed with the wind (Tackle Express, `S9sQ8Vg8-5o`,
+  2025-03-28; unregistered channel — medium confidence):** fishing the
+  standard rock-cod double-dropper loop, dangling in the rod holder with the
+  reel in gear, the bite reads as the rod tip starting to **bounce, jiggle,
+  and dance**. His own move is to give himself **a little bit of a swing as he
+  turns the handle** — driving the hook home and taking up slack in the same
+  motion — while noting **other anglers just straight-turn the handle**
+  (wind-only, no swing) and that both are a matter of preference on this rig.
+  A fifth data point in the same rig family's already-unreconciled hookset
+  spread (J-hook driven lift-set, circle self-set no-swing, slow-steady-wind,
+  two-crank-and-lift) — kept side by side, not merged into one method.
+
 ### Hook orientation on the loop (Scotty)
 
 **Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM, 2020-04-04;
@@ -458,6 +471,18 @@ demonstrably tying; not carried as a separate rig name.
   [sliding-sinker](sliding-sinker.md) rig — more lines in the water, more bites.
 - **Work it** by lifting to keep the sinker ticking bottom as you drift over
   marks, then letting it settle back so the bait re-wafts on the drop.
+- **Why re-drop periodically while deadsticking, a stated reason (Tackle
+  Express, `S9sQ8Vg8-5o`, 2025-03-28; unregistered channel — medium
+  confidence):** his default is bottom, into gear, **one to three turns up**,
+  then hang; after a short soak he'll free-spool the sinker back down to
+  re-touch bottom. The stated reason is the **drift, not the fish** — on a
+  drifting boat (his estimate, ~90% of trips) the bottom's contours shift
+  under you as you move, so a rig left at a fixed number of turns up off an
+  old bottom reading can end up 20 ft off the new bottom without you knowing
+  it. Corroborates, with an explicit drift-contour mechanism, the periodic
+  free-spool re-drop already logged from Captain Art above (there reasoned
+  from the boat swinging on a drift/anchor rather than the bottom itself
+  changing shape) — two different reasons converging on the same practice.
 - **The retrieve once you're hooked up: slow, steady wind, all the way to the
   surface.** No jerking, no pumping — jerk-and-wind-fast winds the fish right
   off the hook. Just a slow steady wind, nice and easy (Capt. Dave Hansen,

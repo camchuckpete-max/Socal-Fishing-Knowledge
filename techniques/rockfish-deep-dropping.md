@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -62,26 +62,44 @@ built around **feeling the bite from depth**:
   drag](../tackle/star-drag-vs-lever-drag.md#when-to-reach-for-a-two-speed-at-all--deep-bottom-fishing-vertical-work-and-rod-length-tackle-express);
   the bigger-body-beats-smaller-reel torque point above is a separate,
   corroborating reason to size the reel up for this depth.
-- **A third, independent Tackle Express citation, naming the SoCal depth
-  range and the sinker/two-hook mechanism that drives the fatigue** ("Why
-  2-Speed Reels Are a Game Changer for Rockfishing," `Qj6brwOJk9E`,
-  2026-03-24; unregistered channel, single mention — medium confidence):
-  SoCal rockfishing covers a wide depth range, **on average 3–600 ft** as
-  captioned (likely a dropped-digit rendering of 300–600 ft, consistent with
-  this note's own 300–900 ft deep-bucket range above — not silently
-  corrected; asr-uncertain), shallower or deeper depending on conditions.
-  Heavy current or wind pushes the sinker up to **16–20 oz**, fished on a
-  **two-hook** rig — hooking two fish at once means cranking up two
-  open-mouthed fish (his example: **750 ft** of line) against the added
-  "water tension" of both mouths dragging through the column. In high gear
-  that's "a crazy amount of line per turn of the handle" — his estimate,
-  **nearly 3 ft retrieved per crank** — enough to tire out even a
+- **A third Tackle Express citation, naming the SoCal depth range and the
+  sinker/two-hook mechanism that drives the fatigue — footage traced to its
+  full-length source (Tackle Express, `S9sQ8Vg8-5o`, "Rockfish Tackle & Gear
+  Guide: Must-Have Setup + Bonus Tips!," 2025-03-28; unregistered channel —
+  medium confidence).** `Qj6brwOJk9E` ("Why 2-Speed Reels Are a Game Changer
+  for Rockfishing," uploaded 2026-03-24, almost a year later) turns out to be
+  a **short re-cut of this same footage/audio, word for word** — not an
+  independent video, per the re-cut/duplicated-footage rule — so it is not
+  treated as separate corroboration; both video IDs are logged here for the
+  same underlying claim. SoCal rockfishing covers a wide depth range, **on
+  average 3–600 ft** as captioned (likely a dropped-digit rendering of
+  300–600 ft, consistent with this note's own 300–900 ft deep-bucket range
+  above — not silently corrected; asr-uncertain), shallower or deeper
+  depending on conditions. Heavy current or wind pushes the sinker up to
+  **16–20 oz**, fished on a **two-hook** rig — hooking two fish at once means
+  cranking up two open-mouthed fish (his example: **750 ft** of line) against
+  the added "water tension" of both mouths dragging through the column. In
+  high gear that's "a crazy amount of line per turn of the handle" — his
+  estimate, **nearly 3 ft retrieved per crank** — enough to tire out even a
   self-described high-energy angler over a day of repeated drops. Shifting
   to low gear turns the reel into a **winch**: less line per crank, but more
   torque and less effort, which is what lets him keep dropping repeatedly
   through the day rather than being fatigued into a break in the galley.
   Consistent with, and adding concrete SoCal parameters to, the
   fatigue-not-torque mechanism above.
+- **Sinker sizing by depth, same full-length source (Tackle Express,
+  `S9sQ8Vg8-5o`, 2025-03-28):** the shop stocks torpedo sinkers from a
+  "teeny tiny" **4 oz** up to a much larger **28 oz** (captioned "size four";
+  rendered here as oz to match the surrounding 6–8 oz/16–20 oz/28 oz figures
+  from the same clip, all captioned with the same dropped-"z" "O"/"out"
+  pattern — asr-uncertain). Two depth anchor
+  points given on camera: **100–150 ft fishes fine on a 6–8 oz sinker**;
+  **300–600+ ft wants 16–20 oz at a minimum**, sized up further for wind and
+  current — the same 16–20 oz figure already logged above, now tied
+  explicitly to depth rather than only to wind/current. The 6–8 oz/100–150 ft
+  pairing is a new data point, filling in the shallow end of this note's
+  weight ladder alongside Scotty's 8 oz/60–80 ft and 16 oz/180–200 ft figures
+  below.
 
 ## Rigs — three ways to fish the bottom
 
@@ -374,6 +392,23 @@ free of the release clip so it can swim back to structure.
   in the dropper-loop note; the wrong orientation still catches fish but pulls
   the hook out under load instead of setting it deeper, costing more fish on
   a long crank up from depth.
+- **Three rail "don't-dos" (Tackle Express, `S9sQ8Vg8-5o`, 2025-03-28;
+  unregistered channel — medium confidence; footage also re-cut and
+  re-uploaded as the short `lYnD_MiALL8`, "Stop Losing Your Catch! 3 Fishing
+  Mistakes to Avoid," 2026-03-25 — same claim, not independent
+  corroboration):**
+  - **Winding the sinker or hook all the way to the rod tip** — the single
+    most common mistake this source calls out. It can compromise or break the
+    tip-top insert (or the tip itself), ending the trip.
+  - **Turning the handle as fast as possible on a hooked fish.** Rockfish
+    "don't pull drag" — they don't fight hard enough to need speed — and a
+    fast crank spins the fish, which spits the hook more often before it
+    reaches the boat. Wind **steady**, not fast; this is the stated reason a
+    two-speed reel's low gear (deliberately slower line intake) earns its
+    keep beyond fatigue alone.
+  - **Pumping the rod.** His worked example: lift 6 ft, drop 4 ft — that
+    4 ft of drop hands the fish 4 ft of slack to throw the hook on. Lay the
+    rod on the rail, hold it steady in your arm, and just turn the handle.
 
 <!-- backlinks:start -->
 ## Linked from

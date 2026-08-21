@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, J40VxLNuZhk]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, J40VxLNuZhk, S9sQ8Vg8-5o]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
@@ -106,7 +106,12 @@ the *bottom*, not the fish.
   double-dropper-loop rig specifically, **30 or 40 lb mono is the everyday
   leader choice** — cheap and effective since rockfish aren't leader-shy —
   with fluorocarbon reserved for a tough bite; see [rockfish leader
-  line](../tackle/tackle-express-rockfish-leader-line.md).
+  line](../tackle/tackle-express-rockfish-leader-line.md). **A second hook
+  pick, kept side by side (Tackle Express, `S9sQ8Vg8-5o`, 2025-03-28;
+  unregistered channel — medium confidence):** an **Owner Ai/Oy Twist,
+  size 10** as an all-purpose double-dropper-loop hook — sized to fish squid
+  strips, sardines, anchovies, small mackerel, and even a small whole squid
+  on the same hook without swapping.
 - **Baits/lures:** **[gulp/soft-plastic grubs](../lures/soft-plastic-swimbaits.md)**
   (Ali's program: 8 oz jig head + 8" grub at ~270 ft), lead-head slugs,
   **[Ahi-Assault-style irons](../lures/iron-jigs.md)** and **[slow-pitch/knife
@@ -301,12 +306,17 @@ the *bottom*, not the fish.
   status (his framing: fishable to 300 ft or even 3,000 ft of water) down to
   the deepest he's personally "ever been told" local SoCal boats fish, **about
   800–850 ft** (transcribed "8 to 850" in the auto-captions; read as 800–850
-  ft given his own "still a very, very long way down" framing) (`D0bQjAL0gGU`,
-  2026-04-13; unregistered channel — medium confidence). Kept as a dated,
-  hedged data point beside the depth-limit-progression entries above, not
-  current guidance — see [rockfish deep-dropping — weight &
+  ft given his own "still a very, very long way down" framing). This clip
+  (`D0bQjAL0gGU`, "Deep Sea Secrets: Mastering Rockfish Tactics," 2026-04-13)
+  is a **short re-cut of the full-length `S9sQ8Vg8-5o` video** (2025-03-28,
+  almost a year earlier) — the identical claim, word for word, not an
+  independent sighting; unregistered channel — medium confidence either way.
+  Kept as a dated, hedged data point beside the depth-limit-progression
+  entries above, not current guidance — see [rockfish deep-dropping — weight &
   staying off the snag](../techniques/rockfish-deep-dropping.md#weight--staying-off-the-snag)
-  for the torpedo-sinker sizing this depth range drives.
+  for the torpedo-sinker sizing this depth range drives, including this same
+  source video's separate 100–150 ft / 6–8 oz and 300–600+ ft / 16–20 oz
+  sinker-by-depth figures.
 - **Handling caution:** rockfish dorsal spines carry a **mild venom** — minor,
   not a serious hazard, but worth being deliberate handling the fish (Scotty,
   Brothers Sportfishing, _ZThckj2TIM, 2020-04-04; high confidence). Undersized/
@@ -319,8 +329,11 @@ the *bottom*, not the fish.
   matters is the California scorpionfish (**sculpin**), whose spines are
   actually venomous enough to "ruin your day"; stated advice is to avoid all
   spines on all rockfish rather than try to sort venomous from merely
-  unpleasant on deck (Tackle Express, `J40VxLNuZhk`, 2026-04-05; unregistered
-  channel — medium confidence). See [sculpin handling](../fish-care/sculpin-handling.md)
+  unpleasant on deck. This clip (`J40VxLNuZhk`, "Think All Rockfish Are Safe?
+  Think Again!," 2026-04-05) is a **short re-cut of the closing minute of the
+  full-length `S9sQ8Vg8-5o` video** (2025-03-28) — the identical claim, word
+  for word, not an independent sighting; unregistered channel — medium
+  confidence either way. See [sculpin handling](../fish-care/sculpin-handling.md)
   for the venomous-species-specific procedure.
 
 <!-- backlinks:start -->

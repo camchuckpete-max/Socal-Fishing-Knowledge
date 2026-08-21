@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -359,6 +359,29 @@ Which species and situation calls for each is routed from the species notes —
 [bluefin tuna](../species/bluefin-tuna.md),
 [yellowtail](../species/yellowtail.md),
 [rockfish and lingcod](../species/rockfish-lingcod.md).
+
+**A separate, much shallower flat-fall application: rockfish and lingcod on
+isolated structure (Tackle Express, `S9sQ8Vg8-5o`, 2025-03-28; unregistered
+channel — medium confidence).** Distinct from the deep bluefin flat-fall
+program elsewhere in this note (100–350+ ft) — Shimano Butterfly Flat-Fall
+jigs are also fished, at a much larger-profile-for-shallow-water use, over
+shallow rock for a mixed rockfish bag (vermilion reds, chuckleheads named on
+camera) and, on the same larger profile, for **lingcod** specifically. Same
+drop-lift-flutter cadence as the Colt Sniper rockfish/lingcod sizing-by-depth
+entry in [iron jigs](iron-jigs.md#the-class--models) (same source): sink to
+bottom, one or two turns up, lift and let it flutter back down. **Line
+must stay vertical** for bite sensitivity — a jig scoped out toward the
+horizon reads as no bites, not as "not fishing here"; correct it by flicking
+the jig up-swell of the drift so it sinks back toward vertical as the boat
+comes onto it, rather than fighting a jig that's already trailing away.
+
+**Dedicated large-profile lingcod-only baits, named but not detailed on
+camera (same source):** "**Ling Cod Killers**" — the **Living Squid** and the
+**Ling Killer** — are named as baits fished specifically to draw one big
+lingcod rather than to put numbers in the box, distinct from the
+smaller-profile options (dropper loop, Colt Sniper, small flat-fall) reached
+for when the goal is just catching fish. No weight, color, or rig detail is
+given on camera for these two named baits.
 
 ### Choosing between two jigs by where the bites are coming (Capt. Matt, SD Fish and Sips)
 

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [iron, surface-iron, yo-yo, jig-stick, yellowtail, calico, tuna, baja, sea-of-cortez, cabrilla]
-sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo]
+sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2X8, M8hOYQ_6rSg, VpW91AKOFVQ, KLoEJInlmZo, EmZO8QiOfik, Ec2GaNpiOHI, yn1suHH6b1Y, -QnMvV4j_oM, 1uYIApdQQSM, 3g82igEL8yk, BLbUu_mfMJY, GXXvT7pS2fM, OL8D1l73RVg, PYlqIODuIPQ, SCQnyVEQfHY, TU5quAG4atM, XTsTpWnk1gU, fyJA3o2hVh0, pCd6QykcZ0w, 49joKHD7Umc, JgXMpjxRxmo, S9sQ8Vg8-5o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -227,6 +227,34 @@ jerkbait structure. Late-morning zone (60–80 ft): **Salas 6X, Salas 6X Jr.,
 bigger fish push down: **Salas 6X, Tady 40**, or a **7X-class iron**. Small
 **jig paras** in downsized sizes double as the fall/winter micro-bait
 match (~1–1.5 in bait, roughly October on).
+
+**SoCal rockfish/lingcod Colt Sniper sizing by depth, plus an 8 oz Ahi-class
+single-hook option (Tackle Express, `S9sQ8Vg8-5o`, "Rockfish Tackle & Gear
+Guide," 2025-03-28; unregistered channel — medium confidence):** distinct from
+this note's existing Coltsniper/dart-jig entries above (a daytime tuna
+finesse application) — here the same jig class is fished as a bottom
+drop-and-flutter yo-yo iron for rockfish and lingcod, sized to depth:
+
+- **60 g, "Candy Iwashi" color** — fishes best roughly **50–100/150 ft**, but
+  in wind or heavy current may not reach bottom even at that depth, in which
+  case size up.
+- **120 g, "Blue Pink" color** — can be fished as deep as **300 ft**, but
+  fishes best in the **100–150/200 ft** band; the step-up size when the 60 g
+  won't hold bottom.
+- **Retrieve — the same drop-lift-flutter cadence this source also uses for
+  Shimano Butterfly flat-fall jigs on the same trip** (see [flat-fall
+  jigging](../techniques/flat-fall-jigging.md) and [knife
+  jigs](knife-jigs.md) for that class' usual deep bluefin application — this
+  is a separate, much shallower rockfish/lingcod use of the same lure
+  family): sink to the bottom, take one or two turns up, then **lift the rod
+  and let it sink back down** on a controlled fall rather than a continuous
+  crank — the flutter/dart on the fall is the trigger, fished over isolated
+  rock specifically to draw a big rockfish up out of the structure.
+- **A separate, single-hook 8 oz option, ASR-rendered "AI's" — plausibly an
+  Ahi-class iron (asr-uncertain, brand not confirmed):** an 8 oz single-hook
+  metal jig for popping/jigging off the bottom, also made in treble-hook,
+  other-weight, and other-color versions; fished with the same drop-lift-
+  flutter cadence as the Colt Snipers above.
 
 **Lighter surface-iron sub-class, line-class-limited (same source):** an
 **A1-light** class jig is a tight-swimming jig good for both yellowfin and
@@ -500,6 +528,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
+- [Knife Jigs](knife-jigs.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
