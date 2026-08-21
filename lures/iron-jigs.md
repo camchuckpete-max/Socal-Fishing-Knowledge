@@ -81,6 +81,11 @@ the iron sinks and how it holds in current:
   years, pushing this three-jig pairing's earliest dated occurrence in this
   corpus back to 2018.
 
+**Crocodile-style spoons — a distinct swim-type split (Major Craft JP
+Standard vs. JP Micro):** spun out to its own note — see [Crocodile-Style
+Metal Spoons](crocodile-spoons.md) for the flip-flop vs. body-wobble action
+difference and its shallow-water/depth-control implications.
+
 **Diamond jig — a distinct heavy chrome yo-yo-class shape (SearcherSportfishing,
 "Tackle Tip Thursday Vol. 109 (Diamond Lure)," `XTsTpWnk1gU`, 2020-07-23;
 `searcher-sportfishing` registered channel — **low confidence: a named
@@ -491,6 +496,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)

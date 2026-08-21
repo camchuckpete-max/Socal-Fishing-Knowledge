@@ -613,6 +613,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
