@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -402,6 +402,27 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
     fishing — weedless (brush guard or Neck Breaker) for grassy or
     snag-prone cover, BKK Titan Diver where the underspin's extra
     flash/vibration is worth the added snag risk.
+- **War Baits A-Rig — bladed vs. non-bladed (Tackle Express, "Warbaits
+  A-Rigs: The Key to More Strikes!," `klb0VSg_I3w`, 2025-02-03; unregistered
+  channel, single mention — medium confidence).** A separate War Baits
+  product pair from the Neck Breaker/Slayer heads above — a **non-bladed
+  A-Rig** and a **bladed A-Rig** — reached for as a step up once you've
+  already settled on which jig head to fish. Named on the human-typed video
+  title as "A-Rig"; not confirmed as related to, and kept distinct from, the
+  multi-arm Alabama-style wire-harness "A-rig" documented in [swimbaits —
+  umbrella rig setup](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro)
+  — this War Baits product is fished as a single swimbait per rig, not a
+  multi-bait harness, and no source ties the two together.
+  - **Non-bladed:** the pick for a **subtler presentation** — it doesn't emit
+    much vibration, for when you don't need "this crazy extravagant rig
+    going."
+  - **Bladed:** emits **vibration and flash** and creates a **larger
+    displacement of water**, meant to draw more fish in to come check it
+    out. Reach for it fishing **deeper**, in **murky water conditions**, or
+    simply to signal there's more bait present than the non-bladed version
+    would show.
+  - **Sizing:** both are fished from **3-in up to 7-in** — match the jig
+    head size to the size of swimbait being used.
 - **PK-series swimbaits, sized up with cover density (Time On The Water
   panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
   confidence):** Lane's Newport Harbor grass plan runs a downsized **PK3**

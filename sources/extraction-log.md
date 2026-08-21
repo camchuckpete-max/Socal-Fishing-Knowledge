@@ -2712,7 +2712,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | kHUQd9jqG-A | Tackle Express | tutorial | parameter-skim | done | rigging/hollow-splice-and-serving.md; tackle/reel-maintenance.md — parameter-skim addition (low-confidence promotional tip on braid cutters for trimming splice tag ends), cross-linked |
 | kR-t-z1PPCE | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: auto-generated captions contain no substantive speech (only [music] tags and a repeated Heat fragment), despite the title implying fluorocarbon/tuna content |
 | k_ocIsSD6vQ | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 31s freshwater largemouth-bass ice pick soft-plastic color tip, out of SoCal/Baja saltwater scope, fails curation bar |
-| klb0VSg_I3w | Tackle Express | tutorial | parameter-skim | pending |  |
+| klb0VSg_I3w | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / War Baits A-Rig (bladed vs non-bladed) merged into jig-head-selection subsection |
 | kt3G72gUldM | Tackle Express | tutorial | parameter-skim | pending |  |
 | kuIKWNZ3Koo | Tackle Express | tutorial | parameter-skim | pending |  |
 | lNXZD79BvJY | Tackle Express | tutorial | parameter-skim | pending |  |
