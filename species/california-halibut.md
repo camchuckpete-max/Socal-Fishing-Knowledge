@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk]
+tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf, spawning]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk, ghHQe3fP9U4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -44,6 +44,30 @@ Nate Winnicki's rigging.
   and its squid-bed months** ([April priors](../seasonal/april.md) carry the
   squid cycle) stack big island halibut on the structure next to the nests. Tie
   the timing to **current and tide** (below), not the calendar.
+- **Two populations by depth/size, and a shared shallow-water window in
+  spring and fall (Tackle Express / Shannon Gallagher, `ghHQe3fP9U4`,
+  2025-11-04; unregistered channel — medium confidence):** his stated
+  general pattern, across bays, harbors and beaches together, is that
+  halibut push into **less than 15 ft of water** in spring and in fall. He
+  also splits the fishery into two populations: larger fish spend most of
+  their time in **80–200 ft**, only occasionally throwing a small one;
+  harbor fish run smaller, typically **17–33 in**, with an occasional 30 lb
+  outlier — his stated reasoning is that a fish outgrows the harbor
+  once it needs more food than the harbor can supply and relocates to more
+  productive deeper water. This general framing sits alongside, not
+  replacing, the grunion-specific spring-beach and structure-specific
+  fall-beach entries below, which give the beach-only mechanism in more
+  detail.
+- **Spawning nests and a stated conservation practice (same source):** he
+  describes finding **spawning aggregations ("nests")** — a cluster of
+  smaller **19–25 in male fish** around one larger **30–32 in female** —
+  and asks anglers who find one to be conservation-minded: keep one of the
+  abundant males (his stated range: **23–25 in**) rather than the female,
+  since removing the single female ruins that nest's whole chance to spawn;
+  and to keep the nest's location to yourself rather than share it — he
+  gives no stated reason for the secrecy beyond "enjoy it for the rest of
+  your life." This is a personal ethical practice stated on camera, not a
+  CDFW regulation — no jurisdiction/as-of claim is made.
 - **Beaches: spring timing follows the grunion cycle, fall doesn't (Tackle
   Express / Shannon Gallagher, `EuYOlsnxXko`, 2025-11-19; unregistered
   channel — medium confidence):** his stated reason spring and fall beach
@@ -98,6 +122,33 @@ conditions that put one there.** (General search method:
   turns "we just made long random drifts over sand" into "there's shale and small
   rock here — shorten the drift to the structure." Full method:
   [electronics & sounder](../planning/electronics-and-sounder.md).
+- **Spot fidelity, bait as the best indicator, and why a beach that looks
+  uniform isn't (Tackle Express / Shannon Gallagher, `ghHQe3fP9U4`,
+  2025-11-04; unregistered channel — medium confidence):** halibut return
+  to the **same physical spots year after year** — he compares this to
+  crappie — but which of several known spots is most productive can shift
+  from year to year (of three spots he checks, spot one might be best one
+  season, spot three the next), so recheck known spots rather than writing
+  one off after a slow year. His stated best indicator when searching is
+  **how much bait is holding in the area**; halibut are, in his words,
+  "really, really good at finding wherever the most bait is." The same
+  logic applies to a beach that looks featureless end to end: a few
+  sub-spots outfish the rest, tied to bait congregations, eelgrass, depth
+  changes, and how the deeper water leads up to the flat beach — work a
+  plan but stay open to moving, since halibut, despite a lazy reputation,
+  move around a lot.
+- **"Think like a gillnet" — locating fish on their travel corridor (same
+  source):** halibut living on sandy structure outside a bay/harbor/beach
+  reach the shallow spawning zone (**9–15 ft**) along fairly fixed travel
+  paths — his stated historical evidence is that the 1994 California
+  inshore gillnet ban mattered here specifically because a net set across a
+  channel ledge or harbor mouth intercepted fish moving along exactly this
+  kind of path. His practical translation for anglers: think about where a
+  fish would travel from deep water to shallow water and work that line,
+  not just the shallow endpoint. He also notes halibut can be
+  **depth-specific** even offshore — anglers who catch one in, say, 14 ft
+  of water will deliberately look for similar habitat at a similar depth
+  (13–15 ft) elsewhere rather than a different depth entirely.
 - **Drift discipline:** once you find the edge, **drift *along* the structure, not
   across it** — you may have to wait for conditions that let you drift the right
   way. Start 20 ft up-current of the spot and end 20 ft past it; if it looks good

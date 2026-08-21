@@ -2679,7 +2679,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater/Damiki-rig suspended-bass tail-spin-bait product talk, no SoCal/Baja species/location/technique named |
 | gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater lake-bass weed-vs-bite identification tip, no SoCal/Baja saltwater species/technique/location named |
 | gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: entire video is Northern California (Clear Lake) freshwater largemouth-bass fishing with freshwater techniques - no SoCal/Baja saltwater species, region, or technique overlap |
-| ghHQe3fP9U4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ghHQe3fP9U4 | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md / amended california-halibut router with two-populations/depth-window, spawning-nest conservation practice, spot-fidelity/bait-indicator, and gillnet-corridor entries; fixed one invented-reason and one smoothed-number defect |
 | gn2yquuU6eM | Tackle Express | tutorial | parameter-skim | pending |  |
 | h311A3s-dkY | Tackle Express | tutorial | parameter-skim | pending |  |
 | h3ZM-mnSNJ8 | Tackle Express | tutorial | parameter-skim | pending |  |
