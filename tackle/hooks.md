@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc, qHS-ewTQs9Q, qh3hL2Dt3HY, rd2Ia8HRbSg]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY, nRIAgz5G_Bc, qHS-ewTQs9Q, qh3hL2Dt3HY, rd2Ia8HRbSg, wl27BWAWpq0]
 confidence: medium
 ---
 
@@ -586,7 +586,11 @@ the bait present that season, and up to a bigger **size 1 or 1/0** in case of
 bigger bait showing up — the same bait-sets-the-hook-size logic as the doctrine
 above, with a third size point (1/0) this note's Coronados citation doesn't
 give. Not reconciled to one number, just a further, dated Flyliner data
-point for the same product line.
+point for the same product line. **Re-cut, not independent confirmation:**
+the same channel's 34 s short "Essential Hooks for Channel Islands Fishing"
+(`wl27BWAWpq0`, 2026-07-09) repeats this exact Flyliner sizing (and the Aki
+Twist range below) word for word — it is the opening ~35 s of this
+`nRIAgz5G_Bc` video re-uploaded on its own, per the corpus's re-cut rule.
 
 ### Owner Live Bait hook — kelp-paddy dorado/yellowfin starter rig (SearcherSportfishing, "Tackle Tip Thursday Vol. 7," `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel, single mention — medium confidence)
 
@@ -643,7 +647,12 @@ gives no bait size to explain the gap, but it sits in the same range as the
 (`PYlqIODuIPQ`, not otherwise detailed in this note) and the 50–70 (long-shank
 J) size logged for a white seabass dropper-loop build in [dropper
 loop](../techniques/dropper-loop.md) — all consistent with a bigger-bait,
-bigger-fish application than the season stock-up pick above.
+bigger-fish application than the season stock-up pick above. **Re-cut, not
+independent confirmation:** this same 4/0–6/0 Aki Twist range (and the
+Flyliner sizing above) is repeated word for word in the same channel's 34 s
+short "Essential Hooks for Channel Islands Fishing" (`wl27BWAWpq0`,
+2026-07-09) — the opening ~35 s of this `nRIAgz5G_Bc` video re-uploaded on
+its own, per the corpus's re-cut rule.
 
 ### A finesse-rig hook ladder by grade (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker, single mention — medium confidence)
 

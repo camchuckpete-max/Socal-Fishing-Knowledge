@@ -2792,7 +2792,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | vk3jbsINcPw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-tranx-300b-x-protect-water-resistance.md; tackle/reel-maintenance.md; tackle/tackle-express-shimano-nasci-fc-reel.md; tackle/tackle-express-shimano-tranx-300b-braking-system.md / new low-confidence Tranx 300B X-Protect coating note, cross-linked to sibling Tranx/Nasci notes |
 | w5iryVkSe-0 | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md: added construction-side wind-knot cause (carrier count + breaking strength) at medium confidence |
 | wk8bkqzdyM0 | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md: fourth re-cut of same interview, appended as duplicate-provenance paragraph |
-| wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; techniques/dropper-loop.md: verbatim re-cut of nRIAgz5G_Bc, logged as re-cut provenance, no new claims |
 | x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | pending |  |
 | x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | pending |  |

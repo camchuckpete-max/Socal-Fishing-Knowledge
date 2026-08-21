@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30, nJPQVouJQ0g, nRIAgz5G_Bc]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30, nJPQVouJQ0g, nRIAgz5G_Bc, wl27BWAWpq0]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -100,7 +100,13 @@ this note owns the rig and the retrieve.
   range than, and not reconciled to, the 8–12 oz figure just above from the
   same channel's `Eo_bA8IWvyU`; kept side by side as a second, wider-window
   data point on Channel Islands WSB torpedo-sinker weight rather than merged
-  into one number.
+  into one number. **Re-cut, not independent confirmation:** this same 6 oz
+  to 12–16 oz range is repeated word for word in the same channel's 34 s
+  short "Essential Hooks for Channel Islands Fishing" (`wl27BWAWpq0`,
+  2026-07-09) — the opening ~35 s of this `nRIAgz5G_Bc` video re-uploaded on
+  its own, per the corpus's re-cut rule; see also
+  [hooks](../tackle/hooks.md) where the same short's hook-sizing portion is
+  logged.
 - **White seabass overnight soak — staggered depths and line class
   (StokedOnFishing, Catalina Island, 2023-08-30, Y2bXn44lfqo; unregistered
   channel — medium confidence):** on an anchored overnight soak for
