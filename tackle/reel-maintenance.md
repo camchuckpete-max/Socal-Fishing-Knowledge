@@ -12,7 +12,10 @@ This note captures the **parameters and judgment calls** for looking over,
 cleaning, and storing rods and reels — a rainy stretch or the end of the season is
 the moment to do it. For the visual walk-through, see the source video:
 <https://www.youtube.com/watch?v=5yfA5XAaLLY> (5yfA5XAaLLY). Rod/reel selection
-context is in [rod & reel selection](rod-and-reel-selection.md).
+context is in [rod & reel selection](rod-and-reel-selection.md). For the
+mechanics of getting fresh line onto a reel without a tangle or a line twist —
+distinct from this note's care/storage/servicing scope — see
+[spooling line — tension and line-twist avoidance](spooling-line-tension-and-twist.md).
 
 ## Rinse discipline (do this every trip, not just offseason)
 
@@ -406,4 +409,5 @@ or a compressed drag going into storage.
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
+- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->

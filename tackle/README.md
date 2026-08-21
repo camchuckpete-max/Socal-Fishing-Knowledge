@@ -40,6 +40,7 @@
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](searcher-yellowtail-livebait-sliding-sinker-rig.md) — Steve Carson, dockside in San Diego alongside the Searcher (yGXSrUauo2w, "Tackle Tip Thursday Vol.
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md) — Spun out of line & leader — this note is the detail behind that note's "Braid construction" summary.
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md) — A live-bait feeder (sometimes called a bait-runner feature) is a spinning reel option worth selecting for if you fish live bait often — see rod & reel selection
+- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md) — Tackle Express (Harry, on camera; JmGT0zAaVOY, "How to Properly Spool Fishing Line | Shop vs At-Home Tips," uploaded 2025-12-13; unregistered channel, single me
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md) — Tackle Express, "The New Accurate Tern 2 is a Smooth Reel," 46kVgZ6P62M, uploaded 2022-08-02 — a 3:49 interview at the Tackle Express counter (host "Harry") wit
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Tackle Express, "Meet the Accurate Valiant 2 SPJ – Built for Slow Pitch Power!," A6-KPjRwGSQ, uploaded 2025-06-24 — a 92-second product feature rundown for one
@@ -63,5 +64,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 53 notes exceed the 30-node cap._
+_Map skipped: 54 notes exceed the 30-node cap._
 <!-- mermaid:end -->
