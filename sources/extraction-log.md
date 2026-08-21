@@ -2801,7 +2801,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | x_3ohQ_D-f8 | Tackle Express | tutorial | parameter-skim | done | none: freshwater largemouth bass content (crankbait rod vs worm rod, blade bait), out of SoCal/Baja saltwater scope |
 | xfPcA1VRgsw | Tackle Express | tutorial | parameter-skim | done | none: generic freshwater-bass tackle-care/line-inspection content, no SoCal/Baja-specific material |
 | xgPEt4Zj35Q | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md; lures/iron-jigs.md: added sport-boat single-hook swap for deck safety, medium confidence, fixed hook-attribution inversion |
-| y3MaZYZvyUg | Tackle Express | tutorial | parameter-skim | pending |  |
+| y3MaZYZvyUg | Tackle Express | tutorial | parameter-skim | done | none: freshwater minnow-style Diki rig content, out of SoCal/Baja saltwater scope |
 | y9YlqMQh3BI | Tackle Express | tutorial | parameter-skim | pending |  |
 | yEsbyq3WjWE | Tackle Express | tutorial | parameter-skim | pending |  |
 | yTPtYL9QAsw | Tackle Express | tutorial | parameter-skim | pending |  |
