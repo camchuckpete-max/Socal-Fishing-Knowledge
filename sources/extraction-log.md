@@ -2747,7 +2747,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | pMsbeLOgUc4 | Tackle Express | tutorial | parameter-skim | done | techniques/leadhead-swimbait-retrieve.md / added as re-cut/duplicate of OURS05qEGcA to source attribution, no new content |
 | pOFsjDTqaxY | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md (new); species/yellowtail.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / new note: 7:1 baitcaster torque/versatility for big yellowtail, flagged conflict vs Dan Wade's 6.5-7.5:1-too-fast doctrine |
 | pTenOTaHdUc | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 17s clip is only interjections, no fishing knowledge content |
-| pa0MS0GK_2o | Tackle Express | tutorial | parameter-skim | pending |  |
+| pa0MS0GK_2o | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater trout/bluegill/crappie ultralight reel sizing content, out of SoCal/Baja saltwater scope |
 | ptwN9MUDxjk | Tackle Express | tutorial | parameter-skim | pending |  |
 | q0it3pyUW6Q | Tackle Express | tutorial | parameter-skim | pending |  |
 | qHS-ewTQs9Q | Tackle Express | tutorial | parameter-skim | pending |  |
