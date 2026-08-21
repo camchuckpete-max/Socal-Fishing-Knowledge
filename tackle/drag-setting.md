@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag, rod-rating]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU, dFRpcvkLmb0]
 confidence: medium
 ---
 
@@ -55,6 +55,13 @@ Rod Every SoCal Angler Should Buy First," `DfLcSS-J3g4`, uploaded 2026-06-02):
   quarter-to-a-third rule above already establishes, restated from the
   buying-counter side: pick the drag from the rod's printed rating first,
   then let line/leader/backing be whatever the application calls for.
+  **A second Tackle Express upload** (`dFRpcvkLmb0`, "80lb braid on a 40lb
+  rod? Here is the truth about setting your drag.," uploaded 2026-06-07, 15 s)
+  restates this exact same weakest-link line and worked example — same
+  channel, same phrasing, five days after `DfLcSS-J3g4` above. Read as a
+  re-cut/short-form pull of the same counter moment, not a second, independent
+  mention; confidence stays `medium` per the re-cut rule, not bumped for a
+  repeat count.
 
 ## A second attributed method — pull test by hand, no scale (Dave Hansen, Your Saltwater Guide, o8vLdz7OmaE, 2022-02-25; dave-hansen registered — medium confidence, first commit of these specific claims pending repetition)
 

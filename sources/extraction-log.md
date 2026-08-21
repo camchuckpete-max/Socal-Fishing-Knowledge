@@ -2645,7 +2645,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | d93vB_EBu30 | Tackle Express | tutorial | parameter-skim | done | bait/fishing-live-bait.md: added squid-tank grip (keep eyes covered); techniques/dropper-loop.md: corroborated 3-pass/flip Owner Octy-twist squid-tail rigging; evaluator fixed missing sources front-matter |
 | dBAk9NScxSc | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-night-bluefin-tg-jig-rig.md: added as 6th provenance-only re-cut of Jerry-rig night/day/foamer TG-jig cycle, no new params; evaluator fixed invented causal claim + misquote |
 | dDvNAZpmx-8 | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md: added split-ring nose-reinforcement hack for tube-style halibut soft plastics (#2 split ring, hot sauce/Smelly Jelly lube) |
-| dFRpcvkLmb0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| dFRpcvkLmb0 | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md: added dFRpcvkLmb0 as re-cut citation of DfLcSS-J3g4's weakest-link/80lb-braid-40lb-leader-15-40rod worked example, no new content |
 | dKSnFf5IsmY | Tackle Express | tutorial | parameter-skim | pending |  |
 | dNn8U9LbL8c | Tackle Express | tutorial | parameter-skim | pending |  |
 | dTJihVPudgQ | Tackle Express | tutorial | parameter-skim | pending |  |
