@@ -2467,7 +2467,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic freshwater/trout ultralight rod product ranking, no SoCal/Baja content, fails curation bar |
 | IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-charter-bait-tank-hook-kit.md / corroborating occasion-to-hook-model map (Owner Flyliner ring/non-ring, Aki Twist, gorilla, Mutu circle) merged in |
 | IXHHNOX_t5Y | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass-lake color-selection short, correctly skipped as out-of-scope for SoCal/Baja saltwater KB |
-| IZHY3RXdyxg | Tackle Express | tutorial | parameter-skim | pending |  |
+| IZHY3RXdyxg | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md / corroborating bullet quantifying 9-of-10 no-swing guidance on Owner Mutu circle hooks added to circle-vs-J section |
 | IcS7QbJlSDA | Tackle Express | tutorial | parameter-skim | pending |  |
 | IqpeK5Xfhes | Tackle Express | tutorial | parameter-skim | pending |  |
 | IxfTRWmMqQU | Tackle Express | tutorial | parameter-skim | pending |  |

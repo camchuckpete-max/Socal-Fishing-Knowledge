@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg]
 confidence: medium
 ---
 
@@ -302,6 +302,19 @@ and why anglers reach for it.
   the bait "a better chance of swimming freely." Softer than the later "old school" framing
   but the same underlying non-ring lean, from the same channel and
   (plausibly) the same speaker, several years earlier.
+- **Quantifying how often the circle hook still needs a manual assist
+  (Tackle Express, `IZHY3RXdyxg`, "Stop Setting the Hook! Why You Need to Use
+  Circle Hooks," 2026-03-24; unregistered channel — medium confidence):**
+  demonstrated on an **Owner Mutu circle hook**, restates the core mechanism
+  above — the circle shape (point bent back toward the shank) is what drives
+  it into the **corner of the mouth** on its own, where a J hook instead
+  "catch[es] at any point that it can" — and puts a ratio on the don't-swing
+  guidance: getting bit on a circle hook, **nine times out of 10** the right
+  move is to put the reel in gear, wind the handle, and lift the rod, no
+  swing needed; fishing a fly liner or a J hook still calls for a hookset.
+  The "nine out of 10" framing is the one new data point here — it implies a
+  circle hook occasionally still needs a manual assist, consistent with,
+  not new beyond, the self-hooking mechanism already documented above.
 
 ### Downsize the hook, not the line, to save a slow bluefin bite (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
 
