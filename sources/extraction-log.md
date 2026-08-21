@@ -2499,7 +2499,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | M4G8IKsZEFU | Tackle Express | tutorial | parameter-skim | done | lures/crocodile-spoons.md; lures/iron-jigs.md / new lure note for JP Standard/JP Micro crocodile-spoon swim-type distinction, linked from iron-jigs.md |
 | M9_nvBPajDU | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md / amended note with drag-washer damage mechanism for off-free-spool lever adjustment, cross-linked to existing judgment-call doctrine |
 | M9nIhEsKsqU | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: near-verbatim re-cut of E4CDqBFOaP8, already captured in lures/lucky-craft-flash-minnow.md |
-| ME2jrqS_5bo | Tackle Express | tutorial | parameter-skim | pending |  |
+| ME2jrqS_5bo | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic wacky-rig bite-detection tips, no SoCal/Baja-specific content, fails curation bar |
 | MKe-Xu4XsGk | Tackle Express | tutorial | parameter-skim | pending |  |
 | MbYjzhHsiTU | Tackle Express | tutorial | parameter-skim | pending |  |
 | N24NBweNK4o | Tackle Express | tutorial | parameter-skim | pending |  |
