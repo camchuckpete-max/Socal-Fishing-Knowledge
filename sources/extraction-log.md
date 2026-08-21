@@ -2823,7 +2823,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | zkEMsCIhSic | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added skinny-worm-vs-high-volume O-ring/banded-keeper comparison bullet, corrected one over-specific invented reason during review |
 | zlelqp7Qo9Y | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/tackle.md |
 | zqZQLgj5W4k | Tackle Express | tutorial | parameter-skim | done | none / promotional apparel short with no fishing knowledge content, correctly skipped |
-| zwHzyv43H_Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| zwHzyv43H_Q | Tackle Express | tutorial | parameter-skim | done | none / 30s shop-stock/product plug for War Baits Neck Breaker jigheads + swimbaits, no new SoCal-specific parameters beyond generic species/structure list already captured |
 | 0rY9CEV5vsA | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
 | 2mHypTjZPzs | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
 | KNrxEjI0b1M | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
