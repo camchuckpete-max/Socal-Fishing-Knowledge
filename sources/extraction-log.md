@@ -2619,7 +2619,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | aF_16nVNch4 | Tackle Express | tutorial | parameter-skim | done | none: correctly out-of-scope freshwater lake bass/thermocline/Diki-rig content; extraction-log row completed with skip reason matching sibling skip pattern |
 | aFsyWOLIM48 | Tackle Express | tutorial | parameter-skim | done | skipped: no extractable content - 15s clip, captions are only [Applause] and a cut-off fragment; also out-of-region (striped bass) |
 | aKQqNbgISHY | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md: freshwater reservoir Carolina-rig content out of scope, but added the one saltwater-relevant aside (C3 ice pick on darter head, surf, perch/corbina) |
-| aauujAuF1hc | Tackle Express | tutorial | parameter-skim | pending |  |
+| aauujAuF1hc | Tackle Express | tutorial | parameter-skim | done | nothing extractable: auto-captions contain no usable speech (only Heat. Heat. and music) despite title suggesting a knot-tying tutorial |
 | af7a1tR2B84 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | pending |  |
 | akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | pending |  |
