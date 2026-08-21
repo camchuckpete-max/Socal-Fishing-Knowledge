@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, blank-construction, graphite, fiberglass, composite, reel-seat, grip, buying-guide, beginner, maintenance]
-sources: [DfLcSS-J3g4]
+sources: [DfLcSS-J3g4, TyxH9BBJ9U8]
 confidence: medium
 ---
 
@@ -11,7 +11,12 @@ A single Tackle Express buying-education segment covering three separate
 material choices on a saltwater rod (unnamed staff on camera, `tackle-express`
 unregistered channel, single mention — medium confidence; "The ONE Saltwater
 Rod Every SoCal Angler Should Buy First (Beginner Rod Buying Guide),"
-`DfLcSS-J3g4`, uploaded 2026-06-02). Distinct from
+`DfLcSS-J3g4`, uploaded 2026-06-02). The blank-material section below was also
+re-cut and reposted as a standalone 58-second short, "Is your fishing rod
+holding you back? Graphite vs. Fiberglass explained." (`TyxH9BBJ9U8`, uploaded
+2026-06-07) — identical wording, same on-camera speakers, same 00:06:24–00:07:41
+segment of the longer video; **not independent confirmation**, logged here only
+for provenance. Distinct from
 [composite rod blank construction](composite-rod-blank-construction.md), which
 covers why a composite blank's visible transition line is intentional — this
 note is the broader material comparison that clip's construction detail sits
