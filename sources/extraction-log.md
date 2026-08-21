@@ -2477,7 +2477,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JLaql6UUFVs | Tackle Express | tutorial | parameter-skim | done | none / out-of-domain freshwater bass jig-color content (Castaic/Pyramid lakes), no SoCal/Baja saltwater knowledge, correctly skipped |
 | JNMwUUst1rw | Tackle Express | tutorial | parameter-skim | done | none / 12s fragment, captions reduce to disconnected words, no extractable content |
 | JUcsUMJize0 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / added Speedmaster free-spool/SARB bearing spec and fly-lining/casting rationale |
-| JekeeKZA1Kw | Tackle Express | tutorial | parameter-skim | pending |  |
+| JekeeKZA1Kw | Tackle Express | tutorial | parameter-skim | done | none / freshwater reservoir bass jerkbait tackle picks, no SoCal/Baja saltwater relevance, correctly skipped |
 | JgD1gOuQAaE | Tackle Express | tutorial | parameter-skim | pending |  |
 | JgXMpjxRxmo | Tackle Express | tutorial | parameter-skim | pending |  |
 | JmGT0zAaVOY | Tackle Express | tutorial | parameter-skim | pending |  |
