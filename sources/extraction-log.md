@@ -2547,7 +2547,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | QQlQcPXARWk | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-penn-handle-knob-replacement.md; tackle/reel-maintenance.md; tackle/tackle-express-speedmaster-fathom-reel-sizing.md / new note for Penn Fathom/Torque/Squall handle-knob kit; evaluator corrected confidence low->medium |
 | QTq-G2y237w | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater bass tackle (Senko/Carolina rig/Ned rig/Nako rig), no SoCal/Baja saltwater content |
 | Qj6brwOJk9E | Tackle Express | tutorial | parameter-skim | done | tackle/star-drag-vs-lever-drag.md; techniques/rockfish-deep-dropping.md / third citation on 2-speed reels for SoCal rockfishing (depth, sinker weight, two-hook retrieve, gear-ratio fatigue), medium confidence |
-| Qqdt6f8Mjd4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| Qqdt6f8Mjd4 | Tackle Express | tutorial | parameter-skim | done | lures/lucky-craft-flash-minnow.md; species/california-halibut.md / halibut lure color-selection doctrine (white default, white/pink-belly, pink for surf halibut) added, medium confidence |
 | R0TQ7Afsh6Y | Tackle Express | tutorial | parameter-skim | pending |  |
 | R1spZEO1V-0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | R4yYK90-cZM | Tackle Express | tutorial | parameter-skim | pending |  |

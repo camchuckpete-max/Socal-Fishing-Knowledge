@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [lucky-craft, flash-minnow, hardbait, jerkbait, minnow-lure, halibut, surf]
-sources: [E4CDqBFOaP8]
+tags: [lucky-craft, flash-minnow, hardbait, jerkbait, minnow-lure, halibut, surf, color-selection]
+sources: [E4CDqBFOaP8, Qqdt6f8Mjd4]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast]
@@ -35,6 +35,30 @@ in **3, 4, or 5 ft of water** without hitting bottom.
 switch past ~10 ft is decided in
 [California halibut](../species/california-halibut.md#situations--techniques),
 alongside the other attributed surf/hardbait doctrine for this species.
+
+## Color selection (Tackle Express, `Qqdt6f8Mjd4`, 2026-05-09; unregistered channel, single mention — medium confidence)
+
+Framed as a starting-point answer to "how many colors do you need," not a
+full palette breakdown:
+
+- **Default starting color: white.** Stated as the color to tie on first
+  when narrowing down a choice.
+- **White with a pink belly** is called "a really good choice" — the
+  specific two-tone pattern named, not plain white or plain pink alone.
+- **Pink is described as a classic halibut color, and especially so for surf
+  halibut** specifically (as opposed to bay/boat presentations) — consistent
+  with this note's surf-minnow scope above.
+- **Stated context, not fully resolved on camera:** pink is also said to be
+  "more popular in Japan" (the transcript cuts to a sigh/reaction beat right
+  after this line, so it is not fully clear whether "more popular" refers to
+  the pink color specifically or to hard-bait flounder fishing generally —
+  carried here as stated, not resolved further).
+- **Design lineage, offered as context for why Japanese-brand hard baits
+  (like this one) dominate SoCal surf halibut fishing:** the speaker states
+  that a lot of SoCal/US hard baits for halibut have their roots in Japanese
+  flounder fishing, framed against Japan having "really good tackle" for
+  flounder despite California holding the larger fish of the two. Background
+  context for the lure's origin, not a standalone color or technique rule.
 
 ## How to fish it
 

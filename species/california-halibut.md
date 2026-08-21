@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -171,6 +171,13 @@ conditions that put one there.** (General search method:
   keeps it off the bottom, stated to work the same way across leadhead
   plastics, metal lures, and minnow hardbaits alike. A rod-handling lever to
   use alongside the lure-selection doctrine above, not a replacement for it.
+- **Hard-bait color starting point: white, or white with a pink belly; pink
+  is called a classic halibut color, especially for surf halibut (Tackle
+  Express, `Qqdt6f8Mjd4`, 2026-05-09; unregistered channel, single mention —
+  medium confidence):** full detail, including a stated (not fully resolved
+  on camera) Japan/flounder-fishing tackle-lineage aside, is kept with the
+  lure it was recorded alongside — see [Lucky Craft Flash Minnow — color
+  selection](../lures/lucky-craft-flash-minnow.md#color-selection-tackle-express-qqdt6f8mjd4-2026-05-09-unregistered-channel-single-mention-medium-confidence).
 
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
