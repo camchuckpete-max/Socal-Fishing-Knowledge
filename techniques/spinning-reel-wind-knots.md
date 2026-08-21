@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [spinning-reel, wind-knots, casting, braid, bail]
-sources: [WeabGOvhgto]
+sources: [WeabGOvhgto, cAZRaGB_RRM]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -13,10 +13,13 @@ A casting-technique cause of wind knots on a spinning reel, distinct from the
 spool-setup causes covered in [spooling line — tension and
 twist](../tackle/spooling-line-tension-and-twist.md). Those spool-setup
 causes are line twist from spooling and reverse line-lay taper; this note is
-the casting-side cause instead. Source is a single Tackle Express short,
-"Stop ruining your fishing line with these wind knot mistakes"
-(`WeabGOvhgto`, uploaded 2026-06-18); unregistered channel, single mention —
-medium confidence.
+the casting-side cause instead. Source is a pair of Tackle Express shorts on
+the same habit: "Stop ruining your fishing line with these wind knot
+mistakes" (`WeabGOvhgto`, uploaded 2026-06-18) and "Stop Wind Knots on
+Spinning Reels With This Simple Habit" (`cAZRaGB_RRM`, uploaded
+2026-01-13). Tackle Express is an unregistered channel, so repeated doctrine
+still caps at medium confidence (registry rule: unregistered channels cap at
+medium regardless of repetition).
 
 ## Reach for this when
 
@@ -43,6 +46,18 @@ independently of the spool-mechanism causes logged in the sibling note above.
   - the line from the tip-top to the lure is tight.
 - **Then sink it out** — let the lure sink under that tension, rather than
   free-spooling slack line down to it.
+- **Don't wind loose slack straight onto the spool either** — after the cast
+  there's a bit of loose line hanging below the first guide; closing the
+  bail and winding that loose line onto the spool without first coming tight
+  lets it get wrapped in underneath the spool, which creates a bigger tangle
+  than the wind knot itself (`cAZRaGB_RRM`, 2026-01-13).
+- **Two ways to take up that slack before winding normally:**
+  - Close the bail, grab the line taut with your fingers just above where
+    you'd normally hold it while fishing, and wind the loose line tight
+    until it comes tight against the lure — then release your fingers and
+    continue winding.
+  - Or simply raise the rod tip to take up the loose line, then wind and
+    continue fishing.
 
 ## Related
 
