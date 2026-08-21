@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8]
 confidence: medium
 ---
 
@@ -345,6 +345,13 @@ Fluoro does two different jobs; keep them separate:
   4–5 arm lengths of 25–30 lb (top-5 setups, xPFm_ZV2PZU; daytime roundup).
   Thin-diameter, low-memory fluoro cinches best on the tiny hooks a small
   [sardine](../bait/fishing-live-bait.md) can carry.
+- **Channel Islands multi-species trip, halibut floor / general range (Tackle
+  Express, `PnAnAS6QoG8`, 2026-07-14; unregistered channel — medium
+  confidence):** fluorocarbon is called not essential but beneficial
+  specifically for halibut and yellowtail on a Channel Islands trip, described
+  on camera as "a little bit more line shy" (no explicit comparison species
+  named in this clip). Typically as light as **20 lb for halibut**; **25–40
+  lb** fluorocarbon otherwise covers a Channel Islands trip.
 - **Reaction bite — poppers / stickbaits / jigs:** shorter (~4–6 ft) and heavier
   fluoro. Stealth matters less; abrasion and strength matter more — step to 60,
   80, even 100 lb (0EpILTF0yvE; xPFm_ZV2PZU).

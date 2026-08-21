@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -138,6 +138,20 @@ repeated across two videos rather than two independent confirmations.
   fish are active and there is current, especially when expecting a swim-through.
 - Can also be fished from the rod holder in current with a lighter head — let it
   waft mid-column and it will get eaten.
+
+### "Banana head" — light-gauge hook, multi-species squid presentation (Tackle Express, `PnAnAS6QoG8`, 2026-07-14; unregistered channel — medium confidence)
+
+A tackle-shop must-have (not called essential) for Channel Islands trips, as
+of the 2026-07-14 upload — a leadhead built with a **smaller-gauge hook**
+than a standard jig head. (The source clip names "Channel Islands" trips only;
+it does not itself say Ventura/Oxnard — that specific port pairing comes from
+a separate Tackle Express video, `nRIAgz5G_Bc`, and is not carried over here.) Fish it with **fresh dead squid or live
+squid**. As light as **1/2 oz** up to **1 oz**, the weight range chosen to
+**cover different parts of the water column**. Stated multi-species
+application: **calico bass, sand bass, white seabass, and halibut** — halibut
+specifically when the head is let all the way down to the bottom. Consistent
+with, and a lighter-gauge-hook variant of, the 1/8 oz–1 oz dockside range
+above from the same channel (`F-vOTerdulU`).
 
 ### Warbaits Neck Breaker — a compact jig-head alternative to the sliding sinker (Shannon Gallagher, Tackle Express)
 
