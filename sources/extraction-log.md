@@ -2501,7 +2501,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | M9nIhEsKsqU | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: near-verbatim re-cut of E4CDqBFOaP8, already captured in lures/lucky-craft-flash-minnow.md |
 | ME2jrqS_5bo | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic wacky-rig bite-detection tips, no SoCal/Baja-specific content, fails curation bar |
 | MKe-Xu4XsGk | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 15s clip, transcript only a single garbled ASR token, no content to capture |
-| MbYjzhHsiTU | Tackle Express | tutorial | parameter-skim | pending |  |
+| MbYjzhHsiTU | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 100% freshwater bass lure preview, no SoCal/Baja saltwater content |
 | N24NBweNK4o | Tackle Express | tutorial | parameter-skim | pending |  |
 | NBSJsN7uTKQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | NF8AJjqsDO8 | Tackle Express | tutorial | parameter-skim | pending |  |
