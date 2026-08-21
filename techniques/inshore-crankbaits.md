@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -77,6 +77,24 @@ situation calls for it lives in the routers:
   covered in [beach depth control](beach-lure-depth-control.md).
 - **Sweep, don't swing** — on the bite, sweep the rod and keep winding; a
   bass-style hookset **pulls trebles** out of the fish.
+- **Why treble hooks need "absorption" once a fish is pinned — sustained
+  fight mechanics, not the hookset itself (Tackle Express, `dNn8U9LbL8c`,
+  2026-03-16; unregistered channel, single mention — medium confidence):**
+  on a treble-hook bait you want all the bend/give ("absorption") in the rod
+  and line once a fish is pinned — shaking the hook loose or pulling it
+  straight out of the fish's mouth is the failure mode, and it's worst "when
+  he goes for a run," which loads the hook hardest and needs that absorption
+  to keep it planted rather than pulled free. Complements, without being
+  stated on camera as explaining, the sweep-don't-swing hookset rule above —
+  this reason covers give sustained through the fight (especially a run),
+  not the initial hookset motion.
+- **Bait action comes from the rod tip and the line, not just the retrieve
+  (same source):** a hard bait's swimming action is "really determined" by
+  how **soft the rod tip** is and by the **stretch in the line** — he singles
+  out **monofilament** as having "a lot" of stretch, which cushions the bait's
+  action as much as the angler's crank speed does. Consistent with, and adds
+  the line-stretch half of, the soft/limber-rod doctrine already in
+  [gear class](#gear-class) below.
 - **Retrieve reel wants to be slow** — a high-speed reel fights you cranking the
   bait down; a slow 200-size crank reel loads less on the arms.
 - **DD-class divers run ~10–15 ft down and get bit on the rise** (calico lanes).

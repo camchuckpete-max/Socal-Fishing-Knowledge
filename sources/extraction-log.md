@@ -2647,7 +2647,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dDvNAZpmx-8 | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md: added split-ring nose-reinforcement hack for tube-style halibut soft plastics (#2 split ring, hot sauce/Smelly Jelly lube) |
 | dFRpcvkLmb0 | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md: added dFRpcvkLmb0 as re-cut citation of DfLcSS-J3g4's weakest-link/80lb-braid-40lb-leader-15-40rod worked example, no new content |
 | dKSnFf5IsmY | Tackle Express | tutorial | parameter-skim | done | no KB destination: freshwater bass topwater-lure comparison (Sammy/Gunfish/Zara-Spook-class), reservoir largemouth bass, out of scope |
-| dNn8U9LbL8c | Tackle Express | tutorial | parameter-skim | pending |  |
+| dNn8U9LbL8c | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md: added treble-hook absorption-during-fight rationale + rod-tip/mono-stretch bait-action bullet; evaluator reworded causal framing |
 | dTJihVPudgQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | dWqD8l3jW6w | Tackle Express | tutorial | parameter-skim | pending |  |
 | degWvtQ4D_Y | Tackle Express | tutorial | parameter-skim | pending |  |
