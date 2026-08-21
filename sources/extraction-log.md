@@ -2580,7 +2580,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | U_jXfgsGBzM | Tackle Express | tutorial | parameter-skim | done | tackle/rod-blank-and-component-materials.md / provenance-only merge: confirmed re-cut of DfLcSS-J3g4's grip-material segment, added as source, no new note |
 | UbbkPKZ8_W4 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md; tackle/line-and-leader.md; tackle/tackle-express-night-bluefin-tg-jig-rig.md; tackle/tackle-express-shogun-maxcuatro-braid.md / new head-to-head product-comparison note (low confidence, sponsored), cross-linked |
 | UtFX1K01bA4 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic lure-storage-wallet product description, excluded under curation bar (bags/accessories) |
-| UtgMbyjlem8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| UtgMbyjlem8 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic reel-tier sales pitch, no concrete parameters, fails curation bar |
 | V1tmGZh3MNg | Tackle Express | tutorial | parameter-skim | pending |  |
 | V4opuMirbDU | Tackle Express | tutorial | parameter-skim | pending |  |
 | V54mcLzTubc | Tackle Express | tutorial | parameter-skim | pending |  |
