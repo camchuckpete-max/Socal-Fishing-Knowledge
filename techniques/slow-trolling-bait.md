@@ -116,6 +116,7 @@ watching the bait, and use the range as a sanity check.
 ## Linked from
 
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [Trolling](trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

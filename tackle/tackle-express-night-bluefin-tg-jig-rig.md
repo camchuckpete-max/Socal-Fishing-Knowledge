@@ -265,12 +265,17 @@ doctrine.
 - [Trophy bluefin jig outfit](tackle-express-trophy-bluefin-jig-outfit.md) —
   this same shop's earlier (2022) citation of the Jerry/Jarry rig, plus the
   hook upgrades and reel/rod ladder it's paired with.
+- [Maxcuatro metered braid — Shogun trip](tackle-express-shogun-maxcuatro-braid.md) —
+  this same shop's separate citation of a different named 100 ft-metered
+  product (Power Pro Maxcuatro) for the same night-bluefin-jig depth-calling
+  problem, aboard a different boat.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
+- [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md)
 <!-- backlinks:end -->
