@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, kelp, diagnostics, chum-drift, anchor, presentation]
-sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY, sIoNELGlxmk, Vbf40qvH9-Q]
+sources: [HnqiE05vdXs, 6TBxHnkYXI0, dgauGbNxP84, aFb221LUoD0, BskCsKaTiZw, JK2-cpaXkI8, LqW32NSkObY, sIoNELGlxmk, Vbf40qvH9-Q, sJGs-Jqt9Vo]
 confidence: high
 ---
 
@@ -122,6 +122,16 @@ unattended; if it does get away and ends up too far out on the horizon, **wind
 it in and drop it back down** to reset vertical, rather than continuing to
 fish it scoped out (Tackle Express, `Vbf40qvH9-Q`,
 2026-04-04; unregistered channel, single mention — medium confidence).
+
+**Attributed alternate fix, kept side by side — flick it up-swell instead of
+winding in (Tackle Express, `sJGs-Jqt9Vo`, 2026-03-28; unregistered channel,
+single mention — medium confidence):** rather than winding the jig in to
+reset vertical, if it's scoped out toward the horizon and can't be stopped,
+**flick it a little further up-swell**. As the boat drifts down onto that
+spot, the jig sinks on the way and should end up back roughly vertical —
+"right in front of you" — by the time it reaches bottom. A drift-timed
+correction rather than a retrieve-and-redrop one; not reconciled with the
+wind-it-in fix above, both aimed at the same scoped-out problem.
 
 This is the same drop/wind/drop corrective cadence already documented for
 [yo-yo iron](../techniques/yo-yo-iron.md#mechanics) (thumbing the spool so

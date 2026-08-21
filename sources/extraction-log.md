@@ -2769,7 +2769,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | s3hJuucTqUI | Tackle Express | tutorial | parameter-skim | done | none: out-of-scope freshwater product plug for stocked-lake striper swimbait, nothing extractable |
 | s7GMKI6c6RU | Tackle Express | tutorial | parameter-skim | done | none: 8-second promo clip, no extractable fishing knowledge |
 | sGnY4QxqMmI | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md: merged Mustad Rip Roller vs Nomad Streaker shape comparison, re-cut of ZrcwcugaEe4/5XWnm7ok09k interview, medium confidence |
-| sJGs-Jqt9Vo | Tackle Express | tutorial | parameter-skim | pending |  |
+| sJGs-Jqt9Vo | Tackle Express | tutorial | parameter-skim | done | conditions/current-diagnostics.md: attributed alternate scoped-out-line fix (flick up-swell vs wind-it-in) added side by side in Line scope section |
 | sPgP0aBUQm8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | sPs3Civek1w | Tackle Express | tutorial | parameter-skim | pending |  |
 | sSH80AImFX4 | Tackle Express | tutorial | parameter-skim | pending |  |
