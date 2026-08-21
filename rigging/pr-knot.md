@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [pr-knot, pr-bobbin, braid-to-leader, connection-knot, fg-knot]
-sources: [To2Dvx3Ifnc, ZrcwcugaEe4, foLSQJ5oRWI]
+sources: [To2Dvx3Ifnc, ZrcwcugaEe4, foLSQJ5oRWI, wk8bkqzdyM0]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -89,6 +89,20 @@ before giving the PR knot's own percentage). No speaker is named in this cut.
 Treated as a third re-cut of the same interview, not independent
 confirmation — it does not move confidence past the medium cap (Tackle
 Express is not a registered channel).
+
+**Fourth re-cut, same interview (2026-08-21 correction).** A near-identical
+clip titled "Braid to Leader: The Knot That NEVER Slips." (`wk8bkqzdyM0`,
+Tackle Express, uploaded 2026-02-08 — one day **before** `foLSQJ5oRWI`, same
+00:01:16 duration) carries a word-for-word identical transcript to
+`foLSQJ5oRWI`: same FG-knot-needs-no-tool-but-needs-tight-constant-tension
+framing, the same PR-bobbin-weight-keeps-constant-tension line, the same
+"tie the FG knots rather quickly and not tie it exactly correctly" failure
+description, the same ~10-year / never-had-the-knot-fail track record
+(spectra breaking above the knot, mono breaking below it), and the same
+FG-at-98%-on-a-destruction-testing-machine figure, cutting off mid-sentence
+before the PR knot's own percentage in the same place. No new information —
+treated as a duplicate re-upload of the same 76-second clip, not independent
+confirmation; does not move confidence past the medium cap.
 
 ## Tie it
 
