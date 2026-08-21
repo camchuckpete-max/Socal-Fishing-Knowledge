@@ -2663,7 +2663,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | enDs3G5bpDc | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass craw rig, no SoCal/Baja content, correctly skipped |
 | epuNd10icxQ | Tackle Express | tutorial | parameter-skim | done | none: airline travel/boarding-order tip for rod bundles, no fishing content, correctly skipped |
 | eqRMpfcuM2s | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md; techniques/wind-in-your-face-positioning.md: re-cut of S9sQ8Vg8-5o merged as corroborating citations, fixed overconfident ASR product-name assertion |
-| eqeESarhRrE | Tackle Express | tutorial | parameter-skim | pending |  |
+| eqeESarhRrE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md: re-cut citation confirming Speedmaster 20/25 round-knob issue and all-sizes Fathom T-bar claim |
 | f0gBoLc7scw | Tackle Express | tutorial | parameter-skim | pending |  |
 | f1pZI-bfMz4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | f22V2HCv8tI | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE]
 confidence: medium
 ---
 
@@ -162,6 +162,16 @@ re-cut-footage rule — different clip, same channel).
   Distinct from a full handle swap: for just the **knob** on a stock T-bar
   handle, see [Penn handle knob replacement — Fathom, Torque,
   Squall](tackle-express-penn-handle-knob-replacement.md).
+  A short standalone clip, "Round Knob vs. T-Bar: Which reel handle wins for
+  monster fish?" (`eqeESarhRrE`, uploaded 2026-02-15, 66 s), covers this same
+  round-knob-vs-T-bar point in near-identical wording ("tiring on your palm,"
+  "wear blisters," "grab and... torque on," aftermarket handles as "added
+  cost") — read as a re-cut of this same segment rather than independent
+  confirmation, per the re-cut-footage rule. It names **both the Speedmaster
+  20 and 25** (not just the 25) as the sizes where the round knob falls short
+  for 80 lb-test, triple-digit-class fish, and states the Fathom line ships
+  T-bar handles "from the smallest all the way to the largest" — consistent
+  with, not new beyond, the all-sizes T-bar claim already given above.
 
 ## Free spool — Speedmaster bearing spec, and why free spool matters (Tackle Express)
 
