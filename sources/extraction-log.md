@@ -2677,7 +2677,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | g5yDzjORhho | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md; lures/soft-plastic-swimbaits.md / Added War Baits Slayer/Pickle Kick open-hook rigging steps (exit-point marking, insertion, finish, straight-track/bite-rate reason) and cross-linked a named-example pointer |
 | gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / merged single-clip stated-mechanism rationale (more fall action draws bigger, lazier fish) into knife-jigs.md's existing fall-behavior discussion, capped at medium confidence |
 | gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater/Damiki-rig suspended-bass tail-spin-bait product talk, no SoCal/Baja species/location/technique named |
-| gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | pending |  |
+| gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater lake-bass weed-vs-bite identification tip, no SoCal/Baja saltwater species/technique/location named |
 | gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ghHQe3fP9U4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | gn2yquuU6eM | Tackle Express | tutorial | parameter-skim | pending |  |
