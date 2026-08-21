@@ -1515,6 +1515,7 @@ water temp and bait depth before committing the day to one face.
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)

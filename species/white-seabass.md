@@ -290,6 +290,7 @@ into the spot once the current read right.
 - [October](../seasonal/october.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)

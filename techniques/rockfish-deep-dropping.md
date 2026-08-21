@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -50,6 +50,18 @@ built around **feeling the bite from depth**:
   sinker off bottom. Keep a short mono top shot anyway because mono is
   easier to cinch tight when tying [dropper loops](dropper-loop.md) — the
   point is short top shot, not no top shot.
+- **A two-speed reel earns its keep here specifically for fatigue, not
+  torque alone** (Tackle Express, `OdRZIDBO6Mg`, 2025-02-20; unregistered
+  channel, single mention — medium confidence): cranking a heavy fish up
+  from 200+ ft in high gear all day is tiring on the hands and back;
+  shifting to low gear later in the day winches the fish up slower but with
+  much less effort. Paired with a **shorter rod, 7–7'6", medium-heavy or
+  heavy** — this source's stated reason a two-speed reel and a 9 ft rod
+  "doesn't make a whole lot of sense" together. Selection-level detail (when
+  to reach for two-speed vs. single-speed at all) is in [star drag vs. lever
+  drag](../tackle/star-drag-vs-lever-drag.md#when-to-reach-for-a-two-speed-at-all--deep-bottom-fishing-vertical-work-and-rod-length-tackle-express);
+  the bigger-body-beats-smaller-reel torque point above is a separate,
+  corroborating reason to size the reel up for this depth.
 
 ## Rigs — three ways to fish the bottom
 
@@ -351,4 +363,5 @@ free of the release clip so it can swim back to structure.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

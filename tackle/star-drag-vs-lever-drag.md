@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, star-drag, lever-drag, two-speed, drag-system, free-spool, casting, bluefin]
-sources: [tYebwLzTyf8, 1nBqYdvVrXY]
+sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg]
 confidence: medium
 ---
 
@@ -82,6 +82,43 @@ point back to.
   a shop-counter product interview, with California named for the casting
   application (see the linked note).
 
+## When to reach for a two-speed at all — deep bottom fishing, vertical work, and rod length (Tackle Express)
+
+Tackle Express ("2-Speed Reels Explained! When to Use Them & Why You Need
+One," `OdRZIDBO6Mg`, uploaded 2025-02-20, 100 s; unregistered channel,
+presenter unnamed on camera, single mention — medium confidence). A
+narrower, selection-level question than the bluefin-fight mechanism in
+[two-speed reel technique](../techniques/two-speed-low-gear-fight.md) below:
+not how to shift mid-fight, but which applications call for a two-speed
+reel in the first place.
+
+- **Deep-water bottom fishing (200+ ft) is the core case.** Fishing in high
+  gear all day is "extremely tiring"; his own practice is to shift into low
+  gear as he gets tired over the course of a day and just winch the fish
+  up. It takes longer to come up — the spool turns slower — but it's much
+  easier on his hands and his back, especially later in the day.
+- **Rod length pairs with the reel choice.** For bottom fishing he prefers a
+  **shorter rod, 7 to 7'6", usually medium-heavy or heavy** — a 9 ft rod
+  paired with a two-speed "doesn't make a whole lot of sense most of the
+  time." A lot of weight on the line plus fish adds up to a lot pulling on
+  the angler, and the longer the rod, the more it pulls.
+- **The general rule: two-speed for vertical fishing.** "Anytime you're
+  fishing vertically" a two-speed makes sense with a shorter rod — this
+  frames the deep-bottom-fishing case above as one instance of a broader
+  vertical-presentation rule, consistent with the rockfish/lingcod deep-drop
+  application in [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md).
+- **Casting is the other side of the line — prefers single-speed.** If
+  you're casting to get a jig or a popper out there, a longer rod works
+  with either a two-speed or a single-speed, but his preference for that
+  style of fishing is a **single-speed reel** — unless targeting **bigger
+  tuna using poppers**, where a two-speed still applies. For
+  [yellowtail](../species/yellowtail.md), [calico
+  bass](../species/calico-bass.md), or [white
+  seabass](../species/white-seabass.md), he wants a single-speed most of the
+  time. Consistent with, and a species-level gloss on, the star-drag-for-
+  casting doctrine already in this note and in [rod & reel
+  selection](rod-and-reel-selection.md).
+
 ## Reach for this when
 
 - **Star drag** — flylining live bait (anchovies, sardines) or casting a
@@ -90,6 +127,11 @@ point back to.
 - **Lever drag** — once the priority shifts to fighting the fish: adjusting
   drag pressure through the fight, or stepping up to a two-speed lever-drag
   reel for bluefin-grade fish.
+- **Two-speed specifically** — deep bottom fishing (200+ ft) or vertical
+  presentations generally, paired with a shorter (7–7.6 ft) rod; reach for
+  single-speed instead when casting jigs or poppers at yellowtail, calico
+  bass, or white seabass, unless the target is bigger tuna on poppers
+  (Tackle Express, `OdRZIDBO6Mg`, above).
 
 ## Cross-references — where this distinction is already worked in application
 
@@ -140,6 +182,7 @@ following more detailed, application-specific entries already in this KB:
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)

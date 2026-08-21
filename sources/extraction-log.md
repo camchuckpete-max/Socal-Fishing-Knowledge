@@ -2516,7 +2516,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | OFEpEeFomp4 | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped freshwater ultralight trout gear rundown (no SoCal/Baja saltwater content) |
 | OKFUMvJbacE | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: no species/location evidence in 36s clip, ambiguous freshwater-vs-saltwater bass, extractor's sand-bass attribution unsupported |
 | OURS05qEGcA | Tackle Express | tutorial | parameter-skim | done | techniques/leadhead-swimbait-retrieve.md; species/california-halibut.md; techniques/swimbaits.md; lures/soft-plastic-swimbaits.md / new technique note for leadhead-swimbait count-and-pause retrieve, wired into halibut router and cross-linked from swimbait notes |
-| OdRZIDBO6Mg | Tackle Express | tutorial | parameter-skim | pending |  |
+| OdRZIDBO6Mg | Tackle Express | tutorial | parameter-skim | done | tackle/star-drag-vs-lever-drag.md; techniques/rockfish-deep-dropping.md / two-speed-vs-single-speed application rules merged into both notes, medium confidence |
 | Oi5n-uVpY9g | Tackle Express | tutorial | parameter-skim | pending |  |
 | OitNR_M4lxw | Tackle Express | tutorial | parameter-skim | pending |  |
 | Ol3RPAsImg0 | Tackle Express | tutorial | parameter-skim | pending |  |
