@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8, jeJAsY_M0oc]
 confidence: medium
 ---
 
@@ -45,6 +45,19 @@ Braid is the main line on essentially every SoCal setup. Choosing the class
   the job allows: mostly **30 or 50 lb**, up to **65** on a jig stick, **65–80**
   for casting at 100 lb-class bluefin. **Below 30 lb** braid gets too thin for a
   baitcaster (fine on a spinning reel).
+- **A steeper diameter-equivalence example, and the stealth reason for a
+  leader stated plainly (Tackle Express, `jeJAsY_M0oc`, "Braided Line
+  Secrets: Thinner, Stronger, but Needs a Leader!," 2026-03-01; unregistered
+  channel, single mention — medium confidence):** braid is described as a
+  woven/threaded fabric material, strong and rigid; the source's own worked
+  example is an **8 lb braided line with a diameter equivalent to 1 lb
+  test** monofilament/fluorocarbon — a steeper thinness ratio than the 65 lb
+  braid ≈ 20 lb mono diameter cited just above, kept side by side as a
+  separate source's own number rather than reconciled into one ratio. Stated
+  reason a leader is required rather than optional: fishing straight braid to
+  the lure lets the fish see the line and costs bites — the same
+  stealth/visibility reasoning behind this note's fluoro-leader doctrine
+  elsewhere in this section.
 - **Braid over mono as the main line for deep bottom fishing (Dave Hansen,
   Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen registered
   voice, single mention — medium confidence):** for a rockfish quick gangion fished at
