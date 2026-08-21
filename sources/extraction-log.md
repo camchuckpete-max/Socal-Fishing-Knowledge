@@ -2463,7 +2463,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md / Tackle Express beach-channel sink-rate/current, color-by-clarity, and named Bassday Gyokusai 97 floater merged in |
 | HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / Colt Sniper dual-mode cast-and-swim/cast-and-yo-yo doctrine plus smaller-profile Observed bullet merged in |
 | HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: auto-captions contain no fishing content, only stray word and music markers |
-| HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | pending |  |
+| HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 30s on-the-water catch clip, only fragmented exclamations/names, no content clears curation bar |
 | IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | pending |  |
 | IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | pending |  |
 | IXHHNOX_t5Y | Tackle Express | tutorial | parameter-skim | pending |  |
