@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw, fPxqoEforhA]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw, fPxqoEforhA, fnaGBGbrhqU]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -249,6 +249,21 @@ than iron.
   weird like that happens" — see [hooks](../tackle/hooks.md) for the full
   citation and a second, independent Cedros/Baja-Pacific data point on the
   same hook model.
+
+  **A second, likely-related clip adds the trigger and the bait's shape**
+  (Tackle Express, `fnaGBGbrhqU`, "The secret lure that turns Cedros
+  yellowtail fishing into a wide-open bite," upload 2026-05-20; unregistered
+  channel — medium confidence; not confirmed to be the same trip or angler
+  as the `9kGpcEHqIUc` citation above, though the channel and bait name
+  match): the speaker names the **Channel Islands** (`socal-bight`) as home
+  water, fishing yellowtail and calico bass there, and draws an explicit
+  contrast with Cedros — *"you can fish stuff that you don't typically fish
+  up at... home"* — crediting the island's sheer volume of fish (*"very
+  special... just with the amount of fish there"*). The stated trigger for
+  reaching for the triple trout
+  specifically: **seabirds working over a wide-open yellowtail bite**. This
+  clip also confirms the bait's shape as a **three-piece hard bait** (a
+  jointed swimbait/plug), a detail the citation above doesn't give.
 
 ## Doctrine & conflicts
 
