@@ -47,6 +47,7 @@ California halibut as an application.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [California Halibut](../species/california-halibut.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 <!-- backlinks:end -->

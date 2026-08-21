@@ -163,6 +163,14 @@ conditions that put one there.** (General search method:
   structure-relating drift program and from the Brent/Aquatek fast-retrieve
   entry above — kept side by side, not reconciled, as a third attributed
   hard-bait/shore approach.
+- **Rod-tip height as a beach depth control, any lure (Tackle Express,
+  `QJd7A6oiV4U`, 2026-05-09; unregistered channel, single mention — medium
+  confidence):** see [beach depth
+  control](../techniques/beach-lure-depth-control.md) — holding the rod tip
+  low runs a lure at maximum depth, mid-height moderates it, and tip-up
+  keeps it off the bottom, stated to work the same way across leadhead
+  plastics, metal lures, and minnow hardbaits alike. A rod-handling lever to
+  use alongside the lure-selection doctrine above, not a replacement for it.
 
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
@@ -310,6 +318,7 @@ for the fine/soft-mesh or rubberized-net fix.
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
+- [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)

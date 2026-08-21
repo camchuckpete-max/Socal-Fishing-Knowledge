@@ -71,7 +71,10 @@ situation calls for it lives in the routers:
   goal is covering water and drawing a reaction bite rather than working a
   known holding spot.
 - **Control depth with rod-tip height** — tip up a foot to ride over grass, tip
-  down to dig; the rod is the depth trim, not the retrieve.
+  down to dig; the rod is the depth trim, not the retrieve. The same
+  tip-down/mid/tip-up lever, generalized across lure classes (leadhead
+  plastic, metal, and minnow hardbait alike) for beach/surf casting, is
+  covered in [beach depth control](beach-lure-depth-control.md).
 - **Sweep, don't swing** — on the bite, sweep the rod and keep winding; a
   bass-style hookset **pulls trebles** out of the fish.
 - **Retrieve reel wants to be slow** — a high-speed reel fights you cranking the
@@ -254,6 +257,7 @@ anglers skip.
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

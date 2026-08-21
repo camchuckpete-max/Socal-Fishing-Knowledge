@@ -2541,7 +2541,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Q6ACpkS93sk | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md / corroborating citation: double dropper loop for SoCal rockfish, torpedo sinker, Owner Aki Twist 1/0 example |
 | QEmxUIGmKbo | Tackle Express | tutorial | parameter-skim | done | species/white-seabass.md; species/yellowtail.md; tackle/tackle-express-white-seabass-rod-reel-line.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md / casting-reel-over-heavy-tuna-gear recommendation added to both species routers and new tackle note |
 | QEpa3WYbEa8 | Tackle Express | tutorial | parameter-skim | done | none / skipped: 23s reaction clip, no rig/technique parameters spoken despite title |
-| QJd7A6oiV4U | Tackle Express | tutorial | parameter-skim | pending |  |
+| QJd7A6oiV4U | Tackle Express | tutorial | parameter-skim | done | techniques/beach-lure-depth-control.md; species/california-halibut.md; techniques/inshore-crankbaits.md; techniques/leadhead-swimbait-retrieve.md / new technique note: rod-tip depth control across lure classes, cross-linked |
 | QJeYLzFEbzs | Tackle Express | tutorial | parameter-skim | pending |  |
 | QP6c8vcslVs | Tackle Express | tutorial | parameter-skim | pending |  |
 | QQlQcPXARWk | Tackle Express | tutorial | parameter-skim | pending |  |

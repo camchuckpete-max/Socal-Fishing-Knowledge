@@ -67,6 +67,10 @@ retrieve only.
   [California halibut](../species/california-halibut.md#situations--techniques)
   (a shallow-running minnow, and a fast-retrieve hard bait) — those are
   different lure classes solving the same shallow-beach problem.
+- **Rod-tip height is a complementary hand-position adjustment, not a fix for
+  this limitation** — see [beach depth control](beach-lure-depth-control.md):
+  it doesn't stop the leadhead wanting to return to bottom fast, it just
+  raises or lowers where that fast fall happens in the column.
 
 ## Gear class
 
@@ -93,6 +97,7 @@ above; kept as a separate citation rather than merged in.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [California Halibut](../species/california-halibut.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
