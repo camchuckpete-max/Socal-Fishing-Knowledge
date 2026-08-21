@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -71,6 +71,14 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
     shot." No separate rigging detail is given for these three beyond the
     same **VMC Spin Shot #2** hook recommendation covered in [Drop
     Shot](../techniques/drop-shot.md#hook-option--swivel-built-hook-for-a-free-swinging-bait-tackle-express-m2qziy2lr98-2026-04-20-_xfscslirvk-2026-04-23-unregistered-channel--medium-confidence).
+- **Ice pick crossover to the surf, on darter heads, for barred surfperch and
+  corbina** (Tackle Express, `aKQqNbgISHY`, 2022-06-15; unregistered channel,
+  single mention, stated secondhand — "I have guys that use a lot of the ice
+  picks on darter heads in the surf for perch and corbina" — medium
+  confidence). No rigging detail beyond the head type is given. The source
+  video is otherwise freshwater reservoir/lake drift-fishing content
+  (Carolina-rigging the Shimmy for lake bass, not a SoCal saltwater species)
+  and is not carried here beyond this one crossover mention.
 - **Gulp grubs** — scented curly-tail grubs; the **scent is the activator** for
   bottom-feeding bay fish. A **grub swims on a constant retrieve** (rod tip down
   at ~45°, steady wind) on a drop-shot or a light jighead, unlike the tailless
