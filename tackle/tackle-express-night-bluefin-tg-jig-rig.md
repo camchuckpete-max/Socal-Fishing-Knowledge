@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, tuna, jig, tungsten, tg-jig, night, talica, saltiga, metered-braid, leader, depth, fluorocarbon, foamer, durability, colt-sniper, casting-distance, popping-rod, rockfish]
-sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc, CsKEtrcLgiQ, DuNkl8F45NE]
+sources: [3-0kaaHqA7A, A7rveRBkL-g, BsWb5BQ1Tdc, CsKEtrcLgiQ, DuNkl8F45NE, dBAk9NScxSc]
 confidence: medium
 ---
 
@@ -29,6 +29,28 @@ repeating itself — no new confirmation of those parameters, per the
 prefer-latest / no-independent-reconfirmation rule for re-cut footage. The
 handful of details in `CsKEtrcLgiQ` not present in the two earlier clips are
 folded into the sections below, cited to `CsKEtrcLgiQ` specifically.
+
+**Third provenance note:** a still-shorter Tackle Express clip (`dBAk9NScxSc`,
+"How to Rig Tungsten Jigs for BIG Bluefin Tuna," uploaded 2025-06-20 — inside
+the same 2025-06-16–2025-06-21 cluster as the three clips above; unregistered
+channel, single mention — medium confidence) covers the identical night/day/
+foamer re-rig cycle in 65 seconds: the night "Jerry rig" (200 lb bite leader,
+90 offshore hook, welded rings, welded 500 lb swivels), stated reason that an
+unseen leader in the dark lets the angler "bring it right onto the boat";
+swapped off at daybreak — stated reason, "those fish have light and it's
+easier for them to see" — for a single assist hook probably straight-tied on
+~100 lb, which the source says will "allow me to speed jig this thing during
+the day" for a reaction bite from non-feeding daytime bluefin (no reason is
+given for *why* the lighter day rig enables the speed-jig retrieve — that
+causal link is not in the source, only the visibility reason for dropping the
+night rig and the bare assertion that the day rig can be speed-jigged); and,
+if bluefin come up on the surface, casting the same jig at the foamer —
+tungsten's density given as the reason it's "going to fly through the air and
+splash right to the other side of that foam," then swims back through it
+like a stickbait on the retrieve. No parameter here
+goes beyond the day/night/foamer rig and reasoning already logged in this
+note from the other clips in the same cluster — read as one more re-cut of
+the same talking points, not independent confirmation.
 
 **Second provenance note:** a still-shorter Tackle Express clip
 (`A7rveRBkL-g`, "Tungsten Jigs: The Secret to More Bites This Summer,"
