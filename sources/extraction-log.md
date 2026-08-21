@@ -2612,7 +2612,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | _C7TJoGT0nw | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md; lures/iron-jigs.md; lures/rapala-husky-magnum.md; lures/soft-plastic-swimbaits.md; tackle/hooks.md; tackle/tackle-express-baja-light-setup-yellowtail-insurance.md; tackle/tackle-express-jig-stick-trolling-outfit.md; tackle/tackle-express-cedros-four-rod-quiver.md; techniques/slow-trolling-bait.md; techniques/surface-iron-color.md / 32-min Cedros gear interview merged into 10 existing notes plus new four-rod-quiver note, cross-referencing shorter clips cut from same interview as non-independent |
 | _L6mE8ip5l8 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 37s freshwater trout-jigging clip, near-duplicate re-cut of already-skipped OFEpEeFomp4, no SoCal/Baja saltwater content |
 | _QgS6QUcvFs | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic 31s reel-fast bass clip, no SoCal/Ned-rig markers, matches freshwater Castaic Lake pattern already ruled out-of-scope for adjacent Tackle Express videos |
-| _RfXwHSaG48 | Tackle Express | tutorial | parameter-skim | pending |  |
+| _RfXwHSaG48 | Tackle Express | tutorial | parameter-skim | done | skipped: freshwater largemouth-bass crawfish-jig video (Castaic/Pyramid lakes), out of scope, not SoCal/Baja saltwater |
 | _XfScSliRVk | Tackle Express | tutorial | parameter-skim | pending |  |
 | _eON-xT2mOE | Tackle Express | tutorial | parameter-skim | pending |  |
 | _rcxIWhNMSE | Tackle Express | tutorial | parameter-skim | pending |  |
