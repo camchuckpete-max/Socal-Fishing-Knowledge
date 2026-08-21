@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-action, buying-guide, retail, beginner, fatigue]
-sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU, KamUiykeRlU]
+sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU, KamUiykeRlU, nwmIqR2VgfI]
 confidence: medium
 ---
 
@@ -109,6 +109,13 @@ vibrating it yourself.
   the angler after one fish means getting back out for a second, third, and
   further fish sooner — framed against the cost of a sport-boat ticket and
   the value of a full limit.
+- **Stated benefit: no risk of breaking the rod.** A companion short (Tackle
+  Express, `nwmIqR2VgfI`, "The secret to testing a fishing rod like a pro,"
+  uploaded 2026-06-30, 34 seconds — same underlying advice as the segments
+  above, most likely another re-cut rather than independent confirmation)
+  states the hip-pull test's benefit plainly: put the rod in your hip and let
+  the shop employee pull on it too, "and then you don't have to worry about
+  breaking a rod," while still feeling what it's like fighting a fish.
 - **Never fully substitutes for pulling on rods in person.** The presenter's
   stated practice: sell a reel online or by phone without hesitation, but a
   rod is worth going into a shop for — pull on four or five options and one
