@@ -467,6 +467,7 @@ Bass casting / swimbait class, stepping up to a heavy glide-bait class for
 - [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](../tackle/tackle-express-savage-gear-line-thru-swimbait-rigging.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

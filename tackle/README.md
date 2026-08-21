@@ -76,6 +76,7 @@
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
 - [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Tackle Express, "This Jigging Reel is an Absolute TANK – Saltiga 300 Round," Wk4wKFLbWEQ, uploaded 2025-06-05 — a 142-second product feature rundown for one ree
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — Two Tackle Express clips comparing the same two reel lines, both presented by Harry (self-identified on camera in both), tackle-express unregistered channel — p
+- [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](tackle-express-savage-gear-line-thru-swimbait-rigging.md) — Tackle Express, "How To Rig a Savage Gear Line Thru 12-in 3D Swimbait" (valIU8lsMX4, uploaded 2014-12-04, 92 s; presenter unnamed on camera).
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md) — Tackle Express, "Shimano Nasci FC: The Budget-Friendly Reel That Delivers!," YyW4-8FRjn8, uploaded 2025-01-27 — a 90-second, presenter-unnamed straight product-
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md) — Tackle Express, "Budget-Friendly Ultralight Reel: Shimano Sedona Review!," v6X2s1lb1aE, uploaded 2025-01-25 — a 77-second, presenter-unnamed straight product-fe
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — Tackle Express, "Shimano Talica: The Ultimate Saltwater Powerhouse!," af7a1tR2B84, uploaded 2024-12-29 — an 88-second, presenter-unnamed feature rundown for the
@@ -92,5 +93,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 82 notes exceed the 30-node cap._
+_Map skipped: 83 notes exceed the 30-node cap._
 <!-- mermaid:end -->
