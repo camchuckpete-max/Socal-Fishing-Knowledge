@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine]
-sources: [JmGT0zAaVOY]
+tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine, wind-knots, line-lay]
+sources: [JmGT0zAaVOY, PoTRe9SRjm8]
 confidence: medium
 ---
 
@@ -45,6 +45,28 @@ narrowly about the mechanics of getting line onto the spool without a tangle.
   fed under tension and laid **directly over the top of** the reel spool
   (rather than off to the side) — eliminating the twisting effect this way,
   not by any adjustment to the reel itself.
+
+## Line-lay taper — a second, separate spinning-reel wind-knot cause
+
+Tackle Express, `PoTRe9SRjm8`, "Stop the wind knots: Fix your spinning reel
+spool now!," uploaded 2026-06-17; unregistered channel, single mention —
+medium confidence. This is a **different failure mode from the line-twist
+mechanism above** — it's about how the spool sits on the reel and the shape
+of the resulting line lay, not about how the fresh line was fed onto the
+spool during respooling.
+
+- **Diagnose by eye, looking at the line lay on the spool.** A correctly
+  spooled spinning reel lays line **either dead level or with a very slight
+  forward taper** (visually flagged "Yep" in the source).
+- **A reverse taper — the spool sitting too far forward — causes wind knots
+  nearly every time** (visually flagged "Nope," with red reference lines on
+  the spool showing the taper direction). Stated mechanism: with a reverse
+  taper, the line coming off the **back** of the reel catches on line already
+  laid at the **front** of the spool.
+- The clip is a diagnostic only — 31 seconds, showing the "Nope" vs. "Yep"
+  spool shapes side by side. It does not state the fix (e.g., adding/removing
+  spool washers to move the spool's position on the shaft), so that step is
+  left unrecorded here rather than invented.
 
 ## Shop machine — what it buys you
 

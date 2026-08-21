@@ -2532,7 +2532,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | PfHjk3G0yek | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: 29s auto-captioned fragment, only numbers reference off-screen diagram, no anchorable SoCal parameter |
 | Pn3BcC_IN9Y | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: freshwater largemouth-bass topwater-lure clip (Jackall Pompadour Jr), no SoCal/Baja saltwater content, fails curation bar |
 | PnAnAS6QoG8 | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md; tackle/line-and-leader.md / banana-head + fluorocarbon parameter-skim merged; evaluator removed fabricated Ventura/Oxnard detail and resolved relative-time phrase |
-| PoTRe9SRjm8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| PoTRe9SRjm8 | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md / new section: spinning-reel reverse line-lay taper as distinct wind-knot cause, medium confidence |
 | Pxky7drjPkU | Tackle Express | tutorial | parameter-skim | pending |  |
 | PzjZxCRKXpc | Tackle Express | tutorial | parameter-skim | pending |  |
 | Q14rHkHGBsk | Tackle Express | tutorial | parameter-skim | pending |  |
