@@ -2686,7 +2686,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hAryw1v3I68 | Tackle Express | tutorial | parameter-skim | done | techniques/surface-iron-casting.md / added pros' reasons for low-profile baitcaster over conventional (level-wind removes line management; external brake/tensioner dials in on the water when switching lure weight), medium confidence |
 | hBAxFcjts5A | Tackle Express | tutorial | parameter-skim | done | none / skipped: out-of-region/off-topic promo - freshwater bass tackle announcement, no SoCal/Baja saltwater content |
 | hJjNZf-JYSs | Tackle Express | tutorial | parameter-skim | done | none / near-duplicate re-upload of Wk4wKFLbWEQ, content already captured in tackle/tackle-express-saltiga-300-round-jigging-reel.md; correctly no edit made |
-| hMLwRt6Sxn8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| hMLwRt6Sxn8 | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / merged the braid break-in/wax-coating parameter-skim into the existing braid section, cross-referenced against existing leader/abrasion doctrine |
 | hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | pending |  |
 | hXcgczEYcKE | Tackle Express | tutorial | parameter-skim | pending |  |
 | hc8n16HQO_E | Tackle Express | tutorial | parameter-skim | pending |  |

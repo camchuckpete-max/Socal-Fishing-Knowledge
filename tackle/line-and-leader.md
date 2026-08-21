@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4, gn2yquuU6eM, hMLwRt6Sxn8]
 confidence: medium
 ---
 
@@ -214,6 +214,18 @@ merged into one spec, and set against the bait-size doctrine in
   or 60 lb. Jack starts a session with a **4 ft leader on the [MC/Big Hammer]
   swimbait** and trims/re-ties it down over roughly two hours of fishing as
   it gets nicked.
+
+### New braid has a break-in period — don't judge it straight off the spool (Tackle Express, `hMLwRt6Sxn8`, "Why your braided line needs a leader, and why you should wait before judging it.," 2026-05-24; unregistered channel, single mention — medium confidence)
+
+- Braid ships from the factory with a **wax coating**, or on some spools **excess
+  dye**, on it — neither is the line's settled, broken-in state.
+- **Fish it for roughly an hour** before deciding whether you like a new spool of
+  braid, rather than forming an opinion straight off the spool.
+- Same source restates this note's existing why-a-leader doctrine (a leader
+  overtop of braid protects against braid's **low abrasion resistance**, even
+  though braid itself is exceptionally strong) — consistent with, not new
+  information beyond, the leader-heavier-than-braid reasoning already logged
+  above and in [line ↔ leader matching](#line--leader-matching--the-actual-combo-logic-academy-ep16).
 
 ### Braid construction — hollow vs solid, smooth vs rough
 
