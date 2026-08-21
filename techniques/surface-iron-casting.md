@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, distance, backlash, wind]
-sources: [VpW91AKOFVQ, eL1Qm33-Mj0, 6EDQtQHEwFE, 3dVc-2rsYII, KLoEJInlmZo, IhBY5RHFvuk, 0DKmYId1NN4, ejUTAnONf7o, BLbUu_mfMJY, 49joKHD7Umc]
+sources: [VpW91AKOFVQ, eL1Qm33-Mj0, 6EDQtQHEwFE, 3dVc-2rsYII, KLoEJInlmZo, IhBY5RHFvuk, 0DKmYId1NN4, ejUTAnONf7o, BLbUu_mfMJY, 49joKHD7Umc, hAryw1v3I68]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -200,6 +200,29 @@ anti these setups"*), and directly aimed at people new to the technique:
   in [gear classes](../tackle/gear-classes.md) — and it sits against the
   high-ratio-reel caution in [surface iron](surface-iron.md#gear-class-detail),
   which is about *retrieve* speed, not casting. Kept side by side.
+
+**Why pros pick it too, not just beginners (Tackle Express, "Why pros are
+ditching traditional reels for this setup.," `hAryw1v3I68`, 2026-05-07 — a
+39-sec clip; `tackle-express` unregistered, single mention — medium
+confidence).** Two unnamed speakers give stated reasons for choosing a
+low-profile baitcaster over a conventional reel like a
+[Torium](../tackle/gear-classes.md) for casting irons — a separate rationale
+from the beginner's-path framing above:
+
+- **The level wind removes line management.** *"It's just easier to fish,
+  especially with irons. You just have to turn the handle. You don't have to
+  worry about your line management."*
+- **The external brake and spool tensioner let you dial in per cast, on the
+  water, switching lure weight** — a Torium or similar conventional reel can't
+  do this: *"you're fishing a surface iron, then you go to a 60 g Colt Sniper,
+  and it's like, 'Oh, I backlash. Let me dial it in a little bit,' and where
+  you can't do that with a Torium or any of those kind of reels."* This is the
+  same underlying problem as the spool-tension bullet in "Matching the cast to
+  the rod" above (jig-weight changes need a tension reset) — here it's given as
+  the reason to prefer a baitcaster's external adjustment over a conventional
+  reel that lacks it, rather than a mid-session technique.
+- Stated conclusion: *"with a low-profile baitcaster, you have a lot more
+  control on your casting."*
 
 ## Guide material — a minor factor next to technique
 
