@@ -2633,7 +2633,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | done | tackle/rod-blank-and-component-materials.md: added blG8NnDhQ1c as 4th provenance-only re-cut of reel-seat-material claims, no new content |
 | bvYMtjbflq8 | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): freshwater largemouth-bass Neco/wacky-worm rig at Castaic Lake; evaluator applied change filling stale extraction-log row |
 | cAZRaGB_RRM | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md: merged loose-slack-under-spool failure mode + finger-tension/rod-tip-raise takeup methods, confidence held at medium |
-| cBATKqWkQws | Tackle Express | tutorial | parameter-skim | pending |  |
+| cBATKqWkQws | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-vanford-fa-reel.md (new, capped low): MGL rotor + CI4+ 2.5x rigidity claims; linked from gear-classes.md and cross-linked with CI4+ note; evaluator ran link-maintenance |
 | cNfPlAZWLB8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | cSTfQy8eb44 | Tackle Express | tutorial | parameter-skim | pending |  |
 | cZ3KlPWiPWw | Tackle Express | tutorial | parameter-skim | pending |  |

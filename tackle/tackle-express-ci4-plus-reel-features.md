@@ -46,6 +46,11 @@ application (species/technique/line class) is given in this clip.
 
 ## Related
 
+- [Shimano Vanford FA — MGL Rotor and CI4+ Body
+  (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — a
+  **different, presenter-unnamed** clip's reel vs. this named model: the
+  Vanford FA clip makes the identical "2.5× more rigid than the first
+  generation" CI4+ claim independently.
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag
   (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) and
   [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal
@@ -70,4 +75,5 @@ application (species/technique/line class) is given in this clip.
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
+- [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->

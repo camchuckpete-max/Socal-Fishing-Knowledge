@@ -69,4 +69,5 @@ Sedona) is given in this clip.
 ## Linked from
 
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->
