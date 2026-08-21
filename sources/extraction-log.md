@@ -2641,7 +2641,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | c_L2hqBXwYA | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): 72s generic Damiki Axe Blade tackle-shop product pitch, no species/technique/region stated; evaluator filled stale log row |
 | c_YgwlJdsSk | Tackle Express | tutorial | parameter-skim | done | no KB destination: 34s freshwater ultra-light trout-rod (1-4lb) sizing tip, no SoCal/Baja content; evaluator filled stale log row |
 | d0fxBYmAnIk | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-penn-vs-avet-lever-drag.md (new): Penn vs Avet Raptor Series comparison (knurl, strike-to-full button, drag curve/preset); linked from star-drag-vs-lever-drag.md |
-| d31ID9JHgns | Tackle Express | tutorial | parameter-skim | pending |  |
+| d31ID9JHgns | Tackle Express | tutorial | parameter-skim | done | no KB destination: 59s teaser clip, verbatim re-cut of already-extracted EuYOlsnxXko fall-beach-halibut segment (species/california-halibut.md); evaluator filled stale log row |
 | d93vB_EBu30 | Tackle Express | tutorial | parameter-skim | pending |  |
 | dBAk9NScxSc | Tackle Express | tutorial | parameter-skim | pending |  |
 | dDvNAZpmx-8 | Tackle Express | tutorial | parameter-skim | pending |  |
