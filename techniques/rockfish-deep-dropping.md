@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -380,6 +380,29 @@ reach bottom depth rather than stalling partway up (a fish released too
 shallow slides free and floats back to the surface), then free-spool it down
 to depth and give the rod a sharp snap ("hit the air brakes") to pop the fish
 free of the release clip so it can swim back to structure.
+
+## Detecting the bite and setting the hook (dangling gangion) (Tackle Express, `WHLz0kR___I`, 2026-03-31; unregistered channel, single mention — medium confidence)
+
+For the soaked dropper-loop gangion above (rod dangling off the side of the
+boat, reel in gear, wound up **1–3 turns off the bottom**, then left to sit):
+the tell is the **rod tip bouncing, jiggling, and dancing** — that motion is
+the bite, read before you feel anything through the blank.
+
+- **Hookset — a small swing plus the handle, at the same time.** His own
+  preference: give the rod a little upward "hump" while starting to turn the
+  handle in the same motion, not one then the other. The swing drives the
+  hook; turning the handle at the same moment picks up the slack the swing
+  creates, so the hookset and the slack pickup happen together rather than
+  the swing outrunning the retrieve.
+- **A contrasting preference, same source:** other anglers skip the swing
+  entirely and just turn the handle straight through the bite. Framed
+  on camera as **preference, not a right/wrong call** — kept beside the
+  swing-and-turn method above rather than reconciled.
+- Contrast with the wind-retrieve skirted-bait system above, where the stated
+  rule is the opposite — **don't swing** on a tap-tap, keep winding steadily
+  and let the long-shank hook self-set — a different rig (self-hooking
+  long-shank hook on a steady retrieve) driving a different answer, not a
+  conflict with the dangling-gangion bite/hookset above.
 
 ## Common failures
 

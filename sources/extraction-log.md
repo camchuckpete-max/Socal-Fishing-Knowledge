@@ -2591,7 +2591,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Vl0BuetK2D0 | Tackle Express | tutorial | parameter-skim | done | techniques/clearing-a-backlash.md; tackle/reel-maintenance.md; techniques/underhand-casting.md / new technique note for hand-tensioning a backlash clear, cross-linked from underhand-casting.md and reel-maintenance.md |
 | VotK9jwqRJ8 | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: freshwater bass/trout jerkbait-and-chatterbait line-preference chatter, no SoCal/Baja relevance, matches channel's own out-of-scope precedent |
 | W0mj_LA-qcM | Tackle Express | tutorial | parameter-skim | done | tackle/rod-length-for-angler-size.md / re-cut of existing Tackle Express 9ft-rod doctrine, folded in as one new stated reason under point 4 (can't stand back far enough on a crowded rail); confidence held at medium, no new note created |
-| WHLz0kR___I | Tackle Express | tutorial | parameter-skim | pending |  |
+| WHLz0kR___I | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / Added dangling-gangion bite-detection/hookset section (rod-tip tell, swing+turn vs turn-only preference), correctly cross-referenced against the existing wind-retrieve don't-swing doctrine as a different rig, not a conflict |
 | WPYrq_jdK2o | Tackle Express | tutorial | parameter-skim | pending |  |
 | WeabGOvhgto | Tackle Express | tutorial | parameter-skim | pending |  |
 | Wk4wKFLbWEQ | Tackle Express | tutorial | parameter-skim | pending |  |
