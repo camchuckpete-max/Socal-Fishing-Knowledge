@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -62,6 +62,20 @@ built around **feeling the bite from depth**:
   drag](../tackle/star-drag-vs-lever-drag.md#when-to-reach-for-a-two-speed-at-all--deep-bottom-fishing-vertical-work-and-rod-length-tackle-express);
   the bigger-body-beats-smaller-reel torque point above is a separate,
   corroborating reason to size the reel up for this depth.
+- **Rod length for rock fishing — leverage and rail-hauling, not just
+  fatigue** (Tackle Express, `eLwier3zVdo`, "Is your fishing rod actually
+  fighting against you?," 2026-03-27; unnamed staff, unregistered channel,
+  single mention — medium confidence): framed for rock fishing generally —
+  heavy weights, larger sinkers, fishing really deep — the stated
+  recommendation is **7 ft–7 ft 6 in, generally nothing longer**, hedging up
+  to an 8 ft ceiling at most. Two stated reasons, both distinct from the
+  two-speed-pairing reason above: (1) **leverage** — the longer the rod, the
+  more leverage a fish has over the angler fighting it; (2) **rail-hauling
+  reach** — once the fish is fought alongside the boat, a longer rod holds it
+  farther from the rail, so the angler has to reach farther out to grab the
+  fish and haul it up and over the side. Reinforces the same 7–7'6" range
+  already logged above from a different Tackle Express video, by two new
+  reasoning chains.
 - **A third Tackle Express citation, naming the SoCal depth range and the
   sinker/two-hook mechanism that drives the fatigue — footage traced to its
   full-length source (Tackle Express, `S9sQ8Vg8-5o`, "Rockfish Tackle & Gear
