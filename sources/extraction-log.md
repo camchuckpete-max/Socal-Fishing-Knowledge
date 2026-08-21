@@ -2695,7 +2695,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hmz8n_9MzZA | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable (evaluator apply-with-changes): 36s clip, no species qualifier beyond bare 'bass', no SoCal/Baja/saltwater marker, matches channel's freshwater-bass pattern |
 | hokc5FLmSjA | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: Deps Spiral Minnow is very likely a freshwater bass wake-bait (same-day companion to confirmed-freshwater Deps Buzzjet, same channel/presenter); no SoCal/Baja content in transcript |
 | i4rJy9Uwb-U | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md — merged as second (likely re-cut) source into existing tension/braid/baitcaster bullets, confidence held at medium |
-| i6G6vX0tKn4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| i6G6vX0tKn4 | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 14s clip is on-the-water chatter only, no gear/parameter content despite title |
 | iBdz2SfeA1g | Tackle Express | tutorial | parameter-skim | pending |  |
 | iHwvUl0dhxk | Tackle Express | tutorial | parameter-skim | pending |  |
 | iQjTILHaxqo | Tackle Express | tutorial | parameter-skim | pending |  |
