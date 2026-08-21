@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano, talica, infinity-drive, hagane-body, s-compact-body, core-protect, lever-drag, two-speed, tackle-express]
-sources: [af7a1tR2B84, pL7ZGuMVwo4]
+sources: [af7a1tR2B84, pL7ZGuMVwo4, sl2MRqpiS60]
 confidence: low
 ---
 
@@ -51,7 +51,22 @@ regardless of channel") this note is capped at **low** in full, on top of
   used across nearly all of Shimano's reels — matches Shimano's Hagane Body
   line). Described on camera only as "one of Shimano's potent options ...
   that's in almost all of their reels," with no further mechanical detail
-  given.
+  given. A third, presenter-unnamed Tackle Express clip, "Shimano's secret
+  weapon in reel tech exposed!," `sl2MRqpiS60`, uploaded 2026-02-18, 38
+  seconds, names the same feature ("Hagane body," same near-universal-across-
+  the-lineup framing) and adds mechanical detail neither `af7a1tR2B84` nor
+  `pL7ZGuMVwo4` gives: a high-end, rigid material chosen to keep the frame
+  from binding or flexing under load, framed on camera as holding "the most
+  solid composition it can" with "no flexing or binding whatsoever."
+
+  `sl2MRqpiS60` also restates the S Compact body / 25%-smaller-palm-side /
+  easier-palming / less-fatigue claim below almost word for word. Like
+  `af7a1tR2B84` and `pL7ZGuMVwo4`, it names no specific model — so, per this
+  repo's "re-cut/duplicated footage is never independent confirmation" rule,
+  it is treated as a third re-cut of the same underlying source recording,
+  not a third independent source. Only the added Hagane-body rigidity/binding
+  detail is new information; the S Compact restatement adds nothing beyond
+  the existing bullet below.
 
 No model size (e.g., Talica 12/16/20/25), gear ratio, max drag figure, line
 capacity, or price is given in this clip.

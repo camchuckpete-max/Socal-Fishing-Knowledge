@@ -2774,7 +2774,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | sPs3Civek1w | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / word-for-word re-cut of already-extracted BPxE3xn3gAc closing segment (Basstrix Flash Trick halibut colors); added as provenance-only source, no new doctrine |
 | sSH80AImFX4 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 24-second vlog clip with no stated fishing parameters, technique detail, or decision rationale |
 | sj_9QYlGtGo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / re-cut of existing Fathom build-features bullet list, added as third citation, no new parameter, confidence unchanged at medium |
-| sl2MRqpiS60 | Tackle Express | tutorial | parameter-skim | pending |  |
+| sl2MRqpiS60 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md / added as third citation to existing Hagane-body/S-Compact bullet, treated as re-cut not independent confirmation, confidence low |
 | smdXDSyuVnY | Tackle Express | tutorial | parameter-skim | pending |  |
 | t0kkwlrNwHk | Tackle Express | tutorial | parameter-skim | pending |  |
 | t3kDnoGYfVs | Tackle Express | tutorial | parameter-skim | pending |  |
