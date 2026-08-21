@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [drag, drag-setting, reels, line-class, circle-hooks, tuna, fighting-fish, free-spool, hookset, lever-drag, rod-rating]
-sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU, dFRpcvkLmb0]
+sources: [VpW91AKOFVQ, o8vLdz7OmaE, 9JnIS8HkZlA, -hY20bxz3oM, F0g5r9Rkrd4, OIqdmhKfuOc, wGWjnW7wCiI, ypr-qZF4FTY, eehDVb6_GoI, CSpBymCVWN4, Psiiza6YQyE, lYyi_Yh3S5g, DfLcSS-J3g4, M9_nvBPajDU, dFRpcvkLmb0, ugML6PvRyc8]
 confidence: medium
 ---
 
@@ -61,7 +61,16 @@ Rod Every SoCal Angler Should Buy First," `DfLcSS-J3g4`, uploaded 2026-06-02):
   channel, same phrasing, five days after `DfLcSS-J3g4` above. Read as a
   re-cut/short-form pull of the same counter moment, not a second, independent
   mention; confidence stays `medium` per the re-cut rule, not bumped for a
-  repeat count.
+  repeat count. **A third Tackle Express upload** (`ugML6PvRyc8`, "Stop
+  breaking your fishing rod! Master your drag settings.," uploaded
+  2026-06-05, 35 s — dated between `DfLcSS-J3g4` and `dFRpcvkLmb0` above)
+  restates the identical "weakest link of the chain" line, the identical
+  15–40 rod / 80 lb braid / 40 lb leader worked example, and adds one more
+  worked number on the same 40 lb-rated rod — **12 lb** as the concrete
+  strike-drag figure used in its own 80 lb-braid example, still inside the
+  10–13 lb / quarter-to-a-third range already logged above. A third
+  re-cut of the same counter moment within a five-day window (06-02, 06-05,
+  06-07), not a third independent mention; confidence stays `medium`.
 
 ## A second attributed method — pull test by hand, no scale (Dave Hansen, Your Saltwater Guide, o8vLdz7OmaE, 2022-02-25; dave-hansen registered — medium confidence, first commit of these specific claims pending repetition)
 
