@@ -2734,7 +2734,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ntS17IEKyJ0 | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md / added Recovery section for freeing a loop that already formed while winding, medium confidence |
 | nwjIEWJyjKU | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / added shallow vs deep sinker-weight bracket (60-100ft/6-10oz, 600-700ft/16oz+), cross-linked dropper-loop.md |
 | nwmIqR2VgfI | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / merged hip-pull rod-test safety rationale (no risk of breaking rod) into existing note |
-| o5TR7y6-q6A | Tackle Express | tutorial | parameter-skim | pending |  |
+| o5TR7y6-q6A | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 61s promo anecdote, no SoCal/Baja parameters, only location (Morro Bay) is out of region |
 | o7Kd0aNAijQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | oGCAX8dgR5o | Tackle Express | tutorial | parameter-skim | pending |  |
 | okJCANlWWE4 | Tackle Express | tutorial | parameter-skim | pending |  |
