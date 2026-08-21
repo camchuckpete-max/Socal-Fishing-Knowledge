@@ -2678,7 +2678,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / merged single-clip stated-mechanism rationale (more fall action draws bigger, lazier fish) into knife-jigs.md's existing fall-behavior discussion, capped at medium confidence |
 | gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater/Damiki-rig suspended-bass tail-spin-bait product talk, no SoCal/Baja species/location/technique named |
 | gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater lake-bass weed-vs-bite identification tip, no SoCal/Baja saltwater species/technique/location named |
-| gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | pending |  |
+| gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: entire video is Northern California (Clear Lake) freshwater largemouth-bass fishing with freshwater techniques - no SoCal/Baja saltwater species, region, or technique overlap |
 | ghHQe3fP9U4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | gn2yquuU6eM | Tackle Express | tutorial | parameter-skim | pending |  |
 | h311A3s-dkY | Tackle Express | tutorial | parameter-skim | pending |  |
