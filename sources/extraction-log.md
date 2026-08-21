@@ -2462,7 +2462,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | GeydGK-62fw | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md / corroborating medium-confidence addition to existing 60-degree rod-angle doctrine; fabricated reel/shock-absorber mechanism stripped by evaluator |
 | H5Z-Mqt4qXs | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md / Tackle Express beach-channel sink-rate/current, color-by-clarity, and named Bassday Gyokusai 97 floater merged in |
 | HQC-NwW4018 | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / Colt Sniper dual-mode cast-and-swim/cast-and-yo-yo doctrine plus smaller-profile Observed bullet merged in |
-| HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | pending |  |
+| HQH_1XxBx7w | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: auto-captions contain no fishing content, only stray word and music markers |
 | HXsiiSWsfOY | Tackle Express | tutorial | parameter-skim | pending |  |
 | IHKuTb93XEU | Tackle Express | tutorial | parameter-skim | pending |  |
 | IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | pending |  |
