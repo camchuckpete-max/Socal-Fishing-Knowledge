@@ -2710,7 +2710,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | k0rhryq2kYI | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 38s clip, captions have no substantive speech (stray fragment, [music], single letter), no gear content despite title |
 | k23JzE3Fr-I | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-fish-kicker-quick-clip-surf-bait.md; tackle/README.md; tackle/line-and-leader.md; tackle/tackle-express-surf-halibut-rod-lineup.md — new tackle note for Fish Kicker 25 lb quick clips, linked from two siblings |
 | kHUQd9jqG-A | Tackle Express | tutorial | parameter-skim | done | rigging/hollow-splice-and-serving.md; tackle/reel-maintenance.md — parameter-skim addition (low-confidence promotional tip on braid cutters for trimming splice tag ends), cross-linked |
-| kR-t-z1PPCE | Tackle Express | tutorial | parameter-skim | pending |  |
+| kR-t-z1PPCE | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: auto-generated captions contain no substantive speech (only [music] tags and a repeated Heat fragment), despite the title implying fluorocarbon/tuna content |
 | k_ocIsSD6vQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | klb0VSg_I3w | Tackle Express | tutorial | parameter-skim | pending |  |
 | kt3G72gUldM | Tackle Express | tutorial | parameter-skim | pending |  |
