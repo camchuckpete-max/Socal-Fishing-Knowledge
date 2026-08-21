@@ -43,9 +43,11 @@ Sedona) is given in this clip.
 ## Related
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross,
-  Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md) —
-  the same kind of unapplied, presenter-stated feature list for a different
-  (unnamed) Shimano reel, at the same capped-low confidence.
+  Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
+  and [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body
+  (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — the
+  same kind of unapplied, presenter-stated feature list for other Shimano
+  reels, at the same capped-low confidence.
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament
   Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) and
   [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal

@@ -289,10 +289,12 @@ fixed count):
 This general grease-and-clean discipline is what keeps a reel's own
 manufacturer-claimed gear/bearing durability features performing over time —
 see [CI4+ reel features — body, Infinity Drive, Infinity Cross, Anti-Twist
-Fin](tackle-express-ci4-plus-reel-features.md) and [Shimano Nasci FC — X-Ship,
-Propulsion Line System, Core Protect](tackle-express-shimano-nasci-fc-reel.md)
-for two more unapplied, presenter-stated (not independently verified) claims
-along those lines.
+Fin](tackle-express-ci4-plus-reel-features.md), [Shimano Nasci FC — X-Ship,
+Propulsion Line System, Core Protect](tackle-express-shimano-nasci-fc-reel.md),
+and [Shimano Talica — S Compact body, Infinity Drive, Hagane body
+(Tackle Express)](tackle-express-shimano-talica-reel-features.md) for three
+more unapplied, presenter-stated (not independently verified) claims along
+those lines.
 
 ## Winter lay-up — corrosion spray and gear grease (SearcherSportfishing, "Tackle Tip Thursday Vol. 27," `5IN1wsOFR-k`, 2018-12-20; unregistered channel — medium confidence)
 
@@ -429,6 +431,7 @@ or a compressed drag going into storage.
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
+- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 <!-- backlinks:end -->

@@ -49,6 +49,11 @@ in this clip.
 
 ## Related
 
+- [Shimano Talica — S Compact body, Infinity Drive, Hagane body
+  (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — the
+  companion clip this one is paired with (the Talica clip opens by
+  referencing "the DI[gigear] with Saltiga" video), same channel/format,
+  competing brand.
 - [Daiwa Saltiga vs. Shimano Talica — two-speed reel spec comparison, small
   & large pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
   — two different, later Tackle Express clips (one of them `JgD1gOuQAaE`,
@@ -83,4 +88,5 @@ in this clip.
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
+- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 <!-- backlinks:end -->

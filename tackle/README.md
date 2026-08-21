@@ -67,6 +67,7 @@
 - [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Tackle Express, "This Jigging Reel is an Absolute TANK – Saltiga 300 Round," Wk4wKFLbWEQ, uploaded 2025-06-05 — a 142-second product feature rundown for one ree
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — Two Tackle Express clips comparing the same two reel lines, both presented by Harry (self-identified on camera in both), tackle-express unregistered channel — p
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md) — Tackle Express, "Shimano Nasci FC: The Budget-Friendly Reel That Delivers!," YyW4-8FRjn8, uploaded 2025-01-27 — a 90-second, presenter-unnamed straight product-
+- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md) — Tackle Express, "Shimano Talica: The Ultimate Saltwater Powerhouse!," af7a1tR2B84, uploaded 2024-12-29 — an 88-second, presenter-unnamed feature rundown for the
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md) — Tackle Express (James, on camera; Lj2NCznK7Zg, "Why This Braid Caught 100-lb Bluefin on the Shogun," uploaded 2026-06-22, 69 s).
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md) — Tackle Express, "Tuna Trouble?
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Tackle Express, "How to Catch a Trophy Bluefin Tuna on a Jig" (James, on camera; DuNkl8F45NE, uploaded 2022-06-04).
@@ -77,5 +78,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 67 notes exceed the 30-node cap._
+_Map skipped: 68 notes exceed the 30-node cap._
 <!-- mermaid:end -->
