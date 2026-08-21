@@ -2681,7 +2681,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: entire video is Northern California (Clear Lake) freshwater largemouth-bass fishing with freshwater techniques - no SoCal/Baja saltwater species, region, or technique overlap |
 | ghHQe3fP9U4 | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md / amended california-halibut router with two-populations/depth-window, spawning-nest conservation practice, spot-fidelity/bait-indicator, and gillnet-corridor entries; fixed one invented-reason and one smoothed-number defect |
 | gn2yquuU6eM | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md; tackle/spooling-line-tension-and-twist.md / two small parameter-skim additions (Japan-made fluoro brand preference, leader-material-on-reel spooling caution), both merged into existing notes with correct cross-links |
-| h311A3s-dkY | Tackle Express | tutorial | parameter-skim | pending |  |
+| h311A3s-dkY | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md / merged bait-durability framing (mackerel=bigger/no damage risk, anchovy=smaller/lighter to avoid damage) into existing bait-sets-hook-size section, medium confidence |
 | h3ZM-mnSNJ8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | hAryw1v3I68 | Tackle Express | tutorial | parameter-skim | pending |  |
 | hBAxFcjts5A | Tackle Express | tutorial | parameter-skim | pending |  |

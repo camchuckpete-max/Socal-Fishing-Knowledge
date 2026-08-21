@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, circle-hook, j-hook, treble, assist, hook-size, hook-finish, live-bait, squid, cut-bait, sheephead]
-sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw]
+sources: [sWRSYCmt4Tw, HIXTFWlwnM0, m2q22sPPkEM, EyB98RuKfeQ, gevNj2Y1Ep8, RfiC8sfIWTk, dEPuDrhoClM, PrdPJy26H8c, jQW2HLkMsmY, 48ZFXnCTTQE, M8hOYQ_6rSg, yKaHcxX46l4, zVIfArUrpDI, RbqOKkINSCM, IMnoZVEYpm4, OSbAHdB4uPs, EE0P4SvcNFg, mL4Ph7t0WcQ, UfuiWFVvz2E, LsFMBCa9DOQ, _PGm-TlFU2A, mG8ZZLFGlT8, EmZO8QiOfik, 9JnIS8HkZlA, G1YIlakiRqg, bM2vUS1B-yQ, 0AtmEH6aQt0, F9XjGMEvvag, R48YdVFfEOI, SCQnyVEQfHY, YtlD1gQ_ULw, eZXPqiAtqi8, fyJA3o2hVh0, icpm7gADxvU, jDmHgRNnqhw, riEkdu8PEds, tRlv1azFPlM, yGXSrUauo2w, 49joKHD7Umc, 4uNPLknRAQg, FXWOIB0TPfE, YntRJAN88fs, eehDVb6_GoI, shZCjX2-fkI, uWGGeDOprsE, y0LVT59inEA, 9kGpcEHqIUc, IZHY3RXdyxg, PciIsDkBgj4, _C7TJoGT0nw, h311A3s-dkY]
 confidence: medium
 ---
 
@@ -486,6 +486,16 @@ m2q22sPPkEM):
 | Live squid | **~6/0 thin-wire off an orange lead head**, or **4/0 with a sliding sinker** | See below |
 | Size 1 / 2 | Very small, light duty | Scaling way down for finicky small-grade fish |
 | 10/0–11/0 J + heavy treble | Flying-fish / kite rig | Line's out of the water, so hook size doesn't spook |
+
+**Bait durability as the driver, stated plainly (Tackle Express, `h311A3s-dkY`,
+2026-03-29; unregistered channel — medium confidence):** across the three West
+Coast staple baits (anchovy, sardine, mackerel), mackerel is the largest and
+sturdiest, so a much larger hook goes in with no risk of hurting the bait —
+"that bait's going to truck along, no issue." Anchovy, "a much more delicate,
+fragile bait," needs the opposite: size down to a smaller, lighter hook so
+hooking it doesn't damage it. Same bait-sets-the-hook-size conclusion as the
+table above, framed here around bait durability/damage risk specifically,
+alongside the weight/visibility mechanism already given for anchovy above.
 
 ### Bluefin, first trip
 
