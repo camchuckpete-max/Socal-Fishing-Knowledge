@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [jig-stick, trolling, clicker, reel-sizing, line-capacity, dual-purpose, tackle-express, cedros]
-sources: [BNp-gSOpWBw, _C7TJoGT0nw]
+sources: [BNp-gSOpWBw, _C7TJoGT0nw, y9YlqMQh3BI]
 confidence: medium
 ---
 
@@ -63,6 +63,13 @@ cosmetic/feel upgrade, not a functional requirement ("you don't need it, but
 it is just a nicer look"). The full four-rod Cedros quiver this outfit
 belongs to is in [Tackle Express — Cedros four-rod
 quiver](tackle-express-cedros-four-rod-quiver.md).
+
+**Same claims re-cut as a standalone short (Tackle Express, "Why a deck hand
+rod is a game-changer for your next trip," `y9YlqMQh3BI`, 2026-05-16, 38 sec):**
+the deckhand-rod/no-reel-seat/reel-clamp point and the Torium-stock-clamp-vs-
+DFP-clamp detail both repeat verbatim from the same Logan interview footage —
+re-cut/duplicated footage, not independent confirmation, so this does not lift
+confidence past `medium`.
 
 ## Related
 

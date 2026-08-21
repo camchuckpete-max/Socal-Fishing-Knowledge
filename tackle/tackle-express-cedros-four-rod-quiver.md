@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [cedros, baja, yellowtail, quiver, baitcaster, two-speed, lever-drag, colt-sniper, tackle-express]
-sources: [_C7TJoGT0nw]
+sources: [_C7TJoGT0nw, y9YlqMQh3BI]
 confidence: medium
 ---
 
@@ -84,6 +84,13 @@ on the heavier lure. Stated advantage over the trip's conventional reels
 (the Torium/Trinidad-based setup 3 above): **"you can't do that with a Torium
 or any of those conventional reels"** — the external brake/tensioner
 adjustment is specific to the low-profile baitcaster design.
+
+**Same purchase story re-cut as a standalone short (Tackle Express, "Why a
+deck hand rod is a game-changer for your next trip," `y9YlqMQh3BI`,
+2026-05-16, 38 sec):** repeats the United Composite 9-ft "9E" / Lexa 500
+pairing and the "recent purchase right before I went down to Cedros... it did
+awesome" line verbatim — same Logan interview footage re-cut, not independent
+confirmation, so this stays at `medium` confidence.
 
 ## Related
 
