@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-action, buying-guide, retail, beginner, fatigue]
-sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU, KamUiykeRlU, nwmIqR2VgfI]
+sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU, KamUiykeRlU, nwmIqR2VgfI, tRvItFsxjmg]
 confidence: medium
 ---
 
@@ -62,6 +62,15 @@ confidence; "The ONE Saltwater Rod Every SoCal Angler Should Buy First,"
   at least distinguish "that's a fast jig rod" from "that's more moderate
   than I thought"; SoCal saltwater rods within a rating are built for the
   same job with different tapers, so this distinguishing power matters less.
+
+Another, shorter Tackle Express clip (`tRvItFsxjmg`, "Are you testing your
+fishing rods the wrong way?," uploaded 2026-06-08, 32 seconds) recaps both
+counter mistakes together in one segment — explicitly framed on camera as a
+repeat ("I know we've mentioned before"), restating the vibrate-test line
+almost word for word ("it doesn't actually let you feel what the pulling
+power is going to do") and naming the hand-bend test "the old classic."
+Another re-cut of the same underlying advice, not independent confirmation;
+folded in here rather than given its own note.
 
 ## The recommended test — load it like you'd actually fight a fish
 

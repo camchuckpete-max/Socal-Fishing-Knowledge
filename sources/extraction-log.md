@@ -2779,7 +2779,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | t0kkwlrNwHk | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md / added Ceasar Chang's reasoning for multi-color meter-mark braid over 100ft marks when jigging for tuna (no bottom reference, relocate bite zone by meter color); 100ft fine with depth reference and little current |
 | t3kDnoGYfVs | Tackle Express | tutorial | parameter-skim | done | none / generic Palomar mechanic already covered by rigging/essential-knots.md; only new content is a shop line-cutter product plug, fails curation bar |
 | t96ZBu0gvq4 | Tackle Express | tutorial | parameter-skim | done | none / 29s on-the-water reaction clip with no fishing knowledge content (no species/technique/gear/parameter in transcript) |
-| tRvItFsxjmg | Tackle Express | tutorial | parameter-skim | pending |  |
+| tRvItFsxjmg | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / folded 32s recap clip into existing rod-testing note as another re-cut/non-independent confirmation, medium confidence retained; fixed an incorrect ordinal claim |
 | tVgGBpzozMU | Tackle Express | tutorial | parameter-skim | pending |  |
 | tugP0UsrzRI | Tackle Express | tutorial | parameter-skim | pending |  |
 | u9sJyZhaDGQ | Tackle Express | tutorial | parameter-skim | pending |  |
