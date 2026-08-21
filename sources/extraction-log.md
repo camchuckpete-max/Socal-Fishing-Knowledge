@@ -2654,7 +2654,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md: provenance-only merge, re-cut of DfLcSS-J3g4, no new note |
 | dnHev1PcLts | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable, promotional product video (Stick Jacket Pro Series rod covers), no SoCal/Baja fishing knowledge |
 | dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | done | none: 15s auto-caption clip with no extractable parameter/doctrine content, correctly skipped |
-| dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | pending |  |
+| dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | done | none: 33s pure promotional event-announcement, no fishing content, correctly skipped |
 | dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | pending |  |
 | eLwier3zVdo | Tackle Express | tutorial | parameter-skim | pending |  |
 | eMAM6cjzANI | Tackle Express | tutorial | parameter-skim | pending |  |
