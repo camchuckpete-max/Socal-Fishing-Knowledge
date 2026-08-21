@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [spinning-reel, wind-knots, casting, braid, bail]
-sources: [WeabGOvhgto, cAZRaGB_RRM, nlrSBi_hrrg]
+sources: [WeabGOvhgto, cAZRaGB_RRM, nlrSBi_hrrg, ntS17IEKyJ0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -70,6 +70,33 @@ independently of the spool-mechanism causes logged in the sibling note above.
     continue winding.
   - Or simply raise the rod tip to take up the loose line, then wind and
     continue fishing.
+
+## Recovery — freeing a loop that already formed while winding in
+
+Distinct from the prevention habit above (closing the bail and coming tight
+the instant the lure lands): this is what to do once loose line is **already**
+hanging after a cast, with a loop already in it, worked free by hand with no
+tools (Tackle Express, "Fix Wind Loops Fast on Spinning Reels – No Tools
+Needed!," `ntS17IEKyJ0`, uploaded 2025-06-28; unregistered channel, single
+mention — medium confidence).
+
+- **Close the bail first.**
+- **Grab the line just above the reel handle and wind it in under a little
+  tension.**
+- **When you reach a loop in the line, don't wind it onto the spool as is** —
+  pull the loop apart by hand as best you can while continuing to wind under
+  tension, so no twist or knot goes into the reel.
+- **If a loop gets hung up and won't pull apart right away, work it
+  "unbuttoned" by hand** before continuing to wind, rather than forcing it
+  onto the spool.
+- **Once the line comes tight against the lure, let go and fish as normal.**
+
+This is the by-hand recovery for a loop that's already on the line,
+complementing the dental-pick fix in [reel & rod maintenance — on-the-water
+tackle box](../tackle/reel-maintenance.md#on-the-water-tackle-box--field-tools-and-repairs)
+(for a loop that's already cinched down tight and needs picking loose) and
+[clearing a backlash](clearing-a-backlash.md) (for a full baitcaster/
+conventional bird's nest, not an isolated spinning-reel loop).
 
 ## Related
 

@@ -57,5 +57,6 @@ mention — medium confidence.)
 ## Linked from
 
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](spinning-reel-wind-knots.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->

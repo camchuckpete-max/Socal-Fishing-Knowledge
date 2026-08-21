@@ -2731,7 +2731,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | nizu9cpPXUs | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic packing/logistics content only, no SoCal/Baja fishing knowledge |
 | nlrSBi_hrrg | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md / third re-cut citation, payoff framing for 8-carrier braid, confidence held at medium |
 | nnQFIho8sa0 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 36s reaction clip, no gaff/technique/parameter content despite title |
-| ntS17IEKyJ0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ntS17IEKyJ0 | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md / added Recovery section for freeing a loop that already formed while winding, medium confidence |
 | nwjIEWJyjKU | Tackle Express | tutorial | parameter-skim | pending |  |
 | nwmIqR2VgfI | Tackle Express | tutorial | parameter-skim | pending |  |
 | o5TR7y6-q6A | Tackle Express | tutorial | parameter-skim | pending |  |
