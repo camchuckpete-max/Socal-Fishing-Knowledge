@@ -83,10 +83,18 @@ this note's own shallow-water halibut use case above), or a plain jig stick
 all work. His framing: "there's not a whole lot you can't get away with" on
 rod choice here.
 
+A separate, much shorter Tackle Express clip gives a specific spinning-rod
+pick for "minnow style" bait fishing generally (no species, location, or
+retrieve named) — see [spinning rod for "minnow-style"
+fishing](../tackle/tackle-express-minnow-rod.md). Not confirmed as the same
+presenter or the same technique as this note's own halibut-specific pick
+above; kept as a separate citation rather than merged in.
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
 - [Swimbaits](swimbaits.md)
 <!-- backlinks:end -->

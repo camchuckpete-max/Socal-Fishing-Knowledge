@@ -30,6 +30,7 @@ is the [4-factor framework](../techniques/trolling.md).
 | **Crank class** (crankbait class) | 8–10 ft limber big-bend rod, slow-retrieve 200-size reel | [inshore crankbaits](../techniques/inshore-crankbaits.md) | — |
 | **Finesse fly-line class** | 8–8.5 ft, 12–30 lb, small star-drag, big handle for vertical leverage | small live anchovy inshore — [flyline](../techniques/flyline.md), [sliding sinker](../techniques/sliding-sinker.md) (sand bass) | — |
 | **Light spinning class** (a.k.a. **light bay finesse / spinning class**) | light spinning, 10–20 lb | [drop shot](../techniques/drop-shot.md), [Ned rig](../techniques/ned-rig.md), bay finesse | — |
+| **Medium/medium-light minnow-bait spinning class** | medium to medium-light power spinning rod, tip stiff enough to work the bait but with enough bend to keep a load on a hooked fish | "minnow style" bait fishing (species/technique not stated) — see [Tackle Express: spinning rod for minnow-style fishing](tackle-express-minnow-rod.md) | — |
 | **30 lb bait class** | ~30 lb-line live-bait / squid setup | island and coastal bait fishing — [sliding sinker](../techniques/sliding-sinker.md), dropped squid (halibut, white seabass, ocean whitefish) | — |
 | **Light casting class** | light inshore casting setup that keeps a small jig / spinnerbait-style flash moving; the light end of the jig-stick spectrum | barracuda / bonito small-jig work, downsized [surface iron](../techniques/surface-iron.md) | — |
 | **Light troll class** | **⚠ stub** — named by the yellowtail locate-troll and halibut bounce-ball stub rows; no corpus source defines it yet (pending ~400-video batch) | light coastal trolling / bounce-ball (stub rows) | — |
@@ -297,6 +298,7 @@ does the lookup.
 - [Snook (Robalo)](../species/snook.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
+- [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](tackle-express-minnow-rod.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
