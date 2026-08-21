@@ -2583,7 +2583,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | UtgMbyjlem8 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic reel-tier sales pitch, no concrete parameters, fails curation bar |
 | V1tmGZh3MNg | Tackle Express | tutorial | parameter-skim | done | none / freshwater trout tackle-shop promo, no SoCal/Baja saltwater content — nothing extractable |
 | V4opuMirbDU | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / provenance-only merge of duplicate same-channel fluke lead-head weight claim (3/4oz suspended vs 2oz bottom/halibut), already captured from T33JsoZHO_c |
-| V54mcLzTubc | Tackle Express | tutorial | parameter-skim | pending |  |
+| V54mcLzTubc | Tackle Express | tutorial | parameter-skim | done | none / freshwater trout clip, 20s auto-caption fragment only, no SoCal/Baja saltwater content — nothing extractable |
 | VH5_kvuGGQY | Tackle Express | tutorial | parameter-skim | pending |  |
 | V_WjP52OJ7M | Tackle Express | tutorial | parameter-skim | pending |  |
 | Vbf40qvH9-Q | Tackle Express | tutorial | parameter-skim | pending |  |
