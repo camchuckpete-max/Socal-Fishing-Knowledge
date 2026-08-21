@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-length, angler-fit, sportboat, travel, beginner]
-sources: [CXrF7K4lKxE, tpmOYXYQwhU, DfLcSS-J3g4, RbOWJ0BAqSo]
+sources: [CXrF7K4lKxE, tpmOYXYQwhU, DfLcSS-J3g4, RbOWJ0BAqSo, W0mj_LA-qcM]
 confidence: medium
 ---
 
@@ -69,7 +69,12 @@ leverage-point, and travel/shipping reasons (points 1–3 below) are repeated
 near-verbatim, unnamed staff, in a 39-second short from the same channel two
 days later ("Why you should rethink that 9ft fishing rod," `RbOWJ0BAqSo`,
 uploaded 2026-06-04) — treated as a **re-cut of the same doctrine, not
-independent confirmation** (no new figures; the short doesn't repeat point 4):
+independent confirmation** (no new figures; the short doesn't repeat point 4).
+A third short from the same channel one week after that ("Why your 9ft rod
+might be ruining your fishing trip," `W0mj_LA-qcM`, uploaded 2026-06-11,
+multi-speaker dialogue between unnamed staff) repeats points 3–4 below plus
+the bow/artificials note — also a **re-cut, not independent confirmation** —
+but adds one new stated reason under point 4, folded in there:
 
 - **7'6"–8 ft named as the practical sweet spot; under 8 ft is "the key."**
   Stated reasons, all independent of the angler's own build:
@@ -85,7 +90,9 @@ independent confirmation** (no new figures; the short doesn't repeat point 4):
   4. **Sport-boat crowding** — on a rail lined with anglers all running
      7.5–8 ft rods, a 9-footer becomes "a pain in the neck" during tangles and
      when weaving past other anglers, even though it's still an effective
-     length.
+     length. The third short (`W0mj_LA-qcM`) makes the same point and adds one
+     new stated reason: on a crowded rail the angler **can't stand back far
+     enough** to manage the extra length.
 - **9 ft rods aren't wrong — they're a different use case.** Explicitly
   recommended **for the bow** and for **anglers throwing artificials** — a
   9-footer is a good tool there. The 7'6"–8 ft recommendation is specifically
