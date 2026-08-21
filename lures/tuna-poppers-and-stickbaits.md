@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM, fPxqoEforhA, kt3G72gUldM]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM, fPxqoEforhA, kt3G72gUldM, qLKLlZdiflA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -88,6 +88,22 @@ Rigging class: because it's wire-through, **crimp 100 lb+ leader** to the
 wire-through loop **or** run a heavy split ring — the wire-through is what lets
 you fish it hard on big fish. Fish it as a popper: chug into the foam, bite on
 the pause.
+
+**A second-size, second-source data point for the same clear-popper doctrine
+(Tackle Express, "Essentials You Need For Tuna Fishing in Southern
+California," `qLKLlZdiflA`, 2023-04-20; unregistered channel — medium
+confidence):** an **all-clear** popper called a **"110"** on camera and
+measured on screen at roughly **8.5 in** — a different size than the Clear
+Choice Ghost Popper 150 above, from a different source, not confirmed as the
+same product line. Named as an increasingly popular pick for SoCal bluefin
+"the last couple years" as of this 2023 upload (i.e., roughly 2021–2023).
+**Same stated mechanism as the TP-line entry below:** because the lure is
+clear, a bluefin looking up at it from underwater can't isolate its actual
+~8.5 in profile — all it reads is a surface disturbance, which is framed as
+triggering a reaction bite rather than a size-matched feeding strike.
+Consistent with, not new beyond, the visual-disguise mechanism already
+logged for the TP line below; kept as a second size/product data point for
+the same doctrine rather than merged into either existing model.
 
 ### Clear Choice Ghost TP 140 / TP 160
 Clear **tail-prop ("TP") ploppers** in 140 mm and 160 mm — a spinning tail blade

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [leadhead, swimbait, halibut, white-seabass, yellowtail, fluke, bottom-contact, retrieve, depth-control, harbor, casting, hookset]
-sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4]
+sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4, qLKLlZdiflA]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -153,6 +153,24 @@ shallow but try a **midwater-column swim roughly every third cast** — stated
 reason: a boat with fish riding mid-column (not cruising bottom) would be
 missed entirely by the bait anglers' dropper loops, and a caster can confirm
 that with a rod and reel rather than needing the wheelhouse to call it out.
+
+**A slow, current-worked retrieve for white seabass on a lead head + fluke —
+a conflict with the hard-crack doctrine above, kept side by side, not
+reconciled (Tackle Express, "Essentials You Need For Tuna Fishing in Southern
+California," `qLKLlZdiflA`, 2023-04-20; unregistered channel — medium
+confidence):** for a white seabass that "wants to chase something" rather
+than eat dead-drifted squid, his stated retrieve is **not** an erratic
+crack-slack — cast/drop it down, then work it through the current walking
+the rod **slowly down-up-down**, deliberately imitating a live squid just
+holding and drifting in the current rather than a fleeing baitfish. Stated
+reason for going slow despite the light, fairly buoyant lead head having a
+lot of drag in the water: seabass are often "extremely lazy" and taking
+their time, so the presentation is built to match that pace rather than
+trigger a reaction strike. Both this and the hard-crack retrieve above are
+attributed to their own sources and not merged into one seabass retrieve
+rule; see also [white seabass — situations →
+techniques](../species/white-seabass.md#situations--techniques) for where
+this rig sits alongside the dropper loop and slider rig for the same fish.
 
 ## Where it doesn't work
 

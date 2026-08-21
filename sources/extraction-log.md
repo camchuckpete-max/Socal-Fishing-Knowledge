@@ -2753,7 +2753,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | qHS-ewTQs9Q | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md: re-cut/duplicate of _C7TJoGT0nw Cedros mackerel Owner-hook content; added as corroborating citation, ASR hook-size variance flagged not reconciled |
 | qKOmJH_WtJo | Tackle Express | tutorial | parameter-skim | done | none: 33s reaction/landing clip, no rod/line/technique parameters or decision content - nothing extractable |
 | qLDrhgE7-y0 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-tranx-300b-braking-system.md; tackle/rod-and-reel-selection.md: new product-mechanism note for Tranx 300B SVS Infinity braking system, capped low (promo, unregistered channel) |
-| qLKLlZdiflA | Tackle Express | tutorial | parameter-skim | pending |  |
+| qLKLlZdiflA | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md; rigging/rubber-band-deep-rig.md; techniques/flat-fall-jigging.md; techniques/knife-jigging.md; techniques/leadhead-swimbait-retrieve.md: five parameter-skim additions (popper size, sinker-rig failure mode, calm/windy jig-weight split, seasonal jig progression, seabass slow-retrieve conflict); fixed one fabricated location detail |
 | qRrZakwbLoM | Tackle Express | tutorial | parameter-skim | pending |  |
 | q_NMbHJ7QoQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | qh3hL2Dt3HY | Tackle Express | tutorial | parameter-skim | pending |  |

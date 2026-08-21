@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [flat-fall, bluefin, tuna, vertical-jig, free-spool, rail-rod, night]
-sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk, shZCjX2-fkI, tpmOYXYQwhU]
+sources: [an_uw-5pjfw, fgTmUq78ofQ, jLFZIh15Fec, FXWOIB0TPfE, eehDVb6_GoI, lf3S28nh-kk, shZCjX2-fkI, tpmOYXYQwhU, qLKLlZdiflA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -108,6 +108,20 @@ to reach for it is the reverse map in **Linked from** below.
   low confidence). Stock assist hooks on this jig class wear out and are
   routinely upgraded — see [assist
   hooks](../rigging/assist-hooks.md#stock-flat-fall-assist-hooks-wear-out--upgrade-and-size-to-the-grade-of-fish-art-taylormike-searchersportfishing-via-turners-outdoorsman).
+- **A stated reason for the calm-day light flat-fall, beyond just "it's not
+  windy" (Tackle Express, "Essentials You Need For Tuna Fishing in Southern
+  California," `qLKLlZdiflA`, 2023-04-20; unregistered channel — medium
+  confidence):** for the fall (roughly August–November) big-fish window, on
+  glass-calm days he reaches for a lighter **100–130 g** flat-fall — in range
+  with, and a further data point for, the **120 g** calm-day figure already
+  logged above (Turner's Outdoorsman). Windy fall days (his example: **~20
+  mph**) instead call for a much heavier **400–500 g** knife jig — see
+  [knife jigging](knife-jigging.md#depth-control--jig-calling) for that side
+  of the same seasonal call. **Stated mechanism, not given elsewhere in this
+  note:** a flat-fall's broad profile and fluttering fall suit fish that are
+  holding and not moving through fast — the fish "want it to flow through
+  them, not past them" — whereas sending a big, fast-sinking jig straight
+  past a fish that's holding station can get ignored.
 
 ## Weight by sea state, a bigger-fish/bigger-teeth leader rule, and hook configuration (Captain Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel — medium confidence, single mention of these specific reasons)
 

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tuna, bluefin, yellowfin, live-bait, deep, breakaway-sinker, inline-sinker, dolphin-pods, porpoise]
-sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM, qBP3qRnK4H4, eehDVb6_GoI]
+sources: [sYrsPGXiYhI, RfiC8sfIWTk, 149px8WQ2Ng, LPhnsEamRwI, 42A8Owhc8fw, jQW2HLkMsmY, fK2AT460xW4, tU4jhAkdzNw, i3qIAHW-SJc, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 5CvFDpvlfSE, 83HROAgGW6Q, KYE14piJAzI, _jDXMtCrUZg, ewfWc7MTBPk, fg2v1kxoTMA, fgTmUq78ofQ, nWq2DVzBNeI, pB10vaDaETM, qBP3qRnK4H4, eehDVb6_GoI, qLKLlZdiflA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -51,6 +51,22 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
   **Failure mode: it's notorious for tangling if you sink it too fast** —
   seek (free-spool) it quickly and the line wraps around the sinker,
   fouling the presentation.
+- **A third stated failure mode for the sinker-on-top rig, distinct from
+  tangling and getting spooled out — the bait degrades on the way down
+  (Tackle Express, "Essentials You Need For Tuna Fishing in Southern
+  California," `qLKLlZdiflA`, 2023-04-20; unregistered channel — medium
+  confidence):** with the sinker above the bait, the bait trails up and
+  behind the falling weight and just **spins** for the whole descent; by the
+  time the rig reaches a deep-marked fish, the bait is "half dead" and less
+  appealing, so this build has to be fished **slower** to compensate — costing
+  bites when the boat needs to get down fast because the fish are moving
+  through. His stated fix, when speed to depth matters, is the **ring-and-
+  dropper build** already logged below (sinker below the hook rather than
+  above it) — same core idea as the ring-and-tag-line/"drop shot"/"brawler"
+  rig, a faster, straighter drop with the bait presented rather than dragged
+  down spinning. Standard sinker weight named for the sinker-on-top build:
+  **8–12 oz**, in range with the 6–16 oz figures already logged in this
+  note.
 
 ## Parameters & judgment
 

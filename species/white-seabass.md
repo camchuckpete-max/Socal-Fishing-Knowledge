@@ -294,6 +294,7 @@ into the spot once the current read right.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [June–July](../seasonal/june-july.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

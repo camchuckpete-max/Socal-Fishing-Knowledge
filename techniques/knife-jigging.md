@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4, bB8zs0lXvvo]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4, bB8zs0lXvvo, qLKLlZdiflA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -391,6 +391,26 @@ whether a bite converts.
     corpus, carried here as heard rather than resolved to a known brand.
     This 500 g figure extends this note's 150–400 g range and the 300 g
     night floor above for conditions with strong wind/drift specifically.
+  - **A seasonal jig-weight progression, one channel's own framing (Tackle
+    Express, "Essentials You Need For Tuna Fishing in Southern California,"
+    `qLKLlZdiflA`, 2023-04-20; unregistered channel — medium confidence):**
+    early season (his example trip: the **Polaris Supreme**, at a location
+    the auto-captions render as "Cotton limb" — not resolved to a real place
+    name and not carried as a location claim; 20–50 lb-grade bluefin caught
+    at night on **30–40 lb fly-lining outfits**, with the class ranging up to
+    **200 lb**) pairs
+    fly-lining with **80–100 g** knife jigs — before the fish key on
+    microbait, a jig that size still gets bit and is castable. Once the
+    fishery moves into the **June–August** microbait/foamer window (see
+    [bluefin tuna](../species/bluefin-tuna.md#where--when)), he sizes
+    significantly down to **35–60 g**, reasoned as needing to fit the
+    profile of the small bait the fish are keyed on while staying castable —
+    consistent with, and a lighter end than, this note's other microbait
+    downsizing doctrine. In windy fall conditions (his example: **~20 mph**)
+    he goes back up to **400–500 g**, in range with the 500 g windy-night
+    data point above; on calm days he prefers a lighter **100–130 g**
+    flat-fall instead — see [flat-fall jigging](flat-fall-jigging.md#jig-weight-and-rig)
+    for that side of the same seasonal call.
 - **The "Eddie bomb" (nRFFM8DT-og):** the bluntest tool in the same night
   lineup — a **wire-through 16 oz sinker with a treble hook on the bottom** and
   a bite leader. Multiple **200 lb night bluefin** have come on a straight-up
