@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [leadhead, swimbait, halibut, white-seabass, yellowtail, fluke, bottom-contact, retrieve, depth-control, harbor, casting, hookset]
-sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4, qLKLlZdiflA]
+sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4, qLKLlZdiflA, yTPtYL9QAsw]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -91,6 +91,37 @@ bass in
 slack, where this one is the hookset itself, achieved by reeling instead of
 swinging. Kept side by side, not merged, since neither source ties its claim
 to the other's.
+
+## Hookset — pier/boat inshore, wind to a tight line (don't grind to the drag)
+
+A shorter-range companion rule for the everyday pier/boat inshore version of
+this presentation — his stated baseline rig there is a **½–¾ oz lead head
+with a 3–4 in swimbait on a long cast** (Tackle Express, `yTPtYL9QAsw`,
+2026-01-19, "How to Set the Hook the RIGHT Way"; this clip is a trimmed
+re-cut of the same halibut-gear segment as `fHMwcm1xRQk`, 2026-01-13 —
+already an inshore-crankbaits.md source — so it is not independent
+confirmation, only a second citation of the same passage; unregistered
+channel — medium confidence):
+
+- **Grinding the handle flat-out and waiting for the drag to slip as the cue
+  to set the hook is called out as a mistake** — his stated consequence is
+  missing fish consistently doing it that way.
+- **The fix: wind only until the line comes tight, then set the hook.**
+  Framed as the important correction, not an optional refinement, for any
+  single-hook lure fished on the bump-bottom/turn-the-handle rhythm above.
+
+This is a different mechanism from the grind-to-the-drag-slip hookset
+documented just above for a boat with 150 ft of line out and current running
+— that scenario can't get a straight, tight line by winding alone, so
+grinding to the drag is the stated workaround there. Here, on a shorter
+pier/boat inshore cast, winding to a tight line is achievable directly and is
+the correct read. Kept side by side, not reconciled — different range/current
+conditions produce different correct hooksets on the same single-hook-lure
+category. The same clip also fishes a treble-hook minnow lure on a **Major
+Craft Sienna 962M** (9½ ft) surf rod, describing it as handling both
+single-hook and treble-hook presentations well; the treble-hook hookset
+mechanics for that rod are documented in [inshore
+crankbaits](inshore-crankbaits.md#execution), not repeated here.
 
 ## Bait sizing by water
 

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E, fHMwcm1xRQk]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E, fHMwcm1xRQk, yTPtYL9QAsw]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -93,7 +93,10 @@ situation calls for it lives in the routers:
   treble loose. Complements, rather than restates, the sweep-don't-swing
   hookset rule above: that rule is about not driving a bass-style rod swing,
   this is the specific body mechanic (hip/shoulder turn) he substitutes for
-  it on light minnow gear.
+  it on light minnow gear. (A short companion clip, `yTPtYL9QAsw`,
+  2026-01-19, "How to Set the Hook the RIGHT Way," is a trimmed re-cut of
+  this same segment — same rod, same wording — logged here as a second
+  citation of the same passage, not independent confirmation.)
 - **Why treble hooks need "absorption" once a fish is pinned — sustained
   fight mechanics, not the hookset itself (Tackle Express, `dNn8U9LbL8c`,
   2026-03-16; unregistered channel, single mention — medium confidence):**
@@ -312,6 +315,7 @@ anglers skip.
 - [California Halibut](../species/california-halibut.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)

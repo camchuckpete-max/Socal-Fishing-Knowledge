@@ -2804,7 +2804,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | y3MaZYZvyUg | Tackle Express | tutorial | parameter-skim | done | none: freshwater minnow-style Diki rig content, out of SoCal/Baja saltwater scope |
 | y9YlqMQh3BI | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-cedros-four-rod-quiver.md; tackle/tackle-express-jig-stick-trolling-outfit.md: re-cut duplicate footage, added as attributed re-cut confirmation, confidence held medium |
 | yEsbyq3WjWE | Tackle Express | tutorial | parameter-skim | done | bait/fishing-live-bait.md: corroborating bullet added to red=cull bait-selection doctrine, medium confidence |
-| yTPtYL9QAsw | Tackle Express | tutorial | parameter-skim | pending |  |
+| yTPtYL9QAsw | Tackle Express | tutorial | parameter-skim | done | techniques/leadhead-swimbait-retrieve.md; techniques/inshore-crankbaits.md: added pier/boat-inshore wind-to-tight-line hookset rule, cross-referenced trimmed re-cut of fHMwcm1xRQk |
 | yVYUY3PlvIw | Tackle Express | tutorial | parameter-skim | pending |  |
 | yf7dEnzsNzQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | yl-AkO5S64o | Tackle Express | tutorial | parameter-skim | pending |  |
