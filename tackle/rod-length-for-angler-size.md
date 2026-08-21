@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-length, angler-fit, sportboat, travel, beginner]
-sources: [CXrF7K4lKxE, tpmOYXYQwhU, DfLcSS-J3g4]
+sources: [CXrF7K4lKxE, tpmOYXYQwhU, DfLcSS-J3g4, RbOWJ0BAqSo]
 confidence: medium
 ---
 
@@ -64,7 +64,12 @@ bait-stick pick in [all-purpose rod line
 rating](all-purpose-rod-line-rating.md#the-one-rod-every-socal-angler-should-buy-first--the-30-lb-bait-stick-tackle-express-dflcss-j3g4)
 (Tackle Express, unnamed staff on camera, unregistered channel, single
 mention — medium confidence; "The ONE Saltwater Rod Every SoCal Angler Should
-Buy First," `DfLcSS-J3g4`, uploaded 2026-06-02):
+Buy First," `DfLcSS-J3g4`, uploaded 2026-06-02). The casting-distance,
+leverage-point, and travel/shipping reasons (points 1–3 below) are repeated
+near-verbatim, unnamed staff, in a 39-second short from the same channel two
+days later ("Why you should rethink that 9ft fishing rod," `RbOWJ0BAqSo`,
+uploaded 2026-06-04) — treated as a **re-cut of the same doctrine, not
+independent confirmation** (no new figures; the short doesn't repeat point 4):
 
 - **7'6"–8 ft named as the practical sweet spot; under 8 ft is "the key."**
   Stated reasons, all independent of the angler's own build:
