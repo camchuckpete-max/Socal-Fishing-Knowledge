@@ -2651,7 +2651,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dTJihVPudgQ | Tackle Express | tutorial | parameter-skim | done | no KB destination: 8-second clip, no substantive content |
 | dWqD8l3jW6w | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: merged surf halibut hook-set mechanic (reel down to tight before swinging, single-hook thump); evaluator trimmed invented causal rationale |
 | degWvtQ4D_Y | Tackle Express | tutorial | parameter-skim | done | tackle/rod-length-for-angler-size.md: merged fatigue/shaking-as-length-signal doctrine, fixed one dropped-hedge misquote |
-| dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | pending |  |
+| dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md: provenance-only merge, re-cut of DfLcSS-J3g4, no new note |
 | dnHev1PcLts | Tackle Express | tutorial | parameter-skim | pending |  |
 | dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | pending |  |
 | dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | pending |  |

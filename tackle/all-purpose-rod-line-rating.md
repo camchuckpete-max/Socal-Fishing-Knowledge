@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, buying-guide, line-rating, all-purpose, summer, retail, beginner]
-sources: [7L7OVoXE7KU, DfLcSS-J3g4]
+sources: [7L7OVoXE7KU, DfLcSS-J3g4, dfv6S7RQ_bs]
 confidence: medium
 ---
 
@@ -65,6 +65,18 @@ specific class recommendation and reasoning:
   any boat and catch fish."* Big bluefin are called out as the exception —
   communicate to the shop if that's specifically the target — but the 30 lb
   stick covers the average, mid-grade summer fish.
+  - **Re-cut short clip of this same interview, one exact number added
+    (`dfv6S7RQ_bs`, "The Most Universal Fishing Rod for Beginners," uploaded
+    2026-06-03 — one day after this video, same presenter, verbatim-matching
+    "get on any boat and catch fish" quote — not independent confirmation,
+    consistent with the other short re-cuts of this interview logged
+    elsewhere in this KB).** This clip is the source for which number is "the
+    middle" on which rating: on a **15–40 lb** rating the middle number is
+    **25 lb**; on a **20–40 lb** rating it's **30 lb** — a second voice on
+    camera confirms "20 to 40" and the presenter replies "that's going to be
+    your 25 and 30-lb bait stick." It also states the pick's seasonal frame
+    explicitly: *"a lot of times in the summer... it's our average, mid-grade
+    fish where we want a 30-lb bait stick."*
 - **What it covers:** flyline bait for calico bass, rockfish, white seabass,
   halibut, dorado, kelp-paddy [yellowtail](../species/yellowtail.md),
   [yellowfin](../species/yellowfin-tuna.md), small [bluefin](../species/bluefin-tuna.md),
