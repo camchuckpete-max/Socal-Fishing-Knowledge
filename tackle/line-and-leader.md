@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g]
 confidence: medium
 ---
 
@@ -419,6 +419,15 @@ Fluoro does two different jobs; keep them separate:
   a lighter, action-preserving choice rather than a heavy abrasion-first one,
   presumably for open-water/less-structure work where break-off risk is
   lower.
+- **Tackle-shop minimum leader buy, same lead-head fluke class (Tackle
+  Express, w/ Shannon Gallagher, `Oi5n-uVpY9g`, 2025-05-02; unregistered
+  channel, single mention — medium confidence):** one spool of fluorocarbon,
+  roughly **30 lb**, covers the [Sudden Impact / Basstrix lead-head fluke
+  class](../lures/soft-plastic-swimbaits.md); buying more, carry **25, 30, and
+  40 lb** spools. Heavier than Jeremy's 20–25 lb action-preserving pick just
+  above — kept side by side, not reconciled, since this is a general
+  tackle-shop minimum-buy answer covering bigger fish (halibut, sea bass)
+  rather than a stated action-preservation choice.
 
 ## Line ↔ leader matching — the actual combo logic (Academy Ep16)
 

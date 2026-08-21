@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -180,6 +180,35 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   or location named on camera.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
+- **Sudden Impact vs. Basstrix — tackle-shop minimum buy, jig-head weight, and
+  a sandbass-specific rig (Tackle Express, w/ Shannon Gallagher, `Oi5n-uVpY9g`,
+  2025-05-02; unregistered channel, single mention — medium confidence).** A
+  tackle-store "what do I absolutely need" rundown naming two specific models
+  as a big-bait/durable-bait pair for the same lead-head class documented in
+  [leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md#bait-sizing-by-water)
+  (that note's "Sudden Impact 3-inch" example bait is this same product):
+  - **Sudden Impact** — the "big" bait of the pair, roughly **twice the
+    plastic** of a Basstrix. Buy **at least 4 to 5** per trip: a big
+    California halibut or a sea bass that fights **5 to 6 minutes** gnaws on
+    the lure the whole time and tears it up. Jig-head weight: **1.5 oz** is
+    the single pick if buying only one; buying more, add **1 oz and 2 oz**
+    packs alongside it.
+  - **Basstrix** — a tougher, more elastic plastic than the Sudden Impact
+    (heard on the auto-captions as "these are a lasc, so they are a little
+    tougher" — read here, per his immediately-following "elasc" reference, as
+    "elastic"; `asr-uncertain`); it will still get torn up by barracuda, but
+    holds up longer. Minimum buy: **one pack of white**, which packs **3
+    baits**. Basstrix also makes a **baitfish-color** version he calls out
+    specifically for [sand bass](../species/sand-bass.md) in summer — his
+    stated reason is you can reach for that pack instead of going through an
+    entire bag of plastics. For that sandbass rig he pairs it with a
+    **3/4 oz "Cody"-style jig head** and a **5/0 hook** (heard on the
+    auto-captions as "50" — read here as the 5/0 sizing convention used
+    elsewhere in this KB).
+  - **Color:** "you can get any color you like" on either bait — his own
+    settled pick, after trying them all, is **white**. Kept side by side
+    with, not a contradiction of, the "color matters little / fish what you
+    believe in" framing already in this note.
 - **Kicker "booty spin" on a War Baits neck-breaker head** (Lane, Time On The
   Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
   confidence): a paddle-tail-style swimbait with a small **blade in place of
@@ -330,6 +359,7 @@ baits and heads from the class terms above; see
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
+- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

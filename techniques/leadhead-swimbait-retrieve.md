@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [leadhead, swimbait, halibut, bottom-contact, retrieve, depth-control, harbor]
-sources: [OURS05qEGcA]
+sources: [OURS05qEGcA, Oi5n-uVpY9g]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -73,6 +73,15 @@ retrieve only.
 Leadhead + soft-plastic swimbait class — see
 [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md) for head/weight
 selection and [gear classes](../tackle/gear-classes.md) for rod/reel.
+
+**Rod flexibility (same presenter, Tackle Express w/ Shannon Gallagher,
+`Oi5n-uVpY9g`, 2025-05-02; unregistered channel, single mention — medium
+confidence):** no specialized rod is required for this presentation — a
+calico bass rod, a rod custom-built for the technique, a **big spinning rod**
+(his pick specifically for **California halibut in shallow water**, matching
+this note's own shallow-water halibut use case above), or a plain jig stick
+all work. His framing: "there's not a whole lot you can't get away with" on
+rod choice here.
 
 <!-- backlinks:start -->
 ## Linked from
