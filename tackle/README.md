@@ -57,6 +57,7 @@
 - [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md) — Tackle Express, "Daiwa Coastal TW 200 Review | Inshore Saltwater Baitcasting Reel Spotlight," u9sJyZhaDGQ, uploaded 2025-08-19 — a 75-second product spotlight f
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Tackle Express, "New Daiwa Luvias ST Spinning Reel – Featherlight Power for Serious Anglers!," RKfI8g_aRu8, uploaded 2025-08-14 — a 90-second feature rundown fo
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
+- [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md) — Tackle Express, "Daiwa Saltist SD – The Star Drag Reel Built for Saltwater Power!," zi5J9UDJgBk, uploaded 2025-08-15 — a 63-second feature rundown for the 2025
 - [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md) — Tackle Express, "Is your rod costing you fish?
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md) — Tackle Express, "The secret to rigging surf baits faster than ever" (k23JzE3Fr-I, uploaded 2026-05-13) — a 45-second clip; presenter not named on camera or in t
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md) — Tackle Express, "Tackle Express New Products May 5, 2019" (sPgP0aBUQm8, uploaded 2019-05-01), presenter self-identified on camera as "Chad from Tackle Express"
@@ -95,5 +96,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 85 notes exceed the 30-node cap._
+_Map skipped: 86 notes exceed the 30-node cap._
 <!-- mermaid:end -->

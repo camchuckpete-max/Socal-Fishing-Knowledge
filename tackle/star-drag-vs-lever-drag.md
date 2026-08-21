@@ -81,6 +81,19 @@ point back to.
   clip above (whose own title frames it as Baja), this one is framed only as
   a shop-counter product interview, with California named for the casting
   application (see the linked note).
+- **A named star-drag product example, cast-control brake and drag range
+  (Tackle Express, "Daiwa Saltist SD – The Star Drag Reel Built for Saltwater
+  Power!," `zi5J9UDJgBk`, 2025-08-15; unregistered channel, promotional
+  clip — low confidence in full per the sponsored-claim rule).** The 2025
+  Saltist SD line is titled as a star-drag reel (the spoken narration itself
+  never uses the term) and pairs the free-spool/casting role above with a
+  new centrifugal cast-control brake
+  (claimed to cut backlash and add casting distance, especially on larger
+  reels casting surface irons/poppers and on smaller reels for light live
+  bait), a one-piece aluminum body/side plate, corrosion-resistant bearings,
+  and a stated **17–22 lb drag range** across the line. Full claims in
+  [Daiwa Saltist SD — centrifugal braking, one-piece aluminum body (Tackle
+  Express)](tackle-express-daiwa-saltist-sd-reel.md).
 
 ## When to reach for a two-speed at all — deep bottom fishing, vertical work, and rod length (Tackle Express)
 
@@ -213,6 +226,7 @@ following more detailed, application-specific entries already in this KB:
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
+- [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)
