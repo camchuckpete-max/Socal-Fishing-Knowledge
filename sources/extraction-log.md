@@ -2628,7 +2628,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | au3EkXJswY8 | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: no transcript evidence this generic reel/line clip is SoCal saltwater inshore content vs freshwater bass tackle chat; channel mixes both |
 | auiXY0R9ri8 | Tackle Express | tutorial | parameter-skim | done | none: duplicate of N24NBweNK4o (identical 33s clip), already captured in rigging/wiring-a-surface-iron.md; extraction-log row closed out |
 | bB8zs0lXvvo | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md: merged as third same-interview cut (rod/reel load-sharing mechanism, 2023 date resolution), treated as one source appearance not new repetition |
-| bCQLyxKQAok | Tackle Express | tutorial | parameter-skim | pending |  |
+| bCQLyxKQAok | Tackle Express | tutorial | parameter-skim | done | skipped: content-free transcript, part of channel's freshwater bass blade-bait series, out of KB scope |
 | bi2X9ANvDBs | Tackle Express | tutorial | parameter-skim | pending |  |
 | blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | pending |  |
 | bvYMtjbflq8 | Tackle Express | tutorial | parameter-skim | pending |  |
