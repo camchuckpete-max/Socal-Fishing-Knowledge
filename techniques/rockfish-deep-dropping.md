@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -113,7 +113,13 @@ built around **feeling the bite from depth**:
   explicitly to depth rather than only to wind/current. The 6–8 oz/100–150 ft
   pairing is a new data point, filling in the shallow end of this note's
   weight ladder alongside Scotty's 8 oz/60–80 ft and 16 oz/180–200 ft figures
-  below.
+  below. `hXcgczEYcKE` ("Why Sinker Weight Matters More Than You Think,"
+  uploaded 2026-03-30) is a **second re-cut traced to this same full-length
+  source**, word for word matching this sinker-sizing-by-depth passage of
+  `S9sQ8Vg8-5o` specifically — a different passage from the one
+  `Qj6brwOJk9E` re-cuts (the two-speed-reel/fatigue passage above) — not
+  independent corroboration, per the re-cut/duplicated-footage rule; its
+  video ID is logged here alongside `S9sQ8Vg8-5o` for this claim.
 
 ## Rigs — three ways to fish the bottom
 

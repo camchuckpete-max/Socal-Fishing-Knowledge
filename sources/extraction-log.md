@@ -2688,7 +2688,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hJjNZf-JYSs | Tackle Express | tutorial | parameter-skim | done | none / near-duplicate re-upload of Wk4wKFLbWEQ, content already captured in tackle/tackle-express-saltiga-300-round-jigging-reel.md; correctly no edit made |
 | hMLwRt6Sxn8 | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / merged the braid break-in/wax-coating parameter-skim into the existing braid section, cross-referenced against existing leader/abrasion doctrine |
 | hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic chatterbait line-class chatter, no SoCal/Baja/species markers on camera, matches prior same-channel out-of-scope rejection (VotK9jwqRJ8) |
-| hXcgczEYcKE | Tackle Express | tutorial | parameter-skim | pending |  |
+| hXcgczEYcKE | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / confirmed word-for-word re-cut of S9sQ8Vg8-5o's sinker-sizing-by-depth passage, added as duplicate-footage provenance note; fixed a mislabeled recut-count and false claim-pairing |
 | hc8n16HQO_E | Tackle Express | tutorial | parameter-skim | pending |  |
 | hjZ3hgq0Bzg | Tackle Express | tutorial | parameter-skim | pending |  |
 | hkUH9vkt68Q | Tackle Express | tutorial | parameter-skim | pending |  |
