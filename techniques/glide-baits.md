@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [glide-bait, swimbait, weedless, dropper-rig, rockfish, yellowtail, bass, parabolic-rod, hookup-baits, sheephead, halibut, dorado, yellowfin, skipjack]
-sources: [0HwYl0HO2tc, 5Oh3IPIC5g4, XyKF34C5iB4]
+sources: [0HwYl0HO2tc, 5Oh3IPIC5g4, XyKF34C5iB4, tugP0UsrzRI]
 confidence: low
 regions: [socal-bight, baja-pacific-north]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -238,6 +238,23 @@ same rig style.
   settled on holds up. The two arms are also designed to **spin apart by
   hand** so both baits can be pulled off, re-baited, and dropped back down
   quickly without re-tying — "just like using one bait."
+- **A third attributed variant — deliberate asymmetric weight for a
+  "dancing" fall and jig action (Tackle Express, `tugP0UsrzRI`, "The Secret
+  'Dancing' Lure Trick to Catch More Rockfish!," 2026-03-29; unregistered
+  channel, single mention — medium confidence):** built on the same
+  three-way-swivel double rig, but sized **unequal on purpose** rather than
+  matched — a **3–6 oz** hookup bait on the bottom paired with a smaller
+  **1–3 oz** hookup bait on top. Framed on camera as a step up in
+  difficulty ("a little bit more advanced... step outside your comfort
+  zone"), not the default build. Stated effect: the size mismatch gives the
+  rig a **dancing action on the fall** to depth; once at the desired depth
+  near bottom, popping the rod makes the two baits **dance, twitch, and go
+  in between** each other — a different mechanism from, and not reconciled
+  with, the matched-weight-pair-by-depth guidance above (that spec pairs
+  equal weights to control sink rate/depth for two colors or two depths;
+  this one deliberately mismatches weight to drive an action). No line
+  class or leader spec given; the only species reference is "rockfish" in
+  the video's title, not spoken in the 40-second clip itself.
 - **Scope, stated as a decision with a reason, not a blanket rig:** built
   for **rockfish and structure/bass fishing**; explicitly **not** used for
   white seabass; yellowtail hookups on it "usually don't work out well"; and

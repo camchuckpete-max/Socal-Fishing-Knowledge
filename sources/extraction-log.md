@@ -2781,7 +2781,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | t96ZBu0gvq4 | Tackle Express | tutorial | parameter-skim | done | none / 29s on-the-water reaction clip with no fishing knowledge content (no species/technique/gear/parameter in transcript) |
 | tRvItFsxjmg | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / folded 32s recap clip into existing rod-testing note as another re-cut/non-independent confirmation, medium confidence retained; fixed an incorrect ordinal claim |
 | tVgGBpzozMU | Tackle Express | tutorial | parameter-skim | done | none / 27-second promo teaser, no extractable parameters (no species/bait size/technique stated) |
-| tugP0UsrzRI | Tackle Express | tutorial | parameter-skim | pending |  |
+| tugP0UsrzRI | Tackle Express | tutorial | parameter-skim | done | techniques/glide-baits.md / added asymmetric-weight (3-6oz bottom / 1-3oz top) three-way-swivel dancing hookup-bait rig variant for rockfish, contrasted against existing matched-weight guidance, medium confidence |
 | u9sJyZhaDGQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | ugML6PvRyc8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | pending |  |
