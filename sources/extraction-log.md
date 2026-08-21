@@ -2605,7 +2605,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | YyW4-8FRjn8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-nasci-fc-reel.md; tackle/reel-maintenance.md / New capped-low product-feature note for the Nasci FC (X-Ship, Propulsion Line System, Core Protect vs. Sedona), linked from reel-maintenance and cross-linked among existing Tackle Express reel-feature notes |
 | ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / cited as re-cut of K_0AeM4OvuE, no new parameters added, sources list updated |
 | ZMrCAG7Cqmg | Tackle Express | tutorial | parameter-skim | done | skipped: 38s freshwater bass blade-bait rip/swing technique off a point in the thermocline zone, out of scope, not SoCal/Baja saltwater |
-| ZolfRTcJBk4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZolfRTcJBk4 | Tackle Express | tutorial | parameter-skim | done | skipped: freshwater lake bass/striper blade-bait technique off points in the thermocline zone, out of scope, not SoCal/Baja saltwater |
 | ZrcwcugaEe4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | _3f8_JxtDRo | Tackle Express | tutorial | parameter-skim | pending |  |
 | _8Bno5mP4QE | Tackle Express | tutorial | parameter-skim | pending |  |
