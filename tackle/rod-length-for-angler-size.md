@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-length, angler-fit, sportboat, travel, beginner]
-sources: [CXrF7K4lKxE, tpmOYXYQwhU, DfLcSS-J3g4, RbOWJ0BAqSo, W0mj_LA-qcM]
+sources: [CXrF7K4lKxE, tpmOYXYQwhU, DfLcSS-J3g4, RbOWJ0BAqSo, W0mj_LA-qcM, degWvtQ4D_Y]
 confidence: medium
 ---
 
@@ -42,6 +42,37 @@ reach and build, not only against the application** — a stock/shelf rod
 length that's correct for the application can still be a poor physical fit
 for a smaller angler. No specific rod model, length, species, or technique
 is named in this source.
+
+## Fatigue/shaking as a length signal (Tackle Express, `degWvtQ4D_Y`)
+
+Two unnamed Tackle Express staff, in dialogue (unregistered channel, single
+mention — medium confidence; "Is your fishing rod too long? Try this simple
+fix," uploaded 2026-07-02, 43 sec):
+
+- **Trigger:** an angler shaking/fatigued holding the rod — and shaking on
+  every rod they own, not just one, which rules out a single bad blank as the
+  cause.
+- **First fix offered: posture.** "Sometimes modifying your posture a little
+  bit will help eliminate that" is offered before any gear change — framed as
+  a sometimes-fix, not a guaranteed one.
+- **Second fix: shorten the rod.** Cited example — "online everybody's
+  preaching an 8-ft rod," but an 8-ft rod isn't comfortable for this angler;
+  dropping to a **7-ft 8-in or 7-ft 6-in** rod is markedly more comfortable.
+- **Stated reasoning:** matching the rod's length to the angler's own comfort
+  — not a blanket recommended length — is what makes the angler "more
+  effective," framed as a direct fatigue-outcome chain: less fatigue after
+  landing one fish → more effective for the next fish → more fish over a
+  trip.
+
+No species, technique, or region is named — general angler-fit doctrine,
+independent of application. It reinforces the same **under-8-ft** range
+already named in the [application-driven length
+section](#application-driven-length-independent-of-angler-build-tackle-express-dflcss-j3g4)
+(7'6"–8 ft) from a different Tackle Express video, but by a different
+reasoning chain — fatigue/comfort here vs. casting distance, leverage point,
+travel, and rail crowding there — so it's kept as a separate citation rather
+than folded in; an unregistered channel doesn't gain confidence from
+repetition across its own videos.
 
 ## The other direction — bigger/stronger anglers sizing up
 
