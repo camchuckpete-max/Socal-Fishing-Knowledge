@@ -2567,7 +2567,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | SbTEGKmWl7g | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic rod-transport/travel-packing tips (rod sleeves, rod straps), no SoCal/Baja-specific content, correctly skipped per curation bar |
 | SclIN_ceduA | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/tackle.md |
 | Se7bjtiiGv8 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater trout jerkbait clip, no SoCal/Baja species/location/parameters, out of KB scope |
-| T33JsoZHO_c | Tackle Express | tutorial | parameter-skim | pending |  |
+| T33JsoZHO_c | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added fluke lead-head weight-selection bullet (2oz bottom-bounce halibut vs 3/4oz suspended seabass/kelp), naming Nomad/Z-Man/Redemption flukes, cross-linked to california-halibut.md and white-seabass.md |
 | T_XpItMhbjM | Tackle Express | tutorial | parameter-skim | pending |  |
 | TdrFjnJb3Y0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | TjQuU-x8sHM | Tackle Express | tutorial | parameter-skim | pending |  |

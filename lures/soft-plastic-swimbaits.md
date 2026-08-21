@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw]
+tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -178,6 +178,29 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   application he reaches for [flukes](bay-bass-plastics.md) for, calling the
   two "very very similar" in that use. No specific species, jig-head weight,
   or location named on camera.
+- **Fluke lead-head weight by scenario — bottom-bounce for halibut vs a
+  lighter head for seabass riding up high or in the kelp (Tackle Express,
+  `T33JsoZHO_c`, 2026-07-13; unregistered channel, single mention — medium
+  confidence).** Three named flukes shown as go-tos: a **Nomad fluke**
+  (captioned "live ops squid" — model/line name not confidently resolved,
+  `asr-uncertain`), a **Z-Man** fluke called "always a great go-to," and a
+  **Redemption swimbait fluke**. Stated head-weight logic, keyed to what the
+  lead head needs to do rather than to species alone: fishing **[California
+  halibut](../species/california-halibut.md)**, the stated goal is to feel
+  and bounce bottom, so he fishes a **heavier head — 2 oz** on the fluke.
+  When **[white seabass](../species/white-seabass.md)** are riding higher in
+  the column — a sonar mark showing fish up high, fish holding to one side of
+  the boat, or fish "breezing through" — or when fishing **in the kelp**, he
+  switches to a **lighter head — 3/4 oz** on the same fluke so it fishes
+  higher instead of sinking to bottom. No further location, season, or exact
+  depth given on camera. Kept as a distinct, un-merged weight data point
+  alongside the 70–80 ft calico lead-head sink depth and the 3-in-swimbait
+  halibut retrieve already logged above, and alongside the 5/8 oz–1.5 oz WSB
+  artificials weight range in [white seabass — situations →
+  techniques](../species/white-seabass.md#situations--techniques): same
+  general logic (a lighter head keeps the bait higher for fish riding
+  shallow), different weight figures from a different source — not
+  reconciled into one number.
 - **Model benchmarks:** **MC Swimbaits**-class slugs, Big Hammer, Keitech,
   MegaBass, Warbaits heads. Carry both a weedless slug and a lead-head paddle.
 - **Megabass Sleeper Gills — hollow-body, hidden-hook construction (Tackle
