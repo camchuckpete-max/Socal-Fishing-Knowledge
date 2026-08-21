@@ -76,6 +76,12 @@ built around **feeling the bite from depth**:
   fish and haul it up and over the side. Reinforces the same 7–7'6" range
   already logged above from a different Tackle Express video, by two new
   reasoning chains.
+- **A named product example just past that range** — the [Phenix Axis, 7 ft
+  8 in heavy action rated 25–60 lb test](../tackle/tackle-express-phenix-axis-rockfish-rod.md)
+  (Tackle Express, `rBt096uru3U`, 2026-04-15; unregistered channel, single
+  mention — medium confidence), pitched as a mid-tier rockfishing rod. Kept
+  side by side with the 7–7'6" figures above rather than reconciled — a
+  product example, not a restated buying rule.
 - **A third Tackle Express citation, naming the SoCal depth range and the
   sinker/two-hook mechanism that drives the fatigue — footage traced to its
   full-length source (Tackle Express, `S9sQ8Vg8-5o`, "Rockfish Tackle & Gear
@@ -507,6 +513,7 @@ the bite, read before you feel anything through the blank.
 
 - [Dropper Loop](dropper-loop.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Phenix Axis — Mid-Tier Rockfishing Rod Spec (Tackle Express)](../tackle/tackle-express-phenix-axis-rockfish-rod.md)
 - [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](../tackle/tackle-express-premade-rock-cod-rig.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

@@ -68,6 +68,7 @@
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Tackle Express, "Penn Handle Knob Replacement Kits for your Penn Fathoms Torques and Squalls" (QQlQcPXARWk, uploaded 2024-02-09) — a 59-second shop-floor how-to
 - [Penn's "Pull to Turn" Preset Drag — Set It and Forget It (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md) — A very short shop-counter clip naming and explaining Penn's own term for its preset-drag philosophy on its reels (Tackle Express, unnamed staff on camera, unreg
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md) — A short shop-counter comparison of two 2-speed lever-drag reels' physical lever and drag-curve controls — Penn's own lever drag (model not named on camera) agai
+- [Phenix Axis — Mid-Tier Rockfishing Rod Spec (Tackle Express)](tackle-express-phenix-axis-rockfish-rod.md) — Tackle Express, "Is the Phoenix Axis the ultimate rockfishing rod?
 - [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](tackle-express-premade-rock-cod-rig.md) — Tackle Express (aqZxUmefwcw, "Stop wasting time rigging on the boat!," uploaded 2026-03-31; unregistered channel, single mention — medium confidence).
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
 - [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Tackle Express, "This Jigging Reel is an Absolute TANK – Saltiga 300 Round," Wk4wKFLbWEQ, uploaded 2025-06-05 — a 142-second product feature rundown for one ree
@@ -87,5 +88,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 77 notes exceed the 30-node cap._
+_Map skipped: 78 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -2758,7 +2758,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | q_NMbHJ7QoQ | Tackle Express | tutorial | parameter-skim | done | none: freshwater lake bass-fishing tackle video, no SoCal/Baja saltwater content, out of scope |
 | qh3hL2Dt3HY | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md; tackle/hooks.md; tackle/rod-and-reel-selection.md; tackle/tackle-express-premade-rock-cod-rig.md; techniques/flyline.md; techniques/rockfish-deep-dropping.md: original source for 5 already-cited re-cut shorts; merged reel/rod combo, weighted-flyline trigger, conventional-vs-spinning mechanism, sinker-by-depth figures |
 | r7Bv49Ysgdw | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; techniques/knife-jigging.md: treble-fouling tight-line-on-the-drop fact merged into iron-jigs.md, cross-linked to knife-jigging.md's opposite tightlining-drop failure to disambiguate rig types |
-| rBt096uru3U | Tackle Express | tutorial | parameter-skim | pending |  |
+| rBt096uru3U | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-phenix-axis-rockfish-rod.md; tackle/rod-length-for-angler-size.md; techniques/rockfish-deep-dropping.md: new Phenix Axis rockfish rod note (7'8 heavy, 25-60lb), cross-linked as side-by-side product example |
 | rd2Ia8HRbSg | Tackle Express | tutorial | parameter-skim | pending |  |
 | reG4Xc91Mj4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | reZBk4GsH_o | Tackle Express | tutorial | parameter-skim | pending |  |

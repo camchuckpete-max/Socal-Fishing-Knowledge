@@ -65,7 +65,13 @@ fix," uploaded 2026-07-02, 43 sec):
   trip.
 
 No species, technique, or region is named — general angler-fit doctrine,
-independent of application. It reinforces the same **under-8-ft** range
+independent of application. A named product landing on the same 7 ft 8 in
+figure: the [Phenix Axis, a heavy-action rockfishing rod rated 25–60 lb
+test](tackle-express-phenix-axis-rockfish-rod.md) (Tackle Express,
+`rBt096uru3U`, 2026-04-15) — a different clip, product spec rather than a
+stated comfort/fatigue rule, kept alongside rather than merged in.
+
+It also reinforces the same **under-8-ft** range
 already named in the [application-driven length
 section](#application-driven-length-independent-of-angler-build-tackle-express-dflcss-j3g4)
 (7'6"–8 ft) from a different Tackle Express video, but by a different
@@ -149,6 +155,7 @@ Neither source names a specific application, rod length, or reel.
 ## Linked from
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
+- [Phenix Axis — Mid-Tier Rockfishing Rod Spec (Tackle Express)](tackle-express-phenix-axis-rockfish-rod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
