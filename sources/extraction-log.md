@@ -2687,7 +2687,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | hBAxFcjts5A | Tackle Express | tutorial | parameter-skim | done | none / skipped: out-of-region/off-topic promo - freshwater bass tackle announcement, no SoCal/Baja saltwater content |
 | hJjNZf-JYSs | Tackle Express | tutorial | parameter-skim | done | none / near-duplicate re-upload of Wk4wKFLbWEQ, content already captured in tackle/tackle-express-saltiga-300-round-jigging-reel.md; correctly no edit made |
 | hMLwRt6Sxn8 | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / merged the braid break-in/wax-coating parameter-skim into the existing braid section, cross-referenced against existing leader/abrasion doctrine |
-| hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | pending |  |
+| hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: generic chatterbait line-class chatter, no SoCal/Baja/species markers on camera, matches prior same-channel out-of-scope rejection (VotK9jwqRJ8) |
 | hXcgczEYcKE | Tackle Express | tutorial | parameter-skim | pending |  |
 | hc8n16HQO_E | Tackle Express | tutorial | parameter-skim | pending |  |
 | hjZ3hgq0Bzg | Tackle Express | tutorial | parameter-skim | pending |  |
