@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o, zYcXDoOE6jo]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o, zYcXDoOE6jo, zkEMsCIhSic]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -119,6 +119,24 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   egg-sack section. No species or location named on camera; kept alongside,
   not merged into, the O-ring sizing bullet above since that bullet covers
   which O-ring size to use and this one covers where to place it.
+- **O-ring tool vs. banded keeper — pick by worm profile, not one default
+  (Tackle Express, `zkEMsCIhSic`, "Stop losing worms! Are O-rings or banded
+  hooks the better choice?," 2026-04-07; unregistered channel, two-speaker
+  exchange with neither speaker named on camera — medium confidence).** A
+  companion comparison on the same worm-style O-ring/band keeper hardware
+  already logged above (`-zw76Sh7YCI`, `LRRoGT2W4WY`): banded keepers — a
+  stretch band clamped on with a pliers-style banding tool ("those are
+  fantastic," and the cheapest option available to the speaker, no
+  brand/model given for either the tool or the band) — are named as the pick
+  specifically for **skinny-profile worms**, the stated reason being the
+  band **holds the bait better** than a plain O-ring does on a thin body. The
+  O-ring side stays in rotation too — one speaker has "just been using that
+  forever" — but the surrounding captioning is too garbled to carry a
+  specific stated reason beyond that habitual preference. No species
+  or location named on camera. The clip opens on the stated payoff of
+  switching to the better-holding keeper — "you're going to just end up with
+  more bites" — without stating on camera whether that's from fewer lost
+  baits, a straighter/better presentation, or both.
 - **Hook style: wide-gap finesse hook over a long-shank, inserted under the
   O-ring (Tackle Express, `reZBk4GsH_o`, "Why you should ditch long shank
   hooks for your soft plastics," 2026-04-08; unregistered channel, single
