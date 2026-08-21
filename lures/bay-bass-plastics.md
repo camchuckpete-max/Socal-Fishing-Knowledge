@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -44,6 +44,26 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
     and produces a **walk-the-dog action fished underwater** rather than on
     top. A drop of super glue at the nose entry point can be added to keep the
     bait from sliding.
+- **C3 Baits "Shimmy" 3-in worm — hook entry point set by matching the hook
+  bend, to keep the bait straight** (Tackle Express, `NBSJsN7uTKQ`,
+  2025-01-03; unregistered channel, single mention — medium confidence). A
+  straight-worm-style finesse stick rigged Texas-style on a worm hook (hook
+  size captioned "number two"; brand/model beyond that not confirmed on
+  camera — `asr-uncertain`), threaded so the entry and exit points on the
+  bait match the hook's own bend rather than a fixed measurement:
+  - The bait has **one flat side (the belly)**; rig off that side.
+  - Enter through the **tip (nose) of the bait**, center-punched, then
+    immediately bend the hook point back out — a short skin-hook at the
+    nose, not a deep entry.
+  - Slide the bait up the hook shank **past the worm keeper**, covering the
+    keeper's tip, then rotate the hook back so its point faces the bait's
+    belly for the final exit.
+  - **The stated key to keeping the worm straight (not curled):** lay the
+    hook against the bait first and mark, with a thumb, exactly where the
+    **bend of the hook** touches the plastic — that mark, not a guessed
+    distance, is where the point re-enters. Skipping this and guessing the
+    exit point is named as the common mistake that leaves the bait bent
+    ("curled ... like a C") instead of running straight.
 - **Gulp grubs** — scented curly-tail grubs; the **scent is the activator** for
   bottom-feeding bay fish. A **grub swims on a constant retrieve** (rod tip down
   at ~45°, steady wind) on a drop-shot or a light jighead, unlike the tailless
