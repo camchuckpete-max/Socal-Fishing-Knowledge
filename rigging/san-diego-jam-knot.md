@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [san-diego-jam, double-jam-knot, terminal-knot, hook-knot, lure-knot]
-sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk, tpmOYXYQwhU, 6E39_PBt1P4]
+sources: [hF4dFlSB12s, 1BH7nQdIg5Q, VpW91AKOFVQ, BcX-tp3I7LE, 5J7a6UwTA90, AGaVlYu61O4, Qa6Q8mOAV6I, VyFpIk-Na9Q, _ZThckj2TIM, YeV--HarEYQ, 49joKHD7Umc, lf3S28nh-kk, tpmOYXYQwhU, 6E39_PBt1P4, rvmr9Jy9RjI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -236,6 +236,20 @@ naming split tracked in that note, not this one.
   States the knot ties to monofilament, fluorocarbon, and braid alike, and to
   a hook, swivel, clip, or lure — a general applicability statement, not a
   new SoCal-specific parameter.
+- **A further re-cut, same channel and title, tension method only (Tackle
+  Express, "How to Tie San Diego Jam Knot #fishing #knot #howto #sandiego
+  #jam," `rvmr9Jy9RjI`, upload 2024-02-09; unregistered channel — medium
+  confidence):** a 59-second short from the same channel restating the
+  identical single-pass, 6-wrap mechanic already logged above for
+  `6E39_PBt1P4` — main line over the index finger, tag underneath and
+  pinched, wrap 6 times down, tag through the bottom loop and then the top
+  (index) loop, lubricate, pull main line and tag together while walking the
+  tag down under tension to cinch, then trim. Shows only the fixed-point
+  ("hooking it to something for tension") half of the two tension methods
+  demonstrated in `6E39_PBt1P4`, and doesn't restate the
+  mono/fluoro/braid/hook/swivel/clip/lure applicability line from that clip.
+  Not an independent sighting — logged here for provenance only, not counted
+  toward corroborating the 6-wrap figure a second time.
 - **Judgment:** wet connection knots before seating, and cinch fully; a
   partly-set knot is where these fail.
 - **Double San Diego jam, tied straight to a surface iron on 40 lb test, no
