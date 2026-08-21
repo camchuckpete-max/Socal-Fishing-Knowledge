@@ -2554,7 +2554,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | R6ErrEIjlWw | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added nested rigging sub-bullet (nose-hook/twist/exit-point-match + 3-in variant + field fix) under War Baits neck-breaker bullet, medium confidence; fixed pre-existing front-matter sources gap for XyKF34C5iB4 |
 | RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-luvias-st-spinning-reel.md; tackle/gear-classes.md / new low-confidence tackle spec-sheet note for Daiwa Luvias ST, linked from gear-classes.md, ASR uncertainties flagged (Zaion/monocoque, 20000->2000) |
 | RbOWJ0BAqSo | Tackle Express | tutorial | parameter-skim | done | tackle/rod-length-for-angler-size.md / added as corroborating re-cut source on existing 7.5-8ft rod-length doctrine (casting distance, leverage point, travel/shipping); medium confidence retained |
-| RoBoQ6kulwA | Tackle Express | tutorial | parameter-skim | pending |  |
+| RoBoQ6kulwA | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 38s clip is DIY spool-rack/wing-nut storage fixture demo, no fishing species/technique/parameter/region content, fails curation bar |
 | Rtwz0oEfrKw | Tackle Express | tutorial | parameter-skim | pending |  |
 | S0-BCQWA0H4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | S9sQ8Vg8-5o | Tackle Express | tutorial | parameter-skim | pending |  |
