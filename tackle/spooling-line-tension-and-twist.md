@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine, wind-knots, line-lay]
-sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo, gn2yquuU6eM]
+sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo, gn2yquuU6eM, i4rJy9Uwb-U]
 confidence: medium
 ---
 
@@ -21,7 +21,11 @@ tight](../techniques/spinning-reel-wind-knots.md).
 ## Tension is the load-bearing variable, regardless of reel type
 
 - **Tension matters on every reel and every line diameter** — conventional,
-  baitcasting, or spinning; monofilament, fluorocarbon, or braid.
+  baitcasting, or spinning; monofilament, fluorocarbon, or braid. Stated as
+  "the number one most important thing" in spooling, "especially on...larger
+  conventional saltwater reels" and, separately, "especially" on small
+  baitcasters (Tackle Express, `i4rJy9Uwb-U`, "Why Line Tension Makes or
+  Breaks Your Reel," 2025-12-27; unregistered channel — medium confidence).
 - **Braided line needs the most tension of the three materials.** Stated
   reason: line spooled loosely comes out **fluffy**, and fluffy braid has a
   high probability of **digging into itself** and wedging between wraps on the
@@ -29,10 +33,15 @@ tight](../techniques/spinning-reel-wind-knots.md).
   lifetime." This is the same loose-wrap digging-into-itself failure mode
   logged from the maintenance angle (tight, "rock-hard" respooling) in
   [reel & rod maintenance](reel-maintenance.md) (Norm Fujimoto's annual
-  spectra strip-down and respool).
+  spectra strip-down and respool). `i4rJy9Uwb-U` states this identical
+  mechanism and near-identical phrasing ("fluffy," "digging into itself,"
+  "fish of a lifetime") to `JmGT0zAaVOY` — likely the same underlying
+  doctrine re-cut as a short clip rather than an independently confirming
+  second source; channel is unregistered and caps at medium either way.
 - **Baitcasters specifically:** a loosely spooled reel is more prone to
   **backlash**, since a loose, fluffy wrap gives the line extra freedom of
-  movement on the spool, on top of the same digging-into-itself risk.
+  movement on the spool, on top of the same digging-into-itself risk
+  (`JmGT0zAaVOY`; restated in `i4rJy9Uwb-U` as "extra...movement in play").
 
 ## Leader material isn't spool line (Tackle Express, `gn2yquuU6eM`, "Are you spooling your line wrong? Watch this fishing fix.," 2026-06-15; unregistered channel, single mention — medium confidence)
 
