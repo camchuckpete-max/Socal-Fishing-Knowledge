@@ -2549,7 +2549,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Qj6brwOJk9E | Tackle Express | tutorial | parameter-skim | done | tackle/star-drag-vs-lever-drag.md; techniques/rockfish-deep-dropping.md / third citation on 2-speed reels for SoCal rockfishing (depth, sinker weight, two-hook retrieve, gear-ratio fatigue), medium confidence |
 | Qqdt6f8Mjd4 | Tackle Express | tutorial | parameter-skim | done | lures/lucky-craft-flash-minnow.md; species/california-halibut.md / halibut lure color-selection doctrine (white default, white/pink-belly, pink for surf halibut) added, medium confidence |
 | R0TQ7Afsh6Y | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 45s product ad for Deps Buzzjet trout-series wakebait, freshwater trout species, no SoCal/Baja saltwater content |
-| R1spZEO1V-0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| R1spZEO1V-0 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: near-verbatim re-cut of E4CDqBFOaP8, already captured in species/california-halibut.md and lures/lucky-craft-flash-minnow.md |
 | R4yYK90-cZM | Tackle Express | tutorial | parameter-skim | pending |  |
 | R6ErrEIjlWw | Tackle Express | tutorial | parameter-skim | pending |  |
 | RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | pending |  |
