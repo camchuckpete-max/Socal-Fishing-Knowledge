@@ -2821,7 +2821,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | zYcsYhdyZrA | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md / parameter-skim add: Fathom 25 Narrow/Avet MXJ vs Seagate/Squall reel-capacity clip, cross-linked to existing Fathom-25 spec table |
 | zi5J9UDJgBk | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-saltist-sd-reel.md; tackle/star-drag-vs-lever-drag.md / new low-confidence product note for Daiwa Saltist SD (centrifugal brake, aluminum body, drag range), linked from star-drag-vs-lever-drag comparison |
 | zkEMsCIhSic | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added skinny-worm-vs-high-volume O-ring/banded-keeper comparison bullet, corrected one over-specific invented reason during review |
-| zlelqp7Qo9Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| zlelqp7Qo9Y | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/tackle.md |
 | zqZQLgj5W4k | Tackle Express | tutorial | parameter-skim | pending |  |
 | zwHzyv43H_Q | Tackle Express | tutorial | parameter-skim | pending |  |
 | 0rY9CEV5vsA | SearcherSportfishing | promo | none | skipped | boat/merch/event — pre-filter |
