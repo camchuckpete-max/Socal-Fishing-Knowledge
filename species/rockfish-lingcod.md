@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [rockfish, lingcod, reds, vermilion, bottomfish, deep-structure, channel-islands, baja, ensenada]
-sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU]
+sources: [O5aQkex0qGg, 6-8KfjEg0x8, 11npFUPOJKU, AqW_Z9pFcHU, Z3rZqy2Pi8E, Rf1HKJG-SDg, lF6jQklDCrY, 0dIwWiOc1NY, Y1xeieQI3B4, fDSd9kqwYW0, CKq0Z6ExVs4, SGbynqaiHdY, ilINTeknKB4, _ZThckj2TIM, 5Oh3IPIC5g4, AH4Eiya1Hn0, iAr6sbRC384, D0bQjAL0gGU, J40VxLNuZhk]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [bank, island, nearshore-coast]
@@ -312,6 +312,16 @@ the *bottom*, not the fish.
   Brothers Sportfishing, _ZThckj2TIM, 2020-04-04; high confidence). Undersized/
   protected fish need a **weighted release device** to survive the trip back
   down from depth — see [releasing fish from depth](../techniques/rockfish-deep-dropping.md#releasing-fish-from-depth-descender).
+- **Alternate framing:** Tackle Express describes the coating on general
+  rockfish spines as a stinging **mucus** rather than venom — unpleasant but
+  not the same hazard class — kept beside the "mild venom" framing above
+  rather than reconciled. The one genuine exception both sources agree
+  matters is the California scorpionfish (**sculpin**), whose spines are
+  actually venomous enough to "ruin your day"; stated advice is to avoid all
+  spines on all rockfish rather than try to sort venomous from merely
+  unpleasant on deck (Tackle Express, `J40VxLNuZhk`, 2026-04-05; unregistered
+  channel — medium confidence). See [sculpin handling](../fish-care/sculpin-handling.md)
+  for the venomous-species-specific procedure.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -331,6 +341,7 @@ the *bottom*, not the fish.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
+- [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)

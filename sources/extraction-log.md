@@ -2471,7 +2471,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | IcS7QbJlSDA | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md; species/rockfish-lingcod.md; tackle/tackle-express-rockfish-leader-line.md / new note: artificial double-8 octopus bait-tank substitute on rock-cod dropper-loop rig, cross-checked against re-cut source qh3hL2Dt3HY |
 | IqpeK5Xfhes | Tackle Express | tutorial | parameter-skim | done | techniques/fighting-fish-from-the-rail.md / added hip-braced rod posture as a companion default to rail-bracing, medium confidence |
 | IxfTRWmMqQU | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / merged Tackle Express thin-braid/jig-vs-bait-rig comparison into Weight & staying off the snag section |
-| J40VxLNuZhk | Tackle Express | tutorial | parameter-skim | pending |  |
+| J40VxLNuZhk | Tackle Express | tutorial | parameter-skim | done | fish-care/sculpin-handling.md; species/rockfish-lingcod.md / merged rockfish mucus-vs-sculpin-venom safety point and deckhand practice; fixed missing front-matter source |
 | JFauRUaz2AQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | JJwyof_Nxqs | Tackle Express | tutorial | parameter-skim | pending |  |
 | JLaql6UUFVs | Tackle Express | tutorial | parameter-skim | pending |  |
