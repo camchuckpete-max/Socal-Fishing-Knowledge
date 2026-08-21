@@ -85,6 +85,7 @@ the answer given was **no**.
 ## Linked from
 
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
+- [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

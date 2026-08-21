@@ -50,4 +50,5 @@ channel. Kept as a record of the product/spec, not as fishery doctrine.
 ## Linked from
 
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 <!-- backlinks:end -->

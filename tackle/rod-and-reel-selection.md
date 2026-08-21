@@ -193,7 +193,10 @@ in:
   can now be used too, especially for tuna.
 - **Tranx named as a good casting reel** specifically for its **adjustable
   brakes** — they cut down on backlash while still letting the jig get out far
-  from the boat.
+  from the boat. For the mechanism behind that on the **300B** specifically
+  (an exterior fine-tune dial plus an internal 8-pin brake block), see
+  [Shimano Tranx 300B — braking
+  system](tackle-express-shimano-tranx-300b-braking-system.md).
 - **Lever-drag two-speed reels are becoming viable for casting** as newer
   reels free-spool better than older lever-drag designs — a good method
   "especially when you're targeting those 80, 90, 100 lb bluefin tuna."
@@ -935,6 +938,7 @@ a bluefin).
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
+- [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
