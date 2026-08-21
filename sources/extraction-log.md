@@ -2741,7 +2741,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | osAuU0W9zKA | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater Largemouth/striper/Muskie swimbait product review, no SoCal/Baja saltwater content |
 | ov0T5MPdl_E | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md; tackle/searcher-lever-drag-reel-sizing.md / added overspooling/line-capacity rule of thumb (300-500yd offshore, 100-150yd bass) |
 | p-gl7mLOeWw | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 34s clip restates halibut fighting doctrine already captured from 1l05hEXDaWw, no new parameter |
-| p1KyyR0i7Kc | Tackle Express | tutorial | parameter-skim | pending |  |
+| p1KyyR0i7Kc | Tackle Express | tutorial | parameter-skim | done | rigging/rp-knot.md (new); rigging/essential-knots.md / split RP-knot detail into new dedicated note (wrap-by-line-ratio rule, lubrication/cinch/trim, track record), essential-knots.md keeps routing summary |
 | p9YYIb4GKHM | Tackle Express | tutorial | parameter-skim | pending |  |
 | pL7ZGuMVwo4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | pMsbeLOgUc4 | Tackle Express | tutorial | parameter-skim | pending |  |

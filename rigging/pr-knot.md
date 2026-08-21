@@ -101,4 +101,5 @@ Thoughts](https://www.youtube.com/watch?v=To2Dvx3Ifnc) (Tackle Express,
 
 - [Essential SoCal Knots](essential-knots.md)
 - [FG Knot & Albright Knot](fg-and-albright.md)
+- [RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md)
 <!-- backlinks:end -->

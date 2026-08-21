@@ -156,6 +156,7 @@ Wendy, Izorline, 2022-03-31).
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

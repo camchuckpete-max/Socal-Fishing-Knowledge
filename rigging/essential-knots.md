@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc, Ga8Z1PyBqdE, SK2M7L2vA1s]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc, Ga8Z1PyBqdE, SK2M7L2vA1s]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -30,7 +30,9 @@ fluoro leader, braid main line — and feed the terminal rigs in
   Knot](san-diego-jam-knot.md).
 - **RP knot (connection)** — the preferred braid-to-fluoro leader join here;
   small enough to pass the guides. Use it to build a leader onto the braid main
-  line.
+  line. Four corroborating sources including a full wrap-by-line-ratio rule and
+  a step-by-step tying/cinching/trimming demonstration are kept as their own
+  note: [RP Knot](rp-knot.md).
 - **PR knot (connection)** — a different, unrelated braid-to-leader tie despite
   the near-identical name: tied with a weighted PR bobbin tool instead of by
   hand, offered as an alternative to the [FG knot](fg-and-albright.md#parameters--judgment)
@@ -156,52 +158,21 @@ fluoro leader, braid main line — and feed the terminal rigs in
   sinker-connection variant are kept in their own note rather than growing
   this one further: [San Diego Jam Knot](san-diego-jam-knot.md).
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
-  wrap the braid **6 times up and 6 times back down**, and exit the loop the same
-  way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
-  to ~80 lb by the book, but it holds well beyond — tied clean to 100 lb and even
-  ~130 lb. Small profile passes the guides. Wrap count is personal preference —
-  some tiers go 8 or 10 wraps instead of 6 (YGLFn8lPMu0). For extra security
-  before cinching, pass the braid tag back through the exit loop one more time
-  first. Wet the knot (water is fine), then massage/work the coils down snug
-  before the final hard cinch — watch for the braid to darken and the fluoro to
-  go translucent as the tell that it's seated; use a line-gripping puller (wood
-  dowel + tape) rather than bare hands on heavier tests to avoid line cuts.
-  **Naming conflict, not reconciled:** the sources behind this entry and the
-  ones behind [John Collins Knot](john-collins-knot.md) are kept as separate
-  ties here (different wrap counts — 6-up/6-down here vs. 9-up/5-up/5-down
-  there), but a SearcherSportfishing presenter (Pete Gray, Tackle Tip
-  Thursday Vol. 150, `b-oixz7pgAo`, 2021-06-10) states on camera that "RP
-  knot" and "John Collins knot" are the same tie, both named for its
-  wheelhouse-of-the-*Royal-Polaris* origin — consistent with this entry's own
-  ~80 lb "by the book" figure matching Vol. 150's stated 80 lb threshold, and
-  with both entries independently citing a wood dowel for seating/cinching.
-  Kept side by side rather than merged, since the wrap counts as sourced
-  still disagree.
-  Optionally finish by tying the fluoro tag off around the main braid with a
-  3-wrap uni knot, which cones the connection for a smoother pass through the
-  guides — skippable when re-tying in a hot bite (YGLFn8lPMu0).
-  **Observed** (Dirty Hookers, date unstated — recalled from an earlier,
-  unlinked video): presenter recounts landing an estimated triple-digit
-  (100 lb+) bluefin on 65 lb braid to 80 lb fluoro tied with this knot,
-  locked drag, no knot failure (YGLFn8lPMu0).
-  **Full-name + tag-length corroboration (StokedOnFishing, `AT6zmDYxjW4`,
-  2020-05-06; unregistered channel — `medium` confidence):** a separate,
-  short StokedOnFishing clip (presenter John, at a tackle shop) names this
-  knot in full as the **"Royal Polaris knot"** — also called the "R-P knot"
-  (the **RP** name used throughout this note) and the **"Roy Rose knot."**
-  Mechanic matches the entry above: form a loop in the fluoro/mono, bring
-  the braid up through it with about **12 in** of tag, wrap the braid **6
-  times** down the standing fluoro, then wrap back **6 times** toward the
-  loop and exit the same direction it entered — a second, independent
-  corroboration of the 6-and-6 wrap count and same-direction exit already
-  logged above. Also corroborates the extra-security pass: at the critical
-  exit point he passes the tag through **twice** ("I go once and then I go
-  another time to give it a lock") before cinching, matching the "pass the
-  braid tag back through the exit loop one more time first" option already
-  noted. To seat: pull the tag end and the fluoro/mono main line together
-  tight first, then release the tag and pull the two main lines to finish
-  the cinch. No SoCal-specific parameters (line class, species) given in
-  this clip.
+  wrap the braid **6 times up and 6 times back down** (personal-preference range
+  seen 5–11 depending on line-diameter ratio and slickness), and exit the loop
+  the same way you entered. Lubricate, draw slow, then seat with a firm cinch.
+  Commonly tied to ~80 lb by the book, but it holds well beyond — tied clean to
+  100 lb and even ~130 lb. Small profile passes the guides.
+  **Naming conflict, not reconciled,** with [John Collins Knot](john-collins-knot.md)
+  (different wrap counts — 6-up/6-down here vs. 9-up/9-down there) despite a
+  SearcherSportfishing presenter (Pete Gray, Tackle Tip Thursday Vol. 150,
+  `b-oixz7pgAo`, 2021-06-10) stating on camera that "RP knot" and "John
+  Collins knot" are the same tie, both named for its
+  wheelhouse-of-the-*Royal-Polaris* origin.
+  The wrap-by-ratio rule, lubrication/cinch/trim technique, a step-by-step
+  tying demonstration, corroborating full-name variants ("Royal Polaris
+  knot," "Roy Rose knot"), and a landed-bluefin observation are kept in their
+  own note rather than growing this one further: [RP Knot](rp-knot.md).
 - **Uni-to-uni:** lay the two lines parallel, tie a uni on each — a loop with
   **6 wraps** around both strands — cinch each into a neat stack of coils, then
   draw the two knots together until they jam. Works braid-to-braid and
@@ -378,15 +349,15 @@ fluoro leader, braid main line — and feed the terminal rigs in
 ## Tie it
 
 How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0),
-[three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
-[RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
+[three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s)
+(see [RP Knot](rp-knot.md#tie-it) for the RP-specific walkthrough, full-name-variant,
+and wrap-by-ratio demonstration clips),
 [Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE)
 (loop knot portion; see [Seaguar Knot](seaguar-knot.md) for the Seaguar-knot
 portion of this video and four other mono-to-fluoro connection clips),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
 [double uni knot, fluorocarbon to monofilament connection](https://www.youtube.com/watch?v=qtCZAB4EBs4),
 [Searcher Sportfishing Fluoro to Mono Knots (surgeon's knot + uni-to-uni)](https://www.youtube.com/watch?v=zKovnvOwlFc),
-[Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
 [John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks),
 and [Master the UNI UNI Knot, braid to braid](https://www.youtube.com/watch?v=Ga8Z1PyBqdE)
@@ -409,6 +380,7 @@ mono-to-fluoro connection clips).
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
 - [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
 - [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)

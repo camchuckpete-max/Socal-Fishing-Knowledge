@@ -225,4 +225,5 @@ presenter not identified, 2020-04-23).
 
 - [Essential SoCal Knots](essential-knots.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
+- [RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md)
 <!-- backlinks:end -->
