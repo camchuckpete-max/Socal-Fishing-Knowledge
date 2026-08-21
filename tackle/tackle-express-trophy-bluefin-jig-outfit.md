@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, tuna, jig, knife-jig, flat-fall, hook-upgrade, assist-hook, leader, two-speed, drag, rod-rating, tackle-express]
-sources: [DuNkl8F45NE]
+sources: [DuNkl8F45NE, Q4sW6JRQzAY]
 confidence: medium
 ---
 
@@ -9,13 +9,20 @@ confidence: medium
 
 Tackle Express, "How to Catch a Trophy Bluefin Tuna on a Jig" (James, on
 camera; `DuNkl8F45NE`, uploaded 2022-06-04). `tackle-express` is an
-**unregistered** channel, single mention — **medium** confidence throughout.
-Framed on camera as an intro-level walkthrough for jigging **triple-digit
-(100 lb+) bluefin**: jig selection, rigging upgrades, and the reel/rod/fight
-package around them. This predates, and partly corroborates, the later
-Tackle Express "Jarry rig" clips already logged in [Tungsten (TG) jig rig for
-bluefin](tackle-express-night-bluefin-tg-jig-rig.md) — see the leader section
-below.
+**unregistered** channel, single mention **per video** — **medium** confidence
+throughout (an unregistered channel caps at medium regardless of repeat
+mentions). Framed on camera as an intro-level walkthrough for jigging
+**triple-digit (100 lb+) bluefin**: jig selection, rigging upgrades, and the
+reel/rod/fight package around them. This predates, and partly corroborates,
+the later Tackle Express "Jarry rig" clips already logged in [Tungsten (TG)
+jig rig for bluefin](tackle-express-night-bluefin-tg-jig-rig.md) — see the
+leader section below. A much shorter 2025 Tackle Express clip, "How to Catch
+100lb+ Bluefin on Jigs" (James, on camera; `Q4sW6JRQzAY`, uploaded
+2025-08-04), restates this same doctrine in miniature — jig weight range,
+rigging upgrade, and reel/line class — three years later; folded into the
+relevant sections below, dated, rather than logged as independent
+confirmation (re-cut/recap footage from the same shop is not a second
+source).
 
 ## Jig selection is condition-dependent — carry a spread, not one jig
 
@@ -45,6 +52,14 @@ so the fix is carrying a range of options rather than committing to one jig.
   by depth and current** range already logged in [knife
   jigs](../lures/knife-jigs.md) — a third source's own weight/depth framing,
   not reconciled into either.
+- **2025 recap widens the named range (`Q4sW6JRQzAY`, 2025-08-04):** the
+  shorter, later Tackle Express clip names the box as spanning **160 g
+  flat-fall all the way up to a 560 g knife jig** — a wider band than this
+  2022 video's named **~200 g–500 g** range, on the same "carry a spread"
+  framing. Kept side by side, dated, rather than reconciled to one fixed
+  range: this shop's own doctrine now has three overlapping but distinct
+  weight/depth citations (this note, the daypart/depth ladder above, and this
+  wider 2025 recap).
 - The quick jig-swap above was made practical specifically by the
   quick-change leader rig described below — swapping a fully-rigged jig for
   another took only a pair of split-ring pliers.
@@ -81,6 +96,17 @@ none are fished on their stock hooks/leader:
   (TG) jig rig for bluefin — leader](tackle-express-night-bluefin-tg-jig-rig.md#leader--the-jarry-rig) —
   same shop, same underlying build (see next section), but this earlier
   video gives a range rather than one fixed test.
+- **2025 recap (`Q4sW6JRQzAY`, 2025-08-04) — plain statement of why every jig
+  gets re-rigged, plus a widened hook list:** stated directly on camera:
+  stock jigs "come stock off the shelf ready to catch local island fish and
+  smaller grade bluefin. These are not 100 lb fish ready" — the same
+  reasoning this note already carries for rebuilding every jig before it's
+  fished. Re-rig named as **200–300 lb leader** (sitting inside, not
+  exceeding, this note's already-logged 200–400 lb range) paired with "heavy
+  duty hooks, whether it be a big treble, a big offshore hook, or something
+  like a Mustad Tuna J hook" — naming a **treble hook** as a third bottom-hook
+  option alongside the Mustad J hook and unnamed "travel hook" already logged
+  above, not reconciled to one fixed hook choice.
 
 ## The quick-change rig — an earlier citation of the "Jerry/Jarry rig"
 
@@ -145,6 +171,13 @@ capacity.
 - **Two-speed feature is treated as a requirement, not an option,** on this
   program's Talica/International-class reels for this grade of fish — see
   the fight-timing section below for why.
+- **2025 recap (`Q4sW6JRQzAY`, 2025-08-04) — same reel class, first spectra
+  test range logged on this note:** reels restated as **size 20 Shimano
+  Talica** (captions render this "talas") up through an **International 50
+  wide**, spooled with **80 lb up to 250 lb spectra** — this note's first
+  citation of a spectra test range; sits alongside, not reconciled with, the
+  Talica 20's specific 80/100 lb Power Pro Max Quattro pairing logged above
+  from the 2022 video.
 
 ## Rod ladder — rated to the top shot, not just the line class
 
