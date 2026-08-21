@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism, bottom-fishing]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4, nORwiYXBQmQ]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4, nORwiYXBQmQ, sj_9QYlGtGo]
 confidence: medium
 ---
 
@@ -285,7 +285,15 @@ confirmation per the re-cut-footage rule; no new parameter beyond what
   this particular cost"), a **forged and machined spool**, five stainless
   ball bearings, and the quick-shifter two-speed mechanism — consistent with
   the stainless gear train and one-piece aluminum frame already noted for the
-  Fathom 80 in `D0oEQsTaL7A` above.
+  Fathom 80 in `D0oEQsTaL7A` above. A third clip, "Fathom vs. SpeedMaster:
+  Which 2-Speed Reel Survives the Fight?" (`sj_9QYlGtGo`, uploaded
+  2026-02-20, 41 s, presenter unnamed on camera, reel not named in the
+  captions themselves), covers this exact same bullet list in near-identical
+  wording, down to the "one of the most rigid options... at this particular
+  cost" phrase — read as a further re-cut of this same Fathom
+  build-features segment rather than independent confirmation, per the
+  re-cut-footage rule; no new parameter beyond what's already given above is
+  added.
 
 ## Notes on scope
 

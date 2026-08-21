@@ -2773,7 +2773,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | sPgP0aBUQm8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-how-co-split-ring-pliers.md; tackle/tackle-express-maxima-shark-tooth-leader-tool.md; tackle/spooling-line-tension-and-twist.md; tackle/tackle-express-mustad-heavy-duty-pliers.md / two new low-confidence tackle notes (split-ring pliers, leader-spool band/cutter) cross-linked; four freshwater/bass-technique products correctly skipped as out-of-scope |
 | sPs3Civek1w | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / word-for-word re-cut of already-extracted BPxE3xn3gAc closing segment (Basstrix Flash Trick halibut colors); added as provenance-only source, no new doctrine |
 | sSH80AImFX4 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 24-second vlog clip with no stated fishing parameters, technique detail, or decision rationale |
-| sj_9QYlGtGo | Tackle Express | tutorial | parameter-skim | pending |  |
+| sj_9QYlGtGo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / re-cut of existing Fathom build-features bullet list, added as third citation, no new parameter, confidence unchanged at medium |
 | sl2MRqpiS60 | Tackle Express | tutorial | parameter-skim | pending |  |
 | smdXDSyuVnY | Tackle Express | tutorial | parameter-skim | pending |  |
 | t0kkwlrNwHk | Tackle Express | tutorial | parameter-skim | pending |  |
