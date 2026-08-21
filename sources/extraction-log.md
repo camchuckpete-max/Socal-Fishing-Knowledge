@@ -2472,7 +2472,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | IqpeK5Xfhes | Tackle Express | tutorial | parameter-skim | done | techniques/fighting-fish-from-the-rail.md / added hip-braced rod posture as a companion default to rail-bracing, medium confidence |
 | IxfTRWmMqQU | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / merged Tackle Express thin-braid/jig-vs-bait-rig comparison into Weight & staying off the snag section |
 | J40VxLNuZhk | Tackle Express | tutorial | parameter-skim | done | fish-care/sculpin-handling.md; species/rockfish-lingcod.md / merged rockfish mucus-vs-sculpin-venom safety point and deckhand practice; fixed missing front-matter source |
-| JFauRUaz2AQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| JFauRUaz2AQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: 34s fragment, freshwater Vault-Blade blade-bait vertical-presentation technique for suspended bass, no SoCal/Baja content |
 | JJwyof_Nxqs | Tackle Express | tutorial | parameter-skim | pending |  |
 | JLaql6UUFVs | Tackle Express | tutorial | parameter-skim | pending |  |
 | JNMwUUst1rw | Tackle Express | tutorial | parameter-skim | pending |  |
