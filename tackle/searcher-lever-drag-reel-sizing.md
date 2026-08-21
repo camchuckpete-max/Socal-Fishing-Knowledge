@@ -94,6 +94,11 @@ attributed examples rather than a fixed rule:
 
 ## Related
 
+- [Spooling line — how much line to load](spooling-line-tension-and-twist.md#how-much-line-to-load--avoid-overspooling-tackle-express-ov0t5mpdl_e-the-golden-rule-of-spooling-fishing-reels-uploaded-2026-05-27-46-s-unregistered-channel-single-mention--medium-confidence) —
+  a general, cross-reel-type overspooling rule of thumb (300–500 yd on a big
+  offshore reel; 100–150 yd on a bass reel) from a different, unregistered
+  source, kept side by side with this note's bluefin-specific worked capacity
+  examples rather than merged into one number.
 - [Bluefin retail setup — high-end vs. budget](bluefin-retail-setup-high-end-vs-budget.md) —
   a different application of the same low-confidence, sponsored Tackle Tip
   Thursday format: a Turner's Outdoorsman tackle shop associate's Penn Fathom
@@ -113,5 +118,6 @@ attributed examples rather than a fixed rule:
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](searcher-three-outfit-minimum-quiver.md)
+- [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

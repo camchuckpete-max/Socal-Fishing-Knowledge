@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine, wind-knots, line-lay]
-sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo, gn2yquuU6eM, i4rJy9Uwb-U]
+tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine, wind-knots, line-lay, line-capacity]
+sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo, gn2yquuU6eM, i4rJy9Uwb-U, ov0T5MPdl_E]
 confidence: medium
 ---
 
@@ -160,12 +160,39 @@ without a dedicated tool:
   the line spooler or a machine, avoiding line twist on a spinning reel by
   this method alone is "really hard."
 
+## How much line to load — avoid overspooling (Tackle Express, `ov0T5MPdl_E`, "The golden rule of spooling fishing reels.," uploaded 2026-05-27, 46 s; unregistered channel, single mention — medium confidence)
+
+A separate question from the tension/twist mechanics above: how much line
+actually needs to go on the spool. Framed on camera as "my first, last, best,
+and only advice" for getting a reel spooled: **bring the reel into a tackle
+shop and ask staff (named on camera: Harry, James) what braid they'd
+recommend for that specific reel** — a recommendation, not a fixed rule, but
+the source gives worked capacity ranges alongside it:
+
+- **Overspooling example given as the mistake to avoid:** a customer bringing
+  in a big lever-drag reel and spooling it with 65 lb braid to the reel's
+  full rated **800 yd** capacity — called out as more line than needed.
+- **Big offshore reel: 300–500 yd of line is the stated rule of thumb** —
+  well short of filling an 800 yd-rated spool.
+- **Bass reel:** a reel that holds **150 yd is "perfect"**; one that holds
+  only **100 yd is also "perfect."** No braid weight is given for the bass-reel
+  case in this source.
+
+Not reconciled with the different reel-class capacity worked examples in
+[Searcher lever-drag reel sizing](searcher-lever-drag-reel-sizing.md) (its
+"Capacity worked examples, 30/50-wide class" section: 400 yd of braid on a
+30-size/50-wide bluefin reel, or ~750 yd to fill a 50-wide with 135 lb braid)
+— that source is answering a bluefin-specific capacity question for a named
+reel class, while this one is a general retail-counter rule of thumb across
+reel types; kept side by side rather than merged into one number.
+
 <!-- backlinks:start -->
 ## Linked from
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 <!-- backlinks:end -->
