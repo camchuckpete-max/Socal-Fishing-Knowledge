@@ -396,7 +396,10 @@ of ending the day.
 - **Picking wind-knot loops out of braid.** Braid ("spectra") backlashes
   occasionally leave small loops that are hard to pull out by hand — a
   **dental pick** works them free; carry **two**, since sometimes two loops
-  need to be pulled out at the same time.
+  need to be pulled out at the same time. For a full backlash rather than an
+  isolated loop, see [clearing a backlash](../techniques/clearing-a-backlash.md)
+  for the drag-off, hand-tension method of working the whole tangle free
+  without cutting the line.
 - **Light oil alongside grease.** Beyond the gear grease already logged under
   **Servicing** above, carry a small oil for anything that's turned squeaky or
   started to rust.
@@ -416,6 +419,7 @@ or a compressed drag going into storage.
 ## Linked from
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
+- [Clearing a Backlash](../techniques/clearing-a-backlash.md)
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)

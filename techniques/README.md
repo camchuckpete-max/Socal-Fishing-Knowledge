@@ -8,6 +8,7 @@
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md) **[SoCal only]** — A single lever for controlling how deep a lure runs while beach/surf casting, without swapping lures: the angle and height of the rod tip during the retrieve.
 - [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling trick for a SoCal live-bait sportboat (half-day through multi-day trips): rig a swimbait/jig — built with a double-collar keeper so the soft-
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
+- [Clearing a Backlash](clearing-a-backlash.md) — The fix for a backlash (bird's nest) on a baitcasting or conventional reel by hand-tensioning the tangled line back out, rather than cutting it out and re-tying
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md) — A castable, daytime-only finesse presentation for bluefin and yellowfin tuna that are feeding on small bait and won't commit to the bigger, "crazy looking" lure
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) **[SoCal only]** — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
@@ -54,5 +55,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 44 notes exceed the 30-node cap._
+_Map skipped: 45 notes exceed the 30-node cap._
 <!-- mermaid:end -->

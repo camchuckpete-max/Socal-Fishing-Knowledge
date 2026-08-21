@@ -63,6 +63,10 @@ adding the backlash-avoidance detail:
   same thumb-control principle as the free-spool/thumb-on-spool setup above,
   applied a second time at the other end of the cast.
 
+If a backlash happens anyway, see [clearing a
+backlash](clearing-a-backlash.md) for the hand-tension recovery method rather
+than cutting the tangle out.
+
 ## A stated preference and its reasoning (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, 2021-01-28; `searcher-sportfishing` registered channel — medium confidence)
 
 Asked directly whether he prefers underhand or overhand casting live bait,
@@ -110,6 +114,7 @@ take a firmer cast.
 ## Linked from
 
 - ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
+- [Clearing a Backlash](clearing-a-backlash.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](flyline.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
