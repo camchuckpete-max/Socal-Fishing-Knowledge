@@ -2755,7 +2755,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | qLDrhgE7-y0 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-tranx-300b-braking-system.md; tackle/rod-and-reel-selection.md: new product-mechanism note for Tranx 300B SVS Infinity braking system, capped low (promo, unregistered channel) |
 | qLKLlZdiflA | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md; rigging/rubber-band-deep-rig.md; techniques/flat-fall-jigging.md; techniques/knife-jigging.md; techniques/leadhead-swimbait-retrieve.md: five parameter-skim additions (popper size, sinker-rig failure mode, calm/windy jig-weight split, seasonal jig progression, seabass slow-retrieve conflict); fixed one fabricated location detail |
 | qRrZakwbLoM | Tackle Express | tutorial | parameter-skim | done | none: clothing/apparel promotional content, out of scope per curation bar |
-| q_NMbHJ7QoQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| q_NMbHJ7QoQ | Tackle Express | tutorial | parameter-skim | done | none: freshwater lake bass-fishing tackle video, no SoCal/Baja saltwater content, out of scope |
 | qh3hL2Dt3HY | Tackle Express | tutorial | parameter-skim | pending |  |
 | r7Bv49Ysgdw | Tackle Express | tutorial | parameter-skim | pending |  |
 | rBt096uru3U | Tackle Express | tutorial | parameter-skim | pending |  |
