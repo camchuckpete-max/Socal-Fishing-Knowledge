@@ -2551,7 +2551,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | R0TQ7Afsh6Y | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 45s product ad for Deps Buzzjet trout-series wakebait, freshwater trout species, no SoCal/Baja saltwater content |
 | R1spZEO1V-0 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: near-verbatim re-cut of E4CDqBFOaP8, already captured in species/california-halibut.md and lures/lucky-craft-flash-minnow.md |
 | R4yYK90-cZM | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / parameter-skim add: Megabass Sleeper Gills hollow-body/hidden-hook construction, jig-or-straight-swim, low confidence (promotional stock-alert) |
-| R6ErrEIjlWw | Tackle Express | tutorial | parameter-skim | pending |  |
+| R6ErrEIjlWw | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added nested rigging sub-bullet (nose-hook/twist/exit-point-match + 3-in variant + field fix) under War Baits neck-breaker bullet, medium confidence; fixed pre-existing front-matter sources gap for XyKF34C5iB4 |
 | RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | RbOWJ0BAqSo | Tackle Express | tutorial | parameter-skim | pending |  |
 | RoBoQ6kulwA | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -232,6 +232,21 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   bottom, red cheeks**, meant to read as an anchovy — see
   [night bass fishing](../techniques/night-bass-fishing.md) for the same
   bait's night application.
+  - **Rigging it weedless — nose-hook, twist, and match the exit point**
+    (Tackle Express, `R6ErrEIjlWw`, 2025-01-21; unregistered channel, single
+    mention — medium confidence): hook the bait through the face of the nose
+    first, push the point through until it clears the barb, then pop the
+    hook back out and feed the bait down the shank until it butts up against
+    the jig head. The hook needs to sit just proud of the nose so the neck
+    breaker's split-ring pivot keeps its free motion instead of binding.
+    Pull the hook back and twist it so the bait rolls under itself, bringing
+    the belly around to meet the point; find the correct exit spot by
+    folding the bait in half through the middle and marking where the two
+    halves meet (a small dash marked in the bait, or just holding a finger
+    there), then push the hook out at that mark. The same method is used on the 3-in size — on that size the
+    point sits visibly exposed but nested in a body pocket that keeps it out
+    of the way. Field fix if it's still snagging: pull the hook up, push it
+    forward, then pull back, which reseats the point back into hiding.
 - **PK-series swimbaits, sized up with cover density (Time On The Water
   panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
   confidence):** Lane's Newport Harbor grass plan runs a downsized **PK3**
