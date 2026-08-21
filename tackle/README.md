@@ -64,6 +64,7 @@
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Tackle Express, "Penn Handle Knob Replacement Kits for your Penn Fathoms Torques and Squalls" (QQlQcPXARWk, uploaded 2024-02-09) — a 59-second shop-floor how-to
+- [Penn's "Pull to Turn" Preset Drag — Set It and Forget It (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md) — A very short shop-counter clip naming and explaining Penn's own term for its preset-drag philosophy on its reels (Tackle Express, unnamed staff on camera, unreg
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md) — A short shop-counter comparison of two 2-speed lever-drag reels' physical lever and drag-curve controls — Penn's own lever drag (model not named on camera) agai
 - [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](tackle-express-premade-rock-cod-rig.md) — Tackle Express (aqZxUmefwcw, "Stop wasting time rigging on the boat!," uploaded 2026-03-31; unregistered channel, single mention — medium confidence).
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
@@ -83,5 +84,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 73 notes exceed the 30-node cap._
+_Map skipped: 74 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -433,7 +433,12 @@ at that stage to finish it.
   rule above** (`M9_nvBPajDU`): touching the lever anywhere short of free
   spool while the reel is in gear risks breaking the drag washer regardless of
   whether a fish is currently running — the only safe adjustment path is
-  always back to free spool first.
+  always back to free spool first. **A separate, shorter Tackle Express clip
+  gives Penn's own name for the free-spool-only preset system — "pull to
+  turn"** — framed as a set-it-once-and-leave-it philosophy rather than a
+  damage warning, with its own reset triggers (line size or target class
+  changing): see [Penn's "pull to turn" preset
+  drag](tackle-express-penn-pull-to-turn-preset-drag.md).
 - **Hand the rod to a fresher angler rather than fight through fatigue** — "if
   you're tired and you've got a fish of a lifetime, forget the jackpot, give
   it to a young guy that's fresh" so the fish gets landed. The same
@@ -453,6 +458,7 @@ at that stage to finish it.
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)
+- [Penn's "Pull to Turn" Preset Drag — Set It and Forget It (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

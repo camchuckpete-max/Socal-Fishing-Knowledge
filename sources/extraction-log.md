@@ -2702,7 +2702,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ijNOphK4XRA | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md — re-cut Short of eOLoHxoqk6E logged as duplicate footage/provenance; evaluator corrected an over-claim about theory-sentence coverage |
 | ijjtpoKZp8U | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 20s clip, captions are only [Music]/you, no substantive content |
 | j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: freshwater bass content (Castaic Lake, C3 Baits), out of SoCal/Baja saltwater scope entirely |
-| jFlAdWRj3HI | Tackle Express | tutorial | parameter-skim | pending |  |
+| jFlAdWRj3HI | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-penn-pull-to-turn-preset-drag.md; tackle/drag-setting.md; tackle/tackle-express-penn-vs-avet-lever-drag.md — new note on Penn's pull-to-turn preset-drag philosophy, cross-linked from two parents |
 | jWPv-OOM3uk | Tackle Express | tutorial | parameter-skim | pending |  |
 | j_x1IskkSEE | Tackle Express | tutorial | parameter-skim | pending |  |
 | jeJAsY_M0oc | Tackle Express | tutorial | parameter-skim | pending |  |

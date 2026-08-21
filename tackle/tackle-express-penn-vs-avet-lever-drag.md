@@ -57,10 +57,15 @@ confidence; "Penn vs. Avet – Best Lever Drag System for 2-Speed Reels?,"
 - [Drag setting](drag-setting.md) — general judgment on setting and running
   the drag; this clip's preset button is a physical control, not a setting
   method, and doesn't add parameters to that note.
+- [Penn's "pull to turn" preset
+  drag](tackle-express-penn-pull-to-turn-preset-drag.md) — same channel,
+  names and explains the preset-drag philosophy behind the preset button
+  mentioned but not detailed here.
 - [Gear classes](gear-classes.md) — the class-term lexicon.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Penn's "Pull to Turn" Preset Drag — Set It and Forget It (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->
