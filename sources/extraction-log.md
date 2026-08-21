@@ -2767,7 +2767,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | rxoaPT5Zaog | Tackle Express | tutorial | parameter-skim | done | techniques/two-speed-low-gear-fight.md: merged self-reported two-speed-vs-single-speed fight-time comparison (180lb/6min vs 140lb/15min) into existing section |
 | s2yqtaHriqU | Tackle Express | tutorial | parameter-skim | done | none: freshwater trout/bass/striper lure pitch, no SoCal/Baja saltwater content |
 | s3hJuucTqUI | Tackle Express | tutorial | parameter-skim | done | none: out-of-scope freshwater product plug for stocked-lake striper swimbait, nothing extractable |
-| s7GMKI6c6RU | Tackle Express | tutorial | parameter-skim | pending |  |
+| s7GMKI6c6RU | Tackle Express | tutorial | parameter-skim | done | none: 8-second promo clip, no extractable fishing knowledge |
 | sGnY4QxqMmI | Tackle Express | tutorial | parameter-skim | pending |  |
 | sJGs-Jqt9Vo | Tackle Express | tutorial | parameter-skim | pending |  |
 | sPgP0aBUQm8 | Tackle Express | tutorial | parameter-skim | pending |  |
