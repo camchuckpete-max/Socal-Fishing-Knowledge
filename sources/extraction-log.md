@@ -2627,7 +2627,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-premade-rock-cod-rig.md (new) + cross-links from rockfish-leader-line.md and dropper-loop.md: P-Line premade rock-cod rig (two-swivel construction) |
 | au3EkXJswY8 | Tackle Express | tutorial | parameter-skim | skipped | skipped: evaluator-reject: no transcript evidence this generic reel/line clip is SoCal saltwater inshore content vs freshwater bass tackle chat; channel mixes both |
 | auiXY0R9ri8 | Tackle Express | tutorial | parameter-skim | done | none: duplicate of N24NBweNK4o (identical 33s clip), already captured in rigging/wiring-a-surface-iron.md; extraction-log row closed out |
-| bB8zs0lXvvo | Tackle Express | tutorial | parameter-skim | pending |  |
+| bB8zs0lXvvo | Tackle Express | tutorial | parameter-skim | done | techniques/knife-jigging.md: merged as third same-interview cut (rod/reel load-sharing mechanism, 2023 date resolution), treated as one source appearance not new repetition |
 | bCQLyxKQAok | Tackle Express | tutorial | parameter-skim | pending |  |
 | bi2X9ANvDBs | Tackle Express | tutorial | parameter-skim | pending |  |
 | blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4, bB8zs0lXvvo]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -522,9 +522,25 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
     example: an ultralight ~30 lb-braid outfit ("about the same size" as a
     typical rockfish jig rod) landed a **32 lb yellowtail on a 60 g jig** on
     an offshore tuna trip — the catch that earned it the "trout
-    pole"/"fairy wand" nicknames on camera. Treat `GeydGK-62fw` and
-    `ZrcwcugaEe4` as **one source appearance**, not independent repetition,
-    for confidence purposes — this is not a new, separate channel/seminar.
+    pole"/"fairy wand" nicknames on camera.
+  - **A third cut of the same interview, dated closest to the original
+    upload and adding the rod/reel load-sharing mechanism (Tackle Express,
+    "They Laughed at My Rod… Until I Started Catching!," `bB8zs0lXvvo`,
+    uploaded 2025-03-12 — five days after `ZrcwcugaEe4`; medium
+    confidence):** restates the identical 60 g jig / 32 lb yellowtail /
+    offshore tuna trip and 60°-or-lower angle, don't-bounce-or-high-stick
+    doctrine, and the same "don't be afraid to pull on these rods"
+    reassurance. **Resolves the trip's relative date:** stated on camera as
+    "two years ago" against this cut's 2025-03-12 upload, i.e. **2023**.
+    **Adds a mechanism this note didn't yet have for *why* the light rod
+    holds up:** the rod's slower action makes it "a big giant shock
+    absorber" whose job is to keep the jig/hook pinned in the fish's mouth
+    without high-sticking, while the actual fighting load is carried by the
+    **reel's drag, not the rod** — "a lot of the fighting ability of the rod
+    and reel outfit is on the reel... so you don't have to worry about the
+    rod." Treat `GeydGK-62fw`, `ZrcwcugaEe4`, and `bB8zs0lXvvo` as **one
+    source appearance**, not independent repetition, for confidence
+    purposes — this is not a new, separate channel/seminar.
   - **Tackle-shop shorthand, "X" rail-rod rating (Billy, Fisherman's Landing
     Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip Thursday
     Vol. 186," uploaded 2022-06-16; unregistered channel — medium
