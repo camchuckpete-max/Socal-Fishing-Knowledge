@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [lucky-craft, flash-minnow, hardbait, jerkbait, minnow-lure, halibut, surf, color-selection]
-sources: [E4CDqBFOaP8, Qqdt6f8Mjd4]
+sources: [E4CDqBFOaP8, Qqdt6f8Mjd4, XfpUV_z5gFI]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast]
@@ -59,6 +59,21 @@ full palette breakdown:
   flounder fishing, framed against Japan having "really good tackle" for
   flounder despite California holding the larger fish of the two. Background
   context for the lure's origin, not a standalone color or technique rule.
+
+### The stated theory for why white works (Tackle Express, `XfpUV_z5gFI`, 2026-05-11; unregistered channel, single mention — medium confidence)
+
+Framed explicitly as **his own theory, not settled fact** — "this is just a
+theory... this isn't something that I would, you know, say you absolutely
+have to believe" — offered as the reasoning behind the white-first color pick
+above, from a short companion clip two days after the `Qqdt6f8Mjd4`
+color-selection video: a halibut lying on the bottom, with baitfish swimming
+around above it, is mainly seeing the **baitfish's white belly** from that
+upward angle. He says a halibut in that below-the-bait position otherwise has
+"a complete advantage" over the bait — camouflaged, fast, and positioned to
+come up and eat it. His stated point is that this same white belly, on a
+lure, is why he rates **solid white** as "a really, really good reaction
+bait color" for halibut specifically. Kept here as an attributed theory, not
+asserted as confirmed KB doctrine.
 
 ## How to fish it
 
