@@ -14,6 +14,9 @@ conventional, baitcasting, and spinning reels. See also
 [reel & rod maintenance](reel-maintenance.md) for the broader care routine and
 [line & leader](line-and-leader.md) for material/class selection — this note is
 narrowly about the mechanics of getting line onto the spool without a tangle.
+For the casting-side wind-knot cause (not coming tight the instant the lure
+lands), see [spinning-reel wind knots — close the bail and come
+tight](../techniques/spinning-reel-wind-knots.md).
 
 ## Tension is the load-bearing variable, regardless of reel type
 
@@ -130,4 +133,5 @@ without a dedicated tool:
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 <!-- backlinks:end -->
