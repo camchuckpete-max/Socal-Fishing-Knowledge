@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30, nJPQVouJQ0g]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -493,7 +493,10 @@ demonstrably tying; not carried as a separate rig name.
   marks, then letting it settle back so the bait re-wafts on the drop.
 - **Why re-drop periodically while deadsticking, a stated reason (Tackle
   Express, `S9sQ8Vg8-5o`, 2025-03-28; unregistered channel — medium
-  confidence):** his default is bottom, into gear, **one to three turns up**,
+  confidence; footage also re-cut and re-uploaded as the short
+  `nJPQVouJQ0g`, "Stop losing your gear! The secret to mastering rock
+  contours," 2026-03-26 — same claim word for word, not independent
+  corroboration):** his default is bottom, into gear, **one to three turns up**,
   then hang; after a short soak he'll free-spool the sinker back down to
   re-touch bottom. The stated reason is the **drift, not the fish** — on a
   drifting boat (his estimate, ~90% of trips) the bottom's contours shift

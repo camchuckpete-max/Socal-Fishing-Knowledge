@@ -2724,7 +2724,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | mgUjxUoGkZU | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / companion-clip extending braid-by-jig-weight ladder to 350g+ to 80lb, same interview session as Rtwz0oEfrKw |
 | mgsCmVxM8dM | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass tackle showcase at Castaic Lake, out of SoCal/Baja saltwater scope entirely |
 | nF6MosH63HY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 27s clip, captions contain only [Music] and a stray fragment, no substantive speech |
-| nJPQVouJQ0g | Tackle Express | tutorial | parameter-skim | pending |  |
+| nJPQVouJQ0g | Tackle Express | tutorial | parameter-skim | done | techniques/dropper-loop.md / confirmed re-cut of S9sQ8Vg8-5o re-drop/contour passage, added as duplicate-footage provenance note |
 | nORwiYXBQmQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | nRIAgz5G_Bc | Tackle Express | tutorial | parameter-skim | pending |  |
 | nZfEB7466ys | Tackle Express | tutorial | parameter-skim | pending |  |
