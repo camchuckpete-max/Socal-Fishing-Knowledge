@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rockfish, rock-cod, dropper-loop, bait, artificial-bait, squid, octopus, bait-tank, scented-bait, owner, hooks]
-sources: [IcS7QbJlSDA, qh3hL2Dt3HY, Q4WWkbc9nag, Q6ACpkS93sk]
+sources: [IcS7QbJlSDA, qh3hL2Dt3HY, Q4WWkbc9nag, Q6ACpkS93sk, S9sQ8Vg8-5o, eqRMpfcuM2s]
 confidence: medium
 ---
 
@@ -43,7 +43,7 @@ applies to.
   specifically to keep a line fishing through a hot bite instead of breaking
   it to walk to the tank.
 
-## A second Tackle Express bait-tank shortcut — pre-scented packaged bait, species not stated (Q4WWkbc9nag)
+## A second Tackle Express bait-tank shortcut — pre-scented packaged bait, now identified as Berkley Gulp (Q4WWkbc9nag, traced to S9sQ8Vg8-5o, and eqRMpfcuM2s)
 
 Tackle Express (`Q4WWkbc9nag`, "Tired of Running for Live Bait? Do This
 Instead!," uploaded 2026-04-11, 44 s; unregistered channel — medium
@@ -52,26 +52,45 @@ avoiding the walk to the bait tank — but a different product and no species
 named on camera (contrast with the rock-cod framing above, which comes from
 `qh3hL2Dt3HY`, not this clip).
 
-- **The product:** an unnamed packaged artificial/prepared bait shown on
-  camera with scent already built into both the package and the bait itself
-  — the video references "the package" visually without the caption giving a
-  brand or product name, so no product name is asserted here.
+- **The product, now resolved:** this 44 s short is itself a **re-cut of a
+  passage inside the full-length `S9sQ8Vg8-5o` video** ("Rockfish Tackle &
+  Gear Guide," 2025-03-28) — identical wording — but the re-cut starts
+  partway through that passage, after the on-camera product name, so at the
+  time this note was first written the product could not be named. A second,
+  slightly longer re-cut of the same passage (`eqRMpfcuM2s`, "Why the wind is
+  actually your best friend while fishing for Rockfish," uploaded 2026-04-16,
+  71 s; unregistered channel — medium confidence) starts a few seconds
+  earlier and keeps the brand intact: auto-captions render **"the Berkley
+  Gulp we have swimming mullets. These ones happen to be the grub series"**
+  — **asr-uncertain** whether this names one product (a Gulp Swimming Mullet
+  offered in a "grub" pack/series) or two separate items shown together (a
+  Gulp Swimming Mullet and a separate Gulp Grub); either way it's a scented
+  soft-plastic **Berkley Gulp** bait, packaged with scent built into both the
+  package and the bait. Resolving the brand here rather than leaving it
+  unnamed, per the "prefer the latest"/fuller-context rule — the exact
+  product line is not confirmed against a catalog. All three video IDs
+  (`Q4WWkbc9nag`, `S9sQ8Vg8-5o`, `eqRMpfcuM2s`) carry the same underlying
+  claim, not independent sightings.
 - **The pitch:** instead of walking to the bait tank for a sardine, anchovy,
-  or a piece of squid **for scent**, thread on one of these pre-scented baits
-  and keep fishing without breaking to re-bait from the tank — "catch fish
-  after fish" without a separate piece of bait.
+  or a piece of squid **for scent**, thread on one of these pre-scented Gulp
+  baits and keep fishing without breaking to re-bait from the tank — "catch
+  fish after fish" without a separate piece of bait.
 - **The rig:** a **double dropper loop**, sinker sized "depending on the
   depth and conditions" for that day (no fixed weight given — contrast with
   the fixed torpedo-sinker weights logged elsewhere in this KB, e.g.
   [dropper loop](../techniques/dropper-loop.md)), fished with a set of **1/0
-  Owner Aki Twist hooks** — see
+  Owner Aki Twist hooks** — the same hook this presenter says he "suggested
+  earlier for rock cod fishing" (i.e. the general dropper-loop hook pick
+  earlier in the same `S9sQ8Vg8-5o` video). See
   [Charter Bait-Tank Hook Kit — Aki
   Twist](tackle-express-charter-bait-tank-hook-kit.md#islands-yellowtail--owner-flyliner-ring-vs-non-ring-iuup8ggaaao)
   for this same channel's other, still-asr-uncertain sighting of the "Aki
   Twist" name and how this citation's 1/0 size lines up with the Searcher
   Owner Aki hook citation in [hooks.md](hooks.md).
 - No species is named in this clip — recorded as a general bottom/bait-tank
-  shortcut, not folded into the rock-cod framing above.
+  shortcut, not folded into the rock-cod framing above. (The parent
+  `S9sQ8Vg8-5o` video is rockfish-framed throughout, but this specific
+  bait-tank passage does not itself name a species.)
 
 ## A third Tackle Express clip — the same rig named for rockfish, torpedo sinker confirmed (Q6ACpkS93sk)
 

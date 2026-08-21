@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [wind-in-your-face, rail-positioning, sportboat, live-bait, tangles, drift, etiquette]
-sources: [pQ9kGqgsX8I, rNiQKb3sCh4, S9sQ8Vg8-5o]
+sources: [pQ9kGqgsX8I, rNiQKb3sCh4, S9sQ8Vg8-5o, eqRMpfcuM2s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -53,7 +53,11 @@ is out.
   the right place" — because the boat drifts downwind while a bottom rig
   fished from the leeward rail trails **underneath the boat** and wraps
   everyone fishing correctly on the windward side. A further data point that
-  this positioning rule isn't specific to live-bait casting.
+  this positioning rule isn't specific to live-bait casting. **A second video
+  (`eqRMpfcuM2s`, "Why the wind is actually your best friend while fishing
+  for Rockfish," uploaded 2026-04-16, 71 s) is a re-cut of this same
+  `S9sQ8Vg8-5o` passage, word for word** — not an independent sighting, both
+  video IDs logged here for the same underlying claim.
 
 ## The mechanism
 
