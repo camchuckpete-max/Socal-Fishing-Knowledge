@@ -2555,7 +2555,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-luvias-st-spinning-reel.md; tackle/gear-classes.md / new low-confidence tackle spec-sheet note for Daiwa Luvias ST, linked from gear-classes.md, ASR uncertainties flagged (Zaion/monocoque, 20000->2000) |
 | RbOWJ0BAqSo | Tackle Express | tutorial | parameter-skim | done | tackle/rod-length-for-angler-size.md / added as corroborating re-cut source on existing 7.5-8ft rod-length doctrine (casting distance, leverage point, travel/shipping); medium confidence retained |
 | RoBoQ6kulwA | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 38s clip is DIY spool-rack/wing-nut storage fixture demo, no fishing species/technique/parameter/region content, fails curation bar |
-| Rtwz0oEfrKw | Tackle Express | tutorial | parameter-skim | pending |  |
+| Rtwz0oEfrKw | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / parameter-skim: added straight-pull 80lb-braid-doesn't-break claim + 65lb/200g-and-under jig-braid working choice with hull-abrasion caveat, medium confidence |
 | S0-BCQWA0H4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | S9sQ8Vg8-5o | Tackle Express | tutorial | parameter-skim | pending |  |
 | SDNXNdGdmSQ | Tackle Express | tutorial | parameter-skim | pending |  |

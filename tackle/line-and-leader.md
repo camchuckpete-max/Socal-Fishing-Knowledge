@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw]
 confidence: medium
 ---
 
@@ -58,6 +58,20 @@ Braid is the main line on essentially every SoCal setup. Choosing the class
   100 lb for the same reason it scopes less — less diameter, less drag (Cameron;
   see [gear classes](gear-classes.md) line-class notes). Reach for the thinner
   class when you need a bait or jig down quickly.
+- **A straight-pull "you won't break it" claim, tied to jig weight (Tackle
+  Express, `Rtwz0oEfrKw`, "You'll NEVER Break 80lb Braid on a Reel!,"
+  2026-02-05; unregistered channel, single mention — medium confidence):** two
+  shop staff, one citing **45 years** of experience, state neither has ever
+  broken 80 lb braid on a rod and reel by pulling on it — you cannot get
+  enough drag pressure on a reel to part it. Consistent with, not a
+  correction of, the diameter-over-label doctrine below (braid's real-world
+  failure mode is abrasion, not straight-pull breaking). His own working
+  choice for iron/jig fishing: **65 lb braid for jigs 200 g and under**
+  (worked example: **120–150 g**), reasoned as letting the jig sink to depth
+  without needing heavy drag to hold it — the same thinner-braid-sinks-faster
+  logic just above. Stated caveat: 65 lb holds fine in a straight pull **"if
+  you're not rubbing against the side of the boat"** — the risk on the
+  lighter class is hull abrasion, not breaking strength.
 
 ### Actual diameter over label — three different "20 lb" numbers (James Kikkawa, PCS Show 2024 "Jigging 101" panel, `Et2TUskzCSs`, uploaded 2024-03-16; unregistered channel/panel — medium confidence)
 
