@@ -2562,7 +2562,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | SH5CZQi9ATw | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / merged 'rip it through' mechanism (heavy thermocline mark not necessarily a true school; ripping stirs and fires fish into chasing) into existing burn/rip-it-up entry, plus multi-angler and keep-lures-in-water add-ons |
 | SK2M7L2vA1s | Tackle Express | tutorial | parameter-skim | done | rigging/dropper-loop-knot-and-spider-hitch.md; rigging/essential-knots.md; rigging/tony-pena-knot.md; rigging/seaguar-knot.md; techniques/dropper-loop.md / new dropper-loop-knot/spider-hitch note; second same-name Tony Pena tie added side by side; Seaguar-knot sixth variant added; Palomar quote attribution fixed |
 | SL4zZbzdXNA | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-baja-light-setup-yellowtail-insurance.md; species/yellowtail.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md / new tackle note: light Baja bass/halibut setup (15-30lb rod, Shimano Tranx 400, 50lb braid ~300yd, 15ft/40lb fluoro leader as yellowtail insurance), linked from yellowtail gear summary |
-| SR-Fv3xxkVY | Tackle Express | tutorial | parameter-skim | pending |  |
+| SR-Fv3xxkVY | Tackle Express | tutorial | parameter-skim | done | none / no extractable content: auto-captioned transcript is incidental crew chatter, no rigging/kite/technique detail despite title |
 | Sb20NtuNlkc | Tackle Express | tutorial | parameter-skim | pending |  |
 | SbTEGKmWl7g | Tackle Express | tutorial | parameter-skim | pending |  |
 | SclIN_ceduA | Tackle Express | tutorial | parameter-skim | pending |  |
