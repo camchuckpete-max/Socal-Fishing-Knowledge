@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM, fPxqoEforhA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -399,6 +399,29 @@ named as "a good bait to have in your arsenal." No size, color, or retrieve
 detail is given beyond grouping it with the Colt Sniper as a warm-water
 stickbait option; kept as stated rather than resolved to a confirmed model.
 
+**Model named with a size, predating the uncertain mention above by about
+ten weeks (Tackle Express, `fPxqoEforhA`, "Why you should stick to one lure
+to catch more fish," 2026-05-09; unregistered channel — medium
+confidence):** an on-camera exchange resolves a stick bait by name and size
+as an **SP Minnow 115** — plausibly the same Daiwa SP Minnow flagged with
+uncertainty above, now with a size figure (115), though not confirmed as
+the identical model. Comes in **floating and sinking** versions; asked
+whether the floating-vs-sinking choice mattered for this application, the
+stated answer was "I don't think it would matter" — no strong preference
+given either way.
+
+This clip's yellowtail-in-three-or-four-casts story (cutting off a
+triple-trout hardbait and a Colt Sniper already rigged, to commit to
+fishing only the SP Minnow 115 stick bait) is the same **SP Minnow 115 /
+triple-trout / Colt Sniper** Cedros trip already logged in [Cedros
+Island](../locations/cedros-island.md#fishing-it--what-is-specific-to-cedros)
+under `_C7TJoGT0nw` (upload 2025-09-26) — this 61-second clip surfaced
+2026-05-09, three days after the `9kGpcEHqIUc` highlight clip from the same
+interview (2026-05-06, also cross-referenced there), so it reads as another
+re-cut of the same footage rather than an independent second confirmation.
+The narrative isn't restated here; the floating-vs-sinking parameter above
+is the new detail this clip adds.
+
 **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
 `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; captions
 render "cold sniper," read against the established Colt Sniper product name
@@ -753,6 +776,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)

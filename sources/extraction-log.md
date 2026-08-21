@@ -2670,7 +2670,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | f9JOpLrYBiE | Tackle Express | tutorial | parameter-skim | done | lures/dtx-minnow.md: HD-version hardware diffs (harness, sizes, ring, hooks), low confidence (sponsored) |
 | fATd3sje6R4 | Tackle Express | tutorial | parameter-skim | done | none: 15s clip, caption content is just 'oh', nothing extractable |
 | fHMwcm1xRQk | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md; species/california-halibut.md; techniques/drop-shot.md; techniques/inshore-crankbaits.md; tackle/tackle-express-surf-halibut-rod-lineup.md (new): shore grabber+float landing, surf-rod summary, beach leader-length rationale, hookset mechanic, new light/heavy surf-rod tackle note |
-| fPxqoEforhA | Tackle Express | tutorial | parameter-skim | pending |  |
+| fPxqoEforhA | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md; locations/cedros-island.md / merged SP Minnow 115 floating/sinking parameter into stickbait note; corrected extractor's treatment of this clip as an independent source - it's a re-cut of the same Cedros trip already logged in cedros-island.md under _C7TJoGT0nw/9kGpcEHqIUc, now cross-linked both ways |
 | fVtiwvqhzgI | Tackle Express | tutorial | parameter-skim | pending |  |
 | fnaGBGbrhqU | Tackle Express | tutorial | parameter-skim | pending |  |
 | foLSQJ5oRWI | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw, fPxqoEforhA]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -188,7 +188,11 @@ here since neither has enough surrounding detail to support its own note:
 an **SP Minnow 115** floating stickbait produced a yellowtail in **three to
 four casts** once the angler deliberately fished it exclusively (he wanted a
 yellowtail catch on a stick bait specifically, not a conditions-driven
-choice); and a **1.5–2 oz leadhead tube** (called on camera "the stupid
+choice) — the same story surfaces again in a `fPxqoEforhA` clip, "Why you
+should stick to one lure to catch more fish" (upload 2026-05-09), a likely
+re-cut of the same footage rather than a second trip (see [tuna poppers and
+stickbaits](../lures/tuna-poppers-and-stickbaits.md) for the floating/sinking
+detail that clip adds); and a **1.5–2 oz leadhead tube** (called on camera "the stupid
 tube") fished free-spooled and bounced in a ripping current tight to the
 beach produced calico bass "every cast" on the trip's second full day, the
 current dragging it 5–10 ft between bounces.
@@ -300,5 +304,6 @@ than iron.
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->
