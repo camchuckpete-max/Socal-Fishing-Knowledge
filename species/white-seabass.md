@@ -1,7 +1,7 @@
 ---
 type: species
-tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM, sIoNELGlxmk, 9MzNNwHiBXs, Eo_bA8IWvyU]
+tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water, fluke, drift-boat]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM, sIoNELGlxmk, 9MzNNwHiBXs, Eo_bA8IWvyU, X-itrm5QkcM]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [island, nearshore-coast]
@@ -112,6 +112,7 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
 | Squid soak with no pinned nest/structure to anchor on — working the column blind | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: light slider on a thin-wire hook, cast out, let it sink slowly all the way to bottom, then reel up and recast immediately — never let it sit on the bottom | 30 lb bait class | WSB's forward-facing mouth won't take a bottomed bait — a bait left on bottom draws bat rays, shovelnose and leopard sharks (mouths on the underside of the head) instead; constant recasting also raises calico bass, perch and sheephead (Your Saltwater Guide, ShSxNKAcUB4, 2020-12-08). **Fish called mid-column/near-surface rather than pinned to bottom** is the specific trigger for reaching for the slider over the dropper loop (Tackle Express, Eo_bA8IWvyU) |
 | Gray light or before dawn, heavy fog, or a shadowed spot — bite window rather than a location cue | **Stationary bait-jig soak**: a large single-hook, glow-backed jig (Tady TLC / Tady 40 class — no weight given on camera) baited with 1–3 whole squid, dropped to bottom, cranked up ~3–6 to 10 ft, then left hanging in the holder to work passively with the boat's roll | Tady TLC/40-class glow jig on a 30–40 lb bait/jig rod | Distinct from the actively-worked lead-head-and-squid above — this is a passive rail soak, timed to the low-light window most WSB are caught in (Tackle Express, Eo_bA8IWvyU); see [sliding sinker — heavy squid-holding jig](../techniques/sliding-sinker.md#white-seabass-weight-ladder--suspend-and-retrieve-your-saltwater-guide) |
 | WSB won't eat bait (squid or fin bait), or the fish are out of comfortable drop range | **Artificials, cast and worked**: soft-plastic flukes on a jig head (worked with sink-pop-flutter casts), or a **[glide-bait "hookup bait"](../techniques/glide-baits.md)** worked with thumb-tension on the sink and an occasional pop | Baitcaster/casting class | Named on camera as a WSB-specific "WSB Special" hookup bait, garlic-scented, 5/8 oz to 1.5 oz by current (Tackle Express, Eo_bA8IWvyU) — see Doctrine below for a scent-mechanism conflict with the HookUp Baits maker's own account |
+| Drifting a sonar mark or squid nest with the boat's bait anglers stacked on the wind-face rail fishing dropper loop | **Cast a white fluke to the flanks**, away from the bait crowd, rather than crowding onto the bait rail | Baitcaster/casting class | The bait rail's effective swath is narrow (~30–40 ft by the boat's length); flanking fluke casters cover more total water, and since WSB swim through rather than hold still, the two presentations are complementary, not competing — full reasoning in [swimbaits — covering more water than the bait anglers](../techniques/swimbaits.md#covering-more-water-than-the-bait-anglers-tackle-express) (Tackle Express, X-itrm5QkcM) |
 
 **Anchoring geometry:** WSB is **not a bottom fish** — anchor **up-current of the
 spot** and let bait/chum drift back to it; scale the standoff to current strength,
@@ -299,6 +300,7 @@ into the spot once the current read right.
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)

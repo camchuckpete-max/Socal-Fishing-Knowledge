@@ -1,7 +1,7 @@
 ---
 type: technique
-tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA]
+tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass, white-seabass, dropper-loop, drift-boat]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA, X-itrm5QkcM]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -400,6 +400,40 @@ matter more over **hard rock bottom**, which "echoes," than over **sand**,
 where "you get away with a little better." Unregistered channel — medium
 confidence.
 
+## Covering more water than the bait anglers (Tackle Express)
+
+Tackle Express, `X-itrm5QkcM`, "Why White Flukes Let You Fish Where Live
+Bait Can't," 2026-01-20; unregistered channel, single mention — medium
+confidence. Framed for a drifting boat working a sonar mark or a squid-nest
+area in the **Channel Islands** with [white seabass](../species/white-seabass.md)
+as the target, but the boat-position geometry is general to any drift-boat
+program where bait anglers are stacked on one rail fishing
+[dropper loop](dropper-loop.md).
+
+- **The bait rail's effective fishing area is a narrow swath.** Standard
+  doctrine puts bait anglers on the **wind-in-face side of the boat**; their
+  dropper loops effectively fish a **swath roughly 30–40 ft wide by the
+  length of the boat** (his worked example: 30–40 ft by 65 ft, with 10
+  anglers stacked on that rail).
+- **The remaining anglers cast flukes out to the flanks instead of
+  crowding the bait rail** — his example splits a 15-angler boat 10 bait /
+  5 fluke, with the fluke casters working **two casting arcs** off the sides
+  rather than the wind-face rail. As the boat drifts toward a flanking
+  angler and the cast distance shortens, that angler also stays clear of the
+  bait rail's lines.
+- **The stated reason to fish this way: total water covered, not confidence
+  in the lure over the bait.** The flanking flukes cover **more total water**
+  than the ten bait anglers do — statistically more likely to draw a bite if
+  the fish are willing to eat the lure, which his experience says is true in
+  most cases.
+- **Why both presentations can produce on the same drift — the fish "swim
+  through" rather than holding still:** for white seabass specifically, if
+  the fish swim through the bait rail's narrow swath, the dropper loops get
+  bit; if they instead pass through the flanks, the flukes find them. Read as
+  complementary coverage of the same drift rather than one method
+  out-fishing the other — see
+  [white seabass](../species/white-seabass.md#situations--techniques).
+
 ## Scent (Corey Sandon, MC Swimbaits) and keeping your hands scent-neutral (Jack)
 
 n6yun panel, part 1, `ZoIzpyyS9xw`, 2013-03-09; both unregistered — medium
@@ -593,4 +627,5 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->
