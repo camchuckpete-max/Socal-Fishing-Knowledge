@@ -1,7 +1,7 @@
 ---
 type: location
 tags: [cedros, baja, yellowtail, surface-iron, fly-in, lodge, calico, halibut]
-sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw, fPxqoEforhA, fnaGBGbrhqU]
+sources: [IdMJnlg_rZk, 2cxeg_AE418, _MygUHw19q8, 4pT0efBD1j0, K4GTUO57rio, RhULLaUsEDk, _r08B4bItAY, lYyi_Yh3S5g, 9kGpcEHqIUc, _C7TJoGT0nw, fPxqoEforhA, fnaGBGbrhqU, iHwvUl0dhxk]
 confidence: medium
 regions: [baja-pacific-north]
 waters: [island, nearshore-coast, bank]
@@ -197,11 +197,25 @@ tube") fished free-spooled and bounced in a ripping current tight to the
 beach produced calico bass "every cast" on the trip's second full day, the
 current dragging it 5–10 ft between bounces.
 
-**Take-home catch handling (same source):** each boat's catch goes into
-color-taped bins (red/blue/green tape by boat) so the dock crew can sort by
-boat at day's end; fish are vacuum-sealed and frozen at the lodge. One
-angler's trip total was **~354 lb** of fish (mostly yellowtail, plus calico
-bass bycatch and a 20 lb halibut) taken home frozen.
+**Take-home catch handling** (same `_C7TJoGT0nw` source, plus a separately
+clipped excerpt of the same interview — Tackle Express, `iHwvUl0dhxk`, "How
+Your Catch Gets Home from Cedros | Gear Vault Clip," upload 2025-09-29;
+unregistered channel — medium confidence; re-cut footage, not independent
+confirmation): each boat's catch goes into color-taped bins (red/blue/green
+tape by boat) so the dock crew can sort by boat at day's end; the resort has
+an indoor fish-cutting station, and the fish are vacuum-sealed and frozen at
+the lodge, ready to travel. One angler's trip total was **35–40 lb** of fish
+(mostly yellowtail, plus calico bass bycatch and a 20 lb halibut) taken home
+frozen — the same speaker frames packing lighter on the way in as a trade for
+bringing home more fish weight on the way out. This revises an earlier
+**~354 lb** read of this note logged from `_C7TJoGT0nw`'s garbled
+auto-caption number ("3540 lbs"): the `iHwvUl0dhxk` clip is the same
+interview and renders the identical unresolved digit string, so the second
+clip does not itself disambiguate it — but read as "35, 40 lbs" it matches
+this note's already-logged 35–40 lb combined baggage allowance for the same
+trip far better than 354 lb of fish would, so **35–40 lb** is kept here as
+the better-supported reading of a still-uncertain ASR number, not a
+caption-confirmed correction.
 
 **Forage seen on the grounds:** **micro red crab** in the water on the trip
 filmed, plus bait metered on the bottom in **183 ft**. An operator running its
