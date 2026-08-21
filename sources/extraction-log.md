@@ -2745,7 +2745,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | p9YYIb4GKHM | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; techniques/rockfish-deep-dropping.md / merged Lift & Drop technique name into rockfish jig-cadence doctrine; strengthened Ahi/AI's jig brand ASR note |
 | pL7ZGuMVwo4 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md / merged Core Protect water-resistant coating claim into Talica feature note, dropped unsupported corrosion-protection framing |
 | pMsbeLOgUc4 | Tackle Express | tutorial | parameter-skim | done | techniques/leadhead-swimbait-retrieve.md / added as re-cut/duplicate of OURS05qEGcA to source attribution, no new content |
-| pOFsjDTqaxY | Tackle Express | tutorial | parameter-skim | pending |  |
+| pOFsjDTqaxY | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md (new); species/yellowtail.md; tackle/rod-and-reel-selection.md; techniques/surface-iron.md; techniques/yo-yo-iron.md / new note: 7:1 baitcaster torque/versatility for big yellowtail, flagged conflict vs Dan Wade's 6.5-7.5:1-too-fast doctrine |
 | pTenOTaHdUc | Tackle Express | tutorial | parameter-skim | pending |  |
 | pa0MS0GK_2o | Tackle Express | tutorial | parameter-skim | pending |  |
 | ptwN9MUDxjk | Tackle Express | tutorial | parameter-skim | pending |  |

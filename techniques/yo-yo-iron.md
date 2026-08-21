@@ -303,6 +303,11 @@ the reverse map in **Linked from** below.
   (Phoenix Axis class) also works for casting-then-yo-yoing the same iron.
 - **Reel:** high-torque conventional wound tight; the appeal of yo-yo is a hard,
   fast retrieve, so a strong power grind matters more than top gear ratio.
+  A Tackle Express counter clip makes the same torque-over-speed case for a
+  baitcaster fishing both surface iron and yo-yo on big yellowtail — see
+  [baitcaster gear ratio for landing big
+  yellowtail](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
+  (pOFsjDTqaxY).
 - **Iron:** heavy [yo-yo iron class](../lures/iron-jigs.md) — a Salas 6X / Salas
   CP 105 type: drop to the mark, full-speed crank. Heavier than a surface iron
   because it must sink fast and hold vertical — **roughly 5–6 oz** against a
@@ -705,6 +710,7 @@ the reverse map in **Linked from** below.
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

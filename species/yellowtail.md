@@ -1384,6 +1384,14 @@ water temp and bait depth before committing the day to one face.
   (SL4zZbzdXNA).
 - **Yo-yo:** a stout **40–60 lb class** rod with a **high-speed reel** to burn a
   heavy iron (Salas 6X class) off the bottom.
+- **Baitcaster gear ratio — torque vs. speed for a big fish:** a 7:1
+  baitcaster framed as a middle ground between fishing slower and speeding
+  the retrieve up, with more torque than an 8:1 reel to avoid "getting
+  dogged" once a big yellowtail is loading up the reel. Kept side by side
+  with the surface-iron note's stronger caution against ratios in this same
+  range. See [baitcaster gear ratio for landing big
+  yellowtail](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
+  (pOFsjDTqaxY).
 - **Dropper loop:** same heavy class rod, live bait to a
   [dropper loop rig](../techniques/dropper-loop.md).
 - **Slow-pitch:** a parabolic slow-pitch/knife-jig setup matched to

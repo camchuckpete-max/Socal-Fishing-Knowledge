@@ -410,6 +410,14 @@ reason is design intent (`Ec2GaNpiOHI`):
 > *"Some of these reels that are **six and a half, seven and a half to one —
 > they're too fast**."*
 
+**Kept side by side, not reconciled:** a Tackle Express counter clip
+(`pOFsjDTqaxY`, 2026-05-07; unregistered channel — medium confidence) frames a
+**7:1** baitcaster favorably for surface iron and yo-yo work on big
+yellowtail — inside the ratio range flagged "too fast" immediately above —
+arguing it's a torque/versatility middle ground rather than too fast. See
+[baitcaster gear ratio for landing big
+yellowtail](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md).
+
 Spool diameter is the other half of it: a taller spool (Accurate Valiant class)
 picks up more line per turn, so a nominally slower ratio can still be right; a
 smaller-diameter spool (Tern class, ~5.5–5.7:1) needs compensating.
@@ -607,6 +615,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 ## Linked from
 
 - [<Your> Rods](../profiles/_template/rods.md)
+- [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)

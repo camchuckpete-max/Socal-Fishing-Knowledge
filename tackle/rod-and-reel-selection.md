@@ -759,6 +759,15 @@ high-speed gear ratios** bass anglers use (8:1+): a SoCal gamefish doesn't swim 
 you, so a fast reel just piles torque on you and makes crankbaits miserable to
 wind. Landesfeind learned this getting worked by a ~60 lb bluefin on an ~8:1 400.
 
+- **Corroborating yellowtail-specific data point (Tackle Express,
+  `pOFsjDTqaxY`, 2026-05-07; unregistered channel, single mention — medium
+  confidence):** a presenter contrasts a **7:1** baitcaster favorably against
+  an **8:1** reel for surface iron/yo-yo work on big yellowtail — the lower
+  ratio's extra torque keeps a big fish from "getting dogged," the same
+  torque-over-speed logic as Landesfeind's bluefin ceiling above. See
+  [baitcaster gear ratio for landing big
+  yellowtail](tackle-express-baitcaster-gear-ratio-yellowtail.md).
+
 **⚠ Conflict, flagged not reconciled:** Capt. Benny Florentino's calico-specific
 reel-speed doctrine says the opposite about calico bass specifically — that they
 **do** come up, eat, and swim back toward the boat, and a **high-speed reel (at
@@ -890,6 +899,7 @@ a bluefin).
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
+- [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Bimini Twist — 100% Double-Line Loop](../rigging/bimini-twist.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
