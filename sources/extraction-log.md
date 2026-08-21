@@ -2490,7 +2490,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | KqluHwsDicw | Tackle Express | tutorial | parameter-skim | done | none / generic freshwater bass wacky-rig/Texas-rig hook-set tip, out of SoCal/Baja saltwater scope, correctly skipped |
 | LAQZOoEUZA0 | Tackle Express | tutorial | parameter-skim | done | none / promotional SKB backpack product spec/review, no SoCal/Baja fishing decision knowledge, curation bar excludes generic bags |
 | LB9sUjDcRUw | Tackle Express | tutorial | parameter-skim | done | none / 11-second clip, ASR captured only 'uh', no fishing content or rationale stated |
-| LKOL9g-qhSM | Tackle Express | tutorial | parameter-skim | pending |  |
+| LKOL9g-qhSM | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: freshwater tournament-bass content, no SoCal/Baja saltwater knowledge present |
 | LRRoGT2W4WY | Tackle Express | tutorial | parameter-skim | pending |  |
 | L_YH_xT7Pfs | Tackle Express | tutorial | parameter-skim | pending |  |
 | Lj2NCznK7Zg | Tackle Express | tutorial | parameter-skim | pending |  |
