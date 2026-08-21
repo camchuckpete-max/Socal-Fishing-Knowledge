@@ -42,6 +42,7 @@ graph LR
   n12["Spreader Bar"]
   n13["Tuna Feathers and Skirts"]
   n14["Tuna Poppers and Stickbaits"]
+  n0 --> n11
   n1 --> n9
   n10 --> n9
   n11 --> n0

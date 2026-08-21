@@ -607,6 +607,7 @@ baits and heads from the class terms above; see
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bay Bass Plastics](bay-bass-plastics.md)
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

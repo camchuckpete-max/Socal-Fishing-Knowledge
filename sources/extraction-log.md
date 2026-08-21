@@ -2784,7 +2784,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | tugP0UsrzRI | Tackle Express | tutorial | parameter-skim | done | techniques/glide-baits.md / added asymmetric-weight (3-6oz bottom / 1-3oz top) three-way-swivel dancing hookup-bait rig variant for rockfish, contrasted against existing matched-weight guidance, medium confidence |
 | u9sJyZhaDGQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-coastal-tw200-reel.md; tackle/rod-and-reel-selection.md; tackle/tackle-express-saltiga-300-round-jigging-reel.md / new low-confidence promotional product note (Daiwa Coastal TW 200) cross-linked from inshore-baitcast rod/reel section and Saltiga 300 Hyper-naming-family note |
 | ugML6PvRyc8 | Tackle Express | tutorial | parameter-skim | done | tackle/drag-setting.md / third Tackle Express re-cut of the weakest-link/15-40-rod worked example, confidence held at medium, adds in-range 12lb figure |
-| ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | pending |  |
+| ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / added Keitech Shad Impact pin-tail build/durability/scent notes and Owner-vs-Core-Tackle jig-head hover-strolling rigging; asr-uncertain caveat added to Owner head name |
 | v5XtBi3wtVM | Tackle Express | tutorial | parameter-skim | pending |  |
 | v6X2s1lb1aE | Tackle Express | tutorial | parameter-skim | pending |  |
 | vALAeUaBmRM | Tackle Express | tutorial | parameter-skim | pending |  |

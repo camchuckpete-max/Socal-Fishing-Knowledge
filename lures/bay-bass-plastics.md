@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY, sPs3Civek1w]
+tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics, keitech]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY, sPs3Civek1w, ulWK3kaVQ5k]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -235,6 +235,19 @@ and calico bass:
 
 Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md),
 [calico bass](../species/calico-bass.md).
+
+## Keitech Shad Impact — pin-tail build, and jig-head choice for hover-strolling (Tackle Express)
+
+Tackle Express, `ulWK3kaVQ5k`, "Keitech Shad Impact – Finesse Fishing Must-Have!," 2025-02-24; unregistered channel, single mention — medium confidence. No species or location named on camera; this is a tackle-shop statement of a **plan for the coming season**, not an on-the-water report. Part of the broader [soft-plastic swimbaits](soft-plastic-swimbaits.md) class, named there as one of the model benchmarks.
+
+- **Bait construction — pin-tail vs. fork-tail:** the Shad Impact shown here is the **pin-tail** build, called out as visibly different from Keitech's more common fork-tail version. Described as **extremely erratic**, on a **super soft, pliable plastic**.
+- **Durability tradeoff:** stated directly — Keitech's plastic is **not as durable** as some alternatives (contrast with the "catch 50 fish on one bait" ZMan TRD durability claim already in this note's Ned-rig section above).
+- **Pre-scented:** the plastic comes with **scent infused** into the material itself, so no additional scent needs to be added before fishing it.
+- **Jig-head plan for the season, and the stated reason:** two head styles named side by side, not a single pick:
+  - **Owner Dart(er) head** (captioned "owner daughter heads" in the auto-generated transcript — model name read here as a likely "darter head," a generic jighead-shape term, but not confirmed against typed metadata; `asr-uncertain`) — the traditional choice, used across "many different occasions for a lot of different styles of baits" — the general-purpose pick.
+  - **Core Tackle jig head** — framed as the newer-to-the-game option, called out as **popular for hover-strolling with forward-facing sonar**. He states he does not personally own a forward-facing sonar unit, but plans to fish the Core Tackle heads anyway — the stated reason is **how the head can be rigged**, not the sonar pairing by itself.
+  - **Concealment rigging (the stated reason):** the Core Tackle head can be rigged **fully enclosed inside the bait**, leaving only the **hook tie and the hook itself** exposed — the jig head's body and eye disappear into the plastic. No further step-by-step detail (entry point, bait-size match) is given on camera.
+- **Cross-reference:** this is the same **hover-strolling** application already noted from a different bait/head pairing in [leadhead mods](../rigging/leadhead-mods.md) (a Bassrix Hover Tricks bait rigged on a Scrounger/ChatterBait head, there for halibut) and in [inshore crankbaits](../techniques/inshore-crankbaits.md) — three independent Tackle Express mentions of this freshwater-bass-derived technique crossing into SoCal use. None of the three yet describes the technique's own mechanics (boat positioning, sonar reading, retrieve) in enough depth to earn a dedicated technique note; this note only carries the bait/head choice.
 
 ## How to fish it
 

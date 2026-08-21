@@ -306,6 +306,7 @@ anglers skip.
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
