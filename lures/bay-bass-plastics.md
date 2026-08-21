@@ -311,7 +311,7 @@ terms above; see [Cameron's tackle](../profiles/cameron/tackle.md).
 - [Drop Shot](../techniques/drop-shot.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Ned Rig](../techniques/ned-rig.md)
-- [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md)
+- [Rapala Crush City Mooch Minnow](rapala-crush-city-mooch-minnow.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

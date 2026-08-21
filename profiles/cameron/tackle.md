@@ -63,6 +63,7 @@ subset he owns. Class terms: [gear classes](../../tackle/gear-classes.md).
 - [Bay Bass Plastics](../../lures/bay-bass-plastics.md)
 - [Iron Jigs](../../lures/iron-jigs.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
+- [Rapala Crush City Mooch Minnow](../../lures/rapala-crush-city-mooch-minnow.md)
 - [Soft-Plastic Swimbaits](../../lures/soft-plastic-swimbaits.md)
 - [Tuna Poppers and Stickbaits](../../lures/tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

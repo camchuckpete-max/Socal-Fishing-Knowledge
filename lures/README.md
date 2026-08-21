@@ -14,6 +14,7 @@
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A shallow-diving hard bait treated as the generic term for a surf minnow lure in SoCal beach halibut fishing (Tackle Express, E4CDqBFOaP8, 2025-12-23): "if you
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.
+- [Rapala Crush City Mooch Minnow](rapala-crush-city-mooch-minnow.md) **[SoCal only]** — A shad/baitfish-imitation soft-plastic swimbait in Rapala's Crush City line, fished in SoCal harbors on a light jig head.
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
 - [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle
 - [Spreader Bar](spreader-bar.md) — A spreader bar is a rigid horizontal bar carrying a teaser school of hookless squids or birds with one stinger lure trailing on the center line — it presents as
@@ -37,31 +38,34 @@ graph LR
   n7["Knife Jigs"]
   n8["Lucky Craft Flash Minnow"]
   n9["Mad Mac"]
-  n10["Rapala Husky Magnum"]
-  n11["Soft-Plastic Swimbaits"]
-  n12["Spreader Bar"]
-  n13["Tuna Feathers and Skirts"]
-  n14["Tuna Poppers and Stickbaits"]
-  n0 --> n11
+  n10["Rapala Crush City Mooch Minnow"]
+  n11["Rapala Husky Magnum"]
+  n12["Soft-Plastic Swimbaits"]
+  n13["Spreader Bar"]
+  n14["Tuna Feathers and Skirts"]
+  n15["Tuna Poppers and Stickbaits"]
+  n0 --> n12
   n1 --> n9
-  n10 --> n9
-  n11 --> n0
-  n12 --> n9
+  n10 --> n0
+  n10 --> n12
+  n11 --> n9
+  n12 --> n10
   n13 --> n9
-  n14 --> n1
-  n14 --> n11
-  n14 --> n4
-  n14 --> n5
-  n14 --> n7
+  n14 --> n9
+  n15 --> n1
+  n15 --> n12
+  n15 --> n4
+  n15 --> n5
+  n15 --> n7
   n2 --> n5
   n3 --> n9
   n4 --> n9
   n5 --> n1
-  n5 --> n14
+  n5 --> n15
   n5 --> n2
   n5 --> n7
   n6 --> n5
-  n7 --> n14
+  n7 --> n15
   n7 --> n5
 ```
 <!-- mermaid:end -->

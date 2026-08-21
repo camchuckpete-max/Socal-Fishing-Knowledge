@@ -298,6 +298,7 @@ does the lookup.
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
 - [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)
+- [Rapala Crush City Mooch Minnow](../lures/rapala-crush-city-mooch-minnow.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
