@@ -2566,7 +2566,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Sb20NtuNlkc | Tackle Express | tutorial | parameter-skim | done | none / correctly out-of-scope: freshwater largemouth-bass wakebait tackle video, no SoCal/Baja marine content |
 | SbTEGKmWl7g | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic rod-transport/travel-packing tips (rod sleeves, rod straps), no SoCal/Baja-specific content, correctly skipped per curation bar |
 | SclIN_ceduA | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/tackle.md |
-| Se7bjtiiGv8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| Se7bjtiiGv8 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater trout jerkbait clip, no SoCal/Baja species/location/parameters, out of KB scope |
 | T33JsoZHO_c | Tackle Express | tutorial | parameter-skim | pending |  |
 | T_XpItMhbjM | Tackle Express | tutorial | parameter-skim | pending |  |
 | TdrFjnJb3Y0 | Tackle Express | tutorial | parameter-skim | pending |  |
