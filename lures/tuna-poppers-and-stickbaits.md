@@ -786,6 +786,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](../techniques/panga-team-trolling.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)

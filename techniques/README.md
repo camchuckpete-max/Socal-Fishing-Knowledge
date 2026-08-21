@@ -29,6 +29,7 @@
 - [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Fishing calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" — bigger, more confident trophy fish move shall
+- [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md) **[Baja only]** — A 3-angler panga program for yellowtail: the moment one of two trolled rods gets bit, the crew's other anglers work the same water instead of only fighting the
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — (Carl, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md) — (Fred, SearcherSportfishing, "Tackle Tip Thursday Vol.
@@ -56,5 +57,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 46 notes exceed the 30-node cap._
+_Map skipped: 47 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -2706,7 +2706,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | jWPv-OOM3uk | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md — added booty-spin blade's stated flash/vibration rationale + 3/5/7-in sizing; rigging-demo content correctly withheld as re-cut of four already-logged sibling clips |
 | j_x1IskkSEE | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 48s generic tackle/line product plug (Sunline Almighty braid for wacky rig), no SoCal-specific content, fails curation bar |
 | jeJAsY_M0oc | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md — appended diameter-equivalence example (8lb braid ≈ 1lb test) + stated leader-requirement reason to existing bullet list, medium confidence |
-| jo8lMdFZ1bk | Tackle Express | tutorial | parameter-skim | pending |  |
+| jo8lMdFZ1bk | Tackle Express | tutorial | parameter-skim | done | techniques/panga-team-trolling.md; species/yellowtail.md — new technique note (3-angler panga follow-up-cast on troll hookup) + router row, cross-linked to Colt Sniper lure entry |
 | k0rhryq2kYI | Tackle Express | tutorial | parameter-skim | pending |  |
 | k23JzE3Fr-I | Tackle Express | tutorial | parameter-skim | pending |  |
 | kHUQd9jqG-A | Tackle Express | tutorial | parameter-skim | pending |  |
