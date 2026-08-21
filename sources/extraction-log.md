@@ -2653,7 +2653,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | degWvtQ4D_Y | Tackle Express | tutorial | parameter-skim | done | tackle/rod-length-for-angler-size.md: merged fatigue/shaking-as-length-signal doctrine, fixed one dropped-hedge misquote |
 | dfv6S7RQ_bs | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md: provenance-only merge, re-cut of DfLcSS-J3g4, no new note |
 | dnHev1PcLts | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable, promotional product video (Stick Jacket Pro Series rod covers), no SoCal/Baja fishing knowledge |
-| dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | pending |  |
+| dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | done | none: 15s auto-caption clip with no extractable parameter/doctrine content, correctly skipped |
 | dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | pending |  |
 | dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | pending |  |
 | eLwier3zVdo | Tackle Express | tutorial | parameter-skim | pending |  |
