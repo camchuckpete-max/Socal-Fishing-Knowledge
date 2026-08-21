@@ -2526,7 +2526,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | PJEG_RIkzF0 | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md; species/california-halibut.md / merged poly-rope-vs-fine/soft-mesh release-net finding, cross-linked from halibut fighting/release section |
 | PNWsFa4iSSc | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: unresolved productivity-percentage anecdote, no parameters, cut off before example resolves |
 | PPCzxTzXF0k | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: freshwater bass fishing content (blade bait / suspended bass), out of SoCal/Baja scope |
-| PbiZMk4Ft6w | Tackle Express | tutorial | parameter-skim | pending |  |
+| PbiZMk4Ft6w | Tackle Express | tutorial | parameter-skim | done | tackle/jig-rod-rating-selection.md / merged rod-power-vs-jig-weight rule (150g jig/609 too stiff, drop to 7 or 6 power), medium confidence |
 | PcJUo7h8WQA | Tackle Express | tutorial | parameter-skim | pending |  |
 | PciIsDkBgj4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | PfHjk3G0yek | Tackle Express | tutorial | parameter-skim | pending |  |

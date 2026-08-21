@@ -1,15 +1,18 @@
 ---
 type: tackle
-tags: [rods, buying-guide, jig-weight, rod-rating, retail]
-sources: [DTvXJrtytwg]
+tags: [rods, buying-guide, jig-weight, rod-rating, retail, rod-power]
+sources: [DTvXJrtytwg, PbiZMk4Ft6w]
 confidence: medium
 ---
 
 # Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle
 
-A short buying-education point from Tackle Express staff (unnamed on camera;
-`tackle-express` is an unregistered channel, single 42-second mention — medium
-confidence), on how a jig-rod's printed gram rating actually fishes.
+Two short buying-education points from Tackle Express staff (unnamed on
+camera; `tackle-express` is an unregistered channel — medium confidence
+regardless of repetition), on how a jig rod's printed rating and its power
+actually fish: gram-rating positioning within the range (42-second clip,
+`DTvXJrtytwg`), and rod power vs. jig weight for loading/action (32-second
+clip, `PbiZMk4Ft6w`).
 
 ## The rule
 
@@ -25,6 +28,38 @@ whose range simply spans 200 g. Worked through on camera: a rod rated
 it actually fishes best with **250–300 g** jigs, i.e. toward its own top end
 (DTvXJrtytwg).
 
+## Rod power, not just gram rating — a too-stiff rod won't load the jig
+
+A second, separate Tackle Express buying-education clip (unnamed staff on
+camera; same unregistered-channel/medium-confidence status as above; "Your
+150g jig needs this rod power, not that one!", `PbiZMk4Ft6w`, uploaded
+2026-02-06, 32 seconds) makes a related but distinct point: the rod's
+**power** (how stiff or soft the blank is) has to be soft enough to load and
+unload with the jig's weight, separate from whether its printed gram range
+covers that jig weight at all.
+
+Stated example: customers repeatedly ask staff for a rod they name as **"the
+609"** to fish a **150 g** jig. Staff say no — that rod is too stiff a power
+for that jig weight: it won't bend enough to load and unload, so it can't
+impart the action that makes a 150 g jig swim/work correctly. Recommended
+instead: drop down to roughly a **seven power**, or a **six power**, to get
+the jig moving properly (PbiZMk4Ft6w).
+
+**The relationship runs both ways:** fishing a heavier jig calls for a
+heavier-power rod (PbiZMk4Ft6w) — stated as the general direction, without a
+second paired jig-weight/power number.
+
+Kept as a separate point from [the rule above](#the-rule) rather than merged
+into it: that section is about picking within a rod's printed **jig-weight
+(gram) range**; this one is about the rod's **power rating** needing to be
+soft enough to actually load and unload a given jig's weight. They are two
+related checks on the same purchase, not the same parameter — a rod's gram
+range could nominally span a jig's weight while still being built on a power
+blank too stiff to work that jig, which is the exact customer mistake
+described here. Neither the "609" rod's brand/line nor a fuller power-to-gram
+mapping beyond "150 g → seven or six power, heavier jig → heavier power" is
+given on camera; recorded as stated, not extrapolated.
+
 ## Contrast with the all-purpose line-rating rule
 
 This is the **opposite selection heuristic** from this KB's [all-purpose rod
@@ -39,14 +74,15 @@ rather than reconciled into one rule.
 
 ## Where this applies
 
-The source doesn't name a technique, species, or region on camera — the
+Neither source names a technique, species, or region on camera — the
 200 g / 3–400 ft example is consistent with deep vertical jigging (slow-pitch
 or knife/speed-jig class gear; see [slow-pitch jigging](../techniques/slow-pitch-jigging.md#gear-class-detail)
 and [knife/speed jigging](../techniques/knife-jigging.md#gear-class-detail),
 both of which already document rods rated and picked by max jig weight)
-rather than surface iron or trolling. Recorded as a general jig-rod buying
-rule rather than assigned to one technique, since the source doesn't say
-which.
+rather than surface iron or trolling, and the 150 g / "seven or six power"
+example above is consistent with the same gear classes. Recorded as a
+general jig-rod buying rule rather than assigned to one technique, since
+neither source says which.
 
 <!-- backlinks:start -->
 ## Linked from
