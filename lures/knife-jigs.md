@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4, gFx8BXU2vkY]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4, gFx8BXU2vkY, sGnY4QxqMmI]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -102,6 +102,20 @@ behavior**:
     stated mechanism for why a back-weighted profile produces the
     dart-on-the-retrieve action this note documents above, versus a
     center-weighted profile's fall flutter.
+  - **A fifth cut of the same interview, adding a direct shape comparison
+    between the two named models (Tackle Express, "Slow Pitch or Speed Jig?
+    Ceasar Says KNOW the Difference!," `sGnY4QxqMmI`, uploaded 2025-07-11 —
+    four months after `ZrcwcugaEe4`; medium confidence):** restates the same
+    Rip Roller-is-actually-a-slow-jig correction and the identical
+    "the head rocks back and forth... darts up, darts up, darts up" line
+    already quoted above, confirming this is the same source appearance, not
+    independent repetition. **One additional detail not in the other cuts:**
+    held side by side on camera, the **Mustad Rip Roller** reads as
+    noticeably **flatter and broader** than the **Nomad Streaker**, which by
+    contrast is **more rounded, longer, and skinnier** — a direct visual
+    comparison between the two named models that gives a concrete shape
+    contrast for the flat-side/round-side speed-jig cross-section already
+    documented above.
   - **Bite-ratio quantification, same interview (Cesar Chang, `ZrcwcugaEe4`,
     2025-03-07; medium confidence, single appearance):** asked to estimate
     the split, Cesar puts a **slow-pitch jig at roughly 85% of bites on the
