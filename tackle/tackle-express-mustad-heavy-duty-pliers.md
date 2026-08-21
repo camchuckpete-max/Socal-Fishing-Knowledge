@@ -57,10 +57,14 @@ extracted.
   product's cutting-edge claim sits alongside.
 - [Gear classes](gear-classes.md) — the class-term lexicon this named product
   is one example against.
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle
+  Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md) — the other
+  Tackle Express note presented by the same staffer, Chad.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 <!-- backlinks:end -->

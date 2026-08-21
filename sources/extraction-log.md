@@ -2600,7 +2600,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | XfpUV_z5gFI | Tackle Express | tutorial | parameter-skim | done | lures/lucky-craft-flash-minnow.md / Added attributed white-belly theory (Tackle Express, medium confidence) as a companion rationale to existing color-selection doctrine, after removing an invented biological explanation not present in source |
 | XtPUnC5jQnM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md / merged a second stated reason (jig-descent/retrieve effort) for thin braid into the existing reel/line ladder section, fixed two invented/unhedged claims in the extractor's patch |
 | XxN7EzNDnf8 | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / added as a source, correctly flagged as a re-cut/duplicate of S9sQ8Vg8-5o footage and explicitly excluded from independent corroboration |
-| Y5crw_rQpeg | Tackle Express | tutorial | parameter-skim | pending |  |
+| Y5crw_rQpeg | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md; tackle/tackle-express-mustad-heavy-duty-pliers.md; techniques/beach-lure-depth-control.md / new low-confidence tackle note (Penn Fathom Low Profile / Okuma Seros / Daiwa HMKL surf combo) created and cross-linked; one overclaiming link description fixed |
 | YWTDpG6yYWo | Tackle Express | tutorial | parameter-skim | pending |  |
 | YyW4-8FRjn8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | pending |  |

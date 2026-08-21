@@ -47,11 +47,19 @@ uploaded 2026-07-08 — a 55-second tackle-counter clip. `tackle-express` is an
   braid, 15 ft/40 lb fluoro leader) on a light bass/halibut rod fished as
   yellowtail insurance, rather than this clip's general casting-reel
   recommendation.
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle
+  Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md) — names a
+  Penn Fathom Low Profile (300/400) for surf/lake rather than this clip's
+  offshore application; this clip doesn't specify which Fathom product line
+  ("Penn Fathom" is said with no qualifier), so whether it's the same
+  low-profile baitcaster or the round two-speed lever-drag line is not
+  established.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Yellowtail](../species/yellowtail.md)

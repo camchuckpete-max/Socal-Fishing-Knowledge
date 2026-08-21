@@ -49,6 +49,7 @@
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md) — Tackle Express, "Unlock Backlash-Free Casts: Harry's Take on Bates EDC 100 Reel & D.A.B.
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md) — Tackle Express, "Level Up Your Swimbait Game with THIS Hook" (L_YH_xT7Pfs, uploaded 2025-06-23, 93 s) — a straight product-feature rundown of two BKK swimbait-h
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md) — Tackle Express, "Ditch the heavy tuna gear for your next trip!," QEmxUIGmKbo, uploaded 2026-07-08 — a 55-second tackle-counter clip.
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md) — Tackle Express, "Chad's Secret Staff Pick for More Bites (Penn + Okuma + Daiwa) | STAFF PICKS," Y5crw_rQpeg, uploaded 2025-09-09 — a 2:14 "Staff Picks" segment,
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md) — Tackle Express, "Upgrade your fishing game with these game-changing reel features," TjQuU-x8sHM, uploaded 2026-05-29 — a 58-second, presenter-unnamed feature ru
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Tackle Express, "New Daiwa Luvias ST Spinning Reel – Featherlight Power for Serious Anglers!," RKfI8g_aRu8, uploaded 2025-08-14 — a 90-second feature rundown fo
@@ -74,5 +75,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 64 notes exceed the 30-node cap._
+_Map skipped: 65 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -172,6 +172,7 @@ kept for the record and not treated as fishery doctrine.
 ## Linked from
 
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)

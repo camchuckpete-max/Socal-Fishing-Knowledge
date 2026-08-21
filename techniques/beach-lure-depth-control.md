@@ -63,6 +63,10 @@ metal lure, or any minnow-style hardbait.
   the rod-handling answer, usable with any lure including that one.
 - [California halibut — situations → techniques](../species/california-halibut.md#situations--techniques) —
   the primary SoCal surf species this depth control serves.
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle
+  Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md) —
+  a named surf jerkbait (Daiwa HMKL) fished on a slow roll to stay off the
+  bottom, a lure-selection complement to this rod-tip-height mechanism.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -70,4 +74,5 @@ metal lure, or any minnow-style hardbait.
 - [California Halibut](../species/california-halibut.md)
 - [Inshore Crankbaits](inshore-crankbaits.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
+- [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md)
 <!-- backlinks:end -->
