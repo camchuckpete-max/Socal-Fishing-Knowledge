@@ -2479,7 +2479,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JUcsUMJize0 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / added Speedmaster free-spool/SARB bearing spec and fly-lining/casting rationale |
 | JekeeKZA1Kw | Tackle Express | tutorial | parameter-skim | done | none / freshwater reservoir bass jerkbait tackle picks, no SoCal/Baja saltwater relevance, correctly skipped |
 | JgD1gOuQAaE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-saltiga-reel.md; tackle/tackle-express-saltiga-35-vs-talica-12-reel-sizing.md / added large-pair specs, lever-drag-stop and handle-style decision content, resolved pinion caption ambiguity; fixed fabricated handle-material attribution |
-| JgXMpjxRxmo | Tackle Express | tutorial | parameter-skim | pending |  |
+| JgXMpjxRxmo | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; lures/tuna-poppers-and-stickbaits.md; techniques/surface-iron.md / merged small-anchovy iron-downsizing corroboration and Colt Sniper warm-water retrieve/Daiwa SP Minnow mention |
 | JmGT0zAaVOY | Tackle Express | tutorial | parameter-skim | pending |  |
 | K50W5KaBN4E | Tackle Express | tutorial | parameter-skim | pending |  |
 | KFdvKXTHSeU | Tackle Express | tutorial | parameter-skim | pending |  |

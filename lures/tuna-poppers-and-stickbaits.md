@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -372,6 +372,19 @@ conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence). No retrieve mechanics
 beyond "cast at the boil" are given in this source; treat as a visual,
 high-action alternative to iron, not a documented distinct cadence.
+
+**Retrieve mechanics and seasonal trigger, filling the gap above (Tackle
+Express, `JgXMpjxRxmo`, 2026-07-17; unregistered channel — medium
+confidence):** as the water warms up over the season, fish get "fired up" and
+splash around on the surface — the trigger condition given for reaching for
+this stickbait — wound **real fast**.
+
+**A second stick bait to carry, named with the speaker's own on-camera
+uncertainty (same source):** alongside the Colt Sniper, a **"SP Daiwa SP
+Minnow, or something like that"** — read as the **Daiwa SP Minnow** — is
+named as "a good bait to have in your arsenal." No size, color, or retrieve
+detail is given beyond grouping it with the Colt Sniper as a warm-water
+stickbait option; kept as stated rather than resolved to a confirmed model.
 
 **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
 `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; captions

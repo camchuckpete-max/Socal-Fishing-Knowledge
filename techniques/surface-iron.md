@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [surface-iron, jig-stick, casting, yellowtail, calico, bluefin]
-sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc, lYyi_Yh3S5g, 8TO-tuYjwWk]
+sources: [Ec2GaNpiOHI, yn1suHH6b1Y, 764kFzACKTc, HTssdpnUGMo, XLVUhV8DW64, D5DR7Kx42_A, pcwcRdmWmLc, YZtX1MiT0y8, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, 42A8Owhc8fw, F7jLrt2j2X8, VpW91AKOFVQ, 3dVc-2rsYII, KLoEJInlmZo, ntQXxcH5sjI, _C8w6zeVPak, NGxyOlPx3ug, V_ONnegk95M, I-QBxuV2p7M, 9tIp4n7q850, 6EDQtQHEwFE, ILBl12Jm7-0, u0scEBby7nA, IwxqgocsQTY, ilINTeknKB4, oadK6zIYyCo, ejUTAnONf7o, u80AI37soFI, 0DKmYId1NN4, _MygUHw19q8, 2cxeg_AE418, 4pT0efBD1j0, dS9gd9k7A7Q, gdqI2dNd5_U, OL8D1l73RVg, sjlL5GidM58, 49joKHD7Umc, lYyi_Yh3S5g, 8TO-tuYjwWk, JgXMpjxRxmo]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -326,6 +326,18 @@ while somebody is still connected.
   AA-light on the 80 lb jig stick — the downsized setup is a medium-action 9 ft
   graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
   fluorocarbon leader (2/27/25).
+- **Later, independent corroboration — small jig on small anchovy, plus a
+  bigger-fish nuance (Tackle Express, JgXMpjxRxmo, 2026-07-17; unregistered
+  channel — medium confidence):** as of the 2026 season, small surface irons
+  were out-fishing bigger ones locally — a small iron by **Killer**, and a
+  small Tady the speaker names on camera with his own stated uncertainty as
+  **"a A1 or AA or something"** (not resolved to a specific model; kept as
+  said rather than guessed at). Framed explicitly for **small anchovy** bait
+  ("these are some of the things I recommend with that small anchovy"),
+  consistent with the "rice"-bait downsizing doctrine above. **Added nuance:**
+  the smaller jig isn't only a smaller-grade-fish pattern — even bigger
+  yellowtail key onto small anchovy and can be out-produced by the smaller jig
+  too, with the effect stated as strongest **earlier in the year**.
 - **Earliest-dated citation of the Tady 45 / Salas 7X pairing as "the number
   one" surface iron (Capt. Art, SearcherSportfishing, "Capt Art's tackle
   tips," `lYyi_Yh3S5g`, 2009-08-25; self-identified on camera as "Captain
