@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tony-pena-knot, splice, connection-knot, mono-to-spectra, uni-knot, knot-puller, tackle-prep]
-sources: [7TPJsMc_clA]
+sources: [7TPJsMc_clA, SK2M7L2vA1s]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -58,16 +58,53 @@ uni-to-uni this sits beside.
   one knot, isn't fully resolvable from audio alone. Watch the source video
   (linked below) for the hand mechanics; treat the wrap counts and angle above
   as the reliable, preserved parameters. Flagged `asr-uncertain`.
+- **A second tie under the same name, mechanically different from Capt.
+  Allen's build above — kept side by side, not reconciled (Tackle Express,
+  "Harry," `SK2M7L2vA1s`, 2024-12-06; unregistered channel — medium
+  confidence):** framed on camera as "a great knot for attaching braided line
+  to a piece of monofilament or fluorocarbon for leader or top shot." Usable
+  across a wide line-class range — "from as light of line as you can imagine
+  all the way upwards of even heavier than 100 lb test" — though the
+  presenter's own preferred window is **60 to about 100–130 lb**. Paraphrased
+  mechanic: cross the mono/fluoro leader and the braid into an X, pulling
+  **6 to 10 in** of tag on each side. Form a loop in the monofilament end and
+  wrap the tag around it **3 times**, then cinch that small loop down. Pinch a
+  finger in the gap between the leader and the braided line, then wrap the
+  braid around the mono **7 to 14 times**, working down toward the loop —
+  stated as a diameter-scaling rule, **thicker line takes fewer wraps, thinner
+  line takes more**: his own example is **50 lb braid to 40 lb leader at 8
+  wraps down**, and he'd add wraps for something as light as 10 lb braid to
+  4 lb leader. Switch hands, pinch the same spot, and wrap back up the same
+  count (8 in his example). Pass the braid tag through the loop where the
+  pinching finger was, then pull the main braid line to draw that small loop
+  away and set the wraps. **Lubrication:** saliva, water, or chapstick —
+  chapstick and saliva rated as noticeably better lubricants than water
+  alone. Cinch by wrapping both lines around the hands or gloves and drawing
+  down slowly until it all comes together. **Not resolved — same knot or a
+  different one under a shared name:** the initial 3-wrap mono loop and the
+  wrap-count-scales-with-diameter rule aren't described in Capt. Allen's
+  citation above, and the wrap counts differ outright (7–14 in a single pass,
+  hand-cinched, here vs. 11-up/11-down repeated **three** times, tool-cinched,
+  there). Flagged as a same-name/possibly-different-mechanic pair rather than
+  merged, per the pattern already established for the [Seaguar
+  knot](seaguar-knot.md).
 
 ## Tie it
 
-How-to video: [Tackle Tip Thursday Vol. 151 — Knot Puller and Tony Pena
+How-to videos: [Tackle Tip Thursday Vol. 151 — Knot Puller and Tony Pena
 Knot](https://www.youtube.com/watch?v=7TPJsMc_clA) (SearcherSportfishing,
-Capt. Shawn Allen, 2021-06-24).
+Capt. Shawn Allen, 2021-06-24); [How to Tie 6 Essential Saltwater Fishing
+Knots](https://www.youtube.com/watch?v=SK2M7L2vA1s) (Tackle Express, Harry,
+2024-12-06) — also covers the Palomar, uni-to-uni, Seaguar, dropper-loop, and
+spider-hitch knots, logged in [Essential SoCal Knots](essential-knots.md),
+[Seaguar Knot](seaguar-knot.md), and [Dropper-Loop Knot & Spider
+Hitch](dropper-loop-knot-and-spider-hitch.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
+- [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
 <!-- backlinks:end -->

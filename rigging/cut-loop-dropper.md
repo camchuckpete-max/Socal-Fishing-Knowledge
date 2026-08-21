@@ -89,6 +89,7 @@ species and depth.
 ## Linked from
 
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
 <!-- backlinks:end -->

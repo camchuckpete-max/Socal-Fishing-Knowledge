@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc, Ga8Z1PyBqdE]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc, Ga8Z1PyBqdE, SK2M7L2vA1s]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -104,6 +104,11 @@ fluoro leader, braid main line — and feed the terminal rigs in
   matched 9-up/9-down wrap, exiting back up through the loop rather than
   down through it) — kept as its own note: [John Collins
   Knot](john-collins-knot.md).
+- **Dropper-loop knot & spider hitch (loop, bottom rig)** — the two
+  loop-forming knots used to build a [dropper loop](../techniques/dropper-loop.md)
+  rig's hook loop, not general terminal or connection knots like the rest of
+  this list — kept as their own note: [Dropper-Loop Knot & Spider
+  Hitch](dropper-loop-knot-and-spider-hitch.md).
 
 ## Parameters & judgment
 
@@ -128,6 +133,16 @@ fluoro leader, braid main line — and feed the terminal rigs in
   overhand, then work the slack back up to the main line before cinching
   down — a small tag is left to trim and very little line is lost taking up
   the loop.
+  **Line-material and loop-length guidance, general (Tackle Express,
+  `SK2M7L2vA1s`, 2024-12-06; unregistered channel — medium confidence):** the
+  presenter recommends monofilament or fluorocarbon over braid for this tie —
+  braid "has a more likely reason to slip on you" — though the demo itself
+  uses braid for visibility. He also states, in his own words, that "if
+  you're going to be going anything larger, whether it be a long lure or
+  anything larger, you will have to compensate and make that loop longer" to
+  fully wrap around it — the same general principle (size the loop to what's
+  passing through it) as Roman Castro's whole-rig Palomar logged just above,
+  though Castro's citation doesn't state a "longer loop" rule in those words.
 - **San Diego jam** — through the eye and back to make a doubled section, wrap
   6 times down the standing line (or a single pass for the live-bait
   version), pass through the lower loop and then the upper loop, lubricate,
@@ -382,6 +397,7 @@ mono-to-fluoro connection clips).
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)

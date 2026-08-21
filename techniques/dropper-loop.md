@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -29,7 +29,10 @@ this note owns the rig and the retrieve.
 
 ## Building the rig
 
-- Tie the hook off a **dropper loop knot or spider hitch** formed in the leader.
+- Tie the hook off a **dropper loop knot or spider hitch** formed in the
+  leader — tying mechanics for both, plus a stated reason for reaching for
+  the spider hitch on hard-pulling fish, are in their own note: [Dropper-Loop
+  Knot & Spider Hitch](../rigging/dropper-loop-knot-and-spider-hitch.md).
   A **longer loop gives the bait more action** — err long.
 - Sinker at the very bottom, **6 to 10 oz**, hook(s) on the loop(s) above it.
   The bait then presents **sinker down, bait wafting out** above the lead.
@@ -544,6 +547,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)

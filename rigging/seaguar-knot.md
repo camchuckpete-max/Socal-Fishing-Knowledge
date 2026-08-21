@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [seaguar-knot, connection-knot, mono-to-fluoro, bite-guard, flyline, tackle-prep]
-sources: [48ZFXnCTTQE, 06lxuie5cZQ, tzeXXPAjqUY, i3qIAHW-SJc, M-W5mEjh1MY]
+sources: [48ZFXnCTTQE, 06lxuie5cZQ, tzeXXPAjqUY, i3qIAHW-SJc, M-W5mEjh1MY, SK2M7L2vA1s]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -13,7 +13,7 @@ A connection knot purpose-built to join **monofilament to fluorocarbon** —
 not braid to fluoro, which is the [RP knot's](essential-knots.md#parameters--judgment)
 job. The go-to for building a mono-main-line-to-fluoro-bite-guard
 [flyline](../techniques/flyline.md) rig; see that note for the leader-sizing
-logic it serves. Five sources across two channels demonstrate a "Seaguar
+logic it serves. Six sources across three channels demonstrate a "Seaguar
 knot" for this connection, and they do not all describe the same mechanic —
 kept as its own note (split out of [Essential SoCal
 Knots](essential-knots.md), which had grown past ~400 lines) so the
@@ -163,6 +163,29 @@ buried in a larger knots catalog.
   own framing at [00:00:09]–[00:00:13] ("connect a piece of fluorocarbon to
   your monofilament on your fishing line") — i.e. the cut 3–4 ft piece is the
   fluorocarbon leader, the reel line is the monofilament main line.
+- **A sixth tie, from Tackle Express, a further data point in the same
+  loop/figure-eight family (Tackle Express, "Harry," `SK2M7L2vA1s`,
+  2024-12-06; unregistered channel — `medium` confidence):** framed on camera
+  for "attaching mono to mono or mono to fluorocarbon" — a wider stated scope
+  than the flyline mono-to-fluoro application named elsewhere in this note.
+  Paraphrased mechanic: cross the leader and main line into an X, pulling
+  **6 to 8 in** of tag on each side. Form a loop on the leader side and twist
+  it **3 times**, open the loop, reach through and pull the leader and its
+  tag through, then draw down until the assembly makes "a figure8 look" —
+  the presenter's own tell for a correctly-formed knot, matching the
+  figure-eight tell named in the `tzeXXPAjqUY`, `i3qIAHW-SJc`, and
+  `M-W5mEjh1MY` entries above. Lubricate, then grab all **four strands**
+  (both tags, both mains) and cinch slowly; finish by pulling the main line
+  down first, then both tag lines, to work remaining slack out of the knot.
+  Trim both tags short, leaving only a couple centimeters of tag. **Reads as
+  a sixth data point in the loop/wrap-back/figure-eight family**
+  (`06lxuie5cZQ`, `tzeXXPAjqUY`, `i3qIAHW-SJc`, `M-W5mEjh1MY` above) rather
+  than Cesar's opposite-direction two-and-a-half-turn tie, with an
+  unambiguous **3-turn** count matching `M-W5mEjh1MY`'s stated 3 turns and
+  consistent with the ASR-uncertain 3–4 count in `tzeXXPAjqUY`. The **6–8 in**
+  tag length is a new data point not given elsewhere in this note. No line
+  class, species, or on-the-water application beyond the mono/fluoro pairing
+  is named in this clip.
 
 ## Tie it
 
@@ -176,12 +199,19 @@ via Dirty Hookers, 2023-11-01);
 [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc)
 (StokedOnFishing, "Top Gun 80 Epic 5 Day, part 2," 2016-08-08);
 [Tackle Tip Thursday Vol. 212 — Connection Series: Seaguar Knot](https://www.youtube.com/watch?v=M-W5mEjh1MY)
-(SearcherSportfishing, Rick Maxa, Fisherman's Landing Tackle, 2023-01-19).
+(SearcherSportfishing, Rick Maxa, Fisherman's Landing Tackle, 2023-01-19);
+[How to Tie 6 Essential Saltwater Fishing Knots](https://www.youtube.com/watch?v=SK2M7L2vA1s)
+(Tackle Express, Harry, 2024-12-06) — also covers the Palomar, Tony Peña,
+uni-to-uni, dropper-loop, and spider-hitch knots, logged in [Essential SoCal
+Knots](essential-knots.md), [Tony Pena Knot](tony-pena-knot.md), and
+[Dropper-Loop Knot & Spider Hitch](dropper-loop-knot-and-spider-hitch.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Flyline](../techniques/flyline.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
+- [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md)
 <!-- backlinks:end -->
