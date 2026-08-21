@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank, island, nearshore-coast]
@@ -96,6 +96,19 @@ cast-and-wind surface plug. **Marketing flag:** the **TP slow-troll claim is
 marketing only** — no independent trolling reports found (Cameron, July 2026);
 treat these as cast-and-retrieve plugs, not trolling lures, until there's a real
 report. Rigging as the wire-through / heavy-ring class above.
+
+**Name resolved, and a mechanism reason (Tackle Express, `LoJu3OYs20o`,
+2025-08-22; unregistered channel, promotional product clip — low confidence):**
+the video title (human-typed, so it wins over the caption-driven "TP" gloss
+above) gives the full product name as the **Tuna Propper 160**, confirming
+**TP = "Tuna Propper,"** not an inferred "tail-prop" abbreviation. Stated
+mechanism/reason the style draws strikes: the rotating prop tail throws enough
+surface disturbance that fish can't make out the bait's actual profile, on top
+of an "irresistible draw imitating fleeing fish, flying fish" — a
+visual-disguise rationale, not just the bubble-trail noise already documented
+above. The same clip markets the 160 for GT, snapper, and striper — species
+outside this KB's SoCal/Baja region scope, not carried here as target-species
+doctrine.
 
 ### MegaBait (cast-and-sink, named favorite)
 **Named product — low confidence per this channel's sponsored-claim caveat**

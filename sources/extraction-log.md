@@ -2494,7 +2494,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | LRRoGT2W4WY | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / merged O-ring/band placement parameter (bottom of egg-sack smooth section, closer to head; balance-driven; same across 4-in/5-in/Senko) |
 | L_YH_xT7Pfs | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md; tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md / new tackle note for BKK Titan Diver/Titan Diver Plus swimbait hooks, linked from soft-plastic-swimbaits.md |
 | Lj2NCznK7Zg | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shogun-maxcuatro-braid.md; tackle/line-and-leader.md; tackle/tackle-express-night-bluefin-tg-jig-rig.md; techniques/knife-jigging.md / new note + cross-links for Power Pro Maxcuatro braid and reel/rod pairings from Shogun bluefin trip |
-| LoJu3OYs20o | Tackle Express | tutorial | parameter-skim | pending |  |
+| LoJu3OYs20o | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md / name-resolution (Tuna Propper) + mechanism-reason parameter added to existing Clear Choice TP entry, low confidence |
 | M2qZiY2lR98 | Tackle Express | tutorial | parameter-skim | pending |  |
 | M4G8IKsZEFU | Tackle Express | tutorial | parameter-skim | pending |  |
 | M9_nvBPajDU | Tackle Express | tutorial | parameter-skim | pending |  |
