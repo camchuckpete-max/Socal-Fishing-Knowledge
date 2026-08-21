@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [rockfish, rock-cod, dropper-loop, bait, artificial-bait, squid, octopus, bait-tank]
-sources: [IcS7QbJlSDA, qh3hL2Dt3HY]
+tags: [rockfish, rock-cod, dropper-loop, bait, artificial-bait, squid, octopus, bait-tank, scented-bait, owner, hooks]
+sources: [IcS7QbJlSDA, qh3hL2Dt3HY, Q4WWkbc9nag]
 confidence: medium
 ---
 
@@ -43,15 +43,49 @@ applies to.
   specifically to keep a line fishing through a hot bite instead of breaking
   it to walk to the tank.
 
+## A second Tackle Express bait-tank shortcut — pre-scented packaged bait, species not stated (Q4WWkbc9nag)
+
+Tackle Express (`Q4WWkbc9nag`, "Tired of Running for Live Bait? Do This
+Instead!," uploaded 2026-04-11, 44 s; unregistered channel — medium
+confidence). A second, distinct Tackle Express short on the same problem —
+avoiding the walk to the bait tank — but a different product and no species
+named on camera (contrast with the rock-cod framing above, which comes from
+`qh3hL2Dt3HY`, not this clip).
+
+- **The product:** an unnamed packaged artificial/prepared bait shown on
+  camera with scent already built into both the package and the bait itself
+  — the video references "the package" visually without the caption giving a
+  brand or product name, so no product name is asserted here.
+- **The pitch:** instead of walking to the bait tank for a sardine, anchovy,
+  or a piece of squid **for scent**, thread on one of these pre-scented baits
+  and keep fishing without breaking to re-bait from the tank — "catch fish
+  after fish" without a separate piece of bait.
+- **The rig:** a **double dropper loop**, sinker sized "depending on the
+  depth and conditions" for that day (no fixed weight given — contrast with
+  the fixed torpedo-sinker weights logged elsewhere in this KB, e.g.
+  [dropper loop](../techniques/dropper-loop.md)), fished with a set of **1/0
+  Owner Aki Twist hooks** — see
+  [Charter Bait-Tank Hook Kit — Aki
+  Twist](tackle-express-charter-bait-tank-hook-kit.md#islands-yellowtail--owner-flyliner-ring-vs-non-ring-iuup8ggaaao)
+  for this same channel's other, still-asr-uncertain sighting of the "Aki
+  Twist" name and how this citation's 1/0 size lines up with the Searcher
+  Owner Aki hook citation in [hooks.md](hooks.md).
+- No species is named in this clip — recorded as a general bottom/bait-tank
+  shortcut, not folded into the rock-cod framing above.
+
 ## Related
 
 - [Dropper Loop — rock-cod double dropper loop](../techniques/dropper-loop.md#single-vs-double-dropper-duane-diego-mellor)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Charter Bait-Tank Hook Kit (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) —
+  this channel's other bait-tank note, including the "Aki Twist" hook
+  cross-reference above.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)
 <!-- backlinks:end -->

@@ -2536,7 +2536,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Pxky7drjPkU | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-minnow-rod.md; tackle/gear-classes.md; techniques/leadhead-swimbait-retrieve.md / new tackle note for minnow-style spinning rod power/tip pick, cross-linked; evaluator fixed one invented reasoning detail |
 | PzjZxCRKXpc | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 27s ICAST 2022 teaser/promo, no fishing knowledge content |
 | Q14rHkHGBsk | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 46s social/promo clip, boat chatter and fish hold-up only, no fishing-knowledge content |
-| Q4WWkbc9nag | Tackle Express | tutorial | parameter-skim | pending |  |
+| Q4WWkbc9nag | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md; tackle/tackle-express-charter-bait-tank-hook-kit.md / pre-scented packaged bait, double dropper loop, 1/0 Owner Aki Twist hooks merged; evaluator removed unsupported rock-cod inference |
 | Q4sW6JRQzAY | Tackle Express | tutorial | parameter-skim | pending |  |
 | Q6ACpkS93sk | Tackle Express | tutorial | parameter-skim | pending |  |
 | QEmxUIGmKbo | Tackle Express | tutorial | parameter-skim | pending |  |

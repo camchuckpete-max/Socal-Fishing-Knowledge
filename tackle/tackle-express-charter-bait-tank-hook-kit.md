@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [hooks, hook-size, live-bait, anchovy, sardine, squid, dropper-loop, slider, tuna, flyline, bottom-fishing, fluorocarbon, owner, leader, white-seabass, j-hook, fin-bait, yellowtail, rockfish]
-sources: [3xx_vES0kdo, 9MzNNwHiBXs, Eo_bA8IWvyU, IUuP8gGaAAo]
+sources: [3xx_vES0kdo, 9MzNNwHiBXs, Eo_bA8IWvyU, IUuP8gGaAAo, Q4WWkbc9nag]
 confidence: medium
 ---
 
@@ -48,6 +48,22 @@ a glance:
   they may well be the same Owner product misheard two different ways by
   the same channel's auto-captions, but that isn't confirmed either. Kept as
   a separate, still-open data point rather than silently merged into either.
+  **A third, sized citation of the same spelling (Tackle Express, `Q4WWkbc9nag`,
+  "Tired of Running for Live Bait? Do This Instead!," uploaded 2026-04-11, 44 s;
+  unregistered channel — medium confidence):** a scented, packaged artificial
+  bait fished on a double [dropper loop](../techniques/dropper-loop.md) (no
+  species named on camera — see the sibling note below for that caveat),
+  sinker sized to depth and conditions, paired with **1/0 Owner Aki Twist
+  hooks** — the same channel's own "Aki Twist" spelling, now given a size for
+  the first time on this channel, and that size (1/0) matches the
+  `tRlv1azFPlM` **Owner Aki hook** citation in
+  [hooks.md](hooks.md#owner-aki-hook-vs-j-hook-by-bait-size--season-stock-up-pick-searchersportfishing-tackle-tip-thursday-vol-92-hooks-trlv1azfplm-2020-03-26-searcher-sportfishing-registered-channel--productmodel-endorsement-low-confidence-per-the-channels-sponsored-claim-caveat-owner-disclosed-as-a-searcher-sponsor-elsewhere-in-this-note)
+  exactly — a same-size match across two different channels tilts (1) toward
+  the more likely resolution, but "Oy Twist" isn't ruled out, so this is still
+  recorded as a lean, not a confirmed catalog match. The video does not name
+  the packaged bait product itself; that detail is carried in [Bait-Tank
+  Time-Saver](tackle-express-bait-tank-time-saver.md#a-second-tackle-express-bait-tank-shortcut--pre-scented-packaged-bait-species-not-stated-q4wwkbc9nag)
+  rather than repeated here.
 - **Rock fishing:** **gorilla hooks** — corroborates, without adding a new
   size, the Owner Gorilla-family bottom-fishing hooks already logged under
   [Bottom fishing](#bottom-fishing-rockfish-whitefish-sheephead), below.
@@ -192,6 +208,7 @@ sized for fin bait is essential, not an afterthought.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [White Seabass](../species/white-seabass.md)
