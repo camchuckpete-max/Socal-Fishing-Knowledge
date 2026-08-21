@@ -2523,7 +2523,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | OuO4Irjrat8 | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: freshwater bass/Alabama-rig content, entirely out of SoCal/Baja saltwater scope |
 | Ow87j6AALAY | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: 45s of on-the-water outcome/banter narration with no parameters or stated reasoning |
 | OxFyTk0CSZQ | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped 55s charter raffle/hype clip, only technical aside already covered elsewhere, fails curation bar |
-| PJEG_RIkzF0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| PJEG_RIkzF0 | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md; species/california-halibut.md / merged poly-rope-vs-fine/soft-mesh release-net finding, cross-linked from halibut fighting/release section |
 | PNWsFa4iSSc | Tackle Express | tutorial | parameter-skim | pending |  |
 | PPCzxTzXF0k | Tackle Express | tutorial | parameter-skim | pending |  |
 | PbiZMk4Ft6w | Tackle Express | tutorial | parameter-skim | pending |  |

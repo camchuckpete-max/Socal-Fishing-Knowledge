@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -241,6 +241,13 @@ light-drag grind** — no pumping. Keep the head *underwater* to the gaff; the h
 breaking the surface is when they go zero-to-100 and throw the hook. For the
 gaff shot itself — hook size (a **3-in hook on a ~6-ft gaff** covers halibut up
 to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.md).
+If you're releasing rather than gaffing, net choice matters too: large-hole
+poly rope nets let a halibut's fins pass through and get cut, leading to
+infection and death after release, per studies cited on camera (Tackle
+Express, `PJEG_RIkzF0`, 2026-02-07; unregistered channel, single mention —
+medium confidence) — see
+[dehooking & release](../fish-care/dehooking-and-release.md#landing-net-mesh--protecting-a-released-fishs-fins)
+for the fine/soft-mesh or rubberized-net fix.
 
 - **"Keep them asleep" — the stated reason for the light-drag rule (Tackle
   Express, `1l05hEXDaWw`, 2026-02-05; unregistered channel, single mention —
@@ -305,6 +312,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
