@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -50,6 +50,16 @@ note owns the rig and the retrieve.
   through the plastic to **expose the hook closer to the tail** — halibut chase
   and **bite from behind**, so more exposed point near the tail lifts the hookup
   ratio. The rig is versatile: swap the fluke for a **grub or a swimbait.**
+
+## Hook option — swivel-built hook for a free-swinging bait (Tackle Express, M2qZiY2lR98, 2026-04-20; unregistered channel — medium confidence)
+
+A distinct hook choice alongside the strong long-shanked J-hook above, rather
+than a replacement for it: the **VMC Spin Shot**, a drop-shot hook built on a
+swivel. Stated reason for reaching for it — it lets the bait **swing freely
+through 360°** once the leader is tied, so the slightest movement of the line
+or rod tip, or any current, spins the bait in circles instead of holding it
+fixed in one orientation. Stated tradeoff: tying it on costs **one more knot**
+than a standard drop-shot hook tie.
 
 ## Height off the bottom (Rod Marquez)
 
