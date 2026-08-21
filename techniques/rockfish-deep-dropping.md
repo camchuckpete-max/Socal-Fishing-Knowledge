@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [rockfish, lingcod, deep-drop, dropper-loop, gulp, furuno, weak-link]
-sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo]
+sources: [O5aQkex0qGg, 11npFUPOJKU, 6-8KfjEg0x8, AqW_Z9pFcHU, zVIfArUrpDI, _ZThckj2TIM, AH4Eiya1Hn0, hXcgczEYcKE, iAr6sbRC384, D0bQjAL0gGU, IxfTRWmMqQU, lYnD_MiALL8, nwjIEWJyjKU, OdRZIDBO6Mg, Qj6brwOJk9E, S9sQ8Vg8-5o, WHLz0kR___I, eLwier3zVdo]
 confidence: high
 regions: [socal-bight]
 waters: [bank, island, nearshore-coast]
@@ -199,6 +199,20 @@ built around **feeling the bite from depth**:
   a gangion down and holding bottom takes a torpedo sinker well past the
   24 oz standard weight above — his stated reason large torpedo sinkers get
   made and stocked at all.
+- **A third Tackle Express depth/weight anchor, different figures — kept side
+  by side (Tackle Express, "Don't lose your catch! The secret to nailing
+  deep-water fishing rigs," `nwjIEWJyjKU`, 2026-03-29; unregistered channel —
+  medium confidence):** fishing shallow at **60–100 ft** doesn't need a full
+  1 lb of lead to get down fast — **6–10 oz** does the job (matching the
+  6–10 oz SoCal reference already logged in [dropper
+  loop](dropper-loop.md#building-the-rig)); told the boat's fishing
+  **600–700 ft** of water, that steps up to **at least 16 oz** to reach
+  bottom — a different depth bracket than, and not reconciled to, the
+  16–20 oz/300–600+ ft figure already logged above from the same channel's
+  `S9sQ8Vg8-5o`. States that **16 oz and torpedo sinkers generally get fished
+  on a dropper loop** — weight on the bottom, a small leader, then the hook —
+  naming the rig choice this weight class drives rather than adding new rig
+  detail beyond what's already built out in [dropper loop](dropper-loop.md).
 - **Moving spot to spot:** wrap the sinker's tag line **4–5 tight wraps**
   around the rubber of the reel handle (hook left off) to stow the rig
   without a hook swinging loose while running between spots.
