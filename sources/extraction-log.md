@@ -2701,7 +2701,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | iQjTILHaxqo | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: generic Baja resort catch-packing/vacuum-seal/freeze logistics, no technique/species/gear/care doctrine |
 | ijNOphK4XRA | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md — re-cut Short of eOLoHxoqk6E logged as duplicate footage/provenance; evaluator corrected an over-claim about theory-sentence coverage |
 | ijjtpoKZp8U | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 20s clip, captions are only [Music]/you, no substantive content |
-| j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | pending |  |
+| j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: freshwater bass content (Castaic Lake, C3 Baits), out of SoCal/Baja saltwater scope entirely |
 | jFlAdWRj3HI | Tackle Express | tutorial | parameter-skim | pending |  |
 | jWPv-OOM3uk | Tackle Express | tutorial | parameter-skim | pending |  |
 | j_x1IskkSEE | Tackle Express | tutorial | parameter-skim | pending |  |
