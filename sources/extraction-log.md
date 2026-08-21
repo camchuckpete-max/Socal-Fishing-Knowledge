@@ -2635,7 +2635,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | cAZRaGB_RRM | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md: merged loose-slack-under-spool failure mode + finger-tension/rod-tip-raise takeup methods, confidence held at medium |
 | cBATKqWkQws | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-vanford-fa-reel.md (new, capped low): MGL rotor + CI4+ 2.5x rigidity claims; linked from gear-classes.md and cross-linked with CI4+ note; evaluator ran link-maintenance |
 | cNfPlAZWLB8 | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): freshwater trout tackle, braid-to-leader knot avoidance via straight mono/fluoro; evaluator filled stale log row |
-| cSTfQy8eb44 | Tackle Express | tutorial | parameter-skim | pending |  |
+| cSTfQy8eb44 | Tackle Express | tutorial | parameter-skim | done | no KB destination (out of scope): freshwater bass blade-bait tight-line-on-fall tip, matches sibling blade-bait series already skipped; evaluator filled stale log row |
 | cZ3KlPWiPWw | Tackle Express | tutorial | parameter-skim | pending |  |
 | c_60Ms3QSMY | Tackle Express | tutorial | parameter-skim | pending |  |
 | c_L2hqBXwYA | Tackle Express | tutorial | parameter-skim | pending |  |
