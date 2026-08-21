@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -64,6 +64,20 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   or location is named on camera, so this is logged as general size/keeper-
   hardware guidance alongside the 5"–7" calico/sand-bass sizing above rather
   than tied to a specific SoCal situation.
+- **Where to clip the O-ring/band for balance (Tackle Express, `LRRoGT2W4WY`,
+  2026-04-06; unregistered channel, single mention — medium confidence):** on
+  this same worm-style soft plastic, the bait has a slightly thicker, smoother
+  section partway down the body — described on camera as looking like a
+  nightcrawler's egg sack. Stated placement: clip the O-ring/band **at the
+  bottom of that smooth section, closer to the head** — not in the middle of
+  the bait, which is where "a lot of people" seat it instead. Stated reason:
+  the bait's weight balances more toward that egg-sack section, so seating
+  the O-ring there (rather than mid-body) keeps the bait balanced. Given as
+  the same placement across the **4-in size, the 5-in size, and the
+  Senko-style stick worm** — all three are described as having the same
+  egg-sack section. No species or location named on camera; kept alongside,
+  not merged into, the O-ring sizing bullet above since that bullet covers
+  which O-ring size to use and this one covers where to place it.
 - **Colors:** color matters little — a **green-top / gold-bottom ("hot koch")** is
   a confidence pattern that works cloudy or sunny, warm or cold. Carry a natural
   (green/gold, sardine) and a dark. Fish what you believe in.
