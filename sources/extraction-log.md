@@ -2762,7 +2762,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | rd2Ia8HRbSg | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; lures/soft-plastic-swimbaits.md: re-cut of already-logged 9kGpcEHqIUc/_C7TJoGT0nw Cedros interview, added as provenance-only citations, no new doctrine |
 | reG4Xc91Mj4 | Tackle Express | tutorial | parameter-skim | done | none: transcript is song lyrics only, no fishing content, nothing extractable |
 | reZBk4GsH_o | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md: added wide-gap-vs-long-shank hook + O-ring rigging bullet to existing O-ring cluster |
-| rlZVbEO3WyQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| rlZVbEO3WyQ | Tackle Express | tutorial | parameter-skim | done | none: freshwater trout ultralight rod tackle, out of scope for SoCal/Baja saltwater KB |
 | rvmr9Jy9RjI | Tackle Express | tutorial | parameter-skim | pending |  |
 | rxoaPT5Zaog | Tackle Express | tutorial | parameter-skim | pending |  |
 | s2yqtaHriqU | Tackle Express | tutorial | parameter-skim | pending |  |
