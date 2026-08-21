@@ -445,6 +445,7 @@ at that stage to finish it.
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 <!-- backlinks:end -->

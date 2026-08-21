@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, star-drag, lever-drag, two-speed, drag-system, free-spool, casting, bluefin]
-sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg, Qj6brwOJk9E]
+sources: [tYebwLzTyf8, 1nBqYdvVrXY, OdRZIDBO6Mg, Qj6brwOJk9E, d0fxBYmAnIk]
 confidence: medium
 ---
 
@@ -127,6 +127,24 @@ reel in the first place.
   parameters in [rockfish deep-dropping — rod, reel & line for the
   feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing).
 
+## Two named lever-drag reels compared on lever feel — Penn vs. Avet Raptor Series (Tackle Express)
+
+Tackle Express ("Penn vs. Avet – Best Lever Drag System for 2-Speed Reels?,"
+`d0fxBYmAnIk`, uploaded 2025-02-28, 53 s; unregistered channel, presenter
+unnamed on camera, single mention — medium confidence). A physical-feature
+comparison of two named 2-speed lever-drag reels, not a mechanism explainer —
+full detail in [Penn vs. Avet lever drag — feature comparison
+(Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md).
+
+- Penn's lever drag is smoother/sleeker with no knurled grip section; Avet's
+  Raptor Series adds a glide plate and a knurled lever end, stated to grip
+  better with wet or slimed hands.
+- Both reels carry a button that jumps the lever from strike into full drag;
+  on the Avet it's small but still reachable — the clip doesn't describe a
+  Penn-side equivalent.
+- Both are said to run the same kind of drag curve, presettable via a preset
+  button on each.
+
 ## Reach for this when
 
 - **Star drag** — flylining live bait (anchovies, sardines) or casting a
@@ -190,6 +208,7 @@ following more detailed, application-specific entries already in this KB:
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md)
+- [Penn vs. Avet Lever Drag — Feature Comparison for 2-Speed Reels (Tackle Express)](tackle-express-penn-vs-avet-lever-drag.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
