@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg, reZBk4GsH_o, zYcXDoOE6jo]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -395,6 +395,13 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
     swimbait hooks](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
     and [leadhead mods](../rigging/leadhead-mods.md)); not re-logged here as
     independent confirmation.
+    **`zYcXDoOE6jo` ("New Kicker Booty Spin: A Must-Have for Swimbait
+    Fishing!," Tackle Express, 2025-01-06) is a near-word-for-word earlier
+    upload of this video's first ~90 seconds** — the same pickle-kick sizing/
+    durability intro and the same flash-(murky conditions)/vibration-
+    (lateral line) framing for the booty spin's tail blade, with no rigging
+    content and nothing beyond what's already logged above. Not an
+    independent confirmation; logged here for provenance only.
   - **Rigging it weedless — nose-hook, twist, and match the exit point**
     (Tackle Express, `R6ErrEIjlWw`, 2025-01-21; unregistered channel, single
     mention — medium confidence): hook the bait through the face of the nose
