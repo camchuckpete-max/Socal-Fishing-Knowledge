@@ -2818,7 +2818,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | zVrsCf46_fI | Tackle Express | tutorial | parameter-skim | done | none / 46s freshwater lake striper-boil clip, no SoCal/Baja saltwater content extractable, out of region scope |
 | zWpYFTIZP7w | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-izorline-xxx-mono.md / merged as second low-confidence data point into existing Izorline XXX note (weight-by-application: 25 lb swimbait, 20 lb rats/crawlers, 2 lb trout/ultralight) |
 | zYcXDoOE6jo | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / near-verbatim earlier-uploaded short of already-logged jWPv-OOM3uk; added provenance-only citation, no independent content extracted |
-| zYcsYhdyZrA | Tackle Express | tutorial | parameter-skim | pending |  |
+| zYcsYhdyZrA | Tackle Express | tutorial | parameter-skim | done | tackle/all-purpose-rod-line-rating.md / parameter-skim add: Fathom 25 Narrow/Avet MXJ vs Seagate/Squall reel-capacity clip, cross-linked to existing Fathom-25 spec table |
 | zi5J9UDJgBk | Tackle Express | tutorial | parameter-skim | pending |  |
 | zkEMsCIhSic | Tackle Express | tutorial | parameter-skim | pending |  |
 | zlelqp7Qo9Y | Tackle Express | tutorial | parameter-skim | pending |  |

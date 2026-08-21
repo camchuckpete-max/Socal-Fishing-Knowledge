@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, buying-guide, line-rating, all-purpose, summer, retail, beginner]
-sources: [7L7OVoXE7KU, DfLcSS-J3g4, dfv6S7RQ_bs, qh3hL2Dt3HY]
+sources: [7L7OVoXE7KU, DfLcSS-J3g4, dfv6S7RQ_bs, qh3hL2Dt3HY, zYcsYhdyZrA]
 confidence: medium
 ---
 
@@ -151,6 +151,41 @@ rather than a rule stated in the abstract:
   identical fish-the-middle rule as the 15–40 lb and 20–40 lb examples
   above, now with a third rating (30–60 lb) and its own middle (30–40 lb) as
   a further, earlier-dated data point.
+
+## A later, separate clip — Fathom 25 Narrow / Avet MXJ vs. budget alternatives, same capacity rule (Tackle Express, zYcsYhdyZrA)
+
+Tackle Express (`zYcsYhdyZrA`, "Why Your Fishing Line Choice Matters More Than
+You Think!," uploaded 2026-04-14, 36 s, presenter unnamed on camera, opens
+mid-sentence — footage before 00:00:00 is missing; unregistered channel,
+single mention — medium confidence, not raised by repetition per the
+unregistered-channel cap). A shop-counter clip naming reel alternatives at a
+comparable size tier to the Seagate 35 above:
+
+- **Reference pair named first:** a **Penn Fathom 25 Narrow** and an **Avet
+  MXJ** — held up before the clip pivots to "less expensive" options. A
+  different citation of the Fathom 25 Narrow already has a full spec-table
+  entry in [Shimano Speedmaster vs. Penn Fathom — reel-size
+  ladder](tackle-express-speedmaster-fathom-reel-sizing.md#full-spec-ladder--weight-drag-and-line-capacity-k_0aem4ovue):
+  33 lb drag, 475 yd of 50 lb braid, 20.1 oz — a different clip's own quoted
+  capacity, not reconciled with the 300–400 yd figure below since this
+  source doesn't state which specific reel(s) that range describes.
+- **Budget alternatives named: a Daiwa Seagate and a Penn Squall** — "if...
+  our budget doesn't allow" — the Seagate matches the model already logged
+  above from the separate, earlier `qh3hL2Dt3HY` clip.
+- **Ambiguous referent, recorded as stated:** "these two reels are very, very
+  comparable in terms of their line capacity" — the transcript doesn't make
+  clear whether "these two" means the Seagate/Squall budget pair, the
+  Fathom/Avet MXJ pair named first, or the whole four-reel set is being
+  treated as one size class.
+- **The same capacity rule, restated:** "on this size of a reel, we're
+  typically recommending 50 to 65-lb braided line... roughly 300 to 400 yd
+  worth of line" — matching, number for number, the 50–65 lb braid / "3–400
+  yd" figure already logged above for the Seagate 35 from `qh3hL2Dt3HY`.
+  Given the near-identical wording and matching numbers, this reads as the
+  same channel repeating its own stock size-class guidance rather than an
+  independent second measurement — kept here (not treated as confirmation of
+  a new parameter) because the named reel set is new: Fathom 25 Narrow, Avet
+  MXJ, and Penn Squall added alongside the previously-logged Seagate.
 
 ## Double up with a dedicated island rod
 
