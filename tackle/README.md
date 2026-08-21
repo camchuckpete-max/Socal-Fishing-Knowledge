@@ -63,6 +63,7 @@
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md) — Tackle Express, "Penn Handle Knob Replacement Kits for your Penn Fathoms Torques and Squalls" (QQlQcPXARWk, uploaded 2024-02-09) — a 59-second shop-floor how-to
+- [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](tackle-express-premade-rock-cod-rig.md) — Tackle Express (aqZxUmefwcw, "Stop wasting time rigging on the boat!," uploaded 2026-03-31; unregistered channel, single mention — medium confidence).
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md) — Tackle Express (3z1KZ_kIaec, "Rockfish line secret: Save your money or splurge?," uploaded 2026-04-13; unregistered channel, single mention — medium confidence).
 - [Daiwa Saltiga 300 Round Jigging Reel — Hyperdrive Digi Gear, Hyper Double Support, Spool Lock (Tackle Express)](tackle-express-saltiga-300-round-jigging-reel.md) — Tackle Express, "This Jigging Reel is an Absolute TANK – Saltiga 300 Round," Wk4wKFLbWEQ, uploaded 2025-06-05 — a 142-second product feature rundown for one ree
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — Two Tackle Express clips comparing the same two reel lines, both presented by Harry (self-identified on camera in both), tackle-express unregistered channel — p
@@ -78,5 +79,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 68 notes exceed the 30-node cap._
+_Map skipped: 69 notes exceed the 30-node cap._
 <!-- mermaid:end -->

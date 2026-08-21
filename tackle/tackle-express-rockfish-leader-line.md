@@ -15,8 +15,9 @@ the full-length `S9sQ8Vg8-5o` video** ("Rockfish Tackle & Gear Guide,"
 sighting; both video IDs are logged here for the same underlying claim. A
 short parameter clip on what to tie the hook/leader line from
 for a **standard double-dropper-loop rockfish rig** — whether that's a
-premade Berkley or P-Line rock cod rig, or a simple double-dropper loop tied
-by hand (see [dropper loop — single vs. double
+premade Berkley or [P-Line rock cod
+rig](tackle-express-premade-rock-cod-rig.md), or a simple double-dropper loop
+tied by hand (see [dropper loop — single vs. double
 dropper](../techniques/dropper-loop.md#single-vs-double-dropper-duane-diego-mellor)
 for the build itself).
 
@@ -38,6 +39,9 @@ leader-lighter-than-braid rule for bottom rigs that snag and must break off.
 
 ## Related
 
+- [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle
+  Express)](tackle-express-premade-rock-cod-rig.md) — the packaged
+  alternative to tying this leader by hand.
 - [Dropper Loop](../techniques/dropper-loop.md) — the rig this leader line
   ties into, including the double-dropper-loop rock cod build.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md) — the species router.
@@ -53,5 +57,6 @@ leader-lighter-than-braid rule for bottom rigs that snag and must break off.
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](tackle-express-premade-rock-cod-rig.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 <!-- backlinks:end -->

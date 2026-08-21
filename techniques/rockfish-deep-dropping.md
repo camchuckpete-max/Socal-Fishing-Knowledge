@@ -438,6 +438,7 @@ the bite, read before you feel anything through the blank.
 
 - [Dropper Loop](dropper-loop.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](../tackle/tackle-express-premade-rock-cod-rig.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)

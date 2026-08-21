@@ -413,6 +413,11 @@ kept side by side as different mechanisms for the same goal, not merged.
   hook riding above the knot. The double pin gives holding power because
   **rockfish short-bite**, and it keeps the bait on. Two baited hooks fishing
   vertically often come up **two fish at once**.
+- **Premade alternative to tying either loop build by hand:** a packaged
+  [P-Line rock cod rig](../tackle/tackle-express-premade-rock-cod-rig.md)
+  ships with the gangion, top swivel, and a clip-on-swivel for the torpedo
+  sinker already tied — tie the main line to the top swivel, clip on a
+  sinker, bait, and drop.
 - **Simpler, swivel-free alternative build (Wendy Toshihara,
   SearcherSportfishing, `3gykKyPdOvA`, 2020-12-10; unregistered channel —
   medium confidence):** rather than a barrel swivel plus two hooks, tie two
@@ -555,6 +560,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](../tackle/tackle-express-premade-rock-cod-rig.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)

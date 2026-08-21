@@ -2624,7 +2624,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | done | skipped: pure store-promo/event announcement (toy drive), zero fishing knowledge content |
 | akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: added boatside-panic-moment bullet (fight-technique addendum), medium confidence |
 | akX66b5WGZA | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md; tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md: three-way jig-head comparison (open hook/brush guard, Neck Breaker swivel, BKK Titan Diver underspin) merged, de-duplicated between the two notes |
-| aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | pending |  |
+| aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-premade-rock-cod-rig.md (new) + cross-links from rockfish-leader-line.md and dropper-loop.md: P-Line premade rock-cod rig (two-swivel construction) |
 | au3EkXJswY8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | auiXY0R9ri8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | bB8zs0lXvvo | Tackle Express | tutorial | parameter-skim | pending |  |
