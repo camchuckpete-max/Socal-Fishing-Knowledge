@@ -2530,7 +2530,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | PcJUo7h8WQA | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / PK3/PK5 tail-spin update, hook swap, winter/neck-breaker rig, colors merged into PK-series section, medium confidence |
 | PciIsDkBgj4 | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md / merged fly-liner/J-hook hookset mechanics as attributed second Tackle Express clip, re-cut caveat noted, medium confidence |
 | PfHjk3G0yek | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: 29s auto-captioned fragment, only numbers reference off-screen diagram, no anchorable SoCal parameter |
-| Pn3BcC_IN9Y | Tackle Express | tutorial | parameter-skim | pending |  |
+| Pn3BcC_IN9Y | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: freshwater largemouth-bass topwater-lure clip (Jackall Pompadour Jr), no SoCal/Baja saltwater content, fails curation bar |
 | PnAnAS6QoG8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | PoTRe9SRjm8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | Pxky7drjPkU | Tackle Express | tutorial | parameter-skim | pending |  |
