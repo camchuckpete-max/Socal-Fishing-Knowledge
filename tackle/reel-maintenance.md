@@ -286,6 +286,12 @@ fixed count):
   the reel.
 - The toothbrush clears salt/debris from the tight spots before you re-grease.
 
+This general grease-and-clean discipline is what keeps a reel's own
+manufacturer-claimed gear/bearing durability features performing over time —
+see [CI4+ reel features — body, Infinity Drive, Infinity Cross, Anti-Twist
+Fin](tackle-express-ci4-plus-reel-features.md) for one unnamed reel's stated
+(not independently verified) claims along those lines.
+
 ## Winter lay-up — corrosion spray and gear grease (SearcherSportfishing, "Tackle Tip Thursday Vol. 27," `5IN1wsOFR-k`, 2018-12-20; unregistered channel — medium confidence)
 
 Two quick products for the stretch of winter when a reel sits idle rather than
@@ -409,6 +415,7 @@ or a compressed drag going into storage.
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)

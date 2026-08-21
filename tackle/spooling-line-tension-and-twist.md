@@ -128,5 +128,6 @@ without a dedicated tool:
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 <!-- backlinks:end -->

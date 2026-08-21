@@ -238,6 +238,7 @@ does the lookup.
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [<Your> Rods](../profiles/_template/rods.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md)

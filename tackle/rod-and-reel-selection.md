@@ -884,6 +884,7 @@ a bluefin).
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)

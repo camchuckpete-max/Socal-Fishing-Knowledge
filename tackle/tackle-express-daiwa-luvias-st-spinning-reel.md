@@ -68,5 +68,6 @@ in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
+- ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 <!-- backlinks:end -->
