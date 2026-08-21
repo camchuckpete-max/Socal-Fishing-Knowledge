@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4, bB8zs0lXvvo, qLKLlZdiflA]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4, bB8zs0lXvvo, qLKLlZdiflA, t0kkwlrNwHk]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -265,6 +265,21 @@ whether a bite converts.
   bluefin bite to the 100-lb mark aboard the *Shogun* — is in
   [Maxcuatro metered braid — Shogun trip](../tackle/tackle-express-shogun-maxcuatro-braid.md)
   (Tackle Express, sponsored/promotional — low confidence).
+- **Why multi-color (shorter-segment) marking beats a single 100 ft interval
+  for tuna specifically — the point is relocating a zone, not reading a depth
+  (Tackle Express, Ceasar Chang, `t0kkwlrNwHk`, "How Colored Braid Helps You
+  Catch More Fish | Ceasar Chang Explains," 2025-10-13; unregistered channel —
+  medium confidence):** dropping a jig for tuna, there's **no bottom to hit**,
+  so there's no depth reference to fish off. If the jig hesitates or stops on
+  the drop, note the **meter-mark color** you were on at that instant, work the
+  jig up or down through the area, and drop back down to that **same color**
+  to get back into the same zone — "that's where we know where the fish is
+  at." Stated preference: fish the **multi-color meter marks over the 100 ft
+  marks** for this reason. **100 ft marks are fine when you have a depth
+  reference and little current**, jig straight up and down — his example: down
+  at 400 ft, you're probably around 350–400 ft, "you're in the zone." It's the
+  no-bottom, current-affected tuna case where the finer multi-color marking
+  earns its keep over the coarser 100 ft interval.
 - **Corroborating framing — depth control as the single biggest beginner
   mistake (Steve Carson panel, PCS Show 2024, `UP_3fBu7VPA`, 2024-03-20;
   unregistered channel/speakers — medium confidence):** the panel calls
