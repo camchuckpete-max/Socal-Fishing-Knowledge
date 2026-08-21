@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8, RM7cBgCDWFA, QHY5kmU7OTU]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8, RM7cBgCDWFA, QHY5kmU7OTU, f22V2HCv8tI]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
@@ -133,6 +133,28 @@ suggestive; either way, **any such brand/product claim is promotional and
 treated as `low`** per the sponsored-claim rule — only the
 slide-up/reusable/replaceable-wing mechanism above is logged as a knowledge
 point.
+
+## Artificial alternative — "California Delta Flyer 350" (product ad, Tackle Express)
+
+Tackle Express, "Give the Big Bluefin what they want, California Delta Flyer
+350" (`f22V2HCv8tI`, 2024-02-09, 15 sec) — a straight product ad with no
+on-camera fishing footage or presenter identified; `tackle-express` is an
+unregistered channel and the entire clip is a sales pitch, so this is treated
+as **low** confidence per the sponsored-claim rule (not merely capped at
+medium).
+
+- Product: **"California Delta Flyer 350,"** an artificial flying-fish
+  imitation.
+- Two design points named on camera: a **built-in ("internal") floating
+  harness** — the float/harness appears to be molded into the lure rather
+  than rigged separately, unlike the skewer-and-harness builds above — and
+  **interchangeable wings**, echoing the replaceable-wings point already
+  logged for the "California Flyer" above.
+- Stated presentation range: can be **skipped, drifted, or slow-trolled**,
+  spanning the same skip/drift/slow-troll spectrum already covered by the
+  dead-boat (drift), trolled-rubber, and slide-up artificial options above.
+- No leader weight, hook spec, size, or price is given in the clip; kept here
+  as a bare product/feature listing, not fishery doctrine.
 
 ## Alternative wing-tie method — braid instead of zip ties (Logan Watson, SearcherSportfishing tutorial)
 
