@@ -2506,7 +2506,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | NBSJsN7uTKQ | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / added C3 Baits Shimmy rigging detail (hook-entry-matches-bend technique), medium confidence |
 | NF8AJjqsDO8 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: freshwater bass drop-shot color content at Castaic Lake, out of scope |
 | NGkXPkE8kWI | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: generic Huddleston Weedless Shad product-spec plug, no SoCal-specific content |
-| NGvwjJfAL2I | Tackle Express | tutorial | parameter-skim | pending |  |
+| NGvwjJfAL2I | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic filler/fragment, no extractable SoCal-specific parameter |
 | NJh9EadWA7Y | Tackle Express | tutorial | parameter-skim | pending |  |
 | NUlHwrBT61U | Tackle Express | tutorial | parameter-skim | pending |  |
 | NiEvdaHOHnM | Tackle Express | tutorial | parameter-skim | pending |  |
