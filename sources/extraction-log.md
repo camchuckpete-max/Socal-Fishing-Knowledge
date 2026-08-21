@@ -2809,7 +2809,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | yf7dEnzsNzQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md: new note, Hagane body/gearing/spec ladder, low confidence |
 | yl-AkO5S64o | Tackle Express | tutorial | parameter-skim | done | techniques/inshore-crankbaits.md; techniques/leadhead-swimbait-retrieve.md: third re-cut citation, no new doctrine, confidence held medium |
 | ywKI8gBK6vM | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass crankbait/riprap-bank combo talk, out of SoCal/Baja scope |
-| z1CS3To6ATA | Tackle Express | tutorial | parameter-skim | pending |  |
+| z1CS3To6ATA | Tackle Express | tutorial | parameter-skim | done | none: freshwater bass forward-facing-sonar/blade-bait/Diki-rig teaser, out of SoCal/Baja saltwater scope |
 | z5UoW9pntvE | Tackle Express | tutorial | parameter-skim | pending |  |
 | zItCqap4RdE | Tackle Express | tutorial | parameter-skim | pending |  |
 | zLN0v-gWpeI | Tackle Express | tutorial | parameter-skim | pending |  |
