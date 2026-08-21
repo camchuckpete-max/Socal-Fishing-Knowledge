@@ -2657,7 +2657,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | done | none: 33s pure promotional event-announcement, no fishing content, correctly skipped |
 | dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | done | none: 40s promotional/personal-reflection clip, no fishing knowledge |
 | eLwier3zVdo | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md: merged rod-length leverage/rail-hauling reasoning as third citation corroborating existing 7-7'6" range |
-| eMAM6cjzANI | Tackle Express | tutorial | parameter-skim | pending |  |
+| eMAM6cjzANI | Tackle Express | tutorial | parameter-skim | done | none: 72s auto-generated reaction clip, no extractable doctrine, correctly skipped |
 | eOLoHxoqk6E | Tackle Express | tutorial | parameter-skim | pending |  |
 | ejkr3z7xkJA | Tackle Express | tutorial | parameter-skim | pending |  |
 | enDs3G5bpDc | Tackle Express | tutorial | parameter-skim | pending |  |
