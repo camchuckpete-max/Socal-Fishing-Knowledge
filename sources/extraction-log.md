@@ -2749,7 +2749,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | pTenOTaHdUc | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 17s clip is only interjections, no fishing knowledge content |
 | pa0MS0GK_2o | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater trout/bluegill/crappie ultralight reel sizing content, out of SoCal/Baja saltwater scope |
 | ptwN9MUDxjk | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 18s on-the-water clip, fragmentary content only, no technique/gear/species detail |
-| q0it3pyUW6Q | Tackle Express | tutorial | parameter-skim | pending |  |
+| q0it3pyUW6Q | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-ci4-plus-reel-features.md; tackle/tackle-express-shimano-vanford-fa-reel.md; tackle/gear-classes.md / resolved reel identity (Shimano Vanford) across cBATKqWkQws/q0it3pyUW6Q/TjQuU-x8sHM via verified verbatim overlap, merged fuller Infinity Drive claim |
 | qHS-ewTQs9Q | Tackle Express | tutorial | parameter-skim | pending |  |
 | qKOmJH_WtJo | Tackle Express | tutorial | parameter-skim | pending |  |
 | qLDrhgE7-y0 | Tackle Express | tutorial | parameter-skim | pending |  |

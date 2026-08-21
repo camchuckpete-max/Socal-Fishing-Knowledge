@@ -935,7 +935,7 @@ a bluefin).
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
-- [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
+- [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Spinning-Reel Live-Bait Feeder — Mechanism & Use](spinning-reel-bait-feeder.md)
 - [Spiral-Wrap ("Acid-Wrap") Guides and Narrow Reels for Jigging Rods](jigging-rod-guide-wrap.md)

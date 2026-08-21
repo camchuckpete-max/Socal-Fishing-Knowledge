@@ -215,9 +215,10 @@ below rate normally):**
   see [Daiwa Luvias ST — Air Drive, carbon body, Mag
   Seal](tackle-express-daiwa-luvias-st-spinning-reel.md).
 - **A named-model spec fragment at the ultralight-spinning tier** (Shimano
-  Vanford FA — MGL rotor and CI4+ body, cut from a longer comparison video;
-  no size/application named): see [Shimano Vanford FA — MGL Rotor and CI4+
-  Body](tackle-express-shimano-vanford-fa-reel.md).
+  Vanford — MGL rotor, CI4+ body, and Infinity Drive, cut from a longer
+  multi-reel comparison video; no size/application named): see [Shimano
+  Vanford — MGL Rotor, CI4+ Body, and Infinity
+  Drive](tackle-express-shimano-vanford-fa-reel.md).
 
 ## Lure classes (cross-reference)
 
@@ -309,7 +310,7 @@ does the lookup.
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
-- [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
+- [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)

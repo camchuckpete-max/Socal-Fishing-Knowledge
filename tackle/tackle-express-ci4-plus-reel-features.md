@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [reels, shimano, ci4-plus, infinity-drive, infinity-cross, anti-twist-fin, gear-durability, tackle-express]
-sources: [TjQuU-x8sHM]
+tags: [reels, shimano, vanford, ci4-plus, infinity-drive, infinity-cross, anti-twist-fin, gear-durability, tackle-express]
+sources: [TjQuU-x8sHM, q0it3pyUW6Q]
 confidence: low
 ---
 
@@ -9,13 +9,21 @@ confidence: low
 
 Tackle Express, "Upgrade your fishing game with these game-changing reel
 features," `TjQuU-x8sHM`, uploaded 2026-05-29 — a 58-second, presenter-unnamed
-feature rundown for a single reel. **The reel's model name is never stated**
-in the captions, title, or (there is none beyond the title) description, so it
-is not asserted here — do not infer one. The feature set (CI4+ body, Infinity
-Drive, Infinity Cross, Anti-Twist Fin) is proprietary Shimano terminology and
-the clip itself references "the previous Stella generation" as the donor of
-one feature, so the reel is a Shimano model, but which one is unnamed in this
-source. Straight product-feature marketing copy with no technique, sizing, or
+feature rundown for a single reel. **Reel identity resolved (added
+2026-08-21):** a separate clip, "Is the Shimano Vanford actually worth the
+upgrade? Let's dive in.," `q0it3pyUW6Q` (uploaded 2026-05-27), closes on
+essentially the same Infinity Drive line `TjQuU-x8sHM` opens on (its opening
+line is the tail end of the CI4+ rigidity claim, immediately followed by that
+Infinity Drive line). The two clips read as re-cuts of one continuous source
+recording, and `q0it3pyUW6Q` names the reel on-camera as "the Vanford
+lineup" — so the reel this note describes is the **Shimano Vanford** (see
+[Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity
+Drive](tackle-express-shimano-vanford-fa-reel.md) for the fuller recording).
+Re-cut/duplicated footage is not independent confirmation of anything (per
+CLAUDE.md), so this identification doesn't raise this note's confidence — it
+only replaces "unnamed" with a name. The clip itself also references "the
+previous Stella generation" as the donor of the Infinity Cross feature.
+Straight product-feature marketing copy with no technique, sizing, or
 decision content — per the confidence rubric ("low — sponsored or promotional
 claim, regardless of channel") this note is capped at **low** in full, on top
 of `tackle-express` being an unregistered channel.
@@ -46,11 +54,12 @@ application (species/technique/line class) is given in this clip.
 
 ## Related
 
-- [Shimano Vanford FA — MGL Rotor and CI4+ Body
-  (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — a
-  **different, presenter-unnamed** clip's reel vs. this named model: the
-  Vanford FA clip makes the identical "2.5× more rigid than the first
-  generation" CI4+ claim independently.
+- [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive
+  (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md) — the same
+  reel, same source recording (see the resolved-identity note above); that
+  note covers the earlier portion (MGL rotor, CI4+ body, the start of
+  Infinity Drive) and this one picks up mid-Infinity-Drive and covers
+  Infinity Cross and the Anti-Twist Fin, which it does not.
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag
   (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) and
   [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal
@@ -64,9 +73,9 @@ application (species/technique/line class) is given in this clip.
   — the general line-twist-avoidance discipline this reel's Anti-Twist Fin
   claim is a manufacturer mechanism for, not a substitute for.
 - [Rod & reel selection](rod-and-reel-selection.md) — general application-based
-  reel sizing this unnamed product sits within.
+  reel sizing this product sits within.
 - [Gear classes](gear-classes.md) — the class-term lexicon this note can't
-  place the product against, since no size/class is stated in the source.
+  place the product against, since no size/class is stated in either clip.
 
 
 <!-- backlinks:start -->
@@ -75,5 +84,5 @@ application (species/technique/line class) is given in this clip.
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
-- [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
+- [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->

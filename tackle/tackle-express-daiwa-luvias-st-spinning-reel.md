@@ -71,5 +71,5 @@ in this clip.
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
-- [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
+- [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->
