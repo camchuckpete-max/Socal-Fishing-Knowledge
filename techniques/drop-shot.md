@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98, _XfScSliRVk, _rcxIWhNMSE, fHMwcm1xRQk]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98, _XfScSliRVk, _rcxIWhNMSE, fHMwcm1xRQk, nZfEB7466ys]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -81,6 +81,11 @@ For the tag-end weight below the hook, his stated preference is a
 **cylinder-style weight**. On material: **regular lead** does the job for
 him; he acknowledges **tungsten** works too and is "a little bit pricier"
 with "a lot more sensitivity," but he doesn't switch off lead himself.
+
+The cylinder-weight/lead-vs-tungsten portion of this segment (through "I
+love it") is also re-cut, verbatim, as its own short video, `nZfEB7466ys`
+(2026-04-22) — same footage, not independent confirmation. That re-cut stops
+before the camouflaging-lead tip below, which is unique to `_rcxIWhNMSE`.
 
 **Camouflaging lead weights** — a trick he credits to "a good pal of mine,
 DJ," done together "years ago": lay the lead weights on a paper towel and

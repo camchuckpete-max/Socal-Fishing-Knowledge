@@ -2727,7 +2727,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | nJPQVouJQ0g | Tackle Express | tutorial | parameter-skim | done | techniques/dropper-loop.md / confirmed re-cut of S9sQ8Vg8-5o re-drop/contour passage, added as duplicate-footage provenance note |
 | nORwiYXBQmQ | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / re-cut of K_0AeM4OvuE shift-mechanism demo, provenance note only, confidence unchanged |
 | nRIAgz5G_Bc | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; techniques/dropper-loop.md; techniques/sliding-sinker.md; rigging/leadhead-mods.md; lures/soft-plastic-swimbaits.md / Channel Islands WSB parameter-skim + provenance fix identifying nRIAgz5G_Bc as source of PnAnAS6QoG8/V4opuMirbDU re-cuts |
-| nZfEB7466ys | Tackle Express | tutorial | parameter-skim | pending |  |
+| nZfEB7466ys | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md / confirmed re-cut of _rcxIWhNMSE cylinder-weight/lead-vs-tungsten segment, provenance note only |
 | nizu9cpPXUs | Tackle Express | tutorial | parameter-skim | pending |  |
 | nlrSBi_hrrg | Tackle Express | tutorial | parameter-skim | pending |  |
 | nnQFIho8sa0 | Tackle Express | tutorial | parameter-skim | pending |  |
