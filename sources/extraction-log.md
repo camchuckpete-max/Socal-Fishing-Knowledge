@@ -2488,7 +2488,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | KamUiykeRlU | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / merged brand-lineup fit-variance and pain-test doctrine; trimmed redundant restatement |
 | KjVLn4cWHbc | Tackle Express | tutorial | parameter-skim | done | planning/electronics-and-sounder.md / added bullet on running/stacking sounder marks depth-by-depth before committing to a stop |
 | KqluHwsDicw | Tackle Express | tutorial | parameter-skim | done | none / generic freshwater bass wacky-rig/Texas-rig hook-set tip, out of SoCal/Baja saltwater scope, correctly skipped |
-| LAQZOoEUZA0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| LAQZOoEUZA0 | Tackle Express | tutorial | parameter-skim | done | none / promotional SKB backpack product spec/review, no SoCal/Baja fishing decision knowledge, curation bar excludes generic bags |
 | LB9sUjDcRUw | Tackle Express | tutorial | parameter-skim | pending |  |
 | LKOL9g-qhSM | Tackle Express | tutorial | parameter-skim | pending |  |
 | LRRoGT2W4WY | Tackle Express | tutorial | parameter-skim | pending |  |
