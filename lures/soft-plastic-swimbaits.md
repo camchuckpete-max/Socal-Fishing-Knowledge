@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -54,7 +54,10 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
 - **Lead-head swimbait** — the same class of bait on an exposed lead head to fish
   **deeper**: sink it **70 to 80 feet down for calicos** over structure; feeding
   fish rise to meet it. Not weedless, so fish it off the harder bottom/edges
-  rather than in the thick kelp.
+  rather than in the thick kelp. For California halibut, a 3-in swimbait on the
+  same class of head covers most use fishing deeper, worked on a count-and-pause
+  retrieve — see [leadhead swimbait
+  retrieve](../techniques/leadhead-swimbait-retrieve.md).
 - **Sizes:** a **5-inch** up ahead and a **7-inch** as the main lure is the split
   used on a double rig; 5"–7" covers most calico/sand-bass work. A **9-inch
   MC-class swimbait ("MC9")** was the pick for a first-time San Clemente
@@ -326,6 +329,7 @@ baits and heads from the class terms above; see
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

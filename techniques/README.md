@@ -22,6 +22,7 @@
 - [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Small-craft-specific execution for working calico bass and sand bass structure from a kayak — covering ground, using kelp as an anchor, and working boiler rocks
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
 - [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md) **[SoCal only]** — A count-and-pause retrieve for a leadhead + soft-plastic swimbait that keeps the bait working just off the bottom without a depth finder or a line-counter reel
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md) — The cast for getting an unweighted, fly-lined bait out and away from the boat: with no sinker to load the rod, a pendulum swing supplies the momentum weight wou
 - [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
@@ -52,5 +53,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 42 notes exceed the 30-node cap._
+_Map skipped: 43 notes exceed the 30-node cap._
 <!-- mermaid:end -->

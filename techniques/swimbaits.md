@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -246,6 +246,9 @@ than merged in:
   weedless is a **short, pinpoint cast** to the stringers you can see.
 - **Lead-head swimbait deeper:** sink the same class of bait **70 to 80 feet down
   for calicos** over structure — fish holding up and feeding will rise to meet it.
+  For California halibut, a distinct count-and-pause retrieve for the same
+  lead-head/swimbait combination is documented separately in
+  [leadhead swimbait retrieve](leadhead-swimbait-retrieve.md).
 - **Pitch-and-sink at the kelp base:** pitch a **1 oz black/gold jig** (a leadhead
   the source calls a "hook up bait" — brand name not confirmed) right at the base
   of the kelp line and **let it sink straight to the bottom**; the bite typically

@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -115,6 +115,7 @@ conditions that put one there.** (General search method:
 | **Casting from the surf** | **[Drop-shot](../techniques/drop-shot.md)** worked on a drag-then-shake cadence | Bay-bass / light bottom class | Drag a distance matching the target fish's length (22–30 in stated example), then shake out slack while reeling to move the lure forward; repeat to cover water — see drop-shot for the full rhythm |
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 | Open flats, casting from a boat or **from shore** | **Fast-retrieve hard bait** — a crankbait/jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | Inshore crank class | Halibut give chase and eat it moving; a slow bottom-bounce isn't the only presentation that works — see doctrine note below |
+| **Deeper water past where a shallow hard bait can run without digging in** | **[Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md)** — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom contact, repeat | Leadhead + soft-plastic swimbait class | 3-in swimbait covers ~90% of use fishing deeper; smaller baits favored in the harbor; not effective fished from the beach — a leadhead returns to bottom too fast for a mid-column swim there |
 
 - **HookUp Baits sizing for halibut, by water (Chad, HookUp Baits co-owner,
   also at the 2020 Fred Hall Show — `5Oh3IPIC5g4`; ⚠ promotional seminar
@@ -153,8 +154,12 @@ conditions that put one there.** (General search method:
   lure digs into the sand there and doesn't get bit. **Past that depth, the
   stated call is to switch presentations, not just lures:** at **10 ft of
   water** he reaches for a **leadhead and swimbait** instead of a hardbait,
-  calling it "much more effective," though no further mechanism is given for
-  that specific swap. A different presentation logic again from the
+  calling it "much more effective." The retrieve mechanics for that swap —
+  sink to bottom, three turns of the handle, pause and watch the line fall to
+  confirm bottom contact, repeat — are covered in a separate clip from the
+  same channel; see [leadhead swimbait
+  retrieve](../techniques/leadhead-swimbait-retrieve.md) (`OURS05qEGcA`). A
+  different presentation logic again from the
   structure-relating drift program and from the Brent/Aquatek fast-retrieve
   entry above — kept side by side, not reconciled, as a third attributed
   hard-bait/shore approach.
@@ -308,6 +313,7 @@ to 40–50 lb), orientation, and safety — see [gaffing](../fish-care/gaffing.m
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
