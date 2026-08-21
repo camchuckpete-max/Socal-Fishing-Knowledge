@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -236,6 +236,24 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   unpopular-looking color by the panelist's own account) is called out as
   one of the best colors for getting bit, especially in stained water,
   fished on a fast retrieve.
+- **PK3/PK5, the tail-spin update, and a PK3-specific hook swap** (Logan,
+  Tackle Express staff pick, `PcJUo7h8WQA`, 2024-11-26; unregistered
+  channel — medium confidence). General SoCal harbor fishing, not called out
+  as bay-bass-specific — "whether it's up north, down south, that [the
+  harbor] is where you will catch me fishing." Names **PK3** and **PK5** as
+  the sizes he fishes most, and confirms Kicker's **booty spin tail-spin is
+  now built into both the size-3 and size-5 PK models** (previously a plain,
+  tailless body).
+  - **Winter, bottom, on the neck breaker:** he likes this bait in winter
+    slow-rolled on the bottom, paired with the **neck breaker** head — and
+    notes it's **weedless** in that rig.
+  - **PK3 hook swap:** on the PK3 specifically — "a lot smaller of a
+    profile" than the PK5 — he instead pairs it with a **1/0 Owner Flashy
+    Swimmer** hook.
+  - **Fish the whole column:** surface, bottom, or anywhere in between —
+    not tied to one retrieve depth.
+  - **Colors — his named favorites:** **JJ**, **grass bass**, and **cowboy
+    minnow**, picked to "match the hatch" in the harbor.
 
 ### Tuna-foamer glide swimbait ("Mad Eel")
 
