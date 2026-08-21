@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0, Eo_bA8IWvyU]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0, Eo_bA8IWvyU, O49WsHP4Zh0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -42,6 +42,26 @@ fish sit is the router; this note owns the rig and how you feed the bite.
 - Match the sinker to the drift and the depth — just heavy enough to tick bottom.
   A fish that grabs the bait **pulls line through the sinker and feels nothing**;
   that is the whole point of the rig.
+
+**A long-leader, no-cast build (Tackle Express, `O49WsHP4Zh0`, 2026-04-27;
+unregistered channel, single mention — medium confidence).** No species or
+location is stated on camera; carried here as a general build variant, not
+tied to a location or fish. Water depth at the moment of filming was called
+out as **about 9 ft**, but no place name accompanies it.
+
+- **Leader: 4, 4½, or 5 ft** — longer than this note's general guidance above
+  and, in the presenter's own words, **"way too long for most people."** Kept
+  side by side with the shorter, situational leader lengths logged elsewhere
+  in this note (e.g. the ~6 ft Baja grouper leader, the 12–18 in
+  dropper-loop-style spacing, both further down) rather than reconciled into
+  one number.
+- **Drag: kept pretty loose** — "not too pinched down" — a looser setting than
+  the locked-down drag specified for the Lopez Mateos snook/grouper build
+  further down in this note; a different fishery and presumably a different
+  fish, so treat as a separate data point, not a contradiction.
+- **Deployment: no cast.** Rather than casting the rig, he uses the boat's own
+  movement to get distance — flops the bait out alongside the boat and lets it
+  sink from there.
 
 ## The squid version (Duane Diego Mellor)
 
