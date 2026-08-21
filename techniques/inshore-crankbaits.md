@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [crankbait, hard-bait, inshore, bass, calico, sand-bass, spotted-bay-bass]
-sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c]
+sources: [GVP3IChsmRQ, gH8JWhlqYqw, n6PTy8g3pb0, k4LCL9ALryA, 46ha7J1Fc6A, RUuPNpK0x-s, XyKF34C5iB4, lP6cg4eEU6s, 1e6Oz5rAwRU, Bok0db0G4xE, E4CDqBFOaP8, H5Z-Mqt4qXs, dNn8U9LbL8c, eOLoHxoqk6E]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -161,14 +161,24 @@ channel type, not as a doctrine-specific spot):
   to **white** when **the water's dirty or there's overcast**.
 - **A named floating bait he's fished the past couple years (resolved
   against the 2026-05-07 upload date to roughly 2024–2026):** a **Bassday
-  Gyokusai 97**. Stated as notable specifically because it **floats** yet
-  still **casts a distance** — floating baits are implicitly harder to
-  cast far, and he calls this one out as an exception. No running depth,
-  retrieve, or rigging detail is given on camera before the clip ends; not
-  enough is captured here to resolve whether it is fished in the
-  fast-channel scenario above or the shallower water the Lucky Craft Flash
-  Minnow doctrine covers — recorded as a named model, not a placed
-  technique.
+  Gyokusai 97** (named "bass day 97" in a second, closely related clip from
+  the same channel — `eOLoHxoqk6E`, 2025-11-28, part of the same Shannon
+  Gallagher surf-halibut series; unregistered channel — medium confidence).
+  Stated as notable specifically because it **floats** yet still **casts a
+  distance** — floating baits are implicitly harder to cast far, and he
+  calls this one out as an exception, crediting a **tungsten weight-transfer
+  system** and stating it casts **better than "those"** (the diving minnow
+  hardbaits, e.g. Lucky Craft-style, discussed earlier in the same clip).
+  **Where it's placed (the `eOLoHxoqk6E` clip resolves this):** he reaches
+  for a floating bait specifically when fishing **1–2 ft of water on a flat
+  beach** and wants the **longest possible cast** to cover water — the
+  opposite case is a beach with a **trench right in front of him** holding
+  the fish, where he doesn't need extra distance and casting past the fish
+  would be counterproductive. This places it in the same shallow-skinny-water
+  family as the Lucky Craft Flash Minnow doctrine (both keep the bait up and
+  out of the sand), with the floating Gyokusai 97 as the pick when maximum
+  cast distance is also needed. No specific retrieve or rigging detail is
+  given in either clip.
 
 ## Rigging
 

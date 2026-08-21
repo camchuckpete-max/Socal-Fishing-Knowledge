@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut, hard-bait, treble-hook, angler-safety]
-sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY]
+sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY, eOLoHxoqk6E]
 confidence: medium
 ---
 
@@ -79,6 +79,20 @@ out — not a safety claim in that source, but the same hardware fact).
   simply to **be extra careful** unhooking hard baits until they have it.
 - No specific hand-placement or grip technique is given beyond the
   long-hemostats point above — the clip is 40 seconds and stops there.
+
+**The mechanism, from a companion clip in the same halibut series (Tackle
+Express, `eOLoHxoqk6E`, 2025-11-28; unregistered channel, single mention —
+medium confidence):** fills in *why* a landed hard-bait halibut is
+dangerous, which `c_60Ms3QSMY` above names but doesn't explain. His stated
+figure: **90% of the time halibut eat a hard bait from the side and the
+bottom**, not from behind/the tail as a first-time angler expects. That
+strike geometry pins the **front hook in the corner of the fish's mouth**
+while the **rest of the plug — including the back treble — dangles free**
+alongside the boated fish. Working a fish in that state, the free back
+treble is what "will come back and get you in the hand" — his stated phrase
+for the outcome is **"getting married to the fish."** Same core advice as
+`c_60Ms3QSMY` (be careful, this can ruin your day fast), with the strike-
+geometry reason added.
 
 ## Measuring a fish you may release
 

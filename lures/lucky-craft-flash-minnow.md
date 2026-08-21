@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [lucky-craft, flash-minnow, hardbait, jerkbait, minnow-lure, halibut, surf, color-selection]
-sources: [E4CDqBFOaP8, Qqdt6f8Mjd4, XfpUV_z5gFI]
+sources: [E4CDqBFOaP8, Qqdt6f8Mjd4, XfpUV_z5gFI, eOLoHxoqk6E]
 confidence: medium
 regions: [socal-bight]
 waters: [nearshore-coast]
@@ -74,6 +74,24 @@ come up and eat it. His stated point is that this same white belly, on a
 lure, is why he rates **solid white** as "a really, really good reaction
 bait color" for halibut specifically. Kept here as an attributed theory, not
 asserted as confirmed KB doctrine.
+
+## Hooks, hardware, and connection (Tackle Express, `eOLoHxoqk6E`, 2025-11-28; unregistered channel, single mention — medium confidence)
+
+- **Stock hooks swapped for Owner ST46TN trebles.** Stated reason: he doesn't
+  like the hooks the bait ships with. The Owner ST46TN is described as a
+  "little wide gap treble," very sharp, with a "little needle point."
+- **Downsized to a number 2 split ring — and this is stated as the bait's
+  only flaw.** On a stock Lucky Craft 110, the front two hooks sit close
+  enough together that they can hook onto each other ("get stuck together").
+  His fix is running a **smaller (number 2) split ring** on the front hook
+  specifically to cut down how often that happens — not eliminate it, "keep
+  it from doing that so often."
+- **Terminal connection: Fish Kicker 25 lb quick clips.** A snap-style clip
+  he fishes the bait on rather than tying direct — one small arm hooks into
+  the bait's line-tie eye, and pushing on the back of the clip loads the
+  bait onto it. Stated reasons: easy and simple to use, loops on quickly, and
+  **no cross-lock to come unlocked** (contrasted implicitly with a cross-lock
+  snap design). Comes packaged in a small kit he keeps in the tackle box.
 
 ## How to fish it
 

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice, halibut, durability, tube-bait]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8, eOLoHxoqk6E]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -216,6 +216,38 @@ rig, rigged with a hook of the angler's choice (captions render one option as
   class. He also notes that when running this technique, his other rods are
   typically rigged with a [dropper loop](../techniques/dropper-loop.md) and
   squid instead — no trip or date specifics given.
+
+### Swing-style head casting mechanics — outcasting a standard leadhead (Tackle Express, `eOLoHxoqk6E`, 2025-11-28; unregistered channel, single mention — medium confidence)
+
+A distinct, casting-focused observation about the **Warbaits Neck Breaker**
+and similarly hinged "swing style" heads — not a rigging fix, a stated
+casting-performance note — rigged in this clip with a
+[Kicker/Pickle Kick](../lures/soft-plastic-swimbaits.md) plus a small flashy
+swimmer trailer:
+
+- **Stated result: it consistently outcasts a lot of his standard leadhead
+  presentations.** He does not attribute this to weight or head shape alone.
+- **His stated (uncertain) mechanism:** something about the way the head
+  **folds when cast** — he describes it either getting "a little shot" out
+  of the fold or folding back on itself — that he credits with the extra
+  distance, while explicitly saying he isn't sure exactly what it's doing
+  ("I don't know what it does, but it seems that it consistently outcasts").
+  Recorded as a stated but unresolved mechanism, not confirmed doctrine.
+- **Scope, echoing the point-reefs/heavy-structure doctrine above:** he
+  frames the Neck Breaker as his go-to when shore fishing a leadhead and
+  swimbait and wanting it weedless, calling it "the cleanest way to fish" and
+  saying nothing about its presentation irks him — consistent with, not a
+  new claim beyond, the weedless/clean-presentation reasoning already logged
+  above from `1e6Oz5rAwRU`.
+
+**Bait brand name for the Scrounger/ChatterBait halibut swap above:** the
+same clip names the specific hover-strolling-style soft plastic as a
+**Bassrix Hover Tricks** — a bait "designed to be hover strolled for
+freshwater bass" that he instead rigs on a chatterbait head or a Scrounger
+head for halibut, describing it as having the same swimming action as a
+minnow hardbait but with one big single hook, and it sinks. This fills in
+the bait's brand name for the Scrounger/ChatterBait swap already logged
+above from `Bok0db0G4xE`, which named the heads but not the plastic.
 
 ## Rig it
 

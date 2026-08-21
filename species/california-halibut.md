@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast]
@@ -116,6 +116,7 @@ conditions that put one there.** (General search method:
 | **Covering flats under power** (no drift-friendly wind/current) | **⚠ Flagged stub — no corpus source yet.** **Bounce-ball trolling** (trolled ball weight ticking the sand ahead of a hoochie/swimbait) is a standard SoCal coastal-flats halibut method | Light troll / bottom class | No corpus source covers it yet — flagged pending new sources (expected ~400-video batch); stubbed per the router rule so silence doesn't read as "not a method" |
 | Open flats, casting from a boat or **from shore** | **Fast-retrieve hard bait** — a crankbait/jerkbait ([inshore crankbaits](../techniques/inshore-crankbaits.md)) wound noticeably **faster than instinct suggests** | Inshore crank class | Halibut give chase and eat it moving; a slow bottom-bounce isn't the only presentation that works — see doctrine note below |
 | **Deeper water past where a shallow hard bait can run without digging in** | **[Leadhead swimbait retrieve](../techniques/leadhead-swimbait-retrieve.md)** — sink to bottom, three turns of the handle, pause and watch the line fall to confirm bottom contact, repeat | Leadhead + soft-plastic swimbait class | 3-in swimbait covers ~90% of use fishing deeper; smaller baits favored in the harbor; not effective fished from the beach — a leadhead returns to bottom too fast for a mid-column swim there |
+| **Open bay/beach water, want a multi-bait reaction rig** | **A-rig** — a **Warbaits mini rig**, worked **aggressive from the first cast** | Heavier bass class (A-rig variant — [gear classes](../tackle/gear-classes.md)) — see [swimbaits — umbrella rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro) for rig hardware | Stated call: don't start slow and work up to aggressive, start aggressive; halibut are shown chasing it down, not lazily eating it dead-slow on the bottom |
 
 - **HookUp Baits sizing for halibut, by water (Chad, HookUp Baits co-owner,
   also at the 2020 Fred Hall Show — `5Oh3IPIC5g4`; ⚠ promotional seminar
@@ -178,6 +179,33 @@ conditions that put one there.** (General search method:
   on camera) Japan/flounder-fishing tackle-lineage aside, is kept with the
   lure it was recorded alongside — see [Lucky Craft Flash Minnow — color
   selection](../lures/lucky-craft-flash-minnow.md#color-selection-tackle-express-qqdt6f8mjd4-2026-05-09-unregistered-channel-single-mention-medium-confidence).
+- **A second reaction-bait color family, beyond the hardbait white/pink call
+  above — white, chartreuse, pink, and mint (Tackle Express, `eOLoHxoqk6E`,
+  2025-11-28; unregistered channel, single mention — medium confidence):**
+  for soft-plastic reaction baits specifically (not the Lucky Craft-style
+  hardbait covered above), his stated pick is this four-color family —
+  "there's something about those four colors that if you just choose that as
+  a solid color, you will get bit." Kept side by side with, not merged into,
+  the hardbait white/pink-belly color entry above since it's framed for a
+  different bait class. He separately floats an unresolved, explicitly
+  labeled **theory** (not asserted as fact) for why solid white in
+  particular draws bites: a halibut lying on the bottom looking up mostly
+  sees a baitfish's **white belly**, and in that below-the-bait position the
+  halibut already has "a complete advantage" (camouflaged, fast, positioned
+  to strike) — so a solid-white lure reads as an easy, energy-efficient
+  meal. **A-rig retrieve speed — start aggressive, not slow (same source):**
+  fishing a **Warbaits mini rig** (a smaller, more portable A-rig he carries
+  fishing out of a fanny pack, versus a bigger rig he otherwise prefers),
+  his stated instruction is to fish the **first cast aggressively** rather
+  than starting slow and working up to aggressive if the slow presentation
+  doesn't produce — explicitly framed as pushing back on an A-rig's "lazy"
+  reputation. **Observed** (same video, same session): fishing the mini rig
+  slow with occasional single handle-turns produced no bites and fish
+  missing it; switching to **burning it and pausing** in glassed-off water
+  drew a **visible deep roll/surface disturbance behind the lure on every
+  pause**, and the **fourth bite** hooked a fish described on camera as big.
+  Recorded as a single-session account illustrating the aggressive-retrieve
+  doctrine just above, not independent confirmation beyond it.
 
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
