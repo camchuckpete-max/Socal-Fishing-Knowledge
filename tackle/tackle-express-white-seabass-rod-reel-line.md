@@ -71,6 +71,7 @@ mods](../rigging/leadhead-mods.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

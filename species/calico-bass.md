@@ -660,6 +660,7 @@ release *ethic* and the regional policies are below.
 ## Linked from
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Barred Sand Bass](sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)

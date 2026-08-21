@@ -42,10 +42,16 @@ uploaded 2026-07-08 — a 55-second tackle-counter clip. `tackle-express` is an
 - [Gear classes](gear-classes.md#rod--reel-classes) — **utility inshore /
   baitcast class** is the closest existing class-lexicon row for the named
   reels here.
+- [Baja light setup — yellowtail insurance](tackle-express-baja-light-setup-yellowtail-insurance.md) —
+  a companion clip that puts real numbers (15–30 lb rod, Tranx 400, 50 lb
+  braid, 15 ft/40 lb fluoro leader) on a light bass/halibut rod fished as
+  yellowtail insurance, rather than this clip's general casting-reel
+  recommendation.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Yellowtail](../species/yellowtail.md)

@@ -45,6 +45,7 @@
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md) — Tackle Express, "The New Accurate Tern 2 is a Smooth Reel," 46kVgZ6P62M, uploaded 2022-08-02 — a 3:49 interview at the Tackle Express counter (host "Harry") wit
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Tackle Express, "Meet the Accurate Valiant 2 SPJ – Built for Slow Pitch Power!," A6-KPjRwGSQ, uploaded 2025-06-24 — a 92-second product feature rundown for one
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md) — Tackle Express (IcS7QbJlSDA, "Stop wasting time at the bait tank when the bite is ON!," uploaded 2026-03-25, 36 s; unregistered channel — medium confidence).
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md) — Tackle Express, "Master your Baja setup: The ultimate light gear guide for yellowtail and more," SL4zZbzdXNA, uploaded 2026-05-08 — a 40-second tackle-counter c
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md) — Tackle Express, "Unlock Backlash-Free Casts: Harry's Take on Bates EDC 100 Reel & D.A.B.
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md) — Tackle Express, "Level Up Your Swimbait Game with THIS Hook" (L_YH_xT7Pfs, uploaded 2025-06-23, 93 s) — a straight product-feature rundown of two BKK swimbait-h
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md) — Tackle Express, "Ditch the heavy tuna gear for your next trip!," QEmxUIGmKbo, uploaded 2026-07-08 — a 55-second tackle-counter clip.
@@ -70,5 +71,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 60 notes exceed the 30-node cap._
+_Map skipped: 61 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -1373,6 +1373,14 @@ water temp and bait depth before committing the day to one face.
   lures out and makes for a better day. See [casting reel for sea bass and
   yellowtail](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
   (QEmxUIGmKbo).
+- **Light bass/halibut rod, leader upsized as yellowtail insurance:** a
+  15–30 lb class rod (Shimano Tranx 400), 50 lb braid (~300 yd), 15 ft of
+  40 lb fluorocarbon leader — the rod stays light for its bass/halibut
+  application, and only the leader goes past the rod's 30 lb top rating, for
+  abrasion resistance against an incidental yellowtail. See [Baja light
+  setup — yellowtail
+  insurance](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
+  (SL4zZbzdXNA).
 - **Yo-yo:** a stout **40–60 lb class** rod with a **high-speed reel** to burn a
   heavy iron (Salas 6X class) off the bottom.
 - **Dropper loop:** same heavy class rod, live bait to a
@@ -1486,6 +1494,7 @@ water temp and bait depth before committing the day to one face.
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [April](../seasonal/april.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)

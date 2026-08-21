@@ -160,6 +160,7 @@ rocks.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)

@@ -241,6 +241,7 @@ does the lookup.
 - [<Your> Rods](../profiles/_template/rods.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md)
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
