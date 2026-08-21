@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4, gFx8BXU2vkY]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -446,6 +446,28 @@ name):
   you're not trying to fine-tune, either will produce.
 - **Stock hooks on both are treated as a starting point to replace, not
   fish as-is** — see the hook-swap doctrine below.
+
+### A stated reason more fall-action pulls bigger, "lazier" fish (Tackle Express, `gFx8BXU2vkY`, "The secret to triggering strikes from trophy-sized, lazy fish," 2026-04-06; unregistered channel, single mention — medium confidence)
+
+Very short clip; the jig being described and what it's being compared against
+are both off-camera (the transcript opens mid-sentence), so no model name or
+weight is attached to this reasoning — carried here as a mechanism only, not
+a product pick.
+
+- **The stated mechanism:** a jig with "completely different action" —
+  **both ends wiggling on the way down**, more vibration — is reasoned to
+  draw fish from a **bigger area** than a lower-action jig, and specifically
+  to draw the **bigger fish in that area**, because they're watching from
+  farther off. A bigger fish reportedly watches the jig hit the surface and
+  fall the whole way, then sees it go still on bottom and reads that stillness
+  as an easy, already-beaten meal — "big lazy fish" that don't want to work
+  for a bite go grab it once it stops, if they haven't already eaten it on
+  the way down.
+- Consistent with, not new beyond, this note's **flutter-vs-dart** framing
+  above (wide-flutter wing-fall profiles get bit on the fall, more so than a
+  dart-style speed jig) — this citation's addition is a stated *why* for the
+  connection between more fall action and bigger fish specifically, which the
+  existing fall-behavior entries above don't give a reason for.
 
 ## Color — mostly angler confidence, with one real mechanism
 

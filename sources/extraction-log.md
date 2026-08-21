@@ -2675,7 +2675,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | fnaGBGbrhqU | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md / merged trigger (seabirds + wide-open bite) and bait shape (three-piece hard bait) into the existing triple-trout citation, hedged against the unconfirmed same-trip assumption |
 | foLSQJ5oRWI | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md / Third re-cut of the Cesar Chang FG-vs-PR-knot interview appended as a dated correction block to the existing pr-knot note; confidence held at medium, sources array updated, no new note created |
 | g5yDzjORhho | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md; lures/soft-plastic-swimbaits.md / Added War Baits Slayer/Pickle Kick open-hook rigging steps (exit-point marking, insertion, finish, straight-track/bite-rate reason) and cross-linked a named-example pointer |
-| gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | pending |  |
+| gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / merged single-clip stated-mechanism rationale (more fall action draws bigger, lazier fish) into knife-jigs.md's existing fall-behavior discussion, capped at medium confidence |
 | gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | pending |  |
 | gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | pending |  |
 | gg1W2lLwm34 | Tackle Express | tutorial | parameter-skim | pending |  |
