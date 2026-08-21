@@ -60,10 +60,14 @@ extracted.
 - [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle
   Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md) — the other
   Tackle Express note presented by the same staffer, Chad.
+- [HOW Co Split-Ring Pliers (Tackle Express)](tackle-express-how-co-split-ring-pliers.md) —
+  the other pliers product on this channel, covering split rings rather than
+  hook removal.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
 - [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](tackle-express-chad-fathom-lowprofile-surf-combo.md)
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)

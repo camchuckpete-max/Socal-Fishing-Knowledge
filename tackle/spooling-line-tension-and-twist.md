@@ -50,7 +50,10 @@ fluorocarbon directly onto the reel as your working line, instead of an
 actual spooling line sized for casting, "is going to be like casting a hay
 bale" — a fluffy, tangled mess off the spool. Leader material stays leader
 material — tie it on at the business end (see [line & leader](line-and-leader.md))
-rather than filling the reel with it.
+rather than filling the reel with it. A related, separate point — how to keep
+bulk/leader-spool line itself from turning into a tangled mess in storage,
+rather than on the reel — is in
+[Maxima Shark Tooth — leader-spool band & cutter](tackle-express-maxima-shark-tooth-leader-tool.md).
 
 ## Line twist — a spinning-reel-specific mechanism
 
@@ -191,6 +194,7 @@ reel types; kept side by side rather than merged into one number.
 
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)

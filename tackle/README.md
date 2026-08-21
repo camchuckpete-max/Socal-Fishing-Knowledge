@@ -58,10 +58,12 @@
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
 - [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md) — Tackle Express, "Is your rod costing you fish?
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md) — Tackle Express, "The secret to rigging surf baits faster than ever" (k23JzE3Fr-I, uploaded 2026-05-13) — a 45-second clip; presenter not named on camera or in t
+- [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md) — Tackle Express, "Tackle Express New Products May 5, 2019" (sPgP0aBUQm8, uploaded 2019-05-01), presenter self-identified on camera as "Chad from Tackle Express"
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Tackle Express, "A look at ICAST 2022 - The World's Largest Fishing Tradeshow," 75lUj-uaArQ, uploaded 2022-08-06 — an 85-minute booth-to-booth walk of the 2022
 - [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Tackle Express (Harry, Ecqt-ZLnvaU, "Why Izorline XXX Is THE Go-To Mono for Anglers," uploaded 2025-06-17; unregistered channel, explicit shop/product promotion
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md) — Tackle Express, "Turn your jig stick into a trolling machine!," BNp-gSOpWBw, uploaded 2026-05-19 — a 39-second tackle-counter clip.
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) — Tackle Express (Harry, on camera; UbbkPKZ8_W4, "PowerPro Maxcuatro vs Depth-Hunter Offshore: Which Line Should You Spool?," uploaded 2025-06-23, 105 s).
+- [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md) — Tackle Express, "Tackle Express New Products May 5, 2019" (sPgP0aBUQm8, uploaded 2019-05-01), presenter self-identified on camera as "Chad from Tackle Express"
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](tackle-express-minnow-rod.md) — Tackle Express, "The essential rod for vertical minnow fishing is revealed!," Pxky7drjPkU, uploaded 2026-02-13 — a 34-second tackle-counter clip.
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
@@ -88,5 +90,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 78 notes exceed the 30-node cap._
+_Map skipped: 80 notes exceed the 30-node cap._
 <!-- mermaid:end -->

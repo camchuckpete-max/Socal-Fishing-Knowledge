@@ -685,6 +685,7 @@ able to break off** (aXF0bxAFtU0):
 - [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](../rigging/john-collins-knot.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md)
+- [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
