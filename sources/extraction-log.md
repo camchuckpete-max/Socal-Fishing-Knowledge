@@ -2729,7 +2729,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | nRIAgz5G_Bc | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; techniques/dropper-loop.md; techniques/sliding-sinker.md; rigging/leadhead-mods.md; lures/soft-plastic-swimbaits.md / Channel Islands WSB parameter-skim + provenance fix identifying nRIAgz5G_Bc as source of PnAnAS6QoG8/V4opuMirbDU re-cuts |
 | nZfEB7466ys | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md / confirmed re-cut of _rcxIWhNMSE cylinder-weight/lead-vs-tungsten segment, provenance note only |
 | nizu9cpPXUs | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic packing/logistics content only, no SoCal/Baja fishing knowledge |
-| nlrSBi_hrrg | Tackle Express | tutorial | parameter-skim | pending |  |
+| nlrSBi_hrrg | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md / third re-cut citation, payoff framing for 8-carrier braid, confidence held at medium |
 | nnQFIho8sa0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ntS17IEKyJ0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | nwjIEWJyjKU | Tackle Express | tutorial | parameter-skim | pending |  |

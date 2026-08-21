@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [spinning-reel, wind-knots, casting, braid, bail]
-sources: [WeabGOvhgto, cAZRaGB_RRM]
+sources: [WeabGOvhgto, cAZRaGB_RRM, nlrSBi_hrrg]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -20,6 +20,18 @@ Spinning Reels With This Simple Habit" (`cAZRaGB_RRM`, uploaded
 2026-01-13). Tackle Express is an unregistered channel, so repeated doctrine
 still caps at medium confidence (registry rule: unregistered channels cap at
 medium regardless of repetition).
+
+**A third, shorter Tackle Express clip restates the same rule and adds the
+payoff framing** ("Tired of frustrating wind knots? Here is the secret to
+perfect casts.," `nlrSBi_hrrg`, uploaded 2026-06-23, 25 s): "if you leave
+loose line in the wind... you will have wind knots," and the fix is the same
+one — "keep your line tight." Read as the same doctrine re-cut rather than
+independent confirmation (channel caps at medium regardless). The clip's own
+framing for *why* to bother managing it: mastering it is what "you can be
+fishing on another level with," running "really high-quality eight-carrier
+braid" for "the best presentation you possibly could" — the same
+eight-carrier-braid example already used in this note, here tied explicitly
+to the presentation payoff rather than just named as the line on the reel.
 
 ## Reach for this when
 
