@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -374,6 +374,11 @@ must stay vertical** for bite sensitivity — a jig scoped out toward the
 horizon reads as no bites, not as "not fishing here"; correct it by flicking
 the jig up-swell of the drift so it sinks back toward vertical as the boat
 comes onto it, rather than fighting a jig that's already trailing away.
+This footage was also re-cut and re-uploaded as the short `XxN7EzNDnf8`,
+"Unlock the Secret to Catching Monster Lingcod with This Jig Technique!"
+(2026-04-07) — the same species list (vermilion, reds, chuckleheads) and the
+same sink-to-bottom/one-or-two-turns/lift-and-let-it-flutter cadence, word
+for word, not independent corroboration.
 
 **Dedicated large-profile lingcod-only baits, named but not detailed on
 camera (same source):** "**Ling Cod Killers**" — the **Living Squid** and the
