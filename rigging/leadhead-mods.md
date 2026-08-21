@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU]
+tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -138,6 +138,43 @@ repeated across two videos rather than two independent confirmations.
   fish are active and there is current, especially when expecting a swim-through.
 - Can also be fished from the rod holder in current with a lighter head — let it
   waft mid-column and it will get eaten.
+
+### Warbaits Neck Breaker — a compact jig-head alternative to the sliding sinker (Shannon Gallagher, Tackle Express)
+
+Shannon Gallagher, Tackle Express, `KUsFT7tN-x0`, 2025-06-10 (speaker named in
+the video title, not on camera — title wins over auto-captions per the ASR
+rule); unregistered channel — `medium` confidence. Introduced as the segment
+right before the video moves on to a separate spinning-rod topic — the
+transcript does not establish that the Neck Breaker itself is fished on a
+spinning outfit, so gear class (spinning vs. conventional) is left unstated.
+A squid presentation he now reaches for **instead of** a sliding (egg) sinker
+rig, rigged with a hook of the angler's choice (captions render one option as
+"OY hook" — unconfirmed, name omitted) or a **large Owner Reaper hook**.
+
+- **The problem with the sliding sinker he's replacing:** fishing a sliding
+  egg sinker on **braid to a fluorocarbon leader**, the sinker rides up the
+  main line and **gets stuck above the braid-to-fluoro splice** — it can't
+  slide all the way down to the hook the way it would on a straight mono/
+  fluoro line. The result is an unintentionally long leader between weight and
+  bait — he calls it a **"weird accidental Carolina rig"** — rather than the
+  compact, weight-near-the-bait presentation he wants. See
+  [hollow-core splice & serving](hollow-splice-and-serving.md) for the
+  braid-to-fluoro connection this problem shows up on, and
+  [sliding sinker](../techniques/sliding-sinker.md) for the rig it replaces.
+- **Why the Neck Breaker fixes it:** because the weight is built into the head
+  right at the hook, there's no separate sliding sinker to migrate up the line
+  and hang on the splice — squid and weight stay in one compact presentation
+  all the way to the hook.
+- **Stated secondary benefit:** it **keeps the squid riding upright and not
+  spinning**, unlike a squid fished behind a free-sliding egg sinker.
+- **Stated equivalence:** he frames it as **the same effective presentation as
+  a sliding sinker**, not a different technique — a compact substitute for the
+  same job, not an upgrade in action or hook-up style.
+- Context: he brings this up immediately before the video's separate
+  spinning-rod segment, not as a claim about the Neck Breaker's own gear
+  class. He also notes that when running this technique, his other rods are
+  typically rigged with a [dropper loop](../techniques/dropper-loop.md) and
+  squid instead — no trip or date specifics given.
 
 ## Rig it
 

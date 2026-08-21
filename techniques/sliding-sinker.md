@@ -467,6 +467,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Kite Fishing](kite-fishing.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

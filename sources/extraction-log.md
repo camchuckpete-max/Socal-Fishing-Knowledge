@@ -2483,7 +2483,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | JmGT0zAaVOY | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md; tackle/reel-maintenance.md / new note on spooling tension/line-twist mechanics, cross-linked from reel-maintenance.md |
 | K50W5KaBN4E | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass finesse-rig tutorial, out of SoCal/Baja saltwater scope, correctly skipped |
 | KFdvKXTHSeU | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / added Zoom Fluke nose-entry/shank-exposure rigging detail for underwater walk-the-dog action |
-| KUsFT7tN-x0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| KUsFT7tN-x0 | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md / added Warbaits Neck Breaker jig-head alternative to sliding-sinker section; fixed unsupported spinning-rod inference |
 | K_0AeM4OvuE | Tackle Express | tutorial | parameter-skim | pending |  |
 | KamUiykeRlU | Tackle Express | tutorial | parameter-skim | pending |  |
 | KjVLn4cWHbc | Tackle Express | tutorial | parameter-skim | pending |  |
