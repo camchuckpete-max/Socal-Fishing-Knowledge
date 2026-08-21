@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [knife-jig, slow-pitch, speed-jig, vertical, bluefin, yellowtail, assist-hook, baja, sea-of-cortez]
-sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8]
+sources: [cameron, OHxbPovgvgc, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, U4zifdssSes, unARAuTgF_A, M8hOYQ_6rSg, RbqOKkINSCM, scmPq63lLWM, UfuiWFVvz2E, -nIhadZwxAA, G1YIlakiRqg, gimFbgN5Jjk, 0E9REoTjKrY, 6_E5JCRvazc, AyN9MBWg-XY, E9YtH56Dngo, jLFZIh15Fec, pm8u6qUrVUI, 5XWnm7ok09k, BsWb5BQ1Tdc, S9sQ8Vg8-5o, XxN7EzNDnf8, ZrcwcugaEe4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -76,6 +76,40 @@ behavior**:
   fall-triggered bite rather than knife-jigging's pump/rip-triggered one — a
   reminder not to assume a jig's fall behavior from its model-line branding
   or popularity, and to check it directly.
+  - **Source identified, plus added detail (2026-08-21 correction):** this
+    clip is a re-cut of a fuller 37-minute Tackle Express interview, "Slow
+    Pitch vs. Speed Jigging: Basics & Gear Breakdown with Ceasar Chang!"
+    (`ZrcwcugaEe4`, uploaded 2025-03-07, about three weeks before this
+    short clip) — same Nomad Streaker / "nature boys" / Shimano flat-side
+    speed-jig examples, and the same Rip Roller-is-actually-a-slow-jig
+    correction, spoken by the interview's named guest **Cesar Chang**
+    (human-typed video title, per this KB's ASR-hazard rule). Treat
+    `5XWnm7ok09k` and `ZrcwcugaEe4` as **one source appearance**, not
+    independent repetition, when weighing confidence — though this is
+    likely the same **Cesar** already registered as `cesar` in
+    `sources/source-registry.md` (Dirty Hookers rod-company rep), whose
+    `M8hOYQ_6rSg` "visual/profile tell" a few bullets above genuinely is a
+    second, independent appearance on a different channel corroborating the
+    same back-weighted-speed-jig / center-weighted-slow-jig distinction —
+    a real repetition, unlike the Tackle Express re-cuts. **Two mechanical
+    details the fuller interview adds, not in the `5XWnm7ok09k` clip:** (1)
+    the Rip Roller specifically carries **two single hooks, one on each
+    end** — the physical tell, alongside the finger-balance test, for a
+    slow/wing-fall jig built to "rock and roll" and flutter/shimmy rather
+    than dart; (2) a speed jig's flat-side/round-side cross-section is
+    built to **pivot on its back (tail) end** as the rod pumps — "the head
+    rocks back and forth... darts up, darts up, darts up" — which is the
+    stated mechanism for why a back-weighted profile produces the
+    dart-on-the-retrieve action this note documents above, versus a
+    center-weighted profile's fall flutter.
+  - **Bite-ratio quantification, same interview (Cesar Chang, `ZrcwcugaEe4`,
+    2025-03-07; medium confidence, single appearance):** asked to estimate
+    the split, Cesar puts a **slow-pitch jig at roughly 85% of bites on the
+    fall, 15% on the retrieve**, and a **speed jig at roughly 85% of bites
+    on the pump** (retrieve) — a rough numeric estimate, not a measured
+    count, but consistent with this note's fall-vs-dart fall-behavior
+    framing above and with the fall-timing splits already logged for
+    bluefin in [knife/speed jigging](../techniques/knife-jigging.md#hookset--do-not-wind-on-it-like-bait-fishing-ul5flb2dfgq).
 - **Visual/profile tell (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20;
   Cesar is a registered voice, single mention — `medium` confidence):** a
   speed jig is generally **heavier in the

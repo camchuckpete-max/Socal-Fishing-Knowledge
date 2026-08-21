@@ -2606,7 +2606,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / cited as re-cut of K_0AeM4OvuE, no new parameters added, sources list updated |
 | ZMrCAG7Cqmg | Tackle Express | tutorial | parameter-skim | done | skipped: 38s freshwater bass blade-bait rip/swing technique off a point in the thermocline zone, out of scope, not SoCal/Baja saltwater |
 | ZolfRTcJBk4 | Tackle Express | tutorial | parameter-skim | done | skipped: freshwater lake bass/striper blade-bait technique off points in the thermocline zone, out of scope, not SoCal/Baja saltwater |
-| ZrcwcugaEe4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZrcwcugaEe4 | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md; rigging/pr-knot.md; tackle/jig-rod-rating-selection.md; techniques/knife-jigging.md; techniques/slow-pitch-jigging.md; species/bluefin-tuna.md / gear-breakdown merge (bite ratios, braid-by-jig-weight with dated fight times, reel choice, jig-rating rule, PR-knot surname) into 5 existing notes plus 3 missed re-cut-source annotations for 6SClBs16L2Y added |
 | _3f8_JxtDRo | Tackle Express | tutorial | parameter-skim | pending |  |
 | _8Bno5mP4QE | Tackle Express | tutorial | parameter-skim | pending |  |
 | _C7TJoGT0nw | Tackle Express | tutorial | parameter-skim | pending |  |

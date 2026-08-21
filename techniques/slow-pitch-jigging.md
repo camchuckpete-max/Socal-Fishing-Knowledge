@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez, sand-bass, calico-bass]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg, 6SClBs16L2Y]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg, 6SClBs16L2Y, ZrcwcugaEe4]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -39,7 +39,21 @@ Execution only; species and situations are the reverse map in **Linked from**.
   effective setup — offshore or nearshore alike, not tied to one water
   type — versus [speed jigging](knife-jigging.md) for more active,
   aggressive fish. The same activity-level logic as the Baja/Sea of Cortez
-  entry below, without a region qualifier.
+  entry below, without a region qualifier. **Source note (2026-08-21
+  correction):** this wording matches this same interview almost exactly —
+  `6SClBs16L2Y` (2025-03-10) is very likely another re-cut of the fuller
+  37-minute Tackle Express interview with **Cesar Chang**, `ZrcwcugaEe4`
+  (2025-03-07, three days earlier). Treat the two IDs as **one source
+  appearance**, not independent repetition, for confidence purposes.
+  - **Named exception — an inactive kelp paddy holding fish that aren't
+    feeding (Cesar Chang, Tackle Express, `ZrcwcugaEe4`, 2025-03-07; medium
+    confidence):** worth stating explicitly because paddies are pelagic,
+    open-water structure where speed jigging is the general-purpose default
+    above — on a paddy with fish present but **not actively feeding** (his
+    read: likely already full/sated, not lethargic from cold or season), a
+    slow jig worked through draws bites a speed jig won't, the same
+    lethargic-fish logic as the general rule, just applied to a spot type
+    anglers might otherwise default to speed jigging on reflex.
 - **Baja, Sea of Cortez (region: Baja):** slow-pitch is the pick when fish are
   close to bottom and not super active — current-and-activity is the
   decision axis down there: light current / less active fish → slow-pitch;
@@ -240,6 +254,28 @@ Execution only; species and situations are the reverse map in **Linked from**.
   SPJ](../tackle/tackle-express-accurate-valiant-2-spj-reel.md) (Tackle
   Express; automatic centrifugal cast brake, low-confidence product-spec
   note — no comparative reel doctrine here).
+  - **Level-wind conventional vs. spinning for a first SPJ reel (Cesar
+    Chang, Tackle Express, `ZrcwcugaEe4`, 2025-03-07; medium confidence):**
+    for an angler intimidated by a true small/narrow jigging conventional, a
+    **round or low-profile level-wind ("double-wind") reel** is a good
+    starting option — it lays the line back and forth automatically, so a
+    beginner can focus on working the jig instead of guiding line by hand,
+    and pairs especially well with thin braid. A **spinning reel** is also a
+    workable, arguably easier starting choice — no birds-nesting risk on the
+    drop — but gives up some drop control versus a level-wind (an angler
+    used to conventional gear will fish the level-wind more effectively).
+    **Caution specific to spinning reels:** don't buy too high a gear ratio
+    — a fast retrieve gives up torque; a slower-ratio spinning reel still
+    out-picks-up a conventional and keeps more power in reserve. **Spinning
+    for speed jigging too, an Asia-fleet pattern (same source):** large
+    spinning reels are common among Asian speed-jig anglers specifically
+    because spinning **line pickup beats any conventional's**, letting the
+    jig swim faster on the retrieve; paired with a **short (4.5–5 ft) rod**
+    tucked against the gut/under the arm so the rod (not a lift-and-pump
+    motion) absorbs the fight — see the same short-speed-jig-rod leverage
+    logic in [knife/speed jigging](knife-jigging.md#gear-class-detail). The
+    tradeoff: a hooked fish on a spinning setup can't be racked on the rail
+    the way a West Coast conventional can.
 - **Line — thin braid is the whole point.** No stretch for action, and thin
   diameter so the jig **falls straight down**; even a jump from ~20 lb to 30/40/50
   lb braid adds scope and blows the jig sideways. Deeper water → thinner braid.
@@ -248,6 +284,18 @@ Execution only; species and situations are the reverse map in **Linked from**.
   at the jig. For pelagics, step up to a two-speed reel and ~**40 lb braid**.
   Connect braid-to-leader with a thin knot (PR/FG class) so it clears the small
   guides.
+  - **Braid class by structure vs. open water, light jigging outfit for
+    yellowtail/school tuna (Cesar Chang, Tackle Express, `ZrcwcugaEe4`,
+    2025-03-07; medium confidence):** on the same light SPJ-class outfit
+    used for deep rockfish, fishing **non-structure water — deep-water kelp
+    paddies, open ocean, nothing to get rocked or kelped on** — keep the
+    same **30 lb braid**. Fishing **around heavy structure — islands, kelp
+    beds** — step up to **50 or 65 lb braid**; you're not fishing as deep as
+    in open water, so the heavier, more abrasion-resistant braid costs less
+    in scope, and the heavier class also widens what size fish the gear can
+    turn away from structure. Consistent with, not a replacement for, the
+    ~1.5 g/ft jig-weight-by-depth rule above — this is the braid-class axis
+    for the same light outfit, not the jig-weight axis.
 - **Four-strand vs eight-strand braid (Benny Ortiz, CustomRodandReel seminar,
   -nIhadZwxAA, 2025-05-20; East Coast/Gulf-based instruction — unregistered
   channel, medium confidence):** a rougher four-strand braid sheds a smaller

@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [knife-jig, speed-jigging, bluefin, night, vertical, dsl, baja, sea-of-cortez, yellowtail, grouper]
-sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw]
+sources: [j37zxs33gws, nRFFM8DT-og, cameron, Ul5FLB2dFgQ, gevNj2Y1Ep8, RfiC8sfIWTk, -MP2RqJC7B0, 149px8WQ2Ng, LTCFjqtSI8g, jQW2HLkMsmY, M8hOYQ_6rSg, scmPq63lLWM, UfuiWFVvz2E, LsFMBCa9DOQ, oB4BpIUTTl4, Et2TUskzCSs, G1YIlakiRqg, UP_3fBu7VPA, gimFbgN5Jjk, 6_E5JCRvazc, AyN9MBWg-XY, fgTmUq78ofQ, q_ciF1xiDiI, eehDVb6_GoI, 6SClBs16L2Y, GeydGK-62fw, ZrcwcugaEe4]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -40,6 +40,13 @@ in **Linked from**.
   attention than a fall-triggered presentation. Stated to apply **offshore or
   nearshore** alike, not tied to one water type. The same activity-level
   logic as the Baja/Sea of Cortez entry below, without a region qualifier.
+  **Source note (2026-08-21 correction):** this activity-axis framing, and
+  the pick-bite bullet below, both match this same interview's wording
+  almost exactly — `6SClBs16L2Y` (2025-03-10) is very likely another re-cut
+  of the fuller 37-minute Tackle Express interview with **Cesar Chang**,
+  `ZrcwcugaEe4` (2025-03-07, three days earlier), documented in this note's
+  gear-class detail below. Treat the two IDs as **one source appearance**,
+  not independent repetition, for confidence purposes.
 - **Baja, Sea of Cortez (region: Baja):** vertical/speed jigs for fishing
   heavy current over deep structure — described as a growing technique down
   there for yellowtail and for snowy grouper on deep structure (Cesar, via
@@ -496,18 +503,28 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   **loads and bends all the way through to the butt**; fishing it flat on the
   rail throws away roughly half the rod's power, so fish it in hand, not racked
   (Ul5FLB2dFgQ).
-  - **Independent corroboration of the same 60° angle threshold, a different
-    channel/seminar (Tackle Express, `GeydGK-62fw`, "They laughed at the
-    'trout pole'... until it landed *that* fish!", 2026-02-05; unregistered
-    channel, single mention — medium confidence):** a small-diameter,
-    slower-action jigging outfit — nicknamed a "trout pole" or "fairy wand"
-    by other anglers on the boat for its light-tackle look — carries far more
+  - **Same 60° angle threshold, restated (Tackle Express, `GeydGK-62fw`,
+    "They laughed at the 'trout pole'... until it landed *that* fish!",
+    2026-02-05; medium confidence):** a small-diameter, slower-action
+    jigging outfit — nicknamed a "trout pole" or "fairy wand" by other
+    anglers on the boat for its light-tackle look — carries far more
     fighting power than its size suggests, **provided the angler keeps the
     rod at a 60° angle or lower** and doesn't bounce the fish or high-stick
     it. Stated reasoning: the slower action lets the rod take a lot more
     abuse than a traditional (faster-action) rod despite the smaller
     diameter. Offered as reassurance for anglers hesitant to load up on a
     thin, whippy-looking outfit — "don't be afraid to pull on these rods."
+    **Source identified (2026-08-21 correction):** this is a re-cut of a
+    fuller 37-minute Tackle Express interview, "Slow Pitch vs. Speed
+    Jigging: Basics & Gear Breakdown with Ceasar Chang!" (`ZrcwcugaEe4`,
+    uploaded 2025-03-07), spoken by the interview's named guest **Cesar
+    Chang** (human-typed title). The fuller interview adds the concrete
+    example: an ultralight ~30 lb-braid outfit ("about the same size" as a
+    typical rockfish jig rod) landed a **32 lb yellowtail on a 60 g jig** on
+    an offshore tuna trip — the catch that earned it the "trout
+    pole"/"fairy wand" nicknames on camera. Treat `GeydGK-62fw` and
+    `ZrcwcugaEe4` as **one source appearance**, not independent repetition,
+    for confidence purposes — this is not a new, separate channel/seminar.
   - **Tackle-shop shorthand, "X" rail-rod rating (Billy, Fisherman's Landing
     Tackle, via SearcherSportfishing, `6_E5JCRvazc`, "Tackle Tip Thursday
     Vol. 186," uploaded 2022-06-16; unregistered channel — medium
@@ -555,6 +572,32 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   hangs straighter under the boat; don't over-gun the braid class chasing a
   big-fish story — 65–100 lb covers it, and much heavier than 100 lb braid is
   only worth it on the biggest jigs.
+  - **Braid by jig weight, plus two dated fight-time data points (Cesar
+    Chang, Tackle Express, `ZrcwcugaEe4`, 2025-03-07; medium confidence —
+    see the corroborating/duplicate-source notes on this same interview
+    elsewhere in this note and in [jig-rod-rating-selection](../tackle/jig-rod-rating-selection.md)
+    and [knife jigs](../lures/knife-jigs.md)):** for offshore bluefin on
+    **350 g or heavier** jigs, his own standard is **80 lb braid** — he
+    states flatly that a rod-and-reel outfit cannot generate enough drag
+    pressure to break 80 lb braid by pulling alone, and that thinner braid
+    cuts through a tangle with thicker braid "most of the time" rather than
+    losing the tangle fight, so tangles aren't a reason to size up. On
+    **200 g or lighter (120–150 g)** jigs he personally fishes **65 lb
+    braid** instead, reasoning it gets a smaller/lighter jig down without
+    working as much drag against it. **Top shot pairing:** roughly **15 ft
+    of 130 lb mono** top shot for bite-guard/chafe protection on the 80 lb
+    braid setup; **100 lb mono top shot** on the 65 lb braid setup. **Two
+    dated, fish-specific examples (resolved from on-camera relative dates
+    against the 2025-03-07 upload):** a **180 lb bluefin**, hooked at
+    roughly 450 ft, landed on **80 lb braid with a two-speed reel in 6
+    minutes** (2024); a **140 lb bluefin**, hooked in the daytime, landed on
+    **65 lb braid with a single-speed reel in 15 minutes** (2023) — offered
+    as evidence that 80 lb (and even 65 lb) braid is not undergunned for
+    fish in this class, contrasted on camera with a same-trip example of
+    other anglers fishing much heavier **100–130 lb braid** on **450–500 g**
+    jigs at the same depth and getting less far down (more line scope/belly)
+    for the extra weight. Sits within, not beyond, the 65–150 lb night-class
+    braid range already logged in this section from other sources.
   - **Day/night split restated in plain line-test (Ray Sharifi, RfiC8sfIWTk,
     2023-05-04; `ray-sharifi` registered, SoCal-capped — medium confidence):** daytime jigging
     with lighter flat-fall-style jigs (Colt-Sniper class, **80–120 g**) fishes

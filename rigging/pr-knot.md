@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [pr-knot, pr-bobbin, braid-to-leader, connection-knot, fg-knot]
-sources: [To2Dvx3Ifnc]
+sources: [To2Dvx3Ifnc, ZrcwcugaEe4]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -56,13 +56,25 @@ names aren't conflated.
 A 98-second discussion clip, not a tying demonstration — no wrap count, line
 class, or step-by-step build is shown or narrated for the PR knot itself; only
 the tool (PR bobbin), the comparison to the FG knot, and the presenter's
-stated track record and cited test numbers. The speaker is named "Ceasar" in
-the video title (per the `Cesar` → `"Caesar"` ASR corruption already logged
-for this corpus, read as **Cesar**) but no surname or shop role is given on
-camera, and this appearance is not among the video IDs already tied to the
-registered `cesar` entry in `sources/source-registry.md` (a Dirty Hookers
-rod-company rep) — not assumed to be the same person. Tackle Express is not a
-registered channel, so confidence caps at medium regardless.
+stated track record and cited test numbers.
+
+**Surname resolved (2026-08-21 correction).** A separate, longer Tackle
+Express interview, "Slow Pitch vs. Speed Jigging: Basics & Gear Breakdown
+with Ceasar Chang!" (`ZrcwcugaEe4`, uploaded 2025-03-07 — about three months
+**before** this clip's 2025-06-11 upload), human-typed title, names the guest
+**Cesar Chang**. That interview contains this exact same PR-knot discussion
+almost word for word — the ~10-year track record, "never had a knot
+failure... spectra break above the knot... mono break below the knot," and
+the 98%-FG-vs-100%-PR destruction-test figures — so `To2Dvx3Ifnc` is very
+likely **also a re-cut of `ZrcwcugaEe4`**, or at minimum the same interview
+session re-asked, not a separate appearance. Treat the two IDs as **one
+source appearance**, not independent repetition, for confidence purposes.
+This is very likely the same **Cesar** already registered as `cesar` in
+`sources/source-registry.md` (Dirty Hookers rod-company rep, jigging
+specialist, 25+ yrs experience) — same first name, same specialist framing —
+though the registry entry is not edited here; merging/promoting this Tackle
+Express appearance into that entry is Cameron's call. Tackle Express is not a
+registered channel on its own, so confidence caps at medium regardless.
 
 ## Tie it
 
