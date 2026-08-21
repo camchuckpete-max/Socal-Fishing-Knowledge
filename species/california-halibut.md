@@ -356,6 +356,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

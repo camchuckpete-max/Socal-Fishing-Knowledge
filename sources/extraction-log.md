@@ -2644,7 +2644,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | d31ID9JHgns | Tackle Express | tutorial | parameter-skim | done | no KB destination: 59s teaser clip, verbatim re-cut of already-extracted EuYOlsnxXko fall-beach-halibut segment (species/california-halibut.md); evaluator filled stale log row |
 | d93vB_EBu30 | Tackle Express | tutorial | parameter-skim | done | bait/fishing-live-bait.md: added squid-tank grip (keep eyes covered); techniques/dropper-loop.md: corroborated 3-pass/flip Owner Octy-twist squid-tail rigging; evaluator fixed missing sources front-matter |
 | dBAk9NScxSc | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-night-bluefin-tg-jig-rig.md: added as 6th provenance-only re-cut of Jerry-rig night/day/foamer TG-jig cycle, no new params; evaluator fixed invented causal claim + misquote |
-| dDvNAZpmx-8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| dDvNAZpmx-8 | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md: added split-ring nose-reinforcement hack for tube-style halibut soft plastics (#2 split ring, hot sauce/Smelly Jelly lube) |
 | dFRpcvkLmb0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | dKSnFf5IsmY | Tackle Express | tutorial | parameter-skim | pending |  |
 | dNn8U9LbL8c | Tackle Express | tutorial | parameter-skim | pending |  |

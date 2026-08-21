@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8]
+tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice, halibut, durability, tube-bait]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -10,9 +10,10 @@ waters: [bay-harbor, nearshore-coast, island]
 # Leadhead Mods & Rigging
 
 The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass,
-and rockfish. This note covers three things: modifying a leadhead so big soft
-baits hook up on the sink, rigging a leadhead with squid for white seabass, and
-the basic dockside leadhead selection and fishing.
+and rockfish. This note covers modifying a leadhead so big soft baits hook up
+on the sink, reinforcing a soft-plastic's nose so it survives more fish,
+rigging a leadhead with squid for white seabass, and the basic dockside
+leadhead selection and fishing.
 
 ## When to use it
 
@@ -20,6 +21,9 @@ the basic dockside leadhead selection and fishing.
   the islands, and as a general leadhead presentation on squid nests.
 - Fished as a cast-and-retrieve alternative — and companion — to the
   [dropper loop](../techniques/dropper-loop.md) when fish are active in current.
+- A tube-style soft plastic tearing at the nose after a couple of
+  [California halibut](../species/california-halibut.md) — reinforce it
+  instead of replacing the bait each time.
 
 ## Parameters & judgment
 
@@ -41,6 +45,29 @@ the basic dockside leadhead selection and fishing.
 - **Payoff:** near-100% hookups on head bites during the sink, and the screwed-on
   bait survives many fish — worth it in 150 to 200 feet of water for rockfish,
   where a torn-off bait means a wasted wind-up.
+
+### Split-ring nose reinforcement for a tube-style soft plastic (halibut) — Tackle Express, `dDvNAZpmx-8`, 2026-02-05
+
+Unregistered channel, single mention — medium confidence. A durability fix for
+a hollow, open-backed "tube"-style soft plastic threaded onto a leadhead for
+[California halibut](../species/california-halibut.md): the nose molds up
+strong, but the thin plastic body wall tears out there after a couple of
+halibut, ending the bait's life early.
+
+- **The fix:** work a **number 2 split ring** up inside the tube's open back,
+  pushed all the way up snug against the head/nose. Dipping the split ring in
+  **hot sauce or Smelly Jelly** first helps it slide in.
+- **Rigging the hook:** when threading the hook through as normal, push the
+  point through **both the split ring and the plastic** at the nose, not the
+  plastic alone.
+- **Stated reason:** the plastic tears where a plain hook only bites the thin
+  body wall; running the hook through the metal split ring as well reinforces
+  that point, so the nose doesn't rip out — letting a single bait "catch many,
+  many more fish" before it's used up. Consistent with, though a different
+  mechanism from, the spring/screw-on durability fix above and the
+  Basstrix/Sudden Impact durability framing in [soft-plastic
+  swimbaits](../lures/soft-plastic-swimbaits.md) — kept as a separate
+  parameter rather than merged in, since no source ties the three together.
 
 ### Rigging a leadhead with squid for white seabass (Xr4nURK-Z48)
 
@@ -196,6 +223,7 @@ Modifying leadheads: https://www.youtube.com/watch?v=RXb0HvVwqO4
 Leadhead + squid for white seabass: https://www.youtube.com/watch?v=Xr4nURK-Z48
 Dockside leadhead: https://www.youtube.com/watch?v=F-vOTerdulU
 How & when to fish leadhead + squid (mid-column): https://www.youtube.com/watch?v=0PAPH1uqk4A
+Split-ring nose reinforcement for a tube-style soft plastic (halibut): https://www.youtube.com/watch?v=dDvNAZpmx-8
 
 <!-- backlinks:start -->
 ## Linked from

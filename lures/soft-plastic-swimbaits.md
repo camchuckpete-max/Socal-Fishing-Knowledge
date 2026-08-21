@@ -480,6 +480,7 @@ baits and heads from the class terms above; see
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
