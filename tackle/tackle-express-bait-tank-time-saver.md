@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rockfish, rock-cod, dropper-loop, bait, artificial-bait, squid, octopus, bait-tank, scented-bait, owner, hooks]
-sources: [IcS7QbJlSDA, qh3hL2Dt3HY, Q4WWkbc9nag]
+sources: [IcS7QbJlSDA, qh3hL2Dt3HY, Q4WWkbc9nag, Q6ACpkS93sk]
 confidence: medium
 ---
 
@@ -72,6 +72,29 @@ named on camera (contrast with the rock-cod framing above, which comes from
   Owner Aki hook citation in [hooks.md](hooks.md).
 - No species is named in this clip — recorded as a general bottom/bait-tank
   shortcut, not folded into the rock-cod framing above.
+
+## A third Tackle Express clip — the same rig named for rockfish, torpedo sinker confirmed (Q6ACpkS93sk)
+
+Tackle Express (`Q6ACpkS93sk`, "The Deadliest Rig for SoCal Rockfish," uploaded
+2026-04-06, 32 s; unregistered channel — medium confidence). Names **SoCal
+rockfish** on camera as the target for the same **double dropper loop**
+build — one hook set low in the middle, a second hook up above, sinker down
+at the very bottom — framed as "one of the most simple and basic rigs...
+probably one of the most productive." Two things this clip adds beyond the
+`Q4WWkbc9nag` citation above:
+
+- **Sinker style named: a torpedo sinker** — `Q4WWkbc9nag` only said "the
+  correct size sinker depending on the depth and conditions," without naming
+  the sinker style.
+- **The same 1/0 Owner Aki Twist hook, offered as one example rather than a
+  fixed pick** — "a choice of hook of whatever you guys would like to fish...
+  for instance, this is an Owner Aki Twist 1/0," matching the size already
+  logged from `Q4WWkbc9nag`.
+
+This clip does not itself confirm what species `Q4WWkbc9nag` was shot for —
+a separate, unnamed-species video from the same channel using the same rig
+and hook size — so the two are kept side by side as corroborating data
+points rather than merged into one citation.
 
 ## Related
 
