@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE]
+tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism, bottom-fishing]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4]
 confidence: medium
 ---
 
@@ -172,6 +172,42 @@ re-cut-footage rule — different clip, same channel).
   for 80 lb-test, triple-digit-class fish, and states the Fathom line ships
   T-bar handles "from the smallest all the way to the largest" — consistent
   with, not new beyond, the all-sizes T-bar claim already given above.
+
+### OEM Shimano T-bar handle — price, install, and the bottom-fishing case for it (separate clip)
+
+Tackle Express, "Upgrade Your Shimano Reel with a T-Bar Handle—Here's Why 🎣💪,"
+`f1pZI-bfMz4`, uploaded 2025-04-23, presenter Harry (self-identified on
+camera) — a 105-second shop clip pitching the **OEM Shimano T-bar handle** as
+an aftermarket upgrade for a Shimano reel with a two-speed mechanism (no
+specific model named on camera, so this is not asserted here as
+Speedmaster-specific — it sits beside the Speedmaster's stock-round-knob
+material above as the same class of upgrade). Unlike the round-knob-vs-T-bar
+comparison clips above, this video carries pricing, in-stock/restock
+messaging, and a direct buy call to action ("check us out online... jump on
+them... free shipping"), which per CLAUDE.md's confidence rubric ("low —
+sponsored or promotional claim, regardless of channel") is the governing cap
+here — **low** confidence, distinct from this note's medium-confidence
+build/spec comparisons elsewhere (compare the same promotional-content cap
+applied to [Penn Fathom II and Penn Authority — ICAST 2022 Launch
+Parameters](tackle-express-icast2022-penn-fathom2-authority.md)).
+
+- **Two stated benefits, consistent with the round-knob-vs-T-bar comparison
+  above but from a buyer's-eye framing:** more torque/power for larger fish,
+  and — even for anglers not specifically chasing large fish — a more
+  comfortable grip; the T-bar is described as having a slight angle built in
+  for comfort, with no binding.
+- **Install — quick, no reel-specific tool.** A screwdriver pops the handle
+  cap; a wrench pops out the two-speed mechanism underneath. Stated as
+  installable in under 5 minutes.
+- **Named application: bottom fishing.** The larger handle is called out
+  specifically as making it easier to crank fish up from depth — consistent
+  with the bigger-body/more-torque mechanism already logged for deep-bottom
+  cranking in [rockfish deep-dropping — rod, reel & line for the
+  feel](../techniques/rockfish-deep-dropping.md#rod-reel--line-for-the-feel-scotty-brothers-sportfishing).
+- **Price and availability (promotional detail, kept for the record):**
+  **$59.99**, an OEM Shimano part (stated explicitly as not aftermarket
+  third-party), sold in batches that come in from Shimano, sell through, and
+  then wait for restock.
 
 ## Free spool — Speedmaster bearing spec, and why free spool matters (Tackle Express)
 

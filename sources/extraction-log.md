@@ -2665,7 +2665,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | eqRMpfcuM2s | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md; techniques/wind-in-your-face-positioning.md: re-cut of S9sQ8Vg8-5o merged as corroborating citations, fixed overconfident ASR product-name assertion |
 | eqeESarhRrE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md: re-cut citation confirming Speedmaster 20/25 round-knob issue and all-sizes Fathom T-bar claim |
 | f0gBoLc7scw | Tackle Express | tutorial | parameter-skim | done | none: verbatim re-cut/subset of YyW4-8FRjn8, generic Shimano marketing content, no new claims |
-| f1pZI-bfMz4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| f1pZI-bfMz4 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md: added OEM Shimano T-bar handle subsection, low confidence (promotional) |
 | f22V2HCv8tI | Tackle Express | tutorial | parameter-skim | pending |  |
 | f9JOpLrYBiE | Tackle Express | tutorial | parameter-skim | pending |  |
 | fATd3sje6R4 | Tackle Express | tutorial | parameter-skim | pending |  |
