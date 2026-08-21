@@ -2775,7 +2775,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | sSH80AImFX4 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 24-second vlog clip with no stated fishing parameters, technique detail, or decision rationale |
 | sj_9QYlGtGo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / re-cut of existing Fathom build-features bullet list, added as third citation, no new parameter, confidence unchanged at medium |
 | sl2MRqpiS60 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md / added as third citation to existing Hagane-body/S-Compact bullet, treated as re-cut not independent confirmation, confidence low |
-| smdXDSyuVnY | Tackle Express | tutorial | parameter-skim | pending |  |
+| smdXDSyuVnY | Tackle Express | tutorial | parameter-skim | done | none / 79s promotional product spotlight for the submission death blade jig, no SoCal/Baja-specific decision logic or region content, fails curation bar |
 | t0kkwlrNwHk | Tackle Express | tutorial | parameter-skim | pending |  |
 | t3kDnoGYfVs | Tackle Express | tutorial | parameter-skim | pending |  |
 | t96ZBu0gvq4 | Tackle Express | tutorial | parameter-skim | pending |  |
