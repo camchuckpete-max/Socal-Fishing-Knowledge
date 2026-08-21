@@ -2474,7 +2474,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | J40VxLNuZhk | Tackle Express | tutorial | parameter-skim | done | fish-care/sculpin-handling.md; species/rockfish-lingcod.md / merged rockfish mucus-vs-sculpin-venom safety point and deckhand practice; fixed missing front-matter source |
 | JFauRUaz2AQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: 34s fragment, freshwater Vault-Blade blade-bait vertical-presentation technique for suspended bass, no SoCal/Baja content |
 | JJwyof_Nxqs | Tackle Express | tutorial | parameter-skim | done | none / freshwater largemouth-bass topwater/Kastmaster clip at Castaic Lake, out of scope for SoCal/Baja saltwater KB, skipped |
-| JLaql6UUFVs | Tackle Express | tutorial | parameter-skim | pending |  |
+| JLaql6UUFVs | Tackle Express | tutorial | parameter-skim | done | none / out-of-domain freshwater bass jig-color content (Castaic/Pyramid lakes), no SoCal/Baja saltwater knowledge, correctly skipped |
 | JNMwUUst1rw | Tackle Express | tutorial | parameter-skim | pending |  |
 | JUcsUMJize0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | JekeeKZA1Kw | Tackle Express | tutorial | parameter-skim | pending |  |
