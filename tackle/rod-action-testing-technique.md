@@ -134,6 +134,7 @@ rods within the rating until one feels right.
 ## Linked from
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
+- [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 <!-- backlinks:end -->

@@ -23,7 +23,9 @@ below repeatedly draw on, see [star drag vs. lever
 drag](star-drag-vs-lever-drag.md). Before you even get to application, don't
 judge a rod's action by hand-bending it at a shop counter — see [rod action
 testing technique](rod-action-testing-technique.md) for why that misreads the
-rod. For a quick buying rule on an all-purpose rod's line rating — buy a wide
+rod. For why a **fast tip** specifically earns its place on a light,
+drag/drift application (feeling a finicky tap-biter rather than missing the
+strike), see [fast tip for a finicky biter](tackle-express-fast-tip-for-finicky-bite-drag-drift.md). For a quick buying rule on an all-purpose rod's line rating — buy a wide
 range and fish its middle — see [all-purpose rod line
 rating](all-purpose-rod-line-rating.md). For the equivalent rule on a
 dedicated **jig** rod's gram rating — fish toward the top of the range, not
@@ -902,6 +904,7 @@ a bluefin).
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
