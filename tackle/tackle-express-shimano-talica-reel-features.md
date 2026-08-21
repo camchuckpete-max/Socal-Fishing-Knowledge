@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [reels, shimano, talica, infinity-drive, hagane-body, s-compact-body, core-protect, lever-drag, two-speed, tackle-express]
-sources: [af7a1tR2B84, pL7ZGuMVwo4, sl2MRqpiS60]
+tags: [reels, shimano, talica, infinity-drive, hagane-body, s-compact-body, core-protect, lever-drag, two-speed, tackle-express, bluefin, night-fishing]
+sources: [af7a1tR2B84, pL7ZGuMVwo4, sl2MRqpiS60, x2cQrPaZ_Z0]
 confidence: low
 ---
 
@@ -71,6 +71,46 @@ regardless of channel") this note is capped at **low** in full, on top of
 No model size (e.g., Talica 12/16/20/25), gear ratio, max drag figure, line
 capacity, or price is given in this clip.
 
+## Talica 20 & 25 — named models, night bluefin application (Tackle Express, "Shimano Talica 20 & 25 Infinity Drive | Night Bluefin Setup," `x2cQrPaZ_Z0`, uploaded 2026-08-06, 66 s)
+
+James (Tackle Express) and Cade (Shimano) on camera aboard the **Shogun**,
+"gearing up for a little bit of night time bluefin fishing tonight" — the
+same boat as the Maxcuatro braid trip recap in [Maxcuatro metered braid —
+night-jig and between-stops bait depth](tackle-express-shogun-maxcuatro-braid.md),
+a separate trip/clip, not reconciled as the same outing. Closes on the same
+sponsor plug as the rest of this note ("check us out at tackleexpress.com")
+— **low** confidence throughout, per the sponsored-claim rule, on top of
+`tackle-express` being unregistered. Unlike the model-agnostic clips above,
+this one names specific sizes:
+
+- **Cade fishes a Talica 25; James fishes a Talica 20** — the first citation
+  in this note to name specific model sizes for the Infinity Drive/S-Compact
+  features described above.
+- **Infinity Drive, reframed for this application:** stated to **increase
+  drag force while keeping the handle easy to wind under heavy load** — a
+  fight-leverage framing consistent with, and adding a drag-force claim to,
+  the "no binding effect" / reduced rotational-resistance framing already
+  logged above from the other clips in this note.
+- **Power handle on the Talica 25** (a **T-bar handle**, named on camera):
+  stated to let the angler get more of their upper body into the crank for
+  "powerful cranks on these fish" — a handle-style detail not given in the
+  other clips in this note.
+- **Rod pairing:** paired on camera with **Shimano Teramar** rods (no
+  specific Teramar model/rating named in this clip — see [Cameron's Avet
+  setup](../profiles/cameron/rods.md), a Teramar West Coast TMC90MHB2, for a
+  named Teramar spec elsewhere in this KB, not asserted as the same rod).
+- **Stated target and technique:** **triple-digit (100+ lb) bluefin**,
+  fished at **night**. Cade's stated expectation: with the T-bar handle and
+  Infinity Drive, he can "set that rod and reel on the rail, turn the
+  [handle], and those 100 plus pound fish are going to come right to the
+  boat" — i.e., the reel's drag/cranking power is framed as doing the work
+  of the fight from a rail-braced rod rather than heavy pumping. This is the
+  same rail-bracing fundamental already logged in [fighting fish from the
+  rail](../techniques/fighting-fish-from-the-rail.md), not a new technique —
+  logged here for the specific reel/rod pairing claimed to support it, and
+  kept as a stated pre-fish expectation on camera, not an **Observed**
+  outcome (the clip ends before any fish is hooked).
+
 **Duplicated-footage note.** A second, presenter-unnamed Tackle Express clip,
 "Fish all day! This reel upgrade kills fatigue!," `pL7ZGuMVwo4`, uploaded
 2026-02-22, 33 seconds — opens mid-sentence ("ever. It also has the S compact
@@ -125,6 +165,13 @@ here for anyone auditing the claim.
   already has a named application elsewhere in this KB (Cameron's Talica 25,
   logged there, and the Talica 12/20 sizing in the Saltiga-vs-Talica note
   above), which this general-features clip doesn't add to.
+- [Maxcuatro metered braid — night-jig and between-stops bait depth
+  (Tackle Express, Shogun trip)](tackle-express-shogun-maxcuatro-braid.md) —
+  same shop, same boat (Shogun), a separate night-bluefin trip clip.
+- [Fighting fish from the rail](../techniques/fighting-fish-from-the-rail.md) —
+  the rail-bracing fundamental the Talica 20/25 clip's "set it on the rail"
+  expectation sits within.
+- [Bluefin tuna](../species/bluefin-tuna.md) — the species router.
 
 <!-- backlinks:start -->
 ## Linked from

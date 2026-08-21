@@ -235,5 +235,6 @@ the reasoned version of the low-gear half of this pairing.
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](../tackle/tackle-express-shimano-talica-reel-features.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

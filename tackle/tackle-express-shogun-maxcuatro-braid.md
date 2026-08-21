@@ -75,5 +75,6 @@ No leader, drag, or jig-model detail is given in this short clip.
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
+- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
 <!-- backlinks:end -->

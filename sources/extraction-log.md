@@ -2793,7 +2793,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | w5iryVkSe-0 | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md: added construction-side wind-knot cause (carrier count + breaking strength) at medium confidence |
 | wk8bkqzdyM0 | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md: fourth re-cut of same interview, appended as duplicate-provenance paragraph |
 | wl27BWAWpq0 | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md; techniques/dropper-loop.md: verbatim re-cut of nRIAgz5G_Bc, logged as re-cut provenance, no new claims |
-| x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md: added Talica 20/25 night-bluefin application section, low confidence |
 | x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | pending |  |
 | x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | xFW2002SaQk | Tackle Express | tutorial | parameter-skim | pending |  |
