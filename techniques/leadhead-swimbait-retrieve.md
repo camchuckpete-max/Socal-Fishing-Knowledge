@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [leadhead, swimbait, halibut, white-seabass, yellowtail, fluke, bottom-contact, retrieve, depth-control, harbor, casting, hookset]
-sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg]
+sources: [OURS05qEGcA, Oi5n-uVpY9g, TzK4iuVmUSE, hjZ3hgq0Bzg, pMsbeLOgUc4]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -14,7 +14,11 @@ bait working just off the bottom without a depth finder or a line-counter reel �
 you read bottom contact off the **line falling slack**, not off a mark. Taught by
 Shannon Gallagher (Tackle Express) as his number-one halibut technique
 (`OURS05qEGcA`, 2026-01-14; unregistered channel, single mention — medium
-confidence). Bait/head selection lives in
+confidence. **`pMsbeLOgUc4`** (2026-02-06, 33s, "Tiny Bait, Big Halibut!
+Master this leadhead retrieve.") **is a trimmed word-for-word re-cut of this
+same clip** — same cast, sink-out, three-turns-and-pause rhythm, and 3-in War
+Baits/Sudden Impact example, down to the same phrasing; not an independent
+mention, logged per the re-cut-footage rule). Bait/head selection lives in
 [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md); this note owns the
 retrieve and its hookset.
 
