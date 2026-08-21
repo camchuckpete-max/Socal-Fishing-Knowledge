@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [rods, rod-action, buying-guide, retail, beginner, fatigue]
-sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU]
+sources: [6dTz1640Y5c, DfLcSS-J3g4, G8HNjPiaOjU, KamUiykeRlU]
 confidence: medium
 ---
 
@@ -114,6 +114,21 @@ vibrating it yourself.
   rod is worth going into a shop for — pull on four or five options and one
   will stand out. If a shop visit isn't possible, fall back on the line-class
   guidelines (15–40, 20–40, 30–50) as a substitute, not a preference.
+
+## Why you have to test multiple rods in the same rating — fit varies model to model (Tackle Express, `KamUiykeRlU`, "Why your fishing rod feels wrong (and how to fix it)," uploaded 2026-06-30; unregistered channel, single 51-second mention — medium confidence)
+
+A short, separate Tackle Express clip states the underlying reason the
+pull-on-it test above matters even when line class matches: what's
+comfortable is dictated by the angler's **height, arm length, and build**, so
+the same nominal rod means different things to different anglers. Their
+stated example: a single brand's lineup (United Composite, alongside Okuma
+and Phenix as other examples) can carry three or four rods all rated the
+same or close (20–40, 25 to 40) but built as different series — "when you
+pull on them, they all feel different." No one rod fits everyone; if a
+single rod fit every angler perfectly, that would be the only brand still in
+business. This corroborates the shaking/leverage-point diagnostic above and
+adds one more plain check: **if it hurts, don't take it** — keep switching
+rods within the rating until one feels right.
 
 <!-- backlinks:start -->
 ## Linked from
