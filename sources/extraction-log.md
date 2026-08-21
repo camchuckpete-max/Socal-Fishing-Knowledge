@@ -2508,7 +2508,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | NGkXPkE8kWI | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: generic Huddleston Weedless Shad product-spec plug, no SoCal-specific content |
 | NGvwjJfAL2I | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic filler/fragment, no extractable SoCal-specific parameter |
 | NJh9EadWA7Y | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: family fight-coaching clip, no extractable technique/gear content |
-| NUlHwrBT61U | Tackle Express | tutorial | parameter-skim | pending |  |
+| NUlHwrBT61U | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: generic/promotional spool-design blurb, no SoCal-specific parameter |
 | NiEvdaHOHnM | Tackle Express | tutorial | parameter-skim | pending |  |
 | Nsc23Chy3xk | Tackle Express | tutorial | parameter-skim | pending |  |
 | O49WsHP4Zh0 | Tackle Express | tutorial | parameter-skim | pending |  |
