@@ -89,7 +89,6 @@ logic. **Every setup except the Fathom 80 has caught a bluefin.**
 - [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
-- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](../../tackle/tackle-express-shimano-talica-reel-features.md)
 - [Swordfish (Broadbill)](../../species/swordfish.md)
 - [Yellowtail](../../species/yellowtail.md)
 <!-- backlinks:end -->

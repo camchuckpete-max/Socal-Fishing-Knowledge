@@ -1187,7 +1187,6 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
-- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](../tackle/tackle-express-shimano-talica-reel-features.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
