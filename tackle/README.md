@@ -56,6 +56,7 @@
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Tackle Express, "A look at ICAST 2022 - The World's Largest Fishing Tradeshow," 75lUj-uaArQ, uploaded 2022-08-06 — an 85-minute booth-to-booth walk of the 2022
 - [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Tackle Express (Harry, Ecqt-ZLnvaU, "Why Izorline XXX Is THE Go-To Mono for Anglers," uploaded 2025-06-17; unregistered channel, explicit shop/product promotion
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md) — Tackle Express, "Turn your jig stick into a trolling machine!," BNp-gSOpWBw, uploaded 2026-05-19 — a 39-second tackle-counter clip.
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) — Tackle Express (Harry, on camera; UbbkPKZ8_W4, "PowerPro Maxcuatro vs Depth-Hunter Offshore: Which Line Should You Spool?," uploaded 2025-06-23, 105 s).
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](tackle-express-minnow-rod.md) — Tackle Express, "The essential rod for vertical minnow fishing is revealed!," Pxky7drjPkU, uploaded 2026-02-13 — a 34-second tackle-counter clip.
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md) — Tackle Express, "7 Must-have Fishing Products in 2020" (B44kVCdUN0o, uploaded 2020-09-04), presenter self-identified on camera as "Chad, tackleexpress.com" — a
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) — Tackle Express (3-0kaaHqA7A, "Best Reel & Line for Night Bluefin Jigging — Don't Guess Your Depth!," uploaded 2025-06-21; unregistered channel, single mention —
@@ -72,5 +73,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 62 notes exceed the 30-node cap._
+_Map skipped: 63 notes exceed the 30-node cap._
 <!-- mermaid:end -->

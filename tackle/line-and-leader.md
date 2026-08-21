@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [line, leader, braid, mono, fluorocarbon, abrasion, top-shot]
-sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw]
+sources: [cameron, aXF0bxAFtU0, GoVI7CtN6L8, evhJMzJ7Dz0, 0EpILTF0yvE, xPFm_ZV2PZU, EyB98RuKfeQ, WE643Fue1_A, zVIfArUrpDI, _Wb4z4ammoM, A6s-A1NARuA, PKf7G3uL4io, QSmE3mdEL28, ILBl12Jm7-0, pk2blktDQ9Y, Et2TUskzCSs, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, 1wFoa11jPxQ, 3g82igEL8yk, ew7Lru8wmQs, fyJA3o2hVh0, 49joKHD7Umc, YntRJAN88fs, uWGGeDOprsE, CdgSBcN6PDo, Lj2NCznK7Zg, Oi5n-uVpY9g, PnAnAS6QoG8, Rtwz0oEfrKw, UbbkPKZ8_W4]
 confidence: medium
 ---
 
@@ -402,6 +402,18 @@ Fluoro does two different jobs; keep them separate:
   aboard the *Shogun*, plus on a Shimano Ledge Runner reel for bait fished
   behind the boat between jig stops. Full detail in
   [Maxcuatro metered braid — Shogun trip](tackle-express-shogun-maxcuatro-braid.md).
+- **A third citation, this one a direct head-to-head against PowerPro's other
+  named metered braid (Tackle Express, Harry, `UbbkPKZ8_W4`, "PowerPro
+  Maxcuatro vs Depth-Hunter Offshore: Which Line Should You Spool?,"
+  2025-06-23; unregistered channel, explicit shop/retail promotion — low
+  confidence):** the same "25% thinner" claim, here framed specifically
+  against **Power Pro Depth Hunter Offshore** rather than "standard" braid
+  generically, plus line-class availability (Depth Hunter Offshore: 65, 80,
+  100, 130 lb; Max Quattro: 80, 100 lb) and a cost/reel-size selection
+  tradeoff (thinner Max Quattro for capacity on a smaller reel, roughly
+  double the cost; cheaper Depth Hunter Offshore for a larger reel that
+  doesn't need the extra capacity). Full detail in
+  [Maxcuatro vs. Depth Hunter Offshore](tackle-express-maxcuatro-vs-depth-hunter-offshore.md).
 - **Surface-iron backing/top-shot combo — Fisherman's Landing counter tip
   (Doug Kearn, SearcherSportfishing, "Tackle Tip Thursday Vol. 132 (Surface
   Iron)," `3g82igEL8yk`, 2020-12-31; unregistered channel, single mention —
@@ -623,6 +635,7 @@ able to break off** (aXF0bxAFtU0):
 - [John Collins Knot — Braid to Mono/Fluoro Splice](../rigging/john-collins-knot.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)

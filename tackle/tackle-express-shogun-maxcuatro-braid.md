@@ -63,6 +63,10 @@ No leader, drag, or jig-model detail is given in this short clip.
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md) —
   same shop, a different named 100 ft-metered product (Power Pro Depth
   Hunter Offshore) for the same night-bluefin-jig problem.
+- [Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) —
+  same shop's direct head-to-head counter comparison of this product against
+  Depth Hunter Offshore, with line-class availability and a cost/reel-size
+  selection tradeoff this trip-recap clip doesn't cover.
 - [Bluefin Tuna](../species/bluefin-tuna.md) — the species router.
 
 <!-- backlinks:start -->
@@ -70,5 +74,6 @@ No leader, drag, or jig-model detail is given in this short clip.
 
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
 <!-- backlinks:end -->

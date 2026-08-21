@@ -269,6 +269,11 @@ doctrine.
   this same shop's separate citation of a different named 100 ft-metered
   product (Power Pro Maxcuatro) for the same night-bluefin-jig depth-calling
   problem, aboard a different boat.
+- [Maxcuatro vs. Depth Hunter Offshore (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md) —
+  this same shop's direct head-to-head comparison of the Power Pro Depth
+  Hunter Offshore named here against Maxcuatro, with line-class availability
+  (65/80/100/130 lb for Depth Hunter Offshore) and a cost/reel-size selection
+  tradeoff between the two.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -276,6 +281,7 @@ doctrine.
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md)
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md)
 <!-- backlinks:end -->

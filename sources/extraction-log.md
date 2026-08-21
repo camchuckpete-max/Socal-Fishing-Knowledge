@@ -2578,7 +2578,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | UASU-ikU1AQ | Tackle Express | tutorial | parameter-skim | done | none / skipped, no extractable knowledge content — 20s reaction/gaff clip |
 | UXt-pR6bBjY | Tackle Express | tutorial | parameter-skim | done | none / correctly-scoped skip (generic extruded-line/mono-stretch 101 content, no SoCal/Baja parameters) |
 | U_jXfgsGBzM | Tackle Express | tutorial | parameter-skim | done | tackle/rod-blank-and-component-materials.md / provenance-only merge: confirmed re-cut of DfLcSS-J3g4's grip-material segment, added as source, no new note |
-| UbbkPKZ8_W4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| UbbkPKZ8_W4 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md; tackle/line-and-leader.md; tackle/tackle-express-night-bluefin-tg-jig-rig.md; tackle/tackle-express-shogun-maxcuatro-braid.md / new head-to-head product-comparison note (low confidence, sponsored), cross-linked |
 | UtFX1K01bA4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | UtgMbyjlem8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | V1tmGZh3MNg | Tackle Express | tutorial | parameter-skim | pending |  |

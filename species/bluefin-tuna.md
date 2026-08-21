@@ -1168,6 +1168,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](../tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
