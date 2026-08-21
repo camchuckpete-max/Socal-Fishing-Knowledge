@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [bluefin, tuna, jig, knife-jig, flat-fall, hook-upgrade, assist-hook, leader, two-speed, drag, rod-rating, tackle-express]
-sources: [DuNkl8F45NE, Q4sW6JRQzAY]
+sources: [DuNkl8F45NE, Q4sW6JRQzAY, XtPUnC5jQnM]
 confidence: medium
 ---
 
@@ -171,6 +171,28 @@ capacity.
 - **Two-speed feature is treated as a requirement, not an option,** on this
   program's Talica/International-class reels for this grade of fish — see
   the fight-timing section below for why.
+- **A separate, later Tackle Express clip gives a stated reason to run thin
+  braid specifically** (`XtPUnC5jQnM`, "180lb Tuna on *that* setup? The secret
+  revealed!," uploaded 2026-02-09; unregistered channel, single mention —
+  medium confidence; no on-camera name given, so cited to the channel only):
+  the narrator recounts anglers being surprised he landed a fish — the
+  video's own title states **180 lb**, a number the 32-second clip's audio
+  never restates, so it is carried from the human-typed title only — on an
+  **80 lb** outfit. He then recalls that a year earlier (**2025**, resolved
+  against the 2026-02-09 upload date) he landed a **140 lb** fish (species not
+  named on camera in this 32-second clip — placed in this bluefin-specific
+  note on context, since this is the same channel's established
+  triple-digit-bluefin jigging subject matter elsewhere on this note; flagged
+  here rather than asserted as confirmed) in the daytime on **65 lb braid**,
+  still paired with a **100 lb top shot**. **Stated reasoning, in his own
+  words:** he runs the thinner braid specifically so a smaller, lighter jig
+  can get down to the strike zone, and so working the jig back up afterward
+  doesn't wear him out. This is a **distinct** stated reason to prefer
+  thinner braid from the
+  reel-capacity reasoning already logged above for the Talica 20's 80/100 lb
+  Power Pro Max Quattro pairing — kept side by side, not reconciled, as this
+  same shop's second stated reason (jig-descent/retrieve effort, not reel
+  capacity) to run a thinner braid test on this class of gear.
 - **2025 recap (`Q4sW6JRQzAY`, 2025-08-04) — same reel class, first spectra
   test range logged on this note:** reels restated as **size 20 Shimano
   Talica** (captions render this "talas") up through an **International 50

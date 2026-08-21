@@ -2598,7 +2598,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | X-itrm5QkcM | Tackle Express | tutorial | parameter-skim | done | species/white-seabass.md; techniques/swimbaits.md / Added a species-router row + a technique subsection on flanking fluke casters vs. the bait-rail dropper-loop crowd on a WSB drift, correctly capped at medium confidence, cross-linked both ways |
 | XY4ZYDqD4Ag | Tackle Express | tutorial | parameter-skim | done | skipped: transcript is 11 seconds of auto-generated captions containing only interjections, no fishing knowledge despite the title, correctly extracted nothing |
 | XfpUV_z5gFI | Tackle Express | tutorial | parameter-skim | done | lures/lucky-craft-flash-minnow.md / Added attributed white-belly theory (Tackle Express, medium confidence) as a companion rationale to existing color-selection doctrine, after removing an invented biological explanation not present in source |
-| XtPUnC5jQnM | Tackle Express | tutorial | parameter-skim | pending |  |
+| XtPUnC5jQnM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md / merged a second stated reason (jig-descent/retrieve effort) for thin braid into the existing reel/line ladder section, fixed two invented/unhedged claims in the extractor's patch |
 | XxN7EzNDnf8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | Y5crw_rQpeg | Tackle Express | tutorial | parameter-skim | pending |  |
 | YWTDpG6yYWo | Tackle Express | tutorial | parameter-skim | pending |  |
