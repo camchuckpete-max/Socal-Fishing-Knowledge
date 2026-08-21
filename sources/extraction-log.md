@@ -2814,7 +2814,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | zItCqap4RdE | Tackle Express | tutorial | parameter-skim | done | none / lifestyle/personal-narrative video with no SoCal/Baja fishing decision knowledge, technique, tackle, or location content to extract; correctly skipped |
 | zLN0v-gWpeI | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / re-cut of qh3hL2Dt3HY logged as duplicate source, no new claim added |
 | zLvKfwSmIIs | Tackle Express | tutorial | parameter-skim | done | none / reaction-shot short with no fishing knowledge content; correctly skipped, closed pending log row |
-| zVMY4fZydRQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| zVMY4fZydRQ | Tackle Express | tutorial | parameter-skim | done | techniques/slow-pitch-jigging.md / merged as nested restatement sub-bullet under existing ZrcwcugaEe4 Cesar Chang spinning-vs-level-wind doctrine, medium confidence held, flagged as re-cut/non-independent |
 | zVrsCf46_fI | Tackle Express | tutorial | parameter-skim | pending |  |
 | zWpYFTIZP7w | Tackle Express | tutorial | parameter-skim | pending |  |
 | zYcXDoOE6jo | Tackle Express | tutorial | parameter-skim | pending |  |

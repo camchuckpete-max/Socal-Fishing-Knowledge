@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [slow-pitch, spj, jigging, rockfish, yellowtail, thin-braid, baja, sea-of-cortez, sand-bass, calico-bass]
-sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg, 6SClBs16L2Y, ZrcwcugaEe4]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two
+sources: [dLj0sW_l-_A, PRNMGpLj7Pw, OHxbPovgvgc, vqsD0qpwcJA, cameron, M8hOYQ_6rSg, 0dIwWiOc1NY, -nIhadZwxAA, Et2TUskzCSs, 7T6dIYqr3KI, 05uB5V_jWTg, 6SClBs16L2Y, ZrcwcugaEe4, zVMY4fZydRQ]   # Jtf-bU4aM-c is the same recording as vqsD0qpwcJA re-uploaded under a new title (verified 2026-08-17: same duration, 0.989 body similarity) — one source, not two; zVMY4fZydRQ is a later, shorter restatement of the ZrcwcugaEe4 spinning-vs-conventional doctrine by the same speaker, not independent confirmation
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, open-ocean]
@@ -276,6 +276,18 @@ Execution only; species and situations are the reverse map in **Linked from**.
     logic in [knife/speed jigging](knife-jigging.md#gear-class-detail). The
     tradeoff: a hooked fish on a spinning setup can't be racked on the rail
     the way a West Coast conventional can.
+    - **Restated in a dedicated follow-up short, with two added specifics
+      (Cesar Chang, Tackle Express, "Spinning vs Baitcasting for Jigging?
+      Ceasar Breaks It Down," `zVMY4fZydRQ`, 2025-06-09, ~3 months after the
+      breakdown above — a re-cut of the same doctrine, not independent
+      confirmation; medium confidence):** the level-wind pick is scoped
+      explicitly to **slow jigging** — stated as "not so much for speed
+      jigging." And the spinning/short-rod speed-jig pairing above works, per
+      this restatement, because the shorter rod lets the angler **keep up
+      with the swing of the jig** — matching the rod's swing to the jig's
+      swing is what makes the jig "dance" and lets the faster spinning pickup
+      actually translate into a faster-worked jig, rather than the rod
+      lagging behind the angler's retrieve tempo.
 - **Line — thin braid is the whole point.** No stretch for action, and thin
   diameter so the jig **falls straight down**; even a jump from ~20 lb to 30/40/50
   lb braid adds scope and blows the jig sideways. Deeper water → thinner braid.
