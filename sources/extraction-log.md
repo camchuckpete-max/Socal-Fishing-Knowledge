@@ -2655,7 +2655,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | dnHev1PcLts | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable, promotional product video (Stick Jacket Pro Series rod covers), no SoCal/Baja fishing knowledge |
 | dpz4M1IEYQg | Tackle Express | tutorial | parameter-skim | done | none: 15s auto-caption clip with no extractable parameter/doctrine content, correctly skipped |
 | dt3FXL-HjVo | Tackle Express | tutorial | parameter-skim | done | none: 33s pure promotional event-announcement, no fishing content, correctly skipped |
-| dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | pending |  |
+| dvmyKsk5BCo | Tackle Express | tutorial | parameter-skim | done | none: 40s promotional/personal-reflection clip, no fishing knowledge |
 | eLwier3zVdo | Tackle Express | tutorial | parameter-skim | pending |  |
 | eMAM6cjzANI | Tackle Express | tutorial | parameter-skim | pending |  |
 | eOLoHxoqk6E | Tackle Express | tutorial | parameter-skim | pending |  |
