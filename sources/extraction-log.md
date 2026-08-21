@@ -2558,7 +2558,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Rtwz0oEfrKw | Tackle Express | tutorial | parameter-skim | done | tackle/line-and-leader.md / parameter-skim: added straight-pull 80lb-braid-doesn't-break claim + 65lb/200g-and-under jig-braid working choice with hull-abrasion caveat, medium confidence |
 | S0-BCQWA0H4 | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / merged as earlier same-channel elaboration of existing 'don't jig in place inside a marked school' entry: sonar-marking + drop-to-bottom + rip-or-yo-yo mechanics |
 | S9sQ8Vg8-5o | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; lures/knife-jigs.md; species/rockfish-lingcod.md; tackle/tackle-express-rockfish-leader-line.md; techniques/dropper-loop.md; techniques/rockfish-deep-dropping.md; techniques/wind-in-your-face-positioning.md / parameter-skim of full rockfish gear-guide merged across 7 notes; de-duplicated 5 previously-separate short-clip citations as re-cuts of this video |
-| SDNXNdGdmSQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| SDNXNdGdmSQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: out-of-scope freshwater bass content, no SoCal/Baja saltwater fishing knowledge present |
 | SH5CZQi9ATw | Tackle Express | tutorial | parameter-skim | pending |  |
 | SK2M7L2vA1s | Tackle Express | tutorial | parameter-skim | pending |  |
 | SL4zZbzdXNA | Tackle Express | tutorial | parameter-skim | pending |  |
