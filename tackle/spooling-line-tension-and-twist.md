@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [spooling, line-twist, tension, braid, spinning-reel, conventional-reel, baitcaster, line-machine, wind-knots, line-lay]
-sources: [JmGT0zAaVOY, PoTRe9SRjm8]
+sources: [JmGT0zAaVOY, PoTRe9SRjm8, YWTDpG6yYWo]
 confidence: medium
 ---
 
@@ -52,24 +52,38 @@ tight](../techniques/spinning-reel-wind-knots.md).
 ## Line-lay taper — a second, separate spinning-reel wind-knot cause
 
 Tackle Express, `PoTRe9SRjm8`, "Stop the wind knots: Fix your spinning reel
-spool now!," uploaded 2026-06-17; unregistered channel, single mention —
-medium confidence. This is a **different failure mode from the line-twist
-mechanism above** — it's about how the spool sits on the reel and the shape
-of the resulting line lay, not about how the fresh line was fed onto the
-spool during respooling.
+spool now!," uploaded 2026-06-17 (diagnostic angle), and `YWTDpG6yYWo`, "Tired
+of wind knots? Your reel might just need this simple tweak," uploaded
+2026-06-10 (mechanism/fix angle, and the earlier upload of the two); same
+channel, unregistered — repeated across at least two clips, medium confidence
+(channel cap applies regardless of repetition). This is a **different failure
+mode from the line-twist mechanism above** — it's about how the spool sits on
+the reel and the shape of the resulting line lay, not about how the fresh
+line was fed onto the spool during respooling.
 
 - **Diagnose by eye, looking at the line lay on the spool.** A correctly
   spooled spinning reel lays line **either dead level or with a very slight
-  forward taper** (visually flagged "Yep" in the source).
+  forward taper** (visually flagged "Yep" in `PoTRe9SRjm8`; stated the same
+  way in `YWTDpG6yYWo`).
 - **A reverse taper — the spool sitting too far forward — causes wind knots
-  nearly every time** (visually flagged "Nope," with red reference lines on
-  the spool showing the taper direction). Stated mechanism: with a reverse
-  taper, the line coming off the **back** of the reel catches on line already
-  laid at the **front** of the spool.
-- The clip is a diagnostic only — 31 seconds, showing the "Nope" vs. "Yep"
-  spool shapes side by side. It does not state the fix (e.g., adding/removing
-  spool washers to move the spool's position on the shaft), so that step is
-  left unrecorded here rather than invented.
+  nearly every time** (visually flagged "Nope" in `PoTRe9SRjm8`, with red
+  reference lines on the spool showing the taper direction). Stated
+  mechanism: with a reverse taper, the line coming off the **back** of the
+  reel catches on line already laid at the **front** of the spool.
+- **The mechanism and the fix — spool position is set by washers
+  (`YWTDpG6yYWo`).** A spinning reel ships with a small bag of washers in the
+  reel box. These washers set how far forward the spool sits relative to the
+  rotor and roller — stated on camera as "your level wind for a spinning
+  reel." Effect of position:
+  - Spool sitting **too far back** → line stacks too far forward.
+  - Spool **balanced** → line stacks evenly (the dead-level/slight-forward-taper
+    target above).
+  - Spool **too far forward** → reverse taper, the wind-knot-causing shape.
+  - This fills the gap the diagnostic-only `PoTRe9SRjm8` clip left open (that
+    clip showed the "Nope" vs. "Yep" shapes but didn't state the fix): the
+    adjustment is changing the washer stack under the spool to move it
+    forward/backward on the shaft until the lay is dead level or has a very
+    slight forward taper.
 
 ## Shop machine — what it buys you
 

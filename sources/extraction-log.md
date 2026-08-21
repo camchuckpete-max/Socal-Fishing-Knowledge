@@ -2601,7 +2601,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | XtPUnC5jQnM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md / merged a second stated reason (jig-descent/retrieve effort) for thin braid into the existing reel/line ladder section, fixed two invented/unhedged claims in the extractor's patch |
 | XxN7EzNDnf8 | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md / added as a source, correctly flagged as a re-cut/duplicate of S9sQ8Vg8-5o footage and explicitly excluded from independent corroboration |
 | Y5crw_rQpeg | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md; tackle/tackle-express-mustad-heavy-duty-pliers.md; techniques/beach-lure-depth-control.md / new low-confidence tackle note (Penn Fathom Low Profile / Okuma Seros / Daiwa HMKL surf combo) created and cross-linked; one overclaiming link description fixed |
-| YWTDpG6yYWo | Tackle Express | tutorial | parameter-skim | pending |  |
+| YWTDpG6yYWo | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md / merged washer-position mechanism/fix into the existing line-lay-taper section, filling the gap the diagnostic-only PoTRe9SRjm8 clip left open |
 | YyW4-8FRjn8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | pending |  |
 | ZMrCAG7Cqmg | Tackle Express | tutorial | parameter-skim | pending |  |
