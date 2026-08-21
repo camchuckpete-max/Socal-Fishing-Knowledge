@@ -2716,7 +2716,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | kt3G72gUldM | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md / single-hook Current Sniper conversion (BKK Lone Sniper 3/0/2/0, barbless) added as conflicting rigging choice beside existing stock-treble guidance |
 | kuIKWNZ3Koo | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass PB rats wake-bait plug, no SoCal/Baja saltwater content - nothing extractable |
 | lNXZD79BvJY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 45s generic hype clip on tungsten jigs for nighttime jumbo bluefin, no parameters given, topic already covered elsewhere |
-| lYnD_MiALL8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| lYnD_MiALL8 | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / added missing sources-array entry for already-cited re-cut of S9sQ8Vg8-5o; no new doctrine |
 | l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | pending |  |
 | m6NxHaIifj8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | mDRSoMYxDuY | Tackle Express | tutorial | parameter-skim | pending |  |
