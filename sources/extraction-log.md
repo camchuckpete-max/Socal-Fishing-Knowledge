@@ -2545,7 +2545,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | QJeYLzFEbzs | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: freshwater Florida-strain largemouth bass wacky-rig content at Castaic Lake, out of scope |
 | QP6c8vcslVs | Tackle Express | tutorial | parameter-skim | done | planning/electronics-and-sounder.md / merged as second source (re-cut of KjVLn4cWHbc) confirming 20/40/60ft search pattern bullet; evaluator removed unsupported suspended/structure claim |
 | QQlQcPXARWk | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-penn-handle-knob-replacement.md; tackle/reel-maintenance.md; tackle/tackle-express-speedmaster-fathom-reel-sizing.md / new note for Penn Fathom/Torque/Squall handle-knob kit; evaluator corrected confidence low->medium |
-| QTq-G2y237w | Tackle Express | tutorial | parameter-skim | pending |  |
+| QTq-G2y237w | Tackle Express | tutorial | parameter-skim | done | none / skipped: freshwater bass tackle (Senko/Carolina rig/Ned rig/Nako rig), no SoCal/Baja saltwater content |
 | Qj6brwOJk9E | Tackle Express | tutorial | parameter-skim | pending |  |
 | Qqdt6f8Mjd4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | R0TQ7Afsh6Y | Tackle Express | tutorial | parameter-skim | pending |  |
