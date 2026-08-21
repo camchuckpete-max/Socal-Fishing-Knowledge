@@ -2631,7 +2631,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | bCQLyxKQAok | Tackle Express | tutorial | parameter-skim | done | skipped: content-free transcript, part of channel's freshwater bass blade-bait series, out of KB scope |
 | bi2X9ANvDBs | Tackle Express | tutorial | parameter-skim | done | freshwater bass fishing content, entirely out of scope for SoCal/Baja saltwater KB - correctly skipped |
 | blG8NnDhQ1c | Tackle Express | tutorial | parameter-skim | done | tackle/rod-blank-and-component-materials.md: added blG8NnDhQ1c as 4th provenance-only re-cut of reel-seat-material claims, no new content |
-| bvYMtjbflq8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| bvYMtjbflq8 | Tackle Express | tutorial | parameter-skim | skipped | skipped: freshwater largemouth-bass Neco/wacky-worm rigging tutorial at Castaic Lake, out of scope, not SoCal/Baja saltwater |
 | cAZRaGB_RRM | Tackle Express | tutorial | parameter-skim | pending |  |
 | cBATKqWkQws | Tackle Express | tutorial | parameter-skim | pending |  |
 | cNfPlAZWLB8 | Tackle Express | tutorial | parameter-skim | pending |  |
