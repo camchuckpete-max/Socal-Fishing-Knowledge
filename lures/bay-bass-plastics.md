@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY, sPs3Civek1w]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -159,6 +159,14 @@ line, small red octopus or black/red mosquito hooks).
   started producing the pearl white color for 2025; his stated reason for
   naming it is that pearl white/white is, in his experience, consistently "an
   excellent halibut color" that's "tough to beat these days."
+- **Re-cut short clip (Tackle Express, `sPs3Civek1w`, "Halibut magnet bait
+  revealed! See the 4 killer colors.," 2026-02-08; unregistered channel — same
+  confidence tier, medium):** a 34-second short that is word-for-word the
+  closing bait/color segment of this same longer `BPxE3xn3gAc` video (from
+  "the best lure I've found for doing this kind of fishing" through the
+  pearl-white/2025 close) — not an independent sighting, logged here for
+  provenance only; no new bait, size, color, or reasoning beyond the four
+  bullets above.
 
 Router: [California halibut](../species/california-halibut.md).
 

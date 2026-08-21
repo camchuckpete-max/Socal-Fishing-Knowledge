@@ -2771,7 +2771,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | sGnY4QxqMmI | Tackle Express | tutorial | parameter-skim | done | lures/knife-jigs.md: merged Mustad Rip Roller vs Nomad Streaker shape comparison, re-cut of ZrcwcugaEe4/5XWnm7ok09k interview, medium confidence |
 | sJGs-Jqt9Vo | Tackle Express | tutorial | parameter-skim | done | conditions/current-diagnostics.md: attributed alternate scoped-out-line fix (flick up-swell vs wind-it-in) added side by side in Line scope section |
 | sPgP0aBUQm8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-how-co-split-ring-pliers.md; tackle/tackle-express-maxima-shark-tooth-leader-tool.md; tackle/spooling-line-tension-and-twist.md; tackle/tackle-express-mustad-heavy-duty-pliers.md / two new low-confidence tackle notes (split-ring pliers, leader-spool band/cutter) cross-linked; four freshwater/bass-technique products correctly skipped as out-of-scope |
-| sPs3Civek1w | Tackle Express | tutorial | parameter-skim | pending |  |
+| sPs3Civek1w | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / word-for-word re-cut of already-extracted BPxE3xn3gAc closing segment (Basstrix Flash Trick halibut colors); added as provenance-only source, no new doctrine |
 | sSH80AImFX4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | sj_9QYlGtGo | Tackle Express | tutorial | parameter-skim | pending |  |
 | sl2MRqpiS60 | Tackle Express | tutorial | parameter-skim | pending |  |
