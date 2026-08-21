@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, daiwa, saltiga, bearings, gears, drag, big-game, tackle-express]
-sources: [AhICQlAsreU]
+sources: [AhICQlAsreU, JgD1gOuQAaE]
 confidence: low
 ---
 
@@ -25,12 +25,19 @@ channel.
   bearing** is said to keep impurities — named examples: salt, sand, "or
   anything else that doesn't belong" — from getting inside the reel.
 - **Digigear system.** A digitally-designed gear set for both the stainless
-  main gear and drive gear, pitched as giving greater power, durability, and
-  smoothness. The transcript's auto-captions render the first gear as
-  "canyon" gear — that doesn't match any real reel component and isn't
-  confirmed against the title or description, so it's flagged
-  **asr-uncertain** rather than guessed at (possibly "pinion," the
-  conventional pairing with a drive/main gear, but not asserted here).
+  **pinion and drive gear**, pitched as giving greater power, durability, and
+  smoothness. This transcript's auto-captions render that first gear as
+  "canyon" gear — not a real reel component, and not confirmed against the
+  title or description at the time this note was first written, so it was
+  flagged **asr-uncertain** (a guess of "pinion," the conventional pairing
+  with a drive/main gear, was noted but not asserted). **Resolved by a
+  second, near-identical Tackle Express clip** — same channel, same Digigear/
+  CRBB/ATD script, `JgD1gOuQAaE`, "Daiwa Saltiga vs. Shimano Talica," uploaded
+  2024-12-27 — whose captions render the same line clearly as "the stainless
+  pinion and drive gear." This is a re-cut/re-use of the same marketing copy,
+  not independent confirmation of a *claim*, but it does resolve the caption
+  ambiguity: **pinion** is written above as confirmed, the `asr-uncertain`
+  flag is lifted for this specific word.
 - **Automatic Tournament Drag (ATD).** The stated headline feature is an
   upgraded drag grease, said to perform better under heat. The
   same redesigned grease is credited with reducing the drag's **startup
@@ -42,10 +49,11 @@ in this clip.
 
 ## Related
 
-- [Daiwa Saltiga 35 vs. Shimano Talica 12 — reel spec comparison (Tackle
-  Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md) — a
-  different, later Tackle Express Saltiga clip that names an actual model
-  (the 35) with weight, line capacity, drag, and gear-ratio figures this
+- [Daiwa Saltiga vs. Shimano Talica — two-speed reel spec comparison, small
+  & large pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
+  — two different, later Tackle Express clips (one of them `JgD1gOuQAaE`,
+  the same source that resolves the "pinion" caption above) that name actual
+  models with weight, line capacity, drag, and gear-ratio figures this
   general-features clip doesn't give.
 - [Reel & rod maintenance](reel-maintenance.md) — general corrosion-prevention
   and bearing/gear care discipline (rinse, dry, grease) that this reel's CRBB
@@ -62,6 +70,6 @@ in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Daiwa Saltiga 35 vs. Shimano Talica 12 — Two-Speed Reel Spec Comparison (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
+- [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->
