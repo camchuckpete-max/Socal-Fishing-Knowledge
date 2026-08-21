@@ -2736,7 +2736,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | nwmIqR2VgfI | Tackle Express | tutorial | parameter-skim | done | tackle/rod-action-testing-technique.md / merged hip-pull rod-test safety rationale (no risk of breaking rod) into existing note |
 | o5TR7y6-q6A | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 61s promo anecdote, no SoCal/Baja parameters, only location (Morro Bay) is out of region |
 | o7Kd0aNAijQ | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic packing/clothing/luggage logistics, no fishing knowledge, out of scope per curation bar |
-| oGCAX8dgR5o | Tackle Express | tutorial | parameter-skim | pending |  |
+| oGCAX8dgR5o | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 17s clip is ambient dialogue fragments, no fishing knowledge despite title |
 | okJCANlWWE4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | osAuU0W9zKA | Tackle Express | tutorial | parameter-skim | pending |  |
 | ov0T5MPdl_E | Tackle Express | tutorial | parameter-skim | pending |  |
