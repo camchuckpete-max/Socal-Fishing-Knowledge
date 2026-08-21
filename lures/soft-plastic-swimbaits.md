@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, hjZ3hgq0Bzg, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA, jWPv-OOM3uk, klb0VSg_I3w, nRIAgz5G_Bc, rd2Ia8HRbSg]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -85,6 +85,15 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   though a **chartreuse** or **mint chartreuse** shade was called the
   standard — consistent with, not new beyond, the "color matters little"
   framing above.
+  **Re-cut short clip, paired with the Owner ST-66 hook story (Tackle
+  Express, `rd2Ia8HRbSg`, "Don't let a weak hook ruin your next big catch.
+  Upgrade now.," upload 2026-05-09; unregistered channel — medium
+  confidence):** a 46-second short covering the same trip/interview (see
+  [hooks — Owner
+  ST-66](../tackle/hooks.md#owner-st-66--cedros-yellowtail-bait-hook-upgrade-for-volume-not-finesse-tackle-express-9kgpcehqiuc-reeling-in-30lb-yellowtail-the-cedros-secret-weapon-upload-2026-05-06-unregistered-channel--medium-confidence-region-baja-pacific-cedros-island)
+  for that half), restating the same 7-in/Elaztech/five-calicos-per-bait/
+  1-oz-jighead claims near-verbatim — not an independent sighting, logged for
+  provenance only.
 - **4-in vs 5-in sizing, and O-ring/band keeper hardware (Tackle Express,
   `-zw76Sh7YCI`, 2026-04-10; unregistered channel, single mention — medium
   confidence):** on the same worm-style swimbait, the **4-in and 5-in sizes
