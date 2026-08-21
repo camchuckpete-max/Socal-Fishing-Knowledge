@@ -2730,7 +2730,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | nZfEB7466ys | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md / confirmed re-cut of _rcxIWhNMSE cylinder-weight/lead-vs-tungsten segment, provenance note only |
 | nizu9cpPXUs | Tackle Express | tutorial | parameter-skim | done | none / skipped: generic packing/logistics content only, no SoCal/Baja fishing knowledge |
 | nlrSBi_hrrg | Tackle Express | tutorial | parameter-skim | done | techniques/spinning-reel-wind-knots.md / third re-cut citation, payoff framing for 8-carrier braid, confidence held at medium |
-| nnQFIho8sa0 | Tackle Express | tutorial | parameter-skim | pending |  |
+| nnQFIho8sa0 | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 36s reaction clip, no gaff/technique/parameter content despite title |
 | ntS17IEKyJ0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | nwjIEWJyjKU | Tackle Express | tutorial | parameter-skim | pending |  |
 | nwmIqR2VgfI | Tackle Express | tutorial | parameter-skim | pending |  |
