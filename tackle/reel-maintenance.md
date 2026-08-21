@@ -409,6 +409,7 @@ or a compressed drag going into storage.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Penn Handle Knob Replacement Kits — Fathom, Torque, Squall (Tackle Express)](tackle-express-penn-handle-knob-replacement.md)

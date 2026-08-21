@@ -2552,7 +2552,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | R1spZEO1V-0 | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: near-verbatim re-cut of E4CDqBFOaP8, already captured in species/california-halibut.md and lures/lucky-craft-flash-minnow.md |
 | R4yYK90-cZM | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / parameter-skim add: Megabass Sleeper Gills hollow-body/hidden-hook construction, jig-or-straight-swim, low confidence (promotional stock-alert) |
 | R6ErrEIjlWw | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md / added nested rigging sub-bullet (nose-hook/twist/exit-point-match + 3-in variant + field fix) under War Baits neck-breaker bullet, medium confidence; fixed pre-existing front-matter sources gap for XyKF34C5iB4 |
-| RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | pending |  |
+| RKfI8g_aRu8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-daiwa-luvias-st-spinning-reel.md; tackle/gear-classes.md / new low-confidence tackle spec-sheet note for Daiwa Luvias ST, linked from gear-classes.md, ASR uncertainties flagged (Zaion/monocoque, 20000->2000) |
 | RbOWJ0BAqSo | Tackle Express | tutorial | parameter-skim | pending |  |
 | RoBoQ6kulwA | Tackle Express | tutorial | parameter-skim | pending |  |
 | Rtwz0oEfrKw | Tackle Express | tutorial | parameter-skim | pending |  |

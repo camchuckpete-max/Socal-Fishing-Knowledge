@@ -896,6 +896,7 @@ a bluefin).
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Composite Rod Blanks — the Visible Transition Line Is Intentional](composite-rod-blank-construction.md)
+- [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Drag Setting — General Judgment](drag-setting.md)

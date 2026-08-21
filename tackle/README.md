@@ -49,6 +49,7 @@
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md) — Tackle Express, "Level Up Your Swimbait Game with THIS Hook" (L_YH_xT7Pfs, uploaded 2025-06-23, 93 s) — a straight product-feature rundown of two BKK swimbait-h
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md) — Tackle Express, "Ditch the heavy tuna gear for your next trip!," QEmxUIGmKbo, uploaded 2026-07-08 — a 55-second tackle-counter clip.
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
+- [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Tackle Express, "New Daiwa Luvias ST Spinning Reel – Featherlight Power for Serious Anglers!," RKfI8g_aRu8, uploaded 2025-08-14 — a 90-second feature rundown fo
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Tackle Express, "A look at ICAST 2022 - The World's Largest Fishing Tradeshow," 75lUj-uaArQ, uploaded 2022-08-06 — an 85-minute booth-to-booth walk of the 2022
 - [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Tackle Express (Harry, Ecqt-ZLnvaU, "Why Izorline XXX Is THE Go-To Mono for Anglers," uploaded 2025-06-17; unregistered channel, explicit shop/product promotion
@@ -69,5 +70,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 59 notes exceed the 30-node cap._
+_Map skipped: 60 notes exceed the 30-node cap._
 <!-- mermaid:end -->

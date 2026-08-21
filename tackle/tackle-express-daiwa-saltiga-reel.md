@@ -70,6 +70,7 @@ in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 <!-- backlinks:end -->
