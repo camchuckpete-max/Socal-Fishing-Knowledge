@@ -1366,6 +1366,13 @@ water temp and bait depth before committing the day to one face.
 
 - **Surface iron:** jig-stick class — a 9–10 ft jig stick throwing
   [iron jigs](../lures/iron-jigs.md) (Tady 45 / JRI Stinger class up top).
+- **Casting reel over heavy tuna gear:** a tackle-counter recommendation —
+  anglers often bring reels heavy enough for bluefin when targeting yellows;
+  a casting reel (Daiwa Lexa, Penn Fathom, Shimano Tranx class) or, for
+  anglers new to conventional gear, a spinning rod, is enough to huck these
+  lures out and makes for a better day. See [casting reel for sea bass and
+  yellowtail](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
+  (QEmxUIGmKbo).
 - **Yo-yo:** a stout **40–60 lb class** rod with a **high-speed reel** to burn a
   heavy iron (Salas 6X class) off the bottom.
 - **Dropper loop:** same heavy class rod, live bait to a
@@ -1483,6 +1490,7 @@ water temp and bait depth before committing the day to one face.
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

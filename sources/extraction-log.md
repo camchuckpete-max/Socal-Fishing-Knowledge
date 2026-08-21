@@ -2539,7 +2539,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Q4WWkbc9nag | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md; tackle/tackle-express-charter-bait-tank-hook-kit.md / pre-scented packaged bait, double dropper loop, 1/0 Owner Aki Twist hooks merged; evaluator removed unsupported rock-cod inference |
 | Q4sW6JRQzAY | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-trophy-bluefin-jig-outfit.md / 2025 recap folded into existing 2022 note as dated side-by-side citations (jig weight band, rig reasoning, reel/spectra class) |
 | Q6ACpkS93sk | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md / corroborating citation: double dropper loop for SoCal rockfish, torpedo sinker, Owner Aki Twist 1/0 example |
-| QEmxUIGmKbo | Tackle Express | tutorial | parameter-skim | pending |  |
+| QEmxUIGmKbo | Tackle Express | tutorial | parameter-skim | done | species/white-seabass.md; species/yellowtail.md; tackle/tackle-express-white-seabass-rod-reel-line.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md / casting-reel-over-heavy-tuna-gear recommendation added to both species routers and new tackle note |
 | QEpa3WYbEa8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | QJd7A6oiV4U | Tackle Express | tutorial | parameter-skim | pending |  |
 | QJeYLzFEbzs | Tackle Express | tutorial | parameter-skim | pending |  |

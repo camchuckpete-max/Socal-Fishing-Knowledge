@@ -63,9 +63,14 @@ mods](../rigging/leadhead-mods.md).
   general class-term doctrine this note supplies model-level detail for.
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) —
   general mono-vs-braid tradeoffs.
+- [Casting reel for sea bass and yellowtail](tackle-express-casting-reel-for-seabass-yellowtail.md) —
+  a shorter, corroborating clip naming Daiwa Lexa/Penn Fathom/Shimano Tranx
+  as casting-reel picks in place of heavy tuna gear, plus a spinning-rod
+  option for anglers new to conventional reels.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

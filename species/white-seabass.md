@@ -131,7 +131,13 @@ into the spot once the current read right.
   (WSB have soft mouths and pull the hook easily on straight braid) — see the
   full rod/reel/line breakdown in [Tackle Express — white seabass rod, reel,
   and line](../tackle/tackle-express-white-seabass-rod-reel-line.md)
-  (Eo_bA8IWvyU). See also [gear classes](../tackle/gear-classes.md).
+  (Eo_bA8IWvyU). A shorter, corroborating tackle-counter clip names three
+  specific casting-reel models (Daiwa Lexa, Penn Fathom, Shimano Tranx) as a
+  step up from the heavy tuna-class reels anglers often over-bring for this
+  species, and calls out spinning rods as a good option for anglers new to
+  conventional gear — see [casting reel for sea bass and
+  yellowtail](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
+  (QEmxUIGmKbo). See also [gear classes](../tackle/gear-classes.md).
 - **Terminal:** **[lead-head + squid](../rigging/leadhead-mods.md)** (2–3 squid
   threaded up the head), **[dropper loop](../techniques/dropper-loop.md)** with
   squid, **[surface iron](../lures/iron-jigs.md)** for the cast,
@@ -278,6 +284,7 @@ into the spot once the current read right.
 - [California Halibut](california-halibut.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
+- [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
