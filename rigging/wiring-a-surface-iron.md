@@ -1,7 +1,7 @@
 ---
 type: rig
-tags: [surface-iron, wire, haywire-twist, candy-bar, slack-current, jig-rigging]
-sources: [764kFzACKTc, XyKF34C5iB4]
+tags: [surface-iron, wire, haywire-twist, candy-bar, slack-current, jig-rigging, swivel, line-twist]
+sources: [764kFzACKTc, XyKF34C5iB4, N24NBweNK4o]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
@@ -167,6 +167,25 @@ surface-iron application:
     and around rocks that extra play is enough to bother him even though he
     calls it a "marginal" difference. Framed on camera as an overthinking
     habit he's aware of, not a claim the clip actually fails mechanically.
+- **Swivel on a small, hard-fluttering iron — an anti-twist fix, not an
+  action fix (Tackle Express, `N24NBweNK4o`, 2026-03-28; unregistered
+  channel — medium confidence).** For a small "mini" surface-iron-style jig
+  (a light jig-style bait, smaller than the standard-class irons this note
+  otherwise covers), the stated recommendation is to add a **high-quality
+  swivel directly onto the split ring at the nose/top of the bait**, right
+  out of the box. Named options: **Owner** or **VMC** — VMC's is called out
+  as "fantastic" — roughly a **#6, maybe 30 lb** swivel. The only reason
+  given on camera is that the bait **"really flutters"** — the clip ends
+  there and never says the word "twist." Read against a swivel's ordinary
+  job (letting the terminal end spin free of the main line), the implied
+  purpose is anti-twist hardware for a bait that flutters/spins hard, not
+  an action-softening pivot the way Wade's wire link is above — but that
+  mechanism is this note's inference, not a stated claim, and is flagged as
+  such rather than folded into the speaker's words. **Duplicate
+  footage:** the same 33-second clip was re-uploaded by the same channel as
+  `auiXY0R9ri8` ("Stop losing fish! The essential upgrade for your mini
+  iron," 2026-03-14) — identical content, not independent confirmation;
+  logged once here.
 
 ## Rig it
 

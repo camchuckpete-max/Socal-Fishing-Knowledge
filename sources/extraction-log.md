@@ -2502,7 +2502,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ME2jrqS_5bo | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: generic wacky-rig bite-detection tips, no SoCal/Baja-specific content, fails curation bar |
 | MKe-Xu4XsGk | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 15s clip, transcript only a single garbled ASR token, no content to capture |
 | MbYjzhHsiTU | Tackle Express | tutorial | parameter-skim | done | none / correctly skipped: 100% freshwater bass lure preview, no SoCal/Baja saltwater content |
-| N24NBweNK4o | Tackle Express | tutorial | parameter-skim | pending |  |
+| N24NBweNK4o | Tackle Express | tutorial | parameter-skim | done | rigging/wiring-a-surface-iron.md / added swivel-on-split-ring anti-twist entry for mini-iron jig; noted duplicate pairing with pending auiXY0R9ri8 |
 | NBSJsN7uTKQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | NF8AJjqsDO8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | NGkXPkE8kWI | Tackle Express | tutorial | parameter-skim | pending |  |
