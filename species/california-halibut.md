@@ -1,7 +1,7 @@
 ---
 type: species
 tags: [halibut, flatfish, sand, eelgrass, drift, bays, structure-edge, grunion, surf, spawning]
-sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk, ghHQe3fP9U4, hjZ3hgq0Bzg]
+sources: [OpcKQPA3vAI, a5u8BaYzw8c, 6TBxHnkYXI0, Qa-j6LIwa1Q, xIUKmH9ccgQ, 9tIp4n7q850, Zo92MG459gQ, MUpvP-Yl2R0, 46ha7J1Fc6A, 5Oh3IPIC5g4, 1l05hEXDaWw, 9qwsg-e9ECA, Bok0db0G4xE, E4CDqBFOaP8, EuYOlsnxXko, OURS05qEGcA, PJEG_RIkzF0, Qqdt6f8Mjd4, akUrZ_OYy4c, dWqD8l3jW6w, eOLoHxoqk6E, fHMwcm1xRQk, ghHQe3fP9U4, hjZ3hgq0Bzg, ijNOphK4XRA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island]
@@ -258,6 +258,15 @@ conditions that put one there.** (General search method:
   pause**, and the **fourth bite** hooked a fish described on camera as big.
   Recorded as a single-session account illustrating the aggressive-retrieve
   doctrine just above, not independent confirmation beyond it.
+  **Re-cut as a Short** (`ijNOphK4XRA`, "Stop Guessing: The Only 4 Halibut
+  Colors You Need," 2026-05-14; same channel): a 35-second clip lifted
+  word-for-word from this same footage (00:08:28–00:09:05 of
+  `eOLoHxoqk6E`), covering the white/chartreuse/pink/mint color-family line
+  above verbatim; it cuts off right as the source video teases the
+  white-belly theory ("I have a theory about that") and does not include the
+  theory explanation itself. Re-cut/duplicated footage, not independent
+  confirmation — logged per that rule, no new content beyond what's already
+  captured here.
 
 - **Observed** (StokedOnFishing, 2015-01-18, Cedros Island, Baja —
   `Qa-j6LIwa1Q`, Cedros Island Adventure part 1): an incidental halibut catch
