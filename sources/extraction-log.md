@@ -2674,7 +2674,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | fVtiwvqhzgI | Tackle Express | tutorial | parameter-skim | done | none / promotional Tackle Express product ad for Jackall Binksy topwater lure - no species, location, or SoCal/Baja-specific technique detail; correctly skipped |
 | fnaGBGbrhqU | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md / merged trigger (seabirds + wide-open bite) and bait shape (three-piece hard bait) into the existing triple-trout citation, hedged against the unconfirmed same-trip assumption |
 | foLSQJ5oRWI | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md / Third re-cut of the Cesar Chang FG-vs-PR-knot interview appended as a dated correction block to the existing pr-knot note; confidence held at medium, sources array updated, no new note created |
-| g5yDzjORhho | Tackle Express | tutorial | parameter-skim | pending |  |
+| g5yDzjORhho | Tackle Express | tutorial | parameter-skim | done | rigging/leadhead-mods.md; lures/soft-plastic-swimbaits.md / Added War Baits Slayer/Pickle Kick open-hook rigging steps (exit-point marking, insertion, finish, straight-track/bite-rate reason) and cross-linked a named-example pointer |
 | gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | pending |  |
 | gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | pending |  |
 | gdACAKN8T7A | Tackle Express | tutorial | parameter-skim | pending |  |

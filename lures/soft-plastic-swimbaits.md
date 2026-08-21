@@ -308,7 +308,10 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   - A **standard open hook** is the baseline; some versions add a **brush
     guard** that makes it weedless. Stated pick logic: reach for the
     brush-guard version around structure that might snag, skip it when
-    that's not a concern.
+    that's not a concern. A named example of this style is the **War Baits
+    Slayer** head; see [leadhead mods — matching the hook exit
+    point](../rigging/leadhead-mods.md) for step-by-step rigging of a Pickle
+    Kick on it.
   - The **War Baits Neck Breaker** (same head named above) is framed as the
     most weedless of the three — "extremely weedless," thrown into "nasty
     grassy cover with minimal snagging." Its **independent jig head, attached

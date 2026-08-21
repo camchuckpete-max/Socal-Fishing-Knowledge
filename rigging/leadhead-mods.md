@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [leadhead, jig-head, swimbait, squid, white-seabass, rockfish, sliding-sinker, splice, halibut, durability, tube-bait]
-sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8, eOLoHxoqk6E]
+sources: [RXb0HvVwqO4, Xr4nURK-Z48, F-vOTerdulU, Y2bXn44lfqo, xFS3MW4GpDU, 0PAPH1uqk4A, Eo_bA8IWvyU, KUsFT7tN-x0, PnAnAS6QoG8, dDvNAZpmx-8, eOLoHxoqk6E, g5yDzjORhho]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island]
@@ -249,6 +249,28 @@ minnow hardbait but with one big single hook, and it sinks. This fills in
 the bait's brand name for the Scrounger/ChatterBait swap already logged
 above from `Bok0db0G4xE`, which named the heads but not the plastic.
 
+### War Baits Slayer open-hook jig head — matching the hook exit point (Tackle Express, `g5yDzjORhho`, 2025-01-07; unregistered channel, single mention — medium confidence)
+
+Step-by-step rigging for a **3-in Pickle Kick swimbait** on a **War Baits
+Slayer** jig head — the same **open-hook** style named in [soft-plastic
+swimbaits' jig-head-type comparison](../lures/soft-plastic-swimbaits.md), here
+shown with its brush guard.
+
+- **Find the exit point first:** buckle the swimbait up against the jig
+  head's collar before inserting the hook, and sight down the bait to see
+  approximately where the hook point will need to pop back out. Either judge
+  it by feel (thumb/hand) each time, or mark it once with a small
+  indentation/pinch in the plastic as a fixed reference.
+- **Insertion:** push the brush guard out of the way, then start the hook
+  point straight down the center of the head/nose and feed it through
+  slowly, keeping it as straight as possible until it reaches the marked
+  exit point.
+- **Finish:** pop the hook out at the mark, then feed the rest of the bait up
+  the shank until it sits snug against the face of the jig head.
+- **Stated goal and reason:** the rigged bait should end up with no bows or
+  twists — as smooth and straight/natural as possible. Stated reason on
+  camera: a straight, natural-tracking bait increases the number of bites.
+
 ## Rig it
 
 Modifying leadheads: https://www.youtube.com/watch?v=RXb0HvVwqO4
@@ -256,11 +278,13 @@ Leadhead + squid for white seabass: https://www.youtube.com/watch?v=Xr4nURK-Z48
 Dockside leadhead: https://www.youtube.com/watch?v=F-vOTerdulU
 How & when to fish leadhead + squid (mid-column): https://www.youtube.com/watch?v=0PAPH1uqk4A
 Split-ring nose reinforcement for a tube-style soft plastic (halibut): https://www.youtube.com/watch?v=dDvNAZpmx-8
+Rigging a Pickle Kick on a War Baits Slayer open-hook head: https://www.youtube.com/watch?v=g5yDzjORhho
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 <!-- backlinks:end -->
