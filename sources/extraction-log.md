@@ -2559,7 +2559,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | S0-BCQWA0H4 | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / merged as earlier same-channel elaboration of existing 'don't jig in place inside a marked school' entry: sonar-marking + drop-to-bottom + rip-or-yo-yo mechanics |
 | S9sQ8Vg8-5o | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; lures/knife-jigs.md; species/rockfish-lingcod.md; tackle/tackle-express-rockfish-leader-line.md; techniques/dropper-loop.md; techniques/rockfish-deep-dropping.md; techniques/wind-in-your-face-positioning.md / parameter-skim of full rockfish gear-guide merged across 7 notes; de-duplicated 5 previously-separate short-clip citations as re-cuts of this video |
 | SDNXNdGdmSQ | Tackle Express | tutorial | parameter-skim | done | none / skipped: out-of-scope freshwater bass content, no SoCal/Baja saltwater fishing knowledge present |
-| SH5CZQi9ATw | Tackle Express | tutorial | parameter-skim | pending |  |
+| SH5CZQi9ATw | Tackle Express | tutorial | parameter-skim | done | techniques/yo-yo-iron.md / merged 'rip it through' mechanism (heavy thermocline mark not necessarily a true school; ripping stirs and fires fish into chasing) into existing burn/rip-it-up entry, plus multi-angler and keep-lures-in-water add-ons |
 | SK2M7L2vA1s | Tackle Express | tutorial | parameter-skim | pending |  |
 | SL4zZbzdXNA | Tackle Express | tutorial | parameter-skim | pending |  |
 | SR-Fv3xxkVY | Tackle Express | tutorial | parameter-skim | pending |  |

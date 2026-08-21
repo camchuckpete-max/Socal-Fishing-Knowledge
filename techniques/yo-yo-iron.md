@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja, coltsniper]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA, HQC-NwW4018, S0-BCQWA0H4]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA, HQC-NwW4018, S0-BCQWA0H4, SH5CZQi9ATw]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [island, bank, nearshore-coast]
@@ -668,6 +668,25 @@ the reverse map in **Linked from** below.
   as the later clip: stopping the bait inside the school and jigging it in
   place — "some of those fish will not want to bite that bait when you're
   doing that."
+- **The reasoning behind "rip it up"/"burn it" — stirring a dormant, stacked
+  mark into a chasing school (Tackle Express, `SH5CZQi9ATw`, "Turn Slow Days
+  into Limit Days: The Secret to Firing Up Dormant Fish!," 2026-03-23;
+  unregistered channel — medium confidence):** gives the stated mechanism
+  behind the burn/rip-it-up fix in the entry directly above. A heavy mark
+  held at the thermocline **may not be a true school at all** — it can just
+  be **where the fish are stacked/holding**, not a cohesive moving group;
+  this mark type is called out as one seen "quite a bit" on sonar, contrasted
+  on camera with a genuine school shape. Stated technique: **cast the bait
+  and rip it through** the mark; watched back on the sounder, the stirred
+  fish start moving around, and that activity itself **fires the dormant
+  fish up into chasing** the lure — framed as the way to turn a slow day into
+  a limit day. Two practical add-ons, no species/location/depth given: put
+  **two or three anglers on the boat working the same retrieve at once** to
+  multiply the stirring effect, and **keep the lures in the water** rather
+  than pulling up between drops. Corroborates, with the underlying
+  trigger mechanism, the "burn it up" fix in the entry immediately above —
+  same channel, consistent with, not a correction to, the
+  don't-jig-it-in-place doctrine there.
 - **A bycatch species owning the column, and the jig never reaching the
   target.** A yellowtail day planned around yo-yo iron and surface iron was
   abandoned to bonito: *"we tried yo-yo fishing, didn't go well — a lot of
