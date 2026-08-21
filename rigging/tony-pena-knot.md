@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [tony-pena-knot, splice, connection-knot, mono-to-spectra, uni-knot, knot-puller, tackle-prep]
-sources: [7TPJsMc_clA, SK2M7L2vA1s]
+sources: [7TPJsMc_clA, SK2M7L2vA1s, m6NxHaIifj8]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -88,6 +88,16 @@ uni-to-uni this sits beside.
   there). Flagged as a same-name/possibly-different-mechanic pair rather than
   merged, per the pattern already established for the [Seaguar
   knot](seaguar-knot.md).
+- **Same tie, standalone re-cut (Tackle Express, `m6NxHaIifj8`, 2024-12-19 —
+  13 days after `SK2M7L2vA1s`'s 2024-12-06 upload):** a dedicated Tony
+  Pena-only tutorial whose wording and every parameter match the
+  compilation-video tie above (6–10 in tag pulls, 3-wrap mono loop, 7–14
+  wraps scaling inversely with line diameter, the 50 lb braid/40 lb
+  leader/8-wraps-down example, saliva/water/chapstick lubrication ranked the
+  same way, hand-or-glove cinch). Treated as **re-cut/duplicated footage of
+  the same demonstration, not an independent second confirmation** — logged
+  here for provenance only; it does not raise confidence beyond the `medium`
+  this unregistered channel already caps at.
 
 ## Tie it
 
@@ -98,7 +108,11 @@ Knots](https://www.youtube.com/watch?v=SK2M7L2vA1s) (Tackle Express, Harry,
 2024-12-06) — also covers the Palomar, uni-to-uni, Seaguar, dropper-loop, and
 spider-hitch knots, logged in [Essential SoCal Knots](essential-knots.md),
 [Seaguar Knot](seaguar-knot.md), and [Dropper-Loop Knot & Spider
-Hitch](dropper-loop-knot-and-spider-hitch.md).
+Hitch](dropper-loop-knot-and-spider-hitch.md); [How to Tie the Tony Pena
+Knot: Step-by-Step Tutorial for Strong Braid-to-Leader
+Connections](https://www.youtube.com/watch?v=m6NxHaIifj8) (Tackle Express,
+2024-12-19) — the same tie as a standalone tutorial, re-cut/duplicated
+footage per the note above rather than a second confirming source.
 
 <!-- backlinks:start -->
 ## Linked from
