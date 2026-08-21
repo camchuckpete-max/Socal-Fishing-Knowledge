@@ -2796,7 +2796,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | x2cQrPaZ_Z0 | Tackle Express | tutorial | parameter-skim | escalated | escalated: guard: protected path touched: profiles/cameron/rods.md |
 | x5EkH9Vkdrk | Tackle Express | tutorial | parameter-skim | done | none: 28s music-only clip, no spoken fishing content despite title |
 | x7LGWOehuw0 | Tackle Express | tutorial | parameter-skim | done | none: freshwater largemouth bass fishing, out of SoCal/Baja saltwater scope |
-| xFW2002SaQk | Tackle Express | tutorial | parameter-skim | pending |  |
+| xFW2002SaQk | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md; techniques/wacky-rig.md: new wacky-rig technique note (bite detection), medium confidence |
 | xL1sMpmWcnk | Tackle Express | tutorial | parameter-skim | pending |  |
 | x_3ohQ_D-f8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | xfPcA1VRgsw | Tackle Express | tutorial | parameter-skim | pending |  |

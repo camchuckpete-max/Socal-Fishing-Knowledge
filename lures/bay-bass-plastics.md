@@ -1,7 +1,7 @@
 ---
 type: lure
-tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics, keitech]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY, sPs3Civek1w, ulWK3kaVQ5k]
+tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, wacky-rig, finesse, plastics, keitech]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE, aKQqNbgISHY, sPs3Civek1w, ulWK3kaVQ5k, xFW2002SaQk]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -265,6 +265,11 @@ Tackle Express, `ulWK3kaVQ5k`, "Keitech Shad Impact – Finesse Fishing Must-Hav
   reeling up the resulting slack so the bait sits still through the reset;
   repeat drag-pause-drag. From the fish's side it reads as a drag then a dead
   stop, not a swim.
+- **Wacky rig** — [wacky rig](../techniques/wacky-rig.md): fish a stick worm
+  hooked wacky-style with slack in the line, not tight, so both ends keep
+  their free wiggle on the fall; read the bite off the line on the surface
+  (a segmented "sun line" makes the sink and bottom-stop easy to see) rather
+  than waiting to feel it in the rod. No species or location named on camera.
 
 Router: [spotted bay bass (spotties)](../species/spotted-bay-bass.md).
 
@@ -310,4 +315,5 @@ terms above; see [Cameron's tackle](../profiles/cameron/tackle.md).
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Wacky Rig — Reading the Bite in a Slack Line](../techniques/wacky-rig.md)
 <!-- backlinks:end -->
