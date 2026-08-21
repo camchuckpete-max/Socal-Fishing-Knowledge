@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [fighting, rod-handling, rail, pump-and-reel, sportboat, fundamentals]
-sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ, scScYJJF95Y, S6Ic8aXDdIg]
+sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ, scScYJJF95Y, S6Ic8aXDdIg, IqpeK5Xfhes]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -60,6 +60,26 @@ than to the fish:
   the fish continuously through the fight. Repeatedly pulling up and winding
   down without the rail's support will "hurt yourself really bad," called out
   specifically for **bigger bluefin**.
+
+## Hip-braced posture — the other default besides the rail (Tackle Express, "Master Your Fishing Rod Technique for Maximum Control," `IqpeK5Xfhes`, 2026-06-28; unregistered channel, single mention — medium confidence)
+
+A short interview segment names **bracing the rod butt into your hip** as
+the other posture beginners commonly default to, alongside the rail — the
+interviewer's own framing: most new anglers either hold it on their hip or
+put it on the rail, "one of the two if it's on a sport boat."
+
+- **When:** once a hooked fish starts pulling hard and puts real pressure on
+  the angler — described as the point where an angler commonly switches into
+  this posture, distinct from just holding the rod up unsupported.
+- **Mechanics:** put the rod into your hip rather than holding it up on
+  arms/body alone. This forms a **triangle** (rod, arm, body) that shifts the
+  lifting work onto your **legs and back** instead of your arms — stated as
+  giving a lot more lifting power than an unsupported hold. Keeping that
+  braced position straight under load, rather than letting it collapse/bend,
+  is called out as adding more strength.
+- Presented as a companion posture to rail-bracing above, not a replacement
+  for it — the source doesn't rank the two or say when to pick one over the
+  other, only that both are common defaults for a beginner.
 
 ## The failure mode this avoids — high-sticking
 
