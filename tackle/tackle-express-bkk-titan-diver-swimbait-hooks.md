@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [swimbait, hook, bkk, keel-weight, underspin-blade, tackle-express, rigging, pickle-kick, kicker]
-sources: [L_YH_xT7Pfs, WPYrq_jdK2o]
+sources: [L_YH_xT7Pfs, WPYrq_jdK2o, akX66b5WGZA]
 confidence: medium
 ---
 
@@ -81,6 +81,27 @@ video for the visual steps; parameters and judgment calls:
   the rig; the clip cuts off mid-sentence at that point, so the exact final
   action (sliding it back to lock the bait) is inferred from the earlier
   grommet description, not stated on-camera in full.
+
+## Weedlessness tradeoff vs. the Neck Breaker, and body compatibility (Tackle Express, `akX66b5WGZA`, 2025-02-03)
+
+"Jig Head Breakdown: Pick the Right One for Your Swimbaits!" — a 116-second,
+three-way jig-head comparison (standard open hook, War Baits Neck Breaker,
+BKK Titan Diver), no presenter named on camera. Unregistered channel, single
+mention — medium confidence. See [soft-plastic
+swimbaits](../lures/soft-plastic-swimbaits.md) for the full three-way
+comparison; the Titan Diver-specific points:
+
+- **Stated weedlessness tradeoff:** despite being described as a "weedless
+  weighted hook," the Titan Diver's **underspin blade riding underneath** is
+  "more likely to grab some sort of vegetation and affect the action of your
+  swimbait" than the War Baits Neck Breaker named alongside it in the same
+  video, which is called "extremely weedless" by comparison.
+- **Body compatibility:** the underspin is stated to fish on **either the
+  Kicker booty-spin body or the standard Pickle Kick (PK) body** — confirming
+  these as two distinct compatible bodies, not the same product under two
+  names. On the booty-spin body specifically, running **two blades** (vs. the
+  underspin's one) is said to **double the vibration and double the flash**,
+  meant to draw fish up from depth.
 
 ## Related
 

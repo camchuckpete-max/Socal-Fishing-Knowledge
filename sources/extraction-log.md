@@ -2623,7 +2623,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | af7a1tR2B84 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md +4 linked notes: new low-confidence Talica feature-rundown note (S Compact body, Infinity Drive, Hagane body), fixed one ASR-order inversion |
 | ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | done | skipped: pure store-promo/event announcement (toy drive), zero fishing knowledge content |
 | akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md: added boatside-panic-moment bullet (fight-technique addendum), medium confidence |
-| akX66b5WGZA | Tackle Express | tutorial | parameter-skim | pending |  |
+| akX66b5WGZA | Tackle Express | tutorial | parameter-skim | done | lures/soft-plastic-swimbaits.md; tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md: three-way jig-head comparison (open hook/brush guard, Neck Breaker swivel, BKK Titan Diver underspin) merged, de-duplicated between the two notes |
 | aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | pending |  |
 | au3EkXJswY8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | auiXY0R9ri8 | Tackle Express | tutorial | parameter-skim | pending |  |

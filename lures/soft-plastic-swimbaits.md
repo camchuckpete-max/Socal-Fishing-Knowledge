@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [swimbait, soft-plastic, weedless, calico, sand-bass, kelp, bluefin, tuna, foamer, halibut, white-seabass, fluke]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9xNhdu2aBqE, _C8w6zeVPak, XwwIvPFxRiQ, PKf7G3uL4io, mXu8vJ8yr4Q, ftEvyfwjZFU, NXvqLUZ6qp8, ZoIzpyyS9xw, lP6cg4eEU6s, gaHpCc_tc78, -zw76Sh7YCI, 2Ee2DFZ9Wk4, LRRoGT2W4WY, L_YH_xT7Pfs, OURS05qEGcA, Oi5n-uVpY9g, PcJUo7h8WQA, R4yYK90-cZM, XyKF34C5iB4, R6ErrEIjlWw, T33JsoZHO_c, V4opuMirbDU, WPYrq_jdK2o, _C7TJoGT0nw, akX66b5WGZA]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, island, bank]
@@ -299,6 +299,32 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
     point sits visibly exposed but nested in a body pocket that keeps it out
     of the way. Field fix if it's still snagging: pull the hook up, push it
     forward, then pull back, which reseats the point back into hiding.
+- **Jig-head type selection — open hook, Neck Breaker swivel action, and BKK
+  Titan Diver underspin compared side by side** (Tackle Express, "Jig Head
+  Breakdown: Pick the Right One for Your Swimbaits!", `akX66b5WGZA`,
+  2025-02-03; unregistered channel, single mention — medium confidence).
+  Three jig-head styles for rigging a swimbait, with stated tradeoffs between
+  weedlessness and action/flash rather than one being a default pick:
+  - A **standard open hook** is the baseline; some versions add a **brush
+    guard** that makes it weedless. Stated pick logic: reach for the
+    brush-guard version around structure that might snag, skip it when
+    that's not a concern.
+  - The **War Baits Neck Breaker** (same head named above) is framed as the
+    most weedless of the three — "extremely weedless," thrown into "nasty
+    grassy cover with minimal snagging." Its **independent jig head, attached
+    to the hook by a swivel**, is given as the mechanism behind the freer
+    action: the swivel lets the jig head roll while the swimbait tail twirls
+    independently, rather than head and hook moving as one rigid unit —
+    stated as "a freer, more enticing action."
+  - The **BKK Titan Diver** is a "weedless weighted hook," but its underspin
+    blade is stated to be less weedless than the Neck Breaker — the tradeoff
+    for its added flash/vibration. See [BKK Titan Diver swimbait
+    hooks](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md) for
+    the full weedlessness-tradeoff and body-compatibility detail (`akX66b5WGZA`).
+  - **Stated selection rule:** pick the jig head by where/how you're
+    fishing — weedless (brush guard or Neck Breaker) for grassy or
+    snag-prone cover, BKK Titan Diver where the underspin's extra
+    flash/vibration is worth the added snag risk.
 - **PK-series swimbaits, sized up with cover density (Time On The Water
   panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
   confidence):** Lane's Newport Harbor grass plan runs a downsized **PK3**
