@@ -2673,7 +2673,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | fPxqoEforhA | Tackle Express | tutorial | parameter-skim | done | lures/tuna-poppers-and-stickbaits.md; locations/cedros-island.md / merged SP Minnow 115 floating/sinking parameter into stickbait note; corrected extractor's treatment of this clip as an independent source - it's a re-cut of the same Cedros trip already logged in cedros-island.md under _C7TJoGT0nw/9kGpcEHqIUc, now cross-linked both ways |
 | fVtiwvqhzgI | Tackle Express | tutorial | parameter-skim | done | none / promotional Tackle Express product ad for Jackall Binksy topwater lure - no species, location, or SoCal/Baja-specific technique detail; correctly skipped |
 | fnaGBGbrhqU | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md / merged trigger (seabirds + wide-open bite) and bait shape (three-piece hard bait) into the existing triple-trout citation, hedged against the unconfirmed same-trip assumption |
-| foLSQJ5oRWI | Tackle Express | tutorial | parameter-skim | pending |  |
+| foLSQJ5oRWI | Tackle Express | tutorial | parameter-skim | done | rigging/pr-knot.md / Third re-cut of the Cesar Chang FG-vs-PR-knot interview appended as a dated correction block to the existing pr-knot note; confidence held at medium, sources array updated, no new note created |
 | g5yDzjORhho | Tackle Express | tutorial | parameter-skim | pending |  |
 | gFx8BXU2vkY | Tackle Express | tutorial | parameter-skim | pending |  |
 | gQ-SwPzmJWM | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -1,7 +1,7 @@
 ---
 type: rig
 tags: [pr-knot, pr-bobbin, braid-to-leader, connection-knot, fg-knot]
-sources: [To2Dvx3Ifnc, ZrcwcugaEe4]
+sources: [To2Dvx3Ifnc, ZrcwcugaEe4, foLSQJ5oRWI]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -75,6 +75,20 @@ specialist, 25+ yrs experience) — same first name, same specialist framing —
 though the registry entry is not edited here; merging/promoting this Tackle
 Express appearance into that entry is Cameron's call. Tackle Express is not a
 registered channel on its own, so confidence caps at medium regardless.
+
+**Third re-cut, same interview (2026-08-21 correction).** A short clip titled
+"FG Knot FAIL vs. The Unbreakable PR Knot!" (`foLSQJ5oRWI`, Tackle Express,
+uploaded 2026-02-09, 00:01:16) carries the same discussion almost word for
+word: no tool needed for the FG knot but it must be tied very tight with
+constant tension or it slips out when tied "rather quickly" and not exactly
+correctly, the presenter's
+~10-year / never-had-the-knot-fail track record (spectra breaking above the
+knot, mono breaking below it, but never the knot itself), and the FG-knot at
+roughly 98% on a destruction-testing machine (this cut ends mid-sentence
+before giving the PR knot's own percentage). No speaker is named in this cut.
+Treated as a third re-cut of the same interview, not independent
+confirmation — it does not move confidence past the medium cap (Tackle
+Express is not a registered channel).
 
 ## Tie it
 
