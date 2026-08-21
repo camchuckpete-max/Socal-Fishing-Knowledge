@@ -183,6 +183,10 @@ channel type, not as a doctrine-specific spot):
   above. See [California
   halibut](../species/california-halibut.md#situations--techniques) for the
   stated reason (a stock size-six treble undersized for a big halibut).
+  A stock hard bait's three-treble hardware (the same size-six figure, on a
+  Lucky Craft) is also the reason a landed fish on a hard bait gets its own
+  angler-safety handling in [dehooking & release — hard-bait treble
+  hooks](../fish-care/dehooking-and-release.md#hard-bait-treble-hooks--angler-safety-when-unhooking-tackle-express-c_60ms3qsmy-2026-05-09-unregistered-channel-single-mention--medium-confidence).
 
 ## Gear class
 
@@ -260,6 +264,7 @@ anglers skip.
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)

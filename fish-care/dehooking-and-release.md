@@ -1,7 +1,7 @@
 ---
 type: fish-care
-tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut]
-sources: [VUb7a3sP8zQ, PJEG_RIkzF0]
+tags: [dehooking, catch-and-release, handling, calico-bass, measuring, deep-hooked, landing-net, halibut, hard-bait, treble-hook, angler-safety]
+sources: [VUb7a3sP8zQ, PJEG_RIkzF0, c_60Ms3QSMY]
 confidence: medium
 ---
 
@@ -54,6 +54,32 @@ unregistered channel, single mention — medium confidence).
   in application — any fish landed in a coarse rope net and released is
   exposed to the same fin damage.
 
+## Hard-bait treble hooks — angler safety when unhooking (Tackle Express, `c_60Ms3QSMY`, 2026-05-09; unregistered channel, single mention — medium confidence)
+
+A hard bait rides **multiple treble hooks**, which makes unhooking a landed
+fish its own angler-safety topic here, separate from the single-hook
+procedures above — the source's example is a stock **Lucky Craft** hard
+bait, which ships with **size 6 hooks, three of them**. This is the same
+size-six stock treble figure already logged for a Lucky Craft-style hard
+bait in [inshore crankbaits — rigging](../techniques/inshore-crankbaits.md#rigging)
+(there, in the context of it being undersized for a big halibut and swapped
+out — not a safety claim in that source, but the same hardware fact).
+
+- **Landing/unhooking called out as dangerous:** the source states this
+  right after describing the three-treble hardware, but does not spell out
+  the mechanism — it frames a mishandled hookup as something that "can
+  really ruin your day in a hurry."
+- **Gear: a good pair of hemostats, long ones** — stated as the tool for
+  working a treble hook out of a landed fish.
+- **The core skill is reading the fish, not a fixed procedure:** an
+  experienced angler is described as knowing "when the fish is going to
+  freak out, when it's not," and handling it accordingly — the source
+  frames this as judgment built with experience rather than a step-by-step
+  rule, and its explicit advice to anglers still building that judgment is
+  simply to **be extra careful** unhooking hard baits until they have it.
+- No specific hand-placement or grip technique is given beyond the
+  long-hemostats point above — the clip is 40 seconds and stops there.
+
 ## Measuring a fish you may release
 
 - **Mouth closed.** Close the fish's mouth before laying it on the measuring
@@ -83,5 +109,6 @@ given other implausible on-camera claims.
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 <!-- backlinks:end -->
