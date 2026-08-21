@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A]
+tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0]
 confidence: medium
 ---
 
@@ -61,6 +61,33 @@ with the ladder above rather than combined into a single parameter:
 - **Frame — one-piece aluminum frame and side plate**, stated reason:
   minimizes binding or flexing under load.
 - Still no line/leader spec for this tier from either clip.
+
+## Free spool — Speedmaster bearing spec, and why free spool matters (Tackle Express)
+
+Tackle Express, "Offshore Reels Face-Off! See the Free Spool King Crowned,"
+`JUcsUMJize0`, uploaded 2026-02-11 — a 50-second tackle-counter clip comparing
+the free spool of two reels. The clip names only the **Shimano Speedmaster**
+side of the comparison; the other reel is never named on camera. The title
+implies a two-reel face-off, and this note's other two clips are a
+Speedmaster-vs-Fathom theme, but per the ASR/naming rule a name isn't carried
+unless the source states it — the second reel is **not** assumed to be the
+Penn Fathom here. `tackle-express` unregistered channel, single mention —
+**medium** confidence.
+
+- **Why free spool matters, two named West Coast offshore applications:**
+  (1) **Fly-lining bait** — described as "just a hook, line, no sinker,"
+  getting the bait away from the boat — a reel that free-spools well is
+  called important for getting the bait as far from the boat as possible,
+  for the best odds of a bite. Consistent with, not new beyond, the
+  distance-over-weight doctrine already logged in
+  [flyline](../techniques/flyline.md#match-line-weight-to-the-bait-not-just-to-the-target-fish).
+  (2) **Casting a jig, or any casting application** — a good free spool is
+  said to "make a tremendous difference."
+- **Speedmaster bearing spec:** **four ball bearings**, using Shimano's
+  **SARB** (sealed anti-rusted bearings) — called "very high-end quality."
+- **Corrosion:** stated that neither reel in the comparison has a corrosion
+  problem — "you're not going to have any issues with corrosion either way
+  between any of these reels."
 
 ## Notes on scope
 

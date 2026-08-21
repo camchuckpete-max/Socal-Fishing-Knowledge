@@ -828,6 +828,7 @@ confidence.
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](../tackle/tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
