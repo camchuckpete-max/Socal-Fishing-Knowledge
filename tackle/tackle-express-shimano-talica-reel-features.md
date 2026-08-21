@@ -1,7 +1,7 @@
 ---
 type: tackle
-tags: [reels, shimano, talica, infinity-drive, hagane-body, s-compact-body, lever-drag, two-speed, tackle-express]
-sources: [af7a1tR2B84]
+tags: [reels, shimano, talica, infinity-drive, hagane-body, s-compact-body, core-protect, lever-drag, two-speed, tackle-express]
+sources: [af7a1tR2B84, pL7ZGuMVwo4]
 confidence: low
 ---
 
@@ -56,6 +56,30 @@ regardless of channel") this note is capped at **low** in full, on top of
 No model size (e.g., Talica 12/16/20/25), gear ratio, max drag figure, line
 capacity, or price is given in this clip.
 
+**Duplicated-footage note.** A second, presenter-unnamed Tackle Express clip,
+"Fish all day! This reel upgrade kills fatigue!," `pL7ZGuMVwo4`, uploaded
+2026-02-22, 33 seconds — opens mid-sentence ("ever. It also has the S compact
+body...") and restates the S Compact body / 25%-smaller-palm-side / easier-
+palming / less-fatigue claim above almost word for word. Per this repo's
+"re-cut/duplicated footage is never independent confirmation" rule, this is
+**not** treated as a second, independent source for that claim — and, as with
+the CI4+ 2.5×-rigidity match recorded in the Related section below, `af7a1tR2B84`
+and `pL7ZGuMVwo4` are not asserted to be the identical reel/model, since
+neither clip states a model name or size. The matching wording is recorded
+here for anyone auditing the claim.
+
+`pL7ZGuMVwo4` does add one claim not present in `af7a1tR2B84`:
+
+- **Core Protect (captioned "Corprotect").** Corrected here per the ASR
+  hazard rule to Shimano's actual feature name — the same water-sealing
+  coating already documented in [Shimano Nasci FC](tackle-express-shimano-nasci-fc-reel.md).
+  Stated to be applied to the inside of the reel's gears, specifically the
+  **main gear and pinion**, described as a water-resistant coating. The clip
+  cuts off mid-sentence right after "it's going to repel the [...]" — the
+  word being repelled (water, presumably) and any corrosion-protection
+  framing are not actually spoken in this clip, so neither is asserted here;
+  no further mechanism detail, and no model/size, is given.
+
 ## Related
 
 - [Daiwa Saltiga vs. Shimano Talica — two-speed reel spec comparison, small &
@@ -69,6 +93,10 @@ capacity, or price is given in this clip.
   Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md) —
   the same Infinity Drive terminology applied to a different, unnamed Shimano
   reel; kept as a separate citation, not merged.
+- [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the
+  Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md) — the
+  Core Protect coating named in `pL7ZGuMVwo4` above is the same feature
+  documented on the Nasci FC.
 - [Reel & rod maintenance](reel-maintenance.md) — general
   corrosion-prevention and bearing/gear care discipline this reel's body/
   bearing claims sit alongside as manufacturing claims, not a maintenance

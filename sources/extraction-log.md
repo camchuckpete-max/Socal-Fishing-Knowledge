@@ -2743,7 +2743,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | p-gl7mLOeWw | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 34s clip restates halibut fighting doctrine already captured from 1l05hEXDaWw, no new parameter |
 | p1KyyR0i7Kc | Tackle Express | tutorial | parameter-skim | done | rigging/rp-knot.md (new); rigging/essential-knots.md / split RP-knot detail into new dedicated note (wrap-by-line-ratio rule, lubrication/cinch/trim, track record), essential-knots.md keeps routing summary |
 | p9YYIb4GKHM | Tackle Express | tutorial | parameter-skim | done | lures/iron-jigs.md; techniques/rockfish-deep-dropping.md / merged Lift & Drop technique name into rockfish jig-cadence doctrine; strengthened Ahi/AI's jig brand ASR note |
-| pL7ZGuMVwo4 | Tackle Express | tutorial | parameter-skim | pending |  |
+| pL7ZGuMVwo4 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md / merged Core Protect water-resistant coating claim into Talica feature note, dropped unsupported corrosion-protection framing |
 | pMsbeLOgUc4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | pOFsjDTqaxY | Tackle Express | tutorial | parameter-skim | pending |  |
 | pTenOTaHdUc | Tackle Express | tutorial | parameter-skim | pending |  |

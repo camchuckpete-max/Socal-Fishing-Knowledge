@@ -69,5 +69,6 @@ Sedona) is given in this clip.
 ## Linked from
 
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Shimano Vanford FA — MGL Rotor and CI4+ Body (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
 <!-- backlinks:end -->
