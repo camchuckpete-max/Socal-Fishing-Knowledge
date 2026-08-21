@@ -56,6 +56,7 @@
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md) — Tackle Express, "New Daiwa Luvias ST Spinning Reel – Featherlight Power for Serious Anglers!," RKfI8g_aRu8, uploaded 2025-08-14 — a 90-second feature rundown fo
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
 - [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md) — Tackle Express, "Is your rod costing you fish?
+- [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md) — Tackle Express, "The secret to rigging surf baits faster than ever" (k23JzE3Fr-I, uploaded 2026-05-13) — a 45-second clip; presenter not named on camera or in t
 - [Penn Fathom II and Penn Authority — ICAST 2022 Launch Parameters (Tackle Express)](tackle-express-icast2022-penn-fathom2-authority.md) — Tackle Express, "A look at ICAST 2022 - The World's Largest Fishing Tradeshow," 75lUj-uaArQ, uploaded 2022-08-06 — an 85-minute booth-to-booth walk of the 2022
 - [Izorline XXX — Spool Sizes, Colors, and a Retailer's Case for Smoke (Tackle Express)](tackle-express-izorline-xxx-mono.md) — Tackle Express (Harry, Ecqt-ZLnvaU, "Why Izorline XXX Is THE Go-To Mono for Anglers," uploaded 2025-06-17; unregistered channel, explicit shop/product promotion
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md) — Tackle Express, "Turn your jig stick into a trolling machine!," BNp-gSOpWBw, uploaded 2026-05-19 — a 39-second tackle-counter clip.
@@ -84,5 +85,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 74 notes exceed the 30-node cap._
+_Map skipped: 75 notes exceed the 30-node cap._
 <!-- mermaid:end -->

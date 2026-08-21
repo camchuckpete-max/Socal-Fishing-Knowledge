@@ -83,9 +83,15 @@ the other way around.
 - [Line & Leader](line-and-leader.md) — general braid/PE material; this
   note's PE1-for-casting-distance point is specific to light surf spinning
   gear, not folded into that longer note.
+- [Fish Kicker Quick Clips — Snapless Surf-Bait Rigging (Tackle
+  Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md) — a separate
+  Tackle Express clip on a bait-rigging clip for surf baits; no species or
+  rod pairing named on camera, so kept as its own note rather than merged
+  into this one.
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
+- [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md)
 <!-- backlinks:end -->
