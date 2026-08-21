@@ -2621,7 +2621,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | aKQqNbgISHY | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md: freshwater reservoir Carolina-rig content out of scope, but added the one saltwater-relevant aside (C3 ice pick on darter head, surf, perch/corbina) |
 | aauujAuF1hc | Tackle Express | tutorial | parameter-skim | done | nothing extractable: auto-captions contain no usable speech (only Heat. Heat. and music) despite title suggesting a knot-tying tutorial |
 | af7a1tR2B84 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-talica-reel-features.md +4 linked notes: new low-confidence Talica feature-rundown note (S Compact body, Infinity Drive, Hagane body), fixed one ASR-order inversion |
-| ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | pending |  |
+| ajYmUmHdPEI | Tackle Express | tutorial | parameter-skim | done | skipped: pure store-promo/event announcement (toy drive), zero fishing knowledge content |
 | akUrZ_OYy4c | Tackle Express | tutorial | parameter-skim | pending |  |
 | akX66b5WGZA | Tackle Express | tutorial | parameter-skim | pending |  |
 | aqZxUmefwcw | Tackle Express | tutorial | parameter-skim | pending |  |
