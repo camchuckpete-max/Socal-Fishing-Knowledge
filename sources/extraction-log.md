@@ -2575,7 +2575,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | TwnvOIp38tI | Tackle Express | tutorial | parameter-skim | done | none / skipped: promotional bass-fishing (freshwater) product-announcement clip, no SoCal/Baja saltwater fishing knowledge present |
 | TyxH9BBJ9U8 | Tackle Express | tutorial | parameter-skim | done | tackle/rod-blank-and-component-materials.md / provenance-only merge: confirmed re-cut/reposted clip of DfLcSS-J3g4's blank-material segment, added as source (not independent confirmation), no new note |
 | TzK4iuVmUSE | Tackle Express | tutorial | parameter-skim | done | techniques/leadhead-swimbait-retrieve.md / added Hookset — don't swing section (grip-and-feel, wind-to-drag-slip mechanic) to existing leadhead/halibut retrieve note; fixed one invented direction detail |
-| UASU-ikU1AQ | Tackle Express | tutorial | parameter-skim | pending |  |
+| UASU-ikU1AQ | Tackle Express | tutorial | parameter-skim | done | none / skipped, no extractable knowledge content — 20s reaction/gaff clip |
 | UXt-pR6bBjY | Tackle Express | tutorial | parameter-skim | pending |  |
 | U_jXfgsGBzM | Tackle Express | tutorial | parameter-skim | pending |  |
 | UbbkPKZ8_W4 | Tackle Express | tutorial | parameter-skim | pending |  |
