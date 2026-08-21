@@ -43,6 +43,7 @@
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md) — SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md) — Tackle Express, "The New Accurate Tern 2 is a Smooth Reel," 46kVgZ6P62M, uploaded 2022-08-02 — a 3:49 interview at the Tackle Express counter (host "Harry") wit
 - [Accurate Valiant 2 SPJ — Centrifugal Brake, Strike Button, Single/Two-Speed (Tackle Express)](tackle-express-accurate-valiant-2-spj-reel.md) — Tackle Express, "Meet the Accurate Valiant 2 SPJ – Built for Slow Pitch Power!," A6-KPjRwGSQ, uploaded 2025-06-24 — a 92-second product feature rundown for one
+- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md) — Tackle Express (IcS7QbJlSDA, "Stop wasting time at the bait tank when the bite is ON!," uploaded 2026-03-25, 36 s; unregistered channel — medium confidence).
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md) — Tackle Express, "Unlock Backlash-Free Casts: Harry's Take on Bates EDC 100 Reel & D.A.B.
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md) — Tackle Express (3xx_vES0kdo, "What Hooks To Bring On A SoCal Charter (Bait Tank Guide)," uploaded 2026-07-22; unregistered channel, single mention — medium conf
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md) — Tackle Express, "Daiwa Saltiga: The Ultimate Big Game Reel!," AhICQlAsreU, uploaded 2024-12-30 — a 78-second feature rundown for the Saltiga line (presenter unn
@@ -62,5 +63,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 52 notes exceed the 30-node cap._
+_Map skipped: 53 notes exceed the 30-node cap._
 <!-- mermaid:end -->

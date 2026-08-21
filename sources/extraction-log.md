@@ -2468,7 +2468,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | IUuP8gGaAAo | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-charter-bait-tank-hook-kit.md / corroborating occasion-to-hook-model map (Owner Flyliner ring/non-ring, Aki Twist, gorilla, Mutu circle) merged in |
 | IXHHNOX_t5Y | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass-lake color-selection short, correctly skipped as out-of-scope for SoCal/Baja saltwater KB |
 | IZHY3RXdyxg | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md / corroborating bullet quantifying 9-of-10 no-swing guidance on Owner Mutu circle hooks added to circle-vs-J section |
-| IcS7QbJlSDA | Tackle Express | tutorial | parameter-skim | pending |  |
+| IcS7QbJlSDA | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-bait-tank-time-saver.md; species/rockfish-lingcod.md; tackle/tackle-express-rockfish-leader-line.md / new note: artificial double-8 octopus bait-tank substitute on rock-cod dropper-loop rig, cross-checked against re-cut source qh3hL2Dt3HY |
 | IqpeK5Xfhes | Tackle Express | tutorial | parameter-skim | pending |  |
 | IxfTRWmMqQU | Tackle Express | tutorial | parameter-skim | pending |  |
 | J40VxLNuZhk | Tackle Express | tutorial | parameter-skim | pending |  |

@@ -39,10 +39,14 @@ leader-lighter-than-braid rule for bottom rigs that snag and must break off.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md) — the species router.
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) —
   general mono-vs-fluoro doctrine.
+- [Bait-Tank Time-Saver — Artificial "Double-8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md) —
+  same channel, same rig family: an artificial bait-tank substitute for a hot
+  bite.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

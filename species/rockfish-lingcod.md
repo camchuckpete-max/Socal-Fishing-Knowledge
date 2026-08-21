@@ -111,7 +111,10 @@ the *bottom*, not the fish.
   (Ali's program: 8 oz jig head + 8" grub at ~270 ft), lead-head slugs,
   **[Ahi-Assault-style irons](../lures/iron-jigs.md)** and **[slow-pitch/knife
   jigs](../lures/knife-jigs.md)** (200–250g), squid or cut bait on the loop,
-  shrimp flies as a small dropper option.
+  shrimp flies as a small dropper option. On a hot bite, an artificial
+  octopus bait carried in the tackle box (optionally paired with a small bit
+  of squid for scent) saves a trip to the bait tank — see [bait-tank
+  time-saver](../tackle/tackle-express-bait-tank-time-saver.md).
 
 ## Doctrine & conflicts
 
@@ -313,6 +316,7 @@ the *bottom*, not the fish.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Barracuda](barracuda.md)
 - [California Sheephead](sheephead.md)
