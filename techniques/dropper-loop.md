@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [dropper-loop, bottom, squid, rockfish, white-seabass, yellowtail, baja, sea-of-cortez, grouper, cabrilla, weak-link]
-sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s]
+sources: [mUrihh0V59M, cameron, dEPuDrhoClM, U-dGRQ0X-Mc, zVIfArUrpDI, OIqdmhKfuOc, ShSxNKAcUB4, eEcRPEoG4DQ, Y2bXn44lfqo, HMdrP4-i9MM, JaKSGkZ6CAc, _ZThckj2TIM, HTowqnwAMeA, 3gykKyPdOvA, CdjT_I_PBHQ, KLmNyflzsQ0, PS8CRYwTPiU, SAltQjih0ms, YntRJAN88fs, Eo_bA8IWvyU, S9sQ8Vg8-5o, SK2M7L2vA1s, d93vB_EBu30]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bank, island, nearshore-coast]
@@ -79,6 +79,18 @@ this note owns the rig and the retrieve.
   bottom slowly. **Rigging the squid on this hook:** pass the hook through the
   squid's tail three times (flipping the squid between passes), then pull the
   tail up snug over the knot so the bait sits pinned and doesn't slide.
+  **Same channel, one day earlier (Tackle Express, "How to Rig Squid for
+  White Seabass the RIGHT Way!," `d93vB_EBu30`, 2025-04-15; unregistered
+  channel — medium confidence):** a dedicated, shorter clip isolating just
+  this hooking mechanic, matching the three-passes-through-the-tail/flip/
+  pull-snug-to-the-knot description exactly — treated as the same footage/
+  doctrine re-cut rather than independent confirmation (per the corpus's
+  re-cut rule), so it does not raise this mechanic's confidence on its own.
+  It does add one data point on the hook-name ASR ambiguity: this clip's
+  captions render the hook name two different ways in the same video —
+  "Owner Oy twist" and "owner Octy twist" — which doesn't resolve which
+  rendering is correct, so the hook name stays **asr-uncertain** as already
+  flagged above.
 - **White seabass overnight soak — staggered depths and line class
   (StokedOnFishing, Catalina Island, 2023-08-30, Y2bXn44lfqo; unregistered
   channel — medium confidence):** on an anchored overnight soak for

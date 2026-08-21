@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI, 8TO-tuYjwWk]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI, 8TO-tuYjwWk, d93vB_EBu30]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -704,6 +704,18 @@ confidence): a second, thinner description of the same problem — gripping a
 live squid firmly enough that it can't wrap around the fingers and peck with
 its beak, and to avoid getting inked while baiting up. Consistent with, not
 adding mechanism beyond, the grip technique above.
+
+**Pulling squid from the bait tank (Tackle Express, "How to Rig Squid for
+White Seabass the RIGHT Way!," `d93vB_EBu30`, 2025-04-15; unregistered
+channel — medium confidence):** stated reason for the grip — squid have a
+**beak at the head** — so when lifting one out of the tank, grab it so the
+**eyes stay closed/covered**, which keeps the squid from being able to
+"come up and grab" the angler's hand with its arms. Same underlying
+mechanism as the eye-covering grip logged above (arms can't find the hand
+if the eyes are covered), from a different source and trip; the beak
+location given here ("at the head") is consistent with, not a conflict
+with, "between the tentacles" above, since the tentacles attach at the
+head.
 
 ## Bridling big baits
 
