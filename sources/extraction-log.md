@@ -2700,7 +2700,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | iHwvUl0dhxk | Tackle Express | tutorial | parameter-skim | done | locations/cedros-island.md — added take-home catch-handling excerpt (bins, cutting station, vacuum-seal) and revised ambiguous trip catch-weight figure with corrected sourcing rationale |
 | iQjTILHaxqo | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: generic Baja resort catch-packing/vacuum-seal/freeze logistics, no technique/species/gear/care doctrine |
 | ijNOphK4XRA | Tackle Express | tutorial | parameter-skim | done | species/california-halibut.md — re-cut Short of eOLoHxoqk6E logged as duplicate footage/provenance; evaluator corrected an over-claim about theory-sentence coverage |
-| ijjtpoKZp8U | Tackle Express | tutorial | parameter-skim | pending |  |
+| ijjtpoKZp8U | Tackle Express | tutorial | parameter-skim | done | none — nothing extractable: 20s clip, captions are only [Music]/you, no substantive content |
 | j0btC9J0Wcc | Tackle Express | tutorial | parameter-skim | pending |  |
 | jFlAdWRj3HI | Tackle Express | tutorial | parameter-skim | pending |  |
 | jWPv-OOM3uk | Tackle Express | tutorial | parameter-skim | pending |  |
