@@ -2659,7 +2659,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | eLwier3zVdo | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md: merged rod-length leverage/rail-hauling reasoning as third citation corroborating existing 7-7'6" range |
 | eMAM6cjzANI | Tackle Express | tutorial | parameter-skim | done | none: 72s auto-generated reaction clip, no extractable doctrine, correctly skipped |
 | eOLoHxoqk6E | Tackle Express | tutorial | parameter-skim | done | fish-care/dehooking-and-release.md; lures/lucky-craft-flash-minnow.md; rigging/leadhead-mods.md; species/california-halibut.md; techniques/inshore-crankbaits.md: halibut surf-lure parameter-skim across 5 notes, fixed one non-standard gear-class label |
-| ejkr3z7xkJA | Tackle Express | tutorial | parameter-skim | pending |  |
+| ejkr3z7xkJA | Tackle Express | tutorial | parameter-skim | done | techniques/two-speed-low-gear-fight.md: merged Penn/Avet shift-mechanism + high/low timing citations, fixed missing paragraph break |
 | enDs3G5bpDc | Tackle Express | tutorial | parameter-skim | pending |  |
 | epuNd10icxQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | eqRMpfcuM2s | Tackle Express | tutorial | parameter-skim | pending |  |

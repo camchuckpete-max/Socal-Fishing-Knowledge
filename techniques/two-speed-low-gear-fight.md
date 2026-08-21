@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [bluefin, two-speed, fighting, drag, big-game, offshore]
-sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE]
+sources: [9JnIS8HkZlA, G1YIlakiRqg, -OJ1FED7mxI, cpUq7Z3UOwU, fyJA3o2hVh0, riEkdu8PEds, vn4fmPxUqsU, QHY5kmU7OTU, 1nBqYdvVrXY, DuNkl8F45NE, ejkr3z7xkJA]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -33,7 +33,21 @@ single button near the reel's handle side — push it mid-fight to drop from
 high to low once a fish gets heavy enough that high gear is a grind to
 turn. (Lori, Turner's Outdoorsman, via SearcherSportfishing
 "Tackle Tip Thursday Vol. 136," `-OJ1FED7mxI`, 2021-02-11; unregistered
-channel/speaker — medium confidence.) **Second, independent citation of the
+channel/speaker — medium confidence.)
+
+**Brand-specific physical detail on shifting in and out of low gear (Tackle
+Express, "Penn vs. Avet – Which Drag System is Better?," `ejkr3z7xkJA`,
+uploaded 2025-02-28; unregistered channel, presenter unnamed — medium
+confidence; a 72-second shop-counter clip comparing a Penn two-speed lever
+drag, model not named on camera, against an Avet):** on the Penn, dropping
+from high into low is a **big button on the side of the reel** — push the
+button, turn the handle, and the reel is in low gear. Getting back to high
+is a separate motion: **rotate a knurled end piece clockwise until it
+clicks**, then turn the handle. The clip describes only the Penn's shift
+mechanism in this much detail and does not give the equivalent physical
+steps for the Avet side of the comparison.
+
+**Second, independent citation of the
 same "easy button" nickname, naming the specific reel it's on (Steve Carson,
 Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 167 (All-Around
 Outfit)," `fyJA3o2hVh0`, 2022-02-03; `searcher-sportfishing` registered
@@ -125,6 +139,25 @@ torque to lift it the rest of the way, specifically because a stalled fish
 at that stage risks catching a second wind and taking another run. Full
 rigging/reel/rod detail this fight-timing rule is paired with is in [trophy
 bluefin jig outfit](../tackle/tackle-express-trophy-bluefin-jig-outfit.md).
+
+**A sixth, independent citation, framing the same high-early/low-late timing
+in generic (non-bluefin-specific) terms and adding a distinct end-game
+technique (Tackle Express, `ejkr3z7xkJA`, uploaded 2025-02-28; unregistered
+channel, presenter unnamed — medium confidence):** stated generically for a
+two-speed reel, not tied to a species or line class — **high gear is for the
+beginning of the fight**, when the fish may be running at the boat and the
+angler needs to gain line quickly to keep up. **Low gear is for winching a
+fish that's already dogging just under the boat** at the end of the fight:
+shift down, rest the reel on the rail, on a fighting belt, or on a knee, and
+**work it up with short rod pumps** — low gear is framed here as giving more
+raw power and torque to lift a stubborn fish the last stretch, rather than
+purely as a way to avoid the nose-down kick. This is a lighter-detail,
+generic-audience version of the same high-early/low-late sequence documented
+above; its "short rod pumps" description of the low-gear retrieve is not the
+same motion as the continuous, never-pause winding Steve Carson describes for
+a big circling bluefin below — the two are not reconciled here and may simply
+describe different fight phases (final boat-side winching vs. an extended
+mid-fight circle).
 
 ## The problem with pump-and-reel
 
