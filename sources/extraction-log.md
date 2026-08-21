@@ -2684,7 +2684,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | h311A3s-dkY | Tackle Express | tutorial | parameter-skim | done | tackle/hooks.md / merged bait-durability framing (mackerel=bigger/no damage risk, anchovy=smaller/lighter to avoid damage) into existing bait-sets-hook-size section, medium confidence |
 | h3ZM-mnSNJ8 | Tackle Express | tutorial | parameter-skim | done | none / skipped: transcript is a 28-second teaser with no extractable parameter content (video cuts off before any comparison is made) |
 | hAryw1v3I68 | Tackle Express | tutorial | parameter-skim | done | techniques/surface-iron-casting.md / added pros' reasons for low-profile baitcaster over conventional (level-wind removes line management; external brake/tensioner dials in on the water when switching lure weight), medium confidence |
-| hBAxFcjts5A | Tackle Express | tutorial | parameter-skim | pending |  |
+| hBAxFcjts5A | Tackle Express | tutorial | parameter-skim | done | none / skipped: out-of-region/off-topic promo - freshwater bass tackle announcement, no SoCal/Baja saltwater content |
 | hJjNZf-JYSs | Tackle Express | tutorial | parameter-skim | pending |  |
 | hMLwRt6Sxn8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | hSJL9KhKngA | Tackle Express | tutorial | parameter-skim | pending |  |
