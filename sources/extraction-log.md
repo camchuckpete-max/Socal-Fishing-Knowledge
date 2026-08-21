@@ -2521,7 +2521,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | OitNR_M4lxw | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped freshwater blade-bait willow-leaf/kite-tail mod, no SoCal/Baja saltwater content |
 | Ol3RPAsImg0 | Tackle Express | tutorial | parameter-skim | done | none: correctly skipped 25s promotional blurb for Duo Realis Spy baits, no extractable parameters, fails curation bar |
 | OuO4Irjrat8 | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: freshwater bass/Alabama-rig content, entirely out of SoCal/Baja saltwater scope |
-| Ow87j6AALAY | Tackle Express | tutorial | parameter-skim | pending |  |
+| Ow87j6AALAY | Tackle Express | tutorial | parameter-skim | done | none: nothing extractable: 45s of on-the-water outcome/banter narration with no parameters or stated reasoning |
 | OxFyTk0CSZQ | Tackle Express | tutorial | parameter-skim | pending |  |
 | PJEG_RIkzF0 | Tackle Express | tutorial | parameter-skim | pending |  |
 | PNWsFa4iSSc | Tackle Express | tutorial | parameter-skim | pending |  |
