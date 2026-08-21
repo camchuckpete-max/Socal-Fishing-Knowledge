@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [dtx-minnow, nomad, tuna, trolling, swimmer, offshore]
-sources: [cameron, 9IhmYstB8sA, G81HN0dIDg0, it_YYh_8Z-w]
+sources: [cameron, 9IhmYstB8sA, G81HN0dIDg0, it_YYh_8Z-w, f9JOpLrYBiE]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean, bank]
@@ -31,6 +31,37 @@ like the DTX versus a spreader bar, a speed-trolled
 [Mad Mac](../lures/mad-mac.md), or a deep diver is decided in
 [bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
+
+## HD (heavy-duty) version — hardware differences
+
+Tackle Express (`f9JOpLrYBiE`, 2025-04-30; unregistered channel, and this
+segment is a retailer product pitch closing on a shop plug — **low
+confidence**, sponsored/promotional per the rubric): Nomad's **DTX Minnow
+HD** is a redesigned line built for trolling larger fish, sold alongside the
+standard DTX Minnow described above. Stated differences from the original
+generation:
+
+- **Harness system:** the original DTX runs a full through-body wire
+  ("Gorilla harness") from the tie to the back of the hook, stated to have
+  bent, broken, or opened up on larger fish. The HD replaces it with a **full
+  metal matrix plate** running from the tie to each individual hook harness,
+  stated to eliminate that failure mode regardless of fish size.
+- **Sizes:** the HD line comes in **180, 200, and 220**; the standard DTX
+  Minnow line covers sizes **smaller than 180** (the 165 detailed above among
+  them).
+- **Autotune ring:** the original ties off the autotune eye through a **split
+  ring**, stated to be able to bend, open, or warp, and to present a sharp
+  edge that can catch the line and affect the autotune trolling action. The HD
+  uses a **solid ring** at that point instead, stated to give truer towing.
+  Same autotune design/patent otherwise on both lines.
+- **Hooks:** the HD ships with **BKK Diablo 5X strong** hooks with a larger
+  barb, stated to keep hooked fish pinned through the fight to the boat
+  (versus the original's stock hooks, not specified on camera).
+
+No troll speed, running depth, setback, or leader spec is given for the HD
+line specifically; treat the running specs above (165) and the wahoo
+application specs below (200) as the closest documented analogs pending an HD-
+specific figure.
 
 ## Wahoo trolling application (DTX 200)
 
