@@ -1,7 +1,7 @@
 ---
 type: bait
 tags: [live-bait, sardine, mackerel, anchovy, hooking, flyline, match-the-hatch, circle-hook, prey-density]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI, 8TO-tuYjwWk, d93vB_EBu30]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, lxFNVdDhMy4, 48ZFXnCTTQE, ZggReeO1nyU, w5_x6kkN-xE, BdRX4b8Fo5w, 6ueGWJek1gI, Y2bXn44lfqo, yuXr3IJ8ybg, r4J5nP5Bkl4, Klfb433I3Uk, Q-gQuOegAx4, D_Y2G0rBZCs, AIHvJj-paoo, G1YIlakiRqg, UP_3fBu7VPA, XyKF34C5iB4, BacIrmOK-Bo, MuC0uGKDzxg, Zhn-VDrlaLM, aD0Iim9C15o, vNIazq1aVwc, QHY5kmU7OTU, eehDVb6_GoI, shZCjX2-fkI, 8TO-tuYjwWk, d93vB_EBu30, yEsbyq3WjWE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -458,6 +458,12 @@ cast](../techniques/live-bait-pendulum-cast.md).
   **red spots appear on its sides** — that's the bait to throw over the side,
   not hook. A sign-level corroboration of the cull-the-scaly/bloody-bait rule
   above, specific to sardines.
+- **Further corroboration, red = cull it (Tackle Express, `yEsbyq3WjWE`,
+  2025-09-30; unregistered channel, single mention — medium confidence):** at
+  the bait tank, a bait was pointed out and rejected specifically for its
+  color ("see how red it is? That's not what you want, we'll get rid of that
+  one") — matching the red/bloody-nose cull sign above; no species, location,
+  or reasoning beyond the color tell is given on camera.
 - **60-second rule:** if a bait isn't **pulling line off the reel** shortly after
   it hits the water — swimming away, not sitting by the boat — **wind it in, flick
   it off, and grab a fresh one.** "We're not marrying these baits, we're speed
