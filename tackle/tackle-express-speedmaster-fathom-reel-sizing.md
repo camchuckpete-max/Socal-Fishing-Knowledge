@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM]
 confidence: medium
 ---
 
@@ -193,7 +193,14 @@ Penn Fathom here. `tackle-express` unregistered channel, single mention —
 ### Free spool and build materials, named comparison (`K_0AeM4OvuE`)
 
 Unlike `JUcsUMJize0` above (which names only the Speedmaster), `K_0AeM4OvuE`
-names both reels directly and gives fuller build detail:
+names both reels directly and gives fuller build detail. A shorter clip,
+"Fathom II vs SpeedMaster II: Saltwater Reel Battle Royale!," `ZGs9kF4HHIM`,
+uploaded 2026-02-13, 46 s, covers the same bearings/rinse and forged-spool
+bullets below in near-identical wording (down to the "thumb better be ready
+to slow it down" phrase) — read as a re-cut of this same segment rather than
+a second telling, so it is cited here but **not** treated as independent
+confirmation per the re-cut-footage rule; no new parameter beyond what
+`K_0AeM4OvuE` already gives:
 
 - **Bearings.** Speedmaster: **four ball bearings**, Shimano's SARB (sealed
   anti-rusted bearings) — "very high-end quality," matching `JUcsUMJize0`.

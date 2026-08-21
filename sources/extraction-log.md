@@ -2603,7 +2603,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | Y5crw_rQpeg | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md; tackle/tackle-express-casting-reel-for-seabass-yellowtail.md; tackle/tackle-express-mustad-heavy-duty-pliers.md; techniques/beach-lure-depth-control.md / new low-confidence tackle note (Penn Fathom Low Profile / Okuma Seros / Daiwa HMKL surf combo) created and cross-linked; one overclaiming link description fixed |
 | YWTDpG6yYWo | Tackle Express | tutorial | parameter-skim | done | tackle/spooling-line-tension-and-twist.md / merged washer-position mechanism/fix into the existing line-lay-taper section, filling the gap the diagnostic-only PoTRe9SRjm8 clip left open |
 | YyW4-8FRjn8 | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-nasci-fc-reel.md; tackle/reel-maintenance.md / New capped-low product-feature note for the Nasci FC (X-Ship, Propulsion Line System, Core Protect vs. Sedona), linked from reel-maintenance and cross-linked among existing Tackle Express reel-feature notes |
-| ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | pending |  |
+| ZGs9kF4HHIM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / cited as re-cut of K_0AeM4OvuE, no new parameters added, sources list updated |
 | ZMrCAG7Cqmg | Tackle Express | tutorial | parameter-skim | pending |  |
 | ZolfRTcJBk4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | ZrcwcugaEe4 | Tackle Express | tutorial | parameter-skim | pending |  |
