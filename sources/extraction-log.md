@@ -2717,7 +2717,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | kuIKWNZ3Koo | Tackle Express | tutorial | parameter-skim | done | none / freshwater bass PB rats wake-bait plug, no SoCal/Baja saltwater content - nothing extractable |
 | lNXZD79BvJY | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 45s generic hype clip on tungsten jigs for nighttime jumbo bluefin, no parameters given, topic already covered elsewhere |
 | lYnD_MiALL8 | Tackle Express | tutorial | parameter-skim | done | techniques/rockfish-deep-dropping.md / added missing sources-array entry for already-cited re-cut of S9sQ8Vg8-5o; no new doctrine |
-| l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | pending |  |
+| l_L0PdOOWGs | Tackle Express | tutorial | parameter-skim | done | none / nothing extractable: 46s personal career-change narrative, no fishing knowledge content |
 | m6NxHaIifj8 | Tackle Express | tutorial | parameter-skim | pending |  |
 | mDRSoMYxDuY | Tackle Express | tutorial | parameter-skim | pending |  |
 | mMa0oqI2tqA | Tackle Express | tutorial | parameter-skim | pending |  |
