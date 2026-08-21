@@ -1,7 +1,7 @@
 ---
 type: technique
 tags: [drop-shot, halibut, spotted-bay-bass, bays, finesse, vertical]
-sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98, _XfScSliRVk]
+sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3xn3gAc, M2qZiY2lR98, _XfScSliRVk, _rcxIWhNMSE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -70,6 +70,27 @@ with that tie, which he says he and "some people" run into: getting the
 **hook point riding up** once the knot is finished — the bait, whether
 nose-hooked or otherwise, needs the point facing up when you're done tying
 (same orientation rule as the Palomar build above).
+
+Both clips above are re-cuts of one longer original video, `_rcxIWhNMSE`
+(2022-06-06) — the hook/knot content is the same footage, not independent
+confirmation; see that video's weight-material tip below.
+
+## Weight material — lead vs. tungsten, and camouflaging lead (Tackle Express, `_rcxIWhNMSE`, 2022-06-06; unregistered channel — medium confidence)
+
+For the tag-end weight below the hook, his stated preference is a
+**cylinder-style weight**. On material: **regular lead** does the job for
+him; he acknowledges **tungsten** works too and is "a little bit pricier"
+with "a lot more sensitivity," but he doesn't switch off lead himself.
+
+**Camouflaging lead weights** — a trick he credits to "a good pal of mine,
+DJ," done together "years ago": lay the lead weights on a paper towel and
+**spray-paint or nail-polish them black or green**. His own framing is
+explicitly hedged, not asserted as proven — "maybe it makes a difference,
+maybe it doesn't" — but his stated read is that a painted-black weight
+**blends in better** than bare lead or tungsten, avoiding the **flash** he
+says tungsten (and shiny lead) can throw off. He frames it as one of several
+small, marginal edges ("any little... step up you have on the competition")
+rather than a load-bearing claim.
 
 ## Height off the bottom (Rod Marquez)
 

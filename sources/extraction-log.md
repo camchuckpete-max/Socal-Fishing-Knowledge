@@ -2615,7 +2615,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | _RfXwHSaG48 | Tackle Express | tutorial | parameter-skim | done | skipped: freshwater largemouth-bass crawfish-jig video (Castaic/Pyramid lakes), out of scope, not SoCal/Baja saltwater |
 | _XfScSliRVk | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md: amended Hook option section with number-2 Spin Shot pick and mosquito-hook Palomar alternative, unregistered channel capped at medium confidence |
 | _eON-xT2mOE | Tackle Express | tutorial | parameter-skim | done | nothing extractable: duplicate re-cut of already-processed 5fxAN1Ofn8M (merged into species/sand-bass.md); bait/species never named, generic column/weight/thumb-tension params already covered in techniques/knife-jigging.md and techniques/flat-fall-jigging.md |
-| _rcxIWhNMSE | Tackle Express | tutorial | parameter-skim | pending |  |
+| _rcxIWhNMSE | Tackle Express | tutorial | parameter-skim | done | techniques/drop-shot.md; lures/bay-bass-plastics.md: added lead-vs-tungsten weight/camouflage tip and re-cut-footage note to drop-shot.md; added C3 Baits sibling-product (ice pick/Joe Boo/teaser) mention to bay-bass-plastics.md |
 | aF_16nVNch4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | aFsyWOLIM48 | Tackle Express | tutorial | parameter-skim | pending |  |
 | aKQqNbgISHY | Tackle Express | tutorial | parameter-skim | pending |  |

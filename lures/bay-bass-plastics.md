@@ -1,7 +1,7 @@
 ---
 type: lure
 tags: [bay-bass, spotted-bay-bass, ned-rig, trd, drop-shot, finesse, plastics]
-sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ]
+sources: [um5MAeCjNDg, k4mD2d6C81k, EGKesj7V64M, 6L8nIFeqvkw, k4LCL9ALryA, FurifnQ27mM, SImABCBBxAo, 46ha7J1Fc6A, AH4Eiya1Hn0, NXvqLUZ6qp8, BPxE3xn3gAc, KFdvKXTHSeU, NBSJsN7uTKQ, _rcxIWhNMSE]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
@@ -64,6 +64,13 @@ sizing; how they're fished is [ned rig](../techniques/ned-rig.md) and
     distance, is where the point re-enters. Skipping this and guessing the
     exit point is named as the common mistake that leaves the bait bent
     ("curled ... like a C") instead of running straight.
+  - **Sibling C3 Baits products, named alongside the Shimmy as also
+    drop-shot-friendly** (Tackle Express, `_rcxIWhNMSE`, 2022-06-06;
+    unregistered channel, single mention — medium confidence): the **ice
+    pick**, **Joe Boo**, and **teaser** — "most of my baits can be drop
+    shot." No separate rigging detail is given for these three beyond the
+    same **VMC Spin Shot #2** hook recommendation covered in [Drop
+    Shot](../techniques/drop-shot.md#hook-option--swivel-built-hook-for-a-free-swinging-bait-tackle-express-m2qziy2lr98-2026-04-20-_xfscslirvk-2026-04-23-unregistered-channel--medium-confidence).
 - **Gulp grubs** — scented curly-tail grubs; the **scent is the activator** for
   bottom-feeding bay fish. A **grub swims on a constant retrieve** (rod tip down
   at ~45°, steady wind) on a drop-shot or a light jighead, unlike the tailless
