@@ -1,7 +1,7 @@
 ---
 type: tackle
 tags: [reels, shimano-speedmaster, penn-fathom, two-speed, lever-drag, reel-sizing, line-class, tackle-express, free-spool, bearings, shift-mechanism, handles, drag-mechanism, bottom-fishing]
-sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4, nORwiYXBQmQ, sj_9QYlGtGo]
+sources: [5hnHrCUNk3Q, D0oEQsTaL7A, JUcsUMJize0, K_0AeM4OvuE, ZGs9kF4HHIM, eqeESarhRrE, f1pZI-bfMz4, nORwiYXBQmQ, sj_9QYlGtGo, vALAeUaBmRM]
 confidence: medium
 ---
 
@@ -96,6 +96,24 @@ reels, spooling each with the braid weight it's rated for:
 | Fathom 25 (narrow) | 33 lb | 475 yd of 50 lb braid | 20.1 oz |
 | Fathom 40 (narrow) | 40 lb | 565 yd of 80 lb braid | 24.1 oz |
 | Fathom 80 | 50 lb | 980 yd of 100 lb braid (Harry's own caveat below) | 32.9 oz |
+
+A separate, shorter Tackle Express clip, "Penn vs. Shimano: The Drag Fight You
+Didn't See Coming!" (`vALAeUaBmRM`, uploaded 2026-02-14, 38 s, presenter
+unnamed on camera) isolates drag/capacity/weight numbers matching two of the
+six reels above — **Fathom 25 (narrow)** and **Fathom 40 (narrow)**, both
+named explicitly on camera — plus a third, unnamed reel it only calls "what
+was 18 lb of drag" / "this one," never on camera identified by model. Stated
+figures: 33 lb drag, 475 yd of 50 lb braid, 20.1 oz for the Fathom 25; 40 lb
+drag, 565 yd of 80 lb braid, 24.1 oz for the Fathom 40; 18 lb drag and 19 oz
+for the unnamed reel — the latter two numbers match the Speedmaster 10 row
+above, but per the ASR/naming rule applied elsewhere in this note (the
+`JUcsUMJize0` clip's unnamed second reel), that identity is not asserted here
+since the clip itself never states it. Read as a re-cut of this same
+spec-ladder segment rather than independent confirmation, per the
+re-cut-footage rule — no new parameter beyond the table above. The clip's own
+brief framing treats the Fathom 25's edge as **less weight for more drag**
+compared to the unnamed 18-lb-drag reel, consistent with Harry's size-for-size
+"directly comparable products" framing below.
 
 Harry's own quality checks on the quoted capacities, stated on camera rather
 than taken at face value:

@@ -2787,7 +2787,7 @@ reason in the result cell, per the plan's "log what the filter dropped" rule.
 | ulWK3kaVQ5k | Tackle Express | tutorial | parameter-skim | done | lures/bay-bass-plastics.md / added Keitech Shad Impact pin-tail build/durability/scent notes and Owner-vs-Core-Tackle jig-head hover-strolling rigging; asr-uncertain caveat added to Owner head name |
 | v5XtBi3wtVM | Tackle Express | tutorial | parameter-skim | done | none / out-of-region/off-topic (freshwater bass crankbait clip, no SoCal/Baja saltwater content) |
 | v6X2s1lb1aE | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-shimano-sedona-reel-features.md; tackle/tackle-express-shimano-nasci-fc-reel.md / new low-confidence Sedona feature-rundown note (Hagane gear, G-Free Body, Silent Drive), cross-linked with sibling Nasci FC note |
-| vALAeUaBmRM | Tackle Express | tutorial | parameter-skim | pending |  |
+| vALAeUaBmRM | Tackle Express | tutorial | parameter-skim | done | tackle/tackle-express-speedmaster-fathom-reel-sizing.md / added Fathom 25/40 drag/capacity/weight figures as corroborating re-cut; corrected unsupported Speedmaster-10 identity inference for unnamed third reel |
 | valIU8lsMX4 | Tackle Express | tutorial | parameter-skim | pending |  |
 | vk3jbsINcPw | Tackle Express | tutorial | parameter-skim | pending |  |
 | w5iryVkSe-0 | Tackle Express | tutorial | parameter-skim | pending |  |
