@@ -223,11 +223,18 @@ table linking species routers) → ## How it fishes (current/wind/tide behavior)
    evidence subpages; citation standard; templates + `layout: v2`; evidence
    type; infobox fields; flag grammar; "no PERSONAL coordinates"; review-guard
    summary). Run `resolve-cites.py`; full local validation.
-10. **Supervised pilot**: hand-run transform + verify on `species/opah.md`
-    (full, small), `techniques/dropper-loop.md` (standard), and one
-    tackle-express note (light) — Cameron spot-reviews style before the chain
-    dispatches. Reconcile the observed-block count (exact-marker grep ~397 vs
-    audit 477) at worklist build.
+10. **Supervised pilot** (amended per Cameron, 2026-08-23: pilot on the notes
+    he knows best, with an involved review): hand-run transform + verify on
+    **`species/yellowtail.md`** (full — the most important article in the repo
+    AND the hardest: 1,556 lines, 85 sources, 63 observed blocks; exercises
+    the evidence split, cite conservation, biology-gap flagging, and likely
+    the relocation queue at max scale), **`techniques/surface-iron.md`**
+    (standard — yellowtail's signature technique, so the router↔technique
+    interplay is reviewable in one sitting), and one tackle-express note
+    (light). Cameron reviews yellowtail in depth — this pilot is a feedback
+    loop, not a spot-check — and templates/prompts are adjusted before the
+    chain dispatches. Reconcile the observed-block count (exact-marker grep
+    ~397 vs audit 477) at worklist build.
 
 ### Phase 1 — Fleet: transform (unattended)
 
