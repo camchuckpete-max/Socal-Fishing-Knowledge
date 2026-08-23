@@ -103,11 +103,11 @@ Fold the output of this note back into the
 - [August](../seasonal/august.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [June–July](../seasonal/june-july.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
 - [Water Color](../conditions/water-color.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
-- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

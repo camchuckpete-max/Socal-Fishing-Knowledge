@@ -198,6 +198,7 @@ carried into this note beyond this mention (curation bar).
 ## Linked from
 
 - [Crimping — Sleeve Crimps for Heavy Leaders](../rigging/crimping.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)

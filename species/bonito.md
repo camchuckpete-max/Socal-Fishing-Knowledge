@@ -153,10 +153,10 @@ rather than a dedicated technique study.
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

@@ -285,6 +285,7 @@ does the lookup.
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)

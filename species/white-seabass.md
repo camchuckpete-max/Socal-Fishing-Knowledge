@@ -287,6 +287,7 @@ into the spot once the current read right.
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
@@ -305,5 +306,4 @@ into the spot once the current read right.
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

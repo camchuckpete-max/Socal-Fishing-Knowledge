@@ -440,5 +440,4 @@ quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-
 - [Sliding Sinker](sliding-sinker.md)
 - [Speed Trolling](speed-trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
-- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -466,6 +466,7 @@ grade, or technique detail given for the dorado specifically.
 - [Cedros Island](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -487,5 +488,4 @@ grade, or technique detail given for the dorado specifically.
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

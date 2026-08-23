@@ -345,6 +345,7 @@ the *bottom*, not the fish.
 - [California Sheephead](sheephead.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
@@ -359,5 +360,4 @@ the *bottom*, not the fish.
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

@@ -294,6 +294,7 @@ for locating wahoo specifically. General method:
 
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)

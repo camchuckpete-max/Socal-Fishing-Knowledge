@@ -306,6 +306,7 @@ become primary).
 - [Current Diagnostics](current-diagnostics.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Deep Scattering Layer](deep-scattering-layer.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
@@ -325,5 +326,4 @@ become primary).
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
-- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

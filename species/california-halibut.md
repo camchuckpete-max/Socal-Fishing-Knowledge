@@ -470,6 +470,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
@@ -488,5 +489,4 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Tube Baits (HookUp Baits)](../lures/tube-baits.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [White Seabass](white-seabass.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

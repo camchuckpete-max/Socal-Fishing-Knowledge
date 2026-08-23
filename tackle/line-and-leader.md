@@ -676,6 +676,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Cedros Island](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)

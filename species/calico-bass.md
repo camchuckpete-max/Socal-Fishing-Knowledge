@@ -671,6 +671,7 @@ release *ethic* and the regional policies are below.
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -698,6 +699,5 @@ release *ethic* and the regional policies are below.
 - [Swimbaits](../techniques/swimbaits.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
-- [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

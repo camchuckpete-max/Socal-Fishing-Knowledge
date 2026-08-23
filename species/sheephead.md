@@ -123,9 +123,9 @@ glassing](../planning/search-and-glassing.md),
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bluefin Tuna](bluefin-tuna.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

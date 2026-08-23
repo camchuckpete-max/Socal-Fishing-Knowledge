@@ -495,6 +495,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Dropper Loop](dropper-loop.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

@@ -79,5 +79,5 @@ Video: https://www.youtube.com/watch?v=UrEymGvZx00
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Yellowtail](../species/yellowtail.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 <!-- backlinks:end -->

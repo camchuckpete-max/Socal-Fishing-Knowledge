@@ -106,6 +106,7 @@ dedicated program.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
@@ -114,5 +115,4 @@ dedicated program.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

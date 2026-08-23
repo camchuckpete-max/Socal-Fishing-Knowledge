@@ -625,6 +625,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

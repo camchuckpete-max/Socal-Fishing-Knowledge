@@ -1143,6 +1143,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
@@ -1200,6 +1201,5 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

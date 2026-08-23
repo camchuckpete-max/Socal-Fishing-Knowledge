@@ -546,6 +546,7 @@ the bluefin nearby become more cooperative too.**
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
@@ -572,5 +573,4 @@ the bluefin nearby become more cooperative too.**
 - [Wahoo](wahoo.md)
 - [Water Color](../conditions/water-color.md)
 - [Water Temperature](../conditions/water-temperature.md)
-- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

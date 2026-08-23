@@ -822,6 +822,7 @@ confidence.
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

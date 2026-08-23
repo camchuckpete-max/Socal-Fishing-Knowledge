@@ -1010,6 +1010,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Chunking](../techniques/chunking.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md)

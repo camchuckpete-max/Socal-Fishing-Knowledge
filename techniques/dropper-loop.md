@@ -585,6 +585,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
