@@ -650,5 +650,6 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Tube-Bait Fishing](tube-bait-fishing.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

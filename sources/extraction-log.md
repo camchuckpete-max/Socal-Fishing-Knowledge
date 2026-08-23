@@ -3162,3 +3162,40 @@ mechanism too; (b) side-by-side conflicts must carry a decision frame.
 ASR alias ledger addition for future passes: **"brawler" → Bralla rig**;
 **"cedar color"/"wood" → natural/unpainted cedar-plug finish**; spoken
 "2/0" splits to "two"/"20" in captions.
+
+## Batch 3 — C-1 applied: HookUp Baits reclassified glide → tube (2026-08-23)
+
+Cameron's 2026-08-18 correction, executed post-run as scheduled. HookUp Baits
+are **tube baits** — soft plastic with the lead head molded inside — not
+glide baits (jointed hard baits). The misclassification traced to the 2018
+seminar extraction reading the bait as "hard-shelled, articulated"; the old
+note itself had flagged the contradiction with the 2020 co-owner's
+soft-plastic-over-lead-head description. Cameron's ruling resolves that
+flagged discrepancy in the 2020 source's favor. Corpus corroboration: a
+Tackle Express panga source calls the generic version *"the stupid tube."*
+
+**Restructure** (per C1 granularity + the decision/implementation split):
+
+- `lures/tube-baits.md` (NEW, 124 lines) — the class: Cameron's definition
+  (high), construction/sizes, scent system, color selection + Oreo-cookie
+  effect, misclassification history. Product claims stay `low` per the
+  sponsored rule.
+- `techniques/tube-bait-fishing.md` (NEW, 358 lines) — all execution moved
+  from the old note: parabolic rod doctrine, slack/sink reading, Owner sled
+  weedless rig, double-bait dropper rig (3 attributed variants), party-boat
+  cast–drift–bounce, yellowtail pop-retrieve + half-yo-yo, 3–4 mph locate
+  trolling, tuna/paddy program, common failures. Section headings kept
+  verbatim so every inbound anchor survived.
+- `techniques/glide-baits.md` (REWRITTEN, 475 → 44 lines) — now genuinely
+  glide baits: the European pike/musky boiler-rock section (`XyKF34C5iB4`),
+  the class definition, and pointers to tube baits.
+
+**References**: 16 notes repointed/renamed (10 species routers incl. the
+white-seabass row that had propagated *glide-bait "hookup bait"*; row text
+"glide-bait class" → "tube-bait class"); `tackle/gear-classes.md` lure-class
+lexicon gains the tube-bait entry. Deliberately NOT renamed: the Savage Gear
+line-thru note (a genuine hard swimbait), Hansen's knot-demo "soft-plastic
+glide swimbait" and the Mad Eel (different products, described as sourced —
+renaming without evidence would repeat the original error in reverse), and
+Avet "glide plate" (reel hardware). link-maintenance: 273 notes, 0 dead
+links.

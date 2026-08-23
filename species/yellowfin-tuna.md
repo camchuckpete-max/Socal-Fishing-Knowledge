@@ -276,7 +276,7 @@ the bluefin nearby become more cooperative too.**
 | **Marked / chummed-up school, eager** | [Flyline](../techniques/flyline.md) a live sardine on a circle hook; chum a few freebies first to fire them | **30 lb class**, size 2/0 circle ([gear classes](../tackle/gear-classes.md)) | Match hook to bait size; **go to strike and wind tight** — no swing needed on circles |
 | **School reacting to chum but not eating the hook bait (picky)** | Scale down (drop to **15–20 lb leader, size 1 thin-wire circle**); then the **bait-net trick** — pitch 3–4 freebies with your hook bait mixed in to fool them | Light **flyline class** | Try to work back up to 25–30 lb once they commit |
 | **Surface feeders / foamers** | [Foamer casting](../techniques/foamer-casting.md) — poppers (Chug Norris 150 class), stickbaits, small lead baits | **Jig-stick class** | Matches sardine/anchovy; **a surface yellowfin bite fires the bluefin** |
-| **Skipjack blanketing the surface over yellowfin holding below them** | A **fast-sinking 1 oz swimbait** worked quickly through the skipjack layer to the yellowfin below, instead of live bait | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — decision and reason stated on camera: live bait gets intercepted by the skipjack before it reaches the yellowfin; see [glide baits](../techniques/glide-baits.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) and [skipjack tuna](skipjack-tuna.md). ⚠ promotional seminar source, low confidence |
+| **Skipjack blanketing the surface over yellowfin holding below them** | A **fast-sinking 1 oz swimbait** worked quickly through the skipjack layer to the yellowfin below, instead of live bait | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — decision and reason stated on camera: live bait gets intercepted by the skipjack before it reaches the yellowfin; see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) and [skipjack tuna](skipjack-tuna.md). ⚠ promotional seminar source, low confidence |
 | **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt** to find fish; on the jig strike, stop and convert the school with [flylined bait](../techniques/flyline.md) or casted lures | Light **troll class** | Trolling here is a *search* tool as much as a catch method — cover the zone, let the strike mark the school, then fish the stop. **⚠ Thin area — spread geometry:** the corpus gives yellowfin troll *speeds*, not spread design (setback distances, lure positions in the pattern); flagged pending new sources |
 | **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but doesn't pull line |
 | **Mixed under paddies with yellowtail/dorado** | [Flyline](../techniques/flyline.md) or dropper into the paddy | **30–40 lb class** | Grade the paddy fast — fish restock paddies only at night |
@@ -550,7 +550,6 @@ the bluefin nearby become more cooperative too.**
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
-- [Glide Baits](../techniques/glide-baits.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
@@ -567,6 +566,7 @@ the bluefin nearby become more cooperative too.**
 - [Striped Marlin](striped-marlin.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](../techniques/trolling.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Wahoo](wahoo.md)

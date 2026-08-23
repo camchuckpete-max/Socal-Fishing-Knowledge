@@ -57,5 +57,5 @@ not extended beyond what's shown on camera.
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Glide Baits](../techniques/glide-baits.md)
 <!-- backlinks:end -->

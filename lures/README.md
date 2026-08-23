@@ -17,6 +17,7 @@
 - [Rapala Husky Magnum](rapala-husky-magnum.md) — The Rapala Husky Magnum is a bibbed trolling minnow whose model number is its running depth at a standard setback — pick the number, get the depth.
 - [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md) — The saltwater soft-plastic swimbait / slug class for kelp and reef bass: a paddle-tail or boot-tail plastic (or a tailless slug) rigged on a hook so it runs cle
 - [Spreader Bar](spreader-bar.md) — A spreader bar is a rigid horizontal bar carrying a teaser school of hookless squids or birds with one stinger lure trailing on the center line — it presents as
+- [Tube Baits (HookUp Baits)](tube-baits.md) — The class (Cameron, 2026-08-23 — high confidence): a tube bait is a soft plastic with the lead head molded inside the body — head inside the plastic, not a bare
 - [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md) **[SoCal only]** — Feathers and soft skirts are the West Coast trolling staple — a weighted or bullet head trailing a skirt over a hook, presenting as a small squid or bait.
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md) — The SoCal tuna surface-plug class: hard baits you cast into breaking tuna and work on top.
 <!-- index:end -->
@@ -40,28 +41,29 @@ graph LR
   n10["Rapala Husky Magnum"]
   n11["Soft-Plastic Swimbaits"]
   n12["Spreader Bar"]
-  n13["Tuna Feathers and Skirts"]
-  n14["Tuna Poppers and Stickbaits"]
+  n13["Tube Baits (HookUp Baits)"]
+  n14["Tuna Feathers and Skirts"]
+  n15["Tuna Poppers and Stickbaits"]
   n0 --> n11
   n1 --> n9
   n10 --> n9
   n11 --> n0
   n12 --> n9
-  n13 --> n9
-  n14 --> n1
-  n14 --> n11
-  n14 --> n4
-  n14 --> n5
-  n14 --> n7
+  n14 --> n9
+  n15 --> n1
+  n15 --> n11
+  n15 --> n4
+  n15 --> n5
+  n15 --> n7
   n2 --> n5
   n3 --> n9
   n4 --> n9
   n5 --> n1
-  n5 --> n14
+  n5 --> n15
   n5 --> n2
   n5 --> n7
   n6 --> n5
-  n7 --> n14
+  n7 --> n15
   n7 --> n5
 ```
 <!-- mermaid:end -->

@@ -137,7 +137,7 @@ four-species day.
 | --- | --- | --- | --- |
 | Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** — dorado charge the boat feeding straight ahead and won't set on a circle; **match hook to bait** (1/0 live-bait, up to 2/0–3/0 on donkey sardines); skip jigging — rod up, crank flat-out so the lure skips on top — is a tip-up alternative to the standard swim, named for tuna/dorado/yellowtail generically, single-mention source, medium confidence |
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; throw a Mad Scad from the tower to confirm fish before committing |
-| **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — a **pink ("Dorado")** color, 1 oz or 5/8 oz, is named as a dorado favorite at paddies; see [glide baits](../techniques/glide-baits.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4). ⚠ promotional seminar source, low confidence |
+| **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — a **pink ("Dorado")** color, 1 oz or 5/8 oz, is named as a dorado favorite at paddies; see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4). ⚠ promotional seminar source, low confidence |
 | **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (E4vKwRaRueA); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
 | **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | They can be as finicky as any fish; smaller hook so the bait swims right; don't drop below ~15 lb or you get bit off |
 
@@ -470,7 +470,6 @@ grade, or technique detail given for the dorado specifically.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
-- [Glide Baits](../techniques/glide-baits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
@@ -482,6 +481,7 @@ grade, or technique detail given for the dorado specifically.
 - [Skip Jigging](../techniques/skip-jigging.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](../techniques/trolling.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Wahoo](wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)

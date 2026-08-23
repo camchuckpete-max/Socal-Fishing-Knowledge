@@ -230,6 +230,9 @@ Class terms used in species/technique notes resolve to these implementation note
 [cedar plugs](../lures/cedar-plug.md), [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md),
 [tuna poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md),
 [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md),
+[tube baits](../lures/tube-baits.md) (soft plastic over an internal lead
+head — the HookUp Baits class; "tube-bait class" resolves here, with
+execution in [tube-bait fishing](../techniques/tube-bait-fishing.md)),
 [bay bass plastics](../lures/bay-bass-plastics.md).
 
 ## How a profile resolves a class
@@ -280,7 +283,6 @@ does the lookup.
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
-- [Glide Baits](../techniques/glide-baits.md)
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md)
@@ -336,6 +338,8 @@ does the lookup.
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 - [Trolling](../techniques/trolling.md)
+- [Tube Baits (HookUp Baits)](../lures/tube-baits.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Wacky Rig — Reading the Bite in a Slack Line](../techniques/wacky-rig.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)

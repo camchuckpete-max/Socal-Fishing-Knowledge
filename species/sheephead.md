@@ -79,7 +79,7 @@ glassing](../planning/search-and-glassing.md),
 | Situation (conditions) | Do this | Gear class | Notes |
 | --- | --- | --- | --- |
 | Anchored on a chummed artificial reef or structure spot | [Chunking](../techniques/chunking.md) to draw fish up, then a **[sliding-sinker](../techniques/sliding-sinker.md)**-style suspended bait — 1/4–1/2 oz slider, No. 2/No. 4 bronze [hook](../tackle/hooks.md) | Light spinning or small level-wind, light bait class | Bait suspended off bottom, never laid on it — a bottomed bait draws shovelnose sharks, bat rays, smoothhound, and leopard sharks instead |
-| Bass or rockfish fishing red-crab-holding structure, sheephead showing as bycatch | A **red-crab-scented/colored soft-plastic swimbait**, sized down to a **1 oz "bullet"** profile | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall Show 2020 (`5Oh3IPIC5g4`): calls sheephead the brand's "mascot fish" for how well the red-crab bait works on them — smaller-mouthed fish, so the smaller bullet profile out-produces the bigger "Big Game" size. Caught almost always as **bycatch** while bass or rockfish fishing, not targeted directly — see [glide baits](../techniques/glide-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020). ⚠ promotional seminar source, low confidence |
+| Bass or rockfish fishing red-crab-holding structure, sheephead showing as bycatch | A **red-crab-scented/colored soft-plastic swimbait**, sized down to a **1 oz "bullet"** profile | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall Show 2020 (`5Oh3IPIC5g4`): calls sheephead the brand's "mascot fish" for how well the red-crab bait works on them — smaller-mouthed fish, so the smaller bullet profile out-produces the bigger "Big Game" size. Caught almost always as **bycatch** while bass or rockfish fishing, not targeted directly — see [tube baits](../lures/tube-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020). ⚠ promotional seminar source, low confidence |
 | No live bait aboard | Cut **pismo clam** (top choice), mussel, or squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait; squid strips are the cheap/available fallback (see [hooks](../tackle/hooks.md)) |
 | Cold-water months, summer pelagics gone or slow | Fish sheephead/structure as the reliable fallback rather than putting gear away | Same light bait class | Framed as a year-round bite that doesn't depend on the warm-water season |
 | Teaching a new angler or a kid to fish | Same simple chummed-reef + suspended-bait approach | Light spinning class | Source explicitly frames sheephead as an approachable teaching target |
@@ -123,9 +123,9 @@ glassing](../planning/search-and-glassing.md),
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bluefin Tuna](bluefin-tuna.md)
-- [Glide Baits](../techniques/glide-baits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

@@ -176,7 +176,7 @@ conditions that put one there.** (General search method:
   sizes up; **inside a bay**, he runs a smaller **3/8 or 5/8 oz** bait.
   **Mint** and **glow green** are named as working well for halibut; a
   **white "shad"**-pattern bait is called out specifically for **morning
-  and evening** — see [glide baits](../techniques/glide-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020).
+  and evening** — see [tube baits](../lures/tube-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020).
   A fast, chasing retrieve is the same family of presentation
   as the Lucky Craft hard-bait doctrine immediately below, from a different
   attributed source — kept side by side, not merged.
@@ -473,7 +473,6 @@ for the fine/soft-mesh or rubberized-net fix.
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
-- [Glide Baits](../techniques/glide-baits.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
@@ -486,6 +485,8 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](../tackle/tackle-express-surf-halibut-rod-lineup.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trap Rig](../rigging/trap-rig.md)
+- [Tube Baits (HookUp Baits)](../lures/tube-baits.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [White Seabass](white-seabass.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

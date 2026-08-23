@@ -49,7 +49,7 @@ but hard-charging, they'll eat almost anything moving.
 | **Chummed school / mixed with yellowfin** | [Flyline](../techniques/flyline.md) a live bait, or a **burning cast** with a lead bait / casting jig | **20–30 lb class** ([gear classes](../tackle/gear-classes.md)) | Skipjack usually bite *before* the yellowfin do — expect them on the fast retrieve |
 | **Locating over open water / scattered fish** | Troll [feathers & skirts](../lures/tuna-feathers-and-skirts.md) or a [cedar plug](../lures/cedar-plug.md) | Light **troll class** | Aggressive on trolled feathers/cedar; a hooked skipjack marks the zone |
 | **Want live/dead bait for big game** | Catch skipjack, then fly or slow-troll them for **bluefin or marlin** | — | Prime big-fish bait; a lively skippy is a trophy-[bluefin](../species/bluefin-tuna.md) / [marlin](../species/striped-marlin.md) offering |
-| **Skipjack are the nuisance, not the target** — blanketing the surface over [yellowfin](yellowfin-tuna.md) holding below | Switch off live bait to a fast-sinking swimbait that punches through the skipjack layer | Bass casting / swimbait class | The reverse framing of the row above: here skipjack intercepting live bait is the problem being solved, not the goal — see [glide baits](../techniques/glide-baits.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) (Chad, HookUp Baits co-owner, `5Oh3IPIC5g4`, 2020). ⚠ promotional seminar source, low confidence |
+| **Skipjack are the nuisance, not the target** — blanketing the surface over [yellowfin](yellowfin-tuna.md) holding below | Switch off live bait to a fast-sinking swimbait that punches through the skipjack layer | Bass casting / swimbait class | The reverse framing of the row above: here skipjack intercepting live bait is the problem being solved, not the goal — see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) (Chad, HookUp Baits co-owner, `5Oh3IPIC5g4`, 2020). ⚠ promotional seminar source, low confidence |
 
 ## Gear summary (class terms)
 
@@ -97,6 +97,6 @@ but hard-charging, they'll eat almost anything moving.
 
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
-- [Glide Baits](../techniques/glide-baits.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

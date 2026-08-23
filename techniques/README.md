@@ -18,7 +18,7 @@
 - [Flat-Fall Jigging](flat-fall-jigging.md) **[SoCal only]** — A free-spool-and-count presentation for large bluefin tuna marked deep: drop the jig on slack line, let it fall to the bite zone, and work it in partial up-and-
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
-- [Glide Baits](glide-baits.md) — Execution for large, hard-bodied, jointed glide baits (marketed in SoCal as "Hookup Baits") fished from a private boat, party boat, or bay bank for calico and s
+- [Glide Baits](glide-baits.md) **[SoCal only]** — A glide bait is a large, hard-bodied, jointed swimbait that kicks side-to-side on the pause — the European pike/musky-derived class (DS Prestos, Jackal, Gucci-s
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Small-craft-specific execution for working calico bass and sand bass structure from a kayak — covering ground, using kelp as an anchor, and working boiler rocks
@@ -45,6 +45,7 @@
 - [Surface Iron](surface-iron.md) — Long-cast a heavy chrome/painted iron on a jig-stick and swim it back near the surface with a steady grind, varying speed to trigger the bite.
 - [Swimbaits](swimbaits.md) — Execution for soft-plastic swimbaits and slugs on kelp and reef bass.
 - [Trolling](trolling.md) — General offshore trolling execution — how to run a spread, where each lure lives in it, and how to pair a rod to a lure.
+- [Tube-Bait Fishing](tube-bait-fishing.md) — Execution for tube baits — the soft-plastic, internal-lead-head class HookUp Baits made a SoCal staple — fished from a private boat, party boat, or bay bank for
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md) **[SoCal only]** — A reel-side counter-move to a hooked big fish getting its nose down and circling under the boat — distinct from, and a companion to, the boat-driving methods (g
 - [Underhand Casting](underhand-casting.md) — Execution for the underhand cast — a simple lob toss for live bait off a sportboat rail or bow, alternative to a full overhead surface-iron cast when you don't
 - [Wacky Rig — Reading the Bite in a Slack Line](wacky-rig.md) **[SoCal only]** — Execution for fishing a wacky-rigged stick worm (a soft stickbait hooked through the middle so both ends fall and wiggle freely — the rig's own construction, ho
@@ -58,5 +59,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 48 notes exceed the 30-node cap._
+_Map skipped: 49 notes exceed the 30-node cap._
 <!-- mermaid:end -->
