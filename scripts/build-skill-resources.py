@@ -9,9 +9,13 @@ resolve to owned gear. Execution detail (techniques, lures, rigging) stays one
 link away in the repo and is fetched on demand.
 
 Usage:
-    python scripts/build-skill-resources.py                 # default: profiles/cameron
+    python scripts/build-skill-resources.py                 # default: NO profile
     python scripts/build-skill-resources.py --profile profiles/_template
-    python scripts/build-skill-resources.py --no-profile    # generic, class-term only
+    python scripts/build-skill-resources.py --profile profiles/cameron --include-spots
+
+A bundle can be handed to another angler, so it never carries a profile unless
+one is named on the command line, and never carries a spot file (coordinates)
+unless --include-spots is passed as well.
 
 A generic build (no profile) still produces a working skill: the day-plan
 protocol degrades to class-term recommendations.
@@ -42,7 +46,7 @@ def copy_note(src: Path, dst: Path) -> None:
     shutil.copy2(src, dst)
 
 
-def build(profile: Path | None) -> int:
+def build(profile: Path | None, include_spots: bool = False) -> int:
     if RES.exists():
         shutil.rmtree(RES)
     kb = RES / "knowledge"
@@ -71,9 +75,18 @@ def build(profile: Path | None) -> int:
         pdst = RES / "profile"
         pdst.mkdir(parents=True, exist_ok=True)
         pfiles = 0
+        skipped_spots = False
         for p in sorted(profile.glob("*.md")):
+            if p.name == "spots.md" and not include_spots:
+                skipped_spots = True
+                continue
             copy_note(p, pdst / p.name)
             pfiles += 1
+        if skipped_spots:
+            print(
+                f"note: {profile.name}/spots.md not bundled (coordinates); "
+                "pass --include-spots to bundle it"
+            )
         profile_status = f"{profile.name} ({pfiles} files)"
 
     # INDEX + SKILL.md
@@ -138,18 +151,33 @@ def main() -> int:
     ap.add_argument(
         "--profile",
         default=None,
-        help="profile dir to bundle (default: profiles/cameron)",
+        help=(
+            "profile dir to bundle. NOT set by default: a bundle is a thing you "
+            "hand to someone else, and it must never carry another angler's gear"
+        ),
     )
     ap.add_argument(
         "--no-profile",
         action="store_true",
-        help="build a generic skill with no profile (class-term recommendations)",
+        help="explicit form of the default: generic, class-term recommendations",
+    )
+    ap.add_argument(
+        "--include-spots",
+        action="store_true",
+        help=(
+            "also bundle the profile's spots.md. Off by default because spot "
+            "files carry coordinates; requires --profile"
+        ),
     )
     args = ap.parse_args()
     if args.no_profile and args.profile is not None:
         ap.error("--profile and --no-profile are mutually exclusive")
-    profile = None if args.no_profile else (ROOT / (args.profile or "profiles/cameron"))
-    return build(profile)
+    if args.include_spots and args.profile is None:
+        ap.error("--include-spots requires --profile")
+    # Default is NO profile. Bundling one is an explicit act, named on the
+    # command line, because the bundle may be handed to another angler.
+    profile = (ROOT / args.profile) if args.profile else None
+    return build(profile, include_spots=args.include_spots)
 
 
 if __name__ == "__main__":

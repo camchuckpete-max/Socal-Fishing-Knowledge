@@ -15,6 +15,11 @@ given angler owns. This note is that lexicon. Worked example throughout:
 [rod & reel selection](rod-and-reel-selection.md); the trolling rod↔lure logic
 is the [4-factor framework](../techniques/trolling.md).
 
+**The "Example setup" column is one angler's box, not yours.** Those entries are
+Cameron's worked example — they make each class concrete. Resolve a class against
+the reader's own inventory; if they have no match, name the gap. Never recommend
+a setup from this column to someone who hasn't said they own it.
+
 ## Rod / reel classes
 
 | Class | What defines it | Application | Example setup |
@@ -279,6 +284,7 @@ does the lookup.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)

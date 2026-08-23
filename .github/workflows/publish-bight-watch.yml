@@ -1,0 +1,101 @@
+name: publish-bight-watch
+
+# Rebuilds Bight Watch from the ingestion branch and deploys it to GitHub
+# Pages, so the review screen refreshes itself while the chain works instead
+# of needing a Claude session to regenerate it.
+#
+# Pages source was set to "GitHub Actions" by Cameron on 2026-08-19; before
+# that every run built cleanly and failed at the deploy step with a 404.
+# Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
+
+on:
+  # FRESHNESS COMES FROM THE EVENT, NOT THE CLOCK.
+  # A chunk finishing is the only moment the page has anything new to show,
+  # so rebuild then. This is not subject to schedule throttling.
+  workflow_run:
+    # main declares `batch2-ingest-chunk`; the batch-3 branch copy that
+    # actually executes declares `batch3-ingest-chunk`. workflow_run matches
+    # by name, so both are listed — naming only one silently never fires.
+    workflows: ["batch2-ingest-chunk", "batch3-ingest-chunk"]
+    types: [completed]
+
+  # Safety net only, for what the event misses: supervised commits pushed by
+  # hand, or a chunk that dies before it reports completion.
+  #
+  # Deliberately hourly. A */10 cron was tried on 2026-08-19 and made the page
+  # LESS fresh: gaps went from a reliable 54-60 min to an erratic 14-33 min,
+  # then the schedule was dropped outright for 1h43m. GitHub schedules are
+  # best-effort and the greediest are dropped first — the */15 trampoline
+  # stalled in the same window but recovered, while */10 did not. Do not
+  # shorten this; add an event instead.
+  schedule:
+    - cron: "0 * * * *"
+
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: Branch to build the snapshot from
+        required: false
+        default: claude/batch-3-planning-lessons-pxwdl5
+
+  # Immediate kick: touching this file rebuilds now. Useful because a session
+  # without actions:write cannot dispatch.
+  push:
+    paths:
+      - .github/workflows/publish-bight-watch.yml
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the ingestion branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.branch || 'claude/batch-3-planning-lessons-pxwdl5' }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch recent chain runs for the Chain card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${{ github.repository }}/actions/workflows/ingest-chunk.yml/runs?per_page=10" \
+            --jq '{workflow_runs: [.workflow_runs[] | {id, status, conclusion, created_at}]}' \
+            > /tmp/runs.json || echo '{"workflow_runs":[]}' > /tmp/runs.json
+
+      - name: Build the page
+        run: |
+          # checkout narrows the refspec to the branch it fetched, so origin/main
+          # (the diff base the generator compares against) has to be asked for
+          # by name or every page reads as unchanged.
+          git fetch origin +refs/heads/main:refs/remotes/origin/main
+          git rev-parse --short origin/main
+          mkdir -p _site
+          python scripts/build-bight-watch.py --out _site/index.html --runs /tmp/runs.json
+          ls -la _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

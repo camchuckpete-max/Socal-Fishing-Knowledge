@@ -8,7 +8,7 @@ confidence: medium
 # <Your> Trolling Lures (owned)
 
 Your owned trolling spread. Link each to its universal
-[lure](../../lures/) note for running specs (speed, depth, setback, leader). How
+[lure](../../lures/README.md) note for running specs (speed, depth, setback, leader). How
 to decide which to pull: [bluefin trolling](../../species/bluefin-trolling.md)
 and [trolling](../../techniques/trolling.md).
 

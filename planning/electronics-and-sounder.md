@@ -13,9 +13,13 @@ signatures** (yellowtail arcs, bluefin sounded deep, sword in the DSL) live in t
 species notes, and the deep scattering layer itself is in
 [deep scattering layer](../conditions/deep-scattering-layer.md).
 
-**Cameron's boat sounder is a Garmin GPSMAP 840xs** (memory §2). The doctrine
-below comes from Furuno-based captains (Duane Diego Mellor; the deep-drop sword
-seminar); each translated setting is given for the 840xs.
+**The doctrine below is unit-agnostic; the worked example is one boat's unit.**
+It comes from Furuno-based captains (Duane Diego Mellor; the deep-drop sword
+seminar), and each setting is then translated onto a **Garmin GPSMAP 840xs** —
+[Cameron's sounder](../profiles/cameron/boat.md), a worked example rather than
+the reader's hardware. On a different unit, read the translated setting as
+"the control that does this job on mine" and find its equivalent on yours; the
+depths, frequencies, and what you are looking for do not change with the brand.
 
 ## Terminology: the "fathometer" and fathoms
 

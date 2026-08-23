@@ -49,6 +49,14 @@ EXCLUDE_FULL = {
 # not indexed, not a backlink source (e.g. the hand-authored skill definition).
 VALIDATE_ONLY = {
     ROOT / "skills" / "boat-day" / "SKILL.md",
+    # The distributed skill's source of record. These are the files that get
+    # packaged and handed to another angler, so they are committed here to be
+    # diffable against whatever someone actually has installed. They are not
+    # KB notes: no backlinks block, not indexed, never a backlink source.
+    ROOT / "skills" / "socal-boat-day" / "SKILL.md",
+    ROOT / "skills" / "socal-boat-day" / "references" / "offline-fallback.md",
+    ROOT / "skills" / "socal-boat-day" / "references" / "setup.md",
+    ROOT / "skills" / "socal-boat-day" / "references" / "tackle-onboarding.md",
 }
 # Notes that are indexed and validated normally but never receive a generated
 # backlinks block. The registry is a trust table every note may legitimately
