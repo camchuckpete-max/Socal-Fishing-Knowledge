@@ -44,4 +44,14 @@ harvested.
 | San Augustine (Cedros) | species/yellowtail.md | evidence — Cedros | yo-yo spot; iron dropped to 130 ft drew an immediate sustained bite | `u0scEBby7nA` |
 | "the Calico spot" (Cedros, crew's own name) | species/yellowtail.md | evidence — Cedros | home-guard yellowtail on a Colt Sniper-class stickbait in the shallows | `Zo92MG459gQ` |
 | Bahía de los Ángeles (BOLA) | species/yellowtail.md | Where & when | "legendary yellowtail grounds"; high-spot fish at 150–300 ft; September fish on the bottom | `vqsD0qpwcJA` |
+| Guadalupe Island | techniques/surface-iron.md | evidence — Retrieve & cadence | Dan Wade's 68 lb surface-iron personal best, taken on 40 lb | `Ec2GaNpiOHI` |
+| Coronado Islands | techniques/surface-iron.md | Retrieve & cadence | big schools often eat a faster, less exacting retrieve; chum-then-cast fallback sequence | `VpW91AKOFVQ`, `4pT0efBD1j0` |
+| Del Mar to Imperial Beach (mainland coast) | techniques/surface-iron.md | Retrieve & cadence | smaller coastal schools run markedly more finicky and need the retrieve dialed in precisely | `VpW91AKOFVQ` |
+| Cedros Island | techniques/surface-iron.md | Retrieve & cadence | sink-out change-up on a Tady 45 framed as a near-"yellowtail guarantee" | `9tIp4n7q850` |
+| Catalina Island | techniques/surface-iron.md | Retrieve & cadence | earliest sink-it-out occurrence — Tady 45 sunk ~30 ft before winding, first-cast strike | `oadK6zIYyCo` |
+| Cedros/Gono Islands kelp bed (asr-uncertain name) | techniques/surface-iron.md | evidence — Retrieve & cadence | bombed casts allowed to fall at anchor over kelp, bit on the fall | `NGxyOlPx3ug` |
+| San Benito Islands | techniques/surface-iron.md | Size / weight selection | singled out with Cedros as favorite surface-iron yellowtail grounds | `lYyi_Yh3S5g` |
+| Channel Islands | techniques/surface-iron.md | Gear class | 40 lb mono top-shot bracket — local, full-day-accessible island | `LTCFjqtSI8g` |
+| San Clemente Island | techniques/surface-iron.md | Gear class | 50 lb top shot — overnight range, a trophy-yellowtail shot at any moment | `LTCFjqtSI8g` |
+| Santa Barbara Island | techniques/surface-iron.md | Gear class | 50 lb top shot — overnight range, a trophy-yellowtail shot at any moment | `LTCFjqtSI8g` |
 <!-- review:harvest:end -->

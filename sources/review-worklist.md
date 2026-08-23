@@ -73,7 +73,7 @@ by their builders after the transform phase drains.
 | techniques/spinning-reel-wind-knots.md | standard | pending |  |  |
 | techniques/surface-iron-casting.md | standard | pending |  |  |
 | techniques/surface-iron-color.md | standard | pending |  |  |
-| techniques/surface-iron.md | standard | pending |  |  |
+| techniques/surface-iron.md | standard | transformed | misplaced(1) spots(10) | faithful transform 654->512 lines + 77-line evidence: blockquotes to prose, source-scoped headings dissolved, 2 legacy cites transcript-verified; 2 verifier fixes (cite-scope split, harvest-row cite) |
 | techniques/swimbaits.md | standard | pending |  |  |
 | techniques/trolling.md | standard | pending |  |  |
 | techniques/tube-bait-fishing.md | standard | pending |  |  |
