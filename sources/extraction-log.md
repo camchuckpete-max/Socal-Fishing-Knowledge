@@ -3046,3 +3046,72 @@ sit at `confidence: medium`:
 Each of the 22 needs reading before its rating moves. Notes that mix Searcher
 with other sources also need the mixed-attribution check — a note is not `high`
 because one of its several sources is registered.
+
+## Batch 3 — Coverage summary + judgment calls (GATE B package, 2026-08-23)
+
+Reviewed in the supervising session after the chain finished 2026-08-21
+20:58 UTC. Per CLAUDE.md, GATE B is Cameron's post-build review; this section
+is that review's evidence. **Nothing here is canonical until Cameron merges.**
+
+### Coverage — every row accounts for itself
+
+954 worklist rows: **835 done, 114 skipped, 5 escalated, 0 pending.**
+
+- **835 done ↔ 835 extraction commits, exactly 1:1.** No done row without a
+  commit, no extraction commit without a done row, no empty result strings.
+- **114 skipped** = 107 pre-filtered before the run (each with its reason in
+  the result cell; audited 2026-08-18 — worst case ~10 borderline line/leader
+  Shorts, listed there) + **7 evaluator rejects**, all generic
+  freshwater/unlocatable Tackle Express clips. Batch 2's evaluator rejected 1
+  video in 270; this one rejected 7 in 842 — the recalibrated triggers
+  discriminate instead of rubber-stamping.
+- **5 escalated**: 4 guard-violations (the extractor touched
+  `profiles/cameron/rods.md` / `tackle.md` on Tackle Express parameter-skims;
+  the guard reverted each whole commit — the exact violation it exists for)
+  and 1 subagent API failure. The 12 extra commits on the branch are this
+  paper trail (extract → revert → escalation-record).
+- Escalation ledger: 34 entries = 29 pre-existing (triaged 2026-08-18) + these
+  5. **Zero evaluator escalations in 835 videos** — checked, not assumed: the
+  9 regulatory-shaped claims in new notes all carry the jurisdiction +
+  as-reported date + verify-current format, so the fires-on-noncompliance
+  trigger had nothing to fire on.
+
+### What the batch produced
+
+- **140 new notes** (tackle 81, techniques 27, rigging 18, locations 6,
+  species 3, fish-care 2, lures 2, planning 1); 288 knowledge files changed,
+  **+35,350 / −2,518 lines**. KB now 271 notes, 0 dead links, region gating
+  passing on every gated note, tree clean under link-maintenance.
+- Confidence across the KB: 144 medium / 68 high / 33 low. Every knowledge
+  note carries the field.
+- **Fidelity spot-check** (random sample, new notes with numeric claims):
+  18/18 weights, depths, lengths and line classes located verbatim in the
+  cited transcripts. Freshwater terms in accepted notes appear only as
+  labeled contrast, never as SoCal doctrine.
+- New router `species/wahoo.md` passes the CLAUDE.md acceptance structure
+  (Where & when / Finding them / Situations → techniques / Gear summary /
+  Doctrine & conflicts).
+
+### Judgment calls for Cameron
+
+1. **48 `tackle-express-*` single-product notes.** Process-compliant and
+   honestly capped at `low`, and some are real decision knowledge
+   (gear-ratio-for-yellowtail, cedros-four-rod-quiver) — but a subset is
+   product-catalog copy ("CI4+ reel features") that CLAUDE.md's curation bar
+   ("generic content available anywhere does not earn a note") arguably
+   excludes. Options: keep at `low` / prune the pure-marketing subset / fold
+   into the class notes. Reviewer's recommendation: prune or fold post-merge.
+2. **Mega-note growth accelerated.** 36 notes over 400 lines (22 at batch
+   start); `yellowtail.md` `## Where & when` now 1,239 lines,
+   `tackle/hooks.md` 1,036 lines with two 460+ line sections. Phase 4's split
+   is now the KB's largest structural debt.
+3. **The 4 guard-reverted videos lost their legitimate content with the
+   violation** (e.g. `DPrr0a3vQY0`'s 62-line Shimano Tranx 400B note).
+   Reopen post-merge with profiles/ untouched, or leave skipped.
+4. **`-Ocrnb4rmMo`** (subagent API failure) — re-run post-merge.
+5. **Already queued post-run corrections** (logged above, unchanged): the
+   HookUp Baits → tube-baits reclassification, and the Searcher re-rate sweep
+   (22 candidate notes).
+6. **At merge:** main's `ingest-chunk.yml` still hardcodes the batch-2
+   branch; this branch's copy is correct and supersedes it on merge — no
+   action needed, noted so the diff reads as intended.
