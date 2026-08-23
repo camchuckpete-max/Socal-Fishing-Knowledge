@@ -76,7 +76,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
   sharp SST breaks and edges reappear, the warm water tracks a predictable
   retreat path and **condenses** offshore (toward Tanner/Cortez). The chart
   runs the plan: "conditions become pretty important … look 100 % at your temp
-  chart and chlorophyll" (10/12/22, 10/20/22).
+  chart and chlorophyll" (10/12/22, 10/20/22) ⚠ cite-unresolved.
 - **Typical-year mapping:** October into December —
   [October](../seasonal/october.md),
   [November–December](../seasonal/november-december.md) (front half), handing

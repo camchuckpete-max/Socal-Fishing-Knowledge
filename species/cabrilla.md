@@ -104,7 +104,7 @@ meter them." General method:
 
 ## Doctrine & conflicts
 
-- **Drag philosophy — kept side by side, not reconciled (EmZO8QiOfik):**
+- **Drag philosophy — kept side by side, not reconciled (`EmZO8QiOfik`):**
   Cesar fishes his jerkbait drag **essentially locked down** (star-drag run
   to its stop) — his reasoning is that a cabrilla given an inch of line
   turns its head and starts taking line, so the drag should give nothing; he

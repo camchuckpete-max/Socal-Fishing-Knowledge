@@ -31,7 +31,7 @@ naming split tracked in that note, not this one.
   from calico bass to 200 lb-class bluefin.
 - **Double (doubled-through-the-eye)** — built for heavy line on artificial
   lures; bulkier, about three times the size of the single on the same hook.
-- **Single (single-pass)** — the live-bait-hook default; avoids the bulk and
+- **Single (`single-pass`)** — the live-bait-hook default; avoids the bulk and
   presentation drag of the double. Full selection rule and stated reason in
   [San Diego Jam — Single vs. Double](san-diego-jam-single-vs-double.md).
 

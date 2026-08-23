@@ -31,7 +31,7 @@ walkthrough for gaffing a bluefin from a boat:
   you intend and the fish comes over the rail under control.
 - **Gaff sizing, the pec/flip-upside-down shot, hook orientation ("don't dig a
   hole"), and gaff safety** are covered in full in [gaffing](gaffing.md)
-  (I84uoay_jwQ) — a second, more specific attributed source on the shot itself,
+  (`I84uoay_jwQ`) — a second, more specific attributed source on the shot itself,
   kept side by side with the head/shoulder guidance above rather than merged
   into it.
 

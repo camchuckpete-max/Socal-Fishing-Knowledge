@@ -71,7 +71,8 @@ SUBJ_RELOCATE_RE = re.compile(r"^review: relocate (\S+\.md) (?:→|->) (\S+\.md)
 SUBJ_CLUSTER_RE = re.compile(r"^review: (cluster:\S+) [—-] ")
 SUBJ_EXEMPT_RE = re.compile(r"^review: (progress checkpoint|guard sweep fixups)")
 
-OBSERVED_RE = re.compile(r"^\*\*Observed\*\*", re.M)
+# Observed blocks appear bare, as bullets, indented, and blockquoted.
+OBSERVED_RE = re.compile(r"^[ \t>-]*\*\*Observed\*\*", re.M)
 # Evidence entries are one-line bullets carrying a backticked source id.
 EVIDENCE_ENTRY_RE = re.compile(r"^- .*`[A-Za-z0-9_-]{11}`", re.M)
 # Cited-source tokens: front-matter sources entries, backticked ids, and bare

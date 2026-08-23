@@ -15,10 +15,10 @@ its volume, and doesn't beat up or crowd the bait. Get bait into the tank per
 [making bait](making-bait.md); fish what survives per
 [fishing live bait](fishing-live-bait.md).
 
-## West-coast vs. east-coast tank design (1QWstxUibDA)
+## West-coast vs. east-coast tank design (`1QWstxUibDA`)
 
 The two coasts build bait tanks differently, and the **west-coast round/oval
-circular-flow tank is strongly preferred for SoCal live-bait fishing** (1QWstxUibDA):
+circular-flow tank is strongly preferred for SoCal live-bait fishing** (`1QWstxUibDA`):
 
 - **East-coast style:** a **standpipe / drain tube in the middle** of the tank,
   screwed into the bottom; water drains out the top of the tube once the level
@@ -306,7 +306,7 @@ already-cured box" receiver routine already logged above (`MjPY-nWZJ54`).
   oil sheen rising to the surface of the tank when dead bait sits on the
   bottom. That's what makes prompt culling (above) more than tidiness.
 - **Tap-scoop technique to cull without stressing the tank:** lower the scoop
-  gently to the bottom, tap the bottom of the tank with it (tap-tap-tap) so
+  gently to the bottom, tap the bottom of the tank with it (`tap-tap-tap`) so
   the live bait scatters clear, then you can see the dead bait sitting on the
   bottom. Scoop it up **without pulling the net out of the water**, pick the
   dead baits out at the surface, and release the live bait back into the tank.

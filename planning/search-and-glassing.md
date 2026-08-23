@@ -17,7 +17,7 @@ how to weigh what the rest of the fleet is doing (VHF, AIS) is in
 
 ## The glassing protocol
 
-From 7/14/22 and the dorado video (Landesfeind):
+From 7/14/22 and the dorado video (`Landesfeind`):
 
 - **Stabilize.** Use image-stabilized binoculars. Glass from a **full stop**, or
   bow **into the swell at ~1 kt** — you cannot glass usefully off a rolling,
@@ -395,7 +395,7 @@ confidence):
 
 ## Sportboat bow play
 
-A tell worth stealing from the sportboats (7/14/22): anchored at San Clemente
+A tell worth stealing from the sportboats (`DnSqw4r7A1s`): anchored at San Clemente
 Island, **chum gets pushed *up-current* toward the bow by the fish themselves** —
 watch for **birds locking on up there** and put the **surface iron under them**.
 The fish working your chum betray their position at the bow even though the

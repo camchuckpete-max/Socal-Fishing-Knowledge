@@ -19,14 +19,14 @@ point where the two blank materials meet is clearly visible: a straight,
 clean line where the blank's color changes from a lighter gray to a darker
 gray or black. Customers often read this line as an imperfection, as if the
 rod "wasn't made correctly." Per Tackle Express, it isn't a flaw: **the
-transition is built that way on purpose** (28FQZvZ8v6k).
+transition is built that way on purpose** (`28FQZvZ8v6k`).
 
 ## Why it's there — mechanism
 
 The material transition is what tapers the rod's **action** through the
 blank: it blends a **softer action at the front** (tip section) into a
 **beefier action at the back** (butt section), rather than the rod carrying
-one uniform action along its whole length (28FQZvZ8v6k). This is the same
+one uniform action along its whole length (`28FQZvZ8v6k`). This is the same
 soft-tip/composite-taper effect already logged for flyline rods in
 [rod & reel selection — flyline reel & rod
 selection](rod-and-reel-selection.md#flyline-reel-rod-selection) (Cesar: a

@@ -130,7 +130,7 @@ this note owns the rig and the retrieve.
   for bigger baits or a ripping current. The source doesn't confirm the exact
   rig format (dropper loop vs. straight bait-to-bottom), so treat this as a
   regional weight reference rather than confirmed dropper-loop parameters (Ray
-  Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered (Baja-scoped) — medium confidence).
+  Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered (`Baja-scoped`) — medium confidence).
 
 - **San Benito Island, Baja — 100 lb line minimum for home-guard yellowtail
   (Observed, StokedOnFishing, aired 2015-01-18, `JaKSGkZ6CAc`, "Top Gun 80
@@ -349,7 +349,7 @@ OIqdmhKfuOc, 2021-03-30).
   Hansen rock-cod gangion build below uses. This also corroborates the
   index-on-spool/thumb-on-trigger ready position already logged from a
   different Your Saltwater Guide video in
-  [drag setting](../tackle/drag-setting.md) (F0g5r9Rkrd4) —
+  [drag setting](../tackle/drag-setting.md) (`F0g5r9Rkrd4`) —
   same grip, but that note's hookset is **wind-only, no swing**, while this
   video calls for an active two-crank-and-lift set (see Hookset below); the
   grip repeats, the hookset does not — kept side by side rather than
@@ -370,7 +370,7 @@ OIqdmhKfuOc, 2021-03-30).
   meant to self-set on the wind, not get horsed) — contrast the circle-hook
   "don't set, just wind" instruction in the Dave Hansen quick gangion below
   and the "no jerking, no pumping — slow, steady wind" retrieve logged in
-  *Fishing it* below (U-dGRQ0X-Mc): three different hook/rig combinations on
+  *Fishing it* below (`U-dGRQ0X-Mc`): three different hook/rig combinations on
   the same rig family, kept side by side rather than reconciled to one
   retrieve.
 - **When the mackerel is too strong for the sinker** and keeps dragging the
@@ -494,7 +494,7 @@ demonstrably tying; not carried as a separate rig name.
   clicker/trigger controlling the fall), click into gear the instant it hits
   bottom, and on the bite **don't set the hook — just turn the handle and
   wind**, consistent with the slow-steady-wind retrieve already logged above
-  from this same presenter (U-dGRQ0X-Mc).
+  from this same presenter (`U-dGRQ0X-Mc`).
 - **Why braid, why filled to the rim:** built for **400–600 ft** rockfish
   water — see [rockfish deep-dropping](rockfish-deep-dropping.md#line-class-and-spooling-dave-hansen)
   for the line-class and spooling detail this same video gives.

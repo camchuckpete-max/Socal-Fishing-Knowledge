@@ -54,7 +54,7 @@ chlorophyll weighting for this regime lives in
 
 ## Paddy-water geography
 
-Kelp paddies are not evenly distributed across the bight (8/17/22):
+Kelp paddies are not evenly distributed across the bight (`HzE4FHHcvTk`):
 
 - **Best paddy water:** **south of San Clemente Island / Catalina**, and along
   the coastal strip from **Dana Point to Oceanside and southward**.

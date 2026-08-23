@@ -125,7 +125,7 @@ Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
 **Kicker 25** (heavy — fished as a yo-yo iron on the same Cedros trips, also
 seen in a holographic sardine finish as a surface iron), **Strictly Irons**
 CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
-2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence),
+2022-09; `ray-sharifi` registered (`Baja-scoped`) — medium confidence),
 **Roberts Ranger** (SearcherSportfishing, `OL8D1l73RVg`, 2020-10-08;
 `searcher-sportfishing` registered channel — **low confidence: a named
 product/model pick, capped per this channel's registry sponsored-claim
@@ -435,7 +435,7 @@ capt-scotty-brothers registered — high confidence):
 - **Real-fish hook placement, observed:** on one yellowtail landed on an
   assist-rigged **Daiwa SK jig**, only one of the two assist hooks caught
   inside the mouth; the second caught outside, on the face/nose, and still
-  held through the fight (VpW91AKOFVQ).
+  held through the fight (`VpW91AKOFVQ`).
 - **Hybrid-action model data point:** the **Daiwa SK jig** (a 170 g, sardine-
   color example fished this trip) is built to flutter like a butterfly/knife
   jig on the drop and additionally kick side-to-side like a yo-yo iron on the

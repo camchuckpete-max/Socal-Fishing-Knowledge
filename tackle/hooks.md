@@ -41,7 +41,7 @@ and why anglers reach for it.
   drag setting "an absolute key" specifically for circle-hooked larger tuna.
 - **J** wins where a circle can't get a good angle. **Dorado run straight at the
   boat**, killing the corner-of-mouth geometry a circle needs — switch to a J and
-  set (sWRSYCmt4Tw). J hooks are also the pick for islands yellowtail, long-range,
+  set (`sWRSYCmt4Tw`). J hooks are also the pick for islands yellowtail, long-range,
   and [dropper-loop](../techniques/dropper-loop.md) work. For anglers who *can*
   feel the bite and like to set, a **long-shank J** (e.g. 7/0 for marlin) is
   favored on the theory that the long shank keeps the hook from being sawed off
@@ -483,7 +483,7 @@ biting that day**, decided on the water (Ray Sharifi, Dirty Hookers;
 Hook numbering: below "1/0" the sizes count **up as they shrink** (1, 2 = small,
 light); at and above **1/0** they count up as they **grow** (2/0, 4/0, 6/0 … up to
 a big 11/0). The size is really the **gap** measured from the point across to the
-shank, so it varies a bit between manufacturers (HIXTFWlwnM0).
+shank, so it varies a bit between manufacturers (`HIXTFWlwnM0`).
 
 **The bait sets the hook size; the target fish is secondary** (HIXTFWlwnM0,
 m2q22sPPkEM):
@@ -516,7 +516,7 @@ carry the same claim.
 ### Bluefin, first trip
 
 For a first bluefin trip: **1/0 or 2/0 circle hooks, not J hooks** — you want the
-hook set in the corner of the mouth (EyB98RuKfeQ), paired with a short fluoro
+hook set in the corner of the mouth (`EyB98RuKfeQ`), paired with a short fluoro
 leader (see [line & leader](line-and-leader.md)).
 
 ### Owner Mutu circle hooks, sized by grade (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at medium confidence)
@@ -527,8 +527,8 @@ size — **size 4** on the lighter (20–50 lb grade) flyline outfit, stepping u
 to **size 1/0, or up to 2/0**, on the heavier outfit for bigger fish. The
 source states that all of his tuna (yellowfin, bluefin, skipjack) over the
 prior year (2021) were caught on Owner Mutu circle hooks. This size-4 /
-1/0–2/0 split sits in range with the size-4 (gevNj2Y1Ep8) and 1/0–2/0
-(EyB98RuKfeQ) circle-hook figures already logged above from other sources —
+1/0–2/0 split sits in range with the size-4 (`gevNj2Y1Ep8`) and 1/0–2/0
+(`EyB98RuKfeQ`) circle-hook figures already logged above from other sources —
 kept as a separate attributed data point rather than merged, since neither of
 those sources names a brand.
 
@@ -737,7 +737,7 @@ The tie-in trip name is asr-uncertain in the captions (rendered as "searcher
 dowel katsu sponsored trip," almost certainly a garbled Gamakatsu reference)
 and not carried into this note as a place or trip identifier.
 
-### Live squid for white seabass (m2q22sPPkEM)
+### Live squid for white seabass (`m2q22sPPkEM`)
 
 Rig squid on an **orange lead head with a ~6/0 thin-wire hook**, or a **4/0 hook
 with a [sliding sinker](../techniques/sliding-sinker.md)**. Fish the **least
@@ -792,7 +792,7 @@ where the squid-strip entry above left it open ("any hook works"). See
   ("give the chrome hooks to your buddies"; this source doesn't mention nickel
   specifically, only chrome). This corroborates, for a third species
   (bluefin, calico bass, now sheephead), the general bronze/black-over-
-  nickel/chrome stealth doctrine logged under **Finish**, above (IMnoZVEYpm4).
+  nickel/chrome stealth doctrine logged under **Finish**, above (`IMnoZVEYpm4`).
 - **Weight: a small slider weight, 1/4 to 1/2 oz — never heavier than 1/2
   oz.** Enough to get the bait down without it "flying by," but light enough
   to keep it off bottom.
@@ -883,7 +883,7 @@ than a new data point (not reconciled into the text above).
 ### Baja, Sea of Cortez sizing
 
 From a November 2022 Tony Reyes panga trip (Ray Sharifi, Dirty Hookers,
-dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered (Baja-scoped) — medium confidence; region:
+dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered (`Baja-scoped`) — medium confidence; region:
 Baja, Sea of Cortez):
 
 - **Hardbait/jerkbait replacement trebles for cabrilla (leopard grouper):**

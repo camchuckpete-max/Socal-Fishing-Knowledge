@@ -205,13 +205,13 @@ top-shot specs live in each lure note.
 - **Troll sweeping arcs around the bird, bait and surface sign** — do not
   straight-line away from it. Tuna move only low single-digit miles per hour; at
   12 knots you can be **4 miles away in 15 minutes**, leaving every fish you just
-  saw. Zigzag big sweeps back and forth through the area instead (8/17/22).
+  saw. Zigzag big sweeps back and forth through the area instead (`HzE4FHHcvTk`).
 - **Don't troll through the fleet's prop wash.** Lures work because they're
   running **clean water** behind the boat; trolling through churned water defeats
-  the point. Give other boats room and work your own clean lanes (8/17/22).
+  the point. Give other boats room and work your own clean lanes (`HzE4FHHcvTk`).
 - **Sitting birds still mark the zone** — trolling past birds sitting on the
   water, and past hopscotching rafts, produces bites when nothing is flying
-  (8/17/22).
+  (`HzE4FHHcvTk`).
 - **Observed** (Capt. Dave Hansen, Your Saltwater Guide, 2021-01-28, Cabo San
   Lucas, Baja — presenter not named on camera, inferred from channel
   self-references and the registry's Cabo-charter continuity): once a current

@@ -17,7 +17,7 @@ offshore bluefin/yellowfin, and bottom fishing. This is a parameter checklist,
 not a selection framework — the underlying circle-vs-J and bait-sets-the-size
 doctrine lives in [hooks](hooks.md) and isn't repeated here.
 
-## Islands yellowtail — Owner Flyliner, ring vs. non-ring (IUuP8gGaAAo)
+## Islands yellowtail — Owner Flyliner, ring vs. non-ring (`IUuP8gGaAAo`)
 
 A separate, very short Tackle Express clip (`IUuP8gGaAAo`, "Stop killing your
 bait. The secret to Flyliner hook sizes explained.", uploaded 2026-08-07,
@@ -131,7 +131,7 @@ a glance:
 - **Weight for dropper loop:** a **10 oz or 12 oz torpedo sinker**, a couple
   in the box, to get squid down on a [dropper loop](../techniques/dropper-loop.md)
   or a slider rig. A second Tackle Express source gives a slightly wider
-  range, **8–12 oz**, for the same rig (Eo_bA8IWvyU) — kept side by side
+  range, **8–12 oz**, for the same rig (`Eo_bA8IWvyU`) — kept side by side
   rather than reconciled to one figure.
 - **Sliders: 1/8 oz to 1/2 oz**, sized to current, for flylining squid as well
   as sardine and mackerel — gets the bait deeper and off the surface,
@@ -139,7 +139,7 @@ a glance:
   [sliding sinker](../techniques/sliding-sinker.md) for the general technique
   this weight range serves.
 
-## Sea bass — squid vs. fin-bait backup (9MzNNwHiBXs)
+## Sea bass — squid vs. fin-bait backup (`9MzNNwHiBXs`)
 
 A separate, short Tackle Express clip (`9MzNNwHiBXs`, "Hook Mistakes That Cost
 You Fish! Squid vs. Finbait Tips," uploaded 2025-06-12; unregistered channel,

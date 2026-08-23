@@ -77,7 +77,7 @@ angler's stated confidence color for surface iron is **mint** — most of his
 easy-to-grab, most-trusted irons (including his top Tady 45s) run mint, and his
 father's easy-grab side runs holographic mint — with the framing that fishing
 whatever color you have full confidence in matters as much as the color itself
-(Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Not generalized into doctrine — a single angler's
+(Ray Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (`Baja-scoped`) — medium confidence). Not generalized into doctrine — a single angler's
 confidence-color report, not a repeated pattern.
 
 **Second Cedros/Gono data point (StokedOnFishing, 2015-01-20, Cedros Island,

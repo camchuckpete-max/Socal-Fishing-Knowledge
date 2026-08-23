@@ -34,7 +34,7 @@ September, weight this block of water when you're after grade. See
 ## Bluefin at 76 °F — soft evidence, not a gate
 
 **Bluefin were observed foaming in 76 °F water** — above the usually assumed
-ceiling (9/14/22). Treat warm SST as **soft evidence against bluefin, not
+ceiling (`5to3Q5P7w90`). Treat warm SST as **soft evidence against bluefin, not
 hard**. This is a single observation the reporter himself flagged as unusual:
 it softens the temperature ceiling but does not move the band. See
 [water temperature](../conditions/water-temperature.md).
@@ -42,7 +42,7 @@ it softens the temperature ceiling but does not move the band. See
 ## Hurricane remnants — usually a non-event
 
 **Hurricane remnants are usually a non-event** that breaks the heat with the
-fishing unaffected (9/14/22). Don't over-plan around a tropical system tracking
+fishing unaffected (`5to3Q5P7w90`). Don't over-plan around a tropical system tracking
 up the Baja coast; expect it to knock down the heat and little else. (Post-storm
 water can still roll over — see
 [report reading and forecasting](../planning/report-reading-and-forecasting.md).)

@@ -10,18 +10,18 @@ confidence: high
 SST is one axis of a two-axis read (temperature **and** [water
 color](water-color.md) / chlorophyll). In the fall regime change, Landesfeind is
 explicit: "conditions become pretty important… look **100% at your temp chart and
-chlorophyll**" (10/12/22). The value is usually not the absolute number but which
+chlorophyll**" (10/12/22) ⚠ cite-unresolved. The value is usually not the absolute number but which
 **side of a break** a species sits on.
 
 ## The break-side rules (which side of the temperature edge)
 
 - **Bluefin tuna — relative, not absolute.** Bluefin sit the **cool side** of a
   break when the surrounding water is **warm**, and the **warm side** when the
-  water is **cold** (10/20/22). Read the break, not the thermometer: find the edge,
+  water is **cold** (`OYOda6T3f-8`). Read the break, not the thermometer: find the edge,
   then pick the side by whether the regime is warm or cold overall. See
   [bluefin tuna](../species/bluefin-tuna.md).
 - **Yellowfin tuna — warmest × cleanest.** Yellowfin want the **warmest + cleanest**
-  combination: SST **max** × chlorophyll **min** (10/20/22, 10/12/22). See
+  combination: SST **max** × chlorophyll **min** (10/20/22, 10/12/22) ⚠ cite-unresolved. See
   [yellowfin tuna](../species/yellowfin-tuna.md).
 - **Dorado — the coastal boundary.** Dorado concentrate at the **green-cold /
   blue-warm coastal boundary**, referenced around **~71–72 °F** (dorado video).
@@ -31,7 +31,7 @@ chlorophyll**" (10/12/22). The value is usually not the absolute number but whic
 ## The 76 °F bluefin ceiling is SOFT, not hard
 
 Bluefin were observed **foaming in 76 °F** water — above the usually assumed
-ceiling — and the observer himself flagged it as unusual (9/14/22). Consequence:
+ceiling — and the observer himself flagged it as unusual (`5to3Q5P7w90`). Consequence:
 treat warm SST as **soft evidence against** bluefin, **not a hard exclusion**. A
 warm number **softens** the case but does not move the productive band or rule the
 zone out. Do not skip otherwise-good bluefin sign because the SST reads high.

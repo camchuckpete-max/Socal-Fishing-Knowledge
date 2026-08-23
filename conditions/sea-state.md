@@ -63,14 +63,14 @@ over the prior **48–72 h** for swell-arrival risk the point forecast under-exp
 
 - **Inland heat → afternoon W wind.** Extreme inland heat (100 °F+) can break down
   into unforecast afternoon W wind on the water. If it is windier than forecast in
-  the morning, assume it **builds all day** — a small boat bails early (7/14/22).
+  the morning, assume it **builds all day** — a small boat bails early (`DnSqw4r7A1s`).
 - **Forecast error is asymmetric.** Assume the forecast errs on the worse side,
   and that afternoon W at the islands **strengthens** rather than eases (Ep. 6).
 - **Catalina Eddy shielding.** The Catalina Eddy can shield the inner SD banks /
   tuna grounds while it blows outside. Check eddy state when the outer forecast
-  looks bad before writing off the inside (5/26/22).
+  looks bad before writing off the inside (`S2L3KLSQ6Is`).
 
-## Go/no-go wind & swell thresholds (dave-hansen)
+## Go/no-go wind & swell thresholds (`dave-hansen`)
 
 Working-captain rule of thumb for a straight go/bail call, not just a
 steepness read (dave-hansen is a registered voice, but this specific set of
@@ -82,14 +82,14 @@ corpus — **medium** confidence pending repetition):
   cutoff is to not run when wind is blowing over 12 kt (NC3-3pJDEgo, 2020-11-18).
 - **Swell interval under 10 seconds is a hard bad-sea flag** — he calls
   sub-10-second intervals "absolutely horrible," independent of height
-  (NC3-3pJDEgo).
+  (`NC3-3pJDEgo`).
 - **Named unfishable combo:** **12–15 kt wind with 4–8 ft swell at a 9-second
   interval** — "you can't go out there... you just cannot be caught out
   there," a dire situation even for bigger boats; he holds larger boats he
   runs at the dock in that combo too, not just small-boat caution
   (NC3-3pJDEgo, 2020-11-18).
 - **Forecast tools named:** Buoy Weather, Windy, and iWindy for pulling
-  current wind/swell numbers before a trip (NC3-3pJDEgo).
+  current wind/swell numbers before a trip (`NC3-3pJDEgo`).
 - **Captain's-call framing:** treat a big-red-flag forecast (his example: 25–45
   kt out of the NE) as a "we are not going" call, not a "let's see" call —
   weigher-of-risk responsibility sits with whoever is running the boat,
@@ -98,7 +98,7 @@ corpus — **medium** confidence pending repetition):
 ## Santa Ana = northern-islands window
 
 Santa Ana events flatten the NW outer islands. A Santa Ana is the trigger to run
-**Santa Rosa / San Miguel** for shallow rockfish and lingcod (10/20/22, 11/23/22).
+**Santa Rosa / San Miguel** for shallow rockfish and lingcod (`OYOda6T3f-8`, `Z3rZqy2Pi8E`).
 See [November–December](../seasonal/november-december.md).
 
 ### Santa Ana mechanics and Catalina return-trip risk (dave-hansen, single mention — medium confidence)
@@ -116,7 +116,7 @@ typical year — the timing is a seasonal norm, not a one-off (NC3-3pJDEgo,
   swell/water normally moves *toward* the SoCal mainland beaches; an offshore
   (NE) Santa Ana wind pushes water back *out* against that prevailing motion,
   and the opposition stacks the sea into large, fast-building swells
-  (NC3-3pJDEgo).
+  (`NC3-3pJDEgo`).
 - **Return-trip risk:** a boat caught at Avalon in a Santa Ana faces a
   multi-hour beat back to mainland ports (Newport, Dana Point named) fighting
   swell the whole way — an outbound run downwind can feel fine, but the crew
@@ -129,7 +129,7 @@ typical year — the timing is a seasonal norm, not a one-off (NC3-3pJDEgo,
 
 Runs **south** into Mexican paddy water put a W wind on the return leg = uphill
 misery. Plan return timing **against** the afternoon W build, not just the outbound
-conditions (8/17/22).
+conditions (`HzE4FHHcvTk`).
 
 ## Cameron's SD Bay entrance swell exposure
 

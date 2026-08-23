@@ -18,7 +18,7 @@ rod **rated 15–40 lb**. A wide-rated blank lets you fish comfortably in the
 **middle of the rating** rather than at either printed end: on the 15–40 lb
 example, that means spooling **25 or 30 lb** and fishing it effectively,
 instead of trying to push the rod to its 15 lb floor or its 40 lb ceiling
-(7L7OVoXE7KU).
+(`7L7OVoXE7KU`).
 
 ## Stated rule
 

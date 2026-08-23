@@ -138,6 +138,21 @@ def process(path: Path, manifest: dict[str, str], dry: bool) -> tuple[int, int]:
         if in_spans(m.start(), spans):
             continue
         entries = [e.strip() for e in m.group(1).split(",")]
+        # Plausibility gate: spec numbers like (25/40/80), (1/0), (35/55) are
+        # line-class ratings, not dates. Every entry must be a real M/D(/YY)
+        # and at least one must carry a year, or this paren is NOT a cite.
+        def _plausible_date(e: str) -> bool:
+            parts = e.split("/")
+            if len(parts) not in (2, 3):
+                return False
+            try:
+                mth, day = int(parts[0]), int(parts[1])
+            except ValueError:
+                return False
+            return 1 <= mth <= 12 and 1 <= day <= 31
+        if not all(_plausible_date(e) for e in entries) \
+                or not any(len(e.split("/")) == 3 for e in entries):
+            continue
         year_hint = next((e.split("/")[2] for e in reversed(entries)
                           if len(e.split("/")) == 3), None)
         ids: list[str] = []

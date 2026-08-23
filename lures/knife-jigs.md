@@ -49,11 +49,11 @@ behavior**:
   specifically favors a **center-weighted "flip slider"** profile over a
   tail-weighted speed jig — bigger sweeping rolls on the fall that read well when
   the jig is worked slowly after dark, versus the speed jig's design to cover
-  distance fast in daytime current (Ul5FLB2dFgQ).
+  distance fast in daytime current (`Ul5FLB2dFgQ`).
 - **Field test — speed vs slow-pitch, at the tackle counter:** balance the jig on
   your fingertip at its midpoint. Heavier toward the tail/back end → it's a
   **speed jig**. Balances flat without tipping either way → it's a
-  **slow-pitch/wing-fall jig** (Ul5FLB2dFgQ).
+  **slow-pitch/wing-fall jig** (`Ul5FLB2dFgQ`).
 - **Corroborating field test, named speed-jig models, and a brand-name
   caution (Tackle Express, `5XWnm7ok09k`, "Slow Pitch vs. Speed Jigging
   Jigs—What's the Difference?," 2025-03-27; unregistered channel, single
@@ -158,7 +158,7 @@ behavior**:
     slimmer jig down to fish that are still willing to eat.
   - **General SoCal yellowtail butterfly-jig box, not tied to a specific
     depth/current (Ray Sharifi, Dirty Hookers, A70kK2niu2Q, 2022-02-17;
-    `ray-sharifi` registered (Baja-scoped) — medium confidence):** a Shimano Flat-Fall-class
+    `ray-sharifi` registered (`Baja-scoped`) — medium confidence):** a Shimano Flat-Fall-class
     wing-fall jig in **100–160 g** as the personal-favorite (smaller) range,
     with **180–200 g** fished by his father, who prefers the heavier sizes —
     same rod as the yo-yo setup works for this, though slow-pitch-specific

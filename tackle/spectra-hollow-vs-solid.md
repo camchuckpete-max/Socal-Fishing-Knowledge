@@ -9,7 +9,7 @@ confidence: medium
 
 Spun out of [line & leader](line-and-leader.md) — this note is the detail
 behind that note's "Braid construction" summary. Hollow-core and solid
-(low-carrier) spectra differ on two independent axes: how they're built and
+(`low-carrier`) spectra differ on two independent axes: how they're built and
 rigged (this note), and how their surface texture behaves in kelp (also this
 note, second half). Neither source frames one as simply better than the
 other.
@@ -69,7 +69,7 @@ so treat 135 lb as this speaker's stated breakpoint, not a hard industry rule.
   mechanism.
 - **Disadvantage:** solid spectra is not spliceable the way hollow is.
 
-## Practical takeaway (46wHgdTJWIM)
+## Practical takeaway (`46wHgdTJWIM`)
 
 The source's own lean is toward hollow, for the rigging and spliceability
 advantages above — but concedes that if a lighter, skinnier solid-spectra

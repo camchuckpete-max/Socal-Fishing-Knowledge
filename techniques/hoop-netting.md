@@ -76,7 +76,7 @@ detail).
   cutter (or cutters + lighter) before tying into it, so the strands don't
   fray apart under load.
 
-### Rope length: match it, don't over-carry it (Qs9oEsh3b_w)
+### Rope length: match it, don't over-carry it (`Qs9oEsh3b_w`)
 
 Rather than running the full ~100 ft factory rope on every net, split it into
 a **working section sized to the home spot's typical depth** (Scotty's example:

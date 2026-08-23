@@ -60,13 +60,22 @@ rigging/      knots, leaders, terminal rigs (parameters + judgment; link video)
 tackle/       rod/reel/line/hook selection by application; the gear-class lexicon
 bait/         making, keeping, and fishing live bait
 fish-care/    bleeding, chilling, ikejime, handling
-locations/    UNIVERSAL structure/zone knowledge only — no personal coordinates
+locations/    UNIVERSAL structure/zone knowledge + the spot gazetteer
+              (region → zone → spot pages) — no PERSONAL coordinates
+              (charted/public positions are fine; personal waypoints stay
+              in profiles/)
 planning/     day-plan-protocol + search/glassing + electronics + report-reading
 profiles/     per-user boat, rods, tackle, lures, spots (cameron/ + _template/)
 sources/      raw transcripts, manifest, source registry, extraction log, input docs
 skills/       the boat-day skill (built FROM KB notes + a profile)
-scripts/      link-maintenance.py, build-skill-resources.py
+templates/    the LAYOUT SPEC (v2): per-type skeletons + style guide; machine
+              mirror is scripts/note_schema.py — the two change together
+scripts/      link-maintenance.py, note_schema.py, build-skill-resources.py,
+              review/ (the editorial-review fleet tooling)
 ```
+
+Every folder with notes may carry an `evidence/` subdir — the provenance
+layer (per-note trip reports + source detail; `templates/evidence.md`).
 
 Root `README.md` is the master index (purpose paragraph, branch map, prominent
 link to `planning/day-plan-protocol.md`). Every folder's `README.md` is its
@@ -91,6 +100,10 @@ auto-generated index.
   confidence: high         # high|medium|low
   regions: [socal-bight, cortez-north]   # REQUIRED on gated types — the gate
   waters: [island, bank]                 # REQUIRED — structure axis
+  layout: v2               # migrated to the v2 layout (templates/): adds the
+                           # type's INFOBOX fields (see templates/<type>.md;
+                           # `unknown` legal, feeds the gap report) and turns
+                           # on section-skeleton validation in CI
   ---
   ```
 
@@ -132,15 +145,19 @@ auto-generated index.
 
 ## Doctrine vs observation
 
-On-the-water / report footage yields **observations, not rules**. Record them
-inline under the relevant doctrine as:
+On-the-water / report footage yields **observations, not rules**.
+**Observations live in the note's evidence file** (`<folder>/evidence/
+<note>.md`, per `templates/evidence.md`), compressed to one line each —
+`` - `videoId` (channel, YYYY-MM-DD, place): <what happened, with
+conditions> `` — grouped under headings mirroring the sections they support.
+The main note keeps a one-line `## Evidence` link. (Supersedes the inline
+`**Observed**` rule — Cameron, 2026-08-23; nothing was deleted in the
+migration, and the review guard enforces conservation.)
 
-```
-**Observed** (channel, date, location): <what happened, with conditions>
-```
-
-**Observations never change a note's stated doctrine.** A contradicting
-observation sits beside the doctrine, attributed — never silently reconciled.
+**Observations never change a note's stated doctrine.** An observation that
+materially supports or contradicts doctrine may also leave a one-line cited
+trace beside that doctrine in the main note — attributed, never silently
+reconciled.
 
 ## Species-first routing (the situation → technique map)
 
@@ -148,9 +165,15 @@ The flaw this fixes: species notes and technique notes can each exist while the
 **situation→technique mapping lives in neither**. Contract:
 
 1. **Species notes are the entry points and routers.** Mandatory template for
-   every species note:
+   every species note is the v2 skeleton in
+   [`templates/species.md`](templates/species.md) (canonical order,
+   CI-validated on `layout: v2` notes):
    - **Where & when** — seasonal/geographic pattern, linking `seasonal/` and
      `locations/` notes.
+   - **Presence & forage** — WHY they are in a zone (bait, structure, current,
+     temperature) and what they naturally eat. Corpus-only; gaps flagged.
+   - **Spawning** — when/where/how, and its effect on the bite.
+   - **Feeding triggers** — light, tide/slack, current, moon: why they eat NOW.
    - **Finding them** — visual sign, bird behavior, and **species-specific sonar
      signatures with depths** (e.g. yellowtail arcs at 5–10 fathoms near
      structure; bluefin sounded to 30–50 fathoms in wind; swordfish in/below the
@@ -158,10 +181,17 @@ The flaw this fixes: species notes and technique notes can each exist while the
      `planning/electronics-and-sounder.md` for general method.
    - **Situations → techniques** — a table enumerating the scenarios this species
      presents in SoCal; each row: the conditions that produce the scenario, the
-     technique(s) that apply (ranked), the gear class, and the link to the
+     technique(s) that apply (ranked best-first, `/` separating equals,
+     conditions in footnotes), the gear class, and the link to the
      technique note.
    - **Gear summary** — class terms only, linking `tackle/gear-classes.md`.
-   - **Doctrine & conflicts** — attributed, kept side by side.
+   - **Regulations** — jurisdiction + as-of + verify-current, per the content
+     rules.
+   - **Doctrine & conflicts** — attributed, kept side by side, with a decision
+     frame.
+   - **Landing & handling** — species-specific only; general care links
+     `fish-care/`.
+   - **Evidence** — one line linking the evidence file.
 2. **Technique notes own execution only** — mechanics, retrieves, gear-class
    detail, common failures — plus a short **"Reach for this when"** list. They do
    NOT restate species patterns; the generated `## Linked from` section plus that
@@ -207,6 +237,22 @@ The flaw this fixes: species notes and technique notes can each exist while the
 
 ## Content rules (generalized review corrections)
 
+- **Plain-statement prose with compact cites (layout v2 — Cameron,
+  2026-08-23).** Facts are stated plainly in present tense; the cite —
+  `` (`videoId`) `` or `(cameron)` — is mandatory on direct quotes,
+  statistics/parameters, and disputable claims. Attribution preambles and
+  inline channel-status/confidence boilerplate are retired (that information
+  lives in the evidence file, front-matter `confidence`, and the registry).
+  **Exception: doctrine conflicts keep names inline** — there, attribution IS
+  the content. Full rules: `templates/style-guide.md`.
+- **Fact-check flags never touch the claim.** The `⚠` flag grammar
+  (`templates/style-guide.md`) sits beside a claim and queues it in
+  `sources/fact-check-ledger.md` for Cameron. **Single-source ≠ wrong**
+  (Cameron, 2026-08-23) — flag, never delete.
+- **Cross-note moves go through the relocation queue.** Misplaced content is
+  flagged `⚠ misplaced-content` + queued in `sources/relocation-queue.md`,
+  and moved by the dedicated paired-conservation pass — never inline by a
+  per-note edit.
 - **No relative time anywhere.** Use absolute years/dates — never "last year",
   "this season", "next month". A 2021 seminar describing "last year" means 2020;
   write 2020.
@@ -302,6 +348,13 @@ coordinates) are therefore committed here. For any *future* user's spot file,
 re-confirm the waiver or the repo's visibility before committing coordinates;
 default to withholding coords on a public repo.
 
+**Coordinates on universal spot pages (Cameron, 2026-08-23):** the
+`locations/` rule is **no PERSONAL coordinates**. Publicly-known/charted
+positions (named banks, high spots on every navigation chart) may appear in a
+spot page's infobox — they are what lets a day plan pull BightSST conditions
+per spot. Personal or unnamed waypoints stay profile-only; a spot without a
+public name or charted identity does not get a page.
+
 ## Sync rule
 
 Cameron's chat memory stays the live-capture surface. Future deltas arrive as
@@ -309,6 +362,22 @@ Cameron's chat memory stays the live-capture surface. Future deltas arrive as
 facts into the relevant knowledge/profile notes as attributed sources; never
 restart or overwrite the KB. The KB is canonical for knowledge; profile files
 mirror chat memory.
+
+## Editorial review pipeline (2026-08 — sources/plan-review.md)
+
+The full-KB editorial review (structure migration to layout v2, plain-
+statement rewrite, evidence split, three-mode fact check, spot gazetteer)
+runs unattended on the batch-3 pattern: worklist
+(`sources/review-worklist.md`) → `review-chunk.yml` chunks → per-unit
+worker + adversarial verifier → the sanctioned wrapper
+(`scripts/review/commit-note.py`) → the review guard
+(`scripts/review/guard.py`: scope + cite/observation CONSERVATION rules —
+compression is legal, information loss is not). Web verification of tagged
+claims runs ONLY in `verify-external.yml`. Cameron's kill switch is a `STOP`
+file at the branch root; his GATE B surface is
+`scripts/build-review-watch.py`. Flags queue in
+`sources/fact-check-ledger.md`; gaps aggregate in `sources/gap-report.md`;
+cross-note moves queue in `sources/relocation-queue.md`.
 
 ## Future ingestion pipeline (process — run per batch, not now)
 

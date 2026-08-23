@@ -97,7 +97,7 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   estimated **40–60 lb**, with a couple of earlier boils at the first
   breaking school estimated bigger, **120–140 lb**. A same-fall data point
   alongside the 76 °F soft-ceiling and break-rule observations already logged
-  below (9/14/22, 10/20/22) — this trip's exact date isn't given, so it isn't
+  below (`5to3Q5P7w90`, `OYOda6T3f-8`) — this trip's exact date isn't given, so it isn't
   pinned to those two dates, just the same fall 2022 SoCal bluefin bonanza.
 - **Observed** (StokedOnFishing, 2024-08-29 upload / trip fished mid-August
   2024, Tanner Bank, SoCal — ntQXxcH5sjI; medium confidence, unregistered
@@ -473,10 +473,10 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   below, since all three describe different moments/sources rather than one
   temperature curve.
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
-  76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
+  76 °F, the warmest observed since they arrived** (`5to3Q5P7w90`) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
   **cool side of a break when the water is warm, the warm side when it's cold**
-  (10/20/22). See [water temperature](../conditions/water-temperature.md).
+  (`OYOda6T3f-8`). See [water temperature](../conditions/water-temperature.md).
 - **Water color — bait beats clarity:** they will swim into the **dirtiest,
   coldest water** to be on bait; Duane Diego Mellor works the **chalky
   transition / color break** because that dirty side holds the bait. See
@@ -789,7 +789,7 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     foamer, you're going over a lot of fish and there's a lot of wind — that's
     when those fish sound down, you're looking **30, 45, 50 thousands** [i.e.
     **30–50 fathoms**]," and you need the power to reach and grade them
-    (HWx1jDTGsng). This is the meter-and-jig situation, not a troll situation.
+    (`HWx1jDTGsng`). This is the meter-and-jig situation, not a troll situation.
     **Deeper bank data point (Observed, StokedOnFishing, `LsFMBCa9DOQ`,
     Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
     channel):** an overnight jig session at the banks read marks **360°
@@ -816,7 +816,7 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   - **Night bite on the DSL:** fish rise with the
     [deep scattering layer](../conditions/deep-scattering-layer.md) after dark;
     the read is depth-called marks — **"fish at 180, fish at 230 ft"** — that you
-    drop a jig straight down onto (nRFFM8DT-og). **Mechanism — two reads kept
+    drop a jig straight down onto (`nRFFM8DT-og`). **Mechanism — two reads kept
     side by side:** the corpus read is **food-following** (fish feeding on the
     risen layer); Cameron's read is that the jig bite is **likely a reaction
     bite** (*likely, not measured*).

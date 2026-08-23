@@ -30,7 +30,7 @@ is a short menu. Primary source is Erik Landesfeind's rockfish tackle Academy
   winter/upwelling (typically Nov–Dec):** **Santa Ana events flatten the NW
   outer islands** (Rosa/Miguel) and that is the trigger to run them for
   **shallow rockfish and lingcod** — the lings pull up onto shallow high spots
-  in late fall (11/23/22). This is a weather-gated target: you need 2+ calm/Santa
+  in late fall (`Z3rZqy2Pi8E`). This is a weather-gated target: you need 2+ calm/Santa
   Ana days before a Rosa/Miguel crossing. See [February–March](../seasonal/february-march.md)
   for the winter/upwelling-regime deep-structure default.
 - **Where:** hard-bottom **pinnacles, humps, ridges and high spots**. Two depth
@@ -38,13 +38,13 @@ is a short menu. Primary source is Erik Landesfeind's rockfish tackle Academy
   - **Shallow (100–250 ft):** the **Channel Islands** (Santa Cruz, Santa Rosa,
     Santa Barbara Island), where a private boat gets **variety** — reds, blue
     bass, bocaccio, lingcod on one spot — often on a single drift over one rock
-    (6-8KfjEg0x8). Blue bass and this island variety are a northern-islands thing
+    (`6-8KfjEg0x8`). Blue bass and this island variety are a northern-islands thing
     you do **not** get in San Diego.
   - **Deep (300–900 ft):** offshore banks and coastal deep rock for the bigger
     **reds/vermilion** — a fish-for-the-table run when new depths open.
   See [island structure](../locations/island-structure.md), [zone lexicon](../locations/zone-lexicon.md).
 - **Conditions:** at the islands **current is as important as the bait** — a spot
-  with no current will meter fish that won't bite (6-8KfjEg0x8). See
+  with no current will meter fish that won't bite (`6-8KfjEg0x8`). See
   [current structure](../conditions/current-structure.md).
 
 ## Finding them (sign & sonar)
@@ -56,7 +56,7 @@ the *bottom*, not the fish.
   contour and read where **hard meets soft** — the hard-bottom edges are where
   the fish stack. Set the autopilot to drive over a known hump and watch the
   sonar; **mark every hard-bottom hit as a waypoint** and keep the track line
-  running so you can circle back (11npFUPOJKU).
+  running so you can circle back (`11npFUPOJKU`).
 - **What a good spot looks like:** a **distinct pinnacle or hump rising 20–30 ft**
   off the surrounding floor (example: a 330 ft spot with a hump coming up 20–30
   ft). Over the top you'll see a **bait cloud up high** and, right on the hard

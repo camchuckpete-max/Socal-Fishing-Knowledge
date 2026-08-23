@@ -142,7 +142,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
     buoys must carry a client's or crewmate's GO ID rather than your own), mark
     the number on a securely-attached piece of tape instead so it can be
     swapped per net rather than permanently written on gear that isn't always
-    tied to the same license (Qs9oEsh3b_w).
+    tied to the same license (`Qs9oEsh3b_w`).
   - **Size:** measure the **carapace** — from between the eye-socket horns,
     parallel down the center of the shell, to the rear edge of the carapace — and
     it must exceed **3.25 inches**. If the gauge fits between (even by a

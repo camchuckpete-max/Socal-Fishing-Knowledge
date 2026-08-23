@@ -241,7 +241,7 @@ voice, `high` confidence).
 - **Observed** (StokedOnFishing, `UuyqTE21-kc`, 2015-01-18 upload, lower banks
   near Mag Bay, Baja; unregistered channel — medium confidence): a helium
   balloon rig — no kite mentioned in this clip's audio (captions-only source;
-  no independent visual confirmation) — used to keep a flyer (flying-fish)
+  no independent visual confirmation) — used to keep a flyer (`flying-fish`)
   bait riding the surface, floated **downwind** of the boat to sit "nice and
   lifelike," while fishing giant yellowfin tuna (this same trip's grade ran
   150 to 300-plus lb) on the banks; multiple hookups came on flyers fished

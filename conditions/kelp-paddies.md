@@ -28,13 +28,13 @@ lie in. Plan a **paddy line**, a route that walks paddy to paddy, rather than a
 single stakeout.
 
 **Boats already parked on a paddy** → don't crash it. Look **up and down its
-line** for the un-pressured paddies feeding the same drift (8/11/22). The fish on
+line** for the un-pressured paddies feeding the same drift (`-JZpyWLdKlk`). The fish on
 a worked paddy are the least willing; the ones a quarter mile up the line have
 not seen a bait.
 
 ## Paddy pressure gradient (SoCal geography)
 
-Paddies are not equal across the Bight (8/17/22):
+Paddies are not equal across the Bight (`HzE4FHHcvTk`):
 
 - The closer to a dock and the more boat traffic, the **less willing** the fish.
 - Paddies are **scarcer and hold less** north of Dana Point.

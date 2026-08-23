@@ -27,7 +27,7 @@ leadhead selection and fishing.
 
 ## Parameters & judgment
 
-### Modifying a leadhead for a higher hookup ratio (RXb0HvVwqO4)
+### Modifying a leadhead for a higher hookup ratio (`RXb0HvVwqO4`)
 
 - **The problem:** on big soft baits — an 8-inch slug, a swimbait, a Gulp grub —
   fished for bass and rockfish, fish often eat the bait head-first on the sink,
@@ -69,7 +69,7 @@ halibut, ending the bait's life early.
   swimbaits](../lures/soft-plastic-swimbaits.md) — kept as a separate
   parameter rather than merged in, since no source ties the three together.
 
-### Rigging a leadhead with squid for white seabass (Xr4nURK-Z48)
+### Rigging a leadhead with squid for white seabass (`Xr4nURK-Z48`)
 
 - Squid is the staple white seabass bait in early spring. Thread the squid onto
   the leadhead much like a swimbait: run it on through the top of the mantle and
@@ -118,7 +118,7 @@ was garbled by auto-captions and is omitted) to a **3/8 oz leadhead**,
 bounced lightly off the bottom, then worked with either a **slow reel back
 staying just off the bottom** or a **lift of the rod without reeling** —
 lighter than the 5/8–3/4 oz heads on the later leg of this same series
-(Y2bXn44lfqo) and the 1/8 oz–1 oz dockside range below; not reconciled,
+(`Y2bXn44lfqo`) and the 1/8 oz–1 oz dockside range below; not reconciled,
 treat as this crew's day-of choice. **Bite-detection cue for fishing it
 actively (same source):** a rapid **"tap-tap"** is often a perch or other
 small fish chewing/stealing the bait — swing on that and you just pull the
@@ -150,7 +150,7 @@ the surface down to whatever depth the skipper calls. Given the near-identical
 mechanics and the same channel/presenter, treated as the same doctrine
 repeated across two videos rather than two independent confirmations.
 
-### Dockside leadhead selection and fishing (F-vOTerdulU)
+### Dockside leadhead selection and fishing (`F-vOTerdulU`)
 
 - Used for seabass, halibut, and yellowtail on squid nests around the Channel
   Islands. Leadhead weights are chosen by current — a heavier head for more

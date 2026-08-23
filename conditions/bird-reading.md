@@ -22,7 +22,7 @@ underneath?"** Read *behavior*, not just presence.
 
 ## Terns — the best bird (both voices agree)
 
-- **Corpus (7/21/22):** the best bird. **Locked-in repeated dives on one spot =
+- **Corpus (`Blh2BA-7Ono`):** the best bird. **Locked-in repeated dives on one spot =
   bait only.** A **moving dive-line = bait being pushed by fish underneath** —
   that is the one to run on.
 - **Cameron:** his best bird too. He will almost always stop and cast on working
@@ -63,7 +63,7 @@ underneath?"** Read *behavior*, not just presence.
 ## Shearwaters — the gap Cameron's model wants filled
 
 Cameron **doesn't factor shearwaters in (as of 2026-08).** The corpus carries a full
-shearwater doctrine (7/21/22) — merge it in as the missing piece:
+shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 
 - **Rafted (sitting in a group)** = sitting over deep bait, waiting for the tide.
 - **Drive-through test:** circle straight back = fish under them; scatter and land
@@ -107,10 +107,10 @@ shearwater doctrine (7/21/22) — merge it in as the missing piece:
 - **Mixed piles** (gulls + pelicans + terns + cormorants) **at open-water current
   breaks = bait only — skip** (corpus). **Exception:** a mixed pile **on
   kelp/structure** can be a real bait event worth a look — e.g. the grunion blitz
-  that produced every-cast bass in ugly water (10/20/22).
+  that produced every-cast bass in ugly water (`OYOda6T3f-8`).
 - **Birds sitting still on the water still mark the zone.** Trolling past sitting
   birds and hopscotching rafts produced immediate bites when nothing was flying
-  (8/17/22). Riprap version: birds sitting on the rocks mark the thumb-over-hose
+  (`HzE4FHHcvTk`). Riprap version: birds sitting on the rocks mark the thumb-over-hose
   deviation.
 
 ## Bird radar (Duane)

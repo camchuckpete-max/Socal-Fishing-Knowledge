@@ -18,9 +18,9 @@ Fish move between when a report is made and when you get there. Displace the
 report before you use it:
 
 - **Open-water bluefin not holding structure move 10–15 nm overnight**
-  (7/21/22). A gray-light plan built on yesterday's coordinates is already
+  (`Blh2BA-7Ono`). A gray-light plan built on yesterday's coordinates is already
   10–15 nm stale.
-- **Intraday they move at low single-digit miles per hour** (8/17/22). Within a
+- **Intraday they move at low single-digit miles per hour** (`HzE4FHHcvTk`). Within a
   day the school drifts; the pop-up you marked at 8 a.m. is not at the same GPS
   point at noon.
 
@@ -40,7 +40,7 @@ the [moon layer](../conditions/moon.md)'s.
 ## Persistence-null — absence of reports is not absence of fish
 
 **Post-moon and late-season, "absence of reports = coverage bias," not absence
-of fish** (10/12, 10/26/22). This is the persistence-null trigger:
+of fish** (`XLVUhV8DW64`, `5p6gu14ZC4w`). This is the persistence-null trigger:
 
 - When the fleet shifts offshore or thins out (August dispersal, late-season,
   post-moon), you simply stop *hearing* about water that is still holding fish.

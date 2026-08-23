@@ -221,7 +221,7 @@ the reverse map in **Linked from** below.
   them) instead of the standard heavy class; his year-round confidence yo-yo
   pick otherwise is a **Tady 4/0** ("never fails"), backed by a **Kicker 25
   (heavy)** and steel-finish irons for the standard heavy-forage case (Ray
-  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Mirrors the anchovy/"rice"-bait downsize logic already documented
+  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (`Baja-scoped`) — medium confidence). Mirrors the anchovy/"rice"-bait downsize logic already documented
   for [surface iron](surface-iron.md) — match iron size to bait size, not just
   to current.
 - **SoCal downsize data point, no stated bait-size reason (Observed,
@@ -307,7 +307,7 @@ the reverse map in **Linked from** below.
   baitcaster fishing both surface iron and yo-yo on big yellowtail — see
   [baitcaster gear ratio for landing big
   yellowtail](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
-  (pOFsjDTqaxY).
+  (`pOFsjDTqaxY`).
 - **Iron:** heavy [yo-yo iron class](../lures/iron-jigs.md) — a Salas 6X / Salas
   CP 105 type: drop to the mark, full-speed crank. Heavier than a surface iron
   because it must sink fast and hold vertical — **roughly 5–6 oz** against a
@@ -353,7 +353,7 @@ the reverse map in **Linked from** below.
   size: **big fish, windy conditions, or difficulty getting the jig to the
   bottom.**
 - **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
-  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a
+  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (`Baja-scoped`) — medium confidence):** a
   stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),
   general guidance **40–60 lb rated**, with enough tip left to wind through
   the bite; paired with a nice fast reel (a Shimano Trinidad 20A example) so

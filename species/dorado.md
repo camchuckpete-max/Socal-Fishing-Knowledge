@@ -14,7 +14,7 @@ ride the **green-cold / blue-warm boundary** and stack on **kelp paddies** and
 open-water schools. Voracious but capable of turning **as picky as any fish** —
 so the program is find the paddy, wake the fish, and step your presentation down
 until they eat. Very seasonal: some years the water fills with them, some years
-you see a handful (E4vKwRaRueA).
+you see a handful (`E4vKwRaRueA`).
 
 ## Where & when
 
@@ -22,7 +22,7 @@ you see a handful (E4vKwRaRueA).
   [warm-stable regime](../conditions/water-regimes.md) (typically
   **July–August**), building through late warm-stable into the fall
   fragmentation regime (**late summer into fall**). "You always want to be prepared, especially in
-  those July and August months — that's when the fish first show up" (E4vKwRaRueA).
+  those July and August months — that's when the fish first show up" (`E4vKwRaRueA`).
   See [August](../seasonal/august.md), [September](../seasonal/september.md),
   [October](../seasonal/october.md).
   **Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
@@ -50,8 +50,8 @@ you see a handful (E4vKwRaRueA).
   bluefin push goes cold, running toward warmer water to find the paddy
   program is a documented fallback on this trip.
 - **Where:** **~15 mi off San Diego** is the typical big-concentration zone
-  (E4vKwRaRueA); by the late warm-stable phase (typically September) they're in
-  **open-water schools below/backside Catalina** (5to3Q5P7w90). The primary structure is
+  (`E4vKwRaRueA`); by the late warm-stable phase (typically September) they're in
+  **open-water schools below/backside Catalina** (`5to3Q5P7w90`). The primary structure is
   **[kelp paddies](../conditions/kelp-paddies.md)** — broken-off kelp that loads
   with bait (baby rockfish, anchovy, mackerel, sardine, baby flying fish) and
   holds patrolling dorado.
@@ -110,7 +110,7 @@ four-species day.
 
 - **Visual sign:** you're **glassing for paddies**, not for the fish. Gyro-
   stabilized binoculars from the roof extend the search — dolphin to ~4 mi, birds
-  to a couple of miles, vs ~½ mi at deck level (E4vKwRaRueA). Paddies run
+  to a couple of miles, vs ~½ mi at deck level (`E4vKwRaRueA`). Paddies run
   boogie-board to half-a-garage-door size. See
   [search & glassing](../planning/search-and-glassing.md).
 - **Birds:** **birds sitting on a paddy = a great sign** and make it easier to
@@ -120,7 +120,7 @@ four-species day.
   **bait ball packed under the kelp** and fish arcs shadowing it. A live paddy
   reads as loaded with life; a dead one is bare. Test fast: throw a **Mad Scad
   from the tower** — if a fish (usually a dorado) chases it out, they're home; if
-  nothing shows, move to the next paddy (VgpgJ8IAyJo). If there's no surface
+  nothing shows, move to the next paddy (`VgpgJ8IAyJo`). If there's no surface
   activity to look at, check the fathometer for **boomerang-shaped arcs around
   90–120 ft**, and give the paddy about a minute or two before ruling it dead
   (Your Saltwater Guide / Dave Hansen, ZFqe49jRgA0, 2019-05-26). General method:
@@ -138,7 +138,7 @@ four-species day.
 | Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** — dorado charge the boat feeding straight ahead and won't set on a circle; **match hook to bait** (1/0 live-bait, up to 2/0–3/0 on donkey sardines); skip jigging — rod up, crank flat-out so the lure skips on top — is a tip-up alternative to the standard swim, named for tuna/dorado/yellowtail generically, single-mention source, medium confidence |
 | Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; throw a Mad Scad from the tower to confirm fish before committing |
 | **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — a **pink ("Dorado")** color, 1 oz or 5/8 oz, is named as a dorado favorite at paddies; see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4). ⚠ promotional seminar source, low confidence |
-| **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (E4vKwRaRueA); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
+| **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (`E4vKwRaRueA`); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
 | **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | They can be as finicky as any fish; smaller hook so the bait swims right; don't drop below ~15 lb or you get bit off |
 
 **Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not

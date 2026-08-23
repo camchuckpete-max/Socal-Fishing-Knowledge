@@ -36,14 +36,13 @@ water is south of SCI/Catalina and from Dana Point to Oceanside southward.
 ## Yellowfin arrive — and can fire the bluefin
 
 **[Yellowfin](../species/yellowfin-tuna.md) show up in August, and they are more
-lure-cooperative than the bluefin** (8/3/22). A **surface yellowfin bite can
+lure-cooperative than the bluefin** (`CMQkHQMxbXM`). A **surface yellowfin bite can
 fire the bluefin** — the yellowfin activity gets the whole area going. Use the
 easier-to-catch yellowfin as a trigger and an area indicator.
 
 ## Foamer taxonomy — read the shape before you commit
 
-Not all breaking fish are catchable. Read the *form* of the foamer (8/17,
-8/31/22):
+Not all breaking fish are catchable. Read the *form* of the foamer (`HzE4FHHcvTk`, `HnqiE05vdXs`):
 
 - **"Jacuzzi" (solid whitewater) ≈ a bite every cast.** Circular, boiling,
   concentrated — this is the one you want.
@@ -57,7 +56,7 @@ See [foamer casting](../techniques/foamer-casting.md) for the execution.
 ## Tuna aren't outrunning you — troll sweeping arcs
 
 **The tuna move at low single-digit miles per hour** — they are not outrunning
-the boat (8/17/22). Therefore:
+the boat (`HzE4FHHcvTk`). Therefore:
 
 - **Troll sweeping arcs around the bird/bait area** instead of straight-lining
   away from it.

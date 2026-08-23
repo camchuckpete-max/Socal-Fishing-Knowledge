@@ -92,7 +92,7 @@ named on camera (contrast with the rock-cod framing above, which comes from
   `S9sQ8Vg8-5o` video is rockfish-framed throughout, but this specific
   bait-tank passage does not itself name a species.)
 
-## A third Tackle Express clip — the same rig named for rockfish, torpedo sinker confirmed (Q6ACpkS93sk)
+## A third Tackle Express clip — the same rig named for rockfish, torpedo sinker confirmed (`Q6ACpkS93sk`)
 
 Tackle Express (`Q6ACpkS93sk`, "The Deadliest Rig for SoCal Rockfish," uploaded
 2026-04-06, 32 s; unregistered channel — medium confidence). Names **SoCal

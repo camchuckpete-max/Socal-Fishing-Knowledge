@@ -25,7 +25,7 @@ product from the tuna casting jig despite sharing a model name.
 
 ### Yo-Zuri Mag Popper
 **Marketing flag:** this model writeup is from a Yo-Zuri promo feature
-(AJMjWDKsdRg) — treat model claims as **low** until proven in the fleet.
+(`AJMjWDKsdRg`) — treat model claims as **low** until proven in the fleet.
 Chugging popper for tuna and other surface pelagics; cupped face throws a big
 spit-and-splash on a hard sweep, then pauses. Cast into the foam, pop it to make
 noise/splash, and expect the eat on the pause. Wire-through-body construction;
@@ -398,7 +398,7 @@ on an 8'6" rod rated **20–50 lb** (20–45 to 20–50) — enough leverage to 
 big yellowtail while still light enough to cast these plugs; a traditional
 9–10 ft [surface-iron](../techniques/surface-iron.md)-class rod with a
 conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
-2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence). No retrieve mechanics
+2022-02-17; `ray-sharifi` registered (`Baja-scoped`) — medium confidence). No retrieve mechanics
 beyond "cast at the boil" are given in this source; treat as a visual,
 high-action alternative to iron, not a documented distinct cadence.
 

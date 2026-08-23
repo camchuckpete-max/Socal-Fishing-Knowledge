@@ -27,7 +27,7 @@ Nate Winnicki's rigging.
   rockpile, a bubbler/methane seep, or an eelgrass line. Even a **15-ft-wide rock
   that barely paints** changes the current, traps plankton, holds bait, and gives
   a halibut a place to lie and pick off bait without competing with faster fish
-  (OpcKQPA3vAI).
+  (`OpcKQPA3vAI`).
   - **Bays & harbors:** **channel edges on a strong tide** — the San Diego Bay
     shipping-lane / breakwater-mouth walls are a major "thumb over the hose."
     See [bays and harbors](../locations/bays-and-harbors.md).

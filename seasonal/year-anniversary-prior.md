@@ -25,7 +25,7 @@ literally.
 ## The prior — the bluefin route repeats year over year
 
 **"Go back to this date last year and the year before — pretty close to where
-they'll be"** (10/12/22). The [bluefin](../species/bluefin-tuna.md) migration route
+they'll be"** (`XLVUhV8DW64`). The [bluefin](../species/bluefin-tuna.md) migration route
 repeats year over year, so the same calendar week in prior years is a usable
 prior for where the fish are now.
 

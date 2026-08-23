@@ -38,7 +38,7 @@ A stale report is not today's water.
 ## Read the size class — it changes the presentation
 
 Bluefin group by size class, and **seeing the 80+ class changes how you
-present** (5/26/22):
+present** (`S2L3KLSQ6Is`):
 
 | Size class | Read |
 |---|---|

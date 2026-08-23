@@ -27,7 +27,7 @@ but hard-charging, they'll eat almost anything moving.
   [zone lexicon](../locations/zone-lexicon.md)).
 - On a charter targeting yellowfin, skipjack are the school that shows up
   uninvited — the captain chums for yellowfin and the skipjack pile in first
-  (lxFNVdDhMy4).
+  (`lxFNVdDhMy4`).
 
 ## Finding them (sign & sonar)
 
@@ -39,7 +39,7 @@ but hard-charging, they'll eat almost anything moving.
   column mixed with yellowfin (~40–50 ft down)** and **boil up hard to chum** —
   two minutes of chumming a marked school brings them up. On the meter they're
   indistinguishable from small yellowfin until they eat; a burning surface
-  retrieve sorts them out fast (lxFNVdDhMy4). Method:
+  retrieve sorts them out fast (`lxFNVdDhMy4`). Method:
   [electronics & sounder](../planning/electronics-and-sounder.md).
 
 ## Situations → techniques

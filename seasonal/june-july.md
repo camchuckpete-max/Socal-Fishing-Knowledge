@@ -19,7 +19,7 @@ A stale report is not today's water.
 ## The moon drives the summer bite
 
 **Full moons drive the island [white seabass](../species/white-seabass.md) bite and the
-[bluefin](../species/bluefin-tuna.md) night bite** (7/14, 8/11/22). Plan the WSB and
+[bluefin](../species/bluefin-tuna.md) night bite** (`DnSqw4r7A1s`, `-JZpyWLdKlk`). Plan the WSB and
 night-bluefin windows around the full moon — see [moon](../conditions/moon.md) for the full
 lunar decision layer. Days *leading into* the full moon are the strongest
 documented bluefin windows.
@@ -27,7 +27,7 @@ documented bluefin windows.
 ## July bluefin geography — one big search box vs. compact spots
 
 July bluefin geography splits into two very different kinds of water, and you
-plan them differently (7/21/22):
+plan them differently (`Blh2BA-7Ono`):
 
 - **The below-Clemente complex reads as ONE ~50–60 sq mi search box.** The
   banks **43, 181, 182, 289, and Clemente Ridge up to Mackerel Bank** are not
@@ -44,7 +44,7 @@ search box and [bight geography](../locations/bight-geography.md) for the zones.
 ## Coastal upwelling is patchy — relocate one mile
 
 **Cold / dirty inshore water in summer is a *relocate-one-mile* problem, not a
-day-killer** (7/14/22):
+day-killer** (`DnSqw4r7A1s`):
 
 - **Inshore coastal upwelling is patchy** — tied to a specific
   [break or ridge](../conditions/upwelling-and-turnover.md). The bad water is local; move a
@@ -58,7 +58,7 @@ and [current structure](../conditions/current-structure.md).
 
 ## Overnight movement
 
-Open-water bluefin not holding structure move **10–15 nm overnight** (7/21/22) —
+Open-water bluefin not holding structure move **10–15 nm overnight** (`Blh2BA-7Ono`) —
 factor that displacement into where yesterday's fish will be at gray light. See
 [report reading and forecasting](../planning/report-reading-and-forecasting.md).
 

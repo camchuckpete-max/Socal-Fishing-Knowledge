@@ -54,7 +54,7 @@ Selection is driven by **how weedless it needs to be and how deep you fish it**:
   for the steps; it also confirms "Pickle Kick" as the full name behind the
   "PK" abbreviation used below (PK3/PK5/PK7).
 - **Keel-weight selection** — weights come **half oz, 3/4 oz, or nano**; the
-  heavier **3/4 oz** is preferred (Landesfeind) because it **keeps the bait in
+  heavier **3/4 oz** is preferred (`Landesfeind`) because it **keeps the bait in
   the water while you wind fast**. Go lighter (half oz / nano) for a slower,
   higher presentation over shallow stringers.
 - **Lead-head swimbait** — the same class of bait on an exposed lead head to fish

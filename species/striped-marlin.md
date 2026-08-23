@@ -27,14 +27,14 @@ question (see **Doctrine & conflicts**).
   [September](../seasonal/september.md), [October](../seasonal/october.md).
 - **Where:** outer banks, ridges, and the island volume zone — the
   **SBI–Nick–Clemente–Catalina "square"** holds the bigger pelagics in the fall
-  fragmentation window (5to3Q5P7w90); worked examples on the 152 Ridge and Avalon Bank put marlin in
-  the **clean/clear water off the bait edge** (HzE4FHHcvTk). See
+  fragmentation window (`5to3Q5P7w90`); worked examples on the 152 Ridge and Avalon Bank put marlin in
+  the **clean/clear water off the bait edge** (`HzE4FHHcvTk`). See
   [island structure](../locations/island-structure.md),
   [zone lexicon](../locations/zone-lexicon.md).
 - **Water & tide:** marlin **live in the clear blue water**, working the seam
   where the dirty/bait water meets the clean water — "we put the marlin jigs out
   on the edge where there was still bait, then in the clean water where the marlin
-  would likely live" (HzE4FHHcvTk). They're **slack-tide biters** — "bluefin come
+  would likely live" (`HzE4FHHcvTk`). They're **slack-tide biters** — "bluefin come
   up foaming on a slack tide, marlin bite on a slack tide" (2/20/25, 6TBxHnkYXI0).
   Be on the highest-percentage spot **an hour before the tide change**.
 
@@ -48,11 +48,11 @@ question (see **Doctrine & conflicts**).
 - **Marlin-fleet tell:** **boats with outriggers out, driving back over
   themselves in slow circles = a marlin/tournament fleet, not a tuna stop.** Don't
   crash it and start Mad-Mac-ing for tuna — "if you're up that way it's probably
-  the marlin guys" (5to3Q5P7w90).
+  the marlin guys" (`5to3Q5P7w90`).
 - **Sonar:** marlin themselves aren't primarily a meter target here, but the
   **bait on the edge** tells you where to lay the troll — set the spread on the
   bait/clean-water seam, not out in the empty blue or deep in the dirt
-  (HzE4FHHcvTk). See [electronics & sounder](../planning/electronics-and-sounder.md).
+  (`HzE4FHHcvTk`). See [electronics & sounder](../planning/electronics-and-sounder.md).
 
 ## Situations → techniques
 
@@ -60,7 +60,7 @@ question (see **Doctrine & conflicts**).
 | --- | --- | --- | --- |
 | **Fall, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Put the marlin jigs **on the edge where bait meets clear water**; arrive an hour before the tide change |
 | **Tailing / finning fish sighted, or a fish shows in/behind the spread without eating a jig** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live mackerel dropback bait to the fish | Flyline / live-bait class | Dropback-bait execution is now sourced (StokedOnFishing, medium confidence); the teaser/pitch skeleton itself is still partly unsourced — see the technique note; the pitch rod sits rigged and ready the whole troll |
-| **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (5to3Q5P7w90) |
+| **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (`5to3Q5P7w90`) |
 
 **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
 `e73wPONTOJU`; unregistered channel — medium confidence): after the crew gave
@@ -213,7 +213,7 @@ circle-hook rig detail logged in
 
 - **Trolling:** 60–100 lb trolling class pulling
   [tuna/marlin skirts and feathers](../lures/tuna-feathers-and-skirts.md); a
-  Mad-Scad-class lure has taken striped marlin (VgpgJ8IAyJo).
+  Mad-Scad-class lure has taken striped marlin (`VgpgJ8IAyJo`).
 - **Bait-and-switch:** a flyline/live-bait class rod ready to pitch the instant a
   fish lights up on the teaser — [bait-and-switch](../techniques/bait-and-switch.md)
   (flagged stub).

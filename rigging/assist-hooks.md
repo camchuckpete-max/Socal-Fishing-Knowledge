@@ -49,7 +49,7 @@ is the transferable parameter.
   not the model number).
 - **Assist position:** for a single top assist on a speed jig, the loop
   should rest roughly a third of the way down the jig's total length.
-- **Cord stiffness by jig style — and why (unARAuTgF_A):** slide shrink
+- **Cord stiffness by jig style — and why (`unARAuTgF_A`):** slide shrink
   tubing over the assist cord itself (not just over the hook) to stiffen it
   for a speed jig, so the loop doesn't flop around and tangle on the main
   line; slower jigs are fished with a softer cord instead. Part two gives the
@@ -63,7 +63,7 @@ is the transferable parameter.
   trigger" doctrine and [knife/speed jigging](../techniques/knife-jigging.md)'s
   reaction-bite framing — it's the tying-side reason those two mechanics call
   for different cord stiffness. On the heavier tail double built for a short,
-  heavy flat-fall-style jig (U4zifdssSes), the cord-stiffening tube step is
+  heavy flat-fall-style jig (`U4zifdssSes`), the cord-stiffening tube step is
   skipped — the source doesn't say why, only that it isn't used there.
 - **Cord weight — two different cord families, not a single number
   (asr-uncertain on the U4zifdssSes numbers — the auto-caption numbers are
@@ -82,12 +82,12 @@ is the transferable parameter.
   for the single assist, just started from the opposite end. This matches the
   "two hooks must never cross or lock together" rule already logged in
   [knife jigs](../lures/knife-jigs.md). **On a dual-top build tied to a
-  swivel instead of a solid ring (unARAuTgF_A):** also keep each hook's eye
+  swivel instead of a solid ring (`unARAuTgF_A`):** also keep each hook's eye
   perpendicular (90°) to the swivel's eye — i.e., the hook eye crosses the
   flat plane of the swivel's eye at a right angle (the source calls this out
   as something to watch carefully but doesn't state the mechanism/reason).
 - **Glue:** use thick (gel), not thin, cyanoacrylate — thin glue wicks up the
-  PE cord and leaves stiff, chalky marks running up the line (unARAuTgF_A);
+  PE cord and leaves stiff, chalky marks running up the line (`unARAuTgF_A`);
   thick glue stays put on the knot. One drop directly on the knot, set for
   roughly 30–45 seconds (or blow on it to speed drying) before trimming the
   tag. An extra drop after the tag is trimmed and the shrink tube is on is
@@ -102,7 +102,7 @@ is the transferable parameter.
 - **Color:** hook color (black/clear/red in the Owner lineup used) doesn't
   matter to the fish — pick whatever's visible against your work surface.
 
-### Cord type — hollow core vs mono/four core (unARAuTgF_A)
+### Cord type — hollow core vs mono/four core (`unARAuTgF_A`)
 
 - U4zifdssSes (part one of the series) used an assist cord built around a
   mono or four-strand core. Part two introduces **hollow-core** PE assist
@@ -124,7 +124,7 @@ is the transferable parameter.
   single — factor that into the separate stiffening-tube step above rather
   than stacking both if the doubled cord is already stiff enough on its own.
 
-### Connecting to the jig — solid ring vs swivel (unARAuTgF_A)
+### Connecting to the jig — solid ring vs swivel (`unARAuTgF_A`)
 
 Two ways to finish the ring/swivel end of an assist, demonstrated side by
 side on the same speed-jig build. Cesar frames the solid ring as the more

@@ -25,11 +25,11 @@ the bluefin nearby become more cooperative too.**
   [October](../seasonal/october.md)). Once fragmentation sets in (typically
   October) the biggest concentrations track the **warmest water on the coast** —
   the West End of Clemente down through Mackerel Bank to the 181/182 Ridge
-  (10/20/22).
+  (`OYOda6T3f-8`).
 - **Water — warmest × cleanest:** to find yellowfin, **find the warmest water you
   can, then cross it with your chlorophyll chart to find the cleanest water** —
   that SST-max × chlorophyll-min combination is where they are most likely
-  (10/20/22). See [water temperature](../conditions/water-temperature.md),
+  (`OYOda6T3f-8`). See [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
 - **Structure:** they show **under kelp paddies mixed in with other schools** and
   in open-water schools over the offshore banks
@@ -249,13 +249,13 @@ the bluefin nearby become more cooperative too.**
 - **Species-specific sonar signature with depth:** yellowfin school marks hold
   **up in the column — commonly ~40–50 ft down** — and **rise to chum**: two
   minutes of chumming a marked school pulls it up toward the surface and into
-  casting range (lxFNVdDhMy4). Grade a paddy's mark fast and move if it's dry.
+  casting range (`lxFNVdDhMy4`). Grade a paddy's mark fast and move if it's dry.
   Full method: [electronics & sounder](../planning/electronics-and-sounder.md).
   **Observed** (Your Saltwater Guide, 2019-12-26, San Diego): a chum line
   pulled a school into a full-on bite at the boat, with **free-swimming
   yellowfin charging right up alongside the hull** in the frenzy — an
   on-the-water example of the chum-pulls-fish-to-the-surface effect above
-  (6zYRI1ZQU3c).
+  (`6zYRI1ZQU3c`).
 - **Observed (Baja, East Cape, region label)** (StokedOnFishing, presenter
   Shay, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape, Sea of Cortez, Baja
   California Sur — Hotel Buena Vista Beach Resort "fifth annual Stoked On
@@ -298,7 +298,7 @@ the bluefin nearby become more cooperative too.**
 - **Doctrine (high — Erik Landesfeind, dated reports):** yellowfin want the
   **warmest × cleanest** water; they are **more cooperative on lures than
   bluefin**; and **yellowfin up fighting lures on the surface make the bluefin
-  more cooperative as well** (8/3/22) — a real routing signal, not just color.
+  more cooperative as well** (`CMQkHQMxbXM`) — a real routing signal, not just color.
 - **Doctrine (Jordan / BD, private-boat live bait):** when a chummed school won't
   eat the hook bait, **scale line and hook down first**; the **bait-net freebie
   trick** (hook bait mixed into a handful of pitched baits) converts picky fish;

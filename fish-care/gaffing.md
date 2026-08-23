@@ -17,7 +17,7 @@ Promar/PTO/Okuma sponsor spots at `low` regardless of content, with no
 mechanism-vs-product carve-out (that split is a `cesar`-specific caveat, not
 Hansen's), so this whole note sits at `low`**; the specific gaff model and
 construction claims are promotional and omitted entirely), 2022-03-14
-(I84uoay_jwQ).
+(`I84uoay_jwQ`).
 
 ## Calling for the gaff — early notice
 

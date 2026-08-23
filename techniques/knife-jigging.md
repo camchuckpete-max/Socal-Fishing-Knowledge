@@ -164,7 +164,7 @@ in **Linked from**.
     for the night bite.
 - The short parabolic jigging rod lets the jig **dart** and gives leverage to fight
   a big fish off a light rod with less fatigue than a rail rod.
-- **The coordinated speed-jig stroke (Ul5FLB2dFgQ):** on the down-stroke, drop the
+- **The coordinated speed-jig stroke (`Ul5FLB2dFgQ`):** on the down-stroke, drop the
   jig; on the wind-up, lift the rod tip **while simultaneously winding a full turn
   of the handle** — it's a timing/coordination skill and upper-body endurance, not
   just a fast wind.
@@ -373,7 +373,7 @@ whether a bite converts.
   skipper" — the captain's called depth **changes fast** (e.g. "fish at 200 ft,"
   then "fish at 300 ft" two minutes later); update where you think your jig is off
   your line marks in real time rather than dropping once and assuming
-  (Ul5FLB2dFgQ).
+  (`Ul5FLB2dFgQ`).
 - **Working a depth call in 100 ft increments (a rockfish-style pattern,
   Ul5FLB2dFgQ):** drop to the skipper's called depth. Instead of winding up right
   away, put the reel in gear, **pop the rod tip up high, then drop it and let the
@@ -426,13 +426,13 @@ whether a bite converts.
     data point above; on calm days he prefers a lighter **100–130 g**
     flat-fall instead — see [flat-fall jigging](flat-fall-jigging.md#jig-weight-and-rig)
     for that side of the same seasonal call.
-- **The "Eddie bomb" (nRFFM8DT-og):** the bluntest tool in the same night
+- **The "Eddie bomb" (`nRFFM8DT-og`):** the bluntest tool in the same night
   lineup — a **wire-through 16 oz sinker with a treble hook on the bottom** and
   a bite leader. Multiple **200 lb night bluefin** have come on a straight-up
   sinker; it is the heaviest, cheapest, fastest-sinking option for deep marks
   in hard current.
 
-## Hookset — do not wind on it like bait fishing (Ul5FLB2dFgQ)
+## Hookset — do not wind on it like bait fishing (`Ul5FLB2dFgQ`)
 
 - Traditional bait-fishing habit ("don't set the hook, let the fish load up and
   wind on him") is **the worst thing you can do on a jig.** A jig-hooked fish
@@ -537,7 +537,7 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   angle** despite a slow action — but that power only exists because the blank
   **loads and bends all the way through to the butt**; fishing it flat on the
   rail throws away roughly half the rod's power, so fish it in hand, not racked
-  (Ul5FLB2dFgQ).
+  (`Ul5FLB2dFgQ`).
   - **Same 60° angle threshold, restated (Tackle Express, `GeydGK-62fw`,
     "They laughed at the 'trout pole'... until it landed *that* fish!",
     2026-02-05; medium confidence):** a small-diameter, slower-action
@@ -616,7 +616,7 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
 - **Line:** **80–100 lb braid**; **80 lb sinks faster than 100** and matters on
   smaller jigs. Braid straight to an FG connection, then **15–20 ft of 80–100 lb**
   mono/fluoro top shot at night for the bigger grade. **Attributed variant, by
-  rod (Ul5FLB2dFgQ):** a **light/day** outfit (200 g and under jigs) — **65 lb
+  rod (`Ul5FLB2dFgQ`):** a **light/day** outfit (200 g and under jigs) — **65 lb
   braid to a 25 ft, 80 lb top shot**; a **heavy/night** outfit — **100 lb braid
   to a 130 lb top shot**, and specifically **mono, not fluoro**, for the
   stretch. **Thinner braid means less line angle** in the water and a jig that
@@ -719,12 +719,12 @@ mono-vs-fluoro leader conflict, kept side by side rather than reconciled:
   source's contrasting ball-bearing-swivel case for slow-pitch, where a
   spinning fish's rotation, not the jig's flutter, is the deciding factor.
 - **Leader-to-jig connection — two attributed schools, kept side by side:**
-  - **Crimp school (nRFFM8DT-og):** finish with a **~2 ft bite leader of 200 lb**
+  - **Crimp school (`nRFFM8DT-og`):** finish with a **~2 ft bite leader of 200 lb**
     fluoro/mono **crimped directly to the jig** so a big fish can't bite you off
     and you can pull hard; [bite leaders](../rigging/bite-leaders.md). A
     separate tackle-shop seminar corroborates the length — a **heavy
     fluorocarbon bite guard about 2–3 ft** (not 5–6 ft) in case a fish swallows
-    the jig and gets it against its teeth (Ul5FLB2dFgQ).
+    the jig and gets it against its teeth (`Ul5FLB2dFgQ`).
   - **Direct-tie school (West Coast Jiggerz, j37zxs33gws):** **no crimp** — fish
     the 80–100 lb braid → FG → **15–20 ft mono/fluoro top shot tied direct to
     the jig**.
@@ -820,17 +820,17 @@ are logged in
 - **Blinged-out hooks (multiple assists top and bottom)** — foul-hooks fish, moves
   the fight, and is a danger at the rail. Single bottom pair, watch your line.
 - **Tightlining the drop** — resistance on the nose kills the flutter/dart; slack
-  it down instead (Ul5FLB2dFgQ). This is about this note's assist-hook rig
+  it down instead (`Ul5FLB2dFgQ`). This is about this note's assist-hook rig
   specifically; a treble-hooked iron has the opposite advice for a different
   reason (tight line to keep the trebles from fouling on the line, at the
   cost of some flutter) — see [iron jigs — hook
   style](../lures/iron-jigs.md#hook-style--assist-vs-treble).
 - **Winding on the bite like bait fishing, or striking before the fish has it** —
   opens the hook on the barb; wait for drag to run, then drive it home with hard
-  swings off the spool (Ul5FLB2dFgQ).
+  swings off the spool (`Ul5FLB2dFgQ`).
 - **Strike drag set too heavy (35 lb+)** — can rip the outfit out of your hands on
   the first hookup; 19–20 lb strike is the safer, documented setting
-  (Ul5FLB2dFgQ).
+  (`Ul5FLB2dFgQ`).
 
 <!-- backlinks:start -->
 ## Linked from

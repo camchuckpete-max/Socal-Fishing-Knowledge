@@ -159,7 +159,7 @@ thing (a cadence that produces the right action), from different voices.
   ⚠ **Conflict, kept side by side, region/technique-class label, not
   reconciled:** this contradicts the swing-to-set doctrine for vertical
   jigging — [knife jigging](knife-jigging.md)'s "grab the spool and give three
-  or four hard sideways swings" hookset (Ul5FLB2dFgQ) — but the two techniques
+  or four hard sideways swings" hookset (`Ul5FLB2dFgQ`) — but the two techniques
   differ in how the fish take the jig: a vertical jig gets **sucked in** on a
   slack-water take, while a surface iron gets **struck** on a moving retrieve,
   so winding through keeps tension instead of yanking the jig away from a fish
@@ -315,7 +315,7 @@ while somebody is still connected.
   straight-up-flutter-down yo-yo drop and this note's steady surface swim.
 - **Wind up → heavier iron.** When it's windy, step up to a heavier surface
   iron (Salas 7X class) — the extra weight "makes casting out a lot easier …
-  giving me a little boost in my cast" to punch through the wind (D5DR7Kx42_A).
+  giving me a little boost in my cast" to punch through the wind (`D5DR7Kx42_A`).
 - **Anchovy / "rice" bait → downsize and match the hatch.** The big irons —
   Tady 45, Salas 7X — have been the standard since the sardine cycle started in
   the early 1990s (~1993). But when the forage shrinks to small anchovy
@@ -325,7 +325,7 @@ while somebody is still connected.
 - **The lighter iron drags the tackle down with it.** You can't throw an
   AA-light on the 80 lb jig stick — the downsized setup is a medium-action 9 ft
   graphite-composite stick, a smaller narrow reel, ~**50 lb braid** to a short
-  fluorocarbon leader (2/27/25).
+  fluorocarbon leader (`pcwcRdmWmLc`).
 - **Later, independent corroboration — small jig on small anchovy, plus a
   bigger-fish nuance (Tackle Express, JgXMpjxRxmo, 2026-07-17; unregistered
   channel — medium confidence):** as of the 2026 season, small surface irons
@@ -360,7 +360,7 @@ while somebody is still connected.
   in this corpus, and a further data point for the early-1990s (~1993)
   dating of the pairing as the sardine-cycle standard.
 - **A three-iron box framework (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
-  2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** carry **at least
+  2022-02-17; `ray-sharifi` registered (`Baja-scoped`) — medium confidence):** carry **at least
   three** surface irons covering three different jobs rather than one
   do-everything jig — 1) something **small and erratic for a reaction bite**
   (his pick: a **Tady C** — asr-uncertain model suffix, prefix confident per
@@ -495,7 +495,7 @@ on a fish, but when the jig is buried in rock or kelp or a sea lion has it,
   [surface-iron rod and reel — Fisherman's Landing counter
   tip](../tackle/rod-and-reel-selection.md#surface-iron-rod-and-reel--fishermans-landing-counter-tip-doug-kearn-searchersportfishing).
 - **A longer-top-shot alternate build, kept side by side (Ray Sharifi, Dirty
-  Hookers, A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a **10 ft rod rated 30–60 lb** (a Phoenix Axis 1009 HJ
+  Hookers, A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (`Baja-scoped`) — medium confidence):** a **10 ft rod rated 30–60 lb** (a Phoenix Axis 1009 HJ
   example), paired with a Daiwa Saltist or Daiwa Saltiga reel, spooled the
   same way as his flyline setup — **50–60 lb (up to 80 lb) braid backing** to
   **80–100 yards of 40–50 lb monofilament top shot**. This runs a much longer

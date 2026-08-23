@@ -656,7 +656,7 @@ Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01. `medium`
 confidence — registered voice, single mention (not yet repeated doctrine).
 
 This is an attributed **addition to**, not a reconciliation of, the
-straight-braid-is-"totally fine" data point already logged below (jQW2HLkMsmY)
+straight-braid-is-"totally fine" data point already logged below (`jQW2HLkMsmY`)
 — both stand side by side; the depth math here is the reasoning for reaching
 for the long mono top shot specifically when the bite is finicky or fish are
 holding deep, not a claim that straight braid is wrong.
@@ -696,7 +696,7 @@ holding deep, not a claim that straight braid is wrong.
   fighting a big fish once hooked. Reel/rod specifics for this application are
   in [rod & reel selection](../tackle/rod-and-reel-selection.md).
 - **Yellowtail flyline setup, one full build (Ray Sharifi, Dirty Hookers,
-  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** an
+  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (`Baja-scoped`) — medium confidence):** an
   8–8'6" rod, lighter action, rated 20–40 to 20–50 lb — enough backbone to lob
   a bait a little easier and get extra casting distance. Paired with a reel
   that free-spools well (a lever drag by preference; a star-drag reel, e.g. a

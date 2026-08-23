@@ -37,7 +37,7 @@ recent weather.
 ## Rain and runoff — the dominant winter variable
 
 - **Multi-day rain puts fishing "in a funk."** Sustained rain, not a single
-  shower, is what knocks it down (2/6/25).
+  shower, is what knocks it down (2/6/25) ⚠ cite-unresolved.
 - **Runoff washes out the island bass zones** — Catalina's dirt hillsides
   especially dump mud into the inshore water and shut the shallow bass bite.
   See [island structure](../locations/island-structure.md).
@@ -46,22 +46,22 @@ recent weather.
 - **Post-rain plan = deep structure or harbor riprap.** When the islands are
   chocolate, retreat to deep structure or to the
   [breakwalls and riprap](../locations/breakwalls-jetties-riprap.md) inside the harbors,
-  where spotties and bass keep biting (2/6/25).
+  where spotties and bass keep biting (2/6/25) ⚠ cite-unresolved.
 - **Open item (not doctrine):** Erik was explicitly unsure whether lingering
-  low pressure beats post-frontal high pressure for winter fishing (2/6/25).
+  low pressure beats post-frontal high pressure for winter fishing (2/6/25) ⚠ cite-unresolved.
   Treat as an open question, not a rule.
 
 ## Velella events
 
 **Velella (by-the-wind sailor) events can make bass bites unconvertible**
-(2/27/25). When the wind stacks these blue sailors into the zone, fish that
+(`pcwcRdmWmLc`). When the wind stacks these blue sailors into the zone, fish that
 should eat won't commit. Read it as a soft-condition negative — the fish are
 there, the bite is off.
 
 ## Bait-size regime — match the zone, not the tank
 
 **Check the bait size before you pick a lure.** Winter runs through
-anchovy / "rice" bait cycles where the forage shrinks (2/27/25). When the
+anchovy / "rice" bait cycles where the forage shrinks (`pcwcRdmWmLc`). When the
 bait is tiny:
 
 - **Downsize everything.**

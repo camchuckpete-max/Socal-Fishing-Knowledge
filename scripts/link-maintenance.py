@@ -50,6 +50,15 @@ EXCLUDE_FULL = {
     ROOT / "sources" / "batch-2-analysis.md",
     ROOT / "sources" / "escalations.md",
     ROOT / "sources" / "batch-2-progress.md",
+    # Editorial review (sources/plan-review.md): mechanical worklist/ledger
+    # files — machine-written tables, never notes, never link-validated
+    # (their cells carry bare note paths, not markdown links).
+    ROOT / "sources" / "review-worklist.md",
+    ROOT / "sources" / "fact-check-ledger.md",
+    ROOT / "sources" / "spot-harvest.md",
+    ROOT / "sources" / "relocation-queue.md",
+    ROOT / "sources" / "review-progress.md",
+    ROOT / "sources" / "gap-report.md",
 }
 # Files whose links ARE validated but which are not notes: no backlinks block,
 # not indexed, not a backlink source (e.g. the hand-authored skill definition).

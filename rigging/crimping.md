@@ -85,7 +85,7 @@ size, this one for the mechanic of seating it correctly.
   Leader)," `_Z4yMtrYgeA`, 2020-10-29) — re-cut footage, not an independent
   second source; see
   [Haywire Twist — wahoo live-bait leader](haywire-twist.md#wahoo-live-bait-leader)
-  for the full sleeve-crimped (non-haywire) wahoo live-bait build this
+  for the full sleeve-crimped (`non-haywire`) wahoo live-bait build this
   parameter comes from.
 - **A further, earlier (2009) independent citation of the same match-crimp-
   to-wire-test rule (SearcherSportfishing, "Tackle Tips for Alijos Rocks and

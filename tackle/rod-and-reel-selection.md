@@ -47,7 +47,7 @@ the middle — see [jig-rod rating selection](jig-rod-rating-selection.md).
 | Inshore lures / bass | ~7–9 ft, M–H | low-profile baitcast (200/300/400) | 30–65 lb braid | baitcast class |
 | Bottom / rockfish | 6–7 ft, H | conventional or electric | 30–50 lb braid | [rockfish deep-drop](../techniques/rockfish-deep-dropping.md) |
 
-## The offshore quiver — a top-5 framework (xPFm_ZV2PZU)
+## The offshore quiver — a top-5 framework (`xPFm_ZV2PZU`)
 
 A practical San Diego offshore spread runs **lightest to heaviest**, five sticks
 covering every scenario. Build yours around these roles:
@@ -77,7 +77,7 @@ The lesson isn't the exact rods — it's the **ladder of line classes** and havi
 dedicated tool at each rung so you're not under- or over-gunned when the grade
 shows up.
 
-## A second data point — a 1.5–2 day trip bag (gevNj2Y1Ep8)
+## A second data point — a 1.5–2 day trip bag (`gevNj2Y1Ep8`)
 
 A second attributed five-setup breakdown, from a deckhand aboard the
 *Highliner* out of Seaforth Landing on a 1.5-day trip working kelp paddies and
@@ -123,7 +123,7 @@ Full kit for anything overnight to 2+ days: all five outfits above. On a
 full-day trip the 100 lb jigging setup is optional — "doesn't hurt to bring"
 but isn't required.
 
-## A pre-trip tackle-bag update — foamer/rubber-band, surface iron, bass (42A8Owhc8fw)
+## A pre-trip tackle-bag update — foamer/rubber-band, surface iron, bass (`42A8Owhc8fw`)
 
 A third attributed setup breakdown from the same presenter (Ray Sharifi, Dirty
 Hookers, 42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence),
@@ -541,7 +541,7 @@ extraction, so it isn't yet repeated doctrine; would reach `high` if
 corroborated elsewhere). Specific reel model recommendations below are
 product endorsements and stay `low` per his registry caveat.
 
-Distinct from the casting-application framework above (F7jLrt2j2X8) — this is
+Distinct from the casting-application framework above (`F7jLrt2j2X8`) — this is
 reel/rod selection for **flylining a live bait itself**, not for casting a
 lure:
 
@@ -818,7 +818,7 @@ instead of stepping up to a 300 or 400. Logged here only as a
 model-specific corroboration of the class-level reasoning above, not as an
 endorsement of the brand.
 
-## Inshore / shoreline all-in-one combo (8tTVMOV2arE)
+## Inshore / shoreline all-in-one combo (`8tTVMOV2arE`)
 
 A single versatile combo (e.g. a DC-braked baitcaster with birdnest-reducing
 presets on an 8 ft medium, extra-fast inshore rod) covers spotties, calicos, and

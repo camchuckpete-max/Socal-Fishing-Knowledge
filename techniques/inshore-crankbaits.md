@@ -44,7 +44,7 @@ situation calls for it lives in the routers:
 - **Long cast, wind the bait down ~3/4 of the way, then vary the cadence** — the
   bite is not about thumping bottom; **changing the cadence** (speed-ups,
   pauses) is what draws the strike, and a **total pause** draws bites too
-  (GVP3IChsmRQ).
+  (`GVP3IChsmRQ`).
 - **Salt runs a crank shallower than rated:** a "16 ft" crank runs **~13–14 ft**
   in salt water.
 - **Why, and a deeper-rated starting point (Jeremy — first name only, as
@@ -211,7 +211,7 @@ channel type, not as a doctrine-specific spot):
   trebles** (Owner class, or a stinger treble) and run **strong wire split
   rings, ~50–60 lb** — a Clemente/Catalina-grade calico over the crank will
   straighten bass-market hardware (GVP3IChsmRQ, gH8JWhlqYqw).
-- Carry split-ring pliers and matching rings on the boat (n6PTy8g3pb0).
+- Carry split-ring pliers and matching rings on the boat (`n6PTy8g3pb0`).
 - **Treble-to-single swap for kelp fishing (Garrett, Owner Hooks,
   interviewed by Roman Castro at the 2020 Fred Hall Show, Long Beach —
   `46ha7J1Fc6A`; unregistered speaker, single mention — medium confidence):**
@@ -245,7 +245,7 @@ channel type, not as a doctrine-specific spot):
 
 **Crank class** — 8–10 ft limber, big-bend rod, slow-retrieve 200-size reel;
 see [gear classes](../tackle/gear-classes.md). An 8 ft rod still throws a
-crank if you don't have the 10 (GVP3IChsmRQ).
+crank if you don't have the 10 (`GVP3IChsmRQ`).
 
 ## Freshwater crossover baits (Fred Hall calico bass panel)
 

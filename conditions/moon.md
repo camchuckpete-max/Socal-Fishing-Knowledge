@@ -14,10 +14,10 @@ them as shifts to your search prior and timing, not as on/off switches.
 ## Bite windows — full/new ±week, leading days strongest
 
 - Days **leading into** the full moon are the strongest documented **bluefin**
-  windows: "if we've learned anything over the last six, seven years" (10/12/22).
+  windows: "if we've learned anything over the last six, seven years" (`XLVUhV8DW64`).
 - **White seabass** bites at the islands cluster on the moons in season — full
-  (7/14/22, 8/11/22) and new (8/31/22, a 22-fish day).
-- Late-November **bluefin** day windows were tied to the **new moon** (11/23/22).
+  (`DnSqw4r7A1s`, `-JZpyWLdKlk`) and new (8/31/22, a 22-fish day).
+- Late-November **bluefin** day windows were tied to the **new moon** (`Z3rZqy2Pi8E`).
 - **Swordfish** bites rise around both new and full and the weeks flanking them.
 
 **Dissenting view (kept side by side):** Capt. Dave Hansen (Your Saltwater Guide,
@@ -37,9 +37,9 @@ windows, with the **leading days strongest** and the moon peak itself a
 
 On the moon, fish travel at night (bright-night confidence) and schools
 scatter/relocate. Open-water bluefin not holding structure can move **10–15 nm
-overnight** (7/21/22). After the October full moon, "the tuna are gone" was a
+overnight** (`Blh2BA-7Ono`). After the October full moon, "the tuna are gone" was a
 **coverage illusion** — the fleet lost them and simply stopped reporting
-(10/12/22). Post-moon discipline:
+(`XLVUhV8DW64`). Post-moon discipline:
 - **Heavily discount report persistence** (a 3-day-old fish position is now stale).
 - Treat **absence of reports** as coverage bias, not absence of fish.
 - Treat the **moon peak itself as a relocation event, not a bite-death**.
@@ -56,13 +56,12 @@ typically slow ("it hasn't been really located, or it's been feeding all night
 and doesn't have a tendency to feed real well right away"), with the bite
 **picking back up late in the day**. If fishing is unavoidable on a full moon,
 plan to **fish it late rather than push the early-morning window**
-(fri_BWI-VA0).
+(`fri_BWI-VA0`).
 
 ## Daytime bass suppression on the full moon
 
 On clear full-moon nights, calico and sand bass **gorge at night and shut down by
-mid-morning** — they bite early, then go dead until late day (7/21/22, 8/11/22,
-10/12/22). The winter version is a **reaction-bite-only** day (12/15/22). Plan
+mid-morning** — they bite early, then go dead until late day (`Blh2BA-7Ono`, `-JZpyWLdKlk`, `XLVUhV8DW64`). The winter version is a **reaction-bite-only** day (`5D1vx29LVpI`). Plan
 bass segments for **first light or afternoon** on full moons, not mid-day. See
 [calico bass](../species/calico-bass.md) and [sand bass](../species/sand-bass.md).
 
@@ -98,7 +97,7 @@ tide window. See [tide and slack](tide-and-slack.md).
 
 Moons are turnover markers, not just bite markers. New waves of bluefin were
 observed arriving **"out of the west on the moon"** into the Ensenada zone
-(7/21/22).
+(`Blh2BA-7Ono`).
 
 ## Related
 

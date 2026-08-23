@@ -37,14 +37,14 @@ weighing confidence.
 **A jig rod fishes toward the top end of its printed jig-weight rating, not
 the middle.** When picking a rod for the jig weight you intend to fish, don't
 try to "cut in the middle" of the rated range — buy or select a rod rated
-**close to your jig weight on the top end** of its range (DTvXJrtytwg).
+**close to your jig weight on the top end** of its range (`DTvXJrtytwg`).
 
 Stated example: planning to fish a **200 g** jig in **3–400 ft** of water
 calls for a rod rated close to 200 g **at the top** of its range — not a rod
 whose range simply spans 200 g. Worked through on camera: a rod rated
 **100–300 g** does not fish a 200 g jig (the numeric middle of that range) —
 it actually fishes best with **250–300 g** jigs, i.e. toward its own top end
-(DTvXJrtytwg).
+(`DTvXJrtytwg`).
 
 ## Rod power, not just gram rating — a too-stiff rod won't load the jig
 
@@ -61,10 +61,10 @@ Stated example: customers repeatedly ask Cesar for a rod they name as **"the
 for that jig weight: it won't bend enough to load and unload, so it can't
 impart the action that makes a 150 g jig swim/work correctly. Recommended
 instead: drop down to roughly a **seven power**, or a **six power**, to get
-the jig moving properly (PbiZMk4Ft6w).
+the jig moving properly (`PbiZMk4Ft6w`).
 
 **The relationship runs both ways:** fishing a heavier jig calls for a
-heavier-power rod (PbiZMk4Ft6w) — stated as the general direction, without a
+heavier-power rod (`PbiZMk4Ft6w`) — stated as the general direction, without a
 second paired jig-weight/power number.
 
 Kept as a separate point from [the rule above](#the-rule) rather than merged

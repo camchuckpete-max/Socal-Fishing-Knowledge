@@ -42,10 +42,10 @@ on an off-the-beach current is a non-starter no matter how good the water looks.
 Where an island rises off the surrounding plain, the **fathom curve itself is
 structure**. At **Catalina's ~500-fathom curve**, the uphill (summer counter)
 current compresses as it climbs the slope, **spins eddies**, and **aggregates
-both bait and kelp paddies** along the curve (8/31/22). The curve is a line you
+both bait and kelp paddies** along the curve (`HnqiE05vdXs`). The curve is a line you
 can hunt, not a point.
 
-Worked example — the template to copy (8/31/22):
+Worked example — the template to copy (`HnqiE05vdXs`):
 
 1. One popped fish appears near the curve.
 2. Identify the **structure that fish related to** — treat it as a signal, not

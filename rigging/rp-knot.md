@@ -47,7 +47,7 @@ parameters section.
   and exit the loop the same way you entered. Lubricate, draw slow, then a
   quick snap to seat. Commonly tied to ~80 lb by the book, but it holds well
   beyond — tied clean to 100 lb and even ~130 lb. Wrap count is personal
-  preference — some tiers go 8 or 10 wraps instead of 6 (YGLFn8lPMu0).
+  preference — some tiers go 8 or 10 wraps instead of 6 (`YGLFn8lPMu0`).
 - **Wrap count scales with the line-diameter ratio, not a fixed number
   (Chad, Tackle Express, `p1KyyR0i7Kc`, 2018-09-08; unregistered channel —
   medium confidence).** Framed as an update to an earlier Tackle Express
@@ -121,11 +121,11 @@ parameters section.
   outside the reel it can catch the guides and reduce casting distance.
 - Optionally finish by tying the fluoro tag off around the main braid with a
   3-wrap uni knot, which cones the connection for a smoother pass through the
-  guides — skippable when re-tying in a hot bite (YGLFn8lPMu0).
+  guides — skippable when re-tying in a hot bite (`YGLFn8lPMu0`).
 - **Observed** (Dirty Hookers, date unstated — recalled from an earlier,
   unlinked video): presenter recounts landing an estimated triple-digit
   (100 lb+) bluefin on 65 lb braid to 80 lb fluoro tied with this knot,
-  locked drag, no knot failure (YGLFn8lPMu0).
+  locked drag, no knot failure (`YGLFn8lPMu0`).
 - **Full-name + tag-length corroboration (StokedOnFishing, `AT6zmDYxjW4`,
   2020-05-06; unregistered channel — medium confidence):** a separate, short
   StokedOnFishing clip (presenter John, at a tackle shop) names this knot in

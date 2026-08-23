@@ -388,7 +388,7 @@ quick gangion** built and fished at **400–600 ft**:
   [line & leader](../tackle/line-and-leader.md#when-braid--and-how-heavy) for
   the general braid-vs-mono buoyancy breakdown this sits alongside.
 - **No hookset on the bite** — consistent with the slow-steady-wind retrieve
-  already logged above (U-dGRQ0X-Mc): on a self-hooking circle hook, you
+  already logged above (`U-dGRQ0X-Mc`): on a self-hooking circle hook, you
   don't swing, you just turn the handle and wind up the fish.
 
 ## Reading the meter (Furuno bottom discrimination)

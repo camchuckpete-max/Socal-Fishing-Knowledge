@@ -31,7 +31,7 @@ your cue to change gear before the bite window — watch the kelp, not just the 
 ## Chum-drift angle vs boat lay — true current vs wind
 
 At anchor or on a drift, the **angle of the chum line relative to how the boat is
-lying** separates **true current** from **wind push** (2/20/25):
+lying** separates **true current** from **wind push** (`6TBxHnkYXI0`):
 - Chum drifting **straight back off the stern**, in line with the boat, = the boat
   and the water are moving together (wind-dominated lay, or aligned).
 - Chum swinging **off at an angle** to the boat's lay = real **current** cutting
@@ -78,7 +78,7 @@ anchor" framing already implicit in the fathom-curve worked example in
 When there is **no current at anchor**, the tell is **bait pointing in all
 directions** (not lined up) and **fish metering but not biting**. The feeding
 "treadmill" that carries bait past the predators is **switched off** — marks on the
-sounder will not convert (2/20/25). Read this as a **move-or-wait** signal: either
+sounder will not convert (`6TBxHnkYXI0`). Read this as a **move-or-wait** signal: either
 reposition to where current is running, or wait for the tide change to turn the
 treadmill back on (see [tide and slack](tide-and-slack.md)).
 

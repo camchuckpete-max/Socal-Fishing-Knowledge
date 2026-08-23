@@ -32,7 +32,7 @@ the parent note — working terns, foamers, breezers, bird-radar red blotches at
 4–5 mi. Troll **sweeping arcs around the bird/bait area rather than
 straight-lining away** (tuna move only low single-digit mph, so you are not
 chasing a fleeing school), and **do not troll through the fleet's prop wash**
-(8/17/22). Full method: [search & glassing](../planning/search-and-glassing.md),
+(`HzE4FHHcvTk`). Full method: [search & glassing](../planning/search-and-glassing.md),
 [electronics & sounder](../planning/electronics-and-sounder.md).
 
 ## Situations → techniques (the decision table)
@@ -68,7 +68,7 @@ stay over fish), and the calm-day school-grade spread does the rest.
   wind-blow), never casts.
 - **Terminal:** low-profile **200 lb bite leader class**, crimped, no bulky
   swivel on the speed-troll connection; [bite leaders](../rigging/bite-leaders.md).
-- **Lures by role:** [Mad Mac](../lures/mad-mac.md) (speed-troll),
+- **Lures by role:** [Mad Mac](../lures/mad-mac.md) (`speed-troll`),
   [spreader bar](../lures/spreader-bar.md) (school grade),
   [DTX Minnow](../lures/dtx-minnow.md) / [Husky Magnum](../lures/rapala-husky-magnum.md)
   / [Halco](../lures/halco-laser-pro.md) (divers/swimmers),

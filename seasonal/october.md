@@ -19,14 +19,14 @@ A stale report is not today's water.
 ## Regime change — the water chart runs the plan
 
 **October is a regime change: "conditions become pretty important… look 100 % at
-your temp chart and chlorophyll"** (10/12, 10/20/22). More than any other month,
+your temp chart and chlorophyll"** (`XLVUhV8DW64`, `OYOda6T3f-8`). More than any other month,
 October fishing is dictated by the [SST](../conditions/water-temperature.md) and
 [chlorophyll / water color](../conditions/water-color.md) picture. Build the plan on the
 break structure, not on spot names.
 
 ## Which side of the break — by species
 
-The break rule flips with the regime (10/12, 10/20/22):
+The break rule flips with the regime (`XLVUhV8DW64`, `OYOda6T3f-8`):
 
 - **[Bluefin](../species/bluefin-tuna.md) sit the *cool* side of a break when the water
   is warm** — and the warm side when the water is cold.
@@ -55,7 +55,7 @@ all on the table — but **scattered**. Breadth of species, low density of any o
 
 ## Grunion-in-kelp overrides water quality
 
-**Grunion-in-kelp events override water quality entirely** (10/20/22). When
+**Grunion-in-kelp events override water quality entirely** (`OYOda6T3f-8`). When
 grunion pile into the kelp you get **every-cast bass in ugly, stagnant water** —
 water you would normally skip. A bait event on structure beats a clean-water
 read. See [calico bass](../species/calico-bass.md), [white seabass](../species/white-seabass.md),
@@ -64,7 +64,7 @@ is the tell (see [bird reading](../conditions/bird-reading.md)).
 
 ## Marlin-fleet tell
 
-**Outriggers + circling = a tournament, not tuna** (9/14/22). A fleet of boats
+**Outriggers + circling = a tournament, not tuna** (`5to3Q5P7w90`). A fleet of boats
 with outriggers up, circling, is fishing striped marlin in a tournament — read
 the fleet behavior correctly before you run to it. See
 [striped marlin](../species/striped-marlin.md).

@@ -31,7 +31,7 @@ report as today's water.
 ## Wind-rollover geography — who blows out and who holds
 
 A big NW blow does **not** hit the whole Bight equally. Know which water rolls
-over so a bad forecast doesn't blank your whole plan (4/21/22):
+over so a bad forecast doesn't blank your whole plan (`YZtX1MiT0y8`):
 
 - **The northern Channel Islands and the LA/Ventura coastal shelf crash
   5–8 °F** in a big NW blow — wind-wave-driven rollover, cold and off.

@@ -20,7 +20,7 @@ class.
 
 ## Why it misreads the rod — mechanism
 
-Two things go wrong at once (6dTz1640Y5c):
+Two things go wrong at once (`6dTz1640Y5c`):
 
 1. **The hand becomes an artificial pivot point.** Bending the rod this way
    puts a pivot at wherever the hand is gripping and pulling from, not the

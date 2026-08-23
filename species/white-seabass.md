@@ -25,7 +25,7 @@ lead-head-and-squid is the signature rig.
   [island structure](../locations/island-structure.md).
 - **When — moon-driven, in season:** WSB bites at the islands **cluster on the
   moons.** Documented across the 2022 cycle:
-  - **Full moon:** WSB bites at the islands (7/14/22, 8/11/22).
+  - **Full moon:** WSB bites at the islands (`DnSqw4r7A1s`, `-JZpyWLdKlk`).
   - **New moon:** a **22-fish day at the Channel Islands** on the new moon (Aloha
     Spirit, 8/31/22) — nice warm water, squid present.
   Weight **full/new ± a week** as elevated-probability windows. See
@@ -54,7 +54,7 @@ lead-head-and-squid is the signature rig.
   (typically early spring through summer), WSB tracks the **squid** —
   where the squid spawns (island nests, gray-light and night mating), the seabass
   follow. The lead-head-and-squid rig **mimics squid mating**, which is why it's
-  deadliest in the **gray-light and night hours** (Xr4nURK-Z48).
+  deadliest in the **gray-light and night hours** (`Xr4nURK-Z48`).
 
 ## Finding them (sign & sonar)
 
@@ -107,7 +107,7 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
 | On a squid bed near structure, gray light/night, slack tide | **[Lead-head + squid](../rigging/leadhead-mods.md)** — thread 2 (or 3 small) squid up the lead head | 3/4–1 oz lead-head class on a 30–40 lb bait/jig rod | The signature rig — **mimics squid mating**; size the head so it sinks to the fish, not straight past them into the current |
 | Fish holding at depth near structure | **[Dropper loop](../techniques/dropper-loop.md)** with squid on the bottom | 40 lb dropper-loop class, level-wind | Puts squid right in the strike zone on the bottom near the nest/structure |
 | Casting off-color rip / kelp edge, some current | **[Surface iron](../techniques/surface-iron.md)** worked slow | Jig-stick class (7–9', 40–50 lb) | A classic island WSB and yellowtail crossover; slow, steady grind over the color edge |
-| Anchored, no bait aboard | **Chum bucket** off the transom as an artificial "thumb over the hose" + lead-head/squid or slider cast on the color edge | 30 lb bait class | Chum bucket builds the plankton→bait→WSB chain and its drift line reads your true current (2/20/25) |
+| Anchored, no bait aboard | **Chum bucket** off the transom as an artificial "thumb over the hose" + lead-head/squid or slider cast on the color edge | 30 lb bait class | Chum bucket builds the plankton→bait→WSB chain and its drift line reads your true current (`6TBxHnkYXI0`) |
 | Late-fall island, off-color water, current **into** the island | Fish the **into-island dirty water** on the kelp edge | Bait / jig-stick class | The seasonal exception to the parallel-current prior — SCI late fall wanted off-color water and current **into** the kelp (11/23/22 — see Doctrine) |
 | Squid soak with no pinned nest/structure to anchor on — working the column blind | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: light slider on a thin-wire hook, cast out, let it sink slowly all the way to bottom, then reel up and recast immediately — never let it sit on the bottom | 30 lb bait class | WSB's forward-facing mouth won't take a bottomed bait — a bait left on bottom draws bat rays, shovelnose and leopard sharks (mouths on the underside of the head) instead; constant recasting also raises calico bass, perch and sheephead (Your Saltwater Guide, ShSxNKAcUB4, 2020-12-08). **Fish called mid-column/near-surface rather than pinned to bottom** is the specific trigger for reaching for the slider over the dropper loop (Tackle Express, Eo_bA8IWvyU) |
 | Gray light or before dawn, heavy fog, or a shadowed spot — bite window rather than a location cue | **Stationary bait-jig soak**: a large single-hook, glow-backed jig (Tady TLC / Tady 40 class — no weight given on camera) baited with 1–3 whole squid, dropped to bottom, cranked up ~3–6 to 10 ft, then left hanging in the holder to work passively with the boat's roll | Tady TLC/40-class glow jig on a 30–40 lb bait/jig rod | Distinct from the actively-worked lead-head-and-squid above — this is a passive rail soak, timed to the low-light window most WSB are caught in (Tackle Express, Eo_bA8IWvyU); see [sliding sinker — heavy squid-holding jig](../techniques/sliding-sinker.md#white-seabass-weight-ladder--suspend-and-retrieve-your-saltwater-guide) |
@@ -116,7 +116,7 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
 
 **Anchoring geometry:** WSB is **not a bottom fish** — anchor **up-current of the
 spot** and let bait/chum drift back to it; scale the standoff to current strength,
-and further still if a break-off fish (a big yellow) shares the spot (2/20/25).
+and further still if a break-off fish (a big yellow) shares the spot (`6TBxHnkYXI0`).
 **Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo):
 anchored in **74 ft** (the captain's usual preferred depth on this spot is
 **~70 ft**) but held off committing to the exact spot because the current
@@ -132,13 +132,13 @@ into the spot once the current read right.
   (WSB have soft mouths and pull the hook easily on straight braid) — see the
   full rod/reel/line breakdown in [Tackle Express — white seabass rod, reel,
   and line](../tackle/tackle-express-white-seabass-rod-reel-line.md)
-  (Eo_bA8IWvyU). A shorter, corroborating tackle-counter clip names three
+  (`Eo_bA8IWvyU`). A shorter, corroborating tackle-counter clip names three
   specific casting-reel models (Daiwa Lexa, Penn Fathom, Shimano Tranx) as a
   step up from the heavy tuna-class reels anglers often over-bring for this
   species, and calls out spinning rods as a good option for anglers new to
   conventional gear — see [casting reel for sea bass and
   yellowtail](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
-  (QEmxUIGmKbo). See also [gear classes](../tackle/gear-classes.md).
+  (`QEmxUIGmKbo`). See also [gear classes](../tackle/gear-classes.md).
 - **Terminal:** **[lead-head + squid](../rigging/leadhead-mods.md)** (2–3 squid
   threaded up the head), **[dropper loop](../techniques/dropper-loop.md)** with
   squid, **[surface iron](../lures/iron-jigs.md)** for the cast,
@@ -155,14 +155,14 @@ into the spot once the current read right.
   resolved by this repetition), also fine on a dropper loop. See [Charter
   bait-tank hook kit — sea
   bass](../tackle/tackle-express-charter-bait-tank-hook-kit.md#sea-bass--squid-vs-fin-bait-backup-9mznnwhibxs)
-  (9MzNNwHiBXs).
+  (`9MzNNwHiBXs`).
 
 ## Doctrine & conflicts
 
 - **Garlic scent on hookup baits — a mechanism conflict, kept side by side.**
   Tackle Express frames the garlic scent on its WSB-branded hookup bait as a
   primary attractant, tied to amino-acid count and framed as triggering
-  predatory instinct (Eo_bA8IWvyU). The HookUp Baits co-owner describes the
+  predatory instinct (`Eo_bA8IWvyU`). The HookUp Baits co-owner describes the
   same brand's garlic scent differently — as a **cover scent** masking the
   plastic's manufacturing smell, not the primary draw, in
   [tube baits](../lures/tube-baits.md#scent). Two different speakers
@@ -170,12 +170,12 @@ into the spot once the current read right.
   mechanisms — not reconciled here.
 
 - **Doctrine (high):** moon-clustered, slack-tide, off-color-triad, squid-driven —
-  repeated across dated reports (7/14, 8/11, 8/31/22) and the 2/20/25 inshore
+  repeated across dated reports (`DnSqw4r7A1s`, `-JZpyWLdKlk`, `HnqiE05vdXs`) and the 2/20/25 inshore
   breakdown. Squid and gray light are the through-line.
 - **Current direction — a real seasonal conflict, kept side by side.** The general
-  prior (2/20/25) is **current *parallel* to the structure is best**, into-the-beach
+  prior (`6TBxHnkYXI0`) is **current *parallel* to the structure is best**, into-the-beach
   marginal, off-the-beach dead. But **late-fall SCI seabass/bass wanted off-color
-  water with current running *into* the island** (11/23/22). Encode parallel as the
+  water with current running *into* the island** (`Z3rZqy2Pi8E`). Encode parallel as the
   default and **into-structure off-color as a viable late-fall/dirty-water state** —
   same author, both statements, a genuine seasonal nuance rather than an error.
 - **The water triad is shared with [California halibut](../species/california-halibut.md)**

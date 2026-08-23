@@ -57,7 +57,7 @@ produces with **all three** present together:
 
 Missing any one → leave within 20–30 min. The best version is the **local
 variation**: a dirty patch with a **hard rip / foam edge** set inside otherwise
-cleaner water — fish hide in the dirt to ambush (2/20/25). See
+cleaner water — fish hide in the dirt to ambush (`6TBxHnkYXI0`). See
 [white seabass](../species/white-seabass.md) and
 [tide and slack](tide-and-slack.md) for the full triad discipline.
 
@@ -65,7 +65,7 @@ cleaner water — fish hide in the dirt to ambush (2/20/25). See
 
 Bait was found **holding in the *dirtier* water** while the clean blue water sat
 empty — clean-water trolling found **nothing** because the bait was not there
-(8/17/22). **Predators work the dirty/clean edge**: bluefin transit the **chalky
+(`HzE4FHHcvTk`). **Predators work the dirty/clean edge**: bluefin transit the **chalky
 transition**, and the **dirty side holds the bait** (Duane Diego). So do not
 default to the prettiest blue water — find where the bait is (often the off-color
 side) and work the **seam** between dirty and clean.

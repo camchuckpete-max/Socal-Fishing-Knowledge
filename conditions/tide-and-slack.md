@@ -13,17 +13,17 @@ the same slack-tide bait-rise mechanism, which raises confidence in it.
 
 ## Arrival discipline — be there an hour before the change
 
-Be at the highest-percentage zone **an hour before** the tide change (2/20/25).
+Be at the highest-percentage zone **an hour before** the tide change (`6TBxHnkYXI0`).
 The **late-morning slack** (when a tide falls after ~9:30) is the prime open-water
 **pop-up window**; pop-ups also **cluster in the afternoon**, so re-run water you
-marked earlier in the day at those tide times (7/14/22, 10/26/22). Do not arrive
+marked earlier in the day at those tide times (`DnSqw4r7A1s`, `5p6gu14ZC4w`). Do not arrive
 *at* the change — arrive before it and be fishing when it hits.
 
 ## Window compression
 
 When the bite is **off-peak** (post-moon, pressured, or marginal conditions),
 action **compresses into the tide windows**; wide-open days bite all day
-(8/17/22). Decision consequence:
+(`HzE4FHHcvTk`). Decision consequence:
 - **Strong conditions → route freely** (bite is not tide-gated).
 - **Weak conditions → anchor the plan's zones to tide times** and be disciplined
   about arriving early to each.
@@ -39,7 +39,7 @@ action **compresses into the tide windows**; wide-open days bite all day
 | Bluefin foamers | **Slack-tide biter** |
 
 Source: 2/20/25. A worked cautionary tale: a captain (Decker) left sign **before
-slack** and regretted it — the bite was about to fire on the change (9/14/22).
+slack** and regretted it — the bite was about to fire on the change (`5to3Q5P7w90`).
 
 **Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo): an
 overnight anchored white seabass soak was planned around a **4 a.m. slack

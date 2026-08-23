@@ -52,7 +52,7 @@ all three explicitly; the 2/20/25 report gives the mechanism):
 | **Straight into the beach** | Marginal, sometimes bites | No clean edge; occasionally productive in specific states (see exception below) |
 | **Straight off the beach** | **Dead — avoid** | Pulls the food chain away from the structure |
 
-**Spot typology** (2/20/25):
+**Spot typology** (2/20/25) ⚠ cite-unresolved:
 
 - **Land-attached perpendicular ridges** are two-directional spots — they fish on
   parallel current only.

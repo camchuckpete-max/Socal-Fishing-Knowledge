@@ -32,7 +32,7 @@ naturally across the surface and holds up through repeated deployments.
   holes, done to both sides. Everything must be cinched tight so there is no
   slippage along the skewers during deployment.
 - **Wing angle:** pin the wings at **about 45°** — set further out, a swell
-  knocks the bait off its presentation (YsiHziY_PWw).
+  knocks the bait off its presentation (`YsiHziY_PWw`).
 - **Body/profile skewer:** a skewer run down the middle of the limp fish, entered
   through the mouth. Push it about three quarters of the way in, then lift the
   tail as you finish so the bait sits with a slight down-and-tail-in-the-water
@@ -42,10 +42,10 @@ naturally across the surface and holds up through repeated deployments.
   out the roof of the mouth.
 - **Hook rig:** a standard San Diego bluefin flyer rig — a large J hook with a
   large treble hook trailing off the J as a stinger. Leader is 200 to 400 pound
-  mono, typically 400 (GqcVaTIlyg0). The main leader runs to the kite rod; the
+  mono, typically 400 (`GqcVaTIlyg0`). The main leader runs to the kite rod; the
   treble stinger is set into the back of the fish, inserted just behind the body
   stick under the spine and out the other side, then positioned and secured.
-- **Bite-leader length: 3 ft, 3.5 ft at the max** (YsiHziY_PWw) — any longer
+- **Bite-leader length: 3 ft, 3.5 ft at the max** (`YsiHziY_PWw`) — any longer
   and the swivel reaches the rod tip before the fish is in gaff range. Tail
   treble spec from the same source: **5/0 5X-strong (Mustad)**. These are the
   leader-length and wing-angle numbers the

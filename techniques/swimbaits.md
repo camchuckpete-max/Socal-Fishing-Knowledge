@@ -134,7 +134,7 @@ than merged in:
   "avoid 8:1+ high-speed ratios — SoCal gamefish doesn't swim at you" doctrine
   in [rod & reel selection — inshore
   baitcast](../tackle/rod-and-reel-selection.md#inshore-baitcast--three-sizes-academy-ep15-onh1k2mop7q)
-  (Landesfeind). Florentino's claim is calico-specific and explicitly says the
+  (`Landesfeind`). Florentino's claim is calico-specific and explicitly says the
   opposite — that calico **do** swim at the boat after eating and a
   high-speed reel (though still under Landesfeind's 8:1 ceiling, at 6.2:1+)
   is needed to keep up. Kept side by side, attributed, not resolved.

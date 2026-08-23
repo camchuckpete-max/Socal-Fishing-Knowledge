@@ -11,7 +11,7 @@ Gear is a big investment; a rinse-and-store discipline is what makes it last.
 This note captures the **parameters and judgment calls** for looking over,
 cleaning, and storing rods and reels — a rainy stretch or the end of the season is
 the moment to do it. For the visual walk-through, see the source video:
-<https://www.youtube.com/watch?v=5yfA5XAaLLY> (5yfA5XAaLLY). Rod/reel selection
+<https://www.youtube.com/watch?v=5yfA5XAaLLY> (`5yfA5XAaLLY`). Rod/reel selection
 context is in [rod & reel selection](rod-and-reel-selection.md). For the
 mechanics of getting fresh line onto a reel without a tangle or a line twist —
 distinct from this note's care/storage/servicing scope — see

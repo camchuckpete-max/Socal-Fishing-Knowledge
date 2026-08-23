@@ -36,7 +36,7 @@ typical-year mapping.
   deep or moves, **the bite dies but the fish did not leave** — relocate the
   forage on the meter before writing the zone off (4/21/22, YZtX1MiT0y8;
   observed at the SCI squid zone, same mechanics). A **squid-colored jig with
-  glow** is the change-up when they're feeding on squid (4/21/22).
+  glow** is the change-up when they're feeding on squid (`YZtX1MiT0y8`).
   Squid-dependent more than calendar-dependent; shows in both the warming
   transition (spring) and fall fragmentation (Oct–Nov) regimes.
   **Observed** (StokedOnFishing, 2017-07-18 upload, Santa Barbara Island,
@@ -77,7 +77,7 @@ typical-year mapping.
   time (10/26/22, 5p6gu14ZC4w). **Farnsworth Bank** (caption-garbled as
   "foreign First Bank"; identified by the described closure rule) gives good
   **fall yo-yo fishing** — note it sits in a marine closure where **only
-  yellowtail and bonito may be kept** (10/26/22). See
+  yellowtail and bonito may be kept** (`5p6gu14ZC4w`). See
   [island structure](../locations/island-structure.md).
   **Observed** (StokedOnFishing, 2014-11-03 upload, Bird Rock / Two Harbors,
   Catalina Island, SoCal — `zUFbCIWZZMw`, "Stoked On Simrad, part 1,"
@@ -299,7 +299,7 @@ typical-year mapping.
   and cost someone else their fish.
 - **Coastal kelps** — kelp-line and coastal-structure yellows along the beach
   from LA to San Diego in the warm-stable regime (summer); squid on the coast
-  pulls them in as well (10/26/22). Surface iron along the kelp edge is the
+  pulls them in as well (`5p6gu14ZC4w`). Surface iron along the kelp edge is the
   classic approach (cameron; corpus coverage thin).
 - **La Jolla and the SD offshore banks** — structure yellows on hard bottom and
   pinnacles, strongest warming-transition into warm-stable (spring–summer).
@@ -503,7 +503,7 @@ typical-year mapping.
 - **Coronado Islands** — the warming-transition (spring) classic (~13 mi from
   San Diego, off Mexico; the western coast is exposed to colder Pacific
   currents and tidal swings, so the water stays bait-rich). "The Coronados are
-  synonymous with yellowtail" (D5DR7Kx42_A). **Seeing-not-biting cycles:**
+  synonymous with yellowtail" (`D5DR7Kx42_A`). **Seeing-not-biting cycles:**
   Coronado yellows run "seeing-not-biting" cycles with **narrow daily windows**
   — you'll mark and even see fish that won't eat until a short window opens
   (4/21/22, YZtX1MiT0y8). Anchor those days to tide and current, not to the
@@ -758,7 +758,7 @@ typical-year mapping.
   heavy fishery: a true resident **"home guard" yellowtail (40+ lb, sometimes
   30 lb) can turn up anywhere around the island**, which is why local trips
   spool a **40 lb line-class floor** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
-  2022-09 trip-prep walkthrough; `ray-sharifi` registered (Baja-scoped) — medium confidence). See
+  2022-09 trip-prep walkthrough; `ray-sharifi` registered (`Baja-scoped`) — medium confidence). See
   [line & leader](../tackle/line-and-leader.md) for the full class breakdown.
   **Observed** (StokedOnFishing, 2012-08-10, Cedros Island, Baja —
   `xIUKmH9ccgQ`, "Cedros Outdoor Adventures"; earliest-dated Cedros Outdoor
@@ -1247,7 +1247,7 @@ typical-year mapping.
   for the rig. The same recap separately gave this trip's bluefin tackle,
   logged in [bluefin tuna](bluefin-tuna.md#where--when).
 - **Bahía de los Ángeles (BOLA) / Bay of LA** — "legendary yellowtail grounds …
-  yellowtail everywhere on this high spot" (vqsD0qpwcJA).
+  yellowtail everywhere on this high spot" (`vqsD0qpwcJA`).
   **Late warm-stable (September) program (cameron):** the fish are **on the
   bottom** that time of year — worked with **dropper loops and yo-yo iron**.
   See [September](../seasonal/september.md).
@@ -1263,7 +1263,7 @@ of water state. Kept side by side with the corpus
 
 - **Visual sign:** surface boils and breezing fish — "watch for any surface
   activity, aim for your target" and read how your iron swims back to the boat
-  (D5DR7Kx42_A). On paddies, look for fish flashing under or around the kelp.
+  (`D5DR7Kx42_A`). On paddies, look for fish flashing under or around the kelp.
 - **Birds:** working terns and gulls-as-paddy-finders — see
   [bird reading](../conditions/bird-reading.md).
 - **Sonar signatures with depth:**
@@ -1272,10 +1272,10 @@ of water state. Kept side by side with the corpus
     yellowtail read being **arcs / boil-ups at ~5–10 fathoms near structure**.
     "We see tight balls of yellowtails hugging the structure, so you drop
     something with weight to get down there and provoke a reaction bite"
-    (D5DR7Kx42_A).
+    (`D5DR7Kx42_A`).
   - **Deep high-spot yellows (BOLA/Baja):** marks on high spots in the
     **150–300 ft** band; the fish stack on the up-current face of the high spot
-    (vqsD0qpwcJA).
+    (`vqsD0qpwcJA`).
   - **Paddy yellows** don't meter deep — check the paddy fast (look, one bait,
     sonar under the kelp) and move if it's dry. On the meter, look for
     **boomerang-shaped arcs around 90–120 ft** below a paddy that shows no
@@ -1373,7 +1373,7 @@ water temp and bait depth before committing the day to one face.
   anglers new to conventional gear, a spinning rod, is enough to huck these
   lures out and makes for a better day. See [casting reel for sea bass and
   yellowtail](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
-  (QEmxUIGmKbo).
+  (`QEmxUIGmKbo`).
 - **Light bass/halibut rod, leader upsized as yellowtail insurance:** a
   15–30 lb class rod (Shimano Tranx 400), 50 lb braid (~300 yd), 15 ft of
   40 lb fluorocarbon leader — the rod stays light for its bass/halibut
@@ -1381,7 +1381,7 @@ water temp and bait depth before committing the day to one face.
   abrasion resistance against an incidental yellowtail. See [Baja light
   setup — yellowtail
   insurance](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
-  (SL4zZbzdXNA).
+  (`SL4zZbzdXNA`).
 - **Yo-yo:** a stout **40–60 lb class** rod with a **high-speed reel** to burn a
   heavy iron (Salas 6X class) off the bottom.
 - **Baitcaster gear ratio — torque vs. speed for a big fish:** a 7:1
@@ -1391,7 +1391,7 @@ water temp and bait depth before committing the day to one face.
   with the surface-iron note's stronger caution against ratios in this same
   range. See [baitcaster gear ratio for landing big
   yellowtail](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
-  (pOFsjDTqaxY).
+  (`pOFsjDTqaxY`).
 - **Dropper loop:** same heavy class rod, live bait to a
   [dropper loop rig](../techniques/dropper-loop.md).
 - **Slow-pitch:** a parabolic slow-pitch/knife-jig setup matched to
@@ -1469,10 +1469,10 @@ water temp and bait depth before committing the day to one face.
   without a place claim.
 - **Corpus (high — Coronados roundups):** heavy full-size irons (Salas 6X
   class) work the majority of the time on structure fish; vertical/flat-fall jigs
-  **100–180 g depending on current** are the change-up (D5DR7Kx42_A).
+  **100–180 g depending on current** are the change-up (`D5DR7Kx42_A`).
 - **BOLA/Baja slow-pitch on high spots (medium — single trip, demoted
   2026-08-17):** one trip fished the **150–300 ft** band on BOLA high spots,
-  with the fish stacking on the up-current face (vqsD0qpwcJA). Previously
+  with the fish stacking on the up-current face (`vqsD0qpwcJA`). Previously
   written as a "proven" method at `high` on the strength of two cited ids —
   but `vqsD0qpwcJA` and `Jtf-bU4aM-c` are **the same recording re-uploaded**
   (verified 2026-08-17), so this is one source, not two. The narrator is also

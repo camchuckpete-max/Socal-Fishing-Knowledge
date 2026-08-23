@@ -66,7 +66,7 @@ def main() -> int:
             if path.name == "README.md":
                 continue
             rows.append(f"| {folder}/{path.name} | {tier} | pending |  |  |")
-            observed += len(re.findall(r"^\*\*Observed\*\*",
+            observed += len(re.findall(r"^[ \t>-]*\*\*Observed\*\*",
                                        path.read_text(encoding="utf-8"), re.M))
 
     body = (HEADER

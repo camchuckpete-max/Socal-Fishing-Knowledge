@@ -14,7 +14,7 @@ rockfish — a distinct, highly underrated table fish that schools over hard bot
 and sand edges and eats the same bottom presentations as the reds. At the
 **Channel Islands** it is a **prime variety target**: "they school up like crazy
 up here — you'll catch a hundred of them," and they run big enough that a good
-one is a legit 30-lb-class dropper-loop fish (6-8KfjEg0x8). It gets its own router
+one is a legit 30-lb-class dropper-loop fish (`6-8KfjEg0x8`). It gets its own router
 because it fishes and routes differently from the rockfish stack even when they
 share a spot (see Doctrine & conflicts).
 
@@ -31,7 +31,7 @@ share a spot (see Doctrine & conflicts).
   when you're already parked on a good island rock. They school, so once you find
   one you're usually into a pile.
 - **Conditions:** like everything at the islands, **current is as important as
-  the bait** — a slack spot meters fish that won't eat (6-8KfjEg0x8). See
+  the bait** — a slack spot meters fish that won't eat (`6-8KfjEg0x8`). See
   [current structure](../conditions/current-structure.md).
 
 ## Finding them (sign & sonar)
@@ -56,7 +56,7 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 | Situation (conditions) | Do this | Gear class | Notes |
 | --- | --- | --- | --- |
 | Parked on island hard bottom, squid in the tank | **[Dropper loop](../techniques/dropper-loop.md)** with squid on the bottom | 30 lb dropper-loop / bottom-gangion class, level-wind reel | The bread-and-butter — a legit 30-lb-class rig; they eat squid readily and school, so keep dropping |
-| Scratchy marks through the whole column | **[Sliding-sinker rig](../techniques/sliding-sinker.md)** with squid | 30 lb bait class | Covers **every level of the column** from surface to bottom — the go-to at the islands when the marks aren't pinned to the bottom (6-8KfjEg0x8) |
+| Scratchy marks through the whole column | **[Sliding-sinker rig](../techniques/sliding-sinker.md)** with squid | 30 lb bait class | Covers **every level of the column** from surface to bottom — the go-to at the islands when the marks aren't pinned to the bottom (`6-8KfjEg0x8`) |
 | Want to cover water / no bait aboard | **Lead-head slug or small jig** on the bottom | 3 oz lead-head / light iron class | Same bottom presentation as the reds; whitefish will chase a slug or [gulp grub](../lures/soft-plastic-swimbaits.md) |
 
 ## Gear summary (class terms)

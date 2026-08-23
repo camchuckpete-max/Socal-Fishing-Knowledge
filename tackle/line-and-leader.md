@@ -257,7 +257,7 @@ merged into one spec, and set against the bait-size doctrine in
 
 ### Braid construction — hollow vs solid, smooth vs rough
 
-Hollow-core and solid (low-carrier) spectra differ in rigging/splicing
+Hollow-core and solid (`low-carrier`) spectra differ in rigging/splicing
 options, typical line-class pairing, diameter/bait-swim feel, and kelp-cutting
 tooth — detail spun out to
 [hollow vs solid spectra](spectra-hollow-vs-solid.md), including the
@@ -299,7 +299,7 @@ Mono's stretch and its habit of staying on the spool are the point:
   [bluefin](../species/bluefin-tuna.md) setup: at least **400 yards** of line,
   ideally over **80 lb backing**, with a **50 or 60 lb mono top shot** for the
   little bit of forgiveness when the fish eats and you come tight, then a short
-  fluoro leader (EyB98RuKfeQ).
+  fluoro leader (`EyB98RuKfeQ`).
 - **Internal line on spreader-bar / heavy troll setups** — mono's stretch belongs
   inside those rigs; see [rod & reel selection](rod-and-reel-selection.md) and the
   trolling lure notes.
@@ -382,7 +382,7 @@ Fluoro does two different jobs; keep them separate:
 
 - **Fluoro leader** (bulk spools of true leader material) is the stealth +
   abrasion section at the business end. It is a **must** on finicky SoCal
-  pelagics — "you won't get bit without it" on bluefin (EyB98RuKfeQ). Even
+  pelagics — "you won't get bit without it" on bluefin (`EyB98RuKfeQ`). Even
   reaction bites want it for abrasion, just shorter and heavier.
 - **Fluoro as main line** (100% fluoro line, cheaper in bulk) fills a reel for
   **small hard baits** — Lucky Craft 100-pointer / deep divers, jerkbaits. It
@@ -515,7 +515,7 @@ Fluoro does two different jobs; keep them separate:
 ## Line ↔ leader matching — the actual combo logic (Academy Ep16)
 
 The right combination is decided by **what abrades you** and **what you need to be
-able to break off** (aXF0bxAFtU0):
+able to break off** (`aXF0bxAFtU0`):
 
 - **Fishing structure you can tangle in** (kelp, eel grass, anchor lines, rip-rap)
   → **leader HEAVIER than the braid.** All the abrasion happens at the last foot
@@ -532,14 +532,14 @@ able to break off** (aXF0bxAFtU0):
   [rockfish leader line](tackle-express-rockfish-leader-line.md).
 - **Leader size climbs with target, not calendar:** on offshore top shots, 15–40 lb
   fluoro covers paddy fish and small-to-mid tuna; 80 lb and up is the workhorse
-  for bigger bluefin (xPFm_ZV2PZU).
+  for bigger bluefin (`xPFm_ZV2PZU`).
 - **Regional floor — Cedros Island, Baja (resident yellowtail):** because a
   home-guard 40+ lb yellowtail can turn up anywhere around the island (even a
   30-pounder puts you in the rocks), a Cedros trip's **line-class floor is
   40 lb**; **50 lb** covers most everything fished that trip (short bait
   leaders and surface iron), with **80 lb** carried as a just-in-case class
   for black sea bass and bigger white seabass (Ray Sharifi, Dirty Hookers,
-  WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). See
+  WE643Fue1_A, 2022-09; `ray-sharifi` registered (`Baja-scoped`) — medium confidence). See
   [yellowtail](../species/yellowtail.md).
 - **Second Cedros data point — 80–100 lb fielded as standard, not backup
   (StokedOnFishing, 2021-10 trip, 2022-06-05 upload, Cedros Island, Baja —
@@ -554,7 +554,7 @@ able to break off** (aXF0bxAFtU0):
 - **Mono over fluoro for surface iron (attributed preference):** one Baja/Cedros
   angler runs straight monofilament rather than fluorocarbon specifically for
   surface iron fishing — fluoro for everything else on the trip — with no
-  reason stated in source (Ray Sharifi, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Kept as a standalone data point on
+  reason stated in source (Ray Sharifi, WE643Fue1_A, 2022-09; `ray-sharifi` registered (`Baja-scoped`) — medium confidence). Kept as a standalone data point on
   material choice for [surface iron](../techniques/surface-iron.md), not
   reconciled with the general top-shot guidance above.
 - **Wire leader over rock structure — Gonzaga Bay, Sea of Cortez (Baja):** for

@@ -333,7 +333,7 @@ fish around the boat once you're on them.
   free chunks and the fish refuse it.
 - **Fishing too heavy on pressured reef fish** — big line, big hooks, swivels
   and beads spook fish that have been caught around for years; go straight-tied
-  and shot-sized-to-current instead (f4qYtHACGyk).
+  and shot-sized-to-current instead (`f4qYtHACGyk`).
 
 <!-- backlinks:start -->
 ## Linked from

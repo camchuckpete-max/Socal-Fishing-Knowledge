@@ -51,7 +51,7 @@ below that it shouldn't be merged into either.
   does not narrate tying to a hook eye specifically — unresolved whether his
   clip shows the hook-tie application Billy's does, or just the knot mechanic
   in isolation.
-- **Paraphrased mechanic — Billy (Bo5Fj-XuWHo), as far as the audio alone
+- **Paraphrased mechanic — Billy (`Bo5Fj-XuWHo`), as far as the audio alone
   resolves:** take the running line and make two wrapping passes down toward
   the hook, taking care the two passes don't cross each other. On what would
   be a third such pass, instead wrap the tag around the **top two strands two

@@ -20,7 +20,7 @@ A stale report is not today's water.
 ## Santa Anas open the northern islands
 
 **Santa Ana events flatten the NW outer islands and open Rosa / Miguel**
-(10/20, 11/23/22). A Santa Ana is the trigger to run Santa Rosa / San Miguel for
+(`OYOda6T3f-8`, `Z3rZqy2Pi8E`). A Santa Ana is the trigger to run Santa Rosa / San Miguel for
 shallow rockfish and lings — the one wind that lays that water down. The
 report speaker's go/no-go rule (11/23/22 Bight report, Z3rZqy2Pi8E): **2+
 consecutive days of no-wind or Santa Anas** before committing to a Rosa/Miguel
@@ -73,7 +73,7 @@ This is a **flagged conflict, kept side by side** (both from Erik):
   shoreline is best; current running **into the beach** is marginal; current
   running **off the beach** is dead. See
   [current structure](../conditions/current-structure.md).
-- **Late-fall exception (11/23/22):** at San Clemente Island the bass bite
+- **Late-fall exception (`Z3rZqy2Pi8E`):** at San Clemente Island the bass bite
   **required current running *into* the island with off-color water.**
 
 Resolution: encode **parallel as the prior, into-the-beach as a viable
