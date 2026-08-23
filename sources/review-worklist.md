@@ -226,7 +226,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-baja-light-setup-yellowtail-insurance.md | light | pending |  |  |
 | tackle/tackle-express-bates-edc-100-reel.md | light | pending |  |  |
 | tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md | light | pending |  |  |
-| tackle/tackle-express-casting-reel-for-seabass-yellowtail.md | light | pending |  |  |
+| tackle/tackle-express-casting-reel-for-seabass-yellowtail.md | light | done |  | light transform verified: style/cites/structure only, full conservation, check-note OK |
 | tackle/tackle-express-cedros-four-rod-quiver.md | light | pending |  |  |
 | tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md | light | pending |  |  |
 | tackle/tackle-express-charter-bait-tank-hook-kit.md | light | pending |  |  |

@@ -3,29 +3,28 @@ type: tackle
 tags: [casting-reel, baitcaster, spinning-rod, white-seabass, yellowtail, tackle-express]
 sources: [QEmxUIGmKbo]
 confidence: medium
+layout: v2
 ---
 
 # Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)
 
-Tackle Express, "Ditch the heavy tuna gear for your next trip!," `QEmxUIGmKbo`,
-uploaded 2026-07-08 — a 55-second tackle-counter clip. `tackle-express` is an
-**unregistered** channel, single mention — **medium** confidence.
+A casting reel — not heavy tuna gear — is the reel for targeting
+[white seabass](../species/white-seabass.md) and
+[yellowtail](../species/yellowtail.md): anglers routinely show up for these
+fish with reels heavy enough to fish bluefin tuna, more gear than the
+application needs regardless of whether bait is running good that trip
+(`QEmxUIGmKbo`). What the lighter setup buys is the cast — being able to
+"huck" the lure out, on either a casting reel or a spinning rod, is more
+effective and makes "a way better, funner day of fishing" (`QEmxUIGmKbo`).
 
-## What's claimed
+## Recommendation
 
-- **Observation:** a lot of anglers targeting [white seabass](../species/white-seabass.md)
-  and [yellowtail](../species/yellowtail.md) show up with reels heavy enough to
-  fish bluefin tuna — called out on camera as more gear than the application
-  needs, independent of whether bait is running good that trip.
-- **Recommendation: a casting reel.** Named examples on camera: a **Daiwa
-  Lexa**, a **Penn Fathom**, or Shimano's **Tranx**. Framed as broadly
-  user-friendly options rather than a single-model pick.
-- **Spinning rods are also a good option**, specifically for anglers **new to
-  fishing** or not yet comfortable with conventional reels.
-- **Stated reason:** being able to cast ("huck") the lure out — on either a
-  casting reel or a spinning rod — is what makes the day better: more
-  effective, and "a way better, funner day of fishing." The clip doesn't name
-  a specific lure, retrieve, or rig this pairs with.
+1. **Casting reel** — broadly user-friendly options, not a single-model pick:
+   **Daiwa Lexa** / **Penn Fathom** / **Shimano Tranx** (`QEmxUIGmKbo`).
+2. **Spinning rod** — the option for anglers new to fishing or not yet
+   comfortable with conventional reels (`QEmxUIGmKbo`).
+
+The clip names no specific lure, retrieve, or rig this pairs with.
 
 ## Related
 
