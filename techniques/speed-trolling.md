@@ -3,6 +3,8 @@ type: technique
 tags: [bluefin, trolling, speed-trolling, offshore]
 sources: [z1CmWHqe9uk, cameron]
 confidence: high
+regions: [socal-bight]
+waters: [open-ocean, bank]
 ---
 
 # Speed Trolling
@@ -81,8 +83,8 @@ live in the router: [bluefin trolling](../species/bluefin-trolling.md).
 
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Kite Fishing](kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Trolling](trolling.md)
 <!-- backlinks:end -->

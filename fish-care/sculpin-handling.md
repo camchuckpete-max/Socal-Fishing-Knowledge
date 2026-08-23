@@ -1,7 +1,7 @@
 ---
 type: fish-care
 tags: [sculpin, scorpionfish, venomous, handling, safety, bottomfish]
-sources: [ty8FtA3Y2bA]
+sources: [ty8FtA3Y2bA, J40VxLNuZhk]
 confidence: medium
 ---
 
@@ -41,6 +41,25 @@ All of these spines carry bacteria. A puncture is not described as lethal, but
 is described as intensely, "phenomenal[ly]" painful — enough that "you'll wish
 you were dead." (`ty8FtA3Y2bA`)
 
+## On-deck practice & the broader rockfish caution
+
+- **Deckhands catch it first.** On SoCal party boats, deckhands intercept
+  sculpin coming over the rail "95% of the time" and call it out so anglers
+  don't touch it themselves (Tackle Express, `J40VxLNuZhk`, 2026-04-05;
+  unregistered channel — medium confidence).
+- **Blanket rule as taught: avoid all spines on all rockfish.** Tackle Express
+  frames the coating on general SoCal rockfish spines as a stinging **mucus**
+  rather than venom — unpleasant if you get stuck, but not the same hazard
+  class — and singles out sculpin (California scorpionfish) as the one
+  species with genuinely venomous spines, bad enough to "ruin your day." The
+  stated advice is to treat every rockfish spine as off-limits rather than try
+  to sort venomous from merely unpleasant on deck (Tackle Express,
+  `J40VxLNuZhk`, 2026-04-05; unregistered channel — medium confidence). This
+  sits beside, not in place of, the "mild venom" framing for rockfish dorsal
+  spines generally in [rockfish & lingcod](../species/rockfish-lingcod.md) —
+  two sources describing the same general-rockfish spine hazard differently
+  (mucus vs. mild venom), kept side by side rather than reconciled.
+
 ## Keep size & table quality
 
 - **Regulatory (California / CDFW, as of the 2022-04-16 source — verify
@@ -52,5 +71,8 @@ you were dead." (`ty8FtA3Y2bA`)
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Dehooking & Release Handling](dehooking-and-release.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 <!-- backlinks:end -->

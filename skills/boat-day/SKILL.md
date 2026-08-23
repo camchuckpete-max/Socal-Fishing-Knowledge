@@ -14,11 +14,24 @@ bundle** (the KB decision layer) at plan time.
 
 1. Pull conditions from BightSST — per fishing zone and along the transit
    route, observed AND forecast.
+1b. **Set the day's `{regions, waters}` envelope before opening any species
+   note.** Derive it from the launch point and the boat's range, using
+   `resources/knowledge/locations/regions.md` for the vocabulary
+   (`regions`: socal-bight | baja-pacific-north | baja-pacific-south |
+   cortez-north | cortez-south — `waters`: bay-harbor | nearshore-coast |
+   island | bank | open-ocean). If the bundled profile's `range_nm` /
+   `sea_state_max_ft` are null, **ask** rather than assuming. Then read the
+   matching `resources/knowledge/locations/` notes for the structure being
+   fished.
 2. Apply `resources/knowledge/seasonal/` priors and
    `resources/knowledge/conditions/` layers (regimes, moon, tide windows,
    water color/temp).
 3. Enter the `resources/knowledge/species/` routers to map situation →
-   technique → gear class.
+   technique → gear class — **filtered to the step-1b envelope.** A note whose
+   `regions` doesn't contain the day's region, or whose `waters` doesn't
+   intersect the day's waters, is **never offered**. If nothing in the
+   envelope fits, say so rather than substituting something out of region.
+   (The generated index badges `**[Baja only]**` / `**[SoCal only]**`.)
 4. Resolve gear. Check `resources/INDEX.md` for whether a profile is bundled:
    with a profile under `resources/profile/`, resolve gear classes to the
    owned rods/reels/lures and respect the boat envelope (range, sea-state,

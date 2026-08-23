@@ -3,6 +3,8 @@ type: technique
 tags: [ned-rig, finesse, spotted-bay-bass, bays, mushroom-head, trd]
 sources: [um5MAeCjNDg, 6L8nIFeqvkw]
 confidence: medium
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast]
 ---
 
 # Ned Rig
@@ -117,7 +119,7 @@ Light bay finesse / spinning class — see
 ## Linked from
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
-- [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Wacky Rig — Reading the Bite in a Slack Line](wacky-rig.md)
 <!-- backlinks:end -->

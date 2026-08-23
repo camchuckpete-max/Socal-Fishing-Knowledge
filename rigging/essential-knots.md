@@ -1,8 +1,10 @@
 ---
 type: rig
-tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, bimini-twist, surgeons-knot, mono-to-fluoro, worm-knot]
-sources: [SwXh9Cwi4e0, hF4dFlSB12s, YGLFn8lPMu0, LPhnsEamRwI, 48ZFXnCTTQE, VpW91AKOFVQ, G6YRT4HNxr8, VsUUBICiBzQ, zVIfArUrpDI, RbqOKkINSCM, fK2AT460xW4, jahddqzKhLY, eEcRPEoG4DQ, 06lxuie5cZQ, tzeXXPAjqUY, 1BH7nQdIg5Q, NkjjDf6XPcE, AT6zmDYxjW4, mpcSgkQvIzg, i3qIAHW-SJc, _ZThckj2TIM, ftEvyfwjZFU]
+tags: [palomar, san-diego-jam, rp-knot, uni-to-uni, seaguar-knot, loop-knot, connection-knot, terminal-knot, improved-clinch, surgeons-knot, mono-to-fluoro, worm-knot]
+sources: [SwXh9Cwi4e0, hF4dFlSB12s, LPhnsEamRwI, 48ZFXnCTTQE, G6YRT4HNxr8, eEcRPEoG4DQ, NkjjDf6XPcE, mpcSgkQvIzg, 3gykKyPdOvA, qtCZAB4EBs4, zKovnvOwlFc, Ga8Z1PyBqdE, SK2M7L2vA1s]
 confidence: medium
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Essential SoCal Knots
@@ -22,37 +24,97 @@ fluoro leader, braid main line — and feed the terminal rigs in
   the San Diego jam for the heavy stuff. Works for lures and live baits alike.
 - **San Diego jam (terminal)** — the SoCal go-to hook/lure knot, trusted from
   [calico bass](../species/calico-bass.md) up to 200 lb
-  [bluefin](../species/bluefin-tuna.md). Tie this when strength matters.
+  [bluefin](../species/bluefin-tuna.md). Tie this when strength matters. Kept
+  as its own note, with a dozen-plus sourced wrap-count/mechanic variants and
+  the deliberately-weak sinker-connection variant: [San Diego Jam
+  Knot](san-diego-jam-knot.md).
 - **RP knot (connection)** — the preferred braid-to-fluoro leader join here;
   small enough to pass the guides. Use it to build a leader onto the braid main
-  line.
+  line. Four corroborating sources including a full wrap-by-line-ratio rule and
+  a step-by-step tying/cinching/trimming demonstration are kept as their own
+  note: [RP Knot](rp-knot.md).
+- **PR knot (connection)** — a different, unrelated braid-to-leader tie despite
+  the near-identical name: tied with a weighted PR bobbin tool instead of by
+  hand, offered as an alternative to the [FG knot](fg-and-albright.md#parameters--judgment)
+  rather than to the RP knot above. Kept as its own note: [PR Knot](pr-knot.md).
+- **Slim beauty knot (connection)** — another braid-to-topshot splice covering
+  the same low-profile, guide-passing territory as the RP knot above, by a
+  different construction (a uni knot on the top-shot side plus a multi-wrap
+  pass from the spectra tag) — kept as its own note:
+  [Slim Beauty Knot](slim-beauty-knot.md).
 - **Uni-to-uni (connection)** — the repair knot: splice new braid (or fluoro)
   onto the spool after a break-off costs you 150 yards, or join braid to fluoro
-  in a pinch, without re-spooling.
+  in a pinch, without re-spooling. A heavier-wrap, tackle-bench variant of the
+  same uni-knot family — splicing mono to spectra on 80 lb class with a much
+  higher wrap count and a dedicated cinching tool — is kept as its own note:
+  [Tony Pena Knot](tony-pena-knot.md).
 - **Seaguar knot (connection)** — purpose-built to join **monofilament to
   fluorocarbon** (not braid to fluoro — that's the RP knot's job above). The
   go-to for building a mono-main-line-to-fluoro-bite-guard [flyline](../techniques/flyline.md)
-  rig; see the sizing logic there.
+  rig; see the sizing logic there. Five sources describing several
+  same-name/different-mechanic variants of this tie are kept as their own
+  note: [Seaguar Knot](seaguar-knot.md).
 - **Loop knot (terminal)** — ties a hook **without a solid ring** in its eye,
   when you don't have (or don't want) a ringed hook.
+  A different named loop-forming knot, tied for the opposite reason — a
+  free-**sliding** loop rather than a fixed one, so a ringed hook can pivot on
+  it — is kept as its own note: [Perfection Loop
+  Knot](perfection-loop-knot.md).
 - **Improved clinch (terminal)** — a single-pass hook tie fast enough to retie
-  by the dozens through a bite; see the retie cadence below.
+  by the dozens through a bite, with a naming quirk (several presenters call
+  the identical mechanic "San Diego jam" or "fisherman's knot") large enough
+  to need its own room — kept as its own note: [Improved Clinch
+  Knot](improved-clinch-knot.md).
+- **Springer knot (terminal)** — another named hook tie for **heavier line**,
+  mechanically distinct from the Palomar/San Diego jam family above, from a
+  single thin tackle-shop clip — kept as its own note: [Springer
+  Knot](springer-knot.md).
 - **Bimini twist (double-line/loop)** — ties a doubled section of line rather
   than joining a hook or two separate lines; used to build the reel-end loop
   for a [wind-on leader](wind-on-leader.md) and as the standing double-line
   ahead of a topshot on rail-rod big-tuna setups (line-class ladder in
   [rod & reel selection](../tackle/rod-and-reel-selection.md)).
   A dedicated 100%-strength double-line knot, not a terminal or line-to-line
-  connection knot like the others above.
+  connection knot like the others above. Two sourced tying approaches with
+  different turn-count philosophies are kept as their own note: [Bimini
+  Twist](bimini-twist.md).
 - **Surgeon's knot (loop)** — the simplest loop-forming knot in this list;
   used to tie the loop for a **single-hook rockfish [dropper
   loop](../techniques/dropper-loop.md)** rig.
+  - **Also fished as a mono-to-fluoro connection knot, an attributed
+    alternative to the Seaguar knot above.** Fourteen SearcherSportfishing
+    citations spanning 2013–2024, naming several different turn counts for
+    the same basic tie (some presenters call it "surgeon's loop" instead of
+    "surgeon's knot") — kept as its own note per the process rule to prefer a
+    specific note over growing this one further: [Surgeon's Knot —
+    Mono-to-Fluorocarbon Leader
+    Connection](surgeons-knot-mono-to-fluoro.md).
+  - **Scaled up for giant yellowtail on long-range trips:** the same
+    doubled-overhand family, tied heavier (80–100 lb) and much larger
+    (about a 2 ft finished loop) as a general terminal-tackle attachment
+    point — see [Surgeon's Loop](surgeons-loop.md) for the dedicated build,
+    kept as its own note rather than grown here.
+  - **Cut off-center instead of left intact:** a further variant ties the same
+    3-to-4-turn surgeon's loop, then cuts the loop itself unevenly into a
+    short leg (hook) and a long leg (sinker) rather than tying the hook onto
+    an intact loop — see [Cut-Loop Surgeon's Loop](cut-loop-dropper.md) for
+    the dedicated build, kept as its own note rather than grown here.
 - **Worm knot (connection)** — ties a monofilament topshot directly onto the
-  loop of an already-tied Bimini twist double line; the specific connection
-  knot for the "topshot on rail-rod big-tuna setups" use case named in the
-  Bimini twist entry above. Its other selling point is speed of field
-  repair: because the Bimini's twisted section stays intact when this knot
-  is cut away, it's the fast fix for a mid-trip break-off.
+  loop of an already-tied [Bimini twist](bimini-twist.md) double line; the
+  specific connection knot for the "topshot on rail-rod big-tuna setups" use
+  case named in the Bimini twist entry above. Its other selling point is
+  speed of field repair: because the Bimini's twisted section stays intact
+  when this knot is cut away, it's the fast fix for a mid-trip break-off.
+- **John Collins knot (connection)** — another named braid-to-mono/fluoro
+  splice, mechanically distinct from the RP knot and uni-to-uni above (a
+  matched 9-up/9-down wrap, exiting back up through the loop rather than
+  down through it) — kept as its own note: [John Collins
+  Knot](john-collins-knot.md).
+- **Dropper-loop knot & spider hitch (loop, bottom rig)** — the two
+  loop-forming knots used to build a [dropper loop](../techniques/dropper-loop.md)
+  rig's hook loop, not general terminal or connection knots like the rest of
+  this list — kept as their own note: [Dropper-Loop Knot & Spider
+  Hitch](dropper-loop-knot-and-spider-hitch.md).
 
 ## Parameters & judgment
 
@@ -66,7 +128,7 @@ fluoro leader, braid main line — and feed the terminal rigs in
   a San Diego jam rather than a Palomar for this same bite-through-the-knot
   reason — full reasoning there.
   **Tying a Palomar over a whole rig, not just a hook (Roman Castro,
-  G6YRT4HNxr8, 2018-04-17; unregistered channel — medium confidence):** the
+  G6YRT4HNxr8, 2018-04-17; `roman-castro` registered, single mention — medium confidence):** the
   same knot also ties directly onto a bulky multi-arm harness — his example
   is a [swimbait umbrella/A-rig](../techniques/swimbaits.md#umbrella-rig-setup-bay-bass-roman-castro).
   He and his fishing partner considered a uni knot for the job but he
@@ -77,71 +139,40 @@ fluoro leader, braid main line — and feed the terminal rigs in
   overhand, then work the slack back up to the main line before cinching
   down — a small tag is left to trim and very little line is lost taking up
   the loop.
-- **San Diego jam:** through the eye and back to make a doubled section, wrap
-  **6 times** down the standing line, pass through the lower loop and then through
-  the upper loop you've held, lubricate, and slide the coils down tight to the
-  eye before setting. Reliable across the whole SoCal range.
-  **Tag length + a second, independent 6-wrap corroboration (StokedOnFishing,
-  `1BH7nQdIg5Q`, 2020-02-11; unregistered channel — medium confidence):** a
-  separate, shorter StokedOnFishing clip on the same doubled-through-the-eye
-  tie names a working tag length of about **15 in**, wrapped around the
-  finger before wrapping down the standing line **6 times** — the same wrap
-  count as above, from a different video (not a re-cut), so it stands beside
-  rather than substitutes for that figure. Mechanic as paraphrased: pass line
-  through the hook eye, wrap the tag around a finger to hold the loop, wrap
-  down toward the hook 6 times, pass the tag through the resulting lower loop
-  and then through the finger loop, cinch by pulling the tag, then slide the
-  seated knot down to the hook eye and trim the tag. No SoCal-specific
-  parameters (line class, species, region) given in this clip.
-  **Wrap-count variant (Scotty, Brothers Sportfishing, via Roman Castro,
-  VpW91AKOFVQ, 2020-01-28; capt-scotty-brothers registered — high
-  confidence):** ties the same knot with **5 wraps** rather than 6, reasoning
-  that more wraps (he cites 7 as what some anglers use) raise the odds of a
-  wrap crossing over itself when tying quickly under time pressure. Kept side
-  by side with the 6-wrap figure above rather than reconciled — wrap count in
-  this range reads as angler preference, not a fixed number. **Why lubricate
-  before cinching (mechanism, same source):** any slack left uncinched in the
-  wraps is where the knot breaks when a fish comes tight and shock-loads it;
-  lubricating (wet the line, or a smear of lip balm/chapstick) lets the coils
-  slide down snug under friction instead of burning/damaging the line as they
-  seat — the reasoning behind wetting knots generally, stated here explicitly
-  for the San Diego jam.
+  **Line-material and loop-length guidance, general (Tackle Express,
+  `SK2M7L2vA1s`, 2024-12-06; unregistered channel — medium confidence):** the
+  presenter recommends monofilament or fluorocarbon over braid for this tie —
+  braid "has a more likely reason to slip on you" — though the demo itself
+  uses braid for visibility. He also states, in his own words, that "if
+  you're going to be going anything larger, whether it be a long lure or
+  anything larger, you will have to compensate and make that loop longer" to
+  fully wrap around it — the same general principle (size the loop to what's
+  passing through it) as Roman Castro's whole-rig Palomar logged just above,
+  though Castro's citation doesn't state a "longer loop" rule in those words.
+- **San Diego jam** — through the eye and back to make a doubled section, wrap
+  6 times down the standing line (or a single pass for the live-bait
+  version), pass through the lower loop and then the upper loop, lubricate,
+  and slide the coils down tight before setting. A dozen-plus sourced
+  wrap-count variants (5–7 wraps depending on presenter), the "double jam
+  knot" naming/live-bait-vs-lure rule, and a deliberately-weak
+  sinker-connection variant are kept in their own note rather than growing
+  this one further: [San Diego Jam Knot](san-diego-jam-knot.md).
 - **RP knot:** make a doubled line in the fluoro, pass the braid up through it,
-  wrap the braid **6 times up and 6 times back down**, and exit the loop the same
-  way you entered. Lubricate, draw slow, then a quick snap to seat. Commonly tied
-  to ~80 lb by the book, but it holds well beyond — tied clean to 100 lb and even
-  ~130 lb. Small profile passes the guides. Wrap count is personal preference —
-  some tiers go 8 or 10 wraps instead of 6 (YGLFn8lPMu0). For extra security
-  before cinching, pass the braid tag back through the exit loop one more time
-  first. Wet the knot (water is fine), then massage/work the coils down snug
-  before the final hard cinch — watch for the braid to darken and the fluoro to
-  go translucent as the tell that it's seated; use a line-gripping puller (wood
-  dowel + tape) rather than bare hands on heavier tests to avoid line cuts.
-  Optionally finish by tying the fluoro tag off around the main braid with a
-  3-wrap uni knot, which cones the connection for a smoother pass through the
-  guides — skippable when re-tying in a hot bite (YGLFn8lPMu0).
-  **Observed** (Dirty Hookers, date unstated — recalled from an earlier,
-  unlinked video): presenter recounts landing an estimated triple-digit
-  (100 lb+) bluefin on 65 lb braid to 80 lb fluoro tied with this knot,
-  locked drag, no knot failure (YGLFn8lPMu0).
-  **Full-name + tag-length corroboration (StokedOnFishing, `AT6zmDYxjW4`,
-  2020-05-06; unregistered channel — `medium` confidence):** a separate,
-  short StokedOnFishing clip (presenter John, at a tackle shop) names this
-  knot in full as the **"Royal Polaris knot"** — also called the "R-P knot"
-  (the **RP** name used throughout this note) and the **"Roy Rose knot."**
-  Mechanic matches the entry above: form a loop in the fluoro/mono, bring
-  the braid up through it with about **12 in** of tag, wrap the braid **6
-  times** down the standing fluoro, then wrap back **6 times** toward the
-  loop and exit the same direction it entered — a second, independent
-  corroboration of the 6-and-6 wrap count and same-direction exit already
-  logged above. Also corroborates the extra-security pass: at the critical
-  exit point he passes the tag through **twice** ("I go once and then I go
-  another time to give it a lock") before cinching, matching the "pass the
-  braid tag back through the exit loop one more time first" option already
-  noted. To seat: pull the tag end and the fluoro/mono main line together
-  tight first, then release the tag and pull the two main lines to finish
-  the cinch. No SoCal-specific parameters (line class, species) given in
-  this clip.
+  wrap the braid **6 times up and 6 times back down** (personal-preference range
+  seen 5–11 depending on line-diameter ratio and slickness), and exit the loop
+  the same way you entered. Lubricate, draw slow, then seat with a firm cinch.
+  Commonly tied to ~80 lb by the book, but it holds well beyond — tied clean to
+  100 lb and even ~130 lb. Small profile passes the guides.
+  **Naming conflict, not reconciled,** with [John Collins Knot](john-collins-knot.md)
+  (different wrap counts — 6-up/6-down here vs. 9-up/9-down there) despite a
+  SearcherSportfishing presenter (Pete Gray, Tackle Tip Thursday Vol. 150,
+  `b-oixz7pgAo`, 2021-06-10) stating on camera that "RP knot" and "John
+  Collins knot" are the same tie, both named for its
+  wheelhouse-of-the-*Royal-Polaris* origin.
+  The wrap-by-ratio rule, lubrication/cinch/trim technique, a step-by-step
+  tying demonstration, corroborating full-name variants ("Royal Polaris
+  knot," "Roy Rose knot"), and a landed-bluefin observation are kept in their
+  own note rather than growing this one further: [RP Knot](rp-knot.md).
 - **Uni-to-uni:** lay the two lines parallel, tie a uni on each — a loop with
   **6 wraps** around both strands — cinch each into a neat stack of coils, then
   draw the two knots together until they jam. Works braid-to-braid and
@@ -161,102 +192,80 @@ fluoro leader, braid main line — and feed the terminal rigs in
   and trim the tag ends. The **3–4 wrap** count here is lower than the 6-wrap
   figure above — read as the same angler-preference range already noted
   elsewhere in this note for wrap counts (e.g. the RP knot's 6-vs-8-vs-10 and
-  the San Diego jam's 5-vs-6-vs-7), kept side by side rather than reconciled
-  to one number.
-- **Seaguar knot (Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE,
-  2023-11-01; `medium` confidence — Cesar is a registered voice for
-  mechanism/parameter doctrine, but this is a single mention: this is the only
-  Cesar video extracted so far that covers this knot, so it isn't yet repeated
-  doctrine; would reach `high` if corroborated in another of his logged,
-  still-pending videos):** lay the mono tag and the ~3 ft fluoro tag running in
-  **opposite directions** from each other, hold the two lines together, and
-  lubricate the section you're about to work (a smear of chapstick — leave the
-  part you're gripping dry so it doesn't slip in your hands). Cross the working
-  end away from you, pinch the crossover, and feed the tag back through the
-  loop it just formed, going the **same direction the loop was made**, for
-  **two and a half turns** ("One, two, and a half turns" per the transcript) —
-  this is the part that makes it a distinct knot from a uni or surgeon's; it
-  isn't a simple overhand or a wrap-and-jam. Bring
-  the tag through, seat it, then pull the two main lines and the two tags down
-  to cinch. Rated by the presenter as very strong under hard pulling (tested by
-  hand on camera) and, in his stated preference, superseding both the uni-to-uni
-  (his prior go-to for ~4 years) and the surgeon's knot (his more recent
-  ~1.5-year go-to) as the fastest and strongest mono-to-fluoro connection he's
-  tied. **Judgment:** built specifically as a **bite-guard connection** — see
-  [flyline](../techniques/flyline.md) for the line-sizing logic it serves;
-  it is not documented here as a general leader-to-main-line knot for braid
-  systems (use the RP knot above for that).
-- **A second, separate mono-to-fluoro connection knot (StokedOnFishing,
-  `06lxuie5cZQ`, 2018-11-14; unregistered channel — `medium` confidence):**
-  the on-camera audio for this one is too garbled to confirm a name, so it is
-  **not** assumed to be the Seaguar knot above — treat as a distinct tie
-  until corroborated. Paraphrased mechanic (wrap counts ASR-uncertain, read
-  as approximate rather than exact): form a loop backward in the working
-  end, pass fingers through it to grab the working line, wrap it back
-  several times, draw everything through snug, then finish by working the
-  tag through a figure-eight pass before cinching. **Judgment — trimming the
-  tag, general to any knot:** clip the tag close with a clamp/nail-clipper-
-  type tool rather than biting it off with your teeth — biting can nick and
-  weaken the line. As an alternative to a flush trim, leave a small loop in
-  the tag end instead of cutting it fully off; looped over a line
-  keeper/tackle-organizer clip it has no effect on the main connection's
-  strength. **Flag:** wrap counts throughout this clip are ASR-uncertain
-  ("go one, three... three, pull back" in the transcript), and the product
-  name for the tag-loop keeper is also ASR-garbled and not carried; no
-  SoCal-specific parameters (line class, species, region) are given in this
-  clip.
-- **A third StokedOnFishing mono-to-fluoro tie, this one explicitly named on
-  camera (StokedOnFishing, `tzeXXPAjqUY`, 2020-02-05; unregistered channel —
-  `medium` confidence):** a much shorter, later clip from the same channel as
-  the unnamed tie directly above, this time stating outright "this is called
-  the Seaguar knot" for a mono-mainline-to-fluoro-leader connection.
-  Paraphrased mechanic: lay the mono main line and the fluoro leader together
-  in parallel, grab the pair at the midpoint, form a loop, and wrap the loop
-  back around itself (wrap count ASR-uncertain — "three times, four times" in
-  the transcript, read as approximate rather than exact); reach through the
-  loop, grab the fluoro leader and its own tag end together, and draw them
-  through — the presenter describes the result as "almost like a figure
-  eight" — then pull the main line and fluoro together to cinch. **Flag —
-  same name, different mechanic than the Seaguar knot documented above:**
-  this parallel-lay, midpoint-loop, wrap-back-and-draw-through construction
-  does not match the opposite-direction-tag-ends, two-and-a-half-turn
-  mechanic Cesar names as the Seaguar knot in `48ZFXnCTTQE` above — two
-  sources naming mechanically distinct ties the same thing, the inverse of
-  the San Diego jam / fisherman's knot split logged further below (one
-  mechanic, two names) in this same note. Kept side by side under the
-  shared name rather than reconciled. **Flag —
-  possible same tie as the unnamed StokedOnFishing knot above:** the
-  loop/wrap-back/figure-eight-draw-through shape here reads similar to the
-  unnamed `06lxuie5cZQ` tie logged above (same channel, different upload
-  date, neither a re-cut of the other), raising the possibility that clip is
-  also a Seaguar knot despite its garbled audio — kept as a flagged
-  possibility rather than merged or asserted, since neither clip's wrap count
-  is confirmed exactly enough to compare mechanically. Confidence stays
-  `medium` (single mention of this specific named tie; unregistered channel;
-  same-channel repetition doesn't independently corroborate per the
-  re-cut/duplication rule).
-- **A fourth StokedOnFishing mono-to-fluoro tie, the earliest-dated of this
-  group (StokedOnFishing, `i3qIAHW-SJc`, 2016-08-08, "Top Gun 80 Epic 5 Day,
-  part 2"; unregistered channel — `medium` confidence):** framed on camera as
-  a cost-saving move — leader material is expensive, so leave about **a
-  foot** of monofilament above the connection point before pinching in the
-  fluorocarbon, "cuz that's the expensive stuff." Paraphrased mechanic (wrap
-  count ASR-uncertain — "one two three" in the transcript, read as
-  approximate): form a loop backward in the working end, pass fingers through
-  the loop to grab the line, wrap the tag back around it a few times, then
-  pull it back through and cinch — the presenter names the resulting shape a
-  "figure eight." **Flag — third same-channel StokedOnFishing mono-to-fluoro
-  tie logged in this note, all sharing a loop/wrap-back/figure-eight
-  description:** this one, the unnamed `06lxuie5cZQ` tie (2018-11-14), and the
-  explicitly-named Seaguar-knot tie in `tzeXXPAjqUY` (2020-02-05) above all
-  describe a similar loop-then-wrap-then-figure-eight shape, but this 2016
-  clip predates both, doesn't name the knot on camera, and its own wrap count
-  isn't confirmed exactly enough to compare mechanically — kept as a third,
-  unresolved data point in the same family rather than merged into either.
-  No SoCal-specific parameters (line class, species, region) beyond the
-  "about a foot" spacing are given in this clip. A second technique from the
-  same clip — hanging a sinker off this knot's tag end — is logged in
-  [rubber-band deep rig](rubber-band-deep-rig.md#tag-end-sinker-attachment-off-the-mono-to-fluoro-knot-stokedonfishing).
+  the [San Diego jam's](san-diego-jam-knot.md) 5-vs-6-vs-7), kept side by side
+  rather than reconciled to one number.
+  **Third data point, 5-wrap-per-side rule, same fluoro-to-mono application,
+  registered channel (SearcherSportfishing, "Tackle Tip Thursday Vol. 93
+  (Double Uni Knot)," `qtCZAB4EBs4`, 2020-04-02; `searcher-sportfishing`
+  registered channel, single mention on this specific knot — medium
+  confidence):** presenter not identified on camera. Paraphrased mechanic:
+  leave about **12 in** of tag on each side of the fluorocarbon and
+  monofilament; grab the two lines together at the middle, form a loop back
+  toward the thumb, pinch it, and wrap the tag around both lines together.
+  States the rule as **5 wraps** per side, though the demo line itself was
+  too short to show all 5 on camera ("it's five times, I don't have a long
+  enough line to do that... so we got three times") — the stated rule is 5,
+  not the 3 actually shown in this clip. Cinch the first side down by
+  pulling the tag line, then turn the leader around and repeat the same
+  loop-and-wrap on the other side (again stated as 5 wraps, around the
+  mainline/mono and fluorocarbon together), then pull both standing lines to
+  draw the two coils together and seat the knot. A third wrap-count data
+  point in the range already logged in this bullet (6 at top, 3–4 for
+  `NkjjDf6XPcE` above, now 5 here) — kept side by side as angler-preference
+  variation, not reconciled to one number. No line class, species, or
+  application beyond "fluorocarbon to monofilament" is given in this
+  2:08 clip.
+  **Fourth wrap-count data point, plus the clearest stated reason in this
+  note for reaching for uni-to-uni instead of the surgeon's knot
+  (SearcherSportfishing, "Searcher Sportfishing Fluoro to Mono Knots,"
+  `zKovnvOwlFc`, 2017-05-04; `searcher-sportfishing` registered channel,
+  presenter not clearly identified on camera — medium confidence):** same
+  channel's companion demo to the surgeon's-knot citation logged in
+  [Surgeon's Knot — Mono-to-Fluorocarbon Leader
+  Connection](surgeons-knot-mono-to-fluoro.md#parameters--judgment). Ties the
+  uni-to-uni for fluoro-to-mono, mono-to-mono of different sizes, and
+  braid-to-braid alike — useful whenever "you cannot pass the tag end
+  through the loop" the way the surgeon's knot needs, e.g. too much line
+  already run out, or repairing a break found out on the water where the
+  lure or bait is rigged too far down the line to thread the whole working
+  end through. Paraphrased mechanic: lay the two lines opposite directions
+  with plenty of tag, pinch the midpoint, form a loop, and wrap the tag
+  around both lines together **4 times** before pulling it snug; repeat the
+  same loop-and-wrap on the other line, also **4 times**; then wet the two
+  finished uni knots and pull the main lines together until they jam against
+  each other. A fourth wrap-count data point in the range already logged in
+  this bullet (6 at top, 3–4 for `NkjjDf6XPcE`, 5 for `qtCZAB4EBs4`, now 4
+  here) — kept side by side, not reconciled. **Explicit equal-strength/speed
+  trade-off, attributed (decision-rationale):** the same presenter, having
+  tied both knots on camera, states a personal preference for the surgeon's
+  knot on ordinary re-rigs because it's faster to tie (under 30 seconds for
+  him), while granting the uni-to-uni "looks a little bit better" — but
+  states both knots hold **the same strength** and are equally effective at
+  landing fish; full context in [Surgeon's Knot — Mono-to-Fluorocarbon
+  Leader Connection](surgeons-knot-mono-to-fluoro.md#parameters--judgment).
+  **Fifth data point, matching the 6-wrap base count, plus tag-length and
+  cinch-sequence detail (Tackle Express, "Master the UNI UNI Knot,"
+  `Ga8Z1PyBqdE`, 2024-12-02; unregistered channel, single mention — medium
+  confidence):** demoed braid-to-braid, with the presenter naming
+  mono-to-mono, mono-to-fluoro, and braid-to-any-mono/fluoro-leader as other
+  valid uses. Paraphrased mechanic: cross the two lines into an X, leaving
+  **6 to 10 in** of tag on each side; form a loop in one line and wrap the
+  tag through it **6 times**, then pull that side snug — deliberately not
+  fully cinched yet, just tight enough that the coils won't shift — before
+  sliding down to the other line and repeating the same loop-and-6-wrap tie.
+  Pull all four strands together to bring the two coiled knots close, then
+  lubricate before cinching: draw both ends tight until the two knots meet,
+  then cinch them down against each other and trim both tags. Matches the
+  6-wrap figure already logged at the top of this bullet, kept as a fifth
+  data point alongside 3–4 (`NkjjDf6XPcE`), 5 (`qtCZAB4EBs4`), and 4
+  (`zKovnvOwlFc`) above — angler-preference variation, not reconciled to one
+  number.
+- **Seaguar knot (connection)** — a purpose-built mono-to-fluoro bite-guard
+  connection with five sourced variants (Cesar/Eric's Tackle and three
+  StokedOnFishing clips, plus a fifth from SearcherSportfishing) that do not
+  all share one mechanic under the shared name — kept as its own note per the
+  process rule to prefer a specific note over growing this one further:
+  [Seaguar Knot](seaguar-knot.md).
 - **Loop knot, non-ringed hook (Cesar, Eric's Tackle, via Dirty Hookers,
   48ZFXnCTTQE, 2023-11-01; `medium` confidence — registered voice, single
   mention):** an
@@ -276,88 +285,15 @@ fluoro leader, braid main line — and feed the terminal rigs in
   when a ring is available: it adds no extra hardware weight to a bait that's
   already not fully healthy, and it's silent — no ring-on-hook clank to spook
   a finicky, picky bite.
-- **Improved clinch (Dave Hansen, Your Saltwater Guide, VsUUBICiBzQ,
-  2021-06-29; dave-hansen registered voice, single mention of this specific
-  knot — `medium` confidence):** the presenter calls it his "fisherman's
-  knot" (what he was taught as a kid) and separately references an "improved
-  cinch knot" name for it; tie as a **single pass through the hook eye**
-  (not doubled), spin the tag **7 times** around the standing line, pass the
-  tag through the lower loop nearest the eye — which forms a second loop
-  above it — then back through that top loop, and pull down tight to cinch
-  (he seats it by gripping the tag in his teeth and pulling). Spin/slide the
-  coils down snug, then clip the tag close. **Judgment — retie cadence:** he
-  re-ties this knot on a fresh hook after nearly every fish, "over a hundred
-  times a day" on a good day, because toothy SoCal species —
-  [bluefin tuna](../species/bluefin-tuna.md),
-  [calico bass](../species/calico-bass.md), and
-  [barracuda](../species/barracuda.md) are the three he names — fray the
-  last few inches of line on the bite; cutting the hook off and re-tying is
-  faster than trying to fish on a compromised end. **Flag:** this single-pass,
-  spin-then-through-bottom-then-top-loop mechanic reads distinct from the
-  San Diego jam above (which doubles the line through the eye before
-  wrapping). Within this video the presenter uses "fisherman's knot" and
-  "improved cinch knot" interchangeably for the same tie; no other Your
-  Saltwater Guide knot video has been extracted yet to confirm whether that
-  naming holds consistent across his channel.
-  **Update — the naming question resolves, but not the way expected (Dave
-  Hansen, Your Saltwater Guide, zVIfArUrpDI, 2021-06-15; dave-hansen
-  registered voice, mechanic repeated across two of his videos — `high`
-  confidence on the mechanic):** tying a rockfish [dropper-loop
-  gangion](../techniques/dropper-loop.md#rock-cod-quick-gangion-dave-hansen-build),
-  he ties this identical single-pass, spin-7-times, through-the-bottom-loop
-  (which forms a top loop), back-through-the-top, cinch-and-trim mechanic —
-  used both to tie the sinker to the end of the main line and to tie circle
-  hooks onto the dropper loops — and this time names it explicitly **"San
-  Diego jam."** So the mechanic is consistent across his videos, but **his own
-  naming for it is not**: "fisherman's knot" / "improved cinch knot" in
-  VsUUBICiBzQ, "San Diego jam" here. Kept side by side rather than reconciled
-  to one name. Practical takeaway: a "San Diego jam" in a Your Saltwater Guide
-  video is this single-pass tie, not the doubled-through-the-eye version
-  described above — don't assume the name maps to the same mechanic across
-  channels.
-  **Second corroboration of the "San Diego jam" naming (Dave Hansen, Your
-  Saltwater Guide, RbqOKkINSCM, 2021-05-25):** ties the identical single-pass
-  mechanic — loop it around the index finger, wrap **7 times**, feed through
-  the bottom hole and back out the top hole made with the index finger, wet
-  it, and slide it down — naming it "San Diego jam" again, on three separate
-  rigs in the same video (a mackerel flyline hook, a flat-fall, and a
-  popper). This is now the naming used in **two** of his videos
-  (`zVIfArUrpDI`, `RbqOKkINSCM`) against **one** using "fisherman's knot" /
-  "improved cinch knot" (`VsUUBICiBzQ`) for the same tie — strengthening,
-  not resolving, the naming split logged above; still kept side by side
-  rather than reconciled to one name.
-  **The split now shows up inside a single video, not just across videos
-  (Dave Hansen, Your Saltwater Guide, `fK2AT460xW4`, 2021-04-27; dave-hansen
-  registered voice — `high` confidence on the mechanic):** building a
-  [torpedo-sinker tuna dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen),
-  he ties the identical single-pass, spin-**7**-times, through-the-bottom-
-  hole-then-back-out-the-top mechanic **twice** in the same clip — once to
-  join the main line to the inline torpedo sinker and once to join the
-  fluorocarbon leader to that same sinker connection — and calls it **"San
-  Diego jam"** both times ("it's super important to tie the San Diego jam
-  when you're doing this"). Moments later, tying the circle hook onto the
-  end of the same leader with the **same** spin-7/bottom-hole/top-hole
-  mechanic, he calls it the **"improved cinch knot"** instead. So within one
-  video, by one presenter, the identical tie is named "San Diego jam" for a
-  sinker/leader connection and "improved cinch knot" for the hook — this
-  reads as the presenter using the two names loosely/interchangeably by
-  habit rather than by a fixed rule about what each name refers to; logged
-  as a third data point on the naming split, not a resolution of it.
-- **Bimini twist, quick-tie approach (StokedOnFishing, `jahddqzKhLY`,
-  2012-03-28; unregistered channel — `medium` confidence):** presented as a
-  fast, no-long-loop way to twist up a double line in about 30 seconds once
-  practiced. Cinch a short starting loop (no need for the traditional big
-  loop), then spin roughly **20–25 wraps** down the twisted section — the
-  presenter's own on-camera count is uneven and restarts partway through, so
-  read this as an approximate range rather than an exact figure. Set tension
-  by hooking the loop over the reel handle and turning it, then run the
-  wraps up to the size you want the finished loop to be and hold the tag
-  end. Lock it off with a half hitch around the first turn (cinched), then a
-  half hitch around the second turn (cinched), then a final locking wrap
-  ("go one, two, three" per the transcript). **Flag:** the exact wrap count
-  on that final locking pass is ASR-uncertain — the two-half-hitch-then-lock
-  mechanic is clear, the count on the last pass is not. No SoCal-specific
-  parameters (line class, species, or region) are given in this clip.
+- **Improved clinch / "fisherman's knot"** — a single-pass hook tie (Dave
+  Hansen and multiple SearcherSportfishing presenters, with a genuine naming
+  split against "San Diego jam" for the identical mechanic) — kept as its own
+  note: [Improved Clinch Knot](improved-clinch-knot.md).
+- **Bimini twist** — the double-line/loop knot named in "When to use it"
+  above; two sourced tying approaches (a fast ~20–25-wrap quick-tie and a
+  fuller ~30–50-wrap traditional tie with an added locking-wrap finish),
+  with different turn-count philosophies kept side by side, are in their own
+  note rather than growing this one further: [Bimini Twist](bimini-twist.md).
 - **Surgeon's knot (StokedOnFishing, eEcRPEoG4DQ, 2018-08-28; unregistered
   channel — medium confidence):** paraphrased mechanic — double the line into
   a loop, tie it like a square knot, then pass the loop through **three
@@ -365,10 +301,23 @@ fluoro leader, braid main line — and feed the terminal rigs in
   simplest knot you can tie" for a single-hook rockfish dropper loop, and
   rated by the presenter as more than strong enough to hold. Feeds the
   [dropper loop](../techniques/dropper-loop.md#building-the-rig) rig.
+  **Second, independent corroboration of the same three-turn mechanic (Wendy
+  Toshihara, SearcherSportfishing, `3gykKyPdOvA`, 2020-12-10; unregistered
+  channel — medium confidence):** framed on camera as a quick, easy way to tie
+  a dropper loop **"by not using a regular dropper loop knot"** — i.e. the
+  surgeon's knot substitutes for the dedicated dropper-loop knot/spider hitch.
+  Same mechanic as above (double the line, form a loop, tie it like an
+  overhand, **three turns**), plus one explicit addition: wet the knot before
+  cinching it down — a step not stated in the eEcRPEoG4DQ clip but consistent
+  with the wet-before-cinching judgment already logged for every other knot in
+  this note. Also demonstrates repeating the same knot lower down the leader to
+  build a swivel-free double dropper — see [dropper loop — single vs. double
+  dropper](../techniques/dropper-loop.md#single-vs-double-dropper-duane-diego-mellor)
+  for the rig build.
 - **Worm knot (StokedOnFishing, `mpcSgkQvIzg`, 2012-03-29; unregistered
   channel — medium confidence):** ties a monofilament topshot onto the loop
-  of an already-finished Bimini twist double line — the topshot connection
-  the Bimini twist entry above points to. Paraphrased mechanic: pass a
+  of an already-finished [Bimini twist](bimini-twist.md) double line — the
+  topshot connection the Bimini twist entry above points to. Paraphrased mechanic: pass a
   finger through the Bimini's loop to hold it open, then wrap the mono tag
   around the whole doubled loop section roughly **10 times** (the
   presenter's on-camera count is uneven — "two three four... maybe 10
@@ -385,83 +334,66 @@ fluoro leader, braid main line — and feed the terminal rigs in
   topshot with a new worm knot, tie the hook back on, and you're back
   fishing in seconds without re-tying the Bimini itself. No SoCal-specific
   parameters (line class, species) are given in this clip.
-  **Third corroborating video, earliest-dated of the three (Dave Hansen, Your
-  Saltwater Guide, ftEvyfwjZFU, 2021-06-08 — predates both VsUUBICiBzQ and
-  zVIfArUrpDI above):** ties this same single-pass, spin-7-times,
-  through-the-bottom-hole, back-out-the-top mechanic straight to lure/hook
-  eyes — a soft-plastic glide swimbait, a wing-style stickbait, and a 4/0
-  circle hook for a flylined sardine — naming it **"San Diego jam"** on every
-  tie. Across his three logged videos, "San Diego jam" is now the name used
-  twice (2021-06-08, 2021-06-15) against one single mention of "fisherman's
-  knot"/"improved cinch knot" (2021-06-29); still kept side by side per the
-  naming-inconsistency note above, not treated as resolved. **Straight-tie,
-  no-swivel-no-bead rigging judgment (same source):** he ties the glide
-  swimbait straight to its eye on camera with no leader material/weight or
-  swivel/bead stated for that connection specifically. For the wing
-  stickbait he's explicit — "because that's how these are made... you do not
-  want a swivel on there because now the fish is going to see the swivel" —
-  straight-tied to **60 lb fluorocarbon** (with **80 lb** given as an
-  alternative for the stickbait bite — framed as a reactionary strike where
-  the fish won't shy from heavier line, so drag can be hammered down). For
-  the flylined sardine's circle hook he's likewise explicit — "no swivels,
-  no beads" — straight-tied to fluorocarbon on a **4/0 thin-wire circle
-  hook**, so the hook can turn freely to find the corner of the fish's
-  mouth. The 60 lb fluorocarbon and no-swivel/no-bead specifics are
-  confirmed for the stickbait and the sardine hook only; not assumed to
-  carry over to the glide swimbait. See
-  [flyline](../techniques/flyline.md) and
-  [tuna poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md) for
-  the lure-specific application of these parameters.
+  **Not this knot — a same-family single-pass tie tied straight to lure/hook
+  eyes (Dave Hansen, `ftEvyfwjZFU`):** ties the identical single-pass,
+  spin-7-times mechanic used for the improved clinch/"San Diego jam" naming
+  split, applied to a glide swimbait, a stickbait, and a flylined sardine
+  hook — see [Improved Clinch Knot](improved-clinch-knot.md) for that naming
+  detail and the straight-tie, no-swivel-no-bead rigging judgment (also
+  covered independently in [flyline](../techniques/flyline.md) and [tuna
+  poppers and stickbaits](../lures/tuna-poppers-and-stickbaits.md)).
 - **Judgment:** match knot to load — Palomar for speed on moderate fish, San
   Diego jam when it has to hold. Always wet connection knots before seating, and
   cinch fully; a partly-set knot is where these fail.
 
-## San Diego jam knot deliberately weak variant for a weight connection (Scotty)
-
-**Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM, 2020-04-04;
-capt-scotty-brothers registered — high confidence.** Tying the sinker onto a
-[rockfish dropper rig](../techniques/rockfish-deep-dropping.md), the same San
-Diego jam knot gets tied deliberately **weaker** than the hook-knot version
-above: just **3 turns** (versus the 5–6 used at the hook) and **skip
-lubricating it**. The reasoning is the opposite of the usual "always wet your
-knots" rule — this connection is meant to be the sacrificial point: if the
-sinker hangs on the bottom, it's cheaper to break off there than to lose the
-whole rig, so an intentionally weaker, unlubricated knot is the point, not a
-mistake.
-
 ## Tie it
 
 How-to videos: [two must-know sport-boat knots (RP + uni-to-uni)](https://www.youtube.com/watch?v=SwXh9Cwi4e0),
-[three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s),
-[RP knot walkthrough, braid to fluoro/mono](https://www.youtube.com/watch?v=YGLFn8lPMu0),
-[Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE),
-[improved clinch, "fisherman's knot"](https://www.youtube.com/watch?v=VsUUBICiBzQ),
-[rock-cod quick-canyon rig, incl. this single-pass tie named "San Diego jam"](https://www.youtube.com/watch?v=zVIfArUrpDI),
-[Bimini twist quick-tie](https://www.youtube.com/watch?v=jahddqzKhLY),
-[mono-to-fluorocarbon knot + tag-trimming tips](https://www.youtube.com/watch?v=06lxuie5cZQ),
-[Seaguar knot, mono to fluoro in under a minute](https://www.youtube.com/watch?v=tzeXXPAjqUY),
-[San Diego knot in one minute](https://www.youtube.com/watch?v=1BH7nQdIg5Q),
+[three must-know SoCal knots (Palomar, San Diego jam, RP)](https://www.youtube.com/watch?v=hF4dFlSB12s)
+(see [RP Knot](rp-knot.md#tie-it) for the RP-specific walkthrough, full-name-variant,
+and wrap-by-ratio demonstration clips),
+[Seaguar knot + loop knot, finicky flyline rigging](https://www.youtube.com/watch?v=48ZFXnCTTQE)
+(loop knot portion; see [Seaguar Knot](seaguar-knot.md) for the Seaguar-knot
+portion of this video and four other mono-to-fluoro connection clips),
 [uni-to-uni, fluoro leader to mono main line in one minute](https://www.youtube.com/watch?v=NkjjDf6XPcE),
-[Royal Polaris (RP / Roy Rose) knot, braid to mono/fluoro](https://www.youtube.com/watch?v=AT6zmDYxjW4),
+[double uni knot, fluorocarbon to monofilament connection](https://www.youtube.com/watch?v=qtCZAB4EBs4),
+[Searcher Sportfishing Fluoro to Mono Knots (surgeon's knot + uni-to-uni)](https://www.youtube.com/watch?v=zKovnvOwlFc),
 [worm knot, mono topshot to a Bimini twist](https://www.youtube.com/watch?v=mpcSgkQvIzg),
-and [mono-to-fluoro leader knot + tag-end sinker trick](https://www.youtube.com/watch?v=i3qIAHW-SJc).
+[John Collins knot, braid to mono/fluoro](https://www.youtube.com/watch?v=Bz0WZNAofks),
+and [Master the UNI UNI Knot, braid to braid](https://www.youtube.com/watch?v=Ga8Z1PyBqdE)
+(see [Surgeon's Knot — Mono-to-Fluorocarbon Leader
+Connection](surgeons-knot-mono-to-fluoro.md) for the surgeon's-knot
+mono-to-fluoro connection clips).
 
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [California Barracuda](../species/barracuda.md)
+- [Bimini Twist — 100% Double-Line Loop](bimini-twist.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
-- [Flyline](../techniques/flyline.md)
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
-- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
-- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md)
+- [PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md)
+- [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md)
 - [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](san-diego-jam-knot.md)
+- [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](seaguar-knot.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Springer Knot — Heavy-Line Hook Tie](springer-knot.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md)
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
-- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
-- [Wind-On Leader](wind-on-leader.md)
+- [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md)
 <!-- backlinks:end -->

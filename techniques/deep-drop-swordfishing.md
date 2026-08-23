@@ -3,6 +3,8 @@ type: technique
 tags: [swordfish, deep-drop, daytime, dsl, offshore]
 sources: [yMiBtZ7k8-w, KuVwmfF6RAo]
 confidence: high
+regions: [socal-bight]
+waters: [open-ocean]
 ---
 
 # Deep-Drop Swordfishing (daytime)
@@ -91,8 +93,7 @@ for the Bight.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
-- [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Knife / Speed Jigging](knife-jigging.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

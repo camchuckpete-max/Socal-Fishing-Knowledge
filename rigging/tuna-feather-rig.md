@@ -3,6 +3,8 @@ type: rig
 tags: [tuna-feather, trolling, offshore, skirt, leader]
 sources: [CWVPLM6NheY]
 confidence: medium
+regions: [socal-bight]
+waters: [open-ocean, bank]
 ---
 
 # Tuna Feather Rig
@@ -50,6 +52,5 @@ Video: https://www.youtube.com/watch?v=CWVPLM6NheY
 <!-- backlinks:start -->
 ## Linked from
 
-- [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

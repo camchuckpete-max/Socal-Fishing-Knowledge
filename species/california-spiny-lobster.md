@@ -1,8 +1,10 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4, JiJYamo0QHk, sIoNELGlxmk]
 confidence: medium
+regions: [socal-bight]
+waters: [nearshore-coast, island]
 ---
 
 # California Spiny Lobster
@@ -55,6 +57,19 @@ re-checked against **current CDFW rules** before every trip — they change.
   lifetime" (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26;
   single-source tutorial claim, not yet corroborated — treat as a lean, not a
   rule).
+  **Repeated by the same voice, with the mechanism and a worked example
+  (dave-hansen, Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`,
+  2023-03-04; registered voice — second dated mention promotes this specific
+  claim to repeated doctrine / high confidence):** the stated reason
+  lobsters move on rain is that **they avoid fresh water** ("they hate fresh
+  water... hate hate hate it") — rainfall triggers the crawl.
+  **Observed** (dave-hansen, describing his own early charter operation out
+  of Rainbow Harbor, within the Long Beach Harbor complex, dated to
+  2006–2007 on camera): running early hoop-net charters out of Rainbow
+  Harbor (chosen over the rest of Long Beach Harbor because he couldn't
+  afford the fuel to run further) at $100/person for up to 6 anglers over 5
+  hours, with no established program yet built — after it rained, the crew
+  caught lobster at **every spot fished** in the harbor that trip.
 - **When — night.** Lobster crawl and feed after dark; hoop netting is a nighttime
   activity, which is why the buoys carry **LED lights** to relocate them.
 - **Moon timing — darkest nights best.** Within the season, favor the **darkest,
@@ -101,6 +116,14 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 
 - **Regs-awareness is the whole discipline (California / CDFW, as of 2026-08 —
   verify current rules):**
+  - **Daily bag limit: 7 lobster per person per day** — stated on camera as a
+    hard number, independent of size within the legal minimum below (Capt.
+    Dave Hansen, live seminar, Fred Hall Show 2019 Part 2, filmed by Utah
+    Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen registered
+    voice — medium confidence, single mention on this specific figure).
+    **Regulatory claim — California/CDFW, as of 2026-08, verify current
+    rules before you fish**; logged in
+    [regulatory claims](../sources/regulatory-claims.md).
   - **Two licenses:** a California **fishing license** *plus* a **lobster report
     card** — and the card must be **filled out before you fish** (month, date,
     location code, gear code; gear code **1** for hoop netting), leaving "retained"
@@ -110,7 +133,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
     public pier. Fishing the full 10-net boat limit therefore requires a
     **minimum of two people** aboard (5 nets each) — one angler alone is capped
     at 5, even on a boat licensed for 10 (Roman Castro/Scotty, Qs9oEsh3b_w,
-    2020-10-17; medium confidence, unregistered channel).
+    2020-10-17; `roman-castro` registered, single mention — medium confidence).
   - **Buoy marking:** each buoy must carry your **name and GO ID** — a 10-digit
     number printed on your California fishing license, one line below the
     barcode. Write it directly on the buoy in permanent marker if every net on
@@ -134,13 +157,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bays and Harbors](../locations/bays-and-harbors.md)
-- [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
-- [Island Structure](../locations/island-structure.md)
 - [Moon](../conditions/moon.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [Water Regimes](../conditions/water-regimes.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 <!-- backlinks:end -->

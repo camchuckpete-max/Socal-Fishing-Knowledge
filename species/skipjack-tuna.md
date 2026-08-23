@@ -1,8 +1,10 @@
 ---
 type: species
 tags: [skipjack, tuna, offshore, bait, bycatch, trolling, flyline]
-sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84, tcso7Lpm_Xs]
+sources: [lxFNVdDhMy4, cameron, PrdPJy26H8c, dgauGbNxP84, tcso7Lpm_Xs, 5Oh3IPIC5g4]
 confidence: medium
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [open-ocean]
 ---
 
 # Skipjack Tuna
@@ -47,6 +49,7 @@ but hard-charging, they'll eat almost anything moving.
 | **Chummed school / mixed with yellowfin** | [Flyline](../techniques/flyline.md) a live bait, or a **burning cast** with a lead bait / casting jig | **20–30 lb class** ([gear classes](../tackle/gear-classes.md)) | Skipjack usually bite *before* the yellowfin do — expect them on the fast retrieve |
 | **Locating over open water / scattered fish** | Troll [feathers & skirts](../lures/tuna-feathers-and-skirts.md) or a [cedar plug](../lures/cedar-plug.md) | Light **troll class** | Aggressive on trolled feathers/cedar; a hooked skipjack marks the zone |
 | **Want live/dead bait for big game** | Catch skipjack, then fly or slow-troll them for **bluefin or marlin** | — | Prime big-fish bait; a lively skippy is a trophy-[bluefin](../species/bluefin-tuna.md) / [marlin](../species/striped-marlin.md) offering |
+| **Skipjack are the nuisance, not the target** — blanketing the surface over [yellowfin](yellowfin-tuna.md) holding below | Switch off live bait to a fast-sinking swimbait that punches through the skipjack layer | Bass casting / swimbait class | The reverse framing of the row above: here skipjack intercepting live bait is the problem being solved, not the goal — see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) (Chad, HookUp Baits co-owner, `5Oh3IPIC5g4`, 2020). ⚠ promotional seminar source, low confidence |
 
 ## Gear summary (class terms)
 
@@ -55,7 +58,7 @@ but hard-charging, they'll eat almost anything moving.
 - **Troll:** light **troll class**; small [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md)
   and [cedar plugs](../lures/cedar-plug.md) at ~6–8 kt.
 - **Downsizing logic (Ray Sharifi, Dirty Hookers, PrdPJy26H8c, 2019-03-05;
-  unregistered channel — medium confidence):** on a mixed tuna trip, treat
+  `ray-sharifi` registered, SoCal-capped — medium confidence):** on a mixed tuna trip, treat
   skipjack (and schoolie-grade [yellowfin](yellowfin-tuna.md)) as
   **Bonito-sized targets and downsize tackle/lures accordingly** — the
   exception is bluefin, which don't get this treatment because grade is
@@ -92,23 +95,8 @@ but hard-charging, they'll eat almost anything moving.
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
-- [Cedar Plug](../lures/cedar-plug.md)
-- [Current Diagnostics](../conditions/current-diagnostics.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
-- [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [September](../seasonal/september.md)
-- [Striped Marlin](striped-marlin.md)
-- [Trolling](../techniques/trolling.md)
-- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
-- [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

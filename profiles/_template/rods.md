@@ -29,7 +29,5 @@ logic: [rod & reel selection](../../tackle/rod-and-reel-selection.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
-- [Rod & Reel Selection — by Application](../../tackle/rod-and-reel-selection.md)
-- [Surface Iron](../../techniques/surface-iron.md)
+_Nothing links here yet._
 <!-- backlinks:end -->

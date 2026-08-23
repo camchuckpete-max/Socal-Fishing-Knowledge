@@ -1,8 +1,10 @@
 ---
 type: technique
 tags: [live-bait, flyline, tuna, yellowtail, white-seabass, bite-guard, baja, mag-bay, mangrove, structure-casting]
-sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU]
+sources: [T3p1mrqNjIo, mscHk0qiXnk, raUPkuaFXpw, SluBXkT3cuw, 8YvmROeVL-0, A70kK2niu2Q, LTCFjqtSI8g, jQW2HLkMsmY, 48ZFXnCTTQE, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, RbqOKkINSCM, w5_x6kkN-xE, gKrYKvqHUjk, mL4Ph7t0WcQ, ROWgdFE9Ehc, _C8w6zeVPak, 84XPJAeH0Rw, GptrotE0x5M, V_ONnegk95M, e73wPONTOJU, HMdrP4-i9MM, qM7iOO7fOBw, LsFMBCa9DOQ, oB4BpIUTTl4, M7BtON4GZgQ, nsUdT-zXI8s, 1nK7vSPl2sg, Rb5I2ljAqeE, Ow3an9lSVh4, -bw1KDfDjv4, _PGm-TlFU2A, zQtExV8Z2eY, ftEvyfwjZFU, aD0Iim9C15o, icpm7gADxvU, SAltQjih0ms, fcdWAo0VAKw, 8TO-tuYjwWk, qh3hL2Dt3HY]
 confidence: medium
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [open-ocean, bank, island, nearshore-coast]
 ---
 
 # Flyline
@@ -59,9 +61,22 @@ Pick the hook position for the swimming behavior you want:
   channel — medium confidence.
 - **Shoulder / dorsal hook** (mackerel especially) — keeps your **line up out of
   the water** and holds the bait **high, skating across the top** for a reaction
-  bite.
+  bite. **On sardine specifically, for close-under-the-boat fish or distant,
+  boiling blue fin** (Steve Carson, SearcherSportfishing, `aD0Iim9C15o`,
+  2023-08-24; `medium` confidence): a sardine's "wishbone" hook point lets an
+  unweighted bait be simply dropped over the side to dive to fish sitting 30–40
+  ft under the boat, while a true shoulder/nape hook on a long cast to skittish
+  blue fin folds the hook down on the retrieve — cutting resistance and hiding
+  the hook from a fish looking up. Full writeup, including the wind-in retrieve
+  technique, in [fishing live bait](../bait/fishing-live-bait.md).
 - **Belly hook** — just above the anal fin. Sends the bait **down and away** from
-  the boat, deeper in the column.
+  the boat, deeper in the column. **Shoulder and belly hooks are both "soft
+  spots" — cast them underhand, not overhand (SearcherSportfishing, Tackle
+  Talk Live, `SAltQjih0ms`, 2020-05-20; `searcher-sportfishing` registered
+  channel — high confidence):** unlike the cartilage at the nose, both these
+  placements sit in thinner tissue, and a hard overhand swing risks tearing
+  the bait off the hook — see [underhand
+  casting](underhand-casting.md#soft-hook-placements-need-the-gentler-swing).
 - **Butt hook** — near the vent. Also **down and away**, and it defeats **sea
   lions** at the islands that pick off nose-hooked baits, while still flylining
   and swimming well. **Zero-weight only:** the instant any weight goes on the
@@ -114,7 +129,7 @@ Pick the hook position for the swimming behavior you want:
   Hansen, Your Saltwater Guide, ftEvyfwjZFU, 2021-06-08; dave-hansen
   registered voice — `high` confidence):** flylining sportboat sardine for
   bluefin, reach for a **4/0 thin-wire circle hook**, straight-tied — no
-  swivel, no bead — with a [San Diego jam](../rigging/essential-knots.md).
+  swivel, no bead — with a [San Diego jam](../rigging/san-diego-jam-knot.md).
   Thin wire specifically because a sardine, unlike a heartier mackerel,
   "has a hard time swimming" a standard/heavier-gauge hook around
   convincingly; fluorocarbon leader throughout, since bluefin "have so many
@@ -176,6 +191,23 @@ the 25–30 lb figure above. Thick-shank hook doctrine (why Mustad/VMC hold up
 under heavy drag on this small a bait) from the same trip is logged in
 [hooks](../tackle/hooks.md).
 
+**Observed** (SearcherSportfishing, 2015-08-02, San Diego, SoCal —
+`fcdWAo0VAKw`, "Wayne Burnette fights a yellowtail," a ~1-minute dockside/
+on-the-water interview clip; `searcher-sportfishing` registered channel,
+single mention, angler interview rather than crew doctrine — medium
+confidence): angler Wayne Burnette (name per the video title, human-typed
+metadata) landed a yellowtail off San Diego on a flylined bait he described
+on camera as a "small sliding shaker" (asr-uncertain — bait type not
+confidently resolved to a specific species; possibly a small sardine or
+other undersized baitfish) on **40 lb test** line, brand named on camera as
+"I Zuerlein" — read here as **Izorline**, a brand independently confirmed on
+this channel (Wendy of Izorline is a recurring named Searcher voice per
+`sources/source-registry.md`) — to a hook captions render as "2030"
+(asr-uncertain, possibly a **2/0** hook per the aught-sizing ASR corruption
+pattern already logged elsewhere in this note, not confidently resolved). No
+location beyond "San Diego," no conditions, and no stated reason for the
+bait/tackle choice were captured in this clip — a tackle data point only.
+
 ## Match line weight to the bait, not just to the target fish
 
 Capt. Dave Hansen, Your Saltwater Guide, `gKrYKvqHUjk`, 2020-12-22 — dave-hansen
@@ -225,7 +257,7 @@ isn't yet repeated doctrine).
   parts light leaders, not the fluoro being "too light" for the fish.
 - **The fix — a mono top shot + short heavy fluoro bite guard:** run **25 lb
   monofilament** main/top-shot line to a **50 lb fluorocarbon** section about
-  **2–3 ft long**, joined with the [Seaguar knot](../rigging/essential-knots.md).
+  **2–3 ft long**, joined with the [Seaguar knot](../rigging/seaguar-knot.md).
   The 25 lb mono is what's actually pulling through the water (so the bait
   swims like it's on 25 lb), while the short 50 lb fluoro section rides inside
   the fish's mouth, along the gill plates and teeth — the "bite guard" that
@@ -236,7 +268,7 @@ isn't yet repeated doctrine).
   fluoro up to **30 lb main → 40 lb leader** and **25 lb main → 40 lb leader**
   — the heavier-leader step "dramatically helped" land fish (Ray Sharifi,
   recounting a personal 2.5-day trip, dated ~late-2023 from the upload date;
-  unregistered channel, medium confidence for the personal account).
+  `ray-sharifi` registered, SoCal-capped — medium confidence for the personal account).
 - **Don't underestimate what light line can turn:** 25 lb mono, properly
   drag-set, handles far more pressure than most anglers assume — the
   presenters recommend testing this yourself (tie 25 lb, set the drag, have
@@ -250,12 +282,30 @@ isn't yet repeated doctrine).
   and landed a **130 lb fish** in 45 minutes — offered as proof that light
   line, fished with confidence, out-produces staying on heavy gear once a bite
   goes finicky.
+- **Bait-not-swimming stated directly for bluefin (Vince, Fisherman's Landing
+  Tackle Shop, via SearcherSportfishing "Tackle Tip Thursday Vol. 118 (Light
+  Line Fishing)," `icpm7gADxvU`, uploaded 2020-09-24; `searcher-sportfishing`
+  registered channel, single mention of this specific claim — medium
+  confidence):** when bluefin won't bite, sometimes the bait simply isn't
+  "swimming right on heavier lines" — drop the line weight so the bait looks
+  livelier and swims out, and the fish want to eat it. Working range for this
+  scenario: **20–25 lb test** against bluefin that can grade **40–60 lb** —
+  set the drag correctly and don't pull too hard; a well-finessed fish on
+  this light a line can still be led in and gaffed right at the boat. His
+  hook picks for this scenario — an **Owner Mutu Hybrid, size 2**, and a
+  small **J hook** over a circle hook, for baiting-speed reasons — are logged
+  with the rest of the style/product doctrine in
+  [hooks](../tackle/hooks.md#style--how-the-hook-sets). His stated marker for
+  a properly lively bait: it gets away from the boat fast; if it doesn't,
+  **a long soak still works.**
 
 ## Fishing it
 
 - **No weight** — let the bait swim. **Cast well away from the boat**; fish are
   finickier close to the hull, and a bait sent out and away gets bit far more
-  often.
+  often. For the swing mechanics of casting an unweighted bait — and how hook
+  position decides overhead vs. underhand — see [live-bait pendulum
+  cast](live-bait-pendulum-cast.md).
 - On butt- or belly-hooked baits, **keep tension** the moment it lands: a little
   pull makes the bait swim away from you like a propeller. Give it slack and it
   turns and swims right back under the boat.
@@ -300,6 +350,21 @@ isn't yet repeated doctrine).
   same session's fly-lined sardines were also **butt-hooked**, called out on
   camera as making the bait "swim down deep" — consistent with, not new beyond,
   the butt-hook mechanism in "Hook position by situation" above.
+- **A stated reason for the same weighted-flyline exception — no visible sign,
+  probing blind for fish sitting deeper (Tackle Express, `qh3hL2Dt3HY`,
+  "Saltwater Fishing Basics for Southern California," 2024-01-12;
+  unregistered channel — medium confidence):** distinct from the two
+  observed, grade/current-driven weight adds above — this is doctrine, a
+  reason given on camera rather than an outcome alone. On a day with **not a
+  lot of action, no birds working, and no visible sign of fish**, the read is
+  that the fish "might just be a little lower in the water column," and the
+  fix is to add a **small sliding egg sinker** to the otherwise-unweighted
+  fly-lined bait to get it down "just a little bit further" — framed as a
+  small adjustment that "can sometimes make or break your trip." No specific
+  weight is given on camera; the trigger is the *absence* of surface sign
+  (not a stated fish grade or current, as in the two observed exceptions
+  above), kept side by side as a third, separately-reasoned exception to the
+  no-weight default rather than merged into either.
 - **Observed** (StokedOnFishing, 2016-12-16, East Cape, Baja California Sur —
   Hotel Buena Vista Beach Resort trip, `mL4Ph7t0WcQ`): flylined **squid**
   (no weight, slow-drifted back from the boat, likened on camera to a chunk
@@ -631,7 +696,7 @@ holding deep, not a claim that straight braid is wrong.
   fighting a big fish once hooked. Reel/rod specifics for this application are
   in [rod & reel selection](../tackle/rod-and-reel-selection.md).
 - **Yellowtail flyline setup, one full build (Ray Sharifi, Dirty Hookers,
-  A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** an
+  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** an
   8–8'6" rod, lighter action, rated 20–40 to 20–50 lb — enough backbone to lob
   a bait a little easier and get extra casting distance. Paired with a reel
   that free-spools well (a lever drag by preference; a star-drag reel, e.g. a
@@ -642,7 +707,7 @@ holding deep, not a claim that straight braid is wrong.
   Hook size follows bait size: **2/0** for jumbo-sized bait and smaller
   mackerel, **1/0** for smaller sardines and anchovies.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
-  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** the
+  LTCFjqtSI8g, 2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence):** the
   same flyline role, restated with the **Shimano Torium 16** now named as the
   standard pairing (rather than one of two options) on a **Black Diamond 8'6"
   heavy rod, rated 20–50 lb** (mid ≈30–35 lb). Braid backing to **80–100
@@ -668,8 +733,7 @@ holding deep, not a claim that straight braid is wrong.
   salvaged the trip on light tackle instead.
 
 - **Bluefin flyline setup — two-rod light/heavy system (Ray Sharifi, Dirty
-  Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-  confidence):** runs two dedicated flyline rods rather than one, sized to
+  Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** runs two dedicated flyline rods rather than one, sized to
   cover a **25–80 lb** line-test range across the trip. **Light stick:** an
   8 ft **Black Diamond** rod (also likes the 8'6" version) rated **20–50 lb**,
   paired with a **Shimano Torium 16** (a Torium 20 also works), spooled with
@@ -708,7 +772,33 @@ holding deep, not a claim that straight braid is wrong.
   fluorocarbon**, producing yellowtail — a further Cedros/Baja yellowtail
   flyline data point, kept side by side with the Ray Sharifi builds above
   rather than reconciled (line-class/material specifics not stated closely
-  enough to compare directly). Unregistered channel — medium confidence.
+  enough to compare directly). `ray-sharifi` registered, SoCal-capped — medium confidence.
+
+## Anchovy bycatch — when to switch off flyline
+
+Tackle Express, "How to Fish Like a Pro When You Only Have Anchovies"
+(`8TO-tuYjwWk`, 2026-07-08); unregistered channel, single mention — medium
+confidence.
+
+- **Anchovy is called out as the strongest chum of the staple baits** —
+  stated as raising fish better than sardine or mackerel — but the same
+  everything-eats-them quality is a liability once one's on a hook: a
+  fly-lined anchovy gets eaten by whatever's around as readily as by the
+  target species, named on camera as yellowtail vs. mackerel specifically —
+  the stated concern is having to cull through a hundred mackerel to find
+  one yellowtail.
+- **Stated fix: drop the anchovy flyline for [surface iron](surface-iron.md)
+  or a [stickbait](../lures/tuna-poppers-and-stickbaits.md)** when the bait
+  tank is anchovy rather than sardine — no mechanism given on camera for why
+  this helps, just the recommendation itself.
+- Also named, without a fix offered: **"a lot of people also struggle
+  fly-lining"** anchovy (no specific reason stated — could be casting,
+  hooking, or bait durability). This source's own preference is to
+  **collar/gill-hook** the anchovy rather than fly-line it plain, stated to
+  **swim stronger** that way — a further, independently-stated reason
+  alongside the casting-resistance and hook-visibility mechanisms already
+  logged for the gill hook in [fishing live
+  bait](../bait/fishing-live-bait.md#anchovy-nose-weighted-vs-gill-hook-by-rig).
 
 ## Common failures
 
@@ -717,6 +807,8 @@ holding deep, not a claim that straight braid is wrong.
 - **Slack** on a butt/belly bait, letting it swim back under the boat.
 - Wrong hook position for the conditions — nose-hooking into a pack of **sea
   lions** that then eat every bait.
+- **Anchovy in the tank, targeting a specific species** — fly-lining draws
+  bycatch as readily as the target fish; see the anchovy-bycatch note above.
 
 <!-- backlinks:start -->
 ## Linked from
@@ -726,23 +818,39 @@ holding deep, not a claim that straight braid is wrong.
 - [California Barracuda](../species/barracuda.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Cedros Island](../locations/cedros-island.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Knife / Speed Jigging](knife-jigging.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
+- [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
+- [Seaguar Knot — Mono-to-Fluoro Bite-Guard Splice](../rigging/seaguar-knot.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](../tackle/tackle-express-speedmaster-fathom-reel-sizing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
-- [Sliding Sinker](sliding-sinker.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
-- [Striped Marlin](../species/striped-marlin.md)
+- [Surface Iron](surface-iron.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](trolling.md)
-- [White Seabass](../species/white-seabass.md)
+- [Underhand Casting](underhand-casting.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

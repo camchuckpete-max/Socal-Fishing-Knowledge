@@ -1,7 +1,7 @@
 ---
 type: planning
-tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift]
-sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM]
+tags: [glassing, binoculars, search, anchoring, birds, kayak, inshore, drift, sunglasses]
+sources: [DnSqw4r7A1s, E4vKwRaRueA, 6TBxHnkYXI0, cameron, 6L8nIFeqvkw, OpA0OqRgj00, 6DzbsElGE7E, xI9tPJFXbUM, HGyL7pXy3Ts, _ZThckj2TIM, BskCsKaTiZw, JK2-cpaXkI8, XyKF34C5iB4, 91ZJbhAnzMg, YJX-hYEIcNM, nnrEjc-Gq2o, lf3S28nh-kk]
 confidence: high
 ---
 
@@ -50,6 +50,99 @@ loop at speed — the run-stop-cast approach mechanics live in
 and the shearwater doctrine he is still building are in
 [bird reading](../conditions/bird-reading.md).
 
+## Surface sign vocabulary
+
+Three visual surface reads to glass for, independent of species (Captain R.
+Taylor, SearcherSportfishing, "Tackle Tip Thursday Vol. 115 (Signs of Fish),"
+`91ZJbhAnzMg`, 2020-09-03; unregistered channel — medium confidence):
+
+- **Boiler / foamer** — fish visible right on top, breaking/boiling the
+  surface; the two terms are used interchangeably on this boat. A boiler/
+  foamer can carry a **bird school** working over it — the birds are the
+  associated sign, not a separate read (see [bird reading](../conditions/bird-reading.md)
+  for what specific bird behavior means once you're glassing one).
+- **Breezer** — fish holding very close to the surface in calm water, giving
+  themselves away by pushing a ripple that reads just like wind/breeze on
+  the water. This matches the breezer sign already logged in
+  [foamer casting](../techniques/foamer-casting.md#the-approach) (Capt. Dave
+  Hansen, `JiJYamo0QHk`; `dave-hansen` registered voice) — an independent
+  description of the same sign from a different, unregistered channel here
+  (SearcherSportfishing), corroborating rather than adding a new mechanism.
+- **Flat spot** — the choppy-water version of a breezer: with wind and
+  whitecaps around, the same near-surface fish flatten the chop directly
+  over them instead of rippling it, so the tell is a **smooth, whitecap-free
+  patch** sitting in otherwise broken water rather than a ripple. Not
+  previously logged in this KB — the sea-state-dependent flip side of the
+  breezer read (calm water → ripple; choppy water → flat spot), same
+  underlying fish position just under the surface.
+
+Named on camera as the "three main things" this boat's captains glass for:
+birds, fish boiling, and breezers/flat spots.
+
+**A further, independent same-channel description, plus a subsurface bird
+cue (SearcherSportfishing, "Tackle Talk Live with Team Searcher,"
+`lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel —
+medium confidence, single mention):** asked how the captains find fish, two
+primary methods are named — birds/boiling fish on the surface, and, below
+the surface, side-scanning/up-down sonar. A third visual sign is described
+without using the word "breezer": a school riding very close to the surface
+looks like **"raindrops on the water"** rather than fish boiling — read as
+the same near-surface-fish sign as the breezer/flat-spot entries above,
+possibly the word "breezer" itself rendered by auto-captions as "freezer"
+(`asr-uncertain`, not confirmed either way). **A bird cue not previously
+logged in this section:** even a **single or a couple of terns** picking at
+the water — diving and looking rather than working a school hard — is
+treated as worth running to and sweeping with sonar, since fish can be
+present just under the surface without a bird pile or visible boil. See
+[bird reading](../conditions/bird-reading.md) for this KB's other tern
+doctrine.
+
+## Sunglass lens color for glassing
+
+Lens tint changes what surface sign you pick out, on top of the eye
+protection every pair gives. Two Tackle Tip Thursday episodes — both
+Fisherman's Landing Tackle Shop guests on SearcherSportfishing, a registered
+channel/series — describe the same three-way lens split independently, 2.5
+years apart: **repeated doctrine on the core pattern (bright-light/all-around
+vs. contrast vs. overcast), now high confidence**; the video-specific lens
+names and add-on details below stay attributed to their own episode at their
+own confidence.
+
+- **All-around / bright-light lens — blue mirror or standard gray**
+  (unnamed presenter, "Tackle Tip Thursday Vol. 81 (Sunglasses)",
+  `nnrEjc-Gq2o`, 2020-01-02) — matches **neutral gray**, "overwhelmingly the
+  most popular" (Rick, "Tackle Tip Thursday Vol. 188 (Sunglasses for
+  Fishing)," `YJX-hYEIcNM`, 2022-06-30; Rick is a guest, not one of the
+  channel's named recurring voices). Both frame this as the classic
+  offshore/default choice: it lets in the least light of any tint shown, so
+  it's the best protection on sunny days and the pair your eyes relax into
+  over a long day. No stated edge for a specific sign type.
+- **Contrast lens for spotting sign — green or copper** (`nnrEjc-Gq2o`,
+  2020-01-02) — matches **amber, including an amber-mirror tint**
+  (`YJX-hYEIcNM`, 2022-06-30). Both episodes call this tint out for the same
+  job, the most contrast of the lenses shown, but differ on what they name it
+  for: Vol. 81 says **kelp, birds, and dolphins**; Vol. 188 narrows the
+  example to **picking a kelp paddy out of the water** specifically (see the
+  surface sign vocabulary above and
+  [kelp paddies](../conditions/kelp-paddies.md)). Preserved as given rather
+  than merged into one label — "green," "copper," and "amber" are not stated
+  as interchangeable on camera.
+- **Overcast / low-light lens — yellow** (`nnrEjc-Gq2o`, 2020-01-02; lets in
+  the most light of the lenses shown, called out for **overcast conditions
+  and early/late in the day**) — matches **sunrise yellow**, "lesser sought
+  out" (`YJX-hYEIcNM`, 2022-06-30), called out for **picking out a breezer**
+  on gray, flat-light days when the sun isn't lighting up the water (see the
+  breezer entry in the surface sign vocabulary above).
+- **Fit beats tint** (`nnrEjc-Gq2o`, 2020-01-02; single mention, not
+  corroborated by Vol. 188 — medium confidence on this specific point):
+  picking a frame that fits your face — minimizing light leaking in from the
+  sides and top — matters more than which tint you choose; per the
+  presenter, the frame that blocks the most light usually also looks best on
+  you.
+
+The specific lens brand shown on camera in Vol. 188 is a product example, not
+doctrine, and is omitted per the sponsored-claim rule for this channel.
+
 ## Anchoring geometry
 
 Once you've found the water, where you drop the hook depends on what you're after
@@ -83,6 +176,31 @@ Once you've found the water, where you drop the hook depends on what you're afte
   boat to read the true current before you commit. The mechanism is in
   [current structure](../conditions/current-structure.md); the drift-angle read in
   [current diagnostics](../conditions/current-diagnostics.md).
+- **Re-anchor on the opposite side of the same spot when current reverses,
+  because fish hold facing into the current.** Stated reasoning (Your Saltwater
+  Guide seminar host, BskCsKaTiZw, 2025-03-08 — **attribution corrected**: an
+  earlier pass on this clip treated the host as unregistered because the
+  stated biography, e.g. "I ran sport boats," didn't visibly match the
+  registered `dave-hansen` voice. `JK2-cpaXkI8` (2025-03-06, the *same* PCS
+  Show's first seminar, podcast episode #672 to this clip's #673 two days
+  later) has the host self-identify by name as Dave, with wife Kelly, sister
+  Donna, a home in Cabo/Mexico, and a family sportfishing business his father
+  started in 1947 — all matching the registered `dave-hansen` biography. Now
+  treated as **dave-hansen, registered voice** — single mention on this
+  specific claim, so confidence stays **medium**, not promoted to high on
+  attribution alone): fish on a spot orient into the current the same way
+  a stream trout always faces upstream — facing away would leave them with no
+  control. So on a spot fished two days running
+  with the current reversed between them, the fish that were feeding (and
+  biting) on one side of the structure the first day have turned to feed from
+  the opposite side the second day, because that's now the up-current face the
+  food is washing from. The practical call: **don't just re-anchor to hold the
+  boat in the same GPS position** — reset so your baits again reach the
+  up-current face the fish are now oriented toward, which after a reversal is
+  the *other* side of the spot from where you anchored the day before. This is
+  the day-to-day, same-spot companion to the up-current-face bank-scale
+  doctrine in [current structure](../conditions/current-structure.md#where-on-the-bank)
+  — single mention, unregistered speaker — medium confidence.
 - **Too deep to anchor → drift the spot instead (a contrasting attributed
   practice, Scotty, Brothers Sportfishing, via Roman Castro, _ZThckj2TIM,
   2020-04-04; capt-scotty-brothers registered — high confidence).** On a
@@ -164,6 +282,52 @@ Below the geometry above sits the physical rode and the drop itself:
   bottom-fish spread directly over the structure, one by grading the mark
   first, this one by dropping and correcting after.
 
+## Confirming the lay reaches the spot — heading check and reset (Dave Hansen, Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; registered voice — repeated doctrine on current-governs-the-bite, high; the heading-check/reset procedure and the up-current-edge read on the worked example below, single mention on this specific video, medium)
+
+Getting the anchor down (see "Ground tackle and the pinpoint drop" above) is
+only half the job — you then have to confirm the boat actually laid the way
+you planned, because **the spot has to end up off the stern, where your bait
+lands, not off the bow.**
+
+- **Read the compass/GPS heading the moment the anchor sets and compare it to
+  what you expected.** Hansen notes older boats carried a physical compass
+  that told you this directly; he calls it "the weirdest thing" that a lot of
+  boats today run GPS-only and have dropped the compass — either way, read the
+  heading you're lying on before assuming the drop is fishable.
+- **If the boat lies backward from plan, the spot ends up off the bow — you
+  have to reset, not power around into position.** You cannot just motor the
+  boat around to face the "right" way with the anchor down; wind/current will
+  swing it straight back to the same lay. The fix: **pull the anchor all the
+  way up**, re-drive around and back over the spot on the heading you actually
+  want, and re-drop **beyond** the spot in that direction of travel so that
+  once it sets, the stern — and your line — fall back onto the spot.
+- **Re-set as many times as it takes.** From 20 years running SoCal
+  sportboats, Hansen frames repeated re-anchoring (resetting "10 times" in his
+  example) as normal, not a failure — being off the spot is the actual
+  failure.
+- **Worked example — White Rock, San Clemente Island:** anchored in **90 ft**
+  of water over a **hard, cobblestone bottom** ("a little bit bigger" than
+  loose gravel — not sand, not reef rock), fishing on a **downhill current**
+  (his convention: current running the LA-to-San Diego direction, i.e. north
+  to south — matching "coastal deep spots default-prefer downhill (N→S)" in
+  [current structure](../conditions/current-structure.md#the-parallel-current-rule-coastal--island-structure)).
+  Fish sit at **the very front edge of the hard bottom** (his phrase — given
+  the anchoring geometry described above, the boat's stern trails downcurrent
+  of the bow, so this front edge, nearest the boat, reads as the up-current
+  face of the structure; not stated in those words on camera, so treat the
+  "up-current edge" label as an inference from the worked example, not a
+  separate repeated claim) — so once the anchor is properly set, that edge,
+  not the stern generally, is where the cast needs to land.
+- **Current, not the GPS numbers or yesterday's result, decides the bite.**
+  Framed as a direct rebuttal to relying on coordinates alone: a boat fishing
+  White Rock on a downhill current caught "a bunch of" yellowtail; a different
+  boat at the identical GPS numbers the very next day, with no current
+  running, caught nothing — "it doesn't matter if you caught 10,000 fish there
+  yesterday if there's no current there today." Same current-governs-the-bite
+  point as the "treadmill is off" no-current tell in
+  [current diagnostics](../conditions/current-diagnostics.md#the-treadmill-is-off--no-current-at-anchor),
+  restated here as a same-spot, back-to-back-day illustration.
+
 ## Inshore/kayak zone-and-spot search (bay / back-bay)
 
 A distinct method from the offshore glassing protocol above — for working a bay
@@ -189,6 +353,46 @@ medium confidence):
   pattern from spot one instead of carrying forward what worked in the previous
   zone.
 
+## Reading bait behavior — happy vs. spooked bait (coastal bass)
+
+A visual bait-reading method for coastal bass water, alongside the
+current/water-color reads already covered elsewhere (a panelist, Time On The
+Water seminar, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
+confidence):
+
+- **"Happy" bait — keep moving.** Bait that's meandering, spread out, and not
+  doing anything in particular reads as unpressured/uninterested prey — not
+  a sign predators are working it. Look down at the bait and keep running if
+  this is what you see.
+- **"Unhappy" / scared bait — stop and fish it.** Bait that's balled up
+  tight and moving around quickly reads as bait under active pressure —
+  stop and work that spot.
+- **10 to 20 casts, no bite, move on.** A fished spot that doesn't produce
+  in roughly that many casts gets abandoned for the next one — a
+  slightly higher cast count than the 10–15-cast bay/back-bay figure above,
+  for open coastal bass water rather than a fixed dock/eelgrass spot.
+- **Observed exception — a bite refusal explained by a specific bait type**
+  (same panel, no date beyond the 2025-04-19 seminar): a session roughly two
+  weeks before the talk found bass boiling and visibly active on the
+  surface, but refusing every lure offered — the fish were keyed on what the
+  panel called **"sailor jellies,"** described on camera as small floating
+  triangular jelly-like things (species not identified further on camera —
+  not asserted here as any specific taxon), which the panel's baits couldn't
+  imitate; the crew's response was to leave rather than keep working
+  refusing fish. A reminder that visible feeding activity does not guarantee
+  a lure bite if the fish are locked onto a specific natural forage.
+- **"Fishing pattern":** once a color/technique/zone type produces a bite in
+  one spot, repeat that same combination in a similar-looking area rather
+  than treating the bite as a one-off — described on camera as the core
+  definition of "pattern" fishing.
+- **Confidence over objective color, stated as house doctrine for the whole
+  panel:** every panelist on this call reported fishing different colors,
+  patterns, and techniques from each other through the same day on the same
+  water — the panel's own framing is to fish whichever color you personally
+  feel confident in rather than chase one "correct" answer, consistent with
+  the no-systematic-color-doctrine framing already logged in
+  [surface iron — colour](../techniques/surface-iron-color.md).
+
 ## Sportboat bow play
 
 A tell worth stealing from the sportboats (7/14/22): anchored at San Clemente
@@ -202,6 +406,8 @@ current "should" carry everything astern.
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Bait Tanks](../bait/bait-tanks.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bird Reading](../conditions/bird-reading.md)
@@ -213,8 +419,6 @@ current "should" carry everything astern.
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
-- [Current Diagnostics](../conditions/current-diagnostics.md)
-- [Current Structure](../conditions/current-structure.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
@@ -225,6 +429,7 @@ current "should" carry everything astern.
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
@@ -233,6 +438,7 @@ current "should" carry everything astern.
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

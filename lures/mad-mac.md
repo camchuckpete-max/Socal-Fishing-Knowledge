@@ -3,6 +3,8 @@ type: lure
 tags: [mad-mac, nomad, bluefin, trolling, speed-trolling, offshore]
 sources: [cameron, xzIaUEDklrE, U1AgwmlY5bI]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [open-ocean, bank]
 ---
 
 # Mad Mac
@@ -94,6 +96,7 @@ and how he pairs them to his rods and holders are in
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](cedar-plug.md)
 - [DTX Minnow](dtx-minnow.md)
+- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](halco-laser-pro.md)
 - [Rapala Husky Magnum](rapala-husky-magnum.md)

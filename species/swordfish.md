@@ -3,6 +3,8 @@ type: species
 tags: [swordfish, broadbill, deep-drop, dsl, offshore, daytime]
 sources: [yMiBtZ7k8-w, KuVwmfF6RAo, cameron]
 confidence: high
+regions: [socal-bight]
+waters: [open-ocean]
 ---
 
 # Swordfish (Broadbill)
@@ -103,20 +105,9 @@ Requirements before you stop:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Bite Leaders](../rigging/bite-leaders.md)
-- [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Island Structure](../locations/island-structure.md)
-- [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
-- [Sea State](../conditions/sea-state.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [Water Color](../conditions/water-color.md)
-- [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

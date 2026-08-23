@@ -1,8 +1,10 @@
 ---
 type: lure
 tags: [halco, laser-pro, diver, tuna, trolling, offshore]
-sources: [cameron]
+sources: [cameron, 8UAtGqEjDtU, FXWOIB0TPfE]
 confidence: medium
+regions: [socal-bight]
+waters: [open-ocean, bank]
 ---
 
 # Halco Laser Pro
@@ -32,6 +34,26 @@ versus a swimmer, a spreader bar, or a speed-trolled
 [bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
+## Cross-boat confirmation (SearcherSportfishing)
+
+Captain R Taylor, SearcherSportfishing, `8UAtGqEjDtU`, 2023-04-13; unregistered
+channel — medium confidence. A Halco swimmer plug is named on camera as
+having "been successful in the past" in this boat's trolling rotation — a
+thin, single-mention confirmation of the model family as a working trolling
+swimmer. No speed, setback, or leader parameters given beyond what's already
+logged above; not confirmed on camera as the same LP190 XDD variant this note
+covers.
+
+## Halco Max 130 — a distinct model in the Searcher's rotation (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; product/model endorsement — low confidence, sponsored-claim caveat: `searcher-sportfishing` is a registered channel but product/model endorsements stay low per its registry caveat)
+
+Named on camera as one of the trolling lures that had "been hot here
+lately": a **Halco Max 130** — "swings really well and gets bites." Bigger
+sizes in the same Max line are available beyond the 130. This is a distinct
+model from the **LP190 XDD** deep-diver this note otherwise covers — no
+running speed, setback, or leader spec is given on camera for the Max 130,
+so it's logged here as a named-product data point only, not a full running
+spec.
+
 ## Owned examples
 
 Profiles link the subset an angler owns. Cameron's two LP190 XDDs
@@ -45,6 +67,5 @@ Profiles link the subset an angler owns. Cameron's two LP190 XDDs
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Mad Mac](mad-mac.md)
-- [Trolling](../techniques/trolling.md)
+- [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

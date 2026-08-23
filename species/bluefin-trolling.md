@@ -1,8 +1,10 @@
 ---
 type: decision
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac, offshore]
-sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM]
+sources: [cameron, z1CmWHqe9uk, YsiHziY_PWw, 5to3Q5P7w90, HzE4FHHcvTk, 2y0VznL2qk8, e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU, JiJYamo0QHk, bM2vUS1B-yQ]
 confidence: high
+regions: [socal-bight]
+waters: [open-ocean, bank]
 ---
 
 # Bluefin Trolling
@@ -185,6 +187,54 @@ stay over fish), and the calm-day school-grade spread does the rest.
   search, but stated a personal preference for the kite/balloon method once
   fish are found — an attributed preference, not a claim that trolling
   under-performs the kite on hookup rate.
+- **Observed, mixed-speed spread and a fuel-efficiency framing** (StokedOnFishing,
+  `elBPRrdkugU`, 2022-12-22 upload, offshore San Clemente/Catalina, SoCal;
+  unregistered channel — medium confidence): running a spreader-bar-plus-
+  "Mad Max"-on-camera spread (ASR-uncertain, plausibly **Mad Mac** per the
+  same reading used elsewhere in this note), the crew called out **"five,"
+  "six or seven,"** and **"15" miles an hour** (stated on camera in mph, not
+  the kt used elsewhere in this note — kept as spoken, not converted) as the
+  spread's working speeds, framing the slower end as getting bit without
+  burning fuel and the "15" as skipping over a **"dead zone" speed range**
+  where "most boats" burn fuel without producing — no exact bounds given for
+  that dead zone.
+  Kept beside, not merged into, the kt-denominated speed bands in
+  [Mad Mac](../lures/mad-mac.md) and the table above.
+- **Observed, rod/reel used on this spread's rigged rods** (same source,
+  `elBPRrdkugU`): asked on camera what rods/reels were common across the
+  boat, the crew pointed to a "best-selling" **PCH rod, captioned "741 triple
+  XH"** (ASR-uncertain on the multiplier — the naming pattern matches the
+  **150–200 lb heavy-troll class**, though this source's spoken digit count
+  doesn't resolve to a specific model), paired with **"50 wides"** reels and
+  spectra line on "all the reels" for the spread — a different reel size than
+  the **80-size 2-speed** logged for troll/spreader-bar in
+  [rod & reel selection](../tackle/rod-and-reel-selection.md), kept beside
+  it as a same-role, different-size data point rather than a correction.
+- **Program philosophy — chosen against flat-fall/dropped-bait fishing (Capt.
+  Dave Hansen, live seminar, Fred Hall Show 2019 Part 2, filmed by Utah
+  Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen registered
+  voice — medium confidence, single mention on this specific point):**
+  Hansen states his boat does not fish the flat-fall/dropped-bait style of
+  bluefin fishing, and gives the reason directly — a hooked fish on that
+  method can tie the boat up for **three, four, or five hours**, whereas his
+  kite/flyline volume program is built to land **six fish in the time a
+  flat-fall boat lands one**. Framed as a deliberate program trade-off
+  (volume over an individual big-fish fight), not a claim that flat-fall
+  fishing doesn't work — kept beside, not reconciled with, the flat-fall
+  depth/mechanism doctrine already logged in
+  [knife jigging](../techniques/knife-jigging.md#reach-for-this-when).
+- **Sportboat top troll speed vs. the 13–15 kt Mad Mac band (dave-hansen, Your
+  Saltwater Guide, live seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03;
+  registered voice, single mention — medium confidence):** a SoCal sportboat
+  running full-speed troll tops out around **9 kt** ("if everybody on the
+  boat is running back and forth... as fast as they can, we'll get all the
+  way up to nine knots") — well under the 13–15 kt Mad Mac speed-troll band
+  in the table above, which this presenter frames as a private-boat/yacht
+  technique sportboats structurally can't match. Also notes the fuel cost at
+  14 kt as roughly a quarter gallon per mile, the worst burn rate on a
+  private boat — a cost/coverage tradeoff, not a claim against the
+  technique's effectiveness (he separately credits it with producing bites
+  driving straight over a sounded-out foamer).
 - No standing conflict on method — kite vs speed-troll is a **conditions call**,
   not a disagreement. The one open question is Cameron's spreader-bar program
   being new (2026 is his first season), so bar-specific tuning is attributed-experimental
@@ -199,14 +249,10 @@ stay over fish), and the calm-day school-grade spread does the rest.
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Flying Fish Harness](../rigging/flying-fish-harness.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Trolling](../techniques/trolling.md)

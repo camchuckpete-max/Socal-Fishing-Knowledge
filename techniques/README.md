@@ -4,26 +4,54 @@
 <!-- index:start -->
 ## Index
 
-- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait.
+- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live dropback mackerel in the SoCal tan
+- [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md) **[SoCal only]** — A single lever for controlling how deep a lure runs while beach/surf casting, without swapping lures: the angle and height of the rod tip during the retrieve.
+- [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling trick for a SoCal live-bait sportboat (half-day through multi-day trips): rig a swimbait/jig — built with a double-collar keeper so the soft-
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
-- [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
-- [Drop Shot](drop-shot.md) — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
+- [Clearing a Backlash](clearing-a-backlash.md) — The fix for a backlash (bird's nest) on a baitcasting or conventional reel by hand-tensioning the tangled line back out, rather than cutting it out and re-tying
+- [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md) — A castable, daytime-only finesse presentation for bluefin and yellowfin tuna that are feeding on small bait and won't commit to the bigger, "crazy looking" lure
+- [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) **[SoCal only]** — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
+- [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
 - [Dropper Loop](dropper-loop.md) — Execution for the classic dropper-loop rig: a loop knot tied into the leader holds the hook above a sinker that rides on the bottom, so the bait wafts in the cu
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md) — Execution for landing a hooked big bluefin (100–300 lb class) once it's on: the boat, not the angler's arms, does the work of bringing the fish in.
+- [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md) — Baseline rod-handling for a hooked fish worth fighting on a sportboat: brace the rod against the boat's rail rather than holding it up on arms/body alone.
+- [Flat-Fall Jigging](flat-fall-jigging.md) **[SoCal only]** — A free-spool-and-count presentation for large bluefin tuna marked deep: drop the jig on slack line, let it fall to the bite zone, and work it in partial up-and-
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
-- [Hoop Netting](hoop-netting.md) — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
-- [Inshore Crankbaits](inshore-crankbaits.md) — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
+- [Glide Baits](glide-baits.md) **[SoCal only]** — A glide bait is a large, hard-bodied, jointed swimbait that kicks side-to-side on the pause — the European pike/musky-derived class (DS Prestos, Jackal, Gucci-s
+- [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
+- [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
+- [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Small-craft-specific execution for working calico bass and sand bass structure from a kayak — covering ground, using kelp as an anchor, and working boiler rocks
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
-- [Knife / Speed Jigging](knife-jigging.md) — baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
-- [Ned Rig](ned-rig.md) — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
-- [Rockfish Deep-Dropping](rockfish-deep-dropping.md) — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
+- [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md) **[SoCal only]** — A count-and-pause retrieve for a leadhead + soft-plastic swimbait that keeps the bait working just off the bottom without a depth finder or a line-counter reel
+- [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md) — The cast for getting an unweighted, fly-lined bait out and away from the boat: with no sinker to load the rod, a pendulum swing supplies the momentum weight wou
+- [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
+- [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
+- [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Fishing calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" — bigger, more confident trophy fish move shall
+- [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md) **[Baja only]** — A 3-angler panga program for yellowtail: the moment one of two trolled rods gets bit, the crew's other anglers work the same water instead of only fighting the
+- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — (Carl, Fisherman's Landing, via SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md) — (Fred, SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Skip Jigging](skip-jigging.md) — Skip jigging is a topwater cast-and-burn presentation: instead of swimming a lure through the water column, the lure is made to skip and skitter ACROSS the surf
 - [Sliding Sinker](sliding-sinker.md) — Execution for the sliding-sinker (Carolina) rig: the weight rides free on the main line above a swivel, and a leader runs from the swivel to the hook, so a fish
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Work an asymmetric metal jig so it flutters on the fall like a wounded, dying baitfish — the fall is the trigger, not the retrieve.
-- [Speed Trolling](speed-trolling.md) — Execution for pulling a fast-tracking hard bait to locate bluefin and pull a bite over water you can't otherwise cover.
+- [Slow-Trolling Live Bait](slow-trolling-bait.md) — Pull a live bait behind a moving boat slowly enough that it swims naturally rather than being dragged.
+- [Speed Trolling](speed-trolling.md) **[SoCal only]** — Execution for pulling a fast-tracking hard bait to locate bluefin and pull a bite over water you can't otherwise cover.
+- [Spinnerbaits (Bay Bass)](spinnerbaits.md) **[SoCal only]** — A freshwater-bass-style spinnerbait crossed over onto SoCal harbor/bay structure for spotted bay bass and the mixed bag that shares the grass with them.
+- [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](spinning-reel-wind-knots.md) — A casting-technique cause of wind knots on a spinning reel, distinct from the spool-setup causes covered in spooling line — tension and twist.
+- [Surface Iron — The Cast](surface-iron-casting.md) — The cast is the half of surface iron that decides whether you get a shot at all, and it outgrew the parent note.
+- [Surface Iron — Colour](surface-iron-color.md) — The short answer from the most experienced voice in the corpus: colour is not the variable you think it is.
 - [Surface Iron](surface-iron.md) — Long-cast a heavy chrome/painted iron on a jig-stick and swim it back near the surface with a steady grind, varying speed to trigger the bite.
 - [Swimbaits](swimbaits.md) — Execution for soft-plastic swimbaits and slugs on kelp and reef bass.
 - [Trolling](trolling.md) — General offshore trolling execution — how to run a spread, where each lure lives in it, and how to pair a rod to a lure.
+- [Tube-Bait Fishing](tube-bait-fishing.md) — Execution for tube baits — the soft-plastic, internal-lead-head class HookUp Baits made a SoCal staple — fished from a private boat, party boat, or bay bank for
+- [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md) **[SoCal only]** — A reel-side counter-move to a hooked big fish getting its nose down and circling under the boat — distinct from, and a companion to, the boat-driving methods (g
+- [Underhand Casting](underhand-casting.md) — Execution for the underhand cast — a simple lob toss for live bait off a sportboat rail or bow, alternative to a full overhead surface-iron cast when you don't
+- [Wacky Rig — Reading the Bite in a Slack Line](wacky-rig.md) **[SoCal only]** — Execution for fishing a wacky-rigged stick worm (a soft stickbait hooked through the middle so both ends fall and wiggle freely — the rig's own construction, ho
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md) **[Baja only]** — The wahoo bomb and the Raider jig are named as the two most-used lures for wahoo (Searcher Sportfishing, -62xDo4UQzo, 2020-01-30) — a cast-and-burn presentation
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md) **[Baja only]** — Dedicated trolling execution for wahoo on the heaviest outfit aboard — distinct from wahoo bomb & Raider jig casting, which is a cast-and-burn presentation on m
+- ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md) — (Captain Mark, SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Yo-Yo Iron](yo-yo-iron.md) — Drop a heavy iron straight down to a mark and crank it back up at full speed on a heavy jig-stick — a vertical presentation for fish holding deep or in current
 <!-- index:end -->
 
@@ -31,76 +59,5 @@
 <!-- mermaid:start -->
 ## Map
 
-```mermaid
-graph LR
-  n0["Bait-and-Switch (Striped Marlin)"]
-  n1["Chunking"]
-  n2["Deep-Drop Swordfishing (daytime)"]
-  n3["Drop Shot"]
-  n4["Dropper Loop"]
-  n5["Fighting a Big Bluefin — Boat-Handling to the Gaff"]
-  n6["Flyline"]
-  n7["Foamer Casting"]
-  n8["Hoop Netting"]
-  n9["Inshore Crankbaits"]
-  n10["Kite Fishing"]
-  n11["Knife / Speed Jigging"]
-  n12["Ned Rig"]
-  n13["Rockfish Deep-Dropping"]
-  n14["Sliding Sinker"]
-  n15["Slow-Pitch Jigging (SPJ)"]
-  n16["Speed Trolling"]
-  n17["Surface Iron"]
-  n18["Swimbaits"]
-  n19["Trolling"]
-  n20["Yo-Yo Iron"]
-  n0 --> n19
-  n1 --> n18
-  n1 --> n19
-  n10 --> n16
-  n10 --> n5
-  n11 --> n15
-  n11 --> n17
-  n11 --> n6
-  n13 --> n14
-  n13 --> n15
-  n13 --> n4
-  n14 --> n13
-  n14 --> n17
-  n14 --> n4
-  n14 --> n6
-  n15 --> n11
-  n15 --> n13
-  n15 --> n4
-  n16 --> n10
-  n16 --> n19
-  n17 --> n11
-  n17 --> n14
-  n17 --> n19
-  n17 --> n20
-  n17 --> n7
-  n18 --> n1
-  n18 --> n20
-  n19 --> n0
-  n19 --> n1
-  n19 --> n16
-  n19 --> n17
-  n19 --> n20
-  n19 --> n5
-  n19 --> n6
-  n20 --> n17
-  n20 --> n18
-  n20 --> n19
-  n20 --> n4
-  n4 --> n13
-  n4 --> n14
-  n4 --> n15
-  n4 --> n20
-  n5 --> n10
-  n5 --> n19
-  n6 --> n11
-  n6 --> n14
-  n6 --> n19
-  n7 --> n17
-```
+_Map skipped: 49 notes exceed the 30-node cap._
 <!-- mermaid:end -->

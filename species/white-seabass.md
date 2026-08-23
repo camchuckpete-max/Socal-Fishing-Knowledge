@@ -1,8 +1,10 @@
 ---
 type: species
-tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water]
-sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM]
+tags: [white-seabass, wsb, squid, moon, slack-tide, islands, kelp, off-color-water, fluke, drift-boat]
+sources: [Xr4nURK-Z48, HnqiE05vdXs, DnSqw4r7A1s, -JZpyWLdKlk, 6TBxHnkYXI0, OpcKQPA3vAI, Z3rZqy2Pi8E, ShSxNKAcUB4, Y2bXn44lfqo, 82gEHYel-4U, zn4n7k3iaZo, xFS3MW4GpDU, sHnqSIOjTdM, sIoNELGlxmk, 9MzNNwHiBXs, Eo_bA8IWvyU, X-itrm5QkcM, hjZ3hgq0Bzg]
 confidence: high
+regions: [socal-bight, baja-pacific-north]
+waters: [island, nearshore-coast]
 ---
 
 # White Seabass
@@ -39,6 +41,14 @@ lead-head-and-squid is the signature rig.
   but consistent with WSB holding the same squid-driven island structure
   yellowtail work. The boat had already reached its trip's white seabass
   limit, so each fish taken this way was released rather than boxed.
+- **Illustrative afternoon example — West Cove, Catalina (dave-hansen, Your
+  Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04;
+  registered voice, single mention, told as a hypothetical/rhetorical
+  example rather than a directly reported result — medium confidence,
+  treat as a lean, not a confirmed bite):** used as a worked example of a
+  "game plan" line rather than a dated report — anchoring **West Cove in
+  32 ft of water at 3 p.m.** was the stated afternoon seabass play in the
+  example.
 - **Squid is the driver.** From the
   [warming transition through the warm-stable regime](../conditions/water-regimes.md)
   (typically early spring through summer), WSB tracks the **squid** —
@@ -99,7 +109,10 @@ WSB is a **water-reading and meter** fishery, not a bird fishery.
 | Casting off-color rip / kelp edge, some current | **[Surface iron](../techniques/surface-iron.md)** worked slow | Jig-stick class (7–9', 40–50 lb) | A classic island WSB and yellowtail crossover; slow, steady grind over the color edge |
 | Anchored, no bait aboard | **Chum bucket** off the transom as an artificial "thumb over the hose" + lead-head/squid or slider cast on the color edge | 30 lb bait class | Chum bucket builds the plankton→bait→WSB chain and its drift line reads your true current (2/20/25) |
 | Late-fall island, off-color water, current **into** the island | Fish the **into-island dirty water** on the kelp edge | Bait / jig-stick class | The seasonal exception to the parallel-current prior — SCI late fall wanted off-color water and current **into** the kelp (11/23/22 — see Doctrine) |
-| Squid soak with no pinned nest/structure to anchor on — working the column blind | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: light slider on a thin-wire hook, cast out, let it sink slowly all the way to bottom, then reel up and recast immediately — never let it sit on the bottom | 30 lb bait class | WSB's forward-facing mouth won't take a bottomed bait — a bait left on bottom draws bat rays, shovelnose and leopard sharks (mouths on the underside of the head) instead; constant recasting also raises calico bass, perch and sheephead (Your Saltwater Guide, ShSxNKAcUB4, 2020-12-08) |
+| Squid soak with no pinned nest/structure to anchor on — working the column blind | **[Sliding sinker](../techniques/sliding-sinker.md)**, suspend-and-retrieve: light slider on a thin-wire hook, cast out, let it sink slowly all the way to bottom, then reel up and recast immediately — never let it sit on the bottom | 30 lb bait class | WSB's forward-facing mouth won't take a bottomed bait — a bait left on bottom draws bat rays, shovelnose and leopard sharks (mouths on the underside of the head) instead; constant recasting also raises calico bass, perch and sheephead (Your Saltwater Guide, ShSxNKAcUB4, 2020-12-08). **Fish called mid-column/near-surface rather than pinned to bottom** is the specific trigger for reaching for the slider over the dropper loop (Tackle Express, Eo_bA8IWvyU) |
+| Gray light or before dawn, heavy fog, or a shadowed spot — bite window rather than a location cue | **Stationary bait-jig soak**: a large single-hook, glow-backed jig (Tady TLC / Tady 40 class — no weight given on camera) baited with 1–3 whole squid, dropped to bottom, cranked up ~3–6 to 10 ft, then left hanging in the holder to work passively with the boat's roll | Tady TLC/40-class glow jig on a 30–40 lb bait/jig rod | Distinct from the actively-worked lead-head-and-squid above — this is a passive rail soak, timed to the low-light window most WSB are caught in (Tackle Express, Eo_bA8IWvyU); see [sliding sinker — heavy squid-holding jig](../techniques/sliding-sinker.md#white-seabass-weight-ladder--suspend-and-retrieve-your-saltwater-guide) |
+| WSB won't eat bait (squid or fin bait), or the fish are out of comfortable drop range | **Artificials, cast and worked**: soft-plastic flukes on a jig head (worked with sink-pop-flutter casts), or a **[tube bait ("hookup bait")](../techniques/tube-bait-fishing.md)** worked with thumb-tension on the sink and an occasional pop | Baitcaster/casting class | Named on camera as a WSB-specific "WSB Special" hookup bait, garlic-scented, 5/8 oz to 1.5 oz by current (Tackle Express, Eo_bA8IWvyU) — see Doctrine below for a scent-mechanism conflict with the HookUp Baits maker's own account. Full erratic-crack retrieve mechanics for a fluke lead head (chop-glide, sweep-drop, crack-slack) in [leadhead swimbait retrieve — open-water casting retrieves](../techniques/leadhead-swimbait-retrieve.md#open-water-casting-retrieves--erratic-seabassyellowtail-vs-smooth-halibut) (Tackle Express, `hjZ3hgq0Bzg`) |
+| Drifting a sonar mark or squid nest with the boat's bait anglers stacked on the wind-face rail fishing dropper loop | **Cast a white fluke to the flanks**, away from the bait crowd, rather than crowding onto the bait rail | Baitcaster/casting class | The bait rail's effective swath is narrow (~30–40 ft by the boat's length); flanking fluke casters cover more total water, and since WSB swim through rather than hold still, the two presentations are complementary, not competing — full reasoning in [swimbaits — covering more water than the bait anglers](../techniques/swimbaits.md#covering-more-water-than-the-bait-anglers-tackle-express) (Tackle Express, X-itrm5QkcM) |
 
 **Anchoring geometry:** WSB is **not a bottom fish** — anchor **up-current of the
 spot** and let bait/chum drift back to it; scale the standoff to current strength,
@@ -114,15 +127,47 @@ into the spot once the current read right.
 
 - **Rod/reel:** a **30–40 lb bait/jig rod** for the lead-head-and-squid and dropper
   loop; a **[jig-stick class](../techniques/surface-iron.md)** (7–9', 40–50 lb) for
-  the surface iron. See [gear classes](../tackle/gear-classes.md).
+  the surface iron. **Conventional star-drag reels favor the dropper loop; a
+  low-profile baitcaster favors casting artificials**, and a lot of monofilament
+  (WSB have soft mouths and pull the hook easily on straight braid) — see the
+  full rod/reel/line breakdown in [Tackle Express — white seabass rod, reel,
+  and line](../tackle/tackle-express-white-seabass-rod-reel-line.md)
+  (Eo_bA8IWvyU). A shorter, corroborating tackle-counter clip names three
+  specific casting-reel models (Daiwa Lexa, Penn Fathom, Shimano Tranx) as a
+  step up from the heavy tuna-class reels anglers often over-bring for this
+  species, and calls out spinning rods as a good option for anglers new to
+  conventional gear — see [casting reel for sea bass and
+  yellowtail](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
+  (QEmxUIGmKbo). See also [gear classes](../tackle/gear-classes.md).
 - **Terminal:** **[lead-head + squid](../rigging/leadhead-mods.md)** (2–3 squid
   threaded up the head), **[dropper loop](../techniques/dropper-loop.md)** with
   squid, **[surface iron](../lures/iron-jigs.md)** for the cast,
   **[sliding sinker](../techniques/sliding-sinker.md)** on a thin-wire hook
   (not octopus) for the blind suspend-and-retrieve soak. Squid is the
   staple; the market/wild-caught squid works even on the small side.
+- **Fin-bait backup, when squid isn't around:** on a charter, squid supply
+  isn't guaranteed — weather, or squid simply not being around, are named
+  triggers to switch to **fin bait (sardine, mackerel)** instead, fished on a
+  proper **J hook** sized to the bait (Owner Flyliner, **1/0 and 2** for
+  5–7 in sardines/mackerel — independently corroborated by a second Tackle
+  Express video, Eo_bA8IWvyU, which gives the same size pair and the same
+  5–7 in bait range; the earlier asr-uncertain flag on the exact sizes is
+  resolved by this repetition), also fine on a dropper loop. See [Charter
+  bait-tank hook kit — sea
+  bass](../tackle/tackle-express-charter-bait-tank-hook-kit.md#sea-bass--squid-vs-fin-bait-backup-9mznnwhibxs)
+  (9MzNNwHiBXs).
 
 ## Doctrine & conflicts
+
+- **Garlic scent on hookup baits — a mechanism conflict, kept side by side.**
+  Tackle Express frames the garlic scent on its WSB-branded hookup bait as a
+  primary attractant, tied to amino-acid count and framed as triggering
+  predatory instinct (Eo_bA8IWvyU). The HookUp Baits co-owner describes the
+  same brand's garlic scent differently — as a **cover scent** masking the
+  plastic's manufacturing smell, not the primary draw, in
+  [tube baits](../lures/tube-baits.md#scent). Two different speakers
+  describing the same product line's garlic component with different stated
+  mechanisms — not reconciled here.
 
 - **Doctrine (high):** moon-clustered, slack-tide, off-color-triad, squid-driven —
   repeated across dated reports (7/14, 8/11, 8/31/22) and the 2/20/25 inshore
@@ -238,26 +283,27 @@ into the spot once the current read right.
 ## Linked from
 
 - [California Halibut](california-halibut.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
+- [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
+- [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Iron Jigs](../lures/iron-jigs.md)
-- [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
-- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Moon](../conditions/moon.md)
 - [October](../seasonal/october.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Surface Iron](../techniques/surface-iron.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
+- [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)
-- [Water Regimes](../conditions/water-regimes.md)
+- [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

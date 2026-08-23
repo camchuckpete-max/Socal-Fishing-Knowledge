@@ -1,8 +1,10 @@
 ---
 type: technique
 tags: [bluefin, kite, flying-fish, offshore, live-bait, mackerel]
-sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU]
+sources: [YsiHziY_PWw, cameron, w5_x6kkN-xE, 2y0VznL2qk8, wYeKJLoKo4g, usHl-4SfqDA, zBd1mayUt_I, QSvzVHW9UMk, Ix0gG0-l3v0, vCskOx6N-XM, rsCAh-QyK60, pk2blktDQ9Y, UuyqTE21-kc, 3tQ1_xiqwVU, JiJYamo0QHk, RM7cBgCDWFA, fgTmUq78ofQ, lf3S28nh-kk, shZCjX2-fkI, jH0q4UPjwC0]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [open-ocean, bank]
 ---
 
 # Kite Fishing
@@ -33,6 +35,39 @@ bluefin approaches, is the router: [bluefin tuna](../species/bluefin-tuna.md).
   splashing commotion draws the bite.
 - Keep the bite leader **short** so the hooked fish can be gapped at the boat —
   the harness note carries the leader length and wing-angle numbers.
+- **Why it skips, not flies (Capt. Dave Hansen, live seminar, Fred Hall Show
+  2019 Part 2, filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12;
+  dave-hansen registered voice — repeated doctrine, high confidence):**
+  flagged on camera as a common angler mistake — flying the bait clear
+  through the air like a kite itself, rather than skipping wave-to-wave
+  across the surface the entire time. Stated reasoning: the fish are in the
+  water, not the sky, so the bait has to stay in constant contact with the
+  surface to draw a strike — corroborates, with an explicit mechanism, the
+  dapping/constant-contact doctrine already logged above. The same talk also
+  restates the **~8.5 kt** trolled-flyer speed already logged in
+  [flying fish harness](../rigging/flying-fish-harness.md#artificial-alternative--durable-rubber-flyer-for-trolling)
+  — "eight and a half knots... that's what they eat" — a second dated data
+  point for that figure from the same registered voice.
+
+## Adding a sliding sinker to a kite-flown bait (Alijos Rocks)
+
+**Stated reason** (SearcherSportfishing, `jH0q4UPjwC0`, filmed September 2010
+per the video title (upload date 2011-03-29), Alijos Rocks, Baja Pacific
+south; unidentified crew member interviewed dockside before departure — this
+clip is raw on-the-water footage, not the Tackle Tip Thursday/Tackle Talk
+Live series that qualifies `searcher-sportfishing` for `high`, so it stays
+`medium`, single mention): before heading out on a kite rig, the angler
+described adding a **2–4 oz sliding sinker** onto the kite-flown bait, citing
+advice from others ("that's what they were saying") that the slider **keeps
+the bait in the water better** (transcript does not say "down" or otherwise
+specify a depth mechanism — preserved as heard). The angler frames it as untested for
+himself ("we'll put that to the test"). No leader position, hook, or bait
+species is given on camera, and the mechanism isn't explained beyond the
+stated outcome — kept side by side with, not merged into, this note's
+dead-boat/dapping doctrine above (which flies the flyer bare, with no added
+weight) and with the separate island/bank sliding-sinker weight data in
+[sliding sinker](sliding-sinker.md), none of which describe a slider paired
+with a kite.
 
 ## Observed: kite height, distance, and troll speed (San Diego Bay / 40 mi off San Diego)
 
@@ -292,6 +327,95 @@ trigger to speed-troll once the kite won't fly. See
 - **Observed reel example:** an **Okuma Makaira 50 Wide** on the kite/fighting
   outfit (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel —
   medium confidence).
+- **Observed outfit, long-range boat kite/fighting rod (Logan Watson,
+  SearcherSportfishing, `RM7cBgCDWFA`, 2021-04-29 — presenter self-identified
+  on camera, captions render the name "Logan Flashington," `asr-uncertain`
+  surname; registered channel, single mention — medium confidence; the named
+  reel brand is a product mention and stays `low` per the sponsored-claim
+  rule):** a **Shimano Tiagra 50 Wide** loaded with **200 lb** line "for the
+  extra strain." The presenter separately states that kite-fishing main line
+  generally wants **roughly 1,000 yd of 130 to 200 lb mono** capacity, then
+  self-corrects on camera ("sorry ... on here I have") to describe this
+  specific reel as a **15 ft top shot of 135 lb mono** over **200 lb braid**
+  — the transcript does not cleanly resolve whether the 1,000 yd figure is
+  this reel's actual spooled capacity or general advice, so it is reported
+  here as the general statement, not asserted as this reel's line count
+  (`asr-garbled`). The top shot connects to the braid with a knot the
+  presenter names on camera as a "cat's paw knot" (not a standard
+  line-to-line knot name in this fishery's other sources; `asr-uncertain`,
+  preserved as heard rather than corrected). The **rod** is rated **80 to
+  200 lb, unlimited class**, 7 ft
+  6 in, built as a **rail rod** specifically so a big fish can be fought off
+  the rail without breaking the rod down (rod brand not resolved — heard as
+  "draft," `asr-uncertain`, withheld). A **500 lb ball-bearing swivel** joins
+  the top shot to the [flying-fish-harness leader](../rigging/flying-fish-harness.md#searchers-yummy-flyer-and-dead-flyer-leader-specs-tackle-tip-thursday-vol-145).
+
+## Observed outfit and dead-flyer specs (Searcher's kite program, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention of this specific
+outfit.)** As of this seminar the *Searcher* carries **three** dedicated kite
+setups: **Accurate ATD 50** reels on **Seeker 2x4** rods (product/model names
+— low confidence, sponsored-claim caveat; the boat's own equipment, not a
+retail pitch, but held to the same registry caveat as other named gear in
+this seminar), loaded with
+**200 lb spectra tied straight to 400 lb mono** — in range with, and a named
+reel/rod pairing for, the 200 lb braid-to-400 lb-fluoro kite main-line/leader
+spec already logged above (Hansen) and the 200–400 lb (typically 400) leader
+spec in [flying fish harness](../rigging/flying-fish-harness.md). Terminal
+end: a **12/0 stainless Mustad** hook with a **treble stinger hook**, rigged
+into a dead flyer with the wings spread open — the same J-hook-plus-trailing-
+treble construction already logged in the harness note, now with a
+12/0-specific hook size and the stated main line joining straight to the
+mono leader with no separate swivel/crimp step described on camera. **Dead-
+boat working style, corroborating:** worked slowly on the way out, then left
+to sit still once in the bite zone — the same dead-boat/dapping presentation
+already documented above (Hansen), not a trolled presentation. **This grade
+of flyer/kite gear is reserved for the biggest fish** — stated on camera as
+typically only fished once **100 lb+** bluefin are confirmed around; the crew
+hadn't yet needed to fish it that (2021) season as of this seminar.
+
+## A fourth outfit citation — Accurate twin-drag/Seeker rail rod, 130 lb braid
+
+**SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`,
+2021-03-26; `searcher-sportfishing` registered channel — medium confidence,
+single mention.** A further boat-supplied kite outfit, distinct from the
+three-ATD-50 kite program and the Shimano Tiagra 50 Wide citation already
+logged above: an **Accurate twin-drag** reel on a **big Seeker rail rod**
+(captioned "QSL 3x1" — asr-uncertain, plausibly the Seeker OSP 1x3 already
+logged in [gear classes](../tackle/gear-classes.md)), or alternates named on
+camera as **Penn International two-speeds** and **"Phantom 60s"**
+(asr-uncertain, not confirmed as rod or reel). Spooled with **130 lb
+braid**; if bringing a personal kite outfit instead of the boat's own, the
+stated minimum is **100 lb top shot on a big, heavy rail rod.** Kite
+leaders are sold aboard or can be brought pre-tied. Full session context —
+this same seminar's flat-fall, Colt Sniper, and kelp-paddy yellowtail
+outfits — is in [Searcher spring bluefin/yellowtail
+quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-supplied-or-bring-your-own).
+
+## An earlier boat-rental kite outfit, and a budget framing for personal reels (Captain Art/Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel — medium confidence, single mention of this specific outfit)
+
+- **Rental kite outfit, as of this 2021 spring-trip briefing:** a **7 ft
+  graphite Calstar 770XH** rail rod paired with a **Shimano Talica 25**
+  two-speed reel spooled with **80 lb** line, offered as Fisherman's Landing
+  rental gear — an earlier-dated citation than, and a lighter-braid-capacity
+  outfit than, the three-Accurate-ATD-50/Seeker-2x4 kite program and the
+  Shimano Tiagra 50 Wide citations already logged above; kept side by side as
+  a further boat-supplied kite-outfit data point, not reconciled to one rig.
+- **Minimum for a personal kite outfit, if not using the boat's:** an
+  **80-lb-class two-speed reel** at minimum — framed as the floor rather than
+  the ideal, in range with the "100 lb top shot on a big, heavy rail rod"
+  personal-outfit minimum already logged above from a different citation.
+- **Reel picks framed by budget, not performance:** asked for kite-reel
+  recommendations, the stated options split into two tiers — a higher-end
+  ("Ferrari") tier naming **Accurate** (twin-drag) and **Shimano
+  Talica**-class reels, and a workhorse ("Ford F-150") tier naming **Penn
+  International** two-speeds (50 Wide and a 60 lb-class model) and the
+  **Shimano Tiagra**; **Okuma Makaira 30** was also named as a further option
+  without being placed in either tier. Framed as a spend-vs.-durability
+  choice rather than a strength/capability difference — all of the named
+  reels are called adequate for the job.
 
 ## Common failures
 
@@ -311,7 +435,9 @@ trigger to speed-troll once the kite won't fly. See
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
+- [Sliding Sinker](sliding-sinker.md)
 - [Speed Trolling](speed-trolling.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 - [Yellowtail](../species/yellowtail.md)

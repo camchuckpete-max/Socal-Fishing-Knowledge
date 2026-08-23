@@ -3,6 +3,8 @@ type: seasonal
 tags: [summer, bluefin, white-seabass, moon, paddies, search-box, upwelling]
 sources: [DnSqw4r7A1s, Blh2BA-7Ono, -JZpyWLdKlk]
 confidence: high
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # June–July
@@ -65,18 +67,9 @@ factor that displacement into where yesterday's fish will be at gray light. See
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
-- [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Moon](../conditions/moon.md)
-- [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
-- [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

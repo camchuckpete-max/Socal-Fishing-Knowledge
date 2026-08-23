@@ -1,8 +1,10 @@
 ---
 type: technique
-tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore]
-sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw]
+tags: [sliding-sinker, carolina-rig, halibut, sand, drift, squid, baja, sea-of-cortez, grouper, cabrilla, albacore, snook, lopez-mateos, magdalena-bay]
+sources: [apyGy3XKlss, M8hOYQ_6rSg, ShSxNKAcUB4, d0yGBQDeY_4, 6EDQtQHEwFE, IwxqgocsQTY, ilINTeknKB4, zQtExV8Z2eY, MUpvP-Yl2R0, w37pHf0xjrw, 46ha7J1Fc6A, EcQK5elTPJE, yGXSrUauo2w, zkA1jqHXXD0, Eo_bA8IWvyU, O49WsHP4Zh0, nRIAgz5G_Bc]
 confidence: medium
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [bay-harbor, nearshore-coast, island, bank]
 ---
 
 # Sliding Sinker
@@ -41,9 +43,29 @@ fish sit is the router; this note owns the rig and how you feed the bite.
   A fish that grabs the bait **pulls line through the sinker and feels nothing**;
   that is the whole point of the rig.
 
-## The squid version (Duane Diego Malloy)
+**A long-leader, no-cast build (Tackle Express, `O49WsHP4Zh0`, 2026-04-27;
+unregistered channel, single mention — medium confidence).** No species or
+location is stated on camera; carried here as a general build variant, not
+tied to a location or fish. Water depth at the moment of filming was called
+out as **about 9 ft**, but no place name accompanies it.
 
-- For Channel Islands squid fishing Malloy runs a **small sliding egg sinker
+- **Leader: 4, 4½, or 5 ft** — longer than this note's general guidance above
+  and, in the presenter's own words, **"way too long for most people."** Kept
+  side by side with the shorter, situational leader lengths logged elsewhere
+  in this note (e.g. the ~6 ft Baja grouper leader, the 12–18 in
+  dropper-loop-style spacing, both further down) rather than reconciled into
+  one number.
+- **Drag: kept pretty loose** — "not too pinched down" — a looser setting than
+  the locked-down drag specified for the Lopez Mateos snook/grouper build
+  further down in this note; a different fishery and presumably a different
+  fish, so treat as a separate data point, not a contradiction.
+- **Deployment: no cast.** Rather than casting the rig, he uses the boat's own
+  movement to get distance — flops the bait out alongside the boat and lets it
+  sink from there.
+
+## The squid version (Duane Diego Mellor)
+
+- For Channel Islands squid fishing Mellor runs a **small sliding egg sinker
   straight to a Gamakatsu offset octopus hook**, sinker **preferably glow color**
   — it matches the squid and adds a light attractant on the common **night**
   bite.
@@ -73,7 +95,24 @@ ShSxNKAcUB4, 2020-12-08; single mention of this specific build —
   weight. In genuinely heavy current over deep water, he abandons the slider
   entirely for a heavy jig with the squid hooked on it, dropped straight down
   (asr-uncertain: captions render the jig name as "a TLC"; not carried as a
-  brand — see log).
+  brand — see log). **Independent corroboration and a fuller technique for
+  this heavy squid-holding jig (Tackle Express, Eo_bA8IWvyU, 2025-04-16;
+  unregistered channel — medium confidence):** names two Tady-brand jig sizes
+  for this role — a smaller one captioned identically as **"TLC"** and a
+  larger **Tady 40** — both carrying an oversized single hook built to pin a
+  whole fresh dead squid (1–3 squid per jig, deckhand/captain permitting,
+  since squid supply can run short) and a glow-in-the-dark backside. The same
+  ASR string ("TLC") recurring independently across two different Tackle
+  Express transcripts reads as corroboration that this is close to the jig's
+  actual model designation, though the full brand/model is still not
+  confirmed against a catalog. **Fished as a stationary bottom soak, not a
+  worked jig:** drop to bottom, crank up roughly 3–6 to 10 ft to clear snags
+  and bottom bycatch, then leave it hanging in the rod holder — the boat's own
+  roll works the jig up and down passively rather than the angler jigging it.
+  Framed as a **gray-light/very-low-light technique specifically** (pre-dawn,
+  heavy fog, or a spot shadowed from the sun), on the stated reasoning that
+  most white seabass are caught in low light and the glow back draws the look
+  before the squid pile draws the eat.
 - **Lead-head color, a separate point in the same passage:** the lead heads
   he otherwise likes for squid are **orange-headed** — not heavy, sink well
   through the column, sized with a big enough hook to carry the squid — and
@@ -96,6 +135,37 @@ ShSxNKAcUB4, 2020-12-08; single mention of this specific build —
   rod in the holder instead of casting and retrieving, a dropper loop tied 12
   to 18 inches above the sinker holds the squid up out of bottom contact the
   same way — see [dropper loop](dropper-loop.md).
+
+**A second slider build and a depth-based rule for choosing it over the
+dropper loop (Tackle Express, Eo_bA8IWvyU, 2025-04-16; unregistered channel —
+medium confidence).** Where the seasonal Hansen build above emphasizes going
+as light as the current allows, this source frames the choice around **where
+in the column the fish are sitting**: reach for the sliding/egg sinker (over
+the dropper loop) specifically when the skipper calls fish **higher in the
+column or near the surface** — his example, fish called at 20–30 ft over
+60–100 ft of bottom — rather than pinned to the bottom, where the dropper
+loop is the better tool.
+- **Glow-in-the-dark egg sinkers**, fished the same free-sliding way, are
+  named as a variant for a more natural presentation.
+- **Weight for the same fish-higher-in-the-column trigger, a companion Tackle
+  Express citation (Tackle Express, "What to Bring Fishing the Channel
+  Islands (Ventura & Oxnard Tackle Guide)," `nRIAgz5G_Bc`, 2026-06-30;
+  unregistered channel, same source cap — medium confidence):** names the
+  "slider squid" rig as a **1/4 oz or 1/2 oz slider** paired with an **Owner
+  Aki Twist hook** — see [hooks](../tackle/hooks.md) for the same channel's
+  Aki Twist sizing for this trip — reached for "when the fish are higher up
+  in the water column," the identical trigger `Eo_bA8IWvyU` gives just
+  above; this citation adds the concrete weight figures that entry didn't
+  state on camera. Not reconciled to a single number, just a second data
+  point in the same weight range as the general 1/8–3/4 oz Hansen ladder
+  above.
+- **Working the column instead of one static depth:** let line out under
+  steady tension (never dump it in slack) so the bait sinks cleanly; after
+  it's had time to settle, engage the reel and take a few cranks to bring the
+  sinker back up near the bait, then free-spool again to let it separate and
+  keep sinking — repeating this cycle works the bait progressively deeper
+  through the zone the skipper is calling rather than fishing one fixed depth.
+  Fished on full fresh dead squid or fin bait, same as the dropper loop.
 
 ## Baja, Sea of Cortez grouper leader (Cesar)
 
@@ -148,6 +218,49 @@ dropper loop:
   nose + mid-body hook — for small yellowtail or barracuda live bait, used
   when a sub-100 lb grouper is grabbing the tail rather than swallowing a
   whole bait.
+
+## Baja Pacific grouper & snook leader — Lopez Mateos (Your Saltwater Guide, Larry Hansen)
+
+Capt. Dave Hansen (Your Saltwater Guide, `dave-hansen` registered) and
+Larry Hansen (PSA, unregistered), 2024 Bart Hall Show seminar,
+`EcQK5elTPJE`, 2024-01-27; single mention of these specific claims —
+`medium` confidence. Region: **Baja Pacific south** (Lopez Mateos /
+Magdalena Bay) — kept side by side with, not merged into, Cesar's Sea of
+Cortez grouper leader above; they are different regions, different
+species mixes (this build also lands snook, not just grouper), and
+different sinker/leader specs. See
+[Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
+for the fishery this rig is built for.
+
+- **Reel:** a **4/0-size, two-speed** reel is stated as mandatory —
+  showing up with a single-speed reel means breaking off "all day" against
+  the structure at this mark.
+- **Rig order:** braid → 80 lb fluorocarbon → sinker → swivel → ~6 ft of
+  **100–130 lb** leader → hook, the standard Carolina/sliding-sinker order
+  this note documents (weight rides free above the swivel).
+- **Mainline:** 80 lb braid.
+- **Hook:** 4X strong hook, sized to the bait — sardine or live shrimp.
+  Live shrimp has to be arranged with the guide the day before (caught
+  overnight); there's no dockside bait receiver stocking it at Lopez
+  Mateos.
+- **Drag:** locked down as tight as the reel allows. Stated reasoning: the
+  fight is decided in roughly the **first 5 seconds** — either the fish is
+  turned before it reaches structure, or it's gone. A hooked snook
+  typically rises rather than diving for the rocks the way grouper do,
+  which is how the crew reads which species is on the line before it's up.
+- **Leader-test progression as the doctrine's origin (Dave Hansen,
+  anecdote):** on his first trips here he lost his first six hooked snook
+  to break-offs, stepping leader up through 60, 80, 100, and finally 130
+  lb before landing fish — consistent with, and the source of, the
+  100–130 lb leader spec above.
+- **Hook failure mode:** 4X hooks have been straightened out on fish up to
+  the 100 lb grouper grade this mark produces.
+- **Species caveat:** the ~100 lb "grouper" here is never given a species
+  name in this source and is not assumed to be the same fish as
+  [Cesar's Sea of Cortez cabrilla/grouper program](#baja-sea-of-cortez-grouper-leader-cesar)
+  above — different region, different technique, and (per that source's
+  own doctrine) a smaller typical fish. See
+  [snook](../species/snook.md) for the species-level routing.
 
 ## Cedros yellowtail, egg-sinker weight (StokedOnFishing)
 
@@ -214,6 +327,38 @@ by side as further SoCal light-slider squid-rig data points, not
 reconciled into a single spec. See
 [yellowtail](../species/yellowtail.md#where--when) for the full session.
 
+## San Diego local/long-range yellowtail, 2–4 oz, no leader shown (Steve Carson, Penn/SearcherSportfishing)
+
+Steve Carson, `yGXSrUauo2w`, "Tackle Tip Thursday Vol. 231 (Sliding Sinker for
+Yellowtail)," 2024-04-25; `searcher-sportfishing` registered channel, single
+mention of this specific build — medium confidence. Framed as "one of the
+favorite ways to fish for yellowtail with live bait on the Searcher," for
+yellowtail in the **12–22 lb** range:
+
+- **Egg sinker sliding straight down to the hook — no bead, swivel, or
+  stopper shown or described.** A leaner, single-piece build than this note's
+  general Carolina-rig format above (egg sinker → bead → swivel → leader →
+  hook); kept side by side rather than merged into that format.
+- **Weight: 2, 3, or 4 oz** (asr-uncertain: a garbled fragment just before
+  these figures may indicate a lighter ~1 oz option was also shown — too
+  unclear to add as a fourth number; see the full build for the caveat),
+  scaled up for more wind or deeper fish, and adjusted through the day as
+  the bite changes. Above 4 oz, a different rig is preferred (not detailed
+  on camera). **Notably heavier** than the
+  ~1/4–1/2 oz island-yellowtail data points logged above (Cedros, San
+  Benito, Catalina, San Clemente Island) — a San Diego local/long-range
+  dockside briefing from a registered voice, kept side by side rather than
+  reconciled with those single-trip, unregistered-channel observations.
+- **Stated reason to reach for this over a flylined bait:** gets the bait
+  away from the boat, and — when bonita or similar bycatch are working the
+  surface — down below them and in front of the yellowtail more quickly.
+- **Hook: J hook, not circle**, roughly 2/0 up to 4/0 for a larger bait —
+  see [hooks](../tackle/hooks.md#circle-vs-j--the-core-decision-swrsycmt4tw-m2q22sppkem)
+  for the full circle-vs-J doctrine this corroborates.
+
+Full rod/reel/line build and the tuna-rig cross-reference in
+[Searcher yellowtail live-bait sliding-sinker rig](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md).
+
 ## Bluefin, nose-hooked, 2 oz sinker, worked on the retrieve (StokedOnFishing)
 
 **Observed** (StokedOnFishing, `IwxqgocsQTY`, "Intrepid Style 8 Day, part 1,"
@@ -229,6 +374,33 @@ species in [rubber-band deep rig](../rigging/rubber-band-deep-rig.md#a-lighter-s
 — kept side by side, not reconciled, as another light-sinker bluefin data
 point. See [bluefin tuna](../species/bluefin-tuna.md#where--when) for the
 same session's butt-hooked-bait alternative and grade.
+
+## Bluefin — slow drop, slow wind, more time in the strike zone (Reliable Fishing Products)
+
+**Riley, Reliable Fishing Products booth, interviewed by Roman Castro at the
+2020 Fred Hall Show, Long Beach — `46ha7J1Fc6A`, "Fishing Tips And Techniques
+from The Fred Hall Show 2020"; unregistered speaker, single mention — medium
+confidence.** His stated go-to for bluefin when not flying a
+[kite](kite-fishing.md) is a sinker rig worked slowly through the whole water
+column on both ends of the presentation, not soaked or fished fast:
+
+- **Drop the bait down nice and slow**, deliberately passing the fish at every
+  depth on the way down rather than free-spooling straight to bottom — the
+  stated reason is not missing fish that are holding somewhere other than
+  where you expect.
+- **Wind it back up on a very slow, steady retrieve** rather than a fast crank
+  — his stated reason is that the slow wind makes the bait **"look as natural
+  as possible"** through the retrieve.
+- **Stated payoff:** working both the drop and the retrieve slowly gives the
+  bait **more total time in the strike zone** on every single presentation,
+  which he ties directly to a better chance at a bite.
+
+A different working style from the settle-and-let-it-load approach in
+**Fishing it** below — this entry actively works the bait through the column
+on both directions rather than soaking it on bottom, which suits a
+presentation problem (grade/depth of the fish uncertain) rather than a
+bottom-relating fish. Kept side by side, not reconciled. See
+[bluefin tuna](../species/bluefin-tuna.md) for the species router.
 
 ## Albacore, light torpedo-sinker slide + minimal slider, 37 mi off San Diego (StokedOnFishing)
 
@@ -264,6 +436,38 @@ matches.
   give slack and let the fish turn before you come tight, rather than pulling
   against a weight it can feel.
 
+## Tangle prevention — rail-rod rental rig (Captain Art, SearcherSportfishing)
+
+Captain Art, SearcherSportfishing, "Tackle Tip Thursday Vol. 181 (Avoid
+Sinker Rig Tangles)," `zkA1jqHXXD0`, 2022-05-12; `searcher-sportfishing`
+registered channel, single mention of this specific build — medium
+confidence. Demonstrated on a **Fisherman's Landing rental outfit** — **100
+lb test** monofilament main line, a **two-speed reel**, and a **rail rod**
+(a graphite Calstar rated **60–120 lb**) — "the outfit you would use with a
+sinker rig." Hook, leader, and connection-knot build are logged in
+[essential SoCal knots — surgeon's knot, mono-to-fluoro
+connection](../rigging/essential-knots.md#when-to-use-it); the
+tangle-cause/fix content below is this video's actual subject.
+
+- **Sinker rides above the leader/main-line connection, not near the hook** —
+  the sinker slides down the main line until it hits the knot joining it to
+  the fluorocarbon leader, and stops there. That keeps the sinker from
+  sliding all the way down onto the hook.
+- **Tangle diagnosis (his own stated guess, not confirmed on camera):** if
+  the sinker rig is coming up tangled around the main line, the most likely
+  cause is **letting the rig down too quickly** — free-spooling it straight
+  down rather than feeding it out at a controlled speed.
+- **Fix:** let the rig down **a little slower, and measured to the correct
+  depth**, rather than in full free-spool.
+- **Bait hooking is the other half of the fix:** **nose-hook the bait.** A
+  bait that's belly-, collar-, or shoulder-hooked won't sink as easily on
+  this rig and will probably pull off. A further, independent citation of
+  the existing **any-weighted-rig → nose-hook** doctrine already logged in
+  [fishing live bait](../bait/fishing-live-bait.md#hook-position-by-situation)
+  from other sources (Dave Hansen, Steve Carson) — here attributed to "won't
+  sink as easily / will pull off" rather than the "unnatural silhouette
+  dragged backward" mechanism given elsewhere.
+
 ## Gear class
 
 Drift / bait-on-the-bottom class — see
@@ -282,23 +486,35 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
+- [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Dropper Loop](dropper-loop.md)
+- [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Kite Fishing](kite-fishing.md)
+- [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
-- [Surface Iron](surface-iron.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
+- [Snook (Robalo)](../species/snook.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trap Rig](../rigging/trap-rig.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)

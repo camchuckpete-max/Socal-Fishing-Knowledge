@@ -3,6 +3,8 @@ type: seasonal
 tags: [prior, bluefin, yellowtail, historical, advection, water-state]
 sources: [XLVUhV8DW64, cameron]
 confidence: high
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Year-Anniversary Prior
@@ -73,13 +75,8 @@ open framing is attributed doctrine, not a gate.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Moon](../conditions/moon.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
-- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
-- [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

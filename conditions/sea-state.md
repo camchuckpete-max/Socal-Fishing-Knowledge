@@ -182,7 +182,6 @@ parameter and not a substitute for the observed/forecast pull.
 - [April](../seasonal/april.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Current Diagnostics](current-diagnostics.md)
-- [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Island Structure](../locations/island-structure.md)
 - [November–December](../seasonal/november-december.md)

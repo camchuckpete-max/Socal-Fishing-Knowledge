@@ -1,8 +1,10 @@
 ---
 type: rig
 tags: [bluefin, kite-fishing, flying-fish, offshore]
-sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM]
+sources: [GqcVaTIlyg0, YsiHziY_PWw, 2y0VznL2qk8, usHl-4SfqDA, Ix0gG0-l3v0, vCskOx6N-XM, JiJYamo0QHk, 2TmLaSCmfC8, RM7cBgCDWFA, QHY5kmU7OTU, f22V2HCv8tI]
 confidence: medium
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [open-ocean, bank]
 ---
 
 # Flying Fish Harness
@@ -52,6 +54,21 @@ naturally across the surface and holds up through repeated deployments.
   action; too light a leader risks a bite-off on this grade of fish. Rig 10 to
   12 flyers for a four-angler day and store them neatly in the cooler so they are
   ready to deploy.
+- **Line-class corroboration (Capt. Dave Hansen, live seminar, Fred Hall Show
+  2019 Part 2, filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12;
+  dave-hansen registered voice — repeated doctrine, high confidence):** his own
+  kite program runs **200 lb braid** main line to a **400 lb fluorocarbon
+  leader** — matching, at the top end, the 200–400 lb (typically 400) leader
+  spec above — fished with **40 lb of drag** on the reel. Full fight-style
+  context for the same rig is in
+  [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+- **Conflict, kept side by side — single hook, no treble stinger (same
+  source):** Hansen states his own rig runs a **single hook only, no
+  treble** — "we is single hook, no trebles. I know a lot of people have to
+  use a treble and you got to keep using it, that's what you feel you need" —
+  which runs opposite the standard San Diego flyer rig's J-hook-plus-trailing-
+  treble construction documented above (`GqcVaTIlyg0`). Not reconciled here:
+  one captain's stated departure from the standard rig, not a correction of it.
 
 ## Simpler alternative wing-lock: popsicle stick
 
@@ -117,6 +134,128 @@ treated as `low`** per the sponsored-claim rule — only the
 slide-up/reusable/replaceable-wing mechanism above is logged as a knowledge
 point.
 
+## Artificial alternative — "California Delta Flyer 350" (product ad, Tackle Express)
+
+Tackle Express, "Give the Big Bluefin what they want, California Delta Flyer
+350" (`f22V2HCv8tI`, 2024-02-09, 15 sec) — a straight product ad with no
+on-camera fishing footage or presenter identified; `tackle-express` is an
+unregistered channel and the entire clip is a sales pitch, so this is treated
+as **low** confidence per the sponsored-claim rule (not merely capped at
+medium).
+
+- Product: **"California Delta Flyer 350,"** an artificial flying-fish
+  imitation.
+- Two design points named on camera: a **built-in ("internal") floating
+  harness** — the float/harness appears to be molded into the lure rather
+  than rigged separately, unlike the skewer-and-harness builds above — and
+  **interchangeable wings**, echoing the replaceable-wings point already
+  logged for the "California Flyer" above.
+- Stated presentation range: can be **skipped, drifted, or slow-trolled**,
+  spanning the same skip/drift/slow-troll spectrum already covered by the
+  dead-boat (drift), trolled-rubber, and slide-up artificial options above.
+- No leader weight, hook spec, size, or price is given in the clip; kept here
+  as a bare product/feature listing, not fishery doctrine.
+
+## Alternative wing-tie method — braid instead of zip ties (Logan Watson, SearcherSportfishing tutorial)
+
+Logan Watson, SearcherSportfishing (`2TmLaSCmfC8`, 2021-04-08; presenter
+self-identified on camera; unregistered channel — medium confidence): a
+step-by-step rigging method for the pre-rigged dead flying fish product sold
+as the **"G Fly Yummy"** (a dead/frozen natural flyer, priced around **$30
+each** — not to be confused with the rubber/artificial trolled lure branded
+the "Yummy Flyer" logged above; similar name, different product), built for
+the **helium balloon / kite rig** for big local bluefin fishing:
+
+- **Body skewer:** a kitchen "spade kabob skewer" is inserted into the bone
+  just below the meat and pushed all the way through, twisting it if needed
+  to get it through — the anchor point for the rest of the rig.
+- **Thaw state matters:** rig the flyer when it is thawed out a little but
+  not fully thawed — stated reason: it works better once deployed on the
+  water that way.
+- **Wing holes:** a second skewer punches a hole in each wing, placed at the
+  second or third bone in from the edge — stated reason: more material there
+  for the tie to grab onto when it's attached to the skewer.
+- **Wing tie:** instead of a zip tie, thread **30 to 50 lb braid** through the
+  wing hole and around the skewer (this source prefers the lighter end, 30 lb
+  used on camera). Secure with a simple overhand knot tied twice, then a
+  third finishing/locking knot (unnamed on camera) — stated reason for the
+  third tie: without it the wing knot can slip. Repeat on the other wing.
+- **Final leader/hooks:** a **400 lb** leader carries a J hook through the
+  body's center-skewer point and a big treble hook through the back — the
+  same J-hook-plus-trailing-treble construction and leader weight already
+  logged above from the standard San Diego flyer rig (`GqcVaTIlyg0`).
+
+Kept side by side with the skewer-and-zip-tie harness above, not merged into
+it — a different wing-lock material (tied braid vs. zip tie) for the same
+kind of rig, not shown to be superior or inferior.
+
+## Searcher's Yummy Flyer and dead-flyer leader specs (Tackle Tip Thursday Vol. 145)
+
+Logan Watson, SearcherSportfishing (`RM7cBgCDWFA`, "Tackle Tip Thursday Vol.
+145 (Yummy Flyer Outfit)," 2021-04-29; presenter self-identified on camera —
+the auto-generated captions render the name as "Logan Flashington," read here
+as the same presenter who self-identifies as Logan Watson in the channel's
+G Fly Yummy rigging tutorial above (`2TmLaSCmfC8`); surname is
+`asr-uncertain`). Registered channel, repeated doctrine across two videos —
+`high` confidence for the hook/leader construction; the specific reel/rod
+brand mentions below are product endorsements and stay `low` per the
+sponsored-claim rule for this channel. Two separate leaders are shown for the
+kite spread, both terminating at a **500 lb ball-bearing swivel** that
+connects the leader to the kite (fishing) rod's main line:
+
+- **"Yummy Flyer" leader:** **400 lb Izorline XXX (Triple X)** mono, to a big
+  **9/0 to 12/0 J hook made by Owner**, with a trailing **5X-strong treble
+  hook, also Owner**, stated on camera as "extremely strong" and built to
+  "hold up under a fish's brute force." Same J-hook-plus-trailing-treble
+  construction as the standard San Diego flyer rig above (`GqcVaTIlyg0`), now
+  with a named hook brand (Owner) that the earlier sources didn't specify.
+- **Dead flying fish leader:** a separate leader, **3 ft of 400 lb mono**, to
+  a big **9/0 Owner** hook (the specific model name is garbled in the
+  auto-generated captions — heard as "Joe Boo Hood" — `asr-uncertain`,
+  withheld rather than guessed), with a trailing **5X Owner treble hook**.
+  The **3 ft length corroborates** the bite-leader length (3 ft, 3.5 ft max)
+  and the 400 lb mono weight already logged above (`YsiHziY_PWw`) — repeated
+  doctrine on both numbers.
+
+This video's on-camera language uses "Yummy Flyer" for the leader/hook rig
+shown in hand — not confirmed to be the same physical product as the trolled
+rubber "Yummy Flyer" lure (`2y0VznL2qk8`) or the dead/frozen "G Fly Yummy"
+(`2TmLaSCmfC8`) logged above. Kept side by side, not merged, since none of the
+three sources cross-references the others' product.
+
+## "Life jacket" flying fish — a kite-free and balloon-free float, private-boat friendly (Steve Carson, Penn, SearcherSportfishing, `QHY5kmU7OTU`, uploaded 2021-01-29, filmed 2021-01-28; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+A different float mechanism from the kite, helium balloon, or hand-inflated
+balloon rigs above — this one keeps a **frozen** flying fish floating on its
+own, with no kite or balloon at all:
+
+- **Build:** thaw the frozen flying fish enough to work with, then use
+  **toothpicks** to pin the wings open and rigid (the same wing-locking goal
+  as the skewer/zip-tie harness and the popsicle-stick method above, done
+  here with toothpicks instead). Cut a **pool noodle in half lengthwise** and
+  fit that half-noodle over the fish's back like a **life jacket**, giving it
+  buoyancy so it floats and rides the surface on its own.
+- **Deployment:** because the rigged bait floats by itself, it doesn't need a
+  kite or a balloon to hold it up — it can be fished **on the slide** (let
+  back with the drift) or dropped off the **bow** and soaked out, same as the
+  dead-boat/dapping presentations above, but without a kite line or clip in
+  the system at all. Reel: a Penn International 20-class outfit is named as a
+  suitable pairing on camera, sized to land a 300 lb-class bluefin if one
+  eats it.
+- **Where it's used:** named as especially well suited to **private boats**
+  (as opposed to a crowded sportboat rail) — reported on camera as also seen
+  fished from party/sportboats on occasion, dropped off the bow on a long
+  drift.
+- **Stated trade-off:** works, but is a little more inconvenient than a
+  standard kite/balloon rig — it has to be planned and rigged ahead of time
+  (the toothpick-and-noodle build, plus thawing the fish partway) rather than
+  deployed on the fly.
+
+This sits alongside, not replacing, the skewer/zip-tie harness, popsicle-
+stick, and rubber-band wing-lock methods above — a fourth, distinct
+wing/float-lock approach, notable mainly for removing the kite/balloon
+requirement entirely rather than for a different wing-lock material.
+
 ## Rig it
 
 Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
@@ -124,8 +263,11 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 <!-- backlinks:start -->
 ## Linked from
 
+- [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](../tackle/tackle-express-accurate-tern-2-reel.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 <!-- backlinks:end -->

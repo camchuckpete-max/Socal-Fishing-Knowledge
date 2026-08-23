@@ -124,5 +124,4 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 - [Tide and Slack](tide-and-slack.md)
 - [Water Regimes](water-regimes.md)
 - [White Seabass](../species/white-seabass.md)
-- [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

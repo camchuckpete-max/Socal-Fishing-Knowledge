@@ -1,8 +1,10 @@
 ---
 type: technique
 tags: [trolling, offshore, spread, tuna, dorado, marlin, wahoo, baja, sea-of-cortez, cabrilla]
-sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8]
+sources: [cameron, HzE4FHHcvTk, M8hOYQ_6rSg, dgauGbNxP84, ll7r4A6atno, _C8w6zeVPak, BvT560Nblqo, Cobp85UvHmM, tcso7Lpm_Xs, 6j7V34GYzzw, APsnsunT4gM, isXJONlpUP4, OVwqUKim9Pc, QSmE3mdEL28, I-QBxuV2p7M, brx6Ie_L2FM, xzIaUEDklrE, 9tIp4n7q850, Zo92MG459gQ, ORC1A68cEeM, 92y14x33etQ, YUdbrIm9vrE, A8SuzB5qiKE, 0dIwWiOc1NY, U1AgwmlY5bI, 4t_Z75shK_E, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, 97clKtVsEOs, mG8ZZLFGlT8, elBPRrdkugU, HTowqnwAMeA, ouBrIdO7d4k]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [open-ocean, bank, island]
 ---
 
 # Trolling
@@ -18,6 +20,15 @@ top-shot specs live in each lure note.
 - You are **covering water in transit** or searching a zone, and want lures
   working while you look. See [bluefin trolling](../species/bluefin-trolling.md).
 - You want lines out sweeping a bird/bait area (below).
+- **Why troll — locating fish, not just catching them** (Captain R Taylor,
+  SearcherSportfishing, `8UAtGqEjDtU`, 2023-04-13; unregistered channel —
+  medium confidence): the stated primary reason to troll is that fish don't
+  always show on the fish-finding gear or visually on the surface — a strike
+  on a trolling lure marks fish that would otherwise go undetected. Troll
+  less (or not at all) once schools are visible on the surface, or during
+  long drift periods — no reason given on camera for the drift case beyond
+  the correlation. Standard heavy trolling outfit on this boat: **80 or
+  100 lb test**.
 - **Observed** (StokedOnFishing, 2015-01-20, Cedros Island, Baja —
   `_C8w6zeVPak`, Shogun Skiff Trip part 3): with bait and birds showing and
   fish boiling from time to time but no bite on
@@ -261,6 +272,124 @@ Class terms for each: [gear classes](../tackle/gear-classes.md).
   for conventional bar setups — a platform constraint of his boat (see his
   [boat](../profiles/cameron/boat.md)), not a rule that bars beat single lures.
   On a bigger cockpit both are on the table.
+
+## SoCal, Catalina — Tanker Lanes/277 Bank Marlin Troll
+
+**Observed** (StokedOnFishing, presenter/angler Jimmy Decker, 2014-11-08
+upload, SoCal — `3qSY328fFYo`, "Marlin Fishing with Jimmy Decker"; unregistered
+channel — medium confidence): a half-day [striped marlin](../species/striped-marlin.md)
+trolling stop; see that note for the tide-timing and catch-result data from
+the same session, and [bait-and-switch](bait-and-switch.md) for the dropback
+mechanics.
+
+- **Run/location.** From the home port, the boat's plotted track was
+  **19.2 miles at 193°** to the **tanker lanes** (roughly 17 miles out), then
+  on toward the **277 bank**, sitting at the bottom of the ridge running off
+  Catalina's east end — a further ~35-minute run once past the tanker lanes.
+  Target water temp for the stop was **68°F**, hunted for specifically before
+  dropping the jigs in.
+- **Spread setup.** Everything was run **short and tight** for this boat: on
+  the outriggers, roughly **four to five wakes** back; the flatlines were run
+  **real close to the boat**. The lure roster that day: a **flying-fish**
+  swimmer in one rigger, an unnamed swimmer captioned "NE," a Hawaiian-style
+  lure, and a small pink lure nicknamed "the little pinky" — the lure that
+  had produced a fish the week before.
+- **Troll-downhill sun rule.** Don't troll into the sun. Trolling "downhill,"
+  with the sun behind the boat, makes it much easier to watch the jigs
+  because you can see them clearly behind the boat. The tradeoff: a fish
+  that comes up **behind the jigs**, close to the boat, shows a good
+  silhouette against the water and is easy to spot; a fish that shows up
+  further out, ahead of the boat toward the sun/prop-wash glare, is much
+  harder to see.
+- **Watching the jigs is the top non-driving job.** A fish can hit a jig
+  without popping the outrigger release clip or the rubber-band line-release
+  — it can whack a jig and not trip anything — so someone has to be watching
+  the jigs/prop wash continuously; missing that moment can cost several fish
+  in a day, and a missed strike can easily be mistaken for a piece of kelp
+  popping a line instead.
+- **Sounder use.** The console sounder was set to display down to **120 ft**
+  so bait could be spotted on the meter while under way, cross-checked against
+  visual sign (small bait schools skittering/getting spooked at the surface,
+  a large cloud of bait metered directly under the boat before the first
+  drop of the day). Mackerel was specifically called out as a bait species
+  identifiable on the meter that day.
+- **Jumper vs. feeder.** A marlin seen jumping alone isn't necessarily about
+  to bite — on camera the crew had no settled explanation for why marlin jump
+  (parasite-shedding and simple play were both offered as guesses). What
+  matters is whether a jumper **turns into a feeder working bait** — those
+  fish are described as "usually all bite."
+- **Temperature break.** Mid-morning the boat crossed a small (about
+  two-tenths of a degree) temperature break; a nearby boat reported getting
+  bit, or having a fish come up, on the **colder** side of that break, and
+  this boat worked the cold side afterward.
+- **Result.** The stop produced a hooked and released striped marlin
+  estimated on camera at roughly **160 lb**, hooked in the corner of the
+  mouth on the flying-fish swimmer. Exact line class fished isn't stated on
+  camera, but mid-fight the angler said "now I wish it was 50 lb tackle" —
+  implying the outfit actually in use was lighter than 50 lb, without naming
+  the class. The captain's rule of thumb for jig-raised marlin generally:
+  expect to convert roughly **one hookup for every five or six** fish
+  raised/interested.
+
+## SoCal, backside of Catalina — porpoise-associated yellowfin finesse trolling
+
+**Observed** (SD Fish and Sips, `ouBrIdO7d4k`, "Pacific Coast Sportfishing Show
+2025," 2025-03-08 upload, filmed 2025-03-06, booth interview at the OC
+Fairgrounds trade show — the speaker is a SoCal charter captain who names
+himself only in a first-name exchange with a companion; the transcript is not
+speaker-diarized and the two names exchanged in that scene (Jerry, Dennis)
+cannot be confidently matched to who is talking, so he is logged unnamed
+rather than guessed; unregistered channel/speaker, single mention — medium
+confidence; region: socal-bight, Catalina Island):
+
+Recapping charter trips run mostly around Catalina (half-day trips, "not a
+lot of time offshore with clients" that season), the captain described a
+standing personal method for finding dolphin-associated **yellowfin** on the
+backside of the island during **lobster opener** — dated on camera as
+**"first week of October, end of September."**
+
+- **Lure — a scaled-down, tungsten-headed King Buster-style trolling lure.**
+  Built off the small **King Buster** "finesse trolling" lure (its stock head
+  is plastic and can pop out of the water at speed), he re-heads it with a
+  **tungsten 1/2 oz head** to keep it running true, rigged with a small
+  **Yamashita stainless double hook**. He credits the original idea to a
+  roughly **10–12-years-prior** (i.e., circa mid-2010s) Dana Point trolling
+  program — friends fishing cheap, fragile King Busters around porpoise pods
+  and getting bit on yellowfin — that he then rebuilt with the tungsten head
+  once he confirmed the small profile worked.
+- **Line/leader and speed.** Trolled on **60 or 80 lb** straight to the lure,
+  at **7–9 mph** — "not very fast."
+- **Approach — stay off and out in front of the pod; never cut through it.**
+  The stated method: get **well out in front** of a moving dolphin/porpoise
+  school rather than running through or alongside it. Cutting through the
+  pod is described as counterproductive across species — he applies the same
+  rule to a trolled [Mad Mac](../lures/mad-mac.md) for **bluefin** ("even
+  blue fin to the Mad Mac, I never go through them") — reasoning that pods
+  under bow pressure split or bolt once they hear/see the boat, scattering
+  the bait they were pushing.
+- **Where the yellowfin actually sit, relative to the pod.** For
+  **yellowfin** specifically (contrast with the bluefin/never-go-through rule
+  above), he places them **on the edges — up in front, on the flanks** of a
+  feeding pod, not necessarily riding directly under it: when the dolphin are
+  actively working and the baitball starts breaking up, yellowfin will
+  "foam out" ahead of or to the side of the pod, sometimes visible **~50 yd
+  in front** of the school, rather than staying tight to it. This sits beside
+  — not in conflict with — the separate, dated Dave Hansen doctrine in
+  [yellowfin tuna](../species/yellowfin-tuna.md#finding-them) that yellowfin
+  typically suspend **underneath** a traveling dolphin pod: that doctrine
+  describes the resting/traveling pattern, this data point describes the
+  pod's behavior once it is actively feeding and breaking up bait.
+- **Result cited on camera:** **60–70 lb yellowfin** landed on the dolphin
+  using this method, in the stated window (late Sept/early Oct, lobster
+  opener), backside of Catalina.
+- **Wider context volunteered on camera (not SoCal-specific — logged as a
+  labeled contrast, not doctrine for this note's region):** he named the same
+  small trolled-feather approach as a Hawaii **skipjack** staple ("in Hawaii,
+  man, that's a staple... they catch skipjack... those guys troll hard").
+
+See [Mad Mac](../lures/mad-mac.md) for the bluefin speed-troll lure referenced
+above, and [tuna feathers and skirts](../lures/tuna-feathers-and-skirts.md)
+for the finesse trolling lure's own spec entry.
 
 ## Baja, Sea of Cortez trolling lure kit
 
@@ -515,9 +644,15 @@ different reason (avoiding slack-driven hook loss on Wahoo rather than
 giving a sea lion a window) — kept as a distinct, not merged, rationale.
 **Outcome:** only one Wahoo bit that day despite the multi-day
 no-fishing-pressure expectation going in ("the Wahoo ought to be ready to
-bite"); the crew chose not to keep grinding and moved on. No dedicated Wahoo
-species note exists in this KB to route the species-level pattern to — this
-entry carries the technique/gear detail only.
+bite"); the crew chose not to keep grinding and moved on. See
+[wahoo](../species/wahoo.md) for the species-level routing; this entry
+carries the technique/gear detail only. For the **cast** alternative to this
+trolled-bomb presentation (a wahoo bomb or Raider jig, cast and burned back on
+wire leader), see
+[wahoo bomb & Raider jig casting](wahoo-bomb-casting.md). For dedicated
+trolling-lure mechanics, wire-leader spec, and gear class (troll speed,
+free-spool search trick, two-speed fight technique), see
+[wahoo trolling](wahoo-trolling.md).
 
 ## East Cape, Baja — Buena Vista Beach Resort offshore troll for tuna/dorado/wahoo/marlin
 
@@ -844,6 +979,49 @@ famous high spot, shallowest point roughly **50 ft on low tide, no more than
 See the [yellowtail](../species/yellowtail.md) La Paz entry for the
 species-level cross-reference to this same trip.
 
+## SoCal local coast — trolling hard baits to prospect a zone for yellowtail
+
+**Nate Winnicki, BDOutdoors, `HTowqnwAMeA`, mid-August (upload recorded
+2026-08-17 — see the dating caveat in
+[the extraction log](../sources/extraction-log.md)); `nate-winnicki` is a
+registered voice, first commit of these specific claims → `medium` pending
+repetition. Named rod/reel/lure models stay `low` per the sponsored-claim
+rule.** This section fills the long-standing flagged stub in
+[yellowtail](../species/yellowtail.md) — trolling **to locate**, as opposed to
+trolling as the presentation.
+
+- **The job is prospecting, not catching.** Trolling is called the private
+  boater's fastest way to cover and read a zone in three specific situations:
+  you're **working an area you don't know**, it's **between bites**, or you've
+  **seen no sign and have no recent report**. This is a search tool that
+  happens to hook fish, which is why it sits under "covering water" in the
+  species router rather than under presentation choice.
+- **Carry variety, and treat it as three separate axes** — **colour**, **style
+  /profile**, and **dive depth**. The stated reason is that on a given day fish
+  key on one specific presentation, one specific depth, or one specific
+  vibration, and the default (a sardine-pattern ~20 ft diving plug) is not
+  always the one. A single-lure trolling box is the failure mode.
+- **Colour by light — and it runs opposite to intuition.** On an **overcast or
+  low-light** morning, fish **high-visibility** colours because they stand out.
+  On a **bright, clear blue day**, go **darker** — blues, purples, sometimes
+  reds — for contrast against bright water. Stated as a contrast principle
+  rather than a match-the-hatch one, and worth noting that it inverts the
+  common "bright day, bright lure" habit.
+- **Gear splits at the ~40 ft diving plug.** For **20–30 ft divers**, the
+  [flyline](flyline.md) outfit is explicitly adequate — no second setup
+  needed. For **40 ft diving plugs**, switch to a real troll outfit: a
+  **shorter 6–7 ft rod**, a heavier 40-class reel, **80 lb braid**.
+- **Keep the top shot short — 15–20 ft of 50–60 lb.** Two stated reasons, and
+  they pull in the same direction: (a) braid's zero stretch is what gives the
+  rod tip its sensitivity and its read on what the lure is doing down there,
+  and **too much mono absorbs that**; (b) a fish hooked mid-column is already
+  close to kelp and rock and will dump line, so you want to be able to put the
+  wood to it immediately and lift it away from structure. Heavier line, shorter
+  mono — the opposite of the long-top-shot habit that suits surface work.
+- **Cross-reference:** the live-bait slow-troll — a different technique with a
+  different purpose — is in
+  [slow-trolling bait](slow-trolling-bait.md).
+
 ## Resetting a long-set-back line after kelp — a drill-powered crank
 
 **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
@@ -874,6 +1052,16 @@ stretch before the crew noticed ("I wonder how long we're dragging that
 around for") — logged as a cautionary data point for running lines far back,
 not a parameter change.
 
+**Operating speed — Observed** (StokedOnFishing, `elBPRrdkugU`, 2022-12-22
+upload, offshore San Clemente/Catalina, SoCal; unregistered channel — medium
+confidence): a third mention of the same tool (captioned "Makira rapid
+crank" on camera), used here to speed up checking a rod after a hook pulled
+mid-fight rather than after a kelp pickup. Standing crew advice: run the
+drill on its **low speed setting, not high** — high speed was called out as
+getting "out of control" and putting extra tension on the reel itself.
+Logged as an operating-parameter data point for the same tool already
+covered above, not a new tool.
+
 ## Common failures
 
 - **Straight-lining away** from sign you just marked (sweep instead).
@@ -892,35 +1080,36 @@ not a parameter change.
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md)
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [California Barracuda](../species/barracuda.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
-- [Chunking](chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
-- [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
-- [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
-- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
+- [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Making Bait](../bait/making-bait.md)
+- [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [Pacific Bonito](../species/bonito.md)
-- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Slow-Trolling Live Bait](slow-trolling-bait.md)
 - [Speed Trolling](speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)
-- [Surface Iron](surface-iron.md)
+- [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
-- [Water Color](../conditions/water-color.md)
+- [Wahoo](../species/wahoo.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
-- [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->

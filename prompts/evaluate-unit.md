@@ -37,7 +37,15 @@ reading `CLAUDE.md`, then the transcript IN FULL, then `git diff` (and
    location):` form; backlinks markers untouched by hand; kebab-case
    filenames; class-term gear language; no step-by-step transcription
    (paraphrase only); depth respected (a parameter-skim row must not have
-   created notes; observations-only must not have changed doctrine).
+   created notes must be process-compliant — front matter incl. `regions` and
+   `waters` from `locations/regions.md`, type template followed, linked from a
+   parent, and resolving under `link-maintenance.py`).
+
+**Batch-3 depth note:** `observations-only` is replaced by
+`decision-rationale`. On that depth, a stated on-camera *reason* is
+doctrine-grade and belongs beside the doctrine, attributed — it is NOT required
+to be an `**Observed**` line. An outcome with no stated reason still is one.
+Check that the extractor did not invent a reason the transcript never gives.
 
 ## Verdicts
 
@@ -49,10 +57,22 @@ reading `CLAUDE.md`, then the transcript IN FULL, then `git diff` (and
   (`git checkout -- . && git clean -fd`) and state the reason.
 - `escalate` — apply or reject as warranted, AND flag for Cameron (the
   orchestrator appends your escalation line to `sources/escalations.md`).
-  MANDATORY escalation triggers (non-blocking): the patch conflicts with
-  cameron-sourced doctrine; it introduces a regulatory claim (seasons,
-  limits, closures — e.g. the Cedros 2023 catch-and-release change); it
-  changes what a species router's acceptance test would return.
+  MANDATORY escalation triggers (non-blocking) — **narrowed for batch 3,
+  because batch 2 produced 21 escalations of which ~18 were flags on already
+  compliant work, and every false escalation is wasted budget**:
+
+  - the patch **conflicts with cameron-sourced doctrine**;
+  - a regulatory claim that **fails** CLAUDE.md's format — i.e. it is missing
+    a jurisdiction, an as-of date, or a verify-current flag, or it is absent
+    from `sources/regulatory-claims.md`. A correctly labelled regulatory claim
+    is compliant work: **do not escalate it**;
+  - a species router change that **replaces or reorders an existing row**, or
+    removes a `⚠ Flagged stub`. Adding a new row, or filling a stub and saying
+    so, is normal work: **do not escalate it**;
+  - a new note that **fails process compliance** — missing `regions`/`waters`
+    on a gated type, off-vocabulary term, not linked from any parent, or
+    doesn't follow its type's template. (Creating notes is now expected at
+    every depth per correction C1; only non-compliant ones escalate.)
 
 **Every `apply`/`apply-with-changes` verdict must cite transcript evidence**
 — quote at least one transcript line (with its timestamp) per substantive

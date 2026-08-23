@@ -3,6 +3,8 @@ type: location
 tags: [zones, search-box, naming, geography, planning]
 sources: [cameron, Blh2BA-7Ono, Rf1HKJG-SDg]
 confidence: high
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Zone Lexicon
@@ -117,17 +119,12 @@ many *drops*.
 ## Linked from
 
 - [<Your> Spots](../profiles/_template/spots.md)
-- [Bass Structure](bass-structure.md)
-- [Bight Geography](bight-geography.md)
-- [BightSST Eval Targets](bightsst-eval-targets.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Island Structure](island-structure.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

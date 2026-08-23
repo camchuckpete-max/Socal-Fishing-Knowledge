@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Regenerate sources/batch-2-progress.md from the worklist (mechanical)."""
+"""Regenerate sources/batch-2-progress.md from the worklist (mechanical).
+
+Pass --check to print the summary WITHOUT writing the file. Use that for
+status checks: this script writes as a side effect of reporting, so a bare
+run during an active ingestion leaves a dirty tree, and that stray write has
+twice been swept into an unrelated commit by a later `git add -A`. The
+ingestion chain regenerates and commits this file itself, so a human checking
+progress should never need to write it.
+"""
 from __future__ import annotations
 
 import datetime
@@ -11,13 +19,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 
-START = "<!-- batch2:worklist:start -->"
-END = "<!-- batch2:worklist:end -->"
+START = "<!-- batch3:worklist:start -->"
+END = "<!-- batch3:worklist:end -->"
 
 
 def main() -> int:
+    check_only = "--check" in sys.argv
     text = (ROOT / "sources" / "extraction-log.md").read_text(encoding="utf-8")
-    block = text.split(START, 1)[1].split(END, 1)[0]
+    if START in text:
+        block = text.split(START, 1)[1].split(END, 1)[0]
+    else:  # archived batch-2 worklist
+        block = text.split("<!-- batch2:worklist:start -->", 1)[1] \
+                    .split("<!-- batch2:worklist:end -->", 1)[0]
     counts: Counter = Counter()
     for line in block.splitlines():
         line = line.strip()
@@ -48,9 +61,13 @@ def main() -> int:
     ]
     if pending == 0:
         lines += ["**BATCH 2 WORKLIST COMPLETE** — no pending rows remain. The",
-                  "chain stops here; Phase 5 (coverage, acceptance tests, Gate B",
-                  "package) is a separate reviewed session.", ""]
-    (ROOT / "sources" / "batch-2-progress.md").write_text("\n".join(lines),
+                  "chain stopped here. Phase 5 (coverage, acceptance tests, Gate B",
+                  "package) was deferred to 'a separate reviewed session' and never",
+                  "ran before batch 2 merged to `main` (540ea4a); it is being done",
+                  "as Phase 1 of the batch-3 build — see the close-out section in",
+                  "sources/extraction-log.md.", ""]
+    if not check_only:
+        (ROOT / "sources" / "batch-2-progress.md").write_text("\n".join(lines),
                                                           encoding="utf-8")
     print(f"progress: {total} total, {pending} pending, {n_esc} escalation entries")
     return 0

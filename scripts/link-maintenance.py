@@ -73,6 +73,25 @@ EXCLUDE_DIRS = {
     ROOT / "skills" / "boat-day" / "resources",  # generated skill bundle
 }
 
+# --- region gating (see locations/regions.md) --------------------------------
+# Closed vocabularies. A day plan filters species/technique notes by the trip's
+# {regions, waters} envelope before routing, so a missing or mistyped value is a
+# correctness bug, not a style nit — it is what let a Mission Bay plan reach a
+# Sea-of-Cortez-only species. Adding a term means editing locations/regions.md.
+REGIONS = {
+    "socal-bight",          # Point Conception to the US border
+    "baja-pacific-north",   # US border to the BC/BCS line at 28N
+    "baja-pacific-south",   # 28N round to Cabo San Lucas
+    "cortez-north",         # Sea of Cortez above 28N (San Felipe, BOLA, Midriff)
+    "cortez-south",         # Sea of Cortez below 28N (Loreto, La Paz, East Cape)
+}
+WATERS = {"bay-harbor", "nearshore-coast", "island", "bank", "open-ocean"}
+GATED_TYPES = {"species", "technique", "lure", "rig", "location", "seasonal",
+               "bait", "decision"}
+FM_LIST_RE = re.compile(r"^(regions|subregions|waters): \[(.*?)\]\s*(?:#.*)?$",
+                        re.M)
+FM_TYPE_RE = re.compile(r"^type:\s*(\S+)", re.M)
+
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 H1_RE = re.compile(r"^#\s+(.*?)\s*$", re.MULTILINE)
 
@@ -129,14 +148,21 @@ def summary_of(path: Path) -> str:
     para: list[str] = []
     for line in text.splitlines():
         s = line.strip()
+        # NB: bullet markers are "- " / "* " WITH the trailing space. Testing a
+        # bare "*" also swallowed a "**Bold lead:** ..." opening line, which is
+        # how several notes state the thing that most needs to reach the index —
+        # the region on species/cabrilla.md, the regime on every seasonal note,
+        # the flagged-stub warning on techniques/bait-and-switch.md. A lone "-"
+        # or "*" on its own line is a thematic break, still skipped.
         skip = (
             not s
             or s.startswith("#")
             or s.startswith("<!--")
             or s.startswith(">")
             or s.startswith("|")
-            or s.startswith("-")
-            or s.startswith("*")
+            or s.startswith("- ")
+            or s.startswith("* ")
+            or s in ("-", "*", "---", "***")
             or s.startswith("```")
         )
         if para and (not s or skip):
@@ -163,10 +189,82 @@ def strip_code(text: str) -> str:
     return INLINE_CODE_RE.sub("", text)
 
 
+def region_problems(path: Path) -> list[str]:
+    """Validate the region-gating front matter on a gated note.
+
+    Returns a list of human-readable problems (empty = fine). A note whose
+    `type` is not gated is skipped entirely.
+    """
+    text = path.read_text(encoding="utf-8")
+    m = FM_TYPE_RE.search(text)
+    if not m or m.group(1) not in GATED_TYPES:
+        return []
+    found = {k: [x.strip() for x in v.split(",") if x.strip()]
+             for k, v in FM_LIST_RE.findall(text)}
+    problems = []
+    if "subregions" in found:
+        problems.append(
+            "`subregions:` is retired — assignment is at region level only; "
+            "fold the value into `regions`")
+    for key, vocab in (("regions", REGIONS), ("waters", WATERS)):
+        vals = found.get(key)
+        if vals is None:
+            problems.append(f"missing `{key}:` (type {m.group(1)})")
+            continue
+        if not vals:
+            problems.append(f"`{key}:` is empty")
+        for v in vals:
+            if v not in vocab:
+                problems.append(
+                    f"`{key}:` has off-vocabulary term {v!r} "
+                    f"(allowed: {', '.join(sorted(vocab))})")
+    return problems
+
+
+def region_badge(path: Path) -> str:
+    """A short region marker for the generated index line, or "".
+
+    Generated from front matter, so it cannot drift from the gate and cannot
+    be silently dropped the way the prose region line was. Only marks the
+    cases a planner can get wrong — a note covering both regions needs no
+    badge, a Baja-only one very much does.
+    """
+    text = path.read_text(encoding="utf-8")
+    m = FM_TYPE_RE.search(text)
+    if not m or m.group(1) not in GATED_TYPES:
+        return ""
+    found = dict(FM_LIST_RE.findall(text))
+    regions = {x.strip() for x in found.get("regions", "").split(",") if x.strip()}
+    if not regions:
+        return ""
+    if regions == {"socal-bight"}:
+        return " **[SoCal only]**"
+    if "socal-bight" not in regions:
+        return " **[Baja only]**"
+    return ""
+
+
+def strip_backlinks_block(text: str) -> str:
+    """Remove the generated '## Linked from' block.
+
+    Its entries are links to the notes that link *here* — the reverse of an
+    outbound reference. Parsing them as outbound made every backlink breed a
+    reciprocal one: 557 of 1729 backlink entries (32%) existed only for that
+    reason, and the resulting writes into guard-protected paths reverted four
+    otherwise-clean batch-2 extractions. Validation still covers these links,
+    because the block is regenerated from real links and never hand-edited.
+    """
+    si, ei = text.find(BACKLINK_START), text.find(BACKLINK_END)
+    if si != -1 and ei != -1 and ei > si:
+        return text[:si] + text[ei + len(BACKLINK_END):]
+    return text
+
+
 def parse_links(path: Path):
     """Yield (link_text, file_part, raw_target) for each relative link.
-    Code blocks and inline code spans are stripped first."""
-    text = strip_code(path.read_text(encoding="utf-8"))
+    Code blocks, inline code spans, and the generated backlinks block are
+    stripped first."""
+    text = strip_backlinks_block(strip_code(path.read_text(encoding="utf-8")))
     for m in LINK_RE.finditer(text):
         text_part, target = m.group(1), m.group(2).strip()
         # strip optional title:  path "Title"
@@ -225,6 +323,21 @@ def main() -> int:
                 and target != src
             ):
                 inbound[target].add(src)
+
+    # ---- (a2) validate region gating on every note, same all-or-nothing rule ----
+    region_bad: list[str] = []
+    for n in note_files:
+        for prob in region_problems(n):
+            region_bad.append(f"{n.relative_to(ROOT)}: {prob}")
+    if region_bad:
+        print("REGION GATING:", file=sys.stderr)
+        for r_ in sorted(set(region_bad)):
+            print(f"  {r_}", file=sys.stderr)
+        print(
+            f"\n{len(set(region_bad))} region-gating problem(s). Nothing was "
+            f"written. See locations/regions.md for the vocabulary.",
+            file=sys.stderr)
+        return 1
 
     if dead:
         print("DEAD LINKS:", file=sys.stderr)
@@ -287,7 +400,7 @@ def main() -> int:
         for n in dir_notes:
             summ = summary_of(n)
             tail = f" — {summ}" if summ else ""
-            idx.append(f"- [{title_of(n)}]({n.name}){tail}")
+            idx.append(f"- [{title_of(n)}]({n.name}){region_badge(n)}{tail}")
         if child_dirs:
             idx.append("")
             idx.append("### Subfolders")
@@ -357,6 +470,37 @@ def main() -> int:
             where=str(readme.relative_to(ROOT)),
         )
         readme.write_text(text, encoding="utf-8")
+
+    # ---- granularity watch ----
+    # WARNS, never fails: an over-long note is a spin-out candidate, not a
+    # broken one, and this runs before every commit including the unattended
+    # chain's. The risk it watches for is an autonomous writer editing a note
+    # too big to hold in view — it cannot find existing doctrine to reconcile
+    # against, so a contradiction ends up sitting quietly beside it.
+    NOTE_LINES, SECTION_LINES = 400, 120
+    long_notes, long_sections = [], []
+    for f in note_files:
+        lines = f.read_text(encoding="utf-8").splitlines()
+        if len(lines) > NOTE_LINES:
+            long_notes.append((len(lines), str(f.relative_to(ROOT))))
+        head, start = None, 0
+        for i, line in enumerate(lines + ["## "]):
+            if line.startswith("## "):
+                if head and i - start > SECTION_LINES:
+                    long_sections.append(
+                        (i - start, str(f.relative_to(ROOT)), head.strip()))
+                head, start = line, i
+    if long_notes or long_sections:
+        print(f"\nGRANULARITY WATCH (warning only — see CLAUDE.md)")
+        for n, p in sorted(long_notes, reverse=True)[:6]:
+            print(f"  note   {n:5d} lines  {p}")
+        if len(long_notes) > 6:
+            print(f"         … and {len(long_notes) - 6} more over {NOTE_LINES} lines")
+        for n, p, h in sorted(long_sections, reverse=True)[:6]:
+            print(f"  section{n:5d} lines  {p}  {h}")
+        if len(long_sections) > 6:
+            print(f"         … and {len(long_sections) - 6} more over "
+                  f"{SECTION_LINES} lines")
 
     # ---- report ----
     print(

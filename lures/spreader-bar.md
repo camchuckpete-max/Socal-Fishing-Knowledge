@@ -3,6 +3,8 @@ type: lure
 tags: [spreader-bar, half-fish, bluefin, trolling, offshore, dorado, baja, sea-of-cortez]
 sources: [cameron, M8hOYQ_6rSg, U1AgwmlY5bI]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [open-ocean, bank]
 ---
 
 # Spreader Bar
@@ -88,6 +90,5 @@ season on bars** — so the bar-specific tuning above is attributed-experimental
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Mad Mac](mad-mac.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

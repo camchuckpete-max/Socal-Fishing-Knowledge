@@ -14,7 +14,7 @@
 - [Tide and Slack](tide-and-slack.md) — Tidal phase decides when to be where.
 - [Upwelling and Turnover](upwelling-and-turnover.md) — Chlorophyll is not a yes/no signal — it has an age.
 - [Water Color](water-color.md) — Water color / chlorophyll is the second axis alongside SST.
-- [Water Regimes](water-regimes.md) — four water-state regimes, not twelve months.
+- [Water Regimes](water-regimes.md) — Cameron house doctrine (attributed cameron): the Bight's fishing year is four water-state regimes, not twelve months.
 - [Water Temperature](water-temperature.md) — SST is one axis of a two-axis read (temperature and water color / chlorophyll).
 <!-- index:end -->
 
@@ -40,7 +40,6 @@ graph LR
   n1 --> n2
   n1 --> n6
   n1 --> n7
-  n1 --> n9
   n10 --> n11
   n10 --> n2
   n10 --> n4
@@ -48,41 +47,29 @@ graph LR
   n10 --> n6
   n10 --> n8
   n10 --> n9
-  n11 --> n10
   n11 --> n2
   n11 --> n8
   n11 --> n9
   n2 --> n1
-  n2 --> n10
-  n2 --> n11
-  n2 --> n3
-  n2 --> n4
-  n2 --> n6
   n2 --> n7
   n2 --> n8
   n2 --> n9
   n3 --> n2
-  n3 --> n9
   n4 --> n0
-  n4 --> n10
   n4 --> n2
   n4 --> n5
-  n5 --> n10
   n5 --> n4
   n5 --> n7
   n6 --> n1
-  n6 --> n10
   n6 --> n2
   n7 --> n1
   n7 --> n2
   n7 --> n5
   n7 --> n9
-  n8 --> n10
   n8 --> n11
   n8 --> n2
   n8 --> n9
   n9 --> n1
-  n9 --> n10
   n9 --> n11
   n9 --> n2
   n9 --> n3

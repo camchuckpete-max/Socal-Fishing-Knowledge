@@ -3,6 +3,8 @@ type: species
 tags: [ocean-whitefish, tilefish, channel-islands, hard-bottom, bottomfish, variety, baja, ensenada]
 sources: [6-8KfjEg0x8, O5aQkex0qGg, Y1xeieQI3B4, CKq0Z6ExVs4]
 confidence: medium
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [bank, island]
 ---
 
 # Ocean Whitefish
@@ -105,16 +107,8 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [California Sheephead](sheephead.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Dropper Loop](../techniques/dropper-loop.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Island Structure](../locations/island-structure.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
-- [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Yellowtail](yellowtail.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [kelp-paddies, current, yellowtail, dorado, paddy-line, birds, drone]
-sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q, -bw1KDfDjv4, A6DJoXbID4c]
+sources: [DnSqw4r7A1s, -JZpyWLdKlk, HzE4FHHcvTk, 4xzK7YaXK5s, HcEh5KOYTH4, CrLDC4O8qS8, ZFqe49jRgA0, cameron, VWClGAn2WEw, 9jDy4gUUyJk, Ow3an9lSVh4, 8THSuqoPI_Q, -bw1KDfDjv4, A6DJoXbID4c, 8XrMkWPRxgs]
 confidence: high
 ---
 
@@ -57,7 +57,16 @@ The discipline:
    up to the edge of it." A kelp paddy isn't spooky the way structure fish
    over a reef can be — sportboats run straight at them, drop lines, and work
    the fish, then move on (Your Saltwater Guide / Dave Hansen, "Top 5
-   Offshore Fishing Tips", ZFqe49jRgA0, 2019-05-26).
+   Offshore Fishing Tips", ZFqe49jRgA0, 2019-05-26). **Repeated doctrine, now
+   high confidence:** the same correction, in near-identical language, is
+   given roughly two and a half months earlier at a live seminar — mocking
+   the instinct to kill the stereo, kill the motor, and quietly "sneak up on
+   the bed," versus his own boat's practice: "we drive
+   right up to the edge of it, we kill everything on it, and then we leave"
+   (Capt. Dave Hansen, live seminar, Fred Hall Show 2019, filmed by Utah
+   Spahghettzi Björker, `8XrMkWPRxgs`, 2019-03-12). The same seminar adds a
+   look-first step once at the edge: look under the paddy for visible fish
+   before committing bait — if fish are visible, "there's fish today."
 2. **Check fast** — look in the water for visible fish (dorado, yellowtail),
    then check the fathometer for **boomerang-shaped arcs, typically 90–120
    ft** down if nothing shows on the surface. Give it **about a minute, maybe
@@ -73,6 +82,15 @@ The discipline:
    is simply *when you found* an already-loaded paddy — "if the fish are on
    it, they're on it," and a paddy sat on for hours without a bite will not
    turn on just by waiting, because restocking only happens at night.
+   **Repeated doctrine, now high confidence, and antedated:** a live seminar
+   roughly two and a half months before ZFqe49jRgA0 makes the identical
+   correction — "paddies don't restock themselves during the day... they
+   restock at night," directly rebutting a "time of day" theory of paddy
+   bites ("if you would have found it at 6:00 in the
+   morning... you found it at 3:00, that's got nothing to do with time of
+   day") — the earliest dated statement of this doctrine found in the corpus
+   so far (Capt. Dave Hansen, live seminar, Fred Hall Show 2019, filmed by
+   Utah Spahghettzi Björker, `8XrMkWPRxgs`, 2019-03-12).
 
 This is why the paddy *line* matters more than any single paddy: you are playing
 a numbers game across many quick checks.
@@ -213,8 +231,8 @@ paddy-line detail beyond that can be read out of the clip.
 - [Bight Geography](../locations/bight-geography.md)
 - [Bird Reading](bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Current Structure](current-structure.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
 - [May](../seasonal/may.md)
 - [Moon](moon.md)

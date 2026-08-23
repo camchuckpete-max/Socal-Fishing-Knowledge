@@ -1,8 +1,10 @@
 ---
 type: species
 tags: [bluefin, tuna, offshore, foamer, kite, trolling, knife-jig, night, dsl]
-sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU]
+sources: [sYrsPGXiYhI, cameron, HWx1jDTGsng, 5to3Q5P7w90, OYOda6T3f-8, CMQkHQMxbXM, nRFFM8DT-og, HtuLTv1NlL0, EyB98RuKfeQ, Blh2BA-7Ono, YZtX1MiT0y8, S2L3KLSQ6Is, Z3rZqy2Pi8E, 5D1vx29LVpI, 149px8WQ2Ng, PrdPJy26H8c, RbqOKkINSCM, Rf1HKJG-SDg, ntQXxcH5sjI, e73wPONTOJU, usHl-4SfqDA, UfuiWFVvz2E, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, eL1Qm33-Mj0, zBd1mayUt_I, QSvzVHW9UMk, LsFMBCa9DOQ, Ix0gG0-l3v0, U1AgwmlY5bI, r4J5nP5Bkl4, c3NFkQbdDy0, 947solNfiPw, 9qMLztwVx9g, M7BtON4GZgQ, vCskOx6N-XM, IxhdiX3oEEs, Q-gQuOegAx4, cLYqjT7ddl8, rsCAh-QyK60, tU4jhAkdzNw, 3T4c3Zez_DM, Rb5I2ljAqeE, skRo1z41Dnc, nkJNzdNlm_c, 8THSuqoPI_Q, IwxqgocsQTY, ilINTeknKB4, HueC1KHrcVw, ftEvyfwjZFU, elBPRrdkugU, gimFbgN5Jjk, ouBrIdO7d4k, ztpj1Xll0-U, 0E9REoTjKrY, Rudzy0DD08w, TU5quAG4atM, an_uw-5pjfw, fgTmUq78ofQ, riEkdu8PEds, eehDVb6_GoI, shZCjX2-fkI, 6SClBs16L2Y]
 confidence: high
+regions: [socal-bight, baja-pacific-north]
+waters: [open-ocean, bank]
 ---
 
 # Bluefin Tuna
@@ -44,6 +46,48 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [Bight](../locations/bight-geography.md); fish aggregate where uphill current
   compresses along [island structure](../locations/island-structure.md) and the
   named banks in the [zone lexicon](../locations/zone-lexicon.md).
+- **A resident-stock opinion, dated, and a snapshot of the three working
+  areas that (2021) season (Art Taylor/Mike, SearcherSportfishing, via
+  Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip Thursday Vol. 147 — Live
+  at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing` registered
+  channel — medium confidence; **attributed opinion, not established
+  fact**):**
+  - As of this seminar, the fleet was working **three areas**: one **west of
+    San Diego**, and **two areas west of Ensenada** — the fish having shown
+    up closer to home and further offshore that season, so **no boat had
+    needed to run down to Colonet or San Quintín** for some time. Both
+    captains note a water structure historically productive down at
+    Colonet/San Quintín early in the modern SoCal bluefin fishery, and
+    expect fish to still be holding there if that structure persists — just
+    not fished recently because the closer grounds were producing.
+  - **Their own stated belief, not corroborated elsewhere in this corpus:**
+    Pacific bluefin off SoCal/northern Baja are a **resident stock**, not a
+    purely migratory one, ranging roughly from **Point Conception down to
+    Cedros Island**, out to **200–300 mi offshore** — reasoned from **~15
+    years** (as of 2021, i.e., since roughly 2006) of the fishery holding
+    fish including **100 lb-class bluefin**, from routinely catching and
+    releasing **8–12 lb juveniles** (read as evidence of local spawning,
+    since a fish that size is only months old), and from a **2019** sighting
+    (per on-camera "two years ago") of a **giant school of 100–300 lb tuna**
+    jumping just south of San Miguel Island, within **50 mi of Point
+    Conception**. Kept attributed as a captain's stated opinion/reasoning,
+    not asserted as this note's doctrine.
+- **Observed** (StokedOnFishing, `elBPRrdkugU`, 2022-12-22 upload, trip dated
+  August 2022 (per on-camera "unbelievable 2022 August"), offshore San
+  Clemente/Catalina, SoCal — "Southern California Bluefin Tuna Fishing at its
+  Finest," a spreader-bar trolling trip; unregistered channel — medium
+  confidence): a run from **Huntington Harbor**, described on camera as **a
+  little past Catalina Island, about an hour to an hour-and-a-half each way**,
+  fishing **four to five hours** — consistent with the intro's stated
+  **60–100 mi offshore** range and San Clemente/Catalina being **"a hot spot
+  for about a month"** that summer. The crew described that day's density as
+  extreme — bluefin visible **"as far as you can see in all directions,"**
+  the zone **"jugged like soccer fields"** — the same kind of 2022-season
+  bonanza framing as the `e73wPONTOJU` entry below, an August data point
+  ahead of that entry's undated fall trip. Landed fish off the spreader-bar
+  spread were called out at **100, 110, and 115 lb**, with at least one fish
+  called **"200 plus."** A whale surfaced mouth-open near the boat mid-session
+  (missed on camera), noted in passing and not otherwise remarked on.
 - **Observed** (StokedOnFishing, 2022-10-06 upload, trip date not stated,
   SoCal island zone (exact islands not named on camera) — `e73wPONTOJU`;
   unregistered channel — medium confidence): a charter captain who has fished
@@ -371,6 +415,35 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   [kite fishing](../techniques/kite-fishing.md),
   [flying fish harness](../rigging/flying-fish-harness.md), and
   [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+- **Observed** (SD Fish and Sips, `ouBrIdO7d4k`, "Pacific Coast Sportfishing
+  Show 2025," 2025-03-08 upload, filmed 2025-03-06 at the OC Fairgrounds trade
+  show — an interview with **Andrew of CI Made Lures** (birds/daisy-chain
+  maker who also runs bluefin charters on his own 39 ft Contender; captions
+  render the lure brand "CI Made," possibly the same "Cali Made Lures"
+  spreader-bar business plugged by "Captain Andrew" of Stoked On Fishing
+  Charters in the Tanner Bank entries above — same first name, an overlapping
+  bird/daisy-chain-for-spreader-bars product line, and no boat-model conflict
+  (that entry's boat is only described as "triple-outboard rigged," which a
+  39 ft center console fits) — but the identity match is not confirmed on
+  camera either way, so this is logged as a separate, unresolved-identity
+  attribution rather than merged into the Stoked On Fishing entries);
+  unregistered channel/speaker, single mention — medium confidence): recapping
+  the 2024 season, the boat's longest run was to **San Nicolas Island**,
+  described on camera as roughly **115 mi offshore from where they launched**
+  (the same conversation separately put the typical launch distance at "80 to
+  90 [mi]" — the two numbers are not reconciled on camera, so treat the
+  mileage as approximate). Asked the most effective way to get bit, Andrew
+  ranked **kite-fished frozen dead flying fish** as producing the majority of
+  the boat's bites, ahead of a **"California flyer"** bait (the hard-bodied
+  artificial lure logged at Tanner Bank, not a live bait — see
+  [flying fish harness](../rigging/flying-fish-harness.md#artificial-alternative--reusable-slide-up-lure-california-flyer))
+  fished under the same kite — an independent data point alongside the
+  dead-flying-fish-under-kite preference already logged for Tanner Bank
+  above — with **helium
+  balloon** named as a secondary kite-adjacent method. Reel: **Makaira 50W**
+  (captioned "makyra 50 wi" — ASR-uncertain spelling, resolved against the
+  same "Makaira 50-Wide" model already logged elsewhere in this note; boat
+  sponsored by Okuma).
 - **Observed** (StokedOnFishing, presenter Shay, `IxhdiX3oEEs`, 2019-11-13
   upload, SoCal (exact zone not named on camera), day two of a multi-day
   trip; unregistered channel — medium confidence): a **184 lb** bluefin,
@@ -381,6 +454,24 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   are given on camera. Fight-fatigue handling (handing the rod to a
   teammate) from the same fight is logged in
   [fighting a big bluefin](../techniques/fighting-big-bluefin.md).
+- **A cold-water data point tied to a January sighting, not a spring reading
+  (Art/Armando, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna,"
+  `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel —
+  medium confidence, single mention):** bluefin are framed on camera as a
+  **cold-water fish**, "around right now" — i.e., as of this January 2021
+  taping, referencing the schools sighted near San Martin Island about 10
+  days earlier per the same segment — contrasted with the "elephant tuna"
+  (on-camera term, plausibly giant yellowfin per common San Diego
+  long-range usage, not confirmed by this transcript alone), which the
+  speaker says historically don't show until later once the water has
+  warmed further. The water-temperature figure given is for that **January**
+  presence, not a spring reading: **63–65 °F**, "where they were catching
+  the fish" at the time. Used on camera to justify starting the spring
+  trip season earlier than usual, not as a spring-water-temperature data
+  point itself — kept beside, not reconciled with, the 76 °F warm-side data
+  point immediately below and the 70–72 °F preferred-range citation further
+  below, since all three describe different moments/sources rather than one
+  temperature curve.
 - **Temperature — a *soft* ceiling, not a gate:** bluefin were seen **foaming in
   76 °F, the warmest observed since they arrived** (9/14/22) — treat warm SST as
   soft evidence against bluefin, not hard. **Break rule:** bluefin sit the
@@ -395,6 +486,15 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   bluefin windows; late-November day windows tie to the **new moon**. On the
   moon, open-water fish travel at night and relocate — treat absence of reports
   as coverage bias, not absence of fish ([moon](../conditions/moon.md)).
+  **A stated uncertainty, kept beside this doctrine rather than folded into
+  it (Captain Armando, SearcherSportfishing, `shZCjX2-fkI`, 2021-01-14;
+  `searcher-sportfishing` registered channel — medium confidence):** asked
+  directly whether moon phase affects the bluefin bite, the on-camera answer
+  was that it's inconsistent trip to trip — sometimes a full moon produces a
+  dark-hours bite, sometimes it doesn't — and that no reliable pattern had
+  been worked out despite "a lot of people [having] different theories."
+  Recorded as an attributed non-finding, not evidence against the
+  days-leading-into-full-moon doctrine above.
 - **Night bite clock-time windows, one captain's read for the season
   (Observed, StokedOnFishing, `LsFMBCa9DOQ`, Captain Jake Hensley, Ranger 85,
   Cortez/Tanner Bank, mid-August 2024; medium confidence, unregistered
@@ -627,6 +727,25 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
   top shot of 40 lb fluorocarbon**, sardine bait ("hook the sardine," hook
   style/size not given) — consistent with, not new beyond, the 40 lb-class
   flyline/sinker rigs already logged for this same charter above.
+- **Observed** (SearcherSportfishing, Steve Clarkson, `0E9REoTjKrY`, "Tackle
+  Tip Thursday Vol. 91 (Giant Tuna)," filmed at the Fred Hall Show, upload
+  2020-03-19; unregistered channel — medium confidence): Clarkson stated he'd
+  landed a **315 lb bluefin tuna** (ASR renders the phrase "315 tablet in
+  tuna" — read here as "315-pound bluefin tuna" from context; flagged
+  asr-uncertain) **59 mi off Point Loma**, dated on camera only as "about two
+  months before the Fred Hall Show" — resolved here to **on/around January
+  2020** (the San Diego Fred Hall Show runs in early March; the video's own
+  upload date, 2020-03-19, falls just after that year's show) rather than
+  treated as an exact date. He credited the catch to "persistence and a
+  little luck," fishing a **320 g glow-in-the-dark flat-fall-class jig**
+  (captioned "fall type jig" — see [knife jigs](../lures/knife-jigs.md)) on a
+  **Penn International 16VISX**-class reel (captioned "16 V is X" —
+  asr-uncertain on the exact model, but named alongside the Penn
+  International 80 and 130 in the same segment; full attributed reel/jig
+  doctrine in [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#one-reel-pick-for-giant-tuna-150250-lb--endurance-over-max-drag-steve-clarkson-searcher-sportfishing-2020-03-19)).
+  Framed on camera as promotional for the boat ("even if you're only on a day
+  and a half trip on the Searcher, that could happen to you"), so read as an
+  attributed catch/data point rather than fishery-wide doctrine.
 
 ## Finding them (sign & sonar)
 
@@ -677,6 +796,23 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
     around the boat, from 50 fathoms down to 80 fathoms, even below** —
     deeper than the 30–50 fm range above; kept side by side as a
     bank-specific extension, not a replacement for it.
+    **A further night data point, ~20 mi off San Diego (Art, SearcherSportfishing,
+    via Turner's Outdoorsman, Norwalk — named on camera only as "Art,"
+    plausibly Capt. Art Taylor as cited by full name elsewhere in this note
+    from other Turner's Outdoorsman events, not confirmed by surname here —
+    `eehDVb6_GoI`,
+    "Tackle Talk Live at Turner's Outdoorsman in Norwalk," 2021-06-30;
+    `searcher-sportfishing` registered channel — medium confidence, single
+    mention of this specific range):** fish sounded and read on the
+    sonar/depth sounder at **240–360 ft down**, stated as the reason a
+    flat-fall/knife-jig lure needs to be **250 g or greater** — anything
+    lighter (their example: 120–150 g) won't reach that depth quickly enough,
+    especially with the boat drifting in wind. Shallower than the 30–50 fm
+    (~180–300 ft) sounded-school range above at its top end, and overlapping
+    the 250–350 ft flat-fall bite-zone data point in [flat-fall
+    jigging](../techniques/flat-fall-jigging.md#reach-for-this-when) — kept
+    side by side as another same-region, same-fishery night-depth data point,
+    not reconciled into one figure.
   - **Night bite on the DSL:** fish rise with the
     [deep scattering layer](../conditions/deep-scattering-layer.md) after dark;
     the read is depth-called marks — **"fish at 180, fish at 230 ft"** — that you
@@ -749,10 +885,14 @@ lives in [bluefin trolling](../species/bluefin-trolling.md).
 | **Surface foamers**, terns working, castable seas | [Foamer casting](../techniques/foamer-casting.md) — poppers first (hold the zone longest), then surface iron, then a small lead bait; run ahead of the school, stop hard, cast to the middle | Beefed **jig-stick class** for 200 lb fish ([gear classes](../tackle/gear-classes.md)) | Match tiny anchovy → downsize to a lead bait (Colt-Sniper/zakana class); bite comes on the **pause / fall**, not the pop |
 | **Fish sounded deep** (30–50 fm), wind up, no surface sign | [Knife-jigging](../techniques/knife-jigging.md) to graded marks; heavier jig for depth/current | 100–130 lb-braid **jig class** (PE6–8); [knife jigs](../lures/knife-jigs.md) | Day 150–300 g; more current / deeper fish → 300–400 g to punch down and still stay horizontal in the strike zone |
 | **Shallow bait-ball marks** (~60 ft) around the boat while chumming sardines, no surface sign yet | [Yo-yo iron](../techniques/yo-yo-iron.md) — drop through/around the mark and crank fast | 40–60 lb class stout rod + high-speed reel | Distinct from the 30–50 fm knife-jig row above — a much shallower, near-boat scenario; a heavy bite on the drop can read as the rod suddenly going dead-weight, "almost like stuck on the bottom" (StokedOnFishing, ntQXxcH5sjI, 2024-08-29, Tanner Bank; medium confidence, unregistered channel) |
+| **Daytime, fish around the boat but not biting well**, keyed on small bait | [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) — sink a light castable jig, crank hard the instant it stops | Penn Fathom 30-class, 65 lb braid/50 lb mono top shot, 80 lb fluoro leader | Steve Carson, SearcherSportfishing, `TU5quAG4atM`, 2024-06-13; medium confidence, single mention of this technique. Distinct from the shallow bait-ball row above — no mark to drop to, the boat's drift sets the drop angle |
 | **Night bite**, fish rising on the DSL | [Knife-jigging](../techniques/knife-jigging.md) vertical — throw up-current at the bow and walk back to stay vertical; [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) to sink live bait to sounded fish | Night **jig class**; [knife jigs](../lures/knife-jigs.md) 150–400 g | Rig detail — braid choice, single-bottom-assist doctrine, line marking, bite leader — lives in [knife jigging](../techniques/knife-jigging.md) |
+| **Big bluefin marked deep, captain calling the depth** (bite zone ~100–200 ft; heavier jig in breeze to get down faster) | [Flat-fall jigging](../techniques/flat-fall-jigging.md) — free-spool to the mark, count the sink, most bites come **on the fall**; wind back up about halfway and re-drop rather than crank continuously to the top | Two-speed **rail-rod class** ([gear classes](../tackle/gear-classes.md)) | Same deep-jig family as the row above, different (passive, fall-triggered) cadence; Capt. Art Taylor, SearcherSportfishing, `an_uw-5pjfw`, 2020-11-12; medium confidence |
 | **Big fish 100–300 lb**, wind ~8–15 kt | [Kite fishing](../techniques/kite-fishing.md) — a flying fish under a kite is *the* most effective method for 100–300 lb | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md) | See [bluefin trolling](../species/bluefin-trolling.md) for the troll alternative when you can't kite |
 | **Locating — too light to kite, or fish too spread out to sit and kite over** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](../species/bluefin-trolling.md) |
 | **Chummed up / picky on bait** | [Flyline](../techniques/flyline.md) a sardine on a circle hook; scale leader down | **40–60 lb class** | Corner-of-mouth circle-hook bite; a small anchovy-matching lure (Riptide-105 class) can convert picky fish |
+| **Surface signs stop and fish sink out** — boat motor spooks them off the surface, captain marks them down (e.g. **120–140 ft**), and the day had been a sinker-rig bait day | Switch to [knife/vertical jigging](../techniques/knife-jigging.md) in place of the [sinker rig](../rigging/rubber-band-deep-rig.md) | Day **jig class** | Attributed decision (Brian Wen, 2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`, uploaded 2025-03-14; unregistered channel/panel — medium confidence): stated reason is that jigging rewards the same close attention bait fishing does (matching bait/hook to the moment), while being more engaging to fish than watching a rod soak a sinker rig; also swap hook position on the jig itself if it isn't drawing bites (his example: pulled the bottom assist off a top+bottom jig mid-session and started getting bit) |
+| **Slow "pick bite"** — a [sinker rig](../rigging/rubber-band-deep-rig.md) crowd is getting bluefin one at a time, sporadically, rather than a steady bite | Have a couple of anglers work a [speed/knife jig](../techniques/knife-jigging.md) through the school alongside the sinker-rig guys | Day **jig class** | Tackle Express (`6SClBs16L2Y`, 2025-03-10; unregistered channel — medium confidence): the extra commotion of worked jigs in the water is reasoned to draw fish closer to the boat and get them more intrigued/aggressive, likened to chumming or a surface bite — a school-activation tactic layered on top of the existing rig, not a replacement for it. **Same channel, three days apart, same wording — likely a re-cut of the fuller `ZrcwcugaEe4` interview** (see [knife/speed jigging](../techniques/knife-jigging.md#reach-for-this-when)); treat as one source appearance, not independent corroboration, for confidence purposes (2026-08-21 correction) |
 
 **Trolling in one line:** kite when the wind gives you 8–15 kt and the fish are
 big; **speed-troll a Mad Mac at 13–15 kt** to cover water and locate when the
@@ -780,15 +920,39 @@ shot in [gaffing](../fish-care/gaffing.md).
   note).
 - **Jig (day & night):** **100–130 lb-braid jig class / PE6–8**, short parabolic
   jigging rods; [knife jigs](../lures/knife-jigs.md) 150–500 g by depth and current.
+  One captain's own full daytime-to-night weight/hook ladder (100 g daytime
+  treble up through a 400 g personal-ceiling tail-hooked jig, plus a
+  night deep-drop rig for fish to ~400 ft) is in
+  [Searcher bluefin jig ladder by daypart and depth](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md).
+  For **triple-digit (100 lb+) fish specifically** — a 200–500 g jig spread
+  by where fish sit in the column, hook/leader upgrades, the quick-change
+  "Jarry rig," a 30 lb+-drag reel/rod ladder, and a stay-high/shift-to-low-at-
+  the-"pinwheel" fight-timing rule — see [trophy bluefin jig
+  outfit](../tackle/tackle-express-trophy-bluefin-jig-outfit.md).
 - **Kite / troll:** **150–200 lb class**, ~100 lb braid for capacity and less
   wind-blow; [flying-fish harness](../rigging/flying-fish-harness.md),
   [Mad Mac](../lures/mad-mac.md), [spreader bar](../lures/spreader-bar.md).
 - **Bait / flyline:** **40–60 lb class**, circle hooks size 1–2/0; a first-time
   big-fish setup wants **400+ yd of line, 80 lb backing, 50–60 lb mono top-shot,
   and ~3 ft of fluoro** for abrasion and stretch.
+  - **A three-outfit 50–80 lb bait ladder, heaviest-first bite strategy
+    (Gary, Accurate Fishing Products / Searcher, `Yd3J4igs-QA`, 2019-08-01;
+    sponsored segment — product picks low confidence, the ladder/strategy
+    itself medium):** three bait outfits spanning 65 lb Spectra/short fluoro
+    down to 50 lb test, hook sizes stepped 2/0–4/0–6/0 (asr-uncertain read);
+    fish the heaviest outfit first and drop down only if it isn't getting
+    bit, rather than starting light. Full detail in [bluefin 50–80 lb bait
+    outfit ladder](../tackle/bluefin-50-80lb-bait-outfit-ladder.md).
+  - **"Don't leave the dock without it" 50/60/80 lb outfit (Steve Carson,
+    Penn/Searcher, `k4U3ETqmlEc`, 2019-09-12; single mention — medium
+    confidence, reel model low per the sponsored-claim caveat):** 80 lb braid
+    backing to a 50/60/80 lb top shot picked to the day's bite, 1/0–4/0
+    circle hook sized to bait, on a 7–8 ft rod rated 40–80 or 40–100 lb —
+    overkill under 50 lb tuna, the workhorse for 75–150 lb fish. Full detail
+    in [Searcher 50/60/80 lb flyline
+    outfit](../tackle/searcher-50-60-80lb-flyline-outfit.md).
   - **Daytime working numbers, one boat/trip (Ray Sharifi, Dirty Hookers,
-    149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —
-    medium confidence):** ~90% of daytime bites came on flyline, worked on a
+    149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** ~90% of daytime bites came on flyline, worked on a
     dedicated **25–30 lb fluorocarbon flyline stick** (a sponsored
     fluorocarbon brand is named in-video — treat that product claim as
     promotional/low, the **25–30 lb** line-test parameter itself as medium),
@@ -800,11 +964,57 @@ shot in [gaffing](../fish-care/gaffing.md).
 - **Terminal on everything deep:** a **200 lb bite leader class** — the most
   critical part of a bluefin setup ([bite leaders](../rigging/bite-leaders.md)).
 - **Not part of the tuna downsizing rule (Ray Sharifi, Dirty Hookers,
-  PrdPJy26H8c, 2019-03-05; unregistered channel — medium confidence):** unlike
+  PrdPJy26H8c, 2019-03-05; `ray-sharifi` registered, SoCal-capped — medium confidence):** unlike
   [skipjack and schoolie yellowfin](skipjack-tuna.md), bluefin gear doesn't
   get scaled down on a mixed tuna trip — grade is unpredictable trip to trip,
   so tackle stays sized for the biggest fish that could show up.
 - Class lexicon: [gear classes](../tackle/gear-classes.md).
+- **A line-class ladder matched to grade (Steve Carson, Penn, San Diego Rod
+  and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered channel/speaker,
+  single mention — medium confidence):** four named rigs — 15 lb finesse
+  (fish under ~40 lb), 30 lb "big fish finesse" (50–70 lb fish that won't eat
+  40–50 lb line), 40 lb starter (to ~100 lb), and a 50 lb in-between rig for
+  ~125 lb-grade fish that also doubles as a trolling-lure rig — full detail
+  in [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md).
+  The 30/40 lb rigs pair with a **two-speed low-gear fighting
+  technique** — continuous-grind instead of pump-and-reel — logged in
+  [two-speed low-gear fight](../techniques/two-speed-low-gear-fight.md).
+  - **An earlier (2023-03-02), independently-filmed citation of the 30 lb
+    "big fish finesse" doctrine, same speaker, on a `searcher-sportfishing`-
+    registered venue (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip
+    Thursday Vol. 215," `riEkdu8PEds`):** the identical scenario — late
+    July/August, 40–70 lb tuna around the boat refusing 40–50 lb line but
+    eating 30 lb — stated as recurring "the last five years in a row" as of
+    that upload. Repetition from a registered voice reaches **high**
+    confidence for this doctrine. Full rig and the fighting mechanic (a
+    two-speed's continuous low-gear grind gains ~1–2 ft of depth per circle
+    on a 50–70 lb fish) are in [Searcher 30 lb large-tuna
+    outfit](../tackle/searcher-30lb-large-tuna-outfit.md).
+  - **An earlier (2020-10-01), closely-matching citation of the 15 lb finesse
+    rig, same speaker/channel (Steve Carson, Penn/SearcherSportfishing,
+    `ptoIvB2MspE`; single mention here — medium confidence, high where it
+    corroborates the later talk):** a small conventional reel (Penn Squall II
+    15, low confidence product pick) filled 3/4 with braid to a ~50 yd, 20 lb
+    top shot, 4–5 ft of 20 lb fluoro leader, Owner Gorilla Light hook (sized 4
+    here, vs. 2 in the later talk — a discrepancy kept side by side). Also
+    documents a lighter 15 lb top-shot step-down of the same rig and an
+    attributed 44 lb bluefin catch on it. Full detail in [Searcher finesse
+    live-bait outfit — 20 lb and
+    15 lb](../tackle/searcher-finesse-live-bait-outfit.md).
+- **Two-speed reels are a must on multi-day trips (SearcherSportfishing,
+  Rudzy0DD08w, 2019-07-18; `searcher-sportfishing` registered, single
+  mention — medium confidence):** on a day-and-a-half or 3-day trip out of
+  Fisherman's Landing / aboard the Searcher, grade runs **50–80 lb, with some
+  fish over 100 lb** — full gear detail (rental/loaner availability, example
+  TLD 20/Talica 12 builds) in [rod & reel
+  selection](../tackle/rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing).
+- **Retail buying-tier picks by price (Lori Sack, Turner's Outdoorsman, via
+  SearcherSportfishing, `hlmDnAct1cA`, 2019-05-09; unregistered guest
+  speaker, product/model picks — low confidence):** a high-end build (Talica
+  20, 100 lb braid, 40–100 lb-rated Phoenix rod, ~$1,200) and a budget build
+  (Penn Fathom two-speed 40, 100 lb braid, heavy 80–100 lb-rated rod, under
+  $500) — full detail in [bluefin retail setup, high-end vs.
+  budget](../tackle/bluefin-retail-setup-high-end-vs-budget.md).
 
 ## Doctrine & conflicts
 
@@ -845,6 +1055,17 @@ shot in [gaffing](../fish-care/gaffing.md).
     find during the fight — **another angler's line, the anchor rode, or the
     bottom of the boat** — not only its own leader, framed on camera as "these
     things aren't stupid."
+  - **Observed, a preventative-check practice tied to the same mechanism**
+    (StokedOnFishing, `elBPRrdkugU`, 2022-12-22 upload, offshore San
+    Clemente/Catalina, SoCal; unregistered channel — medium confidence): when
+    a hook pulled mid-fight on one of the spread's rods, the crew reeled it
+    in to check it rather than just re-rigging — reasoning on camera that in
+    **thick schools of feeding fish**, another fish can swipe the line and
+    cut the leader, or the bait/leader can pick up kelp or grass unnoticed
+    (technique not specified on camera — transcript doesn't say flylined vs.
+    trolled). Standing advice given live: if you aren't getting bit when you
+    should be, reel in and check the terminal end rather than assume the
+    spot's gone dead.
 - **Cameron (attributed — on-water observation, not doctrine):**
   - **Foamer program summary:** run-and-gun at working terns, **~2–3 casts per
     school**, smaller presentation (Colt-Sniper class) has out-fished bigger,
@@ -871,6 +1092,19 @@ shot in [gaffing](../fish-care/gaffing.md).
   on camera as **two Pacific bluefin tuna per person per day**
   (StokedOnFishing, `usHl-4SfqDA`, 2024-11-13; unregistered channel — medium
   confidence).
+  - **Historical context — the limit was raised from zero (California/CDFW, as
+    of 2014; verify current regs):** Capt. Dave Hansen states the 2/person/day
+    limit above dates specifically to **2014**, when it was raised from a
+    **zero-retention** rule (no bluefin could be kept at all) — attributing the
+    change to advocacy work by his father (referred to on camera as "my
+    father"/"pops," not named), credited as having "stood in the gap" to get
+    the limit changed, and framing it as existential
+    for the sport-fishing industry ("can you imagine if we didn't get to the
+    limit change from zero, there would be no sport fishing industry")
+    (Your Saltwater Guide, PCS Show live seminar, `ztpj1Xll0-U`, 2023-03-02;
+    dave-hansen registered voice, single mention on this specific figure —
+    medium confidence). Kept as a dated historical claim, not a current-status
+    one — the register row below covers the still-current 2/day figure.
 - **Observed** (StokedOnFishing, `mDmbGdQAy-4`, 2025-10-06 upload, SoCal, NE
   of Santa Barbara Island — "Catching Monster Bluefin Using a Flying Bait |
   Catch & Cook"; unregistered channel — medium confidence): foamers all
@@ -892,15 +1126,18 @@ shot in [gaffing](../fish-care/gaffing.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)
-- [Bird Reading](../conditions/bird-reading.md)
+- [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](../tackle/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
+- [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](../tackle/bluefin-retail-setup-high-end-vs-budget.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Trolling](bluefin-trolling.md)
 - [California Sheephead](sheephead.md)
 - [Chunking](../techniques/chunking.md)
-- [Current Structure](../conditions/current-structure.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
@@ -909,47 +1146,60 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Ikejime (Iki-Jime)](../fish-care/ikejime.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
-- [Mad Mac](../lures/mad-mac.md)
+- [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [May](../seasonal/may.md)
 - [Moon](../conditions/moon.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](../tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
+- [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
+- [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](../tackle/searcher-bluefin-jig-ladder-by-daypart-and-depth.md)
+- [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
+- [Searcher Finesse Live-Bait Outfit — 20 lb and 15 lb (Steve Carson, Penn/SearcherSportfishing, 2020-10-01)](../tackle/searcher-finesse-live-bait-outfit.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Minimum Tackle — Three-Outfit Quiver for a 1.5–4 Day Trip (SearcherSportfishing, Tackle Tip Thursday Vol. 105, 2020-06-25)](../tackle/searcher-three-outfit-minimum-quiver.md)
+- [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
-- [Speed Trolling](../techniques/speed-trolling.md)
-- [Spreader Bar](../lures/spreader-bar.md)
 - [Surface Iron](../techniques/surface-iron.md)
-- [Tide and Slack](../conditions/tide-and-slack.md)
+- [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](../planning/trip-length-selection.md)
+- [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
-- [Water Color](../conditions/water-color.md)
-- [Water Regimes](../conditions/water-regimes.md)
+- [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

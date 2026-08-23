@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8]
+sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk, 8fSGyJL2GHM]
 confidence: high
 ---
 
@@ -68,6 +68,17 @@ dirt to ambush against the structure. Same author, both statements: encode
 off-beach as dead.** This is a real seasonal nuance, not an error. See also
 [island structure](../locations/island-structure.md).
 
+**Corroborating framing, coastal bass, stated without a specific date (a
+panelist, Time On The Water seminar, `XyKF34C5iB4`, 2025-04-19; unregistered
+channel — medium confidence):** described current along the beach in the same
+three-way terms as the table above — down the beach, up the beach, or off the
+beach — as the thing he checks before water color, calling water movement
+itself the key read; **clear water is disliked even when current is
+running**, and he treats stained/off-color, moving water as the target
+combination rather than clear water alone. Consistent with, not a new
+mechanism beyond, the parallel-current rule and the off-color-water exception
+already logged above.
+
 ## Kelp-bed corner selection by current direction (Dave Hansen, Your Saltwater Guide, `kzD0kSnnVPw`, 2019-04-07; registered voice, single mention on this specific framing — medium confidence)
 
 At a named kelp bed (his examples: San Onofre, Point Loma, La Jolla, San
@@ -80,6 +91,37 @@ rock structure as well. This is a corner-level refinement of the up-current
 bias already covered above ("bias toward the up-current face under whatever
 current vector is running that day") — same mechanism, a specific compass
 answer at these named SoCal spots.
+
+**Mechanism and a live worked example, same voice — second dated mention
+promotes this claim to repeated doctrine / high confidence (dave-hansen,
+Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`, 2023-03-04):**
+walked through live at the **San Onofre** kelp bed — fronds all laid pointing
+toward San Diego reads as **downhill current** — with the reasoning given as
+a trout-stream analogy: the emptiest, easiest water in a stream to fish is
+always the slack water, because no current means no food is being delivered
+there; once current turns on, fish hold in the moving water (like trout) to
+intercept food being carried past, which is why the **front (up-current)
+edge of the kelp** is where the bigger fish stack once the current starts to
+run. Paired with an explicit **anchor the spot, don't drift through it** call
+for kelp — drifting through the bed was framed as giving up the edge-holding
+pattern entirely ("only if we don't want to catch anything").
+
+## Current is not tide-driven (a presenter's framing, kept side by side with the mechanism above)
+
+Stated emphatically as its own point (dave-hansen, Your Saltwater Guide, PCS
+Show live seminar, `sIoNELGlxmk`, 2023-03-04; registered voice, single
+mention on this specific framing — medium confidence): **current and tide
+are not caused by each other** — "current is current" — consistent with
+this KB already treating them as two independent inputs (current from
+wind/bathymetry per the mechanism chain above; tide from lunar/solar gravity
+in [tide and slack](tide-and-slack.md)). Worked example (the specific
+landmark names in this passage were garbled beyond reliable recovery by
+auto-captions and are omitted here, `asr-uncertain`): at **San Clemente
+Island**, two named spots close enough together to be a short run apart can
+show **opposite current directions on the same day** — one running toward
+San Diego (downhill), the other running uphill — with no explained cause
+("what caused that we don't know"). Framed as routine at SCI, not a rare
+anomaly.
 
 ## Wind direction as a per-spot selection cue (Dave Hansen inferred, Your Saltwater Guide, `xI9tPJFXbUM`, 2019-08-30; registered voice, single mention on this specific framing — medium confidence)
 
@@ -125,6 +167,21 @@ The rule, nearly verbatim: **"sign associated with structure = a repeatable
 decision; sign in no-man's-land = low value."** A fish or a bird tied to a
 identifiable piece of structure gives you something you can come back to; the
 same sign in open water between features does not.
+
+## A single piece can carry more than one productive edge (Tackle Express)
+
+**Observed** (Tackle Express, `8fSGyJL2GHM`, "How to use depth charts to find
+biting fish," 2022-04-20; unregistered channel, single mention, no species or
+location named on camera — medium confidence): fishing one rock, the angler
+first took fish by casting over an inshore ridge on it, then repositioned to
+work the rock's **"outer footprint"** — the edge of its underwater outline,
+visible as an indentation on the chartplotter's depth chart — and kept getting
+bit there too, pointing to a distinctly **steep contour line** at that spot as
+"another real nice contour line that you can find them in." A small-scale
+analog of the fathom-curve doctrine above: don't treat a piece of structure as
+a single spot — its chartplotter contour lines can mark more than one
+productive edge (an inner ridge and an outer, steeper footprint edge), worth
+working in turn on the same piece before moving off it entirely.
 
 ## Continental margin bathymetry (mechanism, generic — not SoCal-measured)
 
@@ -241,7 +298,6 @@ become primary).
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
@@ -253,6 +309,7 @@ become primary).
 - [February–March](../seasonal/february-march.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)

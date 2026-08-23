@@ -3,6 +3,8 @@ type: seasonal
 tags: [late-fall, winter, bluefin, lingcod, rockfish, swordfish, santa-ana, bass]
 sources: [Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8, xzIaUEDklrE]
 confidence: high
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # November–December
@@ -96,15 +98,9 @@ the fish won't be on the surface. See
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Island Structure](../locations/island-structure.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](../conditions/sea-state.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 <!-- backlinks:end -->

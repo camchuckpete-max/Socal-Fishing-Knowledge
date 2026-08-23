@@ -1,8 +1,10 @@
 ---
 type: species
 tags: [yellowfin, tuna, offshore, foamer, flyline, paddy, trolling, baja]
-sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8]
+sources: [8M4QhL-Qb7E, CMQkHQMxbXM, OYOda6T3f-8, 5to3Q5P7w90, lxFNVdDhMy4, VgpgJ8IAyJo, SgF5hRlEGqU, 6zYRI1ZQU3c, H-vIGWPIPVc, GptrotE0x5M, _c6UI3lGBVg, cameron, YUdbrIm9vrE, 0dIwWiOc1NY, BQ2U1PqxWi8, SczdZIq3UmE, 0bcDBGzQnGw, tU4jhAkdzNw, 3T4c3Zez_DM, 6kpWn2sXokI, ASitOLYzFEA, Ow3an9lSVh4, Fq4aRI3YrKE, ilINTeknKB4, AIHvJj-paoo, mG8ZZLFGlT8, 5Oh3IPIC5g4, ouBrIdO7d4k, ETw_3AFxEcM, EfaxxszOYFI, NN5MWeRA28o, TU5quAG4atM, WxlDxFjB8oQ, fgTmUq78ofQ, rziFyx7SRGI, Sx40JvCXFuA, _r08B4bItAY, uWGGeDOprsE]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [open-ocean]
 ---
 
 # Yellowfin Tuna
@@ -33,6 +35,115 @@ the bluefin nearby become more cooperative too.**
   in open-water schools over the offshore banks
   ([kelp paddies](../conditions/kelp-paddies.md),
   [zone lexicon](../locations/zone-lexicon.md)).
+- **Guadalupe Island, Baja (baja-pacific-north) — a big-fish live-bait
+  fly-lining fishery (Steve Carson, SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 189," `ETw_3AFxEcM`, 2022-07-14; unregistered channel —
+  medium confidence):** reached on the Searcher's **six-day** trips,
+  holding yellowfin graded **50–150 lb** — well above the SoCal
+  15–25 lb average grade in this note's opening summary. Fished on the same
+  [flyline](../techniques/flyline.md) live-bait rig used for SoCal
+  yellowtail yo-yo work: a **Penn Fathom 40 Narrow**, two-speed, on a
+  **7–7.5/8 ft rod** rated 30–60 to as heavy as 40–100, **50–60 lb test top
+  shot over 80 lb braid** — full rig detail in
+  [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
+  No bait, hook, or leader-size detail given on camera for this application
+  specifically.
+  **An earlier, hook-size data point for the same grounds (SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 72 (Halloween Edition)," `EfaxxszOYFI`, 2019-10-31;
+  speaker not identified on camera; unregistered channel — medium
+  confidence):** three years before the Vol. 189 tip above, this one named
+  Guadalupe Island **and "the ridge"** (a separate ground, exact location not
+  further resolved on camera) as a **light-line** tuna fishery calling for
+  **size 2 and 4 hooks** — small relative to the grade — with landing a **45 lb
+  yellowfin** there described on camera as "frightfully tough" on that gear.
+  No specific line-class or leader number given; kept side by side with, not
+  merged into, the heavier 50–60 lb top-shot rig logged above from the later
+  tip — this earlier tip calls its own setup "light line" but gives no
+  matching number, so the two are not reconciled.
+  **A third, closer-in-time data point (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 80 (7day Trip)," `WxlDxFjB8oQ`, 2019-12-26; species not
+  stated on camera — read as tuna from context, not confirmed — low
+  confidence on the product picks, sponsored segment):** medium-grade,
+  **30–40 lb**, "very, very line shy" fish at Guadalupe called for a
+  **20 lb fluorocarbon top shot with size 1–2 hooks** and a parabolic rod
+  for shock absorption — full build in [Searcher big/giant tuna rig
+  ladder](../tackle/searcher-big-tuna-rig-ladder.md#light-line-finesse-rig--guadalupe-island-line-shy-medium-grade-tuna-gary-gillingham-accurate-fishing-products-tackle-tip-thursday-vol-80-7day-trip-wxldxfjb8oq-uploaded-2019-12-26).
+  **A fourth, technique-contrast data point for the same grounds** (presenter
+  introduced on camera as "Fred," with an affiliation captioned as "secret
+  fishing rods" — not confidently resolved to a real rod brand/shop name,
+  flagged `asr-uncertain`; SearcherSportfishing, "Tackle Tip Thursday Vol. 63
+  (Long Rod)," `rziFyx7SRGI`, 2019-08-29; `searcher-sportfishing` registered
+  channel — medium confidence, single mention): unlike the fly-lined-bait,
+  chunking, and dropped/flat-fall rigs logged above, this tip pitches the
+  **jig stick** itself for Guadalupe Island — casting **irons/jigs** for
+  tuna there, noting "a lot of guys leave their jig sticks at home" and
+  urging anglers to bring one. No jig weight,
+  color, or retrieve detail given on camera (a 23-second clip); logged as a
+  technique-availability data point alongside, not a replacement for, the
+  bait/chunk/flat-fall rigs above. See [surface
+  iron](../techniques/surface-iron.md) and [gear classes — jig-stick
+  class](../tackle/gear-classes.md) for the general technique/gear-class this
+  pairs with. (The same clip closes on a dated trip-booking announcement —
+  a specific 2019 charter date with seats remaining — which is promotional
+  and time-bound, not carried here as knowledge.)
+  **A fifth, earlier grade data point for the same island** (Capt. Art,
+  SearcherSportfishing, "2009 fishing season comments by Capt Art,"
+  `Sx40JvCXFuA`, 2009-08-25; season-recap clip, not the numbered Tackle Tip
+  Thursday/Tackle Talk Live instructional format the `searcher-sportfishing`
+  registry row describes — a single mention, which caps at medium per the
+  confidence rubric regardless of the channel's registered status): the
+  operator's **first-ever trip to Guadalupe Island**, run in 2009 after
+  obtaining Mexican fishing permits (captioned "sack in Mexico" — ASR-garbled,
+  read as SAGARPA, the Mexican federal fisheries agency of the period; not
+  confidently resolved, flagged `asr-uncertain`), produced yellowfin graded
+  **40–70 lb**, called on camera "one of the best fishing trips to Guadalupe
+  Island that I've experienced in my career." No technique, bait, or tackle
+  choice was named or reasoned on camera, so this is recorded as an outcome,
+  not technique doctrine — it sits within, and extends back to 2009, the
+  30–150 lb Guadalupe grade range already logged above rather than adding a
+  new extreme.
+- **A companion clip, same interview date, previewing rather than recapping
+  the same 2009 season (Capt. Art, "Fall, 2009 on Searcher," `_r08B4bItAY`,
+  2009-08-25 upload — same upload date as `Sx40JvCXFuA` directly above;
+  `searcher-sportfishing` registered channel — read as the same underlying
+  interview split across two uploads, not an independent sighting, so the
+  matching **40–70 lb** Guadalupe yellowfin figure is not double-counted
+  here):** framed ahead of the boat's September five/six-day trips as
+  "a great sign of" 40–70 lb yellowfin, with **yellowtail good at the
+  island's north end** (see [yellowtail](yellowtail.md#where--when)) and "a
+  chance to go to Cedros or San Benitos" on the same run (see
+  [Cedros Island — planning notes](../locations/cedros-island.md#planning-notes)).
+  Distances given for the run from San Diego: **215 mi to the north end, 235
+  mi to the south end**, a single day's run leaving ~11:00 AM, fishing by
+  9–10 AM (north end) or ~noon (south end) the next day.
+- **The same clip names Alijos Rocks and "the Ridge" as the fall (late
+  September/early October) seven-day-trip alternative to Guadalupe** (Capt.
+  Art, `_r08B4bItAY`, 2009-08-25): a chance at **100 lb yellowfin** at Alijos
+  Rocks, and yellowfin tuna at "the Ridge," further resolved on camera as
+  running to an upper high spot named **Uncle Sam Bank** — "especially during
+  the time frame that we're down there" (fall). See
+  [wahoo](wahoo.md#where--when) for the full Alijos Rocks/Uncle Sam Bank
+  citation, including run distances and the wahoo/dorado/yellowtail/black
+  sea bass/grouper detail from the same source. **A same-upload-date companion
+  tackle video (`uWGGeDOprsE`, 2009-08-25)** gives the rod/reel outfit for
+  this **100 lb-class Alijos Rocks yellowfin** specifically — a 50 or 60 lb
+  two-speed outfit fly-lining a sardine — see [Searcher five-outfit quiver —
+  7-day trip to Alijos Rocks and "The
+  Ridge"](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md#the-five-minimum-rodreel-outfits--at-least-five-rods).
+
+- **Why late summer/fall warms up — a stated mechanism (Art Taylor/Mike,
+  SearcherSportfishing, via Turner's Outdoorsman, `fgTmUq78ofQ`, "Tackle Tip
+  Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
+  `searcher-sportfishing` registered channel — medium confidence, single
+  mention):** two stated reasons SST climbs into **August–September**, both
+  feeding the warm-water arrival timing already logged above — (1) ordinary
+  seasonal warming (the climate itself runs warmer that time of year), and
+  (2) **hurricanes tracking up from farther south in Baja/Mexico can push a
+  pulse of warmer water north** into the SoCal zone. As of this seminar
+  (mid-May), the crew hadn't yet fished a mixed bluefin/yellowfin school that
+  (2021) season and had seen mixed schools show up **"typically a little
+  later in the year"** in prior seasons — consistent with, not new beyond,
+  the August-arrival timing above, now with a stated mechanism for it.
 
 ## Finding them (sign & sonar)
 
@@ -60,6 +171,11 @@ the bluefin nearby become more cooperative too.**
   the school can look empty from above even when it's holding fish — see the
   [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen)
   built specifically to get a bait down to them.
+- **A pod that's actively feeding behaves differently from one that's just
+  traveling:** once a dolphin/porpoise pod breaks up a baitball, yellowfin
+  can show scattered **on the flanks and up in front** of the pod rather than
+  tight underneath it — see the approach method and finesse trolling lure in
+  [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling).
 - **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
   Clemente Island — unregistered channel, `medium`): spotted a large
   dolphin/"porpoise" school (see the porpoise-is-a-misnomer note above)
@@ -160,10 +276,12 @@ the bluefin nearby become more cooperative too.**
 | **Marked / chummed-up school, eager** | [Flyline](../techniques/flyline.md) a live sardine on a circle hook; chum a few freebies first to fire them | **30 lb class**, size 2/0 circle ([gear classes](../tackle/gear-classes.md)) | Match hook to bait size; **go to strike and wind tight** — no swing needed on circles |
 | **School reacting to chum but not eating the hook bait (picky)** | Scale down (drop to **15–20 lb leader, size 1 thin-wire circle**); then the **bait-net trick** — pitch 3–4 freebies with your hook bait mixed in to fool them | Light **flyline class** | Try to work back up to 25–30 lb once they commit |
 | **Surface feeders / foamers** | [Foamer casting](../techniques/foamer-casting.md) — poppers (Chug Norris 150 class), stickbaits, small lead baits | **Jig-stick class** | Matches sardine/anchovy; **a surface yellowfin bite fires the bluefin** |
+| **Skipjack blanketing the surface over yellowfin holding below them** | A **fast-sinking 1 oz swimbait** worked quickly through the skipjack layer to the yellowfin below, instead of live bait | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — decision and reason stated on camera: live bait gets intercepted by the skipjack before it reaches the yellowfin; see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) and [skipjack tuna](skipjack-tuna.md). ⚠ promotional seminar source, low confidence |
 | **Troll-to-locate: open zone or a spread of paddies, no visual fish** | [Troll](../techniques/trolling.md) [cedar plugs](../lures/cedar-plug.md) and [feathers/skirts](../lures/tuna-feathers-and-skirts.md) at **~6–6.5 kt** to find fish; on the jig strike, stop and convert the school with [flylined bait](../techniques/flyline.md) or casted lures | Light **troll class** | Trolling here is a *search* tool as much as a catch method — cover the zone, let the strike mark the school, then fish the stop. **⚠ Thin area — spread geometry:** the corpus gives yellowfin troll *speeds*, not spread design (setback distances, lure positions in the pattern); flagged pending new sources |
 | **Scattered picky fish located, won't eat a jig** | Slow-troll a nose-hooked live bait to both locate and entice | Flyline / **troll class** | Boat just in gear, bait well back off the props; clicker set so the bait swims but doesn't pull line |
 | **Mixed under paddies with yellowtail/dorado** | [Flyline](../techniques/flyline.md) or dropper into the paddy | **30–40 lb class** | Grade the paddy fast — fish restock paddies only at night |
 | **Schooling under a traveling dolphin/porpoise pod, suspended, not showing at the surface** | Nose-hooked live bait on the [inline torpedo-sinker dropper rig](../rigging/rubber-band-deep-rig.md#inline-tied-alternative--no-breakaway-tuna-under-dolphinporpoise-pods-dave-hansen) — **drop, don't cast**, off the stern as the boat closes on the pod at ~6–7 kt | **Flyline class**, weighted (4 oz inline torpedo sinker, 60 lb braid/leader, 50 lb fluoro) | Common dolphin and spotted spinner dolphin are the two SoCal pod types that hold suspended yellowfin |
+| **Daytime, fish around the boat but not biting well**, keyed on small bait | [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) — sink a light castable jig, crank hard the instant it stops | Penn Fathom 30-class, 65 lb braid/50 lb mono top shot, 80 lb fluoro leader | Steve Carson, SearcherSportfishing, `TU5quAG4atM`, 2024-06-13; medium confidence, single mention of this technique — same technique row as [bluefin tuna](bluefin-tuna.md#situations--techniques), named on camera for both species |
 
 ## Gear summary (class terms)
 
@@ -209,6 +327,19 @@ the bluefin nearby become more cooperative too.**
   light-line-for-picky-fish pattern — one stated as **20 lb line, 20–25 lb
   leader**; another as a roughly **4 ft, 20–25 lb fluoro leader on 50 lb
   Spectra**.
+- **Dated tackle-shop tip, promotional (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 20," 2018-10-31, `NN5MWeRA28o`; unregistered channel, the
+  segment opens by pitching a Seaguar Blue Label sale at the shop's own
+  tackle day — low confidence):** for school-grade yellowfin that had been
+  around the **Coronado Islands** (Baja, `baja-pacific-north` region label)
+  with the bite described on camera as still **"starting"** (an
+  early/not-yet-full-on phase), the stated tip was **light-line
+  fluorocarbon — 20 lb or 25 lb Seaguar Blue Label**. No reason is given
+  beyond naming the product and pound test; kept side by side as a further
+  light-leader-for-a-still-forming-school data point alongside the picky-bite
+  scale-down doctrine and the 20–25 lb fluoro leader observations logged just
+  above (`AIHvJj-paoo`), not merged into either since this source gives its
+  own grade numbers with no stated reasoning.
 - **Observed** (StokedOnFishing, `SczdZIq3UmE`, 2019-10-02, offshore SoCal near
   the 209 bank; unregistered channel — medium confidence): a private-boat trip
   found white terns working over **72°F** water and boated yellowfin graded
@@ -369,8 +500,8 @@ the bluefin nearby become more cooperative too.**
   water-regime calendar elsewhere in this note. Bycatch while anchored: a
   school of dorado moved in and stayed around the boat for the duration (see
   [dorado](dorado.md#where--when)), and wahoo swam through the school on and
-  off (no dedicated wahoo species note exists in this KB to route that detail
-  to). One hooked fish tangled on the boat's **sonar dome/transducer** and
+  off — see [wahoo](wahoo.md#where--when). One hooked fish tangled on the
+  boat's **sonar dome/transducer** and
   took a crew member going in the water repeatedly (reported on camera as
   five times) to free it; a separate fish's line was spliced twice mid-fight
   after crew went overboard to work on it. No technique, leader, or hook
@@ -407,37 +538,39 @@ the bluefin nearby become more cooperative too.**
 <!-- backlinks:start -->
 ## Linked from
 
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](bluefin-tuna.md)
-- [Cedar Plug](../lures/cedar-plug.md)
+- [Cedros Island](../locations/cedros-island.md)
+- [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
-- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [October](../seasonal/october.md)
-- [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md)
-- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
+- [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Striped Marlin](striped-marlin.md)
+- [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Trolling](../techniques/trolling.md)
-- [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
+- [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
+- [Wahoo](wahoo.md)
 - [Water Color](../conditions/water-color.md)
-- [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)
 - [Yellowtail](yellowtail.md)
-- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

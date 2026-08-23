@@ -160,9 +160,7 @@ estimated **≈181 lb**.
 ## Linked from
 
 - [<Your Boat>](../profiles/_template/boat.md)
-- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
-- [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Gaffing — Sizing and the Shot](gaffing.md)
 - [Ikejime (Iki-Jime)](ikejime.md)
 <!-- backlinks:end -->

@@ -3,6 +3,8 @@ type: seasonal
 tags: [fall, bluefin, yellowfin, dorado, yellowtail, bola, volume-square]
 sources: [5to3Q5P7w90, cameron]
 confidence: high
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # September
@@ -60,20 +62,13 @@ the same structure.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bight Geography](../locations/bight-geography.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
-- [Dropper Loop](../techniques/dropper-loop.md)
-- [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
-- [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
-- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
-- [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

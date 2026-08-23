@@ -3,6 +3,8 @@ type: location
 tags: [geography, wind-rollover, warm-band, paddies, bluefin, planning]
 sources: [HzE4FHHcvTk]
 confidence: high
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Bight Geography
@@ -72,14 +74,8 @@ share it).
 
 - [April](../seasonal/april.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
-- [Island Structure](island-structure.md)
 - [June–July](../seasonal/june-july.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
 - [October](../seasonal/october.md)
-- [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
-- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
-- [Water Color](../conditions/water-color.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

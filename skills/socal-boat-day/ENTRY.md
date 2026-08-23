@@ -97,9 +97,5 @@ feature.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Cameron's Boat — Panga Marine Marquesas 22](../../profiles/cameron/boat.md)
 - [Conditions Endpoints & Fallback Ladder](../../config/endpoints.md)
-- [Day-Plan Protocol](../../planning/day-plan-protocol.md)
-- [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
-- [Report Reading and Forecasting](../../planning/report-reading-and-forecasting.md)
 <!-- backlinks:end -->

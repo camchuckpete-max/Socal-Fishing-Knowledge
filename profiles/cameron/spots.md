@@ -80,9 +80,5 @@ The **~125-bank list** is the training universe for the model.
 <!-- backlinks:start -->
 ## Linked from
 
-- [BightSST Eval Targets](../../locations/bightsst-eval-targets.md)
-- [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Island Structure](../../locations/island-structure.md)
-- [Upwelling and Turnover](../../conditions/upwelling-and-turnover.md)
-- [Zone Lexicon](../../locations/zone-lexicon.md)
 <!-- backlinks:end -->

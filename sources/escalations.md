@@ -112,3 +112,45 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-15T01:34:31Z — MUpvP-Yl2R0 — evaluator-escalate
 - run: 31852099283
 - reason: species/california-halibut.md adds a CDFW 22in legal-minimum-size claim for California halibut (jurisdiction/as-of-date/verify-current flag present and compliant) - per evaluate-unit.md's mandatory trigger, every regulatory claim goes to Cameron regardless of correct labeling
+
+## 2026-08-18T16:36:33Z — unknown — guard-violation
+- run: 32158370146
+- reason: sweep reverted b87d21aa02c10ba80fd42230b5db3c509c2530cc: protected path touched: scripts/build-bight-watch.py
+- resolution (2026-08-18, supervised session): NOT a real violation. The
+  sweep applied the protected-path rule to every commit on the branch rather
+  than to the unattended extractor it exists to constrain, so it reverted two
+  already-pushed, already-reviewed session commits. Both reverts have been
+  undone and guard.py now skips commits not authored by the pipeline identity
+  (PIPELINE_AUTHORS). Protected-path rules still apply in full to extraction
+  commits. No Gate B action needed.
+
+## 2026-08-18T16:36:34Z — unknown — guard-violation
+- run: 32158370146
+- reason: sweep reverted e4cc1893ccec79e76ad95f506753c5ca40ccd0da: protected path touched: scripts/batch2/commit-video.py
+- resolution (2026-08-18, supervised session): NOT a real violation. The
+  sweep applied the protected-path rule to every commit on the branch rather
+  than to the unattended extractor it exists to constrain, so it reverted two
+  already-pushed, already-reviewed session commits. Both reverts have been
+  undone and guard.py now skips commits not authored by the pipeline identity
+  (PIPELINE_AUTHORS). Protected-path rules still apply in full to extraction
+  commits. No Gate B action needed.
+
+## 2026-08-20T17:32:53Z — -Ocrnb4rmMo — subagent-failure
+- run: 32397800699
+- reason: evaluator subagent terminated early due to API error mid-response
+
+## 2026-08-20T22:28:23Z — DPrr0a3vQY0 — guard-violation
+- run: 32422107119
+- reason: commit 7ddb6f668be6db1aa31969491c1f942f2d059eea reverted: protected path touched: profiles/cameron/rods.md
+
+## 2026-08-21T06:17:27Z — SclIN_ceduA — guard-violation
+- run: 32449233399
+- reason: commit bc9f591da3760b429e972ed99448e8865ea56a2e reverted: protected path touched: profiles/cameron/tackle.md
+
+## 2026-08-21T19:15:18Z — x2cQrPaZ_Z0 — guard-violation
+- run: 32516147177
+- reason: commit fc31d90b9c0f23d6242c82a00fe78f48575b9cbe reverted: protected path touched: profiles/cameron/rods.md
+
+## 2026-08-21T20:54:24Z — zlelqp7Qo9Y — guard-violation
+- run: 32521877892
+- reason: commit 168c6837ed03fe232d62dc7cd5c93bc7d6c22dcd reverted: protected path touched: profiles/cameron/tackle.md

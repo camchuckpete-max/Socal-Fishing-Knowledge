@@ -1,8 +1,10 @@
 ---
 type: species
 tags: [calico-bass, kelp, reef, inshore, current, swimbaits, surface-iron, baja]
-sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo]
+sources: [0KQ--N5TjqE, YIABTTYXeqc, n6PTy8g3pb0, Rwy4MqeXCIU, kwMIgkCtFUE, OYOda6T3f-8, Z3rZqy2Pi8E, DnSqw4r7A1s, r6j5w40fVHI, RXNebDr4j7s, KTsXdQXAnkU, _KldpqPPT1c, ldVj0BoB-kE, EU_Dod4wfYw, 9xNhdu2aBqE, _C8w6zeVPak, NGxyOlPx3ug, Qa-j6LIwa1Q, xIUKmH9ccgQ, XwwIvPFxRiQ, 3SATCeA3KaU, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, M6U_FVdosr4, RPSRH0jwyw4, qri15R3caYE, 3yK3JYrKoZY, tJFSV3AcIdE, yjwIGFzWO8I, I-QBxuV2p7M, HMdrP4-i9MM, Zo92MG459gQ, usHl-4SfqDA, ILBl12Jm7-0, 0dIwWiOc1NY, SdwwpQMJEOI, zUFbCIWZZMw, oadK6zIYyCo, IdMJnlg_rZk, 2cxeg_AE418, LqW32NSkObY, RUuPNpK0x-s, XyKF34C5iB4, ZoIzpyyS9xw, lP6cg4eEU6s, 7T6dIYqr3KI, r9bF3VtzDUg, 9a-Zy_D6c3w]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [nearshore-coast, island, bay-harbor]
 ---
 
 # Calico Bass (Kelp Bass)
@@ -40,7 +42,30 @@ you read the *current across the kelp*, not the tide clock.
 - **Moon:** on clear full-moon nights calico gorge after dark and **shut down by
   mid-morning** — bite early, then dead until late day; the winter version is a
   reaction-bite-only day. Plan coastal bass segments for first light or late
-  afternoon on the full ([moon](../conditions/moon.md)).
+  afternoon on the full ([moon](../conditions/moon.md)). Night-specific color and
+  lure choice — silhouette/craw colors, lit-structure targeting in a harbor,
+  heavier leader for a trophy fish — is in
+  [night bass fishing](../techniques/night-bass-fishing.md).
+- **Light angle governs where fish hold, separate from moon phase (n6yun
+  panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):** on
+  bright, sunny, stable-light days calico "levitate" up into the kelp canopy
+  to get out of direct light, concentrating along the **outer canopy edge**
+  worked with the current — the panel called this precise enough to
+  "pinpoint the money shots." Overcast/cloudy conditions instead **spread the
+  fish out** through the water column and structure, so a wider area can
+  produce. Consistent with, not a replacement for, the canopy-holding data
+  point already logged under Finding them below.
+- **Dawn/dusk window, a stated rule of thumb (n6yun panel, `RUuPNpK0x-s` —
+  medium confidence):** fish an hour before sunrise into the early morning,
+  and again the hour before sunset — cited as the window that decides a large
+  share of SoCal bass-tournament wins, including one described 30-minute
+  giant-bass frenzy right around first light. Applies to wall fishing as well
+  as open kelp/reef.
+- **Twilight pre-spawn staging (summer, n6yun panel, `RUuPNpK0x-s` — medium
+  confidence):** evening ("twilight boat") trips in summer connect with
+  calico staging to spawn in **40–60 ft of water over hard bottom** as light
+  fades. No specific SoCal location named beyond "coastal," so treat as a
+  general seasonal-depth pattern rather than a spot.
 - **Current, not calendar/tide:** the parallel-current rule governs. Current
   running **parallel** to the shoreline (uphill or downhill) makes the edge
   fishable; **into** the beach is marginal; **off** the beach is garbage and
@@ -49,6 +74,16 @@ you read the *current across the kelp*, not the tide clock.
   want the warmer, better patch, but grunion or bait events override water
   quality entirely (see below). See [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
+- **Doctrine (medium — Tommy Ponce, kayak guide, Dana Point, Fisher Newb seminar,
+  `LqW32NSkObY`, 2019-03-13):** a personal-observation temperature preference of
+  roughly **65–68°F**; past about 70°F fish become more lethargic and drop to
+  cooler water, though they'll still hit a top-water bait. Calicos are **not
+  migratory** — pelagic spawners that settle near the islands or coastal grounds
+  where they hatch and largely stay put, moving structure-to-structure at most
+  rather than ranging. Depth most commonly worked in his Dana Point water: **0–8
+  ft** and **20–100 ft**, occasionally a little past 100 ft; he is skeptical of a
+  cited FishBase figure of fish to ~275 ft, saying he has not personally seen them
+  that deep.
 - **Observed** (StokedOnFishing, 2014-11-03 upload, Bird Rock, Catalina Island,
   SoCal — `zUFbCIWZZMw`, "Stoked On Simrad, part 1," sponsor-heavy Simrad
   electronics/autopilot demo episode; unregistered channel — medium
@@ -339,6 +374,14 @@ you read the *current across the kelp*, not the tide clock.
   that edge (ASR-uncertain past that point). Consistent with, not a new data
   point beyond, the up-current/leading-edge doctrine documented above.
   Unregistered channel — medium confidence.
+- **Visual surface sign, long-range trip context (Doug Kearn, SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 170," `r9bF3VtzDUg`, 2022-02-24; `searcher-sportfishing`
+  registered channel, single mention — medium confidence):** watch for calicos
+  **flipping at the surface** as they chase bait up, often under a knot of birds
+  hovering over the same spot ([bird reading](../conditions/bird-reading.md)) —
+  cast onto that activity. Cast the jig as far from the boat as you can, but on
+  a long-range beach stop the fish are usually **within 30–40 yards of the
+  boat**, not far out.
 
 ## Situations → techniques
 
@@ -350,9 +393,16 @@ you read the *current across the kelp*, not the tide clock.
 | Sparse kelp lanes, fish not committing to weedless | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** / hard bait / Wax Wing (⚠ stub) through the lanes | 7–10 ft graphite bass/**crank class** | Crank the 80–100 ft lanes; execution, rigging upgrades, and depth doctrine in the technique note |
 | Live bait around, fish deeper on the edge or in wind | **Flyline** a sardine/mackerel ([flyline](../techniques/flyline.md)) | flyline class, 25–40 lb | Sweeps the up-current edge naturally |
 | Raging current, kelp pulled under | Slow down / switch to **subsurface** (sunk iron, leadhead) or wait for the slack | jig / leadhead class | Surface presentations die; resurfacing kelp = go back on top |
+| Tight to the beach, current ripping, no kelp in the description | **Free-spool bounce a weighted soft-plastic tube** off the bottom — enough weight to hold bottom, let the current sweep it between bounces ([swimbaits — beach bounce](../techniques/swimbaits.md#beach-bounce-in-ripping-current--the-stupid-tube-tackle-express)) | bass class | 1.5 oz held bottom in ripping current, current pulled the bait 5–10 ft further each bounce; "calicos every cast" (Tackle Express, `9a-Zy_D6c3w` — unregistered, medium confidence) |
 | **Grunion-in-kelp / bait blitz** (even ugly stagnant water) | Match the bait — 7" split-tail slug on a sled/leadhead, every cast | bass class | Overrides water quality entirely; birds stay on top of the moving bait (10/20/22) |
 | Fish holding tight up **underneath a dense kelp canopy** (not just the edge), established bite pattern | **Flip / punch a heavy jighead into gaps in the canopy** — a freshwater-bass "flipping" presentation borrowed onto kelp ([flipping the kelp canopy](../techniques/swimbaits.md#flipping-the-kelp-canopy-observed-aaron-martens--benny-florentino)) | bass casting class | ⚠ Single-session observed data point (StokedOnFishing/Aaron Martens/Benny Florentino, San Clemente Island, Dec 2013, `P6Slg6RQiXw`) — not established doctrine |
+| **Baja island beach, yellowtail have shut off mid-day** ([Cedros](../locations/cedros-island.md)) | **Downsized surface iron** ([surface iron](../techniques/surface-iron.md)) — a 5.5 in mini-iron worked in tight on the beach | jig-stick class, [iron jigs](../lures/iron-jigs.md) | The mid-day filler on a Cedros yellowtail trip: run in tight, catch calicos on the small iron, and wait for the yellows to reappear. Calicos are thick there — *"it's raining calicos"* (Jared Saaib, Strictly Irons, `IdMJnlg_rZk` / `2cxeg_AE418`; registered, single trip — medium) |
 | Anchoring up on a kelp edge, current running parallel down the coast | **Chum-and-anchor**: chum bucket the spot, then reposition up-current and back the boat down onto it as the anchor sets ([chunking](../techniques/chunking.md)) | bass class | Fish come out of the kelp and start biting as the anchor goes down (RXNebDr4j7s) |
+| Grass/heavy kelp fouls a standard weedless rig | **Tube bait** on an Owner "sled" weedless rig ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | 8 ft parabolic-bend bass class; 40 lb+ for 3–4 oz baits | Needs a full-length parabolic-bend rod or the hook pulls — a different rod requirement than the soft-plastic weedless row above; ⚠ single promotional seminar source, low confidence |
+| Fishing from a kayak/small craft — boiler rocks and kelp at close range, often with no fish finder | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — platform-specific approach (kelp as anchor, close-range boiler-rock work, fan-casting) | bass class, sized to the boat/kayak | Execution is the same current/edge doctrine above; what changes is standoff distance, anchoring, and navigation without electronics |
+| Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colors, booty spin worked top-to-bottom, lit-structure targeting in a harbor | bass class, step up leader (50 lb+ fluoro) for abrasion | Full night program — color, structure choice, and the heavier-leader rationale — lives in the technique note |
+| Deliberately hunting a **trophy fish (7–10+ lb)** rather than numbers | **Size the bait up** — 8–10 in swimbaits instead of the 4–5.5 in numbers baits, matched to bumped-up line/leader ([swimbaits](../techniques/swimbaits.md), [trophy calico tackle](../tackle/line-and-leader.md#trophy-calico-bass-tackle-n6yun-fred-hall-panel-2013-03-09)) | heavy bass-casting class, 65–80 lb braid | Cross-panel doctrine (n6yun, Fred Hall Show panel, 2013-03-09, `ZoIzpyyS9xw`): bigger lure draws fewer but bigger bites; baits under ~5.5 in top out around 1–4 lb, while 8–10 in baits are what actually connects with 7–10 lb class fish. Trade fewer bites for bigger average grade |
+| Open coastal water, less kelp, calico busting/"boiling" bait on top — want to be selective | **Boiler-calico swimbait** — target only visibly committed fish, work the water-clarity edge ([swimbaits — targeting a boiler bite](../techniques/swimbaits.md#targeting-a-boiler-bite--pick-the-committed-fish-read-the-clarity-edge-jeremy-sav-on-tackleirod-seminar)) | 7–9 ft bass class, 200-size reel | Jeremy, Sav-On Tackle/IROD seminar (Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered, medium confidence): read clear water over stained, cast to the aggressive fish rather than trying to convince a neutral one; more aggressive fish and bigger baits work as water warms (July–August) |
 
 **Covering water is the method:** 10–25 casts to the prime edge of a bed, then
 move — 100 ft or 100 yards to the next patch of stringers. If they're not on the
@@ -369,13 +419,36 @@ present the outside stringers.
 - **Terminal/lures:** [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md)
   and slugs on keel-weighted weedless or leadhead hooks; surface
   [iron jigs](../lures/iron-jigs.md); crankbaits and small hard baits with beefed
-  hooks/split rings. Heavy fluoro leader (40–65 lb) for kelp.
+  hooks/split rings. Heavy fluoro leader (40–65 lb) for kelp. Colt Sniper-class
+  [stickbaits/jerkbaits](../lures/tuna-poppers-and-stickbaits.md) are also fished
+  on top for calico, sharing gear with the yellowtail application.
 
 ## Doctrine & conflicts
 
 - **Doctrine (high — Landesfeind):** current-driven and tide-indifferent; fish the
   parallel-current leading edge; cover water and let a handful of casts grade each
   bed; presentation follows the kelp's current tell.
+- **Trophy grade = bigger bait, fewer bites (Fred Hall Show panel, part 1,
+  n6yun, `ZoIzpyyS9xw`, 2013-03-09):** four panelists independently converged
+  on the same rule for targeting big calico. Capt. Benny Florentino
+  (`benny-florentino`, registered — single mention of this specific claim,
+  medium confidence) drew the line explicitly: **"trophy" bass are 7–10 lb**;
+  a 1–4 lb fish comes easily on 4–5.5 in baits, but stepping up to **8–10 in**
+  baits is what's actually required to target the 7 lb+ class. Corey Sandon
+  (MC Swimbaits, unregistered — medium): *"the bigger the lure, the bigger the
+  fish... you're probably going to get fewer bites but they're going to be
+  bigger."* Kept side by side with, not a replacement for, the general
+  bait-sizing guidance in [swimbaits](../techniques/swimbaits.md) and [soft
+  plastic swimbaits](../lures/soft-plastic-swimbaits.md).
+- **"Time on the water" over conditions-chasing (Jimmy Decker, Decker's Guide
+  Service, unregistered — medium confidence; same n6yun panel,
+  `ZoIzpyyS9xw`):** asked how to catch a big calico, Decker's answer was
+  blunt — *"throw a big bait, spend a lot of time on the water... forget what
+  they tell you about the tide, the moon, the wind, just get on a boat and
+  get your bait in the water, because you can't catch them sitting on the
+  couch."* This is a volume-of-effort philosophy, not a claim that tide/moon
+  timing doesn't matter — kept side by side with, not a contradiction of, the
+  dawn/dusk, full-moon, and current-read doctrine logged above.
 - **Parallel-current exception (kept side by side):** late fall at San Clemente
   Island the bass wanted **off-color water with current running *into* the
   island** — fish used the dirt to ambush against the structure (11/23/22).
@@ -492,6 +565,18 @@ present the outside stringers.
 - **Legal size (California / CDFW, as of 2026-08 — verify current rules):**
   calico bass (kelp bass) minimum legal size is **14 in** (dave-hansen,
   r6j5w40fVHI, 2022-04-25).
+- **Bag limit, older figure (California / CDFW, as of 2019-03-13 — this is the
+  oldest regulatory figure in this note; verify current rules before relying
+  on it):** bag limit of **5** stated for calico bass (Tommy Ponce, Fisher
+  Newb seminar, `LqW32NSkObY`). Same source states calicos take roughly
+  **5–7 years** to reach legal size — offered on camera as the reason he
+  pushes catch-and-release, consistent with the slow-growth CPR ethic already
+  logged below. His growth-timeline line names the size as "about 12 in" on
+  auto-generated captions (garbled ASR), which conflicts with his own 14 in
+  figure stated minutes later in the same talk (and with the registered 14 in
+  legal size above) — kept as "legal size" here rather than asserting either
+  number for the growth claim, since the transcript itself is internally
+  inconsistent on this specific figure.
 - **Baja regional note — Cedros Island voluntary catch-and-release (as reported
   2023-10-16, verify current status before fishing):** local fishing
   companies/operators at Cedros Island, Baja California (not a SoCal spot —
@@ -532,6 +617,11 @@ present the outside stringers.
 
 ## Handling & release
 
+Procedure for getting the hook out of a deep-hooked fish and measuring it
+without wrecking it is in
+[dehooking & release handling](../fish-care/dehooking-and-release.md); the
+release *ethic* and the regional policies are below.
+
 - **Grab them by the lower lip** to control the fish for hook removal.
 - Before releasing, **rub your hands together to build a light lather/foam,
   then rinse the fish off** before it goes back — a slime-coat step ahead of
@@ -558,46 +648,56 @@ present the outside stringers.
   before release — the fizzing question was raised on camera but not
   demonstrated. A general release-handling data point, not new doctrine.
   Unregistered channel, multi-speaker — medium confidence.
+- **Observed** (SearcherSportfishing, "Tackle Tip Thursday Vol. 141," upload
+  2021-04-01, `7T6dIYqr3KI`; unregistered channel — medium confidence): the
+  speaker states he caught "probably the second biggest if not the biggest"
+  calico bass of his own fishing history on [slow-pitch jigging](../techniques/slow-pitch-jigging.md)
+  gear, dated only as "a couple of months ago" relative to the 2021-04-01
+  upload (so roughly January–February 2021) — no location given, and no
+  reason offered for why SPJ produced the fish. An outcome, not doctrine.
 
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
+- [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Barred Sand Bass](sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
-- [Bird Reading](../conditions/bird-reading.md)
+- [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [California Barracuda](barracuda.md)
-- [California Halibut](california-halibut.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
-- [Current Diagnostics](../conditions/current-diagnostics.md)
-- [Current Structure](../conditions/current-structure.md)
+- [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
-- [June–July](../seasonal/june-july.md)
+- [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Moon](../conditions/moon.md)
+- [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
+- [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
+- [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Trolling](../techniques/trolling.md)
-- [Water Color](../conditions/water-color.md)
-- [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
+- [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowtail](yellowtail.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

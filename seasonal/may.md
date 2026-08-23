@@ -3,6 +3,8 @@ type: seasonal
 tags: [spring, bluefin, yellowtail, paddies, flying-fish, size-class, run-and-gun]
 sources: [S2L3KLSQ6Is]
 confidence: medium
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # May
@@ -57,14 +59,8 @@ Read the water with [water temperature](../conditions/water-temperature.md),
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Barracuda](../species/barracuda.md)
-- [Current Structure](../conditions/current-structure.md)
-- [Day-Plan Protocol](../planning/day-plan-protocol.md)
-- [Foamer Casting](../techniques/foamer-casting.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Pacific Bonito](../species/bonito.md)
-- [Surface Iron](../techniques/surface-iron.md)
-- [Water Color](../conditions/water-color.md)
 - [Water Regimes](../conditions/water-regimes.md)
-- [Water Temperature](../conditions/water-temperature.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

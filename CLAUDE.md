@@ -89,8 +89,25 @@ auto-generated index.
   tags: [bluefin, trolling, offshore]
   sources: [cameron, XLVUhV8DW64]   # NAMED: cameron | <youtube video_id>
   confidence: high         # high|medium|low
+  regions: [socal-bight, cortez-north]   # REQUIRED on gated types — the gate
+  waters: [island, bank]                 # REQUIRED — structure axis
   ---
   ```
+
+- **Region gating is mandatory** on `species | technique | lure | rig |
+  location | seasonal | bait | decision`. Five broad regions —
+  `socal-bight`, `baja-pacific-north`, `baja-pacific-south`, `cortez-north`,
+  `cortez-south` (north/south split at the BC/BCS state line, 28°N). Assignment
+  is at **region level, not spot level** (Cameron, 2026-08-17). Vocabularies in
+  [`locations/regions.md`](locations/regions.md);
+  `scripts/link-maintenance.py` **exits nonzero** on a missing field or an
+  off-vocabulary term. `regions` is the safety gate that stops a SoCal day
+  plan offering a Sea-of-Cortez-only species; `waters` is what stops an
+  offshore-bank tactic surfacing for a bay trip. "Only in" is set membership —
+  no separate field. These describe **where the knowledge applies**, not where
+  the video was shot. The generated indexes badge `**[Baja only]**` /
+  `**[SoCal only]**` from these fields, so region can never be invisible on the
+  surface a planner browses.
 
 - **Sources are NAMED**: `cameron` or the YouTube `video_id` — never
   "personal/owner" — so contributors can be filtered later. Front-matter
@@ -209,6 +226,18 @@ The flaw this fixes: species notes and technique notes can each exist while the
   no technique note to hold it, **create the technique note**; the species note
   keeps routing only (e.g. `techniques/deep-drop-swordfishing.md` holds sword
   execution, `species/swordfish.md` routes to it).
+- **Doctrine with a folk explanation gets the mechanism too.** When a source
+  states working doctrine with a superstitious or absent "why" (e.g. "fresh
+  line gets bit"), keep the doctrine attributed as stated AND add the mundane
+  mechanism (coil memory, abrasion nicks, stretch/UV fatigue) — factual while
+  respecting the captain's framing, never repeating folklore as the reason.
+  (Cameron review, 2026-08-23.)
+- **Side-by-side doctrine conflicts must carry a decision frame.** Keeping
+  conflicts unreconciled is not the same as leaving the reader without
+  guidance: the note must say what the choice actually turns on (technique,
+  conditions, gear tier) and state explicitly that section order is not a
+  ranking. (Cameron review, 2026-08-23: "why do we choose one doctrine to be
+  first over another?")
 - **Angler self-imposed constraints are profile data,** even when stated with
   conviction (e.g. "manual reels only"). The general note states what the fishery
   does; the constraint lives in `profiles/<user>/`.

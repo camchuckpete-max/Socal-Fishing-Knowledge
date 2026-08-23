@@ -1,7 +1,7 @@
 ---
 type: planning
-tags: [reports, forecasting, advection, persistence, moon, source-discipline]
-sources: [Blh2BA-7Ono, HzE4FHHcvTk, XLVUhV8DW64, 5p6gu14ZC4w]
+tags: [reports, forecasting, advection, persistence, moon, source-discipline, plunker]
+sources: [Blh2BA-7Ono, HzE4FHHcvTk, XLVUhV8DW64, 5p6gu14ZC4w, ILA6OMInWSM]
 confidence: high
 ---
 
@@ -58,6 +58,29 @@ re-scout — treat pre-storm intel as expired regardless of how few days old it
 is. See [sea state](../conditions/sea-state.md) and
 [upwelling and turnover](../conditions/upwelling-and-turnover.md).
 
+## Report vocabulary — "plunker style" fishing
+
+A captain's report or a boat's account may describe a day as **"plunker
+style" fishing** (SearcherSportfishing, `ILA6OMInWSM`, 2023-02-02; unregistered
+channel — medium confidence). Normalize the term before weighting the report:
+
+- **What it describes:** a slower-paced, spread-out bite that runs
+  consistently through the whole day rather than a hot flurry — typically
+  **two or three fish hooked up at the same time**, sustained for hours. The
+  boat may barely move; the source's stated example is sun-up to 3–4 p.m.
+  with no relocation.
+- **Technique signature:** mostly live bait, sardine or mackerel,
+  [flylined](../techniques/flyline.md) away from the boat with little jig
+  activity — long drifts, long soaks, bait cast anywhere from **50 yards to
+  a couple hundred yards** off the boat; "you might not even see a lot of
+  fishing."
+- **Visible sign:** occasional, scattered boils here and there rather than a
+  visible school or a foaming corner.
+- **Score implication — don't discount the report:** a day that *feels* slow
+  in the moment can still add up to a full limit by the tally count at day's
+  end. Read "plunker style" as steady-and-cumulative, not as a slow/bad-day
+  signal to discount the way a report with no numbers gets discounted below.
+
 ## Source-language discipline
 
 Normalize what a report actually says before you weight it:
@@ -81,10 +104,10 @@ Fold the output of this note back into the
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [June–July](../seasonal/june-july.md)
-- [Moon](../conditions/moon.md)
+- [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
-- [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
+- [Water Color](../conditions/water-color.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -3,6 +3,8 @@ type: species
 tags: [barracuda, nearshore, pelagic, kelp-line, mixed-bag, surface-iron, baja]
 sources: [DnSqw4r7A1s, Blh2BA-7Ono, S2L3KLSQ6Is, 6-8KfjEg0x8, lm7D9Tlc7Po, qri15R3caYE, CKq0Z6ExVs4, oadK6zIYyCo]
 confidence: medium
+regions: [socal-bight, baja-pacific-north]
+waters: [nearshore-coast, island]
 ---
 
 # California Barracuda
@@ -103,25 +105,14 @@ dedicated program.
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
-- [Bass Structure](../locations/bass-structure.md)
-- [Bird Reading](../conditions/bird-reading.md)
-- [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Flyline](../techniques/flyline.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](../lures/iron-jigs.md)
-- [June–July](../seasonal/june-july.md)
-- [May](../seasonal/may.md)
 - [Pacific Bonito](bonito.md)
-- [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

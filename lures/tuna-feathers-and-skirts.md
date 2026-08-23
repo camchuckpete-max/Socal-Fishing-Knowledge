@@ -1,8 +1,10 @@
 ---
 type: lure
 tags: [tuna-feather, skirt, williamson, jaw-lures, tuna, trolling, offshore]
-sources: [cameron, CWVPLM6NheY]
+sources: [cameron, CWVPLM6NheY, 9JnIS8HkZlA, ouBrIdO7d4k, SCQnyVEQfHY]
 confidence: medium
+regions: [socal-bight]
+waters: [open-ocean, bank]
 ---
 
 # Tuna Feathers and Skirts
@@ -60,6 +62,96 @@ head down onto the swivel and set the **bend of the hook roughly even with the
 end of the skirt** so the skirt doesn't foul the point. Finish the other end of
 the leader with the same knot.
 
+## A trolled current/cold-sniper-class lure (Steve Carson, Penn)
+
+Steve Carson (Penn), San Diego Rod and Reel Club talk, `9JnIS8HkZlA`,
+2023-11-14; unregistered channel/speaker, single mention — medium
+confidence. His favorite trolled bluefin lure, fished on his **50 lb**
+outfit (see [bluefin rig ladder by grade](../tackle/bluefin-rig-ladder-by-grade.md)):
+a Williamson-brand lure he places in the same class other anglers call
+**"cold snipers" / "current snipers"** — the exact model name is not
+confidently resolved from the captions (heard as "gan"/"goam"; flagged
+**asr-uncertain**). It plausibly overlaps with the **Williamson Live Series
+soft bait** already logged above — both are Williamson-brand trolled soft
+baits fished for tuna — but that identity is **not confirmed** by this
+source, so it is logged as a separate attributed entry rather than merged.
+
+- **Bait-insert mechanism:** the lure takes a small bait insert — he
+  specifically names **small dried sardines** — which is what "makes the
+  fish," per his own aside that he'd only recently been told the lure needed
+  it.
+- **Worldwide stock rigging vs. SoCal grade:** lures in this class are
+  fished worldwide across roughly **100 species from about 5 to 25 lb**, and
+  the stock hooks they ship with are adequate for that grade — but
+  undersized for SoCal bluefin. He upgrades to the **next hook size up** and
+  a **heavier wire gauge** (his own example: an **Owner ST-66**) for the
+  bigger fish this KB's bluefin grade produces.
+- **Treble over single/other hook styles (attributed preference, all brands
+  in this class including this one):** he tried multiple hook styles and
+  some hold slightly better than trebles, but **trebles draw enough more
+  bites** that the trade-off nets more fish landed over a day — "you're
+  going to lose a few, but you get so many more bites you end up with more
+  fish on the day."
+- **Leader — direct-tie or a short 100 lb fluoro bite guard:** because the
+  fish "suck them all the way down" and a circle hook can't be used with
+  this style of lure, bite-through risk sits on whatever line is nearest the
+  hook. Depending on expected grade, tie the lure **direct to 50 lb test**,
+  or — his own build, and his choice when a **~125 lb-class** fish is
+  possible — run a short piece of **100 lb fluorocarbon** ahead of the lure
+  to protect the mainline. Distinct application from the crimped bite-leader
+  system in [bite leaders](../rigging/bite-leaders.md) (that note covers
+  knife-jig terminal tackle, not a trolled lure).
+
+## A finesse trolling lure for porpoise-associated tuna (Dana Point origin)
+
+**Observed** (SD Fish and Sips, `ouBrIdO7d4k`, "Pacific Coast Sportfishing Show
+2025," 2025-03-08 upload, booth interview at the 2025 OC Fairgrounds trade
+show — a SoCal charter captain, not confidently named (see the full account
+in [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling));
+unregistered channel/speaker, single mention — medium confidence; region:
+socal-bight):
+
+A small, finesse-profile trolling lure built for working dolphin/porpoise
+pods for yellowfin, developed from a **King Buster**-style small trolling
+lure fished around Dana Point roughly a decade-plus prior (mid-2010s, per the
+source) — that original run used cheap stock King Busters, which have a
+plastic head and can pop out of the water at trolling speed.
+
+- **Head — re-built in tungsten.** Swaps the King Buster's stock plastic head
+  for a **tungsten 1/2 oz head** specifically to keep the small lure running
+  true/submerged at speed, rather than skipping out.
+- **Hook — small Yamashita stainless double.** Rigged with a small
+  **Yamashita** stainless steel double hook, not a single.
+- **Leader / running specs.** Trolled **straight to 60 or 80 lb** leader, at
+  **7–9 mph.**
+- **Application.** Trolled specifically around dolphin/porpoise schools —
+  see [trolling — backside of Catalina](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling)
+  for the full approach method (stay out in front of the pod, never troll
+  through it) and the **60–70 lb** yellowfin result cited on camera.
+- **Also named as a Hawaii skipjack staple** (out-of-region contrast, not
+  SoCal doctrine): the same small-profile trolled-feather approach was
+  volunteered on camera as a standard Hawaii method for skipjack.
+
+## A "test of time" molded-head feather — the Zuker Zucchini (SearcherSportfishing, "Tackle Tip Thursday Vol. 100 (Test of Time)," `SCQnyVEQfHY`, 2020-05-21; `searcher-sportfishing` registered channel — product/model pick, `low` confidence per the channel's registry sponsored-claim caveat)
+
+Framed on camera as one of three items in the SoCal offshore fishery that
+"passed the test of time" — still fished as of the 2020 upload, unchanged,
+at least **40 years** after it first came on the market (predates
+roughly **1980**; no relative time carried). Credited to **John Zuker**, who
+originated a **plastic molded trolling-feather head** distinct from the
+Williamson/JAW families already logged above.
+
+- **"Zuker Zucchini"** — the named pattern, trolled **for tuna on 80 lb
+  test**. Trolling depth/setback and speed are not given on camera.
+- **A second color shown alongside it: black and purple with a gold head**
+  — not confirmed as a second "Zucchini" colorway versus a separate named
+  Zuker pattern; both are described together as having been "the new latest
+  and greatest trolling thing for albacore and yellowfin tuna" when they
+  came out.
+- No rigging, leader length, or running-depth detail is given beyond the
+  80 lb line-class figure; treat as a historical/durability data point
+  (a "still works" claim), not a full running spec, until corroborated.
+
 ## Owned examples
 
 Profiles link the subset an angler owns. Cameron's rigged Williamson Tuna
@@ -71,10 +163,9 @@ dual-skirts (kept unopened) are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Mad Mac](mad-mac.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trolling](../techniques/trolling.md)

@@ -1,8 +1,10 @@
 ---
 type: technique
-tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja]
-sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik]
+tags: [yo-yo, iron, vertical-jig, yellowtail, bluefin, jig-stick, cabrilla, baja, coltsniper]
+sources: [HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, LTCFjqtSI8g, cameron, VpW91AKOFVQ, wzI0lpgKT1U, ntQXxcH5sjI, BvT560Nblqo, Qa-j6LIwa1Q, XwwIvPFxRiQ, 3yK3JYrKoZY, ecJPMTCi-gw, A8SuzB5qiKE, ILBl12Jm7-0, u0scEBby7nA, 6kpWn2sXokI, SH7zOA9ZF3o, JaKSGkZ6CAc, ilINTeknKB4, 3tQ1_xiqwVU, EmZO8QiOfik, Ob45hK4HSWc, HTowqnwAMeA, UP_3fBu7VPA, 5pbA-wXoric, 7Ljt-DeFVcs, ETw_3AFxEcM, RNRFrfepiW0, hteLeDIy9Qs, SAltQjih0ms, 6Z6Dht20kTA, HQC-NwW4018, S0-BCQWA0H4, SH5CZQi9ATw]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [island, bank, nearshore-coast]
 ---
 
 # Yo-Yo Iron
@@ -39,10 +41,57 @@ the reverse map in **Linked from** below.
 - Position up-current of the mark so the drop sweeps down onto the structure.
 - **Free-spool the iron straight to the mark** (or to the bottom), thumbing the
   spool so it falls under light tension and tracks straight down rather than
-  scoping away from the boat.
+  [scoping](../conditions/current-diagnostics.md#line-scope--reading-and-correcting-drift-off-vertical)
+  away from the boat.
 - The retrieve is one thing: **wind as fast as you can, all the way up.** The
   strike is a reaction to the fleeing iron — there's no finesse cadence, the
   speed is the trigger. If nothing hits, drop back to the mark and rip it again.
+- **Grip and crank-speed framing, a base-case rig (Steve Carson,
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 219 (Yo-Yo Methods and
+  Tackle for Yellowtail)," `RNRFrfepiW0`, 2023-04-27; searcher-sportfishing
+  registered channel, mechanism — high confidence, consistent with this
+  note's other repeated Steve Carson/SearcherSportfishing entries):** tuck
+  the rod **under the left armpit** once the jig hits bottom and the reel is
+  put in gear, then crank back as fast as possible — his framing is that
+  **you cannot crank the jig too fast, but it's easy to crank it too
+  slow.** Filmed alongside a stated "standard" rig for average **12–30 lb**
+  yellowtail near an island or bank in **120–180 ft**: a two-speed **Penn
+  Fathom 30** lever-drag reel filled most of the way with **65 lb braid**
+  and a **50-yard, 40–50 lb monofilament top shot** (stated reasons: the
+  mono gives stretch, and helps when a hooked fish tangles with a
+  neighboring angler's line), an **8 ft, 30–60 lb-rated** all-around rod (no
+  specialty rod needed), a **treble hook**, and his stated go-to jig, a
+  **Tady 4/0** — named as his top yo-yo producer "year in year out" over the
+  six to seven years before this 2023 upload (product/model pick — low
+  confidence per this channel's registry sponsored-claim caveat, though it
+  corroborates, not adds to, the Tady 4/0 doctrine already logged throughout
+  this note). Colors named: **scrambled egg**, **blue and white**, and **red
+  crab** specifically "when there's crabs around" — the red-crab color pick
+  corroborates, with a named pattern, the red-crab-year color-matching
+  doctrine already logged in the PCS Show panel entry below.
+- **On the bite, don't set the hook — keep cranking through it** (Steve Carson,
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 39," `5pbA-wXoric`, filmed at
+  the Fred Hall Show, 2019-03-14; unregistered channel/speaker — medium
+  confidence): the instruction is to stay on the grind rather than break stride
+  to strike, letting the continuous full-speed wind itself drive the hookset —
+  consistent with, and a specific rule for, the "speed is the trigger" doctrine
+  above. Same source's stated reasoning for going up in line class: **40 lb
+  works, 50 lb is better, 60 lb better still, "because the fish don't
+  care"** — they'll eat the jig regardless of line diameter, so there's no
+  bite-rate cost to fishing as heavy as you can still crank fast and control
+  the fish; consistent with, not new beyond, this note's other 40–60 lb
+  line-class data points, and echoed five years later, same core minimum, by
+  the same speaker's PCS Show panel appearance below (`UP_3fBu7VPA`,
+  2024-03-20 — 40 lb minimum, 50–60 lb preferred). Gear shown on camera: a
+  fast conventional reel (captions render "Pen 2014 arrows"/"pen fathom
+  fourteen arrow reel" — read as a **Penn Fathom-series** reel, exact model
+  not confirmed, asr-uncertain, plausibly the same Fathom-class pick as the
+  2024 panel appearance though the two captions don't decode to a matching
+  model number) paired with a jig captioned "d4 Oh jig" (asr-uncertain — not
+  confirmed as a named model; possibly a Tady, given this note's other
+  Tady-caption corruptions, but not carried as a confirmed pick) fished in
+  **blue and white** or **scrambled egg** — both already this note's
+  traditional yellowtail colors.
 - A heavy iron is mandatory so it **gets to the zone and stays vertical** in
   current; too light and it never reaches the fish or blows out sideways.
 - **Observed** (StokedOnFishing, 2024-08-29, Tanner Bank, SoCal —
@@ -137,6 +186,23 @@ the reverse map in **Linked from** below.
   at **30–40 fathoms**; see
   [yellowtail](../species/yellowtail.md#where--when) for the full session
   detail, including the dropper-loop line-class parameter this trip adds.
+- **Cast it out for a ~45° line angle rather than fishing it vertical (Nate
+  Winnicki, BDOutdoors, `HTowqnwAMeA`, SoCal local coast; `nate-winnicki` is a
+  registered voice, first commit of this claim — medium):** for yellowtail
+  specifically, he casts the jig out (or flips it away from the boat) so the
+  line sits at roughly **45°** on the wind-back, rather than working it
+  straight up and down. His stated reasoning is that the **diagonal path makes
+  the jig behave more naturally** than a purely vertical one, and his stated
+  evidence is his own bite ratio improving after he switched. He is explicit
+  that **he has seen fish caught both ways**, so this is recorded as a
+  preference with a mechanism, not as a correction to the vertical doctrine —
+  it sits beside the straight-up-and-down cadences above, and beside the
+  cabrilla cast-and-burn below, which arrives at a similar geometry from a
+  different fishery.
+- **Colours he reaches for (same source; model/colour picks at `low` per the
+  sponsored-claim rule):** **blue and white, all red, and scrambled egg** are
+  named as the three he looks at most for yellowtail. Consistent with the
+  colour range already listed in [iron jigs](../lures/iron-jigs.md).
 - **Cabrilla variant is a cast-and-burn, not a bottom hop (Baja, Sea of
   Cortez; Cesar, EmZO8QiOfik, 2025-03-04; registered voice, mechanism —
   single mention, medium confidence pending repetition):** cast out, let the
@@ -155,8 +221,7 @@ the reverse map in **Linked from** below.
   them) instead of the standard heavy class; his year-round confidence yo-yo
   pick otherwise is a **Tady 4/0** ("never fails"), backed by a **Kicker 25
   (heavy)** and steel-finish irons for the standard heavy-forage case (Ray
-  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; medium confidence, unregistered
-  channel). Mirrors the anchovy/"rice"-bait downsize logic already documented
+  Sharifi, Dirty Hookers, WE643Fue1_A, 2022-09; `ray-sharifi` registered (Baja-scoped) — medium confidence). Mirrors the anchovy/"rice"-bait downsize logic already documented
   for [surface iron](surface-iron.md) — match iron size to bait size, not just
   to current.
 - **SoCal downsize data point, no stated bait-size reason (Observed,
@@ -204,6 +269,32 @@ the reverse map in **Linked from** below.
   closed with the crew calling out surface iron, dropper loop, and yo-yo
   iron all producing at the same time — see
   [yellowtail](../species/yellowtail.md) for the full-session summary.
+- **Colt Sniper as a dual-mode lure — cast-and-swim or cast-and-yo-yo (Tackle
+  Express, "Colt Sniper or Yo-Yo Jig: Which one lands more fish?," `HQC-NwW4018`,
+  2026-05-12; unregistered channel, single mention — medium confidence):** the
+  angler fished a **Colt Sniper**-class dart jig more than dedicated yo-yo jigs
+  on this trip, giving the lure's versatility as the stated reason: it can be
+  fished two ways off the same cast — **cast, splash, and wind it** (a swim
+  retrieve) or **cast, splash, let it hit bottom, and fish it just like a
+  yo-yo jig** — consistent with, and a further data point for, the "working
+  water" cast-and-retrieve cadence documented above. No species, location, or
+  depth given. See also the [iron jigs](../lures/iron-jigs.md) and [dart
+  jig](dart-jig-tuna.md) notes, which document the Colt Sniper/dart-type jig
+  class for its usual daytime tuna finesse application; this source names a
+  different, non-tuna-specific use of the same lure class.
+- **Observed** (Tackle Express, `HQC-NwW4018`, 2026-05-12; unregistered
+  channel — medium confidence): on a slower first day of the same trip, bites
+  favored **smaller-profile** baits — the Colt Sniper and a **Salas 6X Jr.**
+  are both named as the smaller-profile picks that produced; no reason is
+  given for the size preference. **asr-uncertain:** the auto-captioned
+  sentence tying the two lures together ("They were more keyed in on the
+  Colt Sniper baits, your Salas 6X Jr., so your smaller profile") is garbled;
+  read here as both lures cited together as the smaller-profile options that
+  outproduced bigger profiles that day, not confirmed further. Corroborates,
+  without adding a mechanism, the profile-selection doctrine already logged
+  in [iron jigs](../lures/iron-jigs.md#reading-a-jig--how-to-pick-one-that-swims)
+  ("fish key on a profile depending on what they're eating and where they
+  are").
 
 ## Gear-class detail
 
@@ -212,6 +303,11 @@ the reverse map in **Linked from** below.
   (Phoenix Axis class) also works for casting-then-yo-yoing the same iron.
 - **Reel:** high-torque conventional wound tight; the appeal of yo-yo is a hard,
   fast retrieve, so a strong power grind matters more than top gear ratio.
+  A Tackle Express counter clip makes the same torque-over-speed case for a
+  baitcaster fishing both surface iron and yo-yo on big yellowtail — see
+  [baitcaster gear ratio for landing big
+  yellowtail](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
+  (pOFsjDTqaxY).
 - **Iron:** heavy [yo-yo iron class](../lures/iron-jigs.md) — a Salas 6X / Salas
   CP 105 type: drop to the mark, full-speed crank. Heavier than a surface iron
   because it must sink fast and hold vertical — **roughly 5–6 oz** against a
@@ -224,8 +320,40 @@ the reverse map in **Linked from** below.
   easier for them to take line fast enough on the wind-up — retrieve speed
   matters more than raw cranking power for a customer still learning the
   technique.
+- **A retrieve-rate spec behind that same doctrine (Logan Flattington,
+  SearcherSportfishing, "Tackle Tip Thursday Vol. 156 (Yo-yo Outfit for
+  Yellowtail)," `7Ljt-DeFVcs`, 2021-09-09; unregistered channel — medium
+  confidence):** a **Penn Torque 40** conventional paired with a **Phoenix
+  Black Diamond Hybrid rod, rated 40–100 lb**, picked for **yo-yo iron and
+  bottom fishing** specifically because, in his words, the technique "needs a
+  fast action reel that retrieves a lot of line at a time" — this reel is
+  named for a spec of **43 in of line per full handle rotation**. A concrete
+  number behind, not new beyond, the retrieve-speed-over-raw-power reasoning
+  above. Framed against yellowtail he described as running **20–35 lb**, with
+  fishing reported (as of the 2021-09-09 upload) **5–90 miles off the
+  coast**.
+- **Upsizing for bigger, meaner Baja yellowtail — a second rig tier, same
+  session (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 219," `RNRFrfepiW0`, 2023-04-27; searcher-sportfishing registered
+  channel, mechanism — high confidence; see [Mechanics](#mechanics) above
+  for this video's base-case 12–30 lb rig):** for bigger water and bigger
+  fish — his examples are **Alijos Rocks** (captioned "Ali host rocks"/
+  "Elio's rocks," read as Alijos Rocks per this note's and
+  [yellowtail](../species/yellowtail.md)'s existing Alijos Rocks entries)
+  and "the ridge," where he says the yellowtail run bigger and meaner and
+  there tend to be more rocks — he steps up to a two-speed **Penn Fathom
+  40 Narrow** reel, filled three-quarters with **80 lb braid** and a **60
+  lb monofilament top shot**, fished on a shorter, more powerful **30–80
+  lb-rated rod**. Jig pick for this tier: a jig captioned "Tady 14a"
+  (asr-uncertain — model number not confirmed against a known Tady catalog
+  entry; described on camera as **heavier and a longer profile** than the
+  base-case Tady 4/0, named as "the key to your big Baja yellowtail";
+  product/model pick — low confidence per this channel's registry
+  sponsored-claim caveat). Stated triggers for stepping up beyond just fish
+  size: **big fish, windy conditions, or difficulty getting the jig to the
+  bottom.**
 - **General rod/reel/iron parameters, one box (Ray Sharifi, Dirty Hookers,
-  A70kK2niu2Q, 2022-02-17; unregistered channel — medium confidence):** a
+  A70kK2niu2Q, 2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence):** a
   stout **7 ft, heavy-action rod rated 30–80 lb** (a Black Diamond example),
   general guidance **40–60 lb rated**, with enough tip left to wind through
   the bite; paired with a nice fast reel (a Shimano Trinidad 20A example) so
@@ -270,7 +398,7 @@ the reverse map in **Linked from** below.
   beyond, the dorado-colored jig already logged in the `XwwIvPFxRiQ` entry
   above and the 6X/7X size class already documented in this note.
 - **Updated build, about a year later (Ray Sharifi, Dirty Hookers,
-  LTCFjqtSI8g, 2023-03-29; unregistered channel — medium confidence):** same
+  LTCFjqtSI8g, 2023-03-29; `ray-sharifi` registered, SoCal-capped — medium confidence):** same
   **7 ft Black Diamond XH rod, rated 30–80 lb** (mid ≈50–60 lb), shown here
   paired with a **Shimano Torium 16HG** (he notes his usual pick is still the
   Trinidad 20A above), running **50–80 yards of monofilament** top shot
@@ -346,6 +474,152 @@ the reverse map in **Linked from** below.
   current made conditions poor there). Angler named on camera as Ray. No jig
   weight, color, or brand given.
 
+- **When the captain calls a school's depth over the PA with no bottom to
+  mark against, get the jig below it (Steve Carson, SearcherSportfishing,
+  "Tackle Tip Thursday Vol. 219," `RNRFrfepiW0`, 2023-04-27;
+  searcher-sportfishing registered channel, mechanism — high confidence):**
+  fishing a school suspended over deep water with no bottom reference, the
+  crew calls the school's depth on the PA (his examples: "down at 120
+  feet," or elsewhere the same session "down at 320 feet") — the rule is to
+  **get the jig down a little deeper than whatever depth is called, then
+  wind it up through the school**, keeping the crank at full speed the
+  whole way. An earlier, more specific version of the check-before-you-drop
+  framing in the PCS Show panel entry immediately below (same speaker,
+  filmed roughly a year later).
+- **Jig size by reported depth, ahead of the drop (Steve Carson panel, PCS
+  Show 2024, `UP_3fBu7VPA`, 2024-03-20; unregistered channel/speakers —
+  medium confidence):** yo-yo depth on an overnight/multi-day trip commonly
+  runs **120–240 ft**; check with the crew (in person or via social media)
+  on what depth and jig size is producing before the drop. Stated rule of
+  thumb — **150–250 ft: a full-size 6X-class iron**; shallower, or when
+  getting down fast matters less, **a smaller iron (6X Jr, or a Tady
+  40-class jig)**. Line: **40 lb minimum**, with the panel's own preference
+  running **50–60 lb** on a two-speed reel (a Penn Fathom 40-class reel
+  named as a good fit — high gear to wind the jig back fast, low gear to
+  help work a hooked fish out of structure). **Colors:** the panel sticks to
+  "the classics" — **scrambled egg, blue and white, mint** — consistent
+  with the traditional color range already logged above; **red-toned jigs**
+  were called out as producing specifically **during red crab years**,
+  matching forage color to the bait present rather than being a fixed
+  favorite.
+- **Readiness matters as much as jig choice (same source):** a school may
+  only hold under the boat for **5–10 seconds** during an otherwise long
+  search, so being rigged and ready to drop the instant the captain calls
+  fish — rather than fumbling gear once marks show up — was framed as one of
+  the more consequential, if unglamorous, factors in getting bit at all.
+- **The reasoning behind "the classics" — colour by forage, not a fixed
+  favorite (Steve Carson, SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 189 (Yoyos for Yellows)," `ETw_3AFxEcM`, 2022-07-14; unregistered
+  channel — medium confidence):** two years before the PCS Show panel above
+  named the same three-colour "classics" set with no stated mechanism, this
+  earlier tip from the same speaker gives the reasoning: **blue and white**
+  when yellowtail are eating **thin baits — anchovies, sardines**; **scrambled
+  egg** when they're eating **invertebrates — squid or crabs**. **Mint** is
+  named as a third go-to with explicitly **no forage reason given** — "nothing
+  down there is really this color... for whatever reason they like mint... why
+  ask why, just make sure you give it to them" — logged as a stated preference
+  without a mechanism, not invented doctrine, per this note's reasoning-vs-
+  observation rule. Consistent with, and the mechanism behind, the
+  match-color-to-forage framing already in [iron jigs](../lures/iron-jigs.md)
+  and the red-crab-year exception in the panel entry above. Same tip names a
+  **Tady 4/0** as his favorite yo-yo jig for yellowtail **"whether you're in
+  close to San Diego or almost all the way down to Cabo San Lucas"** —
+  corroborating, from the human-typed title source itself, the Tady 4/0 picks
+  already logged in this note and in [iron jigs](../lures/iron-jigs.md).
+  **Same rig detail, an earlier data point than the panel's (same speaker):**
+  a **Penn Fathom 40 Narrow**, two-speed, on a **7–7.5/8 ft rod** rated
+  **30–60, 30–80, or as heavy as 40–100**, with **50–60 lb test top shot over
+  80 lb braid** — kept side by side with, not reconciled to, this same rig's
+  **80 lb mono top shot** as later specified on the same channel (see
+  [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)),
+  since the two tips give a different top-shot line class for what is
+  otherwise the same reel/rod build, two years apart. **Same "don't set the
+  hook" doctrine, a second citation (same speaker, three years after the
+  Fred Hall Show clip already logged above):** "don't set the hook like a TV
+  fisherman — just keep grinding... that fish is stronger than you and if you
+  just keep winding, he's going to set the hook himself," corroborating, not
+  new beyond, the keep-cranking-through-the-bite doctrine already logged
+  above from `5pbA-wXoric`. Separately, this tip frames yo-yo fishing as
+  **"probably the number one way yellowtail are caught on the Searcher and
+  just about every San Diego boat,"** on trips of any length — an attributed
+  claim about the technique's overall importance to the SoCal/Baja long-range
+  fleet, not a situational trigger.
+- **Three jig sizes by depth band, plus a stretch-buffer leader reason (Fred,
+  Secret Fishing Rods, via SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 121 (Yo-yo Fishing)," `hteLeDIy9Qs`, 2020-10-15; `searcher-sportfishing`
+  registered channel, mechanism/parameter — first commit of these specific
+  claims, medium confidence pending repetition):** filmed around the
+  Searcher's annual sponsored seven-day trip, which always dedicates part of
+  the itinerary to yo-yo iron. His stated go-to is a **50 lb, short, fairly
+  stout rod**, rated **40, 50, or 60 lb** — consistent with, not new beyond,
+  this note's other 40–60 lb yo-yo rod-class data points. **Leader build, a
+  distinct mechanism from this note's other mono-for-stretch citations
+  above:** run a short piece of mono between the braided (spectra) main line
+  and a short fluorocarbon leader for stretch — his stated reason is that
+  going **straight from spectra to a short fluoro leader with no buffer
+  bends hooks and pulls a lot of hooks**; the mono cushion is there
+  specifically to stop that failure mode, not just for general stretch or
+  tangle avoidance as in the top-shot citations above. **Same "don't set the
+  hook" doctrine, a further citation:** free-spool to the bottom, grind as
+  fast as possible, and on the bite keep turning the handle rather than
+  striking — get the rod on the rail and keep cranking. **Jig size by depth,
+  three tiers:**
+  - **Shallow — 60, 80, or 100 ft:** a smaller jig, captioned "Stylus 6X
+    Junior" (ASR-uncertain — not a confirmed model name; plausibly the
+    **Salas 6X Jr.** already established in this note as the small-jig pick,
+    but not carried here as a confirmed model).
+  - **120–150 ft:** captioned "Salis regular 6X," read as the **Salas 6X**,
+    roughly **5–6 oz** — corroborating this note's existing Salas 6X
+    weight/depth-band data (Scotty, `VpW91AKOFVQ`, above).
+  - **Real deep — his named examples: Colonet, "the ridge," Alejos (read as
+    **Alijos Rocks**), and Guadalupe:** a **7X heavy** — "big and it's
+    heavy" — corroborating the **Salas 7X Heavy** pick already logged above
+    (`LTCFjqtSI8g`). Stated reasoning for sizing up in the deepest water:
+    more time spent in the strike zone on the straight up-and-down improves
+    the odds of hanging a yellowtail.
+
+- **Half-depth wind, then re-drop — an arm-saving cadence, plus the reason it
+  also avoids rockfish (SearcherSportfishing, "Tackle Talk Live Recap
+  (Yellowtail 5/19/20)," `SAltQjih0ms`, 2020-05-20; `searcher-sportfishing`
+  registered channel, mechanism — high confidence):** free-spool to the
+  bottom, put the reel in gear, and crank as fast as possible **only about
+  halfway back up** — his worked example: in **120–150 ft** of water, wind up
+  **60–70 ft** off the bottom — then go back to free spool and let the iron
+  sink to the bottom again before repeating. Stated reasoning is twofold: it
+  **saves the angler's arm** over a full-depth wind every drop, and it keeps
+  the iron working the band **close to the bottom where the fish are
+  actually holding**, rather than spending the whole retrieve above them. A
+  further cadence variant, kept side by side with this note's other
+  crank-then-drop cycles above (Hansen's fixed crank-counts, the two-partial-
+  cranks-then-full-wind cadence, etc.) rather than reconciled to one count.
+  **Do not work the iron with short hops right at the bottom** — the same
+  source calls this out by name as the wrong motion for yo-yoing (distinct
+  from the halfway-wind-and-redrop cadence just described): bouncing the jig
+  in place near the bottom is what draws **rockfish** instead of yellowtail.
+
+- **A base recreational build, direct-tied, no fluorocarbon (SearcherSportfishing,
+  "Tackle Talk Live Recap (Yellowtail 5/19/20)," `SAltQjih0ms`, 2020-05-20;
+  `searcher-sportfishing` registered channel, mechanism/parameters — high
+  confidence):** a **two-speed conventional** reel spooled with **80 lb
+  braid** to a **40–60 lb monofilament** top shot — **no fluorocarbon** —
+  with the iron tied straight to the end of the top shot on a [San Diego jam
+  knot](../rigging/san-diego-jam-knot.md); paired with a **7 ft** rod,
+  stiffer-tipped than a flyline stick, on a live-bait reel. Iron color:
+  **scrambled egg** (blue/white) — named on camera as the "universal color
+  for yo-yo fishing for yellowtail," whether fished on paddies, structure,
+  anchored or drifting, or worked to a school marked on the sounder.
+  **Gear-ratio timing (same source):** run **high gear** while
+  searching/retrieving with no bite, for the fastest possible wind-up; shift
+  to **low gear** only after the fish is hooked and settled into the fight —
+  consistent with, not new beyond, this note's other high-speed-retrieve/
+  low-gear-fight framing. (Named models on this video — **Accurate Boss
+  series** two-speed reel, **Seeker-series** rod, **Salas 6X**/6X Jr iron —
+  are product/model mentions; this video's own closing credits thank Seeker
+  rods, Accurate products, and Owner hooks by name as sponsors, so per the
+  `searcher-sportfishing` sponsored-claim caveat in the source registry those
+  model picks stay **low** confidence, not carried at the high confidence
+  the mechanism/parameters above earn.)
+
 ## Common failures
 
 - **Iron too light for the current** — never reaches the mark, or planes off to
@@ -358,25 +632,111 @@ the reverse map in **Linked from** below.
   2024-08-29; medium confidence, unregistered channel):** the constant lift-
   reel-drop cycle is demanding on the arms and shoulders over a long session,
   and the rapid, aggressive action can spook more cautious fish.
+- **Under-sizing the jig for the conditions, and paying for it in free-spool
+  time.** The stated sizing rule (Nate Winnicki, BDOutdoors, `HTowqnwAMeA`;
+  registered voice, first commit — medium): **light current and nice weather →
+  small jig; wind or strong current → upsize.** The mechanism given is a time
+  budget rather than an action argument — *"you don't want to spend the
+  majority of your time in free spool waiting for your lure to hit bottom when
+  you could be actively working up and down in a zone."* A jig too light for
+  the conditions doesn't just fish badly, it costs you most of your working
+  time. Consistent with, and a different reason for, the "iron too light for
+  the current" entry above.
+- **Continuous jigging inside a marked school can spook and disperse it
+  (Tackle Express, `6Z6Dht20kTA`, 2026-03-24; unregistered channel — medium
+  confidence):** no species, location, or depth given — a general rule stated
+  for jig fishing a marked school. Working the jig with an active,
+  continuous jigging motion once it's down inside the school is called out
+  as the worst thing to do with it: some fish in the school won't bite while
+  it's being worked that way, and the aggressive motion scares fish off,
+  with the rest of the school moving off after the ones that spook — not
+  just a missed bite, but the whole school reacting. Stated fix: let the jig
+  reach the bottom and **bounce** it there rather than actively jigging it
+  through the school, or **burn it up** on a fast continuous retrieve instead
+  — a fish may chase the jig down on the bottom bounce, or chase it up on the
+  burn. A further, unattributed-to-species instance of this note's
+  don't-overwork-it-in-place theme — consistent with, not new beyond, the
+  "don't work the iron with short hops right at the bottom" entry above
+  (rockfish-vs-yellowtail reasoning there; a school-spooking reasoning here)
+  and the "physical toll, and can spook cautious fish" entry above.
+  **The same rule, an earlier and more specific cut from the same channel
+  (Tackle Express, `S0-BCQWA0H4`, "Stop JIGGING Suspended Fish! Pro Blade
+  Bait Secret Revealed," 2026-03-14, ten days before the `6Z6Dht20kTA` clip
+  above; unregistered channel, same-channel re-statement — not independent
+  confirmation, medium confidence):** framed for a school picked up on
+  **up-and-down or forward-facing sonar** — mark the school, then thumb the
+  spool and **drop as fast as possible** to get down into the column where
+  the fish are showing, whether that's near the surface or on the bottom.
+  Mechanics for working through the mark: go **through** the school on the
+  drop and **down to the bottom** first, then either **rip it up** or
+  **reel very fast, like a yo-yo,** back up through the column, and let it
+  fall back to the bottom again to repeat. Stated worst-case, same wording
+  as the later clip: stopping the bait inside the school and jigging it in
+  place — "some of those fish will not want to bite that bait when you're
+  doing that."
+- **The reasoning behind "rip it up"/"burn it" — stirring a dormant, stacked
+  mark into a chasing school (Tackle Express, `SH5CZQi9ATw`, "Turn Slow Days
+  into Limit Days: The Secret to Firing Up Dormant Fish!," 2026-03-23;
+  unregistered channel — medium confidence):** gives the stated mechanism
+  behind the burn/rip-it-up fix in the entry directly above. A heavy mark
+  held at the thermocline **may not be a true school at all** — it can just
+  be **where the fish are stacked/holding**, not a cohesive moving group;
+  this mark type is called out as one seen "quite a bit" on sonar, contrasted
+  on camera with a genuine school shape. Stated technique: **cast the bait
+  and rip it through** the mark; watched back on the sounder, the stirred
+  fish start moving around, and that activity itself **fires the dormant
+  fish up into chasing** the lure — framed as the way to turn a slow day into
+  a limit day. Two practical add-ons, no species/location/depth given: put
+  **two or three anglers on the boat working the same retrieve at once** to
+  multiply the stirring effect, and **keep the lures in the water** rather
+  than pulling up between drops. Corroborates, with the underlying
+  trigger mechanism, the "burn it up" fix in the entry immediately above —
+  same channel, consistent with, not a correction to, the
+  don't-jig-it-in-place doctrine there.
+- **A bycatch species owning the column, and the jig never reaching the
+  target.** A yellowtail day planned around yo-yo iron and surface iron was
+  abandoned to bonito: *"we tried yo-yo fishing, didn't go well — a lot of
+  bonitos."* The fix was **not** a different iron, it was to stop fishing
+  metal — **dead sardines** got the yellowtail going, and the crew finished
+  hand-lining them once the bite went wide open (Jared Saaib, Strictly Irons,
+  `Ob45hK4HSWc`, 2019-02-07; registered, single session — medium). Worth naming because the reflex
+  when a yo-yo goes untouched is to change jig weight or speed, and neither
+  addresses an interception problem. The fish in question were sitting on
+  **tuna pens, straight down at about 120 ft** — see
+  [yellowtail](../species/yellowtail.md) for the tuna-pen row, including the
+  unresolved question of *which* pens.
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
-- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
+- [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Dropper Loop](dropper-loop.md)
+- [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](../tackle/searcher-50-60-80lb-flyline-outfit.md)
+- [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
+- [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Surface Iron](surface-iron.md)
+- [Surface Iron — Colour](surface-iron-color.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
+- [Tube-Bait Fishing](tube-bait-fishing.md)
+- [Wahoo](../species/wahoo.md)
+- [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

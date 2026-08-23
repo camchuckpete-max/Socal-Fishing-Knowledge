@@ -1,8 +1,10 @@
 ---
 type: technique
-tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass]
-sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE]
+tags: [swimbaits, calico, sand-bass, weedless, kelp, double-rig, umbrella-rig, a-rig, spotted-bay-bass, white-seabass, dropper-loop, drift-boat]
+sources: [YIABTTYXeqc, n6PTy8g3pb0, 9br4Z4sfcNI, G6YRT4HNxr8, KTsXdQXAnkU, 6-mi3Qxn37c, 9xNhdu2aBqE, _r_qKX_7080, L3tkGVu516A, IATPg9110CE, PKf7G3uL4io, iQLyBzhOSi8, P6Slg6RQiXw, tJFSV3AcIdE, RUuPNpK0x-s, ZoIzpyyS9xw, lP6cg4eEU6s, r9bF3VtzDUg, 9a-Zy_D6c3w, OURS05qEGcA, X-itrm5QkcM, hjZ3hgq0Bzg]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [bay-harbor, nearshore-coast, island]
 ---
 
 # Swimbaits
@@ -23,6 +25,42 @@ retrieve, and the boat work.
 - You are **covering water** to locate biting fish along a bed edge rather than
   picking apart one spot — read the current and structure with
   [current structure](../conditions/current-structure.md).
+- **Anchored in the surf or a bay mouth, working current:** cast a weedless
+  slug/plastic and let the surf or current sweep it in and back out on a
+  taut line off the anchor — draws bites from a mixed bag (calico, sand bass,
+  halibut, small sea bass) in surf grass and junk that would foul a
+  non-weedless rig (n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium
+  confidence).
+
+## Why plastic over live bait (Jimmy Decker, Decker's Guide Service)
+
+Jimmy Decker (n6yun panel, part 1, `ZoIzpyyS9xw`, 2013-03-09; unregistered —
+medium confidence) runs an almost entirely bait-free charter boat and states
+the reasons on camera, not just the preference:
+
+- **The stated trick is fooling a predator into biting something not
+  alive** — "there's a place for live bait fishing, and that's on the party
+  boat," but for his own clients he leans on plastics because he believes he
+  can **out-fish a bait angler standing right next to him** with a swimbait
+  rod when the fish are on the bite.
+- **A piece of bait pinned onto a swimbait hook kills the bait's action** —
+  the stated mechanical reason to leave the hook bare rather than "tip" a
+  plastic with cut squid or sardine.
+- **Practical/cleanliness reasons, stated alongside the fishing reason:** live
+  bait on the boat means squid smell that attracts flies and sardine scales
+  that end up everywhere his clients touch. He carries **no bait**, except
+  when running a father-son or grandfather-grandson trip with young kids
+  (roughly 6–9 years old) — for that trip only, he'll anchor on the leading
+  edge of a kelp bed, break out spinning rods, and fish anchovies to keep the
+  action steady for beginners.
+
+**Observed** (n6yun panel, 2013-03-09, unnamed SoCal island — speaker "Jack,"
+surname uncertain in ASR, flagged `asr-uncertain`): a contrasting account, kept
+side by side rather than reconciled — a client kept re-pinning cut squid
+despite Jack's preference against it, and the boat drew a heavy bite on it at
+that spot that day. No stated reason beyond "it worked there" — an
+observation, not a competing doctrine, and not generalized past that one
+session.
 
 ## Weedless rigging (Erik Landesfeind)
 
@@ -56,6 +94,16 @@ called out on camera as running clean through "the thick of the heel
 [kelp] grass" with no fouling at all — matching the Gamakatsu/Trokar
 3/8 oz keel-weighted-hook spec above. Unregistered channel — medium
 confidence.
+
+**Long-range-trip build, a heavier alternate (Doug Kearn, SearcherSportfishing,
+"Tackle Tip Thursday Vol. 170," `r9bF3VtzDUg`, 2022-02-24; `searcher-sportfishing`
+registered channel, single mention — medium confidence):** for calico worked
+from a long-range boat down the beach, a **7 ft 6 in to 8 ft 6 in rod** with a
+**level-wind (conventional) reel**, spooled with **spectra or monofilament**,
+throwing a **3/4 oz to 1½ oz leadhead** with a 4–8 in plastic — a heavier
+weight ceiling than the 3/8–3/4 oz keel-weighted range documented above; kept
+side by side, not reconciled, since the source gives no reason for the extra
+weight (likely just casting distance off a bigger boat, not stated on camera).
 
 ## Line, leader, and reel speed (Capt. Benny Florentino)
 
@@ -198,6 +246,9 @@ than merged in:
   weedless is a **short, pinpoint cast** to the stringers you can see.
 - **Lead-head swimbait deeper:** sink the same class of bait **70 to 80 feet down
   for calicos** over structure — fish holding up and feeding will rise to meet it.
+  For California halibut, a distinct count-and-pause retrieve for the same
+  lead-head/swimbait combination is documented separately in
+  [leadhead swimbait retrieve](leadhead-swimbait-retrieve.md).
 - **Pitch-and-sink at the kelp base:** pitch a **1 oz black/gold jig** (a leadhead
   the source calls a "hook up bait" — brand name not confirmed) right at the base
   of the kelp line and **let it sink straight to the bottom**; the bite typically
@@ -206,6 +257,81 @@ than merged in:
   second data point rather than reconciled (Dave Hansen, Your Saltwater Guide,
   `KTsXdQXAnkU`, 2019-06-05; registered voice, single mention — medium
   confidence).
+
+## Walking a weightless weedless slug ("reverse Sammy") — Corey Sandon, MC Swimbaits
+
+A distinct retrieve style for the weedless slug documented above, taught by
+Corey Sandon (MC Swimbaits) on a Fred Hall calico bass panel (n6yun,
+`RUuPNpK0x-s`, unregistered channel — medium confidence): rig the slug
+essentially **weightless** — only a small **3/8 to 1/2 oz** belly weight,
+just enough to keep the bait upright, not to get it down — so it fishes
+almost entirely in the **top 2 ft** of the water column, year-round,
+including in cold water.
+
+- **Retrieve:** short rod-tip twitches on a deliberate cadence make the slug
+  dart and dance side to side on the surface — described on camera as a
+  saltwater version of a freshwater walking-the-dog topwater ("a big reverse
+  Sammy"/Zara Spook action), a different retrieve style from the
+  skitter-and-1-2-3-pause presentation documented above, kept side by side
+  rather than merged. Getting the cadence right ("the real cadence") is
+  presented as a learned skill, not a fixed count.
+- **Why it works — the stated reason:** the erratic side-to-side action is
+  meant to **create the illusion of a wounded baitfish** thrown up against
+  the kelp canopy and struggling to get away — the same visual trigger
+  described for a live sardine getting mobbed and thrown up onto the canopy
+  while fly-lining.
+- **Tackle:** **50 or 60 lb fluorocarbon leader to 50 lb braid** — heavy,
+  because the bait is fished weedless "right in the junk" where the biggest
+  fish live.
+- **Year-round, not just warm-water doctrine:** a specific cold-water outing
+  was cited producing six calico bass and ten other bites in **55–56°F**
+  water — colder than the same angler's own stated typical target
+  temperature of **64°F** — offered on camera as evidence the presentation
+  is not a warm-water-only pattern.
+
+## Working the beach-side kelp edge (Jack, n6yun panel)
+
+A distinct casting angle for working a kelp bed that sits close to a beach,
+described by "Jack" on the same Fred Hall Show panel as the reverse-Sammy
+retrieve above (n6yun, part 1, `ZoIzpyyS9xw`, 2013-03-09; unregistered,
+surname uncertain in the ASR — `asr-uncertain` — medium confidence). Stated
+as his preferred conditions: fishing **tight to the island**, where he can
+**cast over the top of the kelp toward the beach**, then swim the bait from
+the beach side back **over the canopy**, lifting the rod tip to walk it
+across the top. He reports **watching bass sitting in the kelp** as the bait
+crosses, and getting bit **the instant the bait drops off the outer edge and
+starts to sink** — the same up-current/leading-edge take-zone this note
+documents elsewhere, approached from the opposite (beach) side of the bed
+rather than casting from open water toward the edge. He runs **50 lb** line
+for this presentation (down from 65 lb, after finding 50 lb still casts well
+and doesn't hang up as easily) fishing a weedless bait based on a "warhead"
+head — with the wire weed guard removed by hand ("I take the wing guard off,
+but the way they got the eye on it, they will [still run clean]").
+
+## Beach bounce in ripping current — the "stupid tube" (Tackle Express)
+
+Tackle Express, `9a-Zy_D6c3w`, "Why the 'Stupid Tube' is a Calico Bass magnet,"
+2026-05-18; unregistered channel, single short interview clip — medium
+confidence. A distinct, no-kelp-mentioned beach presentation, kept side by
+side with rather than merged into the beach-side kelp-edge casting above
+(different structure, different retrieve):
+
+- A soft-plastic tube bait the angler nicknames the **"stupid tube."** No
+  dimensions, color, or brand given on camera; his only stated reason for the
+  name is that it works simply by staying in the water — "as long as they're
+  in the water, you have a good shot at catching a fish."
+- Fished **tight to the beach** on the third day of a multi-day trip (their
+  second full day of fishing that trip), with the **current ripping**.
+- **Weight: 1.5 oz** — described as enough to hold bottom contact while
+  working the rig in **free spool**.
+- **Retrieve: bounce it off the bottom.** Each bounce, the current swept the
+  bait **5 to 10 ft further** down-current before the next bounce, rather than
+  winding it back.
+- **Result:** "calicos every cast" that session.
+
+No leader, hook, or exact beach location given, and no structure (kelp, sand,
+rock) named beyond "tight to the beach" — record as a beach-current
+bottom-bounce data point rather than generalized doctrine.
 
 ## Flipping the kelp canopy (Observed, Aaron Martens & Benny Florentino)
 
@@ -274,6 +400,104 @@ matter more over **hard rock bottom**, which "echoes," than over **sand**,
 where "you get away with a little better." Unregistered channel — medium
 confidence.
 
+## Covering more water than the bait anglers (Tackle Express)
+
+Tackle Express, `X-itrm5QkcM`, "Why White Flukes Let You Fish Where Live
+Bait Can't," 2026-01-20; unregistered channel, single mention — medium
+confidence. Framed for a drifting boat working a sonar mark or a squid-nest
+area in the **Channel Islands** with [white seabass](../species/white-seabass.md)
+as the target, but the boat-position geometry is general to any drift-boat
+program where bait anglers are stacked on one rail fishing
+[dropper loop](dropper-loop.md).
+
+- **The bait rail's effective fishing area is a narrow swath.** Standard
+  doctrine puts bait anglers on the **wind-in-face side of the boat**; their
+  dropper loops effectively fish a **swath roughly 30–40 ft wide by the
+  length of the boat** (his worked example: 30–40 ft by 65 ft, with 10
+  anglers stacked on that rail).
+- **The remaining anglers cast flukes out to the flanks instead of
+  crowding the bait rail** — his example splits a 15-angler boat 10 bait /
+  5 fluke, with the fluke casters working **two casting arcs** off the sides
+  rather than the wind-face rail. As the boat drifts toward a flanking
+  angler and the cast distance shortens, that angler also stays clear of the
+  bait rail's lines.
+- **The stated reason to fish this way: total water covered, not confidence
+  in the lure over the bait.** The flanking flukes cover **more total water**
+  than the ten bait anglers do — statistically more likely to draw a bite if
+  the fish are willing to eat the lure, which his experience says is true in
+  most cases.
+- **Why both presentations can produce on the same drift — the fish "swim
+  through" rather than holding still:** for white seabass specifically, if
+  the fish swim through the bait rail's narrow swath, the dropper loops get
+  bit; if they instead pass through the flanks, the flukes find them. Read as
+  complementary coverage of the same drift rather than one method
+  out-fishing the other — see
+  [white seabass](../species/white-seabass.md#situations--techniques).
+- **A worked example with catch counts, and a halibut-specific extension**
+  (Tackle Express, w/ Shannon Gallagher, `hjZ3hgq0Bzg`, "Don't Fish White
+  Flukes Until You Watch This!," 2025-04-28; unregistered channel, single
+  mention — medium confidence). This video predates `X-itrm5QkcM` by about
+  nine months and uses the **identical worked example** (15-angler charter,
+  10 bait / 5 fluke, 30–40 ft-by-65 ft bait swath) — logged here as very
+  likely the same underlying account rather than independent corroboration,
+  per the re-cut/restated-footage rule, but it adds detail not present in the
+  `X-itrm5QkcM` citation above:
+  - **Catch counts on the charters that convinced him the fluke was worth
+    learning:** 10 anglers fishing dropper loop put roughly **10 fish** on
+    the boat (a limit day, by his framing); the 5 anglers fishing flukes
+    caught **15 fish** on the same drifts. His framing: that's not "5 more
+    fish," it's **roughly three times the per-angler effectiveness** (15
+    fish / 5 anglers vs. 10 fish / 10 anglers).
+  - **Halibut-specific extension of the same geometry:** for halibut, the
+    boat drifting toward the flanking fluke-caster's side means the fluke is
+    presented to the fish **before** the bait rail's rigs reach it. Stated
+    framing: an inactive halibut that will only eat an anchovy on a dropper
+    loop still gets caught by the bait anglers eventually, but a fish willing
+    to chase a lure gets covered first by whoever is "the first one in front
+    of it" — his stated reason to prefer the flank position specifically when
+    targeting a fish that will chase.
+
+## Scent (Corey Sandon, MC Swimbaits) and keeping your hands scent-neutral (Jack)
+
+n6yun panel, part 1, `ZoIzpyyS9xw`, 2013-03-09; both unregistered — medium
+confidence.
+
+- **When to reach for scent:** Corey Sandon says scent earns its keep
+  specifically on **bottom-oriented creature-style baits** when the bite is
+  tough — the stated mechanism is that scent makes a fish **hold on to the
+  bait a split second longer**, buying the time to get a hookset. He
+  considers it **less necessary on reaction baits** — surface/weedless
+  presentations and swimbaits worked with full-force strikes don't need the
+  extra hold time. Framed explicitly as a **confidence tool** — "if it gives
+  you confidence, why not use it, it couldn't hurt."
+- **Named local scent brands:** Ron Mueller / Edge Products hot sauce, and
+  Tommy Gomes' Uni Butter (San Diego) — called out as two that don't smell
+  "god awful" on the bait and don't draw wasps/flying insects the way some
+  other scents do.
+- **Application:** squeeze scent directly onto the bait, or **drop the bait
+  into a sealed baggie or Tupperware container** with scent already in it,
+  then reseal between casts — Corey describes mixing his own batch of "uni
+  sauce" (Uni Butter + hot sauce) this way.
+- **Deck hazard:** hot sauce scent spilled or dripped on a fiberglass deck or
+  rail is described as **very slick** — a stated safety/mess concern, not
+  just a cleanliness one.
+- **The flip side — dirty hands are a scent detractor (Jack):** gas, oil, and
+  dirty boat-line residue on an angler's hands, transferred onto a bait or
+  lure, is stated to **shut the fish off fast**. Jack's stated fix: carry a
+  bar of soap or a squirt bottle and **wash hands before starting to fish**,
+  every time.
+- **A stated change of practice, corroborating the confidence-tool framing
+  above (Jeremy — first name only, as addressed in the transcript's Q&A;
+  Sav-On Tackle/IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06;
+  unregistered channel — medium confidence):** after previously not
+  prioritizing scent, he now scents baits as a standard part of his game
+  plan, crediting the change (without claiming to know the mechanism — "I
+  can't tell you what's in it, works, I can't tell you why it works") with
+  his personal-best calico bass. He favors a garlic-scented spray for soft
+  plastics specifically; the exact product names in this seminar are too
+  garbled in the auto-captions to transcribe reliably and are omitted here
+  (`asr-uncertain`).
+
 ## Double swimbait rig (Nick, California Current)
 
 Run **two swimbaits off a three-way swivel** to pick up the **followers** that
@@ -305,8 +529,8 @@ Another multi-bait rig, a step up from the two-bait three-way above: a
 wire "spider" harness (a **Recon Baits**-style A-rig) carrying several small
 swim jigs at once. Roman Castro's example ran **five** small anchovy-profile
 swim jigs, fished for [spotted bay bass](../species/spotted-bay-bass.md) in
-Mission Bay, San Diego (Roman Castro, G6YRT4HNxr8, 2018-04-17; unregistered
-channel — medium confidence).
+Mission Bay, San Diego (Roman Castro, G6YRT4HNxr8, 2018-04-17; `roman-castro` registered 2026-08-17, single mention —
+medium confidence).
 
 - **Bend the arms for an even spread:** the **short arms bend outward to the
   sides**, while the **longer arm(s) stay centered**, so the baits fan out
@@ -362,6 +586,36 @@ following setup:
   several ways to change the strike trigger. Said the rig **also works pitched
   to docks/pilings on a long cast** (not a flip), not just over open eelgrass.
 
+## Targeting a boiler bite — pick the committed fish, read the clarity edge (Jeremy, Sav-On Tackle/IROD seminar)
+
+Jeremy — first name only, as addressed in the transcript's Q&A; Sav-On Tackle/
+IROD seminar, Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel,
+single-camera seminar with speakers not diarized — medium confidence. For
+open-water/less-kelp "boiler" calico — fish surfacing/busting on bait rather
+than holding tight to structure — see the router row in
+[calico bass](../species/calico-bass.md#situations--techniques):
+
+- **Target selection over persuasion:** "I'm looking for the fish that is
+  locked, loaded, and ready to go" — he casts to a visibly committed,
+  aggressive fish rather than working a piece of water trying to convince a
+  neutral one to bite. Framed as his main read for this specific bite style.
+- **Read the water-clarity edge:** for a boiler bite he looks for **less
+  kelp, more open water** and **crystal-clear water**, over the more typical
+  stained/seafoam-green water nearby — the clarity line itself is where he
+  commits the cast, since the bait "gets lost" and fish spook in the
+  cloudier water beside it.
+- **Bait: a Lucky Craft 119** (named on camera — a minnow-profile hard
+  swimbait; the model number is not independently confirmed beyond the
+  on-camera name) paired with a **5–9 in soft-plastic trailer**. Profile
+  preference, in order: **baitfish/anchovy first** ("bread and butter"),
+  then **crab/crustacean-style**, then a **shiny/flash** pick as a
+  change-up, plus scent (see [scent](#scent-corey-sandon-mc-swimbaits-and-keeping-your-hands-scent-neutral-jack)
+  above).
+- **Seasonal aggression:** in warmer water — he names **July and August** —
+  fish's metabolism runs faster and they want to eat more and bigger, and
+  get more aggressive; his stated takeaway is "don't be scared to fish fast"
+  and to size baits up during that stretch.
+
 ## Gear class
 
 Bass casting / swimbait class — see [gear classes](../tackle/gear-classes.md).
@@ -384,15 +638,18 @@ Baits and models in [soft plastic swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
-- [Chunking](chunking.md)
-- [Current Structure](../conditions/current-structure.md)
+- [Drop Shot](drop-shot.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Glide Baits](glide-baits.md)
 - [Island Structure](../locations/island-structure.md)
+- [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Night Bass Fishing](night-bass-fishing.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
-- [Yo-Yo Iron](yo-yo-iron.md)
+- [Tube-Bait Fishing](tube-bait-fishing.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

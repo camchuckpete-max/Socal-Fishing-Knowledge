@@ -3,6 +3,8 @@ type: rig
 tags: [halibut, live-bait, stinger, drift, grouper, cabrilla, baja, sea-of-cortez]
 sources: [qIKGJSEE2aY, M8hOYQ_6rSg]
 confidence: medium
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [bay-harbor, nearshore-coast, island, bank]
 ---
 
 # Trap Rig
@@ -61,4 +63,5 @@ Video: https://www.youtube.com/watch?v=qIKGJSEE2aY
 - [California Halibut](../species/california-halibut.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
+- [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 <!-- backlinks:end -->

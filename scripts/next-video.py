@@ -18,8 +18,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LOG = ROOT / "sources" / "extraction-log.md"
-START = "<!-- batch2:worklist:start -->"
-END = "<!-- batch2:worklist:end -->"
+# Batch 3 uses its own marker pair; fall back to the batch-2 block so the
+# script keeps working against the archived batch-2 worklist.
+START = "<!-- batch3:worklist:start -->"
+END = "<!-- batch3:worklist:end -->"
+FALLBACK = ("<!-- batch2:worklist:start -->", "<!-- batch2:worklist:end -->")
 STATUSES = {"pending", "done", "skipped", "escalated", "reverted"}
 
 
@@ -28,6 +31,9 @@ def parse_rows() -> list[dict]:
     try:
         block = text.split(START, 1)[1].split(END, 1)[0]
     except IndexError:
+      try:
+        block = text.split(FALLBACK[0], 1)[1].split(FALLBACK[1], 1)[0]
+      except IndexError:
         print("next-video: worklist markers not found in extraction-log.md",
               file=sys.stderr)
         sys.exit(2)

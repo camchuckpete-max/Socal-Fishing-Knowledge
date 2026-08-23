@@ -3,6 +3,8 @@ type: species
 tags: [cabrilla, grouper, baja, sea-of-cortez, bay-of-la, jerkbait, yo-yo-iron]
 sources: [EmZO8QiOfik]
 confidence: medium
+regions: [cortez-north, cortez-south]
+waters: [nearshore-coast, island]
 ---
 
 # Cabrilla (Leopard Grouper)
@@ -30,7 +32,15 @@ window (see [Situations → techniques](#situations--techniques)). Outside
 that window (spring/summer), downsizing is still a reliable fallback any
 time the bite goes slow.
 
-## Finding them
+## Finding them (sign & sonar)
+
+**⚠ Flagged stub — no sonar signature in the corpus yet.** This source
+describes the visual/structure read only and gives no sonar-arc or depth
+signature for cabrilla specifically. Cabrilla are a structure-ambush fish, so
+a meter signature over the rock is a real thing to look for — the gap is in
+the sources, not the fishery. Flagged so silence doesn't read as "you can't
+meter them." General method:
+[electronics & sounder](../planning/electronics-and-sounder.md).
 
 - **Structure is everything — target "snaggy," not sandy.** Look for
   bottom that is **not** sandy or flat: big bull rocks, pinnacles, and
@@ -100,7 +110,7 @@ time the bite goes slow.
   turns its head and starts taking line, so the drag should give nothing; he
   pairs that locked drag with a **slower, softer-bending rod** to absorb the
   strike shock the drag no longer does. **Ray Sharifi** (co-host,
-  unregistered channel, medium confidence) fishes the drag **backed off**
+  `ray-sharifi` registered, SoCal-capped — medium confidence) fishes the drag **backed off**
   instead, paired with a **faster-action rod**. Both are attributed
   drag/rod philosophies for the same cabrilla fishery.
 - **Retrieve action:** cabrilla want a **fast, tight wobbling action with a
@@ -116,12 +126,14 @@ time the bite goes slow.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [Sea of Cortez](../locations/sea-of-cortez.md)
+- [Snook (Robalo)](snook.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

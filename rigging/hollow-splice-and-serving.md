@@ -1,8 +1,10 @@
 ---
 type: rig
 tags: [hollow-core, splice, serving, top-shot, knotless, leader]
-sources: [_w8KNSgGPVE, yr6z3DmWY4s]
+sources: [_w8KNSgGPVE, yr6z3DmWY4s, 46wHgdTJWIM, kHUQd9jqG-A]
 confidence: medium
+regions: [socal-bight]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Hollow-Core Splice & Serving
@@ -23,6 +25,13 @@ the foundation under a built [wind-on leader](wind-on-leader.md).
   a new top shot to hollow-core braid so the join disappears into the line and
   saves you re-spooling an expensive full reel. This is prep-bench work, not
   something to attempt on a pitching deck.
+- **Hollow-to-hollow splice as scheduled maintenance, not just recovery**
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 102," `46wHgdTJWIM`,
+  2020-06-04; unregistered channel/speaker — medium confidence): the same
+  splice technique also gets used proactively, with no tangle or break-off
+  involved — periodically, as upkeep. See
+  [hollow vs solid spectra](../tackle/spectra-hollow-vs-solid.md#hollow-core--rigging-and-spliceability)
+  for the specifics of that maintenance interval and why it helps.
 - **Served fluoro leader** — stealth bait fishing where a leader knot would show,
   e.g. Guadalupe Island; dedicate rods (a 50 lb, a 60 lb, an 80 lb) each with its
   fluoro already served in and ready to fish, so there's no on-the-water retie.
@@ -37,6 +46,12 @@ the foundation under a built [wind-on leader](wind-on-leader.md).
 - **Splice finish:** none needed — pull excess through, trim it, and it hides
   back inside. The only sign left is a slight thickness where the two lines
   overlap, dropping back to single-strand braid at each end.
+- **Trim tag ends with real braid cutters, not needle-nose pliers.** Ordinary
+  needle-nose pliers don't bite braid cleanly — they leave you stretching the
+  line taut to get a cut, where a dedicated pair of braid cutters cuts it
+  loose (Tackle Express, "Why You Need Real Braid Cutters for Your Fishing
+  Line," `kHUQd9jqG-A`, 2026-06-08; unregistered channel, promotional shop
+  plug — low confidence).
 - **Serving bury length:** serve the fluoro **a minimum of 3 ft, preferably 4 ft**
   into the hollow braid. Size the hollow rigging needle to the leader (e.g. a
   needle sized for 60 lb fluoro); seat the fluoro tip in the needle and tack it
@@ -60,6 +75,7 @@ and [serve a fluorocarbon leader into hollow core](https://www.youtube.com/watch
 <!-- backlinks:start -->
 ## Linked from
 
-- [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
-- [Wind-On Leader](wind-on-leader.md)
+- [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
+- [Leadhead Mods & Rigging](leadhead-mods.md)
+- [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
 <!-- backlinks:end -->

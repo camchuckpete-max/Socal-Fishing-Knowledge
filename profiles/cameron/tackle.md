@@ -61,13 +61,8 @@ subset he owns. Class terms: [gear classes](../../tackle/gear-classes.md).
 ## Linked from
 
 - [Bay Bass Plastics](../../lures/bay-bass-plastics.md)
-- [Cameron's Rods — 8 Setups](rods.md)
-- [Foamer Casting](../../techniques/foamer-casting.md)
-- [Gear Classes — the class-term lexicon](../../tackle/gear-classes.md)
 - [Iron Jigs](../../lures/iron-jigs.md)
 - [Knife Jigs](../../lures/knife-jigs.md)
 - [Soft-Plastic Swimbaits](../../lures/soft-plastic-swimbaits.md)
-- [Surface Iron](../../techniques/surface-iron.md)
 - [Tuna Poppers and Stickbaits](../../lures/tuna-poppers-and-stickbaits.md)
-- [Yo-Yo Iron](../../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

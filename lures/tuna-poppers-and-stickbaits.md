@@ -1,8 +1,10 @@
 ---
 type: lure
-tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, foamer, surface]
-sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU]
+tags: [popper, stickbait, plopper, bluefin, yellowfin, yellowtail, dorado, foamer, surface, calico-bass, baja]
+sources: [cameron, AJMjWDKsdRg, j1YZ_9IMUVY, VgpgJ8IAyJo, gevNj2Y1Ep8, 149px8WQ2Ng, A70kK2niu2Q, jQW2HLkMsmY, F7jLrt2j2X8, Zo92MG459gQ, QSvzVHW9UMk, A6DJoXbID4c, ftEvyfwjZFU, Q196GVwVqro, 3djuTW9GBr0, AodUBhxPts8, E9YtH56Dngo, J7nreDb1dn8, JHMCguO7sXE, OL8D1l73RVg, P9H-bpzT7eU, QTWVs5BwQ0g, TgOMUXxIQl4, Ud3hi9r1Nr4, iqTN2IBRP1A, pm8u6qUrVUI, tnHltcDdVtU, wqrIs5kg1qw, lYyi_Yh3S5g, 5uEzREjLlLQ, JgXMpjxRxmo, LoJu3OYs20o, T_XpItMhbjM, fPxqoEforhA, kt3G72gUldM, qLKLlZdiflA]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [open-ocean, bank, island, nearshore-coast]
 ---
 
 # Tuna Poppers and Stickbaits
@@ -36,9 +38,20 @@ than a chugging popper when fish are keyed on smaller bait. "Casts a mile for
 its size" is the ad copy (**marketing flag** — promo source j1YZ_9IMUVY, low).
 Wire-through; upgrade rings/hooks for tuna grade.
 
+### Shimano Orca / Yo-Zuri popper (Turner's Outdoorsman picks)
+**Lori Sakau, Turner's Outdoorsman, via SearcherSportfishing, "Tackle Tip
+Thursday Vol. 143," `QTWVs5BwQ0g`, 2021-04-15; `searcher-sportfishing`
+registered channel — named lure/model picks stay **low** per that channel's
+sponsored-claim caveat.** Two floating popper picks named as personal
+favorites for tuna and yellowtail boiling on the surface: a **Shimano Orca**
+popper and a Yo-Zuri popper captioned "yozuri bowl poppers" (**asr-uncertain**
+— plausibly the **Yo-Zuri Bull Pop**, not confidently resolved from the
+captions). No size, color, or rigging detail beyond "these things are going
+to float on the surface."
+
 ### Feed Popper
 Chugging popper family in **120 mm** and **150 mm** sizes (Ray Sharifi, Dirty
-Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium confidence).
+Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence).
 Popular enough that the bigger clear/near-clear 150 has repeatedly sold out.
 **Color read:** an **all-clear** finish noticeably out-fishes a
 pearl-white/near-clear finish in the same size — for reasons the source
@@ -47,12 +60,50 @@ an all-clear Feed Popper did. Produced yellowfin (not yet bluefin, as of
 this video) for the source. Cast on a spinning ("open-face") reel — see
 casting gear below.
 
+### Rooster Popper 135 / 160 (yellowfin size pick)
+**Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
+2018-10-24; unregistered channel — medium confidence.** Two sizes named on
+camera as the best popper sizes for yellowfin tuna: **135** and **160**
+(captions render the brand as "the wrister popper" once and "the rooster
+popper" once for what reads as the same product across the clip —
+**asr-uncertain** on the exact brand spelling; a "calico" heard immediately
+before is also **asr-uncertain** and not carried as a confirmed brand/maker
+name). **Color doctrine: color doesn't matter at these sizes** — the stated
+pick is by size, not finish, which sits alongside (not against) the
+size-over-color framing already logged for the Feed Popper above.
+
+**Corroborating brand data point (Billy, Fisherman's Landing Tackle Shop, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 191," `AodUBhxPts8`,
+2022-07-28; unregistered channel — medium confidence):** a separate
+Searcher Sportfishing tackle-shop segment names a popper heard in the
+captions as "helco... haymaker" — read as **Halco Haymaker**, supporting the
+Halco brand guess already flagged asr-uncertain above, though the model name
+itself ("Haymaker" vs. "Rooster/wrister Popper") doesn't match, so this is
+logged as a separate, corroborating-on-brand-only data point, not merged into
+the entry above.
+
 ### Clear Choice Ghost Popper 150
 **150 mm / 2.1 oz** clear **wire-through** popper — a SoCal bluefin standard.
 Rigging class: because it's wire-through, **crimp 100 lb+ leader** to the
 wire-through loop **or** run a heavy split ring — the wire-through is what lets
 you fish it hard on big fish. Fish it as a popper: chug into the foam, bite on
 the pause.
+
+**A second-size, second-source data point for the same clear-popper doctrine
+(Tackle Express, "Essentials You Need For Tuna Fishing in Southern
+California," `qLKLlZdiflA`, 2023-04-20; unregistered channel — medium
+confidence):** an **all-clear** popper called a **"110"** on camera and
+measured on screen at roughly **8.5 in** — a different size than the Clear
+Choice Ghost Popper 150 above, from a different source, not confirmed as the
+same product line. Named as an increasingly popular pick for SoCal bluefin
+"the last couple years" as of this 2023 upload (i.e., roughly 2021–2023).
+**Same stated mechanism as the TP-line entry below:** because the lure is
+clear, a bluefin looking up at it from underwater can't isolate its actual
+~8.5 in profile — all it reads is a surface disturbance, which is framed as
+triggering a reaction bite rather than a size-matched feeding strike.
+Consistent with, not new beyond, the visual-disguise mechanism already
+logged for the TP line below; kept as a second size/product data point for
+the same doctrine rather than merged into either existing model.
 
 ### Clear Choice Ghost TP 140 / TP 160
 Clear **tail-prop ("TP") ploppers** in 140 mm and 160 mm — a spinning tail blade
@@ -61,6 +112,33 @@ cast-and-wind surface plug. **Marketing flag:** the **TP slow-troll claim is
 marketing only** — no independent trolling reports found (Cameron, July 2026);
 treat these as cast-and-retrieve plugs, not trolling lures, until there's a real
 report. Rigging as the wire-through / heavy-ring class above.
+
+**Name resolved, and a mechanism reason (Tackle Express, `LoJu3OYs20o`,
+2025-08-22; unregistered channel, promotional product clip — low confidence):**
+the video title (human-typed, so it wins over the caption-driven "TP" gloss
+above) gives the full product name as the **Tuna Propper 160**, confirming
+**TP = "Tuna Propper,"** not an inferred "tail-prop" abbreviation. Stated
+mechanism/reason the style draws strikes: the rotating prop tail throws enough
+surface disturbance that fish can't make out the bait's actual profile, on top
+of an "irresistible draw imitating fleeing fish, flying fish" — a
+visual-disguise rationale, not just the bubble-trail noise already documented
+above. The same clip markets the 160 for GT, snapper, and striper — species
+outside this KB's SoCal/Baja region scope, not carried here as target-species
+doctrine.
+
+### MegaBait (cast-and-sink, named favorite)
+**Named product — low confidence per this channel's sponsored-claim caveat**
+(Capt. Art, SearcherSportfishing, "Capt Art's tackle tips," `lYyi_Yh3S5g`,
+2009-08-25; `searcher-sportfishing` registered channel, single mention). Asked
+what he wouldn't leave behind in his tackle for a tuna trip, Art names a
+**MegaBait** (captioned "mega bait[s]") on **30 or 40 lb test**, cast off the
+bow and let sink — no retrieve mechanic given beyond the cast-and-sink itself.
+Same functional presentation as the Colt Sniper cast-down-swell-and-let-it-
+sink retrieve documented below, but a different, unconfirmed lure family — not
+merged into that entry. A second product he names in the same breath did not
+resolve confidently from the auto-generated captions ("braid products as a
+blaster") and is not carried here per the ASR-hazard rule — flagged
+`asr-uncertain` in the extraction log rather than guessed at.
 
 ### Colt Sniper (foamer stickbait)
 Lead-bodied casting **stickbait / jig** in the "small lead bait" foamer family
@@ -71,6 +149,80 @@ This was the workhorse of **Cameron's fall-2025 foamer program** (most fish came
 on Colt Snipers, many actually snagged; the smaller presentation fished better).
 Sinks fast enough that you may need to **size the leader down to 40 or even
 30 lb**.
+
+**Earliest real-time fleet report in this corpus for this lure
+(SearcherSportfishing, "Tackle Tip Thursday Vol. 4," `Ud3hi9r1Nr4`, upload
+2018-07-12, filed as a same-week Searcher fleet report — "straight from the
+Searcher... real-time info"; `searcher-sportfishing` registered channel —
+mechanism/parameter content medium confidence, product naming itself capped
+low per the channel's sponsored-claim caveat):** a **100 g Colt Sniper** cast
+on **40 or 50 lb test** into the middle of a bluefin school foaming on the
+surface, fished either **sunk to about 50 ft then wound in fast**, or
+**skipped across the surface** the instant it lands (reel in gear, rod tip
+up) — two distinct retrieves for the same lure, logged in full in
+[foamer casting](../techniques/foamer-casting.md#retrieve-mechanics) and
+[skip jigging](../techniques/skip-jigging.md) respectively. Stock small
+treble hooks can be swapped for single hooks, stated to potentially improve
+both action and hook-up on bluefin — consistent with, not new beyond, the
+stock-hook-upgrade doctrine below.
+
+**Stock hook/split-ring upgrade (Billy, Fisherman's Landing Tackle Shop, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 82," `J7nreDb1dn8`,
+2020-01-09; unregistered channel — medium confidence):** the shop's standard
+rigging upgrade off the stock Colt Sniper is an **Owner size 7 split ring**
+(rated to break at **80 lb**) paired with **Owner ST-66 / ST-58** trebles in
+**3X or 4X** gauge — a **size 1 or 2** treble covers the **60 g and 80 g**
+Colt Sniper sizes, sizing up or down with the size of the lure being fished.
+
+**Three retrieves, tackle-shop rundown (same source):** (1) **cast and
+retrieve** — chuck it out, wind it straight back; (2) **cast down-swell from
+the bow and let it sink on the drift** — the jig sinks out while the boat
+drifts toward it, and a lot of bites come **on the sink**, consistent with
+(adds the bow-position/down-swell casting detail to) the let-it-sink
+small-lead-bait retrieve already documented in [foamer
+casting](../techniques/foamer-casting.md#retrieve-mechanics); (3) **"East
+Coast" jigging style** — cast it out, then jig it up and down through the
+water column until it's straight up and down under the boat, then wind it
+back in and repeat.
+
+**Casting reach and bait-match sizing (SearcherSportfishing, "Tackle Tip
+Thursday Vol. 99 (Bluefin Lures)," `pm8u6qUrVUI`, 2020-05-14;
+`searcher-sportfishing` registered channel — mechanism/parameter content
+medium confidence, product naming capped low per the channel's
+sponsored-claim caveat):** names a **60 g** Colt Sniper as the small end of
+the size run ("they make them bigger" — consistent with, not new beyond, the
+60–100 g+ range already logged above) and restates the same two retrieves
+already documented above — cast and skip it across the surface by holding the
+rod tip in the air (stated effective for both yellowfin and bluefin tuna), or
+let it sink and take the bite on the fall. **Two stated selection factors,
+added here:** (1) size the lure to whatever bait size is currently in the
+boat's bait tank — a match-the-hatch rule for lure **size**, not just color;
+(2) in wind, step up to a heavier lure — captions garble the stated reason
+here ("...a heavier lure to test out there..."), so no specific rationale is
+asserted for the popper case. Contrast the flat-fall/butterfly entry above,
+where the boat-drift-in-wind mechanism **is** stated explicitly on camera
+(see [knife jigs](knife-jigs.md) and [flat-fall
+jigging](../techniques/flat-fall-jigging.md#jig-weight-and-rig)).
+
+**Season-stocking recommendation ahead of the 2021 season, speaker unnamed on
+camera (SearcherSportfishing, "Tackle Tip Thursday Vol. 130," `E9YtH56Dngo`,
+uploaded 2020-12-17; unregistered channel — medium confidence):** stock **Colt
+Snipers in every size** ahead of the bluefin season — captions single out
+"the 80 gram" size but the surrounding phrasing is garbled (asr-uncertain,
+not confidently resolved to a specific called-out preference); 80 g sits
+inside the weight range this note already documents for Colt Sniper metals
+(60 g up to 80–100 g, see the Daiwa Zakana entry below), so it's not a new
+data point, just a corroborating stocking note. Fishable on **either heavy or
+light gear** for bluefin, per the same source.
+
+**Dead-stick retrieve for a tough foamer (Billy, Fisherman's Landing Tackle
+Shop, via SearcherSportfishing, "Tackle Tip Thursday Vol. 191," `AodUBhxPts8`,
+2022-07-28; unregistered channel — medium confidence):** when a foamer is
+tough to get bit, switching to a stickbait (a Colt Sniper is the example
+given) and **dead-sticking** it — cast it into the middle, put the reel in
+gear, and don't work it at all — draws bites on the shimmer as it falls,
+stated to work "a lot." See [foamer casting](../techniques/foamer-casting.md)
+for the fuller tough-bite troubleshooting sequence this fits into.
 
 **Observed — daytime bluefin, cast-and-work-the-column retrieve
 (StokedOnFishing, `QSvzVHW9UMk`, 2025-02-12, Cortez Bank, SoCal, aboard the
@@ -85,8 +237,7 @@ may be the technique described, not confirmed. Full trip context in
 [bluefin tuna](../species/bluefin-tuna.md).
 
 **Daytime bluefin weight/leader data point (Ray Sharifi, Dirty Hookers,
-149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; unregistered channel —
-medium confidence):** **40–50 lb leader** recommended for Colt Sniper on
+149px8WQ2Ng, Highliner deckhand POV, 2023-04-24; `ray-sharifi` registered, SoCal-capped — medium confidence):** **40–50 lb leader** recommended for Colt Sniper on
 daytime bluefin; personal preference for **60–80 g** (smaller bait
 presentation, matching bluefin keyed on smaller bait that week), **100 g**
 called a personal maximum, with other anglers on the boat getting bit up to
@@ -104,6 +255,82 @@ traditional heavy lead jig instead — see [iron jigs](iron-jigs.md) (Tady AA /
 Tady 9 / Salas 7X Jr heavy) — rather than assume color or retrieve speed is
 the problem.
 
+**Dorado application, color and hook style (Carl Schmidt, SearcherSportfishing/
+Fisherman's Landing, "Tackle Tip Thursday Vol. 198," `P9H-bpzT7eU`,
+2022-09-29; registered channel, single mention — medium confidence):** for
+[dorado](../species/dorado.md), a favorite is a **blue-and-chrome, 4–8 in**
+jig — captioned on screen as "Cult Sniper" (`asr-uncertain`; most likely this
+Colt Sniper class given the size/color description, not confirmed by name in
+the transcript). Rigged with a **treble hook preferred over a single hook**
+specifically for dorado, reasoned as a smaller profile that's easier for the
+fish to get in its mouth — a different stated rationale from, and not
+reconciled with, the single-assist-hook mechanism doctrine immediately above
+(that doctrine is scoped to the stock design's kick/speed on a burned
+retrieve, not to dorado hookup rate). Fished by working up to the bow and
+casting directly at a visible fish rather than blind-casting.
+
+**Three retrieves and a stated favorite, with a reason (Fred Brandt, Seeker
+Rods, via SearcherSportfishing, "Tackle Tip Thursday Vol. 203 (Fishing With
+Colt Snipers)," `tnHltcDdVtU`, 2022-11-03; `searcher-sportfishing` registered
+channel — mechanism content medium confidence, product naming low per the
+channel's sponsored-claim caveat):** the first two are framed as what "a lot
+of guys" do, the third as his own preferred way:
+
+- **On the slide, when the captain calls a school:** let it out and drop it
+  off the side of the boat, sinking it out with no work on the retrieve —
+  "it'll get bit." A passive sink presentation, distinct from the
+  cast-down-swell-and-let-it-sink-on-the-drift retrieve documented above
+  (that one is worked from the bow on a cast; this one is dropped straight
+  off the side as the boat comes up on a showing school).
+- **Fished like a regular knife jig** — no further mechanic given; see
+  [knife jigs](knife-jigs.md) for that class's vertical-jigging mechanics.
+- **Cast into a foamer — his stated favorite, with the reason why:** the Colt
+  Sniper's namesake casting distance ("it flies like a rocket or like a
+  bullet") is what lets him reach **a couple hundred feet** into a foamer.
+  Wing it in and, as soon as it hits the water, **grind the retrieve
+  continuously** rather than pausing — a burn-on-contact cadence, distinct
+  from the let-it-sink-then-burn small-lead-bait pattern documented in
+  [foamer casting](../techniques/foamer-casting.md#retrieve-mechanics).
+  **Observed outcome, his own account:** several fish in the **100 lb class**
+  landed fishing it this way, plus, in his words, having "witnessed quite a
+  few" additional fish caught the same way in 2022 (resolved from "this
+  year" against the video's 2022-11-03 upload date) on the bigger aftermarket
+  version logged below.
+
+### "Lead Master" Sniper (Colt Sniper-style lookalike)
+**Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
+2018-10-24; unregistered channel — medium confidence.** A lead-bodied casting
+jig described on camera as looking like the Shimano Colt Sniper (see above) —
+captions render the brand "lead master" (**asr-uncertain**, not confidently
+resolved to a confirmed maker name). **Weight: 100 g** the stated go-to,
+**42 g** also usable, with an explicit cap of **not going heavier than
+100 g**. **Color doctrine: anything shiny and bright works** — same
+size/shine-over-specific-color framing as the Rooster Popper entry above,
+from the same short source.
+
+**A second, independent rendering of the same brand name, and a bigger size
+in tension with the 100 g cap above (Fred Brandt, Seeker Rods, via
+SearcherSportfishing, `tnHltcDdVtU`, 2022-11-03; `searcher-sportfishing`
+registered channel — mechanism content medium confidence, product naming low
+per the channel's sponsored-claim caveat):** captions render the brand
+**"Led Masters,"** naming the product "a snipper by Led Masters" — a second,
+independently auto-captioned rendering close to the "lead master" spelling
+above, weak corroboration that the maker's name is some form of "Lead
+Master(s)" without confirming the exact spelling (still `asr-uncertain`).
+States this aftermarket Sniper-style jig **"comes in a 150"** (150 g) — larger
+than, and in tension with, the Vol. 19 entry's explicit **not going heavier
+than 100 g** cap above; kept side by side rather than reconciled, since the
+two sources may be describing different points in the same model's size run
+rather than a genuine conflict. **Stated overall size range: 80 g up to
+150 g** ("anywhere from your 80s to your 150s"). **Hook swap for this bigger
+aftermarket version:** stock hook out, in with **a single hook, or an Owner
+#3, 3X-gauge treble hook** — a different specific Owner hook spec from the
+Owner ST-66/ST-58, 1 or 2, 3X/4X trebles sized to the **Shimano** Colt
+Sniper's 60/80 g sizes in the Vol. 82 entry above, since this is the bigger
+aftermarket lure rather than the Shimano original. **Color: "all the
+different colors get bit"** — consistent with, not new beyond, the
+size/shine-over-color framing already logged in this note.
+
 ### RW Peanut (sniper-style casting bait)
 Sniper-style lead casting bait in the same "small lead bait" foamer family as
 the Shimano Colt Sniper (see below). **Sizes 80 g up to 120–150 g** have
@@ -112,8 +339,8 @@ vertically. Two color reads: a realistic **Sardine** pattern (lime-green
 back) for a traditional look, or — when something less realistic is wanted —
 a pink-accented pattern locally nicknamed **"Katy Perry"** (blue back, silver
 middle, pink belly, or all-pink); both have produced well on yellowfin as of
-this 2023-09-02 video (Ray Sharifi, Dirty Hookers, gevNj2Y1Ep8; unregistered
-channel — medium confidence). **Retrieve speed/pause is
+this 2023-09-02 video (Ray Sharifi, Dirty Hookers, gevNj2Y1Ep8; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at
+medium confidence). **Retrieve speed/pause is
 trip-dependent** — some trips the fish want it burned fast, others want a big
 dead-stick with long pauses; read the bite each trip rather than assuming.
 
@@ -140,7 +367,22 @@ Nomad Ridgeback class) above, not a fully specified rig.
 Nomad's offshore surface line (popper and stickbait profiles) rounds out the
 class — heavy, long-casting, wire-through-body plugs built for tuna, run with
 upgraded rings and hooks. Match popper vs stickbait to whether the fish want
-noise or a subtler bait-matching slide.
+noise or a subtler bait-matching slide. **Nomad Dart Wing** (SearcherSportfishing,
+`OL8D1l73RVg`, 2020-10-08; `searcher-sportfishing` registered channel — **low
+confidence: a named product/model pick, capped per this channel's registry
+sponsored-claim caveat**): named on camera as a jig usable for [skip
+jigging](../techniques/skip-jigging.md) — no size, color, or rigging detail
+given.
+
+### Yo-Zuri Hydro Pencil 125
+**SearcherSportfishing, `OL8D1l73RVg`, 2020-10-08; `searcher-sportfishing`
+registered channel — low confidence: a named product/model pick, capped per
+this channel's registry sponsored-claim caveat.** A 125-size pencil
+stickbait named on camera as "great for" [skip
+jigging](../techniques/skip-jigging.md) — the fast, tip-up, skip-it-on-top
+presentation, not the standard cast-and-wind stickbait retrieve documented
+elsewhere in this note. No size (beyond the 125 designation), color, or
+rigging detail given.
 
 ### Colt Sniper Stickbait / Jerkbait (yellowtail — a different product from the Colt Sniper casting jig above)
 **Not the same lure as the lead "small lead bait" Colt Sniper casting jig
@@ -156,9 +398,45 @@ on an 8'6" rod rated **20–50 lb** (20–45 to 20–50) — enough leverage to 
 big yellowtail while still light enough to cast these plugs; a traditional
 9–10 ft [surface-iron](../techniques/surface-iron.md)-class rod with a
 conventional reel also casts them (Ray Sharifi, Dirty Hookers, A70kK2niu2Q,
-2022-02-17; unregistered channel — medium confidence). No retrieve mechanics
+2022-02-17; `ray-sharifi` registered (Baja-scoped) — medium confidence). No retrieve mechanics
 beyond "cast at the boil" are given in this source; treat as a visual,
 high-action alternative to iron, not a documented distinct cadence.
+
+**Retrieve mechanics and seasonal trigger, filling the gap above (Tackle
+Express, `JgXMpjxRxmo`, 2026-07-17; unregistered channel — medium
+confidence):** as the water warms up over the season, fish get "fired up" and
+splash around on the surface — the trigger condition given for reaching for
+this stickbait — wound **real fast**.
+
+**A second stick bait to carry, named with the speaker's own on-camera
+uncertainty (same source):** alongside the Colt Sniper, a **"SP Daiwa SP
+Minnow, or something like that"** — read as the **Daiwa SP Minnow** — is
+named as "a good bait to have in your arsenal." No size, color, or retrieve
+detail is given beyond grouping it with the Colt Sniper as a warm-water
+stickbait option; kept as stated rather than resolved to a confirmed model.
+
+**Model named with a size, predating the uncertain mention above by about
+ten weeks (Tackle Express, `fPxqoEforhA`, "Why you should stick to one lure
+to catch more fish," 2026-05-09; unregistered channel — medium
+confidence):** an on-camera exchange resolves a stick bait by name and size
+as an **SP Minnow 115** — plausibly the same Daiwa SP Minnow flagged with
+uncertainty above, now with a size figure (115), though not confirmed as
+the identical model. Comes in **floating and sinking** versions; asked
+whether the floating-vs-sinking choice mattered for this application, the
+stated answer was "I don't think it would matter" — no strong preference
+given either way.
+
+This clip's yellowtail-in-three-or-four-casts story (cutting off a
+triple-trout hardbait and a Colt Sniper already rigged, to commit to
+fishing only the SP Minnow 115 stick bait) is the same **SP Minnow 115 /
+triple-trout / Colt Sniper** Cedros trip already logged in [Cedros
+Island](../locations/cedros-island.md#fishing-it--what-is-specific-to-cedros)
+under `_C7TJoGT0nw` (upload 2025-09-26) — this 61-second clip surfaced
+2026-05-09, three days after the `9kGpcEHqIUc` highlight clip from the same
+interview (2026-05-06, also cross-referenced there), so it reads as another
+re-cut of the same footage rather than an independent second confirmation.
+The narrative isn't restated here; the floating-vs-sinking parameter above
+is the new detail this clip adds.
 
 **Observed** (StokedOnFishing, 2023-05-24 upload, Cedros Island, Baja —
 `Zo92MG459gQ`, "Did I Not Say There Are Giant Yellowtail In Here"; captions
@@ -172,8 +450,7 @@ was just so big on two hooks"). No retrieve-cadence detail beyond the
 cast-at-the-activity approach already logged above.
 
 **Also fished as a "burn bait" for tuna, not just yellowtail (Ray Sharifi,
-Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-confidence):** the same no-bill Colt Sniper stickbait and lipped Colt Sniper
+Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** the same no-bill Colt Sniper stickbait and lipped Colt Sniper
 jerkbait, plus **Yo-Zuri jerkbaits**, cross over to yellowfin/bluefin — cast
 and burn it straight in, or cast and skip it across the surface, whichever
 the fish key on that trip; both floating plugs fish the same way. The stock
@@ -183,10 +460,22 @@ alternative with noticeably beefier stock hooks that held up without
 bending, at the cost of the angler having to decide whether the split rings
 are worth upgrading too.
 
+**Baja starter-kit quantities, calico bass + yellowtail (Tackle Express,
+"The only Baja tackle list you'll ever need," `5uEzREjLlLQ`, 2026-05-19;
+unregistered channel, single mention — medium confidence):** a short segment
+(unnamed speakers) frames a minimum kit that "covers every avenue" for
+**[calico bass](../species/calico-bass.md) and yellowtail** fishing in Baja:
+**3–4 [surface irons](iron-jigs.md)**, **3–4 Colt Snipers** (the stickbait/
+jerkbait above), **a couple yo-yo jigs** (see [iron jigs](iron-jigs.md)),
+**a couple stick baits** beyond the Colt Sniper (other models in this note),
+and **a couple packs of [swim baits](soft-plastic-swimbaits.md)**. No
+conditions or reasoning is given beyond the blanket "every avenue" framing —
+a quantity checklist, not decision logic, and kept as such rather than
+inflated into a rationale that wasn't stated.
+
 ### Daiwa Zakana and other sinking metal burn baits
 **Daiwa Zakana as a sinking metal jig, casting comparison (Ray Sharifi,
-Dirty Hookers, jQW2HLkMsmY, 2022-05-02; unregistered channel — medium
-confidence):** similar profile to a Shimano Colt Sniper metal, but with
+Dirty Hookers, jQW2HLkMsmY, 2022-05-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** similar profile to a Shimano Colt Sniper metal, but with
 noticeably better stock hooks — fished hard, paint worn off from use, with
 no hook upgrade needed. Sinking metal jigs in this class (Zakana, Colt
 Sniper metal) run **60 g up to 80–100 g**, sized to what the bait wants
@@ -196,6 +485,31 @@ Sniper metal) run **60 g up to 80–100 g**, sized to what the bait wants
 a deeper presentation is wanted — a distinct technique from the straight
 burn-it-in retrieve. Stock trebles can be upgraded to single hooks if
 preferred.
+
+### Ahi USA Live Deception flash jig (cast, sink 3–5 sec, then a slow crank)
+**Capt. Dave Hansen, Your Saltwater Guide, live seminar, 2024 PCS Show,
+`Q196GVwVqro`, 2024-03-07; dave-hansen registered voice, but a subscription-
+site-pitch/trade-show sponsor-booth context — `low` confidence per the
+[source registry](../sources/source-registry.md), the same cap already
+applied to his other PCS Show entries.** Captions render the name "perception
+jig"/"live deception flash gig" (**asr-uncertain**, read here against the
+**Ahi USA "Live Deception"** product line, which also names Cameron's owned
+[cedar plug](cedar-plug.md) — this is a **different product** on the same
+line: a cast metal/flash jig, not the trolled cedar plug).
+
+- **Model:** a **4 oz** jig — he carries only the **"401"** size/model on his
+  boat, rigged in **sardine** and **anchovy** patterns.
+- **Retrieve — the opposite of a burn:** cast it out, then **let it sink for
+  about 3 to 5 seconds** before starting a **slow** crank back, explicitly not
+  reeled in as fast as possible. Framed on camera as a "secret" for bluefin
+  that were marked/visible around the boat but not committing to a faster
+  presentation ("they just wouldn't freaking fight"). His stated result:
+  **95–98% of hookups came on the very first cast** fished this way.
+- **Do not swap the hook.** The jig ships rigged with a specific hook and
+  ring; changing it after the fact changes the swim pattern. His stated
+  reasoning: on **80 lb+ line**, fighting pressure is expected to bend that
+  hook/ring assembly by design — treat that bend as normal wear, not a defect
+  to fix with a hook upgrade.
 
 ### Rapala X-Rap (long-cast stickbait)
 **Read from the captions as "Rapala X-Rap" — asr-uncertain, not fully
@@ -209,6 +523,19 @@ singles**: a fish stays pinned better, and — very important on a crowded
 boat — it's a lot safer for the anglers around you than two sets of treble
 hooks flying around on a hookset.
 
+**A likely model match, and a stock-hook data point in tension with the swap
+above (Tackle Express, `T_XpItMhbjM`, 2016-08-19; unregistered channel —
+medium confidence, single mention):** names a Rapala model as the **X-Rap 14
+Long Cast**, weighing **1⅞ oz** versus the standard (non-long-cast) X-Rap's
+**1½ oz** — plausibly the same product Cesar's asr-uncertain mention above
+refers to, though not confirmed as the identical model/year. This model
+**ships stock with single hooks instead of trebles**, per this 2016 source —
+in tension with Cesar's 2023 instruction to convert stock trebles to singles
+for what's read as the same lure; kept side by side rather than reconciled,
+since Rapala's stock hook spec may have changed between the two dates, or the
+two sources may describe different X-Rap variants. Stated use: casting into
+tuna boils, yellowtail, and calico bass.
+
 ### Nomad Riptide (true stickbait — cast-and-sweep, not cast-and-wind)
 **Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
 mention — low confidence per Cesar's registry caveat.** A common failure
@@ -220,6 +547,27 @@ shimmer on the fall, mimicking a fleeing baitfish that hesitates and then
 takes off again — that hesitate-then-flee pattern is what triggers the
 strike. Framed as "a true stick bait, like what they use in Australia,"
 distinct from the walk-the-dog/wind-in plugs above.
+
+**Earlier, independent corroboration — same cast-and-sweep mechanic, nearly
+five years before the entry above (Billy, Fisherman's Landing Tackle Shop, via
+SearcherSportfishing, "Tackle Tip Thursday Vol. 26 (Stickbait)," `wqrIs5kg1qw`,
+2018-12-13; `searcher-sportfishing` registered channel — mechanism/gear
+content medium confidence, single mention; the named lure models are product
+naming and stay low per the channel's sponsored-claim caveat):** a shop
+segment on fishing **sinking stick baits**, naming a "Riptide by Nomad(s)" —
+read as this Nomad Riptide — alongside two other models captioned "Matz Cat"
+and a "diving slider" (**asr-uncertain**, neither maker confidently resolved,
+not carried as confirmed names). Gear: a **jig-stick** rod and **straight
+spectra**, said to help with running a short leader, and a reel captioned
+"level one reel" — read as a **level-wind (conventional) reel** — called
+easier to work with for this bait. Retrieve: cast it into the foamer, then
+give **a long sweep of the rod — like a popper, but not as violent** —
+which is what makes the lure spin; **most of the bites come on the sink**,
+since these baits shimmy as they sink, corroborating the
+shimmer-on-the-fall/hesitate-then-flee doctrine above. A simpler alternate
+presentation is also given: cast it out, take a **couple turns of the reel**,
+then let it sink out, rather than working the full sweep-and-wind-down
+cadence.
 
 ### Shimano Current Sniper (cast-and-forget stickbait)
 **Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
@@ -238,6 +586,28 @@ smaller-grade yellowfin up to **30 lb**; on a **40–50 lb** fish fought over a
 long fight, the stock wire can be too light and give out — the one-size-up
 treble adds weight (tightens the swim track slightly) and solves it.
 
+**Single-hook conversion — a different rigging choice, in tension with the
+stock-hook guidance above (Tackle Express, `kt3G72gUldM`, 2026-07-16;
+unregistered channel — medium confidence):** reaches for the Current Sniper —
+sized at **120 mm** here — specifically when fish are already up and eating
+chummed anchovies on the surface. Stated rigging, in tension with the "don't
+go to singles" instruction above: stock trebles pulled and replaced with
+**single hooks** — a **3/0 BKK Lone Sniper up front** (mounted on a ring/clip
+captioned "kigger clip," rated **50 lb** — asr-uncertain, product name not
+resolved) and a **2/0 BKK Lone Sniper in the back** — and made **barbless**.
+Two stated reasons, kept side by side with, not reconciled against, the Cesar
+entry above (a different target-species framing — yellowtail/mixed-bag here
+vs. yellowfin/bluefin fight-durability there):
+
+- On a **yellowtail** ("a yellow"), the fish eats the whole 120 mm bait and
+  ends up hooked solidly, described as "dog-boned" in its mouth — hook-up on
+  the target fish isn't a concern despite going single and barbless.
+- Barbless singles are **safer and easier on the crew** for the barracuda
+  bycatch this stickbait draws in numbers when fished on a chummed anchovy
+  bite ("you're going to catch 40 barracuda on this thing") — stated as
+  easier to shake free, releasing roughly half the barracuda hooked without
+  handling them.
+
 ### Nomad Chug Norris (small-profile, big-face popper)
 **Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; product
 mention — low confidence per Cesar's registry caveat.** A small-profile
@@ -248,6 +618,24 @@ below). Retrieve cadence (cast to the edge of the boil, not the middle;
 three-count, one hard rip, then wait) is the general foamer popper cadence —
 see [foamer casting](../techniques/foamer-casting.md) for the full retrieve
 detail and the common-failure framing.
+
+**Fleet report and stated choice-of-lure reasoning (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 76," `iqTN2IBRP1A`, 2019-11-28; `searcher-sportfishing`
+registered channel — color/product naming low confidence per the
+sponsored-claim caveat; the stated popper-vs-more-effective-method reasoning
+medium confidence, single mention):** as of this fall report, yellowfin tuna
+fishing "on the ridge" was good on the popper (the specific ridge is not
+named on camera — **location-unresolved**, not assumed to be the 181/182
+Ridge or Clemente Ridge documented elsewhere in this KB). Framed on camera as
+**not the most effective method that trip**, but as "a really good visual
+way" and personally "probably my most fun way to catch them" — a stated
+preference for visual/fun over raw effectiveness. **Color/species data
+point:** a **hot pink mackerel** Nomad
+Chug Norris (captioned "chuck norris by nomads," read against the
+already-documented Nomad Chug Norris model above) was fished with that
+reasoning and named as good for **bluefin and yellowfin**, "maybe even" a
+further species the captions don't resolve confidently (**asr-uncertain**,
+not carried).
 
 ### Mustang diving pencil
 **New for the 2023 season as of this video (Cesar, Eric's Tackle, via Dirty
@@ -281,7 +669,7 @@ water column before working it.
   one color scheme working both silhouettes.
 - **Rigging:** straight-tied (no swivel, no bead) to **60 lb fluorocarbon**,
   stepping up to **80 lb** as an alternative, with a
-  [San Diego jam knot](../rigging/essential-knots.md) — same straight-tie
+  [San Diego jam knot](../rigging/san-diego-jam-knot.md) — same straight-tie
   rationale as the Mad Eel glide swimbait (see [soft-plastic
   swimbaits](soft-plastic-swimbaits.md)): a swivel would be visible to the
   fish, and the lure is designed to be tied straight. **Drag hammered down**:
@@ -293,10 +681,39 @@ water column before working it.
   framing this fits alongside the popper/stickbait cadences already
   documented there.
 
+### Laser Minnow (2 oz casting minnow, brand unresolved)
+**Searcher Sportfishing, "Tackle Tip Thursday Vol. 19," `3djuTW9GBr0`,
+2018-10-24; unregistered channel — medium confidence.** A **2 oz** "laser
+minnow" cast for yellowfin — the maker name is badly garbled in the
+auto-captions ("Elion"/similar) and **not confidently resolved**; treat the
+brand as unconfirmed rather than carry the caption spelling as fact. Not
+established as the same product as [Halco Laser Pro](halco-laser-pro.md)
+(a trolled diving minnow, not a cast lure) — kept as a separate, distinct
+entry rather than merged. **Color doctrine: anything shiny and
+baitfish-colored works.**
+
+**Earlier same-name data point, brand plausibly resolved (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 4," `Ud3hi9r1Nr4`, upload 2018-07-12, predating the
+Vol. 19 entry above by over three months; `searcher-sportfishing` registered
+channel — mechanism/parameter content medium confidence, product naming
+capped low per the channel's sponsored-claim caveat):** a **6 oz** "laser
+minnow," captioned clearly enough to read as **P-Line's Laser Minnow**
+(**asr-uncertain** — still an auto-generated caption, so this reading is
+plausible, not certain), cast for **bluefin** on **40 or 50 lb test**, fished
+either sunk-and-burned or skipped across the surface — see
+[foamer casting](../techniques/foamer-casting.md#retrieve-mechanics) and
+[skip jigging](../techniques/skip-jigging.md). The **6 oz** size here doesn't
+match the Vol. 19 entry's **2 oz** figure above, and the target species
+differs (bluefin here vs. yellowfin there) — kept as a distinct, not merged,
+data point per the preserve-specifics rule; either P-Line makes the Laser
+Minnow in more than one size, or these are two similarly-named products, not
+resolved here. Stock trebles on this lure can also be swapped for single
+hooks, stated to help both action and hook-up on bluefin.
+
 ## Casting gear for poppers and burn baits
 
 **One angler's setup (Ray Sharifi, Dirty Hookers, jQW2HLkMsmY, 2022-05-02;
-unregistered channel — medium confidence):** a large spinning ("open-face")
+`ray-sharifi` registered, SoCal-capped — medium confidence):** a large spinning ("open-face")
 reel — no brand/model reliably carried from this source (asr-uncertain) —
 spooled with **65 lb braid to the top of the spool** and a short leader, used
 for casting poppers, smaller Colt Snipers, and jerkbaits. Rod: fishes a
@@ -306,6 +723,47 @@ this heavy-line popper work; the stated preference instead would be a
 when a bigger fish is finally hooked. For sinking metal jigs specifically, a
 conventional reel is also fished and casts them fine — the source reaches
 for a baitcaster mainly to cut backlash on the smaller floating plastics.
+
+**Why spinning, and a booth-demo reel/leader spec** (SearcherSportfishing,
+Fred Hall Show, Penn booth, `JHMCguO7sXE`, 2020-04-30; unregistered channel —
+medium confidence): the stated reason poppers generally need **spinning**
+tackle rather than conventional is that poppers aren't aerodynamic enough to
+cast on a conventional reel without a backlash. A Penn Slammer 3 spinning
+reel is shown loaded with **400 yards of 65 lb braid**, framed as "tuna
+capable" for **40, 50, 60 lb tuna** but explicitly not recommended for a
+cow-grade giant ("a pound cow"). **Marketing flag:** the Penn Slammer 3 model
+itself — filmed in Penn's own trade-show booth — is a promotional placement;
+treat that specific model endorsement as low confidence, separate from the
+medium-confidence spinning-vs-conventional and leader doctrine above.
+**Leader: 2 to 2.5 ft of 100 lb test**,
+fluorocarbon or monofilament — stated as not mattering which, since the
+leader's job here is abrasion resistance, not stealth; **color doesn't matter
+either** — "you could make it any color you want and the fish will still bite
+it," corroborating the size/shine-over-color framing already logged above
+(Rooster Popper, Lead Master Sniper). This source also names **wahoo**
+alongside bluefin/yellowfin tuna and yellowtail as a species poppers work
+for — see [wahoo](../species/wahoo.md#doctrine--conflicts) for a leader-spec
+conflict this raises against that note's wire-leader-mandatory doctrine, kept
+side by side, not reconciled.
+
+**A second, distinct reason to fish spinning for poppers (Lori Sakau,
+Turner's Outdoorsman, via SearcherSportfishing, "Tackle Tip Thursday
+Vol. 143," `QTWVs5BwQ0g`, 2021-04-15; `searcher-sportfishing` registered
+channel — medium confidence, single mention):** the JHMCguO7sXE reasoning
+above is aerodynamics — a popper backlashes a conventional reel. This
+source's stated reason is reaction speed instead: a boiling fish is a
+sudden, panic-moment window, so a spinning outfit lets you grab the rod and
+throw immediately without having to think about backspins, backlashes, or
+clearing a bird's nest first. A second, non-conflicting reason for the same
+spinning-over-conventional pick, not a competing rationale.
+
+**Reel-buying criteria and leader-by-lure-type — Steve Carson, SearcherSportfishing ("Tackle Tip Thursday Vol. 185," `TgOMUXxIQl4`, 2022-06-09; `searcher-sportfishing` registered channel — mechanism/leader doctrine medium confidence, single mention on this specific point; the reel models named below are product placements, low confidence per the channel's sponsored-claim caveat):** filmed dockside in San Diego, framed for anyone fishing a spinning reel for stick baits/poppers off the Searcher or any San Diego fleet boat.
+
+- **Spinning-reel spec checklist**, corroborating the [PCS Show panel criteria](../tackle/rod-and-reel-selection.md#spinning-reel-buying-criteria-for-casting-to-100-lb-class-tuna-steve-carson-panel-pcs-show-2024) with one added spec: **all-metal body**, **all-metal rotor**, **machine-cut gears**, and **drag elements on both the top and bottom of the spool** (not just one side). Stated framing: gear built to this spec isn't for landing a 100 lb-class tuna, but it's plenty for "average size" (school-grade) tuna on stick baits and poppers — "there's a reason they call average size tuna average, because it's what you're going to catch on average."
+- **Two of his own outfits, by grade (product placements — low confidence):** a reel captioned "pen a40" (**asr-uncertain** — the transcript never confirms this model, though the second reel below is explicitly named "Penn Authority," so this is plausibly the same line in a smaller size) in **6500 size**, loaded with **400 yd of 50 lb test braid**, fished for average/school-size tuna on stick baits and poppers such as a Rapala Long Cast jerkbait; and, for a heavier setup, a **Penn Authority 7500 size** loaded with **400 yd of 65 lb test braid** — stated as capable of landing **50, 60, 70 lb fish** if they come up and bite on top, though still not framed as gear for a 100-pounder.
+- **Leader — short and heavy for a popper, longer and lighter for a stick bait:** on poppers he runs a **very short leader, 100 lb test, sometimes stepped up to 130 lb** — braid or fluorocarbon, stated as not mattering which, and color doesn't matter either (the fish don't care). **Mechanism for keeping it short:** the leader/main-line knot has to stay outside the rod tip when casting — a knot getting dragged into the tip-top on the cast is called out as a common, avoidable mistake, attributed on camera to Searcher's Capt. Art ("captain Art will always tell you... and trust me art will remind you if you forget"). On a stick bait, he goes **longer and lighter instead** — **3–4 ft instead of 2 ft**, and **60 lb test instead of 100 lb** — reasoned as giving the stick bait room to move naturally in the water; a leader that's too short/heavy for this lure type dampens its action.
+- **Stick bait vs. popper, chosen day to day, not by a fixed rule:** a stick bait (no lip, pointed nose) swims and slides quietly and naturally like a real baitfish; a popper (concave/cupped nose) throws a big splash. Which one the fish want changes trip to trip — his stated approach is to have both rigged and try both rather than predict in advance ("what are they going to want on the day that you go out — I don't know, that's why it's fishing"). **Color doctrine:** on topwater generally, "the color is not that important" — the amount of noise/commotion the lure makes matters more than its finish, corroborating the size/shine-over-color framing already logged above (Rooster Popper, Lead Master Sniper) with a noise-over-color framing specifically.
+- **Hookless popper for continued sport once limited out:** a personal trick — fish a popper with the hooks removed once he's already got his limit (or enough fish) and the bite is still on. Fish still attack and hold onto it "like a bulldog holding onto a bone" for 15–30 seconds; it won't land fish, but keeps the bite going without adding to the box.
 
 ## How to fish it
 
@@ -352,17 +810,26 @@ Cameron's owned plugs (attributed `cameron`; full list in
 ## Linked from
 
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
+- [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
-- [Soft-Plastic Swimbaits](soft-plastic-swimbaits.md)
-- [Surface Iron](../techniques/surface-iron.md)
+- [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](../techniques/panga-team-trolling.md)
+- [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Skip Jigging](../techniques/skip-jigging.md)
+- [Surface Iron — Colour](../techniques/surface-iron-color.md)
+- [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
+- [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

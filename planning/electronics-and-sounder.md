@@ -1,7 +1,7 @@
 ---
 type: planning
 tags: [electronics, sounder, sonar, radar, dsl, garmin, furuno]
-sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI]
+sources: [yLpDI8jnizU, 11npFUPOJKU, yMiBtZ7k8-w, SgF5hRlEGqU, FEXgl0eQCa8, 6DzbsElGE7E, 9hEa3sGTh40, Rf1HKJG-SDg, HGyL7pXy3Ts, cameron, d0yGBQDeY_4, SczdZIq3UmE, uyjTdgIw-1k, nkJNzdNlm_c, -bw1KDfDjv4, 97clKtVsEOs, MUpvP-Yl2R0, i4OB4G6_adI, 8XrMkWPRxgs, bM2vUS1B-yQ, m-M0iwX8DjA, fgTmUq78ofQ, lf3S28nh-kk, ZIJAvAEW_tU, KjVLn4cWHbc, QP6c8vcslVs]
 confidence: high
 ---
 
@@ -77,6 +77,32 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   pays off, and only commit when it grades out. (The bait-shape rule — a solid
   unbroken wall of bait usually has no predators; broken/harried bait does —
   supports the grade; see [bass structure](../locations/bass-structure.md).)
+- **Don't stop at the first meter mark — keep running and stack the picture
+  depth by depth.** Getting a bottom mark isn't itself the stop signal:
+  continue running out while continuing to watch the sounder, logging
+  further marks as the depth changes rather than committing to the first one
+  — worked example: **starting around 20 ft**, a mark on the bottom near the
+  boat, more marks found on working out into **40 ft**, and more again on
+  working out to **60 ft**. Move the boat slowly while doing this. Framed as
+  circumstantial ("assuming there's fish there") rather than confirmed, but as
+  a good way to locate where fish are concentrated before picking a spot to
+  fish (Tackle Express, `KjVLn4cWHbc`, 2026-02-26, and a
+  second, overlapping re-cut of the same on-the-water moment with a slightly
+  longer intro, `QP6c8vcslVs`, 2026-02-19; unregistered channel — the two
+  uploads are the same footage re-cut a week apart, so this is still a single
+  mention for confidence purposes, not independent confirmation — medium
+  confidence). Consistent with the bait-budget grading rule above: this is the
+  search phase that comes before it.
+- **Present to where the mark actually is, not away from it.** (dave-hansen,
+  Your Saltwater Guide, live seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03;
+  registered voice, single mention — medium confidence.) Framed as a mistake
+  he says he watched deckhands make repeatedly running sportboats: told the
+  meter is marking well **directly under the boat at a known depth** (his
+  example: 30 ft down), the angler's instinct is to cast **far away** from
+  the boat instead of presenting right there — putting the bait outside the
+  zone the mark was actually in. The fix is trivial (drop or under-hand flick
+  the bait straight down/near the boat to the marked depth) but easy to miss
+  under the reflex to cast distance.
 - **Set range manually for shallow schools in deep open water.** Working
   tuna schooling under dolphin pods well offshore, set a manual range window
   (e.g. **0–150 ft**) rather than auto — left on auto, the sounder keeps
@@ -90,20 +116,56 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   scenario-specific parameter.
 
 - **Why private boats stay shallow-range, and what the payoff looks like.**
-  Hansen's earliest statement of the manual-range rule (9hEa3sGTh40,
-  2019-08-20) gives the reasoning and the default range: a private boat
-  doesn't have the bait budget to hold and chum a school up from depth the
-  way a sportboat can ("they can look at fish at 30 fathoms and set on it
-  long enough... the fish will come up" — private boats can't sustain that),
-  so there's no point reading anything deeper than the top of the water
-  column. Working range on manual: **0–120 ft on older machines, 0–150 ft on
-  newer ones** — the same range regardless of how deep the actual bottom is
-  (e.g. 209 or 181 fathoms at the offshore banks, see
+  Hansen's earliest *tutorial* statement of the manual-range rule
+  (9hEa3sGTh40, 2019-08-20) gives the reasoning and the default range: a
+  private boat doesn't have the bait budget to hold and chum a school up
+  from depth the way a sportboat can ("they can look at fish at 30 fathoms
+  and set on it long enough... the fish will come up" — private boats can't
+  sustain that), so there's no point reading anything deeper than the top of
+  the water column. Working range on manual: **0–120 ft on older machines,
+  0–150 ft on newer ones** — the same range regardless of how deep the
+  actual bottom is (e.g. 209 or 181 fathoms at the offshore banks, see
   [zone lexicon](../locations/zone-lexicon.md)). The payoff is legibility: at
   that manual range a school of tuna paints as a large, distinct
   upside-down-U-shaped mark; left on auto with the bottom set to the real
   (much deeper) depth, the same school shrinks to a barely visible speck.
+  **Repeated doctrine, now high confidence, and antedated by a live
+  seminar** roughly five months before the tutorial above, with the same
+  bait-budget reasoning and the same 0–150 ft figure: take the sounder off
+  auto and onto manual, and don't read deeper than **0–150 ft**, "because
+  you don't have enough bait to draw fish up from 250 feet down... if you're
+  chumming, you don't carry enough bait, you're just wasting your time." Most
+  of the water fished offshore runs far deeper (he cites ~3,000 ft) than that
+  working window, so a machine left on auto keeps hunting for the real
+  bottom and a 100 lb tuna paints too small to see; on a manual 0–150 ft
+  window the same fish reads as a large, obvious mark. The same seminar also
+  gives the reason most anglers never leave auto in the first place: fear of
+  the machine's buttons, plus units commonly arriving from the dealer/installer
+  pre-set to auto (Capt. Dave Hansen, live seminar, Fred Hall Show 2019,
+  filmed by Utah Spahghettzi Björker, `8XrMkWPRxgs`, 2019-03-12).
 
+- **Why the 0–300 ft bluefin window works — and the mark → GPS mark → troll
+  workflow.** A live-seminar elaboration of the 0–150/0–300 ft manual-range
+  rule above, giving the reasoning rather than just the number: fished at
+  auto over a typical bluefin bottom (he cites **2,000–3,000 ft**), the
+  screen reads zero at the top and the real bottom at the edge, and **10 tons
+  of bluefin sounded through simply doesn't show** — compressed to nothing
+  against that scale. Manually capping the range at **0–300 ft** instead
+  paints them. The stated reason to stop at 300 ft rather than read deeper:
+  fish **below 300 ft are traveling, not biting** — "the last thing they want
+  to do is get in the [ice bag]"; fish holding in the **300 ft-to-surface
+  band** are the ones eager to bite. Hansen's stated reasoning is a half-joking
+  personification, not a claim that warm water drives fish into that band in
+  the first place: he frames the shallow fish as wanting to escape water
+  that's uncomfortably hot where they're already sitting by getting caught —
+  "this water is so hot, we got to get out." Once a
+  mark shows in that shallow band, **hit the GPS unit's mark button**, run
+  past it, turn around, and troll back over the mark with a
+  [Mad Mac](../lures/mad-mac.md) (dave-hansen, Your Saltwater Guide, live
+  seminar, 2024 Fred Hall Show, `m-M0iwX8DjA`, 2024-01-27; registered voice —
+  the core manual-range-for-bluefin rule is repeated/high per the citations
+  above; this specific reasoning and the mark-button-then-troll workflow are a
+  single mention, medium confidence).
 - **Size manual range so the bottom sits mid-screen, not at the edge.**
   Dave Hansen's baseline method: whatever the actual depth, pick a manual
   range that lands the bottom roughly in the middle of the screen rather than
@@ -131,6 +193,56 @@ From the Duane fish-finder video and the Furuno-for-rockfish video:
   reading skill to find suspended fish like tuna. (Dave Hansen, Your
   Saltwater Guide, FEXgl0eQCa8, 2021-05-17; registered voice, single
   mention — medium confidence)
+
+## Searching depth window while running, and sea state limits how shallow you can read (Art Taylor/Mike, SearcherSportfishing, via Turner's Outdoorsman)
+
+**(Art Taylor/Mike, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip Thursday
+Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14; `searcher-sportfishing`
+registered channel — medium confidence, single mention of this specific
+window.)** Asked what depth range a private boat should look through while
+running/searching for bluefin schools: the *Searcher*'s wheelhouse sounder is
+typically run to about **80 fathoms (480 ft)**, watching the whole band from
+the surface down to that depth rather than a narrower window — a deeper
+working range than the 0–150/0–300 ft manual-range doctrine logged above
+(Dave Hansen) for a private boat's lighter bait budget; kept side by side as
+a different platform (sportboat wheelhouse vs. private-boat manual range),
+not reconciled to it.
+
+- **Sea state sets how shallow the sounder can actually read, distinct from
+  the range setting itself:** in **flat conditions** the cone can be shot
+  "right along the surface," reading the full column from the top down. In
+  **choppy/rolly conditions**, the cone has to be shot lower, so a fish
+  holding **high in the column won't show on the meter until the boat is
+  right on top of it** — the same fish that would have painted from a
+  distance on a calm day is invisible until close range once the sea comes
+  up. A mechanism reason to expect the sounder to under-read shallow fish in
+  rough conditions, not a fault in the machine or a range/gain setting to
+  fix.
+
+- **Where that shallow-read limitation traces to hardware: a fixed vs.
+  gyro-stabilized transducer.** In 2010 the *Searcher* replaced its Westar
+  scanning sonar with a Furuno CH250 gyro/roll-stabilized unit specifically to
+  address this: the old Westar's transducer was fixed and simply followed the
+  boat's motion, so in chop the cone tipped away from vertical as the boat
+  rolled and shallow, close-to-surface fish went unmarked — "we won't miss
+  fish like we have in the past." The replacement's transducer stays aimed
+  down regardless of how much the boat rolls or pitches. Crew reasoning for
+  why that should matter on the water (deckhand identified on camera only as
+  "Kenny," full name not given): without stabilization, a rolling boat in
+  rough weather returns "annoying air" (aerated-water noise) that swamps the
+  signal, so a fixed transducer effectively has you "looking for birds
+  through the bottom of the ocean from under the boat" instead of a clean
+  fish mark; the stabilized unit was expected to keep the boat "more in the
+  zone where the fish are" and make it more efficient at finding fish in
+  rough weather (SearcherSportfishing, "new sonar," `ZIJAvAEW_tU`,
+  2010-06-01; registered channel, single mention, speakers not fully
+  identified — medium confidence on the mechanism, low on the specific
+  product praise per the sponsored-claim rule). Carried here as the
+  equipment-generation reasoning behind the sea-state limitation above — not
+  a claim that stabilization fully eliminates it: the more recent (2021)
+  Searcher doctrine above still describes sea state limiting how shallow the
+  sounder can read, so the two are kept side by side rather than treated as
+  resolved by this 2010 upgrade.
 
 ## Anchor vs. drift call off a live sounder read
 
@@ -189,6 +301,25 @@ worth working. A further break-reading demo of the same
 temperature-differential-over-absolute-number doctrine in
 [water temperature](../conditions/water-temperature.md), on the same
 Simrad chartplotter product line as the Mission Bay demo above.
+
+## Manually tracking a temperature break when satellite SST isn't available (SearcherSportfishing, "Tackle Talk Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing` registered channel — medium confidence, single mention)
+
+A fallback/supplement to the chartplotter SST overlays above, for running at
+night or on a cloudy day when a usable satellite SST map isn't available:
+
+- **Download an SST map before leaving the dock, and pull a fresh one
+  during the trip when conditions allow** — the same downloaded-map
+  practice as the chartplotter overlays above, stated here as
+  condition-dependent (a cloudy day can leave no usable map to download).
+- **Tuna are associated with temperature breaks/changes** — the stated
+  reason SST/temperature reading matters at all, consistent with this
+  section's existing break-not-absolute-number doctrine.
+- **While running at night, watch the boat's water-temperature gauge
+  directly and note when it changes**, rather than relying only on a
+  downloaded map. Framed as a way to find a break that either wasn't on the
+  satellite SST map, or that a cloudy day left no map to download in the
+  first place — a manual, visual backstop to the chartplotter-overlay method
+  above rather than a replacement for it.
 
 ## Buoy overlay for wave height/period, plus AIS and structure-scan chatter
 
@@ -344,20 +475,22 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](fleet-intelligence.md)
+- [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
-- [Surface Iron](../techniques/surface-iron.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
-- [Water Temperature](../conditions/water-temperature.md)
+- [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

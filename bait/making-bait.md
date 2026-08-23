@@ -1,8 +1,10 @@
 ---
 type: bait
-tags: [live-bait, sabiki, mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point]
-sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c]
+tags: [live-bait, sabiki, mackerel, jack-mackerel, sardine, cast-net, coronado-islands, la-jolla, bola, sea-of-cortez, baja, bait-barge, dana-point, squid, long-range-trip]
+sources: [cameron, dEPuDrhoClM, M8hOYQ_6rSg, 7WapaxdtjQg, 5FzBwvMtRP8, QSmE3mdEL28, ORC1A68cEeM, 92y14x33etQ, 0dIwWiOc1NY, A6DJoXbID4c, bM2vUS1B-yQ, cx7tKXHmiY4, eLFVhVyyOTw]
 confidence: high
+regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
+waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 ---
 
 # Making Bait
@@ -44,6 +46,13 @@ above; how you handle it affects both your wait and your bait quality:
   load around 6:00 a.m., which is when the barge lines up. Arriving at
   **5:00 a.m.** or **7:00 a.m.** (or loading mid-day) instead avoids the
   line entirely.
+  **Corroborated, earlier-still option added (same presenter, live seminar,
+  PCS Show, `bM2vUS1B-yQ`, 2023-03-03; registered voice, repeated doctrine —
+  high confidence on the core avoid-the-rush rule):** names the rush as
+  charter, half-day, **and** 3/4-day boats all converging by 6:00 a.m., with
+  a line already forming by a quarter to six; states his own target as **"at
+  least five o'clock in the morning, if not four thirty."** A tighter/earlier
+  version of the same 5:00 a.m. option above, not a conflicting number.
 
 ## Sabiki work (mackerel)
 
@@ -59,6 +68,44 @@ program:
 Twelve-inch mackerel are big, hearty baits — heartier than sardine (see
 [fishing live bait](fishing-live-bait.md) for how bait choice plays against the
 gamefish).
+
+## Long-range trip prep — pack more than one bait-catching rig (Searcher Sportfishing, Tackle Tip Thursday Vol. 25, `cx7tKXHmiY4`, 2018-11-30; searcher-sportfishing registered, single mention — medium confidence)
+
+Framed for **3-to-10-day trips** (long-range, multi-day sportboat trips), the
+stated reason to carry your own bait-catching gear even on a boat trip where
+bait is normally supplied: at some point on a trip that long you may need to
+**supplement the boat's bait supply yourself**, and being unprepared to help
+make bait is called out on camera as a bad look ("you don't want to be that
+guy that doesn't help"). Pack:
+
+- A standard multi-hook rig — captions read **"cebiche rake"**, which does not
+  match any known rig name; it is very likely an ASR mishearing of **sabiki**
+  (flagged `asr-uncertain`) — rigged with **four or five flies**, **medium
+  size**, for **larger mackerel**.
+- A **smaller** rig of the same style for **other/smaller mackerel** species.
+- A weighted **squid jig** (captions garbled the brand/model as **"way to
+  close squid jig"** — not confirmed, flagged `asr-uncertain`) in case the
+  trip calls for making squid at some point along the way.
+
+No hook-line ratings, sinker weights, or exact rig names are given (this is
+a packing tip, not a rig spec) — it pairs with the Sea of Cortez sabiki
+line/hook ratings and the Cedros small-vs-big sizing question above: carrying
+both a medium and a small rig sidesteps having to guess in advance which size
+a given multi-day trip will call for.
+
+### Light vs. heavy sabiki — the stated reason to carry both (Searcher Sportfishing, Tackle Tip Thursday Vol. 206, `eLFVhVyyOTw`, 2022-11-24; Logan Watson, on camera; searcher-sportfishing registered, single mention on this specific reasoning — medium confidence)
+
+Gives the on-camera reason behind the "pack more than one rig" tip above,
+using the same **light-rig / heavy-rig** framing: carry both a **light
+sabiki** and a **heavier sabiki** on a long-range trip because the bait
+species get bigger as the trip runs longer, specifically **jack mackerel**
+(captioned "gad mackerel" — almost certainly an ASR mishearing of jack
+mackerel; flagged `asr-uncertain`) running **up to 2–3 lb each**. A loaded
+string of **five** jack mackerel on one drop is enough to **break the light
+sabiki off outright**, which is the stated reason to have the heavier sabiki
+staged as backup once bait size ramps up on the longer trips. Stated
+takeaway: keep the heavy sabiki in the long-range tackle bag alongside the
+light one.
 
 ## Lucky Joe rig — bait the hooks, and mackerel beats sardine for holding
 
@@ -122,7 +169,7 @@ snap a light sabiki instantly**):
   the next day, including for bottom fishing when the target switches to
   cabrilla/grouper.
 
-(Ray Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; unregistered channel —
+(Ray Sharifi, Dirty Hookers, dEPuDrhoClM, 2023-03-03; `ray-sharifi` registered 2026-08-17 (**Baja-scoped**, so eligible to lift), single mention —
 medium confidence; region: Baja, Sea of Cortez.)
 
 ### Sabiki quality/durability (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention — `medium` confidence; region: Baja, Sea of Cortez)
@@ -216,9 +263,11 @@ shortages, where the barge isn't an option.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](bait-tanks.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
+- [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

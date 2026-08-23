@@ -43,6 +43,14 @@ DELETION_EXEMPT = {
 }
 TRAILER = "Batch2-Guard: revert-of"
 
+# The guard exists to constrain the UNATTENDED extractor — the thing with no
+# human reading its diffs. Applying it to supervised session commits made it
+# revert reviewed work after it had already been pushed (it ate the Bight
+# Watch generator and its own commit-video.py branch fix). The sweep now
+# polices only commits authored by the pipeline identity; anything else had a
+# person in the loop and is not the sweep's business.
+PIPELINE_AUTHORS = {"41898282+claude[bot]@users.noreply.github.com"}
+
 
 def git(*args: str, check: bool = True) -> str:
     r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
@@ -56,25 +64,59 @@ def is_protected(path: str) -> bool:
 
 
 def violations(sha: str) -> list[str]:
+    """Mechanical checks on one commit.
+
+    Two batch-3 corrections (Cameron's correction C1 made note-splitting a
+    goal, and the old rule structurally forbade it):
+
+    1. The deletion test used to run against `path`, which for a rename is the
+       composite "old => new" string. A rename plus a large deletion therefore
+       slipped through. It now tests the DESTINATION side.
+    2. The deletion test counted deletions with no reference to additions, so
+       moving 200 lines out of a mega-note into a new specific note read as
+       vandalism. It is now net-aware: a per-file deletion is only a problem
+       when it is not offset within the file AND the commit as a whole is
+       net-destructive. A split lands content elsewhere in the same commit, so
+       it passes; a genuine mass deletion does not.
+    """
     out = git("show", "-m", "--first-parent", "--numstat", "--format=", sha)
-    probs = []
+    probs: list[str] = []
+    rows: list[tuple[int, int, str]] = []
+    total_added = total_deleted = 0
+
     for line in out.splitlines():
         parts = line.split("\t")
         if len(parts) != 3:
             continue
         added, deleted, path = parts
-        # rename syntax "old => new" — check both sides
-        for p in re.split(r"\s=>\s", path.replace("{", "").replace("}", "")):
-            p = p.strip()
-            if not p:
-                continue
-            if is_protected(p):
-                probs.append(f"protected path touched: {p}")
-        if (path.endswith(".md") and not path.startswith("sources/transcripts/")
-                and path not in DELETION_EXEMPT
-                and os.path.basename(path) != "README.md"
-                and deleted.isdigit() and int(deleted) > 10):
-            probs.append(f"deleted {deleted} lines from curated note: {path}")
+        # rename syntax "old => new" — protected check applies to BOTH sides
+        sides = [s.strip() for s in
+                 re.split(r"\s=>\s", path.replace("{", "").replace("}", ""))
+                 if s.strip()]
+        for s in sides:
+            if is_protected(s):
+                probs.append(f"protected path touched: {s}")
+        dest = sides[-1] if sides else path
+        a = int(added) if added.isdigit() else 0
+        d = int(deleted) if deleted.isdigit() else 0
+        total_added += a
+        total_deleted += d
+        rows.append((a, d, dest))
+
+    # A net-positive/net-neutral commit means content moved, not vanished.
+    net_destructive = total_deleted > total_added
+
+    for a, d, dest in rows:
+        if not (dest.endswith(".md")
+                and not dest.startswith("sources/transcripts/")
+                and dest not in DELETION_EXEMPT
+                and os.path.basename(dest) != "README.md"):
+            continue
+        if d > 10 and (d - a) > 10 and net_destructive:
+            probs.append(
+                f"deleted {d} lines (added {a}) from curated note: {dest} "
+                f"— commit is net-destructive ({total_deleted} deleted vs "
+                f"{total_added} added)")
     return probs
 
 
@@ -86,6 +128,27 @@ def append_escalation(video_id: str, etype: str, reason: str) -> None:
         fh.write(f"\n## {ts} — {video_id} — {etype}\n- run: {run}\n- reason: {reason}\n")
 
 
+RESULT_MAX = 600
+
+
+def _fit(s: str, limit: int = RESULT_MAX) -> str:
+    """Trim a worklist result cell to `limit`, on a word boundary, marked.
+
+    The old cap was a bare [:200], which cut mid-word and left rows reading as
+    though the pipeline had crashed ("...the only calico-specif"). Truncating
+    visibly means a reader can tell the difference between a short result and
+    a clipped one.
+    """
+    s = s.strip()
+    if len(s) <= limit:
+        return s
+    cut = s[: limit - 1]
+    sp = cut.rfind(" ")
+    if sp > limit * 0.6:  # only back up to a space if it isn't a huge loss
+        cut = cut[:sp]
+    return cut.rstrip(" ,;:-") + "…"
+
+
 def set_row_status(video_id: str, status: str, result: str) -> bool:
     log = ROOT / "sources" / "extraction-log.md"
     text = log.read_text(encoding="utf-8")
@@ -93,7 +156,7 @@ def set_row_status(video_id: str, status: str, result: str) -> bool:
     m = pat.search(text)
     if not m:
         return False
-    clean = result.replace("|", "/").replace("\n", " ")[:200]
+    clean = _fit(result.replace("|", "/").replace("\n", " "))
     new = f"| {video_id} | {m.group(1)}| {m.group(2)}| {m.group(3)}| {status} | {clean} |"
     log.write_text(text[: m.start()] + new + text[m.end():], encoding="utf-8")
     return True
@@ -125,6 +188,8 @@ def cmd_sweep(base: str) -> int:
         body = git("log", "-1", "--format=%B", s)
         if TRAILER in body or s in reverted_targets or any(s.startswith(t) or t.startswith(s) for t in reverted_targets):
             continue
+        if git("log", "-1", "--format=%ae", s).strip() not in PIPELINE_AUTHORS:
+            continue  # supervised commit — see PIPELINE_AUTHORS
         probs = violations(s)
         if not probs:
             continue

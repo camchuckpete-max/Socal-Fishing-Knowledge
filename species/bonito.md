@@ -3,6 +3,8 @@ type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
 sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY, oXunQKSbc2g]
 confidence: medium
+regions: [socal-bight, baja-pacific-north]
+waters: [nearshore-coast, island, bay-harbor]
 ---
 
 # Pacific Bonito
@@ -148,24 +150,13 @@ rather than a dedicated technique study.
 <!-- backlinks:start -->
 ## Linked from
 
-- [August](../seasonal/august.md)
-- [Bass Structure](../locations/bass-structure.md)
-- [Bird Reading](../conditions/bird-reading.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Cedros Island](../locations/cedros-island.md)
 - [Flyline](../techniques/flyline.md)
-- [Foamer Casting](../techniques/foamer-casting.md)
-- [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)
-- [Kelp Paddies](../conditions/kelp-paddies.md)
-- [May](../seasonal/may.md)
-- [November–December](../seasonal/november-december.md)
-- [October](../seasonal/october.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
-- [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

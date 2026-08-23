@@ -1,8 +1,10 @@
 ---
 type: technique
 tags: [hoop-net, spiny-lobster, nighttime, rocky-structure, buoy-rigging, prop-safety]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY, Ow3an9lSVh4]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, EiItVWqFMYc, cEscIy278ew, YQsbwfQ4wzY, Ow3an9lSVh4, AH4Eiya1Hn0, Q196GVwVqro]
 confidence: medium
+regions: [socal-bight]
+waters: [nearshore-coast, island]
 ---
 
 # Hoop Netting
@@ -13,7 +15,7 @@ and reset to cover ground. Primary doctrine source is the BD spiny-lobster tips
 video; the buoy/rope build and retrieval mechanics below add Capt. Scotty
 (Brothers Sportfishing, La Jolla — registered voice, high confidence, presenter
 inferred from the demo handoff) and Roman Castro's own line-management insert
-(unregistered channel, caps at medium), Qs9oEsh3b_w, 2020-10-17, San Diego /
+(`roman-castro` registered, single mention — medium confidence), Qs9oEsh3b_w, 2020-10-17, San Diego /
 Mission Bay; the soak/pull cadence and short-lobster handling below add
 dave-hansen (Your Saltwater Guide, registered voice), EiItVWqFMYc, 2021-01-05,
 Catalina/SoCal general; the boat-approach/prop-safety mechanics below add a
@@ -82,9 +84,9 @@ a **working section sized to the home spot's typical depth** (Scotty's example:
 roughly **25–35 ft of water**) plus a separate **extension/"rope shot" section**
 (the remainder, ~60–65 ft) kept spare for occasional deeper drops (his example:
 a hot crawl reported in **San Diego Bay** as deep as **~55 ft**). Join the two
-with a loop-to-loop connection (perfection loop on each end, fed through and
-drawn tight) so the extra length can be added or left off in the field without
-recutting rope. Judgment: carrying the full 100 ft rigged all the time is
+with a loop-to-loop connection ([perfection loop](../rigging/perfection-loop-knot.md)
+on each end, fed through and drawn tight) so the extra length can be added or
+left off in the field without recutting rope. Judgment: carrying the full 100 ft rigged all the time is
 "pointless" and "gets in the way" when the home spot doesn't need it — size the
 main rig to the water you actually fish, keep the rest as a quick-add shot.
 Excess rope left hanging also matters for prop safety — see line management
@@ -111,6 +113,39 @@ below.
   but a hassle to source/handle, and — unlike anchovies/sardines — a
   particular sea-lion draw; weighed against the DIY bait-tube approach below,
   which he now runs instead.
+
+### Updated bait ranking and mechanism — fresh sardines over everything else (Capt. Dave Hansen, Your Saltwater Guide, live seminar, 2024 PCS Show, `AH4Eiya1Hn0`, 2024-03-09)
+
+Subscription-site-pitch/trade-show sponsor-booth context — **low** confidence
+per the [source registry](../sources/source-registry.md), even though this
+repeats and sharpens the freshness doctrine already logged above from the
+same speaker:
+
+- **Fresh (never frozen/defrosted) sardines ranked the clear best bait**,
+  ahead of anchovies and any other bait — sourced same-trip from the bait
+  barge, cut into slices or run through a grinder/processor (transcribed
+  "trummer," asr-uncertain), and packed into a
+  bait tube (named on camera as a **Promar "SealProof" bait tube** — a
+  sponsor-booth product mention at this trade-show seminar; the product name
+  itself is promotional and lower-confidence than the freshness point, which
+  it sits alongside). If sardines genuinely can't be had, his fallback is
+  **fresh mackerel bought at a fish market** — still fresh, never frozen bait
+  of any kind.
+- **Do not use fish scent, fish oil, or "fish pills."** Stated reasoning: a
+  scent poured onto bait dissipates into the water column almost immediately,
+  so within moments it isn't what's actually drawing lobsters in — the fresh
+  bait itself, still breaking down and giving off its own signal, is doing
+  the work, and a bottled additive on top of it adds nothing.
+- **Do not use salmon heads** — repeats his prior on-camera stance (see
+  "Salmon heads work but are a liability" above) that salmon heads are a
+  particular sea-lion draw.
+- **Mechanism restated with a named source:** he attributes the
+  antennae-reads-the-bait's-electrical-field explanation (already logged
+  above) to a marine biologist he worked with while running a research boat
+  for the **Aquarium of the Pacific, Long Beach** — describing the antennae
+  as functioning like a "divining rod" for the electrical field a bait gives
+  off as it starts to break down and die. Same mechanism already logged
+  above, now with the source of the explanation named.
 
 ### Bait cage choice by sea-lion pressure (Scotty, Qs9oEsh3b_w)
 
@@ -170,8 +205,8 @@ below.
 
 When a net is rigged for a given depth (e.g., ~30 ft) but the actual drop is
 shallower (e.g., ~10 ft), the leftover rope would otherwise float around loose
-near the surface — a tangle and prop hazard. Judgment/procedure (medium
-confidence, single-source, unregistered channel): drop the net and let it sink
+near the surface — a tangle and prop hazard. Judgment/procedure (`roman-castro` registered 2026-08-17, single source —
+medium confidence): drop the net and let it sink
 with the main line held, take up slack until you feel it go taut on the
 bottom, then tie an **overhand loop** a couple feet past that taut point (easy
 to untie in the field — just push the bight through). Coil the remaining slack
@@ -250,6 +285,19 @@ the earlier one.
   climb out during the lull. Doesn't need to be fast (no need to gas yourself
   out) — just unbroken.
 
+**Observed — a possible U.S.-record lobster lost to stopping mid-pull**
+(Justin Botril, B-Line Sport Fishing, Long Beach Harbor, live hoop-netting
+stream recapped at Your Saltwater Guide's 2024 PCS Show seminar, `Q196GVwVqro`,
+2024-03-07; unregistered speaker/channel — medium confidence): recounted on
+camera as a lobster "hovering over the side" of the boat mid-retrieval,
+already too big to pass through the ring of a **36 in hoop net** — by the time
+it was visible, the whole net appeared "filled with whiskers." A crew member
+stopped pulling and reached down to grab it by hand instead of continuing the
+pull; the lobster slipped free and was lost over the rail, framed on camera as
+a possible U.S.-record loss. The rule drawn from the same telling matches
+Scotty's retrieval doctrine above verbatim: **"don't ever stop pulling the
+rope... only stop when it's in the boat."**
+
 ### Boat approach and prop safety (dave-hansen, Your Saltwater Guide, cEscIy278ew, 2020-11-13)
 
 High-confidence, registered voice, non-sponsored tutorial. Stated as a fixed
@@ -327,6 +375,5 @@ gear) are also on the species note.
 ## Linked from
 
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Search and Glassing](../planning/search-and-glassing.md)
+- [Perfection Loop Knot — Sliding-Loop Hook Tie](../rigging/perfection-loop-knot.md)
 <!-- backlinks:end -->

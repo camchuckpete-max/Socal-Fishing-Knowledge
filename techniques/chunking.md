@@ -1,8 +1,10 @@
 ---
 type: technique
 tags: [chunking, chum, live-bait, dorado, tuna, anchor, structure, squid, kelp, calico-bass, artificial-reef, light-line, sargo, sheephead, inshore, drift]
-sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4]
+sources: [E4vKwRaRueA, yKaHcxX46l4, RXNebDr4j7s, f4qYtHACGyk, BdRX4b8Fo5w, qv0QbLgp72o, xI9tPJFXbUM, zwNEhWtnBCE, KCcEqHSZ84k, eNcltRh-shc, e16i7zKq1FY, uyjTdgIw-1k, Ow3an9lSVh4, JK2-cpaXkI8, bM2vUS1B-yQ, NJ9ZLAU3sls]
 confidence: high
+regions: [socal-bight, baja-pacific-north]
+waters: [open-ocean, bank]
 ---
 
 # Chunking
@@ -21,6 +23,9 @@ and why they've shut off are the routers:
   competing again. See [dorado](../species/dorado.md).
 - **Tuna at anchor or on a drift** where a live-bait flyline alone isn't drawing
   them up. See [bluefin tuna](../species/bluefin-tuna.md).
+- **Guadalupe Island, Baja big tuna** that are hungry and indiscriminate — see
+  below; tackle for this application is in
+  [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
 
 ## Building the chum line
 
@@ -38,6 +43,22 @@ and why they've shut off are the routers:
   drag that makes it fall unnaturally or hang in the column gives it away.
 - Feed line as the drift takes it; a chunk that behaves exactly like the others
   is the one that gets eaten.
+
+## Guadalupe Island big tuna — a natural-falling chunk is "the secret" (SearcherSportfishing, "Tackle Tip Thursday Vol. 68 (Chunking)," `NJ9ZLAU3sls`, 2019-10-03; unregistered channel, speaker not named on camera — medium confidence)
+
+Framed as a Guadalupe Island, Baja (baja-pacific-north) tip: big tuna there are
+described as "very indiscriminate" when hungry — they'll take a chunk of
+mackerel or "a chunk of something else" readily. Species is not named on
+camera beyond "tuna"; grade is called out at **100, 120, 130, and 140 lb**.
+
+- **The stated secret:** when letting the chunk out, **strip line so it's
+  sinking naturally, as if there's nothing attached to it** — the same
+  match-the-fall principle in "Drifting the hook bait" above, restated here as
+  this presenter's own explicit "secret" for Guadalupe's big tuna.
+- Full reel/line/rod/hook/swivel tackle from the same clip (Penn
+  International 16VISX, 100 lb braid, 60–130 rod, "a nice big hook that'll
+  hold them," optional swivel) is logged in
+  [Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md).
 
 ## On a paddy (dorado wake-up)
 
@@ -106,6 +127,22 @@ side rather than reconciled (see the flag below).
 - Tie-up point scales with comfort — "as far up the side as you feel most
   comfortable" — with the bow given as this presenter's personal default.
 
+**Sink-timing elaboration, named reef and depth (same presenter, live
+seminar, PCS Show, `bM2vUS1B-yQ`, 2023-03-03; registered voice, single
+mention — medium confidence):** worked example at the Pendleton artificial
+reef, fished around **35–40 ft** of water, chum bucket loaded with ground-up
+sardines, mackerel, or anchovies, tied off the bow. Stated timing: by the
+time the chum's plume is visible in the water it's already sunk **3–4 ft**,
+and the whole trip from bow to stern happens faster than a person can walk
+the same distance on deck — offered as the reason a bow-tied bucket on a
+mid-length boat reaches full fishing depth by the time it drifts back under
+the anglers at the stern, not just "roughly the middle" as stated above.
+Paired with a hooked-weight caution: dropping bait on a heavier weight
+straight down past a mark spooks the fish holding at that depth ("what was
+that... let's keep eating the chum"); a small weight flicked off the bow and
+allowed to settle on the way back to the stern reaches the fish already
+moving naturally with the chum instead of falling through them.
+
 ## Kelp-bed sequencing — chum the spot, then anchor up-current and back down onto it (presenter inferred as Dave Hansen, Your Saltwater Guide, RXNebDr4j7s, 2022-02-13; medium confidence — single mention, on-the-water footage)
 
 On a kelp edge with current running parallel down the coast, the anchoring
@@ -155,6 +192,16 @@ framing and the extended catch list below are this video's own addition
   catching sargo up to **5–6 lb**, big white seabass, big sheephead, and
   calico bass this way, and even yellowtail off an artificial reef using this
   exact chum method.
+- **Origin and species mix (same presenter, live seminar, PCS Show,
+  `bM2vUS1B-yQ`, 2023-03-03; registered voice, single mention — medium
+  confidence):** frames the SoCal artificial-reef system itself as having
+  been built specifically for sport fishermen, in the 1950s–70s, funded by
+  sportfishing money rather than a commercial-fishing program (a name given
+  on camera for one of the reef-fund contributors is too garbled to carry
+  here — asr-uncertain). Names the species mix as **calico bass, sand bass,
+  halibut, white seabass, a range of rockfish, sculpin, and sargo** — sand
+  bass, halibut, rockfish, and sculpin extend the species list logged above
+  from this same reef-chumming doctrine.
 - **Generalized beyond artificial reefs (dave-hansen, Your Saltwater Guide,
   BdRX4b8Fo5w, 2021-02-04; registered voice — repeated doctrine, high):**
   the same prey-density mechanism stated as a general SoCal principle, not
@@ -175,6 +222,27 @@ framing and the extended catch list below are this video's own addition
   chum slick and on calico bass working a piece of bait around a kelp string.
   Hansen still fishes big bait on the hook itself; it's the traveled/thrown
   chum bait he sizes small specifically to maximize density.
+
+## Chum tube — a churn device sized for a bait-limited private boat (Dave Hansen, Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; dave-hansen registered voice — repeated doctrine on prey density, high; the device mechanics themselves, single mention, medium)
+
+Framed explicitly against sportboat-scale bait: a sportboat can carry dozens of
+scoops of live bait, but a private 6-pack or personal boat (his examples: a Sea
+Swirl, a Boston Whaler) can't, so raising the prey-density level (the mechanism
+above, `BdRX4b8Fo5w`) has to come from a device that stretches a small bait
+supply instead of from sheer volume.
+
+- **The device:** a tube loaded with cut sardines, anchovies, squid, or
+  mackerel — whatever's on hand — with an internal plunger/chopper worked up
+  and down. The chopper smashes the bait inside the tube; the crushed bait
+  works its way out through small holes cut around the tube, feeding a
+  continuous scent/particle trail into the water at anchor rather than one big
+  dump over the side.
+- **Why a small boat needs it specifically:** it converts a limited amount of
+  cut bait into the same sustained prey-density effect the doctrine above
+  describes, without needing the 30–40-scoop bait supply a sportboat carries.
+- Fished the same way as the anchored-chumming entries above — alongside a
+  live-bait flyline at anchor over structure — to draw fish up onto the
+  presented baits.
 
 ## Light-line finesse rig — pressured, shallow reef fish (Dave Hansen, Your Saltwater Guide, f4qYtHACGyk, 2020-11-07; registered voice, single mention — medium confidence)
 
@@ -270,14 +338,11 @@ fish around the boat once you're on them.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bait Tanks](../bait/bait-tanks.md)
-- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
 <!-- backlinks:end -->
