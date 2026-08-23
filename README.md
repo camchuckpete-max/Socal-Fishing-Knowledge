@@ -36,6 +36,7 @@ and conditions from there.
 | [planning/](planning/README.md) | Day-plan protocol, search & glassing, electronics |
 | [profiles/](profiles/README.md) | Per-user boat, rods, tackle, lures, spots |
 | [sources/](sources/README.md) | Raw transcripts, input docs, extraction log |
+| [templates/](templates/README.md) | The layout spec (v2) — per-type article skeletons + the style guide every note follows |
 | [config/](config/README.md) | Runtime config the distributed skill reads at plan time — conditions endpoints, fallback ladder, source-validity rules |
 | [skills/](skills/README.md) | Deployable skills — `socal-boat-day` (distributed, fetches the KB live) and `boat-day` (earlier bundled design) |
 | [scripts/](scripts/README.md) | `link-maintenance.py`, `build-skill-resources.py` |

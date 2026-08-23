@@ -10,7 +10,10 @@ It does four things:
       dead link, WITHOUT writing anything (no partial regeneration). Links
       inside fenced code blocks and inline code spans are ignored everywhere
       (validation, backlinks, mermaid); `tests/link-fixture.md` exercises this
-      and must always pass;
+      and must always pass. Region gating (a2) and the v2 layout contract
+      (a3 — section skeletons, infobox fields, evidence pairing, per
+      scripts/note_schema.py; opt-in via front-matter `layout: v2`) validate
+      under the same all-or-nothing rule;
   (b) regenerates each note's `## Linked from` backlinks section idempotently
       between <!-- backlinks:start --> / <!-- backlinks:end --> markers;
   (c) regenerates each directory's README.md index between
@@ -32,6 +35,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 MERMAID_NODE_CAP = 30
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import note_schema  # noqa: E402  (same directory; the v2 layout schema)
 
 # Files never processed at all (raw inputs + top-level spec doc).
 EXCLUDE_FULL = {
@@ -57,6 +63,12 @@ VALIDATE_ONLY = {
     ROOT / "skills" / "socal-boat-day" / "references" / "offline-fallback.md",
     ROOT / "skills" / "socal-boat-day" / "references" / "setup.md",
     ROOT / "skills" / "socal-boat-day" / "references" / "tackle-onboarding.md",
+}
+# Directories whose markdown is validated for links but which are spec, not
+# notes: no backlinks block, not indexed, never a backlink source, README
+# hand-authored. The layout spec lives here — see templates/README.md.
+VALIDATE_ONLY_DIRS = {
+    ROOT / "templates",
 }
 # Notes that are indexed and validated normally but never receive a generated
 # backlinks block. The registry is a trust table every note may legitimately
@@ -110,6 +122,12 @@ def is_excluded(path: Path) -> bool:
         if d in path.parents:
             return True
     return False
+
+
+def is_validate_only(path: Path) -> bool:
+    if path in VALIDATE_ONLY:
+        return True
+    return any(d in path.parents for d in VALIDATE_ONLY_DIRS)
 
 
 def all_markdown() -> list[Path]:
@@ -244,6 +262,53 @@ def region_badge(path: Path) -> str:
     return ""
 
 
+def layout_problems(path: Path) -> list[str]:
+    """Validate the v2 layout contract (see templates/ + scripts/note_schema.py).
+
+    Applies ONLY to notes carrying `layout: v2` in front matter, plus every
+    `type: evidence` file — notes not yet migrated by the editorial review are
+    untouched, so the tree stays green mid-migration. Checks: required-section
+    presence and relative order, per-type infobox fields, path-valued front
+    matter resolving (`parent`, `parent_zone`), and evidence pairing in both
+    directions.
+    """
+    text = path.read_text(encoding="utf-8")
+    m = FM_TYPE_RE.search(text)
+    ntype = m.group(1) if m else ""
+    is_v2 = note_schema.layout_of(text) == note_schema.LAYOUT_CURRENT
+    if ntype != "evidence" and not is_v2:
+        return []
+    problems = note_schema.infobox_problems(ntype, text)
+    for key in note_schema.PATH_FIELDS:
+        val = note_schema.fm_value(text, key)
+        if val and val != "unknown":
+            if not (path.parent / val).resolve().exists():
+                problems.append(f"front-matter `{key}: {val}` does not resolve")
+    if ntype == "evidence":
+        if path.parent.name != "evidence":
+            problems.append("`type: evidence` outside an evidence/ directory")
+        parent_val = note_schema.fm_value(text, "parent")
+        if parent_val:
+            parent_path = (path.parent / parent_val).resolve()
+            if (parent_path.exists()
+                    and f"evidence/{path.name}"
+                    not in parent_path.read_text(encoding="utf-8")):
+                problems.append(
+                    f"parent note {parent_val} does not link this evidence file")
+    else:
+        problems += note_schema.section_problems(
+            ntype, strip_code(strip_front_matter(text)))
+        ev = path.parent / "evidence" / path.name
+        if ev.exists():
+            if not re.search(r"^## Evidence\b", text, re.M):
+                problems.append(
+                    "has an evidence file but no `## Evidence` section")
+            elif f"evidence/{path.name}" not in text:
+                problems.append(
+                    f"`## Evidence` section does not link evidence/{path.name}")
+    return problems
+
+
 def strip_backlinks_block(text: str) -> str:
     """Remove the generated '## Linked from' block.
 
@@ -302,7 +367,7 @@ def main() -> int:
     note_files = [
         p
         for p in md_files
-        if p.name != "README.md" and p != extraction_log and p not in VALIDATE_ONLY
+        if p.name != "README.md" and p != extraction_log and not is_validate_only(p)
     ]
 
     # ---- (a) validate links FIRST + build note->note graph ----
@@ -336,6 +401,21 @@ def main() -> int:
         print(
             f"\n{len(set(region_bad))} region-gating problem(s). Nothing was "
             f"written. See locations/regions.md for the vocabulary.",
+            file=sys.stderr)
+        return 1
+
+    # ---- (a3) validate the v2 layout contract, same all-or-nothing rule ----
+    layout_bad: list[str] = []
+    for n in note_files:
+        for prob in layout_problems(n):
+            layout_bad.append(f"{n.relative_to(ROOT)}: {prob}")
+    if layout_bad:
+        print("LAYOUT (v2):", file=sys.stderr)
+        for l_ in sorted(set(layout_bad)):
+            print(f"  {l_}", file=sys.stderr)
+        print(
+            f"\n{len(set(layout_bad))} layout problem(s). Nothing was written. "
+            f"See templates/ for the per-type skeletons.",
             file=sys.stderr)
         return 1
 
@@ -480,7 +560,11 @@ def main() -> int:
     NOTE_LINES, SECTION_LINES = 400, 120
     long_notes, long_sections = [], []
     for f in note_files:
-        lines = f.read_text(encoding="utf-8").splitlines()
+        text = f.read_text(encoding="utf-8")
+        tm = FM_TYPE_RE.search(text)
+        if tm and tm.group(1) == "evidence":
+            continue  # the provenance layer may legitimately run long
+        lines = text.splitlines()
         if len(lines) > NOTE_LINES:
             long_notes.append((len(lines), str(f.relative_to(ROOT))))
         head, start = None, 0

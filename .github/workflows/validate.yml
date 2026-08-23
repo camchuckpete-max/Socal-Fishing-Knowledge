@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Unit tests
+        run: python tests/test_link_maintenance.py
+
       - name: Link maintenance (must pass and be idempotent)
         run: |
           python scripts/link-maintenance.py

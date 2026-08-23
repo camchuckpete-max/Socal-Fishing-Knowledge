@@ -17,7 +17,9 @@ Hard-fails (nonzero exit, no output) when the tree violates the publishing
 contract: a listed folder is missing, a note lacks the four required
 front-matter keys, or a nested subdirectory appears inside a published folder
 (routes are exactly folder/note deep — restructure deliberately, then extend
-this script and the site's routes together).
+this script and the site's routes together). Exception: `evidence/` subdirs
+(the per-note provenance layer, templates/evidence.md) are skipped — they are
+deliberately unpublished.
 
 Output is deterministic for a given tree + HEAD: notes sorted by path, stable
 key order. Only `synced_at` varies between runs on the same commit.
@@ -178,6 +180,12 @@ def main() -> int:
             )
             continue
         for sub in sorted(p for p in fdir.iterdir() if p.is_dir()):
+            if sub.name == "evidence":
+                # The provenance layer from the 2026-08 editorial review
+                # (templates/evidence.md): per-note trip reports + source
+                # detail. Deliberately NOT published — site routes stay
+                # folder/note deep; an evidence route is a separate project.
+                continue
             errors.append(
                 f"{folder}/{sub.name}/: nested directories are not part of the "
                 "site's folder/note route contract — extend export-site-index.py "

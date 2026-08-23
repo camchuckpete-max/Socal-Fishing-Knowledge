@@ -146,6 +146,73 @@ def test_subregions_are_retired(tmp: Path) -> None:
           "retired" in " ".join(lm.region_problems(p)), True)
 
 
+V2_SPECIES_FM = ("---\ntype: species\ntags: [x]\nsources: [cameron]\n"
+                 "confidence: high\nregions: [socal-bight]\nwaters: [island]\n"
+                 "layout: v2\nscientific_name: unknown\nseason_peak: [jun]\n"
+                 "sst_band_f: 62-74\ndepth_band: unknown\ngear_classes: [jig-stick]\n"
+                 "sonar_depth: unknown\n---\n\n")
+
+V2_SPECIES_BODY_OK = (
+    "# Testfish\n\nLead.\n\n"
+    "## Where & when\nx\n\n## Presence & forage\nx\n\n## Spawning\nx\n\n"
+    "## Feeding triggers\nx\n\n## Finding them (sign & sonar)\nx\n\n"
+    "## Situations → techniques\nx\n\n## Gear summary (class terms)\nx\n\n"
+    "## Regulations\nx\n\n## Doctrine & conflicts\nx\n\n"
+    "## Landing & handling\nx\n")
+
+
+def test_layout_v2_valid_species_passes(tmp: Path) -> None:
+    p = write(tmp, "v2ok.md", V2_SPECIES_FM + V2_SPECIES_BODY_OK)
+    check("valid v2 species skeleton passes", lm.layout_problems(p), [])
+
+
+def test_layout_v2_missing_section(tmp: Path) -> None:
+    body = V2_SPECIES_BODY_OK.replace("## Spawning\nx\n\n", "")
+    p = write(tmp, "v2miss.md", V2_SPECIES_FM + body)
+    probs = " ".join(lm.layout_problems(p))
+    check("missing required section reported", "'## Spawning'" in probs, True)
+
+
+def test_layout_v2_section_order(tmp: Path) -> None:
+    body = V2_SPECIES_BODY_OK.replace(
+        "## Where & when\nx\n\n## Presence & forage\nx\n\n",
+        "## Presence & forage\nx\n\n## Where & when\nx\n\n")
+    p = write(tmp, "v2order.md", V2_SPECIES_FM + body)
+    probs = " ".join(lm.layout_problems(p))
+    check("out-of-order section reported", "appears before" in probs, True)
+
+
+def test_layout_v2_missing_infobox_field(tmp: Path) -> None:
+    fm = V2_SPECIES_FM.replace("sonar_depth: unknown\n", "")
+    p = write(tmp, "v2info.md", fm + V2_SPECIES_BODY_OK)
+    probs = " ".join(lm.layout_problems(p))
+    check("missing infobox field reported", "`sonar_depth:`" in probs, True)
+
+
+def test_layout_v1_note_is_untouched(tmp: Path) -> None:
+    fm = V2_SPECIES_FM.replace("layout: v2\n", "")
+    p = write(tmp, "v1.md", fm + "# Old\n\nNo sections at all.\n")
+    check("non-migrated note has no layout problems", lm.layout_problems(p), [])
+
+
+def test_layout_evidence_pairing(tmp: Path) -> None:
+    (tmp / "evidence").mkdir(exist_ok=True)
+    parent = write(tmp, "fish.md", V2_SPECIES_FM + V2_SPECIES_BODY_OK
+                   + "\n## Evidence\n\n[evidence file](evidence/fish.md)\n")
+    ev = write(tmp / "evidence", "fish.md",
+               "---\ntype: evidence\nparent: ../fish.md\ntags: [x]\n"
+               "sources: []\nconfidence: medium\n---\n\n# Evidence — fish\n")
+    check("paired evidence file passes", lm.layout_problems(ev), [])
+    check("parent with linked evidence passes", lm.layout_problems(parent), [])
+    unlinked = write(tmp, "nofish.md", V2_SPECIES_FM + V2_SPECIES_BODY_OK)
+    (tmp / "evidence" / "nofish.md").write_text(
+        "---\ntype: evidence\nparent: ../nofish.md\ntags: [x]\nsources: []\n"
+        "confidence: medium\n---\n\n# E\n", encoding="utf-8")
+    probs = " ".join(lm.layout_problems(unlinked))
+    check("evidence file without a `## Evidence` section is reported",
+          "no `## Evidence` section" in probs, True)
+
+
 def test_region_badge(tmp: Path) -> None:
     baja = write(tmp, "b.md", GATED_FM.format(
         extra="regions: [cortez-north, cortez-south]\nwaters: [island]\n"))
@@ -172,6 +239,12 @@ def main() -> int:
                    test_region_gating_rejects_off_vocabulary,
                    test_region_gating_skips_ungated_types,
                    test_subregions_are_retired,
+                   test_layout_v2_valid_species_passes,
+                   test_layout_v2_missing_section,
+                   test_layout_v2_section_order,
+                   test_layout_v2_missing_infobox_field,
+                   test_layout_v1_note_is_untouched,
+                   test_layout_evidence_pairing,
                    test_region_badge):
             fn(tmp)
     if failures:
@@ -179,7 +252,7 @@ def main() -> int:
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("link-maintenance tests: 12 check groups OK")
+    print("link-maintenance tests: 18 check groups OK")
     return 0
 
 

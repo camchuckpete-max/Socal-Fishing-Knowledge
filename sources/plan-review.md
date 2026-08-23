@@ -6,9 +6,12 @@
 > `sources/plan.md`, 2026-08-12). Scope and decisions were worked out with
 > Cameron in conversation on 2026-08-23.
 
-**Status: awaiting Cameron's `PLAN APPROVED` for this document (GATE A).**
-No foundation work executes until the token is given; any later amendment to
-this plan re-opens GATE A per `CLAUDE.md`.
+**Status: Cameron's `PLAN APPROVED` for this document (including the
+yellowtail/surface-iron pilot amendment) was given 2026-08-23 — GATE A is
+unlocked and the foundation build is executing.** Any later amendment to this
+plan re-opens GATE A per `CLAUDE.md`. GATE B (merge to `main`) remains locked
+until Cameron's post-build review of the coverage summary + judgment-calls
+list.
 
 ---
 
