@@ -44,6 +44,19 @@ def members_of(router: Path) -> list[str]:
 
 def main() -> int:
     wl = WORKLIST.read_text(encoding="utf-8")
+    # Routers must be final before cluster membership is captured: wait until
+    # no transform-tier row is pending and no relocation is pending.
+    for line in wl.splitlines():
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) == 5 and cells[2] == "pending" \
+                and cells[1] in ("full", "standard", "light"):
+            print("build-cluster-worklist: transforms still pending — waiting")
+            return 0
+    rq = ROOT / "sources" / "relocation-queue.md"
+    if rq.exists() and re.search(r"\| pending \|$",
+                                 rq.read_text(encoding="utf-8"), re.M):
+        print("build-cluster-worklist: relocations still pending — waiting")
+        return 0
     added = 0
     rows = []
     for router in sorted((ROOT / "species").glob("*.md")):
