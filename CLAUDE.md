@@ -226,6 +226,18 @@ The flaw this fixes: species notes and technique notes can each exist while the
   no technique note to hold it, **create the technique note**; the species note
   keeps routing only (e.g. `techniques/deep-drop-swordfishing.md` holds sword
   execution, `species/swordfish.md` routes to it).
+- **Doctrine with a folk explanation gets the mechanism too.** When a source
+  states working doctrine with a superstitious or absent "why" (e.g. "fresh
+  line gets bit"), keep the doctrine attributed as stated AND add the mundane
+  mechanism (coil memory, abrasion nicks, stretch/UV fatigue) — factual while
+  respecting the captain's framing, never repeating folklore as the reason.
+  (Cameron review, 2026-08-23.)
+- **Side-by-side doctrine conflicts must carry a decision frame.** Keeping
+  conflicts unreconciled is not the same as leaving the reader without
+  guidance: the note must say what the choice actually turns on (technique,
+  conditions, gear tier) and state explicitly that section order is not a
+  ranking. (Cameron review, 2026-08-23: "why do we choose one doctrine to be
+  first over another?")
 - **Angler self-imposed constraints are profile data,** even when stated with
   conviction (e.g. "manual reels only"). The general note states what the fishery
   does; the constraint lives in `profiles/<user>/`.

@@ -282,7 +282,12 @@ season**, so he works bottom-up, lightest to heaviest, rather than naming one
 do-it-all rig. Read alongside, not merged with, the Steve Carson ladder above
 — a second attributed voice on the same problem.
 
-- **25 lb all-purpose flyline setup.** An **8–8.5 ft rod rated 15–30 lb or
+*Each rung below is a line class in the [gear-classes](gear-classes.md#line-classes)
+sense — the class term is the thing a [profile](../profiles/README.md) resolves
+against; the named models are one captain's instances of the class, not the
+class itself. (Cross-linking added on Cameron's review, 2026-08-23.)*
+
+- **25 lb all-purpose flyline setup** *(25 lb [line class](gear-classes.md#line-classes))*. An **8–8.5 ft rod rated 15–30 lb or
   15–40 lb** (his own favorite: a Calstar L-series — 700/800/850/900 — the
   **850L** specifically) on a **two-speed Fathom 15** reel. **30 lb braid to
   15–25 ft of fluorocarbon.** His stated leader reasoning: long enough that
@@ -298,11 +303,11 @@ do-it-all rig. Read alongside, not merged with, the Steve Carson ladder above
   bigger gears/drag, more suited to bigger fish — with **40 lb braid to
   15–25 ft, sometimes 30–40 lb** fluorocarbon, on a **Seeker T80** rod
   (roughly **8'6", rated 20–50 lb**).
-- **40 lb setup.** For **30–60 lb fish**, more aggressive fish, or bigger
+- **40 lb setup** *(40 lb [line class](gear-classes.md#line-classes))*. For **30–60 lb fish**, more aggressive fish, or bigger
   bait: a **Fathom 25** reel with **40 lb Spectra** on a **Calstar 6480** rod,
   **15–25 ft** fluorocarbon leader — same happy-medium leader-length logic as
   above.
-- **50–60 lb jig setup.** For **Colt Sniper-style (or any style) jig**
+- **50–60 lb jig setup** *(50–60 lb [line class](gear-classes.md#line-classes))*. For **Colt Sniper-style (or any style) jig**
   fishing, springtime **15–80 lb-class** fish: a **Talica 12** reel, **50 lb
   Spectra**, **7–8 ft rod rated 30–60 lb or 40–80 lb**. **Leader run longer
   for jig fishing specifically — 30–40 ft of fluorocarbon** — his reasoning:

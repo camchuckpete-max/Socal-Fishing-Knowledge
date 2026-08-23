@@ -3115,3 +3115,50 @@ is that review's evidence. **Nothing here is canonical until Cameron merges.**
 6. **At merge:** main's `ingest-chunk.yml` still hardcodes the batch-2
    branch; this branch's copy is correct and supersedes it on merge — no
    action needed, noted so the diff reads as intended.
+
+## Batch 3 — Cameron's Bight Watch review notes, applied (2026-08-23)
+
+Cameron's exported review notes (snapshot 2026-08-18T20:38Z; 34 notes, 5
+flagged wrong) — the first full pass of the review-notes loop. Every note
+accounted for:
+
+**WRONG → fixed:**
+
+1. `lures/cedar-plug.md` — the Hansen passage misread his point as a
+   materials footnote. Corrected reading (Cameron, high): **non-painted cedar
+   plugs outperform painted**, and **"cedar color" is on-the-water vernacular
+   for the natural finish**. Now corroborated three ways (Hansen, Searcher
+   `8UAtGqEjDtU`, cameron); the superseded reading is noted in place.
+2. `rigging/rubber-band-deep-rig.md` — **"brawler" → "Bralla rig"** (Cameron
+   terminology ruling; ASR mis-rendered it identically across three
+   independent sources — ruling block added, 16 occurrences corrected,
+   quoted captions amended to `[Bralla]`). Cameron also confirms a Bralla
+   rig carries **no rubber band** — consistent with the note's existing
+   ring-and-dropper construction, now stated explicitly.
+3. Same note — ASR flag resolved: captioned "4T" = **40 lb fluorocarbon**
+   (cameron, 2026-08-23). Flag cleared with resolution provenance.
+4. Same note — ASR flag resolved: hook captioned "two"/"20" = **size 2/0**
+   (cameron, 2026-08-23). Flag cleared with resolution provenance.
+5. `tackle/reel-maintenance.md` — "fresh line gets bit" reframed per the new
+   superstition/mechanism rule: doctrine kept as stated, mundane mechanism
+   added (coil memory, nicks, stretch/UV fatigue).
+
+**NOTE feedback → applied:**
+
+- `tackle/bluefin-rig-ladder-by-grade.md` — rungs now link their line class
+  into `gear-classes.md#line-classes` (the ladder named models but never
+  linked the class layer; profile resolution needs the class term).
+- `tackle/jigging-rod-guide-wrap.md` — the spiral-wrap doctrine conflict now
+  opens with what the choice turns on (speed/knife → spiral wrap earns its
+  place; slow-pitch → judge the blank) and states that section order is not
+  ranking; quote-leaning reduced where flagged.
+
+**Generalized into CLAUDE.md content rules** (per the established
+review-corrections pattern): (a) doctrine with a folk explanation gets the
+mechanism too; (b) side-by-side conflicts must carry a decision frame.
+
+**OK entries (24):** no action; retained as review evidence.
+
+ASR alias ledger addition for future passes: **"brawler" → Bralla rig**;
+**"cedar color"/"wood" → natural/unpainted cedar-plug finish**; spoken
+"2/0" splits to "two"/"20" in captions.

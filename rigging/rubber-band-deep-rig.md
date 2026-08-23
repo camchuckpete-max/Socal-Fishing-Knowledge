@@ -62,7 +62,7 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
   bites when the boat needs to get down fast because the fish are moving
   through. His stated fix, when speed to depth matters, is the **ring-and-
   dropper build** already logged below (sinker below the hook rather than
-  above it) — same core idea as the ring-and-tag-line/"drop shot"/"brawler"
+  above it) — same core idea as the ring-and-tag-line/"drop shot"/"Bralla"
   rig, a faster, straighter drop with the bait presented rather than dragged
   down spinning. Standard sinker weight named for the sinker-on-top build:
   **8–12 oz**, in range with the 6–16 oz figures already logged in this
@@ -92,7 +92,7 @@ sinker rig (no breakaway) is logged at the bottom of this note — see
 225 (Sinker Rigs for Bluefin)," 2023-08-03; unregistered channel — medium
 confidence.** Demonstrates the two rubber-band builds side by side as "old
 school" options, aboard the *Searcher* mid-bluefin-season, plus the
-drop-shot/brawler build logged in its own section below.
+drop-shot/Bralla build logged in its own section below.
 
 - **Simple (pull-through) build — the oldest, easiest version:** the rubber
   band is pre-half-hitched onto the line so it won't slip, then simply passed
@@ -110,9 +110,9 @@ drop-shot/brawler build logged in its own section below.
   and **there is no knot** joining sinker to line — a third, independent
   source for the same two-hole-wrap-then-hook-through-loop mechanic also
   documented below.
-- **Leader:** fluorocarbon, a figure given on camera that the captions render
-  as "4T" — not confidently resolved to a specific breaking strength; flagged
-  `asr-uncertain` rather than guessed.
+- **Leader:** **40 lb fluorocarbon.** The captions render the figure as
+  "4T"; resolved by Cameron on review (2026-08-23) — the audio is "40 lb,"
+  a routine ASR miss on a spoken number. `asr-uncertain` flag cleared.
 - **On both builds — expect to lose the sinker on a big fish:** the rubber
   band is the deliberate weak point; hook something big and the band breaks,
   the sinker is lost, and the angler fights the fish free of it — framed on
@@ -598,12 +598,20 @@ name as coincidental, not the same method.
   tip of the nose**. Logged alongside the general hook-position table in
   [fishing live bait](../bait/fishing-live-bait.md#deep-sinker-rig-bait-lower-jaw-through-the-nose-to-keep-the-mouth-shut-capt-matt-sd-fish-and-sips).
 
-## The "Brawler rig" — a named variant close to the ring-and-tag-line build (Steve Carson panel, PCS Show 2024)
+## The "Bralla rig" — a named variant close to the ring-and-tag-line build (Steve Carson panel, PCS Show 2024)
+
+> **Terminology ruling (Cameron, 2026-08-23; high confidence):** the rig's
+> name is the **Bralla rig**. Every ASR caption across this note's three
+> independent sources renders it "brawler" — a mis-transcription, corrected
+> throughout this note, with quoted captions amended to `[Bralla]`. Cameron
+> also confirms what the builds below already show: **a Bralla rig carries no
+> rubber band** — it is the ring-and-dropper family, kept distinct from the
+> two rubber-band builds above.
 
 Steve Carson panel, "Gear Needed for Half to Full Day [Yellowtail] Fishing,"
 2024 Pacific Coast Sportfishing Show (`UP_3fBu7VPA`, Fisher Newb upload,
 2024-03-20; unregistered channel/speakers — medium confidence). The panel
-names this rig on camera as the **"brawler rig,"** framed as the "new and
+names this rig on camera as the **"Bralla rig,"** framed as the "new and
 improved" successor to the original rubber-band-topped sinker rig above —
 worth reading alongside, not merged with, the **ring-and-tag-line "drop
 shot" rig** already logged above
@@ -615,7 +623,7 @@ hardware.
 
 - **Why it replaced the original design, per the panel:** the older
   rubber-band-on-top build requires a gentle drop to avoid the sinker tangling
-  down into the leader/bait; the Brawler rig's construction lets you send it
+  down into the leader/bait; the Bralla rig's construction lets you send it
   straight down as fast as you want without that tangling risk, so it gets a
   bait to a deep mark (the panel's example: fish called at ~300 ft) faster.
 - **Bite window is short — fish it accordingly:** on this rig specifically,
@@ -638,7 +646,7 @@ hardware.
   the panel's stated reason is the same failure mode: hooked anywhere but the
   nose, the bait tends to rip off the hook on the drop.
 - **When you need the heavier gear this rig is usually built on:** the panel
-  frames a **60–80 lb rig** (their own name for the class: "brawler") as the
+  frames a **60–80 lb rig** (their own name for the class: "Bralla") as the
   step up from a 40 lb workhorse rig once bigger tuna are confirmed around,
   and the **100 lb rig** as the further step for an overnight trip where a
   200 lb-class fish is a real possibility — see the "always bring it" doctrine
@@ -648,7 +656,7 @@ hardware.
 
 **Steve Carson, SearcherSportfishing, `5CvFDpvlfSE`, 2023-08-03; unregistered
 channel — medium confidence.** In the same breath, Carson calls this build
-**"the drop shot rig or the brawler rig"** — the first source in this note to
+**"the drop shot rig or the [Bralla] rig"** — the first source in this note to
 use both names for what sounds like one build, partially resolving the naming
 question the two sections above leave open (though his hardware still isn't
 confirmed identical to either the SD Fish and Sips or PCS-panel builds, since
@@ -656,9 +664,10 @@ neither of those videos is this one). He calls it the newer-school option of
 the three rigs in this video and says it has been the most productive of the
 three so far that (2023) season. Build, as demonstrated:
 
-- **Hook:** a ringed circle hook — an **Owner** brand hook; the size is
-  captioned "two" and then "20" in the same breath and isn't confidently
-  resolved to a specific model/size — flagged `asr-uncertain`. The
+- **Hook:** a ringed circle hook — an **Owner** brand hook, **size 2/0**.
+  The captions render the size as "two" then "20" in the same breath;
+  resolved by Cameron on review (2026-08-23) — spoken "2/0," which ASR
+  reliably splits exactly this way. `asr-uncertain` flag cleared. The
   fluorocarbon leader ties to the ring "just like normal."
 - **Dropper to the sinker:** **2.5 to 3 ft of 15 lb-test monofilament**, tied
   off the same ring the leader connects to, carrying the sinker below the
@@ -677,7 +686,7 @@ three so far that (2023) season. Build, as demonstrated:
   hooking a big bluefin on this rig will likely part the light dropper line
   and cost the sinker — again framed as well worth it.
 - **Season framing, in his words:** of the three rigs shown in this video (the
-  two rubber-band builds above and this one), the drop-shot/brawler rig had
+  two rubber-band builds above and this one), the drop-shot/Bralla rig had
   been the most popular one that (2023) season, though which rig is actually
   getting bit "changes just about every single day."
 
@@ -685,7 +694,7 @@ three so far that (2023) season. Build, as demonstrated:
 
 **Steve Carson, SearcherSportfishing, `83HROAgGW6Q`, "Tackle Tip Thursday Vol.
 233 (Drop-shot Rig)," 2024-05-16; unregistered channel — medium confidence.**
-A dedicated follow-up to the drop-shot/brawler build he showed in Vol. 225
+A dedicated follow-up to the drop-shot/Bralla build he showed in Vol. 225
 above (`5CvFDpvlfSE`, 2023-08-03) — same presenter, same rig, this time the
 sole subject of a short tip video, adding rod/reel/line detail the earlier
 one didn't give.
@@ -735,13 +744,13 @@ one didn't give.
 - **General tuna hook rule, stated in passing:** for tuna fishing generally,
   always use a **circle hook**.
 
-## Brawler rig, a simpler build described verbally (Brian Wen, 2025 PCS Show seminar)
+## Bralla rig, a simpler build described verbally (Brian Wen, 2025 PCS Show seminar)
 
 **Brian Wen, 2025 PCS Show "Slow Pitch to Speed Jigging" seminar,
 `gimFbgN5Jjk`, uploaded 2025-03-14; unregistered channel/panel — medium
-confidence.** Kept side by side with, not merged into, the panel's Brawler
+confidence.** Kept side by side with, not merged into, the panel's Bralla
 rig build above — no visual demo, described in a Q&A answer only, so this is
-thinner detail than the build above, but the core idea (a named "Brawler
+thinner detail than the build above, but the core idea (a named "Bralla
 rig") matches:
 
 - **Construction, as described:** the hook ties **directly to the main
@@ -758,7 +767,7 @@ rig") matches:
 
 **James Kikkawa, same seminar (`gimFbgN5Jjk`); medium confidence, single
 mention, thin detail (a short Q&A answer, no on-camera demo).** A different
-rig from the Brawler rig above, raised in answer to whether a jig could
+rig from the Bralla rig above, raised in answer to whether a jig could
 double as the "sinker" on a bait rig with a hook still fished above it:
 
 - **Build, as described:** a length of **wire leader**, roughly **10–12 ft**

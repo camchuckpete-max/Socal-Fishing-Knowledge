@@ -165,8 +165,17 @@ class.
 Distinct from the offseason strip-and-respool below: this is a **pre-trip**
 discipline, argued from cost rather than just care —
 
-- **Core claim: fresh line gets bit.** Stated plainly, not as a mystery —
-  "get on the boat with fresh line, it gets bit." The doctrine is simply to
+- **Core claim: fresh line gets bit — and the mechanism is mundane, not
+  mystical.** The captain's words are "get on the boat with fresh line, it
+  gets bit," and the practice is sound; the *reason* is what fresh line
+  doesn't have (framing per Cameron's review, 2026-08-23): line that has sat
+  on a spool since the last trip carries **coil memory** (it leaves the tip
+  in corkscrews that kill a natural bait presentation and cast distance),
+  accumulated **nicks and abrasion** from the previous trip's rail, gaffs,
+  and fish, and in mono, **stretch fatigue and UV exposure** that cut its
+  real breaking strength below the label. Fish don't know the purchase date;
+  they see a bait swimming naturally on supple line — and the angler keeps
+  the rated strength they think they have. The doctrine stands as stated:
   never leave for a trip on line that's been sitting since the last one.
 - **Why this is affordable: only the top shot needs replacing.** Spool the
   [braid backing/spectra](line-and-leader.md) once; from then on, only the

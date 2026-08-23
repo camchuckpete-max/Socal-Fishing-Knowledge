@@ -89,8 +89,17 @@ above rather than treating spiral wrap as a pure upgrade.
 
 ## The counter-doctrine — why Japanese slow-pitch rods skip spiral wrap (Benny Ortiz)
 
-A stated, attributed conflict with the "spiral wrap is simply better"
-framing above, kept side by side rather than reconciled:
+**What the disagreement actually turns on — read this first** (framing added
+on Cameron's review, 2026-08-23): the two camps are not arguing about the
+same rod. The builders above fish spiral wrap for **knife/speed jigging**,
+where a violent cadence makes tip-wrap the operative failure and the spiral
+train is a direct fix. Ortiz's objection is specific to **slow-pitch**, where
+how the blank itself loads and recovers *is* the technique — there, he argues,
+a spiral wrap treats a symptom a good blank shouldn't have. So the practical
+routing is: **speed/knife jigging → spiral wrap earns its place; slow-pitch →
+judge the blank, and treat a spiral wrap as a question to ask about the
+blank, not a feature to pay for.** The section order here is chronology of
+the panel, not a ranking; both doctrines below stay attributed and unmerged:
 
 - **No Japanese manufacturer builds a spiral-wrap slow-pitch rod, per Benny
   Ortiz.** His stated reason, relayed from "an outstanding Japanese angler":

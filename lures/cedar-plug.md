@@ -47,12 +47,19 @@ Dave Hansen (subscription-pitch context — low confidence per the
   your day."
 - **Patterns favored:** the natural/"wood" pattern, plus an anchovy pattern
   (transcribed "amp chobby," asr-uncertain) and a sardine pattern.
-- **Material, not color (Hansen's on-camera correction):** "wood" doesn't
-  name a color — every cedar plug is made of wood/cedar regardless of what
-  color it's painted (yellow, blue, purple, black, orange, green, or brown);
-  that's the origin of the name "cedar plug," not a specific paint scheme.
-  Consistent with this note's framing of the cedar plug as a wood-bodied lure
-  across any color choice.
+- **Natural beats painted — and "cedar color" is the vernacular for it
+  (Hansen on camera; reading corrected by Cameron on review, 2026-08-23 —
+  high confidence):** Hansen's point is not a materials footnote. He is
+  saying **non-painted cedar plugs outperform painted ones** (yellow, blue,
+  purple, black, orange, green, brown all name paint jobs; the unpainted plug
+  is the one to reach for), and "wood" / **"cedar color" is common on-the-water
+  vernacular for that natural, unpainted finish** (Cameron: *"I hear people
+  call it 'cedar color' often"*). This independently corroborates the
+  Searcher natural-over-painted doctrine below — three voices now on the same
+  side: Hansen, the Searcher pre-rig walkthrough (unpainted "raw cedar"
+  preferred over painted, `8UAtGqEjDtU`), and Cameron's own field usage. An
+  earlier revision of this entry read Hansen as merely clarifying that "wood"
+  isn't a color; that reading is superseded.
 - **Running parameters:** trolled at **~7 mph**, set back **~30 yd** — both
   land inside this note's existing speed (5–9 kt, ~6–7.5 kt for yellowfin)
   and setback (15–40 ft in the wash, or 50–100+ yd back) framework rather
