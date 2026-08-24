@@ -15,6 +15,9 @@ trampoline on `main`; session monitor). Kill switch: a `STOP` file at the
 branch root.** GATE B (merge to `main`) remains locked until Cameron's
 post-build review of the coverage summary + judgment-calls list.
 
+**Status update 2026-08-24: fleet PAUSED and GATE A RE-OPENED by amendment
+v2.2 (below). Resumption requires a fresh `PLAN APPROVED`.**
+
 > **Dispatch note (2026-08-24 18:58 UTC):** the trampoline's first dispatch
 > 404'd — `gh workflow run` resolves workflow names against the
 > default-branch registry, and `review-chunk.yml` existed only on this
@@ -24,6 +27,74 @@ post-build review of the coverage summary + judgment-calls list.
 > `batch2-ingest-chunk` precedent). This widened the approved "sole main
 > push" (trampoline) to three registration files, all retiring together at
 > GATE B. Chain confirmed started: review-chunk run #1 in progress.
+
+## Amendment v2.2 — the sub-article ladder (2026-08-24, cameron)
+
+**GATE A is RE-OPENED by this amendment.** The fleet is paused (Cameron's
+weekly limit; `STOP` at the branch root) and resumes only on a fresh
+`PLAN APPROVED` after he reviews the two gate artifacts below.
+
+Cameron's two asks, which turned out to be one gap — the KB had no middle
+rung, so depth either bloated a top-level page or had nowhere to live:
+
+1. **Species x technique sub-articles.** `species/bluefin-trolling.md` read
+   like a separate species when it was bluefin's *trolling program*. New gated
+   type `species-technique` (`species/<species>-<technique>.md`, optional zone
+   variant); the `decision` type is retired. Routers keep routing and link the
+   sub-article first; technique notes keep universal mechanics and carry a
+   **generated** `## Species applications` list. Bar: **>= 2 distinct cited
+   execution parameters** for the pairing — *"if it's just using heavier gear
+   it shouldn't have its own article."*
+2. **The geographic ladder.** jurisdiction → region → area → zone → spot, one
+   type per rung, flat in `locations/` with a `parent` path field. Cameron's
+   three example paths conflicted because water type (Islands / Inshore /
+   Offshore) was being used as a tree level; it is already the `waters` facet,
+   so it leaves the tree and all three paths collapse to one shape.
+
+**Zones are derived from COORDINATES, not mention counts** — the decision that
+matters most, since every spot below a zone re-parents if it is wrong.
+`sources/spot-lists.md` (391 charted spots) is the authority: its `##` sections
+are the zone skeleton, and complete-linkage clustering capped at 12 nm
+subdivides the offshore-banks catch-all. Single-linkage was tested and
+rejected — it chains the whole coast into one 309-spot, 192-nm blob. Corpus
+depth decides how much a zone page can SAY, never whether it exists;
+coordinate-less but corpus-rich zones (Cedros 38 notes, Guadalupe 30, Alijos
+19, Mag Bay, Cabo, East Cape, BOLA, Loreto, La Paz) qualify on depth alone.
+
+**Every spot in the library gets a page**, minimum coordinates + parent zone.
+The 63 numbered artificial-reef waypoints collapse to ~7 complex pages
+carrying coordinate tables; every coordinate stays published.
+
+### What the census caught before anything was generated
+
+- **9 Mile Bank and 14 Mile Bank are 54.0 nm apart** and had been grouped as
+  one zone (Cameron's catch, verified numerically); **the 178 is 4.9 nm from
+  North 9 Mile** and belongs to it, not to a 181/182 group.
+- `La Jolla` was slugging to `jolla` — Spanish articles are part of the name.
+- Species-filtered sections (Catalina rockfish spots) double-claimed spots.
+- 86 single-bank "zones" were a list, not a carve-up.
+- MPA advisories in a label were excluding 12 real spots (Ship Rock,
+  Windansea, Long Point).
+- `105 / 150` scored 54 notes on line-test pounds and gear-ratio prose; the
+  fixture check then caught this plan's own published table drifting, because
+  that throwaway scan double-counted notes against their evidence files.
+
+### The two gate artifacts
+
+1. **Five exemplars** (shape): `species/bluefin-tuna-trolling.md`,
+   `species/yellowtail-surface-iron.md`, `locations/mexican-waters.md`,
+   `locations/coronado-islands.md`, `locations/pukey-point.md` (the minimum
+   spot page — the tier that runs ~335 times).
+2. **The census** (set): `scripts/review/build-geo-worklist.py --dry-run` —
+   **425 pages** (2 jurisdiction + 5 region + 74 zone + 344 spot), each with
+   its parent, depth count and bar clause, plus 20 parent-distance outliers,
+   2 naval security zones excluded, and 19 spots carrying advisories.
+   Coordinate conservation is asserted: 391 spots = 339 pages + 50 AR table
+   rows + 2 excluded.
+
+Cost note: keeping judgment work on Opus raises spend rather than lowering it,
+and Sonnet 5's introductory rate ends 2026-08-31. The real levers are the
+existence bar and the census, not the model dial.
 
 ## Amendment — pilot-feedback round (2026-08-24, cameron + nate)
 
