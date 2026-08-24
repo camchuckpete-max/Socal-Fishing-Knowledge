@@ -612,6 +612,7 @@ rods come tight on big bluefin together.
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)

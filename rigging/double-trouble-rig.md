@@ -78,6 +78,6 @@ Video: https://www.youtube.com/watch?v=UrEymGvZx00
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 <!-- backlinks:end -->

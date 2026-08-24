@@ -101,6 +101,7 @@ Fold the output of this note back into the
 ## Linked from
 
 - [August](../seasonal/august.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

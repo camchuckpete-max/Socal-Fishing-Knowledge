@@ -285,6 +285,7 @@ to, the 200 lb mono/large-swivel crimped leader already logged above.
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

@@ -96,6 +96,7 @@ but hard-charging, they'll eat almost anything moving.
 ## Linked from
 
 - [Bluefin Tuna](bluefin-tuna.md)
+- [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

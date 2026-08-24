@@ -73,4 +73,26 @@ harvested.
 | Tanner Bank | species/bluefin-trolling.md | evidence — trolling as the search tool | spreader bars trolled to cover ground, then a dead flying fish under the kite on the drift once the sounder marked good numbers; late October 2021 | `vCskOx6N-XM` |
 | San Clemente Island (offshore) | species/bluefin-trolling.md | evidence — situations → techniques | four trolled lines produced multiple smaller-grade bluefin including a double hookup after a marked school refused a thrown scoop of bait | `sHnqSIOjTdM` |
 | San Clemente Island / Catalina Island (offshore) | species/bluefin-trolling.md | evidence — doctrine & conflicts | spreader-bar-plus-Mad-Mac spread worked at 5 and 6–7 mph and again at 15 mph, skipping an unbounded "dead zone" speed range in between | `elBPRrdkugU` |
+| The 43 | species/bluefin-tuna.md | Where & when / Regulations | below-Clemente high spot; former destination rockfish grounds now inside a closed rockfish area, so the effort that stopped there for rockfish targets bluefin on the same structure | `Rf1HKJG-SDg` |
+| The 181 / 182 / 289 | species/bluefin-tuna.md | Where & when | banks of the below-Clemente complex that read as one ~50–60 sq mi June–July search box | — (uncited legacy claim) |
+| Clemente Ridge | species/bluefin-tuna.md | Where & when | part of the below-Clemente complex search box | — (uncited legacy claim) |
+| Mackerel Bank | species/bluefin-tuna.md | Where & when | northern edge of the below-Clemente complex search box | — (uncited legacy claim) |
+| San Clemente Island | species/bluefin-tuna.md | Where & when | island zone worked night knife-jig / day troll; 100–200 lb class in summer 2017, 40–90 lb on the 2017 spring trips | `sHnqSIOjTdM`, `Q-gQuOegAx4`, `3T4c3Zez_DM` |
+| Catalina Island | species/bluefin-tuna.md | Where & when / Finding them | August dispersal zone; west-end marks at 120 ft and 150 ft producing a jig bite, fish "coming back from the islands" a handful at a time | `M7BtON4GZgQ` |
+| San Nicolas Island | species/bluefin-tuna.md | Where & when | August dispersal edge and a corner of the September volume square; ~115 mi run for one 2024 charter | `ouBrIdO7d4k` |
+| Santa Barbara Island | species/bluefin-tuna.md | Where & when / Presence & forage | September volume-square corner; foamers NE of the island locked on saury, anchovy, and microbait and refused troll and plugs | `mDmbGdQAy-4` |
+| Ventura | species/bluefin-tuna.md | Where & when | northern edge of the August peak-dispersal spread | — (uncited legacy claim) |
+| Tanner Bank | species/bluefin-tuna.md | Where & when | Oct–Dec outward-condensation zone; also a mid-August anchored bite ~90–100 mi west of Long Beach in ~120 ft, bluefin on 60 ft bait marks | `ntQXxcH5sjI`, `947solNfiPw`, `LsFMBCa9DOQ` |
+| Cortez Bank | species/bluefin-tuna.md | Where & when | Oct–Dec condensation zone; ~110–115 mi from San Diego, 96 mi SW of San Pedro, 47 mi SW of SCI; anchor in 15–25 fm, fish the 50–60 fm drop-off edge | `UfuiWFVvz2E`, `QSvzVHW9UMk`, `nQvJnfb5jQ4` |
+| desperation reef | species/bluefin-tuna.md | evidence — San Clemente & Catalina | high spot anchored on because bait squid were staged there; flylined dead squid drew repeat bites, 40–90 lb | `Rb5I2ljAqeE` |
+| West End tuna zone | species/bluefin-tuna.md | evidence — San Clemente & Catalina | the 2017 season's bluefin push ran from the West End down to 10 mi off Point Loma, fish 50 to almost 300 lb | `Rb5I2ljAqeE` |
+| Point Loma | species/bluefin-tuna.md | evidence | a 315 lb bluefin taken 59 mi off on a 320 g glow flat-fall, on/around January 2020 | `0E9REoTjKrY` |
+| San Martin Island | species/bluefin-tuna.md | Where & when | bluefin schools sighted nearby in early January 2021 in 63–65 °F water | `shZCjX2-fkI` |
+| Ensenada (bank 42–43 mi out) | species/bluefin-tuna.md | Where & when | August 2024 tournament zone with confirmed breezing fish and kite raises but ~40 boats landing 4 fish day one, 7 day two | `Ix0gG0-l3v0`, `U1AgwmlY5bI` |
+| Colonet | species/bluefin-tuna.md | evidence — range & stock | water structure historically productive early in the modern SoCal bluefin fishery; unfished as of 2021 because closer grounds produced | `fgTmUq78ofQ` |
+| San Quintín | species/bluefin-tuna.md | evidence — range & stock | same historically productive southern structure as Colonet, unfished as of 2021 | `fgTmUq78ofQ` |
+| Point Conception | species/bluefin-tuna.md | evidence — range & stock | northern end of the claimed resident range; a 2019 sighting of a 100–300 lb school within 50 mi | `fgTmUq78ofQ` |
+| San Miguel Island | species/bluefin-tuna.md | evidence — range & stock | a giant school of 100–300 lb tuna seen jumping just south of the island in 2019 | `fgTmUq78ofQ` |
+| Cedros Island | species/bluefin-tuna.md | evidence — range & stock | southern end of the claimed SoCal/northern-Baja resident range | `fgTmUq78ofQ` |
+| San Benito Island | species/bluefin-tuna.md | evidence — other SoCal zones and offshore | closing leg of an 8-day charter whose bluefin build was 40 lb mono to a 4 ft 40 lb fluoro top shot on sardine | `ilINTeknKB4` |
 <!-- review:harvest:end -->

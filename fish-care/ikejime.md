@@ -54,5 +54,6 @@ and depth come from the video and from hands-on practice, not from prose here.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Tuna Care](tuna-care.md)
 <!-- backlinks:end -->

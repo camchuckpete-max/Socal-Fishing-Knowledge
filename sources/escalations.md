@@ -158,3 +158,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-24T14:50:58Z — species/yellowtail.md — guard-violation
 - run: local
 - reason: commit 275752740af161c4498977cbdc86ec511ab5acd9 reverted: protected path touched: profiles/cameron/rods.md
+
+## 2026-08-24T19:56:23Z — species/bluefin-tuna.md — verify-escalate
+- run: 32765473828
+- reason: calendar-vs-water-state decision frame now effectively ranks Cameron's water-first stance above the corpus year-anniversary prior, adjudicating a conflict Cameron is a party to; Cameron's kite-since-July-2026 / helium-balloon-ruled-out / 80-140 lb foamer-preference items flagged misplaced-content and queued to profiles/cameron/tackle.md - both need Cameron's sign-off. Secondary: 2 of 4 new fact-check-ledger rows (spawning inference; 70-72 F band) have no matching inline flag, so the one-to-one rule is loose there.

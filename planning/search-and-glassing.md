@@ -422,6 +422,7 @@ current "should" carry everything astern.
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)

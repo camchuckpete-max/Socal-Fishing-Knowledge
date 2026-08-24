@@ -86,6 +86,7 @@ route, and the insurance carriers by name.
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros Island](../locations/cedros-island.md)

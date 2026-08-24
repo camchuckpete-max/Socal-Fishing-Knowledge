@@ -461,11 +461,11 @@ grade, or technique detail given for the dorado specifically.
 ## Linked from
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
-- [Bluefin Tuna](bluefin-tuna.md)
 - [California Halibut](california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
+- [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

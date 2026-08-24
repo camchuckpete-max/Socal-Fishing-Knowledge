@@ -162,6 +162,7 @@ Trip reports and per-source provenance:
 - [Cedar Plug](../lures/cedar-plug.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Bluefin Trolling](evidence/bluefin-trolling.md)
+- [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)

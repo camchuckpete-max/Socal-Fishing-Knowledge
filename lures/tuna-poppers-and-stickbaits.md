@@ -817,6 +817,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Cedros Island](../locations/cedros-island.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

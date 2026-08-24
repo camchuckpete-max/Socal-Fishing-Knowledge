@@ -474,7 +474,6 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
-- [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
@@ -483,6 +482,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — California Barracuda](../species/evidence/barracuda.md)
 - [Evidence — Surface Iron](evidence/surface-iron.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

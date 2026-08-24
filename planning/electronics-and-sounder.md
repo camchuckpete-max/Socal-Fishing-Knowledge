@@ -473,6 +473,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](fleet-intelligence.md)
