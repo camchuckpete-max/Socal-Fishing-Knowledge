@@ -58,7 +58,25 @@ CATCHALL = "Offshore banks"
 FILTER_SECTIONS = {
     "Catalina Island — Rockfish spots": "Catalina Island — Front Side (W→E)",
     "Rockfish areas (Coronados vicinity)": "Coronado Islands",
-    "Finger Bank rockfish": "Northern Baja",
+}
+
+# Sections that are one heading but more than one run. Split BY NAME so the
+# carve-up is auditable in review rather than emerging from a threshold.
+#
+# "Northern Baja" (Cameron, 2026-08-24) was the case that forced this: a single
+# 33-nm heading from the border (Bull Ring, 32.525N) to Punta Salsipuedes
+# (31.973N). It is genuinely the northernmost Baja COASTAL zone — only the
+# Coronado Islands share its latitudes and those are offshore — but the name
+# collided with the `baja-pacific-north` REGION term, and its own ends were
+# three of the census's parent-distance outliers.
+SECTION_SPLITS = {
+    "Northern Baja": [
+        ("Rosarito / Descanso", {
+            "Bull Ring", "Rosarito Flats (big area)", "Punta Descanso",
+            "Descanso rockfish 1", "Descanso rockfish 2", "Sugarloaf Rock"}),
+        ("La Fonda / Bajamar / Salsipuedes", {
+            "Punta Mesquite", "La Fonda", "Bajamar", "Punta Salsipuedes"}),
+    ],
 }
 
 # A lone offshore bank is a spot, not a zone, when it sits within reach of a
@@ -301,39 +319,28 @@ def depth_count(display: str, docs: dict[str, str]) -> int:
     return sum(1 for t in docs.values() if rx.search(t))
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--dry-run", action="store_true",
-                    help="print the census; write nothing (the gate artifact)")
-    args = ap.parse_args()
-
-    spots = parse_spot_lists()
-    docs = load_notes()
-
-    # -- fixture self-check, before anything is emitted --------------------
-    drift = {}
+def fixture_drift(docs: dict[str, str]) -> dict:
+    out = {}
     for k, (lo, hi) in FIXTURE.items():
         got = depth_count(k, docs)
         if not lo <= got <= hi:
-            drift[k] = ((lo, hi), got)
-    if drift:
-        print("FIXTURE DRIFT — the two scan implementations disagree:",
-              file=sys.stderr)
-        for k, ((lo, hi), got) in drift.items():
-            print(f"  {k}: expected {lo}-{hi}, this script says {got}",
-                  file=sys.stderr)
-        print("Refusing to emit a census built on a differently-wrong scan.\n"
-              "Fix the implementation, or update FIXTURE in the same commit.",
-              file=sys.stderr)
-        return 2
-    print(f"fixture OK ({len(FIXTURE)} anchors agree)\n")
+            out[k] = ((lo, hi), got)
+    return out
 
-    # -- rung 4: zones ------------------------------------------------------
+
+def build_zones(spots: list[dict], docs: dict[str, str] | None = None):
+    """The single source of truth for the ladder's rungs 4 and 5.
+
+    Returns (zones, spot_rows, ar_series, non_spot, unassigned). The census
+    formats it; Review Watch's map draws it. Two implementations of zoning is
+    the bug class this project keeps hitting, so there is exactly one.
+    """
     zones: list[dict] = []
     by_section: dict[str, list[dict]] = {}
     for s in spots:
         by_section.setdefault(s["section"], []).append(s)
 
+    unassigned: list[tuple[str, str]] = []
     for section, members in by_section.items():
         if section.startswith(CATCHALL):
             continue                       # subdivided below
@@ -342,9 +349,27 @@ def main() -> int:
         region = next(r for rx, r in SECTION_REGION if rx.search(section))
         extra = [m for filt, parent in FILTER_SECTIONS.items()
                  if parent == section for m in by_section.get(filt, [])]
+        pool = members + extra
+
+        if section in SECTION_SPLITS:
+            claimed: set[str] = set()
+            for display, names in SECTION_SPLITS[section]:
+                part = [m for m in pool if m["name"] in names]
+                claimed |= {m["name"] for m in part}
+                if part:
+                    zones.append({"display": display, "slug": slugify(display),
+                                  "region": region, "spots": part,
+                                  "src": "split"})
+            # A member the split forgot is REPORTED, never dropped — the
+            # coordinate-conservation assert would catch the loss, but this
+            # names the cause.
+            for m in pool:
+                if m["name"] not in claimed:
+                    unassigned.append((m["name"], section))
+            continue
+
         zones.append({"display": section, "slug": slugify(section),
-                      "region": region, "spots": members + extra,
-                      "src": "section"})
+                      "region": region, "spots": pool, "src": "section"})
 
     banks = by_section.get(
         next((k for k in by_section if k.startswith(CATCHALL)), ""), [])
@@ -375,8 +400,12 @@ def main() -> int:
         zones.append({"display": display, "slug": slug, "region": region,
                       "spots": [], "src": "corpus"})
 
-    for z in zones:
-        z["notes"] = depth_count(depth_term(z["display"]), docs)
+    if docs is not None:
+        for z in zones:
+            z["notes"] = depth_count(depth_term(z["display"]), docs)
+    else:
+        for z in zones:
+            z["notes"] = 0
 
     # -- rung 5: spots ------------------------------------------------------
     spot_rows, ar_series, non_spot = [], {}, []
@@ -394,6 +423,34 @@ def main() -> int:
                 continue
             spot_rows.append({"slug": slugify(s["name"]), "display": s["name"],
                               "zone": z, "dist": nm(s, centre(z["spots"]))})
+
+
+    return zones, spot_rows, ar_series, non_spot, unassigned
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dry-run", action="store_true",
+                    help="print the census; write nothing (the gate artifact)")
+    args = ap.parse_args()
+
+    spots = parse_spot_lists()
+    docs = load_notes()
+
+    drift = fixture_drift(docs)
+    if drift:
+        print("FIXTURE DRIFT — the two scan implementations disagree:",
+              file=sys.stderr)
+        for k, ((lo, hi), got) in drift.items():
+            print(f"  {k}: expected {lo}-{hi}, this script says {got}",
+                  file=sys.stderr)
+        print("Refusing to emit a census built on a differently-wrong scan.\n"
+              "Fix the implementation, or update FIXTURE in the same commit.",
+              file=sys.stderr)
+        return 2
+    print(f"fixture OK ({len(FIXTURE)} anchors agree)\n")
+
+    zones, spot_rows, ar_series, non_spot, unassigned = build_zones(spots, docs)
 
     # ---------------------------------------------------------------- census
     print("=" * 78)
@@ -432,6 +489,14 @@ def main() -> int:
         for s in sorted(far, key=lambda s: -s["dist"])[:15]:
             print(f"    {s['display']:<38} {s['dist']:>6.1f} nm from "
                   f"{s['zone']['display']}")
+
+    if unassigned:
+        print(f"\n## !! UNASSIGNED by a section split ({len(unassigned)}) — "
+              f"these would be LOST")
+        for name, section in unassigned:
+            print(f"  {name:<52} (was in: {section})")
+        print("  Fix: add each to a SECTION_SPLITS group, or remove the "
+              "section from FILTER_SECTIONS.")
 
     if non_spot:
         print(f"\n## Not minted as pages — YOUR CALL ({len(non_spot)})")
