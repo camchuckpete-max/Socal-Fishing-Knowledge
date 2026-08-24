@@ -7,6 +7,10 @@ name: verify-external
 #
 # Dispatch manually once the fact-check phase has populated the ledger.
 # Kill switch: the same STOP file.
+#
+# A byte-identical copy is registered on main so dispatch-by-name resolves
+# (see review-chunk.yml's header); the main copy is workflow_dispatch-only
+# and inert. Both copies retire together at GATE B.
 
 on:
   workflow_dispatch:

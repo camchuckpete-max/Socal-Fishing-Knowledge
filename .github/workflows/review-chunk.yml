@@ -1,8 +1,15 @@
 name: review-chunk
-# Unattended editorial-review chunk runner (sources/plan-review.md). Lives
+# Unattended editorial-review chunk runner (sources/plan-review.md). Executes
 # ONLY on the review branch; nothing here ever writes to main. Clone of the
 # battle-tested batch-3 ingest-chunk.yml with the review's worklist, prompts,
 # and guard.
+#
+# A byte-identical copy is REGISTERED on main because `gh workflow run`
+# resolves workflow names against the default-branch registry (the batch-3
+# precedent: main declared batch2-ingest-chunk so its trampoline could
+# dispatch it). The main copy is workflow_dispatch-only and thus inert —
+# every dispatch targets --ref the review branch, so THIS copy is what runs.
+# Both copies retire together at GATE B.
 #
 # The chain sustains itself by self-re-dispatch. Phases (transform ->
 # relocations -> gazetteer -> fact-check -> cluster consistency) roll
