@@ -60,23 +60,15 @@ through the winter from November, with consistent yellowtail limits posted
 own advice is to plan 2–3 months out, then follow the operators and talk to
 the captains close to the date.
 
-## Paperwork — the big three, plus insurance
+## Paperwork
 
-**Regulatory (Mexico — INM for entry, CONAPESCA for fishing; as reported
-2026-08-06. Verify current requirements before you travel — these change and
-this is a foreign jurisdiction.)**
+Mexican entry and fishing paperwork — the FMM, the CONAPESCA licence, the
+passport and mandatory vehicle insurance — is the same for every Mexican trip
+and lives one rung up, in [Mexican waters](mexican-waters.md). Nothing on this
+page is BOLA-specific paperwork; go there before you drive.
 
-1. **FMM** (the tourist permit) — filled out online in advance. Needs passport
-   details, point of entry, and length of stay; it produces a printout. **Print
-   it.** One viewer reported being checked three times on a previous trip.
-2. **Mexican fishing licence** — bought online; the source notes a *new*
-   website for it as of 2026, so search fresh rather than trusting an old
-   bookmark. Have your passport with you.
-3. **Passport.**
-
-**Vehicle insurance is separate and mandatory in practice:** **Baja Bound** is
-the named recommendation. Reported cost for a 4-day trip — **~$90** for a 2021
-car, **~$130** for a newer Tacoma.
+⚠ Flagged gap — no corpus source: whether the Midriff-islands biosphere
+bracelet applies to a BOLA trip.
 
 ## Getting there
 

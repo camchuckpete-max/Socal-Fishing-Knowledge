@@ -109,7 +109,9 @@ out-of-region.
 ## Linked from
 
 - [Cedros Island](cedros-island.md)
+- [Coronado Islands](coronado-islands.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
+- [Mexican waters](mexican-waters.md)
 - [Source Registry](../sources/source-registry.md)
 <!-- backlinks:end -->

@@ -1,0 +1,106 @@
+---
+type: zone
+tags: [coronado-islands, rockpile, middle-grounds, yellowtail, mexico, island]
+sources: [D5DR7Kx42_A, HTowqnwAMeA, cameron, nate]
+confidence: high
+regions: [baja-pacific-north]
+waters: [island, bank]
+layout: v2
+parent: regions.md
+structure_type: four-island chain with kelp edges, high spots and a mid-chain bank
+depth_band: unknown
+distance_nm: ~13 nm from the San Diego bay entrance
+coordinates: 32°24.8'N 117°15.9'W
+---
+
+# Coronado Islands
+
+A four-island chain roughly 13 nm off the San Diego bay entrance (cameron),
+and the
+closest island fishing to a major US port — which is why it is the springtime
+yellowtail trip on San Diego's doorstep. It is also **Mexican water**, so the
+day starts with paperwork rather than tackle.
+
+The chain runs roughly NW–SE: North Island, Middle Grounds between the islands,
+South Island and the outlying Rockpile. Nearly everything here is fished as one
+circuit rather than as separate destinations, which is what makes it a zone.
+
+## Getting there
+
+About **13 nm** from the San Diego bay entrance (cameron) — a short run that
+puts island structure within a half-day for boats that could not otherwise
+reach one.
+
+**The jurisdiction is the gate.** These are Mexican waters: seasons, limits and
+licensing are CONAPESCA/INM, not CDFW, and the paperwork is
+[Mexican waters](mexican-waters.md) (`D5DR7Kx42_A`).
+⚠ Flagged gap — no corpus source: exactly what a *boat* run to the Coronados
+requires — permits, passports, whether an FMM applies to a day trip that never
+lands. This is the most common Mexican-water trip in the KB and the corpus does
+not answer it.
+
+## Structure & bathymetry
+
+The chain gives island edges, kelp, and a mid-chain bank in a compact area:
+kelp stringers along the island faces, the **Middle Grounds** bank between the
+islands, and the **Rockpile** standing off to the southeast. The
+[Coronado Canyon](regions.md) and the Lower 9 Mile Bank sit just north of the
+chain and fish as rockfish ground rather than as part of the island circuit.
+
+⚠ Flagged gap — no corpus source: depth bands and bottom composition per spot.
+Charted positions for all eleven spots are in
+[the spot library](../sources/spot-lists.md); the per-spot pages carry them.
+
+## What's there
+
+| species | season | what this zone does for them |
+| --- | --- | --- |
+| [Yellowtail](../species/yellowtail.md) | spring peak, Apr–Jun | The zone fires early — the Coronados and the first paddy yellows show together on the warming transition |
+| [Rockfish & lingcod](../species/rockfish-lingcod.md) | year-round, season-gated | The canyon and the areas north of North Island are rockfish ground, distinct from the island circuit |
+| [Bonito](../species/bonito.md) | summer | ⚠ Flagged gap — no corpus source on zone-specific bonito behaviour here |
+
+## How it fishes
+
+**One circuit, not a list of stops.** The day is a troll-search loop: figure-8
+patterns around the islands and a pass across the Middle Grounds between them,
+covering island edges and mid-chain structure in one sweep, then converting on
+sign or a troll strike (`HTowqnwAMeA`). Trolling here is prospecting that
+happens to hook fish rather than the presentation itself.
+
+**Terns are worth reading here specifically.** The Coronados are where tern
+sign is most often seen and is considered worth acting on (cameron); general
+method in [bird reading](../conditions/bird-reading.md).
+
+**Water flips fast.** Coronado droughts run in hours, not months — a
+seeing-not-biting stretch can turn inside a single day, which is why the
+circuit is worth re-running rather than abandoning.
+
+The full trip story for yellowtail — the program, the reads, the outfits — is
+[targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md).
+
+## Spots
+
+Eleven charted spots, all within the circuit:
+
+- **Pukey Point** — northern end of the chain.
+- **Middle Grounds** — the mid-chain bank, trolled between the islands.
+- **Ribbon Kelp**, **5-Minute Kelp**, **South Kelp Ridge** — the kelp edges.
+- **Lighthouse** — south island landmark.
+- **Rockpile** — outlying high spot to the southeast, a BightSST eval target.
+- **Coronado Canyon**, **Lower 9 Mile Bank**, **North of North Island**, **East
+  of Pukey Point** — the rockfish ground north of the chain.
+
+Per-spot pages with coordinates land with the gazetteer phase; positions are in
+[the spot library](../sources/spot-lists.md) meanwhile.
+
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/coronado-islands.md).
+
+<!-- backlinks:start -->
+## Linked from
+
+- [Evidence — Coronado Islands](evidence/coronado-islands.md)
+- [Pukey Point](pukey-point.md)
+<!-- backlinks:end -->

@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 32 flagged gaps, 29 flagged stubs, 9 unknown infobox values._
+_Totals: 44 flagged gaps, 29 flagged stubs, 12 unknown infobox values._
 
 ## species/
 
@@ -88,4 +88,26 @@ _Totals: 32 flagged gaps, 29 flagged stubs, 9 unknown infobox values._
   - `Landing & handling`: gap — yellowtail-specific bleeding, chilling,
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+
+## locations/
+
+- **locations/bahia-de-los-angeles.md**
+  - `Paperwork`: gap — whether the Midriff-islands biosphere
+- **locations/coronado-islands.md**
+  - `Getting there`: gap — exactly what a *boat* run to the Coronados
+  - `Structure & bathymetry`: gap — depth bands and bottom composition per spot.
+  - `What's there`: gap — on zone-specific bonito behaviour here |
+  - infobox `depth_band`: unknown
+- **locations/mexican-waters.md**
+  - `Papers you need`: gap — whether a boat run from San Diego into
+  - `Papers you need`: gap — the Midriff-islands biosphere bracelet, and
+  - `On the water`: gap — boarding and inspection practice, what the
+  - `Bringing fish home`: gap — US customs declaration for fish caught in
+- **locations/pukey-point.md**
+  - `Getting there`: gap — approach, anchoring and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, kelp and how the
+  - `What's there`: gap — on spot-specific behaviour |
+  - `How it fishes`: gap — . The zone-level program — the troll-search
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
 <!-- review:gaps:end -->

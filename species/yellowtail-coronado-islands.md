@@ -7,7 +7,7 @@ regions: [baja-pacific-north]
 waters: [island]
 layout: v2
 species: yellowtail.md
-zone: Coronado Islands
+zone: ../locations/coronado-islands.md
 season_window: spring (warming transition)
 run: ~13 mi from San Diego
 ---
@@ -136,6 +136,8 @@ are different animals:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Coronado Islands](../locations/coronado-islands.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
+- [Pukey Point](../locations/pukey-point.md)
 - [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

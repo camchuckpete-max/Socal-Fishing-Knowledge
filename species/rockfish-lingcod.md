@@ -342,6 +342,7 @@ the *bottom*, not the fish.
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Sheephead](sheephead.md)
+- [Coronado Islands](../locations/coronado-islands.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)

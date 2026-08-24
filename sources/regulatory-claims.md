@@ -77,8 +77,10 @@ recorded so the figure isn't mistaken for a verified limit:
 ## Known gap
 
 **Mexican licensing and entry requirements are absent from the knowledgebase**
-— `FMM`, `tourist permit`, and `fishing licence` return no hits outside this
-file. Anyone planning a Baja trip needs the FMM, a CONAPESCA fishing permit,
+— **CLOSED 2026-08-24**: `locations/mexican-waters.md` now holds the FMM,
+CONAPESCA licence, passport and insurance requirements, relocated out of the
+BOLA trip page. What remains open is narrower: day-boat runs into Mexican
+water, boarding practice, and US declaration on the way home. Anyone planning a Baja trip needs the FMM, a CONAPESCA fishing permit,
 a passport, and Mexican auto insurance, and the KB currently says none of it.
 Phase 3 closes this from `P36VGPPf120`, which covers the permits, the border
 route, and the insurance carriers by name.
@@ -91,6 +93,7 @@ route, and the insurance carriers by name.
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Mexican waters](../locations/mexican-waters.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Yellowtail](../species/yellowtail.md)

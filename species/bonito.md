@@ -267,6 +267,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Coronado Islands](../locations/coronado-islands.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)

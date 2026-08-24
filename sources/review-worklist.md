@@ -269,4 +269,7 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-white-seabass-rod-reel-line.md | light | pending |  |  |
 | species/yellowtail-coronado-islands.md | standard | transformed | gaps(4) spots(2) | zone-guide exemplar: nate program + Coronados corpus, corpus-only verified with 11 timestamped spot-checks; name-cites stripped per v2.1 |
 | species/yellowtail-surface-iron.md | standard | transformed |  | spun out of the yellowtail router + surface-iron (supervised exemplar); paired cite conservation verified |
+| locations/mexican-waters.md | geo | transformed |  | jurisdiction exemplar (supervised); absorbed the relocated Mexico paperwork |
+| locations/coronado-islands.md | geo | transformed |  | zone exemplar (supervised); 11 charted spots, gives the zone guide a real zone link |
+| locations/pukey-point.md | gazetteer | transformed |  | minimum spot exemplar (supervised); coordinates + parent zone + flagged gaps |
 <!-- review:worklist:end -->
