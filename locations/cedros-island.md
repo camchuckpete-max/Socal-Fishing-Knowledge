@@ -336,4 +336,5 @@ than iron.
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 <!-- backlinks:end -->

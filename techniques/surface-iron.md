@@ -85,9 +85,8 @@ merged into — the steady-grind cadence doctrine below; see
 - **Fish the retrieve tip-down.** The rod tip pointed down toward the water
   lets the iron kick side to side properly; tip-up pulls it up onto the
   surface where it stops swimming right (`VpW91AKOFVQ`, `3dVc-2rsYII`).
-  Yellowtail often eat the jig **right next to the boat or kayak** when a fish
-  has trailed it in — keep working the retrieve, tip down, all the way back
-  (`VpW91AKOFVQ`).
+  How far this bite zone extends is species-specific — see
+  [yellowtail — surface iron](../species/yellowtail-surface-iron.md).
 - **Match crank speed to reel gear ratio, not a fixed cadence.** A high-gear
   jig-stick reel (~**42 in per crank** on a Tranx-500-class HG) covers slow
   grind to fast yellow speed on crank cadence alone. A high-speed reel
@@ -134,10 +133,8 @@ merged into — the steady-grind cadence doctrine below; see
   almost like a [yo-yo iron](yo-yo-iron.md) drop, then resume the normal
   surface retrieve — it covers different depths instead of only fishing the
   top (`ntQXxcH5sjI`). The tip runs through the corpus from 2016 on, on both
-  the SoCal and Cedros sides of the fishery: an iron sunk about **30 ft**
-  before winding drew a first-cast strike at Catalina (`oadK6zIYyCo`); the
-  same move on a Tady 45 was framed as a near-"yellowtail guarantee" at Cedros
-  (`9tIp4n7q850`). A different fall-bite context — casts allowed to fall
+  the SoCal and Cedros sides of the fishery: the yellowtail cases — Catalina and Cedros — are in
+  [yellowtail — surface iron](../species/yellowtail-surface-iron.md). A different fall-bite context — casts allowed to fall
   immediately at anchor over kelp, bit **on the fall** (`NGxyOlPx3ug`) — is
   kept beside, not merged, in the [evidence file](evidence/surface-iron.md).
 - **Hookset — wind through it, don't swing.** On the bite, wind through it,
@@ -225,9 +222,9 @@ while somebody is still connected.
   small iron by **Killer**, and a small Tady named on camera with the
   speaker's own stated uncertainty as "a A1 or AA or something" (kept as said,
   not resolved to a model) — framed explicitly for **small anchovy** bait
-  (`JgXMpjxRxmo`). The smaller jig isn't only a smaller-grade-fish pattern:
-  even bigger yellowtail key onto small anchovy and can be out-produced by the
-  smaller jig too, strongest **earlier in the year** (`JgXMpjxRxmo`).
+  (`JgXMpjxRxmo`). That bait-size-over-fish-size reading is worked out for
+  yellowtail in
+  [yellowtail — surface iron](../species/yellowtail-surface-iron.md).
 - **The Tady 45 / Salas 7X pairing as "the number one" surface iron dates to
   at least 2009.** Asked for his favorite lure, a Searcher captain named the
   surface iron fished on a long rod for the distance it casts, reaching for a
@@ -472,7 +469,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 <!-- species-applications:start -->
 ## Species applications
 
-_No species sub-articles yet._
+- [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 <!-- species-applications:end -->
 
 <!-- backlinks:start -->
@@ -517,5 +514,6 @@ _No species sub-articles yet._
 - [Wiring a Surface Iron](../rigging/wiring-a-surface-iron.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 - [Yo-Yo Iron](yo-yo-iron.md)
 <!-- backlinks:end -->

@@ -28,6 +28,7 @@
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna — 8–10 lb up to 40–50 lb, with 15–25 lb the average grade.
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md) **[Baja only]** — The Coronados are the springtime yellowtail trip on San Diego's doorstep: an island chain roughly 13 mi out, off the coast of Mexico, whose west side is exposed
+- [Yellowtail — surface iron](yellowtail-surface-iron.md) — The long rod and a Tady 45 or Salas 7X is the first outfit off the rack when yellowtail show on top, and the reason is reach: it puts a big profile on fish that
 - [Yellowtail](yellowtail.md) — Yellowtail show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and bottom fish stacked on pinnacles and high spots.
 
 ### Subfolders
@@ -64,13 +65,14 @@ graph LR
   n21["White Seabass"]
   n22["Yellowfin Tuna"]
   n23["Targeting yellowtail — Coronado Islands"]
-  n24["Yellowtail"]
+  n24["Yellowtail — surface iron"]
+  n25["Yellowtail"]
   n0 --> n3
   n0 --> n5
   n1 --> n2
   n12 --> n14
   n12 --> n2
-  n12 --> n24
+  n12 --> n25
   n12 --> n3
   n12 --> n9
   n13 --> n5
@@ -91,7 +93,7 @@ graph LR
   n20 --> n13
   n20 --> n22
   n20 --> n8
-  n21 --> n24
+  n21 --> n25
   n21 --> n6
   n22 --> n11
   n22 --> n12
@@ -99,26 +101,28 @@ graph LR
   n22 --> n18
   n22 --> n2
   n22 --> n20
-  n22 --> n24
+  n22 --> n25
   n22 --> n8
-  n23 --> n24
-  n24 --> n23
+  n23 --> n25
+  n24 --> n25
+  n25 --> n23
+  n25 --> n24
   n3 --> n0
-  n3 --> n24
+  n3 --> n25
   n3 --> n5
   n5 --> n0
   n5 --> n13
   n5 --> n17
-  n5 --> n24
+  n5 --> n25
   n5 --> n3
   n5 --> n6
   n6 --> n21
-  n6 --> n24
+  n6 --> n25
   n6 --> n8
   n8 --> n2
   n8 --> n20
   n8 --> n22
-  n8 --> n24
+  n8 --> n25
   n8 --> n6
   n9 --> n12
 ```

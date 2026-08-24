@@ -616,5 +616,6 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [White Seabass](../species/white-seabass.md)
 - [Wiring a Surface Iron](../rigging/wiring-a-surface-iron.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->

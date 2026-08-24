@@ -269,4 +269,5 @@ against alternatives.
 - [Surface Iron](surface-iron.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 <!-- backlinks:end -->

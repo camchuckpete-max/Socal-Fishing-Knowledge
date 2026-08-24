@@ -741,4 +741,5 @@ the reverse map in **Linked from** below.
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)
+- [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)
 <!-- backlinks:end -->

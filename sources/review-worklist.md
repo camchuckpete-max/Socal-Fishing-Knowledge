@@ -268,4 +268,5 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-trophy-bluefin-jig-outfit.md | light | pending |  |  |
 | tackle/tackle-express-white-seabass-rod-reel-line.md | light | pending |  |  |
 | species/yellowtail-coronado-islands.md | standard | transformed | gaps(4) spots(2) | zone-guide exemplar: nate program + Coronados corpus, corpus-only verified with 11 timestamped spot-checks; name-cites stripped per v2.1 |
+| species/yellowtail-surface-iron.md | standard | transformed |  | spun out of the yellowtail router + surface-iron (supervised exemplar); paired cite conservation verified |
 <!-- review:worklist:end -->
