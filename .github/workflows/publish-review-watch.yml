@@ -6,9 +6,11 @@ name: publish-review-watch
 # Successor to publish-bight-watch.yml (batch 3, retired) on the same Pages
 # site. Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 #
-# Cameron's review surface for the transform job: conservation checks,
-# adjudication queues (ledger/relocations/escalations), gap totals, phase +
-# throughput, per-folder progress, recent diffs, chain card.
+# Cameron's review surface for the transform job, v3 (2026-08-24): the
+# Bight Watch chassis — sonar map, rail, slide-over article reader — with
+# per-note Article / Before / Changes / Evidence tabs, cite-conservation
+# checks, adjudication queues, and passage-level review notes exported as
+# one markdown feedback block.
 
 on:
   # Freshness comes from the event, not the clock: a chunk finishing is the
@@ -91,5 +93,3 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-
-# kick: 2026-08-24 builder fix on the review branch
