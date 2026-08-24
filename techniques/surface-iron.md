@@ -483,6 +483,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — California Barracuda](../species/evidence/barracuda.md)
 - [Evidence — Surface Iron](evidence/surface-iron.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

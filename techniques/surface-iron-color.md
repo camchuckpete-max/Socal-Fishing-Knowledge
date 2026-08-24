@@ -257,6 +257,7 @@ against alternatives.
 <!-- backlinks:start -->
 ## Linked from
 
+- [California Barracuda](../species/barracuda.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)

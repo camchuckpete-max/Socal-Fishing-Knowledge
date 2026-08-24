@@ -53,6 +53,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Depth-based rockfish closure line (Rockfish Conservation Area boundary) varies by location | ~240 ft near the islands vs. ~75 fathom (450 ft) nearer the coast, in the presenter's examples | 2020-03; live-seminar recollection, verify current boundary with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 | Rockfish depth allowance varies by season; local-boat max in one operator's telling | "unlimited" status (300 ft–3,000 ft framing) down to ~800–850 ft max on local SoCal boats | 2026-04; self-hedged on camera, verify current depth limits with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `D0bQjAL0gGU` |
 | Farnsworth Bank (Catalina) marine closure — keep-list limited to yellowtail and bonito; everything else released | only yellowtail and bonito may be kept inside the closure area | 2022-10-26 | [yellowtail](../species/yellowtail.md) | `5p6gu14ZC4w` |
+| California barracuda minimum size — a SoCal sportboat crew counts undersized fish separately as "short" barracuda, implying a legal minimum; no figure, gauge or release is stated on camera | **unknown — gauge, measuring method and bag limit all absent from the corpus** | 2013-07-04 (the observation); gap flagged 2026-08 — verify the current minimum size and bag limit with CDFW | [California barracuda](../species/barracuda.md) | `M6U_FVdosr4` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -85,6 +86,7 @@ route, and the insurance carriers by name.
 ## Linked from
 
 - [Barred Sand Bass](../species/sand-bass.md)
+- [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)

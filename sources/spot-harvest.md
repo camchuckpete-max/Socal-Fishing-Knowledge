@@ -56,4 +56,18 @@ harvested.
 | Santa Barbara Island | techniques/surface-iron.md | Gear class | 50 lb top shot — overnight range, a trophy-yellowtail shot at any moment | `LTCFjqtSI8g` |
 | Coronado Islands | species/yellowtail-coronado-islands.md | The program | zone-guide trip: troll-search with Halco 190-class divers, figure-8s around the islands, convert on sign | nate, `D5DR7Kx42_A` |
 | Middle Grounds (Coronado Islands) | species/yellowtail-coronado-islands.md | The program | trolled as part of the Coronados search circuit, between the islands | nate |
+| Santa Monica Bay | species/barracuda.md | Where & when | July barracuda still being caught up in the bay, alongside beach barracuda/calico/sand bass | `DnSqw4r7A1s` |
+| Channel Islands | species/barracuda.md | Where & when | island anglers getting calicos and "nice barracuda"; the three B's on live-squid variety days | `DnSqw4r7A1s`, `6-8KfjEg0x8`, `-JZpyWLdKlk` |
+| Santa Cruz Island | species/barracuda.md | Where & when | "still some barracuda caught" in early August | `CMQkHQMxbXM` |
+| Anacapa Island | species/barracuda.md | Where & when | "still some barracuda caught" in early August | `CMQkHQMxbXM` |
+| Catalina Island | species/barracuda.md | Where & when | a few late-May barracuda for anglers fishing surface presentations; a barracuda on a Tady 45 sunk ~30 ft | `S2L3KLSQ6Is`, `oadK6zIYyCo` |
+| San Clemente Island | species/barracuda.md | Where & when / Feeding triggers | front-side yellowtail is a morning bite, then a pick day of bass, barracuda and bonito; October barracuda on a yellowtail charter | `Blh2BA-7Ono`, `Klfb433I3Uk` |
+| Palos Verdes — outside kelp "below Rocky", "shark fin", "Flat Rock" | species/barracuda.md | evidence — SoCal coast and islands | barracuda taken on the leading outside edge of laid-down kelp in early October | `0KQ--N5TjqE` |
+| Dana Point (Dana Wharf) | species/barracuda.md | Presence & forage | July kelp session — "short" barracuda in the kelp, biting the smaller sardines | `M6U_FVdosr4` |
+| Coronado Islands | species/barracuda.md | Presence & forage | a large live mackerel screens barracuda, calico and bonito off the bait | `YVHdDbkQrKk`, `w5_x6kkN-xE` |
+| Ensenada | species/barracuda.md | Where & when | barracuda named with bonito and yellowtail as the standing inshore mix | `0dIwWiOc1NY` |
+| Hotel Coral high spot (~7–8 mi out, Ensenada) | species/barracuda.md | Where & when | barracuda an expected species on a high spot cresting ~25 ft from ~200 ft; none shown caught | `CKq0Z6ExVs4` |
+| La Bocana | species/barracuda.md | Where & when | inshore rock structure named "the Barracuda grounds," distinct from the offshore tuna grounds; jigs to ~80 ft, a hookup "every single drop" | `Cobp85UvHmM`, `qri15R3caYE` |
+| Bahía de los Ángeles | species/barracuda.md | evidence — out of region | repeated shore-caught barracuda from the beach; Sea of Cortez, outside this note's region gate | `HC64Tzc_aTo` |
+| Loreto | species/barracuda.md | evidence — out of region | trolled barracuda called from the fight (no yellowtail head shakes, long profile) | `ikiXx9sUsoA` |
 <!-- review:harvest:end -->

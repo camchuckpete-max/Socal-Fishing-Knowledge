@@ -11,7 +11,7 @@ by their builders after the transform phase drains.
 <!-- review:worklist:start -->
 | note | tier | status | flags | result |
 | --- | --- | --- | --- | --- |
-| species/barracuda.md | full | pending |  |  |
+| species/barracuda.md | full | transformed | gaps(8), misplaced(0), spots(14), reg-claims(1), fact-check(3), asr-uncertain(2) | transform verified, applied with 7 fixes: 1 invented tactic removed, 3 claim-inflations restated to source, 1 dropped before-claim restored under flag, 1 specific recovered |
 | species/bluefin-trolling.md | full | pending |  |  |
 | species/bluefin-tuna.md | full | pending |  |  |
 | species/bonito.md | full | pending |  |  |

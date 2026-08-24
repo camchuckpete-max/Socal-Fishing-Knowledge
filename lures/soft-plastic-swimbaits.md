@@ -636,6 +636,7 @@ baits and heads from the class terms above; see
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](../tackle/tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Cheater Troll](../techniques/cheater-troll.md)

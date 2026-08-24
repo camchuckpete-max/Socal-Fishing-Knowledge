@@ -4,7 +4,7 @@
 <!-- index:start -->
 ## Index
 
-- [California Barracuda](barracuda.md) — A nearshore pelagic that patrols the kelp lines, boiler zones, and beach edges and shows up in the same water as the coastal bass.
+- [California Barracuda](barracuda.md) — Barracuda are the toothy member of the SoCal "three B's" — bass, barracuda, bonito — taken off the same kelp lines, boiler rocks and beach edges that hold calic
 - [Bluefin Trolling](bluefin-trolling.md) **[SoCal only]** — The decision spin-out for bluefin tuna: which trolled or towed presentation to pull, and when, by wind, fish grade, water, and sea state.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin are SoCal's premier big-game target — a multi-year-resident fishery that runs from sub-30 lb schoolies to 300 lb+ cows in the same season.
 - [Pacific Bonito](bonito.md) — A schooling nearshore pelagic that runs in fast, hard-charging packs on the bait, boiling on the surface and firing up everything around it.
@@ -65,7 +65,6 @@ graph LR
   n22["Yellowfin Tuna"]
   n23["Targeting yellowtail — Coronado Islands"]
   n24["Yellowtail"]
-  n0 --> n12
   n0 --> n3
   n0 --> n5
   n1 --> n2
