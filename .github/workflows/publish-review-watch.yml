@@ -6,12 +6,19 @@ name: publish-review-watch
 # Successor to publish-bight-watch.yml (batch 3, retired) on the same Pages
 # site. Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 #
-# Cameron's review surface for the transform job, v3.1 (2026-08-24): the
+# Cameron's review surface for the transform job, v3.2 (2026-08-24): the
 # Bight Watch chassis, now with a Map view — all 391 charted spots pinned at
 # their real coordinates with the jurisdiction/region/zone hierarchy drawn as
-# colours and hulls. Leaflet is vendored + inlined by the builder; OSM tiles
-# are fetched at view time, which is why this lives on Pages rather than as a
-# published Claude Artifact (whose CSP blocks external tile hosts).
+# colours and hulls, and a pin click that opens the spot's article or, where
+# it is not written yet, everything the KB already knows about the place.
+# Basemap defaults to the Esri ocean base because most of these spots are
+# offshore and bathymetry is what explains them; OSM streets are one click
+# away for ports and the coastal zones.
+#
+# Leaflet is vendored + inlined by the builder, so the page carries no runtime
+# CDN dependency. Map TILES are fetched at view time, which is why this lives
+# on Pages rather than as a published Claude Artifact (whose CSP blocks
+# external tile hosts).
 #
 # The rest of the chassis: sonar map, rail, slide-over reader with per-note
 # Article / Before / Changes / Evidence tabs, cite-conservation checks,
