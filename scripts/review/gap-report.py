@@ -58,8 +58,11 @@ def main() -> int:
                     notes.append(f"  - `{section}`: gap"
                                  + (f" — {detail}" if detail else ""))
                     totals["gap"] += 1
-                elif note_schema.FLAG_STUB in line:
-                    notes.append(f"  - `{section}`: flagged stub row")
+                elif "⚠ Flagged stub" in line:
+                    tail = ("zone guide missing"
+                            if note_schema.FLAG_STUB_ZONE in line
+                            else "flagged stub row")
+                    notes.append(f"  - `{section}`: {tail}")
                     totals["stub"] += 1
             if note_schema.layout_of(text) == note_schema.LAYOUT_CURRENT:
                 ntype = note_schema.fm_value(text, "type")

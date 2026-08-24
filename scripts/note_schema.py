@@ -37,6 +37,7 @@ REQUIRED_SECTIONS: dict[str, list[str]] = {
         "## Finding them",
         "## Situations → techniques",
         "## Gear summary",
+        "## Zone guides",
         "## Regulations",
         "## Doctrine & conflicts",
         "## Landing & handling",
@@ -126,6 +127,10 @@ LEGACY_BARE_DATE_RE = re.compile(r"\((\d{1,2}/\d{1,2}/\d{2})\)")
 # scripts/review/gap-report.py into sources/gap-report.md.
 FLAG_GAP = "⚠ Flagged gap — no corpus source"
 FLAG_STUB = "⚠ Flagged stub — no corpus source yet"  # router rows; pre-dates v2
+# Zone-guide stub rows: corpus material EXISTS (parked in evidence "Zone
+# material"), only the guide note is missing — so the canonical tail would be
+# false. Blessed 2026-08-24 (verifier escalation on the yellowtail rework).
+FLAG_STUB_ZONE = "⚠ Flagged stub — no zone guide yet"
 FACTCHECK_CATEGORIES = ("single-source", "contradicted-by-source",
                         "contradicted-internal", "external-mismatch",
                         "unverifiable")

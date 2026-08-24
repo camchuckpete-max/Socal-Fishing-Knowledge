@@ -157,6 +157,7 @@ V2_SPECIES_BODY_OK = (
     "## Where & when\nx\n\n## Presence & forage\nx\n\n## Spawning\nx\n\n"
     "## Feeding triggers\nx\n\n## Finding them (sign & sonar)\nx\n\n"
     "## Situations → techniques\nx\n\n## Gear summary (class terms)\nx\n\n"
+    "## Zone guides\nx\n\n"
     "## Regulations\nx\n\n## Doctrine & conflicts\nx\n\n"
     "## Landing & handling\nx\n")
 

@@ -114,7 +114,8 @@ Machine-readable inline markers; grammar is fixed (`scripts/note_schema.py`):
 | --- | --- |
 | `⚠ Flagged gap — no corpus source` | A mandated section/field the corpus cannot fill. Aggregated into `sources/gap-report.md`. |
 | `⚠ Flagged stub — no corpus source yet` | Router-row form (pre-dates v2, unchanged). |
-| `⚠ Fact-check (<category>): <one line>` | Fact-check finding; categories: `single-source`, `contradicted-by-source`, `contradicted-internal`, `external-mismatch`, `unverifiable`. Every flag also gets a row in `sources/fact-check-ledger.md`. **Flags never delete or reword the claim they sit beside** — single-source does not mean wrong; Cameron adjudicates the ledger. |
+| `⚠ Flagged stub — no zone guide yet` | Zone-guides row: corpus material exists (parked in the evidence file's "Zone material"), only the guide note is missing. |
+| `⚠ Fact-check (<category>): <one line>` | Fact-check finding; categories: `single-source`, `contradicted-by-source`, `contradicted-internal`, `external-mismatch`, `unverifiable`. Every flag also gets a row in `sources/fact-check-ledger.md`. **Flags never delete or reword the claim they sit beside** — single-source does not mean wrong; Cameron adjudicates the ledger. A ledger row MAY also stand without an inline flag when it records a **demotion adjudication** (a claim moved to the evidence file under the single-observation rule) — the evidence entry cross-references the row. |
 | `⚠ cite-unresolved: <original>` | A legacy cite that could not be mechanically resolved to a source id. |
 | `⚠ misplaced-content: <one line>` | Content that belongs in another note; paired with a row in `sources/relocation-queue.md`. The transform never moves content across notes itself. |
 

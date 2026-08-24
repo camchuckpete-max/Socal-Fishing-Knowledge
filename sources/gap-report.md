@@ -6,10 +6,36 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 0 flagged gaps, 1 flagged stubs, 0 unknown infobox values._
+_Totals: 11 flagged gaps, 10 flagged stubs, 2 unknown infobox values._
 
 ## species/
 
+- **species/cabrilla.md**
+  - `Finding them (sign & sonar)`: flagged stub row
 - **species/california-halibut.md**
   - `Situations → techniques`: flagged stub row
+- **species/snook.md**
+  - `Finding them (sign & sonar)`: flagged stub row
+- **species/yellowtail-coronado-islands.md**
+  - `Mexican waters — hard gate`: gap — what a boat run
+  - `The program`: gap — the anchor-vs-drift commit call at the
+  - `Reading the day`: gap — mechanism
+  - `Differs from nearby zones`: gap — the La Jolla program shape (search
+- **species/yellowtail.md**
+  - `Where & when`: gap — the numeric SST bands;
+  - `Spawning`: gap — when, where, or how yellowtail spawn, or
+  - `Feeding triggers`: gap — mechanism — why
+  - `Feeding triggers`: gap
+  - `Feeding triggers`: gap — moon-phase effect. The operative question
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — California (CDFW) bag/size limits for
+  - `Landing & handling`: gap — yellowtail-specific bleeding, chilling,
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
 <!-- review:gaps:end -->
