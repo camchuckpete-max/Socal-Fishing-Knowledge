@@ -111,7 +111,10 @@ REGIONS = {
 }
 WATERS = {"bay-harbor", "nearshore-coast", "island", "bank", "open-ocean"}
 GATED_TYPES = {"species", "technique", "lure", "rig", "location", "seasonal",
-               "bait", "decision", "zone-guide"}
+               "bait", "zone-guide", "species-technique",
+               # the geographic ladder (amendment v2.2). `jurisdiction` is NOT
+               # gated: US/Mexican waters span every region by definition.
+               "region", "area", "zone"}
 FM_LIST_RE = re.compile(r"^(regions|subregions|waters): \[(.*?)\]\s*(?:#.*)?$",
                         re.M)
 FM_TYPE_RE = re.compile(r"^type:\s*(\S+)", re.M)
@@ -119,6 +122,9 @@ FM_TYPE_RE = re.compile(r"^type:\s*(\S+)", re.M)
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 H1_RE = re.compile(r"^#\s+(.*?)\s*$", re.MULTILINE)
 
+APPLY_START = "<!-- species-applications:start -->"
+APPLY_END = "<!-- species-applications:end -->"
+FM_PATH_FIELD_RE = re.compile(r"^(\w+):\s*\[[^\]]*\]\(([^)]+\.md)\)", re.M)
 BACKLINK_START = "<!-- backlinks:start -->"
 BACKLINK_END = "<!-- backlinks:end -->"
 INDEX_START = "<!-- index:start -->"
@@ -161,6 +167,14 @@ def title_of(path: Path) -> str:
     if m:
         return m.group(1).strip()
     return path.stem.replace("-", " ").title()
+
+
+def strip_front_matter_keep(text: str) -> str:
+    """Return ONLY the front matter block — where infobox path fields live."""
+    if not text.startswith("---"):
+        return ""
+    end = text.find("\n---", 3)
+    return text[3:end] if end != -1 else ""
 
 
 def strip_front_matter(text: str) -> str:
@@ -440,6 +454,35 @@ def main() -> int:
             file=sys.stderr,
         )
         return 1
+
+    # ---- (a2) regenerate `## Species applications` on technique notes ----
+    # Every species-technique note names its parent technique in the infobox,
+    # so this list is DERIVED, never hand-kept: a new spin-out shows up in its
+    # technique note on the next run and a rename can never orphan it.
+    applications: dict[Path, list[Path]] = {}
+    for note in note_files:
+        text = note.read_text(encoding="utf-8")
+        if not re.search(r"^type:\s*species-technique\s*$", text, re.M):
+            continue
+        for key, target in FM_PATH_FIELD_RE.findall(strip_front_matter_keep(text)):
+            if key != "technique":
+                continue
+            resolved = (note.parent / target).resolve()
+            if resolved.exists():
+                applications.setdefault(resolved, []).append(note)
+    for tech, kids in applications.items():
+        text = tech.read_text(encoding="utf-8")
+        if APPLY_START not in text:
+            continue          # note has not been migrated to carry the block yet
+        kids = sorted(set(kids), key=lambda p: title_of(p).lower())
+        lines = ["## Species applications", ""]
+        for k in kids:
+            rel = os.path.relpath(k, tech.parent)
+            lines.append(f"- [{title_of(k)}]({rel})")
+        new = replace_block(text, APPLY_START, APPLY_END, "\n".join(lines),
+                            where=str(tech.relative_to(ROOT)))
+        if new != text:
+            tech.write_text(new, encoding="utf-8")
 
     # ---- (b) regenerate backlinks on every note ----
     for note in note_files:

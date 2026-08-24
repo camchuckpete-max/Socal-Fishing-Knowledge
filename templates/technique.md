@@ -46,6 +46,16 @@ high-ratio reel is wrong here).
 What goes wrong and how to tell. Every technique note has this section even
 if it starts as a single flagged gap.
 
+## Species applications   (machine-generated, amendment v2.2)
+Between <!-- species-applications:start --> / <!-- species-applications:end -->.
+Explicit prose links to every species x technique sub-article that names this
+note in its `technique:` infobox field — "yellowtail — surface iron",
+"white seabass — surface iron". DERIVED by link-maintenance.py on every run, so
+a new spin-out appears here automatically and a rename can never orphan it:
+never hand-edit between the markers. A technique with no sub-articles yet keeps
+the empty block; the generic mechanics above stay the whole story until one
+earns its page.
+
 ## Evidence
 One line linking evidence/<note>.md (only when observations exist).
 

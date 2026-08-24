@@ -64,8 +64,40 @@ REQUIRED_SECTIONS: dict[str, list[str]] = {
         "## What's there",
         "## How it fishes",
     ],
-    "decision": [
-        "## Situations → techniques",
+    # Species x technique sub-articles (amendment v2.2). `## How` is validated
+    # by prefix; the full canonical heading is
+    # "## How <species> changes the execution".
+    "species-technique": [
+        "## When this is the call",
+        "## How",
+        "## Rigs & gear",
+        "## Differs from the general method",
+    ],
+    # --- the geographic ladder: jurisdiction > region > area > zone > spot.
+    # `location` (above) is the spot rung and keeps its skeleton.
+    "jurisdiction": [
+        "## Papers you need",
+        "## On the water",
+        "## Bringing fish home",
+    ],
+    "region": [
+        "## The fishery",
+        "## Season shape",
+        "## Zones",
+        "## Access & range",
+    ],
+    "area": [
+        "## Ports & launches",
+        "## Bait",
+        "## What's in range",
+        "## Zones",
+    ],
+    "zone": [
+        "## Getting there",
+        "## Structure & bathymetry",
+        "## What's there",
+        "## How it fishes",
+        "## Spots",
     ],
     "zone-guide": [
         "## The program",
@@ -95,7 +127,13 @@ INFOBOX_FIELDS: dict[str, list[str]] = {
     "technique": ["gear_classes", "depth_band", "retrieve_speed"],
     "lure": ["lure_class", "weights", "depth_band", "run_speed"],
     "rig": ["line_class", "hook_sizes"],
-    "location": ["parent_zone", "structure_type", "depth_band", "distance_nm"],
+    "location": ["parent", "structure_type", "depth_band", "distance_nm"],
+    "species-technique": ["species", "technique", "gear_classes",
+                          "conditions_window"],
+    "jurisdiction": ["authority", "as_of"],
+    "region": ["parent", "season_peak"],
+    "area": ["parent", "ports", "range_nm"],
+    "zone": ["parent", "structure_type", "depth_band", "distance_nm"],
     "seasonal": ["regime"],
     "zone-guide": ["species", "zone", "season_window", "run"],
     "evidence": ["parent"],
@@ -109,7 +147,7 @@ LOCATION_OPTIONAL_FIELDS = ["coordinates"]
 # here — omit `parent_zone` on a top-level zone instead. (`zone` on a
 # zone-guide may be plain text until the gazetteer page exists, so it is not
 # listed.)
-PATH_FIELDS = {"parent_zone", "parent", "species"}
+PATH_FIELDS = {"parent_zone", "parent", "species", "technique"}
 
 # --- cites --------------------------------------------------------------------
 # Canonical inline cite forms: a backticked 11-char YouTube video id, or the
