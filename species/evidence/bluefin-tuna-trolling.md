@@ -1,6 +1,6 @@
 ---
 type: evidence
-parent: ../bluefin-trolling.md
+parent: ../bluefin-tuna-trolling.md
 tags: [bluefin, trolling, speed-trolling, kite, spreader-bar, mad-mac]
 sources: [e73wPONTOJU, xzIaUEDklrE, sHnqSIOjTdM, vCskOx6N-XM, elBPRrdkugU, JiJYamo0QHk, bM2vUS1B-yQ, 2y0VznL2qk8, z1CmWHqe9uk]
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 # Evidence — Bluefin Trolling
 
 Trip reports and per-source provenance backing
-[bluefin trolling](../bluefin-trolling.md). One line per observation, grouped
+[bluefin trolling](../bluefin-tuna-trolling.md). One line per observation, grouped
 under the parent note's section headings, in its order. Observations never
 change the parent's stated doctrine; a contradicting one is also traced beside
 that doctrine in the parent.
@@ -122,5 +122,5 @@ that doctrine in the parent.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Trolling](../bluefin-trolling.md)
+- [Bluefin Tuna — trolling](../bluefin-tuna-trolling.md)
 <!-- backlinks:end -->

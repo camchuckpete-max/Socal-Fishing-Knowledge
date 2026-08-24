@@ -97,7 +97,7 @@ One line: Trip reports and per-source provenance: [evidence file](evidence/<note
 ```
 
 Decision spin-outs (`type: decision`) still live in `species/` and follow
-`templates/decision.md`; the router keeps a summary + link. Zone guides
+`templates/species-technique.md`; the router keeps a summary + link. Zone guides
 (`type: zone-guide`, `templates/zone-guide.md`) also live in `species/` as
 `<species>-<zone>.md`.
 

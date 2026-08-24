@@ -94,7 +94,7 @@ auto-generated index.
   type: species            # species|technique|lure|rig|tackle|bait|fish-care|
                            # conditions|seasonal|location|planning|profile|
                            # decision (species-level decision spin-outs,
-                           # e.g. species/bluefin-trolling.md)|
+                           # e.g. species/bluefin-tuna-trolling.md)|
                            # zone-guide (species×zone targeting guides,
                            # e.g. species/yellowtail-coronado-islands.md)
   tags: [bluefin, trolling, offshore]
@@ -203,7 +203,7 @@ The flaw this fixes: species notes and technique notes can each exist while the
    NOT restate species patterns; the generated `## Linked from` section plus that
    list provides the reverse map.
 3. **Decision spin-out notes always live in `species/`.**
-   `species/bluefin-trolling.md` is the escape valve, not a special case:
+   `species/bluefin-tuna-trolling.md` is the escape valve, not a special case:
    decision tables live IN the species router by default; spin out a dedicated
    decision note (in `species/`, never `techniques/`) only when the table
    outgrows the section, and the router keeps a summary + link.
@@ -226,7 +226,7 @@ The flaw this fixes: species notes and technique notes can each exist while the
 - **Decision logic lives at species/technique level; implementation at gear
   level.** Canonical example: `species/bluefin-tuna.md` holds WHEN to pull the
   Mad Mac vs a spreader bar vs kite vs speed-troll by wind/grade/conditions and
-  links each — spinning the table out to `species/bluefin-trolling.md` when it
+  links each — spinning the table out to `species/bluefin-tuna-trolling.md` when it
   grows (NOT `techniques/`); `lures/mad-mac.md` holds specs, rigging, troll
   speed, and links back.
 - **Gear described in class terms** (jig-stick class, 40–60 lb class,

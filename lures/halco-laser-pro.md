@@ -31,7 +31,7 @@ a **low gunnel holder** so the deep bib does its work, default ~27 yd back. Its
 light weight makes it a picky-bite change-up. **When** to reach for a deep diver
 versus a swimmer, a spreader bar, or a speed-trolled
 [Mad Mac](../lures/mad-mac.md) is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
 ## Cross-boat confirmation (SearcherSportfishing)
@@ -64,7 +64,7 @@ Profiles link the subset an angler owns. Cameron's two LP190 XDDs
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

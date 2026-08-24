@@ -11,7 +11,7 @@ Cameron's owned trolling spread (inventory complete as of 7/23/26, ~25 lures inc
 the unidentified skirt bag). **Running specs** — troll speeds, running depths,
 setbacks, leader/top-shot per model — are the spec backbone of the linked
 [lures](../../lures/README.md) notes; this note is the owned subset. How he decides which
-to pull is in [bluefin trolling](../../species/bluefin-trolling.md) and
+to pull is in [bluefin trolling](../../species/bluefin-tuna-trolling.md) and
 [trolling](../../techniques/trolling.md); boat spread geometry is in
 [boat](boat.md).
 
@@ -75,7 +75,7 @@ to pull is in [bluefin trolling](../../species/bluefin-trolling.md) and
 - [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Cedar Plug](../../lures/cedar-plug.md)
 - [DTX Minnow](../../lures/dtx-minnow.md)
-- [Evidence — Bluefin Trolling](../../species/evidence/bluefin-trolling.md)
+- [Evidence — Bluefin Trolling](../../species/evidence/bluefin-tuna-trolling.md)
 - [Halco Laser Pro](../../lures/halco-laser-pro.md)
 - [Mad Mac](../../lures/mad-mac.md)
 - [Rapala Husky Magnum](../../lures/rapala-husky-magnum.md)

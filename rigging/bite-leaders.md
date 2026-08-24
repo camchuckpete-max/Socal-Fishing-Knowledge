@@ -27,7 +27,7 @@ system between the braid main line and the lure.
   the heaviest gear.
 - Complements the trolling and casting approaches in
   [bluefin tuna](../species/bluefin-tuna.md) and
-  [bluefin trolling](../species/bluefin-trolling.md) — the bite leader is the
+  [bluefin trolling](../species/bluefin-tuna-trolling.md) — the bite leader is the
   jig-fishing terminal, not a troll rig.
 - **Casting-metal variant, corroborating (Ray Sharifi, Dirty Hookers,
   42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence):** when
@@ -112,8 +112,8 @@ How-to video: [making bluefin bite leaders](https://www.youtube.com/watch?v=kO_B
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

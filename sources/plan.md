@@ -93,7 +93,7 @@ works with/without profile.
 
 | Item | Change | Section(s) edited |
 | --- | --- | --- |
-| R1 | Canonical example → `species/bluefin-trolling.md` (was techniques/) | Governing conventions (altitude/spin-out) |
+| R1 | Canonical example → `species/bluefin-tuna-trolling.md` (was techniques/) | Governing conventions (altitude/spin-out) |
 | R2 | §5–6 boat.md split corrected; identical wording here + log spec | Export→destination map (§6); Decomposition → profiles/cameron |
 | R3 | Name **GATE A** (execution) and **GATE B** (merge); A's token ≠ B | GATES section; Merge gate; Execution |
 | V3-1 | Registry-based confidence; manifest gains channel+upload_date; `sources/source-registry.md` seeded | Governing conventions (confidence); Decomposition → sources/; Execution step 0 |
@@ -191,7 +191,7 @@ don't re-derive); `memory-export.md` (preserve every number exactly);
 - **Altitude:** decision logic at species/technique level; implementation at
   gear level; gear in **class terms**. **[R1] Canonical example (CLAUDE.md):**
   `species/bluefin-tuna.md` holds WHEN to pull Mad Mac vs spreader bar vs kite
-  vs speed-troll, spinning the table out to **`species/bluefin-trolling.md`**
+  vs speed-troll, spinning the table out to **`species/bluefin-tuna-trolling.md`**
   when it grows (NOT techniques/); `lures/mad-mac.md` holds specs + links back.
 - **[A1] Decision spin-out notes always live in `species/`** (techniques/ is
   execution-only). Rule in CLAUDE.md.
@@ -213,7 +213,7 @@ don't re-derive); `memory-export.md` (preserve every number exactly);
    **Doctrine & conflicts** (attributed).
 2. **Technique notes = execution only** + "Reach for this when"; the generated
    `## Linked from` + that list is the reverse map.
-3. **[A1] `species/bluefin-trolling.md`** is the escape valve; router keeps a
+3. **[A1] `species/bluefin-tuna-trolling.md`** is the escape valve; router keeps a
    summary + link.
 4. **Acceptance test** (finish; failures → judgment-calls): a species note read
    alone answers where/when/how-to-find (incl. meter)/technique-per-situation/
@@ -363,7 +363,7 @@ for the follow-on work.)*
 - **Step 1:** memory-export + proposal FIRST → profiles/cameron/*, conditions/*,
   seasonal/*, locations/*, planning/* (incl. report-reading-and-forecasting),
   species/swordfish.md, bird-reading.md. Update log. Commit.
-- **Step 2:** species/ (routers + species/bluefin-trolling.md; re-mine 17
+- **Step 2:** species/ (routers + species/bluefin-tuna-trolling.md; re-mine 17
   reports). Update log. Commit.
 - **Step 3:** techniques/. Update log. Commit.
 - **Step 4:** lures/ + rigging/ (§8/§9 specs land [A5]). Update log. Commit.

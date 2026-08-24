@@ -31,7 +31,7 @@ place it in one of its two working positions — tight in the wash (15–40 ft) 
 way back (50–100+ yd), never the middle. It's the calm, mixed-grade, over-bait
 change-up. **When** to reach for a cedar plug versus a skirt, a swimmer, or a
 speed-trolled [Mad Mac](../lures/mad-mac.md) is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
 ## Daisy chain — confidence lure, color vs. material (Justin Botril / Capt. Dave Hansen)
@@ -102,7 +102,7 @@ holder pairing, are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](iron-jigs.md)

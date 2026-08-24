@@ -47,7 +47,7 @@ whatever the rest of the spread runs (4–14 kt) and go in the elevated shotgun
 holder so the bar planes on top. Set the reel drag well under the 100 lb
 internal line. **When** to choose a bar over a kite, a speed-trolled
 [Mad Mac](../lures/mad-mac.md), or a diver is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general spread geometry and
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general spread geometry and
 holder elevation are in [trolling](../techniques/trolling.md).
 
 ## Baja, Sea of Cortez micro spreader bars for dorado
@@ -84,8 +84,8 @@ season on bars** — so the bar-specific tuning above is attributed-experimental
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)

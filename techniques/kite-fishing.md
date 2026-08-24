@@ -294,9 +294,9 @@ voice, `high` confidence).
 this is a different lure (rubber flyer vs. Mad Mac), a different troll speed
 (8.5 kt vs. 13–15 kt), and the same ~8 kt wind mark works in the opposite
 direction — here it's the trigger *to* troll under the kite, while in
-[bluefin trolling](../species/bluefin-trolling.md) it's (inversely) the
+[bluefin trolling](../species/bluefin-tuna-trolling.md) it's (inversely) the
 trigger to speed-troll once the kite won't fly. See
-[bluefin trolling](../species/bluefin-trolling.md) for both frameworks.
+[bluefin trolling](../species/bluefin-tuna-trolling.md) for both frameworks.
 
 ## Wind window
 
@@ -428,8 +428,8 @@ quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)

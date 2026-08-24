@@ -19,8 +19,12 @@ guard-protected path — the unattended review fleet cannot edit its own spec.
 | [technique.md](technique.md) | Technique notes — execution only |
 | [lure.md](lure.md) | Lure/class spec notes |
 | [rig.md](rig.md) | Knots, leaders, terminal rigs |
-| [location.md](location.md) | The gazetteer: zones and spot pages |
-| [decision.md](decision.md) | Species-level decision spin-outs |
+| [location.md](location.md) | The gazetteer SPOT rung (zones are zone.md) |
+| [species-technique.md](species-technique.md) | One species x one technique — the sub-article rung (replaces the retired `decision` type) |
+| [jurisdiction.md](jurisdiction.md) | Paperwork and border rules — US / Mexican waters |
+| [region.md](region.md) | One of the five region terms: character and season shape |
+| [area.md](area.md) | Ports, bait and range — only where the corpus earns it |
+| [zone.md](zone.md) | A run grouping: how the zone fishes, and its spots |
 | [zone-guide.md](zone-guide.md) | Species×zone targeting guides — "what a trip here looks like" (v2.1) |
 | [conditions.md](conditions.md) | Conditions interpretation layers |
 | [seasonal.md](seasonal.md) | Month-by-month priors |

@@ -28,7 +28,7 @@ castable **Madmacs 130**.
     **13–15 kt**.
   - The bands conflict at the top — **15 kt exceeds the researched 14 kt max**;
     13–14 kt is the overlap that satisfies both. Which job applies is decided in
-    [bluefin trolling](../species/bluefin-trolling.md).
+    [bluefin trolling](../species/bluefin-tuna-trolling.md).
 - **Running depth:** 8–15 ft slow, 4 ft fast.
 - **Setback:** 100–150 yd for bluefin.
   - **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
@@ -77,7 +77,7 @@ load it rides a heavy rod in a **low gunnel holder** (every ~3 ft of tip
 elevation costs ~1 ft of running depth). The 130 fishes lighter line for a
 livelier swim and can also be thrown at foamers. **When** to reach for the Mad
 Mac versus a spreader bar, kite, or diver is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general towing mechanics
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics
 (spread geometry, setback, holder elevation) live in
 [trolling](../techniques/trolling.md).
 
@@ -91,13 +91,13 @@ and how he pairs them to his rods and holders are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](cedar-plug.md)
 - [DTX Minnow](dtx-minnow.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
-- [Evidence — Bluefin Trolling](../species/evidence/bluefin-trolling.md)
+- [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](halco-laser-pro.md)

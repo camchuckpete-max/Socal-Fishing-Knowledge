@@ -20,7 +20,7 @@ confidence: high|medium|low
 regions: [<parent region term>]
 waters: [<island|bank|nearshore-coast|bay-harbor|open-ocean>]
 layout: v2
-parent: [<Region or Area>](<parent>.md)
+parent: <parent>.md
 structure_type: <island | offshore bank | coastal reef | canyon | artificial reef>
 depth_band: <e.g. 15-60 fathoms, or unknown>
 distance_nm: <from the nearest common port, or unknown>

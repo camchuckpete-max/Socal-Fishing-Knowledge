@@ -124,7 +124,7 @@ H1_RE = re.compile(r"^#\s+(.*?)\s*$", re.MULTILINE)
 
 APPLY_START = "<!-- species-applications:start -->"
 APPLY_END = "<!-- species-applications:end -->"
-FM_PATH_FIELD_RE = re.compile(r"^(\w+):\s*\[[^\]]*\]\(([^)]+\.md)\)", re.M)
+FM_PATH_FIELD_RE = re.compile(r"^(\w+):\s*(\S+\.md)\s*$", re.M)
 BACKLINK_START = "<!-- backlinks:start -->"
 BACKLINK_END = "<!-- backlinks:end -->"
 INDEX_START = "<!-- index:start -->"

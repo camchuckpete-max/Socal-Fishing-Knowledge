@@ -29,7 +29,7 @@ gunnel holder** for depth. It's a calm-day, school-grade swimmer that gets down
 to ~30 ft; run it well back (80–120 yd) for tuna. **When** to pull a swimmer
 like the DTX versus a spreader bar, a speed-trolled
 [Mad Mac](../lures/mad-mac.md), or a deep diver is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
 ## HD (heavy-duty) version — hardware differences
@@ -116,7 +116,7 @@ and its rod/holder pairing are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Trolling](../techniques/trolling.md)

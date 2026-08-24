@@ -96,7 +96,7 @@ the end.
 | 2 | **Corpus-only.** No external sources fill biology gaps. Missing content becomes `⚠ Flagged gap — no corpus source` entries feeding a generated gap report. |
 | 3 | Fact check runs **all three modes** (source fidelity vs transcripts; internal cross-note consistency; external web verification of biology/physics + regulatory claims). **Flag, never delete** — single-source ≠ wrong; flags queue for Cameron's manual review. |
 | 4 | Delivery via the **batch-3 pattern**: one review branch, worklist-driven self-re-dispatching Action, per-note commits, HTML review page, one GATE B review. |
-| 5 | Species stay **one note** (no targeting split); the decision spin-out valve (`species/bluefin-trolling.md` pattern) remains. |
+| 5 | Species stay **one note** (no targeting split); the decision spin-out valve (`species/bluefin-tuna-trolling.md` pattern) remains. |
 | 6 | Front matter grows into a **modest infobox**: ~5–8 per-type structured fields, validated like `regions`/`waters`. |
 | 7 | Batch 3 merges first — DONE (verified 2026-08-23: `origin/main` contains the batch-3 GATE B merge; the review branch sits at main's tip `1e66a92`). |
 | 8 | GATE A/B apply: this doc committed, Cameron sends `PLAN APPROVED`, supervised foundation, unattended fleet, GATE B review + merge. |

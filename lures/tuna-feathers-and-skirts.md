@@ -45,7 +45,7 @@ Catcher, 30–35 ft for the JAW). The Live Series soft bait is a slow-only
 (~4–7 kt) member that also works as a frontline teaser ahead of a hooked lure.
 **When** to pull a skirt versus a swimmer, a cedar plug, or a speed-trolled
 [Mad Mac](../lures/mad-mac.md) is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
 ### Rigging a bare tuna feather

@@ -9,7 +9,7 @@ confidence: medium
 
 Your owned trolling spread. Link each to its universal
 [lure](../../lures/README.md) note for running specs (speed, depth, setback, leader). How
-to decide which to pull: [bluefin trolling](../../species/bluefin-trolling.md)
+to decide which to pull: [bluefin trolling](../../species/bluefin-tuna-trolling.md)
 and [trolling](../../techniques/trolling.md).
 
 ## Swimmers / divers

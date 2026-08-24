@@ -83,7 +83,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 
 ## 2026-08-14T15:18:58Z — xzIaUEDklrE — evaluator-escalate
 - run: 31811441411
-- reason: species/bluefin-trolling.md adds a StokedOnFishing observation where spreader bar selects for bigger fish over Mad Mac, opposite to Cameron's registry-high presentation-size axis (small forage->bar, large forage->Mad Mac); flagged side-by-side as a non-reconciled conflict per convention, but needs Cameron's read before treated as settled
+- reason: species/bluefin-tuna-trolling.md adds a StokedOnFishing observation where spreader bar selects for bigger fish over Mad Mac, opposite to Cameron's registry-high presentation-size axis (small forage->bar, large forage->Mad Mac); flagged side-by-side as a non-reconciled conflict per convention, but needs Cameron's read before treated as settled
 
 ## 2026-08-14T15:35:15Z — Zo92MG459gQ — evaluator-escalate
 - run: 31811441411

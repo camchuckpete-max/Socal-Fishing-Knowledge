@@ -17,7 +17,7 @@ confidence: high|medium|low
 regions: [<this region term from locations/regions.md>]
 waters: [<the waters this region actually offers>]
 layout: v2
-parent: [<US | Mexican> waters](<jurisdiction>.md)
+parent: <jurisdiction>.md
 season_peak: [<months>]
 ---
 ```

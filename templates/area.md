@@ -17,7 +17,7 @@ confidence: high|medium|low
 regions: [<parent region term>]
 waters: [<waters reachable from here>]
 layout: v2
-parent: [<Region>](<region>.md)
+parent: <region>.md
 ports: [<port>, <port>]
 range_nm: <typical day-trip radius, or unknown>
 ---

@@ -24,9 +24,9 @@ confidence: high|medium|low
 regions: [<from locations/regions.md>]
 waters: [<from locations/regions.md>]
 layout: v2
-species: [<Species>](<species>.md)
-technique: [<Technique>](../techniques/<technique>.md)
-zone: [<Zone>](../locations/<zone>.md)     # OPTIONAL — zone variants only
+species: <species>.md
+technique: ../techniques/<technique>.md
+zone: ../locations/<zone>.md     # OPTIONAL — zone variants only
 gear_classes: [<class>, <class>]
 conditions_window: <the conditions that make this the call, or unknown>
 ---

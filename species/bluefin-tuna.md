@@ -24,7 +24,7 @@ gear: **sounded deep schools** with no surface sign (a meter-and-jig game),
 **surface foamers** (run-and-gun cast-and-wind, and the pickiest of the three),
 and **paddy fish** mixed with yellowtail and dorado. This note routes those
 situations; the full trolling decision table lives in
-[bluefin trolling](bluefin-trolling.md).
+[bluefin trolling](bluefin-tuna-trolling.md).
 
 ## Where & when
 
@@ -196,8 +196,8 @@ a blue whale travelling together were both called as holding tuna underneath
 | **Daytime, fish around the boat but not biting well**, keyed on small bait | [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md) — sink a light castable jig, crank hard the instant it stops | Penn Fathom 30-class, 65 lb braid / 50 lb mono top shot, 80 lb fluoro leader (`TU5quAG4atM`) | Distinct from the shallow bait-ball row — no mark to drop to, the boat's drift sets the drop angle |
 | **Night bite**, fish rising on the DSL | [Knife-jigging](../techniques/knife-jigging.md) vertical — throw up-current at the bow and walk back to stay vertical; [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) to sink live bait to sounded fish | Night **jig class**; [knife jigs](../lures/knife-jigs.md) 150–400 g | Braid choice, single-bottom-assist doctrine, line marking, and bite leader live in [knife jigging](../techniques/knife-jigging.md) |
 | **Big bluefin marked deep, captain calling the depth** (bite zone ~100–200 ft; heavier jig in breeze to get down faster) | [Flat-fall jigging](../techniques/flat-fall-jigging.md) — free-spool to the mark, count the sink, most bites come **on the fall**; wind back up about halfway and re-drop rather than crank to the top | Two-speed **rail-rod class** ([gear classes](../tackle/gear-classes.md)) (`an_uw-5pjfw`) | Same deep-jig family as the row above, different (passive, fall-triggered) cadence |
-| **Big fish 100–300 lb**, wind ~8–15 kt | [Kite fishing](../techniques/kite-fishing.md) — a flying fish under a kite is *the* most effective method at this grade | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md) | Frozen dead flying fish produced the majority of one charter boat's bites, ahead of a "California flyer" artificial under the same kite (`ouBrIdO7d4k`); [bluefin trolling](bluefin-trolling.md) for the troll alternative |
-| **Locating — too light to kite, or fish too spread out to sit and kite over** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](bluefin-trolling.md) |
+| **Big fish 100–300 lb**, wind ~8–15 kt | [Kite fishing](../techniques/kite-fishing.md) — a flying fish under a kite is *the* most effective method at this grade | **150–200 lb class** + [flying-fish harness](../rigging/flying-fish-harness.md) | Frozen dead flying fish produced the majority of one charter boat's bites, ahead of a "California flyer" artificial under the same kite (`ouBrIdO7d4k`); [bluefin trolling](bluefin-tuna-trolling.md) for the troll alternative |
+| **Locating — too light to kite, or fish too spread out to sit and kite over** | [Speed-trolling](../techniques/speed-trolling.md) a [Mad Mac](../lures/mad-mac.md) at 13–15 kt; or spreader bar / divers | Heavy **troll class** | Full decision (Mad Mac vs [spreader bar](../lures/spreader-bar.md) vs kite vs divers) → [bluefin trolling](bluefin-tuna-trolling.md) |
 | **Chummed up / picky on bait** | [Flyline](../techniques/flyline.md) a sardine on a circle hook; scale the leader down | **40–60 lb class** | Corner-of-mouth circle-hook bite; a small anchovy-matching lure (Riptide-105 class) can convert picky fish |
 | **Surface signs stop and fish sink out** — the boat's motor pushes them off the top, the captain marks them down (e.g. **120–140 ft**), and the day had been a sinker-rig bait day | Switch to [knife/vertical jigging](../techniques/knife-jigging.md) in place of the [sinker rig](../rigging/rubber-band-deep-rig.md) | Day **jig class** | Stated reason: jigging rewards the same close attention bait fishing does while being more engaging to fish than a soaking sinker rig; also move the hook on the jig if it isn't drawing bites — pulling the bottom assist off a top+bottom jig mid-session started bites (`gimFbgN5Jjk`) |
 | **Slow "pick bite"** — a [sinker rig](../rigging/rubber-band-deep-rig.md) crowd is getting bluefin one at a time rather than a steady bite | Have a couple of anglers work a [speed/knife jig](../techniques/knife-jigging.md) through the school alongside the sinker-rig anglers | Day **jig class** | The commotion of worked jigs is reasoned to draw fish closer and make them more aggressive, likened to chumming — a school-activation layer on top of the existing rig, not a replacement (`6SClBs16L2Y`) |
@@ -208,7 +208,7 @@ wind is **too light to fly the kite, or the fish are too spread out to sit and
 kite over** — a coverage need, not a sea state (cameron); spreader bars and
 skirts on calmer school-grade days; divers and cedar plugs for mixed grade. The
 full table by wind, grade, and water is in
-[bluefin trolling](bluefin-trolling.md).
+[bluefin trolling](bluefin-tuna-trolling.md).
 
 ## Gear summary (class terms)
 
@@ -422,7 +422,7 @@ Trip reports and per-source provenance:
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](../tackle/bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
-- [Bluefin Trolling](bluefin-trolling.md)
+- [Bluefin Tuna — trolling](bluefin-tuna-trolling.md)
 - [California Sheephead](sheephead.md)
 - [Chunking](../techniques/chunking.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
@@ -431,7 +431,7 @@ Trip reports and per-source provenance:
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
-- [Evidence — Bluefin Trolling](evidence/bluefin-trolling.md)
+- [Evidence — Bluefin Trolling](evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

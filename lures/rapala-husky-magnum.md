@@ -28,7 +28,7 @@ Choose the model for the depth you want (HM25 for 25 ft, HM15 for 15 ft), let it
 back to ~33 yd, and troll in the 6–8 kt best band on light line (40–50 lb) from a
 **low gunnel holder**. **When** to run a Husky Magnum diver versus a bar, a
 swimmer, or a speed-trolled [Mad Mac](../lures/mad-mac.md) is decided in
-[bluefin trolling](../species/bluefin-trolling.md); general towing mechanics live
+[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics live
 in [trolling](../techniques/trolling.md).
 
 **Speed advantage over the standard (non-Magnum) X-Rap, and colors (Tackle
@@ -90,7 +90,7 @@ their rod/holder pairing (diver duty out of the TLD 20), are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedros Island](../locations/cedros-island.md)
 <!-- backlinks:end -->

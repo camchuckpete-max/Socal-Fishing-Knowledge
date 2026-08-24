@@ -14,13 +14,13 @@ bite over water you can't otherwise cover. The workhorse is the
 [Mad Mac class](../lures/mad-mac.md), run in the **13 to 15 knot** band. It is
 not a kite substitute for the biggest grade — it is how you find fish and get
 bites when a [kite](kite-fishing.md) won't fly. The WHEN-to-pull-what decisions
-live in the router: [bluefin trolling](../species/bluefin-trolling.md).
+live in the router: [bluefin trolling](../species/bluefin-tuna-trolling.md).
 
 ## Reach for this when
 
 - The wind won't support a [kite](kite-fishing.md) — too light to fly one, or
   otherwise outside its window — and you need to **cover water, locate fish, or
-  pull a bite**. See [bluefin trolling](../species/bluefin-trolling.md).
+  pull a bite**. See [bluefin trolling](../species/bluefin-tuna-trolling.md).
 - You are searching a zone with no surface sign and want lines in the water while
   you look.
 
@@ -81,8 +81,8 @@ live in the router: [bluefin trolling](../species/bluefin-trolling.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Kite Fishing](kite-fishing.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Slow-Trolling Live Bait](slow-trolling-bait.md)

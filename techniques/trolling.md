@@ -12,13 +12,13 @@ waters: [open-ocean, bank, island]
 General offshore trolling execution — how to run a spread, where each lure lives
 in it, and how to pair a rod to a lure. This note owns the **universal
 mechanics**; the WHEN-to-pull-what-by-conditions decisions are the router:
-[bluefin trolling](../species/bluefin-trolling.md). Per-lure speeds, setbacks and
+[bluefin trolling](../species/bluefin-tuna-trolling.md). Per-lure speeds, setbacks and
 top-shot specs live in each lure note.
 
 ## Reach for this when
 
 - You are **covering water in transit** or searching a zone, and want lures
-  working while you look. See [bluefin trolling](../species/bluefin-trolling.md).
+  working while you look. See [bluefin trolling](../species/bluefin-tuna-trolling.md).
 - You want lines out sweeping a bird/bait area (below).
 - **Why troll — locating fish, not just catching them** (Captain R Taylor,
   SearcherSportfishing, `8UAtGqEjDtU`, 2023-04-13; unregistered channel —
@@ -1078,7 +1078,7 @@ covered above, not a new tool.
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md)
-- [Bluefin Trolling](../species/bluefin-trolling.md)
+- [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
