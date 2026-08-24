@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 22 flagged gaps, 22 flagged stubs, 6 unknown infobox values._
+_Totals: 32 flagged gaps, 29 flagged stubs, 9 unknown infobox values._
 
 ## species/
 
@@ -39,6 +39,27 @@ _Totals: 22 flagged gaps, 22 flagged stubs, 6 unknown infobox values._
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — Mexican (CONAPESCA) bluefin bag or size
   - infobox `scientific_name`: unknown
+- **species/bonito.md**
+  - `Where & when`: gap — the temperature band that gates a bonito
+  - `Presence & forage`: gap — the natural forage species bonito eat in
+  - `Spawning`: gap — when, where or how Pacific bonito spawn,
+  - `Feeding triggers`: gap — mechanism — what puts a school up, and how
+  - `Feeding triggers`: gap — light window, tide or slack, current, or
+  - `Finding them (sign & sonar)`: gap — species-specific sonar depths for bonito.
+  - `Situations → techniques`: gap — rod/line weight, leader or fly pattern for bonito, and no fly-fishing technique note exists to link |
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — California (CDFW) bag limit or size gauge
+  - `Regulations`: gap — Mexican (CONAPESCA) size or bag limits for
+  - `Landing & handling`: gap — chilling parameters (slurry mix, time to
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
 - **species/cabrilla.md**
   - `Finding them (sign & sonar)`: flagged stub row
 - **species/california-halibut.md**

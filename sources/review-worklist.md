@@ -332,4 +332,10 @@ by their builders after the transform phase drains.
 | locations/the-calico-spot-cedros-crew-s-own-name.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/ventura.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/west-end-tuna-zone.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/14-mile-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/dana-point-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/newport-bait-grounds-outside-the-harbour.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-clemente-island-east-end-back-side.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-clemente-island-front-side.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ventura-coast.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
