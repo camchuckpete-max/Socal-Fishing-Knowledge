@@ -402,7 +402,7 @@ def main() -> int:
     args.out.write_text("\n".join(p), encoding="utf-8")
     print(f"review-watch: {len(cons_rows)} processed notes ({cons_bad} "
           f"cite-loss), {len(ledger)} ledger rows, {len(reloc)} relocations, "
-          f"phase={phase} -> {args.out.relative_to(ROOT)}")
+          f"phase={phase} -> {args.out}")
     return 0
 
 
