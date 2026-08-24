@@ -3199,3 +3199,9 @@ glide swimbait" and the Mad Eel (different products, described as sourced —
 renaming without evidence would repeat the original error in reverse), and
 Avet "glide plate" (reel hardware). link-maintenance: 273 notes, 0 dead
 links.
+
+## Pilot feedback intake (2026-08-24)
+
+| source | destination(s) |
+| --- | --- |
+| `sources/pilot-feedback-2026-08-24.md` (cameron + nate, iMessage relay) | templates/style-guide.md (v2.1 rules); templates/species.md (skeleton v2.1 + Zone guides section); templates/zone-guide.md (new type); species/yellowtail.md (feedback rework); species/yellowtail-coronado-islands.md (zone-guide exemplar); species/evidence/yellowtail.md (single-observation demotions); prompts/review-note.md + prompts/verify-review.md (rule updates); sources/source-registry.md (`nate` row) |

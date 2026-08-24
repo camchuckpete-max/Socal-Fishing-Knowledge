@@ -59,6 +59,9 @@ EXCLUDE_FULL = {
     ROOT / "sources" / "relocation-queue.md",
     ROOT / "sources" / "review-progress.md",
     ROOT / "sources" / "gap-report.md",
+    # Raw pilot-feedback input doc (cameron + nate, 2026-08-24) — committed
+    # verbatim-in-substance, never a note.
+    ROOT / "sources" / "pilot-feedback-2026-08-24.md",
 }
 # Files whose links ARE validated but which are not notes: no backlinks block,
 # not indexed, not a backlink source (e.g. the hand-authored skill definition).
@@ -108,7 +111,7 @@ REGIONS = {
 }
 WATERS = {"bay-harbor", "nearshore-coast", "island", "bank", "open-ocean"}
 GATED_TYPES = {"species", "technique", "lure", "rig", "location", "seasonal",
-               "bait", "decision"}
+               "bait", "decision", "zone-guide"}
 FM_LIST_RE = re.compile(r"^(regions|subregions|waters): \[(.*?)\]\s*(?:#.*)?$",
                         re.M)
 FM_TYPE_RE = re.compile(r"^type:\s*(\S+)", re.M)

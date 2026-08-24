@@ -15,6 +15,31 @@ drain detail to subpages instead of growing the page.**
 - **State facts plainly, in present tense.** "Yellowtail feed hardest in gray
   light" — not "Erik says that yellowtail feed hardest in gray light."
   The sourcing lives in the cite, not the sentence.
+- **No filler sentences (v2.1 — pilot feedback, 2026-08-24).** Every sentence
+  states something operational — a number, a condition, a decision — or
+  explains a mechanism. Vacuous truisms are banned: "X are a
+  structure-and-bait fish", "fish hold where bait, structure, and the right
+  water stack" say nothing (every fish follows food and structure). A section
+  with nothing concrete to say gets a gap flag, not prose.
+- **Mechanism or gap.** A behavioral claim (a light window, a current gate, a
+  wind response) carries its WHY when a source gives one; when none does, add
+  `⚠ Flagged gap — no corpus source: mechanism` beside it. Correlation is
+  never written as causation ("paddy yellows appear with the incoming
+  bluefin" — coincident timing, not cause).
+- **Scope every claim.** Say where/when/what-depths it applies: a hard-bottom
+  rule is structure-fishing scope, meaningless over a paddy in 4,000 ft; a
+  depth read is scoped to the depths its source fished; a zone-observed
+  behavior stays scoped to that zone until corroborated elsewhere.
+- **Presence ≠ catchability.** A zone entry that says fish are THERE must also
+  say when they are catchable, or flag the gap (some yellows are in La Jolla
+  year-round; half-day boats go months without one).
+- **Jargon links or dies.** Terms of art (boil, breezing, exotics, slack,
+  gray light) link to the note that owns them on first use — never explained
+  inline, never left bare.
+- **Reader-questions test.** A situations-table row answers what gear, what
+  size/color/weight, when this beats the alternatives, and why — or links the
+  note that does. A row that leaves an obvious "ok but which jig / what line /
+  what hook" unanswered is unfinished.
 - **Instructional content addresses the reader**: "wind the jig through the
   zone", "stand off the paddy." Descriptive content uses the fish or the
   fishery as the subject.
@@ -47,12 +72,22 @@ The canonical inline cite is a **backticked video id** or the token
   the note's **evidence file** or stay in the machine layer (front-matter
   `confidence`, `sources/source-registry.md`). They no longer appear in
   doctrine prose.
-- **Exception — doctrine conflicts keep names.** When two sources disagree,
-  attribution IS the content: name the voices, keep the positions
-  side-by-side, and state the decision frame (what the choice turns on).
-  Section order is never a ranking, and the note says so.
-- Speaker names may appear where the person is the point ("Cameron's tern
-  model") — but the claim itself is still stated plainly and cited.
+- **No meta-attribution or self-narration (v2.1).** Never "(cameron)" or
+  "(nate)" name-flags in prose, never "Modeling stance (X)", never "the
+  corpus/the source/this KB says", never "kept side by side, not reconciled"
+  commentary in the body. Registered-user doctrine is HOUSE doctrine — stated
+  plainly, provenance in front matter and the evidence file. No trip
+  narration inside doctrine ("a charter scratched rockfish until the current
+  turned…"): write the rule with its cite; the trip goes to the evidence file.
+- **Exception — genuinely contested doctrine keeps names.** When credible
+  sources actually disagree, LEAD with the operational decision rule (what
+  the choice turns on), then name the positions compactly. The
+  reconciliation machinery ("section order is not a ranking" and the like)
+  lives in the evidence file, not the body.
+- **Single observation ≠ doctrine (v2.1).** An uncorroborated single-trip
+  claim lives in the evidence file, full stop — the note keeps only
+  corroborated doctrine or claims with stated reasoning. Moving a claim to
+  evidence is not deletion; conservation rules apply to the pair.
 
 ## Observations and evidence files
 

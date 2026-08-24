@@ -94,7 +94,9 @@ auto-generated index.
   type: species            # species|technique|lure|rig|tackle|bait|fish-care|
                            # conditions|seasonal|location|planning|profile|
                            # decision (species-level decision spin-outs,
-                           # e.g. species/bluefin-trolling.md)
+                           # e.g. species/bluefin-trolling.md)|
+                           # zone-guide (species×zone targeting guides,
+                           # e.g. species/yellowtail-coronado-islands.md)
   tags: [bluefin, trolling, offshore]
   sources: [cameron, XLVUhV8DW64]   # NAMED: cameron | <youtube video_id>
   confidence: high         # high|medium|low
@@ -108,7 +110,7 @@ auto-generated index.
   ```
 
 - **Region gating is mandatory** on `species | technique | lure | rig |
-  location | seasonal | bait | decision`. Five broad regions —
+  location | seasonal | bait | decision | zone-guide`. Five broad regions —
   `socal-bight`, `baja-pacific-north`, `baja-pacific-south`, `cortez-north`,
   `cortez-south` (north/south split at the BC/BCS state line, 28°N). Assignment
   is at **region level, not spot level** (Cameron, 2026-08-17). Vocabularies in
@@ -185,6 +187,10 @@ The flaw this fixes: species notes and technique notes can each exist while the
      conditions in footnotes), the gear class, and the link to the
      technique note.
    - **Gear summary** — class terms only, linking `tackle/gear-classes.md`.
+   - **Zone guides** — links to the species×zone targeting guides
+     (`type: zone-guide`, `templates/zone-guide.md`): "what a trip to this
+     zone looks like" at region/zone level, never spot level. The router
+     stays compact; the trip story lives there.
    - **Regulations** — jurisdiction + as-of + verify-current, per the content
      rules.
    - **Doctrine & conflicts** — attributed, kept side by side, with a decision

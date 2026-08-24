@@ -22,13 +22,24 @@ self-check before finishing).
    order, extras merged in between. Source-named `##` sections are dissolved
    into the sections where their content belongs. Heading-label drift is
    normalized to the canonical labels.
-3. **Rewrite to house style**: plain-statement present-tense prose; compact
-   cites — `` (`videoId`) `` or `(cameron)` — on quotes, statistics, and
-   disputables; attribution preambles, channel-status and inline-confidence
-   boilerplate deleted (their information lives in the evidence file and the
-   machine layer). Doctrine conflicts keep names + a decision frame. NEVER
-   change what a claim says while rewriting how it says it. Preserve
-   specifics exactly.
+3. **Rewrite to house style** (style-guide v2.1 — read its Voice and Cites
+   sections as a checklist, every rule is enforced by the verifier):
+   plain-statement present-tense prose; compact video-id cites on quotes,
+   statistics, and disputables; attribution preambles, channel-status and
+   inline-confidence boilerplate deleted. **No filler sentences** — every
+   sentence carries a number, condition, decision, or mechanism.
+   **Mechanism or gap** — behavioral claims carry their WHY or a mechanism
+   gap flag; never write correlation as causation. **Scope every claim**
+   (where/when/depths). **Presence ≠ catchability.** **No meta-attribution**
+   — no user names in prose, no "the source says", no trip narration inside
+   doctrine, no "kept side by side" commentary. **Jargon links or dies.**
+   Genuinely contested doctrine leads with the decision rule, then names the
+   positions compactly. NEVER change what a claim says while rewriting how
+   it says it. Preserve specifics exactly.
+3b. **Single observation ≠ doctrine**: an uncorroborated single-trip claim
+   moves to the evidence file (that is conservation, not deletion); the note
+   keeps only corroborated doctrine or claims with stated reasoning. Where
+   demotions leave a section thin, flag the gap.
 4. **Evidence split**: create `<folder>/evidence/<note>.md` per
    `templates/evidence.md`; move EVERY `**Observed**` block into it as a
    one-line entry (with a backticked source id) under a heading mirroring the

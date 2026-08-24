@@ -66,6 +66,12 @@ REQUIRED_SECTIONS: dict[str, list[str]] = {
     "decision": [
         "## Situations → techniques",
     ],
+    "zone-guide": [
+        "## The program",
+        "## Reading the day",
+        "## Rigs & gear",
+        "## Differs from nearby zones",
+    ],
     # Types with no mandated sections beyond lead + Evidence/Linked from:
     "seasonal": [],
     "bait": [],
@@ -90,6 +96,7 @@ INFOBOX_FIELDS: dict[str, list[str]] = {
     "rig": ["line_class", "hook_sizes"],
     "location": ["parent_zone", "structure_type", "depth_band", "distance_nm"],
     "seasonal": ["regime"],
+    "zone-guide": ["species", "zone", "season_window", "run"],
     "evidence": ["parent"],
 }
 # Optional, never required (a location may legitimately omit it; charted/public
@@ -98,8 +105,10 @@ LOCATION_OPTIONAL_FIELDS = ["coordinates"]
 
 # Front-matter keys whose value is a RELATIVE MARKDOWN PATH that must resolve
 # from the note's directory (validated like a link). `unknown` is not legal
-# here — omit `parent_zone` on a top-level zone instead.
-PATH_FIELDS = {"parent_zone", "parent"}
+# here — omit `parent_zone` on a top-level zone instead. (`zone` on a
+# zone-guide may be plain text until the gazetteer page exists, so it is not
+# listed.)
+PATH_FIELDS = {"parent_zone", "parent", "species"}
 
 # --- cites --------------------------------------------------------------------
 # Canonical inline cite forms: a backticked 11-char YouTube video id, or the

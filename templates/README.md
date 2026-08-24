@@ -21,6 +21,7 @@ guard-protected path — the unattended review fleet cannot edit its own spec.
 | [rig.md](rig.md) | Knots, leaders, terminal rigs |
 | [location.md](location.md) | The gazetteer: zones and spot pages |
 | [decision.md](decision.md) | Species-level decision spin-outs |
+| [zone-guide.md](zone-guide.md) | Species×zone targeting guides — "what a trip here looks like" (v2.1) |
 | [conditions.md](conditions.md) | Conditions interpretation layers |
 | [seasonal.md](seasonal.md) | Month-by-month priors |
 | [bait.md](bait.md) | Live-bait notes |

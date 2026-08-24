@@ -6,12 +6,44 @@
 > `sources/plan.md`, 2026-08-12). Scope and decisions were worked out with
 > Cameron in conversation on 2026-08-23.
 
-**Status: Cameron's `PLAN APPROVED` for this document (including the
-yellowtail/surface-iron pilot amendment) was given 2026-08-23 — GATE A is
-unlocked and the foundation build is executing.** Any later amendment to this
-plan re-opens GATE A per `CLAUDE.md`. GATE B (merge to `main`) remains locked
-until Cameron's post-build review of the coverage summary + judgment-calls
-list.
+**Status: foundation + three-tier pilot complete (2026-08-24). Cameron's
+in-depth pilot review (with outside review from Nate) produced the v2.1
+amendment below; the supervised revision round it defines is executing as
+pilot iteration. GATE A stands re-opened for the amended plan: the
+unattended FLEET does not dispatch until Cameron re-reviews the reworked
+pilot and sends `PLAN APPROVED` for this amended document.** GATE B (merge
+to `main`) remains locked until his post-build review.
+
+## Amendment — pilot-feedback round (2026-08-24, cameron + nate)
+
+Feedback source: `sources/pilot-feedback-2026-08-24.md`; `nate` registered
+in the source registry (El Cajon local, relayed via Cameron).
+
+- **Style guide v2.1** (templates/style-guide.md): no filler sentences;
+  mechanism or explicit gap, never correlation-as-causation; scope every
+  claim; presence ≠ catchability; **single observation ≠ doctrine** (lives
+  in evidence); **no meta-attribution** (no user names in prose, no
+  source-narration, no trip anecdotes inside doctrine, no side-by-side
+  meta-commentary — contested doctrine leads with the decision rule);
+  jargon links or dies; every situations row passes the reader-questions
+  test (gear/size/color/when/why or a link).
+- **Species skeleton v2.1** (templates/species.md): `## Where & when`
+  becomes COMPACT (range/migration/temp/timing mechanics; no spot tour) and
+  a new `## Zone guides` section links the species×zone targeting guides.
+  Nate's acceptance test added beside Cameron's.
+- **New gated type `zone-guide`** (templates/zone-guide.md;
+  `species/<species>-<zone>.md`; region/zone level, never spot level):
+  Lead → The program → Reading the day → Rigs & gear → Differs from nearby
+  zones → Evidence. This round builds ONE exemplar
+  (`species/yellowtail-coronado-islands.md`); the fleet builds the rest
+  where the corpus supports, gap-flagged where thin.
+- **Yellowtail rework** applying Cameron's point-by-point corrections
+  (flyline class, yo-yo/dropper logic, demotions to evidence, sonar section
+  restructure as feeding-state reads, jargon links, colors/sizing from
+  nate, sea-lion row to Landing & handling, skip-jigging flagged, etc.),
+  re-verified adversarially, committed via the wrapper.
+- **Fleet prompts updated** (review-note.md step 3/3b, verify-review.md
+  check 4) so all 253 remaining rows inherit the v2.1 rules.
 
 ---
 

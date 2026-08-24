@@ -30,16 +30,22 @@ sonar_depth: 5-10 fathoms near structure
 All six infobox fields are required; the literal value `unknown` is legal and
 feeds the gap report.
 
-## Skeleton (canonical order — extras allowed between)
+## Skeleton (canonical order — extras allowed between; v2.1 per pilot
+feedback 2026-08-24: strategy before geography, spot tour extracted to zone
+guides)
 
 ```
 # <Species name>
 
-<Lead: 2–4 sentences — what it is, why it matters here, season in one breath.>
+<Lead: 2–4 sentences — what makes THIS species' program distinct, concrete
+from the first sentence. No filler ("a structure-and-bait fish" bans itself:
+every fish follows food and structure).>
 
 ## Where & when
-Range, seasonal pattern, temp bands, the regional calendar. Links seasonal/
-and locations/ notes. Doctrine prose, cited compactly.
+COMPACT: range + migration/temperature/timing mechanics only — what moves
+them, what water they bite in, presence vs catchability per sub-region.
+NO spot-by-spot tour: zone detail lives in the zone guides and the
+locations/ gazetteer; this section links them.
 
 ## Presence & forage
 WHY they are in a zone: bait, structure, current, temperature — and what they
@@ -66,6 +72,12 @@ Conditions/caveats go to `[a]` footnotes under the table. Flagged stubs stay.
 ## Gear summary (class terms)
 Class terms only, linking tackle/gear-classes.md.
 
+## Zone guides
+One line per species×zone targeting guide (templates/zone-guide.md), linked:
+what a trip to that zone looks like for this species. Region/zone level,
+never spot level. Zones with corpus content but no guide yet get a flagged
+stub row.
+
 ## Regulations
 Jurisdiction + as-of date + verify-current, one line per jurisdiction.
 Registered in sources/regulatory-claims.md. Cross-jurisdiction differences
@@ -85,4 +97,12 @@ One line: Trip reports and per-source provenance: [evidence file](evidence/<note
 ```
 
 Decision spin-outs (`type: decision`) still live in `species/` and follow
-`templates/decision.md`; the router keeps a summary + link.
+`templates/decision.md`; the router keeps a summary + link. Zone guides
+(`type: zone-guide`, `templates/zone-guide.md`) also live in `species/` as
+`<species>-<zone>.md`.
+
+Acceptance tests: (Cameron) a new-to-SoCal angler learns where/when/how/what
+gear from this note alone, one link deep — and no claim stands without scope,
+mechanism, or a flag. (Nate) a lifelong local finds zone-trip reality (how an
+LJ trip differs from a Coronados trip for the same fish), specific
+colors/sizes/weights, and nothing that reads as filler.

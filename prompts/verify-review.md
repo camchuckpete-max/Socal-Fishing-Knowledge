@@ -30,9 +30,16 @@ Start with: `CLAUDE.md`, `templates/style-guide.md` + the type's template,
    resolves to an in-repo transcript or `cameron` — spot-check ≥3 by reading
    the cited transcript's matching portion. An uncited new claim that is not
    a flagged gap → reject. Outside knowledge smuggled in → reject.
-4. **Style compliance.** Skeleton per the template; plain-statement prose (no
-   "X says" framing outside conflicts); no attribution preambles surviving;
-   evidence one-liners actually one line; flags well-formed per the grammar.
+4. **Style compliance (v2.1 — hunt these actively).** Skeleton per the
+   template; plain-statement prose (no "X says" framing outside contested
+   doctrine); no attribution preambles surviving; evidence one-liners
+   actually one line; flags well-formed per the grammar. Additionally
+   REJECTABLE: filler/truism sentences that state nothing operational;
+   unscoped behavioral claims; correlation written as causation; a
+   single-trip observation standing as doctrine (must be in evidence);
+   user names or "the corpus/source says" in prose; trip narration inside
+   doctrine; bare jargon that should link; a situations row that leaves the
+   obvious gear/size/color/when question unanswered and unlinked.
 5. **Fact-check units**: flags only — any reworded/deleted claim → reject.
    Ledger rows match inline flags one-to-one.
 6. **Relocations**: pair conservation (nothing lost in transit), dst
