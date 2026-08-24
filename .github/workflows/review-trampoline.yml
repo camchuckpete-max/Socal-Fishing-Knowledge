@@ -1,0 +1,67 @@
+name: review-trampoline
+# Self-resume for the editorial-review chain (sources/plan-review.md on the
+# review branch). Lives on MAIN because GitHub cron only fires from the
+# default branch — it is the ONLY review-pipeline file on main, and it never
+# writes anything anywhere.
+#
+# Why it exists (Cameron, 2026-08-24): the chain's zero-real-commit guard
+# correctly refuses to self-re-dispatch after a dead chunk (API outage or a
+# subscription usage limit). Per-note commits mean a limit never loses work —
+# the worklist is the resume point — but the chain needs an outside nudge to
+# resume when the limit window resets. This is that nudge: every 2 hours,
+# if the chain is idle, rows remain, and there is no STOP file, dispatch a
+# fresh chunk. Failed attempts during a limit window cost pennies (the agent
+# fails on its first API call).
+#
+# Retire this file (or disable the workflow) when the review merges at GATE B.
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: kb-review-trampoline
+  cancel-in-progress: false
+
+jobs:
+  bounce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      BRANCH: claude/knowledge-base-review-g00k8s
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Checkout review branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/knowledge-base-review-g00k8s
+
+      - name: Bounce if stalled
+        run: |
+          set -euo pipefail
+          if [ -f STOP ]; then
+            echo "STOP present — standing down (Cameron's kill switch)."
+            exit 0
+          fi
+          pending=$(python scripts/review/next-note.py --count)
+          if [ "$pending" = "0" ]; then
+            echo "Worklist drained — nothing to resume."
+            exit 0
+          fi
+          inflight=$(gh run list --workflow=review-chunk.yml --status=in_progress \
+                       --json databaseId --jq 'length' 2>/dev/null || echo 0)
+          queued=$(gh run list --workflow=review-chunk.yml --status=queued \
+                     --json databaseId --jq 'length' 2>/dev/null || echo 0)
+          if [ "${inflight:-0}" -gt 0 ] || [ "${queued:-0}" -gt 0 ]; then
+            echo "A chunk is already in flight or queued — no bounce needed."
+            exit 0
+          fi
+          echo "Chain idle with $pending actionable unit(s) — dispatching."
+          gh workflow run review-chunk.yml --ref "$BRANCH" \
+            -f chunk_budget=16 -f pace_minutes=0 -f chain_count=0 -f redispatch=true
