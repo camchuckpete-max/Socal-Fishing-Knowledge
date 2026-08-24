@@ -29,6 +29,7 @@ jobs:
     timeout-minutes: 180
     env:
       BRANCH: claude/knowledge-base-review-g00k8s
+      MODEL_OVERRIDE: "claude-opus-5"
     steps:
       - name: Checkout review branch
         uses: actions/checkout@v4
@@ -73,7 +74,7 @@ jobs:
             Read prompts/verify-external-chunk.md and follow it exactly.
             CHUNK_SIZE=${{ inputs.chunk_size }}.
           claude_args: >-
-            --model claude-sonnet-5
+            --model ${{ env.MODEL_OVERRIDE || 'claude-opus-5' }}
             --max-turns 400
             --allowedTools "Bash(git:*),Bash(python:*),Bash(python3:*),Bash(bash:*),Bash(wc:*),Bash(ls:*),Bash(scripts/*),Read,Grep,Glob,Edit,Write,Task,WebFetch,WebSearch"
 

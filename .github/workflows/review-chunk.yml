@@ -51,6 +51,13 @@ jobs:
       # same mechanism as batch 3).
       PACE_OVERRIDE: "0"
       BUDGET_OVERRIDE: "16"
+      # Fleet model (Cameron, 2026-08-24): Opus 5 — this is fidelity-critical
+      # rewriting, and the verifier runs on the same model as the worker. When
+      # the worklist reaches the light-tier tackle tail (86 formulaic product
+      # notes), flip this to claude-sonnet-5 with a one-line branch edit; the
+      # next chunk picks it up (same authoritative-override mechanism as
+      # PACE_OVERRIDE).
+      MODEL_OVERRIDE: "claude-opus-5"
     steps:
       - name: Checkout review branch
         uses: actions/checkout@v4
@@ -109,7 +116,7 @@ jobs:
             Read prompts/orchestrate-review-chunk.md and follow it exactly.
             CHUNK_BUDGET=${BUDGET_OVERRIDE:-${{ inputs.chunk_budget }}}.
           claude_args: >-
-            --model claude-sonnet-5
+            --model ${{ env.MODEL_OVERRIDE || 'claude-opus-5' }}
             --max-turns 800
             --allowedTools "Bash(git:*),Bash(python:*),Bash(python3:*),Bash(bash:*),Bash(wc:*),Bash(ls:*),Bash(scripts/*),Read,Grep,Glob,Edit,Write,Task"
 

@@ -66,7 +66,13 @@ all git state changes go through the sanctioned wrapper
       - 4 (push failed after retries): STOP the loop immediately; report.
    f. If a subagent dies or returns garbage: `reset-tree.sh`, then commit the
       unit as escalated with `--escalation "<unit> | subagent-failure |
-      <one line>"`, then continue.
+      <one line>"`, then continue — UNLESS the failure looks like a
+      usage/rate limit (429, "rate limit", "usage limit", "overloaded",
+      "credit", "quota"): then run `reset-tree.sh` and STOP the loop
+      immediately WITHOUT touching the worklist row (it stays pending — a
+      limit is not the unit's fault, and the cron trampoline resumes the
+      chain when the limit window resets). Report "stopped: usage limit"
+      in your final message.
 3. Hard stop when the budget's units are exhausted, regardless of outcomes.
 
 ## Final message
