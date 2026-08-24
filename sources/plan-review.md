@@ -6,17 +6,25 @@
 > `sources/plan.md`, 2026-08-12). Scope and decisions were worked out with
 > Cameron in conversation on 2026-08-23.
 
-**Status: GATE A UNLOCKED — Cameron's `PLAN APPROVED` for the amended plan
-(v2.1 + fleet-dispatch amendment) was given 2026-08-24 after his re-review
-of the reworked pilot ("not perfect but good enough for now"). The fleet is
-dispatched: Opus 5 (`MODEL_OVERRIDE`, flip-to-sonnet documented for the
-light tail), usage-limit resilience in place (orchestrator limit rule; cron
-trampoline on `main`; session monitor). Kill switch: a `STOP` file at the
-branch root.** GATE B (merge to `main`) remains locked until Cameron's
-post-build review of the coverage summary + judgment-calls list.
+**Status (2026-08-24, current): FLEET PAUSED. GATE A RE-OPENED by amendment
+v2.2 and NOT yet re-given.** `STOP` sits at the branch root. Resumption
+requires a fresh message containing exactly `PLAN APPROVED` — conversational
+approval does not unlock it (CLAUDE.md), and "let's get back to letting the
+fleet run" was read as intent, not as the token.
 
-**Status update 2026-08-24: fleet PAUSED and GATE A RE-OPENED by amendment
-v2.2 (below). Resumption requires a fresh `PLAN APPROVED`.**
+Both gate artifacts are BUILT and waiting on Cameron's review:
+
+1. **Five exemplars** — `species/bluefin-tuna-trolling.md`,
+   `species/yellowtail-surface-iron.md`, `locations/mexican-waters.md`,
+   `locations/coronado-islands.md`, `locations/pukey-point.md`.
+2. **The census** — `sources/geo-census.txt`, regenerated from
+   `scripts/review/build-geo-worklist.py --dry-run`.
+
+History: GATE A was first unlocked 2026-08-24 for the v2.1 + fleet-dispatch
+plan; the chain ran two chunks (yellowtail, surface-iron, barracuda,
+bluefin-trolling, bluefin-tuna, bonito) before Cameron paused it against his
+weekly limit. GATE B (merge to `main`) has never been open and remains locked
+behind his post-build review.
 
 > **Dispatch note (2026-08-24 18:58 UTC):** the trampoline's first dispatch
 > 404'd — `gh workflow run` resolves workflow names against the
@@ -62,7 +70,7 @@ coordinate-less but corpus-rich zones (Cedros 38 notes, Guadalupe 30, Alijos
 19, Mag Bay, Cabo, East Cape, BOLA, Loreto, La Paz) qualify on depth alone.
 
 **Every spot in the library gets a page**, minimum coordinates + parent zone.
-The 63 numbered artificial-reef waypoints collapse to ~7 complex pages
+The 50 numbered artificial-reef waypoints collapse to 5 complex pages
 carrying coordinate tables; every coordinate stays published.
 
 ### What the census caught before anything was generated
@@ -86,8 +94,8 @@ carrying coordinate tables; every coordinate stays published.
    `locations/coronado-islands.md`, `locations/pukey-point.md` (the minimum
    spot page — the tier that runs ~335 times).
 2. **The census** (set): `scripts/review/build-geo-worklist.py --dry-run` —
-   **425 pages** (2 jurisdiction + 5 region + 74 zone + 344 spot), each with
-   its parent, depth count and bar clause, plus 20 parent-distance outliers,
+   **427 pages** (2 jurisdiction + 5 region + 76 zone + 344 spot), each with
+   its parent, depth count and bar clause, plus the parent-distance outliers,
    2 naval security zones excluded, and 19 spots carrying advisories.
    Coordinate conservation is asserted: 391 spots = 339 pages + 50 AR table
    rows + 2 excluded.
@@ -125,7 +133,7 @@ in the source registry (El Cajon local, relayed via Cameron).
   nate, sea-lion row to Landing & handling, skip-jigging flagged, etc.),
   re-verified adversarially, committed via the wrapper.
 - **Fleet prompts updated** (review-note.md step 3/3b, verify-review.md
-  check 4) so all 253 remaining rows inherit the v2.1 rules.
+  check 4) so every remaining row inherits the v2.1 rules.
 
 ---
 
@@ -167,18 +175,43 @@ the end.
 | 2 | **Corpus-only.** No external sources fill biology gaps. Missing content becomes `⚠ Flagged gap — no corpus source` entries feeding a generated gap report. |
 | 3 | Fact check runs **all three modes** (source fidelity vs transcripts; internal cross-note consistency; external web verification of biology/physics + regulatory claims). **Flag, never delete** — single-source ≠ wrong; flags queue for Cameron's manual review. |
 | 4 | Delivery via the **batch-3 pattern**: one review branch, worklist-driven self-re-dispatching Action, per-note commits, HTML review page, one GATE B review. |
-| 5 | Species stay **one note** (no targeting split); the decision spin-out valve (`species/bluefin-tuna-trolling.md` pattern) remains. |
+| 5 | ~~Species stay **one note**; the `decision` spin-out valve remains.~~ **SUPERSEDED (v2.1, v2.2).** Species now have two sub-article rungs: `zone-guide` (`species/<species>-<zone>.md`) and `species-technique` (`species/<species>-<technique>.md`, optional zone variant). The `decision` type is retired — `species/bluefin-tuna-trolling.md` was its only instance and is now a `species-technique`. |
 | 6 | Front matter grows into a **modest infobox**: ~5–8 per-type structured fields, validated like `regions`/`waters`. |
 | 7 | Batch 3 merges first — DONE (verified 2026-08-23: `origin/main` contains the batch-3 GATE B merge; the review branch sits at main's tip `1e66a92`). |
 | 8 | GATE A/B apply: this doc committed, Cameron sends `PLAN APPROVED`, supervised foundation, unattended fleet, GATE B review + merge. |
-| 9 | **Spots become KB pages**: a `locations/` gazetteer modeled on RS-wiki location pages — containment hierarchy (region → zone/complex → named spot), infobox, species-by-season "what's there" table linking the species routers. |
-| 10 | Gazetteer scope: **harvest the existing KB** (the per-note pass logs spot mentions) + `sources/spot-lists.md` + Cameron's profile; transcript re-mining is a future batch. **Charted/public coordinates OK** on universal spot pages; personal waypoints stay profile-only; the CLAUDE.md rule becomes "no PERSONAL coordinates". |
+| 9 | **Spots become KB pages** — still true, but the hierarchy grew (v2.2). Five rungs, one type per rung, FLAT in `locations/` with the chain carried by a `parent` path field: **jurisdiction → region → area → zone → spot**. `area` is optional and built only where the corpus earns it; the census currently mints none. |
+| 10 | **INVERTED (v2.2).** `sources/spot-lists.md` is the **authority**, not a third input: its `##` sections are the zone skeleton and its 391 coordinates decide zone membership. The KB harvest is demoted to a *depth* signal — it decides how much a page can SAY, never whether it exists. **Every spot in the library gets a page** (Cameron, 2026-08-24), minimum coordinates + parent zone. Charted/public coordinates only; personal waypoints stay profile-only. |
 
-Effort tiers: **FULL** species (24); **STANDARD** techniques (49), lures (16),
-rigging (31), conditions (12), seasonal (9), bait (3), locations (13);
-**LIGHT** (structure/citation normalization only) tackle (86), fish-care (7),
-planning (6). `profiles/` is guard-protected, so profile normalization happens
-in the supervised endgame, not the fleet.
+### The inventory (restated 2026-08-24 — spots changed the shape of this job)
+
+Six tiers, not three. Costs are the budget points
+`scripts/review/next-note.py` spends per unit.
+
+| tier | cost | what | count |
+|---|---|---|---|
+| `full` | 5 | species routers | 24 |
+| `standard` | 2 | techniques, lures, rigging, conditions, seasonal, bait, the 13 pre-existing `locations/` notes | 135 |
+| `light` | 1 | tackle, fish-care, planning — structure/citation normalization only | 99 |
+| `geo` | 2 | **NEW** — jurisdiction (2) + region (5) + zone (76) | 83 |
+| `gazetteer` | 2 | spot pages the FLEET writes (corpus material exists) | ~13, grows with harvest |
+| `cluster` | 3 | cross-note consistency sweeps | ~30 |
+| `relocate` | 1 | queued cross-note moves | 8 open |
+
+**Outside the fleet entirely:** ~327 minimum spot pages are generated
+**mechanically** by `scripts/review/build-spot-pages.py`. Only a handful of
+the 344 spot pages have any corpus material; the rest carry a coordinate and a
+parent zone, and handing those to Opus meant writing ~330 pages from a
+template at two subagent calls each — half the entire remaining job — while
+retyping 391 coordinate pairs. A wrong waypoint is a real-world hazard, so
+those positions are copied from the parsed source digit-for-digit and asserted
+every chunk by `scripts/review/check-coordinates.py`.
+
+`locations/` is therefore the largest folder in the review by a wide margin —
+427 ladder pages against `tackle`'s 86 — not the 13 notes this plan originally
+counted.
+
+`profiles/` is guard-protected, so profile normalization happens in the
+supervised endgame, not the fleet.
 
 ## Target structure
 
@@ -211,7 +244,7 @@ Source-named `##` sections merge into the skeleton.
 ### Spot page (NEW — locations gazetteer)
 
 ```
-(front matter)   type: location, regions/waters (already gated) + parent_zone (link,
+(front matter)   type: location, regions/waters (already gated) + parent (link,
                  validated), structure_type, depth_band, distance_nm, coordinates (charted only)
 Lead → ## Getting there → ## Structure & bathymetry → ## What's there (species-by-season
 table linking species routers) → ## How it fishes (current/wind/tide behavior) →
@@ -290,7 +323,7 @@ table linking species routers) → ## How it fishes (current/wind/tide behavior)
    section/infobox validation (same all-or-nothing exit-1 pattern as region
    gating); evidence pairing in both directions; `type: evidence` NOT
    region-gated, skipped by the granularity watch, otherwise rides the
-   existing backlinks/index machinery unchanged; location `parent_zone` must
+   existing backlinks/index machinery unchanged; location `parent` must
    resolve.
 4. **`scripts/export-site-index.py`**: skip `evidence/` subdirs.
 5. **`scripts/review/guard.py`** (clone of the batch-2 guard; conservation +
@@ -378,12 +411,35 @@ mechanically-generated **cluster rows** (`cluster:bluefin` = router + its
 linked technique/lure notes) for the cross-note contradiction sweep →
 `contradicted-internal` flags in both notes.
 
-### Phase 3 — Gazetteer (same workflow)
+### Phase 3 — The geographic ladder (same workflow, two tiers + one script)
 
-`build-spot-worklist.py` dedupes `sources/spot-harvest.md` into `spot:` rows;
-`gazetteer-spot.md` builds/updates spot pages (hierarchy front matter, "what's
-there" table, charted coords where public); new pages enter the worklist as
-`transformed` so they flow through fact-check + verify like everything else.
+Restated 2026-08-24; this section previously described only spot harvesting.
+
+**`geo` tier (83 units, runs FIRST of all phases).**
+`scripts/review/build-geo-worklist.py` derives the ladder from
+`sources/spot-lists.md` coordinates and appends rows;
+`prompts/geo-page.md` is the worker. Order matters twice over: a spot page
+cannot resolve `parent` until its zone exists, and a species note being
+rewritten should link a real zone page rather than fall back to a plain-text
+name. `scripts/review/next-note.py` `buckets()` therefore puts `geo` ahead of
+`transform`.
+
+**Mechanical spot pages (~327, no fleet involvement).**
+`scripts/review/build-spot-pages.py` runs at every chunk checkpoint and writes
+the minimum pages under whatever zones have landed so far — self-sequencing,
+idempotent, and it never touches a page that already exists. Coordinates are
+copied from the parsed source digit-for-digit;
+`scripts/review/check-coordinates.py` asserts every published position against
+the library on every chunk and fails the sweep on a mismatch.
+
+**`gazetteer` tier (~13 and growing).** Only spots that actually have corpus
+material go to the fleet, via `prompts/gazetteer-spot.md`. As transforms feed
+`sources/spot-harvest.md`, `build-spot-worklist.py` promotes newly-sourced
+spots into this tier.
+
+Nine isolated banks have a spot whose slug equals its own zone slug (Tanner
+Bank, San Juan Seamount, The Bumps…). There the zone page IS the place and no
+second file is minted.
 
 ### Phase 4 — External verification (separate workflow `verify-external.yml`)
 
@@ -397,11 +453,29 @@ Mismatches are flags, never edits.
 ### Phase 5 — Endgame (supervised) + GATE B
 
 Profiles LIGHT normalization (guard-protected, human in loop); coverage
-summary (worklist accounting: every note `done|skipped|escalated`;
+summary (worklist accounting: every row `done|skipped|escalated`;
 observation-conservation totals; before/after word counts per folder);
 judgment-calls list; final gap report; ledger triage counts; review-watch
-refresh; retire the workflow (batch-3 trampoline-retirement pattern). One
-GATE B review by Cameron on the review-watch page → merge to `main`.
+refresh; retire the workflows (`review-chunk`, `verify-external` and the
+`main` trampoline + registration copies, batch-3 retirement pattern).
+
+**The geo layer adds its own GATE B preconditions (2026-08-24):**
+
+- **Coordinate conservation**, the geo analogue of observation conservation:
+  `391 spots = pages + AR-table rows + excluded` must still reconcile, and
+  `check-coordinates.py` must exit clean — every published position tracing to
+  `sources/spot-lists.md` digit-for-digit.
+- **Census accounting**: every zone in `sources/geo-census.txt` has a page,
+  and every page has a zone. No orphans in either direction.
+- **Dispositions Cameron owes a call on**, all surfaced by the census and none
+  of them auto-resolvable: the parent-distance outliers, the spots carrying
+  MPA/advisory labels, the 2 excluded naval security zones, and the
+  coordinate-less stubs (Cabo San Lucas, Loreto, La Paz).
+- **The map** (`Review Watch → Map`) is a review surface in its own right:
+  zone hulls, colour-by-zone and the needs-review layer are how a bad carve-up
+  is seen rather than inferred from a column of numbers.
+
+One GATE B review by Cameron on the review-watch page → merge to `main`.
 
 ## Verification
 
@@ -417,6 +491,14 @@ GATE B review by Cameron on the review-watch page → merge to `main`.
   coverage-summary convention.
 
 ## Risks (top ones, with mitigations)
+
+- **Chain-length against the 200-chunk cap.** The ladder roughly doubled the
+  unit count, and geo pages commit as `transformed`, so they re-enter the
+  fact-check bucket. Mechanical spot generation is what keeps this tractable:
+  ~661 points ≈ 41 chunks, against ~1,333 ≈ 83 had the fleet written every
+  spot. Still well inside the cap, but it is now a number to watch rather than
+  an assumption — `next-note.py --count` and the review-watch ETA are the
+  gauges, and the cap lives in `.github/workflows/review-chunk.yml`.
 
 | Risk | Mitigation |
 |---|---|
