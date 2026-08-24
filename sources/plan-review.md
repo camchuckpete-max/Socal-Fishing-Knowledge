@@ -6,13 +6,14 @@
 > `sources/plan.md`, 2026-08-12). Scope and decisions were worked out with
 > Cameron in conversation on 2026-08-23.
 
-**Status: foundation + three-tier pilot complete (2026-08-24). Cameron's
-in-depth pilot review (with outside review from Nate) produced the v2.1
-amendment below; the supervised revision round it defines is executing as
-pilot iteration. GATE A stands re-opened for the amended plan: the
-unattended FLEET does not dispatch until Cameron re-reviews the reworked
-pilot and sends `PLAN APPROVED` for this amended document.** GATE B (merge
-to `main`) remains locked until his post-build review.
+**Status: GATE A UNLOCKED — Cameron's `PLAN APPROVED` for the amended plan
+(v2.1 + fleet-dispatch amendment) was given 2026-08-24 after his re-review
+of the reworked pilot ("not perfect but good enough for now"). The fleet is
+dispatched: Opus 5 (`MODEL_OVERRIDE`, flip-to-sonnet documented for the
+light tail), usage-limit resilience in place (orchestrator limit rule; cron
+trampoline on `main`; session monitor). Kill switch: a `STOP` file at the
+branch root.** GATE B (merge to `main`) remains locked until Cameron's
+post-build review of the coverage summary + judgment-calls list.
 
 ## Amendment — pilot-feedback round (2026-08-24, cameron + nate)
 
