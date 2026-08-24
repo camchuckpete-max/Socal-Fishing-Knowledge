@@ -15,6 +15,16 @@ trampoline on `main`; session monitor). Kill switch: a `STOP` file at the
 branch root.** GATE B (merge to `main`) remains locked until Cameron's
 post-build review of the coverage summary + judgment-calls list.
 
+> **Dispatch note (2026-08-24 18:58 UTC):** the trampoline's first dispatch
+> 404'd — `gh workflow run` resolves workflow names against the
+> default-branch registry, and `review-chunk.yml` existed only on this
+> branch. Fixed by registering byte-identical, `workflow_dispatch`-only
+> copies of `review-chunk.yml` and `verify-external.yml` on `main`
+> (inert there; every dispatch targets `--ref` this branch — the batch-3
+> `batch2-ingest-chunk` precedent). This widened the approved "sole main
+> push" (trampoline) to three registration files, all retiring together at
+> GATE B. Chain confirmed started: review-chunk run #1 in progress.
+
 ## Amendment — pilot-feedback round (2026-08-24, cameron + nate)
 
 Feedback source: `sources/pilot-feedback-2026-08-24.md`; `nate` registered
