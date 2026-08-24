@@ -14,6 +14,12 @@ name: review-trampoline
 # fails on its first API call).
 #
 # Retire this file (or disable the workflow) when the review merges at GATE B.
+#
+# 2026-08-24: review-chunk.yml / verify-external.yml are REGISTERED on main
+# (byte-identical, workflow_dispatch-only, inert here) because dispatch-by-
+# name resolves against the default-branch registry — without them this
+# trampoline's `gh workflow run` 404s. Runs execute the review branch's
+# copies via --ref. All three retire together at GATE B.
 
 on:
   schedule:

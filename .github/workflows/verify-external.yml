@@ -1,0 +1,90 @@
+name: verify-external
+# Phase 4 of the editorial review (sources/plan-review.md): web verification
+# of biology/physics claims tagged `ext-verify` in the fact-check ledger and
+# of every regulatory claim. SEPARATE from review-chunk.yml on purpose: web
+# tools (WebFetch/WebSearch) are granted ONLY here, never to the fleet that
+# rewrites notes — smallest unattended surface per workflow.
+#
+# Dispatch manually once the fact-check phase has populated the ledger.
+# Kill switch: the same STOP file.
+#
+# A byte-identical copy is registered on main so dispatch-by-name resolves
+# (see review-chunk.yml's header); the main copy is workflow_dispatch-only
+# and inert. Both copies retire together at GATE B.
+
+on:
+  workflow_dispatch:
+    inputs:
+      chunk_size:
+        description: "Claims to process this run"
+        type: string
+        default: "30"
+
+concurrency:
+  group: kb-review-external
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      BRANCH: claude/knowledge-base-review-g00k8s
+      MODEL_OVERRIDE: "claude-opus-5"
+    steps:
+      - name: Checkout review branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/knowledge-base-review-g00k8s
+          fetch-depth: 0
+
+      - name: Preflight
+        id: preflight
+        env:
+          HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+          HAS_OAUTH: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+        run: |
+          set -euo pipefail
+          if [ -f STOP ]; then
+            echo "STOP file present — exiting silently."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "$HAS_KEY" != "true" ] && [ "$HAS_OAUTH" != "true" ]; then
+            echo "::error::No auth secret found."
+            exit 1
+          fi
+          echo "run_base=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "proceed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Git identity
+        if: steps.preflight.outputs.proceed == 'true'
+        run: |
+          git config user.name "kb-review[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run external verifier
+        if: steps.preflight.outputs.proceed == 'true'
+        timeout-minutes: 150
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ github.token }}
+          allowed_bots: "github-actions,github-actions[bot]"
+          prompt: |
+            Read prompts/verify-external-chunk.md and follow it exactly.
+            CHUNK_SIZE=${{ inputs.chunk_size }}.
+          claude_args: >-
+            --model ${{ env.MODEL_OVERRIDE || 'claude-opus-5' }}
+            --max-turns 400
+            --allowedTools "Bash(git:*),Bash(python:*),Bash(python3:*),Bash(bash:*),Bash(wc:*),Bash(ls:*),Bash(scripts/*),Read,Grep,Glob,Edit,Write,Task,WebFetch,WebSearch"
+
+      - name: Mechanical guard sweep
+        if: always() && steps.preflight.outputs.proceed == 'true'
+        run: |
+          set -euo pipefail
+          python scripts/review/guard.py sweep --base "${{ steps.preflight.outputs.run_base }}"
+          git push origin "HEAD:$BRANCH" || (git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH")
