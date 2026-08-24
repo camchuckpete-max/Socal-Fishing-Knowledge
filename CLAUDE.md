@@ -60,10 +60,15 @@ rigging/      knots, leaders, terminal rigs (parameters + judgment; link video)
 tackle/       rod/reel/line/hook selection by application; the gear-class lexicon
 bait/         making, keeping, and fishing live bait
 fish-care/    bleeding, chilling, ikejime, handling
-locations/    UNIVERSAL structure/zone knowledge + the spot gazetteer
-              (region → zone → spot pages) — no PERSONAL coordinates
-              (charted/public positions are fine; personal waypoints stay
-              in profiles/)
+locations/    the geographic ladder + UNIVERSAL structure knowledge.
+              Ladder (v2.2): jurisdiction → region → area → zone → spot,
+              one type per rung, FLAT folder — the chain is carried by the
+              `parent` front-matter field, not by directories. Zones are
+              derived from the coordinates in sources/spot-lists.md (its ##
+              sections are the skeleton), never from mention counts; EVERY
+              spot in that library gets a page, minimum coordinates + parent
+              zone. No PERSONAL coordinates (charted/public positions are
+              fine; personal waypoints stay in profiles/)
 planning/     day-plan-protocol + search/glassing + electronics + report-reading
 profiles/     per-user boat, rods, tackle, lures, spots (cameron/ + _template/)
 sources/      raw transcripts, manifest, source registry, extraction log, input docs
@@ -93,8 +98,12 @@ auto-generated index.
   ---
   type: species            # species|technique|lure|rig|tackle|bait|fish-care|
                            # conditions|seasonal|location|planning|profile|
-                           # decision (species-level decision spin-outs,
-                           # e.g. species/bluefin-tuna-trolling.md)|
+                           # species-technique (one species x one technique,
+                           # e.g. species/bluefin-tuna-trolling.md; replaces
+                           # the retired `decision` type)|
+                           # jurisdiction|region|area|zone (the geographic
+                           # ladder: jurisdiction > region > area > zone >
+                           # spot, where a spot is type: location)|
                            # zone-guide (species×zone targeting guides,
                            # e.g. species/yellowtail-coronado-islands.md)
   tags: [bluefin, trolling, offshore]
@@ -110,7 +119,9 @@ auto-generated index.
   ```
 
 - **Region gating is mandatory** on `species | technique | lure | rig |
-  location | seasonal | bait | decision | zone-guide`. Five broad regions —
+  location | seasonal | bait | zone-guide | species-technique | region |
+  area | zone` (`jurisdiction` is exempt — it spans every region on its side
+  of the border by definition). Five broad regions —
   `socal-bight`, `baja-pacific-north`, `baja-pacific-south`, `cortez-north`,
   `cortez-south` (north/south split at the BC/BCS state line, 28°N). Assignment
   is at **region level, not spot level** (Cameron, 2026-08-17). Vocabularies in

@@ -18,11 +18,13 @@ positions.
    sources/spot-harvest.md`) and read the sections they point into — the
    claims live in already-reviewed notes; lift them with their cites.
 2. Read `locations/regions.md` and the existing zone notes; place the spot in
-   the hierarchy: `parent_zone` must link a real page (create the zone page
+   the hierarchy: `parent` must link a real page — the geo phase builds the whole ladder
+   BEFORE any spot page is queued, so the parent zone already exists and you
+   must NOT create one (formerly: create the zone page
    too ONLY if the worklist row names it; otherwise link the closest existing
    zone note).
 3. Build the page per `templates/location.md`: infobox (regions/waters,
-   parent_zone, structure_type, depth_band, distance_nm; `coordinates` only
+   parent, structure_type, depth_band, distance_nm; `coordinates` only
    from spot-lists/cameron/charted knowledge already in the repo — never
    invented, never from a transit-time inference), lead, Getting there,
    Structure & bathymetry, **What's there** (species-by-season table, each

@@ -20,6 +20,7 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 <!-- index:start -->
 ## Index
 
+- [Judgment calls](judgment-calls.md) — Decisions the review made that a human should see.
 - [Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer](plan-review.md) — Status: GATE A UNLOCKED — Cameron's PLAN APPROVED for the amended plan (v2.1 + fleet-dispatch amendment) was given 2026-08-24 after his re-review of the reworke
 - [Plan: distributed `socal-boat-day` skill + `config/` endpoint layer](plan-socal-boat-day-skill.md) — The governing plan for shipping the multi-user boat-day skill: a thin packaged bootstrap plus a live, editable endpoint layer in the repo.
 - [Plan: Build SoCal/Baja Fishing Knowledgebase](plan.md) — Status: Cameron's PLAN APPROVED for this revision was given 2026-08-12 (after the resuming session's state report).

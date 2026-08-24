@@ -70,6 +70,24 @@ self-check before finishing).
    `sources/relocation-queue.md` between its markers:
    `| <this note> | <dst path or NEW: <path>> | <what> | <why> | <cite> | pending |`.
    A dedicated relocation pass with a paired guard handles the move.
+
+7b. **Deep per-species execution → queue a spin-out, never bloat the page**
+   (amendment v2.2, Cameron: *"the species pages aren't carrying the full
+   weight of different techniques, the techniques pages aren't trying to
+   explain every variation of each technique for every species"*).
+   While transforming a **species router**, if one situation row's program
+   carries real execution depth, or while transforming a **technique note**,
+   if one species' variation does, queue a species-technique sub-article
+   instead of expanding either note:
+   `| <this note> | NEW: species/<species>-<technique>.md | <what> | deep per-species execution | <cite> | pending |`
+   **The bar is countable: >= 2 distinct CITED execution parameters** specific
+   to that species x technique pairing — retrieve, depth, speed, bite
+   handling, rig geometry. A gear-weight change alone is never enough
+   ("if it's just using heavier gear it shouldn't have its own article").
+   Below the bar, the detail stays as a router row or a technique bullet.
+   A zone variant (`species/<species>-<technique>-<zone>.md`) needs the
+   technique itself to differ in that zone, not just heavier tackle.
+   Log every spin-out you queue in your `LOG:` flags as `spinout(<n>)`.
 8. **Spot harvest**: append one row to `sources/spot-harvest.md` between its
    markers for every NAMED fishing spot/zone the note mentions:
    `| <spot name> | <this note> | <section> | <one-line claim> | <cite> |`.

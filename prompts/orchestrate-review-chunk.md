@@ -33,6 +33,9 @@ all git state changes go through the sanctioned wrapper
       - `relocate`: "Read prompts/relocate-content.md and follow it exactly.
         Row: <src> | <dst> | <what> | <rationale> | <cite>. Repo root: the
         current working directory."
+      - `geo`: "Read prompts/geo-page.md and follow it exactly. Page:
+        <note>. Row: <note> | geo | <status> | <flags> | <result>. Repo
+        root: the current working directory."
       - `gazetteer`: "Read prompts/gazetteer-spot.md and follow it exactly.
         Page: <note>. Harvest count: <result>. Repo root: the current
         working directory."
@@ -52,6 +55,8 @@ all git state changes go through the sanctioned wrapper
         `... --note <note> --status <fact-checked, or done when the tier is standard/gazetteer> --result "<outcome>" --flags "<worker flags>" --message "fact-check"`
       - cluster, apply-family verdict:
         `... --note <cluster:...> --status done --result "<outcome>" --message "consistency"`
+      - geo, apply-family verdict:
+        `... --note <locations/....md> --status transformed --result "<outcome>" --message "geo"`
       - gazetteer, apply-family verdict:
         `... --note <locations/....md> --status transformed --result "<outcome>" --message "gazetteer"`
       - relocate, worker VERDICT `done` + verifier apply-family:

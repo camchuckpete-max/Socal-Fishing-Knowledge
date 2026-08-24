@@ -38,9 +38,9 @@ RQ_START, RQ_END = "<!-- review:relocations:start -->", "<!-- review:relocations
 
 STATUSES = {"pending", "transformed", "fact-checked", "done", "skipped",
             "escalated", "reverted"}
-TIERS = {"full", "standard", "light", "gazetteer", "cluster"}
-COST = {"full": 5, "standard": 2, "light": 1, "gazetteer": 2, "cluster": 3,
-        "relocate": 1}
+TIERS = {"full", "standard", "light", "geo", "gazetteer", "cluster"}
+COST = {"full": 5, "standard": 2, "light": 1, "geo": 2, "gazetteer": 2,
+        "cluster": 3, "relocate": 1}
 
 
 def parse_table(path: Path, start: str, end: str, ncells: int,
@@ -111,6 +111,10 @@ def buckets() -> list[tuple[str, list[dict]]]:
         ("transform", [r for r in wl if r["status"] == "pending"
                        and r["tier"] in ("full", "standard", "light")]),
         ("relocate", rq),
+        # geo BEFORE gazetteer: jurisdiction -> region -> area -> zone must
+        # exist before a spot page can resolve `parent`.
+        ("geo", [r for r in wl if r["status"] == "pending"
+                 and r["tier"] == "geo"]),
         ("gazetteer", [r for r in wl if r["status"] == "pending"
                        and r["tier"] == "gazetteer"]),
         ("factcheck", [r for r in wl if r["status"] == "transformed"]),

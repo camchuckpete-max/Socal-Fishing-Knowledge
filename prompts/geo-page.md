@@ -1,0 +1,72 @@
+# Write one geographic page — jurisdiction, region, area or zone
+
+You are the WORKER for one unit of the editorial-review fleet. Your job is a
+single page on the geographic ladder:
+
+    jurisdiction -> region -> area -> zone -> spot
+
+The rung is set by the page's front-matter `type`, and each rung has its own
+template and CI-validated skeleton:
+`templates/jurisdiction.md`, `templates/region.md`, `templates/area.md`,
+`templates/zone.md`. Spot pages are NOT your job — those are the `gazetteer`
+phase (`prompts/gazetteer-spot.md`).
+
+## Rules that override your instincts
+
+1. **Corpus-only.** Everything you write must trace to the repo: knowledge
+   notes, `sources/spot-lists.md`, `sources/spot-harvest.md`, evidence files,
+   `profiles/cameron/` (read-only, cited `(cameron)`). **No outside geographic
+   knowledge, no remembered coordinates, no inferred distances.** Where the
+   corpus is silent, write `⚠ Flagged gap — no corpus source: <what is
+   missing>` and move on. A page that is mostly flagged gaps is a correct
+   page when the corpus is thin — silence is what you must never write.
+2. **The zone list is not yours to change.** Zones were derived from
+   coordinates and approved by Cameron in the census
+   (`scripts/review/build-geo-worklist.py --dry-run`). Do not merge, split,
+   rename or invent a zone. If a zone looks wrong to you, say so in your
+   `LOG:` line and write the page as queued.
+3. **`parent` must resolve.** Every rung below jurisdiction carries a `parent:`
+   front-matter field holding a RELATIVE PATH (bare, not a markdown link) to
+   the rung above. The ladder is built top-down, so the parent exists.
+4. **Facts belong to the smallest rung that owns them.** A closure, a
+   restricted area or a local rule about ONE island goes on that island's zone
+   page — never on the jurisdiction page. The jurisdiction rung holds only
+   paperwork and border rules that apply to every region on its side of the
+   line.
+5. **Coordinates:** charted/public positions only, and only from
+   `sources/spot-lists.md` or existing notes. Never invent, never infer from a
+   transit time. Personal waypoints stay in `profiles/`.
+6. Follow `templates/style-guide.md` — plain statements, compact cites, no
+   meta-attribution, no relative time, region-scoped parameters.
+
+## Steps
+
+1. Read the worklist row, then the template for your `type`.
+2. Gather corpus material: grep the place name (and its variants) across the
+   knowledge folders; read `sources/spot-lists.md` for its section and spots;
+   check `sources/spot-harvest.md` rows naming it; look for an existing page
+   you are replacing or extending.
+3. Write the page onto the template's skeleton, in canonical section order.
+   Fill the infobox; `unknown` is legal and feeds the gap report.
+4. **Zone pages:** list child spots under `## Spots` with a one-line character
+   note each, and link any `species/<species>-<zone>.md` zone guide from
+   `## How it fishes` rather than absorbing the trip story.
+5. **Region pages:** link child zones under `## Zones`; a zone the corpus
+   cannot support gets a flagged-stub line, never omission.
+6. Create the evidence file (`locations/evidence/<note>.md`) when you have
+   observations; keep the main note's `## Evidence` to one link line.
+7. Self-check: `python scripts/review/check-note.py <note>` and
+   `python scripts/link-maintenance.py`. Both must pass.
+8. Touch ONLY your page, its evidence file, and the parent's child list.
+
+## Report
+
+`LOG: <note> | <sections written> | gaps(N) | spots(N) | <one-line outcome>`
+then `VERDICT: done` (or `skipped(<why>)` / `escalate(<why>)`).
+
+
+<!-- backlinks:start -->
+## Linked from
+
+_Nothing links here yet._
+<!-- backlinks:end -->

@@ -43,3 +43,19 @@ LOG: cluster:<species> | <members read> | <one-line outcome> | flags: <none | co
 
 _Nothing links here yet._
 <!-- backlinks:end -->
+
+## Species-technique staleness sweep (amendment v2.2)
+
+A `## Differs from the general method` section was true against the technique
+note as it stood when the sub-article was written. When that technique note is
+later rewritten, the delta can quietly stop being a delta — a creation-time
+check cannot catch this, which is why it lives here.
+
+For each `type: species-technique` note in the cluster: read the parent
+technique named in its `technique:` field, and confirm every bullet in
+`## Differs from the general method` still states something the general note
+does not. Any bullet that now merely restates the general method gets a
+`⚠ Fact-check (contradicted-internal)` flag and a ledger row — **flag, never
+silently rewrite**. If ALL of a page's deltas have collapsed, escalate: the
+page may no longer earn its existence.
+

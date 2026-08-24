@@ -44,6 +44,22 @@ Start with: `CLAUDE.md`, `templates/style-guide.md` + the type's template,
    Ledger rows match inline flags one-to-one.
 6. **Relocations**: pair conservation (nothing lost in transit), dst
    placement correct, `NEW:` notes process-compliant, cross-reference left.
+   A `NEW:` destination must instantiate the right template, carry resolving
+   path fields, and have its own worklist row appended.
+7. **Species-technique units** (`type: species-technique`): the
+   `## Differs from the general method` section must actually DIFFER. Read the
+   parent technique note named in the `technique:` field and reject any bullet
+   that merely restates its general mechanics — that section is the page's
+   whole justification. Also confirm the existence bar was met (>= 2 distinct
+   cited execution parameters specific to this species x technique), and that
+   a zone variant differs in technique rather than only in gear weight.
+   Reject a page whose depth is really the general method retold.
+8. **Geo units** (`jurisdiction` / `region` / `area` / `zone`): `parent`
+   resolves; the rung owns only what belongs to it — a closure or local rule
+   about ONE island on a jurisdiction page is misplaced and gets rejected to
+   that island's zone page; no invented coordinates, distances or structure;
+   the zone list from the approved census is not silently altered (a worker
+   merging, splitting or renaming a zone → reject and escalate).
 
 ## Verdicts (as in prompts/evaluate-unit.md)
 

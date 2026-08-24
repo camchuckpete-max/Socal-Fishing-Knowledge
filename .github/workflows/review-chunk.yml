@@ -12,7 +12,7 @@ name: review-chunk
 # Both copies retire together at GATE B.
 #
 # The chain sustains itself by self-re-dispatch. Phases (transform ->
-# relocations -> gazetteer -> fact-check -> cluster consistency) roll
+# relocations -> geo -> gazetteer -> fact-check -> cluster consistency) roll
 # automatically: scripts/review/next-note.py derives the active phase from
 # worklist state, so this file never changes between phases.
 #
@@ -23,7 +23,7 @@ on:
   workflow_dispatch:
     inputs:
       chunk_budget:
-        description: "Points per run (full=5 standard=2 light=1 gazetteer=2 cluster=3 relocate=1)"
+        description: "Points per run (full=5 standard=2 light=1 geo=2 gazetteer=2 cluster=3 relocate=1)"
         type: string
         default: "16"
       pace_minutes:
@@ -140,6 +140,7 @@ jobs:
           set -euo pipefail
           python scripts/review/progress.py || true
           python scripts/review/gap-report.py || true
+          python scripts/review/build-geo-worklist.py || true
           python scripts/review/build-spot-worklist.py || true
           python scripts/review/build-cluster-worklist.py || true
           if ! git diff --quiet; then

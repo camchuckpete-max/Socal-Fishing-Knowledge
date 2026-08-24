@@ -54,3 +54,26 @@ LOG: <src> -> <dst> | <what moved, one line> | flags: <none | new-note(<path>)>
 
 _Nothing links here yet._
 <!-- backlinks:end -->
+
+## Creating a NEW destination (`NEW: <path>` rows)
+
+When the destination does not exist yet:
+
+1. **Pick the template by path and content**, and follow its skeleton exactly:
+   `species/<species>-<technique>.md` → `templates/species-technique.md`;
+   `species/<species>-<zone>.md` → `templates/zone-guide.md`;
+   `locations/<zone>.md` → `templates/zone.md`;
+   `locations/<spot>.md` → `templates/location.md`;
+   anything else → the template for that folder's type.
+2. **Fill the infobox**, including `parent`/`species`/`technique` as BARE
+   relative paths that resolve. `unknown` is legal for descriptive fields and
+   feeds the gap report; a path field must resolve or the note fails CI.
+3. **Append its worklist row** so the new page gets its own quality pass and
+   fact check — it must not enter the KB unreviewed:
+   `| <path> | standard | pending |  | created by relocation from <src> |`
+   (use `geo` for a zone/region/area page, `gazetteer` for a spot page).
+4. **Paired conservation still governs**: every cite present in the source
+   before your edit must survive across source + destination + their evidence
+   files. Removing from the source without landing it in the destination is
+   the one thing the guard will revert.
+
