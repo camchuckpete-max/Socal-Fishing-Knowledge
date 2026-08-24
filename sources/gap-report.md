@@ -6,10 +6,39 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 11 flagged gaps, 10 flagged stubs, 2 unknown infobox values._
+_Totals: 22 flagged gaps, 22 flagged stubs, 6 unknown infobox values._
 
 ## species/
 
+- **species/barracuda.md**
+  - `Presence & forage`: gap — the natural forage species barracuda
+  - `Spawning`: gap — when, where or how California barracuda
+  - `Feeding triggers`: gap — tide/slack, current, moon-phase or
+  - `Finding them (sign & sonar)`: gap — species-specific sonar depths for
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — the size gauge, how it is measured, or the
+  - `Regulations`: gap — Mexican (CONAPESCA) size or bag limits for
+  - `Landing & handling`: gap — bleeding, chilling or ikejime parameters
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
+- **species/bluefin-tuna.md**
+  - `Presence & forage`: gap — any stomach-content or diet work for SoCal
+  - `Spawning`: gap — bluefin spawning season, location, or water
+  - `Feeding triggers`: gap — mechanism
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — Mexican (CONAPESCA) bluefin bag or size
+  - infobox `scientific_name`: unknown
 - **species/cabrilla.md**
   - `Finding them (sign & sonar)`: flagged stub row
 - **species/california-halibut.md**
