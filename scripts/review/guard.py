@@ -261,6 +261,13 @@ def violations(sha: str) -> list[str]:
     for _a, _d, dest, sides in touched_paths(sha):
         for s in sides:
             if is_protected(s):
+                # A note's outbound-link change regenerates `## Linked from`
+                # blocks even inside protected paths (profiles/, skills/) —
+                # machine churn, not an edit, as long as the file is
+                # byte-identical outside the markers.
+                if (s == dest and s.endswith(".md")
+                        and only_backlinks_changed(sha, s)):
+                    continue
                 probs.append(f"protected path touched: {s}")
         if scope_free:
             if not (dest in EXEMPT_LOGS or os.path.basename(dest) == "README.md"):
