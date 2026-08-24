@@ -267,4 +267,5 @@ by their builders after the transform phase drains.
 | tackle/tackle-express-surf-halibut-rod-lineup.md | light | pending |  |  |
 | tackle/tackle-express-trophy-bluefin-jig-outfit.md | light | pending |  |  |
 | tackle/tackle-express-white-seabass-rod-reel-line.md | light | pending |  |  |
+| species/yellowtail-coronado-islands.md | standard | transformed | gaps(4) spots(2) | zone-guide exemplar: nate program + Coronados corpus, corpus-only verified with 11 timestamped spot-checks; name-cites stripped per v2.1 |
 <!-- review:worklist:end -->

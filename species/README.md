@@ -27,6 +27,7 @@
 - [Wahoo](wahoo.md) — A fast, toothy, warm-water pelagic — SoCal/Baja anglers reach for it mostly as part of a mixed offshore troll (tuna/dorado/marlin) or on a dedicated trip to kno
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna — 8–10 lb up to 40–50 lb, with 15–25 lb the average grade.
+- [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md) **[Baja only]** — The Coronados are the springtime yellowtail trip on San Diego's doorstep: an island chain roughly 13 mi out, off the coast of Mexico, whose west side is exposed
 - [Yellowtail](yellowtail.md) — SoCal/Baja yellowtail are a structure-and-bait fish that show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and botto
 
 ### Subfolders
@@ -62,14 +63,15 @@ graph LR
   n20["Wahoo"]
   n21["White Seabass"]
   n22["Yellowfin Tuna"]
-  n23["Yellowtail"]
+  n23["Targeting yellowtail — Coronado Islands"]
+  n24["Yellowtail"]
   n0 --> n12
   n0 --> n3
   n0 --> n5
   n1 --> n2
   n12 --> n14
   n12 --> n2
-  n12 --> n23
+  n12 --> n24
   n12 --> n3
   n12 --> n9
   n13 --> n5
@@ -89,12 +91,12 @@ graph LR
   n2 --> n14
   n2 --> n15
   n2 --> n22
-  n2 --> n23
+  n2 --> n24
   n2 --> n8
   n20 --> n13
   n20 --> n22
   n20 --> n8
-  n21 --> n23
+  n21 --> n24
   n21 --> n6
   n22 --> n11
   n22 --> n12
@@ -102,26 +104,27 @@ graph LR
   n22 --> n18
   n22 --> n2
   n22 --> n20
-  n22 --> n23
+  n22 --> n24
   n22 --> n8
-  n23 --> n20
+  n23 --> n24
+  n24 --> n20
   n3 --> n0
   n3 --> n12
-  n3 --> n23
+  n3 --> n24
   n3 --> n5
   n5 --> n0
   n5 --> n13
   n5 --> n17
-  n5 --> n23
+  n5 --> n24
   n5 --> n3
   n5 --> n6
   n6 --> n21
-  n6 --> n23
+  n6 --> n24
   n6 --> n8
   n8 --> n2
   n8 --> n20
   n8 --> n22
-  n8 --> n23
+  n8 --> n24
   n8 --> n6
   n9 --> n12
 ```

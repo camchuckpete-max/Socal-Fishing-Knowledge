@@ -320,6 +320,7 @@ become primary).
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Color](water-color.md)

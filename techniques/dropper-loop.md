@@ -609,6 +609,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](swimbaits.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)
 - [Yellowtail](../species/yellowtail.md)

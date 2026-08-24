@@ -187,5 +187,6 @@ parameter and not a substitute for the observed/forecast pull.
 - [November–December](../seasonal/november-december.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Water Regimes](water-regimes.md)
 <!-- backlinks:end -->

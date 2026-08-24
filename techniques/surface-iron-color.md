@@ -265,4 +265,5 @@ against alternatives.
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)
 - [Surface Iron](surface-iron.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 <!-- backlinks:end -->

@@ -118,6 +118,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Moon](moon.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Water Color](water-color.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

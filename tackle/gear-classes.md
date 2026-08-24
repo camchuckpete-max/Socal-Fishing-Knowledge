@@ -344,6 +344,7 @@ does the lookup.
 - [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Trolling](../techniques/trolling.md)
 - [Tube Baits (HookUp Baits)](../lures/tube-baits.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)

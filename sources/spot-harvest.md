@@ -54,4 +54,6 @@ harvested.
 | Channel Islands | techniques/surface-iron.md | Gear class | 40 lb mono top-shot bracket — local, full-day-accessible island | `LTCFjqtSI8g` |
 | San Clemente Island | techniques/surface-iron.md | Gear class | 50 lb top shot — overnight range, a trophy-yellowtail shot at any moment | `LTCFjqtSI8g` |
 | Santa Barbara Island | techniques/surface-iron.md | Gear class | 50 lb top shot — overnight range, a trophy-yellowtail shot at any moment | `LTCFjqtSI8g` |
+| Coronado Islands | species/yellowtail-coronado-islands.md | The program | zone-guide trip: troll-search with Halco 190-class divers, figure-8s around the islands, convert on sign | nate, `D5DR7Kx42_A` |
+| Middle Grounds (Coronado Islands) | species/yellowtail-coronado-islands.md | The program | trolled as part of the Coronados search circuit, between the islands | nate |
 <!-- review:harvest:end -->

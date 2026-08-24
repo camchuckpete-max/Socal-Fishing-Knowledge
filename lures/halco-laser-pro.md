@@ -67,5 +67,6 @@ Profiles link the subset an angler owns. Cameron's two LP190 XDDs
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 <!-- backlinks:end -->

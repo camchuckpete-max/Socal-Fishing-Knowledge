@@ -502,6 +502,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Sliding Sinker](sliding-sinker.md)
 - [Surface Iron — Colour](surface-iron-color.md)
 - [Surface Iron — The Cast](surface-iron-casting.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Trolling](trolling.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

@@ -1105,6 +1105,7 @@ covered above, not a new tool.
 - [Speed Trolling](speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Tuna Feather Rig](../rigging/tuna-feather-rig.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
