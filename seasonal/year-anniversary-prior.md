@@ -75,6 +75,7 @@ open framing is attributed doctrine, not a gate.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Moon](../conditions/moon.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Water Regimes](../conditions/water-regimes.md)

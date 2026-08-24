@@ -266,4 +266,5 @@ against alternatives.
 - [Skip Jigging](skip-jigging.md)
 - [Surface Iron](surface-iron.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

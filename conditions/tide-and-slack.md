@@ -121,4 +121,5 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Water Color](water-color.md)
 - [White Seabass](../species/white-seabass.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

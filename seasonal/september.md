@@ -65,6 +65,7 @@ the same structure.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)

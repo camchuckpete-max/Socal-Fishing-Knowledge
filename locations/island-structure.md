@@ -152,6 +152,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Current Structure](../conditions/current-structure.md)
+- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
@@ -160,6 +161,5 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [White Seabass](../species/white-seabass.md)
-- [Yellowtail](../species/yellowtail.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

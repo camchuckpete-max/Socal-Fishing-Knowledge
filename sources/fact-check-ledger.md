@@ -19,4 +19,8 @@ The external pass appends ` — verified-current <date> (<source>)` or
 | seasonal/february-march.md | (2/6/25) | cite-unresolved | — | zero/ambiguous manifest matches among the note's sources |
 | seasonal/february-march.md | (2/6/25) | cite-unresolved | — | zero/ambiguous manifest matches among the note's sources |
 | seasonal/february-march.md | (2/6/25) | cite-unresolved | — | zero/ambiguous manifest matches among the note's sources |
+| species/yellowtail.md | "skip jigging" as a technique term | single-source | `OL8D1l73RVg` | term not in wider SoCal usage per the 2026-08-24 pilot review (nate/cameron); the mechanic is corroborated (`Ud3hi9r1Nr4`, techniques/skip-jigging.md) but the name may be one shop's — verify usage |
+| species/yellowtail.md | squid in a zone = a yellowtail chance at any island (stated as a law) | single-source | `5p6gu14ZC4w` | demoted to the evidence file 2026-08-24; the note keeps squid beds as a high-probability target zone — adjudicate whether the law form returns as doctrine |
+| species/yellowtail.md | 80–100 lb line class for the Cedros shallow-structure slow-troll | single-source | `QSmE3mdEL28` | single-crew bracket, called not a general recommendation in the 2026-08-24 pilot review; demoted to evidence — the router row carries the 40 lb floor / 50 lb Cedros classes |
+| species/yellowtail.md | yellowtail stacked on tuna pens (~120 ft, dead sardines) as a standing situation | single-source | `Ob45hK4HSWc` | single observation — router row demoted to evidence 2026-08-24, with the unresolved pen-location discussion carried there in full |
 <!-- review:ledger:end -->
