@@ -154,3 +154,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-21T20:54:24Z — zlelqp7Qo9Y — guard-violation
 - run: 32521877892
 - reason: commit 168c6837ed03fe232d62dc7cd5c93bc7d6c22dcd reverted: protected path touched: profiles/cameron/tackle.md
+
+## 2026-08-24T14:50:58Z — species/yellowtail.md — guard-violation
+- run: local
+- reason: commit 275752740af161c4498977cbdc86ec511ab5acd9 reverted: protected path touched: profiles/cameron/rods.md
