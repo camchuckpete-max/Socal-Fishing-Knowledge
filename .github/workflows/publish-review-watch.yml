@@ -1,0 +1,93 @@
+name: publish-review-watch
+
+# Rebuilds Review Watch (the editorial-review dashboard) from the review
+# branch and deploys it to GitHub Pages, so the page refreshes itself while
+# the chain works instead of needing a Claude session to regenerate it.
+# Successor to publish-bight-watch.yml (batch 3, retired) on the same Pages
+# site. Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
+#
+# Cameron's review surface for the transform job: conservation checks,
+# adjudication queues (ledger/relocations/escalations), gap totals, phase +
+# throughput, per-folder progress, recent diffs, chain card.
+
+on:
+  # Freshness comes from the event, not the clock: a chunk finishing is the
+  # moment the page has something new to show.
+  workflow_run:
+    workflows: ["review-chunk"]
+    types: [completed]
+
+  # Safety net for supervised pushes and chunks that die before reporting.
+  # Deliberately hourly — see publish-bight-watch.yml's history: greedier
+  # crons get throttled into being LESS fresh.
+  schedule:
+    - cron: "7 * * * *"
+
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: Branch to build the snapshot from
+        required: false
+        default: claude/knowledge-base-review-g00k8s
+
+  # Immediate kick: touching this file rebuilds now (a session without
+  # actions:write cannot dispatch).
+  push:
+    paths:
+      - .github/workflows/publish-review-watch.yml
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the review branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.branch || 'claude/knowledge-base-review-g00k8s' }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch recent chain runs for the Chain card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${{ github.repository }}/actions/workflows/review-chunk.yml/runs?per_page=12" \
+            --jq '{workflow_runs: [.workflow_runs[] | {id, status, conclusion, created_at}]}' \
+            > /tmp/runs.json || echo '{"workflow_runs":[]}' > /tmp/runs.json
+
+      - name: Build the page
+        run: |
+          # checkout narrows the refspec to the branch it fetched; the diff
+          # base (origin/main) must be asked for by name or every note reads
+          # as unchanged.
+          git fetch origin +refs/heads/main:refs/remotes/origin/main
+          git rev-parse --short origin/main
+          mkdir -p _site
+          python scripts/build-review-watch.py --out _site/index.html --runs /tmp/runs.json
+          ls -la _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
