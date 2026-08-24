@@ -20,19 +20,19 @@ WORKLIST = ROOT / "sources" / "review-worklist.md"
 H_START, H_END = "<!-- review:harvest:start -->", "<!-- review:harvest:end -->"
 WL_END = "<!-- review:worklist:end -->"
 
-# Harvest names arrive as prose ("the Rockpile", "425 Bank"); slugs are
-# kebab-case. Alias table for names whose slug is not the mechanical one.
-ALIASES = {
-    "the-rockpile": "rockpile",
-    "the-425": "425-bank",
-}
+# Slugging lives in geo_slug.py — ONE implementation for the whole ladder.
+# Two of them is how the accented Bahia duplicates got queued (see that module).
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from geo_slug import slugify, dedupe_key  # noqa: E402
 
 
-def slugify(name: str) -> str:
-    s = name.strip().lower()
-    s = re.sub(r"^(the|el|la)\s+", "", s)
-    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
-    return ALIASES.get(s, s)
+def existing_page_keys() -> dict[str, str]:
+    """Normalized identity -> path, for every locations/ page that exists."""
+    out = {}
+    for p in (ROOT / "locations").glob("*.md"):
+        if p.name != "README.md":
+            out[dedupe_key(p.stem)] = p.name
+    return out
 
 
 def main() -> int:
@@ -56,6 +56,13 @@ def main() -> int:
         slug = slugify(cells[0])
         if slug:
             counts[slug] = counts.get(slug, 0) + 1
+
+    # Drop anything whose folded identity already has a page (this is the
+    # check the old raw-slug comparison failed).
+    have = existing_page_keys()
+    for slug in [k for k in counts if dedupe_key(k) in have]:
+        print(f"build-spot-worklist: {slug} -> existing {have[dedupe_key(slug)]}")
+        counts.pop(slug)
 
     wl = WORKLIST.read_text(encoding="utf-8")
     added = skipped = 0
