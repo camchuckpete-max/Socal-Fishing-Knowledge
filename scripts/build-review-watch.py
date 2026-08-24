@@ -58,9 +58,23 @@ def _load(name: str, fname: str):
 _bw = _load("build_bight_watch", "build-bight-watch.py")
 _bv = _load("build_vault", "build-vault.py")
 
+# The geographic ladder comes from the census builder, never re-derived here —
+# the map and the census must agree by construction, not by coincidence.
+_geo_spec = importlib.util.spec_from_file_location(
+    "build_geo_worklist",
+    Path(__file__).resolve().parent / "review" / "build-geo-worklist.py")
+_geo = importlib.util.module_from_spec(_geo_spec)
+_geo_spec.loader.exec_module(_geo)
+
 GH = "https://github.com/camchuckpete-max/Socal-Fishing-Knowledge"
 BRANCH = "claude/knowledge-base-review-g00k8s"
 DIFF_LINE_CAP = 400          # per note; overflow is reported, not hidden
+# Leaflet is INLINED, not CDN-loaded: the map is a gate review surface and a
+# page that silently loses its basemap when a CDN is slow is worse than one
+# that carries 160 KB. See scripts/vendor/README.md.
+VENDOR = Path(__file__).resolve().parent / "vendor"
+LEAFLET_JS = VENDOR / "leaflet-1.9.4.js"
+LEAFLET_CSS = VENDOR / "leaflet-1.9.4.css"
 SKIP = ("sources/", ".git/", "scripts/", "prompts/", ".github/", "tests/",
         "skills/")
 
@@ -278,6 +292,65 @@ def build(base: str, runs_path: str | None) -> dict:
                    and not f["path"].startswith("templates/")]
     layout = _bw.layout_graph(graph_files)
 
+    # ---- the geographic ladder, for the map view -------------------------
+    geo = {"spots": [], "zones": [], "outliers": 0, "error": ""}
+    try:
+        raw_spots = _geo.parse_spot_lists()
+        zones, spot_rows, ar_series, non_spot, unassigned = _geo.build_zones(
+            raw_spots, docs=None)
+        jur = {"socal-bight": "us-waters"}
+        zmeta, zid = [], {}
+        for i, z in enumerate(zones):
+            zid[id(z)] = i
+            c = _geo.centre(z["spots"]) if z["spots"] else None
+            zmeta.append({
+                "i": i, "name": z["display"], "slug": z["slug"],
+                "region": z["region"],
+                "jur": jur.get(z["region"], "mexican-waters"),
+                "src": z["src"], "n": len(z["spots"]),
+                "lat": round(c["lat"], 5) if c else None,
+                "lon": round(c["lon"], 5) if c else None,
+                "hull": [[round(s["lat"], 5), round(s["lon"], 5)]
+                         for s in z["spots"]],
+            })
+        pins = []
+        for r in spot_rows:
+            src = next((s for s in r["zone"]["spots"]
+                        if s["name"] == r["display"]), None)
+            if not src:
+                continue
+            pins.append({
+                "name": r["display"], "slug": r["slug"],
+                "lat": round(src["lat"], 5), "lon": round(src["lon"], 5),
+                "z": zid[id(r["zone"])], "d": round(r["dist"], 1),
+                "far": r["dist"] > _geo.MAX_ZONE_DIAMETER_NM,
+            })
+        for key, a in ar_series.items():
+            members = [s for s in a["zone"]["spots"]
+                       if _geo.AR_SERIES.match(s["name"])
+                       and _geo.slugify((_geo.AR_SERIES.match(s["name"]).group(1)
+                                         or _geo.AR_SERIES.match(s["name"]).group(2)
+                                         ).strip()) == key]
+            for m in members:
+                pins.append({
+                    "name": m["name"], "slug": key, "ar": a["display"],
+                    "lat": round(m["lat"], 5), "lon": round(m["lon"], 5),
+                    "z": zid[id(a["zone"])],
+                    "d": round(_geo.nm(m, _geo.centre(a["zone"]["spots"])), 1),
+                    "far": False})
+        for name, zone_name in non_spot:
+            src = next((s for s in raw_spots if s["name"] == name), None)
+            if src:
+                pins.append({"name": name, "slug": "", "excluded": True,
+                             "lat": round(src["lat"], 5),
+                             "lon": round(src["lon"], 5), "z": -1, "d": 0,
+                             "far": False})
+        geo = {"spots": pins, "zones": zmeta,
+               "outliers": sum(1 for p_ in pins if p_.get("far")),
+               "maxDiam": _geo.MAX_ZONE_DIAMETER_NM, "error": ""}
+    except Exception as exc:                      # never break the dashboard
+        geo["error"] = f"{type(exc).__name__}: {exc}"
+
     base_iso = git("show", "-s", "--format=%cI", base).strip()
     snap = {
         "generatedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(now)),
@@ -304,11 +377,14 @@ def build(base: str, runs_path: str | None) -> dict:
         "commits": _bv.collect_commits(base, limit=40),
         "runs": _bw.load_runs(runs_path) if runs_path else [],
         "gh": GH,
+        "geo": geo,
     }
     return snap
 
 
 HTML = r"""<title>Review Watch</title>
+<style>__LEAFLET_CSS__</style>
+<script>__LEAFLET_JS__</script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>
 /* Bight Watch's sonar-screen design system, verbatim: light default, dark by
@@ -412,6 +488,47 @@ main{flex:1;display:flex;min-height:0}
   border-radius:8px;padding:5px 9px;font-size:12px;box-shadow:var(--shadow);display:none;z-index:5}
 .gstat{position:absolute;right:14px;top:12px;font-family:var(--mono);font-size:11px;color:var(--muted);
   text-align:right;font-variant-numeric:tabular-nums}
+
+/* map view — the geographic ladder on real ground */
+#mapwrap{position:absolute;inset:0;display:none}
+#mapwrap.on{display:block}
+#graphwrap.mapmode #graph,#graphwrap.mapmode .legend,#graphwrap.mapmode .gstat{display:none}
+#map{position:absolute;inset:0;background:var(--panel2)}
+.leaflet-container{background:var(--panel2);font:12px var(--sans)}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--panel);color:var(--ink);
+  box-shadow:var(--shadow)}
+.leaflet-popup-content{margin:10px 12px;font:12.5px var(--sans)}
+.leaflet-bar a{background:var(--panel);color:var(--ink);border-color:var(--hair)}
+.leaflet-bar a:hover{background:var(--panel2)}
+.leaflet-control-attribution{background:color-mix(in srgb,var(--panel) 88%,transparent)!important;
+  color:var(--muted)!important;font-size:10px}
+.leaflet-control-attribution a{color:var(--accent-ink)!important}
+.mapfail{position:absolute;inset:0;display:grid;place-items:center;text-align:center;
+  padding:24px;color:var(--ink2);font-size:13px}
+.mpanel{position:absolute;z-index:1200;top:12px;left:12px;width:232px;max-height:calc(100% - 24px);
+  overflow-y:auto;background:var(--panel);border:1px solid var(--hair);border-radius:11px;
+  box-shadow:var(--shadow);padding:11px 12px;font-size:12px}
+.mpanel h4{margin:0 0 7px;font-size:10.5px;font-weight:700;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--muted)}
+.mpanel h4:not(:first-child){margin-top:12px}
+.mrow{display:flex;align-items:center;gap:7px;padding:2px 0;cursor:pointer;color:var(--ink2)}
+.mrow:hover{color:var(--ink)}
+.mrow input{accent-color:var(--accent);margin:0}
+.mrow .sw{width:10px;height:10px;border-radius:50%;flex:none}
+.mrow .ct{margin-left:auto;font-family:var(--mono);font-size:10px;color:var(--muted)}
+.mcrumb{position:absolute;z-index:1200;left:12px;bottom:12px;right:12px;max-width:640px;
+  background:var(--panel);border:1px solid var(--hair);border-radius:11px;
+  box-shadow:var(--shadow);padding:9px 12px;font-size:12.5px;color:var(--ink2)}
+.mcrumb[hidden]{display:none}
+.mcrumb b{color:var(--ink)}
+.mcrumb .sep{color:var(--muted);margin:0 6px}
+.mcrumb .far{color:var(--critical);font-weight:600}
+.mcrumb .op{margin-left:auto}
+.mcrumb .line{display:flex;align-items:center;flex-wrap:wrap;gap:2px}
+.viewtoggle{display:inline-flex;border:1px solid var(--hair);border-radius:8px;overflow:hidden}
+.viewtoggle button{background:var(--panel2);border:none;color:var(--ink2);padding:5px 12px;
+  font-size:12px;font-weight:600}
+.viewtoggle button[aria-selected="true"]{background:var(--accent);color:#fff}
 
 /* detail slide-over */
 .detail{position:absolute;top:0;right:0;bottom:0;width:min(620px,94%);background:var(--panel);
@@ -620,6 +737,10 @@ main{flex:1;display:flex;min-height:0}
         <button class="linkbtn" id="refresh">refresh</button>
         <div class="stale" id="stale" hidden></div></div>
     </div>
+    <span class="viewtoggle" id="viewtoggle">
+      <button data-view="sonar" aria-selected="true">Sonar</button>
+      <button data-view="map" aria-selected="false">Map</button>
+    </span>
     <button class="help" id="themebtn" aria-label="Toggle day / night mode">☾</button>
     <button class="help" id="helpbtn" aria-label="What am I looking at?">?</button>
   </header>
@@ -629,6 +750,11 @@ main{flex:1;display:flex;min-height:0}
       <div class="gstat" id="gstat"></div>
       <div class="legend" id="legend"></div>
       <div class="tip" id="tip"></div>
+      <div id="mapwrap">
+        <div id="map"></div>
+        <div class="mpanel" id="mpanel"></div>
+        <div class="mcrumb" id="mcrumb" hidden></div>
+      </div>
       <div class="detail" id="detail" role="dialog" aria-label="Page detail">
         <button class="dclose" id="dclose" aria-label="Close">✕</button>
         <div class="dhead">
@@ -1172,6 +1298,160 @@ document.getElementById('introrandom').onclick=()=>{intro.hidden=true;
   const pool=done.length?done:D.files.map(f=>f.path);
   open(pool[Math.floor(Math.random()*pool.length)],'article');};
 
+/* ---- map view: the geographic ladder on real ground ----------------------
+   The sonar shows how notes LINK; this shows where they ARE. It exists because
+   a text census cannot show whether a carve-up is geographically sane — the
+   Coronados sitting in `socal-bight`, or 9 Mile and 14 Mile Bank in one zone,
+   are instantly obvious here and invisible in a list. */
+const G=D.geo||{spots:[],zones:[]};
+const ZONES=G.zones||[], PINS=G.spots||[];
+const REGION_HUE={'socal-bight':205,'baja-pacific-north':28,
+  'baja-pacific-south':340,'cortez-north':150,'cortez-south':270};
+/* Hue by region so the coarse grouping reads at a glance; lightness varies per
+   zone within a region so neighbouring zones stay distinguishable. */
+function zoneColor(z){
+  if(!z) return '#8b949e';
+  const h=REGION_HUE[z.region]??0;
+  const idx=ZONES.filter(o=>o.region===z.region).findIndex(o=>o.i===z.i);
+  const l=38+((idx*37)%34);
+  return `hsl(${h} 62% ${l}%)`;
+}
+const zoneOf=p=>p.z>=0?ZONES[p.z]:null;
+let map=null,pinLayer=null,hullLayer=null,builtMap=false;
+const shown={region:new Set(Object.keys(REGION_HUE)),hulls:true,farOnly:false};
+
+function hull(pts){                    /* monotone chain, returns [[lat,lon]] */
+  if(pts.length<3) return pts;
+  const P=pts.map(p=>[p[1],p[0]]).sort((a,b)=>a[0]-b[0]||a[1]-b[1]);
+  const cross=(o,a,b)=>(a[0]-o[0])*(b[1]-o[1])-(a[1]-o[1])*(b[0]-o[0]);
+  const lo=[],up=[];
+  for(const p of P){while(lo.length>=2&&cross(lo[lo.length-2],lo[lo.length-1],p)<=0)lo.pop();lo.push(p);}
+  for(const p of P.slice().reverse()){while(up.length>=2&&cross(up[up.length-2],up[up.length-1],p)<=0)up.pop();up.push(p);}
+  return lo.slice(0,-1).concat(up.slice(0,-1)).map(p=>[p[1],p[0]]);
+}
+
+function crumb(p){
+  const box=document.getElementById('mcrumb');
+  if(!p){box.hidden=true;return;}          // background click clears it
+  const z=zoneOf(p);
+  const jur=z?(z.jur==='us-waters'?'US waters':'Mexican waters'):'—';
+  const path=`locations/${p.slug}.md`;
+  const known=byPath.has(path);
+  box.hidden=false;
+  box.innerHTML=`<div class="line"><b>${esc(p.name)}</b>`+
+    `<span class="sep">·</span>${p.lat.toFixed(3)}°N ${Math.abs(p.lon).toFixed(3)}°W`+
+    (p.ar?`<span class="sep">·</span>in the <b>${esc(p.ar)}</b> coordinate table`:'')+
+    (p.excluded?`<span class="sep">·</span><span class="far">excluded — not a fishing spot</span>`:'')+
+    `<span class="op">${known?`<button class="linkbtn" id="mopen">open page →</button>`
+      :`<span class="mut">page not built yet</span>`}</span></div>`+
+    `<div class="line" style="margin-top:4px">${esc(jur)}<span class="sep">→</span>`+
+    `${z?esc(z.region):'—'}<span class="sep">→</span>`+
+    `<span class="mut">area: none yet</span><span class="sep">→</span>`+
+    `${z?`<b>${esc(z.name)}</b>`:'<span class="far">no zone</span>'}`+
+    (z?`<span class="sep">·</span><span class="${p.far?'far':'mut'}">${p.d} nm from zone centre</span>`:'')+
+    `</div>`;
+  const b=document.getElementById('mopen');
+  if(b)b.onclick=()=>open(path,'article',null);
+}
+
+function paintMap(){
+  if(!map)return;
+  pinLayer.clearLayers(); hullLayer.clearLayers();
+  const vis=z=>z&&shown.region.has(z.region);
+  if(shown.hulls){
+    ZONES.forEach(z=>{
+      if(!vis(z)||z.hull.length<2)return;
+      const c=zoneColor(z);
+      if(z.hull.length===2){
+        L.polyline(z.hull,{color:c,weight:2,opacity:.5}).addTo(hullLayer);return;}
+      L.polygon(hull(z.hull),{color:c,weight:1.4,opacity:.65,fillColor:c,
+        fillOpacity:.10}).addTo(hullLayer).bindTooltip(
+          `${z.name} — ${z.n} spot${z.n===1?'':'s'}`,{sticky:true});
+    });
+  }
+  let n=0;
+  PINS.forEach(p=>{
+    const z=zoneOf(p);
+    if(p.excluded){ if(!shown.region.has('socal-bight')&&!shown.region.has('baja-pacific-north'))return; }
+    else if(!vis(z))return;
+    if(shown.farOnly&&!p.far)return;
+    n++;
+    const c=p.excluded?'#8b949e':zoneColor(z);
+    const m=L.circleMarker([p.lat,p.lon],{
+      radius:p.far?6:4, color:p.far?'#f85149':c, weight:p.far?2.4:1.2,
+      fillColor:c, fillOpacity:p.excluded?.25:.85});
+    m.bindTooltip(`${p.name}${z?` — ${z.name}`:''}`,{direction:'top'});
+    m.on('click',()=>crumb(p));
+    m.addTo(pinLayer);
+  });
+  document.getElementById('mcount').textContent=`${n} of ${PINS.length} pinned`;
+}
+
+function buildPanel(){
+  const counts={};
+  PINS.forEach(p=>{const z=zoneOf(p);if(z)counts[z.region]=(counts[z.region]||0)+1;});
+  const rows=Object.keys(REGION_HUE).map(r=>
+    `<label class="mrow"><input type="checkbox" data-region="${r}" checked>`+
+    `<span class="sw" style="background:hsl(${REGION_HUE[r]} 62% 48%)"></span>`+
+    `${esc(r)}<span class="ct">${counts[r]||0}</span></label>`).join('');
+  document.getElementById('mpanel').innerHTML=
+    `<h4>Region</h4>${rows}`+
+    `<h4>Layers</h4>`+
+    `<label class="mrow"><input type="checkbox" id="mhulls" checked>zone hulls`+
+    `<span class="ct">${ZONES.length}</span></label>`+
+    `<label class="mrow"><input type="checkbox" id="mfar">needs review only`+
+    `<span class="ct">${G.outliers||0}</span></label>`+
+    `<h4>Pins</h4><div class="mut" id="mcount"></div>`+
+    `<div class="mut" style="margin-top:8px;line-height:1.45">Colour = zone, `+
+    `hue family = region. Red ring = further than ${G.maxDiam||12} nm from its `+
+    `zone centre.</div>`;
+  document.querySelectorAll('#mpanel [data-region]').forEach(cb=>cb.onchange=()=>{
+    cb.checked?shown.region.add(cb.dataset.region):shown.region.delete(cb.dataset.region);
+    paintMap();});
+  document.getElementById('mhulls').onchange=e=>{shown.hulls=e.target.checked;paintMap();};
+  document.getElementById('mfar').onchange=e=>{shown.farOnly=e.target.checked;paintMap();};
+}
+
+function initMap(){
+  if(builtMap)return; builtMap=true;
+  if(typeof L==='undefined'){
+    document.getElementById('map').innerHTML=
+      `<div class="mapfail"><div><strong>Map library missing.</strong><br>`+
+      `Leaflet is vendored into the build (scripts/vendor/) and was not `+
+      `inlined, so pins can't be drawn. Zone assignments are all in `+
+      `<code>sources/geo-census.txt</code>.</div></div>`;
+    return;
+  }
+  if(G.error){
+    document.getElementById('map').innerHTML=
+      `<div class="mapfail"><div><strong>Geo data unavailable.</strong><br>`+
+      `${esc(G.error)}</div></div>`;
+    return;
+  }
+  // Zoom control goes RIGHT: Leaflet's default top-left position sits on top
+  // of the filter panel and swallows its clicks.
+  map=L.map('map',{zoomControl:false,attributionControl:true}).setView([32.6,-117.9],8);
+  L.control.zoom({position:'topright'}).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
+    maxZoom:17,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  hullLayer=L.layerGroup().addTo(map);
+  pinLayer=L.layerGroup().addTo(map);
+  buildPanel(); paintMap();
+  map.on('click',()=>crumb(null));
+  if(PINS.length)map.fitBounds(L.latLngBounds(PINS.map(p=>[p.lat,p.lon])),{padding:[30,30]});
+}
+
+document.getElementById('viewtoggle').onclick=e=>{
+  const b=e.target.closest('button[data-view]'); if(!b)return;
+  const toMap=b.dataset.view==='map';
+  document.querySelectorAll('#viewtoggle button').forEach(x=>
+    x.setAttribute('aria-selected',String(x===b)));
+  document.getElementById('graphwrap').classList.toggle('mapmode',toMap);
+  document.getElementById('mapwrap').classList.toggle('on',toMap);
+  if(toMap){initMap(); if(map)setTimeout(()=>map.invalidateSize(),0);}
+};
+
 /* sonar — layout arrives solved; the ring language changes meaning here:
    a halo = through the rewrite (good), critical halo = escalated, dim fill =
    still waiting its turn. Pings mark the latest commits, as ever. */
@@ -1293,6 +1573,16 @@ def main() -> int:
     payload = json.dumps(snap, ensure_ascii=False).replace(
         "</script>", "<\\/script>")
     out_html = HTML.replace("__SNAP__", payload)
+    for token, path in (("__LEAFLET_CSS__", LEAFLET_CSS),
+                        ("__LEAFLET_JS__", LEAFLET_JS)):
+        try:
+            asset = path.read_text(encoding="utf-8").replace(
+                "</script>", "<\\/script>")
+        except OSError:
+            asset = ""          # map degrades to its own honest fallback
+            print(f"WARNING: {path.name} missing — map will render its "
+                  "'basemap unavailable' state", file=sys.stderr)
+        out_html = out_html.replace(token, asset)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(out_html, encoding="utf-8")
     print(f"review-watch -> {args.out}  ({len(out_html)/1_000_000:.2f} MB)")

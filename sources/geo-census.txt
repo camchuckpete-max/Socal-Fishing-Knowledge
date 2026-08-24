@@ -9,8 +9,8 @@ GEO CENSUS — every page this would create, and every stub it flags
   locations/mexican-waters.md   Mexican waters  <- covers baja-pacific-north, baja-pacific-south, cortez-north, cortez-south
 
 ## Rung 2 — region (5, closed vocabulary, unchanged)
-  locations/socal-bight.md   parent=us-waters   zones=42
-  locations/baja-pacific-north.md   parent=mexican-waters   zones=27
+  locations/socal-bight.md   parent=us-waters   zones=41
+  locations/baja-pacific-north.md   parent=mexican-waters   zones=28
   locations/baja-pacific-south.md   parent=mexican-waters   zones=3
   locations/cortez-north.md   parent=mexican-waters   zones=1
   locations/cortez-south.md   parent=mexican-waters   zones=3
@@ -26,7 +26,7 @@ GEO CENSUS — every page this would create, and every stub it flags
   locations/san-clemente-island-back-side.md socal-bight             12     30  section
   locations/point-loma.md                  socal-bight             12      6  section
   locations/punta-banda-santo-tomas.md     baja-pacific-north      12      2  section
-  locations/coronado-islands.md            socal-bight             11     17  section
+  locations/coronado-islands.md            baja-pacific-north      11     17  section
   locations/san-nicolas-island.md          socal-bight             10      2  section
   locations/dana-point.md                  socal-bight              9     15  section
   locations/santa-barbara-island.md        socal-bight              8     15  section

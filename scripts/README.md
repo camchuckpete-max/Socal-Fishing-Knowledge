@@ -21,3 +21,10 @@ This folder has an index so the root branch map can point at a `README.md` like
 every other branch. Raw file fetches (`raw.githubusercontent.com`) cannot list a
 directory, so a link to a bare folder is a 404 for any tool reading the repo that
 way.
+
+
+<!-- index:start -->
+## Index
+
+- [vendor/](vendor/README.md)
+<!-- index:end -->

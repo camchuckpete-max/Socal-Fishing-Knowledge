@@ -135,8 +135,12 @@ def bank_region(spot: dict) -> str:
 
 
 SECTION_REGION = [
+    # Islas Los Coronados are Mexican territory ~8 nm off Tijuana — the
+    # default-to-socal-bight fallback had them in US waters, which the map
+    # made obvious and which contradicted locations/coronado-islands.md.
     (re.compile(r"punta banda|santo tomas|ensenada|san quintin|colonet|"
-                r"northern baja|finger bank", re.I), "baja-pacific-north"),
+                r"northern baja|finger bank|coronado", re.I),
+     "baja-pacific-north"),
     (re.compile(r".", re.I), "socal-bight"),
 ]
 
