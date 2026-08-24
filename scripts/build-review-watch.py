@@ -345,7 +345,16 @@ def build(base: str, runs_path: str | None) -> dict:
                              "lat": round(src["lat"], 5),
                              "lon": round(src["lon"], 5), "z": -1, "d": 0,
                              "far": False})
-        geo = {"spots": pins, "zones": zmeta,
+        # what the corpus already says about each spot, keyed by slug — so a
+        # page that has not been generated yet can still answer "does the KB
+        # know anything about this place?"
+        harvest: dict[str, list] = {}
+        for row in spots:
+            cells = (row + [""] * 5)[:5]
+            harvest.setdefault(_geo.slugify(cells[0]), []).append(
+                {"note": cells[1], "section": cells[2],
+                 "claim": cells[3][:240], "cite": cells[4]})
+        geo = {"spots": pins, "zones": zmeta, "harvest": harvest,
                "outliers": sum(1 for p_ in pins if p_.get("far")),
                "maxDiam": _geo.MAX_ZONE_DIAMETER_NM, "error": ""}
     except Exception as exc:                      # never break the dashboard
@@ -1318,6 +1327,7 @@ function zoneColor(z){
 }
 const zoneOf=p=>p.z>=0?ZONES[p.z]:null;
 let map=null,pinLayer=null,hullLayer=null,builtMap=false;
+const BASE={};let baseName='ocean';
 const shown={region:new Set(Object.keys(REGION_HUE)),hulls:true,farOnly:false};
 
 function hull(pts){                    /* monotone chain, returns [[lat,lon]] */
@@ -1342,8 +1352,8 @@ function crumb(p){
     `<span class="sep">·</span>${p.lat.toFixed(3)}°N ${Math.abs(p.lon).toFixed(3)}°W`+
     (p.ar?`<span class="sep">·</span>in the <b>${esc(p.ar)}</b> coordinate table`:'')+
     (p.excluded?`<span class="sep">·</span><span class="far">excluded — not a fishing spot</span>`:'')+
-    `<span class="op">${known?`<button class="linkbtn" id="mopen">open page →</button>`
-      :`<span class="mut">page not built yet</span>`}</span></div>`+
+    `<span class="op"><button class="linkbtn" id="mopen">`+
+    `${known?'open page →':'what we know →'}</button></span></div>`+
     `<div class="line" style="margin-top:4px">${esc(jur)}<span class="sep">→</span>`+
     `${z?esc(z.region):'—'}<span class="sep">→</span>`+
     `<span class="mut">area: none yet</span><span class="sep">→</span>`+
@@ -1351,7 +1361,85 @@ function crumb(p){
     (z?`<span class="sep">·</span><span class="${p.far?'far':'mut'}">${p.d} nm from zone centre</span>`:'')+
     `</div>`;
   const b=document.getElementById('mopen');
-  if(b)b.onclick=()=>open(path,'article',null);
+  if(b)b.onclick=()=>openSpot(p);
+}
+
+/* Clicking a pin answers two questions: what IS this, and what does the KB
+   say about it. Most spot pages are not generated yet (the geo phase is
+   queued behind the gate), and "page not built yet" alone is a dead end — so
+   an unbuilt spot still opens with its position, its place in the ladder, its
+   queue status, and every corpus mention harvested for it. */
+function openSpot(p){
+  const path=`locations/${p.slug}.md`;
+  if(p.slug&&byPath.has(path)){open(path,'article',null);return;}
+  const z=zoneOf(p);
+  const zpath=z?`locations/${z.slug}.md`:null;
+  const zbuilt=zpath&&byPath.has(zpath);
+  const jur=z?(z.jur==='us-waters'?'US waters':'Mexican waters'):'—';
+  const jpath=z?`locations/${z.jur}.md`:null;
+  const wl=(D.worklist||[]).find(r=>r.n===path);
+  const hv=((D.geo&&D.geo.harvest)||{})[p.slug]||[];
+
+  const tags=[`<span class="tag">${esc(p.lat.toFixed(4))}°N ${esc(Math.abs(p.lon).toFixed(4))}°W</span>`];
+  if(z)tags.push(`<span class="tag">${esc(z.region)}</span>`);
+  if(p.ar)tags.push(`<span class="tag">AR complex</span>`);
+  if(p.excluded)tags.push(`<span class="tag st-escalated">not a fishing spot</span>`);
+  else tags.push(`<span class="tag ${wl?'st-transformed':''}">${wl?esc(wl.s):'not queued yet'}</span>`);
+
+  let html='';
+  if(p.excluded){
+    html+=`<p>Carried in the spot library but <strong>excluded from the
+      gazetteer</strong>: this is a naval security zone, not a fishing spot. Its
+      coordinates stay published in
+      <a href="${D.gh}/blob/${D.branch}/sources/spot-lists.md" target="_blank" rel="noopener">the spot library</a>;
+      no page is minted for it.</p>`;
+  }else if(p.ar){
+    html+=`<p>A numbered waypoint in the <strong>${esc(p.ar)}</strong> series.
+      Numbered reef waypoints have no fishing identity apart from each other, so
+      the series shares one page carrying a coordinate table of all of them —
+      this position appears there. That page is
+      <code>${esc(path)}</code>${byPath.has(path)?'':', not generated yet'}.</p>`;
+  }else{
+    html+=`<p><strong>This spot has no page yet.</strong> It is one of the
+      ${(D.geo.spots||[]).length} charted spots that the geo phase will write,
+      queued behind the gate. Everything the KB currently knows about it is
+      below.</p>`;
+  }
+
+  html+=`<div class="ghead">Where it sits</div><ul>`+
+    `<li>${esc(jur)}${jpath&&byPath.has(jpath)?` — <a href="#" data-go="${esc(jpath)}">page</a>`:' <span class="mut">(page pending)</span>'}</li>`+
+    `<li>Region <code>${z?esc(z.region):'—'}</code> <span class="mut">(page pending)</span></li>`+
+    `<li class="mut">Area — none yet; that rung is only built where the corpus earns it</li>`+
+    `<li>Zone <strong>${z?esc(z.name):'none'}</strong>`+
+      (zbuilt?` — <a href="#" data-go="${esc(zpath)}">page</a>`:' <span class="mut">(page pending)</span>')+
+      (z?` · <span class="${p.far?'minus':'mut'}">${p.d} nm from zone centre${p.far?' — flagged for review':''}</span>`:'')+`</li>`+
+    `</ul>`;
+
+  if(hv.length){
+    html+=`<div class="ghead">What the corpus says (${hv.length} mention${hv.length===1?'':'s'})</div>`+
+      hv.map(h=>`<button class="vrow" data-go="${esc(h.note)}">`+
+        `<span class="vt">${esc(h.claim||'(no claim recorded)')}</span>`+
+        `<span class="vm">${esc(h.note)}${h.section?` · ${esc(h.section)}`:''}${h.cite?` · ${esc(h.cite)}`:''}</span>`+
+        `</button>`).join('');
+  }else if(!p.excluded){
+    html+=`<div class="ghead">What the corpus says</div>`+
+      `<p class="mut">Nothing harvested for this spot yet. Its page will be the
+       minimum kind — coordinates, parent zone, and honest flagged gaps —
+       until a source turns up. <a href="${D.gh}/blob/${D.branch}/locations/pukey-point.md" target="_blank" rel="noopener">Pukey Point</a>
+       is the worked example.</p>`;
+  }
+
+  html+=`<div class="ghead">Position</div>`+
+    `<p class="mut">${esc(p.lat.toFixed(4))}°N ${esc(Math.abs(p.lon).toFixed(4))}°W — charted, from
+     <a href="${D.gh}/blob/${D.branch}/sources/spot-lists.md" target="_blank" rel="noopener">sources/spot-lists.md</a>.</p>`;
+
+  // an excluded entry has no slug, so it has no path to show
+  const label=p.excluded?'no page — excluded from the gazetteer'
+    :path+(byPath.has(path)?'':' · not built yet');
+  show({title:p.name,path:label,meta:tags.join(''),html:html});
+  body.querySelectorAll('[data-go]').forEach(el=>el.onclick=ev=>{
+    ev.preventDefault();
+    if(byPath.has(el.dataset.go))open(el.dataset.go,'article',null);});
 }
 
 function paintMap(){
@@ -1381,7 +1469,7 @@ function paintMap(){
       radius:p.far?6:4, color:p.far?'#f85149':c, weight:p.far?2.4:1.2,
       fillColor:c, fillOpacity:p.excluded?.25:.85});
     m.bindTooltip(`${p.name}${z?` — ${z.name}`:''}`,{direction:'top'});
-    m.on('click',()=>crumb(p));
+    m.on('click',()=>{crumb(p);openSpot(p);});
     m.addTo(pinLayer);
   });
   document.getElementById('mcount').textContent=`${n} of ${PINS.length} pinned`;
@@ -1396,6 +1484,11 @@ function buildPanel(){
     `${esc(r)}<span class="ct">${counts[r]||0}</span></label>`).join('');
   document.getElementById('mpanel').innerHTML=
     `<h4>Region</h4>${rows}`+
+    `<h4>Basemap</h4>`+
+    `<label class="mrow"><input type="radio" name="mbase" value="ocean" checked>`+
+    `ocean <span class="mut">(bathymetry)</span></label>`+
+    `<label class="mrow"><input type="radio" name="mbase" value="streets">`+
+    `streets <span class="mut">(ports, coast)</span></label>`+
     `<h4>Layers</h4>`+
     `<label class="mrow"><input type="checkbox" id="mhulls" checked>zone hulls`+
     `<span class="ct">${ZONES.length}</span></label>`+
@@ -1408,6 +1501,12 @@ function buildPanel(){
   document.querySelectorAll('#mpanel [data-region]').forEach(cb=>cb.onchange=()=>{
     cb.checked?shown.region.add(cb.dataset.region):shown.region.delete(cb.dataset.region);
     paintMap();});
+  document.querySelectorAll('#mpanel input[name="mbase"]').forEach(r=>r.onchange=()=>{
+    if(!r.checked)return;
+    if(BASE[baseName])map.removeLayer(BASE[baseName]);
+    baseName=r.value; BASE[baseName].addTo(map);});
+    // Pins and hulls need no re-stacking: Leaflet draws vectors in the overlay
+    // pane, which always sits above the tile pane.
   document.getElementById('mhulls').onchange=e=>{shown.hulls=e.target.checked;paintMap();};
   document.getElementById('mfar').onchange=e=>{shown.farOnly=e.target.checked;paintMap();};
 }
@@ -1430,11 +1529,21 @@ function initMap(){
   }
   // Zoom control goes RIGHT: Leaflet's default top-left position sits on top
   // of the filter panel and swallows its clicks.
+  // Zoom control goes RIGHT: Leaflet's default top-left position sits on top
+  // of the filter panel and swallows its clicks.
   map=L.map('map',{zoomControl:false,attributionControl:true}).setView([32.6,-117.9],8);
   L.control.zoom({position:'topright'}).addTo(map);
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
-    maxZoom:17,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }).addTo(map);
+  // Two basemaps, because most of these spots are offshore. Standard OSM is
+  // near-empty out there — a tile over the banks is ~1.6 KB of blank water —
+  // while the Esri ocean base carries BATHYMETRY, which is the thing that
+  // explains why a high spot is a spot at all. Ocean is the default; streets
+  // are there for ports, launches and the coastal zones.
+  BASE.ocean=L.tileLayer(
+    'https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
+    {maxZoom:13,attribution:'Esri, GEBCO, NOAA, National Geographic, and other contributors'});
+  BASE.streets=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {maxZoom:17,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+  BASE.ocean.addTo(map);
   hullLayer=L.layerGroup().addTo(map);
   pinLayer=L.layerGroup().addTo(map);
   buildPanel(); paintMap();
