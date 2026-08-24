@@ -91,3 +91,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+# kick: 2026-08-24 builder fix on the review branch
