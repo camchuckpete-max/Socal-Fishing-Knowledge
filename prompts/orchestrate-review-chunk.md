@@ -15,7 +15,13 @@ all git state changes go through the sanctioned wrapper
    JSON unit carrying a `"phase"` field. Zero lines → print "worklist
    drained" and stop.
 2. For each unit, in order — a strict per-unit sequence:
-   a. `bash scripts/batch2/reset-tree.sh` (clean slate; mandatory)
+   a. `bash scripts/batch2/reset-tree.sh` (clean slate; mandatory). Then
+      `ls STOP` — if a file named `STOP` exists at the repo root, stop the
+      loop immediately WITHOUT touching any worklist row and report
+      "stopped: STOP file". (Cameron's pause commit reaches your tree when
+      a unit's push rebases over it; this check makes a mid-chunk pause
+      bite at the next unit boundary instead of the chunk's end — each
+      skipped unit is real Opus spend saved.)
    b. Spawn the WORKER subagent (Task tool, fresh context) with exactly the
       prompt for its phase:
       - `transform`: "Read prompts/review-note.md and follow it exactly.
