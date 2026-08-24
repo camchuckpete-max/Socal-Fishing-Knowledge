@@ -377,6 +377,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
+- [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

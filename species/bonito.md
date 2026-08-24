@@ -1,151 +1,265 @@
 ---
 type: species
 tags: [bonito, nearshore, pelagic, schooling, boils, measure-of-life, baja]
-sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY, oXunQKSbc2g]
+sources: [Z3rZqy2Pi8E, OYOda6T3f-8, Blh2BA-7Ono, CMQkHQMxbXM, S2L3KLSQ6Is, poqjnb1r1zk, H-vIGWPIPVc, yuXr3IJ8ybg, qri15R3caYE, YUdbrIm9vrE, 0dIwWiOc1NY, oXunQKSbc2g, 5p6gu14ZC4w, YAKOv9bXKO0, PrdPJy26H8c, RfiC8sfIWTk, yGXSrUauo2w, UfuiWFVvz2E, 9tIp4n7q850, -bw1KDfDjv4, MUpvP-Yl2R0, nsUdT-zXI8s, ecJPMTCi-gw]
 confidence: medium
-regions: [socal-bight, baja-pacific-north]
-waters: [nearshore-coast, island, bay-harbor]
+regions: [socal-bight, baja-pacific-north, baja-pacific-south]
+waters: [nearshore-coast, island, bank, bay-harbor, open-ocean]
+layout: v2
+scientific_name: unknown
+season_peak: [may, jun, jul, aug, sep, oct, nov, dec]
+sst_band_f: unknown
+depth_band: surface to upper column
+gear_classes: [light-casting, jig-stick, bass, flyline, slow-pitch]
+sonar_depth: unknown
 ---
 
 # Pacific Bonito
 
-A **schooling nearshore pelagic** that runs in fast, hard-charging packs on the
-bait, boiling on the surface and firing up everything around it. In the SoCal
-corpus bonito are best understood as a **measure of life** — where the bonito are
-boiling, the water is alive, and a bonito school will often bring up or signal
-other predators. They're one of the "three B's" (bass, barracuda, bonito) of the
-nearshore mixed bag ([calico bass](calico-bass.md), [barracuda](barracuda.md)).
-Confidence is medium: the corpus records bonito as a recurring report component
-rather than a dedicated technique study.
+Bonito are the fast, small-grade member of the SoCal **"three B's"** — bass,
+barracuda, bonito — taken in packs that boil outside the kelp and over the
+offshore banks alongside [calico bass](calico-bass.md) and
+[barracuda](barracuda.md). SoCal grade runs **two to three pounds typical,
+six or seven pounds on a good San Clemente Island stop** (`Z3rZqy2Pi8E`) and
+**to about 8 lb on a 14 Mile Bank jig stop** (`-bw1KDfDjv4`). They are
+quicker to a chrome jig than yellowtail and get there first (`YAKOv9bXKO0`),
+which is why the same fish is the easiest bite on a boil and the tax on a
+yellowtail bait drift. A boiling bonito school also grades the zone: at San
+Clemente Island a bonita boil was called "a good sign" and yellowtail joined
+the mixed bite shortly after (`yuXr3IJ8ybg`).
 
 ## Where & when
 
-- **Where:** the **nearshore kelp edges, structure, and open water just outside
-  the kelp** along the coast and around the islands — they'll boil **up outside
-  the kelp** where you can pull off a structure spot and cast into the foam
-  ([bass structure](../locations/bass-structure.md), [kelp paddies](../conditions/kelp-paddies.md)).
-- **When:** a broad warm-season presence — bonito turn up across the reports from
-  the [warming transition through the fall fragmentation regime](../conditions/water-regimes.md)
-  (**spring through fall** — [May](../seasonal/may.md),
-  [August](../seasonal/august.md), [October](../seasonal/october.md),
-  [November–December](../seasonal/november-december.md)). Sportboats "doing good
-  on the bonito" is a common line in the fall fragmentation (Oct–Nov) island
-  reports; they persist later into the season than many nearshore species.
+Bonito hold on **nearshore kelp edges and structure and the open water just
+outside the kelp** along the coast and around the islands
+([bass structure](../locations/bass-structure.md)), over **offshore banks**,
+and in open-water schools with no bottom relationship, alongside the
+[kelp-paddy](../conditions/kelp-paddies.md) fish (`RfiC8sfIWTk`).
+
+Dated SoCal appearances run **May through December**: Catalina in late May
+(`S2L3KLSQ6Is`); San Clemente Island in June (`yuXr3IJ8ybg`, `ecJPMTCi-gw`)
+and July (`Blh2BA-7Ono`), and Cortez Bank on a June trip (`UfuiWFVvz2E`);
+Dana Point in early July (`poqjnb1r1zk`); the Newport bait grounds in early
+August (`CMQkHQMxbXM`); the 14 Mile Bank on a summer trip (`-bw1KDfDjv4`);
+the Ventura coast and the islands in October
+(`OYOda6T3f-8`, `5p6gu14ZC4w`), Cortez Bank in October (`oXunQKSbc2g`) and
+San Clemente Island in late October (`H-vIGWPIPVc`); San Clemente Island and
+Catalina in November (`Z3rZqy2Pi8E`, `MUpvP-Yl2R0`); San Clemente Island in
+December (`nsUdT-zXI8s`). Report-sourced months are the report week; an
+on-the-water upload that states no trip date is dated by its upload and can
+lag the trip by weeks. That spans
+the warming transition through fall fragmentation and into winter in the
+[water regimes](../conditions/water-regimes.md) — [May](../seasonal/may.md),
+[August](../seasonal/august.md), [October](../seasonal/october.md),
+[November–December](../seasonal/november-december.md).
+
+**Presence is not the bite, and late fall inverts the ratio.** Inside
+Catalina in late October the water temperature still supports yellowtail, but
+"you're mostly against Bonita, bass and Rockfish this time of year"
+(`5p6gu14ZC4w`) — bonito are what the zone gives up when the target species
+will not. On the San Clemente Island front side the yellowtail window is the
+morning and the day then "becomes a pick-o day" of bass, barracuda and bonito
+(`Blh2BA-7Ono`), so bonito hours and yellowtail hours are not the same hours.
+In October sport boats are "doing good on the Bonita" (`OYOda6T3f-8`).
+
+**Water.** Surface temperature read **66–67 °F** at the 14 Mile Bank on the
+day a jig stop produced bonito to about 8 lb (`-bw1KDfDjv4`).
+⚠ Flagged gap — no corpus source: the temperature band that gates a bonito
+bite.
+
+**Baja Pacific.** Off Ensenada bonito are named with barracuda and yellowtail
+as the standing inshore mix (`0dIwWiOc1NY`). At Cedros Island yellowtail run
+mixed with bonito on the troll (`9tIp4n7q850`), and bonito come incidentally
+on the yellowfin troll **20–30 mi** offshore (`YUdbrIm9vrE`). At La Bocana
+bonito, some of them big, are part of the inshore mixed bag with yellowtail,
+sand bass, barracuda and calico bass (`qri15R3caYE`).
+
+Zone-by-zone trip detail is in the [zone guides](#zone-guides); trip reports
+are in the [evidence file](evidence/bonito.md).
+
+## Presence & forage
+
+- **They sit above the yellowtail in the column.** The
+  [sliding-sinker](../techniques/sliding-sinker.md) rig is fished for
+  yellowtail specifically to carry a live bait **below surface bonito** and in
+  front of the [yellowtail](yellowtail.md) quicker (`yGXSrUauo2w`) — where both
+  are on a spot,
+  the bonito are the shallower school.
+- **They win races for flash.** Bonito and barracuda are quicker than
+  yellowtail, so a chrome jig fished where all three are present is taken by
+  the bonito or the barracuda first (`YAKOv9bXKO0`).
+- **They mix into the coastal bait schools.** A Newport bait-making stop
+  trying for mackerel produced sardines, Spanish mackerel and small bonito
+  instead (`CMQkHQMxbXM`) — small bonito hold on the same coastal bait
+  grounds as the bait.
+- **A bonito will cut a bait instead of swallowing it.** A flylined sardine
+  at San Clemente Island came back as a head (`ecJPMTCi-gw`); the teeth
+  question that raises is in [Doctrine & conflicts](#doctrine--conflicts).
+- ⚠ Flagged gap — no corpus source: the natural forage species bonito eat in
+  SoCal, and whether kelp-edge and bank residency is bait-driven or
+  structure-driven.
+
+## Spawning
+
+⚠ Flagged gap — no corpus source: when, where or how Pacific bonito spawn,
+and what spawning does to the bite.
+
+## Feeding triggers
+
+- **The boil is the trigger you can see, and it is what you act on.** Bonito
+  come up outside the kelp and boil and jump, and the answer is to pull off
+  the structure spot and cast into the foam (`Z3rZqy2Pi8E`, `UfuiWFVvz2E`).
+  ⚠ Flagged gap — no corpus source: mechanism — what puts a school up, and how
+  long a boil holds.
+- **A trolled hookup marks a school worth casting to.** Trolling small
+  feathers, the working instruction is to cast a lure the moment you get bit
+  (`poqjnb1r1zk`): the troll finds the school, the cast fishes it.
+- ⚠ Flagged gap — no corpus source: light window, tide or slack, current, or
+  moon-phase gating for bonito.
 
 ## Finding them (sign & sonar)
 
-- **Sign — boils and birds:** the primary tell is a **surface boil** — bonito
-  "coming up outside the kelp, boiling around, jumping." Working birds over a
-  moving bait line lead you to them ([bird reading](../conditions/bird-reading.md)).
-  A boil that fires is the classic **measure of life**: it tells you the zone is
-  productive even when you were there for bass ([search and glassing](../planning/search-and-glassing.md)).
-- **Sonar signature:** bonito mark as **tight, active bait balls with fish
-  worked up on them, higher in the column** and mobile — broken, harried bait
-  (predators on it) rather than a solid unbroken wall (no predators). Grade the
-  mark before committing ([electronics and sounder](../planning/electronics-and-sounder.md)).
+- **Sign — boils and birds.** The primary tell is a surface
+  [boil](../planning/search-and-glassing.md#surface-sign-vocabulary): bonito
+  "coming up outside of the kelp… boiling around, jumping" (`Z3rZqy2Pi8E`),
+  and on the banks the deck call on a school coming up is "boiling up out
+  there, so throw a surface iron in there" (`UfuiWFVvz2E`). Working birds over
+  a moving bait line lead you to them
+  ([bird reading](../conditions/bird-reading.md),
+  [search and glassing](../planning/search-and-glassing.md)).
+- **A bonito boil grades the zone.** At San Clemente Island a bonita school
+  boiling around the boat was called "a good sign," and yellowtail joined the
+  mixed bite after (`yuXr3IJ8ybg`). ⚠ Fact-check (single-source):
+  one trip is the only record of yellowtail following a bonito boil, and no
+  mechanism is stated.
+- **Sonar signature.** Bonito mark as tight, active bait balls with fish
+  worked up on them, higher in the column and mobile — broken, harried bait
+  rather than a solid unbroken wall. Grade the mark before committing
+  ([electronics and sounder](../planning/electronics-and-sounder.md)).
+  ⚠ Fact-check (unverifiable): no corpus source describes a bonito sonar
+  return; this read is inferred from the general worked-bait picture.
+- ⚠ Flagged gap — no corpus source: species-specific sonar depths for bonito.
 
 ## Situations → techniques
 
-| Situation (conditions) | Do this | Gear class | Notes |
+| Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Bonito boiling on the surface outside the kelp | **Surface iron / small chrome jigs** ([surface iron](../techniques/surface-iron.md)) — cast into the foam, steady-to-fast retrieve | jig-stick / light casting class, [iron jigs](../lures/iron-jigs.md), [gear classes](../tackle/gear-classes.md) | Documented catches came on small chrome jigs and small diving hard baits (DD-class); downsize to the bait |
-| Bonito mixed with bass on a structure edge | **Flyline** a small live bait ([flyline](../techniques/flyline.md)) | flyline class | The same drift that produces calico turns up bonito |
-| Small bait, picky surface fish | **Small jigs / spinnerbait-style flash** matched to the bait — **⚠ downsized-jig presentation is a flagged stub** (no corpus source; nearest doctrine is the downsize rule in [foamer casting](../techniques/foamer-casting.md)) | light casting class ([gear classes](../tackle/gear-classes.md)) | Match the small anchovy; keep it moving through the school |
-| Bonito as a life indicator while targeting gamefish | Note the boil, keep it in the plan — a bonito bite marks living water | — | Their presence can precede or signal a better bite in the zone |
+| Fish **boiling on the surface** outside the kelp or over a bank | 1) [Surface iron](../techniques/surface-iron.md) 2) small chrome casting jigs / DD100-class small diving hard baits ([iron jigs](../lures/iron-jigs.md)) | [Jig-stick class](../tackle/gear-classes.md); [light casting class](../tackle/gear-classes.md); [bass class](../tackle/gear-classes.md) handles them | At San Clemente Island a boil outside the kelp gave two-to-three-pound fish, best six or seven pounds, on DD100s and small chrome jigs fished on bass gear (`Z3rZqy2Pi8E`); at Cortez Bank the deck call on a boil is a surface iron (`UfuiWFVvz2E`). Chrome is the colour bonito reach first (`YAKOv9bXKO0`) [a] |
+| **No boil, fish scattered**, small boat | [Troll](../techniques/trolling.md) small feathers in a short daisy chain at **5.5 kt**, then cast the moment you get bit | Light troll / [light casting class](../tackle/gear-classes.md); [tuna feathers & skirts](../lures/tuna-feathers-and-skirts.md) | A small sardine-profile diving hard bait cast and twitched behind the boat draws bites alongside the trolled feathers or on its own (`poqjnb1r1zk`). ⚠ misplaced-content: the daisy-chain rigging and 5.5 kt speed are execution parameters that belong in [trolling](../techniques/trolling.md), which carries no bonito entry yet |
+| **Small bait, picky surface fish** | Downsize the whole presentation — Colt-Sniper-class stick baits and **80 g** [flat-fall](../techniques/flat-fall-jigging.md) jigs | [Light casting class](../tackle/gear-classes.md); [tuna poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md) | One stick bait in this class took seven or eight bonito in a day, and the same box covers skipjack and schoolie yellowfin — both fished as bonito, downsized (`PrdPJy26H8c`). The general match-the-bait downsize rule is in [foamer casting](../techniques/foamer-casting.md) |
+| **Bonito mixed with bass or yellowtail** on a structure edge, live bait aboard | [Flyline](../techniques/flyline.md) a small live bait | Flyline class, **25–30 lb**, **2/0 live-bait J hook** (a circle also works on bonito) (`RfiC8sfIWTk`) | The same drift that produces calico turns up bonito (`Blh2BA-7Ono`); expect chopped baits (`ecJPMTCi-gw`) [b] |
+| **Bonito taxing a yellowtail bait bite** | 1) [Sliding sinker](../techniques/sliding-sinker.md) to carry the bait under them 2) stop throwing chrome | 30 lb bait class ([gear classes](../tackle/gear-classes.md)) | The sinker puts the bait below the surface bonito and in front of the yellowtail quicker (`yGXSrUauo2w`); chrome is what the bonito reach first (`YAKOv9bXKO0`) |
+| **Deeper stop, bonito under the surface layer** | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) | [SPJ / slow-pitch class](../tackle/gear-classes.md) | Two bonito, one called "a big bonito," came on slow-pitch jigs at a deep rockfish and lingcod stop off Ensenada (`0dIwWiOc1NY`) |
+| **Fly tackle** from a guide skiff, coast or island | Fly gear takes bonito alongside calico bass and ocean whitefish (`OYOda6T3f-8`) | — | ⚠ Flagged gap — no corpus source: rod/line weight, leader or fly pattern for bonito, and no fly-fishing technique note exists to link |
+| **Bonito as a life indicator** while working a target species | Note the boil, keep the zone in the plan, keep fishing the target program | — | A bonita boil at San Clemente Island preceded yellowtail joining the mixed bite (`yuXr3IJ8ybg`); at Cortez Bank giant bonito were worked as bycatch alongside a yellowtail yo-yo and surface-iron bite (`oXunQKSbc2g`) [c] |
+
+[a] Chrome cuts both ways: it is the colour to throw at bonito and the colour
+to leave in the bag when yellowtail are the target (`YAKOv9bXKO0`) — see
+[surface iron — colour](../techniques/surface-iron-color.md).
+[b] Hook style is not contested for bonito — J hook or circle both work; the
+2/0 J hook is chosen because it holds a yellowtail's mouth better on the same
+drift (`RfiC8sfIWTk`).
+[c] Presence is not a program: outside the boil, bonito arrive as bycatch on
+trips run for yellowtail, bass or tuna (`Blh2BA-7Ono`, `oXunQKSbc2g`,
+`YUdbrIm9vrE`).
 
 ## Gear summary (class terms)
 
-- **Rod/reel:** the **inshore jig-stick and light casting classes** — a jig-stick
-  for surface iron, a light casting/flyline setup for small jigs and bait. Bonito
-  are small but hard-pulling, so a bass-class outfit handles them. See
-  [gear classes](../tackle/gear-classes.md).
-- **Terminal/lures:** small surface [iron jigs](../lures/iron-jigs.md), small
-  chrome casting jigs, and small diving hard baits; light fluoro leader. No wire
-  needed — bonito lack the barracuda's cutting teeth.
+- **Boil iron — [jig-stick class](../tackle/gear-classes.md)**, plus the
+  **light casting class**, which [gear classes](../tackle/gear-classes.md)
+  defines as the barracuda/bonito small-jig setup.
+- **[Bass class](../tackle/gear-classes.md) covers them.** Bonito of two to
+  three pounds, best six or seven, were taken on bass gear at San Clemente
+  Island (`Z3rZqy2Pi8E`); they are small but hard-pulling.
+- **Live bait — flyline class, 25–30 lb**, on a 2/0 live-bait J hook or a
+  circle (`RfiC8sfIWTk`) — [flyline](../techniques/flyline.md),
+  [hooks](../tackle/hooks.md).
+- **Deeper stops — [SPJ / slow-pitch class](../tackle/gear-classes.md)**
+  (`0dIwWiOc1NY`).
+- **Lures:** small surface [iron jigs](../lures/iron-jigs.md), small chrome
+  casting jigs and DD100-class small diving hard baits (`Z3rZqy2Pi8E`), small
+  sardine-profile divers twitched behind the boat and small feathers in a
+  short daisy chain for the troll (`poqjnb1r1zk`), Colt-Sniper-class stick
+  baits and 80 g flat-falls (`PrdPJy26H8c`).
+- **Terminal:** light fluoro leader, no wire — the teeth question is in
+  [Doctrine & conflicts](#doctrine--conflicts).
+
+## Zone guides
+
+No bonito zone guide exists yet; corpus material for each zone is parked in
+the [evidence file](evidence/bonito.md) under "Zone material".
+
+- **SoCal coastal kelp (Dana Point, Ventura coast)** — ⚠ Flagged stub — no
+  zone guide yet.
+- **Catalina Island** — ⚠ Flagged stub — no zone guide yet.
+- **San Clemente Island** — ⚠ Flagged stub — no zone guide yet.
+- **Offshore banks (Cortez Bank, 14 Mile Bank, Farnsworth Bank)** —
+  ⚠ Flagged stub — no zone guide yet.
+- **Ensenada** — ⚠ Flagged stub — no zone guide yet.
+- **Cedros Island** — ⚠ Flagged stub — no zone guide yet.
+- **La Bocana** — ⚠ Flagged stub — no zone guide yet.
+
+## Regulations
+
+- **California / CDFW — Farnsworth Bank (Catalina) marine closure:** inside
+  the closure area **only yellowtail and bonito may be kept** — everything
+  else goes back (`5p6gu14ZC4w`). As of 2022-10; **verify current MPA rules
+  with CDFW before fishing.** Registered in
+  [regulatory claims](../sources/regulatory-claims.md).
+- ⚠ Flagged gap — no corpus source: California (CDFW) bag limit or size gauge
+  for Pacific bonito. As of 2026-08 no figure is recorded — **verify the
+  current bag and size limits with CDFW before fishing.** Registered in
+  [regulatory claims](../sources/regulatory-claims.md).
+- ⚠ Flagged gap — no corpus source: Mexican (CONAPESCA) size or bag limits for
+  bonito in Baja waters. Verify with the issuing agency before a trip.
 
 ## Doctrine & conflicts
 
-- **Doctrine (medium):** read bonito as a **measure of life** and a mixed-bag
-  target — where they boil, the water is working; cast small flashy iron/jigs into
-  the foam and note the zone as productive. The corpus treats bonito as a
-  recurring report component rather than a dedicated program, so the technique
-  detail here is inferred from those mentions and held at medium confidence
-  pending a dedicated source.
-- **Observed** (Your Saltwater Guide, `poqjnb1r1zk`, 2019-07-02, Dana Point —
-  presenter not named on camera; the channel's registered voice is
-  `dave-hansen`, a SoCal sportboat/charter captain, per
-  `sources/source-registry.md`, so attribution is likely but unconfirmed for
-  this specific clip): a 5:45 am start described as "a pretty slow morning"
-  fishing south of Dana Point Harbor, then working north of the harbor.
-  Small feathers rigged as a small daisy-chain were trolled at roughly
-  **5.5 kt**; a small sardine-profile hard bait (Rapala-class diver) cast and
-  twitched behind the boat also drew bites, either alongside the trolled
-  feathers or on its own.
-- **Observed** (StokedOnFishing, 2017-06-09, Pyramid Head, San Clemente Island
-  — `yuXr3IJ8ybg`, sponsor-heavy Okuma gear-demo episode; unregistered
-  channel — medium confidence): on a live-squid trip, a bonita school boiling
-  up around the boat was called on camera as "a good sign," and the crew's
-  read proved out —
-  "yellows will roll in right after that" — with yellowtail joining the mixed
-  bite shortly after the bonita showed. On camera the crew called bonita
-  mid-fight by repeated side-to-side ("right and left") runs, versus a "head
-  nod" for yellowtail — but the same footage undercuts this as a clean tell
-  (see the [yellowtail](yellowtail.md) San Clemente Island entry for the same
-  trip, where "head nod" is also used for a calico bass); recorded as crew
-  chatter, not a reliable species-identification method. Reinforces, rather
-  than adds to, the measure-of-life doctrine above.
-- **Observed** (StokedOnFishing, presenter Shay, `H-vIGWPIPVc`, 2019-10-30, San
-  Clemente Island — unregistered channel, `medium`): a bonito bled promptly and
-  put on ice, then eaten sashimi-style, was judged very close to yellowfin
-  tuna in taste and texture — firmer/leaner on one side-by-side sample,
-  softer and fattier on the other, but "nobody would know" it wasn't tuna. The
-  presenter, who'd previously treated bonito as a fun-to-catch "trash fish,"
-  said the bleed-and-ice handling was what made the difference. Table-quality
-  observation, not technique doctrine — kept beside the measure-of-life
-  doctrine above rather than folded into it.
-- **Observed (Baja, region label)** (StokedOnFishing, 2018-02-01 upload, La
-  Bocana, Baja California Sur, Pacific side — `qri15R3caYE`, "Stoked On La
-  Bocana," part 1): bonito ("Bonita," some described as big) was named on
-  camera as part of the trip's mixed bag alongside yellowtail, sand bass,
-  barracuda, and calico bass (see the [calico bass](calico-bass.md) La Bocana
-  entry) — no technique, weight, or location detail given beyond the catch
-  being reported. Unregistered channel — medium confidence.
-- **Observed (Baja, region label)** (StokedOnFishing, October trip (year not
-  stated on camera), 2024-03-20 upload, offshore of Cedros Island, Baja —
-  `YUdbrIm9vrE`, "Cedros Island Goes Off"; Cedros Outdoor Adventures charter;
-  unregistered channel — medium confidence): a bonita caught incidentally
-  while trolling for yellowfin tuna, roughly 20–30 mi offshore, prompted crew
-  comment on camera that bonito "can bite through the light line" with their
-  teeth. **Conflict, not reconciled:** this sits directly beside this note's
-  standing gear doctrine above that bonito "lack the barracuda's cutting
-  teeth" and need no wire — a crew observation on one fish, not treated as
-  overturning the stated no-wire doctrine.
-- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
-  2026-02-17 upload, `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada,
-  Mexico"; unregistered channel — medium confidence): at least three bonito
-  were caught incidentally on this trip — a small one on the
-  mackerel-slow-troll/cast-jig yellowtail stop (see the
-  [trolling](../techniques/trolling.md#ensenada-baja--slow-trolled-mackerel-plus-cast-jigs-for-yellowtail-on-a-reefpoint)
-  Ensenada entry; the crew called it good ceviche material on camera, though
-  the ceviche eaten later that day was made from rockfish, not this fish),
-  and two more ("that is a big bonito," then "another really nice bonita")
-  taken on slow-pitch jigs at the deeper rockfish/lingcod stop (see the
-  [rockfish & lingcod](rockfish-lingcod.md) Ensenada entry). On camera the
-  crew again pushed back on treating bonito as a "trash fish," repeating the
-  bleed-and-ice-immediately handling already logged above as the difference
-  between poor and good table quality — a second, independent data point for
-  that same doctrine, this time from Baja rather than SoCal.
-- **Observed** (StokedOnFishing, 2019-12-11 upload, October 2019 trip —
-  `oXunQKSbc2g`, "Limited Two Day Fishing Charter on the El Dorado," a
-  limited-load 2-day charter aboard the El Dorado out of Long Beach, Cortez
-  Bank, SoCal; unregistered channel — medium confidence): large ("giant")
-  bonito were worked heavily as bycatch alongside a
-  [yellowtail](yellowtail.md#where--when) yo-yo iron/surface iron bite, with
-  on-camera commentary that the bonito were "big and mean" and fighting hard
-  "pound for pound" against the yellowtail (see the
-  [Cortez Bank](yellowtail.md#where--when) entry) — an offshore-bank data
-  point (rather than this note's usual nearshore-kelp-edge framing) for the
-  measure-of-life doctrine above.
+Section order below is not a ranking.
+
+- **Measure of life or tax — the choice turns on whether a target species is
+  already biting.** With nothing else going, the boil is the day: pull off the
+  structure spot and cast into the foam (`Z3rZqy2Pi8E`, `UfuiWFVvz2E`). With a
+  yellowtail bait bite running, bonito are what you fish *through* — carry the
+  bait under them on a sinker and drop chrome from the rotation
+  (`yGXSrUauo2w`, `YAKOv9bXKO0`).
+- **Wire or no wire — the choice turns on whether the teeth are costing
+  terminal gear or only costing baits.** The standing gear doctrine for bonito
+  is light fluoro and no wire: bonito lack the barracuda's cutting teeth.
+  ⚠ Fact-check (contradicted-by-source): that no-wire doctrine carries no
+  corpus cite, and the two counter-statements below are the only teeth
+  evidence on record. Against it, a Cedros crew stated that bonito "can bite
+  through the light line" with their teeth (`YUdbrIm9vrE`), and a flylined
+  sardine at San Clemente Island came back as a head (`ecJPMTCi-gw`). Both
+  counter-cases are chopped baits and bite-offs on light line rather than lost
+  jigs, which makes them a leader-class question sitting beside the no-wire
+  doctrine, not a replacement for it.
+- **Fight-feel identification — the two tells disagree.** One read calls
+  bonito mid-fight by repeated side-to-side ("right and left") runs against a
+  "head nod" for yellowtail (`yuXr3IJ8ybg`) — the same footage then uses "head
+  nod" for a calico bass, so the run-pattern tell is not clean. The other read
+  is a drag test: "typically the Bonita they don't really take a lot of drag,"
+  so a fish pulling drag at the start is probably not one (`9tIp4n7q850`). The
+  choice turns on what is measurable at the rail — line leaving the reel
+  against a set drag, versus the direction of a run.
+
+## Landing & handling
+
+- **Bleed at the rail, then ice immediately.** Cut or pull the gill to open
+  the bloodline: it bleeds the fish out and kills it faster (`H-vIGWPIPVc`,
+  `UfuiWFVvz2E`). Handled that way, bonito was judged indistinguishable from
+  yellowfin as sashimi — "nobody would know this is Bonita" (`H-vIGWPIPVc`) —
+  and a Baja crew makes the same bleed-and-ice point against the "trash fish"
+  framing (`0dIwWiOc1NY`).
+- **Take the bloodline out of the fillet.** Left in, it flavours the meat and
+  makes it "taste really really fishy" (`H-vIGWPIPVc`). General method in
+  [fish care](../fish-care/README.md).
+- ⚠ Flagged gap — no corpus source: chilling parameters (slurry mix, time to
+  chill) or ikejime for bonito.
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -153,9 +267,11 @@ rather than a dedicated technique study.
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)

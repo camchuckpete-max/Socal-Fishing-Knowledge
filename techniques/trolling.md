@@ -1086,6 +1086,7 @@ covered above, not a new tool.
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [Evidence — Pacific Bonito](../species/evidence/bonito.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)

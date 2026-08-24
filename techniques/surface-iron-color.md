@@ -262,6 +262,7 @@ against alternatives.
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)

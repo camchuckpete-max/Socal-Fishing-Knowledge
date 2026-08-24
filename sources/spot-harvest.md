@@ -95,4 +95,16 @@ harvested.
 | San Miguel Island | species/bluefin-tuna.md | evidence — range & stock | a giant school of 100–300 lb tuna seen jumping just south of the island in 2019 | `fgTmUq78ofQ` |
 | Cedros Island | species/bluefin-tuna.md | evidence — range & stock | southern end of the claimed SoCal/northern-Baja resident range | `fgTmUq78ofQ` |
 | San Benito Island | species/bluefin-tuna.md | evidence — other SoCal zones and offshore | closing leg of an 8-day charter whose bluefin build was 40 lb mono to a 4 ft 40 lb fluoro top shot on sardine | `ilINTeknKB4` |
+| Catalina Island | species/bonito.md | Where & when | late October the water still supports yellowtail but the zone is "mostly against Bonita, bass and Rockfish" | `5p6gu14ZC4w` |
+| Farnsworth Bank | species/bonito.md | Regulations | marine closure keep-list limited to yellowtail and bonito; good fall yo-yo fishing | `5p6gu14ZC4w` |
+| San Clemente Island (east end back side) | species/bonito.md | Where & when / Situations → techniques | November boil outside the kelp gave 2–3 lb bonito, best 6–7 lb, on DD100s and small chrome jigs on bass gear | `Z3rZqy2Pi8E` |
+| San Clemente Island (front side) | species/bonito.md | Where & when | the morning yellowtail window closes into a "pick-o day" of bass, barracuda and bonito; a lot of bonito on a December overnight | `Blh2BA-7Ono`, `nsUdT-zXI8s` |
+| Dana Point Harbor | species/bonito.md | Situations → techniques | skiff trolled small feathers in a short daisy chain at 5.5 kt south then north of the harbour, casting on the troll bite | `poqjnb1r1zk` |
+| 14 Mile Bank | species/bonito.md | Where & when | summer jig stop with bonito to about 8 lb, surface temperature 66–67 °F, mixed with yellowtail | `-bw1KDfDjv4` |
+| Cortez Bank | species/bonito.md | Finding them / Situations → techniques | boil answered on deck with a surface iron; "giant" bonito worked as bycatch alongside a yellowtail yo-yo/surface-iron bite | `UfuiWFVvz2E`, `oXunQKSbc2g` |
+| Newport (bait grounds outside the harbour) | species/bonito.md | Presence & forage | a mackerel-making stop produced sardines, Spanish mackerel and small bonito instead — bait hard to catch | `CMQkHQMxbXM` |
+| Ventura (coast) | species/bonito.md | Where & when | October coastal trip took limits of bass plus some bonito and rockfish | `OYOda6T3f-8` |
+| Ensenada | species/bonito.md | Where & when / Situations → techniques | bonito named with barracuda and yellowtail as the standing inshore mix; two taken on slow-pitch jigs at a deep rockfish/lingcod stop | `0dIwWiOc1NY` |
+| Cedros Island | species/bonito.md | Where & when | yellowtail run mixed with bonito on the troll; bonito incidental on the yellowfin troll 20–30 mi offshore | `9tIp4n7q850`, `YUdbrIm9vrE` |
+| La Bocana | species/bonito.md | Where & when | bonito, some big, part of the inshore mixed bag with yellowtail, sand bass, barracuda and calico bass | `qri15R3caYE` |
 <!-- review:harvest:end -->

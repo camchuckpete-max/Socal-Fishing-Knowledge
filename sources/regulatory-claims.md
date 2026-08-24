@@ -52,8 +52,9 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Rockfish bag limit plus a separate whitefish allowance | 10 rockfish/day + 10 whitefish/day stacked on top | 2020-03; live-seminar recollection, verify current before relying on it | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 | Depth-based rockfish closure line (Rockfish Conservation Area boundary) varies by location | ~240 ft near the islands vs. ~75 fathom (450 ft) nearer the coast, in the presenter's examples | 2020-03; live-seminar recollection, verify current boundary with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 | Rockfish depth allowance varies by season; local-boat max in one operator's telling | "unlimited" status (300 ft–3,000 ft framing) down to ~800–850 ft max on local SoCal boats | 2026-04; self-hedged on camera, verify current depth limits with CDFW | [rockfish & lingcod](../species/rockfish-lingcod.md) | `D0bQjAL0gGU` |
-| Farnsworth Bank (Catalina) marine closure — keep-list limited to yellowtail and bonito; everything else released | only yellowtail and bonito may be kept inside the closure area | 2022-10-26 | [yellowtail](../species/yellowtail.md) | `5p6gu14ZC4w` |
+| Farnsworth Bank (Catalina) marine closure — keep-list limited to yellowtail and bonito; everything else released | only yellowtail and bonito may be kept inside the closure area | 2022-10-26 | [yellowtail](../species/yellowtail.md), [Pacific bonito](../species/bonito.md) | `5p6gu14ZC4w` |
 | California barracuda minimum size — a SoCal sportboat crew counts undersized fish separately as "short" barracuda, implying a legal minimum; no figure, gauge or release is stated on camera | **unknown — gauge, measuring method and bag limit all absent from the corpus** | 2013-07-04 (the observation); gap flagged 2026-08 — verify the current minimum size and bag limit with CDFW | [California barracuda](../species/barracuda.md) | `M6U_FVdosr4` |
+| Pacific bonito bag limit and size gauge — no corpus source states either; the only bonito-specific rule in the corpus is the Farnsworth Bank keep-list row above | **unknown — bag limit and size gauge both absent from the corpus** | gap flagged 2026-08 — verify the current bag and size limits with CDFW | [Pacific bonito](../species/bonito.md) | — |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -90,6 +91,7 @@ route, and the insurance carriers by name.
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

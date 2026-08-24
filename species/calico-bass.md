@@ -672,6 +672,7 @@ release *ethic* and the regional policies are below.
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
+- [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

@@ -7,7 +7,7 @@
 - [California Barracuda](barracuda.md) — Barracuda are the toothy member of the SoCal "three B's" — bass, barracuda, bonito — taken off the same kelp lines, boiler rocks and beach edges that hold calic
 - [Bluefin Trolling](bluefin-trolling.md) **[SoCal only]** — Which trolled or towed presentation to pull for SoCal bluefin, and when.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin run sub-30 lb schoolies to 300 lb+ cows in the same season off SoCal and northern Baja, and grade is unpredictable trip to trip — which is why b
-- [Pacific Bonito](bonito.md) — A schooling nearshore pelagic that runs in fast, hard-charging packs on the bait, boiling on the surface and firing up everything around it.
+- [Pacific Bonito](bonito.md) — Bonito are the fast, small-grade member of the SoCal "three B's" — bass, barracuda, bonito — taken in packs that boil outside the kelp and over the offshore ban
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Region: Baja — Sea of Cortez / Bay of LA (BOLA), panga fishery.
 - [Calico Bass (Kelp Bass)](calico-bass.md) — The signature SoCal inshore ambush predator: a kelp- and reef-dweller that sits on a defined structure edge and eats what the current sweeps past it.
 - [California Halibut](california-halibut.md) — A flatfish you catch by out-thinking the sand, not by covering it.
@@ -104,7 +104,6 @@ graph LR
   n23 --> n24
   n24 --> n23
   n3 --> n0
-  n3 --> n12
   n3 --> n24
   n3 --> n5
   n5 --> n0

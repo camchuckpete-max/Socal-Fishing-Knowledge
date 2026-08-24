@@ -825,6 +825,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife Jigs](knife-jigs.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](../techniques/panga-team-trolling.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

@@ -505,6 +505,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
