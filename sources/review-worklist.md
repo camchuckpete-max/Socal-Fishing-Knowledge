@@ -272,4 +272,20 @@ by their builders after the transform phase drains.
 | locations/mexican-waters.md | geo | transformed |  | jurisdiction exemplar (supervised); absorbed the relocated Mexico paperwork |
 | locations/coronado-islands.md | geo | transformed |  | zone exemplar (supervised); 11 charted spots, gives the zone guide a real zone link |
 | locations/pukey-point.md | gazetteer | transformed |  | minimum spot exemplar (supervised); coordinates + parent zone + flagged gaps |
+| locations/ribbon-kelp.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/lighthouse.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/5-minute-kelp.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/south-kelp-ridge.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/rockpile.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/lower-9-mile-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/coronado-canyon.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/north-of-north-island-rockfish-area.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/east-of-pukey-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/middle-grounds.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/farnsworth-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/pyramid-head.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/mackerel-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/desperation-reef.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/14-mile-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 <!-- review:worklist:end -->

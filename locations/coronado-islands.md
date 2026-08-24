@@ -10,7 +10,6 @@ parent: regions.md
 structure_type: four-island chain with kelp edges, high spots and a mid-chain bank
 depth_band: unknown
 distance_nm: ~13 nm from the San Diego bay entrance
-coordinates: 32°24.8'N 117°15.9'W
 ---
 
 # Coronado Islands
@@ -101,6 +100,15 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [5-Minute Kelp](5-minute-kelp.md)
+- [Coronado Canyon](coronado-canyon.md)
+- [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)
 - [Evidence — Coronado Islands](evidence/coronado-islands.md)
+- [Lighthouse](lighthouse.md)
+- [Lower 9 Mile Bank](lower-9-mile-bank.md)
+- [North of North Island rockfish area](north-of-north-island-rockfish-area.md)
 - [Pukey Point](pukey-point.md)
+- [Ribbon Kelp](ribbon-kelp.md)
+- [Rockpile](rockpile.md)
+- [South Kelp Ridge](south-kelp-ridge.md)
 <!-- backlinks:end -->

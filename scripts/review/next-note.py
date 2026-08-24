@@ -108,13 +108,16 @@ def buckets() -> list[tuple[str, list[dict]]]:
     wl = worklist_rows()
     rq = [r for r in relocation_rows() if r["status"] == "pending"]
     return [
+        # geo runs FIRST (Cameron, 2026-08-24). Two reasons: a spot page
+        # cannot resolve `parent` until its zone exists, and a species note
+        # being rewritten should link a real zone page rather than fall back
+        # to a plain-text zone name. It is also the layer Cameron just
+        # reviewed, so it appears early instead of ~30 chunks in.
+        ("geo", [r for r in wl if r["status"] == "pending"
+                 and r["tier"] == "geo"]),
         ("transform", [r for r in wl if r["status"] == "pending"
                        and r["tier"] in ("full", "standard", "light")]),
         ("relocate", rq),
-        # geo BEFORE gazetteer: jurisdiction -> region -> area -> zone must
-        # exist before a spot page can resolve `parent`.
-        ("geo", [r for r in wl if r["status"] == "pending"
-                 and r["tier"] == "geo"]),
         ("gazetteer", [r for r in wl if r["status"] == "pending"
                        and r["tier"] == "gazetteer"]),
         ("factcheck", [r for r in wl if r["status"] == "transformed"]),

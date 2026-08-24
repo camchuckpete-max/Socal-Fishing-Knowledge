@@ -180,6 +180,12 @@ def parse_spot_lists() -> list[dict]:
                 "name": m.group(1).strip(),
                 "lat": int(m.group(2)) + float(m.group(3)) / 60,
                 "lon": -(int(m.group(4)) + float(m.group(5)) / 60),
+                # The ORIGINAL digit groups, carried untouched. Anything that
+                # publishes a position must use these rather than reformatting
+                # the floats above: a coordinate that survives a float
+                # round-trip is a coordinate nobody can diff against the
+                # source, and a wrong waypoint is a real-world hazard.
+                "raw": (m.group(2), m.group(3), m.group(4), m.group(5)),
                 "section": section,
             })
     return spots

@@ -234,13 +234,18 @@ def build(base: str, runs_path: str | None) -> dict:
             note_commit[mm.group(1)] = sha[:9]
             unit_order.append(mm.group(1))
 
-    # phase (mirrors scripts/review/next-note.py priority)
+    # phase — MIRRORS scripts/review/next-note.py buckets(). Keep the two in
+    # step: without a `geo` branch here, geo rows pending with no gazetteer
+    # rows pending fell through to "drained — endgame" and reported the fleet
+    # finished while the whole ladder was still unbuilt.
     reloc_pending = sum(1 for r in reloc if len(r) == 6 and r[5] == "pending")
     if any(r["s"] == "pending" and r["t"] in ("full", "standard", "light")
            for r in wl):
         phase = "transform"
     elif reloc_pending:
         phase = "relocations"
+    elif any(r["s"] == "pending" and r["t"] == "geo" for r in wl):
+        phase = "geo"
     elif any(r["s"] == "pending" and r["t"] == "gazetteer" for r in wl):
         phase = "gazetteer"
     elif statuses.get("transformed", 0):

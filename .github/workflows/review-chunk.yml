@@ -132,6 +132,9 @@ jobs:
         run: |
           set -euo pipefail
           python scripts/review/guard.py sweep --base "${{ steps.preflight.outputs.run_base }}"
+          # A published position must trace to the spot library, digit for
+          # digit. This is not advisory: a wrong waypoint is a real hazard.
+          python scripts/review/check-coordinates.py
           git push origin "HEAD:$BRANCH" || (git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH")
 
       - name: Progress checkpoint (+ phase builders, self-sequencing)
@@ -141,6 +144,11 @@ jobs:
           python scripts/review/progress.py || true
           python scripts/review/gap-report.py || true
           python scripts/review/build-geo-worklist.py || true
+          # Self-sequencing: a spot page needs its zone page to exist so
+          # `parent` resolves, so this generates the minimum pages under
+          # whatever zones the geo phase has landed so far. Idempotent — it
+          # never touches a page that already exists.
+          python scripts/review/build-spot-pages.py || true
           python scripts/review/build-spot-worklist.py || true
           python scripts/review/build-cluster-worklist.py || true
           if ! git diff --quiet; then
