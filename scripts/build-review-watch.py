@@ -1,22 +1,28 @@
 #!/usr/bin/env python3
-"""build-review-watch.py — Review Watch, the transform-job dashboard.
+"""build-review-watch.py — Review Watch v3, the transform-job review surface.
 
-Bight Watch answered an EXTRACTION job's question ("did this video's
-knowledge land?"). This page answers the questions a TRANSFORM job raises
-(Cameron, 2026-08-24):
+Bight Watch's chassis (sonar map, rail, slide-over article reader, passage
+notes with a markdown export), pointed at a TRANSFORM job instead of an
+extraction job. Bight Watch answered "did this video's knowledge land?";
+this page answers "did the rewrite keep the knowledge?" (Cameron,
+2026-08-24: it should look and feel like Bight Watch, drill into articles
+and changes, and take structured feedback the same way).
 
-  - conservation: is anything being LOST? (per-note cite-conservation check,
-    lines before/after, evidence-entry counts)
-  - adjudication: what queues need Cameron? (fact-check ledger by category,
-    relocation queue, escalations)
-  - gaps: what knowledge is the KB missing? (gap-report totals)
-  - run health: phase, per-folder progress, throughput/ETA, model, STOP,
-    chain runs
-  - spot-review: recent notes with capped inline diffs; every processed note
-    links to its GitHub commit
+Per note the reviewer gets four tabs — the rewritten Article, the Before
+version (as it stood at the merge base), the Changes diff, and the
+Evidence file — plus the worklist verdict, cite-conservation check and
+GitHub links. Every passage in the Article, Evidence and Changes views is
+clickable: rate it 👍/👎, say what's wrong, and export all notes as one
+markdown block to hand back (localStorage persists between visits; the
+export is the deliverable, exactly like Bight Watch).
 
-Output: sources/review-watch.html (gitignored). Published to GitHub Pages by
-publish-review-watch.yml (on main), rebuilt after every chunk + hourly.
+The rail carries the transform job's watch: progress by status + phase,
+conservation, Cameron's adjudication queues (fact-check ledger,
+relocations, escalations), knowledge gaps, recent units, on-deck rows,
+activity, chain runs.
+
+Output: sources/review-watch.html (gitignored). Published to GitHub Pages
+by publish-review-watch.yml (on main), rebuilt after every chunk + hourly.
 
     python scripts/build-review-watch.py [--base <ref>] [--out PATH]
                                          [--runs runs.json]
@@ -24,73 +30,39 @@ publish-review-watch.yml (on main), rebuilt after every chunk + hourly.
 from __future__ import annotations
 
 import argparse
-import difflib
-import html
+import importlib.util
 import json
 import re
 import subprocess
 import sys
 import time
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts" / "review"))
-import guard  # noqa: E402  (cited_ids, evidence_path)
+import guard  # noqa: E402  (cited_ids, evidence_path, EVIDENCE_ENTRY_RE)
+
+
+def _load(name: str, fname: str):
+    spec = importlib.util.spec_from_file_location(
+        name, Path(__file__).resolve().parent / fname)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+# Proven pieces, reused rather than re-implemented: the deterministic graph
+# layout, the diff parser and the chain-runs loader from Bight Watch; front
+# matter / links / commits / escalations collectors from the vault.
+_bw = _load("build_bight_watch", "build-bight-watch.py")
+_bv = _load("build_vault", "build-vault.py")
 
 GH = "https://github.com/camchuckpete-max/Socal-Fishing-Knowledge"
 BRANCH = "claude/knowledge-base-review-g00k8s"
-RECENT_DIFFS = 8
-DIFF_LINE_CAP = 300
-
-CSS = """
-:root { color-scheme: light dark; --add:#1a7f37; --del:#cf222e; --warn:#9a6700;
-        --bg:#ffffff; --fg:#1f2328; --muted:#656d76; --line:#d0d7de;
-        --chip:#eef1f4; --ok:#1a7f37; }
-@media (prefers-color-scheme: dark) {
-  :root { --add:#3fb950; --del:#f85149; --warn:#d29922; --bg:#0d1117;
-          --fg:#e6edf3; --muted:#8b949e; --line:#30363d; --chip:#21262d;
-          --ok:#3fb950; } }
-body { font: 14px/1.5 -apple-system, "Segoe UI", sans-serif;
-       background: var(--bg); color: var(--fg); margin: 0 auto;
-       max-width: 1150px; padding: 1rem 1.5rem 6rem; }
-h1 { font-size: 1.35rem; margin-bottom:.2rem; }
-h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid var(--line);
-     padding-bottom: .3rem; }
-table { border-collapse: collapse; width: 100%; font-size: 13px; }
-th, td { border: 1px solid var(--line); padding: 4px 8px; text-align: left;
-         vertical-align: top; }
-th { background: var(--chip); position: sticky; top: 0; }
-.tbl { overflow-x: auto; max-height: 70vh; overflow-y: auto;
-       border: 1px solid var(--line); }
-.badge { display: inline-block; background: var(--chip); border-radius: 10px;
-         padding: 0 8px; margin: 0 4px 4px 0; font-size: 12px; }
-.num { font-variant-numeric: tabular-nums; }
-.ok { color: var(--ok); font-weight: 600; }
-.bad { color: var(--del); font-weight: 700; }
-.warn { color: var(--warn); font-weight: 600; }
-.muted { color: var(--muted); }
-.bars { display: grid; grid-template-columns: 9rem 1fr 6rem; gap: 4px 10px;
-        align-items: center; font-size: 13px; }
-.bar { background: var(--chip); border-radius: 4px; height: 12px;
-       overflow: hidden; }
-.bar > div { background: var(--ok); height: 100%; }
-.bar > div.part { background: var(--warn); }
-details { margin: .6rem 0; border: 1px solid var(--line); border-radius: 6px; }
-summary { cursor: pointer; padding: .45rem .8rem; font-weight: 600;
-          font-size: 13px; }
-.diff { font: 12px/1.45 ui-monospace, monospace; white-space: pre-wrap;
-        overflow-x: auto; padding: .6rem .8rem; margin: 0; }
-.diff .a { color: var(--add); } .diff .d { color: var(--del); }
-.diff .h { color: var(--muted); }
-.statgrid { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
-.stat { border: 1px solid var(--line); border-radius: 8px; padding: .5rem .8rem;
-        min-width: 7.5rem; }
-.stat .n { font-size: 1.2rem; font-weight: 600; font-variant-numeric: tabular-nums; }
-.stat .l { font-size: .7rem; text-transform: uppercase; letter-spacing: .05em;
-           color: var(--muted); }
-a { color: inherit; }
-"""
+DIFF_LINE_CAP = 400          # per note; overflow is reported, not hidden
+SKIP = ("sources/", ".git/", "scripts/", "prompts/", ".github/", "tests/",
+        "skills/")
 
 
 def git(*args: str) -> str:
@@ -102,10 +74,6 @@ def show(ref: str, rel: str) -> str | None:
     r = subprocess.run(["git", "show", f"{ref}:{rel}"], cwd=ROOT,
                        capture_output=True, text=True)
     return r.stdout if r.returncode == 0 else None
-
-
-def esc(s: str) -> str:
-    return html.escape(str(s), quote=False)
 
 
 def table_rows(path: Path, start: str, end: str, skip0: tuple) -> list[list[str]]:
@@ -126,23 +94,1187 @@ def table_rows(path: Path, start: str, end: str, skip0: tuple) -> list[list[str]
     return rows
 
 
-def diff_html(before: str, after: str, cap: int = DIFF_LINE_CAP) -> str:
-    out, n = [], 0
-    for line in difflib.unified_diff(before.splitlines(), after.splitlines(),
-                                     lineterm="", n=2):
-        if line.startswith(("---", "+++")):
+def collect_files(base: str) -> list[dict]:
+    """Every KB page, with live content, plus the base version when changed."""
+    changed, added = set(), set()
+    for line in git("diff", "--name-status", f"{base}..HEAD",
+                    "--", "*.md").splitlines():
+        parts = line.split("\t")
+        if len(parts) < 2:
             continue
-        n += 1
-        if n > cap:
-            out.append(f'<span class="h">… diff truncated at {cap} lines — '
-                       f"full diff on GitHub (link above)</span>")
-            break
-        cls = ("a" if line.startswith("+")
-               else "d" if line.startswith("-")
-               else "h" if line.startswith("@@") else "")
-        out.append(f'<span class="{cls}">{esc(line)}</span>' if cls
-                   else esc(line))
-    return "\n".join(out) or '<span class="h">(no textual change)</span>'
+        (added if parts[0][:1] == "A" else changed).add(parts[-1])
+
+    files = []
+    for p in sorted(ROOT.rglob("*.md")):
+        rel = str(p.relative_to(ROOT))
+        if rel.startswith(SKIP) or rel == "CLAUDE.md":
+            continue
+        text = p.read_text(encoding="utf-8", errors="replace")
+        title = next((l[2:].strip() for l in text.splitlines()
+                      if l.startswith("# ")), rel)
+        st = "added" if rel in added else (
+            "modified" if rel in changed else "unchanged")
+        row = {
+            "path": rel, "title": title,
+            "fm": _bv.parse_front_matter(text),
+            "links": _bv.outbound_links(text, rel),
+            "status": st, "lines": text.count("\n") + 1, "content": text,
+        }
+        if st == "modified":
+            row["old"] = show(base, rel) or ""
+        files.append(row)
+    return files
+
+
+def collect_diffs(base: str, files: list[dict]) -> dict:
+    out = {}
+    for f in files:
+        if f["status"] != "modified":
+            continue
+        parsed, dropped = _bw._parse_diff(
+            git("diff", "--unified=2", f"{base}...HEAD", "--", f["path"]),
+            cap=DIFF_LINE_CAP)
+        if not parsed:
+            continue
+        # true totals from numstat — the capped parse undercounts big rewrites
+        add, rem = _bw._counts(parsed)
+        ns = git("diff", "--numstat", f"{base}...HEAD", "--",
+                 f["path"]).split()
+        if len(ns) >= 2 and ns[0].isdigit() and ns[1].isdigit():
+            add, rem = int(ns[0]), int(ns[1])
+        out[f["path"]] = {"hunks": parsed[0]["hunks"], "add": add, "rem": rem,
+                          "dropped": dropped}
+    return out
+
+
+def collect_gaps() -> dict:
+    p = ROOT / "sources" / "gap-report.md"
+    if not p.exists():
+        return {"totals": "", "items": []}
+    text = p.read_text(encoding="utf-8")
+    m = re.search(r"_Totals: (.+?)_", text)
+    items, cur = [], None
+    if "<!-- review:gaps:start -->" in text:
+        block = text.split("<!-- review:gaps:start -->", 1)[1] \
+                    .split("<!-- review:gaps:end -->", 1)[0]
+        for line in block.splitlines():
+            bm = re.match(r"^- \*\*(\S+\.md)\*\*", line.strip())
+            if bm:
+                cur = {"note": bm.group(1), "lines": []}
+                items.append(cur)
+            elif cur and line.strip().startswith("- "):
+                cur["lines"].append(line.strip()[2:])
+    return {"totals": m.group(1) if m else "", "items": items}
+
+
+def build(base: str, runs_path: str | None) -> dict:
+    now = time.time()
+    files = collect_files(base)
+    wl_cells = table_rows(ROOT / "sources" / "review-worklist.md",
+                          "<!-- review:worklist:start -->",
+                          "<!-- review:worklist:end -->", ("note",))
+    wl = [dict(zip(("n", "t", "s", "f", "r"), (c + [""] * 5)[:5]))
+          for c in wl_cells]
+    ledger = table_rows(ROOT / "sources" / "fact-check-ledger.md",
+                        "<!-- review:ledger:start -->",
+                        "<!-- review:ledger:end -->", ("note",))
+    reloc = table_rows(ROOT / "sources" / "relocation-queue.md",
+                       "<!-- review:relocations:start -->",
+                       "<!-- review:relocations:end -->", ("src",))
+    spots = table_rows(ROOT / "sources" / "spot-harvest.md",
+                       "<!-- review:harvest:start -->",
+                       "<!-- review:harvest:end -->", ("spot", "name"))
+
+    statuses = Counter(r["s"] for r in wl)
+    total = len(wl)
+    processed = sum(v for k, v in statuses.items() if k != "pending")
+
+    model = "?"
+    wf = ROOT / ".github/workflows/review-chunk.yml"
+    if wf.exists():
+        m = re.search(r'MODEL_OVERRIDE:\s*"([^"]+)"',
+                      wf.read_text(encoding="utf-8"))
+        if m:
+            model = m.group(1)
+
+    # review commits: unit shas, throughput, recency
+    log = git("log", "--format=%H|%ct|%s", "--grep", "^review: ", "-500")
+    rcommits = []
+    for line in log.splitlines():
+        sha, ct, subj = line.split("|", 2)
+        rcommits.append((sha, int(ct), subj))
+    unit_commits = [c for c in rcommits
+                    if not c[2].startswith("review: progress checkpoint")
+                    and not c[2].startswith("review: guard sweep")]
+    last_age_min = int((now - rcommits[0][1]) / 60) if rcommits else None
+    recent6 = [c for c in unit_commits if now - c[1] < 6 * 3600]
+    rate = len(recent6) / 6.0
+    remaining = statuses.get("pending", 0) + statuses.get("transformed", 0)
+    eta_h = round(remaining / rate) if rate > 0.2 else None
+
+    note_commit: dict[str, str] = {}
+    unit_order: list[str] = []          # most recent first
+    for sha, _ct, subj in unit_commits:
+        mm = re.match(r"^review: (\S+\.md) ", subj)
+        if mm and mm.group(1) not in note_commit:
+            note_commit[mm.group(1)] = sha[:9]
+            unit_order.append(mm.group(1))
+
+    # phase (mirrors scripts/review/next-note.py priority)
+    reloc_pending = sum(1 for r in reloc if len(r) == 6 and r[5] == "pending")
+    if any(r["s"] == "pending" and r["t"] in ("full", "standard", "light")
+           for r in wl):
+        phase = "transform"
+    elif reloc_pending:
+        phase = "relocations"
+    elif any(r["s"] == "pending" and r["t"] == "gazetteer" for r in wl):
+        phase = "gazetteer"
+    elif statuses.get("transformed", 0):
+        phase = "fact-check"
+    elif any(r["s"] == "pending" and r["t"] == "cluster" for r in wl):
+        phase = "cluster"
+    else:
+        phase = "drained — endgame"
+
+    # per-note review record: verdict, conservation, evidence, links
+    by_path = {f["path"]: f for f in files}
+    rev: dict[str, dict] = {}
+    cons_bad: list[str] = []
+    for r in wl:
+        note = r["n"]
+        if note.startswith("cluster:") or not note.endswith(".md"):
+            continue
+        entry = {"tier": r["t"], "status": r["s"], "flags": r["f"],
+                 "result": r["r"], "sha": note_commit.get(note, "")}
+        if r["s"] != "pending":
+            f = by_path.get(note)
+            after = f["content"] if f else ""
+            before = f.get("old") if f else None
+            ev_rel = guard.evidence_path(note)
+            ev = by_path.get(ev_rel)
+            ev_text = ev["content"] if ev else ""
+            entry["evPath"] = ev_rel if ev else ""
+            entry["evN"] = len(guard.EVIDENCE_ENTRY_RE.findall(ev_text))
+            entry["bL"] = len(before.splitlines()) if before else 0
+            entry["aL"] = len(after.splitlines())
+            lost = sorted(guard.cited_ids(before or "")
+                          - (guard.cited_ids(after) | guard.cited_ids(ev_text)))
+            entry["lost"] = lost
+            if lost:
+                cons_bad.append(note)
+        rev[note] = entry
+
+    # which marks ping: the notes the latest review commits touched
+    recent: dict[str, int] = {}
+    for i, path in enumerate(unit_order[:14]):
+        recent.setdefault(path, i)
+    for f in files:
+        f["recent"] = recent.get(f["path"], -1)
+
+    # graph layout — evidence pages and templates are reference material,
+    # not marks on the sonar
+    graph_files = [f for f in files
+                   if "/evidence/" not in f["path"]
+                   and not f["path"].startswith("templates/")]
+    layout = _bw.layout_graph(graph_files)
+
+    base_iso = git("show", "-s", "--format=%cI", base).strip()
+    snap = {
+        "generatedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(now)),
+        "branch": git("rev-parse", "--abbrev-ref", "HEAD").strip(),
+        "headSha": git("rev-parse", "--short", "HEAD").strip(),
+        "baseSha": git("rev-parse", "--short", base).strip(),
+        "phase": phase, "model": model,
+        "stop": (ROOT / "STOP").exists(),
+        "rateH": round(rate, 1), "etaH": eta_h, "lastAgeMin": last_age_min,
+        "counts": dict(statuses), "totalUnits": total,
+        "processedUnits": processed,
+        "folderColor": _bw.FOLDER_COLOR,
+        "files": files, "layout": layout,
+        "worklist": wl, "rev": rev, "consBad": cons_bad,
+        "unitOrder": unit_order,
+        "diffs": collect_diffs(base, files),
+        "ledger": ledger, "reloc": reloc, "relocPending": reloc_pending,
+        "spots": len(spots),
+        "gaps": collect_gaps(),
+        # only escalations raised since the branch base — the file also holds
+        # batch-2/3 history that is not this review's queue
+        "escal": [e for e in _bv.collect_escalations(base_iso)
+                  if e.get("thisBatch")],
+        "commits": _bv.collect_commits(base, limit=40),
+        "runs": _bw.load_runs(runs_path) if runs_path else [],
+        "gh": GH,
+    }
+    return snap
+
+
+HTML = r"""<title>Review Watch</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Bight Watch's sonar-screen design system, verbatim: light default, dark by
+   preference or toggle; every colour a token so a theme never half-applies. */
+:root{
+  --bg:#f2f5f5; --panel:#ffffff; --panel2:#e8eeee; --ink:#132227; --ink2:#3f5359;
+  --muted:#697f85; --hair:rgba(19,34,39,.14);
+  --accent:#0f7d8a; --accent-ink:#0b626d;
+  --good:#177a2f; --serious:#b2531f; --critical:#b03030; --pend:#c3cfd1;
+  --ring:rgba(19,34,39,.28); --noteb:rgba(178,83,31,.16);
+  --shadow:0 1px 2px rgba(0,0,0,.06),0 6px 20px rgba(0,0,0,.07);
+  --vig:rgba(210,222,222,.5);
+  --display:"Barlow Condensed",system-ui,sans-serif;
+  --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0B1517; --panel:#122025; --panel2:#16262C; --ink:#D9E4E6; --ink2:#9FB2B7;
+    --muted:#6E8288; --hair:rgba(217,228,230,.13);
+    --accent:#3FB4C1; --accent-ink:#63C5D0;
+    --good:#21b421; --serious:#ec835a; --critical:#e05252; --pend:#33454B;
+    --ring:rgba(99,197,208,.34); --noteb:rgba(214,132,74,.20);
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.35);
+    --vig:rgba(4,10,12,.55);
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0B1517; --panel:#122025; --panel2:#16262C; --ink:#D9E4E6; --ink2:#9FB2B7;
+  --muted:#6E8288; --hair:rgba(217,228,230,.13);
+  --accent:#3FB4C1; --accent-ink:#63C5D0;
+  --good:#21b421; --serious:#ec835a; --critical:#e05252; --pend:#33454B;
+  --ring:rgba(99,197,208,.34); --noteb:rgba(214,132,74,.20);
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.35);
+  --vig:rgba(4,10,12,.55);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--sans);overflow:hidden}
+.display{font-family:var(--display);letter-spacing:.01em;text-wrap:balance}
+button{font-family:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* intro */
+.intro{position:fixed;inset:0;z-index:50;background:var(--vig);backdrop-filter:blur(7px);
+  display:grid;place-items:center;padding:20px}
+.intro[hidden]{display:none}
+.intro-card{background:var(--panel);border:1px solid var(--hair);border-radius:16px;
+  box-shadow:var(--shadow);max-width:640px;padding:26px 28px}
+.intro-card h2{margin:0 0 6px;font-size:38px;font-weight:700}
+.lead{color:var(--ink2);margin:0 0 14px}
+.intro-card ul{margin:0 0 18px;padding-left:18px;color:var(--ink2)}
+.intro-card li{margin:7px 0}
+.k1{color:var(--accent-ink);font-weight:600}
+.go{background:var(--accent);color:#fff;border:none;border-radius:9px;padding:9px 16px;
+  font-size:14px;font-weight:600;margin-right:8px}
+.go.alt{background:transparent;color:var(--accent-ink);border:1px solid var(--hair)}
+
+.app{display:flex;flex-direction:column;height:100vh}
+.bar{display:flex;align-items:center;gap:14px;padding:10px 16px;background:var(--panel);
+  border-bottom:1px solid var(--hair);flex:none;flex-wrap:wrap}
+.brand h1{margin:0;font-size:23px;font-weight:700;line-height:1.1}
+.brand .sub{font-size:11.5px;color:var(--muted)}
+.spacer{flex:1}
+.pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--hair);border-radius:20px;
+  padding:3px 11px;font-size:12px;color:var(--ink2);white-space:nowrap}
+.pill[hidden]{display:none}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--muted);flex:none}
+.dot.ok{background:var(--good)}.dot.wait{background:var(--serious)}
+.dot.bad{background:var(--critical)}
+.clockbox{text-align:right}
+.clock{font-family:var(--mono);font-size:13px;color:var(--ink2);font-variant-numeric:tabular-nums}
+.stamp{font-size:10.5px;color:var(--muted);position:relative}
+.stale{position:absolute;right:0;top:20px;z-index:30;width:290px;text-align:left;
+  background:var(--panel);border:1px solid var(--hair);border-radius:10px;
+  box-shadow:var(--shadow);padding:10px 12px;font-size:11.5px;line-height:1.5;color:var(--ink2)}
+.stale[hidden]{display:none}
+.stale a{color:var(--accent-ink)}
+.linkbtn{background:none;border:none;padding:0 0 0 2px;font:inherit;color:var(--accent-ink);
+  font-weight:600;text-decoration:underline}
+.mono{font-family:var(--mono)}
+.help{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);border-radius:8px;
+  width:32px;height:32px;font-size:15px}
+main{flex:1;display:flex;min-height:0}
+#graphwrap{flex:1;position:relative;min-width:0;overflow:hidden;background:
+  radial-gradient(ellipse at 50% 45%, transparent 40%, var(--vig) 100%)}
+#graph{display:block;width:100%;height:100%;cursor:grab}
+#graph.drag{cursor:grabbing}
+.legend{position:absolute;left:14px;bottom:14px;background:var(--panel);border:1px solid var(--hair);
+  border-radius:10px;padding:9px 12px;font-size:11.5px;color:var(--ink2);box-shadow:var(--shadow);
+  max-width:230px;display:flex;flex-wrap:wrap;gap:4px 12px}
+.legend .lg{display:flex;align-items:center;gap:6px}
+.legend .sw{width:9px;height:9px;border-radius:50%}
+.legend .swr{width:9px;height:9px;border-radius:50%;border:2px solid var(--good);background:none}
+.legend .swr.esc{border-color:var(--critical)}
+.legend .swr.dim{border:none;background:var(--pend)}
+.tip{position:absolute;pointer-events:none;background:var(--panel);border:1px solid var(--hair);
+  border-radius:8px;padding:5px 9px;font-size:12px;box-shadow:var(--shadow);display:none;z-index:5}
+.gstat{position:absolute;right:14px;top:12px;font-family:var(--mono);font-size:11px;color:var(--muted);
+  text-align:right;font-variant-numeric:tabular-nums}
+
+/* detail slide-over */
+.detail{position:absolute;top:0;right:0;bottom:0;width:min(620px,94%);background:var(--panel);
+  border-left:1px solid var(--hair);box-shadow:var(--shadow);transform:translateX(101%);
+  transition:transform .22s ease;display:flex;flex-direction:column;z-index:20}
+.detail.open{transform:none}
+@media (prefers-reduced-motion:reduce){.detail{transition:none}}
+.dhead{padding:14px 16px;border-bottom:1px solid var(--hair);flex:none}
+.dtitle{font-family:var(--display);font-size:24px;font-weight:700;margin:0}
+.dpath{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.dmeta{display:flex;flex-wrap:wrap;gap:5px;margin-top:9px}
+.tag{font-family:var(--mono);font-size:10.5px;border:1px solid var(--hair);border-radius:20px;
+  padding:1px 8px;color:var(--ink2)}
+.tag.high{color:var(--good);border-color:color-mix(in srgb,var(--good) 45%,transparent)}
+.tag.medium{color:var(--serious);border-color:color-mix(in srgb,var(--serious) 45%,transparent)}
+.tag.low{color:var(--critical);border-color:color-mix(in srgb,var(--critical) 45%,transparent)}
+.tag.st-done{color:var(--good);border-color:color-mix(in srgb,var(--good) 45%,transparent)}
+.tag.st-transformed,.tag.st-fact-checked{color:var(--accent-ink);
+  border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
+.tag.st-escalated,.tag.st-reverted{color:var(--critical);
+  border-color:color-mix(in srgb,var(--critical) 45%,transparent)}
+.tag a{color:inherit;text-decoration:none}
+.tag a:hover{text-decoration:underline}
+.dclose{position:absolute;top:11px;right:12px;background:var(--panel2);border:1px solid var(--hair);
+  color:var(--ink2);border-radius:8px;width:30px;height:30px;font-size:15px}
+.darticle{overflow-y:auto;padding:16px 18px 60px;flex:1}
+.darticle h1{font-size:22px;margin:2px 0 12px}
+.darticle h2{font-size:17px;margin:20px 0 7px;padding-bottom:4px;border-bottom:1px solid var(--hair)}
+.darticle h3{font-size:14.5px;margin:15px 0 5px}
+.darticle p,.darticle li{color:var(--ink)}
+.darticle a{color:var(--accent-ink);text-decoration:none}.darticle a:hover{text-decoration:underline}
+.darticle pre{background:var(--panel2);border:1px solid var(--hair);border-radius:8px;
+  padding:10px 12px;overflow-x:auto;font-size:12px;line-height:1.45}
+.darticle pre code{background:none;border:none;padding:0}
+.darticle code{font-family:var(--mono);font-size:12px;background:var(--panel2);border-radius:4px;padding:1px 5px}
+.darticle blockquote{margin:9px 0;padding:3px 13px;border-left:3px solid var(--accent);color:var(--ink2)}
+.tw{overflow-x:auto;border:1px solid var(--hair);border-radius:8px;margin:10px 0}
+.darticle table{border-collapse:collapse;font-size:12px;min-width:100%}
+.darticle th{background:var(--panel2);text-align:left;color:var(--ink2);font-weight:600}
+.darticle th,.darticle td{padding:5px 9px;border-bottom:1px solid var(--hair);vertical-align:top}
+
+/* panel navigation — the slide-over is a stack: list -> note tabs */
+.dback{background:none;border:none;color:var(--accent-ink);font-size:12px;padding:0 0 4px;
+  font-weight:600}
+.dtabs{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap}
+.dtab{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);border-radius:8px;
+  padding:4px 11px;font-size:12px;font-weight:600}
+.dtab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.seemore{display:block;width:100%;margin-top:9px;background:var(--panel2);border:1px solid var(--hair);
+  border-radius:8px;padding:6px 9px;font-size:12px;font-weight:600;color:var(--accent-ink);
+  text-align:left}
+.seemore:hover{border-color:var(--accent)}
+
+/* the review bar atop an article */
+.hbar{position:sticky;top:0;z-index:5;display:flex;gap:9px;align-items:center;flex-wrap:wrap;
+  background:var(--panel);border:1px solid var(--hair);border-radius:10px;
+  padding:7px 11px;margin:0 0 14px;font-size:12px;color:var(--ink2)}
+.hsw{width:11px;height:11px;border-radius:3px;flex:none;
+  background:color-mix(in srgb,var(--accent) 28%,transparent);
+  border:1px solid color-mix(in srgb,var(--accent) 60%,transparent)}
+
+/* review notes — the reviewer's half of the surface. In review mode every
+   block is a target: hover shows it, a saved note pins it. */
+.darticle.rev .sel{cursor:pointer;border-radius:2px;scroll-margin-top:58px}
+.darticle.rev .sel:hover{background:color-mix(in srgb,var(--accent) 12%,transparent);
+  box-shadow:-10px 0 0 color-mix(in srgb,var(--accent) 12%,transparent),
+             10px 0 0 color-mix(in srgb,var(--accent) 12%,transparent)}
+.darticle .sel.noted{background:color-mix(in srgb,var(--serious) 10%,transparent);
+  box-shadow:-10px 0 0 var(--noteb),10px 0 0 var(--noteb),inset 3px 0 0 var(--serious)}
+.darticle .sel.noted.up{box-shadow:-10px 0 0 color-mix(in srgb,var(--good) 14%,transparent),
+  10px 0 0 color-mix(in srgb,var(--good) 14%,transparent),inset 3px 0 0 var(--good)}
+.sel .flag{float:right;margin-left:8px;font-size:11px;font-family:var(--mono);
+  color:var(--serious);user-select:none}
+.sel .flag.up{color:var(--good)}
+.notebox{position:fixed;z-index:70;width:min(400px,92vw);background:var(--panel);
+  border:1px solid var(--hair);border-radius:12px;box-shadow:var(--shadow);padding:13px 14px}
+.notebox[hidden]{display:none}
+.notebox h3{margin:0 0 4px;font-size:13px;font-weight:700}
+.notebox .quo{font-size:11.5px;color:var(--muted);margin:0 0 10px;max-height:64px;overflow:hidden}
+.notebox textarea{width:100%;min-height:74px;resize:vertical;background:var(--panel2);
+  border:1px solid var(--hair);border-radius:8px;padding:8px 9px;font:13px var(--sans);
+  color:var(--ink)}
+.rate{display:flex;gap:7px;margin:9px 0}
+.rate button{flex:1;background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);
+  border-radius:8px;padding:6px;font-size:13px;font-weight:600}
+.rate button[aria-pressed="true"]{color:#fff}
+.rate button.up[aria-pressed="true"]{background:var(--good);border-color:var(--good)}
+.rate button.down[aria-pressed="true"]{background:var(--critical);border-color:var(--critical)}
+.nb-act{display:flex;gap:7px;justify-content:flex-end;margin-top:4px}
+.nb-act button{background:var(--panel2);border:1px solid var(--hair);color:var(--ink2);
+  border-radius:8px;padding:6px 12px;font-size:12.5px;font-weight:600}
+.nb-act .save{background:var(--accent);border-color:var(--accent);color:#fff}
+.nb-act .del{color:var(--critical)}
+.expbox{width:100%;min-height:340px;resize:vertical;background:var(--panel2);
+  border:1px solid var(--hair);border-radius:8px;padding:10px;font:12px var(--mono);
+  color:var(--ink);white-space:pre;overflow-wrap:normal;overflow-x:auto}
+.warn{background:color-mix(in srgb,var(--serious) 14%,transparent);
+  border:1px solid color-mix(in srgb,var(--serious) 45%,transparent);
+  border-radius:8px;padding:8px 10px;font-size:12px;margin:0 0 10px}
+
+/* diffs */
+.dfile{border:1px solid var(--hair);border-radius:10px;margin:0 0 12px;overflow:hidden}
+.dfile > summary{padding:8px 11px;background:var(--panel2);cursor:pointer;font-size:12.5px;
+  display:flex;gap:9px;align-items:center;list-style:none}
+.dfile > summary::-webkit-details-marker{display:none}
+.dfile > summary::before{content:"▸";color:var(--muted);font-size:11px}
+.dfile[open] > summary::before{content:"▾"}
+.dfile .fp{font-family:var(--mono);font-size:11.5px;color:var(--ink);overflow-wrap:anywhere}
+.plus{color:var(--good);font-family:var(--mono);font-size:11px;font-weight:600}
+.minus{color:var(--critical);font-family:var(--mono);font-size:11px;font-weight:600}
+.hunk{border-top:1px solid var(--hair)}
+.hunk .at{font-family:var(--mono);font-size:10.5px;color:var(--muted);padding:4px 11px;
+  background:color-mix(in srgb,var(--panel2) 60%,transparent)}
+.dl{font-family:var(--mono);font-size:11.5px;line-height:1.5;padding:1px 11px 1px 22px;
+  white-space:pre-wrap;overflow-wrap:anywhere;position:relative;color:var(--ink2)}
+.dl::before{position:absolute;left:8px;color:var(--muted)}
+.dl.add{background:color-mix(in srgb,var(--good) 15%,transparent);color:var(--ink)}
+.dl.add::before{content:"+";color:var(--good)}
+.dl.del{background:color-mix(in srgb,var(--critical) 13%,transparent);color:var(--ink2)}
+.dl.del::before{content:"−";color:var(--critical)}
+.darticle.rev .dl:hover{outline:1px solid var(--accent);cursor:pointer}
+.dl.noted{outline:2px solid var(--serious)}
+.dl.noted.up{outline-color:var(--good)}
+.dnote{font-size:11.5px;color:var(--muted);padding:7px 11px;border-top:1px solid var(--hair)}
+.vrow{display:block;width:100%;text-align:left;background:none;border:none;border-bottom:1px solid var(--hair);
+  padding:8px 2px;font-size:12.5px;color:var(--ink)}
+.vrow:last-child{border-bottom:none}
+.vrow:hover{background:var(--panel2)}
+.vrow .vt{display:block;font-weight:600;overflow-wrap:anywhere}
+.vrow .vm{display:block;color:var(--muted);font-size:11px;font-family:var(--mono);margin-top:2px}
+.filt{width:100%;background:var(--panel2);border:1px solid var(--hair);border-radius:8px;
+  padding:7px 10px;font:13px var(--sans);color:var(--ink);margin-bottom:10px}
+.ghead{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+  margin:16px 0 5px}
+.ghead:first-child{margin-top:0}
+
+/* right rail */
+.rail{width:340px;flex:none;border-left:1px solid var(--hair);background:var(--panel);
+  overflow-y:auto;padding:12px}
+@media (max-width:940px){
+  body{overflow:auto}
+  .app{height:auto;min-height:100vh}
+  main{flex-direction:column}
+  #graphwrap{flex:none;height:58vh;min-height:340px}
+  .rail{width:auto;flex:none;border-left:none;border-top:1px solid var(--hair);overflow:visible}
+  .detail{position:fixed;z-index:60}
+}
+.card{border:1px solid var(--hair);border-radius:12px;padding:12px 13px;margin-bottom:11px;background:var(--panel)}
+.card h2{margin:0 0 9px;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--muted);display:flex;gap:8px;align-items:center}
+.card h2 .sp{flex:1}
+.card h2 .sub{font-weight:400;letter-spacing:0;text-transform:none;font-family:var(--mono);
+  font-size:10.5px;color:var(--muted)}
+.meter{height:9px;border-radius:5px;background:var(--pend);overflow:hidden;display:flex;gap:2px}
+.meter span{display:block;height:100%}
+.tally{display:flex;gap:10px;margin-top:8px;font-size:12px;color:var(--ink2);flex-wrap:wrap;
+  font-variant-numeric:tabular-nums}
+.tally b{font-family:var(--mono);color:var(--ink)}
+.row{display:flex;gap:8px;align-items:baseline;padding:5px 0;border-bottom:1px solid var(--hair);font-size:12.5px}
+.row:last-child{border-bottom:none}
+.row .vid{font-family:var(--mono);font-size:10.5px;color:var(--muted);flex:none}
+.row .txt{color:var(--ink2);overflow-wrap:anywhere}
+.row .when{margin-left:auto;font-family:var(--mono);font-size:10px;color:var(--muted);flex:none}
+.badge{display:inline-block;background:var(--panel2);border:1px solid var(--hair);border-radius:10px;
+  padding:0 8px;margin:0 4px 4px 0;font-size:11.5px;color:var(--ink2)}
+.mut{color:var(--muted);font-size:12px}
+::-webkit-scrollbar{width:9px;height:9px}
+::-webkit-scrollbar-thumb{background:var(--pend);border-radius:6px}
+</style>
+
+<div class="intro" id="intro">
+  <div class="intro-card">
+    <h2 class="display">Review Watch</h2>
+    <p class="lead">Claude is rewriting Cameron's fishing knowledgebase —
+    <strong id="introN">—</strong> pages — onto the wiki-style layout: plain statements with
+    citations, evidence split out, fact-checks queued. This screen is the watch on that
+    rewrite, and the place to judge it.</p>
+    <ul>
+      <li><span class="k1">The sonar screen</span> is the knowledgebase — every mark a page,
+      coloured by topic. A ringed mark has been rewritten; pinging marks were just committed.
+      Tap one to read it.</li>
+      <li><span class="k1">Each page opens with tabs</span>: the rewritten article, the version
+      it replaced, the exact diff, and its evidence file.</li>
+      <li><span class="k1">Your job</span>: click any passage (or diff line), rate it
+      👍/👎, say what's wrong. Export your notes when you're done — that markdown block is the
+      feedback that steers the fleet. 🎣</li>
+    </ul>
+    <button class="go" id="introgo">Start reviewing</button>
+    <button class="go alt" id="introrandom">🎲 Random rewritten page</button>
+  </div>
+</div>
+
+<div class="app">
+  <header class="bar">
+    <div class="brand">
+      <h1 class="display">Review Watch</h1>
+      <div class="sub" id="subline"></div>
+    </div>
+    <span class="pill" id="phasepill"><span class="dot ok"></span><span id="phasetext"></span></span>
+    <span class="pill" id="chainpill"><span class="dot" id="chaindot"></span><span id="chaintext">chain</span></span>
+    <span class="pill" id="stoppill" hidden><span class="dot bad"></span><span>STOP — chain standing down</span></span>
+    <div class="spacer"></div>
+    <div class="clockbox">
+      <div class="clock" id="clock">--:--:-- UTC</div>
+      <div class="stamp">snapshot <span class="mono" id="gen"></span> · <span id="age"></span>
+        <button class="linkbtn" id="refresh">refresh</button>
+        <div class="stale" id="stale" hidden></div></div>
+    </div>
+    <button class="help" id="themebtn" aria-label="Toggle day / night mode">☾</button>
+    <button class="help" id="helpbtn" aria-label="What am I looking at?">?</button>
+  </header>
+  <main>
+    <div id="graphwrap">
+      <canvas id="graph" aria-label="Knowledgebase link graph"></canvas>
+      <div class="gstat" id="gstat"></div>
+      <div class="legend" id="legend"></div>
+      <div class="tip" id="tip"></div>
+      <div class="detail" id="detail" role="dialog" aria-label="Page detail">
+        <button class="dclose" id="dclose" aria-label="Close">✕</button>
+        <div class="dhead">
+          <button class="dback" id="dback" hidden>← <span id="dbacktext"></span></button>
+          <h2 class="dtitle" id="dtitle"></h2>
+          <div class="dpath mono" id="dpath"></div>
+          <div class="dmeta" id="dmeta"></div>
+          <div class="dtabs" id="dtabs" hidden></div>
+        </div>
+        <div class="darticle" id="darticle"></div>
+      </div>
+    </div>
+    <aside class="rail">
+      <div class="card">
+        <h2>Review progress<span class="sp"></span><span class="sub" id="pcttext"></span></h2>
+        <div class="meter" id="meter"></div>
+        <div class="tally" id="tally"></div>
+        <button class="seemore" id="seeprocessed">See every processed page →</button>
+        <button class="seemore" id="seeall">Browse the whole knowledgebase →</button>
+      </div>
+      <div class="card" id="chaincard" hidden><h2>Chain<span class="sp"></span><span class="sub" id="chainsub"></span></h2>
+        <div id="runs"></div></div>
+      <div class="card"><h2>Conservation<span class="sp"></span><span class="sub" id="conssub"></span></h2>
+        <div id="conslist" class="mut"></div></div>
+      <div class="card"><h2>Your adjudication queues<span class="sp"></span><span class="sub" id="adjsub"></span></h2>
+        <div id="adjcats"></div>
+        <button class="seemore" id="seeledger">Fact-check ledger →</button>
+        <button class="seemore" id="seereloc">Relocation queue →</button>
+        <button class="seemore" id="seeesc">Escalations →</button></div>
+      <div class="card"><h2>Knowledge gaps<span class="sp"></span><span class="sub" id="gapsub"></span></h2>
+        <div id="gapline" class="mut"></div>
+        <button class="seemore" id="seegaps">See the gap report →</button></div>
+      <div class="card"><h2>Recently rewritten<span class="sp"></span><span class="sub" id="recsub"></span></h2>
+        <div id="reclist" class="mut"></div></div>
+      <div class="card"><h2>On deck</h2><div id="upnext" class="mut"></div></div>
+      <div class="card"><h2>Review notes<span class="sp"></span><span class="sub" id="notesub"></span></h2>
+        <div id="noteslist" class="mut"></div>
+        <button class="seemore" id="seenotes">Export my notes →</button></div>
+      <div class="card"><h2>Activity<span class="sp"></span><span class="sub" id="feedsub"></span></h2>
+        <div id="feed"></div></div>
+    </aside>
+  </main>
+  <div class="notebox" id="notebox" hidden>
+    <h3 id="nbtitle">Note on this passage</h3>
+    <p class="quo" id="nbquote"></p>
+    <div class="rate">
+      <button class="up" id="nbup" aria-pressed="false">👍 Looks right</button>
+      <button class="down" id="nbdown" aria-pressed="false">👎 Wrong / check</button>
+    </div>
+    <textarea id="nbtext" placeholder="What's wrong, or what should it say instead?"></textarea>
+    <div class="nb-act">
+      <button class="del" id="nbdel">Delete</button>
+      <button id="nbcancel">Cancel</button>
+      <button class="save" id="nbsave">Save</button>
+    </div>
+  </div>
+</div>
+<script id="snap" type="application/json">__SNAP__</script>
+<script>
+const D=JSON.parse(document.getElementById('snap').textContent);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const byPath=new Map(D.files.map(f=>[f.path,f]));
+const FC=D.folderColor, fol=p=>p.includes('/')?p.split('/')[0]:'.';
+const col=p=>FC[fol(p)]||'#5E7076';
+const REV=D.rev||{}, DIFFS=D.diffs||{};
+const stClr={done:'var(--good)','fact-checked':'var(--accent)',transformed:'var(--accent)',
+  escalated:'var(--critical)',reverted:'var(--critical)',skipped:'var(--muted)'};
+
+/* theme */
+const tb=document.getElementById('themebtn');
+tb.onclick=()=>{const r=document.documentElement;
+  const dark=r.getAttribute('data-theme')==='dark'||(!r.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme:dark)').matches);
+  r.setAttribute('data-theme',dark?'light':'dark'); tb.textContent=dark?'☾':'☀';
+  if(typeof scheduleRender==='function')scheduleRender();};
+
+/* header */
+document.getElementById('introN').textContent=(D.totalUnits||0).toLocaleString();
+document.getElementById('subline').textContent=
+  `${D.processedUnits} of ${D.totalUnits} pages through the rewrite · model ${D.model}`;
+document.getElementById('phasetext').textContent=`phase: ${D.phase}`;
+document.getElementById('gen').textContent=D.generatedAt.replace('T',' ').replace('Z',' UTC');
+if(D.stop)document.getElementById('stoppill').hidden=false;
+const LIVE='https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/';
+const hosted=location.hostname.endsWith('github.io');
+document.getElementById('refresh').onclick=()=>{
+  if(hosted){location.reload();return;}
+  const box=document.getElementById('stale');
+  box.innerHTML=`This copy is a fixed snapshot, taken <strong>${esc(D.generatedAt.replace('T',' ').replace('Z',' UTC'))}</strong>. `+
+    `The self-updating build rebuilds after every chunk and hourly: <a href="${LIVE}" target="_blank" rel="noopener">${LIVE}</a>`;
+  box.hidden=!box.hidden;};
+addEventListener('click',e=>{const b=document.getElementById('stale');
+  if(b&&!b.hidden&&!e.target.closest('#stale')&&e.target.id!=='refresh')b.hidden=true;});
+(function age(){
+  const mins=Math.max(0,Math.round((Date.now()-Date.parse(D.generatedAt))/60000));
+  const t=mins<2?'just now':mins<60?mins+' min old':
+    mins<2880?Math.round(mins/60)+' h old':Math.round(mins/1440)+' days old';
+  document.getElementById('age').textContent=t+' ·';
+  setTimeout(age,60000);
+})();
+setInterval(()=>{document.getElementById('clock').textContent=
+  new Date().toISOString().slice(11,19)+' UTC';},1000);
+const cd=document.getElementById('chaindot'), ctx2=document.getElementById('chaintext');
+const inflight=(D.runs||[]).some(r=>r.status!=='completed');
+const pendN=D.counts.pending||0;
+if(D.stop){cd.className='dot bad';ctx2.textContent='stopped';}
+else if(inflight){cd.className='dot ok';ctx2.textContent='chunk in flight';}
+else if(pendN>0){cd.className='dot wait';ctx2.textContent=`idle · ${pendN} queued`;}
+else{cd.className='dot ok';ctx2.textContent='worklist clear';}
+if(D.runs&&D.runs.length){
+  const card=document.getElementById('chaincard');card.hidden=false;
+  const cls=r=>r.status!=='completed'?'wait':(r.concl==='success'?'ok':
+    (r.concl==='cancelled'?'':'bad'));
+  const label=r=>r.status!=='completed'?r.status.replace('_',' ')
+    :(r.concl==='cancelled'?'superseded in queue':r.concl);
+  const bad=D.runs.filter(r=>r.concl&&r.concl!=='success'&&r.concl!=='cancelled').length;
+  document.getElementById('chainsub').textContent=
+    (bad?`${bad} failed · `:'')+
+    (D.lastAgeMin!=null?`last commit ${D.lastAgeMin}m ago`:'no commits yet');
+  document.getElementById('runs').innerHTML=D.runs.map(r=>
+    `<div class="row"><span class="dot ${cls(r)}"></span><span class="txt">${esc(label(r))}</span>`+
+    `<span class="when">${esc((r.when||'').slice(5,16).replace('T',' '))}</span></div>`).join('');
+}
+
+/* progress */
+const C=D.counts;
+const segs=[['done',C.done||0,'var(--good)'],['fact-checked',C['fact-checked']||0,'var(--accent)'],
+  ['transformed',C.transformed||0,'color-mix(in srgb,var(--accent) 55%,transparent)'],
+  ['escalated',(C.escalated||0)+(C.reverted||0),'var(--critical)'],
+  ['skipped',C.skipped||0,'var(--muted)'],['pending',C.pending||0,'var(--pend)']];
+document.getElementById('meter').innerHTML=segs.filter(s=>s[1])
+  .map(([k,v,c])=>`<span style="flex:${v};background:${c}" title="${k}: ${v}"></span>`).join('');
+document.getElementById('pcttext').textContent=
+  (D.totalUnits?Math.round(D.processedUnits/D.totalUnits*100):0)+'%'+
+  (D.etaH?` · ~${D.etaH}h left`:'')+` · ${D.rateH}/h`;
+document.getElementById('tally').innerHTML=segs.filter(s=>s[1])
+  .map(([k,v])=>`<span>${k} <b>${v.toLocaleString()}</b></span>`).join('');
+
+/* conservation */
+const consBad=D.consBad||[];
+document.getElementById('conssub').textContent=consBad.length?`${consBad.length} LOST`:'all ✓';
+document.getElementById('conslist').innerHTML=consBad.length
+  ? consBad.map(p=>`<button class="vrow" data-p="${esc(p)}"><span class="vt"><span class="minus">✗</span> ${esc(p)}</span>`+
+      `<span class="vm">cites missing from note + evidence — needs a human</span></button>`).join('')
+  : 'Every processed page still carries all of its citations (checked against note + evidence file).';
+
+/* adjudication */
+const cats={};(D.ledger||[]).forEach(r=>{const c=r[2]||'?';cats[c]=(cats[c]||0)+1;});
+document.getElementById('adjsub').textContent=
+  `${(D.ledger||[]).length+D.relocPending+(D.escal||[]).length} open`;
+document.getElementById('adjcats').innerHTML=
+  Object.entries(cats).sort((a,b)=>b[1]-a[1]).map(([c,n])=>`<span class="badge">${esc(c)}: ${n}</span>`).join('')||'';
+document.getElementById('gapsub').textContent=String((D.gaps.items||[]).length||'');
+document.getElementById('gapline').textContent=D.gaps.totals||'No gaps flagged yet.';
+
+/* recently rewritten + on deck */
+const recents=(D.unitOrder||[]).slice(0,10);
+document.getElementById('recsub').textContent=recents.length?`last ${recents.length}`:'';
+document.getElementById('reclist').innerHTML=recents.length
+  ? recents.map(p=>{const rv=REV[p]||{};const f=byPath.get(p);
+      return `<button class="vrow" data-p="${esc(p)}"><span class="vt">${esc(f?f.title:p)}</span>`+
+      `<span class="vm">${esc(p)} · ${esc(rv.status||'')}</span></button>`;}).join('')
+  : 'Nothing rewritten yet — the fleet is warming up.';
+const ondeck=(D.worklist||[]).filter(r=>r.s==='pending').slice(0,10);
+document.getElementById('upnext').innerHTML=ondeck.length
+  ? ondeck.map(r=>`<div class="row"><span class="vid">${esc(r.t)}</span><span class="txt">${esc(r.n)}</span></div>`).join('')
+  : 'Worklist clear.';
+
+/* activity */
+document.getElementById('feedsub').textContent=`${(D.commits||[]).length} commits`;
+document.getElementById('feed').innerHTML=(D.commits||[]).slice(0,16).map(c=>{
+  const m=c.msg.match(/^review: (\S+\.md) /);
+  const hit=m&&byPath.has(m[1]);
+  return `<div class="row"${hit?` data-p="${esc(m[1])}" style="cursor:pointer"`:''}>`+
+   `<span class="vid">${esc(c.sha)}</span><span class="txt">${esc(c.msg)}</span>
+   <span class="when">${esc((c.when||'').slice(5,10))}</span></div>`;}).join('')
+  ||'<span class="mut">No commits on this branch yet.</span>';
+
+/* detail panel — markdown renderer (Bight Watch's, minus line attribution) */
+function mdToHtml(src){
+  const L=src.split('\n');let o=[],i=0;
+  if(L[0]==='---'){i=1;while(i<L.length&&L[i]!=='---')i++;i++;}
+  while(i<L.length&&!L[i].trim())i++;
+  if(i<L.length&&/^#\s+/.test(L[i]))i++;
+  // a cite token is a click away from its source video, like the pilot artifact
+  const code=t=>/^[A-Za-z0-9_-]{11}$/.test(t)&&!/^[0-9]+$/.test(t)
+    ?`<a href="https://www.youtube.com/watch?v=${t}" target="_blank" rel="noopener"><code>${t}</code></a>`
+    :`<code>${t}</code>`;
+  const inl=s=>esc(s).replace(/`([^`]+)`/g,(m,t)=>code(t))
+    .replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<em>$2</em>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g,(m,t,h)=>h.includes('.md')
+      ?`<a href="#" data-nav="${esc(h)}">${t}</a>`:`<a href="${esc(h)}" target="_blank" rel="noopener">${t}</a>`);
+  while(i<L.length){const l=L[i];
+    if(/^<!--/.test(l)){ // skip comment blocks (incl. the backlinks markers)
+      while(i<L.length&&!/-->\s*$/.test(L[i]))i++;i++;continue;}
+    if(/^\|/.test(l)){const b=[];while(i<L.length&&/^\|/.test(L[i]))b.push(L[i++]);
+      const rs=b.filter(r=>!/^\|[\s:-]+\|/.test(r)).map(r=>r.trim().replace(/^\||\|$/g,'').split('|').map(c=>c.trim()));
+      if(rs.length)o.push('<div class="tw"><table><thead><tr>'+rs[0].map(c=>`<th>${inl(c)}</th>`).join('')+
+        '</tr></thead><tbody>'+rs.slice(1).map(r=>'<tr>'+r.map(c=>`<td>${inl(c)}</td>`).join('')+'</tr>').join('')+
+        '</tbody></table></div>');continue;}
+    let m;
+    if((m=l.match(/^(#{1,6})\s+(.*)$/))){const d=Math.min(m[1].length,6);
+      o.push(`<h${d}>${inl(m[2])}</h${d}>`);i++;continue;}
+    if(/^>\s?/.test(l)){const b=[];while(i<L.length&&/^>\s?/.test(L[i]))b.push(L[i++].replace(/^>\s?/,''));
+      o.push(`<blockquote>${inl(b.join(' '))}</blockquote>`);continue;}
+    if(/^\s*[-*]\s+/.test(l)){const b=[];
+      while(i<L.length){const mi=L[i].match(/^\s*[-*]\s+(.*)$/);
+        if(mi){b.push(mi[1]);i++;continue;}
+        if(b.length&&L[i].trim()&&/^\s{2,}\S/.test(L[i])&&!/^\s*[#>|]/.test(L[i])&&!/^\s*```/.test(L[i])){
+          b[b.length-1]+=' '+L[i].trim();i++;continue;}
+        break;}
+      o.push('<ul>'+b.map(x=>`<li>${inl(x)}</li>`).join('')+'</ul>');
+      continue;}
+    if(/^```/.test(l)){i++;const b=[];while(i<L.length&&!/^```/.test(L[i]))b.push(L[i++]);
+      if(i<L.length)i++;o.push(`<pre><code>${esc(b.join('\n'))}</code></pre>`);continue;}
+    if(/^---+$/.test(l)){o.push('<hr>');i++;continue;}
+    if(!l.trim()){i++;continue;}
+    const b=[];while(i<L.length&&L[i].trim()&&!/^([#>|`]|\s*[-*]\s|<!--)/.test(L[i]))b.push(L[i++]);
+    if(!b.length)b.push(L[i++]);
+    o.push(`<p>${inl(b.join(' '))}</p>`);}
+  return o.join('\n');
+}
+
+const det=document.getElementById('detail');
+const body=document.getElementById('darticle'), dtabs=document.getElementById('dtabs'),
+      dback=document.getElementById('dback'), dbacktext=document.getElementById('dbacktext');
+
+function diffHunks(hunks,dropped){
+  const h=hunks.map(k=>`<div class="hunk"><div class="at">${esc(k.at)}</div>`+
+    k.lines.map(l=>{const c=l[0]==='+'?'add':l[0]==='-'?'del':'';
+      return `<div class="dl ${c}">${esc(l.slice(1))}</div>`;}).join('')+`</div>`).join('');
+  return h+(dropped?`<div class="dnote">${dropped.toLocaleString()} more changed lines not shown — the full diff is one click away on GitHub (commit link above).</div>`:'');
+}
+
+/* The panel is a stack. Back returns to wherever you came from. */
+let back=null;
+function show(o){
+  if(typeof nb!=='undefined'&&nb)nb.hidden=true;
+  document.getElementById('dtitle').textContent=o.title;
+  document.getElementById('dpath').textContent=o.path||'';
+  document.getElementById('dmeta').innerHTML=o.meta||'';
+  dtabs.hidden=!o.tabs; dtabs.innerHTML=o.tabs||'';
+  dback.hidden=!o.back; if(o.back)dbacktext.textContent=o.back.label;
+  dback.onclick=o.back?o.back.go:null;
+  body.innerHTML=o.html; body.scrollTop=0;
+  det.classList.add('open');
+}
+
+/* one knowledgebase page: Article / Before / Changes / Evidence */
+let curPath=null,curTab='article';
+function open(path,tab,from){
+  const f=byPath.get(path); if(!f)return;
+  if(from!==undefined)back=from;
+  curPath=path;
+  const rv=REV[path], fm=f.fm||{}, d=DIFFS[path];
+  const tags=[];
+  if(rv){tags.push(`<span class="tag st-${esc(rv.status)}">${esc(rv.status)}</span>`);
+    tags.push(`<span class="tag">${esc(rv.tier)} tier</span>`);}
+  if(fm.type)tags.push(`<span class="tag">${esc(fm.type)}</span>`);
+  if(fm.confidence)tags.push(`<span class="tag ${esc(fm.confidence)}">${esc(fm.confidence)}</span>`);
+  (fm.regions||[]).forEach(r=>tags.push(`<span class="tag">${esc(r)}</span>`));
+  if(fm.layout)tags.push(`<span class="tag">layout ${esc(fm.layout)}</span>`);
+  if(rv&&rv.status!=='pending'){
+    if(rv.bL)tags.push(`<span class="tag">${rv.bL} → ${rv.aL} lines</span>`);
+    else if(f.status==='added')tags.push(`<span class="tag">new page · ${f.lines} lines</span>`);
+    tags.push(rv.lost&&rv.lost.length
+      ?`<span class="tag st-escalated">✗ ${rv.lost.length} cites lost</span>`
+      :`<span class="tag st-done">✓ cites conserved</span>`);
+  } else if(f.status!=='unchanged')
+    tags.push(`<span class="tag">${esc(f.status)} on this branch</span>`);
+  tags.push(`<span class="tag"><a href="${D.gh}/blob/${D.branch}/${esc(path)}" target="_blank" rel="noopener">GitHub ↗</a></span>`);
+  if(rv&&rv.sha)tags.push(`<span class="tag"><a href="${D.gh}/commit/${esc(rv.sha)}" target="_blank" rel="noopener">commit ↗</a></span>`);
+
+  const hasOld=!!f.old, ev=rv&&rv.evPath?byPath.get(rv.evPath):null;
+  tab=tab||'article';
+  if(tab==='before'&&!hasOld)tab='article';
+  if(tab==='diff'&&!d&&f.status!=='added')tab='article';
+  if(tab==='evidence'&&!ev)tab='article';
+  curTab=tab;
+  let tabs=`<button class="dtab" data-tab="article" aria-selected="${tab==='article'}">Article</button>`;
+  if(hasOld)tabs+=`<button class="dtab" data-tab="before" aria-selected="${tab==='before'}">Before</button>`;
+  if(d)tabs+=`<button class="dtab" data-tab="diff" aria-selected="${tab==='diff'}">Changes · +${d.add} −${d.rem}</button>`;
+  else if(f.status==='added')tabs+=`<button class="dtab" data-tab="diff" aria-selected="${tab==='diff'}">Changes · new</button>`;
+  if(ev)tabs+=`<button class="dtab" data-tab="evidence" aria-selected="${tab==='evidence'}">Evidence · ${rv.evN}</button>`;
+
+  const revBar=`<div class="hbar"><span class="hsw"></span><span>Review mode — click any `+
+    `${tab==='diff'?'line':'passage'} to rate it and leave a note.</span></div>`;
+  let html;
+  if(tab==='before'){
+    html=`<div class="hbar"><span>As it stood before the review — base <code>${esc(D.baseSha)}</code>. Read-only; leave notes on the Article or Changes tab.</span></div>`+mdToHtml(f.old);
+  } else if(tab==='diff'){
+    html=revBar+(f.status==='added'
+      ? `<div class="dnote" style="border:none">Written from scratch by the review — the whole article is the change. Rate passages on the Article tab.</div>`+mdToHtml(f.content)
+      : `<details class="dfile" open><summary><span class="fp">${esc(path)}</span><span style="flex:1"></span>`+
+        `<span class="plus">+${d.add}</span><span class="minus">−${d.rem}</span></summary>`+
+        diffHunks(d.hunks,d.dropped)+`</details>`);
+  } else if(tab==='evidence'){
+    html=revBar+`<p class="mut" style="margin:0 0 10px">The observation layer behind the article — one line per sighting. Doctrine lives in the article; this is what it stands on.</p>`+mdToHtml(ev.content);
+  } else {
+    html=(rv&&rv.status!=='pending'?revBar:'')+
+      (rv&&rv.result?`<p class="mut" style="margin:0 0 10px">Verifier: ${esc(rv.result)}${rv.flags?` · ${esc(rv.flags)}`:''}</p>`:'')+
+      mdToHtml(f.content);
+  }
+  show({title:f.title,path:path,meta:tags.join(''),tabs:tabs,html:html,back:back});
+  dtabs.querySelectorAll('.dtab').forEach(b=>b.onclick=()=>open(path,b.dataset.tab));
+  body.querySelectorAll('a[data-nav]').forEach(a=>a.onclick=ev2=>{
+    ev2.preventDefault();
+    const raw=a.dataset.nav.split('#')[0], here=path.includes('/')?path.split('/').slice(0,-1):[];
+    const st=[];here.concat(raw.split('/')).forEach(p=>p==='..'?st.pop():(p==='.'?0:st.push(p)));
+    if(byPath.has(st.join('/')))open(st.join('/'),'article',{label:f.title,go:()=>open(path,tab)});});
+  wireReview(path,tab,f,rv);
+}
+
+/* review wiring: which elements take notes on this tab */
+function wireReview(path,tab,f,rv){
+  body.classList.toggle('rev',tab!=='before');
+  if(tab==='before')return;
+  let els=[];
+  if(tab==='diff'&&f.status!=='added'){
+    els=[...body.querySelectorAll('.dl')];
+  } else {
+    els=[...body.querySelectorAll('.darticle > p,.darticle > h2,.darticle > h3,.darticle > h4,'+
+      '.darticle > blockquote,.darticle > pre, .darticle li, .darticle .tw tbody tr')];
+  }
+  els.forEach(el=>{el.classList.add('sel');
+    el.onclick=ev2=>{if(ev2.target.closest('a'))return;
+      ev2.stopPropagation();openNote(el,path,tab);};});
+  markNoted(path,tab);
+}
+
+/* ---- review notes — the reviewer's half of the surface -------------------
+   Click a passage, rate it, say what is wrong. The deliverable is the
+   markdown export handed back to Cameron/Claude; storage is only so a
+   session is not lost to a reload. */
+const NKEY='review-watch-notes-v1';
+let NOTES={}, storageOK=true;
+try{const raw=localStorage.getItem(NKEY); if(raw)NOTES=JSON.parse(raw);}
+catch(e){storageOK=false;}
+function saveNotes(){
+  try{localStorage.setItem(NKEY,JSON.stringify(NOTES));}catch(e){storageOK=false;}
+  paintNotes();
+}
+const noteKey=(path,tab,text)=>`${path}::${tab}::${(text||'').trim().slice(0,90)}`;
+function paintNotes(){
+  const all=Object.values(NOTES);
+  document.getElementById('notesub').textContent=
+    all.length?`${all.length} · ${all.filter(n=>n.rate==='down').length} flagged`:'none yet';
+  document.getElementById('noteslist').innerHTML=all.length
+    ? all.slice(-8).reverse().map(n=>
+        `<button class="vrow" data-note="${esc(n.key)}"><span class="vt">`+
+        `${n.rate==='down'?'<span class="minus">✗</span> ':n.rate==='up'?'<span class="plus">✓</span> ':''}`+
+        `${esc((n.comment||'(no comment)').slice(0,64))}</span>`+
+        `<span class="vm">${esc(n.path)} · ${esc(n.tab)}</span></button>`).join('')
+    : 'Open a page, click a passage, and say what you think of it.';
+  document.querySelectorAll('#noteslist [data-note]').forEach(b=>b.onclick=()=>{
+    const n=NOTES[b.dataset.note]; if(n)open(n.path,n.tab==='diff'?'diff':n.tab==='evidence'?'evidence':'article',null);});
+}
+const nb=document.getElementById('notebox');
+let nbKey=null;
+function openNote(el,path,tab){
+  const text=el.innerText.replace(/\s+/g,' ').trim();
+  nbKey=noteKey(path,tab,text);
+  const ex=NOTES[nbKey]||{};
+  document.getElementById('nbquote').textContent='“'+text.slice(0,220)+(text.length>220?'…':'')+'”';
+  document.getElementById('nbtext').value=ex.comment||'';
+  document.getElementById('nbup').setAttribute('aria-pressed',String(ex.rate==='up'));
+  document.getElementById('nbdown').setAttribute('aria-pressed',String(ex.rate==='down'));
+  nb.dataset.nbpath=path; nb.dataset.nbtab=tab; nb.dataset.nbquote=text;
+  const r=el.getBoundingClientRect();
+  nb.hidden=false;
+  const top=Math.min(Math.max(8,r.top),innerHeight-nb.offsetHeight-8);
+  nb.style.top=top+'px';
+  nb.style.left=Math.max(8,Math.min(r.left-420,innerWidth-nb.offsetWidth-8))+'px';
+  document.getElementById('nbtext').focus();
+}
+document.getElementById('nbup').onclick=e=>{const b=e.currentTarget,on=b.getAttribute('aria-pressed')==='true';
+  b.setAttribute('aria-pressed',String(!on));document.getElementById('nbdown').setAttribute('aria-pressed','false');};
+document.getElementById('nbdown').onclick=e=>{const b=e.currentTarget,on=b.getAttribute('aria-pressed')==='true';
+  b.setAttribute('aria-pressed',String(!on));document.getElementById('nbup').setAttribute('aria-pressed','false');};
+document.getElementById('nbcancel').onclick=()=>{nb.hidden=true;};
+document.getElementById('nbdel').onclick=()=>{delete NOTES[nbKey];saveNotes();nb.hidden=true;
+  markNoted(nb.dataset.nbpath,nb.dataset.nbtab);};
+document.getElementById('nbsave').onclick=()=>{
+  const comment=document.getElementById('nbtext').value.trim();
+  const rate=document.getElementById('nbup').getAttribute('aria-pressed')==='true'?'up'
+    :document.getElementById('nbdown').getAttribute('aria-pressed')==='true'?'down':'';
+  if(!comment&&!rate){delete NOTES[nbKey];}
+  else NOTES[nbKey]={key:nbKey,path:nb.dataset.nbpath,tab:nb.dataset.nbtab,
+    quote:nb.dataset.nbquote,comment:comment,rate:rate,at:new Date().toISOString()};
+  saveNotes();nb.hidden=true;markNoted(nb.dataset.nbpath,nb.dataset.nbtab);};
+addEventListener('keydown',e=>{if(e.key==='Escape'&&!nb.hidden){nb.hidden=true;e.stopPropagation();}});
+
+function markNoted(path,tab){
+  body.querySelectorAll('.sel').forEach(el=>{
+    el.querySelectorAll('.flag').forEach(fl=>fl.remove());
+    const text=el.innerText.replace(/\s+/g,' ').trim();
+    const n=NOTES[noteKey(path,tab,text)];
+    el.classList.toggle('noted',!!n);
+    el.classList.toggle('up',!!n&&n.rate==='up');
+    if(n&&n.rate&&!el.classList.contains('dl')){const fl=document.createElement('span');
+      fl.className='flag'+(n.rate==='up'?' up':'');fl.textContent=n.rate==='up'?'✓ noted':'✗ flagged';
+      el.prepend(fl);}});
+}
+
+/* the export — the thing that actually goes back to Cameron/Claude */
+function exportNotes(){
+  back=null;
+  const all=Object.values(NOTES).sort((a,b)=>(a.path+a.tab).localeCompare(b.path+b.tab));
+  let md=`# Review Watch feedback\n\nSnapshot ${D.generatedAt} · head ${D.headSha} · ${all.length} note`+
+    `${all.length===1?'':'s'} · ${all.filter(n=>n.rate==='down').length} flagged wrong\n`;
+  let cur='';
+  all.forEach(n=>{
+    if(n.path!==cur){cur=n.path;md+=`\n## ${n.path}\n`;}
+    md+=`\n- **${n.rate==='down'?'WRONG':n.rate==='up'?'OK':'NOTE'}** · ${n.tab==='diff'?'in the diff':n.tab==='evidence'?'in the evidence file':'in the article'}\n`+
+        `  - passage: "${n.quote.slice(0,300)}${n.quote.length>300?'…':''}"\n`+
+        (n.comment?`  - cameron: ${n.comment}\n`:'');});
+  if(!all.length)md+='\n(no notes yet)\n';
+  show({title:'Review notes',path:`${all.length} to hand back`,
+    html:(storageOK?'':`<div class="warn">This viewer blocked local storage, so notes live only until you close the tab. Copy them out before you go.</div>`)+
+      `<p class="mut">Copy this block and paste it to Claude (or drop it in the repo) — it becomes the next feedback round, exactly like the pilot's.</p>`+
+      `<div class="nb-act" style="justify-content:flex-start;margin:0 0 9px">`+
+      `<button class="save" id="copyall">Copy all</button>`+
+      `<button id="clearall" class="del">Clear notes</button>`+
+      `<span class="mut" id="copied" style="align-self:center"></span></div>`+
+      `<textarea class="expbox" id="expbox" spellcheck="false"></textarea>`});
+  document.getElementById('expbox').value=md;
+  document.getElementById('copyall').onclick=async()=>{
+    const t=document.getElementById('expbox');t.select();
+    let ok=false;
+    try{await navigator.clipboard.writeText(t.value);ok=true;}
+    catch(e){try{ok=document.execCommand('copy');}catch(e2){}}
+    document.getElementById('copied').textContent=ok?'copied':'select the box and copy manually';};
+  document.getElementById('clearall').onclick=()=>{
+    if(!confirm('Delete all review notes? This cannot be undone.'))return;
+    NOTES={};saveNotes();exportNotes();};
+}
+document.getElementById('seenotes').onclick=()=>exportNotes();
+paintNotes();
+
+/* list views */
+function statusChip(s){return `<span class="${s==='escalated'||s==='reverted'?'minus':s==='pending'?'mut':'plus'}">${esc(s)}</span>`;}
+function openProcessed(){
+  back=null;
+  const rows=(D.worklist||[]).filter(r=>r.s!=='pending'&&r.n.endsWith('.md'));
+  const html=rows.map(r=>{const f=byPath.get(r.n),rv=REV[r.n]||{};
+    return `<button class="vrow" data-open="${esc(r.n)}"><span class="vt">${esc(f?f.title:r.n)}</span>`+
+      `<span class="vm">${esc(r.n)} · ${statusChip(r.s)}${rv.lost&&rv.lost.length?' · <span class="minus">✗ cites</span>':''}`+
+      `${r.r?` · ${esc(r.r.slice(0,90))}`:''}</span></button>`;}).join('');
+  show({title:'Processed pages',path:`${rows.length} through the rewrite`,
+    html:`<input class="filt" id="pfilt" placeholder="Filter by title, path or status…"><div id="plist">${html||'<p class=mut>Nothing yet.</p>'}</div>`});
+  wireList('pfilt','plist',{label:'Processed pages',go:openProcessed});
+}
+function openAll(){
+  back=null;
+  const groups=new Map();
+  D.files.filter(f=>!f.path.endsWith('README.md')&&!f.path.includes('/evidence/')&&!f.path.startsWith('templates/'))
+    .forEach(f=>{const k=fol(f.path);(groups.get(k)||groups.set(k,[]).get(k)).push(f);});
+  const html=[...groups.entries()].sort((a,b)=>a[0].localeCompare(b[0])).map(([k,fs])=>
+    `<div class="ghead">${esc(k)} · ${fs.length}</div>`+
+    fs.sort((a,b)=>a.title.localeCompare(b.title)).map(f=>{const rv=REV[f.path];
+      return `<button class="vrow" data-open="${esc(f.path)}"><span class="vt">${esc(f.title)}</span>`+
+        `<span class="vm">${esc(f.path)}${rv?` · ${statusChip(rv.status)}`:''}</span></button>`;}).join('')).join('');
+  show({title:'The knowledgebase',path:`${byPath.size} pages`,
+    html:`<input class="filt" id="afilt" placeholder="Filter by title or path…"><div id="alist">${html}</div>`});
+  wireList('afilt','alist',{label:'The knowledgebase',go:openAll});
+}
+function wireList(filtId,listId,home){
+  const f=document.getElementById(filtId);
+  if(f)f.oninput=()=>{const q=f.value.toLowerCase();
+    document.querySelectorAll(`#${listId} .vrow`).forEach(b=>
+      b.hidden=q&&!b.textContent.toLowerCase().includes(q));};
+  document.querySelectorAll(`#${listId} [data-open]`).forEach(b=>
+    b.onclick=()=>open(b.dataset.open,'article',home));
+}
+function openLedger(){
+  back=null;
+  const rows=(D.ledger||[]).map(r=>{const c=(r.concat(['','','','','']));
+    return `<button class="vrow"${byPath.has(c[0])?` data-open="${esc(c[0])}"`:''}>`+
+      `<span class="vt">${esc(c[1]||'(claim)')}</span>`+
+      `<span class="vm">${esc(c[0])} · <span class="mut">${esc(c[2])}</span>${c[3]?` · ${esc(c[3])}`:''}${c[4]?` · ${esc(c[4].slice(0,110))}`:''}</span></button>`;}).join('');
+  show({title:'Fact-check ledger',path:`${(D.ledger||[]).length} claims queued for your call`,
+    html:`<p class="mut" style="margin:0 0 10px">Flags, never deletions: a single-source claim is not a wrong claim. Each row keeps its ⚠ flag in the article until you rule on it.</p>`+
+      (rows||'<p class=mut>Ledger is empty.</p>')});
+  document.querySelectorAll('#darticle [data-open]').forEach(b=>
+    b.onclick=()=>open(b.dataset.open,'article',{label:'Fact-check ledger',go:openLedger}));
+}
+function openReloc(){
+  back=null;
+  const rows=(D.reloc||[]).map(r=>{const c=r.concat(['','','','','','']);
+    return `<button class="vrow"${byPath.has(c[0])?` data-open="${esc(c[0])}"`:''}>`+
+      `<span class="vt">${esc(c[2]||'(content)')}</span>`+
+      `<span class="vm">${esc(c[0])} → ${esc(c[1])} · ${statusChip(c[5]||'pending')}${c[3]?` · ${esc(c[3].slice(0,90))}`:''}</span></button>`;}).join('');
+  show({title:'Relocation queue',path:`${(D.reloc||[]).length} moves (${D.relocPending} pending)`,
+    html:`<p class="mut" style="margin:0 0 10px">Misplaced content moves by a dedicated paired-conservation pass, never by an inline edit — this is that queue.</p>`+
+      (rows||'<p class=mut>Queue is empty.</p>')});
+  document.querySelectorAll('#darticle [data-open]').forEach(b=>
+    b.onclick=()=>open(b.dataset.open,'article',{label:'Relocation queue',go:openReloc}));
+}
+function openEsc(){
+  back=null;
+  const rows=(D.escal||[]).map(e=>
+    `<button class="vrow"${byPath.has(e.video)?` data-open="${esc(e.video)}"`:''}>`+
+      `<span class="vt">${esc(e.kind||'escalation')}${e.thisBatch?' <span class="minus">· this run</span>':''}</span>`+
+      `<span class="vm">${esc(e.video)} · ${esc((e.when||'').slice(0,16))}${e.why?` · ${esc(e.why.slice(0,110))}`:''}</span></button>`).join('');
+  show({title:'Escalations',path:`${(D.escal||[]).length} needing a human call`,
+    html:rows||'<p class="mut">None raised — nothing needs a human call yet.</p>'});
+  document.querySelectorAll('#darticle [data-open]').forEach(b=>
+    b.onclick=()=>open(b.dataset.open,'article',{label:'Escalations',go:openEsc}));
+}
+function openGaps(){
+  back=null;
+  const rows=(D.gaps.items||[]).map(g=>
+    `<button class="vrow"${byPath.has(g.note)?` data-open="${esc(g.note)}"`:''}>`+
+      `<span class="vt">${esc(g.note)}</span>`+
+      `<span class="vm">${esc(g.lines.join(' · ').slice(0,160))}</span></button>`).join('');
+  show({title:'Knowledge gaps',path:D.gaps.totals||'',
+    html:`<p class="mut" style="margin:0 0 10px">Corpus-only rule: a gap is filled by finding a source, never by invention. These are the places the KB knows it is blind.</p>`+
+      (rows||'<p class=mut>No gaps flagged yet.</p>')});
+  document.querySelectorAll('#darticle [data-open]').forEach(b=>
+    b.onclick=()=>open(b.dataset.open,'article',{label:'Knowledge gaps',go:openGaps}));
+}
+document.getElementById('seeprocessed').onclick=openProcessed;
+document.getElementById('seeall').onclick=openAll;
+document.getElementById('seeledger').onclick=openLedger;
+document.getElementById('seereloc').onclick=openReloc;
+document.getElementById('seeesc').onclick=openEsc;
+document.getElementById('seegaps').onclick=openGaps;
+document.getElementById('dclose').onclick=()=>{det.classList.remove('open');nb.hidden=true;};
+addEventListener('keydown',e=>{if(e.key==='Escape')det.classList.remove('open');});
+document.addEventListener('click',e=>{
+  if(!e.target.closest('.rail'))return;
+  const b=e.target.closest('[data-p]');
+  if(b&&byPath.has(b.dataset.p))open(b.dataset.p,'article',null);});
+
+/* intro */
+const intro=document.getElementById('intro');
+document.getElementById('introgo').onclick=()=>intro.hidden=true;
+document.getElementById('helpbtn').onclick=()=>intro.hidden=false;
+document.getElementById('introrandom').onclick=()=>{intro.hidden=true;
+  const done=(D.unitOrder||[]).filter(p=>byPath.has(p));
+  const pool=done.length?done:D.files.map(f=>f.path);
+  open(pool[Math.floor(Math.random()*pool.length)],'article');};
+
+/* sonar — layout arrives solved; the ring language changes meaning here:
+   a halo = through the rewrite (good), critical halo = escalated, dim fill =
+   still waiting its turn. Pings mark the latest commits, as ever. */
+const cv=document.getElementById('graph'),cx=cv.getContext('2d');
+const LAY=D.layout||{};
+const nodes=D.files.filter(f=>!f.path.endsWith('README.md')&&LAY[f.path]).map(f=>{
+  const [x,y,deg]=LAY[f.path];
+  const rv=REV[f.path];
+  return {p:f.path,t:f.title,c:col(f.path),recent:f.recent,deg:deg,x:x,y:y,
+    rs:rv?rv.status:null};});
+const ix=new Map(nodes.map((n,i)=>[n.p,i])),eds=[];
+D.files.forEach(f=>(f.links||[]).forEach(l=>{
+  if(ix.has(f.path)&&ix.has(l)&&f.path!==l)eds.push([ix.get(f.path),ix.get(l)]);}));
+document.getElementById('gstat').textContent=`${nodes.length} pages · ${eds.length} links`;
+const fols=[...new Set(nodes.map(n=>fol(n.p)))].sort();
+document.getElementById('legend').innerHTML=
+  fols.map(f=>`<span class="lg"><span class="sw" style="background:${FC[f]||'#5E7076'}"></span>${esc(f)}</span>`).join('')+
+  `<span class="lg"><span class="swr"></span>rewritten</span>`+
+  `<span class="lg"><span class="swr esc"></span>escalated</span>`+
+  `<span class="lg"><span class="swr dim"></span>awaiting</span>`;
+
+let cam={x:0,y:0,z:1};
+const bmp=document.createElement('canvas'),bcx=bmp.getContext('2d');
+let baseKey='';
+function cssVar(v){return getComputedStyle(document.documentElement).getPropertyValue(v).trim();}
+function fit(){const r=cv.getBoundingClientRect(),d=devicePixelRatio||1;
+  cv.width=Math.max(1,r.width*d);cv.height=Math.max(1,r.height*d);
+  cx.setTransform(d,0,0,d,0,0);baseKey='';render();}
+function drawBase(){
+  const d=devicePixelRatio||1,w=cv.clientWidth,h=cv.clientHeight;
+  bmp.width=cv.width;bmp.height=cv.height;
+  bcx.setTransform(d,0,0,d,0,0);bcx.clearRect(0,0,w,h);
+  bcx.save();bcx.translate(w/2+cam.x,h/2+cam.y);bcx.scale(cam.z,cam.z);
+  bcx.strokeStyle=cssVar('--ring');bcx.globalAlpha=.20;bcx.lineWidth=1;bcx.beginPath();
+  eds.forEach(([i,j])=>{bcx.moveTo(nodes[i].x,nodes[i].y);bcx.lineTo(nodes[j].x,nodes[j].y);});
+  bcx.stroke();bcx.globalAlpha=1;
+  const good=cssVar('--good'),crit=cssVar('--critical');
+  nodes.forEach(n=>{const r=3+Math.min(n.deg,16)*.4;
+    const processed=n.rs&&n.rs!=='pending';
+    bcx.globalAlpha=(n.rs&&!processed)?.4:1;   // worklist rows not yet reached sit dim
+    bcx.beginPath();bcx.arc(n.x,n.y,r,0,6.283);bcx.fillStyle=n.c;bcx.fill();
+    bcx.globalAlpha=1;
+    if(processed){
+      bcx.strokeStyle=(n.rs==='escalated'||n.rs==='reverted')?crit:good;
+      bcx.lineWidth=1.6;bcx.beginPath();bcx.arc(n.x,n.y,r+3.4,0,6.283);bcx.stroke();}});
+  bcx.restore();
+  baseKey=key();
+}
+const key=()=>`${cam.x}|${cam.y}|${cam.z}|${cv.width}|${cv.height}|${document.documentElement.dataset.theme||''}|${matchMedia('(prefers-color-scheme:dark)').matches}`;
+const PING_FOR=7;
+let started=0,anim=0;
+const still=matchMedia('(prefers-reduced-motion:reduce)').matches;
+function render(T){
+  if(key()!==baseKey)drawBase();
+  cx.setTransform(1,0,0,1,0,0);cx.clearRect(0,0,cv.width,cv.height);
+  cx.drawImage(bmp,0,0);
+  const d=devicePixelRatio||1,w=cv.clientWidth,h=cv.clientHeight;
+  cx.setTransform(d,0,0,d,0,0);
+  cx.save();cx.translate(w/2+cam.x,h/2+cam.y);cx.scale(cam.z,cam.z);
+  nodes.forEach(n=>{if(n.recent<0)return;const r=3+Math.min(n.deg,16)*.4;
+    if(T===undefined){
+      cx.globalAlpha=.5;cx.strokeStyle=n.c;cx.lineWidth=1.2;
+      cx.beginPath();cx.arc(n.x,n.y,r+6.5,0,6.283);cx.stroke();cx.globalAlpha=1;return;}
+    const ph=(T*.7-n.recent*.12)%1.6;
+    if(ph>0&&ph<1.4){cx.globalAlpha=(1-ph/1.4)*.55;cx.strokeStyle=n.c;cx.lineWidth=1.6;
+      cx.beginPath();cx.arc(n.x,n.y,r+ph*26,0,6.283);cx.stroke();cx.globalAlpha=1;}});
+  cx.restore();
+}
+function frame(now){
+  if(!started)started=now;
+  const T=(now-started)/1000;
+  render(T);
+  if(T<PING_FOR&&!document.hidden)anim=requestAnimationFrame(frame);
+  else{anim=0;render();}
+}
+let queued=0;
+function scheduleRender(){if(queued||anim)return;
+  queued=requestAnimationFrame(()=>{queued=0;render();});}
+function pingAgain(){if(still){render();return;}
+  if(anim)cancelAnimationFrame(anim);started=0;anim=requestAnimationFrame(frame);}
+addEventListener('resize',fit);
+matchMedia('(prefers-color-scheme:dark)').addEventListener('change',()=>{baseKey='';render();});
+fit();
+pingAgain();
+function pick(ev){const r=cv.getBoundingClientRect();
+  const mx=(ev.clientX-r.left-r.width/2-cam.x)/cam.z,my=(ev.clientY-r.top-r.height/2-cam.y)/cam.z;
+  let best=null,bd=1e9;nodes.forEach(n=>{const d=Math.hypot(n.x-mx,n.y-my);if(d<bd){bd=d;best=n;}});
+  return bd<15?best:null;}
+let drag=null;
+cv.addEventListener('pointerdown',e=>{drag={x:e.clientX,y:e.clientY,m:0};cv.classList.add('drag');});
+addEventListener('pointerup',e=>{if(drag&&drag.m<4){const n=pick(e);if(n)open(n.p,'article',null);}
+  drag=null;cv.classList.remove('drag');});
+addEventListener('pointermove',e=>{
+  if(drag){drag.m+=Math.abs(e.clientX-drag.x)+Math.abs(e.clientY-drag.y);
+    cam.x+=e.clientX-drag.x;cam.y+=e.clientY-drag.y;drag.x=e.clientX;drag.y=e.clientY;
+    scheduleRender();return;}
+  const tip=document.getElementById('tip'),n=(e.target===cv)?pick(e):null;
+  if(n){tip.style.display='block';tip.style.left=(e.clientX+12)+'px';tip.style.top=(e.clientY+12)+'px';
+    tip.textContent=n.t+(n.rs&&n.rs!=='pending'?` · ${n.rs}`:'');}else tip.style.display='none';});
+cv.addEventListener('wheel',e=>{e.preventDefault();
+  cam.z=Math.max(.3,Math.min(3,cam.z*(e.deltaY<0?1.1:.9)));scheduleRender();},{passive:false});
+</script>
+"""
 
 
 def main() -> int:
@@ -156,253 +1288,19 @@ def main() -> int:
 
     base = args.base or git("merge-base", "HEAD", "origin/main").strip() \
         or git("rev-parse", "HEAD").strip()
-    head = git("rev-parse", "--short", "HEAD").strip()
-    now = time.time()
-
-    wl = table_rows(ROOT / "sources" / "review-worklist.md",
-                    "<!-- review:worklist:start -->",
-                    "<!-- review:worklist:end -->", ("note",))
-    ledger = table_rows(ROOT / "sources" / "fact-check-ledger.md",
-                        "<!-- review:ledger:start -->",
-                        "<!-- review:ledger:end -->", ("note",))
-    reloc = table_rows(ROOT / "sources" / "relocation-queue.md",
-                       "<!-- review:relocations:start -->",
-                       "<!-- review:relocations:end -->", ("src",))
-
-    # ---- run health -----------------------------------------------------
-    statuses = Counter(r[2] for r in wl if len(r) == 5)
-    total = sum(statuses.values())
-    processed_rows = [r for r in wl if len(r) == 5 and r[2] not in ("pending",)]
-    stop = (ROOT / "STOP").exists()
-    model = "?"
-    m = re.search(r'MODEL_OVERRIDE:\s*"([^"]+)"',
-                  (ROOT / ".github/workflows/review-chunk.yml")
-                  .read_text(encoding="utf-8"))
-    if m:
-        model = m.group(1)
-
-    log = git("log", "--format=%H|%ct|%s", "--grep", "^review: ", "-500")
-    commits = []
-    for line in log.splitlines():
-        sha, ct, subj = line.split("|", 2)
-        commits.append((sha, int(ct), subj))
-    last_age_min = int((now - commits[0][1]) / 60) if commits else None
-    # throughput over the last 6h of unit commits (exclude checkpoints)
-    unit_commits = [c for c in commits
-                    if not c[2].startswith("review: progress checkpoint")
-                    and not c[2].startswith("review: guard sweep")]
-    recent = [c for c in unit_commits if now - c[1] < 6 * 3600]
-    rate = len(recent) / 6.0
-    remaining = statuses.get("pending", 0) + statuses.get("transformed", 0)
-    eta_h = (remaining / rate) if rate > 0.2 else None
-
-    # phase (mirror next-note priority)
-    reloc_pending = sum(1 for r in reloc if len(r) == 6 and r[5] == "pending")
-    if any(r[2] == "pending" and r[1] in ("full", "standard", "light")
-           for r in wl if len(r) == 5):
-        phase = "transform"
-    elif reloc_pending:
-        phase = "relocations"
-    elif any(r[2] == "pending" and r[1] == "gazetteer" for r in wl if len(r) == 5):
-        phase = "gazetteer"
-    elif statuses.get("transformed", 0):
-        phase = "fact-check"
-    elif any(r[2] == "pending" and r[1] == "cluster" for r in wl if len(r) == 5):
-        phase = "cluster"
-    else:
-        phase = "drained — endgame"
-
-    # note -> last unit commit sha
-    note_commit: dict[str, str] = {}
-    for sha, _ct, subj in unit_commits:
-        mm = re.match(r"^review: (\S+\.md) ", subj)
-        if mm and mm.group(1) not in note_commit:
-            note_commit[mm.group(1)] = sha
-
-    # ---- conservation & compression table -------------------------------
-    cons_rows, cons_bad = [], 0
-    folder_done: Counter = Counter()
-    folder_total: Counter = Counter()
-    for r in wl:
-        if len(r) != 5 or r[0].startswith("cluster:"):
-            continue
-        folder = r[0].split("/", 1)[0]
-        folder_total[folder] += 1
-        if r[2] != "pending":
-            folder_done[folder] += 1
-    for note, tier, status, flags, result in processed_rows:
-        if note.startswith("cluster:"):
-            continue
-        path = ROOT / note
-        after = path.read_text(encoding="utf-8") if path.exists() else ""
-        before = show(base, note)
-        ev_rel = guard.evidence_path(note)
-        ev_after = (ROOT / ev_rel).read_text(encoding="utf-8") \
-            if (ROOT / ev_rel).exists() else ""
-        b_lines = len(before.splitlines()) if before else 0
-        a_lines = len(after.splitlines())
-        ev_n = len(guard.EVIDENCE_ENTRY_RE.findall(ev_after))
-        conserved = True
-        if before:
-            lost = guard.cited_ids(before) - (guard.cited_ids(after)
-                                              | guard.cited_ids(ev_after))
-            conserved = not lost
-        if not conserved:
-            cons_bad += 1
-        sha = note_commit.get(note, "")
-        links = f'<a href="{GH}/blob/{BRANCH}/{note}">note</a>'
-        if ev_after:
-            links += f' · <a href="{GH}/blob/{BRANCH}/{ev_rel}">evidence</a>'
-        if sha:
-            links += f' · <a href="{GH}/commit/{sha}">commit</a>'
-        cons_rows.append(
-            "<tr><td>" + esc(note) + "</td><td>" + esc(tier) + "</td><td>"
-            + esc(status) + '</td><td class="num">'
-            + (f"{b_lines} → {a_lines}" if before else f"new, {a_lines}")
-            + '</td><td class="num">' + str(ev_n) + "</td><td>"
-            + ('<span class="ok">✓</span>' if conserved
-               else '<span class="bad">✗ LOST CITES</span>')
-            + "</td><td>" + esc(flags) + "</td><td>" + links + "</td></tr>")
-
-    # ---- assemble -------------------------------------------------------
-    p: list[str] = [f"<style>{CSS}</style>",
-                    "<h1>Review Watch</h1>",
-                    f'<p class="muted">KB editorial review · branch {BRANCH} '
-                    f"· HEAD {esc(head)} vs base {esc(base[:9])} · built "
-                    f"{time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime(now))}"
-                    "</p>"]
-
-    if stop:
-        p.append('<p class="bad">⛔ STOP file present — the chain is standing '
-                 "down.</p>")
-    p.append('<div class="statgrid">')
-    for label, val, cls in [
-        ("phase", phase, ""),
-        ("model", model, ""),
-        ("pending", statuses.get("pending", 0), ""),
-        ("transformed", statuses.get("transformed", 0), ""),
-        ("fact-checked", statuses.get("fact-checked", 0), ""),
-        ("done", statuses.get("done", 0), ""),
-        ("escalated", statuses.get("escalated", 0),
-         "warn" if statuses.get("escalated", 0) else ""),
-        ("cite-loss notes", cons_bad, "bad" if cons_bad else "ok"),
-        ("last commit", f"{last_age_min} min ago" if last_age_min is not None
-         else "—", ""),
-        ("rate (6h)", f"{rate:.1f}/h", ""),
-        ("rough ETA", f"{eta_h:.0f} h" if eta_h else "—", ""),
-    ]:
-        p.append(f'<div class="stat"><div class="n {cls}">{esc(val)}</div>'
-                 f'<div class="l">{esc(label)}</div></div>')
-    p.append("</div>")
-
-    # folder progress
-    p.append("<h2>Progress by folder</h2><div class='bars'>")
-    for folder in sorted(folder_total, key=lambda f: -folder_total[f]):
-        t, d = folder_total[folder], folder_done[folder]
-        pct = int(100 * d / t) if t else 0
-        p.append(f"<div>{esc(folder)}/</div>"
-                 f"<div class='bar'><div style='width:{pct}%'></div></div>"
-                 f"<div class='num'>{d} / {t}</div>")
-    p.append("</div>")
-
-    # adjudication queues
-    cats = Counter((r[2] if len(r) > 2 else "?") for r in ledger)
-    p.append(f"<h2>Fact-check ledger — your adjudication queue "
-             f"({len(ledger)})</h2><p>")
-    for c, n in cats.most_common():
-        p.append(f'<span class="badge">{esc(c)}: {n}</span>')
-    p.append("</p>")
-    if ledger:
-        p.append('<div class="tbl"><table><tr><th>note</th><th>claim</th>'
-                 "<th>category</th><th>cite</th><th>detail</th></tr>")
-        for r in ledger:
-            cells = (r + [""] * 5)[:5]
-            p.append("<tr>" + "".join(f"<td>{esc(c)}</td>" for c in cells)
-                     + "</tr>")
-        p.append("</table></div>")
-
-    p.append(f"<h2>Relocations ({len(reloc)}, {reloc_pending} pending)</h2>")
-    if reloc:
-        p.append('<div class="tbl"><table><tr><th>src</th><th>dst</th>'
-                 "<th>what</th><th>rationale</th><th>cite</th><th>status</th>"
-                 "</tr>")
-        for r in reloc:
-            p.append("<tr>" + "".join(f"<td>{esc(c)}</td>" for c in r[:6])
-                     + "</tr>")
-        p.append("</table></div>")
-
-    esc_file = ROOT / "sources" / "escalations.md"
-    esc_heads = re.findall(r"^## (.+)$", esc_file.read_text(encoding="utf-8"),
-                           re.M) if esc_file.exists() else []
-    p.append(f"<h2>Escalations ({len(esc_heads)})</h2>")
-    if esc_heads:
-        p.append("<p>" + "".join(f'<span class="badge">{esc(h)}</span>'
-                                 for h in esc_heads[-8:])
-                 + f' <span class="muted">(last 8; full log: '
-                 f'<a href="{GH}/blob/{BRANCH}/sources/escalations.md">'
-                 "sources/escalations.md</a>)</span></p>")
-
-    gap = ROOT / "sources" / "gap-report.md"
-    if gap.exists():
-        gm = re.search(r"_Totals: (.+?)_", gap.read_text(encoding="utf-8"))
-        p.append("<h2>Knowledge gaps</h2><p>"
-                 + esc(gm.group(1) if gm else "see gap-report")
-                 + f' <span class="muted">(<a href="{GH}/blob/{BRANCH}/'
-                 'sources/gap-report.md">full report</a>)</span></p>')
-
-    # conservation table
-    p.append(f"<h2>Conservation &amp; compression "
-             f"({len(cons_rows)} processed notes)</h2>")
-    if cons_rows:
-        p.append('<div class="tbl"><table><tr><th>note</th><th>tier</th>'
-                 "<th>status</th><th>lines</th><th>evidence entries</th>"
-                 "<th>cites conserved</th><th>flags</th><th>links</th></tr>"
-                 + "".join(cons_rows) + "</table></div>")
-    else:
-        p.append('<p class="muted">Nothing processed yet.</p>')
-
-    # recent diffs
-    p.append(f"<h2>Recent transforms (inline diff, last {RECENT_DIFFS})</h2>")
-    shown = 0
-    for sha, _ct, subj in unit_commits:
-        mm = re.match(r"^review: (\S+\.md) ", subj)
-        if not mm:
-            continue
-        note = mm.group(1)
-        before, after = show(base, note), show("HEAD", note)
-        if after is None or before == after:
-            continue
-        shown += 1
-        if shown > RECENT_DIFFS:
-            break
-        p.append(f"<details><summary>{esc(subj)} — "
-                 f'<a href="{GH}/commit/{sha}">commit</a></summary>'
-                 f'<pre class="diff">{diff_html(before or "", after)}</pre>'
-                 "</details>")
-    if not shown:
-        p.append('<p class="muted">No diffs vs base yet.</p>')
-
-    # chain card
-    if args.runs and args.runs.exists():
-        try:
-            runs = json.loads(args.runs.read_text())["workflow_runs"]
-        except Exception:
-            runs = []
-        p.append(f"<h2>Chain (last {len(runs)} chunk runs)</h2><p>")
-        for r in runs:
-            concl = r.get("conclusion") or r.get("status") or "?"
-            cls = ("ok" if concl == "success"
-                   else "bad" if concl in ("failure", "cancelled") else "warn")
-            p.append(f'<span class="badge {cls}">'
-                     f'<a href="{GH}/actions/runs/{r.get("id")}">'
-                     f'{esc(r.get("created_at", "")[:16])}</a> {esc(concl)}'
-                     "</span>")
-        p.append("</p>")
-
-    args.out.write_text("\n".join(p), encoding="utf-8")
-    print(f"review-watch: {len(cons_rows)} processed notes ({cons_bad} "
-          f"cite-loss), {len(ledger)} ledger rows, {len(reloc)} relocations, "
-          f"phase={phase} -> {args.out}")
+    snap = build(base, str(args.runs) if args.runs and args.runs.exists()
+                 else None)
+    payload = json.dumps(snap, ensure_ascii=False).replace(
+        "</script>", "<\\/script>")
+    out_html = HTML.replace("__SNAP__", payload)
+    args.out.parent.mkdir(parents=True, exist_ok=True)
+    args.out.write_text(out_html, encoding="utf-8")
+    print(f"review-watch -> {args.out}  ({len(out_html)/1_000_000:.2f} MB)")
+    print(f"  pages {len(snap['files'])} | processed {snap['processedUnits']}"
+          f"/{snap['totalUnits']} | phase {snap['phase']}"
+          f" | cite-loss {len(snap['consBad'])}")
+    print(f"  ledger {len(snap['ledger'])} | reloc {len(snap['reloc'])}"
+          f" | escalations {len(snap['escal'])} | runs {len(snap['runs'])}")
     return 0
 
 
