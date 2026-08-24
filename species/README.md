@@ -28,7 +28,7 @@
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna — 8–10 lb up to 40–50 lb, with 15–25 lb the average grade.
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md) **[Baja only]** — The Coronados are the springtime yellowtail trip on San Diego's doorstep: an island chain roughly 13 mi out, off the coast of Mexico, whose west side is exposed
-- [Yellowtail](yellowtail.md) — Yellowtail show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and bottom fish stacked on pinnacles and high spots.
+- [Yellowtail](yellowtail.md) — SoCal/Baja yellowtail are a structure-and-bait fish that show three faces: boiling/breezing surface fish, paddy yellows traveling under offshore kelp, and botto
 
 ### Subfolders
 - [evidence/](evidence/README.md)
@@ -107,7 +107,7 @@ graph LR
   n22 --> n24
   n22 --> n8
   n23 --> n24
-  n24 --> n23
+  n24 --> n20
   n3 --> n0
   n3 --> n12
   n3 --> n24

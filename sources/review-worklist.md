@@ -34,7 +34,7 @@ by their builders after the transform phase drains.
 | species/wahoo.md | full | pending |  |  |
 | species/white-seabass.md | full | pending |  |  |
 | species/yellowfin-tuna.md | full | pending |  |  |
-| species/yellowtail.md | full | transformed | gaps(9) fc(1) ledger(4) misplaced(2) | feedback rework (2026-08-24): 563->423 lines, evidence 140->176; all 16 feedback items verified landed; 4 demotions to evidence; zone-guides section + Coronados link + 7 stubs; conservation clean after 3 verifier restorations |
+| species/yellowtail.md | full | transformed | gaps(5) misplaced(2) spots(34) reg-claims(1) | transform verified faithful: 1,556->559-line router + 140-line evidence split, zero information loss found; verifier ran link-maintenance + restored one cross-ref id |
 | techniques/bait-and-switch.md | standard | pending |  |  |
 | techniques/beach-lure-depth-control.md | standard | pending |  |  |
 | techniques/cheater-troll.md | standard | pending |  |  |

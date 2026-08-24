@@ -307,4 +307,5 @@ for locating wahoo specifically. General method:
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
+- [Yellowtail](yellowtail.md)
 <!-- backlinks:end -->

@@ -326,7 +326,6 @@ than iron.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
-- [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
@@ -336,4 +335,5 @@ than iron.
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

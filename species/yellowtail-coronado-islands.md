@@ -136,6 +136,5 @@ are different animals:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Evidence — Yellowtail](evidence/yellowtail.md)
-- [Yellowtail](yellowtail.md)
+_Nothing links here yet._
 <!-- backlinks:end -->

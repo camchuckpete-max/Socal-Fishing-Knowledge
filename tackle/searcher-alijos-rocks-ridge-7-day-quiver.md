@@ -205,4 +205,5 @@ carried into this note beyond this mention (curation bar).
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
+- [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
