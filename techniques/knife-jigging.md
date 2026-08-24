@@ -841,6 +841,7 @@ are logged in
 - [Bluefin Trolling](../species/bluefin-trolling.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Evidence — Bluefin Trolling](../species/evidence/bluefin-trolling.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

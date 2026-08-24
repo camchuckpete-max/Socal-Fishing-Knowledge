@@ -1143,6 +1143,7 @@ shot in [gaffing](../fish-care/gaffing.md).
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — Bluefin Trolling](evidence/bluefin-trolling.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)

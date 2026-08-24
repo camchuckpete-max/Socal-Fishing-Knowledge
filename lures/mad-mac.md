@@ -97,6 +97,7 @@ and how he pairs them to his rods and holders are in
 - [Cedar Plug](cedar-plug.md)
 - [DTX Minnow](dtx-minnow.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Evidence — Bluefin Trolling](../species/evidence/bluefin-trolling.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](halco-laser-pro.md)
 - [Rapala Husky Magnum](rapala-husky-magnum.md)

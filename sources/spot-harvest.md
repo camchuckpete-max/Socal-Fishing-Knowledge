@@ -70,4 +70,7 @@ harvested.
 | La Bocana | species/barracuda.md | Where & when | inshore rock structure named "the Barracuda grounds," distinct from the offshore tuna grounds; jigs to ~80 ft, a hookup "every single drop" | `Cobp85UvHmM`, `qri15R3caYE` |
 | Bahía de los Ángeles | species/barracuda.md | evidence — out of region | repeated shore-caught barracuda from the beach; Sea of Cortez, outside this note's region gate | `HC64Tzc_aTo` |
 | Loreto | species/barracuda.md | evidence — out of region | trolled barracuda called from the fight (no yellowtail head shakes, long profile) | `ikiXx9sUsoA` |
+| Tanner Bank | species/bluefin-trolling.md | evidence — trolling as the search tool | spreader bars trolled to cover ground, then a dead flying fish under the kite on the drift once the sounder marked good numbers; late October 2021 | `vCskOx6N-XM` |
+| San Clemente Island (offshore) | species/bluefin-trolling.md | evidence — situations → techniques | four trolled lines produced multiple smaller-grade bluefin including a double hookup after a marked school refused a thrown scoop of bait | `sHnqSIOjTdM` |
+| San Clemente Island / Catalina Island (offshore) | species/bluefin-trolling.md | evidence — doctrine & conflicts | spreader-bar-plus-Mad-Mac spread worked at 5 and 6–7 mph and again at 15 mph, skipping an unbounded "dead zone" speed range in between | `elBPRrdkugU` |
 <!-- review:harvest:end -->

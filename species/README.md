@@ -5,7 +5,7 @@
 ## Index
 
 - [California Barracuda](barracuda.md) — Barracuda are the toothy member of the SoCal "three B's" — bass, barracuda, bonito — taken off the same kelp lines, boiler rocks and beach edges that hold calic
-- [Bluefin Trolling](bluefin-trolling.md) **[SoCal only]** — The decision spin-out for bluefin tuna: which trolled or towed presentation to pull, and when, by wind, fish grade, water, and sea state.
+- [Bluefin Trolling](bluefin-trolling.md) **[SoCal only]** — Which trolled or towed presentation to pull for SoCal bluefin, and when.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin are SoCal's premier big-game target — a multi-year-resident fishery that runs from sub-30 lb schoolies to 300 lb+ cows in the same season.
 - [Pacific Bonito](bonito.md) — A schooling nearshore pelagic that runs in fast, hard-charging packs on the bait, boiling on the surface and firing up everything around it.
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Region: Baja — Sea of Cortez / Bay of LA (BOLA), panga fishery.

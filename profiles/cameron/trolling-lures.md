@@ -75,6 +75,7 @@ to pull is in [bluefin trolling](../../species/bluefin-trolling.md) and
 - [Cameron's Boat — Panga Marine Marquesas 22](boat.md)
 - [Cedar Plug](../../lures/cedar-plug.md)
 - [DTX Minnow](../../lures/dtx-minnow.md)
+- [Evidence — Bluefin Trolling](../../species/evidence/bluefin-trolling.md)
 - [Halco Laser Pro](../../lures/halco-laser-pro.md)
 - [Mad Mac](../../lures/mad-mac.md)
 - [Rapala Husky Magnum](../../lures/rapala-husky-magnum.md)
