@@ -19,6 +19,12 @@ on:
   schedule:
     - cron: "23 */2 * * *"
   workflow_dispatch:
+  # Immediate kick: touching this file bounces the chain now (a session
+  # without actions:write cannot dispatch; new cron schedules can also skip
+  # their first slots).
+  push:
+    paths:
+      - .github/workflows/review-trampoline.yml
 
 permissions:
   contents: read
