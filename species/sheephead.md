@@ -127,6 +127,7 @@ glassing](../planning/search-and-glassing.md),
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)

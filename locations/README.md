@@ -26,6 +26,7 @@
 - [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The southern Sea of Cortez island fishery — roughly 250 miles south of Bahía de los Ángeles, and a different mix of fish.
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
+- [North County Artificial Reefs](north-county-artificial-reefs.md) **[SoCal only]** — The built-structure zone of San Diego's north county coast: three numbered artificial-reef series — Pendleton, Oceanside and Carlsbad — charted as 38 waypoints
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md) **[Baja only]** — A charted spot at 32°27.380'N 117°18.000'W (cameron), in the Coronado Islands zone.
 - [Pukey Point](pukey-point.md) **[Baja only]** — The northern end of the Coronado Islands chain, at 32°26.850'N 117°18.000'W (cameron).
 - [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer you a fish or a technique that doesn't exist where you're going.
@@ -45,5 +46,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 32 notes exceed the 30-node cap._
+_Map skipped: 33 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -72,6 +72,7 @@ you were dead." (`ty8FtA3Y2bA`)
 ## Linked from
 
 - [Dehooking & Release Handling](dehooking-and-release.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)

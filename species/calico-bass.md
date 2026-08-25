@@ -690,6 +690,7 @@ release *ethic* and the regional policies are below.
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Moon](../conditions/moon.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](bonito.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

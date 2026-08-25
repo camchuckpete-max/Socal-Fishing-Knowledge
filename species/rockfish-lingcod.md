@@ -353,6 +353,7 @@ the *bottom*, not the fish.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

@@ -207,6 +207,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
 - [Catalina Island — Front Side](catalina-island-front-side.md)
+- [North County Artificial Reefs](north-county-artificial-reefs.md)
 <!-- children:end -->
 
 ## Access & range

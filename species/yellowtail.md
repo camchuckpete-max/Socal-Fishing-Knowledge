@@ -400,6 +400,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [May](../seasonal/may.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Pacific Bonito](bonito.md)
 - [Pukey Point](../locations/pukey-point.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

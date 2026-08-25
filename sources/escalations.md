@@ -170,3 +170,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T02:24:09Z — locations/cortez-south.md — verify-escalate
 - run: 32794536436
 - reason: roosterfish 'more reliable further south' propagated to cortez-south/cortez-north/bahia-de-los-angeles, but P36VGPPf120 [00:12:03] states no reliability direction ('higher up in the Sea of Cortez as well') — Cameron to adjudicate across all three notes
+
+## 2026-08-25T02:55:52Z — locations/north-county-artificial-reefs.md — verify-escalate
+- run: 32794536436
+- reason: 38 library waypoints published as zero spot pages vs CLAUDE.md 'EVERY spot gets a page'; Cameron to rule: one page per series, 38 mechanical pages, or formal sub-pixel-cluster exemption — same question hits San Diego ARs, International Reef, Torrey Pines

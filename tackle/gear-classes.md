@@ -302,6 +302,7 @@ does the lookup.
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Ned Rig](../techniques/ned-rig.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)

@@ -300,6 +300,7 @@ into the spot once the current read right.
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Moon](../conditions/moon.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [October](../seasonal/october.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

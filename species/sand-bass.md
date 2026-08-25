@@ -172,6 +172,7 @@ rocks.
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Moon](../conditions/moon.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
+- [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
