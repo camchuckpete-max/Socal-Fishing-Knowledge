@@ -207,6 +207,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
 - [172 / 125](172-125.md)
+- [51 / 181 / 138](51-181-138.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
@@ -289,6 +290,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [51 / 181 / 138](51-181-138.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)

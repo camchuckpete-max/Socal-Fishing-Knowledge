@@ -74,6 +74,7 @@ the fleet behavior correctly before you run to it. See
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [51 / 181 / 138](../locations/51-181-138.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

@@ -301,6 +301,7 @@ become primary).
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
+- [51 / 181 / 138](../locations/51-181-138.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)

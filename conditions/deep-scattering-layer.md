@@ -124,6 +124,7 @@ and structure concentrate this water is in
 <!-- backlinks:start -->
 ## Linked from
 
+- [51 / 181 / 138](../locations/51-181-138.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

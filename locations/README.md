@@ -43,6 +43,7 @@
 - [480](480.md) **[Baja only]** — A charted spot at 31°42.000'N 117°18.000'W (cameron), in the 385 / 238 / 475 zone.
 - [5-Minute Kelp](5-minute-kelp.md) **[Baja only]** — A charted spot at 32°22.940'N 117°13.515'W (cameron), in the Coronado Islands zone.
 - [5 Tanks](5-tanks.md) **[SoCal only]** — A charted spot at 32°40.870'N 117°16.160'W (cameron), in the Point Loma zone.
+- [51 / 181 / 138](51-181-138.md) **[SoCal only]** — A zone is a run grouping.
 - [52](52.md) **[Baja only]** — A charted spot at 31°06.817'N 116°34.250'W (cameron), in the Colonet zone.
 - [6.5 Fathom Spot](6-5-fathom-spot.md) **[Baja only]** — A charted spot at 30°25.600'N 116°09.100'W (cameron), in the San Quintin zone.
 - [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md) **[Baja only]** — A charted spot at 32°04.000'N 118°14.833'W (cameron), in the Upper Cross / 421 / 390 zone.
@@ -322,5 +323,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 309 notes exceed the 30-node cap._
+_Map skipped: 310 notes exceed the 30-node cap._
 <!-- mermaid:end -->

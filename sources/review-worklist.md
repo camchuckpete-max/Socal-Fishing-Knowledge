@@ -326,7 +326,7 @@ by their builders after the transform phase drains.
 | locations/south-orange-county-crystal-cove.md | geo | transformed | gaps:11 stubs:1 fc:0 spots:3 | new zone page verified — coordinates, deltas and all four cites trace to source; missing Evidence section added; zero-corpus stretch written as charted-position arithmetic plus labelled Bight-wide doctrine, Abalone Point MPA corner geometry surfaced |
 | locations/172-125.md | geo | transformed | gaps:11 stubs:2 fc:0 spots:3 | apply-with-changes: new zone page under socal-bight; coords/23 derived distances/4 transcript cites verified; 4 numeric+meaning fixes applied, 1 attribution fix in evidence |
 | locations/slide-152-277.md | geo | transformed | gaps:8 stubs:1 fc:0 spots:3 | escalate(apply): new zone page under socal-bight; census + 20+ derived distances/bearings + 5 transcript cites verified; 7 fixes applied (2 geometry, 2 meaning-drift, 2 false gap flags, 1 bearing wording) |
-| locations/51-181-138.md | geo | pending |  | zone: 3 spots, 3 notes |
+| locations/51-181-138.md | geo | transformed | gaps:11 stubs:2 spots:3 | apply-with-changes: new zone page under socal-bight; census membership, coordinates, all distances/bearings and 4 transcript cites verified; 5 fixes applied (distance range, front-matter figure, compass descriptor, quoted-term drift, ladder scope) |
 | locations/81-381.md | geo | pending |  | zone: 3 spots, 1 notes |
 | locations/43-91-300.md | geo | pending |  | zone: 3 spots, 14 notes |
 | locations/w-butterfly-157.md | geo | pending |  | zone: 3 spots, 0 notes |

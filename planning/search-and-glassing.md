@@ -406,6 +406,7 @@ current "should" carry everything astern.
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [51 / 181 / 138](../locations/51-181-138.md)
 - [August](../seasonal/august.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](../bait/bait-tanks.md)

@@ -197,6 +197,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md)
+- [51 / 181 / 138](51-181-138.md)
 - [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md)
 - [Evidence — La Jolla](evidence/la-jolla.md)
 - [Imperial Beach](imperial-beach.md)

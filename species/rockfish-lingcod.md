@@ -343,6 +343,7 @@ the *bottom*, not the fish.
 - [172 / 125](../locations/172-125.md)
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
+- [51 / 181 / 138](../locations/51-181-138.md)
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bluefin Tuna](bluefin-tuna.md)
