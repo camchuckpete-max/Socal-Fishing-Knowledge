@@ -19,7 +19,7 @@ self-sequence at each chunk checkpoint as their zone pages land.
 Kill switch unchanged: a `STOP` file at the branch root. Model lever:
 `MODEL_OVERRIDE` in `.github/workflows/review-chunk.yml`.
 
-Both gate artifacts are BUILT and waiting on Cameron's review:
+The two gate artifacts Cameron reviewed to give that approval:
 
 1. **Five exemplars** — `species/bluefin-tuna-trolling.md`,
    `species/yellowtail-surface-iron.md`, `locations/mexican-waters.md`,
@@ -45,9 +45,9 @@ behind his post-build review.
 
 ## Amendment v2.2 — the sub-article ladder (2026-08-24, cameron)
 
-**GATE A is RE-OPENED by this amendment.** The fleet is paused (Cameron's
-weekly limit; `STOP` at the branch root) and resumes only on a fresh
-`PLAN APPROVED` after he reviews the two gate artifacts below.
+**GATE A was RE-OPENED by this amendment and re-given 2026-08-24** after
+Cameron reviewed the two gate artifacts below. Kept as the record of why the
+gate re-opened; the live state is the status block at the top of this file.
 
 Cameron's two asks, which turned out to be one gap — the KB had no middle
 rung, so depth either bloated a top-level page or had nowhere to live:

@@ -21,7 +21,7 @@ knowledge is distilled *out* of these into the branch notes, never the reverse.
 ## Index
 
 - [Judgment calls](judgment-calls.md) — Decisions the review made that a human should see.
-- [Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer](plan-review.md) — Status (2026-08-24, current): FLEET PAUSED.
+- [Plan: Full KB Editorial Review — structure, rewrite, evidence split, fact check, gazetteer](plan-review.md) — Status (2026-08-24, current): GATE A UNLOCKED — RUNNING.
 - [Plan: distributed `socal-boat-day` skill + `config/` endpoint layer](plan-socal-boat-day-skill.md) — The governing plan for shipping the multi-user boat-day skill: a thin packaged bootstrap plus a live, editable endpoint layer in the repo.
 - [Plan: Build SoCal/Baja Fishing Knowledgebase](plan.md) — Status: Cameron's PLAN APPROVED for this revision was given 2026-08-12 (after the resuming session's state report).
 - [Regulatory Claims Register](regulatory-claims.md) — Every regulation-shaped claim in the knowledgebase, in one place, so it can be re-verified in one pass.
