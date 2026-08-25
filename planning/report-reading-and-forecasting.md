@@ -113,6 +113,7 @@ Fold the output of this note back into the
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

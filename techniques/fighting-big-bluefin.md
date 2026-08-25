@@ -619,6 +619,7 @@ rods come tight on big bluefin together.
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Kite Fishing](kite-fishing.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

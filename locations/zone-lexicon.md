@@ -144,6 +144,7 @@ many *drops*.
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Lower Cross](lower-cross.md)

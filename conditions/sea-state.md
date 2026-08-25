@@ -195,6 +195,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Evidence — LA - 270 / 286](../locations/evidence/la-270-286.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Island Structure](../locations/island-structure.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [November–December](../seasonal/november-december.md)

@@ -373,6 +373,7 @@ the *bottom*, not the fish.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)

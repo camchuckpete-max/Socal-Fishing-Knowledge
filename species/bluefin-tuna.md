@@ -476,6 +476,7 @@ Trip reports and per-source provenance:
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)

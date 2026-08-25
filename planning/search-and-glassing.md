@@ -439,6 +439,7 @@ current "should" carry everything astern.
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)

@@ -69,6 +69,7 @@ the same structure.
 - [Evidence — Cortez North](../locations/evidence/cortez-north.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

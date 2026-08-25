@@ -418,6 +418,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Island Structure](../locations/island-structure.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [LA - 270 / 286](../locations/la-270-286.md)

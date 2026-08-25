@@ -277,6 +277,7 @@ Trip reports and per-source provenance:
 - [Isthmus Reef (caution — shoals; stay W of MPA at 118 29.300)](isthmus-reef.md)
 - [Jewfish Point](jewfish-point.md)
 - [Johnson Rock (caution — boiler rocks)](johnson-rock.md)
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [Lions Head (partial-take SMCA, no inverts; stay S from 33 27.170)](lions-head.md)
 - [Little Gibraltar Main Big Rock (stay W of MPA at 118 24.000)](little-gibraltar-main-big-rock.md)

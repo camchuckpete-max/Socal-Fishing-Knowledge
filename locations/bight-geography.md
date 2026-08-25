@@ -83,6 +83,7 @@ share it).
 - [Evidence — The Boot (504) / 307](evidence/boot-504-307.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [October](../seasonal/october.md)
 - [Santa Barbara Island](santa-barbara-island.md)

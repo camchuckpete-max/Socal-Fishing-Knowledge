@@ -217,6 +217,7 @@
 - [Isthmus Reef (caution — shoals; stay W of MPA at 118 29.300)](isthmus-reef.md) **[SoCal only]** — A charted spot at 33°26.869'N 118°29.448'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Jewfish Point](jewfish-point.md) **[SoCal only]** — A charted spot at 33°19.225'N 118°18.169'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Johnson Rock (caution — boiler rocks)](johnson-rock.md) **[SoCal only]** — A charted spot at 33°28.653'N 118°35.363'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md) **[SoCal only]** — A zone is a run grouping.
 - [LA - 270 / 286](la-270-286.md) **[SoCal only]** — A zone is a run grouping.
 - [La Bufadora](la-bufadora.md) **[Baja only]** — A charted spot at 31°43.440'N 116°43.380'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md) **[Baja only]** — A zone is a run grouping.
@@ -379,5 +380,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 366 notes exceed the 30-node cap._
+_Map skipped: 367 notes exceed the 30-node cap._
 <!-- mermaid:end -->

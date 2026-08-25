@@ -306,6 +306,7 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 
 - [170](170.md)
 - [Hidden Reef](hidden-reef.md)
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

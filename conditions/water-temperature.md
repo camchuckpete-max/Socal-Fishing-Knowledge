@@ -188,6 +188,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)

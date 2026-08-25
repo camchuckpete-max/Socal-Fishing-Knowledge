@@ -174,5 +174,6 @@ Island."
 <!-- backlinks:start -->
 ## Linked from
 
+- [Kidney Bank (63) / 175](../kidney-bank-63-175.md)
 - [Santa Barbara Island](../santa-barbara-island.md)
 <!-- backlinks:end -->

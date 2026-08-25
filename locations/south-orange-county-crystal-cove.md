@@ -202,6 +202,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [Abalone Point (stay N/W of MPA at 33 33.233 x 117 49.200)](abalone-point.md)
 - [Crystal Cove / Number 2 Spot](crystal-cove-number-2-spot.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [Pelican Point / Number 1 Spot](pelican-point-number-1-spot.md)
 - [Southern California Bight](socal-bight.md)

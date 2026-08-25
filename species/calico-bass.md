@@ -697,6 +697,7 @@ release *ethic* and the regional policies are below.
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

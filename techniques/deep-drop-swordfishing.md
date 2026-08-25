@@ -106,6 +106,7 @@ for the Bight.
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
+- [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)

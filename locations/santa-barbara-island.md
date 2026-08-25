@@ -264,6 +264,7 @@ Trip reports and per-source provenance:
 - [Caverns Area](caverns-area.md)
 - [Evidence — Santa Barbara Island](evidence/santa-barbara-island.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [Landing Cove](landing-cove.md)
 - [Osborn Bank](osborn-bank.md)
