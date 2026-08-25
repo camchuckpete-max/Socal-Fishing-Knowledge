@@ -162,3 +162,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-24T19:56:23Z — species/bluefin-tuna.md — verify-escalate
 - run: 32765473828
 - reason: calendar-vs-water-state decision frame now effectively ranks Cameron's water-first stance above the corpus year-anniversary prior, adjudicating a conflict Cameron is a party to; Cameron's kite-since-July-2026 / helium-balloon-ruled-out / 80-140 lb foamer-preference items flagged misplaced-content and queued to profiles/cameron/tackle.md - both need Cameron's sign-off. Secondary: 2 of 4 new fact-check-ledger rows (spawning inference; 70-72 F band) have no matching inline flag, so the one-to-one rule is loose there.
+
+## 2026-08-25T00:58:31Z — locations/socal-bight.md — guard-violation
+- run: 32794536436
+- reason: commit 66557a0e3849d3b493f794d3c2489419048e32d4 reverted: out of scope for 'review: locations/socal-bight.md': locations/us-waters.md
