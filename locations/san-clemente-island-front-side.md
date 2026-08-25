@@ -215,7 +215,9 @@ Charted positions for all seven spots are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Purse Seine Rock](purse-seine-rock.md)
+- [Pyramid Cove](pyramid-cove.md)
+- [Pyramid Reef](pyramid-reef.md)
 <!-- children:end -->
 
 ## Evidence
@@ -228,5 +230,8 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)
+- [Purse Seine Rock](purse-seine-rock.md)
+- [Pyramid Cove](pyramid-cove.md)
+- [Pyramid Reef](pyramid-reef.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

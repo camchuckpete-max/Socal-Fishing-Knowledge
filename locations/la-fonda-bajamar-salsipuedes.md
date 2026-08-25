@@ -158,7 +158,11 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [97](97.md)
+- [Bajamar](bajamar.md)
+- [La Fonda](la-fonda.md)
+- [Punta Mesquite](punta-mesquite.md)
+- [Punta Salsipuedes](punta-salsipuedes.md)
 <!-- children:end -->
 
 ## Evidence
@@ -170,6 +174,11 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [97](97.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Bajamar](bajamar.md)
 - [Ensenada](ensenada.md)
+- [La Fonda](la-fonda.md)
+- [Punta Mesquite](punta-mesquite.md)
+- [Punta Salsipuedes](punta-salsipuedes.md)
 <!-- backlinks:end -->

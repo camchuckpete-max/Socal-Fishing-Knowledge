@@ -206,7 +206,10 @@ list of the coast's pipes rather than a description of this one
 (`Kf5wk_TFgTc`).
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Imperial Beach Flats](imperial-beach-flats.md)
+- [Imperial Beach Kelp](imperial-beach-kelp.md)
+- [Imperial Beach Kelp South End](imperial-beach-kelp-south-end.md)
+- [Imperial Beach Pipe](imperial-beach-pipe.md)
 <!-- children:end -->
 
 ## Evidence
@@ -219,5 +222,9 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — Imperial Beach](evidence/imperial-beach.md)
+- [Imperial Beach Flats](imperial-beach-flats.md)
+- [Imperial Beach Kelp](imperial-beach-kelp.md)
+- [Imperial Beach Kelp South End](imperial-beach-kelp-south-end.md)
+- [Imperial Beach Pipe](imperial-beach-pipe.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

@@ -146,7 +146,12 @@ detail beyond its position and, for two of them, the word *rockfish* in the
 label.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Bull Ring](bull-ring.md)
+- [Descanso rockfish 1](descanso-rockfish-1.md)
+- [Descanso rockfish 2](descanso-rockfish-2.md)
+- [Punta Descanso](punta-descanso.md)
+- [Rosarito Flats (big area)](rosarito-flats.md)
+- [Sugarloaf Rock](sugarloaf-rock.md)
 <!-- children:end -->
 
 ## Evidence
@@ -159,6 +164,12 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Bull Ring](bull-ring.md)
+- [Descanso rockfish 1](descanso-rockfish-1.md)
+- [Descanso rockfish 2](descanso-rockfish-2.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
+- [Punta Descanso](punta-descanso.md)
+- [Rosarito Flats (big area)](rosarito-flats.md)
+- [Sugarloaf Rock](sugarloaf-rock.md)
 <!-- backlinks:end -->

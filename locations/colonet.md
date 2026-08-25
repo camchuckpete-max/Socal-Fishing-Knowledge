@@ -186,7 +186,10 @@ Four charted positions (cameron), in two groups:
   detail beyond its position.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [330](330.md)
+- [52](52.md)
+- [Colonet 41 Fathoms](colonet-41-fathoms.md)
+- [Colonet High Spot 28 Fathoms](colonet-high-spot-28-fathoms.md)
 <!-- children:end -->
 
 ## Evidence
@@ -198,6 +201,10 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [330](330.md)
+- [52](52.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Colonet 41 Fathoms](colonet-41-fathoms.md)
+- [Colonet High Spot 28 Fathoms](colonet-high-spot-28-fathoms.md)
 - [Evidence — Colonet](evidence/colonet.md)
 <!-- backlinks:end -->

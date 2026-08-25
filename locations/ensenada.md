@@ -258,7 +258,10 @@ positions for all four are in [the spot library](../sources/spot-lists.md); the
 per-spot pages carry them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Punta Banda (caution — boilers)](punta-banda.md)
+- [Punta Morro](punta-morro.md)
+- [Punta San Miguel](punta-san-miguel.md)
+- [San Miguel Reef](san-miguel-reef.md)
 <!-- children:end -->
 
 ## Evidence
@@ -271,4 +274,8 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Ensenada](evidence/ensenada.md)
+- [Punta Banda (caution — boilers)](punta-banda.md)
+- [Punta Morro](punta-morro.md)
+- [Punta San Miguel](punta-san-miguel.md)
+- [San Miguel Reef](san-miguel-reef.md)
 <!-- backlinks:end -->

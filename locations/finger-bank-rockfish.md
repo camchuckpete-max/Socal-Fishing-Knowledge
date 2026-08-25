@@ -153,7 +153,11 @@ detail beyond its position and the depth in its own name, so each spot page is
 coordinates plus its parent zone until sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Upper Finger Bank 27 Fathom Spot](upper-finger-bank-27-fathom-spot.md)
+- [Upper Finger Bank 71 Fathom Spot](upper-finger-bank-71-fathom-spot.md)
+- [Upper Finger Bank rockfish 180ft](upper-finger-bank-rockfish-180ft.md)
+- [Upper Finger Bank rockfish 240ft](upper-finger-bank-rockfish-240ft.md)
+- [Upper Finger Bank rockfish 300ft](upper-finger-bank-rockfish-300ft.md)
 <!-- children:end -->
 
 ## Evidence
@@ -167,4 +171,9 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Upper Finger Bank 27 Fathom Spot](upper-finger-bank-27-fathom-spot.md)
+- [Upper Finger Bank 71 Fathom Spot](upper-finger-bank-71-fathom-spot.md)
+- [Upper Finger Bank rockfish 180ft](upper-finger-bank-rockfish-180ft.md)
+- [Upper Finger Bank rockfish 240ft](upper-finger-bank-rockfish-240ft.md)
+- [Upper Finger Bank rockfish 300ft](upper-finger-bank-rockfish-300ft.md)
 <!-- backlinks:end -->
