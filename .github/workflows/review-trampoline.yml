@@ -20,6 +20,12 @@ name: review-trampoline
 # name resolves against the default-branch registry — without them this
 # trampoline's `gh workflow run` 404s. Runs execute the review branch's
 # copies via --ref. All three retire together at GATE B.
+#
+# 2026-08-24 (resume): GATE A re-given for amendment v2.2. The chain now runs
+# the geographic ladder FIRST — jurisdiction, regions, zones — before the note
+# transforms, so a note being rewritten can link a real zone page. Minimum
+# spot pages are generated mechanically at each chunk checkpoint rather than
+# by the fleet, which is why the remaining run is ~41 chunks and not ~83.
 
 on:
   schedule:
