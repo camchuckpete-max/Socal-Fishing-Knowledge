@@ -196,7 +196,18 @@ Jetty, and that mention is a name in a list of SoCal walls rather than a
 description of this wall (`XyKF34C5iB4`).
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [5 Tanks](5-tanks.md)
+- [Buoy 3 Hardbottom](buoy-3-hardbottom.md)
+- [College Area / Sunset Cliffs](college-area-sunset-cliffs.md)
+- [Green Tank](green-tank.md)
+- [Hill Street](hill-street.md)
+- [Hotel Del Hardbottom](hotel-del-hardbottom.md)
+- [New Hope Rock](new-hope-rock.md)
+- [Point Loma Pipe](point-loma-pipe.md)
+- [The Dropoff](dropoff.md)
+- [The Lab](lab.md)
+- [Whistler Buoy](whistler-buoy.md)
+- [Zuniga Jetty](zuniga-jetty.md)
 <!-- children:end -->
 
 ## Evidence
@@ -207,6 +218,18 @@ Trip reports and per-source provenance: [evidence file](evidence/point-loma.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [5 Tanks](5-tanks.md)
+- [Buoy 3 Hardbottom](buoy-3-hardbottom.md)
+- [College Area / Sunset Cliffs](college-area-sunset-cliffs.md)
 - [Evidence — Point Loma](evidence/point-loma.md)
+- [Green Tank](green-tank.md)
+- [Hill Street](hill-street.md)
+- [Hotel Del Hardbottom](hotel-del-hardbottom.md)
+- [New Hope Rock](new-hope-rock.md)
+- [Point Loma Pipe](point-loma-pipe.md)
 - [Southern California Bight](socal-bight.md)
+- [The Dropoff](dropoff.md)
+- [The Lab](lab.md)
+- [Whistler Buoy](whistler-buoy.md)
+- [Zuniga Jetty](zuniga-jetty.md)
 <!-- backlinks:end -->

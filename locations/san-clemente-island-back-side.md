@@ -196,7 +196,16 @@ Charted positions for all twelve spots are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [29 Fathom Spot](29-fathom-spot.md)
+- [9 Fathom Spot](9-fathom-spot.md)
+- [China Point (San Clemente Is.)](china-point.md)
+- [Eel Point](eel-point.md)
+- [Lost Point](lost-point.md)
+- [Mail Point](mail-point.md)
+- [Seal Cove](seal-cove.md)
+- [The Caves](caves.md)
+- [The Dunes](dunes.md)
+- [West Cove (San Clemente Is.)](west-cove.md)
 <!-- children:end -->
 
 ## Evidence
@@ -208,7 +217,17 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [29 Fathom Spot](29-fathom-spot.md)
+- [9 Fathom Spot](9-fathom-spot.md)
+- [China Point (San Clemente Is.)](china-point.md)
 - [Dana Point](dana-point.md)
+- [Eel Point](eel-point.md)
 - [Evidence — San Clemente Island, Back Side](evidence/san-clemente-island-back-side.md)
+- [Lost Point](lost-point.md)
+- [Mail Point](mail-point.md)
+- [Seal Cove](seal-cove.md)
 - [Southern California Bight](socal-bight.md)
+- [The Caves](caves.md)
+- [The Dunes](dunes.md)
+- [West Cove (San Clemente Is.)](west-cove.md)
 <!-- backlinks:end -->

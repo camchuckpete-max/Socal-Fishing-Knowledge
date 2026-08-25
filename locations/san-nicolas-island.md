@@ -204,7 +204,16 @@ Charted positions for all ten are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Airplane Rock](airplane-rock.md)
+- [Blockhouse](blockhouse.md)
+- [Cherry Banks](cherry-banks.md)
+- [Daytona Beach](daytona-beach.md)
+- [Daytona WSB zone](daytona-wsb-zone.md)
+- [Dutch Harbor](dutch-harbor.md)
+- [East End Buoy](east-end-buoy.md)
+- [East End squid grounds (big area)](east-end-squid-grounds.md)
+- [Potato Bank](potato-bank.md)
+- [Seabass Rock](seabass-rock.md)
 <!-- children:end -->
 
 ## Evidence
@@ -216,6 +225,16 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Airplane Rock](airplane-rock.md)
+- [Blockhouse](blockhouse.md)
+- [Cherry Banks](cherry-banks.md)
+- [Daytona Beach](daytona-beach.md)
+- [Daytona WSB zone](daytona-wsb-zone.md)
+- [Dutch Harbor](dutch-harbor.md)
+- [East End Buoy](east-end-buoy.md)
+- [East End squid grounds (big area)](east-end-squid-grounds.md)
 - [Evidence — San Nicolas Island](evidence/san-nicolas-island.md)
+- [Potato Bank](potato-bank.md)
+- [Seabass Rock](seabass-rock.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

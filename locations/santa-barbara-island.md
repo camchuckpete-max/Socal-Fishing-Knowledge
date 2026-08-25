@@ -239,7 +239,14 @@ pages. Charted positions for all eight are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Arch Reef (caution — boilers in big swell)](arch-reef.md)
+- [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md)
+- [Caverns Area](caverns-area.md)
+- [Landing Cove](landing-cove.md)
+- [Osborn Bank](osborn-bank.md)
+- [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md)
+- [Three Sisters (caution — boilers)](three-sisters.md)
+- [Webster Point](webster-point.md)
 <!-- children:end -->
 
 ## Evidence
@@ -251,6 +258,14 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Arch Reef (caution — boilers in big swell)](arch-reef.md)
+- [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md)
+- [Caverns Area](caverns-area.md)
 - [Evidence — Santa Barbara Island](evidence/santa-barbara-island.md)
+- [Landing Cove](landing-cove.md)
+- [Osborn Bank](osborn-bank.md)
 - [Southern California Bight](socal-bight.md)
+- [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md)
+- [Three Sisters (caution — boilers)](three-sisters.md)
+- [Webster Point](webster-point.md)
 <!-- backlinks:end -->

@@ -126,7 +126,18 @@ beyond its position, so each spot page will be coordinates plus its parent zone
 until sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [15 Fa Ridge](15-fa-ridge.md)
+- [33 Fa. Spot](33-fa-spot.md)
+- [38 Fa. Spot](38-fa-spot.md)
+- [47 Fa. Spot](47-fa-spot.md)
+- [48 Fa. Spot](48-fa-spot.md)
+- [Bahia Soledad](bahia-soledad.md)
+- [Billy's Bluff](billy-s-bluff.md)
+- [El Retiro](el-retiro.md)
+- [Isolete](isolete.md)
+- [La Bufadora](la-bufadora.md)
+- [Punta Santo Tomas](punta-santo-tomas.md)
+- [White Rock](white-rock.md)
 <!-- children:end -->
 
 ## Evidence
@@ -138,6 +149,18 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [15 Fa Ridge](15-fa-ridge.md)
+- [33 Fa. Spot](33-fa-spot.md)
+- [38 Fa. Spot](38-fa-spot.md)
+- [47 Fa. Spot](47-fa-spot.md)
+- [48 Fa. Spot](48-fa-spot.md)
+- [Bahia Soledad](bahia-soledad.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Billy's Bluff](billy-s-bluff.md)
+- [El Retiro](el-retiro.md)
 - [Evidence — Punta Banda / Santo Tomas](evidence/punta-banda-santo-tomas.md)
+- [Isolete](isolete.md)
+- [La Bufadora](la-bufadora.md)
+- [Punta Santo Tomas](punta-santo-tomas.md)
+- [White Rock](white-rock.md)
 <!-- backlinks:end -->

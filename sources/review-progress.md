@@ -1,11 +1,11 @@
 # Review progress
 
-Last update: 2026-08-25 04:07 UTC (run 32803269144)
+Last update: 2026-08-25 05:03 UTC (run 32807753866)
 
 | total | pending | transformed | fact-checked | done | skipped | escalated | reverted |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 440 | 358 | 27 | 0 | 55 | 0 | 0 | 0 |
+| 516 | 368 | 35 | 0 | 113 | 0 | 0 | 0 |
 
-Rows by tier: full 24, gazetteer 103, geo 83, light 99, standard 131
+Rows by tier: full 24, gazetteer 179, geo 83, light 99, standard 131
 Pending relocations: 7
 Escalation entries in sources/escalations.md: 39

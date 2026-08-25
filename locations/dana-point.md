@@ -236,7 +236,15 @@ carries corpus detail beyond its position and, for the Dana Point kelp bed, the
 one July session above.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Barber Poles](barber-poles.md)
+- [Dana Point Kelp — Red Buoy](dana-point-kelp-red-buoy.md)
+- [Monarch Boilers](monarch-boilers.md)
+- [Salt Creek](salt-creek.md)
+- [San Clemente Artificial Reef (mainland city)](san-clemente-artificial-reef.md)
+- [San Clemente Kelp (mainland city)](san-clemente-kelp.md)
+- [San Mateo Point](san-mateo-point.md)
+- [The Hospital 100 Fathom Curve (stay S of MPA at 33 30.050)](hospital-100-fathom-curve.md)
+- [Trestles](trestles.md)
 <!-- children:end -->
 
 ## Evidence
@@ -247,6 +255,15 @@ Trip reports and per-source provenance: [evidence file](evidence/dana-point.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barber Poles](barber-poles.md)
+- [Dana Point Kelp — Red Buoy](dana-point-kelp-red-buoy.md)
 - [Evidence — Dana Point](evidence/dana-point.md)
+- [Monarch Boilers](monarch-boilers.md)
+- [Salt Creek](salt-creek.md)
+- [San Clemente Artificial Reef (mainland city)](san-clemente-artificial-reef.md)
+- [San Clemente Kelp (mainland city)](san-clemente-kelp.md)
+- [San Mateo Point](san-mateo-point.md)
 - [Southern California Bight](socal-bight.md)
+- [The Hospital 100 Fathom Curve (stay S of MPA at 33 30.050)](hospital-100-fathom-curve.md)
+- [Trestles](trestles.md)
 <!-- backlinks:end -->

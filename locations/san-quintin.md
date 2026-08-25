@@ -162,7 +162,14 @@ in [What's there](#whats-there) and the
 [evidence file](evidence/san-quintin.md).
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [15 Fathom Spot](15-fathom-spot.md)
+- [304](304.md)
+- [6.5 Fathom Spot](6-5-fathom-spot.md)
+- [Breakers Reef](breakers-reef.md)
+- [Roca Ben (caution — shoals/boilers)](roca-ben.md)
+- [San Martin Island Anchorage](san-martin-island-anchorage.md)
+- [San Martin Island Natural Jetty Kelp](san-martin-island-natural-jetty-kelp.md)
+- [Tranquillo Kelp](tranquillo-kelp.md)
 <!-- children:end -->
 
 ## Evidence
@@ -174,6 +181,14 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [15 Fathom Spot](15-fathom-spot.md)
+- [304](304.md)
+- [6.5 Fathom Spot](6-5-fathom-spot.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Breakers Reef](breakers-reef.md)
 - [Evidence — San Quintin](evidence/san-quintin.md)
+- [Roca Ben (caution — shoals/boilers)](roca-ben.md)
+- [San Martin Island Anchorage](san-martin-island-anchorage.md)
+- [San Martin Island Natural Jetty Kelp](san-martin-island-natural-jetty-kelp.md)
+- [Tranquillo Kelp](tranquillo-kelp.md)
 <!-- backlinks:end -->

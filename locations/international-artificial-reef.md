@@ -186,7 +186,13 @@ page per series or one page per waypoint is an open question awaiting Cameron
 whatever the gazetteer phase builds.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [International Reef A](international-reef-a.md)
+- [International Reef B](international-reef-b.md)
+- [International Reef C](international-reef-c.md)
+- [International Reef D](international-reef-d.md)
+- [International Reef E](international-reef-e.md)
+- [International Reef F](international-reef-f.md)
+- [International Reef Missile Tower](international-reef-missile-tower.md)
 <!-- children:end -->
 
 ## Evidence
@@ -199,5 +205,12 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
+- [International Reef A](international-reef-a.md)
+- [International Reef B](international-reef-b.md)
+- [International Reef C](international-reef-c.md)
+- [International Reef D](international-reef-d.md)
+- [International Reef E](international-reef-e.md)
+- [International Reef F](international-reef-f.md)
+- [International Reef Missile Tower](international-reef-missile-tower.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->
