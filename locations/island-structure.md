@@ -177,6 +177,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [Lower Cross](lower-cross.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

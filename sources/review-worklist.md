@@ -346,7 +346,7 @@ by their builders after the transform phase drains.
 | locations/474-711.md | geo | transformed | gaps:14 stubs:1 spots:2 | geo verify: new zone page, all coordinates/distances/bearings/areas reproduce from the census + spot library; 1 dropped corpus specific restored and 1 endpoint-choice inference qualified |
 | locations/209-312.md | geo | transformed | gaps:9 stubs:2 spots:2 | new zone page verified — coordinates, distances, bearings and 12 nm clustering reproduce from the census/spot library; 1 mis-cite re-sourced, 1 source added to front matter, 2 evidence dates stamped, 1 tally corrected |
 | locations/289-284.md | geo | transformed | gaps:13 stubs:1 spots:2 | applied with 5 verifier fixes: 1 cite misattribution, 1 direction error (seaward to inshore), 3 precision/scope wordings; all coordinates, distances and bearings independently recomputed and correct; census row unaltered |
-| locations/north-9-mile-bank-178.md | geo | pending |  | zone: 2 spots, 2 notes |
+| locations/north-9-mile-bank-178.md | geo | transformed | gaps:16 stubs:4 fc:2 spots:2 | geo zone page verified against census + spot library and 4 transcripts; two derived-distance errors fixed; 2 fact-check rows ledgered (South/Lower 9 Mile region anomaly, unmapped 'upper nine' reading) |
 | locations/south-9-mile-bank-439.md | geo | pending |  | zone: 2 spots, 1 notes |
 | locations/e-butterfly-san-salvador-knoll.md | geo | pending |  | zone: 2 spots, 0 notes |
 | locations/101-425.md | geo | pending |  | zone: 2 spots, 0 notes |

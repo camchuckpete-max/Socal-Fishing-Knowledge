@@ -433,6 +433,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [May](../seasonal/may.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)

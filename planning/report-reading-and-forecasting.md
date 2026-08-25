@@ -119,6 +119,7 @@ Fold the output of this note back into the
 - [June–July](../seasonal/june-july.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

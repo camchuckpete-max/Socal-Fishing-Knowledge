@@ -196,6 +196,7 @@ doctrine above or add a SoCal-specific parameter.
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

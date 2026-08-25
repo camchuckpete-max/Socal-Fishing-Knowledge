@@ -35,6 +35,7 @@
 - [Evidence — La Jolla](la-jolla.md) — The observation layer behind La Jolla.
 - [Evidence — Loreto & Puerto Escondido](loreto.md) — The observation layer behind Loreto & Puerto Escondido.
 - [Evidence — Mexican waters](mexican-waters.md) — The observation layer behind Mexican waters.
+- [Evidence — North 9 Mile Bank / 178](north-9-mile-bank-178.md) — Provenance for North 9 Mile Bank / 178.
 - [Evidence — North County Artificial Reefs](north-county-artificial-reefs.md) — The observation layer behind North County Artificial Reefs.
 - [Evidence — Oceanside / North County](oceanside-north-county.md) — The observation layer behind Oceanside / North County.
 - [Evidence — Point Loma](point-loma.md) — The observation layer behind Point Loma.
@@ -55,5 +56,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 45 notes exceed the 30-node cap._
+_Map skipped: 46 notes exceed the 30-node cap._
 <!-- mermaid:end -->

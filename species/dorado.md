@@ -503,6 +503,7 @@ grade, or technique detail given for the dorado specifically.
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

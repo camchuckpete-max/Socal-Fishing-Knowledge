@@ -273,6 +273,7 @@ circle-hook rig detail logged in
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)

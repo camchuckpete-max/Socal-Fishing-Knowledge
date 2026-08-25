@@ -126,6 +126,7 @@ Trip reports and per-source provenance:
 - [Imperial Beach](imperial-beach.md)
 - [Lighthouse](lighthouse.md)
 - [Lower 9 Mile Bank](lower-9-mile-bank.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md)
 - [Pukey Point](pukey-point.md)
 - [Ribbon Kelp](ribbon-kelp.md)

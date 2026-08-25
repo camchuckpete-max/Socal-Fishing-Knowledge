@@ -254,6 +254,7 @@
 - [Monarch Boilers](monarch-boilers.md) **[SoCal only]** — A charted spot at 33°28.970'N 117°44.020'W (cameron), in the Dana Point zone.
 - [Mushroom](mushroom.md) **[SoCal only]** — A charted spot at 32°04.000'N 118°30.000'W (cameron), in the W.
 - [New Hope Rock](new-hope-rock.md) **[SoCal only]** — A charted spot at 32°41.140'N 117°15.990'W (cameron), in the Point Loma zone.
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md) **[SoCal only]** — A zone is a run grouping.
 - [North County Artificial Reefs](north-county-artificial-reefs.md) **[SoCal only]** — The built-structure zone of San Diego's north county coast: three numbered artificial-reef series — Pendleton, Oceanside and Carlsbad — charted as 38 waypoints
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md) **[Baja only]** — A charted spot at 32°27.380'N 117°18.000'W (cameron), in the Coronado Islands zone.
 - [Northwest Corner](northwest-corner.md) **[SoCal only]** — A charted spot at 32°50.630'N 117°18.460'W (cameron), in the La Jolla zone.
@@ -384,5 +385,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 371 notes exceed the 30-node cap._
+_Map skipped: 372 notes exceed the 30-node cap._
 <!-- mermaid:end -->

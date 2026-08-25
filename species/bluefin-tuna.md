@@ -490,6 +490,7 @@ Trip reports and per-source provenance:
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [May](../seasonal/may.md)
 - [Moon](../conditions/moon.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
 - [Point Loma](../locations/point-loma.md)

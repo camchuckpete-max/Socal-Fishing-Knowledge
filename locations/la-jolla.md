@@ -208,6 +208,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [La Jolla Canyon Shelf rockfish area](la-jolla-canyon-shelf-rockfish-area.md)
 - [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md)
 - [Marine Street](marine-street.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [Northwest Corner](northwest-corner.md)
 - [Point Loma](point-loma.md)
 - [Southern California Bight](socal-bight.md)

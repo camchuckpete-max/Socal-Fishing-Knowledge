@@ -172,6 +172,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [Wahoo](../species/wahoo.md)

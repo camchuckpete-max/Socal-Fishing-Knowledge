@@ -117,6 +117,7 @@ out-of-region.
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Mexican waters](mexican-waters.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [Source Registry](../sources/source-registry.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

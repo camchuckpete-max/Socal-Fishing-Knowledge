@@ -154,6 +154,7 @@ many *drops*.
 - [LA - 270 / 286](la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Lower Cross](lower-cross.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)

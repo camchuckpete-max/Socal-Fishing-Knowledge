@@ -41,4 +41,5 @@ A charted spot at **32°54.000'N 117°18.800'W** (cameron), in the [La Jolla](la
 ## Linked from
 
 - [La Jolla](la-jolla.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 <!-- backlinks:end -->

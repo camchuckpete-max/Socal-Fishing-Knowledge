@@ -74,6 +74,7 @@ itself. This is captured as doctrine in
 - [LA - 270 / 286](la-270-286.md)
 - [La Jolla](la-jolla.md)
 - [Lower Cross](lower-cross.md)
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [Southern California Bight](socal-bight.md)
 - [The Boot (504) / 307](boot-504-307.md)

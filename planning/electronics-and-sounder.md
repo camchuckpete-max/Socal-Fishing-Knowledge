@@ -499,6 +499,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [La Jolla](../locations/la-jolla.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
