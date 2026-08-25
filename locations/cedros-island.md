@@ -420,6 +420,7 @@ Trip reports and per-source provenance:
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
+- [San Quintin](san-quintin.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)

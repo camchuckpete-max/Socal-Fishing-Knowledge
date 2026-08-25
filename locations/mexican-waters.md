@@ -100,5 +100,6 @@ Trip reports and per-source provenance:
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [San Quintin](san-quintin.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

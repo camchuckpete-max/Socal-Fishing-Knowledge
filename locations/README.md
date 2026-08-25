@@ -127,6 +127,7 @@
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md) **[SoCal only]** — The built-structure zone off central San Diego: 18 charted waypoints in the spot library (cameron), in three groups — Torrey Pines AR 1–2, the twelve-point Paci
 - [San Nicolas Island](san-nicolas-island.md) **[SoCal only]** — A zone is a run grouping.
 - [San Onofre Kelp](san-onofre-kelp.md) **[SoCal only]** — A charted spot at 33°20.880'N 117°34.050'W (cameron), in the Oceanside / North County zone.
+- [San Quintin](san-quintin.md) **[Baja only]** — A zone is a run grouping.
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
 - [Seal Rocks](seal-rocks.md) **[SoCal only]** — A charted spot at 33°18.395'N 118°18.259'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Sentinel Rock](sentinel-rock.md) **[SoCal only]** — A charted spot at 33°22.559'N 118°29.327'W (cameron), in the Catalina Island — Backside (W→E) zone.
@@ -158,5 +159,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 145 notes exceed the 30-node cap._
+_Map skipped: 146 notes exceed the 30-node cap._
 <!-- mermaid:end -->

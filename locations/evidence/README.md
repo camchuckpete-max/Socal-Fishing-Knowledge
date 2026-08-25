@@ -25,6 +25,7 @@
 - [Evidence — San Clemente Island, Back Side](san-clemente-island-back-side.md) — The observation layer behind San Clemente Island — Back Side.
 - [Evidence — San Diego Artificial Reefs](san-diego-artificial-reefs.md) — The observation layer behind San Diego Artificial Reefs.
 - [Evidence — San Nicolas Island](san-nicolas-island.md) — The observation layer behind San Nicolas Island.
+- [Evidence — San Quintin](san-quintin.md) — The observation layer behind San Quintin.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
 - [Evidence — US waters](us-waters.md) — The observation layer behind US waters.
 <!-- index:end -->
@@ -56,8 +57,9 @@ graph LR
   n18["Evidence — San Clemente Island, Back Side"]
   n19["Evidence — San Diego Artificial Reefs"]
   n20["Evidence — San Nicolas Island"]
-  n21["Evidence — Southern California Bight"]
-  n22["Evidence — US waters"]
+  n21["Evidence — San Quintin"]
+  n22["Evidence — Southern California Bight"]
+  n23["Evidence — US waters"]
   n12 --> n0
 ```
 <!-- mermaid:end -->

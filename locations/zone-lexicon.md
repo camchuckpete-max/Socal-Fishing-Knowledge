@@ -132,6 +132,7 @@ many *drops*.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [San Nicolas Island](san-nicolas-island.md)
+- [San Quintin](san-quintin.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
