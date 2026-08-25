@@ -106,6 +106,7 @@
 - [Ponto](ponto.md) **[SoCal only]** — A charted spot at 33°05.235'N 117°19.183'W (cameron), in the Oceanside / North County zone.
 - [Powerhouse Kelp](powerhouse-kelp.md) **[SoCal only]** — A charted spot at 32°57.564'N 117°16.743'W (cameron), in the Oceanside / North County zone.
 - [Pukey Point](pukey-point.md) **[Baja only]** — The northern end of the Coronado Islands chain, at 32°26.850'N 117°18.000'W (cameron).
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md) **[Baja only]** — The coastal stretch immediately south of Ensenada, from La Bufadora down to Punta Santo Tomás, and the densest coastal spot list in Baja Pacific — North — twelv
 - [Red Bluff](red-bluff.md) **[SoCal only]** — A charted spot at 33°25.822'N 118°26.119'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer you a fish or a technique that doesn't exist where you're going.
 - [Ribbon Kelp](ribbon-kelp.md) **[Baja only]** — A charted spot at 32°24.800'N 117°13.880'W (cameron), in the Coronado Islands zone.
@@ -154,5 +155,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 141 notes exceed the 30-node cap._
+_Map skipped: 142 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -99,5 +99,6 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Pukey Point](pukey-point.md)
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

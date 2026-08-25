@@ -200,6 +200,7 @@ them.
 
 <!-- children:start -->
 - [Cedros / San Benitos](cedros-island.md)
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 <!-- children:end -->
 
 ## Access & range
@@ -259,4 +260,5 @@ Trip reports and per-source provenance:
 - [Cortez North](cortez-north.md)
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)
 - [Mexican waters](mexican-waters.md)
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 <!-- backlinks:end -->

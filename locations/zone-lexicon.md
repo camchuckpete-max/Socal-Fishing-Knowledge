@@ -127,6 +127,7 @@ many *drops*.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

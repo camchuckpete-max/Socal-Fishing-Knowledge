@@ -72,6 +72,7 @@ current-over-structure mechanism ties it together in
 - [Oceanside / North County](oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Point Loma](point-loma.md)
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->
