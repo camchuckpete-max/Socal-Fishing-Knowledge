@@ -345,6 +345,17 @@ def set_row_status(note: str, status: str, result: str,
     m = pat.search(text)
     if not m:
         return False
+    # A tier whose output is cited prose must land on `transformed`, because
+    # that is the status the fact-check phase selects on. A row parked at
+    # `done` is silently skipped — it never gets checked and nothing reports
+    # it. Workers do write `done` here (four rows needed hand-fixing during
+    # the geo phase), so coerce rather than trust: coercing keeps the chain
+    # moving, where refusing would stall the unit.
+    tier = m.group(1).strip()
+    if status == "done" and tier in ("full", "standard", "geo"):
+        print(f"note: {note} is tier {tier}; status 'done' would skip the "
+              f"fact-check phase — recording 'transformed'", file=sys.stderr)
+        status = "transformed"
     clean = _fit(result.replace("|", "/").replace("\n", " "))
     fl = (flags if flags is not None else m.group(3).strip())
     new = f"| {note} | {m.group(1)}| {status} | {fl} | {clean} |"

@@ -183,7 +183,12 @@ No waypoint in the zone carries corpus detail beyond its position, except the
 Ingraham St Bridge (`AH4Eiya1Hn0`).
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Mission Bay Park Artificial Kelp Reef](mission-bay-park-artificial-kelp-reef.md)
+- [Mission Bay Park Ingraham St Bridge Rubble](mission-bay-park-ingraham-st-bridge-rubble.md)
+- [Mission Bay Park NEL Tower](mission-bay-park-nel-tower.md)
+- [Mission Bay Park Pier Pilings](mission-bay-park-pier-pilings.md)
+- [Pacific Beach AR](pacific-beach-ar.md)
+- [Torrey Pines Artificial Reef](torrey-pines-artificial-reef.md)
 <!-- children:end -->
 
 ## Evidence
@@ -196,5 +201,11 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — San Diego Artificial Reefs](evidence/san-diego-artificial-reefs.md)
+- [Mission Bay Park Artificial Kelp Reef](mission-bay-park-artificial-kelp-reef.md)
+- [Mission Bay Park Ingraham St Bridge Rubble](mission-bay-park-ingraham-st-bridge-rubble.md)
+- [Mission Bay Park NEL Tower](mission-bay-park-nel-tower.md)
+- [Mission Bay Park Pier Pilings](mission-bay-park-pier-pilings.md)
+- [Pacific Beach AR](pacific-beach-ar.md)
 - [Southern California Bight](socal-bight.md)
+- [Torrey Pines Artificial Reef](torrey-pines-artificial-reef.md)
 <!-- backlinks:end -->

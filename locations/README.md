@@ -4,64 +4,111 @@
 <!-- index:start -->
 ## Index
 
+- [The 270 rockfish area](270-rockfish-area.md) **[SoCal only]** — A charted spot at 32°46.710'N 117°20.890'W (cameron), in the La Jolla zone.
+- [3 V's](3-v-s.md) **[SoCal only]** — A charted spot at 33°18.540'N 118°21.290'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md) **[SoCal only]** — A charted spot at 32°50.750'N 117°19.950'W (cameron), in the La Jolla zone.
 - [3rd V Cod 1 (36 fa)](3rd-v-cod-1-36-fa.md) **[SoCal only]** — A charted spot at 33°18.160'N 118°22.960'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [3rd V Cod 2 (31 fa)](3rd-v-cod-2-31-fa.md) **[SoCal only]** — A charted spot at 33°17.620'N 118°22.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [5-Minute Kelp](5-minute-kelp.md) **[Baja only]** — A charted spot at 32°22.940'N 117°13.515'W (cameron), in the Coronado Islands zone.
+- [The Airplane rockfish area](airplane-rockfish-area.md) **[SoCal only]** — A charted spot at 32°45.570'N 117°18.460'W (cameron), in the La Jolla zone.
+- [Anderson Pipe](anderson-pipe.md) **[SoCal only]** — A charted spot at 33°06.770'N 117°20.100'W (cameron), in the Oceanside / North County zone.
 - [Arrow Point (partial-take SMCA, no inverts; stay W of 118 32.310)](arrow-point.md) **[SoCal only]** — A charted spot at 33°28.661'N 118°32.274'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Avalon Bank](avalon-bank.md) **[SoCal only]** — A charted spot at 33°24.700'N 118°13.500'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md) **[Baja only]** — The drive-in panga zone of the northern Sea of Cortez, and the one ground in Cortez North the corpus documents in depth.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md) **[Baja only]** — Four fisheries stacked in one bay, which is also the region's answer to a blown-out day.
 - [Baja Pacific — North](baja-pacific-north.md) **[Baja only]** — The character rung.
 - [Baja Pacific — South](baja-pacific-south.md) **[Baja only]** — The character rung.
+- [Barn Kelp](barn-kelp.md) **[SoCal only]** — A charted spot at 33°17.015'N 117°29.475'W (cameron), in the Oceanside / North County zone.
 - [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on — reading it and setting up on it.
 - [Bays and Harbors](bays-and-harbors.md) **[SoCal only]** — How a SoCal bay or harbor is laid out for fishing — the universal structure a new-to-SoCal angler should be able to name and read on any of them (San Diego Bay,
+- [Beacons](beacons.md) **[SoCal only]** — A charted spot at 33°03.775'N 117°18.750'W (cameron), in the Oceanside / North County zone.
+- [Ben Weston Point](ben-weston-point.md) **[SoCal only]** — A charted spot at 33°21.512'N 118°29.637'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Bight Geography](bight-geography.md) **[SoCal only]** — The big-picture map of the Southern California Bight for planning: which zones the NW wind wrecks and which ride it out, the path the warm water band tracks thr
 - [BightSST Eval Targets](bightsst-eval-targets.md) **[SoCal only]** — The named evaluation spots Cameron's BightSST platform uses to test its upwelling / turnover detection — a fixed, small set of locations the model is scored aga
 - [Bird Rock Reef (stay W of MPA at 118 29.300)](bird-rock-reef.md) **[SoCal only]** — A charted spot at 33°27.120'N 118°29.330'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Box Canyon rockfish area](box-canyon-rockfish-area.md) **[SoCal only]** — A charted spot at 33°17.290'N 117°34.150'W (cameron), in the Oceanside / North County zone.
 - [Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md) **[SoCal only]** — Man-made rock structure — harbor break walls, jetties, and riprap channel edges — read as fishing structure.
+- [Buccaneer Pipe](buccaneer-pipe.md) **[SoCal only]** — A charted spot at 33°10.340'N 117°22.700'W (cameron), in the Oceanside / North County zone.
+- [The Bump](bump.md) **[SoCal only]** — A charted spot at 32°51.490'N 117°16.910'W (cameron), in the La Jolla zone.
 - [Can Dump Kelp](can-dump-kelp.md) **[SoCal only]** — A charted spot at 33°19.819'N 118°18.416'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Cape Cortes](cape-cortes.md) **[SoCal only]** — A charted spot at 33°25.701'N 118°31.996'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Carlsbad AR](carlsbad-ar.md) **[SoCal only]** — The Carlsbad AR series — 12 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
+- [Carlsbad Canyon](carlsbad-canyon.md) **[SoCal only]** — A charted spot at 33°07.500'N 117°21.400'W (cameron), in the Oceanside / North County zone.
+- [Cat Harbor (partial-take SMCA inside — see DFW)](cat-harbor.md) **[SoCal only]** — A charted spot at 33°25.422'N 118°30.500'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Catalina - China Point (partial-take SMCA — see DFW)](catalina-china-point.md) **[SoCal only]** — A charted spot at 33°19.700'N 118°28.130'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Catalina Island — Backside](catalina-island-backside.md) **[SoCal only]** — The ocean-facing side of Catalina, running W→E from Eagle Rock at the West End to Seal Rocks at the east end, with 21 charted spots (cameron).
 - [Catalina Island — Front Side](catalina-island-front-side.md) **[SoCal only]** — The mainland-facing side of Catalina, running W→E from Johnson Rock at the West End to The Slide at the east end, with 22 charted shoreline spots, 17 charted ro
+- [Catalina - West Cove](catalina-west-cove.md) **[SoCal only]** — A charted spot at 33°28.000'N 118°35.850'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Cedros / San Benitos](cedros-island.md) **[Baja only]** — [Baja only] — the island complex at the south end of Baja Pacific — North: Cedros Island, the San Benito Islands, Geronimo Island and Chester's Rock, with Punta
+- [Church Rock](church-rock.md) **[SoCal only]** — A charted spot at 33°17.750'N 118°19.700'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Clam Beds](clam-beds.md) **[SoCal only]** — A charted spot at 33°14.300'N 117°27.300'W (cameron), in the Oceanside / North County zone.
 - [Coronado Canyon](coronado-canyon.md) **[Baja only]** — A charted spot at 32°30.300'N 117°17.500'W (cameron), in the Coronado Islands zone.
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
 - [Cortez North](cortez-north.md) **[Baja only]** — The character rung.
 - [Cortez South](cortez-south.md) **[Baja only]** — The character rung.
+- [The Cove (stay west of MPA at 117 16.400)](cove.md) **[SoCal only]** — A charted spot at 32°51.340'N 117°16.620'W (cameron), in the La Jolla zone.
+- [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md) **[SoCal only]** — A charted spot at 32°47.580'N 117°16.580'W (cameron), in the La Jolla zone.
+- [Del Mar rockfish area](del-mar-rockfish-area.md) **[SoCal only]** — A charted spot at 32°57.191'N 117°17.981'W (cameron), in the Oceanside / North County zone.
 - [Eagle Reef Buoy](eagle-reef-buoy.md) **[SoCal only]** — A charted spot at 33°27.620'N 118°30.395'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Eagle Rock](eagle-rock.md) **[SoCal only]** — A charted spot at 33°28.350'N 118°36.320'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [East End Light](east-end-light.md) **[SoCal only]** — A charted spot at 33°18.027'N 118°18.883'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [East End Quarry](east-end-quarry.md) **[SoCal only]** — A charted spot at 33°19.320'N 118°18.230'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [East End Rockfish 1 (46 fa)](east-end-rockfish-1-46-fa.md) **[SoCal only]** — A charted spot at 33°17.190'N 118°18.320'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [East End Rockfish 2 (48 fa)](east-end-rockfish-2-48-fa.md) **[SoCal only]** — A charted spot at 33°17.240'N 118°18.340'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [East End Rockfish 3 (47 fa)](east-end-rockfish-3-47-fa.md) **[SoCal only]** — A charted spot at 33°17.220'N 118°18.420'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md) **[Baja only]** — A charted spot at 32°27.000'N 117°14.100'W (cameron), in the Coronado Islands zone.
 - [Empire Landing](empire-landing.md) **[SoCal only]** — A charted spot at 33°25.730'N 118°26.570'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Encina Powerplant Pipe](encina-powerplant-pipe.md) **[SoCal only]** — A charted spot at 33°08.060'N 117°20.860'W (cameron), in the Oceanside / North County zone.
+- [Encinitas rockfish / Devil's Rock North (stay N of SMCA at 33 03.000)](encinitas-rockfish-devil-s-rock-north.md) **[SoCal only]** — A charted spot at 33°03.130'N 117°20.920'W (cameron), in the Oceanside / North County zone.
+- [Flat Rock](flat-rock.md) **[SoCal only]** — A charted spot at 32°54.755'N 117°15.755'W (cameron), in the Oceanside / North County zone.
 - [Gallaghers](gallaghers.md) **[SoCal only]** — A charted spot at 33°21.927'N 118°20.420'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Golf Ball](golf-ball.md) **[SoCal only]** — A charted spot at 33°14.400'N 117°26.270'W (cameron), in the Oceanside / North County zone.
+- [The Half](half.md) **[SoCal only]** — A charted spot at 32°51.220'N 117°17.620'W (cameron), in the La Jolla zone.
 - [Hen Rock Kelp](hen-rock-kelp.md) **[SoCal only]** — A charted spot at 33°23.981'N 118°21.975'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Indian Rock (partial-take SMCA, no inverts)](indian-rock.md) **[SoCal only]** — A charted spot at 33°28.120'N 118°31.550'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Iron Bound](iron-bound.md) **[SoCal only]** — A charted spot at 33°26.835'N 118°34.689'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Island Structure](island-structure.md) **[SoCal only]** — Universal typology of SoCal island and bank structure — the shapes the bottom takes and how current has to run across each shape to make it fish.
 - [Isthmus Reef (caution — shoals; stay W of MPA at 118 29.300)](isthmus-reef.md) **[SoCal only]** — A charted spot at 33°26.869'N 118°29.448'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Jewfish Point](jewfish-point.md) **[SoCal only]** — A charted spot at 33°19.225'N 118°18.169'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Johnson Rock (caution — boiler rocks)](johnson-rock.md) **[SoCal only]** — A charted spot at 33°28.653'N 118°35.363'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [La Jolla Canyon Shelf rockfish area](la-jolla-canyon-shelf-rockfish-area.md) **[SoCal only]** — A charted spot at 32°52.500'N 117°19.000'W (cameron), in the La Jolla zone.
+- [La Jolla Canyon](la-jolla-canyon.md) **[SoCal only]** — A charted spot at 32°54.000'N 117°18.800'W (cameron), in the La Jolla zone.
+- [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md) **[SoCal only]** — A charted spot at 32°51.300'N 117°19.250'W (cameron), in the La Jolla zone.
 - [La Jolla](la-jolla.md) **[SoCal only]** — The San Diego coastal zone at the head of La Jolla Canyon: 14 charted spots in the spot library (cameron) — the thirteen of the library's own La Jolla section p
+- [Leucadia rockfish area](leucadia-rockfish-area.md) **[SoCal only]** — A charted spot at 33°04.100'N 117°20.600'W (cameron), in the Oceanside / North County zone.
 - [Lighthouse](lighthouse.md) **[Baja only]** — A charted spot at 32°23.290'N 117°14.570'W (cameron), in the Coronado Islands zone.
 - [Lions Head (partial-take SMCA, no inverts; stay S from 33 27.170)](lions-head.md) **[SoCal only]** — A charted spot at 33°27.235'N 118°30.073'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Little Gibraltar Main Big Rock (stay W of MPA at 118 24.000)](little-gibraltar-main-big-rock.md) **[SoCal only]** — A charted spot at 33°25.391'N 118°24.603'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Little Harbor](little-harbor.md) **[SoCal only]** — A charted spot at 33°23.073'N 118°28.563'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Lobster Bay](lobster-bay.md) **[SoCal only]** — A charted spot at 33°25.667'N 118°31.448'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Long Point (stay E/S of MPA at 33 24.380 x 118 21.980)](long-point.md) **[SoCal only]** — A charted spot at 33°24.350'N 118°21.930'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The island end of Cortez South: a fishery worked around a cluster of big islands rather than off a mainland shore.
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
+- [Marine Street](marine-street.md) **[SoCal only]** — A charted spot at 32°50.175'N 117°17.715'W (cameron), in the La Jolla zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
+- [Mission Bay Park Artificial Kelp Reef](mission-bay-park-artificial-kelp-reef.md) **[SoCal only]** — A charted spot at 32°46.200'N 117°16.067'W (cameron), in the San Diego artificial reefs zone.
+- [Mission Bay Park Ingraham St Bridge Rubble](mission-bay-park-ingraham-st-bridge-rubble.md) **[SoCal only]** — A charted spot at 32°45.930'N 117°16.278'W (cameron), in the San Diego artificial reefs zone.
+- [Mission Bay Park NEL Tower](mission-bay-park-nel-tower.md) **[SoCal only]** — A charted spot at 32°46.367'N 117°16.050'W (cameron), in the San Diego artificial reefs zone.
+- [Mission Bay Park Pier Pilings](mission-bay-park-pier-pilings.md) **[SoCal only]** — A charted spot at 32°45.850'N 117°16.517'W (cameron), in the San Diego artificial reefs zone.
 - [North County Artificial Reefs](north-county-artificial-reefs.md) **[SoCal only]** — The built-structure zone of San Diego's north county coast: three numbered artificial-reef series — Pendleton, Oceanside and Carlsbad — charted as 38 waypoints
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md) **[Baja only]** — A charted spot at 32°27.380'N 117°18.000'W (cameron), in the Coronado Islands zone.
+- [Northwest Corner](northwest-corner.md) **[SoCal only]** — A charted spot at 32°50.630'N 117°18.460'W (cameron), in the La Jolla zone.
 - [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md) **[SoCal only]** — A charted spot at 33°13.050'N 117°25.402'W (cameron), in the North County artificial reefs zone.
 - [Oceanside AR](oceanside-ar.md) **[SoCal only]** — The Oceanside AR series — 19 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
 - [Oceanside / North County](oceanside-north-county.md) **[SoCal only]** — The mainland coastal strip of San Diego's north county: 18 charted spots in the spot library (cameron), running from San Onofre Kelp (33°20.880'N 117°34.050'W)
+- [Pacific Beach AR](pacific-beach-ar.md) **[SoCal only]** — The Pacific Beach AR series — 12 charted waypoints on one artificial-reef complex, in the San Diego artificial reefs zone.
+- [Palisades](palisades.md) **[SoCal only]** — A charted spot at 33°19.060'N 118°22.430'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Parson's Landing](parson-s-landing.md) **[SoCal only]** — A charted spot at 33°28.589'N 118°33.043'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Pedestal Rock](pedestal-rock.md) **[SoCal only]** — A charted spot at 33°24.069'N 118°29.344'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Pendleton AR Center](pendleton-ar-center.md) **[SoCal only]** — A charted spot at 33°19.500'N 117°31.700'W (cameron), in the North County artificial reefs zone.
 - [Pendleton AR](pendleton-ar.md) **[SoCal only]** — The Pendleton AR series — 5 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
+- [Ponto](ponto.md) **[SoCal only]** — A charted spot at 33°05.235'N 117°19.183'W (cameron), in the Oceanside / North County zone.
+- [Powerhouse Kelp](powerhouse-kelp.md) **[SoCal only]** — A charted spot at 32°57.564'N 117°16.743'W (cameron), in the Oceanside / North County zone.
 - [Pukey Point](pukey-point.md) **[Baja only]** — The northern end of the Coronado Islands chain, at 32°26.850'N 117°18.000'W (cameron).
 - [Red Bluff](red-bluff.md) **[SoCal only]** — A charted spot at 33°25.822'N 118°26.119'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer you a fish or a technique that doesn't exist where you're going.
 - [Ribbon Kelp](ribbon-kelp.md) **[Baja only]** — A charted spot at 32°24.800'N 117°13.880'W (cameron), in the Coronado Islands zone.
+- [Ribbon Rock](ribbon-rock.md) **[SoCal only]** — A charted spot at 33°26.408'N 118°34.482'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Rockpile](rockpile.md) **[Baja only]** — A charted spot at 32°17.620'N 117°10.030'W (cameron), in the Coronado Islands zone.
 - [Salta Verde Cod 1 (48 fa)](salta-verde-cod-1-48-fa.md) **[SoCal only]** — A charted spot at 33°17.760'N 118°24.070'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod 2 (43 fa)](salta-verde-cod-2-43-fa.md) **[SoCal only]** — A charted spot at 33°17.830'N 118°23.750'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -72,18 +119,29 @@
 - [Salta Verde Cod 7 (40 fa)](salta-verde-cod-7-40-fa.md) **[SoCal only]** — A charted spot at 33°18.140'N 118°24.630'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod 8 (43 fa)](salta-verde-cod-8-43-fa.md) **[SoCal only]** — A charted spot at 33°18.180'N 118°25.210'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod Pinnacle](salta-verde-cod-pinnacle.md) **[SoCal only]** — A charted spot at 33°18.660'N 118°24.900'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Salta Verde](salta-verde.md) **[SoCal only]** — A charted spot at 33°18.842'N 118°24.963'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md) **[SoCal only]** — The built-structure zone off central San Diego: 18 charted waypoints in the spot library (cameron), in three groups — Torrey Pines AR 1–2, the twelve-point Paci
+- [San Onofre Kelp](san-onofre-kelp.md) **[SoCal only]** — A charted spot at 33°20.880'N 117°34.050'W (cameron), in the Oceanside / North County zone.
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
+- [Seal Rocks](seal-rocks.md) **[SoCal only]** — A charted spot at 33°18.395'N 118°18.259'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Sentinel Rock](sentinel-rock.md) **[SoCal only]** — A charted spot at 33°22.559'N 118°29.327'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Ship Rock (stay W of MPA at 118 29.300)](ship-rock.md) **[SoCal only]** — A charted spot at 33°27.760'N 118°29.430'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Silver Canyon](silver-canyon.md) **[SoCal only]** — A charted spot at 33°19.174'N 118°23.361'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [The Slide (Catalina)](slide.md) **[SoCal only]** — A charted spot at 33°18.800'N 118°18.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Southern California Bight](socal-bight.md) **[SoCal only]** — The character rung.
+- [Solana Beach Kelp](solana-beach-kelp.md) **[SoCal only]** — A charted spot at 32°59.410'N 117°17.300'W (cameron), in the Oceanside / North County zone.
 - [South Kelp Ridge](south-kelp-ridge.md) **[Baja only]** — A charted spot at 32°22.000'N 117°13.260'W (cameron), in the Coronado Islands zone.
 - [Stony Point](stony-point.md) **[SoCal only]** — A charted spot at 33°28.517'N 118°33.342'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Terramar Kelp](terramar-kelp.md) **[SoCal only]** — A charted spot at 33°07.490'N 117°20.440'W (cameron), in the Oceanside / North County zone.
+- [Torrey Pines Artificial Reef](torrey-pines-artificial-reef.md) **[SoCal only]** — The Torrey Pines Artificial Reef series — 2 charted waypoints on one artificial-reef complex, in the San Diego artificial reefs zone.
 - [Toyon Bay](toyon-bay.md) **[SoCal only]** — A charted spot at 33°22.544'N 118°21.171'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [US waters](us-waters.md) — The paperwork rung.
 - [West End Humps 1](west-end-humps-1.md) **[SoCal only]** — A charted spot at 33°28.000'N 118°37.160'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [West End Humps 2](west-end-humps-2.md) **[SoCal only]** — A charted spot at 33°27.880'N 118°37.170'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [West End Humps 3](west-end-humps-3.md) **[SoCal only]** — A charted spot at 33°27.840'N 118°36.830'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Whale Rock](whale-rock.md) **[SoCal only]** — A charted spot at 33°25.960'N 118°33.559'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [Widow Rock](widow-rock.md) **[SoCal only]** — A charted spot at 32°45.970'N 117°22.170'W (cameron), in the La Jolla zone.
+- [Windansea (stay north of MPA at 32 49.573)](windansea.md) **[SoCal only]** — A charted spot at 32°49.716'N 117°17.508'W (cameron), in the La Jolla zone.
 - [Yellowtail Point (stay E of MPA at 118 27.000)](yellowtail-point.md) **[SoCal only]** — A charted spot at 33°26.000'N 118°26.920'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Zone Lexicon](zone-lexicon.md) **[SoCal only]** — The vocabulary of SoCal fishing zones — how to name a spot, how to think about a spot as a *box* rather than a pin, and how big that box is.
 
@@ -95,5 +153,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 82 notes exceed the 30-node cap._
+_Map skipped: 140 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -197,7 +197,24 @@ Charted positions for all eighteen are in
 carries corpus detail beyond its position.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Anderson Pipe](anderson-pipe.md)
+- [Barn Kelp](barn-kelp.md)
+- [Beacons](beacons.md)
+- [Box Canyon rockfish area](box-canyon-rockfish-area.md)
+- [Buccaneer Pipe](buccaneer-pipe.md)
+- [Carlsbad Canyon](carlsbad-canyon.md)
+- [Clam Beds](clam-beds.md)
+- [Del Mar rockfish area](del-mar-rockfish-area.md)
+- [Encina Powerplant Pipe](encina-powerplant-pipe.md)
+- [Encinitas rockfish / Devil's Rock North (stay N of SMCA at 33 03.000)](encinitas-rockfish-devil-s-rock-north.md)
+- [Flat Rock](flat-rock.md)
+- [Golf Ball](golf-ball.md)
+- [Leucadia rockfish area](leucadia-rockfish-area.md)
+- [Ponto](ponto.md)
+- [Powerhouse Kelp](powerhouse-kelp.md)
+- [San Onofre Kelp](san-onofre-kelp.md)
+- [Solana Beach Kelp](solana-beach-kelp.md)
+- [Terramar Kelp](terramar-kelp.md)
 <!-- children:end -->
 
 ## Evidence
@@ -209,6 +226,24 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Anderson Pipe](anderson-pipe.md)
+- [Barn Kelp](barn-kelp.md)
+- [Beacons](beacons.md)
+- [Box Canyon rockfish area](box-canyon-rockfish-area.md)
+- [Buccaneer Pipe](buccaneer-pipe.md)
+- [Carlsbad Canyon](carlsbad-canyon.md)
+- [Clam Beds](clam-beds.md)
+- [Del Mar rockfish area](del-mar-rockfish-area.md)
+- [Encina Powerplant Pipe](encina-powerplant-pipe.md)
+- [Encinitas rockfish / Devil's Rock North (stay N of SMCA at 33 03.000)](encinitas-rockfish-devil-s-rock-north.md)
 - [Evidence — Oceanside / North County](evidence/oceanside-north-county.md)
+- [Flat Rock](flat-rock.md)
+- [Golf Ball](golf-ball.md)
+- [Leucadia rockfish area](leucadia-rockfish-area.md)
+- [Ponto](ponto.md)
+- [Powerhouse Kelp](powerhouse-kelp.md)
+- [San Onofre Kelp](san-onofre-kelp.md)
+- [Solana Beach Kelp](solana-beach-kelp.md)
 - [Southern California Bight](socal-bight.md)
+- [Terramar Kelp](terramar-kelp.md)
 <!-- backlinks:end -->

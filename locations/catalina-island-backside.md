@@ -186,7 +186,26 @@ Charted positions for all twenty-one spots are in
 [the spot library](../sources/spot-lists.md); the per-spot pages carry them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [3 V's](3-v-s.md)
+- [Ben Weston Point](ben-weston-point.md)
+- [Cape Cortes](cape-cortes.md)
+- [Cat Harbor (partial-take SMCA inside — see DFW)](cat-harbor.md)
+- [Catalina - China Point (partial-take SMCA — see DFW)](catalina-china-point.md)
+- [Catalina - West Cove](catalina-west-cove.md)
+- [Church Rock](church-rock.md)
+- [Eagle Rock](eagle-rock.md)
+- [East End Light](east-end-light.md)
+- [Iron Bound](iron-bound.md)
+- [Little Harbor](little-harbor.md)
+- [Lobster Bay](lobster-bay.md)
+- [Palisades](palisades.md)
+- [Pedestal Rock](pedestal-rock.md)
+- [Ribbon Rock](ribbon-rock.md)
+- [Salta Verde](salta-verde.md)
+- [Seal Rocks](seal-rocks.md)
+- [Sentinel Rock](sentinel-rock.md)
+- [Silver Canyon](silver-canyon.md)
+- [Whale Rock](whale-rock.md)
 <!-- children:end -->
 
 ## Evidence
@@ -198,6 +217,26 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [3 V's](3-v-s.md)
+- [Ben Weston Point](ben-weston-point.md)
+- [Cape Cortes](cape-cortes.md)
+- [Cat Harbor (partial-take SMCA inside — see DFW)](cat-harbor.md)
+- [Catalina - China Point (partial-take SMCA — see DFW)](catalina-china-point.md)
+- [Catalina - West Cove](catalina-west-cove.md)
+- [Church Rock](church-rock.md)
+- [Eagle Rock](eagle-rock.md)
+- [East End Light](east-end-light.md)
 - [Evidence — Catalina Island, Backside](evidence/catalina-island-backside.md)
+- [Iron Bound](iron-bound.md)
+- [Little Harbor](little-harbor.md)
+- [Lobster Bay](lobster-bay.md)
+- [Palisades](palisades.md)
+- [Pedestal Rock](pedestal-rock.md)
+- [Ribbon Rock](ribbon-rock.md)
+- [Salta Verde](salta-verde.md)
+- [Seal Rocks](seal-rocks.md)
+- [Sentinel Rock](sentinel-rock.md)
+- [Silver Canyon](silver-canyon.md)
 - [Southern California Bight](socal-bight.md)
+- [Whale Rock](whale-rock.md)
 <!-- backlinks:end -->

@@ -192,19 +192,57 @@ def test_phase_word_strips_a_subject_passed_as_the_message() -> None:
     check("empty stays empty so --status is used", cn.phase_word(""), "")
 
 
+# --- worklist status by tier -----------------------------------------------
+# The fact-check phase selects rows whose status is `transformed`. A tier that
+# produces cited prose but lands on `done` is skipped silently — never checked,
+# never reported. Four geo rows needed hand-fixing during the geo phase before
+# this was enforced.
+
+def test_cited_prose_tiers_cannot_park_on_done(tmp_dir=None) -> None:
+    import tempfile, shutil
+    tmp = Path(tempfile.mkdtemp())
+    try:
+        (tmp / "sources").mkdir()
+        (tmp / "sources" / "review-worklist.md").write_text(
+            "| locations/a.md | geo | pending |  |  |\n"
+            "| species/b.md | full | pending |  |  |\n"
+            "| tackle/c.md | light | pending |  |  |\n"
+            "| locations/d.md | gazetteer | pending |  |  |\n")
+        real_root = guard.ROOT
+        guard.ROOT = tmp
+        try:
+            for note in ("locations/a.md", "species/b.md",
+                         "tackle/c.md", "locations/d.md"):
+                guard.set_row_status(note, "done", "x")
+        finally:
+            guard.ROOT = real_root
+        out = (tmp / "sources" / "review-worklist.md").read_text()
+        check("a geo row is coerced to transformed",
+              "| locations/a.md | geo | transformed |" in out, True)
+        check("a full row is coerced too",
+              "| species/b.md | full | transformed |" in out, True)
+        check("a light row legitimately stays done",
+              "| tackle/c.md | light | done |" in out, True)
+        check("a mechanical gazetteer row stays done",
+              "| locations/d.md | gazetteer | done |" in out, True)
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
 def main() -> int:
     for fn in (test_geo_unit_may_regenerate_its_parents_child_list,
                test_geo_unit_may_not_edit_its_parents_prose,
                test_checkpoint_may_create_mechanical_pages,
                test_checkpoint_may_not_rewrite_an_existing_note,
-               test_phase_word_strips_a_subject_passed_as_the_message):
+               test_phase_word_strips_a_subject_passed_as_the_message,
+               test_cited_prose_tiers_cannot_park_on_done):
         fn()
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("guard scope tests: 5 check groups OK")
+    print("guard scope tests: 6 check groups OK")
     return 0
 
 

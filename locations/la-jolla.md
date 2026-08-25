@@ -171,7 +171,20 @@ Charted positions for all fourteen are in
 [the spot library](../sources/spot-lists.md).
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md)
+- [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md)
+- [La Jolla Canyon](la-jolla-canyon.md)
+- [La Jolla Canyon Shelf rockfish area](la-jolla-canyon-shelf-rockfish-area.md)
+- [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md)
+- [Marine Street](marine-street.md)
+- [Northwest Corner](northwest-corner.md)
+- [The 270 rockfish area](270-rockfish-area.md)
+- [The Airplane rockfish area](airplane-rockfish-area.md)
+- [The Bump](bump.md)
+- [The Cove (stay west of MPA at 117 16.400)](cove.md)
+- [The Half](half.md)
+- [Widow Rock](widow-rock.md)
+- [Windansea (stay north of MPA at 32 49.573)](windansea.md)
 <!-- children:end -->
 
 ## Evidence
@@ -182,6 +195,20 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md)
+- [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md)
 - [Evidence — La Jolla](evidence/la-jolla.md)
+- [La Jolla Canyon](la-jolla-canyon.md)
+- [La Jolla Canyon Shelf rockfish area](la-jolla-canyon-shelf-rockfish-area.md)
+- [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md)
+- [Marine Street](marine-street.md)
+- [Northwest Corner](northwest-corner.md)
 - [Southern California Bight](socal-bight.md)
+- [The 270 rockfish area](270-rockfish-area.md)
+- [The Airplane rockfish area](airplane-rockfish-area.md)
+- [The Bump](bump.md)
+- [The Cove (stay west of MPA at 117 16.400)](cove.md)
+- [The Half](half.md)
+- [Widow Rock](widow-rock.md)
+- [Windansea (stay north of MPA at 32 49.573)](windansea.md)
 <!-- backlinks:end -->
