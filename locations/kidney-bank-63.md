@@ -40,5 +40,5 @@ A charted spot at **33°34.467'N 119°00.850'W** (cameron), in the [Kidney Bank 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 <!-- backlinks:end -->

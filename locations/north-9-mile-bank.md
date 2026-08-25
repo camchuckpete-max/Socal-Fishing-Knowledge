@@ -40,5 +40,5 @@ A charted spot at **32°38.000'N 117°26.000'W** (cameron), in the [North 9 Mile
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 <!-- backlinks:end -->

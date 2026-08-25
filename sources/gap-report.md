@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
+_Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
 
 ## species/
 
@@ -232,6 +232,22 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/175.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Kidney Bank (63) / 175](kidney-bank-63-175.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/178.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North 9 Mile Bank / 178](north-9-mile-bank-178.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/179-220.md**
   - `Getting there`: gap — any run distance, heading, timing or fuel
   - `Getting there`: gap — says whether
@@ -282,6 +298,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: gap — places either mark on either side of the Bight's
   - `How it fishes`: zone guide missing
   - `Spots`: gap
+- **locations/209.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [209 / 312](209-312.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/213.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -366,6 +390,30 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: gap
   - `How it fishes`: gap — classifies this water on the
   - `How it fishes`: zone guide missing
+- **locations/279-267.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/284.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [289 / 284](289-284.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/286.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [LA - 270 / 286](la-270-286.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/289-284.md**
   - `Getting there`: gap — a stated distance, heading, run time or fuel
   - `Getting there`: gap — closures, MPA boundaries or restricted areas
@@ -378,6 +426,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `What's there`: gap — whether
   - `How it fishes`: gap — which mark to start on, whether the two are run
   - `How it fishes`: zone guide missing
+- **locations/289.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [289 / 284](289-284.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/29-fathom-spot.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -431,6 +487,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [The Boot (504) / 307](boot-504-307.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/312.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [209 / 312](209-312.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -580,6 +644,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/439.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [South 9 Mile Bank / 439](south-9-mile-bank-439.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/450.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -611,6 +683,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: gap — gives a tide or current window
   - `How it fishes`: gap — places the band over either mark.
   - `How it fishes`: zone guide missing
+- **locations/474.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [474 / 711](474-711.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/475.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -732,6 +812,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/711.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [474 / 711](474-711.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -1972,6 +2060,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: gap
   - `How it fishes`: zone guide missing
   - `Evidence`: gap — no trip report, video or observation in the
+- **locations/kidney-bank-63.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Kidney Bank (63) / 175](kidney-bank-63-175.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/la-270-286.md**
   - `Getting there`: gap — any run distance, heading, timing, fuel figure
   - `Getting there`: gap — ties any of that to LA - 270 or the 286; it
@@ -1988,6 +2084,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: gap — places either mark on either side of
   - `How it fishes`: gap — classifies
   - `How it fishes`: zone guide missing
+- **locations/la-270.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [LA - 270 / 286](la-270-286.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/la-bufadora.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2272,6 +2376,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: gap — places either mark on that split.
   - `How it fishes`: zone guide missing
   - `Spots`: gap — confirms the depth or
+- **locations/north-9-mile-bank.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North 9 Mile Bank / 178](north-9-mile-bank-178.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/north-county-artificial-reefs.md**
   - `Getting there`: gap — the launch ramps and harbors these reefs
   - `Getting there`: gap — closures, MPA boundaries or restricted-area
@@ -2986,6 +3098,14 @@ _Totals: 1812 flagged gaps, 212 flagged stubs, 904 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `Spots`: gap
   - `Evidence`: gap — no trip report, video or observation in the
+- **locations/south-9-mile-bank.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [South 9 Mile Bank / 439](south-9-mile-bank-439.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/south-kelp-ridge.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
