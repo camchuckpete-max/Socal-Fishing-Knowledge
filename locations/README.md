@@ -9,7 +9,7 @@
 - [5-Minute Kelp](5-minute-kelp.md) **[Baja only]** — A charted spot at 32°22.940'N 117°13.515'W (cameron), in the Coronado Islands zone.
 - [Arrow Point (partial-take SMCA, no inverts; stay W of 118 32.310)](arrow-point.md) **[SoCal only]** — A charted spot at 33°28.661'N 118°32.274'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Avalon Bank](avalon-bank.md) **[SoCal only]** — A charted spot at 33°24.700'N 118°13.500'W (cameron), in the Catalina Island — Front Side (W→E) zone.
-- [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md) **[Baja only]** — A panga fishery on the Sea of Cortez side of northern Baja, ~8 hours' drive from San Diego, fished out of a hotel strip with day-boat operators.
+- [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md) **[Baja only]** — The drive-in panga zone of the northern Sea of Cortez, and the one ground in Cortez North the corpus documents in depth.
 - [Lopez Mateos & Magdalena Bay](bahia-magdalena-lopez-mateos.md) **[Baja only]** — Baja California Sur, Pacific side — a mangrove-and-bay complex with four distinct fisheries inside one bay.
 - [Baja Pacific — North](baja-pacific-north.md) **[Baja only]** — The character rung.
 - [Baja Pacific — South](baja-pacific-south.md) **[Baja only]** — The character rung.

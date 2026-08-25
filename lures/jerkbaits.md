@@ -108,6 +108,7 @@ from [cabrilla](../species/cabrilla.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

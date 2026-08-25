@@ -132,4 +132,5 @@ on-camera sign-off, not the 2023 upload dates.
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Cortez North](cortez-north.md)
+- [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)
 <!-- backlinks:end -->

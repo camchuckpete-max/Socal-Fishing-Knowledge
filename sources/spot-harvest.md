@@ -107,4 +107,9 @@ harvested.
 | Ensenada | species/bonito.md | Where & when / Situations → techniques | bonito named with barracuda and yellowtail as the standing inshore mix; two taken on slow-pitch jigs at a deep rockfish/lingcod stop | `0dIwWiOc1NY` |
 | Cedros Island | species/bonito.md | Where & when | yellowtail run mixed with bonito on the troll; bonito incidental on the yellowfin troll 20–30 mi offshore | `9tIp4n7q850`, `YUdbrIm9vrE` |
 | La Bocana | species/bonito.md | Where & when | bonito, some big, part of the inshore mixed bag with yellowtail, sand bass, barracuda and calico bass | `qri15R3caYE` |
+| Cardonosa / "Isla Cartito" (BOLA, asr-uncertain name) | locations/bahia-de-los-angeles.md | Structure & bathymetry | island with a rising shelf up to ~60 ft, fished on what the crew took to be the south side | `odiIWmut6gM` |
+| "The big island" (BOLA, crew's own name) | locations/bahia-de-los-angeles.md | Structure & bathymetry | the run made for bigger fish on a good-weather day | `wX7jUycIJ-U` |
+| BOLA island high spot (~20 miles from the bay) | locations/bahia-de-los-angeles.md | Structure & bathymetry | island high spot holding 10–15 lb yellowtail; crew went "inside" to an island for cabrilla when it blew | `wX7jUycIJ-U` |
+| BOLA grounds ~20 miles north of the bay | locations/bahia-de-los-angeles.md | Structure & bathymetry | the run planned for a cabrilla-and-yellowtail day | `P36VGPPf120` |
+| Playa La Gringa (BOLA) | locations/bahia-de-los-angeles.md | Spots | beach in the bay, named as a swimming stop rather than a fishing spot | `8c07sN9wxGM` |
 <!-- review:harvest:end -->

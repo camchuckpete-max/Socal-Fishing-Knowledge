@@ -282,6 +282,7 @@ into the spot once the current read right.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [California Halibut](california-halibut.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)

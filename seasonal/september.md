@@ -62,7 +62,6 @@ the same structure.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)

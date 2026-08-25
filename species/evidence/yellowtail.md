@@ -173,6 +173,8 @@ nothing was deleted, only moved.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../../locations/bahia-de-los-angeles.md)
 - [Catalina Island — Front Side](../../locations/catalina-island-front-side.md)
+- [Evidence — Bahía de los Ángeles](../../locations/evidence/bahia-de-los-angeles.md)
 - [Yellowtail](../yellowtail.md)
 <!-- backlinks:end -->

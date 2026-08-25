@@ -909,6 +909,7 @@ a bluefin).
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
+- [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Bimini Twist — 100% Double-Line Loop](../rigging/bimini-twist.md)

@@ -155,7 +155,7 @@ by their builders after the transform phase drains.
 | bait/bait-tanks.md | standard | pending |  |  |
 | bait/fishing-live-bait.md | standard | pending |  |  |
 | bait/making-bait.md | standard | pending |  |  |
-| locations/bahia-de-los-angeles.md | geo | pending |  | zone: 0 spots, 7 notes |
+| locations/bahia-de-los-angeles.md | geo | transformed | gaps:12 stubs:3 fc:2 spots:5 | zone page under cortez-north from 9 corpus sources + cameron; retyped location->zone on the v2 skeleton, 0 charted spots so no child pages; K22a8Ui8tWg re-scoped out (San Felipe mothership, kept in evidence), roosterfish 'more reliable further south' escalation corrected to what P36VGPPf120 actually says, 20-miles-north cite corrected; 12 gaps, 3 stubs, 2 fact-check rows, 5 spot-harvest rows |
 | locations/bahia-magdalena-lopez-mateos.md | geo | pending |  | zone: 0 spots, 9 notes |
 | locations/bass-structure.md | standard | pending |  |  |
 | locations/bays-and-harbors.md | standard | pending |  |  |

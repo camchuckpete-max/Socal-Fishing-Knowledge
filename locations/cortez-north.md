@@ -232,7 +232,7 @@ two are different fisheries with different logistics
 [Bahía de los Ángeles](bahia-de-los-angeles.md)).
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 <!-- children:end -->
 
 ## Access & range
@@ -315,7 +315,9 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Cortez South](cortez-south.md)
+- [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)
 - [Evidence — Cortez North](evidence/cortez-north.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->
