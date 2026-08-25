@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
+_Totals: 401 flagged gaps, 105 flagged stubs, 175 unknown infobox values._
 
 ## species/
 
@@ -91,6 +91,22 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
 
 ## locations/
 
+- **locations/3rd-v-cod-1-36-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/3rd-v-cod-2-31-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/5-minute-kelp.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -99,8 +115,52 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/arrow-point.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/avalon-bank.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/bahia-de-los-angeles.md**
-  - `Paperwork`: gap — whether the Midriff-islands biosphere
+  - `Getting there`: gap — whether the Midriff-islands biosphere
+  - `Getting there`: gap — running your own boat here. Every documented
+  - `Structure & bathymetry`: gap — charted positions for anything in this zone.
+  - `Structure & bathymetry`: gap — bathymetry proper — what the bottom does
+  - `What's there`: gap — season shape scoped to this zone | The rock fish: cast-and-wind at shoreline structure, coves and island lees (`T3cEQUqiH8E`, `6P34jI9q1tE`). One tournament fish went about **7.5 lb** gilled and gutted (`6P34jI9q1tE`) |
+  - `What's there`: gap — season | The deep program's target at 600–800 ft; one fish was called at maybe **50 lb** on the boat (`XRIjUgpuyZ8`), and another took over 25 minutes to bring up (`8c07sN9wxGM`). ⚠ Flagged stub — no corpus source yet for a snowy-grouper router |
+  - `What's there`: gap — season | Taken on the deep program (`XRIjUgpuyZ8`) and on the shallow stops alongside yellowtail (`6P34jI9q1tE`, `odiIWmut6gM`) |
+  - `What's there`: gap — season | A distinct colour morph that turns up in the same catch; one boat's first of a trip was about **5 lb** (`ojE5H6AdGGo`) |
+  - `What's there`: gap — season | Turns up randomly, and not in the same areas as the yellowtail — you target it deliberately or not at all (`P36VGPPf120`) |
+  - `What's there`: gap — season | Seen randomly and hard to time. The source had not caught one and describes them as migrating on conditions and bait, present both here and higher up in the Sea of Cortez — "you kind of just got to get lucky" (`P36VGPPf120`) |
+  - `How it fishes`: gap — what selects jig weight in the deep program.
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — any sonar or meter signature for this zone.
+- **locations/bahia-magdalena-lopez-mateos.md**
+  - `Getting there`: gap — any closure, protected area, depth
+  - `Getting there`: gap — running your own boat here. Every
+  - `Getting there`: gap — what a day here costs — panga, lodge night
+  - `Structure & bathymetry`: gap — charted positions for anything in this
+  - `Structure & bathymetry`: gap — bathymetry proper — how far offshore Bank
+  - `What's there`: gap — season | The half-day program **10–12 mi** out over **200–300 ft**, fished where the sardines concentrate (`EcQK5elTPJE`). Cedar plugs are the crew's standard go-to once they are into tuna (`4t_Z75shK_E`) |
+  - `What's there`: flagged stub row
+  - `What's there`: gap — season inside this zone | Part of the untapped jig fishery over the banks (`gimFbgN5Jjk`); one was taken yo-yoing at **180 ft, 10 ft off the bottom** on the Ridge (`3tQ1_xiqwVU`) |
+  - `What's there`: gap — season | Taken on the jig program over the banks (`gimFbgN5Jjk`) and in the mangroves on flylined bait (`-5kooyIyavs`); schools show on top in the estuary, described as looking "like peppers" (`isXJONlpUP4`) |
+  - `What's there`: gap — season | Fast, repeated action trolling small lures tight to the mangrove edge; called a colour-variant of pompano that grows bigger (`isXJONlpUP4`) |
+  - `What's there`: gap — season | The mangrove mixed bag, all taken casting bait into the same coves as the snook (`-5kooyIyavs`, `vyX5FGoDH0A`, `dlxA22FVNGc`) |
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — any sonar or meter signature for this zone.
 - **locations/baja-pacific-north.md**
   - `The fishery`: gap — where or when
   - `The fishery`: gap — bay and estuary fishing on this coast
@@ -148,6 +208,42 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - `Zones`: flagged stub row
   - `Access & range`: gap — ports, ramps, fuel and haul-out anywhere in
   - `Access & range`: gap — sea-state and weather geography outside
+- **locations/bird-rock-reef.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/can-dump-kelp.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/carlsbad-ar.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North County artificial reefs](north-county-artificial-reefs.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/catalina-island-backside.md**
+  - `Getting there`: gap — distance and run time from each mainland port
+  - `Structure & bathymetry`: gap — charted depths, bottom composition, kelp
+  - `What's there`: gap — season shape scoped to this side | The kelp-boiler shore. A steady, not-wide-open kelp bite off an anchor set just **outside** Cat Harbor, with hooked fish repeatedly running into the kelp (`_KldpqPPT1c`); repeated weedless-swimbait passes through kelp boilers on a September day (`mXu8vJ8yr4Q`) |
+  - `What's there`: gap — season shape scoped to this side | **West Cove anchored in 32 ft at 3 p.m.** is the stated afternoon seabass play — a seminar's worked game-plan example rather than a dated report, so a lean, not a confirmed bite (`sIoNELGlxmk`) |
+  - `What's there`: gap — scoped to this side beyond the band's path |
+  - `What's there`: gap — the island's charted rockfish pinnacles are all catalogued under the front side, and no backside deep-water spot is charted |
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — the zone's own start-and-move program — where
+  - `Spots`: gap — how any of these four fish.
 - **locations/catalina-island-front-side.md**
   - `Getting there`: gap — distance and run time to this side from each
   - `Structure & bathymetry`: gap — bottom composition, kelp extent and working
@@ -159,6 +255,22 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program — where
   - `Spots`: gap — how Avalon Bank fishes.
+- **locations/cedros-island.md**
+  - `Getting there`: gap — what a fly-in angler
+  - `Getting there`: gap — ports, fuel, ramps or haul-out anywhere in this
+  - `Structure & bathymetry`: gap — charted positions for any feature in this
+  - `Structure & bathymetry`: gap — bathymetry and bottom composition for the
+  - `What's there`: gap — season shape | A wide-open run at one unnamed spot produced repeated fish back to back including a double (`9tIp4n7q850`, `Zo92MG459gQ`); a **41 lb** fish came incidentally on a calico swimbait retrieve (`Qa-j6LIwa1Q`) |
+  - `What's there`: gap — season | Mixed in with yellowtail on the slow troll, often uncallable until boatside (`9tIp4n7q850`), and incidental on the offshore tuna troll (`YUdbrIm9vrE`) |
+  - `What's there`: gap — season | Taken over the San Benito bottom on an 8-day charter (`ilINTeknKB4`) |
+  - `What's there`: gap — how either is actually fished here |
+  - `What's there`: gap — season | Cedros is named as the southern end of a claimed resident SoCal/northern-Baja stock's range — single-source and flagged on the species note (`fgTmUq78ofQ`) |
+  - `What's there`: gap — a month-by-month calendar for this zone. Every
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — how a day is sequenced around tide, current or
+  - `Spots`: gap — anything about fishing it.
 - **locations/coronado-canyon.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -198,6 +310,46 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - `Access & range`: gap — ports, ramps, fuel, haul-out and marina
   - `Access & range`: gap — running your own boat into this region, and
   - infobox `season_peak`: unknown
+- **locations/eagle-reef-buoy.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/east-end-quarry.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/east-end-rockfish-1-46-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/east-end-rockfish-2-48-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/east-end-rockfish-3-47-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/east-of-pukey-point.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -206,6 +358,69 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/empire-landing.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/gallaghers.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/hen-rock-kelp.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/indian-rock.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/isthmus-reef.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/jewfish-point.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/johnson-rock.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/la-jolla.md**
+  - `Getting there`: gap — the ports and launch ramps this zone is run
+  - `Structure & bathymetry`: gap — charted depth, relief or bottom composition
+  - `What's there`: gap — season shape scoped to this zone | Named among the San Diego deep-structure bass grounds where a slug cast to the **side** of the structure gets bit within 10–20 ft of the drop (`-eaaWPN5Fxk`) |
+  - `What's there`: gap — whether white seabass, halibut, barracuda,
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — the zone's own start-and-move program
 - **locations/lighthouse.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -214,6 +429,50 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/lions-head.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/little-gibraltar-main-big-rock.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/long-point.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/loreto.md**
+  - `Getting there`: gap — closures, protected areas, park boundaries or
+  - `Getting there`: gap — what it costs to fish here — no panga day
+  - `Getting there`: gap — driving to Loreto, the ramps and fuel at
+  - `Structure & bathymetry`: gap — charted positions for anything in this zone.
+  - `Structure & bathymetry`: gap — bathymetry proper — the depth of Six Mile
+  - `What's there`: gap — the rest of the year here | The stated main target of a November trip, with an "evening yellowtail bite" planned for and *"good yellowtail on the corner"* at Honeymoon Bay (`ikiXx9sUsoA`). A November session found them wide open on the surface and released them (`s5PaKJX3VDo`); one came off Six Mile Reef on an earlier trip (`n4nMCLLW3tY`) |
+  - `What's there`: gap — season shape scoped to this zone | The shallow-rock resident: **5–10 ft** on a suspending jerkbait, and in the rock on a jig on a surface day (`n4nMCLLW3tY`, `s5PaKJX3VDo`). More than one cabrilla species turns up — one fish was called out on camera as *"a different type of cabrilla"*, and a brown *vaqueta* and a grouper are named separately in a dinner rundown (`n4nMCLLW3tY`, `Re56xUHOu6A`) |
+  - `What's there`: gap — season shape scoped to this zone | The clearest break from [Cortez North](cortez-north.md). Taken **on the troll**, on a Halco, in shallow water off an island (`n4nMCLLW3tY`), released off the troll on a November afternoon (`ikiXx9sUsoA`), and found in a **foamer of roughly 30 lb** fish that the crew took for yellowtail until they were hooked (`s5PaKJX3VDo`). ⚠ Flagged stub — no corpus source yet for a roosterfish router; the nearest is [Pacific crevalle jack](../species/pacific-crevalle-jack.md) |
+  - `What's there`: gap — season shape scoped to this zone | A troll fish off rock in the lee, and the local fleet's own target — the locals were *"doing work on Sierra"* the same afternoon. Kept for ceviche (`ikiXx9sUsoA`) |
+  - `What's there`: gap — season shape scoped to this zone | Targeted deliberately with live sardines. The bait vendor put them **close to shore at Punta Perico**, under diving birds and around weed, caught **between about 10:20 and 11:00** (`n4nMCLLW3tY`); a large one was landed on a birthday charter (`Re56xUHOu6A`) |
+  - `What's there`: gap — season | Actively targeted out of this zone, with multiple fish sighted in one area; fish **up to 300 lb** with fights of **four to five hours** (`Re56xUHOu6A`). ⚠ Fact-check (single-source): the weight and fight duration are a single on-camera Spanish-language claim with nothing corroborating them. ⚠ Flagged stub — no corpus source yet for a sailfish router |
+  - `What's there`: gap — season | A marlin sighted from the boat is enough to change the program — the crew pulled the trolled squid skirts and switched to live bait on the spot (`Re56xUHOu6A`) |
+  - `What's there`: gap — season shape scoped to this zone | The shoreline program's fish, taken close in and worked deeper on the same session; white snapper is named in a dinner rundown (`0b0PDLVh-T4`, `Re56xUHOu6A`) |
+  - `What's there`: gap — season | The standing bycatch on the troll and on the reef. Skipjack are kept for chunk bait (`n4nMCLLW3tY`) |
+  - `What's there`: gap — any sonar or meter signature for any species
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — tide, current and moon for this zone. No
+  - `How it fishes`: gap — the zone's start-and-move order — which island
 - **locations/lower-9-mile-bank.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -248,6 +507,57 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/oceanside-ar-2l.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North County artificial reefs](north-county-artificial-reefs.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/oceanside-ar.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North County artificial reefs](north-county-artificial-reefs.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/oceanside-north-county.md**
+  - `Getting there`: gap — the ports and launch ramps this zone is run
+  - `Getting there`: gap — whether the Camp Pendleton stretch at the
+  - `Structure & bathymetry`: gap — charted depths, relief and bottom
+  - `What's there`: gap — depths, species mix or season scoped to these four |
+  - `What's there`: gap — season shape scoped to this zone | **25–30 lb** fish were reported showing on this stretch of coast in October (`HMdrP4-i9MM`). Mainland-coast schools on the **Del Mar to Imperial Beach** stretch — which starts at this zone's south end — run smaller than the island schools and markedly more finicky on the iron (`VpW91AKOFVQ`) |
+  - `What's there`: gap — season shape scoped to this zone | Flagged in a crew's pre-trip game plan for this stretch in October, though the day's fishing stayed on bass (`HMdrP4-i9MM`) |
+  - `What's there`: gap — whether white seabass, halibut, bonito or
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — the zone's own start-and-move program
+- **locations/parson-s-landing.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/pendleton-ar-center.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North County artificial reefs](north-county-artificial-reefs.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/pendleton-ar.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [North County artificial reefs](north-county-artificial-reefs.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/pukey-point.md**
   - `Getting there`: gap — approach, anchoring and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, kelp and how the
@@ -255,6 +565,14 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - `How it fishes`: gap — . The zone-level program — the troll-search
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
+- **locations/red-bluff.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/ribbon-kelp.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -268,6 +586,107 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-1-48-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-2-43-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-3-43-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-4-47-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-5-45-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-6-48-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-7-40-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-8-43-fa.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/salta-verde-cod-pinnacle.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/san-diego-artificial-reefs.md**
+  - `Getting there`: gap — run distance and time from the Mission Bay
+  - `Getting there`: gap — whether any of the eighteen waypoints
+  - `Structure & bathymetry`: gap — reef material, relief height, footprint or
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) and taken off chummed reefs (`f4qYtHACGyk`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`) |
+  - `What's there`: gap — season shape scoped to this zone | Yellowtail have been taken off an artificial reef on the anchored chum method (`f4qYtHACGyk`) — the outside case, not the expectation |
+  - `What's there`: gap — season | Sargo to **5–6 lb** off chummed artificial reefs (`f4qYtHACGyk`), and named in the reef species mix (`bM2vUS1B-yQ`). ⚠ Flagged stub — no corpus source yet for a sargo species router |
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — the zone's own start-and-move program
+- **locations/ship-rock.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/slide.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -303,9 +722,57 @@ _Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/stony-point.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/toyon-bay.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/us-waters.md**
   - `Papers you need`: gap — licence classes and cost — annual versus
   - `Papers you need`: gap — whether shore, pier and kayak fishing carry
   - `On the water`: gap — the issuing authority and as-of date behind
   - `Bringing fish home`: gap — transport rules for fish caught in US waters
+- **locations/west-end-humps-1.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/west-end-humps-2.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/west-end-humps-3.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/yellowtail-point.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 <!-- review:gaps:end -->
