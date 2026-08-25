@@ -26,6 +26,7 @@
 - [Evidence — San Diego Artificial Reefs](san-diego-artificial-reefs.md) — The observation layer behind San Diego Artificial Reefs.
 - [Evidence — San Nicolas Island](san-nicolas-island.md) — The observation layer behind San Nicolas Island.
 - [Evidence — San Quintin](san-quintin.md) — The observation layer behind San Quintin.
+- [Evidence — Santa Barbara Island](santa-barbara-island.md) — The observation layer behind Santa Barbara Island.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
 - [Evidence — US waters](us-waters.md) — The observation layer behind US waters.
 <!-- index:end -->
@@ -58,8 +59,9 @@ graph LR
   n19["Evidence — San Diego Artificial Reefs"]
   n20["Evidence — San Nicolas Island"]
   n21["Evidence — San Quintin"]
-  n22["Evidence — Southern California Bight"]
-  n23["Evidence — US waters"]
+  n22["Evidence — Santa Barbara Island"]
+  n23["Evidence — Southern California Bight"]
+  n24["Evidence — US waters"]
   n12 --> n0
 ```
 <!-- mermaid:end -->

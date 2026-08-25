@@ -195,6 +195,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
+- [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

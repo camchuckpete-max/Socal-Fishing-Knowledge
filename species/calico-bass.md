@@ -708,6 +708,7 @@ release *ethic* and the regional policies are below.
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
+- [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

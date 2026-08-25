@@ -216,6 +216,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [San Nicolas Island](san-nicolas-island.md)
+- [Santa Barbara Island](santa-barbara-island.md)
 <!-- children:end -->
 
 ## Access & range

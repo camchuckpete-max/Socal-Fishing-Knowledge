@@ -112,5 +112,6 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - [California Sheephead](sheephead.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
+- [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

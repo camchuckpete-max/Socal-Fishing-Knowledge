@@ -163,6 +163,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [San Quintin](san-quintin.md)
+- [Santa Barbara Island](santa-barbara-island.md)
 - [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swimbaits](../techniques/swimbaits.md)

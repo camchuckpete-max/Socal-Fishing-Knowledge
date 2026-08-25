@@ -330,6 +330,7 @@ become primary).
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
+- [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Southern California Bight](../locations/socal-bight.md)

@@ -650,6 +650,7 @@ baits and heads from the class terms above; see
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
