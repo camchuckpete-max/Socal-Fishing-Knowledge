@@ -74,6 +74,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Current Structure](../conditions/current-structure.md)
+- [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)

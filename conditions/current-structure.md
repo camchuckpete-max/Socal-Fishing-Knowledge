@@ -307,6 +307,7 @@ become primary).
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Current Diagnostics](current-diagnostics.md)
+- [Dana Point](../locations/dana-point.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Deep Scattering Layer](deep-scattering-layer.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)

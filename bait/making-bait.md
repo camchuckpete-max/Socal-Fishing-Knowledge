@@ -268,6 +268,8 @@ shortages, where the barge isn't an option.
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
+- [Dana Point](../locations/dana-point.md)
+- [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)

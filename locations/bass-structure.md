@@ -67,6 +67,7 @@ current-over-structure mechanism ties it together in
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
+- [Dana Point](dana-point.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Oceanside / North County](oceanside-north-county.md)

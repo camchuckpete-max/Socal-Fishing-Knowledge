@@ -233,6 +233,7 @@ Trip reports and per-source provenance:
 - [Buccaneer Pipe](buccaneer-pipe.md)
 - [Carlsbad Canyon](carlsbad-canyon.md)
 - [Clam Beds](clam-beds.md)
+- [Dana Point](dana-point.md)
 - [Del Mar rockfish area](del-mar-rockfish-area.md)
 - [Encina Powerplant Pipe](encina-powerplant-pipe.md)
 - [Encinitas rockfish / Devil's Rock North (stay N of SMCA at 33 03.000)](encinitas-rockfish-devil-s-rock-north.md)

@@ -14,6 +14,7 @@
 - [Evidence — Coronado Islands](coronado-islands.md) — The observation layer behind Coronado Islands.
 - [Evidence — Cortez North](cortez-north.md) — The observation layer behind Cortez North.
 - [Evidence — Cortez South](cortez-south.md) — The observation layer behind Cortez South.
+- [Evidence — Dana Point](dana-point.md) — The observation layer behind Dana Point.
 - [Evidence — La Jolla](la-jolla.md) — The observation layer behind La Jolla.
 - [Evidence — Loreto & Puerto Escondido](loreto.md) — The observation layer behind Loreto & Puerto Escondido.
 - [Evidence — Mexican waters](mexican-waters.md) — The observation layer behind Mexican waters.
@@ -44,18 +45,19 @@ graph LR
   n7["Evidence — Coronado Islands"]
   n8["Evidence — Cortez North"]
   n9["Evidence — Cortez South"]
-  n10["Evidence — La Jolla"]
-  n11["Evidence — Loreto & Puerto Escondido"]
-  n12["Evidence — Mexican waters"]
-  n13["Evidence — North County Artificial Reefs"]
-  n14["Evidence — Oceanside / North County"]
-  n15["Evidence — Point Loma"]
-  n16["Evidence — Punta Banda / Santo Tomas"]
-  n17["Evidence — San Clemente Island, Back Side"]
-  n18["Evidence — San Diego Artificial Reefs"]
-  n19["Evidence — San Nicolas Island"]
-  n20["Evidence — Southern California Bight"]
-  n21["Evidence — US waters"]
-  n11 --> n0
+  n10["Evidence — Dana Point"]
+  n11["Evidence — La Jolla"]
+  n12["Evidence — Loreto & Puerto Escondido"]
+  n13["Evidence — Mexican waters"]
+  n14["Evidence — North County Artificial Reefs"]
+  n15["Evidence — Oceanside / North County"]
+  n16["Evidence — Point Loma"]
+  n17["Evidence — Punta Banda / Santo Tomas"]
+  n18["Evidence — San Clemente Island, Back Side"]
+  n19["Evidence — San Diego Artificial Reefs"]
+  n20["Evidence — San Nicolas Island"]
+  n21["Evidence — Southern California Bight"]
+  n22["Evidence — US waters"]
+  n12 --> n0
 ```
 <!-- mermaid:end -->

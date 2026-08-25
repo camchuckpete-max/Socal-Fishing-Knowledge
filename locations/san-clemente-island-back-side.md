@@ -208,6 +208,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Dana Point](dana-point.md)
 - [Evidence — San Clemente Island, Back Side](evidence/san-clemente-island-back-side.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

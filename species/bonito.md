@@ -272,6 +272,8 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronado Islands](../locations/coronado-islands.md)
+- [Dana Point](../locations/dana-point.md)
+- [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)

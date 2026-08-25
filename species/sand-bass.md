@@ -165,6 +165,7 @@ rocks.
 - [Bass Structure](../locations/bass-structure.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Dana Point](../locations/dana-point.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [February–March](../seasonal/february-march.md)

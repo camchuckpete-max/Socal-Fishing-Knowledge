@@ -120,4 +120,6 @@ turbulence:
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Dana Point](../locations/dana-point.md)
+- [Evidence — Dana Point](../locations/evidence/dana-point.md)
 <!-- backlinks:end -->

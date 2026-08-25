@@ -262,6 +262,7 @@ Trip reports and per-source provenance:
 - [Bird Rock Reef (stay W of MPA at 118 29.300)](bird-rock-reef.md)
 - [Can Dump Kelp](can-dump-kelp.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
+- [Dana Point](dana-point.md)
 - [Eagle Reef Buoy](eagle-reef-buoy.md)
 - [East End Quarry](east-end-quarry.md)
 - [East End Rockfish 1 (46 fa)](east-end-rockfish-1-46-fa.md)

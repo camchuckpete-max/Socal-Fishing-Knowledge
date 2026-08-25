@@ -48,6 +48,7 @@
 - [Cortez South](cortez-south.md) **[Baja only]** — The character rung.
 - [The Cove (stay west of MPA at 117 16.400)](cove.md) **[SoCal only]** — A charted spot at 32°51.340'N 117°16.620'W (cameron), in the La Jolla zone.
 - [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md) **[SoCal only]** — A charted spot at 32°47.580'N 117°16.580'W (cameron), in the La Jolla zone.
+- [Dana Point](dana-point.md) **[SoCal only]** — The mainland strip either side of Dana Point Harbor, running from the Orange County coast down across the county line to Trestles: 9 charted spots in the spot l
 - [Del Mar rockfish area](del-mar-rockfish-area.md) **[SoCal only]** — A charted spot at 32°57.191'N 117°17.981'W (cameron), in the Oceanside / North County zone.
 - [Eagle Reef Buoy](eagle-reef-buoy.md) **[SoCal only]** — A charted spot at 33°27.620'N 118°30.395'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Eagle Rock](eagle-rock.md) **[SoCal only]** — A charted spot at 33°28.350'N 118°36.320'W (cameron), in the Catalina Island — Backside (W→E) zone.
@@ -157,5 +158,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 144 notes exceed the 30-node cap._
+_Map skipped: 145 notes exceed the 30-node cap._
 <!-- mermaid:end -->

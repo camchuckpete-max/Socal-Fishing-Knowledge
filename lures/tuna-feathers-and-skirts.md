@@ -165,6 +165,8 @@ dual-skirts (kept unopened) are in
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
+- [Dana Point](../locations/dana-point.md)
+- [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Pacific Bonito](../species/bonito.md)
