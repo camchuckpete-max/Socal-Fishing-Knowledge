@@ -258,6 +258,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [172 / 125](172-125.md)
 - [Arch Reef (caution — boilers in big swell)](arch-reef.md)
 - [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md)
 - [Caverns Area](caverns-area.md)

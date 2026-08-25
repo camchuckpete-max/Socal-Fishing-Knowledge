@@ -66,6 +66,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 <!-- backlinks:start -->
 ## Linked from
 
+- [172 / 125](../locations/172-125.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

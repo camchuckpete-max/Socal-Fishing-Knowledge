@@ -40,5 +40,5 @@ A charted spot at **32°04.000'N 118°14.833'W** (cameron), in the [Upper Cross 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Upper Cross / 421 / 390](upper-cross-421-390.md)
 <!-- backlinks:end -->

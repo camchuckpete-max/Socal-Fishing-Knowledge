@@ -40,5 +40,5 @@ A charted spot at **32°37.600'N 117°49.400'W** (cameron), in the [The Corner /
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [The Corner / 140 / 182](corner-140-182.md)
 <!-- backlinks:end -->

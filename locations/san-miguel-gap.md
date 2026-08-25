@@ -40,5 +40,5 @@ A charted spot at **33°56.600'N 121°00.000'W** (cameron), in the [Davis Knoll 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 <!-- backlinks:end -->

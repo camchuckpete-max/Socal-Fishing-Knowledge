@@ -40,5 +40,5 @@ A charted spot at **31°45.000'N 119°04.000'W** (cameron), in the [The Pistol /
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 <!-- backlinks:end -->

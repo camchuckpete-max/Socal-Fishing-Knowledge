@@ -111,6 +111,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 <!-- backlinks:start -->
 ## Linked from
 
+- [172 / 125](../locations/172-125.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

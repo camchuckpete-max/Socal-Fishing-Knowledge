@@ -40,5 +40,5 @@ A charted spot at **33°34.510'N 117°51.370'W** (cameron), in the [South Orange
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 <!-- backlinks:end -->

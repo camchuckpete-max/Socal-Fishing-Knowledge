@@ -11,6 +11,7 @@
 - [15 Fa Ridge](15-fa-ridge.md) **[Baja only]** — A charted spot at 31°34.900'N 116°42.900'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [15 Fathom Spot](15-fathom-spot.md) **[Baja only]** — A charted spot at 30°22.000'N 116°05.000'W (cameron), in the San Quintin zone.
 - [166](166.md) **[SoCal only]** — A charted spot at 32°39.000'N 117°43.700'W (cameron), in the The Corner / 140 / 182 … zone.
+- [172 / 125](172-125.md) **[SoCal only]** — A zone is a run grouping.
 - [182](182.md) **[SoCal only]** — A charted spot at 32°41.300'N 117°42.400'W (cameron), in the The Corner / 140 / 182 … zone.
 - [213](213.md) **[Baja only]** — A charted spot at 31°48.200'N 117°51.800'W (cameron), in the 1010 Trench / 378 / 213 zone.
 - [226](226.md) **[SoCal only]** — A charted spot at 32°29.667'N 117°38.000'W (cameron), in the Coronados - 230 / 302 (Kidney Bank) / 226 zone.
@@ -320,5 +321,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 307 notes exceed the 30-node cap._
+_Map skipped: 308 notes exceed the 30-node cap._
 <!-- mermaid:end -->

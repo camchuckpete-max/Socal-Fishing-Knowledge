@@ -40,5 +40,5 @@ A charted spot at **32°21.417'N 117°42.417'W** (cameron), in the [Coronados - 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 <!-- backlinks:end -->

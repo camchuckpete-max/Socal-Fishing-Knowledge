@@ -226,6 +226,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
+- [172 / 125](172-125.md)
 - [Airplane Rock](airplane-rock.md)
 - [Blockhouse](blockhouse.md)
 - [Cherry Banks](cherry-banks.md)
@@ -234,6 +235,7 @@ Trip reports and per-source provenance:
 - [Dutch Harbor](dutch-harbor.md)
 - [East End Buoy](east-end-buoy.md)
 - [East End squid grounds (big area)](east-end-squid-grounds.md)
+- [Evidence — 172 / 125](evidence/172-125.md)
 - [Evidence — San Nicolas Island](evidence/san-nicolas-island.md)
 - [Potato Bank](potato-bank.md)
 - [Seabass Rock](seabass-rock.md)
