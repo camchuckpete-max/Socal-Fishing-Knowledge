@@ -565,12 +565,13 @@ def main() -> int:
     for z in sorted(zones, key=lambda z: -len(z["spots"])):
         rows.append(f"| locations/{z['slug']}.md | geo | pending |  | "
                     f"zone: {len(z['spots'])} spots, {z['notes']} notes |")
-    for a in ar_series.values():
-        rows.append(f"| locations/{slugify(a['display'])}.md | gazetteer | "
-                    f"pending |  | AR complex: {a['n']} waypoints |")
-    for s in sorted(spot_rows, key=lambda s: s["slug"]):
-        rows.append(f"| locations/{s['slug']}.md | gazetteer | pending |  | "
-                    f"spot in {s['zone']['display']} |")
+    # SPOT AND AR ROWS ARE NOT EMITTED HERE. build-spot-pages.py owns them,
+    # because it is the thing that knows which are written mechanically
+    # (`done`) and which have corpus material for the fleet (`pending`).
+    # Both builders append-if-absent by path and this one runs FIRST at the
+    # chunk checkpoint, so emitting spot rows here would win the race, mark
+    # all 344 as fleet work, and silently undo mechanical generation —
+    # ~660 points, roughly 40 chunks, back into the run.
 
     wl = WORKLIST.read_text(encoding="utf-8")
     fresh = [r for r in rows if f"| {r.split('|')[1].strip()} |" not in wl]

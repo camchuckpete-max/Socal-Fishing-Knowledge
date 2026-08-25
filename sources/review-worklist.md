@@ -288,4 +288,81 @@ by their builders after the transform phase drains.
 | locations/desperation-reef.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/14-mile-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
+| locations/us-waters.md | geo | pending |  | jurisdiction |
+| locations/socal-bight.md | geo | pending |  | region |
+| locations/baja-pacific-north.md | geo | pending |  | region |
+| locations/baja-pacific-south.md | geo | pending |  | region |
+| locations/cortez-north.md | geo | pending |  | region |
+| locations/cortez-south.md | geo | pending |  | region |
+| locations/catalina-island-front-side.md | geo | pending |  | zone: 40 spots, 25 notes |
+| locations/north-county-artificial-reefs.md | geo | pending |  | zone: 38 spots, 0 notes |
+| locations/catalina-island-backside.md | geo | pending |  | zone: 21 spots, 25 notes |
+| locations/san-diego-artificial-reefs.md | geo | pending |  | zone: 18 spots, 1 notes |
+| locations/oceanside-north-county.md | geo | pending |  | zone: 18 spots, 8 notes |
+| locations/la-jolla.md | geo | pending |  | zone: 14 spots, 11 notes |
+| locations/point-loma.md | geo | pending |  | zone: 12 spots, 6 notes |
+| locations/punta-banda-santo-tomas.md | geo | pending |  | zone: 12 spots, 2 notes |
+| locations/san-clemente-island-back-side.md | geo | pending |  | zone: 12 spots, 30 notes |
+| locations/san-nicolas-island.md | geo | pending |  | zone: 10 spots, 2 notes |
+| locations/dana-point.md | geo | pending |  | zone: 9 spots, 15 notes |
+| locations/san-quintin.md | geo | pending |  | zone: 8 spots, 2 notes |
+| locations/santa-barbara-island.md | geo | pending |  | zone: 8 spots, 15 notes |
+| locations/international-artificial-reef.md | geo | pending |  | zone: 7 spots, 1 notes |
+| locations/san-clemente-island-front-side.md | geo | pending |  | zone: 7 spots, 30 notes |
+| locations/rosarito-descanso.md | geo | pending |  | zone: 6 spots, 0 notes |
+| locations/la-fonda-bajamar-salsipuedes.md | geo | pending |  | zone: 5 spots, 0 notes |
+| locations/finger-bank-rockfish.md | geo | pending |  | zone: 5 spots, 1 notes |
+| locations/1010-trench-378-213.md | geo | pending |  | zone: 5 spots, 0 notes |
+| locations/imperial-beach.md | geo | pending |  | zone: 4 spots, 3 notes |
+| locations/ensenada.md | geo | pending |  | zone: 4 spots, 21 notes |
+| locations/colonet.md | geo | pending |  | zone: 4 spots, 5 notes |
+| locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md | geo | pending |  | zone: 4 spots, 0 notes |
+| locations/corner-140-182.md | geo | pending |  | zone: 4 spots, 13 notes |
+| locations/coronados-230-302-226.md | geo | pending |  | zone: 4 spots, 21 notes |
+| locations/upper-cross-421-390.md | geo | pending |  | zone: 4 spots, 0 notes |
+| locations/pistol-bell-bank-300.md | geo | pending |  | zone: 4 spots, 1 notes |
+| locations/385-238-475.md | geo | pending |  | zone: 4 spots, 0 notes |
+| locations/372-245-250.md | geo | pending |  | zone: 4 spots, 3 notes |
+| locations/south-orange-county-crystal-cove.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/172-125.md | geo | pending |  | zone: 3 spots, 1 notes |
+| locations/slide-152-277.md | geo | pending |  | zone: 3 spots, 4 notes |
+| locations/51-181-138.md | geo | pending |  | zone: 3 spots, 3 notes |
+| locations/81-381.md | geo | pending |  | zone: 3 spots, 1 notes |
+| locations/43-91-300.md | geo | pending |  | zone: 3 spots, 14 notes |
+| locations/w-butterfly-157.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/upper-500-hidden-bank.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/baja-270-double-220-295.md | geo | pending |  | zone: 3 spots, 94 notes |
+| locations/483-500-437.md | geo | pending |  | zone: 3 spots, 2 notes |
+| locations/1140-finger-450.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/baja-230-peanut-bank-60.md | geo | pending |  | zone: 3 spots, 94 notes |
+| locations/sniffer-west-400-300.md | geo | pending |  | zone: 3 spots, 9 notes |
+| locations/179-220.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/lower-cross.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/boot-504-307.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/hidden-reef-170.md | geo | pending |  | zone: 2 spots, 1 notes |
+| locations/la-270-286.md | geo | pending |  | zone: 2 spots, 24 notes |
+| locations/kidney-bank-63-175.md | geo | pending |  | zone: 2 spots, 1 notes |
+| locations/279-267-14-mile-bank.md | geo | pending |  | zone: 2 spots, 7 notes |
+| locations/474-711.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/209-312.md | geo | pending |  | zone: 2 spots, 7 notes |
+| locations/289-284.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/north-9-mile-bank-178.md | geo | pending |  | zone: 2 spots, 2 notes |
+| locations/south-9-mile-bank-439.md | geo | pending |  | zone: 2 spots, 1 notes |
+| locations/e-butterfly-san-salvador-knoll.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/101-425.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/475-knuckle-upper-finger-bank.md | geo | pending |  | zone: 2 spots, 1 notes |
+| locations/banda-bank-todos-santos-island.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/311.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/sverdrup-bank-126.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/tanner-bank.md | geo | pending |  | zone: 2 spots, 10 notes |
+| locations/hancock-bank.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/12-mile-reef.md | geo | pending |  | zone: 1 spots, 0 notes |
+| locations/san-juan-seamount.md | geo | pending |  | zone: 1 spots, 0 notes |
+| locations/bumps.md | geo | pending |  | zone: 1 spots, 2 notes |
+| locations/380.md | geo | pending |  | zone: 1 spots, 0 notes |
+| locations/guadalupe.md | geo | pending |  | zone: 0 spots, 28 notes |
+| locations/alijos-rocks.md | geo | pending |  | zone: 0 spots, 18 notes |
+| locations/cabo-san-lucas.md | geo | pending |  | zone: 0 spots, 4 notes |
+| locations/la-paz.md | geo | pending |  | zone: 0 spots, 5 notes |
+| locations/east-cape.md | geo | pending |  | zone: 0 spots, 11 notes |
 <!-- review:worklist:end -->
