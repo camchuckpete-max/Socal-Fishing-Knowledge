@@ -17,6 +17,7 @@
 - [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md) **[SoCal only]** — A charted spot at 32°50.750'N 117°19.950'W (cameron), in the La Jolla zone.
 - [33 Fa. Spot](33-fa-spot.md) **[Baja only]** — A charted spot at 31°29.000'N 116°42.800'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [330](330.md) **[Baja only]** — A charted spot at 30°45.000'N 116°34.700'W (cameron), in the Colonet zone.
+- [372 / 245 / 250](372-245-250.md) **[Baja only]** — A zone is a run grouping.
 - [378](378.md) **[Baja only]** — A charted spot at 31°54.000'N 117°50.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
 - [38 Fa. Spot](38-fa-spot.md) **[Baja only]** — A charted spot at 31°30.500'N 116°43.200'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [385 / 238 / 475](385-238-475.md) **[Baja only]** — A zone is a run grouping.
@@ -287,5 +288,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 274 notes exceed the 30-node cap._
+_Map skipped: 275 notes exceed the 30-node cap._
 <!-- mermaid:end -->

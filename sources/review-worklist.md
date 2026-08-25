@@ -322,7 +322,7 @@ by their builders after the transform phase drains.
 | locations/upper-cross-421-390.md | geo | transformed | gaps:10 stubs:0 fc:0 spots:4 | geo zone page minted (zero-corpus, position-and-ladder); applied after fixing two miscomputed port-distance ranges, one false nearest-position superlative and one wrong bearing; coordinates and all intra-zone distances reproduce |
 | locations/pistol-bell-bank-300.md | geo | transformed | gaps:9 stubs:0 fc:0 spots:4 | geo zone page verified against the census and the spot library; four geographic-accuracy fixes applied, no information loss; corpus silent on all four marks so written as position-and-ladder, loose cluster (31.6 nm corner to corner) left as queued |
 | locations/385-238-475.md | geo | transformed | gaps:9 stubs:0 fc:0 spots:4 | geo zone page applied with 6 verifier fixes (2 false distance comparisons, 1 unstated metric, 1 mis-attributed cite, 2 meaning-drift corrections); geometry and census fidelity verified exact; no corpus source names these four banks |
-| locations/372-245-250.md | geo | pending |  | zone: 4 spots, 3 notes |
+| locations/372-245-250.md | geo | transformed | gaps:9 stubs:0 fc:0 spots:4 | zone page verified and applied with three numeric/claim corrections; coordinates, 14 distance figures and 5 transcript cites all reproduce; census 3-notes count confirmed false positives so written as position-and-ladder |
 | locations/south-orange-county-crystal-cove.md | geo | pending |  | zone: 3 spots, 0 notes |
 | locations/172-125.md | geo | pending |  | zone: 3 spots, 1 notes |
 | locations/slide-152-277.md | geo | pending |  | zone: 3 spots, 4 notes |

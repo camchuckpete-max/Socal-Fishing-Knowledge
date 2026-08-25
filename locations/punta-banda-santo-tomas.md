@@ -151,6 +151,7 @@ Trip reports and per-source provenance:
 
 - [15 Fa Ridge](15-fa-ridge.md)
 - [33 Fa. Spot](33-fa-spot.md)
+- [372 / 245 / 250](372-245-250.md)
 - [38 Fa. Spot](38-fa-spot.md)
 - [385 / 238 / 475](385-238-475.md)
 - [47 Fa. Spot](47-fa-spot.md)

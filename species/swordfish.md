@@ -106,6 +106,7 @@ Requirements before you stop:
 ## Linked from
 
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
+- [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)

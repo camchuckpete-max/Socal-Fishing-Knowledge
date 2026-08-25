@@ -272,6 +272,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [372 / 245 / 250](372-245-250.md)
 - [385 / 238 / 475](385-238-475.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Ensenada](evidence/ensenada.md)

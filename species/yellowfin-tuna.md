@@ -539,6 +539,7 @@ the bluefin nearby become more cooperative too.**
 ## Linked from
 
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
+- [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [August](../seasonal/august.md)

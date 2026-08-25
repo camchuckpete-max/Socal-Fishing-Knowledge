@@ -218,6 +218,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [29 Fathom Spot](29-fathom-spot.md)
+- [372 / 245 / 250](372-245-250.md)
 - [9 Fathom Spot](9-fathom-spot.md)
 - [China Point (San Clemente Is.)](china-point.md)
 - [Dana Point](dana-point.md)

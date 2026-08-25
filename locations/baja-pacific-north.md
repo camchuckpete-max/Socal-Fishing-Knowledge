@@ -200,6 +200,7 @@ them.
 
 <!-- children:start -->
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
+- [372 / 245 / 250](372-245-250.md)
 - [385 / 238 / 475](385-238-475.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Colonet](colonet.md)
@@ -266,6 +267,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
+- [372 / 245 / 250](372-245-250.md)
 - [385 / 238 / 475](385-238-475.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cedros / San Benitos](cedros-island.md)

@@ -113,6 +113,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
+- [372 / 245 / 250](372-245-250.md)
 - [5-Minute Kelp](5-minute-kelp.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Cedros / San Benitos](cedros-island.md)
