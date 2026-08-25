@@ -168,6 +168,7 @@ water color.
 - [May](../seasonal/may.md)
 - [October](../seasonal/october.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)

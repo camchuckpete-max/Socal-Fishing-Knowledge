@@ -266,6 +266,7 @@ circle-hook rig detail logged in
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [October](../seasonal/october.md)
 - [Skipjack Tuna](skipjack-tuna.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)

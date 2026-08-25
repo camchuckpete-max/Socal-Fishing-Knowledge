@@ -201,6 +201,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bell Bank (300)](bell-bank-300.md)
 - [Elephant](elephant.md)
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [The Pistol](pistol.md)
 - [The Worm](worm.md)
 <!-- backlinks:end -->

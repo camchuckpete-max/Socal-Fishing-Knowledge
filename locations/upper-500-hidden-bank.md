@@ -225,6 +225,7 @@ coordinates plus its parent zone until sources arrive.
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Upper 500 / Hidden Bank](evidence/upper-500-hidden-bank.md)
 - [Hidden Bank](hidden-bank.md)
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [Upper 500](upper-500.md)
 - [Upper Hidden Bank](upper-hidden-bank.md)
 <!-- backlinks:end -->

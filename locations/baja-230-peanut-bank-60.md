@@ -305,4 +305,5 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 <!-- backlinks:end -->

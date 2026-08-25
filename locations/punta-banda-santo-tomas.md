@@ -169,5 +169,6 @@ Trip reports and per-source provenance:
 - [La Bufadora](la-bufadora.md)
 - [Punta Santo Tomas](punta-santo-tomas.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [White Rock](white-rock.md)
 <!-- backlinks:end -->

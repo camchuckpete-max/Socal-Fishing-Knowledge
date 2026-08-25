@@ -500,6 +500,7 @@ grade, or technique detail given for the dorado specifically.
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [September](../seasonal/september.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

@@ -153,6 +153,7 @@ many *drops*.
 - [San Quintin](san-quintin.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

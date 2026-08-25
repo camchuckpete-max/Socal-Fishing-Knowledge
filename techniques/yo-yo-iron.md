@@ -742,6 +742,7 @@ the reverse map in **Linked from** below.
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Surface Iron](surface-iron.md)
 - [Surface Iron — Colour](surface-iron-color.md)
 - [Swimbaits](swimbaits.md)

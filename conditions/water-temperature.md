@@ -194,6 +194,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

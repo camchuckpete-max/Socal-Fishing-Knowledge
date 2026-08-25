@@ -586,6 +586,7 @@ the bluefin nearby become more cooperative too.**
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](striped-marlin.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)

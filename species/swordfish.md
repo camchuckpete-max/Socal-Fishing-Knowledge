@@ -122,6 +122,7 @@ Requirements before you stop:
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)

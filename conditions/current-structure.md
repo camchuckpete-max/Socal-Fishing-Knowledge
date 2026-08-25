@@ -349,6 +349,7 @@ become primary).
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

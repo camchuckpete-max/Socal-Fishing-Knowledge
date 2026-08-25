@@ -304,6 +304,7 @@
 - [Silver Canyon](silver-canyon.md) **[SoCal only]** — A charted spot at 33°19.174'N 118°23.361'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [The Slide / 152 / 277](slide-152-277.md) **[SoCal only]** — A zone is a run grouping.
 - [The Slide (Catalina)](slide.md) **[SoCal only]** — A charted spot at 33°18.800'N 118°18.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md) **[Baja only]** — A zone is a run grouping.
 - [Southern California Bight](socal-bight.md) **[SoCal only]** — The character rung.
 - [Solana Beach Kelp](solana-beach-kelp.md) **[SoCal only]** — A charted spot at 32°59.410'N 117°17.300'W (cameron), in the Oceanside / North County zone.
 - [South Kelp Ridge](south-kelp-ridge.md) **[Baja only]** — A charted spot at 32°22.000'N 117°13.260'W (cameron), in the Coronado Islands zone.
@@ -353,5 +354,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 340 notes exceed the 30-node cap._
+_Map skipped: 341 notes exceed the 30-node cap._
 <!-- mermaid:end -->

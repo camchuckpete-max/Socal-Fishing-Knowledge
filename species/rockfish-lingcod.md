@@ -391,6 +391,7 @@ the *bottom*, not the fish.
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
