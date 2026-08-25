@@ -40,5 +40,5 @@ A charted spot at **33°19.500'N 117°31.700'W** (cameron), in the [North County
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [North County Artificial Reefs](north-county-artificial-reefs.md)
 <!-- backlinks:end -->

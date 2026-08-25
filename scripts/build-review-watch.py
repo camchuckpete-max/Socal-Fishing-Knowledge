@@ -66,6 +66,21 @@ _geo_spec = importlib.util.spec_from_file_location(
 _geo = importlib.util.module_from_spec(_geo_spec)
 _geo_spec.loader.exec_module(_geo)
 
+# The phase comes from the DISPATCHER, for the same reason. This page kept its
+# own copy of the precedence list and drifted the moment the fleet reordered:
+# geo was moved ahead of transform, and the dashboard went on reporting
+# "transform" while every unit landing was a geo one. A watch surface that
+# disagrees with the thing it watches is worse than no surface.
+_nn_spec = importlib.util.spec_from_file_location(
+    "next_note", Path(__file__).resolve().parent / "review" / "next-note.py")
+_nn = importlib.util.module_from_spec(_nn_spec)
+_nn_spec.loader.exec_module(_nn)
+
+# What the dispatcher's bucket names are called on the page.
+PHASE_LABEL = {"geo": "geo", "transform": "transform", "relocate": "relocations",
+               "gazetteer": "gazetteer", "factcheck": "fact-check",
+               "cluster": "cluster"}
+
 GH = "https://github.com/camchuckpete-max/Socal-Fishing-Knowledge"
 BRANCH = "claude/knowledge-base-review-g00k8s"
 DIFF_LINE_CAP = 400          # per note; overflow is reported, not hidden
@@ -239,21 +254,11 @@ def build(base: str, runs_path: str | None) -> dict:
     # rows pending fell through to "drained — endgame" and reported the fleet
     # finished while the whole ladder was still unbuilt.
     reloc_pending = sum(1 for r in reloc if len(r) == 6 and r[5] == "pending")
-    if any(r["s"] == "pending" and r["t"] in ("full", "standard", "light")
-           for r in wl):
-        phase = "transform"
-    elif reloc_pending:
-        phase = "relocations"
-    elif any(r["s"] == "pending" and r["t"] == "geo" for r in wl):
-        phase = "geo"
-    elif any(r["s"] == "pending" and r["t"] == "gazetteer" for r in wl):
-        phase = "gazetteer"
-    elif statuses.get("transformed", 0):
-        phase = "fact-check"
-    elif any(r["s"] == "pending" and r["t"] == "cluster" for r in wl):
-        phase = "cluster"
-    else:
-        phase = "drained — endgame"
+    phase = "drained — endgame"
+    for name, rows_ in _nn.buckets():
+        if rows_:
+            phase = PHASE_LABEL.get(name, name)
+            break
 
     # per-note review record: verdict, conservation, evidence, links
     by_path = {f["path"]: f for f in files}
@@ -767,6 +772,7 @@ main{flex:1;display:flex;min-height:0}
       <div id="mapwrap">
         <div id="map"></div>
         <div class="mpanel" id="mpanel"></div>
+        <div class="legend" id="mlegend"></div>
         <div class="mcrumb" id="mcrumb" hidden></div>
       </div>
       <div class="detail" id="detail" role="dialog" aria-label="Page detail">
@@ -1370,10 +1376,11 @@ function crumb(p){
 }
 
 /* Clicking a pin answers two questions: what IS this, and what does the KB
-   say about it. Most spot pages are not generated yet (the geo phase is
-   queued behind the gate), and "page not built yet" alone is a dead end — so
-   an unbuilt spot still opens with its position, its place in the ladder, its
-   queue status, and every corpus mention harvested for it. */
+   say about it. Spot pages land progressively — the minimum ones as each zone
+   lands, the enrichable ones when the fleet reaches them — and "page not built
+   yet" alone is a dead end, so an unbuilt spot still opens with its position,
+   its place in the ladder, its queue status, and every corpus mention
+   harvested for it. */
 function openSpot(p){
   const path=`locations/${p.slug}.md`;
   if(p.slug&&byPath.has(path)){open(path,'article',null);return;}
@@ -1462,7 +1469,7 @@ function paintMap(){
           `${z.name} — ${z.n} spot${z.n===1?'':'s'}`,{sticky:true});
     });
   }
-  let n=0;
+  let n=0,built=0;
   PINS.forEach(p=>{
     const z=zoneOf(p);
     if(p.excluded){ if(!shown.region.has('socal-bight')&&!shown.region.has('baja-pacific-north'))return; }
@@ -1470,14 +1477,22 @@ function paintMap(){
     if(shown.farOnly&&!p.far)return;
     n++;
     const c=p.excluded?'#8b949e':zoneColor(z);
+    // A spot with a page reads SOLID, one without reads hollow. This is the
+    // ladder filling in: at a glance you can see how much of the gazetteer
+    // exists, without opening anything.
+    const has=!p.excluded&&p.slug&&byPath.has(`locations/${p.slug}.md`);
+    if(has)built++;
     const m=L.circleMarker([p.lat,p.lon],{
-      radius:p.far?6:4, color:p.far?'#f85149':c, weight:p.far?2.4:1.2,
-      fillColor:c, fillOpacity:p.excluded?.25:.85});
-    m.bindTooltip(`${p.name}${z?` — ${z.name}`:''}`,{direction:'top'});
+      radius:p.far?6:4,
+      color:p.far?'#f85149':(has?'#e6edf3':c), weight:p.far?2.4:(has?1.6:1.2),
+      fillColor:c, fillOpacity:p.excluded?.25:(has?.9:.28)});
+    m.bindTooltip(`${p.name}${z?` — ${z.name}`:''}`+(has?'':' — no page yet'),
+                  {direction:'top'});
     m.on('click',()=>{crumb(p);openSpot(p);});
     m.addTo(pinLayer);
   });
-  document.getElementById('mcount').textContent=`${n} of ${PINS.length} pinned`;
+  document.getElementById('mcount').textContent=
+    `${n} of ${PINS.length} pinned · ${built} with pages`;
 }
 
 function buildPanel(){
@@ -1586,6 +1601,12 @@ document.getElementById('legend').innerHTML=
   `<span class="lg"><span class="swr"></span>rewritten</span>`+
   `<span class="lg"><span class="swr esc"></span>escalated</span>`+
   `<span class="lg"><span class="swr dim"></span>awaiting</span>`;
+// The map has its own convention (solid = the spot has a page), stated where
+// the map is rather than in the graph legend, which map mode hides.
+document.getElementById('mlegend').innerHTML=
+  `<span class="lg"><span class="sw" style="background:#58a6ff"></span>has a page</span>`+
+  `<span class="lg"><span class="sw" style="background:#58a6ff;opacity:.28"></span>no page yet</span>`+
+  `<span class="lg"><span class="swr esc"></span>far from zone centre</span>`;
 
 let cam={x:0,y:0,z:1};
 const bmp=document.createElement('canvas'),bcx=bmp.getContext('2d');

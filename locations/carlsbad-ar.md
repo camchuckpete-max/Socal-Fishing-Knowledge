@@ -56,5 +56,5 @@ Charted waypoints, as published in [the spot library](../sources/spot-lists.md):
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [North County Artificial Reefs](north-county-artificial-reefs.md)
 <!-- backlinks:end -->
