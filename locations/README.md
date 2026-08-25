@@ -18,6 +18,7 @@
 - [166](166.md) **[SoCal only]** — A charted spot at 32°39.000'N 117°43.700'W (cameron), in the The Corner / 140 / 182 … zone.
 - [172 / 125](172-125.md) **[SoCal only]** — A zone is a run grouping.
 - [172](172.md) **[SoCal only]** — A charted spot at 33°30.200'N 118°50.500'W (cameron), in the 172 / 125 zone.
+- [179 / 220](179-220.md) **[Baja only]** — A zone is a run grouping.
 - [181](181.md) **[SoCal only]** — A charted spot at 32°54.000'N 117°53.000'W (cameron), in the 51 / 181 / 138 zone.
 - [182](182.md) **[SoCal only]** — A charted spot at 32°41.300'N 117°42.400'W (cameron), in the The Corner / 140 / 182 … zone.
 - [213](213.md) **[Baja only]** — A charted spot at 31°48.200'N 117°51.800'W (cameron), in the 1010 Trench / 378 / 213 zone.
@@ -354,5 +355,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 341 notes exceed the 30-node cap._
+_Map skipped: 342 notes exceed the 30-node cap._
 <!-- mermaid:end -->

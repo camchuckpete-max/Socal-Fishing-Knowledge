@@ -417,6 +417,7 @@ Trip reports and per-source provenance:
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [1140 Finger / 450](../locations/1140-finger-450.md)
 - [172 / 125](../locations/172-125.md)
+- [179 / 220](../locations/179-220.md)
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
