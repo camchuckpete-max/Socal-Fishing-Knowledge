@@ -107,6 +107,7 @@ for the Bight.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Knife / Speed Jigging](knife-jigging.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

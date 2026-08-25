@@ -166,6 +166,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)

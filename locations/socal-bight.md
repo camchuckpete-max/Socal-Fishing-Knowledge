@@ -218,6 +218,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [LA - 270 / 286](la-270-286.md)
 - [La Jolla](la-jolla.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Oceanside / North County](oceanside-north-county.md)

@@ -479,6 +479,7 @@ Trip reports and per-source provenance:
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)

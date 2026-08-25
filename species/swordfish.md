@@ -122,6 +122,7 @@ Requirements before you stop:
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)

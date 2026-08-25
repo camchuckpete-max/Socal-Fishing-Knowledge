@@ -167,6 +167,7 @@ water color.
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)
 - [October](../seasonal/october.md)

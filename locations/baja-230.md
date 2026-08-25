@@ -40,5 +40,5 @@ A charted spot at **31°16.800'N 116°50.800'W** (cameron), in the [Baja - 230 /
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 <!-- backlinks:end -->

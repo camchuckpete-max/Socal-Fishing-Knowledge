@@ -334,6 +334,7 @@ become primary).
 - [June–July](../seasonal/june-july.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Kelp Paddies](kelp-paddies.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Lower Cross](../locations/lower-cross.md)

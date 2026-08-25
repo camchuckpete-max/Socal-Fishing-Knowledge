@@ -40,5 +40,5 @@ A charted spot at **33°43.833'N 118°42.333'W** (cameron), in the [The Boot (50
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [The Boot (504) / 307](boot-504-307.md)
 <!-- backlinks:end -->

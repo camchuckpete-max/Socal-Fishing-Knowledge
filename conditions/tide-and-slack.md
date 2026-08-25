@@ -118,6 +118,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Moon](moon.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)

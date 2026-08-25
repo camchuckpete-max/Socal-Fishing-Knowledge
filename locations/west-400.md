@@ -40,5 +40,5 @@ A charted spot at **31°09.800'N 118°28.300'W** (cameron), in the [Sniffer / We
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 <!-- backlinks:end -->

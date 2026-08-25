@@ -27,6 +27,7 @@
 - [Evidence — Ensenada](ensenada.md) — The observation layer behind Ensenada.
 - [Evidence — Imperial Beach](imperial-beach.md) — The observation layer behind Imperial Beach.
 - [Evidence — International Artificial Reef](international-artificial-reef.md) — The observation layer behind International Artificial Reef.
+- [Evidence — LA - 270 / 286](la-270-286.md) — Provenance for LA - 270 / 286.
 - [Evidence — La Jolla](la-jolla.md) — The observation layer behind La Jolla.
 - [Evidence — Loreto & Puerto Escondido](loreto.md) — The observation layer behind Loreto & Puerto Escondido.
 - [Evidence — Mexican waters](mexican-waters.md) — The observation layer behind Mexican waters.
@@ -50,5 +51,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 40 notes exceed the 30-node cap._
+_Map skipped: 41 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -77,6 +77,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)

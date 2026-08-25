@@ -137,6 +137,7 @@ Trip reports and per-source provenance:
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [LA - 270 / 286](la-270-286.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [The Boot (504) / 307](boot-504-307.md)

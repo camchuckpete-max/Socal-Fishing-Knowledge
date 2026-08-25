@@ -440,6 +440,7 @@ current "should" carry everything astern.
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)

@@ -170,6 +170,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
+- [LA - 270 / 286](la-270-286.md)
 - [Lower Cross](lower-cross.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

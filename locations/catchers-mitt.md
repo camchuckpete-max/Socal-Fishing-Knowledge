@@ -40,5 +40,5 @@ A charted spot at **30°58.000'N 117°40.000'W** (cameron), in the [Lower Cross]
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Lower Cross](lower-cross.md)
 <!-- backlinks:end -->

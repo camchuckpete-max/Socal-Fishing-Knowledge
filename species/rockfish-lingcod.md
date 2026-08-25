@@ -374,6 +374,7 @@ the *bottom*, not the fish.
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

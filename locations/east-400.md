@@ -40,5 +40,5 @@ A charted spot at **31°13.633'N 118°00.750'W** (cameron), in the [483/500 / 43
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [483/500 / 437](483-500-437.md)
 <!-- backlinks:end -->

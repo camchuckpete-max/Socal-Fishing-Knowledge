@@ -420,6 +420,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

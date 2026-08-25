@@ -40,5 +40,5 @@ A charted spot at **31°18.000'N 117°11.000'W** (cameron), in the [1140 Finger 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [1140 Finger / 450](1140-finger-450.md)
 <!-- backlinks:end -->

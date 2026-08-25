@@ -494,6 +494,7 @@ grade, or technique detail given for the dorado specifically.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
+- [LA - 270 / 286](../locations/la-270-286.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
