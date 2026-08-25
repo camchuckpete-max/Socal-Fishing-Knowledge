@@ -128,6 +128,7 @@ Trip reports and per-source provenance:
 
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
 - [Evidence — US waters](evidence/us-waters.md)
+- [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

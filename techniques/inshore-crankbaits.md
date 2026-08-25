@@ -320,6 +320,7 @@ anglers skip.
 - [California Halibut](../species/california-halibut.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Imperial Beach](../locations/imperial-beach.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)

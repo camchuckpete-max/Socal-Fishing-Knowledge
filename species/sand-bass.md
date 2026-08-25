@@ -169,6 +169,7 @@ rocks.
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [February–March](../seasonal/february-march.md)
+- [Imperial Beach](../locations/imperial-beach.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Iron Jigs](../lures/iron-jigs.md)

@@ -199,6 +199,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md)
 - [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md)
 - [Evidence — La Jolla](evidence/la-jolla.md)
+- [Imperial Beach](imperial-beach.md)
 - [La Jolla Canyon](la-jolla-canyon.md)
 - [La Jolla Canyon Shelf rockfish area](la-jolla-canyon-shelf-rockfish-area.md)
 - [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md)

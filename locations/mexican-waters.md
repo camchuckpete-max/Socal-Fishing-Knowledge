@@ -98,6 +98,7 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
+- [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Loreto & Puerto Escondido](loreto.md)

@@ -119,6 +119,7 @@ Trip reports and per-source provenance:
 - [Coronado Canyon](coronado-canyon.md)
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)
 - [Evidence — Coronado Islands](evidence/coronado-islands.md)
+- [Imperial Beach](imperial-beach.md)
 - [Lighthouse](lighthouse.md)
 - [Lower 9 Mile Bank](lower-9-mile-bank.md)
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md)

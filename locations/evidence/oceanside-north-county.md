@@ -116,5 +116,6 @@ observation. Observations never change the note's stated doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Imperial Beach](imperial-beach.md)
 - [Oceanside / North County](../oceanside-north-county.md)
 <!-- backlinks:end -->

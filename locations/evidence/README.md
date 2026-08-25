@@ -15,6 +15,7 @@
 - [Evidence — Cortez North](cortez-north.md) — The observation layer behind Cortez North.
 - [Evidence — Cortez South](cortez-south.md) — The observation layer behind Cortez South.
 - [Evidence — Dana Point](dana-point.md) — The observation layer behind Dana Point.
+- [Evidence — Imperial Beach](imperial-beach.md) — The observation layer behind Imperial Beach.
 - [Evidence — International Artificial Reef](international-artificial-reef.md) — The observation layer behind International Artificial Reef.
 - [Evidence — La Jolla](la-jolla.md) — The observation layer behind La Jolla.
 - [Evidence — Loreto & Puerto Escondido](loreto.md) — The observation layer behind Loreto & Puerto Escondido.
@@ -50,22 +51,24 @@ graph LR
   n8["Evidence — Cortez North"]
   n9["Evidence — Cortez South"]
   n10["Evidence — Dana Point"]
-  n11["Evidence — International Artificial Reef"]
-  n12["Evidence — La Jolla"]
-  n13["Evidence — Loreto & Puerto Escondido"]
-  n14["Evidence — Mexican waters"]
-  n15["Evidence — North County Artificial Reefs"]
-  n16["Evidence — Oceanside / North County"]
-  n17["Evidence — Point Loma"]
-  n18["Evidence — Punta Banda / Santo Tomas"]
-  n19["Evidence — San Clemente Island, Back Side"]
-  n20["Evidence — San Clemente Island, Front Side"]
-  n21["Evidence — San Diego Artificial Reefs"]
-  n22["Evidence — San Nicolas Island"]
-  n23["Evidence — San Quintin"]
-  n24["Evidence — Santa Barbara Island"]
-  n25["Evidence — Southern California Bight"]
-  n26["Evidence — US waters"]
-  n13 --> n0
+  n11["Evidence — Imperial Beach"]
+  n12["Evidence — International Artificial Reef"]
+  n13["Evidence — La Jolla"]
+  n14["Evidence — Loreto & Puerto Escondido"]
+  n15["Evidence — Mexican waters"]
+  n16["Evidence — North County Artificial Reefs"]
+  n17["Evidence — Oceanside / North County"]
+  n18["Evidence — Point Loma"]
+  n19["Evidence — Punta Banda / Santo Tomas"]
+  n20["Evidence — San Clemente Island, Back Side"]
+  n21["Evidence — San Clemente Island, Front Side"]
+  n22["Evidence — San Diego Artificial Reefs"]
+  n23["Evidence — San Nicolas Island"]
+  n24["Evidence — San Quintin"]
+  n25["Evidence — Santa Barbara Island"]
+  n26["Evidence — Southern California Bight"]
+  n27["Evidence — US waters"]
+  n11 --> n17
+  n14 --> n0
 ```
 <!-- mermaid:end -->

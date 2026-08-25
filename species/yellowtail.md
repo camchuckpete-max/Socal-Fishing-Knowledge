@@ -395,6 +395,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Imperial Beach](../locations/imperial-beach.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)

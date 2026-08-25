@@ -205,6 +205,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
+- [Imperial Beach](imperial-beach.md)
 - [International Reef A](international-reef-a.md)
 - [International Reef B](international-reef-b.md)
 - [International Reef C](international-reef-c.md)

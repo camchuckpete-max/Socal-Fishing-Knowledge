@@ -209,6 +209,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
 - [Dana Point](dana-point.md)
+- [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [La Jolla](la-jolla.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)

@@ -480,6 +480,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Imperial Beach](../locations/imperial-beach.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)

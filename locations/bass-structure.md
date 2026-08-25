@@ -69,6 +69,7 @@ current-over-structure mechanism ties it together in
 - [California Barracuda](../species/barracuda.md)
 - [Dana Point](dana-point.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Imperial Beach](imperial-beach.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Oceanside / North County](oceanside-north-county.md)

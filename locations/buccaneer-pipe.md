@@ -40,5 +40,6 @@ A charted spot at **33°10.340'N 117°22.700'W** (cameron), in the [Oceanside / 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Imperial Beach](imperial-beach.md)
 - [Oceanside / North County](oceanside-north-county.md)
 <!-- backlinks:end -->

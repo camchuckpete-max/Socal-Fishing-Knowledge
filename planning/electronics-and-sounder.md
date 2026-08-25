@@ -482,6 +482,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
+- [Imperial Beach](../locations/imperial-beach.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [November–December](../seasonal/november-december.md)

@@ -83,6 +83,7 @@ See [water color](../conditions/water-color.md) and
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
+- [Imperial Beach](../locations/imperial-beach.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Point Loma](../locations/point-loma.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

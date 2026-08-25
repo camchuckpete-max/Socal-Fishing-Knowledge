@@ -240,6 +240,7 @@ Trip reports and per-source provenance:
 - [Evidence — Oceanside / North County](evidence/oceanside-north-county.md)
 - [Flat Rock](flat-rock.md)
 - [Golf Ball](golf-ball.md)
+- [Imperial Beach](imperial-beach.md)
 - [Leucadia rockfish area](leucadia-rockfish-area.md)
 - [Ponto](ponto.md)
 - [Powerhouse Kelp](powerhouse-kelp.md)
