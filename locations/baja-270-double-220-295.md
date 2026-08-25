@@ -284,7 +284,9 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [295](295.md)
+- [Baja - 270](baja-270.md)
+- [Double 220](double-220.md)
 <!-- children:end -->
 
 ## Evidence
@@ -296,5 +298,8 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [295](295.md)
+- [Baja - 270](baja-270.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Double 220](double-220.md)
 <!-- backlinks:end -->

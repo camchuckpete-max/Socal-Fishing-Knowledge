@@ -206,7 +206,9 @@ beyond its position and the one unresolved corridor mention, so each spot page i
 coordinates plus its parent zone until sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Hidden Bank](hidden-bank.md)
+- [Upper 500](upper-500.md)
+- [Upper Hidden Bank](upper-hidden-bank.md)
 <!-- children:end -->
 
 ## Evidence
@@ -220,4 +222,7 @@ coordinates plus its parent zone until sources arrive.
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Upper 500 / Hidden Bank](evidence/upper-500-hidden-bank.md)
+- [Hidden Bank](hidden-bank.md)
+- [Upper 500](upper-500.md)
+- [Upper Hidden Bank](upper-hidden-bank.md)
 <!-- backlinks:end -->

@@ -670,4 +670,26 @@ by their builders after the transform phase drains.
 | locations/245.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/250.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/dumping-grounds.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/172.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/125.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/499.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/152.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/277.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/181.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/51.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/138.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/81.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/381.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/267.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/91.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/300.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/157.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/w-butterfly.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/mushroom.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/hidden-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/upper-500.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/upper-hidden-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/295.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/baja-270.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/double-220.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 <!-- review:worklist:end -->
