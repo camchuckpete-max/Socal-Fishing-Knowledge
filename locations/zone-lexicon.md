@@ -128,6 +128,7 @@ many *drops*.
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)

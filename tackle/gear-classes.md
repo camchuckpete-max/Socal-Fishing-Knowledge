@@ -312,6 +312,7 @@ does the lookup.
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
+- [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Savage Gear Line Thru 3D Swimbait — Threading the Mainline (Tackle Express)](tackle-express-savage-gear-line-thru-swimbait-rigging.md)
 - [Searcher 50/60/80 lb Live-Bait Flyline Outfit — "Don't Leave the Dock Without It" (Steve Carson, Penn/SearcherSportfishing, 2019-09-12)](searcher-50-60-80lb-flyline-outfit.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)

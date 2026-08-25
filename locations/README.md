@@ -70,6 +70,7 @@
 - [Salta Verde Cod 7 (40 fa)](salta-verde-cod-7-40-fa.md) **[SoCal only]** — A charted spot at 33°18.140'N 118°24.630'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod 8 (43 fa)](salta-verde-cod-8-43-fa.md) **[SoCal only]** — A charted spot at 33°18.180'N 118°25.210'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod Pinnacle](salta-verde-cod-pinnacle.md) **[SoCal only]** — A charted spot at 33°18.660'N 118°24.900'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [San Diego Artificial Reefs](san-diego-artificial-reefs.md) **[SoCal only]** — The built-structure zone off central San Diego: 18 charted waypoints in the spot library (cameron), in three groups — Torrey Pines AR 1–2, the twelve-point Paci
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
 - [Ship Rock (stay W of MPA at 118 29.300)](ship-rock.md) **[SoCal only]** — A charted spot at 33°27.760'N 118°29.430'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [The Slide (Catalina)](slide.md) **[SoCal only]** — A charted spot at 33°18.800'N 118°18.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -92,5 +93,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 79 notes exceed the 30-node cap._
+_Map skipped: 80 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -175,6 +175,7 @@ rocks.
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Southern California Bight](../locations/socal-bight.md)

@@ -75,5 +75,6 @@ you were dead." (`ty8FtA3Y2bA`)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 <!-- backlinks:end -->

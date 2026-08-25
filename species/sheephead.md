@@ -130,6 +130,7 @@ glassing](../planning/search-and-glassing.md),
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
+- [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)

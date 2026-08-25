@@ -696,6 +696,7 @@ release *ethic* and the regional policies are below.
 - [Pacific Bonito](bonito.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
