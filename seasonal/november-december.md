@@ -101,6 +101,7 @@ the fish won't be on the surface. See
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](../conditions/sea-state.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->

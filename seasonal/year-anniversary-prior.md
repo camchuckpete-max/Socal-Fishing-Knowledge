@@ -78,6 +78,7 @@ open framing is attributed doctrine, not a gate.
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Moon](../conditions/moon.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

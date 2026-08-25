@@ -12,7 +12,8 @@ as_of: 2026-08
 
 **The paperwork rung.** Not a fishing page — this is what you must carry, buy
 or know to fish legally on the US side of the line, and what happens when you
-are checked. One region sits under it, [socal-bight](regions.md), so in
+are checked. One region sits under it, the
+[Southern California Bight](socal-bight.md), so in
 practice US waters here means California: CDFW owns anything with a fish in it,
 the USCG anything with a hull in it. How to fish belongs to the region and
 zones below.
@@ -118,4 +119,5 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — US waters](evidence/us-waters.md)
+- [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

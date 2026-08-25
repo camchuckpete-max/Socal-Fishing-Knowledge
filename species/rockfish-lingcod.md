@@ -359,6 +359,7 @@ the *bottom*, not the fish.
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

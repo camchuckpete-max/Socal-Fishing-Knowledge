@@ -411,6 +411,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)

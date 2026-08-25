@@ -112,6 +112,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

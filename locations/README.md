@@ -27,6 +27,7 @@
 - [Ribbon Kelp](ribbon-kelp.md) **[Baja only]** — A charted spot at 32°24.800'N 117°13.880'W (cameron), in the Coronado Islands zone.
 - [Rockpile](rockpile.md) **[Baja only]** — A charted spot at 32°17.620'N 117°10.030'W (cameron), in the Coronado Islands zone.
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
+- [Southern California Bight](socal-bight.md) **[SoCal only]** — The character rung.
 - [South Kelp Ridge](south-kelp-ridge.md) **[Baja only]** — A charted spot at 32°22.000'N 117°13.260'W (cameron), in the Coronado Islands zone.
 - [US waters](us-waters.md) — The paperwork rung.
 - [Zone Lexicon](zone-lexicon.md) **[SoCal only]** — The vocabulary of SoCal fishing zones — how to name a spot, how to think about a spot as a *box* rather than a pin, and how big that box is.
@@ -64,9 +65,10 @@ graph LR
   n20["Ribbon Kelp"]
   n21["Rockpile"]
   n22["Sea of Cortez"]
-  n23["South Kelp Ridge"]
-  n24["US waters"]
-  n25["Zone Lexicon"]
+  n23["Southern California Bight"]
+  n24["South Kelp Ridge"]
+  n25["US waters"]
+  n26["Zone Lexicon"]
   n0 --> n10
   n1 --> n14
   n1 --> n16
@@ -85,13 +87,22 @@ graph LR
   n21 --> n10
   n22 --> n1
   n22 --> n14
-  n23 --> n10
-  n24 --> n16
-  n24 --> n19
-  n25 --> n12
-  n25 --> n3
-  n25 --> n5
-  n25 --> n6
+  n23 --> n12
+  n23 --> n19
+  n23 --> n25
+  n23 --> n26
+  n23 --> n3
+  n23 --> n4
+  n23 --> n5
+  n23 --> n6
+  n23 --> n7
+  n24 --> n10
+  n25 --> n16
+  n25 --> n23
+  n26 --> n12
+  n26 --> n3
+  n26 --> n5
+  n26 --> n6
   n4 --> n7
   n5 --> n12
   n7 --> n4
