@@ -705,6 +705,7 @@ release *ethic* and the regional policies are below.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

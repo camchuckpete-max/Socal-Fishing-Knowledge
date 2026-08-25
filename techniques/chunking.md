@@ -349,6 +349,7 @@ fish around the boat once you're on them.
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
+- [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Swimbaits](swimbaits.md)

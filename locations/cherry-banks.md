@@ -40,5 +40,5 @@ A charted spot at **32°52.000'N 119°24.800'W** (cameron), in the [San Nicolas 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [San Nicolas Island](san-nicolas-island.md)
 <!-- backlinks:end -->

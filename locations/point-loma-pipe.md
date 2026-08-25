@@ -40,5 +40,5 @@ A charted spot at **32°40.350'N 117°17.000'W** (cameron), in the [Point Loma](
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Point Loma](point-loma.md)
 <!-- backlinks:end -->

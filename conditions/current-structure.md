@@ -328,6 +328,7 @@ become primary).
 - [Point Loma](../locations/point-loma.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

@@ -186,6 +186,7 @@
 - [Salta Verde](salta-verde.md) **[SoCal only]** — A charted spot at 33°18.842'N 118°24.963'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [San Clemente Artificial Reef (mainland city)](san-clemente-artificial-reef.md) **[SoCal only]** — A charted spot at 33°23.890'N 117°37.200'W (cameron), in the Dana Point zone.
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md) **[SoCal only]** — The ocean-facing side of San Clemente Island, running N→S from the 9 Fathom Spot at the northwest end to Desperation Reef at the southeast end, with 12 charted
+- [San Clemente Island — Front Side](san-clemente-island-front-side.md) **[SoCal only]** — The mainland-facing side of San Clemente Island, running N→S from Northwest Harbor at the northwest end to the Pyramid Cove / Pyramid Head end, with seven chart
 - [San Clemente Kelp (mainland city)](san-clemente-kelp.md) **[SoCal only]** — A charted spot at 33°24.450'N 117°38.140'W (cameron), in the Dana Point zone.
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md) **[SoCal only]** — The built-structure zone off central San Diego: 18 charted waypoints in the spot library (cameron), in three groups — Torrey Pines AR 1–2, the twelve-point Paci
 - [San Martin Island Anchorage](san-martin-island-anchorage.md) **[Baja only]** — A charted spot at 30°29.180'N 116°06.150'W (cameron), in the San Quintin zone.
@@ -237,5 +238,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 224 notes exceed the 30-node cap._
+_Map skipped: 225 notes exceed the 30-node cap._
 <!-- mermaid:end -->

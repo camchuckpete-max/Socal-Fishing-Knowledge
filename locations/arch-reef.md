@@ -40,5 +40,5 @@ A charted spot at **33°28.859'N 119°03.749'W** (cameron), in the [Santa Barbar
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Santa Barbara Island](santa-barbara-island.md)
 <!-- backlinks:end -->

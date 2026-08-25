@@ -40,5 +40,5 @@ A charted spot at **32°59.460'N 118°35.370'W** (cameron), in the [San Clemente
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 <!-- backlinks:end -->

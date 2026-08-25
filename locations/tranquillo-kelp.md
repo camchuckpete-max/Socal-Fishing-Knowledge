@@ -40,5 +40,5 @@ A charted spot at **30°17.000'N 115°49.000'W** (cameron), in the [San Quintin]
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [San Quintin](san-quintin.md)
 <!-- backlinks:end -->

@@ -439,6 +439,7 @@ current "should" carry everything astern.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](../locations/socal-bight.md)

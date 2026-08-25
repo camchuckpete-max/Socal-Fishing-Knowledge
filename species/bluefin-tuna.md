@@ -473,6 +473,7 @@ Trip reports and per-source provenance:
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)

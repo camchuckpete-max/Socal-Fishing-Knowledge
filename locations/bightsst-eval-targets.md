@@ -60,6 +60,7 @@ itself. This is captured as doctrine in
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [La Jolla](la-jolla.md)
+- [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [Southern California Bight](socal-bight.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Zone Lexicon](zone-lexicon.md)

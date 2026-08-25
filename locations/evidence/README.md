@@ -24,6 +24,7 @@
 - [Evidence — Point Loma](point-loma.md) — The observation layer behind Point Loma.
 - [Evidence — Punta Banda / Santo Tomas](punta-banda-santo-tomas.md) — The observation layer behind Punta Banda / Santo Tomas.
 - [Evidence — San Clemente Island, Back Side](san-clemente-island-back-side.md) — The observation layer behind San Clemente Island — Back Side.
+- [Evidence — San Clemente Island, Front Side](san-clemente-island-front-side.md) — The observation layer behind San Clemente Island — Front Side.
 - [Evidence — San Diego Artificial Reefs](san-diego-artificial-reefs.md) — The observation layer behind San Diego Artificial Reefs.
 - [Evidence — San Nicolas Island](san-nicolas-island.md) — The observation layer behind San Nicolas Island.
 - [Evidence — San Quintin](san-quintin.md) — The observation layer behind San Quintin.
@@ -58,12 +59,13 @@ graph LR
   n17["Evidence — Point Loma"]
   n18["Evidence — Punta Banda / Santo Tomas"]
   n19["Evidence — San Clemente Island, Back Side"]
-  n20["Evidence — San Diego Artificial Reefs"]
-  n21["Evidence — San Nicolas Island"]
-  n22["Evidence — San Quintin"]
-  n23["Evidence — Santa Barbara Island"]
-  n24["Evidence — Southern California Bight"]
-  n25["Evidence — US waters"]
+  n20["Evidence — San Clemente Island, Front Side"]
+  n21["Evidence — San Diego Artificial Reefs"]
+  n22["Evidence — San Nicolas Island"]
+  n23["Evidence — San Quintin"]
+  n24["Evidence — Santa Barbara Island"]
+  n25["Evidence — Southern California Bight"]
+  n26["Evidence — US waters"]
   n13 --> n0
 ```
 <!-- mermaid:end -->

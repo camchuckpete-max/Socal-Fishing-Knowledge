@@ -40,5 +40,5 @@ A charted spot at **31°35.200'N 116°39.800'W** (cameron), in the [Punta Banda 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 <!-- backlinks:end -->

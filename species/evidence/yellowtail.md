@@ -179,5 +179,6 @@ nothing was deleted, only moved.
 - [Cedros / San Benitos](../../locations/cedros-island.md)
 - [Evidence — Bahía de los Ángeles](../../locations/evidence/bahia-de-los-angeles.md)
 - [San Clemente Island — Back Side](../../locations/san-clemente-island-back-side.md)
+- [San Clemente Island — Front Side](../../locations/san-clemente-island-front-side.md)
 - [Yellowtail](../yellowtail.md)
 <!-- backlinks:end -->

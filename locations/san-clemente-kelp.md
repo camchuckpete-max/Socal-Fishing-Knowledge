@@ -40,5 +40,5 @@ A charted spot at **33°24.450'N 117°38.140'W** (cameron), in the [Dana Point](
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Dana Point](dana-point.md)
 <!-- backlinks:end -->

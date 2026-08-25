@@ -215,6 +215,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [Oceanside / North County](oceanside-north-county.md)
 - [Point Loma](point-loma.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
+- [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [Santa Barbara Island](santa-barbara-island.md)
@@ -290,5 +291,6 @@ Trip reports and per-source provenance:
 - [International Artificial Reef](international-artificial-reef.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

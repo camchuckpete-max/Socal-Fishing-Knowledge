@@ -131,6 +131,7 @@ many *drops*.
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [San Quintin](san-quintin.md)

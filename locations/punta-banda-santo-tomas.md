@@ -162,5 +162,6 @@ Trip reports and per-source provenance:
 - [Isolete](isolete.md)
 - [La Bufadora](la-bufadora.md)
 - [Punta Santo Tomas](punta-santo-tomas.md)
+- [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [White Rock](white-rock.md)
 <!-- backlinks:end -->

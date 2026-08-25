@@ -40,5 +40,5 @@ A charted spot at **32°32.647'N 117°14.803'W** (cameron), in the [Internationa
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [International Artificial Reef](international-artificial-reef.md)
 <!-- backlinks:end -->
