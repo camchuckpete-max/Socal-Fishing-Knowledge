@@ -72,6 +72,7 @@ the same structure.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [The Boot (504) / 307](../locations/boot-504-307.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

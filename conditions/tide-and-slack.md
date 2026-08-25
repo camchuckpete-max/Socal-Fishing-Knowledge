@@ -123,6 +123,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Water Color](water-color.md)
 - [White Seabass](../species/white-seabass.md)

@@ -109,6 +109,7 @@ for the Bight.
 - [Lower Cross](../locations/lower-cross.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)

@@ -239,5 +239,6 @@ Trip reports and per-source provenance:
 - [Sentinel Rock](sentinel-rock.md)
 - [Silver Canyon](silver-canyon.md)
 - [Southern California Bight](socal-bight.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [Whale Rock](whale-rock.md)
 <!-- backlinks:end -->

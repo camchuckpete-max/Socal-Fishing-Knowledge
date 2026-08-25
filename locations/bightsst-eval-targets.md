@@ -69,6 +69,7 @@ itself. This is captured as doctrine in
 - [Lower Cross](lower-cross.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [Southern California Bight](socal-bight.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [W. Butterfly / 157](w-butterfly-157.md)

@@ -167,6 +167,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [June–July](../seasonal/june-july.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
+- [The Boot (504) / 307](../locations/boot-504-307.md)
 - [Wahoo](../species/wahoo.md)
 - [Water Color](water-color.md)
 - [Water Regimes](water-regimes.md)

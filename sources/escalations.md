@@ -186,3 +186,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T08:24:31Z — locations/slide-152-277.md — verify-escalate
 - run: 32823647687
 - reason: species/striped-marlin.md (lines ~81-82, still pending) carries the same unsupported claim that the ~160 lb 3qSY328fFYo marlin was taken on a live mackerel dropback bait — the transcript says it was released on the flying-fish jig; out of scope for this unit, needs correcting in its own review.
+
+## 2026-08-25T11:14:55Z — locations/socal-bight.md — verify-escalate
+- run: 32835231455
+- reason: The region page's Offshore banks table still carries 'The Boot (504) / 307 | 2 | Flagged stub - no corpus source yet', but 5to3Q5P7w90 names the Boot for marlin (Masters tournament weekend, 2022-09-14 report) and that is now written up in locations/boot-504-307.md. The stub row is stale; out of scope for this unit (parent must not be hand-edited) and needs correcting in the region page's own pass.

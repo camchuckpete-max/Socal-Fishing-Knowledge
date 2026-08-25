@@ -293,6 +293,7 @@ Trip reports and per-source provenance:
 - [Ship Rock (stay W of MPA at 118 29.300)](ship-rock.md)
 - [Southern California Bight](socal-bight.md)
 - [Stony Point](stony-point.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [The Slide (Catalina)](slide.md)
 - [The Slide / 152 / 277](slide-152-277.md)
 - [Toyon Bay](toyon-bay.md)

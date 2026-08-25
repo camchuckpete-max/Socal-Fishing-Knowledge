@@ -12,6 +12,7 @@
 - [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md) — The observation layer behind Magdalena Bay.
 - [Evidence — Baja Pacific — North](baja-pacific-north.md) — The observation layer behind Baja Pacific — North.
 - [Evidence — Baja Pacific — South](baja-pacific-south.md) — The observation layer behind Baja Pacific — South.
+- [Evidence — The Boot (504) / 307](boot-504-307.md) — Provenance for The Boot (504) / 307.
 - [Evidence — Catalina Island, Backside](catalina-island-backside.md) — The observation layer behind Catalina Island — Backside.
 - [Evidence — Catalina Island, Front Side](catalina-island-front-side.md) — The observation layer behind Catalina Island — Front Side.
 - [Evidence — Cedros / San Benitos](cedros-island.md) — The observation layer behind Cedros / San Benitos.
@@ -49,5 +50,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 39 notes exceed the 30-node cap._
+_Map skipped: 40 notes exceed the 30-node cap._
 <!-- mermaid:end -->

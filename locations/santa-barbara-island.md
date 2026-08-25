@@ -267,6 +267,7 @@ Trip reports and per-source provenance:
 - [Osborn Bank](osborn-bank.md)
 - [Southern California Bight](socal-bight.md)
 - [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [Three Sisters (caution — boilers)](three-sisters.md)
 - [Webster Point](webster-point.md)
 <!-- backlinks:end -->

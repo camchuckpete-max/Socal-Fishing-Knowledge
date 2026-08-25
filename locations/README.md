@@ -99,6 +99,7 @@
 - [Billy's Bluff](billy-s-bluff.md) **[Baja only]** — A charted spot at 31°37.120'N 116°40.540'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [Bird Rock Reef (stay W of MPA at 118 29.300)](bird-rock-reef.md) **[SoCal only]** — A charted spot at 33°27.120'N 118°29.330'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Blockhouse](blockhouse.md) **[SoCal only]** — A charted spot at 33°16.875'N 119°29.313'W (cameron), in the San Nicolas Island zone.
+- [The Boot (504) / 307](boot-504-307.md) **[SoCal only]** — A zone is a run grouping.
 - [Box Canyon rockfish area](box-canyon-rockfish-area.md) **[SoCal only]** — A charted spot at 33°17.290'N 117°34.150'W (cameron), in the Oceanside / North County zone.
 - [Breakers Reef](breakers-reef.md) **[Baja only]** — A charted spot at 30°20.100'N 116°06.700'W (cameron), in the San Quintin zone.
 - [Break Walls, Jetties and Riprap](breakwalls-jetties-riprap.md) **[SoCal only]** — Man-made rock structure — harbor break walls, jetties, and riprap channel edges — read as fishing structure.
@@ -356,5 +357,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 343 notes exceed the 30-node cap._
+_Map skipped: 344 notes exceed the 30-node cap._
 <!-- mermaid:end -->

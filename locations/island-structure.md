@@ -183,6 +183,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 - [W. Butterfly / 157](w-butterfly-157.md)

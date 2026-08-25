@@ -138,6 +138,7 @@ Trip reports and per-source provenance:
 - [International Artificial Reef](international-artificial-reef.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
+- [The Boot (504) / 307](boot-504-307.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Slide / 152 / 277](slide-152-277.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
