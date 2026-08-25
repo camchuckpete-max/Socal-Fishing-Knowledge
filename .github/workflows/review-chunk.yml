@@ -166,6 +166,25 @@ jobs:
             git push origin "HEAD:$BRANCH" || (git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH")
           fi
 
+      # Cameron's watch surface should track the chain, not a clock. The
+      # publish workflow declares `workflow_run: [review-chunk]`, but that
+      # never fires: workflow_run is resolved from the DEFAULT-branch registry
+      # and these runs happen on the review branch, so the page has been
+      # refreshing only on its hourly cron — and GitHub throttles that to
+      # ~80-minute gaps while the chain lands a chunk every ~30. Dispatching
+      # it directly is deterministic; the pages concurrency group is
+      # cancel-in-progress, so an extra dispatch just supersedes.
+      - name: Refresh Review Watch
+        if: always() && steps.preflight.outputs.proceed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh workflow run publish-review-watch.yml --ref main \
+            -f branch="$BRANCH" \
+            || echo "::warning::Could not dispatch publish-review-watch; the hourly cron still covers it."
+
       - name: Pace, then re-dispatch next chunk
         if: always() && steps.preflight.outputs.proceed == 'true'
         env:
