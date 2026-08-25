@@ -124,6 +124,7 @@ glassing](../planning/search-and-glassing.md),
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

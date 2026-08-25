@@ -92,5 +92,4 @@ their rod/holder pairing (diver duty out of the TLD 20), are in
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
-- [Cedros Island](../locations/cedros-island.md)
 <!-- backlinks:end -->

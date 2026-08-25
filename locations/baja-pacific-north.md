@@ -199,7 +199,7 @@ charted spots between them and nothing in the corpus describes fishing any of
 them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Cedros / San Benitos](cedros-island.md)
 <!-- children:end -->
 
 ## Access & range
@@ -255,6 +255,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [Cedros / San Benitos](cedros-island.md)
 - [Cortez North](cortez-north.md)
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)
 - [Mexican waters](mexican-waters.md)

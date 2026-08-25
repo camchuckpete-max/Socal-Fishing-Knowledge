@@ -611,6 +611,7 @@ rods come tight on big bluefin together.
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)

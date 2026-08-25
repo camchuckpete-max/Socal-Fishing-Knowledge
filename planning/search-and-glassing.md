@@ -419,6 +419,7 @@ current "should" carry everything astern.
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)

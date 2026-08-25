@@ -543,7 +543,7 @@ the bluefin nearby become more cooperative too.**
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
-- [Cedros Island](../locations/cedros-island.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)

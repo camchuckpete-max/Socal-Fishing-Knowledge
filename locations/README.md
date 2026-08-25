@@ -22,7 +22,7 @@
 - [Can Dump Kelp](can-dump-kelp.md) **[SoCal only]** — A charted spot at 33°19.819'N 118°18.416'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Carlsbad AR](carlsbad-ar.md) **[SoCal only]** — The Carlsbad AR series — 12 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
 - [Catalina Island — Front Side](catalina-island-front-side.md) **[SoCal only]** — The mainland-facing side of Catalina, running W→E from Johnson Rock at the West End to The Slide at the east end, with 22 charted shoreline spots, 17 charted ro
-- [Cedros Island](cedros-island.md) **[Baja only]** — [Baja only] — Isla de Cedros sits off the Pacific coast of Baja California at roughly 28°N, just inside the northern half of the Baja Pacific line.
+- [Cedros / San Benitos](cedros-island.md) **[Baja only]** — [Baja only] — the island complex at the south end of Baja Pacific — North: Cedros Island, the San Benito Islands, Geronimo Island and Chester's Rock, with Punta
 - [Coronado Canyon](coronado-canyon.md) **[Baja only]** — A charted spot at 32°30.300'N 117°17.500'W (cameron), in the Coronado Islands zone.
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
 - [Cortez North](cortez-north.md) **[Baja only]** — The character rung.

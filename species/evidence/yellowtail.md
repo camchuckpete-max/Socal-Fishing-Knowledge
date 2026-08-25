@@ -175,6 +175,7 @@ nothing was deleted, only moved.
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../../locations/bahia-de-los-angeles.md)
 - [Catalina Island — Front Side](../../locations/catalina-island-front-side.md)
+- [Cedros / San Benitos](../../locations/cedros-island.md)
 - [Evidence — Bahía de los Ángeles](../../locations/evidence/bahia-de-los-angeles.md)
 - [Yellowtail](../yellowtail.md)
 <!-- backlinks:end -->

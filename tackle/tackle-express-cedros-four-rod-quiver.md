@@ -115,6 +115,6 @@ confirmation, so this stays at `medium` confidence.
 ## Linked from
 
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
-- [Cedros Island](../locations/cedros-island.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md)
 <!-- backlinks:end -->

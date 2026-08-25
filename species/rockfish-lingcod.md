@@ -344,6 +344,7 @@ the *bottom*, not the fish.
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Sheephead](sheephead.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

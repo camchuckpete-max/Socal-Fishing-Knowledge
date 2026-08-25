@@ -469,6 +469,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Day-Plan Protocol](day-plan-protocol.md)

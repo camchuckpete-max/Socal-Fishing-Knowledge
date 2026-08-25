@@ -818,7 +818,6 @@ confidence.
 - [California Barracuda](../species/barracuda.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
-- [Cedros Island](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)

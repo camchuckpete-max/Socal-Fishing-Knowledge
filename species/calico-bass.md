@@ -669,7 +669,7 @@ release *ethic* and the regional policies are below.
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [California Barracuda](barracuda.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
-- [Cedros Island](../locations/cedros-island.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

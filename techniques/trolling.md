@@ -1083,6 +1083,7 @@ covered above, not a new tool.
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Cedar Plug](../lures/cedar-plug.md)
+- [Cedros / San Benitos](../locations/cedros-island.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)

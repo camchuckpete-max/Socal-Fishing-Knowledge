@@ -258,7 +258,6 @@ against alternatives.
 ## Linked from
 
 - [California Barracuda](../species/barracuda.md)
-- [Cedros Island](../locations/cedros-island.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)

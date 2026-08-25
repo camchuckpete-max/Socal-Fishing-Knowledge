@@ -114,6 +114,7 @@ Trip reports and per-source provenance:
 
 - [5-Minute Kelp](5-minute-kelp.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Cedros / San Benitos](cedros-island.md)
 - [Coronado Canyon](coronado-canyon.md)
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)
 - [Evidence — Coronado Islands](evidence/coronado-islands.md)
