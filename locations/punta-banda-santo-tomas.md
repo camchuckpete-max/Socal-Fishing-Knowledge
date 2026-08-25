@@ -157,6 +157,7 @@ Trip reports and per-source provenance:
 - [Bahia Soledad](bahia-soledad.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Billy's Bluff](billy-s-bluff.md)
+- [Colonet](colonet.md)
 - [El Retiro](el-retiro.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Punta Banda / Santo Tomas](evidence/punta-banda-santo-tomas.md)

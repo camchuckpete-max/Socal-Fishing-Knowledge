@@ -347,6 +347,7 @@ the *bottom*, not the fish.
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Colonet](../locations/colonet.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

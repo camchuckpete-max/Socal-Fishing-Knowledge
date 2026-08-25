@@ -718,6 +718,7 @@ the reverse map in **Linked from** below.
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Colonet](../locations/colonet.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Current Diagnostics](../conditions/current-diagnostics.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)

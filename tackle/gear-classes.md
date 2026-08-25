@@ -273,6 +273,7 @@ does the lookup.
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Colonet](../locations/colonet.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md)
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)

@@ -68,6 +68,7 @@
 - [Church Rock](church-rock.md) **[SoCal only]** — A charted spot at 33°17.750'N 118°19.700'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Clam Beds](clam-beds.md) **[SoCal only]** — A charted spot at 33°14.300'N 117°27.300'W (cameron), in the Oceanside / North County zone.
 - [College Area / Sunset Cliffs](college-area-sunset-cliffs.md) **[SoCal only]** — A charted spot at 32°43.180'N 117°16.630'W (cameron), in the Point Loma zone.
+- [Colonet](colonet.md) **[Baja only]** — A zone is a run grouping.
 - [Coronado Canyon](coronado-canyon.md) **[Baja only]** — A charted spot at 32°30.300'N 117°17.500'W (cameron), in the Coronado Islands zone.
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
 - [Cortez North](cortez-north.md) **[Baja only]** — The character rung.
@@ -244,5 +245,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 231 notes exceed the 30-node cap._
+_Map skipped: 232 notes exceed the 30-node cap._
 <!-- mermaid:end -->

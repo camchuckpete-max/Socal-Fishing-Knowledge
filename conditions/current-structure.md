@@ -307,6 +307,7 @@ become primary).
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Colonet](../locations/colonet.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Dana Point](../locations/dana-point.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

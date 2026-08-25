@@ -186,6 +186,7 @@ Trip reports and per-source provenance:
 - [6.5 Fathom Spot](6-5-fathom-spot.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Breakers Reef](breakers-reef.md)
+- [Colonet](colonet.md)
 - [Ensenada](ensenada.md)
 - [Evidence — San Quintin](evidence/san-quintin.md)
 - [Roca Ben (caution — shoals/boilers)](roca-ben.md)

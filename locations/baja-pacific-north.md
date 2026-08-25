@@ -201,6 +201,7 @@ them.
 <!-- children:start -->
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Cedros / San Benitos](cedros-island.md)
+- [Colonet](colonet.md)
 - [Ensenada](ensenada.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
@@ -264,6 +265,7 @@ Trip reports and per-source provenance:
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cedros / San Benitos](cedros-island.md)
+- [Colonet](colonet.md)
 - [Cortez North](cortez-north.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)

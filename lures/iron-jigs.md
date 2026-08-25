@@ -589,6 +589,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Colonet](../locations/colonet.md)
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)

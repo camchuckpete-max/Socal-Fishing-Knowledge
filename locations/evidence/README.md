@@ -11,6 +11,7 @@
 - [Evidence — Catalina Island, Backside](catalina-island-backside.md) — The observation layer behind Catalina Island — Backside.
 - [Evidence — Catalina Island, Front Side](catalina-island-front-side.md) — The observation layer behind Catalina Island — Front Side.
 - [Evidence — Cedros / San Benitos](cedros-island.md) — The observation layer behind Cedros / San Benitos.
+- [Evidence — Colonet](colonet.md) — The observation layer behind Colonet.
 - [Evidence — Coronado Islands](coronado-islands.md) — The observation layer behind Coronado Islands.
 - [Evidence — Cortez North](cortez-north.md) — The observation layer behind Cortez North.
 - [Evidence — Cortez South](cortez-south.md) — The observation layer behind Cortez South.
@@ -48,29 +49,30 @@ graph LR
   n4["Evidence — Catalina Island, Backside"]
   n5["Evidence — Catalina Island, Front Side"]
   n6["Evidence — Cedros / San Benitos"]
-  n7["Evidence — Coronado Islands"]
-  n8["Evidence — Cortez North"]
-  n9["Evidence — Cortez South"]
-  n10["Evidence — Dana Point"]
-  n11["Evidence — Ensenada"]
-  n12["Evidence — Imperial Beach"]
-  n13["Evidence — International Artificial Reef"]
-  n14["Evidence — La Jolla"]
-  n15["Evidence — Loreto & Puerto Escondido"]
-  n16["Evidence — Mexican waters"]
-  n17["Evidence — North County Artificial Reefs"]
-  n18["Evidence — Oceanside / North County"]
-  n19["Evidence — Point Loma"]
-  n20["Evidence — Punta Banda / Santo Tomas"]
-  n21["Evidence — San Clemente Island, Back Side"]
-  n22["Evidence — San Clemente Island, Front Side"]
-  n23["Evidence — San Diego Artificial Reefs"]
-  n24["Evidence — San Nicolas Island"]
-  n25["Evidence — San Quintin"]
-  n26["Evidence — Santa Barbara Island"]
-  n27["Evidence — Southern California Bight"]
-  n28["Evidence — US waters"]
-  n12 --> n18
-  n15 --> n0
+  n7["Evidence — Colonet"]
+  n8["Evidence — Coronado Islands"]
+  n9["Evidence — Cortez North"]
+  n10["Evidence — Cortez South"]
+  n11["Evidence — Dana Point"]
+  n12["Evidence — Ensenada"]
+  n13["Evidence — Imperial Beach"]
+  n14["Evidence — International Artificial Reef"]
+  n15["Evidence — La Jolla"]
+  n16["Evidence — Loreto & Puerto Escondido"]
+  n17["Evidence — Mexican waters"]
+  n18["Evidence — North County Artificial Reefs"]
+  n19["Evidence — Oceanside / North County"]
+  n20["Evidence — Point Loma"]
+  n21["Evidence — Punta Banda / Santo Tomas"]
+  n22["Evidence — San Clemente Island, Back Side"]
+  n23["Evidence — San Clemente Island, Front Side"]
+  n24["Evidence — San Diego Artificial Reefs"]
+  n25["Evidence — San Nicolas Island"]
+  n26["Evidence — San Quintin"]
+  n27["Evidence — Santa Barbara Island"]
+  n28["Evidence — Southern California Bight"]
+  n29["Evidence — US waters"]
+  n13 --> n19
+  n16 --> n0
 ```
 <!-- mermaid:end -->

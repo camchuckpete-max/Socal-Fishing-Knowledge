@@ -93,6 +93,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cedros / San Benitos](cedros-island.md)
+- [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
