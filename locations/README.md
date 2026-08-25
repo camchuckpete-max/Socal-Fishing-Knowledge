@@ -53,6 +53,7 @@
 - [North of North Island rockfish area](north-of-north-island-rockfish-area.md) **[Baja only]** — A charted spot at 32°27.380'N 117°18.000'W (cameron), in the Coronado Islands zone.
 - [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md) **[SoCal only]** — A charted spot at 33°13.050'N 117°25.402'W (cameron), in the North County artificial reefs zone.
 - [Oceanside AR](oceanside-ar.md) **[SoCal only]** — The Oceanside AR series — 19 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
+- [Oceanside / North County](oceanside-north-county.md) **[SoCal only]** — The mainland coastal strip of San Diego's north county: 18 charted spots in the spot library (cameron), running from San Onofre Kelp (33°20.880'N 117°34.050'W)
 - [Parson's Landing](parson-s-landing.md) **[SoCal only]** — A charted spot at 33°28.589'N 118°33.043'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Pendleton AR Center](pendleton-ar-center.md) **[SoCal only]** — A charted spot at 33°19.500'N 117°31.700'W (cameron), in the North County artificial reefs zone.
 - [Pendleton AR](pendleton-ar.md) **[SoCal only]** — The Pendleton AR series — 5 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
@@ -93,5 +94,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 80 notes exceed the 30-node cap._
+_Map skipped: 81 notes exceed the 30-node cap._
 <!-- mermaid:end -->

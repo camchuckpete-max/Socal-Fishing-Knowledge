@@ -404,6 +404,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [May](../seasonal/may.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
+- [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)
 - [Pukey Point](../locations/pukey-point.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

@@ -69,6 +69,7 @@ current-over-structure mechanism ties it together in
 - [California Barracuda](../species/barracuda.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
+- [Oceanside / North County](oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)

@@ -179,6 +179,7 @@ Trip reports and per-source provenance:
 
 - [Carlsbad AR](carlsbad-ar.md)
 - [Evidence — North County Artificial Reefs](evidence/north-county-artificial-reefs.md)
+- [Oceanside / North County](oceanside-north-county.md)
 - [Oceanside AR](oceanside-ar.md)
 - [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md)
 - [Pendleton AR](pendleton-ar.md)

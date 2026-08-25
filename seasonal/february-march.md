@@ -81,6 +81,8 @@ See [water color](../conditions/water-color.md) and
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
+- [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

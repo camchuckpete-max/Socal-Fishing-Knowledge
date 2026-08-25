@@ -298,7 +298,7 @@ by their builders after the transform phase drains.
 | locations/north-county-artificial-reefs.md | geo | transformed |  | thin-corpus zone page, 38 spots, doctrine routed to chunking; verified with 11 fixes; 1 fact-check row queued |
 | locations/catalina-island-backside.md | geo | done | gaps:6 spots:21 | zone page written: 5 skeleton sections + closure table + evidence pair; 21 spots grouped W→E; 6 flagged gaps |
 | locations/san-diego-artificial-reefs.md | geo | done | gaps:10 stubs:3 spots:18 | zone page written: 5 skeleton sections + MPA caution + evidence pair; 18 spots in 3 groups (Torrey Pines, Pacific Beach grid, Mission Bay Park); 10 gaps, 3 stubs |
-| locations/oceanside-north-county.md | geo | pending |  | zone: 18 spots, 8 notes |
+| locations/oceanside-north-county.md | geo | done | gaps:8 stubs:2 spots:18 | zone page written: 5 skeleton sections + evidence pair; 18 spots in 5 coastal groups; 8 gaps, 2 zone-guide stubs, Flat Rock naming collision logged |
 | locations/la-jolla.md | geo | pending |  | zone: 14 spots, 11 notes |
 | locations/point-loma.md | geo | pending |  | zone: 12 spots, 6 notes |
 | locations/punta-banda-santo-tomas.md | geo | pending |  | zone: 12 spots, 2 notes |

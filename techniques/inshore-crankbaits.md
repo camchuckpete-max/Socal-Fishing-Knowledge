@@ -323,6 +323,7 @@ anglers skip.
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)
+- [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

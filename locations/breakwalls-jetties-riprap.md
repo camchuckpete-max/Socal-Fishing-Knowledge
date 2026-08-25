@@ -158,7 +158,9 @@ already logged above: the **Seal Beach wall**, the **Surfside wall**,
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Evidence — Oceanside / North County](evidence/oceanside-north-county.md)
 - [February–March](../seasonal/february-march.md)
+- [Oceanside / North County](oceanside-north-county.md)
 - [Southern California Bight](socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

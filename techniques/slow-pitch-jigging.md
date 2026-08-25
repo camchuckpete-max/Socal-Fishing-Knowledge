@@ -455,6 +455,7 @@ terms until it lands.
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)

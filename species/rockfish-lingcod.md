@@ -358,6 +358,7 @@ the *bottom*, not the fish.
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)
+- [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
