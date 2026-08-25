@@ -481,6 +481,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)

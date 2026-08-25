@@ -354,6 +354,7 @@ the *bottom*, not the fish.
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

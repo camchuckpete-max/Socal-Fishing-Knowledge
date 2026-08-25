@@ -689,6 +689,7 @@ release *ethic* and the regional policies are below.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Island Structure](../locations/island-structure.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)

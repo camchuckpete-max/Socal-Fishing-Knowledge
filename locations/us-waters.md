@@ -126,6 +126,8 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
 - [Evidence — US waters](evidence/us-waters.md)
+- [International Artificial Reef](international-artificial-reef.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

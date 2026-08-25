@@ -170,6 +170,7 @@ rocks.
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [February–March](../seasonal/february-march.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [La Jolla](../locations/la-jolla.md)

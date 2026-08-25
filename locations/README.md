@@ -67,6 +67,7 @@
 - [The Half](half.md) **[SoCal only]** — A charted spot at 32°51.220'N 117°17.620'W (cameron), in the La Jolla zone.
 - [Hen Rock Kelp](hen-rock-kelp.md) **[SoCal only]** — A charted spot at 33°23.981'N 118°21.975'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Indian Rock (partial-take SMCA, no inverts)](indian-rock.md) **[SoCal only]** — A charted spot at 33°28.120'N 118°31.550'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [International Artificial Reef](international-artificial-reef.md) **[SoCal only]** — The southernmost built-structure zone on the US side of the Bight: seven charted waypoints in the spot library (cameron) — International Reef A–F plus the Inter
 - [Iron Bound](iron-bound.md) **[SoCal only]** — A charted spot at 33°26.835'N 118°34.689'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Island Structure](island-structure.md) **[SoCal only]** — Universal typology of SoCal island and bank structure — the shapes the bottom takes and how current has to run across each shape to make it fish.
 - [Isthmus Reef (caution — shoals; stay W of MPA at 118 29.300)](isthmus-reef.md) **[SoCal only]** — A charted spot at 33°26.869'N 118°29.448'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -160,5 +161,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 147 notes exceed the 30-node cap._
+_Map skipped: 148 notes exceed the 30-node cap._
 <!-- mermaid:end -->

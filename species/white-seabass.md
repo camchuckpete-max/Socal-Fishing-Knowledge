@@ -298,6 +298,7 @@ into the spot once the current read right.
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [June–July](../seasonal/june-july.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)

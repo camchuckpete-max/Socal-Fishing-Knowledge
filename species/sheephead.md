@@ -128,6 +128,7 @@ glassing](../planning/search-and-glassing.md),
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)

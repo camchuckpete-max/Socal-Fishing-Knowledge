@@ -72,6 +72,7 @@ you were dead." (`ty8FtA3Y2bA`)
 ## Linked from
 
 - [Dehooking & Release Handling](dehooking-and-release.md)
+- [International Artificial Reef](../locations/international-artificial-reef.md)
 - [La Jolla](../locations/la-jolla.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
