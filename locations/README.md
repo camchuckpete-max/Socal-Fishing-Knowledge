@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [1010 Trench / 378 / 213](1010-trench-378-213.md) **[Baja only]** — A zone is a run grouping.
 - [15 Fa Ridge](15-fa-ridge.md) **[Baja only]** — A charted spot at 31°34.900'N 116°42.900'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [15 Fathom Spot](15-fathom-spot.md) **[Baja only]** — A charted spot at 30°22.000'N 116°05.000'W (cameron), in the San Quintin zone.
 - [The 270 rockfish area](270-rockfish-area.md) **[SoCal only]** — A charted spot at 32°46.710'N 117°20.890'W (cameron), in the La Jolla zone.
@@ -241,5 +242,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 228 notes exceed the 30-node cap._
+_Map skipped: 229 notes exceed the 30-node cap._
 <!-- mermaid:end -->

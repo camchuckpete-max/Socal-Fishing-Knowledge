@@ -140,6 +140,7 @@ water color.
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

@@ -93,6 +93,7 @@ for the Bight.
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

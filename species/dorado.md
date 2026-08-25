@@ -460,6 +460,7 @@ grade, or technique detail given for the dorado specifically.
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)

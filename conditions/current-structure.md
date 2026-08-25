@@ -298,6 +298,7 @@ become primary).
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)

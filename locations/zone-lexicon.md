@@ -118,6 +118,7 @@ many *drops*.
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [<Your> Spots](../profiles/_template/spots.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

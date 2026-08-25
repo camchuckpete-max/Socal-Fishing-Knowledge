@@ -225,6 +225,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Airplane Rock](airplane-rock.md)
 - [Blockhouse](blockhouse.md)
 - [Cherry Banks](cherry-banks.md)

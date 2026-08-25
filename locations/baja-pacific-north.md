@@ -199,6 +199,7 @@ charted spots between them and nothing in the corpus describes fishing any of
 them.
 
 <!-- children:start -->
+- [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
@@ -259,6 +260,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Cortez North](cortez-north.md)

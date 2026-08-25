@@ -88,6 +88,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
