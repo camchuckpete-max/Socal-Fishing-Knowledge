@@ -298,5 +298,6 @@ Trip reports and per-source provenance:
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [The Corner / 140 / 182](corner-140-182.md)
+- [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

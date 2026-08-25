@@ -207,4 +207,5 @@ Trip reports and per-source provenance:
 - [Colonet 41 Fathoms](colonet-41-fathoms.md)
 - [Colonet High Spot 28 Fathoms](colonet-high-spot-28-fathoms.md)
 - [Evidence — Colonet](evidence/colonet.md)
+- [Upper Cross / 421 / 390](upper-cross-421-390.md)
 <!-- backlinks:end -->

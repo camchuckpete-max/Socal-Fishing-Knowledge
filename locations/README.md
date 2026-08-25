@@ -256,6 +256,7 @@
 - [Toyon Bay](toyon-bay.md) **[SoCal only]** — A charted spot at 33°22.544'N 118°21.171'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Tranquillo Kelp](tranquillo-kelp.md) **[Baja only]** — A charted spot at 30°17.000'N 115°49.000'W (cameron), in the San Quintin zone.
 - [Trestles](trestles.md) **[SoCal only]** — A charted spot at 33°22.790'N 117°36.280'W (cameron), in the Dana Point zone.
+- [Upper Cross / 421 / 390](upper-cross-421-390.md) **[Baja only]** — A zone is a run grouping.
 - [Upper Finger Bank 27 Fathom Spot](upper-finger-bank-27-fathom-spot.md) **[Baja only]** — A charted spot at 32°14.000'N 117°07.100'W (cameron), in the Finger Bank rockfish zone.
 - [Upper Finger Bank 71 Fathom Spot](upper-finger-bank-71-fathom-spot.md) **[Baja only]** — A charted spot at 32°14.480'N 117°11.330'W (cameron), in the Finger Bank rockfish zone.
 - [Upper Finger Bank rockfish 180ft](upper-finger-bank-rockfish-180ft.md) **[Baja only]** — A charted spot at 32°16.360'N 117°10.470'W (cameron), in the Finger Bank rockfish zone.
@@ -284,5 +285,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 271 notes exceed the 30-node cap._
+_Map skipped: 272 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -162,6 +162,7 @@ water color.
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Trolling](../techniques/trolling.md)
+- [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)

@@ -583,6 +583,7 @@ the bluefin nearby become more cooperative too.**
 - [Trolling](../techniques/trolling.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Wahoo](wahoo.md)
 - [Water Color](../conditions/water-color.md)

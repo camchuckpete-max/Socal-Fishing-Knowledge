@@ -130,4 +130,5 @@ Trip reports and per-source provenance:
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [South Kelp Ridge](south-kelp-ridge.md)
 - [The Corner / 140 / 182](corner-140-182.md)
+- [Upper Cross / 421 / 390](upper-cross-421-390.md)
 <!-- backlinks:end -->

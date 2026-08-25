@@ -450,6 +450,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
