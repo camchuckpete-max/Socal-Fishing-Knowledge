@@ -196,6 +196,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 ## Linked from
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
+- [289 / 284](289-284.md)
 - [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md)
 - [43 / 91 / 300](43-91-300.md)
 - [51 / 181 / 138](51-181-138.md)

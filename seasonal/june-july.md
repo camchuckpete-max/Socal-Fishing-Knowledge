@@ -67,6 +67,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [289 / 284](../locations/289-284.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [51 / 181 / 138](../locations/51-181-138.md)

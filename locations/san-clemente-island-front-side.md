@@ -229,6 +229,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [289 / 284](289-284.md)
 - [43 / 91 / 300](43-91-300.md)
 - [81 / 381](81-381.md)
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)

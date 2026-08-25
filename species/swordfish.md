@@ -111,6 +111,7 @@ Requirements before you stop:
 - [179 / 220](../locations/179-220.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
+- [289 / 284](../locations/289-284.md)
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)

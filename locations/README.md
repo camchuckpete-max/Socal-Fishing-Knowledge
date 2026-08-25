@@ -35,6 +35,7 @@
 - [The 270 rockfish area](270-rockfish-area.md) **[SoCal only]** — A charted spot at 32°46.710'N 117°20.890'W (cameron), in the La Jolla zone.
 - [277](277.md) **[SoCal only]** — A charted spot at 33°12.000'N 118°04.800'W (cameron), in the The Slide / 152 / 277 zone.
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md) **[SoCal only]** — A zone is a run grouping.
+- [289 / 284](289-284.md) **[SoCal only]** — A zone is a run grouping.
 - [29 Fathom Spot](29-fathom-spot.md) **[SoCal only]** — A charted spot at 32°46.000'N 118°24.500'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [295](295.md) **[Baja only]** — A charted spot at 31°36.000'N 117°26.000'W (cameron), in the Baja - 270 / Double 220 / 295 zone.
 - [3 V's](3-v-s.md) **[SoCal only]** — A charted spot at 33°18.540'N 118°21.290'W (cameron), in the Catalina Island — Backside (W→E) zone.
@@ -383,5 +384,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 370 notes exceed the 30-node cap._
+_Map skipped: 371 notes exceed the 30-node cap._
 <!-- mermaid:end -->

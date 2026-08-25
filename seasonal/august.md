@@ -70,6 +70,7 @@ and [bird reading](../conditions/bird-reading.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [289 / 284](../locations/289-284.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)

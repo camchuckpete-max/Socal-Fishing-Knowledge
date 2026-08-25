@@ -156,6 +156,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 ## Linked from
 
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
+- [289 / 284](../locations/289-284.md)
 - [474 / 711](../locations/474-711.md)
 - [<Your> Spots](../profiles/_template/spots.md)
 - [April](../seasonal/april.md)

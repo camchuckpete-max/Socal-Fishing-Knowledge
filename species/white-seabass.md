@@ -283,6 +283,7 @@ into the spot once the current read right.
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [289 / 284](../locations/289-284.md)
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)

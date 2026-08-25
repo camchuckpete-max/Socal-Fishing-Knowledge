@@ -62,6 +62,7 @@ the same structure.
 <!-- backlinks:start -->
 ## Linked from
 
+- [289 / 284](../locations/289-284.md)
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

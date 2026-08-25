@@ -218,6 +218,7 @@ Trip reports and per-source provenance: [evidence file](evidence/point-loma.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [289 / 284](289-284.md)
 - [372 / 245 / 250](372-245-250.md)
 - [5 Tanks](5-tanks.md)
 - [Buoy 3 Hardbottom](buoy-3-hardbottom.md)
