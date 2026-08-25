@@ -222,6 +222,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [Santa Barbara Island](santa-barbara-island.md)
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 <!-- children:end -->
 

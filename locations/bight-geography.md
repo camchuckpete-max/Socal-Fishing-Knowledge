@@ -81,6 +81,7 @@ share it).
 - [October](../seasonal/october.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 - [September](../seasonal/september.md)
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

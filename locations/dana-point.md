@@ -263,6 +263,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dana-point.md).
 - [San Clemente Artificial Reef (mainland city)](san-clemente-artificial-reef.md)
 - [San Clemente Kelp (mainland city)](san-clemente-kelp.md)
 - [San Mateo Point](san-mateo-point.md)
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [The Hospital 100 Fathom Curve (stay S of MPA at 33 30.050)](hospital-100-fathom-curve.md)
 - [Trestles](trestles.md)

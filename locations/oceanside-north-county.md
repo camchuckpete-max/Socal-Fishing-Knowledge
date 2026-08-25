@@ -246,6 +246,7 @@ Trip reports and per-source provenance:
 - [Powerhouse Kelp](powerhouse-kelp.md)
 - [San Onofre Kelp](san-onofre-kelp.md)
 - [Solana Beach Kelp](solana-beach-kelp.md)
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [Terramar Kelp](terramar-kelp.md)
 <!-- backlinks:end -->

@@ -250,6 +250,7 @@
 - [Southern California Bight](socal-bight.md) **[SoCal only]** — The character rung.
 - [Solana Beach Kelp](solana-beach-kelp.md) **[SoCal only]** — A charted spot at 32°59.410'N 117°17.300'W (cameron), in the Oceanside / North County zone.
 - [South Kelp Ridge](south-kelp-ridge.md) **[Baja only]** — A charted spot at 32°22.000'N 117°13.260'W (cameron), in the Coronado Islands zone.
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md) **[SoCal only]** — The northernmost coastal zone the spot library carries: three charted spots (cameron) — Pelican Point / Number 1 Spot (33°34.510'N 117°51.370'W), Crystal Cove /
 - [Stony Point](stony-point.md) **[SoCal only]** — A charted spot at 33°28.517'N 118°33.342'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Sugarloaf Rock](sugarloaf-rock.md) **[Baja only]** — A charted spot at 32°13.365'N 116°57.814'W (cameron), in the Rosarito / Descanso zone.
 - [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md) **[SoCal only]** — A charted spot at 33°27.731'N 119°02.732'W (cameron), in the Santa Barbara Island zone.
@@ -288,5 +289,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 275 notes exceed the 30-node cap._
+_Map skipped: 276 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -498,6 +498,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Search and Glassing](search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
+- [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

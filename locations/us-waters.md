@@ -132,6 +132,7 @@ Trip reports and per-source provenance:
 - [Evidence — US waters](evidence/us-waters.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 <!-- backlinks:end -->

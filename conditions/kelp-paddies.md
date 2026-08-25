@@ -248,6 +248,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Regimes](water-regimes.md)
