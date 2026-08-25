@@ -574,10 +574,54 @@ def main() -> int:
     # ~660 points, roughly 40 chunks, back into the run.
 
     wl = WORKLIST.read_text(encoding="utf-8")
-    fresh = [r for r in rows if f"| {r.split('|')[1].strip()} |" not in wl]
-    wl = wl.replace(WL_END, "\n".join(fresh) + "\n" + WL_END)
+    lines = wl.split("\n")
+    fresh, upgraded, late = [], [], []
+    for r in rows:
+        path = r.split("|")[1].strip()
+        # A geo rung whose page ALREADY EXISTS also already has a transform
+        # row from the original worklist, so append-if-absent silently drops
+        # its geo row — and the rung gets a prose rewrite instead of being
+        # built into the ladder. That selects exactly the wrong pages: the
+        # ones with the most corpus material behind them (Bahía de los
+        # Ángeles is the only named zone in all of cortez-north). Upgrade the
+        # existing row instead of skipping it.
+        hit = next((i for i, ln in enumerate(lines)
+                    if ln.startswith(f"| {path} |")), None)
+        if hit is None:
+            fresh.append(r)
+            continue
+        cells = [c.strip() for c in lines[hit].split("|")]
+        if len(cells) < 5:
+            continue
+        if cells[2] == "geo":
+            continue
+        if cells[3] != "pending":
+            # Already processed as something else. Re-queuing would redo work
+            # and could revert a reviewed page, so this is Cameron's call.
+            late.append(f"{path} (tier {cells[2]}, status {cells[3]})")
+            continue
+        lines[hit] = r
+        upgraded.append(path)
+
+    wl = "\n".join(lines)
+    # Guard the empty case: joining nothing and appending a newline inserts a
+    # blank line before the end marker on EVERY run, so a builder that has
+    # nothing to add still dirties the file — one blank line per chunk.
+    if fresh:
+        wl = wl.replace(WL_END, "\n".join(fresh) + "\n" + WL_END)
     WORKLIST.write_text(wl, encoding="utf-8")
     print(f"\nappended {len(fresh)} row(s) to the worklist")
+    if upgraded:
+        print(f"upgraded {len(upgraded)} existing row(s) to the geo tier "
+              f"(a ladder rung must be built as one, not prose-rewritten):")
+        for u in upgraded:
+            print(f"  {u}")
+    if late:
+        print(f"\n⚠ {len(late)} geo rung(s) were already processed at another "
+              f"tier — they will not be on the ladder without a re-queue "
+              f"(Cameron's call):", file=sys.stderr)
+        for l_ in late:
+            print(f"  {l_}", file=sys.stderr)
     return 0
 
 

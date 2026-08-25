@@ -155,16 +155,16 @@ by their builders after the transform phase drains.
 | bait/bait-tanks.md | standard | pending |  |  |
 | bait/fishing-live-bait.md | standard | pending |  |  |
 | bait/making-bait.md | standard | pending |  |  |
-| locations/bahia-de-los-angeles.md | standard | pending |  |  |
-| locations/bahia-magdalena-lopez-mateos.md | standard | pending |  |  |
+| locations/bahia-de-los-angeles.md | geo | pending |  | zone: 0 spots, 7 notes |
+| locations/bahia-magdalena-lopez-mateos.md | geo | pending |  | zone: 0 spots, 9 notes |
 | locations/bass-structure.md | standard | pending |  |  |
 | locations/bays-and-harbors.md | standard | pending |  |  |
 | locations/bight-geography.md | standard | pending |  |  |
 | locations/bightsst-eval-targets.md | standard | pending |  |  |
 | locations/breakwalls-jetties-riprap.md | standard | pending |  |  |
-| locations/cedros-island.md | standard | pending |  |  |
+| locations/cedros-island.md | geo | pending |  | zone: 0 spots, 38 notes |
 | locations/island-structure.md | standard | pending |  |  |
-| locations/loreto.md | standard | pending |  |  |
+| locations/loreto.md | geo | pending |  | zone: 0 spots, 3 notes |
 | locations/regions.md | standard | pending |  |  |
 | locations/sea-of-cortez.md | standard | pending |  |  |
 | locations/zone-lexicon.md | standard | pending |  |  |
