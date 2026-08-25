@@ -106,27 +106,42 @@ def evidence_path(note: str) -> str:
     return str(p.parent / "evidence" / p.name)
 
 
-BACKLINK_START = "<!-- backlinks:start -->"
-BACKLINK_END = "<!-- backlinks:end -->"
+# Every block link-maintenance.py owns. A unit's own edits land OUTSIDE these
+# markers, so stripping them is what separates inherent generator churn in a
+# neighbouring note from a real edit to it.
+GENERATED_BLOCKS = (
+    ("<!-- backlinks:start -->", "<!-- backlinks:end -->"),
+    # A geo page links itself into its parent's child list purely by setting
+    # `parent:`; the generator then rewrites the PARENT. Without this pair a
+    # region page would be reverted for every zone landing beneath it — the
+    # same trap the hand-edited child list set, one layer down.
+    ("<!-- children:start -->", "<!-- children:end -->"),
+    # A species-technique note lists itself on the technique note the same
+    # way, and would be reverted the same way without this.
+    ("<!-- species-applications:start -->", "<!-- species-applications:end -->"),
+)
 
 
-def _strip_backlinks(text: str) -> str:
-    si, ei = text.find(BACKLINK_START), text.find(BACKLINK_END)
-    if si != -1 and ei != -1 and ei > si:
-        return text[:si] + text[ei + len(BACKLINK_END):]
+def _strip_generated(text: str) -> str:
+    for start, end in GENERATED_BLOCKS:
+        while True:
+            si, ei = text.find(start), text.find(end)
+            if si == -1 or ei == -1 or ei <= si:
+                break
+            text = text[:si] + text[ei + len(end):]
     return text
 
 
-def only_backlinks_changed(sha: str, path: str) -> bool:
-    """True when a file's change is confined to its machine-generated
-    `## Linked from` block. Every transform regenerates backlink blocks in
-    the notes that link (or linked) to it — inherent link-maintenance churn,
-    not an out-of-scope edit. Outside the markers the file must be
-    byte-identical."""
+def only_generated_blocks_changed(sha: str, path: str) -> bool:
+    """True when a file's change is confined to blocks link-maintenance.py
+    generates. Every transform regenerates the backlink blocks of the notes
+    that link (or linked) to it, and every geo page regenerates its parent's
+    child list — inherent churn, not an out-of-scope edit. Outside the
+    markers the file must be byte-identical."""
     before, after = show(f"{sha}^", path), show(sha, path)
     if before is None or after is None:
         return False
-    return _strip_backlinks(before) == _strip_backlinks(after)
+    return _strip_generated(before) == _strip_generated(after)
 
 
 def _plausible_id(tok: str) -> bool:
@@ -266,7 +281,7 @@ def violations(sha: str) -> list[str]:
                 # machine churn, not an edit, as long as the file is
                 # byte-identical outside the markers.
                 if (s == dest and s.endswith(".md")
-                        and only_backlinks_changed(sha, s)):
+                        and only_generated_blocks_changed(sha, s)):
                     continue
                 probs.append(f"protected path touched: {s}")
         if scope_free:
@@ -275,8 +290,8 @@ def violations(sha: str) -> list[str]:
             continue
         if dest in allowed or os.path.basename(dest) == "README.md":
             continue
-        if dest.endswith(".md") and only_backlinks_changed(sha, dest):
-            continue  # machine-generated backlink churn — see the helper
+        if dest.endswith(".md") and only_generated_blocks_changed(sha, dest):
+            continue  # machine-generated block churn — see the helper
         probs.append(f"out of scope for {subj.split(' — ')[0]!r}: {dest}")
 
     if named and not probs:
