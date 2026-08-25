@@ -178,3 +178,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T06:48:27Z — locations/coronados-230-302-226.md — verify-escalate
 - run: 32815015298
 - reason: Zone is gated socal-bight and badged [SoCal only], yet the 371 sits ~6.7 nm on the Mexican side of the census's approximated maritime boundary (census takes a cluster's region from its first member). Page flags it and says verify off a chart; Cameron should decide whether a jurisdiction-straddling zone is acceptable under the region safety gate or the 371 needs re-parenting in the census.
+
+## 2026-08-25T07:28:13Z — locations/385-238-475.md — verify-escalate
+- run: 32815015298
+- reason: Five pre-existing transcript-drift issues INHERITED from already-committed notes (locations/ensenada.md, species/bluefin-tuna.md), out of scope for this unit, belong in sources/fact-check-ledger.md: (1) 'breezing and kite-raised' bluefin — Ix0gG0-l3v0 says 'up on top' and the kite produced only a swirl, nothing landed; (2) '4 fish day one, 7 day two' — transcript says yesterday/today in a video titled Day 3 & 4, day numbering likely wrong; (3) 'the supplier-conference fleet's grounds' — transcript says only 'the fleet', in a context of avoiding them; (4) the 42-43 mi tournament bank is distance TRAVELLED, U1AgwmlY5bI adds 'just at 9 miles from the high spot'; (5) 'one west of San Diego and two west of Ensenada' resolves a garbled auto-caption self-correction. Also: possible undeduped transcript twin of fgTmUq78ofQ at searchersportfishing--tackle-talk-thursday-vol-147...FETSTtbCMII.md.

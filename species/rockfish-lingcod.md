@@ -340,6 +340,7 @@ the *bottom*, not the fish.
 ## Linked from
 
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
+- [385 / 238 / 475](../locations/385-238-475.md)
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bluefin Tuna](bluefin-tuna.md)

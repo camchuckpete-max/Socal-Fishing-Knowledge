@@ -365,6 +365,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 ## Linked from
 
 - [1010 Trench / 378 / 213](../locations/1010-trench-378-213.md)
+- [385 / 238 / 475](../locations/385-238-475.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [April](../seasonal/april.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
