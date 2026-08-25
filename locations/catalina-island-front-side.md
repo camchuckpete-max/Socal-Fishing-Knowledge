@@ -294,6 +294,7 @@ Trip reports and per-source provenance:
 - [Southern California Bight](socal-bight.md)
 - [Stony Point](stony-point.md)
 - [The Slide (Catalina)](slide.md)
+- [The Slide / 152 / 277](slide-152-277.md)
 - [Toyon Bay](toyon-bay.md)
 - [West End Humps 1](west-end-humps-1.md)
 - [West End Humps 2](west-end-humps-2.md)

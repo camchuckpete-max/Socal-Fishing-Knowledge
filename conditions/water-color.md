@@ -164,6 +164,7 @@ water color.
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
+- [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Trolling](../techniques/trolling.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)

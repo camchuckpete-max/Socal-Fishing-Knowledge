@@ -419,6 +419,7 @@ the column, which is when foamers are most likely to start
 - [Skip Jigging](skip-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](surface-iron.md)
+- [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

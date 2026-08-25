@@ -276,6 +276,7 @@
 - [Sentinel Rock](sentinel-rock.md) **[SoCal only]** — A charted spot at 33°22.559'N 118°29.327'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Ship Rock (stay W of MPA at 118 29.300)](ship-rock.md) **[SoCal only]** — A charted spot at 33°27.760'N 118°29.430'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Silver Canyon](silver-canyon.md) **[SoCal only]** — A charted spot at 33°19.174'N 118°23.361'W (cameron), in the Catalina Island — Backside (W→E) zone.
+- [The Slide / 152 / 277](slide-152-277.md) **[SoCal only]** — A zone is a run grouping.
 - [The Slide (Catalina)](slide.md) **[SoCal only]** — A charted spot at 33°18.800'N 118°18.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Southern California Bight](socal-bight.md) **[SoCal only]** — The character rung.
 - [Solana Beach Kelp](solana-beach-kelp.md) **[SoCal only]** — A charted spot at 32°59.410'N 117°17.300'W (cameron), in the Oceanside / North County zone.
@@ -321,5 +322,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 308 notes exceed the 30-node cap._
+_Map skipped: 309 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -225,6 +225,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [Santa Barbara Island](santa-barbara-island.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [The Corner / 140 / 182](corner-140-182.md)
+- [The Slide / 152 / 277](slide-152-277.md)
 <!-- children:end -->
 
 ## Access & range

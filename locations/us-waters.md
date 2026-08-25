@@ -136,4 +136,5 @@ Trip reports and per-source provenance:
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [The Corner / 140 / 182](corner-140-182.md)
+- [The Slide / 152 / 277](slide-152-277.md)
 <!-- backlinks:end -->

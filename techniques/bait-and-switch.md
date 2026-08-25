@@ -103,5 +103,6 @@ SoCal source — kept region-labeled rather than treated as filling them.
 ## Linked from
 
 - [Striped Marlin](../species/striped-marlin.md)
+- [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](trolling.md)
 <!-- backlinks:end -->

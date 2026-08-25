@@ -252,6 +252,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Water Regimes](water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

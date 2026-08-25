@@ -182,3 +182,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T07:28:13Z — locations/385-238-475.md — verify-escalate
 - run: 32815015298
 - reason: Five pre-existing transcript-drift issues INHERITED from already-committed notes (locations/ensenada.md, species/bluefin-tuna.md), out of scope for this unit, belong in sources/fact-check-ledger.md: (1) 'breezing and kite-raised' bluefin — Ix0gG0-l3v0 says 'up on top' and the kite produced only a swirl, nothing landed; (2) '4 fish day one, 7 day two' — transcript says yesterday/today in a video titled Day 3 & 4, day numbering likely wrong; (3) 'the supplier-conference fleet's grounds' — transcript says only 'the fleet', in a context of avoiding them; (4) the 42-43 mi tournament bank is distance TRAVELLED, U1AgwmlY5bI adds 'just at 9 miles from the high spot'; (5) 'one west of San Diego and two west of Ensenada' resolves a garbled auto-caption self-correction. Also: possible undeduped transcript twin of fgTmUq78ofQ at searchersportfishing--tackle-talk-thursday-vol-147...FETSTtbCMII.md.
+
+## 2026-08-25T08:24:31Z — locations/slide-152-277.md — verify-escalate
+- run: 32823647687
+- reason: species/striped-marlin.md (lines ~81-82, still pending) carries the same unsupported claim that the ~160 lb 3qSY328fFYo marlin was taken on a live mackerel dropback bait — the transcript says it was released on the flying-fish jig; out of scope for this unit, needs correcting in its own review.

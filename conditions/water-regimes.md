@@ -116,6 +116,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [White Seabass](../species/white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

@@ -36,6 +36,7 @@
 - [Evidence — San Nicolas Island](san-nicolas-island.md) — The observation layer behind San Nicolas Island.
 - [Evidence — San Quintin](san-quintin.md) — The observation layer behind San Quintin.
 - [Evidence — Santa Barbara Island](santa-barbara-island.md) — The observation layer behind Santa Barbara Island.
+- [Evidence — The Slide / 152 / 277](slide-152-277.md) — Provenance for The Slide / 152 / 277.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
 - [Evidence — US waters](us-waters.md) — The observation layer behind US waters.
 <!-- index:end -->
@@ -44,5 +45,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 34 notes exceed the 30-node cap._
+_Map skipped: 35 notes exceed the 30-node cap._
 <!-- mermaid:end -->

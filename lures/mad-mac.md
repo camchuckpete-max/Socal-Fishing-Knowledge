@@ -106,6 +106,7 @@ and how he pairs them to his rods and holders are in
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](spreader-bar.md)
+- [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->
