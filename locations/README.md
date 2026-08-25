@@ -187,6 +187,7 @@
 - [Pedestal Rock](pedestal-rock.md) **[SoCal only]** — A charted spot at 33°24.069'N 118°29.344'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Pendleton AR Center](pendleton-ar-center.md) **[SoCal only]** — A charted spot at 33°19.500'N 117°31.700'W (cameron), in the North County artificial reefs zone.
 - [Pendleton AR](pendleton-ar.md) **[SoCal only]** — The Pendleton AR series — 5 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
+- [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md) **[Baja only]** — A zone is a run grouping.
 - [Point Loma Pipe](point-loma-pipe.md) **[SoCal only]** — A charted spot at 32°40.350'N 117°17.000'W (cameron), in the Point Loma zone.
 - [Point Loma](point-loma.md) **[SoCal only]** — The San Diego coastal zone on the ocean face of the Point Loma peninsula and around the corner into the bay entrance: 12 charted spots in the spot library (came
 - [Ponto](ponto.md) **[SoCal only]** — A charted spot at 33°05.235'N 117°19.183'W (cameron), in the Oceanside / North County zone.
@@ -285,5 +286,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 272 notes exceed the 30-node cap._
+_Map skipped: 273 notes exceed the 30-node cap._
 <!-- mermaid:end -->

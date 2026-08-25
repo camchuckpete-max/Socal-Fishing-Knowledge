@@ -448,6 +448,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
+- [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)

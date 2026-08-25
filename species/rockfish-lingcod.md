@@ -383,6 +383,7 @@ the *bottom*, not the fish.
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
+- [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [US waters](../locations/us-waters.md)

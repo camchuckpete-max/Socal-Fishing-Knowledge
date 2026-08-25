@@ -114,5 +114,6 @@ Requirements before you stop:
 - [October](../seasonal/october.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
+- [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 <!-- backlinks:end -->

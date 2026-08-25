@@ -110,6 +110,7 @@ Trip reports and per-source provenance:
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
+- [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

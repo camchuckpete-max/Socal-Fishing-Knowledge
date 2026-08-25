@@ -320,7 +320,7 @@ by their builders after the transform phase drains.
 | locations/corner-140-182.md | geo | transformed | gaps:9 stubs:2 fc:0 spots:4 | geo/zone verified, 6 fixes applied — census membership, coordinates and all distance arithmetic reproduce; 4 transcript spot-checks faithful; one documented mark (the 182) + 3 position-only, 181/182 census-vs-corpus split flagged |
 | locations/coronados-230-302-226.md | geo | transformed | gaps:14 stubs:2 fc:0 spots:4 | zone page verified; census/coords/20+ derived distances reproduce, 5 transcript spot-checks faithful; 3 non-reproducing derived-geography claims corrected in place |
 | locations/upper-cross-421-390.md | geo | transformed | gaps:10 stubs:0 fc:0 spots:4 | geo zone page minted (zero-corpus, position-and-ladder); applied after fixing two miscomputed port-distance ranges, one false nearest-position superlative and one wrong bearing; coordinates and all intra-zone distances reproduce |
-| locations/pistol-bell-bank-300.md | geo | pending |  | zone: 4 spots, 1 notes |
+| locations/pistol-bell-bank-300.md | geo | transformed | gaps:9 stubs:0 fc:0 spots:4 | geo zone page verified against the census and the spot library; four geographic-accuracy fixes applied, no information loss; corpus silent on all four marks so written as position-and-ladder, loose cluster (31.6 nm corner to corner) left as queued |
 | locations/385-238-475.md | geo | pending |  | zone: 4 spots, 0 notes |
 | locations/372-245-250.md | geo | pending |  | zone: 4 spots, 3 notes |
 | locations/south-orange-county-crystal-cove.md | geo | pending |  | zone: 3 spots, 0 notes |

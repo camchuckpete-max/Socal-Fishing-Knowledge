@@ -580,6 +580,7 @@ the bluefin nearby become more cooperative too.**
 - [Striped Marlin](striped-marlin.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
+- [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Trolling](../techniques/trolling.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)

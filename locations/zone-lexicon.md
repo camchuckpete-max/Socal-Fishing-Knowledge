@@ -147,6 +147,7 @@ many *drops*.
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Corner / 140 / 182](corner-140-182.md)
+- [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

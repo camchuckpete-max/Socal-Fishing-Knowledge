@@ -171,6 +171,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [Upper Finger Bank 27 Fathom Spot](upper-finger-bank-27-fathom-spot.md)
 - [Upper Finger Bank 71 Fathom Spot](upper-finger-bank-71-fathom-spot.md)

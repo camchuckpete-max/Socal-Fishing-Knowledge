@@ -278,4 +278,5 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 - [Punta Morro](punta-morro.md)
 - [Punta San Miguel](punta-san-miguel.md)
 - [San Miguel Reef](san-miguel-reef.md)
+- [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 <!-- backlinks:end -->
