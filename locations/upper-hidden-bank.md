@@ -40,5 +40,5 @@ A charted spot at **32°03.000'N 117°28.000'W** (cameron), in the [Upper 500 / 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 <!-- backlinks:end -->

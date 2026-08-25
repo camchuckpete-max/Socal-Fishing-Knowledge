@@ -299,6 +299,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [295](295.md)
+- [483/500 / 437](483-500-437.md)
 - [Baja - 270](baja-270.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Double 220](double-220.md)

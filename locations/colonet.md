@@ -203,6 +203,7 @@ Trip reports and per-source provenance:
 
 - [330](330.md)
 - [385 / 238 / 475](385-238-475.md)
+- [483/500 / 437](483-500-437.md)
 - [52](52.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Colonet 41 Fathoms](colonet-41-fathoms.md)

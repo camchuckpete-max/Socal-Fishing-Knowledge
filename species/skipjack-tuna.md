@@ -96,6 +96,7 @@ but hard-charging, they'll eat almost anything moving.
 ## Linked from
 
 - [385 / 238 / 475](../locations/385-238-475.md)
+- [483/500 / 437](../locations/483-500-437.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)

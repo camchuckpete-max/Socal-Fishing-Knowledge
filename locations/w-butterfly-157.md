@@ -301,6 +301,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [157](157.md)
+- [483/500 / 437](483-500-437.md)
 - [Mushroom](mushroom.md)
 - [Southern California Bight](socal-bight.md)
 - [W. Butterfly](w-butterfly.md)

@@ -207,6 +207,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [385 / 238 / 475](385-238-475.md)
 - [390](390.md)
 - [421](421.md)
+- [483/500 / 437](483-500-437.md)
 - [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)

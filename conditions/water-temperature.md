@@ -168,6 +168,7 @@ doctrine above or add a SoCal-specific parameter.
 - [172 / 125](../locations/172-125.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
+- [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)

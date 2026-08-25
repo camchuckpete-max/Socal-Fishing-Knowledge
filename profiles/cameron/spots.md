@@ -80,5 +80,6 @@ The **~125-bank list** is the training universe for the model.
 <!-- backlinks:start -->
 ## Linked from
 
+- [483/500 / 437](../../locations/483-500-437.md)
 - [Island Structure](../../locations/island-structure.md)
 <!-- backlinks:end -->

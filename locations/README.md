@@ -53,6 +53,7 @@
 - [475](475.md) **[Baja only]** — A charted spot at 31°36.000'N 117°05.000'W (cameron), in the 385 / 238 / 475 zone.
 - [48 Fa. Spot](48-fa-spot.md) **[Baja only]** — A charted spot at 31°35.600'N 116°49.000'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [480](480.md) **[Baja only]** — A charted spot at 31°42.000'N 117°18.000'W (cameron), in the 385 / 238 / 475 zone.
+- [483/500 / 437](483-500-437.md) **[Baja only]** — A zone is a run grouping.
 - [499](499.md) **[SoCal only]** — A charted spot at 33°16.500'N 118°44.500'W (cameron), in the 172 / 125 zone.
 - [5-Minute Kelp](5-minute-kelp.md) **[Baja only]** — A charted spot at 32°22.940'N 117°13.515'W (cameron), in the Coronado Islands zone.
 - [5 Tanks](5-tanks.md) **[SoCal only]** — A charted spot at 32°40.870'N 117°16.160'W (cameron), in the Point Loma zone.
@@ -350,5 +351,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 337 notes exceed the 30-node cap._
+_Map skipped: 338 notes exceed the 30-node cap._
 <!-- mermaid:end -->

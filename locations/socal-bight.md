@@ -294,6 +294,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [43 / 91 / 300](43-91-300.md)
+- [483/500 / 437](483-500-437.md)
 - [51 / 181 / 138](51-181-138.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja Pacific — North](baja-pacific-north.md)

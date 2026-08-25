@@ -40,5 +40,5 @@ A charted spot at **31°34.000'N 117°29.000'W** (cameron), in the [Baja - 270 /
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 <!-- backlinks:end -->

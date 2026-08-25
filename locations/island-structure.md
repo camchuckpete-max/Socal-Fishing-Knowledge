@@ -147,6 +147,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 
 - [172 / 125](172-125.md)
 - [43 / 91 / 300](43-91-300.md)
+- [483/500 / 437](483-500-437.md)
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
