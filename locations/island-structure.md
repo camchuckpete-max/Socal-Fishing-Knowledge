@@ -169,6 +169,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Evidence — Catalina Island, Front Side](evidence/catalina-island-front-side.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
+- [Lower Cross](lower-cross.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

@@ -335,6 +335,7 @@ become primary).
 - [Kelp Paddies](kelp-paddies.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

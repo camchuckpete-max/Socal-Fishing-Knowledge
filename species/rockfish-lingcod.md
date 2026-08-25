@@ -376,6 +376,7 @@ the *bottom*, not the fish.
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](ocean-whitefish.md)

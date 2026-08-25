@@ -167,6 +167,7 @@ Trip reports and per-source provenance:
 - [Evidence — Punta Banda / Santo Tomas](evidence/punta-banda-santo-tomas.md)
 - [Isolete](isolete.md)
 - [La Bufadora](la-bufadora.md)
+- [Lower Cross](lower-cross.md)
 - [Punta Santo Tomas](punta-santo-tomas.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)

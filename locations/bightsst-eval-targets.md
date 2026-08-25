@@ -66,6 +66,7 @@ itself. This is captured as doctrine in
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [La Jolla](la-jolla.md)
+- [Lower Cross](lower-cross.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [Southern California Bight](socal-bight.md)
 - [The Corner / 140 / 182](corner-140-182.md)

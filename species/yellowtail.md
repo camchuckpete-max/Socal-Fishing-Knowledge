@@ -423,6 +423,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [May](../seasonal/may.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)

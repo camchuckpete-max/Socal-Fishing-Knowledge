@@ -106,6 +106,7 @@ for the Bight.
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

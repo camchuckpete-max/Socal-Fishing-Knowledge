@@ -441,6 +441,7 @@ current "should" carry everything astern.
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)

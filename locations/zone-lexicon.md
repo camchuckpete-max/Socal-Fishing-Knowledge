@@ -144,6 +144,7 @@ many *drops*.
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
+- [Lower Cross](lower-cross.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)

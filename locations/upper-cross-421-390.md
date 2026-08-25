@@ -210,6 +210,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [483/500 / 437](483-500-437.md)
 - [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Lower Cross](lower-cross.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 - [Upper Cross](upper-cross.md)

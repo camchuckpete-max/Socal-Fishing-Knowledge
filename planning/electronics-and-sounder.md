@@ -488,6 +488,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [La Jolla](../locations/la-jolla.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)

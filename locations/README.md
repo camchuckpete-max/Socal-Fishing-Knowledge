@@ -219,6 +219,7 @@
 - [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The island end of Cortez South: a fishery worked around a cluster of big islands rather than off a mainland shore.
 - [Lost Point](lost-point.md) **[SoCal only]** — A charted spot at 32°51.060'N 118°30.210'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
+- [Lower Cross](lower-cross.md) **[Baja only]** — A zone is a run grouping.
 - [Mail Point](mail-point.md) **[SoCal only]** — A charted spot at 32°52.760'N 118°31.290'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Marine Street](marine-street.md) **[SoCal only]** — A charted spot at 32°50.175'N 117°17.715'W (cameron), in the La Jolla zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
@@ -355,5 +356,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 342 notes exceed the 30-node cap._
+_Map skipped: 343 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -129,6 +129,7 @@ and structure concentrate this water is in
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [November–December](../seasonal/november-december.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Water Color](water-color.md)

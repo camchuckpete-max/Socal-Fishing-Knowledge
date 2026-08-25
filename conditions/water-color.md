@@ -166,6 +166,7 @@ water color.
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)
 - [October](../seasonal/october.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)

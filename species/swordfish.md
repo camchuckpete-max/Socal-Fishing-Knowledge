@@ -121,6 +121,7 @@ Requirements before you stop:
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)

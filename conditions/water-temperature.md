@@ -187,6 +187,7 @@ doctrine above or add a SoCal-specific parameter.
 - [February–March](../seasonal/february-march.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [Lower Cross](../locations/lower-cross.md)
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
