@@ -299,7 +299,7 @@ by their builders after the transform phase drains.
 | locations/catalina-island-backside.md | geo | transformed | gaps:6 spots:21 | zone page written: 5 skeleton sections + closure table + evidence pair; 21 spots grouped W->E; 6 flagged gaps |
 | locations/san-diego-artificial-reefs.md | geo | transformed | gaps:10 stubs:3 spots:18 | zone page written: 5 skeleton sections + MPA caution + evidence pair; 18 spots in 3 groups (Torrey Pines, Pacific Beach grid, Mission Bay Park); 10 gaps, 3 stubs |
 | locations/oceanside-north-county.md | geo | transformed | gaps:8 stubs:2 spots:18 | zone page written: 5 skeleton sections + evidence pair; 18 spots in 5 coastal groups; 8 gaps, 2 zone-guide stubs, Flat Rock naming collision logged |
-| locations/la-jolla.md | geo | done | gaps:5 stubs:1 spots:14 | zone page written: 5 skeleton sections + MPA edge table + evidence pair; 14 spots in 5 groups (canyon, shelf, north-end reef, beach, rockfish ground); the NW Corner yellowtail/sounder program and the 180-210 ft shelf rockfish drift are the two real fisheries; 5 gaps, 1 zone-guide stub |
+| locations/la-jolla.md | geo | transformed | gaps:5 stubs:1 spots:14 | zone page written: 5 skeleton sections + MPA edge table + evidence pair; 14 spots in 5 groups (canyon, shelf, north-end reef, beach, rockfish ground); the NW Corner yellowtail/sounder program and the 180-210 ft shelf rockfish drift are the two real fisheries; 5 gaps, 1 zone-guide stub |
 | locations/point-loma.md | geo | pending |  | zone: 12 spots, 6 notes |
 | locations/punta-banda-santo-tomas.md | geo | pending |  | zone: 12 spots, 2 notes |
 | locations/san-clemente-island-back-side.md | geo | pending |  | zone: 12 spots, 30 notes |
