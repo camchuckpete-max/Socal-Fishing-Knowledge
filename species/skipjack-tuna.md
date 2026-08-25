@@ -101,6 +101,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Cortez South](../locations/cortez-south.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

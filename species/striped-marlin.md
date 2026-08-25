@@ -251,6 +251,7 @@ circle-hook rig detail logged in
 - [Cortez South](../locations/cortez-south.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [October](../seasonal/october.md)
 - [Skipjack Tuna](skipjack-tuna.md)

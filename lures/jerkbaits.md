@@ -112,5 +112,6 @@ from [cabrilla](../species/cabrilla.md).
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 <!-- backlinks:end -->

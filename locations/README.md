@@ -45,7 +45,7 @@
 - [Lions Head (partial-take SMCA, no inverts; stay S from 33 27.170)](lions-head.md) **[SoCal only]** — A charted spot at 33°27.235'N 118°30.073'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Little Gibraltar Main Big Rock (stay W of MPA at 118 24.000)](little-gibraltar-main-big-rock.md) **[SoCal only]** — A charted spot at 33°25.391'N 118°24.603'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Long Point (stay E/S of MPA at 33 24.380 x 118 21.980)](long-point.md) **[SoCal only]** — A charted spot at 33°24.350'N 118°21.930'W (cameron), in the Catalina Island — Front Side (W→E) zone.
-- [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The southern Sea of Cortez island fishery — roughly 250 miles south of Bahía de los Ángeles, and a different mix of fish.
+- [Loreto & Puerto Escondido](loreto.md) **[Baja only]** — The island end of Cortez South: a fishery worked around a cluster of big islands rather than off a mainland shore.
 - [Lower 9 Mile Bank](lower-9-mile-bank.md) **[Baja only]** — A charted spot at 32°32.500'N 117°20.500'W (cameron), in the Coronado Islands zone.
 - [Mexican waters](mexican-waters.md) — Everything south of the border needs paperwork a US angler does not carry by default, and the checks are real rather than theoretical.
 - [North County Artificial Reefs](north-county-artificial-reefs.md) **[SoCal only]** — The built-structure zone of San Diego's north county coast: three numbered artificial-reef series — Pendleton, Oceanside and Carlsbad — charted as 38 waypoints

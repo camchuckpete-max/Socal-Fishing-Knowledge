@@ -409,6 +409,7 @@ the column, which is when foamers are most likely to start
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [May](../seasonal/may.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

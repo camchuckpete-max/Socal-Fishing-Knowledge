@@ -319,5 +319,6 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)
 - [Evidence — Cortez North](evidence/cortez-north.md)
+- [Loreto & Puerto Escondido](loreto.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

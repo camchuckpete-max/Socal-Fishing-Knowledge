@@ -399,6 +399,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [May](../seasonal/may.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)

@@ -248,6 +248,7 @@ I don't like braid."* The mono-vs-braid casting-latitude trade-off is in
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Clearing a Backlash](clearing-a-backlash.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](spinning-reel-wind-knots.md)
 - [Surface Iron](surface-iron.md)

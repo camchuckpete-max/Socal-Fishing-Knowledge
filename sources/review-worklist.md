@@ -164,7 +164,7 @@ by their builders after the transform phase drains.
 | locations/breakwalls-jetties-riprap.md | standard | pending |  |  |
 | locations/cedros-island.md | geo | transformed | gaps:12 stubs:3 fc:1 | zone page (was type: location) from 44 sources, census zone 'Cedros / San Benitos'; no charted spots in the library; absorbed the queued Yellow Tail triangle geography; evidence file carries 44 observation lines and the Tackle Express gear cross-links |
 | locations/island-structure.md | standard | pending |  |  |
-| locations/loreto.md | geo | pending |  | zone: 0 spots, 3 notes |
+| locations/loreto.md | geo | transformed | gaps:17 stubs:4 fc:2 spots:7 | zone page under cortez-south from 5 Loreto trip vlogs + P36VGPPf120 for the roosterfish contrast; retyped location->zone on the v2 skeleton, 0 charted spots so no child pages; added bank to waters for Six Mile Reef, dropped the uncited '250 miles south of BOLA' distance, split every trip observation into the new evidence file and retired the confidence/channel boilerplate into it; new material mined from the transcripts (Puerto Escondido launch, mothership/beach/panga access modes, bait-vendor sardine rig and dorado window, 20-mile/1-hour Carmen run, breakdown-and-tow, plumas troll, marlin… |
 | locations/regions.md | standard | pending |  |  |
 | locations/sea-of-cortez.md | standard | pending |  |  |
 | locations/zone-lexicon.md | standard | pending |  |  |

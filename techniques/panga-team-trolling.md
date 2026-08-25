@@ -55,5 +55,6 @@ None — single source, single mention.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

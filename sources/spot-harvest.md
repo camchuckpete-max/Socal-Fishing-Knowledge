@@ -118,4 +118,11 @@ harvested.
 | "Modesto Main" (Magdalena Bay) | locations/bahia-magdalena-lopez-mateos.md | Spots | the closer fallback bank, picked over the longer Ridge run when the wave state outside the boca looks rough | `OVwqUKim9Pc` |
 | "The Ridge" (offshore of Magdalena Bay) | locations/bahia-magdalena-lopez-mateos.md | Spots | the longer offshore run from the bay; a yellowtail came yo-yoing at 180 ft, 10 ft off the bottom; captioned depth (~23 fathoms) unresolved | `OVwqUKim9Pc`, `3tQ1_xiqwVU` |
 | The "lower banks" (Magdalena Bay toward Cabo San Lucas) | locations/bahia-magdalena-lopez-mateos.md | What's there | giant yellowfin at 150 to 300-plus lb on flying-fish baits floated downwind under a helium balloon | `UuyqTE21-kc` |
+| Isla Monserrat, north end (Loreto) | locations/loreto.md | Structure & bathymetry | the outside run from Puerto Escondido; local word "Monserrat north end is the best"; roosterfish on the troll and cabrilla in 5–10 ft | `n4nMCLLW3tY` |
+| Six Mile Reef (Loreto) | locations/loreto.md | Structure & bathymetry | plotter-marked high spot on the way out to Monserrat, fished to the bottom; a yellowtail there on an earlier trip, triggerfish/skipjack/Pinto bass on the day | `n4nMCLLW3tY` |
+| Isla Carmen, north end (Loreto) | locations/loreto.md | Structure & bathymetry | about 20 miles and roughly an hour from Puerto Escondido; the run a broken shift linkage cancelled | `n4nMCLLW3tY` |
+| Honeymoon Bay (Isla Carmen, Loreto) | locations/loreto.md | Structure & bathymetry | sheltered water for a windy day, with "good yellowtail on the corner down there" | `ikiXx9sUsoA` |
+| Punta Perico (Loreto) | locations/loreto.md | Structure & bathymetry | shoreline point that produced a yellowtail on an earlier trip; bait vendor placed dorado close to shore here, caught roughly 10:20–11:00 | `n4nMCLLW3tY` |
+| "The Sante" / "desante" (Loreto, asr-uncertain name) | locations/loreto.md | Spots | the ground locals first named for dorado before the crew chose Punta Perico; passed again on the tow home; resolves to no charted place in the KB | `n4nMCLLW3tY` |
+| Puerto Escondido Marina (Loreto) | locations/loreto.md | Getting there | the zone's documented launch, a little south of Loreto; bait vendor meets boats out front | `n4nMCLLW3tY`, `ikiXx9sUsoA` |
 <!-- review:harvest:end -->

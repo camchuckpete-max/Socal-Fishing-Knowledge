@@ -430,6 +430,7 @@ current "should" carry everything astern.
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
+- [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
