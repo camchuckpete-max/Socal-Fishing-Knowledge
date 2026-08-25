@@ -149,6 +149,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [1140 Finger / 450](1140-finger-450.md)
 - [15 Fa Ridge](15-fa-ridge.md)
 - [33 Fa. Spot](33-fa-spot.md)
 - [372 / 245 / 250](372-245-250.md)

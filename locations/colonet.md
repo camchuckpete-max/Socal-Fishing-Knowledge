@@ -201,6 +201,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [1140 Finger / 450](1140-finger-450.md)
 - [330](330.md)
 - [385 / 238 / 475](385-238-475.md)
 - [483/500 / 437](483-500-437.md)

@@ -243,6 +243,7 @@ circle-hook rig detail logged in
 <!-- backlinks:start -->
 ## Linked from
 
+- [1140 Finger / 450](../locations/1140-finger-450.md)
 - [172 / 125](../locations/172-125.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
