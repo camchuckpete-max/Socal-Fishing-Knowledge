@@ -158,6 +158,7 @@ Trip reports and per-source provenance:
 - [47 Fa. Spot](47-fa-spot.md)
 - [48 Fa. Spot](48-fa-spot.md)
 - [Bahia Soledad](bahia-soledad.md)
+- [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Billy's Bluff](billy-s-bluff.md)
 - [Colonet](colonet.md)

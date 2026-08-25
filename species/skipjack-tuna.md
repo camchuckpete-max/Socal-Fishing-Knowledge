@@ -98,6 +98,7 @@ but hard-charging, they'll eat almost anything moving.
 - [1140 Finger / 450](../locations/1140-finger-450.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [483/500 / 437](../locations/483-500-437.md)
+- [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)

@@ -80,6 +80,7 @@
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md) **[Baja only]** — The drive-in panga zone of the northern Sea of Cortez, and the one ground in Cortez North the corpus documents in depth.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md) **[Baja only]** — Four fisheries stacked in one bay, which is also the region's answer to a blown-out day.
 - [Bahia Soledad](bahia-soledad.md) **[Baja only]** — A charted spot at 31°35.200'N 116°39.800'W (cameron), in the Punta Banda / Santo Tomas zone.
+- [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md) **[Baja only]** — A zone is a run grouping.
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md) **[Baja only]** — A zone is a run grouping.
 - [Baja - 270](baja-270.md) **[Baja only]** — A charted spot at 31°34.000'N 117°29.000'W (cameron), in the Baja - 270 / Double 220 / 295 zone.
 - [Baja Pacific — North](baja-pacific-north.md) **[Baja only]** — The character rung.
@@ -352,5 +353,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 339 notes exceed the 30-node cap._
+_Map skipped: 340 notes exceed the 30-node cap._
 <!-- mermaid:end -->

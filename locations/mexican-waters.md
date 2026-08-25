@@ -94,6 +94,7 @@ Trip reports and per-source provenance:
 - [385 / 238 / 475](385-238-475.md)
 - [483/500 / 437](483-500-437.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
+- [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)

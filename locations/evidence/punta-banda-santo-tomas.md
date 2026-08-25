@@ -29,5 +29,6 @@ observation. Observations never change the note's stated doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja - 230 / Peanut Bank / 60](../baja-230-peanut-bank-60.md)
 - [Punta Banda / Santo Tomas](../punta-banda-santo-tomas.md)
 <!-- backlinks:end -->

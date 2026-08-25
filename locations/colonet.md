@@ -206,6 +206,7 @@ Trip reports and per-source provenance:
 - [385 / 238 / 475](385-238-475.md)
 - [483/500 / 437](483-500-437.md)
 - [52](52.md)
+- [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Colonet 41 Fathoms](colonet-41-fathoms.md)
 - [Colonet High Spot 28 Fathoms](colonet-high-spot-28-fathoms.md)
