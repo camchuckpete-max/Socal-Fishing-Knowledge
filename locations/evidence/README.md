@@ -23,6 +23,7 @@
 - [Evidence — Punta Banda / Santo Tomas](punta-banda-santo-tomas.md) — The observation layer behind Punta Banda / Santo Tomas.
 - [Evidence — San Clemente Island, Back Side](san-clemente-island-back-side.md) — The observation layer behind San Clemente Island — Back Side.
 - [Evidence — San Diego Artificial Reefs](san-diego-artificial-reefs.md) — The observation layer behind San Diego Artificial Reefs.
+- [Evidence — San Nicolas Island](san-nicolas-island.md) — The observation layer behind San Nicolas Island.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
 - [Evidence — US waters](us-waters.md) — The observation layer behind US waters.
 <!-- index:end -->
@@ -52,8 +53,9 @@ graph LR
   n16["Evidence — Punta Banda / Santo Tomas"]
   n17["Evidence — San Clemente Island, Back Side"]
   n18["Evidence — San Diego Artificial Reefs"]
-  n19["Evidence — Southern California Bight"]
-  n20["Evidence — US waters"]
+  n19["Evidence — San Nicolas Island"]
+  n20["Evidence — Southern California Bight"]
+  n21["Evidence — US waters"]
   n11 --> n0
 ```
 <!-- mermaid:end -->

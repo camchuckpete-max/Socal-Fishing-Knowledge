@@ -108,6 +108,7 @@ Fold the output of this note back into the
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [June–July](../seasonal/june-july.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
 - [Water Color](../conditions/water-color.md)

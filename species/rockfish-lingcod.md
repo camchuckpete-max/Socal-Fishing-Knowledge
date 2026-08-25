@@ -366,6 +366,7 @@ the *bottom*, not the fish.
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)

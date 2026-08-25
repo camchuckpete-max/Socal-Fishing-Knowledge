@@ -124,6 +124,7 @@
 - [Salta Verde](salta-verde.md) **[SoCal only]** — A charted spot at 33°18.842'N 118°24.963'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md) **[SoCal only]** — The ocean-facing side of San Clemente Island, running N→S from the 9 Fathom Spot at the northwest end to Desperation Reef at the southeast end, with 12 charted
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md) **[SoCal only]** — The built-structure zone off central San Diego: 18 charted waypoints in the spot library (cameron), in three groups — Torrey Pines AR 1–2, the twelve-point Paci
+- [San Nicolas Island](san-nicolas-island.md) **[SoCal only]** — A zone is a run grouping.
 - [San Onofre Kelp](san-onofre-kelp.md) **[SoCal only]** — A charted spot at 33°20.880'N 117°34.050'W (cameron), in the Oceanside / North County zone.
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
 - [Seal Rocks](seal-rocks.md) **[SoCal only]** — A charted spot at 33°18.395'N 118°18.259'W (cameron), in the Catalina Island — Backside (W→E) zone.
@@ -156,5 +157,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 143 notes exceed the 30-node cap._
+_Map skipped: 144 notes exceed the 30-node cap._
 <!-- mermaid:end -->

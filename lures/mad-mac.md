@@ -102,6 +102,7 @@ and how he pairs them to his rods and holders are in
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](halco-laser-pro.md)
 - [Rapala Husky Magnum](rapala-husky-magnum.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](spreader-bar.md)
 - [Trolling](../techniques/trolling.md)

@@ -307,6 +307,7 @@ into the spot once the current read right.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Southern California Bight](../locations/socal-bight.md)

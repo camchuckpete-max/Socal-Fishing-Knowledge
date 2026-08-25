@@ -491,6 +491,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Southern California Bight](../locations/socal-bight.md)

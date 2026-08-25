@@ -120,6 +120,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Water Regimes](water-regimes.md)

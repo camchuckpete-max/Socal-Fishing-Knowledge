@@ -1104,6 +1104,7 @@ covered above, not a new tool.
 - [Pacific Bonito](../species/bonito.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
