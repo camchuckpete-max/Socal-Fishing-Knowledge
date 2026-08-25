@@ -40,5 +40,5 @@ A charted spot at **32°21.000'N 117°06.500'W** (cameron), in the [Rosarito / D
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Rosarito / Descanso](rosarito-descanso.md)
 <!-- backlinks:end -->

@@ -162,6 +162,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [BightSST Eval Targets](../locations/bightsst-eval-targets.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Current Structure](current-structure.md)
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [June–July](../seasonal/june-july.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)

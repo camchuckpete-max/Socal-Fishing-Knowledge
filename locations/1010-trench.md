@@ -40,5 +40,5 @@ A charted spot at **31°45.833'N 117°44.000'W** (cameron), in the [1010 Trench 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [1010 Trench / 378 / 213](1010-trench-378-213.md)
 <!-- backlinks:end -->

@@ -40,5 +40,5 @@ A charted spot at **32°34.500'N 117°09.600'W** (cameron), in the [Imperial Bea
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Imperial Beach](imperial-beach.md)
 <!-- backlinks:end -->

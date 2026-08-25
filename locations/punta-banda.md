@@ -40,5 +40,5 @@ A charted spot at **31°45.430'N 116°45.330'W** (cameron), in the [Ensenada](en
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Ensenada](ensenada.md)
 <!-- backlinks:end -->

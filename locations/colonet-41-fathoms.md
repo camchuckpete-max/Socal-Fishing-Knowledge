@@ -40,5 +40,5 @@ A charted spot at **30°50.600'N 116°30.350'W** (cameron), in the [Colonet](col
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Colonet](colonet.md)
 <!-- backlinks:end -->

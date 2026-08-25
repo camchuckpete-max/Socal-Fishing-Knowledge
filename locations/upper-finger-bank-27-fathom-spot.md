@@ -40,5 +40,5 @@ A charted spot at **32°14.000'N 117°07.100'W** (cameron), in the [Finger Bank 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Finger Bank rockfish](finger-bank-rockfish.md)
 <!-- backlinks:end -->

@@ -76,6 +76,7 @@ share it).
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [June–July](../seasonal/june-july.md)
 - [October](../seasonal/october.md)
 - [Santa Barbara Island](santa-barbara-island.md)

@@ -126,6 +126,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
 - [Evidence — US waters](evidence/us-waters.md)
 - [Imperial Beach](imperial-beach.md)

@@ -40,5 +40,5 @@ A charted spot at **31°58.385'N 116°50.010'W** (cameron), in the [La Fonda / B
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 <!-- backlinks:end -->

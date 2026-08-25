@@ -89,6 +89,7 @@
 - [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md) **[SoCal only]** — A charted spot at 32°47.580'N 117°16.580'W (cameron), in the La Jolla zone.
 - [Dana Point Kelp — Red Buoy](dana-point-kelp-red-buoy.md) **[SoCal only]** — A charted spot at 33°27.320'N 117°43.380'W (cameron), in the Dana Point zone.
 - [Dana Point](dana-point.md) **[SoCal only]** — The mainland strip either side of Dana Point Harbor, running from the Orange County coast down across the county line to Trestles: 9 charted spots in the spot l
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md) **[SoCal only]** — A zone is a run grouping.
 - [Daytona Beach](daytona-beach.md) **[SoCal only]** — A charted spot at 33°12.890'N 119°26.831'W (cameron), in the San Nicolas Island zone.
 - [Daytona WSB zone](daytona-wsb-zone.md) **[SoCal only]** — A charted spot at 33°12.484'N 119°26.852'W (cameron), in the San Nicolas Island zone.
 - [Del Mar rockfish area](del-mar-rockfish-area.md) **[SoCal only]** — A charted spot at 32°57.191'N 117°17.981'W (cameron), in the Oceanside / North County zone.
@@ -281,5 +282,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 268 notes exceed the 30-node cap._
+_Map skipped: 269 notes exceed the 30-node cap._
 <!-- mermaid:end -->

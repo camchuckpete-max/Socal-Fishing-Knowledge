@@ -380,6 +380,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)

@@ -432,6 +432,7 @@ Trip reports and per-source provenance:
 - [Chunking](../techniques/chunking.md)
 - [Colonet](../locations/colonet.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)

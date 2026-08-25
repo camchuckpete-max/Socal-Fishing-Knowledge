@@ -186,6 +186,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Cortez South](../locations/cortez-south.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Dana Point](../locations/dana-point.md)
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Island Structure](../locations/island-structure.md)

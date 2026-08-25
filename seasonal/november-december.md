@@ -98,6 +98,7 @@ the fish won't be on the surface. See
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
