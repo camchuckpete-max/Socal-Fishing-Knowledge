@@ -301,7 +301,6 @@ into the spot once the current read right.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)

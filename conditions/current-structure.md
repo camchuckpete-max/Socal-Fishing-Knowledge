@@ -319,7 +319,6 @@ become primary).
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Tide and Slack](tide-and-slack.md)

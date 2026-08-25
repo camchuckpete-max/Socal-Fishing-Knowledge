@@ -81,7 +81,6 @@ See [water color](../conditions/water-color.md) and
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](../species/white-seabass.md)

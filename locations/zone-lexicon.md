@@ -126,7 +126,6 @@ many *drops*.
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
-- [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

@@ -241,7 +241,6 @@ paddy-line detail beyond that can be read out of the clip.
 - [Pacific Bonito](../species/bonito.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Water Regimes](water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

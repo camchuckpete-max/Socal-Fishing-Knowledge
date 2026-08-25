@@ -695,7 +695,6 @@ release *ethic* and the regional policies are below.
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
 - [Surface Iron](../techniques/surface-iron.md)

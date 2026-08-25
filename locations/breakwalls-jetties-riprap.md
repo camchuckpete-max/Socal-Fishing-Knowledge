@@ -159,6 +159,5 @@ already logged above: the **Seal Beach wall**, the **Surfside wall**,
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [February–March](../seasonal/february-march.md)
-- [Southern California Bight](socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

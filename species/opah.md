@@ -106,5 +106,4 @@ worked for tuna, not located as a discrete target.
 
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
-- [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

@@ -127,6 +127,5 @@ glassing](../planning/search-and-glassing.md),
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 <!-- backlinks:end -->

@@ -112,7 +112,6 @@ SoCal/Baja knowledge plus Cameron's stated interest, at **confidence: low**
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [California Sheephead](sheephead.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

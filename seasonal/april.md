@@ -66,7 +66,6 @@ squid on the meter before you write the spot off.
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

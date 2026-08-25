@@ -186,7 +186,6 @@ parameter and not a substitute for the observed/forecast pull.
 - [Island Structure](../locations/island-structure.md)
 - [November–December](../seasonal/november-december.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Water Regimes](water-regimes.md)

@@ -175,7 +175,6 @@ rocks.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Swimbaits](../techniques/swimbaits.md)

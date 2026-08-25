@@ -289,7 +289,7 @@ by their builders after the transform phase drains.
 | locations/14-mile-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/us-waters.md | geo | transformed |  | jurisdiction page written from 8 corpus sources; verified, 4 style/scope fixes applied; 4 gaps flagged |
-| locations/socal-bight.md | geo | transformed | gaps:5 stubs:18 | region page written from 16 corpus sources; all 41 census zones listed (18 flagged stubs), 5 gaps flagged incl. the northern Channel Islands minting no zone; parent us-waters child link repointed |
+| locations/socal-bight.md | geo | pending |  | region |
 | locations/baja-pacific-north.md | geo | pending |  | region |
 | locations/baja-pacific-south.md | geo | pending |  | region |
 | locations/cortez-north.md | geo | pending |  | region |

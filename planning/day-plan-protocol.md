@@ -117,7 +117,6 @@ navigate the whole KB.
 - [Report Reading and Forecasting](report-reading-and-forecasting.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](trip-length-selection.md)
 - [Water Color](../conditions/water-color.md)

@@ -68,7 +68,6 @@ the same structure.
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

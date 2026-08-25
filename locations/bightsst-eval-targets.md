@@ -59,7 +59,6 @@ itself. This is captured as doctrine in
 
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
-- [Southern California Bight](socal-bight.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

@@ -110,5 +110,4 @@ Requirements before you stop:
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
-- [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

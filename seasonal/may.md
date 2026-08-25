@@ -61,7 +61,6 @@ Read the water with [water temperature](../conditions/water-temperature.md),
 - [California Barracuda](../species/barracuda.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)
 - [Pacific Bonito](../species/bonito.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

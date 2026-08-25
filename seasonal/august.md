@@ -79,7 +79,6 @@ and [bird reading](../conditions/bird-reading.md).
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
-- [Southern California Bight](../locations/socal-bight.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
