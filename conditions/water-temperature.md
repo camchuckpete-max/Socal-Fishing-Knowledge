@@ -170,6 +170,7 @@ doctrine above or add a SoCal-specific parameter.
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bight Geography](../locations/bight-geography.md)

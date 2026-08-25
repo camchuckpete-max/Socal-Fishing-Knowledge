@@ -147,6 +147,7 @@ water color.
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

@@ -303,6 +303,7 @@ become primary).
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
+- [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)

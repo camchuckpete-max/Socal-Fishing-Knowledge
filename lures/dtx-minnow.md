@@ -116,6 +116,7 @@ and its rod/holder pairing are in
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
+- [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

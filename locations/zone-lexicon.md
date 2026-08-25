@@ -126,6 +126,7 @@ many *drops*.
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
 - [<Your> Spots](../profiles/_template/spots.md)
+- [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Sheephead](../species/sheephead.md)

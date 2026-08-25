@@ -172,6 +172,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [372 / 245 / 250](372-245-250.md)
 - [385 / 238 / 475](385-238-475.md)
+- [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)

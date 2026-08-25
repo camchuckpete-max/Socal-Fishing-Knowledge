@@ -331,7 +331,7 @@ by their builders after the transform phase drains.
 | locations/43-91-300.md | geo | transformed | gaps:12 stubs:2 spots:3 | apply-with-changes: new zone page under socal-bight; census, coordinates, all derived distances and 5 transcript cites verified; 3 fixes (two false superlatives, one unsupported count) |
 | locations/w-butterfly-157.md | geo | transformed | gaps:13 spots:3 | apply-with-changes: new position-and-ladder zone page (zero corpus coverage); ~35 derived distances recomputed and census verified; 4 fixes (3 distance corrections, 1 miscited source, 1 missing neighbour link) |
 | locations/upper-500-hidden-bank.md | geo | transformed | gaps:14 stubs:2 spots:3 | apply-with-changes: new zone page under baja-pacific-north; corpus hook the census missed (302-to-hidden-bank corridor) captured; 20+ derived distances recomputed correct; 1 mis-targeted cite link fixed |
-| locations/baja-270-double-220-295.md | geo | pending |  | zone: 3 spots, 94 notes |
+| locations/baja-270-double-220-295.md | geo | transformed | gaps:10 stubs:1 spots:3 | apply-with-changes: new zone page under baja-pacific-north; corpus depth genuinely zero (row's 94 notes is a depth_term dash-split artifact scoring 'Baja'); 30+ derived distances verified; 3 fixes (false nearest-neighbour claim, rounded ratio, scope wording) |
 | locations/483-500-437.md | geo | pending |  | zone: 3 spots, 2 notes |
 | locations/1140-finger-450.md | geo | pending |  | zone: 3 spots, 0 notes |
 | locations/baja-230-peanut-bank-60.md | geo | pending |  | zone: 3 spots, 94 notes |
