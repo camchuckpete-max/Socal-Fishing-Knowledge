@@ -80,5 +80,6 @@ mechanism is in
 - [California Halibut](../species/california-halibut.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Ned Rig](../techniques/ned-rig.md)
+- [Southern California Bight](socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

@@ -77,5 +77,6 @@ share it).
 - [June–July](../seasonal/june-july.md)
 - [October](../seasonal/october.md)
 - [September](../seasonal/september.md)
+- [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

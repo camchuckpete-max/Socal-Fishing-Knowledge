@@ -70,6 +70,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

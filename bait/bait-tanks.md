@@ -368,4 +368,5 @@ see [making bait](making-bait.md).
 - [Chunking](../techniques/chunking.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Making Bait](making-bait.md)
+- [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

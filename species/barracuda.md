@@ -248,6 +248,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Pacific Bonito](bonito.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

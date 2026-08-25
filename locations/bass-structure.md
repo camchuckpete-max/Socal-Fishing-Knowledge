@@ -70,5 +70,6 @@ current-over-structure mechanism ties it together in
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

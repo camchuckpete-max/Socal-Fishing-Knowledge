@@ -78,6 +78,7 @@ the fleet behavior correctly before you run to it. See
 - [Current Structure](../conditions/current-structure.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Water Temperature](../conditions/water-temperature.md)

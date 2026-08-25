@@ -249,6 +249,7 @@ circle-hook rig detail logged in
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [October](../seasonal/october.md)
 - [Skipjack Tuna](skipjack-tuna.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Trolling](../techniques/trolling.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

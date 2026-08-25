@@ -98,6 +98,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

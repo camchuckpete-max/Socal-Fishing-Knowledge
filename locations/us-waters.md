@@ -118,4 +118,5 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — US waters](evidence/us-waters.md)
+- [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

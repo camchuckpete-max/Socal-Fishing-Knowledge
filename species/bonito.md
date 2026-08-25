@@ -274,6 +274,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
+- [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->
