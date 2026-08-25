@@ -111,9 +111,11 @@ prior inside the fall regime, not a date rule.
 **July offshore geography splits into two kinds of water and is planned
 differently.** The below-Clemente complex — 43, 181, 182, 289 and Clemente
 Ridge up to Mackerel Bank — reads as **one ~50–60 square-mile search box** that
-costs hours of looking, while compact spots such as 302 and the west end of
-Catalina are a 20–30 minute meter read and a decision (`Blh2BA-7Ono`).
-Sizing that box is [zone lexicon](zone-lexicon.md); filling the hours is
+costs hours of looking, while compact spots such as 302, 371 and the west end
+of Catalina are a spot-check — idle up, grade the meter, commit or leave
+(`Blh2BA-7Ono`). Sizing the box and budgeting the time — a compact spot reads
+in 20–30 minutes, a complex is a half-day commitment — is
+[zone lexicon](zone-lexicon.md); filling the hours is
 [search and glassing](../planning/search-and-glassing.md).
 
 ## Zones
@@ -135,10 +137,10 @@ CDFW before you fish — MPA lines and closures move year to year.**
 | --- | --- | --- |
 | Catalina Island — Front Side (W→E) | 40 | The mainland-facing side: boiler rocks, kelp points and a run of charted rockfish pinnacles at 31–48 fathoms. Carries the most MPA edges of any zone in the region |
 | Catalina Island — Backside (W→E) | 21 | The weather side, and a station on the fall warm-band path. Holds Farnsworth Bank, a standalone bank in a partial-take closure where only yellowtail and bonito may be kept (`5p6gu14ZC4w`) |
-| San Clemente Island — Back Side (N→S) | 12 | The squid fishery: yellowtail average 20–25 lb with fish from the high teens to the high 30s (`YZtX1MiT0y8`). Held its water through a NW event that rolled the northern islands (`YZtX1MiT0y8`) |
+| San Clemente Island — Back Side (N→S) | 12 | The squid fishery: on an April 2022 squid bite off the east end the yellowtail graded high teens to high 30s, a 20–25 lb average (`YZtX1MiT0y8`). Held its water through a NW event that rolled the northern islands (`YZtX1MiT0y8`) |
 | San Clemente Island — Front Side (N→S) | 7 | The Pyramid Head / Pyramid Cove end plus Mackerel Bank, which is the northern limit of the below-Clemente search box (`Blh2BA-7Ono`). Two naval security zones sit inside this zone and are not fishable |
 | San Nicolas Island | 10 | A corner of the September volume square (`5to3Q5P7w90`). Carries named squid grounds and a white seabass zone, and reaches out to Potato Bank and Cherry Banks |
-| Santa Barbara Island | 8 | Squid-driven: squid in at Sutil means a yellowtail chance (`5p6gu14ZC4w`). The NW corner of the volume square (`5to3Q5P7w90`), and the first station on the fall warm-band arc after the northern islands |
+| Santa Barbara Island | 8 | Squid-driven: squid in at Sutil means a yellowtail chance (`5p6gu14ZC4w`). The northern corner of the volume square (`5to3Q5P7w90`), and the first station on the fall warm-band arc after the northern islands |
 
 ### Mainland coast
 
@@ -212,7 +214,8 @@ refills are trackable when bait is short
 ([fleet intelligence](../planning/fleet-intelligence.md)). At Dana Point the
 sportboat fleet's **6:00 a.m.** departure is also when the private-boat crowd
 converges on the barge, so leaving the dock at **5:00 a.m.** — or 4:30 — beats
-the line entirely, while 7:00 a.m. is too late (`ztpj1Xll0-U`). Barge etiquette
+the line entirely, while 7:00 a.m. is too late
+(`ztpj1Xll0-U`, `7WapaxdtjQg`). Barge etiquette
 and load sizing are [making bait](../bait/making-bait.md) and
 [bait tanks](../bait/bait-tanks.md).
 
@@ -254,9 +257,14 @@ boat range and sea-state envelope each crossing implies.
 ⚠ Flagged gap — no corpus source: fuel planning for the outer banks — burn
 rates, reserve policy, or where fuel is available outside the home port.
 
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/socal-bight.md).
+
 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Evidence — Southern California Bight](evidence/socal-bight.md)
 <!-- backlinks:end -->
