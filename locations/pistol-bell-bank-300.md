@@ -181,7 +181,10 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Bell Bank (300)](bell-bank-300.md)
+- [Elephant](elephant.md)
+- [The Pistol](pistol.md)
+- [The Worm](worm.md)
 <!-- children:end -->
 
 ## Evidence
@@ -195,4 +198,8 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 
 - [372 / 245 / 250](372-245-250.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Bell Bank (300)](bell-bank-300.md)
+- [Elephant](elephant.md)
+- [The Pistol](pistol.md)
+- [The Worm](worm.md)
 <!-- backlinks:end -->

@@ -184,7 +184,9 @@ Charted positions for all three are in
 corpus detail beyond its position and, for Abalone Point, its MPA corner.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Abalone Point (stay N/W of MPA at 33 33.233 x 117 49.200)](abalone-point.md)
+- [Crystal Cove / Number 2 Spot](crystal-cove-number-2-spot.md)
+- [Pelican Point / Number 1 Spot](pelican-point-number-1-spot.md)
 <!-- children:end -->
 
 ## Evidence
@@ -196,5 +198,8 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Abalone Point (stay N/W of MPA at 33 33.233 x 117 49.200)](abalone-point.md)
+- [Crystal Cove / Number 2 Spot](crystal-cove-number-2-spot.md)
+- [Pelican Point / Number 1 Spot](pelican-point-number-1-spot.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

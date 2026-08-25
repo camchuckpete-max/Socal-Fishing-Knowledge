@@ -199,7 +199,10 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Arguello Canyon](arguello-canyon.md)
+- [Davis Knoll](davis-knoll.md)
+- [Rodriguez Seamount](rodriguez-seamount.md)
+- [San Miguel Gap](san-miguel-gap.md)
 <!-- children:end -->
 
 ## Evidence
@@ -211,6 +214,10 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Arguello Canyon](arguello-canyon.md)
+- [Davis Knoll](davis-knoll.md)
 - [Evidence — Davis Knoll / San Miguel Gap / Rodriguez Seamount](evidence/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [Rodriguez Seamount](rodriguez-seamount.md)
+- [San Miguel Gap](san-miguel-gap.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

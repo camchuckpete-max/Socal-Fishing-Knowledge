@@ -189,7 +189,10 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [390](390.md)
+- [421](421.md)
+- [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md)
+- [Upper Cross](upper-cross.md)
 <!-- children:end -->
 
 ## Evidence
@@ -202,6 +205,10 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [385 / 238 / 475](385-238-475.md)
+- [390](390.md)
+- [421](421.md)
+- [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
+- [Upper Cross](upper-cross.md)
 <!-- backlinks:end -->

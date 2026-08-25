@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
+_Totals: 1263 flagged gaps, 165 flagged stubs, 685 unknown infobox values._
 
 ## species/
 
@@ -103,6 +103,22 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `How it fishes`: gap — the zone's program in full. Nothing states
   - `How it fishes`: zone guide missing
   - `Evidence`: gap — no trip report, video or observation in the
+- **locations/1010-trench.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [1010 Trench / 378 / 213](1010-trench-378-213.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/1067-knuckle.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [1010 Trench / 378 / 213](1010-trench-378-213.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/15-fa-ridge.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -116,6 +132,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [San Quintin](san-quintin.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/213.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [1010 Trench / 378 / 213](1010-trench-378-213.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -167,6 +191,37 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/330.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Colonet](colonet.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/372-245-250.md**
+  - `Getting there`: gap — any run, heading, timing or fuel figure to
+  - `Getting there`: gap — whether a private boat runs here at all,
+  - `Getting there`: gap — states that these
+  - `Getting there`: gap
+  - `Structure & bathymetry`: flagged stub row
+  - `Structure & bathymetry`: gap — confirms
+  - `Structure & bathymetry`: gap — what the **Dumping Grounds** is named for.
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour, high-spot
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species anywhere in this zone | ⚠ Flagged gap — no corpus source | Not one of the four names claims a target, unlike the depth-labelled marks in the [Finger Bank rockfish](finger-bank-rockfish.md) zone. There is no trip report, no video and no observation attached to any position here |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
+- **locations/378.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [1010 Trench / 378 / 213](1010-trench-378-213.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/38-fa-spot.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -175,6 +230,17 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/385-238-475.md**
+  - `Getting there`: gap — any run, heading, timing or fuel figure to a
+  - `Getting there`: gap
+  - `Structure & bathymetry`: gap — confirms any of the four numbers as a charted
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour, high-spot
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species anywhere in this zone | ⚠ Flagged gap — no corpus source | Not one of the four names claims a target, unlike the depth-labelled marks in the [Finger Bank rockfish](finger-bank-rockfish.md) zone. There is no trip report, no video and no observation attached to any position here |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/3rd-v-cod-1-36-fa.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -223,6 +289,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/52.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Colonet](colonet.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/6-5-fathom-spot.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -239,6 +313,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/97.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/airplane-rock.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -252,6 +334,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [La Jolla](la-jolla.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/airplane.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [1010 Trench / 378 / 213](1010-trench-378-213.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -372,6 +462,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Zones`: flagged stub row
   - `Access & range`: gap — ports, ramps, fuel and haul-out anywhere in
   - `Access & range`: gap — sea-state and weather geography outside
+- **locations/bajamar.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/barber-poles.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -449,6 +547,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Oceanside / North County](oceanside-north-county.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/bull-ring.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Rosarito / Descanso](rosarito-descanso.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -627,6 +733,22 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/colonet-41-fathoms.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Colonet](colonet.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/colonet-high-spot-28-fathoms.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Colonet](colonet.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/colonet.md**
   - `Getting there`: gap — any distance, run time, port, ramp, fuel dock
   - `Getting there`: gap — closures, protected areas or restricted zones
@@ -635,6 +757,16 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `What's there`: gap — every other species on this coast — nothing
   - `How it fishes`: gap — tide, light, moon or water-temperature calls
   - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+- **locations/corner-140-182.md**
+  - `Getting there`: gap — any run distance, heading, timing or fuel
+  - `Getting there`: gap — closures, MPA boundaries, restricted areas or
+  - `Structure & bathymetry`: gap — confirms the 140 or the 166 as
+  - `Structure & bathymetry`: gap — what *Corner* denotes as a structure term
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — places the 140, the 166 or The Corner on
+  - `How it fishes`: gap — the zone's program in full. Nothing states
   - `How it fishes`: zone guide missing
 - **locations/coronado-canyon.md**
   - `Getting there`: gap — the run, the approach, and where to start.
@@ -649,6 +781,16 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Structure & bathymetry`: gap — depth bands and bottom composition per spot.
   - `What's there`: gap — on zone-specific bonito behaviour here |
   - infobox `depth_band`: unknown
+- **locations/coronados-230-302-226.md**
+  - `Getting there`: gap — any run distance, heading, timing or fuel
+  - `Getting there`: gap — states which side of
+  - `Getting there`: gap — closures, MPA boundaries, restricted areas or
+  - `Structure & bathymetry`: gap — explains why
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — places the 226 or
+  - `How it fishes`: gap
+  - `How it fishes`: zone guide missing
 - **locations/cortez-north.md**
   - `The fishery`: gap — any sonar signature for cabrilla. The
   - `The fishery`: gap — bay and estuary fishing anywhere in this
@@ -709,6 +851,17 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program
+- **locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md**
+  - `Getting there`: gap — wind or swell timing stated for these four
+  - `Getting there`: gap — run distance,
+  - `Structure & bathymetry`: gap
+  - `Structure & bathymetry`: gap — what **knoll**, **seamount**, **gap** and
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species at any of these four positions | ⚠ Flagged gap — no corpus source | No trip report, video or observation in the corpus is scoped to Davis Knoll, Rodriguez Seamount, the San Miguel Gap or Arguello Canyon. Unlike the depth-named banks elsewhere in the region, none of the four names even claims a structure depth to reason from |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: gap
+  - `How it fishes`: zone guide missing
 - **locations/daytona-beach.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -730,6 +883,22 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Oceanside / North County](oceanside-north-county.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/descanso-rockfish-1.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Rosarito / Descanso](rosarito-descanso.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/descanso-rockfish-2.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Rosarito / Descanso](rosarito-descanso.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -969,6 +1138,38 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/imperial-beach-flats.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Imperial Beach](imperial-beach.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/imperial-beach-kelp-south-end.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Imperial Beach](imperial-beach.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/imperial-beach-kelp.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Imperial Beach](imperial-beach.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/imperial-beach-pipe.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Imperial Beach](imperial-beach.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/imperial-beach.md**
   - `Getting there`: gap — where the US/Mexico maritime boundary runs
   - `Getting there`: gap — the ports and launch ramps this zone is run
@@ -1118,6 +1319,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `How it fishes`: gap — the zone's program in full. Nothing states
   - `How it fishes`: zone guide missing
   - `Evidence`: gap — no trip report, video or observation in the
+- **locations/la-fonda.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/la-jolla-canyon-shelf-rockfish-area.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1438,6 +1647,19 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/pistol-bell-bank-300.md**
+  - `Getting there`: gap — any run, heading, timing or fuel figure to
+  - `Getting there`: gap — states that these banks are
+  - `Getting there`: gap
+  - `Structure & bathymetry`: gap — confirms that number as a charted
+  - `Structure & bathymetry`: flagged stub row
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour, high-spot
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species anywhere in this zone | ⚠ Flagged gap — no corpus source | Not one of the four names claims a target, unlike the depth-labelled marks in the [Finger Bank rockfish](finger-bank-rockfish.md) zone. There is no trip report, no video and no observation attached to any position here |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/point-loma-pipe.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1495,11 +1717,83 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `What's there`: gap — every other species on this coast. The
   - `How it fishes`: gap — the zone's program — where you start, how you
   - `How it fishes`: zone guide missing
+- **locations/punta-banda.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Ensenada](ensenada.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/punta-descanso.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Rosarito / Descanso](rosarito-descanso.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/punta-mesquite.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/punta-morro.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Ensenada](ensenada.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/punta-salsipuedes.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/punta-san-miguel.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Ensenada](ensenada.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/punta-santo-tomas.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/purse-seine-rock.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [San Clemente Island — Front Side (N→S)](san-clemente-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/pyramid-cove.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [San Clemente Island — Front Side (N→S)](san-clemente-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/pyramid-reef.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [San Clemente Island — Front Side (N→S)](san-clemente-island-front-side.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -1553,6 +1847,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `How it fishes`: gap — the zone's program in full. Nothing states
   - `How it fishes`: zone guide missing
   - `Evidence`: gap — no trip report, video or observation in the
+- **locations/rosarito-flats.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Rosarito / Descanso](rosarito-descanso.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/salt-creek.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1717,6 +2019,14 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/san-miguel-reef.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Ensenada](ensenada.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/san-nicolas-island.md**
   - `Getting there`: gap — run distance and time from any named mainland
   - `Getting there`: gap — any closure, restricted area, military
@@ -1853,11 +2163,31 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/south-orange-county-crystal-cove.md**
+  - `Getting there`: gap — the launch ramps and harbours this zone is
+  - `Getting there`: gap — which MPA the Abalone Point corner belongs
+  - `Structure & bathymetry`: gap — charted depth, relief or bottom composition
+  - `What's there`: gap — season shape scoped to this zone | ⚠ Flagged gap — no corpus source: no calico is reported on any mark here, and no waypoint label names the kelp or shallow reef the species relates to (cameron) |
+  - `What's there`: gap — season shape scoped to this zone | ⚠ Flagged gap — no corpus source: no deep structure, flat or pipe is charted in this zone to attach the read to (cameron) |
+  - `What's there`: gap — season shape scoped to this zone | ⚠ Flagged gap — no corpus source. The paddy route into coastal yellowtail is weaker here than south of Dana Point (`HzE4FHHcvTk`); whether a structure-based route exists on these marks is unrecorded |
+  - `What's there`: gap — whether [white
+  - `How it fishes`: gap — this zone has no recorded program at all.**
+  - `How it fishes`: gap — places Newport relative to these three
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/stony-point.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Catalina Island — Front Side (W→E)](catalina-island-front-side.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/sugarloaf-rock.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Rosarito / Descanso](rosarito-descanso.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
@@ -1914,6 +2244,59 @@ _Totals: 1049 flagged gaps, 148 flagged stubs, 577 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Dana Point](dana-point.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/upper-cross-421-390.md**
+  - `Getting there`: gap — any run, heading, timing or fuel figure to
+  - `Getting there`: gap — where the US–Mexico maritime boundary runs
+  - `Getting there`: gap
+  - `Structure & bathymetry`: gap — confirms any
+  - `Structure & bathymetry`: gap — defines
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour, high-spot
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species anywhere in this zone | ⚠ Flagged gap — no corpus source | Not one of the four names claims a target, unlike the depth-labelled marks in the [Finger Bank rockfish](finger-bank-rockfish.md) zone. There is no trip report, no video and no observation attached to any position here |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
+- **locations/upper-finger-bank-27-fathom-spot.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Finger Bank rockfish](finger-bank-rockfish.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/upper-finger-bank-71-fathom-spot.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Finger Bank rockfish](finger-bank-rockfish.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/upper-finger-bank-rockfish-180ft.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Finger Bank rockfish](finger-bank-rockfish.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/upper-finger-bank-rockfish-240ft.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Finger Bank rockfish](finger-bank-rockfish.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/upper-finger-bank-rockfish-300ft.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Finger Bank rockfish](finger-bank-rockfish.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
