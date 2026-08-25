@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 44 flagged gaps, 29 flagged stubs, 12 unknown infobox values._
+_Totals: 139 flagged gaps, 87 flagged stubs, 40 unknown infobox values._
 
 ## species/
 
@@ -91,18 +91,163 @@ _Totals: 44 flagged gaps, 29 flagged stubs, 12 unknown infobox values._
 
 ## locations/
 
+- **locations/5-minute-kelp.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/bahia-de-los-angeles.md**
   - `Paperwork`: gap — whether the Midriff-islands biosphere
+- **locations/baja-pacific-north.md**
+  - `The fishery`: gap — where or when
+  - `The fishery`: gap — bay and estuary fishing on this coast
+  - `Season shape`: gap
+  - `Season shape`: gap — what this region offers in winter beyond that sighting |
+  - `Season shape`: gap — any other fall pattern with a stated fishing date — the Cedros and San Benitos trip footage carries upload dates, not fishing dates |
+  - `Zones`: gap
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: gap — the numbered bank grid as a whole.
+  - `Zones`: gap — the coastal stretch between the border and
+  - `Access & range`: gap — ports, ramps, fuel and haul-out anywhere in
+  - `Access & range`: gap — sea-state and weather geography for this
+  - `Access & range`: gap — road access and drive times to the Baja
+- **locations/baja-pacific-south.md**
+  - `The fishery`: gap — the coast between Punta Eugenia and
+  - `Season shape`: gap — a
+  - `Season shape`: gap — any spring pattern for this region with a stated fishing date |
+  - `Zones`: gap
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Access & range`: gap — ports, ramps, fuel and haul-out anywhere in
+  - `Access & range`: gap — sea-state and weather geography outside
+- **locations/catalina-island-front-side.md**
+  - `Getting there`: gap — distance and run time to this side from each
+  - `Structure & bathymetry`: gap — bottom composition, kelp extent and working
+  - `What's there`: gap — season shape scoped to this side | **3–4 lb** fish come off the anchored squid stops beside the yellowtail (`zUFbCIWZZMw`); multi-day rain washes Catalina's dirt hillsides into the inshore water and shuts the shallow bass bite ([February–March](../seasonal/february-march.md)) |
+  - `What's there`: gap — season shape scoped to this side | Two came off one anchored front-side squid stop, one measured **24 1/4 in** against a stated **22 in** minimum (`MUpvP-Yl2R0`). California / CDFW, as of 2016-11 — verify the current minimum size with CDFW |
+  - `What's there`: gap — scoped to this side of the island |
+  - `What's there`: gap — season | Incidental catch during a mixed-species anchor session at Catalina (`oadK6zIYyCo`) |
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — the zone's own start-and-move program — where
+  - `Spots`: gap — how Avalon Bank fishes.
+- **locations/coronado-canyon.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/coronado-islands.md**
   - `Getting there`: gap — exactly what a *boat* run to the Coronados
   - `Structure & bathymetry`: gap — depth bands and bottom composition per spot.
   - `What's there`: gap — on zone-specific bonito behaviour here |
   - infobox `depth_band`: unknown
+- **locations/cortez-north.md**
+  - `The fishery`: gap — any sonar signature for cabrilla. The
+  - `The fishery`: gap — bay and estuary fishing anywhere in this
+  - `Season shape`: gap — whether the BOLA season shape extends north
+  - `Zones`: gap
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Access & range`: gap — running your own boat into this region.
+  - `Access & range`: gap — sea-state and weather geography beyond the
+  - `Access & range`: gap — air access. Nothing in the corpus covers
+- **locations/cortez-south.md**
+  - `The fishery`: gap — any sonar signature for any species in this
+  - `The fishery`: gap — bay, harbour and estuary fishing anywhere in
+  - `Season shape`: gap — a
+  - `Season shape`: gap — whether the East Cape's year shape applies at
+  - `Zones`: gap
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Access & range`: gap — driving into this region. Nothing in the
+  - `Access & range`: gap — ports, ramps, fuel, haul-out and marina
+  - `Access & range`: gap — running your own boat into this region, and
+  - infobox `season_peak`: unknown
+- **locations/east-of-pukey-point.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/lighthouse.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/lower-9-mile-bank.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/mexican-waters.md**
   - `Papers you need`: gap — whether a boat run from San Diego into
   - `Papers you need`: gap — the Midriff-islands biosphere bracelet, and
   - `On the water`: gap — boarding and inspection practice, what the
   - `Bringing fish home`: gap — US customs declaration for fish caught in
+- **locations/north-county-artificial-reefs.md**
+  - `Getting there`: gap — the launch ramps and harbors these reefs
+  - `Getting there`: gap — closures, MPA boundaries or restricted-area
+  - `Structure & bathymetry`: gap — reef material, relief height, footprint or
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) and taken off chummed reefs (`f4qYtHACGyk`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`) |
+  - `What's there`: gap — season shape scoped to this zone | Named in the artificial-reef species mix (`bM2vUS1B-yQ`); big white seabass come off chummed reefs once a frenzy is going (`f4qYtHACGyk`) |
+  - `What's there`: gap — season shape scoped to this zone | Yellowtail have been taken off an artificial reef on the anchored chum method (`f4qYtHACGyk`) — the outside case, not the expectation |
+  - `What's there`: gap — season | Sargo to **5–6 lb** off chummed artificial reefs (`f4qYtHACGyk`), and named in the reef species mix (`bM2vUS1B-yQ`). ⚠ Flagged stub — no corpus source yet for a sargo species router |
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — the zone's own start-and-move program
+- **locations/north-of-north-island-rockfish-area.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
 - **locations/pukey-point.md**
   - `Getting there`: gap — approach, anchoring and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, kelp and how the
@@ -110,4 +255,57 @@ _Totals: 44 flagged gaps, 29 flagged stubs, 12 unknown infobox values._
   - `How it fishes`: gap — . The zone-level program — the troll-search
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
+- **locations/ribbon-kelp.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/rockpile.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/socal-bight.md**
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: flagged stub row
+  - `Zones`: gap — the **northern Channel Islands** (Santa
+  - `Zones`: gap — how the artificial-reef zones actually fish
+  - `Access & range`: gap — launch ramps and their hours, fees and
+  - `Access & range`: gap — run distances from each mainland port to
+  - `Access & range`: gap — fuel planning for the outer banks — burn
+- **locations/south-kelp-ridge.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/us-waters.md**
+  - `Papers you need`: gap — licence classes and cost — annual versus
+  - `Papers you need`: gap — whether shore, pier and kayak fishing carry
+  - `On the water`: gap — the issuing authority and as-of date behind
+  - `Bringing fish home`: gap — transport rules for fish caught in US waters
 <!-- review:gaps:end -->

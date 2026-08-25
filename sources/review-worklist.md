@@ -365,4 +365,90 @@ by their builders after the transform phase drains.
 | locations/cabo-san-lucas.md | geo | pending |  | zone: 0 spots, 4 notes |
 | locations/la-paz.md | geo | pending |  | zone: 0 spots, 5 notes |
 | locations/east-cape.md | geo | pending |  | zone: 0 spots, 11 notes |
+| locations/pendleton-ar-center.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/oceanside-ar-2l.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/johnson-rock.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/stony-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/parson-s-landing.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/arrow-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/indian-rock.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/eagle-reef-buoy.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/lions-head.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/ship-rock.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/isthmus-reef.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/bird-rock-reef.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/yellowtail-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/empire-landing.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/red-bluff.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/little-gibraltar-main-big-rock.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/long-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/hen-rock-kelp.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/toyon-bay.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/gallaghers.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/can-dump-kelp.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/east-end-quarry.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/jewfish-point.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/slide.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/west-end-humps-1.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/west-end-humps-2.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/west-end-humps-3.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-1-48-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-2-43-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-3-43-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-4-47-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-5-45-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-6-48-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-7-40-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-8-43-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/salta-verde-cod-pinnacle.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/3rd-v-cod-1-36-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/3rd-v-cod-2-31-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/east-end-rockfish-1-46-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/east-end-rockfish-2-48-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/east-end-rockfish-3-47-fa.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/avalon-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/pendleton-ar.md | gazetteer | done |  | mechanical: AR complex, 5 waypoints |
+| locations/oceanside-ar.md | gazetteer | done |  | mechanical: AR complex, 19 waypoints |
+| locations/carlsbad-ar.md | gazetteer | done |  | mechanical: AR complex, 12 waypoints |
+| locations/181-182-289.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/anacapa-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/bird-rock-two-harbors.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/catalina-island.md | gazetteer | pending |  | harvest: 5 mention(s) |
+| locations/catalina-west-end.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/cedros-gono-islands-kelp-bed.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/channel-islands.md | gazetteer | pending |  | harvest: 2 mention(s) |
+| locations/chester-s-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/clemente-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/cortez-bank.md | gazetteer | pending |  | harvest: 3 mention(s) |
+| locations/dana-point-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/del-mar-to-imperial-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/dono.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/el-bajo.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/geronimo-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/guadalupe-island.md | gazetteer | pending |  | harvest: 2 mention(s) |
+| locations/guadalupe-island-north-end.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/hotel-coral-high-spot.md | gazetteer | pending |  | harvest: 2 mention(s) |
+| locations/isla-espiritu-santo.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-bocana.md | gazetteer | pending |  | harvest: 3 mention(s) |
+| locations/macro-banks.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/newport.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/north-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/palos-verdes-outside-kelp-below-rocky-shark-fin-flat-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/point-conception.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/punta-eugenia.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ridge-uncle-sam-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/rose-island-dondo-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-augustine.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-benito-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-benito-islands.md | gazetteer | pending |  | harvest: 2 mention(s) |
+| locations/san-clemente-island.md | gazetteer | pending |  | harvest: 7 mention(s) |
+| locations/san-clemente-island-catalina-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-martin-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-miguel-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/santa-barbara-island-sutil.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/santa-cruz-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/santa-monica-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/the-calico-spot.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ventura.md | gazetteer | pending |  | harvest: 2 mention(s) |
+| locations/west-end-tuna-zone.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
