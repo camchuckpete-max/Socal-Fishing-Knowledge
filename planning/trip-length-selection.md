@@ -72,6 +72,7 @@ Stated as this boat's own capability, not a fleet-wide figure:
 <!-- backlinks:start -->
 ## Linked from
 
+- [474 / 711](../locations/474-711.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

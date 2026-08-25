@@ -179,6 +179,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [474 / 711](../locations/474-711.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Tuna](bluefin-tuna.md)

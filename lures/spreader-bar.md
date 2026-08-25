@@ -83,6 +83,7 @@ season on bars** — so the bar-specific tuning above is attributed-experimental
 <!-- backlinks:start -->
 ## Linked from
 
+- [474 / 711](../locations/474-711.md)
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)

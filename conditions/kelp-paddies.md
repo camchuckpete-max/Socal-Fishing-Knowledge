@@ -230,6 +230,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [172 / 125](../locations/172-125.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
+- [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)

@@ -62,10 +62,12 @@ the same structure.
 <!-- backlinks:start -->
 ## Linked from
 
+- [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — 474 / 711](../locations/evidence/474-711.md)
 - [Evidence — Cortez North](../locations/evidence/cortez-north.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

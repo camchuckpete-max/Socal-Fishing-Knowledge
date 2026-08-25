@@ -460,6 +460,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [179 / 220](../locations/179-220.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
+- [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)

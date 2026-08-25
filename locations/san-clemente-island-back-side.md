@@ -220,6 +220,7 @@ Trip reports and per-source provenance:
 - [172 / 125](172-125.md)
 - [29 Fathom Spot](29-fathom-spot.md)
 - [372 / 245 / 250](372-245-250.md)
+- [474 / 711](474-711.md)
 - [81 / 381](81-381.md)
 - [9 Fathom Spot](9-fathom-spot.md)
 - [China Point (San Clemente Is.)](china-point.md)

@@ -219,6 +219,7 @@ Trip reports and per-source provenance:
 
 - [172 / 125](172-125.md)
 - [3 V's](3-v-s.md)
+- [474 / 711](474-711.md)
 - [Ben Weston Point](ben-weston-point.md)
 - [Cape Cortes](cape-cortes.md)
 - [Cat Harbor (partial-take SMCA inside — see DFW)](cat-harbor.md)

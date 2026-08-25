@@ -249,6 +249,7 @@ circle-hook rig detail logged in
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
+- [474 / 711](../locations/474-711.md)
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)

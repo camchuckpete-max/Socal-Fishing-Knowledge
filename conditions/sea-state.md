@@ -181,6 +181,7 @@ parameter and not a substitute for the observed/forecast pull.
 
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
+- [474 / 711](../locations/474-711.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [April](../seasonal/april.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
