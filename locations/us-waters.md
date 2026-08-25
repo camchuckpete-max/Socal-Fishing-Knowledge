@@ -12,7 +12,7 @@ as_of: 2026-08
 
 **The paperwork rung.** Not a fishing page — this is what you must carry, buy
 or know to fish legally on the US side of the line, and what happens when you
-are checked. One region sits under it, [socal-bight](regions.md), so in
+are checked. One region sits under it, so in
 practice US waters here means California: CDFW owns anything with a fish in it,
 the USCG anything with a hull in it. How to fish belongs to the region and
 zones below.
@@ -107,6 +107,15 @@ Bag limits, size minimums and seasons are set per species by CDFW, not by this
 page: they are recorded on each species note with jurisdiction and an as-of
 date, and indexed in
 [regulatory claims](../sources/regulatory-claims.md).
+
+## Regions
+
+One region sits on this side of the line — the Southern California Bight, from
+the Santa Barbara Channel to the border.
+
+<!-- children:start -->
+- [Southern California Bight](socal-bight.md)
+<!-- children:end -->
 
 ## Evidence
 

@@ -46,14 +46,17 @@ current intel.
 
 ## Zones
 
-<!-- children:start -->
-(generated from each child's `parent:` field — never hand-edit
-between these markers; curated prose goes ABOVE them)
-<!-- children:end -->
+What the zones are like — the groupings that matter (islands, mainland coast,
+offshore banks), with a one-line character note each. A zone the corpus cannot
+yet support carries a `⚠ Flagged stub` line rather than silence — silence reads
+as "nothing there." Write that prose HERE, above the markers.
 
-The child zones, generated or hand-listed with a one-line character note each.
-A zone the corpus cannot yet support carries a `⚠ Flagged stub` line rather than
-silence — silence reads as "nothing there."
+<!-- children:start -->
+(the complete linked list, generated from each child's `parent:` field — never
+hand-edit between these markers, and never hand-list the zones yourself: the
+generator owns this block so no note ever has to be edited from outside its own
+unit)
+<!-- children:end -->
 
 ## Access & range
 

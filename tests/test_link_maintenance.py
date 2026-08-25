@@ -162,6 +162,49 @@ V2_SPECIES_BODY_OK = (
     "## Landing & handling\nx\n")
 
 
+# --- container rungs: the child list is generated, never hand-kept ----------
+# Both regressions below cost real fleet units. A zone page shipped without
+# the markers left its spot list hand-written, which no worker is allowed to
+# update (guard scope) — so it would have silently decayed. And the geo worker
+# PROMPT, which only quotes the marker while explaining it, had a spot list
+# appended to it because the check was "does the text contain the marker"
+# rather than "is this a container rung".
+
+V2_ZONE_FM = ("---\ntype: zone\ntags: [x]\nsources: [cameron]\n"
+              "confidence: high\nregions: [socal-bight]\nwaters: [island]\n"
+              "layout: v2\nparent: unknown\nstructure_type: island\n"
+              "depth_band: unknown\ndistance_nm: unknown\n---\n\n")
+
+V2_ZONE_BODY = (
+    "# Testzone\n\nLead.\n\n"
+    "## Getting there\nx\n\n## Structure & bathymetry\nx\n\n"
+    "## What's there\nx\n\n## How it fishes\nx\n\n"
+    "## Spots\n\nCurated character prose.\n\n"
+    "<!-- children:start -->\n<!-- children:end -->\n")
+
+
+def test_container_rung_with_markers_passes(tmp: Path) -> None:
+    p = write(tmp, "zoneok.md", V2_ZONE_FM + V2_ZONE_BODY)
+    check("a zone carrying the children markers passes",
+          lm.layout_problems(p), [])
+
+
+def test_container_rung_without_markers_is_reported(tmp: Path) -> None:
+    body = V2_ZONE_BODY.replace(
+        "<!-- children:start -->\n<!-- children:end -->\n", "- hand list\n")
+    p = write(tmp, "zonebad.md", V2_ZONE_FM + body)
+    probs = " ".join(lm.layout_problems(p))
+    check("a container rung with a hand-kept child list is reported",
+          "container rung" in probs, True)
+
+
+def test_child_list_generated_and_placeholder_when_empty(tmp: Path) -> None:
+    check("an empty rung says so rather than rendering nothing",
+          "no pages under this rung yet" in lm.CHILD_EMPTY, True)
+    check("the generated block is the list only — the heading is authored",
+          "##" in lm.CHILD_EMPTY, False)
+
+
 def test_layout_v2_valid_species_passes(tmp: Path) -> None:
     p = write(tmp, "v2ok.md", V2_SPECIES_FM + V2_SPECIES_BODY_OK)
     check("valid v2 species skeleton passes", lm.layout_problems(p), [])
@@ -246,14 +289,17 @@ def main() -> int:
                    test_layout_v2_missing_infobox_field,
                    test_layout_v1_note_is_untouched,
                    test_layout_evidence_pairing,
-                   test_region_badge):
+                   test_region_badge,
+                   test_container_rung_with_markers_passes,
+                   test_container_rung_without_markers_is_reported,
+                   test_child_list_generated_and_placeholder_when_empty):
             fn(tmp)
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("link-maintenance tests: 18 check groups OK")
+    print("link-maintenance tests: 21 check groups OK")
     return 0
 
 

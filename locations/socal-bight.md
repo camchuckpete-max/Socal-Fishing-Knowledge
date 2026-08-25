@@ -122,8 +122,8 @@ in 20–30 minutes, a complex is a half-day commitment — is
 
 Forty-one zones, derived from the coordinates in
 [the spot library](../sources/spot-lists.md) rather than from mention counts.
-Per-zone pages land with the zone phase of the geographic ladder, so the names
-below are not yet linked.
+The tables below are the character map; the complete linked index is at the
+foot of this section and fills itself in as the zone pages land.
 
 **Regulatory — United States. Jurisdiction: CDFW for marine protected areas
 and take restrictions; US Navy for security zones. Checked as of 2026-08.
@@ -205,6 +205,10 @@ coordinates before a zone page can be built.
 differently from one another. Thirty-eight North County and eighteen San Diego
 waypoints are charted with no fishing doctrine attached to any of them.
 
+<!-- children:start -->
+*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+<!-- children:end -->
+
 ## Access & range
 
 **Everything in the region is reached from a mainland port, and the bait comes
@@ -267,4 +271,5 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — Southern California Bight](evidence/socal-bight.md)
+- [US waters](us-waters.md)
 <!-- backlinks:end -->

@@ -89,12 +89,9 @@ Eleven charted spots, all within the circuit:
 - **Coronado Canyon**, **Lower 9 Mile Bank**, **North of North Island**, **East
   of Pukey Point** — the rockfish ground north of the chain.
 
-Per-spot pages with coordinates land with the gazetteer phase; positions are in
-[the spot library](../sources/spot-lists.md) meanwhile.
+Positions are in [the spot library](../sources/spot-lists.md).
 
 <!-- children:start -->
-## Spots
-
 - [5-Minute Kelp](5-minute-kelp.md)
 - [Coronado Canyon](coronado-canyon.md)
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)

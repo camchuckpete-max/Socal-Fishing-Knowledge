@@ -65,6 +65,18 @@ knowledge, and are recorded per-species with their jurisdiction and as-of date;
 see [regulatory claims](../sources/regulatory-claims.md). A Baja limit that
 differs from a CDFW limit is two jurisdictions, never a doctrine conflict.
 
+## Regions
+
+Four regions sit on this side of the line: the Pacific coast of Baja, split
+north and south at the BC/BCS state line, and the Sea of Cortez, split the same
+way ([regions](regions.md)). The paperwork on this page applies to all four;
+how they fish does not — a Cortez day and a Pacific-coast day share only the
+permit.
+
+<!-- children:start -->
+*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+<!-- children:end -->
+
 ## Evidence
 
 Trip reports and per-source provenance:

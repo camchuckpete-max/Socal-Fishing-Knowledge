@@ -54,6 +54,16 @@ fact.
 
 Declarations, transport and border rules for fish caught on this side.
 
+## Regions
+
+One line on what this side of the line covers. Write that prose HERE, above the
+markers.
+
+<!-- children:start -->
+(the complete linked list, generated from each child's `parent:` field — never
+hand-edit between these markers, and never hand-list the regions yourself)
+<!-- children:end -->
+
 ## Evidence
 
 One line linking `locations/evidence/<note>.md`.

@@ -125,7 +125,13 @@ H1_RE = re.compile(r"^#\s+(.*?)\s*$", re.MULTILINE)
 CHILDREN_START = "<!-- children:start -->"
 CHILDREN_END = "<!-- children:end -->"
 # What a rung calls the rung below it.
-CHILD_HEADING = {"region": "## Zones", "area": "## Zones", "zone": "## Spots"}
+# The rungs that CONTAIN other rungs. Each must carry the children markers so
+# its child list is generated rather than hand-kept (see (a3) below).
+CONTAINER_TYPES = ("jurisdiction", "region", "area", "zone")
+# What an unbuilt rung renders as. An empty block renders as nothing, which
+# reads as "there is nothing here" rather than "still being built".
+CHILD_EMPTY = ("*(no pages under this rung yet — they land with the "
+               "geographic phase of the editorial review)*")
 APPLY_START = "<!-- species-applications:start -->"
 APPLY_END = "<!-- species-applications:end -->"
 FM_PATH_FIELD_RE = re.compile(r"^(\w+):\s*(\S+\.md)\s*$", re.M)
@@ -326,6 +332,13 @@ def layout_problems(path: Path) -> list[str]:
                 problems.append(
                     f"parent note {parent_val} does not link this evidence file")
     else:
+        # A container rung must carry the children markers: without them the
+        # (a3) generator silently skips the page and its child list decays
+        # into a hand-kept list that no worker is allowed to update.
+        if ntype in CONTAINER_TYPES and CHILDREN_START not in text:
+            problems.append(
+                f"`type: {ntype}` is a container rung but carries no "
+                f"`{CHILDREN_START}` block — its child list must be generated")
         problems += note_schema.section_problems(
             ntype, strip_code(strip_front_matter(text)))
         ev = path.parent / "evidence" / path.name
@@ -510,17 +523,28 @@ def main() -> int:
         resolved = (note.parent / m.group(1)).resolve()
         if resolved.exists():
             children.setdefault(resolved, []).append(note)
-    for parent, kids in children.items():
+    # Every container rung is visited, not just the ones that already have
+    # children: a rung whose children have not been built yet must SAY so.
+    # An empty block renders as nothing, which reads as "there is nothing
+    # here" rather than "this part of the ladder is still being built."
+    for parent in note_files:
         text = parent.read_text(encoding="utf-8")
+        # Gate on the note's TYPE, not on the marker appearing in the text:
+        # prompts and templates quote the marker while documenting it, and
+        # replace_block appends a fresh block when it finds a start without a
+        # matching end — which is how the geo worker prompt grew a spot list.
+        ptype = FM_TYPE_RE.search(text)
+        if not ptype or ptype.group(1) not in CONTAINER_TYPES:
+            continue
         if CHILDREN_START not in text:
             continue
-        ptype = re.search(r"^type:\s*(\S+)", strip_front_matter_keep(text), re.M)
-        heading = CHILD_HEADING.get(ptype.group(1) if ptype else "", "## Children")
-        kids = sorted(set(kids), key=lambda p: title_of(p).lower())
-        lines = [heading, ""]
-        for k in kids:
-            rel = os.path.relpath(k, parent.parent)
-            lines.append(f"- [{title_of(k)}]({rel})")
+        kids = sorted(set(children.get(parent, [])),
+                      key=lambda p: title_of(p).lower())
+        if kids:
+            lines = [f"- [{title_of(k)}]({os.path.relpath(k, parent.parent)})"
+                     for k in kids]
+        else:
+            lines = [CHILD_EMPTY]
         new = replace_block(text, CHILDREN_START, CHILDREN_END,
                             "\n".join(lines), where=str(parent.relative_to(ROOT)))
         if new != text:

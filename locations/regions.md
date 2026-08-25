@@ -115,5 +115,4 @@ out-of-region.
 - [Mexican waters](mexican-waters.md)
 - [Source Registry](../sources/source-registry.md)
 - [Southern California Bight](socal-bight.md)
-- [US waters](us-waters.md)
 <!-- backlinks:end -->

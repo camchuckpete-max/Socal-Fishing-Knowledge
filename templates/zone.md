@@ -73,13 +73,14 @@ pages. Link both rather than absorbing them.
 
 ## Spots
 
-<!-- children:start -->
-(generated from each child's `parent:` field — never hand-edit
-between these markers; curated prose goes ABOVE them)
-<!-- children:end -->
+How the spots group and what each is for — the kelp edges, the high spots, the
+rockfish ground — in prose, HERE, above the markers. Named sub-spots that have
+not earned their own page are lines inside their spot page, not here.
 
-The child spot pages, with a one-line character note each. Named sub-spots that
-have not earned their own page are lines inside their spot page, not here.
+<!-- children:start -->
+(the complete linked list, generated from each child's `parent:` field — never
+hand-edit between these markers, and never hand-list the spots yourself)
+<!-- children:end -->
 
 ## Evidence
 

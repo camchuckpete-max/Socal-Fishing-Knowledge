@@ -79,6 +79,7 @@ REQUIRED_SECTIONS: dict[str, list[str]] = {
         "## Papers you need",
         "## On the water",
         "## Bringing fish home",
+        "## Regions",
     ],
     "region": [
         "## The fishery",
