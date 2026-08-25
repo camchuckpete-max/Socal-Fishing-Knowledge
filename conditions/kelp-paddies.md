@@ -243,6 +243,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](../locations/socal-bight.md)

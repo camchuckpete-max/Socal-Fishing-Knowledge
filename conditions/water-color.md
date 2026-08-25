@@ -153,6 +153,7 @@ water color.
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [October](../seasonal/october.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Trolling](../techniques/trolling.md)

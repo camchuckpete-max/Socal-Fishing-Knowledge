@@ -364,6 +364,7 @@ the *bottom*, not the fish.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

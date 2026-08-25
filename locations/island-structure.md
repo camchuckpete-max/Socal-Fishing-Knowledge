@@ -160,6 +160,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swimbaits](../techniques/swimbaits.md)

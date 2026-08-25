@@ -509,6 +509,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md)
 - [Point Loma](../locations/point-loma.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)

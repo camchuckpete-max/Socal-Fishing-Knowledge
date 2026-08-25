@@ -601,6 +601,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](../tackle/tackle-express-rockfish-leader-line.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)

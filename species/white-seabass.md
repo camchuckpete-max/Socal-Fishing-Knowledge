@@ -305,6 +305,7 @@ into the spot once the current read right.
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [October](../seasonal/october.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

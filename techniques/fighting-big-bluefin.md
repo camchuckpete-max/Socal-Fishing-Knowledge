@@ -621,6 +621,7 @@ rods come tight on big bluefin together.
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Kite Fishing](kite-fishing.md)
 - [Knife / Speed Jigging](knife-jigging.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Trolling](trolling.md)

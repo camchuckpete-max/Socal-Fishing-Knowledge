@@ -100,6 +100,7 @@ the fish won't be on the surface. See
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Sea State](../conditions/sea-state.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

@@ -413,6 +413,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)

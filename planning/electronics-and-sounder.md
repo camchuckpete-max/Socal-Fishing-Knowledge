@@ -491,6 +491,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
+- [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)

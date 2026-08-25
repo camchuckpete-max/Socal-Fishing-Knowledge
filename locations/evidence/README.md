@@ -21,6 +21,7 @@
 - [Evidence — Oceanside / North County](oceanside-north-county.md) — The observation layer behind Oceanside / North County.
 - [Evidence — Point Loma](point-loma.md) — The observation layer behind Point Loma.
 - [Evidence — Punta Banda / Santo Tomas](punta-banda-santo-tomas.md) — The observation layer behind Punta Banda / Santo Tomas.
+- [Evidence — San Clemente Island, Back Side](san-clemente-island-back-side.md) — The observation layer behind San Clemente Island — Back Side.
 - [Evidence — San Diego Artificial Reefs](san-diego-artificial-reefs.md) — The observation layer behind San Diego Artificial Reefs.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
 - [Evidence — US waters](us-waters.md) — The observation layer behind US waters.
@@ -49,9 +50,10 @@ graph LR
   n14["Evidence — Oceanside / North County"]
   n15["Evidence — Point Loma"]
   n16["Evidence — Punta Banda / Santo Tomas"]
-  n17["Evidence — San Diego Artificial Reefs"]
-  n18["Evidence — Southern California Bight"]
-  n19["Evidence — US waters"]
+  n17["Evidence — San Clemente Island, Back Side"]
+  n18["Evidence — San Diego Artificial Reefs"]
+  n19["Evidence — Southern California Bight"]
+  n20["Evidence — US waters"]
   n11 --> n0
 ```
 <!-- mermaid:end -->

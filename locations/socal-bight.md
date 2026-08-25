@@ -212,6 +212,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Oceanside / North County](oceanside-north-county.md)
 - [Point Loma](point-loma.md)
+- [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 <!-- children:end -->
 
