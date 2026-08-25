@@ -6,11 +6,18 @@
 > `sources/plan.md`, 2026-08-12). Scope and decisions were worked out with
 > Cameron in conversation on 2026-08-23.
 
-**Status (2026-08-24, current): FLEET PAUSED. GATE A RE-OPENED by amendment
-v2.2 and NOT yet re-given.** `STOP` sits at the branch root. Resumption
-requires a fresh message containing exactly `PLAN APPROVED` — conversational
-approval does not unlock it (CLAUDE.md), and "let's get back to letting the
-fleet run" was read as intent, not as the token.
+**Status (2026-08-24, current): GATE A UNLOCKED — RUNNING.** Cameron re-gave
+`PLAN APPROVED` for amendment v2.2 after reviewing both gate artifacts. `STOP`
+removed; the fleet is working the ladder.
+
+Running order is **geo first**: jurisdiction (2) → regions (5) → zones (76),
+then the note transforms, then relocations, the enrichable spots, fact-check
+and cluster consistency. ~351 actionable units, ~661 points, ~41 chunks. The
+~327 minimum spot pages are generated mechanically outside the fleet and
+self-sequence at each chunk checkpoint as their zone pages land.
+
+Kill switch unchanged: a `STOP` file at the branch root. Model lever:
+`MODEL_OVERRIDE` in `.github/workflows/review-chunk.yml`.
 
 Both gate artifacts are BUILT and waiting on Cameron's review:
 
