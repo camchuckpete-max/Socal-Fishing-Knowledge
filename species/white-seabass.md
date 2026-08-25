@@ -282,6 +282,7 @@ into the spot once the current read right.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [California Halibut](california-halibut.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)

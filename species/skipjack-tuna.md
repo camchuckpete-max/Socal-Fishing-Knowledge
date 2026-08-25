@@ -95,6 +95,7 @@ but hard-charging, they'll eat almost anything moving.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

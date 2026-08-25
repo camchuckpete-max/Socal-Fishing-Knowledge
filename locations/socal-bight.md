@@ -270,6 +270,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Southern California Bight](evidence/socal-bight.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

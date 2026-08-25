@@ -73,6 +73,7 @@ share it).
 ## Linked from
 
 - [April](../seasonal/april.md)
+- [Baja Pacific — North](baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [June–July](../seasonal/june-july.md)
 - [October](../seasonal/october.md)

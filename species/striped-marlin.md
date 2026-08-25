@@ -244,6 +244,7 @@ circle-hook rig detail logged in
 ## Linked from
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)

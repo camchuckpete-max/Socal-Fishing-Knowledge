@@ -238,6 +238,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

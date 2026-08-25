@@ -325,6 +325,7 @@ than iron.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](baja-pacific-north.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

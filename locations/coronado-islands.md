@@ -113,6 +113,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [5-Minute Kelp](5-minute-kelp.md)
+- [Baja Pacific — North](baja-pacific-north.md)
 - [Coronado Canyon](coronado-canyon.md)
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)
 - [Evidence — Coronado Islands](evidence/coronado-islands.md)

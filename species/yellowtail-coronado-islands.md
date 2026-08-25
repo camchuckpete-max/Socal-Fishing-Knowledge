@@ -136,6 +136,7 @@ are different animals:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Pukey Point](../locations/pukey-point.md)

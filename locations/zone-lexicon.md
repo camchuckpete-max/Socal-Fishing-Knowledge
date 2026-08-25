@@ -119,6 +119,7 @@ many *drops*.
 ## Linked from
 
 - [<Your> Spots](../profiles/_template/spots.md)
+- [Baja Pacific — North](baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)

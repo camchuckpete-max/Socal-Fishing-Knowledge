@@ -461,6 +461,7 @@ for the fine/soft-mesh or rubberized-net fix.
 ## Linked from
 
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)

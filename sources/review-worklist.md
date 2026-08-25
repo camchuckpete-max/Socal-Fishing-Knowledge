@@ -290,7 +290,7 @@ by their builders after the transform phase drains.
 | locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/us-waters.md | geo | transformed |  | jurisdiction page written from 8 corpus sources; verified, 4 style/scope fixes applied; 4 gaps flagged |
 | locations/socal-bight.md | geo | transformed | gaps:5 stubs:18 | region page, 41/41 census zones; verified with 5 fixes (cite rescope, compass fix, obs scoping, evidence pair) |
-| locations/baja-pacific-north.md | geo | pending |  | region |
+| locations/baja-pacific-north.md | geo | transformed |  | region page from 26 sources, 28/28 census zones; verified with 3 fixes (mis-cite re-sourced, unsupported descriptor, over-scoped caution) |
 | locations/baja-pacific-south.md | geo | pending |  | region |
 | locations/cortez-north.md | geo | pending |  | region |
 | locations/cortez-south.md | geo | pending |  | region |

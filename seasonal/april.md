@@ -64,6 +64,7 @@ squid on the meter before you write the spot off.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [Southern California Bight](../locations/socal-bight.md)

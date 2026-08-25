@@ -298,6 +298,7 @@ become primary).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

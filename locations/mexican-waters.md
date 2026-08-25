@@ -74,7 +74,7 @@ how they fish does not — a Cortez day and a Pacific-coast day share only the
 permit.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Baja Pacific — North](baja-pacific-north.md)
 <!-- children:end -->
 
 ## Evidence
@@ -86,6 +86,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
+- [Baja Pacific — North](baja-pacific-north.md)
 - [Coronado Islands](coronado-islands.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Pukey Point](pukey-point.md)
