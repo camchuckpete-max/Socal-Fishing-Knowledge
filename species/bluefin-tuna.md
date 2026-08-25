@@ -425,6 +425,7 @@ Trip reports and per-source provenance:
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna — trolling](bluefin-tuna-trolling.md)
 - [California Sheephead](sheephead.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)

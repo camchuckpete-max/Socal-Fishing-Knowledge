@@ -465,6 +465,7 @@ grade, or technique detail given for the dorado specifically.
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [California Halibut](california-halibut.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Cortez North](../locations/cortez-north.md)

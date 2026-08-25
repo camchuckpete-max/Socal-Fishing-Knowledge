@@ -206,6 +206,7 @@ differently from one another. Thirty-eight North County and eighteen San Diego
 waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
+- [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 <!-- children:end -->

@@ -304,6 +304,7 @@ become primary).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

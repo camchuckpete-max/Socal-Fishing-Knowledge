@@ -372,6 +372,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronado Islands](../locations/coronado-islands.md)

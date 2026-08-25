@@ -1082,6 +1082,7 @@ covered above, not a new tool.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedar Plug](../lures/cedar-plug.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Cortez South](../locations/cortez-south.md)

@@ -343,6 +343,7 @@ the *bottom*, not the fish.
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Sheephead](sheephead.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronado Islands](../locations/coronado-islands.md)

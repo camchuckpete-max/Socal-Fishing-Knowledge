@@ -92,6 +92,7 @@ route, and the insurance carriers by name.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
 - [Mexican waters](../locations/mexican-waters.md)

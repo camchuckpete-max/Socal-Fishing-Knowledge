@@ -8,6 +8,7 @@
 - [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md) — The observation layer behind Magdalena Bay.
 - [Evidence — Baja Pacific — North](baja-pacific-north.md) — The observation layer behind Baja Pacific — North.
 - [Evidence — Baja Pacific — South](baja-pacific-south.md) — The observation layer behind Baja Pacific — South.
+- [Evidence — Catalina Island, Backside](catalina-island-backside.md) — The observation layer behind Catalina Island — Backside.
 - [Evidence — Catalina Island, Front Side](catalina-island-front-side.md) — The observation layer behind Catalina Island — Front Side.
 - [Evidence — Cedros / San Benitos](cedros-island.md) — The observation layer behind Cedros / San Benitos.
 - [Evidence — Coronado Islands](coronado-islands.md) — The observation layer behind Coronado Islands.
@@ -30,16 +31,17 @@ graph LR
   n1["Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)"]
   n2["Evidence — Baja Pacific — North"]
   n3["Evidence — Baja Pacific — South"]
-  n4["Evidence — Catalina Island, Front Side"]
-  n5["Evidence — Cedros / San Benitos"]
-  n6["Evidence — Coronado Islands"]
-  n7["Evidence — Cortez North"]
-  n8["Evidence — Cortez South"]
-  n9["Evidence — Loreto & Puerto Escondido"]
-  n10["Evidence — Mexican waters"]
-  n11["Evidence — North County Artificial Reefs"]
-  n12["Evidence — Southern California Bight"]
-  n13["Evidence — US waters"]
-  n9 --> n0
+  n4["Evidence — Catalina Island, Backside"]
+  n5["Evidence — Catalina Island, Front Side"]
+  n6["Evidence — Cedros / San Benitos"]
+  n7["Evidence — Coronado Islands"]
+  n8["Evidence — Cortez North"]
+  n9["Evidence — Cortez South"]
+  n10["Evidence — Loreto & Puerto Escondido"]
+  n11["Evidence — Mexican waters"]
+  n12["Evidence — North County Artificial Reefs"]
+  n13["Evidence — Southern California Bight"]
+  n14["Evidence — US waters"]
+  n10 --> n0
 ```
 <!-- mermaid:end -->

@@ -638,6 +638,7 @@ baits and heads from the class terms above; see
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)

@@ -75,6 +75,7 @@ the fleet behavior correctly before you run to it. See
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Pacific Bonito](../species/bonito.md)
