@@ -482,6 +482,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
+- [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)

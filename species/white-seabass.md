@@ -300,6 +300,7 @@ into the spot once the current read right.
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [June–July](../seasonal/june-july.md)
+- [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Moon](../conditions/moon.md)

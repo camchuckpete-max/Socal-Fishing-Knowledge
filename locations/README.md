@@ -121,6 +121,7 @@
 - [Jewfish Point](jewfish-point.md) **[SoCal only]** — A charted spot at 33°19.225'N 118°18.169'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Johnson Rock (caution — boiler rocks)](johnson-rock.md) **[SoCal only]** — A charted spot at 33°28.653'N 118°35.363'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [La Bufadora](la-bufadora.md) **[Baja only]** — A charted spot at 31°43.440'N 116°43.380'W (cameron), in the Punta Banda / Santo Tomas zone.
+- [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md) **[Baja only]** — A zone is a run grouping.
 - [La Jolla Canyon Shelf rockfish area](la-jolla-canyon-shelf-rockfish-area.md) **[SoCal only]** — A charted spot at 32°52.500'N 117°19.000'W (cameron), in the La Jolla zone.
 - [La Jolla Canyon](la-jolla-canyon.md) **[SoCal only]** — A charted spot at 32°54.000'N 117°18.800'W (cameron), in the La Jolla zone.
 - [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md) **[SoCal only]** — A charted spot at 32°51.300'N 117°19.250'W (cameron), in the La Jolla zone.
@@ -239,5 +240,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 226 notes exceed the 30-node cap._
+_Map skipped: 227 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -200,6 +200,7 @@ them.
 
 <!-- children:start -->
 - [Cedros / San Benitos](cedros-island.md)
+- [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
@@ -261,6 +262,7 @@ Trip reports and per-source provenance:
 - [Cedros / San Benitos](cedros-island.md)
 - [Cortez North](cortez-north.md)
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)
+- [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Mexican waters](mexican-waters.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rosarito / Descanso](rosarito-descanso.md)

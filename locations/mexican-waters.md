@@ -97,6 +97,7 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [International Artificial Reef](international-artificial-reef.md)
+- [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Pukey Point](pukey-point.md)

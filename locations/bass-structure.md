@@ -70,6 +70,7 @@ current-over-structure mechanism ties it together in
 - [Dana Point](dana-point.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
+- [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Oceanside / North County](oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Point Loma](point-loma.md)
