@@ -166,18 +166,45 @@ def test_checkpoint_may_not_rewrite_an_existing_note() -> None:
     with_repo(body)
 
 
+# --- the commit wrapper's subject line -------------------------------------
+# The subject is `review: <unit> — <phase>` and the guard's scope rule parses
+# the unit out of it, so the shape matters. An orchestrator that passes the
+# whole subject as --message instead of a bare phase word produced
+# `review: <unit> — review: <unit> — geo` in the history Cameron reads at the
+# gate. Policing exact string discipline through a prompt across hundreds of
+# units is not reliable; normalising here is.
+
+def test_phase_word_strips_a_subject_passed_as_the_message() -> None:
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "commit_note", ROOT / "scripts" / "review" / "commit-note.py")
+    cn = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(cn)
+    check("a bare phase word is left alone", cn.phase_word("geo"), "geo")
+    check("a full subject collapses to its phase",
+          cn.phase_word("review: locations/a.md — geo"), "geo")
+    check("a doubled subject collapses too",
+          cn.phase_word("review: locations/a.md — review: locations/a.md — geo"),
+          "geo")
+    check("an escalation reason survives intact",
+          cn.phase_word("escalated (guard violation)"),
+          "escalated (guard violation)")
+    check("empty stays empty so --status is used", cn.phase_word(""), "")
+
+
 def main() -> int:
     for fn in (test_geo_unit_may_regenerate_its_parents_child_list,
                test_geo_unit_may_not_edit_its_parents_prose,
                test_checkpoint_may_create_mechanical_pages,
-               test_checkpoint_may_not_rewrite_an_existing_note):
+               test_checkpoint_may_not_rewrite_an_existing_note,
+               test_phase_word_strips_a_subject_passed_as_the_message):
         fn()
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("guard scope tests: 4 check groups OK")
+    print("guard scope tests: 5 check groups OK")
     return 0
 
 

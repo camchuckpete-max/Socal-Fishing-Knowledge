@@ -71,6 +71,30 @@ def run_check_note(note: str) -> tuple[bool, str]:
     return r.returncode == 0, (r.stdout + r.stderr).strip()
 
 
+PHASE_PREFIX_RE = re.compile(r"^\s*review:\s*\S+\.md\s*[—-]\s*")
+
+
+def phase_word(message: str) -> str:
+    """The phase word for the commit subject, however it was passed.
+
+    The subject is `review: <unit> — <phase>`, so `--message` is meant to be
+    a bare phase word ("geo", "transform"). An orchestrator that passes the
+    whole subject line instead produces
+    `review: <unit> — review: <unit> — geo`. The guard still parses that (its
+    subject regex stops at the first path), but it is noise in the history
+    Cameron reads at the gate, and it is not worth a prompt round-trip to
+    police exact string discipline across hundreds of units. Strip any
+    subject prefixes the caller included and keep the tail.
+    """
+    m = (message or "").strip()
+    while True:
+        stripped = PHASE_PREFIX_RE.sub("", m)
+        if stripped == m:
+            break
+        m = stripped
+    return m
+
+
 def commit(msg: str) -> str:
     sh("git", "add", "-A")
     sh("git", "commit", "-m", msg)
@@ -148,7 +172,7 @@ def main() -> int:
             print(f"FATAL: worklist row for {unit} not found — nothing "
                   f"committed", file=sys.stderr)
             return 5
-        subject = f"review: {unit} — {args.message or args.status}"
+        subject = f"review: {unit} — {phase_word(args.message) or args.status}"
         check_targets = [unit]
 
     if args.escalation:
