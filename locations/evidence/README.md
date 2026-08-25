@@ -5,6 +5,7 @@
 ## Index
 
 - [Evidence — 172 / 125](172-125.md) — Provenance for 172 / 125.
+- [Evidence — 43 / 91 / 300](43-91-300.md) — Provenance for 43 / 91 / 300.
 - [Evidence — 51 / 181 / 138](51-181-138.md) — Provenance for 51 / 181 / 138.
 - [Evidence — 81 / 381](81-381.md) — Provenance for 81 / 381.
 - [Evidence — Bahía de los Ángeles](bahia-de-los-angeles.md) — The observation layer behind Bahía de los Ángeles.
@@ -47,5 +48,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 37 notes exceed the 30-node cap._
+_Map skipped: 38 notes exceed the 30-node cap._
 <!-- mermaid:end -->

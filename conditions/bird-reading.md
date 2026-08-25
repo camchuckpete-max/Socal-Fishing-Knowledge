@@ -139,6 +139,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 <!-- backlinks:start -->
 ## Linked from
 
+- [43 / 91 / 300](../locations/43-91-300.md)
 - [August](../seasonal/august.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
@@ -148,6 +149,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

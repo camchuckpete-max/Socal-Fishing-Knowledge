@@ -37,6 +37,7 @@
 - [3rd V Cod 1 (36 fa)](3rd-v-cod-1-36-fa.md) **[SoCal only]** — A charted spot at 33°18.160'N 118°22.960'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [3rd V Cod 2 (31 fa)](3rd-v-cod-2-31-fa.md) **[SoCal only]** — A charted spot at 33°17.620'N 118°22.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [421](421.md) **[Baja only]** — A charted spot at 32°08.000'N 117°52.000'W (cameron), in the Upper Cross / 421 / 390 zone.
+- [43 / 91 / 300](43-91-300.md) **[SoCal only]** — A zone is a run grouping.
 - [47 Fa. Spot](47-fa-spot.md) **[Baja only]** — A charted spot at 31°37.000'N 116°46.500'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [475](475.md) **[Baja only]** — A charted spot at 31°36.000'N 117°05.000'W (cameron), in the 385 / 238 / 475 zone.
 - [48 Fa. Spot](48-fa-spot.md) **[Baja only]** — A charted spot at 31°35.600'N 116°49.000'W (cameron), in the Punta Banda / Santo Tomas zone.
@@ -324,5 +325,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 311 notes exceed the 30-node cap._
+_Map skipped: 312 notes exceed the 30-node cap._
 <!-- mermaid:end -->

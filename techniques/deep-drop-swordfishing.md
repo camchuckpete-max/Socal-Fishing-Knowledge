@@ -97,6 +97,7 @@ for the Bight.
 - [172 / 125](../locations/172-125.md)
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
+- [43 / 91 / 300](../locations/43-91-300.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

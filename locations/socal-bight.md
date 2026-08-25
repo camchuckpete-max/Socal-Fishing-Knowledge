@@ -207,6 +207,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
 - [172 / 125](172-125.md)
+- [43 / 91 / 300](43-91-300.md)
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
@@ -291,6 +292,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [43 / 91 / 300](43-91-300.md)
 - [51 / 181 / 138](51-181-138.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja Pacific — North](baja-pacific-north.md)

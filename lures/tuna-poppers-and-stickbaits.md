@@ -809,6 +809,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 <!-- backlinks:start -->
 ## Linked from
 
+- [43 / 91 / 300](../locations/43-91-300.md)
 - [<Your> Tackle — Casting & Jigging (owned)](../profiles/_template/tackle.md)
 - [Assist Hooks — Sizing, Cord, and Tying](../rigging/assist-hooks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
@@ -816,6 +817,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

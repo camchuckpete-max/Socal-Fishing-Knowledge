@@ -228,6 +228,7 @@ paddy-line detail beyond that can be read out of the clip.
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [43 / 91 / 300](../locations/43-91-300.md)
 - [81 / 381](../locations/81-381.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)
@@ -237,6 +238,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)

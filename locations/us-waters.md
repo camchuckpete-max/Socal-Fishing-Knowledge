@@ -127,6 +127,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [172 / 125](172-125.md)
+- [43 / 91 / 300](43-91-300.md)
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
