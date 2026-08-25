@@ -229,6 +229,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Slide / 152 / 277](slide-152-277.md)
+- [W. Butterfly / 157](w-butterfly-157.md)
 <!-- children:end -->
 
 ## Access & range
@@ -308,4 +309,5 @@ Trip reports and per-source provenance:
 - [The Corner / 140 / 182](corner-140-182.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [US waters](us-waters.md)
+- [W. Butterfly / 157](w-butterfly-157.md)
 <!-- backlinks:end -->

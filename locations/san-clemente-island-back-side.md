@@ -232,5 +232,6 @@ Trip reports and per-source provenance:
 - [Southern California Bight](socal-bight.md)
 - [The Caves](caves.md)
 - [The Dunes](dunes.md)
+- [W. Butterfly / 157](w-butterfly-157.md)
 - [West Cove (San Clemente Is.)](west-cove.md)
 <!-- backlinks:end -->

@@ -461,6 +461,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)

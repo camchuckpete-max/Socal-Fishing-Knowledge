@@ -105,4 +105,5 @@ for the Bight.
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 <!-- backlinks:end -->

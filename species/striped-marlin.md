@@ -266,5 +266,6 @@ circle-hook rig detail logged in
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

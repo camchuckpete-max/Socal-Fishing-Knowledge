@@ -302,6 +302,7 @@
 - [Upper Finger Bank rockfish 240ft](upper-finger-bank-rockfish-240ft.md) **[Baja only]** — A charted spot at 32°15.130'N 117°10.260'W (cameron), in the Finger Bank rockfish zone.
 - [Upper Finger Bank rockfish 300ft](upper-finger-bank-rockfish-300ft.md) **[Baja only]** — A charted spot at 32°15.110'N 117°10.950'W (cameron), in the Finger Bank rockfish zone.
 - [US waters](us-waters.md) — The paperwork rung.
+- [W. Butterfly / 157](w-butterfly-157.md) **[SoCal only]** — A zone is a run grouping.
 - [Webster Point](webster-point.md) **[SoCal only]** — A charted spot at 33°29.117'N 119°03.010'W (cameron), in the Santa Barbara Island zone.
 - [West Cove (San Clemente Is.)](west-cove.md) **[SoCal only]** — A charted spot at 33°00.500'N 118°35.670'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [West End Humps 1](west-end-humps-1.md) **[SoCal only]** — A charted spot at 33°28.000'N 118°37.160'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -325,5 +326,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 312 notes exceed the 30-node cap._
+_Map skipped: 313 notes exceed the 30-node cap._
 <!-- mermaid:end -->

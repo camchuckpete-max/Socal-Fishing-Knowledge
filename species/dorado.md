@@ -505,6 +505,7 @@ grade, or technique detail given for the dorado specifically.
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Water Temperature](../conditions/water-temperature.md)

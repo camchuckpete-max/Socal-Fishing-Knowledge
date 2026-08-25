@@ -192,6 +192,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Water Color](water-color.md)
 - [Water Regimes](water-regimes.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)

@@ -506,6 +506,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

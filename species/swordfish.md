@@ -123,4 +123,5 @@ Requirements before you stop:
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 <!-- backlinks:end -->

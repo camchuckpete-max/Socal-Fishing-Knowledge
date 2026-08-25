@@ -394,5 +394,6 @@ the *bottom*, not the fish.
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [US waters](../locations/us-waters.md)
+- [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

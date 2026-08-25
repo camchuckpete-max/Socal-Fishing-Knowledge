@@ -216,6 +216,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Cove (stay west of MPA at 117 16.400)](cove.md)
 - [The Half](half.md)
+- [W. Butterfly / 157](w-butterfly-157.md)
 - [Widow Rock](widow-rock.md)
 - [Windansea (stay north of MPA at 32 49.573)](windansea.md)
 <!-- backlinks:end -->
