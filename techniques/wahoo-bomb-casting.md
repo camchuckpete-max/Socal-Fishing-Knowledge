@@ -428,6 +428,7 @@ Rocks) — not a confirmed wahoo catch, and not merged into
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

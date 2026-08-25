@@ -254,5 +254,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](baja-pacific-south.md)
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)
+- [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

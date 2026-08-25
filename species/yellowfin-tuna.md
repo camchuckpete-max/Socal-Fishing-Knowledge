@@ -542,6 +542,7 @@ the bluefin nearby become more cooperative too.**
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)

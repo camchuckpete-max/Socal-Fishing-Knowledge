@@ -712,6 +712,7 @@ the reverse map in **Linked from** below.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

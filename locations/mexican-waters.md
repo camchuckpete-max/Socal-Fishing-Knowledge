@@ -75,6 +75,7 @@ permit.
 
 <!-- children:start -->
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Baja Pacific — South](baja-pacific-south.md)
 <!-- children:end -->
 
 ## Evidence
@@ -87,6 +88,7 @@ Trip reports and per-source provenance:
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Baja Pacific — South](baja-pacific-south.md)
 - [Coronado Islands](coronado-islands.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Pukey Point](pukey-point.md)

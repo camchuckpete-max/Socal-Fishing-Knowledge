@@ -369,6 +369,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)

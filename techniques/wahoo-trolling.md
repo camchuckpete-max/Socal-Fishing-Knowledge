@@ -150,6 +150,7 @@ single-video citation for the parameters below, medium confidence.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)

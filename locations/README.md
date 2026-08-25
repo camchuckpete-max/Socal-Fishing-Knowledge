@@ -8,6 +8,7 @@
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md) **[Baja only]** — A panga fishery on the Sea of Cortez side of northern Baja, ~8 hours' drive from San Diego, fished out of a hotel strip with day-boat operators.
 - [Lopez Mateos & Magdalena Bay](bahia-magdalena-lopez-mateos.md) **[Baja only]** — Baja California Sur, Pacific side — a mangrove-and-bay complex with four distinct fisheries inside one bay.
 - [Baja Pacific — North](baja-pacific-north.md) **[Baja only]** — The character rung.
+- [Baja Pacific — South](baja-pacific-south.md) **[Baja only]** — The character rung.
 - [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on — reading it and setting up on it.
 - [Bays and Harbors](bays-and-harbors.md) **[SoCal only]** — How a SoCal bay or harbor is laid out for fishing — the universal structure a new-to-SoCal angler should be able to name and read on any of them (San Diego Bay,
 - [Bight Geography](bight-geography.md) **[SoCal only]** — The big-picture map of the Southern California Bight for planning: which zones the NW wind wrecks and which ride it out, the path the warm water band tracks thr
@@ -47,87 +48,95 @@ graph LR
   n1["Bahía de los Ángeles (BOLA / Bay of LA)"]
   n2["Lopez Mateos & Magdalena Bay"]
   n3["Baja Pacific — North"]
-  n4["Bass Structure"]
-  n5["Bays and Harbors"]
-  n6["Bight Geography"]
-  n7["BightSST Eval Targets"]
-  n8["Break Walls, Jetties and Riprap"]
-  n9["Cedros Island"]
-  n10["Coronado Canyon"]
-  n11["Coronado Islands"]
-  n12["East of Pukey Point (yellowtail & rockfish)"]
-  n13["Island Structure"]
-  n14["Lighthouse"]
-  n15["Loreto & Puerto Escondido"]
-  n16["Lower 9 Mile Bank"]
-  n17["Mexican waters"]
-  n18["North of North Island rockfish area"]
-  n19["Pukey Point"]
-  n20["Regions & Waters — the gating vocabulary"]
-  n21["Ribbon Kelp"]
-  n22["Rockpile"]
-  n23["Sea of Cortez"]
-  n24["Southern California Bight"]
-  n25["South Kelp Ridge"]
-  n26["US waters"]
-  n27["Zone Lexicon"]
-  n0 --> n11
-  n1 --> n15
-  n1 --> n17
-  n1 --> n23
-  n10 --> n11
-  n11 --> n0
-  n11 --> n10
+  n4["Baja Pacific — South"]
+  n5["Bass Structure"]
+  n6["Bays and Harbors"]
+  n7["Bight Geography"]
+  n8["BightSST Eval Targets"]
+  n9["Break Walls, Jetties and Riprap"]
+  n10["Cedros Island"]
+  n11["Coronado Canyon"]
+  n12["Coronado Islands"]
+  n13["East of Pukey Point (yellowtail & rockfish)"]
+  n14["Island Structure"]
+  n15["Lighthouse"]
+  n16["Loreto & Puerto Escondido"]
+  n17["Lower 9 Mile Bank"]
+  n18["Mexican waters"]
+  n19["North of North Island rockfish area"]
+  n20["Pukey Point"]
+  n21["Regions & Waters — the gating vocabulary"]
+  n22["Ribbon Kelp"]
+  n23["Rockpile"]
+  n24["Sea of Cortez"]
+  n25["Southern California Bight"]
+  n26["South Kelp Ridge"]
+  n27["US waters"]
+  n28["Zone Lexicon"]
+  n0 --> n12
+  n1 --> n16
+  n1 --> n18
+  n1 --> n24
+  n10 --> n1
+  n10 --> n21
   n11 --> n12
-  n11 --> n14
-  n11 --> n16
-  n11 --> n17
-  n11 --> n18
-  n11 --> n19
-  n11 --> n20
-  n11 --> n21
-  n11 --> n22
-  n11 --> n25
+  n12 --> n0
   n12 --> n11
-  n14 --> n11
-  n15 --> n1
-  n16 --> n11
-  n17 --> n20
-  n17 --> n3
-  n18 --> n11
-  n19 --> n11
-  n19 --> n17
-  n21 --> n11
-  n22 --> n11
-  n23 --> n1
-  n23 --> n15
-  n24 --> n13
-  n24 --> n20
-  n24 --> n26
-  n24 --> n27
-  n24 --> n4
-  n24 --> n5
-  n24 --> n6
-  n24 --> n7
-  n24 --> n8
-  n25 --> n11
-  n26 --> n17
-  n26 --> n24
-  n27 --> n13
-  n27 --> n4
-  n27 --> n6
-  n27 --> n7
-  n3 --> n11
-  n3 --> n17
-  n3 --> n20
-  n3 --> n24
-  n3 --> n27
-  n3 --> n6
-  n3 --> n9
-  n5 --> n8
-  n6 --> n13
-  n8 --> n5
-  n9 --> n1
-  n9 --> n20
+  n12 --> n13
+  n12 --> n15
+  n12 --> n17
+  n12 --> n18
+  n12 --> n19
+  n12 --> n20
+  n12 --> n21
+  n12 --> n22
+  n12 --> n23
+  n12 --> n26
+  n13 --> n12
+  n15 --> n12
+  n16 --> n1
+  n17 --> n12
+  n18 --> n21
+  n18 --> n3
+  n18 --> n4
+  n19 --> n12
+  n20 --> n12
+  n20 --> n18
+  n22 --> n12
+  n23 --> n12
+  n24 --> n1
+  n24 --> n16
+  n25 --> n14
+  n25 --> n21
+  n25 --> n27
+  n25 --> n28
+  n25 --> n5
+  n25 --> n6
+  n25 --> n7
+  n25 --> n8
+  n25 --> n9
+  n26 --> n12
+  n27 --> n18
+  n27 --> n25
+  n28 --> n14
+  n28 --> n5
+  n28 --> n7
+  n28 --> n8
+  n3 --> n10
+  n3 --> n12
+  n3 --> n18
+  n3 --> n21
+  n3 --> n25
+  n3 --> n28
+  n3 --> n7
+  n4 --> n16
+  n4 --> n18
+  n4 --> n2
+  n4 --> n21
+  n4 --> n25
+  n4 --> n3
+  n6 --> n9
+  n7 --> n14
+  n9 --> n6
 ```
 <!-- mermaid:end -->

@@ -85,6 +85,7 @@ General method: [electronics & sounder](../planning/electronics-and-sounder.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)

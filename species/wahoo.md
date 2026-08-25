@@ -292,6 +292,7 @@ for locating wahoo specifically. General method:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

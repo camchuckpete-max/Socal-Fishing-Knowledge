@@ -462,6 +462,7 @@ grade, or technique detail given for the dorado specifically.
 
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [California Halibut](california-halibut.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)

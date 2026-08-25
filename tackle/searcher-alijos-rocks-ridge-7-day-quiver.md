@@ -197,6 +197,7 @@ carried into this note beyond this mention (curation bar).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](../rigging/crimping.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)

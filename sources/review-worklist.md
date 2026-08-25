@@ -291,7 +291,7 @@ by their builders after the transform phase drains.
 | locations/us-waters.md | geo | transformed |  | jurisdiction page written from 8 corpus sources; verified, 4 style/scope fixes applied; 4 gaps flagged |
 | locations/socal-bight.md | geo | transformed | gaps:5 stubs:18 | region page, 41/41 census zones; verified with 5 fixes (cite rescope, compass fix, obs scoping, evidence pair) |
 | locations/baja-pacific-north.md | geo | transformed |  | region page from 26 sources, 28/28 census zones; verified with 3 fixes (mis-cite re-sourced, unsupported descriptor, over-scoped caution) |
-| locations/baja-pacific-south.md | geo | pending |  | region |
+| locations/baja-pacific-south.md | geo | transformed |  | region page from 25 sources, 3/3 census zones (coordinate-less); verified with 4 fixes; La Bocana flagged as possible missing census zone |
 | locations/cortez-north.md | geo | pending |  | region |
 | locations/cortez-south.md | geo | pending |  | region |
 | locations/catalina-island-front-side.md | geo | pending |  | zone: 40 spots, 25 notes |

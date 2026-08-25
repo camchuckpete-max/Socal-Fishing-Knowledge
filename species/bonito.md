@@ -265,6 +265,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 ## Linked from
 
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
 - [Cedros Island](../locations/cedros-island.md)

@@ -147,6 +147,7 @@ captured here.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](baja-pacific-south.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo)](../species/snook.md)
 <!-- backlinks:end -->

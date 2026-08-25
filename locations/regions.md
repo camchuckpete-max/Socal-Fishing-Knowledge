@@ -109,6 +109,7 @@ out-of-region.
 ## Linked from
 
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Baja Pacific — South](baja-pacific-south.md)
 - [Cedros Island](cedros-island.md)
 - [Coronado Islands](coronado-islands.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

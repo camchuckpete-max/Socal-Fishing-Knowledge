@@ -94,5 +94,6 @@ while working birds, and cabrilla were taken in **5–10 ft** (`n4nMCLLW3tY`,
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
+- [Baja Pacific — South](baja-pacific-south.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

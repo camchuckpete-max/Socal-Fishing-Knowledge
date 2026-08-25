@@ -167,6 +167,7 @@ framework this SoCal-bight note otherwise focuses on.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Current Structure](current-structure.md)

@@ -166,6 +166,7 @@ doctrine above or add a SoCal-specific parameter.
 ## Linked from
 
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

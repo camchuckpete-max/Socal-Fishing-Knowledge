@@ -180,6 +180,7 @@ parameter and not a substitute for the observed/forecast pull.
 ## Linked from
 
 - [April](../seasonal/april.md)
+- [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
