@@ -73,6 +73,11 @@ pages. Link both rather than absorbing them.
 
 ## Spots
 
+<!-- children:start -->
+(generated from each child's `parent:` field — never hand-edit
+between these markers; curated prose goes ABOVE them)
+<!-- children:end -->
+
 The child spot pages, with a one-line character note each. Named sub-spots that
 have not earned their own page are lines inside their spot page, not here.
 

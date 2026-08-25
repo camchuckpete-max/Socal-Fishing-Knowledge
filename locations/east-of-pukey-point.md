@@ -40,5 +40,5 @@ A charted spot at **32°27.000'N 117°14.100'W** (cameron), in the [Coronado Isl
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Coronado Islands](coronado-islands.md)
 <!-- backlinks:end -->

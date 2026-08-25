@@ -122,6 +122,10 @@ FM_TYPE_RE = re.compile(r"^type:\s*(\S+)", re.M)
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 H1_RE = re.compile(r"^#\s+(.*?)\s*$", re.MULTILINE)
 
+CHILDREN_START = "<!-- children:start -->"
+CHILDREN_END = "<!-- children:end -->"
+# What a rung calls the rung below it.
+CHILD_HEADING = {"region": "## Zones", "area": "## Zones", "zone": "## Spots"}
 APPLY_START = "<!-- species-applications:start -->"
 APPLY_END = "<!-- species-applications:end -->"
 FM_PATH_FIELD_RE = re.compile(r"^(\w+):\s*(\S+\.md)\s*$", re.M)
@@ -483,6 +487,44 @@ def main() -> int:
                             where=str(tech.relative_to(ROOT)))
         if new != text:
             tech.write_text(new, encoding="utf-8")
+
+    # ---- (a3) regenerate the geographic child lists ----
+    # A region lists its zones and a zone lists its spots. DERIVED from each
+    # child's `parent:` field, for the same reason the backlinks block is:
+    # a worker that hand-edits its parent is writing outside its own unit,
+    # which the guard's scope rule correctly reverts. Generating it means no
+    # cross-note write ever needs to happen — and the list cannot go stale
+    # when a page is added or renamed.
+    children: dict[Path, list[Path]] = {}
+    for note in note_files:
+        text = note.read_text(encoding="utf-8")
+        fm = strip_front_matter_keep(text)
+        m = re.search(r"^parent:\s*(\S+\.md)\s*$", fm, re.M)
+        if not m:
+            continue
+        # Evidence files carry `parent` too (it is their required infobox
+        # field), but an evidence file is not a child RUNG — listing it under
+        # a zone's Spots would claim the zone contains a document.
+        if re.search(r"^type:\s*evidence\s*$", fm, re.M):
+            continue
+        resolved = (note.parent / m.group(1)).resolve()
+        if resolved.exists():
+            children.setdefault(resolved, []).append(note)
+    for parent, kids in children.items():
+        text = parent.read_text(encoding="utf-8")
+        if CHILDREN_START not in text:
+            continue
+        ptype = re.search(r"^type:\s*(\S+)", strip_front_matter_keep(text), re.M)
+        heading = CHILD_HEADING.get(ptype.group(1) if ptype else "", "## Children")
+        kids = sorted(set(kids), key=lambda p: title_of(p).lower())
+        lines = [heading, ""]
+        for k in kids:
+            rel = os.path.relpath(k, parent.parent)
+            lines.append(f"- [{title_of(k)}]({rel})")
+        new = replace_block(text, CHILDREN_START, CHILDREN_END,
+                            "\n".join(lines), where=str(parent.relative_to(ROOT)))
+        if new != text:
+            parent.write_text(new, encoding="utf-8")
 
     # ---- (b) regenerate backlinks on every note ----
     for note in note_files:

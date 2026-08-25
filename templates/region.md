@@ -46,6 +46,11 @@ current intel.
 
 ## Zones
 
+<!-- children:start -->
+(generated from each child's `parent:` field — never hand-edit
+between these markers; curated prose goes ABOVE them)
+<!-- children:end -->
+
 The child zones, generated or hand-listed with a one-line character note each.
 A zone the corpus cannot yet support carries a `⚠ Flagged stub` line rather than
 silence — silence reads as "nothing there."

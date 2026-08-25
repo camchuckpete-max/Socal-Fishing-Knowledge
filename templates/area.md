@@ -54,6 +54,11 @@ Links each zone page.
 
 ## Zones
 
+<!-- children:start -->
+(generated from each child's `parent:` field — never hand-edit
+between these markers; curated prose goes ABOVE them)
+<!-- children:end -->
+
 The child zones this area reaches, one line each.
 
 ## Evidence

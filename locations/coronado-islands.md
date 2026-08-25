@@ -92,6 +92,21 @@ Eleven charted spots, all within the circuit:
 Per-spot pages with coordinates land with the gazetteer phase; positions are in
 [the spot library](../sources/spot-lists.md) meanwhile.
 
+<!-- children:start -->
+## Spots
+
+- [5-Minute Kelp](5-minute-kelp.md)
+- [Coronado Canyon](coronado-canyon.md)
+- [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)
+- [Lighthouse](lighthouse.md)
+- [Lower 9 Mile Bank](lower-9-mile-bank.md)
+- [North of North Island rockfish area](north-of-north-island-rockfish-area.md)
+- [Pukey Point](pukey-point.md)
+- [Ribbon Kelp](ribbon-kelp.md)
+- [Rockpile](rockpile.md)
+- [South Kelp Ridge](south-kelp-ridge.md)
+<!-- children:end -->
+
 ## Evidence
 
 Trip reports and per-source provenance:
