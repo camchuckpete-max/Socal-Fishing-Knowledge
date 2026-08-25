@@ -51,8 +51,8 @@ either mark is fished out of.
 the same distance.** A private tournament boat left **Two Harbors** and was on
 the island in **about an hour and 15–20 minutes**, arriving in the dark to start
 at first light (`PKf7G3uL4io`,
-[Santa Barbara Island](santa-barbara-island.md)). Measured from Ship Rock, the
-nearest charted position to that harbour, Landing Cove is **27.0 nm**, Kidney
+[Santa Barbara Island](santa-barbara-island.md)). Measured from Ship Rock, a
+charted position just off that harbour, Landing Cove is **27.0 nm**, Kidney
 Bank is **27.0 nm** and the 175 is **24.8 nm** (cameron) — the outer mark of this
 zone is the *closer* of the three. The island run figure is therefore a
 reasonable first estimate for this water rather than a floor to add to.
@@ -168,12 +168,12 @@ noted): **Landing Cove** and **Webster Point** on
 squid / yellowtail zone** at **6.9 nm**, the **172** at **8.6 nm** from the 175,
 **Hidden Reef** at **11.9 nm** northwest, **Osborn Bank** at **12.9 nm** south —
 which the census attaches to the Santa Barbara Island zone rather than to a bank
-grouping — the **125** at **16.2 nm**, **The Boot (504)** at **14.1 nm** from the
-175, the **170** at **15.7 nm**, the **286** at **17.7 nm** from the 175, and the
-**West End Humps** on [Catalina](catalina-island-front-side.md) at **18.8 nm**
-from the 175. Every direction out of this zone has a page:
+grouping — **The Boot (504)** at **14.1 nm** from the 175, the **170** at
+**15.7 nm**, the **125** at **16.2 nm**, the **286** at **17.7 nm** from the 175,
+and the **West End Humps** on [Catalina](catalina-island-front-side.md) at
+**18.8 nm** from the 175. Every direction out of this zone has a page:
 [Santa Barbara Island](santa-barbara-island.md) south, [172 / 125](172-125.md)
-southeast, [Hidden Reef / 170](hidden-reef-170.md) west,
+southeast, [Hidden Reef / 170](hidden-reef-170.md) northwest,
 [The Boot (504) / 307](boot-504-307.md) northeast and
 [LA - 270 / 286](la-270-286.md) east.
 
