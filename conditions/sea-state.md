@@ -186,6 +186,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Current Diagnostics](current-diagnostics.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Island Structure](../locations/island-structure.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [November–December](../seasonal/november-december.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Southern California Bight](../locations/socal-bight.md)

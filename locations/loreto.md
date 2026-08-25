@@ -95,5 +95,6 @@ while working birds, and cabrilla were taken in **5–10 ft** (`n4nMCLLW3tY`,
 
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cortez South](cortez-south.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

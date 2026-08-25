@@ -505,7 +505,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Kite Fishing](kite-fishing.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
-- [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)

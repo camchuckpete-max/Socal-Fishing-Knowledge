@@ -95,6 +95,7 @@ Trip reports and per-source provenance:
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Pukey Point](pukey-point.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

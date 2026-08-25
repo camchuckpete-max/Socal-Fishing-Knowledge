@@ -357,6 +357,7 @@ instead.
 - [Drop Shot](../techniques/drop-shot.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Ned Rig](../techniques/ned-rig.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

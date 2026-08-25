@@ -1,153 +1,300 @@
 ---
-type: location
-tags: [lopez-mateos, magdalena-bay, baja-pacific-south, mangrove, boca, grouper, snook, banks, whale-watching]
-sources: [EcQK5elTPJE, gimFbgN5Jjk]
+type: zone
+tags: [magdalena-bay, mag-bay, lopez-mateos, baja-pacific-south, mangrove, boca, snook, striped-marlin]
+sources: [EcQK5elTPJE, gimFbgN5Jjk, 4t_Z75shK_E, isXJONlpUP4, OVwqUKim9Pc, -5kooyIyavs, FxgLol_IHa0, frX09YMQxKE, vyX5FGoDH0A, dlxA22FVNGc, 3tQ1_xiqwVU, UuyqTE21-kc]
 confidence: medium
 regions: [baja-pacific-south]
 waters: [bay-harbor, nearshore-coast, bank, open-ocean]
+layout: v2
+parent: baja-pacific-south.md
+structure_type: mangrove bay complex — mangrove interior and estuary channels, an entrance (the boca), a mid-range tuna ground, and offshore banks
+depth_band: 2 ft in the roots and 12-15 ft in the mangrove interior, 25-30 ft in the estuary channel, 40-50 ft at the boca, 200-300 ft on the mid-range tuna ground
+distance_nm: unknown — every distance in the corpus is given in minutes by boat or in statute miles from the dock
 ---
 
-# Lopez Mateos & Magdalena Bay
+# Magdalena Bay (Mag Bay / Lopez Mateos)
 
-**Baja California Sur, Pacific side — a mangrove-and-bay complex with four
-distinct fisheries inside one bay.** Single-source location note: Capt. Dave
-Hansen (Your Saltwater Guide, `dave-hansen` registered) and Larry Hansen
-(no relation — Pacific Sport Fishing Alliance / PSA), speaking together at
-the 2024 Bart Hall Show, `EcQK5elTPJE`, 2024-01-27 — a promotional seminar
-with a handful of real location/tackle data points buried in the banter.
-`medium` confidence throughout: single mention, and Larry Hansen's voice is
-unregistered (caps at medium regardless of Dave Hansen's registered status).
+**Four fisheries stacked in one bay, which is also the region's answer to a
+blown-out day.** The mangrove interior is a skinny-water
+[snook](../species/snook.md) program in 2–15 ft; the **boca** — the bay's
+mouth — is a 40–50 ft grouper-and-snook ground about five minutes by boat
+from the dock; **10–12 mi** out is a half-day tuna program over **200–300
+ft**; and past that sit the bay's own offshore banks (`EcQK5elTPJE`).
+October and November put [striped marlin](../species/striped-marlin.md) here
+in numbers, which is what most visitors come for (`gimFbgN5Jjk`,
+`4t_Z75shK_E`). Access is from the Cortez side — a flight into
+[Loreto](loreto.md) and a drive across the peninsula — not by boat down the
+Pacific coast (`EcQK5elTPJE`).
 
-Captions render the town's name inconsistently ("Lopez Matos," "Lopez
-Mattel," "Lopez tails," "L Tails"). Normalized here to **Lopez Mateos**
-based on multiple independent geographic anchors that all agree: a bay
-described as "a little bit north of San Carlos," an extensive mangrove
-system, a gray-whale nursery arriving mid-January, and access by flying
-into Loreto and driving through Ciudad Constitucion — this is Bahia
-Magdalena / Puerto Lopez Mateos, not a guess from travel time or species
-range.
+The region rung is [Baja Pacific — South](baja-pacific-south.md), which owns
+the long-range run distances and the region-wide season shape; paperwork for
+every Mexican trip is [Mexican waters](mexican-waters.md).
 
-## Where this is
+## Getting there
 
-- Lopez Mateos sits on **Magdalena Bay**, a little north of Puerto San
-  Carlos, Baja California Sur.
-- Access described on camera: fly into **Loreto**, then drive — the route
-  passes through the town of **Ciudad Constitucion** before a dirt-road
-  final stretch. (Trip logistics/pricing themselves are promotional and
-  not captured here — see Curation note below.)
-- The bay's mouth ("**the boca**") is the entrance the nearshore
-  grouper/snook fishery sits right outside of.
+- **Fly into [Loreto](loreto.md), then drive.** The route crosses the
+  peninsula through **Ciudad Constitución**, with a dirt-road final stretch
+  into Lopez Mateos, the town on the bay a little north of Puerto San Carlos
+  (`EcQK5elTPJE`).
+- **Once you are here the distances collapse.** The boca is about **5
+  minutes** by boat from the dock, and the mid-range tuna ground **10–12 mi**
+  out is fished as a half-day program with the boat back at the dock by
+  **10:00** (`EcQK5elTPJE`).
+- **Live shrimp is arranged the day before.** No dockside receiver stocks it
+  — the guide has it caught overnight; sardine is the other bait named for
+  the boca program (`EcQK5elTPJE`). Bait for the mangrove program is
+  cast-netted en route at known bait stops on the way in
+  (`-5kooyIyavs`); see [making bait](../bait/making-bait.md).
+- **Everything you fish the mangroves with gets consumed.** Snagging trees,
+  branches and roots is routine, so spare hooks and spare fluorocarbon spools
+  are carried and re-ties are constant (`dlxA22FVNGc`); one crew was down to
+  its last box of hooks partway through a session (`vyX5FGoDH0A`).
+- **The bay's offshore banks are shared with the San Diego long-range
+  fleet** — the *Independence*, *Success* and *Constitution* were named
+  fishing alongside on the same grounds (`EcQK5elTPJE`). The corridor those
+  boats run is a region-level fact: Magdalena Bay to Alijos Rocks is **160
+  mi, about 16 hours** (`3tQ1_xiqwVU`).
 
-## Four fisheries in one bay
+**Regulatory — Mexico. Jurisdiction: CONAPESCA for fishing, INM for entry.
+Checked as of 2026-08. Verify current requirements before you fish
+([Mexican waters](mexican-waters.md)).**
 
-### 1. Mangrove interior (bay-harbor)
+⚠ Flagged gap — no corpus source: any closure, protected area, depth
+restriction or MPA boundary inside this bay — including whether the
+gray-whale nursery here (whales arriving "about mid-January",
+`EcQK5elTPJE`) puts any restriction on fishing traffic in the bay or through
+the boca.
 
-An extensive mangrove system inside the bay, fished from small boats
-(pangas). Described as large enough that a boat could run the mangrove
-channels for a long stretch of time without repeating the same stretch of
-water (no exact acreage given). Forage base named on camera: sardines,
-mullet, clams, oysters, scallops. This is the zone that holds the skinny-
-water snook program — see [snook](../species/snook.md) and
+⚠ Flagged gap — no corpus source: running your own boat here. Every
+documented day is fished from a local panga or a lodge/charter boat, and
+nothing covers trailering in, ramps, fuel on the water, or the range a
+private boat would need.
+
+⚠ Flagged gap — no corpus source: what a day here costs — panga, lodge night
+or charter — and how trips are booked.
+
+## Lodging and guides
+
+**Mag Bay Lodge** is the base documented for the offshore-and-estuary
+program, with local panga guide **Enrique** running the estuary days
+(`isXJONlpUP4`, `OVwqUKim9Pc`). The offshore boat on that trip was a **37 ft
+power catamaran** with **twin 300s** and roughly a **15 ft beam**, run as
+6-passenger trips by **Toby**, who also owns a local marlin-lure company
+(`4t_Z75shK_E`). **Reuben**, a Lopez Mateos guide and boat owner, runs the
+mangrove trips in the flyline series — he sets the anchor and works the chum
+while the angler casts (`frX09YMQxKE`, `dlxA22FVNGc`).
+
+## Structure & bathymetry
+
+**Four depth bands stack inside one bay complex, and the bay itself is the
+weather shelter for all of them.**
+
+- **Mangrove interior — 2 to 15 ft.** General mangrove depth is **12–15 ft**;
+  the snook program itself works water down to about **2 ft**, tight to
+  oyster-covered roots (`EcQK5elTPJE`). The system is extensive enough that a
+  panga can run its channels a long stretch without repeating the same water
+  (`EcQK5elTPJE`). Casts are made into water sometimes under **12 in** deep
+  (`dlxA22FVNGc`). Forage named inside the bay: sardines, mullet, clams,
+  oysters and scallops (`EcQK5elTPJE`).
+- **Estuary channel — 25–30 ft.** The channel running past the mangroves was
+  called at roughly **25–30 ft**, with the boat worked to within **50–100 m**
+  of the mangrove edge (`isXJONlpUP4`).
+- **The boca — 40–50 ft.** The bay's entrance, about **5 minutes** from the
+  dock, is a nearshore structure ground carrying grouper to **100 lb** and
+  snook to at least **42 lb** (`EcQK5elTPJE`).
+- **Mid-range tuna ground — 200–300 ft, 10–12 mi out.** The band where the
+  sardines concentrate, holding tuna in the **20–50 lb** class
+  (`EcQK5elTPJE`).
+- **Offshore banks.** Named on camera only as **Bank 23** and **Bank 38**
+  (`EcQK5elTPJE`). A separate crew's two banks are **"the Ridge"** — the
+  longer run, taken when the wave state outside the boca looks manageable —
+  and **"Modesto Main"**, the closer fallback (`OVwqUKim9Pc`). Whether the
+  four names describe four grounds or overlap is not resolved anywhere in the
+  corpus.
+
+⚠ Fact-check (unverifiable): the Ridge's depth is rendered in the captions as
+"23 fetus" and read here as roughly **23 fathoms** (`OVwqUKim9Pc`) — the
+number is not confidently resolved and the KB carries no charted position for
+the bank.
+
+⚠ Flagged gap — no corpus source: charted positions for anything in this
+zone. [The spot library](../sources/spot-lists.md) stops at San Quintín, so a
+day plan cannot pull per-spot conditions here the way it can in the
+[Bight](socal-bight.md).
+
+⚠ Flagged gap — no corpus source: bathymetry proper — how far offshore Bank
+23, Bank 38, the Ridge and Modesto Main sit, what they rise from, and what
+the bottom does between the boca and the 200–300 ft tuna band.
+
+## What's there
+
+**The bay's year is claimed two ways, and the choice turns on what you are
+travelling for rather than on which claim is right** (`EcQK5elTPJE`). Dave
+Hansen: there is no time of year it does not bite at all — the inside
+(grouper) fishing is "phenomenal" through the winter, and more of the
+big-ocean species arrive through the summer. Larry Hansen, as a stated
+personal preference: **mid-September through the end of December** is the
+pick for the best combination of variety and volume. The first says the bay
+always has something open; the second ranks the windows. Marlin numbers are
+their own window, **October–November** (`gimFbgN5Jjk`). Gray whales arrive
+in the bay "about mid-January" (`EcQK5elTPJE`).
+
+| species | season | what this zone does for them |
+| --- | --- | --- |
+| [Striped marlin](../species/striped-marlin.md) | October–November; "loaded with stripe marlin… they're everywhere" come fall (`4t_Z75shK_E`) | The bay's headline. One presenter's own best day was **72 marlin**, on a boat he called capable of "over a hundred" that same day (`gimFbgN5Jjk`). Both mackerel and sardine bait balls are present, and marlin feeding on the smaller sardines take smaller trolled lures (`4t_Z75shK_E`) |
+| [Wahoo](../species/wahoo.md) | fall — a healthy population "come fall time" (`4t_Z75shK_E`) | The stated key is getting out early in the morning (`EcQK5elTPJE`). One offshore day run for wahoo turned into a "full speed" dorado bite instead (`OVwqUKim9Pc`) |
+| [Dorado](../species/dorado.md) | fall (`4t_Z75shK_E`) | The bank fishery's other warm-water pelagic; a wahoo-targeted run produced the dorado bite instead (`OVwqUKim9Pc`) |
+| Tuna, species unspecified (**20–50 lb**) | ⚠ Flagged gap — no corpus source: season | The half-day program **10–12 mi** out over **200–300 ft**, fished where the sardines concentrate (`EcQK5elTPJE`). Cedar plugs are the crew's standard go-to once they are into tuna (`4t_Z75shK_E`) |
+| [Snook](../species/snook.md) | bites year-round; no month-by-month pattern given (`EcQK5elTPJE`) | Two separate fisheries — skinny mangrove roots down to 2 ft, and the boca at 40–50 ft where the fish run to at least **42 lb** (`EcQK5elTPJE`) |
+| Grouper — broomtail and gulf grouper named (`gimFbgN5Jjk`) | inside fishing "phenomenal" through winter (`EcQK5elTPJE`) | The boca produces grouper to **100 lb**, species never named (`EcQK5elTPJE`); juvenile broomtails come off the mangrove roots on flylined bait (`-5kooyIyavs`, `dlxA22FVNGc`). ⚠ Flagged stub — no corpus source yet for a grouper router |
+| [Yellowtail](../species/yellowtail.md) | ⚠ Flagged gap — no corpus source: season inside this zone | Part of the untapped jig fishery over the banks (`gimFbgN5Jjk`); one was taken yo-yoing at **180 ft, 10 ft off the bottom** on the Ridge (`3tQ1_xiqwVU`) |
+| Pargo / snapper — Colorado snapper named (`gimFbgN5Jjk`) | ⚠ Flagged gap — no corpus source: season | Taken on the jig program over the banks (`gimFbgN5Jjk`) and in the mangroves on flylined bait (`-5kooyIyavs`); schools show on top in the estuary, described as looking "like peppers" (`isXJONlpUP4`) |
+| Palometa (pompano/jack family) | ⚠ Flagged gap — no corpus source: season | Fast, repeated action trolling small lures tight to the mangrove edge; called a colour-variant of pompano that grows bigger (`isXJONlpUP4`) |
+| [California halibut](../species/california-halibut.md), [spotted bay bass](../species/spotted-bay-bass.md), corvina, triggerfish, [jack crevalle](../species/pacific-crevalle-jack.md) | ⚠ Flagged gap — no corpus source: season | The mangrove mixed bag, all taken casting bait into the same coves as the snook (`-5kooyIyavs`, `vyX5FGoDH0A`, `dlxA22FVNGc`) |
+
+**A single day of jig fishing over these grounds produced 14–15 species**,
+including Colorado snapper, broomtail and gulf grouper and yellowtail, plus a
+triggerfish that ate a dropped live bait rather than a jig (`gimFbgN5Jjk`).
+
+Adjacent and named in the corpus, but not part of this zone's census: the
+**"lower banks"**, the ground running from Magdalena Bay down toward Cabo San
+Lucas, where giant [yellowfin](../species/yellowfin-tuna.md) run **150 to
+300-plus lb** (`UuyqTE21-kc`). It is carried as a flagged stub on
+[Baja Pacific — South](baja-pacific-south.md).
+
+## How it fishes
+
+**When it blows outside, you move inside instead of standing down.** The
+inside of the bay stays flat in a blow — wind chop only, no swell — so a day
+that is unfishable offshore is still fishable in the mangroves, and multiple
+consecutive fishable days through a run of bad outside weather come from
+moving between the four fisheries rather than staying put (`EcQK5elTPJE`).
+The pattern shows up on other crews' trips as well: a day offshore for marlin
+that "got a little beat up" was followed by an estuary day instead of a
+second offshore run (`isXJONlpUP4`), and a crew idled out past the estuary
+mouth to look at the wave state before picking that day's bank
+(`OVwqUKim9Pc`). See [sea state](../conditions/sea-state.md).
+
+**Tide direction, not time of day, decides the mangrove bite.** The best
+window is the **ebb from peak high toward low**, which flushes baitfish out
+of the roots and past the ambush points; near-peak high is a secondary
+window; the **flood from low toward high** is the poor one, because there is
+not yet enough water in the root zone for fish to stage and feed there
+(`dlxA22FVNGc`). Time arrival to tide direction rather than to being first on
+the water — direction is readable on the surface as leaves and debris
+drifting with the current (`dlxA22FVNGc`). Once the tide starts flooding the
+open-estuary bite slows but the fish move inside the mangroves, so the answer
+is to work tight along the edge rather than stop fishing (`isXJONlpUP4`). See
+[tide & slack](../conditions/tide-and-slack.md).
+
+### Inside — the mangroves
+
+Anchor rather than drift: a cove this small means a drifting boat is
+constantly off the strike zone and re-approaching, while an anchored boat
+presents bait to it continuously (`dlxA22FVNGc`). Read which way the tide is
+running before the anchor goes down and predict the swing, so the casting
+side of the boat lands laid along the target mangrove edge; the boat keeps
+swinging until the anchor is tight, so do not judge the lay early
+(`FxgLol_IHa0`).
+
+The presentation is a no-weight [flyline](../techniques/flyline.md) — a
+thin-wire hook straight to fluorocarbon, straight to braid, nothing else in
+line, because a sinker in water a foot deep hangs directly in the roots
+(`dlxA22FVNGc`). Placement, not soak time, gets bit: the target is a narrow
+zone right on the edge of the branches, and a bait landing short or wide gets
+wound straight back in and recast rather than left to soak (`-5kooyIyavs`).
+On a fast outgoing tide in the channel even a well-placed bait is in the zone
+for about a second before the current sweeps it out (`-5kooyIyavs`). The
+heavy-leader, locked-drag version of the same cast is
 [mangrove structure livebait](../techniques/mangrove-structure-livebait.md).
-General mangrove depth is **12–15 ft**; the snook program itself works
-water as shallow as **2 ft**, tight to the roots.
 
-### 2. Boca / nearshore structure — grouper & snook (nearshore-coast)
+Trolling small lures tight to the mangrove edge is the other inside program,
+and it converts: a school showing on top gets the trolling rods put down and
+light spinning tackle — a **3/4 oz** casting spoon was named — cast at it
+instead ([trolling](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin), `isXJONlpUP4`).
 
-Right at the boca, about **5 minutes by boat** from the dock, in **40–50
-ft** of water. Grouper (species not further identified in this source) to
-**100 lb**; snook to at least **42 lb** (the biggest fish of one full day
-on the water). Described as a "world class" fishery that few operators
-target. See [snook](../species/snook.md) and the tackle build in
-[sliding sinker — Baja Pacific grouper & snook leader](../techniques/sliding-sinker.md).
+**Leader is the argument inside the mangroves, and it turns on what you are
+fishing for.** For the boca's 100 lb grouper and 42 lb snook the build runs
+**80 lb** braid to a **100–130 lb** leader on a locked-down two-speed
+([sliding sinker](../techniques/sliding-sinker.md), `EcQK5elTPJE`). In the
+skinny gin-clear mangrove water the stealth build is a size 4 thin-wire hook
+on **25 lb** fluorocarbon, with anything under **35 lb** stated to have zero
+chance of coming out of the bushes once snagged (`dlxA22FVNGc`); a later trip
+in the same water fished **60 lb** braid to **35 lb** fluorocarbon
+(`-5kooyIyavs`). See [line & leader](../tackle/line-and-leader.md).
 
-### 3. Mid-range tuna (open-ocean)
+### Outside — banks and the mid-range troll
 
-**10–12 miles** offshore, over **200–300 ft** of water, where the bait
-(sardines) concentrates. Tuna in the **20–50 lb** class (species not
-specified in this source). Run as a half-day program — back at the dock by
-**10 am**.
+The offshore day starts with a look at the wave state outside the boca, and
+the bank is picked off what that look shows — the longer run to the Ridge if
+it is manageable, Modesto Main if it is not (`OVwqUKim9Pc`). Wind shuts the
+fleet down: roughly three days of wind had the whole fleet in port, with no
+boats out of the bay for a couple of days before one trip
+(`4t_Z75shK_E`).
 
-### 4. Offshore banks — "the 23 and the 38" (bank)
+**Bring jigging gear even when marlin is the headline.** Because the
+October–November visitors come for the marlin numbers, the bottom and jig
+fishery in the same water is "virtually untapped" — one day of it produced
+14–15 species (`gimFbgN5Jjk`). See
+[knife jigging](../techniques/knife-jigging.md) and
+[slow-pitch jigging](../techniques/slow-pitch-jigging.md); the deep
+straight-up-and-down version is [yo-yo iron](../techniques/yo-yo-iron.md),
+which is what took a yellowtail at 180 ft on the Ridge (`3tQ1_xiqwVU`).
+Wahoo execution off these banks is
+[wahoo trolling](../techniques/wahoo-trolling.md) and
+[wahoo bomb & Raider jig casting](../techniques/wahoo-bomb-casting.md).
 
-Named on camera only as **Bank 23** and **Bank 38**. Fished in company
-with San Diego long-range boats working the same grounds — the
-*Independence*, *Success*, and *Constitution* are named as boats seen
-fishing alongside on the same trip.
+**Zone guides — the trip-level story:**
 
-## Why four fisheries in one place matters
+- **Striped marlin** — ⚠ Flagged stub — no zone guide yet.
+- **Snook** — ⚠ Flagged stub — no zone guide yet.
 
-When it's blowing outside, the inside of the bay stays flat — wind chop
-only, no swell — so a blown-out day offshore is still fishable inside.
-Multiple consecutive fishable days are described as routine even through a
-run of bad outside weather, by moving between zones rather than staying
-put.
+⚠ Flagged gap — no corpus source: any sonar or meter signature for this zone.
+The mangrove program is cast to visible structure, the boca is fished blind
+as a known mark, and no source describes what the sounder shows on the banks
+or over the 200–300 ft tuna band. General method:
+[electronics & sounder](../planning/electronics-and-sounder.md).
 
-## Season
+## Spots
 
-**Kept side by side, not reconciled — two different claims about the same
-fishery:**
+**No ground in this zone has a charted position in the KB, so no spot pages
+hang below it.** What the corpus names:
 
-- **Dave Hansen:** there is no time of year it doesn't bite at all — the
-  inside (grouper) fishing is "phenomenal" through the winter, and more of
-  the big-ocean species (marlin, tuna, wahoo, dorado) show up through the
-  summer.
-- **Larry Hansen, stated personal preference:** for the best combination of
-  variety and volume, his own pick is **mid-September through the end of
-  December** — recorded as an attributed preference, not asserted as the
-  only productive window.
+- **The boca** — the bay's mouth, about 5 minutes from the dock in 40–50 ft,
+  and the ground the grouper/snook program is built on (`EcQK5elTPJE`).
+- **Bank 23** and **Bank 38** — the bay's own offshore banks, named on camera
+  by number only and fished in company with San Diego long-range boats
+  (`EcQK5elTPJE`).
+- **"The Ridge"** — the longer offshore run, taken when the wave state
+  outside the boca allows (`OVwqUKim9Pc`), and where a yellowtail came yo-yoing
+  at 180 ft (`3tQ1_xiqwVU`). Also carried as a region-level stub on
+  [Baja Pacific — South](baja-pacific-south.md), which names it as the
+  standing long-range alternative to Alijos Rocks — whether the two are the
+  same ground is unresolved in the corpus.
+- **"Modesto Main"** — the closer fallback bank, producing on the same trip
+  (`OVwqUKim9Pc`).
+- **The mangrove coves and channels** — fished as named trees, pockets and
+  dead-tree cove mouths rather than as positions; one presenter free-dove a
+  spot to find the exact slot before fishing it (`frX09YMQxKE`).
 
-Other season data points named on camera:
+None of these carries a public name plus a charted position, so they are
+logged in [the spot harvest](../sources/spot-harvest.md) for the gazetteer
+rather than written up as pages here.
 
-- **Gray whales:** as of the show date (2024-01-27), whales had arrived
-  within the prior weeks — stated arrival "about mid-January."
-- **Wahoo:** described as a strong, "phenomenal" fishery; the stated key is
-  getting out early in the morning.
+<!-- children:start -->
+*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+<!-- children:end -->
 
-## Species available (per this source)
+## Evidence
 
-Marlin, tuna (species unspecified), wahoo, dorado, snook, and grouper are
-all named as reachable on a single multi-day or half-day big-ocean trip.
-This source adds no location-specific decision logic for marlin or dorado
-beyond naming them present — see [dorado](../species/dorado.md) and
-[striped marlin](../species/striped-marlin.md) for the general SoCal/Baja
-doctrine on those species. No wahoo species note exists yet in this KB;
-the only wahoo-specific detail here (fish it early morning) is too thin on
-its own to clear the curation bar for a new note.
-
-## Bottom-fishing jig diversity — an "untapped" fishery (Benny Ortiz, 2025 PCS Show seminar)
-
-A second, independent attributed data point on this same bay complex — Benny
-Ortiz, 2025 PCS Show "Slow Pitch to Speed Jigging" seminar, `gimFbgN5Jjk`,
-uploaded 2025-03-14; unregistered channel/panel — medium confidence. His own
-history: roughly **30 years** fishing this fishery (as of the 2025 upload).
-Kept side by side with the Dave/Larry Hansen entries above rather than
-merged — different presenter, no overlapping trip.
-
-- **Marlin, October–November:** his own recorded best day was **72 marlin**,
-  with the boat capable of "over a hundred" that same day. Framed as the
-  main draw for most visitors to the bay in that window.
-- **Bottom/jig fishing — described as "virtually untapped":** because most
-  anglers who show up in October/November are there specifically for the
-  marlin numbers above, the jig/bottom fishery inside the same waters gets
-  comparatively little pressure. A single day of jig fishing there produced
-  **14–15 species** in his account, including Colorado snappers, "broom
-  tail" and gulf groupers, and yellows/yellowtail — plus, incidentally, a
-  trigger fish taken on a **dropped live bait** rather than a jig. Framed as
-  a reason to bring dedicated jigging gear on a Mag Bay trip even when
-  marlin is the headline target, not just a bonus activity.
-
-## Curation note — what was skipped
-
-Trip logistics, hotel/lodging details, pricing, and travel-agent-style
-"how to book" content from this seminar are promotional and generic
-(available from any operator) — skipped per the curation bar rather than
-captured here.
+Trip reports and per-source provenance:
+[evidence file](evidence/bahia-magdalena-lopez-mateos.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](evidence/bahia-magdalena-lopez-mateos.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo)](../species/snook.md)
 <!-- backlinks:end -->

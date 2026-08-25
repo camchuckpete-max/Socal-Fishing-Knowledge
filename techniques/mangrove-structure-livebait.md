@@ -65,6 +65,6 @@ and this sharp.
 ## Linked from
 
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
-- [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Snook (Robalo)](../species/snook.md)
 <!-- backlinks:end -->

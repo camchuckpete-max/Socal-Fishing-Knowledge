@@ -850,6 +850,7 @@ are logged in
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
 - [Knife Jigs](../lures/knife-jigs.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](../tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

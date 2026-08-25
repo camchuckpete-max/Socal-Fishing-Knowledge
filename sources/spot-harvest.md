@@ -112,4 +112,10 @@ harvested.
 | BOLA island high spot (~20 miles from the bay) | locations/bahia-de-los-angeles.md | Structure & bathymetry | island high spot holding 10–15 lb yellowtail; crew went "inside" to an island for cabrilla when it blew | `wX7jUycIJ-U` |
 | BOLA grounds ~20 miles north of the bay | locations/bahia-de-los-angeles.md | Structure & bathymetry | the run planned for a cabrilla-and-yellowtail day | `P36VGPPf120` |
 | Playa La Gringa (BOLA) | locations/bahia-de-los-angeles.md | Spots | beach in the bay, named as a swimming stop rather than a fishing spot | `8c07sN9wxGM` |
+| The boca (Magdalena Bay entrance) | locations/bahia-magdalena-lopez-mateos.md | Structure & bathymetry | the bay's mouth, ~5 minutes by boat from the dock in 40–50 ft; grouper to 100 lb and snook to at least 42 lb | `EcQK5elTPJE` |
+| Bank 23 (Magdalena Bay) | locations/bahia-magdalena-lopez-mateos.md | Spots | one of the bay's own offshore banks, named on camera by number only, fished alongside San Diego long-range boats | `EcQK5elTPJE` |
+| Bank 38 (Magdalena Bay) | locations/bahia-magdalena-lopez-mateos.md | Spots | the bay's second offshore bank, named on camera by number only | `EcQK5elTPJE` |
+| "Modesto Main" (Magdalena Bay) | locations/bahia-magdalena-lopez-mateos.md | Spots | the closer fallback bank, picked over the longer Ridge run when the wave state outside the boca looks rough | `OVwqUKim9Pc` |
+| "The Ridge" (offshore of Magdalena Bay) | locations/bahia-magdalena-lopez-mateos.md | Spots | the longer offshore run from the bay; a yellowtail came yo-yoing at 180 ft, 10 ft off the bottom; captioned depth (~23 fathoms) unresolved | `OVwqUKim9Pc`, `3tQ1_xiqwVU` |
+| The "lower banks" (Magdalena Bay toward Cabo San Lucas) | locations/bahia-magdalena-lopez-mateos.md | What's there | giant yellowfin at 150 to 300-plus lb on flying-fish baits floated downwind under a helium balloon | `UuyqTE21-kc` |
 <!-- review:harvest:end -->

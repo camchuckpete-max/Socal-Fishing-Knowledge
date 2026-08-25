@@ -156,7 +156,7 @@ by their builders after the transform phase drains.
 | bait/fishing-live-bait.md | standard | pending |  |  |
 | bait/making-bait.md | standard | pending |  |  |
 | locations/bahia-de-los-angeles.md | geo | transformed | gaps:12 stubs:3 fc:2 spots:5 | zone page under cortez-north from 9 corpus sources + cameron; retyped location->zone on the v2 skeleton, 0 charted spots so no child pages; K22a8Ui8tWg re-scoped out (San Felipe mothership, kept in evidence), roosterfish 'more reliable further south' escalation corrected to what P36VGPPf120 actually says, 20-miles-north cite corrected; 12 gaps, 3 stubs, 2 fact-check rows, 5 spot-harvest rows |
-| locations/bahia-magdalena-lopez-mateos.md | geo | pending |  | zone: 0 spots, 9 notes |
+| locations/bahia-magdalena-lopez-mateos.md | geo | transformed | gaps:11 stubs:3 fc:3 spots:6 | zone page under baja-pacific-south from 12 corpus sources; retyped location->zone on the v2 skeleton, 0 charted spots so no child pages; pulled in the Mag Bay material that had only lived in flyline/trolling/yo-yo/kite/marlin/wahoo notes (mangrove tide windows, estuary channel depth, Ridge-vs-Modesto-Main bank choice, untapped jig fishery), retired the promotional-seminar attribution preambles into the evidence file, kept the two season claims side by side with a decision frame; 11 gaps, 3 stubs, 3 fact-check rows, 6 spot-harvest rows |
 | locations/bass-structure.md | standard | pending |  |  |
 | locations/bays-and-harbors.md | standard | pending |  |  |
 | locations/bight-geography.md | standard | pending |  |  |

@@ -193,7 +193,7 @@ omitted, because silence would read as "nothing there":
   it.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 <!-- children:end -->
 
 ## Access & range
@@ -254,5 +254,6 @@ Trip reports and per-source provenance:
 
 - [Cortez South](cortez-south.md)
 - [Evidence — Baja Pacific — South](evidence/baja-pacific-south.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

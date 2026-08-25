@@ -117,6 +117,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Moon](moon.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

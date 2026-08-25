@@ -152,6 +152,7 @@ single-video citation for the parameters below, medium confidence.
 
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
+- [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
