@@ -263,6 +263,7 @@ Trip reports and per-source provenance:
 - [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md)
 - [Caverns Area](caverns-area.md)
 - [Evidence — Santa Barbara Island](evidence/santa-barbara-island.md)
+- [Hidden Reef / 170](hidden-reef-170.md)
 - [Landing Cove](landing-cove.md)
 - [Osborn Bank](osborn-bank.md)
 - [Southern California Bight](socal-bight.md)

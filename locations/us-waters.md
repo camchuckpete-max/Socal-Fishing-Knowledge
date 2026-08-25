@@ -134,6 +134,7 @@ Trip reports and per-source provenance:
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
 - [Evidence — US waters](evidence/us-waters.md)
+- [Hidden Reef / 170](hidden-reef-170.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)

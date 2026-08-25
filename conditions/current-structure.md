@@ -328,6 +328,7 @@ become primary).
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)

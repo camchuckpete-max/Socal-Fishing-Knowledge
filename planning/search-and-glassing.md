@@ -435,6 +435,7 @@ current "should" carry everything astern.
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)

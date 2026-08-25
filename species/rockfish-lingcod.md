@@ -371,6 +371,7 @@ the *bottom*, not the fish.
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)

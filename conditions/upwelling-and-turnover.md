@@ -164,6 +164,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Current Structure](current-structure.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)

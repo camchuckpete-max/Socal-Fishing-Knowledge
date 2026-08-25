@@ -499,6 +499,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](flyline.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Iron Jigs](../lures/iron-jigs.md)

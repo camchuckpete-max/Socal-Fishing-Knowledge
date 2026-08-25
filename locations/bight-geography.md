@@ -80,6 +80,7 @@ share it).
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Evidence — The Boot (504) / 307](evidence/boot-504-307.md)
+- [Hidden Reef / 170](hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
 - [October](../seasonal/october.md)
 - [Santa Barbara Island](santa-barbara-island.md)

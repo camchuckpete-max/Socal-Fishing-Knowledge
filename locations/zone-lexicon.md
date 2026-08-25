@@ -142,6 +142,7 @@ many *drops*.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — Dana Point](evidence/dana-point.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
+- [Hidden Reef / 170](hidden-reef-170.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Lower Cross](lower-cross.md)

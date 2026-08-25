@@ -68,6 +68,7 @@ the same structure.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — Cortez North](../locations/evidence/cortez-north.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](../locations/socal-bight.md)

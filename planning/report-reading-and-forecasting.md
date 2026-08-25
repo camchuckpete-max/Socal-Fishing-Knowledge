@@ -111,6 +111,7 @@ Fold the output of this note back into the
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

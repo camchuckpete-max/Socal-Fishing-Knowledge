@@ -490,6 +490,7 @@ grade, or technique detail given for the dorado specifically.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Kelp Paddies](../conditions/kelp-paddies.md)

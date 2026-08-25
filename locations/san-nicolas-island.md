@@ -237,6 +237,7 @@ Trip reports and per-source provenance:
 - [East End squid grounds (big area)](east-end-squid-grounds.md)
 - [Evidence — 172 / 125](evidence/172-125.md)
 - [Evidence — San Nicolas Island](evidence/san-nicolas-island.md)
+- [Hidden Reef / 170](hidden-reef-170.md)
 - [Potato Bank](potato-bank.md)
 - [Seabass Rock](seabass-rock.md)
 - [Southern California Bight](socal-bight.md)

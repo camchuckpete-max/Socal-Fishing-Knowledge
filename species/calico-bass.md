@@ -687,6 +687,7 @@ release *ethic* and the regional policies are below.
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Imperial Beach](../locations/imperial-beach.md)

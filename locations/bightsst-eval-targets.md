@@ -65,6 +65,7 @@ itself. This is captured as doctrine in
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
+- [Hidden Reef / 170](hidden-reef-170.md)
 - [La Jolla](la-jolla.md)
 - [Lower Cross](lower-cross.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)

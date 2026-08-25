@@ -121,6 +121,7 @@ Requirements before you stop:
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)

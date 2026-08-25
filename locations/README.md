@@ -178,6 +178,7 @@
 - [The Half](half.md) **[SoCal only]** — A charted spot at 32°51.220'N 117°17.620'W (cameron), in the La Jolla zone.
 - [Hen Rock Kelp](hen-rock-kelp.md) **[SoCal only]** — A charted spot at 33°23.981'N 118°21.975'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Hidden Bank](hidden-bank.md) **[Baja only]** — A charted spot at 31°54.000'N 117°30.000'W (cameron), in the Upper 500 / Hidden Bank zone.
+- [Hidden Reef / 170](hidden-reef-170.md) **[SoCal only]** — A zone is a run grouping.
 - [Hill Street](hill-street.md) **[SoCal only]** — A charted spot at 32°43.790'N 117°16.660'W (cameron), in the Point Loma zone.
 - [The Hospital 100 Fathom Curve (stay S of MPA at 33 30.050)](hospital-100-fathom-curve.md) **[SoCal only]** — A charted spot at 33°29.500'N 117°47.100'W (cameron), in the Dana Point zone.
 - [Hotel Del Hardbottom](hotel-del-hardbottom.md) **[SoCal only]** — A charted spot at 32°40.100'N 117°11.280'W (cameron), in the Point Loma zone.
@@ -357,5 +358,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 344 notes exceed the 30-node cap._
+_Map skipped: 345 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -242,6 +242,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
 - [May](../seasonal/may.md)

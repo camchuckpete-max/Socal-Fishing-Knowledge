@@ -105,6 +105,7 @@ for the Bight.
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Lower Cross](../locations/lower-cross.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)

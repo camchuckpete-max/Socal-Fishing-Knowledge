@@ -192,6 +192,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Island Structure](../locations/island-structure.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [November–December](../seasonal/november-december.md)

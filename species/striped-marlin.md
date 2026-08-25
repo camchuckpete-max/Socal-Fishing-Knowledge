@@ -263,6 +263,7 @@ circle-hook rig detail logged in
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — The Boot (504) / 307](../locations/evidence/boot-504-307.md)
 - [Flyline](../techniques/flyline.md)
+- [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)
