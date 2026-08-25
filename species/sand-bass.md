@@ -167,6 +167,7 @@ rocks.
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [February–March](../seasonal/february-march.md)
 - [Imperial Beach](../locations/imperial-beach.md)

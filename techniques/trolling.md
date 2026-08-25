@@ -1090,6 +1090,7 @@ covered above, not a new tool.
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Pacific Bonito](../species/evidence/bonito.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

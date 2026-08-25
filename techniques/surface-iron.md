@@ -487,6 +487,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — California Barracuda](../species/evidence/barracuda.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)

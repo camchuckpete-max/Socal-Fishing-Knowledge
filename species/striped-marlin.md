@@ -249,6 +249,7 @@ circle-hook rig detail logged in
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
+- [Ensenada](../locations/ensenada.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

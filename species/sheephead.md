@@ -125,6 +125,7 @@ glassing](../planning/search-and-glassing.md),
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

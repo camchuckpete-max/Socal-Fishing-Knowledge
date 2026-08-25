@@ -435,6 +435,7 @@ Trip reports and per-source provenance:
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Bluefin Trolling](evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)

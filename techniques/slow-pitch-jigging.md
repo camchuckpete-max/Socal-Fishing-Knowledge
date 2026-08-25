@@ -449,6 +449,7 @@ terms until it lands.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Ensenada](../locations/ensenada.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
 - [Knife / Speed Jigging](knife-jigging.md)

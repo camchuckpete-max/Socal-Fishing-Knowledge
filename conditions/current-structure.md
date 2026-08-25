@@ -311,6 +311,7 @@ become primary).
 - [Dana Point](../locations/dana-point.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Deep Scattering Layer](deep-scattering-layer.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)

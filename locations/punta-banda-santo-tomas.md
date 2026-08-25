@@ -158,6 +158,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Billy's Bluff](billy-s-bluff.md)
 - [El Retiro](el-retiro.md)
+- [Ensenada](ensenada.md)
 - [Evidence — Punta Banda / Santo Tomas](evidence/punta-banda-santo-tomas.md)
 - [Isolete](isolete.md)
 - [La Bufadora](la-bufadora.md)

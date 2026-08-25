@@ -96,6 +96,7 @@ Trip reports and per-source provenance:
 - [Coronado Islands](coronado-islands.md)
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
+- [Ensenada](ensenada.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
 - [Imperial Beach](imperial-beach.md)

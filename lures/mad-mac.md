@@ -97,6 +97,7 @@ and how he pairs them to his rods and holders are in
 - [Cedar Plug](cedar-plug.md)
 - [DTX Minnow](dtx-minnow.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

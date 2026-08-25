@@ -99,6 +99,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cortez South](../locations/cortez-south.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

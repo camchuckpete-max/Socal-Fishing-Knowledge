@@ -110,6 +110,7 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [California Sheephead](sheephead.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

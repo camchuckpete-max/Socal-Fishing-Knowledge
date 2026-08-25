@@ -475,6 +475,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

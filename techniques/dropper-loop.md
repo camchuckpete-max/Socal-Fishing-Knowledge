@@ -587,6 +587,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Dana Point](../locations/dana-point.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
+- [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

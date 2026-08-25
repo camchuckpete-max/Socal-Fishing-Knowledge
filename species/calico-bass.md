@@ -675,6 +675,7 @@ release *ethic* and the regional policies are below.
 - [Dana Point](../locations/dana-point.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)

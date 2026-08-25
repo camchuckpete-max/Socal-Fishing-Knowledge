@@ -89,6 +89,7 @@ season on bars** — so the bar-specific tuning above is attributed-experimental
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

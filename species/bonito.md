@@ -273,6 +273,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dana Point](../locations/dana-point.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

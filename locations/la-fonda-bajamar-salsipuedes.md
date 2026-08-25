@@ -171,4 +171,5 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Ensenada](ensenada.md)
 <!-- backlinks:end -->

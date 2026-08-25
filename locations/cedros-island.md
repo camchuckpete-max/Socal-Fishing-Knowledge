@@ -415,6 +415,7 @@ Trip reports and per-source provenance:
 
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

@@ -154,6 +154,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
 - [Current Structure](../conditions/current-structure.md)
+- [Ensenada](ensenada.md)
 - [Evidence — Catalina Island, Front Side](evidence/catalina-island-front-side.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)

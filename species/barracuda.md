@@ -244,6 +244,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Dana Point](../locations/dana-point.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
 - [Evidence — Cortez North](../locations/evidence/cortez-north.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)

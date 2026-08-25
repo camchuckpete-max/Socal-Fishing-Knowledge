@@ -341,6 +341,7 @@ fish around the boat once you're on them.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — International Artificial Reef](../locations/evidence/international-artificial-reef.md)
 - [Evidence — North County Artificial Reefs](../locations/evidence/north-county-artificial-reefs.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)

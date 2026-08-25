@@ -350,6 +350,7 @@ the *bottom*, not the fish.
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
+- [Ensenada](../locations/ensenada.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
