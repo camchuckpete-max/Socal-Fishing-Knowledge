@@ -132,4 +132,5 @@ Trip reports and per-source provenance:
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [Southern California Bight](socal-bight.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 <!-- backlinks:end -->

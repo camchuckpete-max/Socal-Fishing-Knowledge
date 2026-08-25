@@ -112,4 +112,5 @@ Requirements before you stop:
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 <!-- backlinks:end -->

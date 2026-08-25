@@ -112,6 +112,7 @@ Fold the output of this note back into the
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Water Color](../conditions/water-color.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 <!-- backlinks:end -->

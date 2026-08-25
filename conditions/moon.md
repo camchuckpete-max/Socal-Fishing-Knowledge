@@ -123,6 +123,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Water Regimes](water-regimes.md)
 - [White Seabass](../species/white-seabass.md)

@@ -158,6 +158,7 @@ water color.
 - [October](../seasonal/october.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)

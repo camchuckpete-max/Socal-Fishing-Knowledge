@@ -62,6 +62,7 @@ itself. This is captured as doctrine in
 - [La Jolla](la-jolla.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [Southern California Bight](socal-bight.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

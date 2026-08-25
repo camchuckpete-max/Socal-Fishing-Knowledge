@@ -41,4 +41,5 @@ A charted spot at **32°50.630'N 117°18.460'W** (cameron), in the [La Jolla](la
 ## Linked from
 
 - [La Jolla](la-jolla.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 <!-- backlinks:end -->

@@ -201,5 +201,6 @@ parameter and not a substitute for the observed/forecast pull.
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Water Regimes](water-regimes.md)
 <!-- backlinks:end -->

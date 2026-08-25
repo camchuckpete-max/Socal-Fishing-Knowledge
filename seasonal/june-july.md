@@ -72,6 +72,7 @@ factor that displacement into where yesterday's fish will be at gray light. See
 - [California Barracuda](../species/barracuda.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

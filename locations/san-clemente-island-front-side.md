@@ -234,4 +234,5 @@ Trip reports and per-source provenance:
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Reef](pyramid-reef.md)
 - [Southern California Bight](socal-bight.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 <!-- backlinks:end -->

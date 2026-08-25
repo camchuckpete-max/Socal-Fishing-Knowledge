@@ -145,5 +145,6 @@ many *drops*.
 - [Southern California Bight](socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

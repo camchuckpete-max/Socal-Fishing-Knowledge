@@ -81,6 +81,7 @@
 - [Colonet 41 Fathoms](colonet-41-fathoms.md) **[Baja only]** — A charted spot at 30°50.600'N 116°30.350'W (cameron), in the Colonet zone.
 - [Colonet High Spot 28 Fathoms](colonet-high-spot-28-fathoms.md) **[Baja only]** — A charted spot at 30°53.800'N 116°30.200'W (cameron), in the Colonet zone.
 - [Colonet](colonet.md) **[Baja only]** — A zone is a run grouping.
+- [The Corner / 140 / 182](corner-140-182.md) **[SoCal only]** — A zone is a run grouping.
 - [Coronado Canyon](coronado-canyon.md) **[Baja only]** — A charted spot at 32°30.300'N 117°17.500'W (cameron), in the Coronado Islands zone.
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
 - [Cortez North](cortez-north.md) **[Baja only]** — The character rung.
@@ -282,5 +283,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 269 notes exceed the 30-node cap._
+_Map skipped: 270 notes exceed the 30-node cap._
 <!-- mermaid:end -->

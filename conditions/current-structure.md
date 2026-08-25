@@ -344,6 +344,7 @@ become primary).
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [Water Color](water-color.md)

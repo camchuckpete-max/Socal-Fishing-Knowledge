@@ -502,6 +502,7 @@ Trip reports and per-source provenance:
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](../planning/trip-length-selection.md)
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tuna Care](../fish-care/tuna-care.md)

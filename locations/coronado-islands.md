@@ -128,4 +128,5 @@ Trip reports and per-source provenance:
 - [Rockpile](rockpile.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [South Kelp Ridge](south-kelp-ridge.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 <!-- backlinks:end -->

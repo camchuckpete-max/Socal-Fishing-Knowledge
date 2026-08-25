@@ -446,6 +446,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)

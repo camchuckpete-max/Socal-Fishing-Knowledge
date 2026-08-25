@@ -97,4 +97,5 @@ for the Bight.
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Corner / 140 / 182](../locations/corner-140-182.md)
 <!-- backlinks:end -->

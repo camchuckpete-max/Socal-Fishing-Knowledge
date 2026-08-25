@@ -171,6 +171,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 - [White Seabass](../species/white-seabass.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

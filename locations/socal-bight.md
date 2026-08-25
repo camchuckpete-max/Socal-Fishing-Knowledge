@@ -221,6 +221,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [Santa Barbara Island](santa-barbara-island.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 <!-- children:end -->
 
 ## Access & range
@@ -295,5 +296,6 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

@@ -210,6 +210,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [The 270 rockfish area](270-rockfish-area.md)
 - [The Airplane rockfish area](airplane-rockfish-area.md)
 - [The Bump](bump.md)
+- [The Corner / 140 / 182](corner-140-182.md)
 - [The Cove (stay west of MPA at 117 16.400)](cove.md)
 - [The Half](half.md)
 - [Widow Rock](widow-rock.md)
