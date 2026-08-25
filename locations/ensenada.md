@@ -281,4 +281,5 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 - [Punta San Miguel](punta-san-miguel.md)
 - [San Miguel Reef](san-miguel-reef.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
+- [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 <!-- backlinks:end -->

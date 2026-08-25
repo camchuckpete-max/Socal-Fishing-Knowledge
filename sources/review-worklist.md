@@ -330,7 +330,7 @@ by their builders after the transform phase drains.
 | locations/81-381.md | geo | transformed | gaps:9 stubs:3 fc:0 spots:3 | apply: new zone page + evidence pair under socal-bight; all derived geometry recomputed correct, census untouched, 3 transcript spot-checks clean, no changes needed |
 | locations/43-91-300.md | geo | transformed | gaps:12 stubs:2 spots:3 | apply-with-changes: new zone page under socal-bight; census, coordinates, all derived distances and 5 transcript cites verified; 3 fixes (two false superlatives, one unsupported count) |
 | locations/w-butterfly-157.md | geo | transformed | gaps:13 spots:3 | apply-with-changes: new position-and-ladder zone page (zero corpus coverage); ~35 derived distances recomputed and census verified; 4 fixes (3 distance corrections, 1 miscited source, 1 missing neighbour link) |
-| locations/upper-500-hidden-bank.md | geo | pending |  | zone: 3 spots, 0 notes |
+| locations/upper-500-hidden-bank.md | geo | transformed | gaps:14 stubs:2 spots:3 | apply-with-changes: new zone page under baja-pacific-north; corpus hook the census missed (302-to-hidden-bank corridor) captured; 20+ derived distances recomputed correct; 1 mis-targeted cite link fixed |
 | locations/baja-270-double-220-295.md | geo | pending |  | zone: 3 spots, 94 notes |
 | locations/483-500-437.md | geo | pending |  | zone: 3 spots, 2 notes |
 | locations/1140-finger-450.md | geo | pending |  | zone: 3 spots, 0 notes |

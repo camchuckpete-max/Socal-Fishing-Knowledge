@@ -452,6 +452,7 @@ current "should" carry everything astern.
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)
 - [White Seabass](../species/white-seabass.md)

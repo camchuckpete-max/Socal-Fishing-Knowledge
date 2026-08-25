@@ -392,6 +392,7 @@ the *bottom*, not the fish.
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
+- [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [US waters](../locations/us-waters.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

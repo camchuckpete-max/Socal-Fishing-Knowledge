@@ -41,6 +41,7 @@
 - [Evidence — Santa Barbara Island](santa-barbara-island.md) — The observation layer behind Santa Barbara Island.
 - [Evidence — The Slide / 152 / 277](slide-152-277.md) — Provenance for The Slide / 152 / 277.
 - [Evidence — Southern California Bight](socal-bight.md) — The observation layer behind Southern California Bight.
+- [Evidence — Upper 500 / Hidden Bank](upper-500-hidden-bank.md) — Provenance for Upper 500 / Hidden Bank.
 - [Evidence — US waters](us-waters.md) — The observation layer behind US waters.
 <!-- index:end -->
 
@@ -48,5 +49,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 38 notes exceed the 30-node cap._
+_Map skipped: 39 notes exceed the 30-node cap._
 <!-- mermaid:end -->

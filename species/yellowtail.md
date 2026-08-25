@@ -459,6 +459,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
+- [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

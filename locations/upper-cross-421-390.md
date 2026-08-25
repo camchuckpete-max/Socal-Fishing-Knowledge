@@ -210,6 +210,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
+- [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 - [Upper Cross](upper-cross.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
 <!-- backlinks:end -->

@@ -170,6 +170,7 @@ water color.
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Trolling](../techniques/trolling.md)
+- [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
