@@ -327,7 +327,7 @@ by their builders after the transform phase drains.
 | locations/172-125.md | geo | transformed | gaps:11 stubs:2 fc:0 spots:3 | apply-with-changes: new zone page under socal-bight; coords/23 derived distances/4 transcript cites verified; 4 numeric+meaning fixes applied, 1 attribution fix in evidence |
 | locations/slide-152-277.md | geo | transformed | gaps:8 stubs:1 fc:0 spots:3 | escalate(apply): new zone page under socal-bight; census + 20+ derived distances/bearings + 5 transcript cites verified; 7 fixes applied (2 geometry, 2 meaning-drift, 2 false gap flags, 1 bearing wording) |
 | locations/51-181-138.md | geo | transformed | gaps:11 stubs:2 spots:3 | apply-with-changes: new zone page under socal-bight; census membership, coordinates, all distances/bearings and 4 transcript cites verified; 5 fixes applied (distance range, front-matter figure, compass descriptor, quoted-term drift, ladder scope) |
-| locations/81-381.md | geo | pending |  | zone: 3 spots, 1 notes |
+| locations/81-381.md | geo | transformed | gaps:9 stubs:3 fc:0 spots:3 | apply: new zone page + evidence pair under socal-bight; all derived geometry recomputed correct, census untouched, 3 transcript spot-checks clean, no changes needed |
 | locations/43-91-300.md | geo | pending |  | zone: 3 spots, 14 notes |
 | locations/w-butterfly-157.md | geo | pending |  | zone: 3 spots, 0 notes |
 | locations/upper-500-hidden-bank.md | geo | pending |  | zone: 3 spots, 0 notes |

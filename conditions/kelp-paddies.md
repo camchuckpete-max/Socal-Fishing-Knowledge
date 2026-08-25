@@ -228,6 +228,7 @@ paddy-line detail beyond that can be read out of the clip.
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [81 / 381](../locations/81-381.md)
 - [August](../seasonal/august.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bird Reading](bird-reading.md)

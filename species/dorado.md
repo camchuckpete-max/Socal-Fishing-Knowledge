@@ -465,6 +465,7 @@ grade, or technique detail given for the dorado specifically.
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
+- [81 / 381](../locations/81-381.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)

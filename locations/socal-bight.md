@@ -208,6 +208,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 <!-- children:start -->
 - [172 / 125](172-125.md)
 - [51 / 181 / 138](51-181-138.md)
+- [81 / 381](81-381.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)

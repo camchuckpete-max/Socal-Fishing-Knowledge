@@ -147,6 +147,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 
 - [172 / 125](172-125.md)
 - [51 / 181 / 138](51-181-138.md)
+- [81 / 381](81-381.md)
 - [Bight Geography](bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

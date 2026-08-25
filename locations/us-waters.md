@@ -128,6 +128,7 @@ Trip reports and per-source provenance:
 
 - [172 / 125](172-125.md)
 - [51 / 181 / 138](51-181-138.md)
+- [81 / 381](81-381.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)

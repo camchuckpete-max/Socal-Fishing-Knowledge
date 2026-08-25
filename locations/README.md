@@ -47,6 +47,7 @@
 - [52](52.md) **[Baja only]** — A charted spot at 31°06.817'N 116°34.250'W (cameron), in the Colonet zone.
 - [6.5 Fathom Spot](6-5-fathom-spot.md) **[Baja only]** — A charted spot at 30°25.600'N 116°09.100'W (cameron), in the San Quintin zone.
 - [60 Mile Bank (53 Fa.)](60-mile-bank-53-fa.md) **[Baja only]** — A charted spot at 32°04.000'N 118°14.833'W (cameron), in the Upper Cross / 421 / 390 zone.
+- [81 / 381](81-381.md) **[SoCal only]** — A zone is a run grouping.
 - [9 Fathom Spot](9-fathom-spot.md) **[SoCal only]** — A charted spot at 33°02.650'N 118°37.580'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [97](97.md) **[Baja only]** — A charted spot at 31°57.600'N 116°51.817'W (cameron), in the La Fonda / Bajamar / Salsipuedes zone.
 - [Abalone Point (stay N/W of MPA at 33 33.233 x 117 49.200)](abalone-point.md) **[SoCal only]** — A charted spot at 33°33.160'N 117°49.310'W (cameron), in the South Orange County — Crystal Cove zone.
@@ -323,5 +324,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 310 notes exceed the 30-node cap._
+_Map skipped: 311 notes exceed the 30-node cap._
 <!-- mermaid:end -->

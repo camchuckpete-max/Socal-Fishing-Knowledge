@@ -110,6 +110,7 @@ Requirements before you stop:
 - [372 / 245 / 250](../locations/372-245-250.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
+- [81 / 381](../locations/81-381.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)

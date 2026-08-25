@@ -229,6 +229,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [81 / 381](81-381.md)
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
