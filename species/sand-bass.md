@@ -171,6 +171,7 @@ rocks.
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
+- [La Jolla](../locations/la-jolla.md)
 - [Moon](../conditions/moon.md)
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)

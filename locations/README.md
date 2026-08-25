@@ -42,6 +42,7 @@
 - [Isthmus Reef (caution — shoals; stay W of MPA at 118 29.300)](isthmus-reef.md) **[SoCal only]** — A charted spot at 33°26.869'N 118°29.448'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Jewfish Point](jewfish-point.md) **[SoCal only]** — A charted spot at 33°19.225'N 118°18.169'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Johnson Rock (caution — boiler rocks)](johnson-rock.md) **[SoCal only]** — A charted spot at 33°28.653'N 118°35.363'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [La Jolla](la-jolla.md) **[SoCal only]** — The San Diego coastal zone at the head of La Jolla Canyon: 14 charted spots in the spot library (cameron) — the thirteen of the library's own La Jolla section p
 - [Lighthouse](lighthouse.md) **[Baja only]** — A charted spot at 32°23.290'N 117°14.570'W (cameron), in the Coronado Islands zone.
 - [Lions Head (partial-take SMCA, no inverts; stay S from 33 27.170)](lions-head.md) **[SoCal only]** — A charted spot at 33°27.235'N 118°30.073'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Little Gibraltar Main Big Rock (stay W of MPA at 118 24.000)](little-gibraltar-main-big-rock.md) **[SoCal only]** — A charted spot at 33°25.391'N 118°24.603'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -94,5 +95,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 81 notes exceed the 30-node cap._
+_Map skipped: 82 notes exceed the 30-node cap._
 <!-- mermaid:end -->

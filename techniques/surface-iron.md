@@ -498,6 +498,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [May](../seasonal/may.md)

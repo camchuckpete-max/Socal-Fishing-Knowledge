@@ -260,6 +260,7 @@ against alternatives.
 - [California Barracuda](../species/barracuda.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Pacific Bonito](../species/bonito.md)

@@ -252,6 +252,7 @@ above; kept as a separate citation rather than merged in.
 
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [California Halibut](../species/california-halibut.md)
+- [La Jolla](../locations/la-jolla.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
 - [Swimbaits](swimbaits.md)

@@ -163,6 +163,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Current Structure](current-structure.md)
 - [June–July](../seasonal/june-july.md)
+- [La Jolla](../locations/la-jolla.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [Wahoo](../species/wahoo.md)
 - [Water Color](water-color.md)
