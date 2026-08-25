@@ -173,6 +173,7 @@
 - [Ribbon Rock](ribbon-rock.md) **[SoCal only]** — A charted spot at 33°26.408'N 118°34.482'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Roca Ben (caution — shoals/boilers)](roca-ben.md) **[Baja only]** — A charted spot at 30°26.300'N 116°07.000'W (cameron), in the San Quintin zone.
 - [Rockpile](rockpile.md) **[Baja only]** — A charted spot at 32°17.620'N 117°10.030'W (cameron), in the Coronado Islands zone.
+- [Rosarito / Descanso](rosarito-descanso.md) **[Baja only]** — A zone is a run grouping.
 - [Salt Creek](salt-creek.md) **[SoCal only]** — A charted spot at 33°28.565'N 117°44.040'W (cameron), in the Dana Point zone.
 - [Salta Verde Cod 1 (48 fa)](salta-verde-cod-1-48-fa.md) **[SoCal only]** — A charted spot at 33°17.760'N 118°24.070'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Salta Verde Cod 2 (43 fa)](salta-verde-cod-2-43-fa.md) **[SoCal only]** — A charted spot at 33°17.830'N 118°23.750'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -238,5 +239,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 225 notes exceed the 30-node cap._
+_Map skipped: 226 notes exceed the 30-node cap._
 <!-- mermaid:end -->

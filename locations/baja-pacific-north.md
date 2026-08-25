@@ -201,6 +201,7 @@ them.
 <!-- children:start -->
 - [Cedros / San Benitos](cedros-island.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
 <!-- children:end -->
 
@@ -262,5 +263,6 @@ Trip reports and per-source provenance:
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)
 - [Mexican waters](mexican-waters.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
 <!-- backlinks:end -->

@@ -490,6 +490,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Point Loma](../locations/point-loma.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
+- [Rosarito / Descanso](../locations/rosarito-descanso.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)

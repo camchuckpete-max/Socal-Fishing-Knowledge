@@ -124,5 +124,6 @@ Trip reports and per-source provenance:
 - [Pukey Point](pukey-point.md)
 - [Ribbon Kelp](ribbon-kelp.md)
 - [Rockpile](rockpile.md)
+- [Rosarito / Descanso](rosarito-descanso.md)
 - [South Kelp Ridge](south-kelp-ridge.md)
 <!-- backlinks:end -->

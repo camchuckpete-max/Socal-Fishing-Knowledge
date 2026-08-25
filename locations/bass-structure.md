@@ -74,6 +74,7 @@ current-over-structure mechanism ties it together in
 - [Pacific Bonito](../species/bonito.md)
 - [Point Loma](point-loma.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [Rosarito / Descanso](rosarito-descanso.md)
 - [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

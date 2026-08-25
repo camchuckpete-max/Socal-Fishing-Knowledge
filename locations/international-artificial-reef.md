@@ -212,5 +212,6 @@ Trip reports and per-source provenance:
 - [International Reef E](international-reef-e.md)
 - [International Reef F](international-reef-f.md)
 - [International Reef Missile Tower](international-reef-missile-tower.md)
+- [Rosarito / Descanso](rosarito-descanso.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->
