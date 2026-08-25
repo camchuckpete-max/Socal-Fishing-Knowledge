@@ -22,7 +22,9 @@ jobs:
           python-version: "3.11"
 
       - name: Unit tests
-        run: python tests/test_link_maintenance.py
+        run: |
+          python tests/test_link_maintenance.py
+          python tests/test_guard_scope.py
 
       - name: Link maintenance (must pass and be idempotent)
         run: |

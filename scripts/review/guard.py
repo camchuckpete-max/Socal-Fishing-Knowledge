@@ -285,8 +285,21 @@ def violations(sha: str) -> list[str]:
                     continue
                 probs.append(f"protected path touched: {s}")
         if scope_free:
-            if not (dest in EXEMPT_LOGS or os.path.basename(dest) == "README.md"):
-                probs.append(f"checkpoint commit touched non-log path: {dest}")
+            if dest in EXEMPT_LOGS or os.path.basename(dest) == "README.md":
+                continue
+            # The checkpoint step runs the phase builders, and
+            # build-spot-pages.py legitimately CREATES the mechanical minimum
+            # spot pages as each zone lands — coordinates + parent zone, no
+            # prose. Creating a page is allowed; rewriting one is not, so an
+            # existing file must still be byte-identical outside the
+            # generated blocks. Without this every checkpoint that generated
+            # a spot page would be reverted whole, silently undoing the
+            # mechanical gazetteer and rolling the worklist back with it.
+            if show(f"{sha}^", dest) is None:
+                continue
+            if dest.endswith(".md") and only_generated_blocks_changed(sha, dest):
+                continue
+            probs.append(f"checkpoint commit touched non-log path: {dest}")
             continue
         if dest in allowed or os.path.basename(dest) == "README.md":
             continue
