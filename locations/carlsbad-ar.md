@@ -55,4 +55,6 @@ Charted waypoints, as published in [the spot library](../sources/spot-lists.md):
 
 <!-- backlinks:start -->
 ## Linked from
+
+_Nothing links here yet._
 <!-- backlinks:end -->

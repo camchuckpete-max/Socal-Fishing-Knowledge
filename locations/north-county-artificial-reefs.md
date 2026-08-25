@@ -161,7 +161,11 @@ Charted positions for all thirty-eight waypoints are in
 detail beyond its position.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Carlsbad AR](carlsbad-ar.md)
+- [Oceanside AR](oceanside-ar.md)
+- [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md)
+- [Pendleton AR](pendleton-ar.md)
+- [Pendleton AR Center](pendleton-ar-center.md)
 <!-- children:end -->
 
 ## Evidence
@@ -173,6 +177,11 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Carlsbad AR](carlsbad-ar.md)
 - [Evidence — North County Artificial Reefs](evidence/north-county-artificial-reefs.md)
+- [Oceanside AR](oceanside-ar.md)
+- [Oceanside AR 2L (second entry, same label)](oceanside-ar-2l.md)
+- [Pendleton AR](pendleton-ar.md)
+- [Pendleton AR Center](pendleton-ar-center.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

@@ -151,6 +151,15 @@ jobs:
           python scripts/review/build-spot-pages.py || true
           python scripts/review/build-spot-worklist.py || true
           python scripts/review/build-cluster-worklist.py || true
+          # The hard habit, and not optional here: build-spot-pages.py CREATES
+          # notes, and nothing else in this step regenerates the blocks that
+          # depend on them. Without it a zone's generated `## Spots` list stays
+          # empty while its spot pages sit right there on disk — the ladder is
+          # built but reads as though nothing is under it. A failure must not
+          # take the chain down (the per-unit commits run it too, and CI
+          # re-checks), so it warns rather than exits.
+          python scripts/link-maintenance.py \
+            || echo "::warning::link-maintenance failed at the checkpoint — generated blocks may be stale; see the validate workflow."
           if ! git diff --quiet; then
             git add -A
             git commit -m "review: progress checkpoint"

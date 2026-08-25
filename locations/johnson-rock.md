@@ -39,4 +39,6 @@ A charted spot at **33°28.653'N 118°35.363'W** (cameron), in the [Catalina Isl
 
 <!-- backlinks:start -->
 ## Linked from
+
+_Nothing links here yet._
 <!-- backlinks:end -->
