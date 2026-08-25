@@ -339,6 +339,7 @@ does the lookup.
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Snook (Robalo)](../species/snook.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](tackle-express-minnow-rod.md)

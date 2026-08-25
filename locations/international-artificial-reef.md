@@ -214,5 +214,6 @@ Trip reports and per-source provenance:
 - [International Reef F](international-reef-f.md)
 - [International Reef Missile Tower](international-reef-missile-tower.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
+- [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

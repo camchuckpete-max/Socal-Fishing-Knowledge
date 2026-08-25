@@ -523,6 +523,7 @@ Trip reports and per-source provenance:
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)

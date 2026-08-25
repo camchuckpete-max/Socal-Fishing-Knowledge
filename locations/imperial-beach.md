@@ -226,5 +226,6 @@ Trip reports and per-source provenance:
 - [Imperial Beach Kelp](imperial-beach-kelp.md)
 - [Imperial Beach Kelp South End](imperial-beach-kelp-south-end.md)
 - [Imperial Beach Pipe](imperial-beach-pipe.md)
+- [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

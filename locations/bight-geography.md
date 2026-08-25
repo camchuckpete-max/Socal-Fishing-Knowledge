@@ -97,6 +97,7 @@ share it).
 - [October](../seasonal/october.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 - [September](../seasonal/september.md)
+- [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [The Boot (504) / 307](boot-504-307.md)

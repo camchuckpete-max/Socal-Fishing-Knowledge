@@ -165,6 +165,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [Point Loma](../locations/point-loma.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

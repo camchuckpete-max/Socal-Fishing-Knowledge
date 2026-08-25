@@ -313,7 +313,8 @@ Charted positions for both are in
 the generated list below is empty until the gazetteer runs.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [178](178.md)
+- [North 9 Mile Bank](north-9-mile-bank.md)
 <!-- children:end -->
 
 ## Evidence
@@ -325,6 +326,9 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [178](178.md)
 - [Evidence — North 9 Mile Bank / 178](evidence/north-9-mile-bank-178.md)
+- [North 9 Mile Bank](north-9-mile-bank.md)
+- [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

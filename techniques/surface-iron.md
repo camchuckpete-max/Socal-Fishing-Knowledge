@@ -523,6 +523,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Skip Jigging](skip-jigging.md)
 - [Sliding Sinker](sliding-sinker.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Surface Iron — Colour](surface-iron-color.md)
 - [Surface Iron — The Cast](surface-iron-casting.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

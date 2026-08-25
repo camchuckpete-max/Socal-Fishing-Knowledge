@@ -598,6 +598,7 @@ the bluefin nearby become more cooperative too.**
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](striped-marlin.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)

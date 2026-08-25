@@ -230,6 +230,7 @@ Trip reports and per-source provenance: [evidence file](evidence/point-loma.md).
 - [New Hope Rock](new-hope-rock.md)
 - [Point Loma Pipe](point-loma-pipe.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
+- [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 - [The Dropoff](dropoff.md)
 - [The Lab](lab.md)

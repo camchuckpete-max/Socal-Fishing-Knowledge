@@ -324,7 +324,8 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [175](175.md)
+- [Kidney Bank (63)](kidney-bank-63.md)
 <!-- children:end -->
 
 ## Evidence
@@ -338,5 +339,7 @@ The borrowed material on this page is provenanced in
 <!-- backlinks:start -->
 ## Linked from
 
+- [175](175.md)
+- [Kidney Bank (63)](kidney-bank-63.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

@@ -462,6 +462,7 @@ current "should" carry everything astern.
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)

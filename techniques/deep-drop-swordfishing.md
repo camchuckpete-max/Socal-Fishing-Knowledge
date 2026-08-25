@@ -116,6 +116,7 @@ for the Bight.
 - [Lower Cross](../locations/lower-cross.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

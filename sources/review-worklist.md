@@ -712,4 +712,19 @@ by their builders after the transform phase drains.
 | locations/tuna-hole-179.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/catchers-mitt.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/950.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/la-270.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/286.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/175.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/kidney-bank-63.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/279-267.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/474.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/711.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/209.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/312.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/289.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/284.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/178.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/north-9-mile-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/south-9-mile-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/439.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 <!-- review:worklist:end -->

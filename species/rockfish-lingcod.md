@@ -402,6 +402,7 @@ the *bottom*, not the fish.
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

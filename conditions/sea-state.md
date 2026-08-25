@@ -210,6 +210,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
+- [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
