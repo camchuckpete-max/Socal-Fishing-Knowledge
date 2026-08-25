@@ -344,7 +344,7 @@ by their builders after the transform phase drains.
 | locations/kidney-bank-63-175.md | geo | transformed | gaps:17 stubs:1 fc:2 spots:2 fixes:3 | geo zone page verified — coordinates, ~30 derived distances/bearings, the 25 nm fathom-name ranking and the census row all reproduce; 5 transcript spot-checks clean; 3 verifier fixes (false nearest-position superlative, mis-ordered neighbour list, compass label) |
 | locations/279-267-14-mile-bank.md | geo | transformed | gaps:13 spots:2 | new zone page verified against the coordinate census and 4 transcripts; 3 fixes applied (cite scope, superlative drift, relative time) |
 | locations/474-711.md | geo | transformed | gaps:14 stubs:1 spots:2 | geo verify: new zone page, all coordinates/distances/bearings/areas reproduce from the census + spot library; 1 dropped corpus specific restored and 1 endpoint-choice inference qualified |
-| locations/209-312.md | geo | pending |  | zone: 2 spots, 7 notes |
+| locations/209-312.md | geo | transformed | gaps:9 stubs:2 spots:2 | new zone page verified — coordinates, distances, bearings and 12 nm clustering reproduce from the census/spot library; 1 mis-cite re-sourced, 1 source added to front matter, 2 evidence dates stamped, 1 tally corrected |
 | locations/289-284.md | geo | pending |  | zone: 2 spots, 0 notes |
 | locations/north-9-mile-bank-178.md | geo | pending |  | zone: 2 spots, 2 notes |
 | locations/south-9-mile-bank-439.md | geo | pending |  | zone: 2 spots, 1 notes |

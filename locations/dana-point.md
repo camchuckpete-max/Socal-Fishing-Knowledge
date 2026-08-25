@@ -255,9 +255,11 @@ Trip reports and per-source provenance: [evidence file](evidence/dana-point.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [209 / 312](209-312.md)
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [Barber Poles](barber-poles.md)
 - [Dana Point Kelp — Red Buoy](dana-point-kelp-red-buoy.md)
+- [Evidence — 209 / 312](evidence/209-312.md)
 - [Evidence — Dana Point](evidence/dana-point.md)
 - [Monarch Boilers](monarch-boilers.md)
 - [Salt Creek](salt-creek.md)

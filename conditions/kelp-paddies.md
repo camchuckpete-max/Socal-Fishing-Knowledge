@@ -228,6 +228,7 @@ paddy-line detail beyond that can be read out of the clip.
 ## Linked from
 
 - [172 / 125](../locations/172-125.md)
+- [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
@@ -240,6 +241,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — 209 / 312](../locations/evidence/209-312.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
