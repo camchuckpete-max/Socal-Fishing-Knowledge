@@ -28,9 +28,29 @@ Observations never change the note's stated doctrine.
   Trips | The Gear Vault," 2025-09-26, a 32-minute counter interview with an
   angler named Logan): 35–40 lb combined baggage allowance on the ~12-person
   charter, his own bag weighed at 28 lb the night before, reels spooled with
-  covers on, rod straps, and the last-on/first-off load-order tip; the same
-  interview carries the trip's lure, colour and gear detail, logged on the
-  lure, hook and technique notes; unregistered channel.
+  covers on, rod straps, and the last-on/first-off load-order tip. The same
+  interview is the full-length source behind the 55-second `9kGpcEHqIUc` clip
+  — same 19–33 lb grade, same triple-trout/Owner ST-66 doctrine
+  ([hooks](../../tackle/hooks.md)), so not independent confirmation — and adds
+  gear detail the clip does not carry: Colt Sniper versatility, a day-to-day
+  preference shift and a mint swirl colour data point
+  ([iron jigs](../../lures/iron-jigs.md),
+  [surface iron — colour](../../techniques/surface-iron-color.md)); a Z-Man
+  Diesel MinnowZ on a 1–2 oz head for calico bass
+  ([soft-plastic swimbaits](../../lures/soft-plastic-swimbaits.md)); a Rapala
+  X-Rap Magnum 30 in Bonita as the hot trolling lure plus the panga's
+  group-hookup casting play once a troll rod goes off
+  ([Rapala Husky Magnum](../../lures/rapala-husky-magnum.md)); a mackerel
+  bait-and-switch program off the operator's own bait dock
+  ([slow-trolling live bait](../../techniques/slow-trolling-bait.md)); the
+  four-rod quiver brought for the trip
+  ([Cedros four-rod quiver](../../tackle/tackle-express-cedros-four-rod-quiver.md));
+  and a 1.5–2 oz leadhead tube, called on camera "the stupid tube," fished
+  free-spooled and bounced in a ripping current tight to the beach for calico
+  bass "every cast" on the trip's second full day, the current dragging it
+  5–10 ft between bounces
+  ([tube-bait fishing](../../techniques/tube-bait-fishing.md)); unregistered
+  channel.
 - `xIUKmH9ccgQ` (StokedOnFishing, 2012-08-10, Cedros Island; the earliest-dated
   Cedros Outdoor Adventures trip in the corpus): reached by small-plane charter
   out of Ensenada with Mexican fishing permits obtained in Tijuana — a
@@ -162,7 +182,8 @@ Observations never change the note's stated doctrine.
   Yellowtail" per the opening caption, which is auto-generated from audio and
   may be spoken narration rather than an on-screen title; a 79-second clip,
   captions badly garbled; same unregistered-channel treatment as `K4GTUO57rio`
-  above): flylined sardines produced multiple hookups — captions render "two or
+  above): [flylined](../../techniques/flyline.md) sardines produced multiple
+  hookups — captions render "two or
   three hooked up back there" — on what is called "an excellent day of
   Yellowtail fishing." No reason was given for fishing a flylined bait over
   another method. Captain Kevin is named on camera. A word ahead of "yellows"

@@ -162,7 +162,7 @@ by their builders after the transform phase drains.
 | locations/bight-geography.md | standard | pending |  |  |
 | locations/bightsst-eval-targets.md | standard | pending |  |  |
 | locations/breakwalls-jetties-riprap.md | standard | pending |  |  |
-| locations/cedros-island.md | geo | transformed | gaps:12 stubs:3 fc:1 | zone page (was type: location) from 44 sources, census zone 'Cedros / San Benitos'; no charted spots in the library; absorbed the queued Yellow Tail triangle geography; evidence file created with 44 observation lines |
+| locations/cedros-island.md | geo | transformed | gaps:12 stubs:3 fc:1 | zone page (was type: location) from 44 sources, census zone 'Cedros / San Benitos'; no charted spots in the library; absorbed the queued Yellow Tail triangle geography; evidence file carries 44 observation lines and the Tackle Express gear cross-links |
 | locations/island-structure.md | standard | pending |  |  |
 | locations/loreto.md | geo | pending |  | zone: 0 spots, 3 notes |
 | locations/regions.md | standard | pending |  |  |

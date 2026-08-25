@@ -640,6 +640,7 @@ baits and heads from the class terms above; see
 - [California Halibut](../species/california-halibut.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)

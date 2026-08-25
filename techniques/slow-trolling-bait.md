@@ -135,6 +135,7 @@ point, not folded into the mackerel-hook doctrine above.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](../tackle/tackle-express-shogun-maxcuatro-braid.md)

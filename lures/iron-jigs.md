@@ -592,6 +592,7 @@ Cameron's owned irons (attributed `cameron`; full list and colors in
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
+- [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
