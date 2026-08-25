@@ -481,6 +481,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)

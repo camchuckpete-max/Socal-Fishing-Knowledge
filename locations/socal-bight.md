@@ -206,7 +206,7 @@ differently from one another. Thirty-eight North County and eighteen San Diego
 waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Catalina Island — Front Side](catalina-island-front-side.md)
 <!-- children:end -->
 
 ## Access & range

@@ -294,7 +294,7 @@ by their builders after the transform phase drains.
 | locations/baja-pacific-south.md | geo | transformed |  | region page from 25 sources, 3/3 census zones (coordinate-less); verified with 4 fixes; La Bocana flagged as possible missing census zone |
 | locations/cortez-north.md | geo | transformed |  | one-zone region page from BOLA/San Felipe/Gonzaga corpus, no charted coords; verified with 6 fixes; 3 zone stubs flagged |
 | locations/cortez-south.md | geo | transformed |  | region page from 19 sources, 3/3 census zones, no coords; verified with 5 fixes incl. one fabricated fight detail corrected |
-| locations/catalina-island-front-side.md | geo | pending |  | zone: 40 spots, 25 notes |
+| locations/catalina-island-front-side.md | geo | transformed |  | zone page from 16 sources + spot library, 40/40 census spots; verified with 6 fixes (census count, Avalon Bank added, wind/report drift, mis-cite) |
 | locations/north-county-artificial-reefs.md | geo | pending |  | zone: 38 spots, 0 notes |
 | locations/catalina-island-backside.md | geo | pending |  | zone: 21 spots, 25 notes |
 | locations/san-diego-artificial-reefs.md | geo | pending |  | zone: 18 spots, 1 notes |

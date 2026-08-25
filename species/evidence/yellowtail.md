@@ -173,5 +173,6 @@ nothing was deleted, only moved.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Catalina Island — Front Side](../../locations/catalina-island-front-side.md)
 - [Yellowtail](../yellowtail.md)
 <!-- backlinks:end -->

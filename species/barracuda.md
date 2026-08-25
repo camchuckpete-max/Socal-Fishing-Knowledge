@@ -241,6 +241,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
 - [Evidence — Cortez North](../locations/evidence/cortez-north.md)

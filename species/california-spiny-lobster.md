@@ -157,6 +157,7 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Moon](../conditions/moon.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

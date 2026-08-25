@@ -490,6 +490,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [Barred Sand Bass](../species/sand-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Dropper Loop](dropper-loop.md)

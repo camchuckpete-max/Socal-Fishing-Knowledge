@@ -343,6 +343,7 @@ the *bottom*, not the fish.
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Sheephead](sheephead.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Coronado Islands](../locations/coronado-islands.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

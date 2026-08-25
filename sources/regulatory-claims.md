@@ -93,6 +93,7 @@ route, and the insurance carriers by name.
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
 - [Mexican waters](../locations/mexican-waters.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)

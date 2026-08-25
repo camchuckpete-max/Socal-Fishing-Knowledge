@@ -467,6 +467,7 @@ for the fine/soft-mesh or rubberized-net fix.
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Dorado (Mahi-Mahi)](dorado.md)

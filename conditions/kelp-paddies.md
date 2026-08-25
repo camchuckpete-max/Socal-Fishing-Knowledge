@@ -231,6 +231,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Bight Geography](../locations/bight-geography.md)
 - [Bird Reading](bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

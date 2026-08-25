@@ -365,6 +365,7 @@ see [making bait](making-bait.md).
 
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
+- [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Chunking](../techniques/chunking.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Making Bait](making-bait.md)

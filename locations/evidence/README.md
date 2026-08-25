@@ -6,6 +6,7 @@
 
 - [Evidence — Baja Pacific — North](baja-pacific-north.md) — The observation layer behind Baja Pacific — North.
 - [Evidence — Baja Pacific — South](baja-pacific-south.md) — The observation layer behind Baja Pacific — South.
+- [Evidence — Catalina Island, Front Side](catalina-island-front-side.md) — The observation layer behind Catalina Island — Front Side.
 - [Evidence — Coronado Islands](coronado-islands.md) — The observation layer behind Coronado Islands.
 - [Evidence — Cortez North](cortez-north.md) — The observation layer behind Cortez North.
 - [Evidence — Cortez South](cortez-south.md) — The observation layer behind Cortez South.

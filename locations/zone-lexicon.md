@@ -123,6 +123,7 @@ many *drops*.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
+- [Catalina Island — Front Side](catalina-island-front-side.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
