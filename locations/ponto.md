@@ -40,5 +40,5 @@ A charted spot at **33°05.235'N 117°19.183'W** (cameron), in the [Oceanside / 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Oceanside / North County](oceanside-north-county.md)
 <!-- backlinks:end -->

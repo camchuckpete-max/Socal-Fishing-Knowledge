@@ -203,6 +203,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md)
 - [Marine Street](marine-street.md)
 - [Northwest Corner](northwest-corner.md)
+- [Point Loma](point-loma.md)
 - [Southern California Bight](socal-bight.md)
 - [The 270 rockfish area](270-rockfish-area.md)
 - [The Airplane rockfish area](airplane-rockfish-area.md)

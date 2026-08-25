@@ -176,6 +176,7 @@ rocks.
 - [Night Bass Fishing](../techniques/night-bass-fishing.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
+- [Point Loma](../locations/point-loma.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)

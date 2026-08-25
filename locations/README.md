@@ -102,6 +102,7 @@
 - [Pedestal Rock](pedestal-rock.md) **[SoCal only]** — A charted spot at 33°24.069'N 118°29.344'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Pendleton AR Center](pendleton-ar-center.md) **[SoCal only]** — A charted spot at 33°19.500'N 117°31.700'W (cameron), in the North County artificial reefs zone.
 - [Pendleton AR](pendleton-ar.md) **[SoCal only]** — The Pendleton AR series — 5 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
+- [Point Loma](point-loma.md) **[SoCal only]** — The San Diego coastal zone on the ocean face of the Point Loma peninsula and around the corner into the bay entrance: 12 charted spots in the spot library (came
 - [Ponto](ponto.md) **[SoCal only]** — A charted spot at 33°05.235'N 117°19.183'W (cameron), in the Oceanside / North County zone.
 - [Powerhouse Kelp](powerhouse-kelp.md) **[SoCal only]** — A charted spot at 32°57.564'N 117°16.743'W (cameron), in the Oceanside / North County zone.
 - [Pukey Point](pukey-point.md) **[Baja only]** — The northern end of the Coronado Islands chain, at 32°26.850'N 117°18.000'W (cameron).
@@ -153,5 +154,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 140 notes exceed the 30-node cap._
+_Map skipped: 141 notes exceed the 30-node cap._
 <!-- mermaid:end -->

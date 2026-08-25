@@ -40,5 +40,5 @@ A charted spot at **32°46.200'N 117°16.067'W** (cameron), in the [San Diego ar
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 <!-- backlinks:end -->

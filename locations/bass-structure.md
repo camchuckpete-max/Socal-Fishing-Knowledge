@@ -71,6 +71,7 @@ current-over-structure mechanism ties it together in
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Oceanside / North County](oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Point Loma](point-loma.md)
 - [Southern California Bight](socal-bight.md)
 - [Zone Lexicon](zone-lexicon.md)
 <!-- backlinks:end -->

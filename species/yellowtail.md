@@ -407,6 +407,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](bonito.md)
+- [Point Loma](../locations/point-loma.md)
 - [Pukey Point](../locations/pukey-point.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)

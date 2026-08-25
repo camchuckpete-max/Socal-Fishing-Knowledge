@@ -211,6 +211,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 - [La Jolla](la-jolla.md)
 - [North County Artificial Reefs](north-county-artificial-reefs.md)
 - [Oceanside / North County](oceanside-north-county.md)
+- [Point Loma](point-loma.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
 <!-- children:end -->
 

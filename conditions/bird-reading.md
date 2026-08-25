@@ -154,6 +154,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [October](../seasonal/october.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Point Loma](../locations/point-loma.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

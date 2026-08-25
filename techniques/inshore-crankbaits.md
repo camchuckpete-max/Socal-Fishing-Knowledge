@@ -324,6 +324,7 @@ anglers skip.
 - [Lucky Craft Flash Minnow](../lures/lucky-craft-flash-minnow.md)
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
+- [Point Loma](../locations/point-loma.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

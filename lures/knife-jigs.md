@@ -704,6 +704,7 @@ rigging from class terms above until it lands; see
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

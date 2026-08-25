@@ -457,6 +457,7 @@ terms until it lands.
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Point Loma](../locations/point-loma.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
