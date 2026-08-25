@@ -717,5 +717,6 @@ rigging from class terms above until it lands; see
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tuna Poppers and Stickbaits](tuna-poppers-and-stickbaits.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](../tackle/tackle-express-night-bluefin-tg-jig-rig.md)
+- [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

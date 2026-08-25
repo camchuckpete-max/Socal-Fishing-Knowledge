@@ -160,4 +160,5 @@ apply) — this is **structure targeting by chart and depth**, done in the dark.
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Moon](../conditions/moon.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [US waters](../locations/us-waters.md)
 <!-- backlinks:end -->

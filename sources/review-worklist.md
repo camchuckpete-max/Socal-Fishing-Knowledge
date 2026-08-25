@@ -288,7 +288,7 @@ by their builders after the transform phase drains.
 | locations/desperation-reef.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/14-mile-bank.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
 | locations/43.md | gazetteer | pending |  | corpus material harvested — fleet writes this one |
-| locations/us-waters.md | geo | pending |  | jurisdiction |
+| locations/us-waters.md | geo | transformed |  | jurisdiction page written from 8 corpus sources; verified, 4 style/scope fixes applied; 4 gaps flagged |
 | locations/socal-bight.md | geo | pending |  | region |
 | locations/baja-pacific-north.md | geo | pending |  | region |
 | locations/baja-pacific-south.md | geo | pending |  | region |

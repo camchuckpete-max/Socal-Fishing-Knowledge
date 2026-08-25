@@ -168,4 +168,5 @@ directly observed, not a broadcast claim that can be faked.
 
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [Search and Glassing](search-and-glassing.md)
+- [US waters](../locations/us-waters.md)
 <!-- backlinks:end -->

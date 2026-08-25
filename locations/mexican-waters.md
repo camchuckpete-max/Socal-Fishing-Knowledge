@@ -77,4 +77,5 @@ Trip reports and per-source provenance:
 - [Coronado Islands](coronado-islands.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Pukey Point](pukey-point.md)
+- [US waters](us-waters.md)
 <!-- backlinks:end -->

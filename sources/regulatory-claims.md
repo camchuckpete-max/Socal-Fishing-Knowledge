@@ -96,5 +96,6 @@ route, and the insurance carriers by name.
 - [Mexican waters](../locations/mexican-waters.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
+- [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

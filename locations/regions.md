@@ -114,4 +114,5 @@ out-of-region.
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Mexican waters](mexican-waters.md)
 - [Source Registry](../sources/source-registry.md)
+- [US waters](us-waters.md)
 <!-- backlinks:end -->
