@@ -407,6 +407,7 @@ current "should" carry everything astern.
 
 - [172 / 125](../locations/172-125.md)
 - [179 / 220](../locations/179-220.md)
+- [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
@@ -432,6 +433,7 @@ current "should" carry everything astern.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Electronics and Sounder](electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

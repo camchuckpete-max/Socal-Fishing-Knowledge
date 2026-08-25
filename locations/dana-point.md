@@ -255,6 +255,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dana-point.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [Barber Poles](barber-poles.md)
 - [Dana Point Kelp — Red Buoy](dana-point-kelp-red-buoy.md)
 - [Evidence — Dana Point](evidence/dana-point.md)

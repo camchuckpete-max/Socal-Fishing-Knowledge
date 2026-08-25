@@ -139,6 +139,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 <!-- backlinks:start -->
 ## Linked from
 
+- [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [August](../seasonal/august.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)

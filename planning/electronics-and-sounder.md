@@ -458,6 +458,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 ## Linked from
 
 - [179 / 220](../locations/179-220.md)
+- [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [81 / 381](../locations/81-381.md)
 - [Barred Sand Bass](../species/sand-bass.md)
@@ -479,6 +480,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

@@ -166,7 +166,9 @@ directly observed, not a broadcast claim that can be faked.
 <!-- backlinks:start -->
 ## Linked from
 
+- [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
+- [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [US waters](../locations/us-waters.md)

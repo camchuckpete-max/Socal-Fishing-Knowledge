@@ -813,6 +813,7 @@ confidence.
 <!-- backlinks:start -->
 ## Linked from
 
+- [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
@@ -824,6 +825,7 @@ confidence.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
+- [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)

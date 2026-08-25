@@ -179,6 +179,7 @@ parameter and not a substitute for the observed/forecast pull.
 <!-- backlinks:start -->
 ## Linked from
 
+- [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [April](../seasonal/april.md)

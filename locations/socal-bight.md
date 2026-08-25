@@ -207,6 +207,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
 - [172 / 125](172-125.md)
+- [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [43 / 91 / 300](43-91-300.md)
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)

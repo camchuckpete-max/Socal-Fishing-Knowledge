@@ -226,6 +226,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [Anderson Pipe](anderson-pipe.md)
 - [Barn Kelp](barn-kelp.md)
 - [Beacons](beacons.md)
