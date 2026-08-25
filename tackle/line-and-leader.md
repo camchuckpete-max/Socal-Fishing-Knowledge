@@ -675,6 +675,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cedros Island](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

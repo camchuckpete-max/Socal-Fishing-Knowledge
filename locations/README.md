@@ -17,6 +17,7 @@
 - [Cedros Island](cedros-island.md) **[Baja only]** — [Baja only] — Isla de Cedros sits off the Pacific coast of Baja California at roughly 28°N, just inside the northern half of the Baja Pacific line.
 - [Coronado Canyon](coronado-canyon.md) **[Baja only]** — A charted spot at 32°30.300'N 117°17.500'W (cameron), in the Coronado Islands zone.
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
+- [Cortez North](cortez-north.md) **[Baja only]** — The character rung.
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md) **[Baja only]** — A charted spot at 32°27.000'N 117°14.100'W (cameron), in the Coronado Islands zone.
 - [Island Structure](island-structure.md) **[SoCal only]** — Universal typology of SoCal island and bank structure — the shapes the bottom takes and how current has to run across each shape to make it fish.
 - [Lighthouse](lighthouse.md) **[Baja only]** — A charted spot at 32°23.290'N 117°14.570'W (cameron), in the Coronado Islands zone.
@@ -57,86 +58,94 @@ graph LR
   n10["Cedros Island"]
   n11["Coronado Canyon"]
   n12["Coronado Islands"]
-  n13["East of Pukey Point (yellowtail & rockfish)"]
-  n14["Island Structure"]
-  n15["Lighthouse"]
-  n16["Loreto & Puerto Escondido"]
-  n17["Lower 9 Mile Bank"]
-  n18["Mexican waters"]
-  n19["North of North Island rockfish area"]
-  n20["Pukey Point"]
-  n21["Regions & Waters — the gating vocabulary"]
-  n22["Ribbon Kelp"]
-  n23["Rockpile"]
-  n24["Sea of Cortez"]
-  n25["Southern California Bight"]
-  n26["South Kelp Ridge"]
-  n27["US waters"]
-  n28["Zone Lexicon"]
+  n13["Cortez North"]
+  n14["East of Pukey Point (yellowtail & rockfish)"]
+  n15["Island Structure"]
+  n16["Lighthouse"]
+  n17["Loreto & Puerto Escondido"]
+  n18["Lower 9 Mile Bank"]
+  n19["Mexican waters"]
+  n20["North of North Island rockfish area"]
+  n21["Pukey Point"]
+  n22["Regions & Waters — the gating vocabulary"]
+  n23["Ribbon Kelp"]
+  n24["Rockpile"]
+  n25["Sea of Cortez"]
+  n26["Southern California Bight"]
+  n27["South Kelp Ridge"]
+  n28["US waters"]
+  n29["Zone Lexicon"]
   n0 --> n12
-  n1 --> n16
-  n1 --> n18
-  n1 --> n24
+  n1 --> n17
+  n1 --> n19
+  n1 --> n25
   n10 --> n1
-  n10 --> n21
+  n10 --> n22
   n11 --> n12
   n12 --> n0
   n12 --> n11
-  n12 --> n13
-  n12 --> n15
-  n12 --> n17
+  n12 --> n14
+  n12 --> n16
   n12 --> n18
   n12 --> n19
   n12 --> n20
   n12 --> n21
   n12 --> n22
   n12 --> n23
-  n12 --> n26
-  n13 --> n12
-  n15 --> n12
-  n16 --> n1
-  n17 --> n12
-  n18 --> n21
-  n18 --> n3
-  n18 --> n4
-  n19 --> n12
+  n12 --> n24
+  n12 --> n27
+  n13 --> n1
+  n13 --> n19
+  n13 --> n22
+  n13 --> n25
+  n13 --> n26
+  n13 --> n3
+  n14 --> n12
+  n16 --> n12
+  n17 --> n1
+  n18 --> n12
+  n19 --> n13
+  n19 --> n22
+  n19 --> n3
+  n19 --> n4
   n20 --> n12
-  n20 --> n18
-  n22 --> n12
+  n21 --> n12
+  n21 --> n19
   n23 --> n12
-  n24 --> n1
-  n24 --> n16
-  n25 --> n14
-  n25 --> n21
-  n25 --> n27
-  n25 --> n28
-  n25 --> n5
-  n25 --> n6
-  n25 --> n7
-  n25 --> n8
-  n25 --> n9
-  n26 --> n12
-  n27 --> n18
-  n27 --> n25
-  n28 --> n14
-  n28 --> n5
-  n28 --> n7
-  n28 --> n8
+  n24 --> n12
+  n25 --> n1
+  n25 --> n17
+  n26 --> n15
+  n26 --> n22
+  n26 --> n28
+  n26 --> n29
+  n26 --> n5
+  n26 --> n6
+  n26 --> n7
+  n26 --> n8
+  n26 --> n9
+  n27 --> n12
+  n28 --> n19
+  n28 --> n26
+  n29 --> n15
+  n29 --> n5
+  n29 --> n7
+  n29 --> n8
   n3 --> n10
   n3 --> n12
-  n3 --> n18
-  n3 --> n21
-  n3 --> n25
-  n3 --> n28
+  n3 --> n19
+  n3 --> n22
+  n3 --> n26
+  n3 --> n29
   n3 --> n7
-  n4 --> n16
-  n4 --> n18
+  n4 --> n17
+  n4 --> n19
   n4 --> n2
-  n4 --> n21
-  n4 --> n25
+  n4 --> n22
+  n4 --> n26
   n4 --> n3
   n6 --> n9
-  n7 --> n14
+  n7 --> n15
   n9 --> n6
 ```
 <!-- mermaid:end -->

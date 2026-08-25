@@ -491,6 +491,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Dropper Loop](dropper-loop.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)

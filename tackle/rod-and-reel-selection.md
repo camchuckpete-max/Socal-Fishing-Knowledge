@@ -918,6 +918,7 @@ a bluefin).
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Composite Rod Blanks — the Visible Transition Line Is Intentional](composite-rod-blank-construction.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Daiwa Coastal TW 200 — Mag Force Brakes, Hyper Clutch, Hyper Housing, Hyperdrive (Tackle Express)](tackle-express-daiwa-coastal-tw200-reel.md)
 - [Daiwa Luvias ST — Air Drive, Carbon Body, Oil-Type Bearings, Mag Seal (Tackle Express)](tackle-express-daiwa-luvias-st-spinning-reel.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)

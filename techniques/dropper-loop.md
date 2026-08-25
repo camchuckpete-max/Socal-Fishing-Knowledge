@@ -581,6 +581,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](../rigging/cut-loop-dropper.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](../rigging/dropper-loop-knot-and-spider-hitch.md)

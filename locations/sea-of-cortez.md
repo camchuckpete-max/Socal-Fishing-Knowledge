@@ -131,4 +131,5 @@ on-camera sign-off, not the 2023 upload dates.
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
+- [Cortez North](cortez-north.md)
 <!-- backlinks:end -->

@@ -266,6 +266,7 @@ shortages, where the barge isn't an option.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](bait-tanks.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)

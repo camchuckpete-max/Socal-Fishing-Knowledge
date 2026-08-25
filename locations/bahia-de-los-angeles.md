@@ -283,6 +283,7 @@ roosterfish are the actual target.
 ## Linked from
 
 - [Cedros Island](cedros-island.md)
+- [Cortez North](cortez-north.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

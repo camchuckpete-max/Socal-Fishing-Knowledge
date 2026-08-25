@@ -127,6 +127,7 @@ meter them." General method:
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)

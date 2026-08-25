@@ -841,6 +841,7 @@ are logged in
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
+- [Cortez North](../locations/cortez-north.md)
 - [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
