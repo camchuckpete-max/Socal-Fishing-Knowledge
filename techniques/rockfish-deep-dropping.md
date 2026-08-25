@@ -518,6 +518,7 @@ the bite, read before you feel anything through the blank.
 
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
+- [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Phenix Axis — Mid-Tier Rockfishing Rod Spec (Tackle Express)](../tackle/tackle-express-phenix-axis-rockfish-rod.md)

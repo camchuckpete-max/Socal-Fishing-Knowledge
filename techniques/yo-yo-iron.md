@@ -723,6 +723,7 @@ the reverse map in **Linked from** below.
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](../lures/iron-jigs.md)

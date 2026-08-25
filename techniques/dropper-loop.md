@@ -590,6 +590,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

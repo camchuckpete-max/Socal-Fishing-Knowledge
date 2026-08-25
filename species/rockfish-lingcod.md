@@ -353,6 +353,7 @@ the *bottom*, not the fish.
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
+- [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Knife Jigs](../lures/knife-jigs.md)

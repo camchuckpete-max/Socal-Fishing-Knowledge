@@ -96,6 +96,7 @@ Trip reports and per-source provenance:
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
+- [Finger Bank rockfish](finger-bank-rockfish.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Loreto & Puerto Escondido](loreto.md)

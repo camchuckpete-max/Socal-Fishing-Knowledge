@@ -159,5 +159,6 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Finger Bank rockfish](finger-bank-rockfish.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 <!-- backlinks:end -->

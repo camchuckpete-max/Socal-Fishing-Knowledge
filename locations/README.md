@@ -96,6 +96,7 @@
 - [Empire Landing](empire-landing.md) **[SoCal only]** — A charted spot at 33°25.730'N 118°26.570'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Encina Powerplant Pipe](encina-powerplant-pipe.md) **[SoCal only]** — A charted spot at 33°08.060'N 117°20.860'W (cameron), in the Oceanside / North County zone.
 - [Encinitas rockfish / Devil's Rock North (stay N of SMCA at 33 03.000)](encinitas-rockfish-devil-s-rock-north.md) **[SoCal only]** — A charted spot at 33°03.130'N 117°20.920'W (cameron), in the Oceanside / North County zone.
+- [Finger Bank rockfish](finger-bank-rockfish.md) **[Baja only]** — A zone is a run grouping.
 - [Flat Rock](flat-rock.md) **[SoCal only]** — A charted spot at 32°54.755'N 117°15.755'W (cameron), in the Oceanside / North County zone.
 - [Gallaghers](gallaghers.md) **[SoCal only]** — A charted spot at 33°21.927'N 118°20.420'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Golf Ball](golf-ball.md) **[SoCal only]** — A charted spot at 33°14.400'N 117°26.270'W (cameron), in the Oceanside / North County zone.
@@ -240,5 +241,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 227 notes exceed the 30-node cap._
+_Map skipped: 228 notes exceed the 30-node cap._
 <!-- mermaid:end -->
