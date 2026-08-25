@@ -174,3 +174,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T02:55:52Z — locations/north-county-artificial-reefs.md — verify-escalate
 - run: 32794536436
 - reason: 38 library waypoints published as zero spot pages vs CLAUDE.md 'EVERY spot gets a page'; Cameron to rule: one page per series, 38 mechanical pages, or formal sub-pixel-cluster exemption — same question hits San Diego ARs, International Reef, Torrey Pines
+
+## 2026-08-25T06:48:27Z — locations/coronados-230-302-226.md — verify-escalate
+- run: 32815015298
+- reason: Zone is gated socal-bight and badged [SoCal only], yet the 371 sits ~6.7 nm on the Mexican side of the census's approximated maritime boundary (census takes a cluster's region from its first member). Page flags it and says verify off a chart; Cameron should decide whether a jurisdiction-straddling zone is acceptable under the region safety gate or the 371 needs re-parenting in the census.

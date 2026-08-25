@@ -84,6 +84,7 @@
 - [The Corner / 140 / 182](corner-140-182.md) **[SoCal only]** — A zone is a run grouping.
 - [Coronado Canyon](coronado-canyon.md) **[Baja only]** — A charted spot at 32°30.300'N 117°17.500'W (cameron), in the Coronado Islands zone.
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md) **[SoCal only]** — A zone is a run grouping.
 - [Cortez North](cortez-north.md) **[Baja only]** — The character rung.
 - [Cortez South](cortez-south.md) **[Baja only]** — The character rung.
 - [The Cove (stay west of MPA at 117 16.400)](cove.md) **[SoCal only]** — A charted spot at 32°51.340'N 117°16.620'W (cameron), in the La Jolla zone.
@@ -283,5 +284,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 270 notes exceed the 30-node cap._
+_Map skipped: 271 notes exceed the 30-node cap._
 <!-- mermaid:end -->

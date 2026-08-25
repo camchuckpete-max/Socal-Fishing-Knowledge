@@ -161,6 +161,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [Bight Geography](../locations/bight-geography.md)
 - [BightSST Eval Targets](../locations/bightsst-eval-targets.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Current Structure](current-structure.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [June–July](../seasonal/june-july.md)

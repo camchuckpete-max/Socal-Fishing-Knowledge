@@ -208,6 +208,7 @@ waypoints are charted with no fishing doctrine attached to any of them.
 <!-- children:start -->
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Dana Point](dana-point.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Imperial Beach](imperial-beach.md)

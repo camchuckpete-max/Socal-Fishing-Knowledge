@@ -247,6 +247,7 @@ circle-hook rig detail logged in
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Ensenada](../locations/ensenada.md)

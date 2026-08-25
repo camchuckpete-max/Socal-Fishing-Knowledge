@@ -145,6 +145,7 @@ water color.
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Current Structure](current-structure.md)
 - [Dana Point](../locations/dana-point.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)

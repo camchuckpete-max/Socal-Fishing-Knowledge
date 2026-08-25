@@ -183,6 +183,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Dana Point](../locations/dana-point.md)

@@ -469,6 +469,7 @@ grade, or technique detail given for the dorado specifically.
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)

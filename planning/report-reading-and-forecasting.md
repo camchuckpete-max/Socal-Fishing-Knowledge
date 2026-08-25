@@ -103,6 +103,7 @@ Fold the output of this note back into the
 - [August](../seasonal/august.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

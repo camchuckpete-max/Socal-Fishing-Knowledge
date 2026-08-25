@@ -14,6 +14,7 @@
 - [Evidence — Colonet](colonet.md) — The observation layer behind Colonet.
 - [Evidence — The Corner / 140 / 182](corner-140-182.md) — Provenance for The Corner / 140 / 182.
 - [Evidence — Coronado Islands](coronado-islands.md) — The observation layer behind Coronado Islands.
+- [Evidence — Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md) — Provenance for Coronados - 230 / 302 (Kidney Bank) / 226.
 - [Evidence — Cortez North](cortez-north.md) — The observation layer behind Cortez North.
 - [Evidence — Cortez South](cortez-south.md) — The observation layer behind Cortez South.
 - [Evidence — Dana Point](dana-point.md) — The observation layer behind Dana Point.
@@ -42,5 +43,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 32 notes exceed the 30-node cap._
+_Map skipped: 33 notes exceed the 30-node cap._
 <!-- mermaid:end -->

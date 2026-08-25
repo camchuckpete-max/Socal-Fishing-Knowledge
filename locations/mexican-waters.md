@@ -95,6 +95,7 @@ Trip reports and per-source provenance:
 - [Cedros / San Benitos](cedros-island.md)
 - [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
 - [Ensenada](ensenada.md)

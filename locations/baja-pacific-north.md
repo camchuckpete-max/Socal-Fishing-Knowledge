@@ -266,6 +266,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Colonet](colonet.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Cortez North](cortez-north.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Baja Pacific — North](evidence/baja-pacific-north.md)

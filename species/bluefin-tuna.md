@@ -431,6 +431,7 @@ Trip reports and per-source provenance:
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Colonet](../locations/colonet.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)

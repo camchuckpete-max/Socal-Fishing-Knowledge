@@ -126,6 +126,7 @@ many *drops*.
 - [Cameron's Spots](../profiles/cameron/spots.md)
 - [Catalina Island — Front Side](catalina-island-front-side.md)
 - [Colonet](colonet.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — Dana Point](evidence/dana-point.md)

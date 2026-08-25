@@ -378,6 +378,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Colonet](../locations/colonet.md)
 - [Coronado Islands](../locations/coronado-islands.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)

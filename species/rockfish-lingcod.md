@@ -349,6 +349,7 @@ the *bottom*, not the fish.
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Colonet](../locations/colonet.md)
 - [Coronado Islands](../locations/coronado-islands.md)
+- [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
