@@ -692,4 +692,24 @@ by their builders after the transform phase drains.
 | locations/295.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/baja-270.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/double-220.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/307.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/boot-504.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/170.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/hidden-reef.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/437.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/483-500.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/east-400.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/450.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/1140-finger.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/lower-500.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/60.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/peanut-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/baja-230.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/west-400.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/sniffer.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/179.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/220.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/tuna-hole-179.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/catchers-mitt.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/950.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 <!-- review:worklist:end -->

@@ -293,7 +293,8 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Sniffer](sniffer.md)
+- [West 400](west-400.md)
 <!-- children:end -->
 
 ## Evidence
@@ -307,4 +308,6 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Lower Cross](lower-cross.md)
+- [Sniffer](sniffer.md)
+- [West 400](west-400.md)
 <!-- backlinks:end -->

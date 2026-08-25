@@ -291,7 +291,8 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [170](170.md)
+- [Hidden Reef](hidden-reef.md)
 <!-- children:end -->
 
 ## Evidence
@@ -303,5 +304,7 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [170](170.md)
+- [Hidden Reef](hidden-reef.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

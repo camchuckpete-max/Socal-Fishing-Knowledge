@@ -261,7 +261,8 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [950](950.md)
+- [Catchers Mitt](catchers-mitt.md)
 <!-- children:end -->
 
 ## Evidence
@@ -273,5 +274,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [950](950.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Catchers Mitt](catchers-mitt.md)
 <!-- backlinks:end -->
