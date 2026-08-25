@@ -467,6 +467,7 @@ grade, or technique detail given for the dorado specifically.
 - [Cedros Island](../locations/cedros-island.md)
 - [Chunking](../techniques/chunking.md)
 - [Cortez North](../locations/cortez-north.md)
+- [Cortez South](../locations/cortez-south.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

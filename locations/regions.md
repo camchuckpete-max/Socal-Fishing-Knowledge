@@ -113,6 +113,7 @@ out-of-region.
 - [Cedros Island](cedros-island.md)
 - [Coronado Islands](coronado-islands.md)
 - [Cortez North](cortez-north.md)
+- [Cortez South](cortez-south.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Mexican waters](mexican-waters.md)

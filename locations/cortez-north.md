@@ -315,6 +315,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cortez South](cortez-south.md)
 - [Evidence — Cortez North](evidence/cortez-north.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

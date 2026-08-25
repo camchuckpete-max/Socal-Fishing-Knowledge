@@ -273,6 +273,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cortez North](cortez-north.md)
+- [Cortez South](cortez-south.md)
 - [Evidence — Southern California Bight](evidence/socal-bight.md)
 - [US waters](us-waters.md)
 <!-- backlinks:end -->

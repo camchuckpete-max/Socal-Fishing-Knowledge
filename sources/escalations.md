@@ -166,3 +166,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T00:58:31Z — locations/socal-bight.md — guard-violation
 - run: 32794536436
 - reason: commit 66557a0e3849d3b493f794d3c2489419048e32d4 reverted: out of scope for 'review: locations/socal-bight.md': locations/us-waters.md
+
+## 2026-08-25T02:24:09Z — locations/cortez-south.md — verify-escalate
+- run: 32794536436
+- reason: roosterfish 'more reliable further south' propagated to cortez-south/cortez-north/bahia-de-los-angeles, but P36VGPPf120 [00:12:03] states no reliability direction ('higher up in the Sea of Cortez as well') — Cameron to adjudicate across all three notes

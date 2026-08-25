@@ -252,6 +252,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cortez South](cortez-south.md)
 - [Evidence — Baja Pacific — South](evidence/baja-pacific-south.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

@@ -267,6 +267,7 @@ shortages, where the barge isn't an option.
 - [Bait Tanks](bait-tanks.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Cortez North](../locations/cortez-north.md)
+- [Cortez South](../locations/cortez-south.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)

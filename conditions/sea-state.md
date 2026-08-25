@@ -182,6 +182,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [April](../seasonal/april.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bight Geography](../locations/bight-geography.md)
+- [Cortez South](../locations/cortez-south.md)
 - [Current Diagnostics](current-diagnostics.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Island Structure](../locations/island-structure.md)

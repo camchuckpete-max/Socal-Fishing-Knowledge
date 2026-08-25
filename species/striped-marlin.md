@@ -247,6 +247,7 @@ circle-hook rig detail logged in
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Cortez North](../locations/cortez-north.md)
+- [Cortez South](../locations/cortez-south.md)
 - [Flyline](../techniques/flyline.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Lopez Mateos & Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)

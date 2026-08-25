@@ -77,6 +77,7 @@ permit.
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cortez North](cortez-north.md)
+- [Cortez South](cortez-south.md)
 <!-- children:end -->
 
 ## Evidence
@@ -92,6 +93,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Coronado Islands](coronado-islands.md)
 - [Cortez North](cortez-north.md)
+- [Cortez South](cortez-south.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Pukey Point](pukey-point.md)
 - [US waters](us-waters.md)

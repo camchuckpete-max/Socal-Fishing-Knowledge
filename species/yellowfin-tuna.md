@@ -544,6 +544,7 @@ the bluefin nearby become more cooperative too.**
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Cedros Island](../locations/cedros-island.md)
+- [Cortez South](../locations/cortez-south.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)

@@ -293,6 +293,7 @@ for locating wahoo specifically. General method:
 ## Linked from
 
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

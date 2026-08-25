@@ -73,5 +73,6 @@ StokedOnFishing, 2019-06-06):
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 <!-- backlinks:end -->
