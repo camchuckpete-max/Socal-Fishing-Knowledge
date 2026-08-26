@@ -475,6 +475,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](yellowtail-coronado-islands.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

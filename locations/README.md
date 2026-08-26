@@ -363,6 +363,7 @@
 - [Sugarloaf Rock](sugarloaf-rock.md) **[Baja only]** — A charted spot at 32°13.365'N 116°57.814'W (cameron), in the Rosarito / Descanso zone.
 - [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md) **[SoCal only]** — A charted spot at 33°27.731'N 119°02.732'W (cameron), in the Santa Barbara Island zone.
 - [Sverdrup Bank (126)](sverdrup-bank-126.md) **[SoCal only]** — A zone is a run grouping.
+- [Tanner Bank](tanner-bank.md) **[SoCal only]** — A zone is a run grouping.
 - [Terramar Kelp](terramar-kelp.md) **[SoCal only]** — A charted spot at 33°07.490'N 117°20.440'W (cameron), in the Oceanside / North County zone.
 - [Three Sisters (caution — boilers)](three-sisters.md) **[SoCal only]** — A charted spot at 33°28.022'N 119°02.646'W (cameron), in the Santa Barbara Island zone.
 - [Torrey Pines Artificial Reef](torrey-pines-artificial-reef.md) **[SoCal only]** — The Torrey Pines Artificial Reef series — 2 charted waypoints on one artificial-reef complex, in the San Diego artificial reefs zone.
@@ -407,5 +408,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 394 notes exceed the 30-node cap._
+_Map skipped: 395 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -292,5 +292,6 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

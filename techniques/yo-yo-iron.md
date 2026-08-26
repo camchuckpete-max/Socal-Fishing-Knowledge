@@ -749,6 +749,7 @@ the reverse map in **Linked from** below.
 - [Surface Iron](surface-iron.md)
 - [Surface Iron — Colour](surface-iron-color.md)
 - [Swimbaits](swimbaits.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Trolling](trolling.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)

@@ -233,6 +233,7 @@ Trip reports and per-source provenance:
 - [Mail Point](mail-point.md)
 - [Seal Cove](seal-cove.md)
 - [Southern California Bight](socal-bight.md)
+- [Tanner Bank](tanner-bank.md)
 - [The Caves](caves.md)
 - [The Dunes](dunes.md)
 - [W. Butterfly / 157](w-butterfly-157.md)

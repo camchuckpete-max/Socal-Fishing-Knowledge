@@ -81,6 +81,7 @@ itself. This is captured as doctrine in
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
+- [Tanner Bank](tanner-bank.md)
 - [The Boot (504) / 307](boot-504-307.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)

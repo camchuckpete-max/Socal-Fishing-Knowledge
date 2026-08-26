@@ -272,4 +272,5 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 <!-- backlinks:end -->

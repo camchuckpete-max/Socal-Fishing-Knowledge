@@ -367,6 +367,7 @@ become primary).
 - [Southern California Bight](../locations/socal-bight.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)

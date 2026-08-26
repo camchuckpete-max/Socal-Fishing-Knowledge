@@ -135,5 +135,6 @@ glassing](../planning/search-and-glassing.md),
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 <!-- backlinks:end -->

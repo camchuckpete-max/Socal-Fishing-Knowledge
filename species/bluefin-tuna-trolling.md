@@ -194,6 +194,7 @@ Trip reports and per-source provenance:
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
 - [Spreader Bar](../lures/spreader-bar.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Trolling](../techniques/trolling.md)
 - [Tuna Feathers and Skirts](../lures/tuna-feathers-and-skirts.md)
 <!-- backlinks:end -->

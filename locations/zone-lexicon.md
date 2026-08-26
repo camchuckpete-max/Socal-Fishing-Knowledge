@@ -176,6 +176,7 @@ many *drops*.
 - [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Tanner Bank](tanner-bank.md)
 - [The Boot (504) / 307](boot-504-307.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)

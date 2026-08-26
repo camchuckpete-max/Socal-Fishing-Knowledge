@@ -103,6 +103,7 @@ share it).
 - [South Orange County — Crystal Cove](south-orange-county-crystal-cove.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
+- [Tanner Bank](tanner-bank.md)
 - [The Boot (504) / 307](boot-504-307.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
 - [Zone Lexicon](zone-lexicon.md)

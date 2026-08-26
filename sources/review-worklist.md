@@ -354,7 +354,7 @@ by their builders after the transform phase drains.
 | locations/banda-bank-todos-santos-island.md | geo | transformed | gaps:13 stubs:1 fc:2 spots:2 | apply-with-changes: position-and-ladder zone page verified against coordinate library + 3 transcripts; fixed 1 distance, 1 inverted bearing frame, 1 merged observation; 2 ledger rows raised (census grouping, ambiguous Todos Santos mention) |
 | locations/311.md | geo | transformed | gaps:13 stubs:2 spots:2 | apply-with-changes: new 311 (Trask Knoll) zone page verified — census membership, 12/25 nm attach logic and ~20 derived distances reproduce; 6 transcript spot-checks clean; 1 fix (false neighbour claim in isolation ranking) |
 | locations/sverdrup-bank-126.md | geo | transformed | gaps:15 spots:2 | zone page written: Sverdrup Bank (126) + Albatross Knoll, corpus-silent, positions and ladder only |
-| locations/tanner-bank.md | geo | pending |  | zone: 2 spots, 10 notes |
+| locations/tanner-bank.md | geo | transformed | gaps:9 fc:1 spots:2 | apply-with-changes: corpus-rich outer-banks zone page (Tanner + Cortes) from 16 sources; coordinates, 8 derived distances, census and 10 cited parameters verified; 3 fixes (2 quote-fidelity, 1 conflicting Long Beach run distance now ledgered) |
 | locations/hancock-bank.md | geo | pending |  | zone: 2 spots, 0 notes |
 | locations/12-mile-reef.md | geo | pending |  | zone: 1 spots, 0 notes |
 | locations/san-juan-seamount.md | geo | pending |  | zone: 1 spots, 0 notes |

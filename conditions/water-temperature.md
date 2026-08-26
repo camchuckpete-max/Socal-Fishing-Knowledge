@@ -212,6 +212,7 @@ doctrine above or add a SoCal-specific parameter.
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Water Color](water-color.md)

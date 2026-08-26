@@ -862,6 +862,7 @@ confidence.
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Surface Iron](surface-iron.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Trolling](trolling.md)
 - [Underhand Casting](underhand-casting.md)

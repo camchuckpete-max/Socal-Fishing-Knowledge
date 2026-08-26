@@ -445,5 +445,6 @@ quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-
 - [Searcher Spring Bluefin/Yellowtail Quiver — 2.5- and 3-Day Trips (Team Searcher, Tackle Talk Live, 2021-03-26)](../tackle/searcher-spring-bluefin-yellowtail-quiver.md)
 - [Sliding Sinker](sliding-sinker.md)
 - [Speed Trolling](speed-trolling.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
 <!-- backlinks:end -->

@@ -124,6 +124,7 @@ Trip reports and per-source provenance:
 - [San Quintin](san-quintin.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
+- [Tanner Bank](tanner-bank.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)
 - [Upper 500 / Hidden Bank](upper-500-hidden-bank.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)

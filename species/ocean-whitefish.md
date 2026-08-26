@@ -115,4 +115,5 @@ No surface sign — a **meter-and-chart** fishery like the rockfish complex.
 - [Rockfish & Lingcod](rockfish-lingcod.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 <!-- backlinks:end -->

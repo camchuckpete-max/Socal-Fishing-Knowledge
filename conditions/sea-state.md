@@ -217,6 +217,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Southern California Bight](../locations/socal-bight.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
+- [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
