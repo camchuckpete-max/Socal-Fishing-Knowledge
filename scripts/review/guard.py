@@ -48,7 +48,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent.parent
 
 PROTECTED = (
-    "CLAUDE.md", "STOP", "sources/source-registry.md",
+    # STOP is the kill switch and PAUSE-AFTER-GEO is Cameron's checkpoint.
+    # Both are his to set and clear: a fleet that can delete its own brake
+    # does not have one.
+    "CLAUDE.md", "STOP", "PAUSE-AFTER-GEO", "sources/source-registry.md",
     "sources/batch-2-analysis.md", "sources/transcripts/", "scripts/",
     "profiles/", "skills/", "prompts/", ".claude/", ".github/", "templates/",
 )

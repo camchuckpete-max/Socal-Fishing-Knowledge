@@ -42,6 +42,28 @@ TIERS = {"full", "standard", "light", "geo", "gazetteer", "cluster"}
 COST = {"full": 5, "standard": 2, "light": 1, "geo": 2, "gazetteer": 2,
         "cluster": 3, "relocate": 1}
 
+# Which model each tier is worth (Cameron, 2026-08-26). Opus keeps the work
+# where judgment is the product: the geographic ladder, the species routers
+# and their situation→technique tables, the gazetteer pages written from
+# harvested corpus, fact-check and cluster consistency. Sonnet takes the
+# formulaic tail — 128 standard + 98 light units, over half the remaining
+# points — where the note is a rewrite against a fixed skeleton.
+MODEL_BY_TIER = {
+    "geo": "claude-opus-5",
+    "full": "claude-opus-5",
+    "standard": "claude-sonnet-5",
+    "light": "claude-sonnet-5",
+    "gazetteer": "claude-opus-5",
+    "cluster": "claude-opus-5",
+    "relocate": "claude-opus-5",
+}
+DEFAULT_MODEL = "claude-opus-5"
+
+
+def model_of(row: dict, phase: str) -> str:
+    tier = "relocate" if phase == "relocate" else row.get("tier", "")
+    return MODEL_BY_TIER.get(tier, DEFAULT_MODEL)
+
 
 def parse_table(path: Path, start: str, end: str, ncells: int,
                 header0: str) -> list[list[str]]:
@@ -133,6 +155,10 @@ def main() -> int:
     ap.add_argument("--budget", type=int, default=None,
                     help="emit rows until cost exceeds this budget")
     ap.add_argument("-n", type=int, default=10)
+    ap.add_argument("--model", action="store_true",
+                    help="model the next chunk runs on, and nothing else")
+    ap.add_argument("--phase", action="store_true",
+                    help="name of the active bucket, and nothing else")
     args = ap.parse_args()
 
     bks = buckets()
@@ -141,10 +167,24 @@ def main() -> int:
         return 0
 
     phase, rows = next(((p, r) for p, r in bks if r), ("none", []))
+    if args.phase:
+        print(phase)
+        return 0
+    if args.model:
+        print(model_of(rows[0], phase) if rows else DEFAULT_MODEL)
+        return 0
     if not rows:
         return 0
     spent, emitted = 0, 0
+    chunk_model = model_of(rows[0], phase)
     for r in rows:
+        # One model per chunk. The workflow sets --model once for the whole
+        # run, so a chunk that mixed tiers would silently run some units on
+        # the wrong one — Sonnet on a species router, or Opus on the light
+        # tail Cameron moved off it. Stopping at the boundary costs at most a
+        # short chunk and keeps the guarantee exact.
+        if model_of(r, phase) != chunk_model and emitted:
+            break
         cost = COST["relocate"] if phase == "relocate" else COST[r["tier"]]
         if args.budget is not None and spent + cost > args.budget and emitted:
             break
@@ -152,6 +192,7 @@ def main() -> int:
             break
         out = dict(r)
         out["phase"] = phase
+        out["model"] = chunk_model
         print(json.dumps(out, ensure_ascii=False))
         spent += cost
         emitted += 1

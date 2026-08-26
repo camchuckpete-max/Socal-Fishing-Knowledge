@@ -58,12 +58,13 @@ jobs:
       # same mechanism as batch 3).
       PACE_OVERRIDE: "0"
       BUDGET_OVERRIDE: "16"
-      # Fleet model (Cameron, 2026-08-24): Opus 5 — this is fidelity-critical
-      # rewriting, and the verifier runs on the same model as the worker. When
-      # the worklist reaches the light-tier tackle tail (86 formulaic product
-      # notes), flip this to claude-sonnet-5 with a one-line branch edit; the
-      # next chunk picks it up (same authoritative-override mechanism as
-      # PACE_OVERRIDE).
+      # Fallback only. The model is now chosen PER TIER by
+      # scripts/review/next-note.py (MODEL_BY_TIER) and read from the
+      # preflight: Opus for the ladder, species routers, gazetteer prose,
+      # fact-check and cluster; Sonnet for the standard + light tail
+      # (Cameron, 2026-08-26). The verifier runs on the same model as its
+      # worker, which per-chunk homogeneity preserves. This value applies
+      # only if the preflight could not derive one.
       MODEL_OVERRIDE: "claude-opus-5"
     steps:
       - name: Checkout review branch
@@ -91,6 +92,21 @@ jobs:
             echo "Worklist drained — review fleet complete."
             echo "proceed=false" >> "$GITHUB_OUTPUT"; exit 0
           fi
+          # Cameron's checkpoint (2026-08-26), same ergonomics as STOP: hold
+          # the chain the moment the geographic ladder finishes, so he sees
+          # the completed map before the 37-chunk transform tail runs.
+          # Deleting the file resumes; nothing else changes.
+          phase=$(python scripts/review/next-note.py --phase)
+          if [ -f PAUSE-AFTER-GEO ] && [ "$phase" != "geo" ]; then
+            echo "Ladder complete — pausing for review (phase would be $phase)."
+            echo "Delete PAUSE-AFTER-GEO at the branch root to resume."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          # Per-tier model (see next-note.py MODEL_BY_TIER). Chunks are
+          # model-homogeneous by construction, so one --model per run is exact.
+          model=$(python scripts/review/next-note.py --model)
+          echo "phase=$phase model=$model"
+          echo "model=$model" >> "$GITHUB_OUTPUT"
           if [ "$HAS_KEY" != "true" ] && [ "$HAS_OAUTH" != "true" ]; then
             echo "::error::No auth secret found (ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN)."
             exit 1
@@ -123,7 +139,7 @@ jobs:
             Read prompts/orchestrate-review-chunk.md and follow it exactly.
             CHUNK_BUDGET=${BUDGET_OVERRIDE:-${{ inputs.chunk_budget }}}.
           claude_args: >-
-            --model ${{ env.MODEL_OVERRIDE || 'claude-opus-5' }}
+            --model ${{ steps.preflight.outputs.model || env.MODEL_OVERRIDE || 'claude-opus-5' }}
             --max-turns 800
             --allowedTools "Bash(git:*),Bash(python:*),Bash(python3:*),Bash(bash:*),Bash(wc:*),Bash(ls:*),Bash(scripts/*),Read,Grep,Glob,Edit,Write,Task"
 

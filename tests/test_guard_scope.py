@@ -229,20 +229,71 @@ def test_cited_prose_tiers_cannot_park_on_done(tmp_dir=None) -> None:
         shutil.rmtree(tmp, ignore_errors=True)
 
 
+# --- per-tier model selection ----------------------------------------------
+# The workflow sets --model once per run, so a chunk that mixed tiers would
+# silently run some units on the wrong model — Sonnet on a species router, or
+# Opus on the light tail Cameron deliberately moved off it. Neither shows up
+# in the output: the note still gets written, just by the wrong model.
+
+def test_chunks_never_mix_models() -> None:
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "next_note", ROOT / "scripts" / "review" / "next-note.py")
+    nn = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(nn)
+
+    check("the species routers stay on Opus",
+          nn.MODEL_BY_TIER["full"], "claude-opus-5")
+    check("the ladder stays on Opus",
+          nn.MODEL_BY_TIER["geo"], "claude-opus-5")
+    check("the formulaic tail moves to Sonnet",
+          (nn.MODEL_BY_TIER["standard"], nn.MODEL_BY_TIER["light"]),
+          ("claude-sonnet-5", "claude-sonnet-5"))
+
+    rows = [{"note": f"n{i}.md", "tier": t} for i, t in
+            enumerate(["full", "full", "standard", "light", "standard", "full"])]
+
+    def chunk(rs, budget=16):
+        out, spent, model = [], 0, nn.model_of(rs[0], "transform")
+        for r in rs:
+            if nn.model_of(r, "transform") != model and out:
+                break
+            c = nn.COST[r["tier"]]
+            if spent + c > budget and out:
+                break
+            out.append(r)
+            spent += c
+        return out, model
+
+    seen, remaining = [], rows[:]
+    while remaining:
+        c, model = chunk(remaining)
+        check(f"chunk of {[r['tier'] for r in c]} is model-homogeneous",
+              {nn.model_of(r, "transform") for r in c}, {model})
+        seen.append((tuple(r["tier"] for r in c), model))
+        remaining = remaining[len(c):]
+
+    check("every unit is still emitted, none dropped at a boundary",
+          sum(len(t) for t, _m in seen), len(rows))
+    check("a full-tier unit stranded after the Sonnet tail still gets Opus",
+          seen[-1], (("full",), "claude-opus-5"))
+
+
 def main() -> int:
     for fn in (test_geo_unit_may_regenerate_its_parents_child_list,
                test_geo_unit_may_not_edit_its_parents_prose,
                test_checkpoint_may_create_mechanical_pages,
                test_checkpoint_may_not_rewrite_an_existing_note,
                test_phase_word_strips_a_subject_passed_as_the_message,
-               test_cited_prose_tiers_cannot_park_on_done):
+               test_cited_prose_tiers_cannot_park_on_done,
+               test_chunks_never_mix_models):
         fn()
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("guard scope tests: 6 check groups OK")
+    print("guard scope tests: 7 check groups OK")
     return 0
 
 
