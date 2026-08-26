@@ -26,6 +26,16 @@ name: review-trampoline
 # transforms, so a note being rewritten can link a real zone page. Minimum
 # spot pages are generated mechanically at each chunk checkpoint rather than
 # by the fleet, which is why the remaining run is ~41 chunks and not ~83.
+#
+# 2026-08-26 (restart): the chain stalled on 08-25 at 13:26 when Cameron's
+# subscription hit its limit — the fleet authenticates as him, so his credit
+# wall was the fleet's. This trampoline behaved correctly throughout: it kept
+# bouncing every 2 hours and each attempt died on its first API call, exactly
+# as designed. Two things changed with the restart: the model is now chosen
+# per tier by scripts/review/next-note.py, and PAUSE-AFTER-GEO holds the chain
+# when the geographic ladder finishes so Cameron can review the map before the
+# transform tail. This file honours that pause the same way it honours STOP —
+# otherwise it would bounce a chunk every 2 hours that exits at the gate.
 
 on:
   schedule:
@@ -72,6 +82,15 @@ jobs:
             echo "Worklist drained — nothing to resume."
             exit 0
           fi
+          # Cameron's geo-complete checkpoint. review-chunk.yml's preflight
+          # enforces it too; honouring it here as well stops this trampoline
+          # bouncing a chunk every 2 hours that would exit at the gate.
+          phase=$(python scripts/review/next-note.py --phase)
+          if [ -f PAUSE-AFTER-GEO ] && [ "$phase" != "geo" ]; then
+            echo "Ladder complete and PAUSE-AFTER-GEO is set (next phase: $phase)."
+            echo "Standing down until Cameron deletes it."
+            exit 0
+          fi
           inflight=$(gh run list --workflow=review-chunk.yml --status=in_progress \
                        --json databaseId --jq 'length' 2>/dev/null || echo 0)
           queued=$(gh run list --workflow=review-chunk.yml --status=queued \
@@ -80,6 +99,6 @@ jobs:
             echo "A chunk is already in flight or queued — no bounce needed."
             exit 0
           fi
-          echo "Chain idle with $pending actionable unit(s) — dispatching."
+          echo "Chain idle with $pending actionable unit(s), phase $phase — dispatching."
           gh workflow run review-chunk.yml --ref "$BRANCH" \
             -f chunk_budget=16 -f pace_minutes=0 -f chain_count=0 -f redispatch=true
