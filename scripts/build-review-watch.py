@@ -544,6 +544,11 @@ main{flex:1;display:flex;min-height:0}
 .mcrumb .far{color:var(--critical);font-weight:600}
 .mcrumb .op{margin-left:auto}
 .mcrumb .line{display:flex;align-items:center;flex-wrap:wrap;gap:2px}
+.mcrumb .pick{display:block;width:100%;text-align:left;background:var(--panel2);
+  border:1px solid var(--hair);border-radius:8px;padding:6px 9px;margin-top:5px;
+  color:var(--ink);font:inherit;cursor:pointer}
+.mcrumb .pick:hover{border-color:var(--accent)}
+.mcrumb .pick .mut{float:right;color:var(--muted);font-size:11.5px}
 .viewtoggle{display:inline-flex;border:1px solid var(--hair);border-radius:8px;overflow:hidden}
 .viewtoggle button{background:var(--panel2);border:none;color:var(--ink2);padding:5px 12px;
   font-size:12px;font-weight:600}
@@ -1375,6 +1380,38 @@ function crumb(p){
   if(b)b.onclick=()=>openSpot(p);
 }
 
+/* Pins overlap badly at low zoom: 281 of the 391 sit within 6px of another
+   one at the default view, and the worst cluster stacks 23. Leaflet delivers
+   the click to whichever marker it drew last, so clicking "Pukey Point"
+   opened "North of North Island rockfish area" — the spot you asked for and
+   the article you got were simply different places. Rather than guess, when a
+   click lands on a pile, say so and let the reader pick. */
+function pinsAt(p){
+  if(!map)return [p];
+  const a=map.latLngToContainerPoint([p.lat,p.lon]);
+  return PINS.filter(q=>{
+    const z=zoneOf(q); if(!q.excluded&&!vis(z))return false;
+    const b=map.latLngToContainerPoint([q.lat,q.lon]);
+    return Math.hypot(b.x-a.x,b.y-a.y)<=7;
+  });
+}
+
+function choose(list){
+  const box=document.getElementById('mcrumb');
+  box.hidden=false;
+  box.innerHTML=`<div class="line"><b>${list.length} spots here</b>`+
+    `<span class="sep">·</span><span class="mut">they overlap at this zoom —`+
+    ` pick one, or zoom in to separate them</span></div>`+
+    list.map((q,i)=>{
+      const has=byPath.has(`locations/${q.slug}.md`);
+      return `<button class="pick" data-i="${i}">${esc(q.name)}`+
+        `<span class="mut">${has?'article':'no page yet'}</span></button>`;
+    }).join('');
+  box.querySelectorAll('.pick').forEach(btn=>{
+    btn.onclick=()=>{const q=list[+btn.dataset.i];crumb(q);openSpot(q);};
+  });
+}
+
 /* Clicking a pin answers two questions: what IS this, and what does the KB
    say about it. Spot pages land progressively — the minimum ones as each zone
    lands, the enrichable ones when the fleet reaches them — and "page not built
@@ -1454,10 +1491,13 @@ function openSpot(p){
     if(byPath.has(el.dataset.go))open(el.dataset.go,'article',null);});
 }
 
+// Shared by paintMap and pinsAt: a pin the region filter has hidden must not
+// turn up in the overlap chooser either.
+function vis(z){return !!z&&shown.region.has(z.region);}
+
 function paintMap(){
   if(!map)return;
   pinLayer.clearLayers(); hullLayer.clearLayers();
-  const vis=z=>z&&shown.region.has(z.region);
   if(shown.hulls){
     ZONES.forEach(z=>{
       if(!vis(z)||z.hull.length<2)return;
@@ -1488,7 +1528,11 @@ function paintMap(){
       fillColor:c, fillOpacity:p.excluded?.25:(has?.9:.28)});
     m.bindTooltip(`${p.name}${z?` — ${z.name}`:''}`+(has?'':' — no page yet'),
                   {direction:'top'});
-    m.on('click',()=>{crumb(p);openSpot(p);});
+    m.on('click',()=>{
+      const here=pinsAt(p);
+      if(here.length>1){choose(here);return;}
+      crumb(p);openSpot(p);
+    });
     m.addTo(pinLayer);
   });
   document.getElementById('mcount').textContent=
