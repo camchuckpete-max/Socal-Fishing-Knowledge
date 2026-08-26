@@ -831,6 +831,7 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Essential SoCal Knots](essential-knots.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)

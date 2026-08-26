@@ -75,6 +75,7 @@ and [serve a fluorocarbon leader into hollow core](https://www.youtube.com/watch
 <!-- backlinks:start -->
 ## Linked from
 
+- [Guadalupe](../locations/guadalupe.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Leadhead Mods & Rigging](leadhead-mods.md)
 - [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)

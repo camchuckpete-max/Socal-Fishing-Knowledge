@@ -30,6 +30,7 @@
 - [Evidence — Dana Point](dana-point.md) — The observation layer behind Dana Point.
 - [Evidence — Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md) — Provenance for Davis Knoll / San Miguel Gap / Rodriguez Seamount.
 - [Evidence — Ensenada](ensenada.md) — The observation layer behind Ensenada.
+- [Evidence — Guadalupe](guadalupe.md) — The observation layer behind Guadalupe.
 - [Evidence — Imperial Beach](imperial-beach.md) — The observation layer behind Imperial Beach.
 - [Evidence — International Artificial Reef](international-artificial-reef.md) — The observation layer behind International Artificial Reef.
 - [Evidence — LA - 270 / 286](la-270-286.md) — Provenance for LA - 270 / 286.
@@ -58,5 +59,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 48 notes exceed the 30-node cap._
+_Map skipped: 49 notes exceed the 30-node cap._
 <!-- mermaid:end -->

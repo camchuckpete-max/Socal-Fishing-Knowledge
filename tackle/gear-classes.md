@@ -292,6 +292,7 @@ does the lookup.
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)

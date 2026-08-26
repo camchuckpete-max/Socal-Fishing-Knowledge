@@ -683,6 +683,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](../rigging/hollow-splice-and-serving.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)

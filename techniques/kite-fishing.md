@@ -439,6 +439,7 @@ quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flying Fish Harness](../rigging/flying-fish-harness.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](../tackle/searcher-6-to-8-day-heavy-outfit.md)

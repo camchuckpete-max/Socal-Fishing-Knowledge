@@ -219,6 +219,7 @@
 - [Gallaghers](gallaghers.md) **[SoCal only]** — A charted spot at 33°21.927'N 118°20.420'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Golf Ball](golf-ball.md) **[SoCal only]** — A charted spot at 33°14.400'N 117°26.270'W (cameron), in the Oceanside / North County zone.
 - [Green Tank](green-tank.md) **[SoCal only]** — A charted spot at 32°42.610'N 117°16.740'W (cameron), in the Point Loma zone.
+- [Guadalupe](guadalupe.md) **[Baja only]** — [Baja only] — Guadalupe Island, the outermost zone of Baja Pacific — North and the only one in the region that no day boat reaches: 215 mi to the north end, 235
 - [The Half](half.md) **[SoCal only]** — A charted spot at 32°51.220'N 117°17.620'W (cameron), in the La Jolla zone.
 - [Hancock Bank](hancock-bank.md) **[SoCal only]** — A zone is a run grouping.
 - [Hen Rock Kelp](hen-rock-kelp.md) **[SoCal only]** — A charted spot at 33°23.981'N 118°21.975'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -424,5 +425,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 411 notes exceed the 30-node cap._
+_Map skipped: 412 notes exceed the 30-node cap._
 <!-- mermaid:end -->

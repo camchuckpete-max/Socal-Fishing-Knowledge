@@ -733,6 +733,7 @@ the reverse map in **Linked from** below.
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Flat-Fall Jigging](flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [La Jolla](../locations/la-jolla.md)

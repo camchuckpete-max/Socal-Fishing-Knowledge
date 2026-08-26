@@ -69,6 +69,8 @@ recorded so the figure isn't mistaken for a verified limit:
 | Claim | Figure | As of | Note | Source |
 | --- | --- | --- | --- | --- |
 | Circle hook mandatory (Baja California Sur sportfishing) | circle hook required | 2019-02-13 | [flyline](../techniques/flyline.md) | `GptrotE0x5M` |
+| Guadalupe Island is inside a reserve — access needs the reserve open, on top of the operator's permit | permit + reserve open + port of Ensenada clearable | 2021-01-14 | [Guadalupe](../locations/guadalupe.md) | `shZCjX2-fkI` |
+| Guadalupe reserve closed for public-health reasons, 2020, by the health department in Ensenada; the port of Ensenada was closed with it | no access that year | 2021-01-14 | [Guadalupe](../locations/guadalupe.md) | `shZCjX2-fkI` |
 
 **Not a regulation — an operator agreement, kept distinct:**
 
@@ -97,6 +99,7 @@ route, and the insurance carriers by name.
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Mexican waters](../locations/mexican-waters.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)

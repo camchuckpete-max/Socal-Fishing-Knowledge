@@ -346,6 +346,7 @@ fish around the boat once you're on them.
 - [Evidence — North County Artificial Reefs](../locations/evidence/north-county-artificial-reefs.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — San Diego Artificial Reefs](../locations/evidence/san-diego-artificial-reefs.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)

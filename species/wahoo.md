@@ -298,6 +298,7 @@ for locating wahoo specifically. General method:
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Searcher 30 lb Large-Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2023-03-02)](../tackle/searcher-30lb-large-tuna-outfit.md)

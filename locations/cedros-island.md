@@ -419,6 +419,7 @@ Trip reports and per-source provenance:
 - [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Guadalupe](guadalupe.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)

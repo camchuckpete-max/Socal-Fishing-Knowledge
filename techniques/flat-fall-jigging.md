@@ -288,6 +288,7 @@ to, the 200 lb mono/large-swivel crimped leader already logged above.
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Foamer Casting](foamer-casting.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)

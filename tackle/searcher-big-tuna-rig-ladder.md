@@ -675,6 +675,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Guadalupe](../locations/guadalupe.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
