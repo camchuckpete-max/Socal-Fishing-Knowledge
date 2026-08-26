@@ -234,6 +234,15 @@ def name_cluster(cluster: list[dict]) -> str:
 
 
 # ------------------------------------------------------------- corpus depth
+LADDER_TYPE_RE = re.compile(
+    r"^type:\s*(zone|region|area|jurisdiction|location)\s*$", re.M)
+
+
+def is_ladder_page(text: str) -> bool:
+    """True for a page the geographic ladder itself generates."""
+    return bool(LADDER_TYPE_RE.search(text))
+
+
 def load_notes() -> dict[str, str]:
     """Knowledge notes, evidence folded into their parent, FM+backlinks off."""
     docs: dict[str, str] = {}
@@ -247,9 +256,18 @@ def load_notes() -> dict[str, str]:
             # output — "Middle Grounds" jumped 1 -> 2 the moment
             # locations/coronado-islands.md was written. Depth must measure
             # what the KNOWLEDGE notes say about a place.
-            if re.search(r"^type:\s*(zone|region|area|jurisdiction|location)"
-                         r"\s*$", t, re.M):
+            if is_ladder_page(t):
                 continue
+            # ...and skip a ladder page's EVIDENCE file with it. Evidence is
+            # folded in under the PARENT's key below, so excluding the page
+            # while keeping its evidence let the census read its own output
+            # right back: 25 of Catalina's 73 "knowledge" notes were ladder
+            # evidence files, which is what tripped the fixture canary.
+            if p.parent.name == "evidence":
+                sibling = p.parent.parent / p.name
+                if sibling.exists() and is_ladder_page(
+                        sibling.read_text(encoding="utf-8", errors="replace")):
+                    continue
             if t.startswith("---"):
                 e = t.find("\n---", 3)
                 if e != -1:
