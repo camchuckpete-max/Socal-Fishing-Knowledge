@@ -213,5 +213,6 @@ Trip reports and per-source provenance:
 - [Colonet High Spot 28 Fathoms](colonet-high-spot-28-fathoms.md)
 - [Evidence — Colonet](evidence/colonet.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
+- [The Bumps](bumps.md)
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 <!-- backlinks:end -->

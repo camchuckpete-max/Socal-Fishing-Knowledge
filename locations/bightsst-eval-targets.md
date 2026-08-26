@@ -86,6 +86,7 @@ itself. This is captured as doctrine in
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 - [Tanner Bank](tanner-bank.md)
 - [The Boot (504) / 307](boot-504-307.md)
+- [The Bumps](bumps.md)
 - [The Corner / 140 / 182](corner-140-182.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [W. Butterfly / 157](w-butterfly-157.md)

@@ -195,5 +195,6 @@ Trip reports and per-source provenance:
 - [Roca Ben (caution — shoals/boilers)](roca-ben.md)
 - [San Martin Island Anchorage](san-martin-island-anchorage.md)
 - [San Martin Island Natural Jetty Kelp](san-martin-island-natural-jetty-kelp.md)
+- [The Bumps](bumps.md)
 - [Tranquillo Kelp](tranquillo-kelp.md)
 <!-- backlinks:end -->

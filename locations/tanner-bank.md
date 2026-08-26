@@ -380,4 +380,5 @@ Per-trip detail and conditions are in
 - [Hancock Bank](hancock-bank.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
+- [The Bumps](bumps.md)
 <!-- backlinks:end -->

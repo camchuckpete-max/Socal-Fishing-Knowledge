@@ -751,6 +751,7 @@ the reverse map in **Linked from** below.
 - [Swimbaits](swimbaits.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Bumps](../locations/bumps.md)
 - [Trolling](trolling.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Wahoo](../species/wahoo.md)

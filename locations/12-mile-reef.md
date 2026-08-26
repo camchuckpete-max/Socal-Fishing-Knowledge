@@ -320,4 +320,5 @@ corpus touches this mark, so there is no evidence file to link.
 
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
+- [The Bumps](bumps.md)
 <!-- backlinks:end -->

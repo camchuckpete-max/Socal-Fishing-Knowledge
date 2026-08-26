@@ -277,4 +277,5 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [950](950.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Catchers Mitt](catchers-mitt.md)
+- [The Bumps](bumps.md)
 <!-- backlinks:end -->

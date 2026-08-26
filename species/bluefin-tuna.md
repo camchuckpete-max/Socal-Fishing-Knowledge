@@ -537,6 +537,7 @@ Trip reports and per-source provenance:
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
+- [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)

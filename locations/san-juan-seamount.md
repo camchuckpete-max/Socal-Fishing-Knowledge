@@ -326,4 +326,5 @@ corpus touches this mark, so there is no evidence file to link.
 ## Linked from
 
 - [Southern California Bight](socal-bight.md)
+- [The Bumps](bumps.md)
 <!-- backlinks:end -->

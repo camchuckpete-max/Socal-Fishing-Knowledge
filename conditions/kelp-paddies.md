@@ -273,6 +273,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [Surface Iron](../techniques/surface-iron.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
+- [The Bumps](../locations/bumps.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Water Regimes](water-regimes.md)

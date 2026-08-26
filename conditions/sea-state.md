@@ -222,6 +222,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
+- [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Water Regimes](water-regimes.md)

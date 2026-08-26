@@ -41,4 +41,5 @@ A charted spot at **32°51.490'N 117°16.910'W** (cameron), in the [La Jolla](la
 ## Linked from
 
 - [La Jolla](la-jolla.md)
+- [The Bumps](bumps.md)
 <!-- backlinks:end -->

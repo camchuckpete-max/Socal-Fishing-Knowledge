@@ -133,6 +133,7 @@ Fold the output of this note back into the
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [Water Color](../conditions/water-color.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)

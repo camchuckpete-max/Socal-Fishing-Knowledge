@@ -120,6 +120,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [The Bumps](../locations/bumps.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [White Seabass](../species/white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
