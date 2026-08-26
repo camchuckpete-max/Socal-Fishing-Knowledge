@@ -6,7 +6,7 @@ name: publish-review-watch
 # Successor to publish-bight-watch.yml (batch 3, retired) on the same Pages
 # site. Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 #
-# Cameron's review surface for the transform job, v3.2 (2026-08-24): the
+# Cameron's review surface for the transform job, v3.3 (2026-08-26): the
 # Bight Watch chassis, now with a Map view — all 391 charted spots pinned at
 # their real coordinates with the jurisdiction/region/zone hierarchy drawn as
 # colours and hulls, and a pin click that opens the spot's article or, where
@@ -14,6 +14,13 @@ name: publish-review-watch
 # Basemap defaults to the Esri ocean base because most of these spots are
 # offshore and bathymetry is what explains them; OSM streets are one click
 # away for ports and the coastal zones.
+#
+# v3.3: pins overlap badly at low zoom — 281 of the 391 sit within 6px of
+# another one and the worst cluster stacks 23, against a 4px marker — so
+# Leaflet handed each click to whichever marker it drew last and the spot you
+# aimed at was not the article you got. A click now collects every visible pin
+# within 7px and, where several overlap, names them and marks which have
+# articles rather than guessing.
 #
 # Leaflet is vendored + inlined by the builder, so the page carries no runtime
 # CDN dependency. Map TILES are fetched at view time, which is why this lives
@@ -27,7 +34,11 @@ name: publish-review-watch
 
 on:
   # Freshness comes from the event, not the clock: a chunk finishing is the
-  # moment the page has something new to show.
+  # moment the page has something new to show. NOTE: this trigger has never
+  # actually fired — workflow_run resolves against the DEFAULT-branch registry
+  # and every chunk runs on the review branch — so review-chunk.yml dispatches
+  # this workflow directly at the end of each chunk instead. Kept for the day
+  # the review branch merges and the chunks run from main.
   workflow_run:
     workflows: ["review-chunk"]
     types: [completed]
