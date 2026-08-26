@@ -388,6 +388,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](../tackle/tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Halibut](california-halibut.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

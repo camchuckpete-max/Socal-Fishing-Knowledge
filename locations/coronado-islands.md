@@ -120,6 +120,7 @@ Trip reports and per-source provenance:
 - [5-Minute Kelp](5-minute-kelp.md)
 - [51 / 181 / 138](51-181-138.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Coronado Canyon](coronado-canyon.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)

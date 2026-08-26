@@ -579,6 +579,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

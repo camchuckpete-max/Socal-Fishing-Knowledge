@@ -101,6 +101,7 @@ Trip reports and per-source provenance:
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)

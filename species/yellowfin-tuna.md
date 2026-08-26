@@ -561,6 +561,7 @@ the bluefin nearby become more cooperative too.**
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

@@ -182,6 +182,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

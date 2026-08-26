@@ -187,6 +187,7 @@ Trip reports and per-source provenance:
 - [483/500 / 437](483-500-437.md)
 - [6.5 Fathom Spot](6-5-fathom-spot.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Breakers Reef](breakers-reef.md)
 - [Colonet](colonet.md)
 - [Ensenada](ensenada.md)

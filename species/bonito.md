@@ -269,6 +269,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [California Barracuda](barracuda.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

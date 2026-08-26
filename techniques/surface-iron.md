@@ -477,6 +477,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 
 - [<Your> Rods](../profiles/_template/rods.md)
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

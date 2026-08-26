@@ -160,6 +160,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [81 / 381](81-381.md)
 - [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Bight Geography](bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

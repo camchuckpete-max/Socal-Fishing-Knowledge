@@ -135,6 +135,7 @@ point, not folded into the mackerel-hook doctrine above.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

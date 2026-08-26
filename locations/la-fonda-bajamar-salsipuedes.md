@@ -178,6 +178,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [97](97.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bajamar](bajamar.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Ensenada](ensenada.md)
 - [La Fonda](la-fonda.md)
 - [Punta Mesquite](punta-mesquite.md)

@@ -358,6 +358,7 @@ the *bottom*, not the fish.
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Bluefin Tuna](bluefin-tuna.md)
 - [California Sheephead](sheephead.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

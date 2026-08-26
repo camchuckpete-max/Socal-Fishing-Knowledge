@@ -240,6 +240,7 @@ Trip reports and per-source provenance: [evidence file](evidence/barracuda.md).
 
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Calico Bass (Kelp Bass)](calico-bass.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cortez North](../locations/cortez-north.md)

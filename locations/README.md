@@ -115,6 +115,7 @@
 - [Baja Pacific — North](baja-pacific-north.md) **[Baja only]** — The character rung.
 - [Baja Pacific — South](baja-pacific-south.md) **[Baja only]** — The character rung.
 - [Bajamar](bajamar.md) **[Baja only]** — A charted spot at 32°00.500'N 116°52.650'W (cameron), in the La Fonda / Bajamar / Salsipuedes zone.
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md) **[Baja only]** — A zone is a run grouping.
 - [Barber Poles](barber-poles.md) **[SoCal only]** — A charted spot at 33°26.710'N 117°41.410'W (cameron), in the Dana Point zone.
 - [Barn Kelp](barn-kelp.md) **[SoCal only]** — A charted spot at 33°17.015'N 117°29.475'W (cameron), in the Oceanside / North County zone.
 - [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on — reading it and setting up on it.
@@ -404,5 +405,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 391 notes exceed the 30-node cap._
+_Map skipped: 392 notes exceed the 30-node cap._
 <!-- mermaid:end -->

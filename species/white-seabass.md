@@ -288,6 +288,7 @@ into the spot once the current read right.
 - [81 / 381](../locations/81-381.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [California Halibut](california-halibut.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)

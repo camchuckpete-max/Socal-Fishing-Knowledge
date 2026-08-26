@@ -138,6 +138,7 @@ many *drops*.
 - [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Spots](../profiles/cameron/spots.md)

@@ -267,6 +267,7 @@ shortages, where the barge isn't an option.
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](bait-tanks.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)

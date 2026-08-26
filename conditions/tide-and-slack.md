@@ -112,6 +112,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [474 / 711](../locations/474-711.md)
 - [April](../seasonal/april.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
+- [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Bays and Harbors](../locations/bays-and-harbors.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)

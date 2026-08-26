@@ -160,6 +160,7 @@ Trip reports and per-source provenance:
 - [Bahia Soledad](bahia-soledad.md)
 - [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Billy's Bluff](billy-s-bluff.md)
 - [Colonet](colonet.md)
 - [El Retiro](el-retiro.md)
