@@ -80,6 +80,7 @@ itself. This is captured as doctrine in
 - [Lower Cross](lower-cross.md)
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)

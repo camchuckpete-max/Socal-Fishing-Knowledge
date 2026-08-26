@@ -212,6 +212,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

@@ -74,5 +74,6 @@ Stated as this boat's own capability, not a fleet-wide figure:
 
 - [474 / 711](../locations/474-711.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

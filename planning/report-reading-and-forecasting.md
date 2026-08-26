@@ -125,6 +125,7 @@ Fold the output of this note back into the
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sea State](../conditions/sea-state.md)

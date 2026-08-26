@@ -454,6 +454,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

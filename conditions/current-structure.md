@@ -360,6 +360,7 @@ become primary).
 - [Rosarito / Descanso](../locations/rosarito-descanso.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [San Quintin](../locations/san-quintin.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

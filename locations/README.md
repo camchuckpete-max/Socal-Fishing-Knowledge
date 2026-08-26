@@ -343,6 +343,7 @@
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md) **[SoCal only]** — The mainland-facing side of San Clemente Island, running N→S from Northwest Harbor at the northwest end to the Pyramid Cove / Pyramid Head end, with seven chart
 - [San Clemente Kelp (mainland city)](san-clemente-kelp.md) **[SoCal only]** — A charted spot at 33°24.450'N 117°38.140'W (cameron), in the Dana Point zone.
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md) **[SoCal only]** — The built-structure zone off central San Diego: 18 charted waypoints in the spot library (cameron), in three groups — Torrey Pines AR 1–2, the twelve-point Paci
+- [San Juan Seamount](san-juan-seamount.md) **[SoCal only]** — A zone is a run grouping.
 - [San Martin Island Anchorage](san-martin-island-anchorage.md) **[Baja only]** — A charted spot at 30°29.180'N 116°06.150'W (cameron), in the San Quintin zone.
 - [San Martin Island Natural Jetty Kelp](san-martin-island-natural-jetty-kelp.md) **[Baja only]** — A charted spot at 30°29.060'N 116°05.910'W (cameron), in the San Quintin zone.
 - [San Mateo Point](san-mateo-point.md) **[SoCal only]** — A charted spot at 33°22.960'N 117°36.800'W (cameron), in the Dana Point zone.
@@ -421,5 +422,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 408 notes exceed the 30-node cap._
+_Map skipped: 409 notes exceed the 30-node cap._
 <!-- mermaid:end -->

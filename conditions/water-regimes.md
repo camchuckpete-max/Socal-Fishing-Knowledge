@@ -112,6 +112,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Southern California Bight](../locations/socal-bight.md)

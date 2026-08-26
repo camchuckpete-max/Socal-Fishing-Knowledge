@@ -512,6 +512,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Search and Glassing](search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

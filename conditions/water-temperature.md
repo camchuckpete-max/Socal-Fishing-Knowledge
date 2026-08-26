@@ -207,6 +207,7 @@ doctrine above or add a SoCal-specific parameter.
 - [October](../seasonal/october.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [September](../seasonal/september.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)

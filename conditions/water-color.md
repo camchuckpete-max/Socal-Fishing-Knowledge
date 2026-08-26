@@ -184,6 +184,7 @@ water color.
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)

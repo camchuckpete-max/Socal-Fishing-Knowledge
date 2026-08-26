@@ -463,6 +463,7 @@ current "should" carry everything astern.
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)

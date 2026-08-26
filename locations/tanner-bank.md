@@ -378,5 +378,6 @@ Per-trip detail and conditions are in
 - [Cortes Bank](cortes-bank.md)
 - [Evidence — Tanner Bank](evidence/tanner-bank.md)
 - [Hancock Bank](hancock-bank.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

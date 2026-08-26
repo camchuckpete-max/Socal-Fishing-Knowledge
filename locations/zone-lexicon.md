@@ -168,6 +168,7 @@ many *drops*.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [San Nicolas Island](san-nicolas-island.md)
 - [San Quintin](san-quintin.md)
 - [Santa Barbara Island](santa-barbara-island.md)

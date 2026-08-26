@@ -403,6 +403,7 @@ the *bottom*, not the fish.
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Sculpin (Venomous Spine) Handling](../fish-care/sculpin-handling.md)

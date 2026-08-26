@@ -178,6 +178,7 @@ note for how to interpret bloom age and how to aim for the pre-turnover window.
 - [La Jolla](../locations/la-jolla.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)

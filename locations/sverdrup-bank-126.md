@@ -314,5 +314,6 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 
 - [Albatross Knoll](albatross-knoll.md)
 - [Hancock Bank](hancock-bank.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

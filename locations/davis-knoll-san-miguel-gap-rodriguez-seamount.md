@@ -221,6 +221,7 @@ Trip reports and per-source provenance:
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Evidence — Davis Knoll / San Miguel Gap / Rodriguez Seamount](evidence/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Rodriguez Seamount](rodriguez-seamount.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [San Miguel Gap](san-miguel-gap.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)

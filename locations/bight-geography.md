@@ -99,6 +99,7 @@ share it).
 - [LA - 270 / 286](la-270-286.md)
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 - [September](../seasonal/september.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)

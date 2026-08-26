@@ -244,6 +244,7 @@ Trip reports and per-source provenance:
 - [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Potato Bank](potato-bank.md)
+- [San Juan Seamount](san-juan-seamount.md)
 - [Seabass Rock](seabass-rock.md)
 - [Southern California Bight](socal-bight.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)

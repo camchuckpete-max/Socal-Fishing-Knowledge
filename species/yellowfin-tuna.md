@@ -594,6 +594,7 @@ the bluefin nearby become more cooperative too.**
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
+- [San Juan Seamount](../locations/san-juan-seamount.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Searcher 40 lb All-Around Tuna Outfit (Steve Carson, Penn/SearcherSportfishing, 2022-02-03)](../tackle/searcher-40lb-all-around-tuna-outfit.md)
