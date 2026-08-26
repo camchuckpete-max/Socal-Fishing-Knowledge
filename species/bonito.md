@@ -264,6 +264,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [101 / 425](../locations/101-425.md)
 - [209 / 312](../locations/209-312.md)
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)

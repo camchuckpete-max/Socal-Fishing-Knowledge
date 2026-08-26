@@ -4,6 +4,7 @@
 <!-- index:start -->
 ## Index
 
+- [101 / 425](101-425.md) **[Baja only]** — A zone is a run grouping.
 - [1010 Trench / 378 / 213](1010-trench-378-213.md) **[Baja only]** — A zone is a run grouping.
 - [1010 Trench](1010-trench.md) **[Baja only]** — A charted spot at 31°45.833'N 117°44.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
 - [1067 Knuckle](1067-knuckle.md) **[Baja only]** — A charted spot at 31°37.000'N 117°53.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
@@ -402,5 +403,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 389 notes exceed the 30-node cap._
+_Map skipped: 390 notes exceed the 30-node cap._
 <!-- mermaid:end -->
