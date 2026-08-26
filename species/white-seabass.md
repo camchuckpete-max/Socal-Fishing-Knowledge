@@ -282,6 +282,7 @@ into the spot once the current read right.
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](../locations/12-mile-reef.md)
 - [172 / 125](../locations/172-125.md)
 - [289 / 284](../locations/289-284.md)
 - [311 (Trask Knoll)](../locations/311.md)

@@ -263,6 +263,7 @@ shortages, where the barge isn't an option.
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](../locations/12-mile-reef.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](bait-tanks.md)

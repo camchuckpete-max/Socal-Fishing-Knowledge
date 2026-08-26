@@ -93,6 +93,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](../locations/12-mile-reef.md)
 - [April](../seasonal/april.md)
 - [August](../seasonal/august.md)
 - [Barred Sand Bass](../species/sand-bass.md)

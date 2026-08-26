@@ -258,6 +258,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](12-mile-reef.md)
 - [172 / 125](172-125.md)
 - [474 / 711](474-711.md)
 - [Arch Reef (caution — boilers in big swell)](arch-reef.md)

@@ -206,6 +206,7 @@ differently from one another. Thirty-eight North County and eighteen San Diego
 waypoints are charted with no fishing doctrine attached to any of them.
 
 <!-- children:start -->
+- [12 Mile Reef](12-mile-reef.md)
 - [172 / 125](172-125.md)
 - [209 / 312](209-312.md)
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
@@ -308,6 +309,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](12-mile-reef.md)
 - [311 (Trask Knoll)](311.md)
 - [43 / 91 / 300](43-91-300.md)
 - [483/500 / 437](483-500-437.md)

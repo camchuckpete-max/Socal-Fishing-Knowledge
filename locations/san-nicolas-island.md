@@ -226,6 +226,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
+- [12 Mile Reef](12-mile-reef.md)
 - [172 / 125](172-125.md)
 - [311 (Trask Knoll)](311.md)
 - [474 / 711](474-711.md)

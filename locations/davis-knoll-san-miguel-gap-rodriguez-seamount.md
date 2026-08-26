@@ -214,6 +214,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](12-mile-reef.md)
 - [311 (Trask Knoll)](311.md)
 - [Arguello Canyon](arguello-canyon.md)
 - [Davis Knoll](davis-knoll.md)

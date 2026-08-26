@@ -363,6 +363,7 @@ see [making bait](making-bait.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](../locations/12-mile-reef.md)
 - [209 / 312](../locations/209-312.md)
 - [<Your Boat>](../profiles/_template/boat.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)

@@ -70,6 +70,7 @@ and [bird reading](../conditions/bird-reading.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](../locations/12-mile-reef.md)
 - [289 / 284](../locations/289-284.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

@@ -486,6 +486,7 @@ alongside soaking [dropper-loop](dropper-loop.md) rods.
 <!-- backlinks:start -->
 ## Linked from
 
+- [12 Mile Reef](../locations/12-mile-reef.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [California Halibut](../species/california-halibut.md)

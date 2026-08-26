@@ -356,7 +356,7 @@ by their builders after the transform phase drains.
 | locations/sverdrup-bank-126.md | geo | transformed | gaps:15 spots:2 | zone page written: Sverdrup Bank (126) + Albatross Knoll, corpus-silent, positions and ladder only |
 | locations/tanner-bank.md | geo | transformed | gaps:9 fc:1 spots:2 | apply-with-changes: corpus-rich outer-banks zone page (Tanner + Cortes) from 16 sources; coordinates, 8 derived distances, census and 10 cited parameters verified; 3 fixes (2 quote-fidelity, 1 conflicting Long Beach run distance now ledgered) |
 | locations/hancock-bank.md | geo | transformed | gaps:13 stubs:1 spots:2 | zone page written: Hancock Bank + Northeast Bank, corpus-silent two-bank zone at the SW corner of the charted library; positions, ladder arithmetic and neighbour distances only |
-| locations/12-mile-reef.md | geo | pending |  | zone: 1 spots, 0 notes |
+| locations/12-mile-reef.md | geo | transformed | gaps:14 stubs:2 fc:0 spots:1 | zone page written: the 12 Mile Reef, a single-mark zone at the north end of the region in the Santa Barbara Channel (page did not exist). Corpus names the mark nowhere, so this is a position-and-ladder page: charted position (the mark itself, not a computed centre), the census arithmetic that made a lone spot into a zone (nearest charted position 35.8 nm, past both the 12 nm cluster cap and the 25 nm attach radius), the distance-name reading that the chart cannot check here, and the region's second-most-isolated-zone ranking. Scoped-adjacent material only, all labelled as stated for the… |
 | locations/san-juan-seamount.md | geo | pending |  | zone: 1 spots, 0 notes |
 | locations/bumps.md | geo | pending |  | zone: 1 spots, 2 notes |
 | locations/380.md | geo | pending |  | zone: 1 spots, 0 notes |
