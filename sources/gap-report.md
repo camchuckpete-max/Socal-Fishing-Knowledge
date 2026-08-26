@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2065 flagged gaps, 241 flagged stubs, 982 unknown infobox values._
+_Totals: 2089 flagged gaps, 250 flagged stubs, 985 unknown infobox values._
 
 ## species/
 
@@ -1832,6 +1832,22 @@ _Totals: 2065 flagged gaps, 241 flagged stubs, 982 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/east-cape.md**
+  - `Getting there`: gap — closures, protected areas, park boundaries,
+  - `Getting there`: gap — the harbor. Boats are boarded at a slip
+  - `Getting there`: gap — running your own boat here, and what a day
+  - `Structure & bathymetry`: gap — any charted position in this zone.
+  - `Structure & bathymetry`: gap — bathymetry of any kind — how far the shelf
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — any month from May through November. The
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — tide, moon, current and water temperature for
+  - `How it fishes`: gap — wind and sea state as a pattern. Days are
+  - `How it fishes`: gap — lure, leader and speed detail for the offshore
+  - `Spots`: gap — **Los Barriles, Punta Pescadero, La Ribera and
 - **locations/east-end-buoy.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2359,6 +2375,21 @@ _Totals: 2065 flagged gaps, 241 flagged stubs, 982 unknown infobox values._
   - `What's there`: gap — whether white seabass, halibut, barracuda,
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program
+- **locations/la-paz.md**
+  - `Getting there`: gap — closures, protected areas, park boundaries or
+  - `Getting there`: gap — the harbor itself — no ramp, fuel, slip,
+  - `Getting there`: gap — running your own boat here, and what a day
+  - `Structure & bathymetry`: gap — any charted position anywhere in this zone.
+  - `Structure & bathymetry`: gap — bathymetry beyond El Bajo's 50–80 ft — what
+  - `What's there`: gap — any cabrilla-specific technique, hook or leader detail in this zone; every documented cabrilla here came incidentally off a program aimed at something else |
+  - `What's there`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — any sonar or meter signature for any species
+  - `What's there`: gap — any month between December and September.
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: gap — tide and moon for this zone. El Bajo's depth
+  - `How it fishes`: gap — a start-and-move order for the zone — which
 - **locations/lab.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2611,6 +2642,14 @@ _Totals: 2065 flagged gaps, 241 flagged stubs, 982 unknown infobox values._
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
   - `What's there`: gap — | — | — |
   - `How it fishes`: gap — . The zone-level program is on [Coronado Islands](coronado-islands.md).
+  - infobox `structure_type`: unknown
+  - infobox `depth_band`: unknown
+  - infobox `distance_nm`: unknown
+- **locations/northeast-bank.md**
+  - `Getting there`: gap — the run, the approach, and where to start.
+  - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
+  - `What's there`: gap — | — | — |
+  - `How it fishes`: gap — . The zone-level program is on [Hancock Bank](hancock-bank.md).
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown

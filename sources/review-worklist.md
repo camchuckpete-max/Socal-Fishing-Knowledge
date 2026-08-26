@@ -742,4 +742,13 @@ by their builders after the transform phase drains.
 | locations/el-arco.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/the-petroglyph.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/thetis-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/beach-in-front-of-buena-vista-beach-resort.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ciraolo-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/kabul-eidos-kabul-movie.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-paz-bait-containers.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-paz-roosterfish-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-paz-shared-high-spot.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/lighthouse-lighthouse-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/rink-on-area.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/the-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
