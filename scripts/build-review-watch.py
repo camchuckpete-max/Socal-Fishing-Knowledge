@@ -81,6 +81,12 @@ PHASE_LABEL = {"geo": "geo", "transform": "transform", "relocate": "relocations"
                "gazetteer": "gazetteer", "factcheck": "fact-check",
                "cluster": "cluster"}
 
+# Per-tier cost, mirroring scripts/review/next-note.py COST — the dispatcher
+# spends a chunk budget in these units, so throughput must be measured in them
+# too or a run of cheap notes reads as a speed-up.
+UNIT_COST = {"full": 5, "standard": 2, "light": 1, "geo": 2, "gazetteer": 2,
+             "cluster": 3, "relocate": 1}
+
 GH = "https://github.com/camchuckpete-max/Socal-Fishing-Knowledge"
 BRANCH = "claude/knowledge-base-review-g00k8s"
 DIFF_LINE_CAP = 400          # per note; overflow is reported, not hidden
@@ -236,10 +242,37 @@ def build(base: str, runs_path: str | None) -> dict:
                     if not c[2].startswith("review: progress checkpoint")
                     and not c[2].startswith("review: guard sweep")]
     last_age_min = int((now - rcommits[0][1]) / 60) if rcommits else None
-    recent6 = [c for c in unit_commits if now - c[1] < 6 * 3600]
-    rate = len(recent6) / 6.0
-    remaining = statuses.get("pending", 0) + statuses.get("transformed", 0)
-    eta_h = round(remaining / rate) if rate > 0.2 else None
+
+    # Throughput, in POINTS per WORKING hour.
+    #
+    # It used to be units per wall-clock hour over a fixed 6h window, which is
+    # wrong twice. The fleet does not run continuously — it stalled for 27
+    # hours on a credit limit and idles between chunks — so wall-clock hours
+    # count time nobody was working and the estimate inflates without bound
+    # (Cameron: "It's counting the day it was down so I have no idea when it'll
+    # be done"). And a unit is not a fixed amount of work: a full-tier species
+    # router is 5 points against a light note's 1, so a run of cheap units
+    # flatters the rate and a run of routers depresses it.
+    #
+    # Working time is the sum of gaps between consecutive unit commits with
+    # each gap CAPPED: a gap longer than the cap means the fleet was idle,
+    # dead, or paused, not slow. What is left is time it was actually working.
+    IDLE_GAP = 25 * 60          # longer than any single unit has ever taken
+    cost_of = {r["n"]: UNIT_COST.get(r["t"], 1) for r in wl}
+    window = sorted((c for c in unit_commits if now - c[1] < 36 * 3600),
+                    key=lambda c: c[1])
+    pts, active_s = 0, 0
+    for i, c in enumerate(window):
+        m = re.match(r"^review: (\S+\.md) ", c[2])
+        pts += cost_of.get(m.group(1), 1) if m else 1
+        if i:
+            active_s += min(c[1] - window[i - 1][1], IDLE_GAP)
+    active_h = active_s / 3600
+    rate = pts / active_h if active_h > 0.25 else 0.0
+
+    remaining_pts = sum(UNIT_COST.get(r["t"], 1) for r in wl if r["s"] == "pending")
+    remaining_pts += sum(1 for r in wl if r["s"] == "transformed")
+    eta_h = round(remaining_pts / rate) if rate > 0.5 else None
 
     note_commit: dict[str, str] = {}
     unit_order: list[str] = []          # most recent first
@@ -918,9 +951,21 @@ const segs=[['done',C.done||0,'var(--good)'],['fact-checked',C['fact-checked']||
   ['skipped',C.skipped||0,'var(--muted)'],['pending',C.pending||0,'var(--pend)']];
 document.getElementById('meter').innerHTML=segs.filter(s=>s[1])
   .map(([k,v,c])=>`<span style="flex:${v};background:${c}" title="${k}: ${v}"></span>`).join('');
-document.getElementById('pcttext').textContent=
-  (D.totalUnits?Math.round(D.processedUnits/D.totalUnits*100):0)+'%'+
-  (D.etaH?` · ~${D.etaH}h left`:'')+` · ${D.rateH}/h`;
+(()=>{
+  const el=document.getElementById('pcttext');
+  const pct=(D.totalUnits?Math.round(D.processedUnits/D.totalUnits*100):0)+'%';
+  // "left" is WORKING time, not calendar time: the fleet idles between chunks
+  // and has sat dead for a day on a credit limit, and counting that made the
+  // estimate meaningless. Say which one this is, right on the label.
+  el.textContent = D.etaH ? `${pct} · ~${D.etaH}h of run time left · ${D.rateH} pts/h`
+                          : `${pct} · rate unknown`;
+  el.title = D.etaH
+    ? `${D.rateH} points per hour the fleet is actually working, measured over `
+      +`recent units with idle gaps excluded. Calendar time will be longer: `
+      +`chunks pace themselves, and a pause or a credit limit stops the clock `
+      +`entirely. A point is one light note; a species router is five.`
+    : 'Not enough recent activity to estimate a rate.';
+})();
 document.getElementById('tally').innerHTML=segs.filter(s=>s[1])
   .map(([k,v])=>`<span>${k} <b>${v.toLocaleString()}</b></span>`).join('');
 
