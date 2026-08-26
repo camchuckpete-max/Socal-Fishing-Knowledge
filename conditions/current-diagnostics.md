@@ -169,6 +169,7 @@ framework this SoCal-bight note otherwise focuses on.
 
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Bass Structure](../locations/bass-structure.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Current Structure](current-structure.md)

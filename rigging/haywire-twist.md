@@ -341,6 +341,7 @@ Video: https://www.youtube.com/watch?v=lm7D9Tlc7Po
 ## Linked from
 
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](../tackle/tackle-express-accurate-tern-2-reel.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [California Barracuda](../species/barracuda.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

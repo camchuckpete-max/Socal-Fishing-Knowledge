@@ -1079,6 +1079,7 @@ covered above, not a new tool.
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](bait-and-switch.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cameron's Boat — Panga Marine Marquesas 22](../profiles/cameron/boat.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)

@@ -147,6 +147,7 @@
 - [The Bump](bump.md) **[SoCal only]** — A charted spot at 32°51.490'N 117°16.910'W (cameron), in the La Jolla zone.
 - [The Bumps](bumps.md) **[Baja only]** — A zone is a run grouping.
 - [Buoy 3 Hardbottom](buoy-3-hardbottom.md) **[SoCal only]** — A charted spot at 32°38.250'N 117°14.500'W (cameron), in the Point Loma zone.
+- [Cabo San Lucas](cabo-san-lucas.md) **[Baja only]** — [Baja only] — The charter end of Baja Pacific — South, at the cape itself.
 - [Can Dump Kelp](can-dump-kelp.md) **[SoCal only]** — A charted spot at 33°19.819'N 118°18.416'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Cape Cortes](cape-cortes.md) **[SoCal only]** — A charted spot at 33°25.701'N 118°31.996'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Carlsbad AR](carlsbad-ar.md) **[SoCal only]** — The Carlsbad AR series — 12 charted waypoints on one artificial-reef complex, in the North County artificial reefs zone.
@@ -426,5 +427,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 413 notes exceed the 30-node cap._
+_Map skipped: 414 notes exceed the 30-node cap._
 <!-- mermaid:end -->

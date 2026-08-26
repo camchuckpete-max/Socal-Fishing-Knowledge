@@ -753,6 +753,7 @@ clips above.)
 
 - ["Wind in Your Face" — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Bait Tanks](bait-tanks.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Chunking](../techniques/chunking.md)

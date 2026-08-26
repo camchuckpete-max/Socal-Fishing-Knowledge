@@ -318,6 +318,7 @@ Trip reports and per-source provenance:
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
+- [Cabo San Lucas](cabo-san-lucas.md)
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)

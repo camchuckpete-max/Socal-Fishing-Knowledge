@@ -428,6 +428,7 @@ current "should" carry everything astern.
 - [Bird Reading](../conditions/bird-reading.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)

@@ -102,6 +102,7 @@ SoCal source — kept region-labeled rather than treated as filling them.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](trolling.md)

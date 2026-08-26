@@ -104,6 +104,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
+- [Cabo San Lucas](cabo-san-lucas.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)

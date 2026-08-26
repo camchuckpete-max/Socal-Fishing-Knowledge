@@ -163,6 +163,7 @@ water color.
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

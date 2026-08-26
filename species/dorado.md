@@ -482,6 +482,7 @@ grade, or technique detail given for the dorado specifically.
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [California Halibut](california-halibut.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
