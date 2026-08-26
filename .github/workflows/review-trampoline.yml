@@ -10,8 +10,7 @@ name: review-trampoline
 # the worklist is the resume point — but the chain needs an outside nudge to
 # resume when the limit window resets. This is that nudge: every 2 hours,
 # if the chain is idle, rows remain, and there is no STOP file, dispatch a
-# fresh chunk. Failed attempts during a limit window cost pennies (the agent
-# fails on its first API call).
+# fresh chunk.
 #
 # Retire this file (or disable the workflow) when the review merges at GATE B.
 #
@@ -29,13 +28,19 @@ name: review-trampoline
 #
 # 2026-08-26 (restart): the chain stalled on 08-25 at 13:26 when Cameron's
 # subscription hit its limit — the fleet authenticates as him, so his credit
-# wall was the fleet's. This trampoline behaved correctly throughout: it kept
-# bouncing every 2 hours and each attempt died on its first API call, exactly
-# as designed. Two things changed with the restart: the model is now chosen
-# per tier by scripts/review/next-note.py, and PAUSE-AFTER-GEO holds the chain
-# when the geographic ladder finishes so Cameron can review the map before the
-# transform tail. This file honours that pause the same way it honours STOP —
-# otherwise it would bounce a chunk every 2 hours that exits at the gate.
+# wall was the fleet's. Two things changed with the restart: the model is now
+# chosen per tier by scripts/review/next-note.py, and PAUSE-AFTER-GEO holds
+# the chain when the geographic ladder finishes so Cameron can review the map
+# before the transform tail. This file honours that pause the way it honours
+# STOP.
+#
+# 2026-08-26 (backoff): during that outage this trampoline bounced 15 times
+# over 27 hours, and not one attempt could have worked — the agent died on its
+# first API call every time. It now counts the checkpoint-only commits at the
+# branch tip (a streak means no work is coming out) and backs off to one
+# attempt every 6h, then every 24h, instead of hammering every 2h. It backs
+# OFF rather than stopping, because resuming by itself when the limit window
+# resets is the entire reason it exists.
 
 on:
   schedule:
@@ -43,7 +48,8 @@ on:
   workflow_dispatch:
   # Immediate kick: touching this file bounces the chain now (a session
   # without actions:write cannot dispatch; new cron schedules can also skip
-  # their first slots).
+  # their first slots). This also overrides the backoff — a manual dispatch or
+  # a touch is Cameron saying "try it now".
   push:
     paths:
       - .github/workflows/review-trampoline.yml
@@ -64,11 +70,13 @@ jobs:
       BRANCH: claude/knowledge-base-review-g00k8s
       GH_TOKEN: ${{ github.token }}
       GH_REPO: ${{ github.repository }}
+      FORCED: ${{ github.event_name != 'schedule' }}
     steps:
       - name: Checkout review branch
         uses: actions/checkout@v4
         with:
           ref: claude/knowledge-base-review-g00k8s
+          fetch-depth: 100
 
       - name: Bounce if stalled
         run: |
@@ -91,6 +99,41 @@ jobs:
             echo "Standing down until Cameron deletes it."
             exit 0
           fi
+
+          # --- dead-fleet backoff -------------------------------------------
+          # When the subscription hits its limit the agent dies on its first
+          # API call, the chunk still writes a progress checkpoint, and this
+          # trampoline bounces another one two hours later. On 08-25 that ran
+          # for 27 hours and 15 consecutive bounces, none of which could have
+          # worked.
+          #
+          # The signal needs no API access: count the checkpoint-only commits
+          # at the branch tip. Real work breaks the streak, so a long one means
+          # nothing has come out for that many chunks. Two is a hiccup; three
+          # is a wall.
+          dead=$(git log --format='%s' -60 \
+                 | awk '/^review: progress checkpoint$/{n++; next} {exit} END{print n+0}')
+          if [ "${dead:-0}" -ge 3 ] && [ "$FORCED" != "true" ]; then
+            if [ "$dead" -ge 8 ]; then need=24; else need=6; fi
+            last=$(gh run list --workflow=review-chunk.yml --limit 1 \
+                     --json createdAt --jq '.[0].createdAt' 2>/dev/null || echo "")
+            if [ -n "$last" ]; then
+              age_h=$(( ( $(date -u +%s) - $(date -u -d "$last" +%s) ) / 3600 ))
+            else
+              age_h=99
+            fi
+            if [ "$age_h" -lt "$need" ]; then
+              echo "::warning::No work out of the fleet for $dead consecutive chunks — almost certainly the subscription limit. Backing off to one attempt every ${need}h (last was ${age_h}h ago)."
+              echo "Nothing is lost: per-note commits mean the worklist is the resume point."
+              echo "To retry immediately, run this workflow manually or touch it on main."
+              exit 0
+            fi
+            echo "Backoff window elapsed (${age_h}h >= ${need}h after $dead dead chunks) —"
+            echo "trying a single bounce in case the limit has reset."
+          elif [ "${dead:-0}" -ge 3 ]; then
+            echo "$dead dead chunks, but this run was triggered by hand — bouncing anyway."
+          fi
+
           inflight=$(gh run list --workflow=review-chunk.yml --status=in_progress \
                        --json databaseId --jq 'length' 2>/dev/null || echo 0)
           queued=$(gh run list --workflow=review-chunk.yml --status=queued \
