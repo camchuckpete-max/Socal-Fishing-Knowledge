@@ -6,7 +6,7 @@ name: publish-review-watch
 # Successor to publish-bight-watch.yml (batch 3, retired) on the same Pages
 # site. Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 #
-# Cameron's review surface for the transform job, v3.3 (2026-08-26): the
+# Cameron's review surface for the transform job, v3.4 (2026-08-26): the
 # Bight Watch chassis, now with a Map view — all 391 charted spots pinned at
 # their real coordinates with the jurisdiction/region/zone hierarchy drawn as
 # colours and hulls, and a pin click that opens the spot's article or, where
@@ -15,12 +15,17 @@ name: publish-review-watch
 # offshore and bathymetry is what explains them; OSM streets are one click
 # away for ports and the coastal zones.
 #
-# v3.3: pins overlap badly at low zoom — 281 of the 391 sit within 6px of
-# another one and the worst cluster stacks 23, against a 4px marker — so
-# Leaflet handed each click to whichever marker it drew last and the spot you
-# aimed at was not the article you got. A click now collects every visible pin
-# within 7px and, where several overlap, names them and marks which have
-# articles rather than guessing.
+# v3.4: clicking a pin appeared to do nothing. Three faults, stacked:
+#   1. The slide-over carried z-index:20 while Leaflet's panes run to 400 and
+#      the map chrome sits at 1200 — so the article opened correctly every
+#      time and was PAINTED UNDER the map. Zooming clears the panes for a
+#      frame, which is the split second it could be seen.
+#   2. The per-marker click handler raced the map's background handler: the
+#      marker click built the overlap chooser, then the map click cleared it
+#      in the same frame. One handler on the map now owns every click.
+#   3. A pin is 4px across, so a miss by 5px counted as a background click.
+#      Anything within 14px now counts, nearest first, capped at 8 — the
+#      Coronados put 15 spots inside one click radius at region zoom.
 #
 # Leaflet is vendored + inlined by the builder, so the page carries no runtime
 # CDN dependency. Map TILES are fetched at view time, which is why this lives
