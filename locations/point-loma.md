@@ -223,6 +223,7 @@ Trip reports and per-source provenance: [evidence file](evidence/point-loma.md).
 - [5 Tanks](5-tanks.md)
 - [Buoy 3 Hardbottom](buoy-3-hardbottom.md)
 - [College Area / Sunset Cliffs](college-area-sunset-cliffs.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Evidence — Point Loma](evidence/point-loma.md)
 - [Green Tank](green-tank.md)
 - [Hill Street](hill-street.md)

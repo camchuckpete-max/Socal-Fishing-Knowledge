@@ -177,6 +177,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 - [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Lower Cross](lower-cross.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)

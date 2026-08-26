@@ -113,6 +113,7 @@ Fold the output of this note back into the
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Day-Plan Protocol](day-plan-protocol.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

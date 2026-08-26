@@ -195,6 +195,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [Dana Point](../locations/dana-point.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](../locations/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — LA - 270 / 286](../locations/evidence/la-270-286.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

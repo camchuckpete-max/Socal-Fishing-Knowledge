@@ -121,6 +121,7 @@ Trip reports and per-source provenance:
 - [Cedros / San Benitos](cedros-island.md)
 - [Coronado Canyon](coronado-canyon.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [East of Pukey Point (yellowtail & rockfish)](east-of-pukey-point.md)
 - [Evidence — Coronado Islands](evidence/coronado-islands.md)
 - [Imperial Beach](imperial-beach.md)

@@ -105,6 +105,7 @@ Trip reports and per-source provenance:
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)

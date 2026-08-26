@@ -83,6 +83,7 @@ the fleet behavior correctly before you run to it. See
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — The Boot (504) / 307](../locations/evidence/boot-504-307.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Southern California Bight](../locations/socal-bight.md)

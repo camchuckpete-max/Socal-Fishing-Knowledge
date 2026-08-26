@@ -83,6 +83,7 @@ share it).
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Evidence — 209 / 312](evidence/209-312.md)
 - [Evidence — 289 / 284](evidence/289-284.md)
 - [Evidence — 474 / 711](evidence/474-711.md)

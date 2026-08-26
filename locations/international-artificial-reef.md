@@ -204,6 +204,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Evidence — International Artificial Reef](evidence/international-artificial-reef.md)
 - [Imperial Beach](imperial-beach.md)
 - [International Reef A](international-reef-a.md)

@@ -186,6 +186,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
 - [February–March](../seasonal/february-march.md)

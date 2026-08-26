@@ -216,6 +216,7 @@ Trip reports and per-source provenance:
 
 - [Arguello Canyon](arguello-canyon.md)
 - [Davis Knoll](davis-knoll.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Evidence — Davis Knoll / San Miguel Gap / Rodriguez Seamount](evidence/davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [Rodriguez Seamount](rodriguez-seamount.md)
 - [San Miguel Gap](san-miguel-gap.md)

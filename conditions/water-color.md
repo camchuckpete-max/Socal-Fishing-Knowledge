@@ -165,6 +165,7 @@ water color.
 - [Dana Point](../locations/dana-point.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)

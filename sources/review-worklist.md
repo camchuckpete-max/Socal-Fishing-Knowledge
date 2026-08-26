@@ -348,7 +348,7 @@ by their builders after the transform phase drains.
 | locations/289-284.md | geo | transformed | gaps:13 stubs:1 spots:2 | applied with 5 verifier fixes: 1 cite misattribution, 1 direction error (seaward to inshore), 3 precision/scope wordings; all coordinates, distances and bearings independently recomputed and correct; census row unaltered |
 | locations/north-9-mile-bank-178.md | geo | transformed | gaps:16 stubs:4 fc:2 spots:2 | geo zone page verified against census + spot library and 4 transcripts; two derived-distance errors fixed; 2 fact-check rows ledgered (South/Lower 9 Mile region anomaly, unmapped 'upper nine' reading) |
 | locations/south-9-mile-bank-439.md | geo | transformed | gaps:12 fc:3 | zone page verified against the spot library and transcripts; 3 inverted bearings fixed, 3 cite-scope defects flagged |
-| locations/e-butterfly-san-salvador-knoll.md | geo | pending |  | zone: 2 spots, 0 notes |
+| locations/e-butterfly-san-salvador-knoll.md | geo | transformed | gaps:11 spots:2 | apply-with-changes: new position-and-ladder zone page (zero corpus coverage); coordinates + census verified, ~30 distances recomputed; 5 fixes (distance mis-anchor, 2 false superlatives, over-broad universal, miscited source) |
 | locations/101-425.md | geo | pending |  | zone: 2 spots, 0 notes |
 | locations/475-knuckle-upper-finger-bank.md | geo | pending |  | zone: 2 spots, 1 notes |
 | locations/banda-bank-todos-santos-island.md | geo | pending |  | zone: 2 spots, 0 notes |

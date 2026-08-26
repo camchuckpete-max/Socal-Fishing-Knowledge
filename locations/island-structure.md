@@ -169,6 +169,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Current Structure](../conditions/current-structure.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Catalina Island, Front Side](evidence/catalina-island-front-side.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

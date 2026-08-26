@@ -181,6 +181,7 @@
 - [Dumping Grounds](dumping-grounds.md) **[Baja only]** — A charted spot at 31°42.000'N 118°33.000'W (cameron), in the 372 / 245 / 250 zone.
 - [The Dunes](dunes.md) **[SoCal only]** — A charted spot at 32°59.460'N 118°35.370'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Dutch Harbor](dutch-harbor.md) **[SoCal only]** — A charted spot at 33°13.032'N 119°29.229'W (cameron), in the San Nicolas Island zone.
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md) **[SoCal only]** — A zone is a run grouping.
 - [Eagle Reef Buoy](eagle-reef-buoy.md) **[SoCal only]** — A charted spot at 33°27.620'N 118°30.395'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Eagle Rock](eagle-rock.md) **[SoCal only]** — A charted spot at 33°28.350'N 118°36.320'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [East 400](east-400.md) **[Baja only]** — A charted spot at 31°13.633'N 118°00.750'W (cameron), in the 483/500 / 437 zone.
@@ -401,5 +402,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 388 notes exceed the 30-node cap._
+_Map skipped: 389 notes exceed the 30-node cap._
 <!-- mermaid:end -->

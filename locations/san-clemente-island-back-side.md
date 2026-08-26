@@ -226,6 +226,7 @@ Trip reports and per-source provenance:
 - [9 Fathom Spot](9-fathom-spot.md)
 - [China Point (San Clemente Is.)](china-point.md)
 - [Dana Point](dana-point.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Eel Point](eel-point.md)
 - [Evidence — San Clemente Island, Back Side](evidence/san-clemente-island-back-side.md)
 - [Lost Point](lost-point.md)

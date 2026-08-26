@@ -488,6 +488,7 @@ grade, or technique detail given for the dorado specifically.
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado & General Fish Care](../fish-care/dorado-and-general.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — 289 / 284](../locations/evidence/289-284.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

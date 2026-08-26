@@ -124,6 +124,7 @@ Requirements before you stop:
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
+- [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — North 9 Mile Bank / 178](../locations/evidence/north-9-mile-bank-178.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)

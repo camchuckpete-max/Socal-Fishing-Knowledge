@@ -202,6 +202,7 @@ Trip reports and per-source provenance: [evidence file](evidence/la-jolla.md).
 - [51 / 181 / 138](51-181-138.md)
 - [81 / 381](81-381.md)
 - [Crystal Pier (stay south of MPA at 32 47.945)](crystal-pier.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Evidence — La Jolla](evidence/la-jolla.md)
 - [Imperial Beach](imperial-beach.md)
 - [La Jolla Canyon](la-jolla-canyon.md)

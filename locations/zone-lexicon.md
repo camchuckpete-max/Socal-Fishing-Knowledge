@@ -143,6 +143,7 @@ many *drops*.
 - [Colonet](colonet.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — 209 / 312](evidence/209-312.md)
 - [Evidence — 289 / 284](evidence/289-284.md)
