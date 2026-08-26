@@ -297,6 +297,7 @@ for locating wahoo specifically. General method:
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [DTX Minnow](../lures/dtx-minnow.md)
+- [East Cape](../locations/east-cape.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Guadalupe](../locations/guadalupe.md)

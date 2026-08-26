@@ -201,6 +201,7 @@
 - [Eagle Reef Buoy](eagle-reef-buoy.md) **[SoCal only]** — A charted spot at 33°27.620'N 118°30.395'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Eagle Rock](eagle-rock.md) **[SoCal only]** — A charted spot at 33°28.350'N 118°36.320'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [East 400](east-400.md) **[Baja only]** — A charted spot at 31°13.633'N 118°00.750'W (cameron), in the 483/500 / 437 zone.
+- [East Cape](east-cape.md) **[Baja only]** — [Baja only] — The offshore end of Cortez South, and the one zone in the region where an open-water troll for tuna, wahoo, dorado and marlin is the whole day rat
 - [East End Buoy](east-end-buoy.md) **[SoCal only]** — A charted spot at 33°13.419'N 119°23.844'W (cameron), in the San Nicolas Island zone.
 - [East End Light](east-end-light.md) **[SoCal only]** — A charted spot at 33°18.027'N 118°18.883'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [East End Quarry](east-end-quarry.md) **[SoCal only]** — A charted spot at 33°19.320'N 118°18.230'W (cameron), in the Catalina Island — Front Side (W→E) zone.
@@ -429,5 +430,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 416 notes exceed the 30-node cap._
+_Map skipped: 417 notes exceed the 30-node cap._
 <!-- mermaid:end -->

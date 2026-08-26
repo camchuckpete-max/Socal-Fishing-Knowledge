@@ -410,6 +410,7 @@ the column, which is when foamers are most likely to start
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cameron's Tackle — Hard Baits, Casting & Jigging (owned)](../profiles/cameron/tackle.md)
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md)
+- [East Cape](../locations/east-cape.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)

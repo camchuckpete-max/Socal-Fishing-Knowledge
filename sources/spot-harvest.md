@@ -133,5 +133,11 @@ harvested.
 | La Paz shared high spot (unnamed) | locations/la-paz.md | Spots | day-2 ground, small enough that the fleet's boats stacked on it; sand bottom; flylined mackerel from outside the pack | `qM7iOO7fOBw` |
 | La Paz roosterfish beach (unnamed) | locations/la-paz.md | Spots | white-sand beach the fleet runs to and works laps off with a launched mackerel; no bite on the one documented attempt | `92y14x33etQ` |
 | La Paz bait containers | locations/la-paz.md | Spots | floating structure near the port where green mackerel are jigged before the run out; a stop, not a ground | `ORC1A68cEeM` |
+| The lighthouse / Lighthouse Point (East Cape) | locations/east-cape.md | Spots | named on camera as one of the operation's main fishing spots; a drop very close to shore holding sharks, roosterfish, jacks, cabrilla, dorado and reportedly yellowfin, all surf-castable; lighthouse structure dated to the 1980s | `mL4Ph7t0WcQ`, `YijeuGOYoVQ`, `mG8ZZLFGlT8`, `APsnsunT4gM` |
+| "The point" (East Cape offshore run) | locations/east-cape.md | Spots | the direction the boats run for the offshore troll — "to the point down here", then outside for about an hour; not stated to be the lighthouse point | `mG8ZZLFGlT8` |
+| "Kabul Eidos" / "Kabul movie" (East Cape, read as Cabo Pulmo) | locations/east-cape.md | Spots | the panga rooster slow-troll grounds and the inshore tuna ground "right outside of" it — under 2 mi off the beach in 52 ft; ASR-garbled two different ways, not confidently resolved | `6j7V34GYzzw`, `_c6UI3lGBVg` |
+| "Rink on area" (East Cape) | locations/east-cape.md | Spots | the stretch where the fleet's boats stack up on the offshore troll; ASR-garbled, unresolved | `84XPJAeH0Rw` |
+| "Ciraolo island" (East Cape bait run) | locations/east-cape.md | Spots | an island the fleet runs to for sardines when local bait is poor; ASR-garbled, unresolved, and may lie outside the zone | `APsnsunT4gM` |
+| The beach in front of Buena Vista Beach Resort | locations/east-cape.md | Spots | a ~20 lb dorado ate a live sardine ~100 yards off the sand in ~30 ft; rocks down the coast toward the resort get rip baits on the way home when the weather picks up | `APsnsunT4gM` |
 
 <!-- review:harvest:end -->

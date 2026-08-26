@@ -323,6 +323,7 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [Davis Knoll / San Miguel Gap / Rodriguez Seamount](davis-knoll-san-miguel-gap-rodriguez-seamount.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
+- [East Cape](east-cape.md)
 - [Evidence — Southern California Bight](evidence/socal-bight.md)
 - [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)

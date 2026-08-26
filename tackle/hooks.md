@@ -1011,6 +1011,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Cortez South](../locations/cortez-south.md)
 - [Drag Setting — General Judgment](drag-setting.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [East Cape](../locations/east-cape.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

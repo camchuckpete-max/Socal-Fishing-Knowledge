@@ -272,6 +272,7 @@ shortages, where the barge isn't an option.
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)
+- [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)

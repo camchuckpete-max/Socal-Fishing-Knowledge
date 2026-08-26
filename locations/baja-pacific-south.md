@@ -257,6 +257,7 @@ Trip reports and per-source provenance:
 - [Alijos Rocks](alijos-rocks.md)
 - [Cabo San Lucas](cabo-san-lucas.md)
 - [Cortez South](cortez-south.md)
+- [East Cape](east-cape.md)
 - [Evidence — Baja Pacific — South](evidence/baja-pacific-south.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Mexican waters](mexican-waters.md)

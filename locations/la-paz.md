@@ -291,5 +291,6 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Cortez South](cortez-south.md)
+- [East Cape](east-cape.md)
 - [Evidence — La Paz](evidence/la-paz.md)
 <!-- backlinks:end -->

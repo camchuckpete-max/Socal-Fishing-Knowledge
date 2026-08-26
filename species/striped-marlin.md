@@ -267,6 +267,7 @@ circle-hook rig detail logged in
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
+- [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — The Boot (504) / 307](../locations/evidence/boot-504-307.md)
 - [Flyline](../techniques/flyline.md)

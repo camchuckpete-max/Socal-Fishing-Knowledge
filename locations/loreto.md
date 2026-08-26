@@ -252,6 +252,7 @@ Trip reports and per-source provenance:
 
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Cortez South](cortez-south.md)
+- [East Cape](east-cape.md)
 - [Evidence — Loreto & Puerto Escondido](evidence/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Sea of Cortez](sea-of-cortez.md)

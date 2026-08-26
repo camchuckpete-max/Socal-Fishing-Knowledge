@@ -112,6 +112,7 @@ Trip reports and per-source provenance:
 - [Cortez North](cortez-north.md)
 - [Cortez South](cortez-south.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
+- [East Cape](east-cape.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Mexican waters](evidence/mexican-waters.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)

@@ -614,6 +614,7 @@ rods come tight on big bluefin together.
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
+- [East Cape](../locations/east-cape.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Guadalupe](../locations/evidence/guadalupe.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

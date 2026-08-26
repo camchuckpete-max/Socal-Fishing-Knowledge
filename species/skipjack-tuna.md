@@ -105,6 +105,7 @@ but hard-charging, they'll eat almost anything moving.
 - [Bluefin Tuna](bluefin-tuna.md)
 - [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Cortez South](../locations/cortez-south.md)
+- [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

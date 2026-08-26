@@ -824,6 +824,7 @@ confidence.
 - [Cortez South](../locations/cortez-south.md)
 - [Dana Point](../locations/dana-point.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)

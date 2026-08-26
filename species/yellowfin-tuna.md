@@ -573,6 +573,7 @@ the bluefin nearby become more cooperative too.**
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dorado (Mahi-Mahi)](dorado.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
+- [East Cape](../locations/east-cape.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)
