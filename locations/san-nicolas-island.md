@@ -244,4 +244,5 @@ Trip reports and per-source provenance:
 - [Potato Bank](potato-bank.md)
 - [Seabass Rock](seabass-rock.md)
 - [Southern California Bight](socal-bight.md)
+- [Sverdrup Bank (126)](sverdrup-bank-126.md)
 <!-- backlinks:end -->

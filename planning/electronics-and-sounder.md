@@ -518,6 +518,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)

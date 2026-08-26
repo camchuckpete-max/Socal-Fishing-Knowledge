@@ -168,6 +168,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

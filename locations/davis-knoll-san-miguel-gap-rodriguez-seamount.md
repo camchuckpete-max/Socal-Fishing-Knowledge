@@ -222,4 +222,5 @@ Trip reports and per-source provenance:
 - [Rodriguez Seamount](rodriguez-seamount.md)
 - [San Miguel Gap](san-miguel-gap.md)
 - [Southern California Bight](socal-bight.md)
+- [Sverdrup Bank (126)](sverdrup-bank-126.md)
 <!-- backlinks:end -->

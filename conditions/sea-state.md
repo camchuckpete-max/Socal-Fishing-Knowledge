@@ -215,6 +215,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

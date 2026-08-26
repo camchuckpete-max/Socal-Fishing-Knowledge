@@ -210,6 +210,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

@@ -42,4 +42,5 @@ A charted spot at **33°16.875'N 119°29.313'W** (cameron), in the [San Nicolas 
 
 - [311 (Trask Knoll)](311.md)
 - [San Nicolas Island](san-nicolas-island.md)
+- [Sverdrup Bank (126)](sverdrup-bank-126.md)
 <!-- backlinks:end -->

@@ -365,6 +365,7 @@ become primary).
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)

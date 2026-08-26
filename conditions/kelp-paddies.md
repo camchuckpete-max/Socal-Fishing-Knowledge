@@ -268,6 +268,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

@@ -468,6 +468,7 @@ current "should" carry everything astern.
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [Upper 500 / Hidden Bank](../locations/upper-500-hidden-bank.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)

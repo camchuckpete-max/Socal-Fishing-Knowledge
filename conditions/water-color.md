@@ -184,6 +184,7 @@ water color.
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Pistol / Bell Bank (300)](../locations/pistol-bell-bank-300.md)

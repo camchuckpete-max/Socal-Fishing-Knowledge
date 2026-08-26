@@ -326,6 +326,7 @@ into the spot once the current read right.
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](../tackle/star-drag-vs-lever-drag.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tide and Slack](../conditions/tide-and-slack.md)
 - [Water Color](../conditions/water-color.md)

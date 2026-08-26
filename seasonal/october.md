@@ -89,6 +89,7 @@ the fleet behavior correctly before you run to it. See
 - [Pacific Bonito](../species/bonito.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [Water Regimes](../conditions/water-regimes.md)
