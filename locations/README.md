@@ -5,6 +5,7 @@
 ## Index
 
 - [101 / 425](101-425.md) **[Baja only]** — A zone is a run grouping.
+- [101](101.md) **[Baja only]** — A charted spot at 32°15.000'N 117°15.000'W (cameron), in the 101 / 425 zone.
 - [1010 Trench / 378 / 213](1010-trench-378-213.md) **[Baja only]** — A zone is a run grouping.
 - [1010 Trench](1010-trench.md) **[Baja only]** — A charted spot at 31°45.833'N 117°44.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
 - [1067 Knuckle](1067-knuckle.md) **[Baja only]** — A charted spot at 31°37.000'N 117°53.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
@@ -68,6 +69,7 @@
 - [3rd V Cod 1 (36 fa)](3rd-v-cod-1-36-fa.md) **[SoCal only]** — A charted spot at 33°18.160'N 118°22.960'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [3rd V Cod 2 (31 fa)](3rd-v-cod-2-31-fa.md) **[SoCal only]** — A charted spot at 33°17.620'N 118°22.180'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [421](421.md) **[Baja only]** — A charted spot at 32°08.000'N 117°52.000'W (cameron), in the Upper Cross / 421 / 390 zone.
+- [425](425-bank.md) **[Baja only]** — A charted spot at 32°15.000'N 117°23.200'W (cameron), in the 101 / 425 zone.
 - [43 / 91 / 300](43-91-300.md) **[SoCal only]** — A zone is a run grouping.
 - [437](437.md) **[Baja only]** — A charted spot at 31°32.000'N 118°12.000'W (cameron), in the 483/500 / 437 zone.
 - [439](439.md) **[SoCal only]** — A charted spot at 32°29.500'N 117°24.000'W (cameron), in the South 9 Mile Bank / 439 zone.
@@ -76,6 +78,7 @@
 - [474 / 711](474-711.md) **[SoCal only]** — A zone is a run grouping.
 - [474](474.md) **[SoCal only]** — A charted spot at 33°09.500'N 118°55.000'W (cameron), in the 474 / 711 zone.
 - [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md) **[Baja only]** — A zone is a run grouping.
+- [475 Knuckle](475-knuckle.md) **[Baja only]** — A charted spot at 32°04.000'N 117°07.000'W (cameron), in the 475 Knuckle / Upper Finger Bank zone.
 - [475](475.md) **[Baja only]** — A charted spot at 31°36.000'N 117°05.000'W (cameron), in the 385 / 238 / 475 zone.
 - [48 Fa. Spot](48-fa-spot.md) **[Baja only]** — A charted spot at 31°35.600'N 116°49.000'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [480](480.md) **[Baja only]** — A charted spot at 31°42.000'N 117°18.000'W (cameron), in the 385 / 238 / 475 zone.
@@ -101,6 +104,7 @@
 - [Airplane Rock](airplane-rock.md) **[SoCal only]** — A charted spot at 33°16.100'N 119°27.840'W (cameron), in the San Nicolas Island zone.
 - [The Airplane rockfish area](airplane-rockfish-area.md) **[SoCal only]** — A charted spot at 32°45.570'N 117°18.460'W (cameron), in the La Jolla zone.
 - [The Airplane](airplane.md) **[Baja only]** — A charted spot at 31°50.000'N 118°07.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
+- [Albatross Knoll](albatross-knoll.md) **[SoCal only]** — A charted spot at 32°58.000'N 119°56.833'W (cameron), in the Sverdrup Bank (126) zone.
 - [Anderson Pipe](anderson-pipe.md) **[SoCal only]** — A charted spot at 33°06.770'N 117°20.100'W (cameron), in the Oceanside / North County zone.
 - [Arch Reef (caution — boilers in big swell)](arch-reef.md) **[SoCal only]** — A charted spot at 33°28.859'N 119°03.749'W (cameron), in the Santa Barbara Island zone.
 - [Arguello Canyon](arguello-canyon.md) **[SoCal only]** — A charted spot at 34°22.000'N 121°04.000'W (cameron), in the Davis Knoll / San Miguel Gap / Rodriguez Seamount zone.
@@ -117,6 +121,7 @@
 - [Baja Pacific — South](baja-pacific-south.md) **[Baja only]** — The character rung.
 - [Bajamar](bajamar.md) **[Baja only]** — A charted spot at 32°00.500'N 116°52.650'W (cameron), in the La Fonda / Bajamar / Salsipuedes zone.
 - [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md) **[Baja only]** — A zone is a run grouping.
+- [Banda Bank](banda-bank.md) **[Baja only]** — A charted spot at 31°39.000'N 116°52.000'W (cameron), in the Banda Bank / Todos Santos Island zone.
 - [Barber Poles](barber-poles.md) **[SoCal only]** — A charted spot at 33°26.710'N 117°41.410'W (cameron), in the Dana Point zone.
 - [Barn Kelp](barn-kelp.md) **[SoCal only]** — A charted spot at 33°17.015'N 117°29.475'W (cameron), in the Oceanside / North County zone.
 - [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on — reading it and setting up on it.
@@ -166,6 +171,7 @@
 - [Coronado Islands](coronado-islands.md) **[Baja only]** — A four-island chain roughly 13 nm off the San Diego bay entrance (cameron), and the closest island fishing to a major US port — which is why it is the springtim
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md) **[SoCal only]** — A zone is a run grouping.
 - [Coronados - 230](coronados-230.md) **[SoCal only]** — A charted spot at 32°21.417'N 117°42.417'W (cameron), in the Coronados - 230 / 302 (Kidney Bank) / 226 zone.
+- [Cortes Bank](cortes-bank.md) **[SoCal only]** — A charted spot at 32°26.417'N 119°07.833'W (cameron), in the Tanner Bank zone.
 - [Cortez North](cortez-north.md) **[Baja only]** — The character rung.
 - [Cortez South](cortez-south.md) **[Baja only]** — The character rung.
 - [The Cove (stay west of MPA at 117 16.400)](cove.md) **[SoCal only]** — A charted spot at 32°51.340'N 117°16.620'W (cameron), in the La Jolla zone.
@@ -186,6 +192,7 @@
 - [The Dunes](dunes.md) **[SoCal only]** — A charted spot at 32°59.460'N 118°35.370'W (cameron), in the San Clemente Island — Back Side (N→S) zone.
 - [Dutch Harbor](dutch-harbor.md) **[SoCal only]** — A charted spot at 33°13.032'N 119°29.229'W (cameron), in the San Nicolas Island zone.
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md) **[SoCal only]** — A zone is a run grouping.
+- [E. Butterfly](e-butterfly.md) **[SoCal only]** — A charted spot at 32°16.417'N 118°06.000'W (cameron), in the E.
 - [Eagle Reef Buoy](eagle-reef-buoy.md) **[SoCal only]** — A charted spot at 33°27.620'N 118°30.395'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Eagle Rock](eagle-rock.md) **[SoCal only]** — A charted spot at 33°28.350'N 118°36.320'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [East 400](east-400.md) **[Baja only]** — A charted spot at 31°13.633'N 118°00.750'W (cameron), in the 483/500 / 437 zone.
@@ -284,6 +291,7 @@
 - [Pacific Beach AR](pacific-beach-ar.md) **[SoCal only]** — The Pacific Beach AR series — 12 charted waypoints on one artificial-reef complex, in the San Diego artificial reefs zone.
 - [Palisades](palisades.md) **[SoCal only]** — A charted spot at 33°19.060'N 118°22.430'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Parson's Landing](parson-s-landing.md) **[SoCal only]** — A charted spot at 33°28.589'N 118°33.043'W (cameron), in the Catalina Island — Front Side (W→E) zone.
+- [Patton Ridge](patton-ridge.md) **[SoCal only]** — A charted spot at 33°30.000'N 120°30.000'W (cameron), in the 311 (Trask Knoll) zone.
 - [Peanut Bank](peanut-bank.md) **[Baja only]** — A charted spot at 31°20.000'N 116°45.000'W (cameron), in the Baja - 230 / Peanut Bank / 60 zone.
 - [Pedestal Rock](pedestal-rock.md) **[SoCal only]** — A charted spot at 33°24.069'N 118°29.344'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Pelican Point / Number 1 Spot](pelican-point-number-1-spot.md) **[SoCal only]** — A charted spot at 33°34.510'N 117°51.370'W (cameron), in the South Orange County — Crystal Cove zone.
@@ -341,6 +349,7 @@
 - [San Nicolas Island](san-nicolas-island.md) **[SoCal only]** — A zone is a run grouping.
 - [San Onofre Kelp](san-onofre-kelp.md) **[SoCal only]** — A charted spot at 33°20.880'N 117°34.050'W (cameron), in the Oceanside / North County zone.
 - [San Quintin](san-quintin.md) **[Baja only]** — A zone is a run grouping.
+- [San Salvador Knoll](san-salvador-knoll.md) **[SoCal only]** — A charted spot at 32°19.000'N 117°54.000'W (cameron), in the E.
 - [Santa Barbara Island](santa-barbara-island.md) **[SoCal only]** — A zone is a run grouping.
 - [Sea of Cortez](sea-of-cortez.md) **[Baja only]** — The Gulf side of Baja — a shallow-rock, structure-ambush fishery that plays like SoCal calico fishing scaled up.
 - [Seabass Rock](seabass-rock.md) **[SoCal only]** — A charted spot at 33°14.106'N 119°25.080'W (cameron), in the San Nicolas Island zone.
@@ -366,6 +375,7 @@
 - [Tanner Bank](tanner-bank.md) **[SoCal only]** — A zone is a run grouping.
 - [Terramar Kelp](terramar-kelp.md) **[SoCal only]** — A charted spot at 33°07.490'N 117°20.440'W (cameron), in the Oceanside / North County zone.
 - [Three Sisters (caution — boilers)](three-sisters.md) **[SoCal only]** — A charted spot at 33°28.022'N 119°02.646'W (cameron), in the Santa Barbara Island zone.
+- [Todos Santos Island](todos-santos-island.md) **[Baja only]** — A charted spot at 31°48.000'N 116°47.400'W (cameron), in the Banda Bank / Todos Santos Island zone.
 - [Torrey Pines Artificial Reef](torrey-pines-artificial-reef.md) **[SoCal only]** — The Torrey Pines Artificial Reef series — 2 charted waypoints on one artificial-reef complex, in the San Diego artificial reefs zone.
 - [Toyon Bay](toyon-bay.md) **[SoCal only]** — A charted spot at 33°22.544'N 118°21.171'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Tranquillo Kelp](tranquillo-kelp.md) **[Baja only]** — A charted spot at 30°17.000'N 115°49.000'W (cameron), in the San Quintin zone.
@@ -380,6 +390,7 @@
 - [Upper Finger Bank rockfish 180ft](upper-finger-bank-rockfish-180ft.md) **[Baja only]** — A charted spot at 32°16.360'N 117°10.470'W (cameron), in the Finger Bank rockfish zone.
 - [Upper Finger Bank rockfish 240ft](upper-finger-bank-rockfish-240ft.md) **[Baja only]** — A charted spot at 32°15.130'N 117°10.260'W (cameron), in the Finger Bank rockfish zone.
 - [Upper Finger Bank rockfish 300ft](upper-finger-bank-rockfish-300ft.md) **[Baja only]** — A charted spot at 32°15.110'N 117°10.950'W (cameron), in the Finger Bank rockfish zone.
+- [Upper Finger Bank](upper-finger-bank.md) **[Baja only]** — A charted spot at 32°06.800'N 117°04.400'W (cameron), in the 475 Knuckle / Upper Finger Bank zone.
 - [Upper Hidden Bank](upper-hidden-bank.md) **[Baja only]** — A charted spot at 32°03.000'N 117°28.000'W (cameron), in the Upper 500 / Hidden Bank zone.
 - [US waters](us-waters.md) — The paperwork rung.
 - [W. Butterfly / 157](w-butterfly-157.md) **[SoCal only]** — A zone is a run grouping.
@@ -408,5 +419,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 395 notes exceed the 30-node cap._
+_Map skipped: 406 notes exceed the 30-node cap._
 <!-- mermaid:end -->

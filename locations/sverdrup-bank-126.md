@@ -300,7 +300,7 @@ Bank (126), whose slug collides with this zone page's own — a gazetteer
 question, not one this page resolves.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Albatross Knoll](albatross-knoll.md)
 <!-- children:end -->
 
 ## Evidence
@@ -312,5 +312,6 @@ corpus touches either spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Albatross Knoll](albatross-knoll.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

@@ -363,7 +363,7 @@ rung here needs a disambiguated filename for Tanner Bank, whose slug collides
 with this zone page's own — a gazetteer question, not one this page resolves.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Cortes Bank](cortes-bank.md)
 <!-- children:end -->
 
 ## Evidence
@@ -375,6 +375,7 @@ Per-trip detail and conditions are in
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cortes Bank](cortes-bank.md)
 - [Evidence — Tanner Bank](evidence/tanner-bank.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->

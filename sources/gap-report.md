@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
+_Totals: 1940 flagged gaps, 224 flagged stubs, 949 unknown infobox values._
 
 ## species/
 
@@ -91,6 +91,16 @@ _Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
 
 ## locations/
 
+- **locations/101-425.md**
+  - `Getting there`: gap — any run, heading, timing or fuel figure to
+  - `Structure & bathymetry`: gap — whether the 101 is fished on a Coronados day,
+  - `Structure & bathymetry`: gap — states where that boundary
+  - `Structure & bathymetry`: gap — a more precise position for either mark, or
+  - `What's there`: gap — names a species anywhere in this zone | ⚠ Flagged gap — no corpus source | Neither name claims a target, unlike the depth-labelled marks in the adjoining [Finger Bank rockfish](finger-bank-rockfish.md) zone. There is no trip report, no video and no observation attached to either position |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/1010-trench-378-213.md**
   - `Getting there`: gap — any run, heading, timing or fuel figure to
   - `Getting there`: gap — states that these banks are fished out of
@@ -490,6 +500,20 @@ _Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/311.md**
+  - `Getting there`: gap — a stated distance, heading, run time, fuel
+  - `Getting there`: gap — any
+  - `Getting there`: gap — extends that pattern to the 311 or Patton
+  - `Getting there`: gap — closures, MPA boundaries, military schedules
+  - `Structure & bathymetry`: gap — confirms that read for this mark. The
+  - `Structure & bathymetry`: gap — what **knoll** and **ridge** denote as
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species at either position | ⚠ Flagged gap — no corpus source | No trip report, video or observation in the corpus is scoped to the 311 or Patton Ridge. The only claim either name makes is the fathom read on "311", and no source confirms it |
+  - `What's there`: gap — describes a paddy, bait, squid, temperature or
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/312.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -691,6 +715,20 @@ _Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/475-knuckle-upper-finger-bank.md**
+  - `Getting there`: gap — any run, heading, timing or fuel figure to
+  - `Getting there`: gap — whether these banks are ever worked as an
+  - `Getting there`: gap
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour,
+  - `Structure & bathymetry`: gap
+  - `Structure & bathymetry`: gap — confirms the 475 Knuckle's number as a
+  - `Structure & bathymetry`: gap
+  - `What's there`: gap — names a species anywhere in this zone | ⚠ Flagged gap — no corpus source | Neither name claims a target, unlike the depth-labelled marks in [Finger Bank rockfish](finger-bank-rockfish.md) a few miles north. There is no trip report, no video and no observation attached to either position |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: gap — any method scoped to either mark.
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/475.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1084,6 +1122,19 @@ _Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/banda-bank-todos-santos-island.md**
+  - `Getting there`: gap — any run, heading, timing, fuel figure or sea
+  - `Getting there`: gap — the marina itself has no
+  - `Getting there`: gap — whether this water is ever reached from the US
+  - `Getting there`: gap
+  - `Structure & bathymetry`: gap — bottom composition, relief, contour, charted
+  - `Structure & bathymetry`: gap
+  - `Structure & bathymetry`: gap — states whether the bank is named for the
+  - `What's there`: gap — names a species at either mark | ⚠ Flagged gap — no corpus source | Neither name claims a target, unlike the depth-labelled and rockfish-labelled marks elsewhere in the region. There is no trip report, no video and no observation attached to either position |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: gap — any technique,
+  - `How it fishes`: zone guide missing
 - **locations/barber-poles.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1623,6 +1674,18 @@ _Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/e-butterfly-san-salvador-knoll.md**
+  - `Getting there`: gap — a stated distance, heading, run time or fuel
+  - `Getting there`: gap — closures, MPA boundaries or restricted areas
+  - `Structure & bathymetry`: gap — any depth,
+  - `Structure & bathymetry`: gap — says what *Butterfly* denotes, what a
+  - `Structure & bathymetry`: gap — says whether the two Butterflies are one
+  - `What's there`: gap — names a species at either position | ⚠ Flagged gap — no corpus source | No trip report, video or observation in the corpus is scoped to the E. Butterfly or the San Salvador Knoll. Neither name claims a target the way the depth-labelled marks in the [Finger Bank rockfish](finger-bank-rockfish.md) zone do, and neither claims a depth to read against a contour either |
+  - `What's there`: gap — describes a paddy over either position. Paddy
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
 - **locations/eagle-reef-buoy.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3150,6 +3213,30 @@ _Totals: 1872 flagged gaps, 212 flagged stubs, 949 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/sverdrup-bank-126.md**
+  - `Getting there`: gap — a stated distance, heading, run time, fuel
+  - `Getting there`: gap
+  - `Getting there`: gap — extends that pattern to Sverdrup or Albatross
+  - `Getting there`: gap — closures, MPA boundaries, military schedules
+  - `Structure & bathymetry`: gap — confirms that read for this mark. The
+  - `Structure & bathymetry`: gap — says which
+  - `Structure & bathymetry`: gap — what **knoll** denotes as a structure term.
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: gap — names a species at either position | ⚠ Flagged gap — no corpus source | No trip report, video or observation in the corpus is scoped to Sverdrup Bank or Albatross Knoll. The only claim either name makes is the fathom read on "126", and no source confirms it |
+  - `What's there`: gap — whether
+  - `How it fishes`: gap — the zone's program in full. Nothing states
+  - `How it fishes`: zone guide missing
+  - `Evidence`: gap — no trip report, video or observation in the
+- **locations/tanner-bank.md**
+  - `Getting there`: gap — MPA boundaries, closures or restricted areas
+  - `Structure & bathymetry`: gap — preferred directions
+  - `Structure & bathymetry`: flagged stub row
+  - `What's there`: flagged stub row
+  - `What's there`: gap — what the fish are
+  - `How it fishes`: gap
+  - `How it fishes`: zone guide missing
+  - `How it fishes`: zone guide missing
+  - `Spots`: gap — names a sub-spot, rock or pinnacle on either
 - **locations/terramar-kelp.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.

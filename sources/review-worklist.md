@@ -727,4 +727,15 @@ by their builders after the transform phase drains.
 | locations/north-9-mile-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/south-9-mile-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/439.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/san-salvador-knoll.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/e-butterfly.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/101.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/425-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/upper-finger-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/475-knuckle.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/todos-santos-island.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/banda-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/patton-ridge.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/albatross-knoll.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/cortes-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 <!-- review:worklist:end -->

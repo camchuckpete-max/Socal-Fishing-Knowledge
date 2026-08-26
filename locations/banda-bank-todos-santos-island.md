@@ -272,7 +272,8 @@ beyond its position, so each spot page is coordinates plus its parent zone until
 sources arrive.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Banda Bank](banda-bank.md)
+- [Todos Santos Island](todos-santos-island.md)
 <!-- children:end -->
 
 ## Evidence
@@ -286,5 +287,7 @@ The observation layer is
 ## Linked from
 
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Banda Bank](banda-bank.md)
 - [Evidence — Banda Bank / Todos Santos Island](evidence/banda-bank-todos-santos-island.md)
+- [Todos Santos Island](todos-santos-island.md)
 <!-- backlinks:end -->
