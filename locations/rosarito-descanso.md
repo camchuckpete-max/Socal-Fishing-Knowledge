@@ -164,6 +164,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [101 / 425](101-425.md)
+- [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bull Ring](bull-ring.md)
 - [Descanso rockfish 1](descanso-rockfish-1.md)

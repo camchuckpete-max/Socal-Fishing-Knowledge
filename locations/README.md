@@ -74,6 +74,7 @@
 - [47 Fa. Spot](47-fa-spot.md) **[Baja only]** — A charted spot at 31°37.000'N 116°46.500'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [474 / 711](474-711.md) **[SoCal only]** — A zone is a run grouping.
 - [474](474.md) **[SoCal only]** — A charted spot at 33°09.500'N 118°55.000'W (cameron), in the 474 / 711 zone.
+- [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md) **[Baja only]** — A zone is a run grouping.
 - [475](475.md) **[Baja only]** — A charted spot at 31°36.000'N 117°05.000'W (cameron), in the 385 / 238 / 475 zone.
 - [48 Fa. Spot](48-fa-spot.md) **[Baja only]** — A charted spot at 31°35.600'N 116°49.000'W (cameron), in the Punta Banda / Santo Tomas zone.
 - [480](480.md) **[Baja only]** — A charted spot at 31°42.000'N 117°18.000'W (cameron), in the 385 / 238 / 475 zone.
@@ -403,5 +404,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 390 notes exceed the 30-node cap._
+_Map skipped: 391 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -94,6 +94,7 @@ Trip reports and per-source provenance:
 - [179 / 220](179-220.md)
 - [372 / 245 / 250](372-245-250.md)
 - [385 / 238 / 475](385-238-475.md)
+- [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 - [483/500 / 437](483-500-437.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](bahia-de-los-angeles.md)
 - [Baja - 230 / Peanut Bank / 60](baja-230-peanut-bank-60.md)

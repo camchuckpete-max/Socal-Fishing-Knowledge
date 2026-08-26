@@ -517,6 +517,7 @@ the bite, read before you feel anything through the blank.
 ## Linked from
 
 - [101 / 425](../locations/101-425.md)
+- [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)

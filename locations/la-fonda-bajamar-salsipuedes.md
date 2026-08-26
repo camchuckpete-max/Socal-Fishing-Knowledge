@@ -174,6 +174,7 @@ corpus touches any spot in this zone, so there is no evidence file to link.
 <!-- backlinks:start -->
 ## Linked from
 
+- [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 - [97](97.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Bajamar](bajamar.md)

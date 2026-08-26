@@ -220,6 +220,7 @@ coordinates plus its parent zone until sources arrive.
 ## Linked from
 
 - [1140 Finger / 450](1140-finger-450.md)
+- [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 - [483/500 / 437](483-500-437.md)
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)

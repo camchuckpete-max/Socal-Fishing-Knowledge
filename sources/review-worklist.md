@@ -350,7 +350,7 @@ by their builders after the transform phase drains.
 | locations/south-9-mile-bank-439.md | geo | transformed | gaps:12 fc:3 | zone page verified against the spot library and transcripts; 3 inverted bearings fixed, 3 cite-scope defects flagged |
 | locations/e-butterfly-san-salvador-knoll.md | geo | transformed | gaps:11 spots:2 | apply-with-changes: new position-and-ladder zone page (zero corpus coverage); coordinates + census verified, ~30 distances recomputed; 5 fixes (distance mis-anchor, 2 false superlatives, over-broad universal, miscited source) |
 | locations/101-425.md | geo | transformed |  | zone page written: 2 charted spots, 0 corpus notes; position-and-ladder page with 9 flagged gaps |
-| locations/475-knuckle-upper-finger-bank.md | geo | pending |  | zone: 2 spots, 1 notes |
+| locations/475-knuckle-upper-finger-bank.md | geo | transformed | gaps:15 stubs:1 spots:2 | new zone page under baja-pacific-north for the two-mark coordinate cluster the census carved out of the offshore-banks catch-all: Upper Finger Bank and 475 Knuckle, 3.6 nm apart on 218 degrees and the tightest bank zone in the region. Position-and-ladder page — no corpus source describes fishing either mark. Documented the two name collisions the zone sits at the centre of: the five depth-labelled Upper Finger Bank rockfish marks (162-426 ft) lie 7.6-12.7 nm NNW of the position charted under that name and stay in their own spot-library section, and the 475 Knuckle is 28.1 nm from the 475 in… |
 | locations/banda-bank-todos-santos-island.md | geo | pending |  | zone: 2 spots, 0 notes |
 | locations/311.md | geo | pending |  | zone: 2 spots, 0 notes |
 | locations/sverdrup-bank-126.md | geo | pending |  | zone: 2 spots, 0 notes |
