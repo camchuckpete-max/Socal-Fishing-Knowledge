@@ -9,7 +9,7 @@ layout: v2
 parent: socal-bight.md
 structure_type: offshore banks — two charted marks 3.6 nm apart off San Diego, both in the spot library's offshore-banks section. The northeastern mark is the south end of the Nine Mile Bank, the corpus's named exception to fathom-naming: a distance-named complex carrying many closely spaced high spots of similar depth rather than one dominant peak (`Rf1HKJG-SDg`). No corpus source describes the bottom at either position
 depth_band: unknown — the Nine Mile complex comes up to roughly 600 ft, about 100 fathoms, in places, with no single fathom number describing it (`Rf1HKJG-SDg`), and no source scopes that figure to the south end; the 439 read by the bank-naming convention is 439 fathoms, about 2,634 ft, and no source confirms that reading
-distance_nm: unknown as a stated run — no corpus source gives a distance, heading, time or fuel figure to either mark from any port. The name itself is the only distance claim: Nine Mile Bank sits 9 statute miles off the coast (`Rf1HKJG-SDg`), and the nearest charted positions in the spot library are the Whistler Buoy at 7.6 nm and the Imperial Beach Pipe at 8.6 nm from South 9 Mile Bank, both themselves offshore marks (cameron)
+distance_nm: unknown as a stated run — no corpus source gives a distance, heading, time or fuel figure to either mark from any port. The name itself is the only distance claim: Nine Mile Bank sits nine miles off the coast, unqualified in the source and read as statute by the zone lexicon (`Rf1HKJG-SDg`), and the nearest charted positions in the spot library are the Whistler Buoy at 7.6 nm and the Imperial Beach Pipe at 8.6 nm from South 9 Mile Bank, both themselves offshore marks (cameron)
 ---
 
 # South 9 Mile Bank / 439
@@ -27,8 +27,8 @@ than this one, and the whole of it sits far inside the **12 nm** diameter cap
 Bank is the corpus's stated exception to fathom naming: it carries many closely
 spaced high spots of similar depth rather than one dominant peak, coming up
 "almost as high as 600 feet" in places, so no single fathom number describes it,
-and the name records that it sits **9 statute miles off the beach**
-(`Rf1HKJG-SDg`, [zone lexicon](zone-lexicon.md)). **North 9 Mile Bank** is
+and the name records that it sits **nine miles off the beach** (`Rf1HKJG-SDg`),
+read as statute miles by the [zone lexicon](zone-lexicon.md). **North 9 Mile Bank** is
 **7.3 nm** at **325°** from South 9 Mile Bank
 ([North 9 Mile Bank / 178](north-9-mile-bank-178.md), cameron), so the two ends
 of the same bank are two zones on this ladder.
@@ -71,12 +71,15 @@ a heading that starts in US water. ⚠ Flagged gap — no corpus source states a
 time, sea-state envelope or minimum boat range for it.
 
 **The bank's own name is the corpus's only distance statement, and the south end
-does not check it exactly.** Nine Mile Bank is named for sitting **9 statute
-miles** off the coast (`Rf1HKJG-SDg`). Measured to the nearest charted positions
-the library carries, South 9 Mile Bank is **7.6 nm** — **8.8 statute miles** —
-at **044°** from the **Whistler Buoy**, **8.6 nm** — **9.9 statute miles** — at
-**088°** from the **Imperial Beach Pipe**, and **9.0 nm** — **10.4 statute
-miles** — at **022°** from the **Point Loma Pipe** (cameron). All three are
+does not check it exactly.** Nine Mile Bank is named for sitting **nine miles**
+off the coast (`Rf1HKJG-SDg`); the source does not say which mile, and the
+[zone lexicon](zone-lexicon.md) reads them as **statute**, which puts the name
+at **7.8 nm** off the beach rather than 9.0. Measured to the nearest charted
+positions the library carries, South 9 Mile Bank lies **7.6 nm** — **8.8 statute
+miles** — at **224°** from the **Whistler Buoy**, **8.6 nm** — **9.9 statute
+miles** — at **268°** from the **Imperial Beach Pipe**, and **9.0 nm** —
+**10.4 statute miles** — at **202°** from the **Point Loma Pipe** (cameron —
+each bearing is the one steered *from* the named mark *to* the bank). All three are
 themselves offshore marks — a buoy and two pipes — rather than shoreline
 positions, so they bracket the name without confirming it, and the 439 lies a
 further **3.6 nm** out on the far side. ⚠ Flagged gap — no corpus source: a
@@ -86,7 +89,7 @@ shoreline or headland position to measure either mark against.
 The library's **International Reef** cluster is described as a sub-pixel cluster
 **on the border** (cameron,
 [Southern California Bight](socal-bight.md)) and sits **6.7 nm** east-northeast
-of this zone's centre, on the **32°32.5–32.7'N** parallels; South 9 Mile Bank is
+of the centre of the two, on the **32°32.5–32.7'N** parallels; South 9 Mile Bank is
 on **32°32.000'N** and the 439 **2.5 minutes** of latitude south of it, while
 **Lower 9 Mile Bank**, **0.65 nm** from South 9 Mile Bank, is carried as Mexican
 water (cameron). ⚠ Flagged gap — no corpus source gives the boundary position,
@@ -100,14 +103,24 @@ run into Mexican water actually requires is itself flagged as missing on
 **Catalina Eddy** can shield the **inner San Diego banks** and tuna grounds while
 it blows outside, so the eddy state is the thing to check when the offshore
 forecast is bad (`S2L3KLSQ6Is`, [sea state](../conditions/sea-state.md),
-[island structure](island-structure.md)). Separately, a strong NW event crushes
+[island structure](island-structure.md)). ⚠ Fact-check
+(contradicted-by-source): the transcript behind that line scopes the eddy's
+shelter to **the tuna grounds** and never says "banks" (`S2L3KLSQ6Is`) — "inner
+San Diego banks" is the [sea state](../conditions/sea-state.md) note's wording,
+so whether these two marks sit inside the shielded water is unestablished.
+Separately, a strong NW event crushes
 the northern Channel Islands and the LA/Ventura shelf hardest while **south of
 Newport** is less prone to wind-wave rollover, and the Coronados, Catalina and
 San Clemente held their water through one such event (`HzE4FHHcvTk`,
 [bight geography](bight-geography.md)). Both marks lie south of Newport and
 inshore of every zone in that comparison, and **5.7 nm** off the Coronados that
 held (cameron). ⚠ Flagged gap — no corpus source names these two marks on either
-map directly.
+map directly. ⚠ Fact-check (contradicted-by-source): the NW-event map is
+doctrine on [bight geography](bight-geography.md), cited there to
+`HzE4FHHcvTk`, but that transcript is an offshore-only report — it carries the
+paddy geography this page also uses and no NW event, no Channel Islands and no
+Newport line, so the map reads as sound doctrine on a mis-attached cite that
+needs re-sourcing before a day here leans on it.
 
 **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
 2026-08. Verify current rules, closures, MPA boundaries and take limits before
@@ -138,7 +151,7 @@ name instead (`Rf1HKJG-SDg`). Read the two marks that way:
 
 | spot | what the name states | in feet |
 | --- | --- | --- |
-| South 9 Mile Bank | 9 statute miles off the coast — a distance, not a depth. The complex's high spots run up to roughly 600 ft in places, exact figure uncertain in the source audio (`Rf1HKJG-SDg`), and no source scopes that to the south end | about 600 ft if the complex figure applies here |
+| South 9 Mile Bank | nine miles off the coast, statute by the lexicon's reading — a distance, not a depth. The complex's high spots run up to roughly 600 ft in places, exact figure uncertain in the source audio (`Rf1HKJG-SDg`), and no source scopes that to the south end | about 600 ft if the complex figure applies here |
 | 439 | read by the naming convention, 439 fathoms | about 2,634 ft |
 
 **Read that way the 439 is the deep corner of the inner San Diego bank grid.**
@@ -184,7 +197,9 @@ edges** where the fish dwell and feed (`yMiBtZ7k8-w`). ⚠ Flagged gap — no co
 source: high-spot count, shape, preferred directions or current behaviour at
 either mark.
 
-**Charted neighbours, nearest first**, measured from the zone centre (cameron):
+**Charted neighbours out to 13 nm, nearest first**, measured from the centre of
+the two and excluding the bay-entrance and pipeline positions given above
+(cameron):
 **Lower 9 Mile Bank** at **2.4 nm** northeast, **Coronado Canyon** at **4.2 nm**
 east, the **North of North Island rockfish area** at **5.1 nm** southeast,
 **Pukey Point** at **5.4 nm** southeast, the **International Reef** cluster at
@@ -271,10 +286,12 @@ scoped to the complex, not to this end. Classes are in
 [rockfish deep-dropping](../techniques/rockfish-deep-dropping.md).
 
 **The geometry reads as two compact spot-checks on one leg, and no source says
-so.** The Bight's split is between a **~50–60 square-mile** complex you plan
-hours of looking across and the compact spot you idle onto, grade on the meter,
-and either commit to or leave inside **20–30 minutes** (`Blh2BA-7Ono`,
-[zone lexicon](zone-lexicon.md)). **3.6 nm** between the two marks is a short
+so.** The Bight's split is between a **~50–60 square-mile** complex you should
+expect to spend a lot of the day driving around, not run a spot on, and the
+compact piece of structure you idle up to, grade on the meter, and either commit
+to or leave (`Blh2BA-7Ono`); the **20–30 minute** budget on that second read is
+the [zone lexicon](zone-lexicon.md)'s planning consequence rather than a figure
+any source states. **3.6 nm** between the two marks is a short
 enough hop to read both in a morning (cameron), which is the compact pattern —
 except that the bank itself is explicitly the many-high-spots kind of ground
 (`Rf1HKJG-SDg`), which is the search type. ⚠ Flagged gap — no corpus source
