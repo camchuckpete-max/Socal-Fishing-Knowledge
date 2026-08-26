@@ -451,7 +451,7 @@ button{font-family:inherit;cursor:pointer}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
 /* intro */
-.intro{position:fixed;inset:0;z-index:50;background:var(--vig);backdrop-filter:blur(7px);
+.intro{position:fixed;inset:0;z-index:1500;background:var(--vig);backdrop-filter:blur(7px);
   display:grid;place-items:center;padding:20px}
 .intro[hidden]{display:none}
 .intro-card{background:var(--panel);border:1px solid var(--hair);border-radius:16px;
@@ -524,6 +524,13 @@ main{flex:1;display:flex;min-height:0}
 .leaflet-control-attribution a{color:var(--accent-ink)!important}
 .mapfail{position:absolute;inset:0;display:grid;place-items:center;text-align:center;
   padding:24px;color:var(--ink2);font-size:13px}
+/* Stacking, and why the numbers are large: Leaflet's panes run to 400 and its
+   controls to 800, all inside #mapwrap, which sets no z-index of its own — so
+   its descendants compete directly with the page chrome. The slide-over read
+   z-index:20 and was therefore painted UNDER the map: clicking a pin opened
+   the article behind the tiles, and only a zoom (which clears the panes for a
+   frame) let you glimpse it. Map chrome 1200 < slide-over 1300 < note popup
+   1400 < intro 1500. */
 .mpanel{position:absolute;z-index:1200;top:12px;left:12px;width:232px;max-height:calc(100% - 24px);
   overflow-y:auto;background:var(--panel);border:1px solid var(--hair);border-radius:11px;
   box-shadow:var(--shadow);padding:11px 12px;font-size:12px}
@@ -557,7 +564,7 @@ main{flex:1;display:flex;min-height:0}
 /* detail slide-over */
 .detail{position:absolute;top:0;right:0;bottom:0;width:min(620px,94%);background:var(--panel);
   border-left:1px solid var(--hair);box-shadow:var(--shadow);transform:translateX(101%);
-  transition:transform .22s ease;display:flex;flex-direction:column;z-index:20}
+  transition:transform .22s ease;display:flex;flex-direction:column;z-index:1300}
 .detail.open{transform:none}
 @media (prefers-reduced-motion:reduce){.detail{transition:none}}
 .dhead{padding:14px 16px;border-bottom:1px solid var(--hair);flex:none}
@@ -627,7 +634,7 @@ main{flex:1;display:flex;min-height:0}
 .sel .flag{float:right;margin-left:8px;font-size:11px;font-family:var(--mono);
   color:var(--serious);user-select:none}
 .sel .flag.up{color:var(--good)}
-.notebox{position:fixed;z-index:70;width:min(400px,92vw);background:var(--panel);
+.notebox{position:fixed;z-index:1400;width:min(400px,92vw);background:var(--panel);
   border:1px solid var(--hair);border-radius:12px;box-shadow:var(--shadow);padding:13px 14px}
 .notebox[hidden]{display:none}
 .notebox h3{margin:0 0 4px;font-size:13px;font-weight:700}
@@ -698,7 +705,7 @@ main{flex:1;display:flex;min-height:0}
   main{flex-direction:column}
   #graphwrap{flex:none;height:58vh;min-height:340px}
   .rail{width:auto;flex:none;border-left:none;border-top:1px solid var(--hair);overflow:visible}
-  .detail{position:fixed;z-index:60}
+  .detail{position:fixed;z-index:1300}
 }
 .card{border:1px solid var(--hair);border-radius:12px;padding:12px 13px;margin-bottom:11px;background:var(--panel)}
 .card h2{margin:0 0 9px;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
@@ -1386,27 +1393,40 @@ function crumb(p){
    opened "North of North Island rockfish area" — the spot you asked for and
    the article you got were simply different places. Rather than guess, when a
    click lands on a pile, say so and let the reader pick. */
-function pinsAt(p){
-  if(!map)return [p];
-  const a=map.latLngToContainerPoint([p.lat,p.lon]);
-  return PINS.filter(q=>{
-    const z=zoneOf(q); if(!q.excluded&&!vis(z))return false;
+// A pin is drawn 4px across. Asking someone to hit that on a chart of the
+// whole Bight is not a click target, it is a dexterity test — miss by 5px and
+// the old code treated it as a background click and cleared the bar, which is
+// what "nothing happens when I click a spot" actually was. Anything within
+// HIT_PX of the click counts, nearest first.
+const HIT_PX=14;
+function pinsAt(pt){
+  if(!map)return [];
+  return PINS.map(q=>{
+    const z=zoneOf(q); if(!q.excluded&&!vis(z))return null;
     const b=map.latLngToContainerPoint([q.lat,q.lon]);
-    return Math.hypot(b.x-a.x,b.y-a.y)<=7;
-  });
+    const d=Math.hypot(b.x-pt.x,b.y-pt.y);
+    return d<=HIT_PX?{q,d}:null;
+  }).filter(Boolean).sort((a,b)=>a.d-b.d).map(x=>x.q);
 }
 
-function choose(list){
+const CHOOSE_MAX=8;
+function choose(all){
   const box=document.getElementById('mcrumb');
+  // Nearest first, capped: the Coronados put 15 spots inside one click radius
+  // at region zoom, and a 15-row bar is a wall, not a choice.
+  const list=all.slice(0,CHOOSE_MAX), more=all.length-list.length;
   box.hidden=false;
-  box.innerHTML=`<div class="line"><b>${list.length} spots here</b>`+
+  box.innerHTML=`<div class="line"><b>${all.length} spots here</b>`+
     `<span class="sep">·</span><span class="mut">they overlap at this zoom —`+
-    ` pick one, or zoom in to separate them</span></div>`+
+    ` nearest first${more?`, showing ${CHOOSE_MAX}`:''}; zoom in to separate them`+
+    `</span></div>`+
     list.map((q,i)=>{
       const has=byPath.has(`locations/${q.slug}.md`);
       return `<button class="pick" data-i="${i}">${esc(q.name)}`+
         `<span class="mut">${has?'article':'no page yet'}</span></button>`;
-    }).join('');
+    }).join('')+
+    (more?`<div class="line" style="margin-top:5px"><span class="mut">`+
+          `+${more} more under the cursor — zoom in to reach them</span></div>`:'');
   box.querySelectorAll('.pick').forEach(btn=>{
     btn.onclick=()=>{const q=list[+btn.dataset.i];crumb(q);openSpot(q);};
   });
@@ -1528,11 +1548,8 @@ function paintMap(){
       fillColor:c, fillOpacity:p.excluded?.25:(has?.9:.28)});
     m.bindTooltip(`${p.name}${z?` — ${z.name}`:''}`+(has?'':' — no page yet'),
                   {direction:'top'});
-    m.on('click',()=>{
-      const here=pinsAt(p);
-      if(here.length>1){choose(here);return;}
-      crumb(p);openSpot(p);
-    });
+    // No per-marker handler: the map-level one below owns every click, so
+    // there is exactly one code path and nothing to race.
     m.addTo(pinLayer);
   });
   document.getElementById('mcount').textContent=
@@ -1611,7 +1628,12 @@ function initMap(){
   hullLayer=L.layerGroup().addTo(map);
   pinLayer=L.layerGroup().addTo(map);
   buildPanel(); paintMap();
-  map.on('click',()=>crumb(null));
+  map.on('click',e=>{
+    const here=pinsAt(e.containerPoint);
+    if(!here.length){crumb(null);return;}        // genuine background click
+    if(here.length===1){crumb(here[0]);openSpot(here[0]);return;}
+    choose(here);
+  });
   if(PINS.length)map.fitBounds(L.latLngBounds(PINS.map(p=>[p.lat,p.lon])),{padding:[30,30]});
 }
 
