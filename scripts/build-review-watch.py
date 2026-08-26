@@ -1380,11 +1380,19 @@ function crumb(p){
     `<div class="line" style="margin-top:4px">${esc(jur)}<span class="sep">→</span>`+
     `${z?esc(z.region):'—'}<span class="sep">→</span>`+
     `<span class="mut">area: none yet</span><span class="sep">→</span>`+
-    `${z?`<b>${esc(z.name)}</b>`:'<span class="far">no zone</span>'}`+
+    `${z?(byPath.has(`locations/${z.slug}.md`)
+        ? `<button class="linkbtn" data-zonego="locations/${esc(z.slug)}.md">`+
+          `<b>${esc(z.name)}</b></button>`
+        : `<b>${esc(z.name)}</b>`)
+       :'<span class="far">no zone</span>'}`+
     (z?`<span class="sep">·</span><span class="${p.far?'far':'mut'}">${p.d} nm from zone centre</span>`:'')+
     `</div>`;
   const b=document.getElementById('mopen');
   if(b)b.onclick=()=>openSpot(p);
+  // the zone is one rung up and usually the more useful read; make the
+  // breadcrumb take you there rather than just naming it
+  const zb=box.querySelector('[data-zonego]');
+  if(zb)zb.onclick=()=>open(zb.dataset.zonego,'article',null);
 }
 
 /* Pins overlap badly at low zoom: 281 of the 391 sit within 6px of another
@@ -1410,16 +1418,21 @@ function pinsAt(pt){
 }
 
 const CHOOSE_MAX=8;
-function choose(all){
+function choose(all,zone){
   const box=document.getElementById('mcrumb');
   // Nearest first, capped: the Coronados put 15 spots inside one click radius
   // at region zoom, and a 15-row bar is a wall, not a choice.
   const list=all.slice(0,CHOOSE_MAX), more=all.length-list.length;
   box.hidden=false;
+  const zpath=zone?`locations/${zone.slug}.md`:null;
+  const zrow=zpath&&byPath.has(zpath)
+    ?`<button class="pick" data-zone="1"><b>${esc(zone.name)}</b> — the whole zone`+
+     `<span class="mut">zone article</span></button>`:'';
   box.innerHTML=`<div class="line"><b>${all.length} spots here</b>`+
     `<span class="sep">·</span><span class="mut">they overlap at this zoom —`+
     ` nearest first${more?`, showing ${CHOOSE_MAX}`:''}; zoom in to separate them`+
     `</span></div>`+
+    zrow+
     list.map((q,i)=>{
       const has=byPath.has(`locations/${q.slug}.md`);
       return `<button class="pick" data-i="${i}">${esc(q.name)}`+
@@ -1428,7 +1441,9 @@ function choose(all){
     (more?`<div class="line" style="margin-top:5px"><span class="mut">`+
           `+${more} more under the cursor — zoom in to reach them</span></div>`:'');
   box.querySelectorAll('.pick').forEach(btn=>{
-    btn.onclick=()=>{const q=list[+btn.dataset.i];crumb(q);openSpot(q);};
+    btn.onclick=()=>{
+      if(btn.dataset.zone){open(zpath,'article',null);return;}
+      const q=list[+btn.dataset.i];crumb(q);openSpot(q);};
   });
 }
 
@@ -1515,18 +1530,44 @@ function openSpot(p){
 // turn up in the overlap chooser either.
 function vis(z){return !!z&&shown.region.has(z.region);}
 
+// Painted hulls, kept so a click in open water inside one can find its zone.
+// The zone page is the level most people actually fish — "how does La Jolla
+// fish" rather than "what is at South Kelp Ridge" — so it has to be reachable
+// from the map, not only from a spot's breadcrumb (Cameron, 2026-08-26).
+let HULLS=[];
+function zoneAt(latlng){
+  for(const h of HULLS){
+    const b=h.poly.getBounds();
+    if(b.contains(latlng)&&inPoly(latlng,h.ring))return h.z;
+  }
+  return null;
+}
+// ray casting over [lat,lng] pairs
+function inPoly(ll,ring){
+  let inside=false;
+  for(let i=0,j=ring.length-1;i<ring.length;j=i++){
+    const yi=ring[i][0],xi=ring[i][1],yj=ring[j][0],xj=ring[j][1];
+    if(((yi>ll.lat)!==(yj>ll.lat))&&
+       (ll.lng<(xj-xi)*(ll.lat-yi)/(yj-yi)+xi))inside=!inside;
+  }
+  return inside;
+}
+
 function paintMap(){
   if(!map)return;
-  pinLayer.clearLayers(); hullLayer.clearLayers();
+  pinLayer.clearLayers(); hullLayer.clearLayers(); HULLS=[];
   if(shown.hulls){
     ZONES.forEach(z=>{
       if(!vis(z)||z.hull.length<2)return;
       const c=zoneColor(z);
       if(z.hull.length===2){
         L.polyline(z.hull,{color:c,weight:2,opacity:.5}).addTo(hullLayer);return;}
-      L.polygon(hull(z.hull),{color:c,weight:1.4,opacity:.65,fillColor:c,
+      const ring=hull(z.hull);
+      const poly=L.polygon(ring,{color:c,weight:1.4,opacity:.65,fillColor:c,
         fillOpacity:.10}).addTo(hullLayer).bindTooltip(
-          `${z.name} — ${z.n} spot${z.n===1?'':'s'}`,{sticky:true});
+          `${z.name} — ${z.n} spot${z.n===1?'':'s'} · click for the zone`,
+          {sticky:true});
+      HULLS.push({z,poly,ring});
     });
   }
   let n=0,built=0;
@@ -1630,9 +1671,17 @@ function initMap(){
   buildPanel(); paintMap();
   map.on('click',e=>{
     const here=pinsAt(e.containerPoint);
-    if(!here.length){crumb(null);return;}        // genuine background click
+    const z=zoneAt(e.latlng);
+    if(!here.length){
+      // open water inside a hull is a click on the ZONE, not on nothing
+      if(z&&byPath.has(`locations/${z.slug}.md`)){
+        crumb(null);open(`locations/${z.slug}.md`,'article',null);return;}
+      crumb(null);return;
+    }
+    // A lone pin opens its own spot whether or not a hull sits under it; the
+    // zone stays one click away in the breadcrumb.
     if(here.length===1){crumb(here[0]);openSpot(here[0]);return;}
-    choose(here);
+    choose(here,z);
   });
   if(PINS.length)map.fitBounds(L.latLngBounds(PINS.map(p=>[p.lat,p.lon])),{padding:[30,30]});
 }
