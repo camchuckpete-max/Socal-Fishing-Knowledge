@@ -6,11 +6,11 @@ name: publish-review-watch
 # Successor to publish-bight-watch.yml (batch 3, retired) on the same Pages
 # site. Live at https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/
 #
-# Cameron's review surface for the transform job, v3.4 (2026-08-26): the
+# Cameron's review surface for the transform job, v3.5 (2026-08-26): the
 # Bight Watch chassis, now with a Map view — all 391 charted spots pinned at
 # their real coordinates with the jurisdiction/region/zone hierarchy drawn as
-# colours and hulls, and a pin click that opens the spot's article or, where
-# it is not written yet, everything the KB already knows about the place.
+# colours and hulls, and a click that opens the article for whatever you
+# pointed at: the spot, or the zone it sits in.
 # Basemap defaults to the Esri ocean base because most of these spots are
 # offshore and bathymetry is what explains them; OSM streets are one click
 # away for ports and the coastal zones.
@@ -26,6 +26,15 @@ name: publish-review-watch
 #   3. A pin is 4px across, so a miss by 5px counted as a background click.
 #      Anything within 14px now counts, nearest first, capped at 8 — the
 #      Coronados put 15 spots inside one click radius at region zoom.
+#
+# v3.5: the ZONE is reachable. Its pages were already written — la-jolla.md is
+# 12.3 KB and opens with how to run the north end on the meter — but the hulls
+# had a tooltip and no click handler, so the rung most people actually fish was
+# the one rung the map could not open. Three routes, because the right one
+# depends on where the cursor already is: open water inside a hull opens that
+# zone; the overlap chooser leads with the zone so a crowded cluster can go UP
+# rather than only sideways; and a spot's breadcrumb makes the zone a button.
+# A lone pin still opens its own spot.
 #
 # Leaflet is vendored + inlined by the builder, so the page carries no runtime
 # CDN dependency. Map TILES are fetched at view time, which is why this lives
