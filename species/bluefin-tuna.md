@@ -477,6 +477,7 @@ Trip reports and per-source provenance:
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

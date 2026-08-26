@@ -71,6 +71,7 @@ itself. This is captured as doctrine in
 - [Coronados - 230 / 302 (Kidney Bank) / 226](coronados-230-302-226.md)
 - [Deep Scattering Layer](../conditions/deep-scattering-layer.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
+- [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)

@@ -580,6 +580,7 @@ the bluefin nearby become more cooperative too.**
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

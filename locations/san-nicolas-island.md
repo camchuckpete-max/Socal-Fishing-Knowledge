@@ -240,6 +240,7 @@ Trip reports and per-source provenance:
 - [Evidence — 172 / 125](evidence/172-125.md)
 - [Evidence — 474 / 711](evidence/474-711.md)
 - [Evidence — San Nicolas Island](evidence/san-nicolas-island.md)
+- [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Potato Bank](potato-bank.md)
 - [Seabass Rock](seabass-rock.md)

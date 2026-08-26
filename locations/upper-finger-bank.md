@@ -40,5 +40,5 @@ A charted spot at **32°06.800'N 117°04.400'W** (cameron), in the [475 Knuckle 
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 <!-- backlinks:end -->

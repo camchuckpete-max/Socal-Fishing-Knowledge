@@ -380,6 +380,7 @@ the *bottom*, not the fish.
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)

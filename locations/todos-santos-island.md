@@ -40,5 +40,5 @@ A charted spot at **31°48.000'N 116°47.400'W** (cameron), in the [Banda Bank /
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 <!-- backlinks:end -->

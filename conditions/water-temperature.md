@@ -193,6 +193,7 @@ doctrine above or add a SoCal-specific parameter.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
 - [February–March](../seasonal/february-march.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Island Structure](../locations/island-structure.md)
 - [June–July](../seasonal/june-july.md)

@@ -493,6 +493,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Imperial Beach](../locations/imperial-beach.md)

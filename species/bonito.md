@@ -284,6 +284,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)

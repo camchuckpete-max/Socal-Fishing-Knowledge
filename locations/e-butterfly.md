@@ -40,5 +40,5 @@ A charted spot at **32°16.417'N 118°06.000'W** (cameron), in the [E. Butterfly
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 <!-- backlinks:end -->

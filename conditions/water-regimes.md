@@ -103,6 +103,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [February–March](../seasonal/february-march.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [June–July](../seasonal/june-july.md)
 - [May](../seasonal/may.md)
 - [November–December](../seasonal/november-december.md)

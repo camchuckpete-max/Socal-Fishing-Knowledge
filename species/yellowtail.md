@@ -417,6 +417,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Flyline](../techniques/flyline.md)
 - [Gaffing — Sizing and the Shot](../fish-care/gaffing.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)

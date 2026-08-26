@@ -86,6 +86,7 @@ the fleet behavior correctly before you run to it. See
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — The Boot (504) / 307](../locations/evidence/boot-504-307.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Striped Marlin](../species/striped-marlin.md)

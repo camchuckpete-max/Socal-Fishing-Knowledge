@@ -153,6 +153,7 @@ many *drops*.
 - [Evidence — 289 / 284](evidence/289-284.md)
 - [Evidence — Dana Point](evidence/dana-point.md)
 - [Finger Bank rockfish](finger-bank-rockfish.md)
+- [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [Kidney Bank (63) / 175](kidney-bank-63-175.md)

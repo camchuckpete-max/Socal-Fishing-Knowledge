@@ -217,6 +217,7 @@
 - [Golf Ball](golf-ball.md) **[SoCal only]** — A charted spot at 33°14.400'N 117°26.270'W (cameron), in the Oceanside / North County zone.
 - [Green Tank](green-tank.md) **[SoCal only]** — A charted spot at 32°42.610'N 117°16.740'W (cameron), in the Point Loma zone.
 - [The Half](half.md) **[SoCal only]** — A charted spot at 32°51.220'N 117°17.620'W (cameron), in the La Jolla zone.
+- [Hancock Bank](hancock-bank.md) **[SoCal only]** — A zone is a run grouping.
 - [Hen Rock Kelp](hen-rock-kelp.md) **[SoCal only]** — A charted spot at 33°23.981'N 118°21.975'W (cameron), in the Catalina Island — Front Side (W→E) zone.
 - [Hidden Bank](hidden-bank.md) **[Baja only]** — A charted spot at 31°54.000'N 117°30.000'W (cameron), in the Upper 500 / Hidden Bank zone.
 - [Hidden Reef / 170](hidden-reef-170.md) **[SoCal only]** — A zone is a run grouping.
@@ -419,5 +420,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 406 notes exceed the 30-node cap._
+_Map skipped: 407 notes exceed the 30-node cap._
 <!-- mermaid:end -->

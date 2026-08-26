@@ -117,6 +117,7 @@ Fold the output of this note back into the
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [June–July](../seasonal/june-july.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)

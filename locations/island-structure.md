@@ -178,6 +178,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [Evidence — Catalina Island, Front Side](evidence/catalina-island-front-side.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
+- [Hancock Bank](hancock-bank.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)

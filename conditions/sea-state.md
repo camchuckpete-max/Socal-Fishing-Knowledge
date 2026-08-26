@@ -199,6 +199,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — LA - 270 / 286](../locations/evidence/la-270-286.md)
+- [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Island Structure](../locations/island-structure.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)

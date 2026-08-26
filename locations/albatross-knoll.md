@@ -40,5 +40,5 @@ A charted spot at **32°58.000'N 119°56.833'W** (cameron), in the [Sverdrup Ban
 <!-- backlinks:start -->
 ## Linked from
 
-_Nothing links here yet._
+- [Sverdrup Bank (126)](sverdrup-bank-126.md)
 <!-- backlinks:end -->
