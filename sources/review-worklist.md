@@ -738,4 +738,8 @@ by their builders after the transform phase drains.
 | locations/patton-ridge.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/albatross-knoll.md | gazetteer | done |  | mechanical: coordinates + parent zone |
 | locations/cortes-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/northeast-bank.md | gazetteer | done |  | mechanical: coordinates + parent zone |
+| locations/el-arco.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/the-petroglyph.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/thetis-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

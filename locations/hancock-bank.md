@@ -276,7 +276,7 @@ Bank, whose slug collides with this zone page's own — a gazetteer question, no
 one this page resolves.
 
 <!-- children:start -->
-*(no pages under this rung yet — they land with the geographic phase of the editorial review)*
+- [Northeast Bank](northeast-bank.md)
 <!-- children:end -->
 
 ## Evidence
@@ -289,6 +289,7 @@ corpus touches either bank in this zone, so there is no evidence file to link.
 ## Linked from
 
 - [12 Mile Reef](12-mile-reef.md)
+- [Northeast Bank](northeast-bank.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 <!-- backlinks:end -->
