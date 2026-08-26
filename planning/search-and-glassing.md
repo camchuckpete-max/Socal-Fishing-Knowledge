@@ -412,6 +412,7 @@ current "should" carry everything astern.
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [289 / 284](../locations/289-284.md)
 - [311 (Trask Knoll)](../locations/311.md)
+- [380](../locations/380.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [483/500 / 437](../locations/483-500-437.md)

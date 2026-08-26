@@ -350,6 +350,7 @@ the *bottom*, not the fish.
 - [289 / 284](../locations/289-284.md)
 - [311 (Trask Knoll)](../locations/311.md)
 - [372 / 245 / 250](../locations/372-245-250.md)
+- [380](../locations/380.md)
 - [385 / 238 / 475](../locations/385-238-475.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)

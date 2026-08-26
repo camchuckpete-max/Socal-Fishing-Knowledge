@@ -463,6 +463,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [279 / 267 / 14 Mile Bank](../locations/279-267-14-mile-bank.md)
 - [289 / 284](../locations/289-284.md)
 - [311 (Trask Knoll)](../locations/311.md)
+- [380](../locations/380.md)
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)

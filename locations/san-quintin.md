@@ -184,6 +184,7 @@ Trip reports and per-source provenance:
 - [15 Fathom Spot](15-fathom-spot.md)
 - [179 / 220](179-220.md)
 - [304](304.md)
+- [380](380.md)
 - [483/500 / 437](483-500-437.md)
 - [6.5 Fathom Spot](6-5-fathom-spot.md)
 - [Baja Pacific — North](baja-pacific-north.md)

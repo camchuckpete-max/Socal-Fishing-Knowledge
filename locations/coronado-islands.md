@@ -115,6 +115,7 @@ Trip reports and per-source provenance:
 - [101 / 425](101-425.md)
 - [1010 Trench / 378 / 213](1010-trench-378-213.md)
 - [372 / 245 / 250](372-245-250.md)
+- [380](380.md)
 - [43 / 91 / 300](43-91-300.md)
 - [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 - [5-Minute Kelp](5-minute-kelp.md)

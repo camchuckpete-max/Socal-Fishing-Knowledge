@@ -93,6 +93,7 @@ Trip reports and per-source provenance:
 - [1140 Finger / 450](1140-finger-450.md)
 - [179 / 220](179-220.md)
 - [372 / 245 / 250](372-245-250.md)
+- [380](380.md)
 - [385 / 238 / 475](385-238-475.md)
 - [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)
 - [483/500 / 437](483-500-437.md)

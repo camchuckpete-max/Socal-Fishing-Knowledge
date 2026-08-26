@@ -63,6 +63,7 @@
 - [372](372.md) **[Baja only]** — A charted spot at 31°22.717'N 118°32.283'W (cameron), in the 372 / 245 / 250 zone.
 - [378](378.md) **[Baja only]** — A charted spot at 31°54.000'N 117°50.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
 - [38 Fa. Spot](38-fa-spot.md) **[Baja only]** — A charted spot at 31°30.500'N 116°43.200'W (cameron), in the Punta Banda / Santo Tomas zone.
+- [380](380.md) **[Baja only]** — A zone is a run grouping.
 - [381](381.md) **[SoCal only]** — A charted spot at 32°41.000'N 118°36.500'W (cameron), in the 81 / 381 zone.
 - [385 / 238 / 475](385-238-475.md) **[Baja only]** — A zone is a run grouping.
 - [385](385.md) **[Baja only]** — A charted spot at 31°36.600'N 117°15.000'W (cameron), in the 385 / 238 / 475 zone.
@@ -423,5 +424,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 410 notes exceed the 30-node cap._
+_Map skipped: 411 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -710,6 +710,7 @@ the reverse map in **Linked from** below.
 ## Linked from
 
 - [101 / 425](../locations/101-425.md)
+- [380](../locations/380.md)
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [483/500 / 437](../locations/483-500-437.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)

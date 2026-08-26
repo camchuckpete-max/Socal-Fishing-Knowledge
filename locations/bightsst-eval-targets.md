@@ -64,6 +64,7 @@ itself. This is captured as doctrine in
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [289 / 284](289-284.md)
 - [311 (Trask Knoll)](311.md)
+- [380](380.md)
 - [43 / 91 / 300](43-91-300.md)
 - [474 / 711](474-711.md)
 - [51 / 181 / 138](51-181-138.md)
