@@ -75,6 +75,7 @@ the fleet behavior correctly before you run to it. See
 
 - [172 / 125](../locations/172-125.md)
 - [289 / 284](../locations/289-284.md)
+- [311 (Trask Knoll)](../locations/311.md)
 - [474 / 711](../locations/474-711.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)

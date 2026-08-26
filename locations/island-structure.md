@@ -152,6 +152,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [209 / 312](209-312.md)
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [289 / 284](289-284.md)
+- [311 (Trask Knoll)](311.md)
 - [43 / 91 / 300](43-91-300.md)
 - [474 / 711](474-711.md)
 - [475 Knuckle / Upper Finger Bank](475-knuckle-upper-finger-bank.md)

@@ -51,6 +51,7 @@
 - [302 (Kidney Bank)](302.md) **[SoCal only]** — A charted spot at 32°26.333'N 117°34.750'W (cameron), in the Coronados - 230 / 302 (Kidney Bank) / 226 zone.
 - [304](304.md) **[Baja only]** — A charted spot at 30°18.000'N 116°17.000'W (cameron), in the San Quintin zone.
 - [307](307.md) **[SoCal only]** — A charted spot at 33°47.500'N 118°32.000'W (cameron), in the The Boot (504) / 307 zone.
+- [311 (Trask Knoll)](311.md) **[SoCal only]** — A zone is a run grouping.
 - [312](312.md) **[SoCal only]** — A charted spot at 33°01.417'N 117°48.500'W (cameron), in the 209 / 312 zone.
 - [32 Fathom Spot rockfish](32-fathom-spot-rockfish.md) **[SoCal only]** — A charted spot at 32°50.750'N 117°19.950'W (cameron), in the La Jolla zone.
 - [33 Fa. Spot](33-fa-spot.md) **[Baja only]** — A charted spot at 31°29.000'N 116°42.800'W (cameron), in the Punta Banda / Santo Tomas zone.
@@ -405,5 +406,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 392 notes exceed the 30-node cap._
+_Map skipped: 393 notes exceed the 30-node cap._
 <!-- mermaid:end -->

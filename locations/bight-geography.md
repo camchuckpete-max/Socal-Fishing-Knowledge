@@ -76,6 +76,7 @@ share it).
 - [209 / 312](209-312.md)
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [289 / 284](289-284.md)
+- [311 (Trask Knoll)](311.md)
 - [474 / 711](474-711.md)
 - [81 / 381](81-381.md)
 - [April](../seasonal/april.md)
