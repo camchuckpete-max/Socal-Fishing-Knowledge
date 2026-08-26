@@ -78,9 +78,9 @@ closures, protected areas or restricted zones anywhere in this zone.
 Mitt at **30°58.000'N 117°40.000'W** and the 950 at **30°49.000'N
 118°10.500'W** (cameron). From Lower Cross, Catchers Mitt lies **17.3 nm** east
 on **097°** and the 950 **14.2 nm** southwest on **219°**; the two outliers are
-**27.7 nm** apart on **251°**, the span that sets the zone. From the computed
-centre at **30°55.667'N 117°56.833'W** the marks lie **5.1 nm** (Lower Cross),
-**13.5 nm** (the 950) and **14.6 nm** (Catchers Mitt) out — Lower Cross sits
+**27.7 nm** apart on **251°**, the span that sets the zone. Measured from the centre of the
+three, the marks lie **5.1 nm** (Lower Cross), **13.5 nm** (the 950) and
+**14.6 nm** (Catchers Mitt) out — Lower Cross sits
 near the middle because the zone was built around it.
 
 **Upper Cross and Lower Cross are a charted pair on one meridian.** Upper Cross

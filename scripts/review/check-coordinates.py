@@ -24,9 +24,28 @@ COORD = re.compile(r"(\d+)°([\d.]+)'N (\d+)°([\d.]+)'W")
 SRC = re.compile(r"^- (.+?) — (\d+) ([\d.]+) / (\d+) ([\d.]+)\s*$", re.M)
 
 
-def main() -> int:
+def known_positions() -> set[tuple[str, ...]]:
     text = (ROOT / "sources" / "spot-lists.md").read_text(encoding="utf-8")
-    known = {m.groups()[1:] for m in SRC.finditer(text)}
+    return {m.groups()[1:] for m in SRC.finditer(text)}
+
+
+def unsourced_in(text: str, known: set[tuple[str, ...]] | None = None
+                 ) -> list[str]:
+    """Positions in `text` that appear in no spot-library entry.
+
+    Exposed so check-note.py can run the same assertion on ONE note before it
+    is committed. The whole-tree sweep catches these too, but only after the
+    fact: it reddens the run, aborts the sweep step before its push, and says
+    nothing about which unit is responsible. Per-unit, the offending unit
+    escalates itself and the chain stays green.
+    """
+    if known is None:
+        known = known_positions()
+    return [m.group(0) for m in COORD.finditer(text) if m.groups() not in known]
+
+
+def main() -> int:
+    known = known_positions()
     if not known:
         print("check-coordinates: no source coordinates parsed", file=sys.stderr)
         return 1

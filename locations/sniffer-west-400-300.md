@@ -105,9 +105,9 @@ closures, protected areas or restricted zones anywhere in this zone.
 **31°09.800'N 118°28.300'W**, the Sniffer at **31°05.967'N 118°24.917'W** and
 the 300 (The Rampart) at **31°03.000'N 118°37.000'W** (cameron). West 400 to the
 Sniffer is **4.8 nm** on **143°**; the Sniffer to the Rampart is **10.8 nm** on
-**254°**; West 400 to the Rampart is **10.1 nm** on **228°**. From the computed
-centre at **31°06.256'N 118°30.072'W** the marks lie **3.9 nm** (West 400),
-**4.4 nm** (Sniffer) and **6.8 nm** (the Rampart) out — the most compact
+**254°**; West 400 to the Rampart is **10.1 nm** on **228°**. Measured from the centre of the
+three, the marks lie **3.9 nm** (West 400), **4.4 nm** (Sniffer) and
+**6.8 nm** (the Rampart) out — the most compact
 three-spot spread on the Baja grid after the Baja - 230 cluster (cameron).
 
 **The zone's northern line runs through a shorter hop than the zone itself.**

@@ -36,6 +36,11 @@ _spec = importlib.util.spec_from_file_location(
 lm = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(lm)
 
+_cspec = importlib.util.spec_from_file_location(
+    "check_coordinates", Path(__file__).resolve().parent / "check-coordinates.py")
+check_coordinates = importlib.util.module_from_spec(_cspec)
+_cspec.loader.exec_module(check_coordinates)
+
 QUOTE_RE = re.compile(r'"[^"\n]{15,}"')
 NUMBER_UNIT_RE = re.compile(
     r"\b\d[\d.,/–-]*\s?(?:lb|lbs|oz|g\b|kt|knots?|ft|feet|fathoms?|°F|°|"
@@ -84,6 +89,21 @@ def main() -> int:
     # 1. layout contract
     for p in lm.layout_problems(path):
         failures.append(f"layout: {p}")
+
+    # 1b. every published position traces to the spot library.
+    # A wrong waypoint on a fishing page is a real-world hazard, so this
+    # fails the UNIT rather than waiting for the whole-tree sweep. Five zone
+    # pages published a computed zone CENTROID as a charted position — one
+    # even called it "the computed centre" and printed it anyway, another
+    # attributed it to cameron, who never gave it. A centroid is an average
+    # of member spots: not a mark, not a place, and not somewhere anyone
+    # should steer.
+    if rel.startswith("locations/"):
+        for coord in check_coordinates.unsourced_in(text):
+            failures.append(
+                f"unsourced coordinate {coord} — a published position must be "
+                f"copied from sources/spot-lists.md, never computed. A zone "
+                f"centre is not a position: state the distance without it.")
 
     # 2. conservation vs HEAD
     before = head_version(rel)

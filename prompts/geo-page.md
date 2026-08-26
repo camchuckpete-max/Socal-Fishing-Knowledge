@@ -36,6 +36,14 @@ phase (`prompts/gazetteer-spot.md`).
 5. **Coordinates:** charted/public positions only, and only from
    `sources/spot-lists.md` or existing notes. Never invent, never infer from a
    transit time. Personal waypoints stay in `profiles/`.
+   **A zone CENTRE is not a position.** The census centroid is an average of
+   the member spots — a working number for measuring spread, not a mark, not a
+   place, and not somewhere anyone should steer. Five zone pages published one
+   in `DD°MM.mmm'` form; one called it "the computed centre" and printed it
+   anyway, another attributed it to cameron, who never gave it. State the
+   distances without naming a centre: "no mark is more than 2.3 nm off the
+   centre of the three" — never "off the zone centre at 32°37.294'N …".
+   `scripts/review/check-note.py` now fails your unit for this.
 6. Follow `templates/style-guide.md` — plain statements, compact cites, no
    meta-attribution, no relative time, region-scoped parameters.
 
