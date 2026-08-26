@@ -120,6 +120,7 @@ Trip reports and per-source provenance:
 - [Imperial Beach](imperial-beach.md)
 - [International Artificial Reef](international-artificial-reef.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
+- [La Paz](la-paz.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Lower Cross](lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)

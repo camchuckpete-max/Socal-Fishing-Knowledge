@@ -242,6 +242,7 @@ because silence would read as "nothing there":
   Pulmo from context and not confidently resolved (`6j7V34GYzzw`).
 
 <!-- children:start -->
+- [La Paz](la-paz.md)
 - [Loreto & Puerto Escondido](loreto.md)
 <!-- children:end -->
 
@@ -304,6 +305,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Evidence — Cortez South](evidence/cortez-south.md)
+- [La Paz](la-paz.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Mexican waters](mexican-waters.md)
 <!-- backlinks:end -->

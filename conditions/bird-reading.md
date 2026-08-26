@@ -157,6 +157,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [Evidence — North 9 Mile Bank / 178](../locations/evidence/north-9-mile-bank-178.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kelp Paddies](kelp-paddies.md)
+- [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)

@@ -438,6 +438,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [La Fonda / Bajamar / Salsipuedes](../locations/la-fonda-bajamar-salsipuedes.md)
 - [La Jolla](../locations/la-jolla.md)
+- [La Paz](../locations/la-paz.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Lower Cross](../locations/lower-cross.md)

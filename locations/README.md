@@ -262,6 +262,7 @@
 - [La Jolla Canyon](la-jolla-canyon.md) **[SoCal only]** — A charted spot at 32°54.000'N 117°18.800'W (cameron), in the La Jolla zone.
 - [La Jolla Shelf hardbottom](la-jolla-shelf-hardbottom.md) **[SoCal only]** — A charted spot at 32°51.300'N 117°19.250'W (cameron), in the La Jolla zone.
 - [La Jolla](la-jolla.md) **[SoCal only]** — The San Diego coastal zone at the head of La Jolla Canyon: 14 charted spots in the spot library (cameron) — the thirteen of the library's own La Jolla section p
+- [La Paz](la-paz.md) **[Baja only]** — [Baja only] — The structure end of Cortez South, and the zone where the region's shallow-rock program is the whole day rather than the thing that runs under an
 - [The Lab](lab.md) **[SoCal only]** — A charted spot at 32°41.450'N 117°16.310'W (cameron), in the Point Loma zone.
 - [Landing Cove](landing-cove.md) **[SoCal only]** — A charted spot at 33°28.933'N 119°01.754'W (cameron), in the Santa Barbara Island zone.
 - [Leucadia rockfish area](leucadia-rockfish-area.md) **[SoCal only]** — A charted spot at 33°04.100'N 117°20.600'W (cameron), in the Oceanside / North County zone.
@@ -428,5 +429,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 415 notes exceed the 30-node cap._
+_Map skipped: 416 notes exceed the 30-node cap._
 <!-- mermaid:end -->

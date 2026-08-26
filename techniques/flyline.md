@@ -838,6 +838,7 @@ confidence.
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
+- [La Paz](../locations/la-paz.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

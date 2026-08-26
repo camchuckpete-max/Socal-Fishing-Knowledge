@@ -128,5 +128,10 @@ harvested.
 | Alijos Rocks | locations/alijos-rocks.md | Spots | rock breaking the surface and running to the bottom, 488 mi from San Diego on a 45-hour run; fished and described as one ground with no named high spots, faces or corners, and no position anywhere in the corpus | `_r08B4bItAY`, `97clKtVsEOs` |
 | Thetis Bank | locations/alijos-rocks.md | Spots | a separate ground on the Magdalena-Bay-to-Alijos corridor, left overnight because the current was opposite | `3tQ1_xiqwVU` |
 | El Arco (Cabo San Lucas) | locations/cabo-san-lucas.md | Getting there | the rock arch at the cape, cleared on the way out of the harbor with the fishing grounds reached shortly after; a landmark, not a ground | `XH-Hrfet6To` |
-| "The petroglyph" (Cabo San Lucas beach, unresolved name) | locations/cabo-san-lucas.md | Spots | the beach landmark the surf-line sierra troll starts in front of — the zone's only named position, resolving to no charted place in the KB | `ll7r4A6atno` |
+| "The petroglyph" (Cabo San Lucas beach, unresolved name) | locations/cabo-san-lucas.md | Spots | the beach landmark the surf-line sierra troll starts in front of — the zone's only named position, resolving to no charted place in the KB | `ll7r4A6atno` || El Bajo (La Paz) | locations/la-paz.md | Spots | the area's most famous high spot; shallowest roughly 50 ft on low tide, no more than 80 ft on high; dropped and slow-trolled mackerel for yellowtail and amberjack; name also heard "El elito"/"El bajito" | `92y14x33etQ` |
+| Isla Espíritu Santo | locations/la-paz.md | Spots | island rock fished close in for mullet snapper and cabrilla; abandoned when the current died | `92y14x33etQ` |
+| La Paz shared high spot (unnamed) | locations/la-paz.md | Spots | day-2 ground, small enough that the fleet's boats stacked on it; sand bottom; flylined mackerel from outside the pack | `qM7iOO7fOBw` |
+| La Paz roosterfish beach (unnamed) | locations/la-paz.md | Spots | white-sand beach the fleet runs to and works laps off with a launched mackerel; no bite on the one documented attempt | `92y14x33etQ` |
+| La Paz bait containers | locations/la-paz.md | Spots | floating structure near the port where green mackerel are jigged before the run out; a stop, not a ground | `ORC1A68cEeM` |
+
 <!-- review:harvest:end -->

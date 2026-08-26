@@ -175,6 +175,7 @@ framework this SoCal-bight note otherwise focuses on.
 - [Current Structure](current-structure.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Island Structure](../locations/island-structure.md)
+- [La Paz](../locations/la-paz.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)

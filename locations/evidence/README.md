@@ -37,6 +37,7 @@
 - [Evidence — International Artificial Reef](international-artificial-reef.md) — The observation layer behind International Artificial Reef.
 - [Evidence — LA - 270 / 286](la-270-286.md) — Provenance for LA - 270 / 286.
 - [Evidence — La Jolla](la-jolla.md) — The observation layer behind La Jolla.
+- [Evidence — La Paz](la-paz.md) — The observation layer behind La Paz.
 - [Evidence — Loreto & Puerto Escondido](loreto.md) — The observation layer behind Loreto & Puerto Escondido.
 - [Evidence — Mexican waters](mexican-waters.md) — The observation layer behind Mexican waters.
 - [Evidence — North 9 Mile Bank / 178](north-9-mile-bank-178.md) — Provenance for North 9 Mile Bank / 178.
@@ -61,5 +62,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 51 notes exceed the 30-node cap._
+_Map skipped: 52 notes exceed the 30-node cap._
 <!-- mermaid:end -->

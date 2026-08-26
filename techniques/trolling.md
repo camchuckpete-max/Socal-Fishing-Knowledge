@@ -1100,6 +1100,7 @@ covered above, not a new tool.
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](../tackle/tackle-express-jig-stick-trolling-outfit.md)
+- [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Mad Mac](../lures/mad-mac.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

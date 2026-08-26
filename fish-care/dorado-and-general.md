@@ -75,5 +75,6 @@ StokedOnFishing, 2019-06-06):
 
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 <!-- backlinks:end -->

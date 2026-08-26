@@ -132,6 +132,7 @@ meter them." General method:
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
+- [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

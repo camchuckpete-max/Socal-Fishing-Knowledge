@@ -279,6 +279,7 @@ shortages, where the barge isn't an option.
 - [Fishing Live Bait](fishing-live-bait.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
 - [La Jolla](../locations/la-jolla.md)
+- [La Paz](../locations/la-paz.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)

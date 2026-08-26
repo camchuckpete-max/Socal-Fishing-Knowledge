@@ -508,6 +508,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [La Jolla](../locations/la-jolla.md)
+- [La Paz](../locations/la-paz.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [May](../seasonal/may.md)
