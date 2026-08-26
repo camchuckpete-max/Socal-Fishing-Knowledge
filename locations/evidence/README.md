@@ -12,6 +12,7 @@
 - [Evidence — 474 / 711](474-711.md) — Provenance for 474 / 711.
 - [Evidence — 51 / 181 / 138](51-181-138.md) — Provenance for 51 / 181 / 138.
 - [Evidence — 81 / 381](81-381.md) — Provenance for 81 / 381.
+- [Evidence — Alijos Rocks](alijos-rocks.md) — The observation layer behind Alijos Rocks.
 - [Evidence — Bahía de los Ángeles](bahia-de-los-angeles.md) — The observation layer behind Bahía de los Ángeles.
 - [Evidence — Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md) — The observation layer behind Magdalena Bay.
 - [Evidence — Baja Pacific — North](baja-pacific-north.md) — The observation layer behind Baja Pacific — North.
@@ -59,5 +60,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 49 notes exceed the 30-node cap._
+_Map skipped: 50 notes exceed the 30-node cap._
 <!-- mermaid:end -->

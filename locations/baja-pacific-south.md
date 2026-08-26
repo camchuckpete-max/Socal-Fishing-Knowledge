@@ -193,6 +193,7 @@ omitted, because silence would read as "nothing there":
   it.
 
 <!-- children:start -->
+- [Alijos Rocks](alijos-rocks.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 <!-- children:end -->
 
@@ -252,6 +253,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Alijos Rocks](alijos-rocks.md)
 - [Cortez South](cortez-south.md)
 - [Evidence — Baja Pacific — South](evidence/baja-pacific-south.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)

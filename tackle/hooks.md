@@ -998,6 +998,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)

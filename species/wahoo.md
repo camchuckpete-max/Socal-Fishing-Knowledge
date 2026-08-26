@@ -292,6 +292,7 @@ for locating wahoo specifically. General method:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Dorado (Mahi-Mahi)](dorado.md)

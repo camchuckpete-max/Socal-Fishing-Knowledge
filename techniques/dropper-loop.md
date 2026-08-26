@@ -578,6 +578,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 
 - [12 Mile Reef](../locations/12-mile-reef.md)
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)

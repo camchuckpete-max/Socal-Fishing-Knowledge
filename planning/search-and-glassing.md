@@ -418,6 +418,7 @@ current "should" carry everything astern.
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [August](../seasonal/august.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bait Tanks](../bait/bait-tanks.md)

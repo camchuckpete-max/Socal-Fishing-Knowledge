@@ -556,6 +556,7 @@ the bluefin nearby become more cooperative too.**
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [August](../seasonal/august.md)
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)

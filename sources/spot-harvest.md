@@ -125,4 +125,6 @@ harvested.
 | Punta Perico (Loreto) | locations/loreto.md | Structure & bathymetry | shoreline point that produced a yellowtail on an earlier trip; bait vendor placed dorado close to shore here, caught roughly 10:20–11:00 | `n4nMCLLW3tY` |
 | "The Sante" / "desante" (Loreto, asr-uncertain name) | locations/loreto.md | Spots | the ground locals first named for dorado before the crew chose Punta Perico; passed again on the tow home; resolves to no charted place in the KB | `n4nMCLLW3tY` |
 | Puerto Escondido Marina (Loreto) | locations/loreto.md | Getting there | the zone's documented launch, a little south of Loreto; bait vendor meets boats out front | `n4nMCLLW3tY`, `ikiXx9sUsoA` |
+| Alijos Rocks | locations/alijos-rocks.md | Spots | rock breaking the surface and running to the bottom, 488 mi from San Diego on a 45-hour run; fished and described as one ground with no named high spots, faces or corners, and no position anywhere in the corpus | `_r08B4bItAY`, `97clKtVsEOs` |
+| Thetis Bank | locations/alijos-rocks.md | Spots | a separate ground on the Magdalena-Bay-to-Alijos corridor, left overnight because the current was opposite | `3tQ1_xiqwVU` |
 <!-- review:harvest:end -->

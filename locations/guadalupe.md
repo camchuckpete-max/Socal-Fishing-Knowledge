@@ -273,6 +273,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Alijos Rocks](alijos-rocks.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Guadalupe](evidence/guadalupe.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

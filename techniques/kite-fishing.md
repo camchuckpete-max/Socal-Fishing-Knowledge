@@ -429,6 +429,7 @@ quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#kite-outfit-boat-
 ## Linked from
 
 - [474 / 711](../locations/474-711.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

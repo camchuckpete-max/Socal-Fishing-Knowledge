@@ -467,6 +467,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [474 / 711](../locations/474-711.md)
 - [81 / 381](../locations/81-381.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)

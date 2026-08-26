@@ -181,6 +181,7 @@ doctrine above or add a SoCal-specific parameter.
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Baja Pacific — North](../locations/baja-pacific-north.md)

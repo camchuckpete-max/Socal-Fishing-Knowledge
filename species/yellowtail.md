@@ -383,6 +383,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [April](../seasonal/april.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)

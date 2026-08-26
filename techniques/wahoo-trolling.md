@@ -150,6 +150,7 @@ single-video citation for the parameters below, medium confidence.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

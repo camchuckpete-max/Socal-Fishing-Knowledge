@@ -475,6 +475,7 @@ grade, or technique detail given for the dorado specifically.
 - [483/500 / 437](../locations/483-500-437.md)
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [81 / 381](../locations/81-381.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](../tackle/all-purpose-rod-line-rating.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)

@@ -713,6 +713,7 @@ the reverse map in **Linked from** below.
 - [380](../locations/380.md)
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [483/500 / 437](../locations/483-500-437.md)
+- [Alijos Rocks](../locations/alijos-rocks.md)
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](../tackle/tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)

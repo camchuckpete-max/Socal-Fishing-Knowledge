@@ -107,6 +107,7 @@
 - [The Airplane rockfish area](airplane-rockfish-area.md) **[SoCal only]** — A charted spot at 32°45.570'N 117°18.460'W (cameron), in the La Jolla zone.
 - [The Airplane](airplane.md) **[Baja only]** — A charted spot at 31°50.000'N 118°07.000'W (cameron), in the 1010 Trench / 378 / 213 zone.
 - [Albatross Knoll](albatross-knoll.md) **[SoCal only]** — A charted spot at 32°58.000'N 119°56.833'W (cameron), in the Sverdrup Bank (126) zone.
+- [Alijos Rocks](alijos-rocks.md) **[Baja only]** — [Baja only] — The San Diego long-range fleet's dedicated wahoo stop, and the outermost zone of Baja Pacific — South.
 - [Anderson Pipe](anderson-pipe.md) **[SoCal only]** — A charted spot at 33°06.770'N 117°20.100'W (cameron), in the Oceanside / North County zone.
 - [Arch Reef (caution — boilers in big swell)](arch-reef.md) **[SoCal only]** — A charted spot at 33°28.859'N 119°03.749'W (cameron), in the Santa Barbara Island zone.
 - [Arguello Canyon](arguello-canyon.md) **[SoCal only]** — A charted spot at 34°22.000'N 121°04.000'W (cameron), in the Davis Knoll / San Miguel Gap / Rodriguez Seamount zone.
@@ -425,5 +426,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 412 notes exceed the 30-node cap._
+_Map skipped: 413 notes exceed the 30-node cap._
 <!-- mermaid:end -->
