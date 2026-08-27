@@ -313,18 +313,4 @@ harvested.
 | Cortez Bank | techniques/fighting-big-bluefin.md | Tough hookup-to-landing ratio on 40 lb tackle | evening "Sundowner" bite on bigger-grade bluefin, ~6 hooked and 1 landed on 40 lb line with a tiny circle hook | `nQvJnfb5jQ4` |
 | Cedros Island | techniques/fighting-big-bluefin.md | evidence — Sea lion depredation | a hooked yellowtail grabbed boatside and pulled back into the water by a sea lion ("the Lobo") while being bled over the rail | `d0yGBQDeY_4` |
 | East Cape | techniques/fighting-big-bluefin.md | Handing off a tiring angler | live mid-fight coaching on a big tuna to hand the rod to a teammate rather than fight fatigued | `_c6UI3lGBVg` |
-| Lopez Mateos / Magdalena Bay | techniques/flyline.md | Regional rigs — Baja mangrove structure-casting | anchor lay, ebb-tide window, and zero-weight mangrove-edge flylining for snook, corvina, and pargo | `dlxA22FVNGc` |
-| East Cape | techniques/flyline.md | Fishing it | flylined squid worked dead/slow-drifted close to shore, fish holding 30-60 ft down | `mL4Ph7t0WcQ` |
-| desperation reef | techniques/flyline.md | evidence — Fishing it | anchored on desperation reef; flylined dead squid drew repeat bluefin bites despite current running against the wind | `Rb5I2ljAqeE` |
-| 14 Mile Bank / 209/267 complex | techniques/flyline.md | evidence — Gear class | a kelp paddy in this complex produced quality yellowtail on 25 lb fluoro to a No. 2-3 J hook when the day's bluefin wouldn't bite | `-bw1KDfDjv4` |
-| Catalina Island | techniques/flyline.md | evidence — Hook position by situation | butt-hooked flylined sardine was the "hot ticket" bait at the west end, 2/0-3/0 hook, 25-30 lb leader | `M7BtON4GZgQ` |
-| San Clemente Island | techniques/flyline.md | evidence — Bait, hook, and leader selection | pre-trip briefing tackle: 30 lb test to ~3/0 circle hook on 30 lb fluorocarbon, drag-must-be-set emphasis | `V_ONnegk95M` |
-| Camp Pendleton coast (North County San Diego) | techniques/flyline.md | evidence — Hook position by situation | kids' charter rigged sardines nose-hooked or lower toward the tail; a straight flylined sardine produced a kid's fish | `HMdrP4-i9MM` |
-| Newport Beach | techniques/flyline.md | evidence — Bait, hook, and leader selection | anchovy (3-4 in) fly-lined on No. 4-No. 2 hooks, 25-30 lb fluorocarbon leader called "a must have" | `_PGm-TlFU2A` |
-| San Diego | techniques/flyline.md | evidence — Bait, hook, and leader selection | angler Wayne Burnette landed a yellowtail on a flylined "small sliding shaker" bait, 40 lb Izorline | `fcdWAo0VAKw` |
-| Guadalupe Island | techniques/flyline.md | evidence — Bait, hook, and leader selection | a finicky bite went dead on 50-60 lb test; downsizing to 30 lb got bit within two minutes and landed a 130 lb fish | `48ZFXnCTTQE` |
-| La Paz | techniques/flyline.md | evidence — La Paz / La Ventana open-water high spots | fleet worked a crowded shared high spot flylining mackerel; fishing outside the pack turned the bite from nothing to instant hookups | `qM7iOO7fOBw` |
-| La Ventana | techniques/flyline.md | evidence — La Paz / La Ventana open-water high spots | local captain worked a named high spot rising from ~200 ft to 80 ft; a freely-swum bait was bit after about seven seconds | `1nK7vSPl2sg` |
-| Cedros Island | techniques/flyline.md | evidence — Gear class | anglers aboard the mother ship got bit fly-lining sardines on 30 lb line to a 30 lb fluorocarbon top shot, producing yellowtail | `_C8w6zeVPak` |
-| Pyramid Head (San Clemente Island) | techniques/flyline.md | evidence — Fishing it | on a better grade of yellowfin sitting deeper, crew added 1/2-3/4 oz rubber-core/sliding sinker to flylined, butt-hooked sardines | `Ow3an9lSVh4` |
 <!-- review:harvest:end -->

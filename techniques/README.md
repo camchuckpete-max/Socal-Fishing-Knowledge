@@ -16,7 +16,7 @@
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md) — Execution for landing a hooked big bluefin (100–300 lb class) once it's on: the boat, not the angler's arms, does the work of bringing the fish in.
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md) — Baseline rod-handling for a hooked fish worth fighting on a sportboat: brace the rod against the boat's rail rather than holding it up on arms/body alone.
 - [Flat-Fall Jigging](flat-fall-jigging.md) **[SoCal only]** — A free-spool-and-count presentation for large bluefin tuna marked deep: drop the jig on slack line, let it fall to the bite zone, and work it in partial up-and-
-- [Flyline](flyline.md) — Execution for flylining live bait: a hooked bait fished with no weight, left to swim on its own out and away from the boat — the most natural presentation in th
+- [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
 - [Glide Baits](glide-baits.md) **[SoCal only]** — A glide bait is a large, hard-bodied, jointed swimbait that kicks side-to-side on the pause — the European pike/musky-derived class (DS Prestos, Jackal, Gucci-s
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.

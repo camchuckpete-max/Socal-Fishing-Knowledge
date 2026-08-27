@@ -467,7 +467,6 @@ Trip reports and per-source provenance:
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Colonet](../locations/evidence/colonet.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
-- [Evidence — Flyline](../techniques/evidence/flyline.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — San Quintin](../locations/evidence/san-quintin.md)

@@ -47,7 +47,7 @@ by their builders after the transform phase drains.
 | techniques/fighting-big-bluefin.md | standard | transformed | gaps(1) | migrated to layout v2: technique skeleton, plain-statement prose with compact cites, dissolved source-named headings, split ~26 observed blocks to evidence with traces beside doctrine, decision frame for sea-lion conflict; verified with 1 fix (restored dropped kite-fishing.md link) |
 | techniques/fighting-fish-from-the-rail.md | standard | escalated |  | escalated: guard: out of scope for 'review: techniques/fighting-fish-from-the-rail.md': tackle/gear-classes.md |
 | techniques/flat-fall-jigging.md | standard | transformed | gaps(2) | restructured to technique skeleton, house-style rewrite with compact cites, decision-rule-first leader conflict; verified with fixes (restored conflict-speaker attribution, restored a product-confidence caveat) |
-| techniques/flyline.md | standard | transformed | spots(14) | migrated to layout v2: restructured to technique skeleton, moved 24 trip observations to evidence file, plain-statement/compact-cite rewrite, infobox added; verified with fixes (restored 2 dropped observations, fixed 1 broken cross-reference in locations/la-paz.md) |
+| techniques/flyline.md | standard | pending |  |  |
 | techniques/foamer-casting.md | standard | pending |  |  |
 | techniques/glide-baits.md | standard | pending |  |  |
 | techniques/hoop-netting.md | standard | pending |  |  |
