@@ -5,23 +5,25 @@ sources: [0xJqOtkmHqY, 6wVlDDno2TE, Y2XZ34-Tpa0, bEFhWtGBdBU, fgTmUq78ofQ, scScY
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+gear_classes: any rod fought from a sportboat rail; the big-tuna and Seeker-2x4 variants below assume rail-rod-heavy-tuna class
+depth_band: not applicable — a boat-side fighting posture, not a presentation depth
+retrieve_speed: not applicable — a fighting posture, not a lure/bait retrieve
 ---
 
 # Fighting Fish from the Rail — Brace, Pump, Don't High-Stick
 
 Baseline rod-handling for a hooked fish worth fighting on a sportboat: brace
-the rod against the boat's rail rather than holding it up on arms/body alone.
-(Laurie Sackow and Martin Flores, Turner's Outdoorsman, San Marcos location,
-via SearcherSportfishing "Tackle Tip Thursday Vol. 169 (The Rail Is Your
-Friend)," `0xJqOtkmHqY`, 2022-02-17; attributed on camera to Captain Art of
-the Searcher — "the rail is your friend"; unregistered channel/speaker —
-medium confidence.)
+the rod against the boat's rail instead of holding it up on arms and body
+alone — "the rail is your friend" (`0xJqOtkmHqY`). Applies to the default
+crank-then-let-the-rod-carry-the-load phase of a fight, on any gear class,
+once the fish's initial run has slowed and line is coming back.
 
 ## Reach for this when
 
-- You're hooked to a big fish that has taken its run and you're starting to
-  gain line back — this is the default way to hold the rod for that phase of
-  a fight, not a method specific to one species or gear class.
+- A hooked fish has taken its run and you're starting to gain line back —
+  this is the default way to hold the rod for that phase of a fight, not a
+  method specific to one species or gear class.
 - You notice yourself, or another angler, holding the rod up with just
   arms/body and no support against the boat — the failure mode this
   technique corrects.
@@ -34,83 +36,71 @@ medium confidence.)
 - Crank the reel handle to gain line; when the rod tip loads up and bends,
   **stop cranking** — let the rod, braced on the rail, do the lifting on its
   own.
-- Crank again, stop again, and repeat: gain line on the crank, let the rod
-  and rail carry the load on the pause.
+- Crank again, stop again, repeat: gain line on the crank, let the rod and
+  rail carry the load on the pause (`0xJqOtkmHqY`).
 
-## Stance variants by body size and knees (SearcherSportfishing, "Tackle Tip Thursday Vol. 138 (Using the Rail)," `bEFhWtGBdBU`, 2021-03-04; speaker not identified on camera — a single mention of these specific stance variants caps this at medium confidence even though `searcher-sportfishing` is a registered channel/series)
+## Stance variants by body size and knees
 
-An earlier Tackle Tip Thursday from the same program — it closes on the same
-catchphrase as the Vol. 169 source above, "use the rail, it's your friend,"
-but predates it by about a year and doesn't name its on-camera speaker — gives
-two more ways to load the rod against the rail, sized to the angler rather
-than to the fish:
+Two more ways to load the rod against the rail, sized to the angler rather
+than the fish (`bEFhWtGBdBU`):
 
 - **Smaller anglers / kids:** instead of tucking the rod under the armpit,
   put the rod between the legs, then lean up into the fish and bounce up,
   winding down as the rod comes back — the same crank-then-let-the-rod-carry-
   the-load pattern above, adapted for someone too small to brace the rod
   under an arm.
-- **On the knees:** kneel, rest the rod on the rail, keep the **left hand in
-  front of** (rather than on top of) the reel, and turn the handle. Called out
-  as "a little bit harder on here" than the other stances (no reason given),
-  and explicitly **not recommended for anglers with bad knees**.
-- **Stated reasoning for bracing on the rail generally:** doing it this way —
-  rather than the arms/body carrying the rod's load unsupported — reduces
-  stress on the back, uses less energy, and lets the angler hold pressure on
-  the fish continuously through the fight. Repeatedly pulling up and winding
-  down without the rail's support will "hurt yourself really bad," called out
-  specifically for **bigger bluefin**.
+- **On the knees:** kneel, rest the rod on the rail, keep the left hand in
+  front of (rather than on top of) the reel, and turn the handle. Called out
+  as "a little bit harder" than the other stances (no reason given), and not
+  recommended for anglers with bad knees.
+- Bracing on the rail — rather than carrying the rod's load on arms/body
+  alone — reduces stress on the back, uses less energy, and lets the angler
+  hold pressure on the fish continuously through the fight. Repeatedly
+  pulling up and winding down without the rail's support will "hurt yourself
+  really bad," called out specifically for bigger bluefin (`bEFhWtGBdBU`).
 
-## Hip-braced posture — the other default besides the rail (Tackle Express, "Master Your Fishing Rod Technique for Maximum Control," `IqpeK5Xfhes`, 2026-06-28; unregistered channel, single mention — medium confidence)
+## Hip-braced posture — the other default besides the rail
 
-A short interview segment names **bracing the rod butt into your hip** as
-the other posture beginners commonly default to, alongside the rail — the
-interviewer's own framing: most new anglers either hold it on their hip or
-put it on the rail, "one of the two if it's on a sport boat."
+Bracing the rod butt into the hip is the other posture most new anglers
+default to on a sportboat — "one of the two if it's on a sport boat," besides
+the rail (`IqpeK5Xfhes`).
 
 - **When:** once a hooked fish starts pulling hard and puts real pressure on
-  the angler — described as the point where an angler commonly switches into
-  this posture, distinct from just holding the rod up unsupported.
-- **Mechanics:** put the rod into your hip rather than holding it up on
-  arms/body alone. This forms a **triangle** (rod, arm, body) that shifts the
-  lifting work onto your **legs and back** instead of your arms — stated as
-  giving a lot more lifting power than an unsupported hold. Keeping that
-  braced position straight under load, rather than letting it collapse/bend,
-  is called out as adding more strength.
-- Presented as a companion posture to rail-bracing above, not a replacement
-  for it — the source doesn't rank the two or say when to pick one over the
-  other, only that both are common defaults for a beginner.
+  the angler, distinct from just holding the rod up unsupported.
+- **Mechanics:** put the rod into the hip rather than holding it up on
+  arms/body alone. This forms a triangle (rod, arm, body) that shifts the
+  lifting work onto the legs and back instead of the arms, giving a lot more
+  lifting power than an unsupported hold; keeping the braced position
+  straight under load, rather than letting it collapse/bend, adds more
+  strength (`IqpeK5Xfhes`).
+- A companion posture to rail-bracing above, not a replacement for it — both
+  are common beginner defaults, with no ranking given between them
+  (`IqpeK5Xfhes`).
 
 ## The failure mode this avoids — high-sticking
 
-Stated problem: too many anglers try to fight the fish entirely with their
-body — holding the rod up unsupported instead of resting it against the
-rail — which the source calls **"high sticking."** Framed as the single most
-common mistake this tip is meant to correct.
+Too many anglers try to fight the fish entirely with their body — holding
+the rod up unsupported instead of resting it against the rail — a mistake
+this source calls "high sticking," and frames as the single most common
+mistake this tip is meant to correct (`0xJqOtkmHqY`).
 
-## Big-tuna variant — armpit tuck, low gear, and body-weight leverage (Steve Carson, Penn/Searcher, 2023-07-13)
+## Big-tuna variant — armpit tuck, low gear, and body-weight leverage
 
-Steve Carson, Penn Fishing Tackle, aboard the **Searcher**
-(SearcherSportfishing, "Tackle Tip Thursday Vol. 224 (Big Tuna Tackle),"
-`6wVlDDno2TE`, uploaded 2023-07-13; unregistered channel/speaker — medium
-confidence). A more detailed rail technique, called on camera **"using the
-rail,"** aimed specifically at fighting big tuna on the heavier two-speed
-rigs (Penn International 16VISX/20VISX class — see
-[Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)).
-He frames this as just "the basics" of a technique with more depth than a
-short segment can cover.
+A more detailed rail technique aimed specifically at fighting big tuna on
+heavier two-speed rigs (Penn International 16VISX/20VISX class — see
+[Searcher big-tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md))
+(`6wVlDDno2TE`):
 
 - **Tuck the rod under the armpit** — for a right-handed angler, under the
-  **left** armpit specifically; he flags a natural pull toward tucking to
-  the right instead and coaches explicitly against it.
+  **left** armpit specifically; there's a natural pull toward tucking to the
+  right instead, coached against explicitly.
 - **If the fish is down below, lay the rod directly on the rail** rather
-  than holding it off the rail — this requires a rod with a **long
-  foregrip** to rest against the rail properly. See [rail-rod class —
+  than holding it off the rail — this requires a rod with a long foregrip to
+  rest against the rail properly. See [rail-rod class —
   mechanism](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
   for why: a longer hypalon foregrip section is the physical feature that
   distinguishes a rail rod from a conventional rod and lets it brace on the
-  rail for the leverage bigger fish need (SearcherSportfishing, `Y2XZ34-Tpa0`,
-  2019-06-06).
+  rail for the leverage bigger fish need (`Y2XZ34-Tpa0`).
 - **Brace the reel against twisting:** under load there's a strong twisting
   motion on the rod/reel; put a hand on top of the reel or on the side of
   the reel (either works) to counter it.
@@ -119,88 +109,99 @@ short segment can cover.
   with the arms/wrist alone. Same low-gear mechanism as
   [two-speed low-gear fight](two-speed-low-gear-fight.md).
 - **Rail height varies by where you stand on the boat** (the Searcher's rail
-  height differs around the deck) — work out where and how you want to stand
-  before the fight, not during it.
+  height differs around the deck) — work out where and how to stand before
+  the fight, not during it.
 - **Fish farther from the boat:** an alternative stance — kneel on one knee
   and lay the rod on the rail from there — described as more relaxing for
   that scenario.
 
-This is a **doctrine-grade (stated-reasoning) version** of the same
-armpit-tuck/rail-brace/hand-on-reel mechanic already logged as **Observed**
-footage (without stated reasoning) at
-[fighting a big bluefin](fighting-big-bluefin.md#walk-it-down-swell-avoid-the-death-circle)
-— kept side by side, not merged, per the doctrine-vs-observation rule; that
-note's entries describe the same left-armpit/hand-on-reel/squat-and-stand
-pattern independently observed on StokedOnFishing trips.
+The same left-armpit, hand-on-reel, squat-and-stand mechanic is independently
+corroborated, without this stated reasoning, across three StokedOnFishing
+trips fighting big bluefin — see [fighting a big
+bluefin](fighting-big-bluefin.md#walk-it-down-swell-avoid-the-death-circle).
 
-## Why rail fishing fell out and came back, and harnesses vs. belts (Art Taylor/Lori Sackow, SearcherSportfishing, via Turner's Outdoorsman)
+## Watch the tip — Seeker 2x4 rail-rod demo
 
-**(Art Taylor/Lori Sackow, SearcherSportfishing, `fgTmUq78ofQ`, "Tackle Tip
-Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
-`searcher-sportfishing` registered channel — medium confidence, single
-mention.)** Historical context for why rail fishing became the default
-rather than an always-standard practice: roughly **20 years before this 2021
-seminar (i.e., around 2001)**, **IGFA world-record rules** disqualified a
-catch if the angler touched the rail or got help from anyone else during the
-fight, which pushed anglers away from bracing on the rail for a stretch —
-framed on camera, half-joking, as rail use once being seen as "for wussies."
-By the time of this seminar, **"everybody's using the rail again."**
-**Fighting belts vs. harnesses:** a rod (fighting) belt is still commonly
-used by anglers who like one; a shoulder/back **harness**, by contrast, is
-now rarely seen — called cumbersome, and getting in and out of one costs
-time that's usually needed at exactly the wrong moment (a hot bite or a
-fish suddenly changing direction).
-
-## Seeker 2x4 rail-rod demo — watch the tip (Rick Holt and Sophia Nguyen, Seeker Rods)
-
-**(Rick Holt, Seeker Rods owner, with Sophia Nguyen, via SearcherSportfishing,
-"Tackle Tip Thursday Vol. 196 (Work Smarter with Seeker's 2x4 Rod),"
-`scScYJJF95Y`, 2022-09-08; `searcher-sportfishing` registered channel/series
-— medium confidence for the mechanism; the named rod stays low confidence,
-sponsored-claim caveat, since Holt and Nguyen are Seeker Rods staff.)** A
-specific rail-fighting drill demonstrated on a **Seeker OSP 2x4** rail rod
-(specs and named applications in [gear classes — rail-rod
-class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)):
+A rail-fighting drill demonstrated on a Seeker OSP 2x4 rail rod (specs and
+named applications in [gear classes — rail-rod
+class](../tackle/gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism))
+(`scScYJJF95Y`):
 
 - **Stance:** rod tucked under the arm, reel hand positioned on/against the
   reel, pushing the rod against the body rather than lifting it free of any
   support.
-- **Watch the rod tip, not the fish or the line — the cue this demo adds:**
-  as the boat rocks and the fish loads the rod, the tip goes down; when the
-  tip comes back up, that's the cue to start winding. Wind continuously
-  while the tip is up; as soon as the rod loads again and the tip drops back
-  down, stop winding and let the fish/boat motion take over rather than
-  cranking against it.
-- **Reel stays in low gear** throughout. This is the same low-gear mechanism
-  as [two-speed low-gear fight](two-speed-low-gear-fight.md), but framed here
+- **Watch the rod tip, not the fish or the line:** as the boat rocks and the
+  fish loads the rod, the tip goes down; when the tip comes back up, that's
+  the cue to start winding. Wind continuously while the tip is up; as soon
+  as the rod loads again and the tip drops back down, stop winding and let
+  the fish/boat motion take over rather than cranking against it.
+- **Reel stays in low gear** throughout — the same low-gear mechanism as
+  [two-speed low-gear fight](two-speed-low-gear-fight.md), but here framed
   as an alternating wind/pause cued by the rod tip and the boat's rocking,
-  not that note's unbroken continuous grind — kept side by side, not merged,
-  since the two sources describe different cadences for staying in low gear.
-- **Stated reasoning:** the rocking of the sport boat plus the rod's own
+  not that note's unbroken continuous grind.
+- **Mechanism:** the rocking of the sport boat plus the rod blank's own
   power (captioned "the power of the glass and this plank" — asr-uncertain,
-  read as "blank," the rod blank, matching the "7 ft 3 composite blank" spec
-  named earlier in the same video) does most of the work, so the technique
-  doesn't depend on the angler's size or fitness — "it doesn't matter how
-  small you are or out of shape you are."
-- **Presenter's stated personal result,** offered on camera as support for
-  the technique: two fish over 100 lb caught back-to-back on this rod using
-  this method — not independently corroborated elsewhere in the corpus.
+  read as "blank," the rod blank, matching the 7 ft 3 in composite blank
+  spec named earlier in the same video) does most of the work, so the
+  technique doesn't depend on the angler's size or fitness — "it doesn't
+  matter how small you are or out of shape you are" (`scScYJJF95Y`).
+- Two 100 lb fish caught back-to-back on this rod using this method,
+  presenter's own on-camera result, not independently corroborated elsewhere
+  in the corpus.
 
-## Earlier, independent use of the same catchphrase (Frank Van Sept trip, SearcherSportfishing, 2010)
+## History — IGFA rules, and harnesses vs. belts
 
-**Observed** (SearcherSportfishing, `S6Ic8aXDdIg`, on-the-water clip titled
-"frank van-sept, 2010," uploaded 2011-01-12 — not a Tackle Tip Thursday or
-Tackle Talk Live segment, so this stands as an unregistered-format single
-mention, medium confidence): during a kite-hooked tuna fight, an exchange
-between the crew and the angler (Frank, from Dominguez Hills, a 10-year repeat
-Searcher customer as of this trip) confirms he's in low gear ("in low gear,"
-"yes sir"), then a crew member says "the rail's your friend now" — the same
-catchphrase, paired with the same low-gear cue, as the
-2021–2023 Tackle Tip Thursday citations above, but from a 2010 trip, roughly a
-decade earlier than those. No reason is given on camera in this clip; logged
-as an earlier dated instance of the catchphrase and pairing, not new
-doctrine — see [two-speed low-gear fight](two-speed-low-gear-fight.md) for
-the reasoned version of the low-gear half of this pairing.
+Roughly 20 years before a 2021 seminar (i.e., around 2001), IGFA
+world-record rules disqualified a catch if the angler touched the rail or
+got help from anyone else during the fight, which pushed anglers away from
+bracing on the rail for a stretch — rail use once being seen, half-joking,
+as "for wussies." By the time of the 2021 seminar, "everybody's using the
+rail again" (`fgTmUq78ofQ`). A rod (fighting) belt is still commonly used by
+anglers who like one; a shoulder/back harness, by contrast, is rarely seen —
+cumbersome, and getting in and out of one costs time usually needed at
+exactly the wrong moment, a hot bite or a fish suddenly changing direction
+(`fgTmUq78ofQ`). The rail catchphrase and the low-gear pairing were already
+in circulation at least a decade earlier: a 2010 clip records a crew telling
+an angler "the rail's your friend now" the moment he confirms he's fought
+down into low gear (`S6Ic8aXDdIg`).
+
+## Gear class
+
+[Rail-rod / heavy-tuna class](../tackle/gear-classes.md) — an 8 ft-class,
+3X-H rod, long hypalon foregrip, on a two-speed reel — is what the big-tuna
+and Seeker 2x4 variants above assume, because laying the rod flat on the
+rail (rather than just bracing it against the body) needs that extra
+foregrip length (`Y2XZ34-Tpa0`). The baseline rail-brace and hip-brace
+postures above don't require that class specifically — they work with
+whatever rod is already in hand once a fish is hooked and pulling hard.
+
+## Common failures
+
+- **High-sticking:** fighting the fish entirely with arms/body, unsupported
+  by the rail — the single most common mistake this technique corrects
+  (`0xJqOtkmHqY`).
+- **Tucking the rod under the natural (right, for a right-hander) armpit**
+  instead of the left on the big-tuna rail variant — a natural pull the
+  source coaches against explicitly (`6wVlDDno2TE`).
+- **Not bracing the reel against twisting** under load on the big-tuna rail
+  variant — a hand on top of or on the side of the reel is needed to counter
+  the twisting motion (`6wVlDDno2TE`).
+- **Repeatedly pulling up and winding down without the rail's support,**
+  especially on bigger bluefin — described as a way to "hurt yourself really
+  bad" (`bEFhWtGBdBU`).
+- **Kneeling to fight a fish with bad knees** — flagged as harder than the
+  other stances and not recommended for anglers with knee problems
+  (`bEFhWtGBdBU`).
+
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/fighting-fish-from-the-rail.md).
+
+<!-- species-applications:start -->
+## Species applications
+
+<!-- species-applications:end -->
 
 ## Related
 
@@ -229,6 +230,7 @@ the reasoned version of the low-gear half of this pairing.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Fighting Fish from the Rail](evidence/fighting-fish-from-the-rail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](fighting-big-bluefin.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)

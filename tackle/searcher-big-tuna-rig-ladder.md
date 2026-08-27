@@ -671,6 +671,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Chunking](../techniques/chunking.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Fighting Fish from the Rail](../techniques/evidence/fighting-fish-from-the-rail.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)

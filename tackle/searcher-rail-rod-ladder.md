@@ -26,7 +26,7 @@ leads with the rod itself, tier by tier, rather than with the reel.
 Same underlying mechanism already logged in [gear classes — rail-rod
 class](gear-classes.md#rail-rod-class--what-makes-a-rod-a-rail-rod-mechanism)
 and [fighting fish from the rail — big-tuna
-variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage-steve-carson-pennsearcher-2023-07-13):
+variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage):
 a rail rod carries a **long, padded foregrip**, and on some models **double
 reinforcement**. His stated rule for using it: **put the rubber (foregrip)
 on the rail, never the blank** — putting the blank on the rail breaks the
@@ -39,7 +39,7 @@ normal humans have to use the rail." A crew member coaches anglers through
 the fight in real time once hooked up. This armpit-tuck/low-gear/
 body-weight mechanic matches, and doesn't add beyond, the fuller mechanics
 already logged in [fighting fish from the rail — big-tuna
-variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage-steve-carson-pennsearcher-2023-07-13)
+variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage)
 from his own 2023-07-13 video — not duplicated here beyond this summary.
 
 ## Rod length — 7 ft is the floor, longer only for bigger/stronger anglers
