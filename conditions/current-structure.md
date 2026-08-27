@@ -369,6 +369,7 @@ become primary).
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Tanner Bank](../locations/tanner-bank.md)

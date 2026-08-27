@@ -1036,6 +1036,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](../rigging/surgeons-knot-mono-to-fluoro.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Tanner Bank](../locations/tanner-bank.md)

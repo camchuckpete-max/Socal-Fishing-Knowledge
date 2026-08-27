@@ -67,6 +67,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Sheephead access gated by the California groundfish season — the same charter operator statement as the whitefish row above, now also carried on the sheephead router | season-gated; no dates, bag limit or depth line stated for sheephead itself | 2020-03; on-camera interview, verify current season dates and RCA depth line with CDFW | [California sheephead](../species/sheephead.md) | `46ha7J1Fc6A` |
 | California / CDFW bag limit or size minimum for California sheephead — no corpus source states either | **unknown — bag limit and size gauge both absent from the corpus** | gap flagged 2026-08 — verify the current bag and size limits with CDFW before keeping fish | [California sheephead](../species/sheephead.md) | — |
 | Mexican (CONAPESCA) bag limit or size gauge for California sheephead, which the Ensenada and Cedros fish fall under | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [California sheephead](../species/sheephead.md) | — |
+| California / CDFW bag limit, size gauge, gear rule or season for striped marlin — no corpus source states any of them, despite the corpus recording a SoCal sportboat putting one in the deep freezer | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [striped marlin](../species/striped-marlin.md) | — |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -87,8 +88,15 @@ recorded so the figure isn't mistaken for a verified limit:
 | Circle hook mandatory (Baja California Sur sportfishing) — same on-camera statement as the flyline row above, now also carried on the crevalle router because the East Cape fishery is where every corpus crevalle record comes from | circle hook required | 2019-02-13 | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | `GptrotE0x5M` |
 | Mexican (CONAPESCA) bag limit, size gauge or closed season for Pacific crevalle jack | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
 | Mexican (CONAPESCA) bag limit, size gauge or closed season for snook / robalo at Magdalena Bay / Lopez Mateos | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [snook](../species/snook.md) | — |
+| Mexican (CONAPESCA) bag limit, size gauge, gear rule or closed season for striped marlin, covering the Ensenada, Magdalena Bay, Cabo San Lucas and East Cape records | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [striped marlin](../species/striped-marlin.md) | — |
 
 **Not a regulation — an operator agreement, kept distinct:**
+
+- **"Primarily release all the bill fish"** — one Cabo San Lucas charter's stated
+  practice, `Mwx5AAXNMvE`, carried on [striped marlin](../species/striped-marlin.md).
+  A boat policy, not a CONAPESCA rule, and the corpus also records a SoCal
+  sportboat keeping a striped marlin (`e73wPONTOJU`). The actual limits on both
+  sides of the border remain a flagged gap in the tables above.
 
 - **Cedros Island 100% voluntary catch-and-release** for calico bass, grouper (cabrilla), and black seabass — [calico bass](../species/calico-bass.md). Adopted collectively by local fishing companies; **not** a Mexican government rule, so compliance depends on the operator. Recording date reframed again to on-or-before **2023-03-26** (`ZBRSB4iwtbU`, the earliest of three uploads of one re-cut Jose interview), from the 2023-05-24 reading (`Zo92MG459gQ`) and the original October-2023 reading (`ldVj0BoB-kE`). Stated rationale in all three cuts: pressure on the summer spawning aggregations of the three species.
 
@@ -129,6 +137,7 @@ route, and the insurance carriers by name.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

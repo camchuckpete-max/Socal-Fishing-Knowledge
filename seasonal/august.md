@@ -86,6 +86,7 @@ and [bird reading](../conditions/bird-reading.md).
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Water Regimes](../conditions/water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

@@ -139,6 +139,7 @@ Trip reports and per-source provenance:
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [Snook (Robalo)](../species/snook.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Tanner Bank](tanner-bank.md)
 - [The Bumps](bumps.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)

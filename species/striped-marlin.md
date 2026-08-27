@@ -1,245 +1,278 @@
 ---
 type: species
 tags: [striped-marlin, billfish, trolling, bait-and-switch, fall]
-sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, mG8ZZLFGlT8]
+sources: [5to3Q5P7w90, HzE4FHHcvTk, 6TBxHnkYXI0, VgpgJ8IAyJo, cameron, 7aF6uWVw76g, e73wPONTOJU, 4t_Z75shK_E, BQ2U1PqxWi8, 0bcDBGzQnGw, 3qSY328fFYo, XH-Hrfet6To, Mwx5AAXNMvE, mG8ZZLFGlT8, XLVUhV8DW64, HnqiE05vdXs, m2q22sPPkEM, 9xHgdtNek1U, Dq1x__MI8Wk, h3PTupup17I]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-south]
-waters: [open-ocean]
+waters: [open-ocean, bank, island]
+layout: v2
+scientific_name: unknown
+season_peak: [aug, sep, oct]
+sst_band_f: 68-69.4 fished in the SoCal island zone; 85 recorded off Cabo San Lucas
+depth_band: surface — sighted and trolled, no depth fished
+gear_classes: [trolling-60-100lb, marlin-skirt, flyline-live-bait]
+sonar_depth: not a meter target; the sounder runs at 120 ft to place bait
 ---
 
 # Striped Marlin
 
-SoCal **striped marlin** are a **fall** sight-and-troll billfishery: slow-troll
-lures/skirts through **clean blue water off a bait/color edge**, tease fish up,
-and **switch to a pitched live bait** on the raised or tailing fish. They bite on
-the **slack tide** and travel with the warm water. The corpus documents the where
-and the tells better than it documents a single crisp "deploy the marlin gear
-now" trigger — that specific water-condition threshold is Cameron's open research
-question (see **Doctrine & conflicts**).
+Striped marlin are the SoCal island zone's late-summer-into-fall sight-and-troll
+billfishery: a short, tight lure spread pulled along the clean side of a
+bait/color seam, with a live mackerel staged the whole troll to drop back to any
+fish that shows behind the jigs (`3qSY328fFYo`, `HzE4FHHcvTk`). They bite around
+the slack tide, and a raised fish converts to a hookup roughly one time in five
+or six (`6TBxHnkYXI0`, `3qSY328fFYo`). The fishery is low-frequency and
+high-variance — experienced marlin anglers go days on end without a bite or a
+sign, and missing the small details is the difference between two or three fish
+in a season and none (`3qSY328fFYo`). The same troll-and-dropback program runs
+off Baja out of Ensenada, Magdalena Bay, Cabo San Lucas and the East Cape.
 
 ## Where & when
 
-- **Season:** **fall** — the late warm-stable into the
-  [fall fragmentation regime](../conditions/water-regimes.md): marlin lead the
-  "everything season" (marlin, first swords, bluefin, yellowfin, dorado, all
-  scattered) from ~September through October (10/12/22 corpus; 5to3Q5P7w90). Tournament marlin fleets are out by
-  mid-September ("Masters" marlin tournament weekend, 5to3Q5P7w90). See
-  [September](../seasonal/september.md), [October](../seasonal/october.md).
-- **Where:** outer banks, ridges, and the island volume zone — the
-  **SBI–Nick–Clemente–Catalina "square"** holds the bigger pelagics in the fall
-  fragmentation window (`5to3Q5P7w90`); worked examples on the 152 Ridge and Avalon Bank put marlin in
-  the **clean/clear water off the bait edge** (`HzE4FHHcvTk`). See
-  [island structure](../locations/island-structure.md),
-  [zone lexicon](../locations/zone-lexicon.md).
-- **Water & tide:** marlin **live in the clear blue water**, working the seam
-  where the dirty/bait water meets the clean water — "we put the marlin jigs out
-  on the edge where there was still bait, then in the clean water where the marlin
-  would likely live" (`HzE4FHHcvTk`). They're **slack-tide biters** — "bluefin come
-  up foaming on a slack tide, marlin bite on a slack tide" (2/20/25, 6TBxHnkYXI0).
-  Be on the highest-percentage spot **an hour before the tide change**.
+**Season — mid-August through October in SoCal.** Warm water at the
+[Channel Islands](../locations/socal-bight.md) makes marlin a target by late
+August (`HnqiE05vdXs`), and marlin jigs are already being pulled on the offshore
+banks in mid-August (`HzE4FHHcvTk`). Tournament fleets are out by mid-September
+(`5to3Q5P7w90`), and marlin lead the "everything season" — marlin, first swords,
+bluefin, yellowfin, dorado, all scattered — as the water moves from the late
+warm-stable regime into
+[fall fragmentation](../conditions/water-regimes.md) through October
+(`5to3Q5P7w90`, `XLVUhV8DW64`). See [August](../seasonal/august.md),
+[September](../seasonal/september.md), [October](../seasonal/october.md).
+
+**Where — outer banks, ridges, and the island volume zone.** The Santa Barbara
+Island–Nick–Clemente–Catalina "square" holds the bigger pelagics in the fall
+fragmentation window (`5to3Q5P7w90`); the September 2022 Masters marlin
+tournament fleet took its fish in by
+[the Boot](../locations/boot-504-307.md) (`5to3Q5P7w90`). Worked marlin trolls in
+the corpus run the [152 Ridge](../locations/slide-152-277.md) and Avalon Bank
+(`HzE4FHHcvTk`) and the tanker lanes out to the **277 bank** at the bottom of the
+ridge off Catalina's east end (`3qSY328fFYo`). See
+[island structure](../locations/island-structure.md),
+[zone lexicon](../locations/zone-lexicon.md).
+
+**Water.** Marlin hold in the clear blue water and work the seam where the
+dirty bait water meets it — the jigs go out on the edge where there is still
+bait, then troll into "the clean water where the marlin would likely live"
+(`HzE4FHHcvTk`). The SoCal target temperature hunted before dropping the jigs in
+is **68°F**, with the fished water reading **69.3–69.4°F** (`3qSY328fFYo`). See
+[water color](../conditions/water-color.md),
+[water temperature](../conditions/water-temperature.md).
+
+**Presence vs catchability.** A body of fish holds an area for anywhere from six
+to eight weeks down to six to eight days, so an area that produced last week may
+be empty (`3qSY328fFYo`). Presence alone is not a bite: the conversion from a
+raised fish to a hookup is about one in five or six, and jig strikes cluster in
+the tide window below rather than running all day (`3qSY328fFYo`).
+
+**Baja.** Region-labeled, from charter trips rather than SoCal doctrine: marlin
+are described as abundant at [Magdalena Bay](../locations/bahia-magdalena-lopez-mateos.md)
+in fall (`4t_Z75shK_E`), and are caught trolling off
+[Cabo San Lucas](../locations/cabo-san-lucas.md) (`XH-Hrfet6To`, `Mwx5AAXNMvE`),
+out of the [East Cape](../locations/east-cape.md) (`BQ2U1PqxWi8`, `mG8ZZLFGlT8`)
+and offshore of [Ensenada](../locations/ensenada.md) (`0bcDBGzQnGw`). Trip detail
+sits in the zone-guide stubs below and the [evidence file](evidence/striped-marlin.md).
+
+## Presence & forage
+
+**Why they are on the banks.** The summer current pulls water up from Mexico
+onto the SoCal offshore banks; that uphill current hitting the lower end of a
+bank creates upwelling, which makes phytoplankton, then zooplankton, then draws
+the bait fish — and the tuna and marlin show up with the bait (`h3PTupup17I`).
+See [upwelling & turnover](../conditions/upwelling-and-turnover.md),
+[current structure](../conditions/current-structure.md).
+
+**Bait geometry.** The bait sits in the dirtier water on the color edge while the
+marlin hold in the clean water beside it, so the productive line is the seam and
+not either side of it (`HzE4FHHcvTk`). A
+[kelp paddy](../conditions/kelp-paddies.md) that lit the graph up with bait was
+the last thing trolled past before the strike on the corpus's one worked SoCal
+marlin stop (`3qSY328fFYo`).
+
+**Forage.** Mackerel is what meters under the boat on the marlin grounds and
+what the fishery hooks (`3qSY328fFYo`, `9xHgdtNek1U`). Sauries greyhounding at
+the surface — spooked by the boat or pushed up by a fish — are the other bait
+sign on the same ground (`3qSY328fFYo`). At Magdalena Bay both mackerel and
+sardine bait balls are present, and when the marlin are on the smaller sardines
+they take smaller trolled lures (`4t_Z75shK_E`).
+
+⚠ Flagged gap — no corpus source: a forage species confirmed from a marlin
+itself rather than inferred from what the boat metered or hooked, and any bait
+concentration or temperature figure that gathers them.
+
+## Spawning
+
+⚠ Flagged gap — no corpus source: when, where or how striped marlin spawn
+anywhere in the SoCal/Baja range, and what spawning does to the bite. The corpus
+is silent.
+
+## Feeding triggers
+
+- **Slack tide is the window.** Marlin bite on the slack, the same as bluefin
+  (`6TBxHnkYXI0`). The top or the bottom of the tide is the time, and jig strikes
+  come about **an hour before or after** the change (`3qSY328fFYo`). Be on the
+  highest-percentage spot an hour before the tide change so you are there if it
+  fires (`6TBxHnkYXI0`). See [tide & slack](../conditions/tide-and-slack.md).
+- **Mechanism, two readings, not reconciled.** At slack the water stops moving
+  up and down, the bait fish pop up closer to the surface, and the game fish
+  come up behind them (`3qSY328fFYo`); alternatively, the ocean going quiet at
+  slack lets the fish hunt better (`6TBxHnkYXI0`). Both are stated as reasoning,
+  neither is tested on camera.
+- **A gradual tide keeps it going.** A day with a high at 7:30 and a low three
+  to four hours later — a slow, sloping tide rather than a hard swing — was read
+  on camera as keeping the fish up longer (`3qSY328fFYo`).
+  ⚠ Fact-check (single-source): the same low is given twice on camera, first as
+  roughly 11:30–12:00 and later as 11:15; both readings stand.
+- **Temperature break.** A break of about **two-tenths of a degree** was worked
+  on the corpus's one SoCal marlin stop, with a nearby boat reporting a fish up
+  on the **colder** side (`3qSY328fFYo`). See
+  [current diagnostics](../conditions/current-diagnostics.md).
+  ⚠ Flagged gap — no corpus source: mechanism — why the cold side of the break
+  produced, and whether the side matters or just the edge.
+- **A jumper is not a biter; a feeder is.** A lone jumping fish is no
+  indication; what matters is a jumper that turns into a feeder working bait —
+  those fish usually bite (`3qSY328fFYo`).
+  ⚠ Flagged gap — no corpus source: mechanism — why marlin jump. Parasite
+  shedding and simple play are both offered on camera as guesses and neither is
+  tested.
 
 ## Finding them (sign & sonar)
 
-- **Visual sign:** this is largely a **sight fishery** — hunt **tailing and
-  finning fish** on the surface (a dorsal and tail-tip cutting the surface as the
-  fish suns/cruises). Glass for fins and sudden bait sprays. See
+- **Visual sign.** This is a sight fishery: hunt **tailing, finning and sleeping
+  fish** on the surface and fish that come up slashing behind the spread
+  (`3qSY328fFYo`). Glass for fins and sudden bait sprays with the best
+  binoculars you can afford — they get used all day (`3qSY328fFYo`). See
   [search & glassing](../planning/search-and-glassing.md),
   [bird reading](../conditions/bird-reading.md).
-- **Marlin-fleet tell:** **boats with outriggers out, driving back over
-  themselves in slow circles = a marlin/tournament fleet, not a tuna stop.** Don't
-  crash it and start Mad-Mac-ing for tuna — "if you're up that way it's probably
-  the marlin guys" (`5to3Q5P7w90`).
-- **Sonar:** marlin themselves aren't primarily a meter target here, but the
-  **bait on the edge** tells you where to lay the troll — set the spread on the
-  bait/clean-water seam, not out in the empty blue or deep in the dirt
-  (`HzE4FHHcvTk`). See [electronics & sounder](../planning/electronics-and-sounder.md).
+- **Watch the jigs.** A marlin can take a whack at a jig without popping the
+  outrigger clip or the rubber-band release, so someone staring at the jigs and
+  prop wash is the most important job after driving the boat; miss those moments
+  and you can lose **four or five fish** in a day and read them as kelp
+  (`3qSY328fFYo`).
+- **On the meter.** Marlin themselves are not a meter target. The sounder's job
+  is bait: run the console display down to **120 ft** so you can tell whether
+  bait is at 100, 30 or 20 ft while under way (`3qSY328fFYo`), and lay the
+  spread on the bait/clean-water seam rather than out in empty blue or deep in
+  the dirt (`HzE4FHHcvTk`). See
+  [electronics & sounder](../planning/electronics-and-sounder.md).
+- **Fleet tell.** Boats with outriggers out, driving back over themselves in
+  slow circles, are a marlin or tournament fleet, not a tuna stop — do not crash
+  it and start Mad-Mac-ing for tuna (`5to3Q5P7w90`).
+- **Before you leave.** Pull current marlin reports and pick the ground from
+  them rather than from the calendar (`3qSY328fFYo`). See
+  [report reading & forecasting](../planning/report-reading-and-forecasting.md).
 
 ## Situations → techniques
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| **Fall, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Put the marlin jigs **on the edge where bait meets clear water**; arrive an hour before the tide change |
-| **Tailing / finning fish sighted, or a fish shows in/behind the spread without eating a jig** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — tease with the spread, pitch a live mackerel dropback bait to the fish | Flyline / live-bait class | Dropback-bait execution is now sourced (StokedOnFishing, medium confidence); the teaser/pitch skeleton itself is still partly unsourced — see the technique note; the pitch rod sits rigged and ready the whole troll |
-| **Marlin-fleet working** (outriggers, circling) | Recognize the fleet is on marlin — fish it for marlin (join the pattern) or move off for tuna; don't stop expecting a tuna bite | — | Fleet-read only, no gear change implied (`5to3Q5P7w90`) |
+| **Mid-August–October, clean blue water off a bait/color edge, slack-tide window** | [Slow-troll lures/skirts](../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll) along the clean side of the bait seam | Trolling class 60–100 lb; marlin skirt class | Jigs go out **on the edge where bait meets clear water**; be on the spot an hour before the tide change (`HzE4FHHcvTk`, `6TBxHnkYXI0`) [a] |
+| **A fish shows in or behind the spread — slashing, or a tailing/finning/sleeping fish sighted — with or without a jig strike** | **[Bait-and-switch](../techniques/bait-and-switch.md)** — drop back a live green-back mackerel to the fish, boat left in gear | Flyline / live-bait class | The pitch rod sits rigged the whole troll; get the bait in the water without waiting to confirm a jig strike (`3qSY328fFYo`) [b] |
+| **Charter or crew who cannot feel the bite on a dropback** | Nose-hook the live mackerel on a **circle hook** and do not set — water tension alone pins it in the corner of the mouth | Live-bait class | 90% of clients cannot feel the bite; a long-shank J hook is the alternative for anglers who will set, chosen because the longer shank is less likely to be sawed off (`m2q22sPPkEM`). See [hooks](../tackle/hooks.md) [c] |
+| **Marlin feeding on sardines rather than mackerel** (Magdalena Bay) | Downsize the trolled lures | Trolling class | Bigger lures in the same spread are aimed at blue/black marlin; scoped to Mag Bay, not evaluated elsewhere in the corpus (`4t_Z75shK_E`) |
+| **Marlin-fleet working** (outriggers, circling) | Fish it for marlin on the fleet's pattern, or move off for tuna; don't stop expecting a tuna bite | — | Fleet read only, no gear change implied (`5to3Q5P7w90`) |
+| **Tailer spotted off the spread, boat repositioned ahead of it** | Cast the pitch bait ahead of the fish's line of travel while the teaser keeps swimming | Flyline / live-bait class | ⚠ Flagged stub — no corpus source yet: the teaser-and-switch skeleton in [bait-and-switch](../techniques/bait-and-switch.md#method-skeleton-unsourced--carried-from-the-initial-build) is unsourced, as are teaser clearing and pitch-rod hookset |
 
-**Observed** (StokedOnFishing, 2022-10-06 upload, SoCal island zone —
-`e73wPONTOJU`; unregistered channel — medium confidence): after the crew gave
-up on the morning's bluefin bite and turned to run down toward kelp paddies
-for dorado/yellowtail, they hooked and landed a striped marlin — called on
-camera "first Marlin I've seen yet" / "first one we've got a chance to
-actually put on the boat" — the boat's first marlin of the trip. What was in
-the water at the moment of the bite is not clearly identifiable on camera
-(the audio is too garbled to confirm lure or bait), so it is not logged as a
-targeted technique; distinct from the dedicated bait-and-switch program in
-the table above.
-
-**Observed** (StokedOnFishing, presenter/angler Jimmy Decker, 2014-11-08
-upload, SoCal — the tanker lanes (~17 mi out) running to the **277 bank** at
-the bottom of the ridge off Catalina's east end — `3qSY328fFYo`; unregistered
-channel — medium confidence): a half-day trolling stop that hooked and
-released a striped marlin estimated on camera at **roughly 160 lb**, hooked
-in the corner of the mouth on a flying-fish-pattern swimming lure, taken on a
-live mackerel dropback bait once the fish showed in the spread. The stop's
-tide timing corroborates and adds numeric specifics to the slack-tide
-doctrine above: a high tide at **7:30**, called on camera as "a pretty
-rolling tide," and a low given on camera at two slightly different times —
-first as roughly **11:30–12:00** (ASR-garbled at that point in the
-transcript, not confidently resolved), later restated as **11:15** — kept
-side by side rather than reconciled to one figure. Jig strikes were said to
-typically land an hour or so before or after the tide change. Full spread
-setup, the troll-downhill sun rule, sounder use, and dropback-bait mechanics
-from this same stop are logged in [trolling — SoCal, Catalina tanker
-lanes/277 bank](../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll)
-and [bait-and-switch](../techniques/bait-and-switch.md).
-
-**Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2018-12-17
-upload, offshore of Ensenada, Baja California — `0bcDBGzQnGw`, "Fishing In
-Baja with Navico & Tito Ortiz, Part 1"; unregistered channel — medium
-confidence): while working a dolphin/porpoise school that had broken into a
-full foamer, the crew saw a striped marlin jump right at the boat; an angler
-(Dan) hooked up moments later, but whether that hookup was the marlin or a
-separate fish (tuna was the stop's stated target) is not confirmed on
-camera — kept as an uncertain marlin data point rather than a confirmed
-catch. Full stop detail (search pattern, trolling, flyline/chunk
-conversion, break-offs) is logged in
-[trolling — Ensenada dolphin-school entry](../techniques/trolling.md#ensenada-baja--dolphin-school-troll-and-foamer-conversion).
-
-**Observed (Baja, region label)** (StokedOnFishing, 2020-09-25 upload,
-Magdalena Bay, Baja California Sur — `4t_Z75shK_E`, "One of the World's Best
-Offshore Fishing Destinations, Mag Bay"; unregistered channel — medium
-confidence; distinct region from the SoCal doctrine above): the episode intro
-described striped marlin as abundant at Mag Bay in fall ("loaded with stripe
-marlin... they're everywhere"). Separately, in the pre-trip dockside
-interview, lure-company owner/guide Toby gave a general bait-to-lure-size
-heuristic — not tied to a specific confirmed catch on this trip: both
-mackerel and sardine bait balls are present at Mag Bay, and when marlin are
-feeding on the smaller sardines rather than mackerel, his striped marlin
-customarily hit smaller trolled lures, while the bigger lures in his spread
-are more for blue/black marlin (no blue/black marlin landed on camera this
-trip). Not evaluated elsewhere in this corpus for Baja marlin. See the
-[Magdalena Bay trolling entry](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin)
-for the full session (wind lay-up context, dead-bait rigging, wahoo lure).
-
-**Observed (Baja, East Cape, region label)** (StokedOnFishing, presenter
-Shay, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape, Sea of Cortez, Baja
-California Sur — Hotel Buena Vista Beach Resort "fifth annual Stoked On
-Fishing Fiesta"; unregistered channel — medium confidence, asr-uncertain): a
-marlin was released on camera ("we're about to release his first marlin
-under the trip" — species/exact grade not confirmed on camera). Earlier the
-same day the crew announced "we've already got five of them on board" —
-the presenter's first, "a couple" for one angler (Ryan), and "a few" for
-another (Rick) — framed on camera as their **first day** "starting off with
-a bang." Whether that five-count refers specifically to marlin or to the
-trip's broader tuna catch is not stated explicitly on camera; carried here
-as an uncertain marlin data point (release language and the episode's
-marlin billing point that way) rather than an asserted marlin tally. No
-technique, lure, or bait detail is given for these catches/releases. Distinct region
-from the SoCal fall doctrine above; corroborates the general pattern of heavy
-tuna-and-marlin action already logged for this East Cape/Fiesta operation in
-[yellowfin tuna](../species/yellowfin-tuna.md) and
-[fighting a big bluefin — East Cape entries](../techniques/fighting-big-bluefin.md).
-
-**Observed (Baja, East Cape, region label)** (StokedOnFishing, `mG8ZZLFGlT8`,
-2016-12-22 upload, East Cape, Sea of Cortez, Baja California Sur — Hotel
-Buena Vista Beach Resort, "Stoked On Hotel Buena Vista Beach Resort, Part
-3"; the resort's **first annual** Stoked On Fishing Fiesta (2016) —
-chronologically earlier than the "fifth annual" `BQ2U1PqxWi8` entry above;
-unregistered channel — medium confidence): a young angler (Jayden) landed
-his first striped marlin on camera ("chocolate baby," "shiny one") after an
-extended fight — no release shown on camera, so disposition isn't
-confirmed — following a first-ever big tuna catch
-earlier the same trip — no lure, bait, or leader detail given on camera.
-The same trip's separate ~500 lb blue marlin catch (no dedicated
-blue-marlin species note exists in this corpus) — including a troll-rework
-tactic and an extended team hand-off fight — is logged in
-[trolling — East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin),
-with the hand-off practice cross-referenced in
-[fighting a big bluefin](../techniques/fighting-big-bluefin.md).
-
-**Observed (Baja, Cabo San Lucas, region label)** (StokedOnFishing,
-2014-12-02 upload, offshore Cabo San Lucas, Baja California Sur —
-`XH-Hrfet6To`, "Stoked On Cabo San Lucas, Part 1"; aboard Hurricane
-Fishing's 50 ft Hatteras with Capt. Rob Guy; unregistered channel — medium
-confidence): trolling a mixed spread of lures plus a live bait, a striped
-marlin ("a little stripe marlin") rose and hit the trolled lures; the crew
-**"did a drop back on him"** before hooking and landing the fish — an
-on-the-water data point for the dropback mechanics flagged as a thin area in
-[bait-and-switch](../techniques/bait-and-switch.md#thin-areas-flagged--no-corpus-source-yet),
-though here the fish rose on the trolled lures themselves rather than being
-teased up for a live-bait pitch, so it is not logged as a confirmed
-bait-and-switch execution. The same morning also produced a confirmed
-**sailfish** (no lure/technique detail given on camera) — logged here only
-as a presence data point, no dedicated sailfish note exists in this corpus.
-Water conditions on camera later in this same session were called out as
-**85°F**, blue and "crystal," with **long swell** and "no wind to speak
-of" — notably, that on-camera call is calm water, not the chop the shop's
-general Cabo pattern predicts for later in the day (see the
-[trolling — Cabo San Lucas lure-selection entry](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging),
-same trip, pre-trip tackle-shop segment); this session is not logged as a
-confirmation of that afternoon-chop pattern, and the two are kept side by
-side rather than merged. The crew reported being **"four for four"** on
-hookups by that point in the trip (time of day not stated on camera) without
-further per-species breakdown, and were running toward open water hoping for
-tuna or blue marlin to round out a "five species day" — not confirmed on
-camera, so not logged as additional catches.
-
-**Observed (Baja, Cabo San Lucas / East Cape, region label)**
-(StokedOnFishing, 2014-12-03 upload, offshore Cabo San Lucas, Baja California
-Sur — `Mwx5AAXNMvE`, "Stoked On Cabo San Lucas, Part 2"; continuation of the
-same Hurricane Fishing charter (Capt. Rob Guy, 50 ft Hatteras) logged as
-`XH-Hrfet6To` above; unregistered channel — medium confidence): a striped
-marlin was fought to leader and released on camera, with the presenter
-stating the boat's practice is to **"primarily release all the bill fish"**
-rather than keep them — a catch-and-release doctrine point for this
-operation, not confirmed as a universal SoCal/Baja norm elsewhere in this
-corpus. A separate family group aboard, framed on camera as the "East Cape
-crew" heading on to a tournament-style, 5-day trip up in East Cape, Sea of
-Cortez, fought their striped marlin from a fighting/fish chair; the
-presenter's take was that the chair helps kids and less-experienced anglers,
-who otherwise struggle to stand and fight the fish, especially in rough seas
-("that'll bring anybody to their knees") — no chair spec or brand given, and
-the East Cape leg itself is not fished on camera in this video. Separately,
-the same trip's closing tips segment reported losing two big **blue marlin**
-that struck trolled lures but didn't stay hooked; species/lure detail is
-logged in
-[trolling — Cabo San Lucas lure entry](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging)
-(no dedicated blue-marlin note exists in this corpus, so it is not logged
-here as a striped-marlin catch). The same tips segment named the **drop-back**
-as the trip's best producer of solid hookups, with an 80 lb-line/#9
-circle-hook rig detail logged in
-[bait-and-switch](../techniques/bait-and-switch.md#thin-areas-flagged--no-corpus-source-yet).
+[a] Spread geometry, lure roster, the troll-downhill sun rule and the
+jig-to-hookup conversion rate live in
+[trolling — SoCal, Catalina tanker lanes/277 bank](../techniques/trolling.md#socal-catalina--tanker-lanes277-bank-marlin-troll).
+[b] Dropback delivery, bait hook placement and boat handling live in
+[bait-and-switch — dropback bait execution](../techniques/bait-and-switch.md#dropback-bait-execution).
+[c] Stated for the Cabo charter fishery (`baja-pacific-south`); no SoCal source
+states a hook style for the dropback bait.
 
 ## Gear summary (class terms)
 
 - **Trolling:** 60–100 lb trolling class pulling
   [tuna/marlin skirts and feathers](../lures/tuna-feathers-and-skirts.md); a
-  Mad-Scad-class lure has taken striped marlin (`VgpgJ8IAyJo`).
-- **Bait-and-switch:** a flyline/live-bait class rod ready to pitch the instant a
-  fish lights up on the teaser — [bait-and-switch](../techniques/bait-and-switch.md)
-  (flagged stub).
+  Mad-Scad-class stickbait has taken striped marlin (`VgpgJ8IAyJo`).
+- **Dropback / pitch:** a flyline / live-bait class rod carrying a live
+  green-back mackerel, rigged and ready the whole troll
+  ([bait-and-switch](../techniques/bait-and-switch.md)) — flylining a mackerel is
+  the named marlin presentation on that class of gear (`9xHgdtNek1U`,
+  `3qSY328fFYo`).
+- **Hooks:** circle hook for the dropback when the angler cannot feel the bite;
+  long-shank J when they can and will set (`m2q22sPPkEM`). See
+  [hooks](../tackle/hooks.md).
 - **Terminal:** heavy leader / [wind-on leader](../rigging/wind-on-leader.md) for
-  the bill and the abrasion; class terms in [gear classes](../tackle/gear-classes.md).
-  **Observed** (StokedOnFishing, 2019-10-21, region unconfirmed; species and
-  reel type per the video title only, not confirmed in the on-water
-  audio/captions): a marlin was landed after an extended fight ("I'm running
-  out of line," 00:03:03) and the leader is shown on camera with the crew
-  calling **40-pound test** (00:03:39–00:04:35) — lighter than the "heavy
-  leader" default above. The title credits the fight to a baitcasting reel,
-  but no reel/rod detail is audible or captioned, so that detail is not
-  carried as a verified fact here.
+  the bill and the abrasion; class terms in
+  [gear classes](../tackle/gear-classes.md). The corpus's landed fish sit under
+  that default rather than on it — a striped marlin was landed on a leader called
+  **40 lb test** on camera (`7aF6uWVw76g`), and mid-fight on a roughly 160 lb
+  fish the angler said he wished it were 50 lb tackle, so that outfit was lighter
+  than 50 lb (`3qSY328fFYo`).
+
+## Zone guides
+
+No striped marlin zone guide exists yet. Every zone below has corpus material
+parked in the [evidence file](evidence/striped-marlin.md) and no guide to hold
+it:
+
+- **SoCal island square / Catalina east end** (tanker lanes, 277 bank, 152
+  Ridge, Avalon Bank, the Boot) — ⚠ Flagged stub — no zone guide yet
+  (`3qSY328fFYo`, `HzE4FHHcvTk`, `5to3Q5P7w90`).
+- **Channel Islands** — ⚠ Flagged stub — no zone guide yet (`HnqiE05vdXs`).
+- **Ensenada offshore** — ⚠ Flagged stub — no zone guide yet (`0bcDBGzQnGw`).
+- **Magdalena Bay** — ⚠ Flagged stub — no zone guide yet (`4t_Z75shK_E`).
+- **Cabo San Lucas** — ⚠ Flagged stub — no zone guide yet (`XH-Hrfet6To`,
+  `Mwx5AAXNMvE`, `m2q22sPPkEM`).
+- **East Cape** — ⚠ Flagged stub — no zone guide yet (`BQ2U1PqxWi8`,
+  `mG8ZZLFGlT8`).
+
+## Regulations
+
+⚠ Flagged gap — no corpus source: any California / CDFW or Mexican (CONAPESCA)
+bag limit, size gauge, gear rule or season for striped marlin, on either side of
+the border. **Verify the current rules with the issuing agency before fishing or
+keeping one** — for the Baja side see
+[Mexican waters](../locations/mexican-waters.md), and note that a Mexican limit
+differing from a CDFW one is two jurisdictions, not a conflict. The only
+disposition rule anywhere in the corpus is one Cabo charter's own practice of
+releasing all billfish (`Mwx5AAXNMvE`) — an operator practice, not law.
+Registered in [regulatory claims](../sources/regulatory-claims.md).
 
 ## Doctrine & conflicts
 
-- **Corpus (medium):** fall, scattered; slack-tide biter; lives in the clean
-  water off the bait edge; the outrigger-and-circling fleet tell is reliable.
-  These are consistent single-to-repeated mentions across the 2022–2025 reports,
-  not a dedicated marlin seminar — hence **confidence: medium**.
-- **Cameron (open item, attributed — not doctrine):** wants to learn the **water
-  conditions that trigger marlin lure deployment** so he can **troll marlin from
-  the panga himself** (memory §1). The corpus points at the ingredients — fall
-  timing, **clean blue water on a bait/color seam**, slack tide — but does **not**
-  document a single crisp threshold for "deploy now." Flagged as thin/open: the
-  deployment-trigger rule is a research target, not settled doctrine.
+Section order below is not a ranking.
+
+**Keep or release turns on the operator's policy and the jurisdiction, not on a
+fishery rule — the corpus records all three positions.** A Cabo charter states
+its practice is to release all billfish (`Mwx5AAXNMvE`); a SoCal sportboat put a
+striped marlin in the deep freezer (`e73wPONTOJU`); and a captain who runs both
+coasts rates striped marlin the best-eating of the marlins and fillets them for
+the grill and the smokehouse (`Dq1x__MI8Wk`). Nothing in the corpus makes any of
+the three a rule, and the regulations gap above is unfilled, so the decision is
+the boat's until an agency rule is checked.
+
+**Open item, not doctrine.** No corpus source gives a single water-condition
+threshold for "deploy the marlin jigs now." The ingredients are all stated —
+mid-August-to-October timing, clean blue water on a bait/color seam, 68–69°F,
+and a slack-tide window — but the crisp trigger is a research target rather than
+settled doctrine, specifically for running the troll from a panga (cameron).
+⚠ misplaced-content: the stated intention to troll marlin from a panga is
+profile data, not fishery doctrine — queued in
+[`sources/relocation-queue.md`](../sources/relocation-queue.md).
+
+## Landing & handling
+
+- **A corner-of-the-mouth hookup is what makes a clean release.** The roughly
+  160 lb SoCal fish was buried in the corner and swam away lit up
+  (`3qSY328fFYo`); the circle-hook dropback produces that hookup without a
+  hookset (`m2q22sPPkEM`).
+- **A fighting chair is the tool for kids and less-experienced anglers**, who
+  otherwise cannot stay standing on a marlin in rough seas (`Mwx5AAXNMvE`). See
+  [fighting fish from the rail](../techniques/fighting-fish-from-the-rail.md).
+- **On the table:** striped marlin is rated the best-eating of the marlins;
+  **pink meat is the quality tell**, the bloodline and dark meat are trimmed out
+  of each fillet, and the rib racks go to the smokehouse (`Dq1x__MI8Wk`). General
+  care: [fish care](../fish-care/README.md).
+- ⚠ Flagged gap — no corpus source: bleeding, chilling or ikejime for a marlin
+  kept to eat, and any gaffing, bill-handling or leadering procedure at the boat.
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
@@ -269,6 +302,7 @@ circle-hook rig detail logged in
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [East Cape](../locations/east-cape.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — Striped Marlin](evidence/striped-marlin.md)
 - [Evidence — The Boot (504) / 307](../locations/evidence/boot-504-307.md)
 - [Flyline](../techniques/flyline.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
@@ -279,6 +313,7 @@ circle-hook rig detail logged in
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Skipjack Tuna](skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](../locations/sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)

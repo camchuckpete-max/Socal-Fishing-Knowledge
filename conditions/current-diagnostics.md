@@ -181,6 +181,7 @@ framework this SoCal-bight note otherwise focuses on.
 - [Sea State](sea-state.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Tide and Slack](tide-and-slack.md)
 - [Trolling](../techniques/trolling.md)
 - [Water Color](water-color.md)

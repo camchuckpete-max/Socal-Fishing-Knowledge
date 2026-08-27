@@ -132,6 +132,7 @@ Fold the output of this note back into the
 - [Sea State](../conditions/sea-state.md)
 - [September](../seasonal/september.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [The Bumps](../locations/bumps.md)

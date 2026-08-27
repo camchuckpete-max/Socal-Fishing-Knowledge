@@ -22,6 +22,7 @@
 - [Evidence — Skipjack Tuna](skipjack-tuna.md) — Per-source provenance backing skipjack tuna.
 - [Evidence — Snook (Robalo)](snook.md) — Per-source provenance backing snook.
 - [Evidence — Spotted Bay Bass](spotted-bay-bass.md) — Trip reports and per-source provenance backing spotted bay bass.
+- [Evidence — Striped Marlin](striped-marlin.md) — Per-source provenance backing striped marlin.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -50,12 +51,13 @@ graph LR
   n15["Evidence — Skipjack Tuna"]
   n16["Evidence — Snook (Robalo)"]
   n17["Evidence — Spotted Bay Bass"]
-  n18["Evidence — Yellowtail — surface iron"]
-  n19["Evidence — Yellowtail"]
+  n18["Evidence — Striped Marlin"]
+  n19["Evidence — Yellowtail — surface iron"]
+  n20["Evidence — Yellowtail"]
   n11 --> n8
   n13 --> n5
   n14 --> n12
-  n14 --> n19
+  n14 --> n20
   n14 --> n5
   n14 --> n9
 ```

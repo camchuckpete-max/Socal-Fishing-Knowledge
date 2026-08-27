@@ -1098,6 +1098,7 @@ covered above, not a new tool.
 - [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — Pacific Bonito](../species/evidence/bonito.md)
 - [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
+- [Evidence — Striped Marlin](../species/evidence/striped-marlin.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)

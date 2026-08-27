@@ -396,4 +396,5 @@ Trip reports and per-source provenance:
 - [Evidence — East Cape](evidence/east-cape.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Striped Marlin](../species/striped-marlin.md)
 <!-- backlinks:end -->

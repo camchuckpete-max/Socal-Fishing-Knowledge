@@ -22,7 +22,7 @@
 - [Skipjack Tuna](skipjack-tuna.md) — Skipjack — "skippies" — are the fish that reaches the offering first on the SoCal/Baja tuna grounds: they pile into a chum line laid for yellowfin (lxFNVdDhMy4)
 - [Snook (Robalo)](snook.md) **[Baja only]** — The corpus documents snook in exactly one fishery — Magdalena Bay / Lopez Mateos, Baja California Sur — and it is two programs, not one.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) **[SoCal only]** — Spotted bay bass are the bay-and-harbor fishery that runs on the tide clock: the fish hold ambush stations keyed to which way the water is moving, so a spot tha
-- [Striped Marlin](striped-marlin.md) — SoCal striped marlin are a fall sight-and-troll billfishery: slow-troll lures/skirts through clean blue water off a bait/color edge, tease fish up, and switch t
+- [Striped Marlin](striped-marlin.md) — Striped marlin are the SoCal island zone's late-summer-into-fall sight-and-troll billfishery: a short, tight lure spread pulled along the clean side of a bait/c
 - [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal daytime deep-drop swordfish: find deep contour structure where the deep scattering layer holds bait, then present a dead bait in/below the layer and let t
 - [Wahoo](wahoo.md) — A fast, toothy, warm-water pelagic — SoCal/Baja anglers reach for it mostly as part of a mixed offshore troll (tuna/dorado/marlin) or on a dedicated trip to kno
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
@@ -86,7 +86,6 @@ graph LR
   n16 --> n4
   n17 --> n13
   n17 --> n5
-  n18 --> n22
   n2 --> n1
   n2 --> n12
   n2 --> n15

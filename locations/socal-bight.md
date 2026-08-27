@@ -336,6 +336,7 @@ Trip reports and per-source provenance:
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
+- [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](sverdrup-bank-126.md)
 - [Tanner Bank](tanner-bank.md)
 - [The Corner / 140 / 182](corner-140-182.md)
