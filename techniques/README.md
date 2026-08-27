@@ -26,7 +26,7 @@
 - [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md) **[SoCal only]** — A count-and-pause retrieve for a leadhead + soft-plastic swimbait that keeps the bait working just off the bottom without a depth finder or a line-counter reel
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md) — The cast for getting an unweighted, fly-lined bait out and away from the boat: with no sinker to load the rod, a pendulum swing supplies the momentum weight wou
-- [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Single-source technique note.
+- [Mangrove Structure Livebait](mangrove-structure-livebait.md) **[Baja only]** — Mangrove structure livebait is a precision live-bait presentation for fish holding tight against oyster-crusted mangrove roots in skinny water, down to about 2
 - [Ned Rig](ned-rig.md) **[SoCal only]** — Execution for the Ned rig in the bays: a small soft stickbait on a mushroom-head jig, hopped subtly along the bottom, with the bite read in the line before you
 - [Night Bass Fishing](night-bass-fishing.md) **[SoCal only]** — Fishing calico bass, sand bass, and spotted bay bass after dark on the premise that "nighttime's the right time" — bigger, more confident trophy fish move shall
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md) **[Baja only]** — A 3-angler panga program for yellowtail: the moment one of two trolled rods gets bit, the crew's other anglers work the same water instead of only fighting the
