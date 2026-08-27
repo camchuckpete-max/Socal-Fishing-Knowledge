@@ -808,4 +808,8 @@ by their builders after the transform phase drains.
 | locations/santa-barbara-island-nick-san-clemente-catalina-the-square.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/tanker-lanes.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/the-sunset-wall.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/9-mile-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/baja-lower-banks.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/huntington-beach-oil-platforms.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

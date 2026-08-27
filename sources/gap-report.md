@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2177 flagged gaps, 324 flagged stubs, 1017 unknown infobox values._
+_Totals: 2195 flagged gaps, 337 flagged stubs, 1021 unknown infobox values._
 
 ## species/
 
@@ -272,6 +272,44 @@ _Totals: 2177 flagged gaps, 324 flagged stubs, 1017 unknown infobox values._
   - `Regulations`: gap — any California / CDFW or Mexican (CONAPESCA)
   - `Landing & handling`: gap — bleeding, chilling or ikejime for a marlin
   - infobox `scientific_name`: unknown
+- **species/swordfish.md**
+  - `Spawning`: gap — when, where or how swordfish spawn anywhere in
+  - `Feeding triggers`: gap — mechanism — the connection is stated as
+  - `Feeding triggers`: gap — any tide or slack window for SoCal
+  - `Finding them (sign & sonar)`: flagged stub row
+  - `Situations → techniques`: flagged stub row
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California / CDFW bag limit, size gauge,
+  - `Doctrine & conflicts`: gap — the signal that says to leave the structure.
+  - `Landing & handling`: gap — bleeding, chilling, ikejime or butchering a
+  - infobox `scientific_name`: unknown
+- **species/wahoo.md**
+  - `Presence & forage`: gap — a forage species confirmed from a wahoo
+  - `Spawning`: gap — when, where or how wahoo spawn anywhere in
+  - `Feeding triggers`: gap — any light window, tide/slack, moon or
+  - `Finding them (sign & sonar)`: gap — a wahoo sonar signature or meter depth,
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California / CDFW or Mexican
+  - `Landing & handling`: gap — bleeding, chilling or ikejime protocol
+  - infobox `scientific_name`: unknown
+- **species/white-seabass.md**
+  - `Where & when`: gap — any temperature band for the white seabass
+  - `Presence & forage`: gap — any stomach-content record from a landed white
+  - `Spawning`: gap — when, where or how white seabass spawn anywhere
+  - `Feeding triggers`: gap — mechanism — whether the moon acts through the
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: flagged stub row
+  - `Regulations`: gap — the CDFW size gauge, bag limit or season for
+  - `Landing & handling`: gap — bleeding, chilling or ikejime for a white
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
 - **species/yellowtail-coronado-islands.md**
   - `Mexican waters — hard gate`: gap — what a boat run
   - `The program`: gap — the anchor-vs-drift commit call at the
