@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2160 flagged gaps, 312 flagged stubs, 1011 unknown infobox values._
+_Totals: 2177 flagged gaps, 324 flagged stubs, 1017 unknown infobox values._
 
 ## species/
 
@@ -234,7 +234,44 @@ _Totals: 2160 flagged gaps, 312 flagged stubs, 1011 unknown infobox values._
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
 - **species/snook.md**
-  - `Finding them (sign & sonar)`: flagged stub row
+  - `Where & when`: gap — a seasonal presence, spawning-season or
+  - `Presence & forage`: gap — stomach contents, or any forage species
+  - `Spawning`: gap — when, where or how snook spawn, or what
+  - `Feeding triggers`: gap — any light-window, moon-phase or
+  - `Finding them (sign & sonar)`: gap — a sonar signature or arc depth for snook in
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any Mexican (CONAPESCA) bag limit, size
+  - `Doctrine & conflicts`: gap — an explicit rule for when to bring which
+  - `Landing & handling`: gap — bleeding, chilling or ikejime parameters for
+  - infobox `scientific_name`: unknown
+  - infobox `season_peak`: unknown
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
+- **species/spotted-bay-bass.md**
+  - `Presence & forage`: gap — named forage species. No source describes
+  - `Spawning`: gap — the spawn months, any temperature or moon
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — the California bag limit for spotted bay
+  - infobox `scientific_name`: unknown
+- **species/striped-marlin.md**
+  - `Presence & forage`: gap — a forage species confirmed from a marlin
+  - `Spawning`: gap — when, where or how striped marlin spawn
+  - `Feeding triggers`: gap — mechanism — why the cold side of the break
+  - `Feeding triggers`: gap — mechanism — why marlin jump. Parasite
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California / CDFW or Mexican (CONAPESCA)
+  - `Landing & handling`: gap — bleeding, chilling or ikejime for a marlin
+  - infobox `scientific_name`: unknown
 - **species/yellowtail-coronado-islands.md**
   - `Mexican waters — hard gate`: gap — what a boat run
   - `The program`: gap — the anchor-vs-drift commit call at the
