@@ -411,6 +411,7 @@ def build(base: str, runs_path: str | None) -> dict:
         "baseSha": git("rev-parse", "--short", base).strip(),
         "phase": phase, "model": model,
         "stop": (ROOT / "STOP").exists(),
+        "paused": (ROOT / "PAUSE-AFTER-GEO").exists(),
         "rateH": round(rate, 1), "etaH": eta_h, "lastAgeMin": last_age_min,
         "counts": dict(statuses), "totalUnits": total,
         "processedUnits": processed,
@@ -507,6 +508,10 @@ button{font-family:inherit;cursor:pointer}
 .pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--hair);border-radius:20px;
   padding:3px 11px;font-size:12px;color:var(--ink2);white-space:nowrap}
 .pill[hidden]{display:none}
+/* A stalled chain used to be a number buried in a subtitle: on 2026-08-27 the
+   trampoline died and "last commit 540m ago" was the only sign, which nobody
+   reads at a glance. This is meant to be impossible to miss. */
+.pill.crit{border-color:var(--critical);color:var(--critical);font-weight:600}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--muted);flex:none}
 .dot.ok{background:var(--good)}.dot.wait{background:var(--serious)}
 .dot.bad{background:var(--critical)}
@@ -794,6 +799,7 @@ main{flex:1;display:flex;min-height:0}
     <span class="pill" id="phasepill"><span class="dot ok"></span><span id="phasetext"></span></span>
     <span class="pill" id="chainpill"><span class="dot" id="chaindot"></span><span id="chaintext">chain</span></span>
     <span class="pill" id="stoppill" hidden><span class="dot bad"></span><span>STOP — chain standing down</span></span>
+    <span class="pill crit" id="stallpill" hidden><span class="dot bad"></span><span id="stalltext"></span></span>
     <div class="spacer"></div>
     <div class="clockbox">
       <div class="clock" id="clock">--:--:-- UTC</div>
@@ -902,6 +908,16 @@ document.getElementById('subline').textContent=
 document.getElementById('phasetext').textContent=`phase: ${D.phase}`;
 document.getElementById('gen').textContent=D.generatedAt.replace('T',' ').replace('Z',' UTC');
 if(D.stop)document.getElementById('stoppill').hidden=false;
+/* Idle with work queued = something is wrong (a dead trampoline, a failing
+   chunk, a credit wall). A paused or drained chain is not a stall. */
+(function(){
+  const STALL_MIN=180, pend=(D.counts&&D.counts.pending)||0;
+  if(D.stop||D.paused||!pend||D.lastAgeMin==null||D.lastAgeMin<STALL_MIN)return;
+  const h=Math.floor(D.lastAgeMin/60), m=D.lastAgeMin%60;
+  document.getElementById('stalltext').textContent=
+    `fleet idle ${h?h+'h ':''}${m}m with ${pend} unit${pend===1?'':'s'} queued — chain is not running`;
+  document.getElementById('stallpill').hidden=false;
+})();
 const LIVE='https://camchuckpete-max.github.io/Socal-Fishing-Knowledge/';
 const hosted=location.hostname.endsWith('github.io');
 document.getElementById('refresh').onclick=()=>{
