@@ -42,7 +42,7 @@ by their builders after the transform phase drains.
 | techniques/clearing-a-backlash.md | standard | transformed | gaps(1) | transform verified faithful, template-compliant, mechanics conserved, backlinks regenerated |
 | techniques/dart-jig-tuna.md | standard | transformed | none | transform verified, one meaning-drift defect (cross-source gear conflation) fixed in place |
 | techniques/deep-drop-swordfishing.md | standard | transformed | fact-check(2) | transform verified with fixes: restored 2 deleted doctrine claims beside fact-check flags, restored dropped attribution on contested doctrine |
-| techniques/drop-shot.md | standard | pending |  |  |
+| techniques/drop-shot.md | standard | transformed | misplaced-content(3), spinout(1) | transform verified with in-tree fixes: 2 conservation restores, 1 unsupported-claim removal, 1 missing relocation flag added |
 | techniques/dropper-loop.md | standard | pending |  |  |
 | techniques/fighting-big-bluefin.md | standard | pending |  |  |
 | techniques/fighting-fish-from-the-rail.md | standard | pending |  |  |

@@ -5,16 +5,20 @@ sources: [k4mD2d6C81k, 1enjjFVcDG0, EGKesj7V64M, RUuPNpK0x-s, 9qwsg-e9ECA, BPxE3
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast]
+layout: v2
+gear_classes: [light-spinning-finesse-10-20lb]
+depth_band: on bottom; bait suspended 6-10 in above the weight (longer on a sloped beach)
+retrieve_speed: shake-in-place / twitch-reel-twitch (fluke); steady slow-medium (grub); drag-shake-drag (surf)
 ---
 
 # Drop Shot
 
-Execution for the drop shot: the **hook is tied up the line and the weight hangs
-below on a tag end**, so the bait is **suspended a fixed height just above the
-bottom** while the lead stays pinned to the deck. That keeps an artificial in the
-strike zone of fish that hold on or just off the bottom, and lets you **shake it
-in place** without dragging it away. Where these fish sit is the router; this
-note owns the rig and the retrieve.
+Execution for the drop shot: the **hook is tied up the line and the weight
+hangs below on a tag end**, so the bait is **suspended a fixed height just
+above the bottom** while the lead stays pinned to the deck. That keeps an
+artificial in the strike zone of fish that hold on or just off the bottom, and
+lets you **shake it in place** without dragging it away. Where these fish sit
+is the router; this note owns the rig and the retrieve.
 
 ## Reach for this when
 
@@ -28,224 +32,194 @@ note owns the rig and the retrieve.
 - **Casting from the surf**, not just drifting or fishing straight down off a
   boat — the drag-and-shake cadence below is a **surf** program.
 
-## Building the rig (Nathan Winch)
+## Building the rig
 
-- **Spinning outfit** — a light rod with a **2000-size spinning reel**. **Braid**
-  matters: you **see the line** for the visual bite and get the sensitivity to
-  **feel the bite even on a slack line**. **Leader 10 to 12 lb, light drag** — the
-  bay fish aren't big; even for halibut, fish a light drag.
-- Hook: a **strong, long-shanked J-hook** — an O'Shaughnessy forged long shank —
-  which keeps the bait in position and stops it sliding around.
+- **Spinning outfit** — a light rod with a **2000-size spinning reel**.
+  **Braid** matters: it lets you **see the line** for the visual bite and gives
+  the sensitivity to **feel the bite even on a slack line**. **Leader 10 to
+  12 lb, light drag** — the bay fish aren't big; even for halibut, fish a
+  light drag (`k4mD2d6C81k`).
+- Hook: a **strong, long-shanked J-hook** — an O'Shaughnessy forged long shank
+  — which keeps the bait in position and stops it sliding around
+  (`k4mD2d6C81k`).
 - Tie a **Palomar knot**: leave **12 to 14 inches** of leader, **double the
-  line**, pass through the eye, overhand knot, drop the loop over the shank, and
-  cinch. Then **pass the leader tag back down through the top of the hook eye** so
-  the knot lies flat and the **hook points upward** — if it isn't facing up, the
-  rig won't work well.
-- **Weight on the tag end below the hook**, sized to conditions: **1/4 oz up to
-  1 oz**, light when it's glassy. Marquez runs **1 oz to 2 oz** and matches line
-  to it — **8 to 12 lb test with a 1 oz** weight, stepping up to **15 to 20 lb
-  test with a 2 oz.**
+  line**, pass through the eye, tie an overhand knot, drop the loop over the
+  shank, and cinch. Then **pass the leader tag back down through the top of
+  the hook eye** so the knot lies flat and the **hook points upward** — if it
+  isn't facing up, the rig won't work well (`k4mD2d6C81k`).
+- **Weight on the tag end below the hook**, sized to conditions: **1/4 oz up
+  to 1 oz**, light when it's glassy (`k4mD2d6C81k`). A second build runs
+  **1 oz to 2 oz** and matches line to it — **8 to 12 lb test with a 1 oz**
+  weight, stepping up to **15 to 20 lb test with a 2 oz** weight
+  (`1enjjFVcDG0`).
 - Bait: a **4-inch scented finesse fluke** (ZMan), threaded like any plastic
-  using the hook slot. Marquez feeds a **Gamakatsu size 1 straight worm hook**
-  through the plastic to **expose the hook closer to the tail** — halibut chase
-  and **bite from behind**, so more exposed point near the tail lifts the hookup
-  ratio. The rig is versatile: swap the fluke for a **grub or a swimbait.**
+  using the hook slot (`k4mD2d6C81k`). An alternate build feeds a **Gamakatsu
+  size 1 straight worm hook** through the plastic to **expose the hook closer
+  to the tail** — halibut chase and **bite from behind**, so a more exposed
+  point near the tail lifts the hookup ratio (`1enjjFVcDG0`). The rig is
+  versatile: swap the fluke for a **grub or a swimbait**. ⚠ misplaced-content:
+  the tail-exposed hook rigging is halibut-specific execution, queued for a
+  halibut × surf/drop-shot sub-article
+- **Hook-to-weight distance: 6 to 10 inches** — the halibut strike zone. A
+  predator won't burn energy chasing a bait 15 ft off; at 6 to 10 in it only
+  takes a little effort to commit, and the weight stays in contact with the
+  sandy bottom so the bait sits right in the zone (`1enjjFVcDG0`). ⚠
+  misplaced-content: the 6-10 in strike-zone spacing and its energy-expenditure
+  mechanism are halibut-specific execution, queued for a halibut ×
+  surf/drop-shot sub-article
 
-## Hook option — swivel-built hook for a free-swinging bait (Tackle Express, M2qZiY2lR98, 2026-04-20; _XfScSliRVk, 2026-04-23; unregistered channel — medium confidence)
+## Hook options
 
-A distinct hook choice alongside the strong long-shanked J-hook above, rather
-than a replacement for it: the **VMC Spin Shot**, a drop-shot hook built on a
-swivel, sold in multiple styles and sizes — his personal pick is a **number
-2** (`_XfScSliRVk`). Stated reason for reaching for it — it lets the bait
+A distinct hook choice alongside the strong long-shanked J-hook above, not a
+replacement for it: the **VMC Spin Shot**, a drop-shot hook built on a swivel,
+sold in multiple styles and sizes — a **number 2** is one angler's personal
+pick (`_XfScSliRVk`). The stated reason to reach for it: it lets the bait
 **swing freely through 360°** once the leader is tied, so the slightest
 movement of the line or rod tip, or any current, spins the bait in circles
 instead of holding it fixed in one orientation. Stated tradeoff: tying it on
 costs **one more knot** than a standard drop-shot hook tie.
 
-**Simpler alternative — number 2 mosquito hook** (`_XfScSliRVk`, 2026-04-23):
-for anglers who don't want to deal with the swivel-built hook, described as
-"very popular bait, very popular hook." Tie it with a **Palomar knot** and
-leave the tag end for the weight, same as the swivel hook. Stated problem
-with that tie, which he says he and "some people" run into: getting the
-**hook point riding up** once the knot is finished — the bait, whether
-nose-hooked or otherwise, needs the point facing up when you're done tying
-(same orientation rule as the Palomar build above).
+**Simpler alternative — number 2 mosquito hook** (`_XfScSliRVk`): for anglers
+who don't want to deal with the swivel-built hook, described as "very popular
+bait, very popular hook." Tie it with a Palomar knot and leave the tag end for
+the weight, the same as the swivel hook. The stated problem with that tie is
+getting the **hook point riding up** once the knot is finished — the bait,
+nose-hooked or otherwise, needs the point facing up when the tie is done, the
+same orientation rule as the Palomar build above.
 
-Both clips above are re-cuts of one longer original video, `_rcxIWhNMSE`
-(2022-06-06) — the hook/knot content is the same footage, not independent
-confirmation; see that video's weight-material tip below.
+Both clips above are re-cuts of one longer original video (`_rcxIWhNMSE`) —
+the hook/knot content is the same footage, not independent confirmation; see
+the weight-material tip below from that same video.
 
-## Weight material — lead vs. tungsten, and camouflaging lead (Tackle Express, `_rcxIWhNMSE`, 2022-06-06; unregistered channel — medium confidence)
+## Weight material
 
-For the tag-end weight below the hook, his stated preference is a
-**cylinder-style weight**. On material: **regular lead** does the job for
-him; he acknowledges **tungsten** works too and is "a little bit pricier"
-with "a lot more sensitivity," but he doesn't switch off lead himself.
+For the tag-end weight below the hook, the stated preference is a
+**cylinder-style weight**. On material: **regular lead** does the job, and
+**tungsten** also works and is "a little bit pricier" with "a lot more
+sensitivity," but the stated practice stays with lead (`_rcxIWhNMSE`). The
+cylinder-weight/lead-vs-tungsten portion of this is also re-cut, verbatim, as
+its own short video (`nZfEB7466ys`) — same footage, not independent
+confirmation.
 
-The cylinder-weight/lead-vs-tungsten portion of this segment (through "I
-love it") is also re-cut, verbatim, as its own short video, `nZfEB7466ys`
-(2026-04-22) — same footage, not independent confirmation. That re-cut stops
-before the camouflaging-lead tip below, which is unique to `_rcxIWhNMSE`.
-
-**Camouflaging lead weights** — a trick he credits to "a good pal of mine,
-DJ," done together "years ago": lay the lead weights on a paper towel and
-**spray-paint or nail-polish them black or green**. His own framing is
-explicitly hedged, not asserted as proven — "maybe it makes a difference,
-maybe it doesn't" — but his stated read is that a painted-black weight
-**blends in better** than bare lead or tungsten, avoiding the **flash** he
-says tungsten (and shiny lead) can throw off. He frames it as one of several
-small, marginal edges ("any little... step up you have on the competition")
-rather than a load-bearing claim.
-
-## Height off the bottom (Rod Marquez)
-
-- Set the **distance between hook and weight at 6 to 10 inches** — the halibut
-  strike zone. A predator won't burn energy to chase a bait 15 feet off; at 6 to
-  10 inches it only takes a little effort to commit, and the weight stays in
-  contact with the sandy bottom so your bait sits **right in the zone.**
+**Camouflaging lead weights**: lay the lead weights on a paper towel and
+**spray-paint or nail-polish them black or green** (`_rcxIWhNMSE`). The
+framing is explicitly hedged, not asserted as proven — "maybe it makes a
+difference, maybe it doesn't" — but the stated read is that a painted-black
+weight **blends in better** than bare lead or tungsten, avoiding the **flash**
+tungsten (and shiny lead) can throw off. It's framed as one of several small,
+marginal edges rather than a load-bearing claim.
 
 ## Working it
 
 - Keep the **weight on the bottom and the bait suspended just above it**;
-  **shake it in place** to work the bait without moving the rig off the spot.
-- **Grub:** point the rod tip down at a **45-degree angle** and use a **constant
-  retrieve.** **Fluke:** work **rod twitches, reel the slack, twitch again** —
-  that action swims the fluke's tail and is what draws the halibut.
-- Focus on **bottom structure**, keep the bait right above bottom, and — fishing
-  a spot or the shoreline — **be mobile:** if nothing bites in about **20 minutes,
-  move**, the fish may be only 20 yards off. Be patient; a halibut on plastic is
-  never a sure thing.
+  **shake it in place** to work the bait without moving the rig off the spot
+  (`1enjjFVcDG0`).
+- **Grub:** point the rod tip down at a **45-degree angle** and use a
+  **constant retrieve.** **Fluke:** work **rod twitches, reel the slack,
+  twitch again** — that action swims the fluke's tail and is what draws the
+  halibut (`1enjjFVcDG0`).
+- Focus on **bottom structure**, keep the bait right above bottom, and —
+  fishing a spot or the shoreline — **be mobile:** if nothing bites in about
+  **20 minutes, move**, the fish may be only 20 yards off. Be patient; a
+  halibut on plastic is never a sure thing (`1enjjFVcDG0`).
+- **Surf cadence — drag length matches target size** (`9qwsg-e9ECA`): cast
+  out, engage the reel, and **drag the rig a distance matching the halibut
+  you're trying to catch** — the stated example is **22 to 30 in** of drag. On
+  the settle, **shake out the slack while reeling**, which pulls the whole
+  lure forward instead of letting it sink in place, while the flash/blade
+  dances. **Repeat the drag-shake-drag cadence** rather than resetting and
+  soaking, to cover water instead of waiting on one spot. **Stated strike
+  radius:** a halibut within roughly **3 to 4 ft** of the bait's path is
+  expected to get curious, come over, and eat it. This cadence layers onto the
+  rig built above (weight on bottom, bait suspended above it); it doesn't
+  specify hook, weight, or leader — use the rig build above for those.
+- **Longer leader on a sloped beach** (`fHMwcm1xRQk`): running a slightly
+  longer leader specifically when beach fishing corrects for the **angle of
+  the beach itself** — lifting the rod tip to shake the rig from a sloped
+  beach doesn't lift hook and weight the same amount it would straight down
+  off a boat or pier, so the **weight can sit on the bottom while the lure end
+  is only 2–3 in off it**, short of the 6–10 in strike-zone spacing above. A
+  longer leader restores the separation the sloped bottom otherwise eats into.
+  ⚠ misplaced-content: the beach-specific longer-leader rule is halibut-surf
+  execution, queued for a halibut × surf/drop-shot sub-article
+- **Hookset — take up slack first** (`EGKesj7V64M`): the drop shot's light
+  spinning line is why beginner bay anglers are pointed to this rig first to
+  learn what a bite feels like — and that same light line makes the hookset
+  the failure point. **Never set the hook into slack.** On light line, driving the hookset while there's slack between rod
+  tip and bait is what pops the leader — not the hookset force itself. On the
+  bite, first wind down and lower the rod to take up the slack, and only then
+  set. **A missed swing costs nothing**, so swing on anything that doesn't
+  feel like bottom — a bump, a lack of contact — rather than waiting to be
+  sure; the worst case is pulling a plastic out of grass or rock and
+  recasting. The discipline that matters is taking up slack before the swing,
+  not hesitating on the swing itself.
 
-## Light-finesse halibut build vs. the generic surf-rod build (Tackle Express, `BPxE3xn3gAc`, 2026-01-24, medium confidence)
+## Doctrine & conflicts
 
-A distinct halibut drop-shot build, given as a deliberate contrast to advice
-the presenter attributes generically to "the internet" rather than to a named
-source: a **2 oz sinker on a surf rod with a curly-tail grub and a big, dull
-hook.** His stated reason for not fishing it that way is scale — he fishes a
-halibut drop shot **the same way he fishes what he calls "green bass," just
-very slightly heavier.** "Green bass" is his own term, not translated to a
-species on camera in this video; elsewhere in this channel's catalog it's
-used for freshwater largemouth bass, not calico bass, so it is kept here as
-his stated comparison rather than asserted as a calico-bass claim. A
-light-tackle approach kept side by side with, not reconciled to, the heavier
-Nathan Winch build above (which also runs a strong, long-shanked J-hook
-rather than the small hooks below).
-When he needs to cast a lure a long distance, his stated move is to reach for
-a different lure entirely rather than switch to the heavier 2 oz-sinker
-build.
+Positions kept side by side, attributed; **section order is not a ranking.**
 
-- **Sinkers:** **3/16 oz ball sinkers** as his main pick, with **1/4 oz
-  long, skinny drop-shot-style sinkers** as the other size he carries.
-- **Line:** light — **10 lb, up to 12 lb test at the most.**
-- **Hooks:** small — **red octopus-style hooks**, or **black or red
-  mosquito hooks** (size not stated on camera).
-- **Lure:** his stated best producer for this style of fishing is the
-  **Basstrix Flash Trick, 3-in and 4-in** swimbait — see
-  [Bay Bass Plastics](../lures/bay-bass-plastics.md#basstrix-flash-trick-halibut-drop-shot-lure-tackle-express-bpxe3xn3gac-2026-01-24-medium-confidence)
-  for sizing, colors, and rigging.
+- **Rig scale: the standard build vs. a bay-bass-scale light-finesse build.**
+  The standard build above runs a forged long-shank J-hook and up to 2 oz of
+  weight. Widely-repeated "internet" advice for halibut instead calls for a
+  **2 oz sinker on a surf rod with a curly-tail grub and a big, dull hook**
+  (`BPxE3xn3gAc`); a distinct halibut build instead scales the drop shot down
+  to the same tackle used for pressured bay bass — **3/16 oz ball sinkers**
+  (or **1/4 oz** long, skinny drop-shot sinkers), **10 lb line, up
+  to 12 lb at the most**, and small **red octopus-style** or **black or red
+  mosquito** hooks (size not stated on camera), fished with a **Basstrix
+  Flash Trick** swimbait in **3-in and 4-in** sizes — see [Bay Bass
+  Plastics](../lures/bay-bass-plastics.md#basstrix-flash-trick-halibut-drop-shot-lure-tackle-express-bpxe3xn3gac-2026-01-24-medium-confidence)
+  for sizing, colors, and rigging (`BPxE3xn3gAc`). The decision rule: scale
+  the rig to the water the way a bass angler scales a finesse presentation —
+  the light build is the default, and the heavier build (or a different lure
+  entirely) is for **casting distance**, not for extra size or toughness on
+  its own; when a long cast is needed, the stated move is reaching for a
+  different lure, not switching to the heavier 2 oz-sinker build.
 
-## Surf rhythm — drag length matches target size (Tackle Express, `9qwsg-e9ECA`, 2026-02-07; unregistered channel — medium confidence)
+## Alternate rig — weedless slug on a drop-shot-style leader
 
-A distinct cadence for working a drop shot for halibut from the **surf**,
-stated on camera as the angler's own rhythm rather than a universal rule:
+A second, distinct rig from the fluke/grub build above: a **slug-style soft
+plastic with a tail fin**, rigged **weedless** on an **Owner twist-lock**
+hook — the same weedless-slug family documented in
+[swimbaits](swimbaits.md), adapted onto a dropper-style leader instead of a
+straight cast-and-wind retrieve (`RUuPNpK0x-s`). Roughly a **2 ft leader**
+from weight to bait, with a **1 oz** torpedo/keel weight below it. Cast down a
+visible sand channel between structure and twitch it back — called effective
+enough on halibut, spotted bay bass, and other bay species that "they cannot
+handle it" (`RUuPNpK0x-s`). The same weedless-slug-on-current idea also works
+the surf zone — see [swimbaits — reach for this
+when](swimbaits.md#reach-for-this-when). Named on camera as brought to the
+Fred Hall show as a dedicated drop-shot bait roughly seven or eight years
+before this description — against the source's own 2013-03-09 date, that puts
+the bait's introduction at roughly **2005–2006**.
 
-- **Cast out, engage the reel, and drag the rig a distance matching the
-  halibut you're trying to catch** — the stated example is **22 to 30 in**
-  of drag.
-- On the settle after the drag, **shake out the slack while reeling** — the
-  stated effect is that this pulls the whole lure forward (rather than
-  letting it just sink in place) while the flash/blade dances.
-- **Repeat the drag-shake-drag cadence** rather than resetting and soaking —
-  the stated reason is that it covers water instead of waiting on one spot.
-- **Stated strike radius:** a halibut within roughly **3 to 4 ft** of the
-  bait's path is expected to get curious, come over, and eat it.
+## Improvising when the bite goes dead
 
-This is a cadence layered onto the same rig built above (weight on bottom,
-bait suspended above it); the video does not give hook, weight, or leader
-specifics — for those, use the rig build above.
+Decision rationale for a bay bite that's gone quiet (`RUuPNpK0x-s`): when
+conventional presentations stop drawing bites, the move is to deliberately
+reach for unconventional rigs rather than keep soaking the standard program.
+The trigger is a confirmed slow/scratching bite in a bay; the decision is to
+try something atypical; the stated reason is that once fish clearly aren't
+responding to the normal approach, an odd rig costs nothing worse than a
+recast.
 
-**Why the beach build runs a longer leader (same presenter, `fHMwcm1xRQk`,
-2026-01-13; unregistered channel — medium confidence):** his stated reason
-for running a **slightly longer leader specifically when beach fishing** is
-the **angle of the beach itself**. Lifting the rod tip to shake the rig from
-a sloped beach doesn't lift hook and weight the same amount it would
-straight down off a boat or pier — the **weight can be sitting on the
-bottom while the lure end is only 2–3 in off it**, well short of the 6–10 in
-strike-zone spacing above. A longer leader restores separation the sloped
-bottom otherwise eats into. Kept as a beach-specific addendum to the
-hook-to-weight distance rule above, not a replacement for it.
-
-## Hookset — take up slack first (Roman Castro, EGKesj7V64M, 2019-06-18; medium confidence)
-
-Drop shot's light spinning line is why beginners are told to learn bite-feel on
-this rig first, but it also makes the hookset the failure point:
-
-- **Never set the hook into slack.** On light line, driving the hookset while
-  there's slack between rod tip and bait is what pops the leader — not the
-  hookset force itself. On the bite, first wind down and lower the rod to take
-  up the slack, and only then set.
-- **A missed swing costs nothing**, so swing on anything that doesn't feel like
-  bottom — a bump, a lack of contact — rather than waiting to be sure; the worst
-  case is pulling a plastic out of grass or rock and recasting. The discipline
-  that matters is taking up slack before the swing, not hesitating on the swing
-  itself.
-
-## Weedless slug on a drop-shot-style rig — halibut & bay sand channels (Fred Hall panel)
-
-A second, distinct rig from the fluke/grub build above, described on a Fred
-Hall calico bass panel as producing well on **California halibut** and
-worked through bay sand channels (n6yun panel, `RUuPNpK0x-s`, unregistered
-channel — medium confidence):
-
-- **Bait:** a slug-style soft plastic with a tail fin, rigged **weedless** on
-  an **Owner twist-lock** hook — the same weedless-slug family documented in
-  [swimbaits](swimbaits.md), adapted onto a dropper-style leader instead of a
-  straight cast-and-wind retrieve.
-- **Rig:** roughly a **2 ft leader** from weight to bait, with a **1 oz**
-  torpedo/keel weight below it.
-- **Presentation — sight-fishing the sand:** cast down a visible sand channel
-  between structure and twitch it back; called out on camera as effective
-  enough on halibut, spotted bay bass, and other bay species that "they
-  cannot handle it." The same weedless-slug-on-current idea is also
-  described working the surf zone — see
-  [swimbaits — reach for this when](swimbaits.md#reach-for-this-when).
-- Named on camera as originally brought to the Fred Hall show as a dedicated
-  drop-shot bait roughly seven or eight years before this panel — resolving
-  against the panel's own `2013-03-09` upload date, that puts the bait's
-  introduction at roughly **2005–2006**.
-
-## Improvising on a slow bay day (Fred Hall calico bass panel)
-
-Decision-rationale from the same panel on what to do when a bay bite goes
-dead (n6yun panel, `RUuPNpK0x-s`, unregistered channel — medium confidence):
-when conventional presentations stop drawing bites, panelists described
-deliberately reaching for unconventional rigs rather than continuing to soak
-the standard program. The trigger is a confirmed slow/scratching bite in a
-bay; the decision is to try something atypical; the stated reason is that
-"almost anything goes" once fish clearly aren't responding to the normal
-approach, so an odd rig costs nothing worse than a recast.
-
-- Named examples from the panel: a **reverse drop shot** (rig detail not
-  given on camera); a **crankbait fished with a small torpedo/keel weight on
-  the bottom**, held nearly stationary in current rather than retrieved; a
-  **worm on a drop shot with a shrimp bait rigged above it**; and a
-  **crankbait with a small swimbait trailing in-line** behind it.
-- One angler's specific example, offered as the reason to try this: a client
-  described on camera as running unusual, self-tied "weird" combinations who
-  reportedly out-fished the boat on slow days — read as a reason to pay
-  attention to what an observant angler on the boat is doing differently,
-  even a client rather than the guide.
-- A related retrieve-speed tell offered alongside this: if a fish tears the
-  rod out of an angler's hand who had **paused** the retrieve, the read is to
-  start pausing the swimbait more; if it happens on a **fast, distracted**
-  retrieve instead, the read is to speed the retrieve up — treated as
-  in-session feedback on retrieve speed, not just luck.
+- Named examples: a **reverse drop shot** (rig detail not given on camera); a
+  **crankbait fished with a small torpedo/keel weight on the bottom**, held
+  nearly stationary in current rather than retrieved; a **worm on a drop shot
+  with a shrimp bait rigged above it**; and a **crankbait with a small
+  swimbait trailing in-line** behind it.
+- A retrieve-speed tell for reading the bite in session: if a fish tears the
+  rod out of an angler's hand on a **paused** retrieve, the read is to start
+  pausing the bait more; if it happens on a **fast** retrieve instead, the
+  read is to speed the retrieve up — treated as in-session feedback on
+  retrieve speed, not just luck.
 
 ## Gear class
 
-Light spinning / finesse-bottom class — see
-[gear classes](../tackle/gear-classes.md). Baits in
-[bay bass plastics](../lures/bay-bass-plastics.md).
+[Light spinning / finesse-bottom class](../tackle/gear-classes.md) — a
+2000-size spinning reel and light rod, sized so **braid** telegraphs a
+slack-line bite and lets the angler **see** the strike (`k4mD2d6C81k`). Baits
+in [bay bass plastics](../lures/bay-bass-plastics.md).
 
 ## Common failures
 
@@ -257,11 +231,21 @@ Light spinning / finesse-bottom class — see
   point toward the tail.
 - **Camping dead water** — move after ~20 minutes with no bite.
 
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/drop-shot.md).
+
+<!-- species-applications:start -->
+## Species applications
+
+<!-- species-applications:end -->
+
 <!-- backlinks:start -->
 ## Linked from
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [California Halibut](../species/california-halibut.md)
+- [Evidence — Drop Shot](evidence/drop-shot.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](../tackle/searcher-rail-rod-ladder.md)
