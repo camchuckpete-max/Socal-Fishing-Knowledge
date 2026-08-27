@@ -395,4 +395,5 @@ Trip reports and per-source provenance:
 - [Cortez South](cortez-south.md)
 - [Evidence — East Cape](evidence/east-cape.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 <!-- backlinks:end -->

@@ -227,4 +227,12 @@ harvested.
 | Dono (Baja Pacific north) | species/sheephead.md | evidence — feeding triggers | a sheephead ate a slow-wound homemade butter-knife jig on the wind-up | `L3tkGVu516A` |
 | Coronado Islands | species/sheephead.md | Presence & forage | named among the structure that holds live red crab, where the red-crab bait produces resident bass and sheephead | `5Oh3IPIC5g4` |
 | San Clemente Island | species/sheephead.md | Presence & forage | named among the red-crab-holding island structure for the same bait | `5Oh3IPIC5g4` |
+| Cortez Bank | species/skipjack-tuna.md | Where & when | skipjack "in the mix" with yellowtail and yellowfin on day one of a five-day trip fished on the bank | `i3qIAHW-SJc` |
+| Ensenada | species/skipjack-tuna.md | Where & when | skipjack called on the troll about 35 mi off Ensenada, with yellowfin and yellowtail on the same troll | `0bcDBGzQnGw` |
+| East Cape (Buena Vista Beach Resort) | species/skipjack-tuna.md | evidence — Situations → techniques | roughly 15–20 skipjack aboard as bycatch on a single morning's offshore troll for tuna/dorado/wahoo/marlin | `tcso7Lpm_Xs` |
+| Cabo San Lucas | species/skipjack-tuna.md | Presence & forage | skipjack taken trolling lures worked back and forth across a current break, with the "when you find them don't leave them" rule | `dgauGbNxP84` |
+| Bahía de los Ángeles | species/skipjack-tuna.md | evidence — Presence & forage | a "fat old Skippy" taken on a 40–60 ft high-spot stop otherwise fished for yellowtail, grouper and cabrilla | `odiIWmut6gM` |
+| "La Rasa" high spot (Bahía de los Ángeles) | species/skipjack-tuna.md | evidence — Presence & forage | the 40–60 ft high spot named on camera for that stop; asr-uncertain rendering, no charted position in the KB | `odiIWmut6gM` |
+| Loreto / Puerto Escondido | species/skipjack-tuna.md | evidence — Situations → techniques | a skipjack coming up on a slow-troll kept for chunk bait | `n4nMCLLW3tY` |
+| Pyramid Head (San Clemente Island) | species/skipjack-tuna.md | evidence — Presence & forage | the destination of the offshore SoCal leg on which the "don't leave a skipjack school" and paddy-turnover trip tips were given | `Ow3an9lSVh4` |
 <!-- review:harvest:end -->

@@ -257,4 +257,5 @@ Trip reports and per-source provenance:
 - [Evidence — Loreto & Puerto Escondido](evidence/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Sea of Cortez](sea-of-cortez.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 <!-- backlinks:end -->

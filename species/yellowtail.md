@@ -470,6 +470,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Searcher Yellowtail Live-Bait Sliding-Sinker Rig — 30 lb Class (Steve Carson, Penn/SearcherSportfishing, 2024-04-25)](../tackle/searcher-yellowtail-livebait-sliding-sinker-rig.md)
 - [September](../seasonal/september.md)
 - [Skip Jigging](../techniques/skip-jigging.md)
+- [Skipjack Tuna](skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 - [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)

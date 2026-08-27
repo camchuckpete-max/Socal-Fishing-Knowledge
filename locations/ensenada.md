@@ -292,6 +292,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 - [Punta Morro](punta-morro.md)
 - [Punta San Miguel](punta-san-miguel.md)
 - [San Miguel Reef](san-miguel-reef.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [The Bumps](bumps.md)
 - [The Pistol / Bell Bank (300)](pistol-bell-bank-300.md)

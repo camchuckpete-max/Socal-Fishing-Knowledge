@@ -348,6 +348,7 @@ fish around the boat once you're on them.
 - [Evidence — North County Artificial Reefs](../locations/evidence/north-county-artificial-reefs.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — San Diego Artificial Reefs](../locations/evidence/san-diego-artificial-reefs.md)
+- [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
@@ -356,6 +357,7 @@ fish around the boat once you're on them.
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Swimbaits](swimbaits.md)
 - [Trolling](trolling.md)
 <!-- backlinks:end -->

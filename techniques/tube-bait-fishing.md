@@ -368,6 +368,7 @@ Bass casting / swimbait class, stepping up to a heavy 40 lb-class outfit for
 - [Evidence — Barred Sand Bass](../species/evidence/sand-bass.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
+- [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](glide-baits.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

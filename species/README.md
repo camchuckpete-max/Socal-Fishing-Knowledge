@@ -19,7 +19,7 @@
 - [Rockfish & Lingcod](rockfish-lingcod.md) — Reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingcod as the apex predator on the same high
 - [Barred Sand Bass](sand-bass.md) — Barred sand bass are structure-oriented but not locked to the bottom the way a lingcod or cabezon is — they hover slightly above or within the reef, wreck or ke
 - [California Sheephead](sheephead.md) — California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard structure "every single day," which makes them the target once the water cools and t
-- [Skipjack Tuna](skipjack-tuna.md) — The ubiquitous warm-water tuna of the SoCal/Baja offshore — "skippies" are almost always the first and most aggressive fish to a chum line or a burning cast, wh
+- [Skipjack Tuna](skipjack-tuna.md) — Skipjack — "skippies" — are the fish that reaches the offering first on the SoCal/Baja tuna grounds: they pile into a chum line laid for yellowfin (lxFNVdDhMy4)
 - [Snook (Robalo)](snook.md) **[Baja only]** — Single-location, single-source note: Lopez Mateos / Magdalena Bay, Baja California Sur.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) **[SoCal only]** — The bay-and-harbor bass — a light-line, structure-relating fish you catch on eelgrass edges, mooring cans, dock pilings, riprap, and channel drops inside San Di
 - [Striped Marlin](striped-marlin.md) — SoCal striped marlin are a fall sight-and-troll billfishery: slow-troll lures/skirts through clean blue water off a bait/color edge, tease fish up, and switch t
@@ -79,6 +79,8 @@ graph LR
   n15 --> n18
   n15 --> n2
   n15 --> n22
+  n15 --> n25
+  n15 --> n3
   n16 --> n4
   n17 --> n13
   n17 --> n5

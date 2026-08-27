@@ -173,6 +173,7 @@ framework this SoCal-bight note otherwise focuses on.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [Cortez South](../locations/cortez-south.md)
 - [Current Structure](current-structure.md)
+- [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Island Structure](../locations/island-structure.md)
 - [La Paz](../locations/la-paz.md)

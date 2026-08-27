@@ -164,4 +164,5 @@ estimated **≈181 lb**.
 - [Dorado & General Fish Care](dorado-and-general.md)
 - [Gaffing — Sizing and the Shot](gaffing.md)
 - [Ikejime (Iki-Jime)](ikejime.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 <!-- backlinks:end -->

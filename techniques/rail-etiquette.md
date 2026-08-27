@@ -74,4 +74,5 @@ know so a crowded rail doesn't turn into tangled lines and lost fish.
 
 - ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 <!-- backlinks:end -->

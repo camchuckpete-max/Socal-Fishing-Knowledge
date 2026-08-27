@@ -135,6 +135,7 @@ Trip reports and per-source provenance:
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
+- [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Tanner Bank](tanner-bank.md)
