@@ -812,4 +812,7 @@ by their builders after the transform phase drains.
 | locations/baja-lower-banks.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/huntington-beach-oil-platforms.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/181-182-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/cedros-san-benitos.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/desperation-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

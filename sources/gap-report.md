@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2195 flagged gaps, 337 flagged stubs, 1021 unknown infobox values._
+_Totals: 2202 flagged gaps, 347 flagged stubs, 1022 unknown infobox values._
 
 ## species/
 
@@ -310,6 +310,25 @@ _Totals: 2195 flagged gaps, 337 flagged stubs, 1021 unknown infobox values._
   - `Landing & handling`: gap — bleeding, chilling or ikejime for a white
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+- **species/yellowfin-tuna.md**
+  - `Presence & forage`: gap — forage confirmed from a yellowfin stomach
+  - `Spawning`: gap — when, where or how yellowfin spawn anywhere
+  - `Feeding triggers`: gap — any tide, slack, gray-light or
+  - `Finding them (sign & sonar)`: gap — how the 40–50 ft mark shifts with sea
+  - `Situations → techniques`: gap — yellowfin troll spread geometry — the corpus gives *speeds*, never setback distances or lure positions in the pattern [b] |
+  - `Situations → techniques`: flagged stub row
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California / CDFW or Mexican
+  - `Landing & handling`: gap — bleeding, chilling, ikejime or gaffing
+  - infobox `scientific_name`: unknown
 - **species/yellowtail-coronado-islands.md**
   - `Mexican waters — hard gate`: gap — what a boat run
   - `The program`: gap — the anchor-vs-drift commit call at the
