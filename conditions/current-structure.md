@@ -383,6 +383,7 @@ become primary).
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [Upwelling and Turnover](upwelling-and-turnover.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
+- [Wahoo](../species/wahoo.md)
 - [Water Color](water-color.md)
 - [Water Regimes](water-regimes.md)
 - [Water Temperature](water-temperature.md)

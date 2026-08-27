@@ -397,4 +397,5 @@ Trip reports and per-source provenance:
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

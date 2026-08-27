@@ -268,4 +268,10 @@ harvested.
 | The 138 | species/swordfish.md | Where & when | picked off an SST image on camera as the day's sword spot — a hard edge with heavy current flow | `yMiBtZ7k8-w` |
 | The 182 | species/swordfish.md | Where & when | named with the 138 as mixing water with heavy current flow, called a good place to check on a break day | `yMiBtZ7k8-w` |
 | Catalina Island | species/swordfish.md | Presence & forage | a Catalina-caught swordfish held 30–40 regulation-sized mullet, evidence the fish had been feeding up in the kelp on the beach rather than offshore | `yMiBtZ7k8-w` |
+| Alijos Rocks | species/wahoo.md | Where & when | primary wahoo destination for San Diego 6-, 7- and 8-day trips; rock running "from the surface all the way to the bottom"; 488 mi / 45-hour run in one source, "roughly 400 miles" in another | `_r08B4bItAY`, `97clKtVsEOs`, `tjBeR9tWd4s`, `ETw_3AFxEcM` |
+| The Ridge / Uncle Sam Bank | species/wahoo.md | Where & when | the alternative to Alijos Rocks on a seven-day trip ("one or the other"); 450–460 mi from San Diego to the upper end where Uncle Sam Bank is, a two-day run; fall wahoo "at the rocks or on the ridge or on kelp paddies down in that area" | `_r08B4bItAY`, `ETw_3AFxEcM`, `it_YYh_8Z-w` |
+| Magdalena Bay | species/wahoo.md | Where & when | framed as holding a healthy wahoo and dorado population "come fall time" | `4t_Z75shK_E` |
+| East Cape (Buena Vista Beach Resort) | species/wahoo.md | Where & when | wahoo mixed into the annual offshore troll for tuna/dorado/marlin — three boated with a fourth hooked in one session, and a personal-best fish called the fleet's "first wahoo of the season" in April 2020 | `tcso7Lpm_Xs`, `APsnsunT4gM`, `mG8ZZLFGlT8` |
+| Huntington Beach oil platforms | species/wahoo.md | Where & when | wahoo caught at the platforms in 85 °F water during the 2014–2015 El Niño; gone once the water cooled — a temperature-driven range extension, not a standing Bight pattern | `JK2-cpaXkI8` |
+| Baja "lower banks" | species/wahoo.md | Where & when | November: wahoo swam through the giant-tuna school the boat sat anchored on for four days; none landed | `ASitOLYzFEA` |
 <!-- review:harvest:end -->

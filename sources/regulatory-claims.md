@@ -69,6 +69,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Mexican (CONAPESCA) bag limit or size gauge for California sheephead, which the Ensenada and Cedros fish fall under | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [California sheephead](../species/sheephead.md) | — |
 | California / CDFW bag limit, size gauge, gear rule or season for striped marlin — no corpus source states any of them, despite the corpus recording a SoCal sportboat putting one in the deep freezer | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [striped marlin](../species/striped-marlin.md) | — |
 | California / CDFW bag limit, size gauge, gear rule or season for swordfish — no corpus source states any of them, despite a recreational daytime deep-drop fishery running out of San Diego | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [swordfish](../species/swordfish.md) | — |
+| California / CDFW bag limit, size gauge, gear rule or season for wahoo — no corpus source states any of them, despite the corpus recording wahoo caught at the Huntington Beach oil platforms during the 2014–2015 El Niño | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [wahoo](../species/wahoo.md) | — |
 | Harpoon dart not used to finish a hooked swordfish in SoCal — "we can't do the dart here" — where the Florida Keys fishery does; the SoCal endgame runs a flying gaff to the gill plate instead | dart not used; **no rule, agency or reason stated on camera**, and the same corpus describes harpooning surface swordfish as an established SoCal activity | 2021-02 (the statement); legal basis unstated — verify current gear and take rules with CDFW before relying on it | [swordfish](../species/swordfish.md) | `yMiBtZ7k8-w` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
@@ -91,6 +92,7 @@ recorded so the figure isn't mistaken for a verified limit:
 | Mexican (CONAPESCA) bag limit, size gauge or closed season for Pacific crevalle jack | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
 | Mexican (CONAPESCA) bag limit, size gauge or closed season for snook / robalo at Magdalena Bay / Lopez Mateos | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [snook](../species/snook.md) | — |
 | Mexican (CONAPESCA) bag limit, size gauge, gear rule or closed season for striped marlin, covering the Ensenada, Magdalena Bay, Cabo San Lucas and East Cape records | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [striped marlin](../species/striped-marlin.md) | — |
+| Mexican (CONAPESCA) bag limit, size gauge, gear rule or closed season for wahoo, covering the Alijos Rocks, the Ridge / Uncle Sam Bank, Magdalena Bay and East Cape records — where every corpus wahoo except the El Niño strays was caught | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [wahoo](../species/wahoo.md) | — |
 
 **Not a regulation — an operator agreement, kept distinct:**
 
@@ -142,5 +144,6 @@ route, and the insurance carriers by name.
 - [Striped Marlin](../species/striped-marlin.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [US waters](../locations/us-waters.md)
+- [Wahoo](../species/wahoo.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

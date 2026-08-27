@@ -147,4 +147,5 @@ Trip reports and per-source provenance:
 - [Upper Cross / 421 / 390](upper-cross-421-390.md)
 - [US waters](us-waters.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
+- [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

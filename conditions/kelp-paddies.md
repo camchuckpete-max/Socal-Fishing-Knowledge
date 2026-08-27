@@ -278,6 +278,7 @@ paddy-line detail beyond that can be read out of the clip.
 - [The Bumps](../locations/bumps.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
+- [Wahoo](../species/wahoo.md)
 - [Water Regimes](water-regimes.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

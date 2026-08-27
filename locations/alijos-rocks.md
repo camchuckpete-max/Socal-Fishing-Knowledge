@@ -235,4 +235,5 @@ Trip reports and per-source provenance:
 
 - [Baja Pacific — South](baja-pacific-south.md)
 - [Evidence — Alijos Rocks](evidence/alijos-rocks.md)
+- [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

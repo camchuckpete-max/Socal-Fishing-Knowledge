@@ -298,4 +298,5 @@ Trip reports and per-source provenance:
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Wahoo](../species/wahoo.md)
 <!-- backlinks:end -->

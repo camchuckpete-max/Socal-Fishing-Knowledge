@@ -69,6 +69,7 @@ single mention — medium confidence.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Wahoo](../species/evidence/wahoo.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)

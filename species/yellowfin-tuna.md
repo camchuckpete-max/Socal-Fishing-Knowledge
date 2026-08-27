@@ -579,6 +579,7 @@ the bluefin nearby become more cooperative too.**
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
 - [Evidence — Striped Marlin](evidence/striped-marlin.md)
+- [Evidence — Wahoo](evidence/wahoo.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
