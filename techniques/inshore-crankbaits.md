@@ -267,6 +267,7 @@ Trip reports and per-source provenance: [evidence file](evidence/inshore-crankba
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Evidence — Inshore Crankbaits](evidence/inshore-crankbaits.md)
+- [Evidence — Leadhead Swimbait Retrieve](evidence/leadhead-swimbait-retrieve.md)
 - [Evidence — Spotted Bay Bass](../species/evidence/spotted-bay-bass.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Imperial Beach](../locations/imperial-beach.md)
