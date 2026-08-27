@@ -324,4 +324,6 @@ harvested.
 | Catalina Island | techniques/inshore-crankbaits.md | Reach for this when | calico crank lanes running 80-100 ft at the islands | — (uncited legacy claim) |
 | Bolsa Chica | techniques/inshore-crankbaits.md | Beach and inlet channels | named as an example of a beach inlet/river-mouth channel type, not as a doctrine-specific spot | `H5Z-Mqt4qXs` |
 | San Diego Bay | techniques/inshore-crankbaits.md | evidence — Reach for this when | SWBA tournament pre-fishing produced 25+ fish in a day once a productive crankbait zone was found | `k4LCL9ALryA` |
+| Dana Point | techniques/kayak-bass-fishing.md | Finding and relocating spots without electronics | home waters; a windy day pushes the day's zone choice south to keep the wind at your back for the ride home | `LqW32NSkObY` |
+| San Clemente Island | techniques/kayak-bass-fishing.md | Casting to cover ground | worked kayak-parallel to the shoreline as the source's own example of covering a long structure line | `LqW32NSkObY` |
 <!-- review:harvest:end -->

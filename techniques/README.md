@@ -21,7 +21,7 @@
 - [Glide Baits](glide-baits.md) **[SoCal only]** — A glide bait is a large, hard-bodied, jointed swimbait that kicks side-to-side on the pause — the European pike/musky-derived class (named brands: DS Prestos, J
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — Hoop netting is the recreational method for California spiny lobster: a rigid, baited hoop net is dropped on rocky or kelp structure after dark, soaked to let t
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
-- [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Small-craft-specific execution for working calico bass and sand bass structure from a kayak — covering ground, using kelp as an anchor, and working boiler rocks
+- [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Kayak bass fishing adapts calico bass and sand bass execution to a small, low, unpowered- or pedal-driven craft with no helm and usually no electronics running.
 - [Kite Fishing](kite-fishing.md) — Execution for flying a rigged flying fish on the surface under a kite — the standard SoCal method for the big bluefin grade (100 to 300 lb fish).
 - [Knife / Speed Jigging](knife-jigging.md) — Rip a slender jig up through the water column fast, imitating a fleeing baitfish — a reaction bite, distinct from the fall-triggered slow-pitch presentation.
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md) **[SoCal only]** — A count-and-pause retrieve for a leadhead + soft-plastic swimbait that keeps the bait working just off the bottom without a depth finder or a line-counter reel

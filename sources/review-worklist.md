@@ -52,7 +52,7 @@ by their builders after the transform phase drains.
 | techniques/glide-baits.md | standard | transformed | gaps(2) | restructured to v2 technique skeleton, dissolved source-named heading, moved attribution preamble to cites, added infobox; verified with fix (restored dropped tube-bait-fishing.md link) |
 | techniques/hoop-netting.md | standard | transformed | spots(4), reg-claims(1) | migrated to layout v2: restructured to technique skeleton, dissolved source-named headings, moved Observed block to evidence, added regulations/infobox; verified with 4 fixes (restored dropped statistic, restored altered direct quote, restored dropped contrast claim, removed leftover reconciliation-machinery phrase) |
 | techniques/inshore-crankbaits.md | standard | transformed | spinout(1) | transform applied with 3 fixes (hedge-hardening x2, invented flag) |
-| techniques/kayak-bass-fishing.md | standard | pending |  |  |
+| techniques/kayak-bass-fishing.md | standard | transformed | spots(2) | transform verified, one style fix applied (meta-attribution phrase) |
 | techniques/kite-fishing.md | standard | pending |  |  |
 | techniques/knife-jigging.md | standard | pending |  |  |
 | techniques/leadhead-swimbait-retrieve.md | standard | pending |  |  |

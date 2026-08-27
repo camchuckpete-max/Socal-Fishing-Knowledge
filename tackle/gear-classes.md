@@ -307,6 +307,7 @@ does the lookup.
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [Jig Stick Doubles as a Trolling Outfit — Reel/Line Pairing and the Clicker Sequence (Tackle Express)](tackle-express-jig-stick-trolling-outfit.md)
+- [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [Kite Fishing](../techniques/kite-fishing.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
