@@ -379,7 +379,6 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
-- [Barred Sand Bass](sand-bass.md)
 - [Bass Structure](../locations/bass-structure.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)

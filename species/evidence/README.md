@@ -17,6 +17,7 @@
 - [Evidence — Opah](opah.md) — Per-source provenance backing opah.
 - [Evidence — Pacific Crevalle Jack](pacific-crevalle-jack.md) — Per-source provenance backing Pacific crevalle jack.
 - [Evidence — Rockfish & Lingcod](rockfish-lingcod.md) — Trip reports and per-source provenance backing rockfish & lingcod.
+- [Evidence — Barred Sand Bass](sand-bass.md) — Trip reports and per-source provenance backing sand bass.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -40,8 +41,10 @@ graph LR
   n10["Evidence — Opah"]
   n11["Evidence — Pacific Crevalle Jack"]
   n12["Evidence — Rockfish & Lingcod"]
-  n13["Evidence — Yellowtail — surface iron"]
-  n14["Evidence — Yellowtail"]
+  n13["Evidence — Barred Sand Bass"]
+  n14["Evidence — Yellowtail — surface iron"]
+  n15["Evidence — Yellowtail"]
   n11 --> n8
+  n13 --> n5
 ```
 <!-- mermaid:end -->

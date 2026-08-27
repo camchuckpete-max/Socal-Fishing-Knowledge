@@ -1,161 +1,308 @@
 ---
 type: species
 tags: [sand-bass, barred-sand-bass, sand-flats, deep-structure, spawning, inshore, baja, ensenada]
-sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8, LqW32NSkObY, XyKF34C5iB4, 7T6dIYqr3KI, 5fxAN1Ofn8M]
+sources: [P2OzCf2CwXI, 9br4Z4sfcNI, kwMIgkCtFUE, HMdrP4-i9MM, 0dIwWiOc1NY, SdwwpQMJEOI, 5Oh3IPIC5g4, JK2-cpaXkI8, LqW32NSkObY, XyKF34C5iB4, 7T6dIYqr3KI, 5fxAN1Ofn8M, -eaaWPN5Fxk, 3tur7-VCM2g, 0HwYl0HO2tc, usHl-4SfqDA, Blh2BA-7Ono, 5D1vx29LVpI, 5p6gu14ZC4w, r6j5w40fVHI, ohR9DeBOU9E]
 confidence: high
 regions: [socal-bight, baja-pacific-north]
 waters: [nearshore-coast, bay-harbor, bank]
+layout: v2
+scientific_name: unknown
+season_peak: [jun, jul]
+sst_band_f: unknown
+depth_band: 40-80 ft over hard bottom, plus the summer sand flats
+gear_classes: [finesse-flyline-12-30lb, low-profile-bass-300, deep-structure-8ft-heavy, crank, light-spinning-plastics]
+sonar_depth: no mark while they sit on the bottom; a tight spawning meatball mid-screen over a flat, and fish rising 40 ft off a 60 ft bottom to eat
 ---
 
 # Barred Sand Bass
 
-The sand-flat and deep-structure cousin of the calico: a bottom-associated bass
-that lives on and around **hard bottom, wrecks, and the reef-to-sand transition**
-and, in summer, **balls up on the flats to spawn** and eats every cast. This note
-routes the fishery; structure detail is in
-[bass structure](../locations/bass-structure.md). Primary voices are Nate
-Winnicki (Sand Bass 101) and Landesfeind (Academy Ep. 5).
-
-Sand bass are **structure-oriented but not locked to the bottom** the way a
-lingcod or cabezon is — they hover slightly **above or within** the reef, wreck,
+Barred sand bass are structure-oriented but not locked to the bottom the way a
+lingcod or cabezon is — they hover slightly **above or within** the reef, wreck
 or kelp, which is why a column-covering presentation beats a dead-stick on the
-rocks.
+rocks (`P2OzCf2CwXI`). In summer they **ball up on the open sand flats to
+spawn** and eat every cast; in winter they drop onto deep structure, sit on the
+bottom and give a reaction bite (`P2OzCf2CwXI`). A big one is about **6 lb**
+(`P2OzCf2CwXI`), which sets the whole tackle scale — 20 lb leader gets it done.
+This note routes the fishery; structure detail is in
+[bass structure](../locations/bass-structure.md).
 
 ## Where & when
 
-- **Where:** hard bottom, high spots, wrecks, and the hard-to-soft transition
-  where reef meets sand; in summer, the open **sand flats** where they aggregate
-  to spawn; in winter, **deeper structure** ([bass structure](../locations/bass-structure.md)).
-  Pipes and man-made structure on the flats hold winter fish
-  ([break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md)).
-- **When — summer spawn is the event:** they **ball up and spawn** through the
-  early [warm-stable regime](../conditions/water-regimes.md) (early summer,
-  peaking around late June–July), congregating on the flats where a
-  half-day or twilight boat finds them eating every cast. See
-  [June–July](../seasonal/june-july.md). Loading the tanks with nice
-  **anchovy** is a good sign for the day.
-- **Winter — the winter/upwelling regime (typically mid-Dec through March):**
-  less active, **locked to the bottom** on deep structure, more of a
-  reaction bite. The winter deep-structure program — including **crankbait over
-  suspended bait balls above pipes** — fishes all season and stays productive
-  even when rain washes out the shallow island zones. See
-  [February–March](../seasonal/february-march.md).
-- **Moon:** clear full-moon nights suppress the daytime bite the same way they do
-  calico — bite early, dead mid-day ([moon](../conditions/moon.md)). Night-specific
-  color and lure choice — silhouette/craw colors, lit-structure targeting, heavier
-  leader for a trophy fish — is in [night bass fishing](../techniques/night-bass-fishing.md).
-- **Highly migratory — warm water pushes them out of the bight (Dave Hansen,
-  Your Saltwater Guide, `JK2-cpaXkI8`, 2025-03-06, PCS Show seminar; registered
-  voice, single mention — medium confidence):** sand bass are a highly
-  migratory species, and their local abundance tracks that migration path,
-  which he ties to water temperature. During the **2014–2015 El Niño**, with
-  water at **85°F**, his crew caught **wahoo** at the oil platforms off
-  Huntington Beach — a warm-water pelagic species well outside its normal
-  SoCal range, the same tropical-range-extension pattern documented for other
-  species during warm events (see the ENSO section of
-  [upwelling and turnover](../conditions/upwelling-and-turnover.md)).
-  His point: sand bass leaving a spot when the water runs warm is the mirror
-  case of that same pattern — a temperature-driven range shift, not a
-  population collapse, even though the wahoo themselves are long gone from
-  Huntington Beach now that the water has cooled back down.
-  - **Stated as a rebuttal to a population-collapse claim** (that Humboldt
-    squid ate the sand bass): per Hansen, Humboldt squid during that period
-    held in canyons at **1,200–2,000 ft**, not on the shallow flats where sand
-    bass live, so a squid-predation explanation doesn't fit the depths
-    involved.
-  - **Bait-size mismatch offered as a second, compounding explanation** for
-    lower recent sand bass catch counts: he says the bait now sold in SoCal
-    bait barges runs about **8 in** long, too large, he says, to catch a
-    **14 in** sand bass with. He doesn't say "legal" on camera in this
-    passage, but 14 in matches the established **California/CDFW 14 in
-    minimum size** for sand bass (as of 2022-04-25 — verify current before
-    fishing; see the
-    [regulatory register](../sources/regulatory-claims.md)) — a possible
-    catch-ability confound distinct from the migration point, not something
-    he reconciles with it. ASR renders the bait species inconsistently across
-    this passage (once as "sard[ine]," once elsewhere as "anchovies") — too
-    garbled to confirm which he means, so the species is left unstated here.
-- **Observed** (StokedOnFishing, 2022-10-11, off North County San Diego near
-  Camp Pendleton, SoCal — `HMdrP4-i9MM`, "Out Fished by the Kids | Okuma
-  Inspired Fishing"): on the same Okuma kids/family trip logged in
-  [calico bass](calico-bass.md#where--when) (hard bottom with kelp not
-  reaching the surface, ~40–42 ft), sand bass were mixed in with the calico
-  catch, including one angler's first fish ever. Legal size was called out on
-  camera as **14 in**, matching the calico-bass legal-size figure. Unregistered
-  channel — medium confidence.
+**Where.** Hard bottom, high spots, wrecks, artificial reefs and underwater
+sewer pipes all fish the same way regardless of what they are built from, and
+the hard-to-soft transition where reef meets sand is the edge that holds them
+(`kwMIgkCtFUE`). Isolated rocks roughly the size of a small car sitting on open
+sand off Huntington Beach hold sand bass on their own (`kwMIgkCtFUE`). In
+summer add the open **sand flats** where they aggregate to spawn
+(`P2OzCf2CwXI`); pipes and man-made structure on the flats hold winter fish
+([break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md),
+[bass structure](../locations/bass-structure.md)).
 
-- **Observed** (StokedOnFishing, 2025-05-16, Long Beach / Alamitos Bay — Olive
-  Crest ProAm charity bass tournament, `SdwwpQMJEOI`, "Battles for the Biggest
-  Bass — This Is the Olive Crest Bass Fishing Tournament"): one boat's
-  pre-fishing plan named sand bass and calico bass as the day's target
-  species, working a reef spot near Long Beach (name given on camera but
-  ASR-uncertain — omitted) with live bait plus soft-plastic paddle-tail
-  swimbaits and A-rigs. No conditions, depth, or outcome detail given beyond
-  the gear plan. Unregistered channel — medium confidence.
+**Summer.** They ball up and spawn through the early
+[warm-stable regime](../conditions/water-regimes.md), peaking around late
+June–July, and a half-day or twilight boat finds them on the flats eating every
+cast (`P2OzCf2CwXI`). See [June–July](../seasonal/june-july.md).
+
+**Winter.** Through the winter/upwelling regime (typically mid-December through
+March) they are less active and **locked to the bottom** on deep structure
+(`P2OzCf2CwXI`). The coastal "hit and switch" sand bass stop is a standing
+mid-December option, worked with a swimbait fished on the bottom or a slug
+(`5D1vx29LVpI`); the deep-structure crankbait program over suspended bait above
+pipes fishes all season and stays productive when rain washes out the shallow
+island zones. See [February–March](../seasonal/february-march.md).
+
+**Presence is not catchability — the fish move, the spot does not.** Sand bass
+are highly migratory and local abundance tracks that migration path, which
+follows water temperature, so a spot that goes empty in warm water is a
+temperature-driven range shift rather than a population collapse
+(`JK2-cpaXkI8`). The mirror case from the same warm event: during the
+2014–2015 El Niño, with water at **85 °F**, wahoo — a tropical pelagic well
+outside its normal SoCal range — were caught at the oil platforms off
+Huntington Beach, and are long gone now that the water has cooled back down
+(`JK2-cpaXkI8`). See the ENSO section of
+[upwelling and turnover](../conditions/upwelling-and-turnover.md).
+
+**Grade by zone.** Against the ~6 lb benchmark for a big fish (`P2OzCf2CwXI`),
+the Long Beach break wall and the structure inside Long Beach Harbor produce
+the corpus's largest sand bass: personal bests of **9.5 lb** off the break wall
+and **9 lb 10 oz** on a crankbait inside the harbor (`XyKF34C5iB4`).
+
+Zone-by-zone trip detail is in the [zone guides](#zone-guides); trip reports
+are in the [evidence file](evidence/sand-bass.md).
+
+## Presence & forage
+
+**Hard bottom under shifting sand changes the current, and the current builds
+the pantry.** Shale bottom with sand over it reads harder on a sounder than the
+chart suggests, and that harder bottom deflects current in a way that
+aggregates bait fish — sand bass and calico follow by association
+(`kwMIgkCtFUE`).
+
+**Depth is not the variable; the bait is.** Fish that relate to a piece of
+structure change depth freely and care where the bait fish are, and the bait
+cares where the zooplankton is, which is wherever current upwells across the
+structure — so the productive band moves deeper some days and shallower others
+(`kwMIgkCtFUE`). The winter example is sand bass and calico taken off a Newport
+pipe in **80 ft** of water on crankbaits that run only **15 ft** deep
+(`kwMIgkCtFUE`).
+
+**Too much bait is a negative.** With acres of bait from below Huntington Beach
+to off Long Beach in February 2023 the fish would not aggregate on any one
+spot, producing the worst wintertime coastal bass fishing seen in at least ten
+years — a bait glut disperses the fish rather than concentrating them
+(`3tur7-VCM2g`).
+
+**In a harbor, old pilings beat new ones** — the old ones carry the crustacean
+growth, and the fish are on them (`usHl-4SfqDA`, Long Beach Harbor). The tide
+is what serves the forage there: a rising and falling tide pushes and pulls
+bait fish, crabs and small crustaceans out of the shallows, and the bass ambush
+them against piers, docks, rocks and pilings (`usHl-4SfqDA`; stated for harbor
+bass generally, not for barred sand bass alone).
+
+**Hook bait.** A bait tank loaded with good-sized live anchovy is the summer
+sign of a good day (`P2OzCf2CwXI`). On San Diego bass grounds, when the fish
+are packed with red crab a red-crab imitation is the hardest bait to get bit
+and a sardine-pattern bait is eaten immediately; red-crab baits kill only when
+red crab is in the area and the fish are not yet gorged on it (`5Oh3IPIC5g4`).
+⚠ Fact-check (single-source): one promotional seminar, and it scopes the
+red-crab rule to "bass" generally rather than to barred sand bass alone.
+
+⚠ Flagged gap — no corpus source: what barred sand bass eat naturally — no
+source describes stomach contents or names a forage item for barred sand bass
+specifically, and the harbor forage list above is scoped to bass generally.
+
+## Spawning
+
+They **ball up and spawn** on the open sand flats through early summer, peaking
+around late June–July, and a spawning school is what turns a half-day or
+twilight trip into a fish-every-cast day (`P2OzCf2CwXI`). A schooled, spawning
+aggregation also feeds as a unit: a bait cruised past the school draws one
+bite, which fires the next, and a limit can come off a single cast
+(`P2OzCf2CwXI`).
+
+⚠ Flagged gap — no corpus source: spawning depth, the temperature or moon
+trigger for the spawn, whether the bite shuts down post-spawn, and which flats
+the schools use.
+
+## Feeding triggers
+
+- **Summer spawn is the switch.** Fired-up spawning fish take plastics and the
+  A-rig; when they are not fired up, the live-bait and dropper-loop
+  presentations still get bites (`P2OzCf2CwXI`).
+- **Winter is a reaction bite, not a feeding bite.** Bottom-locked winter fish
+  are not actively feeding, so the bait has to be dropped into them and moved
+  aggressively rather than presented and waited on (`P2OzCf2CwXI`,
+  `3tur7-VCM2g`).
+- **Tide movement, in a harbor.** Increased water movement stirs the ecosystem
+  up and turns the bass aggressive, which is why picking the tide matters as
+  much as picking the pilings (`usHl-4SfqDA`; stated for harbor bass
+  generally). See [tide and slack](../conditions/tide-and-slack.md).
+- **Cold, upwelled beach water shuts the coast down.** A big swell that
+  upwelled and cooled the water along the beach slowed the coastal sand bass
+  bite markedly over the July 2022 full moon (`Blh2BA-7Ono`). See
+  [upwelling and turnover](../conditions/upwelling-and-turnover.md) and
+  [sea state](../conditions/sea-state.md).
+- **Full moon.** Clear full-moon nights suppress the daytime bite the same way
+  they do calico — bite early, dead mid-day ([moon](../conditions/moon.md)).
+  Around a full moon the bass bite well early and then stop until later in the
+  day, so a full-moon trip that cannot launch early is better launched at noon
+  or one o'clock than at dawn (`Blh2BA-7Ono`). ⚠ Fact-check (single-source):
+  the full-moon pattern is stated for bass generally — the day it was stated
+  on was a Catalina calico day, and the corpus's only sand-bass record from
+  the same full moon is the July 2022 coastal slowdown above, which its source
+  attributes to swell and cold water rather than to the moon.
+- **A bait glut overrides everything else** — see
+  [Presence & forage](#presence--forage): acres of bait keep the fish from
+  stacking on a spot at all (`3tur7-VCM2g`).
+- Night-specific colour and lure choice — silhouette and craw colours,
+  lit-structure targeting, heavier leader for a trophy fish — is in
+  [night bass fishing](../techniques/night-bass-fishing.md).
 
 ## Finding them (sign & sonar)
 
-- **The spawning meatball:** the defining sonar signature is a **tight
-  "meatball" of fish right in the middle of the screen over a sand flat** — a
-  whole school of sand bass congregated to spawn. That mark is the green light for
-  plastics and the double rig ([electronics and sounder](../planning/electronics-and-sounder.md)).
-- **Suspended bait over structure:** in winter look for **bait balls suspended
-  over pipes and deep structure** with fish under/among them — crank or drop into
-  that picture. A solid unbroken bait wall usually holds no predators; broken,
-  harried bait does (Ep. 5).
-- **Where in the column:** they mark **slightly above or within** the reef/wreck,
-  not pinned to the bottom — so cover the column, not just the rocks
-  ([search and glassing](../planning/search-and-glassing.md)).
+- **They do not mark while they are sitting on the bottom.** A sand bass
+  hanging out on or close to the bottom gives no return; you only see them when
+  they come up to feed. Mark the structure and the bait, not the fish, and drop
+  regardless of whether fish show on the screen (`kwMIgkCtFUE`).
+- **When they do come up, they come a long way.** Over a rock in **60 ft**,
+  bass rose **40 ft** off the bottom to intercept a sinking lure where the
+  screen had shown no mark a moment earlier (`kwMIgkCtFUE`).
+- **The spawning meatball.** A tight ball of fish right in the middle of the
+  screen over a sand flat is a school congregated to spawn, and it is the green
+  light for plastics and the double rig (`P2OzCf2CwXI`).
+- **Game fish move on the screen; perch do not.** Feeding game fish show
+  vertical movement — up-and-down travel through the column — while perch marks
+  read as straight lines (`kwMIgkCtFUE`).
+- **Winter: read the bait, not the bottom.** Look for bait balls suspended over
+  pipes and deep structure with fish under or among them; a solid unbroken wall
+  of bait usually holds no predators, while broken, harried bait does
+  (`kwMIgkCtFUE`).
+- **Where in the column:** they hold slightly above or within the reef or
+  wreck, not pinned to the rocks, so cover the column (`P2OzCf2CwXI`).
+
+See [electronics and sounder](../planning/electronics-and-sounder.md) and
+[search and glassing](../planning/search-and-glassing.md) for general method.
 
 ## Situations → techniques
 
-| Situation (conditions) | Do this | Gear class | Notes |
+| Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Summer flats, fish balled up and biting every cast | **Swimbaits / plastics** ([swimbaits](../techniques/swimbaits.md)) — paddle-tail on a leadhead, cast-and-wind low and slow through the column | 7–8 ft graphite bass class, low-profile 300 reel, [gear classes](../tackle/gear-classes.md) | Chartreuse/lime-green classic; get bit on the sink — watch the free-spool for the speed-up/tap |
-| Followers behind a hooked fish, warm water, fish chasing high in kelp | **Double rig** — two swimbaits (5" + 7") on a three-way swivel, smaller bait up ahead on a short (~12") leader, bigger on a longer (~24") leader ([swimbaits](../techniques/swimbaits.md)) | heavier bass class, 65 lb braid / 40 lb fluoro | Picks up the followers alongside the hooked fish; also the Alabama/A-rig chain reaction — one bite fires the next |
-| Live anchovy aboard, fish hovering above structure | **Sliding (egg) sinker** live bait — 1/2 oz egg sinker + size-2 J hook, slow-sink through the column ([sliding sinker](../techniques/sliding-sinker.md)) | 8–8.5 ft, 12–30 lb finesse fly-line class, small star-drag | Downsize to match small anchovy; covers the whole column |
-| Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down |
-| Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | The all-winter deep-structure staple; crank execution in the technique note. **A further, unnamed-bait corroboration (Tackle Express, `5fxAN1Ofn8M`, 2026-03-18; unregistered channel, single mention — medium confidence):** for schooling/suspended bass where the fish's position in the column isn't known, keep a heavy (**~20 g**) sinking jig tied on through **fall and winter** — it can be jigged through any part of the column (bottom, center, or even the surface). On conventional tackle, thumb the spool on the drop; it sinks fast. The bait itself is not named in the source. |
-| Weedy/kelpy structure | **Weedless plastic** (e.g. War Baits neck-breaker) | bass class | Hides the hook, better penetration around the grass |
-| Deep structure/rock, want to A/B two colors or fish two depths at once | **Double-bait glide-bait dropper rig** ([tube-bait fishing](../techniques/tube-bait-fishing.md)) | heavy tube-bait class, 40 lb+ | Two matched-weight tube baits (e.g. two 1.5 oz, or two 1 oz to get down easier) in two different colors on a 3-way swivel, ≥3 in leader-length offset to stop them tangling; a second HookUp Baits source runs same-size-paired baits for bass specifically (size matters less once you're targeting deeper rockfish) — see [tube-bait fishing](../techniques/tube-bait-fishing.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft); ⚠ two promotional seminars (same product line), low confidence |
-| Want to selectively upgrade average fish size (tournament limit-filling) | **Fish one oversized bait all day** — a 3 oz HookUp-style swimbait on 40 lb+ leader | Heavy tube-bait class, 40 lb+ | Deliberately trades bite count for size — "big bait, big fish" filters out anything under ~3 lb; see [tube-bait fishing](../techniques/tube-bait-fishing.md#rod-parabolic-bend-not-a-tip-only-bend) — ⚠ promotional seminar source, low confidence |
-| Fishing from a kayak/small craft near rock structure | Bait/bottom presentation off rock structure (e.g. a sardine near a rock pile) works from a kayak the same as a boat; see **[kayak bass fishing](../techniques/kayak-bass-fishing.md)** for platform-specific approach and navigation | bass class, sized to the boat/kayak | Tommy Ponce, Fisher Newb seminar, `LqW32NSkObY`, 2019-03-13; unregistered channel — medium confidence, single mention |
-| Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colors, booty spin, lit-structure targeting in a harbor | bass class, step up leader for abrasion | Full night program lives in the technique note; consistent with the full-moon-suppresses-the-daytime-bite pattern noted above |
-| No specific conditions given — a general "very effective" species-level claim, not a situational one | **[Slow-pitch jigging](../techniques/slow-pitch-jigging.md)** — fluttering fall worked on a soft parabolic rod | 250 g-class SPJ rod | SearcherSportfishing (`7T6dIYqr3KI`, 2021-04-01; unregistered channel — medium confidence) names sand bass, alongside sculpin/rockfish/lingcod, as species SPJ is "very effective" for; no conditions/scenario given beyond the species list itself — do not read "on structure"/"instead of dead-sticking" into this, the source doesn't say it |
+| Summer flats, fish balled up and biting every cast | **Swimbaits / plastics** ([swimbaits](../techniques/swimbaits.md)) — paddle-tail or fluke on a leadhead, cast-and-wind low and slow through the column | 7–8 ft graphite bass class, low-profile 300 reel, [gear classes](../tackle/gear-classes.md) | Neon green, chartreuse and lime green are the classic sand bass colours and colour otherwise matters little; go pearl or white where calico, yellowtail or white seabass are in the mix. Get bit on the sink — watch the free-spool for a speed-up or a tap, give the fish a second, then go into gear (`P2OzCf2CwXI`) |
+| Followers behind a hooked fish, warm water, fish chasing high in kelp | **Double rig** — two swimbaits (5 in + 7 in) on a three-way swivel, smaller bait ahead on a short (~12 in) leader, bigger on a longer (~24 in) leader ([swimbaits](../techniques/swimbaits.md)) | heavier bass class, 65 lb braid / 40 lb fluoro, 8 ft heavy rod | The trailing bait swims alongside the hooked fish and picks up the followers (`9br4Z4sfcNI`). The A-rig does the same job by chain reaction — one bite fires the next, four or five fish on a single cast — at the highest cost per rig of any sand bass method (`P2OzCf2CwXI`) [a] |
+| Live anchovy aboard, fish hovering above structure | **Sliding (egg) sinker** live bait — 1/2 oz egg sinker + size-2 J hook, slow-sink through the column ([sliding sinker](../techniques/sliding-sinker.md)) | 8–8.5 ft, 12–30 lb finesse fly-line class, small star drag, 30 lb braid, ~10 ft of 20 lb fluoro | Size the sinker up in current or wind and down on a glassy day; downsize the whole outfit to match a small anchovy so the bait still swims (`P2OzCf2CwXI`) [b] |
+| Fish locked to the bottom (winter, or when they won't come up) | **Dropper loop** to the bottom ([dropper loop](../techniques/dropper-loop.md)) | bottom/dropper class | Presents at their level when they're pinned down (`P2OzCf2CwXI`). For a bigger winter grade, an 8 in slug on a 3 oz sled head is the named big-sand-bass bait, and a lot of the bites come on the sink (`5p6gu14ZC4w`) |
+| Suspended bait balls over pipes / deep structure (winter) | **[Inshore crankbaits](../techniques/inshore-crankbaits.md)** run through the suspended bait; or plastics fished vertically on the sink | crank / bass class | Sand bass and calico came off a Newport pipe in 80 ft of water on crankbaits running only 15 ft deep — match the bait's depth, not the bottom's (`kwMIgkCtFUE`). A heavy (~20 g) sinking jig kept tied on through fall and winter covers any part of the column when the fish's depth is unknown; thumb the spool on the drop on conventional tackle (`5fxAN1Ofn8M`). ⚠ Fact-check (single-source): the sinking-jig line rests on one corpus mention, and the source never names the bait |
+| Deep coastal artificial reef, fish spooky over the top of the spot | **Stand off the structure and bomb a slug on a 1 oz head** back across the edge ([swimbaits](../techniques/swimbaits.md)) | 8 ft graphite heavy bass class, 300 reel, 50 lb braid / 40 lb fluoro | Set up off to the side of the reef rather than on top of it; at the La Jolla artificial reefs the bait rarely travels 10–20 ft before a big calico or sand bass eats it, and head colour makes little difference (`-eaaWPN5Fxk`) |
+| Weedy/kelpy structure | **Weedless plastic** (e.g. War Baits neck-breaker) | bass class | Hides the hook and gives better hook penetration on the bite around grass and kelp (`P2OzCf2CwXI`) |
+| Deep structure/rock, want to A/B two colours or fish two depths at once | **Double-bait tube-bait dropper rig** ([tube-bait fishing](../techniques/tube-bait-fishing.md#double-bait-dropper-rig-bass-yellowtail-and-rockfish-to-200-ft)) | heavy tube-bait class, 40 lb+ | Two matched-weight tube baits (two 1.5 oz, or two 1 oz to get down easier) in two colours on a 3-way swivel, with at least 3 in of leader-length offset to stop them tangling; for bass the two baits are matched in size, which matters less on deeper rockfish (`0HwYl0HO2tc`, `5Oh3IPIC5g4`). ⚠ Fact-check (single-source): two promotional seminars from the same product line are one sponsored voice, not two sources |
+| Want to selectively upgrade average fish size (tournament limit-filling) | **Fish one oversized bait all day** — a 3 oz HookUp-style swimbait ([tube-bait fishing](../techniques/tube-bait-fishing.md#rod-parabolic-bend-not-a-tip-only-bend)) | heavy tube-bait class, 50 lb braid, 40 lb fluoro floor | Trades bite count for grade: the big bait filters out anything under about 3 lb and the calico and sand bass that eat it run 3–6 lb. The tournament pattern is one angler on the double rig filling the limit while another throws the big bait for size (`5Oh3IPIC5g4`). ⚠ Fact-check (single-source): promotional seminar |
+| Fishing from a kayak/small craft near rock structure | **[Kayak bass fishing](../techniques/kayak-bass-fishing.md)** — a bait or bottom presentation off rock structure, e.g. a sardine near a rock pile, works from a kayak the same as from a boat | bass class, sized to the boat/kayak | What changes is standoff distance, anchoring and navigating without electronics, not the presentation (`LqW32NSkObY`) |
+| Fishing at night for a trophy fish, not a numbers day | **[Night bass fishing](../techniques/night-bass-fishing.md)** — silhouette/craw colours, lit-structure targeting in a harbor | bass class, leader stepped up for abrasion | The full night program lives in the technique note; the corpus's biggest sand bass, 9.5 lb, came off the Long Beach break wall (`XyKF34C5iB4`) |
+| Deep spot in 80–120 ft, too much drift or current to hold on a small spot and fish it vertically — the bait has to sink faster | **Knife jig / slow-pitch jig** ([slow-pitch jigging](../techniques/slow-pitch-jigging.md)) — assist hooks at the top, tied to the solid ring; long rod sweeps off the bottom, let it sink on a slack line, wind up 10–15 turns, sink it again | deep-structure bass class, or a 250 g-class SPJ rod, [gear classes](../tackle/gear-classes.md) | On the drop keep it in free spool under minimal thumb pressure: a free fall lets the jig flutter off sideways and scope the line out, while light thumb pressure drops it straight and reaches the bite zone in about half the time. Never drag one on the bottom — these jigs are not made for it (`-eaaWPN5Fxk`). ⚠ Fact-check (single-source): a second corpus mention names sand bass, alongside sculpin, rockfish and lingcod, as a species SPJ is "very effective" for, with no conditions, depth or scenario attached (`7T6dIYqr3KI`) |
+
+[a] The A-rig program — lob cast so the arms don't break off, bites on the
+sink, then a low-and-slow retrieve cruised up through the column while staying
+off the structure — is queued as a species-technique sub-article rather than
+expanded here.
+[b] The full anchovy program — rod rating and tip action, reel handle leverage,
+leader length, and sizing the lead to conditions — is queued as a
+species-technique sub-article.
 
 ## Gear summary (class terms)
 
-- **Rod/reel:** an **8–8.5 ft finesse fly-line class** (12–30 lb, small star-drag,
-  big handle for vertical leverage) for live anchovy; a **stiffer low-profile bass
-  class** (300 size) for plastics, the A-rig, and the double rig; a **spinning
-  outfit** for the smallest plastics where a clean free-spool sink matters. See
-  [gear classes](../tackle/gear-classes.md). A big sand bass is ~6 lb, so **20 lb
-  leader** gets it done.
-- **Terminal/lures:** [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md)
-  (paddle-tails, flukes, tubes) on leadheads; three-way double rigs; egg-sinker
-  slider and dropper-loop terminals; winter crankbaits.
+- **Finesse fly-line class, for live anchovy:** an **8–8.5 ft rod rated
+  12–30 lb** with a whippy tip, a small narrow star-drag reel with a big handle
+  for vertical leverage, **30 lb braid** and about **10 ft of 20 lb
+  fluorocarbon**. A big sand bass is about 6 lb, so 20 lb leader is enough
+  (`P2OzCf2CwXI`).
+- **Low-profile bass class, for plastics, the A-rig and the double rig:** a
+  stiffer rod rated **15–50 lb** on a **300-size** low-profile reel, for feel
+  and for controlling the fall (`P2OzCf2CwXI`); the double rig runs **65 lb
+  braid to 40 lb fluorocarbon** on an 8 ft heavy rod (`9br4Z4sfcNI`).
+- **Deep-structure bass class:** an **8 ft graphite heavy-action** rod, 300-size
+  reel, **50 lb braid** and **40 lb fluorocarbon** leader. Do not step up to
+  extra-heavy or double-extra-heavy — the stiffer tip pulls hooks, especially
+  on sand bass (`-eaaWPN5Fxk`).
+- **Light spinning class, for 4 in plastics:** a spinning outfit's near-zero
+  free-spool resistance gives the most natural sink on the lightest baits
+  (`P2OzCf2CwXI`).
+- See [gear classes](../tackle/gear-classes.md).
+- **Terminal/lures:**
+  [soft-plastic swimbaits](../lures/soft-plastic-swimbaits.md) (paddle-tails,
+  flukes, tubes) on leadheads; three-way double rigs; egg-sinker slider and
+  dropper-loop terminals; winter crankbaits.
+
+## Zone guides
+
+No sand bass zone guide exists yet; the corpus material for each zone is parked
+in the [evidence file](evidence/sand-bass.md) under "Zone material".
+
+- **Long Beach — break wall, harbor and Alamitos Bay** — ⚠ Flagged stub — no
+  zone guide yet.
+- **Huntington Beach to Newport — pipes, isolated rock and the coastal flats** —
+  ⚠ Flagged stub — no zone guide yet.
+- **North County San Diego (Camp Pendleton stretch)** — ⚠ Flagged stub — no
+  zone guide yet.
+- **La Jolla / San Diego artificial reefs** — ⚠ Flagged stub — no zone guide
+  yet.
+- **Ensenada** — ⚠ Flagged stub — no zone guide yet.
+
+## Regulations
+
+- **Minimum size — California / CDFW, as of 2022-04-25; verify current rules
+  before fishing.** Barred sand bass minimum legal size is **14 in** — the
+  figure called on camera while gauging bass on a mixed calico/sand bass day
+  (`HMdrP4-i9MM`), and the same 14 in stated for kelp bass (`r6j5w40fVHI`).
+
+Registered in [regulatory claims](../sources/regulatory-claims.md).
+
+⚠ Flagged gap — no corpus source: the California bag limit for barred sand
+bass, any seasonal closure, and Mexican (CONAPESCA) size or bag limits for the
+species in Baja waters.
 
 ## Doctrine & conflicts
 
-- **Doctrine (high — Winnicki / Landesfeind):** structure-oriented but hovering,
-  so cover the column; the summer spawning meatball on the flats is the target
-  picture; plastics and the double rig once they're fired up, live bait on the
-  slider to cover the column, dropper loop when they're pinned to the bottom.
-- **Season splits the technique:** summer = balled-up flats fish on plastics;
-  winter = deep structure, reaction bite, crankbait over suspended bait balls
-  above pipes ([February–March](../seasonal/february-march.md)). No conflicting
-  doctrine in the corpus.
+Section order below is not a ranking.
 
-- **Observed (Baja, Ensenada, Pacific side — region label)** (StokedOnFishing,
-  2026-02-17 upload, near the marina, Ensenada, Baja California —
-  `0dIwWiOc1NY`, "What It's Like Fishing in Ensenada, Mexico"; unregistered
-  channel — medium confidence): a "regular size" sand bass, called on camera
-  as good eating, was caught incidentally while the crew jigged for mackerel
-  bait just outside the marina — a bait-stop bycatch data point, not a
-  targeted sand bass session. One angler's catch was jokingly nicknamed
-  "Diamond Valley bass" on camera before being confirmed as a sand bass
-  (asr-uncertain / crew banter, not a species name — not carried as
-  terminology).
+- **The core program.** Cover the column rather than the rocks, because the
+  fish hover above or within the structure; the summer spawning meatball on the
+  flats is the target picture; plastics and the double rig once they are fired
+  up, live bait on the slider to cover the column, dropper loop when they are
+  pinned to the bottom (`P2OzCf2CwXI`, `kwMIgkCtFUE`).
+- **Season splits the technique.** Summer is balled-up flats fish on plastics;
+  winter is deep structure and a reaction bite, with crankbaits run over
+  suspended bait above pipes (`P2OzCf2CwXI`, `kwMIgkCtFUE`,
+  [February–March](../seasonal/february-march.md)).
+- **Why the counts fell — three explanations, one operating rule: fish the
+  water, not the spot's history.** The migration reading is that sand bass are
+  highly migratory and follow temperature, so fish leaving a spot in warm water
+  is a range shift. The squid-predation reading — that Humboldt squid ate the
+  sand bass — does not fit the depths: the squid held in canyons at
+  **1,200–2,000 ft**, not on the shallow flats sand bass live on. A third,
+  compounding and unreconciled explanation for lower catch counts is bait-size
+  mismatch: bait sold at SoCal bait barges runs about **8 in**, too large to
+  catch a **14 in** fish with (`JK2-cpaXkI8`). That last is a catchability
+  confound, not a migration argument, and no source reconciles the two.
+
+## Landing & handling
+
+- **They pull harder than rockfish and harder than calico**, and much of the
+  fishing is vertical, so the leverage that gets a fish out of the rocks and
+  into open water comes from the reel handle — a big handle on a narrow
+  star-drag reel is the specific requirement (`P2OzCf2CwXI`).
+- **Support a weighed fish by the middle of the body, not the tail**, before
+  releasing it (`SdwwpQMJEOI`). General procedure for a deep-hooked fish is in
+  [dehooking & release handling](../fish-care/dehooking-and-release.md).
+- **The SoCal release ethic is voluntary and covers sand bass with calico** —
+  "our bass are slow to grow, so let them go to fight another day," with
+  photo-and-release the encouraged local practice (`usHl-4SfqDA`).
+- **On the table**, a sand bass fillets the same way as a calico and yields a
+  larger fillet off a larger fish (`ohR9DeBOU9E`).
+
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/sand-bass.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -167,6 +314,7 @@ rocks.
 - [Dana Point](../locations/dana-point.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — Barred Sand Bass](evidence/sand-bass.md)
 - [Evidence — Calico Bass (Kelp Bass)](evidence/calico-bass.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [February–March](../seasonal/february-march.md)

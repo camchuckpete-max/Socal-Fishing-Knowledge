@@ -187,6 +187,7 @@ given other implausible on-camera claims.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)

@@ -209,4 +209,13 @@ harvested.
 | San Benito Island | species/rockfish-lingcod.md | Zone guides | 200 ft jagged rocky drift for lingcod and red rockfish; high terminal-tackle snag risk | `ilINTeknKB4` |
 | 43 bank | species/rockfish-lingcod.md | Regulations | fell inside a closed rockfish area, shifting effort on the same high spot to bluefin | `Rf1HKJG-SDg` |
 | Cow Cod Conservation Area | species/rockfish-lingcod.md | Regulations | depth restriction loosened in 2023 to 600 ft with two hooks inside the zone; cow cod itself no-retain | `AH4Eiya1Hn0` |
+| Huntington Beach | species/sand-bass.md | Where & when | isolated rocks roughly the size of a small car sitting on open sand hold sand bass on their own; the oil platforms off the beach gave up wahoo in 85 °F water during the 2014–2015 El Niño | `kwMIgkCtFUE`, `JK2-cpaXkI8` |
+| Newport pipe | species/sand-bass.md | Presence & forage | winter sand bass and calico taken off the pipe in 80 ft of water on crankbaits running only 15 ft deep | `kwMIgkCtFUE` |
+| Long Beach break wall | species/sand-bass.md | Where & when | a 9.5 lb personal-best sand bass — the largest sand bass in the corpus | `XyKF34C5iB4` |
+| Long Beach Harbor | species/sand-bass.md | Where & when | a 9 lb 10 oz sand bass on a crankbait inside the harbor; wind-protected reefs and old (not new) pilings hold the fish | `XyKF34C5iB4`, `usHl-4SfqDA` |
+| La Jolla artificial reefs | species/sand-bass.md | Situations → techniques | stand off the side of the reef and bomb a slug on a 1 oz head — the bait rarely travels 10–20 ft before a big calico or sand bass eats it | `-eaaWPN5Fxk` |
+| Alamitos Bay | species/sand-bass.md | evidence — Landing & handling | Olive Crest ProAm weigh dock for a mixed calico / sand bass / spotted bay bass tournament catch; release handling called out on camera | `SdwwpQMJEOI` |
+| Camp Pendleton stretch (North County San Diego) | species/sand-bass.md | Zone guides | sand bass mixed into a calico catch over hard bottom in roughly 40–42 ft | `HMdrP4-i9MM` |
+| Palos Verdes | species/sand-bass.md | evidence — Where & when | a charter found good bass fishing on swimbaits the same week the beach sand bass bite slowed on cold upwelled water | `Blh2BA-7Ono` |
+| Ensenada | species/sand-bass.md | Zone guides | a "regular size" sand bass taken incidentally on a mackerel bait stop just outside the marina | `0dIwWiOc1NY` |
 <!-- review:harvest:end -->

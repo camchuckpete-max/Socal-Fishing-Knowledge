@@ -37,7 +37,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Claim | Figure | As of | Note | Source |
 | --- | --- | --- | --- | --- |
 | Calico (kelp) bass minimum size | 14 in | 2022-04-25 | [calico bass](../species/calico-bass.md), cross-referenced from [sand bass](../species/sand-bass.md) and [dehooking & release](../fish-care/dehooking-and-release.md) | `r6j5w40fVHI` |
-| Barred sand bass minimum size | 14 in | 2022-04-25 | [calico bass](../species/calico-bass.md) (same on-camera statement covers both) | `r6j5w40fVHI`, `HMdrP4-i9MM` |
+| Barred sand bass minimum size | 14 in | 2022-04-25 | [sand bass](../species/sand-bass.md), also stated in [calico bass](../species/calico-bass.md) (same on-camera statement covers both) | `r6j5w40fVHI`, `HMdrP4-i9MM` |
 | Calico (kelp) bass bag limit | 5 per day | 2019-03-13 — oldest regulatory figure in the register; verify current limit before relying on it | [calico bass](../species/calico-bass.md) | `LqW32NSkObY` |
 | California halibut minimum size | 22 in | 2016-11-23 | [California halibut](../species/california-halibut.md) | `MUpvP-Yl2R0` |
 | California inshore gillnet ban (closed the commercial net sets across channel ledges and harbour mouths that intercepted halibut on their travel paths) | in effect since 1994 | 2026-08 (historical; verify current gear and area restrictions with CDFW) | [California halibut](../species/california-halibut.md) | `ghHQe3fP9U4` |

@@ -195,6 +195,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [51 / 181 / 138](../locations/51-181-138.md)
 - [April](../seasonal/april.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Barred Sand Bass](../species/sand-bass.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)

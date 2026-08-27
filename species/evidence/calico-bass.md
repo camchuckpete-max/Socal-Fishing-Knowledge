@@ -445,4 +445,5 @@ calico. Each zone below is a flagged stub in the parent's Zone guides section.
 ## Linked from
 
 - [Calico Bass (Kelp Bass)](../calico-bass.md)
+- [Evidence — Barred Sand Bass](sand-bass.md)
 <!-- backlinks:end -->
