@@ -778,4 +778,5 @@ clips above.)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Underhand Casting](../techniques/underhand-casting.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

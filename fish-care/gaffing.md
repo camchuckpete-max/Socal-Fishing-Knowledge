@@ -164,5 +164,6 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Tuna Care](tuna-care.md)
+- [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

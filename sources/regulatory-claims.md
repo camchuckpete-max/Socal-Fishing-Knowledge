@@ -70,6 +70,8 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | California / CDFW bag limit, size gauge, gear rule or season for striped marlin — no corpus source states any of them, despite the corpus recording a SoCal sportboat putting one in the deep freezer | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [striped marlin](../species/striped-marlin.md) | — |
 | California / CDFW bag limit, size gauge, gear rule or season for swordfish — no corpus source states any of them, despite a recreational daytime deep-drop fishery running out of San Diego | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [swordfish](../species/swordfish.md) | — |
 | California / CDFW bag limit, size gauge, gear rule or season for wahoo — no corpus source states any of them, despite the corpus recording wahoo caught at the Huntington Beach oil platforms during the 2014–2015 El Niño | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [wahoo](../species/wahoo.md) | — |
+| California / CDFW size gauge, bag limit or season for white seabass — no corpus source states any of them, on either side of the border, despite white seabass being the Bight's premier inshore target | **unknown — size gauge, bag limit and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW (California) and CONAPESCA (Mexican waters) before fishing for or keeping one | [white seabass](../species/white-seabass.md) | — |
+| Charter trip limit on white seabass reached and enforced on the boat — further fish released; no numeric limit, jurisdiction or basis stated on camera | trip limit reached; **figure not stated** | 2026-04-24 (upload; trip year not stated on camera) — verify the current CDFW bag limit rather than relying on a boat's trip accounting | [white seabass](../species/white-seabass.md) | `sHnqSIOjTdM` |
 | Harpoon dart not used to finish a hooked swordfish in SoCal — "we can't do the dart here" — where the Florida Keys fishery does; the SoCal endgame runs a flying gaff to the gill plate instead | dart not used; **no rule, agency or reason stated on camera**, and the same corpus describes harpooning surface swordfish as an established SoCal activity | 2021-02 (the statement); legal basis unstated — verify current gear and take rules with CDFW before relying on it | [swordfish](../species/swordfish.md) | `yMiBtZ7k8-w` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
@@ -145,5 +147,6 @@ route, and the insurance carriers by name.
 - [Swordfish (Broadbill)](../species/swordfish.md)
 - [US waters](../locations/us-waters.md)
 - [Wahoo](../species/wahoo.md)
+- [White Seabass](../species/white-seabass.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

@@ -297,6 +297,7 @@ Rigging a Pickle Kick on a War Baits Slayer open-hook head: https://www.youtube.
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [White Seabass](../species/white-seabass.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](../tackle/tackle-express-white-seabass-rod-reel-line.md)

@@ -41,4 +41,5 @@ A charted spot at **33°28.000'N 118°35.850'W** (cameron), in the [Catalina Isl
 ## Linked from
 
 - [Catalina Island — Backside](catalina-island-backside.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

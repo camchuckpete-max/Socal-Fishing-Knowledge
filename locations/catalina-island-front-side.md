@@ -308,5 +308,6 @@ Trip reports and per-source provenance:
 - [West End Humps 1](west-end-humps-1.md)
 - [West End Humps 2](west-end-humps-2.md)
 - [West End Humps 3](west-end-humps-3.md)
+- [White Seabass](../species/white-seabass.md)
 - [Yellowtail Point (stay E of MPA at 118 27.000)](yellowtail-point.md)
 <!-- backlinks:end -->

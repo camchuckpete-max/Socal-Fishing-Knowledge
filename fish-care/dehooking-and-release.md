@@ -200,4 +200,5 @@ given other implausible on-camera claims.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
+- [White Seabass](../species/white-seabass.md)
 <!-- backlinks:end -->

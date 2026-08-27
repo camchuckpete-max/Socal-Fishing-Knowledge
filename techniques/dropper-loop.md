@@ -595,6 +595,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
+- [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

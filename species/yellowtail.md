@@ -415,6 +415,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Evidence — Ensenada](../locations/evidence/ensenada.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
+- [Evidence — White Seabass](evidence/white-seabass.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)

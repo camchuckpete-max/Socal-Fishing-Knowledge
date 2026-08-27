@@ -253,6 +253,7 @@ above; kept as a separate citation rather than merged in.
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md)
 - [California Halibut](../species/california-halibut.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
+- [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
