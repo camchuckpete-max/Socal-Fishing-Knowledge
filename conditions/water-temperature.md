@@ -10,7 +10,7 @@ confidence: high
 SST is one axis of a two-axis read (temperature **and** [water
 color](water-color.md) / chlorophyll). In the fall regime change, Landesfeind is
 explicit: "conditions become pretty important… look **100% at your temp chart and
-chlorophyll**" (10/12/22) ⚠ cite-unresolved. The value is usually not the absolute number but which
+chlorophyll**" (`OYOda6T3f-8`). The value is usually not the absolute number but which
 **side of a break** a species sits on.
 
 ## The break-side rules (which side of the temperature edge)
@@ -21,7 +21,7 @@ chlorophyll**" (10/12/22) ⚠ cite-unresolved. The value is usually not the abso
   then pick the side by whether the regime is warm or cold overall. See
   [bluefin tuna](../species/bluefin-tuna.md).
 - **Yellowfin tuna — warmest × cleanest.** Yellowfin want the **warmest + cleanest**
-  combination: SST **max** × chlorophyll **min** (10/20/22, 10/12/22) ⚠ cite-unresolved. See
+  combination: SST **max** × chlorophyll **min** (`OYOda6T3f-8`, `XLVUhV8DW64`). See
   [yellowfin tuna](../species/yellowfin-tuna.md).
 - **Dorado — the coastal boundary.** Dorado concentrate at the **green-cold /
   blue-warm coastal boundary**, referenced around **~71–72 °F** (dorado video).

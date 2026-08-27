@@ -38,7 +38,7 @@ action **compresses into the tide windows**; wide-open days bite all day
 | Marlin | **Slack-tide biter** |
 | Bluefin foamers | **Slack-tide biter** |
 
-Source: 2/20/25. A worked cautionary tale: a captain (Decker) left sign **before
+Source: `6TBxHnkYXI0`. A worked cautionary tale: a captain (Decker) left sign **before
 slack** and regretted it — the bite was about to fire on the change (`5to3Q5P7w90`).
 
 **Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo): an
@@ -92,7 +92,7 @@ for interpreting tide charts, not fishing doctrine:
 Missing any one → **leave within 20–30 min** (Ep. 15). The best version is the
 **local variation**: a dirty-water patch with a **hard rip / foam edge** inside
 otherwise cleaner water — fish hide in the dirt to ambush along that edge
-(2/20/25, Ep. 15). See [water color](water-color.md),
+(`6TBxHnkYXI0`, Ep. 15). See [water color](water-color.md),
 [white seabass](../species/white-seabass.md), and
 [California halibut](../species/california-halibut.md).
 

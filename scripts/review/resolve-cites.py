@@ -7,8 +7,12 @@ Retires the legacy inline cite forms so the fleet never meets them:
   (8/3/22)               bare M/D/YY date         -> (`<resolved id>`)
   (8/17, 8/31/22)        date list sharing a year -> (`id1`, `id2`)
 
-Date resolution: candidate ids = the note's front-matter `sources` list;
-match manifest `upload_date` within [date, date+2 days] (report lag). A
+Date resolution: candidate ids = the note's front-matter `sources` list.
+A dated report title ("... FISHING REPORT 10/12/2022") is matched EXACTLY
+and wins outright — a bare cite names the report's own date, not the day
+it was uploaded, and the two differ by up to 8 days in this corpus. Only
+when no candidate carries a title date does it fall back to matching
+manifest `upload_date` within [date, date+2 days] (report lag). A
 unique hit rewrites; zero or ambiguous hits leave the original text and
 append ` ⚠ cite-unresolved` beside it plus a row in
 sources/fact-check-ledger.md. Code spans/fences are never touched.
@@ -42,19 +46,49 @@ DATE_LIST_RE = re.compile(
 FLAG = "⚠ cite-unresolved"
 
 
-def plausible_id(tok: str) -> bool:
+def plausible_id(tok: str, manifest: dict | None = None) -> bool:
+    """Is this 11-char token a video id rather than ordinary prose?
+
+    Shape alone is not enough: `speed-troll` and `Baja-scoped` are both
+    exactly 11 characters with a hyphen and would pass any character
+    heuristic. A bare-id cite names a real video, so the manifest is the
+    test; the old heuristic is kept only as a fallback when no manifest
+    is passed.
+    """
+    if manifest is not None:
+        return tok in manifest
     return bool(re.search(r"[0-9_-]", tok)
                 or (tok != tok.lower() and tok != tok.upper()))
 
 
-def load_manifest() -> dict[str, str]:
-    dates: dict[str, str] = {}
+# A report titled with its own date — "Southern California Bight FISHING
+# REPORT 10/12/2022". The upload trails the report by 0-8 days in this
+# corpus, so the title is the authority for what a bare cite names.
+TITLE_DATE_RE = re.compile(r"REPORT\s+(\d{1,2})/(\d{1,2})/(\d{2,4})", re.I)
+
+
+def title_date(title: str) -> dt.date | None:
+    m = TITLE_DATE_RE.search(title or "")
+    if not m:
+        return None
+    mth, day, yr = (int(g) for g in m.groups())
+    if yr < 100:
+        yr += 2000
+    try:
+        return dt.date(yr, mth, day)
+    except ValueError:
+        return None
+
+
+def load_manifest() -> dict[str, tuple[str, dt.date | None]]:
+    """video_id -> (upload_date, date parsed out of a dated report title)."""
+    dates: dict[str, tuple[str, dt.date | None]] = {}
     with MANIFEST.open(newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             vid = (row.get("video_id") or "").strip()
             up = (row.get("upload_date") or "").strip()
             if vid and up:
-                dates[vid] = up
+                dates[vid] = (up, title_date(row.get("title") or ""))
     return dates
 
 
@@ -84,8 +118,15 @@ def in_spans(pos: int, spans: list[tuple[int, int]]) -> bool:
 
 
 def resolve_date(date_str: str, sources: list[str],
-                 manifest: dict[str, str], year_hint: str | None) -> list[str]:
-    """All candidate ids whose upload_date is within [date, date+2d]."""
+                 manifest: dict[str, tuple[str, dt.date | None]],
+                 year_hint: str | None) -> list[str]:
+    """Candidate ids for a bare date, title date first.
+
+    A candidate whose report TITLE carries this exact date wins outright:
+    that is the report the cite names. Only if none does do we fall back
+    to the upload-date window, which both misses long report->upload lags
+    and goes ambiguous when two of a note's sources upload the same day.
+    """
     parts = date_str.split("/")
     if len(parts) == 2:
         if not year_hint:
@@ -97,9 +138,13 @@ def resolve_date(date_str: str, sources: list[str],
         d0 = dt.date(2000 + int(yr), int(mth), int(day))
     except ValueError:
         return []
+    exact = [vid for vid in sources
+             if manifest.get(vid, ("", None))[1] == d0]
+    if exact:
+        return exact
     hits = []
     for vid in sources:
-        up = manifest.get(vid, "")
+        up = manifest.get(vid, ("", None))[0]
         try:
             du = dt.date(int(up[0:4]), int(up[5:7]), int(up[8:10]))
         except (ValueError, IndexError):
@@ -118,7 +163,8 @@ def ledger_row(note: str, original: str, detail: str, dry: bool) -> None:
     LEDGER.write_text(text.replace(marker, line + marker), encoding="utf-8")
 
 
-def process(path: Path, manifest: dict[str, str], dry: bool) -> tuple[int, int]:
+def process(path: Path, manifest: dict[str, tuple[str, dt.date | None]],
+            dry: bool) -> tuple[int, int]:
     text = path.read_text(encoding="utf-8")
     sources = note_sources(text)
     rel = str(path.relative_to(ROOT))
@@ -130,7 +176,8 @@ def process(path: Path, manifest: dict[str, str], dry: bool) -> tuple[int, int]:
     events: list[tuple[int, int, str]] = []  # (start, end, replacement)
 
     for m in BARE_ID_RE.finditer(text):
-        if in_spans(m.start(), spans) or not plausible_id(m.group(1)):
+        if in_spans(m.start(), spans) \
+                or not plausible_id(m.group(1), manifest):
             continue
         events.append((m.start(), m.end(), f"(`{m.group(1)}`)"))
 
@@ -166,7 +213,15 @@ def process(path: Path, manifest: dict[str, str], dry: bool) -> tuple[int, int]:
                 break
         if ok and ids:
             rep = "(" + ", ".join(f"`{i}`" for i in ids) + ")"
-            events.append((m.start(), m.end(), rep))
+            # A date that resolves NOW may carry a stale flag from a run
+            # under the old matcher — swallow it so the note is clean.
+            end = m.end()
+            tail = text[end:end + len(FLAG) + 1]
+            if tail.startswith(" " + FLAG):
+                end += len(FLAG) + 1
+            elif tail.startswith(FLAG):
+                end += len(FLAG)
+            events.append((m.start(), end, rep))
         else:
             if FLAG in text[m.end():m.end() + 40]:
                 continue  # already flagged on a prior run

@@ -1,7 +1,7 @@
 ---
 type: seasonal
 tags: [late-fall, winter, bluefin, lingcod, rockfish, swordfish, santa-ana, bass]
-sources: [Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8, xzIaUEDklrE]
+sources: [6TBxHnkYXI0, Z3rZqy2Pi8E, 5D1vx29LVpI, OYOda6T3f-8, xzIaUEDklrE]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
@@ -69,7 +69,7 @@ mechanism.
 
 This is a **flagged conflict, kept side by side** (both from Erik):
 
-- **General prior (Academy Ep. 14, 2/20/25):** current **parallel** to the
+- **General prior (Academy Ep. 14, `6TBxHnkYXI0`):** current **parallel** to the
   shoreline is best; current running **into the beach** is marginal; current
   running **off the beach** is dead. See
   [current structure](../conditions/current-structure.md).

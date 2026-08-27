@@ -66,9 +66,13 @@ over the prior **48–72 h** for swell-arrival risk the point forecast under-exp
   the morning, assume it **builds all day** — a small boat bails early (`DnSqw4r7A1s`).
 - **Forecast error is asymmetric.** Assume the forecast errs on the worse side,
   and that afternoon W at the islands **strengthens** rather than eases (Ep. 6).
-- **Catalina Eddy shielding.** The Catalina Eddy can shield the inner SD banks /
-  tuna grounds while it blows outside. Check eddy state when the outer forecast
-  looks bad before writing off the inside (`S2L3KLSQ6Is`).
+- **Catalina Eddy shielding — everything east of Catalina and San Clemente.**
+  The shielded water is a lee, not a list of banks: the prevailing wind down
+  the California coast outside SoCal comes from the **north**, so the islands
+  shadow the water behind them and marks well to the south still sit in that
+  shadow. The **425** is often shielded despite being far south of San
+  Clemente (cameron). Check eddy state when the outer forecast looks bad
+  before writing off the inside (`S2L3KLSQ6Is`, cameron).
 
 ## Go/no-go wind & swell thresholds (`dave-hansen`)
 

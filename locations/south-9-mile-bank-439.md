@@ -100,14 +100,14 @@ run into Mexican water actually requires is itself flagged as missing on
 [Coronado Islands](coronado-islands.md).
 
 **This is water an ugly outside forecast does not automatically close.** The
-**Catalina Eddy** can shield the **inner San Diego banks** and tuna grounds while
-it blows outside, so the eddy state is the thing to check when the offshore
-forecast is bad (`S2L3KLSQ6Is`, [sea state](../conditions/sea-state.md),
-[island structure](island-structure.md)). ⚠ Fact-check
-(contradicted-by-source): the transcript behind that line scopes the eddy's
-shelter to **the tuna grounds** and never says "banks" (`S2L3KLSQ6Is`) — "inner
-San Diego banks" is the [sea state](../conditions/sea-state.md) note's wording,
-so whether these two marks sit inside the shielded water is unestablished.
+**Catalina Eddy** shields everything **east of Catalina and San Clemente**, and
+these marks sit inside that line. The prevailing wind down the California coast
+outside SoCal comes from the north, so the islands shadow the water behind them
+and being south of San Clemente does not put a mark outside the shelter — the
+425 is regularly shielded despite sitting well south of it (cameron). Check the
+eddy state when the offshore forecast is bad rather than writing the inside off
+(`S2L3KLSQ6Is`, cameron, [sea state](../conditions/sea-state.md),
+[island structure](island-structure.md)).
 Separately, a strong NW event crushes
 the northern Channel Islands and the LA/Ventura shelf hardest while **south of
 Newport** is less prone to wind-wave rollover, and the Coronados, Catalina and
@@ -115,12 +115,15 @@ San Clemente held their water through one such event (`HzE4FHHcvTk`,
 [bight geography](bight-geography.md)). Both marks lie south of Newport and
 inshore of every zone in that comparison, and **5.7 nm** off the Coronados that
 held (cameron). ⚠ Flagged gap — no corpus source names these two marks on either
-map directly. ⚠ Fact-check (contradicted-by-source): the NW-event map is
+map directly. ⚠ Fact-check (cite-unresolved, standing): the NW-event map is
 doctrine on [bight geography](bight-geography.md), cited there to
-`HzE4FHHcvTk`, but that transcript is an offshore-only report — it carries the
-paddy geography this page also uses and no NW event, no Channel Islands and no
-Newport line, so the map reads as sound doctrine on a mis-attached cite that
-needs re-sourcing before a day here leans on it.
+`HzE4FHHcvTk`, and that transcript does not carry it — it is an offshore-only
+report holding the paddy geography this page also uses and no NW event, no
+Channel Islands and no Newport line, so a second bight report was probably
+never recorded. **The map stands and will not be re-sourced to another
+video**; Cameron's ruling (2026-08-26) is to back it with statistics instead —
+a per-zone SST rollover analysis across recorded NW events. See the standing
+flag on [bight geography](bight-geography.md).
 
 **Regulatory — United States. Jurisdiction: California / CDFW. Checked as of
 2026-08. Verify current rules, closures, MPA boundaries and take limits before

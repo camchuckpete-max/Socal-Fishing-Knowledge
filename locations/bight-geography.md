@@ -36,6 +36,17 @@ mechanism (upwelling, the cold-green rollover) is in
 [upwelling and turnover](../conditions/upwelling-and-turnover.md); the sea-state
 consequences in [sea state](../conditions/sea-state.md).
 
+⚠ Fact-check (cite-unresolved, standing): **the map stands, and it is not
+going to be re-sourced to another video.** The citation `HzE4FHHcvTk` does not
+carry it — that transcript is an offshore-only report and contains the paddy
+geography from the same citation but no NW event, no Channel Islands, no
+Ventura and no Newport line — so a second bight report was probably never
+recorded. Rather than hunt for the missing video, Cameron's ruling
+(2026-08-26) is to back this with **statistics** instead: a per-zone SST
+rollover analysis across recorded NW events, which BightSST can answer
+directly. Until that exists the map is doctrine on a single unrecorded
+telling, and this flag says so.
+
 ## The warm-band tracking path (fall)
 
 In fall the regime flips to "look 100% at your temp chart and chlorophyll," and

@@ -37,7 +37,7 @@ recent weather.
 ## Rain and runoff — the dominant winter variable
 
 - **Multi-day rain puts fishing "in a funk."** Sustained rain, not a single
-  shower, is what knocks it down (2/6/25) ⚠ cite-unresolved.
+  shower, is what knocks it down (`Kf5wk_TFgTc`).
 - **Runoff washes out the island bass zones** — Catalina's dirt hillsides
   especially dump mud into the inshore water and shut the shallow bass bite.
   See [island structure](../locations/island-structure.md).
@@ -46,9 +46,9 @@ recent weather.
 - **Post-rain plan = deep structure or harbor riprap.** When the islands are
   chocolate, retreat to deep structure or to the
   [breakwalls and riprap](../locations/breakwalls-jetties-riprap.md) inside the harbors,
-  where spotties and bass keep biting (2/6/25) ⚠ cite-unresolved.
+  where spotties and bass keep biting (`Kf5wk_TFgTc`).
 - **Open item (not doctrine):** Erik was explicitly unsure whether lingering
-  low pressure beats post-frontal high pressure for winter fishing (2/6/25) ⚠ cite-unresolved.
+  low pressure beats post-frontal high pressure for winter fishing (`Kf5wk_TFgTc`).
   Treat as an open question, not a rule.
 
 ## Velella events

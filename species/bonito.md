@@ -223,17 +223,18 @@ Section order below is not a ranking.
   yellowtail bait bite running, bonito are what you fish *through* — carry the
   bait under them on a sinker and drop chrome from the rotation
   (`yGXSrUauo2w`, `YAKOv9bXKO0`).
-- **Wire or no wire — the choice turns on whether the teeth are costing
-  terminal gear or only costing baits.** The standing gear doctrine for bonito
-  is light fluoro and no wire: bonito lack the barracuda's cutting teeth.
-  ⚠ Fact-check (contradicted-by-source): that no-wire doctrine carries no
-  corpus cite, and the two counter-statements below are the only teeth
-  evidence on record. Against it, a Cedros crew stated that bonito "can bite
-  through the light line" with their teeth (`YUdbrIm9vrE`), and a flylined
-  sardine at San Clemente Island came back as a head (`ecJPMTCi-gw`). Both
-  counter-cases are chopped baits and bite-offs on light line rather than lost
-  jigs, which makes them a leader-class question sitting beside the no-wire
-  doctrine, not a replacement for it.
+- **Wire or no wire — a leader-class question, not a teeth question.**
+  Bonito and barracuda both have sharp teeth, but being bitten off by either is
+  rare: no wire, and no reported case of a fish chewing through terminal gear.
+  What the teeth do cost is baits and light line, so do not run **super light**
+  line as a matter of course (cameron). The corpus records exactly that failure
+  mode and nothing worse — a Cedros crew stating bonito "can bite through the
+  light line" (`YUdbrIm9vrE`), and a flylined sardine at San Clemente Island
+  coming back as a head (`ecJPMTCi-gw`). Both are chopped baits and bite-offs
+  on light line, which is why the answer is leader class rather than wire.
+  (The older framing — that bonito simply lack the barracuda's cutting teeth —
+  was wrong on the premise and right on the conclusion; corrected by Cameron,
+  2026-08-26.)
 - **Fight-feel identification — the two tells disagree.** One read calls
   bonito mid-fight by repeated side-to-side ("right and left") runs against a
   "head nod" for yellowtail (`yuXr3IJ8ybg`) — the same footage then uses "head

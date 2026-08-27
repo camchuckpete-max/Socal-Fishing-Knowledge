@@ -1,7 +1,7 @@
 ---
 type: conditions
 tags: [current, structure, upwelling, chlorophyll, bathymetry, mechanism, wind, kelp]
-sources: [h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk, 8fSGyJL2GHM]
+sources: [6TBxHnkYXI0, h3PTupup17I, 0KQ--N5TjqE, HnqiE05vdXs, xI9tPJFXbUM, kzD0kSnnVPw, Bab_6o7JFh4, RuNH5O9olfw, eg8IUjeWZx8, XyKF34C5iB4, sIoNELGlxmk, 8fSGyJL2GHM]
 confidence: high
 ---
 
@@ -44,7 +44,7 @@ it is where the food chain stacks.
 
 For land-attached structure the direction the current runs *relative to the
 shoreline* decides whether a spot is alive (Landesfeind, Academy Ep. 14 states
-all three explicitly; the 2/20/25 report gives the mechanism):
+all three explicitly; `6TBxHnkYXI0` gives the mechanism):
 
 | Current vs. shore | Verdict | Why |
 |---|---|---|
@@ -52,7 +52,7 @@ all three explicitly; the 2/20/25 report gives the mechanism):
 | **Straight into the beach** | Marginal, sometimes bites | No clean edge; occasionally productive in specific states (see exception below) |
 | **Straight off the beach** | **Dead — avoid** | Pulls the food chain away from the structure |
 
-**Spot typology** (2/20/25) ⚠ cite-unresolved:
+**Spot typology** (`6TBxHnkYXI0`):
 
 - **Land-attached perpendicular ridges** are two-directional spots — they fish on
   parallel current only.
