@@ -353,5 +353,6 @@ Trip reports and per-source provenance:
 - [Cortez North](cortez-north.md)
 - [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)
 - [Loreto & Puerto Escondido](loreto.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Sea of Cortez](sea-of-cortez.md)
 <!-- backlinks:end -->

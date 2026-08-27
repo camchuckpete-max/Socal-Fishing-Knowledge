@@ -128,6 +128,7 @@ Trip reports and per-source provenance:
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rosarito / Descanso](rosarito-descanso.md)

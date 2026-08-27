@@ -60,6 +60,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Whitefish daily allowance stacked on the rockfish bag (same on-camera statement as the rockfish row above, now also carried on the whitefish router) | 10 whitefish/day on top of 10 rockfish/day | 2020-03; live-seminar recollection, verify current before relying on it | [ocean whitefish](../species/ocean-whitefish.md), [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 | Whitefish access gated by the California groundfish season — a charter operator names the opener package as rockfish, lingcod, whitefish and sheephead | season-gated; no dates or depth line stated for whitefish itself | 2020-03; on-camera interview, verify current season dates and RCA depth line with CDFW | [ocean whitefish](../species/ocean-whitefish.md) | `46ha7J1Fc6A` |
 | Mexican (CONAPESCA) bag limit or size gauge for ocean whitefish — no corpus source states either, and the Ensenada high-spot fish falls under Mexican jurisdiction | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [ocean whitefish](../species/ocean-whitefish.md) | — |
+| California / CDFW bag limit or size gauge for Pacific crevalle jack, which would apply to a warm-water stray taken in the Bight | **unknown — absent from the corpus** | gap flagged 2026-08 — verify with CDFW before keeping one | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -77,6 +78,8 @@ recorded so the figure isn't mistaken for a verified limit:
 | Guadalupe Island is inside a reserve — access needs the reserve open, on top of the operator's permit | permit + reserve open + port of Ensenada clearable | 2021-01-14 | [Guadalupe](../locations/guadalupe.md) | `shZCjX2-fkI` |
 | Guadalupe reserve closed for public-health reasons, 2020, by the health department in Ensenada; the port of Ensenada was closed with it | no access that year | 2021-01-14 | [Guadalupe](../locations/guadalupe.md) | `shZCjX2-fkI` |
 | Cabrilla / leopard grouper bag limit, size gauge or closed season (CONAPESCA) | ⚠ Flagged gap — no corpus source; no figure recorded | 2026-08 | [cabrilla](../species/cabrilla.md) | — |
+| Circle hook mandatory (Baja California Sur sportfishing) — same on-camera statement as the flyline row above, now also carried on the crevalle router because the East Cape fishery is where every corpus crevalle record comes from | circle hook required | 2019-02-13 | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | `GptrotE0x5M` |
+| Mexican (CONAPESCA) bag limit, size gauge or closed season for Pacific crevalle jack | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
 
 **Not a regulation — an operator agreement, kept distinct:**
 
@@ -112,6 +115,7 @@ route, and the insurance carriers by name.
 - [Mexican waters](../locations/mexican-waters.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)

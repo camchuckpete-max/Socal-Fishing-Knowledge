@@ -15,7 +15,7 @@
 - [Dorado (Mahi-Mahi)](dorado.md) — Dorado concentrate where the cold green coastal water butts against the warm blue water offshore — 71.6 °F on a productive paddy — and stack under the broken-of
 - [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish, and it fishes as a school over hard bottom and sand-edge transitions: at the Channe
 - [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah are a bycatch of the SoCal offshore tuna program, not a target: they eat a jig or a sinker-weighted bait fished 150–200 ft down while the boat drifts, and
-- [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is a warm-water, inshore structure gamefish — common in Baja (Sea of Cortez, BOLA, farther south) and a rar
+- [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is an inshore jack of the warm Baja coast that turns up inside somebody else's mixed-bag day rather than as
 - [Rockfish & Lingcod](rockfish-lingcod.md) — The deep-structure bottomfish complex: reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingco
 - [Barred Sand Bass](sand-bass.md) — The sand-flat and deep-structure cousin of the calico: a bottom-associated bass that lives on and around hard bottom, wrecks, and the reef-to-sand transition an
 - [California Sheephead](sheephead.md) — The California sheephead (*Semicossyphus pulcher*) is a year-round SoCal structure resident — a reliable, table-quality target that lives on reefs and hard stru

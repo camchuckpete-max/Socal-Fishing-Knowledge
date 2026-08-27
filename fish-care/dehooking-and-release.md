@@ -193,5 +193,6 @@ given other implausible on-camera claims.
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 <!-- backlinks:end -->

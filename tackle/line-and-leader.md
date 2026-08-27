@@ -695,6 +695,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)

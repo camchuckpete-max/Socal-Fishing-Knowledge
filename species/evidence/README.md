@@ -15,6 +15,7 @@
 - [Evidence — Dorado (Mahi-Mahi)](dorado.md) — Trip reports and per-source provenance backing dorado.
 - [Evidence — Ocean Whitefish](ocean-whitefish.md) — Trip reports and per-source provenance backing ocean whitefish.
 - [Evidence — Opah](opah.md) — Per-source provenance backing opah.
+- [Evidence — Pacific Crevalle Jack](pacific-crevalle-jack.md) — Per-source provenance backing Pacific crevalle jack.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -23,5 +24,22 @@
 <!-- mermaid:start -->
 ## Map
 
-_No intra-folder links yet._
+```mermaid
+graph LR
+  n0["Evidence — California Barracuda"]
+  n1["Evidence — Bluefin Trolling"]
+  n2["Evidence — Bluefin Tuna"]
+  n3["Evidence — Pacific Bonito"]
+  n4["Evidence — Cabrilla (Leopard Grouper)"]
+  n5["Evidence — Calico Bass (Kelp Bass)"]
+  n6["Evidence — California Halibut"]
+  n7["Evidence — California Spiny Lobster"]
+  n8["Evidence — Dorado (Mahi-Mahi)"]
+  n9["Evidence — Ocean Whitefish"]
+  n10["Evidence — Opah"]
+  n11["Evidence — Pacific Crevalle Jack"]
+  n12["Evidence — Yellowtail — surface iron"]
+  n13["Evidence — Yellowtail"]
+  n11 --> n8
+```
 <!-- mermaid:end -->

@@ -195,4 +195,7 @@ harvested.
 | La Jolla | species/ocean-whitefish.md | Where & when | float-tube catch described as "mostly white fish" | `ouBrIdO7d4k` |
 | Ensenada — high spot ~7–8 mi from the Hotel Coral marina | species/ocean-whitefish.md | Where & when | high spot rising to ~25 ft from roughly 200 ft; a whitefish was the first fish of the day | `CKq0Z6ExVs4` |
 | Catalina, offshore | species/opah.md | Where & when | the only water the corpus names for opah; stated in a studio clip with no depth, season or conditions | `tio1oeibVlM` |
+| Lighthouse Point (East Cape, Baja California Sur) | species/pacific-crevalle-jack.md | Where & when | beach point with a drop very close to shore; jacks named alongside sharks, roosterfish, dorado and yellowfin tuna, all catchable from the sand; fished by sight, afternoon and night; the sourced session ran ~100 yd off the beach in 30 ft | `mL4Ph7t0WcQ`, `APsnsunT4gM` |
+| East Cape (Baja California Sur) | species/pacific-crevalle-jack.md | Where & when | the only sourced crevalle location; one landed jack crevalle in a mixed morning catch alongside four tuna; circle hook mandatory in this fishery | `84XPJAeH0Rw`, `GptrotE0x5M` |
+| Bahía de los Ángeles (BOLA) | species/pacific-crevalle-jack.md | Where & when | named as the northern end of the stated inshore Cortez range for crevalle — no corpus record of a crevalle there | — (uncited legacy claim) |
 <!-- review:harvest:end -->
