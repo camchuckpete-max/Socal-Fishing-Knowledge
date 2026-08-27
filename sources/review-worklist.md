@@ -815,4 +815,6 @@ by their builders after the transform phase drains.
 | locations/181-182-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/cedros-san-benitos.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/desperation-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/pendleton-artificial-reef.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/tanker-lanes-277-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

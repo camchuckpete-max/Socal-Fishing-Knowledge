@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2202 flagged gaps, 347 flagged stubs, 1022 unknown infobox values._
+_Totals: 2210 flagged gaps, 347 flagged stubs, 1025 unknown infobox values._
 
 ## species/
 
@@ -351,6 +351,24 @@ _Totals: 2202 flagged gaps, 347 flagged stubs, 1022 unknown infobox values._
   - `Landing & handling`: gap — yellowtail-specific bleeding, chilling,
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
+
+## techniques/
+
+- **techniques/bait-and-switch.md**
+  - `Method skeleton (unsourced — carried from the initial build)`: gap — this tease/switch skeleton was written into
+  - `Thin areas`: gap — **teaser handling** — when and how fast to
+  - `Thin areas`: gap — **hookset** — circle vs J doctrine and
+  - `Thin areas`: gap — **leader/bait specifics for the pitch**
+- **techniques/beach-lure-depth-control.md**
+  - `Gear class`: gap — a
+  - `Common failures`: gap — failure modes beyond the hang-up case
+  - infobox `gear_classes`: unknown
+  - infobox `retrieve_speed`: unknown
+- **techniques/cheater-troll.md**
+  - `Gear class`: gap — the seminar names no rod/reel class for the
+  - infobox `gear_classes`: unknown
+- **techniques/clearing-a-backlash.md**
+  - `Common failures`: gap — how to tell when a backlash is wound too
 
 ## locations/
 
