@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2143 flagged gaps, 293 flagged stubs, 1005 unknown infobox values._
+_Totals: 2160 flagged gaps, 312 flagged stubs, 1011 unknown infobox values._
 
 ## species/
 
@@ -186,6 +186,51 @@ _Totals: 2143 flagged gaps, 293 flagged stubs, 1005 unknown infobox values._
   - `Zone guides`: zone guide missing
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — any Mexican bag limit,
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
+- **species/sand-bass.md**
+  - `Presence & forage`: gap — what barred sand bass eat naturally — no
+  - `Spawning`: gap — spawning depth, the temperature or moon
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — the California bag limit for barred sand
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
+- **species/sheephead.md**
+  - `Presence & forage`: gap — any forage other than red crab, what
+  - `Spawning`: gap — when, where or how California sheephead
+  - `Feeding triggers`: gap — a light window, tide or slack gate, current
+  - `Finding them (sign & sonar)`: gap — a sheephead-specific sonar mark, arch shape
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California bag limit or size minimum
+  - `Regulations`: gap — any Mexican (CONAPESCA) bag limit or size
+  - `Landing & handling`: gap — whether sheephead brought up from the
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
+- **species/skipjack-tuna.md**
+  - `Where & when`: gap — a stated season window, arrival or departure
+  - `Presence & forage`: gap — mechanism — no source says whether the
+  - `Presence & forage`: gap — what skipjack eat naturally. Every corpus
+  - `Spawning`: gap — when, where, or how skipjack spawn anywhere in
+  - `Feeding triggers`: gap — any light window (gray light, sunrise),
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California / CDFW or Mexican (CONAPESCA)
+  - `Landing & handling`: gap — bleeding, chilling, gaffing, or table
   - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
 - **species/snook.md**

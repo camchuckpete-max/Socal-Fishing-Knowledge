@@ -783,4 +783,14 @@ by their builders after the transform phase drains.
 | locations/cow-cod-conservation-area.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/lighthouse-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/santa-rosa-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/alamitos-bay.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/camp-pendleton-stretch.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/huntington-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-jolla-artificial-reefs.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-rasa-high-spot.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/long-beach-break-wall.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/long-beach-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/newport-pipe.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/palos-verdes.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/socal-artificial-reefs.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
