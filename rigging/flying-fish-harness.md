@@ -268,6 +268,7 @@ Video: https://www.youtube.com/watch?v=GqcVaTIlyg0
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Coronados - 230 / 302 (Kidney Bank) / 226](../locations/coronados-230-302-226.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Kite Fishing](../techniques/evidence/kite-fishing.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kite Fishing](../techniques/kite-fishing.md)

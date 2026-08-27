@@ -326,4 +326,12 @@ harvested.
 | San Diego Bay | techniques/inshore-crankbaits.md | evidence — Reach for this when | SWBA tournament pre-fishing produced 25+ fish in a day once a productive crankbait zone was found | `k4LCL9ALryA` |
 | Dana Point | techniques/kayak-bass-fishing.md | Finding and relocating spots without electronics | home waters; a windy day pushes the day's zone choice south to keep the wind at your back for the ride home | `LqW32NSkObY` |
 | San Clemente Island | techniques/kayak-bass-fishing.md | Casting to cover ground | worked kayak-parallel to the shoreline as the source's own example of covering a long structure line | `LqW32NSkObY` |
+| Ensenada | techniques/kite-fishing.md | evidence — Deploying the kite | Baja Blue Fin Tuna Tournament kite-line rigging/build session | `Ix0gG0-l3v0` |
+| Shelter Island / San Diego Bay | techniques/kite-fishing.md | evidence — Deploying the kite | launch point for a ~40 mi offshore San Diego kite session (120-150 yd kite distance, 8 mph troll) | `rsCAh-QyK60` |
+| Alijos Rocks | techniques/kite-fishing.md | evidence — Bait and rig alternatives | dockside report of adding a 2-4 oz sliding sinker to a kite-flown bait | `jH0q4UPjwC0` |
+| San Clemente Island | techniques/kite-fishing.md | evidence — Trolled rubber flyer vs. dead-boat dead flyer | balloon-suspended rubber flyer bluefin hookup after a foamer went quiet | `wYeKJLoKo4g` |
+| Santa Barbara Island | techniques/kite-fishing.md | evidence — Trolled rubber flyer vs. dead-boat dead flyer | balloon flown together with the kite in fishable wind, NE of the island | `usHl-4SfqDA` |
+| Mag Bay | techniques/kite-fishing.md | evidence — Trolled rubber flyer vs. dead-boat dead flyer | helium balloon rig held a flyer for giant yellowfin on the lower banks near Mag Bay | `UuyqTE21-kc` |
+| Cortez Bank | techniques/kite-fishing.md | evidence — The bite and the gap | sundown and morning kite bluefin bites, 100 lb+ grade | `zBd1mayUt_I`, `QSvzVHW9UMk` |
+| Tanner Bank | techniques/kite-fishing.md | evidence — Wind window | balloon-to-kite rigging and launch build | `vCskOx6N-XM` |
 <!-- review:harvest:end -->

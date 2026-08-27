@@ -15,6 +15,7 @@
 - [Evidence — Foamer Casting](foamer-casting.md) — Trip reports and per-source provenance backing foamer casting.
 - [Evidence — Hoop Netting](hoop-netting.md) — Trip reports and per-source provenance backing hoop netting.
 - [Evidence — Inshore Crankbaits](inshore-crankbaits.md) — Trip reports and per-source provenance backing inshore crankbaits.
+- [Evidence — Kite Fishing](kite-fishing.md) — Trip reports and per-source provenance backing kite fishing.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 

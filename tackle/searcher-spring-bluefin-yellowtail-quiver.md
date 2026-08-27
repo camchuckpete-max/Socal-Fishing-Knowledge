@@ -354,9 +354,9 @@ Asked directly about splicing a fluorocarbon leader onto lures generally:
 ## Linked from
 
 - [Evidence — Flat-Fall Jigging](../techniques/evidence/flat-fall-jigging.md)
+- [Evidence — Kite Fishing](../techniques/evidence/kite-fishing.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
-- [Kite Fishing](../techniques/kite-fishing.md)
 - [San Diego Jam Knot — Doubled and Single-Pass Terminal Tie](../rigging/san-diego-jam-knot.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](searcher-four-outfit-guadalupe-quiver.md)
