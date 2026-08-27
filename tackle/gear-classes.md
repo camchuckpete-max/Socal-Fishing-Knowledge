@@ -314,6 +314,7 @@ does the lookup.
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](../techniques/leadhead-swimbait-retrieve.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](lightweight-reel-pick-turners-outdoorsman.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
+- [Live-Bait Pendulum Cast](../techniques/live-bait-pendulum-cast.md)
 - [Mangrove Structure Livebait](../techniques/mangrove-structure-livebait.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
 - [Ned Rig](../techniques/ned-rig.md)
