@@ -306,4 +306,11 @@ harvested.
 | Guadalupe Island | techniques/dropper-loop.md | Building the rig | 100 lb leader dropper loop for resident big yellowtail, drift swinging a rock wall from ~120 to 250 ft; ~8/10 hookups lost to cutoffs | `RgtkbmBFUXI` |
 | Camp Pendleton coast (North County San Diego) | techniques/dropper-loop.md | Fishing it — deadstick vs. work it | kids dropper-loop trip over hard bottom with light kelp in ~40-42 ft, producing calico and sand bass | `HMdrP4-i9MM` |
 | Catalina Island | techniques/dropper-loop.md | Fishing it — deadstick vs. work it | overnight anchored white seabass dropper-loop soak, four rods staggered at different depths off the bottom | `Y2bXn44lfqo` |
+| Guadalupe Island | techniques/fighting-big-bluefin.md | Great white shark depredation | great white sharks are simply "part of the game" here; hooked bluefin can dash under the hull to escape a shark, faking a lost fish | `FXWOIB0TPfE` |
+| Tanner Bank | techniques/fighting-big-bluefin.md | evidence — Walk it down-swell | kite-fished bluefin fought up-and-down at the boat, outboards trimmed up to protect the line from the props | `vCskOx6N-XM` |
+| San Clemente Island (front side) | techniques/fighting-big-bluefin.md | evidence — Rod-belt timing / Sea lion depredation | veterans-charity overnight trip losing a hooked yellowtail to a sea lion despite keeping pressure on it | `nsUdT-zXI8s` |
+| San Clemente Island (back side) | techniques/fighting-big-bluefin.md | Under-gunned on light tackle vs. a bigger-than-expected grade | sundown bite turned up 70-90 lb-plus bluefin against gear set for 50-70 lb, multiple leaders broken boatside | `r4J5nP5Bkl4` |
+| Cortez Bank | techniques/fighting-big-bluefin.md | Tough hookup-to-landing ratio on 40 lb tackle | evening "Sundowner" bite on bigger-grade bluefin, ~6 hooked and 1 landed on 40 lb line with a tiny circle hook | `nQvJnfb5jQ4` |
+| Cedros Island | techniques/fighting-big-bluefin.md | evidence — Sea lion depredation | a hooked yellowtail grabbed boatside and pulled back into the water by a sea lion ("the Lobo") while being bled over the rail | `d0yGBQDeY_4` |
+| East Cape | techniques/fighting-big-bluefin.md | Handing off a tiring angler | live mid-fight coaching on a big tuna to hand the rod to a teammate rather than fight fatigued | `_c6UI3lGBVg` |
 <!-- review:harvest:end -->

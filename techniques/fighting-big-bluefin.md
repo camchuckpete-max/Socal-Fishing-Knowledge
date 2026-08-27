@@ -1,20 +1,25 @@
 ---
 type: technique
 tags: [bluefin, tuna, yellowtail, boat-handling, fighting, big-game, offshore, sea-lion-depredation, great-white-shark, guadalupe-island]
-sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ, FXWOIB0TPfE, shZCjX2-fkI]
+sources: [8jC61LzQoxU, mdhoEQPqpng, XwwIvPFxRiQ, d0yGBQDeY_4, 84XPJAeH0Rw, GptrotE0x5M, _c6UI3lGBVg, xzIaUEDklrE, usHl-4SfqDA, 6EDQtQHEwFE, sHnqSIOjTdM, mDmbGdQAy-4, nQvJnfb5jQ4, r4J5nP5Bkl4, BQ2U1PqxWi8, nsUdT-zXI8s, vCskOx6N-XM, IxhdiX3oEEs, Klfb433I3Uk, rsCAh-QyK60, pk2blktDQ9Y, JiJYamo0QHk, Q196GVwVqro, ztpj1Xll0-U, fgTmUq78ofQ, FXWOIB0TPfE, shZCjX2-fkI, 9JnIS8HkZlA]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south]
 waters: [open-ocean, bank]
+layout: v2
+gear_classes: [rail-rod-heavy-tuna]
+depth_band: not applicable — a surface boat-driven fight, not a presentation depth
+retrieve_speed: not applicable — the boat, not a retrieve, does the work
 ---
 
 # Fighting a Big Bluefin — Boat-Handling to the Gaff
 
-Execution for landing a hooked big bluefin (**100–300 lb class**) once it's on:
-the boat, not the angler's arms, does the work of bringing the fish in. Where
-to find and hook that grade is the router: [bluefin tuna](../species/bluefin-tuna.md).
-Once the fish is boat-side, hand off to [gaffing](../fish-care/gaffing.md). For
-the angler's own rod-handling while this boat-driven fight is underway —
-bracing the rod on the rail rather than high-sticking — see
+Execution for landing a hooked big bluefin (**100–300 lb class**) once it's
+on: the boat, not the angler's arms, does the work of bringing the fish in.
+Where to find and hook that grade is the router:
+[bluefin tuna](../species/bluefin-tuna.md). Once the fish is boat-side, hand
+off to [gaffing](../fish-care/gaffing.md). For the angler's own rod-handling
+while this boat-driven fight is underway — bracing the rod on the rail rather
+than high-sticking — see
 [fighting fish from the rail](fighting-fish-from-the-rail.md).
 
 ## Reach for this when
@@ -26,586 +31,331 @@ bracing the rod on the rail rather than high-sticking — see
 
 ## The gear-tap: winching the fish in with the boat
 
-- On the bite, keep the boat moving at trolling speed (this operation runs
-  **~8 kt**) and watch the reel to confirm the fish is hooked.
-- Once hooked, **tap the boat in and out of gear**: take it out of gear the
-  moment line is peeling off the reel, and put it back in gear the instant the
-  line stops going out. Repeated through the fight, this constantly draws the
-  fish toward the boat instead of letting it simply take drag.
-- The rod stays in the gunnel/rod holder rather than being hand-held. This
-  captain's view: hand-fighting a big bluefin in a harness (**30–40 lb of
-  drag**) is a personal-endurance choice, not a functional advantage — it
-  doesn't land the fish faster or more reliably; the boat-driving method does
-  the work. On this program there's "no reason to fish [bluefin] any less"
-  than **130 lb spectra/braid** minimum, whichever fighting style is used.
-- **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
-  `xzIaUEDklrE`; unregistered channel — medium confidence): a matching
-  gear-tap account, specific to a fish hooked while trolling a Mad Mac —
-  the crew's own estimate was that **roughly 80% of the fight** runs on the
-  bump-in/bump-out-of-gear method, watching rod-tip tension as the cue
-  (tip coming up / line "coming in easy" = keep bumping; a rod staying
-  loaded = hold off). Only once the fish comes **straight up and down**
-  under the boat does the crew pull the rod out of the holder to hand-fight
-  it the rest of the way in ("railroad it") — kept beside, not merged into,
-  the boat-only doctrine above as a hybrid variant (mostly boat-driven, then
-  a short hand-fought finish). Going to neutral was also driven by keeping
-  the line clear of the props, with the captain watching the fish and
-  turning the boat as needed rather than on a fixed cue.
-
-**A later dated source restates the same cadence as the gear-tap doctrine
-above and the same rig as the 2019 Fred Hall Show mention below — repeated
-doctrine from the same registered voice across a ~5-year span (dave-hansen,
-Your Saltwater Guide, PCS Show live seminar, `ztpj1Xll0-U`, 2023-03-02; high
-confidence for this specific rig/cadence pairing):** describes the identical
-mechanic in these words —
-drive the boat forward a short distance, stop, wind in the slack, drive
-forward again, repeat — again on **200 lb braided line to 400 lb
-fluorocarbon**, rod never leaving the rod holder through the fight ("kill him
-with the boat"). **Observed** (Your Saltwater Guide, PCS Show live seminar,
-`ztpj1Xll0-U`, 2023-03-02): a named crew member, Justin Botrel of Bowline
-Sport Fishing, fished this method through 2022 and, per Hansen on camera,
-landed every bluefin he fought that way that year — zero lost.
+- On the bite, keep the boat moving at trolling speed (**~8 kt**) and watch
+  the reel to confirm the fish is hooked. Once hooked, **tap the boat in and
+  out of gear**: take it out of gear the moment line is peeling off the reel,
+  and put it back in gear the instant the line stops going out. Repeated
+  through the fight, this constantly draws the fish toward the boat instead
+  of letting it simply take drag. The rod stays in the gunnel/rod holder
+  rather than being hand-held (`8jC61LzQoxU`).
+- Hand-fighting a big bluefin in a harness (**30–40 lb of drag**) is a
+  personal-endurance choice, not a functional advantage over the gear-tap —
+  it doesn't land the fish faster or more reliably. There's no reason to fish
+  bluefin any less than **130 lb spectra/braid** minimum, whichever fighting
+  style is used (`8jC61LzQoxU`).
+- A later seminar from the same registered voice describes the identical
+  mechanic — drive forward a short distance, stop, wind in the slack, drive
+  forward again, repeat ("kill him with the boat") — on **200 lb braid to
+  400 lb fluorocarbon**, rod never leaving the holder. A named crew member
+  (Justin Botrel, Bowline Sport Fishing) fished this method through 2022 and
+  landed every bluefin he fought that way that year (`ztpj1Xll0-U`).
+- One crew estimates roughly **80% of a fight** runs on this bump-in/bump-out
+  cadence, reading rod-tip tension as the cue — tip rising or line coming in
+  easy means keep bumping; a rod staying loaded means hold off. Once the fish
+  comes straight up and down under the boat, some crews instead pull the rod
+  from the holder and hand-fight the final stretch — a hybrid, mostly
+  boat-driven finish (`xzIaUEDklrE`).
+- Two operations name this beltless, boat-leverage style "railroading," with
+  different scope: one uses it only for that final hand-fought stretch
+  (`xzIaUEDklrE`), the other for the whole rail-braced style from hookup on
+  (`mDmbGdQAy-4`).
 
 ## Small-boat (20–30 ft) variant — circle instead of switching sides
 
-**Observed/attributed** (Capt. Dave Hansen, Your Saltwater Guide, live
-seminar, 2024 PCS Show, `Q196GVwVqro`, 2024-03-07; dave-hansen registered
-voice, but a subscription-site-pitch/trade-show sponsor-booth context — `low`
-confidence per the [source registry](../sources/source-registry.md)): coaching
-given specifically for guests without a big sportboat — his stated example is
-the common **20–30 ft** private boat he goes out on as a guide. The
-boat-driven idea is the same as the gear-tap above, but the steering pattern
-he coaches is different from switching the rod port-to-starboard as the fish
-crosses the stern:
+Coaching for guests fishing a common **20–30 ft** private boat rather than a
+big sportboat: the boat-driven idea is the same as the gear-tap above, but
+the steering pattern differs from switching the rod port-to-starboard as the
+fish crosses the stern (`Q196GVwVqro`).
 
 - **Leave the rod in the holder** the whole time rather than pulling it and
-  swapping sides as the fish moves around the transom (a move he frames as
-  necessary on this boat size only because of how an outdrive pushes water).
-- Instead, turn the wheel a little and walk the boat in **big, gentle
-  circles** — explicitly **not** tight "spinning like a donut" turns — to
-  bring the fish around rather than chasing it side to side.
+  swapping sides as the fish moves around the transom — necessary on this
+  boat size specifically because of how an outdrive pushes water
+  (`Q196GVwVqro`).
+- Turn the wheel a little and walk the boat in **big, gentle circles** —
+  explicitly not tight "spinning like a donut" turns — to bring the fish
+  around rather than chasing it side to side (`Q196GVwVqro`).
 - Keep the fish pinned on the **same side of the boat** the whole time, from
-  amidships back to the stern.
+  amidships back to the stern (`Q196GVwVqro`).
 - **Drive forward only, never in reverse**, holding the boat at roughly a
-  **45° angle** to the fish with the rod staying outside the stern in its
-  holder. Framed on camera as removing any reason to ever take the rod out of
-  the holder, even as the fish works its way around a smaller boat.
+  **45°** angle to the fish with the rod staying outside the stern in its
+  holder — removing any reason to ever take the rod out of the holder, even
+  on a small boat (`Q196GVwVqro`).
 
 ## Kite hookup — close the slack fast, then kill the props
 
-**Observed** (StokedOnFishing, 2024-11-13, SoCal, NE of Santa Barbara Island —
-`usHl-4SfqDA`; unregistered channel — medium confidence): a hookup-specific
-counter-move for a fish taken off the [kite](kite-fishing.md).
+A hookup-specific counter-move for a fish taken off the
+[kite](kite-fishing.md).
 
 - Because the bait hangs off a long run of line strung from the rod up to the
   kite and back down to the water, a fresh bite can leave **as much as 30
-  seconds of straight slack** — a real window for the hook to pull. The
-  counter-move: **punch the throttle immediately on the bite** to close that
-  slack and come tight as fast as possible, rather than easing into it.
-- Once the fight settles into an **up-and-down fight straight under the
-  boat**, the crew **kills the engines and trims the outboards/props up out
-  of the water** — explicitly to keep the fish from rushing the stern and
-  getting cut off on the props (this boat runs three outboards). From there
-  the captain works the fish/boat by eye rather than on a fixed cue.
-- **Observed, second/independent corroboration** (StokedOnFishing,
-  `vCskOx6N-XM`, 2022-03-23 upload, Tanner Bank, SoCal, aboard Captain
-  Andrew's own boat (also triple-outboard rigged), a different trip/boat than
-  the entry above; unregistered channel — medium confidence): the same
-  outboards-up practice — trimming the (triple) outboards up once a
-  kite-hooked fish is being fought up-and-down near the boat, specifically
-  because the line can pass under the boat and the crew doesn't want it
-  caught in the props.
+  seconds of straight slack** — a real window for the hook to pull. Punch the
+  throttle immediately on the bite to close that slack and come tight as fast
+  as possible, rather than easing into it (`usHl-4SfqDA`).
+- Once the fight settles into an up-and-down fight straight under the boat,
+  kill the engines and trim the outboards/props up out of the water, to keep
+  the fish from rushing the stern and getting cut off on the props.
+  Corroborated on two separate triple-outboard-rigged trips (`usHl-4SfqDA`,
+  `vCskOx6N-XM`).
 
 ## Walk it down-swell, avoid the death circle
 
 - Keep the boat moving **down-swell for the entire fight**, not just at the
-  gaff — down-swell travel is far easier to handle than sitting broadside in
-  the trough, rocking.
-- **Observed** (StokedOnFishing, `rsCAh-QyK60`, 2017-06-06, ~40 mi off San
-  Diego, SoCal, aboard a 22 ft center console; unregistered channel — medium
-  confidence): fighting a big bluefin doing "giant circles," the crew's
-  on-camera framing was that a **smaller, maneuverable boat** (their 22 ft
-  center console) works a circling fish better than a **yacht or bigger
-  long-range boat**, which they characterized as "racing around" rather than
-  staying with the fish — a boat-class claim, logged beside (not folded
-  into) the down-swell-walk technique above.
-- The down-swell walk also keeps the fish's **head pointed up toward the
-  surface** the whole time, rather than nose-down.
-- **Avoid the "death circle"** — letting the fish get its nose down and circle
-  under/around the boat. A circling fish drags the leader back and forth
-  across its teeth (increasing bite-throughs) and puts sustained extra load on
-  the terminal knot (increasing break-offs). Keeping the head up the whole
-  fight, via the down-swell walk and the gear-tap, avoids it.
-- **Rod length as a death-circle mitigation, the angler's-gear-side cause
-  (Lori Sackow, Turner's Outdoorsman, via SearcherSportfishing, `fgTmUq78ofQ`,
-  "Tackle Tip Thursday Vol. 147 — Live at Turner's Outdoorsman," 2021-05-14;
-  `searcher-sportfishing` registered channel — medium confidence, single
-  mention):** a too-short fighting rod is framed as a direct cause of the
-  death circle, not just a factor in it — with a **6.5 ft** rod the angler
-  can't push the fish away from the boat once it starts circling, so it
-  circles directly under the hull and drags/saws the leader across its
-  teeth on every pass. Stated fix: **at least 7.5 ft**, framed as a sportboat
-  minimum specifically so the rod has enough length to keep the fish's
-  circle pushed out and away from under the boat. Longer isn't better past a
-  point, either — beyond roughly **8 ft 2 in** the leverage against the
-  angler becomes the problem instead: **10 ft rods** were called out on
-  camera as a common mistake among less experienced anglers, who then
-  struggle for an hour fighting a big fish on a rod described as unwieldy as
-  a "seesaw" at that length. Sits beside, not a replacement for, the
-  boat-driven down-swell-walk technique above — this is the same death-circle
-  problem addressed from the rod-length side rather than the helm.
-- **A reel-side counter-move for the same problem, on a two-speed reel
-  (Steve Carson, Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14;
-  unregistered channel/speaker, single mention — medium confidence):**
-  standard pump-and-reel lets the fish point its nose down and kick on every
+  gaff — far easier to handle than sitting broadside in the trough, rocking.
+  The down-swell walk also keeps the fish's head pointed up toward the
+  surface the whole time, rather than nose-down (`8jC61LzQoxU`).
+- Avoid the **"death circle"** — letting the fish get its nose down and
+  circle under/around the boat. A circling fish drags the leader back and
+  forth across its teeth (more bite-throughs) and puts sustained extra load
+  on the terminal knot (more break-offs). Keeping the head up via the
+  down-swell walk and the gear-tap avoids it. Program-level numbers from the
+  doctrine source: average fight **~15 min**, **25 min** the longest recorded
+  (`8jC61LzQoxU`).
+- A contrasting single account treats a fish circling boatside as a normal
+  end-of-fight pattern rather than something to avoid — walking it around
+  through a couple more circles on lighter, hand-fought tackle with no
+  boat-driving, species/grade not confirmed as the bluefin grade the doctrine
+  above targets (`84XPJAeH0Rw`).
+- **Rod length as a death-circle mitigation, from the angler's-gear side:** a
+  too-short fighting rod is a direct cause, not just a factor — with a
+  **6.5 ft** rod the angler can't push the fish away from the boat once it
+  starts circling, so it circles directly under the hull and saws the leader
+  across its teeth on every pass. Fix: **at least 7.5 ft**, a stated sportboat
+  minimum, so the rod has enough length to keep the circle pushed out and
+  away from under the boat. Longer isn't better past a point either — beyond
+  roughly **8 ft 2 in** the leverage works against the angler instead; **10
+  ft rods** are a common mistake among less experienced anglers, who then
+  fight a big fish on a rod as unwieldy as a "seesaw" (`fgTmUq78ofQ`).
+- **A reel-side counter for the same problem, on a two-speed reel:** standard
+  pump-and-reel lets the fish point its nose down and kick on every
   down-stroke, protracting the fight; shifting to low gear and winding
-  **continuously** instead — never pausing to let the fish re-point its
-  nose down — avoids the same death-circle mechanism from the angler's side
-  of the equation rather than the boat's. Full technique and the
-  shift-back-to-high-after-landing reminder in
-  [two-speed low-gear fight](two-speed-low-gear-fight.md).
-- **Observed** (Your Saltwater Guide, 2018-08-07, SoCal): average fight on this
-  program runs **~15 min**, with **25 min** the longest recorded; a **218 lb**
-  fish landed **2018-08-05** (two days before this video, per its upload date)
-  took **17 min**, attributed to the constant down-swell walk.
-- **Observed** (StokedOnFishing, 2022-12-14, ~55 mi offshore SoCal —
-  `xzIaUEDklrE`; unregistered channel — medium confidence): a boatside
-  angler-positioning tip given live, once the fish was close: tuck the rod
-  butt **under the armpit** and let the boat/swell do the work rather than
-  pumping against the fish — pull as the boat travels **down the back of a
-  swell**, and stop/ease off (don't force it) as the boat **rises on the next
-  swell**. Framed on camera as the same "let the boat do the work" logic as
-  the gear-tap above, applied to the last stretch of the fight at the rail
-  rather than to boat-driving.
-- **Observed** (StokedOnFishing, 2024-11-13, SoCal, NE of Santa Barbara Island
-  — `usHl-4SfqDA`, "Fishing, Cleaning & Cooking Pacific Giants"; unregistered
-  channel — medium confidence): a second, independent trip corroborating the
-  same boat/swell-leverage rail mechanic as the entry directly above. This
-  operation's gear for it is called **"wrap system pipes"** at the rail; the
-  rod's butt goes under the angler's **left armpit**, the reel hand works the
-  handle, and the angler **squats down and stands up, using the boat as
-  leverage** — wind down while standing up on the back of a swell, don't wind
-  while the swell is lifting the boat, the same up-swell-ease / down-swell-pull
-  cue as the entry above. **No fighting belt/harness is used** in this rail
-  style — coached live as "you're off the belt." Two visiting East Coast
-  anglers, used to fighting big tuna in a harness/belt, found the beltless
-  rail style "awkward" on their first fish — one wedged the rod between his
-  legs rather than under the armpit as shown. Reel used on this program's
-  kite/fighting outfits: **Okuma Makaira 50 Wide**.
-- **Naming — "railroading" (StokedOnFishing, `mDmbGdQAy-4`, 2025-10-06
-  upload, SoCal, NE of Santa Barbara Island — "Catching Monster Bluefin
-  Using a Flying Bait | Catch & Cook"; unregistered channel — medium
-  confidence; same operation/trip as the entry directly above, likely
-  overlapping footage):** this source names the whole beltless, boat-
-  leverage, rail-locked style above **"railroading"** ("lock the rod to the
-  rail and let your body in the boat do the work... that's when all the
-  railroading kicks in") — a **different sense of the word** than the
-  `xzIaUEDklrE` entry above, where "railroad it" names only the final
-  hand-fought stretch once a fish comes straight up and down under the boat.
-  Kept side by side, not reconciled: same operation, two different scopes
-  for the same term.
-- **Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, trip
-  resolved to late October 2021, Tanner Bank, SoCal, aboard Captain Andrew's
-  own boat, Stoked On Fishing Charters; unregistered channel — medium
-  confidence): a third, independent rail-fight data point for the same
-  beltless, boat-leverage style logged above. Live coaching for anglers brand
-  new to bluefin: **kneel, rod butt under the left armpit, left hand on the
-  reel**, then time the crank to the swell — **hold still as the boat rises
-  on a swell, crank as it drops** — with the explicit rule that **even half a
-  crank on the way down still counts as gained line**. The crew separately
-  noted anglers don't need to lean into the fish to gain line, just crank
-  with the swell, but with a heavier-than-usual swell running that day
-  coached anglers to pace themselves and **save energy** rather than force
-  it. Consistent with, not new beyond, the squat-and-stand/wind-on-the-
-  down-swell mechanic already logged above, this time with a kneeling
-  posture and the explicit half-crank-still-counts framing.
-- **Observed** (StokedOnFishing, 2019-02-10, East Cape, Sea of Cortez, Baja
-  California Sur — Hotel Buena Vista Beach Resort trip, `84XPJAeH0Rw`;
-  unregistered channel — medium confidence): a contrasting, hand-fought data
-  point on tuna (species and this specific fish's weight not stated on
-  camera — not confirmed as the 100–300 lb SoCal bluefin grade this note's
-  boat-driven doctrine above targets; elsewhere in the same video the crew
-  describes that day's tuna as running mostly **60s–70s lb**, but that figure
-  is a general recap of the day's catch, not a stated weight for this
-  particular fish). Rather than the boat working to prevent the fish from
-  circling, the coaching given live to the angler treated a fish **circling
-  boatside as the normal end-of-fight pattern** — walking it around ("circle
-  them up... bring them around this way, pull them back and reel") through
-  what was called out as **two more circles**, with the cue that the fish was
-  ready for the leader/gaff being that **no more line was going out**. No
-  boat-driving, drag setting, or line class is given, and no bite-through or
-  break-off outcome is reported either way — kept beside the
-  death-circle-avoidance doctrine above as a lighter-tackle, hand-fought data
-  point, not a reconciliation of it.
-- **Observed** (StokedOnFishing, presenter Shay, 2019-02-13, East Cape, Sea of
-  Cortez, Baja California Sur — Hotel Buena Vista Beach Resort trip,
-  `GptrotE0x5M`, "Non-Stop Tuna, Dorado, And Rooster Action Part 2"; same
-  Fiesta trip as the `84XPJAeH0Rw` entry above, days later; unregistered
-  channel — medium confidence): two more hand-fought, thumb-on-spool data
-  points from the same trip, species/exact weight not confirmed on camera
-  (the day's weighed yellowfin ran **72 lb, 63 lb, and 63 lb** per the
-  point-race weigh-ins shown earlier in this video — see
-  [yellowfin tuna](../species/yellowfin-tuna.md)). On a **30 lb mono top shot
-  over spectra**, the angler kept **both thumbs on the spectra**, pulling
-  only when the fish was *not* pulling — never fighting directly against the
-  fish — to slowly turn its head, especially once it was close or the fight
-  needed to change direction; drag was bumped up gradually only toward the
-  end of the fight rather than set hard from the start. On a second, larger
-  fish taken on **squid bait on a circle hook**, the crew again coached
-  "getting it in its circles" and working it up high (consistent with the
-  circle-them-up coaching in the `84XPJAeH0Rw` entry above) — that approach
-  first ended in the **leader parting** boatside (asr-uncertain: on-camera
-  audio renders the word as "GFF," read here as "leader" from context, not a
-  brand/model name) on an estimated **60 lb**-class fish. On the next hookup
-  the angler **pushed the lever drag down and physically thumbed the spool**
-  for extra stopping power, landing the fish after a **40-minute fight** —
-  framed on camera as what a circle hook lets you get away with under heavy
-  hand pressure ("you got a fighting chance with the circle hook"). Drag was
-  run at **30 lb**; the rod was called "a little light" for the **60–80 lb**
-  tuna grade being caught that day (with a possible **90 lb** fish suspected
-  around the fleet) but held up. No boat-driving or down-swell-walk technique
-  is described in either fight — kept beside the boat-driven doctrine above
-  as additional hand-fought, region-labeled data points, not a
-  reconciliation of it.
-
-- **Observed** (StokedOnFishing, 2019-02-18, East Cape, Sea of Cortez, Baja
-  California Sur, fishing waters near Cabo (exact locality not resolved on
-  camera — asr-uncertain) — Hotel Buena Vista Beach Resort trip, `_c6UI3lGBVg`,
-  "Non-Stop Tuna And Dorado Part 2"; final wrap-up day of the same 2018 Fiesta
-  series as the `84XPJAeH0Rw` and `GptrotE0x5M` entries above; unregistered
-  channel — medium confidence). Fishing **less than 2 mi off shore in 52 ft**
-  of water. Two fight-specific notes from this session: a **teamwork hand-off**
-  tip — live coaching mid-fight framed as a standing lesson: on a big tuna,
-  don't hesitate to hand the rod to a teammate rather than keep fighting
-  fatigued ("if you have to hand off, hand off... don't screw around with
-  that, these fish are big and they beat you down"); no boat-driving or drag
-  spec is given alongside it. Separately, a **small (sardine-bait-sized) hook
-  pulled out of a big tuna mid-fight** — framed on camera as a known risk with
-  small hooks on big fish ("you're not sure where it's at"), given as the
-  reason the crew kept steering anglers back toward a circle hook; a later
-  fish that day was landed successfully **on a circle hook**. That day's
-  grade across the boat ran **50–70 lb class**. Kept beside, not reconciled
-  with, the boat-driven doctrine above — another hand-fought, region-labeled
-  data point from the same East Cape series.
-- **Observed** (StokedOnFishing, presenter Shay, `IxhdiX3oEEs`, 2019-11-13
-  upload, SoCal (exact zone not named on camera); unregistered channel —
-  medium confidence): a SoCal instance of the same teammate hand-off
-  practice, live rather than just coached — mid-fight on a **184 lb**
-  bluefin (fight put at almost two hours, starting around 6:15), the
-  angler was told **"if you get tired let Andy take over for a minute
-  just so we can finish him off, because if we don't finish him off it's
-  gonna be too hard"** and handed the rod off for a stretch before
-  finishing the fish. No boat-driving, drag, or line-class detail is
-  given. Kept beside, not merged into, the East Cape hand-off entry above
-  — same practice, different region/trip. See
-  [bluefin tuna](../species/bluefin-tuna.md#where--when) for the catch
-  record.
-- **Observed** (StokedOnFishing, `BQ2U1PqxWi8`, 2020-04-01 upload, East Cape,
-  Sea of Cortez, Baja California Sur — Hotel Buena Vista Beach Resort "fifth
-  annual Stoked On Fishing Fiesta"; unregistered channel — medium confidence,
-  asr-uncertain on some names/details): slack from a fish running toward the
-  boat was read as a lost fish. On one angler's (Rick's) hookup, the
-  fish ate the bait and then swam **toward** the boat rather than away,
-  producing slack that the crew initially read as a lost fish/pulled hook;
-  winding down confirmed the fish was still on. A separate, earlier pair of
-  bites on the same session (attributed on camera to an angler named Pat
-  McEntee) were lost outright — kept beside, not merged with, this "swimming
-  at the boat" data point. Another hand-fought, region-labeled data point from
-  the same East Cape series, distinct from the earlier-dated Fiesta-trip
-  entries above.
+  **continuously** instead — never pausing to let the fish re-point its nose
+  down — avoids the same death-circle mechanism from the angler's side rather
+  than the boat's. Full technique in
+  [two-speed low-gear fight](two-speed-low-gear-fight.md) (`9JnIS8HkZlA`).
+- **Boatside rail mechanic — let the boat/swell do the lifting:** once the
+  fish is close, tuck the rod butt under the (left) armpit, work the reel
+  hand, and time the crank to the swell — wind/pull as the boat travels down
+  the back of a swell, ease off (don't force it) as the boat rises on the
+  next swell; even half a crank on the down-swell still counts as gained
+  line. No belt or harness is used in this rail style; a kneeling posture is
+  an equally reported variant of the same squat-and-stand timing.
+  Independently corroborated across three StokedOnFishing trips (`xzIaUEDklrE`,
+  `usHl-4SfqDA`, `vCskOx6N-XM`). Anglers used to an East-Coast harness/belt
+  style have found the beltless rail style awkward on a first bluefin
+  (`usHl-4SfqDA`).
 
 ## Fight duration by topshot/backing class (Baja long-range, "lower banks")
 
-**Observed** (StokedOnFishing, `pk2blktDQ9Y`, 2015-01-18 upload, "Long Range
-Tuna Fishing On The Intrepid | Part 1," 11-day trip aboard the long-range boat
-**Intrepid**, Baja "lower banks" roughly 608 nautical miles south of San
-Diego; species read here as giant-grade yellowfin ("cows") per the video's
-own framing, not confirmed bluefin — region-labeled, kept beside the SoCal
-bluefin doctrine above, not merged into it; unregistered channel — medium
-confidence): dockside, a crew member was asked how long a fight on "this guy"
-(a fish just landed) runs. The on-camera answer: **roughly 45 minutes,
-maxing out**, on a **100 lb top shot over 100 lb Spectra backing** — called
-"kind of iffy" past that. Asked what a **130 lb top shot** would do, the
-answer was "maybe another 10 minutes" (the audio doesn't make clear whether
-the heavier top shot shortens or lengthens the fight relative to the 45-min
-mark — asr-uncertain, not asserted either way). The same answer named a
-mechanism, not just a fixed time: fight duration also tracks **how many
-times the fish rolls onto its side and drags the line across its mouth and
-teeth** — an abrasion-risk framing consistent with, not a restatement of, the
-death-circle/line-across-the-teeth doctrine already logged above.
+Dockside interview data; species read on camera as giant-grade yellowfin
+("cows"), not confirmed bluefin — region- and species-labeled, kept beside
+the SoCal bluefin doctrine above rather than merged into it. On **100 lb top
+shot over 100 lb Spectra backing**, a fight runs **roughly 45 minutes,
+maxing out** — called "kind of iffy" past that. Fight duration tracks a
+mechanism, not just a fixed time: how many times the fish rolls onto its side
+and drags the line across its mouth and teeth — an abrasion-risk mechanism
+consistent with the death-circle doctrine above (`pk2blktDQ9Y`).
 
 ## The end-of-fight head-shake
 
-- Nearly every fish **shakes its head violently right before it dies**,
-  working to throw the hook/lure one last time — described as universal
-  across anglers and experience levels: it startles people and they
-  reflexively **freeze** or ease off when it happens.
-- Doctrine: the moment the head-shake starts, **put the boat in gear and add
-  tension** — do not ease off. Slack at that exact moment is what lets a
-  weighted lure fall free of the fish's mouth.
-- **Observed** (Your Saltwater Guide, 2018-08-07, SoCal): every fish this
-  operation lost in the **2015–2018** window (the video's "last three
-  years," resolved from the 2018-08-07 upload date) is attributed to captain
-  error — freezing for a moment when the fish shook its head, not to gear
-  failure.
+- Nearly every fish shakes its head violently right before it dies, working
+  to throw the hook/lure one last time. It startles people, and the reflex is
+  to freeze or ease off — exactly the wrong move: slack at that exact moment
+  is what lets a weighted lure fall free of the fish's mouth. The fix: the
+  moment the head-shake starts, put the boat in gear and add tension, never
+  ease off. On this program, every fish lost across a **2015–2018** window is
+  attributed to captain error — freezing for a moment at the head-shake, not
+  gear failure (`8jC61LzQoxU`).
+
+## Handing off a tiring angler
+
+On a long fight, hand the rod to a fresh teammate rather than keep fighting
+fatigued — a fresh angler can put more pressure on the fish and finish it
+faster than a tired one. Corroborated across a Baja (East Cape) trip and a
+SoCal bluefin trip (`_c6UI3lGBVg`, `IxhdiX3oEEs`).
 
 ## Hand-off to the gaff
 
-- Bring the fish boat-side still under boat-driven tension, walking down-swell
-  the entire way to the gaff shot. The gaff mechanics themselves (pec
-  placement, flipping the fish upside down, hook orientation) live in
-  [gaffing](../fish-care/gaffing.md) — this source repeats that same doctrine.
+Bring the fish boat-side still under boat-driven tension, walking down-swell
+the entire way to the gaff shot. Gaff mechanics (pec placement, flipping the
+fish upside down, hook orientation) live in [gaffing](../fish-care/gaffing.md)
+— this source repeats that same doctrine (`8jC61LzQoxU`).
 
 ## Sea lion depredation at the boat — the free-spool trick (cross-species)
 
-Distinct from the boat-driving method above, and not bluefin-specific: a
-reel-side counter-move for when a sea lion is actively working a hooked fish
-right at the boat, observed on a **yellowtail** trip. Applies to any hooked
-gamefish a sea lion is stealing boatside, not just bluefin.
+Distinct from the boat-driving method above, and not bluefin-specific:
+reel-side counter-moves for when a sea lion or seal works a hooked fish at
+the boat. The recorded instances below are all yellowtail; the moves apply to
+any hooked gamefish.
 
-- **Observed** (Your Saltwater Guide / Dave Hansen, 2019-11-07, SoCal): while
-  fighting a hooked yellowtail with a sea lion working it at the rail, the
-  standing coaching (given live, mid-fight, to a crew member) is **wind
-  continuously and never pump** — every pump stops the fish's progress toward
-  the boat, and that pause is what lets the sea lion grab it.
-- **Observed** (same source): once the sea lion has the fish by the tail at
-  the corner of the boat, the counter-move is to **throw the reel into free
-  spool and give the fish total slack**. The sudden slack reads to the sea
-  lion as the line breaking; it lets go, thinking it won. The angler then
-  winds fast — not pumping — to recover the fish before the sea lion returns.
-  Outcome in this instance: the fish was landed.
-- **Observed** (StokedOnFishing, 2015-01-17, Cedros Island, Baja —
-  `XwwIvPFxRiQ`; unregistered channel — medium confidence): a losing outcome
-  on a hooked **yellowtail** (Baja, distinct trip/region from the SoCal
-  instance above). A seal grabbed the fish by the tail alongside the boat;
-  the angler kept winding rather than pumping, and the seal let go once,
-  bringing the fish to within gaff range — but the seal came back, grabbed
-  it again, and the fish was lost on the ensuing run. No free-spool/slack
-  counter-move is described in this instance. Kept beside, not reconciled
-  with, the landed outcome above. The crew moved off the spot afterward
-  despite the yellowtail bite still being active, citing the seal.
-- **Observed** (StokedOnFishing, 2019-03-05, Cedros Island, Baja —
-  `d0yGBQDeY_4`, "Big Yellowtail Part 1"; unregistered channel — medium
-  confidence): a distinct-stage variant — depredation risk didn't end when
-  the fish came over the rail. A yellowtail had already been boated and was
-  being bled out over the rail when a sea lion (called "the Lobo" on camera)
-  surfaced, grabbed it, and pulled it back into the water — "you took it
-  right out of his hand," per the crew's own call on camera (00:21:45).
-  No free-spool counter-move applies once a fish is off the line and being
-  bled; logged here as the same predator/boat dynamic extending past the
-  landing, not as a new counter-move. (The garbled narration immediately
-  preceding this — "the Lobo just grabbed the whole entire thing," at
-  00:21:13 — may describe this same fish rather than a distinct instance;
-  see the sliding-sinker cross-reference in the yellowtail entry.)
-- **Observed** (StokedOnFishing, October 2024 trip (per on-camera reference),
-  2025-03-07 upload, Cedros Island, Baja — `6EDQtQHEwFE`, "This Year's
-  Yellowtail Bite Has Been the Best Ever"; unregistered channel — medium
-  confidence): a mid-fight-stage loss, distinct from the boatside tail-grab
-  and post-landing bleed-out instances above. A hooked yellowtail was hit
-  boatside by what the crew called a seal ("we're feeding the seals and
-  catching fish, too") and grabbed through the gut before it reached the
-  boat — fish lost. No free-spool/slack counter-move is described in this
-  instance.
-- **Observed** (StokedOnFishing, 2022-12-07 upload, front side of San
-  Clemente Island, SoCal — `nsUdT-zXI8s`, veterans-charity overnight trip
-  aboard the El Dorado; unregistered channel — medium confidence): a
-  **conflicting counter-move**, kept side by side rather than reconciled
-  with the free-spool/slack trick above. With a sea lion working a hooked
-  yellowtail at the boat, the crew's live, mid-fight coaching was the
-  opposite of giving slack: **keep enough pressure on the fish to make the
-  sea lion drop it**, and if it drops the fish, wind fast to get it back
-  before the sea lion returns. Outcome in this instance: the sea lion won —
-  the yellowtail was lost, leaving the boat "in the negative" on
-  catch-to-hook ratio that morning.
-- **Observed** (StokedOnFishing, 2019-10-04, San Clemente Island, SoCal —
-  `Klfb433I3Uk`, "A Day of San Clemente Island Yellowtail Fishing";
-  unregistered channel — medium confidence): two further data points from a
-  different trip/crew, both about avoiding a seal encounter rather than
-  reacting once one is already underway.
-  - **Preventive tactic, before a fish is even hooked:** crew described
-    "psychological" tricks for keeping a seal off an angler entirely — get
-    the seal looking one direction while fishing from the other side of the
-    boat, and **put the rod down out of sight once a fish is on**, on the
-    stated belief that seals "know" a bent rod means a hooked fish and move
-    in on it.
-  - **Preemptive free-spool call:** with a seal near an angler's line, live
-    coaching (to an angler addressed as "Odyssey") was to **free-spool as
-    soon as the seal comes close** and let the (not-yet-landed) hooked
-    yellowtail swim away from it, rather than wait for the seal to grab the
-    fish first — a preventive variant of the free-spool/slack trick logged
-    above, applied before contact rather than after. Outcome not confirmed
-    on camera (the crew's own response in the moment was "we'll see").
+- **Preventive, before a fish is even hooked:** work an angler from the side
+  of the boat opposite a sea lion, and put the rod down out of sight once a
+  fish is on — sea lions are treated as reading a bent rod as a hooked fish
+  and moving in on it (`Klfb433I3Uk`).
+- **Preemptive free-spool:** as soon as a seal comes near a hooked-but-not-yet-
+  landed fish, free-spool and let it swim away from the seal rather than wait
+  for a grab (`Klfb433I3Uk`).
+- Depredation risk doesn't always end at the gaff: a bled-out fish laid over
+  the rail was grabbed back out of the boat by a sea lion before it could be
+  secured, on a separate trip (`d0yGBQDeY_4`).
+
+Once a sea lion already has a hooked fish by the tail at the boat, two
+directly opposed counter-moves are on record — see
+[Doctrine & conflicts](#doctrine--conflicts) below.
+
+## Doctrine & conflicts
+
+**Sea lion at the tail — slack or pressure.** Two opposed counter-moves for
+the moment a sea lion has a hooked fish by the tail at the boat, each built on
+a different mechanism, and neither corroborated by more than one recorded
+instance:
+
+- **Give total slack** (free-spool): the sudden slack reads to the sea lion as
+  the line breaking, so it lets go, "thinking it won"; the angler then winds
+  fast to recover the fish before the sea lion returns. Recorded outcome:
+  landed (`mdhoEQPqpng`).
+- **Hold pressure:** keep enough tension on the fish to make the sea lion drop
+  it rather than release the pressure; if it drops the fish, wind fast to beat
+  the sea lion back to it. Recorded outcome: lost — the sea lion won
+  (`nsUdT-zXI8s`).
+- A third instance applied neither counter-move (kept winding, gave no slack
+  deliberately) and also lost the fish to a returning seal after an initial
+  release (`XwwIvPFxRiQ`).
+
+The corpus does not establish which counter-move wins more often — one
+recorded instance each, opposite outcomes. Both start from the same
+condition (a sea lion has already gripped the fish by the tail) and diverge
+only on whether the angler gives slack or holds tension; pick one and expect
+no guarantee either way until more instances are recorded.
 
 ## Great white shark depredation at Guadalupe Island — slack doesn't always mean a lost fish
 
-**SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08;
-`searcher-sportfishing` registered channel — medium confidence, single
-mention.** Answering a viewer question on Guadalupe Island specifically,
-where great white sharks are described as simply "part of the game": stated
-tips for improving the odds a hooked bluefin makes it to the boat rather than
-becoming a shark's meal.
+At Guadalupe Island, great white sharks are simply "part of the game." Tips
+for improving the odds a hooked bluefin makes it to the boat rather than
+becoming a shark's meal (`FXWOIB0TPfE`):
 
-- **Fish a two-speed reel and work the rail** — let the boat/rail do the
-  pulling rather than muscling the fish by hand; the angler's job is mainly
-  turning the handle and gaining line while keeping steady pressure on the
-  fish.
-- **Ask for relief.** If a fish has been on for a while, it's normal to ask a
-  crew member or the captain to take the rod for a stretch — a fresh angler
-  can put more pressure on the fish and get it to the surface for the gaff
-  faster than a tired one can.
-- **The key read: a sudden slack line near a shark doesn't necessarily mean
-  the fish is lost.** A shark showing up on a hooked tuna often spooks it
-  into bolting for safety underneath the hull rather than away from the
-  boat — and because **a tuna is generally faster than a great white
-  shark**, that dash can put the fish essentially at the surface, tucked
-  up under the boat, out of the shark's reach, even though the sudden slack
-  reads exactly like a lost fish or a pulled hook. Stated fix: when the line
-  goes slack with a shark in the picture, **turn the handle as fast as
-  possible and gather line** rather than assume the fish is gone — described
-  as a pattern this crew has "seen multiple times," where anglers wrongly
-  give up on a fish that was still hooked and simply hiding under the hull.
+- Fish a two-speed reel and work the rail — let the boat/rail do the pulling
+  rather than muscling the fish by hand; the angler's job is mainly turning
+  the handle and gaining line while keeping steady pressure on the fish.
+- Ask a crew member or the captain to take the rod for a stretch on a long
+  fight — a fresh angler gets a tired fish to the surface faster.
+- **The key read: sudden slack near a shark doesn't necessarily mean the fish
+  is lost.** A shark showing up on a hooked tuna often spooks it into bolting
+  for safety underneath the hull rather than away from the boat — and because
+  a tuna is generally faster than a great white shark, that dash can put the
+  fish essentially at the surface, tucked up under the boat, out of the
+  shark's reach, even though the sudden slack reads exactly like a lost fish
+  or a pulled hook. Fix: when the line goes slack with a shark in the
+  picture, turn the handle as fast as possible and gather line rather than
+  assume the fish is gone.
+- The same misread happens without a shark in the picture: a fish that turns
+  and swims toward the boat also produces slack that can look like a lost
+  fish or a pulled hook — wind down to confirm before assuming it's gone
+  (`BQ2U1PqxWi8`).
 
-## Mola mola (sunfish) interference and a tail-wrapped fish broken off at the boat
+## Mola mola (sunfish) interference
 
-**Observed** (StokedOnFishing, August trip (year not stated on camera),
-2026-04-24 upload, offshore San Clemente Island, SoCal — `sHnqSIOjTdM`,
-"Night Bluefin to Day Yellowtail to Night Bluefin," 2.5-day charter aboard
-the Eldorado; unregistered channel — medium confidence): two separate
-interference incidents spread across the trip's **two night-jig**
-[bluefin](../species/bluefin-tuna.md) sessions (the first recapped the
-next morning on camera, the second shown live), both blamed on **mola
-mola (sunfish)** working around a hooked fish — a cross-species
-interference risk distinct from, and not predatory like, the sea lion
-depredation pattern above.
-
-- On one hookup, the angler cranked the fish in fast; as it neared the boat
-  a mola mola surfaced and appeared to bombard/hit the hooked fish, and the
-  hook pulled. The crew's own read on camera was that bringing a fish up too
-  fast may have drawn the sunfish in ("I brought him up so fast... I don't
-  know if that's a good idea or not"). A separate fish — called a
-  **"hot 90-pounder"** — was landed on the next hookup moments later on the
-  same stop.
-- On the trip's second night-jig session, a bluefin hooked at night fought unusually weak,
-  described on camera as coming up "dead like a kite." Once at the surface it
-  was found **tail-wrapped** in the line. At the boat the fish suddenly "woke
-  up" and, with one kick, **broke 100 lb** (line/leader class not specified
-  beyond "100 lb") before it could be gaffed — the jig, named on camera as
-  the angler's "number one jig" from **West Coast Jiggerz**, was lost with
-  it. The crew again blamed a mola mola for harassing the fish through the
-  fight, calling it out as a factor on "the last two fish" of the session.
+Two separate incidents on the same 2.5-day charter blamed a mola mola for
+interfering with a hooked bluefin at night — a cross-species interference
+risk distinct from, and not predatory like, the sea lion depredation pattern
+above. In one, a mola mola appeared to bombard a fish being cranked in fast
+near the boat and the hook pulled; the crew's own read was that bringing the
+fish up too fast may have drawn the sunfish in — unconfirmed (`sHnqSIOjTdM`).
+⚠ Flagged gap — no corpus source: a stated mechanism for why a mola mola
+interferes with a hooked fish, beyond one crew's own guess.
 
 ## Tough hookup-to-landing ratio on 40 lb tackle, bigger-grade bluefin (Cortez Bank)
 
-**Observed** (StokedOnFishing, trip dated August 2024 — the most recent
-August before the 2025-04-30 upload date, per on-camera "our annual trip in
-August"; video is part 2 of a multi-part Cortez Bank series, day one of a
-2.5-day charter aboard the 85 ft El Dorado, Captain TJ Will, out of Long
-Beach — `nQvJnfb5jQ4`, "2.5 Days. 25 People. A Boat Full of Bluefin Tuna and
-Yellowtail"; unregistered channel — medium confidence): during an evening
-("Sundowner") bite on bigger-grade bluefin, the crew estimated they had
-**hooked about six of those big ones and landed one**, fishing **40 lb line
-class with a tiny circle hook** — called out live as "really tough." One
-specific loss after a long fight was attributed to the hook pulling free;
-looking at the hook afterward, the crew's read on camera was that it "shot
-through" the 40 lb and wasn't seated right, describing the hook area as
-looking like "a firecracker went off" — kept beside, not merged into, the
-small-hook-pulled-from-a-big-fish pattern already logged in the East Cape
-entries above (same failure mode, different region and gear program).
-Fishing method for this session (kite vs. flyline) is not clearly resolved
-on camera.
+On **40 lb line class with a tiny circle hook**, one crew hooked roughly six
+bigger-grade bluefin in an evening bite and landed one. On the fish lost
+after a long fight, the hook had "shot through" the 40 lb line and wasn't
+seated right — the same small-hook-pull-out failure mode noted in the gear
+class section below, different region and gear program (`nQvJnfb5jQ4`).
 
-## Under-gunned on light tackle vs. a bigger-than-expected grade (backside San Clemente Island)
+## Under-gunned on light tackle vs. a bigger-than-expected grade
 
-**Observed** (StokedOnFishing, trip framed on camera as "this past June"
-(resolved from the 2024-04-26 upload date to **June 2023**), backside San
-Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
-ElDorado," 85 ft **El Dorado**, Captain TJ — same boat/captain as the Cortez
-Bank entry directly above, a different trip/location; unregistered channel —
-medium confidence): a sundown bluefin bite (see
-[bluefin tuna](../species/bluefin-tuna.md) for the full session) turned up a
-grade heavier than the boat had geared for — anglers set up for **50–70 lb**
-fish found themselves fighting **70–90 lb, possibly bigger** bluefin, with
-several anglers still on **30 and 40 lb test** paying the price for it: the
-crew called out multiple "casualties," including at least one **leader
-broken** boatside. On camera the captain framed it as "not ideal, but we're
-making it work" rather than swapping gear mid-bite. A same-pattern data point
-beside the 40 lb/tiny-circle-hook tough hookup-to-landing ratio logged above
-from this boat/captain's Cortez Bank trip — different location, same
-under-gunned-for-the-grade situation.
+A sundown bluefin bite turned up a grade heavier than the boat had geared
+for — anglers set up for 50–70 lb fish found themselves fighting 70–90 lb-plus
+bluefin on 30 and 40 lb test, with multiple leaders broken boatside
+(`r4J5nP5Bkl4`). Two fight-stage reads from the same session, consistent with
+the doctrine above:
 
-- **Fight-stage tell (same session):** live coaching framed a hooked fish
-  coming up shallow/high in the water column mid-fight as a **pre-sound
-  cue** — "those fish come high like that... before they sound out, go back
-  down deep, before they quit on you" — read here as bigger fish surfacing
-  briefly before either making a final deep run or giving up, a fight-stage
-  signal kept beside (not a restatement of) the boat-driven/down-swell
-  doctrine above.
-- **Rail coaching language (same session):** anglers were coached to "spin
-  them up" and "get a bend on it" once a fish was close, and to "walk him
-  down" working it boatside — consistent with, not new beyond, the
-  boat/swell-leverage rail mechanic already logged above (squat-and-stand,
-  wind on the down-swell); on the trip's **night-jig** stretch the same
-  down-swell wind cue was called out live almost verbatim — "wind down when
-  we come down with the swell" — corroborating the up-swell-ease /
-  down-swell-pull cue documented above, this time applied to a jig-hooked
-  fish after dark rather than a daytime kite/flyline fish.
-- A circle-hook hookup earlier in the same trip's kelp-paddy stretch (species
-  not confirmed on camera — see [dorado](../species/dorado.md)) is logged
-  there rather than here.
+- A hooked fish coming up shallow/high in the water column mid-fight reads as
+  a pre-sound cue — bigger fish surface briefly before either making a final
+  deep run or giving up.
+- On a night-jig fish, the same up-swell-ease/down-swell-pull rail cue was
+  called out live almost verbatim, confirming it applies after dark as well
+  as on a daytime kite/flyline fish.
 
 ## One hooked fish at a time on heavy kite/bait tackle
 
-**Observed/attributed** (Capt. Dave Hansen, live seminar, Fred Hall Show 2019
-Part 2, filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12;
-dave-hansen registered voice — medium confidence, single mention on this
-specific point). On this boat's heavy, boat-driven program (**40 lb drag,
-200 lb braid to 400 lb fluoro** — see
-[flying fish harness](../rigging/flying-fish-harness.md)), the crew
-deliberately fishes **one hooked fish at a time** rather than letting two
-rods come tight on big bluefin together.
+On a heavy, boat-driven program (**40 lb drag, 200 lb braid to 400 lb
+fluoro** — see [flying fish harness](../rigging/flying-fish-harness.md)), the
+crew deliberately fishes one hooked fish at a time rather than letting two
+rods come tight on big bluefin together. Landing one 200 lb-plus fish is
+already a full day of work for the boat and crew; two fish hooked
+simultaneously means two fish that can both death-circle at once, doubling
+the boat-handling problem the down-swell walk exists to avoid (`JiJYamo0QHk`).
 
-- Stated reasoning: landing one 200 lb-plus fish is already "a phenomenal
-  day" of work for the boat and crew — two fish hooked simultaneously means
-  two fish both able to death-circle at once, doubling the boat-handling
-  problem the [down-swell walk](#walk-it-down-swell-avoid-the-death-circle)
-  above exists to avoid, and turning a manageable fight into what Hansen
-  calls "a big giant mess." Kept beside, not folded into, the boat-driven
-  fighting doctrine above — this is a program-level rule about how many
-  lines to fish, not about how to fight the one that's on.
-
-## Rod-belt timing — a common way to lose a fish before the fight even starts (Captain Art, SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`, 2021-01-14; `searcher-sportfishing` registered channel — medium confidence, single mention)
+## Rod-belt timing
 
 - **The failure mode:** on the bite, an angler rushes to get the rod seated in
-  a rod belt *before* winding down and coming tight to the fish — while doing
-  that transfer, slack forms and the hook never fully sets, costing the crew
-  fish they see lost specifically in the gap between the bite and the belt.
+  a rod belt before winding down and coming tight to the fish — while making
+  that transfer, slack forms and the hook never fully sets, costing fish in
+  the gap between the bite and the belt.
 - **The fix:** get the line tight and the hook set first — wind down, come
   tight, keep fighting the fish hand-held — and only then, once the fish is
-  hooked and the angler is already winding on it, take the moment to seat the
-  rod in the belt. A rod belt still gets used on this program's bigger
-  bluefin; it's the order of operations that matters, not whether to use one.
-- **Pre-load the belt during the soak, not after the bite:** for an angler who
-  plans to fish a belt, put it on **before** the bite — while a bait is still
-  soaking on the line — rather than searching for a belt and getting it on
-  after a fish is already hooked.
-- **Rail-rod context:** this program fishes a lot of its big bluefin on
-  **rail rods**, reported as producing more success than the belt/harness
-  style overall — consistent with, not new beyond, the beltless rail-rod
-  fighting style already logged in this note (see
-  [Reach for this when](#reach-for-this-when) and the rail-rod fighting
-  sections above); a rod belt remains an angler's own comfort choice on top
-  of that style, not a requirement.
+  hooked and the angler is already winding on it, seat the rod in the belt.
+- **Pre-load the belt during the soak, not after the bite:** an angler who
+  plans to fish a belt should put it on before the bite, while a bait is
+  still soaking, rather than searching for one after a fish is already
+  hooked.
+- This program fishes most of its big bluefin on rail rods, reported as more
+  successful overall than the belt/harness style — consistent with the
+  beltless rail-rod fighting style logged above; a rod belt remains an
+  angler's own comfort choice on top of that style, not a requirement
+  (`shZCjX2-fkI`).
+
+## Gear class
+
+[Rail-rod / heavy-tuna class](../tackle/gear-classes.md) — an 8 ft-class,
+3X-H rod on a two-speed reel, braced on the rail rather than hand-held; the
+gear-tap fight above is built around this class, not a stand-up rod and
+harness. Line class runs **130 lb+ spectra/braid minimum**, up to **200 lb
+braid over 400 lb fluorocarbon** on the heaviest kite/bait programs; drag
+**30–40 lb** when hand-fighting, and largely irrelevant to the gear-tap method
+since the boat — not the drag — does the pulling (`8jC61LzQoxU`). Rod length
+**7.5 ft to about 8 ft 2 in** — long enough to push a circling fish away from
+the hull, short enough to stay manageable (`fgTmUq78ofQ`). A rod belt is
+optional on this gear; a shoulder/back harness is a stamina choice, not a
+functional requirement (`8jC61LzQoxU`). Hook size matters independent of line
+class: a small hook sized for the bait rather than the fish risks pulling
+free of a big tuna mid-fight; a circle hook is the crews' stated fix for
+holding under heavy hand pressure (`_c6UI3lGBVg`, `nQvJnfb5jQ4`).
 
 ## Common failures
 
 - Hand-fighting the fish while expecting the same speed/certainty as the
-  boat-driven method — the captain's view is this is a stamina choice, not a
-  functional upgrade.
+  boat-driven method — a stamina choice, not a functional upgrade.
 - Letting the boat sit broadside in the trough instead of continuously
   working down-swell, making the fight harder to manage and the fish more
   likely to get its head down.
-- Freezing or slacking off at the head-shake, letting the hook fall free right
-  at the end of the fight.
+- Freezing or slacking off at the head-shake, letting the hook fall free
+  right at the end of the fight.
+- Seating a rod belt on the bite instead of after coming tight — the scramble
+  costs the hookset itself.
+- A fighting rod under 7.5 ft, or a small hook sized for the bait rather than
+  the fish, on a bigger-grade bluefin — both raise the odds of a death circle
+  or a pulled hook.
+
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/fighting-big-bluefin.md).
+
+<!-- species-applications:start -->
+## Species applications
+
+<!-- species-applications:end -->
 
 <!-- backlinks:start -->
 ## Linked from
@@ -616,6 +366,7 @@ rods come tight on big bluefin together.
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Fighting a Big Bluefin](evidence/fighting-big-bluefin.md)
 - [Evidence — Guadalupe](../locations/evidence/guadalupe.md)
 - [Evidence — Striped Marlin](../species/evidence/striped-marlin.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
