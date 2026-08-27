@@ -271,6 +271,7 @@ Trip reports and per-source provenance:
 - [Landing Cove](landing-cove.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Osborn Bank](osborn-bank.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Southern California Bight](socal-bight.md)
 - [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md)
 - [The Boot (504) / 307](boot-504-307.md)

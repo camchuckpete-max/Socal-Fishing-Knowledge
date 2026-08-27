@@ -45,6 +45,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Spotted bay bass minimum size | **none** | 2024-11 | [spotted bay bass](../species/spotted-bay-bass.md) | `usHl-4SfqDA` |
 | Pacific bluefin tuna bag limit | 2 per person per day | 2024-11 | [bluefin tuna](../species/bluefin-tuna.md) | `usHl-4SfqDA` |
 | Pacific bluefin tuna bag limit — historical: raised from zero-retention to 2/person/day | 0 → 2 per person per day | 2014 (historical change; verify current limit against the 2024-11 row above) | [bluefin tuna](../species/bluefin-tuna.md) | `ztpj1Xll0-U` |
+| California recreational rockfish season — open most of the year, closes at year-end (roughly Jan–Feb depending on the annual regs and depth constraints) | year-end closure; roughly Jan–Feb | 2026-08 — verify current-year dates and depth limits with CDFW before fishing | [rockfish & lingcod](../species/rockfish-lingcod.md) | — (legacy uncited claim, retained in the v2 migration) |
 | Rockfish closure driving effort to the 43 bank | seasonal closure; bluefin targeted on the same high spot instead | 2020-12 | [rockfish & lingcod](../species/rockfish-lingcod.md), [bluefin tuna](../species/bluefin-tuna.md) | `Rf1HKJG-SDg` |
 | Rockfish depth-limit progression | 300 → 350 → 460 ft, plus a season reopen date | speaker self-hedged; historical | [rockfish & lingcod](../species/rockfish-lingcod.md) | `lF6jQklDCrY` |
 | Spiny lobster — licence, bag, size, gear count, buoy marking, two-person minimum for a full 10-net boat limit | 7/person/day bag limit; see note for the rest | 2026-08 | [California spiny lobster](../species/california-spiny-lobster.md) | `b19_AJjYCok`, `Qs9oEsh3b_w`, `JiJYamo0QHk` |
@@ -60,6 +61,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Whitefish daily allowance stacked on the rockfish bag (same on-camera statement as the rockfish row above, now also carried on the whitefish router) | 10 whitefish/day on top of 10 rockfish/day | 2020-03; live-seminar recollection, verify current before relying on it | [ocean whitefish](../species/ocean-whitefish.md), [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
 | Whitefish access gated by the California groundfish season — a charter operator names the opener package as rockfish, lingcod, whitefish and sheephead | season-gated; no dates or depth line stated for whitefish itself | 2020-03; on-camera interview, verify current season dates and RCA depth line with CDFW | [ocean whitefish](../species/ocean-whitefish.md) | `46ha7J1Fc6A` |
 | Mexican (CONAPESCA) bag limit or size gauge for ocean whitefish — no corpus source states either, and the Ensenada high-spot fish falls under Mexican jurisdiction | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [ocean whitefish](../species/ocean-whitefish.md) | — |
+| Mexican (CONAPESCA) bag limit, size gauge or season for the rockfish/lingcod complex taken off Ensenada, Cedros and San Benito | **unknown — absent from the corpus** | gap flagged 2026-08 — California rockfish regs do not apply in Mexican waters; verify current Mexican limits and the licence/entry paperwork before fishing | [rockfish & lingcod](../species/rockfish-lingcod.md) | — |
 | California / CDFW bag limit or size gauge for Pacific crevalle jack, which would apply to a warm-water stray taken in the Bight | **unknown — absent from the corpus** | gap flagged 2026-08 — verify with CDFW before keeping one | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
@@ -117,6 +119,7 @@ route, and the insurance carriers by name.
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

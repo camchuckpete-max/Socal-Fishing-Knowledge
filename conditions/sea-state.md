@@ -217,6 +217,7 @@ parameter and not a substitute for the observed/forecast pull.
 - [November–December](../seasonal/november-december.md)
 - [Point Loma](../locations/point-loma.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](../locations/san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)
 - [San Juan Seamount](../locations/san-juan-seamount.md)

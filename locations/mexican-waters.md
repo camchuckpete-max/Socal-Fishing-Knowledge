@@ -131,6 +131,7 @@ Trip reports and per-source provenance:
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
 - [Sniffer / West 400 / 300 (The Rampart)](sniffer-west-400-300.md)

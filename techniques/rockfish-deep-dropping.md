@@ -520,6 +520,7 @@ the bite, read before you feel anything through the blank.
 - [475 Knuckle / Upper Finger Bank](../locations/475-knuckle-upper-finger-bank.md)
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
+- [Evidence — Rockfish & Lingcod](../species/evidence/rockfish-lingcod.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

@@ -255,6 +255,7 @@ above; kept as a separate citation rather than merged in.
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spinning Rod for "Minnow-Style" Fishing — Medium/Medium-Light Tip Character (Tackle Express)](../tackle/tackle-express-minnow-rod.md)
 - [Swimbaits](swimbaits.md)

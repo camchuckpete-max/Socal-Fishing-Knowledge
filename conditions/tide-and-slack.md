@@ -123,6 +123,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Moon](moon.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)

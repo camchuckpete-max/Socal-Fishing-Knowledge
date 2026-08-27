@@ -468,6 +468,7 @@ Trip reports and per-source provenance:
 - [Evidence — Colonet](../locations/evidence/colonet.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
+- [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — San Quintin](../locations/evidence/san-quintin.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

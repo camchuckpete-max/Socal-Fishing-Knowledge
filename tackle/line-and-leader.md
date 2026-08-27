@@ -698,6 +698,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)

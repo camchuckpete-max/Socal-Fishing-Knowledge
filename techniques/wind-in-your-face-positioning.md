@@ -120,5 +120,6 @@ wasted soak.
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->

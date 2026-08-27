@@ -198,4 +198,15 @@ harvested.
 | Lighthouse Point (East Cape, Baja California Sur) | species/pacific-crevalle-jack.md | Where & when | beach point with a drop very close to shore; jacks named alongside sharks, roosterfish, dorado and yellowfin tuna, all catchable from the sand; fished by sight, afternoon and night; the sourced session ran ~100 yd off the beach in 30 ft | `mL4Ph7t0WcQ`, `APsnsunT4gM` |
 | East Cape (Baja California Sur) | species/pacific-crevalle-jack.md | Where & when | the only sourced crevalle location; one landed jack crevalle in a mixed morning catch alongside four tuna; circle hook mandatory in this fishery | `84XPJAeH0Rw`, `GptrotE0x5M` |
 | Bahía de los Ángeles (BOLA) | species/pacific-crevalle-jack.md | Where & when | named as the northern end of the stated inshore Cortez range for crevalle — no corpus record of a crevalle there | — (uncited legacy claim) |
+| Santa Cruz Island | species/rockfish-lingcod.md | Where & when | shallow 100-250 ft island hard bottom producing the reds/blue-bass/bocaccio/lingcod variety bag off one rock | `6-8KfjEg0x8` |
+| Santa Rosa Island | species/rockfish-lingcod.md | Where & when | Santa Ana window target for shallow rockfish and lingcod; 20-30 ft clear-water ling sight fishing inside | `Z3rZqy2Pi8E` |
+| San Miguel Island | species/rockfish-lingcod.md | Where & when | limits of reds and lingcod on a Santa Ana weekend; weather-gated crossing | `Z3rZqy2Pi8E` |
+| Santa Barbara Island | species/rockfish-lingcod.md | Where & when | heavy red/vermilion bite on live squid near kelp and a ridge in ~102 ft, red crab on the structure | `SGbynqaiHdY` |
+| Cortez Bank | species/rockfish-lingcod.md | Zone guides | offshore-bank deep rock; ~150 ft ridge drift on the bank edge for reds, and a mid-trip switch from bluefin to lingcod | `fDSd9kqwYW0`, `Y1xeieQI3B4` |
+| Tanner Bank | species/rockfish-lingcod.md | Zone guides | named with Cortez as the offshore-bank deep-rock zone for bigger reds | `Y1xeieQI3B4` |
+| Ensenada | species/rockfish-lingcod.md | Zone guides | rocky bottom dropping to ~300 ft producing reds, bocaccio and multiple lingcod on split slow-pitch / dead-bait dropper crews | `0dIwWiOc1NY` |
+| Hotel Coral high spot (~7-8 mi out, Ensenada) | species/rockfish-lingcod.md | evidence - Ensenada | high spot cresting ~25 ft from ~200 ft; multiple lingcod plus a "rock bass"/"tree fish" | `CKq0Z6ExVs4` |
+| San Benito Island | species/rockfish-lingcod.md | Zone guides | 200 ft jagged rocky drift for lingcod and red rockfish; high terminal-tackle snag risk | `ilINTeknKB4` |
+| 43 bank | species/rockfish-lingcod.md | Regulations | fell inside a closed rockfish area, shifting effort on the same high spot to bluefin | `Rf1HKJG-SDg` |
+| Cow Cod Conservation Area | species/rockfish-lingcod.md | Regulations | depth restriction loosened in 2023 to 600 ft with two hooks inside the zone; cow cod itself no-retain | `AH4Eiya1Hn0` |
 <!-- review:harvest:end -->

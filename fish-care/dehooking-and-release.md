@@ -195,4 +195,5 @@ given other implausible on-camera claims.
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 <!-- backlinks:end -->

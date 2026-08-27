@@ -260,6 +260,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ocean-whitefish
 - [California Sheephead](sheephead.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Ocean Whitefish](evidence/ocean-whitefish.md)
+- [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](rockfish-lingcod.md)

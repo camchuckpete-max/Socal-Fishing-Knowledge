@@ -327,6 +327,7 @@ anglers skip.
 - [Night Bass Fishing](night-bass-fishing.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
 - [Point Loma](../locations/point-loma.md)
+- [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Sea of Cortez](../locations/sea-of-cortez.md)
 - [Spinnerbaits (Bay Bass)](spinnerbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

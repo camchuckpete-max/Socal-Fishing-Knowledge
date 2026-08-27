@@ -23,7 +23,7 @@ by their builders after the transform phase drains.
 | species/ocean-whitefish.md | full | transformed | gaps(6), stubs(6), fact-check(2), misplaced(1), spots(5), reg-claims(3), asr-uncertain(3) | apply-with-changes: v2 skeleton complete, evidence split conserves all four before-state observations, 14 new cited sources added; 4 verifier fixes |
 | species/opah.md | full | transformed | gaps(9), spots(1), reg-claims(0), asr-uncertain(1), fact-check(3) | apply-with-changes: faithful transform, 5 outside-knowledge/causal-inference fixes applied by verifier |
 | species/pacific-crevalle-jack.md | full | transformed | gaps(9), stubs(2), spots(3), reg-claims(3), fact-check(5), asr-uncertain(3) | apply-with-changes: faithful v2 migration + evidence split; verifier added sourced terminal-tackle spec and rescoped 3 flags |
-| species/rockfish-lingcod.md | full | pending |  |  |
+| species/rockfish-lingcod.md | full | transformed | gaps(5), stubs(5), misplaced(1), spots(11), reg-claims(2), fact-check(3), spinout(1), asr-uncertain(3) | apply-with-changes: faithful v2 migration + evidence split; verifier fixed one hedge-hardened-into-doctrine row |
 | species/sand-bass.md | full | pending |  |  |
 | species/sheephead.md | full | pending |  |  |
 | species/skipjack-tuna.md | full | pending |  |  |

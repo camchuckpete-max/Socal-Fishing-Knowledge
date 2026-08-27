@@ -453,6 +453,7 @@ terms until it lands.
 - [Colonet](../locations/colonet.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
+- [Evidence — Rockfish & Lingcod](../species/evidence/rockfish-lingcod.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](../tackle/jig-rod-rating-selection.md)
 - [Knife / Speed Jigging](knife-jigging.md)
