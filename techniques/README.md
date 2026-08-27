@@ -18,7 +18,7 @@
 - [Flat-Fall Jigging](flat-fall-jigging.md) **[SoCal only]** — A free-spool-and-count presentation for large bluefin tuna marked deep: drop the jig on slack line, let it fall to the bite zone, and work it in partial up-and-
 - [Flyline](flyline.md) — Execution for flylining live bait: a hooked live bait fished with no weight, left to swim on its own out and away from the boat.
 - [Foamer Casting](foamer-casting.md) — Run-and-gun casting to breaking tuna — pulling up on a spot of foaming fish and putting a lure into it before the school sinks out.
-- [Glide Baits](glide-baits.md) **[SoCal only]** — A glide bait is a large, hard-bodied, jointed swimbait that kicks side-to-side on the pause — the European pike/musky-derived class (DS Prestos, Jackal, Gucci-s
+- [Glide Baits](glide-baits.md) **[SoCal only]** — A glide bait is a large, hard-bodied, jointed swimbait that kicks side-to-side on the pause — the European pike/musky-derived class (named brands: DS Prestos, J
 - [Hoop Netting](hoop-netting.md) **[SoCal only]** — The method for California spiny lobster: baited rigid hoop nets dropped on rocky structure at night, soaked, then pulled and reset to cover ground.
 - [Inshore Crankbaits](inshore-crankbaits.md) **[SoCal only]** — Cast-and-wind hard baits for the SoCal bass program — bays, flats, channel edges, and open-coast kelp lanes.
 - [Kayak Bass Fishing](kayak-bass-fishing.md) **[SoCal only]** — Small-craft-specific execution for working calico bass and sand bass structure from a kayak — covering ground, using kelp as an anchor, and working boiler rocks
