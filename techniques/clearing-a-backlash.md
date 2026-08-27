@@ -5,15 +5,17 @@ sources: [Vl0BuetK2D0]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+gear_classes: any baitcast or conventional (revolving-spool) reel — not spinning
+depth_band: not applicable — a reel-recovery method worked at the rail, not scoped to a fishing depth
+retrieve_speed: not applicable — reel-recovery method, no presentation retrieve
 ---
 
 # Clearing a Backlash
 
-The fix for a backlash (bird's nest) on a baitcasting or conventional reel by
-hand-tensioning the tangled line back out, rather than cutting it out and
-re-tying or re-spooling. (Tackle Express, "How to Fix a Backlash Without
-Losing Your Mind," `Vl0BuetK2D0`, 2025-07-31; unregistered channel, single
-mention — medium confidence.)
+Clearing a backlash frees a tangled baitcast or conventional spool by
+hand-tensioning the snarled line back out, rather than cutting the tangle out
+and re-tying or re-spooling (`Vl0BuetK2D0`).
 
 ## Reach for this when
 
@@ -27,19 +29,36 @@ mention — medium confidence.)
 
 ## Mechanics
 
-- **Put the reel in gear** — not free spool — before working the tangle.
-- **Back the drag almost all the way off**, leaving just a little tension on
-  the line rather than none at all.
-- **No thumb on the spool at all** while working the backlash free — thumb
-  pressure is what caused the jam in the first place and will only make it
-  worse here.
-- **Slowly pull the line straight out** by hand.
-- **When it catches on a wrap or loop, roll back and clear that specific
-  loop** before continuing to pull.
-- **Keep working back toward the main line**, freeing each catch as you reach
-  it, until the whole tangle is out.
-- **Once it's clear, grab the line above the reel, tighten the drag back to
-  where it needs to be for fishing, and wind the slack back onto the spool.**
+- Put the reel in gear — not free spool — before working the tangle
+  (`Vl0BuetK2D0`).
+- Back the drag almost all the way off, leaving a little tension on the line
+  rather than none at all (`Vl0BuetK2D0`).
+- Keep the thumb off the spool entirely while working the backlash free —
+  thumb pressure is what caused the jam and only cinches it tighter here
+  (`Vl0BuetK2D0`).
+- Pull the line straight out by hand, slowly (`Vl0BuetK2D0`).
+- When it catches on a wrap or loop, roll back and clear that specific loop
+  before continuing to pull (`Vl0BuetK2D0`).
+- Keep working back toward the main line, freeing each catch as it's reached,
+  until the whole tangle is out (`Vl0BuetK2D0`).
+- Once clear, grab the line above the reel, tighten the drag back to fishing
+  tension, and wind the slack back onto the spool (`Vl0BuetK2D0`).
+
+## Gear class
+
+Applies to any [baitcast or conventional](../tackle/gear-classes.md) (revolving-spool)
+reel class — surface-iron/jig-stick, yo-yo/heavy-iron, rail-rod, and utility
+inshore/baitcast classes all backlash the same way and clear the same way.
+Spinning reels don't overrun the same way (no revolving spool to backlash), so
+this method doesn't apply there.
+
+## Common failures
+
+- Thumbing the spool while clearing the tangle re-applies the pressure that
+  caused the backlash, cinching loops tighter instead of freeing them — this
+  is why the method calls for no thumb contact during the pull (`Vl0BuetK2D0`).
+- ⚠ Flagged gap — no corpus source: how to tell when a backlash is wound too
+  tight to clear by hand and should be cut out instead.
 
 ## Related
 
@@ -52,6 +71,10 @@ mention — medium confidence.)
   a dental pick for freeing small wind-knot loops left in braid; this note's
   hand-tension method is for a full backlash rather than an isolated loop.
 
+<!-- species-applications:start -->
+## Species applications
+
+<!-- species-applications:end -->
 
 <!-- backlinks:start -->
 ## Linked from

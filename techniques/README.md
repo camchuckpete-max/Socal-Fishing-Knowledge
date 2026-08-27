@@ -8,7 +8,7 @@
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md) **[SoCal only]** — A single lever controls how deep a lure runs while beach/surf casting, without swapping lures: rod-tip angle and height during the retrieve (QJd7A6oiV4U).
 - [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling move for a SoCal live-bait sportboat (half-day through multi-day trips): rig a spare rod with a swimbait/jig built on a double-collar keeper
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.
-- [Clearing a Backlash](clearing-a-backlash.md) — The fix for a backlash (bird's nest) on a baitcasting or conventional reel by hand-tensioning the tangled line back out, rather than cutting it out and re-tying
+- [Clearing a Backlash](clearing-a-backlash.md) — Clearing a backlash frees a tangled baitcast or conventional spool by hand-tensioning the snarled line back out, rather than cutting the tangle out and re-tying
 - [Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md) — A castable, daytime-only finesse presentation for bluefin and yellowfin tuna that are feeding on small bait and won't commit to the bigger, "crazy looking" lure
 - [Deep-Drop Swordfishing (daytime)](deep-drop-swordfishing.md) **[SoCal only]** — Execution for daytime broadbill: a dead bait presented in or just below the deep scattering layer on deep contour structure, on a slow drift, with a breakaway l
 - [Drop Shot](drop-shot.md) **[SoCal only]** — Execution for the drop shot: the hook is tied up the line and the weight hangs below on a tag end, so the bait is suspended a fixed height just above the bottom
