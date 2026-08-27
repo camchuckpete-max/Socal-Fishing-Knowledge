@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2089 flagged gaps, 250 flagged stubs, 985 unknown infobox values._
+_Totals: 2106 flagged gaps, 267 flagged stubs, 992 unknown infobox values._
 
 ## species/
 
@@ -61,9 +61,51 @@ _Totals: 2089 flagged gaps, 250 flagged stubs, 985 unknown infobox values._
   - infobox `sst_band_f`: unknown
   - infobox `sonar_depth`: unknown
 - **species/cabrilla.md**
-  - `Finding them (sign & sonar)`: flagged stub row
-- **species/california-halibut.md**
+  - `Where & when`: gap — a month-by-month presence or temperature
+  - `Presence & forage`: gap — the forage species cabrilla eat by name,
+  - `Spawning`: gap — when, where or how cabrilla spawn.
+  - `Feeding triggers`: gap — mechanism — why light penetration flips
+  - `Feeding triggers`: gap — tide, slack-water, current or moon-phase
+  - `Finding them (sign & sonar)`: gap — a sonar signature or arc depth for
   - `Situations → techniques`: flagged stub row
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — Mexican (CONAPESCA) bag limit, size gauge
+  - `Landing & handling`: gap — whether cabrilla brought up from the
+  - `Landing & handling`: gap — chilling parameters or ikejime for
+  - infobox `scientific_name`: unknown
+  - infobox `season_peak`: unknown
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
+- **species/calico-bass.md**
+  - `Presence & forage`: gap — crustacean or benthic forage, and any
+  - `Spawning`: gap — the calendar window of the SoCal spawn, and
+  - `Feeding triggers`: gap — mechanism — the
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — Mexican (CONAPESCA) size or bag limits for
+  - `Landing & handling`: gap — whether calico from the deeper 80–100 ft
+  - infobox `scientific_name`: unknown
+- **species/california-halibut.md**
+  - `Spawning`: gap — spawning months, water temperature, or how
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — the California (CDFW) bag limit for
+  - `Landing & handling`: gap — bleeding, chilling or ikejime parameters
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
 - **species/snook.md**
   - `Finding them (sign & sonar)`: flagged stub row
 - **species/yellowtail-coronado-islands.md**
