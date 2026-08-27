@@ -27,7 +27,7 @@ by their builders after the transform phase drains.
 | species/sand-bass.md | full | transformed | gaps(4), spots(9), spinout(2), reg-claims(1), asr-uncertain(3) | apply-with-changes — conservation clean, 12 router rows, evidence split faithful; verifier fixed one unsupported detail, one hardened hedge, one mis-cite, added a mandated tide trigger, converted an unsituated SPJ row into the cited deep-spot jig situation |
 | species/sheephead.md | full | transformed | gaps(7), stubs(6), fact-check(1), spots(9), reg-claims(3), spinout(2), asr-uncertain(1) | apply-with-changes — conservation clean (5 prior source ids + 3 Observed blocks traced), check-note OK, 0 dead links; 4 verifier fixes: invented jig type, two title-only claims stated as doctrine, one mis-scoped cite, two missing zone stubs |
 | species/skipjack-tuna.md | full | transformed | gaps(7), stubs(6), misplaced(1), spots(8), reg-claims(1), fact-check(1), asr-uncertain(2) | apply-with-changes — conservation clean (6 pre-existing cites + both Observed blocks land in the note/evidence pair, legacy grade claim retained under flag), 4 cite-accuracy fixes applied |
-| species/snook.md | full | pending |  |  |
+| species/snook.md | full | transformed | gaps(6), misplaced(1), spots(3), reg-claims(1), spinout(0), asr-uncertain(25 vs 35 lb mangrove fluorocarbon; snook mouth-abrasion mechanism; 40 lb snook species pairing) | apply-with-changes: conservation clean, 8-source expansion corpus-verified, two overreaching synthesis claims tightened to their sources |
 | species/spotted-bay-bass.md | full | pending |  |  |
 | species/striped-marlin.md | full | pending |  |  |
 | species/swordfish.md | full | pending |  |  |

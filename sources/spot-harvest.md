@@ -235,4 +235,7 @@ harvested.
 | "La Rasa" high spot (Bahía de los Ángeles) | species/skipjack-tuna.md | evidence — Presence & forage | the 40–60 ft high spot named on camera for that stop; asr-uncertain rendering, no charted position in the KB | `odiIWmut6gM` |
 | Loreto / Puerto Escondido | species/skipjack-tuna.md | evidence — Situations → techniques | a skipjack coming up on a slow-troll kept for chunk bait | `n4nMCLLW3tY` |
 | Pyramid Head (San Clemente Island) | species/skipjack-tuna.md | evidence — Presence & forage | the destination of the offshore SoCal leg on which the "don't leave a skipjack school" and paddy-turnover trip tips were given | `Ow3an9lSVh4` |
+| Lopez Mateos / Magdalena Bay | species/snook.md | Where & when | the corpus's only snook fishery; mangrove interior 2-15 ft, estuary channel 25-30 ft, boca 40-50 ft, biting year-round with no month-by-month pattern given | `EcQK5elTPJE`, `dlxA22FVNGc`, `isXJONlpUP4` |
+| The boca (Magdalena Bay entrance) | species/snook.md | Where & when | about five minutes from the dock in 40-50 ft; produces snook to 42 lb and grouper to 100 lb on a Carolina rig | `EcQK5elTPJE` |
+| Magdalena Bay estuary channel | species/snook.md | Situations → techniques | 25-30 ft off the mangrove edge; a snook taken on a white bucktail popped off the bottom, and a heavy fish lost into the roots on a small-lure troll | `OVwqUKim9Pc`, `isXJONlpUP4` |
 <!-- review:harvest:end -->

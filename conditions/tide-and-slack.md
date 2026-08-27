@@ -126,6 +126,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Moon](moon.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
+- [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)

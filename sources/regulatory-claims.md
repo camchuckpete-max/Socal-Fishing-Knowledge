@@ -86,6 +86,7 @@ recorded so the figure isn't mistaken for a verified limit:
 | Cabrilla / leopard grouper bag limit, size gauge or closed season (CONAPESCA) | ⚠ Flagged gap — no corpus source; no figure recorded | 2026-08 | [cabrilla](../species/cabrilla.md) | — |
 | Circle hook mandatory (Baja California Sur sportfishing) — same on-camera statement as the flyline row above, now also carried on the crevalle router because the East Cape fishery is where every corpus crevalle record comes from | circle hook required | 2019-02-13 | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | `GptrotE0x5M` |
 | Mexican (CONAPESCA) bag limit, size gauge or closed season for Pacific crevalle jack | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
+| Mexican (CONAPESCA) bag limit, size gauge or closed season for snook / robalo at Magdalena Bay / Lopez Mateos | ⚠ Flagged gap — no corpus source; no figure recorded | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [snook](../species/snook.md) | — |
 
 **Not a regulation — an operator agreement, kept distinct:**
 
@@ -126,6 +127,7 @@ route, and the insurance carriers by name.
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Snook (Robalo)](../species/snook.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

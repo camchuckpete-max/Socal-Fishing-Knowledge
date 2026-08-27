@@ -198,4 +198,5 @@ given other implausible on-camera claims.
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Snook (Robalo)](../species/snook.md)
 <!-- backlinks:end -->

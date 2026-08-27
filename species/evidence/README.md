@@ -20,6 +20,7 @@
 - [Evidence — Barred Sand Bass](sand-bass.md) — Trip reports and per-source provenance backing sand bass.
 - [Evidence — California Sheephead](sheephead.md) — Trip reports and per-source provenance backing California sheephead.
 - [Evidence — Skipjack Tuna](skipjack-tuna.md) — Per-source provenance backing skipjack tuna.
+- [Evidence — Snook (Robalo)](snook.md) — Per-source provenance backing snook.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -46,12 +47,13 @@ graph LR
   n13["Evidence — Barred Sand Bass"]
   n14["Evidence — California Sheephead"]
   n15["Evidence — Skipjack Tuna"]
-  n16["Evidence — Yellowtail — surface iron"]
-  n17["Evidence — Yellowtail"]
+  n16["Evidence — Snook (Robalo)"]
+  n17["Evidence — Yellowtail — surface iron"]
+  n18["Evidence — Yellowtail"]
   n11 --> n8
   n13 --> n5
   n14 --> n12
-  n14 --> n17
+  n14 --> n18
   n14 --> n5
   n14 --> n9
 ```

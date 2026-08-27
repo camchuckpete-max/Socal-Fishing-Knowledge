@@ -205,6 +205,7 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Snook (Robalo)](snook.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)

@@ -364,6 +364,7 @@ instead.
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Search and Glassing](../planning/search-and-glassing.md)
+- [Snook (Robalo)](snook.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Spinnerbaits (Bay Bass)](../techniques/spinnerbaits.md)
 - [Swimbaits](../techniques/swimbaits.md)
