@@ -41,4 +41,5 @@ A charted spot at **32°45.930'N 117°16.278'W** (cameron), in the [San Diego ar
 ## Linked from
 
 - [San Diego Artificial Reefs](san-diego-artificial-reefs.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

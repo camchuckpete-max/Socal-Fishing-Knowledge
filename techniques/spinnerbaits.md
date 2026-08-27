@@ -111,6 +111,7 @@ finesse plastics.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Spotted Bay Bass](../species/evidence/spotted-bay-bass.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)

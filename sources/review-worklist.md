@@ -28,7 +28,7 @@ by their builders after the transform phase drains.
 | species/sheephead.md | full | transformed | gaps(7), stubs(6), fact-check(1), spots(9), reg-claims(3), spinout(2), asr-uncertain(1) | apply-with-changes — conservation clean (5 prior source ids + 3 Observed blocks traced), check-note OK, 0 dead links; 4 verifier fixes: invented jig type, two title-only claims stated as doctrine, one mis-scoped cite, two missing zone stubs |
 | species/skipjack-tuna.md | full | transformed | gaps(7), stubs(6), misplaced(1), spots(8), reg-claims(1), fact-check(1), asr-uncertain(2) | apply-with-changes — conservation clean (6 pre-existing cites + both Observed blocks land in the note/evidence pair, legacy grade claim retained under flag), 4 cite-accuracy fixes applied |
 | species/snook.md | full | transformed | gaps(6), misplaced(1), spots(3), reg-claims(1), spinout(0), asr-uncertain(25 vs 35 lb mangrove fluorocarbon; snook mouth-abrasion mechanism; 40 lb snook species pairing) | apply-with-changes: conservation clean, 8-source expansion corpus-verified, two overreaching synthesis claims tightened to their sources |
-| species/spotted-bay-bass.md | full | pending |  |  |
+| species/spotted-bay-bass.md | full | transformed | gaps(3), spinout(2), spots(9), reg-claims(1), fact-check(1 - eyelids/shade single-source), asr-uncertain(bait brand 'war bait'; suspension-vs-bottom depth split; 'the sunset wall') | apply-with-changes: layout v2 skeleton, ~120 new cited lines from YgqXf9iICyg, evidence split created, 1 conservation gap repaired |
 | species/striped-marlin.md | full | pending |  |  |
 | species/swordfish.md | full | pending |  |  |
 | species/wahoo.md | full | pending |  |  |

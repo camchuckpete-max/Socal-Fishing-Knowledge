@@ -444,6 +444,7 @@ current "should" carry everything astern.
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Spotted Bay Bass](../species/evidence/spotted-bay-bass.md)
 - [Fleet Intelligence](fleet-intelligence.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Guadalupe](../locations/guadalupe.md)

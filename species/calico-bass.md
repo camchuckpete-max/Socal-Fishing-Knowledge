@@ -399,6 +399,7 @@ Trip reports and per-source provenance:
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — San Nicolas Island](../locations/evidence/san-nicolas-island.md)
+- [Evidence — Spotted Bay Bass](evidence/spotted-bay-bass.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

@@ -199,4 +199,5 @@ given other implausible on-camera claims.
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 <!-- backlinks:end -->

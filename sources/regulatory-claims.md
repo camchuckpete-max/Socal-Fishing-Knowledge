@@ -128,6 +128,7 @@ route, and the insurance carriers by name.
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Snook (Robalo)](../species/snook.md)
+- [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->
