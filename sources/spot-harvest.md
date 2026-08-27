@@ -139,5 +139,6 @@ harvested.
 | "Rink on area" (East Cape) | locations/east-cape.md | Spots | the stretch where the fleet's boats stack up on the offshore troll; ASR-garbled, unresolved | `84XPJAeH0Rw` |
 | "Ciraolo island" (East Cape bait run) | locations/east-cape.md | Spots | an island the fleet runs to for sardines when local bait is poor; ASR-garbled, unresolved, and may lie outside the zone | `APsnsunT4gM` |
 | The beach in front of Buena Vista Beach Resort | locations/east-cape.md | Spots | a ~20 lb dorado ate a live sardine ~100 yards off the sand in ~30 ft; rocks down the coast toward the resort get rip baits on the way home when the weather picks up | `APsnsunT4gM` |
-
+| Bahía de los Ángeles (BOLA / Bay of LA) | species/cabrilla.md | Where & when | the corpus's principal cabrilla ground — panga and mothership trips working shoreline rock, boiler rocks and vertical walls; cabrilla out-produced yellowtail on a May tournament day, and surface-foaming schools of 5–15 lb fish were worked here | `EmZO8QiOfik`, `dEPuDrhoClM`, `0dNfsle54Wo`, `T3cEQUqiH8E`, `6P34jI9q1tE`, `wX7jUycIJ-U` |
+| Loreto / Puerto Escondido | species/cabrilla.md | Where & when | the corpus's only cabrilla record south of BOLA and its shallowest documented depth — fish taken on a jerkbait in 5–10 ft off Isla Monserrat | `n4nMCLLW3tY` |
 <!-- review:harvest:end -->

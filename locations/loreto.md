@@ -251,6 +251,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cortez South](cortez-south.md)
 - [East Cape](east-cape.md)
 - [Evidence — Loreto & Puerto Escondido](evidence/loreto.md)

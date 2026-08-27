@@ -8,7 +8,7 @@
 - [Bluefin Tuna — trolling](bluefin-tuna-trolling.md) **[SoCal only]** — Which towed presentation to pull for SoCal bluefin, and when.
 - [Bluefin Tuna](bluefin-tuna.md) — Pacific bluefin run sub-30 lb schoolies to 300 lb+ cows in the same season off SoCal and northern Baja, and grade is unpredictable trip to trip — which is why b
 - [Pacific Bonito](bonito.md) — Bonito are the fast, small-grade member of the SoCal "three B's" — bass, barracuda, bonito — taken in packs that boil outside the kelp and over the offshore ban
-- [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Region: Baja — Sea of Cortez / Bay of LA (BOLA), panga fishery.
+- [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Cabrilla is the leopard grouper of the Sea of Cortez (dEPuDrhoClM), fished from pangas as a cast-and-burn program: the fish sits on rock and is pulled off it by
 - [Calico Bass (Kelp Bass)](calico-bass.md) — The signature SoCal inshore ambush predator: a kelp- and reef-dweller that sits on a defined structure edge and eats what the current sweeps past it.
 - [California Halibut](california-halibut.md) — A flatfish you catch by out-thinking the sand, not by covering it.
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — SoCal's "bug" fishery — caught recreationally by hoop netting rocky structure and kelp edges at night during the fall–winter season.
@@ -110,6 +110,7 @@ graph LR
   n3 --> n0
   n3 --> n25
   n3 --> n5
+  n4 --> n5
   n5 --> n0
   n5 --> n13
   n5 --> n17

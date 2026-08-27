@@ -348,6 +348,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Cortez North](cortez-north.md)
 - [Evidence — Bahía de los Ángeles](evidence/bahia-de-los-angeles.md)

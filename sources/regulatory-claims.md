@@ -71,6 +71,7 @@ recorded so the figure isn't mistaken for a verified limit:
 | Circle hook mandatory (Baja California Sur sportfishing) | circle hook required | 2019-02-13 | [flyline](../techniques/flyline.md) | `GptrotE0x5M` |
 | Guadalupe Island is inside a reserve — access needs the reserve open, on top of the operator's permit | permit + reserve open + port of Ensenada clearable | 2021-01-14 | [Guadalupe](../locations/guadalupe.md) | `shZCjX2-fkI` |
 | Guadalupe reserve closed for public-health reasons, 2020, by the health department in Ensenada; the port of Ensenada was closed with it | no access that year | 2021-01-14 | [Guadalupe](../locations/guadalupe.md) | `shZCjX2-fkI` |
+| Cabrilla / leopard grouper bag limit, size gauge or closed season (CONAPESCA) | ⚠ Flagged gap — no corpus source; no figure recorded | 2026-08 | [cabrilla](../species/cabrilla.md) | — |
 
 **Not a regulation — an operator agreement, kept distinct:**
 
@@ -93,6 +94,7 @@ route, and the insurance carriers by name.
 - [43 / 91 / 300](../locations/43-91-300.md)
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

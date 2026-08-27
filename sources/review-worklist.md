@@ -15,7 +15,7 @@ by their builders after the transform phase drains.
 | species/bluefin-tuna-trolling.md | full | transformed |  | retyped species-technique + reshaped to the v2.2 skeleton (supervised exemplar); cite conservation verified |
 | species/bluefin-tuna.md | full | transformed | gaps(5), misplaced(1), spots(22), reg-claims(3), fact-check(4), zone-stubs(5), asr-uncertain(7) | escalate(apply): verified and applied with three fixes - conservation restoration (ouBrIdO7d4k), meaning-drift correction (HueC1KHrcVw temperature), cite-scoping (ftEvyfwjZFU red crab) |
 | species/bonito.md | full | transformed | gaps(10), zone-stubs(7), fact-check(3), misplaced(1), spots(12), reg-claims(2), asr-uncertain(3) | transform verified and applied with date-attribution corrections; 162->272 lines + 207-line evidence file, 11 sources appended, 1 flagged stub resolved |
-| species/cabrilla.md | full | pending |  |  |
+| species/cabrilla.md | full | transformed | gaps(9), misplaced(1), spots(2), reg-claims(1), spinout(2), factcheck(2), asr-uncertain(2) | transform verified, applied with 5 fixes: 2 drift corrections, 1 restored conflict position, 2 pairing/format fixes |
 | species/calico-bass.md | full | pending |  |  |
 | species/california-halibut.md | full | pending |  |  |
 | species/california-spiny-lobster.md | full | pending |  |  |

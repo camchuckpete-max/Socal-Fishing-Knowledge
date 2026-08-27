@@ -147,6 +147,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
+- [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [Coronado Islands](../locations/coronado-islands.md)

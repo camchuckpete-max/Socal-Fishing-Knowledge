@@ -670,6 +670,7 @@ release *ethic* and the regional policies are below.
 - [Bass Structure](../locations/bass-structure.md)
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
 - [Break Walls, Jetties and Riprap](../locations/breakwalls-jetties-riprap.md)
+- [Cabrilla (Leopard Grouper)](cabrilla.md)
 - [California Barracuda](barracuda.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
