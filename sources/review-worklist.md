@@ -50,7 +50,7 @@ by their builders after the transform phase drains.
 | techniques/flyline.md | standard | escalated |  | escalated: guard: out of scope for 'review: techniques/flyline.md': locations/la-paz.md |
 | techniques/foamer-casting.md | standard | transformed | spots(3) | transform applied with one evidence-grouping fix; escalated a resolved retrieve-speed conflict for Cameron |
 | techniques/glide-baits.md | standard | transformed | gaps(2) | restructured to v2 technique skeleton, dissolved source-named heading, moved attribution preamble to cites, added infobox; verified with fix (restored dropped tube-bait-fishing.md link) |
-| techniques/hoop-netting.md | standard | pending |  |  |
+| techniques/hoop-netting.md | standard | transformed | spots(4), reg-claims(1) | migrated to layout v2: restructured to technique skeleton, dissolved source-named headings, moved Observed block to evidence, added regulations/infobox; verified with 4 fixes (restored dropped statistic, restored altered direct quote, restored dropped contrast claim, removed leftover reconciliation-machinery phrase) |
 | techniques/inshore-crankbaits.md | standard | pending |  |  |
 | techniques/kayak-bass-fishing.md | standard | pending |  |  |
 | techniques/kite-fishing.md | standard | pending |  |  |

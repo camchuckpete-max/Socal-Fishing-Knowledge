@@ -316,4 +316,8 @@ harvested.
 | Channel Islands | techniques/foamer-casting.md | Retrieve mechanics | small, heavy-profile lead baits (Daiwa SK jig, Shimano Colt Sniper, RW Peanuts) worked a fleet foamer trip when full-day boats weren't yet connecting | `42A8Owhc8fw` |
 | Catalina Island (west end) | techniques/foamer-casting.md | evidence — Retrieve mechanics | crew bombed a Colt Sniper into a showing bluefin school and dragged it through, with a flylined bait rigged as backup once the boat drifted on the fish | `M7BtON4GZgQ` |
 | East Cape | techniques/foamer-casting.md | evidence — The approach | crew veered off toward a smaller separate patch of surface activity before continuing to a known pack of working boats; it turned out to be biting | `84XPJAeH0Rw` |
+| Mission Bay (San Diego) | techniques/hoop-netting.md | Rope length — match it, don't over-carry it | working rope section sized to the home spot's ~25-35 ft typical depth | `Qs9oEsh3b_w` |
+| San Diego Bay | techniques/hoop-netting.md | Rope length — match it, don't over-carry it | extension "rope shot" kept spare for occasional deeper drops, as deep as ~55 ft | `Qs9oEsh3b_w` |
+| Catalina Island | techniques/hoop-netting.md | Setting discipline / evidence — Bait | multi-spot soak-and-pull start example; DIY PVC bait tube run in 20-30 ft off a 65-ft Hatteras with no sea-lion problems since switching | `EiItVWqFMYc`, `YQsbwfQ4wzY` |
+| Long Beach Harbor | techniques/hoop-netting.md | evidence — Retrieval | live hoop-netting stream recounting a possible U.S.-record lobster lost mid-retrieval | `Q196GVwVqro` |
 <!-- review:harvest:end -->
