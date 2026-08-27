@@ -820,6 +820,7 @@ Cameron's owned plugs (attributed `cameron`; full list in
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — Foamer Casting](../techniques/evidence/foamer-casting.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)

@@ -313,4 +313,7 @@ harvested.
 | Cortez Bank | techniques/fighting-big-bluefin.md | Tough hookup-to-landing ratio on 40 lb tackle | evening "Sundowner" bite on bigger-grade bluefin, ~6 hooked and 1 landed on 40 lb line with a tiny circle hook | `nQvJnfb5jQ4` |
 | Cedros Island | techniques/fighting-big-bluefin.md | evidence — Sea lion depredation | a hooked yellowtail grabbed boatside and pulled back into the water by a sea lion ("the Lobo") while being bled over the rail | `d0yGBQDeY_4` |
 | East Cape | techniques/fighting-big-bluefin.md | Handing off a tiring angler | live mid-fight coaching on a big tuna to hand the rod to a teammate rather than fight fatigued | `_c6UI3lGBVg` |
+| Channel Islands | techniques/foamer-casting.md | Retrieve mechanics | small, heavy-profile lead baits (Daiwa SK jig, Shimano Colt Sniper, RW Peanuts) worked a fleet foamer trip when full-day boats weren't yet connecting | `42A8Owhc8fw` |
+| Catalina Island (west end) | techniques/foamer-casting.md | evidence — Retrieve mechanics | crew bombed a Colt Sniper into a showing bluefin school and dragged it through, with a flylined bait rigged as backup once the boat drifted on the fish | `M7BtON4GZgQ` |
+| East Cape | techniques/foamer-casting.md | evidence — The approach | crew veered off toward a smaller separate patch of surface activity before continuing to a known pack of working boats; it turned out to be biting | `84XPJAeH0Rw` |
 <!-- review:harvest:end -->

@@ -198,3 +198,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-27T21:37:46Z — techniques/flyline.md — guard-violation
 - run: 33112147658
 - reason: commit 2293d5a775af3757df90073ec51726d1e310c55e reverted: out of scope for 'review: techniques/flyline.md': locations/la-paz.md
+
+## 2026-08-27T21:54:42Z — techniques/foamer-casting.md — verify-escalate
+- run: 33112147658
+- reason: The before-text explicitly flagged the surface-iron retrieve speed as a not-reconciled conflict (burn-it-back vs. wind-it-real-slow). The transform rewrote it into a decision rule (default to burn, drop to real-slow as tough-foamer fallback) — well-grounded in AodUBhxPts8 but resolves a conflict the source note deliberately left open. Cameron should confirm this reframing is intended.
