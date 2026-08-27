@@ -224,7 +224,6 @@ Trip reports and per-source provenance: [evidence file](evidence/flat-fall-jiggi
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Iron Jigs](../lures/iron-jigs.md)
-- [Knife / Speed Jigging](knife-jigging.md)
 - [Knife Jigs](../lures/knife-jigs.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

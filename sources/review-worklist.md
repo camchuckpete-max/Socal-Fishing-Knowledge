@@ -54,7 +54,7 @@ by their builders after the transform phase drains.
 | techniques/inshore-crankbaits.md | standard | transformed | spinout(1) | transform applied with 3 fixes (hedge-hardening x2, invented flag) |
 | techniques/kayak-bass-fishing.md | standard | transformed | spots(2) | transform verified, one style fix applied (meta-attribution phrase) |
 | techniques/kite-fishing.md | standard | transformed | spots(8), asr-uncertain(cat's-paw knot name, ~75ft payout knot function, tagline attachment mechanism, mph-to-knots conversion) | transform verified, 5 defects fixed in-tree (1 fabricated figure, 1 internal contradiction, 2 style-guide v2.1 violations, 1 dropped link) |
-| techniques/knife-jigging.md | standard | pending |  |  |
+| techniques/knife-jigging.md | standard | transformed | spots(2), spinout(1) | transform verified with fixes (2 conservation gaps + 2 dropped cross-links repaired) |
 | techniques/leadhead-swimbait-retrieve.md | standard | pending |  |  |
 | techniques/live-bait-pendulum-cast.md | standard | pending |  |  |
 | techniques/mangrove-structure-livebait.md | standard | pending |  |  |

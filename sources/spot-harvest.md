@@ -334,4 +334,6 @@ harvested.
 | Mag Bay | techniques/kite-fishing.md | evidence — Trolled rubber flyer vs. dead-boat dead flyer | helium balloon rig held a flyer for giant yellowfin on the lower banks near Mag Bay | `UuyqTE21-kc` |
 | Cortez Bank | techniques/kite-fishing.md | evidence — The bite and the gap | sundown and morning kite bluefin bites, 100 lb+ grade | `zBd1mayUt_I`, `QSvzVHW9UMk` |
 | Tanner Bank | techniques/kite-fishing.md | evidence — Wind window | balloon-to-kite rigging and launch build | `vCskOx6N-XM` |
+| Cortez Bank | techniques/knife-jigging.md | evidence — Mechanics | night bluefin jig-positioning briefing — cast down-swell so the jig settles ~200–250 ft under the boat, vertical | `UfuiWFVvz2E` |
+| Cortez Bank / Tanner Bank | techniques/knife-jigging.md | evidence — Depth control & jig calling | windy, hard-drifting night stepped jig weight up from a standard 250–350 g to 500 g to hold the zone | `LsFMBCa9DOQ` |
 <!-- review:harvest:end -->
