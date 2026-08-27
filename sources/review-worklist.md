@@ -46,7 +46,7 @@ by their builders after the transform phase drains.
 | techniques/dropper-loop.md | standard | transformed | gaps(0), misplaced(0), spots(4), reg-claims(0), spinout(1), gap(gear-class-lexicon, new) | v2 migration: dissolved 6 source-named headings, compacted to compact cites, split observations to evidence file with traces kept beside doctrine, completed infobox; verified with 2 fixes (resolved cite-unresolved to mUrihh0V59M; corrected fabricated gear_classes) |
 | techniques/fighting-big-bluefin.md | standard | transformed | gaps(1) | migrated to layout v2: technique skeleton, plain-statement prose with compact cites, dissolved source-named headings, split ~26 observed blocks to evidence with traces beside doctrine, decision frame for sea-lion conflict; verified with 1 fix (restored dropped kite-fishing.md link) |
 | techniques/fighting-fish-from-the-rail.md | standard | escalated |  | escalated: guard: out of scope for 'review: techniques/fighting-fish-from-the-rail.md': tackle/gear-classes.md |
-| techniques/flat-fall-jigging.md | standard | pending |  |  |
+| techniques/flat-fall-jigging.md | standard | transformed | gaps(2) | restructured to technique skeleton, house-style rewrite with compact cites, decision-rule-first leader conflict; verified with fixes (restored conflict-speaker attribution, restored a product-confidence caveat) |
 | techniques/flyline.md | standard | pending |  |  |
 | techniques/foamer-casting.md | standard | pending |  |  |
 | techniques/glide-baits.md | standard | pending |  |  |

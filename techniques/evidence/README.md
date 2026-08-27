@@ -11,6 +11,7 @@
 - [Evidence — Drop Shot](drop-shot.md) — Trip reports and per-source provenance backing drop shot.
 - [Evidence — Dropper Loop](dropper-loop.md) — Trip reports and per-source provenance backing dropper loop.
 - [Evidence — Fighting a Big Bluefin](fighting-big-bluefin.md) — Trip reports and per-source provenance backing fighting a big bluefin.
+- [Evidence — Flat-Fall Jigging](flat-fall-jigging.md) — Per-source provenance backing flat-fall jigging.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 
