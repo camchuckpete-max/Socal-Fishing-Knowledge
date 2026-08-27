@@ -296,4 +296,6 @@ harvested.
 | Pyramid Head (San Clemente Island) | species/yellowfin-tuna.md | evidence — Zone material | a better grade of yellowfin right off the island's east end the morning after finding tuna on open-water temperature breaks, in the 2014 El Nino | `Ow3an9lSVh4` |
 | Desperation Point (San Clemente Island) | species/yellowfin-tuna.md | evidence — Doctrine & conflicts | picky private-boat bite worked with a 25 lb fluorocarbon leader and a thin-wire size 2 circle, with 20-25 lb fluoro running on multiple rods aboard | `AIHvJj-paoo` |
 | Catalina Island (backside) | species/yellowfin-tuna.md | Situations → techniques | the porpoise-associated yellowfin finesse troll — stay outside the pod at 7-9 mph and get in front of it rather than driving through | `ouBrIdO7d4k` |
+| Tanker lanes / 277 bank (Catalina) | techniques/bait-and-switch.md | evidence — Dropback bait execution | the dropback method was worked and filmed on this ground during a guided marlin trip | `3qSY328fFYo` |
+| Cabo San Lucas | techniques/bait-and-switch.md | evidence — Gear class | closing-tips segment named the drop-back as the best bet for hookups, with the rig spec named | `Mwx5AAXNMvE` |
 <!-- review:harvest:end -->

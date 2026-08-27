@@ -4,7 +4,7 @@
 <!-- index:start -->
 ## Index
 
-- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise the fish on the trolled spread, then feed it a live bait — a live dropback mackerel in the SoCal tan
+- [Bait-and-Switch (Striped Marlin)](bait-and-switch.md) — The sighted-fish/raised-fish play for striped marlin: raise a fish on the trolled spread, then feed it a live bait — a live dropback mackerel in the SoCal tanke
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](beach-lure-depth-control.md) **[SoCal only]** — A single lever for controlling how deep a lure runs while beach/surf casting, without swapping lures: the angle and height of the rod tip during the retrieve.
 - [Cheater Troll](cheater-troll.md) **[SoCal only]** — A stopgap trolling trick for a SoCal live-bait sportboat (half-day through multi-day trips): rig a swimbait/jig — built with a double-collar keeper so the soft-
 - [Chunking](chunking.md) — Execution for chunking: cutting bait into pieces to build a chum line, then drifting a hook bait back through it so it looks like just another falling chunk.

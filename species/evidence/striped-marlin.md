@@ -285,5 +285,6 @@ merged into the SoCal doctrine.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Bait-and-Switch (Striped Marlin)](../../techniques/evidence/bait-and-switch.md)
 - [Striped Marlin](../striped-marlin.md)
 <!-- backlinks:end -->
