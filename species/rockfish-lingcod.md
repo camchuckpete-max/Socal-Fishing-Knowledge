@@ -367,6 +367,7 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [Evidence — Ocean Whitefish](evidence/ocean-whitefish.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
+- [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
@@ -412,5 +413,4 @@ Trip reports and per-source provenance: [evidence file](evidence/rockfish-lingco
 - [Upper Cross / 421 / 390](../locations/upper-cross-421-390.md)
 - [US waters](../locations/us-waters.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
-- [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

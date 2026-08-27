@@ -398,4 +398,5 @@ Trip reports and per-source provenance:
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Wahoo](../species/wahoo.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

@@ -33,7 +33,7 @@ by their builders after the transform phase drains.
 | species/swordfish.md | full | transformed | gaps(6), stubs(5), fact-check(2), misplaced(1), spots(9), reg-claims(2), asr-uncertain(1) | apply-with-changes: one cited claim corrected against transcript, one spot link retargeted, missing Zone-material section added; conservation and cite coverage clean |
 | species/wahoo.md | full | transformed | gaps(6), stubs(5), spots(6), reg-claims(2), fc(2), spinout(1), asr-uncertain(3) | apply-with-changes: 3 fixes applied (1 meaning drift, 1 mis-cite x3, 1 unsupported number); conservation and cite coverage clean |
 | species/white-seabass.md | full | transformed | gaps(8), misplaced(1), spots(4), reg-claims(2), spinout(2), stubs(3), asr-uncertain(1) | apply-with-changes: full v2 skeleton, evidence split conserves all 19 cites and every parameter; one unsourced inference trimmed |
-| species/yellowfin-tuna.md | full | pending |  |  |
+| species/yellowfin-tuna.md | full | transformed | gaps(7), stubs(10), misplaced(1), spots(18), reg-claims(4), spinout(2), fact-check(2), asr-uncertain(7) | transform verified — full conservation (all numbers and cites survive), 6 transcript spot-checks clean, 2 wording fixes applied |
 | species/yellowtail.md | full | transformed | gaps(9) fc(1) ledger(4) misplaced(2) | feedback rework (2026-08-24): 563->423 lines, evidence 140->176; all 16 feedback items verified landed; 4 demotions to evidence; zone-guides section + Coronados link + 7 stubs; conservation clean after 3 verifier restorations; recommitted after guard protected-path churn fix |
 | techniques/bait-and-switch.md | standard | pending |  |  |
 | techniques/beach-lure-depth-control.md | standard | pending |  |  |

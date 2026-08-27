@@ -56,4 +56,5 @@ and depth come from the video and from hands-on practice, not from prose here.
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Tuna Care](tuna-care.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

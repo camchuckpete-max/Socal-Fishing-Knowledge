@@ -165,4 +165,5 @@ estimated **≈181 lb**.
 - [Gaffing — Sizing and the Shot](gaffing.md)
 - [Ikejime (Iki-Jime)](ikejime.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

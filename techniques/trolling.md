@@ -1099,6 +1099,7 @@ covered above, not a new tool.
 - [Evidence — Pacific Bonito](../species/evidence/bonito.md)
 - [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
 - [Evidence — Striped Marlin](../species/evidence/striped-marlin.md)
+- [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Halco Laser Pro](../lures/halco-laser-pro.md)

@@ -292,6 +292,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo.md).
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
 - [Evidence — Wahoo](evidence/wahoo.md)
+- [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Guadalupe](../locations/guadalupe.md)

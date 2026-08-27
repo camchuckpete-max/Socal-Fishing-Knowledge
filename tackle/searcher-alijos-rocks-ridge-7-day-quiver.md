@@ -201,6 +201,7 @@ carried into this note beyond this mention (curation bar).
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](../rigging/crimping.md)
 - [Evidence — Wahoo](../species/evidence/wahoo.md)
+- [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)

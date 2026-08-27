@@ -672,6 +672,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
+- [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)

@@ -104,6 +104,7 @@ holder pairing, are in
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
+- [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Iron Jigs](iron-jigs.md)
 - [Loreto & Puerto Escondido](../locations/loreto.md)

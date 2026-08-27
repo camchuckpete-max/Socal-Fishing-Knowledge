@@ -324,5 +324,4 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Trolling](../techniques/trolling.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
-- [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

@@ -134,5 +134,6 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
 - [Water Color](water-color.md)
 - [White Seabass](../species/white-seabass.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

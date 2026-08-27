@@ -165,5 +165,6 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [Opah (Moonfish)](../species/opah.md)
 - [Tuna Care](tuna-care.md)
 - [White Seabass](../species/white-seabass.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

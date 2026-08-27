@@ -132,6 +132,7 @@ Trip reports and per-source provenance:
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rosarito / Descanso](rosarito-descanso.md)
 - [San Quintin](san-quintin.md)
@@ -148,4 +149,5 @@ Trip reports and per-source provenance:
 - [US waters](us-waters.md)
 - [W. Butterfly / 157](w-butterfly-157.md)
 - [Wahoo](../species/wahoo.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

@@ -680,6 +680,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Cortez North](../locations/cortez-north.md)
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Fish Kicker 25 lb Quick Clips — Snapless Surf-Bait Rigging (Tackle Express)](tackle-express-fish-kicker-quick-clip-surf-bait.md)
@@ -716,6 +717,5 @@ able to break off** (`aXF0bxAFtU0`):
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)
-- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

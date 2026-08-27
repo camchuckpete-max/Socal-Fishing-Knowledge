@@ -277,4 +277,5 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Evidence — Guadalupe](evidence/guadalupe.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
+- [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

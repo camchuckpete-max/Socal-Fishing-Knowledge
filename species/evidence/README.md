@@ -26,6 +26,7 @@
 - [Evidence — Swordfish (Broadbill)](swordfish.md) — Per-source provenance backing swordfish.
 - [Evidence — Wahoo](wahoo.md) — Per-source provenance backing wahoo.
 - [Evidence — White Seabass](white-seabass.md) — Per-source provenance backing white seabass.
+- [Evidence — Yellowfin Tuna](yellowfin-tuna.md) — Per-source provenance backing yellowfin tuna.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -58,12 +59,13 @@ graph LR
   n19["Evidence — Swordfish (Broadbill)"]
   n20["Evidence — Wahoo"]
   n21["Evidence — White Seabass"]
-  n22["Evidence — Yellowtail — surface iron"]
-  n23["Evidence — Yellowtail"]
+  n22["Evidence — Yellowfin Tuna"]
+  n23["Evidence — Yellowtail — surface iron"]
+  n24["Evidence — Yellowtail"]
   n11 --> n8
   n13 --> n5
   n14 --> n12
-  n14 --> n23
+  n14 --> n24
   n14 --> n5
   n14 --> n9
 ```

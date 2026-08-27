@@ -416,6 +416,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — White Seabass](evidence/white-seabass.md)
+- [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
@@ -499,7 +500,6 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 - [White Seabass](white-seabass.md)
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
-- [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yellowtail — surface iron](yellowtail-surface-iron.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
 <!-- backlinks:end -->
