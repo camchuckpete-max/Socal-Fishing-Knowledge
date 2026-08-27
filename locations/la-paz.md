@@ -181,7 +181,7 @@ pack.** With the fleet's boats stacked on one small high spot, the crew's
 deliberate positioning was to fish **outside everybody else** rather than
 anchor in the crowd, and the bite went from nothing to instant when fish moved
 through (`qM7iOO7fOBw`;
-[flyline](../techniques/flyline.md#la-paz-baja-california-sur-sea-of-cortez-side--open-water-mackerel-flyline-at-a-shared-high-spot)).
+[flyline](../techniques/evidence/flyline.md#la-paz--la-ventana-open-water-high-spots)).
 
 **Program three — drop the bait to the bottom, then let the troll lift it.**
 At El Bajo the mackerel goes down on a weighted rig until it **hits bottom**,
