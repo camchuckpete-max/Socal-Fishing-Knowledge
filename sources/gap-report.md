@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2106 flagged gaps, 267 flagged stubs, 992 unknown infobox values._
+_Totals: 2121 flagged gaps, 285 flagged stubs, 996 unknown infobox values._
 
 ## species/
 
@@ -105,6 +105,46 @@ _Totals: 2106 flagged gaps, 267 flagged stubs, 992 unknown infobox values._
   - `Regulations`: gap — the California (CDFW) bag limit for
   - `Landing & handling`: gap — bleeding, chilling or ikejime parameters
   - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
+- **species/california-spiny-lobster.md**
+  - `Where & when`: gap — mechanism — what moves them between the
+  - `Presence & forage`: gap — what California spiny lobster eat
+  - `Spawning`: gap — where or how California spiny lobster
+  - `Finding them (sign & structure)`: gap — whether lobster can be metered at all.
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Landing & handling`: gap — how long lobster hold alive out of water,
+  - infobox `scientific_name`: unknown
+  - infobox `sst_band_f`: unknown
+- **species/dorado.md**
+  - `Presence & forage`: gap — what drives the year-to-year swing in
+  - `Spawning`: gap — dorado spawning timing, location, or its effect
+  - `Feeding triggers`: gap — light-window, tide, current or moon triggers
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — California (CDFW) size and bag limits for
+  - infobox `scientific_name`: unknown
+- **species/ocean-whitefish.md**
+  - `Presence & forage`: gap — what ocean whitefish eat naturally.
+  - `Spawning`: gap — when, where or how ocean whitefish spawn,
+  - `Feeding triggers`: gap — mechanism — no source says whether current
+  - `Feeding triggers`: gap — a light window, tide or slack gate, or
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any Mexican (CONAPESCA) bag limit or size
+  - `Landing & handling`: gap — whether whitefish brought up from the
   - infobox `sst_band_f`: unknown
 - **species/snook.md**
   - `Finding them (sign & sonar)`: flagged stub row

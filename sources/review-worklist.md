@@ -771,4 +771,11 @@ by their builders after the transform phase drains.
 | locations/san-nicholas-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/santa-rosa-flats.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/two-harbors.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/catalina-island-backside-below.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ensenada-high-spot-78-mi-from-the-hotel-coral-marina.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/long-beach-harbor-la-harbor-complex.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/mission-bay.md | gazetteer | pending |  | harvest: 2 mention(s) |
+| locations/rainbow-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-diego-offshore.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/uncle-sam-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
