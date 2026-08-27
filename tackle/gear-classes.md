@@ -259,6 +259,7 @@ does the lookup.
 - [Baitcaster Gear Ratio for Landing Big Yellowtail — 7:1 as the Middle Ground (Tackle Express)](tackle-express-baitcaster-gear-ratio-yellowtail.md)
 - [Baja Light Setup — Bass/Halibut Rod, Leader Upsized as Yellowtail Insurance (Tackle Express)](tackle-express-baja-light-setup-yellowtail-insurance.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
