@@ -36,8 +36,9 @@ mechanism (upwelling, the cold-green rollover) is in
 [upwelling and turnover](../conditions/upwelling-and-turnover.md); the sea-state
 consequences in [sea state](../conditions/sea-state.md).
 
-⚠ Fact-check (cite-unresolved, standing): **the map stands, and it is not
-going to be re-sourced to another video.** The citation `HzE4FHHcvTk` does not
+⚠ adjudicated (Cameron, 2026-08-26) · ⚠ Fact-check (cite-unresolved,
+standing): **the map stands, and it is not going to be re-sourced to another
+video.** The citation `HzE4FHHcvTk` does not
 carry it — that transcript is an offshore-only report and contains the paddy
 geography from the same citation but no NW event, no Channel Islands, no
 Ventura and no Newport line — so a second bight report was probably never

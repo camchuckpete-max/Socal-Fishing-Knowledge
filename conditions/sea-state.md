@@ -67,6 +67,7 @@ over the prior **48–72 h** for swell-arrival risk the point forecast under-exp
 - **Forecast error is asymmetric.** Assume the forecast errs on the worse side,
   and that afternoon W at the islands **strengthens** rather than eases (Ep. 6).
 - **Catalina Eddy shielding — everything east of Catalina and San Clemente.**
+  ⚠ adjudicated (Cameron, 2026-08-26).
   The shielded water is a lee, not a list of banks: the prevailing wind down
   the California coast outside SoCal comes from the **north**, so the islands
   shadow the water behind them and marks well to the south still sit in that

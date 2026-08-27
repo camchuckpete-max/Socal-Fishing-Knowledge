@@ -100,7 +100,8 @@ run into Mexican water actually requires is itself flagged as missing on
 [Coronado Islands](coronado-islands.md).
 
 **This is water an ugly outside forecast does not automatically close.** The
-**Catalina Eddy** shields everything **east of Catalina and San Clemente**, and
+**Catalina Eddy** shields everything **east of Catalina and San Clemente**
+(⚠ adjudicated, Cameron, 2026-08-26), and
 these marks sit inside that line. The prevailing wind down the California coast
 outside SoCal comes from the north, so the islands shadow the water behind them
 and being south of San Clemente does not put a mark outside the shelter — the

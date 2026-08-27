@@ -38,7 +38,9 @@ skipped by the sweep (as are commits already covered by such a revert).
 """
 from __future__ import annotations
 
+import csv
 import datetime
+import functools
 import os
 import re
 import subprocess
@@ -84,6 +86,12 @@ EVIDENCE_ENTRY_RE = re.compile(r"^- .*`[A-Za-z0-9_-]{11}`", re.M)
 BACKTICK_ID_RE = re.compile(r"`([A-Za-z0-9_-]{11})`")
 PAREN_ID_RE = re.compile(r"\(([A-Za-z0-9_-]{11})\)")
 FM_SOURCES_RE = re.compile(r"^sources:\s*\[(.*?)\]", re.M | re.S)
+# CLAUDE.md: "Sources are NAMED: `cameron` or the YouTube video_id". The id
+# half is 11 chars; the named half is not, so matching only {11} left every
+# cameron-attributed claim outside conservation — including the doctrine
+# conflicts CLAUDE.md calls canonical. Lowercase and not part of a path, so
+# `profiles/cameron/rods.md` and prose "Cameron review" are not cites.
+NAMED_SOURCE_RES = (re.compile(r"(?<![/\w-])(cameron)(?![/\w-])"),)
 
 
 def git(*args: str, check: bool = True) -> str:
@@ -147,10 +155,41 @@ def only_generated_blocks_changed(sha: str, path: str) -> bool:
     return _strip_generated(before) == _strip_generated(after)
 
 
+@functools.lru_cache(maxsize=4)
+def _read_manifest_ids(path: Path) -> frozenset[str]:
+    """Every video_id in the manifest at `path`, or empty if unreadable.
+
+    Keyed on the path, not cached globally: the tests repoint ROOT at a
+    fixture repo, and a cache that ignored the path would serve the real
+    manifest to a fixture that has none.
+    """
+    try:
+        with path.open(newline="", encoding="utf-8") as f:
+            return frozenset(
+                v for v in ((r.get("video_id") or "").strip()
+                            for r in csv.DictReader(f)) if v)
+    except OSError:
+        return frozenset()
+
+
+def _manifest_ids() -> frozenset[str]:
+    return _read_manifest_ids(ROOT / "sources" / "transcripts" / "_manifest.csv")
+
+
 def _plausible_id(tok: str) -> bool:
-    """An 11-char English word ('temperature') is not a video id: require a
-    digit/underscore/hyphen or mixed case, so prose in parens/backticks never
-    trips cite conservation."""
+    """Is this 11-char token a video id rather than ordinary prose?
+
+    The manifest is the real test. Shape alone is not enough: `speed-troll`
+    and `Baja-scoped` are both exactly 11 characters with a hyphen, and
+    counting them as cites makes conservation demand that a worker preserve
+    ordinary prose — a false revert, which costs the unit's work. Falls back
+    to the old character heuristic if the manifest cannot be read, so a
+    missing file degrades to today's behaviour rather than disabling the
+    check.
+    """
+    ids = _manifest_ids()
+    if ids:
+        return tok in ids
     return bool(re.search(r"[0-9_-]", tok)
                 or (tok != tok.lower() and tok != tok.upper()))
 
@@ -165,6 +204,8 @@ def cited_ids(text: str) -> set[str]:
                 ids.add(tok)
     ids.update(t for t in BACKTICK_ID_RE.findall(text) if _plausible_id(t))
     ids.update(t for t in PAREN_ID_RE.findall(text) if _plausible_id(t))
+    for rx in NAMED_SOURCE_RES:
+        ids.update(rx.findall(text))
     return ids
 
 

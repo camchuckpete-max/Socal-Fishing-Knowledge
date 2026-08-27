@@ -224,6 +224,7 @@ Section order below is not a ranking.
   bait under them on a sinker and drop chrome from the rotation
   (`yGXSrUauo2w`, `YAKOv9bXKO0`).
 - **Wire or no wire — a leader-class question, not a teeth question.**
+  ⚠ adjudicated (Cameron, 2026-08-26).
   Bonito and barracuda both have sharp teeth, but being bitten off by either is
   rare: no wire, and no reported case of a fish chewing through terminal gear.
   What the teeth do cost is baits and light line, so do not run **super light**

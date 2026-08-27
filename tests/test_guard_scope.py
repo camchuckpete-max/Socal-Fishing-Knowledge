@@ -279,6 +279,84 @@ def test_chunks_never_mix_models() -> None:
           seen[-1], (("full",), "claude-opus-5"))
 
 
+NOTE_CAMERON = """---
+type: conditions
+sources: [S2L3KLSQ6Is, cameron]
+---
+
+# Sea state
+
+- **Catalina Eddy shielding.** The eddy shields everything east of Catalina
+  and San Clemente; the 425 is often shielded despite sitting far south of
+  it (`S2L3KLSQ6Is`, cameron).
+"""
+
+# Same note with Cameron's adjudication reworded back toward the corpus and
+# the attribution dropped. The video id survives, so the {11}-only matcher
+# saw nothing missing.
+NOTE_CAMERON_STRIPPED = """---
+type: conditions
+sources: [S2L3KLSQ6Is]
+---
+
+# Sea state
+
+- **Catalina Eddy shielding.** The eddy can shield the inner SD banks while
+  it blows outside (`S2L3KLSQ6Is`).
+"""
+
+
+def test_dropping_a_cameron_attribution_trips_conservation() -> None:
+    """CLAUDE.md: a cite is "`cameron` or the YouTube video_id". Matching only
+    the 11-char id half left every cameron-attributed claim unprotected."""
+    def body(repo: Path) -> None:
+        note = repo / "conditions" / "sea-state.md"
+        note.parent.mkdir(exist_ok=True)
+        note.write_text(NOTE_CAMERON)
+        commit(repo, "seed sea-state")
+        note.write_text(NOTE_CAMERON_STRIPPED)
+        sha = commit(repo, "review: conditions/sea-state.md — standard")
+        probs = guard.conservation_problems(sha, ["conditions/sea-state.md"])
+        check("dropping (cameron) is a conservation violation",
+              any("cite conservation" in p for p in probs), True)
+    with_repo(body)
+
+
+def test_keeping_the_cameron_attribution_passes() -> None:
+    """The rule must not fire on a legitimate rewrite that keeps the cite."""
+    def body(repo: Path) -> None:
+        note = repo / "conditions" / "sea-state.md"
+        note.parent.mkdir(exist_ok=True)
+        note.write_text(NOTE_CAMERON)
+        commit(repo, "seed sea-state")
+        note.write_text(NOTE_CAMERON.replace(
+            "The eddy shields", "The eddy reliably shields"))
+        sha = commit(repo, "review: conditions/sea-state.md — standard")
+        check("a reword that keeps (cameron) is clean",
+              guard.conservation_problems(sha, ["conditions/sea-state.md"]), [])
+    with_repo(body)
+
+
+def test_prose_that_looks_like_a_video_id_is_not_conserved() -> None:
+    """`speed-troll` and `Baja-scoped` are 11 chars with a hyphen. Counting
+    them as cites made conservation demand a worker preserve ordinary prose,
+    which reverts the unit and costs its work."""
+    def body(repo: Path) -> None:
+        (repo / "sources" / "transcripts").mkdir(parents=True)
+        (repo / "sources" / "transcripts" / "_manifest.csv").write_text(
+            "video_id,title,status,caption_type,failure_reason,channel,upload_date\n"
+            "S2L3KLSQ6Is,A real video,ok,auto-generated,,BDOutdoors,2024-01-01\n")
+        note = repo / "lures" / "mad-mac.md"
+        note.parent.mkdir(exist_ok=True)
+        note.write_text("# Mad Mac\n\nRun it as a (speed-troll) lure.\n")
+        commit(repo, "seed mad-mac")
+        note.write_text("# Mad Mac\n\nRun it fast, on the troll.\n")
+        sha = commit(repo, "review: lures/mad-mac.md — standard")
+        check("rewording (speed-troll) is not a cite loss",
+              guard.conservation_problems(sha, ["lures/mad-mac.md"]), [])
+    with_repo(body)
+
+
 def main() -> int:
     for fn in (test_geo_unit_may_regenerate_its_parents_child_list,
                test_geo_unit_may_not_edit_its_parents_prose,
@@ -286,14 +364,17 @@ def main() -> int:
                test_checkpoint_may_not_rewrite_an_existing_note,
                test_phase_word_strips_a_subject_passed_as_the_message,
                test_cited_prose_tiers_cannot_park_on_done,
-               test_chunks_never_mix_models):
+               test_chunks_never_mix_models,
+               test_dropping_a_cameron_attribution_trips_conservation,
+               test_keeping_the_cameron_attribution_passes,
+               test_prose_that_looks_like_a_video_id_is_not_conserved):
         fn()
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("guard scope tests: 7 check groups OK")
+    print("guard scope tests: 10 check groups OK")
     return 0
 
 

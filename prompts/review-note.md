@@ -36,6 +36,17 @@ self-check before finishing).
    Genuinely contested doctrine leads with the decision rule, then names the
    positions compactly. NEVER change what a claim says while rewriting how
    it says it. Preserve specifics exactly.
+3a. **Adjudicated passages are settled — do not touch them.** A passage
+   marked `⚠ adjudicated (Cameron, <date>)` has already been ruled on by
+   Cameron and is final. Preserve its substance and its `(cameron)`
+   attribution verbatim: never reword it toward the corpus wording it
+   replaced, never re-flag it as a fact-check, never demote it to evidence
+   as a single-source claim, and never "reconcile" it with a source that
+   disagrees — the ruling IS the reconciliation. You may reflow whitespace
+   and fix a broken link. If an adjudicated passage looks wrong to you, say
+   so in your `LOG:` line and change nothing. The guard conserves the
+   `cameron` cite token, but not the wording — this rule is what protects
+   the wording.
 3b. **Single observation ≠ doctrine**: an uncorroborated single-trip claim
    moves to the evidence file (that is conservation, not deletion); the note
    keeps only corroborated doctrine or claims with stated reasoning. Where

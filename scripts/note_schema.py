@@ -173,10 +173,21 @@ FLAG_STUB_ZONE = "⚠ Flagged stub — no zone guide yet"
 FACTCHECK_CATEGORIES = ("single-source", "contradicted-by-source",
                         "contradicted-internal", "external-mismatch",
                         "unverifiable")
+# `cite-unresolved` is a ledger category too, and a flag may carry a
+# disposition qualifier after the category — `(contradicted-internal, resolved
+# by geometry)`, `(cite-unresolved, standing)` — recording that the question
+# was answered without deleting the flag it was answered about.
+FACTCHECK_CATEGORIES_ALL = FACTCHECK_CATEGORIES + ("cite-unresolved",)
 FLAG_FACTCHECK_RE = re.compile(
-    r"⚠ Fact-check \((" + "|".join(FACTCHECK_CATEGORIES) + r")\):")
+    r"⚠ Fact-check \((" + "|".join(FACTCHECK_CATEGORIES_ALL)
+    + r")(?:, [^)]+)?\):")
 FLAG_CITE_UNRESOLVED = "⚠ cite-unresolved"
 FLAG_MISPLACED = "⚠ misplaced-content"
+# Cameron has personally ruled on this passage. The transform pass must
+# preserve its substance and its `cameron` attribution verbatim and never
+# re-flag it (prompts/review-note.md rule 3a). The guard conserves the
+# `cameron` cite token; this marker is what protects the wording.
+FLAG_ADJUDICATED_RE = re.compile(r"⚠ adjudicated[ (]")
 
 
 def front_matter_block(text: str) -> str:
