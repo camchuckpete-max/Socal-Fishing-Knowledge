@@ -320,4 +320,8 @@ harvested.
 | San Diego Bay | techniques/hoop-netting.md | Rope length — match it, don't over-carry it | extension "rope shot" kept spare for occasional deeper drops, as deep as ~55 ft | `Qs9oEsh3b_w` |
 | Catalina Island | techniques/hoop-netting.md | Setting discipline / evidence — Bait | multi-spot soak-and-pull start example; DIY PVC bait tube run in 20-30 ft off a 65-ft Hatteras with no sea-lion problems since switching | `EiItVWqFMYc`, `YQsbwfQ4wzY` |
 | Long Beach Harbor | techniques/hoop-netting.md | evidence — Retrieval | live hoop-netting stream recounting a possible U.S.-record lobster lost mid-retrieval | `Q196GVwVqro` |
+| San Clemente Island | techniques/inshore-crankbaits.md | Reach for this when | calico crank lanes running 80-100 ft at the islands | — (uncited legacy claim) |
+| Catalina Island | techniques/inshore-crankbaits.md | Reach for this when | calico crank lanes running 80-100 ft at the islands | — (uncited legacy claim) |
+| Bolsa Chica | techniques/inshore-crankbaits.md | Beach and inlet channels | named as an example of a beach inlet/river-mouth channel type, not as a doctrine-specific spot | `H5Z-Mqt4qXs` |
+| San Diego Bay | techniques/inshore-crankbaits.md | evidence — Reach for this when | SWBA tournament pre-fishing produced 25+ fish in a day once a productive crankbait zone was found | `k4LCL9ALryA` |
 <!-- review:harvest:end -->

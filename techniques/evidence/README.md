@@ -14,6 +14,7 @@
 - [Evidence — Flat-Fall Jigging](flat-fall-jigging.md) — Per-source provenance backing flat-fall jigging.
 - [Evidence — Foamer Casting](foamer-casting.md) — Trip reports and per-source provenance backing foamer casting.
 - [Evidence — Hoop Netting](hoop-netting.md) — Trip reports and per-source provenance backing hoop netting.
+- [Evidence — Inshore Crankbaits](inshore-crankbaits.md) — Trip reports and per-source provenance backing inshore crankbaits.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 
