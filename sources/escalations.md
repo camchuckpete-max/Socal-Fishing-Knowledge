@@ -190,3 +190,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-25T11:14:55Z — locations/socal-bight.md — verify-escalate
 - run: 32835231455
 - reason: The region page's Offshore banks table still carries 'The Boot (504) / 307 | 2 | Flagged stub - no corpus source yet', but 5to3Q5P7w90 names the Boot for marlin (Masters tournament weekend, 2022-09-14 report) and that is now written up in locations/boot-504-307.md. The stub row is stale; out of scope for this unit (parent must not be hand-edited) and needs correcting in the region page's own pass.
+
+## 2026-08-27T21:10:15Z — techniques/fighting-fish-from-the-rail.md — guard-violation
+- run: 33112147658
+- reason: commit f8ce1f59e7001c677d4ad08dc8938bb299c679ea reverted: out of scope for 'review: techniques/fighting-fish-from-the-rail.md': tackle/gear-classes.md; out of scope for 'review: techniques/fighting-fish-from-the-rail.md': tackle/searcher-rail-rod-ladder.md
