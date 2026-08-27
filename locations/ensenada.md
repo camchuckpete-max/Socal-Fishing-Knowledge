@@ -283,6 +283,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 - [Baja - 270 / Double 220 / 295](baja-270-double-220-295.md)
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
+- [California Sheephead](../species/sheephead.md)
 - [Evidence — Banda Bank / Todos Santos Island](evidence/banda-bank-todos-santos-island.md)
 - [Evidence — Ensenada](evidence/ensenada.md)
 - [Lower Cross](lower-cross.md)

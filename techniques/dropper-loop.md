@@ -583,6 +583,7 @@ Octopus offset hooks; loop knots and the barrel-swivel double covered in
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](../tackle/tackle-express-bait-tank-time-saver.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Barred Sand Bass](../species/sand-bass.md)
+- [California Sheephead](../species/sheephead.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](../tackle/tackle-express-charter-bait-tank-hook-kit.md)
 - [Cortez North](../locations/cortez-north.md)

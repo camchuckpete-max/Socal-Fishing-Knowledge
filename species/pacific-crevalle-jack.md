@@ -197,7 +197,6 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
-- [California Sheephead](sheephead.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Cortez South](../locations/cortez-south.md)
 - [East Cape](../locations/east-cape.md)

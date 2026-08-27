@@ -190,6 +190,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [California Sheephead](../species/sheephead.md)
 - [Carlsbad AR](carlsbad-ar.md)
 - [Evidence — North County Artificial Reefs](evidence/north-county-artificial-reefs.md)
 - [Oceanside / North County](oceanside-north-county.md)

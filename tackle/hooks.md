@@ -1013,6 +1013,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — California Sheephead](../species/evidence/sheephead.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

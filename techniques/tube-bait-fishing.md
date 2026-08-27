@@ -363,6 +363,7 @@ Bass casting / swimbait class, stepping up to a heavy 40 lb-class outfit for
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
+- [California Sheephead](../species/sheephead.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — Barred Sand Bass](../species/evidence/sand-bass.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)

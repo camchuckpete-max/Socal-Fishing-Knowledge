@@ -218,4 +218,13 @@ harvested.
 | Camp Pendleton stretch (North County San Diego) | species/sand-bass.md | Zone guides | sand bass mixed into a calico catch over hard bottom in roughly 40–42 ft | `HMdrP4-i9MM` |
 | Palos Verdes | species/sand-bass.md | evidence — Where & when | a charter found good bass fishing on swimbaits the same week the beach sand bass bite slowed on cold upwelled water | `Blh2BA-7Ono` |
 | Ensenada | species/sand-bass.md | Zone guides | a "regular size" sand bass taken incidentally on a mackerel bait stop just outside the marina | `0dIwWiOc1NY` |
+| SoCal artificial reefs (unnamed cluster) | species/sheephead.md | Where & when | chummed artificial reefs give sheephead, sargo and small bass together; reef species list also names yellowtail, white seabass, calico and sand bass, with 11 species in one day | `OSbAHdB4uPs`, `Q196GVwVqro` |
+| Catalina Island | species/sheephead.md | evidence — Catalina | sheephead landed incidentally at anchor in a mixed-species session, called "Poor Man's Lobster" on camera | `oadK6zIYyCo` |
+| Channel Islands | species/sheephead.md | Where & when | a pair of sheephead lost off the shallow island stop on a low-current variety day, alongside whitefish | `6-8KfjEg0x8` |
+| Cortez Bank | species/sheephead.md | Where & when | sheephead and whitefish picked up in the bank shallows off a ~150 ft drift after rockfish limits; a flylined sheephead at anchor in the morning bite | `fDSd9kqwYW0`, `eL1Qm33-Mj0` |
+| Ensenada (high spot 7-8 mi off the Hotel Coral marina) | species/sheephead.md | Where & when | sheephead in the mixed bottomfish bag off a mark rising to ~25 ft from roughly 200 ft; one fish called a female on camera | `CKq0Z6ExVs4` |
+| Cedros Island | species/sheephead.md | Where & when | named among the October resident species (big yellowtail, yellowfin, dorado, calico, sheephead, big halibut); a "big old sheep head" on a March day | `A8SuzB5qiKE`, `u0scEBby7nA` |
+| Dono (Baja Pacific north) | species/sheephead.md | evidence — feeding triggers | a sheephead ate a slow-wound homemade butter-knife jig on the wind-up | `L3tkGVu516A` |
+| Coronado Islands | species/sheephead.md | Presence & forage | named among the structure that holds live red crab, where the red-crab bait produces resident bass and sheephead | `5Oh3IPIC5g4` |
+| San Clemente Island | species/sheephead.md | Presence & forage | named among the red-crab-holding island structure for the same bait | `5Oh3IPIC5g4` |
 <!-- review:harvest:end -->

@@ -383,6 +383,7 @@ Per-trip detail and conditions are in
 ## Linked from
 
 - [380](380.md)
+- [California Sheephead](../species/sheephead.md)
 - [Cortes Bank](cortes-bank.md)
 - [Evidence — Ocean Whitefish](../species/evidence/ocean-whitefish.md)
 - [Evidence — Rockfish & Lingcod](../species/evidence/rockfish-lingcod.md)

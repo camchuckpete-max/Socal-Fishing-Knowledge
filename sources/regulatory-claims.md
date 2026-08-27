@@ -63,6 +63,9 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Mexican (CONAPESCA) bag limit or size gauge for ocean whitefish — no corpus source states either, and the Ensenada high-spot fish falls under Mexican jurisdiction | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [ocean whitefish](../species/ocean-whitefish.md) | — |
 | Mexican (CONAPESCA) bag limit, size gauge or season for the rockfish/lingcod complex taken off Ensenada, Cedros and San Benito | **unknown — absent from the corpus** | gap flagged 2026-08 — California rockfish regs do not apply in Mexican waters; verify current Mexican limits and the licence/entry paperwork before fishing | [rockfish & lingcod](../species/rockfish-lingcod.md) | — |
 | California / CDFW bag limit or size gauge for Pacific crevalle jack, which would apply to a warm-water stray taken in the Bight | **unknown — absent from the corpus** | gap flagged 2026-08 — verify with CDFW before keeping one | [Pacific crevalle jack](../species/pacific-crevalle-jack.md) | — |
+| Sheephead access gated by the California groundfish season — the same charter operator statement as the whitefish row above, now also carried on the sheephead router | season-gated; no dates, bag limit or depth line stated for sheephead itself | 2020-03; on-camera interview, verify current season dates and RCA depth line with CDFW | [California sheephead](../species/sheephead.md) | `46ha7J1Fc6A` |
+| California / CDFW bag limit or size minimum for California sheephead — no corpus source states either | **unknown — bag limit and size gauge both absent from the corpus** | gap flagged 2026-08 — verify the current bag and size limits with CDFW before keeping fish | [California sheephead](../species/sheephead.md) | — |
+| Mexican (CONAPESCA) bag limit or size gauge for California sheephead, which the Ensenada and Cedros fish fall under | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [California sheephead](../species/sheephead.md) | — |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -108,6 +111,7 @@ route, and the insurance carriers by name.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Sheephead](../species/sheephead.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

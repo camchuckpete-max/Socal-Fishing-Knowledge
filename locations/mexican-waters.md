@@ -106,6 +106,7 @@ Trip reports and per-source provenance:
 - [Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md)
 - [Cabo San Lucas](cabo-san-lucas.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [California Sheephead](../species/sheephead.md)
 - [Cedros / San Benitos](cedros-island.md)
 - [Colonet](colonet.md)
 - [Coronado Islands](coronado-islands.md)

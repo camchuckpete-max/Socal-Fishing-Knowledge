@@ -1,122 +1,258 @@
 ---
 type: species
 tags: [sheephead, structure, artificial-reef, chum, bottomfish, socal, beginner-friendly, baja, ensenada]
-sources: [OSbAHdB4uPs, eL1Qm33-Mj0, CKq0Z6ExVs4, oadK6zIYyCo, 5Oh3IPIC5g4]
+sources: [OSbAHdB4uPs, eL1Qm33-Mj0, CKq0Z6ExVs4, oadK6zIYyCo, 5Oh3IPIC5g4, yKaHcxX46l4, ShSxNKAcUB4, Q196GVwVqro, 0HwYl0HO2tc, 3xx_vES0kdo, 7L7OVoXE7KU, DfLcSS-J3g4, 6-8KfjEg0x8, fDSd9kqwYW0, kwMIgkCtFUE, 46ha7J1Fc6A, PRNMGpLj7Pw, 8XIy7hPsFkQ, L3tkGVu516A, A8SuzB5qiKE, u0scEBby7nA, qKOmJH_WtJo, QEpa3WYbEa8]
 confidence: medium
 regions: [socal-bight, baja-pacific-north]
 waters: [nearshore-coast, island, bank]
+layout: v2
+scientific_name: Semicossyphus pulcher
+season_peak: all-season
+sst_band_f: unknown
+depth_band: chummed artificial reef and inshore rock through island and bank hard bottom to roughly 200 ft
+gear_classes: [light-spinning, 30lb-bait, bass-casting-swimbait, spj-slow-pitch]
+sonar_depth: unknown
 ---
 
 # California Sheephead
 
-The **California sheephead** (*Semicossyphus pulcher*) is a **year-round SoCal
-structure resident** — a reliable, table-quality target that lives on reefs
-and hard structure "every single day," in contrast to the summer-only pelagic
-run (dorado, yellowtail, bluefin). It is framed as the fish to fish for once
-the water cools and the big-game bite fades, and as an approachable,
-easy-to-catch species for teaching a new angler or a kid (Dave Hansen, Your
-Saltwater Guide, OSbAHdB4uPs, 2021-01-12).
+California sheephead (*Semicossyphus pulcher*) live on SoCal reefs and hard
+structure "every single day," which makes them the target once the water cools
+and the dorado/yellowtail/bluefin season shuts off (`OSbAHdB4uPs`). The
+dedicated program is inshore and small: chum the structure, then suspend a thin
+strip of clam, mussel or squid off the bottom on a **1/4–1/2 oz** slider and a
+**No. 2 or No. 4** thin-wire bronze hook (`OSbAHdB4uPs`). Everywhere else they
+arrive as by-catch on somebody else's program — the island bass drift, the bank
+rockfish stop, the slow-pitch drop — and the biggest recorded fish, **15–24 lb**,
+came on red-crab soft baits thrown into island rock (`5Oh3IPIC5g4`,
+`0HwYl0HO2tc`).
 
 ## Where & when
 
-- **Where:** SoCal **artificial reefs** and inshore rocky structure — the same
-  built reefs (e.g. the numbered Carlsbad AR / Oceanside AR clusters logged in
-  [zone lexicon](../locations/zone-lexicon.md)) that draw sargo, small bass,
-  and other structure fish once chummed. See the artificial-reef chum doctrine
-  in [chunking](../techniques/chunking.md) (prey-density/feeding-frenzy
-  section).
-- **When:** an **all-season SoCal resident** — no month-by-month prior is given
-  in this source (contrast [seasonal](../seasonal/README.md), which tracks the
-  migratory summer species). Explicitly pitched as a **cold-water-season
-  target**: "just because the water got cold, it's not time to put away your
-  stuff" — sheephead stay catchable when dorado/yellowtail/bluefin have moved
-  off or shut down for the year.
-- **Conditions:** bites turn on once **chum is in the water** — the source
-  opens the video on chummed artificial reefs producing sheephead, sargo, and
-  small bass together.
-- **Observed** (StokedOnFishing, `eL1Qm33-Mj0`, uploaded 2025-03-31, Cortez
-  Bank, SoCal, aboard the El Dorado, Captain TJ, out of Long Beach —
-  unregistered channel — medium confidence): a sheephead was landed on a
-  **flylined** bait early in the morning bite, incidental bycatch on a trip
-  otherwise targeting yellowtail and bluefin at anchor on an offshore bank —
-  see [flyline](../techniques/flyline.md) and
-  [bluefin tuna](bluefin-tuna.md#where--when) for the rest of that trip. A
-  data point that sheephead can show up as bycatch even on an offshore
-  high-spot pelagic trip, not only the inshore artificial-reef/chum program
-  this note otherwise documents.
-- **Observed (Baja, Ensenada, region label)** (StokedOnFishing, 2017-11-25
-  upload, a high spot roughly **7–8 mi** from the Hotel Coral marina,
-  Ensenada, Baja California — `CKq0Z6ExVs4`, "Navico Weekend Getaway";
-  unregistered channel — medium confidence): a sheephead came off the same
-  mixed bottomfish high spot logged in the [rockfish &
-  lingcod](rockfish-lingcod.md) and [ocean whitefish](ocean-whitefish.md)
-  Ensenada entries (spot described on camera as coming up to about **25 ft
-  from roughly 200 ft**); a crew member noted on camera that the fish was a
-  **female**, confirming rather than disputing the species call. A further
-  Baja bycatch data point alongside the Cortez Bank entry above, this time
-  from an inshore-style bottom stop.
-- **Observed** (StokedOnFishing, 2016-12-23 upload, Catalina Island, SoCal —
-  `oadK6zIYyCo`, "Family Fishing Time at Catalina Island," a family day at
-  anchor, sponsor-heavy dealership-ad episode; unregistered channel — medium
-  confidence): a sheephead was landed incidentally during a mixed-species
-  anchor session (bait/technique not specified in this footage), with the
-  crew calling it **"Poor Man's Lobster"** on camera for its table quality —
-  a table-quality nickname data point, not new technique detail beyond this
-  note's existing bycatch entries above.
+**Where.** Three water types carry them:
+
+- **SoCal artificial reefs and inshore rocky structure** — the dedicated
+  fishery. A chummed artificial reef produces sheephead, sargo and small bass
+  together (`OSbAHdB4uPs`), and the built reefs are named as holding
+  yellowtail, white seabass, sheephead, calico bass, sand bass and sargo, with
+  one reef day yielding 11 species (`Q196GVwVqro`). See the
+  [zone lexicon](../locations/zone-lexicon.md),
+  [North County artificial reefs](../locations/north-county-artificial-reefs.md)
+  and [San Diego artificial reefs](../locations/san-diego-artificial-reefs.md).
+- **Island rock.** Anchored front-side [Catalina](../locations/catalina-island-front-side.md)
+  structure gives them up in a mixed-species session (`oadK6zIYyCo`), and a
+  Channel Islands variety stop lost a pair off the shallow island rock
+  (`6-8KfjEg0x8`). Over inshore bass structure they are resident but sparse —
+  most of what a meter paints there is perch (`kwMIgkCtFUE`).
+- **Offshore banks.** Moving into the shallows of [Cortez Bank](../locations/tanner-bank.md)
+  after limiting on rockfish picks up sheephead with the whitefish, off a drift
+  the crew put at roughly **150 ft** (`fDSd9kqwYW0`).
+- **Baja Pacific north.** A high spot roughly **7–8 mi** off the Hotel Coral
+  marina at [Ensenada](../locations/ensenada.md), rising to about **25 ft from
+  roughly 200 ft**, gives sheephead in the mixed bottomfish bag (`CKq0Z6ExVs4`).
+  At [Cedros](../locations/cedros-island.md) sheephead are named among the
+  resident species an October trip goes for (`A8SuzB5qiKE`).
+
+**When.** No month prior applies — they are an all-season resident, and the
+fishery is pitched explicitly at the cold-water season: "just because the water
+got cold, it's not time to put away your stuff" (`OSbAHdB4uPs`). The
+[seasonal calendar](../seasonal/README.md) tracks the migratory summer species
+this one replaces, so it bears on the trip that gets you to the structure
+rather than on the sheephead.
+
+**Presence is not catchability**, on two axes. On the water, the bite is gated
+by chum rather than by season — a reef holds them all year and gives them up
+once a chum line is running (`OSbAHdB4uPs`). On the calendar, California
+charter access to the sheephead package is gated by the groundfish season: an
+operator names the opener's program as "rockfish, lingcod, whitefish and
+sheephead" (`46ha7J1Fc6A`) — see [Regulations](#regulations).
+
+## Presence & forage
+
+- **Red crab is the forage that produces the biggest fish.** A red-crab-imitating bait
+  thrown up into island rock is what produced a **24 lb** fish in 2019
+  (`5Oh3IPIC5g4`) and five fish of **15–20 lb** on one 2018 trip
+  (`0HwYl0HO2tc`), on structure known to carry live red crab — Catalina, San
+  Clemente, the Coronado Islands, Cedros and Ensenada (`5Oh3IPIC5g4`). The
+  match-the-forage read has a saturation limit: on a spot already packed with
+  live red crab, the red-crab bait becomes the hardest one to get bit — see
+  [tube baits](../lures/tube-baits.md).
+  ⚠ Fact-check (single-source): both grade figures come from one presenter
+  promoting his own bait at two seminars.
+- **The mouth sits at the front of the face, not underneath** (`OSbAHdB4uPs`).
+  That is the mechanism behind the whole suspended-bait program: a bait lying
+  on the bottom is below the fish's feeding plane and draws shovelnose sharks,
+  bat rays, smoothhound and leopard sharks instead.
+- **The mouth is small for the body**, so a **1 oz "bullet"** profile
+  out-produces the larger "Big Game" size of the same bait — a smaller profile
+  is easier for them to take in (`5Oh3IPIC5g4`). The same logic runs through
+  the bait rules: thin strips rather than a bunched chunk, so the fish can suck
+  the bait straight in (`yKaHcxX46l4`).
+- **They share hard bottom with the whole variety bag** — reds, whitefish, blue
+  bass and lingcod over the same island and bank rock (`fDSd9kqwYW0`,
+  `6-8KfjEg0x8`, `CKq0Z6ExVs4`) — and with sargo and small bass on the chummed
+  inshore reefs (`OSbAHdB4uPs`).
+- ⚠ Flagged gap — no corpus source: any forage other than red crab, what
+  concentrates them on one reef rather than the next, or any temperature that
+  moves them.
+
+## Spawning
+
+⚠ Flagged gap — no corpus source: when, where or how California sheephead
+spawn, and what spawning does to the bite. Sex is identified on camera exactly
+once — an Ensenada fish called a female (`CKq0Z6ExVs4`) — with nothing said
+about season, grade or spawning behaviour.
+
+## Feeding triggers
+
+- **Chum in the water is the gate.** On an artificial reef the bite starts once
+  the chum line is running — "it bites just like the sheephead once you get that
+  chum in the water" (`OSbAHdB4uPs`). Mechanism: the chum raises prey density
+  on the spot and pulls the structure fish up off it — see
+  [chunking](../techniques/chunking.md).
+- **A moving or sinking bait gets bit; a parked one does not.** Cast, let the
+  bait sink through the column, wind it back and throw it again rather than
+  letting it sit — nine casts out of ten come back bitten by something on a
+  live structure spot, and a spot where nothing bites is the signal to move
+  (`ShSxNKAcUB4`). A sheephead at Dono ate a slow-wound jig **on the wind-up**
+  (`L3tkGVu516A`).
+- **Time in the strike zone is the parameter the weight controls.** A slider
+  heavier than 1/2 oz drops the bait past the fish — "you don't want to go
+  flying by" (`OSbAHdB4uPs`). A jumbo-sheephead clip makes the same strike-zone
+  claim, but in its title only — nothing in the footage supports it
+  (`qKOmJH_WtJo`).
+- ⚠ Flagged gap — no corpus source: a light window, tide or slack gate, current
+  or moon effect on the sheephead bite.
 
 ## Finding them (sign & sonar)
 
-*No species-specific sonar signature or visual sign is documented in this
-corpus* — this source is a bank/structure tips video, not a meter-reading one.
-Treat as a **structure/chum fishery**: work known artificial-reef or rocky
-structure, chum to draw them up and confirm activity by the bite rather than
-by a meter mark. General method: [search &
-glassing](../planning/search-and-glassing.md),
+There is no surface sign and no species-specific sonar signature to hunt — this
+is a structure-and-chum fishery. Work known artificial-reef or rocky structure,
+get a chum line going, and confirm activity by the bite rather than by a mark.
+
+- **Over inshore bass structure, a wall of marks is not sheephead.** Most of
+  what the meter shows on a nearshore reef is blacksmith and blue perch, with
+  the occasional small whitefish or sheephead mixed in — a read confirmed by
+  dropping cameras on the structure (`kwMIgkCtFUE`).
+- ⚠ Flagged gap — no corpus source: a sheephead-specific sonar mark, arch shape
+  or depth band, which is why the `sonar_depth` infobox field is `unknown`.
+
+General method: [search & glassing](../planning/search-and-glassing.md),
 [electronics & sounder](../planning/electronics-and-sounder.md).
 
 ## Situations → techniques
 
-| Situation (conditions) | Do this | Gear class | Notes |
+| Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Anchored on a chummed artificial reef or structure spot | [Chunking](../techniques/chunking.md) to draw fish up, then a **[sliding-sinker](../techniques/sliding-sinker.md)**-style suspended bait — 1/4–1/2 oz slider, No. 2/No. 4 bronze [hook](../tackle/hooks.md) | Light spinning or small level-wind, light bait class | Bait suspended off bottom, never laid on it — a bottomed bait draws shovelnose sharks, bat rays, smoothhound, and leopard sharks instead |
-| Bass or rockfish fishing red-crab-holding structure, sheephead showing as bycatch | A **red-crab-scented/colored soft-plastic swimbait**, sized down to a **1 oz "bullet"** profile | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall Show 2020 (`5Oh3IPIC5g4`): calls sheephead the brand's "mascot fish" for how well the red-crab bait works on them — smaller-mouthed fish, so the smaller bullet profile out-produces the bigger "Big Game" size. Caught almost always as **bycatch** while bass or rockfish fishing, not targeted directly — see [tube baits](../lures/tube-baits.md#color-selection-and-the-oreo-cookie-effect-chad-hookup-baits-co-owner-5oh3ipic5g4-2020). ⚠ promotional seminar source, low confidence |
-| No live bait aboard | Cut **pismo clam** (top choice), mussel, or squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait; squid strips are the cheap/available fallback (see [hooks](../tackle/hooks.md)) |
-| Cold-water months, summer pelagics gone or slow | Fish sheephead/structure as the reliable fallback rather than putting gear away | Same light bait class | Framed as a year-round bite that doesn't depend on the warm-water season |
-| Teaching a new angler or a kid to fish | Same simple chummed-reef + suspended-bait approach | Light spinning class | Source explicitly frames sheephead as an approachable teaching target |
+| Anchored on a chummed artificial reef or inshore rock — the dedicated program | [Chunking](../techniques/chunking.md) to draw fish up, then a suspended strip bait on a [sliding-sinker](../techniques/sliding-sinker.md) rig | Light spinning or small level-wind, light bait class | **1/4–1/2 oz** slider, never heavier; **No. 2 / No. 4** thin-wire bronze or black [hook](../tackle/hooks.md), never chrome; bait suspended off the bottom, never on it (`OSbAHdB4uPs`). A jumbo sheephead is credited to the same sliding-egg-sinker rig in a clip title only, with no rigging shown or described (`QEpa3WYbEa8`) [a] |
+| No live bait aboard | Cut **pismo clam** (top choice) / mussel / squid into thin strips on the same suspended slider rig | Same light bait class | Pismo clam is the named premium bait for big fish; squid strips are the everyday fallback, threaded from the tip so the strip hangs loose rather than bunching (`OSbAHdB4uPs`, `yKaHcxX46l4`) — see [hooks](../tackle/hooks.md) |
+| Bass or rockfish fishing island rock that holds red crab | **Red-crab-colored/scented soft bait**, **1 oz bullet** profile, thrown up into the rocks and worked right above them | Bass casting / swimbait class | The bullet out-produces the bigger "Big Game" size on a small-mouthed fish; **5/8–1 oz** is the weight range thrown at the island (`5Oh3IPIC5g4`). Caught almost always as by-catch while bass or rockfish fishing, not targeted. On a spot saturated with live red crab, switch to sardine or mint — see [tube baits](../lures/tube-baits.md) and [tube-bait fishing](../techniques/tube-bait-fishing.md) [b] |
+| Drifting an island or bank high spot for reds, 150–200 ft | Same dropped-squid bottom program — see [rockfish deep dropping](../techniques/rockfish-deep-dropping.md) and [dropper loop](../techniques/dropper-loop.md) | 30 lb bait class | Sheephead come over the rail with the reds and [ocean whitefish](ocean-whitefish.md) on the same drift (`fDSd9kqwYW0`, `CKq0Z6ExVs4`); at the Channel Islands a pair came off a shallower island stop earlier in the same variety day, alongside the whitefish (`6-8KfjEg0x8`) |
+| Fishing a bottom high spot on jigs rather than bait | [Slow-pitch jigging](../techniques/slow-pitch-jigging.md) with a **stubby** jig profile | SPJ / slow-pitch class | Big sheephead take slow-pitch jigs readily and favour the stubby shapes — "the long skinny ones they don't like nearly as much" (`PRNMGpLj7Pw`, `8XIy7hPsFkQ`); at Dono one ate a slow-wound homemade butter-knife jig on the wind-up, retrieved "slow as I can turn the handle" (`L3tkGVu516A`) |
+| Live crab aboard as bait for big fish | ⚠ Flagged stub — no corpus source yet: live crabs are named as a thing anglers now carry out on boats specifically for sheephead (`PRNMGpLj7Pw`), with no rig, hook, weight or presentation given anywhere in the corpus | — | Fill in when a source gives the rigging |
+| Cold-water months, summer pelagics gone or slow | Fish the chummed-structure program rather than putting gear away | Same light bait class | A year-round bite that does not depend on the warm-water season (`OSbAHdB4uPs`) |
+| Teaching a new angler or a kid | Same chummed-reef + suspended-bait approach | Light spinning class | Small hooks, small weights and a reef full of willing fish; the catch goes home for dinner (`OSbAHdB4uPs`) |
+
+[a] Deep execution for this row is queued as a sub-article
+(`sources/relocation-queue.md`); the terminal detail currently lives in
+[hooks](../tackle/hooks.md).
+[b] Deep execution for this row is queued as a sub-article; the bait's colors,
+sizes and the saturation read live in [tube baits](../lures/tube-baits.md).
 
 ## Gear summary (class terms)
 
-- **Rod/reel:** no rod/reel/line-class specifics given in this source. Pair
-  with the light-line, pressured-reef gear already logged for the same
-  chummed-structure application in [chunking](../techniques/chunking.md)
-  (light-line finesse rig section): light spinning or small level-wind, hook
-  tied straight to the line (no swivel/beads). See
+- **Rod/reel:** a **30 lb bait class** stick of **7 ft 6 in to 8 ft** covers
+  sheephead alongside shallow-water rockfishing and paddy fish (`DfLcSS-J3g4`),
+  and an all-purpose **island rod fished in the middle of its line rating**
+  covers calicos, whitefish and sheephead off the same structure
+  (`7L7OVoXE7KU`, `DfLcSS-J3g4`) — see
+  [all-purpose rod line rating](../tackle/all-purpose-rod-line-rating.md). For
+  the chummed light-line reef program, drop to light spinning or a small
+  level-wind with the hook tied straight to the line, no swivel or beads — the
+  light-line finesse rig in [chunking](../techniques/chunking.md). See
   [gear classes](../tackle/gear-classes.md).
-- **Terminal:** small **1/4–1/2 oz slider** weight (never heavier); **No. 2 or
-  No. 4 thin-wire bronze or black hook**, never chrome. See
+- **Terminal:** small **1/4–1/2 oz slider** weight, never heavier; **No. 2 or
+  No. 4 thin-wire bronze or black hook**, never chrome (`OSbAHdB4uPs`). The
+  same small size is what sheephead eat "all day every day" on a squid strip
+  (`yKaHcxX46l4`). A charter box carries **size 1 and 3/0 light-wire J hooks**
+  for the shallow cod, whitefish and sheephead stop (`3xx_vES0kdo`). See
   [hooks](../tackle/hooks.md).
-- **Bait:** pismo clam, mussel, or squid, cut into strips. See
-  [chunking](../techniques/chunking.md) for the chum that draws fish up first.
+- **Bait:** pismo clam, mussel or squid, cut into thin strips rather than
+  chunks; mussel specifically suits a treble hook because it is a wad of slime
+  (`OSbAHdB4uPs`). See [chunking](../techniques/chunking.md) for the chum that
+  draws fish up first.
+- **Lures:** **1 oz** red-crab bullet-profile [tube baits](../lures/tube-baits.md)
+  on the bass casting class; stubby-profile slow-pitch jigs on the SPJ class
+  (`PRNMGpLj7Pw`).
+
+## Zone guides
+
+No sheephead zone guide exists yet; the per-zone corpus material is parked in
+the [evidence file](evidence/sheephead.md) under "Zone material".
+
+- **SoCal artificial reefs (North County / San Diego)** — ⚠ Flagged stub — no
+  zone guide yet.
+- **Catalina Island** — ⚠ Flagged stub — no zone guide yet.
+- **Channel Islands** — ⚠ Flagged stub — no zone guide yet.
+- **Cortez Bank** — ⚠ Flagged stub — no zone guide yet.
+- **Ensenada (Baja Pacific north)** — ⚠ Flagged stub — no zone guide yet.
+- **Cedros / San Benitos** — ⚠ Flagged stub — no zone guide yet.
+- **Dono (Baja Pacific north)** — ⚠ Flagged stub — no zone guide yet.
+
+## Regulations
+
+- **California / CDFW, as of 2020-03 — verify current season dates, bag and
+  size limits, and the Rockfish Conservation Area depth line with CDFW before
+  fishing.** Charter sheephead fishing runs inside the groundfish season: an
+  operator speaking just after the opener names the boat's program as
+  "rockfish, lingcod, whitefish and sheephead" (`46ha7J1Fc6A`), so the season
+  dates and depth boundaries that gate the rockfish program gate this one too —
+  the figures live in [rockfish and lingcod](rockfish-lingcod.md).
+- ⚠ Flagged gap — no corpus source: any California bag limit or size minimum
+  specific to sheephead. **Check the current CDFW limits before keeping fish.**
+- ⚠ Flagged gap — no corpus source: any Mexican (CONAPESCA) bag limit or size
+  gauge covering the Ensenada and Cedros fish. **Verify the current Mexican
+  limits and the licence and entry paperwork before fishing** — see
+  [Mexican waters](../locations/mexican-waters.md).
+
+Registered in [regulatory claims](../sources/regulatory-claims.md).
 
 ## Doctrine & conflicts
 
-- **Confidence: medium.** The hook/weight/bait parameters come from a single
-  dedicated video, but the **hook size (No. 2/No. 4) corroborates a second,
-  earlier Your Saltwater Guide sheephead/structure video** (yKaHcxX46l4,
-  logged in [hooks](../tackle/hooks.md)) from the same registered voice —
-  see that note for the resulting `high`-confidence read on the size call
-  specifically.
-- **This is a thin router by design.** The corpus gives real hook/weight/bait/
-  presentation detail but no seasonal calendar, no location-specific spots,
-  and no sonar signature for sheephead — this note routes to the tackle and
-  technique notes that hold what exists and should be filled in if a
-  dedicated sheephead seminar or report enters the corpus. Compare
-  [ocean whitefish](ocean-whitefish.md) and
-  [Pacific crevalle jack](pacific-crevalle-jack.md) for the same thin-router
-  pattern.
-- **Sponsor content excluded.** The source closes on a Baja Jerky
-  discount-code plug and a Your Saltwater Guide membership pitch — skipped
-  per the curation bar (generic/promotional, not SoCal fishing knowledge).
+Section order below is not a ranking.
+
+- **Suspend the bait or fish it on the bottom — the choice turns on depth and
+  target, not on disagreement.** Inshore on a chummed reef the rule is
+  absolute: keep the bait off the bottom or catch rays and sharks instead
+  (`OSbAHdB4uPs`). On a 150–200 ft island or bank high spot the same species
+  comes up on squid dropped to the bottom for rockfish (`fDSd9kqwYW0`).
+  Both hold: the inshore rule is scoped to the light-line
+  chum program, where a bottomed bait sits in a zone full of rays; the bank
+  program is a rockfish drift that sheephead join.
+- **Target or by-catch depends on the depth you are fishing.** The inshore
+  chummed reef is a dedicated sheephead program with its own hook, weight and
+  bait calls (`OSbAHdB4uPs`); on island bass and bank bottom trips the fish is
+  "almost a by-catch," caught while fishing for calicos or rockfish and not
+  targeted directly (`5Oh3IPIC5g4`). What decides which you are doing is
+  whether you are chumming shallow structure for them or dropping on a bottom
+  spot for something else.
+
+## Landing & handling
+
+- **Keep fingers clear of the teeth.** Sheephead carry prominent forward teeth,
+  called out on camera both times a landed fish is handled (`CKq0Z6ExVs4`,
+  `qKOmJH_WtJo`). General method:
+  [dehooking and release](../fish-care/dehooking-and-release.md).
+- **They are a table fish, kept rather than released** — called "Poor Man's
+  Lobster" on camera (`oadK6zIYyCo`), and the whole inshore program is fished
+  to take dinner home (`OSbAHdB4uPs`).
+- ⚠ Flagged gap — no corpus source: whether sheephead brought up from the
+  150–200 ft band suffer barotrauma, and whether venting or a descending device
+  is used on released fish. General care: [fish care](../fish-care/README.md).
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -127,12 +263,14 @@ glassing](../planning/search-and-glassing.md),
 - [Cedros / San Benitos](../locations/cedros-island.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
+- [Evidence — California Sheephead](evidence/sheephead.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [International Artificial Reef](../locations/international-artificial-reef.md)
 - [North County Artificial Reefs](../locations/north-county-artificial-reefs.md)
 - [Ocean Whitefish](ocean-whitefish.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)

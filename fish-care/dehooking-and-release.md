@@ -190,6 +190,7 @@ given other implausible on-camera claims.
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [California Sheephead](../species/sheephead.md)
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)

@@ -25,7 +25,7 @@ by their builders after the transform phase drains.
 | species/pacific-crevalle-jack.md | full | transformed | gaps(9), stubs(2), spots(3), reg-claims(3), fact-check(5), asr-uncertain(3) | apply-with-changes: faithful v2 migration + evidence split; verifier added sourced terminal-tackle spec and rescoped 3 flags |
 | species/rockfish-lingcod.md | full | transformed | gaps(5), stubs(5), misplaced(1), spots(11), reg-claims(2), fact-check(3), spinout(1), asr-uncertain(3) | apply-with-changes: faithful v2 migration + evidence split; verifier fixed one hedge-hardened-into-doctrine row |
 | species/sand-bass.md | full | transformed | gaps(4), spots(9), spinout(2), reg-claims(1), asr-uncertain(3) | apply-with-changes — conservation clean, 12 router rows, evidence split faithful; verifier fixed one unsupported detail, one hardened hedge, one mis-cite, added a mandated tide trigger, converted an unsituated SPJ row into the cited deep-spot jig situation |
-| species/sheephead.md | full | pending |  |  |
+| species/sheephead.md | full | transformed | gaps(7), stubs(6), fact-check(1), spots(9), reg-claims(3), spinout(2), asr-uncertain(1) | apply-with-changes — conservation clean (5 prior source ids + 3 Observed blocks traced), check-note OK, 0 dead links; 4 verifier fixes: invented jig type, two title-only claims stated as doctrine, one mis-scoped cite, two missing zone stubs |
 | species/skipjack-tuna.md | full | pending |  |  |
 | species/snook.md | full | pending |  |  |
 | species/spotted-bay-bass.md | full | pending |  |  |
