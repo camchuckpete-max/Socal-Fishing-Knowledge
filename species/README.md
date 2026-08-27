@@ -11,7 +11,7 @@
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Cabrilla is the leopard grouper of the Sea of Cortez (dEPuDrhoClM), fished from pangas as a cast-and-burn program: the fish sits on rock and is pulled off it by
 - [Calico Bass (Kelp Bass)](calico-bass.md) — Calico bass sit on a defined structure edge — kelp, reef, boiler rock, breakwall — and eat what the current sweeps past them, so a coastal bass day is planned o
 - [California Halibut](california-halibut.md) — California halibut lie in the sand within 5–20 ft of a hard edge, flip sand over their backs and ambush bait the current pins against that edge, so the search i
-- [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — SoCal's "bug" fishery — caught recreationally by hoop netting rocky structure and kelp edges at night during the fall–winter season.
+- [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — Spiny lobster is the one target in this KB with no rod-and-reel route: the recreational program is baited hoop nets on rock, riprap and kelp edge, worked after
 - [Dorado (Mahi-Mahi)](dorado.md) — SoCal/Baja dorado are a warm-water, structure-oriented offshore fish: they ride the green-cold / blue-warm boundary and stack on kelp paddies and open-water sch
 - [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish — a distinct, highly underrated table fish that schools over hard bottom and sand ed
 - [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah — a large, round-bodied, warm-blooded pelagic — show up in the SoCal long-range fishery as an incidental catch rather than a dedicated target: boats pick t

@@ -121,6 +121,7 @@ observed arriving **"out of the west on the moon"** into the Ensenada zone
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — California Spiny Lobster](../species/evidence/california-spiny-lobster.md)
 - [June–July](../seasonal/june-july.md)
 - [Kelp Paddies](kelp-paddies.md)
 - [Report Reading and Forecasting](../planning/report-reading-and-forecasting.md)

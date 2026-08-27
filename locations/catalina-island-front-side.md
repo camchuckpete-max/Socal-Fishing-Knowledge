@@ -261,6 +261,7 @@ Trip reports and per-source provenance:
 - [Arrow Point (partial-take SMCA, no inverts; stay W of 118 32.310)](arrow-point.md)
 - [Avalon Bank](avalon-bank.md)
 - [Bird Rock Reef (stay W of MPA at 118 29.300)](bird-rock-reef.md)
+- [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Can Dump Kelp](can-dump-kelp.md)
 - [Catalina Island — Backside](catalina-island-backside.md)
 - [Dana Point](dana-point.md)

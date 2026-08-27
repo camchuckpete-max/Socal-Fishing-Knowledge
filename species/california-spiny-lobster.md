@@ -1,163 +1,292 @@
 ---
 type: species
 tags: [spiny-lobster, bug, hoop-net, nighttime, rocky-structure, kelp-edge, regs]
-sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4, JiJYamo0QHk, sIoNELGlxmk]
+sources: [b19_AJjYCok, Qs9oEsh3b_w, fri_BWI-VA0, YQsbwfQ4wzY, Ow3an9lSVh4, JiJYamo0QHk, sIoNELGlxmk, EiItVWqFMYc, cEscIy278ew, Q196GVwVqro]
 confidence: medium
 regions: [socal-bight]
-waters: [nearshore-coast, island]
+waters: [nearshore-coast, island, bay-harbor]
+layout: v2
+scientific_name: unknown
+season_peak: [oct, nov, dec, jan, feb, mar]
+sst_band_f: unknown
+depth_band: 20-55 ft
+gear_classes: [hoop-net]
+sonar_depth: none — no meter signature in the corpus
 ---
 
 # California Spiny Lobster
 
-SoCal's "bug" fishery — caught recreationally by **hoop netting** rocky structure
-and kelp edges **at night** during the fall–winter season. Unlike the finfish in
-this KB there is no rod-and-reel technique to route to; the whole game is
-**putting baited hoop nets on the right structure, at night, and being legal** on
-license, gear count, and size. Primary (and single) source is the BD spiny-lobster
-tips video, so this note is **medium confidence** and the regulatory numbers
-below (California / CDFW jurisdiction, last checked **as of 2026-08**) must be
-re-checked against **current CDFW rules** before every trip — they change.
+Spiny lobster is the one target in this KB with no rod-and-reel route: the
+recreational program is baited [hoop nets](../techniques/hoop-netting.md) on
+rock, riprap and kelp edge, worked after dark inside a season set by
+regulation from an early-October opener to a mid-March closer. Nets fish
+**20–55 ft** depending on the ground, and rope length is matched to the
+sounded depth rather than to a nominal band (`YQsbwfQ4wzY`, `cEscIy278ew`,
+`Qs9oEsh3b_w`). The legal frame is as much of the discipline as the fishing —
+two licences, a report card filled out before you fish, **5 nets per angler**
+and **10 per boat**, and a **3.25 in** carapace minimum (`b19_AJjYCok`,
+`Qs9oEsh3b_w`). Grade runs to genuinely large fish: the California hoop-net
+record is **18¾ lb** (`Q196GVwVqro`).
 
 ## Where & when
 
-- **Season:** the recreational spiny lobster season runs roughly **early October
-  through mid-March** (**Oct–Mar**) — spanning the
-  [fall fragmentation and winter/upwelling regimes](../conditions/water-regimes.md),
-  though the dates are set by regulation, not water state. Confirm the exact
-  opener/closer with CDFW for
-  the year — the source video was shot in early November, mid-season.
-- **Where — rocky structure and kelp edges:** hoop net **rock, riprap, boulder
-  fields, reef and the edges of kelp** where lobster crawl and forage. Productive
-  ground spans **bays and harbors** (the video crew fished **San Diego Bay**),
-  **breakwalls/jetties/riprap**, and **island rock**. See
-  [break walls, jetties and riprap](../locations/breakwalls-jetties-riprap.md),
-  [island structure](../locations/island-structure.md), and
-  [bays and harbors](../locations/bays-and-harbors.md).
-- **Depth bands:** the rig fishes **~40–50 ft of rope** to the net, so you're
-  working structure in that general depth range and shallower; drop **on the rock,
-  not off it in open sand.** A second source describes fishing considerably
-  shallower at **Catalina — 20 ft and 30 ft** — off a 65-ft Hatteras
-  (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26), so the workable
-  band runs shallower than 40–50 ft depending on the structure fished; match
-  rope length to the actual drop rather than assuming one depth band.
-- **Depth shifts by season, so vary the drop early in the season (StokedOnFishing,
-  2014-11-03, Catalina Island, SoCal — `Ow3an9lSVh4`, "Stoked on Simrad, part 3";
-  sponsor-heavy episode; unregistered channel — medium confidence):** on the
-  crew's first trip of a season, the presenter notes lobster sit **shallow in
-  the summer months** in some years but have been found **out in deep water**
-  in other seasons — no fixed rule for which a given season will be early on —
-  so the stated approach was to **spread nets across different depths** rather
-  than commit to one band until the night's crawl shows where they're sitting.
-  A further data point alongside, not a reconciliation of, the Catalina
-  20–30 ft and general 40–50 ft bands above.
-- **Post-rain trigger in bays/harbors (Long Beach/LA Harbor, San Diego):** once
-  rain starts falling in season, get gear ready — the source frames the onset
-  of rain as a trigger for an especially strong crawl in the LA/Long Beach
-  Harbor complex and San Diego, calling it a chance at "lobsters of a
-  lifetime" (dave-hansen, Your Saltwater Guide, YQsbwfQ4wzY, 2019-11-26;
-  single-source tutorial claim, not yet corroborated — treat as a lean, not a
-  rule).
-  **Repeated by the same voice, with the mechanism and a worked example
-  (dave-hansen, Your Saltwater Guide, PCS Show live seminar, `sIoNELGlxmk`,
-  2023-03-04; registered voice — second dated mention promotes this specific
-  claim to repeated doctrine / high confidence):** the stated reason
-  lobsters move on rain is that **they avoid fresh water** ("they hate fresh
-  water... hate hate hate it") — rainfall triggers the crawl.
-  **Observed** (dave-hansen, describing his own early charter operation out
-  of Rainbow Harbor, within the Long Beach Harbor complex, dated to
-  2006–2007 on camera): running early hoop-net charters out of Rainbow
-  Harbor (chosen over the rest of Long Beach Harbor because he couldn't
-  afford the fuel to run further) at $100/person for up to 6 anglers over 5
-  hours, with no established program yet built — after it rained, the crew
-  caught lobster at **every spot fished** in the harbor that trip.
-- **When — night.** Lobster crawl and feed after dark; hoop netting is a nighttime
-  activity, which is why the buoys carry **LED lights** to relocate them.
-- **Moon timing — darkest nights best.** Within the season, favor the **darkest,
-  no-moon nights** (including rough/rainy/stormy dark nights): a bright moon
-  suppresses lobster crawling/travel the same way daylight would, since they're
-  nocturnal to avoid predation. This is a lean, not a shutout — hedged by the
-  same source's own record of catching lobster (and knowing others who caught
-  "lots") during full moons too (dave-hansen, fri_BWI-VA0, 2022-02-12). See
-  [moon](../conditions/moon.md#lobster-darkest-no-moon-nights-are-best) for the
-  full writeup and how this contrasts with the pelagic/bass moon doctrine.
+**Season.** The recreational season runs roughly **early October through
+mid-March**; the 2024 season closed **March 20** (`Q196GVwVqro`). The dates
+are set by law, not by water state, so they cut across the
+[fall fragmentation and winter/upwelling regimes](../conditions/water-regimes.md)
+rather than tracking them — see [Regulations](#regulations) before planning
+around either end.
+
+**Ground.** Lobster are hoop-netted on **rock, riprap, boulder fields, reef
+and kelp edge**, and the productive ground spans three settings: bays and
+harbours ([San Diego Bay](../locations/bays-and-harbors.md), Mission Bay, the
+Long Beach/LA Harbor complex), [break walls, jetties and
+riprap](../locations/breakwalls-jetties-riprap.md), and
+[island rock](../locations/island-structure.md) at
+[Catalina](../locations/catalina-island-front-side.md) (`b19_AJjYCok`,
+`Qs9oEsh3b_w`, `YQsbwfQ4wzY`, `Ow3an9lSVh4`).
+
+**Depth.** The corpus's worked bands are **20–30 ft** at Catalina
+(`YQsbwfQ4wzY`), **25–30 ft** as a general big-boat working depth
+(`cEscIy278ew`), **25–35 ft** out of Mission Bay, and **as deep as 55 ft** in
+San Diego Bay when a crawl is reported there (`Qs9oEsh3b_w`). A stock rig
+carries **40–50 ft of rope** (`b19_AJjYCok`), which over-serves most of that
+range; sound the drop and size the rope to it
+([rope length](../techniques/hoop-netting.md#rope-length-match-it-dont-over-carry-it-qs9oesh3b_w)).
+
+**The band moves between seasons and there is no rule for which way.** In some
+years lobster sit shallow through the summer months; in others they are out in
+deep water, so the opening trips of a season spread nets across different
+depths rather than committing to one band until the night's crawl shows where
+they are (`Ow3an9lSVh4`).
+⚠ Flagged gap — no corpus source: mechanism — what moves them between the
+shallow and deep bands from one season to the next.
+
+**Presence is not the crawl.** Lobster are only catchable while crawling, and
+the crawl runs for a bounded stretch of the night and then stops — whatever
+gear is in the water when it stops is the night's catch (`EiItVWqFMYc`).
+
+## Presence & forage
+
+- **They come to a net as scavengers, and freshness is what draws them.** The
+  fresher the bait, the better it pulls; the stated mechanism is that the long
+  antennae pick up the electrical field a bait gives off as it starts to break
+  down and die, and the lobster then "start marching right to your bait"
+  (`YQsbwfQ4wzY`). ⚠ Fact-check (single-source): one commercial-fisherman
+  account relayed second-hand, and the corpus's only stated mechanism for
+  bait detection — the operational half (fresh out-draws stale) is what the
+  whole [bait doctrine](../techniques/hoop-netting.md#bait) rests on.
+- **The draw is a lure, not a meal.** Commercial gear uses a very small bait
+  jar because the object is to bring lobster into the ring, not to feed them
+  off it (`YQsbwfQ4wzY`).
+- **They aggregate, so one lobster is a spot marker.** A net that comes up
+  with lobster goes straight back down on the same drop — "if there's one
+  there's way more there" — and a net that comes up empty is dragged over to
+  the producing spot (`EiItVWqFMYc`).
+- **Predation pressure is why they only move in the dark** — everything in the
+  system eats a lobster, which is what makes them nocturnal feeders
+  (`fri_BWI-VA0`).
+- ⚠ Flagged gap — no corpus source: what California spiny lobster eat
+  naturally. Every forage claim in the corpus is about hook bait
+  (mackerel, anchovy, sardine, salmon heads), not about the natural diet.
+
+## Spawning
+
+⚠ Flagged gap — no corpus source: where or how California spiny lobster
+spawn, or what spawning does to the crawl.
+
+The corpus's only spawning-adjacent record is that lobster are carrying eggs
+by **January**, midway through the open season, argued on camera as the reason
+an agency serious about the resource would close the season then; females of
+**4–5 lb** are kept and cooked anyway (`JiJYamo0QHk`) (asr-uncertain: the
+captions drop the word "eggs" at both points and the reading comes from
+context). ⚠ Fact-check (single-source): a seasonal-timing claim about
+egg-bearing females resting on one seminar aside with garbled captions, and
+the only thing the corpus says about lobster reproduction at all.
+
+## Feeding triggers
+
+- **Dark on the bottom, not sunset, starts the crawl.** Nets go in about **an
+  hour before dark** to get scent moving, and the pull starts about **half an
+  hour after the sun goes under the water** — surface light is still gray at
+  that point, but the bottom is already dark and lobster start crawling
+  straight away because they are hungry and have smelled the bait
+  (`EiItVWqFMYc`).
+- **The crawl is time-bounded.** They crawl for a period and then stop, which
+  is why net count matters more than soak time: five nets covers half the
+  ground of ten while the window lasts (`EiItVWqFMYc`).
+- **Darkest nights are the best nights.** Favour no-moon nights; a bright moon
+  reduces their tendency to travel the same way daylight does, because they
+  are nocturnal to avoid predation (`fri_BWI-VA0`). This is a lean, not a
+  shutout — see [Doctrine & conflicts](#doctrine--conflicts) and
+  [moon](../conditions/moon.md#lobster-darkest-no-moon-nights-are-best) for how
+  it contrasts with the pelagic/bass moon doctrine.
+- **Rain triggers a crawl in the harbour complexes.** Once rain starts falling
+  in season, get gear ready for the Long Beach/LA Harbor complex and San
+  Diego; the stated mechanism is that lobster avoid fresh water — "they hate
+  fresh water... hate hate hate it" — so rainfall puts them moving
+  (`sIoNELGlxmk`, `YQsbwfQ4wzY`). ⚠ Fact-check (single-source): one voice,
+  twice, and no second channel in the corpus records a rain-triggered crawl.
 
 ## Finding them (sign & structure)
 
-There is no meter signature and no bird/surface sign (so the
-[search & glassing](../planning/search-and-glassing.md) layer mostly does not
-apply) — this is **structure targeting by chart and depth**, done in the dark.
+There is **no meter signature and no bird or surface sign** for lobster, so
+the [search and glassing](../planning/search-and-glassing.md) layer mostly
+does not apply — this is structure targeting by chart and depth, done in the
+dark.
 
-- **Read the structure, not the fish:** put nets **on hard structure and kelp-edge
-  transitions** — the same rock and riprap that hold bait and finfish. Chart the
-  rock and boulder edges (the charting/hard-bottom tools in
-  [electronics & sounder](../planning/electronics-and-sounder.md) apply the same
-  way you'd hunt bottomfish structure).
-- **Cover ground, don't stake out** — drop a spread of nets across the structure
-  and move to find where the bugs are crawling that night. How to rig, bait, set,
-  and pull is [hoop netting](../techniques/hoop-netting.md).
+- **Read the structure, not the fish.** Put nets on **hard structure and
+  kelp-edge transitions** — the same rock and riprap that hold bait and
+  finfish — and drop **on the rock, not off it in open sand** (`b19_AJjYCok`).
+  Chart the rock and boulder edges the way you would hunt bottomfish structure
+  ([electronics and sounder](../planning/electronics-and-sounder.md)).
+- **The sounder's job is depth, not detection.** A depth finder is called
+  mandatory on a hoop-net boat because it tells you what is on the bottom, not
+  because it shows lobster (`Ow3an9lSVh4`) — and what is on the bottom is what
+  the rope is sized to (`Qs9oEsh3b_w`).
+- **Split the spread to find the crawl, then consolidate.** Put five nets on
+  one spot and five on another in close proximity — three separate spreads if
+  three spots fish the same window — because you cannot know in advance which
+  one they will crawl on; then pull the unproductive five and move them onto
+  the spot that produced (`EiItVWqFMYc`).
+- ⚠ Flagged gap — no corpus source: whether lobster can be metered at all.
+  The corpus describes only the chart-and-depth read, so silence here is a
+  source gap, not a statement that no signature exists.
 
 ## Situations → techniques
 
-| Situation (conditions) | Do this | Gear class | Notes |
+| Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Rocky structure / kelp edge, night, in season | **[Hoop netting](../techniques/hoop-netting.md)** — baited rigid net dropped on the rock, soaked, pulled and reset | Rigid "pro" hoop net; **5 nets/angler** from a boat (see regs) | Bait cage defeats sea lions |
-| Sea lions / seals working the nets | Rigid net with a **closed bait cage** (clip-in) | — | Protects the bait so the set still fishes |
-| From shore or a public pier | Same [hoop netting](../techniques/hoop-netting.md), **fewer nets** | Max **2 nets/person** from shore or pier | Regs differ from boat fishing |
+| Rock, riprap, boulder field, reef or kelp edge, after dark, in season | **[Hoop netting](../techniques/hoop-netting.md)** — baited rigid net dropped on the rock, soaked, pulled and reset | Rigid hoop-net class; **5 nets/angler**, **10/boat** (see [Regulations](#regulations)) | Fish the full 10 whenever a second angler is aboard — the crawl is time-bounded, so net count decides the night's catch (`EiItVWqFMYc`) [a] |
+| Dark, no-moon night | Same, worked hardest through the darkest hours | Same | Best moon window; a full moon suppresses travel but does not shut the fishery off (`fri_BWI-VA0`) |
+| Rain falling in season, bay/harbour complex | Same, fished on the rain rather than waiting it out | Same | Long Beach/LA Harbor and San Diego; lobster avoid fresh water and start crawling (`sIoNELGlxmk`) [b] |
+| First trips of a season, depth band unknown | Same, but **spread the sets across different depths** instead of committing to one band | Same | Some seasons they sit shallow, others deep, with no rule for which (`Ow3an9lSVh4`) |
+| Sea lions or seals working the nets | Same, with a **closed clip-in bait cage** or a capped black PVC bait tube | Same | Sea lions hunt the bait visually; a black tube disappears against the water so they never locate it (`b19_AJjYCok`, `YQsbwfQ4wzY`) |
+| From shore or a public pier | Same, **fewer nets** | Max **2 nets/person** from shore or pier | Gear counts differ from boat fishing (`b19_AJjYCok`) |
+| Diving for lobster by hand | ⚠ Flagged stub — no corpus source yet: taking lobster by hand while diving is a mainstream SoCal method and the corpus contains nothing on it — no depth, visibility, light, season or handling detail | — | Fill in when a source covers it; hoop netting is the only method the corpus documents |
 
-## Gear summary
+[a] The rig build, bait, soak-and-pull cadence, retrieval and prop-safety
+mechanics all live in [hoop netting](../techniques/hoop-netting.md); this
+router does not restate them.
+[b] Scoped to the harbour complexes named on camera; no corpus source records
+a rain-triggered crawl at the islands or on the open coast.
 
-- **Hoop net rig** — rigid net, sea-lion-proof bait cage, ~40–50 ft rope,
-  torpedo weight, LED buoy: full build in [hoop netting](../techniques/hoop-netting.md).
-- **Bait:** mackerel / anchovies / salmon heads (oily).
-- **No rod/reel** — this species does not route to [gear classes](../tackle/gear-classes.md)
-  the way the finfish notes do.
+## Gear summary (class terms)
+
+- **Hoop-net class** — rigid net, sea-lion-proof bait cage or bait tube, rope
+  sized to the sounded depth, torpedo-weighted self-righting buoy with an LED
+  light. Full build in [hoop netting](../techniques/hoop-netting.md).
+- **Bait class** — oily fin bait: mackerel, anchovies, sardines, or cut-up
+  salmon heads (`b19_AJjYCok`, `YQsbwfQ4wzY`).
+- **No rod-and-reel class applies.** Lobster do not route to
+  [gear classes](../tackle/gear-classes.md) the way the finfish notes do.
+
+## Zone guides
+
+No spiny-lobster zone guide exists yet; the corpus material for each zone is
+parked in the [evidence file](evidence/california-spiny-lobster.md) under
+"Zone material".
+
+- **Catalina Island** — ⚠ Flagged stub — no zone guide yet.
+- **San Diego Bay and Mission Bay** — ⚠ Flagged stub — no zone guide yet.
+- **Long Beach / LA Harbor complex** — ⚠ Flagged stub — no zone guide yet.
+
+## Regulations
+
+**California / CDFW jurisdiction, as of 2026-08 — every figure below changes
+by regulation and must be re-verified with CDFW before you fish.** Registered
+in [regulatory claims](../sources/regulatory-claims.md). Enforcement of these
+rules is strict (`b19_AJjYCok`).
+
+Hard requirements:
+
+- **Season.** Fishing is legal only in the open season, roughly early October
+  to mid-March; the 2024 season closed **March 20** (`Q196GVwVqro`).
+- **Two licences.** A California **fishing licence** *plus* a **lobster report
+  card**. The card is filled out **before you fish** — month, date, location
+  code, and gear code (**gear code 1** for hoop netting) — with "lobster
+  retained" left blank until after (`b19_AJjYCok`).
+- **Bag limit: 7 lobster per person per day** (`JiJYamo0QHk`).
+- **Gear counts: 5 hoop nets per angler from a boat, 10 maximum per boat**
+  regardless of how many anglers are aboard, and **2 nets per person** from
+  shore or a public pier. Fishing the full 10-net boat limit therefore
+  requires at least two people aboard (`b19_AJjYCok`, `Qs9oEsh3b_w`).
+- **Buoy marking.** Every buoy carries your **name and GO ID** — the 10-digit
+  number printed one line below the barcode on your California fishing licence
+  (`Qs9oEsh3b_w`).
+- **Size: the carapace must exceed 3.25 in**, measured from between the
+  eye-socket horns, parallel down the centre of the shell, to the rear edge of
+  the carapace. If the gauge fits between — even by a millimetre — the lobster
+  is short and goes back immediately (`b19_AJjYCok`).
+
+Practice, not requirement:
+
+- Write the GO ID directly on the buoy in permanent marker when every net on
+  the boat is your own gear; mark it on securely-attached tape instead when
+  gear is shared across licences (a charter operator supplying nets, so some
+  buoys must carry a client's or crewmate's number), so the number can be
+  swapped per net (`Qs9oEsh3b_w`).
 
 ## Doctrine & conflicts
 
-- **Regs-awareness is the whole discipline (California / CDFW, as of 2026-08 —
-  verify current rules):**
-  - **Daily bag limit: 7 lobster per person per day** — stated on camera as a
-    hard number, independent of size within the legal minimum below (Capt.
-    Dave Hansen, live seminar, Fred Hall Show 2019 Part 2, filmed by Utah
-    Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen registered
-    voice — medium confidence, single mention on this specific figure).
-    **Regulatory claim — California/CDFW, as of 2026-08, verify current
-    rules before you fish**; logged in
-    [regulatory claims](../sources/regulatory-claims.md).
-  - **Two licenses:** a California **fishing license** *plus* a **lobster report
-    card** — and the card must be **filled out before you fish** (month, date,
-    location code, gear code; gear code **1** for hoop netting), leaving "retained"
-    blank until after.
-  - **Gear limits:** **5 hoop nets per angler** from a boat, **max 10 nets per
-    boat** regardless of how many anglers; **2 nets per person** from shore or a
-    public pier. Fishing the full 10-net boat limit therefore requires a
-    **minimum of two people** aboard (5 nets each) — one angler alone is capped
-    at 5, even on a boat licensed for 10 (Roman Castro/Scotty, Qs9oEsh3b_w,
-    2020-10-17; `roman-castro` registered, single mention — medium confidence).
-  - **Buoy marking:** each buoy must carry your **name and GO ID** — a 10-digit
-    number printed on your California fishing license, one line below the
-    barcode. Write it directly on the buoy in permanent marker if every net on
-    the boat is your own gear; if you're running gear that's split across
-    multiple people (e.g. a charter operator providing all the nets, so some
-    buoys must carry a client's or crewmate's GO ID rather than your own), mark
-    the number on a securely-attached piece of tape instead so it can be
-    swapped per net rather than permanently written on gear that isn't always
-    tied to the same license (`Qs9oEsh3b_w`).
-  - **Size:** measure the **carapace** — from between the eye-socket horns,
-    parallel down the center of the shell, to the rear edge of the carapace — and
-    it must exceed **3.25 inches**. If the gauge fits between (even by a
-    millimeter), it's **short — release it immediately.** CDFW enforces strictly.
-- **Confidence: medium** — the core season/gear-count/size doctrine is
-  single-sourced (BD spiny-lobster tips), and the GO ID/two-angler nuance above
-  adds a second, still-unregistered-channel source; treat the exact numbers as
-  a starting point and confirm the season, bag limit, size, and gear counts
-  with CDFW each year, since they change and both sources predate the current
-  regs.
+Section order below is not a ranking.
+
+- **Depth is sounded, not assumed.** The corpus carries fixed worked bands —
+  20–30 ft at Catalina, 25–35 ft out of Mission Bay, to 55 ft in San Diego Bay
+  (`YQsbwfQ4wzY`, `Qs9oEsh3b_w`) — alongside the position that the band moves
+  season to season with no predictable direction, so the opening sets should
+  be spread across depths (`Ow3an9lSVh4`). What the choice turns on is how
+  much you know about the specific ground: a home spot fished every season
+  gets a rope sized to it, an unfamiliar spot or a first trip of the season
+  gets the spread.
+- **Moon is a lean, not a gate.** Darkest, no-moon nights are the stated best
+  window, and the same source records catching lobster during full moons and
+  knows others who caught "lots of lobsters" then (`fri_BWI-VA0`). Plan the
+  trip on the dark of the moon when the calendar allows; do not cancel one for
+  a full moon. Sea state overrides moon phase either way — a rough, rainy,
+  stormy dark night is named as the best condition of all and as the one you
+  most need to refuse on safety grounds (`fri_BWI-VA0`).
+- **Keeping big lobster is contested and the corpus carries only one side of
+  it.** The stated position is that a **7-per-day** bag makes retention of
+  large fish irrelevant to the population, that a large lobster tastes the
+  same as a small one, and that the commercial fleet's best seasons have come
+  in the same years as heavy recreational take (`JiJYamo0QHk`, `Q196GVwVqro`);
+  the release-the-big-ones position is characterised on camera but never
+  argued by its own holders anywhere in the corpus. What the choice turns on
+  is whether large egg-bearing females are disproportionate breeding stock,
+  which nothing in the corpus establishes — see the flagged gap in
+  [Spawning](#spawning). ⚠ Fact-check (single-source): a stock-effect claim
+  about recreational take, from one speaker, with no count behind it.
+
+## Landing & handling
+
+- **Lobster grip the net, so never pause a pull.** A fish large enough to
+  cover the whole ring of a **36 in** hoop will hold on and can come back over
+  the rail if the rope stops moving; the rule is that the rope only stops when
+  the net is in the boat (`Q196GVwVqro`). Retrieval mechanics:
+  [hoop netting](../techniques/hoop-netting.md#retrieval-scotty-qs9oesh3b_w).
+- **Shake the net out into a bucket, measure from the bucket.** Legal fish go
+  straight into the bait tank and shorts go over the side immediately —
+  possession of a short carries a heavy fine, and the net goes back in the
+  water while two people measure (`cEscIy278ew`). Short-lobster handling in
+  the net itself:
+  [hoop netting](../techniques/hoop-netting.md#sublegal-short-lobster-handling-dave-hansen-your-saltwater-guide-eiitvwqfmyc-2021-01-05).
+- **Kept lobster are held alive in the bait tank** rather than iced
+  (`cEscIy278ew`).
+- **Do not eat the digestive tract** when cleaning (`sIoNELGlxmk`).
+- ⚠ Flagged gap — no corpus source: how long lobster hold alive out of water,
+  any chilling or dispatch practice, or a cleaning procedure beyond the
+  digestive-tract warning. General handling: [fish care](../fish-care/README.md).
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/california-spiny-lobster.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
+- [Evidence — California Spiny Lobster](evidence/california-spiny-lobster.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [Moon](../conditions/moon.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

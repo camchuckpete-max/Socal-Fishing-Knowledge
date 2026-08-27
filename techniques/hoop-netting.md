@@ -375,5 +375,6 @@ gear) are also on the species note.
 ## Linked from
 
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
+- [Evidence — California Spiny Lobster](../species/evidence/california-spiny-lobster.md)
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](../rigging/perfection-loop-knot.md)
 <!-- backlinks:end -->
