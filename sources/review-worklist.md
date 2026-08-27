@@ -17,7 +17,7 @@ by their builders after the transform phase drains.
 | species/bonito.md | full | transformed | gaps(10), zone-stubs(7), fact-check(3), misplaced(1), spots(12), reg-claims(2), asr-uncertain(3) | transform verified and applied with date-attribution corrections; 162->272 lines + 207-line evidence file, 11 sources appended, 1 flagged stub resolved |
 | species/cabrilla.md | full | transformed | gaps(9), misplaced(1), spots(2), reg-claims(1), spinout(2), factcheck(2), asr-uncertain(2) | transform verified, applied with 5 fixes: 2 drift corrections, 1 restored conflict position, 2 pairing/format fixes |
 | species/calico-bass.md | full | transformed | gaps(5), fc(4), misplaced(1), spinout(1), spots(21), reg-claims(3), asr-uncertain(7) | transform verified, applied with 6 fixes: 1 lead drift correction, 1 uncited inference removed, 1 template mislabel, 1 relative-time fix, 1 meta-commentary trim, 1 restored cross-link |
-| species/california-halibut.md | full | pending |  |  |
+| species/california-halibut.md | full | transformed | gaps(3), misplaced(1), spots(9), reg-claims(2), spinout(2), factcheck(2), asr-uncertain(5) | transform verified, 5 fixes applied (1 table break, 1 scope narrowing, 1 style, 2 conservation restores); 511->402 lines + 307-line evidence file |
 | species/california-spiny-lobster.md | full | pending |  |  |
 | species/dorado.md | full | pending |  |  |
 | species/ocean-whitefish.md | full | pending |  |  |

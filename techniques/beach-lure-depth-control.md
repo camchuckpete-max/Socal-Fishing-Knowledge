@@ -72,6 +72,7 @@ metal lure, or any minnow-style hardbait.
 ## Linked from
 
 - [California Halibut](../species/california-halibut.md)
+- [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Inshore Crankbaits](inshore-crankbaits.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Penn Fathom Low Profile — Chad's Surf/Lake Combo (Tackle Express)](../tackle/tackle-express-chad-fathom-lowprofile-surf-combo.md)

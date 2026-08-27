@@ -10,7 +10,7 @@
 - [Pacific Bonito](bonito.md) — Bonito are the fast, small-grade member of the SoCal "three B's" — bass, barracuda, bonito — taken in packs that boil outside the kelp and over the offshore ban
 - [Cabrilla (Leopard Grouper)](cabrilla.md) **[Baja only]** — Cabrilla is the leopard grouper of the Sea of Cortez (dEPuDrhoClM), fished from pangas as a cast-and-burn program: the fish sits on rock and is pulled off it by
 - [Calico Bass (Kelp Bass)](calico-bass.md) — Calico bass sit on a defined structure edge — kelp, reef, boiler rock, breakwall — and eat what the current sweeps past them, so a coastal bass day is planned o
-- [California Halibut](california-halibut.md) — A flatfish you catch by out-thinking the sand, not by covering it.
+- [California Halibut](california-halibut.md) — California halibut lie in the sand within 5–20 ft of a hard edge, flip sand over their backs and ambush bait the current pins against that edge, so the search i
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — SoCal's "bug" fishery — caught recreationally by hoop netting rocky structure and kelp edges at night during the fall–winter season.
 - [Dorado (Mahi-Mahi)](dorado.md) — SoCal/Baja dorado are a warm-water, structure-oriented offshore fish: they ride the green-cold / blue-warm boundary and stack on kelp paddies and open-water sch
 - [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish — a distinct, highly underrated table fish that schools over hard bottom and sand ed
@@ -113,8 +113,6 @@ graph LR
   n4 --> n5
   n5 --> n17
   n6 --> n21
-  n6 --> n25
-  n6 --> n8
   n8 --> n2
   n8 --> n20
   n8 --> n22

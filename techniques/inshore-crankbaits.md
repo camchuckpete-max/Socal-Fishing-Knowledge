@@ -319,6 +319,7 @@ anglers skip.
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
+- [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Imperial Beach](../locations/imperial-beach.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)

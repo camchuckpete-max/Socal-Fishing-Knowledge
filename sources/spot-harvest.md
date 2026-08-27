@@ -162,4 +162,13 @@ harvested.
 | Benitos Island | species/calico-bass.md | evidence — Cedros | middle leg of a macro banks → Benitos → mainland/Chester's Rock multi-stop trip; no calico detail given for this stop | `yjwIGFzWO8I` |
 | La Bocana | species/calico-bass.md | evidence — Baja Pacific | co-op-controlled access, rock structure a few miles off the beach camp; calico graded up through a session — repeated 5 lb fish then a 9 lb | `qri15R3caYE` |
 | Ensenada point/reef (a few miles down-coast) | species/calico-bass.md | evidence — Baja Pacific | a single calico taken incidentally on a yellowtail reef/point stop worked with slow-trolled mackerel and cast jigs | `0dIwWiOc1NY` |
+| San Diego Bay (shipping-lane channel edges / break-wall mouth) | species/california-halibut.md | Where & when | channel edges beside sandy bottom act as a major "thumb over the hose" on a strong tide; a bay fish came on a strong outgoing tide off a channel edge | `OpcKQPA3vAI` |
+| Huntington (dog beach / two inside rigs) | species/california-halibut.md | Where & when / Presence & forage | shale bottom venting methane; the bubble zones trap plankton like a current eddy, and a fish of almost 50 lb came out of it in 30 ft | `OpcKQPA3vAI` |
+| Catalina Island (backside / east end) | species/california-halibut.md | Where & when | island squid-bed zone in 60-100+ ft; halibut sit on the structure beside the nests and stay after the squid leaves | `OpcKQPA3vAI` |
+| Santa Rosa flats | species/california-halibut.md | Where & when | named as an island squid-bed/flats halibut zone in the 60-100+ ft band | `OpcKQPA3vAI` |
+| San Clemente Island (back side) | species/california-halibut.md | Where & when | named as an island squid-bed halibut zone alongside Catalina and Santa Rosa | `OpcKQPA3vAI` |
+| Coronado Island | species/california-halibut.md | Where & when | named as an island where the sand-next-to-squid-bed halibut pattern works | `OpcKQPA3vAI` |
+| Cedros Island | species/california-halibut.md | Where & when / evidence | the same island squid-bed pattern is named as working there; separately the corpus's exceptional-halibut-year reports, incl. a 41 lb fish on a swimbait | `OpcKQPA3vAI`, `Qa-j6LIwa1Q`, `9tIp4n7q850` |
+| Trestles (off Dana Point) | species/california-halibut.md | evidence - Presence & forage | 2009 tournament trip; off-colour shallow water just outside the surf line gave four or five halibut, best on a spinnerbait, with shale outside the beach as the stated reason | `OpcKQPA3vAI` |
+| Redondo (beach off the airport) | species/california-halibut.md | evidence - Finding them | 30-years-ago sportboat halibut trips run as long random sand drifts; the counter-example to short structure drifts | `OpcKQPA3vAI` |
 <!-- review:harvest:end -->

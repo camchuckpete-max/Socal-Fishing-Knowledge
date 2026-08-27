@@ -189,6 +189,7 @@ given other implausible on-camera claims.
 
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Halibut](../species/california-halibut.md)
+- [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

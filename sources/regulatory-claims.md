@@ -40,6 +40,7 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Barred sand bass minimum size | 14 in | 2022-04-25 | [calico bass](../species/calico-bass.md) (same on-camera statement covers both) | `r6j5w40fVHI`, `HMdrP4-i9MM` |
 | Calico (kelp) bass bag limit | 5 per day | 2019-03-13 — oldest regulatory figure in the register; verify current limit before relying on it | [calico bass](../species/calico-bass.md) | `LqW32NSkObY` |
 | California halibut minimum size | 22 in | 2016-11-23 | [California halibut](../species/california-halibut.md) | `MUpvP-Yl2R0` |
+| California inshore gillnet ban (closed the commercial net sets across channel ledges and harbour mouths that intercepted halibut on their travel paths) | in effect since 1994 | 2026-08 (historical; verify current gear and area restrictions with CDFW) | [California halibut](../species/california-halibut.md) | `ghHQe3fP9U4` |
 | Sculpin (California scorpionfish) minimum size | 10 in | 2022-04-16 | [sculpin handling](../fish-care/sculpin-handling.md) | `ty8FtA3Y2bA` |
 | Spotted bay bass minimum size | **none** | 2024-11 | [spotted bay bass](../species/spotted-bay-bass.md) | `usHl-4SfqDA` |
 | Pacific bluefin tuna bag limit | 2 per person per day | 2024-11 | [bluefin tuna](../species/bluefin-tuna.md) | `usHl-4SfqDA` |
@@ -97,6 +98,7 @@ route, and the insurance carriers by name.
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
+- [California Halibut](../species/california-halibut.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)

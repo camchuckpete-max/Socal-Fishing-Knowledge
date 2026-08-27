@@ -129,6 +129,7 @@ Bass casting / swimbait class; 40 lb-class floor for the 3–4 oz baits — see
 
 - [California Halibut](../species/california-halibut.md)
 - [California Sheephead](../species/sheephead.md)
+- [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
