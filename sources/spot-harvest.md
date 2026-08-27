@@ -298,4 +298,8 @@ harvested.
 | Catalina Island (backside) | species/yellowfin-tuna.md | Situations → techniques | the porpoise-associated yellowfin finesse troll — stay outside the pod at 7-9 mph and get in front of it rather than driving through | `ouBrIdO7d4k` |
 | Tanker lanes / 277 bank (Catalina) | techniques/bait-and-switch.md | evidence — Dropback bait execution | the dropback method was worked and filmed on this ground during a guided marlin trip | `3qSY328fFYo` |
 | Cabo San Lucas | techniques/bait-and-switch.md | evidence — Gear class | closing-tips segment named the drop-back as the best bet for hookups, with the rig spec named | `Mwx5AAXNMvE` |
+| Guadalupe Island | techniques/chunking.md | Guadalupe Island big tuna | big tuna described as very indiscriminate when hungry, taking a chunk of mackerel or "something else" readily; grade 100-140 lb | `NJ9ZLAU3sls` |
+| Pendleton artificial reef | techniques/chunking.md | Anchored chumming | worked sink-timing example — bow-tied chum bucket fished in 35-40 ft, chum sunk 3-4 ft by the time its plume is visible | `bM2vUS1B-yQ` |
+| Northwest Harbor (San Clemente Island) | techniques/chunking.md | Fighting fish out of shallow rock | anchored tight to island rock ("Coiler Rock"/"boiler Rock", asr-uncertain) in about 6 ft; calico to 8 lb taken on this pattern at two sessions | `KCcEqHSZ84k`, `eNcltRh-shc` |
+| Mission Bay | techniques/chunking.md | Chum bait selection | dorado refused live sardine but ate a cut chunk immediately after a trolling bite came off a current break | `uyjTdgIw-1k` |
 <!-- review:harvest:end -->
