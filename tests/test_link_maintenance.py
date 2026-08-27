@@ -269,6 +269,41 @@ def test_region_badge(tmp: Path) -> None:
     check("spanning note is not badged", lm.region_badge(both), "")
 
 
+def test_github_anchor_does_not_collapse_hyphen_runs(tmp=None) -> None:
+    """The trap: GitHub replaces EACH space with a hyphen, without collapsing.
+
+    "Parameters & judgment" drops the ampersand, leaving two spaces, and so
+    slugs to `parameters--judgment` with TWO hyphens. A slugifier that
+    collapses whitespace reports ~10x false positives — measured at 499 stale
+    anchors against a true 79 when this was first checked by hand.
+    """
+    cases = {
+        "## Parameters & judgment": "parameters--judgment",
+        "## Size — bait first, fish second": "size--bait-first-fish-second",
+        "## Finding them (sign & sonar)": "finding-them-sign--sonar",
+        "## When to use it": "when-to-use-it",
+        "### `Mad Mac` speed-troll": "mad-mac-speed-troll",
+        "## Go/no-go wind & swell thresholds": "gono-go-wind--swell-thresholds",
+    }
+    for heading, want in cases.items():
+        check(f"anchor for {heading!r}", lm.github_anchor(heading), want)
+
+
+def test_stale_anchor_detected_only_when_heading_is_gone(tmp=None) -> None:
+    with tempfile.TemporaryDirectory() as d:
+        root = Path(d)
+        (root / "target.md").write_text(
+            "# T\n\n## Parameters & judgment\n\nbody\n", encoding="utf-8")
+        offered = lm.anchors_of(root / "target.md")
+        check("live anchor is offered", "parameters--judgment" in offered, True)
+        check("renamed anchor is not", "parameters-and-judgment" in offered, False)
+        # a code fence must not contribute headings
+        (root / "fenced.md").write_text(
+            "# F\n\n```\n## Not A Heading\n```\n", encoding="utf-8")
+        check("headings inside code are ignored",
+              "not-a-heading" in lm.anchors_of(root / "fenced.md"), False)
+
+
 def main() -> int:
     with tempfile.TemporaryDirectory() as d:
         tmp = Path(d)
@@ -292,14 +327,16 @@ def main() -> int:
                    test_region_badge,
                    test_container_rung_with_markers_passes,
                    test_container_rung_without_markers_is_reported,
-                   test_child_list_generated_and_placeholder_when_empty):
+                   test_child_list_generated_and_placeholder_when_empty,
+                   test_github_anchor_does_not_collapse_hyphen_runs,
+                   test_stale_anchor_detected_only_when_heading_is_gone):
             fn(tmp)
     if failures:
         print(f"FAILED ({len(failures)}):", file=sys.stderr)
         for f in failures:
             print(f"  - {f}", file=sys.stderr)
         return 1
-    print("link-maintenance tests: 21 check groups OK")
+    print("link-maintenance tests: 23 check groups OK")
     return 0
 
 

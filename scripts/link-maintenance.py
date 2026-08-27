@@ -385,6 +385,40 @@ def parse_links(path: Path):
         yield text_part, file_part, target
 
 
+def github_anchor(heading: str) -> str:
+    """GitHub's heading->anchor slug.
+
+    Lowercase, strip markdown, drop everything that is not alphanumeric,
+    space, hyphen or underscore, then replace EACH space with a hyphen —
+    runs are NOT collapsed, so "Parameters & judgment" is
+    `parameters--judgment` with two hyphens. Collapsing them is the obvious
+    mistake and reports ~10x false positives.
+    """
+    h = heading.strip().lstrip("#").strip()
+    h = re.sub(r"`([^`]*)`", r"\1", h)
+    h = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", h)
+    h = re.sub(r"[*_~]", "", h)
+    h = h.lower()
+    h = "".join(c for c in h if c.isalnum() or c in " -_")
+    return h.replace(" ", "-")
+
+
+_ANCHOR_CACHE: dict[Path, set[str]] = {}
+
+
+def anchors_of(path: Path) -> set[str]:
+    """Every anchor a note offers, from its ATX headings."""
+    if path not in _ANCHOR_CACHE:
+        try:
+            text = strip_code(path.read_text(encoding="utf-8"))
+        except OSError:
+            text = ""
+        _ANCHOR_CACHE[path] = {
+            github_anchor(ln) for ln in text.splitlines() if ln.startswith("#")
+        }
+    return _ANCHOR_CACHE[path]
+
+
 def replace_block(text: str, start: str, end: str, body: str, where: str = "") -> str:
     """Replace content between start/end markers (inclusive) with markers+body.
     Appends a fresh block at EOF if the markers are absent. Raises if the end
@@ -417,6 +451,7 @@ def main() -> int:
     # On any dead link: report and exit 1 with ZERO writes — a failing run must
     # not leave partially regenerated backlinks or indexes behind.
     dead: list[str] = []
+    stale_anchors: list[str] = []
     inbound: dict[Path, set[Path]] = {p: set() for p in note_files}
     for src in md_files:
         for _text, file_part, raw in parse_links(src):
@@ -424,6 +459,17 @@ def main() -> int:
             if not target.exists():
                 dead.append(f"{src.relative_to(ROOT)} -> {raw}")
                 continue
+            # Anchors are REPORTED, never fatal. link-maintenance has always
+            # validated only the file half of `note.md#section`, so a heading
+            # rename silently leaves the link pointing at the top of the file.
+            # The v2 style rewrite strips attribution preambles from headings,
+            # so every transform can strand a few. Reported so the drift is
+            # visible and sweepable; not fatal because a stale anchor still
+            # resolves to the right note.
+            if "#" in raw:
+                anc = raw.split("#", 1)[1].strip().lower()
+                if anc and anc not in anchors_of(target):
+                    stale_anchors.append(f"{src.relative_to(ROOT)} -> {raw}")
             # record editorial note->note backlinks (README/log excluded as source)
             if (
                 src in note_files
@@ -708,9 +754,17 @@ def main() -> int:
                   f"{SECTION_LINES} lines")
 
     # ---- report ----
+    if stale_anchors:
+        uniq = sorted(set(stale_anchors))
+        print(f"\n  {len(uniq)} stale anchor(s) — the note resolves, the "
+              f"section no longer exists:")
+        for s in uniq[:6]:
+            print(f"    {s}")
+        if len(uniq) > 6:
+            print(f"    … and {len(uniq) - 6} more")
     print(
         f"OK: {len(note_files)} notes, {len(dirs) + len(parent_dirs)} indexes, "
-        "0 dead links."
+        f"0 dead links, {len(set(stale_anchors))} stale anchor(s)."
     )
     return 0
 
