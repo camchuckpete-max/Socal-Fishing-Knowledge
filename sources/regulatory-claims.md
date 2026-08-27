@@ -75,7 +75,7 @@ recorded so the figure isn't mistaken for a verified limit:
 
 **Not a regulation — an operator agreement, kept distinct:**
 
-- **Cedros Island 100% voluntary catch-and-release** for calico bass, grouper (cabrilla), and black seabass — [calico bass](../species/calico-bass.md). Adopted collectively by local fishing companies; **not** a Mexican government rule, so compliance depends on the operator. Recording date reframed to on-or-before 2023-05-24 (`Zo92MG459gQ`) from the earlier October-2023 reading (`ldVj0BoB-kE`).
+- **Cedros Island 100% voluntary catch-and-release** for calico bass, grouper (cabrilla), and black seabass — [calico bass](../species/calico-bass.md). Adopted collectively by local fishing companies; **not** a Mexican government rule, so compliance depends on the operator. Recording date reframed again to on-or-before **2023-03-26** (`ZBRSB4iwtbU`, the earliest of three uploads of one re-cut Jose interview), from the 2023-05-24 reading (`Zo92MG459gQ`) and the original October-2023 reading (`ldVj0BoB-kE`). Stated rationale in all three cuts: pressure on the summer spawning aggregations of the three species.
 
 ## Known gap
 
@@ -95,6 +95,7 @@ route, and the insurance carriers by name.
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
+- [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)

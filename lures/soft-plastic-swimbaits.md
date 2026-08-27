@@ -641,6 +641,7 @@ baits and heads from the class terms above; see
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)

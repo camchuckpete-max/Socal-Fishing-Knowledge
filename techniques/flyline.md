@@ -829,6 +829,7 @@ confidence.
 - [Essential SoCal Knots](../rigging/essential-knots.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

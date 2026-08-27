@@ -491,6 +491,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — California Barracuda](../species/evidence/barracuda.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Imperial Beach](../locations/evidence/imperial-beach.md)
