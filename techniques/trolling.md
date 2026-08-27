@@ -1095,6 +1095,7 @@ covered above, not a new tool.
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
+- [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — Pacific Bonito](../species/evidence/bonito.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)

@@ -492,6 +492,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)
 - [Evidence — 279 / 267 / 14 Mile Bank](../locations/evidence/279-267-14-mile-bank.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
+- [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)

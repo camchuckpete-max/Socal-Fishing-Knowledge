@@ -5,457 +5,234 @@ sources: [E4vKwRaRueA, VgpgJ8IAyJo, 5to3Q5P7w90, HcEh5KOYTH4, CrLDC4O8qS8, camer
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [open-ocean]
+layout: v2
+scientific_name: unknown
+season_peak: [jul, aug, sep, oct]
+sst_band_f: 71-72
+depth_band: upper water column under a paddy — arcs at 90-120 ft
+gear_classes: [40-60lb-all-day, 25-40lb-flyline, light-flyline, trolling, bass-casting]
+sonar_depth: boomerang arcs 90-120 ft under a kelp paddy
 ---
 
 # Dorado (Mahi-Mahi)
 
-SoCal/Baja **dorado** are a warm-water, structure-oriented offshore fish: they
-ride the **green-cold / blue-warm boundary** and stack on **kelp paddies** and
-open-water schools. Voracious but capable of turning **as picky as any fish** —
-so the program is find the paddy, wake the fish, and step your presentation down
-until they eat. Very seasonal: some years the water fills with them, some years
-you see a handful (`E4vKwRaRueA`).
+Dorado concentrate where the cold green coastal water butts against the warm blue
+water offshore — 71.6 °F on a productive paddy — and stack under the broken-off
+[kelp paddies](../conditions/kelp-paddies.md) drifting along that edge
+(`E4vKwRaRueA`). Presence swings hard year to year: some seasons the water fills
+with them, others produce a handful, with the first fish showing in July and
+August (`E4vKwRaRueA`). They are voracious and can turn as picky as any fish, so
+the program is find the paddy, confirm fish are home, then step leader and hook
+down until they eat (`E4vKwRaRueA`). SoCal grade averages 8–15 lb with fish to
+30 lb (`P9H-bpzT7eU`).
 
 ## Where & when
 
-- **Season:** first fish usually show with the early-to-peak
-  [warm-stable regime](../conditions/water-regimes.md) (typically
-  **July–August**), building through late warm-stable into the fall
-  fragmentation regime (**late summer into fall**). "You always want to be prepared, especially in
-  those July and August months — that's when the fish first show up" (`E4vKwRaRueA`).
-  See [August](../seasonal/august.md), [September](../seasonal/september.md),
-  [October](../seasonal/october.md).
-  **Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
-  stated): an oversized kelp paddy (described as "as big as the boat") held
-  hundreds of dorado plus incidental yellowtail well into October — consistent
-  with the fall paddy program still producing after the July–August peak.
-  **Observed** (StokedOnFishing, 2022-10-06 upload, SoCal coastline, exact
-  location not stated — `e73wPONTOJU`; unregistered channel — medium
-  confidence): closing narration called fall 2022 **"a straight out Dorado
-  invasion of the Southern California coastline"** — a broad, non-location-
-  specific corroboration of 2022 as a strong dorado year, sitting alongside
-  the loaded-paddy observation above from the same fall.
-  **Observed** (StokedOnFishing, 2022-10-13 upload, offshore SoCal — ran
-  south from an unproductive overnight bluefin push into warmer water before
-  finding the bite, exact location not stated — `VWClGAn2WEw`, "Offshore
-  Kelp Paddy Fishing On the ElDorado," a 2.5-day El Dorado charter out of
-  Long Beach Sportfishing; unregistered channel — medium confidence): after
-  bluefin refused to bite overnight and into the next morning ("stubborn
-  bluefin tuna that did not want to play"), the crew ran south into warmer
-  water and found a loaded kelp-paddy bite instead — day one alone produced
-  on the order of **60-plus dorado** (heard on camera as "66," phrasing
-  garbled — ASR-uncertain count), 2 good-sized yellowtail, and a marlin; day
-  two continued as a "hot and heavy" dorado bite. Another same-fall 2022 data
-  point for the dorado program, and a concrete plan-B pivot: when an overnight
-  bluefin push goes cold, running toward warmer water to find the paddy
-  program is a documented fallback on this trip.
-- **Where:** **~15 mi off San Diego** is the typical big-concentration zone
-  (`E4vKwRaRueA`); by the late warm-stable phase (typically September) they're in
-  **open-water schools below/backside Catalina** (`5to3Q5P7w90`). The primary structure is
-  **[kelp paddies](../conditions/kelp-paddies.md)** — broken-off kelp that loads
-  with bait (baby rockfish, anchovy, mackerel, sardine, baby flying fish) and
-  holds patrolling dorado.
-- **Water:** they concentrate where the **cold green water on the beach butts up
-  against the warm blue water offshore** — reference band **~71–72 °F** (71.6 °F
-  observed on a productive paddy, E4vKwRaRueA). See
+- **Season.** First fish show with the early-to-peak
+  [warm-stable regime](../conditions/water-regimes.md), typically July–August,
+  and build through late warm-stable into the fall fragmentation regime
+  (`E4vKwRaRueA`). See [August](../seasonal/august.md),
+  [September](../seasonal/september.md), [October](../seasonal/october.md).
+- **Abundance swings year to year.** The fishery is very seasonal — a season of a
+  ton of fish and a season of a handful both happen — so carry dorado tackle from
+  July on rather than packing it for a known run (`E4vKwRaRueA`).
+- **Where.** ~15 mi off San Diego is the typical big-concentration zone
+  (`E4vKwRaRueA`); by the late warm-stable phase, typically September, they hold
+  as open-water schools below and behind Catalina (`5to3Q5P7w90`).
+- **Water.** Fish the boundary where cold green water on the beach meets warm blue
+  water offshore — reference band ~71–72 °F, with 71.6 °F measured on a productive
+  paddy (`E4vKwRaRueA`). See
   [water temperature](../conditions/water-temperature.md),
   [water color](../conditions/water-color.md).
-- **Grade (as of September 2022 — Carl Schmidt, SearcherSportfishing/
-  Fisherman's Landing, `P9H-bpzT7eU`; registered channel, single mention —
-  medium confidence):** SoCal average dorado ran **8–15 lb** that season, with
-  fish up to **30 lb** seen (a couple bigger). Most boats voluntarily
-  encouraged releasing the smaller **4–6 lb** fish and keeping bigger fish for
-  the table — a boat-level table-fare practice, not a CDFW size or bag
-  regulation.
+- **Grade.** SoCal average ran 8–15 lb as of September 2022, with fish to 30 lb
+  and a couple bigger (`P9H-bpzT7eU`). Most boats voluntarily encourage releasing
+  4–6 lb fish and keeping bigger ones for the table — a boat-level table-fare
+  practice, not a limit; see [Regulations](#regulations).
 
-**Observed** (StokedOnFishing, 2014-11-03, Mission Bay, SoCal — `uyjTdgIw-1k`,
-"Stoked On Simrad, part 2"; unregistered channel, sponsor-heavy Simrad demo —
-medium confidence): running a chartplotter SST overlay out from Mission Bay,
-the crew read a temperature break climbing from **69°F near the harbor to
-71–72°F roughly 7–13 nm offshore** — a second data point consistent with this
-note's ~71–72°F boundary reference above, this time read as a graduated break
-approached from cooler water rather than a single measured value on a
-productive paddy. Working that break produced a mixed-species bite including
-dorado; see [chunking](../techniques/chunking.md) and
-[electronics and sounder](../planning/electronics-and-sounder.md#sst-and-wind-overlay-for-finding-the-break-and-calmer-water-simrad-nso-evo2-chartplotter)
-for the search method and the chum-bait-selection data point from the same
-session. Gear on this trip was lighter than the stepped 20–40 lb range below:
-a **#2 hook** on **65 lb braid to a 4 ft top shot of 25 lb fluorocarbon**.
+Trip reports by zone are in the [evidence file](evidence/dorado.md).
 
-**Observed** (StokedOnFishing, 2015-09-26 upload, Catalina Island trip
-(exact catch location not resolved on camera — a trip-recap segment
-covering both the Catalina anchor stop and a separate offshore bluefin
-drift), SoCal — `8THSuqoPI_Q`, "Simrad Summer part 2," sponsor-heavy
-Simrad/Okuma episode; unregistered channel — medium confidence): the same
-trip's dorado bite is described as coming on a **nose-hooked sardine**,
-contrasted in the same recap with sardines **butt-hooked** for the
-separate bluefin drift (see [bluefin tuna](bluefin-tuna.md#where--when)) —
-a hook-position-by-target data point alongside the Catalina yellowtail
-squid/flyline entry logged in [yellowtail](yellowtail.md#where--when).
+## Presence & forage
 
-**Observed** (StokedOnFishing, `skRo1z41Dnc`, aired 2015-01-17, "Top Gun 80
-Offshore Grandslam, part 1," offshore San Diego, SoCal, H&M Landing charter
-aboard the Top Gun 80; unregistered channel, sponsor-heavy episode (Simrad)
-— medium confidence): dorado were sighted jumping around/on a **breezer**
-(open-water surface sign, not a discrete kelp paddy); the crew's own
-day-one summary framed a pattern of "Dorado been coming in and then...
-yellowfin or blue fin will show up and... push out the Dorado" and
-speculated the same breezer had held bluefin two days earlier — see
-[bluefin tuna](bluefin-tuna.md#finding-them-sign--sonar) for the full
-entry, including a same-trip whale-associated tuna sighting. The day's
-confirmed catch mix was dorado, bluefin, yellowfin, and yellowtail — a
-four-species day.
+- **A paddy is a bait aggregator, and the bait is what holds the dorado.** Kelp
+  broken off the coastal beds drifts offshore as structure that hides small bait
+  fish and gives predators a place to stop and hunt; it loads with life over time,
+  and that life brings the dorado in (`E4vKwRaRueA`).
+- **Natural forage under a paddy:** baby rockfish, anchovy, mackerel, sardine and
+  baby flying fish (`E4vKwRaRueA`).
+- **Paddies restock at night, not during the day** (`ZFqe49jRgA0`) — the fish move
+  onto them in darkness, which is why a bare paddy at midday is still bare an hour
+  later.
+- **The concentration is on the edge, not the interior.** In warm-water years
+  weight chlorophyll and water colour at least as heavily as SST, and do not fish
+  dirty green water for gamefish (cameron) — the fish sit where green meets blue,
+  so the target is the boundary rip.
+- ⚠ Flagged gap — no corpus source: what drives the year-to-year swing in
+  abundance, and what share of a season's fish ride paddies versus open-water
+  schools.
+
+## Spawning
+
+⚠ Flagged gap — no corpus source: dorado spawning timing, location, or its effect
+on the bite. Nothing in the corpus addresses it.
+
+## Feeding triggers
+
+- **The paddy bite is not time-of-day gated.** Fish are on a paddy or they are
+  not, and one that is not biting when you find it does not turn on while you wait
+  — the restock happens at night (`ZFqe49jRgA0`). Give it a minute or two, then
+  move to the next one.
+- **Dorado feed charging straight ahead**, eating a bait and driving at the boat
+  looking for more, picking off as many as they can — where tunas and yellowtail
+  grab a bait and immediately turn sideways (`E4vKwRaRueA`). That difference is
+  what sets hook style; see [Doctrine & conflicts](#doctrine--conflicts).
+- **In a picky bite, hook size matters as much as leader size.** The stated read
+  is that the fish is not seeing the line so much as something out of the
+  ordinary: a sardine dragging an oversized hook does not swim right and does not
+  get bit (`E4vKwRaRueA`). Step the hook down alongside the leader rather than
+  changing baits.
+- ⚠ Flagged gap — no corpus source: light-window, tide, current or moon triggers
+  for dorado.
 
 ## Finding them (sign & sonar)
 
-- **Visual sign:** you're **glassing for paddies**, not for the fish. Gyro-
-  stabilized binoculars from the roof extend the search — dolphin to ~4 mi, birds
-  to a couple of miles, vs ~½ mi at deck level (`E4vKwRaRueA`). Paddies run
-  boogie-board to half-a-garage-door size. See
+- **Glass for paddies, not for the fish.** Gyro-stabilised binoculars from the
+  roof extend the search — dolphin to ~4 mi and birds to a couple of miles,
+  against ~½ mi at deck level (`E4vKwRaRueA`). Paddies run boogie-board to
+  half-a-garage-door size. See
   [search & glassing](../planning/search-and-glassing.md).
-- **Birds:** **birds sitting on a paddy = a great sign** and make it easier to
-  locate — see [bird reading](../conditions/bird-reading.md).
-- **Sonar signature (top-of-column, not deep):** dorado hold **under and around
-  the paddy in the upper water column**, not on a deep meter mark — look for the
-  **bait ball packed under the kelp** and fish arcs shadowing it. A live paddy
-  reads as loaded with life; a dead one is bare. Test fast: throw a **Mad Scad
-  from the tower** — if a fish (usually a dorado) chases it out, they're home; if
-  nothing shows, move to the next paddy (`VgpgJ8IAyJo`). If there's no surface
-  activity to look at, check the fathometer for **boomerang-shaped arcs around
-  90–120 ft**, and give the paddy about a minute or two before ruling it dead
-  (Your Saltwater Guide / Dave Hansen, ZFqe49jRgA0, 2019-05-26). General method:
-  [electronics & sounder](../planning/electronics-and-sounder.md).
-  **Observed** (Your Saltwater Guide / Dave Hansen, 2018-10-15, location not
-  stated): a paddy with fish already boiling and jumping on the surface
-  before the boat closed in produced numerous dorado — a visual confirmation
-  of "loaded" surface activity ahead of working the paddy, consistent with
-  the live-vs-dead-paddy read above.
+- **Birds sitting on a paddy are a great sign** and make it easier to locate in
+  the first place (`E4vKwRaRueA`) — see
+  [bird reading](../conditions/bird-reading.md).
+- **Drive right up to the edge and start fishing; do not sneak up on it**
+  (`ZFqe49jRgA0`, `HcEh5KOYTH4`). Sportboats arrive loud, drive to the kelp, drop
+  in and catch fish, which is the evidence that a quiet drift-down buys nothing.
+- **Sonar signature — upper water column, not a deep bottom mark.** Dorado hold
+  under and around the paddy; over open ocean that reads as boomerang-shaped arcs
+  at 90–120 ft on the fathometer, plus the bait ball packed under the kelp
+  (`ZFqe49jRgA0`). A live paddy reads as loaded with life; a dead one is bare.
+  General method:
+  [electronics & sounder](../planning/electronics-and-sounder.md). One incidental
+  dorado has been taken off the bottom during a deep Cedros halibut drift
+  (`9tIp4n7q850`) — an outlier beside this doctrine, not a revision of it.
+- **Qualify the paddy fast:** throw a Mad Scad from the tower and watch for a chase
+  — usually a dorado (`VgpgJ8IAyJo`); if there is no surface activity and nothing
+  on the meter, give it about a minute or two before ruling it dead
+  (`ZFqe49jRgA0`).
 
 ## Situations → techniques
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** — dorado charge the boat feeding straight ahead and won't set on a circle; **match hook to bait** (1/0 live-bait, up to 2/0–3/0 on donkey sardines); skip jigging — rod up, crank flat-out so the lure skips on top — is a tip-up alternative to the standard swim, named for tuna/dorado/yellowtail generically, single-mention source, medium confidence |
-| Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; throw a Mad Scad from the tower to confirm fish before committing |
-| **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | Chad, HookUp Baits co-owner, Fred Hall 2020 (`5Oh3IPIC5g4`) — a **pink ("Dorado")** color, 1 oz or 5/8 oz, is named as a dorado favorite at paddies; see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4). ⚠ promotional seminar source, low confidence |
-| **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade will attack a jig their own size and even marlin-size lures (`E4vKwRaRueA`); the Mad Scad "catches every species but dorado can't say no" (VgpgJ8IAyJo — Nomad promo, **low**) |
-| **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | They can be as finicky as any fish; smaller hook so the bait swims right; don't drop below ~15 lb or you get bit off |
+| Fish on/under a **kelp paddy** | 1) [Flylined bait](../techniques/flyline.md) 2) [surface iron / casting jig](../techniques/surface-iron.md) 3) [poppers](../lures/tuna-poppers-and-stickbaits.md) 4) [skip jigging](../techniques/skip-jigging.md) | 40–60 lb all-day class; light flyline leader | **J-hook, not circle** [a]; **match hook to bait** — 1/0 live-bait hook for a typical 6 in SoCal sardine, 2/0–3/0 on donkey sardines (`E4vKwRaRueA`) [b] |
+| Paddy present but **quiet / needs waking** | Slow-troll a sardine and **swing it into the paddy**; **deck-hose spray** on the surface; [chunking](../techniques/chunking.md) | Flyline class | Wake-up tricks fire a lethargic paddy; confirm fish with a Mad Scad from the tower before committing (`VgpgJ8IAyJo`). ⚠ cite-unresolved: sources/bd-transcript-knowledge-proposal.md — the slow-troll swing and the deck-hose spray trace to a KB input doc, not to a transcript |
+| **Unqualified paddy, want to check it without spending live bait** | Cast a **1 oz swimbait** at/along the paddy, let it sink **20–30 ft**; no bite in a couple of casts reads as empty | Bass casting / swimbait class | A pink ("Dorado") colour, 1 oz or 5/8 oz, is a named dorado favourite at paddies (`5Oh3IPIC5g4`); see [tube-bait fishing](../techniques/tube-bait-fishing.md#tuna-patties-boils-and-punching-through-a-skipjack-layer-chad-hookup-baits-co-owner-5oh3ipic5g4) [c] |
+| **Open-water schools** / traveling fish | [Trolling](../techniques/trolling.md) — pink/silver, purple/black lures | Trolling class | "Dorado love to eat a trolled lure … anything with pink and silver, purple and black"; bigger grade attacks a jig its own size and even marlin-size lures (`E4vKwRaRueA`) [d] |
+| **Picky/finicky** dorado circling the boat, won't commit | Step the leader **down** (40 → 30 → 20 → 15 lb) and shrink the hook; keep a live bait swimming naturally | Light flyline class | Below ~20 lb you start getting bit off, so 15 lb is the floor and only when nothing else draws a bite (`E4vKwRaRueA`) |
 
-**Observed** (Your Saltwater Guide / Dave Hansen, 2022-10-12, location not
-stated): on a pre-qualified, obviously loaded paddy (fish already jumping
-before the boat arrived), the crew ran straight to the edge and pitched
-baits immediately — no wake-up step needed. Corroborates the flylined-bait
-row above as the go-to when fish are already active on the paddy.
-
-**Observed** (Your Saltwater Guide / Dave Hansen, 2021-01-19, Cabo San
-Lucas, Baja): a dorado was an incidental catch, well inshore in the **surf
-line**, on a small hoochie/feather being slow-trolled at ~6 kt for
-[sierra](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-trolling-for-sierra)
-— gear sized and rigged for a different, toothier species still drew a
-dorado bite. Not a targeted dorado technique; logged here as a region/
-gear-size data point, distinct from the offshore paddy and open-water-school
-program above.
-
-**Observed** (Your Saltwater Guide / Dave Hansen, November 2019, Cabo San
-Lucas, Baja):
-dead ballyhoo trolled behind the boat produced multiple dorado hookups — a
-natural-dead-bait trolled presentation alongside the pink/silver/purple-
-black lure doctrine in the open-water-schools row above. The on-camera
-rigging/hook-tie-in narration was not captured in the transcript (cuts
-straight to on-the-water footage), so no leader, hook size, or troll-speed
-parameters could be logged from this video.
-
-**Observed** (StokedOnFishing, trip framed on camera as "this past June"
-(resolved from the 2024-04-26 upload date to **June 2023**), backside San
-Clemente Island, SoCal — `r4J5nP5Bkl4`, "Summer Bluefin Bite on the
-ElDorado," 85 ft **El Dorado**, Captain TJ; unregistered channel — medium
-confidence): a kelp-paddy dorado session (mixed into the same trip's
-[bluefin tuna](bluefin-tuna.md) sundowner bite) produced roughly a
-**half dozen dorado**. Live-bait chumming from the tank drew fish from the
-bow up to the corner where anglers were fishing, working under birds sitting
-over the paddy — a bow-to-corner draw consistent with the chumming/wake-up
-tricks already logged for a quiet paddy (see
-[chunking](../techniques/chunking.md)). The bite itself was described on
-camera as **picky**, with fish behaving as free swimmers rather than
-committing hard. One fish in the run — landed on **30 lb test**, fought
-boatside including going briefly under and rubbing on the hull — connected on
-a **circle hook square on the jaw**, called out on camera as unusual to see.
-**Conflict, not reconciled:** another circle-hook connection on a dorado,
-this one in the offshore kelp-paddy program itself (rather than the inshore
-beach-soak context of the `APsnsunT4gM` entry below) — sits beside, not
-folded into, the J-hook-only paddy doctrine (Ali Hussainy, E4vKwRaRueA).
-Species ID on this specific fish is from context (part of the session's
-dorado tally, not independently confirmed on camera) — kept as
-presenter-inferred.
-
-**Observed (Baja, region label)** (StokedOnFishing, 2018-02-07 upload, La
-Bocana, Baja California Sur, Pacific side — `Cobp85UvHmM`, "Stoked On La
-Bocana," part 2): 25 miles offshore, working birds (bird type not
-identifiable in the source captions — ASR-uncertain) led the crew to a
-school of dorado that "sunk down" in water only **~60 ft** deep — called a
-"fire drill" on camera as multiple anglers hooked up at once, with three
-fish hooked in a row (captions don't confirm all three were boated). A
-bird-to-bait-ball find in unusually shallow water for
-an offshore trolling ground, consistent with the birds-mark-the-life sign
-already documented in [bird reading](../conditions/bird-reading.md); no
-lure/bait or leader detail given for this hookup. Unregistered channel —
-medium confidence.
-
-**Observed (Baja, region label)** (StokedOnFishing, `mG8ZZLFGlT8`,
-2016-12-22 upload, Buena Vista Beach Resort, East Cape, Baja California
-Sur — "Stoked On Hotel Buena Vista Beach Resort, Part 3," the resort's
-**first annual** Stoked On Fishing Fiesta (2016), chronologically earlier
-than the `tcso7Lpm_Xs` entry below; unregistered channel — medium
-confidence): dorado were caught on the same trip alongside marlin, wahoo,
-and yellowfin ("we get a wahoo... three good size yellow fin... Dorado and
-he caught two mar[lin]"), with no count, weight, or technique detail given
-on camera. See the
-[trolling — East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)
-for the fuller catch recap from this same trip.
-
-**Observed (Baja, region label)** (StokedOnFishing, 2018-03-09 upload,
-Buena Vista Beach Resort, East Cape, Baja California Sur —
-`tcso7Lpm_Xs`, "Stoked On Hotel Buena Vista Beach Resort"): a full trip's
-offshore troll produced roughly **15–16 dorado** in one session (most
-released), alongside tuna, skipjack, and wahoo — see the
-[trolling East Cape entry](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)
-for the full catch report. With a dorado hooked, the crew deliberately
-delayed boating it and got a second bait in the water, describing the
-tactic on camera as keeping the hooked fish "in the water" to hold the
-school and draw followers before landing the first fish — a school-holding
-tactic distinct from (and not merged into) the picky/circling-dorado
-leader-stepdown row above. Unregistered channel — medium confidence.
-
-**Observed (Baja, region label)** (StokedOnFishing, 2020-04-08 upload,
-Buena Vista Beach Resort, East Cape, Baja California Sur — `APsnsunT4gM`,
-"Hot Bite in Baja | Stoked On Fishing," 5th annual "Fiesta" trip — same
-annual event as the `tcso7Lpm_Xs` entry above, roughly two years later): on
-a day dedicated to gathering bait because the offshore bait supply had "been
-kind of poor lately," a **~20 lb dorado** hit a live sardine fished only
-**~100 yards off the beach in ~30 ft of water** — a shallow, inshore
-beach-caught dorado, distinct from the offshore-paddy program documented
-above. Gear: 50 lb braid/spectra main line, 30 lb fluorocarbon top shot, a
-**#2 circle hook** (sized for the sardine, chosen "in case we get any
-roosters"), an Okuma Tesoro 10-size reel, and a 7'6" PCH heavy rod (brand not
-stated on camera).
-**Conflict, not reconciled:** a circle hook connecting on this dorado sits
-beside the J-hook-only paddy doctrine above (Ali Hussainy, E4vKwRaRueA) —
-logged as a different context (inshore beach sardine soak vs. offshore
-paddy program), not treated as a contradiction of the paddy-specific
-doctrine. Unregistered channel, sponsor-heavy video (Okuma) — medium
-confidence on the technique/parameters, low on any brand endorsement.
-
-**Observed (Baja, region label)** (StokedOnFishing, October 2020 trip (per
-on-camera reference), 2020-12-18 upload, "macro banks," Cedros Island area,
-Baja — `yjwIGFzWO8I`, "Cedros Island Yellowtail Fishing Part Three"): dorado
-came mixed into a morning yellowtail bite at a bank named on camera as
-"macro banks" (ASR, exact name unverified) — see the
-[yellowtail](yellowtail.md) Cedros entry for that session's yellowtail
-detail. No lure, leader, or hook detail given for the dorado specifically.
-Unregistered channel — medium confidence.
-
-**Observed (Baja, region label)** (StokedOnFishing, 2023-05-17 upload,
-Cedros Island, Baja — `9tIp4n7q850`, "Could Not Believe the Halibut Fishing
-in Cedros This Year"; unregistered channel — medium confidence): during a
-bottom-fishing session that was otherwise producing halibut (see
-[California halibut](california-halibut.md) for that session), the crew
-hooked and landed a dorado that surfaced from **the bottom** — called out
-on camera as unusual ("way out here on the bottom... that's amazing") and
-notable enough that the crew stopped to admire its colors once it
-surfaced. **Conflict, not reconciled:** this sits beside, and does not
-overturn, this note's standing doctrine that dorado hold in the **upper
-water column** around paddies rather than on a deep meter mark (Ali
-Hussainy doctrine above) — logged as a single atypical incidental catch
-during bottom fishing, not a change to the paddy-program doctrine.
-
-**Observed (Baja, region label)** (StokedOnFishing, 2021-10 trip (per
-on-camera reference), 2022-06-22 upload, Cedros Island, Baja —
-`brx6Ie_L2FM`, "Stoked to Be Back in Cedros Island Dorado Fishing"; likely
-the same trip as the `QSmE3mdEL28` yellowtail-focused companion episode
-already logged above and in [trolling](../techniques/trolling.md) — both
-titled "Stoked to Be Back in Cedros Island," uploaded 17 days apart, both
-referencing an October trip): one boat found a kelp paddy that had "the
-whole ocean lit up" — an angler described looking down and seeing roughly
-**200–300 dorado** stacked under it, calling it "an aquarium." Pinning a
-live mackerel on a bait caster and casting it right at the paddy produced
-an instant double hookup, and once word went out over the radio, every
-boat that arrived was getting two and three dorado at a time. This account
-is recounted dockside, in the past tense, by a different boat's crew — it
-is the "day before" bite the intro references, not the filming crew's own
-catch. On a separate day (the crew's own filming day), after a captain
-called them in to a dorado bite by radio, the crew's own hookup connected
-instantly on **60 lb fluorocarbon** leader with a **flylined mackerel** —
-a heavier leader than the 20–40 lb stepped range in the gear summary
-below, logged as a same-trip data point, not a conflict; no kelp paddy is
-mentioned for this second catch, so it is kept distinct from the aquarium
-paddy above rather than assumed to be the same bite. Anglers also
-described hooked dorado drawing the rest of the
-school to follow the boat and stay in the area ("they're on you... and
-then they fish right around you") — corroborating, not a new mechanism
-beyond, the school-holding behavior already logged in the East Cape
-(`tcso7Lpm_Xs`) entry above. Separately, dock advice the crew received
-before running north for the day was to work dorado on a **slow-trolled
-live mackerel** — see the live-mackerel slow-troll entry in
-[trolling](../techniques/trolling.md) for the mechanics as logged from the
-companion yellowtail episode of this same trip; no independent dorado
-hookup on the troll was captured in this video's footage. Unregistered
-channel, sponsor-heavy intro — medium confidence.
-
-**Observed (Baja, region label)** (StokedOnFishing, 2023-11-03 upload, La
-Paz, Baja California Sur — Baja Rancheros fishing fleet, `qM7iOO7fOBw`, "The
-Ultimate Baja Mexico Fishing Charter: Stoked on La Paz"; unregistered
-channel — medium confidence): with a dorado hooked on a flylined mackerel
-(see the
-[flyline](../techniques/flyline.md#la-paz-baja-california-sur-sea-of-cortez-side--open-water-mackerel-flyline-at-a-shared-high-spot)
-La Paz entry for the session's full gear/catch detail), the crew deliberately
-delayed boating it, stating on camera that leaving a hooked dorado in the
-water "attracts more" dorado — the same school-holding tactic already logged
-for the East Cape (`tcso7Lpm_Xs`) and Cedros (`brx6Ie_L2FM`) trips above, now
-also corroborated at La Paz, Sea of Cortez side.
-
-**Observed (Baja, region label)** (StokedOnFishing, October trip (year not
-stated on camera), 2024-03-20 upload, offshore of Cedros Island, Baja —
-`YUdbrIm9vrE`, "Cedros Island Goes Off"; Cedros Outdoor Adventures charter;
-unregistered channel — medium confidence): working roughly 20–30 mi
-offshore on a day otherwise spent trolling for
-[yellowfin tuna](yellowfin-tuna.md), the crew spotted birds working 2–3 mi
-away and ran over to find dorado — a birds-mark-the-school visual find
-consistent with the birds-on-a-paddy sign already documented above, though
-no paddy is mentioned for this school. Once on the school, both a
-flylined live sardine and — after the sardine stopped drawing bites — a
-reused trolled-feather combination (the same lure that had produced that
-morning's [tuna](yellowfin-tuna.md) bite) produced dorado hookups; see
-the bait-to-feather swap logged in
-[trolling — Cedros Island offshore troll](../techniques/trolling.md) for
-the full sequence from this same session. Grade was described on camera as
-improving through the session, with the last fish of the day called "one
-of the best" — no weights given. No kelp paddy, leader, or hook detail
-was captured for these fish. Unregistered channel — medium confidence.
-
-**Observed** (StokedOnFishing, 2022-10-13, offshore SoCal — `VWClGAn2WEw`):
-after a run of consecutive dorado hookups on the same leader, the crew
-described dorado's teeth and gill plates as prone to chafing/fraying the
-leader over repeated fights and passes near the boat — the stated practice
-was to cut back a foot or two of leader and re-tie before the next bait,
-checking for chafe damage each time rather than fishing the same leader
-section through many fish in a row. A leader-maintenance parameter, not a
-rigging change — sits alongside the 20–40 lb stepped-leader doctrine in the
-gear summary below.
-
-**Observed (Baja, region label)** (StokedOnFishing, October trip (year not
-stated on camera), 2024-04-11 upload, Cedros Island, Baja — `A8SuzB5qiKE`,
-"The Fishing Went Off with Cedros Outdoor Adventures"; Cedros Outdoor
-Adventures charter, sponsor-heavy video — Okuma/Grundens/El Dorado
-Sportfishing ad reads; unregistered channel — medium confidence): rounding
-the point back toward the harbor after a yellowtail session (see
-[yellowtail](yellowtail.md) for that leg), the crew ran **trolled feathers**
-over the **outside rim**, deliberately following visible bait, for a planned
-**20–30 minutes** — a close-to-port, artificial-feather variant kept side by
-side with, not reconciled against, the live-mackerel slow-troll already
-logged for this location in the `brx6Ie_L2FM` entry above; see
-[trolling](../techniques/trolling.md) for the full troll-mechanics entry.
-The troll connected quickly, landing a dorado on a lure/leader captioned on
-screen as "purple people leader" (ASR-uncertain — possibly a Purple People
-Eater-pattern feather, not confirmed by name). This followed the same
-boat's own yo-yo yellowtail session earlier that day (see
-[yellowtail](yellowtail.md)) — a distinct boat and session from this same
-video's separately reported one-day tally of about 12 yellowtail plus a
-dorado (also logged in [yellowtail](yellowtail.md)).
-
-**Observed (Baja, region label)** (StokedOnFishing, 2012-05-08 upload,
-Alijos Rocks, Baja — `6kpWn2sXokI`, "Big Yellowfin Tuna, Wahoo, Yellowtail,
-and Dorado on the Intrepid | Part 3," aboard the long-range boat
-**Intrepid**; unregistered channel — medium confidence): earlier in the
-same session, on what the crew called the **"second day" of the rocks**
-(the stop totaled "a couple of days" per the closing summary, so this is
-not necessarily an earlier day than that summary — timing not fully
-resolved on camera), dorado were described as "starting to pick around" —
-a few coming through amid a yellowtail/yellowfin/wahoo mixed bag (see the
-trip's closing species-grade summary in
-[yellowtail](yellowtail.md#where--when) and
-[yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts), which does not
-itself mention dorado). No count, grade, or technique detail given for the
-dorado specifically.
-
-**A second, earlier (2009) Alijos Rocks/"the Ridge" dorado citation** (Capt.
-Art, Searcher Sportfishing, "Fall, 2009 on Searcher," `_r08B4bItAY`,
-2009-08-25 upload; `searcher-sportfishing` registered channel — single
-mention on this specific claim, medium confidence): previewing the boat's
-fall (late September/early October) seven-day trips to Alijos Rocks or "the
-Ridge" (further resolved as running to a high spot named Uncle Sam Bank —
-see [wahoo](wahoo.md#where--when) for the full citation and run distances),
-Capt. Art names "kelp paddies down in that area" as producing "a nice big
-dorado," alongside a wahoo and 100 lb-class yellowfin chance at the same
-grounds. No count, grade, or technique detail given for the dorado
-specifically; kept side by side with, not merged into, the `6kpWn2sXokI`
-observation above — same broad grounds, different trip and source.
-
-**Observed (Baja, "lower banks," region label)** (StokedOnFishing, on-camera
-trip date November 25 (year not resolved on camera — see the
-[yellowfin tuna](yellowfin-tuna.md#doctrine--conflicts) entry for the
-date-flag detail), "lower banks," Baja — `ASitOLYzFEA`, "Intrepid 300lb dock
-day," aboard the long-range boat **Intrepid**; unregistered channel — medium
-confidence): while the boat sat anchored on one giant-tuna school for 4 days
-without moving (full trip detail in the yellowfin entry linked above), a
-school of dorado moved in and stayed around the boat for the duration — a
-school-holding/aggregation data point distinct from the kelp-paddy and
-open-water-school programs documented elsewhere in this note. No count,
-grade, or technique detail given for the dorado specifically.
+[a] Dorado charge the boat feeding straight ahead and do not reliably turn
+sideways, so a circle hook has nothing to set against (`E4vKwRaRueA`); the
+independent second reason is a comparatively small mouth, which a J-hook suits on
+a flylined sardine (`P9H-bpzT7eU`). Circle hooks have connected on dorado in the
+corpus — see [Doctrine & conflicts](#doctrine--conflicts).
+[b] Skip jigging — rod up, crank flat-out so the lure skips on top — is a tip-up
+alternative to the standard swim, named for tuna/dorado/yellowtail generically
+(`OL8D1l73RVg`). ⚠ Fact-check (single-source): the term, not the mechanic.
+[c] ⚠ promotional seminar source — low confidence on the brand and colour naming.
+[d] The Mad Scad claim that "it'll catch every species, but … dorado can't say no
+to this thing" comes from a Nomad brand feature and caps at low confidence
+(`VgpgJ8IAyJo`); the pink/silver troll doctrine itself is independently stated in
+`E4vKwRaRueA`.
 
 ## Gear summary (class terms)
 
-- **Rod/reel:** a **40–60 lb all-day class** setup (star or lever drag) covers
-  dorado alongside small tuna and yellowtail. See
+- **Rod/reel:** a **40–60 lb all-day class** setup, star or lever drag, covers
+  dorado alongside small tuna and yellowtail (`E4vKwRaRueA`). See
   [gear classes](../tackle/gear-classes.md).
-- **Lighter dorado-dedicated option (medium — Carl Schmidt, SearcherSportfishing/
-  Fisherman's Landing, `P9H-bpzT7eU`):** an **8 ft, 25–40 lb class** rod, 30 lb
-  mono top shot over a spectra main line, and a **2/0 J-hook** sized for a
-  flylined sardine — a lighter, dorado-specific alternative to the mixed-species
-  40–60 lb all-day class above. (Named rod/reel models on this video — a
-  Calstar 800M rod, Penn Fathom 32 Speed reel — are product/model mentions and
-  stay **low** confidence per the `searcher-sportfishing` sponsored-claim
-  caveat in the source registry.)
-- **Terminal:** 5–6 ft fluorocarbon top shot; **20–40 lb leaders stepping down**
-  for picky fish; **J-hooks** matched to bait size.
-- **Casting/trolling lures:** [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md),
-  a pink/silver troll lure (Mad Scad class) for testing paddies and open-water
-  schools.
-- **Care:** dorado get **no bleed — ice immediately, and never freshwater-rinse**
-  the fillets. See [dorado & general fish care](../fish-care/dorado-and-general.md).
+- **Lighter dorado-dedicated option:** an **8 ft, 25–40 lb class** rod, 30 lb mono
+  top shot over a spectra main line, and a **2/0 J-hook** sized for a flylined
+  sardine (`P9H-bpzT7eU`) — a dorado-specific alternative to the mixed-species
+  40–60 lb class above. Named rod and reel models on that source are product
+  mentions and stay low confidence per the `searcher-sportfishing` sponsored-claim
+  caveat in the source registry.
+- **Terminal:** a **5–6 ft fluorocarbon top shot**, **20–40 lb leaders stepping
+  down** for picky fish, and **J-hooks matched to bait size** (`E4vKwRaRueA`).
+- **Casting/trolling lures:**
+  [poppers & stickbaits](../lures/tuna-poppers-and-stickbaits.md) and a
+  pink/silver troll lure (Mad Scad class) for testing paddies and open-water
+  schools (`VgpgJ8IAyJo`).
+
+## Zone guides
+
+No dorado zone guide exists yet; corpus material for each zone is parked in the
+[evidence file](evidence/dorado.md) under "Zone material".
+
+- **Offshore San Diego (~15 mi)** — ⚠ Flagged stub — no zone guide yet.
+- **Catalina Island — backside** — ⚠ Flagged stub — no zone guide yet.
+- **San Clemente Island — back side** — ⚠ Flagged stub — no zone guide yet.
+- **Cedros Island** — ⚠ Flagged stub — no zone guide yet.
+- **East Cape, Baja California Sur** — ⚠ Flagged stub — no zone guide yet.
+- **La Paz** — ⚠ Flagged stub — no zone guide yet.
+- **Cabo San Lucas** — ⚠ Flagged stub — no zone guide yet.
+- **Alijos Rocks** — ⚠ Flagged stub — no zone guide yet.
+
+## Regulations
+
+- ⚠ Flagged gap — no corpus source: California (CDFW) size and bag limits for
+  dorado, and Mexican (CONAPESCA) size, bag or licence requirements for dorado in
+  Baja and Sea of Cortez waters. Verify with the issuing agency before fishing.
+- The **4–6 lb release encouragement** on SoCal sportboats is a voluntary
+  table-fare practice, not a CDFW size or bag regulation (`P9H-bpzT7eU`).
 
 ## Doctrine & conflicts
 
-- **Doctrine (high — Ali Hussainy, E4vKwRaRueA):** **J-hook over circle** for
-  dorado because of the charge-and-feed-straight behavior; match hook to bait and
-  step the leader down for a picky bite. The green/blue temperature boundary
-  (~71–72 °F) is the concentration edge.
-- **Doctrine (medium — Carl Schmidt, SearcherSportfishing/Fisherman's Landing,
-  `P9H-bpzT7eU`, 2022-09-29; registered channel, single mention):** boat crews
-  "stick to live bait, it's a lot safer that way, you land a lot more fish" —
-  dorado jump and shake their heads, and a jig hookup will often pull free on
-  the way back to the boat, whereas live bait holds better; corroborates the
-  flylined-bait #1 ranking in Situations → techniques above. Independently
-  corroborates the J-hook-over-circle doctrine above with a different stated
-  reason: dorado have a comparatively small mouth (`asr-uncertain`: transcript
-  audio renders as "small amount," read in context as "small mouth"), so a
-  J-hook works well fishing a flylined sardine. Mechanics: cast to the fish,
-  let it eat, and give a **3–5 second count** before putting the reel in gear.
-- **When anglers do fish a jig instead (medium — same source):** favorites run
-  blue-and-chrome jigs — see the dorado application (color, hook-style
-  rationale, retrieve) documented under
-  [Colt Sniper](../lures/tuna-poppers-and-stickbaits.md#colt-sniper-foamer-stickbait)
-  — plus stickbaits, poppers, and surface irons; best fished by working up to
-  the bow and casting directly at the visible fish rather than blind-casting.
-- **Promo claim (low — VgpgJ8IAyJo, a Nomad brand feature; sponsored claims cap
-  at low):** a pink-accented Mad Scad class troll/cast lure is the universal
-  dorado tester and producer; "if there's open-water fish around, more often
-  than not they'll eat it." Pink/silver troll doctrine itself is corroborated
-  by E4vKwRaRueA above.
-- **Cameron (attributed) — the boundary, not the interior:** in warm-water years
-  Cameron weights **chlorophyll / water color at least as heavily as SST** and
-  **won't fish dirty green water for gamefish**. Consistent with the dorado read:
-  the fish sit on the **edge** where green meets blue, not inside the dead green
-  water — fish the boundary rip, not the interior.
+Section order below is not a ranking.
+
+- **Hook style: J-hook over circle, on the paddy program.** The choice turns on
+  how the fish eats — dorado charge the boat feeding straight ahead rather than
+  grabbing and turning sideways, so there is nothing for a circle to set against
+  (`E4vKwRaRueA`), and their comparatively small mouth suits a J-hook on a
+  flylined sardine (`P9H-bpzT7eU`). Two dorado in the evidence file have
+  nonetheless connected on
+  circle hooks: one on a #2 circle in an inshore East Cape beach sardine soak
+  (`APsnsunT4gM`), one square on the jaw inside the offshore kelp-paddy program
+  itself (`r4J5nP5Bkl4`) — the second is a genuine counter-example to the paddy
+  doctrine and is not reconciled with it.
+- **Bait or jig: bait lands more fish, jig covers visible fish you cannot reach.**
+  Crews stick to live bait because dorado jump and shake their heads and a jig
+  hookup often pulls free on the way back to the boat, where live bait holds
+  (`P9H-bpzT7eU`) — which is why flylined bait ranks first in the router above.
+  When fishing a jig, favourites run blue-and-chrome, plus stickbaits, poppers and
+  surface irons, and the method is to go to the bow and cast directly at visible
+  fish rather than blind-cast (`P9H-bpzT7eU`); the dorado application of the Colt
+  Sniper — colour, hook style, retrieve — is in
+  [Colt Sniper](../lures/tuna-poppers-and-stickbaits.md#colt-sniper-foamer-stickbait).
+- **Depth: upper water column, with one bottom outlier.** The paddy program treats
+  dorado as an upper-column fish (`ZFqe49jRgA0`, `E4vKwRaRueA`); a dorado taken off
+  the bottom on a Cedros halibut drift (`9tIp4n7q850`) stands beside that and does
+  not revise it.
+
+## Landing & handling
+
+- **Hook-set:** put the reel in gear, point the rod at the fish, wind tight, then
+  lift the rod. Swinging causes bad hook sets and pulled hooks (`E4vKwRaRueA`).
+- **On a flylined sardine, give a 3–5 second count** after the bite before putting
+  the reel in gear (`P9H-bpzT7eU`).
+- **Delay boating the first fish.** Leaving a hooked dorado in the water holds the
+  school beside the boat and draws followers, so get a second bait in before you
+  land it (`tcso7Lpm_Xs`, `qM7iOO7fOBw`, `brx6Ie_L2FM`).
+- **Cut back and re-tie the leader between fish.** Dorado teeth and gill plates
+  chafe the leader over repeated fights and passes near the boat, so take a foot
+  or two off and re-tie rather than fishing one leader section through a run of
+  fish (`VWClGAn2WEw`).
+- **Gaffing:** dorado fall in the **3-in hook, ~6-ft gaff** class — orientation and
+  the shot in [gaffing](../fish-care/gaffing.md).
+- **Care: no bleed, ice immediately, never freshwater-rinse** the fillets
+  (`E4vKwRaRueA`). See
+  [dorado & general fish care](../fish-care/dorado-and-general.md).
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/dorado.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -495,6 +272,7 @@ grade, or technique detail given for the dorado specifically.
 - [Evidence — 289 / 284](../locations/evidence/289-284.md)
 - [Evidence — Bluefin Tuna](evidence/bluefin-tuna.md)
 - [Evidence — California Halibut](evidence/california-halibut.md)
+- [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

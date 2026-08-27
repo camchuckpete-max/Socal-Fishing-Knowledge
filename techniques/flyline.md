@@ -831,6 +831,7 @@ confidence.
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)

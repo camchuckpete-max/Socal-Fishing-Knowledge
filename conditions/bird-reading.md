@@ -155,6 +155,7 @@ shearwater doctrine (`Blh2BA-7Ono`) — merge it in as the missing piece:
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — 209 / 312](../locations/evidence/209-312.md)
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
+- [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — North 9 Mile Bank / 178](../locations/evidence/north-9-mile-bank-178.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Kelp Paddies](kelp-paddies.md)

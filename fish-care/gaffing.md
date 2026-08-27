@@ -159,6 +159,7 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [California Halibut](../species/california-halibut.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
+- [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Tuna Care](tuna-care.md)
