@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2121 flagged gaps, 285 flagged stubs, 996 unknown infobox values._
+_Totals: 2143 flagged gaps, 293 flagged stubs, 1005 unknown infobox values._
 
 ## species/
 
@@ -145,6 +145,48 @@ _Totals: 2121 flagged gaps, 285 flagged stubs, 996 unknown infobox values._
   - `Zone guides`: zone guide missing
   - `Regulations`: gap — any Mexican (CONAPESCA) bag limit or size
   - `Landing & handling`: gap — whether whitefish brought up from the
+  - infobox `sst_band_f`: unknown
+- **species/opah.md**
+  - `Where & when`: gap — any month, season window, or
+  - `Presence & forage`: gap — what opah eat naturally, what bait or
+  - `Spawning`: gap — when, where, or how opah spawn, and what
+  - `Feeding triggers`: gap — mechanism — no source says whether the
+  - `Feeding triggers`: gap — tide, slack, current, or moon effect on the
+  - `Finding them (sign & sonar)`: gap — an opah sonar signature, mark shape, or
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any California / CDFW or Mexican
+  - `Landing & handling`: gap — gaffing, bleeding, chilling, or barotrauma
+  - infobox `scientific_name`: unknown
+  - infobox `season_peak`: unknown
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
+- **species/pacific-crevalle-jack.md**
+  - `Where & when`: gap — when crevalle are
+  - `Presence & forage`: gap — what Pacific crevalle jack eat naturally,
+  - `Spawning`: gap — when, where or how Pacific crevalle jack
+  - `Feeding triggers`: gap — any light window, tide or slack gate,
+  - `Finding them (sign & sonar)`: gap — a crevalle-specific sonar signature or
+  - `Situations → techniques`: flagged stub row
+  - `Zone guides`: flagged stub row
+  - `Zone guides`: gap — no crevalle
+  - `Regulations`: gap — any Mexican (CONAPESCA) bag limit, size
+  - `Regulations`: gap — any California / CDFW bag limit or size
+  - `Landing & handling`: gap — crevalle-specific landing, gaffing,
+  - infobox `season_peak`: unknown
+  - infobox `sst_band_f`: unknown
+  - infobox `sonar_depth`: unknown
+- **species/rockfish-lingcod.md**
+  - `Presence & forage`: gap — what reds, lingcod or bocaccio eat
+  - `Spawning`: gap — the months of the lingcod spawn in
+  - `Feeding triggers`: gap — mechanism — no source says whether current
+  - `Feeding triggers`: gap — any light window, tide/slack gate or moon
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Zone guides`: zone guide missing
+  - `Regulations`: gap — any Mexican bag limit,
+  - infobox `scientific_name`: unknown
   - infobox `sst_band_f`: unknown
 - **species/snook.md**
   - `Finding them (sign & sonar)`: flagged stub row

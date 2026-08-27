@@ -778,4 +778,9 @@ by their builders after the transform phase drains.
 | locations/rainbow-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/san-diego-offshore.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/uncle-sam-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/43-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/catalina-offshore.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/cow-cod-conservation-area.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/lighthouse-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/santa-rosa-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
