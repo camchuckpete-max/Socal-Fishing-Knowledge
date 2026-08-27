@@ -146,6 +146,7 @@ say why, but I can definitively say that's what happens."*
 ## Linked from
 
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Evidence — Dart Jig — Daytime Finesse Tuna](../techniques/evidence/dart-jig-tuna.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Searcher Bluefin Jig Ladder by Daypart and Depth (Steve Carson, Penn/SearcherSportfishing, 2023-10-12)](searcher-bluefin-jig-ladder-by-daypart-and-depth.md)

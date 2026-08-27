@@ -40,7 +40,7 @@ by their builders after the transform phase drains.
 | techniques/cheater-troll.md | standard | transformed | gaps(1) | transform verified faithful, ASR caveats conserved to evidence, gap flags correct, check-note.py clean |
 | techniques/chunking.md | standard | transformed | spots(4) | transform verified faithful, observations split to evidence, execution consolidated into Gear class, no information loss found |
 | techniques/clearing-a-backlash.md | standard | transformed | gaps(1) | transform verified faithful, template-compliant, mechanics conserved, backlinks regenerated |
-| techniques/dart-jig-tuna.md | standard | pending |  |  |
+| techniques/dart-jig-tuna.md | standard | transformed | none | transform verified, one meaning-drift defect (cross-source gear conflation) fixed in place |
 | techniques/deep-drop-swordfishing.md | standard | pending |  |  |
 | techniques/drop-shot.md | standard | pending |  |  |
 | techniques/dropper-loop.md | standard | pending |  |  |
