@@ -712,6 +712,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Spooling Line — Tension and Line-Twist Avoidance (Tackle Express)](spooling-line-tension-and-twist.md)
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](tackle-express-surf-halibut-rod-lineup.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Swordfish (Broadbill)](../species/swordfish.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)
 - [Wind-On Leader](../rigging/wind-on-leader.md)

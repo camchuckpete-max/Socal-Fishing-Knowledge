@@ -259,4 +259,13 @@ harvested.
 | Cabo San Lucas | species/striped-marlin.md | evidence — Zone material | striped marlin taken on a trolled-lure dropback in 85°F blue water with long swell; the charter's stated practice is to release all billfish | `XH-Hrfet6To`, `Mwx5AAXNMvE` |
 | East Cape (Hotel Buena Vista Beach Resort) | species/striped-marlin.md | evidence — Zone material | striped marlin released and landed on two Stoked On Fishing Fiesta trips (first annual 2016, fifth annual 2020); no technique, lure or bait detail given | `mG8ZZLFGlT8`, `BQ2U1PqxWi8` |
 | Ensenada (offshore) | species/striped-marlin.md | evidence — Zone material | a striped marlin jumped at the boat on a dolphin-school foamer; the following hookup is unconfirmed as the same fish | `0bcDBGzQnGw` |
+| The Ridge | species/swordfish.md | Where & when | named as one of the San Diego deep-drop sword grounds worked in the 2019–2020 seasons, fished on a down-and-in drift along the contour edge | `yMiBtZ7k8-w` |
+| 9 Mile Bank | species/swordfish.md | Where & when | named sword ground; also given as an example of a spot where surface life (whales, dolphins, birds) is worth stopping for even though the bait goes down 1,000 ft | `yMiBtZ7k8-w` |
+| 14 Mile Bank | species/swordfish.md | Where & when | named alongside the 9 Mile Bank and the 43 as a spot you roll out to for swords, with surface life as the confidence sign | `yMiBtZ7k8-w` |
+| The 43 | species/swordfish.md | Where & when | named sword ground fished on a down-and-in drift along the contour edge in the 10–13 kt northwest-wind window | `yMiBtZ7k8-w` |
+| The 178 | species/swordfish.md | Where & when / Finding them | worked sword drift in about 1,090 ft with the feed layer at roughly 50 fathoms (300–350 ft) and fish marking 200–300 ft under it | `KuVwmfF6RAo`, `yMiBtZ7k8-w` |
+| The 302 | species/swordfish.md | Where & when | named sword ground in the San Diego rotation (captions render it "three or two") | `yMiBtZ7k8-w` |
+| The 138 | species/swordfish.md | Where & when | picked off an SST image on camera as the day's sword spot — a hard edge with heavy current flow | `yMiBtZ7k8-w` |
+| The 182 | species/swordfish.md | Where & when | named with the 138 as mixing water with heavy current flow, called a good place to check on a break day | `yMiBtZ7k8-w` |
+| Catalina Island | species/swordfish.md | Presence & forage | a Catalina-caught swordfish held 30–40 regulation-sized mullet, evidence the fish had been feeding up in the kelp on the beach rather than offshore | `yMiBtZ7k8-w` |
 <!-- review:harvest:end -->

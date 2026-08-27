@@ -331,4 +331,5 @@ Trip reports and per-source provenance:
 - [North 9 Mile Bank](north-9-mile-bank.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
 - [Southern California Bight](socal-bight.md)
+- [Swordfish (Broadbill)](../species/swordfish.md)
 <!-- backlinks:end -->

@@ -23,6 +23,7 @@
 - [Evidence — Snook (Robalo)](snook.md) — Per-source provenance backing snook.
 - [Evidence — Spotted Bay Bass](spotted-bay-bass.md) — Trip reports and per-source provenance backing spotted bay bass.
 - [Evidence — Striped Marlin](striped-marlin.md) — Per-source provenance backing striped marlin.
+- [Evidence — Swordfish (Broadbill)](swordfish.md) — Per-source provenance backing swordfish.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->
@@ -52,12 +53,13 @@ graph LR
   n16["Evidence — Snook (Robalo)"]
   n17["Evidence — Spotted Bay Bass"]
   n18["Evidence — Striped Marlin"]
-  n19["Evidence — Yellowtail — surface iron"]
-  n20["Evidence — Yellowtail"]
+  n19["Evidence — Swordfish (Broadbill)"]
+  n20["Evidence — Yellowtail — surface iron"]
+  n21["Evidence — Yellowtail"]
   n11 --> n8
   n13 --> n5
   n14 --> n12
-  n14 --> n20
+  n14 --> n21
   n14 --> n5
   n14 --> n9
 ```

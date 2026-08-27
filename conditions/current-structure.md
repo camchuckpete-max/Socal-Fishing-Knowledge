@@ -372,6 +372,7 @@ become primary).
 - [Striped Marlin](../species/striped-marlin.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
 - [Swimbaits](../techniques/swimbaits.md)
+- [Swordfish (Broadbill)](../species/swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Bumps](../locations/bumps.md)

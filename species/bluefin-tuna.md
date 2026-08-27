@@ -539,6 +539,7 @@ Trip reports and per-source provenance:
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Sverdrup Bank (126)](../locations/sverdrup-bank-126.md)
+- [Swordfish (Broadbill)](swordfish.md)
 - [Tanner Bank](../locations/tanner-bank.md)
 - [The Boot (504) / 307](../locations/boot-504-307.md)
 - [The Bumps](../locations/bumps.md)

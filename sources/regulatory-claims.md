@@ -68,6 +68,8 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | California / CDFW bag limit or size minimum for California sheephead — no corpus source states either | **unknown — bag limit and size gauge both absent from the corpus** | gap flagged 2026-08 — verify the current bag and size limits with CDFW before keeping fish | [California sheephead](../species/sheephead.md) | — |
 | Mexican (CONAPESCA) bag limit or size gauge for California sheephead, which the Ensenada and Cedros fish fall under | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [California sheephead](../species/sheephead.md) | — |
 | California / CDFW bag limit, size gauge, gear rule or season for striped marlin — no corpus source states any of them, despite the corpus recording a SoCal sportboat putting one in the deep freezer | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [striped marlin](../species/striped-marlin.md) | — |
+| California / CDFW bag limit, size gauge, gear rule or season for swordfish — no corpus source states any of them, despite a recreational daytime deep-drop fishery running out of San Diego | **unknown — bag limit, size gauge, gear rule and season all absent from the corpus** | gap flagged 2026-08 — verify the current rules with CDFW before fishing for or keeping one | [swordfish](../species/swordfish.md) | — |
+| Harpoon dart not used to finish a hooked swordfish in SoCal — "we can't do the dart here" — where the Florida Keys fishery does; the SoCal endgame runs a flying gaff to the gill plate instead | dart not used; **no rule, agency or reason stated on camera**, and the same corpus describes harpooning surface swordfish as an established SoCal activity | 2021-02 (the statement); legal basis unstated — verify current gear and take rules with CDFW before relying on it | [swordfish](../species/swordfish.md) | `yMiBtZ7k8-w` |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -138,6 +140,7 @@ route, and the insurance carriers by name.
 - [Snook (Robalo)](../species/snook.md)
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
+- [Swordfish (Broadbill)](../species/swordfish.md)
 - [US waters](../locations/us-waters.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

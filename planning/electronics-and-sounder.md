@@ -494,6 +494,7 @@ bottom, see [rockfish and lingcod](../species/rockfish-lingcod.md).
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
+- [Evidence — Swordfish (Broadbill)](../species/evidence/swordfish.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](fleet-intelligence.md)

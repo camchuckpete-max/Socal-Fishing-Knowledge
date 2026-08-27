@@ -23,7 +23,7 @@
 - [Snook (Robalo)](snook.md) **[Baja only]** — The corpus documents snook in exactly one fishery — Magdalena Bay / Lopez Mateos, Baja California Sur — and it is two programs, not one.
 - [Spotted Bay Bass (Spotties)](spotted-bay-bass.md) **[SoCal only]** — Spotted bay bass are the bay-and-harbor fishery that runs on the tide clock: the fish hold ambush stations keyed to which way the water is moving, so a spot tha
 - [Striped Marlin](striped-marlin.md) — Striped marlin are the SoCal island zone's late-summer-into-fall sight-and-troll billfishery: a short, tight lure spread pulled along the clean side of a bait/c
-- [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal daytime deep-drop swordfish: find deep contour structure where the deep scattering layer holds bait, then present a dead bait in/below the layer and let t
+- [Swordfish (Broadbill)](swordfish.md) **[SoCal only]** — SoCal broadbill are a daytime deep-drop fishery built on one fact: the fish ride the deep scattering layer by day, so you hunt the layer and its bait over deep
 - [Wahoo](wahoo.md) — A fast, toothy, warm-water pelagic — SoCal/Baja anglers reach for it mostly as part of a mixed offshore troll (tuna/dorado/marlin) or on a dedicated trip to kno
 - [White Seabass](white-seabass.md) — The premier SoCal inshore gamefish, and one of the most pattern-driven: white seabass bites cluster on the moons, fire on the slack tide, and require a specific
 - [Yellowfin Tuna](yellowfin-tuna.md) — SoCal's summer-into-fall bread-and-butter tuna — 8–10 lb up to 40–50 lb, with 15–25 lb the average grade.
@@ -86,6 +86,7 @@ graph LR
   n16 --> n4
   n17 --> n13
   n17 --> n5
+  n19 --> n2
   n2 --> n1
   n2 --> n12
   n2 --> n15
