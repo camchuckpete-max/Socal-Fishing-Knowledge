@@ -1021,6 +1021,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)

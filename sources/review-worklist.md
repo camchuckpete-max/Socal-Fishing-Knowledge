@@ -20,7 +20,7 @@ by their builders after the transform phase drains.
 | species/california-halibut.md | full | transformed | gaps(3), misplaced(1), spots(9), reg-claims(2), spinout(2), factcheck(2), asr-uncertain(5) | transform verified, 5 fixes applied (1 table break, 1 scope narrowing, 1 style, 2 conservation restores); 511->402 lines + 307-line evidence file |
 | species/california-spiny-lobster.md | full | transformed | gaps(6), spots(5), reg-claims(1), fact-check(4), asr-uncertain(1) | apply-with-changes — conservation clean across all 7 prior source ids, 3 new sources verified against transcript, 3 minor fixes applied |
 | species/dorado.md | full | transformed | gaps(4), stubs(8), spots(13), spinout(1), fact-check(2), asr-uncertain(4) | apply-with-changes: full conservation confirmed, one before-state leader-floor inversion corrected, four verifier fixes applied |
-| species/ocean-whitefish.md | full | pending |  |  |
+| species/ocean-whitefish.md | full | transformed | gaps(6), stubs(6), fact-check(2), misplaced(1), spots(5), reg-claims(3), asr-uncertain(3) | apply-with-changes: v2 skeleton complete, evidence split conserves all four before-state observations, 14 new cited sources added; 4 verifier fixes |
 | species/opah.md | full | pending |  |  |
 | species/pacific-crevalle-jack.md | full | pending |  |  |
 | species/rockfish-lingcod.md | full | pending |  |  |

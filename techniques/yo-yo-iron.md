@@ -739,6 +739,7 @@ the reverse map in **Linked from** below.
 - [Jerkbaits (Baja Cabrilla Program)](../lures/jerkbaits.md)
 - [La Jolla](../locations/la-jolla.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Opah (Moonfish)](../species/opah.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

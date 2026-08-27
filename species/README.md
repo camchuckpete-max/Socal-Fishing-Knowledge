@@ -13,7 +13,7 @@
 - [California Halibut](california-halibut.md) — California halibut lie in the sand within 5–20 ft of a hard edge, flip sand over their backs and ambush bait the current pins against that edge, so the search i
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — Spiny lobster is the one target in this KB with no rod-and-reel route: the recreational program is baited hoop nets on rock, riprap and kelp edge, worked after
 - [Dorado (Mahi-Mahi)](dorado.md) — Dorado concentrate where the cold green coastal water butts against the warm blue water offshore — 71.6 °F on a productive paddy — and stack under the broken-of
-- [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish — a distinct, highly underrated table fish that schools over hard bottom and sand ed
+- [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish, and it fishes as a school over hard bottom and sand-edge transitions: at the Channe
 - [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah — a large, round-bodied, warm-blooded pelagic — show up in the SoCal long-range fishery as an incidental catch rather than a dedicated target: boats pick t
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is a warm-water, inshore structure gamefish — common in Baja (Sea of Cortez, BOLA, farther south) and a rar
 - [Rockfish & Lingcod](rockfish-lingcod.md) — The deep-structure bottomfish complex: reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingco
@@ -114,5 +114,6 @@ graph LR
   n5 --> n17
   n6 --> n21
   n9 --> n12
+  n9 --> n14
 ```
 <!-- mermaid:end -->

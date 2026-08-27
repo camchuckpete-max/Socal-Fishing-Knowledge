@@ -269,6 +269,7 @@ Trip reports and per-source provenance:
 - [Kidney Bank (63) / 175](kidney-bank-63-175.md)
 - [LA - 270 / 286](la-270-286.md)
 - [Landing Cove](landing-cove.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Osborn Bank](osborn-bank.md)
 - [Southern California Bight](socal-bight.md)
 - [Sutil Island squid / yellowtail zone](sutil-island-squid-yellowtail-zone.md)

@@ -13,6 +13,7 @@
 - [Evidence — California Halibut](california-halibut.md) — Trip reports and per-source provenance backing California halibut.
 - [Evidence — California Spiny Lobster](california-spiny-lobster.md) — Trip reports and per-source provenance backing California spiny lobster.
 - [Evidence — Dorado (Mahi-Mahi)](dorado.md) — Trip reports and per-source provenance backing dorado.
+- [Evidence — Ocean Whitefish](ocean-whitefish.md) — Trip reports and per-source provenance backing ocean whitefish.
 - [Evidence — Yellowtail — surface iron](yellowtail-surface-iron.md) — The observation layer behind yellowtail — surface iron.
 - [Evidence — Yellowtail](yellowtail.md) — Trip reports and per-source provenance backing yellowtail.
 <!-- index:end -->

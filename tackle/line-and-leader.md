@@ -694,6 +694,7 @@ able to break off** (`aXF0bxAFtU0`):
 - [Maxcuatro Metered Braid — Night-Jig and Between-Stops Bait Depth (Tackle Express, Shogun Trip)](tackle-express-shogun-maxcuatro-braid.md)
 - [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md)
 - [Mustad 7.5" Heavy-Duty Pliers (Tackle Express)](tackle-express-mustad-heavy-duty-pliers.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)

@@ -378,6 +378,7 @@ the *bottom*, not the fish.
 - [Evidence — 43 / 91 / 300](../locations/evidence/43-91-300.md)
 - [Evidence — California Barracuda](evidence/barracuda.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
+- [Evidence — Ocean Whitefish](evidence/ocean-whitefish.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)

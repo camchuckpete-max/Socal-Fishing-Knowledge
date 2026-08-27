@@ -57,6 +57,9 @@ should interrupt anyone. The Phase 5 evaluator change enforces that split.
 | Farnsworth Bank (Catalina) marine closure — keep-list limited to yellowtail and bonito; everything else released | only yellowtail and bonito may be kept inside the closure area | 2022-10-26 | [yellowtail](../species/yellowtail.md), [Pacific bonito](../species/bonito.md) | `5p6gu14ZC4w` |
 | California barracuda minimum size — a SoCal sportboat crew counts undersized fish separately as "short" barracuda, implying a legal minimum; no figure, gauge or release is stated on camera | **unknown — gauge, measuring method and bag limit all absent from the corpus** | 2013-07-04 (the observation); gap flagged 2026-08 — verify the current minimum size and bag limit with CDFW | [California barracuda](../species/barracuda.md) | `M6U_FVdosr4` |
 | Pacific bonito bag limit and size gauge — no corpus source states either; the only bonito-specific rule in the corpus is the Farnsworth Bank keep-list row above | **unknown — bag limit and size gauge both absent from the corpus** | gap flagged 2026-08 — verify the current bag and size limits with CDFW | [Pacific bonito](../species/bonito.md) | — |
+| Whitefish daily allowance stacked on the rockfish bag (same on-camera statement as the rockfish row above, now also carried on the whitefish router) | 10 whitefish/day on top of 10 rockfish/day | 2020-03; live-seminar recollection, verify current before relying on it | [ocean whitefish](../species/ocean-whitefish.md), [rockfish & lingcod](../species/rockfish-lingcod.md) | `iAr6sbRC384` |
+| Whitefish access gated by the California groundfish season — a charter operator names the opener package as rockfish, lingcod, whitefish and sheephead | season-gated; no dates or depth line stated for whitefish itself | 2020-03; on-camera interview, verify current season dates and RCA depth line with CDFW | [ocean whitefish](../species/ocean-whitefish.md) | `46ha7J1Fc6A` |
+| Mexican (CONAPESCA) bag limit or size gauge for ocean whitefish — no corpus source states either, and the Ensenada high-spot fish falls under Mexican jurisdiction | **unknown — absent from the corpus** | gap flagged 2026-08 — verify current Mexican limits and the licence/entry paperwork before fishing | [ocean whitefish](../species/ocean-whitefish.md) | — |
 
 **Stated on camera but deliberately NOT stamped as regulatory guidance** —
 recorded so the figure isn't mistaken for a verified limit:
@@ -107,6 +110,7 @@ route, and the insurance carriers by name.
 - [Evidence — Catalina Island, Front Side](../locations/evidence/catalina-island-front-side.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Mexican waters](../locations/mexican-waters.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [US waters](../locations/us-waters.md)

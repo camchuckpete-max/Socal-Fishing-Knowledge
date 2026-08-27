@@ -286,6 +286,7 @@ Trip reports and per-source provenance: [evidence file](evidence/ensenada.md).
 - [Evidence — Banda Bank / Todos Santos Island](evidence/banda-bank-todos-santos-island.md)
 - [Evidence — Ensenada](evidence/ensenada.md)
 - [Lower Cross](lower-cross.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Punta Banda (caution — boilers)](punta-banda.md)
 - [Punta Morro](punta-morro.md)
 - [Punta San Miguel](punta-san-miguel.md)

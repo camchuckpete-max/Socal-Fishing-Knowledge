@@ -126,6 +126,7 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](loreto.md)
 - [Lower Cross](lower-cross.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pukey Point](pukey-point.md)
 - [Punta Banda / Santo Tomas](punta-banda-santo-tomas.md)
 - [Rosarito / Descanso](rosarito-descanso.md)

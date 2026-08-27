@@ -524,6 +524,7 @@ the bite, read before you feel anything through the blank.
 - [La Jolla](../locations/la-jolla.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Phenix Axis — Mid-Tier Rockfishing Rod Spec (Tackle Express)](../tackle/tackle-express-phenix-axis-rockfish-rod.md)
 - [Premade P-Line Rock Cod Rig — Two Swivels, Tie and Drop (Tackle Express)](../tackle/tackle-express-premade-rock-cod-rig.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)

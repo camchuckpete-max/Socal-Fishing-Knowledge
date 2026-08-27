@@ -192,5 +192,6 @@ given other implausible on-camera claims.
 - [Evidence — California Halibut](../species/evidence/california-halibut.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)
 - [Iron Jigs](../lures/iron-jigs.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 <!-- backlinks:end -->

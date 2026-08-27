@@ -384,8 +384,10 @@ Per-trip detail and conditions are in
 
 - [380](380.md)
 - [Cortes Bank](cortes-bank.md)
+- [Evidence — Ocean Whitefish](../species/evidence/ocean-whitefish.md)
 - [Evidence — Tanner Bank](evidence/tanner-bank.md)
 - [Hancock Bank](hancock-bank.md)
+- [Ocean Whitefish](../species/ocean-whitefish.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)
