@@ -45,7 +45,7 @@ by their builders after the transform phase drains.
 | techniques/drop-shot.md | standard | transformed | misplaced-content(3), spinout(1) | transform verified with in-tree fixes: 2 conservation restores, 1 unsupported-claim removal, 1 missing relocation flag added |
 | techniques/dropper-loop.md | standard | transformed | gaps(0), misplaced(0), spots(4), reg-claims(0), spinout(1), gap(gear-class-lexicon, new) | v2 migration: dissolved 6 source-named headings, compacted to compact cites, split observations to evidence file with traces kept beside doctrine, completed infobox; verified with 2 fixes (resolved cite-unresolved to mUrihh0V59M; corrected fabricated gear_classes) |
 | techniques/fighting-big-bluefin.md | standard | transformed | gaps(1) | migrated to layout v2: technique skeleton, plain-statement prose with compact cites, dissolved source-named headings, split ~26 observed blocks to evidence with traces beside doctrine, decision frame for sea-lion conflict; verified with 1 fix (restored dropped kite-fishing.md link) |
-| techniques/fighting-fish-from-the-rail.md | standard | transformed | asr-uncertain(Seeker 2x4 caption) | migrated to layout v2: dissolved 5 source-named headings, plain-statement prose with compact cites, split Observed block to evidence; verified with fixes (4 dead cross-note anchors, 1 smoothed intensifier restored) |
+| techniques/fighting-fish-from-the-rail.md | standard | pending |  |  |
 | techniques/flat-fall-jigging.md | standard | pending |  |  |
 | techniques/flyline.md | standard | pending |  |  |
 | techniques/foamer-casting.md | standard | pending |  |  |

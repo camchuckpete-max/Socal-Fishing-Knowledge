@@ -61,7 +61,7 @@ Rod)," `Y2XZ34-Tpa0`, 2019-06-06; `searcher-sportfishing` registered channel,
 single mention — medium confidence for the mechanism/parameters). This is
 the mechanism behind the long-foregrip rail requirement already logged in
 [fighting fish from the rail — big-tuna
-variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage),
+variant](../techniques/fighting-fish-from-the-rail.md#big-tuna-variant-armpit-tuck-low-gear-and-body-weight-leverage-steve-carson-pennsearcher-2023-07-13),
 and the two-speed-for-1.5-day/3-day-trip pairing corroborates [two-speed
 reels for multi-day bluefin
 trips](rod-and-reel-selection.md#two-speed-reels-for-multi-day-bluefin-trips--fishermans-landing--searcher-counter-tip-searchersportfishing)
@@ -157,7 +157,7 @@ below rate normally):**
   identity.
 - An on-camera rail-fighting demo using this rod is logged in [fighting fish
   from the rail — Seeker 2x4 rail-rod
-  demo](../techniques/fighting-fish-from-the-rail.md#watch-the-tip--seeker-2x4-rail-rod-demo).
+  demo](../techniques/fighting-fish-from-the-rail.md#seeker-2x4-rail-rod-demo--watch-the-tip-rick-holt-and-sophia-nguyen-seeker-rods).
 - A separately-sourced **Seeker 2x4** citation exists for the Searcher's
   dedicated kite outfits (Accurate ATD 50 reels, 200 lb spectra) in [kite
   fishing](../techniques/kite-fishing.md#observed-outfit-and-dead-flyer-specs-searchers-kite-program-via-turners-outdoorsman)
@@ -294,7 +294,6 @@ does the lookup.
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
-- [Evidence — Fighting Fish from the Rail](../techniques/evidence/fighting-fish-from-the-rail.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](../techniques/fighting-fish-from-the-rail.md)
