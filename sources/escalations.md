@@ -194,3 +194,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-27T21:10:15Z — techniques/fighting-fish-from-the-rail.md — guard-violation
 - run: 33112147658
 - reason: commit f8ce1f59e7001c677d4ad08dc8938bb299c679ea reverted: out of scope for 'review: techniques/fighting-fish-from-the-rail.md': tackle/gear-classes.md; out of scope for 'review: techniques/fighting-fish-from-the-rail.md': tackle/searcher-rail-rod-ladder.md
+
+## 2026-08-27T21:37:46Z — techniques/flyline.md — guard-violation
+- run: 33112147658
+- reason: commit 2293d5a775af3757df90073ec51726d1e310c55e reverted: out of scope for 'review: techniques/flyline.md': locations/la-paz.md
