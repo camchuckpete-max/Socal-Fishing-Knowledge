@@ -41,6 +41,12 @@ name: review-trampoline
 # attempt every 6h, then every 24h, instead of hammering every 2h. It backs
 # OFF rather than stopping, because resuming by itself when the limit window
 # resets is the entire reason it exists.
+#
+# 2026-08-27 (SIGPIPE): that backoff then stalled the chain for nine hours the
+# first time the fleet had real work queued. See the comment at the `dead=`
+# line below — the short version is that a `git log | awk` pipeline under
+# `set -euo pipefail` can die 141 and take the whole step with it, so the
+# count is now a script with no pipe and a `|| dead=0` on top.
 
 on:
   schedule:
@@ -111,8 +117,18 @@ jobs:
           # at the branch tip. Real work breaks the streak, so a long one means
           # nothing has come out for that many chunks. Two is a hiccup; three
           # is a wall.
-          dead=$(git log --format='%s' -60 \
-                 | awk '/^review: progress checkpoint$/{n++; next} {exit} END{print n+0}')
+          #
+          # 2026-08-27: this was a `git log | awk` pipeline, and it cost a
+          # 9-hour stall. Under `set -euo pipefail`, with a NON-checkpoint
+          # commit at the tip — i.e. exactly when the fleet has been producing
+          # work — awk hit `{exit}` on the first line and closed the pipe while
+          # git log was still writing. That races into SIGPIPE, git log exits
+          # 141, pipefail propagates it and set -e kills this step BEFORE the
+          # dispatch below. It survived 31 runs only because the tip was always
+          # a checkpoint commit, so awk read to the end and never exited early.
+          # No pipe now, and `|| dead=0` on top: this is an optimisation, and
+          # it must never be the reason a bounce does not happen.
+          dead=$(python scripts/review/dead-chunks.py) || dead=0
           if [ "${dead:-0}" -ge 3 ] && [ "$FORCED" != "true" ]; then
             if [ "$dead" -ge 8 ]; then need=24; else need=6; fi
             last=$(gh run list --workflow=review-chunk.yml --limit 1 \
