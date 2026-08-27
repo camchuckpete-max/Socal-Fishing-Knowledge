@@ -288,6 +288,7 @@ does the lookup.
 - [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Deep-Drop Swordfishing (daytime)](../techniques/deep-drop-swordfishing.md)
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Drop Shot](../techniques/drop-shot.md)
