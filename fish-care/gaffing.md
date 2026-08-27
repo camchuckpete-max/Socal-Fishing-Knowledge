@@ -162,6 +162,7 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Tuna Care](tuna-care.md)
 - [Yellowtail](../species/yellowtail.md)
 <!-- backlinks:end -->

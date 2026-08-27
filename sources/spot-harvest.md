@@ -194,4 +194,5 @@ harvested.
 | Catalina Island (front side) | species/ocean-whitefish.md | Where & when | whitefish to about 10 lb off anchored front-side calico structure, with sea lions taking hooked fish; separately reported caught on flies in late October alongside calicos and bonito | `HGyL7pXy3Ts`, `OYOda6T3f-8` |
 | La Jolla | species/ocean-whitefish.md | Where & when | float-tube catch described as "mostly white fish" | `ouBrIdO7d4k` |
 | Ensenada — high spot ~7–8 mi from the Hotel Coral marina | species/ocean-whitefish.md | Where & when | high spot rising to ~25 ft from roughly 200 ft; a whitefish was the first fish of the day | `CKq0Z6ExVs4` |
+| Catalina, offshore | species/opah.md | Where & when | the only water the corpus names for opah; stated in a studio clip with no depth, season or conditions | `tio1oeibVlM` |
 <!-- review:harvest:end -->

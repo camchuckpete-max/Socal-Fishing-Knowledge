@@ -595,6 +595,7 @@ the bluefin nearby become more cooperative too.**
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [October](../seasonal/october.md)
+- [Opah (Moonfish)](opah.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [San Clemente Island — Front Side](../locations/san-clemente-island-front-side.md)

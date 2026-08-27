@@ -285,6 +285,7 @@ Trip reports and per-source provenance:
 - [Little Gibraltar Main Big Rock (stay W of MPA at 118 24.000)](little-gibraltar-main-big-rock.md)
 - [Long Point (stay E/S of MPA at 33 24.380 x 118 21.980)](long-point.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Parson's Landing](parson-s-landing.md)
 - [Red Bluff](red-bluff.md)
 - [Salta Verde Cod 1 (48 fa)](salta-verde-cod-1-48-fa.md)

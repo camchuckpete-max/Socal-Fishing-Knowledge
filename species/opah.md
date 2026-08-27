@@ -5,106 +5,168 @@ sources: [tio1oeibVlM, pCd6QykcZ0w, tpmOYXYQwhU]
 confidence: medium
 regions: [socal-bight]
 waters: [open-ocean]
+layout: v2
+scientific_name: unknown
+season_peak: unknown
+sst_band_f: unknown
+depth_band: 150-200 ft, fished from a drifting boat
+gear_classes: [jig-stick, dart-jig]
+sonar_depth: unknown
 ---
 
 # Opah (Moonfish)
 
-Opah — a large, round-bodied, warm-blooded pelagic — show up in the SoCal
-long-range fishery as an **incidental** catch rather than a dedicated target:
-boats pick them up while fishing tuna, dropping a jig deep instead of (or
-alongside) the tuna gear. Table fare is a big part of the doctrine on this
-fish — the "abductor" muscle (as named on camera; anatomical identity not
-otherwise verified by this KB) is a distinctive, prized cut. The
-source base here is thin (one 54-second tackle-tip clip); flesh this out as
-more corpus material arrives.
+Opah are a bycatch of the SoCal offshore tuna program, not a target: they eat a
+jig or a sinker-weighted bait fished **150–200 ft** down while the boat drifts,
+and the fish is a surprise identified only when it comes up to color
+(`tpmOYXYQwhU`). Going out to target them is stated as "not too productive"
+(`tpmOYXYQwhU`), so the operational question is never where to find opah — it
+is whether to give up tuna time to drop a jig under the boat. Table fare drives
+that decision: the fish carries seven distinct cuts of meat, and the
+frisbee-shaped "abductor muscle" is called one of the best of them
+(`tio1oeibVlM`).
 
 ## Where & when
 
-- **Where (as stated on camera):** **Catalina, offshore** — the only location
-  named in the source (SearcherSportfishing, "Tackle Tip Thursday Vol. 46
-  (Opah)," `tio1oeibVlM`, 2019-05-02; `searcher-sportfishing` registered
-  channel, single mention — medium confidence). Do not read this as the
-  fish's full SoCal/Baja range — the source names only this location, and
-  per this KB's naming rule a place is recorded only where the source states
-  it.
-- **Season:** not stated in the source.
-- **Context:** opah turn up as a **bycatch while fishing tuna** — the clip
-  frames the deep-jig program as something to try "when everybody's back
-  there fishing in that tuna," i.e. while the rest of the boat is
-  chumming/flylining for tuna off the stern (`tio1oeibVlM`).
-- **Biology, as stated on camera:** described as warm-blooded (a real,
-  distinguishing opah trait) and wide-ranging ("swims all over the world");
-  the clip also states "seven different species they've just found out" — an
-  on-camera claim, not independently verified by this KB, carried here
-  because it's what the source says (`tio1oeibVlM`).
+**Where.** Catalina, offshore is the only water the corpus names for opah
+(`tio1oeibVlM`); no source says which side of the island — see
+[Catalina Island — Front Side](../locations/catalina-island-front-side.md) and
+[Catalina Island — Backside](../locations/catalina-island-backside.md)
+for the island's structure. Treat that as the extent of the recorded range,
+not as the fish's actual range; opah are described as wide-ranging, "swims all
+over the world" (`tio1oeibVlM`), and a place is recorded here only where a
+source states it.
 
-## Finding them
+**When.** ⚠ Flagged gap — no corpus source: any month, season window, or
+temperature band for opah in the Bight. Neither source dates the catch.
 
-The `tio1oeibVlM` source gives no visual sign or sonar-signature/depth detail
-specific to opah — no meter-reading guidance beyond "drop that jig down
-deep." For general method see [search & glassing](../planning/search-and-glassing.md)
-and [electronics & sounder](../planning/electronics-and-sounder.md). As
-described here, opah are picked up incidentally on marks already being
-worked for tuna, not located as a discrete target.
+**Presence is not catchability.** The fish is present anywhere the offshore
+tuna drift happens, but the encounter rate is low enough that both sources
+class it as incidental rather than plannable (`tio1oeibVlM`, `tpmOYXYQwhU`).
+Build the day around [bluefin](bluefin-tuna.md) or
+[yellowfin](yellowfin-tuna.md) and treat an opah as upside.
 
-- **A depth figure and the incidental mechanism, stated directly
-  (SearcherSportfishing, Tackle Talk Live, `tpmOYXYQwhU`, 2020-04-21;
-  `searcher-sportfishing` registered channel, presenter not identified on
-  camera, single mention — medium confidence):** asked whether opah are ever
-  deliberately targeted, the stated answer is no — "it's an incidental
-  catch": while the boat drifts, an angler who "goes deep" with a sinker or
-  a lure and gets down to roughly **150 to 200 ft** sometimes draws an opah
-  bite instead — "a surprise when you get it up to color." This citation
-  doesn't itself name tuna as the gear-down program in progress (unlike
-  `tio1oeibVlM`'s explicit tuna framing above); read together, not
-  independently confirming the same target species. **Explicitly not worth
-  targeting on its own:**
-  "the success rate if you went out and targeted opah would be not too
-  productive." No color, jig type, or cadence given in this citation — kept
-  side by side with, not replacing, the blue-and-white/night-bite doctrine
-  from `tio1oeibVlM` below, since neither source states whether they
-  describe the same program.
+## Presence & forage
+
+- **Opah are warm-blooded** (`tio1oeibVlM`).
+- **They are wide-ranging rather than resident to a structure** — "swims all
+  over the world" (`tio1oeibVlM`); no bank, reef, or high spot is recorded as
+  holding them.
+- Seven species of opah have been identified (`tio1oeibVlM`).
+  ⚠ Fact-check (single-source): a taxonomic count from a single 54-second clip,
+  with published science outside the corpus.
+- ⚠ Flagged gap — no corpus source: what opah eat naturally, what bait or
+  temperature concentrates them, and why they sit in the **150–200 ft** band
+  the drift program reaches.
+
+## Spawning
+
+⚠ Flagged gap — no corpus source: when, where, or how opah spawn, and what
+spawning does to the bite. The corpus is silent.
+
+## Feeding triggers
+
+- **The night bite is the stated preference** — "they bite best at night"
+  (`tio1oeibVlM`), scoped to the deep-jig drop, not to the daytime drift.
+  ⚠ Flagged gap — no corpus source: mechanism — no source says whether the
+  night preference reflects vertical migration into the jig's depth band, a
+  feeding window, or reduced boat pressure.
+  ⚠ Fact-check (single-source): the night preference and the blue-and-white
+  color preference come from one clip and are not corroborated by the
+  drift-fishery account, which gives no color or time of day (`tpmOYXYQwhU`).
+- ⚠ Flagged gap — no corpus source: tide, slack, current, or moon effect on the
+  opah bite.
+
+## Finding them (sign & sonar)
+
+**There is no opah search — you find them by hooking one.** The corpus records
+no visual sign, no bird behavior, and no sonar signature for opah; the fish is
+identified when it comes up to color, not on the meter (`tpmOYXYQwhU`). The
+only locating instruction is depth: get a jig or sinker down to **150–200 ft**
+under a drifting boat (`tpmOYXYQwhU`). General method:
+[search and glassing](../planning/search-and-glassing.md),
+[electronics and sounder](../planning/electronics-and-sounder.md).
+
+⚠ Flagged gap — no corpus source: an opah sonar signature, mark shape, or
+depth read that distinguishes them from the tuna marks already on the screen.
 
 ## Situations → techniques
 
 | Situation (conditions) | Do this (ranked) | Gear class | Notes |
 | --- | --- | --- | --- |
-| Boat is stopped on tuna (chum/flyline off the stern) and you want a shot at opah | Drop a jig **deep** and work it **up and down**, instead of fishing the tuna spread | Jig-stick / vertical-jig class (weight and line class not stated) | Prefer **blue and white**; **bite best at night** (`tio1oeibVlM`). Mechanics beyond "down deep, up and down" aren't specified in the source — the closest documented SoCal vertical-jig execution is [yo-yo iron](../techniques/yo-yo-iron.md), not confirmed identical |
-| Daytime dart-jig tuna fishing | No dedicated opah program — named as an **occasional bycatch** on the daytime dart-jig outfit while targeting bluefin/yellowfin/yellowtail | [Dart-jig class](../techniques/dart-jig-tuna.md) | Steve Carson, SearcherSportfishing: "knock on wood," occasional opah on this presentation — see [Searcher daytime dart-jig outfit ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md) |
+| Boat stopped and drifting on tuna, chum and [flylined](../techniques/flyline.md) baits off the stern, and you want the opah shot | Drop a jig **deep** and work it **up and down** instead of fishing the tuna spread | Jig-stick / vertical-jig class | Prefer **blue and white**; best bite at night (`tio1oeibVlM`) [a] |
+| Drifting offshore, any deep presentation already in the water | Fish a sinker or a lure down to **150–200 ft** and keep it there (`tpmOYXYQwhU`) | Jig-stick / vertical-jig class | The bite arrives unannounced; the fish is not identified until it is up to color [b] |
+| Daytime [dart-jig](../techniques/dart-jig-tuna.md) tuna fishing | No dedicated opah program — fish the dart jig for bluefin, yellowfin, and yellowtail and accept opah as an occasional bycatch | [Dart-jig class](../techniques/dart-jig-tuna.md) | Named as a "knock on wood" possibility on this presentation (`pCd6QykcZ0w`) — see [Searcher daytime dart-jig outfit ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md) |
+| Whole trip planned around opah | Do not — the success rate targeting opah is "not too productive" (`tpmOYXYQwhU`) | — | Plan the day on tuna and route through the rows above |
 
-## Gear summary
+[a] Weight, line class, and jig type are not stated for the deep-jig drop; only
+color and cadence (down deep, worked up and down) are. The closest documented
+SoCal vertical-jig execution is [yo-yo iron](../techniques/yo-yo-iron.md), which
+no source confirms is the same presentation.
+[b] This row's source does not name tuna as the program in progress, unlike the
+first row's explicit tuna framing — the two describe the same depth band but
+are not confirmed to describe the same program.
 
-- **Deep-jig program:** jig-stick class tackle — the source gives no weight,
-  line class, or rod rating, only color (blue/white) and cadence (down deep,
-  worked up and down). See [gear classes](../tackle/gear-classes.md).
-- **Daytime dart-jig bycatch:** whatever tuna outfit is already in use — see
+## Gear summary (class terms)
+
+- **Deep-jig drop:** jig-stick / vertical-jig class. No weight, line class, or
+  rod rating is stated anywhere in the corpus for opah — only blue-and-white
+  color and an up-and-down cadence (`tio1oeibVlM`). See
+  [gear classes](../tackle/gear-classes.md).
+- **Deep sinker or lure on the drift:** whatever gets the presentation to
+  **150–200 ft** and holds it there (`tpmOYXYQwhU`).
+- **Daytime dart-jig bycatch:** the tuna outfit already in use — see
   [Searcher daytime dart-jig outfit ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md).
+
+## Zone guides
+
+- **Catalina, offshore** — ⚠ Flagged stub — no zone guide yet. The corpus names
+  the zone (`tio1oeibVlM`) but gives no run, season window, or trip shape to
+  build a guide on.
+
+## Regulations
+
+⚠ Flagged gap — no corpus source: any California / CDFW or Mexican
+(CONAPESCA) bag limit, size gauge, or season covering opah. **Verify the
+current rules with the issuing agency before keeping one** — see
+[Mexican waters](../locations/mexican-waters.md) for the Baja side.
 
 ## Doctrine & conflicts
 
-- **Doctrine (medium — `searcher-sportfishing` registered channel, single
-  mention, `tio1oeibVlM`):** opah are a deep, incidental jig catch worked
-  while the boat fishes tuna — drop the jig deep and work it up and down,
-  favor **blue and white**, and expect the **best bite at night**.
-- **Table fare (`tio1oeibVlM`):** the "abductor" muscle (as named on camera) — described
-  on camera as looking like "a frisbee" — is called one of the best cuts on
-  the fish, usable anywhere a recipe calls for beef, chicken, or pork
-  (Italian sweet sausage seasoning, meatloaf, burgers, carne asada all named
-  on camera). The clip also says to use the whole fish, including the belly,
-  which it says can be made into "bacon."
-- **Doctrine (medium — `searcher-sportfishing` registered channel, single
-  mention, `tpmOYXYQwhU`):** opah are picked up incidentally around
-  **150–200 ft** while a jig or sinker is fished deep from a drifting boat;
-  deliberately targeting opah as a trip goal is stated as **not
-  productive**, reinforcing the incidental framing above rather than
-  conflicting with it.
-- No conflicting doctrine on record — the two sources agree on the
-  incidental-catch framing.
+Section order below is not a ranking.
+
+Both sources class opah as an incidental catch, and neither contradicts the
+other. What separates them is **scale of intent**: dropping a jig deep while
+the boat is already stopped is endorsed (`tio1oeibVlM`), and building a trip
+around opah is not (`tpmOYXYQwhU`). The decision turns on opportunity cost — a
+jig fished under a drifting boat costs one angler's tuna time, a targeted trip
+costs the whole day.
+
+## Landing & handling
+
+- **The fish is identified at color, not on the way up** — expect a surprise at
+  the end of a deep drift bite (`tpmOYXYQwhU`).
+- **Use the whole fish.** Opah carry **seven distinct cuts of meat**; the cut
+  described as looking like "a frisbee" — the "abductor muscle" — is called one
+  of the greatest cuts on the fish and substitutes for beef,
+  chicken, or pork in any preparation, ground with Italian sweet sausage
+  seasoning, or used for meatloaf, burgers, and carne asada. The belly is made
+  into bacon (`tio1oeibVlM`). ⚠ Fact-check (unverifiable): the captions render
+  the muscle's name "abductor muscle" (asr-uncertain); the anatomical name is
+  not resolvable from the captions and is carried flagged, not corrected.
+- ⚠ Flagged gap — no corpus source: gaffing, bleeding, chilling, or barotrauma
+  handling for a fish brought up from **150–200 ft**. General care:
+  [fish care](../fish-care/README.md), [gaffing](../fish-care/gaffing.md).
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/opah.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Evidence — Opah](evidence/opah.md)
 - [Searcher Daytime Dart-Jig Outfit Ladder (Steve Carson, Penn/SearcherSportfishing, 2023-03-30)](../tackle/searcher-daytime-dart-jig-outfit-ladder.md)
 - [Southern California Bight](../locations/socal-bight.md)
 <!-- backlinks:end -->

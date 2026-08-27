@@ -846,6 +846,7 @@ confidence.
 - [Loreto & Puerto Escondido](../locations/loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Pacific Bonito](../species/bonito.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)

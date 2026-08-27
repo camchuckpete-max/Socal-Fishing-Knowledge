@@ -232,6 +232,7 @@ Trip reports and per-source provenance:
 - [Iron Bound](iron-bound.md)
 - [Little Harbor](little-harbor.md)
 - [Lobster Bay](lobster-bay.md)
+- [Opah (Moonfish)](../species/opah.md)
 - [Palisades](palisades.md)
 - [Pedestal Rock](pedestal-rock.md)
 - [Ribbon Rock](ribbon-rock.md)

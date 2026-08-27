@@ -14,7 +14,7 @@
 - [California Spiny Lobster](california-spiny-lobster.md) **[SoCal only]** — Spiny lobster is the one target in this KB with no rod-and-reel route: the recreational program is baited hoop nets on rock, riprap and kelp edge, worked after
 - [Dorado (Mahi-Mahi)](dorado.md) — Dorado concentrate where the cold green coastal water butts against the warm blue water offshore — 71.6 °F on a productive paddy — and stack under the broken-of
 - [Ocean Whitefish](ocean-whitefish.md) — The ocean whitefish (*Caulolatilus princeps*) is a tilefish, not a rockfish, and it fishes as a school over hard bottom and sand-edge transitions: at the Channe
-- [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah — a large, round-bodied, warm-blooded pelagic — show up in the SoCal long-range fishery as an incidental catch rather than a dedicated target: boats pick t
+- [Opah (Moonfish)](opah.md) **[SoCal only]** — Opah are a bycatch of the SoCal offshore tuna program, not a target: they eat a jig or a sinker-weighted bait fished 150–200 ft down while the boat drifts, and
 - [Pacific Crevalle Jack (Toro)](pacific-crevalle-jack.md) — The Pacific crevalle jack (*Caranx caninus*, "toro") is a warm-water, inshore structure gamefish — common in Baja (Sea of Cortez, BOLA, farther south) and a rar
 - [Rockfish & Lingcod](rockfish-lingcod.md) — The deep-structure bottomfish complex: reds/vermilion, bocaccio ("salmon grouper"), blue (Johnny) bass, coppers and the rest of the rockfish family, plus lingco
 - [Barred Sand Bass](sand-bass.md) — The sand-flat and deep-structure cousin of the calico: a bottom-associated bass that lives on and around hard bottom, wrecks, and the reef-to-sand transition an
@@ -70,6 +70,8 @@ graph LR
   n0 --> n3
   n0 --> n5
   n1 --> n2
+  n10 --> n2
+  n10 --> n22
   n12 --> n14
   n12 --> n2
   n12 --> n25

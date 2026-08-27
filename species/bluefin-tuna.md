@@ -502,6 +502,7 @@ Trip reports and per-source provenance:
 - [North 9 Mile Bank / 178](../locations/north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [October](../seasonal/october.md)
+- [Opah (Moonfish)](opah.md)
 - [Point Loma](../locations/point-loma.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](../tackle/tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
