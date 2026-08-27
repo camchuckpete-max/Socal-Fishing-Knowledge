@@ -86,6 +86,7 @@ confidence past `medium`.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Cheater Troll](../techniques/cheater-troll.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 <!-- backlinks:end -->
