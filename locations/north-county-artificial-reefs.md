@@ -73,8 +73,21 @@ conditions treats Pendleton, Oceanside and Carlsbad as three cells, not 38.
 the [zone lexicon](zone-lexicon.md) but only 1, 3, 4, 6 and 7 carry
 coordinates in the library; the Oceanside 2-series skips 2D; and two distinct
 positions — 33°12.910'N 117°25.307'W and 33°13.050'N 117°25.402'W — are both
-labelled "Oceanside AR 2L". ⚠ Fact-check (contradicted-internal): one label,
-two waypoints — relabelled by Cameron, not by the review.
+labelled "Oceanside AR 2L".
+
+**The geometry says which of those two facts explains the other, and it is not
+the obvious one.** Stepping the 2-series in library order, consecutive letters
+sit **0.09–0.16 nm** apart, broken twice by longer jumps between legs of the
+grid (0.50 nm at 2F, 0.65 nm at 2J). The second "2L" continues from the first
+at **0.161 nm** — squarely in the consecutive-letter band, on the same
+northward line. It is a **thirteenth module carrying on past 2L**, not a second
+fix on the same one. And it is not the missing 2D either: 2D belongs between 2C
+and 2E, down in the 33°12.4–12.5'N band, while this position is the
+northernmost of the whole series. ⚠ Fact-check (contradicted-internal,
+resolved by geometry): **both waypoints stand and neither is dropped** — two
+real modules 0.16 nm apart. What is genuinely unknown is the second one's
+label, most likely 2M under the series convention, and separately why 2D
+carries no coordinates. Naming it is Cameron's call; publishing both is not.
 
 ⚠ Flagged gap — no corpus source: reef material, relief height, footprint or
 charted depth for the Oceanside and Carlsbad series, and how each numbered

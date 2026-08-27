@@ -246,12 +246,18 @@ ground you fish first, how the island and the high spots fish against each
 other, and what wind direction sends you to which side. Every documented move
 was made by a local guide without stating the reasoning.
 
-⚠ Fact-check (contradicted-internal): the zone's only water-temperature reading
-— **75 °F** water under high-80s to mid-90s °F air — is delivered on camera in
-the same breath as the word "springtime", on a trip whose three videos are
-uploaded 2023-10-25 through 2023-11-09 and which describes itself as a
-two-week stay ending that week (`92y14x33etQ`). The number is the only SST
-datum this zone has and the season attached to it decides whether it is usable.
+**The zone's only water-temperature reading is a late-October/November one:
+75 °F water under high-80s to mid-90s °F air** (`92y14x33etQ`). ⚠ Fact-check
+(contradicted-internal, resolved on weight of evidence): the number is
+delivered on camera in the same breath as the word "springtime", and that
+season word is the only thing pointing away from fall. Three independent
+anchors point at it — the trip's three videos upload 2023-10-25 through
+2023-11-09, the crew describes the trip on camera as a two-week stay ending
+that week, and every other dated day on this page falls in late October and
+November. One misspoken or ASR-corrupted word does not outweigh three. **The
+reading stands as a fall datum**; what remains genuinely open is only whether
+the number was recycled from an earlier trip, which nothing in the corpus can
+settle and which a second season of reports would.
 
 ## Spots
 

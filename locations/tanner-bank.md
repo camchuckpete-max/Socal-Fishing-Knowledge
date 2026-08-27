@@ -9,7 +9,7 @@ layout: v2
 parent: socal-bight.md
 structure_type: offshore banks — two isolated highs 15.6 nm apart on a north–south line at the outer edge of the region, each with a named high spot, a shallow end anchorable in 15–25 fathoms and a drop-off edge worked at 50–60 fathoms
 depth_band: 15–25 fathoms at anchor with the high spot marked in ~120 ft; the working drop-off edge at 50–60 fathoms; night jig marks from 50 fathoms down to 80 and below
-distance_nm: unknown as a charted figure — the corpus states the run in statute miles only: 96 mi SW of San Pedro and 111 mi west of Point Loma, ~110–115 mi from San Diego, 90–110 mi from Long Beach (sources disagree), a full overnight sportboat run
+distance_nm: unknown as a charted figure — the corpus states the run in statute miles only: 96 mi SW of San Pedro and 111 mi west of Point Loma, ~110–115 mi from San Diego, and from Long Beach about 90 mi to Tanner against about 110 mi to Cortes — the two ends of a complex 17.9 statute miles long, not a disagreement. A full overnight sportboat run
 ---
 
 # Tanner Bank
@@ -65,11 +65,18 @@ transit for a sportboat:
 | Long Beach | Tanner Bank | roughly 90–100 mi west | `ntQXxcH5sjI` |
 | San Clemente Island | Cortez Bank | 47 mi SW | `QSvzVHW9UMk` |
 
-**The two Long Beach figures for Cortez disagree by 20 miles** — ~90 mi
-(`nQvJnfb5jQ4`, `c3NFkQbdDy0`) against 110 mi (`fDSd9kqwYW0`), all three aboard
-the same boat out of the same port — so the Long Beach run is stated in the
-corpus as anywhere from **90 to 110 mi**. ⚠ Flagged — unresolved, queued in
-[the fact-check ledger](../sources/fact-check-ledger.md).
+**The two Long Beach figures for Cortez differ by 20 miles, and that is the
+length of this zone rather than a disagreement.** ~90 mi (`nQvJnfb5jQ4`,
+`c3NFkQbdDy0`) against 110 mi (`fDSd9kqwYW0`), all three aboard the same boat
+out of the same port — but Tanner and Cortes lie **15.6 nm**, or **17.9 statute
+miles**, apart (cameron), and the corpus names them interchangeably: a fish
+hooked on a trip logged as Cortez was called a "Tanner Bank yellow" on camera
+(`c3NFkQbdDy0`). A 20-mile spread across a complex 18 miles long is the near
+end against the far end. The ~90 mi figures land on this page's own **Tanner**
+row — "roughly 90–100 mi west" out of Long Beach (`ntQXxcH5sjI`) — while 110 mi
+matches Cortes, 18 miles further out. **Read it as one run to a two-bank
+complex: about 90 miles to Tanner, about 110 to Cortes.** Nothing here needs a
+chart to settle, and no figure was wrong.
 
 The San Clemente figure is the one the charts can check: **40.8 nm** separates
 Cortes Bank from Eel Point on San Clemente's back side (cameron), which is 47

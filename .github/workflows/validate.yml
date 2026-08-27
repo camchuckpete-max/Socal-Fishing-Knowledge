@@ -25,6 +25,7 @@ jobs:
         run: |
           python tests/test_link_maintenance.py
           python tests/test_guard_scope.py
+          python tests/test_resolve_cites.py
 
       - name: Link maintenance (must pass and be idempotent)
         run: |
