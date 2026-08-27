@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2210 flagged gaps, 347 flagged stubs, 1025 unknown infobox values._
+_Totals: 2215 flagged gaps, 347 flagged stubs, 1026 unknown infobox values._
 
 ## species/
 
@@ -369,6 +369,16 @@ _Totals: 2210 flagged gaps, 347 flagged stubs, 1025 unknown infobox values._
   - infobox `gear_classes`: unknown
 - **techniques/clearing-a-backlash.md**
   - `Common failures`: gap — how to tell when a backlash is wound too
+- **techniques/dropper-loop.md**
+  - `Gear class`: gap — a named
+- **techniques/fighting-big-bluefin.md**
+  - `Mola mola (sunfish) interference`: gap — a stated mechanism for why a mola mola
+- **techniques/flat-fall-jigging.md**
+  - `Leader and terminal rigging`: gap — whether hook durability
+- **techniques/glide-baits.md**
+  - `Gear class`: gap — rod,
+  - `Common failures`: gap — failure modes for glide baits at boiler
+  - infobox `depth_band`: unknown
 
 ## locations/
 
