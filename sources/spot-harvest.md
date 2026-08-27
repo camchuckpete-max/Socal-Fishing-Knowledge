@@ -302,4 +302,8 @@ harvested.
 | Pendleton artificial reef | techniques/chunking.md | Anchored chumming | worked sink-timing example — bow-tied chum bucket fished in 35-40 ft, chum sunk 3-4 ft by the time its plume is visible | `bM2vUS1B-yQ` |
 | Northwest Harbor (San Clemente Island) | techniques/chunking.md | Fighting fish out of shallow rock | anchored tight to island rock ("Coiler Rock"/"boiler Rock", asr-uncertain) in about 6 ft; calico to 8 lb taken on this pattern at two sessions | `KCcEqHSZ84k`, `eNcltRh-shc` |
 | Mission Bay | techniques/chunking.md | Chum bait selection | dorado refused live sardine but ate a cut chunk immediately after a trolling bite came off a current break | `uyjTdgIw-1k` |
+| San Benito Island | techniques/dropper-loop.md | Building the rig | 100 lb line minimum documented for a 30 lb+ yellowtail bite on squid, 30-40+ fathom water | `JaKSGkZ6CAc` |
+| Guadalupe Island | techniques/dropper-loop.md | Building the rig | 100 lb leader dropper loop for resident big yellowtail, drift swinging a rock wall from ~120 to 250 ft; ~8/10 hookups lost to cutoffs | `RgtkbmBFUXI` |
+| Camp Pendleton coast (North County San Diego) | techniques/dropper-loop.md | Fishing it — deadstick vs. work it | kids dropper-loop trip over hard bottom with light kelp in ~40-42 ft, producing calico and sand bass | `HMdrP4-i9MM` |
+| Catalina Island | techniques/dropper-loop.md | Fishing it — deadstick vs. work it | overnight anchored white seabass dropper-loop soak, four rods staggered at different depths off the bottom | `Y2bXn44lfqo` |
 <!-- review:harvest:end -->

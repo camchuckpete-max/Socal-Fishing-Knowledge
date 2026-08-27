@@ -296,7 +296,7 @@ Rigging a Pickle Kick on a War Baits Slayer open-hook head: https://www.youtube.
 ## Linked from
 
 - [Bay Bass Plastics](../lures/bay-bass-plastics.md)
-- [Dropper Loop](../techniques/dropper-loop.md)
+- [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — White Seabass](../species/evidence/white-seabass.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [White Seabass](../species/white-seabass.md)

@@ -43,7 +43,7 @@ by their builders after the transform phase drains.
 | techniques/dart-jig-tuna.md | standard | transformed | none | transform verified, one meaning-drift defect (cross-source gear conflation) fixed in place |
 | techniques/deep-drop-swordfishing.md | standard | transformed | fact-check(2) | transform verified with fixes: restored 2 deleted doctrine claims beside fact-check flags, restored dropped attribution on contested doctrine |
 | techniques/drop-shot.md | standard | transformed | misplaced-content(3), spinout(1) | transform verified with in-tree fixes: 2 conservation restores, 1 unsupported-claim removal, 1 missing relocation flag added |
-| techniques/dropper-loop.md | standard | pending |  |  |
+| techniques/dropper-loop.md | standard | transformed | gaps(0), misplaced(0), spots(4), reg-claims(0), spinout(1), gap(gear-class-lexicon, new) | v2 migration: dissolved 6 source-named headings, compacted to compact cites, split observations to evidence file with traces kept beside doctrine, completed infobox; verified with 2 fixes (resolved cite-unresolved to mUrihh0V59M; corrected fabricated gear_classes) |
 | techniques/fighting-big-bluefin.md | standard | pending |  |  |
 | techniques/fighting-fish-from-the-rail.md | standard | pending |  |  |
 | techniques/flat-fall-jigging.md | standard | pending |  |  |

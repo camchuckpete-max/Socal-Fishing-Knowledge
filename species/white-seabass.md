@@ -339,6 +339,7 @@ Trip reports and per-source provenance: [evidence file](evidence/white-seabass.m
 - [Ditch the Heavy Tuna Gear — Casting Reel for Sea Bass and Yellows (Tackle Express)](../tackle/tackle-express-casting-reel-for-seabass-yellowtail.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — Dropper Loop](../techniques/evidence/dropper-loop.md)
 - [Evidence — White Seabass](evidence/white-seabass.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)

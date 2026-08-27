@@ -9,6 +9,7 @@
 - [Evidence — Chunking](chunking.md) — Trip reports and per-source provenance backing chunking.
 - [Evidence — Dart Jig — Daytime Finesse Tuna](dart-jig-tuna.md) — Per-source provenance backing dart jig — daytime finesse tuna.
 - [Evidence — Drop Shot](drop-shot.md) — Trip reports and per-source provenance backing drop shot.
+- [Evidence — Dropper Loop](dropper-loop.md) — Trip reports and per-source provenance backing dropper loop.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 
