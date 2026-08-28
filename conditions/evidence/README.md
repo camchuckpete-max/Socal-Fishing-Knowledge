@@ -8,11 +8,20 @@
 - [Evidence — Current Diagnostics](current-diagnostics.md) — Per-source provenance backing Current Diagnostics.
 - [Evidence — Current Structure](current-structure.md) — Per-source provenance backing Current Structure.
 - [Evidence — Deep Scattering Layer](deep-scattering-layer.md) — Per-source provenance backing Deep Scattering Layer.
+- [Evidence — Kelp Paddies](kelp-paddies.md) — Per-source provenance backing Kelp Paddies.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_No intra-folder links yet._
+```mermaid
+graph LR
+  n0["Evidence — Bird Reading"]
+  n1["Evidence — Current Diagnostics"]
+  n2["Evidence — Current Structure"]
+  n3["Evidence — Deep Scattering Layer"]
+  n4["Evidence — Kelp Paddies"]
+  n4 --> n0
+```
 <!-- mermaid:end -->

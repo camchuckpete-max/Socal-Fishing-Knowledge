@@ -34,4 +34,5 @@ Per-source provenance backing [Bird Reading](../bird-reading.md).
 ## Linked from
 
 - [Bird Reading](../bird-reading.md)
+- [Evidence — Kelp Paddies](kelp-paddies.md)
 <!-- backlinks:end -->

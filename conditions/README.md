@@ -8,7 +8,7 @@
 - [Current Diagnostics](current-diagnostics.md) — This note reads current strength and direction off things visible on the water — kelp lean, chum drift, anchor-line angle, bite pattern — and turns that read in
 - [Current Structure](current-structure.md) — This is the mechanism note: how moving water plus bottom structure builds a food chain, and where on a bank or island that chain concentrates.
 - [Deep Scattering Layer](deep-scattering-layer.md) — The deep scattering layer (DSL) is a dense band of small organisms — hake, small rockfish, squid, myctophids, zooplankton — that sits 600+ ft down by day and ri
-- [Kelp Paddies](kelp-paddies.md) — Drifting kelp paddies are floating structure — they hold bait, shade, and gamefish (yellowtail, dorado, paddy bluefin, tripletail, bycatch) out over open water.
+- [Kelp Paddies](kelp-paddies.md) — Drifting kelp paddies are floating structure that hold bait, shade, and gamefish — yellowtail, dorado, paddy bluefin, tripletail, and bycatch — out over open wa
 - [Moon](moon.md) — The moon phase is a probability adjustment, never a gate.
 - [Sea State](sea-state.md) — A raw wind + swell pull (height, period, direction) is not a fishability read on its own.
 - [Tide and Slack](tide-and-slack.md) — Tidal phase decides when to be where.
