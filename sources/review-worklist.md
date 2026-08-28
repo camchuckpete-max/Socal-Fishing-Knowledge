@@ -866,4 +866,6 @@ by their builders after the transform phase drains.
 | locations/volume-square.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/14-mile-bank-209-267-complex.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/dump.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/alijos-rocks-the-ridge.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/lighthouse-point-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
