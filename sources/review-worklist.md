@@ -194,7 +194,7 @@ by their builders after the transform phase drains.
 | tackle/jigging-rod-guide-wrap.md | light | done | none | migrated to layout v2, stripped attribution-preamble/confidence chatter to compact cites, kept contested-doctrine names per exception; verified faithful, no information loss |
 | tackle/lightweight-reel-pick-turners-outdoorsman.md | light | done | none | migrated to layout v2, presenter/channel provenance split to evidence file, plain-statement rewrite; verified faithful, link-maintenance re-run for backlinks |
 | tackle/line-and-leader.md | light | done | spots(7), asr-uncertain(panelist-surname, illegible-knot-name) | LIGHT-tier v2 migration, attribution/confidence to evidence file, 2 observation blocks split; verifier restored 5 sources' dropped provenance in evidence file |
-| tackle/offset-hooks.md | light | pending |  |  |
+| tackle/offset-hooks.md | light | done | gaps(1) | LIGHT-tier v2 migration: attribution preamble to compact cites, stale hooks.md anchor repaired, hedge reworded to gap flag; verified faithful |
 | tackle/reel-maintenance.md | light | pending |  |  |
 | tackle/rod-action-testing-technique.md | light | pending |  |  |
 | tackle/rod-and-reel-selection.md | light | pending |  |  |
