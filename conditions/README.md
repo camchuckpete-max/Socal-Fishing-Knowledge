@@ -11,7 +11,7 @@
 - [Kelp Paddies](kelp-paddies.md) — Drifting kelp paddies are floating structure that hold bait, shade, and gamefish — yellowtail, dorado, paddy bluefin, tripletail, and bycatch — out over open wa
 - [Moon](moon.md) — Moon phase is a probability adjustment to the search and timing plan, never a hard gate on whether to go.
 - [Sea State](sea-state.md) — A raw wind + swell pull (height, period, direction) is not a fishability read on its own.
-- [Tide and Slack](tide-and-slack.md) — Tidal phase decides when to be where.
+- [Tide and Slack](tide-and-slack.md) — Tidal phase decides when to fish where.
 - [Upwelling and Turnover](upwelling-and-turnover.md) — Chlorophyll is not a yes/no signal — it has an age.
 - [Water Color](water-color.md) — Water color / chlorophyll is the second axis alongside SST.
 - [Water Regimes](water-regimes.md) — Cameron house doctrine (attributed cameron): the Bight's fishing year is four water-state regimes, not twelve months.

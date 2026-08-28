@@ -427,4 +427,6 @@ harvested.
 | The 425 | conditions/sea-state.md | Unforecast-wind heuristics (Catalina Eddy shielding) | often shielded by the Catalina Eddy despite sitting far south of San Clemente | `S2L3KLSQ6Is`, cameron |
 | San Diego Bay entrance | conditions/sea-state.md | SD Bay entrance swell exposure | open to swell from roughly 160-186 degrees; channel seaward axis measured at 186 degrees | cameron |
 | Point Loma | conditions/sea-state.md | SD Bay entrance swell exposure | blocks swell from west of the channel axis (186 degrees) | cameron |
+| Catalina Island | conditions/tide-and-slack.md | evidence — Arrival discipline | charter marked bluefin/dorado sign off the fathom curve on the backside but left before slack instead of waiting, boated only one fish | `5to3Q5P7w90` |
+| Catalina Island | conditions/tide-and-slack.md | evidence — Species tide-dependence | overnight anchored white seabass soak planned around a 4 a.m. slack turn | `Y2bXn44lfqo` |
 <!-- review:harvest:end -->

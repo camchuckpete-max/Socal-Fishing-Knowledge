@@ -1,23 +1,30 @@
 ---
 type: conditions
 tags: [tide, slack, timing, white-seabass, halibut, foamers, bluefin]
-sources: [6TBxHnkYXI0, DnSqw4r7A1s, 5p6gu14ZC4w, HzE4FHHcvTk, 5to3Q5P7w90, cameron, Y2bXn44lfqo, 9tTM99InluM]
+sources: [6TBxHnkYXI0, DnSqw4r7A1s, 5p6gu14ZC4w, HzE4FHHcvTk, 5to3Q5P7w90, cameron, Y2bXn44lfqo, 9tTM99InluM, OpcKQPA3vAI]
 confidence: high
+layout: v2
 ---
 
 # Tide and Slack
 
-Tidal phase decides **when** to be **where**. These are the timing rules to attach
-to the tide pull. Two independent voices — Erik Landesfeind and Cameron — describe
-the same slack-tide bait-rise mechanism, which raises confidence in it.
+Tidal phase decides **when** to fish **where**. The clock matters most on
+marginal days: an hour either side of slack turns the bite on or off for
+slack-biting species, and an off-peak bite compresses into that window rather
+than spreading across the day. Species differ sharply in how tide-dependent
+they are — current-driven and tide-indifferent, fully tide-driven, or a
+slack-tide biter — so the plan has to match the species, not one blanket rule.
 
 ## Arrival discipline — be there an hour before the change
 
-Be at the highest-percentage zone **an hour before** the tide change (`6TBxHnkYXI0`).
-The **late-morning slack** (when a tide falls after ~9:30) is the prime open-water
-**pop-up window**; pop-ups also **cluster in the afternoon**, so re-run water you
-marked earlier in the day at those tide times (`DnSqw4r7A1s`, `5p6gu14ZC4w`). Do not arrive
-*at* the change — arrive before it and be fishing when it hits.
+Be at the highest-percentage zone **an hour before** the tide change
+(`6TBxHnkYXI0`). The **late-morning slack** (when a tide falls after ~9:30) is
+the prime open-water **pop-up window**; pop-ups also **cluster in the
+afternoon**, so re-run water marked earlier in the day at those tide times
+(`DnSqw4r7A1s`, `5p6gu14ZC4w`). Arrive before the change, not at it — a
+charter that left marked bluefin/dorado sign before slack instead of waiting
+for the turn ran open water afterward and boated only one fish for the trip
+(`5to3Q5P7w90`).
 
 ## Window compression
 
@@ -38,30 +45,21 @@ action **compresses into the tide windows**; wide-open days bite all day
 | Marlin | **Slack-tide biter** |
 | Bluefin foamers | **Slack-tide biter** |
 
-Source: `6TBxHnkYXI0`. A worked cautionary tale: a captain (Decker) left sign **before
-slack** and regretted it — the bite was about to fire on the change (`5to3Q5P7w90`).
+Source: `6TBxHnkYXI0`. An overnight anchored white seabass soak timed to a
+4 a.m. slack turn corroborates the WSB row (`Y2bXn44lfqo`).
 
-**Observed** (StokedOnFishing, 2023-08-30, Catalina Island, Y2bXn44lfqo): an
-overnight anchored white seabass soak was planned around a **4 a.m. slack
-tide (turn of the tide)** — the crew let most of the team sleep beforehand but
-kept one person on deck with lines soaking through the night, then got
-everyone up for the 4 a.m. turn on the belief that the bite is more likely to
-go off at the change.
+## Slack mechanism
 
-**Slack mechanism (corpus):** at slack the water column "goes quiet," bait rises,
-and predators hunt it better — so the bite fires on the change rather than during
-the hard run.
+At slack, the water column goes quiet — current stops moving it up and down —
+and bait rises where predators can work it more easily, which is why the bite
+fires on the change rather than during the hard run (`6TBxHnkYXI0`). Bluefin
+foamers run the same mechanism: slack lets bait rise, and foamers are most
+likely to start right at the turn (cameron).
 
-**Cameron's slack-tide foamer / bait-rise model (independent agreement):**
-**Cameron** plans around slack tide for tuna because he believes **foamers are
-most likely to start at slack** — slack lets the bait rise in the water column.
-This is the same mechanism the corpus states, arrived at independently, which is
-why both are recorded here rather than reconciled away.
+## Tide mechanism (background, generic — not SoCal-measured)
 
-## Mechanism (background)
-
-Oceanographic mechanism only (Crust to Coast lecture, 9tTM99InluM) — background
-for interpreting tide charts, not fishing doctrine:
+Background astronomy for reading a tide chart, not fishing doctrine
+(`9tTM99InluM`):
 
 - Tides come from the moon's and sun's gravity stretching Earth's oceans into
   bulges. Because gravitational pull falls off with the square of distance, the
@@ -89,12 +87,28 @@ for interpreting tide charts, not fishing doctrine:
 2. **Current**, and
 3. **Bait present**.
 
-Missing any one → **leave within 20–30 min** (Ep. 15). The best version is the
-**local variation**: a dirty-water patch with a **hard rip / foam edge** inside
-otherwise cleaner water — fish hide in the dirt to ambush along that edge
-(`6TBxHnkYXI0`, Ep. 15). See [water color](water-color.md),
+Missing any one → **leave within 20–30 min** (`OpcKQPA3vAI`). The best version
+is the **local variation**: a dirty-water patch with a **hard rip / foam edge**
+inside otherwise cleaner water — fish hide in the dirt to ambush along that
+edge (`6TBxHnkYXI0`, `OpcKQPA3vAI`). See [water color](water-color.md),
 [white seabass](../species/white-seabass.md), and
 [California halibut](../species/california-halibut.md).
+
+## How to use it in planning
+
+- Arrive at the day's highest-percentage zone an hour before the tide change
+  and be fishing when it hits, not searching for water right as it turns.
+- For slack-tide biters (white seabass, marlin, bluefin foamers) build the
+  timeline around the change; for calico bass plan off current instead; for
+  harbor spotted bay bass plan off the clock, not current.
+- On marginal, pressured, or post-moon days, anchor the plan's zones to tide
+  times; on wide-open days, route freely — the bite is not tide-gated.
+- Re-check water marked earlier in the day at the late-morning (falling after
+  ~9:30) and afternoon tide windows — pop-ups cluster there.
+- For WSB/halibut, confirm all three of off-color water, current, and bait
+  before committing to a spot; leave within 20–30 min if one is missing, and
+  prioritize a dirty-water patch with a hard rip/foam edge inside cleaner
+  water over plain milky water alone.
 
 ## Related
 
@@ -104,6 +118,9 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Foamer casting](../techniques/foamer-casting.md)
 - [Day-plan protocol](../planning/day-plan-protocol.md)
 
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/tide-and-slack.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -120,6 +137,7 @@ otherwise cleaner water — fish hide in the dirt to ambush along that edge
 - [Current Diagnostics](current-diagnostics.md)
 - [Current Structure](current-structure.md)
 - [Day-Plan Protocol](../planning/day-plan-protocol.md)
+- [Evidence — Tide and Slack](evidence/tide-and-slack.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [LA - 270 / 286](../locations/la-270-286.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

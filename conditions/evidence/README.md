@@ -11,6 +11,7 @@
 - [Evidence — Kelp Paddies](kelp-paddies.md) — Per-source provenance backing Kelp Paddies.
 - [Evidence — Moon](moon.md) — Per-source provenance backing Moon.
 - [Evidence — Sea State](sea-state.md) — Per-source provenance backing Sea State.
+- [Evidence — Tide and Slack](tide-and-slack.md) — Per-source provenance backing Tide and Slack.
 <!-- index:end -->
 
 
@@ -26,6 +27,7 @@ graph LR
   n4["Evidence — Kelp Paddies"]
   n5["Evidence — Moon"]
   n6["Evidence — Sea State"]
+  n7["Evidence — Tide and Slack"]
   n4 --> n0
 ```
 <!-- mermaid:end -->
