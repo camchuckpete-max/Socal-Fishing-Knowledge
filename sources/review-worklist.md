@@ -838,4 +838,6 @@ by their builders after the transform phase drains.
 | locations/mexican-rockpile.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/san-diego-bay-entrance.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/san-onofre.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/oceanside.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/west-of-catalina.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
