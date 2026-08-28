@@ -10,7 +10,7 @@
 - [DTX Minnow](dtx-minnow.md) **[SoCal only]** — The Nomad DTX Minnow is a mid-depth trolling swimmer that gets down and holds a tight action across a wide speed band — a swimmer whose action dies on heavy lin
 - [Halco Laser Pro](halco-laser-pro.md) **[SoCal only]** — The Halco Laser Pro is a bibbed trolling minnow — the deep-diving XDD bib version dives hard for its size.
 - [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
-- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Region: Baja — Sea of Cortez / Bay of LA.
+- [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Slender minnow-profile hardbaits burned fast on a cast-and-wind retrieve for cabrilla (leopard grouper) working shoreline rock and submerged structure in the Se
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A shallow-diving hard bait treated as the generic term for a surf minnow lure in SoCal beach halibut fishing (Tackle Express, E4CDqBFOaP8, 2025-12-23): "if you
 - [Mad Mac](mad-mac.md) — The Nomad Madmacs is a hard-tracking, high-speed sinking minnow — the canonical SoCal bluefin speed-troll lure.

@@ -90,7 +90,7 @@ by their builders after the transform phase drains.
 | lures/dtx-minnow.md | standard | transformed | spots(2) | transform verified faithful, v2 skeleton compliant, all quotes/parameters conserved and cite-traced |
 | lures/halco-laser-pro.md | standard | transformed | none | transform verified with fix: recovered lost per-source attribution/confidence-caveat detail into a newly created evidence file; all specs/parameters/cites otherwise conserved |
 | lures/iron-jigs.md | standard | escalated |  | escalated: guard: out of scope for 'review: lures/iron-jigs.md': fish-care/dehooking-and-release.md |
-| lures/jerkbaits.md | standard | pending |  |  |
+| lures/jerkbaits.md | standard | transformed | gaps(1) | transform verified with 2 in-tree fixes (hedge restored on spawn exception, invented clause removed; Current Sniper switch-timing specificity restored) |
 | lures/knife-jigs.md | standard | pending |  |  |
 | lures/lucky-craft-flash-minnow.md | standard | pending |  |  |
 | lures/mad-mac.md | standard | pending |  |  |
