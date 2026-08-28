@@ -9,7 +9,7 @@
 - [Fleet Intelligence](fleet-intelligence.md) — How to treat what the rest of the fleet is doing — VHF chatter and AIS/vessel tracking — as a planning input, and why the two are not equally trustworthy.
 - [Report Reading and Forecasting](report-reading-and-forecasting.md) — How to age, discount, and project fishing reports into a plan.
 - [Search and Glassing](search-and-glassing.md) — How to actually look for offshore fish, and how to anchor once you find the water.
-- [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](trip-length-selection.md) — Why a San Diego long-range angler would choose a 3-to-7-day trip over a one-day trip, stated as boat-operator rationale rather than a species/gear decision (Sea
+- [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](trip-length-selection.md) — Which multi-day trip length to book is a boat-operator call made before conditions, species, and gear resolve — it sits upstream of the day-plan protocol.
 
 ### Subfolders
 - [evidence/](evidence/README.md)
