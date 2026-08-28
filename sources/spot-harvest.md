@@ -440,4 +440,6 @@ harvested.
 | Avalon Bank | conditions/water-color.md | evidence — Bait holds in the dirtier water; predators work the edge | marlin jigs run on the bait edge in dirtier-than-usual water; bait vanished trolling into the adjacent clear blue | `HzE4FHHcvTk` |
 | 152 Ridge | conditions/water-color.md | evidence — Bait holds in the dirtier water; predators work the edge | fished up toward the ridge en route to Avalon Bank; heavy bait along it before drying up near Avalon | `HzE4FHHcvTk` |
 | Dana Point | conditions/water-color.md | evidence — Lure brightness and bite depth by water clarity (coastal bass) | home waters for the kayak-guide murky-water lure-brightness / rain-runoff clarity doctrine | `LqW32NSkObY` |
+| Tanner Bank | conditions/water-regimes.md | 4. Fall fragmentation regime | fall warm band condenses/retreats offshore toward Tanner Bank as the coast cools | `OYOda6T3f-8` |
+| Cortez Bank | conditions/water-regimes.md | 4. Fall fragmentation regime | fall warm band condenses/retreats offshore toward Cortez Bank as the coast cools | `OYOda6T3f-8` |
 <!-- review:harvest:end -->

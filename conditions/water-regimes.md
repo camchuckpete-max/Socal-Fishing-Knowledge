@@ -3,23 +3,25 @@ type: conditions
 tags: [regimes, water-state, seasonal, upwelling, warm-water, fall-fragmentation, planning]
 sources: [cameron, OYOda6T3f-8, XLVUhV8DW64]
 confidence: high
+layout: v2
 ---
 
 # Water Regimes
 
-**Cameron house doctrine (attributed `cameron`):** the Bight's fishing year is
-four **water-state regimes**, not twelve months. Fish follow water temperature
-and bait, and the bait follows temperature and currents — so the regime, read
-from the live water, is the planning layer. The month notes in
-[seasonal/](../seasonal/README.md) are the **typical-year mapping** of when each
-regime usually arrives, nothing more.
+The Bight's fishing year runs on four water-state regimes, not twelve
+calendar months (cameron). Fish follow water temperature and bait, and bait
+follows temperature and currents, so the regime read from live water — not
+the date — is the planning layer. The month notes in
+[seasonal/](../seasonal/README.md) are the typical-year mapping of when each
+regime usually arrives; this note is what to use when the water is running
+ahead of, or behind, that mapping.
 
-**Anomaly guidance — the rule that makes this layer worth having:** in an
-anomalous year, plan from the regime you can see on the chart, not the month
-note. **In a warm year the warm-stable regime can arrive as early as March —
-use the regime note, not the month note.** In a cold year the winter/upwelling
-pattern can grind months past its typical exit. The month note tells you what
-*usually* happens; the live water tells you what *is* happening.
+**Anomaly guidance — why the regime outranks the calendar:** in an anomalous
+year, plan from the regime visible on the chart, not the month note. In a
+warm year the warm-stable regime can arrive as early as **March** — use the
+regime read, not the month note (cameron). In a cold year the
+winter/upwelling pattern can grind months past its typical exit. The month
+note says what usually happens; the live water says what is happening.
 
 Read the current regime from live [BightSST](../planning/day-plan-protocol.md)
 conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color.md),
@@ -30,7 +32,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 
 - **Defining water state:** cold, green, wind-driven water. NW blows and storms
   roll zones over; multi-day rain dirties the inshore with runoff; the forage
-  can shrink to small anchovy ("rice") cycles.
+  can shrink to small anchovy ("rice") cycles (cameron).
 - **Typical-year mapping:** mid-December through March —
   [November–December](../seasonal/november-december.md) (back half) and
   [February–March](../seasonal/february-march.md).
@@ -44,8 +46,8 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 
 - **Defining water state:** the water warms **unevenly** — leading edges of warm
   water push up from the south while NW wind events still crash whole zones
-  5–8 °F. Volatile, patchy, geography-dependent: some zones roll over, sheltered
-  zones hold. Squid spawns concentrate fish on the islands.
+  **5–8 °F**. Volatile, patchy, geography-dependent: some zones roll over,
+  sheltered zones hold. Squid spawns concentrate fish on the islands (cameron).
 - **Typical-year mapping:** April–May ([April](../seasonal/april.md),
   [May](../seasonal/may.md)).
 - **What it fishes like:** leading-edge fish ahead of the volume (bluefin creep
@@ -59,7 +61,7 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 - **Defining water state:** an established warm band of clean water over the
   Bight; conditions hold day to day; the paddy field is seeded and holding fish.
   The warmest × cleanest combination (SST max × chlorophyll min) is the
-  gamefish read.
+  gamefish read (cameron).
 - **Typical-year mapping:** roughly June through September —
   [June–July](../seasonal/june-july.md) (early, moon-driven),
   [August](../seasonal/august.md) (peak dispersal),
@@ -74,7 +76,9 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
 
 - **Defining water state:** the coast cools and the warm band **fragments** —
   sharp SST breaks and edges reappear, the warm water tracks a predictable
-  retreat path and **condenses** offshore (toward Tanner/Cortez)
+  retreat path and **condenses** offshore, toward
+  [Tanner Bank](../locations/tanner-bank.md) and
+  [Cortez Bank](../locations/tanner-bank.md)
   (`XLVUhV8DW64`, `OYOda6T3f-8`). The chart runs the plan: "conditions become
   pretty important … look 100 % at your temp chart and chlorophyll"
   (`OYOda6T3f-8`).
@@ -88,8 +92,40 @@ conditions: [SST](water-temperature.md), [chlorophyll / water color](water-color
   [current structure](current-structure.md) and
   [water temperature](water-temperature.md). The
   [year-anniversary prior](../seasonal/year-anniversary-prior.md) is a
-  *location prior within this regime* — where fish were at this point in prior
+  location prior within this regime — where fish were at this point in prior
   years' fragmentation is a usable starting box.
+
+## How to use it in planning
+
+- Pull the live regime signal (SST, chlorophyll, current structure,
+  upwelling/turnover) before consulting the month note; where they disagree,
+  plan from the regime, not the calendar.
+- In a warm year, expect warm-stable behavior — dispersed fish, a seeded
+  paddy field — as early as March; don't hold an offshore program back to
+  the typical June–July window.
+- In a cold year, hold winter/upwelling techniques (deep structure, early
+  lings, squid-driven island bites) past the typical March exit until the
+  water actually turns.
+- Through the warming transition (April–May), expect narrow
+  seeing-not-biting windows and let wind-rollover geography, not the
+  calendar, decide which zones survive a blow.
+- In the warm-stable peak, chase the SST-max × chlorophyll-min combination
+  across the whole Bight rather than returning to yesterday's spot —
+  dispersal makes location a weak prior.
+- In fall fragmentation, run the temp/chlorophyll chart over spot names:
+  track which side of a break holds fish and where the warm band has
+  condensed to (`OYOda6T3f-8`), and use the
+  [year-anniversary prior](../seasonal/year-anniversary-prior.md) as the
+  location-within-regime starting box.
+
+## Related
+
+- [Water temperature](water-temperature.md)
+- [Water color](water-color.md)
+- [Current structure](current-structure.md)
+- [Upwelling and turnover](upwelling-and-turnover.md)
+- [Year-anniversary prior](../seasonal/year-anniversary-prior.md)
+- [Day-plan protocol](../planning/day-plan-protocol.md)
 
 <!-- backlinks:start -->
 ## Linked from

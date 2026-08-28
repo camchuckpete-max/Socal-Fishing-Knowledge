@@ -393,4 +393,5 @@ Per-trip detail and conditions are in
 - [San Juan Seamount](san-juan-seamount.md)
 - [Southern California Bight](socal-bight.md)
 - [The Bumps](bumps.md)
+- [Water Regimes](../conditions/water-regimes.md)
 <!-- backlinks:end -->
