@@ -353,6 +353,7 @@ does the lookup.
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)
 - [Shimano Tranx 300B — X-Protect Water Resistance (Tackle Express)](tackle-express-shimano-tranx-300b-x-protect-water-resistance.md)
 - [Shimano Vanford — MGL Rotor, CI4+ Body, and Infinity Drive (Tackle Express)](tackle-express-shimano-vanford-fa-reel.md)
+- [Skip Jigging](../techniques/skip-jigging.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
