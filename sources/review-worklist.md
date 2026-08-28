@@ -99,7 +99,7 @@ by their builders after the transform phase drains.
 | lures/spreader-bar.md | standard | transformed | spots(1) | transform verified — specs/observations conserved via evidence split, transcript spot-checks confirm no meaning drift |
 | lures/tube-baits.md | standard | transformed | spots(5) | v2 migration + plain-statement transform, construction/scent/color doctrine and Oreo-cookie-effect conserved, stale anchors fixed, cite added for the stupid tube line via 9a-Zy_D6c3w |
 | lures/tuna-feathers-and-skirts.md | standard | transformed | gaps(1), spots(1) | transform verified, applied clean — no fixes needed, all facts conserved via evidence split |
-| lures/tuna-poppers-and-stickbaits.md | standard | pending |  |  |
+| lures/tuna-poppers-and-stickbaits.md | standard | skipped |  | skipped: verifier-reject: house-style rewrite incomplete (56 retired boilerplate instances remain across an 840-line note) |
 | rigging/assist-hooks.md | standard | pending |  |  |
 | rigging/bimini-twist.md | standard | pending |  |  |
 | rigging/bite-leaders.md | standard | pending |  |  |
