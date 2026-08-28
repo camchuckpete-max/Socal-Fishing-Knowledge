@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
+_Totals: 2257 flagged gaps, 347 flagged stubs, 1050 unknown infobox values._
 
 ## species/
 
@@ -1600,6 +1600,9 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - `Getting there`: gap — transit/launch detail (not applicable
   - `What's there`: gap — zone-by-zone seasonal timing on bass
   - infobox `parent`: unknown
+- **locations/bays-and-harbors.md**
+  - `Getting there`: gap — transit/launch detail (not applicable — this
+  - infobox `parent`: unknown
 - **locations/beacons.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1624,6 +1627,16 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/bight-geography.md**
+  - `Getting there`: gap — transit/launch detail (not applicable — this
+  - `Structure & bathymetry`: gap — bottom structure/bathymetry (not applicable
+  - `What's there`: gap — species-specific catch-rate or size detail
+  - infobox `parent`: unknown
+- **locations/bightsst-eval-targets.md**
+  - `Getting there`: gap — transit/launch detail (not applicable
+  - `Structure & bathymetry`: gap — per-spot depth/bathymetry detail for each
+  - `What's there`: gap — not applicable — this note tracks modeling
+  - infobox `parent`: unknown
 - **locations/billy-s-bluff.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -1683,6 +1696,9 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/breakwalls-jetties-riprap.md**
+  - `Getting there`: gap — transit/launch detail (not applicable
+  - infobox `parent`: unknown
 - **locations/buccaneer-pipe.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -2607,6 +2623,9 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/island-structure.md**
+  - `What's there`: gap — season/catchability windows tied
+  - infobox `parent`: unknown
 - **locations/isolete.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3306,6 +3325,10 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/regions.md**
+  - `Getting there`: gap — transit/launch detail (not applicable — this
+  - `What's there`: gap — not applicable — this note defines the
+  - infobox `parent`: unknown
 - **locations/ribbon-kelp.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -3608,6 +3631,12 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - `How it fishes`: zone guide missing
   - `How it fishes`: zone guide missing
   - `How it fishes`: gap — the zone's own start-and-move program — which
+- **locations/sea-of-cortez.md**
+  - `(lead)`: gap — this note's own place in the geographic
+  - `What's there`: gap — month-by-month timing for the San Felipe
+  - `How it fishes`: gap
+  - `How it fishes`: gap
+  - infobox `parent`: unknown
 - **locations/seabass-rock.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
@@ -4117,6 +4146,11 @@ _Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/zone-lexicon.md**
+  - `Getting there`: gap — transit/launch detail (not applicable
+  - `What's there`: gap — species-by-zone presence beyond the volume
+  - `How it fishes`: gap — current/wind/tide behavior (not applicable
+  - infobox `parent`: unknown
 - **locations/zuniga-jetty.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
