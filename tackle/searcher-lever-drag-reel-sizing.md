@@ -112,7 +112,8 @@ attributed examples rather than a fixed rule:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md)
+- [Bluefin Retail Outfit Ladder — High-End vs. Budget](bluefin-retail-setup-high-end-vs-budget.md)
+- [Evidence — Bluefin Retail Outfit Ladder — High-End vs. Budget](evidence/bluefin-retail-setup-high-end-vs-budget.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Searcher 6-to-8-Day Trip — the Fourth (Heavy) Outfit (SearcherSportfishing, 2020-04-09)](searcher-6-to-8-day-heavy-outfit.md)
