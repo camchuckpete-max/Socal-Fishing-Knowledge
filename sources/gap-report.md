@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2228 flagged gaps, 347 flagged stubs, 1037 unknown infobox values._
+_Totals: 2230 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
 
 ## species/
 
@@ -421,6 +421,18 @@ _Totals: 2228 flagged gaps, 347 flagged stubs, 1037 unknown infobox values._
 - **lures/tuna-feathers-and-skirts.md**
   - `Specs`: gap — Zuker Zucchini running depth, setback,
   - infobox `weights`: unknown
+
+## rigging/
+
+- **rigging/assist-hooks.md**
+  - `Hook shape — shank, bend, and point (selection, not tying)`: gap — mechanism for the
+- **rigging/cut-loop-dropper.md**
+  - `Parameters`: gap — line class, hook size, and sinker
+  - infobox `line_class`: unknown
+  - infobox `hook_sizes`: unknown
+- **rigging/dropper-loop-knot-and-spider-hitch.md**
+  - infobox `line_class`: unknown
+  - infobox `hook_sizes`: unknown
 
 ## locations/
 
