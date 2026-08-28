@@ -350,4 +350,12 @@ harvested.
 | Cortez Bank | techniques/surface-iron-casting.md | evidence — Mechanics | rail-mate coaching on casting direction so as not to foul a hooked angler's line | `eL1Qm33-Mj0` |
 | Coronado Islands | techniques/surface-iron-casting.md | evidence — Mechanics | rail-mate coaching on laying the reel on its side through the cast | `ejUTAnONf7o` |
 | Cedros Island | techniques/surface-iron-casting.md | evidence — Aim | individually spotted yellowtail sight-cast directly on the iron, hookups within a couple of casts | `6EDQtQHEwFE` |
+| Guadalupe | techniques/surface-iron-color.md | The doctrine | Dan Wade's 68 lb surface-iron personal best, taken on 40 lb | `Ec2GaNpiOHI` |
+| Cedros Island | techniques/surface-iron-color.md | evidence — The doctrine | confidence colour is mint, including top Tady 45s; father's easy-grab side runs holographic mint | `WE643Fue1_A` |
+| Cedros Island | techniques/surface-iron-color.md | evidence — The doctrine | colours producing best that trip were any mint pattern and blue and white | `_C8w6zeVPak` |
+| Cedros Island | techniques/surface-iron-color.md | evidence — The doctrine | mid-trip colour switch to a "minty brownish," chartreuse-leaning Tady 45 | `ILBl12Jm7-0` |
+| Cedros Island | techniques/surface-iron-color.md | evidence — The doctrine | go-to colours named mints/greens/blues/scrambled egg; a mint swirl iron outproduced a Salas 7X in mint swirl | `_C7TJoGT0nw`, `pUwVpvjJ23w` |
+| La Jolla | techniques/surface-iron-color.md | evidence — The doctrine | red crab pattern produced 2 of 3 boated yellowtail; captain read the angler as mattering more than colour | `VpW91AKOFVQ` |
+| San Clemente Island | techniques/surface-iron-color.md | evidence — The doctrine | yellowtail biting a green-and-yellow ("mac color") iron repeatedly late in the session | `V_ONnegk95M` |
+| San Benito Island | techniques/surface-iron-color.md | evidence — The doctrine | mint named best for yellowtail up in the water column; scrambled egg for fish sitting deep | `ilINTeknKB4` |
 <!-- review:harvest:end -->

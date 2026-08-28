@@ -369,6 +369,7 @@ does the lookup.
 - [Spotted Bay Bass (Spotties)](../species/spotted-bay-bass.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [Surface Iron](../techniques/surface-iron.md)
+- [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Surface Iron — The Cast](../techniques/surface-iron-casting.md)
 - [Swimbaits](../techniques/swimbaits.md)
 - [Swordfish (Broadbill)](../species/swordfish.md)

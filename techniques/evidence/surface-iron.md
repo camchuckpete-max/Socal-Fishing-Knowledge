@@ -73,5 +73,6 @@ Six on-the-water Strictly Irons sessions (2020–2026) below are narrated by **J
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Surface Iron — Colour](surface-iron-color.md)
 - [Surface Iron](../surface-iron.md)
 <!-- backlinks:end -->

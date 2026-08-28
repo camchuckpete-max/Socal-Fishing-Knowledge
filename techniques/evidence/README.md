@@ -28,6 +28,7 @@
 - [Evidence — Slow-Trolling Live Bait](slow-trolling-bait.md) — Per-source provenance backing slow-trolling live bait.
 - [Evidence — Spinnerbaits (Bay Bass)](spinnerbaits.md) — Per-source provenance backing spinnerbaits.
 - [Evidence — Surface Iron — The Cast](surface-iron-casting.md) — Trip reports and per-source provenance backing surface iron — the cast.
+- [Evidence — Surface Iron — Colour](surface-iron-color.md) — Trip reports and per-source provenance backing surface iron — colour.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 
@@ -35,5 +36,34 @@
 <!-- mermaid:start -->
 ## Map
 
-_No intra-folder links yet._
+```mermaid
+graph LR
+  n0["Evidence — Bait-and-Switch (Striped Marlin)"]
+  n1["Evidence — Cheater Troll"]
+  n2["Evidence — Chunking"]
+  n3["Evidence — Dart Jig — Daytime Finesse Tuna"]
+  n4["Evidence — Drop Shot"]
+  n5["Evidence — Dropper Loop"]
+  n6["Evidence — Fighting a Big Bluefin"]
+  n7["Evidence — Flat-Fall Jigging"]
+  n8["Evidence — Foamer Casting"]
+  n9["Evidence — Hoop Netting"]
+  n10["Evidence — Inshore Crankbaits"]
+  n11["Evidence — Kite Fishing"]
+  n12["Evidence — Knife / Speed Jigging"]
+  n13["Evidence — Leadhead Swimbait Retrieve"]
+  n14["Evidence — Mangrove Structure Livebait"]
+  n15["Evidence — Night Bass Fishing"]
+  n16["Evidence — Rail Etiquette"]
+  n17["Evidence — Rockfish Deep-Dropping"]
+  n18["Evidence — Holding the Rod for Live Bait"]
+  n19["Evidence — Sliding Sinker"]
+  n20["Evidence — Slow-Pitch Jigging (SPJ)"]
+  n21["Evidence — Slow-Trolling Live Bait"]
+  n22["Evidence — Spinnerbaits (Bay Bass)"]
+  n23["Evidence — Surface Iron — The Cast"]
+  n24["Evidence — Surface Iron — Colour"]
+  n25["Evidence — Surface Iron"]
+  n24 --> n25
+```
 <!-- mermaid:end -->

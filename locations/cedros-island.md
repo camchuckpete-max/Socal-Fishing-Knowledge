@@ -427,7 +427,6 @@ Trip reports and per-source provenance:
 - [San Quintin](san-quintin.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)
 - [Surface Iron](../techniques/surface-iron.md)
-- [Surface Iron — Colour](../techniques/surface-iron-color.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](../tackle/tackle-express-cedros-four-rod-quiver.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

@@ -500,6 +500,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
 - [Evidence — Sliding Sinker](evidence/sliding-sinker.md)
 - [Evidence — Surface Iron](evidence/surface-iron.md)
+- [Evidence — Surface Iron — Colour](evidence/surface-iron-color.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [FG Knot & Albright Knot](../rigging/fg-and-albright.md)
 - [Flyline](flyline.md)
