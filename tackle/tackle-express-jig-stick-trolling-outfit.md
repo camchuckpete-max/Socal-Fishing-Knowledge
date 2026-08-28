@@ -88,5 +88,6 @@ confidence past `medium`.
 
 - [Cheater Troll](../techniques/cheater-troll.md)
 - [Gear Classes — the class-term lexicon](gear-classes.md)
+- [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](../techniques/panga-team-trolling.md)
 - [Tackle Express — Cedros Four-Rod Quiver (the Gear Vault)](tackle-express-cedros-four-rod-quiver.md)
 <!-- backlinks:end -->

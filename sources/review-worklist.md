@@ -60,7 +60,7 @@ by their builders after the transform phase drains.
 | techniques/mangrove-structure-livebait.md | standard | transformed | none | transform verified: attribution preamble to plain-statement+cites, evidence file split, facts conserved and transcript-verified |
 | techniques/ned-rig.md | standard | transformed | none | transform verified, one smuggled-specificity fix applied (baitcast to heavier tackle/drag near max) |
 | techniques/night-bass-fishing.md | standard | transformed | spots(1) | restructured to v2 skeleton, dissolved source-named heading, stripped meta-attribution to evidence, added Common failures + infobox fields; verifier fixed fabricated retrieve_speed claim |
-| techniques/panga-team-trolling.md | standard | pending |  |  |
+| techniques/panga-team-trolling.md | standard | transformed | gap(common-failures) | attribution preamble moved to machine layer, added Gear class + Common failures + species-applications, infobox fields added |
 | techniques/rail-etiquette.md | standard | pending |  |  |
 | techniques/rockfish-deep-dropping.md | standard | pending |  |  |
 | techniques/rod-handling-live-bait.md | standard | pending |  |  |
