@@ -234,6 +234,7 @@ Trip reports and per-source provenance:
 ## Linked from
 
 - [Baja Pacific — South](baja-pacific-south.md)
+- [DTX Minnow](../lures/dtx-minnow.md)
 - [Evidence — Alijos Rocks](evidence/alijos-rocks.md)
 - [Wahoo](../species/wahoo.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
