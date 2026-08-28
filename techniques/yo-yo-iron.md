@@ -757,6 +757,7 @@ the reverse map in **Linked from** below.
 - [Tanner Bank](../locations/tanner-bank.md)
 - [Targeting yellowtail — Coronado Islands](../species/yellowtail-coronado-islands.md)
 - [The Bumps](../locations/bumps.md)
+- [Trolling](trolling.md)
 - [Tube-Bait Fishing](tube-bait-fishing.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md)
 - [Yellowtail](../species/yellowtail.md)

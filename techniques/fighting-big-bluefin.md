@@ -383,6 +383,7 @@ Trip reports and per-source provenance:
 - [Santa Barbara Island](../locations/santa-barbara-island.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [Trolling](trolling.md)
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](../tackle/tackle-express-trophy-bluefin-jig-outfit.md)
 - [Tuna Care](../fish-care/tuna-care.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](two-speed-low-gear-fight.md)

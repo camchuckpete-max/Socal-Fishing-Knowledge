@@ -172,7 +172,7 @@ sardines pulled in **12 ft** on **40 lb** line and circle hooks, with the stated
 hookset a counted **three-second pause** before putting the reel in gear;
 hookups came as doubles close to **30 lb** (`ORC1A68cEeM`;
 [slow-trolling bait](../techniques/slow-trolling-bait.md),
-[full execution](../techniques/evidence/trolling.md#la-paz-baja-california-sur--live-bait-slow-troll-for-yellowtailjurel)).
+[full execution](../techniques/trolling.md#la-paz-baja-california-sur-sea-of-cortez-side--shallow-water-live-bait-slow-troll-for-jurelyellowtail)).
 Sardines are thrown at a boil that pops up beside the boat to hold it
 (`ORC1A68cEeM`).
 
@@ -188,7 +188,7 @@ At El Bajo the mackerel goes down on a weighted rig until it **hits bottom**,
 and the same slow troll that is already running lifts it back up into the high
 column; a sardine is fished simultaneously well back in the high column on a
 separate line (`92y14x33etQ`;
-[full execution](../techniques/evidence/trolling.md#la-paz-baja-california-sur--live-bait-slow-troll-for-yellowtailjurel)).
+[full execution](../techniques/trolling.md#la-paz-baja-california-sur-sea-of-cortez-side--dropped-bait-slow-troll-for-yellowtail-at-a-bank-high-spot)).
 
 **Line class runs heavier than the shallow water suggests, because the rock is
 the opponent.** El Bajo was fished **65 lb braid** to a **60 lb fluorocarbon**

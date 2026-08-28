@@ -195,7 +195,7 @@ Sur — Baja Rancheros fishing fleet — `ORC1A68cEeM`, "Stoked on La Paz:
 World-Class Fishing"; StokedOnFishing's first trip to La Paz; unregistered
 channel — medium confidence; region: Baja, La Paz/Sea of Cortez side): the
 day's bait-making ran as a two-species program before running to the day's
-[jurel/yellowtail slow-troll spot](../techniques/evidence/trolling.md#la-paz-baja-california-sur--live-bait-slow-troll-for-yellowtailjurel):
+[jurel/yellowtail slow-troll spot](../techniques/trolling.md#la-paz-baja-california-sur-sea-of-cortez-side--shallow-water-live-bait-slow-troll-for-jurelyellowtail):
 
 - **Green mackerel, jigged around floating structure** described on
   camera as "containers" (rig not specified on camera — not confirmed as a
@@ -287,4 +287,5 @@ shortages, where the barge isn't an option.
 - [South Orange County — Crystal Cove](../locations/south-orange-county-crystal-cove.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

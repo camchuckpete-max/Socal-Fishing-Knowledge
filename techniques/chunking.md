@@ -325,4 +325,5 @@ Trip reports and per-source provenance: [evidence file](evidence/chunking.md).
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Swimbaits](swimbaits.md)
+- [Trolling](trolling.md)
 <!-- backlinks:end -->

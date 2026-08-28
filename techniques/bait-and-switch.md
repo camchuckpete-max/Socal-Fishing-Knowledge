@@ -118,4 +118,5 @@ Trip reports and per-source provenance: [evidence file](evidence/bait-and-switch
 - [Evidence — Striped Marlin](../species/evidence/striped-marlin.md)
 - [Striped Marlin](../species/striped-marlin.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [Trolling](trolling.md)
 <!-- backlinks:end -->

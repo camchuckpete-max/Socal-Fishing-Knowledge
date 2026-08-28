@@ -211,7 +211,7 @@ session, and the beach (`tcso7Lpm_Xs`, `_c6UI3lGBVg`).
 documented morning the first hookup came roughly **15 minutes** later; that
 session produced tuna, roughly 15–16 dorado, roughly 15–20 skipjack and a marlin
 hookup (`tcso7Lpm_Xs`;
-[full execution](../techniques/evidence/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll)).
+[full execution](../techniques/trolling.md#east-cape-baja--buena-vista-beach-resort-offshore-troll-for-tunadoradowahoomarlin)).
 A long, hard-running fish is given **free-spool** and allowed to run before being
 worked back, with the **circle hook** credited on camera for the solid hookup
 (`6j7V34GYzzw`; [hooks](../tackle/hooks.md)). **Hot pink is the colour the crews

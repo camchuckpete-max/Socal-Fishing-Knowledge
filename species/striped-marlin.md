@@ -322,5 +322,6 @@ Trip reports and per-source provenance: [evidence file](evidence/striped-marlin.
 - [The Bumps](../locations/bumps.md)
 - [The Corner / 140 / 182](../locations/corner-140-182.md)
 - [The Slide / 152 / 277](../locations/slide-152-277.md)
+- [Trolling](../techniques/trolling.md)
 - [W. Butterfly / 157](../locations/w-butterfly-157.md)
 <!-- backlinks:end -->

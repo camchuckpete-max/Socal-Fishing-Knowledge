@@ -114,7 +114,7 @@ a winter day.
 
 | species | season | what this zone does for them |
 | --- | --- | --- |
-| Sierra | January (`ll7r4A6atno`) | The surf-line target, and the reason the beach gets trolled at all. Described as keyed in on smaller bait, with "razor blade teeth" — "like little baby wahoos" — so a wire leader is mandatory (`ll7r4A6atno`). ⚠ Flagged stub — no corpus source yet for a sierra router; execution lives in [Cabo surf-line sierra trolling](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-troll-for-sierra) |
+| Sierra | January (`ll7r4A6atno`) | The surf-line target, and the reason the beach gets trolled at all. Described as keyed in on smaller bait, with "razor blade teeth" — "like little baby wahoos" — so a wire leader is mandatory (`ll7r4A6atno`). ⚠ Flagged stub — no corpus source yet for a sierra router; execution lives in [Cabo surf-line sierra trolling](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-trolling-for-sierra) |
 | [Dorado](../species/dorado.md) | November (`pX6mV3O0L_E`), December (`Mwx5AAXNMvE`), January (`ll7r4A6atno`) | Caught two ways here, neither of them the offshore paddy program the router carries: incidental on a small sierra hoochie just outside the surf line under working birds (`ll7r4A6atno`), and on **dead ballyhoo** trolled offshore, which produced multiple hookups (`pX6mV3O0L_E`) |
 | [Striped marlin](../species/striped-marlin.md) | December (`XH-Hrfet6To`, `Mwx5AAXNMvE`) | Rises to the trolled spread and is hooked on a dropback rather than on the lure it came up to (`XH-Hrfet6To`). The boat's stated practice is to release billfish (`Mwx5AAXNMvE`) |
 | Blue marlin | December (`Mwx5AAXNMvE`) | Present and striking: two struck trolled lures on one trip and neither stayed hooked (`Mwx5AAXNMvE`). ⚠ Flagged stub — no corpus source yet for a blue-marlin router |
@@ -148,7 +148,7 @@ line at roughly **6 knots**, with rubber bands looped on the stern cleats to
 hold them down in the water instead of skipping on the surface, and a short
 piece of wire ahead of each hoochie because of the sierra's teeth
 (`ll7r4A6atno`). Full execution, colors and hook configuration:
-[Cabo surf-line sierra trolling](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-troll-for-sierra);
+[Cabo surf-line sierra trolling](../techniques/trolling.md#cabo-san-lucas--surf-line-slow-trolling-for-sierra);
 single-strand wire termination is [haywire twist](../rigging/haywire-twist.md).
 
 **The bite window is early morning or right at sunset** (`ll7r4A6atno`).
@@ -188,7 +188,7 @@ big hook** — a medium head is described as covering the whole size range of
 fish, and the reasoning given is tournament scoring rather than what the fish
 prefer (`XH-Hrfet6To`). Size logic, the named lure makers and the afternoon-chop
 selection criterion are in
-[Cabo offshore marlin lure selection](../techniques/trolling.md#cabo-san-lucas-marlin--lure-size-selection-and-afternoon-chop-rigging).
+[Cabo offshore marlin lure selection](../techniques/trolling.md#cabo-san-lucas--offshore-marlin-lure-size-selection-and-afternoon-chop-rigging).
 
 **Zone guides — the trip-level story:**
 
