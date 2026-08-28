@@ -12,6 +12,7 @@
 - [Evidence — Essential SoCal Knots](essential-knots.md) — Per-source provenance backing Essential SoCal Knots.
 - [Evidence — FG Knot & Albright Knot](fg-and-albright.md) — Per-source provenance backing FG Knot & Albright Knot.
 - [Evidence — Flying Fish Harness](flying-fish-harness.md) — Per-source provenance backing Flying Fish Harness.
+- [Evidence — Haywire Twist](haywire-twist.md) — Per-source provenance backing Haywire Twist.
 <!-- index:end -->
 
 

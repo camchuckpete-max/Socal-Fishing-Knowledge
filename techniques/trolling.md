@@ -1096,6 +1096,7 @@ covered above, not a new tool.
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
 - [Evidence — Dorado (Mahi-Mahi)](../species/evidence/dorado.md)
+- [Evidence — Haywire Twist](../rigging/evidence/haywire-twist.md)
 - [Evidence — Pacific Bonito](../species/evidence/bonito.md)
 - [Evidence — Skipjack Tuna](../species/evidence/skipjack-tuna.md)
 - [Evidence — Striped Marlin](../species/evidence/striped-marlin.md)

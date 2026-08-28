@@ -291,6 +291,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo.md).
 - [DTX Minnow](../lures/dtx-minnow.md)
 - [East Cape](../locations/east-cape.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
+- [Evidence — Haywire Twist](../rigging/evidence/haywire-twist.md)
 - [Evidence — Wahoo](evidence/wahoo.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

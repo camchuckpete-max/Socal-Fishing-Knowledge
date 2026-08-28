@@ -158,6 +158,7 @@ Trip reports and per-source provenance: [evidence file](evidence/wahoo-trolling.
 
 - [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Evidence — Haywire Twist](../rigging/evidence/haywire-twist.md)
 - [Evidence — Wahoo Trolling — Speed, Leader, and Fight Mechanics](evidence/wahoo-trolling.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](../locations/bahia-magdalena-lopez-mateos.md)

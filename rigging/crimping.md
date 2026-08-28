@@ -118,6 +118,7 @@ Per-source provenance: [evidence file](evidence/crimping.md).
 
 - [Bluefin Bite Leaders](bite-leaders.md)
 - [Evidence — Crimping — Sleeve Crimps for Heavy Leaders](evidence/crimping.md)
+- [Evidence — Haywire Twist](evidence/haywire-twist.md)
 - [Flat-Fall Jigging](../techniques/flat-fall-jigging.md)
 - [Haywire Twist](haywire-twist.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
