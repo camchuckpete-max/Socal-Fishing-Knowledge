@@ -289,6 +289,7 @@ low-gear fight](../techniques/two-speed-low-gear-fight.md):
 ## Linked from
 
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Evidence — Two-Speed Reel Technique](../techniques/evidence/two-speed-low-gear-fight.md)
 - [Tungsten (TG) Jig Rig for Bluefin — Night, Day, and Surface (Tackle Express)](tackle-express-night-bluefin-tg-jig-rig.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 <!-- backlinks:end -->

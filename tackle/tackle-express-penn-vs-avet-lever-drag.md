@@ -155,6 +155,7 @@ human-typed-metadata rule.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Two-Speed Reel Technique](../techniques/evidence/two-speed-low-gear-fight.md)
 - [Penn's "Pull to Turn" Preset Drag — Set It and Forget It (Tackle Express)](tackle-express-penn-pull-to-turn-preset-drag.md)
 - [Star Drag vs. Lever Drag — Reel Class Comparison](star-drag-vs-lever-drag.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)

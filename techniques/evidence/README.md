@@ -32,6 +32,7 @@
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 - [Evidence — Swimbaits](swimbaits.md) — Per-source provenance backing swimbaits.
 - [Evidence — Tube-Bait Fishing](tube-bait-fishing.md) — Per-source provenance backing tube-bait fishing.
+- [Evidence — Two-Speed Reel Technique](two-speed-low-gear-fight.md) — Per-source provenance backing two-speed reel technique — low-gear grind vs.
 <!-- index:end -->
 
 
@@ -68,6 +69,7 @@ graph LR
   n25["Evidence — Surface Iron"]
   n26["Evidence — Swimbaits"]
   n27["Evidence — Tube-Bait Fishing"]
+  n28["Evidence — Two-Speed Reel Technique"]
   n24 --> n25
 ```
 <!-- mermaid:end -->
