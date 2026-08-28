@@ -836,7 +836,6 @@ Video (inline-tied alternative, dolphin-pod yellowfin): https://www.youtube.com/
 - [Guadalupe](../locations/guadalupe.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

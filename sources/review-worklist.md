@@ -112,7 +112,7 @@ by their builders after the transform phase drains.
 | rigging/flying-fish-harness.md | standard | transformed | spots(3), asr-uncertain(commercial pre-rig leader-material brand withheld; dead-flyer leader hook model name withheld; presenter surname uncertain) | transform applied clean - v2 layout, evidence split, hook-count conflict given decision frame, spot-harvest updated |
 | rigging/haywire-twist.md | standard | transformed | none | transform verified, one dropped named attribution (Mike Lackey) restored in evidence file, all other content conserved |
 | rigging/hollow-splice-and-serving.md | standard | transformed | spots(1) | transform verified: conservation intact, attribution correctly split to evidence file, cites confirmed against 3 transcripts |
-| rigging/improved-clinch-knot.md | standard | pending |  |  |
+| rigging/improved-clinch-knot.md | standard | transformed | asr-uncertain(hook size on H5NHGLm1H5U; tag re-entry description on H5NHGLm1H5U; wrap-before-eye narration order on J0NJhN6-Thg) | transform verified: v2 skeleton, plain-statement rewrite, citation compression; conservation traced, 3-source spot-check clean |
 | rigging/john-collins-knot.md | standard | pending |  |  |
 | rigging/leadhead-mods.md | standard | pending |  |  |
 | rigging/perfection-loop-knot.md | standard | pending |  |  |

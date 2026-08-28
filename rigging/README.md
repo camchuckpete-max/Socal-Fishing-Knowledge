@@ -16,7 +16,7 @@
 - [Flying Fish Harness](flying-fish-harness.md) — The pre-rigged flying fish (dead natural, netted or sabiki-caught, or an artificial) fished off the kite for large local Pacific bluefin.
 - [Haywire Twist](haywire-twist.md) — The connection that terminates single-strand wire leader — to a lure or a hook — for toothy fish that shear even heavy mono.
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md) **[SoCal only]** — Two knotless connections made possible by hollow-core braid, both relying on the same finger-trap principle: braid woven around a buried line clamps tighter as
-- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md) **[SoCal only]** — A single-pass terminal knot for tying line straight to a hook or lure eye — the line goes through the eye once, not doubled, unlike the San Diego jam.
+- [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md) **[SoCal only]** — A single-pass terminal knot for tying line straight to a hook or lure eye — the line passes through the eye once, not doubled, unlike the San Diego jam.
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md) **[SoCal only]** — A named connection knot joining braid to monofilament or fluorocarbon.
 - [Leadhead Mods & Rigging](leadhead-mods.md) **[SoCal only]** — The leadhead (jig head) is a workhorse for seabass, halibut, yellowtail, bass, and rockfish.
 - [Perfection Loop Knot — Sliding-Loop Hook Tie](perfection-loop-knot.md) **[SoCal only]** — An "old school" terminal knot that ties a free-sliding loop rather than a fixed eye — the hook rides on the loop and can pivot/slide back and forth on it, "kind

@@ -505,7 +505,6 @@ Trip reports and per-source provenance: [evidence file](evidence/dropper-loop.md
 - [Guadalupe](../locations/guadalupe.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
-- [Improved Clinch Knot — Single-Pass Hook Tie](../rigging/improved-clinch-knot.md)
 - [Leadhead Mods & Rigging](../rigging/leadhead-mods.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Oceanside / North County](../locations/oceanside-north-county.md)
