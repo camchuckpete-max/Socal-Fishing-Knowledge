@@ -76,7 +76,7 @@ by their builders after the transform phase drains.
 | techniques/surface-iron.md | standard | transformed | misplaced(1) spots(10) | faithful transform 654->512 lines + 77-line evidence: blockquotes to prose, source-scoped headings dissolved, 2 legacy cites transcript-verified; 2 verifier fixes (cite-scope split, harvest-row cite) |
 | techniques/swimbaits.md | standard | transformed | contradicted-by-source(1), single-source(1), misplaced-content(2) | transform verified with 5 fixes (2 restored facts, 1 conflict-attribution restore, 1 invented-number correction, 2 ledger rows added) |
 | techniques/trolling.md | standard | escalated |  | escalated: guard: out of scope for 'review: techniques/trolling.md': bait/making-bait.md |
-| techniques/tube-bait-fishing.md | standard | pending |  |  |
+| techniques/tube-bait-fishing.md | standard | transformed | spots(2), spinout(1), asr-uncertain(unnamed ~5 mph troll lure identity in the yellowtail troll-to-locate section) | transform verified with 5 fixes (2 dropped quotes/details restored, 1 miscited source corrected, 1 missing misplaced-content flag added, 1 fabricated depth figure removed) |
 | techniques/two-speed-low-gear-fight.md | standard | pending |  |  |
 | techniques/underhand-casting.md | standard | pending |  |  |
 | techniques/wacky-rig.md | standard | pending |  |  |
