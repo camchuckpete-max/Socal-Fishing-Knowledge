@@ -302,6 +302,7 @@ Trip reports and per-source provenance: [evidence file](evidence/current-structu
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
+- [Evidence — Search and Glassing](../planning/evidence/search-and-glassing.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
 - [Finger Bank rockfish](../locations/finger-bank-rockfish.md)
