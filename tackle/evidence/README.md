@@ -16,6 +16,7 @@
 - [Evidence — Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md) — Per-source provenance for lightweight all-day reel pick — Accurate Valiant Superlight, 500 Narrow.
 - [Evidence — Line & Leader](line-and-leader.md) — Per-source provenance (channel status, dates, presenter identity, ASR caveats) and the on-the-water trip observations for line & leader.
 - [Evidence — Reel & Rod Maintenance](reel-maintenance.md) — Per-source provenance for reel & rod maintenance: channel status, upload dates, and confidence notes the main note's prose gave up.
+- [Evidence — Testing a Rod's Action — Why Hand-Bending and Vibrating Both Misread It](rod-action-testing-technique.md) — Per-source provenance for rod action testing technique: channel status, upload dates, video titles, and re-cut/corroboration notes the main note's prose gave up.
 <!-- index:end -->
 
 

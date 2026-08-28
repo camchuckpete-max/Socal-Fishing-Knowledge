@@ -964,7 +964,7 @@ a bluefin).
 - [Surface Iron](../techniques/surface-iron.md)
 - [Surgeon's Loop (Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md)
 - [Swimbaits](../techniques/swimbaits.md)
-- [Testing a Rod's Action by Hand-Bending It — Why That Misreads the Rod](rod-action-testing-technique.md)
+- [Testing a Rod's Action — Why Hand-Bending and Vibrating Both Misread It](rod-action-testing-technique.md)
 - [Tuna Poppers and Stickbaits](../lures/tuna-poppers-and-stickbaits.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md)

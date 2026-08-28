@@ -159,5 +159,5 @@ Neither source names a specific application, rod length, or reel.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)
-- [Testing a Rod's Action by Hand-Bending It — Why That Misreads the Rod](rod-action-testing-technique.md)
+- [Testing a Rod's Action — Why Hand-Bending and Vibrating Both Misread It](rod-action-testing-technique.md)
 <!-- backlinks:end -->

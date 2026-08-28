@@ -196,7 +196,7 @@ by their builders after the transform phase drains.
 | tackle/line-and-leader.md | light | done | spots(7), asr-uncertain(panelist-surname, illegible-knot-name) | LIGHT-tier v2 migration, attribution/confidence to evidence file, 2 observation blocks split; verifier restored 5 sources' dropped provenance in evidence file |
 | tackle/offset-hooks.md | light | done | gaps(1) | LIGHT-tier v2 migration: attribution preamble to compact cites, stale hooks.md anchor repaired, hedge reworded to gap flag; verified faithful |
 | tackle/reel-maintenance.md | light | done | none | LIGHT-tier v2 migration, 9 source-named sections dissolved into 13 topic sections, evidence file created; verifier fixed a dropped count and an ambiguous merged sentence |
-| tackle/rod-action-testing-technique.md | light | pending |  |  |
+| tackle/rod-action-testing-technique.md | light | done | none | restructured, attribution to compact cites + evidence file, layout v2; verifier fixed 1 meaning-drift inversion (taper-variation claim) |
 | tackle/rod-and-reel-selection.md | light | pending |  |  |
 | tackle/rod-blank-and-component-materials.md | light | pending |  |  |
 | tackle/rod-length-for-angler-size.md | light | pending |  |  |

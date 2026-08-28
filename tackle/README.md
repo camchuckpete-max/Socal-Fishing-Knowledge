@@ -19,7 +19,7 @@
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md) — Three materials, three jobs.
 - [Offset Hooks — What "Offset" Means and Why Anglers Use It](offset-hooks.md) — Spun out of hooks — this note is a single, narrow point that note's four-axis (style/size/wire-gauge/finish) framework doesn't cover: offset is a separate axis
 - [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md) — Gear is a major investment, and a consistent rinse-dry-store routine is what determines whether it lasts (5yfA5XAaLLY).
-- [Testing a Rod's Action by Hand-Bending It — Why That Misreads the Rod](rod-action-testing-technique.md) — A short buying-education point from Tackle Express staff (unnamed on camera; tackle-express is an unregistered channel, single 38-second mention — medium confid
+- [Testing a Rod's Action — Why Hand-Bending and Vibrating Both Misread It](rod-action-testing-technique.md) — The two habits most anglers use to judge a rod at the counter — bending it by hand near the grip, and vibrating the tip — both misread the rod.
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md) — The right stick is decided by the application (what you're throwing and at what grade of fish), not by brand.
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md) — A single Tackle Express buying-education segment covering three separate material choices on a saltwater rod (unnamed staff on camera, tackle-express unregister
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md) — Rod length isn't only an application variable (see the application table in rod & reel selection) — it also has to fit the angler holding it.
