@@ -68,7 +68,7 @@ by their builders after the transform phase drains.
 | techniques/sliding-sinker.md | standard | transformed | spinout(3), asr-uncertain(TLC jig name, Jobu hook oz-vs-aught mishearing), spots(5) | restructured to v2 skeleton, evidence split, 3 spinouts + 5 spots queued; verifier fixed one meaning-drift (personal snelling limitation hardened into general fact) |
 | techniques/slow-pitch-jigging.md | standard | transformed | misplaced(1), spots(2), reg-claims(1) | migrated to v2 skeleton, evidence split, regulatory claim stamped, misplaced-content flagged; verifier reverted an unauthorized doctrine reconciliation on jig-weight formulas, regenerated backlinks |
 | techniques/slow-trolling-bait.md | standard | transformed | spots(1) | migrated to layout v2: added infobox fields, added missing Gear class section, per-claim cites replacing attribution preamble, moved secondhand Cedros observation to evidence (147→156 lines; evidence 29 lines) |
-| techniques/speed-trolling.md | standard | pending |  |  |
+| techniques/speed-trolling.md | standard | transformed | none | transform verified, apply-with-changes: fixed a fabricated gear_classes slug and a misattributed internal cite; all doctrine, numbers, and the Cameron no-swivel conflict traced faithfully to source |
 | techniques/spinnerbaits.md | standard | pending |  |  |
 | techniques/spinning-reel-wind-knots.md | standard | pending |  |  |
 | techniques/surface-iron-casting.md | standard | pending |  |  |
