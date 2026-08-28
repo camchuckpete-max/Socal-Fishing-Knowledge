@@ -12,6 +12,7 @@
 - [Evidence — Gear Classes](gear-classes.md) — Per-citation provenance for gear classes: channel, upload date, registration status, and ASR caveats for the rail-rod class citations and the PE-rating/leader-m
 - [Evidence — Hook Assortment by Trip Length — Overnight Through 5–6 Day](hook-assortment-by-trip-length.md) — Per-source provenance for hook assortment by trip length — overnight through 5–6 day: presenter/channel status and the ASR-uncertain readings the main note's pr
 - [Evidence — Hooks](hooks.md) — Trip reports and per-source provenance for hooks: channel identity, registration status, sponsor/promotional caveats, single-mention flags, ASR-uncertain readin
+- [Evidence — Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](jig-rod-rating-selection.md) — Per-source provenance for jig-rated rods — buy toward the top of the rating: channel status, upload dates, and the source-identification finding the main note's
 <!-- index:end -->
 
 
