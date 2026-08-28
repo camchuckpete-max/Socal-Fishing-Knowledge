@@ -385,6 +385,7 @@ does the lookup.
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [White Seabass](../species/white-seabass.md)
+- [Wind in Your Face — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)
 - [Yellowtail — surface iron](../species/yellowtail-surface-iron.md)

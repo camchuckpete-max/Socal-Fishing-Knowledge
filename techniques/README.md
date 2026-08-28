@@ -51,7 +51,7 @@
 - [Wacky Rig — Reading the Bite in a Slack Line](wacky-rig.md) **[SoCal only]** — Execution for fishing a wacky-rigged stick worm — a soft stickbait hooked through the middle so both ends fall and wiggle freely.
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](wahoo-bomb-casting.md) **[Baja only]** — The wahoo bomb and the Raider jig are named as the two most-used lures for wahoo (Searcher Sportfishing, -62xDo4UQzo, 2020-01-30) — a cast-and-burn presentation
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md) **[Baja only]** — Dedicated trolling execution for wahoo on the heaviest outfit aboard — distinct from wahoo bomb & Raider jig casting, which is a cast-and-burn presentation on m
-- ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md) — (Captain Mark, SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Wind in Your Face — Windward-Side Rail Positioning](wind-in-your-face-positioning.md) — Fish the windward side and walk forward with your line as the drift swings it toward the bow — that is the whole rule for what to do with your rod and your feet
 - [Yo-Yo Iron](yo-yo-iron.md) — Drop a heavy iron straight down to a mark and crank it back up at full speed on a heavy jig-stick — a vertical presentation for fish holding deep or in current
 
 ### Subfolders

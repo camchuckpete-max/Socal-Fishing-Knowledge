@@ -5,100 +5,71 @@ sources: [pQ9kGqgsX8I, rNiQKb3sCh4, S9sQ8Vg8-5o, eqRMpfcuM2s]
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+gear_classes: not applicable — a positioning discipline, applies regardless of what's rigged
+depth_band: not applicable — a rail-positioning discipline, not depth-specific
+retrieve_speed: not applicable — no retrieve involved
 ---
 
-# "Wind in Your Face" — Windward-Side Rail Positioning
+# Wind in Your Face — Windward-Side Rail Positioning
 
-(Captain Mark, SearcherSportfishing, "Tackle Tip Thursday Vol. 180 (Wind in
-Your Face)," `pQ9kGqgsX8I`, 2022-05-05. `searcher-sportfishing` is a
-registered channel/series per the source registry. **Repeated doctrine within
-the registered channel/series** — see the earlier, thinner corroboration
-below — so this note now stands at `high` confidence per the registry's
-repeated-doctrine rule.)
-
-**Earlier corroboration (Laurie, Turner's Outdoorsmen tackle department, via
-SearcherSportfishing, "Tackle Tip Thursday Vol. 56 (Long-Range Tips),"
-`rNiQKb3sCh4`, 2019-07-10):** in a short "how to prepare for a sport boat"
-segment, the same rule is given as a rule of thumb for a first-timer who
-doesn't know which side of the boat to fish: "remember facing the wind... if
-you don't know what side to get on the boat, make sure the wind is blowing in
-your face" — stated reason given is to end up "in the right area and not
-messing everybody up." No mechanism (bow-catches-more-wind, walk-with-your-
-line, timing) is given in this earlier, thinner mention — that detail comes
-only from the Vol. 180 citation above — but it independently confirms the
-core windward-side rule two and a half years earlier, from a different
-on-camera speaker within the same registered channel/series.
-
-What to do with your rod and your feet once a multi-angler sportboat stops
-and the crew calls out a side to fish — the rail-positioning discipline that
-keeps a crowded stop from turning into a snarl of crossed lines. Distinct
-from [underhand casting](underhand-casting.md) (getting the bait out) and
-[rod handling for live bait](rod-handling-live-bait.md) (holding the rod
-while it soaks) — this is what you do with your body on deck while that bait
-is out.
+Fish the windward side and walk forward with your line as the drift swings it
+toward the bow — that is the whole rule for what to do with your rod and your
+feet once a multi-angler sportboat stops and the crew calls a side to fish
+(`pQ9kGqgsX8I`). It keeps a crowded stop from turning into a snarl of crossed
+lines. Distinct from [underhand casting](underhand-casting.md) (getting the
+bait out) and [rod handling for live bait](rod-handling-live-bait.md) (holding
+the rod while it soaks), this note covers only what to do with your body on
+deck once the bait is out.
 
 ## Reach for this when
 
 - The boat stops to fish a **kelp paddy, a visible school, or fish showing on
-  the surface**, and whoever's running the boat comes on the PA assigning a
-  side: "everybody on the [port/starboard] side, wind in your face."
-- You're on a **crowded rail** with other anglers all fishing live bait off
-  the same drift at once — this is a many-anglers-at-once discipline, not a
-  private-boat or one-angler concern.
-- **The same rule applies to a drifting bottom-fishing stop, not just live
-  bait (Tackle Express, `S9sQ8Vg8-5o`, 2025-03-28; unregistered channel —
-  medium confidence):** on a rock-cod/dropper-loop drift (the standard
-  format on "nine times out of 10" rockfish boats, per this source), the
-  framing is the same shorthand — "if the wind is in your face, you're in
-  the right place" — because the boat drifts downwind while a bottom rig
-  fished from the leeward rail trails **underneath the boat** and wraps
-  everyone fishing correctly on the windward side. A further data point that
-  this positioning rule isn't specific to live-bait casting. **A second video
-  (`eqRMpfcuM2s`, "Why the wind is actually your best friend while fishing
-  for Rockfish," uploaded 2026-04-16, 71 s) is a re-cut of this same
-  `S9sQ8Vg8-5o` passage, word for word** — not an independent sighting, both
-  video IDs logged here for the same underlying claim.
+  the surface**, and the crew calls a side over the PA: "everybody on the
+  [port/starboard] side, wind in your face" (`pQ9kGqgsX8I`).
+- You're on a **crowded rail** with other anglers all fishing live bait off the
+  same drift at once — a many-anglers-at-once discipline, not a private-boat
+  or one-angler concern.
+- **The same rule applies on a bottom-fishing drift, not just live bait.** On a
+  rock-cod/dropper-loop drift — the standard format on "nine times out of 10"
+  rockfish boats (`S9sQ8Vg8-5o`) — a bottom rig fished from the leeward rail
+  trails **underneath the boat** as it drifts downwind, wrapping everyone
+  fishing correctly on the windward side; the shorthand there is the same rule:
+  "if the wind is in your face, you're in the right place" (`S9sQ8Vg8-5o`,
+  `eqRMpfcuM2s`).
 
 ## The mechanism
 
-As the boat drifts, it moves in the same direction the wind is pushing it.
-Most sportboats are built with more superstructure and surface area forward
-(wheelhouse, bow structure) than aft, so **the bow catches more wind and gets
-pushed downwind faster than the stern.** The practical effect: no matter
-where along the rail you cast from, the longer your bait soaks, the more your
-line trends **toward the bow** as the drift continues — everybody's line
-eventually swings that way.
+As the boat drifts, it moves in the same direction the wind pushes it. Most
+sportboats carry more superstructure and surface area forward — wheelhouse,
+bow structure — than aft, so **the bow catches more wind and gets pushed
+downwind faster than the stern** (`pQ9kGqgsX8I`). The practical effect: no
+matter where along the rail a bait is cast from, the longer it soaks, the more
+the line trends **toward the bow** as the drift continues — every windward
+line eventually swings that way (`pQ9kGqgsX8I`).
 
 ## Mechanics — fish the windward side, walk with your line
 
-- **Fish the side the wind is blowing into your face** — the **windward
-  side** — never the downwind/leeward side. On the downwind side the boat is
-  drifting away from your line, so it ends up pulled back **underneath the
-  hull**; if you don't get bit, that line has a good chance of crossing and
-  tangling with anglers fishing correctly on the windward side.
-- **As your line swings toward the bow, move forward to stay in front of
-  it.** Staying ahead of your own line as it swings is what prevents tangles
-  with the other anglers working down the same rail, and keeps you in
-  contact with your bait.
-- **Timing:** working from the stern all the way to the bow this way takes
-  roughly **2 to 5 minutes**.
-- **The reset cycle:** once you reach the bow without a bite, wind the bait
-  in, cross to the downwind side via the bow, walk aft along that (lee) side
-  back to the bait tank, hook a fresh bait, and start over again in the
-  stern on the windward side.
-- **Spread out from the start — you don't have to start in the stern.** The
-  crew's stated emphasis at the top of a stop is for everyone to spread out
-  along the whole windward rail, not stack up at the back. Captain Mark's own
-  preferred starting spot is the **bow**. As long as your line is on the
-  windward side, angled away from the boat, you have a chance at a bite from
-  anywhere along that rail.
-
-## Common failure
-
-Fishing the downwind/leeward side of the boat. As the boat drifts away from
-that line, it passes under the hull, and an unproductive downwind line is a
-likely source of a tangle with a windward angler's line rather than just a
-wasted soak.
+- **Fish the side the wind blows into your face — the windward side —**
+  never the downwind/leeward side. On the leeward side the boat drifts away
+  from the line, pulling it back **underneath the hull**; an unproductive
+  leeward line is a likely source of a tangle with a windward angler's line
+  (`pQ9kGqgsX8I`).
+- **As the line swings toward the bow, move forward to stay ahead of it.**
+  Staying in front of your own line as it swings is what prevents tangles with
+  anglers working down the same rail, and keeps you in contact with your bait
+  (`pQ9kGqgsX8I`).
+- **Timing:** working from the stern to the bow this way takes roughly **2 to
+  5 minutes** (`pQ9kGqgsX8I`).
+- **The reset cycle:** on reaching the bow without a bite, wind the bait in,
+  cross to the leeward side via the bow, walk aft along that side back to the
+  bait tank, hook a fresh bait, and start again in the stern on the windward
+  side (`pQ9kGqgsX8I`).
+- **Spread out along the whole windward rail from the start** rather than
+  stacking up at the back — the crew's stated emphasis at the top of a stop.
+  Captain Mark's own preferred starting spot is the **bow**; anywhere along
+  the windward rail gives a chance at a bite as long as the line stays angled
+  away from the boat (`pQ9kGqgsX8I`).
 
 ## Related
 
@@ -114,9 +85,36 @@ wasted soak.
   names and communicating with them so this movement doesn't turn into a
   tangle.
 
+## Gear class
+
+Applies regardless of [gear class](../tackle/gear-classes.md) — a positioning
+discipline that governs where an angler stands and how a line is walked, not
+what tackle is rigged.
+
+## Common failures
+
+- **Fishing the downwind/leeward side of the boat.** As the boat drifts away
+  from that line, it passes under the hull, and an unproductive leeward line
+  is a likely source of a tangle with a windward angler's line rather than
+  just a wasted soak (`pQ9kGqgsX8I`).
+- **Staying put instead of walking forward as the line swings toward the
+  bow.** Falling behind your own line risks crossing anglers working down the
+  rail — the same tangle the windward-side rule exists to prevent
+  (`pQ9kGqgsX8I`).
+
+<!-- species-applications:start -->
+## Species applications
+
+<!-- species-applications:end -->
+
+## Evidence
+
+Per-source provenance: [evidence file](evidence/wind-in-your-face-positioning.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Wind in Your Face Rail Positioning](evidence/wind-in-your-face-positioning.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md)
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md)

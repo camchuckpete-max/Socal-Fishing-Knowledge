@@ -96,8 +96,8 @@ Per-source provenance: [evidence file](evidence/rail-etiquette.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Evidence — Rail Etiquette](evidence/rail-etiquette.md)
 - [Fighting Fish from the Rail — Brace, Pump, Don't High-Stick](fighting-fish-from-the-rail.md)
 - [Skipjack Tuna](../species/skipjack-tuna.md)
+- [Wind in Your Face — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 <!-- backlinks:end -->

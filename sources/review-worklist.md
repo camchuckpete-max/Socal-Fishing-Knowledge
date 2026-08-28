@@ -82,7 +82,7 @@ by their builders after the transform phase drains.
 | techniques/wacky-rig.md | standard | transformed | gaps(1) | v2 migration faithful: evidence split, gap flag, and infobox fields all conserve prior content; no drift found |
 | techniques/wahoo-bomb-casting.md | standard | skipped |  | skipped: verifier-reject: conservation failure - dropped bomb-weight/hook-size parameter, color detail, jaw/hookset mechanism, and species-router cross-reference |
 | techniques/wahoo-trolling.md | standard | transformed | spots(2) | transform verified faithful - observation split to evidence file, v2 front matter/gear_classes added, gear-class-detail anchor preserved |
-| techniques/wind-in-your-face-positioning.md | standard | pending |  |  |
+| techniques/wind-in-your-face-positioning.md | standard | transformed | none | transform verified - plain-statement rewrite conserves all before-facts via evidence-file split; no meaning drift |
 | techniques/yo-yo-iron.md | standard | pending |  |  |
 | lures/bay-bass-plastics.md | standard | pending |  |  |
 | lures/cedar-plug.md | standard | pending |  |  |

@@ -751,7 +751,6 @@ clips above.)
 <!-- backlinks:start -->
 ## Linked from
 
-- ["Wind in Your Face" — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 - [Bait Tanks](bait-tanks.md)
 - [Cabo San Lucas](../locations/cabo-san-lucas.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
@@ -779,4 +778,5 @@ clips above.)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Underhand Casting](../techniques/underhand-casting.md)
 - [White Seabass](../species/white-seabass.md)
+- [Wind in Your Face — Windward-Side Rail Positioning](../techniques/wind-in-your-face-positioning.md)
 <!-- backlinks:end -->

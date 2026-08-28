@@ -149,7 +149,6 @@ Per-source provenance: [evidence file](evidence/rod-handling-live-bait.md).
 <!-- backlinks:start -->
 ## Linked from
 
-- ["Wind in Your Face" — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 - [Drag Setting — General Judgment](../tackle/drag-setting.md)
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — Holding the Rod for Live Bait](evidence/rod-handling-live-bait.md)
@@ -157,4 +156,5 @@ Per-source provenance: [evidence file](evidence/rod-handling-live-bait.md).
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Live-Bait Pendulum Cast](live-bait-pendulum-cast.md)
 - [Underhand Casting](underhand-casting.md)
+- [Wind in Your Face — Windward-Side Rail Positioning](wind-in-your-face-positioning.md)
 <!-- backlinks:end -->
