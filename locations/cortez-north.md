@@ -321,4 +321,5 @@ Trip reports and per-source provenance:
 - [Evidence — Cortez North](evidence/cortez-north.md)
 - [Loreto & Puerto Escondido](loreto.md)
 - [Mexican waters](mexican-waters.md)
+- [Regions & Waters — the gating vocabulary](regions.md)
 <!-- backlinks:end -->

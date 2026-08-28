@@ -327,7 +327,7 @@
 - [Pyramid Cove](pyramid-cove.md) **[SoCal only]** — A charted spot at 32°49.000'N 118°23.000'W (cameron), in the San Clemente Island — Front Side (N→S) zone.
 - [Pyramid Reef](pyramid-reef.md) **[SoCal only]** — A charted spot at 32°49.000'N 118°21.500'W (cameron), in the San Clemente Island — Front Side (N→S) zone.
 - [Red Bluff](red-bluff.md) **[SoCal only]** — A charted spot at 33°25.822'N 118°26.119'W (cameron), in the Catalina Island — Front Side (W→E) zone.
-- [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer you a fish or a technique that doesn't exist where you're going.
+- [Regions & Waters — the gating vocabulary](regions.md) **[SoCal only]** — The closed vocabulary every note tags itself with, so a day plan can never offer a fish or a technique that doesn't exist where the angler is going.
 - [Ribbon Kelp](ribbon-kelp.md) **[Baja only]** — A charted spot at 32°24.800'N 117°13.880'W (cameron), in the Coronado Islands zone.
 - [Ribbon Rock](ribbon-rock.md) **[SoCal only]** — A charted spot at 33°26.408'N 118°34.482'W (cameron), in the Catalina Island — Backside (W→E) zone.
 - [Roca Ben (caution — shoals/boilers)](roca-ben.md) **[Baja only]** — A charted spot at 30°26.300'N 116°07.000'W (cameron), in the San Quintin zone.

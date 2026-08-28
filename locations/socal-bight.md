@@ -333,6 +333,7 @@ Trip reports and per-source provenance:
 - [Loreto & Puerto Escondido](loreto.md)
 - [Magdalena Bay (Mag Bay / Lopez Mateos)](bahia-magdalena-lopez-mateos.md)
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
+- [Regions & Waters — the gating vocabulary](regions.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
 - [San Juan Seamount](san-juan-seamount.md)
 - [South 9 Mile Bank / 439](south-9-mile-bank-439.md)
