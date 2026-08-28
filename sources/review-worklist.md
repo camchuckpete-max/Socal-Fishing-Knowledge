@@ -168,7 +168,7 @@ by their builders after the transform phase drains.
 | locations/regions.md | standard | transformed | gaps(2), asr-uncertain(repeat of open type-taxonomy escalation) | transform verified, one conservation gap fixed in-tree (restored dropped finer-tier-can-be-added-later clause) |
 | locations/sea-of-cortez.md | standard | transformed | gaps(4), misplaced(0), spots(3), reg-claims(0), asr-uncertain(1: captain name Joel/Joelle/hoell) | transform verified: conservation intact, 3 transcript spot-checks pass, mechanical check clean |
 | locations/zone-lexicon.md | standard | transformed | gaps(3), spots(7), asr-uncertain(1) | transform verified faithful, zero information loss, mechanically clean; escalated (repeat of open bass-structure.md taxonomy question) |
-| planning/day-plan-protocol.md | light | pending |  |  |
+| planning/day-plan-protocol.md | light | done | none | added layout:v2 + missing (cameron) cite on the SST-outlier doctrine sentence, no content changed |
 | planning/electronics-and-sounder.md | light | pending |  |  |
 | planning/fleet-intelligence.md | light | pending |  |  |
 | planning/report-reading-and-forecasting.md | light | pending |  |  |

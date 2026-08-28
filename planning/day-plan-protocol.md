@@ -3,6 +3,7 @@ type: planning
 tags: [day-plan, protocol, workflow]
 sources: [cameron]
 confidence: high
+layout: v2
 ---
 
 # Day-Plan Protocol
@@ -82,7 +83,8 @@ navigate the whole KB.
   reported every run, or its absence is named.
 - **Doctrine — distrust single-source SST extremes; cross-check models.** A
   known `goes_west_composite` window discrepancy and a cloud-contaminated NRT
-  max (96.6 °F) mean single-source SST outliers are treated with suspicion.
+  max (96.6 °F) mean single-source SST outliers are treated with suspicion
+  (cameron).
 
 ## Supporting notes
 
