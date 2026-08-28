@@ -124,7 +124,7 @@ by their builders after the transform phase drains.
 | rigging/seaguar-knot.md | standard | transformed | conservation-loss(2, fixed), meaning-drift(1, fixed) | transform applied with fixes: restored two conservation losses (Cesar tenure figures, Improved Clinch Knot cross-link) and corrected a factually-wrong on-camera-naming claim introduced by the transform |
 | rigging/slim-beauty-knot.md | standard | transformed | none | transform verified with fixes — restored dropped presenter/ASR-caption attribution, corrected malformed flag grammar |
 | rigging/springer-knot.md | standard | transformed | none | transform verified, 1 fix applied (removed uncited 'flylined' detail smuggled into low-profile bullet) |
-| rigging/surgeons-knot-mono-to-fluoro.md | standard | pending |  |  |
+| rigging/surgeons-knot-mono-to-fluoro.md | standard | transformed | asr-uncertain(zKovnvOwlFc presenter unresolved; PKwvkOOYzto presenter name Captain Mark vs title-credited Capt Art) | transform verified, 6 conservation gaps fixed in-tree (5 dropped parameters/quotes + 1 dropped species cross-link pair) |
 | rigging/surgeons-loop.md | standard | pending |  |  |
 | rigging/tony-pena-knot.md | standard | pending |  |  |
 | rigging/trap-rig.md | standard | pending |  |  |

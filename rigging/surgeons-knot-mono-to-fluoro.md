@@ -5,6 +5,9 @@ sources: [9JnIS8HkZlA, TU5quAG4atM, dg1sbr6GuB8, fyJA3o2hVh0, eZXPqiAtqi8, LpReZ
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+line_class: connection knot spanning ~20–100 lb — pound-test-scaled turn-count rule (4 turns 20–100 lb, 5 turns under 20 lb) vs. a 3-turn field default at 25–80 lb, kept side by side — see Parameters
+hook_sizes: not applicable — connection knot (line-to-line splice); downstream hooks vary by rig, e.g. Owner Live Bait 1-1/0 or 4/0 Super Mutu circle — see Parameters
 ---
 
 # Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection
@@ -12,326 +15,209 @@ waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
 A doubled/multi-turn overhand connection knot joining a **monofilament main
 line or top shot to a fluorocarbon leader** — an attributed alternative to the
 [Seaguar knot](seaguar-knot.md) for the same job, named "surgeon's knot" by
-most presenters below and "surgeon's loop" by a few (kept side by side as a
-naming variant, not reconciled). Split out of [Essential SoCal
-Knots](essential-knots.md), which had grown past ~400 lines with this single
-sub-topic alone running past ~200 — the same governance rule that already
-split out [Seaguar Knot](seaguar-knot.md) and [Surgeon's
-Loop](surgeons-loop.md). That "Surgeon's knot (loop)" entry in Essential SoCal
-Knots keeps the **terminal, single-hook rockfish dropper-loop** use of this
-same tie family; this note covers the **line-to-line mono-to-fluoro
-connection** use specifically. [Surgeon's Loop](surgeons-loop.md) covers the
-same doubled-overhand family scaled up much larger and heavier for a
-giant-yellowtail long-range terminal-tackle attachment point, and [Cut-Loop
-Surgeon's Loop](cut-loop-dropper.md) covers an off-center-cut dropper variant
-— neither is a mono-to-fluoro line connection, so both stay separate from this
-note.
+most sources and "surgeon's loop" by one presenter across two clips
+(`zkA1jqHXXD0`, `PKwvkOOYzto`) — a naming variant on the same tie, not a
+different one. Split out of [Essential SoCal Knots](essential-knots.md),
+which had grown past ~400 lines with this single sub-topic alone running past
+~200 — the same governance rule that already split out [Seaguar
+Knot](seaguar-knot.md) and [Surgeon's Loop](surgeons-loop.md). That note's
+"Surgeon's knot (loop)" entry keeps the **terminal, single-hook rockfish
+dropper-loop** use of this same tie family; this note covers the
+**line-to-line mono-to-fluoro connection** use specifically. [Surgeon's
+Loop](surgeons-loop.md) covers the same doubled-overhand family scaled up
+much larger and heavier for a giant-yellowtail long-range terminal-tackle
+attachment point, and [Cut-Loop Surgeon's Loop](cut-loop-dropper.md) covers an
+off-center-cut dropper variant — neither is a mono-to-fluoro line connection,
+so both stay separate from this note.
 
-Every source below is SearcherSportfishing (`searcher-sportfishing`,
-registered channel/series — mechanism/parameters rate normally per the
-registry's claim-type scope). Fourteen separate citations spanning 2013–2024
-name multiple different turn counts for the same basic tie; per the
-doctrine-conflict convention these are kept attributed and side by side, not
-reconciled to one number.
+Fourteen citations spanning 2013–2024 (Tackle Tip Thursday, Tackle Talk Live,
+and seminar footage, mostly SearcherSportfishing) name several different turn
+counts for the same basic tie — kept attributed and side by side per the
+doctrine-conflict convention rather than reconciled to one number (see
+Parameters).
 
-## When to use it
+## When to use
 
 - Joining a fluorocarbon leader or bite guard to a monofilament main line or
   top shot — the same connection job the [Seaguar knot](seaguar-knot.md)
   serves, tied a different way.
 - A fast field re-tie after a break-off, when a whole new leader (not just a
-  hook) is needed.
+  hook) is needed (`Aorcd0Om7eI`).
 - Feeds live-bait/flylined rigs, kelp-paddy dorado/yellowfin rigs, daytime
-  tuna jig rigs, and sliding-sinker rigs — see the per-citation applications
-  below.
+  tuna jig rigs, and sliding-sinker rigs — see the per-rig parameters below.
 
-## Parameters & judgment
+## Parameters
 
-- **Turn-count rule, more turns than typical knot-book guidance (Steve Carson,
-  Penn, San Diego Rod and Reel Club, `9JnIS8HkZlA`, 2023-11-14; unregistered
-  channel/speaker, single mention — medium confidence):** the doubled/multi-turn
-  surgeon's knot joins a monofilament top shot to a fluorocarbon leader — the
-  same job the Seaguar knot is named for. His turn-count rule, stated as more
-  turns than most knot books show (freshwater books show 2, most saltwater
-  books show 3): **4 turns for 20–100 lb test, 5 turns under 20 lb**. Kept
-  side by side with the Seaguar knot as a second attributed technique for the
-  same connection, not reconciled with it.
-  - **Second, independent citation of the same 4-turn/20–100 lb rule, same
-    speaker (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday
-    Vol. 234 (How to Use Dart Lures)," `TU5quAG4atM`, 2024-06-13;
-    `searcher-sportfishing` registered channel — repeated by the same voice,
-    `high` confidence for this specific rule):** a **four-turn surgeon's
-    knot** ties a **50 lb monofilament top shot** to a **3–4 ft, 80 lb
-    fluorocarbon** leader on a daytime tuna jig rig — both line classes
-    inside his own stated 20–100 lb/4-turn bracket. Full rig in [Searcher
-    big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md#dartcolt-sniper-finesse-jig-rig--daytime-tuna-steve-carson-pennsearchersportfishing-2024-06-13);
-    mechanics in [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
-  - **Third, independent citation of the same 4-turn/20–100 lb rule, same
-    speaker (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday
-    Vol. 176 (Finesse Outfit)," `dg1sbr6GuB8`, uploaded 2022-04-07;
-    `searcher-sportfishing` registered channel — repeated a third time by
-    the same voice):** a **four-turn surgeon's knot** ties **4–5 ft of
-    fluorocarbon** to a **20 or 25 lb monofilament** top shot on his
-    school-size-tuna finesse rig — again inside his own 20–100 lb bracket.
-    Full rig in [Bluefin rig ladder by grade — Rig
-    1](../tackle/bluefin-rig-ladder-by-grade.md#rig-1--15-lb-finesse-the-one-you-need-most).
-  - **Fourth, independent citation of the same 4-turn/20–100 lb rule, same
-    speaker, and this group's earliest-dated citation of the rule yet
-    logged (Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday
-    Vol. 167 (All-Around Outfit)," `fyJA3o2hVh0`, uploaded 2022-02-03;
-    `searcher-sportfishing` registered channel — repeated a fourth time by
-    the same voice):** a **four-turn surgeon's knot** ties **3–5 ft of
-    fluorocarbon** leader to a **40 lb monofilament** top shot on his
-    all-around 40 lb tuna outfit — again inside his own 20–100 lb bracket,
-    and predating the Vol. 176 citation above by about two months. Full rig
-    in [Searcher 40 lb all-around tuna
-    outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
-- **Now the third-earliest-dated entry in this group, with a full rig
-  application attached (SearcherSportfishing, "Tackle Tip Thursday Vol. 7,"
-  `eZXPqiAtqi8`, 2018-08-09; `searcher-sportfishing` registered channel,
-  single mention — medium confidence):** superseded as this note's
-  earliest-dated data point by the `PKwvkOOYzto` entry below (2013-09-09,
-  roughly five years earlier) and by the `zKovnvOwlFc` entry below
-  (2017-05-04, about a year earlier). Presenter not identified on camera. Framed as
-  a simple offshore kelp-paddy rig for [dorado](../species/dorado.md) ("El
-  Dorado") and [yellowfin tuna](../species/yellowfin-tuna.md) on a **25–40 lb
-  class conventional reel**: a **3 ft fluorocarbon leader, 25 lb test,
-  matched to the mono main line's own test**, joined with a surgeon's knot
-  passed through **three times** ("once, twice, three times"), pulled
-  together and the tag ends trimmed — the same 3-turn count already logged
-  for `LpReZmYQSCU` and `5g7pK63hYnc` below, not Steve Carson's 4-turns-at-
-  20–100 lb rule above. An **Owner Live Bait hook, size 1 or 1/0** (the
-  smaller size for when bait has been running small), is tied to the working
-  end of the leader with an [improved clinch
-  knot](improved-clinch-knot.md#parameters--judgment) — see
-  [hooks — style, size, and matching to bait](../tackle/hooks.md) for the
-  hook entry.
-- **Second-earliest-dated entry in this group, with a distinct leader-length
-  rationale and an explicit speed-based preference over the uni-to-uni knot
-  (SearcherSportfishing, "Searcher Sportfishing Fluoro to Mono Knots,"
-  `zKovnvOwlFc`, 2017-05-04; `searcher-sportfishing` registered channel,
-  presenter not clearly identified — the auto-caption audio renders the
-  self-introduction as "captain reinstall board," which does not resolve to a
-  name and is not carried forward, flagged `asr-uncertain`; single mention of
-  this specific reasoning — medium confidence):** calls the surgeon's knot
-  "our most common knot... pretty much the only one we use" aboard the
-  *Searcher*, working "never fails" on everything up to about **80 lb** line;
-  ties it here with **10–12 in** of tag on each side (more than a beginner
-  strictly needs, left long on purpose so the wraps are easy to see and
-  learn), passing the tag ends through the formed loop **three times**
-  ("one, two, and three") — the same 3-turn count already logged for
-  `LpReZmYQSCU`, `5g7pK63hYnc`, `UfuQr6gOIk8`, and `PKwvkOOYzto` above rather
-  than Steve Carson's 4-turns-at-20–100 lb rule. Describes the tightening
-  action as a "Chinese finger trap": the harder a fish pulls, the tighter the
-  two lines squeeze onto each other rather than slipping apart. **A
-  leader-length reason not stated in the other entries in this note:**
-  recommends a **"three to three-and-a-half"** fluorocarbon leader (unit not
-  stated on camera — could be feet or a rod-length/fathom shorthand; not
-  assumed), "nothing longer," because a longer fluoro leader's bulkier knot
-  tends to get stuck in the rod guides **while reeling a caught bait up to
-  the boat** — a bait-catching-specific version of the "don't let the knot
-  hit the guides" caution, distinct from the casting-clearance reasoning in
-  `lf3S28nh-kk` and the rod/reel-geometry reasoning in `shZCjX2-fkI` above;
-  kept side by side as a third, unreconciled rod-guide-clearance rationale.
-  **Why fluoro at all, stated on camera:** used specifically for **toothy
-  fish**, to resist bite-through while a fish stays hooked up longer than a
-  straight mono tie would hold, and preferred for being a little clearer and
-  lower-stretch (more durable) than mono. **Strength/line-class judgment:**
-  confident to **60 lb**, has personally tied it on **80 lb**; beyond that,
-  the stated guidance is to switch to [crimping](crimping.md) rather than
-  keep tying this knot on heavier line. States there is "no cutoff point" on
-  the tie itself — i.e. it isn't a stated weak point in the line — and that
-  the boat has "no problem" landing fish on it. **Tie-speed judgment:** under
-  a minute for someone first learning it; the presenter himself ties it in
-  under 30 seconds. **Explicit preference over the uni-to-uni knot, stated
-  with a reason (decision-rationale):** after demonstrating both ties in the
-  same video, states he personally prefers the surgeon's knot **because it's
-  faster** ("if two bites really good"), even while conceding the uni-to-uni
-  "looks a little bit better" cosmetically — and states both knots are
-  **equally effective, with the same holding strength**, just joining the
-  two lines by a different mechanic. See [Uni-to-Uni
-  Knot](essential-knots.md#parameters--judgment) for this same video's
-  uni-to-uni demonstration (4 wraps per side) and the stated reason to reach
-  for it instead of the surgeon's knot.
-- **Fourth-earliest-dated entry in this group, same 3-turn count, no
-  line-class or application given (SearcherSportfishing, Tackle Tip
-  Thursday Vol. 53, `LpReZmYQSCU`, 2019-06-19; unregistered channel —
-  medium confidence):** predates the `5g7pK63hYnc` entry below by about
-  seven months. Paraphrased mechanic, a bare demo with no other parameters
-  stated: overlap the mono and fluorocarbon leader by a few inches, pinch
-  them together, form a quick loop, and stick the tag through the loop
-  **three times**; wet it a little, cinch it down, then trim both tag ends.
-  No line class, leader length, or bait/species application is given in this
-  brief (59-second) clip.
-- **Independent mono-to-fluoro corroboration with a 3-turn count
-  (SearcherSportfishing, Tackle Tip Thursday Vol. 83, `5g7pK63hYnc`,
-  2020-01-16; unregistered channel — medium confidence):** the same 3-turn
-  tie as the `LpReZmYQSCU` entry above, this time with an application and
-  parameters attached. Build a **36–40 in fluorocarbon leader**, sized in
-  breaking strength to match the main line/mono it's tied to (demonstrated
-  on **60 lb fluorocarbon**); leave about **12 in** of tag on each side of
-  the two lines before tying so there's enough slack to work the knot. Tie
-  the surgeon's knot as a simple overhand passed through **three times**
-  ("once, twice, three times"), wet it so it cinches down, pull both
-  standing lines tight, then trim the excess tags. **Turn-count flag —
-  genuine conflict, kept side by side:** this source ties **3 turns on 60 lb
-  fluorocarbon**, which falls inside Steve Carson's stated 20–100 lb bracket
-  where his rule calls for **4 turns** — a direct line-class-matched
-  contradiction with Carson's rule above, not merely an echo of the generic
-  "most saltwater books show 3" baseline Carson contrasts his own rule
-  against. Recorded here attributed and unreconciled, per the
-  doctrine-conflict convention — not resolved in either direction.
-  **Application named on camera:** tie an Owner hook onto the working end of
-  the finished leader for a flylined sardine bait, fished for bluefin or
-  yellowfin tuna — see [flyline](../techniques/flyline.md) for the broader
-  flylining technique.
-- **A later same-channel entry, this time a general field re-tie rather than a
-  bait-specific rig (SearcherSportfishing, Tackle Tip Thursday Vol. 113,
-  `Aorcd0Om7eI`, presenter Wendy of Izorline (captions render the sponsor
-  name "Eiserline" — corrected here per the same correction already applied
-  for the same presenter/sponsor in [Slim Beauty Knot](slim-beauty-knot.md)),
-  2020-08-20; unregistered channel/speaker — medium confidence):** framed on
-  camera as the tackle tip for when you break off on the water and need to
-  retie a new leader fast. Lay the main line and the new leader against each
-  other, then tie the surgeon's knot as a simple overhand with the leader,
-  passed through **5 times** ("one two three four five"). She then states
-  the general rule **"the heavier the pound test, the less turns you
-  need"** — no line class/pound test is given for this specific demo, so the
-  5-turn count here can't be checked numerically against the 3-turn, 60 lb
-  figure from the earlier `5g7pK63hYnc` clip above (same channel). The
-  stated principle agrees in direction with Steve Carson's
-  4-turns-at-20–100 lb / 5-turns-under-20 lb rule above (heavier line takes
-  fewer turns) — a second, independent, unregistered-channel voice
-  corroborating that relationship, though it still doesn't reconcile the
-  specific turn counts already logged side by side in this note. Finish: wet
-  the knot, cinch it down quickly, cut the tag ends close, and it's ready to
-  fish — the tip is framed entirely around retie speed after a break-off,
-  with no bait/species/line-class specifics stated.
-- **A leader-length rule tied to the knot's own bulk, a parameter not given
-  in the other entries in this group (SearcherSportfishing, "Tackle Talk
-  Live with Team Searcher," `lf3S28nh-kk`, 2021-03-26; `searcher-sportfishing`
-  registered channel, single mention of this specific reasoning — medium
-  confidence):** ties the same 3-turn mono-to-fluorocarbon surgeon's knot
-  (overlap the lines, form a circle, pass both tag ends through it three
-  times, cinch wet, trim tags to about 1/4 in), then gives a stated reason
-  to keep the finished leader short: about **2.5–3 ft**, a little longer on
-  a longer rod. The bulky, tag-heavy knot shouldn't have to pass through the
-  rod's **top guide** on the cast — the tip guide runs smaller than the rest
-  of the guide train, so too long a leader forces the knot through it every
-  cast. A longer leader also buffers against needing a full fluorocarbon
-  re-tie every time the line near the hook gets chafed. Full session context
-  (outfits, Colt Sniper leader spec, and the companion San Diego jam
-  citation) is in [Searcher spring bluefin/yellowtail
-  quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#knots-used-this-session).
-- **A leader-length rule tied to rod/reel geometry and hook-retie economy, a
-  different reasoning than the guide-clearance rule above (Captain Armando,
-  SearcherSportfishing, "Tackle Talk Live: Bluefin Tuna," `shZCjX2-fkI`,
-  2021-01-14; `searcher-sportfishing` registered channel — medium
-  confidence, single mention of this specific reasoning):** ties the same
-  doubled-overhand mono-to-fluorocarbon connection ("pass it through that
-  loop three times... take both of your tag ends... get that knot nice and
-  tight") for a **live-bait sinker rig or fly-lined bait**, and gives a
-  stated finished-leader length of **4 to 5 ft**, longer than the ~2.5–3 ft
-  figure above. Two stated reasons for going longer rather than shorter: (1)
-  a longer leader lets one piece of fluorocarbon be **re-tied with a fresh
-  hook multiple times** — standard practice is to retie the hook after
-  every fish landed — without needing a whole new leader each time, which
-  is also more economical since fluorocarbon is expensive; (2) the
-  **mono-to-fluoro knot itself must never pass through the rod's guides** on
-  the cast, since a bulky knot hitting the guides costs cast distance —
-  worked example: on a **7 ft rod** with the reel seated **18 in** above the
-  butt, a **5 ft leader** keeps the finished connection **8–12 in below the
-  rod tip**, comfortably clear of the guide train. A distinct,
-  rod-length-driven version of the same too-long-hits-the-guides caution
-  that produces the shorter ~2.5–3 ft figure above — kept side by side, not
-  reconciled, since the two entries scale the leader to different things
-  (guide-train tip-guide size there vs. this rod's specific
-  reel-seat-to-tip geometry here).
-- **A same-channel entry, closest in mechanic to the earliest clips above
-  (SearcherSportfishing, Tackle Tip Thursday Vol. 133, presenter Ryan,
-  `UfuQr6gOIk8`, 2021-01-07; unregistered channel/speaker — medium
-  confidence):** ties the surgeon's knot as a mono-to-fluorocarbon
-  connection, framed as generically as the `LpReZmYQSCU` clip above — no
-  bait, species, or line-class application stated on camera. Paraphrased
-  mechanic: overlap the mono and fluorocarbon leader, leaving a few inches of
-  tag on each side; form a loop in the middle and pinch it; pass both tag
-  ends through the loop **three times**, matching the 3-turn count already
-  logged for `LpReZmYQSCU` and `5g7pK63hYnc` above rather than Steve Carson's
-  4-turns-at-20–100 lb rule. Wet it well, pull both tag ends and the two main
-  lines together to cinch it down, then let go of the tags and pull the main
-  lines tight. **Trim judgment not stated in the other entries above:**
-  leave a little extra length on the trimmed tag ends rather than cutting
-  flush, in case the knot didn't fully cinch down — a caution against the
-  knot slipping after trimming, compatible with (but a distinct data point
-  from) the "cinch fully before trimming" caution already logged for the
-  Albright knot in [FG Knot & Albright Knot](fg-and-albright.md). 93-second
-  clip; no line class, leader length, or application given.
-- **A same-channel entry on a sinker rig rather than a bait/leader
-  application (SearcherSportfishing, "Tackle Tip Thursday Vol. 181 (Avoid
-  Sinker Rig Tangles)," presenter Captain Art, `zkA1jqHXXD0`, 2022-05-12;
-  `searcher-sportfishing` registered channel, single mention of this
-  specific build — medium confidence):** ties a **~4 ft, 100 lb
-  fluorocarbon leader** to a **100 lb monofilament** main line with a
-  **surgeon's loop** (his own term for this connection, matching the naming
-  used in `PKwvkOOYzto` below) — no turn count given on camera, and same
-  line class on both sides rather than a lighter-to-heavier step. He states
-  explicitly that **the fluorocarbon leader test can run heavier than the
-  main-line class** if wanted, though his own demo build here matches them.
-  Tied on a **Fisherman's Landing rental outfit** (100 lb mono, two-speed
-  reel, a rail rod — graphite Calstar rated 60–120 lb) with a **4/0 Super
-  Mutu circle hook**. **Sinker placement, the video's actual subject:** the
-  sliding sinker rides **above this surgeon's-loop connection** rather than
-  down near the hook, so the knot itself stops the sinker from sliding down
-  onto the hook. See [sliding sinker — tangle prevention, rail-rod rental
+**Base mechanic:** overlap the mono and fluorocarbon leader a few inches to
+about a foot, pinch the overlap and form a loop (or lay both lines together
+and tie a simple overhand with them as one), pass the tag end(s) through the
+loop the stated number of turns, wet the knot to lubricate the cinch, pull the
+two main lines (and briefly the tags) together to seat it, then trim the tag
+ends close (`LpReZmYQSCU`, `5g7pK63hYnc`, `UfuQr6gOIk8`, `lf3S28nh-kk`,
+`zKovnvOwlFc`, `PKwvkOOYzto`).
+
+**Turn count — genuinely contested; the choice turns on whether the pound
+test is known:**
+
+- **Pound-test-scaled rule, repeated across four independent
+  demonstrations:** 4 turns for 20–100 lb test, 5 turns under 20 lb — more
+  turns than typical knot-book guidance (freshwater books show 2, most
+  saltwater books show 3) (`9JnIS8HkZlA`). The same rule repeats tying a
+  50 lb mono top shot to a 3–4 ft, 80 lb fluoro leader on a daytime tuna jig
+  rig (`TU5quAG4atM`; full rig in [Searcher big/giant tuna rig
+  ladder](../tackle/searcher-big-tuna-rig-ladder.md#dartcolt-sniper-finesse-jig-rig--daytime-tuna-steve-carson-pennsearchersportfishing-2024-06-13),
+  mechanics in [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md));
+  a 20 or 25 lb mono top shot to a 4–5 ft fluoro leader on a school-tuna
+  finesse rig (`dg1sbr6GuB8`; full rig in [Bluefin rig ladder by grade — Rig
+  1](../tackle/bluefin-rig-ladder-by-grade.md#rig-1--15-lb-finesse-the-one-you-need-most));
+  and a 40 lb mono top shot to 3–5 ft of fluoro on a 40 lb all-around tuna
+  outfit, the earliest-dated of the three repeats (`fyJA3o2hVh0`; full rig in
+  [Searcher 40 lb all-around tuna outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md)).
+  All three fall inside the stated 20–100 lb/4-turn bracket.
+- **3-turn default, independent of stated pound test:** demonstrated at 25 lb
+  on a kelp-paddy dorado/yellowfin rig (`eZXPqiAtqi8`); at 60 lb on a
+  flylined-sardine tuna rig — a direct contradiction of the pound-test rule
+  above at a line class inside its own 20–100 lb/4-turn bracket
+  (`5g7pK63hYnc`); and confidently up to 60 lb, personally tied to 80 lb,
+  with no stated pound-test threshold for the count itself (`zKovnvOwlFc`).
+  Three further clips tie the same 3-turn count with no line class stated
+  (`LpReZmYQSCU`, `UfuQr6gOIk8`, `PKwvkOOYzto` — the on-camera count wavers
+  "three... twice... three" in the last clip, read as three, the number
+  stated last and most often).
+- **5-turn field re-tie, no pound test stated:** a general break-off re-tie
+  states the rule "the heavier the pound test, the less turns you need,"
+  agreeing in direction with the pound-test-scaled rule above without a
+  stated pound test to check the 5-turn count against either bracket
+  (`Aorcd0Om7eI`).
+- **Decision frame:** no source reconciles the two counts. The
+  pound-test-scaled 4-turns-20–100 lb/5-turns-under-20 lb bracket is the only
+  version stated as an explicit formula, repeated across four separate
+  demonstrations; the 3-turn count is the field-demonstrated default across
+  the rest of this source set at 25–80 lb, including one clip that directly
+  contradicts the pound-test rule at a matched line class. Tie 4 turns when
+  the leader/top-shot pound test falls in the 20–100 lb bracket (5 under
+  20 lb); absent a stated pound test, 3 turns is what the rest of this source
+  set actually ties. This order is not a ranking.
+
+**Leader length — three distinct rules, each keyed to a different
+constraint:**
+
+- **~2.5–3 ft, a little longer on a longer rod:** ties the same 3-turn knot,
+  trimming tags to about 1/4 in after cinching wet (`lf3S28nh-kk`). The
+  bulky, tag-heavy knot shouldn't have to pass through the rod's smaller top
+  guide on the cast; a longer leader also buffers against needing a full
+  re-tie every time the
+  line near the hook gets chafed (`lf3S28nh-kk`; session context in [Searcher
+  spring bluefin/yellowtail
+  quiver](../tackle/searcher-spring-bluefin-yellowtail-quiver.md#knots-used-this-session)).
+- **4–5 ft:** lets one piece of fluorocarbon be re-tied with a fresh hook
+  multiple times — standard practice after every fish landed — without
+  needing a whole new leader, more economical since fluorocarbon is
+  expensive; the knot itself must still never pass through the guides on the
+  cast. Worked example: a 7 ft rod with the reel seated 18 in above the butt
+  keeps a 5 ft leader's connection 8–12 in below the tip, clear of the guide
+  train (`shZCjX2-fkI`).
+- **"3 to 3½" (unit not stated on camera — could be feet or a
+  rod-length/fathom shorthand), nothing longer:** a longer fluoro leader's
+  bulkier knot tends to get stuck in the rod guides while reeling a caught
+  bait up to the boat — a bait-catching-specific version of the guide-
+  clearance caution above, not the casting-clearance version (`zKovnvOwlFc`).
+- Per-rig leader lengths also logged: 36 in, overlapped 8–10 in before tying,
+  "the proper length" (`PKwvkOOYzto`); 3 ft matched to a 25 lb main line on a
+  kelp-paddy rig (`eZXPqiAtqi8`); 36–40 in on a 60 lb flylined-sardine rig,
+  leaving about 12 in of tag on each side before tying for working slack
+  (`5g7pK63hYnc`); ~4 ft, 100 lb, on a sliding-sinker rig (`zkA1jqHXXD0`).
+
+**Rig applications:**
+
+- Kelp-paddy [dorado](../species/dorado.md)/[yellowfin
+  tuna](../species/yellowfin-tuna.md), 25–40 lb class conventional: 3 ft,
+  25 lb fluoro leader matched to the main line; Owner Live Bait hook, size 1
+  or 1/0 (smaller when bait is running small), tied to the working end with
+  an [improved clinch knot](improved-clinch-knot.md#parameters--judgment) —
+  see [hooks — style, size, and matching to
+  bait](../tackle/hooks.md) (`eZXPqiAtqi8`).
+- Flylined sardine, bluefin/yellowfin tuna: 36–40 in, 60 lb fluoro, sized to
+  match the main line; Owner hook tied to the working end — see
+  [flyline](../techniques/flyline.md) (`5g7pK63hYnc`).
+- Live-bait sinker rig or flylined bait, bluefin tuna: 4–5 ft leader
+  (`shZCjX2-fkI`).
+- Sliding-sinker rig: ~4 ft, 100 lb fluoro to 100 lb mono, same class both
+  sides though the fluoro can run heavier than the main line if wanted; tied
+  on a Fisherman's Landing rental outfit (100 lb mono, two-speed reel, a
+  graphite Calstar rail rod rated 60–120 lb) with a 4/0 Super Mutu circle
+  hook; the sliding sinker rides above this connection, so the knot itself
+  stops it from sliding down onto the hook — see [sliding sinker — tangle
+  prevention, rail-rod rental
   rig](../techniques/sliding-sinker.md#tangle-prevention--rail-rod-rental-rig-captain-art-searchersportfishing)
-  for the rest of this video's content (why sinker rigs tangle and the fix,
-  plus the bait-hooking half of the fix).
-- **Now this note's earliest-dated entry, and a second data point for the
-  "surgeon's loop" naming variant, same presenter as `zkA1jqHXXD0` above
-  (Captain Art, SearcherSportfishing, "Capt Art seminar: fluorocarbon to
-  monofilament connection," `PKwvkOOYzto`, 2013-09-09; `searcher-sportfishing`
-  registered channel — medium confidence, single mention of this specific
-  build):** predates every other citation in this note by at least three and
-  a half years (the next-earliest, `zKovnvOwlFc`, is 2017-05-04, followed by
-  `eZXPqiAtqi8` at 2018-08-09). **Attribution
-  note:** the auto-caption audio has the presenter self-introduce as
-  "Captain Mark," but the human-typed video title credits **"Capt Art"** —
-  per the title-beats-ASR rule, attributed here to Captain Art, the same
-  presenter already logged in `zkA1jqHXXD0` above using the same "surgeon's
-  loop" name for this identical connection; flagged `asr-uncertain` since
-  the two names are not an obvious phonetic match and neither can be fully
-  confirmed from this short clip alone. Build: a **36 in piece of
-  fluorocarbon**, stated as "the proper length," attached to the end of the
-  monofilament main line. Overlap **8 to 10 in** of the two lines together,
-  then tie a simple overhand knot with both lines as one, passing the
-  **entire piece of fluorocarbon through the loop three times** (the
-  on-camera count wavers — "three times... twice... three times" — read as
-  three, the number he states last and most often, and
-  consistent with the 3-turn count already logged for `LpReZmYQSCU`,
-  `5g7pK63hYnc`, and `UfuQr6gOIk8` above rather than Steve Carson's
-  4-turns-at-20–100 lb rule). Pull on either side of the joined lines until
-  it comes tight. **A cinch-check step not stated in the other entries in
-  this note:** after the two pieces are brought together, pull on each side
-  **singularly** (one strand at a time) to confirm the knot is fully seated
-  before moving on. Finish by cutting the tag lines off close, so the
-  connection passes cleanly through the rod guides. No species, line class
-  beyond the 36 in fluoro piece, or application is stated in this 2:24 clip.
+  (`zkA1jqHXXD0`).
+- Fast field re-tie after a break-off: no line class stated, 5 turns
+  (`Aorcd0Om7eI`).
+
+**Strength, mechanism, and speed:** aboard the *Searcher*, this is "our most
+common knot... pretty much the only one we use," tied with 10–12 in of tag on
+each side — longer than a beginner strictly needs, left long so the wraps are
+easy to see while learning. Confident to 60 lb, personally tied to 80 lb, "no
+problem" landing fish on it; beyond that the stated guidance is to switch to
+[crimping](crimping.md) rather than keep tying this knot on heavier line — no
+stated cutoff point on the tie itself. Tightens like a "Chinese finger trap":
+the harder a fish pulls, the tighter the two lines squeeze onto each other
+rather than slipping apart. Ties in under a minute for a first-timer, under
+30 seconds experienced (`zKovnvOwlFc`). Preferred over the uni-to-uni knot
+specifically for speed ("if two bites really good"), even while conceding the
+uni-to-uni looks a little better cosmetically; both are stated as equally
+effective with the same holding strength — see [Uni-to-Uni
+Knot](essential-knots.md#parameters--judgment) for the same clip's
+uni-to-uni demonstration (4 wraps per side) (`zKovnvOwlFc`).
+
+**Why fluorocarbon:** resists bite-through on toothy fish, keeping a hooked
+fish on longer than a straight mono tie would hold; a little clearer and
+lower-stretch (more durable) than mono (`zKovnvOwlFc`).
+
+**Trim and cinch checks:** leave a little extra length on the trimmed tag
+ends rather than cutting flush, in case the knot didn't fully cinch down — a
+caution against slipping after trimming, compatible with the same caution
+logged for the Albright knot in [FG Knot & Albright Knot](fg-and-albright.md)
+(`UfuQr6gOIk8`). Before moving on, pull each strand individually (not just
+both main lines together) to confirm the knot fully seated (`PKwvkOOYzto`).
 
 ## Tie it
 
-How-to videos: [surgeon's knot, mono-fluorocarbon
-connection](https://www.youtube.com/watch?v=LpReZmYQSCU), [surgeon's knot,
-fluorocarbon leader connection](https://www.youtube.com/watch?v=5g7pK63hYnc),
-[surgeon's knot, quick leader retie after a
-break-off](https://www.youtube.com/watch?v=Aorcd0Om7eI), [surgeon's knot,
-mono-to-fluorocarbon connection (Vol.
-133)](https://www.youtube.com/watch?v=UfuQr6gOIk8), [Capt Art seminar:
-fluorocarbon to monofilament
-connection](https://www.youtube.com/watch?v=PKwvkOOYzto) (Captain Art,
-SearcherSportfishing, 2013-09-09), and [Searcher Sportfishing Fluoro to Mono
-Knots](https://www.youtube.com/watch?v=zKovnvOwlFc) (SearcherSportfishing,
-2017-05-04 — also covers the uni-to-uni knot, see [Essential SoCal
-Knots](essential-knots.md#parameters--judgment)).
+How-to videos: [surgeon's knot turn-count
+seminar](https://www.youtube.com/watch?v=9JnIS8HkZlA) (Steve Carson, Penn,
+San Diego Rod & Reel Club, 2023-11-14); [Tackle Tip Thursday Vol. 234 — dart
+lures](https://www.youtube.com/watch?v=TU5quAG4atM) (Steve Carson,
+2024-06-13); [Tackle Tip Thursday Vol. 176 — finesse
+outfit](https://www.youtube.com/watch?v=dg1sbr6GuB8) (Steve Carson,
+2022-04-07); [Tackle Tip Thursday Vol. 167 — all-around
+outfit](https://www.youtube.com/watch?v=fyJA3o2hVh0) (Steve Carson,
+2022-02-03) — the same presenter repeats the pound-test-scaled turn-count
+rule across these four clips; [Tackle Tip Thursday Vol.
+7](https://www.youtube.com/watch?v=eZXPqiAtqi8) (2018-08-09, presenter not
+identified on camera); [Tackle Tip Thursday Vol.
+53](https://www.youtube.com/watch?v=LpReZmYQSCU) (2019-06-19); [Tackle Tip
+Thursday Vol. 83](https://www.youtube.com/watch?v=5g7pK63hYnc) (2020-01-16);
+[Tackle Tip Thursday Vol.
+113](https://www.youtube.com/watch?v=Aorcd0Om7eI) (Wendy, Izorline,
+2020-08-20 — sponsor name captioned "Eiserline," corrected per the same fix
+in [Slim Beauty Knot](slim-beauty-knot.md)); [Tackle Talk Live with Team
+Searcher](https://www.youtube.com/watch?v=lf3S28nh-kk) (2021-03-26); [Tackle
+Talk Live: Bluefin Tuna](https://www.youtube.com/watch?v=shZCjX2-fkI)
+(Captain Armando, 2021-01-14); [Tackle Tip Thursday Vol.
+133](https://www.youtube.com/watch?v=UfuQr6gOIk8) (Ryan, 2021-01-07);
+[Tackle Tip Thursday Vol. 181 — avoid sinker rig
+tangles](https://www.youtube.com/watch?v=zkA1jqHXXD0) (Captain Art,
+2022-05-12); [Capt Art seminar: fluorocarbon to monofilament
+connection](https://www.youtube.com/watch?v=PKwvkOOYzto) (2013-09-09 —
+self-introduced on camera as "Captain Mark," credited Capt Art per the
+human-typed title, matching the presenter in the 2022-05-12 clip above;
+`asr-uncertain`, the two names are not an obvious phonetic match); and
+[Searcher Sportfishing Fluoro to Mono
+Knots](https://www.youtube.com/watch?v=zKovnvOwlFc) (2017-05-04 — presenter
+not resolved from audio, `asr-uncertain`; also covers the uni-to-uni knot,
+see [Essential SoCal Knots](essential-knots.md#parameters--judgment)). All
+except the first (a San Diego Rod & Reel Club seminar) carry a
+SearcherSportfishing byline.
 
 <!-- backlinks:start -->
 ## Linked from
