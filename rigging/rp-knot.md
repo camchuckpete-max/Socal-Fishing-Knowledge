@@ -163,4 +163,5 @@ Knots](essential-knots.md#tie-it) for those multi-knot clips.
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
 <!-- backlinks:end -->
