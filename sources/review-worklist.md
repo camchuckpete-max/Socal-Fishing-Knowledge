@@ -826,4 +826,6 @@ by their builders after the transform phase drains.
 | locations/newport-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/cedros-island-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/ensenada-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/209-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/43-san-clemente-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

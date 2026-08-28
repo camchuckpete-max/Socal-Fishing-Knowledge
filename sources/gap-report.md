@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2232 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
+_Totals: 2233 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
 
 ## species/
 
@@ -437,6 +437,11 @@ _Totals: 2232 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
   - `Parameters`: gap
 - **rigging/pr-knot.md**
   - `When to use`: gap — wrap count, line class, or a step-by-step
+
+## conditions/
+
+- **conditions/bird-reading.md**
+  - `Boobies`: gap — what booby behavior
 
 ## locations/
 
