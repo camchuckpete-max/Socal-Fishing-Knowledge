@@ -840,4 +840,11 @@ by their builders after the transform phase drains.
 | locations/san-onofre.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/oceanside.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/west-of-catalina.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/isaac-s-reef.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/long-rock-santa-ana-river-pipe.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/rat-s-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/rocky-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-clemente-island-desperation-point.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/shark-fin-flat-rock.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/torrance-beach.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

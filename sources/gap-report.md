@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2236 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
+_Totals: 2239 flagged gaps, 347 flagged stubs, 1042 unknown infobox values._
 
 ## species/
 
@@ -451,6 +451,11 @@ _Totals: 2236 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
 
 - **seasonal/april.md**
   - `Coronado yellowtail — "seeing-not-biting" (`YZtX1MiT0y8`)`: gap
+
+## bait/
+
+- **bait/bait-tanks.md**
+  - `Turnover, pump sizing, and aeration`: gap
 
 ## locations/
 
@@ -1591,6 +1596,10 @@ _Totals: 2236 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
   - infobox `structure_type`: unknown
   - infobox `depth_band`: unknown
   - infobox `distance_nm`: unknown
+- **locations/bass-structure.md**
+  - `Getting there`: gap — transit/launch detail (not applicable
+  - `What's there`: gap — zone-by-zone seasonal timing on bass
+  - infobox `parent`: unknown
 - **locations/beacons.md**
   - `Getting there`: gap — the run, the approach, and where to start.
   - `Structure & bathymetry`: gap — depth, bottom composition, and how it sits relative to the rest of the zone.
