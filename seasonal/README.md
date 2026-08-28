@@ -18,7 +18,7 @@ into May — plan from the regime note and the live water, not the calendar.
 - [May](may.md) **[SoCal only]** — Regime: warming transition — typical-year mapping; in an anomalous year trust the live water, not the calendar.
 - [November–December](november-december.md) **[SoCal only]** — Regime: fall fragmentation → winter / upwelling onset — typical-year mapping; in an anomalous year trust the live water, not the calendar.
 - [October](october.md) **[SoCal only]** — Regime: fall fragmentation — typical-year mapping; in an anomalous year trust the live water, not the calendar.
-- [September](september.md) **[SoCal only]** — Regime: warm stable (late) — typical-year mapping; in an anomalous year trust the live water, not the calendar.
+- [September](september.md) — Regime: warm stable (late) — typical-year mapping; in an anomalous year trust the live water, not the calendar.
 - [Year-Anniversary Prior](year-anniversary-prior.md) **[SoCal only]** — This is a prior — a pattern-layer heuristic, not current intel.
 
 ### Subfolders

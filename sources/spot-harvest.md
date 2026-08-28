@@ -479,4 +479,6 @@ harvested.
 | San Clemente Island | seasonal/october.md | The warm band tracks and condenses | the warm band hooks around to Clemente at the end of the October track | `OYOda6T3f-8` |
 | Tanner Bank | seasonal/october.md | The warm band tracks and condenses | as the coast cools and fragments, October bluefin condense outward to Tanner | `OYOda6T3f-8` |
 | Cortez Bank | seasonal/october.md | The warm band tracks and condenses | as the coast cools and fragments, October bluefin condense outward to Cortez | `OYOda6T3f-8` |
+| Santa Barbara Island / "Nick" (San Nicolas) / San Clemente / Catalina — the "square" | seasonal/september.md | The volume square holds the bigger bluefin | September volume square, weighted for the bigger bluefin | `5to3Q5P7w90` |
+| Bahía de los Ángeles (BOLA) | seasonal/september.md | Baja / BOLA — yellowtail hold on the bottom | September yellowtail sit on the bottom, worked with dropper loops and yo-yo iron | cameron |
 <!-- review:harvest:end -->
