@@ -303,6 +303,7 @@ does the lookup.
 - [Foamer Casting](../techniques/foamer-casting.md)
 - [Glide Baits](../techniques/glide-baits.md)
 - [Guadalupe](../locations/guadalupe.md)
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Hoop Netting](../techniques/hoop-netting.md)
 - [HOW Co Split-Ring Pliers — One Pair Across the Size Range (Tackle Express)](tackle-express-how-co-split-ring-pliers.md)
 - [Inshore Crankbaits](../techniques/inshore-crankbaits.md)

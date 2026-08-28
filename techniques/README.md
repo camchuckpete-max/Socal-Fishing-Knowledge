@@ -32,7 +32,7 @@
 - [Panga Team Trolling — Follow-Up Cast on a Troll Hookup](panga-team-trolling.md) **[Baja only]** — A 3-angler panga program for yellowtail: the moment one of two trolled rods gets bit, the crew's other anglers work the same water instead of only fighting the
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](rail-etiquette.md) — Rail etiquette is the verbal counterpart to windward-side rail positioning: where that note is the mechanism for where your body and line go, this is what to sa
 - [Rockfish Deep-Dropping](rockfish-deep-dropping.md) **[SoCal only]** — Put a bait or jig on hard bottom in deep water, hold the zone against the drift, and keep off the snag.
-- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md) — (Fred, SearcherSportfishing, "Tackle Tip Thursday Vol.
+- [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](rod-handling-live-bait.md) — Baseline rod-handling for soaking a live bait off the rail, aimed at newer anglers: hold the rod in the off hand, keep a thumb ready on the lever, and feed line
 - [Skip Jigging](skip-jigging.md) — Skip jigging is a topwater cast-and-burn presentation: instead of swimming a lure through the water column, the lure is made to skip and skitter ACROSS the surf
 - [Sliding Sinker](sliding-sinker.md) — Execution for the sliding-sinker (Carolina) rig: the weight rides free on the main line above a swivel, and a leader runs from the swivel to the hook, so a fish
 - [Slow-Pitch Jigging (SPJ)](slow-pitch-jigging.md) — Work an asymmetric metal jig so it flutters on the fall like a wounded, dying baitfish — the fall is the trigger, not the retrieve.

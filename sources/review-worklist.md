@@ -63,7 +63,7 @@ by their builders after the transform phase drains.
 | techniques/panga-team-trolling.md | standard | transformed | gap(common-failures) | attribution preamble moved to machine layer, added Gear class + Common failures + species-applications, infobox fields added |
 | techniques/rail-etiquette.md | standard | transformed | gaps(1) | attribution preamble split to evidence file, plain-statement rewrite, v2 skeleton sections added, all claims traced to source |
 | techniques/rockfish-deep-dropping.md | standard | transformed | asr-uncertain(SoCal depth range, sinker oz rendering, bait product name) | restructured to v2 skeleton, consolidated sinker-weight table; verifier fixed systemic mis-citation of ~16 claims to correct source transcripts, one fabricated depth-weight pairing, restored 2 dropped cross-links |
-| techniques/rod-handling-live-bait.md | standard | pending |  |  |
+| techniques/rod-handling-live-bait.md | standard | transformed | asr-uncertain(backpedal hand/arm motion gestured on camera) | migrated to v2 skeleton, attribution moved to evidence file, cites added; verifier confirmed 3/3 transcript spot-checks, regenerated backlinks |
 | techniques/skip-jigging.md | standard | pending |  |  |
 | techniques/sliding-sinker.md | standard | pending |  |  |
 | techniques/slow-pitch-jigging.md | standard | pending |  |  |
