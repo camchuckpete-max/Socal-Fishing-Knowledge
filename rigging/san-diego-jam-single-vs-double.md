@@ -5,49 +5,44 @@ sources: [6T3xZ9vufrM]
 confidence: medium
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+line_class: double tie — heavy pound test lure line (100 lb example); single tie — live-bait hook line, class not stated
+hook_sizes: unknown — no hook size stated in this corpus
 ---
 
 # San Diego Jam — Single vs. Double, and When to Use Each
 
 A sub-decision inside the [San Diego jam knot](san-diego-jam-knot.md) family:
-once you can tie the doubled-through-the-eye version, when do you use the
-single instead? Captain Art of SearcherSportfishing answers a viewer question
-on this directly (Tackle Tip Thursday Vol. 182, `6T3xZ9vufrM`, 2022-05-19) —
-the companion piece to the "double jam knot" naming and application rule
-already logged in [san-diego-jam-knot.md](san-diego-jam-knot.md#parameters--judgment),
-which named the single as the live-bait alternative without demonstrating it.
+once the doubled-through-the-eye tie is mastered, the single-pass version
+replaces it for live bait. The choice turns on knot bulk — the doubled tie
+runs roughly three times the size of the single on the same hook — which
+costs a live bait its presentation but doesn't matter on a lure
+(`6T3xZ9vufrM`).
 
-## When to use it
+## When to use
 
-- **Double San Diego jam — lures, heavy line.** Doubling the line all the way
-  through the lure's eye before wrapping makes for what the presenter calls
-  "probably a pretty strong knot" — good for heavy pound test on a lure
-  (demonstrated on a flat-fall). Some anglers prefer it on a lure specifically
-  for the extra line running through the eye, though a single ties fine there
-  too.
-- **Single San Diego jam — live bait hooks.** Use the single tie on a live
-  bait hook, not the double.
+- **Double San Diego jam — lures, heavy pound test.** Doubling the line all
+  the way through the lure's eye before wrapping builds what stands as
+  "probably a pretty strong knot," demonstrated on a flat-fall
+  (`6T3xZ9vufrM`). Some anglers prefer it on a lure specifically for the
+  extra line running through the eye, though a single ties fine there too
+  (`6T3xZ9vufrM`).
+- **Single San Diego jam — live-bait hooks.** Tie the single on a live bait
+  hook, never the double (`6T3xZ9vufrM`).
 
-## Parameters & judgment
+## Parameters
 
-- **Stated reason (Captain Art, SearcherSportfishing, `6T3xZ9vufrM`,
-  2022-05-19; unregistered channel, single mention — medium confidence):**
-  side by side on the same hook, the doubled San Diego jam knot is visibly
-  about **three times the size** of the single. Tying the double onto a live
-  bait hook asks the bait to drag around both the oversized knot and a
-  correspondingly bigger hook and heavy (his example: 100 lb) line — and
-  "probably the fish is gonna see that." The single avoids both problems,
-  which is why it is the live-bait-hook default.
-- This is the trigger → choice → reason pattern named on camera: the trigger
-  is presentation drag/visibility on a live bait, the choice is single over
-  double, the stated reason is bulk and fish spooking off the knot.
-- **Fills a flagged gap:** the companion "double jam knot" entry in
-  [san-diego-jam-knot.md](san-diego-jam-knot.md#parameters--judgment) (SearcherSportfishing,
-  `5J7a6UwTA90`, 2022-05-26) names the single jam knot as the live-bait
-  alternative but doesn't construct it — that gap is filled here. Tying
-  mechanics for both the single-pass and doubled-through-the-eye versions are
-  in [san-diego-jam-knot.md](san-diego-jam-knot.md#parameters--judgment); this note
-  only adds the selection rule and its stated reason.
+- Side by side on the same hook, the doubled tie runs about **three times
+  the size** of the single (`6T3xZ9vufrM`).
+- Mechanism: doubling the tie on a live-bait hook stacks bulk onto bulk — the
+  oversized knot, a correspondingly bigger hook, and heavier line (100 lb in
+  the demonstrated example) — which adds drag on the bait and makes the rig
+  more visible to the fish. That is why the single is the live-bait-hook
+  default (`6T3xZ9vufrM`).
+- [San Diego Jam Knot](san-diego-jam-knot.md#parameters) names the single as
+  the live-bait alternative without constructing it (`5J7a6UwTA90`); tying
+  mechanics for both the single-pass and doubled-through-the-eye versions
+  live there. This note holds only the selection rule and its reason.
 
 <!-- backlinks:start -->
 ## Linked from
