@@ -403,4 +403,5 @@ harvested.
 | Osborn Bank | rigging/rubber-band-deep-rig.md | evidence — Tag-end sinker attachment | tag-end sinker attachment segment cut into a morning bite where sardine fished 60–70 ft "on the sink" produced bluefin | `i3qIAHW-SJc` |
 | Santa Barbara Island | rigging/rubber-band-deep-rig.md | evidence — Tag-end sinker attachment | locates Osborn Bank as near Santa Barbara Island for the same bluefin bite | `i3qIAHW-SJc` |
 | Guadalupe Island | rigging/surgeons-loop.md | Parameters | bottom dropper-loop application for yellowtail with a 16 oz sinker and 6/0-7/0 hook on a nose-hooked sardine, on an 80-100 lb-class outfit | `zuAuk-Kfa1Y` |
+| Catalina Island | rigging/trap-rig.md | When to use | shallow-water halibut drift-fished with the trap rig | `qIKGJSEE2aY` |
 <!-- review:harvest:end -->
