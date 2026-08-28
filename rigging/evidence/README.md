@@ -10,6 +10,7 @@
 - [Evidence — Crimping — Sleeve Crimps for Heavy Leaders](crimping.md) — Per-source provenance backing Crimping — Sleeve Crimps for Heavy Leaders.
 - [Evidence — Double Trouble Rig](double-trouble-rig.md) — Per-source provenance backing Double Trouble Rig.
 - [Evidence — Essential SoCal Knots](essential-knots.md) — Per-source provenance backing Essential SoCal Knots.
+- [Evidence — FG Knot & Albright Knot](fg-and-albright.md) — Per-source provenance backing FG Knot & Albright Knot.
 <!-- index:end -->
 
 

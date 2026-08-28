@@ -108,7 +108,7 @@ by their builders after the transform phase drains.
 | rigging/double-trouble-rig.md | standard | transformed | spots(2) | transform verified clean: full conservation, 4 transcript spot-checks passed, only fix was a missed link-maintenance regen |
 | rigging/dropper-loop-knot-and-spider-hitch.md | standard | transformed | none | transform verified clean: presenter-framing removed, cites added, all parameters and the halibut-rig ambiguity note conserved |
 | rigging/essential-knots.md | standard | transformed | asr-uncertain(worm knot ~10-wrap count, uneven on-camera tally, mpcSgkQvIzg) | transform verified, one conservation gap fixed (restored dropped Palomar line-loss detail to evidence) |
-| rigging/fg-and-albright.md | standard | pending |  |  |
+| rigging/fg-and-albright.md | standard | transformed | none | transform verified, conservation intact (all params + variant provenance traced to note or new evidence file), one v2.1 self-narration phrase fixed in place |
 | rigging/flying-fish-harness.md | standard | pending |  |  |
 | rigging/haywire-twist.md | standard | pending |  |  |
 | rigging/hollow-splice-and-serving.md | standard | pending |  |  |
