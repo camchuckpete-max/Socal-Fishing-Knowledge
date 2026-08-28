@@ -18,6 +18,7 @@
 - [Evidence — PR Knot — Bobbin-Tied Braid-to-Leader Connection](pr-knot.md) — Per-source provenance for PR Knot, including the duplicate/re-cut relationship across four video ids that are very likely one interview appearance.
 - [Evidence — RP Knot — Braid-to-Fluoro/Mono Connection (Royal Polaris)](rp-knot.md) — Per-source provenance for RP Knot.
 - [Evidence — Rubber-Band Deep Rig](rubber-band-deep-rig.md) — Trip reports and per-source provenance for rubber-band-deep-rig.md.
+- [Evidence — Wiring a Surface Iron](wiring-a-surface-iron.md) — Per-source provenance backing Wiring a Surface Iron.
 <!-- index:end -->
 
 

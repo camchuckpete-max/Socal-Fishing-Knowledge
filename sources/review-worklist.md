@@ -130,7 +130,7 @@ by their builders after the transform phase drains.
 | rigging/trap-rig.md | standard | transformed | spots(1) | transform verified faithful - both applications parameters, judgment, and citations conserved; anchor link to sliding-sinker.md renamed heading confirmed valid; spot-harvest row and README index in sync |
 | rigging/tuna-feather-rig.md | standard | transformed | none | transform applied with one conservation fix (restored dropped lure-variety fact) |
 | rigging/wind-on-leader.md | standard | transformed | none | transform verified faithful - plain-statement rewrite, v2 infobox added, all cites and parameters conserved, quotes verified against source transcripts |
-| rigging/wiring-a-surface-iron.md | standard | pending |  |  |
+| rigging/wiring-a-surface-iron.md | standard | transformed | gaps(1) | transform verified, one meaning-drift fix applied (candy-bar exclusivity degree restored) |
 | conditions/bird-reading.md | standard | pending |  |  |
 | conditions/current-diagnostics.md | standard | pending |  |  |
 | conditions/current-structure.md | standard | pending |  |  |

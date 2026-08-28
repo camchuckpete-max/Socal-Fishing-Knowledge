@@ -5,196 +5,168 @@ sources: [764kFzACKTc, XyKF34C5iB4, N24NBweNK4o]
 confidence: medium
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
+layout: v2
+line_class: unknown — wire itself carries no lb-test rating in the corpus (single-strand stainless, described as "piano wire"); adjacent connector hardware is rated 20-75 lb (clips) and ~30 lb (swivel) — see Doctrine & conflicts
+hook_sizes: not applicable — a jig-to-line connection, not a hook tie
 ---
 
 # Wiring a Surface Iron
 
-A **short single-strand wire link between the ring/clip and the nose of the
-iron**, in place of tying the line straight to the jig. It is not a bite
-leader and has nothing to do with toothy fish — the wire is there to change
-the jig's **action**, and it is reached for on a specific condition:
-**slack or slow current**.
+A short single-strand wire link tied between the ring/clip and the nose of
+the iron, replacing a straight tie from the main line to the jig. It is not
+a bite leader and has nothing to do with toothy fish: the wire changes the
+jig's swimming action, and it is reached for on one specific condition —
+slack or slow current (`764kFzACKTc`). The connection itself is the
+[haywire twist](haywire-twist.md); this note owns when and why to wire a
+surface iron, and the surface-iron-specific parameters.
 
-Doctrine here is **Dan Wade** (via Strictly Irons, `764kFzACKTc`, 2021-01-28).
-**`dan-wade` is a registered voice** ([source registry](../sources/source-registry.md),
-promoted by Cameron 2026-08-17) — but this is a **single mention**, the only
-wiring video in the corpus, so it stays `medium` under the repeated-doctrine
-rule rather than under the unregistered-channel cap it previously sat beneath.
-A second source on wiring would lift it. The
-connection itself is the [haywire twist](haywire-twist.md); this note owns
-**when and why to wire**, and the surface-iron-specific parameters.
+## When to use
 
-## Reach for this when
+- **No current, or slow current — the primary, repeatedly stated trigger.**
+  Wiring is a change-up, not default rigging: *"if the lure swings fine just
+  the way it is, leave it alone"* (`764kFzACKTc`).
+- **The jig has the right action but isn't sharp enough.** Not a jig that
+  swims wrong — one that swims acceptably and needs more (`764kFzACKTc`).
+- **Fish are showing but not committing.** The field read: fish moving
+  around behind the jig, *"mimicking your lure on the way in"* — tracking it
+  without eating (`764kFzACKTc`).
+- **Chop.** Wiring helps hold a jig in the water in choppy conditions —
+  named most for the candy-bar profile and the JRI 7, and (asr-uncertain)
+  possibly a 5X-class iron (`764kFzACKTc`). ⚠ Flagged gap — no corpus
+  source: mechanism for why wire helps specifically in chop.
+- **Counter-case:** if the jig is already swinging right, wiring it is a
+  change for no reason (`764kFzACKTc`).
 
-- **There is no current, or the current is slow.** This is the primary and
-  repeatedly stated trigger. Wade's own framing: *"if the lure swings fine
-  just the way it is, leave it alone"* — wiring is a change-up, not a default
-  rigging.
-- **The jig has the right action but it isn't sharp enough.** Not a jig that
-  swims wrong — a jig that swims *acceptably* and needs more.
-- **The fish are showing but not committing.** His stated field read: fish
-  moving around behind the jig, *"mimicking your lure on the way in"* — they
-  track it and don't eat. That is the classic wire situation.
-- **Chop.** Asked directly whether wiring helps hold a jig in the water in
-  choppy conditions, he agreed it does, naming the candy-bar profile and the
-  **JRI 7** (and, asr-uncertain, a 5X-class iron) as the styles it helps most.
-  Single mention, no mechanism given.
+## Parameters
 
-The counter-case is equally explicit: if the jig is already swinging right,
-wiring it is a change for no reason.
+- **Candy bars are wired almost exclusively, bordering on exclusively** —
+  original and current-production bars alike (`764kFzACKTc`). Wiring isn't
+  jig-specific though: Tady, Salas, and
+  JRI irons are all named as fair game, with the condition and the jig's own
+  behavior deciding, not the brand (`764kFzACKTc`). Bartender and
+  Powerhouse jigs got the same treatment historically (`764kFzACKTc`). Jig
+  specs and the class lexicon: [iron jigs](../lures/iron-jigs.md).
+- **Wire: single-strand stainless**, AFW Toothproof or Mason, described as
+  essentially piano wire (`764kFzACKTc`).
+- **~2 ft of wire per jig.** A 25-40 ft spool runs $3-4, covering many dozens
+  of rigs — no case for nursing a used one (`764kFzACKTc`).
+- **Historic contrast:** the practice dates to an era of much stiffer
+  monofilament, when Beecham wire — steel, not stainless — was the standard.
+  Steel's failure mode is why the cut-it-off rule below exists: rigged and
+  left unfished for a couple of weeks with no inspection, it breaks on the
+  cast. San Diego sportfishing landings sold packaged wire leaders over the
+  counter in the linen-line era; fifty years ago, wiring irons was standard
+  practice (`764kFzACKTc`).
+- **Both ends terminate with a [haywire twist](haywire-twist.md)**, which
+  owns the general tying parameters. Two points specific to this
+  application:
+  - **Turn count, not length.** This build works by count — about five or
+    six mutual twists, then five or six finishing wraps — where the
+    wahoo-leader haywire-twist doctrine works by length (1-1.5 in) and
+    explicitly avoids counting. A short jig link and a long trolling leader
+    are different jobs, not conflicting parameters for the same one
+    (`764kFzACKTc`).
+  - **Strength sits in the wrapped section**, not the loop or the finish,
+    consistent with [haywire twist](haywire-twist.md#parameters) — the
+    finish only tidies the tag (`764kFzACKTc`).
+  - **Break the tag, don't cut it.** A cut tag leaves an edge that lays
+    fingers open; bend it to 90° and work it back and forth until it snaps
+    (`764kFzACKTc`).
 
 ## Why it works — the mechanism
 
-The wire acts as a **universal joint** between the line and the jig:
+The wire acts as a universal joint between the line and the jig: *"it's
+like a u-joint in your car… it's just more freedom of movement"*
+(`764kFzACKTc`). A direct tie into the ring holds the ring steady, so the
+jig's swing pivots against a fixed point; the wire link removes that
+constraint, and the same jig at the same retrieve speed swings sharper and
+wider — enough that a marginal jig starts working (`764kFzACKTc`). This
+holds at very slow retrieve speeds, which is why it pairs with slack
+current: slow water means slow, unhurried fish, while moving water means
+fish already on the move (asr-uncertain on the caption's exact adjective;
+the contrast itself is unambiguous) (`764kFzACKTc`).
 
-> *"It's like a u-joint in your car… it's just more freedom of movement."*
+This connects to the general retrieve doctrine in [surface
+iron](../techniques/surface-iron.md): winding fast isn't the goal, winding
+at the speed the fish want is — wiring buys a working swim at the bottom of
+that speed range.
 
-The stated contrast is with a direct tie: a line knotted into the ring
-**holds the ring steady**, so the jig's swing pivots against a fixed point.
-The wire link removes that constraint, and the same jig at the same retrieve
-speed produces a **sharper, wider swing** — enough that a jig that only just
-works starts working. Crucially he claims this holds **at very slow speeds**,
-which is why it pairs with slack current: slow water means slow, unhurried
-fish, and moving water means fish already on the move (the caption garbles the
-adjective — the contrast is unambiguous, the exact word is not).
-
-This connects to the general retrieve doctrine in
-[surface iron](../techniques/surface-iron.md): you do not have to wind fast to
-catch fish, you have to wind at the **right** speed, and the fish tell you
-what that is. Wiring is what buys you a working swim at the bottom of that
-speed range.
-
-**Observed** (Strictly Irons / Dan Wade, 2021-01-28, SoCal sportboats): on
-boats where nothing was going on the surface because the current was backed
-up, he wired a candy bar, put it down, and *"knocked down five or six"* while
-others were not fishing wire at all. He notes plainly that **few people wire
-jigs any more**, which is part of why it still works as an edge.
-
-## Which jigs
-
-- **Candy bars are the recommended jig to wire** — he wires them *"almost
-  exclusively, maybe exclusively."* Both the original bars and current
-  production.
-- **It is not jig-specific though:** Tady, Salas, and JRI irons are all named
-  as fair game (*"it doesn't matter what it is"*). The selection rule is the
-  condition and the jig's behaviour, not the brand.
-- Historically the same treatment was applied to **Bartender** and
-  **Powerhouse** jigs.
-
-Jig specs and the class lexicon live in [iron jigs](../lures/iron-jigs.md).
-
-## The wire itself
-
-- **Single-strand stainless** — the video works with **AFW Toothproof** and
-  **Mason** wire, described as essentially **piano wire**.
-- **~2 ft per jig.** A **25–40 ft** spool runs **$3–4**, so a spool is many
-  dozens of rigs and there is no economic case for nursing a used one.
-- **Historic contrast:** the practice dates from an era of much **stiffer
-  monofilament**, when **Beecham** wire was the standard — and that was
-  **steel**, not stainless. Steel's failure mode is why the cut-it-off rule
-  below exists: leave it rigged, don't fish for a couple of weeks, don't
-  inspect it, and it breaks on the cast. San Diego sportfishing landings sold
-  **packaged wire leaders** over the counter back in the linen-line days;
-  fifty years ago wiring irons was simply standard practice.
+Wired candy bars out-produced unwired jigs on boats where slack current had
+killed surface activity (`764kFzACKTc`; [evidence](evidence/wiring-a-surface-iron.md)).
+Few anglers wire jigs any more, which is part of why it still works as an
+edge (`764kFzACKTc`).
 
 ## Maintenance & failure modes
 
-- **Cut the wire off when you are done fishing.** Stated as the one firm
-  recommendation in the video — *"one thing I will not recommend is leaving it
-  on your jig."* Reasons given: it kinks, and it rusts.
-- **A kink is the break point.** The wire must **hang dead straight** off the
-  jig. Any coil or sharp bend is where it will fail under load, and it fails on
-  the cast or on a fish.
-- **What kinks it, in practice:** a **gaff wrapping around it** at the boat;
-  the **fish thrashing** once it's in the box; and on a sportboat, a
-  **deckhand wrapping a hand in the wire** to control the fish — which either
-  cuts the deckhand or kinks the wire, and often both.
-- **Replace it on a schedule, not on inspection alone.** After roughly
-  **five or six yellowtail** on one wire, plan on changing it.
-
-## The connection
-
-Both ends — ring and jig — are terminated with a **[haywire
-twist](haywire-twist.md)**, which owns the tying parameters and the two
-variations Wade demonstrates (he prefers the tighter first version; the second
-makes a bigger loop). Two points from this video that belong to the
-surface-iron application:
-
-- **Turn count vs. length.** Wade works by **count** — about **five or six**
-  mutual twists, then **five or six** finishing wraps — where the wahoo-leader
-  doctrine already in [haywire twist](haywire-twist.md) says to go by
-  **length** (an inch to an inch and a half) and explicitly *not* to count.
-  Kept side by side, attributed: these are a short jig link and a long
-  trolling leader, not the same job.
-- **Where the strength is.** Wade's stated holding factor is the section where
-  the two wires are **wrapped around each other**, not the loop and not the
-  finish — consistent with the existing note. The finish is there to tidy the
-  tag and keep it off your fingers.
-- **Break the tag, never cut it.** Same doctrine as the existing note: a cut
-  tag leaves an edge that *"will lay your fingers open."* Bend to 90° and spin
-  it back and forth until it snaps.
+- **Cut the wire off when done fishing** — the one firm recommendation in
+  the source: *"one thing I will not recommend is leaving it on your jig."*
+  It kinks, and it rusts (`764kFzACKTc`).
+- **A kink is the break point.** The wire must hang dead straight off the
+  jig; any coil or sharp bend fails under load, on the cast or on a fish
+  (`764kFzACKTc`).
+- **What kinks it in practice:** a gaff wrapping around it at the boat, a
+  boxed fish thrashing, or a deckhand wrapping a hand in the wire to control
+  a fish on a sportboat — which either cuts the deckhand, kinks the wire, or
+  both (`764kFzACKTc`).
+- **Replace on a schedule, not by inspection alone** — after roughly five or
+  six yellowtail on one wire (`764kFzACKTc`).
 
 ## Doctrine & conflicts
 
-- **Wire vs. a split ring / front ring — Wade's position, with his own
-  caveat.** Some jig makers and anglers add a small ring at the nose of the
-  iron to get the same free pivot. He does **not** think it works as well as
-  wire, and says outright he **cannot explain the difference** — his guess is
-  that the wire is simply **smaller**, with less hardware in the way. Recorded
-  as his stated preference with his own uncertainty attached, not as
-  established mechanism. No source in the corpus argues the other side yet.
-- **Clip vs. tie-direct on a surface iron — a live, three-way split (Time On
-  The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered channel — medium
-  confidence).** Kept side by side, not reconciled — none of these three
-  address wire specifically, but they answer the adjacent question of
-  whether *anything* (wire, split ring, or a clip) should sit between the
-  leader and the iron at all:
-  - **A clip for quick changes, including on the iron itself.** One
-    panelist fishes clips sized **20 lb, 30 lb, 50 lb, and 75 lb**, and runs
-    the **75 lb clip specifically on his surface iron** — his stated
-    reasoning is pure convenience (swapping between a surface iron, a jerk
-    bait, a rig, or a swimbait quickly) and he's explicit that if a fish
-    breaks the 75 lb clip, "so be it, let them swim away."
-  - **Tie direct on the iron, clip everywhere else.** A second panelist
-    fishes a clip on his swim-jig applications but **ties straight to the
-    ring on a surface iron** — a personal-preference call, not tied to
-    breaking strength.
-  - **Tie direct on any bait with a single pivot point (jigs, swimbaits),
-    clip on hard baits.** A third panelist fishes a clip on hard baits
-    (crankbaits, jerk baits) specifically for fast color changes, but
-    direct-ties jigs and swimbaits — his stated reason: a clip adds a
-    **second pivot point** to a bait that already pivots at the hook/head,
-    and around rocks that extra play is enough to bother him even though he
-    calls it a "marginal" difference. Framed on camera as an overthinking
-    habit he's aware of, not a claim the clip actually fails mechanically.
-- **Swivel on a small, hard-fluttering iron — an anti-twist fix, not an
-  action fix (Tackle Express, `N24NBweNK4o`, 2026-03-28; unregistered
-  channel — medium confidence).** For a small "mini" surface-iron-style jig
-  (a light jig-style bait, smaller than the standard-class irons this note
-  otherwise covers), the stated recommendation is to add a **high-quality
-  swivel directly onto the split ring at the nose/top of the bait**, right
-  out of the box. Named options: **Owner** or **VMC** — VMC's is called out
-  as "fantastic" — roughly a **#6, maybe 30 lb** swivel. The only reason
-  given on camera is that the bait **"really flutters"** — the clip ends
-  there and never says the word "twist." Read against a swivel's ordinary
-  job (letting the terminal end spin free of the main line), the implied
-  purpose is anti-twist hardware for a bait that flutters/spins hard, not
-  an action-softening pivot the way Wade's wire link is above — but that
-  mechanism is this note's inference, not a stated claim, and is flagged as
-  such rather than folded into the speaker's words. **Duplicate
-  footage:** the same 33-second clip was re-uploaded by the same channel as
-  `auiXY0R9ri8` ("Stop losing fish! The essential upgrade for your mini
-  iron," 2026-03-14) — identical content, not independent confirmation;
-  logged once here.
+- **Wire vs. a nose ring.** Some jig makers add a small ring at the iron's
+  nose for the same free pivot; wire is rated better, though the reason
+  isn't established — likely just smaller, with less hardware in the way.
+  Stated as a preference with the uncertainty attached, not a confirmed
+  mechanism; no corpus source argues the other side yet (`764kFzACKTc`).
+- **Clip vs. tie-direct vs. nothing between the leader and a surface iron —
+  a three-way split on one panel.** None of the three address wire
+  specifically, but each answers whether anything (wire, ring, or clip)
+  belongs between the leader and the iron at all (`XyKF34C5iB4`). The
+  choice turns on priorities, not knot strength: fast lure-swapping favors a
+  clip, single-pivot purity on a jig favors a direct tie.
+  - A 75 lb clip run specifically on a surface iron, chosen purely for the
+    convenience of swapping fast between a surface iron, a jerkbait, a rig,
+    and a swimbait — accepting that a fish breaking a 75 lb clip is one that
+    gets to swim away. The same angler runs 20/30/50/75 lb clips generally
+    (`XyKF34C5iB4`).
+  - A direct tie on a surface iron specifically, with a clip everywhere else
+    — a personal-preference call, not tied to breaking strength
+    (`XyKF34C5iB4`).
+  - A direct tie on any single-pivot bait (jigs, swimbaits), reserving a
+    clip for hard baits that need fast color changes — the stated reason is
+    that a clip adds a second pivot point to a bait that already pivots at
+    the hook/head, and the extra play around rocks is enough to bother this
+    angler even while calling it "marginal." Framed on camera as
+    self-aware overthinking, not a claim the clip actually fails
+    (`XyKF34C5iB4`).
+- **A swivel on a small, hard-fluttering "mini" iron** — a lighter jig-style
+  bait than the standard-class irons this note otherwise covers — gets a
+  high-quality swivel (Owner or VMC, roughly #6, ~30 lb) added directly to
+  the nose split ring, right out of the box (`N24NBweNK4o`). The stated
+  reason is only that the bait "really flutters"; the source never says
+  "twist." Read against a swivel's ordinary job — letting the terminal end
+  spin free of the main line — the implied purpose is anti-twist hardware
+  for a hard-spinning bait, not the action-softening pivot wire gives above;
+  that reading is inference here, not a stated claim. Duplicate footage: the
+  same clip was re-uploaded as `auiXY0R9ri8`, not independent confirmation.
 
 ## Rig it
 
-Video: https://www.youtube.com/watch?v=764kFzACKTc
+Video: [Strictly Irons — Dan Wade wires a surface
+iron](https://www.youtube.com/watch?v=764kFzACKTc) (2021-01-28); [Time On
+The Water — clip vs. tie-direct
+panel](https://www.youtube.com/watch?v=XyKF34C5iB4) (2025-04-19); [Tackle
+Express — mini iron swivel upgrade](https://www.youtube.com/watch?v=N24NBweNK4o)
+(2026-03-28).
 
+## Evidence
+
+Per-source provenance: [evidence file](evidence/wiring-a-surface-iron.md).
 
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Wiring a Surface Iron](evidence/wiring-a-surface-iron.md)
 - [Iron Jigs](../lures/iron-jigs.md)
 - [Surface Iron](../techniques/surface-iron.md)
 <!-- backlinks:end -->
