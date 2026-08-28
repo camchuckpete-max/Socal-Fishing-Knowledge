@@ -828,4 +828,14 @@ by their builders after the transform phase drains.
 | locations/ensenada-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/209-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/43-san-clemente-island.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/14-mile-bank-la.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/302-bank.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/9-mile-bank-sd.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/avalon.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/catalina.md | gazetteer | pending |  | harvest: 3 mention(s) |
+| locations/east-end-of-catalina.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/la-jolla-nw-corner.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/mexican-rockpile.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-diego-bay-entrance.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/san-onofre.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->
