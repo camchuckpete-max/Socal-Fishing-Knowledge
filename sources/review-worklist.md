@@ -105,7 +105,7 @@ by their builders after the transform phase drains.
 | rigging/bite-leaders.md | standard | transformed | none | transform: attribution preambles migrated to new evidence/bite-leaders.md, doctrine-conflict decision frame added per style-guide v2.1, v2 infobox fields added; conservation and 3 transcript spot-checks confirmed faithful |
 | rigging/crimping.md | standard | transformed | asr-uncertain(A2 crimp designation on 3zXcrGsIL-c) | transform: attribution moved to new evidence/crimping.md, sections merged into one When to use per v2 skeleton, layout v2 + line_class/hook_sizes added; 6/6 transcript spot-checks faithful |
 | rigging/cut-loop-dropper.md | standard | transformed | gaps(2), spots(1), asr-uncertain(place name) | verified transform - attribution preamble correctly retired to machine layer, all doctrine/parameters conserved and paraphrased, template gap-flags added, 3 transcript spot-checks confirmed, 0 dead links |
-| rigging/double-trouble-rig.md | standard | pending |  |  |
+| rigging/double-trouble-rig.md | standard | transformed | spots(2) | transform verified clean: full conservation, 4 transcript spot-checks passed, only fix was a missed link-maintenance regen |
 | rigging/dropper-loop-knot-and-spider-hitch.md | standard | pending |  |  |
 | rigging/essential-knots.md | standard | pending |  |  |
 | rigging/fg-and-albright.md | standard | pending |  |  |

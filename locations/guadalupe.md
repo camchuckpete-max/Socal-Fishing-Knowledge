@@ -275,6 +275,7 @@ Trip reports and per-source provenance:
 
 - [Alijos Rocks](alijos-rocks.md)
 - [Baja Pacific — North](baja-pacific-north.md)
+- [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Evidence — Guadalupe](evidence/guadalupe.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)

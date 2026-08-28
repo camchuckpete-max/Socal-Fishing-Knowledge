@@ -389,4 +389,6 @@ harvested.
 | Ensenada / Baja | lures/tube-baits.md | Color selection | fish sitting tight to red-crab-holding structure bite red-crab-colored tube baits | `5Oh3IPIC5g4` |
 | Dana Point | lures/tuna-feathers-and-skirts.md | evidence — Specs | mid-2010s King Buster-style small trolling lure origin, later tungsten-rebuilt as a finesse trolling lure for porpoise-associated yellowfin | `ouBrIdO7d4k` |
 | Guadalupe Island | rigging/cut-loop-dropper.md | When to use | cut-loop surgeon's-loop dropper named for yellowtail trips there, which favor a bigger loop than an ordinary SoCal application | `rFmWrp-Vndo` |
+| Cortez Bank | rigging/double-trouble-rig.md | When to use / evidence | double trouble under the kite landed a yellowtail rather than the bluefin it's usually aimed at | `nQvJnfb5jQ4` |
+| Guadalupe Island | rigging/double-trouble-rig.md | Named variant — "double treble" | "double treble" build named on camera as a favorite way to catch yellowfin there | `fgTmUq78ofQ` |
 <!-- review:harvest:end -->

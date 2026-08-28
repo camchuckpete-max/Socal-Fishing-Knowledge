@@ -9,7 +9,7 @@
 - [Bluefin Bite Leaders](bite-leaders.md) **[SoCal only]** — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — the most critical part of a bluefin knife-jig setup (kO_BqzUYay
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md) — A crimp sleeve is a metal tube slid over doubled leader (or over leader plus a hook/swivel eye) and mechanically compressed with a crimping tool, joining the tw
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md) — A dropper-loop variant that skips tying a separate hook-to-loop knot: tie a 3-to-4-turn surgeon's loop, then cut the loop itself off-center so it stops being a
-- [Double Trouble Rig](double-trouble-rig.md) — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
+- [Double Trouble Rig](double-trouble-rig.md) — A live-bait alternative to flying a kite bait: two live baits on separate crimped hook droppers, sharing one swivel, ride together at the surface under the kite
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md) **[SoCal only]** — Two named loop-forming knots used to build the hook loop (or, reversed, a sliding sinker attachment) of a classic dropper loop rig — that note owns the rig, sin
 - [Essential SoCal Knots](essential-knots.md) **[SoCal only]** — The short list of knots that cover a SoCal sport-boat or private-boat day: terminal knots that tie line to a hook or lure (Palomar, San Diego jam, loop knot), a
 - [FG Knot & Albright Knot](fg-and-albright.md) **[SoCal only]** — Two braid-to-leader connection knots that solve different problems.
