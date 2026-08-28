@@ -4,7 +4,7 @@
 <!-- index:start -->
 ## Index
 
-- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md) — A short buying-education point from Tackle Express staff (unnamed on camera; tackle-express is an unregistered channel, single 31-second mention — medium confid
+- [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md) — A general-purpose rod's printed line-rating range is a range to fish inside of, not a target to hit at either printed end: buy a blank rated wide enough that it
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver (Gary, Accurate Fishing Products / Searcher)](bluefin-50-80lb-bait-outfit-ladder.md) — Gary, presenter for Accurate Fishing Products, aboard the Searcher (SearcherSportfishing, "Tackle Tip Thursday Vol.
 - [Bluefin Retail Outfit Ladder — High-End vs Budget (Lori Sack, Turner's Outdoorsman, via SearcherSportfishing)](bluefin-retail-setup-high-end-vs-budget.md) — Lori Sack, a tackle sales associate at Turner's Outdoorsman's San Marcos store, in a short segment on the SearcherSportfishing channel ("Tackle Tip Thursday Vol.
 - [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md) — Steve Carson (Penn), guest speaker at the San Diego Rod and Reel Club's November 2023 meeting — "5 must-have rod and reel setups for bluefin tuna fishing" (9JnI
@@ -90,6 +90,9 @@
 - [Surf Halibut Rod Lineup — Light vs. Heavy, and Why PE1 Beats Heavy Braid (Shannon Gallagher, Tackle Express)](tackle-express-surf-halibut-rod-lineup.md) — Tackle Express, "Halibut Gear & Techniques | Beaches & Harbor Tips with Shannon Gallagher (Pt 4/4)," fHMwcm1xRQk, uploaded 2026-01-13.
 - [Trophy (Triple-Digit) Bluefin Jig Outfit — Jig Selection, Rigging, Reel/Rod Ladder, and Fight Timing (Tackle Express)](tackle-express-trophy-bluefin-jig-outfit.md) — Tackle Express, "How to Catch a Trophy Bluefin Tuna on a Jig" (James, on camera; DuNkl8F45NE, uploaded 2022-06-04).
 - [White Seabass Rod, Reel, and Line — Star-Drag vs. Baitcaster, and Why Mono Matters (Tackle Express)](tackle-express-white-seabass-rod-reel-line.md) — Tackle Express (Harry, Eo_bA8IWvyU, "Before You Fish for White Seabass — Watch This!
+
+### Subfolders
+- [evidence/](evidence/README.md)
 <!-- index:end -->
 
 
