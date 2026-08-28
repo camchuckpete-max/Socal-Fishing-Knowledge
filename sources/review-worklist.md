@@ -117,7 +117,7 @@ by their builders after the transform phase drains.
 | rigging/leadhead-mods.md | standard | transformed | gaps(1), spots(4), asr-uncertain(leader connection name on the actively-cast squid rig) | transform verified, apply-with-changes: restored two dropped source-provenance entries + a quote/ASR-caveat to evidence file, cleaned two meta-attribution phrasings |
 | rigging/perfection-loop-knot.md | standard | transformed | gaps(1) | transform verified, one hedge-hardened-to-fact drift fixed in tree |
 | rigging/pr-knot.md | standard | transformed | gaps(1) | transform applied with link-maintenance backlink regen; evidence split conserved all four-video duplicate analysis, no content loss or drift |
-| rigging/rp-knot.md | standard | pending |  |  |
+| rigging/rp-knot.md | standard | transformed | none | transform verified, apply-with-changes: ran link-maintenance.py to regenerate rigging/README.md + rigging/evidence/README.md index entries the worker's patch omitted |
 | rigging/rubber-band-deep-rig.md | standard | pending |  |  |
 | rigging/san-diego-jam-knot.md | standard | pending |  |  |
 | rigging/san-diego-jam-single-vs-double.md | standard | pending |  |  |
