@@ -18,6 +18,7 @@
 - [Evidence — Reel & Rod Maintenance](reel-maintenance.md) — Per-source provenance for reel & rod maintenance: channel status, upload dates, and confidence notes the main note's prose gave up.
 - [Evidence — Testing a Rod's Action — Why Hand-Bending and Vibrating Both Misread It](rod-action-testing-technique.md) — Per-source provenance for rod action testing technique: channel status, upload dates, video titles, and re-cut/corroboration notes the main note's prose gave up.
 - [Evidence — Rod & Reel Selection — by Application](rod-and-reel-selection.md) — Per-source provenance for rod & reel selection: presenter/channel status, upload dates, registration/confidence detail, and ASR-uncertain reasoning the main not
+- [Evidence — Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md) — Per-source provenance for rod blank, reel-seat, and grip materials: channel status, upload dates, and the re-cut/reposted-clip relationships behind the note's s
 <!-- index:end -->
 
 

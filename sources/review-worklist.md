@@ -198,7 +198,7 @@ by their builders after the transform phase drains.
 | tackle/reel-maintenance.md | light | done | none | LIGHT-tier v2 migration, 9 source-named sections dissolved into 13 topic sections, evidence file created; verifier fixed a dropped count and an ambiguous merged sentence |
 | tackle/rod-action-testing-technique.md | light | done | none | restructured, attribution to compact cites + evidence file, layout v2; verifier fixed 1 meaning-drift inversion (taper-variation claim) |
 | tackle/rod-and-reel-selection.md | light | done | spots(3) | LIGHT-tier v2 migration, house-style rewrite, evidence file created, decision frames added to 2 doctrine conflicts; verified faithful, all 27 cites conserved |
-| tackle/rod-blank-and-component-materials.md | light | pending |  |  |
+| tackle/rod-blank-and-component-materials.md | light | done | none | LIGHT-tier v2 migration, provenance moved to evidence file, stale anchor fixed; verifier fixed 1 unscoped-generalization drift on a presenter's personal practice |
 | tackle/rod-length-for-angler-size.md | light | pending |  |  |
 | tackle/searcher-30lb-large-tuna-outfit.md | light | pending |  |  |
 | tackle/searcher-40lb-all-around-tuna-outfit.md | light | pending |  |  |
