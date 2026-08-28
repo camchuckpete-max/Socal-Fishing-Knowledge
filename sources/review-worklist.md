@@ -89,7 +89,7 @@ by their builders after the transform phase drains.
 | lures/crocodile-spoons.md | standard | transformed | gaps(1) | transform verified; one conservation gap (dropped SoCal-anglers-generally claim/quote) found and fixed in-tree, all other facts/cites/links traced clean |
 | lures/dtx-minnow.md | standard | transformed | spots(2) | transform verified faithful, v2 skeleton compliant, all quotes/parameters conserved and cite-traced |
 | lures/halco-laser-pro.md | standard | transformed | none | transform verified with fix: recovered lost per-source attribution/confidence-caveat detail into a newly created evidence file; all specs/parameters/cites otherwise conserved |
-| lures/iron-jigs.md | standard | pending |  |  |
+| lures/iron-jigs.md | standard | escalated |  | escalated: guard: out of scope for 'review: lures/iron-jigs.md': fish-care/dehooking-and-release.md |
 | lures/jerkbaits.md | standard | pending |  |  |
 | lures/knife-jigs.md | standard | pending |  |  |
 | lures/lucky-craft-flash-minnow.md | standard | pending |  |  |

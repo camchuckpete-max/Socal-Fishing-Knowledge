@@ -206,3 +206,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-28T03:24:38Z — techniques/trolling.md — guard-violation
 - run: 33133268419
 - reason: commit f1df95e19ffa3d76bfdd3b1237e90625850f5775 reverted: out of scope for 'review: techniques/trolling.md': bait/making-bait.md; out of scope for 'review: techniques/trolling.md': locations/bahia-magdalena-lopez-mateos.md; out of scope for 'review: techniques/trolling.md': locations/cabo-san-lucas.md; out of scope for 'review: techniques/trolling.md': locations/catalina-island-backside.md; out of scope for 'review: techniques/trolling.md': locations/east-cape.md; out of scope for 'review: techniques/trolling.md': locations/la-paz.md; out of scope for 'review: techniques/trolling.md': locations/slide-152-277.md
+
+## 2026-08-28T05:57:54Z — lures/iron-jigs.md — guard-violation
+- run: 33142634696
+- reason: commit 2a620c8b22ba84a97d54a7715f8c8e43b5012eec reverted: out of scope for 'review: lures/iron-jigs.md': fish-care/dehooking-and-release.md; out of scope for 'review: lures/iron-jigs.md': locations/cedros-island.md
