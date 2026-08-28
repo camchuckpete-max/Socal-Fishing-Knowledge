@@ -185,7 +185,7 @@ by their builders after the transform phase drains.
 | tackle/bluefin-50-80lb-bait-outfit-ladder.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier restored dropped '(lightest)' designation and a dropped reel-sizing cross-note comparison, removed self-narration |
 | tackle/bluefin-retail-setup-high-end-vs-budget.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier restored dropped 'expensive' framing quote and fixed sources list completeness |
 | tackle/bluefin-rig-ladder-by-grade.md | light | done | none | migrated to layout v2 — stripped named-individual attribution/inline confidence to cites, split 1 Observed block to evidence, fixed 1 quoted heading + 1 relative-time phrase; check-note.py passes; verified faithful |
-| tackle/composite-rod-blank-construction.md | light | pending |  |  |
+| tackle/composite-rod-blank-construction.md | light | done | none | LIGHT-tier v2 migration: stripped channel-status/attribution boilerplate, plain-statement rewrite, added layout: v2 + corroborating cite 48ZFXnCTTQE; verified faithful, link-maintenance re-run for README index |
 | tackle/drag-setting.md | light | pending |  |  |
 | tackle/gear-classes.md | light | pending |  |  |
 | tackle/hook-assortment-by-trip-length.md | light | pending |  |  |

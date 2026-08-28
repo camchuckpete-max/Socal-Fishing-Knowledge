@@ -1,40 +1,44 @@
 ---
 type: tackle
 tags: [rods, blank-construction, composite, rod-action, buying-guide]
-sources: [28FQZvZ8v6k]
+sources: [28FQZvZ8v6k, 48ZFXnCTTQE]
 confidence: medium
+layout: v2
 ---
 
 # Composite Rod Blanks — the Visible Transition Line Is Intentional
 
-A short buying-education point from Tackle Express staff (unnamed on camera;
-`tackle-express` is an unregistered channel, single 38-second mention —
-medium confidence), correcting a customer misconception about composite rod
-blanks.
+A composite rod blank shows a visible, straight line where its two blank
+materials meet — buyers commonly mistake this for a manufacturing flaw. It's
+a deliberate construction feature: the transition is what tapers the rod's
+action from a softer tip to a beefier butt (`28FQZvZ8v6k`). Buy and judge the
+rod on the resulting action split, not on the seam; the same material-taper
+mechanism is why glass/composite blanks load a live bait gently on a flyline
+cast (`48ZFXnCTTQE`).
 
-## What customers mistake for a flaw
+## What buyers mistake for a flaw
 
-On a composite blank — the example given is a **United composite** — the
-point where the two blank materials meet is clearly visible: a straight,
-clean line where the blank's color changes from a lighter gray to a darker
-gray or black. Customers often read this line as an imperfection, as if the
-rod "wasn't made correctly." Per Tackle Express, it isn't a flaw: **the
-transition is built that way on purpose** (`28FQZvZ8v6k`).
+On a composite blank — the example given is a United composite — the point
+where the two blank materials meet is clearly visible: a straight, clean line
+where the color changes from a lighter gray to a darker gray or black.
+Reading this line as an imperfection, as if the rod "wasn't made correctly,"
+is a common but mistaken read; the transition is built that way on purpose
+(`28FQZvZ8v6k`).
 
 ## Why it's there — mechanism
 
-The material transition is what tapers the rod's **action** through the
-blank: it blends a **softer action at the front** (tip section) into a
-**beefier action at the back** (butt section), rather than the rod carrying
-one uniform action along its whole length (`28FQZvZ8v6k`). This is the same
-soft-tip/composite-taper effect already logged for flyline rods in
-[rod & reel selection — flyline reel & rod
-selection](rod-and-reel-selection.md#flyline-reel-rod-selection) (Cesar: a
-glass or composite rod with a slow taper and soft tip loads a live bait
-gradually through the cast) — this note adds the blank-construction "why"
-behind that taper: it comes from blending two different materials at a
-deliberate transition point, not from tapering a single material's wall
-thickness alone.
+The material transition is what tapers the rod's action through the blank:
+it blends a softer action at the front (tip section) into a beefier action
+at the back (butt section), rather than the rod carrying one uniform action
+along its whole length (`28FQZvZ8v6k`). The same mechanism produces the
+soft-tip taper on flyline rods: a glass or composite rod with a slow taper
+and soft tip loads a live bait gradually through the cast instead of
+whiplashing it off the hook (`48ZFXnCTTQE`) — see [rod & reel selection —
+flyline reel & rod
+selection](rod-and-reel-selection.md#flyline-reel-rod-selection). What this
+note adds is the blank-construction "why" behind that taper: it comes from
+blending two different materials at a deliberate transition point, not from
+tapering a single material's wall thickness alone.
 
 ## Takeaway
 
