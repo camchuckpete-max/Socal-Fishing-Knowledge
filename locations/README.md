@@ -419,7 +419,7 @@
 - [Windansea (stay north of MPA at 32 49.573)](windansea.md) **[SoCal only]** — A charted spot at 32°49.716'N 117°17.508'W (cameron), in the La Jolla zone.
 - [The Worm](worm.md) **[Baja only]** — A charted spot at 31°57.000'N 118°59.000'W (cameron), in the The Pistol / Bell Bank (300) zone.
 - [Yellowtail Point (stay E of MPA at 118 27.000)](yellowtail-point.md) **[SoCal only]** — A charted spot at 33°26.000'N 118°26.920'W (cameron), in the Catalina Island — Front Side (W→E) zone.
-- [Zone Lexicon](zone-lexicon.md) **[SoCal only]** — The vocabulary of SoCal fishing zones — how to name a spot, how to think about a spot as a *box* rather than a pin, and how big that box is.
+- [Zone Lexicon](zone-lexicon.md) **[SoCal only]** — The vocabulary of SoCal fishing zones: how to name a spot, how to think about a spot as a *box* rather than a pin, and how big that box is.
 - [Zuniga Jetty](zuniga-jetty.md) **[SoCal only]** — A charted spot at 32°40.300'N 117°13.400'W (cameron), in the Point Loma zone.
 
 ### Subfolders

@@ -545,4 +545,11 @@ harvested.
 | San Felipe | locations/sea-of-cortez.md | Getting there | mothership port; week-to-ten-day live-aboard carrying pangas on deck, relocating overnight between zones | `aT-fL7vaavY` |
 | Gonzaga Bay | locations/sea-of-cortez.md | What's there | deep-drop stop for pargo and grouper on the trip's last morning, with sierra showing beside the boat | `0dNfsle54Wo` |
 | Bahía de los Ángeles (BOLA) | locations/sea-of-cortez.md | Getting there | naming caution: a San Felipe mothership episode is titled and narrated as BOLA despite being filmed aboard the Tony Reyes out of San Felipe | `4Dn7yChmhk0` |
+| Below-Clemente complex (43 / 181 / 182 / 289 / Clemente Ridge / Mackerel Bank) | locations/zone-lexicon.md | Structure & bathymetry | reads as one ~50–60 sq mi search box worked as hours of looking, not a spot-check | `Blh2BA-7Ono` |
+| 302 / 371 / west end of Catalina | locations/zone-lexicon.md | Structure & bathymetry | named examples of a compact spot — idle up, grade the meter, commit or leave, a 20–30 min read | `Blh2BA-7Ono` |
+| Volume square (SBI – San Nicolas – San Clemente – Catalina) | locations/zone-lexicon.md | What's there | September region holding the bigger bluefin; worked as a region, not a point | `5to3Q5P7w90` |
+| Nine Mile Bank | locations/zone-lexicon.md | Structure & bathymetry | named for sitting 9 statute miles off the coast, not a 9-fathom depth; many closely spaced high spots, up to roughly 600 ft in places | `Rf1HKJG-SDg` |
+| The 14 | locations/zone-lexicon.md | Structure & bathymetry | distance-naming exception, sitting 14 miles off the beach | `Rf1HKJG-SDg` |
+| East 400 / West 400 | locations/zone-lexicon.md | Structure & bathymetry | both Baja offshore, roughly 44 km apart east–west at the same latitude; landmass-prefix rule can't separate them, so named directionally instead | (cameron) |
+| The Slide (Catalina front-side shoreline / offshore bank ~6 km apart) | locations/zone-lexicon.md | Structure & bathymetry | unresolved name collision — both closest to Catalina, so the landmass-prefix rule can't separate them; open item, awaiting Cameron | (cameron) |
 <!-- review:harvest:end -->

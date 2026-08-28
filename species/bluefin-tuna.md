@@ -560,4 +560,5 @@ Trip reports and per-source provenance:
 - [Year-Anniversary Prior](../seasonal/year-anniversary-prior.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 - [Yo-Yo Iron](../techniques/yo-yo-iron.md)
+- [Zone Lexicon](../locations/zone-lexicon.md)
 <!-- backlinks:end -->

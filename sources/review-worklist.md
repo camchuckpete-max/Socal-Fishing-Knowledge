@@ -167,7 +167,7 @@ by their builders after the transform phase drains.
 | locations/loreto.md | geo | transformed | gaps:17 stubs:4 fc:2 spots:7 | zone page under cortez-south from 5 Loreto trip vlogs + P36VGPPf120 for the roosterfish contrast; retyped location->zone on the v2 skeleton, 0 charted spots so no child pages; added bank to waters for Six Mile Reef, dropped the uncited '250 miles south of BOLA' distance, split every trip observation into the new evidence file and retired the confidence/channel boilerplate into it; new material mined from the transcripts (Puerto Escondido launch, mothership/beach/panga access modes, bait-vendor sardine rig and dorado window, 20-mile/1-hour Carmen run, breakdown-and-tow, plumas troll, marlin… |
 | locations/regions.md | standard | transformed | gaps(2), asr-uncertain(repeat of open type-taxonomy escalation) | transform verified, one conservation gap fixed in-tree (restored dropped finer-tier-can-be-added-later clause) |
 | locations/sea-of-cortez.md | standard | transformed | gaps(4), misplaced(0), spots(3), reg-claims(0), asr-uncertain(1: captain name Joel/Joelle/hoell) | transform verified: conservation intact, 3 transcript spot-checks pass, mechanical check clean |
-| locations/zone-lexicon.md | standard | pending |  |  |
+| locations/zone-lexicon.md | standard | transformed | gaps(3), spots(7), asr-uncertain(1) | transform verified faithful, zero information loss, mechanically clean; escalated (repeat of open bass-structure.md taxonomy question) |
 | planning/day-plan-protocol.md | light | pending |  |  |
 | planning/electronics-and-sounder.md | light | pending |  |  |
 | planning/fleet-intelligence.md | light | pending |  |  |

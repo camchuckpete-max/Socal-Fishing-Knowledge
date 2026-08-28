@@ -222,3 +222,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-28T17:38:57Z — locations/bightsst-eval-targets.md — verify-escalate
 - run: 33193047394
 - reason: Same open type-taxonomy question as the bass-structure.md escalation (sources/escalations.md, 2026-08-28T17:04:44Z), which names this note as one of 7 pending siblings — forces a universal cross-zone reference index into the spot-page type:location skeleton with parent:unknown and two structurally-inapplicable sections flagged as corpus gaps. Not introduced by this patch; Cameron still needs to rule on it before the remaining 6 siblings repeat it.
+
+## 2026-08-28T18:40:29Z — locations/zone-lexicon.md — verify-escalate
+- run: 33193047394
+- reason: One of the 7 named pending siblings in the open bass-structure.md type-taxonomy escalation (sources/escalations.md, 2026-08-28T17:04:44Z) — parent:unknown forced into the spot-page type:location skeleton, same pattern already escalate(apply)'d for bightsst-eval-targets.md; Cameron still needs to rule on it before the remaining siblings repeat it.

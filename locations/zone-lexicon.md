@@ -1,119 +1,136 @@
 ---
 type: location
 tags: [zones, search-box, naming, geography, planning]
-sources: [cameron, Blh2BA-7Ono, Rf1HKJG-SDg]
+sources: [cameron, Blh2BA-7Ono, Rf1HKJG-SDg, 5to3Q5P7w90, OYOda6T3f-8]
 confidence: high
 regions: [socal-bight]
 waters: [bay-harbor, nearshore-coast, island, bank, open-ocean]
+layout: v2
+parent: unknown
+structure_type: search-box sizing, bank/spot-file naming conventions, and sub-pixel waypoint clustering — vocabulary and scale, not one structure
+depth_band: unknown — universal vocabulary, not tied to one depth
+distance_nm: unknown — universal knowledge, not measured from one launch point
 ---
 
 # Zone Lexicon
 
-The vocabulary of SoCal fishing zones — how to name a spot, how to think about a
+The vocabulary of SoCal fishing zones: how to name a spot, how to think about a
 spot as a *box* rather than a pin, and how big that box is. This is universal
-structure/planning knowledge; it holds no coordinates. For the physical typology
-of the structure itself see [island structure](island-structure.md) and
-[bass structure](bass-structure.md); for where the big weather and water bands
-sit see [bight geography](bight-geography.md).
+structure/planning knowledge; it holds no coordinates. For the physical
+typology of the structure itself see [island structure](island-structure.md)
+and [bass structure](bass-structure.md); for where the big weather and water
+bands sit see [bight geography](bight-geography.md).
 
-## A "spot" is a search box, not a pin
+## Getting there
 
-The single most useful idea for a new-to-SoCal angler: some named "spots" are a
-pin you idle onto, and others are a **region you look through for hours**. Sizing
-the box correctly is the difference between a plan that works and one that spends
-the day driving.
+This is universal naming and sizing vocabulary, not a single spot — it has no
+launch point or transit leg of its own. Getting-there detail belongs to the
+zone and spot pages this note supports, e.g. any of the below-Clemente bank
+pages.
 
-**Complex vs. compact (7/21/22, Landesfeind):**
+⚠ Flagged gap — no corpus source: transit/launch detail (not applicable —
+this note is universal, not spot-scoped).
 
-- **The below-Clemente complex** — 43, 181, 182, 289, Clemente Ridge up to
-  Mackerel Bank — reads as **one ~50–60 square-mile search box**. You do not
-  "check 43"; you plan **hours of looking** across the whole box, glassing and
-  running contour between features. Treat the named banks inside it as reference
-  points within a single hunting zone.
-- **Compact spots** — 302, 371, west-of-Catalina — are the opposite: a small,
-  definable piece of structure you idle up to, grade the meter, and either commit
-  or leave. A spot-check, not an expedition.
+## Structure & bathymetry
 
-The planning consequence: budget time by box size. A complex is a half-day
-commitment; a compact spot is a 20–30 minute read. See
-[search and glassing](../planning/search-and-glassing.md) for the glassing
-protocol that fills those hours, and [BightSST eval targets](bightsst-eval-targets.md)
-for the modeling-spot list.
+**A "spot" is a search box, not a pin.** Some named spots are a pin you idle
+onto; others are a region you look through for hours. Sizing the box
+correctly is the difference between a plan that works and one that spends the
+day driving.
 
-## The "volume square"
+- **A complex** — the below-Clemente group of banks (43, 181, 182, 289,
+  Clemente Ridge up to Mackerel Bank) — reads as **one ~50–60 square-mile
+  search box** (`Blh2BA-7Ono`). You do not "check 43"; you plan **hours of
+  looking** across the whole box, glassing and running contour between
+  features, treating the named banks inside it as reference points within a
+  single hunting zone.
+- **A compact spot** — 302, 371, west-of-Catalina — is the opposite: a small,
+  definable piece of structure you idle up to, grade the meter, and either
+  commit or leave. A spot-check, not an expedition.
 
-A second named box: the **volume square** — SBI (Santa Barbara Island) – San
-Nicolas – San Clemente – Catalina — the September region that holds the bigger
-bluefin (9/14/22 report). Again a *region* to work through, not a point. As the
-coast cools and fragments in fall the fish condense outward toward Tanner and
-Cortez; that migration is tracked in [bight geography](bight-geography.md).
+Budget time by box size: a complex is a half-day commitment, a compact spot is
+a 20–30 minute read. See [search and glassing](../planning/search-and-glassing.md)
+for the glassing protocol that fills those hours, and
+[BightSST eval targets](bightsst-eval-targets.md) for the modeling-spot list.
 
-## Bank naming — the fathom-depth convention
-
-Why banks get short numeric names, and what the number means (Capt. Dave
-Hansen, Your Saltwater Guide, Rf1HKJG-SDg, 2020-12-15; registered voice,
-single mention — medium confidence). Most of the
-inshore mainland water — a mile to a mile-and-a-half off the beach from Dana
-Point through Newport and Marina del Rey out to Catalina — is already **2,000–
-3,000 ft deep**; Huntington is the one stretch that stays shallower longer
-because of the flats there. Against that deep, mostly featureless bottom, a
-**bank is an isolated high spot** — a submerged mountain rising up out of the
-surrounding depth. Bait stages on the high spot for shelter and the gamefish
+**Bank naming runs on a fathom-depth convention.** Most of the inshore
+mainland water — a mile to a mile-and-a-half off the beach from Dana Point
+through Newport and Marina del Rey out to Catalina — is already **2,000–3,000
+ft deep**; Huntington is the one stretch that stays shallower longer because
+of the flats there (`Rf1HKJG-SDg`). Against that deep, mostly featureless
+bottom, a bank is an isolated high spot — a submerged mountain rising out of
+the surrounding depth — and bait stages on it for shelter while gamefish
 follow the bait; structure is the constant across every fishery region (SoCal,
 Cabo, Florida, Alaska, the Gulf), even though current, tide, and water
-temperature also matter.
+temperature also matter (`Rf1HKJG-SDg`).
 
-- **The convention:** a bank is named for the **fathom depth of its shallowest
-  (highest) point**, as read on the sounder — "182" tops out at 182 fathoms
-  before the bottom falls away to the surrounding depth; "209" tops out at 209
-  fathoms; "43" tops out at 43 fathoms. A depth only earns "bank" status when
-  it's an isolated high spot rising out of otherwise deep water — other places
-  read the same fathom figure without being "a bank."
+- **The convention:** a bank is named for the **fathom depth of its
+  shallowest (highest) point**, as read on the sounder — "182" tops out at
+  182 fathoms before the bottom falls away to the surrounding depth; "209"
+  tops out at 209 fathoms; "43" tops out at 43 fathoms (`Rf1HKJG-SDg`). A
+  depth only earns "bank" status when it's an isolated high spot rising out
+  of otherwise deep water — other places read the same fathom figure without
+  being "a bank."
 - **The exception — named for distance, not depth.** Nine Mile Bank is named
-  for sitting **9 (statute) miles off the coast**, not for a 9-fathom depth; it
-  carries many closely spaced high spots of similar depth rather than one
-  dominant peak — in places it comes up to roughly 600 ft (exact figure
-  uncertain in the source audio) — so no single fathom number describes it.
-  "The 14" follows the same distance-naming pattern, sitting **14 miles off
-  the beach**.
+  for sitting **9 (statute) miles off the coast**, not for a 9-fathom depth;
+  it carries many closely spaced high spots of similar depth rather than one
+  dominant peak — in places it comes up to roughly 600 ft (`Rf1HKJG-SDg`) ⚠
+  asr-uncertain: the exact figure is unclear in the source audio. "The 14"
+  follows the same distance-naming pattern, sitting **14 miles off the beach**
+  (`Rf1HKJG-SDg`).
 - **Six feet to a fathom.** This is also why the sounder itself is
-  historically called a "fathometer" — see
+  historically called a "fathometer" (`Rf1HKJG-SDg`) — see
   [electronics and sounder](../planning/electronics-and-sounder.md).
 
-This is the naming layer behind the below-Clemente complex (43, 181, 182, 289)
-above and the spot-file collision rules below — most named spots really are
-just their fathom number.
+This is the naming layer behind the below-Clemente complex above — most named
+spots really are just their fathom number.
 
-## Spot-file naming conventions (Cameron)
+**Spot-file naming conventions** keep a personal spot library navigable once
+names start colliding — dozens of banks are just numbers (cameron):
 
-When you build your own spot library, names collide constantly (dozens of banks
-are just numbers). Cameron's rules keep a list navigable:
-
-- **Landmass-prefix collision rule.** When two spots share a name, prefix with
-  the **closest landmass** — "Catalina - X", "Baja - X", "San Diego - X".
-- **The "400" exception.** The two "400" banks are named **"East 400" / "West
-  400"** instead — both are Baja offshore, roughly 44 km apart east–west at the
-  same latitude, so a landmass prefix cannot separate them.
+- **Landmass-prefix collision rule.** When two spots share a name, prefix
+  with the **closest landmass** — "Catalina - X", "Baja - X", "San Diego - X"
+  (cameron).
+- **The "400" exception.** The two "400" banks are named **"East 400" /
+  "West 400"** instead — both are Baja offshore, roughly 44 km apart
+  east–west at the same latitude, so a landmass prefix cannot separate them
+  (cameron).
 - **Distinct, not collisions.** Similar-looking names that are genuinely
-  different spots are kept as-is, not merged: "475" vs "475 Knuckle"; "300" vs
-  "Bell Bank (300)" vs "300 (The Rampart)"; "179" vs "Tuna Hole (179)"; "220" vs
-  "Double 220". Colloquially ambiguous but distinct: "Kidney Bank (63)" vs "302
-  (Kidney Bank)".
-- **Unresolved collision.** "The Slide" ×2 — one Catalina front-side shoreline
-  spot, one offshore bank ~6 km away; both are closest to Catalina, so the
-  landmass rule cannot separate them (open item, awaiting Cameron). Flagged as an
-  open item, not doctrine.
+  different spots are kept as-is, not merged: "475" vs "475 Knuckle"; "300"
+  vs "Bell Bank (300)" vs "300 (The Rampart)"; "179" vs "Tuna Hole (179)";
+  "220" vs "Double 220". Colloquially ambiguous but distinct: "Kidney Bank
+  (63)" vs "302 (Kidney Bank)" (cameron).
+- **Unresolved collision.** "The Slide" ×2 — one Catalina front-side
+  shoreline spot, one offshore bank ~6 km away; both are closest to Catalina,
+  so the landmass rule cannot separate them. Open item, awaiting Cameron —
+  not doctrine.
 
-## Sub-pixel clusters
+**Sub-pixel clusters.** Some "spots" are really a cluster of numbered
+waypoints packed tighter than a single satellite pixel. For **modeling**
+(SST/chlorophyll lookups) collapse the cluster to ~1 MUR pixel; for
+**navigation** keep every waypoint distinct (cameron). Known clusters:
+Carlsbad AR 1–12, Oceanside AR 1A–1H / 2A–2L, Pendleton 1–7, International
+Reef A–F, Torrey Pines 1–2 (cameron). The lesson generalizes: artificial
+reefs and permit-line structures come as numbered series that are one *water
+cell* but many *drops*.
 
-Some "spots" are really a **cluster of numbered waypoints** packed tighter than a
-single satellite pixel. For **modeling** (SST/chlorophyll lookups) collapse the
-cluster to ~1 MUR pixel; for **navigation** keep every waypoint distinct. Known
-clusters (Cameron): Carlsbad AR 1–12, Oceanside AR 1A–1H / 2A–2L, Pendleton 1–7,
-International Reef A–F, Torrey Pines 1–2. The lesson generalizes: artificial reefs
-and permit-line structures come as numbered series that are one *water cell* but
-many *drops*.
+## What's there
 
+| species | season | what the box concept does for them |
+| --- | --- | --- |
+| [Bluefin Tuna](../species/bluefin-tuna.md) | September (`5to3Q5P7w90`) | the **volume square** — SBI (Santa Barbara Island) – San Nicolas – San Clemente – Catalina — is the region that holds the bigger fish that month; work it as a region, not a point (`5to3Q5P7w90`). As the coast cools and fragments in fall, the fish condense outward toward Tanner and Cortez (`OYOda6T3f-8`) — that migration is tracked in [bight geography](bight-geography.md) |
+
+⚠ Flagged gap — no corpus source: species-by-zone presence beyond the volume
+square example. This is a naming/sizing vocabulary note, not a
+species-presence note; species presence and season timing live in the species
+routers and the zone/spot pages.
+
+## How it fishes
+
+⚠ Flagged gap — no corpus source: current/wind/tide behavior (not applicable
+— this is a naming and box-sizing vocabulary note, not a conditions note;
+conditions behavior lives in [conditions/](../conditions/) and on the
+zone/spot pages this note supports).
 
 <!-- backlinks:start -->
 ## Linked from
