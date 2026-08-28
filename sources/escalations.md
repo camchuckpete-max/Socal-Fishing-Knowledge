@@ -210,3 +210,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-28T05:57:54Z — lures/iron-jigs.md — guard-violation
 - run: 33142634696
 - reason: commit 2a620c8b22ba84a97d54a7715f8c8e43b5012eec reverted: out of scope for 'review: lures/iron-jigs.md': fish-care/dehooking-and-release.md; out of scope for 'review: lures/iron-jigs.md': locations/cedros-island.md
+
+## 2026-08-28T16:49:35Z — bait/making-bait.md — guard-violation
+- run: 33185502215
+- reason: commit d7e42197b1a00d53bfdd34d08f6819a654c737a2 reverted: out of scope for 'review: bait/making-bait.md': bait/bait-tanks.md
