@@ -18,6 +18,7 @@
 - [Evidence — Baja Pacific — North](baja-pacific-north.md) — The observation layer behind Baja Pacific — North.
 - [Evidence — Baja Pacific — South](baja-pacific-south.md) — The observation layer behind Baja Pacific — South.
 - [Evidence — Banda Bank / Todos Santos Island](banda-bank-todos-santos-island.md) — The observation layer behind Banda Bank / Todos Santos Island.
+- [Evidence — Bass Structure](bass-structure.md) — Per-source provenance backing Bass Structure.
 - [Evidence — The Boot (504) / 307](boot-504-307.md) — Provenance for The Boot (504) / 307.
 - [Evidence — Cabo San Lucas](cabo-san-lucas.md) — The observation layer behind Cabo San Lucas.
 - [Evidence — Catalina Island, Backside](catalina-island-backside.md) — The observation layer behind Catalina Island — Backside.
@@ -63,5 +64,5 @@
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 53 notes exceed the 30-node cap._
+_Map skipped: 54 notes exceed the 30-node cap._
 <!-- mermaid:end -->

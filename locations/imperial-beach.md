@@ -221,6 +221,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
+- [Bass Structure](bass-structure.md)
 - [Evidence — Imperial Beach](evidence/imperial-beach.md)
 - [Imperial Beach Flats](imperial-beach-flats.md)
 - [Imperial Beach Kelp](imperial-beach-kelp.md)

@@ -221,6 +221,7 @@ Trip reports and per-source provenance: [evidence file](evidence/point-loma.md).
 - [289 / 284](289-284.md)
 - [372 / 245 / 250](372-245-250.md)
 - [5 Tanks](5-tanks.md)
+- [Bass Structure](bass-structure.md)
 - [Buoy 3 Hardbottom](buoy-3-hardbottom.md)
 - [College Area / Sunset Cliffs](college-area-sunset-cliffs.md)
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)

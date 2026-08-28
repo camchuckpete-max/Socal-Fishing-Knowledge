@@ -214,3 +214,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-28T16:49:35Z — bait/making-bait.md — guard-violation
 - run: 33185502215
 - reason: commit d7e42197b1a00d53bfdd34d08f6819a654c737a2 reverted: out of scope for 'review: bait/making-bait.md': bait/bait-tanks.md
+
+## 2026-08-28T17:04:44Z — locations/bass-structure.md — verify-escalate
+- run: 33185502215
+- reason: Cameron should decide whether universal cross-zone notes in locations/ (bass-structure.md + 7 pending siblings: bays-and-harbors, bight-geography, bightsst-eval-targets, breakwalls-jetties-riprap, island-structure, regions, sea-of-cortez, zone-lexicon) get a distinct type (or a template amendment) instead of being forced into the spot-page type:location skeleton with parent:unknown and a gap-flagged, inapplicable ## Getting there — mechanically valid but sets a copy-paste precedent for 7 more notes and contradicts note_schema.py's own comment that unknown is not a legal value for parent.

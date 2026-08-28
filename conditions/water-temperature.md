@@ -176,6 +176,7 @@ Trip reports and per-source provenance: [evidence file](evidence/water-temperatu
 - [Baja Pacific — North](../locations/baja-pacific-north.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
+- [Bass Structure](../locations/bass-structure.md)
 - [Bight Geography](../locations/bight-geography.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)

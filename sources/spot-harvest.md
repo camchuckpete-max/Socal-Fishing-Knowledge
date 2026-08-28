@@ -494,4 +494,11 @@ harvested.
 | San Clemente Island | bait/fishing-live-bait.md | evidence — Chumming with live bait | dead sardines smashed in a "chum buddy" bucket before hitting the water raised bait around the boat without drawing seals | `Klfb433I3Uk` |
 | San Clemente Island | bait/fishing-live-bait.md | evidence — Handling live squid | gripping a live squid firmly enough it can't wrap the fingers and peck with its beak avoided getting inked while baiting up | `yuXr3IJ8ybg` |
 | Catalina Island | bait/fishing-live-bait.md | Handling live squid | grip the mantle over the siphon and eyes to keep a live squid from inking or gripping the hand while baiting up | `Y2bXn44lfqo` |
+| Isaac's Reef | locations/bass-structure.md | Structure & bathymetry | artificial reef built from dumped concrete light poles and freeway rubble | `kwMIgkCtFUE` |
+| Point Loma | locations/bass-structure.md | Structure & bathymetry / How it fishes | superstructure-scale reef running most of the way to the Coronados; too big to fish from one waypoint, driven with the fish finder | `kwMIgkCtFUE` |
+| Long Rock / Santa Ana River pipe (Newport Beach) | locations/bass-structure.md | Structure & bathymetry / How it fishes | narrow multi-mile structure holding and feeding bass year-round; mid-winter bite came in 80 ft on crankbaits running 15 ft deep | `kwMIgkCtFUE` |
+| Rocky Point | locations/evidence/bass-structure.md | How it fishes | kelp head where current swirls around the point; up-current edge wasn't obvious on the first pass | `0KQ--N5TjqE` |
+| Torrance Beach | locations/evidence/bass-structure.md | How it fishes | kelp tight to the beach plus sparse outside kelp holds bass but is hard to pattern | `0KQ--N5TjqE` |
+| Shark Fin / Flat Rock | locations/evidence/bass-structure.md | How it fishes | rock outjet with kelp inside, outside, and up on the beach; bites came on the current-facing outside edge | `0KQ--N5TjqE` |
+| Rat's Beach | locations/evidence/bass-structure.md | How it fishes | usually the most stable, coolest water in the bay through summer; current tends to go slack there | `0KQ--N5TjqE` |
 <!-- review:harvest:end -->

@@ -127,7 +127,7 @@
 - [Banda Bank](banda-bank.md) **[Baja only]** — A charted spot at 31°39.000'N 116°52.000'W (cameron), in the Banda Bank / Todos Santos Island zone.
 - [Barber Poles](barber-poles.md) **[SoCal only]** — A charted spot at 33°26.710'N 117°41.410'W (cameron), in the Dana Point zone.
 - [Barn Kelp](barn-kelp.md) **[SoCal only]** — A charted spot at 33°17.015'N 117°29.475'W (cameron), in the Oceanside / North County zone.
-- [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on — reading it and setting up on it.
+- [Bass Structure](bass-structure.md) **[SoCal only]** — How to break down the kelp, reef, and hard-bottom structure that calico bass and sand bass live on: reading it at isolated-spot vs.
 - [Bays and Harbors](bays-and-harbors.md) **[SoCal only]** — How a SoCal bay or harbor is laid out for fishing — the universal structure a new-to-SoCal angler should be able to name and read on any of them (San Diego Bay,
 - [Beacons](beacons.md) **[SoCal only]** — A charted spot at 33°03.775'N 117°18.750'W (cameron), in the Oceanside / North County zone.
 - [Bell Bank (300)](bell-bank-300.md) **[Baja only]** — A charted spot at 31°36.300'N 118°55.800'W (cameron), in the The Pistol / Bell Bank (300) zone.

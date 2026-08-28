@@ -259,6 +259,7 @@ Trip reports and per-source provenance: [evidence file](evidence/dana-point.md).
 - [279 / 267 / 14 Mile Bank](279-267-14-mile-bank.md)
 - [289 / 284](289-284.md)
 - [Barber Poles](barber-poles.md)
+- [Bass Structure](bass-structure.md)
 - [Dana Point Kelp — Red Buoy](dana-point-kelp-red-buoy.md)
 - [Evidence — 209 / 312](evidence/209-312.md)
 - [Evidence — Dana Point](evidence/dana-point.md)
