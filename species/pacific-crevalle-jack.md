@@ -207,7 +207,6 @@ Trip reports and per-source provenance:
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Snook (Robalo)](snook.md)
 - [Southern California Bight](../locations/socal-bight.md)
-- [Trolling](../techniques/trolling.md)
 - [Upwelling and Turnover](../conditions/upwelling-and-turnover.md)
 - [Yellowfin Tuna](yellowfin-tuna.md)
 <!-- backlinks:end -->

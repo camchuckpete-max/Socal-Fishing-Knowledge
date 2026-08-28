@@ -211,7 +211,7 @@ heavy-leader, locked-drag version of the same cast is
 Trolling small lures tight to the mangrove edge is the other inside program,
 and it converts: a school showing on top gets the trolling rods put down and
 light spinning tackle — a **3/4 oz** casting spoon was named — cast at it
-instead ([trolling](../techniques/trolling.md#magdalena-bay-baja--inshore-estuarymangrove-troll-and-cast-windchop-fallback-from-offshore-marlin), `isXJONlpUP4`).
+instead ([trolling](../techniques/evidence/trolling.md#magdalena-bay-baja--inshoreoffshore-troll), `isXJONlpUP4`).
 
 **Leader is the argument inside the mangroves, and it turns on what you are
 fishing for.** For the boca's 100 lb grouper and 42 lb snook the build runs

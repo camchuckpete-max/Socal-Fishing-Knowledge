@@ -299,5 +299,4 @@ Trip reports and per-source provenance: [evidence file](evidence/bonito.md).
 - [Southern California Bight](../locations/socal-bight.md)
 - [Surface Iron](../techniques/surface-iron.md)
 - [Tanner Bank](../locations/tanner-bank.md)
-- [Trolling](../techniques/trolling.md)
 <!-- backlinks:end -->

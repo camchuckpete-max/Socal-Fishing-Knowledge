@@ -31,6 +31,7 @@
 - [Evidence — Surface Iron — Colour](surface-iron-color.md) — Trip reports and per-source provenance backing surface iron — colour.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 - [Evidence — Swimbaits](swimbaits.md) — Per-source provenance backing swimbaits.
+- [Evidence — Trolling](trolling.md) — Per-source provenance backing trolling.
 <!-- index:end -->
 
 
@@ -66,6 +67,7 @@ graph LR
   n24["Evidence — Surface Iron — Colour"]
   n25["Evidence — Surface Iron"]
   n26["Evidence — Swimbaits"]
+  n27["Evidence — Trolling"]
   n24 --> n25
 ```
 <!-- mermaid:end -->

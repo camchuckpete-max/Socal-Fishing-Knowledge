@@ -361,4 +361,11 @@ harvested.
 | Chester's Rock (south end of Cedros Island, Baja) | techniques/swimbaits.md | evidence — Weedless rigging | a 3/8 oz Trokar keel-weighted weedless bait ran clean through heavy kelp with no fouling | `_r_qKX_7080` |
 | Dono, Baja | techniques/swimbaits.md | evidence — The retrieve and the hookset | a very slow wind produced a sheephead; anglers coached to "slow roll on the bottom" when the bite called for it | `L3tkGVu516A` |
 | Northwest Harbor (San Clemente Island, front side) | techniques/swimbaits.md | evidence — The retrieve and the hookset | drop-to-bottom, 10-15 turns up, free-spool back down cadence once a producing spot was located | `iQLyBzhOSi8` |
+| Tanker Lanes (Catalina) | techniques/trolling.md | evidence — Marlin trolling, Catalina | run leg on a half-day marlin troll, 19.2 mi at 193° from the home port, roughly 17 mi out | `3qSY328fFYo` |
+| 277 Bank (Catalina) | techniques/trolling.md | evidence — Marlin trolling, Catalina | destination past the tanker lanes at the bottom of the ridge off Catalina's east end; target water temp 68°F | `3qSY328fFYo` |
+| El Bajo (La Paz) | techniques/trolling.md | evidence — La Paz live-bait slow-troll | dropped-bait-then-slow-trolled-mackerel bank stop for yellowtail/amberjack; shallowest ~50 ft low tide, ≤80 ft high tide | `92y14x33etQ` |
+| Isla Espíritu Santo (La Paz) | techniques/trolling.md | evidence — La Paz live-bait slow-troll | quiet snapper/cabrilla bottom stop worked before the El Bajo run | `92y14x33etQ` |
+| Alijos Rocks | techniques/trolling.md | evidence — Alijos Rocks wahoo troll | bomb-lure trolling stop for wahoo, unfished ~5 days beforehand, ~400 mi south of San Diego | `97clKtVsEOs` |
+| "The Ridge" (offshore of Magdalena Bay) | techniques/trolling.md | evidence — Magdalena Bay inshore/offshore troll | the longer offshore bank option, chosen over "Modesto Main" when the wave state outside the boca looked manageable; depth captioned ~23 fathoms (asr-uncertain) | `OVwqUKim9Pc` |
+| "Modesto Main" (Magdalena Bay) | techniques/trolling.md | evidence — Magdalena Bay inshore/offshore troll | the closer fallback bank, picked when the wave state outside the boca looked too rough for the longer Ridge run | `OVwqUKim9Pc` |
 <!-- review:harvest:end -->

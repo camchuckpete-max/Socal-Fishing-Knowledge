@@ -146,7 +146,7 @@ fish sit on the **edges — up in front and on the flanks** of a feeding pod, an
 can foam out as much as **50 yd** ahead of it. The lure is a small
 tungsten-headed finesse trolling lure pulled on **60 or 80 lb** straight to the
 lure at **7–9 mph** (`ouBrIdO7d4k`) — full execution in
-[trolling](../techniques/trolling.md#socal-backside-of-catalina--porpoise-associated-yellowfin-finesse-trolling).
+[trolling](../techniques/trolling.md#backside-catalina--porpoise-associated-yellowfin-finesse-trolling).
 
 Zone guides — the trip-level story:
 

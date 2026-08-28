@@ -430,6 +430,7 @@ Rocks) — not a confirmed wahoo catch, and not merged into
 
 - [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
+- [Evidence — Trolling](evidence/trolling.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Haywire Twist](../rigging/haywire-twist.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
@@ -438,7 +439,6 @@ Rocks) — not a confirmed wahoo catch, and not merged into
 - [Searcher Five-Outfit Quiver — 7-Day Trip to Alijos Rocks and "The Ridge" (SearcherSportfishing, 2009-08-25)](../tackle/searcher-alijos-rocks-ridge-7-day-quiver.md)
 - [Searcher Four-Outfit Essential Quiver — Fisherman's Landing Rental Packages (Captain Arch, SearcherSportfishing, 2021-10-07)](../tackle/searcher-four-outfit-guadalupe-quiver.md)
 - [Searcher Tackle Tip Thursday — Big/Giant Tuna Rig Ladder (Steve Carson, Penn)](../tackle/searcher-big-tuna-rig-ladder.md)
-- [Trolling](trolling.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md)
 - [Wahoo — Deck Safety (Razor Teeth)](../fish-care/wahoo-handling.md)
