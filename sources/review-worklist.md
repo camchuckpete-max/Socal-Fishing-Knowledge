@@ -140,7 +140,7 @@ by their builders after the transform phase drains.
 | conditions/sea-state.md | standard | transformed | spots(9), asr-uncertain(1) | transform verified - plain-statement rewrite, evidence split, and How-to-use section all conserve before-state facts; one meaning-drift wording fix applied |
 | conditions/tide-and-slack.md | standard | transformed | spots(2), cite-fix(1) | transform applied - evidence split (2 observations), cite Ep.15 -> OpcKQPA3vAI resolved, How to use it in planning section added, layout v2 added |
 | conditions/upwelling-and-turnover.md | standard | transformed | spots(8) | transform verified - attribution moved to cites/manifest, all before-content conserved, template skeleton + How to use it in planning section added compliantly, 0 dead links |
-| conditions/water-color.md | standard | pending |  |  |
+| conditions/water-color.md | standard | transformed | gaps(1), spots(3) | transform applied: attribution preambles moved to new evidence/water-color.md, Duane Diego cite resolved to HWx1jDTGsng, How to use it in planning + Evidence sections added, layout: v2 |
 | conditions/water-regimes.md | standard | pending |  |  |
 | conditions/water-temperature.md | standard | pending |  |  |
 | seasonal/april.md | standard | pending |  |  |

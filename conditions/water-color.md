@@ -1,130 +1,140 @@
 ---
 type: conditions
 tags: [water-color, chlorophyll, clarity, upwelling, white-seabass, bait, edges]
-sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI, JiJYamo0QHk, LqW32NSkObY]
+sources: [h3PTupup17I, 6TBxHnkYXI0, HzE4FHHcvTk, cameron, i4OB4G6_adI, JiJYamo0QHk, LqW32NSkObY, HWx1jDTGsng]
 confidence: high
+layout: v2
 ---
 
 # Water Color
 
 Water color / chlorophyll is the second axis alongside [SST](water-temperature.md).
-The key idea is that **not all green water is equal** — a chlorophyll signal has an
-**age**, and the fishable water is usually an **edge**, not the middle of a mass.
+Not all green water is equal — a chlorophyll signal has an **age**, and the
+fishable water is usually an **edge**, not the middle of a mass.
 
 ## Chlorophyll has an age: new cold bloom vs mature bloom edge
 
-The productivity chain runs with a **time lag**: current + structure → upwelling →
+The productivity chain runs on a **time lag**: current + structure → upwelling →
 nutrients + light → phytoplankton (the chlorophyll signal) → zooplankton → bait →
-gamefish (Ep. 1, oceanography). So freshly upwelled water is **cold, green, and
-bad *now* but productive *later***.
+gamefish (`h3PTupup17I`). Freshly upwelled water is therefore cold, green, and
+**bad now, productive later**:
 
 - **New cold bloom (avoid now).** An overnight **~5 °F drop** plus green water
-  after an afternoon NW wind is a **local upwelling event** — short-term negative.
-  **Mark it for the recovery**, do not expect it to fish today.
-- **Mature bloom edge (fish).** The **edge** of an established, aged bloom is where
+  after an afternoon NW wind is a local upwelling event — short-term negative.
+  Mark it for the recovery; don't expect it to fish today (`h3PTupup17I`).
+- **Mature bloom edge (fish).** The edge of an established, aged bloom is where
   the chain has caught up and bait/predators have stacked.
 
-Give every chlorophyll pull this **freshness dimension**: distinguish a new
+Give every chlorophyll pull this freshness dimension: distinguish a new
 cold-green bloom (skip for now) from a mature bloom edge (fish it).
 
-### Reading the day-age color dots on a chart (Capt. Dave Hansen)
+### Reading day-age color dots on a chart
 
-**Attributed** (Capt. Dave Hansen, live seminar, Fred Hall Show 2019 Part 2,
-filmed by Utah Spahghettzi Björker, `JiJYamo0QHk`, 2019-03-12; dave-hansen
-registered voice — medium confidence, single mention on this specific
-point). A chart-level, practical version of the freshness idea above: on the
-SST/chlorophyll charts he works from, fish-sighting dots are color-coded by
-age — **red = today, yellow = yesterday, green = the day before that**.
+A chart-level, practical version of the freshness idea above: fish-sighting
+dots on SST/chlorophyll charts are color-coded by age — red for today, yellow
+for yesterday, green for the day before that (`JiJYamo0QHk`).
 
-- Watch all three colors together to read which direction the water — and
-  the fish riding it — has been moving over that 3-day window, then run to
-  **where the water is heading, not where it was**; his stated rule is to
-  work ahead of the trend rather than straight to the red dot, since the
-  water is always advecting.
+- Watch all three colors together to read which direction the water — and the
+  fish riding it — has moved over that 3-day window, then run to where the
+  water is heading, not where it was: work ahead of the trend rather than
+  straight to the red dot, since the water is always advecting (`JiJYamo0QHk`).
 - If the projected water isn't holding fish, work back down the trend line
   toward yesterday's (yellow) position — the fish are typically somewhere in
-  between the two.
-- A chart-reading operationalization of the advection priors already logged
-  in [report reading and forecasting](../planning/report-reading-and-forecasting.md#advection--reports-have-a-shelf-life-measured-in-miles).
+  between the two (`JiJYamo0QHk`).
+- A chart-reading operationalization of the advection priors already logged in
+  [report reading and forecasting](../planning/report-reading-and-forecasting.md#advection--reports-have-a-shelf-life-measured-in-miles).
 
 ## The white-seabass color triad
 
-"Seabass-color" **milky / off-color** water alone is **not a spot**. It only
-produces with **all three** present together:
-1. off-color water patch,
-2. **current**, and
-3. **bait**.
+"Seabass-color" milky/off-color water alone is not a spot. It only produces
+with all three present together:
 
-Missing any one → leave within 20–30 min. The best version is the **local
-variation**: a dirty patch with a **hard rip / foam edge** set inside otherwise
+1. off-color water patch,
+2. current, and
+3. bait.
+
+Missing any one → leave within 20–30 min. The best version is the local
+variation: a dirty patch with a hard rip/foam edge set inside otherwise
 cleaner water — fish hide in the dirt to ambush (`6TBxHnkYXI0`). See
 [white seabass](../species/white-seabass.md) and
 [tide and slack](tide-and-slack.md) for the full triad discipline.
 
 ## Bait holds in the dirtier water; predators work the edge
 
-Bait was found **holding in the *dirtier* water** while the clean blue water sat
-empty — clean-water trolling found **nothing** because the bait was not there
-(`HzE4FHHcvTk`). **Predators work the dirty/clean edge**: bluefin transit the **chalky
-transition**, and the **dirty side holds the bait** (Duane Diego). So do not
-default to the prettiest blue water — find where the bait is (often the off-color
-side) and work the **seam** between dirty and clean.
+Bait was found holding in the dirtier water while the clean blue water sat
+empty — trolling the clean water produced nothing because the bait was not
+there (`HzE4FHHcvTk`). Predators work the dirty/clean edge: bluefin transit
+the chalky transition, and the dirty side holds the bait (`HWx1jDTGsng`). Do
+not default to the prettiest blue water — find where the bait is (often the
+off-color side) and work the seam between dirty and clean.
 
-## Cameron's warm-water-year color doctrine
+## Warm-water-year color doctrine
 
-**Cameron:** in **warm-water years** he weights **chlorophyll / water color at
-least as heavily as SST** when picking water, and **will not fish "dirty green"
-water for gamefish**. This sharpens the general rule for a warm regime: when SST is
-broadly high, let **clarity** be the deciding axis and steer off the dead green
-water. (Consistent with the corpus "warmest × cleanest" read for
-[yellowfin](../species/yellowfin-tuna.md).)
+In warm-water years, weight chlorophyll/water color at least as heavily as
+SST when picking water, and skip "dirty green" water for gamefish (cameron).
+This sharpens the general rule for a warm regime: when SST reads broadly
+high, let clarity be the deciding axis and steer off the dead green water —
+consistent with the corpus's "warmest × cleanest" read for
+[yellowfin](../species/yellowfin-tuna.md).
 
 ## Light penetration and why blue water is blue (mechanism, generic — not SoCal-measured)
 
-Background mechanism from an oceanography lecture (Crust to Coast, "Physical
-Oceanography," `i4OB4G6_adI`, 2022-09-27; registered mechanism source per the
-source registry — global generic figures, not a SoCal measurement, and not
-fishing doctrine): solar energy attenuates fast with depth — roughly **45% of
-surface solar energy remains at 1 m, 16% at 10 m, 1% at 100 m**, and much less
-by 1,000 m. The ocean absorbs different light wavelengths at different rates;
-shorter wavelengths (visible light spans roughly 400–700 nm) penetrate
-furthest, with **blue penetrating the furthest of all** — the other
-wavelengths get absorbed first, leaving blue as the color that scatters back
-to the eye, which is why open ocean water reads blue (green readings are a
-separate, additional effect — see the chlorophyll/bloom mechanism above).
-Depth is also zoned by how much light reaches it: **photic** (well-lit,
-upper water column), **dysphotic** (twilight, dim light — the specific depth
-boundary given on camera was inconsistent/ASR-garbled and is not carried
-here), and **aphotic** (**below ~1,000 m**, no light, complete darkness).
-This photic/dysphotic/aphotic terminology is consistent with, and not a
-contradiction of, the epipelagic/euphotic (0–200 m) and mesopelagic
-(200–1,000 m) zone vocabulary already logged in
-[deep scattering layer](deep-scattering-layer.md) from a companion Crust to
-Coast lecture — background terminology only; it does not change the
-color/clarity doctrine above.
+Background mechanism, not fishing doctrine (`i4OB4G6_adI`): solar energy
+attenuates fast with depth — roughly **45% of surface solar energy remains at
+1 m, 16% at 10 m, 1% at 100 m**, and much less by 1,000 m. The ocean absorbs
+different light wavelengths at different rates; shorter wavelengths (visible
+light spans roughly 400–700 nm) penetrate furthest, with **blue penetrating
+the furthest of all** — the other wavelengths get absorbed first, leaving
+blue as the color that scatters back to the eye, which is why open ocean
+water reads blue (green readings are a separate, additional effect — see the
+chlorophyll/bloom mechanism above). Depth is also zoned by how much light
+reaches it: **photic** (well-lit, upper water column), **dysphotic**
+(twilight, dim light — the specific depth boundary given on camera was
+ASR-garbled and is not carried here), and **aphotic** (below ~1,000 m, no
+light, complete darkness). This photic/dysphotic/aphotic terminology is
+consistent with, and not a contradiction of, the epipelagic/euphotic
+(0–200 m) and mesopelagic (200–1,000 m) zone vocabulary already logged in
+[deep scattering layer](deep-scattering-layer.md) — background terminology
+only; it does not change the color/clarity doctrine above.
 
-## Lure brightness in murky/dirty water (inshore bass)
+## Lure brightness and bite depth by water clarity (coastal bass)
 
-**Doctrine (medium — Tommy Ponce, kayak guide, Dana Point, Fisher Newb
-seminar, `LqW32NSkObY`, 2019-03-13):** for coastal calico/sand bass fished
-from close range (kayak/skiff), murkier water calls for more flash and
-brighter colors — a blade-style lure (e.g. a **1 oz+ spinnerbait**) cuts
-through stained water in a way a subtler presentation doesn't, giving the
-fish less work to find the bait. Clear water is preferred outright when
-available; the color/brightness call only becomes load-bearing once the
-water turns murky. Rain runoff was named as the local driver of dirty water
-in his home waters, and is tied to the bite-behavior note below.
+Fished at close range from a kayak or skiff, murkier water calls for more
+flash and brighter colors: a blade-style lure — a 1 oz+ spinnerbait, for
+example — cuts through stained water and gives the fish less work to find it
+than a subtler presentation (`LqW32NSkObY`). Clear water is preferred
+outright when available; brightness only becomes the load-bearing choice
+once the water turns murky. Rain runoff is the locally named driver of dirty
+water in this pattern.
 
-**Rain/dirty water pushes the bite to the bottom; bright, clear days open up
-top water (same source):** after heavy rain muddies the water, bass were
-described as hunkering on the bottom and largely off the bite rather than
-holding at their normal depth — effectively fishing as bottom-only fish
-during that window. On bright, sunny, clear days by contrast, warmer surface
-water pulls fish up to feed on bait moving through the top of the water
-column, producing more consistent top-water opportunities. Single-source,
-unregistered channel — medium confidence; kept here as a coastal-bass-specific
-case of the general clarity/color doctrine above, not a claim about offshore
-water color.
+Rain-driven dirty water pushes calico/sand bass onto the bottom and largely
+off the bite rather than holding at their normal depth
+⚠ Flagged gap — no corpus source: mechanism (`LqW32NSkObY`). On bright,
+clear days, warmer surface water pulls fish up to feed on bait moving through
+the top of the water column, producing more consistent top-water
+opportunities (`LqW32NSkObY`).
+
+## How to use it in planning
+
+- Attach the age question to every chlorophyll pull: a freshly upwelled
+  cold-green bloom (post-wind, overnight ~5 °F drop) is a **later** asset —
+  mark it and come back; a mature bloom edge, where green meets blue, is a
+  **now** asset.
+- Read the color-dot age (red = today, yellow = yesterday, green = the day
+  before) together and run ahead of the trend toward where the water is
+  heading, not straight to today's dot; back off toward yesterday's position
+  if the projected water isn't holding fish.
+- For white seabass/halibut, confirm all three of off-color water, current,
+  and bait before committing to a spot, and prioritize a dirty-water patch
+  with a hard rip/foam edge inside cleaner water over plain milky water
+  alone.
+- Do not default to the cleanest blue water: locate the bait first and work
+  the seam of a chalky/dirty-clean transition.
+- In a warm-water year, weight clarity at least as heavily as SST and steer
+  off dead green water.
+- For close-range coastal bass in murky water, size up flash/brightness
+  (e.g., a 1 oz+ spinnerbait); expect the bite to compress toward bottom
+  after heavy rain and toward top water on bright, clear days.
 
 ## Related
 
@@ -136,6 +146,9 @@ water color.
   [current diagnostics](current-diagnostics.md).
 - [Day-plan protocol](../planning/day-plan-protocol.md)
 
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/water-color.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -173,6 +186,7 @@ water color.
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)
+- [Evidence — Water Color](evidence/water-color.md)
 - [February–March](../seasonal/february-march.md)
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
 - [Hancock Bank](../locations/hancock-bank.md)

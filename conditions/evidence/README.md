@@ -12,6 +12,7 @@
 - [Evidence — Moon](moon.md) — Per-source provenance backing Moon.
 - [Evidence — Sea State](sea-state.md) — Per-source provenance backing Sea State.
 - [Evidence — Tide and Slack](tide-and-slack.md) — Per-source provenance backing Tide and Slack.
+- [Evidence — Water Color](water-color.md) — Per-source provenance backing Water Color.
 <!-- index:end -->
 
 
@@ -28,6 +29,7 @@ graph LR
   n5["Evidence — Moon"]
   n6["Evidence — Sea State"]
   n7["Evidence — Tide and Slack"]
+  n8["Evidence — Water Color"]
   n4 --> n0
 ```
 <!-- mermaid:end -->

@@ -437,4 +437,7 @@ harvested.
 | 9 Mile Bank SD | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
 | 14 Mile Bank LA | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
 | Cortes Bank | conditions/upwelling-and-turnover.md | Turnover | one of the original 8 BightSST upwelling/turnover eval spots | cameron |
+| Avalon Bank | conditions/water-color.md | evidence — Bait holds in the dirtier water; predators work the edge | marlin jigs run on the bait edge in dirtier-than-usual water; bait vanished trolling into the adjacent clear blue | `HzE4FHHcvTk` |
+| 152 Ridge | conditions/water-color.md | evidence — Bait holds in the dirtier water; predators work the edge | fished up toward the ridge en route to Avalon Bank; heavy bait along it before drying up near Avalon | `HzE4FHHcvTk` |
+| Dana Point | conditions/water-color.md | evidence — Lure brightness and bite depth by water clarity (coastal bass) | home waters for the kayak-guide murky-water lure-brightness / rain-runoff clarity doctrine | `LqW32NSkObY` |
 <!-- review:harvest:end -->
