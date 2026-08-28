@@ -70,7 +70,7 @@ by their builders after the transform phase drains.
 | techniques/slow-trolling-bait.md | standard | transformed | spots(1) | migrated to layout v2: added infobox fields, added missing Gear class section, per-claim cites replacing attribution preamble, moved secondhand Cedros observation to evidence (147→156 lines; evidence 29 lines) |
 | techniques/speed-trolling.md | standard | transformed | none | transform verified, apply-with-changes: fixed a fabricated gear_classes slug and a misattributed internal cite; all doctrine, numbers, and the Cameron no-swivel conflict traced faithfully to source |
 | techniques/spinnerbaits.md | standard | transformed | gaps(1), spots(2), asr-uncertain(War Baits HD vs 1 oz HP Warhead) | transform verified faithful — v2 skeleton, cites, and evidence split all conform; Lane attribution correctly relocated to evidence per style-guide v2.1 |
-| techniques/spinning-reel-wind-knots.md | standard | pending |  |  |
+| techniques/spinning-reel-wind-knots.md | standard | transformed | gaps(1) | transform verified faithful — v2 skeleton, cites conserved, 5/5 transcript spot-checks match |
 | techniques/surface-iron-casting.md | standard | pending |  |  |
 | techniques/surface-iron-color.md | standard | pending |  |  |
 | techniques/surface-iron.md | standard | transformed | misplaced(1) spots(10) | faithful transform 654->512 lines + 77-line evidence: blockquotes to prose, source-scoped headings dissolved, 2 legacy cites transcript-verified; 2 verifier fixes (cite-scope split, harvest-row cite) |
