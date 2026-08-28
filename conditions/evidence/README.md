@@ -13,6 +13,7 @@
 - [Evidence — Sea State](sea-state.md) — Per-source provenance backing Sea State.
 - [Evidence — Tide and Slack](tide-and-slack.md) — Per-source provenance backing Tide and Slack.
 - [Evidence — Water Color](water-color.md) — Per-source provenance backing Water Color.
+- [Evidence — Water Temperature](water-temperature.md) — Per-source provenance backing Water Temperature.
 <!-- index:end -->
 
 
@@ -30,6 +31,7 @@ graph LR
   n6["Evidence — Sea State"]
   n7["Evidence — Tide and Slack"]
   n8["Evidence — Water Color"]
+  n9["Evidence — Water Temperature"]
   n4 --> n0
 ```
 <!-- mermaid:end -->

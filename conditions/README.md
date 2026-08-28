@@ -15,7 +15,7 @@
 - [Upwelling and Turnover](upwelling-and-turnover.md) — Chlorophyll is not a yes/no signal — it has an age.
 - [Water Color](water-color.md) — Water color / chlorophyll is the second axis alongside SST.
 - [Water Regimes](water-regimes.md) — The Bight's fishing year runs on four water-state regimes, not twelve calendar months (cameron).
-- [Water Temperature](water-temperature.md) — SST is one axis of a two-axis read (temperature and water color / chlorophyll).
+- [Water Temperature](water-temperature.md) — SST is one axis of a two-axis read — temperature and water color / chlorophyll.
 
 ### Subfolders
 - [evidence/](evidence/README.md)

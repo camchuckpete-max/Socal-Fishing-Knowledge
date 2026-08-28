@@ -442,4 +442,7 @@ harvested.
 | Dana Point | conditions/water-color.md | evidence — Lure brightness and bite depth by water clarity (coastal bass) | home waters for the kayak-guide murky-water lure-brightness / rain-runoff clarity doctrine | `LqW32NSkObY` |
 | Tanner Bank | conditions/water-regimes.md | 4. Fall fragmentation regime | fall warm band condenses/retreats offshore toward Tanner Bank as the coast cools | `OYOda6T3f-8` |
 | Cortez Bank | conditions/water-regimes.md | 4. Fall fragmentation regime | fall warm band condenses/retreats offshore toward Cortez Bank as the coast cools | `OYOda6T3f-8` |
+| Cortez Bank | conditions/water-temperature.md | evidence — The break-side rules | day 1 of a five-day trip fished 74-75 °F water for a mixed yellowtail/yellowfin/skipjack bite | `i3qIAHW-SJc` |
+| Osborn Bank | conditions/water-temperature.md | evidence — The break-side rules | day 2 ran to markedly cooler 70-72 °F water chasing an early-graylight bluefin bite | `i3qIAHW-SJc` |
+| Santa Barbara Island | conditions/water-temperature.md | evidence — The break-side rules | locates Osborn Bank as near Santa Barbara Island for the same bluefin bite | `i3qIAHW-SJc` |
 <!-- review:harvest:end -->

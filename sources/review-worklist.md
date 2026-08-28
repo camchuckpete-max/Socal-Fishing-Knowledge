@@ -142,7 +142,7 @@ by their builders after the transform phase drains.
 | conditions/upwelling-and-turnover.md | standard | transformed | spots(8) | transform verified - attribution moved to cites/manifest, all before-content conserved, template skeleton + How to use it in planning section added compliantly, 0 dead links |
 | conditions/water-color.md | standard | transformed | gaps(1), spots(3) | transform applied: attribution preambles moved to new evidence/water-color.md, Duane Diego cite resolved to HWx1jDTGsng, How to use it in planning + Evidence sections added, layout: v2 |
 | conditions/water-regimes.md | standard | transformed | spots(2) | transform verified: plain-statement rewrite adds layout:v2, per-claim (cameron) cites, How to use it in planning section; linked bare Cortez Bank mention to locations/tanner-bank.md; no fact/cite/source dropped |
-| conditions/water-temperature.md | standard | pending |  |  |
+| conditions/water-temperature.md | standard | transformed | spots(3) | transform applied: attribution preambles retired, single-trip Cortez/Osborn observation split to evidence file with a one-line doctrine trace retained, per-bullet cites added to mechanism sections, dorado boundary enriched with E4vKwRaRueA, layout: v2 |
 | seasonal/april.md | standard | pending |  |  |
 | seasonal/august.md | standard | pending |  |  |
 | seasonal/february-march.md | standard | pending |  |  |

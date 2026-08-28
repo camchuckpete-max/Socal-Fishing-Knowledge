@@ -1,57 +1,43 @@
 ---
 type: conditions
 tags: [sst, temperature, breaks, bluefin, yellowfin, dorado]
-sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA, i4OB4G6_adI, OEsW9K1IwpQ]
+sources: [OYOda6T3f-8, XLVUhV8DW64, 5to3Q5P7w90, i3qIAHW-SJc, 6pAmcsTtYGA, i4OB4G6_adI, OEsW9K1IwpQ, E4vKwRaRueA]
 confidence: high
+layout: v2
 ---
 
 # Water Temperature
 
-SST is one axis of a two-axis read (temperature **and** [water
-color](water-color.md) / chlorophyll). In the fall regime change, Landesfeind is
-explicit: "conditions become pretty important… look **100% at your temp chart and
-chlorophyll**" (`OYOda6T3f-8`). The value is usually not the absolute number but which
-**side of a break** a species sits on.
+SST is one axis of a two-axis read — temperature **and** [water
+color](water-color.md) / chlorophyll. In the fall regime change, conditions
+become the dominant factor: "conditions become pretty important… look **100%
+at your temp chart and chlorophyll**" (`OYOda6T3f-8`). The value is usually not
+the absolute number but which **side of a break** a species sits on.
 
 ## The break-side rules (which side of the temperature edge)
 
 - **Bluefin tuna — relative, not absolute.** Bluefin sit the **cool side** of a
   break when the surrounding water is **warm**, and the **warm side** when the
-  water is **cold** (`OYOda6T3f-8`). Read the break, not the thermometer: find the edge,
-  then pick the side by whether the regime is warm or cold overall. See
-  [bluefin tuna](../species/bluefin-tuna.md).
+  water is **cold** — read the break, not the thermometer: find the edge, then
+  pick the side by whether the overall regime is warm or cold (`OYOda6T3f-8`).
+  See [bluefin tuna](../species/bluefin-tuna.md). A bank-edge trip matched this
+  pattern: bluefin held the cooler **70–72 °F** water at a bank edge while
+  yellowtail and yellowfin sat in warmer water nearby (`i3qIAHW-SJc`).
 - **Yellowfin tuna — warmest × cleanest.** Yellowfin want the **warmest + cleanest**
   combination: SST **max** × chlorophyll **min** (`OYOda6T3f-8`, `XLVUhV8DW64`). See
   [yellowfin tuna](../species/yellowfin-tuna.md).
 - **Dorado — the coastal boundary.** Dorado concentrate at the **green-cold /
-  blue-warm coastal boundary**, referenced around **~71–72 °F** (dorado video).
-  Fish the boundary line, not the middle of either mass. See
-  [dorado](../species/dorado.md).
+  blue-warm coastal boundary**, referenced around **~71–72 °F**, with **71.6 °F**
+  measured on a productive paddy (`E4vKwRaRueA`). Fish the boundary line, not
+  the middle of either mass. See [dorado](../species/dorado.md).
 
 ## The 76 °F bluefin ceiling is SOFT, not hard
 
-Bluefin were observed **foaming in 76 °F** water — above the usually assumed
-ceiling — and the observer himself flagged it as unusual (`5to3Q5P7w90`). Consequence:
-treat warm SST as **soft evidence against** bluefin, **not a hard exclusion**. A
-warm number **softens** the case but does not move the productive band or rule the
-zone out. Do not skip otherwise-good bluefin sign because the SST reads high.
-
-## Observed — bank-to-bank temperature swing driving a bite change
-
-**Observed** (StokedOnFishing, `i3qIAHW-SJc`, 2016-08-08, "Top Gun 80 Epic 5
-Day, part 2," Cortez Bank → Osborn Bank; unregistered channel — `medium`
-confidence): a single-trip field data point, kept beside the doctrine above
-rather than confirming it.
-
-Day 1 at Cortez Bank fished **74–75 °F** water for a mixed yellowtail /
-yellowfin / skipjack bite. Day 2, at Osborn Bank near Santa Barbara Island,
-the boat found markedly cooler water — **70 °F** right at the bank edge
-(about a mile and a half off the boat's position), **72 °F** where the boat
-itself sat — with the crew explicitly framing the move as "chasing some
-cooler water." The early-graylight bite in that cooler water (starting
-roughly **4:30–5:00 a.m.**) was bluefin tuna; later the same morning,
-yellowtail and yellowfin were found **southeast of the bank, where the water
-warms up a little** — the warmer side of the same edge.
+Bluefin have been seen foaming in **76 °F** water — above the usual ceiling, an
+atypical reading in its own source (`5to3Q5P7w90`). Treat a warm SST reading as
+**soft evidence against** bluefin, never a hard exclusion: it softens the case
+without moving the productive band or ruling the zone out. Do not skip
+otherwise-good bluefin sign because the SST reads high.
 
 ## Salinity vs. latitude and depth (mechanism, generic — not SoCal-measured)
 
@@ -85,13 +71,13 @@ with a global average of about **4 °C** (surface temperature runs up to
 the water column layers into three bands:
 
 - **Mixed layer** — the upper **~100–200 m (328–656 ft)**, wave-mixed, where
-  most marine life activity happens.
+  most marine life activity happens (`i4OB4G6_adI`).
 - **Thermocline** — roughly **200–500 m (656–1,640 ft)**, a rapid temperature
-  decline with depth.
+  decline with depth (`i4OB4G6_adI`).
 - **Below the thermocline** — temperature levels out to roughly **2 °C** and
   stays close to that down to the ocean floor; the deep ocean is one of the
   most thermally stable environments in the ocean, fluctuating **less than
-  1 °C**.
+  1 °C** (`i4OB4G6_adI`).
 
 The thermocline itself **varies by latitude and by season**: it is present
 and pronounced in tropical/equatorial water, **absent in polar water** (cold
@@ -105,17 +91,17 @@ expected to move seasonally rather than sit at a fixed depth.
 
 **Density and the pycnocline.** At the ~4 °C global-average temperature,
 seawater density is about **1 g/cm³**; surface seawater density (which also
-factors in salinity) varies roughly **1.02–1.03 g/cm³**. Density **increases
-with depth** — the inverse of the temperature and salinity profiles above,
-which both **decrease** with depth — because density is tied to the same
-pressure-with-depth relationship. The **pycnocline** is the density
-equivalent of the thermocline/halocline: a band of abrupt density increase
-with depth, coinciding with the thermocline and halocline. Below the
-pycnocline, density is fairly constant because temperature and salinity are
-both constant there, producing a stable, highly stratified water column — a
-warm, low-density layer sitting on top of a colder, higher-density layer.
-Background mechanism only; it does not change the break-side or SST doctrine
-above.
+factors in salinity) varies roughly **1.02–1.03 g/cm³** (`i4OB4G6_adI`).
+Density **increases with depth** — the inverse of the temperature and
+salinity profiles above, which both **decrease** with depth — because
+density is tied to the same pressure-with-depth relationship. The
+**pycnocline** is the density equivalent of the thermocline/halocline: a
+band of abrupt density increase with depth, coinciding with the thermocline
+and halocline. Below the pycnocline, density is fairly constant because
+temperature and salinity are both constant there, producing a stable,
+highly stratified water column — a warm, low-density layer sitting on top
+of a colder, higher-density layer (`i4OB4G6_adI`). Background mechanism
+only; it does not change the break-side or SST doctrine above.
 
 ## Ocean heat budget and albedo (mechanism, generic — not SoCal-measured)
 
@@ -161,6 +147,9 @@ doctrine above or add a SoCal-specific parameter.
   matters most.
 - [Day-plan protocol](../planning/day-plan-protocol.md)
 
+## Evidence
+
+Trip reports and per-source provenance: [evidence file](evidence/water-temperature.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -195,6 +184,7 @@ doctrine above or add a SoCal-specific parameter.
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
+- [Evidence — Water Temperature](evidence/water-temperature.md)
 - [February–March](../seasonal/february-march.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
