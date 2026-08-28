@@ -344,4 +344,5 @@ harvested.
 | Lopez Mateos / Magdalena Bay | techniques/sliding-sinker.md | Baja Pacific grouper & snook leader — Lopez Mateos | mandatory 4/0 two-speed Carolina-rig build for grouper and snook on this mark | `EcQK5elTPJE` |
 | Bahía de los Ángeles (BOLA) | techniques/slow-pitch-jigging.md | Jig weight & selection | single trip fished 130–250 g wing-fall jigs at 150–180 ft on a high spot cresting 150–300 ft | `vqsD0qpwcJA` |
 | Ensenada (Pacific side) | techniques/slow-pitch-jigging.md | evidence — Reach for this when | slow-pitch stop over a sounder-marked ~300 ft rocky bottom after a yellowtail stop went quiet | `0dIwWiOc1NY` |
+| Cedros Island | techniques/slow-trolling-bait.md | Cedros Island, Baja Pacific — a rest-break substitute for casting | bait-dock mackerel/sardine slow-troll worked as an arm-fatigue break from casting iron; 15 in mackerel | `_C7TJoGT0nw` |
 <!-- review:harvest:end -->

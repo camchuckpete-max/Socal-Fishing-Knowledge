@@ -357,6 +357,7 @@ does the lookup.
 - [Skipjack Tuna](../species/skipjack-tuna.md)
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
+- [Slow-Trolling Live Bait](../techniques/slow-trolling-bait.md)
 - [Snook (Robalo)](../species/snook.md)
 - [South 9 Mile Bank / 439](../locations/south-9-mile-bank-439.md)
 - [Speed Trolling](../techniques/speed-trolling.md)
