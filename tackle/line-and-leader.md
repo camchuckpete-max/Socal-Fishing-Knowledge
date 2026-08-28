@@ -587,7 +587,7 @@ on-the-water trip observations: [evidence file](evidence/line-and-leader.md).
 - [Ocean Whitefish](../species/ocean-whitefish.md)
 - [Pacific Crevalle Jack (Toro)](../species/pacific-crevalle-jack.md)
 - [PowerPro Maxcuatro vs. Depth Hunter Offshore — Which Metered Braid to Spool (Tackle Express)](tackle-express-maxcuatro-vs-depth-hunter-offshore.md)
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rockfish Leader Line — Save the Money on Mono, Save Fluoro for a Tough Bite (Tackle Express)](tackle-express-rockfish-leader-line.md)

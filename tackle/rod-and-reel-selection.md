@@ -938,7 +938,7 @@ a bluefin).
 - [Holding the Rod for Live Bait — Off-Hand Grip and the Backpedal](../techniques/rod-handling-live-bait.md)
 - [Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod Blank, Reel-Seat, and Grip Materials — What Each Trade-off Buys You](rod-blank-and-component-materials.md)
 - [Rod Length — Fitting the Stick to the Angler](rod-length-for-angler-size.md)

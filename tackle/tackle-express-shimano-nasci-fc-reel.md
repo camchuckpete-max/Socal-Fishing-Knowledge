@@ -80,7 +80,7 @@ Sedona) is given in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)
 - [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)

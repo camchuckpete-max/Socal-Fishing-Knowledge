@@ -195,7 +195,7 @@ reel types; kept side by side rather than merged into one number.
 - ["Next-Gen" CI4+ Reel Features — Body, Infinity Drive, Infinity Cross, Anti-Twist Fin (Tackle Express)](tackle-express-ci4-plus-reel-features.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](line-and-leader.md)
 - [Maxima Shark Tooth — Leader-Spool Band & Cutter (Tackle Express)](tackle-express-maxima-shark-tooth-leader-tool.md)
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Searcher Tackle Tip Thursday — Lever-Drag Two-Speed Reel Sizing (Penn, Searcher Sportfishing)](searcher-lever-drag-reel-sizing.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](../techniques/spinning-reel-wind-knots.md)

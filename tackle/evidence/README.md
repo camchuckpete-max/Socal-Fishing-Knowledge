@@ -15,6 +15,7 @@
 - [Evidence — Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](jig-rod-rating-selection.md) — Per-source provenance for jig-rated rods — buy toward the top of the rating: channel status, upload dates, and the source-identification finding the main note's
 - [Evidence — Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md) — Per-source provenance for lightweight all-day reel pick — Accurate Valiant Superlight, 500 Narrow.
 - [Evidence — Line & Leader](line-and-leader.md) — Per-source provenance (channel status, dates, presenter identity, ASR caveats) and the on-the-water trip observations for line & leader.
+- [Evidence — Reel & Rod Maintenance](reel-maintenance.md) — Per-source provenance for reel & rod maintenance: channel status, upload dates, and confidence notes the main note's prose gave up.
 <!-- index:end -->
 
 

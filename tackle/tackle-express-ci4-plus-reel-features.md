@@ -81,7 +81,7 @@ application (species/technique/line class) is given in this clip.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Talica — S Compact Body, Infinity Drive, Hagane Body (Tackle Express)](tackle-express-shimano-talica-reel-features.md)

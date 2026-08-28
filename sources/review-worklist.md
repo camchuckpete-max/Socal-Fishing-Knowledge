@@ -195,7 +195,7 @@ by their builders after the transform phase drains.
 | tackle/lightweight-reel-pick-turners-outdoorsman.md | light | done | none | migrated to layout v2, presenter/channel provenance split to evidence file, plain-statement rewrite; verified faithful, link-maintenance re-run for backlinks |
 | tackle/line-and-leader.md | light | done | spots(7), asr-uncertain(panelist-surname, illegible-knot-name) | LIGHT-tier v2 migration, attribution/confidence to evidence file, 2 observation blocks split; verifier restored 5 sources' dropped provenance in evidence file |
 | tackle/offset-hooks.md | light | done | gaps(1) | LIGHT-tier v2 migration: attribution preamble to compact cites, stale hooks.md anchor repaired, hedge reworded to gap flag; verified faithful |
-| tackle/reel-maintenance.md | light | pending |  |  |
+| tackle/reel-maintenance.md | light | done | none | LIGHT-tier v2 migration, 9 source-named sections dissolved into 13 topic sections, evidence file created; verifier fixed a dropped count and an ambiguous merged sentence |
 | tackle/rod-action-testing-technique.md | light | pending |  |  |
 | tackle/rod-and-reel-selection.md | light | pending |  |  |
 | tackle/rod-blank-and-component-materials.md | light | pending |  |  |

@@ -131,7 +131,7 @@ here for anyone auditing the claim.
 
 - [Daiwa Saltiga vs. Shimano Talica — Two-Speed Reel Spec Comparison, Small & Large Pairs (Tackle Express)](tackle-express-saltiga-35-vs-talica-12-reel-sizing.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Sedona — Hagane Gear, G-Free Body, Silent Drive (Tackle Express)](tackle-express-shimano-sedona-reel-features.md)
 - [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)

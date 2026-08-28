@@ -79,7 +79,7 @@ this method doesn't apply there.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](../tackle/reel-maintenance.md)
 - [Spinning-Reel Wind Knots — Close the Bail and Come Tight Immediately](spinning-reel-wind-knots.md)
 - [Underhand Casting](underhand-casting.md)
 <!-- backlinks:end -->

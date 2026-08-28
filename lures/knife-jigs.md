@@ -433,7 +433,7 @@ file](evidence/knife-jigs.md).
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Iron Jigs](iron-jigs.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
-- [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](../tackle/reel-maintenance.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)

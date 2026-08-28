@@ -68,7 +68,7 @@ notes below.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Shimano Nasci FC — X-Ship, Propulsion Line System, Core Protect vs. the Sedona (Tackle Express)](tackle-express-shimano-nasci-fc-reel.md)
 - [Shimano Tranx 300B — Hagane Body, Micro Module Gearing, SB Bearings, X-Ship, and the Four-Model Spec Ladder (Tackle Express)](tackle-express-shimano-tranx-300b-body-gearing-and-model-lineup.md)
 - [Shimano Tranx 300B — SVS Infinity Braking System, Exterior Dial + 8-Pin Internal Block (Tackle Express)](tackle-express-shimano-tranx-300b-braking-system.md)

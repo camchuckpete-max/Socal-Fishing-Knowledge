@@ -59,6 +59,6 @@ the visual steps, see the source: <https://www.youtube.com/watch?v=QQlQcPXARWk>.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Reel & Rod Maintenance — Offseason TLC](reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](reel-maintenance.md)
 - [Shimano Speedmaster vs. Penn Fathom — Reel-Size Ladder by Line Class (Tackle Express)](tackle-express-speedmaster-fathom-reel-sizing.md)
 <!-- backlinks:end -->

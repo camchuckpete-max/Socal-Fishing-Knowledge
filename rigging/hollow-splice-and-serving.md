@@ -86,5 +86,5 @@ Per-source provenance: [evidence file](evidence/hollow-splice-and-serving.md).
 - [Guadalupe](../locations/guadalupe.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Leadhead Mods & Rigging](leadhead-mods.md)
-- [Reel & Rod Maintenance — Offseason TLC](../tackle/reel-maintenance.md)
+- [Reel & Rod Maintenance — Per-Trip Care and Offseason Lay-Up](../tackle/reel-maintenance.md)
 <!-- backlinks:end -->
