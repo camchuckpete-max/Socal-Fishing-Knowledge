@@ -202,7 +202,6 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Fleet Intelligence](../planning/fleet-intelligence.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
-- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Island Structure](../locations/island-structure.md)
 - [Kidney Bank (63) / 175](../locations/kidney-bank-63-175.md)
 - [LA - 270 / 286](../locations/la-270-286.md)

@@ -162,5 +162,6 @@ being fish" and won't eat anything heavier.
 
 - [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Evidence — Hooks](evidence/hooks.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 <!-- backlinks:end -->

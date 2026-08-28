@@ -359,7 +359,6 @@ Trip reports and per-source provenance: [evidence file](evidence/rubber-band-dee
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
 - [Guadalupe](../locations/guadalupe.md)
 - [Hook Assortment by Trip Length — Overnight Through 5–6 Day](../tackle/hook-assortment-by-trip-length.md)
-- [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Rod & Reel Selection — by Application](../tackle/rod-and-reel-selection.md)
 - [Santa Barbara Island](../locations/santa-barbara-island.md)

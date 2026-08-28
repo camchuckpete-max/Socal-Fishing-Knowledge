@@ -189,7 +189,7 @@ by their builders after the transform phase drains.
 | tackle/drag-setting.md | light | done | none | migrated to layout v2, per-source chronicle to 10 topical sections, house-style rewrite, evidence file split; verifier restored 2 dropped items (Carson's lever-drag method, Hansen's star-drag preference) |
 | tackle/gear-classes.md | light | done | none | rail-rod citation apparatus compressed to spec table, style-guide v2.1 fixes, layout v2 added, evidence file split; verified faithful, no information loss |
 | tackle/hook-assortment-by-trip-length.md | light | done | spots(2), asr-uncertain(Alijos Rocks/Mustad 94150) | LIGHT-tier v2 migration: meta-attribution/channel-status boilerplate removed, compact cites, layout: v2 added; verifier added evidence file for dropped presenter/confidence detail, spots logged |
-| tackle/hooks.md | light | pending |  |  |
+| tackle/hooks.md | light | done | spots(9) | LIGHT transform 1051→614 lines, layout v2, evidence file split; verifier found and fixed conservation gap (18 source ids' attribution reconstructed into evidence file), 1 typo fixed |
 | tackle/jig-rod-rating-selection.md | light | pending |  |  |
 | tackle/jigging-rod-guide-wrap.md | light | pending |  |  |
 | tackle/lightweight-reel-pick-turners-outdoorsman.md | light | pending |  |  |
