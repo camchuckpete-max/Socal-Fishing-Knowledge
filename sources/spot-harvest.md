@@ -445,4 +445,7 @@ harvested.
 | Cortez Bank | conditions/water-temperature.md | evidence — The break-side rules | day 1 of a five-day trip fished 74-75 °F water for a mixed yellowtail/yellowfin/skipjack bite | `i3qIAHW-SJc` |
 | Osborn Bank | conditions/water-temperature.md | evidence — The break-side rules | day 2 ran to markedly cooler 70-72 °F water chasing an early-graylight bluefin bite | `i3qIAHW-SJc` |
 | Santa Barbara Island | conditions/water-temperature.md | evidence — The break-side rules | locates Osborn Bank as near Santa Barbara Island for the same bluefin bite | `i3qIAHW-SJc` |
+| Coronado Islands | seasonal/april.md | Wind-rollover geography | held through a big NW blow while the northern islands and LA/Ventura shelf crashed 5-8 °F | `YZtX1MiT0y8` |
+| Catalina Island | seasonal/april.md | Wind-rollover geography | held through a big NW blow while the northern islands and LA/Ventura shelf crashed 5-8 °F | `YZtX1MiT0y8` |
+| San Clemente Island | seasonal/april.md | Wind-rollover geography / San Clemente Island squid zone | held through a big NW blow; squid-zone yellowtail bite dies when squid moves deep, not because fish left | `YZtX1MiT0y8` |
 <!-- review:harvest:end -->
