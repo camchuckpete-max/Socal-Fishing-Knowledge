@@ -79,7 +79,7 @@ by their builders after the transform phase drains.
 | techniques/tube-bait-fishing.md | standard | transformed | spots(2), spinout(1), asr-uncertain(unnamed ~5 mph troll lure identity in the yellowtail troll-to-locate section) | transform verified with 5 fixes (2 dropped quotes/details restored, 1 miscited source corrected, 1 missing misplaced-content flag added, 1 fabricated depth figure removed) |
 | techniques/two-speed-low-gear-fight.md | standard | transformed | none | 300->235 lines in note (observation/provenance split to a new 131-line evidence file), one self-narration phrase fixed in verify |
 | techniques/underhand-casting.md | standard | transformed | none | layout v2 migration, plain-statement rewrite, evidence split - no information loss, all 5 sources spot-checked and faithful |
-| techniques/wacky-rig.md | standard | pending |  |  |
+| techniques/wacky-rig.md | standard | transformed | gaps(1) | v2 migration faithful: evidence split, gap flag, and infobox fields all conserve prior content; no drift found |
 | techniques/wahoo-bomb-casting.md | standard | pending |  |  |
 | techniques/wahoo-trolling.md | standard | pending |  |  |
 | techniques/wind-in-your-face-positioning.md | standard | pending |  |  |

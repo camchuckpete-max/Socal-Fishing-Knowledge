@@ -34,44 +34,12 @@
 - [Evidence — Tube-Bait Fishing](tube-bait-fishing.md) — Per-source provenance backing tube-bait fishing.
 - [Evidence — Two-Speed Reel Technique](two-speed-low-gear-fight.md) — Per-source provenance backing two-speed reel technique — low-gear grind vs.
 - [Evidence — Underhand Casting](underhand-casting.md) — Per-source provenance backing underhand casting.
+- [Evidence — Wacky Rig](wacky-rig.md) — Per-source provenance backing wacky rig.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-```mermaid
-graph LR
-  n0["Evidence — Bait-and-Switch (Striped Marlin)"]
-  n1["Evidence — Cheater Troll"]
-  n2["Evidence — Chunking"]
-  n3["Evidence — Dart Jig — Daytime Finesse Tuna"]
-  n4["Evidence — Drop Shot"]
-  n5["Evidence — Dropper Loop"]
-  n6["Evidence — Fighting a Big Bluefin"]
-  n7["Evidence — Flat-Fall Jigging"]
-  n8["Evidence — Foamer Casting"]
-  n9["Evidence — Hoop Netting"]
-  n10["Evidence — Inshore Crankbaits"]
-  n11["Evidence — Kite Fishing"]
-  n12["Evidence — Knife / Speed Jigging"]
-  n13["Evidence — Leadhead Swimbait Retrieve"]
-  n14["Evidence — Mangrove Structure Livebait"]
-  n15["Evidence — Night Bass Fishing"]
-  n16["Evidence — Rail Etiquette"]
-  n17["Evidence — Rockfish Deep-Dropping"]
-  n18["Evidence — Holding the Rod for Live Bait"]
-  n19["Evidence — Sliding Sinker"]
-  n20["Evidence — Slow-Pitch Jigging (SPJ)"]
-  n21["Evidence — Slow-Trolling Live Bait"]
-  n22["Evidence — Spinnerbaits (Bay Bass)"]
-  n23["Evidence — Surface Iron — The Cast"]
-  n24["Evidence — Surface Iron — Colour"]
-  n25["Evidence — Surface Iron"]
-  n26["Evidence — Swimbaits"]
-  n27["Evidence — Tube-Bait Fishing"]
-  n28["Evidence — Two-Speed Reel Technique"]
-  n29["Evidence — Underhand Casting"]
-  n24 --> n25
-```
+_Map skipped: 31 notes exceed the 30-node cap._
 <!-- mermaid:end -->
