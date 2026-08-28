@@ -5,6 +5,7 @@
 ## Index
 
 - [Evidence — Dehooking & Release Handling](dehooking-and-release.md) — Per-source provenance backing dehooking & release.
+- [Evidence — Dorado & General Fish Care](dorado-and-general.md) — Per-source provenance backing dorado & general fish care.
 <!-- index:end -->
 
 

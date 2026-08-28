@@ -5,7 +5,7 @@
 ## Index
 
 - [Dehooking & Release Handling](dehooking-and-release.md) — Getting a hook out of a fish you intend to release, and measuring it, without doing the damage that makes the release pointless.
-- [Dorado & General Fish Care](dorado-and-general.md) — Dorado get cared for differently from tuna — the priority is protecting their color and flesh, not bleeding — and the second half of this note collects the icin
+- [Dorado & General Fish Care](dorado-and-general.md) — Dorado get cared for differently from tuna: the priority is speed to ice, not bleeding, because dorado break down unusually fast once they're out of the water.
 - [Gaffing — Sizing and the Shot](gaffing.md) — The mechanics of putting a gaff into a fish and getting it aboard, across the species that get gaffed rather than netted in SoCal/Baja: yellowtail, dorado, Cali
 - [Ikejime (Iki-Jime)](ikejime.md) — Ikejime is spiking the fish's brain to kill it instantly, the top tier of tuna care when quality is the goal.
 - [Sculpin (Venomous Spine) Handling](sculpin-handling.md) — Sculpin — the reddish bottomfish anglers pull up on rockfish/bottom gear, commonly called "sculpin" on SoCal boats (California scorpionfish) — carry venomous sp
