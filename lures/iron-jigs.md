@@ -6,345 +6,579 @@ sources: [cameron, XLVUhV8DW64, HnqiE05vdXs, WE643Fue1_A, A70kK2niu2Q, F7jLrt2j2
 confidence: high
 regions: [socal-bight, baja-pacific-north, baja-pacific-south, cortez-north, cortez-south]
 waters: [nearshore-coast, island, bank, open-ocean]
-layout: v2
-lure_class: iron jig — cast-and-retrieve/vertical metal jig; weight-to-profile ratio splits it into a light surface-iron class and a heavier yo-yo-iron class, plus a crossover/column class
-weights: surface iron ~1.75-3 oz (5-7 in); yo-yo iron ~3 oz up to 10 oz+; crossover ~4.25 oz (Nomad Slidekick 120g)
-depth_band: surface iron fishes near the top on a long cast; yo-yo iron commonly runs 60-360 ft; crossover irons are castable and sinkable through the column
-run_speed: surface iron swum on a steady-to-fast grind; yo-yo iron free-spooled down and cranked back at full speed
 ---
 
 # Iron Jigs
 
-The **iron** is SoCal's signature cast-and-retrieve metal jig: a chrome or
-painted elongated slab, sold bare or pre-rigged with a single hook, that swims
-with a side-to-side **kick** on the wind. One class splits into two jobs by
-weight and where in the water column it's fished — a **light, buoyant surface
-iron** swum near the top on a long cast, and a **heavy yo-yo iron** dropped
-straight down and cranked back vertically. This note covers specs, model
-selection, and hook rigging; how each is fished is
-[surface iron](../techniques/surface-iron.md) and
-[yo-yo iron](../techniques/yo-yo-iron.md).
+The **iron** is SoCal's signature cast-and-retrieve metal: a chrome or painted
+elongated slab, hookless-drop or single-hook, that swims with a side-to-side
+**kick** on the wind. One class, two jobs split by weight and where in the water
+column you fish it — a **light, buoyant surface iron** swum near the top on a
+long cast, and a **heavy yo-yo iron** dropped straight down and cranked back
+vertically. This note owns the specs, profile/color/kick selection, and weight
+rules; how each is fished is the reverse map below and the linked technique
+notes.
 
-## Specs
+## The class / models
 
-| Class | Length | Weight | Behavior | Benchmark models |
-| --- | --- | --- | --- | --- |
-| Surface iron | ~5.5–7 in | ~1¾–3 oz, up through the heavier crossover class | light for its length; stays high, swims on a steady grind | Tady 45 / 45 Surface, Salas 7X / 6X Jr., JRI, Strictly Irons |
-| Yo-yo iron | same profile family, heavier | ~3 oz up to 10 oz+ | heavier for its profile so it sinks fast and stays vertical in current | Salas 6X / CP 105, Tady 4/0, diamond jig |
-| Crossover / column | ~6 in | ~4.25 oz (Nomad Slidekick 120g) | castable like a surface iron, sinkable to cover the column | Nomad Slidekick |
+The two ends of the class are chosen by **weight-to-profile ratio** — how fast
+the iron sinks and how it holds in current:
 
-A surface iron is light for its length so it rides high on a steady grind; a
-yo-yo iron is heavier for the same profile so it sinks fast and holds vertical
-in current — too light and it never reaches the mark or planes off sideways. A
-second, lighter surface-iron data point puts the class at roughly **1¾–2¾ oz,
-5–7 in** (`3g82igEL8yk`) — a touch lighter on the low end than the ~3 oz
-benchmark above; kept side by side as a second attributed weight range for the
-same class, not reconciled.
+- **Surface iron** — a lighter iron for its length (a big profile that stays
+  high and swims on a steady grind). Lengths roughly **5.5"–7"**, weights roughly
+  **3 oz** up to the heavier crossover irons. The traditional light-line
+  benchmarks are the **Tady 45 / Tady 45 Surface** and **Salas 7X / 6X Jr.**
+  aluminum irons; CNC-machined irons (Strictly Irons, JRI) hold a tighter,
+  designed kick. A wide, slow, drawn-out kick is the change-up for picky bites
+  and slack current; a smaller/faster iron worked medium-to-high speed is the
+  searching retrieve. **A second, slightly lighter data point (Doug Kearn,
+  Fisherman's Landing tackle, via SearcherSportfishing, "Tackle Tip Thursday
+  Vol. 132 (Surface Iron)," `3g82igEL8yk`, 2020-12-31; unregistered channel,
+  single mention — medium confidence):** names the surface-iron range as
+  roughly **1¾–2¾ oz**, **5"–7"** — a bit lighter on the low end than the ~3 oz
+  benchmark above; kept side by side, not reconciled, as a second attributed
+  weight range for the same class.
+- **Yo-yo iron** — a **heavier** iron of the same profile so it sinks fast and
+  **stays vertical** in current. The **Salas 6X** and **Salas CP 105** are the
+  classic heavy yo-yo benchmarks; Tady 4/0 and heavier CNC irons fill the same
+  role. Too light and it never reaches the mark or planes off sideways.
+  **Earlier-dated corroboration for the Salas 6X / 6X Jr. as "the standard"
+  (SearcherSportfishing, "Tackle Tip Thursday Vol. 100 (Test of Time),"
+  `SCQnyVEQfHY`, 2020-05-21; `searcher-sportfishing` registered channel —
+  product/model pick, `low` confidence per the channel's registry
+  sponsored-claim caveat):** names the **Salas 6X Jr.** (blue and white) and
+  the standard **Salas 6X** (a little heavier/bigger, "scrambled egg") as
+  yo-yoing-for-yellowtail standards that "have been working now for **50
+  years, for as long as Salas has been around**" — no relative time carried
+  (predates roughly 1970). Both colors already logged throughout this note;
+  the new data point is the dating, which is three weeks earlier than the
+  `1uYIApdQQSM` corroboration above and from the same channel.
+- **Crossover / column irons** — heavier PVC-over-steel or CNC irons that cast
+  like a surface iron but can be **sunk out to cover the column**. The **Nomad
+  Slidekick 120g** (6", **4.25 oz**, random side-kick) is a crossover: heavier
+  than a traditional iron, castable, and sinkable.
+- **Color/kick:** carry a spread of profiles and kicks (wide-slow through
+  fast-tight) and a color range (blue/white, scrambled egg, mackerel, chrome,
+  dorado) so you can match the bait and the bite. Read the kick off the rod tip;
+  match the iron to the tip feel, not just the weight. **Corroborating dating,
+  independent channel (SearcherSportfishing, `1uYIApdQQSM`, 2020-06-11;
+  unregistered channel — medium confidence):** names the Tady 45 in
+  blue/green/white ("mackerel") and the Salas 7X in sardine green/white as the
+  two standard-bearer surface-iron colors, "on the scene" roughly 25–30 years
+  as of the 2020 upload — consistent with, and corroborating, the early-1990s
+  (~1993) dating of the Tady 45 / Salas 7X pairing as the surface-iron
+  standard in [surface iron](../techniques/surface-iron.md), under its size /
+  weight selection section. No reason given beyond track record; full data point in
+  [surface iron — colour](../techniques/surface-iron-color.md).
+  **Earlier occurrence, same channel (SearcherSportfishing, "Tackle Tip
+  Thursday Vol. 17," `BLbUu_mfMJY`, 2018-10-18; unregistered channel — medium
+  confidence):** a "good assortment of lightweight surface irons" for a
+  long-range yellowtail trip is given as the **Tady 45** and a jig the
+  captions render as "SJR eyes" — read as the **Salas 6X Jr.** already named
+  in this note's traditional-benchmark trio above (asr-uncertain: the caption
+  string does not clearly spell the model, but it fits the existing Tady 45 /
+  Salas 7X / 6X Jr. pairing rather than naming anything new) — plus the
+  **Salas 7X**. Predates the `1uYIApdQQSM` corroboration above by nearly two
+  years, pushing this three-jig pairing's earliest dated occurrence in this
+  corpus back to 2018.
 
-A wide, slow, drawn-out kick is the change-up for picky bites and slack
-current; a smaller, faster iron worked medium-to-high speed is the searching
-retrieve. Read the kick off the rod tip and match the iron to the tip feel,
-not just the weight. Carry a spread of profiles/kicks and a color range
-(blue/white, scrambled egg, mackerel, chrome, dorado) to match the bait and
-the bite.
+**Crocodile-style spoons — a distinct swim-type split (Major Craft JP
+Standard vs. JP Micro):** spun out to its own note — see [Crocodile-Style
+Metal Spoons](crocodile-spoons.md) for the flip-flop vs. body-wobble action
+difference and its shallow-water/depth-control implications.
 
-The **Tady 45** (blue/green/white "mackerel") and the **Salas 7X** (sardine
-green/white) are the two standard-bearer surface-iron colors, documented as a
-SoCal standard since the early 1990s and named together as a go-to lightweight
-lineup for California yellowtail fished on 9–10 ft rods — alongside a **Salas
-6X Jr.** as of 2018 (`BLbUu_mfMJY`, the earliest dated occurrence of this
-three-jig pairing in this corpus) and alongside a **JRI Stinger** by 2019
-(`GXXvT7pS2fM`, the first citation to name the JRI Stinger specifically in
-this lineup) (`1uYIApdQQSM`). [Surface iron](../techniques/surface-iron.md)
-documents the same early-1990s dating and 9–10 ft rod window; [surface iron —
-colour](../techniques/surface-iron-color.md) carries the full
-color-selection data.
+**Diamond jig — a distinct heavy chrome yo-yo-class shape (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 109 (Diamond Lure)," `XTsTpWnk1gU`, 2020-07-23;
+`searcher-sportfishing` registered channel — **low confidence: a named
+product/model pick, capped per this channel's registry sponsored-claim
+caveat**):** a diamond-shaped, shiny chrome jig (the video
+title names it a "diamond lure"; captions render the name "diamantina," an
+ASR corruption not carried, per the human-typed-title-wins rule) grouped on
+camera with the other heavy chrome yo-yo lures — **Salas 6X Jr.** and similar
+— and fished the same way: free-spool it down, crank it back up. Stated
+observation: it **darts on the drop**, a distinct fall action he calls out as
+a thing he likes about it; bites come "on the sink a lot" and on the wind-up
+as well — consistent with, and a further data point for, the drop-and-wind-up
+bite pattern already documented in [yo-yo iron](../techniques/yo-yo-iron.md).
+The jig shown was roughly **10 oz**, which he ties directly to depth — its
+fast sink is what he says makes it work "when the fish are ... 50, 60
+fathoms" down (**bluefin**, roughly **300–360 ft**). Deeper than this note's
+usual yo-yo-iron citations (mostly 120–240 ft) and the [bluefin
+tuna](../species/bluefin-tuna.md) knife-jig row's 30–50 fm sounded-school
+scenario — kept side by side, not reconciled, since this video names the
+diamond jig specifically (not a knife/flat-fall jig) for the deeper band. No
+color given.
 
-## Named models
+**JRI-7 mold and a bigger sibling, JRI-4 (SearcherSportfishing, Tackle Talk
+Live, `49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel,
+single mention — medium confidence):** the **JRI-7**'s mold is described on
+camera as very similar to the old **candy bar** lure — a vintage surface iron
+the source calls a lure "everybody sought to buy" in its day. JRI also makes
+a **JRI-4**, a bigger version of the JRI-7, in the same lineup.
 
-- **Salas 6X / 6X Jr.** — the classic heavy yo-yo benchmark: the 6X Jr. in
-  blue and white, the standard 6X a little heavier/bigger in "scrambled egg,"
-  both documented as yellowtail yo-yo standards for **50 years** — as long as
-  Salas has been around, predating roughly 1970 (`SCQnyVEQfHY`,
-  `1uYIApdQQSM`).
-- **Salas CP 105** — heavy yo-yo-class, fills the same role as the 6X.
-- **Tady 4/0** — fills the same heavy-yo-yo role as the Salas 6X and CP 105;
-  also named all-chrome (no blue needed) for finicky daytime bluefin,
-  alongside a Salas 6X Jr.-size jig. Stated reasoning: it sinks slower than a
-  dedicated tuna jig but with more flash, and that flash-on-the-fall is
-  sometimes the trigger picky daytime fish want rather than straight sink
-  speed; rig it with a big, heavy single hook — a jig with a track record
-  over the 2021 and 2022 seasons (`-QnMvV4j_oM`).
-- **Diamond jig** — a diamond-shaped chrome jig grouped and fished the same
-  way as a Salas 6X Jr. (free-spool down, crank back). It darts on the drop —
-  a distinct fall action tied to bites that come "on the sink a lot" as well
-  as on the wind-up, consistent with the drop-and-wind-up bite pattern in
-  [yo-yo iron](../techniques/yo-yo-iron.md). A ~10 oz example is fished
-  specifically for bluefin sounded to roughly 50–60 fathoms (~300–360 ft) —
-  deeper than this note's usual yo-yo citations (120–240 ft) and the bluefin
-  knife-jig 30–50 fm sounded-school scenario in
-  [bluefin tuna](../species/bluefin-tuna.md) — kept side by side, since this
-  citation names the diamond jig specifically, not a knife/flat-fall jig, for
-  the deeper band (`XTsTpWnk1gU`). No color given.
-- **JRI-7** — its mold closely follows the vintage "candy bar" iron. **JRI-4**
-  is a bigger sibling in the same lineup (`49joKHD7Umc`). **JRI Stinger** — a
-  Cedros/Baja angler's top-trust surface iron, doubling as both a finesse and
-  a reaction jig, named a personal favorite across two videos about seven
-  months apart (`A70kK2niu2Q`, `WE643Fue1_A`). **"JRI DW"** (designation
-  asr-uncertain) is a newer JRI model, fished for
-  [skip jigging](../techniques/skip-jigging.md) rather than the standard swim
-  retrieve (`OL8D1l73RVg`).
-- **Starman 112** — a Baja/Cedros surface-iron benchmark, fished holographic
-  and holographic mint.
-- **Kicker 25** — a heavy iron fished as a yo-yo iron on Cedros trips, also
-  seen in holographic sardine as a surface iron.
-- **Strictly Irons** and other CNC-machined irons hold a tighter, designed
-  kick than cast aluminum irons.
-- **Nomad Slidekick 120g** — 6 in, 4.25 oz, random side-kick; a crossover
-  iron, heavier than a traditional iron but still castable and sinkable to
-  cover the column (`WE643Fue1_A`).
-- **Roberts Ranger** — named specifically for
-  [skip jigging](../techniques/skip-jigging.md), a fast tip-up presentation,
-  not the standard swim retrieve (`OL8D1l73RVg`).
-- **Killer** — a small surface iron named as outfishing bigger irons on
-  small-anchovy bait as of the 2026 season (`JgXMpjxRxmo`); see
-  [surface iron](../techniques/surface-iron.md) for the anchovy-downsizing
-  context.
-- **"Wounded Warrior"** — a Tady 45 finished avocado-green with a touch of red
-  on the tail; a stated one-jig pick if carrying only a single surface iron,
-  credited on yellowtail, calico bass, white seabass, and yellowfin tuna
-  (`KLoEJInlmZo`); see [surface iron](../techniques/surface-iron.md) for the
-  same pattern named as a calico-bass go-to.
-- **Colt Sniper** (also called a dart jig) — versatile enough to be cast,
-  splashed down, and wound like a surface iron, or cast, splashed down,
-  allowed to hit bottom, and fished like a yo-yo jig off the same cast; a
-  100-size was fished more than dedicated yo-yo jigs on a Cedros yellowtail
-  trip specifically for that dual-mode versatility (`_C7TJoGT0nw`; trip detail
-  in the [evidence file](evidence/iron-jigs.md)). Sized to depth for
-  rockfish/lingcod as a bottom drop-and-flutter yo-yo iron rather than a swim
-  retrieve: **60 g** ("Candy Iwashi") fishes best ~50–100/150 ft (size up if
-  wind or current keeps it from reaching bottom); **120 g** ("Blue Pink")
-  reaches to 300 ft but fishes best at 100–150/200 ft, the step-up when the
-  60 g won't hold bottom. Retrieve: sink to bottom, take one or two turns up,
-  then lift the rod and let it sink back on a controlled fall rather than a
-  continuous crank — the flutter/dart on the fall draws a big rockfish or
-  lingcod up out of isolated rock (`S9sQ8Vg8-5o`); the same drop-lift-flutter
-  cadence is this source's usual retrieve for [flat-fall
-  jigging](../techniques/flat-fall-jigging.md) on deep bluefin, but this is a
-  much shallower rockfish/lingcod use of the same lure family. A separate
-  single-hook
-  **8 oz option, likely branded Ahi** (brand not title-confirmed; two
-  independent ASR passes over the same underlying footage converge on "Ahi,"
-  matching this corpus's Ahi USA brand — see [cedar plug](cedar-plug.md)) is
-  fished the same drop-lift-flutter way, also made in treble-hook and other
-  weight/color versions (`S9sQ8Vg8-5o`, `p9YYIb4GKHM`).
-- **Tady AA** — a smaller-profile, heavy jig for yellowfin/bluefin up to
-  50–60 lb; swims well even on a reel that isn't high-speed, cast on boilers
-  the same as a [Daiwa Zakana](tuna-poppers-and-stickbaits.md) or Colt Sniper
-  (three count, engage, wind fast); its distinct kicking motion on the burn
-  draws more bites than the newer flat lead-jig style. Reel speed sets
-  whether it kicks or just rolls — on a slower reel the AA's action degrades
-  to a rolling motion, sometimes not enough to draw a bite; the fix is to
-  step down to a **Tady 9 heavy** (same jig type, swims slower, built for a
-  slower retrieve) or a **Salas 7X Jr. heavy**. **Tady 4/0** (name
-  asr-uncertain in this citation, corroborated elsewhere in this note) rounds
-  out this traditional-heavy-jig set. Unlike the flatter small-lead-bait
-  style, these older heavy jigs are versatile across the whole column —
-  burned on top, at 45°, at 90°, or straight up-and-down like a yo-yo
-  (`F7jLrt2j2X8`).
-- **A1-light / 40-light** — a tight-swimming class good for both yellowfin
-  and bluefin. The A1-light is smaller-profile and capped at 30 lb test —
-  heavier line kills casting distance and, with the added line thickness,
-  makes the jig plane up to the surface too fast to swim right. The 40-light
-  is bigger/heavier, stays in the water better, handles 40–50 lb line fine,
-  and is built as a straight burn jig (`S9sQ8Vg8-5o`).
-- **Baja, Sea of Cortez casting/yo-yo kit** — yo-yo jigs **3 oz up to 5–6
-  oz**, with crocodile-style spoons also named as a good bait for the same
-  application (`M8hOYQ_6rSg`); see
-  [crocodile-style metal spoons](crocodile-spoons.md). Micro metal jigs
-  (Jigpara-class, ~60 g) are fished for sierra and, during the day, for
-  [cabrilla](../species/cabrilla.md) when they won't commit to a bigger
-  surface bait — a smaller metal jig gets down and draws bites the bigger
-  bait misses (`M8hOYQ_6rSg`). Cabrilla yo-yo iron picks scale with depth once
-  fish drop off the shallow jerkbait structure: late-morning zone (60–80 ft)
-  — Salas 6X, Salas 6X Jr., a 60 g jig para, or a Krocodile; midday deep zone
-  (80–150 ft), when bigger fish push down — Salas 6X, Tady 40, or a
-  7X-class iron (`EmZO8QiOfik`); the cast-and-burn retrieve for this program
-  is in [yo-yo iron](../techniques/yo-yo-iron.md).
+Model benchmarks beyond any one box: **Tady 45 / 4/0**, **Salas 6X / 7X / 6X Jr.
+/ CP 105**, **JRI** CNC irons (incl. the **JRI Stinger** — a Cedros/Baja
+angler's top-trust surface iron, doubling as both a finesse and a reaction jig
+— stated as his personal-favorite jig across two videos roughly seven months
+apart, A70kK2niu2Q 2022-02 and WE643Fue1_A 2022-09), **Starman 112** (a
+Baja/Cedros surface-iron benchmark, fished holographic and holographic mint),
+**Kicker 25** (heavy — fished as a yo-yo iron on the same Cedros trips, also
+seen in a holographic sardine finish as a surface iron), **Strictly Irons**
+CNC irons, **Nomad Slidekick** (Ray Sharifi, Dirty Hookers, WE643Fue1_A,
+2022-09; `ray-sharifi` registered (`Baja-scoped`) — medium confidence),
+**Roberts Ranger** (SearcherSportfishing, `OL8D1l73RVg`, 2020-10-08;
+`searcher-sportfishing` registered channel — **low confidence: a named
+product/model pick, capped per this channel's registry sponsored-claim
+caveat**; named as a good pick specifically for [skip
+jigging](../techniques/skip-jigging.md), a fast tip-up presentation, not the
+standard swim retrieve above), **Killer** (a small surface iron named as
+outfishing bigger irons locally as of the 2026 season on small-anchovy bait —
+Tackle Express, `JgXMpjxRxmo`, 2026-07-17; unregistered channel — medium
+confidence; full anchovy-downsizing context in [surface
+iron](../techniques/surface-iron.md), size/weight selection).
 
-## Hooks — assist vs. treble
+**"JRI DW" — a newer JRI model (SearcherSportfishing, `OL8D1l73RVg`,
+2020-10-08; low confidence — named product/model pick, per this channel's
+registry sponsored-claim caveat):** shown on camera as "one of
+the new JRI DW ones" (the "DW" designation is asr-uncertain) alongside a rod
+or jig the captions separately render "Cal Star 100 J" (also asr-uncertain,
+and it's unclear from the audio whether that name refers to the rod being
+held or the jig itself). Fished for [skip jigging](../techniques/skip-jigging.md)
+rather than the standard surface-iron swim.
 
-Irons are rigged with either a treble hook or one/two single assist hooks on
-braided cord; which to run is a live judgment call, not a fixed rule.
+**A shop-favorite lightweight combo, "locally long range" (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 32 (Surface Irons)," `GXXvT7pS2fM`, 2019-01-22;
+unregistered channel, single mention — medium confidence):** for California
+yellowtail fished both locally and on long-range trips, a **JRI** iron (a
+**JRI Stinger** jig), a **Salas 7X**, and a **Tady 45** (captioned "tatty
+45" — the known Tady→"Tatty" caption corruption) are named together as a
+go-to lightweight-surface-iron lineup, fished on **9 or 10 ft rods**. A
+further, independent data point for the Tady 45 / Salas 7X pairing already
+dated to the early 1990s above, and the first citation to name the JRI
+Stinger specifically alongside them; also corroborates the 9–10 ft
+rod-length window for this technique documented in
+[surface iron](../techniques/surface-iron.md).
 
-- **Bigger fish favor assist hooks.** On a big bluefin, two points of a
-  treble can both find purchase and then work against each other through the
-  fight — sharing one shank lets them "auger" each other back out. Assist
-  hooks ride on separated cords, so even with two hooks stuck in a fish they
-  don't fight each other the same way (`VpW91AKOFVQ`).
-- **Treble typically works best for yellowtail; a single hook is sometimes
-  rigged instead for bluefin** — bluefin are less picky than yellowtail about
-  how the jig swims, so the swim-critical treble setup matters less on them.
-  A separate axis from the bigger-fish framework above: this turns on
-  species, not fish size (`3g82igEL8yk`).
-- **Hybrid-action jig:** the Daiwa SK jig (170 g, sardine-color) is built to
-  flutter like a butterfly/knife jig on the drop and additionally kick
-  side-to-side like a yo-yo iron on the retrieve — action on both the fall
-  and the crank, unlike a straight butterfly jig (nearly all its action on
-  the drop) or a straight yo-yo iron (`VpW91AKOFVQ`; a real-fish hook-
-  placement result on this jig is in the
-  [evidence file](evidence/iron-jigs.md)). Not the assist-hook-count conflict
-  tracked in [assist hooks](../rigging/assist-hooks.md) and
-  [knife jigs](knife-jigs.md) (how many assists on a knife/slow-pitch jig) —
-  this is hook *style* (assist vs. treble) on a surface/yo-yo iron.
-- **Deck safety, a separate reason to drop the treble on a sport boat:**
-  swapping a stock rear treble for a single hook avoids extra loose hook
-  points catching other anglers when a landed, still-hooked fish thrashes on
-  deck — a boat-wide courtesy call independent of hookup rate. Full reasoning
-  and the named hook: [dehooking & release](../fish-care/dehooking-and-release.md#rig-the-treble-out-before-the-trip--a-single-hook-for-sport-boat-safety-and-courtesy-tackle-express--2026-07-14-unregistered-channel-single-mention--medium-confidence).
-- **Fish a treble-hooked lure tight on the drop, not slack.** Hold the rod
-  still and take up slack with the reel through a vertical fall rather than
-  free-falling it — a slack drop lets the lure flutter more, which "may get
-  them," but the extra flutter lets **treble hooks foul on the angler's own
-  line**; fishing it tight trades some fall action to keep the trebles clear
-  (`r7Bv49Ysgdw`). Distinct from the tight-lining failure documented for
-  assist-hook speed jigs in [knife
-  jigging](../techniques/knife-jigging.md#common-failures) — that entry is a
-  different hook style (single assists on separated cords) and a different
-  failure mechanism (killed camber/flutter action, not hook fouling); the two
-  pieces of advice look opposite but address different rigs.
-- **Bluefin hook swap, sized to jig weight** — stock hooks on a
-  Coltsniper-class jig hold up for smaller fish but need swapping for bigger
-  bluefin; no single correct answer, three options in the order given:
-  1. **Size 1 or 1/0 Owner ST-66** (4X-strength treble) — the most popular
-     option: size 1 on the 60 g and 80 g Coltsniper, 1/0 on the 100 g and
-     120 g (`PYlqIODuIPQ`, corroborated `TU5quAG4atM`). Stock hooks on this
-     jig class are not tuna-rated — too small and thin — and swapping to
-     ST-66-type hooks sometimes also means adding a ring on the front to
-     make the lure "tuna ready" (`TU5quAG4atM`).
-  2. **5/0–7/0 Owner Aki Twist** — a long-shank, offset J hook (`PYlqIODuIPQ`).
-  3. **Transplant** — pull the stock hook off a 160 g or 200 g
-     [flat-fall-style jig](knife-jigs.md) and mount it on the Coltsniper
-     instead (`PYlqIODuIPQ`).
+**"Wounded Warrior" — a named Tady 45 color pattern (Dave Hansen, Your
+Saltwater Guide, KLoEJInlmZo, 2021-03-23; dave-hansen is a registered voice —
+high confidence):** Hansen's stated one-jig pick if he could carry only a
+single surface iron — a **Tady 45** finished avocado-green with a touch of
+red on the tail. He credits it as effective on
+**yellowtail, calico bass, white seabass, and yellowfin tuna**. See
+[surface iron](../techniques/surface-iron.md) for his separate confidence-color
+note naming the same Wounded Warrior pattern as his calico-bass go-to
+(3dVc-2rsYII, 2022-03-25), and the retrieve mechanics this jig is fished with.
 
-  Stock rings/hooks on this jig class are sized for 5–20 lb fish; a separate
-  fix is to upgrade to at least a 5X-strong treble (a different strength
-  rating than the 4X Owner ST-66 pick, not reconciled with it) (`pCd6QykcZ0w`).
-  Daytime finesse sizing for this jig class runs roughly 50 g, 80 g, 100 g,
-  maybe 125 g at the most, effective on ~20 lb schoolies up to 50 lb and
-  occasionally 100 lb once geared over 50 lb; full rod/line/leader build in
-  [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
-  and [dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
-- **Treble vs. single by lure style, not species:** for **nighttime**
-  giant-tuna jigs (a 400 g class outside this note's daytime scope), big
-  single hooks are preferred; for the **daytime** dart-type jig specifically,
-  a heavy treble gets more bites. ⚠ Flagged gap — no corpus source: mechanism
-  (the source states the daytime-treble preference outright without being
-  able to explain why) (`pCd6QykcZ0w`). Full outfit:
-  [Searcher daytime dart-jig outfit ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md).
-- **Williamson Gomame** — a named favorite dart-type jig for tuna that
-  sometimes prefer a jig to live bait; the smaller ~80 g sizes fish well on a
-  40 lb-class outfit (`fyJA3o2hVh0`); full rig in
-  [Searcher 40 lb all-around tuna outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
+**Baja, Sea of Cortez iron/metal-jig kit (Cesar, via Dirty Hookers,
+M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention of these
+specific claims — `medium` confidence for the sizing/application logic, `low`
+for specific model names per his registry caveat; region: Baja, Sea of
+Cortez):**
 
-## Selecting a jig — the swim test
+- **Yo-yo jigs:** **3 oz up to 5–6 oz.** **Crocodile-style spoons** are also
+  named as a good bait for this application.
+- **Micro metal jigs (Jigpara-class, ~60 g):** fished for sierra, and also
+  for cabrilla during the day — cabrilla sometimes won't eat a bigger
+  surface bait, but a smaller metal jig gets down and draws bites the bigger
+  bait misses.
 
-The governing principle — judge a jig by whether it swims, and carry a few
-genuinely different swims — is the only systematic jig-selection doctrine in
-this corpus (`Ec2GaNpiOHI`, `yn1suHH6b1Y`); every physical feature below is a
-proxy for that one question, and none overrides watching the jig in the
-water.
+**Tuna-specific "old-school" heavy jig lineup (Cesar, Eric's Tackle, via Dirty
+Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a registered voice, source-registry
+mechanism/parameter caveat applies — first commit of these specific claims,
+medium confidence pending repetition):** for yellowfin/bluefin up to
+**50–60 lb**, a **Tady AA** is a hard jig to beat — smaller profile, heavy,
+swims well even on a reel that isn't super high-speed, cast on boilers the
+same as a [Daiwa Zakana](tuna-poppers-and-stickbaits.md) or Colt Sniper (three
+count, engage, wind fast) — and has a **distinct kicking motion** on the burn
+that draws more bites than the newer flat lead-jig style. **Reel speed sets
+whether it kicks or just rolls:** on a slower reel the AA's action degrades
+from a kick to more of a rolling motion, which is sometimes not enough to draw
+a bite — the fix is to step down to a jig built for a slower retrieve: a
+**Tady 9 heavy** (same jig type, swims a little slower, the pick when your
+reel's retrieve is on the slower side — "step away from the AA, go to the
+number nine"), or a **Salas 7X Jr heavy**. A traditional heavy jig read as
+**Tady 4/0** ("doua" in the captions — asr-uncertain, not fully confirmed by
+name) rounds out the same traditional-heavy-jig option set. Unlike the flatter
+small-lead-bait style, these older-style heavy jigs are **versatile across the
+whole column** — fishable on top burning across the surface, at a 45° angle,
+a 90° angle, or straight up and down like a yo-yo (drop and full-speed crank)
+— despite being a "heavy" jig.
 
-What to check, in order: hole placement, hip placement, body thickness, and
-ring weight.
+**Finicky daytime bluefin — chrome heavy jig, no blue needed (SearcherSportfishing,
+"Tackle Tip Thursday Vol. 221," `-QnMvV4j_oM`, 2023-05-25; unregistered channel,
+single mention — medium confidence):** for **finicky bluefin biting during the
+daytime**, reach for a **Salas 6X Jr.** or a **Tady 4/0**-size jig finished
+**all chrome** — it doesn't need blue on it — corroborating, from a second,
+independent channel, the **Tady 4/0** pick already logged above (previously
+carried there only as the ASR-uncertain "doua"). Stated reasoning: this jig
+**doesn't sink as fast as a regular tuna jig, but sinks with a lot of
+flash**, and "sometimes that's just the motion that they want" — flash-on-
+the-fall as the trigger for picky daytime fish, not straight sink speed.
+Rigged with a **big, heavy single hook**. Framed on camera as a lure that
+had worked well "last season and the season before" the 2023-05-25 upload —
+resolved to **2021 and 2022**, no relative time carried.
 
-- **Hips are the one that matters.** Lay the iron flat side down on a table —
-  one side must sit slightly higher than the other. That built-in asymmetry
-  is what makes the jig fall off-axis and kick; a symmetrical body swims
-  dead. Proportion is a judgment call, not a number, and reading it is a
-  learned eye — there's no substitute for looking at a lot of jigs
-  (`Ec2GaNpiOHI`).
-- **An off-center front hole helps but isn't conclusive** on its own
-  (`Ec2GaNpiOHI`).
-- **The back hole is irrelevant to the swim** — it only trails behind like a
-  rudder; don't select on it (`Ec2GaNpiOHI`).
-- **Concave vs. flat back is a weight effect, in theory.** Tady went concave
-  on the 45 roughly 15–18 years before 2019 (early 2000s); flat 45s existed
-  before that. Salas irons and candy bars are flat and swim fine. The stated
-  mechanism: a concave scoop removes metal, so the jig is lighter for its
-  profile and kicks a little more — not a buy/don't-buy axis (`Ec2GaNpiOHI`).
-- **Nose shape matches current speed:** a pointed nose swims in faster
-  current; a wider/blunter nose is the better choice in slower current — see
-  [wiring a surface iron](../rigging/wiring-a-surface-iron.md) for the
-  matching slack-current rigging fix (`Ec2GaNpiOHI`).
-- **Swim-test and cull:** buy a handful, swim them off the bow, and get rid
-  of any that don't work — a percentage of any batch won't swim, and finding
-  the good ones costs money. Buy where you can handle the jigs: pick them up,
-  sight down them, and match a new one to a known-good one already in the box
-  (`yn1suHH6b1Y`). A jig that won't swim can sometimes be fixed by filing it,
-  but that takes a long time; buying by eye and culling the bad ones is faster
-  than filing/tweaking as a routine fix (`yn1suHH6b1Y`).
-- **Don't be a one-jig angler.** Carry a couple each of a few different
-  profiles, a little bigger and a little smaller than the average — fish key
-  on a profile depending on what they're eating and where they are. The
-  counterweight: a small spread of genuinely different swims beats either one
-  jig or a wall of 57 of them (`yn1suHH6b1Y`).
+**Baja, Sea of Cortez cabrilla yo-yo lineup (Cesar, via Dirty Hookers,
+EmZO8QiOfik, 2025-03-04; registered voice, mechanism/parameter — single
+mention of cabrilla specifics, medium confidence pending repetition):** run
+as [yo-yo iron](../techniques/yo-yo-iron.md) for
+[cabrilla](../species/cabrilla.md) once they've dropped off the shallow
+jerkbait structure. Late-morning zone (60–80 ft): **Salas 6X, Salas 6X Jr.,
+60 g jig paras**, or a **Krocodile**. Midday deep zone (80–150 ft), when
+bigger fish push down: **Salas 6X, Tady 40**, or a **7X-class iron**. Small
+**jig paras** in downsized sizes double as the fall/winter micro-bait
+match (~1–1.5 in bait, roughly October on).
 
-**A different, pre-purchase heuristic** for picking one jig off a rack of
-identical stock (rather than a swim test on the water): lay five or six of
-the same model/color side by side and look for an irregularity the others
-don't have — a paint sag, an extra stamped mark, a small mold notch — rather
-than grabbing whichever is on top. An irregular jig "might swim a little
-different," the stated reason it could draw a strike from a fish that has
-already seen the standard version go by (`49joKHD7Umc`).
+**SoCal rockfish/lingcod Colt Sniper sizing by depth, plus an 8 oz Ahi-class
+single-hook option (Tackle Express, `S9sQ8Vg8-5o`, "Rockfish Tackle & Gear
+Guide," 2025-03-28; unregistered channel — medium confidence):** distinct from
+this note's existing Coltsniper/dart-jig entries above (a daytime tuna
+finesse application) — here the same jig class is fished as a bottom
+drop-and-flutter yo-yo iron for rockfish and lingcod, sized to depth:
 
-Why the kick works — the serpentine swim, the periodic kick-out, and the
-separated-baitfish mechanism — is in [surface
-iron](../techniques/surface-iron.md#the-kick-is-the-presentation). Color
-selection is a separate axis from swim, covered in [surface iron —
-colour](../techniques/surface-iron-color.md).
+- **60 g, "Candy Iwashi" color** — fishes best roughly **50–100/150 ft**, but
+  in wind or heavy current may not reach bottom even at that depth, in which
+  case size up.
+- **120 g, "Blue Pink" color** — can be fished as deep as **300 ft**, but
+  fishes best in the **100–150/200 ft** band; the step-up size when the 60 g
+  won't hold bottom.
+- **Retrieve — the same drop-lift-flutter cadence this source also uses for
+  Shimano Butterfly flat-fall jigs on the same trip** (see [flat-fall
+  jigging](../techniques/flat-fall-jigging.md) and [knife
+  jigs](knife-jigs.md) for that class' usual deep bluefin application — this
+  is a separate, much shallower rockfish/lingcod use of the same lure
+  family): sink to the bottom, take one or two turns up, then **lift the rod
+  and let it sink back down** on a controlled fall rather than a continuous
+  crank — the flutter/dart on the fall is the trigger, fished over isolated
+  rock specifically to draw a big rockfish up out of the structure.
+- **A separate, single-hook 8 oz option, likely branded "Ahi" (asr-uncertain,
+  not title-confirmed):** an 8 oz single-hook metal jig for popping/jigging
+  off the bottom, also made in treble-hook, other-weight, and other-color
+  versions; fished with the same drop-lift-flutter cadence as the Colt
+  Snipers above. **A second upload of this same footage, re-cut and
+  retitled "Unlock the secret to monster rockfish: The Lift & Drop
+  technique!" (Tackle Express, `p9YYIb4GKHM`, 2026-04-02) — word-for-word
+  the same claim, not independent corroboration per the
+  re-cut/duplicated-footage rule — renders its own auto-captions "Ahi's"
+  where the full-length source rendered "AI's."** Two separate ASR passes
+  over the same underlying audio now converge on "Ahi," matching this
+  corpus's existing, human-confirmed **Ahi USA** brand (Promar/Ahi USA —
+  see [cedar plug](cedar-plug.md) and [tuna poppers and
+  stickbaits](tuna-poppers-and-stickbaits.md#ahi-usa-live-deception-flash-jig-cast-sink-35-sec-then-a-slow-crank));
+  kept as a strengthened but still asr-uncertain reading rather than fully
+  resolved, since neither upload's title names the jig brand.
 
-## When to choose it
+**Lighter surface-iron sub-class, line-class-limited (same source):** an
+**A1-light** class jig is a tight-swimming jig good for both yellowfin and
+bluefin, smaller profile than the AA — but it's **capped at 30 lb test**;
+heavier line kills casting distance and (with the added line thickness) the
+jig tends to plane up to the surface too fast to swim right. A **40-light**
+jig in the same lineup is a bigger, heavier profile than the A1-light, stays
+in the water better, and handles heavier line fine (**40–50 lb**) — it's
+built to be fished as a straight burn jig.
 
-- **Light surface iron** — long cast on a jig-stick, swum back near the top:
-  [surface iron](../techniques/surface-iron.md). Cast distance IS the
+**Cedros Island, Baja Pacific — Colt Sniper versatility, and a day-to-day
+preference shift (Tackle Express, `_C7TJoGT0nw`, "What You ACTUALLY Need for
+Cedros Fishing Trips | The Gear Vault," 2025-09-26; unregistered channel —
+medium confidence; region: Baja Pacific, Cedros Island):** on a 19–33 lb
+Cedros yellowtail trip logged in [Cedros
+Island](../locations/cedros-island.md), the angler fished more **Colt
+Sniper** (a **100-size**) than actual yo-yo jigs, stated reason being the
+lure's versatility — it can be **cast, splashed down, and wound**
+like a surface iron, or **cast, splashed down, allowed to hit bottom, and
+fished like a yo-yo jig**, so one lure covers both jobs. **The fish's
+preference changed day to day, not the angler's:** on a slower first day the
+fish were "keyed in" specifically on the Colt Sniper baits over a
+smaller-profile option named on camera as a **Salas 6X Jr.** — kept as a
+distinct name rather than merged into "Colt Sniper," since the transcript is
+ambiguous whether this is a second lure or a nickname for a smaller Colt
+Sniper size, and this note elsewhere treats Colt Sniper and Salas 6X Jr. as
+different products; by the second full day the bite had opened up enough that "what do you want
+to catch a fish on and throw it and they'll eat it" — an unselective,
+experiment-anything bite, consistent with the abundance already logged for
+this island. A **triple trout** hardbait and an **SP Minnow 115** stickbait
+were both fished successfully the same trip — see [Cedros
+Island](../locations/cedros-island.md#fishing-it--what-is-specific-to-cedros)
+for the hardbait/stickbait detail, which this note doesn't restate.
+
+## Reading a jig — how to pick one that swims
+
+**Dan Wade** (Strictly Irons `Ec2GaNpiOHI` 2019, and the jig masterclass
+`yn1suHH6b1Y` 2026 via Fishing Syndicate). **`dan-wade` is a registered voice**
+([source registry](../sources/source-registry.md), promoted by Cameron
+2026-08-17). Confidence splits within this section: the **governing principle**
+— judge a jig by whether it swims, and carry a few genuinely different swims —
+is stated in **both** videos, so it is **`high`**; the **specific physical
+parameters** below (hip offset, hole placement, concave-vs-flat, nose shape)
+come from `Ec2GaNpiOHI` alone and sit at **`medium` pending repetition**, per
+the single-mention rule. This is the only systematic jig-*selection* doctrine
+in the corpus, and it is the layer beneath every model list above. **The whole test is: does it swim.** Every physical
+feature below is a proxy for that one question, and none of them overrides
+watching the jig in the water.
+
+**What he looks at, in his own order:** hole placement, hip placement, how
+thick or thin the body is, and how heavy or light the rings are.
+
+- **Hips — the one that matters.** Lay the iron **flat side down on a table**.
+  One side must sit **slightly higher** than the other. That built-in
+  asymmetry is what makes the jig fall off-axis and kick; a symmetrical body
+  swims dead. Proportion is a judgment call, not a number — *"if the hips are
+  way off, that's too much, and if they're not enough…"* — and he is explicit
+  that it is a learned eye, that **what he sees and what you see are different
+  things**, and that there is no substitute for looking at a lot of jigs.
+- **Front hole off-centre helps but is not conclusive.** An off-centre nose
+  hole (either direction) contributes, *"but that's not a conclusion… it helps
+  but it doesn't mean it's gonna be good or bad."*
+- **The back hole is irrelevant to the swim.** It only trails behind — *"kind
+  of like a rudder."* Don't select on it.
+- **Concave vs. flat back: less metal, more kick — in theory.** Tady went
+  concave on the 45s roughly **15–18 years before 2019** (so early 2000s);
+  before that they were flat, and Tady made flat 45s as well. **Salas irons
+  and candy bars are flat and are "perfectly fine."** The mechanism he gives
+  is purely weight: the concave scoop removes metal, so the jig is lighter for
+  its profile, so it kicks a little more — with his own hedge, *"in theory
+  anyway."* Not a buy/don't-buy axis.
+- **Nose shape is a current-matching axis.** A **pointed nose swims in faster
+  current**; a **wider/blunter nose is the better one in slower current.**
+  This is the one shape feature he ties to conditions rather than to the jig
+  in isolation — it pairs with the slack-current rigging fix in
+  [wiring a surface iron](../rigging/wiring-a-surface-iron.md). (He also maps
+  nose shapes onto specific brands on camera; that mapping is garbled in the
+  captions and is not recorded here.)
+
+**Swim-test and cull.** Earlier in his fishing life he would buy a handful of
+jigs, swim them off the bow of a half-day boat, and get rid of the ones that
+didn't work on the spot — *"if they're not any good, why keep them?"* His
+stated expectation is that **a percentage of any batch won't swim**, and that
+finding the good ones costs money: *"you're gonna have to go waste some money
+and buy some… a percentage of them aren't gonna work, to find the ones that
+do."* He draws the parallel to bass anglers buying a dozen identical
+injection-moulded crankbaits and running them all at the lake to find the one
+that's different — because what varies is invisible (weight placement, a void
+inside the body). Two practical consequences:
+
+- **Buy where you can handle the jigs.** Pick them up, sight down them, and
+  match a new one to a known-good one you already fish.
+- **He no longer files or tweaks jigs.** He still can — he can make a
+  non-swimming jig work with a file — but it takes a long time, and he now
+  buys by eye instead. Tweaking is a fallback, not a program.
+
+**Don't be a one-jig man (`yn1suHH6b1Y`).** His example is a friend who is a
+*"7X Salas man — that's all he ever uses,"* and *"he misses out, because
+sometimes they don't want that kind of motion."* Carry **a couple each of a
+few different profiles, a little bigger and a little smaller** — fish key on a
+profile depending on what they're eating and where they are. The counterweight
+is equally explicit: **"you don't need 57 jigs in your tackle box."** A small
+spread of genuinely different swims beats either one jig or a wall of them.
+
+Why the kick is the thing being selected for — the serpentine swim, the
+periodic kick-out, and the separated-baitfish mechanism — is in
+[surface iron](../techniques/surface-iron.md#why-the-kick-works--the-mechanism).
+Colour is deliberately absent from this whole selection process; see
+[surface iron — colour](../techniques/surface-iron-color.md).
+
+### Buying-counter selection — inspect for irregularities (SearcherSportfishing)
+
+A different selection method from Dan Wade's swim-based approach above, aimed
+at picking one jig off a rack of identical ones at the tackle counter rather
+than testing a swim on the water (SearcherSportfishing, Tackle Talk Live,
+`49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel, single
+mention — medium confidence): lay **five or six of the same model/color side
+by side** and look for one with an **irregularity** the others don't have — a
+paint sag, an extra stamped mark, a small notch in the mold — rather than
+grabbing whichever one is on top. The stated reasoning is that an irregular
+jig "might swim a little different" than the identical ones around it, and
+that difference is what could draw a strike from a fish that has already seen
+the standard version go by. Demonstrated live at the Fisherman's Landing
+tackle counter on a **JRI-7** (a paint sag on one) and a **Salas 7X** in
+"scrambled egg" color (one jig, out of six inspected, had five extra letters
+stamped into it that the others lacked). Not reconciled with, and a different
+axis from, Dan Wade's hips/holes/concave-vs-flat swim-test method above — this
+is a pre-purchase heuristic for choosing among visually identical stock, not a
+test of whether the jig swims at all.
+
+## How to fish it
+
+- **Light surface iron** — long-cast on a jig-stick and swum back near the top:
+  [surface iron](../techniques/surface-iron.md). The cast distance IS the
   technique; a steady grind is the baseline, speed up for yellows.
-- **Heavy yo-yo iron** — free-spooled straight to a mark and cranked back at
-  full speed: [yo-yo iron](../techniques/yo-yo-iron.md). The strike is a
-  reaction to the fleeing iron; heavier is mandatory to reach and hold the
-  zone in current.
-- **Foamer crossover** — cast into breaking tuna keyed on sardine or small
-  mackerel: [foamer casting](../techniques/foamer-casting.md) (count it down
-  1–2 seconds, then burn it back; pick irons that stay pinned under a fast
-  wind-in).
+- **Heavy yo-yo iron** — free-spooled straight to a mark and cranked back at full
+  speed: [yo-yo iron](../techniques/yo-yo-iron.md). The strike is a reaction to
+  the fleeing iron; heavier is mandatory to reach and hold the zone in current.
+- **Foamer crossover** — a surface/crossover iron cast into breaking tuna when
+  they're keyed on sardine or smaller mackerel: [foamer
+  casting](../techniques/foamer-casting.md) (count it down 1–2 seconds, then burn
+  it back; pick irons that stay pinned under a fast wind-in).
 - **Dart/Coltsniper daytime finesse** — a lighter, castable jig sunk under
   control and cranked hard the instant it stops, for tuna around the boat
-  that aren't biting well: [dart jig — daytime finesse
+  that aren't biting well: [Dart jig — daytime finesse
   tuna](../techniques/dart-jig-tuna.md).
 
-Which fish and situation calls for each is routed from the species notes:
-[yellowtail](../species/yellowtail.md), [calico
-bass](../species/calico-bass.md), [sand bass](../species/sand-bass.md),
-[barracuda](../species/barracuda.md), [bonito](../species/bonito.md),
-[bluefin tuna](../species/bluefin-tuna.md), [cabrilla](../species/cabrilla.md).
+Which fish and situation calls for each is routed from the species notes —
+[yellowtail](../species/yellowtail.md), [calico bass](../species/calico-bass.md),
+[sand bass](../species/sand-bass.md), [barracuda](../species/barracuda.md),
+[bonito](../species/bonito.md), [bluefin tuna](../species/bluefin-tuna.md).
+
+## Hook style — assist vs. treble
+
+Irons are rigged with either a treble hook or one/two single assist hooks on
+braided cord; which to run is a live judgment call rather than a fixed rule
+(Scotty, Brothers Sportfishing, via Roman Castro, VpW91AKOFVQ, 2020-01-28;
+capt-scotty-brothers registered — high confidence):
+
+- **Why assist hooks on bigger fish:** on a big bluefin, two points of a
+  treble can both find purchase and then work against each other through the
+  fight — because all three points share one shank, they can "auger" each
+  other back out. Assist hooks ride on **separated cords**, so even with two
+  hooks stuck in the fish they aren't fighting each other the same way — the
+  stated reason bigger-bluefin gear favors assist hooks over trebles.
+- **Real-fish hook placement, observed:** on one yellowtail landed on an
+  assist-rigged **Daiwa SK jig**, only one of the two assist hooks caught
+  inside the mouth; the second caught outside, on the face/nose, and still
+  held through the fight (`VpW91AKOFVQ`).
+- **Hybrid-action model data point:** the **Daiwa SK jig** (a 170 g, sardine-
+  color example fished this trip) is built to flutter like a butterfly/knife
+  jig on the drop and additionally kick side-to-side like a yo-yo iron on the
+  retrieve — action on both the fall and the crank, unlike a straight
+  butterfly jig (nearly all its action on the drop) or a straight yo-yo iron.
+
+This is a different axis from the speed-jig/slow-pitch assist-hook-count
+conflict tracked in [assist hooks](../rigging/assist-hooks.md) and [knife
+jigs](knife-jigs.md) (how many assists to run on a knife/slow-pitch jig) —
+this is choosing assist vs. treble hook *style* on a surface/yo-yo iron, not
+reconciled with or contradicting that separate conflict.
+
+**Deck-safety reason to drop the treble on a sport boat, distinct from the
+species-effectiveness axis above:** a lure that ships with an assist hook up
+front and a treble trailing at the back is a boat-wide safety/courtesy call,
+not just an angler's own hookup-rate choice, when fished on a crowded sport
+boat — swapping the stock rear treble for a single hook instead avoids extra
+loose hook points catching on other anglers when a landed, still-hooked fish
+thrashes on deck. Full reasoning and the named hook in [dehooking &
+release — rig the treble out before the trip](../fish-care/dehooking-and-release.md#rig-the-treble-out-before-the-trip--a-single-hook-for-sport-boat-safety-and-courtesy-tackle-express-xgpet4zj35q-2026-07-14-unregistered-channel-single-mention--medium-confidence).
+
+**Tight line, not slack, on the drop — a treble-fouling failure mode (Tackle
+Express, "Stop wasting fish! Are you making this simple line mistake?,"
+`r7Bv49Ysgdw`, 2026-03-21; unregistered channel, single mention — medium
+confidence):** for a treble-hooked lure worked on a vertical drop, hold the
+rod still and keep the line **tight** through the fall — taking up slack with
+the reel if needed — rather than free-falling it on slack line. Stated
+reasoning: a slack-line drop lets the lure flutter more, which "may get
+them," but the **treble hooks can foul on the angler's own line** during that
+extra flutter; fishing it tight sacrifices some fall action specifically to
+keep the trebles clear of the line. No lure model, species, depth, or
+location is given on camera — carried here as a general treble-hook
+mechanism, not tied to a specific iron, technique, or region. **Distinct
+from, not a contradiction of,** the tightlining-the-drop failure documented
+for assist-hook speed jigs in [knife
+jigging](../techniques/knife-jigging.md#common-failures) — that entry
+concerns a different hook style (single assist hooks on separated cords, not
+trebles sharing one shank) and a different failure mechanism (killed
+camber/rock/flutter action, not hook fouling); the two pieces of advice look
+opposite on the surface but address different rigs and different problems.
+
+**Treble vs. single by target species (Doug Kearn, Fisherman's Landing
+tackle, via SearcherSportfishing, `3g82igEL8yk`, 2020-12-31; unregistered
+channel, single mention — medium confidence):** a **treble hook typically
+works best for yellowtail**; a **single hook is sometimes rigged instead for
+bluefin**. Stated reasoning: bluefin are less picky than yellowtail about how
+the jig swims, so the swim-critical treble setup matters less on them. A
+separate axis from the assist-vs-treble, bigger-fish framework above — this
+is treble-vs-single, and turns on species rather than fish size.
+
+**Bluefin hook swap — three shop-recommended options, sized to jig weight
+(Fisherman's Landing tackle-shop staff, via SearcherSportfishing, "Tackle Tip
+Thursday Vol. 114 (Changing hooks on lures)," `PYlqIODuIPQ`, 2020-08-27;
+`searcher-sportfishing` registered channel, single mention — medium
+confidence for the sizing/judgment; the specific hook models below are low
+confidence, named product/model picks, per the channel's registry
+sponsored-claim caveat):** filmed during a hot San Diego bluefin bite on the
+**Shimano Coltsniper** and similar metal jigs (captions render it "cold
+sniper" — resolved against this note's existing Colt Sniper usage above).
+Stock hooks that ship on a Coltsniper hold up fine for smaller fish but need
+to be swapped for bigger bluefin — framed as personal preference with no
+single correct answer, but three options, in the order given:
+
+1. **Size 1 or 1/0 Owner ST-66, a 4X-strength treble hook** — the most
+   popular option and the one most boats/crews recommend: size 1 on the 60 g
+   and 80 g Coltsniper, 1/0 on the 100 g and 120 g.
+2. **5/0–7/0 Owner Aki Twist** — a long-shank, offset J hook — "another very
+   popular one."
+3. **Transplant** — pull the stock hook off a 160 g or 200 g
+   [flat-fall-style jig](knife-jigs.md) and mount it on the
+   Coltsniper instead. Framed as the outside-the-box option; liked by "a lot
+   of crew members."
+
+**Second, independent citation of the Owner ST-66 swap — repeated by the
+same channel, but still `low` confidence for this specific pick per the
+registry's product/model caveat on `searcher-sportfishing` (mechanism/
+parameters rate normally; named product and model endorsements stay `low`
+regardless of repetition) (Steve Carson, Penn/SearcherSportfishing, "Tackle
+Tip Thursday Vol. 234 (How to Use Dart Lures)," `TU5quAG4atM`, 2024-06-13;
+`searcher-sportfishing` registered channel):** on the same "Dart jig"/
+Coltsniper-class lure (captions render "cold snipers"), stock hooks are
+described as **not tuna-rated — small, thin, and not very strong** — the fix
+is to swap to **Owner ST-66-type hooks**, sometimes adding a ring on the
+front to make the lure "tuna ready." A repeated pick from the same
+registered channel, corroborating (at `low` confidence) rather than adding a
+new option to the numbered list above. **Daytime finesse sizing
+for this jig class:** roughly **50 g, 80 g, 100 g, maybe 125 g at the
+most** — daytime rigs, for fish keyed on small bait that won't commit to
+the bigger lures fished at night; effective on **~20 lb schoolies up to
+50 lb**, occasionally as big as **100 lb** once geared over 50 lb. Full
+rod/line/leader build and drop-and-crank mechanics for this jig class are
+in [Searcher big/giant tuna rig ladder](../tackle/searcher-big-tuna-rig-ladder.md)
+and [Dart jig — daytime finesse tuna](../techniques/dart-jig-tuna.md).
+
+**A third, earlier (2023-03-30) independent citation of the same stock-hook
+problem, with a different hook-strength number and a stated treble-vs-single
+preference by lure style (Steve Carson, Penn/SearcherSportfishing, "Tackle
+Tip Thursday Vol. 217 (Daytime Tuna Lures and Outfits)," `pCd6QykcZ0w`,
+2023-03-30; `searcher-sportfishing` registered channel — medium confidence,
+mechanism repeats, specific hook rating is this video's own):** stock rings
+and hooks on these dart jigs are sized for **5–20 lb** fish; Carson's fix is
+to upgrade to **at least a 5X-strong treble hook** — a different specific
+strength rating than the 4X-strength Owner ST-66 pick above, not reconciled
+with it, on the same underlying stock-hooks-aren't-tuna-rated problem. On
+this same video he draws a lure-style line the other entries in this section
+don't: for **nighttime** giant-tuna jigs (a 400 g class outside this note's
+daytime dart-jig scope) he prefers **big single hooks**; for the **daytime**
+dart-type jig specifically he prefers a **heavy treble** instead, after
+"experimenting with every style of hook you can imagine" — trebles cost him
+occasional pulled fish, but he states, without a mechanism he can explain,
+that this lure style "gets a lot more bites with a treble hook on it: can't
+exactly say why, but I can definitively say that's what happens." Full outfit
+(a two-tier light/heavy ladder, plus a heavier 120–170 g Williamson Kentucky
+Jig data point) in [Searcher daytime dart-jig outfit
+ladder](../tackle/searcher-daytime-dart-jig-outfit-ladder.md).
+
+**Dart-type jigs, "cold snipers," and a named favorite — Williamson Gomame
+(Steve Carson, Penn/SearcherSportfishing, "Tackle Tip Thursday Vol. 167
+(All-Around Outfit)," `fyJA3o2hVh0`, 2022-02-03; `searcher-sportfishing`
+registered channel — medium confidence for the mechanism, `low` for the
+named product per this channel's sponsored-claim caveat):** tuna sometimes
+prefer a jig to live bait; one of the most popular styles is the **dart-type
+jig** (captions render "cold snipers," resolved against this note's existing
+Colt Sniper usage above), sold under many different brand names. Carson's own
+favorite is the **Williamson Gomame** — stated etymology on camera: "we
+learned in 2021 that gomame means small dried sardines," not independently
+verified in this corpus. The **smaller sizes, roughly 80 g**, fish well on a
+40 lb-class outfit — full rig in [Searcher 40 lb all-around tuna
+outfit](../tackle/searcher-40lb-all-around-tuna-outfit.md).
 
 ## Owned examples
 
 Cameron's owned irons (attributed `cameron`; full list and colors in
 [Cameron's tackle](../profiles/cameron/tackle.md)):
 
-- Surface: **Squidco Candy Bar SR Lite** (3 oz / 6.5 in), **Strictly Irons
-  Glory** (7 in CNC, wide drawn-out kick, slow/steady), **Strictly Irons
-  Mighty** (5.5 in CNC, medium-to-high speed), **JRI-5** (biggest JRI,
-  slow-to-medium on heavy line, BOLA-proven), **JRI-7** (~Tady 45 class,
-  medium-fast, local/kelp all-rounder), **Nomad Slidekick 120g** (6 in,
-  4.25 oz, crossover — can be sunk out).
+- Surface: **Squidco Candy Bar SR Lite** (3 oz / 6.5"), **Strictly Irons Glory**
+  (7" CNC, wide drawn-out kick, slow/steady), **Strictly Irons Mighty** (5.5"
+  CNC, medium-to-high speed), **JRI-5** (biggest JRI, slow-to-medium on heavy
+  line, BOLA-proven), **JRI-7** (~Tady 45 class, medium-fast, local/kelp
+  all-rounder), **Nomad Slidekick 120g** (6", 4.25 oz, crossover — can be sunk
+  out).
 - Yo-yo: **Salas 6X** (drop to marks, full-speed crank), **Salas CP 105** (heavy
   yo-yo-class).
-
-## Evidence
-
-Trip reports and per-source provenance: [evidence file](evidence/iron-jigs.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -361,7 +595,6 @@ Trip reports and per-source provenance: [evidence file](evidence/iron-jigs.md).
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
-- [Evidence — Iron Jigs](evidence/iron-jigs.md)
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)

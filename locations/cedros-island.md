@@ -271,7 +271,7 @@ different here" (`I-QBxuV2p7M`).
 **Jig sizing is argued in real time.** With fish up and not eating, one crew
 called the jig too small, went bigger, and switched to a flat profile — "try a
 flat, flat might work" (`IdMJnlg_rZk`). Shape-selection logic is in
-[iron jigs](../lures/iron-jigs.md#selecting-a-jig--the-swim-test);
+[iron jigs](../lures/iron-jigs.md#reading-a-jig--how-to-pick-one-that-swims);
 downsizing to match small forage — red crabs, small sardines — is
 [yo-yo iron](../techniques/yo-yo-iron.md) doctrine attributed to a Cedros angler.
 
@@ -419,10 +419,10 @@ Trip reports and per-source provenance:
 - [California Sheephead](../species/sheephead.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Cedros / San Benitos](evidence/cedros-island.md)
-- [Evidence — Iron Jigs](../lures/evidence/iron-jigs.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Guadalupe](guadalupe.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)
+- [Iron Jigs](../lures/iron-jigs.md)
 - [Rapala Husky Magnum](../lures/rapala-husky-magnum.md)
 - [San Quintin](san-quintin.md)
 - [Soft-Plastic Swimbaits](../lures/soft-plastic-swimbaits.md)

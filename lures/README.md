@@ -9,7 +9,7 @@
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](crocodile-spoons.md) — The crocodile is a traditional cast-and-retrieve metal spoon shape, long fished by SoCal anglers generally (M4G8IKsZEFU) — the same broad family as the Krocodil
 - [DTX Minnow](dtx-minnow.md) **[SoCal only]** — The Nomad DTX Minnow is a mid-depth trolling swimmer that gets down and holds a tight action across a wide speed band — a swimmer whose action dies on heavy lin
 - [Halco Laser Pro](halco-laser-pro.md) **[SoCal only]** — The Halco Laser Pro is a bibbed trolling minnow — the deep-diving XDD bib version dives hard for its size.
-- [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal jig: a chrome or painted elongated slab, sold bare or pre-rigged with a single hook, that swims with a sid
+- [Iron Jigs](iron-jigs.md) — The iron is SoCal's signature cast-and-retrieve metal: a chrome or painted elongated slab, hookless-drop or single-hook, that swims with a side-to-side kick on
 - [Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) **[Baja only]** — Region: Baja — Sea of Cortez / Bay of LA.
 - [Knife Jigs](knife-jigs.md) — The vertical metal jig class: a dense metal jig dropped straight down and worked in the water column, with the whole class split by cross-section and how it fal
 - [Lucky Craft Flash Minnow](lucky-craft-flash-minnow.md) **[SoCal only]** — A shallow-diving hard bait treated as the generic term for a surf minnow lure in SoCal beach halibut fishing (Tackle Express, E4CDqBFOaP8, 2025-12-23): "if you
