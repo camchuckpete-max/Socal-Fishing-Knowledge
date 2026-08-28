@@ -126,7 +126,7 @@ by their builders after the transform phase drains.
 | rigging/springer-knot.md | standard | transformed | none | transform verified, 1 fix applied (removed uncited 'flylined' detail smuggled into low-profile bullet) |
 | rigging/surgeons-knot-mono-to-fluoro.md | standard | transformed | asr-uncertain(zKovnvOwlFc presenter unresolved; PKwvkOOYzto presenter name Captain Mark vs title-credited Capt Art) | transform verified, 6 conservation gaps fixed in-tree (5 dropped parameters/quotes + 1 dropped species cross-link pair) |
 | rigging/surgeons-loop.md | standard | transformed | spots(1), asr-uncertain(reel name juice beet reel, hook size 60 J hook to 6/0-9/0, presenter name pattern noer to paternoster) | transform verified with 2 restored parameters (sinker-attachment knot + rig topology, plus 2 minor color/reasoning details) that the worker dropped without an evidence file; all other content, cites, and asr-uncertain flags traced cleanly |
-| rigging/tony-pena-knot.md | standard | pending |  |  |
+| rigging/tony-pena-knot.md | standard | transformed | none | transform verified faithful - de-attribution moved out of prose per style-guide v2.1, v2 front matter added accurately, mechanics/numbers/quotes fully conserved, check-note.py clean |
 | rigging/trap-rig.md | standard | pending |  |  |
 | rigging/tuna-feather-rig.md | standard | pending |  |  |
 | rigging/wind-on-leader.md | standard | pending |  |  |
