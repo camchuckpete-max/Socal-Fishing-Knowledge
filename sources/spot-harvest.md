@@ -404,4 +404,8 @@ harvested.
 | Santa Barbara Island | rigging/rubber-band-deep-rig.md | evidence — Tag-end sinker attachment | locates Osborn Bank as near Santa Barbara Island for the same bluefin bite | `i3qIAHW-SJc` |
 | Guadalupe Island | rigging/surgeons-loop.md | Parameters | bottom dropper-loop application for yellowtail with a 16 oz sinker and 6/0-7/0 hook on a nose-hooked sardine, on an 80-100 lb-class outfit | `zuAuk-Kfa1Y` |
 | Catalina Island | rigging/trap-rig.md | When to use | shallow-water halibut drift-fished with the trap rig | `qIKGJSEE2aY` |
+| Coronado Islands | conditions/bird-reading.md | Boobies | boobies mostly seen here; worth paying attention to | (cameron) |
+| 209 bank | conditions/bird-reading.md | evidence — Terns | tern tip for anglers new to tuna fishing, 72°F water | `SczdZIq3UmE` |
+| 43 / San Clemente Island | conditions/bird-reading.md | evidence — Terns | bluefin tuna kelp-paddy trip where the individual-bird tern read was coached | `A6DJoXbID4c` |
+| 9 Mile Bank | conditions/bird-reading.md | evidence — Miscellaneous sightings | probable black-footed albatross sighted unusually close to shore, east of the bank | (cameron) |
 <!-- review:harvest:end -->

@@ -4,7 +4,7 @@
 <!-- index:start -->
 ## Index
 
-- [Bird Reading](bird-reading.md) — Birds are the fastest long-range fish detector on the water.
+- [Bird Reading](bird-reading.md) — Birds are the fastest long-range fish detector on the water — a working flock is visible for miles, well before sonar or surface commotion confirms fish.
 - [Current Diagnostics](current-diagnostics.md) — This is the observables note: how to read current strength and direction off things you can actually see on the water, so you can pick and adjust presentation i
 - [Current Structure](current-structure.md) — This is the mechanism note: how moving water plus bottom structure builds a food chain, and where on a bank or island that chain concentrates.
 - [Deep Scattering Layer](deep-scattering-layer.md) — The deep scattering layer (DSL) is a dense band of small organisms — hake, small rockfish, squid, myctophids, zooplankton — that sits 600+ ft down by day and ri
@@ -16,6 +16,9 @@
 - [Water Color](water-color.md) — Water color / chlorophyll is the second axis alongside SST.
 - [Water Regimes](water-regimes.md) — Cameron house doctrine (attributed cameron): the Bight's fishing year is four water-state regimes, not twelve months.
 - [Water Temperature](water-temperature.md) — SST is one axis of a two-axis read (temperature and water color / chlorophyll).
+
+### Subfolders
+- [evidence/](evidence/README.md)
 <!-- index:end -->
 
 

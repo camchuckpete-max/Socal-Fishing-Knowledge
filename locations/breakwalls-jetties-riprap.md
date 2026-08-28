@@ -155,6 +155,7 @@ already logged above: the **Seal Beach wall**, the **Surfside wall**,
 
 - [Barred Sand Bass](../species/sand-bass.md)
 - [Bays and Harbors](bays-and-harbors.md)
+- [Bird Reading](../conditions/bird-reading.md)
 - [Calico Bass (Kelp Bass)](../species/calico-bass.md)
 - [California Barracuda](../species/barracuda.md)
 - [California Spiny Lobster](../species/california-spiny-lobster.md)
