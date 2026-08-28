@@ -41,4 +41,5 @@ A charted spot at **33°19.700'N 118°28.130'W** (cameron), in the [Catalina Isl
 ## Linked from
 
 - [Catalina Island — Backside](catalina-island-backside.md)
+- [Island Structure](island-structure.md)
 <!-- backlinks:end -->

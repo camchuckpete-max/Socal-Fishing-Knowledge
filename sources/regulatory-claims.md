@@ -85,6 +85,12 @@ recorded so the figure isn't mistaken for a verified limit:
 - **Freshwater three-hook cap** — `G6YRT4HNxr8`. Framed as Roman Castro's personal operating rule, not a cited regulation; unverified by design.
 - **"A legal-size fish must be killed"** — `VUb7a3sP8zQ`. **Not carried into any note.** A minimum size sets a floor for what may be kept, not an obligation to keep. See [dehooking & release](../fish-care/dehooking-and-release.md).
 
+## U.S. federal / military
+
+| Claim | Figure | As of | Note | Source |
+| --- | --- | --- | --- | --- |
+| San Clemente Island is a U.S. Navy training range; individual zones open and close for military training on a rotating schedule rather than a fixed one | closures rotate; check zone status before the trip | 2025-04-19 (seminar); verify current access before running the crossing | [island structure](../locations/island-structure.md) | `XyKF34C5iB4` |
+
 ## Mexico
 
 | Claim | Figure | As of | Note | Source |

@@ -537,4 +537,9 @@ harvested.
 | Marina del Rey | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
 | Zuniga Jetty (San Diego) | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
 | Oceanside | locations/breakwalls-jetties-riprap.md | Structure & bathymetry | named as a wall that can hold fish regardless of reputation | `XyKF34C5iB4` |
+| Farnsworth Bank | locations/island-structure.md | Structure & bathymetry | named example of a standalone bank — fishes in any current direction but has its own preferred directions | `6TBxHnkYXI0` |
+| San Clemente Island | locations/island-structure.md | Getting there | U.S. Navy training range; zones open/close for military training on a rotating schedule | `XyKF34C5iB4` |
+| Salta Verde | locations/island-structure.md | How it fishes | stern-to-west-end spot that turns on in a southeast wind | `aFb221LUoD0` |
+| China Point (Catalina) | locations/island-structure.md | How it fishes | stern-to-west-end spot that turns on in a southeast wind | `aFb221LUoD0` |
+| Catalina Island — West End | locations/evidence/island-structure.md | How it fishes | backside found "just blowing" and worsening further back; team retreated to the front side for shelter | `PKf7G3uL4io` |
 <!-- review:harvest:end -->

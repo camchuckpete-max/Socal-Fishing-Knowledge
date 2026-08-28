@@ -161,6 +161,7 @@ Trip reports and per-source provenance: [evidence file](evidence/bass-structure.
 - [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Evidence — Bass Structure](evidence/bass-structure.md)
 - [Imperial Beach](imperial-beach.md)
+- [Island Structure](island-structure.md)
 - [Kayak Bass Fishing](../techniques/kayak-bass-fishing.md)
 - [La Fonda / Bajamar / Salsipuedes](la-fonda-bajamar-salsipuedes.md)
 - [Oceanside / North County](oceanside-north-county.md)

@@ -463,7 +463,6 @@ Trip reports and per-source provenance: [evidence file](evidence/swimbaits.md).
 - [Gear Classes — the class-term lexicon](../tackle/gear-classes.md)
 - [Glide Baits](glide-baits.md)
 - [Imperial Beach](../locations/imperial-beach.md)
-- [Island Structure](../locations/island-structure.md)
 - [La Paz](../locations/la-paz.md)
 - [Leadhead Swimbait Retrieve — Depth Control by Feel](leadhead-swimbait-retrieve.md)
 - [Line & Leader — Braid, Mono, Fluoro by Application](../tackle/line-and-leader.md)

@@ -277,6 +277,7 @@ Trip reports and per-source provenance:
 - [Gallaghers](gallaghers.md)
 - [Hen Rock Kelp](hen-rock-kelp.md)
 - [Indian Rock (partial-take SMCA, no inverts)](indian-rock.md)
+- [Island Structure](island-structure.md)
 - [Isthmus Reef (caution — shoals; stay W of MPA at 118 29.300)](isthmus-reef.md)
 - [Jewfish Point](jewfish-point.md)
 - [Johnson Rock (caution — boiler rocks)](johnson-rock.md)

@@ -233,6 +233,7 @@ Trip reports and per-source provenance:
 - [43 / 91 / 300](43-91-300.md)
 - [81 / 381](81-381.md)
 - [Evidence — San Clemente Island, Front Side](evidence/san-clemente-island-front-side.md)
+- [Island Structure](island-structure.md)
 - [Purse Seine Rock](purse-seine-rock.md)
 - [Pyramid Cove](pyramid-cove.md)
 - [Pyramid Reef](pyramid-reef.md)

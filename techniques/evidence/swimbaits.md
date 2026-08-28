@@ -159,5 +159,6 @@ Per-source provenance backing [swimbaits](../swimbaits.md).
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Island Structure](../../locations/evidence/island-structure.md)
 - [Swimbaits](../swimbaits.md)
 <!-- backlinks:end -->

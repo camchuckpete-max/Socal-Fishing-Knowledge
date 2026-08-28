@@ -1,146 +1,167 @@
 ---
 type: location
 tags: [islands, structure, current, fathom-curve, catalina-eddy, paddies]
-sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io, XyKF34C5iB4]
+sources: [6TBxHnkYXI0, 0KQ--N5TjqE, HnqiE05vdXs, aFb221LUoD0, PKf7G3uL4io, XyKF34C5iB4, S2L3KLSQ6Is]
 confidence: high
 regions: [socal-bight]
 waters: [island, bank]
+layout: v2
+parent: unknown
+structure_type: current-direction typology (perpendicular ridges, standalone banks, coastal deep spots) and island fathom-curve behavior — universal, not one spot's structure
+depth_band: unknown — typology spans all depths; the worked fathom-curve example is Catalina's ~500-fathom curve
+distance_nm: unknown — universal knowledge, not measured from one launch point
 ---
 
 # Island Structure
 
-Universal typology of SoCal island and bank structure — the shapes the bottom
-takes and how current has to run across each shape to make it fish. This note is
-about the *structure*; the mechanism that turns current-over-structure into a
-food chain lives in [current structure](../conditions/current-structure.md), and
-the on-water tells (kelp angle, chum drift) in
-[current diagnostics](../conditions/current-diagnostics.md). No coordinates here.
+Universal typology of SoCal island and bank structure: how many current
+directions each shape fishes, how the fathom curve itself becomes huntable
+structure, and how wind and swell decide which side of an island is worth
+running to on a given day. The mechanism that turns current-over-structure
+into a food chain lives in [current structure](../conditions/current-structure.md);
+the on-water tells (kelp angle, chum drift) live in
+[current diagnostics](../conditions/current-diagnostics.md). No coordinates
+here — see the zone and spot pages for those.
 
-## Structure typology (how many directions a spot fishes)
+## Getting there
 
-Not all structure fishes the same number of current directions (2/20/25;
-Academy Ep. 14):
+This is universal structure-reading knowledge, not a single spot — it has no
+launch point or transit leg of its own. Getting-there detail for individual
+islands and banks belongs on their own zone and spot pages, e.g.
+[Catalina Island — Front Side](catalina-island-front-side.md) and
+[San Clemente Island — Front Side](san-clemente-island-front-side.md).
 
-- **Land-attached perpendicular ridges** are **two-directional** spots. A ridge
-  running out perpendicular from an island only produces on **parallel current**
-  (current running along the shoreline, either uphill or downhill). Current
-  straight into the beach is marginal; straight off the beach is dead. See the
-  parallel-current rule in
-  [current structure](../conditions/current-structure.md).
-- **Standalone banks** (Farnsworth type — structure rising off the plain, not
-  attached to land) **fish in any direction**, but each individual bank still has
-  its own **preferred directions**. You learn a standalone bank's good directions
-  spot by spot; there is no single rule.
-- **Coastal deep spots** default-prefer **downhill (N→S)** current.
+San Clemente Island is a U.S. Navy training range, not open coastline. Zones
+open and close for military training on a rotating schedule rather than a
+fixed one, so checking which zones are open is a standard pre-trip step
+alongside safety prep for the crossing — roughly 60 miles, straight off the
+beach (`XyKF34C5iB4`). **U.S. Navy, as of the 2025-04-19 seminar; verify
+current access before running the crossing.** ⚠ misplaced-content: San
+Clemente Island access/closure facts sit in a universal island-typology note
+rather than on the island's own zone page (queued:
+`sources/relocation-queue.md`).
 
-The practical read: identify which of the three a spot is *before* you commit, so
-you know whether today's current vector even lets it work. A perpendicular ridge
-on an off-the-beach current is a non-starter no matter how good the water looks.
+## Structure & bathymetry
 
-## Fathom-curve behavior at islands
+Not every structure fishes the same number of current directions
+(`6TBxHnkYXI0`):
 
-Where an island rises off the surrounding plain, the **fathom curve itself is
-structure**. At **Catalina's ~500-fathom curve**, the uphill (summer counter)
-current compresses as it climbs the slope, **spins eddies**, and **aggregates
-both bait and kelp paddies** along the curve (`HnqiE05vdXs`). The curve is a line you
-can hunt, not a point.
+- **Land-attached perpendicular ridges** are two-directional. A ridge running
+  out perpendicular from an island only produces on **parallel current**
+  (current running along the shoreline, either uphill or downhill);
+  straight-into-the-beach current is marginal, straight-off-the-beach is
+  dead. See the parallel-current rule in
+  [current structure](../conditions/current-structure.md) and the same
+  typology applied to bass-holding structure in
+  [bass structure](bass-structure.md).
+- **Standalone banks** (Farnsworth Bank, off Catalina, is the named example)
+  sit off the island with open water on every side and fish in **any current
+  direction**, but each still has its own preferred directions learned spot
+  by spot — there is no single rule.
+- **Coastal deep spots** default-prefer **downhill (north-to-south)**
+  current, the normal setup on most coastal spots.
+
+Identify which of the three a spot is before committing, so you know whether
+the day's current vector lets it work at all — a perpendicular ridge on an
+off-the-beach current is a non-starter no matter how good the water looks.
+
+Where an island rises off the surrounding plain, the fathom curve itself is
+structure. At **Catalina's ~500-fathom curve**, the uphill (summer counter)
+current compresses as it climbs the slope, **spins eddies**, and
+**aggregates both bait and kelp paddies** along the curve (`HnqiE05vdXs`).
+The curve is a line to hunt, not a point.
 
 Worked example — the template to copy (`HnqiE05vdXs`):
 
 1. One popped fish appears near the curve.
-2. Identify the **structure that fish related to** — treat it as a signal, not
-   noise.
-3. Run the curve **slowly** and wait. Do **not** sprint to where the fleet went.
+2. Identify the **structure that fish related to** — treat it as a signal,
+   not noise.
+3. Run the curve **slowly** and wait. Do **not** sprint to where the fleet
+   went.
 4. Return to your own marked positions at tide time.
 
-The governing rule, nearly verbatim: **sign associated with structure is a
-repeatable decision; sign in no-man's-land is low value.** Paddies and bait found
-*on* the curve are worth working; the same sign in open water between features is
-not. Kelp-paddy behavior in general is covered in
+The governing rule: sign associated with structure is a repeatable decision;
+sign in no-man's-land is low value (`HnqiE05vdXs`). Paddies and bait found
+*on* the curve are worth working; the same sign in open water between
+features is not. Kelp-paddy behavior in general is covered in
 [kelp paddies](../conditions/kelp-paddies.md).
 
-## The Catalina Eddy as a shielding feature
+## What's there
+
+| species | season | what the structure does for them |
+| --- | --- | --- |
+| [Calico bass](../species/calico-bass.md) | year-round on productive structure | parallel current over a land-attached reef opens a pinch-point upwelling that turns the whole current-exposed expanse into huntable ground, not just the reef itself (`6TBxHnkYXI0`); see [bass structure](bass-structure.md) for the kelp/reef-edge execution |
+| [Yellowtail](../species/yellowtail.md) | structure-linked, not season-linked here | game fish key on the same bait aggregated by pinch-point upwellings and fathom-curve eddies (`6TBxHnkYXI0`); season and zone detail live in the species router |
+| [Bluefin Tuna](../species/bluefin-tuna.md) | structure-linked, not season-linked here | related to bait relating to Catalina's fathom curve in the same worked example that establishes the curve as huntable structure (`HnqiE05vdXs`); season and zone detail live in the species router |
+
+⚠ Flagged gap — no corpus source: season/catchability windows tied
+specifically to island/bank structure for yellowtail and bluefin tuna (season
+detail lives in the species routers linked above, not in this
+structure-typology note).
+
+## How it fishes
+
+### Catalina Eddy shielding
 
 Islands do not only make bottom structure — they shape the wind field. The
-**Catalina Eddy** (a counter-clockwise circulation that sets up in the bight) can
-**shield the inner San Diego banks and tuna grounds** while it blows outside
-(5/26/22, Landesfeind). When the outer forecast looks blown, **check the eddy
-state** — the inner zones may be fishable. This is a planning input to
-[sea state](../conditions/sea-state.md): an island-driven feature that decouples
-inner-zone seas from the offshore forecast.
+**Catalina Eddy**, a counter-clockwise circulation that sets up in the bight,
+can **shield the inner San Diego banks and tuna grounds** while it blows
+outside (`S2L3KLSQ6Is`). When the outer forecast looks blown, check the eddy
+state before writing off the inner zones — an island-driven wind feature
+that decouples inner-zone seas from the offshore forecast; see
+[sea state](../conditions/sea-state.md).
 
-## Swell/wind-driven zone selection: Catalina case study (dave-hansen, single mention — medium confidence)
+### Swell and wind decide which side of the island to fish
 
-Swell and wind direction don't only set a go/no-go call (see
-[sea state](../conditions/sea-state.md)) — they also decide **which side of the
-island is worth running to that day**. Capt. Dave Hansen (Your Saltwater Guide,
-aFb221LUoD0, 2020-10-20) frames his own Catalina game-plan process this way:
+Swell and wind direction do more than set a go/no-go call (see
+[sea state](../conditions/sea-state.md)) — they also decide which side of an
+island is worth running to that day (`aFb221LUoD0`). SoCal's prevailing
+wind, current, and swell default out of the **west**, and island structure
+and fish orientation are conditioned to that pattern. A **south swell**
+reverses it: it pushes current in a direction the fish aren't used to and
+tears up the water specifically on Catalina's **east end**, making that end
+hard to fish. A **big west swell** does the opposite — the trigger to run
+**down to the east end** rather than the front-side/backside/middle. Read
+swell direction first, then choose east end vs. front/back/middle.
 
-- SoCal's prevailing wind and current default out of the **west**, and swell
-  usually does too — island structure and fish orientation are conditioned to
-  that pattern. A **south swell** reverses it: it pushes current in a direction
-  the fish aren't used to and tears up the water specifically on Catalina's
-  **east end**, making that end hard to fish.
-- A **big west swell** does the opposite — it's his trigger to send anglers
-  **down to the east end** rather than the front-side/backside/middle. Read
-  swell direction first, then choose east end vs. front/back/middle.
-- He builds the call from two named tools: **FishDope's charting** for water
-  clarity (chlorophyll) and water temperature, and **Buoy Weather** for swell
-  height/direction — the same swell/wind tool family already named in
-  [sea state](../conditions/sea-state.md#gono-go-wind--swell-thresholds-dave-hansen).
-  See [water color](../conditions/water-color.md) and
-  [water temperature](../conditions/water-temperature.md) for the SoCal-bight
-  read of the chlorophyll/temp axes he's charting.
+The same two named tools already used for the
+[sea-state go/no-go call](../conditions/sea-state.md#gono-go-wind--swell-thresholds-dave-hansen)
+build this read: **FishDope's charting** for water clarity (chlorophyll) and
+water temperature, and **Buoy Weather** for swell height and direction. See
+[water color](../conditions/water-color.md) and
+[water temperature](../conditions/water-temperature.md) for the SoCal-bight
+read of those two axes.
 
-**Named-spot wind fit.** Individual spots also have a preferred **wind**, not
-just a preferred current direction (extends the typology above): in a
-**southeast wind**, a backside spot he calls "Freddy's Beach" in the video
-stops producing (name unverified against
-[Cameron's spot list](../profiles/cameron/spots.md) — flagged, not carried as
-confirmed; the video gives no orientation/facing detail for this spot, so none
-is asserted here), while spots where the boat lies with its **stern toward the
-island's west end** turn on — he names **Salta Verde** and Catalina's **China
-Point** (both catalogued in [the spot list](../sources/spot-lists.md); note the
-spot list also has a distinct San Clemente Island "China Point" entry — this
-claim is about Catalina's) as southeast-wind producers. The general lesson:
-learn each spot's preferred wind before committing, since the same spot can go
-from firing to dead on a wind flip with no change in current.
+Individual spots also carry a preferred **wind**, not just a preferred
+current direction. In a **southeast wind**, a backside spot named "Freddy's
+Beach" stops producing (`aFb221LUoD0`) ⚠ Fact-check (unverifiable): the name
+does not resolve against the spot library, and the source gives no
+orientation/facing detail for it — not carried as a confirmed spot. Spots
+where the boat lies with its **stern toward the island's west end** turn on
+in that same wind — named examples are [Salta Verde](salta-verde.md) and
+Catalina's [China Point](catalina-china-point.md) (a distinct China Point
+also exists on [San Clemente Island](china-point.md); this claim is
+Catalina's) (`aFb221LUoD0`). Learn each spot's preferred wind before
+committing — the same spot can go from firing to dead on a wind flip with no
+change in current.
 
-**Observed** (StokedOnFishing, "California Offshore Challenge, part 2,"
-event ~early November 2014 per the 2014-11-11 upload, Catalina Island, day
-two — `PKf7G3uL4io`): a team (boat/team name heard as "Opportunity" in
-captions, ASR-uncertain, distinct from the "Team Killer Whale" and "Team
-Salty" identities documented in the `IATPg9110CE` entries on
-[calico bass](../species/calico-bass.md) and
-[swimbaits](../techniques/swimbaits.md)) started day two by running around
-Catalina's **West End**, found it "just blowing," and the further back
-along the **backside** they got the worse it was — they turned around and
-retreated to **seek shelter on the front side** rather than push through.
-No swell direction given on camera. Read as a same-event data point for
-west-end wind exposure alongside the swell/wind zone-selection doctrine
-above, not a new rule. Unregistered channel — medium confidence.
+A same-event data point backs the west-end wind-exposure read: a boat found
+Catalina's West End backside progressively worse the further back it ran and
+retreated to the front side for shelter (`PKf7G3uL4io`) — full account in
+the evidence file.
 
-## San Clemente Island — Navy-controlled access
+### Reading across the day's spots
 
-San Clemente Island is a **U.S. Navy training range**, not open coastline —
-before running a trip there, check which zones are **open or closed** for
-military training that day; closures rotate with the Navy's schedule rather
-than being fixed. Panelists describe this as a standard pre-trip check
-alongside safety prep for the roughly **60-mile, straight-off-the-beach**
-crossing (Time On The Water panel, `XyKF34C5iB4`, 2025-04-19; unregistered
-channel — medium confidence, as-of the seminar date — verify current access
-before running the crossing).
+Current direction is coherent across a region (see spatial coherence in
+[current structure](../conditions/current-structure.md)) — once the day's
+current direction is known, every island and bank on the list can be
+pre-judged by its typology: perpendicular ridges only if the current is
+parallel, standalone banks by their known preferred directions, coastal deep
+spots best on downhill current.
 
-## Reading across the day's spots
+## Evidence
 
-Because current direction is coherent across a region (see spatial coherence in
-[current structure](../conditions/current-structure.md)), once you know which way
-the water runs you can pre-judge every island and bank on the day's list by its
-typology — perpendicular ridges only if it's parallel, standalone banks by their
-known preferred directions, coastal deep spots best on downhill. Species that key
-on this structure include [yellowtail](../species/yellowtail.md) and
-[bluefin tuna](../species/bluefin-tuna.md).
-
+Trip reports and per-source provenance: [evidence file](evidence/island-structure.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -178,6 +199,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [E. Butterfly / San Salvador Knoll](e-butterfly-san-salvador-knoll.md)
 - [Ensenada](ensenada.md)
 - [Evidence — Catalina Island, Front Side](evidence/catalina-island-front-side.md)
+- [Evidence — Island Structure](evidence/island-structure.md)
 - [Evidence — Swimbaits](../techniques/evidence/swimbaits.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [February–March](../seasonal/february-march.md)
@@ -189,6 +211,7 @@ on this structure include [yellowtail](../species/yellowtail.md) and
 - [North 9 Mile Bank / 178](north-9-mile-bank-178.md)
 - [November–December](../seasonal/november-december.md)
 - [Ocean Whitefish](../species/ocean-whitefish.md)
+- [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
 - [San Clemente Island — Back Side](san-clemente-island-back-side.md)
 - [San Clemente Island — Front Side](san-clemente-island-front-side.md)
