@@ -914,7 +914,7 @@ a bluefin).
 - [Bates EDC 100 — Digitally Assisted Brake (DAB) Baitcaster (Tackle Express)](tackle-express-bates-edc-100-reel.md)
 - [Bimini Twist — 100% Double-Line Loop](../rigging/bimini-twist.md)
 - [Bluefin Retail Outfit Ladder — High-End vs. Budget](bluefin-retail-setup-high-end-vs-budget.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)

@@ -266,7 +266,7 @@ Per-source provenance: [evidence file](evidence/essential-knots.md).
 ## Linked from
 
 - [Bimini Twist — 100% Double-Line Loop](bimini-twist.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md)

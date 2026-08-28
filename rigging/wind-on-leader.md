@@ -106,7 +106,7 @@ seminar (`G1YIlakiRqg`, 2024-03-13).
 
 - [Bait-and-Switch (Striped Marlin)](../techniques/bait-and-switch.md)
 - [Bimini Twist — 100% Double-Line Loop](bimini-twist.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Hollow vs Solid Spectra — Construction, Rigging, and When Each Earns Its Place](../tackle/spectra-hollow-vs-solid.md)
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md)

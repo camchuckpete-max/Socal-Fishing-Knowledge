@@ -215,7 +215,7 @@ Trip reports and per-source provenance:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Dropper Loop](dropper-loop.md)
 - [Evidence — Fighting a Big Bluefin](evidence/fighting-big-bluefin.md)

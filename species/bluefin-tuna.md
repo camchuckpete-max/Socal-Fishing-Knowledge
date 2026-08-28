@@ -444,7 +444,7 @@ Trip reports and per-source provenance:
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](../tackle/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
 - [Bluefin Retail Outfit Ladder — High-End vs. Budget](../tackle/bluefin-retail-setup-high-end-vs-budget.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna — trolling](bluefin-tuna-trolling.md)
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)

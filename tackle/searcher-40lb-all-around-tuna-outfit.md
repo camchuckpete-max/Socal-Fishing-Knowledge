@@ -231,8 +231,9 @@ gap-fills from this citation are folded into the sections below.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
+- [Evidence — Bluefin Rig Ladder by Grade](evidence/bluefin-rig-ladder-by-grade.md)
 - [Evidence — Two-Speed Reel Technique](../techniques/evidence/two-speed-low-gear-fight.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Iron Jigs](../lures/iron-jigs.md)

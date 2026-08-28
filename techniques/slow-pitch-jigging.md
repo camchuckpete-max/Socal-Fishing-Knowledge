@@ -383,7 +383,7 @@ Trip reports and per-source provenance: [evidence file](evidence/slow-pitch-jigg
 - [Baja - 230 / Peanut Bank / 60](../locations/baja-230-peanut-bank-60.md)
 - [Banda Bank / Todos Santos Island](../locations/banda-bank-todos-santos-island.md)
 - [Barred Sand Bass](../species/sand-bass.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [California Sheephead](../species/sheephead.md)
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Colonet](../locations/colonet.md)

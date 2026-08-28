@@ -121,7 +121,7 @@ the panel, not a ranking; both doctrines below stay attributed and unmerged:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Knife / Speed Jigging](../techniques/knife-jigging.md)
 - [Slow-Pitch Jigging (SPJ)](../techniques/slow-pitch-jigging.md)
 <!-- backlinks:end -->

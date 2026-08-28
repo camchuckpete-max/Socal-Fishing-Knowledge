@@ -222,7 +222,7 @@ SearcherSportfishing byline.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Essential SoCal Knots](essential-knots.md)
 - [Evidence — Essential SoCal Knots](evidence/essential-knots.md)

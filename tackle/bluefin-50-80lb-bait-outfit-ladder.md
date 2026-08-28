@@ -57,7 +57,7 @@ specific reel-model picks and a cross-video presenter-identity note:
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Evidence — Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](evidence/bluefin-50-80lb-bait-outfit-ladder.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)

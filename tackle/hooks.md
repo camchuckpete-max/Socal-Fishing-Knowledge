@@ -1002,7 +1002,7 @@ Owner disclosed as a Searcher sponsor) and predates circle hooks:
 - [Bait-Tank Time-Saver — Artificial "Double[-]8 Octopus" on the Rock-Cod Rig (Tackle Express)](tackle-express-bait-tank-time-saver.md)
 - [BKK Titan Diver and Titan Diver Plus — Swimbait Hooks (Tackle Express)](tackle-express-bkk-titan-diver-swimbait-hooks.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](bluefin-50-80lb-bait-outfit-ladder.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)
 - [California Sheephead](../species/sheephead.md)

@@ -421,7 +421,7 @@ file](evidence/knife-jigs.md).
 - [Bahía de los Ángeles (BOLA / Bay of LA)](../locations/bahia-de-los-angeles.md)
 - [Baja - 270 / Double 220 / 295](../locations/baja-270-double-220-295.md)
 - [Bluefin Bite Leaders](../rigging/bite-leaders.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Cortez North](../locations/cortez-north.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)

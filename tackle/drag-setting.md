@@ -486,7 +486,7 @@ at that stage to finish it.
 
 - [Accurate Tern 2 — Cast-Control Brake and Redesigned Twin Drag (Tackle Express)](tackle-express-accurate-tern-2-reel.md)
 - [All-Purpose Rod — Buy a Wide Line Rating, Fish the Middle of It](all-purpose-rod-line-rating.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Daiwa Saltiga — CRBB Bearings, Digigear, and Automatic Tournament Drag (Tackle Express)](tackle-express-daiwa-saltiga-reel.md)
 - [Daiwa Saltist SD — Centrifugal Braking, One-Piece Aluminum Body (Tackle Express)](tackle-express-daiwa-saltist-sd-reel.md)
 - [Dropper Loop](../techniques/dropper-loop.md)

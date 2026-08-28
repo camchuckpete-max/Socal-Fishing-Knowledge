@@ -137,7 +137,7 @@ file](evidence/tuna-feathers-and-skirts.md).
 ## Linked from
 
 - [<Your> Trolling Lures (owned)](../profiles/_template/trolling-lures.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](../tackle/bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](../tackle/bluefin-rig-ladder-by-grade.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Dana Point](../locations/dana-point.md)
 - [Evidence — Dana Point](../locations/evidence/dana-point.md)

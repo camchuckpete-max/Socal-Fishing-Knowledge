@@ -667,7 +667,7 @@ ladder](searcher-daytime-dart-jig-outfit-ladder.md).**
 
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Retail Outfit Ladder — High-End vs. Budget](bluefin-retail-setup-high-end-vs-budget.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Chunking](../techniques/chunking.md)
 - [Dart Jig — Daytime Finesse Tuna](../techniques/dart-jig-tuna.md)
 - [Evidence — Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](evidence/bluefin-50-80lb-bait-outfit-ladder.md)

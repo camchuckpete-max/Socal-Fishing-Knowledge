@@ -220,8 +220,9 @@ just as picky.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
+- [Evidence — Bluefin Rig Ladder by Grade](evidence/bluefin-rig-ladder-by-grade.md)
 - [Evidence — Two-Speed Reel Technique](../techniques/evidence/two-speed-low-gear-fight.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 - [Searcher Rail-Rod Ladder — Four Tiers by Line Rating (Steve Carson, Penn/SearcherSportfishing, 2023-12-07)](searcher-rail-rod-ladder.md)

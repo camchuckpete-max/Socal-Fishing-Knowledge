@@ -262,7 +262,7 @@ does the lookup.
 - [Beach Depth Control — Reading Bottom by Rod-Tip Height](../techniques/beach-lure-depth-control.md)
 - [Bluefin 50–80 lb Bait Outfit Ladder — Three-Rig Quiver](bluefin-50-80lb-bait-outfit-ladder.md)
 - [Bluefin Retail Outfit Ladder — High-End vs. Budget](bluefin-retail-setup-high-end-vs-budget.md)
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cabrilla (Leopard Grouper)](../species/cabrilla.md)

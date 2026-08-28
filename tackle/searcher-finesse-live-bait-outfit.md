@@ -160,7 +160,7 @@ being fish" and won't eat anything heavier.
 <!-- backlinks:start -->
 ## Linked from
 
-- [Bluefin Rig Ladder by Grade — Steve Carson / Penn (San Diego Rod & Reel Club)](bluefin-rig-ladder-by-grade.md)
+- [Bluefin Rig Ladder by Grade](bluefin-rig-ladder-by-grade.md)
 - [Bluefin Tuna](../species/bluefin-tuna.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
 <!-- backlinks:end -->
