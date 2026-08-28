@@ -202,3 +202,7 @@ Entries are appended by scripts/batch2/ tooling — do not hand-edit shape.
 ## 2026-08-27T21:54:42Z — techniques/foamer-casting.md — verify-escalate
 - run: 33112147658
 - reason: The before-text explicitly flagged the surface-iron retrieve speed as a not-reconciled conflict (burn-it-back vs. wind-it-real-slow). The transform rewrote it into a decision rule (default to burn, drop to real-slow as tough-foamer fallback) — well-grounded in AodUBhxPts8 but resolves a conflict the source note deliberately left open. Cameron should confirm this reframing is intended.
+
+## 2026-08-28T03:24:38Z — techniques/trolling.md — guard-violation
+- run: 33133268419
+- reason: commit f1df95e19ffa3d76bfdd3b1237e90625850f5775 reverted: out of scope for 'review: techniques/trolling.md': bait/making-bait.md; out of scope for 'review: techniques/trolling.md': locations/bahia-magdalena-lopez-mateos.md; out of scope for 'review: techniques/trolling.md': locations/cabo-san-lucas.md; out of scope for 'review: techniques/trolling.md': locations/catalina-island-backside.md; out of scope for 'review: techniques/trolling.md': locations/east-cape.md; out of scope for 'review: techniques/trolling.md': locations/la-paz.md; out of scope for 'review: techniques/trolling.md': locations/slide-152-277.md
