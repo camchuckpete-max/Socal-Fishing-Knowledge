@@ -102,7 +102,7 @@ by their builders after the transform phase drains.
 | lures/tuna-poppers-and-stickbaits.md | standard | skipped |  | skipped: verifier-reject: house-style rewrite incomplete (56 retired boilerplate instances remain across an 840-line note) |
 | rigging/assist-hooks.md | standard | transformed | none | transform verified with 3 in-tree fixes (2 dropped claims restored, 1 opinion-hardened-to-fact reverted) |
 | rigging/bimini-twist.md | standard | transformed | asr-uncertain(quick-tie wrap counts) | transform verified, apply-with-changes: added missing evidence/bimini-twist.md to conserve dropped presenter/channel/date provenance |
-| rigging/bite-leaders.md | standard | pending |  |  |
+| rigging/bite-leaders.md | standard | transformed | none | transform: attribution preambles migrated to new evidence/bite-leaders.md, doctrine-conflict decision frame added per style-guide v2.1, v2 infobox fields added; conservation and 3 transcript spot-checks confirmed faithful |
 | rigging/crimping.md | standard | pending |  |  |
 | rigging/cut-loop-dropper.md | standard | pending |  |  |
 | rigging/double-trouble-rig.md | standard | pending |  |  |

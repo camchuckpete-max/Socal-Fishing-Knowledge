@@ -484,6 +484,7 @@ Trip reports and per-source provenance: [evidence file](evidence/knife-jigging.m
 - [Cameron's Rods — 8 Setups](../profiles/cameron/rods.md)
 - [Cortez North](../locations/cortez-north.md)
 - [East Cape](../locations/east-cape.md)
+- [Evidence — Bluefin Bite Leaders](../rigging/evidence/bite-leaders.md)
 - [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Knife / Speed Jigging](evidence/knife-jigging.md)

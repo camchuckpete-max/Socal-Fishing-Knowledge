@@ -6,7 +6,7 @@
 
 - [Assist Hooks — Sizing, Cord, and Tying](assist-hooks.md) **[SoCal only]** — How to build and resize an assist hook trackside or on the water: matching hook size to a jig, choosing cord stiffness for the jig style, and tying a single (to
 - [Bimini Twist — 100% Double-Line Loop](bimini-twist.md) **[SoCal only]** — A double-line/loop knot, not a hook tie or a line-to-line connection like the rest of the essential SoCal knots family — it ties a doubled section of line into
-- [Bluefin Bite Leaders](bite-leaders.md) **[SoCal only]** — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — described as the most critical part of a bluefin knife-jig setu
+- [Bluefin Bite Leaders](bite-leaders.md) **[SoCal only]** — A bite leader is a short, heavy fluorocarbon section crimped between the main line and the jig — the most critical part of a bluefin knife-jig setup (kO_BqzUYay
 - [Crimping — Sleeve Crimps for Heavy Leaders](crimping.md) — A crimp sleeve is a metal tube slid over doubled leader (or over leader plus a hook/swivel eye) and mechanically compressed with a crimping tool, joining the tw
 - [Cut-Loop Surgeon's Loop — a Two-Leg Dropper Substitute](cut-loop-dropper.md) — A dropper-loop variant that skips tying a separate hook-to-loop knot: tie a 3-to-4-turn surgeon's loop, then cut the loop itself off-center so it stops being a
 - [Double Trouble Rig](double-trouble-rig.md) — A two-bait live-bait presentation hung from the kite and run off two rods — similar in the water to flying a kite bait, but with two live baits instead of a fly
