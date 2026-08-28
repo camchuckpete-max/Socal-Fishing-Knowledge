@@ -200,6 +200,7 @@ carried into this note beyond this mention (curation bar).
 - [Alijos Rocks](../locations/alijos-rocks.md)
 - [Baja Pacific — South](../locations/baja-pacific-south.md)
 - [Crimping — Sleeve Crimps for Heavy Leaders](../rigging/crimping.md)
+- [Evidence — Crimping — Sleeve Crimps for Heavy Leaders](../rigging/evidence/crimping.md)
 - [Evidence — Wahoo](../species/evidence/wahoo.md)
 - [Evidence — Yellowfin Tuna](../species/evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)

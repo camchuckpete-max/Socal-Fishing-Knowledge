@@ -103,7 +103,7 @@ by their builders after the transform phase drains.
 | rigging/assist-hooks.md | standard | transformed | none | transform verified with 3 in-tree fixes (2 dropped claims restored, 1 opinion-hardened-to-fact reverted) |
 | rigging/bimini-twist.md | standard | transformed | asr-uncertain(quick-tie wrap counts) | transform verified, apply-with-changes: added missing evidence/bimini-twist.md to conserve dropped presenter/channel/date provenance |
 | rigging/bite-leaders.md | standard | transformed | none | transform: attribution preambles migrated to new evidence/bite-leaders.md, doctrine-conflict decision frame added per style-guide v2.1, v2 infobox fields added; conservation and 3 transcript spot-checks confirmed faithful |
-| rigging/crimping.md | standard | pending |  |  |
+| rigging/crimping.md | standard | transformed | asr-uncertain(A2 crimp designation on 3zXcrGsIL-c) | transform: attribution moved to new evidence/crimping.md, sections merged into one When to use per v2 skeleton, layout v2 + line_class/hook_sizes added; 6/6 transcript spot-checks faithful |
 | rigging/cut-loop-dropper.md | standard | pending |  |  |
 | rigging/double-trouble-rig.md | standard | pending |  |  |
 | rigging/dropper-loop-knot-and-spider-hitch.md | standard | pending |  |  |
