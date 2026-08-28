@@ -33,6 +33,7 @@
 - [Evidence — Swimbaits](swimbaits.md) — Per-source provenance backing swimbaits.
 - [Evidence — Tube-Bait Fishing](tube-bait-fishing.md) — Per-source provenance backing tube-bait fishing.
 - [Evidence — Two-Speed Reel Technique](two-speed-low-gear-fight.md) — Per-source provenance backing two-speed reel technique — low-gear grind vs.
+- [Evidence — Underhand Casting](underhand-casting.md) — Per-source provenance backing underhand casting.
 <!-- index:end -->
 
 
@@ -70,6 +71,7 @@ graph LR
   n26["Evidence — Swimbaits"]
   n27["Evidence — Tube-Bait Fishing"]
   n28["Evidence — Two-Speed Reel Technique"]
+  n29["Evidence — Underhand Casting"]
   n24 --> n25
 ```
 <!-- mermaid:end -->

@@ -379,6 +379,7 @@ does the lookup.
 - [Tube Baits (HookUp Baits)](../lures/tube-baits.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 - [Two-Speed Reel Technique — Low-Gear Grind vs. Pump-and-Reel](../techniques/two-speed-low-gear-fight.md)
+- [Underhand Casting](../techniques/underhand-casting.md)
 - [Wacky Rig — Reading the Bite in a Slack Line](../techniques/wacky-rig.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
