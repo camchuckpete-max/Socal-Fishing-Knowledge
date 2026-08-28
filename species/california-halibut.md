@@ -362,6 +362,7 @@ Trip reports and per-source provenance:
 - [Catalina Island — Backside](../locations/catalina-island-backside.md)
 - [Catalina Island — Front Side](../locations/catalina-island-front-side.md)
 - [Cedros / San Benitos](../locations/cedros-island.md)
+- [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dehooking & Release Handling](../fish-care/dehooking-and-release.md)
 - [Drop Shot](../techniques/drop-shot.md)
 - [Dropper Loop](../techniques/dropper-loop.md)
