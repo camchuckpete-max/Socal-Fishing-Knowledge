@@ -275,5 +275,6 @@ Trip reports and per-source provenance: [evidence file](evidence/sheephead.md).
 - [Sliding Sinker](../techniques/sliding-sinker.md)
 - [Southern California Bight](../locations/socal-bight.md)
 - [Tanner Bank](../locations/tanner-bank.md)
+- [Tube Baits (HookUp Baits)](../lures/tube-baits.md)
 - [Tube-Bait Fishing](../techniques/tube-bait-fishing.md)
 <!-- backlinks:end -->

@@ -11,6 +11,7 @@
 - [Evidence — Mad Mac](mad-mac.md) — Trip reports and per-source provenance for Mad Mac.
 - [Evidence — Rapala Husky Magnum](rapala-husky-magnum.md) — Trip reports and per-source provenance backing Rapala Husky Magnum.
 - [Evidence — Spreader Bar](spreader-bar.md) — Trip reports and per-source provenance for Spreader Bar.
+- [Evidence — Tube Baits (HookUp Baits)](tube-baits.md) — Trip reports and per-source provenance backing Tube Baits (HookUp Baits).
 <!-- index:end -->
 
 

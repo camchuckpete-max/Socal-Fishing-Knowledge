@@ -382,4 +382,9 @@ harvested.
 | Cortez Bank | lures/knife-jigs.md | Color | pre-trip tackle briefing color pick ("white with polka dots") for a Constitution charter | `UfuiWFVvz2E` |
 | Ensenada | lures/mad-mac.md | evidence — Specs | Baja Blue Fin Tuna Tournament grounds where a two-Mad-Mac search spread was run with staggered, count-based setbacks | `U1AgwmlY5bI` |
 | Ensenada | lures/spreader-bar.md | evidence — Specs | Baja Blue Fin Tuna Tournament grounds where a 3-bar spread ran two corner bars ~75 yd back and one center bar ~250 yd back | `U1AgwmlY5bI` |
+| Catalina Island | lures/tube-baits.md | Color selection | red-crab-colored tube baits consistently deadly on resident bass and sheephead holding tight to red-crab structure | `5Oh3IPIC5g4` |
+| San Clemente Island | lures/tube-baits.md | Color selection | red-crab-colored tube baits consistently deadly on resident bass and sheephead holding tight to red-crab structure | `5Oh3IPIC5g4` |
+| Coronado Islands | lures/tube-baits.md | Color selection | fish sitting tight to red-crab-holding structure bite red-crab-colored tube baits | `5Oh3IPIC5g4` |
+| Cedros Island | lures/tube-baits.md | Color selection | fish sitting tight to red-crab-holding structure bite red-crab-colored tube baits | `5Oh3IPIC5g4` |
+| Ensenada / Baja | lures/tube-baits.md | Color selection | fish sitting tight to red-crab-holding structure bite red-crab-colored tube baits | `5Oh3IPIC5g4` |
 <!-- review:harvest:end -->
