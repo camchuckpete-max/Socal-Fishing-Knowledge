@@ -6,6 +6,7 @@
 
 - [Evidence — Electronics and Sounder](electronics-and-sounder.md) — Trip reports and per-source provenance backing electronics and sounder.
 - [Evidence — Fleet Intelligence](fleet-intelligence.md) — Trip reports and per-source provenance for fleet intelligence.
+- [Evidence — Report Reading and Forecasting](report-reading-and-forecasting.md) — Trip reports and per-source provenance for report reading and forecasting.
 <!-- index:end -->
 
 

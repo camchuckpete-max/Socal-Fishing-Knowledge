@@ -1,8 +1,9 @@
 ---
 type: planning
 tags: [reports, forecasting, advection, persistence, moon, source-discipline, plunker]
-sources: [Blh2BA-7Ono, HzE4FHHcvTk, XLVUhV8DW64, 5p6gu14ZC4w, ILA6OMInWSM]
+sources: [Blh2BA-7Ono, HzE4FHHcvTk, XLVUhV8DW64, 5p6gu14ZC4w, ILA6OMInWSM, OpcKQPA3vAI]
 confidence: high
+layout: v2
 ---
 
 # Report Reading and Forecasting
@@ -32,10 +33,10 @@ travel line.
 ## Post-moon relocation ≠ disappearance
 
 For report aging, the moon rule is: **on and just after a moon, heavily
-discount report persistence** — schools relocate at night (open-water bluefin
-move 10–15 nm overnight), so a 3-day-old position is stale. The full post-moon
-discipline (coverage bias, relocation-not-bite-death, widening the prior) is
-the [moon layer](../conditions/moon.md)'s.
+discount report persistence** — schools relocate at night, open-water bluefin
+move 10–15 nm overnight (`Blh2BA-7Ono`), so a 3-day-old position is stale. The
+full post-moon discipline (coverage bias, relocation-not-bite-death, widening
+the prior) is the [moon layer](../conditions/moon.md)'s.
 
 ## Persistence-null — absence of reports is not absence of fish
 
@@ -51,29 +52,29 @@ of fish** (`XLVUhV8DW64`, `5p6gu14ZC4w`). This is the persistence-null trigger:
 ## Post-storm volatility — don't rely on your pre-fish
 
 **"Conditions rolled over — don't rely on your pre-fish"** after storms
-(SoCal Bight Fishing Academy Ep. 15). Post-weather-event pattern volatility sits
-right beside water-miles report aging: a storm can reset the water so that
-scouting done before it is worthless. After any significant weather event,
-re-scout — treat pre-storm intel as expired regardless of how few days old it
-is. See [sea state](../conditions/sea-state.md) and
+(`OpcKQPA3vAI`). Post-weather-event pattern volatility sits right beside
+water-miles report aging: a storm can reset the water so that scouting done
+before it is worthless. After any significant weather event, re-scout — treat
+pre-storm intel as expired regardless of how few days old it is. See
+[sea state](../conditions/sea-state.md) and
 [upwelling and turnover](../conditions/upwelling-and-turnover.md).
 
 ## Report vocabulary — "plunker style" fishing
 
 A captain's report or a boat's account may describe a day as **"plunker
-style" fishing** (SearcherSportfishing, `ILA6OMInWSM`, 2023-02-02; unregistered
-channel — medium confidence). Normalize the term before weighting the report:
+style" fishing** (`ILA6OMInWSM`). Normalize the term before weighting the
+report:
 
 - **What it describes:** a slower-paced, spread-out bite that runs
   consistently through the whole day rather than a hot flurry — typically
-  **two or three fish hooked up at the same time**, sustained for hours. The
-  boat may barely move; the source's stated example is sun-up to 3–4 p.m.
-  with no relocation.
+  **two or three fish hooked up at the same time**, sustained for hours, with
+  the boat barely moving (`ILA6OMInWSM`; stated example in the
+  [evidence file](evidence/report-reading-and-forecasting.md)).
 - **Technique signature:** mostly live bait, sardine or mackerel,
   [flylined](../techniques/flyline.md) away from the boat with little jig
   activity — long drifts, long soaks, bait cast anywhere from **50 yards to
   a couple hundred yards** off the boat; "you might not even see a lot of
-  fishing."
+  fishing" (`ILA6OMInWSM`).
 - **Visible sign:** occasional, scattered boils here and there rather than a
   visible school or a foaming corner.
 - **Score implication — don't discount the report:** a day that *feels* slow
@@ -96,6 +97,10 @@ Normalize what a report actually says before you weight it:
 Fold the output of this note back into the
 [day plan protocol](day-plan-protocol.md).
 
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/report-reading-and-forecasting.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -118,6 +123,7 @@ Fold the output of this note back into the
 - [Day-Plan Protocol](day-plan-protocol.md)
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [ENTRY — SoCal Boat-Day Skill](../skills/socal-boat-day/ENTRY.md)
+- [Evidence — Report Reading and Forecasting](evidence/report-reading-and-forecasting.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
