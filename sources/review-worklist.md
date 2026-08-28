@@ -118,7 +118,7 @@ by their builders after the transform phase drains.
 | rigging/perfection-loop-knot.md | standard | transformed | gaps(1) | transform verified, one hedge-hardened-to-fact drift fixed in tree |
 | rigging/pr-knot.md | standard | transformed | gaps(1) | transform applied with link-maintenance backlink regen; evidence split conserved all four-video duplicate analysis, no content loss or drift |
 | rigging/rp-knot.md | standard | transformed | none | transform verified, apply-with-changes: ran link-maintenance.py to regenerate rigging/README.md + rigging/evidence/README.md index entries the worker's patch omitted |
-| rigging/rubber-band-deep-rig.md | standard | pending |  |  |
+| rigging/rubber-band-deep-rig.md | standard | transformed | spots(3), asr-uncertain(leader 60-80lb Vol.55, hook knot Vol.104, placement-side Vol.84, build-ID Vol.71, hook model Vol.233) | transform verified: evidence split, v2 front matter, and Bralla-naming adjudication faithful; verifier restored 5 secondary numeric parameters (leader/top-shot lengths, sinker weights, one depth example) dropped during compression |
 | rigging/san-diego-jam-knot.md | standard | pending |  |  |
 | rigging/san-diego-jam-single-vs-double.md | standard | pending |  |  |
 | rigging/seaguar-knot.md | standard | pending |  |  |

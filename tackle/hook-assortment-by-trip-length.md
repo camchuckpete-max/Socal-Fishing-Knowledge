@@ -86,6 +86,5 @@ set, not a claim that a given brand is required.
 
 - [Charter Bait-Tank Hook & Leader Kit — Whatever's in the Tank (Tackle Express)](tackle-express-charter-bait-tank-hook-kit.md)
 - [Hooks — Style, Size, and Matching to Bait](hooks.md)
-- [Rubber-Band Deep Rig](../rigging/rubber-band-deep-rig.md)
 - [Trip-Length Selection — One-Day vs. Multi-Day Offshore Trips](../planning/trip-length-selection.md)
 <!-- backlinks:end -->

@@ -445,5 +445,6 @@ matching flagged stubs.
 <!-- backlinks:start -->
 ## Linked from
 
+- [Evidence — Rubber-Band Deep Rig](../../rigging/evidence/rubber-band-deep-rig.md)
 - [Yellowfin Tuna](../yellowfin-tuna.md)
 <!-- backlinks:end -->

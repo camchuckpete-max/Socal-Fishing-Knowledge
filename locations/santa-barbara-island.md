@@ -264,6 +264,7 @@ Trip reports and per-source provenance:
 - [Arch Reef (caution — boilers in big swell)](arch-reef.md)
 - [Cave Canyon WSB zone (stay N of MPA at 33 28.500)](cave-canyon-wsb-zone.md)
 - [Caverns Area](caverns-area.md)
+- [Evidence — Rubber-Band Deep Rig](../rigging/evidence/rubber-band-deep-rig.md)
 - [Evidence — Santa Barbara Island](evidence/santa-barbara-island.md)
 - [Hidden Reef / 170](hidden-reef-170.md)
 - [Kidney Bank (63) / 175](kidney-bank-63-175.md)

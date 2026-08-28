@@ -277,6 +277,7 @@ Trip reports and per-source provenance:
 - [Baja Pacific — North](baja-pacific-north.md)
 - [Double Trouble Rig](../rigging/double-trouble-rig.md)
 - [Evidence — Guadalupe](evidence/guadalupe.md)
+- [Evidence — Rubber-Band Deep Rig](../rigging/evidence/rubber-band-deep-rig.md)
 - [Regulatory Claims Register](../sources/regulatory-claims.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 <!-- backlinks:end -->

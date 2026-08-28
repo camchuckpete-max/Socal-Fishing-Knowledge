@@ -98,6 +98,6 @@ How-to videos:
 ## Linked from
 
 - [Essential SoCal Knots](essential-knots.md)
+- [Evidence — Rubber-Band Deep Rig](evidence/rubber-band-deep-rig.md)
 - [John Collins Knot — Braid to Mono/Fluoro Splice](john-collins-knot.md)
-- [Rubber-Band Deep Rig](rubber-band-deep-rig.md)
 <!-- backlinks:end -->

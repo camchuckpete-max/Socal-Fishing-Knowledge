@@ -41,5 +41,6 @@ A charted spot at **33°21.600'N 119°02.500'W** (cameron), in the [Santa Barbar
 ## Linked from
 
 - [172 / 125](172-125.md)
+- [Evidence — Rubber-Band Deep Rig](../rigging/evidence/rubber-band-deep-rig.md)
 - [Santa Barbara Island](santa-barbara-island.md)
 <!-- backlinks:end -->

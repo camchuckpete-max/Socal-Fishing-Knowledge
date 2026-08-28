@@ -399,4 +399,7 @@ harvested.
 | Catalina Island | rigging/leadhead-mods.md | Parameters — Squid rigging for white seabass | earlier leg of the same trip series; actively-cast leadhead-and-squid rig parameters (50 lb braid / 30 lb fluoro leader, 3/8 oz head) and bite-detection cues | `xFS3MW4GpDU` |
 | Channel Islands (Ventura / Oxnard) | rigging/leadhead-mods.md | Parameters — Banana head | light-gauge-hook leadhead for Channel Islands trips out of Ventura or Oxnard, calico bass/sand bass/white seabass/halibut | `PnAnAS6QoG8`, `nRIAgz5G_Bc` |
 | Channel Islands | rigging/leadhead-mods.md | Parameters — Dockside leadhead selection | leadhead weight/rigging by current for seabass, halibut, and yellowtail on squid nests | `F-vOTerdulU` |
+| Guadalupe Island | rigging/rubber-band-deep-rig.md | evidence — Depth, mid-fight behavior, and a daytime alternative | a rubber-band "sinker bait" flyline build fished on Guadalupe Island tuna trips, targeting roughly 120 ft down | `_jDXMtCrUZg` |
+| Osborn Bank | rigging/rubber-band-deep-rig.md | evidence — Tag-end sinker attachment | tag-end sinker attachment segment cut into a morning bite where sardine fished 60–70 ft "on the sink" produced bluefin | `i3qIAHW-SJc` |
+| Santa Barbara Island | rigging/rubber-band-deep-rig.md | evidence — Tag-end sinker attachment | locates Osborn Bank as near Santa Barbara Island for the same bluefin bite | `i3qIAHW-SJc` |
 <!-- review:harvest:end -->
