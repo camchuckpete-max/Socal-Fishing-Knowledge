@@ -180,7 +180,7 @@ by their builders after the transform phase drains.
 | fish-care/ikejime.md | light | done | none | layout v2 migration, plain-statement rewrite; verifier ran link-maintenance.py to regenerate README index |
 | fish-care/sculpin-handling.md | light | done | none | layout v2 migration, plain-statement rewrite, Regulations section split out; check-note.py clean, no conservation loss |
 | fish-care/tuna-care.md | light | done | misplaced(1) | layout v2 migration, evidence split, misplaced-content flagged + queued; verifier trimmed 4 out-of-scope net-new facts to stay within LIGHT-tier license |
-| fish-care/wahoo-handling.md | light | pending |  |  |
+| fish-care/wahoo-handling.md | light | done | none | layout v2 migration, plain-statement rewrite; verifier fixed one meaning-drift (misattributed questioner's 5-10 count figure hardened into session doctrine) |
 | tackle/all-purpose-rod-line-rating.md | light | pending |  |  |
 | tackle/bluefin-50-80lb-bait-outfit-ladder.md | light | pending |  |  |
 | tackle/bluefin-retail-setup-high-end-vs-budget.md | light | pending |  |  |
