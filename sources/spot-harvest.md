@@ -391,4 +391,7 @@ harvested.
 | Guadalupe Island | rigging/cut-loop-dropper.md | When to use | cut-loop surgeon's-loop dropper named for yellowtail trips there, which favor a bigger loop than an ordinary SoCal application | `rFmWrp-Vndo` |
 | Cortez Bank | rigging/double-trouble-rig.md | When to use / evidence | double trouble under the kite landed a yellowtail rather than the bluefin it's usually aimed at | `nQvJnfb5jQ4` |
 | Guadalupe Island | rigging/double-trouble-rig.md | Named variant — "double treble" | "double treble" build named on camera as a favorite way to catch yellowfin there | `fgTmUq78ofQ` |
+| Santa Barbara Island | rigging/flying-fish-harness.md | evidence — Alternative wing-lock methods | popsicle-stick wing lock and tandem hook rig shown deployed NE of the island | `usHl-4SfqDA` |
+| Ensenada | rigging/flying-fish-harness.md | evidence — Alternative wing-lock methods / Artificial and pre-rigged alternatives | rubber-band wing-lock variant and a commercial pre-rigged flyer shown at the Baja Blue Fin Tuna Tournament | `Ix0gG0-l3v0` |
+| Tanner Bank | rigging/flying-fish-harness.md | evidence — Artificial and pre-rigged alternatives | "California Flyer" slide-up lure carried aboard Captain Andrew's own boat | `vCskOx6N-XM` |
 <!-- review:harvest:end -->

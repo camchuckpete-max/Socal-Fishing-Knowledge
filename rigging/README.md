@@ -13,7 +13,7 @@
 - [Dropper-Loop Knot & Spider Hitch — Tying the Loop](dropper-loop-knot-and-spider-hitch.md) **[SoCal only]** — Two named loop-forming knots used to build the hook loop (or, reversed, a sliding sinker attachment) of a classic dropper loop rig — that note owns the rig, sin
 - [Essential SoCal Knots](essential-knots.md) **[SoCal only]** — The short list of knots that cover a SoCal sport-boat or private-boat day: terminal knots that tie line to a hook or lure (Palomar, San Diego jam, loop knot), a
 - [FG Knot & Albright Knot](fg-and-albright.md) **[SoCal only]** — Two braid-to-leader connection knots that solve different problems.
-- [Flying Fish Harness](flying-fish-harness.md) — The pre-rigged flying fish (dead natural, netted or sabiki-caught, or an artificial) used off the kite for large local Pacific bluefin.
+- [Flying Fish Harness](flying-fish-harness.md) — The pre-rigged flying fish (dead natural, netted or sabiki-caught, or an artificial) fished off the kite for large local Pacific bluefin.
 - [Haywire Twist](haywire-twist.md) — The connection used to terminate single-strand wire leader — to a lure or a hook — for toothy fish that cut through even heavy mono.
 - [Hollow-Core Splice & Serving](hollow-splice-and-serving.md) **[SoCal only]** — Two knotless connections made possible by hollow-core braid, both relying on the same finger-trap principle: braid woven around a buried line clamps tighter as
 - [Improved Clinch Knot — Single-Pass Hook Tie](improved-clinch-knot.md) **[SoCal only]** — A single-pass terminal knot for tying line straight to a hook or lure eye — the line goes through the eye once, not doubled, unlike the San Diego jam.

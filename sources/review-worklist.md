@@ -109,7 +109,7 @@ by their builders after the transform phase drains.
 | rigging/dropper-loop-knot-and-spider-hitch.md | standard | transformed | none | transform verified clean: presenter-framing removed, cites added, all parameters and the halibut-rig ambiguity note conserved |
 | rigging/essential-knots.md | standard | transformed | asr-uncertain(worm knot ~10-wrap count, uneven on-camera tally, mpcSgkQvIzg) | transform verified, one conservation gap fixed (restored dropped Palomar line-loss detail to evidence) |
 | rigging/fg-and-albright.md | standard | transformed | none | transform verified, conservation intact (all params + variant provenance traced to note or new evidence file), one v2.1 self-narration phrase fixed in place |
-| rigging/flying-fish-harness.md | standard | pending |  |  |
+| rigging/flying-fish-harness.md | standard | transformed | spots(3), asr-uncertain(commercial pre-rig leader-material brand withheld; dead-flyer leader hook model name withheld; presenter surname uncertain) | transform applied clean - v2 layout, evidence split, hook-count conflict given decision frame, spot-harvest updated |
 | rigging/haywire-twist.md | standard | pending |  |  |
 | rigging/hollow-splice-and-serving.md | standard | pending |  |  |
 | rigging/improved-clinch-knot.md | standard | pending |  |  |
