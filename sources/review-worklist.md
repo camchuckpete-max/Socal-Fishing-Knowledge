@@ -191,7 +191,7 @@ by their builders after the transform phase drains.
 | tackle/hook-assortment-by-trip-length.md | light | done | spots(2), asr-uncertain(Alijos Rocks/Mustad 94150) | LIGHT-tier v2 migration: meta-attribution/channel-status boilerplate removed, compact cites, layout: v2 added; verifier added evidence file for dropped presenter/confidence detail, spots logged |
 | tackle/hooks.md | light | done | spots(9) | LIGHT transform 1051→614 lines, layout v2, evidence file split; verifier found and fixed conservation gap (18 source ids' attribution reconstructed into evidence file), 1 typo fixed |
 | tackle/jig-rod-rating-selection.md | light | done | none | restructured to LIGHT-tier skeleton, provenance split to evidence file, plain-statement rewrite, 2 dead anchors fixed; verifier removed 1 banned self-narration phrase, all facts conserved |
-| tackle/jigging-rod-guide-wrap.md | light | pending |  |  |
+| tackle/jigging-rod-guide-wrap.md | light | done | none | migrated to layout v2, stripped attribution-preamble/confidence chatter to compact cites, kept contested-doctrine names per exception; verified faithful, no information loss |
 | tackle/lightweight-reel-pick-turners-outdoorsman.md | light | pending |  |  |
 | tackle/line-and-leader.md | light | pending |  |  |
 | tackle/offset-hooks.md | light | pending |  |  |
