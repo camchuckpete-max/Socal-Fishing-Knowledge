@@ -415,6 +415,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
 - [Evidence — Electronics and Sounder](../planning/evidence/electronics-and-sounder.md)
 - [Evidence — Ensenada](../locations/evidence/ensenada.md)
+- [Evidence — Gaffing — Sizing and the Shot](../fish-care/evidence/gaffing.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
 - [Evidence — Sliding Sinker](../techniques/evidence/sliding-sinker.md)

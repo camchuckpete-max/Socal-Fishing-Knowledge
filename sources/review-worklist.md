@@ -176,7 +176,7 @@ by their builders after the transform phase drains.
 | planning/trip-length-selection.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier restored 2 dropped quote phrases |
 | fish-care/dehooking-and-release.md | light | done | none | layout v2 migration, evidence split, plain-statement rewrite; verifier ran link-maintenance.py to regenerate backlinks, no content lost |
 | fish-care/dorado-and-general.md | light | done | fc(1) | layout v2 migration, evidence split; corrected misattributed cite E4vKwRaRueA->5to3Q5P7w90 (verified), added missing fact-check-ledger row |
-| fish-care/gaffing.md | light | pending |  |  |
+| fish-care/gaffing.md | light | done | spots(2) | layout v2 migration, evidence split, plain-statement rewrite, 3 Observed blocks moved to evidence, 2 spot-harvest rows added |
 | fish-care/ikejime.md | light | pending |  |  |
 | fish-care/sculpin-handling.md | light | pending |  |  |
 | fish-care/tuna-care.md | light | pending |  |  |

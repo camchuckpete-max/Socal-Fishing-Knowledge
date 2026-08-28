@@ -3,102 +3,88 @@ type: fish-care
 tags: [gaffing, boating-the-fish, tackle, safety, bluefin, yellowtail, dorado, halibut, white-seabass]
 sources: [I84uoay_jwQ, 8jC61LzQoxU, RPSRH0jwyw4, vCskOx6N-XM, elBPRrdkugU, OIiDJu4mx44]
 confidence: low
+layout: v2
 ---
 
 # Gaffing — Sizing and the Shot
 
-The mechanics of putting a gaff into a fish and getting it aboard, across the
-species that get gaffed rather than netted in SoCal/Baja: [yellowtail](../species/yellowtail.md),
-[dorado](../species/dorado.md), [California halibut](../species/california-halibut.md),
-[white seabass](../species/white-seabass.md), and [bluefin tuna](../species/bluefin-tuna.md).
-Source: Your Saltwater Guide (Capt. Dave Hansen; a registered voice, but this
-is a **sponsored Promar gaff spot — the source registry caps Hansen's
-Promar/PTO/Okuma sponsor spots at `low` regardless of content, with no
-mechanism-vs-product carve-out (that split is a `cesar`-specific caveat, not
-Hansen's), so this whole note sits at `low`**; the specific gaff model and
-construction claims are promotional and omitted entirely), 2022-03-14
-(`I84uoay_jwQ`).
+Gaffing puts [yellowtail](../species/yellowtail.md), [dorado](../species/dorado.md),
+[California halibut](../species/california-halibut.md),
+[white seabass](../species/white-seabass.md), and [bluefin tuna](../species/bluefin-tuna.md)
+over the rail once they're too big or the wrong shape to net. The shot is the
+highest-skill moment in landing a fish: sizing the gaff to the grade, keeping
+the fish horizontal for a stable target, and driving the hook so the stroke
+pulls the fish toward the boat rather than pushing it away (`I84uoay_jwQ`).
 
 ## Calling for the gaff — early notice
 
-- **Call for the gaff the moment the fish first becomes visible deep down —
-  "in the colors"** — by saying "color" or "gaff." That gives the crew a
-  head start to grab a gaff and be standing at the rail, ready, by the time
-  the fish reaches the surface, instead of scrambling once it's already up.
-  (Capt. Art Taylor & Capt. Mike, Searcher Sportfishing, *Tackle Tip
-  Thursday* Vol. 200, 2022-10-13, `OIiDJu4mx44`; registered channel/series
-  — instructional mechanism, single mention — medium confidence.)
+- **Call for the gaff — "color" or "gaff" — the moment the fish first becomes
+  visible deep down, "in the colors."** That gives the crew time to grab a
+  gaff and be standing at the rail, ready, before the fish reaches the
+  surface, instead of scrambling once it's already up (`OIiDJu4mx44`).
 
 ## Gaff sizing by species/weight
 
 - **3-in hook, ~6-ft gaff:** yellowtail, dorado, halibut, white seabass, and
   similar fish up to **40–50 lb**. The smaller hook is easier to place and
-  drive on fish in this range.
+  drive on fish in this range (`I84uoay_jwQ`).
 - **6-in hook, ~8-ft gaff:** SoCal bluefin at the **200–300 lb** grade — the
-  bigger, longer gaff gives reach and hook bite for a much heavier fish.
+  longer gaff gives reach and hook bite for a much heavier fish (`I84uoay_jwQ`).
 
 ## Positioning the fish — horizontal profile, not head-up
 
 - **Keep the fish lying horizontal, just under the surface,** rather than
-  letting its head come up out of the water. A horizontal fish gives the
-  gaffer a good, stable target.
+  letting its head come up out of the water — a horizontal fish gives the
+  gaffer a stable target.
 - **Do not raise the fish's head out of the water before the shot** — it's
-  unnatural for the fish and tends to make it dive, which works against
-  getting a clean shot lined up. (Capt. Art Taylor & Capt. Mike, Searcher
-  Sportfishing, *Tackle Tip Thursday* Vol. 200, 2022-10-13, `OIiDJu4mx44`;
-  registered channel/series — instructional mechanism, single mention —
-  medium confidence.) This is a general positioning point that precedes and
-  complements the species-specific shot placement below (pec on bluefin,
-  etc.) — kept as its own step rather than merged into it.
+  unnatural for the fish and tends to make it dive, working against a clean
+  shot (`OIiDJu4mx44`).
 
 ## The shot on big bluefin — pec placement, flip upside down
 
 - **Aim for the pec** and **turn the fish upside down** the instant it's
   gaffed. A bluefin has never been upside down in its life — flipping it
-  stuns it and stops it dead in the water, "I don't care if he weighs 300 lb
-  or if he weighs 20 lb."
+  stuns it and stops it dead in the water regardless of size ("I don't care
+  if he weighs 300 lb or if he weighs 20 lb," `I84uoay_jwQ`).
 - **Do not gaff in the back, tail, or side of the head** — those placements
-  let the fish keep driving and can rip the gaff straight out of your hands.
-- This is a **more specific, complementary claim** to the existing
-  [tuna care](tuna-care.md) doctrine (aim at the head/shoulder region, not
-  mid-body or tail, w6DDCSLu8vM) rather than a restatement of it — kept side
-  by side per a second attributed source rather than merged.
-- **Independent confirmation (Your Saltwater Guide / Capt. Dave Hansen,
-  2018-08-07, 8jC61LzQoxU):** the same pec-shot / flip-upside-down doctrine,
-  including "don't gaff the back or side, he'll rip it out of your hand,"
-  repeats in a separate, non-sponsored fight-and-gaff tutorial — not a
-  re-cut of the Promar spot. This is a second, non-sponsored occasion of the
-  same voice giving the same doctrine, recorded here as corroboration; per
-  this note's stated no-carve-out stance on Hansen's sponsored content
-  (above), it does not upgrade any claim past the note's overall `low`
-  confidence — the registry's `medium` floor for a registered voice's
-  single non-sponsored mention still applies, and `low` is the more
-  conservative call the note already makes.
+  let the fish keep driving and can rip the gaff straight out of your hands
+  (`I84uoay_jwQ`).
+- Pec placement is a more specific instance of the head/shoulder region
+  [tuna care](tuna-care.md) recommends generally (`w6DDCSLu8vM`), not a
+  conflicting claim. The same pec-shot / flip-upside-down doctrine, including
+  "don't gaff the back or side, he'll rip it out of your hand," repeats in a
+  separate, non-sponsored fight-and-gaff tutorial from the same voice
+  (`8jC61LzQoxU`) — a second occasion corroborating the doctrine independent
+  of the sponsored spot this note otherwise draws from.
 
 ## No-dig-hole — hook orientation on the shot
 
 - **Never gaff with the hook pointed away from the boat**, stuck down into
   the water and pulled outward — that's "digging a hole": the gaff doesn't
   bite cleanly, the fish gets knocked around instead of gaffed, and by the
-  time it connects you're pushing the fish **away** from the boat.
-- **Correct orientation:** turn the gaff so the point of the hook faces back
-  toward the boat, drag it **across the top of the water toward you** (or, for
-  the pec shot, come up from underneath the fish as it turns), so the stroke
-  **pulls the fish toward the boat** instead of pushing it away.
+  time it connects you're pushing the fish **away** from the boat
+  (`I84uoay_jwQ`).
+- **Turn the gaff so the hook points back toward the boat**, and drag it
+  across the top of the water toward you (or, for the pec shot, come up from
+  underneath the fish as it turns), so the stroke **pulls the fish toward the
+  boat** instead of pushing it away (`I84uoay_jwQ`). A solid gaff connection
+  can be what keeps a fish attached even after the hook lets go: on one Tanner
+  Bank bluefin the gaff struck the fishing line during the shot, but the fish
+  stayed secured once the hook pulled free of its mouth on its own
+  (`vCskOx6N-XM`).
 
 ## Landing — hand over hand, not lifted like a rod
 
 - Once the fish is on the gaff, go **hand over hand straight up** onto the
   deck. Do **not** try to pull the fish out of the water the way you'd fight
-  it on a rod — lifting it like that lets it fall off the gaff.
+  it on a rod — lifting it like that lets it fall off the gaff (`OIiDJu4mx44`).
 - **The rod angler puts their reel in free spool the instant the fish is
   gaffed, keeping a thumb lightly on the spool** so the reel doesn't
-  backlash once the line goes slack. A safety/gear-care step for the angler
-  to take in parallel with the gaffer's landing work, not something the
-  gaffer does. (Capt. Art Taylor & Capt. Mike, Searcher Sportfishing,
-  *Tackle Tip Thursday* Vol. 200, 2022-10-13, `OIiDJu4mx44`; registered
-  channel/series — instructional mechanism, single mention — medium
-  confidence.)
+  backlash once the line goes slack — a parallel step for the angler, not
+  something the gaffer does (`OIiDJu4mx44`).
+- A tail rope can back up a difficult shot: on one Cedros Island yellowtail
+  the first two gaff attempts missed before the crew connected on the third,
+  finishing the fish with a tail rope alongside the gaff (`RPSRH0jwyw4`).
 
 ## Safety around the gaff
 
@@ -106,42 +92,14 @@ construction claims are promotional and omitted entirely), 2022-03-14
   hook up near head height while people are moving around excited about a
   fish — a stumble or a jump can drive the hook into someone's head. Rest it
   on the gunnel/rail instead, hook up and out of the way (or in a rod holder,
-  if the gaff butt fits one).
+  if the gaff butt fits one) (`I84uoay_jwQ`).
 - **Keep your hands off the gaff until the last second.** Grab it only for
   the shot; otherwise stay hands-free to manage the line and leader as the
-  hooked fish runs around the boat.
-
-## Observed — missed shots and a backup tail rope
-
-- **Observed** (StokedOnFishing, 2017-04-07 upload, Cedros Island, Baja —
-  `RPSRH0jwyw4`, "Cedros Island Goes Off!!!, Part 2"; unregistered channel —
-  medium confidence): landing a big [yellowtail](../species/yellowtail.md)
-  (see the Cedros Island entry there) took three gaff attempts — the first
-  two shots missed, with the crew remarking on camera that the gaff needed
-  sharpening — before connecting on the third; a **tail rope** was used
-  alongside the gaff to finish securing the fish. No further tail-rope
-  technique detail given. Kept beside, not merged into, this note's
-  Hansen-sourced doctrine above.
-- **Observed** (StokedOnFishing, `vCskOx6N-XM`, 2022-03-23 upload, Tanner
-  Bank, SoCal, aboard Captain Andrew's own boat, Stoked On Fishing Charters;
-  unregistered channel — medium confidence): on the trip's last big bluefin,
-  the gaff shot contacted the fishing line during the stick ("I hit the line
-  with the gaff, it came off"), but the crew got the fish secured before it
-  could get away (audio unclear on the exact save — asr-uncertain). Once
-  boated, the crew checked whether the line had parted — it hadn't; the
-  **hook had simply pulled free of the fish's mouth**, meaning the gaff
-  connection, not the hook, was what had actually kept the fish attached by
-  that point. Logged as a case for why a solid gaff shot matters independent
-  of hook hold — kept beside, not merged into, the missed-shots entry above.
-- **Observed — crew readiness on big bluefin** (StokedOnFishing, `elBPRrdkugU`,
-  2022-12-22 upload, offshore San Clemente/Catalina, SoCal; unregistered
-  channel — medium confidence): on **100–115 lb class** fish, the crew
-  stressed having **all hands on deck for the gaff shot**, not just the
-  gaffer — framed on camera as a harder job than fighting the fish, since a
-  gaffed fish of that size can still take off and needs multiple people ready
-  to handle it. A double-gaff (two gaffers on one fish) was shown on one of
-  this trip's fish. Kept beside, not merged into, the single-gaffer mechanics
-  above.
+  hooked fish runs around the boat (`I84uoay_jwQ`).
+- On **100–115 lb class** bluefin, get all hands on deck for the gaff shot,
+  not just the gaffer — a fish that size can still take off once gaffed and
+  needs multiple people ready to handle it; a double-gaff (two gaffers on one
+  fish) works the same grade (`elBPRrdkugU`).
 
 ## Related
 
@@ -153,6 +111,11 @@ construction claims are promotional and omitted entirely), 2022-03-14
   boat-handling that brings a big bluefin to the gaff in the first place
   (gear-tap, down-swell walk, avoiding the death circle).
 
+## Evidence
+
+Trip reports and per-source provenance:
+[evidence file](evidence/gaffing.md).
+
 <!-- backlinks:start -->
 ## Linked from
 
@@ -160,6 +123,7 @@ construction claims are promotional and omitted entirely), 2022-03-14
 - [California Halibut](../species/california-halibut.md)
 - [Dorado & General Fish Care](dorado-and-general.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
+- [Evidence — Gaffing — Sizing and the Shot](evidence/gaffing.md)
 - [Evidence — Yellowtail](../species/evidence/yellowtail.md)
 - [Fighting a Big Bluefin — Boat-Handling to the Gaff](../techniques/fighting-big-bluefin.md)
 - [Opah (Moonfish)](../species/opah.md)

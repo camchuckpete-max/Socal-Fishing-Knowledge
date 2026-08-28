@@ -559,4 +559,6 @@ harvested.
 | The dump (Doheny) | planning/fleet-intelligence.md | Radio misinformation | named as the fabricated hot-bite location repeated on ch 72 then ch 65 to shake a shadowing boat | `8XrMkWPRxgs` |
 | 14 Mile Bank / 209 / 267 complex | planning/fleet-intelligence.md | Fleet position as a data layer | a radar search run here spotted a boat parked on a kelp paddy before that boat noticed the approach | `-bw1KDfDjv4` |
 | Coronado Islands | planning/fleet-intelligence.md | Fleet position as a data layer | AIS stop/start pattern tracking (e.g. the Grande, MMSI 366746210) as a data source for learning the islands | cameron |
+| Tanner Bank | fish-care/gaffing.md | No-dig-hole | gaff shot struck the fishing line during the stick on a bluefin, but the fish stayed secured once the hook pulled free on its own — the gaff connection, not the hook, held the fish | `vCskOx6N-XM` |
+| Cedros Island | fish-care/gaffing.md | Landing | a big yellowtail took three gaff attempts, the first two missed, before connecting on the third; a tail rope backed up the gaff to finish securing the fish | `RPSRH0jwyw4` |
 <!-- review:harvest:end -->
