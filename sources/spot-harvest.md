@@ -583,4 +583,7 @@ harvested.
 | Palos Verdes | tackle/line-and-leader.md | Trophy calico bass tackle | outside kelp edge raises the odds of losing a big fish on 30 lb line vs. fishing inside the kelp | `ZoIzpyyS9xw` |
 | Alijos Rocks / "The Ridge" | tackle/line-and-leader.md | Connections | 7-day trip terminal tackle: match the leader to the running line or step one size above (40 lb mono / 50 lb fluoro worked example) | `uWGGeDOprsE` |
 | Santa Barbara Island | tackle/evidence/line-and-leader.md | When mono top shot | tournament calico angler fished straight 25 lb Maxima Ultragreen mono, no leader | `PKf7G3uL4io` |
+| Gonzaga Bay (Sea of Cortez, Baja) | tackle/rod-and-reel-selection.md | A second, parallel gear rundown — Gonzaga Bay, Sea of Cortez (Baja) inshore trip | 7–8 ft heavy/extra-heavy rods, 6:1 reels, 65–80 lb spectra inshore casting gear for cabrilla/grouper at rocky points/edges | `A6s-A1NARuA` |
+| San Clemente Island | tackle/rod-and-reel-selection.md | Calico bass grub/weedless casting gear, tournament angler | Okuma Citrix XH rod + 350-size reel casting a soft-plastic grub at kelp/structure edges, 2016 SWBA tournament | `tJFSV3AcIdE` |
+| Bahía de los Ángeles (Bay of LA) | tackle/rod-and-reel-selection.md | Baja, Sea of Cortez gear quiver | vertical speed-jig rod (5.5–6 ft, 150–350 g) cited as a technique gaining popularity with skippers in the Bay of LA | `M8hOYQ_6rSg` |
 <!-- review:harvest:end -->

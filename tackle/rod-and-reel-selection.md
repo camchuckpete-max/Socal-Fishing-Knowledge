@@ -1,8 +1,9 @@
 ---
 type: tackle
 tags: [rods, reels, setups, offshore, inshore, baitcast, sportboat, baja, sea-of-cortez, grouper, cabrilla]
-sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg, 49joKHD7Umc, FXWOIB0TPfE]
+sources: [cameron, xPFm_ZV2PZU, ONH1K2MOp7Q, 8tTVMOV2arE, gOAOyMNG3Ug, qSgIwLX2FWw, gevNj2Y1Ep8, -MP2RqJC7B0, 42A8Owhc8fw, F7jLrt2j2X8, 48ZFXnCTTQE, M8hOYQ_6rSg, gKrYKvqHUjk, A6s-A1NARuA, P6Slg6RQiXw, tJFSV3AcIdE, EmZO8QiOfik, UP_3fBu7VPA, lP6cg4eEU6s, 3g82igEL8yk, 3gNTB4aMhCA, CdjT_I_PBHQ, Rudzy0DD08w, TgOMUXxIQl4, Y_ElKixrhsc, _VtL0DrNdAU, cpUq7Z3UOwU, r9bF3VtzDUg, 49joKHD7Umc, FXWOIB0TPfE, 55IthpZZx9k, pOFsjDTqaxY]
 confidence: medium
+layout: v2
 ---
 
 # Rod & Reel Selection — by Application
@@ -47,12 +48,12 @@ the middle — see [jig-rod rating selection](jig-rod-rating-selection.md).
 | Inshore lures / bass | ~7–9 ft, M–H | low-profile baitcast (200/300/400) | 30–65 lb braid | baitcast class |
 | Bottom / rockfish | 6–7 ft, H | conventional or electric | 30–50 lb braid | [rockfish deep-drop](../techniques/rockfish-deep-dropping.md) |
 
-## The offshore quiver — a top-5 framework (`xPFm_ZV2PZU`)
+## The offshore quiver — a top-5 framework
 
 A practical San Diego offshore spread runs **lightest to heaviest**, five sticks
-covering every scenario. Build yours around these roles:
+covering every scenario (`xPFm_ZV2PZU`). Build yours around these roles:
 
-1. **Paddy setup** (goes every trip): ~8 ft rod rated ~20 lb, flexy; turn-400-size
+1. **Paddy setup** (goes every trip, `xPFm_ZV2PZU`): ~8 ft rod rated ~20 lb, flexy; turn-400-size
    reel; 50 lb braid backing + ~25 yds mono; 15 lb Gold Label fluoro leader (~5 ft)
    to a small 1/0 J hook. For paddy [yellowtail](../species/yellowtail.md) and
    [dorado](../species/dorado.md).
@@ -77,30 +78,28 @@ The lesson isn't the exact rods — it's the **ladder of line classes** and havi
 dedicated tool at each rung so you're not under- or over-gunned when the grade
 shows up.
 
-## A second data point — a 1.5–2 day trip bag (`gevNj2Y1Ep8`)
+## A second five-setup bag — kelp paddies and night knife-jigging
 
-A second attributed five-setup breakdown, from a deckhand aboard the
-*Highliner* out of Seaforth Landing on a 1.5-day trip working kelp paddies and
-open water for tuna, dorado, and yellowtail, with nighttime knife-jigging for
-bluefin (Ray Sharifi, Dirty Hookers, 2023-09-02; `ray-sharifi` registered 2026-08-17 but **Baja-scoped**, so this SoCal claim still caps at
-medium confidence). Different specifics than the framework above; kept side
-by side rather than merged in:
+A second five-setup breakdown for a trip working kelp paddies and open water
+for tuna, dorado, and yellowtail, with nighttime knife-jigging for bluefin
+(`gevNj2Y1Ep8`). Different specifics than the framework above, not merged
+into it:
 
 - **40 lb fly line** (the full-speed go-to): 8 ft, 20–50 lb Phoenix Black
   Diamond rod + Talica 20; 65 lb braid backing to a 100 yd top shot of 40 lb
   monofilament to a 6 ft leader of 40 lb fluorocarbon.
-- **25–30 lb fly line** (what he starts the day on, stepping up to the 40 lb
-  stick once the bite goes full speed): 8'6", 20–50 lb Phoenix Black Diamond
-  rod + Talica 16, same mono-top-shot-to-fluoro scheme scaled down. Rule of
-  thumb: fish 40 lb when it's full speed (worth it for mixed-in 20–30 lb
-  yellowfin); fish 25–30 lb when the bite is more finicky.
+- **25–30 lb fly line** (the starting stick, stepped up to the 40 lb outfit
+  once the bite goes full speed): 8'6", 20–50 lb Phoenix Black Diamond rod +
+  Talica 16, same mono-top-shot-to-fluoro scheme scaled down. Fish 40 lb when
+  it's full speed (worth it for mixed-in 20–30 lb yellowfin); fish 25–30 lb
+  when the bite is more finicky.
 - **50–60 lb sinker rig** (daytime bait fishing): Phoenix Axis 7'8" heavy,
   rated 40–100 lb + Daiwa Saltist 50 lever drag; 80 lb braid backing to a
   60 lb monofilament top shot to 60 lb fluorocarbon. 50 lb is the more
-  universal sinker-rig weight and better for smaller-grade fish; 60 lb is his
-  pick once a possible 100 lb bluefin is in play down deep — this application
+  universal sinker-rig weight and better for smaller-grade fish; 60 lb steps
+  up once a possible 100 lb bluefin is in play down deep — this application
   spans roughly **30–100 lb bluefin**.
-- **40–50 lb sniper / casting setup**: Phoenix Axis 909HJ rated 30–80 lb (his
+- **40–50 lb sniper / casting setup:** Phoenix Axis 909HJ rated 30–80 lb (a
   heavy yellowtail jig stick doing double duty) + Trinidad 20A; 65 lb braid
   backing to a 50 lb monofilament top shot. Casts poppers, surface iron, and
   sniper-style baits at tuna, yellowfin, and bluefin foamers.
@@ -109,32 +108,27 @@ by side rather than merged in:
   50 ft, with a 10 ft leader tied straight from braid to 130 lb fluorocarbon —
   no crimp, no swivel (see [knife jigging](../techniques/knife-jigging.md) for
   why). Jigs **250–400 g**.
-  - **Rod-stiffness feedback on this same rod (Ray Sharifi, -MP2RqJC7B0,
-    2023-05-23; `ray-sharifi` registered, SoCal-capped — medium confidence; earlier trip on the
-    same setup, ~3.5 months before the write-up above):** the Black Diamond
-    Hybrid runs **too stiff** for his liking on **40–50 lb-class bluefin** —
-    it wants to stay straight and is hard to keep a consistent bend in through
-    a whole fight; on **80 lb-and-up fish** the extra stiffness "worked to our
-    benefit." Read as a caution that a 60–130 lb-rated jig stick can be
-    over-gunned for schoolie/mid-grade bluefin even though it's the right tool
-    once the grade goes big.
+  - **Rod-stiffness caution on this same rod (`-MP2RqJC7B0`):** the Black
+    Diamond Hybrid runs too stiff on **40–50 lb-class bluefin** — it wants to
+    stay straight and is hard to keep a consistent bend in through a whole
+    fight; on **80 lb-and-up fish** the extra stiffness works to advantage. A
+    60–130 lb-rated jig stick can be over-gunned for schoolie/mid-grade
+    bluefin even though it's the right tool once the grade goes big.
 
-Full kit for anything overnight to 2+ days: all five outfits above. On a
-full-day trip the 100 lb jigging setup is optional — "doesn't hurt to bring"
-but isn't required.
+Full kit for anything overnight to 2+ days is all five outfits above; on a
+full-day trip the 100 lb jigging setup is optional (`gevNj2Y1Ep8`).
 
-## A pre-trip tackle-bag update — foamer/rubber-band, surface iron, bass (`42A8Owhc8fw`)
+## A pre-trip tackle-bag update — foamer/rubber-band, surface iron, bass
 
-A third attributed setup breakdown from the same presenter (Ray Sharifi, Dirty
-Hookers, 42A8Owhc8fw, 2023-08-02; `ray-sharifi` registered, SoCal-capped — medium confidence),
-about a month before the 1.5-day bag above, packed light for a full-day trip
-out of the Channel Islands sport-fishing fleet with foamer bluefin around and
-most boats not yet connecting on them. Kept side by side, not merged in:
+A third setup breakdown, packed light for a full-day trip out of the Channel
+Islands sport-fishing fleet with foamer bluefin around and most boats not yet
+connecting on them (`42A8Owhc8fw`). A separate data point from the bags
+above, not merged into either:
 
 - **60–80 lb bluefin setup, dual purpose (cast metal or build the rubber-band
-  rig):** Phoenix Axis 7'8" rated 40–100 lb; 350 yd of 80 lb braid to a 50 yd,
+  rig):** Phoenix Axis 7'8" rated 40–100 lb (`42A8Owhc8fw`); 350 yd of 80 lb braid to a 50 yd,
   80 lb monofilament top shot. Two jobs off the same stick: (1) cast smaller,
-  heavy metal at a foamer — his picks that day were a **Daiwa SK jig**,
+  heavy metal at a foamer — picks that day were a **Daiwa SK jig**,
   **Shimano Colt Sniper**, and the newer **RW Peanuts** (carrying both 80 g
   and 100 g) — small, heavy profile is the point, not the exact model,
   consistent with the small-lead-bait class in
@@ -142,17 +136,15 @@ most boats not yet connecting on them. Kept side by side, not merged in:
   fluorocarbon leader and turn the same outfit into the
   [rubber-band deep rig](../rigging/rubber-band-deep-rig.md) if the boat comes
   onto a metered school that isn't showing on the surface. For extra
-  confidence on the casting rig over a bare top-shot connection, he'll add a
+  confidence on the casting rig over a bare top-shot connection, add a
   short ~2 ft, 150–200 lb bite leader (see
-  [bluefin bite leaders](../rigging/bite-leaders.md)) — framed as a confidence
-  add, not a requirement.
+  [bluefin bite leaders](../rigging/bite-leaders.md)) — a confidence add, not
+  a requirement.
 - **Surface-iron setup:** the same **Phoenix Axis 1009 HJ, 10 ft, rated
   30–60 lb** documented across several builds in
   [surface iron](../techniques/surface-iron.md); this trip it's paired with a
   **Trinidad 16A** (see that note for the dated build history and an
-  alternate reel pairing). His go-to for yellowtail, barracuda, and bonito;
-  calico bass was biting well and yellowtail hit-or-miss the week of filming
-  (early August 2023).
+  alternate reel pairing). The go-to for yellowtail, barracuda, and bonito.
 - **One do-everything bass rod, chosen to cut rod count aboard a crowded
   boat:** a **Phoenix M1 "Inshore" 711, medium-heavy, rated 15–35 lb test**
   (captions render "insured" — read as **Inshore**, the specific product-line
@@ -167,30 +159,24 @@ most boats not yet connecting on them. Kept side by side, not merged in:
   each. Explicitly a courtesy-to-passengers choice on a bigger boat, trading a
   dedicated light and heavy bass rod for one universal stick.
 
-## Surface-iron rod and reel — Fisherman's Landing counter tip (Doug Kearn, SearcherSportfishing)
+## Surface-iron rod and reel — a basic-items rundown
 
-Doug Kearn, Fisherman's Landing tackle counter, via SearcherSportfishing
-("Tackle Tip Thursday Vol. 132 (Surface Iron)," `3g82igEL8yk`, 2020-12-31;
-unregistered channel, single mention — medium confidence). A basic-items
-rundown for surface iron, called historically a yellowtail method in SoCal but
-also fished heavily for bluefin. Kept side by side with the dated
-[surface iron](../techniques/surface-iron.md) builds above rather than merged
-in:
+A basic-items rundown for surface iron, historically a yellowtail method in
+SoCal but also fished heavily for bluefin (`3g82igEL8yk`). Distinct from the
+dated [surface iron](../techniques/surface-iron.md) builds above:
 
 - **Rod: no less than 9 ft to be "in the game," 10 ft preferred.** Stated
   reason is leverage for the cast — the longer rod throws the jig farther from
   the boat, and fish don't always come in close enough to reach on a shorter
   rod; conditions vary trip to trip, so the longer stick is the safer default.
-- **Reel: a mid-sized star-drag conventional is the standard** — his own
-  example is a **Torium 20**, plus a second brand name (rendered "italica" in
-  the auto-generated captions — not a real reel brand on its own; a second,
-  independent SearcherSportfishing tip garbles the same string the same way
-  in a two-speed-reel context, corroborating a read of **Shimano Talica** —
-  see the two-speed entry below — so this is now flagged `asr-uncertain`
-  rather than left fully unresolved) and "any manufacturer that makes a nice
-  star drag reel of this size," offered as equivalent class options (not a
-  single-brand endorsement). Some of the better **casting lever-drag reels**
-  can now be used too, especially for tuna.
+- **Reel: a mid-sized star-drag conventional is the standard** — a **Torium
+  20**, or any manufacturer that makes a nice star drag reel of this size
+  (equivalent class options, not a single-brand endorsement); a second reel
+  named on camera reads "italica" in auto-captions — read as **Shimano
+  Talica** (`asr-uncertain`; corroborated by a second, independent citation in
+  a two-speed-reel context — see the two-speed entry below). Some of the
+  better **casting lever-drag reels** can now be used too, especially for
+  tuna.
 - **Tranx named as a good casting reel** specifically for its **adjustable
   brakes** — they cut down on backlash while still letting the jig get out far
   from the boat. For the mechanism behind that on the **300B** specifically
@@ -199,7 +185,8 @@ in:
   system](tackle-express-shimano-tranx-300b-braking-system.md).
 - **Lever-drag two-speed reels are becoming viable for casting** as newer
   reels free-spool better than older lever-drag designs — a good method
-  "especially when you're targeting those 80, 90, 100 lb bluefin tuna."
+  "especially when you're targeting those 80, 90, 100 lb bluefin tuna"
+  (`3g82igEL8yk`).
 - **Line: 65 lb spectra backing, topped with ~100 yd of 40 lb monofilament**
   (step to **50 lb** mono for bluefin).
 - **Jig size:** roughly **1¾–2¾ oz**, **5–7 in**. A **treble hook typically
@@ -211,116 +198,95 @@ in:
   gives that kick. See [iron jigs](../lures/iron-jigs.md) for the class specs
   this corroborates and the hook-style detail.
 
-**Second Kearn/Searcher data point, calico-specific (same voice, different
-episode — "Tackle Tip Thursday Vol. 170 (Calico Bass Fishing)," `r9bF3VtzDUg`,
-2022-02-24; `searcher-sportfishing` registered channel):** for
+**A second citation, calico-specific:** for
 [calico bass](../species/calico-bass.md) worked down the beach on a long-range
-trip, Kearn again names **star-drag reel + long rod** as the surface-iron
-standard, this time because the calico-grade irons are lighter jigs than
-yellowtail/bluefin iron: *"these are lightweight jigs so you've got to use a
-star drag reel and a long rod, maybe eight, nine, ten foot, like that."* This
-is a second, corroborating mention from the same registered voice — but it is
-not a clean repeat: Vol. 132 states the rod floor as **"no less than 9 ft,"**
-while this clip includes **8 ft** as an option. Kept side by side rather than
-merged; the two together still support "long rod, star drag" as the
-standard — **medium confidence**, since the rod-length floor itself isn't
-identical between the two mentions.
+trip, star-drag reel + long rod is again the surface-iron standard, this time
+because the calico-grade irons are lighter jigs than yellowtail/bluefin iron —
+*"these are lightweight jigs so you've got to use a star drag reel and a long
+rod, maybe eight, nine, ten foot, like that"* (`r9bF3VtzDUg`). Not a clean
+repeat: the rod floor above is stated as **"no less than 9 ft,"** while this
+citation includes **8 ft** as an option — the two together still support long
+rod + star drag as the standard, though the rod-length floor itself isn't
+identical between the two.
 
-## Surface-iron budget build and 40 lb rationale — Tackle Talk Live (SearcherSportfishing)
+## Surface-iron budget build and 40 lb rationale
 
-SearcherSportfishing, "Tackle Talk Live Recap (Surface Irons 6/2/20),"
-`49joKHD7Umc`, 2020-06-03; `searcher-sportfishing` registered channel, single
-mention — medium confidence for the mechanism/parameters. Seeker and Accurate
-are both named among this episode's own credited sponsors ("we're grateful
-again for all of our sponsors seeker accurate products..."), so per the
-channel's sponsored-claim caveat the specific rod/reel model picks below are
-product endorsements and stay `low` confidence; rod length, single- vs.
-two-speed, line class, and the stated 40 lb reasoning qualify normally. Kept
-side by side with the dated builds above rather than merged in.
+A second, separate surface-iron build pair, top-end vs. budget, distinct
+from the dated builds above (`49joKHD7Umc`):
 
-- **Top-end build:** a **10 ft jig stick, model named on camera as a Seeker
-  Aloha** (product/model name — `low` confidence) (no fixed reel seat — see
-  [surface iron — the cast](../techniques/surface-iron-casting.md) for how
-  the reel position is set by hand on a rod like this), paired with a
-  two-speed reel — his own picks named as an **Accurate Valiant or
-  Boss-series reel, specifically a Boss 600-series** (product/model names —
-  `low` confidence) — the two-speed option called out specifically as an
-  easier-fighting option for an older/less-strong angler once a fish gets
-  straight up and down — spooled **30–60 lb, most often 40 lb** test.
-  **Stated reason for 40 lb specifically:** it lets him run a **snugger
-  drag**, which helps the hookset; a lighter/looser drag at 30 lb sacrifices
-  that. Some anglers fish 30 lb instead — called a personal preference, not
-  a correction.
+- **Top-end build:** a **10 ft jig stick** (`49joKHD7Umc`), model named on camera as a Seeker
+  Aloha (no fixed reel seat — see [surface iron — the
+  cast](../techniques/surface-iron-casting.md) for how the reel position is
+  set by hand on a rod like this), paired with a two-speed reel — an Accurate
+  Valiant or Boss-series reel, specifically a Boss 600-series — the two-speed
+  option called out specifically as an easier-fighting option for an
+  older/less-strong angler once a fish gets straight up and down — spooled
+  **30–60 lb, most often 40 lb** test. **Stated reason for 40 lb
+  specifically:** it allows a **snugger drag**, which helps the hookset; a
+  lighter/looser drag at 30 lb sacrifices that. Some anglers fish 30 lb
+  instead — a personal preference, not a correction.
 - **Budget build, same technique:** a **9 ft budget surface-iron casting rod**
   with a **single-speed star-drag reel** (no two-speed needed) — Shimano or
-  **Valiant** star-drag models named as options (the Valiant name — Accurate's
-  brand — is a product endorsement, `low` confidence; Shimano is not one of
-  this episode's credited sponsors, so that mention is not sponsor-capped) —
-  spooled with **straight 40 lb monofilament, no spectra backing needed**, on
-  the reasoning that mono alone has enough line capacity for this application
-  and costs less than running spectra backing under a top shot. Irons
-  themselves run **$13–16 retail** (Fisherman's Landing tackle). A shopper
-  without this rod/reel budget was referred to a **Turner's Outdoorsman**
-  tackle counter for an affordable equivalent.
+  Valiant star-drag models named as options — spooled with **straight 40 lb
+  monofilament, no spectra backing needed**, on the reasoning that mono alone
+  has enough line capacity for this application and costs less than running
+  spectra backing under a top shot. Irons themselves run **$13–16 retail**
+  (Fisherman's Landing tackle). A shopper without this rod/reel budget was
+  referred to a Turner's Outdoorsman tackle counter for an affordable
+  equivalent.
 
-## Surface-iron outfits — traditional star drag vs. baitcast level-wind (Steve Carson, SearcherSportfishing)
+## Surface-iron outfits — traditional star drag vs. baitcast level-wind
 
-Steve Carson, SearcherSportfishing ("Tackle Tip Thursday Vol. 146 (Surface
-Iron Outfits)," `Y_ElKixrhsc`, 2021-05-06; `searcher-sportfishing` registered
-channel/series — medium confidence, single mention of these specific builds).
-Two outfits, framed as traditional vs. what "the younger set" has moved to,
-kept side by side rather than merged — several parameters corroborate Doug
-Kearn's counter tip above (a different presenter, same channel):
+Two outfits, framed as traditional vs. what "the younger set" has moved to;
+several parameters corroborate the counter-tip rundown above (`Y_ElKixrhsc`):
 
-- **Traditional build — his own stated preference, "the way I grew up learning
-  it":** a **9 ft rod rated 25–50 lb test**, a **Penn Fathom 25 narrow** star
-  drag reel, and a **100-yard top shot of 40 lb test monofilament**. His own
-  stated reason for star drag over lever drag: *"the star drags definitely
-  cast better than the lever drags"* — consistent with, though more direct
-  than, Doug Kearn's tip above naming star drag the casting standard and
-  lever drag as merely "becoming viable" for casting. Throws **Tady 45** jigs (captions render "teddy 45" — the known
-  Tady→"teddy" caption corruption), **candy bar**-type jigs (see [iron
-  jigs](../lures/iron-jigs.md)), and even **7X**-size jigs. Stated as
-  effective across the yellowtail grade he names on camera — **12–40 lb** —
-  and, in his own words, "the most fun way to fish."
+- **Traditional build — "the way I grew up learning it":** a **9 ft rod rated
+  25–50 lb test**, a **Penn Fathom 25 narrow** star drag reel, and a
+  **100-yard top shot of 40 lb test monofilament**. Star drag beats lever
+  drag for casting: *"the star drags definitely cast better than the lever
+  drags"* (`Y_ElKixrhsc`) — consistent with, though more direct than, the
+  counter tip above naming star drag the casting standard and lever drag as
+  merely "becoming viable" for casting. Throws **Tady 45** jigs (captions
+  render "teddy 45" — the known Tady→"teddy" caption corruption), **candy
+  bar**-type jigs (see [iron jigs](../lures/iron-jigs.md)), and even
+  **7X**-size jigs. Effective across the yellowtail grade named on camera —
+  **12–40 lb** — and "the most fun way to fish" (`Y_ElKixrhsc`).
 - **Newer, "younger set" build:** still a 9–10 ft rod, but paired with a
-  saltwater **baitcast, level-wind, low-profile reel** — his example a **Penn
-  Fathom 400** — spooled to the top with **50 lb braid** and a **4–5 ft
-  leader of 40 lb test monofilament**. He still reaches for this style
-  specifically when throwing a **smaller jig — e.g. a Tady 4/0** (captions
-  render "taddy 4-0" — the known Tady caption corruption) or other "mid-size"
-  jigs. (Contrast: [iron jigs](../lures/iron-jigs.md) elsewhere groups the
-  Tady 4/0 with the heavier yo-yo-class irons — this is a distinct, lighter
-  surface-casting use of the same model on a lighter outfit, not a
-  conflict.) Framed as a generational shift, not a replacement of the
-  traditional build — "change is good, and you'd be amazed how big of a fish
-  you can catch with the modern low-profile saltwater baitcast reels."
+  saltwater **baitcast, level-wind, low-profile reel** — a **Penn Fathom
+  400** — spooled to the top with **50 lb braid** and a **4–5 ft leader of
+  40 lb test monofilament**. Still the reach for a **smaller jig — e.g. a
+  Tady 4/0** (captions render "taddy 4-0" — the known Tady caption
+  corruption) or other "mid-size" jigs. (Contrast: [iron
+  jigs](../lures/iron-jigs.md) elsewhere groups the Tady 4/0 with the heavier
+  yo-yo-class irons — this is a distinct, lighter surface-casting use of the
+  same model on a lighter outfit, not a conflict.) A generational shift, not
+  a replacement of the traditional build — "change is good, and you'd be
+  amazed how big of a fish you can catch with the modern low-profile
+  saltwater baitcast reels" (`Y_ElKixrhsc`).
 - **Leader-length rule, stated for the baitcast build:** leader length
   "should be whatever you can handle and make your cast without the knot
-  going through the tip of the rod" — the same knot-must-clear-the-guides
-  principle documented in [line & leader](line-and-leader.md) (the
-  casting-past-the-knot mechanism there), here sized at **4–5 ft**
-  specifically for this surface-iron baitcast outfit.
+  going through the tip of the rod" (`Y_ElKixrhsc`) — the same
+  knot-must-clear-the-guides principle documented in [line &
+  leader](line-and-leader.md) (the casting-past-the-knot mechanism there),
+  here sized at **4–5 ft** specifically for this surface-iron baitcast
+  outfit.
 
-## Two-speed reels for multi-day bluefin trips — Fisherman's Landing / Searcher counter tip (SearcherSportfishing)
+## Two-speed reels for multi-day bluefin trips
 
-Filmed in the Fisherman's Landing tackle rental room, via SearcherSportfishing
-("Tackle Tip Thursday Vol. 57 (2-Speed Reels)," `Rudzy0DD08w`, 2019-07-18;
-`searcher-sportfishing` registered — single mention, medium confidence). On a
-**day-and-a-half or 3-day trip**, a two-speed reel is called a must: the
-bluefin running on those trips grade **50–80 lb, with some fish over 100 lb**.
-Anglers without one can rent a two-speed at the Fisherman's Landing counter;
-the **Searcher** also carries loaner gear aboard. Two examples shown at the
-counter:
+Filmed in a Fisherman's Landing tackle rental room (`Rudzy0DD08w`). On a
+**day-and-a-half or 3-day trip**, a two-speed reel is a must: the bluefin
+running on those trips grade **50–80 lb, with some fish over 100 lb**.
+Anglers without one can rent a two-speed at the counter; the **Searcher**
+also carries loaner gear aboard. Two examples shown at the counter:
 
-- A **TLD 20** on a 6.5 ft rod, spooled with **60 lb test**.
+- A **TLD 20** on a 6.5 ft rod, spooled with **60 lb test** (`Rudzy0DD08w`).
 - A **Talica 12** (auto-captions render "italica 12" — read as **Shimano
-  Talica**, the same brand corroborated as garbled the same way in Doug
-  Kearn's surface-iron tip above; flagged `asr-uncertain`) on a 7 ft rod,
-  **40 lb test — stated as the minimum** for this application. Two uses named
-  for this lighter 40 lb two-speed outfit: a [flat-fall lure](../lures/knife-jigs.md)
-  for fishing after dark or before daylight, or a [fly-lined
-  sardine](../techniques/flyline.md) outfit.
+  Talica**, the same brand corroborated as garbled the same way in the
+  surface-iron tip above; flagged `asr-uncertain`) on a 7 ft rod, **40 lb
+  test — stated as the minimum** for this application. Two uses named for
+  this lighter 40 lb two-speed outfit: a [flat-fall
+  lure](../lures/knife-jigs.md) for fishing after dark or before daylight, or
+  a [fly-lined sardine](../techniques/flyline.md) outfit.
 
 A related two-speed size split from the same channel — a smaller **Penn
 Fathom 30** loaner reel vs. a larger **Penn Fathom 60** rail-rod reel, with
@@ -341,89 +307,71 @@ tiers by line class for local offshore tuna/yellowtail/rockfish — is logged in
 [Speedmaster vs. Fathom — reel-size ladder](tackle-express-speedmaster-fathom-reel-sizing.md)
 (kept out of this already-oversized note).
 
-## Offshore tuna favorite setup — rod length for casting distance (Nathan Winnicke, Penn, SearcherSportfishing)
+## Offshore tuna setup — rod length for casting distance
 
-Nathan Winnicke, Penn Reels, via SearcherSportfishing ("Tackle Tip Thursday
-Vol. 117 (Favorite Set-up)," `cpUq7Z3UOwU`, 2020-09-17; `searcher-sportfishing`
-registered channel/series — medium confidence for the mechanism, single
-mention of this specific claim; the named rod/reel model is a product
-endorsement and stays `low` per the channel's sponsored-claim caveat). His
-own go-to for offshore tuna fishing:
+A go-to build for offshore tuna fishing (`cpUq7Z3UOwU`):
 
 - **An 8 ft medium-heavy rod, paired with a Penn Fathom 32 Speed two-speed
-  reel** (product/model name — `low` confidence).
+  reel.**
 - **Stated reason for the longer rod: casting distance.** Compared with a
-  roughly 6.5 ft rod, the 8-footer casts the bait an extra **10–15 ft** — his
-  own observation is that this extra distance has made a significant
-  difference in the number of fish he catches. A second, gear-level data
-  point alongside the distance-beats-weight casting doctrine in
-  [flyline — match line weight to the bait, not just to the target
-  fish](../techniques/flyline.md#match-line-weight-to-the-bait-not-just-to-the-target-fish)
-  (Capt. Dave Hansen) — that entry's mechanism is casting technique and no
-  added weight; here rod length itself is the gear-level lever toward the
-  same goal.
+  roughly 6.5 ft rod, the 8-footer casts the bait an extra **10–15 ft** —
+  this extra distance makes a significant difference in the number of fish
+  caught (`cpUq7Z3UOwU`). A second, gear-level data point alongside the
+  distance-beats-weight casting doctrine in [flyline — match line weight to
+  the bait, not just to the target
+  fish](../techniques/flyline.md#match-line-weight-to-the-bait-not-just-to-the-target-fish) —
+  that entry's mechanism is casting technique and no added weight; here rod
+  length itself is the gear-level lever toward the same goal.
 - **Two-speed reel, stated reason: fighting a tuna that sounds and circles**
   once worked up and down, especially on the smaller reel sizes run with
   40–50 lb test. Fight-mechanism detail and corroborating sources in [two-speed
   reel technique](../techniques/two-speed-low-gear-fight.md).
 
-## Long-range yellowtail rod/line/leader — Tackle Tip Thursday (Darren, SearcherSportfishing)
+## Long-range yellowtail rod/line/leader
 
-Darren, SearcherSportfishing, "Tackle Tip Thursday Vol. 58 (Yellowtail
-Set-Up)," `3gNTB4aMhCA`, 2019-07-25; unregistered channel, single mention —
-medium confidence. His own go-to setup for [yellowtail](../species/yellowtail.md)
-on a long-range trip:
+A go-to setup for [yellowtail](../species/yellowtail.md) on a long-range trip
+(`3gNTB4aMhCA`):
 
-- **Rod:** an **Okuma PCH-class rod, 7'6"** (auto-captions render the brand as
-  "Oklahoma" — read here as **Okuma**, corroborated by "PCH" appearing
-  elsewhere in this corpus as an actual Okuma rod-series name, the bent-butt
-  big-game build Capt. Dave Hansen describes for swordfish/giant bluefin
-  (Okuma Fishing Tackle USA, `55IthpZZx9k`); the corroboration is the series
-  name only; a 7'6" standing-rod build for yellowtail is a distinct product
-  in that same series from the bent-butt game-chair rod, so still flagged
-  `asr-uncertain` on the brand read — though a separate, clearly-spoken
-  "Okuma PCH" citation for a different 7'6" build, rated 30–60 lb, now
-  resolves the brand itself: see [all-purpose rod line rating](all-purpose-rod-line-rating.md),
-  the "earlier, matched beginner combo" section).
+- **Rod:** an **Okuma PCH-class rod, 7'6"** (captions render the brand as
+  "Oklahoma" — read as **Okuma**, corroborated by "PCH" appearing elsewhere
+  in the corpus as an actual Okuma rod-series name, a bent-butt big-game
+  build for swordfish/giant bluefin (`55IthpZZx9k`); flagged `asr-uncertain`
+  on this citation, though a separate, clearly-spoken "Okuma PCH" citation
+  for a different 7'6", 30–60 lb build resolves the brand itself — see
+  [all-purpose rod line rating](all-purpose-rod-line-rating.md)).
 - **Line:** 65 lb braid main line to a 60 lb fluorocarbon leader.
 - **Stated reason:** durability under sustained drag pressure — "you can pull
-  on those things like there's no tomorrow" — given as his personal go-to,
-  not framed as a species-wide rule.
+  on those things like there's no tomorrow" (`3gNTB4aMhCA`) — a personal
+  go-to, not framed as a species-wide rule.
 
 A lighter-line data point than the 80–100 lb long-range-yellowtail line-class
 bracket already logged in
 [yellowtail — gear summary](../species/yellowtail.md#gear-summary-class-terms)
-(also SearcherSportfishing, a different presenter/video, `2O4Z0S78KLg`); kept
-side by side, not reconciled — neither video states the target grade, so
-there's no basis to merge the two into one number.
+(`2O4Z0S78KLg`); neither video states the target grade, so there's no basis
+to merge the two into one number.
 
-**Reel/line corroboration, extra-heavy dropper-loop program (Steve Carson,
-Penn Fishing Tackle, via SearcherSportfishing, "Tackle Tip Thursday Vol. 230
-(Dropper Loop for Yellowtail)," `CdjT_I_PBHQ`, 2024-04-11; unregistered
-channel — medium confidence).** For the **6-day-or-longer Searcher trips
-further down the Baja Peninsula**, where the yellowtail run bigger than
-anywhere near home (30–60 lb stated on camera): a **Penn Fathom two-speed
-model 80** conventional reel, topshot **80 or 100 lb test line — nothing
-less than 80, 100 is better** ("go with what you have"). This corroborates
-the 80–100 lb bracket above from the same channel's `2O4Z0S78KLg` (a
-different video/presenter, ~1 month apart) rather than being independent
-confirmation of a different source. The dropper-loop rig this reel/line
-pairing is built for — the **surgeon's-knot loop, sinker weight, hook size,
-and three ways to attach the hook** — is covered in full in [Surgeon's Loop
-(Giant Yellowtail, Long-Range)](../rigging/surgeons-loop.md).
+**Reel/line corroboration, extra-heavy dropper-loop program (`CdjT_I_PBHQ`).**
+For the **6-day-or-longer Searcher trips further down the Baja Peninsula**,
+where the yellowtail run bigger than anywhere near home (30–60 lb stated on
+camera): a **Penn Fathom two-speed model 80** conventional reel, topshot
+**80 or 100 lb test line — nothing less than 80, 100 is better** ("go with
+what you have," `CdjT_I_PBHQ`). This corroborates the 80–100 lb bracket
+above (`2O4Z0S78KLg`) rather than being independent confirmation of a
+different source. The dropper-loop rig this reel/line pairing is built for —
+the **surgeon's-knot loop, sinker weight, hook size, and three ways to attach
+the hook** — is covered in full in [Surgeon's Loop (Giant Yellowtail,
+Long-Range)](../rigging/surgeons-loop.md).
 
-## Casting rod/reel/top-shot general parameters (Cesar, Eric's Tackle)
+## Casting rod/reel/top-shot general parameters
 
-**Cesar, Eric's Tackle, via Dirty Hookers, F7jLrt2j2X8, 2023-10-09; Cesar is a
-registered voice, source-registry mechanism/parameter caveat applies — first
-commit of these specific claims, medium confidence pending repetition.** A
-general framework for casting tuna lures (irons, stickbaits, poppers), kept
-side by side with the dated builds above rather than merged in:
+A general framework for casting tuna lures (irons, stickbaits, poppers),
+distinct from the dated builds above (`F7jLrt2j2X8`):
 
-- **Rod length caps around 9 ft for casting safety.** 8 ft rods are fine;
-  he wouldn't fish anything longer than 9 ft — beyond that it becomes
-  dangerous to cast, especially for anglers **not** on the bow (fishing from
-  the back or middle of the boat makes a longer rod harder to cast safely).
+- **Rod length caps around 9 ft for casting safety.** 8 ft rods are fine
+  (`F7jLrt2j2X8`);
+  nothing longer than 9 ft — beyond that it becomes dangerous to cast,
+  especially for anglers **not** on the bow (fishing from the back or middle
+  of the boat makes a longer rod harder to cast safely).
 - **Spinning gear is fine for this grade of fish.** Modern spinning reels
   with braid have solved the old line-twist and line-flying-off-the-spool
   problems of mono-era spinning gear. Yellowfin up to **50 lb** on spinning
@@ -445,48 +393,39 @@ side by side with the dated builds above rather than merged in:
   iron](../techniques/surface-iron.md)); **stickbaits and poppers tolerate a
   heavier top shot** without that penalty.
 
-## Spinning-reel buying criteria for casting to 100 lb-class tuna (Steve Carson panel, PCS Show 2024)
+## Spinning-reel buying criteria for casting to 100 lb-class tuna
 
-Steve Carson panel, "Gear Needed for Half to Full Day [Yellowtail] Fishing,"
-2024 Pacific Coast Sportfishing Show (`UP_3fBu7VPA`, Fisher Newb upload,
-2024-03-20; unregistered channel/speakers — medium confidence). Prompted by
-an audience question on whether a spinning reel can land a 100 lb tuna;
-answered with buying criteria rather than a single model pick, framed as
-applying across brands (Penn was the booth sponsor but the panel was explicit
-several other companies make comparable reels at the same price points):
+Prompted by an audience question on whether a spinning reel can land a 100 lb
+tuna; answered with buying criteria rather than a single model pick, framed
+as applying across brands (`UP_3fBu7VPA`):
 
 - **Budget floor: don't consider a spinning reel for this application under
-  roughly $300.** Below that price point the panel's advice was not to bother.
+  roughly $300.** Below that price point, don't bother (`UP_3fBu7VPA`).
 - **All-metal body and rotor, not graphite.** Graphite is lighter but not as
-  strong; for landing a 100 lb-class fish, metal construction was called the
+  strong; for landing a 100 lb-class fish, metal construction is the
   non-negotiable spec.
 - **Double drag — a drag washer stack on both the top and bottom of the
   spool**, not just one side. Check by pulling the spool off the reel.
 - **Casting ability matters as much as landing capacity** — on a single-shot
   overnight or 3/4-day trip, hitting the popper/stickbait into a small feeding
   window can matter as much as the reel's ability to stop the fish once it's
-  hooked. A spinning reel's casting advantage over a conventional was the
-  panel's stated reason to reach for one at all in this application.
+  hooked. A spinning reel's casting advantage over a conventional is the
+  stated reason to reach for one at all in this application.
 - **Named tiers by price:** at the entry end, a **Penn Slammer**-class reel
-  was named as the pick for someone buying the least expensive option that
-  still meets the criteria above; stepping up in budget, a **Penn Authority**-
-  class reel was named as the upgrade pick. (Product/model names — low
-  confidence per the sponsored-claim rule; the body/rotor/drag/price criteria
-  above are the transferable parameters.) Cross-reference: Cesar's separate
-  casting-reel framework above targets a lighter grade of fish (yellowfin to
-  ~50 lb) on a **20–25, up to 30-size** star-drag reel — this spinning-reel
-  criteria is specifically for the heavier, 100 lb-class end of the same
-  casting application.
+  is the pick for the least expensive option that still meets the criteria
+  above; stepping up in budget, a **Penn Authority**-class reel is the
+  upgrade pick (the body/rotor/drag/price criteria above are the
+  transferable parameters). Cross-reference: the separate casting-reel
+  framework above targets a lighter grade of fish (yellowfin to ~50 lb) on a
+  **20–25, up to 30-size** star-drag reel — this spinning-reel criteria is
+  specifically for the heavier, 100 lb-class end of the same casting
+  application.
 
-**Corroborating spec, dockside tip (Steve Carson, SearcherSportfishing, "Tackle
-Tip Thursday Vol. 185," `TgOMUXxIQl4`, 2022-06-09; `searcher-sportfishing`
-registered channel — medium confidence, single mention on this specific
-channel; the reel/line pairings below are product placements, low confidence
-per the channel's sponsored-claim caveat):** the same all-metal-body /
-all-metal-rotor / drag-top-and-bottom-of-spool spec as the panel above, with
-one added spec called out on camera — **machine-cut gears** — and framed the
-same way: built for average/school-grade tuna on stick baits and poppers, not
-a 100 lb-class fish. Two worked examples, lightest to heaviest: a **6500-size**
+**Corroborating spec, dockside tip (`TgOMUXxIQl4`):** the same all-metal-body
+/ all-metal-rotor / drag-top-and-bottom-of-spool spec as above, with one
+added spec called out on camera — **machine-cut gears** — and framed the same
+way: built for average/school-grade tuna on stick baits and poppers, not a
+100 lb-class fish. Two worked examples, lightest to heaviest: a **6500-size**
 spinning reel loaded with **400 yd of 50 lb braid** for average-grade tuna,
 stepping up to a **7500-size** reel with **400 yd of 65 lb braid** when 50–70 lb
 fish are around and biting on top — still capped short of "100 pounders." Full
@@ -494,14 +433,11 @@ leader-by-lure-type detail (short/heavy for poppers, longer/lighter for stick
 baits, and why) lives in [tuna poppers and
 stickbaits](../lures/tuna-poppers-and-stickbaits.md#casting-gear-for-poppers-and-burn-baits).
 
-## Baja cabrilla jerkbait setup (Cesar, EmZO8QiOfik)
+## Baja cabrilla jerkbait setup
 
-Cesar, via Dirty Hookers, EmZO8QiOfik, 2025-03-04; registered voice,
-mechanism/parameter — single mention of this specific application, medium
-confidence pending repetition. A dedicated setup for casting
-[jerkbaits](../lures/jerkbaits.md) at [cabrilla](../species/cabrilla.md) in
-the Sea of Cortez / Bay of LA, distinct from the tuna-casting and flyline
-frameworks above:
+A dedicated setup for casting [jerkbaits](../lures/jerkbaits.md) at
+[cabrilla](../species/cabrilla.md) in the Sea of Cortez / Bay of LA, distinct
+from the tuna-casting and flyline frameworks above (`EmZO8QiOfik`):
 
 - **Two rods, side by side:** a medium-light and a medium-heavy, both an
   oversized, super-stiff jerkbait rod ("a crankbait rod on steroids"),
@@ -515,35 +451,29 @@ frameworks above:
   (**~2–3 casts/minute**) — a reel without a level-wind (e.g. a round
   conventional) forces the angler to hand-guide the line back every cast,
   which fatigues the hand over a session and starts producing backlashes.
-  Example reels named (product picks — low confidence): **Daiwa Lexa TW
-  300** (preferred for hand fit over the 400, which runs a wider spool but
-  carries heavier line better), Daiwa Lexa (standard), Shimano low-profile
-  level-wind equivalents.
+  Example reels: **Daiwa Lexa TW 300** (preferred for hand fit over the 400,
+  which runs a wider spool but carries heavier line better), Daiwa Lexa
+  (standard), Shimano low-profile level-wind equivalents.
 - **Line:** lighter outfit **65 lb braid to 50 lb monofilament top shot**;
   heavier outfit **80 lb braid to 80 lb leader** (fluorocarbon).
-- **Drag — kept side by side, not reconciled:** Cesar runs the drag
-  **essentially locked** (star run to its stop) — reasoning that a cabrilla
-  given an inch of line turns its head and starts taking line, so the
-  drag should give nothing; the slow-bend rod (above) supplies the shock
-  absorption the locked drag doesn't. Co-host Ray Sharifi (`ray-sharifi` registered 2026-08-17 (**Baja-scoped**, so eligible to lift), single mention —
-  medium confidence) instead runs the drag **backed off**, paired
-  with a faster-action rod. Both are attributed philosophies for the same
-  fishery.
+- **Drag — the choice turns on how much shock absorption the rod itself
+  supplies.** Paired with the slow-bend rod above, the drag can run
+  **essentially locked** (star run to its stop): a cabrilla given an inch of
+  line turns its head and starts taking line, so the drag should give
+  nothing, and the slow-bend blank supplies the shock absorption the locked
+  drag doesn't (Cesar, `EmZO8QiOfik`). Paired with a faster-action rod
+  instead, the drag runs **backed off**, letting the rod's own faster action
+  take up what a locked drag would otherwise have to (Ray Sharifi,
+  `EmZO8QiOfik`). Both are workable for the same fishery; the rod's action
+  decides which drag philosophy pairs with it.
 - Carry a **spare spool of braid** (minimum one-shot 300 yd) and extra top
   shot — heavy cast/retrieve volume over a day wears braid at the guides.
 
 ## Flyline reel & rod selection
 
-Cesar, Eric's Tackle, via Dirty Hookers, 48ZFXnCTTQE, 2023-11-01. `medium`
-confidence for the mechanism/parameters — Cesar is a registered voice, but
-this is a single mention (his other logged videos are still pending
-extraction, so it isn't yet repeated doctrine; would reach `high` if
-corroborated elsewhere). Specific reel model recommendations below are
-product endorsements and stay `low` per his registry caveat.
-
 Distinct from the casting-application framework above (`F7jLrt2j2X8`) — this is
 reel/rod selection for **flylining a live bait itself**, not for casting a
-lure:
+lure (`48ZFXnCTTQE`):
 
 - **Star drag, not lever drag — the free-spool matters.** On a star drag reel
   you can disengage the spool completely from the drag system, so the spool
@@ -552,30 +482,27 @@ lure:
   built into the spool, so the spool itself is heavier and starts up stiffer
   even fully backed off. Test: out of gear, the spool should spin with just a
   light touch.
-- **Dial the cast-control brake down as your casting skill improves (Capt.
-  Dave Hansen, Your Saltwater Guide, `gKrYKvqHUjk`, 2020-12-22 — dave-hansen,
-  registered voice, `high` confidence for the mechanism; the specific Okuma
-  reel models named on camera are sponsor-adjacent, `low` confidence):** a
-  conventional casting reel's mechanical/magnetic brake should run tighter
-  while learning to cast, then get progressively backed off as skill grows —
-  the freer the spool spins, the farther the bait casts. West Coast anglers
-  traditionally learn conventional gear for this reason; a spinning reel is
-  the easier interim choice for anglers who haven't yet put in the time to
-  learn a conventional's cast, with no wrong answer between the two. See
-  [flyline](../techniques/flyline.md) for why casting distance itself matters
-  for the bite.
+- **Dial the cast-control brake down as your casting skill improves
+  (`gKrYKvqHUjk`):** a conventional casting reel's mechanical/magnetic brake
+  should run tighter while learning to cast, then get progressively backed
+  off as skill grows — the freer the spool spins, the farther the bait
+  casts. West Coast anglers traditionally learn conventional gear for this
+  reason; a spinning reel is the easier interim choice for anglers who
+  haven't yet put in the time to learn a conventional's cast, with no wrong
+  answer between the two. See [flyline](../techniques/flyline.md) for why
+  casting distance itself matters for the bite.
 - **Low gear ratio over two-speed for the finicky bite.** Two-speed reels are
   great once a big fish is on, but getting bit in the first place matters more
   than cranking speed on a finicky day — a low gear ratio, single-speed star
   drag reel with plenty of torque is the pick. Stated range: **4.5:1 to 5:1**
   is the target; **6:1 is a little on the fast side**. On a high-speed reel you
   get bit fine, but struggle to crank a big fish in once hooked — the
-  low-gear-ratio star drag avoids that trade-off. *(Model recommendations,
-  low confidence — product endorsement:* small star-drag reels, captioned as
-  "pin fathoms" and read as the **Penn Fathom** line (asr-uncertain — brand
-  not independently confirmed), are named as a good light-free-spool fit for
-  flylining; Shimano **Trinidad/Thorium**-class reels also work with a decent
-  (if heavier) free spool, loaded with a bit more mono to compensate.*)*
+  low-gear-ratio star drag avoids that trade-off. Small star-drag reels,
+  captioned as "pin fathoms" and read as the **Penn Fathom** line
+  (`asr-uncertain`: brand not independently confirmed), are a good
+  light-free-spool fit for flylining; Shimano **Trinidad/Thorium**-class
+  reels also work with a decent (if heavier) free spool, loaded with a bit
+  more mono to compensate.
 - **Rod tip must be soft — mechanism.** A graphite rod tip is too stiff/heavy
   to load up casting a live bait: the snap-release either gives the bait
   "whiplash" (it lands stunned, doesn't swim) or throws it clean off the hook.
@@ -590,51 +517,44 @@ lure:
   that soft-tip/beefier-butt taper — and why the visible color-change line
   on one isn't a defect — see [composite rod blank
   construction](composite-rod-blank-construction.md).
-- **Corroborating, lighter/smaller-spool reasoning (Steve Carson panel, PCS
-  Show 2024, `UP_3fBu7VPA`; unregistered channel/speakers — medium
-  confidence):** for flylining specifically, the panel's stated preference is
-  a smaller, lower-profile reel (Penn Fathom-class, Shimano Trinidad 14-class,
-  or smaller) over a bigger reel of the same line class — a lighter spool
-  puts less weight/drag on the bait as it swims away, and matching reel size
-  to bait size (rather than to the target species' maximum grade) was called
-  more important than rod choice for getting bit in the first place. A
-  two-speed reel was called a nice-to-have for flylining, not a requirement,
-  unless specifically targeting bluefin. Consistent with, not adding a new
-  number beyond, the low-gear-ratio/light-free-spool doctrine above.
+- **Corroborating, lighter/smaller-spool reasoning (`UP_3fBu7VPA`):** for
+  flylining specifically, the stated preference is a smaller, lower-profile
+  reel (Penn Fathom-class, Shimano Trinidad 14-class, or smaller) over a
+  bigger reel of the same line class — a lighter spool puts less
+  weight/drag on the bait as it swims away, and matching reel size to bait
+  size (rather than to the target species' maximum grade) matters more than
+  rod choice for getting bit in the first place. A two-speed reel is a
+  nice-to-have for flylining, not a requirement, unless specifically
+  targeting bluefin. Consistent with, not adding a new number beyond, the
+  low-gear-ratio/light-free-spool doctrine above.
 
-**Long-trip flyline rod pick — Seeker Athena (Sophia Quinn, Seeker Rods rep,
-via SearcherSportfishing, "Tackle Tip Thursday Vol. 61 (Favorite Rod),"
-`_VtL0DrNdAU`, 2019-08-09).** `searcher-sportfishing` is a registered
-channel/series, but Quinn is a rep for Seeker naming her own company's rod on
-camera — a product endorsement, `low` confidence per the sponsored-claim rule
-(the mechanism/parameter caveat on this registry row does not lift a
-brand-rep's own product pick). Her go-to for the Searcher's overnight-to-5-day
-trips: a Seeker **Athena, model ATH, 8 ft, rated 30–60 lb** — a "more
-parabolic, lightweight, soft-tip" blank. She starts a trip on **35 lb** and
-can step up to **60 lb fluorocarbon** on the same rod. Stated reason: the
-soft, parabolic tip lets her flyline for extended stretches — "sitting there
-fly lining forever, your arms don't get tired" — a fatigue-focused pick for
-the sustained soak time these multi-day trips involve. This is a distinct
-mechanism from the soft-tip-for-casting doctrine logged above (Cesar,
-`48ZFXnCTTQE`) — his bullet is about cast quality (avoiding bait "whiplash"),
-not angler fatigue — kept side by side rather than merged, though both point
-to the same rod-blank feature (soft, glass/composite/parabolic tip).
+**Long-trip flyline rod pick — Seeker Athena (`_VtL0DrNdAU`).** A go-to for
+overnight-to-5-day trips: a Seeker **Athena, model ATH, 8 ft, rated 30–60
+lb** — a "more parabolic, lightweight, soft-tip" blank. Starts a trip on
+**35 lb** and can step up to **60 lb fluorocarbon** on the same rod. Stated
+reason: the soft, parabolic tip allows flylining for extended stretches —
+"sitting there fly lining forever, your arms don't get tired"
+(`_VtL0DrNdAU`) — a fatigue-focused pick for the sustained soak time these
+multi-day trips involve. This is a distinct mechanism from the
+soft-tip-for-casting doctrine logged above (`48ZFXnCTTQE`) — that bullet is
+about cast quality (avoiding bait "whiplash"), not angler fatigue — though
+both point to the same rod-blank feature (soft, glass/composite/parabolic
+tip).
 
 ## Sportboat: bring a range, day and night
 
-On a charter you can't pick the grade in advance, so carry a spread
-(daytime/nighttime roundups, gOAOyMNG3Ug, qSgIwLX2FWw). Grade can swing from
-30–50 lb fish to 100–200 lb fish on the same trip.
+On a charter you can't pick the grade in advance, so carry a spread —
+daytime and nighttime roundups (`gOAOyMNG3Ug`, `qSgIwLX2FWw`). Grade can
+swing from 30–50 lb fish to 100–200 lb fish on the same trip.
 
-- **Half-day vs. overnight, and "bring it even if you don't need it" (Steve
-  Carson panel, PCS Show 2024, `UP_3fBu7VPA`; unregistered channel/speakers —
-  medium confidence):** a half-day trip doesn't need this range — one or two
+- **Half-day vs. overnight, and "bring it even if you don't need it"
+  (`UP_3fBu7VPA`):** a half-day trip doesn't need this range — one or two
   rods covers it. An overnight trip, especially with tuna around, is where
-  the full spread matters; the panel's stated practice for recent seasons
-  (nighttime fishing more common, bigger average grade showing up) is to
-  bring a **100 lb rig on every overnight trip** even when it isn't expected
-  to be needed, reasoning that not having it on the one day it's required
-  costs more than the trips it sits unused.
+  the full spread matters; recent-season practice (nighttime fishing more
+  common, bigger average grade showing up) is to bring a **100 lb rig on
+  every overnight trip** even when it isn't expected to be needed — not
+  having it on the one day it's required costs more than the trips it sits
+  unused.
 
 - **Daytime:** a knife-jigging rod (PE 4x8, 250–400 g; 100 lb braid, day size-down
   to a 60–80 lb fluoro top shot; **100–200 g jigs by day**); a favorite flyline
@@ -646,26 +566,25 @@ On a charter you can't pick the grade in advance, so carry a spread
   two big rods — a 50–100 lb (Calstar 770H class, Fathom 60, 130 lb braid,
   100–130 lb top shot) that also fishes a daytime sinker rig, plus a 7'6" XXH
   50–100 lb with a parabolic tip that presents a jig better. **Never fish under
-  100 lb line at night.**
+  100 lb line at night** (`gOAOyMNG3Ug`, `qSgIwLX2FWw`).
 
-## Baja, Sea of Cortez gear quiver (Cesar, via Dirty Hookers, M8hOYQ_6rSg, 2025-05-20; Cesar is a registered voice, single mention of these specific builds — `medium` confidence for the build logic, `low` for specific model endorsements per his registry caveat; region: Baja, Sea of Cortez)
+## Baja, Sea of Cortez gear quiver
 
 A tackle-talk breakdown of what a Sea of Cortez trip needs, framed as three
-base rod sizes plus jigging-specific rods:
+base rod sizes plus jigging-specific rods (`M8hOYQ_6rSg`):
 
-- **50–60 lb rod**, 6.5–7 ft, no longer than 7 ft — the mid-weight all-rounder.
+- **50–60 lb rod** (`M8hOYQ_6rSg`), 6.5–7 ft, no longer than 7 ft — the mid-weight all-rounder.
 - **100 lb heavy outfit**, preferably 6–6.5 ft, not much longer — for grouper.
   This rod **doubles as the trolling rod** (big Nomad-class hardbaits, mirror
-  lures) with a heavy two-speed reel (a **Daiwa Saltiga 60**-class reel in the
-  presenter's own build, sized to hold enough 100 lb line to keep spool
-  diameter up — model name is a product endorsement, `low` confidence; see
-  [Daiwa Saltiga — CRBB bearings, Digigear, and ATD](tackle-express-daiwa-saltiga-reel.md)
-  for that reel line's own stated feature claims, a separate source). **Rod
-  butt matters for trolling/holder use:** want a **slick/hard butt**, not a
-  long hypalon-type butt — a hyper-long soft butt can jam in the rod holder
-  when a fish hits, costing time getting the rod out; a hard/slick butt pulls
-  free easily and is designed to be fished out of the gunnel holder rather
-  than held.
+  lures) with a heavy two-speed reel (a **Daiwa Saltiga 60**-class reel,
+  sized to hold enough 100 lb line to keep spool diameter up; see [Daiwa
+  Saltiga — CRBB bearings, Digigear, and
+  ATD](tackle-express-daiwa-saltiga-reel.md) for that reel line's own stated
+  feature claims, a separate source). **Rod butt matters for trolling/holder
+  use:** want a **slick/hard butt**, not a long hypalon-type butt — a
+  hyper-long soft butt can jam in the rod holder when a fish hits, costing
+  time getting the rod out; a hard/slick butt pulls free easily and is
+  designed to be fished out of the gunnel holder rather than held.
 - **Yo-yo iron / surface iron rod:** **8 ft, 20–50 lb.** Stated preference for
   8 ft over the "purist" 9 ft jig-stick standard, specifically because a panga
   is a **small fishing platform** — a 9–10 ft rod makes it hard to work a big
@@ -676,11 +595,11 @@ base rod sizes plus jigging-specific rods:
   400 g.** Called out specifically as devastating on yellowtail and
   amberjack, and cited as a technique gaining popularity with skippers in the
   Bay of LA. Line: **50–65 lb braid**, with a stated preference for 50 over
-  65. Reel: a **Valiant 800 narrow**-class reel (product endorsement, `low`
-  confidence) — a taller, narrower reel described as close to a
-  "yellowtail-special" size; on vertical speed jigging you want to **gain as
-  much line as possible per pump**, and a taller/narrower spool profile does
-  that better than a wide reel of the same capacity.
+  65. Reel: a **Valiant 800 narrow**-class reel — a taller, narrower reel
+  described as close to a "yellowtail-special" size; on vertical speed
+  jigging you want to **gain as much line as possible per pump**, and a
+  taller/narrower spool profile does that better than a wide reel of the
+  same capacity.
 - **Slow-pitch rod:** also **5.5–6 ft**, described as a lighter/fun jig outfit
   fished up to ~200 g, taking white seabass, lane snapper, yellowtail,
   amberjack, and occasionally grouper.
@@ -689,20 +608,20 @@ base rod sizes plus jigging-specific rods:
 
 See [sliding-sinker — Baja grouper leader](../techniques/sliding-sinker.md#baja-sea-of-cortez-grouper-leader-cesar) for
 the full leader build; the top-shot half of it lives here: a **minimum 30 yd,
-ideally 100 ft, of 100–130 lb mono top shot**, preferred over fluoro for the
-stretch, run above the 6 ft grouper leader so rock abrasion is absorbed by the
-mono section rather than by a bite leader that's too short to survive a run
-into structure.
+ideally 100 ft, of 100–130 lb mono top shot** (`M8hOYQ_6rSg`), preferred over
+fluoro for the stretch, run above the 6 ft grouper leader so rock abrasion is
+absorbed by the mono section rather than by a bite leader that's too short to
+survive a run into structure.
 
 ### Cabrilla jerkbait casting gear and color/retrieve doctrine
 
-Two rod/reel builds for casting jerkbaits at cabrilla, by the same presenter:
+Two rod/reel builds for casting jerkbaits at cabrilla (`M8hOYQ_6rSg`):
 
-- **Light outfit:** 65 lb braid to 50 lb mono top shot.
+- **Light outfit:** 65 lb braid to 50 lb mono top shot (`M8hOYQ_6rSg`).
 - **Heavy outfit:** 80 lb braid to 80 lb leader.
-- **Reel:** a **Daiwa Lexa T-Wing 300**-class reel (product endorsement, `low`
-  confidence) preferred over the larger 400 size specifically for **hand
-  fit** — the 300 is easier to grip and hold through a full day of casting;
+- **Reel:** a **Daiwa Lexa T-Wing 300**-class reel, preferred over the larger
+  400 size specifically for **hand fit** — the 300 is easier to grip and
+  hold through a full day of casting;
   nothing wrong with the 400, it's just wider. **Heavy drags** are the norm —
   cabrilla hooked with the drag hammered down will still take line "like
   you're in free spool."
@@ -720,8 +639,6 @@ Two rod/reel builds for casting jerkbaits at cabrilla, by the same presenter:
   150-class, or a Hydro Minnow LC/Mag Minnow-class bait) — the smaller baits
   don't have as aggressive an action, but that's exactly what triggers a
   finicky midday cabrilla that won't respond to the bigger bait's action.
-  (Model names — Hydro Minnow LC, Mag Minnow — are product references, `low`
-  confidence.)
 - **Retrieve:** burn these jerkbaits **fast** — all of them are designed to be
   worked at speed, not a slow twitch retrieve.
 - **Color rotation for a day of cabrilla fishing:** a hardcore day (six baits
@@ -730,61 +647,61 @@ Two rod/reel builds for casting jerkbaits at cabrilla, by the same presenter:
 
 ### A second, parallel gear rundown — Gonzaga Bay, Sea of Cortez (Baja) inshore trip
 
-Kept side by side with the outfit above rather than merged — a different trip
-and presenter, same close-structure cabrilla/calico-style casting application:
-**7–8 ft heavy/extra-heavy rods**, **6:1 high-gear-ratio reels** (fast
-retrieve). **65 lb spectra was the mandatory minimum**; most of the crew ran
-**80 lb spectra tied to a 3–4 ft, 80 lb mono and/or fluorocarbon top-shot**.
-Lures fished: a **6 in suspending jerkbait in smelt color** and a **7X surface
-iron in mint color**, worked both near and far around the rocky points/edges
-(StokedOnFishing, `A6s-A1NARuA`, 2015-10-28; unregistered channel — medium
-confidence; region: Baja, Sea of Cortez, Gonzaga Bay). Structure fished this
-way produced wolf-pack grouper as well as cabrilla, described by the crew as
-behaving "just like calicoes."
+A different trip, same close-structure cabrilla/calico-style casting
+application — a separate data point from the outfit above (`A6s-A1NARuA`):
+**7–8 ft heavy/extra-heavy rods**, **6:1 high-gear-ratio
+reels** (fast retrieve). **65 lb spectra was the mandatory minimum**; most of
+the crew ran **80 lb spectra tied to a 3–4 ft, 80 lb mono and/or
+fluorocarbon top-shot**. Lures fished: a **6 in suspending jerkbait in smelt
+color** and a **7X surface iron in mint color**, worked both near and far
+around the rocky points/edges. Structure fished this way produced wolf-pack
+grouper as well as cabrilla, described by the crew as behaving "just like
+calicoes" (`A6s-A1NARuA`).
 
-### Calico bass grub/weedless casting gear, tournament angler (StokedOnFishing, `tJFSV3AcIdE`)
+### Calico bass grub/weedless casting gear, tournament angler
 
-**Rod:** an Okuma Citrix, extra-heavy power (captions render the length/model as
-"7-eleven" — exact model designation ASR-uncertain), described on camera as
-having enough backbone to horse a fish out of cover the instant it bites while
-staying soft enough on the tip to let the fish work on the way to the boat.
-**Reel:** paired with a 350-size reel (captions render the model name
+**Rod:** an Okuma Citrix, extra-heavy power (captions render the length/model
+as "7-eleven" — exact model designation `asr-uncertain`), described on camera
+as having enough backbone to horse a fish out of cover the instant it bites
+while staying soft enough on the tip to let the fish work on the way to the
+boat. **Reel:** paired with a 350-size reel (captions render the model name
 "Comodo" — plausibly the Okuma Cavado 350 given the rod brand, but
-ASR-uncertain), picked for long casts to reach cover the boat couldn't get
+`asr-uncertain`), picked for long casts to reach cover the boat couldn't get
 close to. **Line:** 60 lb braid mainline to a 40 lb fluorocarbon top shot,
-described as run "on almost everything for calico." Fished casting a
-soft-plastic grub at kelp/structure edges, San Clemente Island, 2016 SWBA
-California Offshore Challenge tournament, day two. Consistent with the
+run "on almost everything for calico" (`tJFSV3AcIdE`). Fished casting a
+soft-plastic grub at kelp/structure edges, San Clemente Island, during the
+2016 SWBA California Offshore Challenge tournament. Consistent with the
 40–65 lb fluoro-leader range already documented for calico kelp fishing
-above. Unregistered channel, single mention — medium confidence.
+above.
 
-## Inshore baitcast — three sizes (Academy Ep15, ONH1K2MOp7Q)
+## Inshore baitcast — three sizes
 
 Low-profile saltwater baitcasters were designed for largemouth, so **avoid the
 high-speed gear ratios** bass anglers use (8:1+): a SoCal gamefish doesn't swim at
 you, so a fast reel just piles torque on you and makes crankbaits miserable to
-wind. Landesfeind learned this getting worked by a ~60 lb bluefin on an ~8:1 400.
+wind — learned the hard way fighting a ~60 lb bluefin on an ~8:1 400
+(`ONH1K2MOp7Q`).
 
-- **Corroborating yellowtail-specific data point (Tackle Express,
-  `pOFsjDTqaxY`, 2026-05-07; unregistered channel, single mention — medium
-  confidence):** a presenter contrasts a **7:1** baitcaster favorably against
-  an **8:1** reel for surface iron/yo-yo work on big yellowtail — the lower
-  ratio's extra torque keeps a big fish from "getting dogged," the same
-  torque-over-speed logic as Landesfeind's bluefin ceiling above. See
-  [baitcaster gear ratio for landing big
-  yellowtail](tackle-express-baitcaster-gear-ratio-yellowtail.md).
+- **Corroborating yellowtail-specific data point (`pOFsjDTqaxY`):** a
+  presenter contrasts a **7:1** baitcaster favorably against an **8:1** reel
+  for surface iron/yo-yo work on big yellowtail — the lower ratio's extra
+  torque keeps a big fish from "getting dogged," the same torque-over-speed
+  logic as the bluefin ceiling above. See [baitcaster gear ratio for landing
+  big yellowtail](tackle-express-baitcaster-gear-ratio-yellowtail.md).
 
-**⚠ Conflict, flagged not reconciled:** Capt. Benny Florentino's calico-specific
-reel-speed doctrine says the opposite about calico bass specifically — that they
-**do** come up, eat, and swim back toward the boat, and a **high-speed reel (at
-least 6.2:1)** is needed to take up the resulting slack before the fish can dive
-back into structure. Both claims sit under Landesfeind's 8:1+ ceiling, so they
-aren't numerically incompatible, but the underlying behavioral claim (does SoCal
-inshore gamefish swim at you or not) conflicts. See [swimbaits — line, leader,
-and reel speed](../techniques/swimbaits.md#line-leader-and-reel-speed-capt-benny-florentino).
-Three classic sizes cover inshore:
+**⚠ Conflict, flagged not reconciled — the decision turns on species, not
+gear class.** For calico bass specifically, Capt. Benny Florentino's
+reel-speed doctrine says the opposite of the general inshore rule above:
+calicos **do** come up, eat, and swim back toward the boat, so a **high-speed
+reel (at least 6.2:1)** is needed to take up the resulting slack before the
+fish can dive back into structure (see [swimbaits — line, leader, and reel
+speed](../techniques/swimbaits.md#line-leader-and-reel-speed-capt-benny-florentino)).
+Both claims sit under the 8:1+ ceiling above, so they aren't numerically
+incompatible, but the underlying behavioral claim (does the fish swim at you
+or not) is species-specific — pick gear ratio by the species in front of you,
+not by one blanket inshore rule. Three classic sizes cover inshore:
 
-- **200 size (~6.6:1)** — the workhorse. Brim-full of 30 lb braid. Crankbaits,
+- **200 size (~6.6:1)** — the workhorse (`ONH1K2MOp7Q`). Brim-full of 30 lb braid. Crankbaits,
   smaller hard baits, [swimbaits](../techniques/swimbaits.md) for
   [spotties](../species/spotted-bay-bass.md) /
   [calicos](../species/calico-bass.md) / [sandbass](../species/sand-bass.md),
@@ -806,26 +723,24 @@ Three classic sizes cover inshore:
 Buy **saltwater-series** reels over freshwater models — they cost more but outlast
 them by a long shot.
 
-**Rod-design corroboration, promotional source (Sav-On Tackle/IROD seminar,
-Fisher Newb, `lP6cg4eEU6s`, 2020-03-06; unregistered channel, product
-seminar — confidence: low, product-specific):** a boutique SoCal rod builder
-(IROD) described designing a bass rod lineup around the same 200-vs-300/400
-size-reel logic above — a **7'9" "mag" rod**, alongside a **7'3" medium-heavy**
-and a **7'6" power-heavy, moderate-action** rod in the same series, built
-specifically so an angler fishing calico bass at the islands and deep-kelp/
-harbor spotted bay bass could run a **200-size reel with a bigger swimbait**
-instead of stepping up to a 300 or 400. Logged here only as a
-model-specific corroboration of the class-level reasoning above, not as an
-endorsement of the brand.
+**Rod-design corroboration, promotional source (`lP6cg4eEU6s`):** a boutique
+SoCal rod builder described designing a bass rod lineup around the same
+200-vs-300/400 size-reel logic above — a **7'9" "mag" rod**, alongside a
+**7'3" medium-heavy** and a **7'6" power-heavy, moderate-action** rod in the
+same series, built specifically so an angler fishing calico bass at the
+islands and deep-kelp/harbor spotted bay bass could run a **200-size reel
+with a bigger swimbait** instead of stepping up to a 300 or 400. Logged here
+only as a model-specific corroboration of the class-level reasoning above,
+not as an endorsement of the brand.
 
-## Inshore / shoreline all-in-one combo (`8tTVMOV2arE`)
+## Inshore / shoreline all-in-one combo
 
 A single versatile combo (e.g. a DC-braked baitcaster with birdnest-reducing
 presets on an 8 ft medium, extra-fast inshore rod) covers spotties, calicos, and
 halibut from boat or beach, and has the backbone for 20–30 lb yellowfin in a
-pinch. Line: ~150 yds braid + 3–5 ft fluoro top shot — **8–10 lb for spotties,
-12–15 lb for [halibut](../species/california-halibut.md), 20–30 lb for calicos in
-the kelp** (they dig in and you need to pull them out).
+pinch (`8tTVMOV2arE`). Line: ~150 yds braid + 3–5 ft fluoro top shot — **8–10 lb
+for spotties, 12–15 lb for [halibut](../species/california-halibut.md), 20–30 lb
+for calicos in the kelp** (they dig in and you need to pull them out).
 
 A lighter, lower-line-class product in the same digital/DC-brake-for-backlash
 category: the [Bates EDC 100](tackle-express-bates-edc-100-reel.md) (100 yd
@@ -844,36 +759,32 @@ cushioning, and line-agnostic cases** — the full logic and the rod-tip elevati
 rule are in [trolling](../techniques/trolling.md); per-lure specs live in the lure
 notes.
 
-### A named reel/rod build, and a boat-length top-shot preference (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; `searcher-sportfishing` registered channel — medium confidence, single mention)
+### A named reel/rod build, and a boat-length top-shot preference
 
 - **Reel:** for a dedicated trolling outfit, a bigger, heavier reel with real
   line capacity is the stated need — named examples are a **Penn
   International 30**, an **Accurate 50**, or a **Shimano TLD 30** (an
   International 51-speed and Shimano TLD 30s are among the reels this boat
-  actually runs on its own trolling outfits — product/model picks, low
-  confidence per the sponsored-claim caveat). Not essential to own one: on a
-  **day-and-a-half trip**, a guest doesn't need to bring a dedicated trolling
-  outfit at all — the boat supplies functioning trolling rods, generally
-  already rigged with lures that have been producing, and the crew assigns
-  one when it's an angler's turn on the troll rotation.
+  actually runs on its own trolling outfits, `FXWOIB0TPfE`). Not essential to
+  own one: on a **day-and-a-half trip**, a guest doesn't need to bring a
+  dedicated trolling outfit at all — the boat supplies functioning trolling
+  rods, generally already rigged with lures that have been producing, and
+  the crew assigns one when it's an angler's turn on the troll rotation.
 - **Rod:** a **6 to 6.5 ft** graphite rod with real backbone — a **Seeker
-  700-series** named as the boat's example pick (product/model — low
-  confidence per the sponsored-claim caveat; the presenter deferred the exact
-  confirmed model to "Rick at Seeker" rather than stating it firmly on
-  camera — surname not given).
+  700-series** named as the boat's example pick.
 - **Top-shot length — a stated preference for boat-length mono over a short
   top shot, with a stretch/shock-absorber reasoning:** asked short top shot
   vs. a boat-length section of mono between braid and fluorocarbon, the
   stated preference is the **longer, boat-length top shot** — this boat's own
-  example is roughly **95–100 ft**. Reasoning given: mono's stretch acts as a
-  shock absorber that a short top shot doesn't provide; with a short top shot
-  in breezy, choppy conditions there's effectively no stretch buffer between
-  spectra and fluorocarbon, and a hard hit can pull the hook. A practical
-  side benefit named for running a full spool of top-shot material (his
-  example: winding on a whole **25-yard spool**, i.e. **75 ft**) is fewer
-  retie/connection points to manage through a trip. Framed partly as a
-  personal, experience-based preference — described as liking "a little
-  shock absorber" fighting a bigger, tougher fish as he's "gotten older."
+  example is roughly **95–100 ft** (`FXWOIB0TPfE`). Reasoning given: mono's
+  stretch acts as a shock absorber that a short top shot doesn't provide;
+  with a short top shot in breezy, choppy conditions there's effectively no
+  stretch buffer between spectra and fluorocarbon, and a hard hit can pull
+  the hook. A practical side benefit of running a full spool of top-shot
+  material (winding on a whole **25-yard spool**, i.e. **75 ft**) is fewer
+  retie/connection points to manage through a trip — framed partly as a
+  personal, experience-based preference for "a little shock absorber"
+  fighting a bigger, tougher fish over time (`FXWOIB0TPfE`).
 - **Line class example, an 80/40–60 lb pairing for a Penn 40-class reel:**
   **80 lb spectra/braid** backing, topped with a **40–60 lb monofilament
   top shot**, matched to a same-class fluorocarbon leader (e.g. a 40 lb top
@@ -890,17 +801,22 @@ as this section outgrew the ~120-line guideline: see
 
 ## Spinning-reel live-bait feeder
 
-A dual-drag "live-bait feeder" option on a spinning reel is worth selecting
+A dual-drag *live-bait feeder* option on a spinning reel is worth selecting
 for if live bait fishing is a big part of your program — full mechanism and
 use in [spinning-reel bait feeder](spinning-reel-bait-feeder.md).
 
 ## Resolving a class to a real rod
 
-With no profile, a plan names the **class** ("surface-iron class, 40–60 lb"). With
-a profile it resolves to the owned stick — see
+With no profile, a plan names the **class** (e.g. *surface-iron class, 40–60
+lb*). With a profile it resolves to the owned stick — see
 [Cameron's 8 setups](../profiles/cameron/rods.md), where every rod is tagged with
 its class, braid weight, and role (and every one but the trolling reel has caught
 a bluefin).
+
+## Evidence
+
+Per-source provenance detail (channel, upload dates, registration status, and
+ASR-uncertain reasoning): [evidence file](evidence/rod-and-reel-selection.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -931,6 +847,7 @@ a bluefin).
 - [Evidence — Bluefin Retail Outfit Ladder — High-End vs. Budget](evidence/bluefin-retail-setup-high-end-vs-budget.md)
 - [Evidence — Bluefin Trolling](../species/evidence/bluefin-tuna-trolling.md)
 - [Evidence — Gear Classes](evidence/gear-classes.md)
+- [Evidence — Rod & Reel Selection — by Application](evidence/rod-and-reel-selection.md)
 - [Fast Tip for a Finicky Biter — Dragging/Drifting Light Bait (Tackle Express)](tackle-express-fast-tip-for-finicky-bite-drag-drift.md)
 - [Flyline](../techniques/flyline.md)
 - [Foamer Casting](../techniques/foamer-casting.md)
