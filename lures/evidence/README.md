@@ -9,6 +9,7 @@
 - [Evidence — Jerkbaits (Baja Cabrilla Program)](jerkbaits.md) — Trip reports and per-source provenance backing Jerkbaits (Baja Cabrilla Program).
 - [Evidence — Knife Jigs](knife-jigs.md) — Trip reports and per-source provenance for Knife Jigs.
 - [Evidence — Mad Mac](mad-mac.md) — Trip reports and per-source provenance for Mad Mac.
+- [Evidence — Rapala Husky Magnum](rapala-husky-magnum.md) — Trip reports and per-source provenance backing Rapala Husky Magnum.
 <!-- index:end -->
 
 

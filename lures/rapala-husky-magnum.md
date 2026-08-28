@@ -1,10 +1,15 @@
 ---
 type: lure
-tags: [rapala, husky-magnum, diver, tuna, trolling, offshore, yellowtail, cedros]
+tags: [rapala, husky-magnum, x-rap-magnum, diver, tuna, trolling, offshore, yellowtail, cedros]
 sources: [cameron, FXWOIB0TPfE, T_XpItMhbjM, _C7TJoGT0nw]
 confidence: medium
 regions: [socal-bight, baja-pacific-north]
 waters: [open-ocean, bank, island]
+layout: v2
+lure_class: bibbed diving/swimming trolling minnow — model number = running depth (Husky Magnum / X-Rap Magnum series)
+weights: unknown
+depth_band: 15 ft (HM15) / 25 ft (HM25) at ~33 yd setback; X-Rap Magnum 30 depth not confirmed on camera
+run_speed: to 12 kt, best 6-8 kt (Husky Magnum); X-Rap Magnum 30 speed not stated
 ---
 
 # Rapala Husky Magnum
@@ -12,79 +17,80 @@ waters: [open-ocean, bank, island]
 The Rapala Husky Magnum is a bibbed trolling minnow whose **model number is its
 running depth** at a standard setback — pick the number, get the depth. It's a
 diver/swimmer that fishes the lighter **40–50 lb class** and rides the **low
-gunnel holders**. Covered here are the **HM25** (25 ft) and **HM15** (15 ft).
+gunnel holders**. Covered here are the **HM25** (25 ft), the **HM15** (15 ft),
+and the larger **X-Rap Magnum 30**, a distinct model run in the same trolling
+rotation.
 
-## Running specs
+## Specs
 
-- **Troll speed:** to 12 kt, best 6–8.
-- **Running depth:** model number = running depth at ~33 yd out (**HM25 = 25 ft,
-  HM15 = 15 ft**).
-- **Setback:** ~33 yd (the reference distance the depth rating assumes).
-- **Leader / top-shot:** 40–50 lb.
+| Model | Running depth | Setback | Troll speed | Leader / top-shot |
+| --- | --- | --- | --- | --- |
+| HM15 | 15 ft | ~33 yd | to 12 kt, best 6–8 kt | 40–50 lb |
+| HM25 | 25 ft | ~33 yd | to 12 kt, best 6–8 kt | 40–50 lb |
+
+The model number is the running depth at the ~33 yd setback the rating
+assumes.
+
+A standard (non-Magnum) Rapala X-Rap tops out around 5–6 kt; the Husky
+Magnum holds its action to 12 kt, letting the boat troll roughly twice as
+fast and cover twice the water, and neither the HM15 nor the HM25 rolls or
+washes out at that speed (`T_XpItMhbjM`). Colors carried as of 2016: a
+**Wahoo** pattern and a **Swordfish** pattern (`T_XpItMhbjM`).
+
+## Rapala X-Rap Magnum 30
+
+The X-Rap Magnum 30 is a separate, larger model from the same family, run
+alongside the Husky Magnum in the same offshore trolling rotation
+(`FXWOIB0TPfE`). Its jointed-vs-one-piece profile isn't shown on camera, so
+no construction detail is asserted here (`FXWOIB0TPfE`). Captions render a
+size figure for this model as "9-millimeter" — almost certainly a garbled
+inches measurement, so it is not carried here as a confirmed number
+(`FXWOIB0TPfE`).
+
+Many colors are carried; the mackerel/sardine pattern is named the best
+producer (`FXWOIB0TPfE`). A separate Cedros Island yellowtail trip also
+named the Bonita color as that trip's hot troller — a different data point,
+not reconciled with the mackerel/sardine pick above (`_C7TJoGT0nw`; full
+trip context in [evidence](evidence/rapala-husky-magnum.md)).
+
+Check tracking before the lure goes out: these hardbaits don't always
+swim/track true right out of the package, so check with the crew, who can
+make a minor tuning adjustment, rather than fishing a lure that tangles the
+line every time it's set out (`FXWOIB0TPfE`).
 
 ## How to run it
 
-Choose the model for the depth you want (HM25 for 25 ft, HM15 for 15 ft), let it
-back to ~33 yd, and troll in the 6–8 kt best band on light line (40–50 lb) from a
-**low gunnel holder**. **When** to run a Husky Magnum diver versus a bar, a
-swimmer, or a speed-trolled [Mad Mac](../lures/mad-mac.md) is decided in
-[bluefin trolling](../species/bluefin-tuna-trolling.md); general towing mechanics live
-in [trolling](../techniques/trolling.md).
-
-**Speed advantage over the standard (non-Magnum) X-Rap, and colors (Tackle
-Express, `T_XpItMhbjM`, 2016-08-19; unregistered channel — medium confidence,
-single mention):** the stated reason to reach for a Husky Mag over a standard
-Rapala X-Rap trolling lure is speed range — a standard X-Rap tops out around
-**5–6 kt**, while the Husky Mag holds action up to **12 kt** (consistent with,
-not new beyond, the 12 kt ceiling already logged above), letting the boat troll
-roughly twice as fast and cover twice the water. Both the HM15 and HM25 are
-stated to hold that 12 kt ceiling and, per this source, **won't roll or wash
-out** at speed. **Colors carried as of this video:** a **Wahoo** pattern and a
-new **Swordfish** pattern.
-
-## Rapala X-Rap Magnum 30 — a distinct Rapala model, and a tracking check before it goes out (SearcherSportfishing, Tackle Talk Live, `FXWOIB0TPfE`, 2020-04-08; product/model endorsement — low confidence, sponsored-claim caveat: `searcher-sportfishing` is a registered channel but product/model endorsements stay low per its registry caveat)
-
-Named alongside the Husky Magnum in the same trolling rotation: a **Rapala
-X-Rap Magnum 30** (captions render the leading size figure as "9-millimeter,"
-almost certainly a mis-transcription of a size given in inches —
-asr-uncertain, not carried as a confirmed figure). No construction/profile
-detail (jointed vs. one-piece) is given on camera, so none is asserted here;
-it's logged as a **distinct, separately named model** from the
-straight-swimming Husky Magnum this note otherwise covers, not folded into
-the running-spec table above. Many colors
-and patterns are carried, but the **mackerel/sardine pattern** is named as
-the best producer. **Practical check before it goes out:** these hardbaits
-don't always swim/track true right out of the package — check with the crew,
-who can make a minor tuning adjustment, rather than fishing a lure that
-tangles the line every time it's set out.
-
-**Cedros Island, Baja Pacific — Bonita color as the hot trolling color, plus
-a smaller size as a hand-wind backup (Tackle Express, `_C7TJoGT0nw`, "What
-You ACTUALLY Need for Cedros Fishing Trips | The Gear Vault," 2025-09-26;
-unregistered channel — medium confidence; region: Baja Pacific, Cedros
-Island):** on a 19–33 lb Cedros yellowtail trip logged in [Cedros
-Island](../locations/cedros-island.md), a **Rapala X-Rap Magnum 30 in the
-Bonita color** was named the trip's hot trolling lure — a different color
-data point from, not reconciled with, the mackerel/sardine pattern already
-logged above (single-trip reports, kept side by side). The angler also
-carried a smaller **X-Rap Magnum 20** on a **5:1** gear-ratio troll reel as a
-second-rod backup: on roughly **2 of 5** occasions where the crew hand-wound
-the 20 in after the 30 got bit and was already being fought, the 20 also
-drew a strike on the way in — read as the smaller size still working as a
-following/opportunistic bait once fish are up and schooled, not tested
-head-to-head as a primary choice. **Trolling produces a group hookup at
-Cedros:** in a three-angler panga, when a troll rod goes off, a second angler
-grabs the other troll rod and hand-winds it in (often drawing a second bite,
-per the 20/30 data point above), while the third angler works a stick bait,
-Colt Sniper, or surface iron on the cast — stated as a reliably high-percentage
-play because the hooked-up fish's school stays balled up around the boat, not
-because of any one lure.
+Choose the model for the depth wanted (HM25 for 25 ft, HM15 for 15 ft), let
+it back to ~33 yd, and troll the 6–8 kt best band on 40–50 lb line from a
+**low gunnel holder**. Deciding between a Husky Magnum diver, a bar, a
+swimmer, or a speed-trolled [Mad Mac](mad-mac.md) is a [bluefin
+trolling](../species/bluefin-tuna-trolling.md) call; general towing
+mechanics (spread geometry, setback, holder elevation) live in
+[trolling](../techniques/trolling.md).
 
 ## Owned examples
 
-Profiles link the subset an angler owns. Cameron's two HM25s and one HM15, plus
-their rod/holder pairing (diver duty out of the TLD 20), are in
+Profiles link the subset an angler owns. Cameron's two HM25s and one HM15,
+plus their rod/holder pairing (diver duty out of the TLD 20), are in
 [Cameron's trolling lures](../profiles/cameron/trolling-lures.md).
+
+## When to choose it
+
+- Targeting a specific running depth in the spread (15 ft vs. 25 ft) rather
+  than a speed-trolled search lure: run the Husky Magnum instead of the
+  [Mad Mac](mad-mac.md) — see [bluefin
+  trolling](../species/bluefin-tuna-trolling.md).
+- Need to cover more water than a standard X-Rap allows (up to 12 kt vs.
+  ~5–6 kt): reach for the Husky Magnum / X-Rap Magnum line over the
+  standard X-Rap (`T_XpItMhbjM`).
+- Cedros Island yellowtail trolling rotation, plus a hand-wound backup rod:
+  see [Cedros Island](../locations/cedros-island.md) and
+  [evidence](evidence/rapala-husky-magnum.md) for the group-hookup play.
+
+## Evidence
+
+Trip reports and per-source provenance: [evidence
+file](evidence/rapala-husky-magnum.md).
 
 <!-- backlinks:start -->
 ## Linked from
@@ -93,4 +99,5 @@ their rod/holder pairing (diver duty out of the TLD 20), are in
 - [Bluefin Tuna — trolling](../species/bluefin-tuna-trolling.md)
 - [Cameron's Trolling Lures (owned)](../profiles/cameron/trolling-lures.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
+- [Evidence — Rapala Husky Magnum](evidence/rapala-husky-magnum.md)
 <!-- backlinks:end -->

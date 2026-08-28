@@ -94,7 +94,7 @@ by their builders after the transform phase drains.
 | lures/knife-jigs.md | standard | transformed | misplaced(1), spots(3) | transform verified with fixes: restored 6 dropped facts/quotes + 3 dropped cross-links, removed 1 fabricated detail, added 1 missing front-matter source id |
 | lures/lucky-craft-flash-minnow.md | standard | transformed | asr-uncertain(color-pattern count) | transform verified, one conserved-fact fix applied (Japan/California tackle contrast restored) |
 | lures/mad-mac.md | standard | transformed | spots(1), asr-uncertain(reel model caption) | transform verified faithful — specs/observations conserved via new evidence split, contested speed-band conflict kept attributed, all cites spot-checked against source transcripts |
-| lures/rapala-husky-magnum.md | standard | pending |  |  |
+| lures/rapala-husky-magnum.md | standard | transformed | none outstanding | transform applied, one flag-grammar fix made by verifier |
 | lures/soft-plastic-swimbaits.md | standard | pending |  |  |
 | lures/spreader-bar.md | standard | pending |  |  |
 | lures/tube-baits.md | standard | pending |  |  |
