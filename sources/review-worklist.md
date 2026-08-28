@@ -825,4 +825,5 @@ by their builders after the transform phase drains.
 | locations/dono-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/newport-harbor.md | gazetteer | pending |  | harvest: 1 mention(s) |
 | locations/cedros-island-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
+| locations/ensenada-baja.md | gazetteer | pending |  | harvest: 1 mention(s) |
 <!-- review:worklist:end -->

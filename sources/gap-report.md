@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2227 flagged gaps, 347 flagged stubs, 1032 unknown infobox values._
+_Totals: 2228 flagged gaps, 347 flagged stubs, 1037 unknown infobox values._
 
 ## species/
 
@@ -410,6 +410,16 @@ _Totals: 2227 flagged gaps, 347 flagged stubs, 1032 unknown infobox values._
   - infobox `run_speed`: unknown
 - **lures/jerkbaits.md**
   - `Specs`: gap — exact micro-profile jerkbait model names
+  - infobox `weights`: unknown
+- **lures/lucky-craft-flash-minnow.md**
+  - infobox `weights`: unknown
+  - infobox `run_speed`: unknown
+- **lures/mad-mac.md**
+  - infobox `weights`: unknown
+- **lures/rapala-husky-magnum.md**
+  - infobox `weights`: unknown
+- **lures/tuna-feathers-and-skirts.md**
+  - `Specs`: gap — Zuker Zucchini running depth, setback,
   - infobox `weights`: unknown
 
 ## locations/
