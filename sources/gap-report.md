@@ -6,7 +6,7 @@ tree. Corpus-only rule (sources/plan-review.md): a gap is filled by finding a
 source, never by invention.
 
 <!-- review:gaps:start -->
-_Totals: 2230 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
+_Totals: 2231 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
 
 ## species/
 
@@ -433,6 +433,8 @@ _Totals: 2230 flagged gaps, 347 flagged stubs, 1041 unknown infobox values._
 - **rigging/dropper-loop-knot-and-spider-hitch.md**
   - infobox `line_class`: unknown
   - infobox `hook_sizes`: unknown
+- **rigging/leadhead-mods.md**
+  - `Parameters`: gap
 
 ## locations/
 
