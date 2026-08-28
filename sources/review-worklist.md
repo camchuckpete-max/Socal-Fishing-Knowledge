@@ -132,7 +132,7 @@ by their builders after the transform phase drains.
 | rigging/wind-on-leader.md | standard | transformed | none | transform verified faithful - plain-statement rewrite, v2 infobox added, all cites and parameters conserved, quotes verified against source transcripts |
 | rigging/wiring-a-surface-iron.md | standard | transformed | gaps(1) | transform verified, one meaning-drift fix applied (candy-bar exclusivity degree restored) |
 | conditions/bird-reading.md | standard | transformed | gaps(1), spots(4) | transform applied with 2 conservation fixes (restored dropped Cameron facts: cormorant prior-view, shearwater model-gap); mis-citation on bird radar correctly repaired to HWx1jDTGsng |
-| conditions/current-diagnostics.md | standard | pending |  |  |
+| conditions/current-diagnostics.md | standard | transformed | none | transform verified faithful - attribution preambles moved to new evidence.md pair, single-trip Cabo observation demoted intact, 4-source spot-check clean, check-note.py 0 warnings |
 | conditions/current-structure.md | standard | pending |  |  |
 | conditions/deep-scattering-layer.md | standard | pending |  |  |
 | conditions/kelp-paddies.md | standard | pending |  |  |

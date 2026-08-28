@@ -5,7 +5,7 @@
 ## Index
 
 - [Bird Reading](bird-reading.md) — Birds are the fastest long-range fish detector on the water — a working flock is visible for miles, well before sonar or surface commotion confirms fish.
-- [Current Diagnostics](current-diagnostics.md) — This is the observables note: how to read current strength and direction off things you can actually see on the water, so you can pick and adjust presentation i
+- [Current Diagnostics](current-diagnostics.md) — This note reads current strength and direction off things visible on the water — kelp lean, chum drift, anchor-line angle, bite pattern — and turns that read in
 - [Current Structure](current-structure.md) — This is the mechanism note: how moving water plus bottom structure builds a food chain, and where on a bank or island that chain concentrates.
 - [Deep Scattering Layer](deep-scattering-layer.md) — The deep scattering layer (DSL) is a dense band of small organisms — hake, small rockfish, squid, myctophids, zooplankton — that sits 600+ ft down by day and ri
 - [Kelp Paddies](kelp-paddies.md) — Drifting kelp paddies are floating structure — they hold bait, shade, and gamefish (yellowtail, dorado, paddy bluefin, tripletail, bycatch) out over open water.

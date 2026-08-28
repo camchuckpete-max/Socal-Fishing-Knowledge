@@ -333,6 +333,7 @@ become primary).
 - [E. Butterfly / San Salvador Knoll](../locations/e-butterfly-san-salvador-knoll.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — 289 / 284](../locations/evidence/289-284.md)
+- [Evidence — Current Diagnostics](evidence/current-diagnostics.md)
 - [Evidence — La Jolla](../locations/evidence/la-jolla.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
