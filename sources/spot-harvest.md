@@ -380,4 +380,5 @@ harvested.
 | Bahía de los Ángeles (BOLA) | lures/knife-jigs.md | Weight by program | single-trip 130-250 g wing-fall jig weight range for bottom yellowtail at 150-180 ft | `vqsD0qpwcJA` |
 | Point Loma | lures/knife-jigs.md | Color | contested glow-vs-confidence bluefin color debate framed against a 315 lb bluefin taken 59 mi off Point Loma | `0E9REoTjKrY` |
 | Cortez Bank | lures/knife-jigs.md | Color | pre-trip tackle briefing color pick ("white with polka dots") for a Constitution charter | `UfuiWFVvz2E` |
+| Ensenada | lures/mad-mac.md | evidence — Specs | Baja Blue Fin Tuna Tournament grounds where a two-Mad-Mac search spread was run with staggered, count-based setbacks | `U1AgwmlY5bI` |
 <!-- review:harvest:end -->
