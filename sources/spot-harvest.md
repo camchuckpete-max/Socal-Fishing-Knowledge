@@ -377,4 +377,5 @@ harvested.
 | Guadalupe | techniques/yo-yo-iron.md | Jig size & depth | named as one of the "real deep" yo-yo grounds calling for a 7X-heavy iron | `hteLeDIy9Qs` |
 | Alijos Rocks | lures/dtx-minnow.md | Wahoo trolling application (DTX 200) | two DTX sizes recommended as wahoo trolling lures for any long-range trip | `it_YYh_8Z-w` |
 | The Ridge | lures/dtx-minnow.md | Wahoo trolling application (DTX 200) | named alongside Alijos Rocks as a long-range DTX wahoo trolling ground | `it_YYh_8Z-w` |
+| Cedros Island | lures/iron-jigs.md | Named models — Colt Sniper | a 100-size Colt Sniper was fished more than dedicated yo-yo jigs on a 19-33 lb Cedros yellowtail trip for its dual-mode (swim-or-yo-yo) versatility | `_C7TJoGT0nw` |
 <!-- review:harvest:end -->

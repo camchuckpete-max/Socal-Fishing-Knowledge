@@ -157,7 +157,7 @@ source's practice is to not fish the stock treble at all on a sport boat.
   theme (Tackle Express, treble hooks), different point in the trip. It is
   also a separate axis from the treble-vs-single-by-species effectiveness
   doctrine logged in [iron jigs — hook style: assist vs.
-  treble](../lures/iron-jigs.md#hook-style--assist-vs-treble), which weighs
+  treble](../lures/iron-jigs.md#hooks--assist-vs-treble), which weighs
   swim action and hookup rate, not deck safety.
 
 ## Measuring a fish you may release
