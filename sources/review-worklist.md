@@ -65,7 +65,7 @@ by their builders after the transform phase drains.
 | techniques/rockfish-deep-dropping.md | standard | transformed | asr-uncertain(SoCal depth range, sinker oz rendering, bait product name) | restructured to v2 skeleton, consolidated sinker-weight table; verifier fixed systemic mis-citation of ~16 claims to correct source transcripts, one fabricated depth-weight pairing, restored 2 dropped cross-links |
 | techniques/rod-handling-live-bait.md | standard | transformed | asr-uncertain(backpedal hand/arm motion gestured on camera) | migrated to v2 skeleton, attribution moved to evidence file, cites added; verifier confirmed 3/3 transcript spot-checks, regenerated backlinks |
 | techniques/skip-jigging.md | standard | transformed | gap(skip-jigging reel/rod-action/line-class), gap(common failures) | migrated to v2 skeleton, added Gear class + Common failures, dissolved source-named heading, plain-statement rewrite; verifier confirmed 3 transcript spot-checks, regenerated backlinks |
-| techniques/sliding-sinker.md | standard | pending |  |  |
+| techniques/sliding-sinker.md | standard | transformed | spinout(3), asr-uncertain(TLC jig name, Jobu hook oz-vs-aught mishearing), spots(5) | restructured to v2 skeleton, evidence split, 3 spinouts + 5 spots queued; verifier fixed one meaning-drift (personal snelling limitation hardened into general fact) |
 | techniques/slow-pitch-jigging.md | standard | pending |  |  |
 | techniques/slow-trolling-bait.md | standard | pending |  |  |
 | techniques/speed-trolling.md | standard | pending |  |  |

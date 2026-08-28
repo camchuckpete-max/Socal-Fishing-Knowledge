@@ -415,6 +415,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Evidence — Ensenada](../locations/evidence/ensenada.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
+- [Evidence — Sliding Sinker](../techniques/evidence/sliding-sinker.md)
 - [Evidence — White Seabass](evidence/white-seabass.md)
 - [Evidence — Yellowfin Tuna](evidence/yellowfin-tuna.md)
 - [Evidence — Yellowtail](evidence/yellowtail.md)

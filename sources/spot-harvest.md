@@ -337,4 +337,9 @@ harvested.
 | Cortez Bank | techniques/knife-jigging.md | evidence — Mechanics | night bluefin jig-positioning briefing — cast down-swell so the jig settles ~200–250 ft under the boat, vertical | `UfuiWFVvz2E` |
 | Cortez Bank / Tanner Bank | techniques/knife-jigging.md | evidence — Depth control & jig calling | windy, hard-drifting night stepped jig weight up from a standard 250–350 g to 500 g to hold the zone | `LsFMBCa9DOQ` |
 | Port of Long Beach | techniques/night-bass-fishing.md | Structure: fish the lit water in a harbor at night | named as the example of an artificially lit harbor zone (oil-terminal island spreader lights, warehouse lights) that pulls bait and bass into the shallows at night | `XyKF34C5iB4` |
+| Cedros Island | techniques/sliding-sinker.md | evidence — Yellowtail — Cedros / San Benito / SoCal islands | 1/2 oz egg sliding-sinker (Carolina rig), called out as "something different," landed a yellowtail | `d0yGBQDeY_4` |
+| San Benito Island | techniques/sliding-sinker.md | evidence — Yellowtail — Cedros / San Benito / SoCal islands | half-oz sliding sinker with a nose-hooked sardine worked suspended yellowtail | `ilINTeknKB4` |
+| San Clemente Island | techniques/sliding-sinker.md | evidence — Yellowtail — Cedros / San Benito / SoCal islands | 1/4 oz sliding sinker to a No. 2 hook on live squid, one of two producing rigs that morning | `zQtExV8Z2eY` |
+| Catalina Island (front side) | techniques/sliding-sinker.md | evidence — Yellowtail — Cedros / San Benito / SoCal islands | size 4 hook on a ~1/4 oz slider called "perfect for squid," produced multiple yellowtail | `MUpvP-Yl2R0` |
+| Lopez Mateos / Magdalena Bay | techniques/sliding-sinker.md | Baja Pacific grouper & snook leader — Lopez Mateos | mandatory 4/0 two-speed Carolina-rig build for grouper and snook on this mark | `EcQK5elTPJE` |
 <!-- review:harvest:end -->
