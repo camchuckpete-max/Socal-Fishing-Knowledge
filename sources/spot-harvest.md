@@ -552,4 +552,8 @@ harvested.
 | The 14 | locations/zone-lexicon.md | Structure & bathymetry | distance-naming exception, sitting 14 miles off the beach | `Rf1HKJG-SDg` |
 | East 400 / West 400 | locations/zone-lexicon.md | Structure & bathymetry | both Baja offshore, roughly 44 km apart east–west at the same latitude; landmass-prefix rule can't separate them, so named directionally instead | (cameron) |
 | The Slide (Catalina front-side shoreline / offshore bank ~6 km apart) | locations/zone-lexicon.md | Structure & bathymetry | unresolved name collision — both closest to Catalina, so the landmass-prefix rule can't separate them; open item, awaiting Cameron | (cameron) |
+| Mission Bay | planning/electronics-and-sounder.md | SST and wind overlay for finding the break, and reading calmer water | SST overlay run from the harbor to open water: 69°F near the boat, breaking to 71°F at ~7 nm and 72°F by ~12–13 nm | `uyjTdgIw-1k` |
+| 14 Mile Bank | planning/electronics-and-sounder.md | SST and wind overlay for finding the break, and reading calmer water | chartplotter SST overlay read 66–67°F on the bank, climbing to 68°F just off it | `-bw1KDfDjv4` |
+| San Benito Island | planning/electronics-and-sounder.md | Anchor vs. drift call off a live sounder read | surface-iron yellowtail bite went quiet at anchor while fish still marked on the sounder; drifting over the marks brought the bite back | `97clKtVsEOs` |
+| Cedros Island | planning/electronics-and-sounder.md | Radar for fog navigation (Baja) | yellowtail grounds run in zero-visibility fog 5–6 months a year, navigated on radar alone | `d0yGBQDeY_4` |
 <!-- review:harvest:end -->

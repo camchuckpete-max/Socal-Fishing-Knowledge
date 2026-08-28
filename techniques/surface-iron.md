@@ -488,7 +488,6 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Cortez South](../locations/cortez-south.md)
 - [Crocodile-Style Metal Spoons — Major Craft JP Standard & JP Micro](../lures/crocodile-spoons.md)
 - [Dorado (Mahi-Mahi)](../species/dorado.md)
-- [Electronics and Sounder](../planning/electronics-and-sounder.md)
 - [Ensenada](../locations/ensenada.md)
 - [Evidence — Bluefin Tuna](../species/evidence/bluefin-tuna.md)
 - [Evidence — Calico Bass (Kelp Bass)](../species/evidence/calico-bass.md)

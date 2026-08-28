@@ -413,6 +413,7 @@ Trip reports and per-source provenance: [evidence file](evidence/yellowtail.md).
 - [Evidence — Calico Bass (Kelp Bass)](evidence/calico-bass.md)
 - [Evidence — California Halibut](evidence/california-halibut.md)
 - [Evidence — Dorado (Mahi-Mahi)](evidence/dorado.md)
+- [Evidence — Electronics and Sounder](../planning/evidence/electronics-and-sounder.md)
 - [Evidence — Ensenada](../locations/evidence/ensenada.md)
 - [Evidence — Pacific Bonito](evidence/bonito.md)
 - [Evidence — Rockfish & Lingcod](evidence/rockfish-lingcod.md)
