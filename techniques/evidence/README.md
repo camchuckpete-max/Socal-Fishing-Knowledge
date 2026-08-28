@@ -21,6 +21,7 @@
 - [Evidence — Mangrove Structure Livebait](mangrove-structure-livebait.md) — Per-source provenance backing mangrove structure livebait.
 - [Evidence — Night Bass Fishing](night-bass-fishing.md) — Per-source provenance backing night bass fishing.
 - [Evidence — Rail Etiquette](rail-etiquette.md) — Per-source provenance backing rail etiquette.
+- [Evidence — Rockfish Deep-Dropping](rockfish-deep-dropping.md) — Per-source provenance backing rockfish deep-dropping.
 - [Evidence — Surface Iron](surface-iron.md) — Trip reports and per-source provenance backing surface iron.
 <!-- index:end -->
 

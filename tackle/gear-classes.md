@@ -330,6 +330,7 @@ does the lookup.
 - [Rail Etiquette — Know Your Neighbors, Communicate Through Tangles](../techniques/rail-etiquette.md)
 - [Regions & Waters — the gating vocabulary](../locations/regions.md)
 - [Rockfish & Lingcod](../species/rockfish-lingcod.md)
+- [Rockfish Deep-Dropping](../techniques/rockfish-deep-dropping.md)
 - [Rod & Reel Selection — by Application](rod-and-reel-selection.md)
 - [San Diego Artificial Reefs](../locations/san-diego-artificial-reefs.md)
 - [San Nicolas Island](../locations/san-nicolas-island.md)
