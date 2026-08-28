@@ -199,6 +199,7 @@ Trip reports and per-source provenance: [evidence file](evidence/kelp-paddies.md
 - [Evidence — Moon](evidence/moon.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Fishing Live Bait](../bait/fishing-live-bait.md)
+- [Fleet Intelligence](../planning/fleet-intelligence.md)
 - [Hancock Bank](../locations/hancock-bank.md)
 - [Hidden Reef / 170](../locations/hidden-reef-170.md)
 - [Hooks — Style, Size, and Matching to Bait](../tackle/hooks.md)

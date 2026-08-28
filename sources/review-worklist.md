@@ -170,7 +170,7 @@ by their builders after the transform phase drains.
 | locations/zone-lexicon.md | standard | transformed | gaps(3), spots(7), asr-uncertain(1) | transform verified faithful, zero information loss, mechanically clean; escalated (repeat of open bass-structure.md taxonomy question) |
 | planning/day-plan-protocol.md | light | done | none | added layout:v2 + missing (cameron) cite on the SST-outlier doctrine sentence, no content changed |
 | planning/electronics-and-sounder.md | light | done | spots(4) | layout v2 migration: attribution/date/confidence chatter moved to evidence file, plain-statement rewrite, conservation gap fixed by verifier (restored dropped ice-bag quote), 4 spot-harvest rows added |
-| planning/fleet-intelligence.md | light | pending |  |  |
+| planning/fleet-intelligence.md | light | done | spots(3) | layout v2 migration, evidence split, plain-statement rewrite; verifier restored 3 conserved details (binoculars anecdote, 'number one mistake' framing, Everingham name) |
 | planning/report-reading-and-forecasting.md | light | pending |  |  |
 | planning/search-and-glassing.md | light | pending |  |  |
 | planning/trip-length-selection.md | light | pending |  |  |

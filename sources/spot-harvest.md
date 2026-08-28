@@ -556,4 +556,7 @@ harvested.
 | 14 Mile Bank | planning/electronics-and-sounder.md | SST and wind overlay for finding the break, and reading calmer water | chartplotter SST overlay read 66–67°F on the bank, climbing to 68°F just off it | `-bw1KDfDjv4` |
 | San Benito Island | planning/electronics-and-sounder.md | Anchor vs. drift call off a live sounder read | surface-iron yellowtail bite went quiet at anchor while fish still marked on the sounder; drifting over the marks brought the bite back | `97clKtVsEOs` |
 | Cedros Island | planning/electronics-and-sounder.md | Radar for fog navigation (Baja) | yellowtail grounds run in zero-visibility fog 5–6 months a year, navigated on radar alone | `d0yGBQDeY_4` |
+| The dump (Doheny) | planning/fleet-intelligence.md | Radio misinformation | named as the fabricated hot-bite location repeated on ch 72 then ch 65 to shake a shadowing boat | `8XrMkWPRxgs` |
+| 14 Mile Bank / 209 / 267 complex | planning/fleet-intelligence.md | Fleet position as a data layer | a radar search run here spotted a boat parked on a kelp paddy before that boat noticed the approach | `-bw1KDfDjv4` |
+| Coronado Islands | planning/fleet-intelligence.md | Fleet position as a data layer | AIS stop/start pattern tracking (e.g. the Grande, MMSI 366746210) as a data source for learning the islands | cameron |
 <!-- review:harvest:end -->
