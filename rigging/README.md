@@ -29,7 +29,7 @@
 - [Slim Beauty Knot — Spectra-to-Topshot Splice](slim-beauty-knot.md) **[SoCal only]** — A tapered connection knot joining spectra main line to a monofilament or fluorocarbon top shot, named on camera the "modified slim beauty knot" (IaVqJgUfcM8) an
 - [Springer Knot — Heavy-Line Hook Tie](springer-knot.md) **[SoCal only]** — A named terminal knot for tying a hook onto heavier line, demonstrated in two clips of the *Searcher*'s Tackle Tip Thursday series (Bo5Fj-XuWHo, VW2t_G8eorI) —
 - [Surgeon's Knot — Mono-to-Fluorocarbon Leader Connection](surgeons-knot-mono-to-fluoro.md) **[SoCal only]** — A doubled/multi-turn overhand connection knot joining a monofilament main line or top shot to a fluorocarbon leader — an attributed alternative to the Seaguar k
-- [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A large loop tied into doubled heavy mono/leader material at the end of the main line, sized to give a long-range angler a stable connection point that differen
+- [Surgeon's Loop (Giant Yellowtail, Long-Range)](surgeons-loop.md) **[Baja only]** — A surgeon's-knot loop tied into doubled heavy monofilament at the working end of the main line, sized as a stable attachment point that different terminal knots
 - [Tony Pena Knot — Mono-to-Spectra Splice](tony-pena-knot.md) **[SoCal only]** — A heavy-wrap connection knot for splicing monofilament to spectra (braid), demonstrated by Capt.
 - [Trap Rig](trap-rig.md) — A two-hook live-bait rig for halibut: a J hook up front with an additional stinger hook trailing behind.
 - [Tuna Feather Rig](tuna-feather-rig.md) **[SoCal only]** — Rigging a tuna feather — a West Coast trolling staple.
