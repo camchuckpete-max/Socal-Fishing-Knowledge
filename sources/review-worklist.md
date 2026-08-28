@@ -193,7 +193,7 @@ by their builders after the transform phase drains.
 | tackle/jig-rod-rating-selection.md | light | done | none | restructured to LIGHT-tier skeleton, provenance split to evidence file, plain-statement rewrite, 2 dead anchors fixed; verifier removed 1 banned self-narration phrase, all facts conserved |
 | tackle/jigging-rod-guide-wrap.md | light | done | none | migrated to layout v2, stripped attribution-preamble/confidence chatter to compact cites, kept contested-doctrine names per exception; verified faithful, no information loss |
 | tackle/lightweight-reel-pick-turners-outdoorsman.md | light | done | none | migrated to layout v2, presenter/channel provenance split to evidence file, plain-statement rewrite; verified faithful, link-maintenance re-run for backlinks |
-| tackle/line-and-leader.md | light | pending |  |  |
+| tackle/line-and-leader.md | light | done | spots(7), asr-uncertain(panelist-surname, illegible-knot-name) | LIGHT-tier v2 migration, attribution/confidence to evidence file, 2 observation blocks split; verifier restored 5 sources' dropped provenance in evidence file |
 | tackle/offset-hooks.md | light | pending |  |  |
 | tackle/reel-maintenance.md | light | pending |  |  |
 | tackle/rod-action-testing-technique.md | light | pending |  |  |

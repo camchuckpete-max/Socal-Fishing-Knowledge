@@ -14,6 +14,7 @@
 - [Evidence — Hooks](hooks.md) — Trip reports and per-source provenance for hooks: channel identity, registration status, sponsor/promotional caveats, single-mention flags, ASR-uncertain readin
 - [Evidence — Jig-Rated Rods — Buy Toward the Top of the Rating, Not the Middle](jig-rod-rating-selection.md) — Per-source provenance for jig-rated rods — buy toward the top of the rating: channel status, upload dates, and the source-identification finding the main note's
 - [Evidence — Lightweight All-Day Reel Pick — Accurate Valiant Superlight, 500 Narrow](lightweight-reel-pick-turners-outdoorsman.md) — Per-source provenance for lightweight all-day reel pick — Accurate Valiant Superlight, 500 Narrow.
+- [Evidence — Line & Leader](line-and-leader.md) — Per-source provenance (channel status, dates, presenter identity, ASR caveats) and the on-the-water trip observations for line & leader.
 <!-- index:end -->
 
 

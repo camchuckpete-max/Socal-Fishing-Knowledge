@@ -576,4 +576,11 @@ harvested.
 | Cedros Island | tackle/hooks.md | Owner ST-66 — Cedros yellowtail bait-hook upgrade | angler swapped stock hooks for Owner ST-66's on a hot yellowtail bite, to avoid a hook failing under volume | `9kGpcEHqIUc`, `_C7TJoGT0nw`, `rd2Ia8HRbSg` |
 | Cedros Island | tackle/hooks.md | Owner ringed offshore hook — Cedros mackerel/sardine slow-troll sizing | Owner ringed offshore hooks carried in 1/0, 3/0, 5/0 to match bait size up to 15 in mackerel | `_C7TJoGT0nw`, `qHS-ewTQs9Q` |
 | Lighthouse Point beach (East Cape, BCS) | tackle/hooks.md | evidence — Circle vs. J core decision | surf-cast circle-hook roosterfish bait fishing, 10-count-before-winding coaching, two sessions | `mL4Ph7t0WcQ`, `mG8ZZLFGlT8` |
+| Cedros Island | tackle/line-and-leader.md | Line ↔ leader matching | resident 40+ lb yellowtail sets a trip line-class floor of 40 lb, 50 lb covers most everything | `WE643Fue1_A` |
+| Cedros Island | tackle/line-and-leader.md | Line ↔ leader matching | a separate trip ran 80–100 lb line class as standing gear over shallow rock (28–30 ft) | `QSmE3mdEL28` |
+| Gonzaga Bay (Sea of Cortez, Baja) | tackle/line-and-leader.md | Line ↔ leader matching | wire leader on 65 lb spectra for cabrilla/pargo tight to rock structure, fish reportedly to 15+ lb | `_Wb4z4ammoM` |
+| Gonzaga Bay (Sea of Cortez, Baja) | tackle/line-and-leader.md | Line ↔ leader matching | grouper dropped on wire leader from ~80–90 ft, drag locked, expecting break-offs | `A6s-A1NARuA` |
+| Palos Verdes | tackle/line-and-leader.md | Trophy calico bass tackle | outside kelp edge raises the odds of losing a big fish on 30 lb line vs. fishing inside the kelp | `ZoIzpyyS9xw` |
+| Alijos Rocks / "The Ridge" | tackle/line-and-leader.md | Connections | 7-day trip terminal tackle: match the leader to the running line or step one size above (40 lb mono / 50 lb fluoro worked example) | `uWGGeDOprsE` |
+| Santa Barbara Island | tackle/evidence/line-and-leader.md | When mono top shot | tournament calico angler fished straight 25 lb Maxima Ultragreen mono, no leader | `PKf7G3uL4io` |
 <!-- review:harvest:end -->

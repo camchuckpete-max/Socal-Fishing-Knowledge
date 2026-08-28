@@ -494,6 +494,7 @@ Trip reports and per-source provenance: [evidence file](evidence/surface-iron.md
 - [Evidence — California Barracuda](../species/evidence/barracuda.md)
 - [Evidence — Cedros / San Benitos](../locations/evidence/cedros-island.md)
 - [Evidence — Imperial Beach](../locations/evidence/imperial-beach.md)
+- [Evidence — Line & Leader](../tackle/evidence/line-and-leader.md)
 - [Evidence — North 9 Mile Bank / 178](../locations/evidence/north-9-mile-bank-178.md)
 - [Evidence — Oceanside / North County](../locations/evidence/oceanside-north-county.md)
 - [Evidence — Point Loma](../locations/evidence/point-loma.md)
