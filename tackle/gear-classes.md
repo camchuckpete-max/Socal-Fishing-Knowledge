@@ -383,6 +383,7 @@ does the lookup.
 - [Wacky Rig — Reading the Bite in a Slack Line](../techniques/wacky-rig.md)
 - [Wahoo](../species/wahoo.md)
 - [Wahoo Bomb & Raider Jig — Cast-and-Burn](../techniques/wahoo-bomb-casting.md)
+- [Wahoo Trolling — Speed, Leader, and Fight Mechanics](../techniques/wahoo-trolling.md)
 - [White Seabass](../species/white-seabass.md)
 - [Yellowfin Tuna](../species/yellowfin-tuna.md)
 - [Yellowtail](../species/yellowtail.md)

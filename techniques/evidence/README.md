@@ -35,11 +35,12 @@
 - [Evidence — Two-Speed Reel Technique](two-speed-low-gear-fight.md) — Per-source provenance backing two-speed reel technique — low-gear grind vs.
 - [Evidence — Underhand Casting](underhand-casting.md) — Per-source provenance backing underhand casting.
 - [Evidence — Wacky Rig](wacky-rig.md) — Per-source provenance backing wacky rig.
+- [Evidence — Wahoo Trolling — Speed, Leader, and Fight Mechanics](wahoo-trolling.md) — Trip reports and per-source provenance backing wahoo trolling.
 <!-- index:end -->
 
 
 <!-- mermaid:start -->
 ## Map
 
-_Map skipped: 31 notes exceed the 30-node cap._
+_Map skipped: 32 notes exceed the 30-node cap._
 <!-- mermaid:end -->

@@ -366,4 +366,6 @@ harvested.
 | Alijos Rocks | techniques/wahoo-bomb-casting.md | Mechanics | seven-day-and-longer trips reaching Alijos Rocks or "the Ridge" retrieve the bomb at the absolute highest rate of speed possible | `ETw_3AFxEcM` |
 | The Ridge | techniques/wahoo-bomb-casting.md | Mechanics | named alongside Alijos Rocks as the seven-day-and-longer destination for the wahoo-bomb retrieve-speed rule | `ETw_3AFxEcM` |
 | Alijos Rocks | techniques/wahoo-bomb-casting.md | evidence — Mechanics | wire-leadered Raider-class jig cast during a dorado boil and apparent hookup(s); gear corroboration only, not a confirmed wahoo catch | `_f5QmWSUUx8` |
+| Alijos Rocks | techniques/wahoo-trolling.md | Reach for this when | dedicated wahoo stop where the trolling spread gets started to "get the lay of the land" before switching to cast or live-bait presentations | `4uNPLknRAQg` |
+| The Ridge | techniques/wahoo-trolling.md | Reach for this when | named alongside Alijos Rocks as a dedicated wahoo stop for starting the trolling spread | `4uNPLknRAQg` |
 <!-- review:harvest:end -->
