@@ -481,4 +481,6 @@ harvested.
 | Cortez Bank | seasonal/october.md | The warm band tracks and condenses | as the coast cools and fragments, October bluefin condense outward to Cortez | `OYOda6T3f-8` |
 | Santa Barbara Island / "Nick" (San Nicolas) / San Clemente / Catalina — the "square" | seasonal/september.md | The volume square holds the bigger bluefin | September volume square, weighted for the bigger bluefin | `5to3Q5P7w90` |
 | Bahía de los Ángeles (BOLA) | seasonal/september.md | Baja / BOLA — yellowtail hold on the bottom | September yellowtail sit on the bottom, worked with dropper loops and yo-yo iron | cameron |
+| Dana Point | bait/bait-tanks.md | Loading — how much bait | sportboat fleet leaves ~6am, forming a private-boat barge line; arrive by 5:00 (or 4:30) a.m. to beat it | `ztpj1Xll0-U` |
+| Catalina Island | bait/bait-tanks.md | Underway | 2.5-hour run example where a sealed lid hides a dead bait pump until arrival | `L_FD-UzvEio` |
 <!-- review:harvest:end -->
